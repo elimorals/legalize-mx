@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2015-01-30"
+last_updated: "2015-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2015.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -191,17 +191,17 @@ Son obligaciones del ciudadano del Estado, además de las anteriores:
 
 I. Inscribirse en los padrones municipales de la jurisdicción a que pertenezcan.
 
-II. Votar en las elecciones populares en el Distrito Electoral a que corresponda.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2015)</small>
+
+II. Votar en las elecciones populares y participar en los mecanismos previstos en esta Constitución relativos a la participación ciudadana, que sean convocados en los términos de la misma y sus leyes reglamentarias.
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
 
 III. Desempeñar las funciones electorales y los cargos de elección popular y los de jurado, en los términos que fijen las leyes respectivas.
 
-> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 2003)</small>
+IV. (DEROGADA, P.O. 1 DE JUNIO DE 2015)
 
-IV. Participar en los procesos de referéndum y de plebiscito a que se convoque en los términos de esta Constitución y sus leyes reglamentarias.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE JUNIO DE 2015)</small>
 
 ###### Art. 10.
 
@@ -211,17 +211,15 @@ Son derechos del ciudadano sinaloense:
 
 I. Votar en las elecciones populares, siempre que estén en pleno ejercicio de sus derechos.
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2015)</small>
 
-> <small>N. DE E. DEL ANÁLISIS DE LA PROPIA REFORMA, SE ADVIERTE QUE SE DEROGARON LAS LETRAS A Y B, QUE EXISTÍAN EN EL TEXTO ANTERIOR.</small>
-
-II. Poder ser votado para todos los cargos de elección popular, teniendo las calidades que establezca la ley. Para ejercer dicho derecho ante la autoridad electoral competente, el ciudadano sinaloense podrá hacerlo a través de la solicitud de registro de un partido político o de manera independiente siempre que cumpla con los requisitos, condiciones y términos que determine la legislación, sin los cuales toda elección será nula.
+II. Poder ser votado para todos los cargos de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la ley de la materia.
 
 III. Ser preferido en igualdad de circunstancias, a los que no sean ciudadanos sinaloenses en toda clase de empleos, cargos, comisiones y concesiones del Gobierno del Estado y Municipios.
 
-> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2015)</small>
 
-IV. Iniciar leyes ante el Congreso del Estado y participar en los procesos de referéndum y de plebiscito a que se convoque en los términos de esta Constitución y sus leyes reglamentarias.
+IV. Iniciar leyes ante el Congreso del Estado y participar en los mecanismos previstos en esta Constitución relativos a la participación ciudadana a que se convoque en los términos de esta Constitución y la ley reglamentaria.
 
 ###### Art. 10 Bis.
 
@@ -283,67 +281,109 @@ El Estado de Sinaloa, tiene una composición pluricultural y reconoce el derecho
 
 ### CAPITULO III. DE LAS ELECCIONES
 
-(NOTA: EL 1 DE DICIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 71/2009 Y SUS ACUMULADAS 72/2009, 73/2009, 75/2009, 76/2009 Y 78/2009, DECLARÓ INAPLICABLE LA PORCIÓN NORMATIVA EN CUANTO A LA FECHA EN QUE TENDRÁN LUGAR LAS RESPECTIVAS JORNADAS ELECTORALES DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE DICIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
 ###### Art. 14.
 
-Las elecciones de Gobernador del Estado, de Diputados del Congreso del Estado y de los Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos, se realizarán mediante sufragio universal, libre, secreto y directo. Se resolverán a mayoría de sufragios y conforme al principio de representación proporcional, se verificarán EL SEGUNDO DOMINGO DEL MES DE OCTUBRE DEL AÑO QUE CORRESPONDA y con sujeción a las disposiciones de la Ley Reglamentaria correspondiente.
+Las elecciones de Gobernador, Diputados al Congreso del Estado, Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos, se realizarán mediante sufragio universal, libre, secreto y directo. Se resolverán a mayoría de sufragios y conforme al principio de representación proporcional, con sujeción a las disposiciones de la Ley Reglamentaria correspondiente.
 
-Esta Constitución reconoce a los partidos políticos como entidades de interés público. De igual manera, les reconoce su carácter de asociaciones políticas de ciudadanos afiliados libre e individualmente en torno a los programas, principios e ideas que cada uno de ellos postula, y que tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación política y, permitir el acceso de los ciudadanos a los distintos niveles del poder público del Estado de Sinaloa. La ley promoverá la democracia en la vida interna de los partidos políticos en la entidad y fijará los requisitos para la obtención del registro como partido político local. Invariablemente la selección de sus dirigentes y sus candidatos se hará conforme a los principios que rigen el estado democrático de derecho.
+Las elecciones ordinarias locales se verificarán el primer domingo de junio del año que corresponda. La fecha en que éstas se celebren será concurrente con la que la Constitución Política de los Estados Unidos Mexicanos señale para las elecciones ordinarias federales.
 
-Los partidos políticos nacionales que hayan obtenido su registro definitivo podrán participar en las elecciones estatales y municipales. La ley determinará las formas específicas y condiciones de la intervención de los partidos políticos nacionales y estatales en dichos procesos electorales.
+Los partidos políticos son entidades de interés público con personalidad jurídica y patrimonio propios, que tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
 
-Los partidos políticos estatales que no obtengan al menos el dos por ciento de los votos válidos en la elección de Diputados perderán, por ese hecho, su registro y no podrán volver a solicitarlo sino hasta pasado un proceso electoral. La ley fijará los procedimientos que rijan el destino de los bienes de los partidos políticos estatales que pierdan su registro.
+Sólo los ciudadanos sinaloenses podrán formar partidos políticos estatales y afiliarse libre e individualmente a ellos; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos, así como cualquier forma de afiliación corporativa. La ley fijará los requisitos que deban satisfacerse para la obtención del registro como partido político estatal.
 
-Aquél partido político nacional que no obtenga al menos el dos por ciento de los votos válidos en la elección de Diputados, dejará de recibir las ministraciones de financiamiento público ordinario que le correspondan durante los dos años siguientes al proceso de que se trate.
+La selección de dirigentes y candidatos de los partidos políticos estatales se realizará conforme a los principios que rigen el estado democrático de derecho. Los estatutos y reglamentos internos de los partidos políticos estatales y nacionales que participen en los procesos electorales locales garantizarán la paridad entre los géneros en las candidaturas a Diputados al Congreso del Estado, Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos por ambos principios. La ley establecerá los términos y requisitos para el cumplimiento de esta disposición.
 
-Para que un partido político nacional tenga derecho a recibir ministraciones de financiamiento público ordinario, se requiere que haya participado en el proceso electoral inmediato anterior y que además haya obtenido al menos el dos por ciento de los votos válidos de la elección de Diputados en dicho proceso.
+Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen la Constitución Política de los Estados Unidos Mexicanos, las leyes generales, la presente Constitución y la legislación local.
 
-La ley fijará los tiempos y las modalidades que tendrán las precampañas y las campañas electorales, las cuales deberán ser respetuosas y propositivas; de igual manera determinará las reglas que deberán observar los partidos, sus militantes y sus simpatizantes durante las mismas y las sanciones a las que se harán acreedores en caso de su inobservancia.
+Los partidos políticos nacionales que hayan obtenido su registro definitivo ante el Instituto Nacional Electoral, podrán participar en las elecciones estatales y municipales. La ley determinará los requisitos y formalidades que deberán satisfacer los partidos políticos nacionales y estatales para intervenir en dichos procesos electorales.
 
-La ley establecerá las modalidades para que los partidos políticos cuenten de manera equitativa con financiamiento público, para actividades ordinarias permanentes y para campañas electorales, que, en todo caso, prevalecerá sobre el financiamiento privado.
+Además de las causales que establezca la ley, se cancelará el registro de aquél partido político estatal que no obtenga al menos el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo local, y sólo podrán solicitar un nuevo registro cuando haya concluido el proceso electoral posterior a la cancelación. La ley establecerá el procedimiento para la liquidación de los partidos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados a la Hacienda Pública Estatal.
 
-El financiamiento privado tendrá las restricciones y modalidades que establezca la ley, las cuales no podrán ser menores que las fijadas por la legislación federal para los partidos políticos nacionales. Los montos máximos que tendrán las aportaciones pecuniarias de sus miembros y simpatizantes, los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y las sanciones que deban imponerse por el incumplimiento de estas disposiciones, serán regulados por la ley; la cual también fijará los criterios para determinar para cada elección los límites máximos a las erogaciones que los partidos políticos pueden realizar para cada una de las precampañas y campañas electorales.
+La ley garantizará que los partidos políticos estatales y nacionales cuenten de manera equitativa con recursos económicos suficientes para llevar a cabo sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico; establecerá las reglas a que se sujetará dicho financiamiento y garantizará que los recursos públicos prevalezcan sobre los de origen privado. El financiamiento privado tendrá las restricciones y modalidades que establezca la ley, las cuales no podrán ser menores que las fijadas por la legislación federal para los partidos políticos nacionales. También serán regulados en la ley los montos máximos que tendrán las aportaciones pecuniarias de sus militantes y simpatizantes, los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten, las sanciones que deban imponerse por el incumplimiento de estas disposiciones, y los criterios para determinar para cada elección los límites máximos a las erogaciones que los partidos políticos puedan realizar para cada una de las precampañas y campañas electorales.
 
-El acceso equitativo, de los partidos políticos y candidatos, a los medios masivos de comunicación social tendrá las modalidades que al efecto fije la ley. El mismo se realizará sólo a través del Organismo Electoral.
+Para que un partido político nacional tenga derecho a recibir financiamiento público ordinario proveniente de recursos estatales, se requiere que haya participado en el proceso electoral local inmediato anterior, y que haya obtenido al menos el tres por ciento de los votos válidos en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo locales en dicho proceso. De no obtener dicho porcentaje mínimo de votación, perderá el derecho a recibir financiamiento público ordinario estatal hasta la fecha en que satisfaga los requisitos y formalidades necesarias para su participación en un nuevo proceso electoral local. Esta disposición no será aplicable a aquellos partidos que participen por primera vez en un proceso local.
 
-Los partidos políticos deberán presentar, en los tiempos y con las modalidades que disponga la legislación aplicable, informes anuales en los que se reflejarán el total de ingresos recabados por cualquier modalidad de financiamiento, así como la totalidad de los gastos realizados a lo largo del año fiscal que corresponda; informes de precampaña e informes de campaña, así como los informes especiales y detallados que les sean solicitados por el Organismo Electoral.
+Los ciudadanos sinaloenses que participen como candidatos sin la intermediación de un partido político, tendrán derecho a recibir financiamiento público para el desarrollo de sus campañas políticas, en los términos y condiciones que establezca la ley. Asimismo tendrán derecho a ser representados ante los órganos correspondientes del Instituto Electoral del Estado de Sinaloa.
 
-El Organismo Electoral concentrará y ejercerá, en la manera en que disponga la ley, las funciones fiscalizadoras suficientes para tener un conocimiento pleno y cierto del origen y destino de la totalidad de los recursos de los partidos políticos, tanto de aquellos que provengan del financiamiento público como de los que se alleguen mediante financiamiento privado, e impondrá las sanciones que correspondan por el uso indebido de estos recursos, de conformidad con lo que establezca la legislación aplicable.
+Los partidos políticos deberán presentar al Instituto Nacional Electoral, en los tiempos y bajo las modalidades que disponga la legislación aplicable, informes anuales en los que se reflejarán el total de ingresos recabados por cualquier modalidad de financiamiento, así como la totalidad de los gastos realizados a lo largo del año que corresponda, con motivo de la realización de sus actividades ordinarias permanentes, las de precampaña y las de campaña, así como los informes especiales y detallados que les sean solicitados por dicho Instituto.
 
-En el cumplimiento de sus atribuciones de fiscalización, el Organismo Electoral contará con el apoyo de todas las autoridades del Estado de Sinaloa. Además tendrá las facultades para poder requerir la información y la documentación que le sea necesaria para la adecuada revisión de las finanzas partidistas con que cuenten los particulares, personas físicas y morales, que hayan tenido algún tipo de vínculo financiero o comercial con los partidos políticos.
+Los ciudadanos que participen como candidatos independientes quedarán obligados a presentar los informes sobre ingresos y aplicación de recursos a sus campañas políticas, en los mismos plazos, términos y condiciones que los partidos políticos, en todo aquello que resulten aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 1998)</small>
+El Instituto Nacional Electoral ejercerá en la forma que disponga la ley, las funciones fiscalizadoras suficientes para tener el conocimiento pleno y cierto del origen y destino de la totalidad de los recursos de los partidos políticos y de los candidatos independientes, tanto de aquellos que provengan del financiamiento público como de los que se alleguen mediante financiamiento privado, y procederá de conformidad con lo que establezca la legislación aplicable. En el cumplimiento de sus atribuciones de fiscalización, el Instituto Nacional Electoral podrá requerir a las autoridades federales, estatales y municipales, así como a las personas físicas y morales que hayan tenido algún vínculo financiero o comercial con los partidos políticos y candidatos independientes, la información y documentación que sea necesaria para la adecuada revisión de los informes. Las autoridades estatales y municipales están obligadas a proporcionar los informes y documentos que les sean requeridos en términos del presente artículo.
+
+La ley fijará los topes, montos, tiempos y las modalidades que tendrán las precampañas y las campañas electorales, las cuales deberán ser respetuosas y propositivas; de igual manera determinará las reglas que deberán observar los partidos, sus militantes y simpatizantes, así como los candidatos independientes durante las mismas, y las sanciones a las que se harán acreedores en caso de su inobservancia.
+
+En los procesos electorales en que se verifique la elección de Gobernador del Estado, la duración de las campañas será de sesenta días. En aquellos procesos en que únicamente se elijan Diputados al Congreso del Estado y Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos, las campañas durarán cuarenta y cinco días. En cualquier caso, las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
+
+Los partidos políticos y candidatos tendrán acceso equitativo a los medios masivos de comunicación social, conforme a las normas establecidas en el apartado B de la base III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos y las que fije la ley. En la propaganda política o electoral que difundan los partidos y candidatos deberán abstenerse de expresiones que calumnien a las personas. Los partidos políticos y los candidatos no podrán contratar o adquirir en ningún momento, por sí o mediante terceras personas, tiempos en cualquier modalidad de radio y televisión.
+
+Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, a favor ni en contra de partidos políticos o de candidatos a cargos de elección popular.
+
+La ley establecerá el sistema de nulidades de las elecciones locales por violaciones graves, dolosas y determinantes en los casos siguientes:
+
+a) Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;
+
+b) Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley;
+
+c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
+
+Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
+
+En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
 ###### Art. 15.
 
-La organización de las elecciones locales es una función estatal que se realiza a través de un organismo público autónomo, dotado de personalidad jurídica y patrimonio propio, en cuya integración concurre el Poder Legislativo, con la participación de los partidos políticos y de los ciudadanos, según lo disponga la ley. En su ejercicio serán principios rectores la certeza, legalidad, independencia, imparcialidad y objetividad. Será autoridad en la materia, profesional en su desempeño, autónomo en su funcionamiento, independiente en sus decisiones y tendrá a su cargo la preparación, desarrollo, vigilancia y calificación de los procesos electorales, así como la información de los resultados.
+La organización de las elecciones locales es una función estatal que se realiza a través del Instituto Electoral del Estado de Sinaloa, en coordinación con el Instituto Nacional Electoral.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 1995)</small>
+El Instituto Electoral del Estado de Sinaloa es un organismo público autónomo, dotado de personalidad jurídica y patrimonio propio, en cuya integración concurren los partidos políticos y los ciudadanos. En el ejercicio de sus funciones serán principios rectores los de certeza, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y paridad de género. Será autoridad en la materia, profesional en su desempeño, autónomo en su funcionamiento e independiente en sus decisiones. Tendrá a su cargo la preparación, desarrollo, vigilancia de los procesos electorales y, en su caso, la calificación de los mismos, así como la información de los resultados, ejerciendo funciones en las materias siguientes:
 
-El Organismo público señalado ejercerá sus funciones en todo el territorio del Estado y estará conformado por un Consejo Estatal, así como por los Consejos Distritales, Consejos Municipales y Mesas Directivas de Casilla correspondientes. La ley determinará las funciones de cada uno de ellos y la debida corresponsabilidad de los partidos políticos y de los ciudadanos.
+I. Derechos y acceso a las prerrogativas de los candidatos y partidos políticos;
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 1995)</small>
+II. Educación cívica;
 
-El Consejo Estatal se integrará por un presidente, por consejeros ciudadanos, consejeros del Poder Legislativo y representantes de los partidos políticos. El presidente y los consejeros ciudadanos serán nombrados por el Congreso del Estado por el voto de las dos terceras partes de sus integrantes en los términos previstos por la Ley. Los representantes de los partidos políticos tendrán derecho sólo a voz.
+III. Preparación de la jornada electoral;
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
+IV. Impresión de documentos y producción de materiales electorales;
 
-La ley establecerá un sistema de medios de impugnación con los plazos convenientes para el desahogo de todas las instancias impugnativas, de los que conocerán el organismo público autónomo a que se refiere el primer párrafo de este artículo y el Tribunal Estatal Electoral. Dicho sistema dará definitividad a las distintas etapas del proceso electoral y garantizará que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad. En materia electoral la interposición de los recursos no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnado.
+V. Escrutinios y cómputos en los términos que señale la ley;
 
-(REFORMADO, P.O. 20 DE JUNIO DE 2001) (F. DE E. P.O. 29 DE JUNIO DE 2001)
+VI. Declaración de validez y otorgamiento de constancias en elecciones locales;
 
-El organismo público autónomo de referencia, conforme a las disposiciones de la ley, declarará la validez de las elecciones de Diputados y Regidores por ambos principios, Presidentes Municipales y Síndicos Procuradores, y otorgará las constancias de mayoría y asignación respectivas, las que podrán ser impugnadas, en los términos que señala la ley.
+VII. Cómputo de la elección de Gobernador del Estado;
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
+VIII. Resultados preliminares; encuestas o sondeos de opinión; observación electoral, y conteos rápidos, conforme a los lineamientos que establezca el Instituto Nacional Electoral;
 
-El Tribunal Estatal Electoral funcionará en pleno y sus sesiones de resolución serán públicas, en los términos que establezca la ley; será autónomo y máxima autoridad jurisdiccional en su materia y tendrá competencia para resolver en forma definitiva y firme las impugnaciones que se hagan en período no electoral y durante el proceso electoral; realizará el cómputo final de la elección de Gobernador del Estado, una vez resueltas, en su caso, las impugnaciones que se hubieren interpuesto sobre la misma, procediendo a formular la declaración de validez de la elección y la de Gobernador Electo respecto del candidato que hubiese obtenido el mayor número de votos.
+IX. Organización, desarrollo, cómputo y declaración de resultados en los mecanismos de participación ciudadana previstos en la legislación local;
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
+X. Las que le delegue el Instituto Nacional Electoral en términos de ley;
 
-Contará con tres salas regionales que funcionarán en pleno durante el proceso electoral y una Sala de Reconsideración permanente, en la forma que lo disponga la ley. Esta última será competente para, resolver como sala unitaria, en período no electoral, las impugnaciones que se presenten contra los actos y resoluciones del Consejo Estatal Electoral, así como para resolver durante el proceso electoral los recursos que se interpongan respecto de la elección de Gobernador del Estado y en contra de la asignación de Diputados por el principio de Representación Proporcional que realice el Consejo Estatal Electoral. Los fallos de esta sala serán definitivos y firmes. La ley establecerá los presupuestos, requisitos de procedencia y el trámite para los medios de impugnación.
+XI. Todas las no reservadas al Instituto Nacional Electoral; y
+
+XII. Las demás que determinen la Constitución Política de los Estados Unidos Mexicanos, las leyes generales, la presente Constitución y la legislación local.
+
+El Instituto Electoral del Estado de Sinaloa podrá convenir con el Instituto Nacional Electoral para que este último se haga cargo de la organización de los procesos electorales locales.
+
+El Instituto Electoral del Estado de Sinaloa ejercerá sus funciones en todo el territorio del Estado y estará conformado por un Consejo General, por los Consejos Distritales y Municipales que determine la ley, y por las Mesas Directivas de Casilla.
+
+El Consejo General será el órgano de dirección superior del Instituto y estará integrado por un consejero Presidente y seis consejeros electorales, con derecho a voz y voto; así como por un Secretario Ejecutivo y un representante por cada uno de los partidos políticos o coaliciones, quienes solo tendrán derecho a voz.
+
+El Instituto Electoral del Estado de Sinaloa contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán regulados por la ley.
+
+El consejero Presidente y los consejeros electorales serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la ley. Los consejeros electorales estatales deberán ser sinaloenses por nacimiento o contar con una residencia efectiva en el Estado de por lo menos cinco años anteriores a su designación, y cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la ley. En caso de que ocurra una vacante de consejero electoral estatal, el Consejo General del Instituto Nacional Electoral hará la designación correspondiente en términos de la ley. Si la vacante se verifica durante los primeros cuatro años de su encargo, se elegirá un sustituto para concluir el periodo. Si la falta ocurriese dentro de los últimos tres años, se elegirá a un consejero para un nuevo periodo.
+
+Los consejeros electorales durarán en sus cargos siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la ley. Durante el tiempo de su encargo no podrán desempeñar otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+
+La ley establecerá un sistema de medios de impugnación con los plazos convenientes para el desahogo de todas las instancias impugnativas, de los que conocerán el Instituto Electoral del Estado de Sinaloa y el Tribunal Electoral del Estado de Sinaloa. Dicho sistema dará definitividad a las distintas etapas del proceso electoral y garantizará que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad. En materia electoral la interposición de los recursos no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnados.
+
+El Tribunal Electoral del Estado de Sinaloa se integrará por cinco magistrados, y su Presidente será designado por el Pleno de entre sus miembros.
+
+Los Magistrados serán electos por la Cámara de Senadores, en los términos que determinen la Constitución Política de los Estados Unidos Mexicanos y la legislación en la materia.
+
+El Tribunal Electoral del Estado de Sinaloa funcionará en pleno y sus sesiones de resolución serán públicas; será autónomo, independiente en sus decisiones, máxima autoridad jurisdiccional en su materia y tendrá competencia para resolver en forma definitiva y firme las impugnaciones que se interpongan; realizará el cómputo final de la elección de Gobernador del Estado, una vez resueltas, en su caso, las impugnaciones que se hubieren interpuesto sobre la misma, procediendo a formular la declaración de validez de la elección y la de Gobernador Electo respecto del candidato que hubiese obtenido el mayor número de votos, a quien expedirá la constancia correspondiente.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1989)</small>
 
@@ -413,11 +453,11 @@ El Poder Legislativo del Estado, se deposita en una asamblea que se denominará 
 
 #### SECCION I. DE LA ELECCION E INSTALACION DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1979)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
 ###### Art. 23.
 
-El Congreso del Estado se compondrá de representantes electos popularmente cada tres años. Por cada Diputado Propietario se elegirá un Suplente.
+El Congreso del Estado se compondrá de representantes electos popularmente cada tres años. Por cada Diputado Propietario se elegirá un Suplente del mismo género.
 
 > <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
 
@@ -425,23 +465,25 @@ El Congreso del Estado se compondrá de representantes electos popularmente cada
 
 El Congreso del Estado se integrará con 40 Diputados, 24 de ellos electos por el sistema de mayoría relativa en distritos electorales uninominales y 16 Diputados electos de acuerdo con el principio de representación proporcional, mediante el sistema de lista de candidatos votada en circunscripción plurinominal.
 
-La demarcación territorial de los distritos electorales uninominales se fijará teniendo en cuenta la población total del Estado. En todo caso, cada Municipio tendrá cuando menos un distrito electoral uninominal.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
+
+La demarcación territorial de los distritos electorales uninominales locales será realizada por el Instituto Nacional Electoral con base en el último censo general de población y los criterios generales determinados por su Consejo General.
 
 Para la elección de los 16 Diputados según el principio de representación proporcional y el sistema de listas de candidatos, el territorio del Estado se podrá dividir de una a tres circunscripciones plurinominales. La Ley determinará la forma de establecer la demarcación territorial de estas circunscripciones.
 
 Para que un partido político obtenga el registro de sus listas para la elección de diputados de representación proporcional, deberá acreditar que participa con candidatos a diputados de mayoría relativa en por lo menos diez distritos uninominales, de ellos, en su caso, mínimamente tres deberán estar en cada circunscripción plurinominal.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
-Todo partido político que alcance entre el dos y medio y el cinco por ciento de la votación estatal emitida para la elección de Diputados en el Estado, tendrá derecho a que se le asigne un Diputado de representación proporcional.
+Todo partido político que alcance el tres por ciento de la votación estatal emitida para la elección de Diputados en el Estado, tendrá derecho a que se le asigne un Diputado de representación proporcional.
 
 El número de Diputados de representación proporcional que se asigne a cada partido se determinará en función del porcentaje de votos efectivos obtenidos, mediante la aplicación de la fórmula electoral y procedimiento de asignación que señale la Ley. En todo caso la asignación se hará siguiendo el orden que tuvieren los candidatos en la lista o listas correspondientes.
 
 En ningún caso un partido político podrá contar con más de 24 diputados por ambos principios.
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
-En ningún caso un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total del Congreso que exceda en diez puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de su votación estatal emitida, más los diez puntos porcentuales.
+En ningún caso un partido político podrá contar con un número de Diputados por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación estatal emitida, más el ocho por ciento. Asimismo, en la integración de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 1995)</small>
 
@@ -449,13 +491,13 @@ En ningún caso un partido político podrá contar con un número de diputados p
 
 Para ser diputado se requiere:
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 1962)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2015)</small>
 
-I. Ser Sinaloense por nacimiento o ciudadano sinaloense por vecindad con residencia efectiva en el Estado, en este último caso, no menor de diez años inmediatamente anteriores al día de la elección y en ambos casos estar en pleno ejercicio de sus derechos cívicos.
+I. Ser sinaloense por nacimiento o ciudadano sinaloense por vecindad con residencia efectiva en el Estado, en este último caso, no menor de cinco años inmediatamente anteriores al día de la elección y en ambos casos estar en pleno ejercicio de sus derechos cívicos.
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2015)</small>
 
-II. Ser nativo del Municipio donde se encuentre el Distrito Electoral que lo elija o avecindado en él cuando menos seis meses antes de la fecha de la elección.
+II. Ser nativo del Distrito Electoral en el que se elija o avecindado con residencia efectiva en él cuando menos seis meses antes de la fecha de la elección.
 
 > <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
 
@@ -468,6 +510,12 @@ III. Sea mayor de 21 años en la fecha de la elección;
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 1981)</small>
 
 IV. No podrán ser electos diputados propietarios o suplentes: El Gobernador del Estado, los Secretarios y Sub-Secretarios y titulares de cualesquiera de las entidades de la Administración Pública Estatal o Paraestatal los Magistrados del Supremo Tribunal de Justicia y el Procurador General de Justicia; los Jueces de Primera Instancia, los Recaudadores de Rentas y los Presidentes Municipales, en los Distritos Electorales en donde ejerzan sus funciones; los diputados y senadores al Congreso de la Unión, que se encontraren en ejercicio; las personas que tengan o hayan tenido mando de fuerzas de la Federación, Estado o Municipios y los Ministros de Cualquier culto. Los ciudadanos antes referidos, con excepción de los Ministros de los cultos, podrán ser electos, siempre que se separen de sus cargos cuando menos 90 días antes de la elección.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2015)</small>
+
+###### Art. 25 Bis.
+
+Los Diputados en funciones podrán ser nuevamente electos hasta completar un máximo de cuatro periodos consecutivos de ejercicio. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubiese postulado originalmente, salvo que el interesado haya renunciado o perdido su militancia antes de la mitad de su mandato. La ley establecerá los requisitos que deberán satisfacerse para una nueva postulación.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MARZO DE 2012)</small>
 
@@ -997,9 +1045,9 @@ Se deposita el ejercicio del Poder Ejecutivo del Estado, en un ciudadano que se 
 
 Para ser Gobernador se requiere:
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 1962)</small>
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2015)</small>
 
-I. Ser ciudadano Sinaloense por nacimiento o por vecindad, en este último caso con residencia efectiva en el Estado no menor de diez años inmediatamente anteriores al día de la elección.
+I. Ser ciudadano sinaloense por nacimiento o por vecindad, en este último caso con residencia efectiva en el Estado no menor de cinco años inmediatamente anteriores al día de la elección.
 
 II. Tener treinta años cumplidos el día de la elección.
 
@@ -1019,11 +1067,11 @@ VI. No haber sido convicto por ningún Tribunal, ni haber figurado directa o ind
 
 VII. Comprobar de conformidad con el Código Civil y demás Leyes sobre la materia su calidad de ciudadano sinaloense por nacimiento.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 1943)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
 ###### Art. 57.
 
-El Gobernador del Estado entrará a ejercer su cargo el día primero de enero del año siguiente al de su elección, durará seis años en su ejercicio y no será reelecto.
+El Gobernador del Estado entrará a ejercer su cargo el día primero de noviembre del año de su elección, durará seis años en su ejercicio y no será reelecto.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
 
@@ -1845,13 +1893,17 @@ Los Municipios se dividirán en Sindicaturas y éstas en Comisarías, en cuyas j
 
 Compete a los Ayuntamientos y en su caso a los Concejos Municipales, ejercer de manera exclusiva el gobierno municipal, conforme a las disposiciones que establece la Constitución Federal, esta Constitución y las leyes que de ellas emanen, correspondiendo al Presidente Municipal ejercer las atribuciones ejecutivas y representativas, llevar la jefatura política y administrativa de la municipalidad y presidir las sesiones del Cabildo.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2015)</small>
 
 ###### Art. 112.
 
-La elección directa del Presidente Municipal, Regidores y Síndicos Procuradores, se verificará cada tres años y entrarán en funciones el día primero de enero, previa protesta que otorgarán ante el Ayuntamiento saliente.
+La elección directa de Presidente Municipal, Síndicos Procuradores y Regidores de los Ayuntamientos, se verificará cada tres años y entrarán en funciones el día primero de noviembre del año de su elección, previa protesta que otorgarán ante el Ayuntamiento saliente.
 
-Por cada Regidor y Síndico Procurador Propietarios se elegirá un Suplente.
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
+
+Por cada Regidor y Síndico Procurador propietarios se elegirá un suplente del mismo género.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
 Los municipios, cualquiera que sea su número de habitantes, integrarán sus Ayuntamientos de conformidad con lo siguiente:
 
@@ -1903,21 +1955,21 @@ Para ser Presidente Municipal, además de los requisitos exigidos para ser Regid
 
 I. Tener 25 años cumplidos, cuando menos, en la fecha de la elección;
 
-II. Ser originario de la municipalidad que lo elija o vecino de ella cuando menos tres años anteriores a la elección siempre que sea ciudadano sinaloense por nacimiento o por vecindad, con residencia efectiva en el Estado en este último caso, no menor de diez años inmediatamente anteriores al día de la elección.
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2015)</small>
+
+II. Ser originario de la municipalidad que lo elija o vecino de ella cuando menos tres años anteriores a la elección siempre que sea ciudadano sinaloense por nacimiento o por vecindad, con residencia efectiva en el Estado en este último caso, no menor de cinco años inmediatamente anteriores al día de la elección.
 
 ###### Art. 116 Bis.
 
 (DEROGADO, P.O. 27 DE ENERO DE 1984)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2015)</small>
 
 ###### Art. 117.
 
-Los Presidente (sic) Municipales, Regidores y Síndicos Procuradores de los Ayuntamientos de elección popular directa no podrán ser reelectos para el período inmediato.
+Los Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos de elección popular directa, podrán ser electos consecutivamente para los mismos cargos por un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. La ley establecerá los requisitos que deberán satisfacerse para la nueva postulación.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
-
-Quienes por elección indirecta, por nombramiento o designación de parte de alguna autoridad, desempeñen las funciones propias de dichos cargos, independientemente de la denominación que se les dé, no podrán ser electos para el período inmediato. Igualmente los servidores públicos mencionados, cuando tengan el carácter de propietarios no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de Suplentes sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
+Quienes por elección indirecta, por nombramiento o designación de parte de alguna autoridad, desempeñen las funciones propias de dichos cargos, independientemente de la denominación que se les dé, podrán ser electos para el período inmediato.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -3628,3 +3680,33 @@ P.O. 30 DE ENERO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 1 DE JUNIO DE 2015.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa", sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
+
+Artículo Segundo. El congreso del Estado deberá expedir la nueva legislación secundaria en materia electoral, con la oportunidad necesaria para que entre en vigor por lo menos noventa días antes del inicio del proceso electoral inmediato siguiente.
+
+Artículo Tercero. La disposición contenida en el artículo 25 Bis, relativa a la reelección de Diputados Locales, no será aplicable a los legisladores que hayan protestado el cargo en la Legislatura que se encuentre en funciones a la fecha en que entre en vigor el presente Decreto.
+
+Artículo Cuarto. La reforma al artículo 117 de esta Constitución en materia de elección consecutiva de Presidentes Municipales, Síndicos Procuradores y Regidores, no será aplicable a los integrantes de los Ayuntamientos que se encuentren en funciones a la fecha en que entre en vigor el presente Decreto.
+
+Artículo Quinto. Para efecto de posibilitar la instalación del Congreso del Estado en la fecha que señala el artículo 26 de esta Constitución, así como la concurrencia de fechas a que se refiere el segundo párrafo de su artículo 14, disposición reformada por el presente Decreto, los Diputados que se elijan en el año dos mil dieciséis, durarán en sus cargos dos años, por lo que iniciarán sus funciones el día primero de octubre de dos mil dieciséis y las concluirán el treinta de septiembre de dos mil dieciocho.
+
+Para los mismos efectos señalados en el párrafo anterior, y con el propósito de que los Ayuntamientos se instalen en la fecha establecida en el artículo 112 de esta Constitución, así como posibilitar la concurrencia de fechas a que se refiere el segundo párrafo de su artículo 14, disposiciones reformadas por el presente Decreto, por única ocasión los Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos que se elijan en el año dos mil dieciséis, durarán en sus cargos un año y diez meses, por lo que iniciarán sus funciones el día primero de enero de dos mil diecisiete y las concluirán el treinta y uno de octubre de dos mil dieciocho.
+
+Artículo Sexto. Para efecto de posibilitar el inicio del ejercicio constitucional del Gobernador en la fecha establecida en el artículo 57 de esta Constitución, así como la concurrencia de fechas a que se refiere el segundo párrafo de su artículo 14, disposiciones reformadas por el presente Decreto, por única ocasión, el Gobernador del Estado que resulte electo en la jornada comicial del año dos mil dieciséis, durará en su cargo cuatro años y diez meses, por lo que iniciará sus funciones el día primero de enero de dos mil diecisiete y concluirá su periodo constitucional el día treinta y uno de octubre de dos mil veintiuno.
+
+Artículo Séptimo. Por única ocasión, las elecciones ordinarias correspondientes al año dos mil dieciocho, se llevarán a cabo el primer domingo de julio.
+
+Artículo Octavo. El Instituto Electoral del Estado de Sinaloa quedará integrado en la fecha en que tomen protesta los Consejeros que designe el Consejo General del Instituto Nacional Electoral, en términos de lo dispuesto en el Artículo Noveno Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral, publicado en el Diario Oficial de la Federación el diez de febrero de dos mil catorce.
+
+Artículo Noveno. Todos los recursos humanos del Consejo Estatal Electoral se integrarán a los del Instituto Electoral del Estado de Sinaloa. Los recursos materiales, presupuestales y financieros del actual órgano pasarán a formar parte del patrimonio del nuevo Instituto una vez que quede integrado en términos del Artículo Octavo Transitorio del presente Decreto, sin menoscabo de los derechos laborales que correspondan al personal de que disponga.
+
+Artículo Décimo. En caso de que a la fecha de integración del Instituto Electoral del Estado de Sinaloa no hubieren entrado en vigor las normas previstas en el Artículo Segundo Transitorio del presente Decreto, dicho organismo ejercerá las atribuciones que las leyes locales vigentes otorgan al Consejo Estatal Electoral, sin perjuicio de lo que dispongan la Ley General de Instituciones y Procedimientos Electorales y la Ley General de Partidos Políticos.
+
+Artículo Décimo Primero. Los Consejeros del Consejo Estatal Electoral que a la entrada en vigor del presente Decreto se encuentren en funciones, continuarán en su encargo hasta que los nuevos Consejeros que designe el Consejo General del Instituto Nacional Electoral rindan protesta y tomen posesión de sus respectivos cargos, por lo que los acuerdos y demás actos jurídicos que hasta esa fecha apruebe y emita el Consejo Estatal Electoral de Sinaloa en los términos de la legislación vigente, tendrán plena validez y surtirán todos sus efectos legales.
+
+Artículo Décimo Segundo. Todos los recursos humanos del Tribunal Estatal Electoral se integrarán a los del Tribunal Electoral del Estado de Sinaloa. Los recursos materiales, presupuestales y financieros del actual órgano jurisdiccional pasarán a formar parte del patrimonio del nuevo Tribunal una vez que quede integrado.
+
+Artículo Décimo Tercero. Los Magistrados del Tribunal Estatal Electoral de Sinaloa que se encuentren en funciones a la fecha de entrada en vigor del presente Decreto, continuarán en el ejercicio de sus cargos hasta en tanto el Senado de la República realice los nombramientos de los Magistrados del Tribunal Electoral del Estado de Sinaloa quienes habrán de sustituirles, en términos de lo previsto en el Artículo Décimo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral, publicado en el Diario Oficial de la Federación el diez de febrero de dos mil catorce.
