@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-36-2014-del-pleno-del-consejo-de-la-103553"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-11-19"
-last_updated: "2015-03-13"
+last_updated: "2015-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103553&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,33 +19,13 @@ issue_date: "2014-11-12"
 ---
 # ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL]
 
-ACUERDO GENERAL 36/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL; Y QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES
+LEY NUMERO 448 DE INGRESOS DEL MUNICIPIO DE PLAYA VICENTE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, CORRESPONDIENTE AL EJERCICIO FISCAL DEL AÑO 2020
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MARZO DE 2015.
+TEXTO ORIGINAL.
 
-Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 19 de noviembre de 2014.
+Ley publicada en el Número Extraordinario 522 de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el martes 31 de diciembre de 2019.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno y de la Presidencia.
-
-ACUERDO GENERAL 36/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL; Y QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES.
-
-CONSIDERANDO
-
-PRIMERO. La administración, vigilancia, disciplina y carrera judicial del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del mismo, corresponde al Consejo de la Judicatura Federal, con fundamento en los artículos 94, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos y 68 de la Ley Orgánica del Poder Judicial de la Federación;
-
-SEGUNDO. De conformidad con el artículo 100, primer párrafo constitucional, el Consejo de la Judicatura Federal es un órgano del Poder Judicial de la Federación con independencia técnica, de gestión y para emitir sus resoluciones;
-
-TERCERO. Es facultad del Consejo de la Judicatura Federal emitir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo previsto en los artículos 100 de la Constitución Política de los Estados Unidos Mexicanos y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación; y
-
-CUARTO. Uno de los paradigmas más importantes del nuevo sistema procesal penal es el principio de inmediación, el cual consiste en la presencia permanente del juzgador en el desahogo de las audiencias, para lo cual la oralidad resulta fundamental, ya que a través de esta herramienta, el órgano jurisdiccional se allega de los elementos de valoración para emitir la sentencia correspondiente, sin que pueda tomar en consideración, por regla general, probanzas que no han sido desahogadas en el plenario.
-
-Por ello, el nuevo sistema reclama la adopción de otros esquemas de gestión judicial, propios de la forma de intervención del juzgador en el proceso penal.
-
-El presente Acuerdo regula un nuevo diseño administrativo-judicial, basado en la creación de Centros de Justicia Penal, los cuales estarían conformados en dos vertientes, en específico la jurisdiccional y la administrativa. La primera estaría integrada por el Juez de Control, el Tribunal de Enjuiciamiento, el Tribunal de Alzada y el Juez de Ejecución; y la segunda por el Administrador y el personal que le esté adscrito.
-
-Por lo anterior, se expide el siguiente
-
-ACUERDO
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
 ###### ARTÍCULO PRIMERO.
 
@@ -185,7 +165,37 @@ El Administrador podrá determinar la terminación anticipada del nombramiento, 
 
 ###### Artículo 14.
 
-(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2015)
+Los derechos por expedición de certificados, constancias y otros servicios, se causarán y pagarán conforme a las cuotas siguientes:
+
+(NOTA: EL 8 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+I. CERTIFICADO O CERTIFICACIONES EXPEDIDOS POR FUNCIONARIOS O EMPLEADOS MUNICIPALES, INCLUYENDO LA BÚSQUEDA DE DATOS PARA EXPEDIRLOS, POR CADA CERTIFICADO, DE 0.50 A 1 UMA.
+
+(NOTA: EL 8 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+II. COPIAS DE DOCUMENTOS QUE OBREN EN LOS ARCHIVOS DE OFICINAS MUNICIPALES:
+
+a) POR HOJA ESCRITA A DOBLE ESPACIO EN AMBAS CARAS, 0.25 UMAS.
+
+b) POR HOJA QUE INDICA EL INCISO ANTERIOR, ESCRITA A UN ESPACIO POR AMBAS CARAS, 0.30 UMAS.
+
+c) EN LOS CASOS A QUE SE REFIEREN LOS INCISOS ANTERIORES, CUANDO SE ESCRIBA POR UNA SOLA CARA DE LA HOJA, 0.25 UMAS.
+
+EN EL CASO A QUE SE REFIERE ESTA FRACCIÓN, ADEMÁS DE LOS DERECHOS QUE ESTABLECEN LOS INCISOS QUE ANTECEDEN, SE COBRARÁ POR LA BÚSQUEDA DE LOS DOCUMENTOS DE LOS QUE DEBA SACARSE COPIA CUANDO EL INTERESADO NO PROPORCIONE LOS DATOS EXACTOS PARA SU LOCALIZACIÓN, POR CADA AÑO QUE COMPRENDA LA BÚSQUEDA, 0.25 UMAS.
+
+III. Evaluación de impacto ambiental, veinte UMAs.
+
+IV. Por solicitudes de información conforme a la Ley de Transparencia y Acceso a la Información Pública para el Estado:
+
+(NOTA: EL 8 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2020, DECLARÓ LA INVALIDEZ DEL INCISO a) DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+a) POR COPIAS SIMPLES O IMPRESOS POR MEDIO DE DISPOSITIVO INFORMÁTICO, POR CADA HOJA TAMAÑO CARTA U OFICIO: 0.02 UMAS;
+
+b) Por copias certificadas distintas a las señaladas en las fracciones anteriores, por cada hoja o fracción: 0.02 UMAs; y
+
+(NOTA: EL 8 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2020, DECLARÓ LA INVALIDEZ DEL INCISO c) DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+c) POR INFORMACIÓN GRABADA EN DISCO DE 3.5 PULGADAS O DISCO COMPACTO, POR COPIA: 0.03 UMAS
 
 ###### Artículo 15.
 
