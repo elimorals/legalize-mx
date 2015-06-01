@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-36-2014-del-pleno-del-consejo-de-la-103553"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-11-19"
-last_updated: "2015-03-13"
+last_updated: "2015-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103553&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-11-12"
 
 ACUERDO GENERAL 36/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL; Y QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 19 de noviembre de 2014.
 
@@ -127,11 +127,27 @@ El Administrador será el responsable de la administración del Centro.
 
 Los jueces de Distrito especializados en el sistema penal acusatorio fungirán como Administradores del Centro de su adscripción, por un año y de forma rotativa en el orden de su denominación.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE JUNIO DE 2015)</small>
 
 ###### Artículo 8.
 
-Los jueces de Distrito que funjan como Administradores no podrán ejercer funciones jurisdiccionales, salvo en aquellos casos en que les corresponda actuar en suplencia de otro juez de Distrito adscrito al Centro; o cuando sea necesario para no afectar el funcionamiento del mismo, caso en el cual deberán fundamentar y motivar su actuación.
+Los jueces de Distrito que funjan como Administradores no podrán ejercer funciones jurisdiccionales, salvo que lo hagan en sustitución de otro juez de Distrito adscrito al respectivo Centro, en términos de lo dispuesto en los acuerdos generales mediante los cuales se creen los mismos, y en los siguientes casos:
+
+I. Durante el período de vacaciones, en aquellos casos en que no existan más de dos jueces de Distrito en el Centro;
+
+II. Durante el período de vigencia de una licencia, siempre y cuando no sea mayor a quince días naturales.
+
+En caso de que el periodo sea mayor, el Administrador del Centro deberá comunicar dicha situación a la Secretaria Ejecutiva de Adscripción, para que lleve a cabo las gestiones necesarias ante la Comisión de Adscripción, para la sustitución del juez de Distrito respectivo;
+
+III. En aquellos casos en que las actuaciones a realizarse no admitan demora y el juez de Distrito que deba conocerlas esté atendiendo una audiencia diversa;
+
+IV. Cuando el juez de Distrito que deba conocer de un asunto esté impedido, y ninguno de los otros adscritos al Centro pueda hacerlo; y
+
+V. En todas aquellas situaciones en que sea necesaria la intervención del Juez de Distrito que funja como Administrador, para no afectar el funcionamiento del Centro.
+
+En todo caso el juez de Distrito que funja como Administrador, cuando ejerza funciones jurisdiccionales en sustitución, deberá fundar y motivar su competencia, y especificar el carácter de su actuación en las constancias respectivas.
+
+Invariablemente, para poder llevar a cabo la sustitución, deberá observarse lo previsto en el artículo 350 del Código.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2015)</small>
 
@@ -686,3 +702,9 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Los nombramientos de los Administradores de los Centros de Justicia Penal federal, que antes de la entrada en vigor del presente Acuerdo hayan sido designados, cesan sus efectos, de conformidad con las disposiciones laborales aplicables.
+
+D.O.F. 1 DE JUNIO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
