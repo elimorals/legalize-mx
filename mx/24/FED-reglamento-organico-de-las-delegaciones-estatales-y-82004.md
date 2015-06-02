@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-de-las-delegaciones-estatales-y-82004"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-01"
-last_updated: "2011-08-03"
+last_updated: "2015-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82004&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2011-04-14"
 ---
 # REGLAMENTO ORGANICO DE LAS DELEGACIONES ESTATALES Y REGIONALES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-REGLAMENTO ORGANICO DE LAS DELEGACIONES ESTATALES Y REGIONALES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
+REGLAMENTO ORGÁNICO DE LAS DELEGACIONES ESTATALES Y REGIONALES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO ORGÁNICO DE LAS DELEGACIONES ESTATALES Y REGIONALES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, PUBLICADO EN EL D.O.F. DE 2 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL D.O.F. EL 3 DE AGOSTO DE 2011 NO APLICA AL ARTICULADO DEL REGLAMENTO PUBLICADO EN EL D.O.F. DE 1 DE JULIO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Quinta Sección del Diario Oficial de la Federación, el viernes 1 de julio de 2011.
 
@@ -1524,3 +1524,19 @@ Lo que me permito hacer de su conocimiento para los efectos legales procedentes.
 Atentamente
 
 México, D.F., a 14 de abril de 2011.- El Secretario General y Secretario de la Junta Directiva, Luis Felipe Castro Sánchez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 2 DE JUNIO DE 2015.
+
+PRIMERO. El presente Reglamento entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo 11.1327.2011 de la Junta Directiva por el que se aprueba el Reglamento Orgánico de las Delegaciones Estatales y Regionales del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, de fecha 14 de abril de 2011 y publicado en el Diario Oficial de la Federación el 1 de julio de 2011, al cual correspondió la fe de erratas publicada el 3 de agosto de 2011.
+
+TERCERO. Se mantendrán en vigor todas las disposiciones que no se opongan a este Reglamento.
+
+CUARTO. Lo establecido en los artículos 26 apartado C y 31 estarán vigentes hasta en tanto se autoricen las modificaciones a la estructura orgánica del FOVISSSTE.
+
+QUINTO. A la entrada en vigor de este Reglamento, lo establecido en el último párrafo del artículo 34 seguirá vigente hasta que se realicen las modificaciones orgánicas correspondientes.
+
+SEXTO. A la entrada en vigor de este Reglamento, cuando la Delegación no cuente con un Departamento de Enseñanza e Investigación en su estructura orgánica autorizada, las funciones establecidas en el artículo 24 serán realizadas por el Jefe del Departamento de Atención Médica, hasta que se realicen las modificaciones orgánicas correspondientes.
