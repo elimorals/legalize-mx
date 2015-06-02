@@ -4,7 +4,7 @@ identifier: "LGPAS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-07-24"
-last_updated: "2015-03-17"
+last_updated: "2015-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56140&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPAS"
 
 LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 24 de julio de 2007.
 
@@ -1796,17 +1796,27 @@ Los elementos que arrojen los instrumentos a que se refiere este Artículo se co
 
 El personal de la Secretaría debidamente autorizado para la realización de los actos a que se refiere el presente capítulo, podrá llevar a cabo visitas de inspección para lo cual deberá contar con el documento oficial que los acredite o autorice a practicar la inspección o verificación, así como la orden escrita debidamente fundada y motivada, expedida por la autoridad competente de la Secretaría, en la que se precisará el lugar o la zona que habrá de inspeccionarse, el objeto de la diligencia y el alcance de la misma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 127.
 
-En toda visita de inspección se levantará acta, en la que se harán constar en forma circunstanciada los hechos u omisiones que se hubiesen presentado durante la diligencia, así como lo previsto en la Ley Federal de Procedimiento Administrativo.
+En toda visita de inspección se levantará acta, en la que se harán constar en forma circunstanciada los hechos que se hubiesen presentado durante la diligencia, cumpliendo las formalidades previstas para tal efecto en la Ley Federal de Procedimiento Administrativo.
 
-Concluida la inspección, se dará oportunidad a la persona con la que se entendió la diligencia para que en el mismo acto formule observaciones en relación con los hechos u omisiones asentados en el acta respectiva, y para que ofrezca las pruebas que considere convenientes o haga uso de ese derecho en el término de cinco días siguientes a la fecha en que la diligencia se hubiere practicado.
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2015)</small>
+
+Concluido el levantamiento del acta, el inspector o verificador proporcionará al visitado o a la persona con quien se entienda la diligencia, la información respecto a la autoridad que emitió la orden de visita de inspección o verificación; asimismo, hará de su conocimiento el plazo o término con el que cuenta para manifestar lo que a su derecho convenga ante dicha autoridad, y los demás datos sobre las consecuencias jurídicas de la visita de inspección o verificación.
+
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2015)</small>
+
+Los hechos, omisiones o irregularidades administrativas detectadas en las visitas de inspección que estén debidamente asentados en el acta respectiva se tendrán por ciertos, salvo prueba en contrario.
 
 A continuación se procederá a firmar el acta por la persona con quien se entendió la diligencia, por los testigos y por el personal autorizado, quien entregará copia del acta al interesado. Si la persona con quien se entendió la diligencia o los testigos, se negaren a firmar el acta, o el interesado se negare a aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte su validez y valor probatorio.
 
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 128.
 
-La persona con quien se entienda la diligencia estará obligada a permitir al personal autorizado el acceso al lugar o lugares sujetos a inspección en los términos previstos en la orden escrita a que se hace referencia el artículo 124, así como a proporcionar toda clase de información que conduzca a la verificación del cumplimiento de esta Ley y demás disposiciones que de ella deriven. La información deberá mantenerse por la autoridad en absoluta reserva, si así lo solicita el interesado, salvo en caso de requerimiento judicial.
+La persona con quien se entienda la diligencia estará obligada a permitir al personal autorizado el acceso al lugar o lugares sujetos a inspección en los términos previstos en la orden escrita a que se hace referencia en el artículo 126, así como a proporcionar toda clase de información que conduzca a la verificación del cumplimiento de esta Ley y demás disposiciones que de ella deriven. La información deberá mantenerse por la autoridad en absoluta reserva, si así lo solicita el interesado, salvo en caso de requerimiento judicial.
 
 ###### ARTÍCULO 129.
 
@@ -1816,7 +1826,13 @@ La autoridad competente podrá solicitar el auxilio de la fuerza pública para e
 
 Recibida el acta de inspección por la autoridad ordenadora, requerirá al interesado, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas necesarias para cumplir con las disposiciones jurídicas aplicables, así como con las concesiones y permisos respectivos, fundando y motivando el requerimiento, señalando el plazo que corresponda, y para que dentro del término de quince días exponga lo que a su derecho convenga, y en su caso, aporte las pruebas que considere procedentes, en relación con la actuación de la autoridad.
 
-Admitidas y desahogadas las pruebas ofrecidas por el interesado, o habiendo transcurrido el plazo a que se refiere el párrafo anterior, sin que haya hecho uso de ese derecho, se pondrán a su disposición las actuaciones, para que en un plazo (sic) tres días hábiles presente por escrito sus alegatos.
+> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2015)</small>
+
+Si el visitado, en el plazo que señala el primer párrafo de éste artículo ofrece pruebas, la autoridad, en el término de tres días hábiles, acordará su admisión y en el mismo proveído fijará fecha para la audiencia de desahogo de pruebas, la que deberá celebrarse dentro de los cinco días hábiles siguientes a la fecha en que se notifique; y de la cual se levantará acta que será suscrita por los que hayan intervenido.
+
+> <small>(REFORMADO, D.O.F. 2 DE JUNIO DE 2015)</small>
+
+Admitidas y desahogadas las pruebas ofrecidas por el interesado, o habiendo transcurrido el plazo a que se refiere el primer párrafo de este artículo, sin que haya hecho uso de ese derecho, se pondrán a su disposición las actuaciones, para que en un plazo de tres días hábiles presente por escrito sus alegatos.
 
 Una vez recibidos los alegatos o transcurrido el término para presentarlos, la Secretaría procederá, dentro de los veinte días siguientes, a dictar por escrito la resolución respectiva, misma que se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
 
@@ -2151,3 +2167,7 @@ D.O.F. 17 DE MARZO DE 2015.
 Primero. El presente Decreto entrará en vigor el siguiente día al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Las medidas, programas e instrumentos económicos relativos al desarrollo de la actividad pesquera y acuícola, estarán sujetas a lo establecido en las Leyes de Ingresos, Federal de Presupuesto y Responsabilidad Hacendaria y de Presupuesto de Egresos de la Federación para el ejercicio fiscal que corresponda.
+
+D.O.F. 2 DE JUNIO DE 2015.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
