@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2014-08-05"
+last_updated: "2015-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -1747,7 +1747,9 @@ El Presidente del Consejo tendrá las siguientes atribuciones:
 
 I. Representar legalmente al Consejo;
 
-II. Convocar a reunión a sus integrantes;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+II. Convocar a reunión a sus integrantes en un plazo máximo de sesenta días entre cada sesión;
 
 III. Proponer la orden del día de las sesiones, y
 
@@ -1843,7 +1845,7 @@ III. El quórum se integrará, en primera convocatoria, con la presencia de la m
 
 IV. Para el caso de segunda o ulterior convocatoria, el quórum se integrará con los miembros presentes, y los acuerdos se tomarán por la mayoría simple de los presentes a la hora de la votación;
 
-V. Las resoluciones emitidas por el Consejo Municipal de Transporte Público tendrán carácter de recomendaciones, a fin de que el Ejecutivo tome las mejores opciones que atiendan el interés social en la materia. Cada uno de sus miembros tendrá derecho a voz y voto durante las sesiones del mismo. El Presidente del Consejo tendrá voto de calidad en caso de empate en las votaciones;
+V. Las resoluciones emitidas por el Consejo Municipal de Transporte Público tendrán carácter de recomendaciones, a fin de que el Ejecutivo tome las mejores opciones qué atiendan el interés social en la materia. Cada uno de sus miembros tendrá derecho a voz y voto durante las sesiones del mismo. El Presidente del Consejo tendrá voto de calidad en caso de empate en las votaciones;
 
 VI. El secretario técnico levantará el acta correspondiente de cada sesión; asimismo será el relator de los proyectos, solicitudes y, en general, de los asuntos que se desahoguen en el Consejo;
 
@@ -2214,6 +2216,12 @@ QUINTO. Las concesiones otorgadas hasta antes de la entrada en vigor de este Dec
 SEXTO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 P.O. 5 DE AGOSTO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 2 DE JUNIO DE 2015.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
