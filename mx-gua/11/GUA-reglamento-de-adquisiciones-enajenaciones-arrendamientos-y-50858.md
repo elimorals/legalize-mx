@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-adquisiciones-enajenaciones-arrendamientos-y-5085
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-16"
-last_updated: "2006-06-16"
+last_updated: "2015-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50858&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-REGLAMENTO DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
+REGLAMENTO DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DE CONTRATACIONES PÚBLICAS DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 2 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 16 de junio de 2006.
 
@@ -392,3 +394,17 @@ Diputado Secretario.
 CARLOS ALBERTO ROBLES HERNÁNDEZ
 
 Diputado Secretario.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE JUNIO DE 2015.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento vigente
+
+Articulo Segundo. Se abroga el Decreto número 271, expedido por la Quincuagésima Novena Legislatura del Congreso del Estado y publicado en el Periódico Oficial de Gobierno del Estado número 96, tercera parte, de fecha 16 de junio de 2006.
+
+Artículo Tercero. Los lineamientos referidos en el artículo 92 del presente Reglamento se emitirán en un plazo máximo de noventa días, contado a partir de su entrada en vigor.
