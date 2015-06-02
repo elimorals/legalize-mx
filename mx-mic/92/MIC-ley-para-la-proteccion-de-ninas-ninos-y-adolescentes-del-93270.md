@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-proteccion-de-ninas-ninos-y-adolescentes-del-93270"
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-12"
-last_updated: "2013-03-12"
+last_updated: "2015-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY PARA LA PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 2 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2015 (ABROGADA).
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Michoacán, el martes 12 de marzo de 2013.
 
@@ -557,7 +559,7 @@ V. Instaurar el Sistema Estatal de Información y Estadística de la situación 
 
 VI. Contribuir a la difusión de los derechos y principios rectores de niñas, niños y adolescentes. Sugiriendo a los medios masivos de comunicación el que se abstengan de transmitir mensajes discriminatorios; y,
 
-VII. Emitir su reglamento interno; (sic)
+VII. Emitir su reglamento interno;
 
 ###### ARTÍCULO 22.
 
@@ -889,7 +891,7 @@ Son medidas de restablecimiento de los derechos de las niñas, niños y adolesce
 
 I. Amonestación con asistencia obligatoria a curso pedagógico;
 
-II. Retiro inmediato del niño, niña o adolescente de la actividad que amenace o vulnere sus derechos o de las actividades ilícitas en que se pueda encontrar y ubicación (sic) en un programa de atención especializada para el restablecimiento del derecho vulnerado;
+II. Retiro inmediato del niño, niña o adolescente de la actividad que amenace o vulnere sus derechos o de las actividades ilícitas en que se pueda encontrar y ubicación en un programa de atención especializada para el restablecimiento del derecho vulnerado;
 
 III. Ubicación inmediata en medio familiar; y,
 
@@ -1016,3 +1018,19 @@ ATENTAMENTE.-"SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECTI
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 19 diecinueve días del mes de febrero del año 2013 dos mil trece.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. FAUSTO VALLEJO FIGUEROA.- EL SECRETARIO DE GOBIERNO.- LIC. JOSÉ JESÚS REYNA GARCÍA. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE JUNIO DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor a los noventa días siguientes al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se abroga la Ley para la Protección de los Derechos de las Niñas, los Niños y Adolescentes en el Estado de Michoacán, publicada en el periódico oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el día 12 de marzo de 2013 dos mil trece.
+
+TERCERO. El presupuesto designado a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Michoacán de Ocampo deberá incluirse a partir del siguiente ejercicio presupuestal. Para el presente ejercicio presupuestal funcionará con los recursos humanos, materiales y financieros que tiene asignados la Procuraduría de la Defensa del Menor y la Familia y aquellos que en su caso le asigne la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Michoacán,
+
+CUARTO. Los Sistemas DIF estatal y municipales deberán reformar su normativa orgánica en un plazo no mayor a noventa días naturales, a partir de la entrada en vigor del presente Decreto, para formalizar la creación de la Procuraduría de Protección a la que alude el mismo.
+
+QUINTO. Los Sistemas Estatal y Municipales de Protección deberán integrarse a más tardar dentro de los 90 noventa días siguientes a la entrada en vigor del presente decreto.
+
+SEXTO. El Poder Ejecutivo contará con 180 ciento ochenta días hábiles para realizar la armonización de los diversos ordenamientos jurídicos conforme lo que mandata la presente Ley.
