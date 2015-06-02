@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-administracion-publica-60873"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-21"
-last_updated: "2014-01-27"
+last_updated: "2015-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2015.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el lunes 21 de abril de 2008.
 
 LEONEL GODOY RANGEL, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, en ejercicio de las facultades que me confieren los artículos 60 fracción XXII, 62, 65 y 66 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, así como los artículos 3°, 5°, 9°, 16 y 18 de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo; y,
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O...
 
 Por lo antes expuesto, he tenido a bien emitir el siguiente:
 
@@ -163,7 +163,7 @@ A) Subsecretaría de Finanzas, a la que quedan adscritas:
 
 5. Dirección de Seguimiento de la Inversión Pública Convenida;
 
-6. Dirección de Política Hacendaria;
+6. (DEROGADO, P.O. 2 DE JUNIO DE 2015)
 
 7. Dirección de Crédito;
 
@@ -189,9 +189,21 @@ B) Subsecretaría de Administración e Innovación de Procesos, a la que quedan 
 
 6. Dirección de Servicios Generales; y,
 
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
+7. (DEROGADO, P.O. 2 DE JUNIO DE 2015)
 
-7. Dirección de Servicios Aéreos.
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2015)</small>
+
+B) Bis. Procuraduría Fiscal, a la que quedan adscritas:
+
+1. Subprocuraduría Técnica Legal;
+
+2. Subprocuraduría de lo Contencioso; y,
+
+3. Subprocuraduría de Legislación y Consulta.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2015)</small>
+
+B) Ter. Unidad de Política Hacendaria.
 
 C) Delegación Administrativa.
 
@@ -1165,7 +1177,7 @@ VII. Las demás que le señale el Secretario de Gobierno y otras disposiciones l
 
 > <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
 
-ARTÍCULO 22 bis.- Al Director de Asuntos Religiosos le corresponde el ejercicio de las facultades siguientes:
+ARTÍCULO 22 BIS.- Al Director de Asuntos Religiosos le corresponde el ejercicio de las facultades siguientes:
 
 I. Conducir el análisis, definición y aplicación de la política a desarrollar en materia religiosa, previo acuerdo con el Subsecretario de Gobernación;
 
@@ -1537,37 +1549,55 @@ III. Representar al Secretario de Finanzas y Administración en la atención de 
 
 IV. Participar en apoyo y representación del Secretario de Finanzas y Administración en los foros y grupos de trabajo que se constituyan por los órganos del Sistema Nacional de Coordinación Fiscal;
 
-V. Participar en la elaboración de los anteproyectos de leyes, decretos, reglamentos y demás disposiciones de observancia general relacionados con la materia fiscal estatal y, en su caso, municipal;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+V. Colaborar en la elaboración de los anteproyectos de leyes, decretos, reglamentos y demás disposiciones de observancia general relacionados con la materia fiscal estatal y, en su caso, municipal;
 
 VI. Coadyuvar en las modificaciones de la estructura orgánica de la Secretaría de Finanzas y Administración, cuando así se justifique plenamente;
 
-VII. Proponer al Secretario de Finanzas y Administración el techo financiero a considerar para los efectos de formulación del proyecto anual del presupuesto de Egresos del Gobierno del Estado y, en su caso, la información relativa a la disponibilidad de ingresos adicionales durante el ejercicio de que se trate;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+VII. Proponer al Secretario de Finanzas y Administración el techo financiero a considerar para los efectos de formulación del proyecto anual del presupuesto de Egresos del Gobierno del Estado;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+VII Bis. Presentar al Secretario de Finanzas y Administración la información relativa a la disponibilidad de ingresos adicionales durante el ejercicio fiscal de que se trate;
 
 VIII. Autorizar los pagos derivados del ejercicio del presupuesto de la Secretaría de Finanzas y Administración, así como los que se deriven del ejercicio del gasto a cargo de las dependencias, coordinaciones y entidades, así como suscribir los cheques que se requieran;
 
-IX. Resolver los recursos administrativos previstos por las disposiciones fiscales aplicables y los convenios respectivos;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+IX. Conocer y coadyuvar con la Procuraduría Fiscal en la resolución de los recursos administrativos previstos por las disposiciones normativas en materia fiscal y los convenios respectivos;
 
 X. Proponer al Secretario de Finanzas y Administración, la cancelación de los créditos fiscales incobrables estatales y municipales coordinados, así como proponer a las autoridades competentes, las relativas a los créditos fiscales federales, de conformidad con las disposiciones fiscales aplicables;
 
 XI. Expedir los acuerdos de autorización de perito valuador de bienes inmuebles, así como los de suspensión de autorización cuando estos no apliquen correctamente los valores unitarios aprobados, así como expedir las credenciales de identificación de los mismos;
 
-XII. Apoyar al Secretario de Finanzas y Administración, en la atención a las observaciones que formule la Auditoría Superior de Michoacán, así como coordinar a las dependencias, coordinaciones y entidades en la atención de las que a éstas correspondan;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XII. Coadyuvar en la materia de su competencia con el Secretario de Finanzas y Administración, en la atención a las observaciones que formulen los órganos de control del Gobierno del Estado, del Poder Legislativo del Estado y de la Auditoría Superior de la Federación;
 
 XIII. Proponer al Secretario de Finanzas y Administración la cuenta comprobada de la recaudación de los ingresos federales coordinados, que se deberá rendir a la Secretaría de Hacienda y Crédito Público, en términos de las disposiciones legales aplicables;
 
-XIV. Proponer al Secretario de Finanzas y Administración la política fiscal que pueda adoptarse para que ésta se pongan a la consideración del Ejecutivo del Estado, y, en su caso, al Congreso del Estado, de conformidad con los objetivos y prioridades del Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
 
-XV. Coordinar la elaboración y el desarrollo de los programas de capacitación, estudios fiscales y difusión de materiales de las unidades administrativas de la Secretaría de Finanzas y Administración;
+XIV. Coadyuvar con la Unidad de Política Hacendaria, en la elaboración de las propuestas sobre la política fiscal que pueda adoptarse, para que el Secretario de Finanzas y Administración la ponga a la consideración del Ejecutivo del Estado, y en su caso, del Legislativo del Estado, de conformidad con los objetivos y prioridades del Plan de Desarrollo Integral del Estado;
+
+XV. (DEROGADA, P.O. 2 DE JUNIO DE 2015)
 
 XVI. Realizar los pagos en materia de inversiones y gastos, de conformidad con el presupuesto de egresos;
 
-XVII. Participar en la evaluación anual del ejercicio del gasto público y del presupuesto de Egresos del Estado, de acuerdo con las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XVII. Participar en la evaluación anual del ejercicio del gasto público y del presupuesto de Egresos del Estado, de acuerdo con las disposiciones normativas aplicables;
 
 XVIII. Proponer al Secretario de Finanzas y Administración los acuerdos por los que se otorguen subsidios a favor de los contribuyentes, en los términos que establecen las disposiciones fiscales aplicables;
 
 XIX. Coordinar la elaboración de los informes trimestrales sobre los ingresos obtenidos y sobre el ejercicio del gasto, así como de la Cuenta Pública de la Hacienda Estatal; y,
 
-XX. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XX. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones normativas aplicables.
 
 #### SECCIÓN I. DE LA DIRECCIÓN DE INGRESOS
 
@@ -1577,23 +1607,47 @@ Al Director de Ingresos le corresponde el ejercicio de las facultades siguientes
 
 I. Recaudar a través de las administraciones y receptorías de rentas, así como de las instituciones bancarias y demás oficinas que en su caso se autoricen, las contribuciones, sus accesorios y demás conceptos de ingresos federales, estatales y municipales coordinados, de conformidad con las disposiciones fiscales aplicables y los convenios respectivos;
 
-II. Ejercer las facultades de recaudación y administración de los ingresos estatales, federales y municipales, en términos de las disposiciones legales aplicables y convenios de coordinación o colaboración entre los tres órdenes de gobierno, previa autorización del Secretario de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
 
-III. Diseñar e implantar los sistemas de recaudación de los ingresos a que se refiere la fracción anterior, así como, analizar los sistemas establecidos, con el objeto de realizar su actualización en forma permanente;
+II. Ejercer las facultades de recaudación y administración de los ingresos estatales, federales y municipales, en términos de las disposiciones normativas aplicables y convenios que para tal efecto se establezcan entre los tres órdenes de gobierno, previa autorización del Secretario de Finanzas y Administración;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+III. Diseñar, implantar y actualizar los sistemas de recaudación de los ingresos a que se refiere la fracción anterior, así como, analizar los sistemas establecidos, con el objeto de realizar su actualización en forma permanente;
 
 IV. Integrar y mantener actualizado el registro y control vehicular en los términos de la normativa aplicable;
 
-V. Colaborar en la estimación anual de ingresos del Gobierno del Estado y los anteproyectos de Ley de Ingresos del Gobierno del Estado, del ejercicio de que se trate, así como la de los municipios que no presenten iniciativas específicas;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
 
-VI. Participar en la elaboración de los proyectos de iniciativas de leyes, decretos, reglamentos, convenios, acuerdos y demás instrumentos relativos a los asuntos competencia de la (sic) Secretario de Finanzas y Administración;
+V. Coadyuvar en la estimación anual de ingresos del Gobierno del Estado, así como en el anteproyecto de la Ley de Ingresos del Gobierno del Estado del ejercicio de que se trate, así como la estimación de los municipios que no presenten sus iniciativas específicas;
 
-VII. Coordinar y supervisar a las administraciones y receptorías de rentas en relación con las actividades de recaudación, registro vehicular, control de cumplimiento de las obligaciones de los contribuyentes, así como de la asistencia técnica que aquellas deban proporcionarles para que éstos cumplan con sus obligaciones;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
 
-VIII. Diseñar e implantar los sistemas de recaudación y control de las aportaciones de los particulares y de los municipios, para la ejecución de obra pública, conforme a las disposiciones legales aplicables, así como los convenios y acuerdos respectivos;
+VI. Coadyuvar en la elaboración de los proyectos de iniciativas de leyes, decretos, reglamentos, convenios, acuerdos y demás instrumentos de carácter normativo relativos a los asuntos competencia de la Secretaría de Finanzas y Administración;
 
-IX. Coordinarse con las unidades administrativas dependientes del Ejecutivo que prestan servicios públicos, por los que se deban pagar derechos, a efecto de establecer los procedimientos de cobro y vigilar la correcta aplicación de las disposiciones fiscales. Asimismo, analizar y evaluar sistemáticamente el comportamiento de los ingresos generados por éstas, proponiendo las medidas correctivas o preventivas necesarias para su optimización;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
 
-X. Diseñar e implantar, los sistemas para el registro y control de las obligaciones tributarias de naturaleza estatal, federal y municipal, conforme a las disposiciones fiscales aplicables y convenios respectivos;
+VII. Coordinar y supervisar a las Administraciones y Receptorías de Rentas en relación con las actividades de recaudación, registro vehicular y control de cumplimiento de las obligaciones de los contribuyentes;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+VII Bis. Proporcionar a través de las Administraciones y Receptorías de Rentas, la asistencia técnica a los contribuyentes para que éstos cumplan con sus obligaciones;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+VIII. Diseñar, implantar y actualizar los sistemas de recaudación y control de las aportaciones de los particulares y de los municipios, para la ejecución de obra pública, conforme a las disposiciones normativas aplicables, así como los convenios y acuerdos que para tal efecto se establezcan;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+IX. Coordinar a las unidades administrativas dependientes del Poder Ejecutivo que prestan servicios públicos, por los cuales se deban pagar derechos, a efecto de establecer los procedimientos de cobro y vigilar la correcta aplicación de las disposiciones normativas en materia fiscal;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+IX Bis. Analizar y evaluar de manera sistemática el comportamiento de los ingresos generados por las unidades administrativas señaladas en la fracción anterior, informando por conducto del Subsecretario de Finanzas a la Procuraduría Fiscal sobre las irregularidades, actos u omisiones detectadas; proponiendo las medidas correctivas o preventivas necesarias para su optimización;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+X. Diseñar, implantar y actualizar los sistemas para el registro y control de las obligaciones tributarias de naturaleza estatal, federal y municipal, conforme a las disposiciones fiscales aplicables y convenios que para tal efecto se establezcan;
 
 XI. Resolver las consultas que sobre aspectos concretos le formulen los contribuyentes, relacionadas con la aplicación de disposiciones fiscales federales, estatales y municipales, respecto de contribuciones coordinadas;
 
@@ -1607,25 +1661,49 @@ XV. Proporcionar a los contribuyentes orientación técnica, respecto a los proc
 
 XVI. Informar al Subsecretario de Finanzas sobre consultas y propuestas que realicen los contribuyentes en relación con trámites susceptibles de simplificación para el cumplimiento de sus obligaciones fiscales y coordinar las acciones procedentes;
 
-XVII. Diseñar las formas oficiales de solicitudes, avisos, recibos, formatos de declaración de pago de contribuciones y demás documentos que se requieran para la administración de las contribuciones estatales, federales y municipales, de conformidad con las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
 
-XVIII. Proponer la revisión fiscal de contribuyentes de los que se tengan presunción de incumplimiento de obligaciones fiscales;
+XVII. Diseñar las formas oficiales de solicitudes, avisos, recibos, formatos de declaración de pago de contribuciones y demás documentos que se requieran para la administración de las contribuciones estatales, federales y municipales, de conformidad con las disposiciones normativas aplicables;
 
-XIX. Informar al Subsecretario de Finanzas, sobre la presunta comisión de delitos fiscales y de otra naturaleza de los que tenga conocimiento con motivo del ejercicio de sus facultades;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
 
-XX. Exigir la presentación de declaraciones fiscales, avisos y documentos cuando los obligados no lo hagan en los plazos establecidos por las disposiciones fiscales aplicables y, simultáneamente o sucesivamente, hacer efectiva una cantidad igual a la determinada en la última o en cualquiera de las seis últimas declaraciones de que se trate o a la que resulte de la determinada por la autoridad; practicar el embargo precautorio de los bienes o de la negociación del contribuyente, e imponer la multa que corresponda, conforme a las disposiciones fiscales o convenios de coordinación vigentes;
+XVIII. Proponer al Subsecretario de Finanzas la revisión fiscal de contribuyentes de los que se tengan presunción de incumplimiento de obligaciones fiscales;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XIX. Informar por conducto del Subsecretario de Finanzas, al Procurador Fiscal, sobre los hechos que pudieran constituir la posible comisión de delitos fiscales, así como los de naturaleza administrativa que tenga conocimiento con motivo del ejercicio de sus facultades;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XX. Exigir la presentación de declaraciones fiscales, avisos y documentos cuando los obligados no lo hagan en los plazos establecidos por las disposiciones fiscales aplicables y, simultáneamente o sucesivamente, hacer efectiva una cantidad igual a la determinada en la última o en cualquiera de las seis últimas declaraciones de que se trate o a la que resulte de la determinada por la autoridad;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XX Bis. Practicar el embargo precautorio de los bienes o de la negociación del contribuyente, e imponer la multa que corresponda, conforme a las disposiciones fiscales o convenios de coordinación vigentes;
 
 XXI. Notificar las resoluciones que determinen créditos fiscales estatales, federales y municipales y, en su caso, llevar a cabo el procedimiento administrativo de ejecución, así como formular la liquidación de los honorarios y gastos de ejecución, de acuerdo a las disposiciones fiscales y convenios respectivos;
 
-XXII. Determinar y cobrar a los contribuyentes de impuestos federales, estatales y municipales, responsables solidarios y demás obligados, las diferencias por errores aritméticos en las declaraciones o comprobantes de pago, así como el monto de los recargos, gastos de ejecución, honorarios y gastos extraordinarios que se causen en los procedimientos de ejecución que se lleven a cabo, y hacer efectivo el importe de los cheques no pagados de inmediato y de las indemnizaciones correspondientes en los términos de las disposiciones fiscales y convenios respectivos;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XXII. Determinar y cobrar a los contribuyentes de impuestos federales, estatales y municipales, así como a los responsables solidarios y demás obligados, las diferencias por errores aritméticos en las declaraciones o comprobantes de pago, así como el monto de los recargos, gastos de ejecución, honorarios y gastos extraordinarios que se causen en los procedimientos administrativos de ejecución que se lleven a cabo;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XXII Bis. Hacer efectivo y de manera inmediata el importe de los cheques no pagados y de las indemnizaciones correspondientes en los términos de las disposiciones fiscales y convenios respectivos;
 
 XXIII. Imponer las multas por infracciones a las disposiciones fiscales federales, estatales y municipales que se causen por el incumplimiento de las obligaciones dentro de los plazos que establezcan las disposiciones fiscales o cuando las incumplan a requerimiento de la autoridad, en los términos de las disposiciones fiscales aplicables y convenios respectivos;
 
-XXIV. Determinar, de conformidad con los convenios celebrados con la Federación, así como en términos de las disposiciones legales aplicables, el destino final de las mercancías de comercio exterior, y adjudicadas en favor del Estado; para lo cual se podrá proceder a su destrucción, donación, asignación o venta en los términos de la legislación aduanera, siempre que se ubiquen dentro de los supuestos siguientes:
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XXIV. Determinar, de conformidad con los convenios celebrados con la Federación, así como en términos de las disposiciones normativas aplicables, el destino final de las mercancías de comercio exterior adjudicadas en favor del Estado;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XXIV Bis. Proceder a la destrucción, donación, asignación o venta de las mercancías a que refiere la fracción anterior en los términos de la legislación aduanera, siempre que se ubiquen dentro de los supuestos siguientes:
 
 a) Bienes embargados precautoriamente, que aún no pasen a propiedad del Fisco Federal, pero que se ubiquen en los supuestos previstos en el artículo 157 de la Ley Aduanera; y,
 
-b) Bienes que ya han pasado a propiedad del Fisco Federal y que han sido adjudicados a favor de la Entidad Federativa, como pago de incentivos de conformidad con lo dispuesto en el Convenio de Colaboración Administrativa en Materia Fiscal Federal.
+b) Bienes que ya han pasado a propiedad del Fisco Federal y que han sido adjudicados a favor del Estado, como pago de incentivos de conformidad con lo dispuesto en el Convenio de Colaboración Administrativa en Materia Fiscal Federal.
 
 XXV. Realizar los actos de verificación para mantener actualizado el padrón de contribuyentes obligados en los impuestos al valor agregado, sobre la renta, especial sobre producción y servicios y demás contribuciones federales, conforme a las disposiciones fiscales aplicables y el convenio correspondiente;
 
@@ -1637,13 +1715,21 @@ XXVIII. Expedir las tarjetas de circulación de vehículos automotores y las dem
 
 XXIX. Informar periódicamente al Subsecretario de Finanzas sobre las actividades desarrolladas y proponer los cambios que mejoren los sistemas para el ejercicio de sus facultades;
 
-XXX. Analizar el comportamiento de la recaudación de los ingresos propios: impuestos, productos, derechos y aprovechamientos; así como, de los impuestos federales coordinados: Impuesto sobre Tenencia de Vehículos, Impuesto sobre Automóviles Nuevos, y de los derivados de los anexos de colaboración administrativa en materia fiscal federal, durante el ejercicio y calcular el monto de los ingresos adicionales que pudieran obtenerse, así como de reducción del ingreso en relación con su estimación inicial, y proporcionar dicha información a la Dirección de Política Hacendaria e informar al Secretario de Finanzas y Administración, por conducto de la Subsecretaría de Finanzas, durante el último trimestre de que se trate, con el objeto de que pueda informar al Gobernador, para que en su caso, presente la iniciativa de autorización al Congreso del Estado, para realizar las transferencias, ampliaciones, reducciones y modificaciones presupuestarias que correspondan a las prioridades del gobierno del Estado;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XXX. Analizar el comportamiento de la recaudación de los ingresos propios; impuestos, productos, derechos y aprovechamientos; así como, de los impuestos federales coordinados: Impuesto sobre Tenencia de Vehículos, Impuesto sobre Automóviles Nuevos, y de los derivados de los anexos de colaboración administrativa en materia fiscal federal, durante el ejercicio fiscal que corresponda;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XXX Bis. Calcular el monto de los ingresos adicionales que pudieran obtenerse, así como de reducción del ingreso en relación con su estimación inicial, y proporcionar dicha información a la Unidad de Política Hacendaria, durante el último trimestre del ejercicio fiscal de que se trate, con el objeto de que pueda informar al Gobernador, para que en su caso, presente la iniciativa de autorización al Poder Legislativo del Estado, para realizar las transferencias, ampliaciones, reducciones y modificaciones presupuestarias que correspondan a las prioridades del Gobierno del Estado;
 
 XXXI. Resolver las solicitudes de condonación de las multas impuestas por infracción a las disposiciones fiscales estatales, federales y municipales, que se conozcan con motivo del ejercicio de las facultades de comprobación del cumplimiento de las obligaciones fiscales, en los términos de las disposiciones fiscales aplicables y convenios respectivos;
 
 XXXII. Resolver las solicitudes de condonación de las multas impuestas por infracciones a las disposiciones fiscales federales, estatales y municipales que se causen por el incumplimiento de las obligaciones dentro de los plazos que establezcan las disposiciones fiscales o cuando las cumplan a requerimiento de la autoridad, en los términos de las disposiciones fiscales aplicables y convenios respectivos; y,
 
-XXXIII. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XXXIII. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones normativas aplicables.
 
 #### SECCIÓN II. DE LA DIRECCIÓN DE AUDITORÍA Y REVISIÓN FISCAL
 
@@ -1651,7 +1737,9 @@ XXXIII. Las demás que le señale el Secretario de Finanzas y Administración y 
 
 Al Director de Auditoria y Revisión Fiscal le corresponde el ejercicio de las facultades siguientes:
 
-I. Proponer al Secretario de Finanzas y Administración o al Subsecretario de Finanzas, la política, programas, objetivos y metas de la fiscalización en el Estado, de conformidad con las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+I. Proponer al Subsecretario de Finanzas, los proyectos sobre la política, programas, objetivos y metas de las revisiones fiscales en el Estado, a efecto de que por su conducto sean presentados al Secretario de Finanzas y Administración;
 
 II. Dirigir, coordinar, supervisar y dar seguimiento a las actividades de comprobación del cumplimiento de las obligaciones fiscales y aduaneras, asignadas al personal autorizado y elaborar los informes necesarios para la evaluación de los programas;
 
@@ -1659,55 +1747,135 @@ III. Ordenar la práctica de visitas domiciliarias a contribuyentes y de otros a
 
 IV. Practicar visitas domiciliarias, auditorias, inspecciones, verificaciones, actos de vigilancia, y demás actos que establezcan las disposiciones fiscales y aduaneras, para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de impuestos estatales, federales y municipales, incluyendo las que se causen por la entrada al territorio nacional o salida del mismo de mercancías y medios de transporte, derechos y aprovechamientos coordinados y sus accesorios, en los términos de las disposiciones fiscales federales, estatales y municipales aplicables y los convenios respectivos;
 
-V. Ordenar y practicar visitas domiciliarias y verificar mercancías en centros de almacenamiento, distribución o comercialización, tianguis, mercados sobre ruedas, puestos fijos y semifijos en la vía pública e inclusive en transporte, a fin de comprobar la legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional de las mercancías de procedencia extranjera, así como el cumplimiento de obligaciones a cargo de los contribuyentes, importadores, exportadores, productores, responsables solidarios y demás obligados en materia de impuestos al comercio exterior, así como verificar el cumplimiento de las regulaciones y restricciones no arancelarias.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
 
-Asimismo, verificar las normas oficiales mexicanas, a que dichas mercancías de comercio exterior están sujetas; y, en su caso, practicar embargo precautorio de las mismas, y ordenar, iniciar, tramitar y resolver los procedimientos aduaneros que se deriven del ejercicio de las facultades de comprobación en relación con el cumplimiento de las obligaciones fiscales y aduaneras; designar las depositarías de las mercancías a las autoridades fiscales de los municipios con quien así lo acuerden, o a terceras personas, e incluso al propio interesado; y, en los casos que proceda, ordenar el levantamiento del citado embargo y la entrega de las mercancías embargadas, antes de la conclusión del procedimiento a que se refiere esta fracción, en términos de las disposiciones legales aplicables y los convenios respectivos;
+V. Ordenar y practicar visitas domiciliarias y verificar mercancías en centros de almacenamiento, distribución o comercialización, tianguis, mercados sobre ruedas, puestos fijos y semifijos en la vía pública e inclusive en transporte, a fin de comprobar la legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional de las mercancías de procedencia extranjera, así como el cumplimiento de obligaciones a cargo de los contribuyentes, importadores, exportadores, productores, responsables solidarios y demás obligados en materia de impuestos al comercio exterior, así como verificar el cumplimiento de las regulaciones y restricciones no arancelarias;
 
-VI. Ordenar y practicar la verificación de la legal importación, estancia o tenencia, transporte o manejo en territorio nacional de los vehículos en circulación, aún cuando no se encuentren en movimiento; para estos efectos, el personal facultado podrá efectuar visitas domiciliarias y verificar vehículos incluso en centros de almacenamiento, distribución o comercialización, tianguis o lotes donde se realice la exhibición de los mismos para su venta; excepto aeronaves, introducidos en el territorio del Estado; para verificar el cumplimiento de obligaciones a cargo de los contribuyentes, importadores, exportadores, productores, responsables solidarios y demás obligados en materia de impuestos.
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2015)</small>
 
-De igual forma, verificar el cumplimiento de las regulaciones y restricciones no arancelarias en los vehículos a que se refiere esta fracción, inclusive las normas oficiales mexicanas, a que los mismos están sujetos y practicar en su caso, la retención, y embargo precautorio de los mismos; ordenar, iniciar, tramitar y resolver los procedimientos aduaneros que se deriven del ejercicio de las facultades de comprobación en relación con el cumplimiento de las obligaciones fiscales y aduaneras; designar las depositarías para los vehículos, a las autoridades fiscales de los municipios con quien así lo acuerden, o a terceras personas; ordenar en los casos que proceda, el levantamiento del citado embargo y la entrega de los vehículos embargados, antes de la conclusión del procedimiento a que se refiere esta fracción, en términos de las disposiciones legales aplicables;
+V Bis. Verificar las normas oficiales mexicanas, a que las mercancías de procedencia extranjera están sujetas; y, en su caso, practicar embargo precautorio de las mismas, y ordenar, iniciar, tramitar y resolver los procedimientos aduaneros que se deriven del ejercicio de las facultades de comprobación en relación con el cumplimiento de las obligaciones fiscales y aduaneras;
 
-VII. Establecer la naturaleza, características, clasificación arancelaria, origen y valor de las mercancías de comercio exterior, de conformidad con las disposiciones legales aplicables, y emitir el dictamen de clasificación arancelaria, cotización y avalúo de las mercancías, así como solicitar el dictamen o apoyo técnico que requiera a las autoridades aduaneras, al agente aduanal, dictaminador aduanero o a cualquier otro perito en materia aduanera y de comercio exterior;
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2015)</small>
 
-VIII. Requerir a los contribuyentes, importadores, exportadores, responsables solidarios o terceros con ellos relacionados, o a contadores públicos registrados que hayan formulado dictámenes o declaratorias para efectos fiscales, para que exhiban y, en su caso, proporcionen en su domicilio, establecimientos o en las oficinas de la propia autoridad; la contabilidad, declaraciones, avisos, datos, otros documentos, correspondencia e informes, y en el caso de dichos contadores, citarlos para que exhiban sus papeles de trabajo; así como emitir los oficios de observaciones y el de conclusión de la revisión, conforme a las disposiciones legales aplicables, y comunicar a los contribuyentes la sustitución de la autoridad que continúe con la revisión.
+V Ter. Designar como depositarías de las mercancías a las autoridades fiscales de los municipios con quien así lo acuerden, o a terceras personas, e incluso al propio interesado; y, en los casos que proceda, ordenar el levantamiento del citado embargo y la entrega de las mercancías embargadas, antes de la conclusión de los procedimientos a que se refieren las fracciones V y V Bis de este artículo, en términos de las disposiciones normativas aplicables y los convenios respectivos;
 
-Asimismo, recabar de los servidores públicos y de los fedatarios, los informes y datos que tengan con motivo de sus funciones, todo ello para proceder a su revisión, a fin de comprobar el cumplimiento de las obligaciones fiscales y aduaneras en los términos de las disposiciones federales, estatales y municipales aplicables y los convenios respectivos. En caso de que así se solicite, otorgar prórrogas para la presentación de la documentación de que se trate;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+VI. Ordenar y practicar la verificación de la legal importación, estancia o tenencia, transporte o manejo en territorio nacional de los vehículos en circulación, aún cuando no se encuentren en movimiento;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+VI Bis. Efectuar a través del personal facultado para estos efectos, las visitas domiciliarias y verificar vehículos incluso en centros de almacenamiento, distribución o comercialización, tianguis o lotes donde se realice la exhibición de los mismos para su venta; excepto aeronaves, introducidos en el territorio del Estado; para verificar el cumplimiento de obligaciones a cargo de los contribuyentes, importadores, exportadores, productores, responsables solidarios y demás obligados en materia de impuestos;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+VI Ter. Verificar a través del personal facultado para ello, el cumplimiento de las regulaciones y restricciones no arancelarias en los vehículos a que se refieren las fracciones V y V Bis de este artículo, inclusive las normas oficiales mexicanas, a que los mismos están sujetos y practicar en su caso, la retención y embargo precautorio de los mismos;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+VI Quater. Ordenar, iniciar, tramitar y resolver los procedimientos aduaneros que se deriven del ejercicio de las facultades de comprobación en relación con el cumplimiento de las obligaciones fiscales y aduaneras;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+VI Quinquies. Designar a las autoridades fiscales de los municipios, con quien así lo acuerden o a terceras personas, como depositarías para los vehículos; y, ordenar en los casos que proceda, el levantamiento del citado embargo y la entrega de los vehículos embargados, antes de la conclusión del procedimiento a que se refieren las fracciones V y V Bis de este artículo, en términos de las disposiciones normativas aplicables;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+VII. Establecer la naturaleza, características, clasificación arancelaria, origen y valor de las mercancías de comercio exterior, de conformidad con las disposiciones normativas aplicables;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+VII Bis. Emitir el dictamen de clasificación arancelaria, cotización y avalúo de las mercancías, así como solicitar el dictamen o apoyo técnico que requiera a las autoridades aduaneras, al agente aduanal, dictaminador aduanero o a cualquier otro perito en materia aduanera y de comercio exterior;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+VIII. Requerir a los contribuyentes, importadores, exportadores, responsables solidarios o terceros con ellos relacionados, o a contadores públicos registrados que hayan formulado dictámenes o declaratorias para efectos fiscales, para que exhiban y, en su caso, proporcionen en su domicilio, establecimientos o en las oficinas de la propia autoridad; la contabilidad, declaraciones, avisos, datos, otros documentos, correspondencia e informes, y en el caso de dichos contadores, citarlos para que exhiban sus papeles de trabajo;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+VIII Bis. Emitir los oficios de observaciones y el de conclusión de la revisión, conforme a las disposiciones normativas aplicables y comunicar a los contribuyentes la sustitución de la autoridad que continúe con la revisión;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+VIII Ter. Recabar de los servidores públicos y de los fedatarios, los informes y datos que tengan con motivo de sus funciones, para proceder a su revisión, a fin de comprobar el cumplimiento de las obligaciones fiscales y aduaneras en los términos de las disposiciones federales, estatales y municipales aplicables y los convenios respectivos. En caso de que así se solicite, otorgar prórrogas para la presentación de la documentación de que se trate;
 
 IX. Ordenar y practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales relacionadas con la expedición de comprobantes fiscales;
 
-X. Imponer, y en su caso, condonar las multas de carácter excepcional, por infracción a las disposiciones fiscales o aduaneras; estatales, federales y municipales, que se conozcan con motivo del ejercicio de las facultades de comprobación del cumplimiento de las obligaciones fiscales, en los términos de las disposiciones fiscales aplicables y convenios respectivos;
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2015)</small>
 
-XI. Determinar los impuestos y sus accesorios de carácter federal, estatal y municipal; aplicar las cuotas compensatorias y determinar en cantidad líquida el monto correspondiente que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados, así como determinar los derechos, contribuciones de mejoras, aprovechamientos y sus accesorios que deriven del ejercicio de las facultades de comprobación, así como declarar que las mercancías y vehículos, pasan a propiedad del Fisco Federal conforme a las disposiciones legales aplicables y a los convenios respectivos, o bien, en caso de que proceda, declarar que dichas mercancías y vehículos han causado abandono a favor del Fisco Federal;
+IX Bis. Informar por conducto del Subsecretario de Finanzas al Procurador Fiscal, el resultado de las revisiones fiscales realizadas a los contribuyentes por incumplimiento de obligaciones fiscales;
 
-XII. Informar a la Dirección de Ingresos respecto de las mercancías y vehículos que pasen a propiedad del Fisco Federal, derivado de los procedimientos que se tramiten conforme a las disposiciones del Código Fiscal de la Federación y de la Ley Aduanera, para que se les de destino final, conforme lo establecen las disposiciones legales vigentes y los convenios respectivos, así como tratándose de mercancías perecederas, de fácil descomposición o deterioro, o de animales vivos embargados precautoriamente, o bien, en caso de que proceda, declarar que dichas mercancías y vehículos han causado abandono a favor del Fisco Federal;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
 
-XIII. Ordenar y practicar el embargo precautorio para asegurar el interés fiscal, cuando el crédito fiscal no sea exigible pero haya sido determinado por el contribuyente o por la autoridad en el ejercicio de sus facultades de comprobación, para asegurar el interés fiscal, cuando a juicio de esta exista peligro de que el obligado se ausente o realice enajenación de bienes o cualquier otra maniobra tendiente a evadir el cumplimiento de las disposiciones fiscales, así como levantarlo cuando proceda;
+X. Proponer al Secretario de Finanzas y Administración por conducto del Subsecretario de Finanzas, que se impongan, y en su caso, se condonen las multas de carácter excepcional, por infracción a las disposiciones fiscales o aduaneras; estatales, federales y municipales, que se conozcan con motivo del ejercicio de las facultades de comprobación del cumplimiento de las obligaciones fiscales, en los términos de las disposiciones fiscales aplicables y convenios respectivos;
 
-XIV. Decretar el aseguramiento de los bienes o la negociación del contribuyente cuando:
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XI. Determinar los impuestos y sus accesorios de carácter federal, estatal y municipal;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XI Bis. Aplicar las cuotas compensatorias y determinar en cantidad líquida el monto correspondiente que resulte a cargo de los contribuyentes, responsables solidarios y demás obligados; así como determinar los derechos, contribuciones de mejoras, aprovechamientos y sus accesorios que deriven del ejercicio de las facultades de comprobación;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XI Ter. Declarar que las mercancías perecederas de fácil descomposición o deterioro, animales vivos y vehículos, pasan a la propiedad del Fisco Federal conforme a las disposiciones normativas aplicables y los convenios respectivos, o bien, en caso de que proceda, declarar que dichas mercancías, animales vivos y vehículos han causado abandono a favor del Fisco Federal;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XII. Informar a la Dirección de Ingresos y a la Procuraduría Fiscal, respecto de las mercancías y vehículos que pasan a la propiedad del Fisco Federal, derivado de los procedimientos que se tramiten conforme a las disposiciones del Código Fiscal de la Federación y de la Ley Aduanera, con el objeto de otorgarles destino final, conforme lo establecen las disposiciones normativas vigentes y los convenios respectivos, así como tratándose de mercancías perecederas, de fácil descomposición o deterioro, o de animales vivos embargados precautoriamente;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XIII. Ordenar y practicar el embargo precautorio para asegurar el interés fiscal, cuando el crédito fiscal no sea exigible pero haya sido determinado por el contribuyente o por la autoridad en el ejercicio de sus facultades de comprobación, para asegurar el interés fiscal, cuando a juicio de esta exista peligro de que el obligado se ausente o realice enajenación de bienes o cualquier otra maniobra tendiente a evadir el cumplimiento de las disposiciones fiscales, así como en su levantamiento cuando así proceda, informando de las acciones a la Procuraduría Fiscal;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2015)</small>
+
+XIV. Decretar el aseguramiento de los bienes o la negociación del contribuyente, en los casos siguientes:
 
 a) El contribuyente se oponga u obstaculice la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales o no se pueda notificar su inicio por haber desaparecido o por ignorarse su domicilio;
 
-b) Después de iniciadas las facultades de comprobación, el contribuyente desaparezca o exista riesgo inminente de que oculte, enajene o dilapide sus bienes;
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2015)</small>
 
-c) El contribuyente se niegue a proporcionar la contabilidad que acredite el cumplimiento de las disposiciones fiscales, a que se está obligado;
+b) Iniciadas las facultades de comprobación, el contribuyente desaparezca o exista riesgo inminente de que oculte, enajene o dilapide sus bienes;
 
-d) Se realicen visitas a contribuyentes con locales, puestos fijos o semifijos en la vía pública y dichos contribuyentes no puedan demostrar que se encuentran inscritos en el registro federal de contribuyentes, ni exhibir los comprobantes que amparen la legal posesión o propiedad de las mercancías que vendan en esos lugares. Una vez inscrito el contribuyente en el citado registro y acreditada la posesión o propiedad de la mercancía, se levantará el aseguramiento realizado; y,
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2015)</small>
+
+c) El contribuyente o la persona facultada para ello, se niegue a proporcionar la contabilidad que acredite el cumplimiento de las disposiciones fiscales, a que se está obligado;
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2015)</small>
+
+d) Los contribuyentes no puedan demostrar que se encuentran inscritos en el registro federal de contribuyentes, ni exhibir los comprobantes que amparen la legal posesión o propiedad de las mercancías que vendan, cuando se realicen visitas a éstos en locales, puestos fijos o semifijos en la vía pública. Por lo que, una vez inscrito el contribuyente en el citado registro y acreditada la posesión o propiedad de la mercancía, se levantará el aseguramiento realizado; y,
+
+> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2015)</small>
 
 e) Se detecten envases o recipientes que contengan bebidas alcohólicas sin que tengan adheridos marbetes o precintos o bien no se acredite la legal posesión de los marbetes o precintos, se encuentren alterados o sean falsos.
 
-XV. Solicitar a las instituciones bancarias, así como a las organizaciones auxiliares de crédito, que ejecuten el embargo o aseguramiento de cuentas bancarias y de inversiones, a nombre de los contribuyentes o responsables solidarios y solicitar su levantamiento cuando así proceda;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XV. Solicitar a las instituciones bancarias, así como a las organizaciones auxiliares de crédito, que ejecuten el embargo o aseguramiento de cuentas bancarias y de inversiones, a nombre de los contribuyentes o responsables solidarios y solicitar su levantamiento cuando así proceda e informar la practica de estas acciones a la Procuraduría Fiscal;
 
 XVI. Dictar las resoluciones que procedan en materia de participación de los trabajadores en las utilidades de las empresas cuando se desprendan del ejercicio de las facultades de comprobación que la entidad tenga convenidas;
 
-XVII. Emitir las resoluciones que determinen créditos fiscales estatales, municipales y federales, en los términos de las leyes fiscales y los convenios respectivos, que se deriven del ejercicio de las facultades de comprobación de las disposiciones fiscales respectivas;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
 
-XVIII. Expedir las acreditaciones al personal que se autorice para realizar la práctica de actos de fiscalización, de conformidad con las disposiciones fiscales aplicables;
+XVII. Emitir e informar a la Procuraduría Fiscal sobre las resoluciones que determinen créditos fiscales estatales, municipales y federales, en los términos de las disposiciones normativas en materia fiscal y los convenios respectivos, que se deriven del ejercicio de las facultades de comprobación de las disposiciones fiscales respectivas;
 
-XIX. Informar a la autoridad fiscal federal competente, sobre las irregularidades cometidas por contadores públicos, en la formulación de dictámenes o declaratorias, en relación con disposiciones fiscales;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
 
-XX. Certificar los papeles de trabajo que sean elaborados con motivo de la práctica de visitas domiciliarias o de cualquier otra forma o método de revisión fiscal, así como otros documentos que obren en los expedientes relativos a los asuntos de su competencia;
+XVIII. Expedir las acreditaciones al personal que se autorice para realizar la práctica de actos de fiscalización, de conformidad con las disposiciones normativas aplicables en materia fiscal;
 
-XXI. Hacer del conocimiento del Subsecretario de Finanzas, sobre la presunta comisión de delitos fiscales y de otra naturaleza de los que tenga conocimiento con motivo del ejercicio de sus facultades;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XIX. Informar a la autoridad fiscal federal competente y a la Procuraduría Fiscal, sobre las irregularidades cometidas por contadores públicos, en la formulación de dictámenes o declaratorias, en relación con disposiciones normativas en metería (sic) fiscal;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XX. Expedir la certificación de documentos de trabajo que sean elaborados con motivo de la práctica de visitas domiciliarias o de cualquier otra forma o método de revisión fiscal, así como otros que obren en los expedientes relativos a los asuntos de su competencia, excepto de los documentos que contengan información clasificada como reservada o confidencial;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XXI. Hacer del conocimiento al Procurador Fiscal por conducto del Subsecretario de Finanzas, sobre acciones u omisiones de hechos que pudieran constituir la presunta comisión de delitos fiscales y de otra naturaleza de los que tenga conocimiento con motivo del ejercicio de sus facultades;
 
 XXII. Participar, previo acuerdo del Secretario de Finanzas y Administración, en los comités y subcomités de programación de actos de fiscalización, así como en las reuniones periódicas de evaluación con los servidores públicos de la Secretaría de Hacienda y Crédito Público. Asimismo, participar en las reuniones del Grupo Técnico de Fiscalización de la Comisión Permanente de Servidores públicos Fiscales y en las reuniones de los grupos de trabajo que se deriven de los asuntos tratados en el mismo;
 
@@ -1717,7 +1885,9 @@ XXIV. Elaborar los informes periódicos que la Secretaría de Finanzas y Adminis
 
 XXV. Informar periódicamente al Subsecretario de Finanzas, sobre las actividades desarrolladas y proponer los cambios que mejoren los sistemas para el ejercicio de sus facultades; y,
 
-XXVI. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XXVI. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones normativas aplicables.
 
 En el ejercicio de las facultades que corresponden al Director de Auditoria y Revisión Fiscal, éste se auxiliará por los jefes de departamento, coordinadores, supervisores, auditores, inspectores, verificadores, ayudantes de auditor y notificadores, así como por el personal que se requiera para satisfacer las necesidades del servicio.
 
@@ -1727,7 +1897,9 @@ En el ejercicio de las facultades que corresponden al Director de Auditoria y Re
 
 Al Director de Catastro le corresponde el ejercicio de las facultades siguientes:
 
-I. Ejecutar las acciones catastrales, a que se refiere la Ley de Catastro del Estado de Michoacán;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+I. Ejecutar las acciones catastrales, a que se refiere la Ley de Catastro del Estado de Michoacán de Ocampo;
 
 II. Coordinarse con las dependencias y entidades de la Administración Pública Federal y Estatal, así como con instituciones privadas, con el objeto de llevar a cabo acciones conjuntas relacionadas con el registro catastral y actividades afines;
 
@@ -1741,17 +1913,33 @@ VI. Elaborar y mantener actualizado el manual técnico de valuación catastral d
 
 VII. Colaborar en la estimación anual de ingresos del Gobierno del Estado y los anteproyectos de Ley de Ingresos del Gobierno del Estado del ejercicio de que se trate, así como de los municipios que no presenten iniciativas específicas;
 
-VIII. Apoyar al Subsecretario de Finanzas en la elaboración de los proyectos de iniciativas de leyes, decretos, reglamentos, convenios, acuerdos y demás instrumentos relativos a los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
 
-IX. Elaborar los manuales técnicos que permitan a la autoridad municipal la elaboración de los estudios para determinar los valores unitarios de terreno y construcción que deben someterse a la consideración y aprobación, en su caso, del Congreso del Estado, conforme a las disposiciones aplicables;
+VIII. Coadyuvar en el ámbito de su competencia con el Subsecretario de Finanzas y el Procurador Fiscal en la elaboración de los proyectos de iniciativas de leyes, decretos, reglamentos, convenios, acuerdos y demás instrumentos normativos que se requieran;
 
-X. Elaborar y mantener actualizados los planos de las localidades que contengan los valores unitarios de terreno, cuya solicitud de autorización se presente al Congreso del Estado;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
 
-XI. Recibir y atender las promociones relativas a procedimientos administrativos sobre herencias vacantes, inmuebles mostrencos, predios ignorados y registro de predios ejidales y comunales, resolviendo lo procedente en cada caso;
+IX. Elaborar los manuales técnicos que permitan a la autoridad municipal la elaboración de los estudios para determinar los valores unitarios de terreno y construcción que deben someterse a la consideración y aprobación, en su caso, del Poder Legislativo del Estado, de conformidad con las disposiciones normativas aplicables;
 
-XII. Expedir los acuerdos relativos a los procedimientos administrativos establecidos en la Ley de Catastro del Estado de Michoacán, en los términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
 
-XIII. Realizar las acciones relativas a la actualización permanente de los planos que contengan los valores unitarios de terreno aprobados por el Congreso del Estado, considerando las nuevas áreas de desarrollo urbano, en los términos de lo dispuesto por el artículo 10 de la Ley de Catastro del Estado de Michoacán, y asignar los valores unitarios aprobados por el Congreso del Estado, para zonas urbanas de desarrollo equivalente en cada población de la entidad;
+X. Elaborar y mantener actualizados los planos de las localidades que contengan los valores unitarios de terreno, cuya solicitud de autorización se presente al Poder Legislativo del Estado;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XI. Recibir, atender e informar a la Procuraduría Fiscal, sobre las promociones relativas a procedimientos administrativos sobre herencias vacantes, inmuebles mostrencos, predios ignorados y registro de predios ejidales y comunales, resolviendo lo procedente en cada caso;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XII. Expedir los acuerdos y resoluciones relativos a los procedimientos administrativos establecidos en la Ley de Catastro del Estado de Michoacán de Ocampo, en los términos de las disposiciones normativas aplicables;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XIII. Realizar las acciones relativas a la actualización permanente de los planos que contengan los valores unitarios de terreno aprobados por el Poder Legislativo del Estado, considerando las nuevas áreas de desarrollo urbano, en los términos de lo dispuesto por el artículo 10 de la Ley de Catastro del Estado de Michoacán de Ocampo;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XIII Bis. Asignar los valores unitarios para las zonas urbanas de desarrollo equivalentes en cada población del Estado, previa aprobación del Poder Legislativo del Estado;
 
 XIV. Verificar el cumplimiento de los requisitos establecidos para la obtención de autorización de perito valuador; llevar un registro de los mismos y mantenerlo actualizado, así como aplicar las sanciones que en su caso procedan;
 
@@ -1763,13 +1951,19 @@ XVII. Elaborar los acuerdos, avalúos y demás resoluciones que deban notificars
 
 XVIII. Recibir y, en su caso, requerir de los particulares y de los fedatarios públicos, las manifestaciones, declaraciones y avisos que de acuerdo con las disposiciones catastrales y fiscales aplicables estén obligados a presentar, así como recibir y tramitar las promociones, solicitudes y demás documentos en materia de su competencia;
 
-XIX. Emitir los lineamientos de carácter administrativo que, adicionalmente a las disposiciones jurídicas, deben atender las administraciones y receptorías de rentas en materia catastral, así como, supervisar y evaluar las actividades de éstas en esta materia, realizando las visitas de supervisión que sean necesarias para tal efecto;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
 
-XX. Imponer las sanciones por infracciones a la Ley de Catastro del Estado de Michoacán y su reglamento, así como elaborar las resoluciones de condonación que en su caso procedan;
+XIX. Emitir los lineamientos de carácter técnico-administrativo que, adicionalmente a las disposiciones normativas aplicables, deben atender las administraciones y receptorías de rentas en materia catastral, así como, supervisar y evaluar las actividades de éstas, realizando las visitas de supervisión que sean necesarias para tal efecto;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XX. Imponer las sanciones por infracciones a la Ley de Catastro del Estado de Michoacán de Ocampo y su Reglamento, así como elaborar las resoluciones de condonación que en su caso procedan;
 
 XXI. Proponer las medidas de política fiscal que en materia de contribuciones a la propiedad inmobiliaria sean susceptibles de adoptarse, así como los proyectos de reformas correspondientes;
 
-XXII. Apoyar en su caso, a la Dirección de Ingresos, con la información que ésta le requiera para la elaboración de las resoluciones de devolución de pagos indebidos por concepto de contribuciones sobre la propiedad inmobiliaria, en los términos de las disposiciones legales aplicables y los convenios de coordinación respectivos;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XXII. Apoyar en su caso, a la Dirección de Ingresos, con la información que ésta le requiera para la elaboración de las resoluciones de devolución de pagos indebidos por concepto de contribuciones sobre la propiedad inmobiliaria, en los términos de las disposiciones normativas aplicables y los convenios de coordinación respectivos;
 
 XXIII. Realizar las acciones que en materia de catastro le correspondan conforme a los convenios de coordinación que se suscriban con los municipios;
 
@@ -1777,7 +1971,9 @@ XXIV. Proporcionar los servicios catastrales conforme a las disposiciones legale
 
 XXV. Informar periódicamente al Subsecretario de Finanzas sobre las actividades desarrolladas y proponer los cambios que mejoren los sistemas para el ejercicio de sus facultades; y,
 
-XXVI. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XXVI. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones normativas aplicables.
 
 #### SECCIÓN IV. DE LA DIRECCIÓN DE PROGRAMACIÓN Y PRESUPUESTO
 
@@ -1797,7 +1993,9 @@ V. Dictaminar sobre las solicitudes de modificación de metas de las obras y reg
 
 VI. Diseñar, operar y mantener actualizado el módulo de programación en el Sistema de Programación de Inversiones;
 
-VII. Participar en la solventación de las observaciones emitidas por los órganos de control del Gobierno del Estado, del Congreso del Estado y de la Auditoría Superior de la Federación, dentro del ámbito de su competencia;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+VII. Participar dentro del ámbito de su competencia, en la solventación de las observaciones emitidas por los órganos de control del Gobierno del Estado, del Poder Legislativo del Estado y de la Auditoría Superior de la Federación;
 
 VIII. Coadyuvar en la operación del sistema de control de obras, y mantenerlo permanentemente actualizado;
 
@@ -1817,7 +2015,9 @@ XV. Analizar los proyectos de presupuestos presentados a la Secretaría de Finan
 
 XVI. Integrar el Proyecto Anual de presupuesto de Egresos del Estado, de acuerdo a la calendarización de los ingresos disponibles y someterlo a la consideración del Subsecretario de Finanzas, para su trámite correspondiente;
 
-XVII. Formular la iniciativa de Decreto de Presupuesto de Egresos del Estado;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XVII. Coadyuvar en la materia de su competencia con la Subprocuraduría de Legislación y Consulta en la formulación de la iniciativa de Decreto de Presupuesto de Egresos del Estado, del ejercicio fiscal que corresponda;
 
 XVIII. Registrar en el sistema para el ejercicio del presupuesto de egresos del Estado las transferencias presupuestales entre programas y partidas, los calendarios de ministración de recursos de las unidades programáticas presupuestarias que los soliciten, así como establecer los lineamientos a que deberán sujetarse las dependencias, coordinaciones y entidades para su realización, previo acuerdo con el Subsecretario de Finanzas;
 
@@ -1825,7 +2025,7 @@ XIX. Analizar el comportamiento del ejercicio del presupuesto e informar lo cond
 
 XX. Aprobar la liberación del presupuesto de gasto corriente, previa verificación de la disponibilidad presupuestaria, conforme al calendario autorizado del presupuesto de egresos;
 
-XXI. Solicitar a las unidades programáticas presupuestarias, los informes y documentos que se requieran en relación con el presupuesto de egresos del Estado, así como realizar el análisis de su aplicación, opinar y emitir las recomendaciones para su encauzamiento (sic) programático y normativo;
+XXI. Solicitar a las unidades programáticas presupuestarias, los informes y documentos que se requieran en relación con el presupuesto de egresos del Estado, así como realizar el análisis de su aplicación, opinar y emitir las recomendaciones para su encauzamiento programático y normativo;
 
 XXII. Realizar los estudios necesarios en materia presupuestal y promover la aplicación de nuevas técnicas presupuestarias en la Administración Pública Estatal;
 
@@ -1855,9 +2055,13 @@ XXXIV. Generar los informes periódicos que sobre el ejercicio del gasto públic
 
 XXXV. Formular los informes periódicos sobre el ejercicio del gasto público en obras, proyectos, acciones y servicios, que requiera la Secretaría de Finanzas y Administración para la evaluación de los programas de inversión;
 
-XXXVI. Coadyuvar con la Dirección de Contabilidad en la elaboración de los informes trimestrales sobre el avance en el ejercicio del gasto y de la Cuenta Pública de la Hacienda Estatal, que deben presentarse al Congreso del Estado;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
 
-XXXVII. Verificar que el ejercicio del presupuesto se realice en cumplimiento de las disposiciones legales aplicables;
+XXXVI. Coadyuvar con la Dirección de Contabilidad en la elaboración de los informes trimestrales sobre el avance en el ejercicio del gasto y de la Cuenta Pública de la Hacienda Estatal, que deben presentarse al Poder Legislativo del Estado;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XXXVII. Verificar que el ejercicio del presupuesto se realice en cumplimiento de las disposiciones normativas aplicables;
 
 XXXVIII. Verificar que el ejercicio del gasto en materia de servicios personales, se apegue a las plantillas aprobadas;
 
@@ -1865,7 +2069,9 @@ XXXIX. Solicitar a las dependencias, coordinaciones y entidades, los informes, y
 
 XL. Informar periódicamente al Subsecretario de Finanzas sobre las actividades desarrolladas y proponer los cambios que mejoren los sistemas para el ejercicio de sus facultades; y,
 
-XLI. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XLI. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones normativas aplicables.
 
 #### SECCIÓN V. DE LA DIRECCIÓN DE SEGUIMIENTO DE LA INVERSIÓN PÚBLICA CONVENIDA
 
@@ -1885,13 +2091,17 @@ V. Dar seguimiento a los compromisos adquiridos en la celebración de convenios,
 
 VI. Gestionar ante las instancias federales competentes, previo acuerdo del Secretario de Finanzas y Administración, la asignación de los recursos y aprobación del Fondo de Apoyo para el Fortalecimiento de las Entidades Federativas, del Fideicomiso para la Infraestructura en los Estados; del Fondo de Estabilización de los Ingresos de las Entidades Federativas, así como de los programas de subsidios que se presenten;
 
-VII. Requerir a las dependencias, coordinaciones y entidades de la Administración Pública Estatal, así como a los municipios, los informes trimestrales sobre el comportamiento de indicadores en su caso, ejercicio, destino y resultados obtenidos con recursos presupuestarios federales transferidos, para alimentar al Sistema de Información Electrónico de la Secretaría de Hacienda y Crédito Público, a disposición de las entidades federativas y los municipios, a fin de proporcionar los informes previstos en la Ley de Coordinación Fiscal y en el Presupuesto de Egresos de la Federación;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+VII. Requerir a las dependencias, coordinaciones y entidades de la Administración Pública Estatal, así como a los municipios, los informes trimestrales sobre el comportamiento de indicadores en su caso, ejercicio, destino y resultados obtenidos con recursos presupuestarios federales transferidos, para alimentar al Sistema de Información Electrónico de la Secretaría de Hacienda y Crédito Público, a fin de proporcionar los informes previstos en la Ley de Coordinación Fiscal y en el Presupuesto de Egresos de la Federación;
 
 VIII. Participar en la formulación de la Cuenta Pública de la Hacienda Estatal, que debe rendir el Gobernador del Estado, en los términos de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo;
 
 IX. Colaborar en la integración de los informes trimestrales sobre el avance del ejercicio del gasto público estatal;
 
-X. Participar en la solventación de las observaciones emitidas por la Coordinación de Contraloría, la Auditoría Superior de Michoacán, la Secretaría de la Función Pública y la Auditoría Superior de la Federación, dentro del ámbito de su competencia; y,
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+X. Participar dentro del ámbito de su competencia en la solventación de las observaciones emitidas por los órganos de control del Gobierno del Estado, del Poder Legislativo del Estado y de la Auditoría Superior de la Federación; y,
 
 XI. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones normativas aplicables.
 
@@ -1899,41 +2109,7 @@ XI. Las demás que le señale el Secretario de Finanzas y Administración y otra
 
 ###### ARTÍCULO 44.
 
-Al Director de Política Hacendaria le corresponde el ejercicio de las facultades siguientes:
-
-I. Elaborar la estimación anual de ingresos del Gobierno del Estado y los anteproyectos de Ley de Ingresos del Gobierno del Estado, así como para los municipios que no presenten iniciativas específicas;
-
-II. Participar en la elaboración de los proyectos de iniciativas de leyes, decretos, reglamentos, convenios, acuerdos y demás instrumentos relativos a los asuntos competencia de la Secretaría de Finanzas y Administración y, en su caso, elaborar aquellos proyectos de leyes y decretos aplicables en el ámbito municipal;
-
-III. Apoyar al Secretario de Finanzas y Administración en la vigilancia de la transferencia de los Fondos de Aportaciones Federales, participaciones federales y los correspondientes a los demás convenios de coordinación, acuerdos o anexos de ejecución, que suscriba el Gobierno del Estado con dependencias y entidades de la Administración Pública Federal;
-
-IV. Asesorar a las autoridades municipales en materia fiscal, cuando éstas lo soliciten o cuando lo establezcan los convenios de coordinación respectivos;
-
-V. Apoyar al Secretario de Finanzas y Administración en su participación ante los órganos del Sistema Nacional de Coordinación Fiscal, o en su caso, Hacendaria, así como en los grupos técnicos y de trabajo, en los que se le designe como representante del grupo zonal a que pertenece el Estado y, en su caso, como coordinador del grupo de que se trate;
-
-VI. Evaluar el comportamiento de los ingresos durante el ejercicio de que se trate, a fin de proyectar las perspectivas del ingreso y determinar la necesidad de realizar ampliaciones o reducciones presupuestales e informar al Subsecretario de Finanzas, para que se adopten las medidas pertinentes;
-
-VII. Vigilar el cumplimiento de los convenios derivados del Sistema Nacional de Coordinación Fiscal, así como de las reuniones zonales del sistema aludido;
-
-VIII. Coordinar la rendición de los informes que le correspondan, respecto de los grupos técnicos o de trabajo en los que la Secretaría de Finanzas y Administración sea representante de la zona;
-
-IX. Emitir y presentar al Subsecretario de Finanzas opinión respecto a la celebración de convenios de coordinación, acuerdos, anexos de ejecución o documentos de naturaleza análoga, a celebrarse con dependencias y entidades de la Administración Pública Federal, otras entidades federativas y con los municipios, tendientes a la realización de obras, prestación de servicios públicos y en general cualquier propósito de beneficio común, en el ámbito de su competencia;
-
-X. Dar seguimiento al cumplimiento de las obligaciones financieras por parte de la Federación, por los municipios y del propio Gobierno del Estado y, en su caso, en la aplicación de los recursos;
-
-XI. Vigilar los procesos de actualización de los coeficientes correspondientes al Estado, para la distribución de los diferentes fondos de participaciones en ingresos federales, conforme a las disposiciones aplicables;
-
-XII. Para los efectos a que se refiere la fracción anterior, en coordinación con la Dirección de Ingresos, obtener copia de las declaraciones relativas a las contribuciones federales asignables para su consideración en el proceso de actualización del coeficiente correspondiente al Estado;
-
-XIII. Obtener y enviar, en coordinación con la Auditoria Superior de Michoacán, la información relacionada con las contribuciones locales asignables, para su consideración en el cálculo del coeficiente para la distribución del Fondo de Fomento Municipal;
-
-XIV. Apoyar al Secretario de Finanzas y Administración en su participación en la descentralización de funciones federales hacia el Gobierno del Estado, en particular en lo relativo a la revisión de los aspectos financieros;
-
-XV. Realizar estudios comparativos de las disposiciones fiscales y administrativas;
-
-XVI. Informar periódicamente al Subsecretario de Finanzas, sobre las actividades desarrolladas y proponer los cambios que mejoren los sistemas para el ejercicio de sus facultades; y,
-
-XVII. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones legales aplicables.
+(DEROGADO, P.O. 2 DE JUNIO DE 2015)
 
 #### SECCIÓN VII. DE LA DIRECCIÓN DE CRÉDITO
 
@@ -1941,9 +2117,13 @@ XVII. Las demás que le señale el Secretario de Finanzas y Administración y ot
 
 Al Director de Crédito le corresponde el ejercicio de las facultades siguientes:
 
-I. Participar en el análisis de los proyectos de inversión pública del Gobierno del Estado, que por la magnitud de su costo requiera ser financiada con recursos derivados de empréstitos, así como realizar el análisis financiero correspondiente y apoyar al Subsecretario de Finanzas, en las gestiones para la contratación de los empréstitos respectivos y prever el otorgamiento de las garantías conforme a la autorización que expida el Congreso del Estado;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
 
-II. Apoyar al Subsecretario de Finanzas en la elaboración del proyecto de iniciativa de Decreto correspondiente, para obtener autorización del Congreso del Estado, para la afectación de las participaciones que en ingresos federales le correspondan al Estado, con el objeto de otorgar la garantía que se requiera por las instituciones financieras;
+I. Participar en el análisis de los proyectos de inversión pública del Gobierno del Estado, que por la magnitud de su costo requiera ser financiada con recursos derivados de empréstitos, así como realizar el análisis financiero correspondiente y apoyar al Subsecretario de Finanzas, en las gestiones para la contratación de los empréstitos respectivos y prever el otorgamiento de las garantías conforme a la autorización que expida el Poder Legislativo del Estado;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+II. Coadyuvar con el Subsecretario de Finanzas en la elaboración del proyecto de iniciativa de Decreto correspondiente, para obtener autorización del Poder Legislativo del Estado, para la afectación de las participaciones que en ingresos federales le correspondan al Estado, con el objeto de otorgar la garantía que se requiera por las instituciones financieras;
 
 III. Analizar e interpretar los indicadores financieros y económicos y la información bursátil, a efecto de proponer al Subsecretario de Finanzas, la emisión y colocación de títulos de deuda del Gobierno del Estado, así como intervenir en el proceso de emisión, colocación y pago de los títulos que en su caso se emitan para financiar inversión pública;
 
@@ -1953,7 +2133,9 @@ V. Analizar y evaluar, en coordinación con el Centro Estatal de Desarrollo Muni
 
 VI. Prever que en los contratos mediante los cuales se formalice la obtención de los empréstitos a que se refiere la fracción anterior, se contemple la cláusula relativa al otorgamiento de la garantía que ofrezcan los ayuntamientos, primordialmente mediante los recursos que les correspondan del Fondo de Aportaciones Federales para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, y que el Gobierno del Estado intervenga como ejecutor de las garantías, a través de la Secretaría de Finanzas y Administración;
 
-VII. Apoyar al Secretario de Finanzas y Administración en la elaboración del proyecto de iniciativa de Decreto correspondiente, para obtener autorización del Congreso del Estado, para la afectación de las Participaciones que en Ingresos Federales les correspondan a los municipios, en el supuesto de que la institución financiera de que se trate, condicione el otorgamiento del crédito a la afectación de éstas;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+VII. Coadyuvar en la materia de su competencia con el Secretario de Finanzas y Administración, en la elaboración del proyecto de iniciativa de Decreto correspondiente, para obtener autorización del Poder Legislativo del Estado, para la afectación de las Participaciones que en Ingresos Federales les correspondan a los municipios, en el supuesto de que la institución financiera de que se trate, condicione el otorgamiento del crédito a la afectación de éstas;
 
 VIII. Aplicar los descuentos de las Participaciones que en Ingresos Federales correspondan a los municipios o del Fondo de Aportaciones Federales para el Fortalecimiento de los Municipios, cuando se presente el supuesto que implique la ejecución de las garantías otorgadas o cuando los municipios convengan con el Gobierno del Estado la ejecución de obras o acciones, mediante la realización de aportaciones con cargo al Fondo referido;
 
@@ -1963,15 +2145,27 @@ X. Llevar el registro y control de la deuda pública directa, de la contingente 
 
 XI. Elaborar los documentos de Ejecución Presupuestaria y Pago, atendiendo al programa de pagos y a las condiciones de contratación de los empréstitos y supervisar que las entidades paraestatales, así como los ayuntamientos y las entidades paramunicipales realicen oportunamente el pago de sus obligaciones;
 
-XII. Cuando alguna entidad paraestatal incurra en incumplimiento, instrumentar el pago correspondiente y establecer las medidas necesarias para la recuperación del monto que se pague por su cuenta;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
 
-XIII. En el caso de que los municipios o sus organismos paramunicipales incurran en incumplimiento de pago, intervenir como ejecutor de las garantías otorgadas por los ayuntamientos respectivos y aplicar la retención correspondiente;
+XII. Instrumentar el pago correspondiente cuando alguna entidad paraestatal incurra en incumplimiento y establecer las medidas necesarias para la recuperación del monto que se pague por su cuenta e informar a la Procuraduría Fiscal;
 
-XIV. Elaborar mensualmente el informe sobre la situación de la deuda directa, de la contingente a cargo de las entidades paraestatales, así como de la municipal y paramunicipal y, coordinarse con las unidades administrativas de la Secretaría de Finanzas y Administración para tal efecto, así como elaborar los informes trimestrales y la Cuenta Pública de la Hacienda Estatal que, conforme a las disposiciones aplicables deben presentarse al Congreso del Estado;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XIII. Intervenir como ejecutor de las garantías otorgadas por los ayuntamientos respectivos, en el caso de que los municipios o sus organismos paramunicipales incurran en incumplimiento de pago, aplicar la retención correspondiente e informar a la Procuraduría Fiscal;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XIV. Elaborar mensualmente el informe sobre la situación de la deuda directa, de la contingente a cargo de las entidades paraestatales, así como de la municipal y paramunicipal y, coordinarse con las unidades administrativas de la Secretaría de Finanzas y Administración para tal efecto;
+
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XIV Bis. Elaborar los informes trimestrales y la Cuenta Pública de la Hacienda Estatal que, conforme a las disposiciones aplicables deben presentarse al Poder Legislativo del Estado;
 
 XV. Coordinar las actividades necesarias para recopilar y proporcionar la información a las empresas que se contraten, con el objeto de que evalúen los resultados de las actividades financieras del Gobierno del Estado, a efecto de calificar la deuda pública directa y aquella a cargo de terceros en la que se asuma responsabilidad solidaria;
 
-XVI. Opinar respecto a la interpretación y aplicación de las disposiciones legales en materia de deuda pública;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XVI. Opinar desde su competencia respecto a la interpretación y aplicación de las disposiciones normativas en materia de deuda pública;
 
 XVII. Realizar los estudios necesarios y recomendar la conversión de la deuda pública, cuando esto permita un mejor manejo de la misma o reduzca los cargos por servicios;
 
@@ -1983,11 +2177,15 @@ XX. Intervenir cuando lo instruya el Secretario de Finanzas y Administración, e
 
 XXI. Asesorar a los ayuntamientos en coordinación con las unidades administrativas que correspondan, en la ejecución de sus programas de desarrollo institucional;
 
-XXII. Informar periódicamente al Subsecretario de Ingresos, sobre las actividades desarrolladas y proponer los cambios que mejoren los sistemas para el ejercicio de sus facultades;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XXII. Informar periódicamente al Subsecretario de Finanzas, sobre las actividades desarrolladas y proponer los cambios que mejoren los sistemas para el ejercicio de sus facultades;
 
 XXIII. Promover con las autoridades municipales su participación en el programa de ahorro de energía eléctrica, tanto en servicio de alumbrado público como en los sistemas de agua potable, alcantarillado y saneamiento, asimismo promover con las dependencias, coordinaciones y entidades de la Administración Pública Estatal y otras entidades la reconversión de sus sistemas de iluminación; y,
 
-XXIV. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XXIV. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones normativas aplicables.
 
 #### SECCIÓN VIII. DE LA DIRECCIÓN DE ADMINISTRACIÓN DE FONDOS
 
@@ -1997,21 +2195,31 @@ Al Director de Administración de Fondos le corresponde el ejercicio de las facu
 
 I. Programar y efectuar, con autorización del Secretario de Finanzas y Administración, los pagos derivados del ejercicio del presupuesto de la Secretaría de Finanzas y Administración, así como los que deriven del ejercicio del gasto a cargo de las dependencias, coordinaciones y entidades de la Administración Pública Estatal y otros organismos;
 
-II. Concentrar, custodiar y administrar los fondos provenientes de la aplicación de la Ley de Ingresos del Estado, y demás disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+II. Concentrar, custodiar y administrar los fondos provenientes de la aplicación de la Ley de Ingresos del Estado de Michoacán de Ocampo para el ejercicio fiscal de que se trate y demás disposiciones normativas aplicables;
 
 III. Realizar el pago a la Tesorería de la Federación del saldo a cargo que resulte de efectuar la compensación de fondos entre el importe de la recaudación que se obtenga por concepto de ingresos federales coordinados, incentivos, anticipos y las participaciones en ingresos federales que correspondan al Estado;
 
-IV. Recaudar las contribuciones y demás conceptos de ingresos propios y por cuenta de terceros, que le señale la ley;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+IV. Recaudar las contribuciones y demás conceptos de ingresos propios y por cuenta de terceros, que le señalen las disposiciones normativas aplicables;
 
 V. Establecer y ejecutar el Sistema de Administración de Fondos del Gobierno del Estado, con el objeto de ejercer el adecuado control e inversión de éstos, así como mantener el nivel necesario de liquidez para el cumplimiento de sus compromisos financieros;
 
-VI. Custodiar los títulos y demás documentos que constituyan derechos a favor del Gobierno del Estado y, en su caso, realizar las gestiones de cobro correspondientes;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+VI. Custodiar los títulos y demás documentos que constituyan derechos a favor del Gobierno del Estado y, en su caso, realizar las gestiones de cobro correspondientes informando la realización de éstas a la Procuraduría Fiscal;
 
 VII. Realizar los movimientos bancarios para dar suficiencia a las cuentas de cheques a través de las que se pagan las nóminas de los servidores públicos, supervisar y realizar la distribución de las mismas a las dependencias, coordinaciones y entidades, así como concentrar y custodiar las nóminas debidamente firmadas;
 
-VIII. Elaborar los proyectos de lineamientos que emita el Secretario de Finanzas y Administración para el manejo de fondos públicos por parte de las dependencias, coordinaciones y entidades;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
 
-IX. Transferir a los municipios del Estado, los recursos por concepto de Participaciones y Fondos de Aportaciones Federales, conforme a las disposiciones aplicables, así como por obras convenidas;
+VIII. Elaborar y presentar al Subsecretario de Finanzas los proyectos de lineamientos para el manejo de fondos públicos por parte de las dependencias, coordinaciones y entidades, a efecto de que sean autorizados y emitidos por el Secretario de Finanzas y Administración;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+IX. Realizar a los municipios del Estado la transferencia de los recursos por concepto de Participaciones y Fondos de Aportaciones Federales, conforme a las disposiciones normativas aplicables, así como por obras convenidas de conformidad con los convenios o instrumentos jurídicos que para tal efecto se establezcan;
 
 X. Formular y presentar al Subsecretario de Finanzas, el informe periódico de captación, aplicación y disponibilidad de fondos;
 
@@ -2037,7 +2245,9 @@ XX. Custodiar las pólizas por las fianzas que se otorguen a favor de la Secreta
 
 XXI. Informar periódicamente al Subsecretario de Finanzas, sobre las actividades desarrolladas y proponer los cambios que mejoren los sistemas para el ejercicio de sus facultades; y,
 
-XXII. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XXII. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones normativas aplicables.
 
 #### SECCIÓN IX. DE LA DIRECCIÓN DE CONTABILIDAD
 
@@ -2045,13 +2255,21 @@ XXII. Las demás que le señale el Secretario de Finanzas y Administración y ot
 
 Al Director de Contabilidad le corresponde el ejercicio de las facultades siguientes:
 
-I. Establecer el sistema y llevar la contabilidad de la Hacienda Pública Estatal en los términos de lo dispuesto por la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Michoacán de Ocampo, con el objeto de proporcionar al Subsecretario de Finanzas, la información que se requiera para la administración de las finanzas públicas, así como para elaborar la Cuenta de la Hacienda Pública y demás informes que se deban presentar al Congreso del Estado;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
 
-II. Elaborar el proyecto de normas administrativas que en materia de contabilidad se expidan por el Secretario de Finanzas y Administración, de conformidad con lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Michoacán de Ocampo;
+I. Establecer el sistema y llevar la contabilidad de la Hacienda Pública Estatal en los términos de lo dispuesto por la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, con el objeto de proporcionar al Subsecretario de Finanzas, la información que se requiera para la administración de las finanzas públicas, así como para elaborar la Cuenta de la Hacienda Pública y demás informes que se deban presentar al Poder Legislativo del Estado;
 
-III. Elaborar los proyectos de lineamientos que deba expedir el Secretario de Finanzas y Administración, en los que se determine la forma y plazos en que las dependencias, coordinaciones y entidades deben presentar la información necesaria para evaluar el cumplimiento de las normas en materia de contabilidad y del ejercicio del gasto público, así como sus estados financieros básicos;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
 
-IV. Expedir la normativa que debe aplicarse para elaborar y rendir a esta Dirección, la cuenta comprobada de la recaudación de los ingresos que obtengan administraciones y receptorías de rentas y demás unidades administrativas facultadas para recaudar ingresos del Gobierno del Estado o por cuenta de la Federación o de los municipios, de conformidad con las disposiciones legales aplicables y convenios suscritos;
+II. Elaborar el proyecto de normas administrativas que en materia de contabilidad gubernamental se expidan por el Secretario de Finanzas y Administración, de conformidad con lo establecido en la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+III. Elaborar los proyectos de lineamientos que deba expedir el Secretario de Finanzas y Administración, en los que se determine la forma y plazos en que las dependencias, coordinaciones y entidades deben presentar la información necesaria para evaluar el cumplimiento de las normas en materia de planeación hacendaria, presupuesto, ejercicio del gasto y contabilidad gubernamental de conformidad con los momentos presupuestales y contables correspondientes, así como sus estados financieros básicos;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+IV. Expedir la normativa que debe aplicarse para elaborar y rendir ante esta Dirección, la cuenta comprobada de la recaudación de los ingresos que obtengan Administraciones y Receptorías de Rentas y demás unidades administrativas facultadas para recaudar ingresos del Gobierno del Estado o por cuenta de la Federación o de los municipios, de conformidad con las disposiciones normativas aplicables y convenios que para tal efecto se establezcan;
 
 V. Establecer las medidas que permitan mejorar los sistemas de registro y control de los ingresos, así como de registro, control y pago del gasto público y demás operaciones financieras, con el objeto de que se disponga de los elementos necesarios para la elaboración de los informes que requiera el Secretario de Finanzas y Administración, en coordinación con los titulares de las unidades administrativas que corresponda de la Secretaría de Finanzas y Administración;
 
@@ -2059,11 +2277,17 @@ VI. Realizar las conciliaciones bancarias de las cuentas de cheques, tanto recep
 
 VII. Elaborar la cuenta comprobada de la recaudación de los ingresos federales coordinados, que debe rendir el Secretario de Finanzas y Administración a la Secretaría de Hacienda y Crédito Público, de conformidad con la normativa aplicable;
 
-VIII. Efectuar la compensación de fondos entre el importe de la recaudación que se obtenga por concepto de ingresos federales coordinados, incentivos y, anticipos; y las participaciones en ingresos federales que correspondan al Estado;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
 
-IX. Elaborar los informes sobre las participaciones en ingresos federales y estatales pagadas a los municipios que deben publicarse, conforme a las disposiciones aplicables;
+VIII. Efectuar la compensación de fondos entre el importe de la recaudación que se obtenga por concepto de ingresos federales coordinados, incentivos y anticipos así como de las participaciones en ingresos federales que correspondan al Estado;
 
-X. Elaborar las estadísticas financieras del Gobierno del Estado, con el objeto de que se evalúe tanto el comportamiento de los ingresos, como del gasto público;
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+IX. Elaborar los informes sobre las participaciones en ingresos federales y estatales pagadas a los municipios que deben publicarse, conforme a las disposiciones normativas aplicables;
+
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+X. Elaborar las estadísticas financieras del Gobierno del Estado, con el objeto de que se evalúe tanto el comportamiento de los ingresos y del ejercicio del gasto público de conformidad con los momentos presupuestales y contables correspondientes;
 
 XI. Proponer al Secretario de Finanzas y Administración, en coordinación con los titulares de las unidades administrativas que correspondan, la cancelación de cuentas incobrables y pasivos no reclamados;
 
@@ -2077,7 +2301,9 @@ XV. Elaborar los informes que se deban rendir a la Auditoria Superior de Michoac
 
 XVI. Informar periódicamente al Subsecretario de Finanzas, sobre las actividades desarrolladas y proponer los cambios que mejoren los sistemas para el ejercicio de sus facultades; y,
 
-XVII. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+XVII. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones normativas aplicables.
 
 ### CAPÍTULO SEGUNDO. DE LA SUBSECRETARÍA DE ADMINISTRACIÓN E INNOVACIÓN DE PROCESOS
 
@@ -2345,31 +2571,213 @@ XIV. Las demás que le señale el Secretario de Finanzas y Administración y otr
 
 #### SECCIÓN VII. DE LA DIRECCIÓN DE SERVICIOS AÉREOS
 
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
+ARTÍCULO 54 BIS.- (DEROGADO, P.O. 2 DE JUNIO DE 2015)
 
-ARTÍCULO 54 bis.- Al Director de Servicios Aéreos le corresponde el ejercicio de las facultades siguientes:
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE JUNIO DE 2015)</small>
 
-I. Prestar los servicios aéreos que requiera el Gobernador para el cumplimiento de sus atribuciones y funciones ejecutivas;
+### CAPÍTULO SEGUNDO BIS. DE LA PROCURADURÍA FISCAL
 
-II. Dirigir, controlar y supervisar los programas de mantenimiento preventivo y correctivo de las unidades aéreas propiedad del Gobierno del Estado o que se encuentran bajo su resguardo;
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2015)</small>
 
-III. Establecer las medidas y acciones necesarias a efecto de asegurar que las condiciones de las unidades aéreas sean las óptimas para su utilización;
+ARTÍCULO 54 TER.- Al Procurador Fiscal le corresponde el ejercicio de las facultades siguientes:
 
-IV. Dirigir los programas de instrucción y actualización de los pilotos aviadores y personal bajo su cargo; y,
+I. Representar a la Secretaría de Finanzas y Administración, en el ámbito de su competencia en las controversias de carácter financiero, fiscal o administrativo, que se deriven de procedimientos en los que ésta o sus unidades administrativas sean parte; así como comparecer en los juicios en los que les resulte interés jurídico o legítimo;
 
-V. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones legales aplicables.
+II. Promover las acciones legales necesarias para una pronta y expedita procuración y administración en materia financiera, fiscal y administrativa;
+
+III. Revisar oficiosamente los asuntos relevantes de los actos de requerimiento de pago y embargo de bienes previstos en el Código Fiscal del Estado de Michoacán de Ocampo, proponiendo su modificación o aprobación en su caso;
+
+IV. Asesorar en materia financiera, fiscal y administrativa a las Unidades Administrativas de la Secretaría de Finanzas y Administración;
+
+V. Conocer y revisar las conductas de acción u omisión que le sean informadas y puedan constituir un posible perjuicio o daño a la recaudación, guarda, manejo, distribución e inversión de los caudales públicos del Estado, para emitir dictamen que informe al Secretario de Finanzas y Administración, la necesidad de presentar en su caso la denuncia penal correspondiente; para lo cual, deberá requerir a las unidades administrativas competentes la información relacionada con los hechos de las conductas informadas;
+
+VI. Solicitar en los procedimientos el sobreseimiento, caducidad de la instancia, prescripción; así como la condonación de multas y devolución de pagos, de conformidad con las disposiciones normativas aplicables;
+
+VII. Proponer al Secretario de Finanzas y Administración, la cancelación de los créditos fiscales incobrables estatales y municipales coordinados, así como proponer a las autoridades competentes, las relativas a los créditos fiscales federales, de conformidad con las disposiciones fiscales aplicables;
+
+VIII. Coadyuvar con las Unidades Administrativas de la Secretaría de Finanzas y Administración en la elaboración de los proyectos de iniciativas de ley, decretos, reglamentos, acuerdos, así como en otras disposiciones de carácter general de su competencia, que deban ser propuestas al Secretario de Finanzas y Administración;
+
+IX. Compilar leyes, reglamentos, acuerdos, circulares y demás disposiciones administrativas de carácter general en materia financiera, fiscal y administrativa;
+
+X. Presentar ante el Secretario de Finanzas y Administración, opinión técnica debidamente fundada y motivada que resuelva la contradicción que tengan dos o mas unidades administrativas en la interpretación y aplicación de las disposiciones normativas, para que éste determine el criterio que deban seguir;
+
+XI. Analizar y dictaminar respecto de los créditos fiscales, sobre la viabilidad de ejecutar éstos o en su caso determinar la prescripción de los mismos, de conformidad con las disposiciones normativas aplicables;
+
+XII. Revisar de oficio los procedimientos de adjudicación de bienes en que participe el Fisco del Estado, para deducir los derechos correspondientes;
+
+XIII. Remitir los asuntos que por la competencia le corresponda deba conocer la Consejería Jurídica del Poder Ejecutivo del Estado;
+
+XIV. Asistir a las Administraciones y Receptorías de Rentas en la aplicación del procedimiento administrativo de ejecución para el cobro (sic) los créditos fiscales estatales, así como federales y municipales coordinadas, con base en las disposiciones normativas aplicables y los convenios respectivos;
+
+XV. Determinar o dictaminar en todos los asuntos de naturaleza jurídica que le sean encomendados por el Secretario de Finanzas y Administración; y,
+
+XVI. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2015)</small>
+
+ARTÍCULO 54 QUATER.- El Secretario de Finanzas y Administración, cuando lo estime conveniente, esta legitimado para ejercer directamente las facultades a que se refiere el Artículo 54 Ter del presente Decreto.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2015)</small>
+
+ARTÍCULO 54 QUINQUIES.- Las ausencias del Procurador Fiscal y de los Subprocuradores se sujetaran a las reglas que establece el Titulo Cuarto denominado de las Suplencias que establece el presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2015)</small>
+
+ARTÍCULO 54 SEXIES.- Las demandas, contestaciones y recursos promovidos o que se encuentren en curso ante los Tribunales, así como las promociones por las que se ofrezcan y rindan pruebas, arguyan de falsas las de la contraparte, se formulen alegatos o cualquiera otra clase de documentos, correspondencia, o instancia de carácter procesal que exija la tramitación y defensa de los juicios iniciados por la Secretaría de Finanzas y Administración o en su contra, serán firmados por el Procurador Fiscal, o en su defecto por el Subprocurador correspondiente.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2015)</small>
+
+ARTÍCULO 54 SEPTIES.- El Procurador Fiscal o el Subprocurador del área expedirá y remitirá los documentos que deban enviarse a los Tribunales, o indicará a las dependencias, entidades o coordinaciones del Poder Ejecutivo del Estado, respectivas, que lo hagan directamente.
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2015)</small>
+
+ARTÍCULO 54 OCTIES.- El desistimiento de las acciones y recursos, así como el allanamiento a las pretensiones de la parte actora, en los casos previstos en el Código de Justicia Administrativa para el Estado de Michoacán, solo podrán efectuarse por el Procurador Fiscal previo acuerdo por escrito del Secretario de Finanzas y Administración.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 2 DE JUNIO DE 2015)</small>
+
+#### SECCIÓN I. DE LA SUBPROCURADURÍA TÉCNICA LEGAL
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2015)</small>
+
+ARTÍCULO 54 NOVIES.- Al Subprocurador Técnico Legal le corresponde el ejercicio de las facultades siguientes:
+
+I. Intervenir en los recursos de revocación interpuestos por los particulares que se consideren afectados por algún acto emitido por la Secretaría de Finanzas y Administración, así como requerir de pago a las instituciones afianzadoras que tengan algún adeudo con el Gobierno del Estado;
+
+II. Intervenir en los procedimientos y juicios relacionados con el requerimiento de pago de pólizas de fianzas emitidas a favor de la Secretaría de Finanzas y Administración y de adeudo de intereses, de actualización en unidades de inversión o de los accesorios legales generados por pago extemporáneo, a solicitud de las unidades administrativas de la Secretaría de Finanzas y Administración;
+
+III. Analizar y proponer la caducidad de las facultades de las autoridades fiscales o la prescripción de créditos fiscales estatales y los derivados de ingresos coordinados a solicitud de la parte interesada, de conformidad con las disposiciones normativas aplicables;
+
+IV. Organizar e instrumentar el registro y resguardo de los contratos, convenios, acuerdos y demás instrumentos jurídicos en los que por materia de su competencia intervenga la Procuraduría Fiscal con alguna de las unidades administrativas de la Secretaría de Finanzas y Administración y los que le instruya el Secretario de Finanzas y Administración;
+
+V. Proponer y emitir criterios, opiniones técnicas y declaratorias sobre la interpretación y aplicación de los ordenamientos financieros, fiscales y administrativos, respecto de créditos fiscales estatales y derivados de ingresos federales o convenidos con los municipios;
+
+VI. Elaborar, analizar y emitir el dictamen técnico sobre convenios, contratos y demás instrumentos jurídicos en materia financiera, fiscal y administrativa en los que la Secretaría de Finanzas y Administración y sus unidades administrativas sean parte;
+
+VII. Actualizar en materia financiera, fiscal y administrativa a servidores públicos de las unidades administrativas de la Secretaría de Finanzas y Administración;
+
+VIII. Asesorar a las unidades administrativas de la Secretaría de Finanzas y Administración sobre el cumplimiento de las obligaciones derivadas de los Sistemas Nacional de Coordinación Fiscal y Estatal de Coordinación Hacendaria, así como de los acuerdos y convenios celebrados con los organismos auxiliares y con los gobiernos municipales;
+
+IX. Emitir los estudios técnico-legales en materia financiera, fiscal y administrativa en el ámbito de competencia de la Secretaría de Finanzas y Administración;
+
+X. Coordinar las acciones para la instrumentación del Sistema de Seguridad Fiscal SISEF en el Estado; y,
+
+XI. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones normativas aplicables.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 2 DE JUNIO DE 2015)</small>
+
+#### SECCIÓN II. DE LA SUBPROCURADURÍA DE LO CONTENCIOSO
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2015)</small>
+
+ARTÍCULO 54 DECIES.- Al Subprocurador de lo Contencioso le corresponde el ejercicio de las facultades siguientes:
+
+I. Representar a la Secretaría de Finanzas y Administración y a sus unidades administrativas en las controversias en que deban participar por devenir algún interés jurídico o legitimo derivadas de asuntos financieros, fiscales o administrativos;
+
+II. Proponer al titular de la Procuraduría Fiscal la designación de los servidores públicos de la unidad administrativa a su cargo, que habrán de fungir como delegados o representantes en los juicios en que le competa intervenir o donde sea parte la Secretaría de Finanzas y Administración y sus unidades administrativas;
+
+III. Formular previa instrucción del titular de la Procuraduría Fiscal, las denuncias y querellas, cuando se afecten los intereses de la Hacienda Pública Estatal por la posible comisión de hechos que pudieran constituir algún delito en materia fiscal en perjuicio de la Secretaría de Finanzas y Administración;
+
+IV. Coadyuvar en la materia de su competencia con el Ministerio Público, en la aportación de los medios de prueba para la integración de la averiguación previa penal, así como en los procesos penales;
+
+V. Proponer al titular de la Procuraduría Fiscal mediante el dictamen correspondiente la petición al Secretario de Finanzas y Administración, de sobreseimiento del proceso u otorgamiento del perdón cuando legalmente proceda;
+
+VI. Coadyuvar a solicitud de las autoridades ejecutoras en la substanciación del procedimiento administrativo de ejecución, a fin de hacer efectivo el crédito fiscal;
+
+VII. Emitir y proponer al titular de la Procuraduría Fiscal, las opiniones o en su caso los dictámenes, para el trámite y resolución de los recursos administrativos que sean competencia de la Secretaría de Finanzas y Administración o sus unidades administrativas;
+
+VIII. Presentar al titular de la Procuraduría Fiscal, los términos de los informes previos y justificados en los juicios de amparo que competan conocer a la Procuraduría Fiscal, o sean interpuestos contra actos de las unidades administrativas de la Secretaría de Finanzas y Administración, así como intervenir cuando tengan carácter de tercero interesado, interponiendo además los recursos que legalmente sean procedentes;
+
+IX. Asesorar a los titulares de las unidades administrativas de la Secretaría de Finanzas y Administración, cuando le sea solicitado en la determinación e informe a las instancias competentes, sobre los actos u omisiones de los servidores públicos que pudieran constituir alguna responsabilidad administrativa;
+
+X. Coadyuvar con la Dirección de Ingresos en los actos de investigación administrativa relacionados con quejas que se presenten, respecto de la actuación del personal de las Administraciones y Receptorías de Rentas, así como en la elaboración de los dictámenes y oficios mediante los cuales, se den a conocer a la (sic) instancias competentes las presuntas faltas administrativas que se desprendan de las mismas;
+
+XI. Asesorar a las Administraciones y Receptorías de Rentas en la aplicación del procedimiento administrativo de ejecución para el cobro de las contribuciones estatales, así como federales y municipales coordinadas, con base en las disposiciones normativas aplicables y los convenios respectivos;
+
+XII. Revisar en los aspectos legales las resoluciones que emita la Dirección de Ingresos relacionadas con incumplimiento de obligaciones que conlleven multas por infracción a las disposiciones fiscales estatales, federales o municipales o a los y convenios respectivos;
+
+XIII. Revisar los proyectos de resolución que deban emitirse en los recursos administrativos que se interpongan en relación con los créditos fiscales emitidos por las unidades administrativas de la Secretaría de Finanzas y Administración;
+
+XIV. Representar a la Secretaría de Fianzas (sic) y Administración o sus unidades administrativas en los recursos que se interpongan en contra de los actos del procedimiento administrativo de ejecución, tanto en materia estatal como federal y municipal, según corresponda; y,
+
+XV. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones normativas aplicables.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 2 DE JUNIO DE 2015)</small>
+
+#### SECCIÓN III. DE LA SUBPROCURADURÍA DE LEGISLACIÓN Y CONSULTA
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2015)</small>
+
+ARTÍCULO 54 UNDECIES.- Al Subprocurador de Legislación y Consulta le corresponde el ejercicio de las facultades siguientes:
+
+I. Elaborar, dictaminar, integrar y emitir opinión sobre iniciativas de ley, proyectos de decretos, reglamentos, acuerdos, convenios e instrumentos jurídicos y otras disposiciones normativas en materia financiera, fiscal y administrativa en el ámbito estatal y, en su caso, municipal;
+
+II. Coadyuvar con el Secretario de Finanzas y Administración, así como con la Subsecretaría de Finanzas y la Dirección de Ingresos, en la elaboración de los decretos, acuerdos e instrumentos jurídicos que se deban emitir para la condonación de multas, caducidad de facultades, prescripción y devolución del pago de lo indebido, cuando proceda conforme a las disposiciones normativas aplicables;
+
+III. Analizar y opinar las propuestas de reformas, adiciones o derogaciones en las disposiciones financieras y fiscales estatales que propongan las unidades administrativas de la Secretaría de Finanzas y Administración;
+
+IV. Realizar estudios comparativos de las disposiciones financieras, fiscales y administrativas que le correspondan;
+
+V. Conocer, opinar y dictaminar las propuestas de reformas que los particulares, colegios o asociaciones de profesionistas y empresarios realicen sobre ordenamientos o disposiciones financieras y fiscales estatales;
+
+VI. Supervisar y realizar el seguimiento a los procesos legislativos en los asuntos competencia de la Secretaría de Finanzas y Administración;
+
+VII. Coordinar con las unidades administrativas competentes, los trámites relativos a la publicación de disposiciones de carácter financiero, fiscal y administrativo que sean competencia de la Secretaría de Finanzas y Administración;
+
+VIII. Compilar, glosar y sistematizar las leyes, reglamentos, decretos, acuerdos, convenios y demás disposiciones normativas financieras y fiscales estatales y municipales vigentes en el Estado;
+
+IX. Realizar estudios comparativos de los sistemas administrativos, hacendarios y de justicia administrativa de las entidades federativas, para identificar acciones innovadoras para la modernización del marco legal en materia financiera y fiscal en el Estado;
+
+X. Proporcionar las consultas y asesorías respecto de la interpretación y aplicación de las disposiciones normativas en materia financiera, fiscal y administrativa que formulen la Secretaría de Finanzas y Administración y sus unidades administrativas;
+
+XI. Coordinar la elaboración de sinopsis del Diario Oficial de la Federación y del Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y la actualización del acervo legislativo que en materia de su competencia le corresponda; y,
+
+XII. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones normativas aplicables.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE JUNIO DE 2015)</small>
+
+### CAPÍTULO SEGUNDO TER. DE LA UNIDAD DE POLÍTICA HACENDARIA
+
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2015)</small>
+
+ARTÍCULO 54 DUODECIES.- Al Director de la Unidad de Política Hacendaria le corresponde el ejercicio de las facultades siguientes:
+
+I. Elaborar la estimación anual de ingresos del Gobierno del Estado y los anteproyectos de Ley de Ingresos del Gobierno del Estado, así como para los municipios que no presenten iniciativas específicas;
+
+II. Asesorar a las unidades administrativas de la Secretaría de Finanzas y Administración en las consultas que formulen en el cumplimiento de las obligaciones contraídas de las reuniones del Sistema Nacional de Coordinación Fiscal y Estatal de Coordinación Fiscal, así como en los acuerdos y convenios celebrados con organismos auxiliares y con los gobiernos municipales;
+
+III. Participar en la elaboración de los proyectos de iniciativas de leyes, decretos, reglamentos, convenios, acuerdos y demás instrumentos relativos a los asuntos competencia de la Secretaría de Finanzas y Administración y, en su caso, proponer aquellos proyectos de leyes y decretos aplicables en el ámbito municipal;
+
+IV. Apoyar al Secretario de Finanzas y Administración en la vigilancia de la transferencia de los Fondos de Aportaciones Federales, Participaciones Federales y los correspondientes a los demás Convenios de Coordinación, Acuerdos o Anexos de Ejecución, que suscriba el Gobierno del Estado con dependencias y entidades de la Administración Pública Federal;
+
+V. Asesorar a las autoridades municipales en materia fiscal, cuando éstas lo soliciten o cuando lo establezcan los convenios de coordinación respectivos;
+
+VI. Apoyar al Secretario de Finanzas y Administración en su participación ante los órganos del Sistema Nacional de Coordinación Fiscal, o en su caso, Hacendaria, así como en los grupos técnicos y de trabajo, en los que se le designe como representante del grupo zonal a que pertenece el Estado y, en su caso, como coordinador del grupo de que se trate;
+
+VII. Evaluar el comportamiento de los ingresos durante el ejercicio de que se trate, a fin de proyectar las perspectivas del ingreso y determinar la necesidad de realizar ampliaciones o reducciones presupuestales e informar al Secretario de Finanzas y Administración, a fin de que instruya la implementación de las medidas pertinentes;
+
+VIII. Vigilar el cumplimiento de los convenios derivados del Sistema Nacional de Coordinación Fiscal, así como de las reuniones zonales del sistema aludido;
+
+IX. Coordinar la rendición de los informes que le correspondan, respecto de los grupos técnicos o de trabajo del Sistema Nacional de Coordinación Fiscal en los que la Secretaría de Finanzas y Administración sea representante de la zona;
+
+X. Emitir y presentar al Secretario de Finanzas y Administración, opinión respecto a la celebración de convenios de coordinación, acuerdos, anexos de ejecución o documentos de naturaleza análoga, a celebrarse con dependencias y entidades de la Administración Pública Federal, otras entidades federativas y con los municipios, tendientes a la realización de obras, prestación de servicios públicos y en general cualquier propósito de beneficio común, en el ámbito de su competencia;
+
+XI. Dar seguimiento al cumplimiento de las obligaciones financieras por parte de la Federación, por los municipios y del propio Gobierno del Estado y, en su caso, en la aplicación de los recursos;
+
+XII. Vigilar los procesos de actualización de los coeficientes correspondientes al Estado, para la distribución de los diferentes fondos de participaciones en ingresos federales, conforme a las disposiciones normativas aplicables;
+
+XIII. Para los efectos a que se refiere la fracción anterior, en coordinación con la Dirección de Ingresos, obtener copia de las declaraciones relativas a las contribuciones federales asignables para su consideración en el proceso de actualización del coeficiente correspondiente al Estado;
+
+XIV. Obtener y enviar, en coordinación con la Auditoría Superior de Michoacán, la información relacionada con las contribuciones locales asignables, para su consideración en el cálculo del coeficiente para la distribución del Fondo de Fomento Municipal;
+
+XV. Apoyar al Secretario de Finanzas y Administración en su participación en la descentralización de funciones federales hacia el Gobierno del Estado, en particular en lo relativo a la revisión de los aspectos financieros;
+
+XVI. Participar en los trabajos de los organismos del Sistema de Coordinación Fiscal del Estado;
+
+XVII. Informar periódicamente al Secretario de Finanzas y Administración, sobre las actividades desarrolladas y proponer los cambios que mejoren los sistemas para el ejercicio de sus facultades; y,
+
+XVIII. Las demás que le señale el Secretario de Finanzas y Administración y otras disposiciones normativas aplicables.
 
 ### CAPÍTULO TERCERO. DE LAS UNIDADES ADMINISTRATIVAS REGIONALES
-
-#### SECCIÓN I. DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA Y TRÁNSITO
-
-#### SECCIÓN II. DE LA DIRECCIÓN DE LA UNIDAD COORDINADORA TÉCNICA OPERATIVA DEL CENTRO DE COMUNICACIÓN, CÓMPUTO, CONTROL Y COMANDO DEL ESTADO (C-4)
-
-#### SECCIÓN III. DE LA DIRECCIÓN DE PROTECCIÓN CIVIL
-
-### CAPÍTULO PRIMERO. DE LA SUBSECRETARÍA DE PROTECCIÓN CIUDADANA
-
-### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN GENERAL DE PREVENCIÓN Y READAPTACIÓN SOCIAL
 
 ###### ARTÍCULO 55.
 
@@ -2503,7 +2911,7 @@ Lázaro Cárdenas.- Distrito 23 con la administración 2301 Lázaro Cárdenas C�
 
 La Secretaría de Seguridad Pública es la dependencia del Poder Ejecutivo del Estado, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 25 de la Ley Orgánica de la Administración Pública del Estado y otras disposiciones legales aplicables.
 
-### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE PARTICIPACIÓN CIUDADANA PARA LA PREVENCIÓN DEL DELITO
+### CAPÍTULO PRIMERO. DE LA SUBSECRETARÍA DE PROTECCIÓN CIUDADANA
 
 ###### ARTÍCULO 59.
 
@@ -2575,7 +2983,7 @@ XXXII. Identificar y evaluar las características delictivas de las diversas reg
 
 XXXIII. Las demás que le señale el Secretario de Seguridad Pública y otras disposiciones legales aplicables.
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE INVESTIGACIÓN Y ANÁLISIS DEL DELITO
+#### SECCIÓN I. DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA Y TRÁNSITO
 
 ###### ARTÍCULO 60.
 
@@ -2613,7 +3021,7 @@ XV. Impulsar acciones tendientes a la instrumentación de apoyo en vialidades a 
 
 XVI. Las demás que le señale el Secretario de Seguridad Pública y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LAS DIRECCIONES DE LOS CENTROS DE READAPTACIÓN SOCIAL
+#### SECCIÓN II. DE LA DIRECCIÓN DE LA UNIDAD COORDINADORA TÉCNICA OPERATIVA DEL CENTRO DE COMUNICACIÓN, CÓMPUTO, CONTROL Y COMANDO DEL ESTADO (C-4)
 
 ###### ARTÍCULO 61.
 
@@ -2639,7 +3047,7 @@ IX. Llevar a cabo el proceso de asignación de claves de acceso a las personas a
 
 X. Las demás que le señale el Secretario de Seguridad Pública y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN TÉCNICA DE PREVENCIÓN
+#### SECCIÓN III. DE LA DIRECCIÓN DE PROTECCIÓN CIVIL
 
 ###### ARTÍCULO 62.
 
@@ -2671,7 +3079,7 @@ XII. Controlar y supervisar acciones que se realicen en el ámbito de su compete
 
 XIII. Las demás que le señale el Secretario de Seguridad Pública y otras disposiciones legales aplicables.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE INTEGRACIÓN PARA ADOLESCENTES
+#### SECCIÓN IV. DE LA DIRECCIÓN DE INVESTIGACIÓN Y ANÁLISIS DEL DELITO
 
 ###### ARTÍCULO 63.
 
@@ -2695,7 +3103,7 @@ VIII. Identificar y evaluar las características delictivas de las diversas regi
 
 IX. Las demás que le señale el Secretario de Seguridad Pública y otras disposiciones legales aplicables.
 
-### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE COORDINACIÓN INTERINSTITUCIONAL
+### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN GENERAL DE PREVENCIÓN Y READAPTACIÓN SOCIAL
 
 ###### ARTÍCULO 64.
 
@@ -2741,7 +3149,7 @@ XIX. Computar las sanciones privativas de libertad cuando existan dos o más imp
 
 XX. Las demás que le señale el Secretario de Seguridad Pública y otras disposiciones legales aplicables.
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE EJECUCIÓN DE SANCIONES PENALES
+#### SECCIÓN I. DE LAS DIRECCIONES DE LOS CENTROS DE READAPTACIÓN SOCIAL
 
 ###### ARTÍCULO 65.
 
@@ -2765,7 +3173,7 @@ VIII. Disponer de las medidas necesarias a fin de conservar y mantener el orden 
 
 IX. Las demás que le señale el Secretario de Seguridad Pública y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE IMPULSO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
+#### SECCIÓN II. DE LA DIRECCIÓN TÉCNICA DE PREVENCIÓN
 
 ###### ARTÍCULO 66.
 
@@ -2799,7 +3207,7 @@ XIII. Establecer convenios con instituciones gubernamentales, organismos civiles
 
 XIV. Las demás que le señale el Secretario de Seguridad Pública y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN (SIC) ATENCIÓN Y SERVICIOS A LA GESTIÓN EMPRESARIAL
+#### SECCIÓN III. DE LA DIRECCIÓN DE INTEGRACIÓN PARA ADOLESCENTES
 
 ###### ARTÍCULO 67.
 
@@ -2839,7 +3247,7 @@ XVI. Realizar la selección y capacitación del personal técnico, administrativ
 
 XVII. Las demás que le señale el Secretario de Seguridad Pública y otras disposiciones legales aplicables.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE DESARROLLO INDUSTRIAL
+#### SECCIÓN IV. DE LA DIRECCIÓN DE EJECUCIÓN DE SANCIONES PENALES
 
 ###### ARTÍCULO 68.
 
@@ -2875,7 +3283,7 @@ XIV. Representar a la Dirección en reuniones del Consejo Técnico Interdiscipli
 
 XV. Las demás que le señale el Secretario de Seguridad Pública y otras disposiciones legales aplicables.
 
-### CAPÍTULO QUINTO. DE LA DIRECCIÓN DE ATENCIÓN FÍSICA Y PSICOLÓGICA
+### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE PARTICIPACIÓN CIUDADANA PARA LA PREVENCIÓN DEL DELITO
 
 ###### ARTÍCULO 69.
 
@@ -2897,7 +3305,7 @@ VII. Promover la cultura entre los ciudadanos para denunciar hechos ilícitos, n
 
 VIII. Las demás que le señale el Secretario de Seguridad Pública y otras disposiciones legales aplicables.
 
-### CAPÍTULO PRIMERO. DE LA SUBSECRETARÍA DE DESARROLLO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
+### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE COORDINACIÓN INTERINSTITUCIONAL
 
 ###### ARTÍCULO 70.
 
@@ -2913,7 +3321,7 @@ IV. Proponer al Secretario de Seguridad Pública las estrategias y políticas qu
 
 V. Las demás que le señale el Secretario de Seguridad Pública y otras disposiciones legales aplicables.
 
-### CAPÍTULO SEGUNDO. DE LA SUBSECRETARÍA DE PROMOCIÓN Y ATRACCIÓN DE INVERSIONES
+### CAPÍTULO QUINTO. DE LA DIRECCIÓN DE ATENCIÓN FÍSICA Y PSICOLÓGICA
 
 ###### ARTÍCULO 71.
 
@@ -2933,7 +3341,7 @@ IV. Las demás que le señale el Secretario de Seguridad Pública y otras dispos
 
 La Secretaría de Desarrollo Económico es la dependencia del Poder Ejecutivo del Estado, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 26 de la Ley Orgánica de la Administración Pública Estatal y otras disposiciones legales aplicables.
 
-### CAPÍTULO TERCERO. DE LA DIRECCIÓN DEL EMPLEO
+### CAPÍTULO PRIMERO. DE LA SUBSECRETARÍA DE DESARROLLO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
 
 ###### ARTÍCULO 73.
 
@@ -2965,7 +3373,7 @@ XII. Participar en la conservación y protección del entorno natural en relaci�
 
 XIII. Las demás que le señale el Secretario de Desarrollo Económico y otras disposiciones legales aplicables.
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE ABASTO Y COMERCIO POPULAR
+#### SECCIÓN I. DE LA DIRECCIÓN DE IMPULSO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
 
 ###### ARTÍCULO 74.
 
@@ -2995,7 +3403,7 @@ XI. Promover la creación de asociaciones y de cadenas productivas por sector ec
 
 XII. Las demás que le señale el Secretario de Desarrollo Económico y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE ATRACCIÓN DE INVERSIÓN
+#### SECCIÓN II. DE LA DIRECCIÓN (SIC) ATENCIÓN Y SERVICIOS A LA GESTIÓN EMPRESARIAL
 
 ###### ARTÍCULO 75.
 
@@ -3023,7 +3431,7 @@ X. Dirigir la ejecución de acciones derivadas de los acuerdos del Comité Estat
 
 XI. Las demás que le señale el Secretario de Desarrollo Económico y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE OFERTA EXPORTABLE
+#### SECCIÓN III. DE LA DIRECCIÓN DE DESARROLLO INDUSTRIAL
 
 ###### ARTÍCULO 76.
 
@@ -3059,35 +3467,7 @@ XIV. Formular el inventario de infraestructura productiva e identificar la infra
 
 XV. Las demás que la señale el Secretario de Desarrollo Económico y otras disposiciones legales aplicables.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE PROMOCIÓN
-
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
-
-ARTÍCULO 80 bis,- Al Director de Promoción le corresponde el ejercicio de las facultades siguientes:
-
-I. Dirigir, supervisar y evaluar las acciones de promoción y publicidad del desarrollo económico, así como identificar y promover las oportunidades de negocios en el Estado, con base en las políticas y estrategia, establecidas por la Subsecretaria de Promoción y Atracción de Inversiones;
-
-II. Coordinar las actividades para la implementación de las campañas de promoción y difusión de las actividades económicas del Estado;
-
-III. Promover las actividades de los sectores económicos del Estado en el ámbito estatal, nacional e internacional;
-
-IV. Participar de manera activa en eventos, ferias y exposiciones nacionales e internacionales como parte de las actividades de promoción sectorial en el Estado;
-
-V. Diseñar, elaborar y distribuir el material promocional de la actividad económica del Estado;
-
-VI. Solicitar y gestionar ante las instancias respectivas los recursos necesarios para llevar a cabo las actividades de promoción y difusión de la actividad económica del Estado, previa autorización del Subsecretario de Promoción y Atracción de Inversiones;
-
-VII. Formular y evaluar estudios para identificar los sectores económicos con mayor oportunidad en el Estado, así como medir el impacto de las actividades de promoción en los sectores clave;
-
-VIII. Generar, concentrar y difundir por cualquier medio, los resultados de forma general respecto de la economía, recursos y competitividad del Estado, así como de las acciones y proyectos económicos del Estado;
-
-IX. Organizar y realizar reuniones empresariales con inversionistas nacionales y extranjeros; y,
-
-X. Las demás que le señale el Subsecretario de Promoción y Atracción de Inversiones y otras disposiciones legales aplicables.
-
-..... (sic)
-
-.....
+#### SECCIÓN IV. DE LA DIRECCIÓN DE ABASTO Y COMERCIO POPULAR
 
 ###### ARTÍCULO 77.
 
@@ -3159,7 +3539,7 @@ XXIII. Solicitar el auxilio de la fuerza pública, a fin de dar cumplimiento a l
 
 XXIV. Las demás que le señale el Secretario de Desarrollo Económico y otras disposiciones legales aplicables.
 
-### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE IMPULSO A LA CALIDAD
+### CAPÍTULO SEGUNDO. DE LA SUBSECRETARÍA DE PROMOCIÓN Y ATRACCIÓN DE INVERSIONES
 
 ###### ARTÍCULO 78.
 
@@ -3191,7 +3571,7 @@ XII. Emitir opinión técnica respecto de la instalación de nuevas industrias e
 
 XIII. Las demás que le señale el Secretario de Desarrollo Económico y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE DESARROLLO DE EMPRESAS TURÍSTICAS
+#### SECCIÓN I. DE LA DIRECCIÓN DE ATRACCIÓN DE INVERSIÓN
 
 ###### ARTÍCULO 79.
 
@@ -3219,7 +3599,7 @@ X. Coadyuvar con la Dirección de Impulso a la Micro, Pequeña y Mediana Empresa
 
 XI. Las demás que le señale el Secretario de Desarrollo Económico y otras disposiciones legales aplicables;
 
-#### SECCIÓN II. DE LA DIRECCIÓN (SIC) COORDINACIÓN DE PROYECTOS
+#### SECCIÓN II. DE LA DIRECCIÓN DE OFERTA EXPORTABLE
 
 ###### ARTÍCULO 80.
 
@@ -3259,9 +3639,37 @@ XVI. Las demás que le señale el Secretario de Desarrollo Económico y otras di
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE MARZO DE 2011)</small>
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE VINCULACIÓN INSTITUCIONAL
+#### SECCIÓN III. DE LA DIRECCIÓN DE PROMOCIÓN
 
-### CAPÍTULO PRIMERO. DE LA SUBSECRETARÍA DE DESARROLLO TURÍSTICO
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
+
+ARTÍCULO 80 BIS.- Al Director de Promoción le corresponde el ejercicio de las facultades siguientes:
+
+I. Dirigir, supervisar y evaluar las acciones de promoción y publicidad del desarrollo económico, así como identificar y promover las oportunidades de negocios en el Estado, con base en las políticas y estrategia, establecidas por la Subsecretaria de Promoción y Atracción de Inversiones;
+
+II. Coordinar las actividades para la implementación de las campañas de promoción y difusión de las actividades económicas del Estado;
+
+III. Promover las actividades de los sectores económicos del Estado en el ámbito estatal, nacional e internacional;
+
+IV. Participar de manera activa en eventos, ferias y exposiciones nacionales e internacionales como parte de las actividades de promoción sectorial en el Estado;
+
+V. Diseñar, elaborar y distribuir el material promocional de la actividad económica del Estado;
+
+VI. Solicitar y gestionar ante las instancias respectivas los recursos necesarios para llevar a cabo las actividades de promoción y difusión de la actividad económica del Estado, previa autorización del Subsecretario de Promoción y Atracción de Inversiones;
+
+VII. Formular y evaluar estudios para identificar los sectores económicos con mayor oportunidad en el Estado, así como medir el impacto de las actividades de promoción en los sectores clave;
+
+VIII. Generar, concentrar y difundir por cualquier medio, los resultados de forma general respecto de la economía, recursos y competitividad del Estado, así como de las acciones y proyectos económicos del Estado;
+
+IX. Organizar y realizar reuniones empresariales con inversionistas nacionales y extranjeros; y,
+
+X. Las demás que le señale el Subsecretario de Promoción y Atracción de Inversiones y otras disposiciones legales aplicables.
+
+..... (sic)
+
+.....
+
+### CAPÍTULO TERCERO. DE LA DIRECCIÓN DEL EMPLEO
 
 ###### ARTÍCULO 81.
 
@@ -3285,7 +3693,7 @@ VIII. Proponer al Secretario de Desarrollo Económico la celebración de conveni
 
 IX. Las demás que le señale el Secretario de Desarrollo Económico y otras disposiciones legales aplicables.
 
-### CAPÍTULO SEGUNDO. DE LA SUBSECRETARÍA DE PROMOCIÓN
+### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE IMPULSO A LA CALIDAD
 
 ###### ARTÍCULO 82.
 
@@ -3323,7 +3731,7 @@ XIII. Las demás que le señale el Secretario de Desarrollo Económico y otras d
 
 La Secretaría de Turismo es la dependencia del Poder Ejecutivo del Estado, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 27 de la Ley Orgánica de la Administración Pública del Estado y demás disposiciones legales aplicables;
 
-### CAPÍTULO PRIMERO. DE LA SUBSECRETARÍA DE FOMENTO PRODUCTIVO
+### CAPÍTULO PRIMERO. DE LA SUBSECRETARÍA DE DESARROLLO TURÍSTICO
 
 ###### ARTÍCULO 84.
 
@@ -3373,7 +3781,7 @@ XXI. Coordinar la atención a servidores públicos de los tres órdenes de gobie
 
 XXII. Las demás que le señale el Secretario de Turismo y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE MERCADOTECNIA
+#### SECCIÓN I. DE LA DIRECCIÓN DE DESARROLLO DE EMPRESAS TURÍSTICAS
 
 ###### ARTÍCULO 85.
 
@@ -3421,7 +3829,7 @@ XX. Promover y dirigir la ejecución de acciones que coadyuven a la obtención d
 
 XXI. Las demás que le señale el Secretario de Turismo y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE PROMOCIÓN
+#### SECCIÓN II. DE LA DIRECCIÓN (SIC) COORDINACIÓN DE PROYECTOS
 
 ###### ARTÍCULO 86.
 
@@ -3455,7 +3863,7 @@ XIII. Dirigir la integración de los libros blancos sobre las obras que ejecute 
 
 XIV. Las demás que le señale el Secretario de Turismo y otras disposiciones legales aplicables.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE PROMOCIÓN DEL TURISMO SOCIAL
+#### SECCIÓN III. DE LA DIRECCIÓN DE VINCULACIÓN INSTITUCIONAL
 
 ###### ARTÍCULO 87.
 
@@ -3479,7 +3887,7 @@ VIII. Diseñar, establecer y dirigir un sistema de registro de todos aquellos se
 
 IX. Las demás que señale el Secretario de Turismo y otras disposiciones legales aplicables.
 
-### CAPÍTULO SEGUNDO. DE LA SUBSECRETARÍA DE ORGANIZACIÓN Y DESARROLLO
+### CAPÍTULO SEGUNDO. DE LA SUBSECRETARÍA DE PROMOCIÓN
 
 ###### ARTÍCULO 88.
 
@@ -3515,7 +3923,7 @@ XIV. Coordinar la participación de la Secretaría de Turismo en ferias, exposic
 
 XV. Las demás que le señale el Secretario de Turismo y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE AGRICULTURA
+#### SECCIÓN I. DE LA DIRECCIÓN DE MERCADOTECNIA
 
 ###### ARTÍCULO 89.
 
@@ -3551,7 +3959,7 @@ XIV. Evaluar y reportar al Subsecretario de Promoción, el resultado de las camp
 
 XV. Las demás que le señale el Secretario de Turismo y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE GANADERÍA
+#### SECCIÓN II. DE LA DIRECCIÓN DE PROMOCIÓN
 
 ###### ARTÍCULO 90.
 
@@ -3583,7 +3991,7 @@ XII. Evaluar el impacto social y de costo y beneficio de los eventos que realice
 
 XIII. Las demás que le señale el Secretario de Turismo y otras disposiciones legales aplicables.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE AGROINDUSTRIAS Y COMERCIALIZACIÓN
+#### SECCIÓN III. DE LA DIRECCIÓN DE PROMOCIÓN DEL TURISMO SOCIAL
 
 ###### ARTÍCULO 91.
 
@@ -3619,7 +4027,7 @@ XII. Las demás que le señale el Secretario de Turismo y otras disposiciones le
 
 La Secretaría de Desarrollo Rural es la dependencia del Poder Ejecutivo del Estado, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 28 de la Ley Orgánica de la Administración Pública del Estado y otras disposiciones legales aplicables.
 
-### CAPÍTULO PRIMERO. DE LA SUBSECRETARÍA DE COMUNICACIONES Y OBRAS PÚBLICAS
+### CAPÍTULO PRIMERO. DE LA SUBSECRETARÍA DE FOMENTO PRODUCTIVO
 
 ###### ARTÍCULO 93.
 
@@ -3657,7 +4065,7 @@ XV. Proponer acciones que garanticen el cumplimiento del proceso de comercializa
 
 XVI. Las demás que le señale el Secretario de Desarrollo Rural y otras disposiciones normativas aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE ORGANIZACIÓN Y CAPACITACIÓN
+#### SECCIÓN I. DE LA DIRECCIÓN DE AGRICULTURA
 
 ###### ARTÍCULO 94.
 
@@ -3703,7 +4111,7 @@ XIX. Programar y promover la realización de obras y conservación de pequeña i
 
 XX. Administrar eficientemente la maquinaria y equipo propiedad de la Secretaría de Desarrollo Rural, con la finalidad de impulsar el desarrollo productivo de los campesinos principalmente de escasos recursos, mediante la ejecución de obra hidroagrícola y pecuaria;
 
-XXI. Proponer los convenios de concertación de acciones o colaboración, que en materia de agricultura deba suscribir el Secretario de Desarrollo Rural con organismos o instituciones nacionales o extranjeras; y, (sic)
+XXI. Proponer los convenios de concertación de acciones o colaboración, que en materia de agricultura deba suscribir el Secretario de Desarrollo Rural con organismos o instituciones nacionales o extranjeras; y,
 
 XXII. Participar en coordinación con la Dirección de Estudios y Proyectos Estratégicos, en el establecimiento y operación eficiente de un sistema de información que permita al productor agrícola una mejor administración de su producción;
 
@@ -3713,7 +4121,7 @@ XXIV. Proponer al Subsecretario de Fomento Productivo el establecimiento de los 
 
 XXV. Las demás que le señale el Secretario de Desarrollo Rural y otras disposiciones normativas aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE DESARROLLO RURAL Y PROGRAMAS CONCURRENTES
+#### SECCIÓN II. DE LA DIRECCIÓN DE GANADERÍA
 
 ###### ARTÍCULO 95.
 
@@ -3747,7 +4155,7 @@ XIII. Integrar, analizar y dar seguimiento a las estadísticas pecuarias; y,
 
 XIV. Las demás que le señale el Secretario de Desarrollo Rural y otras disposiciones normativas aplicables.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE ESTUDIOS Y PROYECTOS ESTRATÉGICOS
+#### SECCIÓN III. DE LA DIRECCIÓN DE AGROINDUSTRIAS Y COMERCIALIZACIÓN
 
 ###### ARTÍCULO 96.
 
@@ -3783,7 +4191,7 @@ XIV. Participar en coordinación con la Dirección de Estudios y Proyectos Estra
 
 XV. Las demás que le señale el Secretario de Desarrollo Rural y otras disposiciones normativas aplicables.
 
-### CAPÍTULO PRIMERO. DE LA SUBSECRETARÍA DE URBANISMO
+### CAPÍTULO SEGUNDO. DE LA SUBSECRETARÍA DE ORGANIZACIÓN Y DESARROLLO
 
 ###### ARTÍCULO 97.
 
@@ -3825,7 +4233,7 @@ XVII. Proponer al Secretario de Desarrollo Rural la suscripción de convenios de
 
 XVIII. Las demás que le señale el Secretario de Desarrollo Rural y otras disposiciones normativas aplicables.
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE DISTRITOS DE DESARROLLO RURAL
+#### SECCIÓN I. DE LA DIRECCIÓN DE ORGANIZACIÓN Y CAPACITACIÓN
 
 ###### ARTÍCULO 98.
 
@@ -3853,7 +4261,7 @@ X. Apoyar la promoción de talleres y el establecimiento de agroindustrias, así
 
 XI. Las demás que le señale el Secretario de Desarrollo Rural y otras disposiciones normativas aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE OBRAS PÚBLICAS
+#### SECCIÓN II. DE LA DIRECCIÓN DE DESARROLLO RURAL Y PROGRAMAS CONCURRENTES
 
 ###### ARTÍCULO 99.
 
@@ -3877,7 +4285,7 @@ VIII. Proponer al Subsecretario de Organización y Desarrollo, los sistemas y m�
 
 IX. Las demás que le señale el Secretario de Desarrollo Rural y otras disposiciones normativas aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE PROYECTOS E INGENIERÍA
+#### SECCIÓN III. DE LA DIRECCIÓN DE ESTUDIOS Y PROYECTOS ESTRATÉGICOS
 
 ###### ARTÍCULO 100.
 
@@ -3905,7 +4313,7 @@ X. Realizar y coordinar la elaboración de estudios estratégicos para el desarr
 
 XI. Las demás que le señale el Secretario de Desarrollo Rural y otras disposiciones normativas aplicables.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE CAMINOS Y CARRETERAS
+#### SECCIÓN IV. DE LA DIRECCIÓN DE DISTRITOS DE DESARROLLO RURAL
 
 ###### ARTÍCULO 101.
 
@@ -3943,7 +4351,7 @@ XIII. Las demás que le señale el Secretario de Desarrollo Rural y otras dispos
 
 La Secretaría de Comunicaciones y Obras Públicas es la dependencia del Poder Ejecutivo del Estado, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 29 de la Ley Orgánica de la Administración Pública del Estado y otras disposiciones legales aplicables.
 
-### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE ORDENAMIENTO Y PROTECCIÓN DEL PATRIMONIO NATURAL
+### CAPÍTULO PRIMERO. DE LA SUBSECRETARÍA DE COMUNICACIONES Y OBRAS PÚBLICAS
 
 ###### ARTÍCULO 103.
 
@@ -3985,7 +4393,7 @@ XVII. Proporcionar con la aprobación del Secretario de Comunicaciones y Obras P
 
 XVIII. Las demás que le señale el Secretario de Comunicaciones y Obras Públicas y otras disposiciones legales aplicables.
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE MAQUINARIA Y EQUIPO
+#### SECCIÓN I. DE LA DIRECCIÓN DE OBRAS PÚBLICAS
 
 ###### ARTÍCULO 104.
 
@@ -4021,7 +4429,7 @@ XIV. Llevar a cabo los finiquitos de obra correspondientes, una vez terminada la
 
 XV. Las demás que le señale el Secretario de Comunicaciones y Obras Públicas y otras disposiciones legales aplicables.
 
-#### SECCIÓN V. DE LA DIRECCIÓN DE PROCESOS DE LICITACIÓN Y ADJUDICACIÓN DE OBRAS
+#### SECCIÓN II. DE LA DIRECCIÓN DE PROYECTOS E INGENIERÍA
 
 ###### ARTÍCULO 105.
 
@@ -4049,7 +4457,7 @@ X. Revisar y autorizar los expedientes técnicos de los proyectos que con recurs
 
 XI. Las demás que le señale el Secretario de Comunicaciones y Obras Públicas y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE DESARROLLO URBANO
+#### SECCIÓN III. DE LA DIRECCIÓN DE CAMINOS Y CARRETERAS
 
 ###### ARTÍCULO 106.
 
@@ -4097,7 +4505,7 @@ XX. Proponer las políticas y mecanismos a fin de mantener actualizados los cens
 
 XXI. Las demás que le señale el Secretario de Comunicaciones y Obras Públicas y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE ASENTAMIENTOS HUMANOS
+#### SECCIÓN IV. DE LA DIRECCIÓN DE MAQUINARIA Y EQUIPO
 
 ###### ARTÍCULO 107.
 
@@ -4119,39 +4527,7 @@ VII. Proporcionar en calidad de préstamo o comodato, la maquinaria responsabili
 
 VIII. Las demás que le señale el Secretario de Comunicaciones y Obras Públicas y otras disposiciones legales aplicables.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE ÁREAS CONURBADAS Y PROGRAMAS METROPOLITANOS
-
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
-
-ARTÍCULO 112 bis.- Al Director de Áreas Conurbadas y Programas Metropolitanos le corresponde el ejercicio de las facultades siguientes:
-
-I. Promover la celebración de convenios y/o contratos con la Federación, entidades federativas, municipios del Estado y sectores social y privado en materia de planeación e inversión para el funcionamiento y constitución de áreas conurbadas y zonas metropolitanas, así como para el mejoramiento de la imagen urbana y el aprovechamiento del territorio estatal de manera sustentable;
-
-II. Formular, ejecutar, revisar, actualizar, controlar y aprobar los Programas de Ordenación de las Áreas Conurbadas y Metropolitanas con los ayuntamientos involucrados, a través de las comisiones correspondientes, en los términos establecidos en la Ley General de Asentamientos Humanos, el Código de Desarrollo Urbano del Estado de Michoacán y los aplicables para los Estados vecinos;
-
-III. Participar de manera coordinada con los ayuntamientos del Estado, los gobiernos de las entidades federativas y con la Federación, en la planeación y ordenación de los centros de población situados en el territorio del Estado, que constituyan o tiendan a constituir un área conurbada o metropolitana;
-
-IV. Dirigir la planeación, promoción y gestión del desarrollo conurbado y metropolitano en el Estado;
-
-V. Coadyuvar en la ejecución de estudios, programas y acciones para el desarrollo de las Áreas Conurbadas y Zonas Metropolitanas, en coordinación con ayuntamientos, autoridades estatales y las comisiones correspondientes de la zona;
-
-VI. Promover la participación del sector social y privado, en la formulación o actualización, ejecución, modificación y evaluación de los Programas de Ordenación de las Áreas Conurbadas y Metropolitanas, así como la realización de acciones e inversiones para su desarrollo;
-
-VII. Incluir en todos los Programas de Ordenación de las Áreas Conurbadas y Metropolitanas a su cargo acciones que promuevan el desarrollo sustentable;
-
-VII. Dar seguimiento a los procesos de conurbación y metropolización;
-
-IX. Gestionar la inscripción de los Programas de Ordenación de las Áreas Conurbadas y Metropolitanas, en el Registro Público de la Propiedad Raíz y del Comercio en el Estado, en el Sistema de Infamación Geográfica del Estado y en el Registro Agrario Nacional, una vez aprobada por la Comisión de la Zona correspondiente;
-
-X. Coadyuvar para que los programas y acciones de las Áreas Conurbadas o Zonas Metropolitanas, sean congruentes con los objetivos y estrategias de los planes, nacional, estatal, regional, municipal y centro de población en materia de desarrollo urbano;
-
-XI. Llevar a cabo o a través de terceros, las acciones y obras de competencia de la Secretaría convenidas por el Gobierno del Estado, en materia de Áreas Conurbadas y Zonas Metropolitanas;
-
-XII. Proponer y llevar a cabo de manera directa, las acciones, obras y servicios públicos de competencia de la Secretaría, convenidos por el Gobierno del Estado;
-
-XIII. Elaborar proyectos ejecutivos de obras de mejoramiento de la imagen urbana de poblaciones del Estado, así como realizar las mismas directamente o a través de terceros; y,
-
-XIV. Las demás que le señale el Subsecretario de Urbanismo y otras disposiciones legales aplicables.
+#### SECCIÓN V. DE LA DIRECCIÓN DE PROCESOS DE LICITACIÓN Y ADJUDICACIÓN DE OBRAS
 
 ###### ARTÍCULO 108.
 
@@ -4181,7 +4557,7 @@ IX. Las demás que le señale el Secretario de Comunicaciones y Obras Públicas 
 
 La Secretaría de Urbanismo y Medio Ambiente, es la dependencia del Poder Ejecutivo del Estado, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 30 de la Ley Orgánica de la Administración Pública del Estado y otras disposiciones legales aplicables.
 
-### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE CONTENCIÓN DEL DETERIORO AMBIENTAL
+### CAPÍTULO PRIMERO. DE LA SUBSECRETARÍA DE URBANISMO
 
 ###### ARTÍCULO 110.
 
@@ -4209,7 +4585,7 @@ X. Realizar visitas y evaluar los trabajos relacionados con el desarrollo urbano
 
 XI. Las demás que le señale el Secretario de Urbanismo y Medio Ambiente y otras disposiciones legales.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE EDUCACIÓN ELEMENTAL
+#### SECCIÓN I. DE LA DIRECCIÓN DE DESARROLLO URBANO
 
 ###### ARTÍCULO 111.
 
@@ -4245,7 +4621,7 @@ XII. Vigilar, supervisar y evaluar el cumplimiento de los programas y disposicio
 
 XIII. Las demás que le señale el Secretario de Urbanismo y Medio Ambiente y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE EDUCACIÓN PRIMARIA
+#### SECCIÓN II. DE LA DIRECCIÓN DE ASENTAMIENTOS HUMANOS
 
 ###### ARTÍCULO 112.
 
@@ -4285,9 +4661,41 @@ XVI. Las demás que le señale el Secretario de Urbanismo y Medio Ambiente y otr
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE MARZO DE 2011)</small>
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE EDUCACIÓN SECUNDARIA
+#### SECCIÓN III. DE LA DIRECCIÓN DE ÁREAS CONURBADAS Y PROGRAMAS METROPOLITANOS
 
-### CAPÍTULO PRIMERO. DE LA SUBSECRETARÍA DE EDUCACIÓN BÁSICA
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
+
+ARTÍCULO 112 BIS.- Al Director de Áreas Conurbadas y Programas Metropolitanos le corresponde el ejercicio de las facultades siguientes:
+
+I. Promover la celebración de convenios y/o contratos con la Federación, entidades federativas, municipios del Estado y sectores social y privado en materia de planeación e inversión para el funcionamiento y constitución de áreas conurbadas y zonas metropolitanas, así como para el mejoramiento de la imagen urbana y el aprovechamiento del territorio estatal de manera sustentable;
+
+II. Formular, ejecutar, revisar, actualizar, controlar y aprobar los Programas de Ordenación de las Áreas Conurbadas y Metropolitanas con los ayuntamientos involucrados, a través de las comisiones correspondientes, en los términos establecidos en la Ley General de Asentamientos Humanos, el Código de Desarrollo Urbano del Estado de Michoacán y los aplicables para los Estados vecinos;
+
+III. Participar de manera coordinada con los ayuntamientos del Estado, los gobiernos de las entidades federativas y con la Federación, en la planeación y ordenación de los centros de población situados en el territorio del Estado, que constituyan o tiendan a constituir un área conurbada o metropolitana;
+
+IV. Dirigir la planeación, promoción y gestión del desarrollo conurbado y metropolitano en el Estado;
+
+V. Coadyuvar en la ejecución de estudios, programas y acciones para el desarrollo de las Áreas Conurbadas y Zonas Metropolitanas, en coordinación con ayuntamientos, autoridades estatales y las comisiones correspondientes de la zona;
+
+VI. Promover la participación del sector social y privado, en la formulación o actualización, ejecución, modificación y evaluación de los Programas de Ordenación de las Áreas Conurbadas y Metropolitanas, así como la realización de acciones e inversiones para su desarrollo;
+
+VII. Incluir en todos los Programas de Ordenación de las Áreas Conurbadas y Metropolitanas a su cargo acciones que promuevan el desarrollo sustentable;
+
+VII. Dar seguimiento a los procesos de conurbación y metropolización;
+
+IX. Gestionar la inscripción de los Programas de Ordenación de las Áreas Conurbadas y Metropolitanas, en el Registro Público de la Propiedad Raíz y del Comercio en el Estado, en el Sistema de Infamación Geográfica del Estado y en el Registro Agrario Nacional, una vez aprobada por la Comisión de la Zona correspondiente;
+
+X. Coadyuvar para que los programas y acciones de las Áreas Conurbadas o Zonas Metropolitanas, sean congruentes con los objetivos y estrategias de los planes, nacional, estatal, regional, municipal y centro de población en materia de desarrollo urbano;
+
+XI. Llevar a cabo o a través de terceros, las acciones y obras de competencia de la Secretaría convenidas por el Gobierno del Estado, en materia de Áreas Conurbadas y Zonas Metropolitanas;
+
+XII. Proponer y llevar a cabo de manera directa, las acciones, obras y servicios públicos de competencia de la Secretaría, convenidos por el Gobierno del Estado;
+
+XIII. Elaborar proyectos ejecutivos de obras de mejoramiento de la imagen urbana de poblaciones del Estado, así como realizar las mismas directamente o a través de terceros; y,
+
+XIV. Las demás que le señale el Subsecretario de Urbanismo y otras disposiciones legales aplicables.
+
+### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE ORDENAMIENTO Y PROTECCIÓN DEL PATRIMONIO NATURAL
 
 ###### Artículo 113.
 
@@ -4315,7 +4723,7 @@ X. Elaborar y promover programas en materia de aprovechamiento sustentable de la
 
 XI. Las demás que le señale el Secretario de Urbanismo y Medio Ambiente y otras disposiciones normativas aplicables.
 
-### CAPÍTULO SEGUNDO. DE LA SUBSECRETARÍA DE EDUCACIÓN MEDIA SUPERIOR Y SUPERIOR
+### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE CONTENCIÓN DEL DETERIORO AMBIENTAL
 
 ###### ARTÍCULO 114.
 
@@ -4351,7 +4759,7 @@ XIII. Asesorar técnicamente en materia de prevención del deterioro ambiental p
 
 XIV. Elaborar y coordinar campañas de educación, formación y difusión orientadas a crear una cultura de responsabilidad ambiental;
 
-XV. Promover que las instancias de educación superior y organismos dedicados a la investigación científica y tecnológica, desarrollen técnicas de procedimientos y métodos que propicien el aprovechamiento sustentable de los recursos naturales, el control de la contaminación y la protección de los ecosistemas; y, (sic)
+XV. Promover que las instancias de educación superior y organismos dedicados a la investigación científica y tecnológica, desarrollen técnicas de procedimientos y métodos que propicien el aprovechamiento sustentable de los recursos naturales, el control de la contaminación y la protección de los ecosistemas; y,
 
 > <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
@@ -4387,9 +4795,7 @@ XXII. Las demás que le señale el Secretario de Urbanismo y Medio Ambiente y ot
 
 La Secretaría de Educación es la dependencia del Poder Ejecutivo del Estado, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 31 de la Ley Orgánica de la Administración Pública del Estado, la Ley Estatal de Educación y otras disposiciones legales aplicables.
 
-### CAPÍTULO TERCERO. DE LA COORDINACIÓN GENERAL DE PLANEACIÓN Y EVALUACIÓN EDUCATIVA
-
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
+### CAPÍTULO PRIMERO. DE LA SUBSECRETARÍA DE EDUCACIÓN BÁSICA
 
 ###### ARTÍCULO 116.
 
@@ -4441,7 +4847,7 @@ XIX. Coordinar, supervisar y evaluar la operación y resultados de los diferente
 
 XX. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE EDUCACIÓN FÍSICA, RECREACIÓN Y DEPORTE
+#### SECCIÓN I. DE LA DIRECCIÓN DE EDUCACIÓN ELEMENTAL
 
 ###### ARTÍCULO 117.
 
@@ -4481,9 +4887,7 @@ XIII. Las demás que le señale el Subsecretario de Educación Básica y otras d
 
 XIV. (DEROGADA, P.O. 16 DE ENERO DE 2012)
 
-#### SECCIÓN V. DE LA DIRECCIÓN DE EDUCACIÓN ARTÍSTICA Y DESARROLLO CULTURAL
-
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 122], P.O. 16 DE ENERO DE 2012)</small>
+#### SECCIÓN II. DE LA DIRECCIÓN DE EDUCACIÓN PRIMARIA
 
 ###### ARTÍCULO 118.
 
@@ -4527,9 +4931,7 @@ XVIII. Diseñar, programar, instrumentar, supervisar y evaluar acciones encamina
 
 XIX. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN VI. DE LA DIRECCIÓN DE EDUCACIÓN EXTRAESCOLAR
-
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 124], P.O. 16 DE ENERO DE 2012)</small>
+#### SECCIÓN III. DE LA DIRECCIÓN DE EDUCACIÓN SECUNDARIA
 
 ###### ARTÍCULO 119.
 
@@ -4567,7 +4969,7 @@ XII. Supervisar y validar los movimientos de personal para su autorización de a
 
 XIII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN VII. DE LA DIRECCIÓN DE CARRERA MAGISTERIAL
+#### SECCIÓN IV. DE LA DIRECCIÓN DE EDUCACIÓN FÍSICA, RECREACIÓN Y DEPORTE
 
 ###### ARTÍCULO 120.
 
@@ -4603,9 +5005,9 @@ IX. Las demás que le señale el Secretario de Educación y otras disposiciones 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ENERO DE 2012)</small>
 
-#### SECCIÓN VIII. DE LA UNIDAD ESTATAL DE DESARROLLO PROFESIONAL DEL MAGISTERIO
+#### SECCIÓN V. DE LA DIRECCIÓN DE EDUCACIÓN ARTÍSTICA Y DESARROLLO CULTURAL
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 121], P.O. 16 DE ENERO DE 2012)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 122], P.O. 16 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 121.
 
@@ -4633,7 +5035,9 @@ X. Las demás que le señale el Secretario de Educación y otras disposiciones l
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ENERO DE 2012)</small>
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE EDUCACIÓN MEDIA SUPERIOR
+#### SECCIÓN VI. DE LA DIRECCIÓN DE EDUCACIÓN EXTRAESCOLAR
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 124], P.O. 16 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 122.
 
@@ -4669,7 +5073,7 @@ XIV. Supervisar y validar los movimientos de personal para su autorización de a
 
 XV. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE EDUCACIÓN SUPERIOR
+#### SECCIÓN VII. DE LA DIRECCIÓN DE CARRERA MAGISTERIAL
 
 ###### ARTÍCULO 123.
 
@@ -4695,7 +5099,9 @@ IX. Las demás que le señale el Secretario de Educación y otras disposiciones 
 
 > <small>(ADICIONADA, P.O. 16 DE ENERO DE 2012)</small>
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE FORMACIÓN INICIAL Y PROFESIONALIZACIÓN DOCENTE
+#### SECCIÓN VIII. DE LA UNIDAD ESTATAL DE DESARROLLO PROFESIONAL DEL MAGISTERIO
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 121], P.O. 16 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 124.
 
@@ -4727,9 +5133,7 @@ XII. Las demás que le señale el Subsecretario de Educación Básica y otras di
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPÍTULO TERCERO], P.O. 16 DE ENERO DE 2012)</small>
 
-### CAPÍTULO CUARTO. DE LA DIRECCIÓN GENERAL DE DESARROLLO E INVESTIGACIÓN EDUCATIVA
-
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
+### CAPÍTULO SEGUNDO. DE LA SUBSECRETARÍA DE EDUCACIÓN MEDIA SUPERIOR Y SUPERIOR
 
 ###### ARTÍCULO 125.
 
@@ -4785,9 +5189,7 @@ XVIII. Estudiar, elaborar y someter a consideración de las autoridades respecti
 
 XIX. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE PLANEACIÓN EDUCATIVA
-
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
+#### SECCIÓN I. DE LA DIRECCIÓN DE EDUCACIÓN MEDIA SUPERIOR
 
 ###### ARTÍCULO 126.
 
@@ -4855,9 +5257,7 @@ XXI. Impulsar las reformas curriculares de los estudios de bachillerato que resu
 
 XXII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE EVALUACIÓN EDUCATIVA
-
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
+#### SECCIÓN II. DE LA DIRECCIÓN DE EDUCACIÓN SUPERIOR
 
 ###### ARTÍCULO 127.
 
@@ -4883,7 +5283,7 @@ VII. Promover el mejoramiento de la calidad de la educación superior y la soluc
 
 > <small>(REFORMADA, P.O. 16 DE ENERO DE 2012)</small>
 
-VIII. Proponer y desarrollar mecanismos dentro del ámbito de su competencia, para conocer la operación de las instituciones educativas del nivel superior, con el fin dar (sic) seguimiento a los resultados de su desempeño;
+VIII. Proponer y desarrollar mecanismos dentro del ámbito de su competencia, para conocer la operación de las instituciones educativas del nivel superior, con el fin (sic) dar seguimiento a los resultados de su desempeño;
 
 IX. (DEROGADA, P.O. 16 DE ENERO DE 2012)
 
@@ -4923,9 +5323,7 @@ XX. Coadyuvar al logro del Sistema Nacional de Orientación Educativa; y,
 
 XXI. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE INCORPORACIÓN, CONTROL Y CERTIFICACIÓN
-
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
+#### SECCIÓN III. DE LA DIRECCIÓN DE FORMACIÓN INICIAL Y PROFESIONALIZACIÓN DOCENTE
 
 ###### ARTÍCULO 128.
 
@@ -4969,9 +5367,9 @@ XII. Las demás que le señale el Secretario de Educación y otras disposiciones
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPÍTULO QUINTO], P.O. 16 DE ENERO DE 2012)</small>
 
-### CAPÍTULO QUINTO. DE LA DIRECCIÓN GENERAL DE EDUCACIÓN INDÍGENA
+### CAPÍTULO TERCERO. DE LA COORDINACIÓN GENERAL DE PLANEACIÓN Y EVALUACIÓN EDUCATIVA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 129.
 
@@ -5015,7 +5413,9 @@ XVIII. Proponer al Secretario de Educación la adscripción del personal de conf
 
 XIX. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN IV. DE LA UNIDAD DE VINCULACIÓN Y ASISTENCIA TÉCNICA
+#### SECCIÓN I. DE LA DIRECCIÓN DE PLANEACIÓN EDUCATIVA
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 130.
 
@@ -5043,7 +5443,7 @@ X. Proponer las disposiciones técnicas y administrativas de planeación educati
 
 XI. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE PROYECTOS DE INVESTIGACIÓN E INNOVACIÓN
+#### SECCIÓN II. DE LA DIRECCIÓN DE EVALUACIÓN EDUCATIVA
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
 
@@ -5063,7 +5463,7 @@ V. Colaborar en la construcción del Sistema Integral de Información Educativa 
 
 VI. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE TECNOLOGÍAS DE LA COMUNICACIÓN Y LA INFORMACIÓN EDUCATIVA
+#### SECCIÓN III. DE LA DIRECCIÓN DE INCORPORACIÓN, CONTROL Y CERTIFICACIÓN
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
 
@@ -5093,9 +5493,7 @@ X. Colaborar en la construcción del Sistema Integral de Información Educativa 
 
 XI. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCION III. DE LA DIRECCIÓN DE PROGRAMAS COMPENSATORIOS
-
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
+#### SECCIÓN IV. DE LA UNIDAD DE VINCULACIÓN Y ASISTENCIA TÉCNICA
 
 ###### ARTÍCULO 133.
 
@@ -5103,9 +5501,9 @@ XI. Las demás que le señale el Secretario de Educación y otras disposiciones 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ENERO DE 2012)</small>
 
-### CAPÍTULO SEXTO. DE LA DIRECCIÓN GENERAL DE UNIDADES REGIONALES
+### CAPÍTULO CUARTO. DE LA DIRECCIÓN GENERAL DE DESARROLLO E INVESTIGACIÓN EDUCATIVA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 134.
 
@@ -5135,9 +5533,9 @@ XI. Vigilar la aplicación de los lineamientos normativos en los mecanismos oper
 
 XII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LAS UNIDADES REGIONALES
+#### SECCIÓN I. DE LA DIRECCIÓN DE PROYECTOS DE INVESTIGACIÓN E INNOVACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 135.
 
@@ -5163,7 +5561,9 @@ IX. Las demás que le señale el Secretario de Educación y otras disposiciones 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ENERO DE 2012)</small>
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE ADMINISTRACIÓN DE PERSONAL
+#### SECCIÓN II. DE LA DIRECCIÓN DE TECNOLOGÍAS DE LA COMUNICACIÓN Y LA INFORMACIÓN EDUCATIVA
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 136.
 
@@ -5197,7 +5597,9 @@ XIII. Las demás que le señale el Secretario de Educación y otras disposicione
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ENERO DE 2012)</small>
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE INFORMÁTICA ADMINISTRATIVA
+#### SECCION III. DE LA DIRECCIÓN DE PROGRAMAS COMPENSATORIOS
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 137.
 
@@ -5231,7 +5633,9 @@ XIII. Las demás que le señale el Secretario de Educación y otras disposicione
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPÍTULO SEXTO], P.O. 16 DE ENERO DE 2012)</small>
 
-### CAPÍTULO SÉPTIMO. DE LA DELEGACIÓN ADMINISTRATIVA
+### CAPÍTULO QUINTO. DE LA DIRECCIÓN GENERAL DE EDUCACIÓN INDÍGENA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 138.
 
@@ -5287,7 +5691,9 @@ XVI. Las demás le señale el Secretario de Educación y otras disposiciones leg
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPÍTULO SÉPTIMO], P.O. 16 DE ENERO DE 2012)</small>
 
-### CAPÍTULO OCTAVO. DE LA DELEGACIÓN ADMINISTRATIVA
+### CAPÍTULO SEXTO. DE LA DIRECCIÓN GENERAL DE UNIDADES REGIONALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 139.
 
@@ -5329,7 +5735,9 @@ XVI. Las demás que le señale el Secretario de Educación y otras disposiciones
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ENERO DE 2012)</small>
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE RECURSOS FINANCIEROS
+#### SECCIÓN I. DE LAS UNIDADES REGIONALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 140.
 
@@ -5371,9 +5779,7 @@ XVI. Las demás que le señale el Secretario de Educación y otras disposiciones
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES CAPÍTULO OCTAVO], P.O. 16 DE ENERO DE 2012)</small>
 
-### CAPÍTULO PRIMERO. DE LA DIRECCIÓN DE PRODUCCIÓN ARTÍSTICA Y DESARROLLO CULTURAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2011)</small>
+### CAPÍTULO SÉPTIMO. DE LA DELEGACIÓN ADMINISTRATIVA
 
 ###### Artículo 141.
 
@@ -5399,7 +5805,7 @@ IX. Autorizar la contratación y adquisición de bienes y servicios, de conformi
 
 X. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE RECURSOS MATERIALES Y SERVICIOS GENERALES
+#### SECCIÓN I. DE LA DIRECCIÓN DE ADMINISTRACIÓN DE PERSONAL
 
 ###### Artículo 142.
 
@@ -5447,9 +5853,7 @@ XVIII. Proporcionar los servicios de expedición de credenciales, constancias de
 
 XIX. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN V. DE LA DIRECCIÓN DE PROGRAMACIÓN Y PRESUPUESTO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2012)</small>
+#### SECCIÓN II. DE LA DIRECCIÓN DE INFORMÁTICA ADMINISTRATIVA
 
 ###### Artículo 143.
 
@@ -5471,7 +5875,7 @@ V. Llevar el control adecuado de respaldos de la información de la base de dato
 
 VI. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN VI. DE LA UNIDAD DE DESARROLLO ORGANIZACIONAL
+#### SECCIÓN III. DE LA DIRECCIÓN DE RECURSOS FINANCIEROS
 
 ###### Artículo 144.
 
@@ -5501,9 +5905,7 @@ XI. Instrumentar, elaborar y difundir, las normas y lineamientos para el control
 
 XII. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN ÚNICA. DE LA ADMINISTRACIÓN DEL PATRIMONIO DE LA BENEFICENCIA PÚBLICA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2011)</small>
+#### SECCIÓN IV. DE LA DIRECCIÓN DE RECURSOS MATERIALES Y SERVICIOS GENERALES
 
 ###### ARTÍCULO 145.
 
@@ -5531,7 +5933,9 @@ IX. Las demás que le señale el Secretario de Educación y otras disposiciones 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ENERO DE 2012)</small>
 
-#### SECCIÓN I. DEL RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD
+#### SECCIÓN V. DE LA DIRECCIÓN DE PROGRAMACIÓN Y PRESUPUESTO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 146.
 
@@ -5571,7 +5975,7 @@ IX. Definir los objetivos, indicadores de resultados y metas presupuestales del 
 
 X. Las demás que le señale el Secretario de Educación y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LOS HOSPITALES GENERALES
+#### SECCIÓN VI. DE LA UNIDAD DE DESARROLLO ORGANIZACIONAL
 
 ###### ARTÍCULO 147.
 
@@ -5625,55 +6029,7 @@ XII. Las demás que le señale el Secretario de Educación y otras disposiciones
 
 > <small>N. DE E. EL DECRETO DE FECHA 16 DE ENERO DE 2012, NO HACE REFERENCIA RESPECTO DE ESTE CAPÍTULO, EL CUAL SE ENCUENTRA CONTEMPLADO AHORA EN EL CAPÍTULO SÉPTIMO.</small>
 
-### CAPÍTULO PRIMERO BIS. DE LA DIRECCIÓN DE PROMOCIÓN Y FOMENTO CULTURAL
-
-> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2011)</small>
-
-ARTÍCULO 149 bis.- Al Director de Promoción y Fomento Cultural le corresponde el ejercicio de las facultades siguientes:
-
-I. Dirigir y controlar la política de promoción y fomento cultural de conformidad con los objetivos, metas y estrategias establecidos en el Plan Estatal de Desarrollo y en el Programa Estatal de Cultura;
-
-II. Elaborar proyectos y programas que permitan impulsar el desarrollo social y la formación de los michoacanos a través de la cultura;
-
-III. Impulsar y apoyar la creatividad en las artes, así como su promoción y fomento;
-
-IV. Fomentar la educación artística en todas sus expresiones;
-
-V. Someter a consideración del Secretario de Cultura, proyectos de inversión específicos para la instrumentación de programas de fomento y desarrollo cultural;
-
-VI. Llevar a cabo acciones de coordinación, previo acuerdo con el Secretario de Cultura, con otras dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, para el fomento y desarrollo cultural en el Estado;
-
-VII. Proponer, promover y estimular el desarrollo de proyectos culturales y artísticos que se desarrollen en ciudades extranjeras en donde se ubiquen comunidades de emigrantes michoacanos, en coordinación con las instancias competentes;
-
-VIII. Recibir y atender por acuerdo del Secretario de Cultura, las peticiones de los consulados extranjeros para proporcionar apoyo e intercambio con grupos de teatro, danza, música y otras actividades culturales;
-
-IX. Organizar, dirigir y fomentar el establecimiento de centros culturales, talleres libres de arte, teatros y otros espacios de carácter cultural;
-
-X. Conducir la realización de reuniones, conferencias, talleres y eventos culturales afines;
-
-XI. Instrumentar acciones que permitan desarrollar la formación y capacitación de promotores culturales;
-
-XII. Diseñar y operar la logística para el óptimo desarrollo de las actividades artísticas de la Secretaría de Cultura;
-
-XIII. Proponer al Secretario de Cultura las estrategias de difusión de las acciones y programas que realice la Secretaría de Cultura y ejecutarlas una vez autorizadas;
-
-XIV. Dirigir la ejecución de acciones de intercambio cultural en los ámbitos nacional e internacional;
-
-XV. Conducir la elaboración y publicación de proyectos, folletos, trípticos, revistas, volantes, carteles, libros y demás documentos que coadyuven al cumplimiento de los objetivos de la Secretaría de Cultura;
-
-XVI. Dirigir la elaboración y actualización de los programas especiales que determine el Secretario de Cultura;
-
-XVII. Proponer al Secretario de Cultura la política y programas de comunicación de la Secretaría de Cultura, de conformidad con las disposiciones normativas aplicables y conducir su ejecución una vez autorizados; y,
-
-XVIII. Las demás que le señale el Secretario de Cultura y otras disposiciones legales aplicables.
-
-…(sic)
-
-…
-
-…
-
-…
+### CAPÍTULO OCTAVO. DE LA DELEGACIÓN ADMINISTRATIVA
 
 ## TÍTULO DÉCIMO PRIMERO. DE LA SECRETARÍA DE CULTURA
 
@@ -5683,7 +6039,9 @@ La Secretaría de Cultura es la dependencia del Poder Ejecutivo del Estado, que 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MARZO DE 2011)</small>
 
-### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE FORMACIÓN Y EDUCACIÓN
+### CAPÍTULO PRIMERO. DE LA DIRECCIÓN DE PRODUCCIÓN ARTÍSTICA Y DESARROLLO CULTURAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 149.
 
@@ -5755,9 +6113,57 @@ XVIII. (DEROGADA, P.O. 2 DE MARZO DE 2011)
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE MARZO DE 2011)</small>
 
-### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE VINCULACIÓN E INTEGRACIÓN CULTURAL
+### CAPÍTULO PRIMERO BIS. DE LA DIRECCIÓN DE PROMOCIÓN Y FOMENTO CULTURAL
 
-### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE PATRIMONIO, PROTECCIÓN Y CONSERVACIÓN DE MONUMENTOS Y SITIOS HISTÓRICOS
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2011)</small>
+
+ARTÍCULO 149 BIS.- Al Director de Promoción y Fomento Cultural le corresponde el ejercicio de las facultades siguientes:
+
+I. Dirigir y controlar la política de promoción y fomento cultural de conformidad con los objetivos, metas y estrategias establecidos en el Plan Estatal de Desarrollo y en el Programa Estatal de Cultura;
+
+II. Elaborar proyectos y programas que permitan impulsar el desarrollo social y la formación de los michoacanos a través de la cultura;
+
+III. Impulsar y apoyar la creatividad en las artes, así como su promoción y fomento;
+
+IV. Fomentar la educación artística en todas sus expresiones;
+
+V. Someter a consideración del Secretario de Cultura, proyectos de inversión específicos para la instrumentación de programas de fomento y desarrollo cultural;
+
+VI. Llevar a cabo acciones de coordinación, previo acuerdo con el Secretario de Cultura, con otras dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, para el fomento y desarrollo cultural en el Estado;
+
+VII. Proponer, promover y estimular el desarrollo de proyectos culturales y artísticos que se desarrollen en ciudades extranjeras en donde se ubiquen comunidades de emigrantes michoacanos, en coordinación con las instancias competentes;
+
+VIII. Recibir y atender por acuerdo del Secretario de Cultura, las peticiones de los consulados extranjeros para proporcionar apoyo e intercambio con grupos de teatro, danza, música y otras actividades culturales;
+
+IX. Organizar, dirigir y fomentar el establecimiento de centros culturales, talleres libres de arte, teatros y otros espacios de carácter cultural;
+
+X. Conducir la realización de reuniones, conferencias, talleres y eventos culturales afines;
+
+XI. Instrumentar acciones que permitan desarrollar la formación y capacitación de promotores culturales;
+
+XII. Diseñar y operar la logística para el óptimo desarrollo de las actividades artísticas de la Secretaría de Cultura;
+
+XIII. Proponer al Secretario de Cultura las estrategias de difusión de las acciones y programas que realice la Secretaría de Cultura y ejecutarlas una vez autorizadas;
+
+XIV. Dirigir la ejecución de acciones de intercambio cultural en los ámbitos nacional e internacional;
+
+XV. Conducir la elaboración y publicación de proyectos, folletos, trípticos, revistas, volantes, carteles, libros y demás documentos que coadyuven al cumplimiento de los objetivos de la Secretaría de Cultura;
+
+XVI. Dirigir la elaboración y actualización de los programas especiales que determine el Secretario de Cultura;
+
+XVII. Proponer al Secretario de Cultura la política y programas de comunicación de la Secretaría de Cultura, de conformidad con las disposiciones normativas aplicables y conducir su ejecución una vez autorizados; y,
+
+XVIII. Las demás que le señale el Secretario de Cultura y otras disposiciones legales aplicables.
+
+…(sic)
+
+…
+
+…
+
+…
+
+### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE FORMACIÓN Y EDUCACIÓN
 
 ###### ARTÍCULO 150.
 
@@ -5791,7 +6197,7 @@ XIII. Coadyuvar en el funcionamiento de las diferentes Casas de Cultura del Esta
 
 XIV. Las demás que le señale el Secretario de Cultura y otras disposiciones normativas aplicables.
 
-### CAPÍTULO PRIMERO. DE LA DIRECCIÓN DE SERVICIOS DE SALUD
+### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE VINCULACIÓN E INTEGRACIÓN CULTURAL
 
 ###### ARTÍCULO 151.
 
@@ -5841,7 +6247,7 @@ XXI. Coadyuvar, con las unidades administrativas de la Secretaría de Cultura co
 
 XXII. Las demás que le señale el Secretario de Cultura y otras disposiciones legales aplicables.
 
-### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE PROTECCIÓN CONTRA RIESGOS SANITARIOS
+### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE PATRIMONIO, PROTECCIÓN Y CONSERVACIÓN DE MONUMENTOS Y SITIOS HISTÓRICOS
 
 ###### ARTÍCULO 152.
 
@@ -5881,7 +6287,7 @@ XIV. Las demás que le señale el Secretario de Cultura y otras disposiciones le
 
 La Secretaría Salud es la dependencia del Poder Ejecutivo del Estado, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 33 de la Ley Orgánica de la Administración Pública del Estado y otras disposiciones legales aplicables.
 
-### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE SERVICIOS DE ATENCIÓN PRIMARIA A LA SALUD
+### CAPÍTULO PRIMERO. DE LA DIRECCIÓN DE SERVICIOS DE SALUD
 
 ###### ARTÍCULO 154.
 
@@ -5923,7 +6329,7 @@ XVII. Implantar y promover las acciones para la salud ocupacional; y,
 
 XVIII. Las demás que le señale el Secretario de Salud y otras disposiciones legales aplicables.
 
-### CAPÍTULO CUARTO. DE LA DELEGACIÓN ADMINISTRATIVA
+### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE PROTECCIÓN CONTRA RIESGOS SANITARIOS
 
 ###### ARTÍCULO 155.
 
@@ -5963,7 +6369,7 @@ XVI. Supervisar, vigilar y controlar la operación, funcionamiento, infraestruct
 
 XVII. Las demás que le señale el Secretario de Salud y otras disposiciones legales aplicables.
 
-### CAPÍTULO QUINTO. DE LA UNIDAD AUXILIAR DEL SECRETARIO DE SALUD
+### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE SERVICIOS DE ATENCIÓN PRIMARIA A LA SALUD
 
 ###### ARTÍCULO 156.
 
@@ -5991,7 +6397,7 @@ X. Las demás que le señale el Secretario de Salud y otras disposiciones legale
 
 > <small>(F. DE E., P.O. 16 DE MAYO DE 2008)</small>
 
-### CAPÍTULO SEXTO. DE LOS ÓRGANOS DESCONCENTRADOS
+### CAPÍTULO CUARTO. DE LA DELEGACIÓN ADMINISTRATIVA
 
 ###### ARTÍCULO 157.
 
@@ -6017,9 +6423,11 @@ IX. Coordinar la elaboración de estudios y proyectos para la construcción, amp
 
 X. Las demás que le señale el Secretario de Salud y otras disposiciones legales aplicables.
 
-### CAPÍTULO PRIMERO. DE LA DIRECCIÓN DE DISEÑO Y EVALUACIÓN DE POLÍTICAS SOCIALES
+### CAPÍTULO QUINTO. DE LA UNIDAD AUXILIAR DEL SECRETARIO DE SALUD
 
-#### SECCIÓN III. DE LAS JURISDICCIONES SANITARIAS
+#### SECCIÓN ÚNICA. DE LA ADMINISTRACIÓN DEL PATRIMONIO DE LA BENEFICENCIA PÚBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 158.
 
@@ -6035,13 +6443,13 @@ IV. (DEROGADA, P.O. 2 DE MARZO DE 2011)
 
 V. (DEROGADA, P.O. 2 DE MARZO DE 2011)
 
-### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE DESARROLLO DE LA ECONOMÍA SOCIAL
+### CAPÍTULO SEXTO. DE LOS ÓRGANOS DESCONCENTRADOS
 
 ###### ARTÍCULO 159.
 
 Para una eficaz atención y eficiente despacho de los asuntos de la competencia de la Secretaría de Salud, ésta contará con los órganos administrativos desconcentrados que le estarán jerárquicamente subordinados, los cuales contarán con su propia reglamentación interna.
 
-#### SECCIÓN IV. DEL CENTRO ESTATAL DE ATENCIÓN ONCOLÓGICA
+#### SECCIÓN I. DEL RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD
 
 ###### ARTÍCULO 160.
 
@@ -6079,13 +6487,13 @@ XV. Gestionar la celebración de los convenios interinstitucionales, intersector
 
 XVI. Coadyuvar en el ámbito local al desempeño del Sistema de Protección Social en Salud y del Régimen Estatal de Protección Social en Salud, así como en la fiscalización de los fondos del mismo, incluyendo aquellos destinados al mantenimiento y desarrollo de infraestructura y equipamiento;
 
-XVII. Coordinar y operar el Fondo de Protección contra Gastos Catastróficos y evaluar sus resultados, con la participación de las unidades administrativas competentes de la Secretaría; y, (sic)
+XVII. Coordinar y operar el Fondo de Protección contra Gastos Catastróficos y evaluar sus resultados, con la participación de las unidades administrativas competentes de la Secretaría; y,
 
 XVIII. Gestionar ante la Comisión Nacional de Protección Social en Salud, el pago de los casos validados en las unidades médicas por atención a los beneficiarios del Sistema de Protección Social en Salud de acuerdo al Catálogo de Intervenciones del Fondo de Protección contra Gastos Catastróficos;
 
 XIX. Las demás que le señale el Secretario de Salud y otras disposiciones legales aplicables.
 
-#### SECCIÓN V. DEL CENTRO ESTATAL DE TRANSFUSIÓN SANGUÍNEA
+#### SECCIÓN II. DE LOS HOSPITALES GENERALES
 
 ###### ARTÍCULO 161.
 
@@ -6111,7 +6519,7 @@ IX. Impulsar e integrar la instalación del Patronato de los hospitales, con la 
 
 X. Las demás que le señale el Secretario de Salud y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LOS ENLACES
+#### SECCIÓN III. DE LAS JURISDICCIONES SANITARIAS
 
 ###### ARTÍCULO 162.
 
@@ -6155,9 +6563,7 @@ XVIII. Coadyuvar con el área correspondiente, en la gestión y tramitación de 
 
 XIX. Las demás que le señale el Secretario de Salud y otras disposiciones legales aplicables.
 
-#### SECCIÓN I. DE LA DIRECCIÓN DE PLANEACIÓN PARTICIPATIVA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2011)</small>
+#### SECCIÓN IV. DEL CENTRO ESTATAL DE ATENCIÓN ONCOLÓGICA
 
 ###### ARTÍCULO 163.
 
@@ -6189,9 +6595,7 @@ XII. Promover acciones para la protección de la salud en lo relativo al cáncer
 
 XIII. Las demás que le señale el Secretario de Salud y otras disposiciones legales aplicables.
 
-#### SECCIÓN II. DE LA DIRECCIÓN DE EVALUACIÓN Y SEGUIMIENTO
-
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
+#### SECCIÓN V. DEL CENTRO ESTATAL DE TRANSFUSIÓN SANGUÍNEA
 
 ###### ARTÍCULO 164.
 
@@ -6211,7 +6615,7 @@ IV. Las demás que le señale el Secretario de Salud y otras disposiciones legal
 
 La Secretaría de Política Social es la dependencia del Poder Ejecutivo del Estado, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 34 de la Ley Orgánica de la Administración Pública del Estado y otras disposiciones legales aplicables.
 
-### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE FORTALECIMIENTO COMUNITARIO
+### CAPÍTULO PRIMERO. DE LA DIRECCIÓN DE DISEÑO Y EVALUACIÓN DE POLÍTICAS SOCIALES
 
 ###### ARTÍCULO 166.
 
@@ -6257,7 +6661,7 @@ XIX. Promover programas de empleo productivo emergentes en comunidades campesina
 
 XX. Las demás que señale el Secretario de Política Social y otras disposiciones legales aplicables.
 
-### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE COMBATE A LA POBREZA
+### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE DESARROLLO DE LA ECONOMÍA SOCIAL
 
 ###### ARTÍCULO 167.
 
@@ -6295,7 +6699,7 @@ XV. Colaborar en coordinación con las dependencias competentes en acciones de c
 
 XVI. Las demás que le señale el Secretario de Política Social y otras disposiciones legales aplicables.
 
-### CAPÍTULO QUINTO. DE LA DIRECCIÓN DE PARTICIPACIÓN SOCIAL
+### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE FORTALECIMIENTO COMUNITARIO
 
 ###### ARTÍCULO 168.
 
@@ -6327,7 +6731,7 @@ XII. Promover los valores, usos y costumbres de las comunidades; y,
 
 XIII. Las demás que le señale el Secretario de Política Social y otras disposiciones legales aplicables.
 
-### CAPÍTULO PRIMERO. DE LA COORDINACIÓN DE NORMAS Y POLÍTICA (SIC) PÚBLICAS
+### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE COMBATE A LA POBREZA
 
 ###### ARTÍCULO 169.
 
@@ -6357,7 +6761,7 @@ XI. Proponer al Secretario de Política Social la promoción coordinada de accio
 
 XII. Las demás que le señale el Secretario de Política Social y otras disposiciones legales aplicables.
 
-### CAPÍTULO SEGUNDO. DE LA COORDINACIÓN DE PROGRAMAS SOCIALES
+### CAPÍTULO QUINTO. DE LA DIRECCIÓN DE PARTICIPACIÓN SOCIAL
 
 ###### ARTÍCULO 170.
 
@@ -6395,7 +6799,7 @@ XIII. Las demás que le señale el Secretario de Política Social y otras dispos
 
 La Secretaría de Pueblos Indígenas es la dependencia del Poder Ejecutivo del Estado, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 35 de la Ley Orgánica de la Administración Pública del Estado y otras disposiciones legales aplicables.
 
-### CAPÍTULO TERCERO. DE LA COORDINACIÓN DE PROYECTOS DE DESARROLLO ECONÓMICO Y SOCIAL
+### CAPÍTULO PRIMERO. DE LA COORDINACIÓN DE NORMAS Y POLÍTICA (SIC) PÚBLICAS
 
 ###### ARTÍCULO 172.
 
@@ -6445,7 +6849,7 @@ XXI. Propiciar el establecimiento de los mecanismos necesarios para garantizar l
 
 XXII. Las demás que le señale el Secretario de Pueblos Indígenas y otras disposiciones normativas aplicables.
 
-### CAPÍTULO PRIMERO. DE LA COORDINACIÓN DE POLÍTICAS PÚBLICAS PARA LAS MUJERES MICHOACANAS
+### CAPÍTULO SEGUNDO. DE LA COORDINACIÓN DE PROGRAMAS SOCIALES
 
 ###### ARTÍCULO 173.
 
@@ -6489,7 +6893,7 @@ XVIII. Impulsar con el sector salud la práctica de la medicina tradicional, su 
 
 XIX. Las demás que le señale el Secretario de Pueblos Indígenas y otras disposiciones normativas aplicables.
 
-### CAPÍTULO SEGUNDO. DE LA COORDINACIÓN DE ATENCIÓN Y GESTIÓN
+### CAPÍTULO TERCERO. DE LA COORDINACIÓN DE PROYECTOS DE DESARROLLO ECONÓMICO Y SOCIAL
 
 ###### ARTÍCULO 174.
 
@@ -6537,7 +6941,7 @@ XVIII. Las demás que le señale el Secretario de Pueblos Indígenas y otras dis
 
 La Secretaría de la Mujer es la dependencia del Poder Ejecutivo del Estado, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 36 de la Ley Orgánica de la Administración Pública del Estado y otras disposiciones legales aplicables.
 
-### CAPÍTULO TERCERO. DE LA COORDINACIÓN DE PROYECTOS DE DESARROLLO
+### CAPÍTULO PRIMERO. DE LA COORDINACIÓN DE POLÍTICAS PÚBLICAS PARA LAS MUJERES MICHOACANAS
 
 ###### ARTÍCULO 176.
 
@@ -6583,7 +6987,7 @@ XIX. Asesorar a las instancias municipales para atender de manera integral las c
 
 XX. Las demás que le señale la Secretaria de la Mujer y otras disposiciones normativas aplicables.
 
-### CAPÍTULO PRIMERO. DE LA COORDINACIÓN DE POLÍTICAS Y PROGRAMAS TRANSVERSALES
+### CAPÍTULO SEGUNDO. DE LA COORDINACIÓN DE ATENCIÓN Y GESTIÓN
 
 ###### ARTÍCULO 177.
 
@@ -6613,7 +7017,7 @@ XI. Coadyuvar con la Coordinación de Políticas Públicas para las Mujeres Mich
 
 XII. Las demás que le señale la Secretaria de la Mujer y otras disposiciones normativas aplicables.
 
-### CAPÍTULO SEGUNDO. DE LA COORDINACIÓN DE VINCULACIÓN BINACIONAL
+### CAPÍTULO TERCERO. DE LA COORDINACIÓN DE PROYECTOS DE DESARROLLO
 
 ###### ARTÍCULO 178.
 
@@ -6655,7 +7059,7 @@ XV. Las demás que le señale la Secretaria de la Mujer y otras disposiciones no
 
 La Secretaría del Migrante es la dependencia del Poder Ejecutivo del Estado, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 37 de la Ley Orgánica de la Administración Pública del Estado y otras disposiciones legales aplicables.
 
-### CAPÍTULO TERCERO. DE LA COORDINACIÓN DE PROYECTOS DE DESARROLLO
+### CAPÍTULO PRIMERO. DE LA COORDINACIÓN DE POLÍTICAS Y PROGRAMAS TRANSVERSALES
 
 ###### ARTÍCULO 180.
 
@@ -6703,7 +7107,7 @@ XX. Apoyar para el llenado de formatos y trámites migratorios nacionales y extr
 
 XXI. Las demás que le señale el Secretario del Migrante y otras disposiciones legales aplicables.
 
-### CAPÍTULO CUARTO. DE LAS UNIDADES ADMINISTRATIVAS DESCONCENTRADAS
+### CAPÍTULO SEGUNDO. DE LA COORDINACIÓN DE VINCULACIÓN BINACIONAL
 
 ###### ARTÍCULO 181.
 
@@ -6749,7 +7153,7 @@ XIX. Mantener un vínculo permanente con los migrantes de las organizaciones de 
 
 XX. Las demás que le señale el Secretario del Migrante y otras disposiciones legales aplicables.
 
-### CAPÍTULO PRIMERO. DE LA COORDINACION DE ORGANIZACIÓN Y PARTICIPACIÓN SOCIAL
+### CAPÍTULO TERCERO. DE LA COORDINACIÓN DE PROYECTOS DE DESARROLLO
 
 ###### ARTÍCULO 182.
 
@@ -6801,11 +7205,9 @@ XXII. Coadyuvar para agilizar trámites administrativos de empresas de migrantes
 
 XXIII. Las demás que le señale el Secretario del Migrante y otras disposiciones legales aplicables.
 
-### CAPÍTULO SEGUNDO. DE LA COORDINACIÓN DE PROGRAMAS Y PROYECTOS EDUCATIVOS
+### CAPÍTULO CUARTO. DE LAS UNIDADES ADMINISTRATIVAS DESCONCENTRADAS
 
-#### SECCIÓN III. DE LA DIRECCIÓN DE PROGRAMAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2011)</small>
+#### SECCIÓN I. DE LOS ENLACES
 
 ###### ARTÍCULO 183.
 
@@ -6857,7 +7259,7 @@ XX. Las demás que le señale el Secretario del Migrante y otras disposiciones l
 
 La Secretaría de los Jóvenes es la dependencia del Poder Ejecutivo del Estado, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 38 de la Ley Orgánica de la Administración Pública del Estado y otras disposiciones legales aplicables.
 
-### CAPÍTULO TERCERO. DE LA COORDINACIÓN DE SALUD Y DESARROLLO SOCIAL
+### CAPÍTULO PRIMERO. DE LA COORDINACION DE ORGANIZACIÓN Y PARTICIPACIÓN SOCIAL
 
 ###### ARTÍCULO 185.
 
@@ -6877,7 +7279,7 @@ VI. Promover acciones para asegurar que las políticas relativas a los jóvenes 
 
 VII. Las demás que le señale el Secretario de los Jóvenes y otras disposiciones normativas aplicables.
 
-### CAPÍTULO CUARTO. DE LA COORDINACIÓN DE PROYECTOS DE DESARROLLO ECONÓMICO Y TRABAJO
+### CAPÍTULO SEGUNDO. DE LA COORDINACIÓN DE PROGRAMAS Y PROYECTOS EDUCATIVOS
 
 ###### ARTÍCULO 186.
 
@@ -6899,7 +7301,7 @@ VII. Proponer, concertar y ejecutar programas, acciones, proyectos y actividades
 
 VIII. Las demás que le señale el Secretario de los Jóvenes y otras disposiciones normativas aplicables.
 
-### CAPÍTULO PRIMERO. DE LA DIRECCIÓN DE AUDITORÍA DEL SECTOR CENTRAL
+### CAPÍTULO TERCERO. DE LA COORDINACIÓN DE SALUD Y DESARROLLO SOCIAL
 
 ###### ARTÍCULO 187.
 
@@ -6935,7 +7337,7 @@ XIV. Promover programas, proyectos y acciones para inhibir la migración de los 
 
 XV. Las demás que le señale el Secretario de los Jóvenes y otras disposiciones normativas aplicables.
 
-### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE CONTROL Y AUDITORÍA A OBRA PÚBLICA
+### CAPÍTULO CUARTO. DE LA COORDINACIÓN DE PROYECTOS DE DESARROLLO ECONÓMICO Y TRABAJO
 
 ###### ARTÍCULO 188.
 
@@ -6991,7 +7393,7 @@ La Coordinación de Planeación para el Desarrollo es la unidad auxiliar del tit
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MARZO DE 2011)</small>
 
-#### SECCIÓN IV. DE LA DIRECCIÓN DE PROYECTOS
+#### SECCIÓN I. DE LA DIRECCIÓN DE PLANEACIÓN PARTICIPATIVA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2011)</small>
 
@@ -7069,7 +7471,9 @@ XXII. Las demás que le señale el Coordinador de Planeación para el Desarrollo
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MARZO DE 2011)</small>
 
-#### SECCIÓN V. DE LA DIRECCIÓN DE DESARROLLO REGIONAL
+#### SECCIÓN II. DE LA DIRECCIÓN DE EVALUACIÓN Y SEGUIMIENTO
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 193.
 
@@ -7105,7 +7509,7 @@ XIV. Las demás que le señale el Coordinador de Planeación para el Desarrollo 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MARZO DE 2011)</small>
 
-#### SECCIÓN VI. DE LA DIRECCIÓN DE SISTEMAS Y PROCESOS
+#### SECCIÓN III. DE LA DIRECCIÓN DE PROGRAMAS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2011)</small>
 
@@ -7152,6 +7556,10 @@ IX. Coordinar la integración de los indicadores estatales socioeconómicos de l
 X. Las demás que le señale el Coordinador de Planeación para el Desarrollo y otras disposiciones legales aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MARZO DE 2011)</small>
+
+#### SECCIÓN IV. DE LA DIRECCIÓN DE PROYECTOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 195.
 
@@ -7214,6 +7622,8 @@ XIV. (DEROGADA, P.O. 2 DE MARZO DE 2011)
 ... (sic)
 
 ...
+
+#### SECCIÓN V. DE LA DIRECCIÓN DE DESARROLLO REGIONAL
 
 ###### ARTÍCULO 196.
 
@@ -7285,6 +7695,10 @@ XVIII. (DEROGADA, P.O. 2 DE MARZO DE 2011)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MARZO DE 2011)</small>
 
+#### SECCIÓN VI. DE LA DIRECCIÓN DE SISTEMAS Y PROCESOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2011)</small>
+
 ###### ARTÍCULO 197.
 
 A la Dirección de Sistemas y Procesos le corresponde el ejercicio de las siguientes facultades:
@@ -7345,7 +7759,7 @@ XV. (DEROGADA, P.O. 2 DE MARZO DE 2011)
 
 La Coordinación de Contraloría es la unidad auxiliar del titular del Ejecutivo, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 42 de la Ley Orgánica de la Administración Pública del Estado y otras disposiciones legales aplicables.
 
-### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE AUDITORÍA DEL SECTOR PARAESTATAL
+### CAPÍTULO PRIMERO. DE LA DIRECCIÓN DE AUDITORÍA DEL SECTOR CENTRAL
 
 ###### ARTÍCULO 199.
 
@@ -7375,7 +7789,7 @@ XI. Intervenir y brindar asesoría en la celebración de actos de entrega - rece
 
 XII. Las demás que le señale el Coordinador de Contraloría y otras disposiciones legales aplicables.
 
-### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE RESPONSABILIDADES Y SITUACIÓN PATRIMONIAL
+### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE CONTROL Y AUDITORÍA A OBRA PÚBLICA
 
 ###### ARTÍCULO 200.
 
@@ -7407,7 +7821,7 @@ XII. Vigilar que los procedimientos de adjudicación de contratos y ejecución d
 
 XIII. Las demás que le señale el Coordinador de Contraloría y otras disposiciones legales aplicables.
 
-### CAPÍTULO QUINTO. DE LA DIRECCIÓN DE CONTRALORÍA SOCIAL
+### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE AUDITORÍA DEL SECTOR PARAESTATAL
 
 ###### ARTÍCULO 201.
 
@@ -7439,7 +7853,7 @@ XII. Intervenir y brindar asesoría en la celebración de actos de entrega-recep
 
 XIII. Las demás que le señale el Coordinador de Contraloría y otras disposiciones legales aplicables.
 
-### CAPÍTULO PRIMERO. DE LA DIRECCIÓN DE DIFUSIÓN
+### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE RESPONSABILIDADES Y SITUACIÓN PATRIMONIAL
 
 ###### ARTÍCULO 202.
 
@@ -7493,7 +7907,7 @@ XXIII. Las demás que le señale el Coordinador de Contraloría y otras disposic
 
 > <small>(F. DE E., P.O. 16 DE MAYO DE 2008)</small>
 
-### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE INFORMACIÓN
+### CAPÍTULO QUINTO. DE LA DIRECCIÓN DE CONTRALORÍA SOCIAL
 
 ###### ARTÍCULO 203.
 
@@ -7529,7 +7943,7 @@ XII. Las demás que le señale el Coordinador de Contraloría y otras disposicio
 
 La Coordinación General de Comunicación Social es la unidad auxiliar del titular del Ejecutivo, que tiene a su cargo el ejercicio de las atribuciones expresamente conferidas por el artículo 43 de la Ley Orgánica de la Administración Pública del Estado y otras disposiciones legales aplicables.
 
-### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE INVESTIGACIÓN Y ESTRATEGIA DE MEDIOS
+### CAPÍTULO PRIMERO. DE LA DIRECCIÓN DE DIFUSIÓN
 
 ###### ARTÍCULO 205.
 
@@ -7561,6 +7975,8 @@ XII. Supervisar criterios de homogeneidad respecto al posicionamiento e imagen d
 
 XIII. Las demás que le señale el Coordinador General de Comunicación Social y otras disposiciones legales aplicables.
 
+### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE INFORMACIÓN
+
 ###### ARTÍCULO 206.
 
 Al Director de Información le corresponde el ejercicio de las facultades siguientes:
@@ -7582,6 +7998,8 @@ VII. Coordinar, orientar y asesorar en materia de información a los enlaces de 
 VIII. Proporcionar a la Dirección de Difusión la información requerida para la producción de programas de radio o televisión de la Coordinación General de Comunicación Social; y,
 
 IX. Las demás que le señale el Coordinador General de Comunicación Social y otras disposiciones legales aplicables.
+
+### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE INVESTIGACIÓN Y ESTRATEGIA DE MEDIOS
 
 ###### ARTÍCULO 207.
 
@@ -7808,3 +8226,21 @@ El presente Decreto entrará en vigor al siguiente día de su Publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 2 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Finanzas y Administración en un plazo no mayor de 90 días posteriores a la fecha de publicación del presente Decreto, deberá realizar las modificaciones correspondientes a su Manual Administrativo de Organización y la actualización que corresponde al Manual Administrativo de Procedimientos.
+
+###### ARTÍCULO TERCERO.
+
+Hasta en tanto no se realicen las modificaciones normativas señaladas en al artículo anterior la Secretaría de Finanzas y Administración seguirá operando con sus (sic) normatividad en cuanto a lo que no se oponga a lo establecido en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones normativas en lo que se opongan al presente Decreto.
