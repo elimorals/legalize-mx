@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-adquisiciones-enajenaciones-49895"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-17"
-last_updated: "2010-12-07"
+last_updated: "2015-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL SECTOR PUBLICO EN EL ESTADO DE GUANAJUATO PARA EL PODER EJECUTIVO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE CONTRATACIONES PÚBLICAS PARA EL ESTADO DE GUANAJUATO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, PUBLICADO EN EL P.O. DE 2 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE DICIEMBRE DE 2010.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2015. (ABROGADO)
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 17 de marzo de 2006.
 
@@ -211,29 +211,23 @@ IV. Realizar las juntas de aclaraciones de las bases de las licitaciones o subas
 
 V. Realizar los actos de presentación y apertura de ofertas o posturas, en las licitaciones o subastas;
 
-> <small>(F. DE E. P.O. 7 DE DICIEMBRE DE 2010)</small>
+VI. Evaluar, considerando las tablas comparativas, las ofertas o posturas, de acuerdo a la Ley, el Reglamento y demás disposiciones legales y administrativas aplicables;
 
-VI. Evaluar, considerando las tablas comparativas, las ofertas o posturas, de acuerdo a la Ley, el Reglamento y demás disposiciones legales y administrativas aplicables; y
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2010)</small>
 
-(REFORMADA, P.O. 13 DE AGOSTO DE 2010) (F. DE E., P.O. 7 DE DICIEMBRE DE 2010)
+VII. Emitir los fallos de adjudicación de las licitaciones y subastas;
 
-VII. Emitir los fallos de adjudicación de las licitaciones y subastas.
+VIII. Autorizar en los contratos que haya adjudicado, el otorgamiento de anticipos en los términos de la Ley y el Reglamento;
 
-> <small>(F. DE E., P.O. 7 DE DICIEMBRE DE 2010)</small>
+IX. Acordar en los contratos que haya adjudicado, la prórroga para la entrega de los bienes o la prestación de los servicios, en los términos de la Ley y el Reglamento; y
 
-VIII. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2010)
-
-> <small>(F. DE E., P.O. 7 DE DICIEMBRE DE 2010)</small>
-
-IX. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2010)
-
-> <small>(F. DE E., P.O. 7 DE DICIEMBRE DE 2010)</small>
-
-X. (DEROGADA, P.O. 7 DE DICIEMBRE DE 2010)
+X. Acordar, sujetándose a los lineamientos que emita la Secretaría para tales efectos, la modificación, suspensión, terminación o rescisión de los contratos que haya adjudicado.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE AGOSTO DE 2010)</small>
 
 El comité respectivo podrá comisionar a los servidores públicos de la Dirección General de Recursos Materiales y Servicios Generales de la Secretaría, para que realicen, a su nombre, los actos a que se refieren las fracciones IV, V y VI de este numeral, los que en la realización de dichos actos, deberán identificarse mediante el oficio correspondiente, exhibiendo además su nombramiento vigente.
+
+> <small>(DEROGADO TERCER PARRAFO, P.O. 13 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 20.
 
@@ -1156,3 +1150,13 @@ JOSÉ LUIS MARIO AGUILAR Y MAYA MEDRANO
 P.O. 13 DE AGOSTO DE 2010.
 
 Artículo Único. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE JUNIO DE 2015.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento vigente
+
+Artículo Segundo. Se abroga el Reglamento de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato para el Poder Ejecutivo, contenido en el Decreto Gubernativo número 264, publicado en el Periódico Oficial del Gobierno del Estado, número 44, Tercera Parte, el 17 de marzo de 2006.
