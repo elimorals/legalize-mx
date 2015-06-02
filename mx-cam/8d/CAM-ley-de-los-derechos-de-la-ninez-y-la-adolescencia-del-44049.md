@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-derechos-de-la-ninez-y-la-adolescencia-del-44049"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-05"
-last_updated: "2012-05-07"
+last_updated: "2015-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY DE LOS DERECHOS DE LA NIÑEZ Y LA ADOLESCENCIA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 2 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2015 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 5 de julio de 2004.
 
@@ -634,3 +636,39 @@ P.O. 7 DE MAYO DE 2012.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 2 DE JUNIO DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de los Derechos de la Niñez y la Adolescencia del Estado de Campeche, expedida mediante decreto número 67 publicado en el Periódico Oficial del Estado el 5 de julio de 2004.
+
+TERCERO. Los Sistemas de Protección Estatal y Municipales deberán integrarse e instalarse a más tardar dentro de los noventa días hábiles siguientes a la entrada en vigor del presente decreto.
+
+Hecho lo anterior, los integrantes se abocarán a tomar las previsiones necesarias para la elaboración de los lineamientos que permitan el cumplimiento de todas las disposiciones que emanan de este decreto.
+
+En su primera sesión, el Presidente del Sistema Estatal de Protección Integral someterá a consideración y aprobación del mismo los lineamientos para su integración, organización y funcionamiento.
+
+CUARTO. El órgano administrativo desconcentrado que regirá como Secretaría Ejecutiva del Sistema Estatal de Protección Integral deberá constituirse dentro de los primeros noventa días del siguiente ejercicio presupuestal a la entrada en vigor del presente decreto.
+
+Asimismo, una vez constituido ese órgano administrativo desconcentrado, se deberán hacer las adecuaciones necesarias al Reglamento Interior de la Secretaría de Gobierno en un plazo no mayor a noventa días naturales contados a partir de su constitución.
+
+QUINTO. Se transforma la Procuraduría de la Defensa del Menor, la Mujer y la Familia en la Procuraduría de Protección de Niñas, Niños y Adolescentes, con efectos a partir del 1° de enero del 2016.
+
+SEXTO. Los bienes muebles que en la actualidad tienen a su servicio la Procuraduría de la Defensa del Menor, la Mujer y la Familia quedarán en su momento asignados a la Procuraduría de Protección de Niñas, Niños y Adolescentes, y los expedientes, documentos y demás material que integran el acervo documental y archivo de aquéllas se entregarán a la mencionada Procuraduría de Protección, los cuales quedarán bajo su custodia.
+
+SÉPTIMO. Los asuntos que se encuentren en trámite o en proceso en la Procuraduría de la Defensa del Menor, la Mujer y la Familia, continuarán su trámite ante la Procuraduría de Protección de Niñas, Niños y Adolescente (sic), de conformidad con las disposiciones aplicables.
+
+OCTAVO. El personal que conforma la plantilla actual de servidores públicos de la Procuraduría de la Defensa del Menor, la Mujer y la Familia se incorporarán en su momento a la Procuraduría de Protección de Niñas, Niños y Adolescentes con las mismas funciones, rangos y jerarquías, conservando los derechos laborales adquiridos.
+
+NOVENO. Para el debido cumplimiento de este decreto se deberán prever en el Presupuesto de Egresos del Estado del ejercicio fiscal 2016, las partidas presupuestales necesarias que permitan fortalecer el funcionamiento y operación de la antecitada Procuraduría.
+
+DÉCIMO. Entretanto transcurre el proceso de transformación de la referida Procuraduría, las instituciones públicas del Estado coadyuvarán con la hoy denominada Procuraduría de la Defensa del Menor, la Mujer y la Familia, para el cumplimiento de sus fines.
+
+UNDÉCIMO. El Titular del Ejecutivo y el Congreso del Estado expedirán las disposiciones reglamentarias y reformas a otros ordenamientos jurídicos, respectivamente, que se derivan de la presente Ley, en un plazo no mayor a los ciento ochenta días naturales, contados a partir de la entrada en vigor del presente decreto.
+
+DUODÉCIMO. Los Centros de Asistencia que se encuentren operando con antelación a la entrada en vigor del presente Decreto contarán con un plazo de ciento ochenta días a partir de su publicación para realizar las adecuaciones conducentes en términos de lo previsto por la Ley.
+
+DÉCIMO TERCERO. Las autoridades estatales y municipales, con el objeto de dar cumplimiento a lo previsto en la Ley que se expide por virtud del presente decreto, deberán implementar las políticas y acciones correspondientes conforme a los programas aplicables y los que deriven de la misma.
+
+DÉCIMO CUARTO. Quedan sin efecto todas las disposiciones legales, reglamentarias y administrativas en lo que contravengan o se opongan al presente decreto.
