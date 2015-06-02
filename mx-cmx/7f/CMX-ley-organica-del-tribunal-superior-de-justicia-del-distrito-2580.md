@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "2015-01-15"
+last_updated: "2015-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-01-09"
 
 LEY ORGÁNICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE JUNIO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
 
@@ -1330,17 +1330,11 @@ Los jueces podrán facultar a los pasantes de derecho que laboren en el juzgado 
 
 ### CAPITULO III BIS. DEL PROCESO ORAL EN MATERIA FAMILIAR
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2015)</small>
 
 ###### Artículo 63 Bis.
 
-Los Juzgados de Proceso Oral en materia Familiar conocerán de los asuntos señalados en el artículo 1019 del Código de Procedimientos Civiles para el Distrito Federal.
-
-Los Jueces de Proceso Oral en materia Familiar tendrán a su cargo, además, la etapa de conciliación durante la celebración de la audiencia preliminar, en los términos del segundo párrafo del artículo 1065 del Código de Procedimientos Civiles para el Distrito Federal.
-
-Los servidores públicos que integren los Juzgados de Proceso Oral en materia Familiar, señalados en las fracciones I y II del artículo 56 de la Ley, así como los que integren las áreas establecidas en el artículo 63 Quintus tendrán, sin excepción, la categoría de personal de confianza.
+Los Jueces de Proceso Oral en materia Familiar tendrán a su cargo, además, la etapa de conciliación durante la celebración de la audiencia preliminar, en los términos de la fracción tercera del artículo 1050 del Código de Procedimientos Civiles para el Distrito Federal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1350,29 +1344,53 @@ Los servidores públicos que integren los Juzgados de Proceso Oral en materia Fa
 
 Los Jueces de Proceso Oral en materia Familiar podrán habilitar a los servidores públicos adscritos a sus juzgados para que, cuando las necesidades del servicio así lo requieran, auxilien a la Central de Comunicaciones Procesales, dando constancia del cumplimiento de las órdenes de visitas para convivencia y entregas y regreso de menores.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, G.O. 9 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE JUNIO DE 2015)</small>
 
 ###### Artículo 63 Quáter.
 
 Además de las señaladas en el artículo 58, son obligaciones de los Secretarios Judiciales de Proceso Oral en materia Familiar:
 
-I. Dirigir la junta anticipada, en los términos dispuestos en los artículos 1061 y 1064 del Código de Procedimientos Civiles para el Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2015)</small>
 
-II. Asistir al Juez en la celebración de las audiencias orales, emitiendo las constancias y las actas respectivas, en términos de los artículos 1058 y 1059 del Código de Procedimientos Civiles para el Distrito Federal;
+I. Dirigir la junta anticipada, en los términos dispuestos en los artículos 1049 y 1052 del Código de Procedimientos Civiles para el Distrito Federal;
+
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2015)</small>
+
+II. Asistir al Juez en la celebración de las audiencias orales, emitiendo las constancias y las actas respectivas, en términos de los artículos 1045 y 1046 del Código de Procedimientos Civiles para el Distrito Federal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2014)</small>
 
 III. Hacer constar por escrito el medio en donde se encuentre (sic) registradas las audiencias identificando dicho medio con el número de expediente que corresponda;
 
-IV. Tramitar, previo pago de los derechos correspondientes, la expedición de copias, simples o certificadas, de las actas o medio electrónico de los registros que obren en el procedimiento, en los términos dispuestos por el artículo 1059 del Código de Procedimientos Civiles para el Distrito Federal;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2015)</small>
+
+IV. Tramitar, previo pago de los derechos correspondientes, la expedición de copias, simples o certificadas, de las actas o medio electrónico de los registros que obren en el procedimiento, en los términos dispuestos por el artículo 1047 del Código de Procedimientos Civiles para el Distrito Federal;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2014)</small>
 
 V. Formular los proyectos de resolución que se dicten en los procesos orales en materia familiar;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2014)</small>
+
 VI. Auxiliar al Juez en el control de la agenda de audiencias orales, y supervisar su oportuna preparación;
 
-VII. Dar aviso a la Central de Comunicaciones de las notificaciones practicadas por el personal del juzgado tanto en la sede jurisdiccional, como aquellas llevadas a cabo fuera de ésta por instrucción y habilitación expresa del Juez, en términos del artículo 63 Bis de esta Ley;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2015)</small>
 
-VIII. Certificar y dar constancia del cumplimiento de las partes en las órdenes de visitas para convivencia y entregas y regresos de menores, en los casos en que el Juez así lo ordene, en términos del tercer párrafo del artículo 63 Bis de esta Ley; y
+VII. Dar aviso a la Central de Comunicaciones de las notificaciones practicadas por el personal del juzgado tanto en la sede jurisdiccional, como aquellas llevadas a cabo fuera de ésta por instrucción y habilitación expresa del Juez, en términos del artículo 63 Ter de esta Ley;
+
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2015)</small>
+
+VIII. Certificar y dar constancia del cumplimiento de las partes en las órdenes de visitas para convivencia y entregas y regresos de menores, en los casos en que el Juez así lo ordene, en términos del tercer párrafo del artículo 63 Ter de esta Ley; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.O. 9 DE JUNIO DE 2014)</small>
 
 IX. Las demás que determine la normatividad aplicable y el Juez.”
 
@@ -1388,9 +1406,13 @@ II. Asistir al Secretario Judicial en la atención y trámite inmediato a los ju
 
 III. Preparar los proyectos de acuerdo que recaigan a las promociones y solicitudes presentadas por los justiciables fuera de las audiencias orales;
 
-IV. Dar aviso al Secretario Judicial de las notificaciones practicadas en la sede del juzgado tanto, como de aquellas llevadas a cabo fuera de ésta por instrucción y habilitación expresa del Juez, en términos del artículo 63 Bis de esta Ley;
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2015)</small>
 
-V. Dar fe y constancia del cumplimiento de las partes en las órdenes de visitas para convivencia y entregas y regresos de menores, en los casos en que el Juez así lo ordene, en términos del tercer párrafo del artículo 63 Bis de esta Ley;
+IV. Dar aviso al Secretario Judicial de las notificaciones practicadas en la sede del juzgado tanto, como de aquellas llevadas a cabo fuera de ésta por instrucción y habilitación expresa del Juez, en términos del artículo 63 Ter de esta Ley;
+
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2015)</small>
+
+V. Dar fe y constancia del cumplimiento de las partes en las órdenes de visitas para convivencia y entregas y regresos de menores, en los casos en que el Juez así lo ordene, en términos del tercer párrafo del artículo 63 Ter de esta Ley;
 
 VI. Cuidar y vigilar que el archivo se arregle por orden alfabético, de apellidos del actor o del promovente en asuntos de jurisdicción voluntaria; y
 
@@ -3112,11 +3134,9 @@ IV. Secretario Proyectista de Juzgado;
 
 V. Secretario Conciliador;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2015)</small>
 
-> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2014)</small>
-
-VI. Secretario Judicial de Juzgado de Proceso Oral en materia Familiar;
+VI. Secretario Auxiliar de Juzgado de Proceso Oral en materia Familiar;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3124,11 +3144,9 @@ VI. Secretario Judicial de Juzgado de Proceso Oral en materia Familiar;
 
 VII. Secretario de Acuerdos de Juzgado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 2015)</small>
 
-> <small>(REFORMADA, G.O. 9 DE JUNIO DE 2014)</small>
-
-VIII. Secretario Auxiliar de Juzgado de Proceso Oral en materia Familiar;
+VIII. Secretario Judicial de Juzgado de Proceso Oral en materia Familiar;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4899,3 +4917,11 @@ PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- La interposición de la queja por medio electrónico a que se refiere el Artículo 215 Bis 1, entrará en vigor hasta en tanto el Consejo de la Judicatura autorice los mecanismos para su implementación.
+
+G.O. 2 DE JUNIO DE 2015.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. Se derogan todas las disposiciones contrarias a este Decreto.
