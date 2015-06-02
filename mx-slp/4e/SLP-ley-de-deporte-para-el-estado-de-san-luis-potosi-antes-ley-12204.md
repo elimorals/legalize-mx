@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-deporte-para-el-estado-de-san-luis-potosi-antes-ley-1220
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2015-01-03"
+last_updated: "2015-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DEPORTE PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 26 de agosto de 1996.
 
@@ -307,17 +307,21 @@ III.- Utilizar las instalaciones deportivas de acuerdo con su área de factibili
 
 IV.- Recibir asistencia y entrenamiento deportivo, así como los servicios médicos adecuados en competencias oficiales;
 
+> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2015)</small>
+
+V.- Contar con un seguro de gastos médicos para su atención en caso de lesiones y enfermedades derivadas de la práctica del deporte, en competencias no oficiales, dentro de las asociaciones, clubes y ligas deportivas registradas, a las que se encuentre inscrito y afiliado;
+
 > <small>(REFORMADA, P.O. 11 DE JUNIO DE 2013)</small>
 
-V.- Participar en competencias, juegos o eventos deportivos reglamentarios u oficiales, emanados del Sistema Estatal del Deporte;
+VI.- Participar en competencias, juegos o eventos deportivos reglamentarios u oficiales, emanados del Sistema Estatal del Deporte;
 
 > <small>(REFORMADA, P.O. 11 DE JUNIO DE 2013)</small>
 
-VI.- Desempeñar cargos de directivos siempre y cuando hayan sido electos en asamblea de clubes, ligas comités municipales, asociaciones o federaciones deportivas; y
+VII.- Desempeñar cargos de directivos siempre y cuando hayan sido electos en asamblea de clubes, ligas comités municipales, asociaciones o federaciones deportivas; y
 
 > <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2013)</small>
 
-VII.- Tener igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen en el Estado y municipios de San Luis Potosí, sin distinción de, origen étnico, género, edad, discapacidad, condición social, económica y cultural, religión, opiniones, preferencias sexuales o estado civil.
+VIII.- Tener igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen en el Estado y municipios de San Luis Potosí, sin distinción de, origen étnico, género, edad, discapacidad, condición social, económica y cultural, religión, opiniones, preferencias sexuales o estado civil.
 
 ### CAPITULO II
 
@@ -543,6 +547,10 @@ V. Deje de asistir a sus entrenamientos, sin aviso, ni autorización previa del 
 
 En las competencias autorizadas por el Instituto Potosino del Deporte, ya sea de carácter municipal, estatal, regional, prenacional o nacional, todo deportista que participe en cualquiera de las disciplinas tendrá derecho a recibir atención médica.
 
+> <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2015)</small>
+
+Las asociaciones, clubes y ligas deportivas, deberán ofrecer a sus afiliados, dentro de los costos de inscripción, un seguro de gastos médicos para su atención en caso de lesiones y enfermedades derivadas de la práctica del deporte.
+
 > <small>(REFORMADO, P.O. 14 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 57.
@@ -718,3 +726,9 @@ P.O. 3 DE ENERO DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 2 DE JUNIO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
