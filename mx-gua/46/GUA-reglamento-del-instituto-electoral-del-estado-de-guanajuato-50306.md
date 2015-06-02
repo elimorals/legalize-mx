@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-instituto-electoral-del-estado-de-guanajuato-503
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-04-07"
-last_updated: "2014-09-02"
+last_updated: "2015-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50306&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 NUEVO REGLAMENTO DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, EN MATERIA DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO TERCERO DEL ACUERDO CGIEEG/127/2015 MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, EN MATERIA DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS, PUBLICADO EN EL P.O. DE 2 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el viernes 7 de abril de 2006.
 
@@ -634,3 +636,15 @@ P.O. 2 DE SEPTIEMBRE DE 2014.
 SEGUNDO. Las modificaciones al Reglamento del Instituto Electoral del Estado de Guanajuato, en materia de adquisiciones, enajenaciones, arrendamientos y contratación de servicios, entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 TERCERO. Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 2 DE JUNIO DE 2015.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO NÚMERO CGIEEG/127/2015, QUE EMITE EL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO, EN MATERIA DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS".]</small>
+
+PRIMERO. Se expide el Reglamento del Instituto Electoral del Estado de Guanajuato, en materia de adquisiciones, enajenaciones, arrendamientos y contratación de servicios, en los términos del anexo único de este acuerdo.
+
+SEGUNDO. El Reglamento del Instituto Electoral del Estado de Guanajuato, en materia de adquisiciones, enajenaciones, arrendamientos y contratación de servicios, entrará en vigor a partir de su aprobación por el Consejo General del Instituto Electoral del Estado de Guanajuato.
+
+TERCERO. Se abroga el Reglamento del Instituto Electoral del Estado de Guanajuato, en materia de adquisiciones, enajenaciones, arrendamientos y contratación de servicios, aprobado mediante el acuerdo CG/020/2006 de fecha catorce de marzo de dos mil seis, reformado a través de los acuerdos CG/222/2006 y CG/037/2014, de fechas treinta y uno de octubre de dos mil seis y veintiuno de agosto de dos mil catorce, respectivamente.
+
+CUARTO. Publíquense el presente acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado de Guanajuato.
