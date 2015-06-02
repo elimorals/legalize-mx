@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-mecanismos-alternativos-de-solucion-de-controversias-100
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-26"
-last_updated: "2014-04-26"
+last_updated: "2015-06-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100729&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA PENAL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO 1001, PUBLICADO EN EL P.O. DE 2 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO HASTA LA TOTAL RESOLUCIÓN DEL TRÁMITE DE LOS ASUNTOS QUE SE INICIARON DURANTE SU VIGENCIA; ASIMISMO, CONTINUARÁ APLICÁNDOSE HASTA LAS 24:00 HORAS DEL DÍA DIECISIETE DE JUNIO DEL DOS MIL DIECISÉIS, EN LOS DISTRITOS JUDICIALES EN LOS QUE CONFORME AL ARTÍCULO PRIMERO DEL DECRETO CITADO, AÚN CUANDO NO HAYA ENTRADO EN VIGOR LA LEY NACIONAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA PENAL.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2015 (ABROGADA).
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 26 de abril de 2014.
 
@@ -622,3 +624,11 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE JUNIO DE 2015.
+
+PRIMERO. La abrogación que se decreta en el presente, en los términos señalados, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
