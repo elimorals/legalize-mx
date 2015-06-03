@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-coordinacion-de-fomento-95362"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-03"
-last_updated: "2013-07-03"
+last_updated: "2015-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95362&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA COORDINACIÓN DE FOMENTO AGROALIMENTARIO SUSTENTABLE DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COORDINACIÓN DE FOMENTO AGROALIMENTARIO SUSTENTABLE, PUBLICADO EN EL P.O. DE 3 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 03 de julio de 2013.
 
@@ -346,3 +348,21 @@ Artículo Séptimo.- En cumplimiento a lo previsto en el artículo 8°, de la Le
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los diez días del mes de junio de dos mil trece.
 
 Manuel Velasco Coello, Gobernador del Estado.- Vicente Pérez Cruz, Consejero Jurídico del Gobernador.- José Ángel del Valle Molina, Encargado del Despacho de la Secretaría del Campo.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE JUNIO DE 2015.
+
+Artículo Primero.- El presente Reglamento Interior, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Coordinación de Fomento Agroalimentario Sustentable, publicado en el Periódico Oficial No.041, Tomo III, de fecha tres de julio de 2013, publicación No. 134-A-2013, así como las disposiciones que del mismo emanen, y se derogan aquellas otras que tengan similar o menor jerarquía, y que se opongan a lo dispuesto en el presente Reglamento Interior.
+
+Artículo Tercero.- Para las cuestiones no previstas en el presente Reglamento Interior y en las que se presente controversia en cuanto a su aplicación, observancia e interpretación, el Coordinador General, resolverá lo conducente.
+
+Artículo Cuarto.- El Manual de Organización de la Coordinación de Fomento Agroalimentario Sustentable, deberá expedirse en un plazo no mayor a noventa días hábiles, contados a partir de la publicación del presente Reglamento Interior.
+
+Artículo Quinto.- En tanto se expide el Manual de Organización respectivo, el Coordinador General resolverá las incidencias de procedimiento y operación que se originen por la aplicación de este ordenamiento legal
+
+Artículo Sexto.- La Coordinación de Fomento Agroalimentario Sustentable deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Unidad Estatal de Protección Civil.
+
+Artículo Séptimo.- En cumplimiento a lo dispuesto por el artículo 8 de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento Interior en el Periódico Oficial.
