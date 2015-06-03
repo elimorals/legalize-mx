@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-libro-segundo-del-codigo-para-la-56021"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-05-22"
-last_updated: "2009-09-21"
+last_updated: "2015-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO DEL LIBRO SEGUNDO DEL CODIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MEXICO
 
-REGLAMENTO DEL LIBRO SEGUNDO DEL CODIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MEXICO
+REGLAMENTO DEL LIBRO SEGUNDO DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE JUNIO DE 2015.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 22 de mayo de 2007.
 
@@ -2883,7 +2883,9 @@ El titular de la autorización o revalidación de la autorización para establec
 
 Los verificadores ambientales, además de las obligaciones determinadas en el artículo 2.221 del Código estarán obligados a:
 
-I. Llevar un registro con la información de las verificaciones efectuadas y remitir a la Secretaría los datos obtenidos en los términos fijados por ésta;
+> <small>(REFORMADA, G.G. 3 DE JUNIO DE 2015)</small>
+
+I. Operar exclusivamente el Sistema Automatizado de Emisión y Control de Hologramas de Verificación (SAECHVV) propiedad de la Secretaría, a fin de que la misma, pueda tener acceso, control y supervisión en tiempo real a los registros y actividades del Centro de Verificación Vehicular.
 
 II. Enviar a la Secretaría, en los términos que establezca, la documentación requerida para la supervisión y control de la verificación;
 
@@ -2895,27 +2897,77 @@ V. Registrar los manuales de calidad y procedimientos técnico-administrativos a
 
 VI. Cumplir con los elementos mínimos siguientes para asegurar la calidad en el servicio de verificación:
 
-a). Grabación en video de todas y cada una de las verificaciones que se realicen, desde el ingreso hasta la salida del vehículo del verificentro, el que deberá contener la grabación continua de las 24 horas de todos los días del año, remitiendo la cinta debidamente grabada y firmada por el representante legal del establecimiento, a la autoridad ambiental correspondiente en forma semanal.
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2015)</small>
 
-b). Conteo electrónico del número de vehículos que ingresan y salen del verificentro así como el tiempo que cada uno de ellos permanece en la línea de verificación (Sistema Electrónico de Aforo Vehicular).
+Del Software:
 
-c). Conexión permanente vía módem del servidor de comunicación del verificentro a los centros de cómputo del Gobierno del Estado de México, en donde se deberá observar claramente las imágenes del proceso de verificación, placas del vehículo en verificación en línea, entradas, salidas y patio de acumulación de los vehículos, así como el aforo y tiempo de espera.
+Utilizar el Sistema Automatizado de Emisión y Control de Hologramas de Verificación Vehicular (SAECHVV), propiedad de la Secretaría, el cual permitirá:
 
-d). Proporcionar la base de datos y archivos que requiera la autoridad ambiental misma que constituyen prueba documental de las actividades de los verificentros en un lapso establecido.
+a. Realizar los procesos de verificación vehicular en los verificentros.
 
-e). Auditoria de calibración (verificación de la calidad de medición) de los equipos analizadores de gases y opacímetros se realizará cada 30 días naturales, por los laboratorios acreditados ante la Secretaría de Economía. El certificado de calibración debe ser presentado ante la Secretaría. La auditoria de calibración de dinamómetros se realizará conforme a los requerimientos de la autoridad ambiental. El certificado de calibración debe ser presentado ante la Subdirección de Verificación Vehicular de la Secretaría.
+b. Contar con un expediente electrónico de las verificaciones vehiculares de los vehículos que ingresan a un verificentro.
 
-f). Bitácoras foliadas de operación general del verificentro y de mantenimiento por cada equipo analizador, a efecto de llevar el seguimiento de la operación, así como de los incidentes presentados diariamente en el verificentro, debidamente selladas por la autoridad ambiental del Estado de México.
+c. Tener acceso a las actividades de verificación vehicular.
 
-g). Contar con imagen interior y exterior así como los señalamientos de información y seguridad de acuerdo al manual único para verificentro.
+d. Generar en tiempo real las bases de datos de emisiones contaminantes asociadas a las verificaciones.
 
-h). Reportes semanales escritos y en disquetes de 3.5" HD o CD en donde se consigne el resultado y soporte documental de las verificaciones efectuadas por los verificentros que no contengan archivos alterados, mismos que deben ser entregados a las autoridades ambientales del Estado de México, en los términos de las disposiciones aplicables. El incumplimiento de éstas disposiciones será sancionada en los términos de la legislación ambiental vigente.
+e. Realizar las inspecciones técnico administrativas en las líneas de verificación vehicular.
 
-i). Buzón de quejas, sugerencias del servicio, panel de avisos de la autoridad y tarifas autorizadas a la vista del público.
+f. Llevar las bitácoras de la actividad de la línea de verificación.
 
-j). Impedir la permanencia dentro del verificentro de cualquier persona que no esté debidamente autorizada por la autoridad ambiental de la Secretaría, a excepción de los propietarios o poseedores de los vehículos a verificar.
+g. Registrar el número de vehículos que acceden a los verificentros.
 
-k). Auditorias Técnico - Administrativas.
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2015)</small>
+
+Del Hardware:
+
+a. Contar con un Firewall a fin de asegurar la integridad de la información intercambiada con los servidores de la Secretaría.
+
+b. Contar con un servidor de video y almacenamiento (NAS) para asegurar las grabaciones de las actividades de verificación vehicular, el cual a su vez podrá ser transferido en tiempo real a los servidores de esta Secretaría.
+
+c. Contar con un servidor para lo relacionado con la verificación vehicular.
+
+d. Utilizar cámaras IP de alta resolución para visualizar actividades dentro del verificentro, tomar imágenes de los vehículos en la línea de verificación y grabar video.
+
+e. Contar con un servidor de impresión para recibir e imprimir los resultados de las evaluaciones de las emisiones contaminantes.
+
+f. Instalar en la sala de espera una pantalla donde los usuarios podrán visualizar el estado de su auto, así como el resultado obtenido. Dicha pantalla operará a través del Sistema Automatizado de Emisión y Control de Hologramas de Verificación Vehicular (SAECHVV).
+
+g. Contar con una estación meteorológica conectada sin aplicaciones intermediarias al SAECHVV, a fin de poder validar que los cálculos relacionados a las emisiones contaminantes sean los correctos.
+
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2015)</small>
+
+De la Conexión:
+
+a. Contar vía internet con IP fija, la cual permite la transferencia segura de información (datos, Video, Imágenes, entre otros) en donde se deberá observar las imágenes del vehículo en el proceso de verificación y las placas de circulación del mismo.
+
+b. La red de comunicación interna o red de área local (LAN) deberá realizarse con cableado estructurado bajo el estándar internacional con categoría 6, misma que deberá estar certificada por el fabricante para que se garantice su operación.
+
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2015)</small>
+
+De la Operación:
+
+a. Realizar auditoría de calibración (verificación de la calidad de medición) de los equipos analizadores de gases y opacímetros cada treinta días naturales, por los laboratorios acreditados ante la Secretaría de Economía. El certificado de calibración debe ser presentado ante la Secretaría.
+
+b. La auditoría de calibración de dinamómetros se realizará conforme a los requerimientos de la autoridad ambiental.
+
+c. El certificado de calibración debe ser presentado ante la Dirección General de Prevención y Control de la Contaminación Atmosférica (DGPCCA), bajo los términos que esta indique.
+
+d. Contar con imagen interior y exterior así como los señalamientos de información y seguridad de acuerdo al Manual de Imagen de verificentros.
+
+e. Permitir realizar auditorías Técnico-Administrativas, así como cualquier tipo de inspección, verificación, medidas de control y vigilancia.
+
+f. Establecer comunicación con la Procuraduría de Protección al Medio Ambiente del Gobierno del Estado de México (PROPAEM), mediante los elementos tecnológicos indicados por la Autoridad.
+
+g. Tener un contador de entrada y salida de vehículos, así como el aforo y tiempo de espera.
+
+h. Impedir la permanencia dentro del verificentro de cualquier persona que no esté debidamente autorizada por la autoridad ambiental de la Secretaría, a excepción de los propietarios o poseedores de los vehículos a verificar.
+
+> <small>(REFORMADO, G.G. 3 DE JUNIO DE 2015)</small>
+
+Sanciones:
+
+a. El incumplimiento a las fracciones referidas serán sancionadas en los términos de la legislación ambiental vigente.
 
 VII. Las demás que establezca la normatividad, así como las que determine la Secretaría.
 
@@ -3651,7 +3703,7 @@ DR. VÍCTOR HUMBERTO BENÍTEZ TREVIÑO
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.G. 21 DE SEPTIEMBRE DE 2009.
 
@@ -3662,3 +3714,11 @@ SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en
 TERCERO.- La Secretaría del Medio Ambiente, proveerá lo necesario para dar cumplimiento a lo establecido por el presente Acuerdo.
 
 CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 3 DE JUNIO DE 2015.
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a las contenidas en el presente Acuerdo.
