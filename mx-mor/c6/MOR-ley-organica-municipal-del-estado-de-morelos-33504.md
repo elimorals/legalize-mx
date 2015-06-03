@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2015-04-29"
+last_updated: "2015-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -969,13 +969,13 @@ Los integrantes del Ayuntamiento podrán disponer de toda la información necesa
 
 Para la elaboración y aprobación de la iniciativa de Ley de Ingresos y Presupuesto de Egresos, los integrantes del Ayuntamiento podrán tener acceso a los archivos que contengan la información pormenorizada.
 
-> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2015)</small>
 
 ###### Artículo 39 Bis.
 
-Con la finalidad de que los Ayuntamientos den cumplimiento a los principios de Racionalidad, Austeridad y Disciplina del Gasto Público Municipal, deberán de celebrar convenios de coordinación, con la Auditoría Superior de Fiscalización del Congreso del Estado, para la capacitación en el manejo de la Cuenta Pública Municipal, al Tesorero, Contralor y al Director de Obras del Ayuntamiento, dentro del plazo no mayor a sesenta días, posteriores a la celebración del convenio.
+Con la finalidad de que los Ayuntamientos den cumplimiento a los principios de Racionalidad, Austeridad y Disciplina del Gasto Público Municipal, deberán de celebrar convenios de coordinación, con la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado, para la capacitación en el manejo de la Cuenta Pública Municipal, al Tesorero, Contralor y al Director de Obras del Ayuntamiento, dentro del plazo no mayor a sesenta días, posteriores a la celebración del convenio.
 
-En este caso, el Ayuntamiento, establecerá las medidas necesarias para que dicha capacitación sea impartida de manera oportuna y eficiente a su personal, por su parte la Auditoría Superior de Fiscalización del Congreso del Estado de Morelos, otorgará una constancia a los Ayuntamientos, que hayan acreditado satisfactoriamente dicha capacitación, como reconocimiento a su colaboración en el manejo eficiente de la Cuenta Pública Municipal.
+En este caso, el Ayuntamiento, establecerá las medidas necesarias para que dicha capacitación sea impartida de manera oportuna y eficiente a su personal, por su parte la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, otorgará una constancia a los Ayuntamientos, que hayan acreditado satisfactoriamente dicha capacitación, como reconocimiento a su colaboración en el manejo eficiente de la Cuenta Pública Municipal.
 
 ###### Artículo 40.
 
@@ -1561,9 +1561,9 @@ El Ayuntamiento deberá exigir la exhibición de la fianza, antes de iniciar el 
 
 El monto de la fianza será determinado por cada Ayuntamiento, proporcionalmente al monto del presupuesto ejercido, sin ser menor al 1% de dicho presupuesto, la cual deberá estar vigente hasta la liberación de la cuenta pública. En ningún caso, el Tesorero Municipal podrá tomar posesión de su cargo si omite este requisito.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2015)</small>
 
-Los servidores públicos del ayuntamiento serán responsables por los pliegos de observaciones que se deriven de la revisión de la Cuenta Pública que realice la Auditoría Superior de Fiscalización.
+Los servidores públicos del ayuntamiento serán responsables por los pliegos de observaciones que se deriven de la revisión de la Cuenta Pública que realice la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos.
 
 ###### Artículo 80.
 
@@ -2891,7 +2891,7 @@ Las licencias temporales podrán otorgarse con goce de sueldo, si así lo determ
 
 ###### Artículo 173.
 
-Sólo el Ayuntamiento en funciones de Cabildo, podrá conceder a sus miembros licencias mayores de quince días, en casos debidamente justificados, en caso de que la separación al cargo solicitada tenga• por objeto ejercer el derecho a ser votado a un cargo de elección popular, no requerirá la autorización del Cabildo, sólo se deberá dar aviso por escrito, al Secretario General del Ayuntamiento, para que este ordene al área correspondiente la suspensión del pago de las prerrogativas y prestaciones a que tenga derecho dicho Servidor Público y pueda competir en igualdad de circunstancias.
+Sólo el Ayuntamiento en funciones de Cabildo, podrá conceder a sus miembros licencias mayores de quince días, en casos debidamente justificados, en caso de que la separación al cargo solicitada tenga por objeto ejercer el derecho a ser votado a un cargo de elección popular, no requerirá la autorización del Cabildo, sólo se deberá dar aviso por escrito, al Secretario General del Ayuntamiento, para que este ordene al área correspondiente la suspensión del pago de las prerrogativas y prestaciones a que tenga derecho dicho Servidor Público y pueda competir en igualdad de circunstancias.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -3752,6 +3752,20 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO TERCERO.
 
 A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente Decreto.
+
+P.O. 3 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
 
 ###### ARTÍCULO CUARTO.
 
