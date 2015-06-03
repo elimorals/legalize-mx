@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2015-04-29"
+last_updated: "2015-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -145,7 +145,7 @@ III.- Crematorios y funerarias;
 
 IV.- Rastros;
 
-V.- Establos y todo establecimiento que congregue a cualquier especie animal para ornato o consumo human, (sic) que potencialmente se conviertan en factor de riego (sic) sanitario;
+V.- Establos y todo establecimiento que congregue a cualquier especie animal para ornato o consumo human (sic), que potencialmente se conviertan en factor de riego (sic) sanitario;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
@@ -747,11 +747,11 @@ Las familias y personas que no sean derechohabientes de las Instituciones de Seg
 
 Las atribuciones y obligaciones, así como los mecanismos de coordinación entre Gobierno Federal, Gobierno Estatal y usuarios se regirán de acuerdo a lo establecido en el Título Tercero bis de la Protección Social en Salud de la Ley General de Salud vigente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2015)</small>
 
 ###### Artículo 49.
 
-Las cuotas de recuperación que en su caso se recauden por la prestación de servicios de salud en las Instituciones Públicas Estatales, se ajustarán a lo que disponga el tabulador de la Beneficencia Pública Estatal. Misma que vigilará la Administración de estas cuotas cuidando que sean aplicadas prioritariamente en el financiamiento de los centros en donde se recaben, sin perjuicio de las atribuciones que competen a la Auditoría Superior de Fiscalización.
+Las cuotas de recuperación que en su caso se recauden por la prestación de servicios de salud en las Instituciones Públicas Estatales, se ajustarán a lo que disponga el tabulador de la Beneficencia Pública Estatal. Misma que vigilará la Administración de estas cuotas cuidando que sean aplicadas prioritariamente en el financiamiento de los centros en donde se recaben, sin perjuicio de las atribuciones que competen a la Entidad Superior de Auditoría y Fiscalización.
 
 Para la determinación de las cuotas de recuperación se tomará en cuenta el costo de los servicios y las condiciones socioeconómicas del usuario.
 
@@ -1505,7 +1505,7 @@ VII.- Establecer las necesidades nutritivas que deban satisfacer los cuadros bá
 
 ###### Artículo 115 Bis.
 
-El Gobierno del Estado coadyuvará, a través de los Servicios Salud (sic) de Morelos, con las Entidades Públicas Estatales y Federales responsables de brindar servicios de salud, para establecer medidas tendientes a controlar el sobrepeso y la obesidad, con el objeto de prevenir la Diabetes.
+El Gobierno del Estado coadyuvará, a través de los Servicios (sic) Salud de Morelos, con las Entidades Públicas Estatales y Federales responsables de brindar servicios de salud, para establecer medidas tendientes a controlar el sobrepeso y la obesidad, con el objeto de prevenir la Diabetes.
 
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
 
@@ -2179,7 +2179,7 @@ III.- Brindarán la atención médica que se requiera, a las personas que realic
 
 IV.- Promoverán y llevarán a cabo campañas permanentes de información y orientación al público para la prevención de daños a la salud provocados por el consumo de sustancias inhalantes.
 
-A los establecimientos que vendan o utilicen sustancias inhalantes con efectos psicotrópicos que no se ajusten al control que disponga el Gobierno Federal, del Estado y los Municipios, así como los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de la presente Ley.
+A los establecimientos que vendan o utilicen sustancias inhalantes con efectos sicotrópicos que no se ajusten al control que disponga el Gobierno Federal, del Estado y los Municipios, así como los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de la presente Ley.
 
 ## TÍTULO DÉCIMO PRIMERO. DE LOS ESTABLECIMIENTOS DEDICADOS A PROCESO DE ALIMENTOS, BEBIDAS ALCOHÓLICAS Y NO ALCOHÓLICAS
 
@@ -4360,3 +4360,13 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 3 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
