@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2015-06-02"
+last_updated: "2015-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "MIC"
 ---
 # LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACAN DE OCAMPO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE JUNIO DE 2015 EN EL P.O. DEL ESTADO DE MICHOACÁN SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS NOVENTA DÍAS SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 3 DE JUNIO DE 2015.</small>
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -755,7 +755,9 @@ Niñas, niños y adolescentes no podrán ser objeto de injerencias (sic) arbitra
 
 Quienes ejerzan la patria potestad, tutela o guardia y custodia, deberán orientar, supervisar y, en su caso, restringir las conductas y hábitos de niñas, niños y adolescentes, siempre que atiendan al interés superior de la niñez.
 
-Cualquier persona, autoridad o medio de comunicación que difunda entrevistas, imágenes, voz o datos deberán atender lo establecido en la Ley General, cuidando en todo momento el desarrollo integral de niñas, niños y adolescentes.
+> <small>(F. DE E., P.O. 3 DE JUNIO DE 2015)</small>
+
+Cualquier persona, autoridad o medio de comunicación local que difunda entrevistas, imágenes, voz o datos deberán atender lo establecido en la Ley General, cuidando en todo momento el desarrollo integral de niñas, niños y adolescentes.
 
 En caso de incumplimiento se promoverán las acciones civiles, denuncias, querellas y procedimientos de conformidad con las leyes Civil, Penal y Administrativa del Estado de Michoacán y demás disposiciones jurídicas aplicables.
 
@@ -763,11 +765,15 @@ En caso de incumplimiento se promoverán las acciones civiles, denuncias, querel
 
 Los (sic) autoridades estatales y municipales, deberán garantizar la protección de la identidad e intimidad de niñas y niños que sean víctimas, ofendidos, testigos o que estén relacionados de cualquier manera en la comisión de un delito, a fin de evitar su identificación pública. La misma protección se otorgará a adolescentes a quienes se les atribuya la realización o participación en un delito.
 
+> <small>(F. DE E., P.O. 3 DE JUNIO DE 2015)</small>
+
 ###### Artículo 51.
 
-En los procedimientos ante órganos jurisdiccionales, se podrá solicitar que se imponga como medida cautelar la suspensión o bloqueo de cuentas de usuarios en medios electrónicos, a fin de evitar la difusión de información, imágenes, sonidos o datos que puedan contravenir el interés superior de la niñez.
+En los procedimientos ante órganos jurisdiccionales, se podrá solicitar ante la autoridad federal competente que se imponga como medida cautelar la suspensión o bloqueo de cuentas de usuarios en medios electrónicos, a fin de evitar la difusión de información, imágenes, sonidos o datos que puedan contravenir el interés superior de la niñez.
 
-El órgano jurisdiccional, con base en este artículo y en las disposiciones jurídicas aplicables, podrá requerir a las empresas de prestación de servicios en materia de medios electrónicos que realicen las acciones necesarias para el cumplimiento de las medidas cautelares que ordene.
+> <small>(F. DE E., P.O. 3 DE JUNIO DE 2015)</small>
+
+El órgano jurisdiccional federal competente, con base en este artículo y en las disposiciones jurídicas aplicables, podrá requerir a las empresas de prestación de servicios en materia de medios electrónicos que realicen las acciones necesarias para el cumplimiento de las medidas cautelares que ordene.
 
 ### CAPÍTULO XIX. DERECHO A LA SEGURIDAD JURÍDICA Y AL DEBIDO PROCESO
 
