@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-de-los-hospitales-regionales-del-81612"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-09"
-last_updated: "2011-06-09"
+last_updated: "2015-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81612&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-03-31"
 ---
 # REGLAMENTO ORGANICO DE LOS HOSPITALES REGIONALES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-REGLAMENTO ORGANICO DE LOS HOSPITALES REGIONALES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
+REGLAMENTO ORGÁNICO DE LOS HOSPITALES REGIONALES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO ORGÁNICO DE LOS HOSPITALES REGIONALES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 3 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE JUNIO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 9 de junio de 2011.
 
@@ -271,7 +273,7 @@ IV. Comunicar al Presidente las áreas de oportunidad para mejorar el funcionami
 
 V. Instruir al Secretario Técnico la elaboración de las convocatorias para las sesiones del Consejo, previa aprobación del Presidente;
 
-VI. Participar con voz y voto en las sesiones del Consejo, y (sic)
+VI. Participar con voz y voto en las sesiones del Consejo, y
 
 VII. Suplir las ausencias del Presidente cuando así se requiera.
 
@@ -287,7 +289,7 @@ III. Coordinar la preparación e integración de las carpetas electrónicas para
 
 IV. Registrar, dar seguimiento y verificar que el cumplimiento de los acuerdos se realice en tiempo y forma por los responsables;
 
-V. Cumplir e informar al Vicepresidente Directivo, oportunamente, el avance de los acuerdos y compromisos de las sesiones del Consejo, y (sic)
+V. Cumplir e informar al Vicepresidente Directivo, oportunamente, el avance de los acuerdos y compromisos de las sesiones del Consejo, y
 
 VI. Presentar al Consejo las propuestas que conforme al Estatuto Orgánico y la normatividad aplicable deba someterle, ejecutando sus acuerdos e informando trimestralmente el avance y cumplimiento.
 
@@ -347,7 +349,7 @@ Los Directores de los Hospitales Regionales, serán nombrados o removidos por la
 
 I. Ejecutar y dar seguimiento por conducto del área jurídica competente a los actos judiciales o extrajudiciales administrativos necesarios para el ejercicio y cumplimiento de las funciones encomendadas, de conformidad con el poder notarial que le haya otorgado el Director Jurídico del Instituto, con apego a las disposiciones y a las políticas institucionales aplicables;
 
-II. Planear y dar seguimiento al proceso de abasto de insumos para la salud, y (sic)
+II. Planear y dar seguimiento al proceso de abasto de insumos para la salud, y
 
 III. Coordinar la integración del Programa Anual de Trabajo, así como el Proyecto Anual de Presupuesto del Hospital Regional y presentarlo al Consejo para su autorización;
 
@@ -1002,3 +1004,11 @@ Lo que me permito hacer de su conocimiento para los efectos legales procedentes.
 Atentamente
 
 México, D.F., a 31 de marzo de 2011.- El Secretario General y Secretario de la Junta Directiva, Luis Felipe Castro Sánchez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 3 DE JUNIO DE 2015.
+
+PRIMERO. Este Reglamento entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. A partir de la entrada en vigor de este Reglamento se abroga el Reglamento Orgánico de los Hospitales Regionales del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, expedido por Acuerdo 17.1327.2011 de la Junta Directiva el 14 de abril de 2011, publicado en el Diario Oficial de la Federación el 9 de junio de 2011.
