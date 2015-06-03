@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-nacional-de-seguros-y-11555"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-03-05"
-last_updated: "2008-06-05"
+last_updated: "2015-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11555&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1998-03-03"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION NACIONAL DE SEGUROS Y FIANZAS
 
-REGLAMENTO INTERIOR DE LA COMISION NACIONAL DE SEGUROS Y FIANZAS
+REGLAMENTO INTERIOR DE LA COMISIÓN NACIONAL DE SEGUROS Y FIANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JUNIO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN NACIONAL DE SEGUROS Y FIANZAS, PUBLICADO EN EL D.O.F. DE 3 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE JUNIO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 5 de marzo de 1998.
 
@@ -69,7 +71,7 @@ De Supervisión Actuarial,
 
 De Supervisión del Seguro de Pensiones y Salud,
 
-> <small>(DEROGADO SEXTO PARRAFO, D.O.F. 5 DE JUNIO DE 2008)</small>
+> <small>(DEROGADO SEXTO PÁRRAFO, D.O.F. 5 DE JUNIO DE 2008)</small>
 
 De Desarrollo e Investigación,
 
@@ -197,7 +199,7 @@ La Junta de Gobierno designará de entre sus vocales, a los que integrarán la C
 
 ### CAPÍTULO SEGUNDO. DE LA PRESIDENCIA
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 12.
 
@@ -259,7 +261,7 @@ Adicionalmente, la Dirección General Jurídica Consultiva y de Intermediarios e
 
 Al frente de cada dirección general habrá un director general, quien será el titular de las atribuciones que en este Reglamento se asignan a la respectiva unidad administrativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 18.
 
@@ -433,7 +435,7 @@ Corresponde a la Dirección de Inspección de Reaseguro, la tramitación, instru
 
 Corresponde a la Dirección de Vigilancia de Reaseguro, la tramitación, instrumentación y ejecución de las facultades que en materia de vigilancia tiene conferidas la Dirección General de Supervisión de Reaseguro, a que se refieren las fracciones IV a XI, XIII a XVIII y XX a XXIII del artículo 21 de este Reglamento, así como la resolución de los asuntos que se le atribuyan en los acuerdos de delegación respectivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE FEBRERO DE 2001)</small>
 
 ###### ARTÍCULO 24.
 
@@ -503,7 +505,7 @@ Corresponde a la Dirección de Inspección Actuarial la tramitación, instrument
 
 Corresponde a la Dirección de Vigilancia Actuarial la tramitación, instrumentación y ejecución de las facultades que en materia de vigilancia tiene conferidas la Dirección General de Supervisión Actuarial, a que se refieren las fracciones IV a XV y XVII a XX del artículo 24 de este Reglamento, así como la resolución de los asuntos que se le atribuyan en los acuerdos de delegación respectivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 27.
 
@@ -631,7 +633,7 @@ Corresponde a la Dirección de Asuntos Económicos la instrumentación, tramitac
 
 Corresponde a la Dirección de Asuntos Actuariales la tramitación, instrumentación y ejecución de las facultades que en materia de asuntos técnicos y actuariales tiene conferidas la Dirección General de Desarrollo e Investigación, a que se refieren las fracciones III a VI, y VIII a XII del artículo 30 de este Reglamento, así como la resolución de los asuntos que se le atribuyan en los acuerdos de delegación respectivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 33.
 
@@ -883,7 +885,7 @@ Corresponde a la Dirección de Administración de Recursos Humanos la tramitaci�
 
 Corresponde a la Dirección de Administración de Recursos Financieros y Materiales la tramitación, instrumentación y ejecución de las facultades que en materia de recursos financieros y materiales corresponden a la Dirección General de Administración, a que se refieren las fracciones I a III, VI a VIII y X del artículo 43 del presente Reglamento, así como la resolución de los asuntos que se le atribuyan en los acuerdos de delegación respectivos.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 4 DE DICIEMBRE DE 2003)</small>
 
 ### CAPÍTULO QUINTO. DEL ÓRGANO INTERNO DE CONTROL
 
@@ -987,7 +989,7 @@ Corresponderá a la Dirección General de Orientación, Conciliación y Arbitraj
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de marzo de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Ángel Gurría.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 20 DE FEBRERO DE 2001.
 
@@ -1036,3 +1038,23 @@ TERCERO.- Los derechos laborales del personal que, en virtud de lo dispuesto en 
 CUARTO.- La Dirección General de Administración realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades o áreas que se modifican o desaparecen, sean transferidos a las unidades administrativas que correspondan, en los términos del presente ordenamiento y de conformidad con las normas aplicables y disponibilidad presupuestaria.
 
 QUINTO.- Las modificaciones que, en su caso, se lleven a cabo a la estructura orgánica de la Comisión, se deberán realizar mediante movimientos compensados que no impliquen un aumento en el presupuesto regularizable de servicios personales aprobado.
+
+D.O.F. 3 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Comisión Nacional de Seguros y Fianzas publicado el 5 de marzo de 1998 en el Diario Oficial de la Federación.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones reglamentarias y administrativas que se opongan a lo dispuesto por el presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos que se encuentren en trámite o pendientes de conclusión a la entrada en vigor de este Reglamento, que conforme al mismo deban ser atendidos por otra unidad administrativa u otras diversas a la que haya correspondido conforme a las disposiciones que se abrogan, continuarán su trámite y serán resueltos por aquella o aquellas unidades administrativas a las que se les haya atribuido la competencia conforme a este ordenamiento.
+
+Las referencias que se hagan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, a las unidades administrativas de la Comisión Nacional de Seguros y Fianzas que cambien de denominación por virtud del presente Reglamento, se entenderán hechas a las unidades administrativas que resulten competentes conforme al mismo.
