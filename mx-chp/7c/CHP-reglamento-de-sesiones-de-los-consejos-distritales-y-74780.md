@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-sesiones-de-los-consejos-distritales-y-74780"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-24"
-last_updated: "2014-12-03"
+last_updated: "2015-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74780&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO DE SESIONES DE LOS CONSEJOS DISTRITALES Y MUNICIPALES ELECTORALES DEL INSTITUTO DE ELECCIONES Y PARTICIPACIÓN CIUDADANA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 24 de marzo de 2010.
 
@@ -370,6 +370,10 @@ Cuando la mayoría de los Consejeros Electorales o representantes, soliciten la 
 ###### Artículo 13.
 
 La convocatoria a las sesiones deberá contener el día y la hora en que la misma se deba celebrar, la mención de su carácter de ordinaria o extraordinaria y un proyecto de orden del día para ser desahogado. A dicha convocatoria se acompañarán, los anexos necesarios para la discusión de los asuntos incluidos en el orden del día.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2015)</small>
+
+En aquellos casos en los que, debido al volumen de documentación, no sea posible acompañar los anexos necesarios para la discusión de los asuntos incluidos en el orden del día, estos se pondrán a disposición de los integrantes del pleno a través de los archivos que obran en las oficinas de la Secretaría Técnica del mismo, para que a partir de la fecha de emisión de la convocatoria puedan ser consultados o en su caso la documentación deberá ser distribuida de manera digital en cualquiera de los medios electrónicos existentes a los integrantes del pleno, siempre que estos sean parte de los puntos a tratar en el orden del día.
 
 La convocatoria se notificará a los integrantes del pleno una vez instalados los Consejos Electorales Distritales y Municipales, por lo que es obligatorio que en la primera sesión que celebren, hagan del conocimiento del Secretario, el domicilio para oír y recibir notificaciones, debiendo ser del municipio o de la cabecera distrital en el que se encuentren acreditados; lo anterior con la finalidad de que les puedan convocar para las sesiones posteriores en tiempo y forma.
 
@@ -814,5 +818,19 @@ SEGUNDO.- El presente Reglamento entrará en vigor al momento de su aprobación.
 TERCERO.- Se instruye al Secretario Ejecutivo para que a la brevedad posible, lleve a cabo la edición de los números de ejemplares de este Reglamento para su distribución a los integrantes de los Consejos Distritales y Municipales Electorales.
 
 CUARTO.- En términos de lo dispuesto por los Artículos 391 y 395 del Código de Elecciones y Participación Ciudadana, notifíquese el contenido del presente acuerdo a los representantes de los Partidos Políticos acreditados ante el Consejo General de este organismo electoral.
+
+QUINTO.- Publíquese el presente acuerdo en el Periódico Oficial del Estado.
+
+P.O. 3 DE JUNIO DE 2015.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+PRIMERO.- Se aprueba la adición del párrafo segundo al artículo 13 del Reglamento de Sesiones de los Consejos Distritales y Municipales Electorales del Instituto de Elecciones y Participación Ciudadana...
+
+SEGUNDO.- La adición al presente Reglamento entrará en vigor al momento de su aprobación.
+
+TERCERO.- Se instruye al Secretario Ejecutivo para que a la brevedad posible, a través de la Dirección Ejecutiva de Organización y Vinculación Electoral de este Instituto, haga del conocimiento del contenido del presente acuerdo a los integrantes de los Consejos Distritales y Municipales Electorales, para su observancia y aplicación correspondiente en el ámbito de sus respectivas competencias.
+
+CUARTO.- En términos de lo dispuesto por los artículos 391 y 395 del Código de Elecciones y Participación Ciudadana, notifíquese el contenido del presente acuerdo a los representantes de los Partidos Políticos acreditados ante el Consejo General de este organismo electoral.
 
 QUINTO.- Publíquese el presente acuerdo en el Periódico Oficial del Estado.
