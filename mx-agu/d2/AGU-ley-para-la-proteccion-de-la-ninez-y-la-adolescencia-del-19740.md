@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-de-la-ninez-y-la-adolescencia-del-19740"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-05"
-last_updated: "2012-03-05"
+last_updated: "2015-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN DE LA NIÑEZ Y LA ADOLESCENCIA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 3 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 5 de febrero de 2001.
 
@@ -966,3 +968,59 @@ P.O. 5 DE MARZO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el periódico Oficial del Estado.
+
+P.O. 3 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley para la Protección de la Niñez y la Adolescencia del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado, el 5 de febrero de 2001 y sus reformas posteriores.
+
+###### ARTÍCULO TERCERO.
+
+El Sistema Estatal de Protección y la Procuraduría de Protección Local, deberá constituirse a más tardar dentro de los noventa días siguientes a la entrada en vigor del presente decreto. Para el presente ejercicio presupuestal funcionará con los recursos humanos, materiales y financieros que tiene asignados la Procuraduría de la Defensa del Menor y la Familia, y aquellos, que en su caso le asigne la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes.
+
+A partir del siguiente ejercicio presupuestal, de acuerdo a la disponibilidad con que cuente el Estado en su Presupuesto de Egresos, le serán asignados paulatinamente los recursos financieros necesarios para el cumplimiento de los objetivos establecidos en la presente ley.
+
+###### ARTÍCULO CUARTO.
+
+Para efectos del artículo anterior, dentro de los 90 noventa días siguientes a la entrada en vigor del presente Decreto, se deberá reformar la Ley de Asistencia Social y de Integración Familiar del Estado de Aguascalientes y el Reglamento Interior del Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes, a fin de que el Sistema Estatal de Protección y la Procuraduría de Protección Local, queden integrados con las respectivas unidades administrativas para su adecuado funcionamiento.
+
+###### ARTÍCULO QUINTO.
+
+Los Sistemas Municipales de Protección, también deberán quedar integrados en un plazo no mayor a noventa días naturales, a partir de la entrada en vigor del presente Decreto, para formalizar la creación de los mismos cada Ayuntamiento habrá de modificar las disposiciones legales que sean necesarias.
+
+###### ARTÍCULO SEXTO.
+
+El Congreso del Estado deberá observar que en los Presupuestos que se sometan para su aprobación por el Ejecutivo Estatal, se contemplen los recursos necesarios para la implementación de manera paulatina de los recursos necesarios para el cumplimiento de las disposiciones de esta Ley y de la Ley General.
+
+###### ARTÍCULO SÉPTIMO.
+
+El titular del Ejecutivo del Estado y el Congreso Estatal, expedirán las disposiciones reglamentarias y las reformas a otros ordenamientos jurídicos, derivado de las disposiciones de la Ley General y de esta Ley, en un plazo no mayor a ciento ochenta días naturales, a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+Las referencias que esta Ley hace a la Fiscalía General del Estado, se entenderán referidas a la Procuraduría de Justicia del Estado, hasta en tanto entre en vigor la autonomía constitucional de dicha Fiscalía.
+
+###### ARTÍCULO NOVENO.
+
+Asimismo, en tanto entran en vigor las disposiciones aplicables del Código Nacional de Procedimientos Penales, se aplicarán las medidas establecidas en la legislación procesal penal correspondiente.
+
+###### ARTÍCULO DÉCIMO.
+
+Los centros de asistencia que se encuentren operando en el Estado de Aguascalientes, con antelación a la entrada en vigor del presente Decreto contarán con un plazo de 180 días a partir (sic) la publicación del presente Decreto, para realizar las adecuaciones conducentes en términos de lo previsto por la Ley General de los Derechos de Niñas, Niños y Adolescentes y por esta Ley.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+En tanto se crea la Procuraduría de Protección Local y se reforman los ordenamientos a que se (sic) alude el artículo cuarto transitorio, los procedimientos que estén en curso seguirán tramitándose conforme a las disposiciones legales aplicables en el momento en que se hubiesen iniciado.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+El Fideicomiso Público “Ayuda un Niño”, instituido en términos de la Ley para la Protección de la Niñez y la Adolescencia del Estado de Aguascalientes, que se abroga por virtud del presente Decreto, continuará funcionando como hasta ahora en los términos y para los fines previstos en (sic) contrato de fideicomiso respectivo.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Las autoridades del Estado y Municipios de Aguascalientes con el objeto de dar cumplimiento a lo previsto en la Ley que se expide por virtud del presente Decreto, deberán implementar las políticas y acciones correspondientes conforme a los programas aplicables y los que deriven de la misma.
