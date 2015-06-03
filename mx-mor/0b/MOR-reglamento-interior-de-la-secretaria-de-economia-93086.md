@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-economia-93086"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-13"
-last_updated: "2014-04-30"
+last_updated: "2015-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA PRIMERA Y TERCERA DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA, PUBLICADO EN EL P.O. DE 3 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS DIEZ DÍAS HÁBILES SIGUIENTES DE SU PUBLICACIÓN.</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE ABRIL DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 13 de marzo de 2013.
 
@@ -279,7 +279,7 @@ VI. Impulsar el desarrollo y competitividad de las empresas del Estado;
 
 VII. Promover y participar en la operación de programas y acciones institucionales de los sectores social y privado del estado de Morelos dirigidos a las actividades industriales, comerciales y de servicios, así como inducir el establecimiento de compromisos en actividades conjuntas;
 
-VII. (sic) Implementar acciones para impulsar la agroindustria y la industria rural, difundiendo esquemas de asociación modernos que permitan una producción y comercialización eficiente, en coordinación con la Secretaría de Desarrollo Agropecuario;
+VII (SIC). Implementar acciones para impulsar la agroindustria y la industria rural, difundiendo esquemas de asociación modernos que permitan una producción y comercialización eficiente, en coordinación con la Secretaría de Desarrollo Agropecuario;
 
 IX. Promover la integración regional con otras Entidades Federativas en materia de logística y agrupamiento de empresas e instituciones interrelacionadas de la micro, pequeña y mediana empresa, que actúen en una misma actividad productiva y como parte de una cadena productiva cuando esto sea importante para competir en el escenario económico nacional;
 
@@ -535,7 +535,7 @@ XIII. Promover la oferta y demanda de la micro, pequeña y mediana empresa morel
 
 (REFORMADA, P.O. 12 DE MARZO DE 2014) (F. DE E., P.O. 30 DE ABRIL DE 2014)
 
-XIV. “(sic) Evaluar a personas físicas y morales del ramo agroindustrial, mediante la aplicación de herramientas de diagnóstico a fin de conocer su estado actual;
+XIV. “Evaluar a personas físicas y morales del ramo agroindustrial, mediante la aplicación de herramientas de diagnóstico a fin de conocer su estado actual;
 
 (REFORMADA, P.O. 12 DE MARZO DE 2014) (F. DE E., P.O. 30 DE ABRIL DE 2014)
 
@@ -724,3 +724,19 @@ TERCERA. La Secretaría de Economía del Poder Ejecutivo Estatal, tendrá un pla
 CUARTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; y en los artículos 6, fracción XXXV, y 24, fracción I, del Reglamento Interior de la Secretaría de Gobierno; la Secretaría de Economía del Poder Ejecutivo Estatal, dentro del plazo de diez días hábiles, a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente Instrumento, debe informar a la diversa Secretaría de Gobierno, los cambios de denominación y supresión de las unidades administrativas de aquella, sufridos en virtud de este Decreto, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
 
 QUINTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, la Secretaría de Economía del Poder Ejecutivo Estatal, deberá realizar los trámites correspondientes para la identificación y asignación de plazas ante la diversa Secretaría de Administración, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
+
+P.O. 3 DE JUNIO DE 2015.
+
+PRIMERA. El presente Reglamento iniciará su vigencia a los diez días hábiles siguientes a su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Dentro de un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Reglamento, la Secretaría de Economía del Poder Ejecutivo Estatal deberá actualizar los Manuales Administrativos, descriptivos de puestos y demás instrumentos administrativos que correspondan.
+
+TERCERA. Se abroga el Reglamento Interior de la Secretaría de Economía publicado en el Periódico Oficial "Tierra y Libertad", número 5075, el 13 de marzo del 2013, así como se derogan todas las disposiciones normativas de igual o menor rango jerárquico normativo que se opongan al presente instrumento.
+
+CUARTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; y en los artículos 6, fracción XXXV, y 24, fracción l, del Reglamento Interior de la Secretaría de Gobierno; la Secretaría de Economía, dentro del plazo de diez días hábiles a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente Instrumento, debe informar a la diversa Secretaría de Gobierno, los cambios de denominación y supresión de las Unidades Administrativas de aquella, sufridos en virtud de este Reglamento, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+QUINTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, la Secretaría de Economía deberá realizar los trámites correspondientes para la identificación y asignación de plazas ante la diversa Secretaría de Administración, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
+
+SEXTA. Los asuntos que se encuentren en trámite a la entrada en vigor de este Reglamento a cargo de las Unidades Administrativas cuya denominación se modifica o cambia de adscripción, serán continuados en su tramitación por la Unidad Administrativa que corresponda, sin perjuicio de lo señalado en las disposiciones transitorias anteriores.
+
+SÉPTIMA. Los conflictos que se susciten por la aplicación e interpretación del presente Reglamento, serán resueltos por el Secretario de Economía.
