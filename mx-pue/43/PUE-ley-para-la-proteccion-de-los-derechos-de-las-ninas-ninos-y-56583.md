@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-proteccion-de-los-derechos-de-las-ninas-ninos-y-565
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-06"
-last_updated: "2014-11-18"
+last_updated: "2015-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56583&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SÉPTIMO DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 3 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A PARTIR DEL EJERCICIO FISCAL SIGUIENTE.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2015 (ABROGADA).
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Puebla, el lunes 6 de agosto de 2007.
 
@@ -36,8 +38,6 @@ Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 EL HONORABLE QUINCUAGÉSIMO SEXTO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
 CONSIDERANDO
-
-.
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto por los ARTÍCULOS 57 fracción I. 63 fracción II 64 y 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracciones I y X, 69 fracción II, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado; 20, 21 y 24 fracciones I y X del Reglamento Interior del Honorable Congreso del Estado, se expide la siguiente:
 
@@ -498,3 +498,31 @@ P.O. 18 DE NOVIEMBRE DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE JUNIO DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE EXPIDE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a partir del ejercicio fiscal siguiente.
+
+SEGUNDO. Los Sistemas Estatal y Municipales de Protección, deberán integrarse en un plazo máximo de noventa días posteriores a la entrada en vigor del presente Decreto.
+
+En su primera sesión, el Presidente del Sistema Estatal de Protección someterá a consideración y aprobación del mismo los lineamientos para su integración, organización y funcionamiento, así como la designación del Titular de la Secretaría Ejecutiva del Sistema Estatal de Protección.
+
+El Presidente del Sistema Estatal de Protección realizará las acciones necesarias para la elaboración del Programa Estatal, el cual deberá aprobarse dentro de los ciento ochenta días naturales siguientes a la instalación del Sistema Estatal de Protección.
+
+Los Sistemas Municipales de Protección observarán al efecto las mismas disposiciones de este artículo.
+
+TERCERO. La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Puebla, deberá constituirse a partir del ejercicio fiscal inmediato posterior a la publicación del presente Decreto.
+
+Para los efectos del párrafo que antecede, el Sistema Estatal DIF deberá reformar su Reglamento Interior, para formalizar la creación de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Puebla, con sus respectivas unidades administrativas.
+
+CUARTO. Los Centros de Asistencia Social que se encuentren operando en el Estado con antelación a la entrada en vigor del presente Decreto, contarán con un plazo de 180 días a partir de su publicación en el Periódico Oficial del Estado, para realizar las adecuaciones conducentes en términos de lo previsto por la presente Ley.
+
+QUINTO. El Congreso del Estado de Puebla, a propuesta del Titular del Ejecutivo del Estado, establecerá una partida presupuestal para coadyuvar en la implementación de las adecuaciones necesarias al cumplimiento de esta Ley.
+
+SEXTO. El Ejecutivo del Estado contará con un plazo máximo de ciento ochenta días naturales, para la expedición de las disposiciones Reglamentarias conducentes al cumplimiento de esta Ley, contados a partir de la entrada en vigor del presente Decreto.
+
+SÉPTIMO. A la entrada en vigor del presente Decreto, se abroga la Ley de Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado Libre y Soberano de Puebla, publicada en el Periódico Oficial del Estado con fecha 6 de agosto de 2007.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan a la presente Ley.
