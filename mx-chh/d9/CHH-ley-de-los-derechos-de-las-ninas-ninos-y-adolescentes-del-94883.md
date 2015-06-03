@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-94883
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-12"
-last_updated: "2014-03-22"
+last_updated: "2015-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 904/2015 II P.O. Y EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 3 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL DÍA PRIMERO DE ENERO DEL AÑO 2016.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2015.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 12 de junio de 2013.
 
@@ -1032,3 +1034,33 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los Comités Municipales a que se refiere el artículo 44 de la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Chihuahua, contarán con un término de quince días naturales a partir de la entrada en vigor del presente Decreto, para realizar los ajustes necesarios en su integración.
+
+P.O. 3 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año 2016.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Sistemas Estatal y Municipal de Protección deberán integrase (sic) a más tardar dentro de los 90 días siguientes a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Ejecutivo Estatal en un plazo no mayor a los 90 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los Centros de Asistencia Social que se encuentren operando en el Estado de Chihuahua con anterioridad a la entrada en vigor de la presente Ley, contarán con un plazo de 180 días naturales para realizar las adecuaciones conducentes en los términos de lo previsto en el presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+A partir del siguiente ejercicio presupuestal, de acuerdo a la disponibilidad con que cuente el Estado en su Ley de Ingresos, deberán asignar los recursos financieros necesarios para el cumplimiento de los objetivos establecidos en la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+En los ordenamientos jurídicos estatales que refieran la existencia de la Procuraduría de Asistencia Jurídica y Social, se entenderá, en lo subsecuente, que lo hacen refiriéndose a la Procuraduría de Protección de Niñas, Niños y Adolescentes.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Comité Estatal de Seguimiento y Vigilancia de la Aplicación de los Derechos de Niñas, Niños y Adolescentes deberá sesionar dentro de los 45 días posteriores a la entrada en vigor de la presente Ley a efecto (sic) sustituir la denominación actual por la de Sistema Estatal de Protección Integral de Niñas, Niños y Adolescentes en los términos del presente ordenamiento y analizará la convocatoria de la elección de sus integrantes.
