@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-instituto-tecnologico-superior-de-76558
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-12"
-last_updated: "2010-05-12"
+last_updated: "2015-06-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76558&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE CINTALAPA, DEL ESTADO DE CHIAPAS
 
-REGLAMENTO INTERIOR DEL INSTITUTO TECNOLOGICO SUPERIOR DE CINTALAPA
+REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE CINTALAPA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO TECNOLÓGICO SUPERIOR DE CINTALAPA, PUBLICADO EN EL P.O. DE 3 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 12 de mayo de 2010.
 
@@ -159,7 +161,7 @@ XIII. Participar en las Comisiones, Congresos, Consejos, Instituciones, Entidade
 
 XIV. Expedir constancias y certificar documentos que obren en los archivos del Instituto.
 
-XV. Solicitar al Comisario Público, el examen y evaluación de los sistemas, mecanismos y procedimientos de control del Instituto, así como, solicitar la revisión y auditorías de índole administrativas (sic), contables, operacionales, técnicas y jurídicas a las autoridades competentes, con la finalidad de vigilar y transparentar el manejo y la aplicación de los recursos públicos.
+XV. Solicitar al Comisario Público, el examen y evaluación de los sistemas, mecanismos y procedimientos de control del Instituto, así como, solicitar la revisión y auditorías de índole administrativas, contables, operacionales, técnicas y jurídicas a las autoridades competentes, con la finalidad de vigilar y transparentar el manejo y la aplicación de los recursos públicos.
 
 XVI. Las demás que con este carácter y en el ámbito de su competencia le asignen las Leyes, Reglamentos, Decretos, Acuerdos y demás ordenamientos aplicables, así como las que le confiera la Junta Directiva.
 
@@ -496,3 +498,23 @@ Artículo Quinto.- En cumplimiento a lo dispuesto por el Artículo 8°, de la Le
 Dado en la Sala de Sesiones de la Junta Directiva del Instituto Tecnológico Superior de Cintalapa. En la Ciudad de Cintalapa, Chiapas; a los catorce días del mes de noviembre del año dos mil nueve.
 
 Integrantes de la Junta Directiva: Presidente, Mtro. Javier Álvarez Ramos, Secretario de Educación.- Secretaria, Mtra. María Santana Gómez Fonseca, Subdirectora de Planeación y Vinculación.- Vocales: C.P. Rafael Augusto Morales Ochoa, en representación del Lic. Carlos Jair Jiménez Bolaños Cacho, Secretario de Hacienda.- C.P. Josefa López Ruiz de Ladagga, Titular de la Oficina de Servicios Federales en Apoyo a la Educación en Chiapas.- Mtro. Gilberto de los Santos Cruz, Director de Educación Superior de la Secretaría de Educación Estatal.- M.C. Erasmo Martínez Rodríguez, Director de Institutos Tecnológicos Descentralizados.- QFB. Alexander Trinidad Vázquez, Presidente Municipal Constitucional de Cintalapa, Chiapas.- Lic. Óscar Velázquez Natarén, Presidente del Comisariado Ejidal de Cintalapa, Chiapas.- Arq. José Alejandro Moguel Ortiz, Presidente del Consejo de Vinculación del Instituto Tecnológico Superior de Cintalapa.- Ing. Juan Gabriel Siu Sánchez, Secretario Técnico del Consejo de Vinculación del Instituto Tecnológico Superior de Cintalapa.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE JUNIO DE 2015.
+
+Artículo Primero. El presente Reglamento Interior entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se abroga el Reglamento Interior del Instituto Tecnológico Superior de Cintalapa, publicado en el Periódico Oficial N°. 232, Tomo III, Publicación N°. 1767-A-2010, de fecha 12 de mayo de 2010; así como las disposiciones que del mismo emanen y se derogan aquellas otras que se opongan al presente Reglamento Interior.
+
+Artículo Tercero. En los casos en que se presente controversia en la aplicación de este Reglamento Interior, el Director General resolverá lo conducente.
+
+Artículo Cuarto. Para las cuestiones no previstas en el presente Reglamento Interior, respecto al funcionamiento de los Órganos Administrativos y demás actividades del personal, se estará a lo dispuesto por el Manual de Organización.
+
+Artículo Quinto. El Manual de Organización del Instituto Tecnológico Superior de Cintalapa, deberá expedirse en un plazo no mayor a noventa días hábiles, después de la publicación del presente Reglamento Interior.
+
+Artículo Sexto. En tanto se expide el Manual de Organización respectivo, el Director General resolverá las incidencias de operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Séptimo. El Instituto, deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del Programa que establezca la Unidad Estatal de Protección Civil.
+
+Artículo Octavo. En cumplimiento a lo dispuesto por el artículo 8, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento Interior en el Periódico Oficial.
