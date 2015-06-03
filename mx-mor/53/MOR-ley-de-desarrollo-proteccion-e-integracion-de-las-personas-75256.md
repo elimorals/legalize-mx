@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-proteccion-e-integracion-de-las-personas-7525
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-09"
-last_updated: "2014-10-08"
+last_updated: "2015-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DESARROLLO, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de junio de 2010.
 
@@ -85,9 +85,17 @@ VIII. Atención integral. Satisfacción de las necesidades físicas, materiales,
 
 IX. Calidad del servicio. Conjunto de características que confieren al servicio la capacidad de satisfacer tanto las necesidades como las demandas actuales y potenciales;
 
-X. Desarrollo Integral. El conjunto de acciones que realizan las dependencias y entidades de la Administración Pública del Gobierno del Estado y de los Municipios y la sociedad organizada, encaminadas al desarrollo de todos sus potenciales humanos en los campos tanto físico, como psíquico, emocional, espiritual, de relaciones humanas y aumento de la capacidad económica y productiva de las personas adultas mayores;
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2015)</small>
 
-XI. Consejo. Al Consejo Estatal para la Integración, Asistencia, Promoción y Defensa de los Derechos de las Personas Adultas Mayores.
+X. Espacio de asistencia social permanente. El lugar que independientemente de su denominación o régimen jurídico, ya sea público, social o privado, otorga atención integral permanente para personas adultas y adultas mayores, que cuenten con características especiales de atención, donde se proporcionan servicios de prevención de riesgos, atención y rehabilitación, que incluyen alojamiento, alimentación, vestido, atención médica, social y psicológica, actividades culturales, recreativas y ocupacionales, por espacios de tiempo continuo que implican atención las 24 horas del día;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2015)</small>
+
+XI. Espacio de asistencia social temporal o Centro de día: El lugar que independientemente de su denominación o régimen jurídico, ya sea público, social o privado, proporciona alternativas a las personas adultas mayores para la ocupación creativa y productiva del tiempo libre mediante actividades culturales, deportivas, recreativas y de estímulo, donde se promueve tanto la dignificación de esta etapa de la vida, como la promoción y autocuidado de la salud, por espacios de tiempo variados y no permanentes;
+
+XII. Desarrollo Integral. El conjunto de acciones que realizan las dependencias y entidades de la Administración Pública del Gobierno del Estado y de los Municipios y la sociedad organizada, encaminadas al desarrollo de todos sus potenciales humanos en los campos tanto físico, como psíquico, emocional, espiritual, de relaciones humanas y aumento de la capacidad económica y productiva de las personas adultas mayores;
+
+XIII. Consejo. Al Consejo Estatal para la Integración, Asistencia, Promoción y Defensa de los Derechos de las Personas Adultas Mayores.
 
 ## TÍTULO SEGUNDO. DE LOS PRINCIPIOS, DERECHOS Y OBLIGACIONES
 
@@ -199,6 +207,10 @@ X. Albergues permanentes y provisionales.
 
 b) Los asilos, estancias o centros de rehabilitación, públicos o privados procurarán el mejoramiento de la salud física y psicológica de las personas adultas mayores a su cuidado, así como su integración social.
 
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2015)</small>
+
+Evitarán cualquier tipo de violencia física, psicológica o emocional hacia las personas bajo su custodia. El maltrato por esta causa dará motivo a la suspensión temporal o definitiva del establecimiento.
+
 c) Las personas adultas mayores tendrán derecho a todas aquellas acciones respectivas que sobre asistencia social lleve a cabo el Estado para fomentar en ellos y en la sociedad en general una cultura de integración, dignidad y respeto.
 
 d) A ser sujetos de programas de asistencia social en caso de desempleo, discapacidad o pérdida de sus medios de subsistencia;
@@ -261,15 +273,19 @@ g. Denunciar ante las autoridades la comisión de algún ilícito;
 
 ### CAPÍTULO I. DE LOS DEBERES DEL ESTADO
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2015)</small>
+
 ###### Artículo 8.
 
-El Estado promoverá la publicación y difusión de esta Ley para que la sociedad y las familias respeten a las personas adultas mayores e invariablemente reconozcan su dignidad.
+El Estado promoverá la publicación y difusión de esta Ley para que la sociedad y las familias respeten a las personas adultas mayores e invariablemente reconozcan su dignidad, y se asimile una cultura de respeto a sus Derechos Humanos.
 
 ###### Artículo 9.
 
 El Estado garantizará las condiciones óptimas de salud, educación, nutrición, vivienda, desarrollo integral, seguridad social y trato humano a las personas adultas mayores. Asimismo, deberá establecer programas para asegurar a todos los trabajadores una preparación adecuada para su retiro. Igualmente proporcionará:
 
-I. Atención preferencial: Toda institución pública o privada que brinde servicios a las personas adultas mayores deberá contar con la infraestructura, mobiliario y equipo adecuado, así como con los recursos humanos necesarios para que se realicen procedimientos alternativos en los trámites administrativos, cuando tengan alguna discapacidad. El Estado promoverá la existencia de condiciones adecuadas para las personas adultas mayores tanto en el transporte público como en los espacios arquitectónicos;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2015)</small>
+
+I. Atención preferencial: Toda institución pública o privada que brinde servicios a las personas adultas mayores deberá contar con la infraestructura, mobiliario y equipo adecuado, así como con los recursos humanos necesarios para que se realicen procedimientos alternativos en los trámites administrativos, cuando tengan alguna discapacidad. El Estado promoverá la existencia de condiciones adecuadas para las personas adultas mayores tanto en el transporte público como en los espacios arquitectónicos. En los centros comerciales o de autoservicio, así como en toda institución pública que brinde el servicio de estacionamiento público, deberán asignarse cajones de estacionamiento preferente para el uso de los adultos mayores, mismos que deberán encontrarse en un sitio de fácil accesibilidad al establecimiento.
 
 II. Información: Las instituciones públicas y privadas, a cargo de programas sociales deberán proporcionarles información y asesoría tanto sobre las garantías consagradas en esta Ley como sobre los derechos establecidos en otras disposiciones a favor de las personas adultas mayores, y
 
@@ -325,11 +341,17 @@ IX. Las demás que establezcan a su cargo las disposiciones aplicables.
 
 El Sistema para el Desarrollo Integral de la Familia, deberá tomar las medidas de prevención o provisión para que la familia participe en la atención de las personas adultas mayores en situación de riesgo o desamparo.
 
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2015)</small>
+
+Cuando una persona adulta mayor reciba de familiares o de terceros maltrato y ponga su vida en situación de riesgo previa evaluación, los responsables del maltrato, están obligados a cubrir los gastos de alojamiento, alimentación, atención médica y psicológica, que ocasione separar al adulto mayor del seno familiar, al ser este internado en alguna institución pública o privada, para su recuperación del daño recibido. Para los efectos de lo antes citado, se estará a lo preceptuado en el Titulo Séptimo, Capitulo II de la presente Ley.
+
 ### CAPÍTULO III. DE LA SOCIEDAD
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2015)</small>
 
 ###### Artículo 13.
 
-Las personas adultas mayores no podrán ser socialmente marginadas o discriminadas en ningún espacio público o privado por razón de su edad, género, estado físico, creencia religiosa o condición social.
+Las personas adultas mayores no podrán ser socialmente marginadas o discriminadas en ningún espacio público o privado por razón de su edad, genero, étnica, estado físico, creencia religiosa, condición social o preferencia sexual.
 
 ###### Artículo 14.
 
@@ -375,7 +397,9 @@ V. Impulsar la atención integral e interinstitucional de los sectores público 
 
 VI. Promover la solidaridad y la participación ciudadana para consensar programas y acciones que permitan su incorporación social y alcanzar un desarrollo justo y equitativo;
 
-VII. Fomentar en la familia, el Estado y la sociedad, una cultura de aprecio a la vejez para lograr un trato digno, favorecer su revalorización y su plena integración social, así como procurar una mayor sensibilidad, conciencia social, respeto, solidaridad y convivencia entre las generaciones con el fin de evitar toda forma de discriminación y olvido por motivo de su edad, género, estado físico o condición social;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2015)</small>
+
+VII. Fomentar en la familia, el Estado y la sociedad, una cultura de aprecio a la vejez para lograr un trato digno, favorecer su revalorización y su plena integración social, así como procurar una mayor sensibilidad, conciencia social, respeto, solidaridad y convivencia entre las generaciones con el fin de evitar toda forma de discriminación y olvido por motivo de su edad, género, estado físico, condición social o preferencia sexual;
 
 VIII. Promover la participación activa de las personas adultas mayores en la formulación y ejecución de las políticas públicas que les afecten;
 
@@ -449,21 +473,29 @@ V. Promover la celebración de convenios de colaboración con las empresas conce
 
 VI. Vigilar y garantizar que los usuarios y automovilistas respeten los señalamientos y áreas de accesibilidad exclusivas para las personas adultas mayores.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2015)</small>
+
 ###### Artículo 23.
 
-Corresponde a la Subsecretaría de Asuntos Jurídicos, a través de la Dirección General de Defensoría Pública:
+Corresponde al Instituto de la Defensoría Pública del Estado de Morelos:
 
-Garantizará a las personas adultas mayores el derecho de defensa legal gratuita, competente y eficiente, a fin de garantizar su integridad y evitar cualquier acto que ponga en riesgo su persona, bienes y derechos; designándosele para tal efecto Defensores de Oficio con experiencia en la materia y con título de Licenciado en Derecho legalmente expedido y registrado.
+Garantizar a las personas adultas mayores el derecho de defensa legal gratuita, competente y eficiente, a fin de proteger su integridad y evitar cualquier acto que ponga en riesgo su persona, bienes y derechos; designándosele para tal efecto Defensores Públicos con experiencia en la materia y con título de Licenciado en Derecho legalmente expedido y registrado.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2015)</small>
 
 ###### Artículo 24.
 
-Corresponde a la Secretaría de Desarrollo Humano y Social coordinar e implementar las acciones que se requieran, para promover el desarrollo integral de las personas adultas mayores, así como:
+Corresponde a la Secretaría de Desarrollo Social coordinar e implementar las acciones que se requieran, para promover el desarrollo integral de las personas adultas mayores, así como:
 
 I. Coordinar y ejecutar las políticas de asistencia social y atención integral a los que refiere esta Ley;
 
-II. Coordinar la promoción y seguimiento de los programas de atención de las personas adultas mayores, fomentando la participación de organismos públicos y privados; y
+II. Coordinar la promoción y seguimiento de los programas de atención de las personas adultas mayores, fomentando la participación de organismos públicos y privados;
 
-III. Propiciar convenios de colaboración con instituciones y organismos públicos, sociales y privados para acciones de atención dirigidas a las personas adultas mayores.
+III. Propiciar convenios de colaboración con instituciones y organismos públicos, sociales y privados para acciones de atención dirigidas a las personas adultas mayores;
+
+IV. Realizar las acciones necesarias a fin de concretar programas de vivienda que permitan a las personas adultas mayores la obtención· de créditos accesibles para adquirir una vivienda propia o remodelarla en caso de ya contar con ella; y
+
+V. Garantizar el acceso a proyectos de vivienda de interés social que ofrezcan igual oportunidad a las parejas compuestas por personas adultas mayores, solas o jefes de familia.
 
 ###### Artículo 25.
 
@@ -473,7 +505,9 @@ I. El acceso a la educación pública en todos sus niveles y modalidades y a cua
 
 II. Promover y elaborar por sí, o en coordinación con los gobiernos Estatal y municipal, la creación de programas permanentes de educación para la alfabetización de las personas adultas mayores;
 
-III. La elaboración de programas especiales de capacitación y educación para las personas adultas mayores, en coordinación con la Secretaría del Trabajo y Previsión Social, con la finalidad de que puedan incorporarse a la actividad económica del Estado;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2015)</small>
+
+III. La elaboración de programas especiales de capacitación y educación para las personas adultas mayores, en coordinación con la Secretaría del Trabajo, con la finalidad de que puedan incorporarse a la actividad económica del Estado.
 
 IV. La formulación de programas educativos de licenciatura y posgrado en geriatría y gerontología, en todos los niveles de atención en salud, así como de atención integral a las personas adultas mayores dirigidos a personal técnico profesional. También velará porque las instituciones de educación superior e investigación científica incluyan la geriatría en su currícula de medicina, y la gerontología en las demás carreras pertenecientes a las áreas;
 
@@ -491,11 +525,7 @@ X. Fomentar entre toda la población una cultura de la vejez, de respeto, apreci
 
 ###### Artículo 26.
 
-Corresponde al Instituto de Vivienda del Estado de Morelos, garantizar:
-
-I. Las acciones necesarias a fin de concretar programas de vivienda que permitan a las personas adultas mayores la obtención de créditos accesibles para adquirir una vivienda propia o remodelarla en caso de ya contar con ella, y
-
-II. El acceso a proyectos de vivienda de interés social que ofrezcan igual oportunidad a las parejas compuestas por personas adultas mayores, solas o jefes de familia.
+(DEROGADO, P.O. 3 DE JUNIO DE 2015)
 
 ###### Artículo 27.
 
@@ -563,9 +593,11 @@ X. Apoyar y proteger a las personas adultas mayores en situación de vulnerabili
 
 Las instituciones públicas, privadas y sociales que otorguen atención médica a las personas adultas mayores, deberán contar con personal que posea vocación, capacidad y conocimientos en el cuidado de las personas adultas mayores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2015)</small>
+
 ###### Artículo 31.
 
-Corresponde a la Secretaría de Desarrollo Económico en materia de las personas adultas mayores las siguientes:
+Corresponde a la Secretaría de Economía en materia de las personas adultas mayores las siguientes:
 
 I. Promover la participación de los sectores social y privado del Estado, en la formulación de planes y programas de desarrollo socioeconómico a favor de las personas adultas mayores; y
 
@@ -579,9 +611,11 @@ I. Impulsar la participación de las personas adultas mayores en actividades de 
 
 II. Promover actividades de recreación turística con tarifas preferentes, diseñadas para las personas adultas mayores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2015)</small>
+
 ###### Artículo 33.
 
-La Secretaría del Trabajo y Productividad, vigilará el pleno ejercicio de los derechos laborales de las personas adultas mayores mediante:
+La Secretaría del Trabajo vigilará el pleno ejercicio de los derechos laborales de las personas adultas mayores mediante:
 
 I. La promoción (sic) empleos como actividades lucrativas o voluntarias, conforme a su oficio, habilidad o profesión, sin más restricción que su limitación física o mental declarada por la autoridad médica o legal competente;
 
@@ -641,7 +675,9 @@ El Consejo estará integrado por las personas titulares de:
 
 I. El Ejecutivo del Estado, a través de la Secretaría de Gobierno quien fungirá como Presidente del Consejo;
 
-II. La Secretaría de Desarrollo Humano y Social quien fungirá como Secretario Técnico;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2015)</small>
+
+II. La Secretaría de Desarrollo Social quien fungirá como Secretario Técnico;
 
 III. El Sistema para el Desarrollo integral de la Familia de Morelos;
 
@@ -735,7 +771,9 @@ En los Municipios deberán formarse Consejos Asesores para la Integración, Asis
 
 Son infracciones a esta Ley:
 
-I. Realizar cualquier acto que implique abandono, desamparo, discriminación, humillación, burla o mofa hacia las personas adultas mayores;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2015)</small>
+
+I. Realizar cualquier acto que implique abandono, desamparo, discriminación, humillación, burla o mofa hacia las personas adultas mayores, por motivo de su edad, genero, estado físico, origen étnico, condición social o preferencia sexual;
 
 II. Realizar cualquier actividad que implique abuso, explotación o maltrato hacia las personas mayores;
 
@@ -743,9 +781,13 @@ III. Impedir injustificadamente que las personas adultas mayores permanezcan en 
 
 IV. No proporcionar a las personas adultas mayores los alimentos y cuidados necesarios cuando se tenga el deber de hacerlo;
 
-V. Negar o impedir injustificadamente a las personas adultas mayores el acceso a los diferentes servicios a que tienen derecho en virtud de lo establecido en esta Ley; y
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2015)</small>
 
-VI. En general los hechos u omisiones que produzcan o puedan producir daño o afectación a los derechos y garantías de las personas adultas mayores, así como cualquier violación o infracción a las disposiciones de esta Ley, o a las contempladas por otros ordenamientos jurídicos, o en otras disposiciones de la misma.
+V. Ocupar los espacios de uso exclusivo en los establecimientos de servicio al público que sean destinados para los adultos mayores. Dichos lugares deben encontrarse claramente señalados.
+
+VI. Negar o impedir injustificadamente a las personas adultas mayores el acceso a los diferentes servicios a que tienen derecho en virtud de lo establecido en esta Ley; y
+
+VII. En general los hechos u omisiones que produzcan o puedan producir daño o afectación a los derechos y garantías de las personas adultas mayores, así como cualquier violación o infracción a las disposiciones de esta Ley, o a las contempladas por otros ordenamientos jurídicos, o en otras disposiciones de la misma.
 
 ###### Artículo 46.
 
@@ -755,7 +797,9 @@ I. Amonestación;
 
 II. Multa de 30 a 180 días de salario mínimo general vigente en el Estado; si el infractor fuere jornalero, obrero o no asalariado, la multa será de un día de su jornal, salario o ingreso diario; la que podrá ser triplicada en caso de reincidencia;
 
-III. Clausura total, Temporal o definitiva de las fuentes o actividades que contravengan las disposiciones de esta Ley; y
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2015)</small>
+
+III. En caso de que las infracciones previstas en el artículo 45 de esta ley, se lleven a cabo en los asilos, estancias, lugares de reposo o centros de rehabilitación para los adultos mayores, se procederá a la clausura total, temporal o definitiva de los establecimientos, así como de las actividades de los establecimientos, de igual manera las actividades que contravengan las disposiciones de esta Ley; y
 
 IV. Aquellas contempladas por las demás leyes aplicables a la materia.
 
@@ -775,9 +819,11 @@ II. Las condiciones socioeconómicas del infractor; y
 
 III. Si la conducta del infractor implica reincidencia.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2015)</small>
+
 ###### Artículo 49.
 
-El cobro de las multas impuestas, previa las formalidades, por la autoridad a que se refiere esta ley; corresponderá a la Secretaría de Finanzas y Planeación.
+El cobro de las multas impuestas corresponderá a la Secretaría de Hacienda, previo el cumplimiento de las formalidades por parte de la autoridad a que se refiere esta Ley.
 
 ### CAPÍTULO II. DEL PROCEDIMIENTO
 
@@ -789,9 +835,11 @@ Corresponderá a la Procuraduría de la defensa del Menor y la Familia, realizar
 
 Los procedimientos se regirán conforme a los principios de inmediatez, concentración y rapidez, y se procurará, en la medida de lo posible, el contacto directo con quejosos, denunciantes y autoridades para evitar la dilación de las comunicaciones escritas.
 
-###### Artículo 52.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2015)</small>
 
-Toda persona que tenga conocimiento de que una persona adulta mayor se encuentra en cualquiera de los casos mencionados en el artículo 45 de la presente Ley, deberá comunicarlo en forma inmediata a la Procuraduría, sin perjuicio del derecho que le corresponde a la persona afectada, de hacerlo personalmente.
+###### Articulo 52.
+
+Toda persona que tenga conocimiento de que una persona adulta mayor se encuentra en cualquiera de los casos mencionados en el artículo 50 de la presente Ley, deberá comunicarlo en forma inmediata a la Procuraduría, sin perjuicio del derecho que le corresponde a la persona afectada, de hacerlo personalmente.
 
 ###### Artículo 53.
 
@@ -876,3 +924,11 @@ P.O. 8 DE OCTUBRE DE 2014.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 3 DE JUNIO DE 2015.
+
+PRIMERA. Remítase el presente decreto al Gobernador Constitucional del Estado, para los efectos previstos en los artículos 44, 47 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA. A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
