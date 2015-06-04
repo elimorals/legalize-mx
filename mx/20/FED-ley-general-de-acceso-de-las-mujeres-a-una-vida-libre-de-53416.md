@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-53416"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-02-01"
-last_updated: "2014-04-02"
+last_updated: "2015-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53416&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-01-31"
 
 LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de febrero de 2007.
 
@@ -433,13 +433,17 @@ VI. La Secretaría de Salud;
 
 VII. La Secretaría del Trabajo y Previsión Social;
 
-VIII. El Instituto Nacional de las Mujeres, quien ocupará la Secretaría Ejecutiva del Sistema;
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2015)</small>
 
-IX. El Consejo Nacional para Prevenir la Discriminación;
+VIII. Secretaría de Desarrollo Agrario, Territorial y Urbano;
 
-X. El Sistema Nacional para el Desarrollo Integral de la Familia, y
+IX. El Instituto Nacional de las Mujeres, quien ocupará la Secretaría Ejecutiva del Sistema;
 
-XI. Los mecanismos para el adelanto de las mujeres en las entidades federativas.
+X. El Consejo Nacional para Prevenir la Discriminación;
+
+XI. El Sistema Nacional para el Desarrollo Integral de la Familia, y
+
+XII. Los mecanismos para el adelanto de las mujeres en las entidades federativas.
 
 ###### ARTÍCULO 37.
 
@@ -677,7 +681,31 @@ XV. Celebrar convenios de cooperación, coordinación y concertación en la mate
 
 XVI. Las demás previstas para el cumplimiento de la presente ley.
 
-#### Sección Séptima.. De la Procuraduría General de la República
+#### Sección Séptima.. De la Secretaría del Trabajo y Previsión Social
+
+> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2012)</small>
+
+ARTÍCULO 46 BIS.- Corresponde a la Secretaría del Trabajo y Previsión Social:
+
+I. Impulsar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y de hombres en materia de trabajo y previsión social;
+
+II. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres;
+
+III. Promover la cultura de respeto a los derechos humanos de las mujeres en el ámbito laboral;
+
+IV. Diseñar y difundir materiales que promuevan la prevención, atención y erradicación de la violencia contra las mujeres en los centros de trabajo;
+
+V. Orientar a las víctimas de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres;
+
+VI. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
+
+VII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+VIII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa, y
+
+IX. Las demás previstas para el cumplimiento de la presente ley.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 4 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 46.
 
@@ -723,35 +751,35 @@ XIII. Celebrar convenios de cooperación, coordinación y concertación en la ma
 
 XIV. Las demás previstas para el cumplimiento de la presente ley.
 
-> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2012)</small>
+> <small>(ADICIONADA [N. DE E. COMPRENDE EL ARTÍCULO 46 BIS], D.O.F. 4 DE JUNIO DE 2015)</small>
 
-ARTÍCULO 46 BIS.- Corresponde a la Secretaría del Trabajo y Previsión Social:
+#### Sección Octava.. De la Secretaría de Desarrollo Agrario, Territorial y Urbano
 
-I. Impulsar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y de hombres en materia de trabajo y previsión social;
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2015)</small>
 
-II. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres;
+ARTÍCULO 46 TER. Corresponde a la Secretaría de Desarrollo Agrario, Territorial y Urbano:
 
-III. Promover la cultura de respeto a los derechos humanos de las mujeres en el ámbito laboral;
+I. Coordinar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y de hombres en materia agraria;
 
-IV. Diseñar y difundir materiales que promuevan la prevención, atención y erradicación de la violencia contra las mujeres en los centros de trabajo;
+II. Delinear, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia contra las mujeres en las comunidades agrarias y ejidos, incluyendo a las de origen étnico;
 
-V. Orientar a las víctimas de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres;
+III. Fomentar la cultura de respeto a los derechos humanos de las mujeres que habitan en zonas rurales, incluyendo a las de origen étnico;
 
-VI. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
+IV. Diseñar y difundir materiales que promuevan la prevención, atención y erradicación de la violencia contra las mujeres en los ejidos y comunidades agrarias;
 
-VII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+V. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
 
-VIII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa, y
+VI. Constituir un padrón sobre las unidades destinadas para las mujeres a las que se refieren los artículos 63 y 71 de la Ley Agraria, con base en la información contenida en el Registro Agrario Nacional;
 
-IX. Las demás previstas para el cumplimiento de la presente ley.
+VII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa, y
 
-#### Sección Octava.. Del Instituto Nacional de las Mujeres
+VIII. Las demás previstas para el cumplimiento de la presente ley.
 
-#### Sección Novena.. De las Entidades Federativas
+(REUBICADA [N. DE E. ANTES SECCIÓN SÉPTIMA], D.O.F. 4 DE JUNIO DE 2015)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
+#### Sección Novena.. De la Procuraduría General de la República
 
-#### Sección Décima.. De los Municipios
+#### Sección Décima.. Del Instituto Nacional de las Mujeres
 
 ###### ARTÍCULO 47.
 
@@ -803,6 +831,12 @@ La información integrada en esta base deberá ser resguardada y únicamente pod
 
 XII. Las demás previstas para el cumplimiento de la presente ley.
 
+(REUBICADA [N. DE E. ANTES SECCIÓN OCTAVA], D.O.F. 4 DE JUNIO DE 2015)
+
+#### Sección Décima Primera.. De las Entidades Federativas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
+
 ###### ARTÍCULO 48.
 
 Corresponde al Instituto Nacional de las Mujeres:
@@ -828,6 +862,10 @@ VIII. Difundir la cultura de respeto a los derechos humanos de las mujeres y pro
 IX. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
 
 X. Las demás previstas para el cumplimiento de la ley.
+
+(REUBICADA [N. DE E. ANTES SECCIÓN NOVENA], D.O.F. 4 DE JUNIO DE 2015)
+
+#### Sección Décima Segunda.. De los Municipios
 
 ###### Artículo 49.
 
@@ -867,7 +905,9 @@ XV. Promover investigaciones sobre las causas y las consecuencias de la violenci
 
 XVI. Revisar y evaluar la eficacia de las acciones, las políticas públicas, los programas estatales, con base en los resultados de las investigaciones previstas en la fracción anterior;
 
-XVII. Impulsar la participación de las organizaciones privadas de (sic) dedicadas a la promoción y defensa de los derechos humanos de las mujeres, en la ejecución de los programas estatales;
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2015)</small>
+
+XVII. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de las mujeres, en la ejecución de los programas estatales;
 
 XVIII. Recibir de las organizaciones privadas, las propuestas y recomendaciones sobre la prevención, atención y sanción de la violencia contra mujeres, a fin de mejorar los mecanismos para su erradicación;
 
@@ -902,6 +942,8 @@ XXIV. Elaborar y aplicar protocolos especializados con perspectiva de género en
 XXV. Las demás aplicables a la materia, que les conceda la ley u otros ordenamientos legales.
 
 Las autoridades federales, harán las gestiones necesarias para propiciar que las autoridades locales reformen su legislación, para considerar como agravantes los delitos contra la vida y la integridad corporal cometidos contra mujeres.
+
+(REUBICADA [N. DE E. ANTES SECCIÓN DÉCIMA], D.O.F. 4 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 50.
 
@@ -1114,3 +1156,7 @@ D.O.F. 2 DE ABRIL DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Se concede un plazo de trescientos sesenta y cinco días naturales, contados a partir de la fecha en que entren en vigor estas modificaciones, para que las empresas, instituciones, dependencias y, en general, todos los obligados conforme a este Decreto efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones de la ley correspondiente.
+
+D.O.F. 4 DE JUNIO DE 2015.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
