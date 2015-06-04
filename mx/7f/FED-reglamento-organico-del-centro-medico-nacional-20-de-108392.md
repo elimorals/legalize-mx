@@ -1,0 +1,1278 @@
+---
+title: "REGLAMENTO ORGANICO DEL CENTRO MEDICO NACIONAL \"20 DE NOVIEMBRE\" DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO"
+identifier: "FED-reglamento-organico-del-centro-medico-nacional-20-de-108392"
+country: "mx"
+rank: "reglamento"
+publication_date: "2015-06-04"
+last_updated: "2015-06-04"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108392&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "108392"
+scjn_status: "VIGENTE"
+gazette: "Diario Oficial de la Federación"
+original_category: "REGLAMENTO"
+original_gazette_section: "4 QUINTA SECCION"
+reform_count: "0"
+scjn_last_update: "2015-06-04"
+issue_date: "2015-04-29"
+---
+# REGLAMENTO ORGANICO DEL CENTRO MEDICO NACIONAL "20 DE NOVIEMBRE" DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
+
+REGLAMENTO ORGÁNICO DEL CENTRO MÉDICO NACIONAL “20 DE NOVIEMBRE” DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
+
+TEXTO ORIGINAL.
+
+Reglamento publicado en la Quinta Sección del Diario Oficial de la Federación, el jueves 4 de junio de 2015.
+
+Al margen un logotipo, que dice: Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.- Secretaría General.- SG/0563/2015.
+
+LIC. SEBASTIÁN LERDO DE TEJADA C.
+
+Director General del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado
+
+Presente
+
+En sesión celebrada por la Junta Directiva el día 5 de marzo de 2015, al tratarse lo relativo a la aprobación del Reglamento Orgánico del Centro Médico Nacional “20 de Noviembre” del ISSSTE, se tomó el siguiente:
+
+ACUERDO 66.1349.2015.- “La Junta Directiva, con fundamento en los artículos 208, fracción IX, y 214, fracción VI, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 14, fracción I y 54 de su Estatuto Orgánico, por unanimidad, aprueba el
+
+REGLAMENTO ORGÁNICO DEL CENTRO MÉDICO NACIONAL “20 DE NOVIEMBRE” DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+###### Artículo 1.
+
+Este Reglamento tiene por objeto establecer la organización y el funcionamiento del Centro Médico Nacional “20 de Noviembre” del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, con la finalidad de cumplir con la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Estatuto Orgánico del Instituto y las demás normas aplicables.
+
+###### Artículo 2.
+
+El Centro Médico es el órgano desconcentrado del Instituto que tiene por objeto otorgar atención médica de alta especialidad a sus usuarios, con el más alto rango técnico, resolutivo y operativo del sistema de servicios de salud que opera el Instituto.
+
+###### Artículo 3.
+
+Este Reglamento es de observancia obligatoria para los servidores públicos del Centro Médico del Instituto.
+
+En el ejercicio de sus responsabilidades, atribuciones y funciones, los servidores públicos del Centro Médico deben promover, respetar y proteger los derechos humanos de los usuarios, consagrados en la Constitución Política de los Estados Unidos Mexicanos, bajo criterios de legalidad, honestidad, igualdad, transparencia, no discriminación e integridad. Asimismo, deben aplicar el principio pro persona e incorporar la Centralidad del Derechohabiente en sus procesos y actividades. Ello, con el propósito de que el Instituto ofrezca seguros, prestaciones y servicios de calidad, con oportunidad y calidez.
+
+Los servidores públicos del Centro Médico deben realizar sus actividades con una perspectiva de género que impulse la igualdad sustantiva entre los sexos sin discriminación.
+
+###### Artículo 4.
+
+Para los efectos de este Reglamento se entiende por:
+
+I. Atención de Alta Especialidad: el servicio médico que se presta con recursos humanos y tecnológicos especializados que no se encuentran disponibles en otro tipo de Unidad Médica ambulatoria y hospitalaria, mediante el cual se otorgan cuidados específicos para restablecer la salud o limitar el daño de sistemas, órganos o tejidos del paciente;
+
+II. Calidad: los estándares que deben observarse en la prestación de los seguros y servicios conforme a los principios establecidos por las normas oficiales mexicanas y las prácticas generalmente aceptadas por la comunidad científica;
+
+III. Calidez: el trato respetuoso, cordial, atento y con información suficiente que se debe proporcionar al Derechohabiente;
+
+IV. Centralidad del Derechohabiente: el criterio por el cual se reconoce que el Derechohabiente es la mayor prioridad institucional;
+
+V. Centro Médico: el Centro Médico Nacional “20 de Noviembre” del Instituto;
+
+VI. Consejo: el Consejo Directivo del Centro Médico;
+
+VII. Derechohabiente: los trabajadores, jubilados, pensionados y familiares derechohabientes señalados en las fracciones VIII y XII del artículo 6 de la Ley;
+
+VIII. Dirección: la Dirección del Centro Médico;
+
+IX. Director: el Director del Centro Médico;
+
+X. Director General: el Director General del Instituto;
+
+XI. Director Médico: el Director Médico del Instituto;
+
+XII. Estatuto Orgánico: el Estatuto Orgánico del Instituto;
+
+XIII. Instituto: el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+
+XIV. Insumos para la salud: los medicamentos, sustancias psicotrópicas, estupefacientes y las materias primas y aditivos que intervengan para su elaboración; así como los equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, material quirúrgico, de curación y productos higiénicos de acuerdo con el cuadro básico;
+
+XV. La Junta: la Junta Directiva del Instituto;
+
+XVI. Ley: la Ley del Instituto;
+
+XVII. No Derechohabiente: las personas que, mediante alguno de los mecanismos autorizados con base en la legislación o la normatividad institucional, reciben los servicios de atención médica que ofrece el Instituto, sin que tengan originalmente el derecho legal de recibirlos;
+
+XVIII. Oportunidad: brindar al Derechohabiente la atención cuando la requiere, realizar todas las acciones necesarias y aplicar los protocolos establecidos con la secuencia adecuada, conforme a los recursos disponibles;
+
+XIX. Órganos desconcentrados: las Unidades Administrativas Desconcentradas señaladas en la fracción III del artículo 5 del Estatuto Orgánico;
+
+XX. Órganos fiscalizadores: la Auditoría Superior de la Federación, la Secretaría de la Función Pública, el Órgano Interno de Control competente y el Auditor Externo;
+
+XXI. Posgrado: los estudios cursados de especialización, maestría y doctorado, una vez obtenido el grado de licenciatura;
+
+XXII. Pregrado: el último año de estudios de la licenciatura, hasta la obtención del grado académico;
+
+XXIII. Pro persona: el principio por el que las normas relativas a los derechos humanos se interpretan de conformidad con la Constitución Política de los Estados Unidos Mexicanos y con los tratados internacionales de la materia ratificados por México, que favorezca en todo tiempo a las personas la protección más amplia;
+
+XXIV. Reglamento: el Reglamento Orgánico del Centro Médico Nacional “20 de Noviembre” del Instituto;
+
+XXV. SNTISSSTE: el Sindicato Nacional de Trabajadores del ISSSTE;
+
+XXVI. Subdirector Médico: el Jefe de Servicios Médicos del Centro Médico;
+
+XXVII. Subdirector de Administración: el Jefe de Servicios Administrativos del Centro Médico;
+
+XXVIII. Unidades Administrativas: las señaladas en el artículo 5 del Estatuto Orgánico;
+
+XXIX. Unidades Administrativas Centrales: las Unidades Administrativas del Instituto, señaladas en la fracción II del artículo 5 del Estatuto Orgánico;
+
+XXX. Unidades Administrativas Desconcentradas: las Unidades Administrativas del Instituto, señaladas en la fracción III del artículo 5 del Estatuto Orgánico;
+
+XXXI. Unidades médicas: los consultorios auxiliares, unidades y clínicas de medicina familiar, clínicas de especialidades, clínicas hospital, hospitales generales, hospitales regionales y el Centro Médico Nacional “20 de Noviembre”; y
+
+XXXII. Usuarios: los trabajadores, pensionados, familiares derechohabientes, ex trabajadores en conservación de derechos, ex trabajadores en continuación voluntaria y No Derechohabientes que resulten beneficiarios de los servicios médicos que otorga el Centro Médico, así como sus acompañantes.
+
+Artículo 6 (SIC).- Los servidores públicos del Centro Médico deben responder de manera oportuna, fundada y motivada, las solicitudes ciudadanas en cumplimiento de lo establecido en el artículo octavo de la Constitución Política de los Estados Unidos Mexicanos, las que se les presenten en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y las que se les requiera para la atención de los asuntos de la Comisión Nacional de los Derechos Humanos. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables.
+
+###### Artículo 7.
+
+La Dirección, Jefaturas de Servicios, Departamentos y Coordinación Administrativa de Asuntos Jurídicos son auxiliados por el personal que les sea asignado, cuyas funciones se ajustan a la normatividad y en los términos que señale su superior jerárquico, para el cumplimiento adecuado de las funciones del Centro Médico.
+
+## TÍTULO SEGUNDO. DE LA ORGANIZACIÓN DEL CENTRO MÉDICO
+
+###### Artículo 8.
+
+El Centro Médico, para el cumplimiento de su objeto, cuenta con las siguientes áreas administrativas:
+
+I. Dirección;
+
+a) Departamento de Planeación; y
+
+b) Coordinación Administrativa de Asuntos Jurídicos.
+
+II. Jefatura de Servicios Médicos;
+
+a) Departamento de Cirugía;
+
+b) Departamento de Ginecología y Obstetricia;
+
+c) Departamento de Pediatría;
+
+d) Departamento de Servicios Modulares;
+
+e) Departamento de Servicios Auxiliares, Diagnóstico y Tratamiento;
+
+f) Departamento de Medicina; y
+
+g) Departamento de Servicios Paramédicos.
+
+III. Jefatura de Servicios de Enseñanza e Investigación;
+
+a) Departamento de Enseñanza; y
+
+b) Departamento de Investigación.
+
+IV. Jefatura de Servicios Administrativos;
+
+a) Departamento de Recursos Humanos;
+
+b) Departamento de Recursos Materiales y Financieros;
+
+c) Departamento de Mantenimiento y Servicios Generales;
+
+d) Departamento de Enlace Hospitalario; y
+
+e) Departamento de Informática.
+
+## TÍTULO TERCERO. DE LAS ATRIBUCIONES Y FUNCIONES DE LAS AUTORIDADES DEL CENTRO MÉDICO
+
+### CAPÍTULO PRIMERO. DEL CONSEJO DIRECTIVO DEL CENTRO MÉDICO
+
+###### Artículo 9.
+
+El Centro Médico cuenta con un Consejo, para que contribuya a su administración y funcionamiento.
+
+###### Artículo 10.
+
+El Consejo tiene las atribuciones previstas en el artículo 77 del Estatuto Orgánico.
+
+###### Artículo 11.
+
+El Consejo se integra por:
+
+I. Un Presidente, que es el Director General;
+
+II. Primer Vicepresidente, que es el Director Médico;
+
+III. Segundo Vicepresidente, que es el Director;
+
+IV. Un Secretario, que es el Jefe de Servicios Médicos del Centro Médico;
+
+V. Los Vocales, que son:
+
+a) El Secretario General del Instituto;
+
+b) El Director de Administración del Instituto;
+
+c) El Director de Finanzas del Instituto;
+
+d) El Director de Delegaciones del Instituto;
+
+e) El Jefe de Servicios Administrativos del Centro Médico;
+
+f) El Jefe de Servicios de Enseñanza e Investigación del Centro Médico; y
+
+g) Dos representantes del SNTISSSTE.
+
+VI. Los Invitados Permanentes, que son:
+
+a) El Director Jurídico del Instituto;
+
+b) El Secretario Técnico de la Comisión de Vigilancia del Instituto;
+
+c) El Titular del Órgano Interno de Control en el ISSSTE;
+
+d) El Subdirector de Regulación y de Atención Hospitalaria de la Dirección Médica del Instituto; y
+
+e) La Coordinación de Asesores de la Dirección Médica del Instituto.
+
+Los integrantes del Consejo cuentan con voz y voto, con excepción del Secretario y los Invitados Permanentes, quienes solamente cuentan con voz.
+
+Pueden participar además invitados especiales, que son personas de carácter público, privado o social, cuya presencia se estima necesaria para el desahogo de los asuntos a tratar y que solo tienen voz.
+
+###### Artículo 12.
+
+Los integrantes del Consejo son suplidos en sus ausencias de conformidad con lo siguiente:
+
+I. El Presidente, por el Director Médico;
+
+II. El Primer Vicepresidente, por el Segundo Vicepresidente;
+
+III. El Segundo Vicepresidente, por el Jefe de Servicios Médicos del Centro Médico;
+
+IV. El Secretario, por el Jefe de Servicios Administrativos del Centro Médico;
+
+V. Los Vocales, por aquellos servidores públicos de nivel jerárquico inmediato inferior que cada titular designe; y
+
+VI. Los Invitados Permanentes, por el servidor público que cada titular designe.
+
+###### Artículo 13.
+
+Los integrantes del Consejo tienen las siguientes funciones:
+
+A. Del Presidente:
+
+I. Presidir las sesiones del Consejo;
+
+II. Autorizar el orden del día de las sesiones, a propuesta del Primer Vicepresidente;
+
+III. Autorizar los proyectos de convocatoria que se le presenten, y convocar a las sesiones respectivas, por conducto del Primer Vicepresidente;
+
+IV. Someter a consideración del Consejo el orden del día de la sesión respectiva, así como los proyectos de acuerdos que se presenten, para su aprobación;
+
+V. Autorizar el calendario de sesiones ordinarias, y someterlo a consideración del Consejo, durante la última sesión de cada año, para su aprobación;
+
+VI. Autorizar la celebración de sesiones extraordinarias;
+
+VII. Autorizar la participación de Invitados Especiales en las sesiones;
+
+VIII. Proponer al Consejo la integración e instalación de grupos de trabajo o comisiones para apoyar al cumplimiento de sus atribuciones y acuerdos; y
+
+IX. Realizar las demás que deriven de la naturaleza de sus funciones.
+
+B. Del Primer Vicepresidente:
+
+I. Proponer al Presidente el orden del día de las sesiones;
+
+II. Comunicar al Presidente las áreas de oportunidad para mejorar el funcionamiento del Consejo, que le propongan los Vocales e integrantes del Consejo;
+
+III. Solicitar al Presidente, en caso de considerarlo necesario, la celebración de sesiones extraordinarias;
+
+IV. Proponer al Presidente, la participación de Invitados Especiales en las sesiones del Consejo. Puede opinar sobre las solicitudes de participación que se presenten;
+
+V. Proponer al Presidente el calendario de sesiones ordinarias elaborado por el Secretario;
+
+VI. Someter a consideración del Presidente los proyectos de convocatoria que elabore el Secretario; y
+
+VII. Realizar las demás que deriven de la naturaleza de sus funciones.
+
+C. Del Segundo Vicepresidente:
+
+I. Determinar en coordinación con el Primer Vicepresidente los asuntos a tratar en las sesiones;
+
+II. Informar al Primer Vicepresidente, oportunamente, el avance de los acuerdos de las sesiones del Consejo;
+
+III. Proponer al Presidente, la participación de Invitados Especiales en las sesiones del Consejo. Puede opinar sobre las solicitudes de participación que se presenten;
+
+IV. Proponer al Presidente el calendario de sesiones ordinarias elaborado por el Secretario;
+
+V. Someter a consideración del Presidente los proyectos de convocatoria que elabore el Secretario; y
+
+VI. Realizar las demás que deriven de la naturaleza de sus funciones.
+
+D. Del Secretario:
+
+I. Integrar en el orden del día de las sesiones los asuntos propuestos por los Vocales, y someterlo a consideración del Primer Vicepresidente, para su posterior autorización por el Presidente;
+
+II. Elaborar los proyectos de convocatoria de las sesiones, para que, por conducto del Primer Vicepresidente, se sometan a la autorización del Presidente del Consejo;
+
+III. Coordinar la preparación e integración de las carpetas electrónicas para las sesiones;
+
+IV. Enviar a los integrantes del Consejo, a través de medios electrónicos, la convocatoria, el orden del día y las carpetas electrónicas de los asuntos a tratar en las sesiones, por lo menos con cinco días hábiles de anticipación a las sesiones ordinarias, y con veinticuatro horas de anticipación a las extraordinarias;
+
+V. Verificar la existencia del quórum durante las sesiones;
+
+VI. Registrar, vigilar y dar seguimiento al cumplimiento de los acuerdos del Consejo e integrar los informes que le solicite el Segundo Vicepresidente;
+
+VII. Comunicar a los integrantes del Consejo, dentro de los cinco días hábiles siguientes a la celebración de la sesión respectiva, los acuerdos aprobados;
+
+VIII. Elaborar el acta de las sesiones celebradas por el Consejo y formalizar su suscripción;
+
+IX. Asesorar a los integrantes para contribuir al mejor funcionamiento de las sesiones del Consejo;
+
+X. Solicitar al Presidente la participación de Invitados Especiales en las sesiones del Consejo;
+
+XI. Elaborar el calendario de sesiones del Consejo; y
+
+XII. Realizar las demás que deriven de la naturaleza de sus funciones.
+
+E. De los Vocales:
+
+I. Asistir a las sesiones;
+
+II. Enviar al Secretario asuntos para la integración del orden del día y la documentación necesaria para el desahogo de los mismos;
+
+III. Informar mensualmente al Segundo Vicepresidente y al Secretario sobre el avance del cumplimiento de los acuerdos a su cargo, con excepción del Secretario General del Instituto;
+
+IV. Solicitar al Presidente, en caso de considerarlo necesario, la celebración de sesiones extraordinarias;
+
+V. Solicitar al Presidente la participación de Invitados Especiales en las sesiones del Consejo; y
+
+VI. Realizar las demás que deriven de la naturaleza de sus funciones.
+
+F. De los Invitados Permanentes y especiales:
+
+I. Opinar sobre los asuntos que se presenten en las sesiones; y
+
+II. Realizar las demás que deriven de la naturaleza de sus funciones.
+
+###### Artículo 14.
+
+El Consejo se reúne por lo menos cuatro veces al año y puede celebrar las sesiones extraordinarias que se requieran para atender los asuntos de su competencia.
+
+Para la celebración de las sesiones del Consejo, se requiere la presencia de la mitad más uno de los integrantes con derecho a voto, así como de algún servidor público facultado para presidir la sesión. El Consejo celebra sus sesiones de conformidad con lo siguiente:
+
+I. El Presidente, el Primer Vicepresidente, el Segundo Vicepresidente y los Vocales tienen derecho a voz y voto;
+
+II. El Secretario y los Invitados sólo tienen voz;
+
+III. Los acuerdos y las decisiones se aprueban por mayoría de votos;
+
+IV. En caso de empate en las votaciones, el Presidente tiene voto de calidad;
+
+V. Los cargos del Consejo son honoríficos; y
+
+VI. El Consejo sesiona en las instalaciones del Centro Médico y puede cambiar de sede por acuerdo del Presidente, que debe ser comunicado a los integrantes del Consejo con cinco días de anticipación a la sesión en el caso de las sesiones ordinarias y de cuarenta y ocho horas en el caso de las extraordinarias. Para este fin, puede hacerse uso de medios electrónicos.
+
+### CAPÍTULO SEGUNDO. DEL DIRECTOR DEL CENTRO MÉDICO
+
+###### Artículo 15.
+
+El Director del Centro Médico es nombrado o removido por la Junta a propuesta del Director General y tiene las funciones previstas en el Estatuto Orgánico. Asimismo, tiene las siguientes:
+
+I. Dirigir y supervisar el otorgamiento de los servicios médicos de alta especialidad del Centro Médico, para promover y garantizar que éstos se otorguen con oportunidad, calidad, calidez y con absoluto respeto a los derechos humanos de los usuarios;
+
+II. Dirigir y supervisar el cumplimiento de los programas académicos acordados entre las instituciones de educación superior y el Instituto para la formación de recursos humanos en salud, así como para la capacitación y desarrollo del personal del Centro Médico;
+
+III. Dirigir y supervisar la organización y ejecución de los estudios, investigaciones médicas y actividades asociadas que, de conformidad con las directrices que establezca la Dirección Médica del Instituto, se lleven a cabo en el Centro Médico;
+
+IV. Dirigir y supervisar la planeación, organización, coordinación y control de los recursos humanos, financieros y materiales, así como los servicios generales del Centro Médico con eficiencia, eficacia, economía, transparencia y honradez;
+
+V. Planear, dirigir y supervisar el proceso de abasto de insumos para la salud, en atención a las necesidades del Centro Médico y su presupuesto anual autorizado;
+
+VI. Dirigir la participación del Centro Médico en la interrelación con el resto de las unidades médicas, de conformidad con lo previsto en las disposiciones reglamentarias para la regionalización de los servicios de salud del Instituto que emita la Junta;
+
+VII. Presentar propuestas al Consejo para simplificar los procesos médico-administrativos, con la finalidad de incrementar la oportunidad, eficiencia, calidad y calidez en la prestación de los servicios médicos;
+
+VIII. Coordinar la integración del anteproyecto del programa operativo anual y del anteproyecto anual de presupuesto del Centro Médico y sus modificaciones, y presentarlos al Consejo para su aprobación;
+
+IX. Ejecutar, a través de la Coordinación Administrativa de Asuntos Jurídicos, con apoyo de la Subdirección de lo Contencioso de la Dirección Jurídica del Instituto, los actos judiciales extrajudiciales y administrativos necesarios para el ejercicio, defensa y cumplimiento de sus funciones, de conformidad con los poderes otorgados, así como dar seguimiento a dichos actos;
+
+X. Responder o atender, en los tiempos establecidos, las solicitudes o peticiones que se le presenten en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental o con fundamento en el artículo octavo constitucional y las que se les requiera para la atención de los asuntos de la Comisión Nacional de los Derechos Humanos. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XI. Coordinar la integración y presentar, en los tiempos establecidos, la documentación e información que le soliciten los órganos de gobierno y las Unidades Administrativas del Instituto, el Consejo y los Órganos fiscalizadores. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XII. Dirigir y supervisar el proceso de certificación de los documentos que obren en poder del Centro Médico, y expedir las constancias que se requieran en las materias de su competencia; y
+
+XIII. Realizar las demás funciones que le confieran los órganos de gobierno y las Unidades Administrativas del Instituto, el Consejo y la normativa aplicable.
+
+###### Artículo 16.
+
+En caso de que el Centro Médico no cuente con un titular, el Director General puede nombrar un encargado para que atienda temporalmente los asuntos de esta unidad médico administrativa, hasta en tanto la Junta realice la designación que corresponda.
+
+Cuando se nombre a un encargado del despacho, la Dirección Jurídica del Instituto, previa solicitud que formule la Dirección Médica del Instituto, puede gestionar un poder notarial que atienda a las características del caso.
+
+###### Artículo 17.
+
+El Director será suplido en sus ausencias por el Subdirector Médico o por el Subdirector de Administración, en el orden indicado.
+
+#### SECCIÓN PRIMERA. Del Jefe de Departamento de Planeación
+
+###### Artículo 18.
+
+El Jefe de Departamento de Planeación tiene las funciones siguientes:
+
+I. Diseñar, con la información que obtenga de las jefaturas de servicios y de los demás departamentos adscritos a la Dirección, el anteproyecto del programa operativo anual y presentarlo a la Dirección;
+
+II. Difundir, coordinar y evaluar el cumplimiento de los programas sectoriales, del programa operativo anual, así como de los demás programas que autorice el Director;
+
+III. Coordinar y verificar la integración de informes estadísticos y estudios sobre los resultados de las evaluaciones que se efectúen sobre el cumplimiento de los programas internos, institucionales y sectoriales, con la finalidad de proporcionar al Director las herramientas suficientes para la toma de decisiones;
+
+IV. Asesorar a las áreas administrativas del Centro Médico en el diseño de programas y en materia de evaluación hospitalaria, de conformidad con la normativa aplicable;
+
+V. Instrumentar las evaluaciones que determine el Consejo, en coordinación con las jefaturas de servicios del Centro Médico;
+
+VI. Elaborar propuestas, en coordinación con las áreas del Centro Médico, para simplificar los procesos médico-administrativos, con la finalidad de incrementar la oportunidad, la eficiencia, la calidad y la calidez en la prestación de los servicios médicos;
+
+VII. Determinar periódicamente las necesidades de recursos materiales y humanos, así como de capacitación de personal para el eficiente otorgamiento de los servicios a su cargo, y comunicarlas al Jefe de Servicios Administrativos;
+
+VIII. Poner en práctica, en el ámbito de su competencia, la verificación y evaluación de la integración y cuidado de los expedientes a su cargo, ya sean electrónicos o físicos, y garantizar la seguridad de la información contenida en ellos, de conformidad con la normativa aplicable;
+
+IX. Responder o atender, en los tiempos establecidos, las solicitudes o peticiones que se le presenten en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental o con fundamento en el artículo octavo constitucional y las que se les requiera para la atención de los asuntos de la Comisión Nacional de los Derechos Humanos. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+X. Integrar y presentar, en los tiempos establecidos, la documentación e información que le soliciten los órganos de gobierno y las Unidades Administrativas del Instituto, el Consejo, los Órganos fiscalizadores y su superior jerárquico. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XI. Generar las acciones necesarias para la certificación de los documentos que obren en poder del Centro Médico y para la expedición de las constancias que se requieran en las materias de su competencia; y
+
+XII. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+
+###### Artículo 19.
+
+El Jefe de Departamento de Planeación será suplido en sus ausencias por quien determine el superior jerárquico.
+
+#### SECCIÓN SEGUNDA. Del Coordinador Administrativo de Asuntos Jurídicos
+
+###### Artículo 20.
+
+El Coordinador Administrativo de Asuntos Jurídicos tiene las funciones siguientes:
+
+I. Representar al Instituto para su defensa jurídica en todo tipo de gestiones jurisdiccionales que involucren al Centro Médico, ante todo tipo de autoridades laborales, ya sean federales o locales, en términos de los poderes otorgados. Debe hacerlo con base en las disposiciones y directrices de la Dirección Jurídica del Instituto, en términos de lo establecido en el Estatuto Orgánico;
+
+II. Remitir, de manera pronta y oportuna, los juicios y diligencias en materia civil y administrativa en los que esté involucrado el Centro Médico a la Subdirección de lo Contencioso de la Dirección Jurídica del Instituto, para su atención;
+
+III. Remitir, de manera pronta y oportuna, las quejas y juicios médico-legales que se interpongan en contra de los actos del Centro Médico a la Subdirección de lo Contencioso de la Dirección Jurídica del Instituto, para su atención;
+
+IV. Contribuir, con la Subdirección de lo Contencioso de la Dirección Jurídica del Instituto, en la atención de los juicios y diligencias médico-legales, civiles y administrativas, en los que se encuentre involucrado el Centro Médico;
+
+V. Asesorar jurídicamente a las autoridades del Centro Médico para procurar que sus actos se realicen con apego al marco normativo aplicable;
+
+VI. Asesorar al Departamento de Recursos Humanos respecto de las investigaciones administrativas laborales que se lleven a cabo, con motivo de posibles faltas administrativas y reportes de inasistencia del personal del Centro Médico;
+
+VII. Promover y supervisar el cumplimiento de las disposiciones normativas y procedimientos institucionales;
+
+VIII. Revisar que los procedimientos médicos y de investigación se encuentren dentro del marco de la ética médica y la observancia de los derechos humanos;
+
+IX. Integrar y remitir al Departamento de Planeación la información que le solicite para la integración del anteproyecto del programa operativo anual del Centro Médico;
+
+X. Determinar periódicamente las necesidades de recursos materiales y humanos, así como de capacitación de personal para el eficiente otorgamiento de los servicios a su cargo, y comunicarlas al Jefe de Servicios Administrativos;
+
+XI. Poner en práctica, en el ámbito de su competencia, la verificación y evaluación de la integración y cuidado de los expedientes a su cargo, ya sean electrónicos o físicos, y garantizar la seguridad de la información contenida en ellos, de conformidad con la normativa aplicable;
+
+XII. Responder o atender, en los tiempos establecidos, las solicitudes o peticiones que se le presenten en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental o con fundamento en el artículo octavo constitucional y las que se les requiera para la atención de los asuntos de la Comisión Nacional de los Derechos Humanos. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XIII. Integrar y presentar, en los tiempos establecidos, la documentación e información que le soliciten los órganos de gobierno y las Unidades Administrativas del Instituto, el Consejo, los Órganos fiscalizadores y su superior jerárquico. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XIV. Realizar las acciones necesarias para la certificación de los documentos que obren en poder del Centro Médico y para la expedición de las constancias que se requieran en las materias de su competencia; y
+
+XV. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+
+###### Artículo 21.
+
+El Coordinador Administrativo de Asuntos Jurídicos será suplido en sus ausencias por quien determine el superior jerárquico.
+
+### CAPÍTULO TERCERO. DEL JEFE DE SERVICIOS MÉDICOS DEL CENTRO MÉDICO
+
+###### Artículo 22.
+
+El Jefe de Servicios Médicos es nombrado o removido por el Director General, previa propuesta del Director.
+
+###### Artículo 23.
+
+El Jefe de Servicios Médicos tiene las siguientes funciones:
+
+I. Dirigir, controlar y supervisar el otorgamiento de los servicios médicos de alta especialidad del Centro Médico y garantizar que éstos se otorguen con oportunidad, calidad y calidez, y con absoluto respeto a los derechos humanos de los usuarios;
+
+II. Supervisar el cumplimiento de los estándares de productividad quirúrgica, de atención especializada, hospitalización, consulta externa y servicio de urgencias, de acuerdo con la capacidad instalada, a efecto de evitar el rezago;
+
+III. Supervisar el trato que reciben los usuarios en la atención médica, así como promover y dirigir las acciones que se autoricen o que sean aplicables en materia de atención al Derechohabiente;
+
+IV. Coordinar la integración de programas, criterios médicos y técnicos para garantizar la debida prestación de los servicios médicos del Centro Médico, y presentarlos al Director para su autorización;
+
+V. Dirigir, dar seguimiento y supervisar los servicios de telemedicina, así como el proceso de referencia y contrarreferencia de conformidad con la normatividad aplicable;
+
+VI. Establecer un sistema para el manejo y control de las libretas de licencias médicas y de recetas médicas del Instituto, así como verificar el adecuado uso que se haga de estos instrumentos administrativos por parte del personal a su cargo;
+
+VII. Promover y supervisar el cumplimiento de las disposiciones normativas, programas, procedimientos y protocolos de atención médica en el otorgamiento de los servicios médicos del Centro Médico;
+
+VIII. Dirigir y controlar la operación de los departamentos y del personal a su cargo;
+
+IX. Integrar y remitir al Departamento de Planeación la información que se solicite para la integración del anteproyecto del programa operativo anual del Centro Médico;
+
+X. Integrar periódicamente las necesidades de insumos para la salud y recursos materiales y humanos para el eficiente otorgamiento de los servicios a su cargo y comunicarlas al Jefe de Servicios Administrativos para su gestión;
+
+XI. Integrar periódicamente las necesidades de capacitación del personal a su cargo y comunicarlas al Jefe de Servicios de Enseñanza e Investigación para su gestión;
+
+XII. Dirigir, en el ámbito de su competencia, la verificación y evaluación de la integración y cuidado de los expedientes clínicos de las coordinaciones a su cargo, ya sean electrónicos o físicos, y garantizar la seguridad de la información contenida en ellos, de conformidad con la normativa aplicable. En particular, en el caso del expediente clínico, se debe cumplir con la NOM-004-SSA3- 2012 del expediente clínico o la que, en el futuro la sustituya. Asimismo, supervisar que se recabe el consentimiento informado de pacientes o familiares, según el caso, y que se documente e integre al expediente clínico;
+
+XIII. Responder o atender, en los tiempos establecidos, las solicitudes o peticiones que se le presenten en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental o con fundamento en el artículo octavo constitucional y las que se les requiera para la atención de los asuntos de la Comisión Nacional de los Derechos Humanos. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XIV. Coordinar la integración y presentar, en los tiempos establecidos, la documentación e información que le soliciten los órganos de gobierno y las Unidades Administrativas del Instituto, el Consejo, los Órganos fiscalizadores y su superior jerárquico. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XV. Coordinar y verificar el proceso de certificación de los documentos que obren en poder del Centro Médico, y expedir las constancias que se requieran en las materias de su competencia; y
+
+XVI. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+
+###### Artículo 24.
+
+El Jefe de Servicios Médicos será suplido en sus ausencias por quien determine el superior jerárquico.
+
+#### SECCIÓN PRIMERA. Del Jefe de Departamento de Cirugía
+
+###### Artículo 25.
+
+El Jefe de Departamento de Cirugía tiene las siguientes funciones:
+
+I. Coordinar, programar y verificar la prestación de los servicios de cirugía del Centro Médico, con la finalidad de que éstos se otorguen con oportunidad, calidad y calidez, así como con absoluto respeto a los derechos humanos de los usuarios;
+
+II. Promover permanentemente y verificar el cumplimiento de las disposiciones normativas y programas, así como el seguimiento de procedimientos, protocolos y criterios médicos y técnicos, con la finalidad de garantizar la debida prestación de los servicios médicos en materia de cirugía del Centro Médico;
+
+III. Coordinar y controlar los servicios de telemedicina, así como el proceso de referencia y contrarreferencia, en el ámbito de su competencia de conformidad con la normatividad aplicable;
+
+IV. Poner en práctica y dar seguimiento al sistema para el manejo y control de las libretas de licencias médicas y de recetas médicas, así como verificar el adecuado uso que se haga de estos instrumentos administrativos por parte del personal a su cargo;
+
+V. Estandarizar la gestión de los servicios de cirugía, mediante la puesta en práctica de procedimientos y protocolos de atención médica con apego a la normativa aplicable;
+
+VI. Verificar el trato que reciben los usuarios en los servicios de cirugía, así como promover y aplicar las acciones que se autoricen o que sean aplicables en materia de atención al Derechohabiente;
+
+VII. Enviar a la Jefatura de Servicios Médicos la información que le solicite para la integración del anteproyecto del programa operativo anual del Centro Médico;
+
+VIII. Participar en la detección de necesidades de insumos para la salud, recursos materiales y humanos, así como de capacitación de personal para el eficiente y adecuado otorgamiento de los servicios de cirugía y comunicarlas al Jefe de Servicios Médicos;
+
+IX. Verificar que se lleve a cabo el mantenimiento de equipo e instalaciones del área a su cargo; reportar, a la Dirección de Administración del Instituto, y documentar los siniestros que ocurran, de acuerdo con las condiciones de las pólizas de aseguramiento contratadas;
+
+X. Poner en práctica, en el ámbito de su competencia, la verificación y evaluación de la integración y cuidado de los expedientes clínicos a su cargo, ya sean electrónicos o físicos, y garantizar la seguridad de la información contenida en ellos, de conformidad con la normativa aplicable. En particular, en el caso del expediente clínico, se debe cumplir con la NOM-004-SSA3-2012, del expediente clínico o la que, en el futuro la sustituya. Asimismo, supervisar que se recabe el consentimiento informado de pacientes o familiares, según el caso, y que se documente e integre al expediente clínico;
+
+XI. Responder o atender, en los tiempos establecidos, las solicitudes o peticiones que se le presenten en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental o con fundamento en el artículo octavo constitucional y las que se les requiera para la atención de los asuntos de la Comisión Nacional de los Derechos Humanos. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XII. Integrar y presentar, en los tiempos establecidos, la documentación e información que le soliciten los órganos de gobierno y las Unidades Administrativas del Instituto, el Consejo, los Órganos fiscalizadores y su superior jerárquico. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XIII. Generar las acciones necesarias para la certificación de los documentos que obren en poder del Centro Médico y para la expedición de las constancias que se requieran en las materias de su competencia; y
+
+XIV. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+
+###### Artículo 26.
+
+El Jefe de Departamento de Cirugía será suplido en sus ausencias por quien determine el superior jerárquico.
+
+#### SECCIÓN SEGUNDA. Del Jefe de Departamento de Ginecología y Obstetricia
+
+###### Artículo 27.
+
+El Jefe de Departamento de Ginecología y Obstetricia tiene las siguientes funciones:
+
+I. Coordinar, programar y verificar la prestación de los servicios de ginecología y obstetricia del Centro Médico, con la finalidad de que éstos se otorguen con oportunidad, calidad y calidez, así como con absoluto respeto a los derechos humanos de los usuarios;
+
+II. Promover permanentemente y verificar el cumplimiento de las disposiciones normativas y programas, así como el seguimiento de procedimientos, protocolos y criterios médicos y técnicos, con la finalidad de garantizar la debida prestación de los servicios médicos en materia de ginecología y obstetricia del Centro Médico;
+
+III. Coordinar y controlar los servicios de telemedicina, así como el proceso de referencia y contrarreferencia, en el ámbito de su competencia de conformidad con la normatividad aplicable;
+
+IV. Poner en práctica y dar seguimiento al sistema para el manejo y control de las libretas de licencias médicas y de recetas médicas, así como verificar el adecuado uso que se haga de estos instrumentos administrativos por parte del personal a su cargo;
+
+V. Estandarizar la gestión de los servicios de materno-fetal, ginecología y reproducción humana, mediante la puesta en práctica de procedimientos y protocolos de atención médica con apego a la normativa aplicable;
+
+VI. Verificar el trato que reciben los usuarios en los servicios de ginecología y obstetricia, así como promover y aplicar las acciones que se autoricen o que sean aplicables en materia de atención al Derechohabiente;
+
+VII. Enviar a la Jefatura de Servicios Médicos la información que le solicite para la integración del anteproyecto del programa operativo anual del Centro Médico;
+
+VIII. Participar en la detección de necesidades de insumos para la salud, recursos materiales y humanos, así como de capacitación de personal para el eficiente y adecuado otorgamiento de los servicios de ginecología y obstetricia y comunicarlas al Jefe de Servicios Médicos;
+
+IX. Verificar que se lleve a cabo el mantenimiento de equipo e instalaciones del área a su cargo; reportar, a la Dirección de Administración del Instituto, y documentar los siniestros que ocurran, de acuerdo con las condiciones de las pólizas de aseguramiento contratadas;
+
+X. Poner en práctica, en el ámbito de su competencia, la verificación y evaluación de la integración y cuidado de los expedientes clínicos a su cargo, ya sean electrónicos o físicos, y garantizar la seguridad de la información contenida en ellos, de conformidad con la normativa aplicable. En particular, en el caso del expediente clínico, se debe cumplir con la NOM-004-SSA3-2012 del expediente clínico o la que, en el futuro la sustituya. Asimismo, supervisar que se recabe el consentimiento informado de pacientes o familiares, según el caso, y que se documente e integre al expediente clínico;
+
+XI. Responder o atender, en los tiempos establecidos, las solicitudes o peticiones que se le presenten en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental o con fundamento en el artículo octavo constitucional y las que se les requiera para la atención de los asuntos de la Comisión Nacional de los Derechos Humanos. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XII. Integrar y presentar, en los tiempos establecidos, la documentación e información que le soliciten los órganos de gobierno y las Unidades Administrativas del Instituto, el Consejo, los Órganos fiscalizadores y su superior jerárquico. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XIII. Generar las acciones necesarias para la certificación de los documentos que obren en poder del Centro Médico y para la expedición de las constancias que se requieran en las materias de su competencia; y
+
+XIV. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+
+###### Artículo 28.
+
+El Jefe de Departamento de Ginecología y Obstetricia será suplido en sus ausencias por quien determine el superior jerárquico.
+
+#### SECCIÓN TERCERA. Del Jefe de Departamento de Pediatría
+
+###### Artículo 29.
+
+El Jefe de Departamento de Pediatría tiene las siguientes funciones:
+
+I. Coordinar, programar y verificar la prestación de los servicios de pediatría del Centro Médico, con la finalidad de que éstos se otorguen con oportunidad, calidad y calidez, así como con absoluto respeto a los derechos humanos de los usuarios;
+
+II. Promover permanentemente y verificar el cumplimiento de las disposiciones normativas y programas, así como el seguimiento de procedimientos, protocolos y criterios médicos y técnicos, con la finalidad de garantizar la debida prestación de los servicios médicos en materia de pediatría del Centro Médico;
+
+III. Coordinar la puesta en práctica y evaluar el desarrollo de los programas de detección y control de enfermedades genéticas, mediante técnicas y metodologías avanzadas;
+
+IV. Coordinar y controlar los servicios de telemedicina, así como el proceso de referencia y contrarreferencia, en el ámbito de su competencia, de conformidad con la normatividad aplicable;
+
+V. Poner en práctica y dar seguimiento al sistema para el manejo y control de las libretas de licencias médicas y de recetas médicas, así como verificar el adecuado uso que se haga de estos instrumentos administrativos por parte del personal a su cargo;
+
+VI. Estandarizar la gestión de los servicios de pediatría, mediante la puesta en práctica de procedimientos y protocolos de atención médica con apego a la normativa aplicable;
+
+VII. Verificar el trato que reciben los usuarios en los servicios de pediatría, así como promover y aplicar las acciones que se autoricen o que sean aplicables en materia de atención al Derechohabiente;
+
+VIII. Enviar a la Jefatura de Servicios Médicos la información que le solicite para la integración del anteproyecto del programa operativo anual del Centro Médico;
+
+IX. Participar en la detección de necesidades de insumos para la salud, recursos materiales y humanos, así como de capacitación de personal para el eficiente y adecuado otorgamiento de los servicios de pediatría, y comunicarlas al Jefe de Servicios Médicos;
+
+X. Verificar que se lleve a cabo el mantenimiento de equipo e instalaciones del área a su cargo; reportar, a la Dirección de Administración del Instituto, y documentar los siniestros que ocurran, de acuerdo con las condiciones de las pólizas de aseguramiento contratadas;
+
+XI. Poner en práctica, en el ámbito de su competencia, la verificación y evaluación de la integración y cuidado de los expedientes clínicos a su cargo, ya sean electrónicos o físicos, y garantizar la seguridad de la información contenida en ellos, de conformidad con la normativa aplicable. En particular, en el caso del expediente clínico, se debe cumplir con la NOM-004-SSA3-2012 del expediente clínico o la que, en el futuro la sustituya. Asimismo, supervisar que se recabe el consentimiento informado de pacientes o familiares, según el caso, y que se documente e integre al expediente clínico;
+
+XII. Responder o atender, en los tiempos establecidos, las solicitudes o peticiones que se le presenten en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental o con fundamento en el artículo octavo constitucional y las que se les requiera para la atención de los asuntos de la Comisión Nacional de los Derechos Humanos. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XIII. Integrar y presentar, en los tiempos establecidos, la documentación e información que le soliciten los órganos de gobierno y las Unidades Administrativas del Instituto, el Consejo, los Órganos fiscalizadores y su superior jerárquico. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XIV. Generar las acciones necesarias para la certificación de los documentos que obren en poder del Centro Médico y para la expedición de las constancias que se requieran en las materias de su competencia; y
+
+XV. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+
+###### Artículo 30.
+
+El Jefe de Departamento de Pediatría será suplido en sus ausencias por quien determine el superior jerárquico.
+
+#### SECCIÓN CUARTA. Del Jefe de Departamento de Servicios Modulares
+
+###### Artículo 31.
+
+El Jefe de Departamento de Servicios Modulares tiene las siguientes funciones:
+
+I. Coordinar, programar y verificar la prestación de los servicios de alta especialidad en el campo de las neurociencias, cardiología, trasplantes y padecimientos neuroplásticos, con la finalidad de que éstos se otorguen con oportunidad, calidad y calidez, así como con absoluto respeto a los derechos humanos de los usuarios;
+
+II. Promover permanentemente y verificar el cumplimiento de las disposiciones normativas y programas, así como el seguimiento de procedimientos, protocolos y criterios médicos y técnicos, para otorgar la debida prestación de los servicios médicos del Centro Médico;
+
+III. Evaluar los programas y servicios a su cargo, a fin de identificar las áreas de oportunidad a efecto de aplicar las mejoras y medidas de control necesarias;
+
+IV. Coordinar y controlar los servicios de telemedicina, así como el proceso de referencia y contrarreferencia, en el ámbito de su competencia, de conformidad con la normatividad aplicable;
+
+V. Poner en práctica y dar seguimiento al sistema para el manejo y control de las libretas de licencias médicas y de recetas médicas, así como verificar el adecuado uso que se haga de estos instrumentos administrativos por parte del personal a su cargo;
+
+VI. Estandarizar la gestión de los servicios modulares, mediante la puesta en práctica de procedimientos y protocolos de atención médica con apego a la normativa aplicable;
+
+VII. Verificar el trato que reciben los usuarios en los servicios modulares, así como promover y aplicar las acciones que se autoricen o que sean aplicables en materia de atención al Derechohabiente;
+
+VIII. Enviar a la Jefatura de Servicios Médicos la información que le solicite para la integración del anteproyecto del programa operativo anual del Centro Médico;
+
+IX. Participar en la detección de necesidades de insumos para la salud, recursos materiales y humanos, así como de enseñanza y capacitación de personal para el eficiente y adecuado otorgamiento de los servicios modulares y comunicarlas al Jefe de Servicios Médicos;
+
+X. Promover la realización de estudios de factibilidad, a fin de identificar las necesidades de equipo de tecnología de punta y proponer su adquisición, para la mejora de los servicios modulares;
+
+XI. Verificar que se lleve a cabo el mantenimiento de equipo e instalaciones del área a su cargo; reportar, a la Dirección de Administración del Instituto, y documentar los siniestros que ocurran, de acuerdo con las condiciones de las pólizas de aseguramiento contratadas;
+
+XII. Poner en práctica, en el ámbito de su competencia, la verificación y evaluación de la integración y cuidado de los expedientes clínicos a su cargo, ya sean electrónicos o físicos, y garantizar la seguridad de la información contenida en ellos, de conformidad con la normativa aplicable. En particular, en el caso del expediente clínico, se debe cumplir con la NOM-004-SSA3-2012 del expediente clínico o la que, en el futuro la sustituya. Asimismo, supervisar que se recabe el consentimiento informado de pacientes o familiares, según el caso, y que se documente e integre al expediente clínico;
+
+XIII. Responder o atender, en los tiempos establecidos, las solicitudes o peticiones que se le presenten en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental o con fundamento en el artículo octavo constitucional y las que se les requiera para la atención de los asuntos de la Comisión Nacional de los Derechos Humanos. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XIV. Integrar y presentar, en los tiempos establecidos, la documentación e información que le soliciten los órganos de gobierno y las Unidades Administrativas del Instituto, el Consejo, los Órganos fiscalizadores y su superior jerárquico. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XV. Generar las acciones necesarias para la certificación de los documentos que obren en poder del Centro Médico y para la expedición de las constancias que se requieran en las materias de su competencia; y
+
+XVI. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+
+###### Artículo 32.
+
+El Jefe de Departamento de Servicios Modulares será suplido en sus ausencias por quien determine el superior jerárquico.
+
+#### SECCIÓN QUINTA. Del Jefe de Departamento de Servicios Auxiliares, Diagnóstico y Tratamiento
+
+###### Artículo 33.
+
+El Jefe de Departamento de Servicios Auxiliares, Diagnóstico y Tratamiento tiene las siguientes funciones:
+
+I. Coordinar, programar y verificar la prestación de los servicios auxiliares de diagnóstico y tratamiento del Centro Médico, con la finalidad de que éstos se otorguen con oportunidad, calidad y calidez, así como con absoluto respeto a los derechos humanos de los usuarios;
+
+II. Promover permanentemente y verificar el cumplimiento de las disposiciones normativas y programas, así como el seguimiento de procedimientos, protocolos y criterios médicos y técnicos, con la finalidad de garantizar la debida prestación de los servicios médicos en materia de diagnóstico y tratamiento del Centro Médico;
+
+III. Llevar a cabo las acciones necesarias para mantener vigentes los avisos de responsable, licencias de funcionamiento y las licencias sanitarias de los servicios de anatomía patológica, banco de sangre, laboratorio, medicina nuclear y radiología e imagen;
+
+IV. Coordinar y controlar los servicios de telemedicina, así como el proceso de referencia y contrarreferencia, en el ámbito de su competencia, de conformidad con la normatividad aplicable;
+
+V. Poner en práctica y dar seguimiento al sistema para el manejo y control de las libretas de licencias médicas y de recetas médicas, así como verificar el adecuado uso que se haga de estos instrumentos administrativos por parte del personal a su cargo;
+
+VI. Estandarizar la gestión de los servicios auxiliares de diagnóstico y tratamiento, mediante la puesta en práctica de procedimientos y protocolos de atención médica con apego a la normativa aplicable;
+
+VII. Verificar el trato que reciben los usuarios en los servicios auxiliares de diagnóstico y tratamiento, así como promover y aplicar las acciones que se autoricen o que sean aplicables en materia de atención al Derechohabiente;
+
+VIII. Enviar a la Jefatura de Servicios Médicos la información que le solicite para la integración del anteproyecto del programa operativo anual del Centro Médico;
+
+IX. Participar en la detección de necesidades de insumos para la salud, recursos materiales y humanos, así como de capacitación de personal para el eficiente y adecuado otorgamiento de los servicios auxiliares de diagnóstico y tratamiento y comunicarlas al Jefe de Servicios Médicos;
+
+X. Realizar estudios de factibilidad para proponer la adquisición de equipo de tecnología de punta a fin de mejorar los servicios de diagnóstico y tratamiento de tercer nivel de atención;
+
+XI. Verificar que se lleve a cabo el mantenimiento de equipo e instalaciones del área a su cargo; reportar, a la Dirección de Administración del Instituto, y documentar los siniestros que ocurran, de acuerdo con las condiciones de las pólizas de aseguramiento contratadas;
+
+XII. Poner en práctica, en el ámbito de su competencia, la verificación y evaluación de la integración y cuidado de los expedientes clínicos a su cargo, ya sean electrónicos o físicos, y garantizar la seguridad de la información contenida en ellos, de conformidad con la normativa aplicable. En particular, en el caso del expediente clínico, se debe cumplir con la NOM-004-SSA3-2012 del expediente clínico o la que, en el futuro la sustituya. Asimismo, supervisar que se recabe el consentimiento informado de pacientes o familiares, según el caso, y que se documente e integre al expediente clínico;
+
+XIII. Responder o atender, en los tiempos establecidos, las solicitudes o peticiones que se le presenten en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental o con fundamento en el artículo octavo constitucional y las que se les requiera para la atención de los asuntos de la Comisión Nacional de los Derechos Humanos. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XIV. Integrar y presentar, en los tiempos establecidos, la documentación e información que le soliciten los órganos de gobierno y las Unidades Administrativas del Instituto, el Consejo, los Órganos fiscalizadores y su superior jerárquico. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XV. Generar las acciones necesarias para la certificación de los documentos que obren en poder del Centro Médico y para la expedición de las constancias que se requieran en las materias de su competencia; y
+
+XVI. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+
+###### Artículo 34.
+
+El Jefe de Departamento de Servicios Auxiliares, Diagnóstico y Tratamiento será suplido en sus ausencias por quien determine el superior jerárquico.
+
+#### SECCIÓN SEXTA. Del Jefe de Departamento de Medicina
+
+###### Artículo 35.
+
+El Jefe de Departamento de Medicina tiene las siguientes funciones:
+
+I. Coordinar, programar y verificar la prestación de los servicios a su cargo, con la finalidad de que éstos se otorguen con oportunidad, calidad y calidez, así como con absoluto respeto a los derechos humanos de los usuarios;
+
+II. Promover permanentemente y verificar el cumplimiento de las disposiciones normativas y programas, así como el seguimiento de procedimientos, protocolos y criterios médicos y técnicos, con la finalidad de garantizar la debida prestación de los servicios médicos del Centro Médico;
+
+III. Coordinar y controlar los servicios de telemedicina, así como el proceso de referencia y contrarreferencia, en el ámbito de su competencia, de conformidad con la normatividad aplicable;
+
+IV. Poner en práctica y dar seguimiento al sistema para el manejo y control de las libretas de licencias médicas y de recetas médicas, así como verificar el adecuado uso que se haga de estos instrumentos administrativos por parte del personal a su cargo;
+
+V. Estandarizar la gestión de los servicios a su cargo, mediante la puesta en práctica de procedimientos y protocolos de atención médica con apego a la normativa aplicable;
+
+VI. Verificar el trato que reciben los usuarios en los servicios a su cargo, así como promover y aplicar las acciones que se autoricen o que sean aplicables en materia de atención al Derechohabiente;
+
+VII. Enviar a la Jefatura de Servicios Médicos la información que le solicite para la integración del anteproyecto del programa operativo anual del Centro Médico;
+
+VIII. Participar en la detección de necesidades de insumos para la salud, recursos materiales y humanos, así como de capacitación de personal para el eficiente y adecuado otorgamiento de los servicios a su cargo y comunicarlas al Jefe de Servicios Médicos;
+
+IX. Verificar que se lleve a cabo el mantenimiento de equipo e instalaciones del área a su cargo; reportar, a la Dirección de Administración del Instituto, y documentar los siniestros que ocurran, de acuerdo con las condiciones de las pólizas de aseguramiento contratadas;
+
+X. Poner en práctica, en el ámbito de su competencia, la verificación y evaluación de la integración y cuidado de los expedientes clínicos a su cargo, ya sean electrónicos o físicos, y garantizar la seguridad de la información contenida en ellos, de conformidad con la normativa aplicable. En particular, en el caso del expediente clínico, se debe cumplir con la NOM-004-SSA3-2012 del expediente clínico o la que, en el futuro la sustituya. Asimismo, supervisar que se recabe el consentimiento informado de pacientes o familiares, según el caso, y que se documente e integre al expediente clínico;
+
+XI. Responder o atender, en los tiempos establecidos, las solicitudes o peticiones que se le presenten en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental o con fundamento en el artículo octavo constitucional y las que se les requiera para la atención de los asuntos de la Comisión Nacional de los Derechos Humanos. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XII. Integrar y presentar, en los tiempos establecidos, la documentación e información que le soliciten los órganos de gobierno y las Unidades Administrativas del Instituto, el Consejo, los Órganos fiscalizadores y su superior jerárquico. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XIII. Generar las acciones necesarias para la certificación de los documentos que obren en poder del Centro Médico y para la expedición de las constancias que se requieran en las materias de su competencia; y
+
+XIV. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+
+###### Artículo 36.
+
+El Jefe de Departamento de Medicina será suplido en sus ausencias por quien determine el superior jerárquico.
+
+#### SECCIÓN SÉPTIMA. Del Jefe de Departamento de Servicios Paramédicos
+
+###### Artículo 37.
+
+El Jefe de Departamento de Servicios Paramédicos tiene las siguientes funciones:
+
+I. Coordinar, programar y verificar la prestación de los servicios paramédicos y de enfermería del Centro Médico, con la finalidad de que éstos se otorguen con oportunidad, calidad y calidez, así como con absoluto respeto a los derechos humanos de los usuarios;
+
+II. Coordinar, programar y verificar las actividades de los camilleros, así como su interrelación con los demás servicios del Centro Médico;
+
+III. Promover permanentemente y verificar el cumplimiento de las disposiciones normativas y programas, así como el seguimiento de procedimientos, protocolos y criterios médicos y técnicos, para otorgar la debida prestación de los servicios paramédicos y de enfermería del Centro Médico. En particular, vigilar el cumplimiento de la NOM-019-SSA3-2013 o la que, en el futuro la sustituya;
+
+IV. Coordinar y controlar los servicios de telemedicina, así como el proceso de referencia y contrarreferencia, en el ámbito de su competencia, de conformidad con la normatividad aplicable;
+
+V. Verificar, bajo su más estricta responsabilidad, la programación, operación y control del suministro de medicamentos, sustancias psicotrópicas, estupefacientes y material de curación en los servicios a su cargo;
+
+VI. Estandarizar la gestión de los servicios paramédicos y de enfermería, mediante la puesta en práctica de procedimientos y protocolos de atención médica con fundamento en la normativa aplicable;
+
+VII. Verificar el trato que reciben los usuarios en los servicios paramédicos y de enfermería, así como promover y aplicar las acciones que se autoricen o que sean aplicables en materia de atención al Derechohabiente;
+
+VIII. Enviar a la Jefatura de Servicios Médicos la información que le solicite para la integración del anteproyecto del programa operativo anual del Centro Médico;
+
+IX. Participar en la detección de necesidades de insumos para la salud, recursos materiales y humanos, así como de capacitación de personal para el eficiente y adecuado otorgamiento de los servicios paramédicos y de enfermería y comunicarlas al Jefe de Servicios Médicos;
+
+X. Verificar que se lleve a cabo el mantenimiento de equipo e instalaciones del área a su cargo; reportar, a la Dirección de Administración del Instituto, y documentar los siniestros que ocurran, de acuerdo con las condiciones de las pólizas de aseguramiento contratadas;
+
+XI. Poner en práctica, en el ámbito de su competencia, la verificación y evaluación de la integración y cuidado de los expedientes clínicos a su cargo, ya sean electrónicos o físicos, y garantizar la seguridad de la información contenida en ellos, de conformidad con la normativa aplicable. En particular, en el caso del expediente clínico, se debe cumplir con la NOM-004-SSA3-2012 del expediente clínico o la que, en el futuro la sustituya. Asimismo, supervisar que se recabe el consentimiento informado de pacientes o familiares, según el caso, y que se documente e integre al expediente clínico;
+
+XII. Responder o atender, en los tiempos establecidos, las solicitudes o peticiones que se le presenten en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental o con fundamento en el artículo octavo constitucional y las que se les requiera para la atención de los asuntos de la Comisión Nacional de los Derechos Humanos. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XIII. Integrar y presentar, en los tiempos establecidos, la documentación e información que le soliciten los órganos de gobierno y las Unidades Administrativas del Instituto, el Consejo, los Órganos fiscalizadores y su superior jerárquico. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XIV. Generar las acciones necesarias para la certificación de los documentos que obren en poder del Centro Médico y para la expedición de las constancias que se requieran en las materias de su competencia; y
+
+XV. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+
+###### Artículo 38.
+
+El Jefe de Departamento de Servicios Paramédicos será suplido en sus ausencias por quien determine el superior jerárquico.
+
+### CAPÍTULO CUARTO. DEL JEFE DE SERVICIOS DE ENSEÑANZA E INVESTIGACIÓN DEL CENTRO MÉDICO
+
+###### Artículo 39.
+
+El Jefe de Servicios de Enseñanza e Investigación es nombrado o removido por el Director General, previa propuesta del Director.
+
+###### Artículo 40.
+
+El Jefe de Servicios de Enseñanza e Investigación tiene las siguientes funciones:
+
+I. Supervisar el cumplimiento de los programas académicos acordados entre las instituciones de educación superior y el Instituto, para la formación de recursos humanos en salud, a nivel técnico, pregrado, posgrado y residencia médica;
+
+II. Dirigir y supervisar la integración de los programas de capacitación y desarrollo de personal del Centro Médico, así como verificar su puesta en práctica;
+
+III. Coordinar el proceso médico, científico y tecnológico para el desarrollo de los recursos humanos en salud, en materia de investigación médica;
+
+IV. Difundir y promover la aplicación de programas de educación a distancia;
+
+V. Supervisar los estudios y proyectos de investigación clínica, biomédica, epidemiológica y en servicios de salud que, de conformidad con las directrices que señale la Dirección Médica del Instituto, se lleven a cabo en el Centro Médico;
+
+VI. Coordinar la difusión de la información técnica, médica y científica que se genere en el Centro Médico, a través de reuniones científicas y de la publicación de artículos en revistas y boletines con reconocimiento académico, entre otros medios;
+
+VII. Fomentar y supervisar la participación de los investigadores del Centro Médico, en los programas financiados con fondos sectoriales u otros fondos;
+
+VIII. Coordinar, conjuntamente con el Jefe de Servicios Administrativos, el control de los fondos destinados a los programas de ciencia e investigación;
+
+IX. Supervisar el cumplimiento de la normativa aplicable en materia de estancia y permanencia de los médicos residentes, así como, coordinar las actividades académicas y clínicas de los médicos internos de pregrado;
+
+X. Integrar y remitir al Departamento de Planeación la información que le solicite para la integración del anteproyecto del programa operativo anual del Centro Médico;
+
+XI. Determinar periódicamente las necesidades de recursos materiales y humanos, así como de capacitación de personal para el eficiente otorgamiento de los servicios a su cargo, y comunicarlas al Jefe de Servicios Administrativos;
+
+XII. Dirigir, en el ámbito de su competencia, la verificación y evaluación de la integración y cuidado de los expedientes a su cargo, ya sean electrónicos o físicos, y garantizar la seguridad de la información contenida en ellos, de conformidad con la normativa aplicable;
+
+XIII. Responder o atender, en los tiempos establecidos, las solicitudes o peticiones que se le presenten en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental o con fundamento en el artículo octavo constitucional y las que se les requiera para la atención de los asuntos de la Comisión Nacional de los Derechos Humanos. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XIV. Coordinar la integración y presentar, en los tiempos establecidos, la documentación e información que le soliciten los órganos de gobierno y las Unidades Administrativas del Instituto, el Consejo, los Órganos fiscalizadores y su superior jerárquico. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XV. Coordinar y verificar el proceso de certificación de los documentos que obren en poder del Centro Médico, y expedir las constancias que se requieran en las materias de su competencia; y
+
+XVI. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+
+###### Artículo 41.
+
+El Jefe de Servicios de Enseñanza e Investigación será suplido en sus ausencias por quien determine el superior jerárquico.
+
+#### SECCIÓN PRIMERA. Del Jefe de Departamento de Enseñanza
+
+###### Artículo 42.
+
+El Jefe de Departamento de Enseñanza tiene las siguientes funciones:
+
+I. Coordinar y verificar el cumplimiento de los programas académicos acordados entre las instituciones de educación superior y el Instituto, para la formación de recursos humanos en salud, a nivel técnico, pregrado, posgrado y residencia médica, conforme a las políticas establecidas por la Dirección Médica del Instituto;
+
+II. Verificar la actualización de los programas de calidad en la formación de los recursos humanos en pregrado y posgrado e identificar que el uso de los campos clínicos se realicen de conformidad con la normativa aplicable;
+
+III. Coordinar, de conformidad con las necesidades de las áreas del Centro Médico, la integración de los programas de capacitación y desarrollo de personal del Centro Médico, así como verificar su puesta en práctica;
+
+IV. Coordinar y verificar la aplicación de sistemas tecnológicos y educativos actualizados que permitan realizar la consulta, aumentar el acervo cultural y facilitar la actualización del personal responsable de la atención médica e investigación;
+
+V. Difundir, promover y coordinar la aplicación de programas de educación a distancia;
+
+VI. Verificar el cumplimiento de la normativa aplicable en materia de estancia y permanencia de los médicos residentes, así como, coordinar las actividades académicas y clínicas de los médicos internos de pregrado;
+
+VII. Supervisar los servicios de información y aprendizaje de la biblioteca del Centro Médico, y vigilar el debido resguardo del material, y realizar el inventario anual del acervo cultural;
+
+VIII. Presentar a la Jefatura de Servicios de Enseñanza e Investigación la evaluación anual de las actividades educativas del Centro Médico;
+
+IX. Enviar a la Jefatura de Servicios de Enseñanza e Investigación la información que le solicite para la integración del anteproyecto del programa operativo anual del Centro Médico;
+
+X. Participar en la detección de necesidades de insumos para la salud, recursos materiales y humanos, así como de capacitación de personal para el eficiente y adecuado otorgamiento de los servicios de enfermería, y comunicarlas al Jefe de Servicios de Enseñanza e Investigación;
+
+XI. Realizar y presentar ante la Jefatura de Servicios de Enseñanza e Investigación el diagnóstico de necesidades de servicios de apoyo didáctico y medios educativos auxiliares;
+
+XII. Poner en práctica, en el ámbito de su competencia, la verificación y evaluación de la integración y cuidado de los expedientes a su cargo, ya sean electrónicos o físicos, y garantizar la seguridad de la información contenida en ellos, de conformidad con la normativa aplicable;
+
+XIII. Responder o atender, en los tiempos establecidos, las solicitudes o peticiones que se le presenten en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental o con fundamento en el artículo octavo constitucional y las que se les requiera para la atención de los asuntos de la Comisión Nacional de los Derechos Humanos. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XIV. Integrar y presentar, en los tiempos establecidos, la documentación e información que le soliciten los órganos de gobierno y las Unidades Administrativas del Instituto, el Consejo, los Órganos fiscalizadores y su superior jerárquico. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XV. Generar las acciones necesarias para la certificación de los documentos que obren en poder del Centro Médico y para la expedición de las constancias que se requieran en las materias de su competencia; y
+
+XVI. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+
+###### Artículo 43.
+
+El Jefe de Departamento de Enseñanza será suplido en sus ausencias por quien determine el superior jerárquico.
+
+#### SECCIÓN SEGUNDA. Del Jefe de Departamento de Investigación
+
+###### Artículo 44.
+
+El Jefe de Departamento de investigación tiene las siguientes funciones:
+
+I. Coordinar, conducir y verificar los estudios y proyectos de investigación clínica, biomédica, epidemiológica y en servicios de salud que, de conformidad con las directrices que señale la Dirección Médica del Instituto, se lleven a cabo en el Centro Médico;
+
+II. Coordinar y concertar, para su autorización, los programas y proyectos científicos a nivel institucional, intersectorial e internacional;
+
+III. Verificar la sistematización de resultados y el seguimiento, en su caso, de investigaciones prolongadas;
+
+IV. Verificar el desarrollo de la cirugía experimental con enfoque aplicativo que permita incorporar nuevos procedimientos quirúrgicos al bagaje terapéutico institucional;
+
+V. Difundir la información técnica, médica y científica que se genere en el Centro Médico, a través de reuniones científicas y de la publicación de artículos en revistas y boletines con reconocimiento académico, entre otros medios;
+
+VI. Fomentar y verificar la participación de los investigadores del Centro Médico, en los programas financiados con fondos sectoriales u otros fondos;
+
+VII. Verificar el cumplimiento de la normativa aplicable en materia de estancia y permanencia de los médicos residentes, así como, coordinar las actividades académicas y clínicas de los médicos internos de pregrado;
+
+VIII. Integrar y remitir al Departamento de Planeación la información que le solicite para la integración del anteproyecto del programa operativo anual del Centro Médico;
+
+IX. Determinar periódicamente las necesidades de recursos materiales y humanos, así como de capacitación de personal para el eficiente otorgamiento de los servicios a su cargo, y comunicarlas al Jefe de Servicios de Enseñanza e Investigación;
+
+X. Poner en práctica, en el ámbito de su competencia, la verificación y evaluación de la integración y cuidado de los expedientes a su cargo, ya sean electrónicos o físicos, y garantizar la seguridad de la información contenida en ellos, de conformidad con la normativa aplicable;
+
+XI. Responder o atender, en los tiempos establecidos, las solicitudes o peticiones que se le presenten en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental o con fundamento en el artículo octavo constitucional y las que se les requiera para la atención de los asuntos de la Comisión Nacional de los Derechos Humanos. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XII. Integrar y presentar, en los tiempos establecidos, la documentación e información que le soliciten los órganos de gobierno y las Unidades Administrativas del Instituto, el Consejo, los Órganos fiscalizadores y su superior jerárquico. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XIII. Generar las acciones necesarias para la certificación de los documentos que obren en poder del Centro Médico y para la expedición de las constancias que se requieran en las materias de su competencia; y
+
+XIV. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+
+###### Artículo 45.
+
+El Jefe de Departamento de Investigación será suplido en sus ausencias por quien determine el superior jerárquico.
+
+### CAPÍTULO QUINTO. DEL JEFE DE SERVICIOS ADMINISTRATIVOS DEL CENTRO MÉDICO
+
+###### Artículo 46.
+
+El Jefe de Servicios Administrativos es nombrado o removido por el Director General, previa propuesta del Director.
+
+###### Artículo 47.
+
+El Jefe de Servicios Administrativos tiene las siguientes funciones:
+
+I. Planear, organizar, coordinar, supervisar y controlar los recursos humanos, financieros, materiales y servicios generales del Centro Médico, de conformidad con la normativa aplicable;
+
+II. Atender y supervisar los procesos de control interno, planeación financiera, presupuesto, contabilidad, aspectos fiscales, tesorería y, en su caso, de seguros, cuentas bancarias y evaluación presupuestal e informar al Director sobre los asuntos y resultados obtenidos, así como a la Dirección de Finanzas del Instituto y a la Dirección de Administración del Instituto, lo que corresponda, para el seguimiento y la integración de los estados financieros y el reporte de cuenta pública;
+
+III. Administrar el archivo contable gubernamental y supervisar que los sistemas de registro contable y catálogos de cuentas se operen de conformidad con la normativa aplicable;
+
+IV. Supervisar el control contable de las operaciones de ingresos y gastos e incluir aquellas que se relacionen con insumos para la salud;
+
+V. Coordinar, conjuntamente con el Jefe de Servicios de Enseñanza e Investigación, el control de los fondos destinados a los programas de ciencia e investigación;
+
+VI. Representar al Centro Médico ante las autoridades federales, locales y delegacionales o municipales para llevar a cabo los trámites necesarios para el debido funcionamiento de la unidad médico administrativa;
+
+VII. Llevar a cabo las gestiones para celebrar convenios y contratos, previa instrucción del Director, con las instituciones del sistema financiero que sean necesarias para la operación bancaria del Centro Médico, de conformidad con lo dispuesto por la normativa aplicable;
+
+VIII. Establecer un sistema para la verificación de la asistencia y permanencia del personal médico, técnico, paramédico, de enfermería, de soporte y administrativo del Centro Médico e instruir la aplicación de las sanciones y la ejecución de las acciones que correspondan, de conformidad con la normatividad aplicable;
+
+IX. Coordinar y verificar la actualización del inventario de bienes muebles e inmuebles adquiridos y asignados al Centro Médico, así como su conciliación contable y control físico; en coordinación con la Dirección de Administración del Instituto difundir y orientar a las áreas del Centro Médico sobre las disposiciones y coberturas vigentes en materia de aseguramiento y afianzamiento;
+
+X. Supervisar el control del suministro y almacén de insumos de conformidad con la normatividad aplicable;
+
+XI. Dirigir la identificación de necesidades y gestionar la adquisición de insumos médicos y recursos materiales y humanos, con la finalidad de garantizar el adecuado funcionamiento del Centro Médico con base en el presupuesto anual autorizado;
+
+XII. Participar en la contratación y coordinar los servicios generales, de mantenimiento y de tecnología de la información que requieran las áreas administrativas del Centro Médico;
+
+XIII. Proponer al Director el anteproyecto anual de presupuesto y, en su caso, las modificaciones que resulten necesarias con base en un modelo basado en la racionalidad, austeridad, disciplina presupuestal para la eficiencia y calidad de los servicios sustantivos y procesos administrativos del Centro Médico;
+
+XIV. Integrar y remitir al Departamento de Planeación la información que le solicite para la integración del anteproyecto del programa operativo anual del Centro Médico;
+
+XV. Dirigir, en el ámbito de su competencia, la verificación y evaluación de la integración, actualización y cuidado de los expedientes a su cargo, ya sean electrónicos o físicos, y garantizar la seguridad de la información contenida en ellos, de conformidad con la normativa aplicable;
+
+XVI. Responder o atender, en los tiempos establecidos, las solicitudes o peticiones que se le presenten en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental o con fundamento en el artículo octavo constitucional y las que se les requiera para la atención de los asuntos de la Comisión Nacional de los Derechos Humanos. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XVII. Coordinar la integración y presentar, en los tiempos establecidos, la documentación e información que le soliciten los órganos de gobierno y las Unidades Administrativas del Instituto, el Consejo, los Órganos fiscalizadores y su superior jerárquico. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XVIII. Coordinar y verificar el proceso de certificación de los documentos que obren en poder del Centro Médico, y expedir las constancias que se requieran en las materias de su competencia; y
+
+XIX. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normativa aplicable.
+
+###### Artículo 48.
+
+El Jefe de Servicios Administrativos será suplido en sus ausencias por quien determine el superior jerárquico.
+
+#### SECCIÓN PRIMERA. Del Jefe de Departamento de Recursos Humanos
+
+###### Artículo 49.
+
+El Jefe de Departamento de Recursos Humanos tiene las siguientes funciones:
+
+I. Coordinar y controlar la contratación de los recursos humanos del Centro Médico, así como llevar a cabo las acciones para su administración operativa, de conformidad con la normativa aplicable;
+
+II. Coordinar y verificar los procesos para la emisión de constancias de nombramiento y movimientos administrativos de personal, así como los procesos de pago y control de nómina con base en el presupuesto anual autorizado;
+
+III. Vigilar la aplicación de la normativa y directrices sobre administración de personal que emitan las Direcciones Médica y de Administración del Instituto;
+
+IV. Poner en práctica, bajo su más estricta responsabilidad, el sistema para la verificación de la asistencia y permanencia del personal médico, técnico, paramédico, de enfermería, de soporte y administrativo del Centro Médico, así como aplicar las sanciones y contribuir en las acciones que normativamente correspondan;
+
+V. Integrar periódicamente y gestionar las necesidades de recursos humanos que sean necesarios para el adecuado funcionamiento del Centro médico, que incluyan los requerimientos de guardias y suplencias, con base en el presupuesto anual autorizado;
+
+VI. Verificar que la planilla de personal del Centro Médico se encuentre permanentemente actualizada, así como ejecutar las acciones necesarias para lograrlo;
+
+VII. Formular propuestas de modificación a los profesiogramas;
+
+VIII. Coordinar, con la representación sindical, el sistema de evaluación del desempeño del personal afiliado, conforme a lo dispuesto por la Ley de Premios, Estímulos y Recompensas Civiles;
+
+IX. Enviar a la Jefatura de Servicios Administrativos la información que le solicite para la integración del anteproyecto del programa operativo anual del Centro Médico;
+
+X. Participar en la detección de necesidades de recursos materiales y humanos, así como de capacitación de personal para la eficiente y adecuada ejecución de los procesos a su cargo, y comunicarlas al Jefe de Servicios Administrativos;
+
+XI. Verificar que se lleve a cabo el mantenimiento de equipo e instalaciones del área a su cargo; reportar, a la Dirección de Administración del Instituto, y documentar los siniestros que ocurran, de acuerdo con las condiciones de las pólizas de aseguramiento contratadas;
+
+XII. Poner en práctica, en el ámbito de su competencia, la verificación y evaluación de la integración, actualización y cuidado de los expedientes del personal del Centro Médico, ya sean electrónicos o físicos, y garantizar la seguridad de la información contenida en ellos, de conformidad con la normativa aplicable;
+
+XIII. Responder o atender, en los tiempos establecidos, las solicitudes o peticiones que se le presenten en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental o con fundamento en el artículo octavo constitucional y las que se les requiera para la atención de los asuntos de la Comisión Nacional de los Derechos Humanos. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XIV. Integrar y presentar, en los tiempos establecidos, la documentación e información que le soliciten los órganos de gobierno y las Unidades Administrativas del Instituto, el Consejo, los Órganos fiscalizadores y su superior jerárquico. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XV. Generar las acciones necesarias para la certificación de los documentos que obren en poder del Centro Médico y para la expedición de las constancias que se requieran en las materias de su competencia; y
+
+XVI. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+
+###### Artículo 50.
+
+El Jefe de Departamento de Recursos Humanos será suplido en sus ausencias por quien determine el superior jerárquico.
+
+#### SECCIÓN SEGUNDA. Del Jefe de Departamento de Recursos Materiales y Financieros
+
+###### Artículo 51.
+
+El Jefe de Departamento de Recursos Materiales y Financieros tiene las siguientes funciones:
+
+I. Coordinar y controlar la administración de los recursos materiales y su control físico en el Centro Médico, de conformidad con la normativa aplicable;
+
+II. Llevar a cabo las acciones para determinar las necesidades de insumos de las áreas del Centro Médico, y participar en los procesos para el abastecimiento de los mismos con base en el presupuesto anual autorizado del Centro Médico;
+
+III. Participar en los procesos de contratación y administrar los recursos materiales del Centro Médico, de conformidad con la normatividad aplicable;
+
+IV. Controlar el abasto oportuno de insumos a las áreas del Centro Médico, con base en sus necesidades y en los recursos existentes;
+
+V. Coordinar y verificar la recepción, custodia, almacén, suministro de insumos y su registro en los sistemas autorizados para tal efecto en el Instituto;
+
+VI. Integrar y mantener actualizado el inventario de bienes muebles e inmuebles adquiridos y asignados al Centro Médico, y llevar a cabo su control físico;
+
+VII. Diseñar y coordinar la puesta en práctica de los programas de uso y aprovechamiento de bienes inmuebles, disposición final y baja de bienes muebles, así como la asignación del parque vehicular;
+
+VIII. Enviar a la Jefatura de Servicios Administrativos la información que le solicite para la integración del anteproyecto del programa operativo anual del Centro Médico;
+
+IX. Participar en la detección de necesidades de recursos materiales y humanos, así como de capacitación de personal para la eficiente y adecuada ejecución de los procesos a su cargo, y comunicarlas al Jefe de Servicios Administrativos;
+
+X. Verificar que se lleve a cabo el mantenimiento de equipo e instalaciones del área a su cargo; reportar, a la Dirección de Administración, y documentar los siniestros que ocurran, de acuerdo con las condiciones de las pólizas de aseguramiento contratadas;
+
+XI. Coordinar y controlar la administración de los recursos financieros el control contable del Centro Médico, de conformidad con la normativa aplicable;
+
+XII. Instrumentar los procesos de control interno, planeación financiera, presupuesto, contabilidad, aspectos fiscales, tesorería y, en su caso, de seguros, cuentas bancarias y evaluación presupuestal e informar al Director sobre los asuntos y resultados obtenidos, así como a la Dirección de Finanzas del Instituto y a la Dirección de Administración del Instituto, lo que corresponda, para el seguimiento y la integración de los estados financieros y el reporte de cuenta pública;
+
+XIII. Verificar el cumplimiento de las metas operativas del Centro Médico, en el ámbito de su competencia, y que el ejercicio del gasto se realice conforme a las políticas de austeridad, disciplina y transparencia;
+
+XIV. Integrar y llevar el control del archivo contable gubernamental y verificar que los sistemas de registro contable y catálogos de cuentas operen de conformidad con la normativa aplicable;
+
+XV. Registrar y documentar las operaciones de ingresos y gastos e incluir aquéllas que se relacionen con insumos para la salud;
+
+XVI. Contribuir, en el ámbito de su competencia, en la actualización del inventario de bienes muebles e inmuebles adquiridos y asignados al Centro Médico y llevar a cabo su conciliación contable;
+
+XVII. Administrar, de acuerdo con lo que defina el Jefe de Servicios Administrativos, los fondos destinados a los programas de ciencia e investigación;
+
+XVIII. Realizar las gestiones para celebrar convenios y contratos, previa instrucción del Jefe de Servicios Administrativos, con las instituciones del sistema financiero que sean necesarias para la operación bancaria del Centro Médico, de conformidad con lo dispuesto por la normativa aplicable;
+
+XIX. Elaborar el anteproyecto anual de presupuesto y, en su caso, las modificaciones que resulten necesarias con base en un modelo basado en la racionalidad, austeridad, disciplina presupuestal para la eficiencia y calidad de los servicios sustantivos y procesos administrativos del Centro Médico;
+
+XX. Enviar a la Jefatura de Servicios Administrativos la información que le solicite para la integración del anteproyecto del programa operativo anual del Centro Médico;
+
+XXI. Poner en práctica, en el ámbito de su competencia, la verificación y evaluación de la integración y cuidado de los expedientes a su cargo, ya sean electrónicos o físicos, y garantizar la seguridad de la información contenida en ellos, de conformidad con la normativa aplicable;
+
+XXII. Responder o atender, en los tiempos establecidos, las solicitudes o peticiones que se le presenten en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental o con fundamento en el artículo octavo constitucional y las que se les requiera para la atención de los asuntos de la Comisión Nacional de los Derechos Humanos. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XXIII. Integrar y presentar, en los tiempos establecidos, la documentación e información que le soliciten los órganos de gobierno y las Unidades Administrativas del Instituto, el Consejo, los Órganos fiscalizadores y su superior jerárquico. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XXIV. Generar las acciones necesarias para la certificación de los documentos que obren en poder del Centro Médico y para la expedición de las constancias que se requieran en las materias de su competencia; y
+
+XXV. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+
+###### Artículo 52.
+
+El Jefe de Departamento de Recursos Materiales y Financieros será suplido en sus ausencias por quien determine el superior jerárquico.
+
+#### SECCIÓN TERCERA. Del Jefe de Departamento de Mantenimiento y Servicios Generales
+
+###### Artículo 53.
+
+El Jefe de Departamento de Mantenimiento y Servicios Generales tiene las siguientes funciones:
+
+I. Coordinar, administrar, controlar y verificar los servicios de conservación, mantenimiento de los bienes muebles e inmuebles y servicios generales del Centro Médico, de conformidad con la normativa aplicable;
+
+II. Participar en los procesos de contratación de los servicios de conservación, mantenimiento y generales programados o extraordinarios que requiera el Centro Médico, de conformidad con la normatividad aplicable;
+
+III. Diseñar los programas de conservación y mantenimiento de bienes inmuebles, así como de servicio y mantenimiento del parque vehicular;
+
+IV. Atender las necesidades de mantenimiento preventivo y correctivo de los equipos médicos;
+
+V. Verificar que los servicios de lavandería, ropería, limpieza y vigilancia, se lleven a cabo de conformidad con los procedimientos establecidos y cumplan con las necesidades de las áreas del Centro Médico;
+
+VI. Coordinar los servicios de correspondencia, archivo, protección civil y transportes, para que se lleven a cabo de conformidad con los procedimientos administrativos establecidos;
+
+VII. Participar en la definición, aplicación y control de las medidas de saneamiento hospitalario;
+
+VIII. Enviar a la Jefatura de Servicios Administrativos la información que le solicite para la integración del anteproyecto del programa operativo anual del Centro Médico;
+
+IX. Participar en la detección de necesidades de recursos materiales y humanos, así como de capacitación de personal para la eficiente y adecuada ejecución de los servicios a su cargo y comunicarlas a la Jefatura de Servicios Administrativos;
+
+X. Poner en práctica, en el ámbito de su competencia, la verificación y evaluación de la integración y cuidado de los expedientes a su cargo, ya sean electrónicos o físicos, y garantizar la seguridad de la información contenida en ellos, de conformidad con la normativa aplicable;
+
+XI. Responder o atender, en los tiempos establecidos, las solicitudes o peticiones que se le presenten en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental o con fundamento en el artículo octavo constitucional y las que se les requiera para la atención de los asuntos de la Comisión Nacional de los Derechos Humanos. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XII. Integrar y presentar, en los tiempos establecidos, la documentación e información que le soliciten los órganos de gobierno y las Unidades Administrativas del Instituto, el Consejo, los Órganos fiscalizadores y su superior jerárquico. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XIII. Generar las acciones necesarias para la certificación de los documentos que obren en poder del Centro Médico y para la expedición de las constancias que se requieran en las materias de su competencia; y
+
+XIV. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+
+###### Artículo 54.
+
+El Jefe de Departamento de Mantenimiento y Servicios Generales será suplido en sus ausencias por quien determine el superior jerárquico.
+
+#### SECCIÓN CUARTA. Del Jefe de Departamento de Enlace Hospitalario
+
+###### Artículo 55.
+
+El Jefe de Departamento de Enlace Hospitalario tiene las siguientes funciones:
+
+I. Coordinar, programar y verificar la prestación de los servicios de su competencia, con la finalidad de que éstos se otorguen con oportunidad, calidad y calidez, así como con absoluto respeto a los derechos humanos de los usuarios;
+
+II. Promover permanentemente y verificar el cumplimiento de las disposiciones normativas y programas, así como el seguimiento de procedimientos, protocolos y criterios médicos y técnicos, con la finalidad de garantizar la debida prestación de los servicios médicos del Centro Médico;
+
+III. Verificar que se otorgue información clara y oportuna de los servicios hospitalarios a los usuarios, a fin de lograr la atención integral y de calidad de los servicios proporcionados;
+
+IV. Coordinar las acciones administrativas para el ingreso y egreso de pacientes al Centro Médico y garantizar en todo momento el trato digno a los usuarios de los servicios otorgados;
+
+V. Coordinar las acciones de apertura e integración de expedientes clínicos electrónicos y físicos, de conformidad con la normativa aplicable. En particular, en el caso del expediente clínico, se debe cumplir con la NOM-004-SSA3-2012 del expediente clínico o la que, en el futuro la sustituya. Asimismo, supervisar que se recabe el consentimiento informado de pacientes o familiares, según el caso, y que se documente e integre al expediente clínico;
+
+VI. Coordinar, a través de los servicios de trabajo social y del servicio de ambulancias, la transferencia de pacientes a otras unidades hospitalarias, así como la interacción de los pacientes en consulta externa y hospitalización;
+
+VII. Coordinar los trámites de licencias médicas, vigencia de derechos para servicios médicos y estudios médicos subrogados;
+
+VIII. Coordinar y controlar los servicios de telemedicina, así como el proceso de referencia y contrarreferencia, en el ámbito de su competencia, de conformidad con la normatividad aplicable;
+
+IX. Poner en práctica y dar seguimiento al sistema para el manejo y control de las libretas de licencias médicas y de recetas médicas, así como verificar el adecuado uso que se haga de estos instrumentos administrativos por parte del personal a su cargo;
+
+X. Estandarizar la gestión de los servicios a su cargo, mediante la puesta en práctica de procedimientos y protocolos de atención médica con apego a la normativa aplicable;
+
+XI. Verificar el trato que reciben los usuarios en los servicios a su cargo, así como promover y aplicar las acciones que se autoricen o que sean aplicables en materia de atención al Derechohabiente;
+
+XII. Enviar a la Jefatura de Servicios Médicos la información que le solicite para la integración del anteproyecto del programa operativo anual del Centro Médico;
+
+XIII. Participar en la detección de necesidades de insumos para la salud, recursos materiales y humanos, así como de capacitación de personal para el eficiente y adecuado otorgamiento de los servicios a su cargo y comunicarlas al Jefe de Servicios Médicos;
+
+XIV. Verificar que se lleve a cabo el mantenimiento de equipo e instalaciones del área a su cargo; reportar, a la Dirección de Administración del Instituto, y documentar los siniestros que ocurran, de acuerdo con las condiciones de las pólizas de aseguramiento contratadas;
+
+XV. Poner en práctica, en el ámbito de su competencia, la verificación y evaluación de la integración, actualización y cuidado de los expedientes a su cargo, ya sean electrónicos o físicos, y garantizar la confidencialidad de la información contenida en ellos, de conformidad con la normativa aplicable;
+
+XVI. Responder o atender, en los tiempos establecidos, las solicitudes o peticiones que se le presenten en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental o con fundamento en el artículo octavo constitucional y las que se les requiera para la atención de los asuntos de la Comisión Nacional de los Derechos Humanos. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XVII. Integrar y presentar, en los tiempos establecidos, la documentación e información que le soliciten los órganos de gobierno y las Unidades Administrativas del Instituto, el Consejo, los Órganos fiscalizadores y su superior jerárquico. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+XVIII. Generar las acciones necesarias para la certificación de los documentos que obren en poder del Centro Médico y para la expedición de las constancias que se requieran en las materias de su competencia; y
+
+XIX. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+
+###### Artículo 56.
+
+El Jefe de Departamento de Enlace Hospitalario será suplido en sus ausencias por quienes determine el superior jerárquico.
+
+#### SECCIÓN QUINTA. Del Jefe de Departamento de Informática
+
+###### Artículo 57.
+
+El Jefe de Departamento de Informática tiene las siguientes funciones:
+
+I. Verificar el funcionamiento de los servicios de procesamiento electrónico de datos, administración de sistemas, soporte técnico, análisis y prospectiva de sistemas y telecomunicaciones del Centro Médico;
+
+II. Verificar la gestión de administración de los sistemas multiplataformas, de desarrollo de sistemas e innovación tecnológica, así como de soporte técnico y telecomunicaciones, de conformidad con la normatividad aplicable;
+
+III. Verificar el sistema de cómputo del Centro Médico, a fin de asegurar su desarrollo, modernización y funcionamiento eficiente y coordinar con las áreas correspondientes la adquisición de los insumos necesarios;
+
+IV. Coordinar la asesoría y capacitación al personal adscrito a los diversos servicios médico administrativos, respecto de la aplicación de los sistemas, subsistemas, módulos y procedimientos operacionales de cómputo;
+
+V. Verificar la aplicación de los programas de desarrollo y capacitación técnica para el personal a su cargo, a fin de contribuir a la correcta operación de los equipos;
+
+VI. Enviar a la Jefatura de Servicios Administrativos la información que se le solicite para la integración del anteproyecto del programa operativo anual del Centro Médico;
+
+VII. Poner en práctica, en el ámbito de su competencia, la verificación y evaluación de la integración y cuidado de los expedientes a su cargo, ya sean electrónicos o físicos, así como asegurar la información contenida en ellos, de conformidad con la normativa aplicable;
+
+VIII. Responder o atender, en los tiempos establecidos, las solicitudes o peticiones que se le presenten en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental o con fundamento en el artículo octavo constitucional y las que se les requiera para la atención de los asuntos de la Comisión Nacional de los Derechos Humanos. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+IX. Integrar y presentar, en los tiempos establecidos, la documentación e información que le soliciten los órganos de gobierno y las Unidades Administrativas del Instituto, el Consejo, los Órganos fiscalizadores y su superior jerárquico. El incumplimiento de esta función se sanciona conforme a las disposiciones aplicables;
+
+X. Generar las acciones necesarias para la certificación de los documentos que obren en poder del Centro Médico y para la expedición de las constancias que se requieran en las materias de su competencia; y
+
+XI. Realizar las demás funciones inherentes al cargo que le señale su superior jerárquico o sean determinadas por la normatividad aplicable.
+
+###### Artículo 58.
+
+El Jefe de Departamento de Informática será suplido en sus ausencias por quienes determine el superior jerárquico.
+
+###### Artículo 59.
+
+Para el cumplimiento de sus funciones el Director, los Jefes de Servicios y los Jefes de Departamento son auxiliados por los Coordinadores y el personal que les sea asignado, cuyas funciones específicas están a lo que señale su superior jerárquico.
+
+## TÍTULO CUARTO. DE LOS ÓRGANOS COLEGIADOS DEL CENTRO MÉDICO
+
+###### Artículo 60.
+
+El Centro Médico cuenta con los siguientes órganos colegiados:
+
+I. Comité de Calidad y Seguridad del Paciente;
+
+II. Comité de Detección y Control de Infecciones Nosocomiales;
+
+III. Comité de Mortalidad Hospitalaria, Materno y Perinatal;
+
+IV. Comité de Trasplantes, Órganos y Tejidos;
+
+V. Comité de Seguridad y Atención Médica en caso de Desastre;
+
+VI. Comité de Ética;
+
+VII. Comité de Farmacia y Terapéutica;
+
+VIII. Comité de Insumos;
+
+IX. Comité de Farmacovigilancia;
+
+X. Comité de Expediente Clínico; y
+
+XI. Los demás que resulten necesarios para la operación del Centro Médico o que deben constituirse de conformidad con la normativa aplicable.
+
+###### Artículo 61.
+
+El Centro Médico cuenta con los siguientes Subcomités:
+
+I. Subcomité de Licencias Médicas;
+
+II. Subcomité de Subrogados;
+
+III. Subcomité de Medicina Transfuncional;
+
+IV. Subcomité Interno de Protección Civil;
+
+V. Subcomité de Adquisiciones, Arrendamientos y Servicios;
+
+VI. Subcomité de Enseñanza;
+
+VII. Subcomité de Investigación; y
+
+VIII. Subcomité de Ética en Investigación.
+
+###### Artículo 62.
+
+La integración y funcionamiento de los órganos colegiados del Centro Médico se establecen en los Manuales de Integración y Funcionamiento que al efecto emita el Director General, a propuesta de la Dirección Médica del Instituto, de conformidad con el proceso de emisión normativa institucional.
+
+###### Artículo 63.
+
+El Director, puede proponer al Director Médico la creación o supresión de los órganos colegiados que resulten necesarios para el cumplimiento del objeto del Centro Médico, así como la modificación o disolución de los existentes, quien en caso procedente, somete las propuestas a autorización del Director General.
+
+## TRANSITORIOS
+
+PRIMERO. Este Reglamento entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. A partir de la entrada en vigor de este Reglamento se abroga el Reglamento Orgánico del Centro Médico Nacional del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, expedido por Acuerdo 16.1327.2011 de la Junta Directiva el 14 de abril de 2011, publicado en el Diario Oficial de la Federación el 22 de junio de 2011.”
+
+Lo que me permito hacer de su conocimiento para los efectos legales procedentes.
+
+Atentamente.
+
+México, D.F., a 29 de abril de 2015.- El Secretario General y Secretario de la Junta Directiva, Ricardo Luis Antonio Godina Herrera.- Rúbrica.
