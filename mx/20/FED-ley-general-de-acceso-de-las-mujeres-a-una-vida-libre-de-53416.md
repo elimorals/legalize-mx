@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-53416"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-02-01"
-last_updated: "2014-04-02"
+last_updated: "2015-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53416&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,731 +19,583 @@ issue_date: "2007-01-31"
 ---
 # LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIAS -- ANTES LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA --
 
-LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
+LEY DE PROTECCION CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2014.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2009.
 
-Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de febrero de 2007.
+Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 1 de enero del 2000.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+LICENCIADO RICARDO MONREAL AVILA, Gobernador del Estado Libre y Soberano de Zacatecas, a sus habitantes hago saber:
 
-FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
+Que los CC. DIPUTADOS SECRETARIOS de la H. Quincuagésima Sexta Legislatura del Estado, se han servido dirigirme el siguiente:
 
-Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
+DECRETO # 111
 
-DECRETO
+LA HONORABLE QUINCUAGESIMA SEXTA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS, EN NOMBRE DEL PUEBLO
 
-"EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
+DECRETA
 
-SE EXPIDE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA.
+RESULTANDO PRIMERO.- Con fecha 25 de mayo del año en curso, se recibió en la Oficialía Mayor de esta Legislatura, Iniciativa de Ley de Protección Civil del Estado de Zacatecas, que con fundamento en los artículos 60, fracción I de la Constitución Política de la Entidad, 28, fracción II y 29, fracción I del Reglamento Interior del Poder Legislativo del Estado, presentan Diputados de la Fracción Legislativa del Partido Revolucionario Institucional.
 
-Artículo Único.- Se expide la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+RESULTANDO SEGUNDO.- En Sesión Ordinaria del Pleno celebrada el día 25 de mayo del presente año, se dio cuenta de la recepción de dicha Iniciativa, que a través del Memorándum 246/99, de la misma fecha, y con fundamento en lo dispuesto por los artículos 58, fracción I, 75 de la Ley Orgánica del Poder Legislativo, 63 y 70 del Reglamento Interior, fue turnada para su análisis y dictamen, a las Comisiones Legislativas de Puntos Constitucionales y de Participación Ciudadana.
 
-LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA.
+RESULTANDO TERCERO.- Asimismo con fecha 27 de mayo del corriente año, Diputados de la Fracción Parlamentaria del Partido de la Revolución Democrática, suscribieron una segunda Iniciativa de Ley de Protección Civil del Estado de Zacatecas. Se dio lectura a tal documento en sesión celebrada en la misma fecha, y a través del Memorándum 249/99 se turnó el asunto a las referidas comisiones Legislativas.
 
-## TITULO PRIMERO
+EXPOSICIÓN DE MOTIVOS
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+Corresponde al Estado la tutela y salvaguarda de los valores y bienes jurídicos que hacen posible el desarrollo armónico, el progreso y bienestar de la población.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
+Una diversidad de factores, lo mismo naturales que provocados por la conducta humana, con frecuencia previsible o aleatoria, suelen poner en riesgo, y en ocasiones causar daños de distintas magnitudes, en perjuicio no únicamente de núcleos identificados por su vulnerabilidad, sino también, provocar estragos a la sociedad en su conjunto, incluyendo a las instituciones reguladoras de la vida comunitaria.
 
-###### ARTÍCULO 1.
+Es compromiso y responsabilidad del Estado, en sus diversos niveles, establecer con oportunidad, eficiencia y eficacia, un conjunto de medidas previsoras, correctivas y de auxilio, encaminadas a la tutela social.
 
-La presente ley tiene por objeto establecer la coordinación entre la Federación, las entidades federativas, el Distrito Federal y los municipios para prevenir, sancionar y erradicar la violencia contra las mujeres, así como los principios y modalidades para garantizar su acceso a una vida libre de violencia que favorezca su desarrollo y bienestar conforme a los principios de igualdad y de no discriminación, así como para garantizar la democracia, el desarrollo integral y sustentable que fortalezca la soberanía y el régimen democrático establecidos en la Constitución Política de los Estados Unidos Mexicanos.
+Pero en esta tarea, el Estado y sus mecanismos de defensa, debe contar asimismo con la participación decidida y consciente de toda la comunidad. Para ello, es indispensable generar y difundir en forma permanente, una cultura de la protección civil.
 
-Las disposiciones de esta ley son de orden público, interés social y de observancia general en la República Mexicana.
+En un estado de derecho como el que vivimos, el punto de partida debe ser la vigencia de un marco jurídico idóneo en el que se establezcan reglas claras y eficaces, de observancia general y obligatoria, bajo cuya aplicación, cada uno de los actores involucrados, sepa lo que debe hacer frente la eventualidad de un desastre o hecho funesto que afecte o pueda alterar la vida, la integridad física o los bienes de la población.
 
-> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2009)</small>
+Bajo tales premisas, esta Ley tiene el propósito de elevar a rango de Norma General, una política de estado que cumpla a cabalidad el propósito tutelar en que se sustenta.
 
-###### ARTÍCULO 2.
+De entre sus aspectos más sobresalientes, el proyecto contempla la creación del Sistema Estatal de Protección Civil que habrá de vincularse a su homólogo nacional, y los enlaces necesarios con el ámbito municipal.
 
-La Federación, las entidades federativas, el Distrito Federal y los municipios, en el ámbito de sus respectivas competencias expedirán las normas legales y tomarán las medidas presupuestales y administrativas correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con los Tratados Internacionales en Materia de Derechos Humanos de las Mujeres, ratificados por el Estado mexicano.
+Crea el Consejo Estatal de Protección Civil, como órgano de consulta y coordinación de las acciones que sobre la materia debe emprender, en forma coordinada con los restantes ordenes, el Gobierno de la Entidad.
 
-###### ARTÍCULO 3.
+En escala de jerarquía y organización, se prevé la existencia de la Dirección Estatal de Protección Civil, de sus unidades operativas y del Centro Estatal de Operaciones, todas las cuales, estarán regidas por la ley y por el Programa Estatal de la materia.
 
-Todas las medidas que se deriven de la presente ley, garantizarán la prevención, la atención, la sanción y la erradicación de todos los tipos de violencia contra las mujeres durante su ciclo de vida y para promover su desarrollo integral y su plena participación en todas las esferas de la vida.
+Otra cuestión importante que ahora se regula, es lo concerniente a la formalización de las declaratorias de emergencia y de zona de desastre, ante la inminencia y sus efectos, de hechos o fenómenos dañinos o perturbadores, para lo cual, se abre la posibilidad de gestionar y obtener recursos adicionales para enfrentar la situación adversa.
 
-###### ARTÍCULO 4.
+Finalmente, otros aspectos inéditos en Zacatecas, se refieren al reconocimiento y regulación normativa de grupos voluntarios; de las unidades internas de Protección Civil en las empresas; del registro de las Organizaciones Civiles de capacitación y de la denuncia popular.
 
-Los principios rectores para el acceso de todas las mujeres a una vida libre de violencia que deberán ser observados en la elaboración y ejecución de las políticas públicas federales y locales son:
+Por todo lo anteriormente expuesto y fundado, y con apoyo además en lo dispuesto por los artículos 63, 70, 97, 99 fracción I, 100, 109, 110, 111, 116, 117 y relativos de Reglamento Interior, en nombre del Pueblo es de Decretarse y se
 
-I. La igualdad jurídica entre la mujer y el hombre;
+DECRETA:
 
-II. El respeto a la dignidad humana de las mujeres;
+LEY DE PROTECCION CIVIL DEL ESTADO DE ZACATECAS
 
-III. La no discriminación, y
+## TITULO PRIMERO. DE LA ORGANIZACIÓN DEL SISTEMA ESTATAL Y MUNICIPAL DE PROTECCIÓN CIVIL
 
-IV. La libertad de las mujeres.
+### CAPITULO I. DISPOSICIONES GENERALES
 
-###### ARTÍCULO 5.
+###### Artículo 1.
 
-Para los efectos de la presente ley se entenderá por:
+La presente ley es de orden público e interés social y tiene por objeto regular las acciones que en materia de Protección Civil se lleven a cabo en la Entidad, siendo su observancia obligatoria para las autoridades, organismos, dependencias e instituciones de carácter público, social, académico o privado, grupos voluntarios y en general para todos los habitantes del Estado de Zacatecas.
 
-I. Ley: La Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-II. Programa: El Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+###### Artículo 2.
 
-III. Sistema: El Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
+Se entiende por Protección Civil al conjunto de principios, normas, medidas y procedimientos a través de cuya observancia el Gobierno y la sociedad, llevan a cabo acciones para proteger la vida y el patrimonio de la población, la planta productiva, la prestación de servicios públicos y el medio ambiente, así como para la recuperación de la población ante la eventualidad de un desastre provocado por agentes naturales o humanos.
 
-IV. Violencia contra las Mujeres: Cualquier acción u omisión, basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público;
+###### Artículo 3.
 
-V. Modalidades de Violencia: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres;
+Para los efectos de esta ley, se entiende por:
 
-VI. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
+I. ALARMA.- Ultimo de los tres posibles estados de mando que se producen en las fases de emergencias del subprograma de auxilio (prealerta, alerta y alarma). Se establece cuando se han producido daños en la población, sus bienes y su entorno, lo cual implica la necesaria ejecución del subprograma de auxilio, instrumento acústico, óptico o mecánico que al ser accionado según previo acuerdo, avisa de la presencia o inminencia de una calamidad por lo que al accionarse, las personas involucradas toman las medidas preventivas necesarias de acuerdo a una preparación preestablecida; también tienen el sentido de la emisión de un aviso o señal para establecer el estado de alarma en el organismo correspondiente, en cuyo caso se dice dar la alarma;
 
-VII. Agresor: La persona que inflige cualquier tipo de violencia contra las mujeres;
+II. ALERTA, ESTADO DE.- Segundo de los tres posibles estados de mando que sé producen en la fase de emergencia (prealerta, alerta y alarma). Se establece al recibir información sobre la inminente ocurrencia de una calamidad cuyos daños pueden llegar al grado de desastre, debido a la forma en que se ha extendido el peligro o en virtud de la evolución que presenta, de tal manera que es muy posible la aplicación del subprograma de auxilio;
 
-VIII. Derechos Humanos de las Mujeres: Refiere a los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todos las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará) y demás instrumentos internacionales en la materia;
+III. ATLAS DE RIESGOS.- Sistema de información geográfica, actualizado que permite identificar el tipo de riesgo a que están expuestos los servicios vitales, sistemas estratégicos, las personas, sus bienes y entorno;
 
-IX. Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+IV. AUXILIO O SOCORRO.- Ayuda en medios materiales, necesidades personales y servicios proporcionados a personas o comunidades sin la cual podrían padecer;
 
-X. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades, y
+V. CALAMIDAD.- Acontecimiento o fenómeno destructivo que ocasiona daños a la comunidad, sus bienes y entorno, transformando su estado normal en un estado de desastre;
 
-XI. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer.
+VI. DESASTRE.- Evento concentrado en tiempo y espacio, en el cual la sociedad o una parte de ella sufre un severo daño e incurre en pérdidas para sus miembros, de tal manera que la estructura se desajusta y se impide el cumplimiento de las actividades esenciales de la sociedad, afectando el funcionamiento vital de la misma;
 
-###### ARTÍCULO 6.
+VII. EMERGENCIA.- Evento repentino e imprevisto, que hace tomar medidas de prevención, protección y control inmediatas para minimizar sus consecuencias;
 
-Los tipos de Violencia contra las Mujeres son:
+VIII. EVACUACIÓN.- Medida de seguridad por alejamiento de la población de la zona de peligro, en la cual debe preverse la colaboración de la población civil de manera individual o en grupos. En su programación, el procedimiento de evaluación debe considerar entre otros aspectos el desarrollo de las misiones de salvamento, socorro y asistencia social, los medios, los itinerarios y las zonas de concentración y destino, la documentación del transporte para los niños; las instrucciones sobre el equipo familiar, además el esquema de regreso a sus hogares una vez superada la situación de emergencia;
 
-> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2009)</small>
+IX. INSTRUMENTOS DE LA PROTECCIÓN CIVIL.- Se refiere a toda aquella información y materiales empleados para la planeación y operación de la Protección Civil en el Estado de Zacatecas;
 
-I. La violencia psicológica.- Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+X. LEY.- Ley de Protección Civil del Estado de Zacatecas;
 
-II. La violencia física.- Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas, o ambas;
+XI. MITIGACIÓN.- Son las medidas tomadas con anticipación al desastre y durante la emergencia para reducir su impacto en la población, bienes y entorno;
 
-III. La violencia patrimonial.- Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima;
+XII. ORGANIZACIONES CIVILES.- Asociaciones de personas, legalmente constituidas y registradas, cuyo objeto social se vincula a la protección civil en sus diferentes fases;
 
-IV. Violencia económica.- Es toda acción u omisión del Agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+XIII. PREALERTA.- Estado permanente de prevención de los organismos de respuesta de la protección civil, con base en la información sobre la probable presencia de un fenómeno destructivo;
 
-V. La violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la Víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto, y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+XIV. PREVENCIÓN.- Conjunto de disposiciones, medidas y acciones anticipadas para la autoprotección y autocuidado, cuya finalidad estriba en impedir o disminuir los efectos del impacto destructivo de los fenómenos perturbadores sobre la vida y bienes de la población, que se producen ante una emergencia siniestro o desastre;
 
-## TITULO II. MODALIDADES DE LA VIOLENCIA
+XV. RIESGO.- Grado de probabilidad de pérdidas de vidas, personas heridas, propiedad dañada o actividad económica suspendida, durante un período y una región determinados;
 
-### CAPÍTULO I. DE LA VIOLENCIA EN EL ÁMBITO FAMILIAR
+XVI. SERVICIOS VITALES.- Los que en su conjunto proporcionan las condiciones mínimas de vida y bienestar social, a través de los servicios públicos, tales como energía eléctrica, agua potable, salud, abasto, alcantarillado, limpia, transporte, comunicaciones, energéticos y el sistema administrativo;
 
-###### ARTÍCULO 7.
+XVII. SIMULACRO.- Ejercicio para la toma de decisiones y adiestramiento en Protección Civil, en una comunidad o área preestablecida mediante la simulación de una emergencia o desastre, para promover una coordinación más efectiva de respuesta por parte de las autoridades y la población;
 
-Violencia familiar: Es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo Agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
+XVIII. SINIESTRO.- Al hecho funesto, daño grave, destrucción, o pérdida importante que sufren los seres humanos en su persona o en sus bienes, causados por la presencia de un riesgo, emergencia o desastre;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
+XIX. SISTEMAS DE PROTECCIÓN CIVIL.- Conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos, procedimientos y programas que establece y concreta el Gobierno del Estado, con las organizaciones de los diversos grupos sociales y privados a fin de efectuar acciones correspondientes en cuanto a la prevención, mitigación, preparación, auxilio, restablecimiento, rehabilitación y reconstrucción en caso de riesgo, emergencia, siniestro o desastre;
 
-###### ARTÍCULO 8.
+XX. SISTEMAS ESTRATÉGICOS.- Se refiere a los elementos estructurales de servicio cuya afectación genera siniestros o desastres;
 
-Los modelos de atención, prevención y sanción que establezcan la Federación, las entidades federativas, el Distrito Federal y los municipios, son el conjunto de medidas y acciones para proteger a las víctimas de violencia familiar, como parte de la obligación del Estado, de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos. Para ello, deberán tomar en consideración:
+XXI. TÉRMINOS DE REFERENCIA.- Guía técnica para la elaboración de los programas internos y especiales de Protección Civil;
 
-I. Proporcionar atención, asesoría jurídica y tratamiento psicológico especializados y gratuitos a las víctimas, que favorezcan su empoderamiento y reparen el daño causado por dicha violencia;
+XXII. VULNERABILIDAD.- Susceptibilidad de sufrir un daño o grado de pérdida, como resultado de un fenómeno destructivo.
 
-II. Brindar servicios reeducativos integrales, especializados y gratuitos al Agresor para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía masculina, y los patrones machistas que generaron su violencia;
+###### Artículo 4.
 
-III. Evitar que la atención que reciban la Víctima y el Agresor sea proporcionada por la misma persona y en el mismo lugar. En ningún caso podrán brindar atención, aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
+Corresponde al Gobernador del Estado y a los Presidentes Municipales:
 
-IV. Evitar procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre el Agresor y la Víctima;
+I. La aplicación de esta ley y de los ordenamientos que de ella se deriven en el ámbito de sus respectivas competencias, incorporando la participación de la sociedad civil;
 
-V. Favorecer la separación y alejamiento del Agresor con respecto a la Víctima, y
+II. Crear los Fondos Estatal y Municipales según sea el caso, para la atención de emergencias originadas por riesgos o desastres. La creación de estos Fondos se hará conforme a las disposiciones presupuestales aplicables;
 
-VI. Favorecer la instalación y el mantenimiento de refugios para las víctimas y sus hijas e hijos; la información sobre su ubicación será secreta y proporcionarán apoyo psicológico y legal especializados y gratuitos. Las personas que laboren en los refugios deberán contar con la cédula profesional correspondiente a la especialidad en que desarrollen su trabajo. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo violencia.
+III. Disponer la utilización y destino de los recursos de los respectivos fondos, una vez que se hayan agotado los procedimientos establecidos en esta ley;
 
-###### ARTÍCULO 9.
+IV. Superada la emergencia o desastre, el Gobernador del Estado informará a la Legislatura sobre la utilización y destino de los recursos. Los Presidentes Municipales harán lo propio ante los Ayuntamientos y la Legislatura.
 
-Con el objeto de contribuir a la erradicación de la violencia contra las mujeres dentro de la familia, los Poderes Legislativos, Federal y Locales, en el respectivo ámbito de sus competencias, considerarán:
+###### Artículo 5.
 
-I. Tipificar el delito de violencia familiar, que incluya como elementos del tipo los contenidos en la definición prevista en el artículo 7 de esta ley;
+En los presupuestos de egresos del Estado y de los ayuntamientos, se contemplarán las partidas necesarias para el cumplimiento de las acciones que establece la presente Ley.
 
-II. Establecer la violencia familiar como causal de divorcio, de pérdida de la patria potestad y de restricción para el régimen de visitas, así como impedimento para la guarda y custodia de niñas y niños;
+###### Artículo 6.
 
-III. Disponer que cuando la pérdida de la patria potestad sea por causa de violencia familiar y/o incumplimiento de obligaciones alimentarias o de crianza, no podrá recuperarse la misma, y
+Es deber de los medios de comunicación social, colaborar sin costo alguno con las autoridades, orientando y difundiendo oportuna y verazmente información en materia de Protección Civil.
 
-IV. Incluir como parte de la sentencia, la condena al Agresor a participar en servicios reeducativos integrales, especializados y gratuitos.
+## TITULO II. DE LA ORGANIZACIÓN OPERATIVA Y DE LOS PROGRAMAS Y ACCIONES DE PROTECCIÓN CIVIL
 
-### CAPÍTULO II. DE LA VIOLENCIA LABORAL Y DOCENTE
+### CAPITULO II. DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL
 
-###### ARTÍCULO 10.
+###### Artículo 7.
 
-Violencia Laboral y Docente: Se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, consistente en un acto o una omisión en abuso de poder que daña la autoestima, salud, integridad, libertad y seguridad de la víctima, e impide su desarrollo y atenta contra la igualdad.
+Las empresas que por la índole de su actividad tengan o reciban una afluencia masiva de personas están obligadas a elaborar un programa interno de Protección Civil contando para ello con la asesoría técnica de la Dirección Estatal.
 
-Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño. También incluye el acoso o el hostigamiento sexual.
+###### Artículo 8.
 
-> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2014)</small>
+Toda persona que habite en el Estado, está obligada a informar a las autoridades sobre fenómenos, hechos, actos u omisiones que puedan causar un riesgo, emergencia o desastre. También está obligada a colaborar con las diversas instancias del Gobierno en las acciones de Protección Civil.
 
-###### ARTÍCULO 11.
+###### Artículo 9.
 
-Constituye violencia laboral: la negativa ilegal a contratar a la Víctima o a respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en la ley y todo tipo de discriminación por condición de género.
+Toda empresa pública o privada cuya actividad sea asesorar en materia de Protección Civil, deberá registrarse ante la Dirección Estatal y recabar de ésta, la autorización para el ejercicio de sus funciones.
 
-###### ARTÍCULO 12.
+### CAPITULO III. DEL CONSEJO ESTATAL DE PROTECCIÓN CIVIL
 
-Constituyen violencia docente: aquellas conductas que dañen la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones y/o características físicas, que les infligen maestras o maestros.
+###### Artículo 10.
 
-###### ARTÍCULO 13.
+Las Dependencias estatales y municipales, así como los ciudadanos residentes o de paso por el Estado, tienen el deber de cooperar con las autoridades para que las acciones de Protección Civil se realicen en forma coordinada y eficaz.
 
-El hostigamiento sexual es el ejercicio del poder, en una relación de subordinación real de la víctima frente al agresor en los ámbitos laboral y/o escolar. Se expresa en conductas verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva.
+###### Artículo 11.
 
-El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
+En todas las edificaciones excepto en casas habitación unifamiliares, se deberán colocar en lugares visibles señalizaciones adecuadas e instructivos para casos de emergencia, en los que se consignarán las reglas u observaciones, antes, durante y después del desastre; así mismo deberá señalarse las zonas de seguridad y salidas de emergencia, siguiendo los lineamientos establecidos por las normas oficiales mexicanas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
+###### Artículo 12.
 
-###### ARTÍCULO 14.
+El Sistema Estatal, parte integrante del Sistema Nacional, es un conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos, y procedimientos que establecen las dependencias y entidades del sector público estatal entre sí, con las organizaciones de los diversos grupos voluntarios, sociales y privados, así como con las autoridades municipales, a fin de llevar a cabo acciones de común acuerdo, destinadas a la protección de la población contra los peligros y riesgos que se presentan en la eventualidad de un desastre.
 
-Las entidades federativas y el Distrito Federal, en función de sus atribuciones, tomarán en consideración:
+###### Artículo 13.
 
-I. Establecer las políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales y/o de docencia;
+Son objetivos del Sistema Estatal:
 
-II. Fortalecer el marco penal y civil para asegurar la sanción a quienes hostigan y acosan;
+I. Básico: Proteger a la población ante la eventualidad de un desastre provocado por agentes naturales o humanos, a través de acciones que reduzcan o eliminen la pérdida de vidas, la afectación de la planta productiva, la destrucción de bienes materiales y el daño a la naturaleza, así como la interrupción de las funciones esenciales de la comunidad;
 
-III. Promover y difundir en la sociedad que el hostigamiento sexual y el acoso sexual son delitos, y
+II. Generales:
 
-IV. Diseñar programas que brinden servicios reeducativos integrales para víctimas y agresores.
+a) Afirmar el sentido social de la función pública de protección civil, integrando su Programa a las acciones del desarrollo del Estado;
 
-###### ARTÍCULO 15.
+b) Establecer, fomentar y encauzar una nueva conciencia y actitud de la población en materia de protección civil, para motivar en momentos de riesgo, emergencia o desastre, una respuesta eficaz, amplia, responsable y comprometida;
 
-Para efectos del hostigamiento o el acoso sexual, los tres órdenes de gobierno deberán:
+c) Integrar la acción del Estado y los municipios, para organizar y mejorar su capacidad de respuesta ante un riesgo, emergencia o desastre;
 
-I. Reivindicar la dignidad de las mujeres en todos los ámbitos de la vida;
+d) Establecer, reforzar y ampliar el aprovechamiento de las acciones de prevención, para conocer y reducir los efectos destructivos ante la eventualidad de un desastre;
 
-II. Establecer mecanismos que favorezcan su erradicación en escuelas y centros laborales privados o públicos, mediante acuerdos y convenios con instituciones escolares, empresas y sindicatos;
+e) Realizar las acciones de auxilio y recuperación para atender las consecuencias de los efectos destructivos en caso de riesgo, alto riesgo, emergencia o desastre;
 
-III. Crear procedimientos administrativos claros y precisos en las escuelas y los centros laborales, para sancionar estos ilícitos e inhibir su comisión.
+f) Informar anticipadamente a la población de la existencia de una situación probable de riesgo a efecto de tomar medidas adecuadas;
 
-IV. En ningún caso se hará público el nombre de la víctima para evitar algún tipo de sobrevictimización o que sea boletinada o presionada para abandonar la escuela o trabajo;
+g) Las demás que sean afines a las anteriores y que coadyuven en la mejor atención del Programa y acciones de protección civil, que se emprendan y realicen en el Estado.
 
-V. Para los efectos de la fracción anterior, deberán sumarse las quejas anteriores que sean sobre el mismo hostigador o acosador, guardando públicamente el anonimato de la o las quejosas;
+###### Artículo 14.
 
-VI. Proporcionar atención psicológica y legal, especializada y gratuita a quien sea víctima de hostigamiento o acoso sexual, y
+El Sistema Estatal está integrado por:
 
-VII. Implementar sanciones administrativas para los superiores jerárquicos del hostigador o acosador cuando sean omisos en recibir y/o dar curso a una queja.
+I. El Consejo Estatal;
 
-### CAPÍTULO III. DE LA VIOLENCIA EN LA COMUNIDAD
+II. La Dirección Estatal; y (sic)
 
-###### ARTÍCULO 16.
+III. Las unidades de Protección Civil;
 
-Violencia en la Comunidad: Son los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres y propician su denigración, discriminación, marginación o exclusión en el ámbito público.
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-###### ARTÍCULO 17.
+IV. Los consejos municipales de protección civil.
 
-El Estado mexicano debe garantizar a las mujeres la erradicación de la violencia en la comunidad, a través de:
+###### Artículo 15.
 
-I. La reeducación libre de estereotipos y la información de alerta sobre el estado de riesgo que enfrentan las mujeres en una sociedad desigual y discriminatoria;
+La Secretaria General de Gobierno, tendrá a su cargo la coordinación ejecutiva del Sistema Estatal de Protección Civil.
 
-II. El diseño de un sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres, y
+### CAPITULO IV. DE LA DIRECCIÓN ESTATAL DE PROTECCIÓN CIVIL
 
-III. El establecimiento de un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones de política criminal que correspondan y faciliten el intercambio de información entre las instancias.
+###### Artículo 16.
 
-### CAPÍTULO IV. DE LA VIOLENCIA INSTITUCIONAL
+El Consejo Estatal es el órgano de consulta y de coordinación de acciones del Sistema Estatal.
 
-###### ARTÍCULO 18.
+###### Artículo 17.
 
-Violencia Institucional: Son los actos u omisiones de las y los servidores públicos de cualquier orden de gobierno que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+El Consejo Estatal tendrá las siguientes atribuciones:
 
-###### ARTÍCULO 19.
+I. Fungir como órgano de consulta y de coordinación de acciones del Gobierno de la Entidad para integrar, concertar e inducir las actividades de los diversos participantes e interesados en la protección civil, con la finalidad de garantizar el cumplimiento de los objetivos del Sistema Estatal;
 
-Los tres órdenes de gobierno, a través de los cuales se manifiesta el ejercicio del poder público, tienen la obligación de organizar el aparato gubernamental de manera tal que sean capaces de asegurar, en el ejercicio de sus funciones, el derecho de las mujeres a una vida libre de violencia.
+II. Fomentar la participación comprometida y responsable de todos los sectores de la sociedad, en la formulación y ejecución del Programa Estatal y de los programas especiales destinados a satisfacer las necesidades de protección civil del Estado;
 
-###### ARTÍCULO 20.
+III. Convocar, coordinar y armonizar, con pleno respeto a su autonomía, la participación de los municipios y a través de éstos o de manera directa, la de los diversos grupos sociales de la Entidad, en la definición y ejecución de las acciones que se convenga realizar en la materia;
 
-Para cumplir con su obligación de garantizar el derecho de las mujeres a una vida libre de violencia, los tres órdenes de gobierno deben prevenir, atender, investigar, sancionar y reparar el daño que les inflige.
+IV. Promover el estudio, la investigación y la capacitación en materia de protección civil;
 
-### CAPÍTULO V. DE LA VIOLENCIA FEMINICIDA Y DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
+V. Aprobar y evaluar el Programa Estatal y coadyuvar en su aplicación, procurando además, su más amplia difusión en la Entidad;
 
-### CAPÍTULO VI. DE LAS ÓRDENES DE PROTECCIÓN
+VI. Promover la generación de una cultura de protección civil, gestionando ante las autoridades correspondientes su incorporación en el Sistema Educativo Estatal;
 
-### CAPÍTULO I. DEL SISTEMA NACIONAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+VII. Vigilar la adecuada aplicación de los recursos que se asignen a la Dirección Estatal de Protección Civil;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 2009)</small>
+VIII. Coadyuvar en la integración de las Unidades Municipales de Protección Civil;
 
-###### ARTÍCULO 21.
+IX. Elaborar, publicar y distribuir material informativo de protección civil, a efecto de difundirlo con fines de prevención y orientación;
 
-Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado y puede culminar en homicidio y otras formas de muerte violenta de mujeres.
+X. Convocar y coordinar con pleno respeto de sus respectivas atribuciones, la participación de las dependencias federales establecidas en la Entidad;
 
-> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 2012)</small>
+XI. Evaluar la situación de desastre, la capacidad de respuesta de la Entidad y en su caso, la procedencia para solicitar apoyo al Gobierno Federal, por conducto de la Secretaría de Gobernación;
 
-En los casos de feminicidio se aplicarán las sanciones previstas en el artículo 325 del Código Penal Federal.
+XII. Constituir las comisiones que estime necesarias para la realización de sus objetivos;
 
-###### ARTÍCULO 22.
+XIII. Recibir y evaluar el informe anual de la Dirección Estatal de Protección Civil; y
 
-Alerta de violencia de género: Es el conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad.
+XIV. Las demás atribuciones afines a estas, que le sean encomendadas por el Gobernador del Estado.
 
-###### ARTÍCULO 23.
+### CAPITULO V. DEL CENTRO ESTATAL DE OPERACIONES
 
-La alerta de violencia de género contra las mujeres tendrá como objetivo fundamental garantizar la seguridad de las mismas, el cese de la violencia en su contra y eliminar las desigualdades producidas por una legislación que agravia sus derechos humanos, por lo que se deberá:
+###### Artículo 18.
 
-I. Establecer un grupo interinstitucional y multidisciplinario con perspectiva de género que dé el seguimiento respectivo;
+El Consejo Estatal se integra por:
 
-II. Implementar las acciones preventivas, de seguridad y justicia, para enfrentar y abatir la violencia feminicida;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. Elaborar reportes especiales sobre la zona y el comportamiento de los indicadores de la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
-IV. Asignar los recursos presupuestales necesarios para hacer frente a la contingencia de alerta de violencia de género contra las mujeres, y
+I. Un Presidente, que será el Gobernador del Estado, quien será suplido en sus ausencias por el Secretario General de Gobierno;
 
-V. Hacer del conocimiento público el motivo de la alerta de violencia de género contra las mujeres, y la zona territorial que abarcan las medidas a implementar.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-###### ARTÍCULO 24.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
-La declaratoria de alerta de violencia de género contra las mujeres, se emitirá cuando:
+II. Un Secretario Ejecutivo, que será el Secretario de Seguridad Pública;
 
-I. Los delitos del orden común contra la vida, la libertad, la integridad y la seguridad de las mujeres, perturben la paz social en un territorio determinado y la sociedad así lo reclame;
+III. Un Secretario Técnico, que será el Director Estatal de Protección Civil;
 
-II. Exista un agravio comparado que impida el ejercicio pleno de los derechos humanos de las mujeres, y
+IV. Los Delegados o Representantes de las Dependencias Federales que actúen en el Estado y cuyas funciones se realicen con las acciones de protección civil;
 
-III. Los organismos de derechos humanos a nivel nacional o de las entidades federativas, los organismos de la sociedad civil y/o los organismos internacionales, así lo soliciten.
+V. El Comandante de la Zona Militar;
 
-###### ARTÍCULO 25.
+VI. Los titulares de las dependencias y entidades de la Administración Pública del Estado;
 
-Corresponderá al gobierno federal a través de la Secretaría de Gobernación declarar la alerta de violencia de género y notificará la declaratoria al Poder Ejecutivo de la entidad federativa de que se trate.
+VII. Los Presidentes Municipales;
 
-###### ARTÍCULO 26.
+VIII. Los representantes de las organizaciones sociales, instituciones académicas, grupos voluntarios, organismos especializados y medios de comunicación.
 
-Ante la violencia feminicida, el Estado mexicano deberá resarcir el daño conforme a los parámetros establecidos en el Derecho Internacional de los Derechos Humanos y considerar como reparación:
+Cada consejero propietario, designará un suplente que lo sustituya en sus faltas temporales. Los representantes titulares señalados en las Fracciones I a VII, participarán en las reuniones con voz y voto en las resoluciones del consejo estatal, los señalados en la fracción VIII concurrirán a solicitud del presidente del consejo, teniendo voz en las sesiones más no voto.
 
-I. El derecho a la justicia pronta, expedita e imparcial: Se deben investigar las violaciones a los derechos de las mujeres y sancionar a los responsables;
+###### Artículo 19.
 
-II. La rehabilitación: Se debe garantizar la prestación de servicios jurídicos, médicos y psicológicos especializados y gratuitos para la recuperación de las víctimas directas o indirectas;
+El Consejo Estatal celebrará dos sesiones ordinarias anualmente y las extraordinarias que se requieran, a convocatoria de su Presidente.
 
-III. La satisfacción: Son las medidas que buscan una reparación orientada a la prevención de violaciones. Entre las medidas a adoptar se encuentran:
+###### Artículo 20.
 
-a) La aceptación del Estado de su responsabilidad ante el daño causado y su compromiso de repararlo;
+Corresponde al Presidente del Consejo Estatal:
 
-b) La investigación y sanción de los actos de autoridades omisas o negligentes que llevaron la violación de los derechos humanos de las Víctimas a la impunidad;
+I. Presidir las sesiones;
 
-c) El diseño e instrumentación de políticas públicas que eviten la comisión de delitos contra las mujeres, y
+II. Integrar de las comisiones de trabajo que se estimen necesarias;
 
-d) La verificación de los hechos y la publicidad de la verdad.
+III. Hacer la declaratoria formal de emergencia o zona de desastre;
 
-### CAPÍTULO II. DEL PROGRAMA INTEGRAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+IV. Autorizar la inmediata integración del Centro Estatal de Operaciones, cuando se registre la presencia de algún tipo de fenómeno destructivo; y
 
-###### ARTÍCULO 27.
+V. Las demás que le confiere la presente ley.
 
-Las órdenes de protección: Son actos de protección y de urgente aplicación en función del interés superior de la Víctima y son fundamentalmente precautorias y cautelares. Deberán otorgarse por la autoridad competente, inmediatamente que conozcan de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres.
+### CAPITULO VI. DE LA UNIDAD MUNICIPAL DE PROTECCIÓN CIVIL
 
-###### ARTÍCULO 28.
+### CAPITULO I. DEL PROGRAMA ESTATAL
 
-Las órdenes de protección que consagra la presente ley son personalísimas e intransferibles y podrán ser:
+### CAPITULO II. DE LA DECLARATORIA DE EMERGENCIA
 
-I. De emergencia;
+###### Artículo 21.
 
-II. Preventivas, y
+Corresponde al Secretario Ejecutivo:
 
-III. De naturaleza Civil.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
-Las órdenes de protección de emergencia y preventivas tendrán una temporalidad no mayor de 72 horas y deberán expedirse dentro de las 8 horas siguientes al conocimiento de los hechos que las generan.
+I. En ausencia del Presidente y de su suplente, presidir las sesiones y realizar las acciones que le competan;
 
-###### ARTÍCULO 29.
+II. Formular el orden del día para cada sesión;
 
-Son órdenes de protección de emergencia las siguientes:
+III. Dar seguimiento a las disposiciones y acuerdos del Consejo Estatal;
 
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
+IV. Certificar las actas del Consejo y dar fe de su contenido;
 
-I. Desocupación inmediata por el agresor del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo;
+V. Presentar al Consejo el Programa Estatal;
 
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
+VI. Rendir informe anual sobre los trabajos del Consejo;
 
-II. Prohibición inmediata al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
+VII. Ejercer la representación legal del Consejo;
 
-III. Reingreso de la víctima al domicilio, una vez que se salvaguarde de su seguridad, y
+VIII. Designar al Coordinador Operativo del Centro Estatal de Operaciones cuando éste se integre; y
 
-IV. Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia.
+IX. Las demás que le confieran la presente ley y las que provengan por acuerdo del Consejo Estatal y/o su Presidente.
 
-###### ARTÍCULO 30.
+###### Artículo 22.
 
-Son órdenes de protección preventivas las siguientes:
+Corresponde al Secretario Técnico:
 
-I. Retención y guarda de armas de fuego propiedad del Agresor o de alguna institución privada de seguridad, independientemente si las mismas se encuentran registradas conforme a la normatividad de la materia.
+I. Suplir al Secretario Ejecutivo en sus ausencias;
 
-Es aplicable lo anterior a las armas punzocortantes y punzocontundentes que independientemente de su uso, hayan sido empleadas para amenazar o lesionar a la víctima;
+II. Elaborar y someter a consideración del Secretario Ejecutivo, el proyecto de calendario de sesiones del Consejo Estatal y levantar las actas de éstas;
 
-II. Inventario de los bienes muebles e inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima;
+III. Convocar por escrito a las sesiones ordinarias y a las extraordinarias cuando el Presidente así lo determine;
 
-III. Uso y goce de bienes muebles que se encuentren en el inmueble que sirva de domicilio de la víctima;
+IV. Dar cuenta al Consejo de los requerimientos de la Dirección Estatal de Protección Civil;
 
-IV. Acceso al domicilio en común, de autoridades policíacas o de personas que auxilien a la Víctima a tomar sus pertenencias personales y las de sus hijas e hijos;
+V. Fungir como coordinador técnico del Centro Estatal de Operaciones; y
 
-V. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y de sus hijas e hijos;
+VI. Las demás funciones que le confiera esta ley, el Consejo Estatal, el Presidente o el Secretario Ejecutivo.
 
-VI. Auxilio policíaco de reacción inmediata a favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice o se encuentre la Víctima en el momento de solicitar el auxilio, y
+###### Artículo 23.
 
-VII. Brindar servicios reeducativos integrales especializados y gratuitos, con perspectiva de género al agresor en instituciones públicas debidamente acreditadas.
+La Dirección Estatal es una dependencia del Poder Ejecutivo Estatal, cuya función es proponer, dirigir, presupuestar, ejecutar y vigilar las acciones de protección civil con apego a esta ley, en coordinación con los sectores público, social, privado, académico, grupos voluntarios y la población en general.
 
-###### ARTÍCULO 31.
+###### Artículo 24.
 
-Corresponderá a las autoridades federales, estatales y del Distrito Federal, en el ámbito de sus competencias, otorgar las órdenes emergentes y preventivas de la presente ley, quienes tomarán en consideración:
+La Dirección Estatal se integrará por:
 
-I. El riesgo o peligro existente;
+I. Un Director;
 
-II. La seguridad de la víctima, y
+II. Una Unidad administrativa;
 
-III. Los elementos con que se cuente.
+III. Una Unidad operativa;
 
-###### ARTÍCULO 32.
+IV. La estructura que al efecto apruebe el Consejo Estatal a propuesta de su Presidente.
 
-Son órdenes de protección de naturaleza civil las siguientes:
+###### Artículo 25.
 
-I. Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes;
+Son atribuciones de la Dirección Estatal:
 
-II. Prohibición al agresor de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal;
+I. Elaborar y presentar al Secretario Ejecutivo el anteproyecto del Programa Estatal;
 
-III. Posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio;
+II. Elaborar el inventario de recursos humanos y materiales disponibles para hacer frente a un riesgo, emergencia o desastre;
 
-IV. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarias, y
+III. Integrar a su Titular como Coordinador Técnico del Centro Estatal de Operaciones;
 
-V. Obligación alimentaria provisional e inmediata.
+IV. Organizar y llevar a cabo acciones de capacitación para la sociedad en materia de protección civil;
 
-Serán tramitadas ante los juzgados de lo familiar o a falta de éstos en los juzgados civiles que corresponda.
+V. Coadyuvar en la promoción de una cultura de protección civil;
 
-###### ARTÍCULO 33.
+VI. Identificar los riesgos que se presentan en la Entidad, integrando el Atlas correspondiente y apoyando a las unidades municipales para la elaboración de sus Atlas Municipales de Riesgos;
 
-Corresponde a las autoridades jurisdiccionales competentes valorar las órdenes y la determinación de medidas similares en sus resoluciones o sentencias. Lo anterior con motivo de los juicios o procesos que en materia civil, familiar o penal, se estén ventilando en los tribunales competentes.
+VII. Promover la integración de las unidades internas de protección civil en las dependencias y organismos de la Administración Pública Estatal, y en las Federales establecidas en la Entidad y de manera supletoria en las municipales;
 
-###### ARTÍCULO 34.
+VIII. Proporcionar información y dar asesoría a las empresas, instituciones, organismos, asociaciones privadas y del sector social, para integrar sus unidades internas y promover su participación en las acciones de protección civil;
 
-Las personas mayores de 12 años de edad podrán solicitar a las autoridades competentes que los representen en sus solicitudes y acciones, a efecto de que las autoridades correspondientes puedan de manera oficiosa dar el otorgamiento de las órdenes; quienes sean menores de 12 años, sólo podrán solicitar las órdenes a través de sus representantes legales.
+IX. Llevar el registro, capacitar y coordinar la participación de los grupos voluntarios;
 
-### CAPÍTULO III. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
+X. Llevar el registro de las empresas asesoras, capacitadoras y de estudio de riesgo-vulnerabilidad en materia de protección, a través de la expedición de registros de operación;
 
-> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 2009)</small>
+XI. Coadyuvar en la organización y operación de los centros de acopio para recibir y administrar ayuda la población afectada por un desastre.
+
+XII. En caso de riesgo, emergencia o desastre, formular la evaluación inicial de la magnitud del mismo, presentando de inmediato esta información al Consejo Estatal;
+
+XIII. Las demás que le asigne la presente ley.
+
+###### Artículo 26.
+
+Los titulares de las dependencias del Gobierno Estatal y los Ayuntamientos serán responsables en el área de su competencia, de los programas de protección civil, su operatividad y coordinación.
+
+### CAPITULO III. DE LA DECLARATORIA DE ZONA DE DESASTRE
+
+###### Artículo 27.
+
+La Dirección Estatal promoverá que las escuelas, oficinas, empresas y demás establecimientos públicos o privados, instalen sus propias unidades internas de protección civil. Esos mismos establecimientos deberán realizar cuando menos dos veces al año, simulacros para hacer frente a riesgos, emergencias o desastres.
+
+###### Artículo 28.
+
+La Dirección Estatal podrá recibir donativos en efectivo o en especie de personas, dependencias del Gobierno Federal, del sector privado y de organismos internacionales.
+
+###### Artículo 29.
+
+La Dirección Estatal operará coordinadamente con la Dirección General de Protección Civil de la Secretaría de Gobernación.
+
+###### Artículo 30.
+
+Para ser titular de la Dirección de Protección Civil, se requiere:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos;
+
+II. Tener cuando menos 30 años cumplidos el día de su designación;
+
+III. Residir en el Estado, cuando menos un año anterior a su nombramiento;
+
+IV. Contar con estudios de licenciatura, experiencia mínima de dos años y conocimientos técnicos en la materia;
+
+V. No desempeñar cargo directivo en ningún partido político al momento de su designación, ni durante su desempeño; y
+
+VI. No haber sido condenado por delito doloso.
+
+###### Artículo 31.
+
+El Centro Estatal de Operaciones es un organismo transitorio, activado por el Gobierno del Estado que tiene por función administrar los recursos humanos, financieros y materiales existentes en la Entidad, provenientes del Gobierno Federal, de otros Estados, o del extranjero en beneficio de la sociedad afectada por un desastre.
+
+###### Artículo 32.
+
+El Centro Estatal de Operaciones estará organizado por:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
+
+I. Un Director General. Que será el Secretario de Seguridad Pública;
+
+II. Un Director Técnico: que será el Director de Protección Civil;
+
+III. Un Director Operativo: que será el que designe el Director General;
+
+IV. Por las Unidades Operativas que se requieran.
+
+###### Artículo 33.
+
+Cada Unidad Operativa estará integrada por representantes de los diferentes organismos de los sectores público, social, privado, académico, y grupos voluntarios.
+
+###### Artículo 34.
+
+Corresponde al Presidente Municipal, coordinar y dirigir técnica y operativamente la atención de emergencias, para lo cual contará con el apoyo de la Unidad Municipal de Protección Civil.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+
+En los presupuestos de egresos de los municipios, deberán integrarse partidas presupuestales suficientes para el funcionamiento de las unidades municipales de protección civil.
+
+### CAPITULO IV. DE LA COORDINACIÓN DEL SISTEMA ESTATAL CON LOS SISTEMAS NACIONAL Y LAS UNIDADES MUNICIPALES
+
+###### Artículo 61.
+
+Las organizaciones civiles y empresas capacitadoras e instructores independientes, así como las empresas de consultoría y estudio de riesgo-vulnerabilidad, que por sus características se vinculen en materia de protección civil, deberán obtener su registro ante la Dirección, mediante la presentación de una solicitud en la que se declare la capacidad que poseen en materia de Protección Civil y en su caso, los medios técnicos mediante los cuales llevaron a cabo los cursos de capacitación y los estudios de riesgo-vulnerabilidad, acompañándose de los documentos que acrediten tales supuestos, así como los que acrediten su personalidad jurídica.
+
+Para el efecto la Dirección Estatal establecerá en el reglamento respectivo, los criterios y requisitos que deberán cumplir los interesados.
+
+###### Artículo 62.
+
+Toda persona tiene la obligación de denunciar ente las autoridades de protección civil, todo hecho, acto u omisión que cause o pueda causar situaciones de riesgo, emergencia o desastre. Para dar trámite, bastará el nombre y domicilio del denunciante, así como la relación de hechos.
+
+###### Artículo 63.
+
+Una vez recibida la denuncia, la instancia que la recibió, dará parte de inmediato a las autoridades federales, estatales o municipales bajo cuya responsabilidad se encuentre la obligación de actuar para hacer frente al riesgo, emergencia o desastre.
 
 ## TITULO III
 
-### CAPÍTULO IV. DE LA ATENCIÓN A LAS VÍCTIMAS
+### CAPÍTULO V. DE LOS GRUPOS VOLUNTARIOS
 
-###### ARTÍCULO 35.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-La Federación, las entidades federativas, el Distrito Federal y los municipios, se coordinarán para la integración y funcionamiento del Sistema, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+###### Artículo 64.
 
-Todas las medidas que lleve a cabo el Estado deberán ser realizadas sin discriminación alguna. Por ello, considerará el idioma, edad, condición social, preferencia sexual, o cualquier otra condición, para que puedan acceder a las políticas públicas en la materia.
+Las dependencias respectivas, efectuarán las diligencias necesarias para la comprobación de los hechos denunciados y tomarán las medidas que el caso amerite.
 
-###### ARTÍCULO 36.
+###### Artículo 65.
 
-El Sistema se conformará por las y los titulares de:
+Cuando por incumplimiento a las disposiciones de esta ley, se hubieren ocasionado daños o perjuicios, el o los interesados podrán solicitar a la autoridad de protección civil que corresponda, la formulación de un dictamen técnico al respecto, el cual tendrá valor de prueba, en caso de juicio.
 
-I. La Secretaría de Gobernación, quien lo presidirá;
+###### Artículo 66.
 
-II. La Secretaría de Desarrollo Social;
+Las autoridades de protección civil competentes en los términos de esta ley, atenderán de manera permanente al público, en el ejercicio de la denuncia popular. Para ello, difundirán ampliamente el domicilio y número telefónico destinados a recibir las denuncias.
 
-III. La Secretaría de Seguridad Pública;
+###### Artículo 35.
 
-IV. La Procuraduría General de la República;
+La Unidad Municipal de Protección Civil se integra por:
 
-V. La Secretaría de Educación Pública;
+I. Un Coordinador, que será el Presidente Municipal o la persona que éste designe, y
 
-VI. La Secretaría de Salud;
+II. Los titulares o representantes de las demás dependencias públicas estatales y municipales, cuyas actividades estén relacionadas con Protección Civil, y los representantes de los grupos voluntarios y organismos especializados en atención de emergencias.
 
-> <small>(ADICIONADA, D.O.F. 18 DE MAYO DE 2012)</small>
+###### Artículo 36.
 
-VII. La Secretaría del Trabajo y Previsión Social;
+La Unidad Municipal de Protección Civil, se coordinará con la Dirección Estatal, de la que recibirá el apoyo logístico, técnico y material que se requiera en el cumplimiento de sus objetivos.
 
-VIII. El Instituto Nacional de las Mujeres, quien ocupará la Secretaría Ejecutiva del Sistema;
+###### Artículo 37.
 
-IX. El Consejo Nacional para Prevenir la Discriminación;
+Los sistemas municipales a través de sus Presidentes, con aprobación del cabildo, podrán suscribir convenios de colaboración en materia de protección civil.
 
-X. El Sistema Nacional para el Desarrollo Integral de la Familia, y
+### CAPITULO VI. DE LAS UNIDADES INTERNAS DE PROTECCIÓN CIVIL EN LA EMPRESAS
 
-XI. Los mecanismos para el adelanto de las mujeres en las entidades federativas.
+###### Artículo 38.
 
-###### ARTÍCULO 37.
+Deberá existir dentro de cada unidad municipal copia de los siguientes documentos.
 
-La Secretaría Ejecutiva del Sistema elaborará el proyecto de reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación en su caso.
+I. Programa Estatal y Federal de Protección Civil.
 
-### CAPÍTULO V. DE LOS REFUGIOS PARA LAS VICTIMAS DE VIOLENCIA
+II. Atlas Nacional y estatal de riesgos, y
 
-###### ARTÍCULO 38.
+III. Programas Internos de protección civil presentados bajo los criterios que establezca la Dirección Estatal de Protección Civil.
 
-El Programa contendrá las acciones con perspectiva de género para:
+###### Artículo 39.
 
-I. Impulsar y fomentar el conocimiento y el respeto a los derechos humanos de las mujeres;
+El Órgano Municipal encargado de la materia de Protección Civil de cada Municipio, será responsable de elaborar, instrumentar, dirigir y operar la ejecución de los programas en la materia, coordinando sus acciones con las dependencias, instituciones y organismos de los sectores público, social, privado, académico, grupos voluntarios y la población en general.
 
-II. Transformar los modelos socioculturales de conducta de mujeres y hombres, incluyendo la formulación de programas y acciones de educación formales y no formales, en todos los niveles educativos y de instrucción, con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten, fomentan y toleran la violencia contra las mujeres;
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-III. Educar y capacitar en materia de derechos humanos al personal encargado de la procuración de justicia, policías y demás funcionarios encargados de las políticas de prevención, atención, sanción y eliminación de la violencia contra las mujeres;
+Artículo 39 bis.- Para el funcionamiento de los consejos municipales de protección civil a que se refiere la fracción IV del artículo 14 de la presente Ley, se aplicará en lo conducente el Capítulo III del Título Primero de este ordenamiento.
 
-IV. Educar y capacitar en materia de derechos humanos de las mujeres al personal encargado de la impartición de justicia, a fin de dotarles de instrumentos que les permita juzgar con perspectiva de género;
+### CAPITULO VII. DEL REGISTRO DE LAS ORGANIZACIONES CIVILES Y EMPRESAS CAPACITADORAS E INSTRUCTORES INDEPENDIENTES
 
-V. Brindar los servicios especializados y gratuitos para la atención y protección a las víctimas, por medio de las autoridades y las instituciones públicas o privadas;
+###### Artículo 40.
 
-VI. Fomentar y apoyar programas de educación pública y privada, destinados a concientizar a la sociedad sobre las causas y las consecuencias de la violencia contra las mujeres;
-
-VII. Diseñar programas de atención y capacitación a víctimas que les permita participar plenamente en todos los ámbitos de la vida;
-
-VIII. Vigilar que los medios de comunicación no fomenten la violencia contra las mujeres y que favorezcan la erradicación de todos los tipos de violencia, para fortalecer el respeto a los derechos humanos y la dignidad de las mujeres;
-
-IX. Garantizar la investigación y la elaboración de diagnósticos estadísticos sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
-
-X. Publicar semestralmente la información general y estadística sobre los casos de violencia contra las mujeres para integrar el Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres;
-
-XI. Promover la inclusión prioritaria en el Plan Nacional de Desarrollo de las medidas y las políticas de gobierno para erradicar la violencia contra las mujeres;
-
-XII. Promover la cultura de denuncia de la violencia contra las mujeres en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad, y
-
-XIII. Diseñar un modelo integral de atención a los derechos humanos y ciudadanía de las mujeres que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas.
-
-###### ARTÍCULO 39.
-
-El Ejecutivo Federal propondrá en el Proyecto de Presupuesto de Egresos de la Federación asignar una partida presupuestaria para garantizar el cumplimiento de los objetivos del Sistema y del Programa previstos en la presente ley.
-
-### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES Y SANCIONES
-
-> <small>(ADICIONADO D.O.F. 28 DE ENERO DE 2011)</small>
-
-###### ARTÍCULO 40.
-
-La Federación, las entidades federativas, el Distrito Federal y los municipios, coadyuvarán para el cumplimiento de los objetivos de esta ley de conformidad con las competencias previstas en el presente ordenamiento y demás instrumentos legales aplicables.
+El Programa Estatal es el conjunto de políticas, estrategias, lineamientos y acciones que se realizan en tiempo y lugar determinados, para cumplir con los objetivos del Sistema Estatal.
 
 #### Sección Primera.. De la Federación
 
-###### ARTÍCULO 41.
+###### Artículo 41.
 
-Son facultades y obligaciones de la Federación:
-
-I. Garantizar el ejercicio pleno del derecho de las mujeres a una vida libre de violencia;
-
-II. Formular y conducir la política nacional integral desde la perspectiva de género para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
-
-III. Vigilar el cabal cumplimiento de la presente ley y de los instrumentos internacionales aplicables;
-
-IV. Elaborar, coordinar y aplicar el Programa a que se refiere la ley, auxiliándose de las demás autoridades encargadas de implementar el presente ordenamiento legal;
-
-V. Educar en los derechos humanos a las mujeres en su lengua materna;
-
-VI. Asegurar la difusión y promoción de los derechos de las mujeres indígenas con base en el reconocimiento de la composición pluricultural de la nación;
-
-VII. Vigilar que los usos y costumbres de toda la sociedad no atenten contra los derechos humanos de las mujeres;
-
-VIII. Coordinar la creación de Programas de reeducación y reinserción social con perspectiva de género para agresores de mujeres;
-
-> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2009)</small>
-
-IX. Garantizar una adecuada coordinación entre la Federación, las entidades federativas, el Distrito Federal y los municipios, con la finalidad de erradicar la violencia contra las mujeres;
-
-X. Realizar a través del Instituto Nacional de las Mujeres y con el apoyo de las instancias locales, campañas de información, con énfasis en la doctrina de la protección integral de los derechos humanos de las mujeres, en el conocimiento de las leyes y las medidas y los programas que las protegen, así como de los recursos jurídicos que las asisten;
-
-XI. Impulsar la formación y actualización de acuerdos interinstitucionales de coordinación entre las diferentes instancias de gobierno, de manera que sirvan de cauce para lograr la atención integral de las víctimas;
-
-XII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
-
-XIII. Coadyuvar con las instituciones públicas o privadas dedicadas a la atención de víctimas;
-
-XIV. Ejecutar medidas específicas, que sirvan de herramientas de acción para la prevención, atención y erradicación de la violencia contra las mujeres en todos los ámbitos, en un marco de integralidad y promoción de los derechos humanos;
-
-XV. Promover y realizar investigaciones con perspectiva de género sobre las causas y las consecuencias de la violencia contra las mujeres;
-
-XVI. Evaluar y considerar la eficacia de las acciones del Programa, con base en los resultados de las investigaciones previstas en la fracción anterior;
-
-XVII. Rendir un informe anual sobre los avances del Programa, ante el H. Congreso de la Unión;
-
-XVIII. Vigilar que los medios de comunicación no promuevan imágenes estereotipadas de mujeres y hombres, y eliminen patrones de conducta generadores de violencia;
-
-XIX. Desarrollar todos los mecanismos necesarios para el cumplimiento de la presente ley, y
-
-XX. Las demás que le confieran esta ley u otros ordenamientos aplicables.
+Los Planes Estatal y Municipales de Desarrollo deberán contener un apartado relativo a los programas de protección civil, y será responsabilidad de las autoridades estatales y municipales proponer su inclusión en los convenios de desarrollo social.
 
 #### Sección Segunda.. De la Secretaría de Gobernación
 
-###### ARTÍCULO 42.
+###### Artículo 42.
 
-Corresponde a la Secretaría de Gobernación:
-
-I. Presidir el Sistema y declarar la alerta de violencia de género contra las mujeres;
-
-II. Diseñar la política integral con perspectiva de género para promover la cultura del respeto a los derechos humanos de las mujeres;
-
-III. Elaborar el Programa en coordinación con las demás autoridades integrantes del Sistema;
-
-> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2009)</small>
-
-IV. Formular las bases para la coordinación entre las autoridades federales, locales, del Distrito Federal y municipales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
-
-V. Coordinar y dar seguimiento a las acciones de los tres órdenes de gobierno en materia de protección, atención, sanción y erradicación de la violencia contra las mujeres;
-
-VI. Coordinar y dar seguimiento a los trabajos de promoción y defensa de los derechos humanos de las mujeres, que lleven a cabo las dependencias y entidades de la Administración Pública Federal;
-
-VII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
-
-VIII. Ejecutar y dar seguimiento a las acciones del Programa, con la finalidad de evaluar su eficacia y rediseñar las acciones y medidas para avanzar en la eliminación de la violencia contra las mujeres;
-
-IX. Diseñar, con una visión transversal, la política integral orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
-
-> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
-
-X. Vigilar y promover directrices para que los medios de comunicación favorezcan la erradicación de todos los tipos de violencia y se fortalezca la dignidad y el respeto hacia las mujeres;
-
-XI. Sancionar conforme a la ley a los medios de comunicación que no cumplan con lo estipulado en la fracción anterior;
-
-XII. Realizar un Diagnóstico Nacional y otros estudios complementarios de manera periódica con perspectiva de género sobre todas las formas de violencia contra las mujeres y las niñas, en todos los ámbitos, que proporcione información objetiva para la elaboración de políticas gubernamentales en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
-
-XIII. Difundir a través de diversos medios, los resultados del Sistema y del Programa a los que se refiere esta ley;
-
-XIV. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
-
-XV. Las demás previstas para el cumplimiento de la presente ley.
+Una vez que el Consejo haya aprobado el Programa Estatal, se publicará en el Periódico Oficial, Organo del Gobierno del Estado.
 
 #### Sección Tercera.. De la Secretaría de Desarrollo Social
 
 #### Sección Cuarta.. De la Secretaría de Seguridad Pública
 
-###### ARTÍCULO 43.
+###### Artículo 43.
 
-Corresponde a la Secretaría de Desarrollo Social:
-
-I. Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
-
-II. Coadyuvar en la promoción de los Derechos Humanos de las Mujeres;
-
-III. Formular la política de desarrollo social del estado considerando el adelanto de las mujeres y su plena participación en todos los ámbitos de la vida;
-
-IV. Realizar acciones tendientes a mejorar las condiciones de las mujeres y sus familias que se encuentren en situación de exclusión y de pobreza;
-
-V. Promover políticas de igualdad de condiciones y oportunidades entre mujeres y hombres, para lograr el adelanto de las mujeres para su empoderamiento y la eliminación de las brechas y desventajas de género;
-
-VI. Promover políticas de prevención y atención de la violencia contra las mujeres;
-
-VII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
-
-VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
-
-IX. Las demás previstas para el cumplimiento de la presente ley.
+En el caso de que se identifiquen riesgos específicos que puedan afectar de manera grave a la población, se podrán elaborar programas especiales de protección civil.
 
 #### Sección Quinta.. De la Secretaría de Educación Pública
 
-###### ARTÍCULO 44.
+###### Artículo 44.
 
-Corresponde a la Secretaría de Seguridad Pública:
-
-I. Capacitar al personal de las diferentes instancias policiales para atender los casos de violencia contra las mujeres;
-
-II. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
-
-III. Integrar el Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres;
-
-IV. Diseñar la política integral para la prevención de delitos violentos contra las mujeres, en los ámbitos público y privado;
-
-V. Establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social del agresor;
-
-VI. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
-
-VII. Formular acciones y programas orientados a fomentar la cultura del respeto a los derechos humanos de las mujeres;
-
-VIII. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
-
-IX. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
-
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
-
-X. Celebrar convenios de cooperación, coordinación y concertación en la materia;
-
-> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
-
-XI. Realizar una página de Internet específica en la cual se encuentren los datos generales de las mujeres y niñas que sean reportadas como desaparecidas. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres y niñas desaparecidas. Esta página deberá actualizarse de forma permanente, y
-
-XII. Las demás previstas para el cumplimiento de la presente ley.
+El Programa Estatal deberá ser revisado y actualizado anualmente.
 
 #### Sección Sexta.. De la Secretaría de Salud
 
-###### ARTÍCULO 45.
+###### Artículo 45.
 
-Corresponde a la Secretaría de Educación Pública:
-
-I. Definir en las políticas educativas los principios de igualdad, equidad y no discriminación entre mujeres y hombres y el respeto pleno a los derechos humanos;
-
-> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
-
-II. Desarrollar programas educativos, en todos los niveles de escolaridad, que fomenten la cultura de una vida libre de violencia contra las mujeres y el respeto a su dignidad; así como la comprensión adecuada al ejercicio del derecho a una paternidad y maternidad libre, responsable e informada, como función social y el reconocimiento de la responsabilidad compartida de hombres y mujeres en cuanto a la educación y el desarrollo de sus hijos;
-
-III. Garantizar acciones y mecanismos que favorezcan el adelanto de las mujeres en todas las etapas del proceso educativo;
-
-IV. Garantizar el derecho de las niñas y mujeres a la educación: a la alfabetización y al acceso, permanencia y terminación de estudios en todos los niveles. A través de la obtención de becas y otras subvenciones;
-
-V. Desarrollar investigación multidisciplinaria encaminada a crear modelos de detección de la violencia contra las mujeres en los centros educativos;
-
-VI. Capacitar al personal docente en derechos humanos de las mujeres y las niñas;
-
-VII. Incorporar en los programas educativos, en todos los niveles de la instrucción, el respeto a los derechos humanos de las mujeres, así como contenidos educativos tendientes a modificar los modelos de conducta sociales y culturales que impliquen prejuicios y que estén basados en la idea de la inferioridad o superioridad de uno de los sexos y en funciones estereotipadas asignadas a las mujeres y a los hombres;
-
-VIII. Formular y aplicar programas que permitan la detección temprana de los problemas de violencia contra las mujeres en los centros educativos, para que se dé una primera respuesta urgente a las alumnas que sufren algún tipo de violencia;
-
-IX. Establecer como un requisito de contratación a todo el personal de no contar con algún antecedente de violencia contra las mujeres;
-
-X. Diseñar y difundir materiales educativos que promuevan la prevención y atención de la violencia contra las mujeres;
-
-XI. Proporcionar acciones formativas a todo el personal de los centros educativos, en materia de derechos humanos de las niñas y las mujeres y políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
-
-XII. Eliminar de los programas educativos los materiales que hagan apología de la violencia contra las mujeres o contribuyan a la promoción de estereotipos que discriminen y fomenten la desigualdad entre mujeres y hombres;
-
-XIII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
-
-XIV. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
-
-XV. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
-
-XVI. Las demás previstas para el cumplimiento de la presente ley.
+El Ejecutivo del Estado en los casos de riesgo, podrá emitir una declaratoria formal de emergencia, la que comunicará de inmediato al Consejo Estatal, mandando se publique en el Periódico Oficial, Organo del Gobierno del Estado y se difundirá a través de los medios de comunicación masiva.
 
 #### Sección Séptima.. De la Procuraduría General de la República
 
-###### ARTÍCULO 46.
+###### Artículo 46.
 
-Corresponde a la Secretaría de Salud:
+La declaratoria de emergencia hará mención expresa entre otros, de los siguientes aspectos:
 
-I. En el marco de la política de salud integral de las mujeres, diseñar con perspectiva de género, la política de prevención, atención y erradicación de la violencia en su contra;
+I. Identificación de alto riesgo o inminente desastre;
 
-II. Brindar por medio de las instituciones del sector salud de manera integral e interdisciplinaria atención médica y psicológica con perspectiva de género a las víctimas;
+II. Infraestructura, bienes y sistemas afectables;
 
-> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
+III. Determinación de las acciones de prevención y auxilio;
 
-III. Crear programas de capacitación para el personal del sector salud, respecto de la violencia contra las mujeres y se garanticen la atención a las víctimas y la aplicación de las normas oficiales mexicanas vigentes en la materia;
+IV. Suspensión de actividades públicas y privadas que así lo ameriten; y
 
-IV. Establecer programas y servicios profesionales y eficaces, con horario de veinticuatro horas en las dependencias públicas relacionadas con la atención de la violencia contra las mujeres;
-
-V. Brindar servicios reeducativos integrales a las víctimas y a los agresores, a fin de que logren estar en condiciones de participar plenamente en la vida pública, social y privada;
-
-VI. Difundir en las instituciones del sector salud, material referente a la prevención y atención de la violencia contra las mujeres;
-
-VII. Canalizar a las víctimas a las instituciones que prestan atención y protección a las mujeres;
-
-VIII. Mejorar la calidad de la atención, que se preste a las mujeres víctimas;
-
-IX. Participar activamente, en la ejecución del Programa, en el diseño de nuevos modelos de prevención, atención y erradicación de la violencia contra las mujeres, en colaboración con las demás autoridades encargadas de la aplicación de la presente ley;
-
-X. Asegurar que en la prestación de los servicios del sector salud sean respetados los derechos humanos de las mujeres;
-
-XI. Capacitar al personal del sector salud, con la finalidad de que detecten la violencia contra las mujeres;
-
-XII. Apoyar a las autoridades encargadas de efectuar investigaciones en materia de violencia contra las mujeres, proporcionando la siguiente información:
-
-a) La relativa al número de víctimas que se atiendan en los centros y servicios hospitalarios;
-
-b) La referente a las situaciones de violencia que sufren las mujeres;
-
-c) El tipo de violencia por la cual se atendió a la víctima;
-
-d) Los efectos causados por la violencia en las mujeres, y
-
-e) Los recursos erogados en la atención de las víctimas.
-
-XIII. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
-
-XIV. Las demás previstas para el cumplimiento de la presente ley.
-
-> <small>(ADICIONADO, D.O.F. 18 DE MAYO DE 2012)</small>
-
-ARTÍCULO 46 BIS.- Corresponde a la Secretaría del Trabajo y Previsión Social:
-
-I. Impulsar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y de hombres en materia de trabajo y previsión social;
-
-II. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres;
-
-III. Promover la cultura de respeto a los derechos humanos de las mujeres en el ámbito laboral;
-
-IV. Diseñar y difundir materiales que promuevan la prevención, atención y erradicación de la violencia contra las mujeres en los centros de trabajo;
-
-V. Orientar a las víctimas de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres;
-
-VI. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
-
-VII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
-
-VIII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa, y
-
-IX. Las demás previstas para el cumplimiento de la presente ley.
+V. Instrucciones dirigidas a la población de acuerdo al Programa Estatal.
 
 #### Sección Octava.. Del Instituto Nacional de las Mujeres
 
@@ -753,327 +605,243 @@ IX. Las demás previstas para el cumplimiento de la presente ley.
 
 #### Sección Décima.. De los Municipios
 
-###### ARTÍCULO 47.
+###### Artículo 47.
 
-Corresponde a la Procuraduría General de la República:
+El Gobernador, una vez que la situación de emergencia haya terminado, lo comunicará formalmente, siguiendo el procedimiento establecido en los artículos precedentes.
 
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+###### Artículo 48.
 
-I. Especializar a las y los agentes del Ministerio Público, peritos, personal que atiende a víctimas a través de programas y cursos permanentes en:
+Se considerará zona de desastre de aplicación de recursos del Estado, aquella en la que, para hacer frente a las consecuencias de un agente o fenómeno perturbador, sean insuficientes los recursos del o los municipios afectados, requiriéndose en consecuencia la ayuda del gobierno estatal y federal. En estos casos, el Gobernador del Estado pondrá en marcha las acciones necesarias por conducto de la Secretaría General de Gobierno.
 
-a) Derechos humanos y género;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-b) Perspectiva de género para la debida diligencia en la conducción de averiguaciones previas y procesos judiciales relacionados con discriminación, violencia y feminicidio;
-
-c) Incorporación de la perspectiva de género en los servicios periciales;
-
-d) Eliminación de estereotipos sobre el rol social de las mujeres, entre otros.
-
-II. Proporcionar a las víctimas orientación y asesoría para su eficaz atención y protección, de conformidad con la Ley Orgánica de la Procuraduría General de la República, su Reglamento y demás ordenamientos aplicables;
-
-III. Dictar las medidas necesarias para que la Víctima reciba atención médica de emergencia;
-
-IV. Proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el número de víctimas atendidas;
-
-V. Brindar a las víctimas la información integral sobre las instituciones públicas o privadas encargadas de su atención;
-
-VI. Proporcionar a las víctimas información objetiva que les permita reconocer su situación;
-
-VII. Promover la cultura de respeto a los derechos humanos de las mujeres y garantizar la seguridad de quienes denuncian;
-
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
-
-VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
-
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
-
-IX. Crear un registro público sistemático de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
-
-> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
-
-X. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual;
-
-> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
-
-XI. Crear una base nacional de información genética que contenga la información personal disponible de mujeres y niñas desaparecidas a nivel nacional; la información genética y muestras celulares de los familiares de las personas desaparecidas que lo consientan; la información genética y muestras celulares provenientes de los cuerpos de cualquier mujer o niña no identificada.
-
-La información integrada en esta base deberá ser resguardada y únicamente podrá ser utilizada para la confrontación de información genética entre cuerpos no identificados y personas desaparecidas, y
-
-> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
-
-XII. Las demás previstas para el cumplimiento de la presente ley.
-
-###### ARTÍCULO 48.
-
-Corresponde al Instituto Nacional de las Mujeres:
-
-I. Fungir como Secretaría Ejecutiva del Sistema, a través de su titular;
-
-> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2009)</small>
-
-II. Integrar las investigaciones promovidas por las dependencias de la Administración Pública Federal sobre las causas, características y consecuencias de la violencia en contra de las mujeres, así como la evaluación de las medidas de prevención, atención y erradicación, y la información derivada a cada una de las instituciones encargadas de promover los derechos humanos de las mujeres en las entidades federativas, el Distrito Federal o municipios. Los resultados de dichas investigaciones serán dados a conocer públicamente para tomar las medidas pertinentes hacia la erradicación de la violencia;
-
-III. Proponer a las autoridades encargadas de la aplicación de la presente ley, los programas, las medidas y las acciones que consideren pertinentes, con la finalidad de erradicar la violencia contra las mujeres;
-
-IV. Colaborar con las instituciones del Sistema en el diseño y evaluación del modelo de atención a víctimas en los refugios;
-
-V. Impulsar la creación de unidades de atención y protección a las víctimas de violencia prevista en la ley;
-
-VI. Canalizar a las víctimas a programas reeducativos integrales que les permitan participar activamente en la vida pública, privada y social;
-
-VII. Promover y vigilar que la atención ofrecida en las diversas instituciones públicas o privadas, sea proporcionada por especialistas en la materia, sin prejuicios ni discriminación alguna;
-
-VIII. Difundir la cultura de respeto a los derechos humanos de las mujeres y promover que las instancias de procuración de justicia garanticen la integridad física de quienes denuncian;
-
-IX. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
-
-X. Las demás previstas para el cumplimiento de la ley.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 49.
 
-Corresponde a las entidades federativas y al Distrito Federal, de conformidad con lo dispuesto por esta ley y los ordenamientos locales aplicables en la materia:
+Para que el Gobierno del Estado formule la declaratoria a que se refiere el artículo 69, deberá agotarse el siguiente procedimiento:
 
-I. Instrumentar y articular sus políticas públicas en concordancia con la política nacional integral desde la perspectiva de género para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
+I. Que sea solicitada por el o los Ayuntamientos de los municipios afectados;
 
-II. Ejercer sus facultades reglamentarias para la aplicación de la presente ley;
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-III. Coadyuvar en la adopción y consolidación del Sistema;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
-IV. Participar en la elaboración del Programa;
+II. Que la Secretaría General de Gobierno, con el apoyo de la Secretaría de Seguridad Pública, realicen una evaluación de los daños causados, y
 
-> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
+III. Que de la evaluación resulte necesario el apoyo con recursos adicionales de los gobiernos estatal y federal.
 
-V. Fortalecer e impulsar la creación de las instituciones públicas y privadas que prestan atención a las víctimas;
+###### Artículo 50.
 
-VI. Integrar el Sistema Estatal de Prevención, Erradicación y Sanción de la Violencia contra las Mujeres e incorporar su contenido al Sistema;
+Las medidas que el Gobierno del Estado podrá adoptar, cuando se haya declarado formalmente zona de desastre de aplicación de recursos estatales son las siguientes:
 
-VII. Promover, en coordinación con la Federación, programas y proyectos de atención, educación, capacitación, investigación y cultura de los derechos humanos de las mujeres y de la no violencia, de acuerdo con el Programa;
+I. Rescate de personas;
 
-VIII. Impulsar programas locales para el adelanto y desarrollo de las mujeres y mejorar su calidad de vida;
+II. Servicios médicos gratuitos;
 
-IX. Proveer de los recursos presupuestarios, humanos y materiales, en coordinación con las autoridades que integran los sistemas locales, a los programas estatales y el Programa;
+III. Alojamiento y alimentación;
 
-X. Impulsar la creación de refugios para las víctimas conforme al modelo de atención diseñado por el Sistema;
+IV. Restablecimiento de los servicios públicos afectados;
 
-XI. Promover programas de información a la población en la materia;
+V. Suspención (sic) de las actividades escolares en tanto se vuelve a la normalidad;
 
-XII. Impulsar programas reeducativos integrales de los agresores;
+VI. Las demás que determine el Consejo Estatal.
 
-XIII. Difundir por todos los medios de comunicación el contenido de esta ley;
+### CAPITULO VIII. DE LA DENUNCIA POPULAR
 
-XIV. Rendir un informe anual sobre los avances de los programas locales;
+###### Artículo 51.
 
-XV. Promover investigaciones sobre las causas y las consecuencias de la violencia contra las mujeres;
+La declaratoria formal de zona de desastre se hará siguiendo el procedimiento establecido en este ordenamiento, y concluirá cuando así se comunique por el gobierno del Estado.
 
-XVI. Revisar y evaluar la eficacia de las acciones, las políticas públicas, los programas estatales, con base en los resultados de las investigaciones previstas en la fracción anterior;
+###### Artículo 52.
 
-XVII. Impulsar la participación de las organizaciones privadas de (sic) dedicadas a la promoción y defensa de los derechos humanos de las mujeres, en la ejecución de los programas estatales;
+La coordinación del Sistema Estatal con el Sistema Nacional y las unidades municipales tendrá por objeto precisar:
 
-XVIII. Recibir de las organizaciones privadas, las propuestas y recomendaciones sobre la prevención, atención y sanción de la violencia contra mujeres, a fin de mejorar los mecanismos para su erradicación;
+I. Las acciones que correspondan a cada sistema para atender los riesgos específicos que se presenten en la Entidad, relacionados con sus atribuciones;
 
-XIX. Proporcionar a las instancias encargadas de realizar estadísticas, la información necesaria para la elaboración de éstas;
+II. Las formas de cooperación con las dependencias y organismos de la Administración Pública Federal estatal y municipal;
 
-XX. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente ley, así como para establecer como agravantes los delitos contra la vida y la integridad cuando estos sean cometidos contra mujeres, por su condición de género;
+III. Los medios que permitan identificar, registrar y controlar a nivel municipal y estatal, las actividades que representen peligro y que se desarrollen en la Entidad bajo regulación federal; y
 
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+IV. Los medios de comunicación entre los órganos operativos para coordinar acciones, en caso de riesgo, emergencia o desastre.
 
-XXI. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+###### Artículo 53.
 
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+La Dirección Estatal en coordinación con las dependencias de los Gobiernos Federal, Estatal y Municipales llevará un registro de las empresas establecidas en la Entidad, con el fin de promover la integración y vigilar el funcionamiento de las unidades internas de protección civil de éstas.
 
-XXII. Especializar a las y los agentes del Ministerio Público, peritos, personal que atiende a víctimas a través de programas y cursos permanentes en:
+### CAPITULO IX. DE LAS MEDIDAS DE SEGURIDAD
 
-a) Derechos humanos y género;
+###### Artículo 54.
 
-b) Perspectiva de género para la debida diligencia en la conducción de averiguaciones previas y procesos judiciales relacionados con discriminación, violencia y feminicidio;
+Se reconocen como grupos voluntarios las instituciones, organizaciones y asociaciones que dentro del objeto social, establezcan acciones de prevención y auxilio en materia de protección civil o áreas relacionadas con la operación de sistemas de emergencia, los cuales tendrán los derechos y obligaciones siguientes:
 
-c) Incorporación de la perspectiva de género en los servicios periciales; eliminación de estereotipos sobre el rol social de las mujeres, entre otros.
+I. Recibir por parte de la Dirección Estatal y las Unidades de Protección Civil de los municipios, en el ámbito de su competencia, los cursos de capacitación y adiestramiento en materia de protección civil, los cuales deberán ser acordes con las políticas nacional y estatal en la materia;
 
-> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+II. Recibir, en los términos de la legislación aplicable, reconocimientos por las acciones realizadas en beneficio de la población;
 
-XXIII. Crear un registro público sistemático de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características socio demográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
+III. Contar con un directorio actualizado de sus miembros;
 
-> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+IV. Coadyuvar en la difusión de los programas y acciones de protección civil;
 
-XXIV. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual, y
+V. Coordinarse bajo el mando de las autoridades competentes, en casos de emergencias y desastres, y
 
-> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2012)</small>
+VI. Comunicar a las autoridades la presencia de una situación de probable o inminente riesgo.
 
-XXV. Las demás aplicables a la materia, que les conceda la ley u otros ordenamientos legales.
+###### Artículo 55.
 
-Las autoridades federales, harán las gestiones necesarias para propiciar que las autoridades locales reformen su legislación, para considerar como agravantes los delitos contra la vida y la integridad corporal cometidos contra mujeres.
+Los grupos voluntarios podrán organizarse conforme a las siguientes bases:
 
-###### ARTÍCULO 50.
+I. Territoriales: formados por los habitantes de una colonia, de una zona, de un centro de población, de uno o varios municipios o del Estado;
 
-Corresponde a los municipios, de conformidad con esta ley y las leyes locales en la materia y acorde con la perspectiva de género, las siguientes atribuciones:
+II. Profesionales o de oficios: constituidos de acuerdo a la profesión u oficio que tengan; y
 
-I. Instrumentar y articular, en concordancia con la política nacional y estatal, la política municipal orientada a erradicar la violencia contra las mujeres;
+III. De actividades específicas: atendiendo a la función de auxilio que desempeñen, constituidos por personas dedicadas a realizar acciones concretas de rescate y salvamento.
 
-II. Coadyuvar con la Federación y las entidades federativas, en la adopción y consolidación del Sistema;
+###### Artículo 56.
 
-III. Promover, en coordinación con las entidades federativas, cursos de capacitación a las personas que atienden a víctimas;
+Los grupos voluntarios que deseen participar en las acciones de protección civil, deberán inscribirse ante la Dirección Estatal de Protección Civil.
 
-IV. Ejecutar las acciones necesarias para el cumplimiento del Programa;
+###### Artículo 57.
 
-V. Apoyar la creación de programas de reeducación integral para los agresores;
+A los grupos de voluntarios se les expedirá un registro que los reconocerá como agrupaciones participantes del sistema estatal de protección. En dicho registro se asentarán los datos de la agrupación y el tipo de actividades que realizarán.
 
-VI. Promover programas educativos sobre la igualdad y la equidad entre los géneros para eliminar la violencia contra las mujeres;
+###### Artículo 58.
 
-VII. Apoyar la creación de refugios seguros para las víctimas;
+Las personas que deseen desempeñar labores de rescate y auxilio, deberán constituirse en grupos voluntarios organizados o integrarse a uno ya registrado, a fin de recibir información, capacitación y realizar en forma coordinada las acciones de protección civil.
 
-VIII. Participar y coadyuvar en la prevención, atención y erradicación de la violencia contra las mujeres;
+###### Artículo 59.
 
-IX. Llevar a cabo, de acuerdo con el Sistema, programas de información a la población respecto de la violencia contra las mujeres;
-
-X. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
-
-XI. La atención de los demás asuntos que en materia de violencia contra las mujeres que les conceda esta ley u otros ordenamientos legales.
-
-###### ARTÍCULO 51.
-
-Las autoridades en el ámbito de sus respectivas competencias deberán prestar atención a las víctimas, consistente en:
-
-I. Fomentar la adopción y aplicación de acciones y programas, por medio de los cuales se les brinde protección;
-
-II. Promover la atención a víctimas por parte de las diversas instituciones del sector salud, así como de atención y de servicio, tanto públicas como privadas;
-
-III. Proporcionar a las víctimas, la atención médica, psicológica y jurídica, de manera integral, gratuita y expedita;
-
-IV. Proporcionar un refugio seguro a las víctimas, y
-
-V. Informar a la autoridad competente de los casos de violencia que ocurran en los centros educativos.
-
-###### ARTÍCULO 52.
-
-Las víctimas de cualquier tipo de violencia tendrán los derechos siguientes:
-
-I. Ser tratada con respeto a su integridad y al ejercicio pleno de sus derechos;
-
-II. Contar con protección inmediata y efectiva por parte de las autoridades;
-
-III. Recibir información veraz y suficiente que les permita decidir sobre las opciones de atención;
-
-IV. Contar con asesoría jurídica gratuita y expedita;
-
-V. Recibir información médica y psicológica;
-
-VI. Contar con un refugio, mientras lo necesite;
-
-> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
-
-VII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación;
-
-> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
-
-VIII. En los casos de violencia familiar, las mujeres que tengan hijas y/o hijos podrán acudir a los refugios con éstos, y
-
-> <small>(ADICIONADA, D.O.F. 28 DE ENERO DE 2011)</small>
-
-IX. La víctima no será obligada a participar en mecanismos de conciliación con su agresor.
-
-> <small>(ADICIONADO, D.O.F. 28 DE ENERO DE 2011)</small>
-
-Las mujeres indígenas serán asistidas gratuitamente en todo tiempo por intérpretes y defensores de oficio que tengan conocimiento de su lengua y cultura.
-
-###### ARTÍCULO 53.
-
-El Agresor deberá participar obligatoriamente en los programas de reeducación integral, cuando se le determine por mandato de autoridad competente.
-
-###### ARTÍCULO 54.
-
-Corresponde a los refugios, desde la perspectiva de género:
-
-I. Aplicar el Programa;
-
-II. Velar por la seguridad de las mujeres que se encuentren en ellos;
-
-III. Proporcionar a las mujeres la atención necesaria para su recuperación física y psicológica, que les permita participar plenamente en la vida pública, social y privada;
-
-IV. Dar información a las víctimas sobre las instituciones encargadas de prestar asesoría jurídica gratuita;
-
-V. Brindar a las víctimas la información necesaria que les permita decidir sobre las opciones de atención;
-
-VI. Contar con el personal debidamente capacitado y especializado en la materia, y
-
-VII. Todas aquellas inherentes a la prevención, protección y atención de las personas que se encuentren en ellos.
-
-###### ARTÍCULO 55.
-
-Los refugios deberán ser lugares seguros para las víctimas, por lo que no se podrá proporcionar su ubicación a personas no autorizadas para acudir a ellos.
-
-###### ARTÍCULO 56.
-
-Los refugios deberán prestar a las víctimas y, en su caso, a sus hijas e hijos los siguientes servicios especializados y gratuitos:
-
-I. Hospedaje;
-
-II. Alimentación;
-
-III. Vestido y calzado;
-
-IV. Servicio médico;
-
-V. Asesoría jurídica;
-
-VI. Apoyo psicológico;
-
-VII. Programas reeducativos integrales a fin de que logren estar en condiciones de participar plenamente en la vida pública, social y privada;
-
-VIII. Capacitación, para que puedan adquirir conocimientos para el desempeño de una actividad laboral, y
-
-IX. Bolsa de trabajo, con la finalidad de que puedan tener una actividad laboral remunerada en caso de que lo soliciten.
-
-###### ARTÍCULO 57.
-
-La permanencia de las víctimas en los refugios no podrá ser mayor a tres meses, a menos de que persista su inestabilidad física, psicológica o su situación de riesgo.
-
-###### ARTÍCULO 58.
-
-Para efectos del artículo anterior, el personal médico, psicológico y jurídico del refugio evaluará la condición de las víctimas.
-
-###### ARTÍCULO 59.
-
-En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.
-
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, D.O.F. 28 DE ENERO DE 2011)</small>
+Será obligatorio que las agrupaciones que desarrollen funciones de auxilio y atención prehospitalaria, mantengan un registro y control de los miembros integrantes que aplicarán dichas acciones, los cuales deberán ser capacitados por instituciones de educación legalmente constituidas, asociaciones de profesionistas reconocidas o por la propia Dirección Estatal de Protección Civil.
 
 ## TITULO IV. DE LAS RESPONSABILIDADES Y SANCIONES
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 28 DE ENERO DE 2011)</small>
 
+###### Artículo 67.
+
+De la denuncia y de todo el procedimiento referido en este capítulo, se levantará acta circunstanciada en tres tantos; el original se quedará en poder de la autoridad de protección civil; otro, en poder de la autoridad implicada, y el tercer documento, deberá ser entregado al denunciante.
+
+###### Artículo 68.
+
+Los funcionarios de protección civil que no cumplan con lo establecido en el artículo anterior, incurrirán en responsabilidad oficial, debiendo ser sancionados conforme a lo que establezcan los ordenamientos aplicables.
+
+###### Artículo 69.
+
+En caso de riesgo, las dependencias de la Administración Pública Estatal y Municipal, ejecutarán las medidas de seguridad que les competan a fin de proteger la vida de la población y sus bienes, la planta productiva y el medio ambiente; garantizando el normal funcionamiento de los servicios esenciales de la comunidad.
+
+###### Artículo 70.
+
+Entre las medidas de seguridad se cuentan:
+
+I. Identificación y delimitación de lugares o zonas de riesgo;
+
+II. Acciones preventivas a realizar según la naturaleza del riesgo;
+
+III. La suspensión de actividades, obras o servicios;
+
+IV. El resguardo o en su caso, destrucción de objetos, productos y sustancias que pueden ocasionar desastre; y
+
+V. Las demás que en materia de protección civil determinen las autoridades competentes, tendientes a evitar que se generen o sigan causando riesgos.
+
+###### Artículo 71.
+
+En los casos en que se defina la clausura temporal o definitiva, total o parcial de una obra, instalación o establecimiento, se podrá solicitar a la autoridad competente la suspensión o cancelación de cualquier permiso o licencia que se hubiere otorgado.
+
+###### Artículo 72.
+
+Cuando se imponga como sanción la suspensión de una obra, instalación o servicio, se ordenará al infractor que realice los actos o subsane las omisiones que motivaron la misma, fijando un plazo prudente para ello a juicio de la Dirección Estatal de Protección Civil o Unidad Municipal en la inteligencia de que la suspensión continuará hasta en tanto se cumpla con lo ordenado.
+
+###### Artículo 73.
+
+Tratándose de clausura temporal o definitiva, el personal encargado de ejecutarla, deberá levantar acta circunstanciada observando las formalidades establecidas para las verificaciones.
+
+###### Artículo 74.
+
+En el caso de que la Unidad Municipal o Dirección Estatal de Protección Civil, además de la sanción, determine la necesidad de demolición, retiro, construcción o modificación de obras e instalaciones, ordenará al infractor su realización. Si éste no cumple en el plazo que para ello se le haya fijado, comunicará a la autoridad municipal correspondiente, para que proceda a su realización con cargo al infractor.
+
+###### Artículo 75.
+
+Independientemente de las sanciones administrativas que se impongan al infractor, los órganos municipales, en su caso, harán del conocimiento del Ministerio Público los hechos que pudieran constituir conductas delictivas.
+
 ###### Artículo 60.
 
-Será causa de responsabilidad administrativa el incumplimiento de esta ley y se sancionará conforme a las leyes en la materia.
+Para efectos de esta Ley, se considerarán a las Comisiones de Seguridad e Higiene que por mandato de ley deben funcionar en las empresas, como unidades internas de Protección Civil. La Dirección Estatal se coordinará con las autoridades federales competentes para la prevención de desastres originados en los centros de trabajo.
 
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
-El Ejecutivo Federal emitirá el Reglamento de la ley dentro de los 90 días siguientes a la entrada en vigor del presente Decreto.
+Se abroga el acuerdo de creación del Consejo Estatal de Protección Civil publicado en el Periódico Oficial del Estado de fecha 9 de Marzo de 1991.
 
 ###### ARTÍCULO TERCERO.
 
-El Sistema Nacional a que se refiere esta ley, se integrará dentro de los 60 días siguientes a la entrada en vigor del presente Decreto.
+Los recursos humanos y materiales de la Unidad Estatal de Protección Civil, se transferirán a la Dirección Estatal de Protección Civil.
 
 ###### ARTÍCULO CUARTO.
 
-El Reglamento del Sistema deberá expedirse dentro de los 90 días siguientes a la entrada en vigor del presente Decreto.
+El Sistema Estatal así como el Consejo Estatal de Protección Civil, deberán instalarse a más tardar 90 días después de la publicación de la presente Ley.
 
 ###### ARTÍCULO QUINTO.
 
-El Diagnóstico Nacional a que se refiere la fracción XII del artículo 44 de la ley deberá realizarse dentro de los 365 días siguientes a la integración del Sistema.
+El reglamento de la presente ley, deberá ser expedido por el Ejecutivo del Estado, a más tardar 90 días después de la publicación de la presente Ley.
 
 ###### ARTÍCULO SEXTO.
 
-Los recursos para llevar a cabo los programas y la implementación de las acciones que se deriven de la presente ley, se cubrirán con cargo al presupuesto autorizado a las dependencias, entidades y órganos desconcentrados del Ejecutivo Federal, Poderes Legislativo y Judicial, órganos autónomos, estados y municipios, para el presente ejercicio fiscal y los subsecuentes, asimismo, no requerirán de estructuras orgánicas adicionales por virtud de los efectos de la misma.
+Los Ayuntamientos deberán crear los órganos administrativos encargados de la materia de Protección Civil en la forma y términos de la presente ley, reglamentos y demás disposiciones legales aplicables, a más tardar 90 días después de la publicación de la presente Ley.
 
-###### ARTÍCULO SÉPTIMO.
+###### ARTÍCULO SEPTIMO.
 
-El Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres a que refiere la fracción III del artículo 45 deberá integrarse dentro de los 365 días siguientes a la conformación del Sistema.
+Se derogan todas las disposiciones legales y reglamentarias que se opongan a la presente Ley.
+
+COMUNIQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACION Y PUBLICACION.
+
+DADO en la Sala de Sesiones de la Honorable Quincuagésima Sexta Legislatura del Estado a los veintitrés días del mes de diciembre de mil novecientos noventa y nueve.- DIPUTADO PRESIDENTE.- LIC. RAFAEL CANDELAS SALINAS.- DIPUTADOS SECRETARIOS.- DR. MIGUEL A. TREJO REYES.- y LIC. VICTOR M. LEDESMA BERNAL.- Rúbricas.
+
+Y para que llegue a conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
+
+D A D O en el Despacho del Poder Ejecutivo a los treinta días del mes de diciembre de mil novecientos noventa y nueve.
+
+"SUFRAGIO EFECTIVO. NO REELECCION".
+
+EL GOBERNADOR DEL ESTADO DE ZACATECAS
+
+LIC. RICARDO MONREAL AVILA
+
+SECRETARIO GENERAL DE GOBIERNO
+
+ING. RAYMUNDO CARDENAS HERNANDEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE DICIEMBRE DE 2008.
+
+Artículo primero.- El presente Decreto iniciará su vigencia el 1 de Marzo de 2009, con las modalidades que enseguida se precisan.
+
+Artículo segundo.- Los recursos humanos, financieros y materiales del Consejo Estatal de Seguridad Pública, de la Subsecretaría de Seguridad Pública y de la Dirección General de Seguridad Pública y Tránsito del Estado, asignados a funciones operativas, pasarán a formar parte de la Secretaría de Seguridad Pública. Los recursos humanos, financieros y materiales de las Direcciones de la Policía Estatal Preventiva y de Prevención y Readaptación Social, así como los del Centro de Internamiento y Atención Integral Juvenil, dependientes de la Secretaría General de Gobierno, pasarán a formar parte de la Secretaría de Seguridad Pública.
+
+En ambos casos se deberán respetar los derechos laborales y de seguridad social que los servidores públicos hubieren adquirido con anterioridad.
+
+Artículo tercero.- Dentro de los treinta días naturales siguientes a la entrada en vigor de este Decreto, el Poder Ejecutivo del Estado nombrará al titular de dicha dependencia.
+
+Artículo cuarto.- Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, se deberá adecuar y publicar en el Periódico Oficial, Órgano del Gobierno del Estado, las modificaciones al Programa Estatal de Seguridad Pública.
+
+Artículo quinto.- Dentro de los sesenta días naturales siguientes a la entrada en vigor de este Decreto, deberán publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, las reformas al Reglamento Interior de la Secretaría General de Gobierno y al Reglamento de la Policía Estatal Preventiva.
+
+Artículo sexto. Dentro de los noventa días naturales siguientes a la publicación de este Decreto, deberá quedar integrado el Sistema Estatal de Seguridad Pública.
+
+Artículo séptimo.- En el Presupuesto de Egresos del Estado para el ejercicio fiscal 2009, deberán incluirse las partidas correspondientes para el funcionamiento de la Secretaría de Seguridad Pública.
+
+Artículo octavo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE SEPTIEMBRE DE 2009.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan todas las disposiciones que contravengan este Decreto.
 
 ###### ARTÍCULO OCTAVO.
 
