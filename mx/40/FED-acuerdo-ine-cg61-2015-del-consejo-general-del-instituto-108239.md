@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg61-2015-del-consejo-general-del-instituto-108239"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-06-02"
-last_updated: "2015-06-02"
+last_updated: "2015-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108239&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2015-02-18"
 ---
 # ACUERDO INE/CG61/2015 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL MEDIANTE EL CUAL SE EMITEN NORMAS REGLAMENTARIAS SOBRE LA PROPAGANDA GUBERNAMENTAL A QUE SE REFIERE EL ARTICULO 41, BASE III, APARTADO C DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, PARA EL PROCESO ELECTORAL FEDERAL 2014-2015, LOS PROCESOS ELECTORALES LOCALES COINCIDENTES CON EL FEDERAL, ASI COMO PARA LOS PROCESOS LOCALES ORDINARIOS Y EXTRAORDINARIOS QUE SE CELEBREN EN 2015
 
-> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 2 DE JUNIO DE 2015, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 4 DE JUNIO DE 2015, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.]</small>
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL MEDIANTE EL CUAL SE EMITEN NORMAS REGLAMENTARIAS SOBRE LA PROPAGANDA GUBERNAMENTAL A QUE SE REFIERE EL ARTÍCULO 41, BASE III, APARTADO C DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PARA EL PROCESO ELECTORAL FEDERAL 2014-2015, LOS PROCESOS ELECTORALES LOCALES COINCIDENTES CON EL FEDERAL, ASÍ COMO PARA LOS PROCESOS LOCALES ORDINARIOS Y EXTRAORDINARIOS QUE SE CELEBREN EN 2015
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2015.
 
 Acuerdo publicado en la Quinta Sección del Diario Oficial de la Federación, el martes 2 de junio de 2015.
 
@@ -127,7 +127,7 @@ El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbric
 
 D.O.F. 2 DE JUNIO DE 2015.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO INE/CG120/2015, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO INE/CG120/2015, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
 
 ACUERDO
 
@@ -198,3 +198,31 @@ CUARTO.- La aplicación de las normas reglamentarias sobre propaganda gubernamen
 QUINTO.- Se instruye al Secretario Ejecutivo a que notifique, por conducto de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, el presente Acuerdo a la Dirección de Radio, Televisión y Cinematografía de la Secretaría de Gobernación, así como a los gobiernos estatales y, por su conducto, a los gobiernos municipales.
 
 SEXTO.- Se instruye al Secretario Ejecutivo a que implemente las medidas necesarias para la oportuna publicación de este Acuerdo en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE JUNIO DE 2015.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO INE/CG264/2015, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+PRIMERO.- Se aprueba la modificación a los Acuerdos de este Consejo General identificados como INE/CG61/2015, INE/CG120/2015 e INE/CG133/2015 en el sentido de vincular al concepto de educación a la campaña del Desarrollo Integral de la Familia del estado de Chihuahua relativa a la "Feria Internacional de Santa Rita Expogan 2015" a celebrarse en el estado de Chihuahua del quince al treinta de mayo del año en curso y por tanto forme parte de las excepciones a las prohibiciones que en materia de propaganda gubernamental prevé el artículo 41, párrafo segundo, Base III, Apartado C de la Constitución Política de los Estados Unidos Mexicanos, para el Proceso Electoral Federal, los Procesos Electorales Locales coincidentes con el federal, así como aquellos procesos ordinarios y extraordinarios a celebrarse en dos mil quince.
+
+La propaganda referida deberá tener carácter institucional y abstenerse de incluir frases, imágenes, voces o símbolos que pudieran ser constitutivos de propaganda política o electoral, o bien elementos de propaganda personalizada de servidor público alguno.
+
+Es decir, no podrá difundir logros de gobierno, obra pública, e incluso, emitir información dirigida a justificar o convencer a la población de la pertinencia de una administración en particular.
+
+Su contenido se limitará a identificar el nombre de la institución de que se trata sin hacer alusión a cualquiera de las frases, imágenes, voces o símbolos que pudieran ser constitutivos de propaganda política o electoral.
+
+La propaganda podrá incluir el nombre de la dependencia y su escudo oficial como medio identificativo, siempre y cuando éstos no se relacionen de manera directa con la gestión de algún gobierno o administración federal o local.
+
+La propaganda no podrá contener logotipos, slogans o cualquier otro tipo de referencias al gobierno federal o a algún otro gobierno o administración, o a sus campañas institucionales, ni incluir elementos de propaganda personalizada de servidor público alguno.
+
+La propaganda exceptuada mediante este Acuerdo, en todo momento, deberá tener fines informativos sobre la prestación de un servicio, alguna campaña de educación o de orientación social, por lo que no está permitida la exaltación, promoción o justificación de algún programa o logro obtenido en los gobiernos local o federal o de alguna administración específica.
+
+La difusión de la propaganda que se encuadre en los supuestos establecidos en el artículo 41, Base III, Apartado C, segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos, deberá hacerse durante el periodo que sea estrictamente indispensable para cumplir con sus objetivos.
+
+SEGUNDO.- Quedan intocadas y vigentes la totalidad de las normas reglamentarias sobre propaganda gubernamental establecidas en los Acuerdos emitidos por este Consejo General identificados con las claves INE/CG61/2015, INE/CG120/2015 e INE/CG133/2015.
+
+TERCERO.- Se instruye al Secretario Ejecutivo a que notifique, por conducto de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, el presente Acuerdo a la Dirección de Radio, Televisión y Cinematografía de la Secretaría de Gobernación, así como al Desarrollo Integral de la Familia del estado de Chihuahua.
+
+CUARTO.- Se instruye al Secretario Ejecutivo a que implemente las medidas necesarias para la oportuna publicación de este Acuerdo en el Diario Oficial de la Federación.
