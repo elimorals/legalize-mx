@@ -4,7 +4,7 @@ identifier: "FED-ley-del-instituto-nacional-de-las-mujeres-18672"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-12"
-last_updated: "2012-04-09"
+last_updated: "2015-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18672&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2001-01-10"
 
 LEY DEL INSTITUTO NACIONAL DE LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 4 DE JUNIO DE 2015, TODA REFERENCIA QUE SE HAGA AL PROGRAMA NACIONAL PARA LA IGUALDAD DE OPORTUNIDADES Y NO DISCRIMINACIÓN CONTRA LAS MUJERES, SE ENTENDERÁ HECHA AL PROGRAMA NACIONAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 12 de enero de 2001.
 
@@ -119,9 +121,13 @@ IV. Impulsar la incorporación de la perspectiva de género en el programa anual
 
 V. Procurar, impulsar y apoyar el ejercicio pleno de los derechos de las mujeres, así como el fortalecimiento de mecanismos administrativos para el mismo fin;
 
-VI. Proponer, en el marco del Plan Nacional de Desarrollo, el Programa Nacional para la Igualdad de Oportunidades y no Discriminación contra las Mujeres y, evaluar periódica y sistemáticamente la ejecución del mismo;
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2015)</small>
 
-VII. Establecer y concertar acuerdos y convenios con las autoridades en los tres niveles de gobierno para promover, con la participación, en su caso, de los sectores social y privado, las políticas, acciones y programas que se establezcan en el Programa Nacional para la Igualdad de Oportunidades y no Discriminación contra las Mujeres;
+VI. Proponer, en el marco del Plan Nacional de Desarrollo, el Programa Nacional para la Igualdad entre Mujeres y Hombres y, evaluar periódica y sistemáticamente la ejecución del mismo;
+
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2015)</small>
+
+VII. Establecer y concertar acuerdos y convenios con las autoridades en los tres niveles de gobierno para promover, con la participación, en su caso, de los sectores social y privado, las políticas, acciones y programas que se establezcan en el Programa Nacional para la Igualdad entre Mujeres y Hombres;
 
 VIII. Propiciar y en su caso, participar en coordinación con la Secretaría de Relaciones Exteriores en la firma y cumplimiento de los instrumentos acordados en el ámbito internacional y regional, relacionados con la igualdad de oportunidades y no discriminación contra las mujeres;
 
@@ -153,7 +159,9 @@ XXI. Promover las aportaciones de recursos provenientes de dependencias e instit
 
 XXII. Impulsar la cooperación nacional e internacional, para el apoyo financiero y técnico en la materia de equidad de género, de conformidad con las disposiciones aplicables;
 
-XXIII. Emitir informes de evaluación periódica para dar cuenta de resultados en el cumplimiento de los objetivos, estrategias y políticas del Programa Nacional para la Igualdad de Oportunidades y no Discriminación contra las Mujeres;
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2015)</small>
+
+XXIII. Emitir informes de evaluación periódica para dar cuenta de resultados en el cumplimiento de los objetivos, estrategias y políticas del Programa Nacional para la Igualdad entre Mujeres y Hombres;
 
 XXIV. Actualizar periódicamente el diagnóstico sobre la situación de las mujeres, en relación con los avances del Programa y la operatividad del mismo, y
 
@@ -425,7 +433,9 @@ Las integrantes del Consejo Social durarán en su encargo tres años, pudiendo p
 
 El Consejo Consultivo colaborará con el Instituto en los casos siguientes:
 
-I. Fungir como órgano de asesoría y consulta del Instituto en lo relativo al Programa Nacional para la Igualdad de Oportunidades y no Discriminación contra las Mujeres y en los demás asuntos en materia de equidad de género y mujeres que sean sometidos a su consideración;
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2015)</small>
+
+I. Fungir como órgano de asesoría y consulta del Instituto en lo relativo al Programa Nacional para la Igualdad entre Mujeres y Hombres y en los demás asuntos en materia de equidad de género y mujeres que sean sometidos a su consideración;
 
 II. Impulsar y favorecer la participación de los sectores interesados en las acciones relacionadas con el objeto de esta Ley;
 
@@ -453,21 +463,27 @@ VI. Las demás que determine el Estatuto Orgánico del Instituto y demás dispos
 
 ### Capítulo VI. De la Colaboración de los tres Poderes de la Unión
 
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2015)</small>
+
 ###### Artículo 28.
 
-El Instituto solicitará a las y los titulares de las dependencias y entidades de la Administración Pública Federal, las y los titulares de los órganos de impartición de justicia federal, así como las y los titulares de la Junta de Coordinación Política de ambas Cámaras del Congreso de la Unión la información pertinente en materia de equidad de género y de las mujeres, así como su colaboración dentro del área de su competencia, en la elaboración, ejecución y seguimiento del Programa para la Igualdad de Oportunidades y no Discriminación contra las Mujeres.
+El Instituto solicitará a las y los titulares de las dependencias y entidades de la Administración Pública Federal, las y los titulares de los órganos de impartición de justicia federal, así como las y los titulares de la Junta de Coordinación Política de ambas Cámaras del Congreso de la Unión la información pertinente en materia de equidad de género y de las mujeres, así como su colaboración dentro del área de su competencia, en la elaboración, ejecución y seguimiento del Programa Nacional para la Igualdad entre Mujeres y Hombres.
 
 ###### Artículo 29.
 
 Las autoridades y servidores públicos estatales y municipales proporcionarán al Instituto la información y datos que éste les solicite, en los términos de los acuerdos que al efecto se celebren.
 
-### Capítulo VII. Del Cumplimiento del Programa Nacional para la Igualdad de Oportunidades y no Discriminación contra las Mujeres
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 4 DE JUNIO DE 2015)</small>
+
+### Capítulo VII. Del cumplimiento del Programa Nacional para la Igualdad entre Mujeres y Hombres
 
 ###### Artículo 30.
 
 Las dependencias y entidades de la Administración Pública Federal, los órganos de impartición de justicia federal, así como las Cámaras del Congreso de la Unión, en el ejercicio de sus atribuciones y funciones incorporarán el enfoque de género en sus políticas, programas y acciones institucionales.
 
-Como resultado de la evaluación del Programa Nacional para la Igualdad de Oportunidades y no Discriminación contra las Mujeres, el Instituto podrá emitir opiniones y propuestas dirigidas a los legisladores, autoridades, y servidores públicos a que se refiere el párrafo anterior, relacionadas con la ejecución del citado Programa.
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2015)</small>
+
+Como resultado de la evaluación del Programa Nacional para la Igualdad entre Mujeres y Hombres, el Instituto podrá emitir opiniones y propuestas dirigidas a los legisladores, autoridades y servidores públicos a que se refiere el párrafo anterior, relacionadas con la ejecución del citado Programa.
 
 ### Capítulo VIII. Del Patrimonio, Presupuesto y Control de los Recursos del Instituto Nacional de las Mujeres
 
@@ -534,3 +550,9 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 4 DE JUNIO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Toda referencia que se haga al Programa Nacional para la Igualdad de Oportunidades y no Discriminación Contra las Mujeres, se entenderá hecha al Programa Nacional para la Igualdad entre Mujeres y Hombres.
