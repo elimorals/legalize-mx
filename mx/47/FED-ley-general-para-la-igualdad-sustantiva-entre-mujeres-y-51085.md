@@ -4,7 +4,7 @@ identifier: "FED-ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-51085"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-08-02"
-last_updated: "2014-12-05"
+last_updated: "2015-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51085&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-07-27"
 
 LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 2 de agosto de 2006.
 
@@ -205,7 +205,11 @@ II. Coadyuvar con el Gobierno Federal y con el gobierno de la entidad federativa
 
 III. Proponer al Poder Ejecutivo de la entidad correspondiente, sus necesidades presupuestarias para la ejecución de los programas de igualdad;
 
-IV. Diseñar, formular y aplicar campañas de concientización, así como programas de desarrollo de acuerdo a la región, en las materias que esta Ley le confiere, y
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2015)</small>
+
+IV. Diseñar, formular y aplicar campañas permanentes de concientización, así como programas de desarrollo de acuerdo a la región, en las materias que esta Ley le confiere.
+
+El contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta fracción, deberá estar desprovisto de estereotipos establecidos en función del sexo de las personas, y
 
 V. Fomentar la participación social, política y ciudadana dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas como en las rurales.
 
@@ -489,7 +493,11 @@ IV. Integrar el principio de igualdad en el ámbito de la protección social;
 
 VI (sic). Impulsar acciones que aseguren la igualdad de acceso de mujeres y de hombres a la alimentación, la educación y la salud, y
 
-VII. Promover campañas nacionales de concientización para mujeres y hombres sobre su participación equitativa en la atención de las personas dependientes de ellos.
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2015)</small>
+
+VII. Promover campañas nacionales permanentes de concientización para mujeres y hombres sobre su participación equitativa en la atención de las personas dependientes de ellos.
+
+El contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta fracción, deberá estar desprovisto de estereotipos establecidos en función del sexo de las personas.
 
 ### CAPÍTULO QUINTO. DE LA IGUALDAD ENTRE MUJERES Y HOMBRES EN LA VIDA CIVIL
 
@@ -551,13 +559,17 @@ II. Desarrollar actividades de concientización sobre la importancia de la igual
 
 III. Vigilar la integración de una perspectiva de género en todas las políticas públicas;
 
-> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2015)</small>
 
-IV. Promover la utilización de un lenguaje con perspectiva de género en la totalidad de las relaciones sociales, y
+IV. Promover la utilización de un lenguaje con perspectiva de género en la totalidad de las relaciones sociales;
 
-> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2015)</small>
 
-V. Velar por que los medios de comunicación transmitan una imagen igualitaria plural y no estereotipada de mujeres y hombres en la sociedad, promuevan el conocimiento y la difusión del principio de igualdad entre mujeres y hombres y eviten la utilización sexista del lenguaje.
+V. Velar por que los medios de comunicación transmitan una imagen igualitaria plural y no estereotipada de mujeres y hombres en la sociedad, promuevan el conocimiento y la difusión del principio de igualdad entre mujeres y hombres y eviten la utilización sexista del lenguaje, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2015)</small>
+
+VI. Vigilar que el contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta Ley esté desprovisto de estereotipos establecidos en función del sexo de las personas.
 
 ### CAPÍTULO SÉPTIMO. DEL DERECHO A LA INFORMACIÓN Y LA PARTICIPACIÓN SOCIAL EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -638,3 +650,7 @@ Segundo.- Las dependencias de la Administración Pública Federal y estatales, e
 D.O.F. 5 DE DICIEMBRE DE 2014.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE JUNIO DE 2015.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
