@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg164-2014-del-consejo-general-del-instituto-108148
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-05-29"
-last_updated: "2015-05-29"
+last_updated: "2015-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108148&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-09-30"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS PARA LA ACREDITACIÓN Y DESARROLLO DE LAS ACTIVIDADES DE LOS CIUDADANOS MEXICANOS QUE ACTUARÁN COMO OBSERVADORES ELECTORALES DURANTE LOS PROCESOS ELECTORALES FEDERAL 2014-2015 Y LOCALES COINCIDENTES CON LA FECHA DE LA JORNADA ELECTORAL FEDERAL, Y EN SU CASO, DE LAS CONSULTAS POPULARES Y DEMÁS FORMAS DE PARTICIPACIÓN CIUDADANA QUE SE REALICEN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de mayo de 2015.
 
@@ -31,7 +31,7 @@ ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE ESTAB
 
 ANTECEDENTES
 
-[...]
+[...}
 
 CONSIDERANDO
 
@@ -205,7 +205,25 @@ Vigésimo cuarto.- Se instruye a la Secretaría Ejecutiva para que dé a conocer
 
 Vigésimo quinto.- Se instruye a la Secretaría Ejecutiva prever lo necesario a fin de que, en su momento, los Presidentes de los Consejos Locales y Distritales, den a conocer el contenido del presente Acuerdo a los integrantes de los respectivos consejos, en la sesión que celebren con motivo de su instalación.
 
-Vigésimo sexto.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, en la Gaceta del Instituto Nacional Electoral, y en los periódicos oficiales de las entidades en las que se aplicará el modelo de casilla única para las elecciones que se celebrarán en el año de 2015.
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2015)</small>
+
+Vigésimo Sexto.- La acreditación y desarrollo de las actividades inherentes al derecho ciudadano de participación en las tareas de observación electoral durante los comicios locales de 2015 en el estado de Chiapas se sujetarán a las disposiciones que se señalan a continuación:
+
+I. Todos los ciudadanos mexicanos que hayan obtenido de manera individual o a través de las organizaciones a las que pertenezcan, su acreditación como observadores electorales para los procesos electorales federal y locales coincidentes 2014-2015 ante cualquiera de los 332 consejos competentes del Instituto Nacional Electoral en el territorio nacional, podrán solicitar ante el Consejo General del Instituto de Elecciones y Participación Ciudadana del Estado de Chiapas, su acreditación para realizar actividades de observación electoral para el Proceso Electoral local.
+
+II. La solicitud referida en el punto anterior deberá presentarse por los ciudadanos, de forma individual o por conducto de la organización de la que formen parte, a más tardar el 30 de junio de 2015, acompañando copia de la acreditación expedida por los Consejos Locales o distritales del INE.
+
+III. Para el caso de los ciudadanos mexicanos que hayan obtenido su acreditación por acuerdo de los consejos local y distritales del estado de Chiapas y que hayan sido capacitados en la materia electoral local, el Instituto de Elecciones y Participación Ciudadana solamente ratificará su registro como observadores electorales y les expedirá la acreditación y el gafete correspondiente; tratándose de ciudadanos mexicanos que hayan obtenido su registro como observadores electorales en cualquier otra entidad federativa o en el estado de Chiapas pero sin que hubiesen sido capacitados en la materia electoral local, el único requisito adicional para obtener su acreditación será asistir a los cursos de capacitación, preparación o información que se podrán impartir por la autoridad electoral local, por los órganos del Instituto Nacional Electoral en el estado de Chiapas, o por la asociación a la que pertenezca el ciudadano, bajo la supervisión del Instituto de Elecciones y Participación Ciudadana del estado de Chiapas y del Instituto Nacional Electoral, hasta el 5 de julio de 2015. La falta de supervisión no imputable a la organización respectiva no será causa para que se niegue la acreditación.
+
+IV. El Consejo General del Instituto de Elecciones y Participación Ciudadana deberá resolver sobre la procedencia del registro en la sesión inmediata posterior que se realice a la solicitud, teniendo como fecha límite para ello el 17 de julio de 2015.
+
+V. La información respecto del número de solicitudes, así como la relación nominal de ciudadanos cuyas acreditaciones fueran aprobadas, denegadas o canceladas por el Consejo General del Instituto de Elecciones y Participación Ciudadana del estado de Chiapas se harán del conocimiento del Consejo Local del INE en esa entidad federativa de forma inmediata.
+
+VI. Las obligaciones, derechos y prohibiciones que rijan la actuación de los observadores electorales en las elecciones locales del estado de Chiapas, se sujetarán a las disposiciones aplicables de la Ley General de Instituciones y Procedimientos Electorales, del Código de Elecciones y Participación Ciudadana de esa entidad federativa y a los Acuerdos que en la materia haya aprobado este Consejo General.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2015)</small>
+
+Vigésimo Séptimo.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, en la Gaceta del Instituto Nacional Electoral, y en los periódicos oficiales de las entidades en las que se aplicará el modelo de casilla única para las elecciones que se celebrarán en el año de 2015.
 
 ## TRANSITORIO
 
@@ -218,3 +236,9 @@ El presente Acuerdo fue aprobado en lo general en sesión extraordinaria del Con
 Se aprobaron en lo particular los Puntos de Acuerdo Segundo, Tercero y Cuarto, por diez votos a favor de los Consejeros Electorales Licenciado Enrique Andrade González, Maestro Marco Antonio Baños Martínez, Maestra Adriana Margarita Favela Herrera, Maestra Beatriz Eugenia Galindo Centeno, Doctor Ciro Murayama Rendón, Doctor Benito Nacif Hernández, Doctor José Roberto Ruiz Saldaña, Licenciada Alejandra Pamela San Martín Ríos y Valles, Maestro Arturo Sánchez Gutiérrez y del Consejero Presidente, Doctor Lorenzo Córdova Vianello, y un voto en contra del Consejero Electoral, Licenciado Javier Santiago Castillo.
 
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 4 DE JUNIO DE 2015.
+
+Único. El presente Acuerdo entrará en vigor al momento de su aprobación por el Consejo General del Instituto Nacional Electoral.
