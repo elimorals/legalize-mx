@@ -4,7 +4,7 @@ identifier: "LIFNVT"
 country: "mx"
 rank: "ley"
 publication_date: "1972-04-24"
-last_updated: "2014-03-19"
+last_updated: "2015-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIFNVT"
 
 LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2015.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 24 de abril de 1972.
 
@@ -675,6 +675,28 @@ La obligación de efectuar las aportaciones y hacer los descuentos a que se refi
 > <small>(ADICIONADO, D.O.F. 6 DE ENERO DE 1997)</small>
 
 En caso de sustitución patronal, el patrón sustituido será solidariamente responsable con el nuevo de las obligaciones derivadas de esta Ley, nacidas antes de la fecha de la sustitución, hasta por el término de dos años, concluido el cual todas las responsabilidades serán atribuibles al nuevo patrón.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2015)</small>
+
+###### ARTICULO 29 Bis.
+
+Cuando en la contratación de trabajadores para un patrón, a fin de que ejecuten trabajos o presten servicios para él, participe un intermediario laboral o contratista, cualquiera que sea la denominación que patrón e intermediarios asuman, ambos serán responsables solidarios entre sí y en relación con el trabajador, respecto del cumplimiento de las obligaciones contenidas en esta Ley.
+
+No serán considerados intermediarios, sino patrones, las empresas contratistas establecidas que presten servicios con sus trabajadores a otras, para ejecutarlos con elementos propios y suficientes para cumplir con las obligaciones que deriven de las relaciones con sus trabajadores, en los términos de los artículos 12, 13, 14, 15, 15-A y 15-B de la Ley Federal del Trabajo.
+
+Sin perjuicio de lo dispuesto en los párrafos anteriores, cuando un patrón o sujeto obligado, cualquiera que sea su personalidad jurídica o su naturaleza económica, en virtud de un contrato, cualquiera que sea su forma o denominación, como parte de las obligaciones contraídas, ponga a disposición trabajadores u otros prestadores para que ejecuten los servicios o trabajos acordados bajo la dirección del beneficiario de los mismos, el beneficiario de los trabajos o servicios asumirá las obligaciones establecidas en esta Ley en relación con dichos trabajadores, en el supuesto de que el patrón contratista omita el cumplimiento de las condiciones señaladas en los artículos 15-A y 15-B de la Ley Federal del Trabajo, siempre y cuando el Instituto hubiese notificado previamente al patrón contratista el requerimiento correspondiente y éste no lo hubiera atendido.
+
+Asimismo, el Instituto dará aviso al beneficiario de los trabajos o servicios, del requerimiento a que se refiere el párrafo anterior.
+
+Las empresas contratantes y contratistas deberán comunicar trimestralmente ante la delegación de recaudación correspondiente al domicilio del patrón o sujeto obligado, en los mismos términos de los artículos 29, 30, 31, 32, 33, 34 y 35 de esta ley, en relación con los contratos celebrados en el trimestre de que se trate la información siguiente:
+
+I. De las partes en el contrato: Nombre, denominación o razón social; clase de persona moral de que se trate, en su caso; objeto social; domicilio social, fiscal y, en su caso, convencional para efectos del contrato; número del Registro Federal de Contribuyentes y del Registro Patronal ante el Instituto Mexicano del Seguro Social y el Instituto; datos de su acta constitutiva, tales como número de escritura pública, fecha, nombre del notario público que da fe de la misma, número de la notaría y ciudad a la que corresponde, sección, partida, volumen, foja o folio mercantil, en su caso, y fecha de inscripción en el Registro Público de la Propiedad y el Comercio; nombre de los representantes legales de las partes que suscribieron el contrato.
+
+II. Del contrato: Objeto; periodo de vigencia; perfiles, puestos o categorías indicando en este caso si se trata de personal operativo, administrativo o profesional, la justificación de su trabajo especializado y el número estimado mensual de trabajadores de que se pondrán a disposición del beneficiario de los servicios o trabajos contratados.
+
+El patrón contratista incorporará por cada uno de sus trabajadores, el nombre del beneficiario de los servicios o trabajos contratados en el sistema de cómputo autorizado por el Instituto.
+
+Cuando el patrón contratista se obligue a poner a disposición del beneficiario, trabajadores para prestar los servicios o ejecutar los trabajos en varios centros de trabajo ubicados en la circunscripción territorial de más de una delegación recaudadora del Instituto, el patrón y el beneficiario deberán comunicar la información a que se refiere el quinto párrafo de este artículo, únicamente ante la delegación de recaudación dentro de cuya circunscripción se ubique su respectivo domicilio fiscal.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -1543,3 +1565,7 @@ D.O.F. 19 DE MARZO DE 2014.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la publicación de este ordenamiento, el Instituto del Fondo Nacional de la Vivienda para los trabajadores contará con 8 meses para la creación de las reglas y convenios necesarios para dar cumplimiento a este ordenamiento.
+
+D.O.F. 4 DE JUNIO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
