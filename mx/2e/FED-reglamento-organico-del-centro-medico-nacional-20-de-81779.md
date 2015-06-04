@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-centro-medico-nacional-20-de-81779"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-22"
-last_updated: "2011-06-22"
+last_updated: "2015-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81779&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-04-14"
 ---
 # REGLAMENTO ORGANICO DEL CENTRO MEDICO NACIONAL "20 DE NOVIEMBRE"
 
-REGLAMENTO ORGANICO DEL CENTRO MEDICO NACIONAL "20 DE NOVIEMBRE"
+REGLAMENTO ORGÁNICO DEL CENTRO MÉDICO NACIONAL "20 DE NOVIEMBRE"
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO ORGÁNICO DEL CENTRO MÉDICO NACIONAL “20 DE NOVIEMBRE” DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, PUBLICADO EN EL D.O.F. DE 4 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 22 de junio de 2011.
 
@@ -930,3 +932,11 @@ Lo que me permito hacer de su conocimiento para los efectos legales procedentes.
 Atentamente
 
 México, D.F., a 14 de abril de 2011.- El Secretario General y Secretario de la Junta Directiva, Luis Felipe Castro Sánchez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 4 DE JUNIO DE 2015.
+
+PRIMERO. Este Reglamento entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. A partir de la entrada en vigor de este Reglamento se abroga el Reglamento Orgánico del Centro Médico Nacional del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, expedido por Acuerdo 16.1327.2011 de la Junta Directiva el 14 de abril de 2011, publicado en el Diario Oficial de la Federación el 22 de junio de 2011.
