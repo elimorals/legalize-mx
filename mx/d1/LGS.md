@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2015-04-20"
+last_updated: "2015-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2015.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -844,11 +844,11 @@ Los establecimientos particulares para el internamiento de enfermos, prestarán 
 
 Corresponde a la Secretaría de Salud vigilar y controlar la creación y funcionamiento de todo tipo de establecimientos de servicios de salud, así como fijar las normas oficiales mexicanas a las que deberán sujetarse.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 46.
 
-La construcción y equipamiento de los establecimientos dedicados a la prestación de servicios de salud, en cualquiera de sus modalidades, se sujetará a las normas oficiales mexicanas que, con fundamento en esta Ley y demás disposiciones generales aplicables, expida la Secretaría de Salud, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+La construcción, mantenimiento, operación y equipamiento de los establecimientos dedicados a la prestación de servicios de salud, en cualquiera de sus modalidades podrán aplicar las tecnologías factibles y ambientalmente adecuadas para promover mayor autosuficiencia, sustentabilidad y salud ambiental además, se sujetará a las normas oficiales mexicanas que, con fundamento en esta Ley y demás disposiciones generales aplicables, expida la Secretaría de Salud, sin perjuicio de la intervención que corresponda a otras autoridades.
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -1314,9 +1314,13 @@ III. La realización de programas para la prevención y control del uso de subst
 
 IV. Las acciones y campañas de promoción de los derechos de las personas con trastornos mentales y del comportamiento, así como de sensibilización para reducir el estigma y la discriminación, a fin de favorecer el acceso oportuno de la atención;
 
-> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2015)</small>
 
-V. La implementación estratégica y gradual de servicios de salud mental en establecimientos de la red del Sistema Nacional de Salud, que permita abatir la brecha de atención;
+V. La implementación estratégica y gradual de servicios de salud mental en establecimientos de la red del Sistema Nacional de Salud en todos sus niveles de atención, que permita abatir la brecha de atención;
+
+> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2015)</small>
+
+V Bis. La promoción de programas de atención, que consideren, entre otros, los hospitales de día, servicios de consulta externa, centros de día, casas de medio camino y talleres protegidos;
 
 > <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2013)</small>
 
@@ -1408,9 +1412,9 @@ A estos efectos, se establecerá la coordinación necesaria entre las autoridade
 
 Los padres, tutores, quienes ejercen la patria potestad o quienes ostenten la representación legal de personas con trastornos mentales y del comportamiento, serán responsables de la guardia o custodia. Las autoridades educativas y cualquier persona que esté en contacto con las personas con trastornos mentales y del comportamiento, procurarán la oportuna y debida atención de los mismos.
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2015)</small>
 
-A estos efectos, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de las personas con trastornos mentales y del comportamiento.
+A estos efectos, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de las personas con trastornos mentales y del comportamiento, con énfasis en niñas, niños, adolescentes y personas adultas mayores.
 
 > <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
@@ -8034,7 +8038,7 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente de su 
 
 D.O.F. 14 DE JULIO DE 2008.
 
-DECRETO QUE REFORMA LA FRACCIÓN V DEL ARTÍCULO 100 Y EL ARTÍCULO 461, Y SE ADICIONAN LOS ARTICULOS 317 BIS Y 317 BIS 1, TODOS DE LA LEY GENERAL DE SALUD.
+DECRETO QUE REFORMA LA FRACCIÓN V DEL ARTÍCULO 100 Y EL ARTÍCULO 461, Y SE ADICIONAN LOS ARTÍCULOS 317 BIS Y 317 BIS 1, TODOS DE LA LEY GENERAL DE SALUD.
 
 Único. El presente Decreto entrará en vigor al siguiente día al de su publicación en el Diario Oficial de la Federación.
 
@@ -8457,3 +8461,17 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Para efectos de lo dispuesto en la fracción II del artículo 187 Bis, la Secretaría de Salud contará con un plazo de 180 días naturales a partir de la entrada en vigor del presente Decreto para emitir las disposiciones que resulten aplicables.
 
 Tercero. Los gobiernos Federal, de las entidades federativas y de los municipios, desarrollarán de manera coordinada, las políticas públicas previstas en el presente Decreto a partir de los recursos presupuestarios disponibles, para lograr de manera progresiva, el cumplimiento del mismo.
+
+D.O.F. 4 DE JUNIO DE 2015.
+
+DECRETO QUE REFORMA LA FRACCIÓN V Y SE ADICIONA UNA FRACCIÓN V BIS, AL ARTÍCULO 73, Y SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 77 DE LA LEY GENERAL DE SALUD.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las erogaciones que se generen con motivo de la reforma al artículo 73, se harán con los recursos financieros y materiales con los que cuente la dependencia, por lo que no requerirá transferencias presupuestarias para su cumplimiento.
+
+D.O.F. 4 DE JUNIO DE 2015.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 46 DE LA LEY GENERAL DE SALUD
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
