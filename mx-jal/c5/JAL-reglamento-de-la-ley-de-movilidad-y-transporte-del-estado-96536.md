@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-movilidad-y-transporte-del-estado-96536
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-11-09"
-last_updated: "2013-11-12"
+last_updated: "2015-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 12 DE NOVIEMBRE DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2015.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 9 de noviembre de 2013.
 
@@ -319,7 +317,7 @@ CXVIII. Transporte turístico: Los destinados al transporte de pasajeros solamen
 
 CXIX. Tránsito: Acción o efecto de trasladarse de un lugar a otro por la vía pública;
 
-CXX. Vehículo: Medio de transporte terrestre que funciona a base de motor o cualquier otra forma de propulsión destinado a la transportación de personas o cosas; y (sic)
+CXX. Vehículo: Medio de transporte terrestre que funciona a base de motor o cualquier otra forma de propulsión destinado a la transportación de personas o cosas; y
 
 CXXI. Viaducto: Las calles con amplitud de avenidas, con o sin camellón o faja separadora y sin cruceros a nivel;
 
@@ -381,7 +379,7 @@ Para la expedición de las Normas Generales de Carácter Técnico, el Ejecutivo,
 
 ###### Artículo 7.
 
-El Ejecutivo del Estado podrá emitir y publicar en el periódico oficial "El Estado de Jalisco", los protocolos de programas de control para prevenir accidentes generados por la ingestión de alcohol y la aplicación de las pruebas de alcoholimetría, de los cursos en materia de sensibilización, concientización y prevención de accidentes viales por causa de la ingesta de alcohol o el influjo de drogas, estupefacientes o psicotrópicos; así como aquellos que regulen la aplicación de programas o trámites previstos en la Ley; (sic)
+El Ejecutivo del Estado podrá emitir y publicar en el periódico oficial "El Estado de Jalisco", los protocolos de programas de control para prevenir accidentes generados por la ingestión de alcohol y la aplicación de las pruebas de alcoholimetría, de los cursos en materia de sensibilización, concientización y prevención de accidentes viales por causa de la ingesta de alcohol o el influjo de drogas, estupefacientes o psicotrópicos; así como aquellos que regulen la aplicación de programas o trámites previstos en la Ley;
 
 ###### Artículo 8.
 
@@ -879,7 +877,9 @@ I. En el transporte masivo y colectivo, debe ser en el momento en que dicho serv
 
 Il. En los servicios de taxi en todas sus modalidades, el usuario debe realizar el pago al término de su viaje. Cuando por cualquier causa no sea posible concluir el viaje, el usuario pagará la parte proporcional al tramo de viaje realizado, descontando el banderazo inicial en el servicio con taximetro o en su caso la fracción de tiempo si acordaron el pago por horas o la parte proporcional a la tarifa establecida por zona;
 
-III. En el servicio de los vehículos de arrendamiento con chofer, el usuario debe realizar el pago al término de acuerdo a lo convenido en el contrato de prestación del servicio;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2015)</small>
+
+III. En el servicio de los vehículos de arrendamiento, el usuario debe realizar el pago de acuerdo a lo convenido en el contrato de prestación del servicio;
 
 IV. En el servicio de transporte de carga liviana en cualquiera de sus modalidades, los usuarios pueden convenir libremente con los prestadores del servicio las tarifas y formas de pago, siempre y cuando el acuerdo resulte ser menor de lo establecido en el tabulador de tarifa vigente emitido por el Ejecutivo del Estado;
 
@@ -1147,7 +1147,9 @@ XXI. Antes de iniciar la marcha para prestar el servicio, siempre deberá verifi
 
 XXII. En el caso del transporte colectivo y masivo, el conductor deberá en todo momento circular con las luces principales e interiores encendidas, caso contrario se aplicará la sanción establecida de conformidad con los artículos 174 y 191 fracción XIII de la Ley; y
 
-XXIII. Los conductores y operadores del servicio de transporte público, ya sea colectivo, masivo o individual de taxi con sitio, radio taxi o de autos de arrendamiento con chofer, están obligados a tomar cursos de capacitación, cuando menos una vez al año, con una carga horaria de cuando menos cuarenta horas, con el fin de que mejore su pericia y sus capacidades de manejo, así como cursos de capacitación y sensibilización sobre los derechos de los usuarios y los demás sujetos de la movilidad.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2015)</small>
+
+XXIII. Los conductores y operadores del servicio de transporte público, ya sea colectivo, masivo o individual de taxi con sitio o radio taxi, están obligados a tomar cursos de capacitación, cuando menos una vez al año, con una carga horaria de cuando menos cuarenta horas, con el fin de que mejore su pericia y sus capacidades de manejo, así como cursos de capacitación y sensibilización sobre los derechos de los usuarios y los demás sujetos de la movilidad.
 
 La contravención o incumplimiento de estas disposiciones así como los de la Ley y el presente reglamento serán causales de suspensión y cancelación de licencia y gafete respectivamente según la gravedad o reincidencia.
 
@@ -1351,7 +1353,9 @@ I. Pasajeros en sus siete modalidades: Masivo, Colectivo, Urbano, Conurbano o Me
 
 II. Taxis en sus dos modalidades: Taxi con sitio y Radio Taxi;
 
-III. Servicio de Transporte Especializado en sus nueve modalidades: Escolar, Personas con Discapacidad, de Personal, Turístico, Ambulancias, Funerarias, Auto Escuela para el Aprendizaje de Manejo, Carga Liviana con Sitios y de Autos de Arrendamiento;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2015)</small>
+
+III. Servicio de Transporte Especializado en sus nueve modalidades: Escolar, Personas con Discapacidad, de Personal, Turístico, Ambulancias, Funerarias, Auto Escuela para el Aprendizaje de Manejo, y de Carga Liviana con Sitios;
 
 IV. De carga en sus dos modalidades:
 
@@ -1479,7 +1483,9 @@ b) C1+E La licencia de este tipo autoriza conducir vehículos de uso privado y p
 
 c) C2 La licencia de este tipo autoriza conducir vehículos de transporte público colectivo y masivo; con una edad mínima para obtenerla de veintidós años cumplidos y tener previamente una licencia tipo B+E con mínimo cuatro años de antigüedad;
 
-d) C3 La licencia de este tipo autoriza conducir vehículos de transporte público en el servicio de taxi con sitio y radio Taxi; autos de arrendamiento con chofer, construidos con capacidad de no más de quince pasajeros incluido el conductor; con una edad mínima para obtenerla de veintidós años cumplidos y tener previamente una licencia tipo B+E con mínimo cuatro años de antigüedad;
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2015)</small>
+
+d) C3 La licencia de este tipo autoriza conducir vehículos de transporte público en el servicio de taxi con sitio y radio Taxi, construidos con capacidad de no más de quince pasajeros incluido el conductor; con una edad mínima para obtenerla de veintidós años cumplidos y tener previamente una licencia tipo B+E con mínimo cuatro años de antigüedad;
 
 e) C4 La licencia de este tipo autoriza conducir, vehículos para el transporte de personal, empresarial, turístico; con una edad mínima para obtenerla de veintidós años cumplidos y tener previamente una licencia tipo B+E con mínimo cuatro años de antigüedad;
 
@@ -1525,7 +1531,7 @@ VIII. En el caso de las Licencias C1, C1+E, C2, C3, C4, C5, D1 Y D2, presentar u
 
 IX. En el caso de las Licencias de Transporte Público C1, C1+E, C2, C3, C4, C5, D1 Y D2, cumplir con los requisitos de la validación de su licencia de Chofer B+E y pagar los derechos correspondientes;
 
-X. En el caso de la Licencia Transporte (sic) Público C5 en su modalidad de transporte escolar; cumplir con la constancia idónea que será la carta de anuencia por parte de la institución educativa donde prestará el servicio; para las Licencias D1 y D2 deberán presentar un documento que avale su habilidad y pericia en la conducción de estos vehículos emitida por la institución o empresa donde laboren;
+X. En el caso de la Licencia (sic) Transporte Público C5 en su modalidad de transporte escolar; cumplir con la constancia idónea que será la carta de anuencia por parte de la institución educativa donde prestará el servicio; para las Licencias D1 y D2 deberán presentar un documento que avale su habilidad y pericia en la conducción de estos vehículos emitida por la institución o empresa donde laboren;
 
 XI. En el caso de la licencia C5, cumplir con el examen psicométrico ante la Institución que determine la Secretaría;
 
@@ -1893,7 +1899,7 @@ El conductor que pretenda reducir la velocidad de su vehículo, detenerse, cambi
 
 I. Para detener la marcha o reducir la velocidad hará uso de la luz de freno y podrá, además, sacar por el lado izquierdo del vehículo el brazo extendido horizontalmente hacia abajo; y
 
-II. Para cambiar de dirección deberá usar la luz direccional correspondiente o en su defecto deberá sacar el brazo izquierdo hacia arriba si el cambio es a la derecha, y extendiéndolo si éste va a ser hacia la izquierda; (sic)
+II. Para cambiar de dirección deberá usar la luz direccional correspondiente o en su defecto deberá sacar el brazo izquierdo hacia arriba si el cambio es a la derecha, y extendiéndolo si éste va a ser hacia la izquierda;
 
 ###### Artículo 118.
 
@@ -2233,7 +2239,7 @@ En las arterias con camellones o jardines centrales o laterales, sólo se permit
 
 ###### Artículo 144.
 
-La Secretaría podrá, mediante el señalamiento respectivo, sujetar a determinados horarios y días de la semana la aprobación o prohibición para estacionarse en la vía pública, de acuerdo a la necesidad de las vialidades, asimismo la Secretaría está facultada de acuerdo a las necesidades, retirar (sic) los señalamientos respectivos.
+La Secretaría podrá, mediante el señalamiento respectivo, sujetar a determinados horarios y días de la semana la aprobación o prohibición para estacionarse en la vía pública, de acuerdo a la necesidad de las vialidades, asimismo la Secretaría está facultada de acuerdo a las necesidades, (sic) retirar los señalamientos respectivos.
 
 ###### Artículo 145.
 
@@ -2261,7 +2267,7 @@ II. Una vez levantada el acta de la fracción anterior y previo a que se constat
 
 III. Si pasadas las veinticuatro horas a que se refiere la fracción anterior, permanece abandonado el vehículo, se levantará el acta correspondiente y se le impondrá la sanción a la que se haga acreedor, procediéndose al retiro del vehículo, remitiéndolo al depósito público o privado concesionado que corresponda. Las actas que por éste procedimiento se levantaron y en el caso de que nunca se hubiere presentado el propietario del vehículo, quedarán a su disposición en la Secretaría o el ayuntamiento de que se trate; y
 
-IV. Cuando sea requerido el servicio de grúas, arrastre o salvamento para el traslado del vehículo que sea retirado de vía pública o de algún estacionamiento público o privado le corresponderá a la Secretaría o al ayuntamiento solicitarlo, las infracciones que por ese concepto de se (sic) generen, así como el pago por éste servicio, al igual que el importe que por derecho de patio o depósito se acumule, le serán cargados al propietario del vehículo.
+IV. Cuando sea requerido el servicio de grúas, arrastre o salvamento para el traslado del vehículo que sea retirado de vía pública o de algún estacionamiento público o privado le corresponderá a la Secretaría o al ayuntamiento solicitarlo, las infracciones que por ese concepto de (sic) se generen, así como el pago por éste servicio, al igual que el importe que por derecho de patio o depósito se acumule, le serán cargados al propietario del vehículo.
 
 ## TÍTULO SÉPTIMO. DE LOS ACCIDENTES EN MATERIA DE MOVILIDAD
 
@@ -2315,7 +2321,7 @@ II. Indicará inmediatamente a las partes, que deberán mover sus vehículos a u
 
 III. Indicará a las partes que deberán dar aviso a sus instituciones de seguros y podrán seguir las instrucciones e indicaciones que estos les hagan y en su momento si es su deseo podrán llenar la Declaración Universal de Accidente;
 
-IV. Les requerirá a la partes (sic) de sus documentos vigentes que son requisitos indispensables para circular;
+IV. Les requerirá a la (sic) partes de sus documentos vigentes que son requisitos indispensables para circular;
 
 V. Con el fin de establecer las circunstancias de tiempo, modo y lugar y en su caso auxiliar a la autoridad ministerial, la policía vial estatal o municipal, en caso de cualquier accidente que suceda en las vías públicas del Estado, levantarán el acta correspondiente en donde se asentaran los hechos y la descripción de los daños causados, datos particulares de quienes hayan intervenido en el mismo y de sus vehículos, las versiones de los que intervienen en el accidente y además las huellas o indicios localizados en el lugar del accidente, así como de los testigos si los hubiere y otros datos que sean necesarios para en su caso determinar la responsabilidad de los que intervienen en el accidente;
 
@@ -2375,9 +2381,11 @@ La declaración universal de accidente, independientemente de si hay o no acuerd
 
 Todos los vehículos automotores que transiten en el Estado de Jalisco, deberán contar con póliza o constancia de seguro, que ampare el pago de daños a terceros en sus bienes y personas por una suma asegurada de cuando menos cuatro mil días de Salario Mínimo General y para fallecimiento por veinticinco mil días de Salario Mínimo General; la contratación de éstos será responsabilidad del propietario del vehículo, en caso de contravenir esta disposición, se aplicara las sanciones dispuestas por la Ley y el presente Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2015)</small>
+
 ###### Artículo 158.
 
-Todos los vehículos de servicio público de transporte de taxi o radio taxi, así como los autos de arrendamiento con chofer, deberán contar con póliza o constancia de seguro que ampare el pago de daños a terceros en sus bienes y sus personas por una suma asegurada de cuando menos cuatro mil días de Salario Mínimo General y para fallecimiento por veinticinco mil días de Salario Mínimo General, en caso de contravenir esta disposición, se aplicara las sanciones dispuestas por la Ley y el presente Reglamento.
+Todos los vehículos de servicio público de transporte de taxi o radio taxi, deberán contar con póliza o constancia de seguro que ampare el pago de daños a terceros en sus bienes y sus personas por una suma asegurada de cuando menos cuatro mil días de Salario Mínimo General y para fallecimiento por veinticinco mil días de Salario Mínimo General, en caso de contravenir esta disposición, se aplicarán las sanciones dispuestas por la Ley y el presente Reglamento.
 
 Asimismo, deberán garantizar la vida de los usuarios del servicio correspondiente por una suma asegurada de cuando menos cinco mil días de Salario Mínimo General por cada pasajero y tratándose de lesiones, deberá contemplar cuando menos dos mil quinientos días de Salario Mínimo General por cada pasajero.
 
@@ -3165,21 +3173,23 @@ En la matriz o derivaciones del sitio de carga, se deberá llevar para su admini
 
 ### CAPÍTULO XIV. DE AUTOS DE ARRENDAMIENTO
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2015)</small>
+
 ###### Artículo 262.
 
-Los vehículos de arrendamiento podrán ser sin y con chofer, en ambos casos están obligados a cumplir con los requisitos del registro estatal y con la normatividad aplicable a cada uno de ellos.
+Los prestadores del servicio de vehículos en arrendamiento están obligados a cumplir con los requisitos del Registro Estatal y con la normatividad aplicable a cada uno de ellos.
 
-En el caso de los vehículos de arrendamiento sin chofer de acuerdo al artículo 96 fracción III de la Ley, no se considerará como de transporte público, y se sujetarán al contrato de adhesión y a lo que disponga la autoridad competente en la materia.
+El servicio de vehículos en arrendamiento, de acuerdo al artículo 96 fracción III de la Ley, no se considerará como de transporte público, y se sujetarán al contrato de adhesión y a lo que disponga la autoridad competente en la materia.
 
-Para poder prestar el servicio especializado de arrendamiento de vehículos con chofer, el cual es considerado en los términos de Ley como transporte público, deberán tramitar ante la Secretaría el permiso correspondiente y se sujetará a lo dispuesto por el artículo 143 de la Ley.
-
-Los prestadores de éste servicio deberán ser personas jurídicas con domicilio en el Estado de Jalisco. Este servicio se coordinará a través de centros de control, y se constituirá en el domicilio legal del prestador.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2015)</small>
 
 ###### Artículo 263.
 
-El servicio de autos de arrendamiento con chofer es aquel que opera mediante la celebración de un contrato por hora o por día sujeto a tarifa que para el efecto se autorice.
+El servicio de autos de arrendamiento es aquél que opera mediante la celebración de un contrato por hora o por día sujeto a tarifa que para el efecto se autorice.
 
-Las características de los vehículos con los que se presta el servicio de autos de arrendamiento con chofer serán las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2015)</small>
+
+Las características de los vehículos de autos de arrendamiento serán las siguientes:
 
 I. Se podrán utilizar vehículos de cinco y hasta quince plazas con equipo y diseño original de fábrica;
 
@@ -3189,13 +3199,19 @@ III. Bajo ninguna circunstancia podrán utilizarse vehículos de taxi o radio ta
 
 IV. Deberán contar con placas del Estado de Jalisco, además de todos los requisitos necesarios para circular a que hace referencia el presente Reglamento;
 
-V. Los vehículos en todo momento deberán portar todos los documentos vigentes que acrediten la prestación del servicio, si carece del permiso o no porta el contrato correspondiente se sancionará en los términos de la Ley y el presente Reglamento; y
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2015)</small>
 
-VI. Los contratos de prestación de este servicio deberán ser validados por la Secretaría y registrados en el Registro Estatal.
+V. Los vehículos en todo momento deberán portar todos los documentos vigentes, si no porta el contrato correspondiente se sancionará en los términos de la Ley y el presente Reglamento; y
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2015)</small>
+
+VI. Los contratos deberán ser validados por la Secretaría e inscritos en el Registro Estatal.
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2015)</small>
 
 ###### Artículo 264.
 
-Para la conducción de vehículos de servicio público de arrendamiento con chofer, los operadores deberán obtener una licencia correspondiente, así como un gafete expedido por la Secretaría, previa aprobación de los cursos de actualización en materia de educación y seguridad vial correspondientes, que será revalidado anualmente.
+Para la conducción de vehículos de arrendamiento, los operadores deberán obtener la licencia correspondiente, así como un gafete expedido por la Secretaría, previa aprobación de los cursos de actualización en materia de educación y seguridad vial correspondientes, que será revalidado anualmente, y no podrán utilizar el vehículo arrendado para ofertar o prestar servicio público de transporte.
 
 ### CAPÍTULO XV. DEL SERVICIO DE TRANSPORTE DE CARGA
 
@@ -3883,9 +3899,11 @@ Los Contratos de Subrogación que celebren los particulares con los Organismos P
 
 Los Subrogatarios podrán designar libremente a quien deba sucederlos por fallecimiento en sus derechos, única y exclusivamente sobre los derechos derivados del contrato en lo que respecta a la figura jurídica de subrogatario de acuerdo a lo establecido en el Reglamento del Registro.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2015)</small>
+
 ###### Artículo 341.
 
-Los vehículos pertenecientes a empresas cuya actividad sea específicamente el arrendamiento de vehículos con o sin chofer se sujetará a lo dispuesto por el Reglamento Registro (sic) Estatal.
+Los vehículos pertenecientes a empresas cuya actividad sea específicamente el arrendamiento de vehículos se sujetará a lo dispuesto por el Reglamento del Registro Estatal de Movilidad y Transporte.
 
 ###### Artículo 342.
 
@@ -4125,7 +4143,9 @@ Cuando la resolución sea favorable al usuario:
 
 I. En los casos del servicio de grúa y éste ya haya sido pagado por el usuario, el prestador del servicio deberá restituir el excedente cobrado por el mismo y los intereses legales aplicables; y en el supuesto de que el vehículo se encuentre en algún depósito público o privado concesionado, se notificará por oficio al depósito que corresponda, para efecto de que se realice el cobro del servicio de grúa correspondiente señalado en la resolución; y
 
-II. En el caso del servicio de taxi en cualquiera de sus modalidades, o vehículo de arrendamiento con chofer, el prestador de servicio estará obligado a realizar la devolución del excedente cobrado o en su caso la restitución de los bienes dañados por motivo de la mala conducción o servicio.
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2015)</small>
+
+II. En el caso del servicio de taxi en cualquiera de sus modalidades y de vehículos de arrendamiento, el prestador del servicio estará obligado a realizar la devolución del excedente cobrado y, en su caso, la restitución de los bienes dañados por efecto de la mala conducción o servicio.
 
 Todas las quejas se integrarán al expediente del prestador de servicios y del conductor u operador, las cuales formarán los antecedentes correspondientes y que en su momento se tomarán en cuenta para todo acto que se derive de la concesión o del historial de los conductores u operadores.
 
@@ -4390,3 +4410,11 @@ Octavo. Para efectos del presente Reglamento se tendrán por válidas, de forma 
 Noveno. Para efectos del presente Reglamento se tendrán por válidas, de forma única y limitativa, el uso de cascos y visores con la certificación UN/ECE 22 de la Comisión Económica de las Naciones Unidas para la Regulación Europea Número 22, la FMVSS 218 de los Estados Unidos de América o la Norma Oficial Mexicana operante para cascos de seguridad de vehículos automotores o versiones actualizadas de las normas internacionales.
 
 Así lo acordó el ciudadano Gobernador Constitucional del Estado de Jalisco, ante los ciudadanos Secretario General de Gobierno y Secretario de Movilidad, quienes lo refrendan.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE JUNIO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Las autoridades administrativas y la Policía Vial, en el ejercicio de sus atribuciones, observarán inexcusablemente el texto normativo vigente al momento de dictarse los actos administrativos constitutivos hasta la vigencia de estos.
