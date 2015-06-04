@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg331-2014-del-consejo-general-del-instituto-107396
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-04-20"
-last_updated: "2015-04-20"
+last_updated: "2015-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107396&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,15 +19,15 @@ issue_date: "2014-12-18"
 ---
 # ACUERDO INE/CG331/2014 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBAN LOS "LINEAMENTOS GENERALES PARA EL DISEÑO, IMPLEMENTACION Y OPERACION DE LOS CONTEOS RAPIDOS DE CARACTER INSTITUCIONAL EN LOS PROCESOS ELECTORALES FEDERALES Y LOCALES 2014-2015"
 
-ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBAN LOS “LINEAMENTOS GENERALES PARA EL DISEÑO, IMPLEMENTACIÓN Y OPERACIÓN DE LOS CONTEOS RÁPIDOS DE CARÁCTER INSTITUCIONAL EN LOS PROCESOS ELECTORALES FEDERALES Y LOCALES 2014-2015”
+ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBAN LOS "LINEAMENTOS GENERALES PARA EL DISEÑO, IMPLEMENTACIÓN Y OPERACIÓN DE LOS CONTEOS RÁPIDOS DE CARÁCTER INSTITUCIONAL EN LOS PROCESOS ELECTORALES FEDERALES Y LOCALES 2014-2015"
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2015.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 20 de abril de 2015.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Instituto Nacional Electoral.- Consejo General.- INE/CG331/2014.
 
-ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBAN LOS “LINEAMENTOS GENERALES PARA EL DISEÑO, IMPLEMENTACIÓN Y OPERACIÓN DE LOS CONTEOS RÁPIDOS DE CARÁCTER INSTITUCIONAL EN LOS PROCESOS ELECTORALES FEDERALES Y LOCALES 2014-2015”
+ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBAN LOS "LINEAMENTOS GENERALES PARA EL DISEÑO, IMPLEMENTACIÓN Y OPERACIÓN DE LOS CONTEOS RÁPIDOS DE CARÁCTER INSTITUCIONAL EN LOS PROCESOS ELECTORALES FEDERALES Y LOCALES 2014-2015"
 
 ANTECEDENTES
 
@@ -41,13 +41,13 @@ En razón de lo expuesto y con fundamento en los artículos 41, párrafo segundo
 
 ACUERDOS
 
-PRIMERO. El Consejo General del Instituto Nacional Electoral aprueba los "Lineamientos Generales para el diseño, implementación y operación de los conteos rápidos en los Procesos Electorales Federales y locales 2014-2015", los cuales se acompañan al presente Acuerdo y forman parte integral del mismo.
+PRIMERO. El Consejo General del Instituto Nacional Electoral aprueba los “Lineamientos Generales para el diseño, implementación y operación de los conteos rápidos en los Procesos Electorales Federales y locales 2014-2015”, los cuales se acompañan al presente Acuerdo y forman parte integral del mismo.
 
 SEGUNDO. Los Lineamientos señalados en el punto que antecede son de carácter vinculante para los Organismos Públicos Locales con Proceso Electoral 2014-2015, por lo que deberán hacerse de su conocimiento.
 
 TERCERO. Los Lineamientos señalados en el Punto Primero de este Acuerdo entrarán en vigor al día siguiente de su aprobación por parte de este Consejo General.
 
-CUARTO. Publíquese el presente Acuerdo y los "Lineamentos Generales para el diseño, implementación y operación de los conteos rápidos en los Procesos Electorales Federales y locales 2014-2015", en el Diario Oficial de la Federación.
+CUARTO. Publíquese el presente Acuerdo y los “Lineamentos Generales para el diseño, implementación y operación de los conteos rápidos en los Procesos Electorales Federales y locales 2014-2015”, en el Diario Oficial de la Federación.
 
 ## TRANSITORIOS
 
@@ -271,7 +271,9 @@ VI. Que considere secciones urbanas y no urbanas.
 
 VII. Que, en su caso, considere las zonas del territorio nacional que tienen un huso horario diferente al tiempo del centro de México, para el cálculo y distribución de la muestra, en el caso de los comicios federales y locales.
 
-VIII. Que se determinen los parámetros muestrales que se utilizarán en el ejercicio, esto es, deberán tener una probabilidad de al menos 95 por ciento y error en la estimación menor o igual al .5 por ciento.
+> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2015)</small>
+
+VIII. La muestra se diseñará con una confianza del 95% y con una precisión tal, que genere certidumbre estadística en el cumplimiento de los objetivos requeridos por el tipo de elección.
 
 ###### Artículo 26.
 
@@ -327,7 +329,9 @@ La autoridad electoral está obligada a rendir un informe de avance de la integr
 
 Una vez que el COTECORA haga la entrega del resultado de sus estimaciones, la autoridad electoral está obligada a proceder de inmediato a su difusión. En el mismo acto se hará entrega a las representaciones de los partidos políticos y a los candidatos independientes que estén participando en las localidades en donde se esté realizando este tipo de ejercicio, de un archivo electrónico que contenga la base numérica conformada por los resultados de cada una de las casillas que habiendo formado parte de la muestra, fueron integradas en el cálculo final.
 
-En caso de que no se capture un mínimo del 85 por ciento de la muestra preseleccionada, o bien que el COTECORA correspondiente dictamine que no hay suficiencia muestral necesaria para sus estimaciones, la difusión del resultado deberá acompañarse de un mensaje explicando esta condición.
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2015)</small>
+
+Sea cual fuere la muestra recabada y los resultados de los Conteos Rápidos, el COTECORA informará por escrito al Consejo General o a los órganos de dirección superior del OPL que corresponda, cuáles fueron las condiciones bajo las que se obtuvieron los resultados y las conclusiones que de ellos puedan derivarse. Las estimaciones deben ser en forma de intervalos de confianza para cada contendiente. El informe mencionado se hará público.
 
 La autoridad electoral procederá, en todos los casos, a la publicación de la base numérica de acuerdo a lo dispuesto en el siguiente Artículo.
 
@@ -342,3 +346,15 @@ La base numérica utilizada en la estimación o las estimaciones del Conteo Ráp
 3. Resultados de cada una de las dos anteriores
 
 4. Fórmulas de cálculo utilizadas para cada método preseleccionado.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 4 DE JUNIO DE 2015.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+SEGUNDO. Las modificaciones señaladas en el Punto Primero de este Acuerdo entrarán en vigor al día siguiente de su aprobación por parte de este Consejo General.
+
+TERCERO. Hágase del conocimiento de los Organismos Públicos Locales Electorales, las modificaciones que se aprueban en el presente Acuerdo, para los efectos legales conducentes.
+
+CUARTO. Se instruye al Secretario Ejecutivo, a efecto de que provea lo necesario para que el presente Acuerdo y los Lineamientos, que forman parte integral del mismo, sean publicados en el Diario Oficial de la Federación.
