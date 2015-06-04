@@ -4,7 +4,7 @@ identifier: "LGPAS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-07-24"
-last_updated: "2015-06-02"
+last_updated: "2015-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56140&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPAS"
 
 LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 24 de julio de 2007.
 
@@ -1110,7 +1110,9 @@ Los titulares de los permisos para pescar en altamar o en aguas de jurisdicción
 
 La Secretaría podrá otorgar permisos para realizar pesca de fomento a las personas que acrediten capacidad técnica y científica para tal fin, en los términos de la presente Ley, de su reglamento y de las normas oficiales que al efecto se expidan.
 
-La Secretaría podrá permitir la pesca de fomento, en el caso de científicos, técnicos e instituciones de investigación extranjeros, para lo cual hará del conocimiento de las Secretarías de Relaciones Exteriores y de Marina, las peticiones que reciba de extranjeros o de organismos internacionales, sin perjuicio de los demás requisitos que deban cumplirse en términos de la legislación aplicable.
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2015)</small>
+
+La Secretaría deberá coordinarse con el INAPESCA para que éste emita las opiniones de carácter técnico y científicas para permitir la pesca de fomento, en el caso de científicos, técnicos e instituciones de investigación extranjeros, para lo cual hará del conocimiento de las Secretarías de Relaciones Exteriores y de Marina, las peticiones que reciba de extranjeros o de organismos internacionales, sin perjuicio de los demás requisitos que deban cumplirse en términos de la legislación aplicable.
 
 ###### ARTÍCULO 65.
 
@@ -2169,5 +2171,9 @@ Primero. El presente Decreto entrará en vigor el siguiente día al de su public
 Segundo. Las medidas, programas e instrumentos económicos relativos al desarrollo de la actividad pesquera y acuícola, estarán sujetas a lo establecido en las Leyes de Ingresos, Federal de Presupuesto y Responsabilidad Hacendaria y de Presupuesto de Egresos de la Federación para el ejercicio fiscal que corresponda.
 
 D.O.F. 2 DE JUNIO DE 2015.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE JUNIO DE 2015.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
