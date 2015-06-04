@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg112-2015-del-consejo-general-del-instituto-108143
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-05-28"
-last_updated: "2015-05-28"
+last_updated: "2015-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108143&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-03-25"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE AJUSTA EL MODELO DE CASILLA ÚNICA PARA LAS ELECCIONES CONCURRENTES 2015, APROBADO EN SESIÓN EXTRAORDINARIA CELEBRADA EL 13 DE AGOSTO DE 2014, MEDIANTE ACUERDO INE/CG114/2014
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2015.
 
 Acuerdo publicado en la Edición Vespertina del Diario Oficial de la Federación, el jueves 28 de mayo de 2015.
 
@@ -45,17 +45,33 @@ PRIMERO. Se aprueba modificar el modelo de casilla única del Instituto Nacional
 
 SEGUNDO. Con el propósito de mejorar la eficiencia de los procedimientos de escrutinio y cómputo de las elecciones federal y locales en la casilla única, así como garantizar la permanencia de los funcionarios de la mesa directiva hasta la clausura de la casilla, el primer secretario y los escrutadores asignados para el escrutinio y cómputo de la elección federal a la conclusión del mismo, por indicaciones del Presidente, deberán apoyar los trabajos de escrutinio y cómputo de las elecciones locales que se encuentren en curso o pendientes de atender.
 
-TERCERO. Los representantes de los partidos políticos con registro nacional o estatal, así como los representantes de los candidatos independientes para cargos de elección federal y local, sólo podrán sufragar en la casilla ante la cual se encuentren debidamente acreditados, para el tipo de elección que corresponda según el domicilio señalado en su credencial para votar y la ubicación de la casilla de acuerdo a los siguientes criterios:
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2015)</small>
 
-1. Podrán votar por la elección de diputados federales por ambos principios.
+TERCERO. Los representantes de los Partidos Políticos con registro nacional o estatal, así como los representantes de los candidatos independientes para cargos de elección federal y local, sólo podrán sufragar en la casilla ante la cual se encuentren debidamente acreditados, para el tipo de elección que corresponda según el domicilio señalado en su credencial para votar y la ubicación de la casilla de acuerdo a los siguientes criterios:
 
-2. Podrán votar sin restricción para elección de diputados locales y en su caso para gobernador, solamente cuando la sección de su domicilio se encuentre dentro de la entidad federativa.
+Tratándose de la elección federal de diputados federales:
 
-3. Sólo podrán votar para las elecciones de autoridades municipales o jefes delegacionales en el Distrito Federal, los representantes cuyo domicilio se encuentre dentro de la demarcación municipal o delegacional en la que se (sic) estén acreditados.
+- Si se encuentran fuera de su sección, empero dentro de su Distrito Electoral Uninominal Federal, podrán votar por diputados federales por los principios de mayoría relativa y de representación proporcional.
 
-Tipo de elección por la que puede votar un representante ante Mesa Directiva de Casilla única, tomando en consideración el domicilio señalado en la credencial para votar
+- Si se encuentran fuera de su Distrito Electoral Uninominal Federal, sin embargo, está dentro de su entidad federativa, o bien, dentro de su circunscripción plurinominal podrán votar por diputados federales por el principio de representación proporcional.
 
-> <small>[N. DE E. VÉASE CUADRO EN LA EDICIÓN VESPERTINA DEL D.O.F. DE 28 DE MAYO DEL 2015, PÁGINA 17.]</small>
+Tratándose de elecciones locales de diputados locales:
+
+- Si se encuentran fuera de su sección, empero dentro de su Distrito Electoral Uninominal Local, podrán votar por Diputados Locales por los principios de mayoría relativa y de representación proporcional.
+
+- Si se encuentran fuera de su Distrito Electoral Uninominal Local, sin embargo, están dentro de su circunscripción local podrán votar por diputados locales por el principio de representación proporcional.
+
+Tipo de elección por el que puede votar un representante ante Mesa Directiva de Casilla Única, tomando en consideración el domicilio señalado en la credencial para votar
+
+Elección Federal
+
+> <small>N. DE E. VÉASE TABLA, EN LA TERCERA SECCIÓN DEL D.O.F. DE 4 DE JUNIO DE 2015, PÁGINA 70.</small>
+
+Tipo de elección por el que puede votar un representante ante Mesa Directiva de Casilla Única, tomando en consideración el domicilio señalado en la credencial para votar
+
+Elección Local
+
+> <small>N. DE E. VÉASE TABLA, EN LA TERCERA SECCIÓN DEL D.O.F. DE 4 DE JUNIO DE 2015, PÁGINA 71.</small>
 
 CUARTO. En aquellas entidades federativas con elecciones concurrentes, en las que no se elija al titular del Poder Ejecutivo Estatal ni se realice Consulta Popular o algún mecanismo de participación ciudadana previsto en la legislación local, el Instituto Nacional Electoral dotará a las mesas directivas de casilla de un cancel o elemento modular para garantizar la secrecía del voto.
 
@@ -88,3 +104,11 @@ El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbric
 > <small>[N. DE E. VÉASE MODELO DE CASILLA ÚNICA EN LA EDICIÓN VESPERTINA DEL D.O.F. DE 28 DE MAYO DE 2015, PÁGINAS DE LA 19 A LA 33.]</small>
 
 > <small>[N. DE E. VÉASE VOTO PARTICULAR QUE FORMULA LA CONSEJERA BEATRIZ EUGENIA GALINDO CENTENO EN CONTRA DEL PUNTO DE ACUERDO TERCERO Y DEL CONSIDERANDO 72 CONTENIDOS EN EL ACUERDO INE/CG/112/2015 DE 25 DE MARZO PASADO EN CUANTO AL MODELO DE CASILLA ÚNICA PARA LAS ELECCIONES CONCURRENTES 2015, EN LA EDICIÓN VESPERTINA DEL D.O.F. DE 28 DE MAYO DE 2015, PÁGINAS DE LA 34 A LA 38.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 4 DE JUNIO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor a partir del momento de su aprobación por el Consejo General del Instituto Nacional Electoral.
+
+SEGUNDO. El presente Acuerdo es de observancia general para los Procesos Electorales Federal y Locales con elecciones concurrentes el 7 de junio de 2015; se dejan sin efecto aquellos Acuerdos y Resoluciones que hayan aprobado los Organismos Públicos Locales que contravengan su contenido.
