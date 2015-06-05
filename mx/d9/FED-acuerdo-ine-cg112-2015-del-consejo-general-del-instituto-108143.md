@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg112-2015-del-consejo-general-del-instituto-108143
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-05-28"
-last_updated: "2015-06-04"
+last_updated: "2015-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108143&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-03-25"
 ---
 # ACUERDO INE/CG112/2015 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE AJUSTA EL MODELO DE CASILLA UNICA PARA LAS ELECCIONES CONCURRENTES 2015, APROBADO EN SESION EXTRAORDINARIA CELEBRADA EL 13 DE AGOSTO DE 2014, MEDIANTE ACUERDO INE/CG114/2014
 
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 5 DE JUNIO DE 2015, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE AJUSTA EL MODELO DE CASILLA ÚNICA PARA LAS ELECCIONES CONCURRENTES 2015, APROBADO EN SESIÓN EXTRAORDINARIA CELEBRADA EL 13 DE AGOSTO DE 2014, MEDIANTE ACUERDO INE/CG114/2014
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JUNIO DE 2015.
 
 Acuerdo publicado en la Edición Vespertina del Diario Oficial de la Federación, el jueves 28 de mayo de 2015.
 
@@ -112,3 +114,25 @@ D.O.F. 4 DE JUNIO DE 2015.
 PRIMERO. El presente Acuerdo entrará en vigor a partir del momento de su aprobación por el Consejo General del Instituto Nacional Electoral.
 
 SEGUNDO. El presente Acuerdo es de observancia general para los Procesos Electorales Federal y Locales con elecciones concurrentes el 7 de junio de 2015; se dejan sin efecto aquellos Acuerdos y Resoluciones que hayan aprobado los Organismos Públicos Locales que contravengan su contenido.
+
+D.O.F. 5 DE JUNIO DE 2015.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+Primero. Atendiendo lo señalado en los Considerandos 43 al 48 queda demostrada la imposibilidad material para instrumentar el mecanismo que establece el ejercicio del voto diferenciado de los representantes de Partidos Políticos y candidatos independientes acreditados ante mesas directivas de casilla que dispone el Acuerdo INE/CG243/2015, por lo que se deja sin efecto el mismo, adquiriendo vigencia en sus términos el Punto Tercero del Acuerdo INE/CG112/2015.
+
+Segundo. Se instruye a la Junta General Ejecutiva del Instituto para que se realicen las acciones conducentes para contar con los mecanismos que permitan dar absoluto cumplimiento a la sentencia SUP-RAP-120/2015 emitida por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación en los siguientes Procesos Electorales.
+
+Tercero. Se instruye al Secretario Ejecutivo para que realice las acciones que sean necesarias para dar a conocer el contenido del presente Acuerdo a las y los Vocales Ejecutivos de las Juntas Locales y Distritales del Instituto Nacional Electoral.
+
+Cuarto. Se instruye a las y los Presidentes de los Consejos Locales y Distritales para que instrumenten lo conducente a fin de dar a conocer el contenido del presente Acuerdo a los integrantes de sus respectivos Consejos.
+
+Quinto. Se instruye a la Unidad Técnica de Vinculación con los Organismos Públicos Locales para que de manera expedita comunique el presente Acuerdo a las y los Consejeros Presidentes de los Organismos Públicos Locales que celebrarán elecciones coincidentes con la federal en el año de 2015.
+
+Sexto. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, en la Gaceta del Instituto Nacional Electoral, en el periódico oficial de las entidades en las que se celebrarán elecciones concurrentes en el año de 2015, así como en las páginas públicas de los organismos electorales.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO NÚMERO INE/CG307/2015]
+
+Único. El presente Acuerdo entrará en vigor al momento de su aprobación por el Consejo General de este Instituto.
