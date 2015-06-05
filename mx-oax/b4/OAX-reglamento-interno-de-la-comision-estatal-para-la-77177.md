@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-comision-estatal-para-la-77177"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-23"
-last_updated: "2010-10-23"
+last_updated: "2015-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77177&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # REGLAMENTO INTERNO DE LA COMISION ESTATAL PARA LA PLANEACION Y PROGRAMACION DE LA EDUCACION MEDIA SUPERIOR DEL ESTADO DE OAXACA
 
-REGLAMENTO INTERNO DE LA COMISION ESTATAL PARA LA PLANEACION Y PROGRAMACION DE LA EDUCACION MEDIA SUPERIOR DEL ESTADO DE OAXACA
+REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL PARA LA PLANEACIÓN Y PROGRAMACIÓN DE LA EDUCACIÓN MEDIA SUPERIOR DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL PARA LA PLANEACIÓN Y PROGRAMACIÓN DE LA EDUCACIÓN MEDIA SUPERIOR DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 5 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 23 de octubre de 2010.
 
@@ -392,3 +394,13 @@ Director General del ICAPET y Vocal "G"
 L.A.E. BERNARDO JESÚS BARRAGÁN SALAZAR
 
 Secretario de la Contraloría y Comisario de la CEPPEMS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE JUNIO DE 2015.
+
+PRIMERO. El presente Reglamento Interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las disposiciones del presente reglamento, prevalecerán por encima de las disposiciones normativas de igual o menor jerarquía que se opongan a ellas, aun cuando no estén expresamente derogadas.
+
+TERCERO. Se abroga el Reglamento Interno de la Comisión Estatal para la Planeación y Programación de la Educación Media Superior del Estado de Oaxaca, de fecha 24 de septiembre de 2010, publicado en el Periódico Oficial del Gobierno del Estado el 23 de octubre del año 2010.
