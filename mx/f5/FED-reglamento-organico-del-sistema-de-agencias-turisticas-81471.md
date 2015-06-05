@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-sistema-de-agencias-turisticas-81471"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-27"
-last_updated: "2011-05-27"
+last_updated: "2015-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81471&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-04-14"
 ---
 # REGLAMENTO ORGANICO DEL SISTEMA DE AGENCIAS TURISTICAS, TURISSSTE
 
-REGLAMENTO ORGANICO DEL SISTEMA DE AGENCIAS TURISTICAS, TURISSSTE
+REGLAMENTO ORGÁNICO DEL SISTEMA DE AGENCIAS TURÍSTICAS, TURISSSTE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO ORGÁNICO DEL SISTEMA DE AGENCIAS TURÍSTICAS TURISSSTE, PUBLICADO EN EL D.O.F. DE 5 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JUNIO DE 2014 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 27 de mayo de 2011.
 
@@ -578,3 +580,13 @@ Lo que me permito hacer de su conocimiento para los efectos legales procedentes.
 Atentamente
 
 México, D.F., a 14 de abril de 2011.- El Secretario General y Secretario de la Junta Directiva, Luis Felipe Castro Sánchez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 5 DE JUNIO DE 2015.
+
+PRIMERO. Este Reglamento entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo 15.1327.2011 de la Junta Directiva por el que se aprueba el Reglamento Orgánico del Sistema de Agencias Turísticas TURISSSTE, de fecha 14 de abril de 2011 y publicado en el Diario Oficial de la Federación el 27 de mayo de 2011.
+
+TERCERO. Se mantendrán en vigor todas las disposiciones que no se opongan a este Reglamento.
