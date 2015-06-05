@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-la-contraloria-del-5989
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-12"
-last_updated: "2008-02-12"
+last_updated: "2015-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE AGOSTO DE 2015 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE JUNIO DE 2015.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno, el martes 12 de febrero de 2008.
 
@@ -453,9 +455,11 @@ XI. Las demás que le confieren otras disposiciones legales y aquellas que le en
 
 #### SECCIÓN VII. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE RESPONSABILIDADES
 
+> <small>(REFORMADO, G.G. 5 DE JUNIO DE 2015)</small>
+
 ###### Artículo 20.
 
-La Dirección General de Responsabilidades estará a cargo de un Director General, auxiliado en el ejercicio de sus atribuciones por los Directores de Responsabilidades Administrativas “A”; de Responsabilidades Administrativas “B”; de lo Contencioso e Inconformidades y de Control de Manifestación de Bienes y Sanciones; por los Jefes de Departamento de Procedimientos Administrativos “A”; de Quejas y Denuncias; de Procedimientos Administrativos “B”; de lo Contencioso; de Inconformidades; de Recepción y Análisis de Manifestación de Bienes y de Resguardo y Registro de Procedimientos y Sanciones, así como de los demás servidores públicos que se requieran para satisfacer las necesidades del servicio.
+La Dirección General de Responsabilidades estará a cargo de un Director General, auxiliado en el ejercicio de sus atribuciones por los directores de Responsabilidades Administrativas "A", de Responsabilidades Administrativas "B", de lo Contencioso e Inconformidades, y de la Unidad Especializada de Conflictos de Intereses, Manifestación de Bienes y Sanciones, por los Jefes de Departamento de Procedimientos Administrativos "A", de Quejas y Denuncias, de Procedimientos Administrativos "B", de lo Contencioso, de Inconformidades, de Recepción y Análisis de Manifestación de Bienes, Declaración de Intereses y de Resguardo y Registro de Procedimientos y Sanciones, así como de los demás servidores públicos que se requieran para satisfacer las necesidades del servicio.
 
 ###### Artículo 21.
 
@@ -503,13 +507,21 @@ XX. Emitir, previa solicitud de las áreas de administración de las dependencia
 
 XXI. Resolver sobre solicitudes de autorización para contratar personas que hayan cumplido la sanción de inhabilitación impuesta y pretendan desempeñar un empleo, cargo o comisión en el servicio público;
 
-XXII. Coordinar la integración del padrón de servidores públicos obligados a presentar manifestación de bienes;
+> <small>(REFORMADA, G.G. 5 DE JUNIO DE 2015)</small>
 
-XXIII. Proponer al Secretario el diseño y contenido de los formatos bajo los cuales los servidores públicos deberán presentar la manifestación de bienes, así como expedir los instructivos de llenado correspondientes;
+XXII. Coordinar la integración del padrón de servidores públicos obligados a presentar Manifestación de Bienes y la Declaración de Intereses.
 
-XXIV. Recibir y registrar la manifestación de bienes de los servidores públicos del Estado y municipios, en términos de la Ley de Responsabilidades;
+> <small>(REFORMADA, G.G. 5 DE JUNIO DE 2015)</small>
 
-XXV. Practicar el análisis contable-financiero de las manifestaciones de bienes presentadas por los servidores públicos, revisando la información asentada y, en su caso, requerir las aclaraciones conducentes, e instruir los procedimientos administrativos que correspondan;
+XXIII. Proponer al Secretario el diseño y contenido de los formatos bajo los cuales los servidores públicos deberán presentar la Manifestación de Bienes y la Declaración de Intereses, así como expedir los instructivos de llenado correspondientes.
+
+> <small>(REFORMADA, G.G. 5 DE JUNIO DE 2015)</small>
+
+XXIV. Recibir y registrar la Manifestación de Bienes y la Declaración de Intereses de los servidores públicos del Estado y municipios, en términos de la Ley de Responsabilidades.
+
+(REFORMA, G.G. 5 DE JUNIO DE 2015)
+
+XXV. Practicar el análisis contable-financiero de las Manifestaciones de Bienes presentadas por los servidores públicos, así como determinar el Conflicto de Intereses, revisando la información asentada y, en su caso, requerir las aclaraciones conducentes, e instruir los procedimientos administrativos que correspondan.
 
 XXVI. Verificar y practicar las investigaciones que fueren necesarias, en términos de la Ley de Responsabilidades y demás disposiciones aplicables;
 
@@ -792,3 +804,15 @@ SECRETARIO GENERAL DE GOBIERNO
 DR. VÍCTOR HUMBERTO BENÍTEZ TREVIÑO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 5 DE JUNIO DE 2015.
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Secretaría de Finanzas dispondrá los recursos necesarios para el funcionamiento de la Unidad Especializada de Conflictos de Intereses, Manifestación de Bienes y Sanciones.
+
+CUARTO. La Secretaría de la Contraloría implementará lo necesario para el cumplimiento del presente Acuerdo.
