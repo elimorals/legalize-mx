@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2015-06-01"
+last_updated: "2015-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JUNIO DE 2015.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -1157,7 +1157,9 @@ Para calcular cada pensión en particular, el Director General de Servicios al P
 
 Podrá negarse el otorgamiento de las pensiones complementarias a que se refiere este Capítulo, o, en cualquier momento, dejarse de otorgar o modificarse en cantidad o en el lapso durante el cual se otorgaron, por decisión del Pleno, aun cuando se cumplan todas las condiciones previstas en dicho Capítulo, atendiendo a las circunstancias especiales de cada caso en particular o a las generales que obliguen a ello.
 
-En el supuesto de que los servidores públicos que con antelación a su jubilación, o durante, o con posterioridad a dicho evento, sean sujetos de algún procedimiento de responsabilidad de conformidad con las disposiciones aplicables, mientras dure la sustanciación del mismo, el Pleno determinará si el magistrado de Circuito o juez de Distrito podrá recibir o continuar percibiendo la pensión complementaria a que tiene o pudiese tener derecho en los términos del artículo siguiente; en caso de ser sancionados o condenados por una conducta calificada como grave, se suspenderá en definitiva la pensión complementaria.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE JUNIO DE 2015)</small>
+
+En el supuesto de que los servidores públicos que con antelación a su jubilación o durante ésta, con motivo de algún procedimiento de responsabilidad, sean sancionados con destitución del puesto o inhabilitación para desempeñar empleos, cargos o comisiones en el servicio público, mediante resolución firme, se cancelará la pensión complementaria.
 
 #### SECCIÓN OCTAVA. SUSPENSIÓN Y CANCELACIÓN DE LA PENSIÓN COMPLEMENTARIA
 
@@ -1481,7 +1483,9 @@ La suspensión surtirá efectos a partir de la fecha de reinicio de actividades;
 
 Se cancelará la pensión complementaria a que se refiere este Capítulo cuando, para obtenerla, cualquiera de los beneficiarios hubiese proporcionado datos falsos que induzcan al error o se aprovechen de aquél en que la Dirección General de Servicios al Personal hubiese incurrido.
 
-También procede la cancelación de la pensión cuando, por resolución firme, se determine que el beneficiario que la esté disfrutando ha sido sancionado con inhabilitación en el servicio público; o cuando incumpla la prohibición contenida en el párrafo segundo del artículo 101 de la Constitución.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE JUNIO DE 2015)</small>
+
+También procede la cancelación de la pensión cuando, por resolución firme, se determine que el beneficiario que la esté disfrutando ha sido sancionado con destitución del puesto o inhabilitación para desempeñar empleos, cargos o comisiones en el servicio público; o cuando incumpla la prohibición contenida en el párrafo segundo del artículo 101 de la Constitución.
 
 La resolución que determine la cancelación de la pensión complementaria será emitida por el Pleno, previo dictamen de la Comisión de Administración.
 
@@ -10698,3 +10702,11 @@ D.O.F. 1 DE JUNIO DE 2015.
 PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 5 DE JUNIO DE 2015.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Los procedimientos administrativos que al momento de la publicación del presente Acuerdo se encuentren en sustanciación y se hubiese suspendido el pago de la pensión complementaria, deberán ajustarse a las modificaciones de este Acuerdo.
