@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-adquisiciones-enajenaciones-50098"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-24"
-last_updated: "2006-03-24"
+last_updated: "2015-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL SECTOR PUBLICO PARA EL TRIBUNAL ESTATAL ELECTORAL DE GUANAJUATO
 
-REGLAMENTO DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL SECTOR PUBLICO PARA EL TRIBUNAL ESTATAL ELECTORAL DE GUANAJUATO
+REGLAMENTO DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL SECTOR PUBLICO PARA EL TRIBUNAL ESTATAL ELECTORAL DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE CONTRATACIONES PÚBLICAS PARA EL TRIBUNAL ESTATAL ELECTORAL DE GUANAJUATO, PUBLICADO EN EL P.O. DE 5 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 24 de marzo de 2006.
 
@@ -33,7 +35,7 @@ C O N S I D E R A N D O:...
 
 Por lo anteriormente expuesto y con fundamento en las disposiciones legales previamente señaladas, se expide el siguiente:
 
-REGLAMENTO DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL SECTOR PÚBLICO PARA EL TRIBUNAL ESTATAL ELECTORAL DE GUANAJUATO
+REGLAMENTO DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL SECTOR PÚBLICO PARA EL TRIBUNAL ESTATAL
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -878,3 +880,11 @@ MAGISTRADO PROPIETARIO
 LIC. ALEJANDRO JAVIER MARTÍNEZ MEJÍA
 
 SECRETARIO GENERAL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE JUNIO DE 2015.
+
+Artículo Primero.- El presente Reglamento entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se abroga el Reglamento de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público para el Tribunal Estatal Electoral de Guanajuato, publicado en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato número 48, Tercera Parte, de fecha 24 de marzo de 2006.
