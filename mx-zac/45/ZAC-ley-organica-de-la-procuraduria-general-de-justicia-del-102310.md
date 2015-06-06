@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-procuraduria-general-de-justicia-del-102310"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-09-03"
-last_updated: "2014-11-01"
+last_updated: "2015-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102310&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 1 DE NOVIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 3 de septiembre de 2014.
 
@@ -173,7 +171,9 @@ VI. Solicitar a la Legislatura del Estado la declaración de procedencia por la 
 
 VII. Determinar la delegación y desconcentración de sus facultades en los servidores públicos de la Procuraduría General;
 
-VIII. Expedir los acuerdos de creación, supresión y especialización de Unidades de Investigación en los Distritos Judiciales del Estado donde así se requiera. Cuando exista un proceso electoral local, deberá habilitarse una Unidad especializada en la investigación de Delitos Electorales cuyo titular deberá cubrir los requisitos que se establecen en el artículo 64 de esta Ley y ser ratificado por la Legislatura del Estado;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2015)</small>
+
+VIII. Expedir los acuerdos de creación, supresión y especialización de Unidades de Investigación en los Distritos Judiciales del Estado donde así se requiera;
 
 IX. Representar legalmente al Gobierno del Estado e intervenir personalmente en los negocios en que el Estado sea parte, y en las controversias y acciones a que se refiere el artículo 105 de la Constitución Federal cuando se vea afectado el interés del Estado o de alguno de los Municipios; y por sí, o por conducto de sus Agentes, cuando se perjudique el interés público o lo determinen las leyes;
 
@@ -217,31 +217,35 @@ III. Subprocuraduría de Control, Justicia Alternativa y Capacitación;
 
 IV. Subprocuraduría de Derechos Humanos y Atención a Víctimas;
 
-V. Coordinación General de Unidades de Investigación;
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2015)</small>
 
-VI. Coordinación de Aprehensiones, Colaboraciones y Extradiciones;
+V. Fiscalía Especializada en Atención de Delitos Electorales;
 
-VII. Coordinación de Apelaciones y Amparos;
+VI. Coordinación General de Unidades de Investigación;
 
-VIII. Coordinación General de Módulos de Atención Temprana y Centros de Justicia Alternativa;
+VII. Coordinación de Aprehensiones, Colaboraciones y Extradiciones;
 
-IX. Coordinación de Visitadores;
+VIII. Coordinación de Apelaciones y Amparos;
 
-X. Coordinación Administrativa;
+IX. Coordinación General de Módulos de Atención Temprana y Centros de Justicia Alternativa;
 
-XI. Centro de Capacitación Ministerial;
+X. Coordinación de Visitadores;
 
-XII. Centro de Justicia para las Mujeres;
+XI. Coordinación Administrativa;
 
-XIII. Unidad de Asuntos Internos y Derechos Humanos;
+XII. Centro de Capacitación Ministerial;
 
-XIV. Unidad de Informática;
+XIII. Centro de Justicia para las Mujeres;
 
-XV. Instituto Zacatecano de Ciencias Forenses;
+XIV. Unidad de Asuntos Internos y Derechos Humanos;
 
-XVI. Policía Ministerial del Estado; y
+XV. Unidad de Informática;
 
-XVII. Delegaciones Regionales y demás Unidades Administrativas y Técnicas que determine el Reglamento de esta Ley y los Acuerdos Generales expedidos por el Procurador General.
+XVI. Instituto Zacatecano de Ciencias Forenses;
+
+XVII. Policía Ministerial del Estado; y
+
+XVIII. Delegaciones Regionales y demás Unidades Administrativas y Técnicas que determine el Reglamento de esta Ley y los Acuerdos Generales expedidos por el Procurador General.
 
 ### CAPÍTULO II. De los Nombramientos, Remociones y Ausencias
 
@@ -250,6 +254,14 @@ XVII. Delegaciones Regionales y demás Unidades Administrativas y Técnicas que 
 Los Subprocuradores, Coordinadores Generales, Coordinadores y Directores Generales no formarán parte del Servicio de Carrera de Procuración de Justicia y serán nombrados y removidos libremente por el Procurador General previo acuerdo con el Gobernador del Estado.
 
 Las ausencias temporales de los Subprocuradores, Coordinadores Generales, Coordinadores y Directores Generales, serán suplidas por los servidores públicos que designe el Procurador General.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2015)</small>
+
+El Fiscal Especial en Atención de Delitos Electorales no formará parte del Servicio de Carrera de Procuración de Justicia, será designado por el Gobernador con la ratificación de las dos terceras partes de los integrantes de la Legislatura del Estado y podrá ser removido por aquél.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2015)</small>
+
+Si no obtiene la votación mínima requerida, el Gobernador hará una nueva designación con persona distinta a la primera, y si ésta no es ratificada en términos del párrafo anterior, ocupará el cargo de Fiscal Especial en Atención de Delitos Electorales, la persona que designe el Gobernador del Estado.
 
 ###### Artículo 17.
 
@@ -270,6 +282,20 @@ VI. No estar suspendido ni haber sido destituido o inhabilitado por resolución 
 VII. En su caso, tener acreditado el Servicio Militar Nacional; y
 
 VIII. Aprobar examen de salud y de confianza en los términos que establezca el Reglamento Interior del Centro Estatal de Evaluación y Control de Confianza.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2015)</small>
+
+Artículo 17 bis.- Para ser Fiscal Especial en Atención de Delitos Electorales, deberá reunir los requisitos que establece el artículo anterior, además de cumplir con los siguientes:
+
+I. No haber sido registrado como candidato, ni haber desempeñado cargo alguno de elección popular en los cuatro años anteriores a la designación;
+
+II. No desempeñar, ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político en los cuatro años anteriores a la designación;
+
+III. No ser Magistrado, Secretario de despacho, Diputado, Presidente Municipal, Síndico o Regidor, o titular de dependencia de los ayuntamientos, salvo que se separe del cargo ciento ochenta días antes de su designación;
+
+IV. No ser Consejero Electoral, a menos que se hubiere separado del cargo con dos años de anticipación a su designación; y
+
+V. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe formal, material y definitivamente de su ministerio de la forma y con la anticipación que establece la Ley Reglamentaria del artículo 130 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 18.
 
@@ -430,6 +456,40 @@ XXVII. Las demás que de acuerdo a la naturaleza de su función le señalen otra
 ###### Artículo 26.
 
 El Subprocurador de Derechos Humanos y Atención a Víctimas tendrá a su cargo y responsabilidad: El Centro de Justicia para Mujeres, la Unidad de Asuntos Internos y Derechos Humanos y la Agencia del Ministerio Público especializada en búsqueda de personas desaparecidas.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2015)</small>
+
+Artículo 26 bis. La Fiscalía Especializada en Atención de Delitos Electorales, contará con los recursos humanos, financieros y materiales que requiera para su efectiva operación, al efecto se habilitará un agente del ministerio público especial en cada uno de los distritos electorales del Estado y contarán con una estructura administrativa suficiente para atender las denuncias y hechos que se presenten.
+
+La Fiscalía Especializada será competente para investigar y perseguir los delitos establecidos en la Ley General en Materia de Delitos Electorales, cuando no sea competente la Federación, de conformidad con lo establecido en el artículo 21 de dicha Ley.
+
+Son atribuciones de la Fiscalía Especializada en Atención de Delitos Electorales las siguientes:
+
+I. Recibir en el ámbito de su competencia, las denuncias por hechos que la Ley General en Materia de Delitos Electorales señale como delitos electorales;
+
+II. Conducir las investigaciones que legalmente procedan cuando se trate de hechos previstos en la fracción anterior;
+
+III. Coordinar a las Policías y a los servicios periciales durante la investigación;
+
+IV. Ordenar las diligencias pertinentes y útiles para demostrar o no, la existencia del delito y la responsabilidad de quien lo cometió o participó en su comisión;
+
+V. Integrar las carpetas de investigación bajo los principios que rigen la actuación del Ministerio Público;
+
+VI. Resolver sobre el ejercicio de la acción panal en la forma establecida por la ley;
+
+VII. Cumplir adecuadamente sus funciones en las audiencias de control de detención, formulación de imputación, vinculación a proceso, intermedias, de juicio oral y de ejecución de sentencias;
+
+VIII. Remitir a las autoridades correspondientes las Carpetas de Investigación con motivo de hechos que la ley señale como delitos electorales, en los casos que se determine que no son competencia del Ministerio Público del Estado de Zacatecas;
+
+IX. Coordinarse con las autoridades estatales y nacionales para el establecimiento de programas y acciones para la prevención de delitos electorales, así como de fomento a la cultura de la denuncia y legalidad en materia de delitos electorales, en donde se involucre a la sociedad civil;
+
+X. Coordinarse con las autoridades nacionales en materia de formación, actualización, capacitación y profesionalización de servidores públicos que participen en la procuración de justicia electoral;
+
+XI. Informar al Consejo General del Instituto Electoral del Estado de Zacatecas, de manera semanal durante el proceso electoral y trimestral interproceso, respecto de las denuncias que se hubieran recibido y su estado procesal que guarden; y
+
+XII. Las demás que le señale esta y otras leyes, así como las que le encomiende el Procurador General.
+
+Concluidos los asuntos de la competencia del Fiscal Especial en Atención de Delitos Electorales derivados del proceso electoral local, el Procurador General de Justicia, podrá encomendarle asuntos distintos a la materia electoral.
 
 ###### Artículo 27.
 
@@ -1868,3 +1928,13 @@ PROFR. FRANCISCO ESCOBEDO VILLEGAS.
 EL PROCURADOR GENERAL DE JUSTICIA
 
 LIC. ARTURO NAHLE GARCÍA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE JUNIO DE 2015.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+Artículo Tercero. Conforme a lo dispuesto en el artículo 87 del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Zacatecas, en materia electoral, publicado en el Periódico Oficial, Órgano de Gobierno del Estado, el Gobernador del Estado deberá designar al titular de la Fiscalía Especializada en Atención de Delitos Electorales de la Procuraduría General de Justicia del Estado, y someter su designación a la ratificación de la Legislatura del Estado, con la aprobación de dos terceras partes de sus miembros, antes del inicio del proceso electoral local.
