@@ -4,7 +4,7 @@ identifier: "ZAC-ley-electoral-del-estado-de-zacatecas-89718"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-06"
-last_updated: "2012-10-06"
+last_updated: "2015-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89718&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY ELECTORAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ELECTORAL DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P. O. DE 6 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2015 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 6 de octubre de 2012.
 
@@ -975,7 +977,7 @@ XVIII. Actuar y conducirse sin ligas de dependencia o subordinación con partido
 
 XIX. Aplicar el financiamiento de que dispongan, por cualquiera de las modalidades establecidas en esta Ley, exclusivamente para el sostenimiento de sus actividades ordinarias, específicas y para sufragar los gastos de precampaña y campaña;
 
-XX. Informar al Consejo General el origen y destino de sus recursos, y abstenerse de desviar, para fines ajenos a los previstos por esta Ley, el financiamiento de que dispongan, por cualquiera de las modalidades establecidas en esta Ley;}
+XX. Informar al Consejo General el origen y destino de sus recursos, y abstenerse de desviar, para fines ajenos a los previstos por esta Ley, el financiamiento de que dispongan, por cualquiera de las modalidades establecidas en esta Ley;
 
 XXI. Abstenerse, en su propaganda política o electoral, de cualquier expresión que implique diatriba, calumnia, infamia, injuria, difamación o que denigre a los ciudadanos, a las instituciones públicas o a otros partidos políticos, coaliciones y sus candidatos, particularmente durante las precampañas y campañas electorales y en la propaganda política que se utilice durante las mismas. Las quejas por violaciones a este precepto, con excepción a las relativas a radio y televisión, serán presentadas ante la Secretaría Ejecutiva del Instituto, la que instruirá un procedimiento expedito de investigación en los términos establecidos en esta Ley;
 
@@ -4764,3 +4766,31 @@ LIC. MIGUEL ALEJANDRO ALONSO REYES
 EL SECRETARIO GENERAL DE GOBIERNO
 
 PROF. FRAN O ESCOBEDO VILLEGAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE JUNIO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Segundo. Se abroga la Ley Electoral del Estado de Zacatecas, publicada en el Periódico Oficial, Órgano del Gobierno del Estado, el día 6 de octubre del 2012.
+
+Tercero. El Consejo General del Instituto Electoral del Estado de Zacatecas, en la elección del año dos mil dieciséis, podrá implementar el sistema electrónico de recepción del voto, en los Municipios o Distritos que considere pertinentes.
+
+Cuarto. Los asuntos que a la entrada en vigor del presente Decreto se encuentren en proceso, se resolverán conforme a las disposiciones vigentes al momento en que iniciaron.
+
+Quinto. El personal del Instituto Electoral del Estado de Zacatecas que con motivo del presente Decreto deba ser objeto de cambios en su adscripción de trabajo, conservará sus derechos laborales.
+
+Sexto. El Consejo General del Instituto Electoral del Estado de Zacatecas dictará los acuerdos necesarios para hacer efectivas las disposiciones de esta Ley y deberá expedir los reglamentos que se deriven del mismo a más tardar en 180 días a partir de su entrada en vigor.
+
+Las disposiciones generales emitidas por el Instituto Electoral del Estado de Zacatecas, con antelación a la entrada en vigor del presente Decreto, seguirán vigentes, en lo que no se opongan a la Constitución Federal, Constitución Local y la presente Ley, hasta en tanto el Consejo General del Instituto Electoral del Estado de Zacatecas no emita aquéllas que deban sustituirlas.
+
+Séptimo. Las elecciones ordinarias locales que se verifiquen en el año 2018 se llevarán a cabo el primer domingo de julio.
+
+Octavo. Las disposiciones jurídicas previstas en el Libro Cuarto del presente Decreto, relativas al ejercicio del voto de los zacatecanos residentes en el extranjero, se sujetará a las posibilidades técnicas, jurídicas y financieras que el Instituto Nacional Electoral cuente con respecto a la posibilidad de elaboración del patrón (sic) electoral de los zacatecanos residentes en el extranjero a fin de proporcionar la mayor certeza, objetividad, certidumbre, transparencia y legalidad en la operatividad del voto en el extranjero.
+
+Noveno. Las funciones correspondientes a la capacitación electoral, la integración y ubicación de las casillas, así como la designación de funcionarios de la mesa directiva, en el proceso electoral del 2016, delegadas al Instituto Electoral del Estado de Zacatecas por virtud de la publicación del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia político-electoral, se mantendrán delegadas hasta en tanto no sean reasumidas por (sic) Instituto Nacional Electoral.
+
+Décimo. En tanto el Congreso de la Unión expida la Ley en materia de réplica, los partidos políticos, los precandidatos y candidatos podrán ejercer el derecho de réplica que establece el primer párrafo del artículo 6o. de la Constitución Federal y las leyes respectivas, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma ha deformado hechos o situaciones referentes a sus actividades. Este derecho se ejercerá sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la ley que regule la materia de imprenta y de las disposiciones civiles y penales aplicables. Para los efectos de esta Ley, el titular del derecho de réplica deberá agotar primeramente la instancia ante el medio de comunicación respectivo, o demostrar que lo solicitó a su favor y le fue negado. Las autoridades electorales deberán velar oportunamente por la efectividad del derecho de réplica durante los procesos electorales, y en caso de ser necesario deberá instaurar el procedimiento especial sancionador previsto en esta Ley.
+
+Décimo Primero. Se derogan todas las disposiciones que se opongan al presente Decreto.
