@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-instituto-electoral-del-estado-de-zacatecas-34
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-10-04"
-last_updated: "2012-10-06"
+last_updated: "2015-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34301&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 6 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2015 (ABROGADA).
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 4 de octubre de 2003.
 
@@ -89,7 +91,7 @@ VII. Ley Electoral: la Ley Electoral del Estado de Zacatecas;
 
 VIII. Ley de Impugnación: la Ley del Sistema de Medios de Impugnación Electoral del Estado de Zacatecas;
 
-IX. Procesos Electorales: el conjunto de actos realizados por las autoridades electorales, los partidos políticos y los ciudadanos, ordenados por la Constitución y la Ley Electoral, y que tienen por objeto la renovación de los Poderes Legislativo y Ejecutivo, así como de los miembros de los ayuntamientos del Estado; y (sic)
+IX. Procesos Electorales: el conjunto de actos realizados por las autoridades electorales, los partidos políticos y los ciudadanos, ordenados por la Constitución y la Ley Electoral, y que tienen por objeto la renovación de los Poderes Legislativo y Ejecutivo, así como de los miembros de los ayuntamientos del Estado; y
 
 X. Secretario Ejecutivo: el Secretario Ejecutivo del Consejo General y de los Consejos Distritales y Municipales del Instituto Electoral del Estado de Zacatecas;
 
@@ -157,7 +159,7 @@ IV. Garantizar la celebración periódica y pacífica de las elecciones para ren
 
 V. Velar por la autenticidad y efectividad del sufragio popular;
 
-VI. Coadyuvar en la promoción del voto y difundir la cultura democrática; y (sic)
+VI. Coadyuvar en la promoción del voto y difundir la cultura democrática; y
 
 VII. Garantizar la celebración pacífica de los procesos de participación ciudadana;
 
@@ -265,7 +267,7 @@ ARTÍCULO 8
 
 2. Los Consejos Distritales y Municipales y las Mesas Directivas de Casilla estarán en funciones únicamente durante el proceso electoral, en los términos que disponga la Ley Electoral y el presente ordenamiento.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 ### CAPÍTULO TERCERO. De las Sesiones de los Consejos
 
@@ -313,7 +315,7 @@ ARTÍCULO 12
 
 2. Los Consejos Distritales y Municipales Electorales, tendrán como horario de labores el que acuerde el Consejo General, tomando en cuenta que durante el proceso electoral, todos los días y las horas son hábiles, y así lo informarán a todos los miembros integrantes de estos órganos electorales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 De las remuneraciones y responsabilidades de los integrantes de los Consejos del Instituto
 
@@ -505,7 +507,7 @@ III. Poseer el día de la designación, título profesional de nivel licenciatur
 
 IV. En los últimos tres años inmediatos anteriores a su designación, no haber desempeñado cargo de elección popular; ni dirigente nacional, estatal o municipal de partido político alguno;
 
-V. Si el cargo público del que se hubiese separado fue el de Director Ejecutivo de Administración y Prerrogativas del Instituto, se requerirá que su rendición de cuentas haya sido aprobada por el Consejo General; y (sic)
+V. Si el cargo público del que se hubiese separado fue el de Director Ejecutivo de Administración y Prerrogativas del Instituto, se requerirá que su rendición de cuentas haya sido aprobada por el Consejo General; y
 
 VI. Manifestar bajo protesta de decir verdad que:
 
@@ -683,7 +685,7 @@ XLII. Establecer las bases y emitir los lineamientos a que se sujetarán los deb
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-XLIII. Garantizar que el ejercicio de la prerrogativa correspondiente al acceso de los partidos políticos a radio y televisión, se realice de conformidad a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, el Código Federal de Instituciones y Procedimientos Electorales, Ley Electoral del Estado y demás disposiciones aplicables. Asimismo contratar, a petición de los partidos políticos, y en su caso de las coaliciones, los espacios en los medios de comunicación social impresos para difundir mensajes orientados a la obtención del voto durante las precampañas y campañas electorales; Dicha (sic) contratación se efectuará con cargo al financiamiento público correspondiente, sin rebasar, en ningún caso, el equivalente al 50% del financiamiento público para gastos de campaña de cada partido;
+XLIII. Garantizar que el ejercicio de la prerrogativa correspondiente al acceso de los partidos políticos a radio y televisión, se realice de conformidad a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, el Código Federal de Instituciones y Procedimientos Electorales, Ley Electoral del Estado y demás disposiciones aplicables. Asimismo contratar, a petición de los partidos políticos, y en su caso de las coaliciones, los espacios en los medios de comunicación social impresos para difundir mensajes orientados a la obtención del voto durante las precampañas y campañas electorales; Dicha contratación se efectuará con cargo al financiamiento público correspondiente, sin rebasar, en ningún caso, el equivalente al 50% del financiamiento público para gastos de campaña de cada partido;
 
 XLIV. Expedir las convocatorias para los procesos electorales y de referéndum y plebiscito que deban celebrarse, así como cualquier otra que deba expedirse para la realización de sus fines;
 
@@ -871,7 +873,7 @@ XXII. Recibir las solicitudes de registro de candidaturas independientes y turna
 
 XXIII. Proponer al Consejo General la terna de candidatos para la designación del Secretario Ejecutivo; así como las relativas a los titulares de las direcciones integrantes de la Junta Ejecutiva, conforme a lo establecido en el Estatuto;
 
-XXIV. Publicar en el Periódico Oficial, Órgano del Gobierno del Estado, los acuerdos y resoluciones que determine el Consejo General; y (sic)
+XXIV. Publicar en el Periódico Oficial, Órgano del Gobierno del Estado, los acuerdos y resoluciones que determine el Consejo General; y
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
@@ -951,7 +953,7 @@ VIII. Formar parte de las Comisiones que acuerde el Consejo electoral; y
 
 IX. Las demás que esta ley y otras disposiciones aplicables les confieran.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 ### CAPÍTULO TERCERO. De las Sesiones de los Consejos
 
@@ -1089,7 +1091,7 @@ IV. De Capacitación Electoral y Cultura Cívica con Perspectiva de Género;
 
 V. De Asuntos Jurídicos;
 
-VI. De Sistemas y Programas Informáticos; y (sic)
+VI. De Sistemas y Programas Informáticos; y
 
 VII. De comunicación Social;
 
@@ -1173,13 +1175,13 @@ VI. Elaborar la propuesta de calendarización de ministraciones de financiamient
 
 VII. Las demás que le confiera esta ley y los reglamentos del Consejo General.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Comisión de Capacitación Electoral y Cultura Cívica con Perspectiva de Género. Atribuciones
 
 ARTÍCULO 34
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 1. La Comisión de Capacitación Electoral y Cultura Cívica con Perspectiva de Género tendrá las siguientes atribuciones:
 
@@ -1321,7 +1323,7 @@ Junta Ejecutiva. Dirección e integración Periodicidad de Reuniones y Atribucio
 
 ARTÍCULO 38
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 1. La Junta Ejecutiva del Instituto será dirigida por la Consejera o Consejero Presidente y se integrará de la siguiente manera:
 
@@ -1329,7 +1331,7 @@ ARTÍCULO 38
 
 I. La Secretaría Ejecutiva del Instituto;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 II. Las personas titulares de las direcciones:
 
@@ -1387,7 +1389,7 @@ XII. Aprobar los anteproyectos que elaboren las direcciones ejecutivas y que deb
 
 XIII. Participar en lo conducente en la elaboración de la propuesta del anteproyecto de presupuesto de egresos del Instituto, así como la propuesta de aplicación y distribución del gasto para el ejercicio fiscal correspondiente;
 
-XIV. Emitir y presentar al Consejo General las propuestas de Manual de Organización y del Catálogo de Cargos y Puestos del Instituto, y en su caso, las modificaciones al mismo; y (sic)
+XIV. Emitir y presentar al Consejo General las propuestas de Manual de Organización y del Catálogo de Cargos y Puestos del Instituto, y en su caso, las modificaciones al mismo; y
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
@@ -1565,13 +1567,13 @@ XVII. Coadyuvar con el Presidente y Secretario Ejecutivo en materia de recursos 
 
 XVIII. Las demás que le confiera la ley y el reglamento.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Dirección Ejecutiva de Capacitación Electoral y Cultura Cívica con Perspectiva de Género. Atribuciones
 
 ARTÍCULO 43
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 1. Son atribuciones del titular de la Dirección Ejecutiva de Capacitación Electoral y Cultura Cívica con Perspectiva de Género:
 
@@ -2135,7 +2137,7 @@ ARTÍCULO 64
 
 1. La Comisión del Servicio Profesional Electoral por conducto del Secretario Ejecutivo, presentará al Consejo General el proyecto de Estatuto, para su aprobación, en su caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 2. El Estatuto del Servicio Profesional Electoral deberá establecer, por lo menos, las normas para:
 
@@ -2407,7 +2409,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. TOMAS TORRES MERCADO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 7 DE OCTUBRE DE 2006.
 
@@ -2427,4 +2429,26 @@ P.O. 6 DE OCTUBRE DE 2012.
 
 Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
-Articulo Segundo.- Se derogan las disposiciones que contravengan el presente Instrumento Legislativo.
+Artículo Segundo.- Se derogan las disposiciones que contravengan el presente Instrumento Legislativo.
+
+P.O. 6 DE JUNIO DE 2015.
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado
+
+Artículo Segundo. Se abroga la Ley Orgánica del Instituto Electoral del Estado de Zacatecas, publicada el 4 de octubre de 2003 en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Tercero. En tanto se aprueba el Estatuto del Servicio Profesional Electoral Nacional, las relaciones de trabajo entre los servidores públicos, empleados administrativos y trabajadores auxiliares, se regirán por las normas vigentes al inicio de la relación laboral, los contratos individuales de trabajo y de conformidad con los acuerdos de transición que emita el Instituto Nacional Electoral.
+
+Artículo Cuarto. La Unidad de Fiscalización deberá concluir el proceso de revisión de los informes financieros de los partidos políticos correspondientes al ejercicio 2014, de conformidad con el artículo transitorio Décimo Octavo del Decreto por el que se expide la Ley General de Instituciones y Procedimientos Electorales y el Acuerdo del Consejo General expedido por el Consejo General del Instituto Nacional Electoral.
+
+Artículo Quinto. Concluida la revisión referida en el artículo anterior, de conformidad a los términos establecidos en la legislación correspondiente y en caso de que el Instituto Nacional, no delegue al Instituto la facultad fiscalizadora, éste deberá tomar las medidas administrativas necesarias para la modificación de su estructura, en todo caso, deberán respetarse los derechos laborales del personal adscrito a dicha Unidad.
+
+Artículo Sexto. El Consejo General del Instituto, en un término de sesenta días a partir de la entrada en vigor del presente Decreto, deberá reorganizar la Secretaría Ejecutiva a fin de integrar la Unidad de lo Contencioso Electoral y la Oficialía Electoral, con base en las plazas existentes a la fecha de la entrada en vigor de esta Ley.
+
+Artículo Séptimo. El Consejo General del Instituto, en un término no mayor a sesenta días a partir de la entrada en vigor del presente Decreto, conformará la Unidad Técnica de Vinculación con el Instituto Nacional, con base en las plazas existentes a la fecha de la entrada en vigor de esta Ley.
+
+Artículo Octavo. El Consejo General del Instituto, deberá conformar la Unidad Técnica del Voto de los Zacatecanos residentes en el extranjero, por lo menos ciento veinte días antes de que inicie el proceso electoral local 2021.
+
+Artículo Noveno. El Consejo General del Instituto deberá aprobar el Reglamento Interior del Instituto en un plazo que no exceda de sesenta días naturales, contados a partir de la publicación del presente Decreto.
+
+Artículo Décimo. Se derogan todas las disposiciones que se opongan al presente Decreto.
