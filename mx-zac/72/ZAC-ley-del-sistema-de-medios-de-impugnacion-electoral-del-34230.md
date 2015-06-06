@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-sistema-de-medios-de-impugnacion-electoral-del-34230"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-04"
-last_updated: "2009-10-03"
+last_updated: "2015-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION ELECTORAL DEL ESTADO DE ZACATECAS
 
-LEY DEL SISTEMA DE MEDIOS DE IMPUGNACION ELECTORAL DEL ESTADO DE ZACATECAS
+LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN ELECTORAL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 4 de octubre de 2003.
 
@@ -69,55 +69,81 @@ LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN ELECTORAL DEL ESTADO DE ZACATECAS
 
 ## TÍTULO PRIMERO. Disposiciones Preliminares
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 ### CAPÍTULO ÚNICO. Generalidades
 
 Naturaleza y ámbito de aplicación de la ley
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2015)</small>
 
 ARTÍCULO 1°
 
-La presente ley es de orden público, de observancia general en todo el Estado, reglamentaria de la Constitución Política del Estado de Zacatecas, y tiene por objeto regular el sistema de medios de impugnación en materia electoral y la protección de los derechos político-electorales del ciudadano.
+La presente ley es de orden público, de observancia general en todo el Estado, reglamentaria de la Constitución Política del Estado de Zacatecas, y tiene por objeto regular el sistema de medios de impugnación en materia electoral.
 
 Criterios de interpretación
 
 ARTÍCULO 2°
 
-Para la resolución de los medios de impugnación previstos en esta ley, las disposiciones del presente ordenamiento se interpretarán conforme a los criterios gramatical, sistemático, funcional y a la jurisprudencia. A falta de disposición expresa, se aplicarán los principios generales del derecho.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+Para la resolución de los medios de impugnación previstos en esta ley, las disposiciones del presente ordenamiento se interpretarán conforme a la Constitución, los tratados o instrumentos internacionales celebrados por el Estado Mexicano, así como a los criterios gramatical, sistemático, funcional y a la jurisprudencia. A falta de disposición expresa, se aplicarán los principios generales del derecho.
 
-Al momento de resolver las impugnaciones relativas a los asuntos internos de los partidos políticos, derivados de actos o resoluciones que vulneren los derechos de los militantes en los casos a que se refiere el artículo 48 de esta ley, se tendrá en cuenta la conservación de la libertad de decisión política y el derecho a la auto organización de los partidos políticos.
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2015)</small>
+
+La interpretación del orden jurídico deberá realizarse conforme a los derechos humanos reconocidos en la Constitución, favoreciendo en todo tiempo a las personas con la protección más amplia.
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2015)</small>
+
+Al momento de resolver las impugnaciones relativas a los asuntos internos de los partidos políticos, derivados de actos o resoluciones que vulneren los derechos de los militantes en los casos a que se refiere el artículo 48 de esta Ley, se tendrá en cuenta la conservación de la libertad de decisión política y el derecho a la auto organización de los partidos políticos.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2015)</small>
+
+En la interpretación sobre la resolución de conflictos de asuntos internos de los partidos políticos, se deberá tomar en cuenta el carácter de entidad de interés público de éstos como organización de ciudadanos, así como su libertad de decisión interna, el derecho a la auto organización de los mismos y el ejercicio de los derechos de sus militantes.
 
 Glosario de uso frecuente
 
 ARTÍCULO 3°
 
-Para los efectos de esta ley, se entenderá por:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2015)</small>
 
-I. Consejo General.- Al Consejo General del Instituto Electoral del Estado de Zacatecas;
+Para los efectos de esta Ley, se entenderá por:
 
-II. Constitución.- A la Constitución Política del Estado Libre y Soberano de Zacatecas;
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2015)</small>
 
-III. Estatuto.- Al Estatuto del Servicio Profesional Electoral del Estado de Zacatecas;
+I. Candidato independiente. El ciudadano que obtenga por parte de la autoridad electoral el acuerdo de registro, habiendo cumplido los requisitos que para tal efecto establece la Ley General de Instituciones y Procedimientos Electorales;
 
-IV. Ley Orgánica.- A la Ley Orgánica del Instituto Electoral para el Estado de Zacatecas;
+II. Consejo General. Al Consejo General del Instituto Electoral del Estado de Zacatecas;
 
-V. Ley Electoral.- A la Ley Electoral del Estado de Zacatecas;
+III. Constitución. A la Constitución Política del Estado Libre y Soberano de Zacatecas;
 
-VI. Instituto.- Al Instituto Electoral del Estado de Zacatecas;
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2015)</small>
 
-VII. Medios de Impugnación.- Aquéllos previstos en la presente ley;
+IV. Constitución Federal. Constitución Política de los Estados Unidos Mexicanos;
 
-VIII. Procesos Electorales.- Aquéllos que tengan por objeto la renovación de los Poderes Legislativo y Ejecutivo del Estado, así como de los miembros de los ayuntamientos; y
+V. Estatuto. Al Estatuto del Servicio Profesional Electoral del Estado de Zacatecas;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+VI. Ley Orgánica. A la Ley Orgánica del Instituto Electoral para el Estado de Zacatecas;
 
-IX. Tribunal Electoral.- Al Tribunal de Justicia Electoral del Estado.
+VII. Ley Electoral. A la Ley Electoral del Estado de Zacatecas;
 
-> <small>(ADICIONADO CON EL CAPITULO QUE LO INTEGRA, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2015)</small>
+
+VIII. Ley del Tribunal. Ley Orgánica del Tribunal de Justicia Electoral del Estado de Zacatecas;
+
+IX. Instituto. Al Instituto Electoral del Estado de Zacatecas;
+
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2015)</small>
+
+X. Medios de Impugnación. Aquéllos previstos en la presente Ley;
+
+XI. Procesos Electorales. Aquéllos que tengan por objeto la renovación de los Poderes Legislativo y Ejecutivo del Estado, así como de los miembros de los ayuntamientos; y
+
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2015)</small>
+
+XII. Tribunal de Justicia Electoral. Al Tribunal de Justicia Electoral del Estado de Zacatecas.
+
+> <small>(ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 ## TÍTULO SEGUNDO. De Los Medios de Impugnación
 
@@ -131,11 +157,13 @@ Objeto del sistema de medios de impugnación
 
 ARTÍCULO 4°
 
-El sistema de medios de impugnación regulado por esta ley, tiene por objeto garantizar:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+El sistema de medios de impugnación regulado por esta Ley, tiene por objeto garantizar:
 
-I. Que todos los actos y resoluciones de las autoridades electorales estatales y de los partidos políticos en la Entidad se sujeten invariablemente al principio de legalidad;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2015)</small>
+
+I. Que todos los actos y resoluciones de las autoridades electorales estatales y de los partidos políticos en la Entidad, así como las consultas populares, se sujeten invariablemente a los principios de constitucionalidad y legalidad.
 
 II. La definitividad de los distintos actos y etapas de los procesos electorales;
 
@@ -143,7 +171,7 @@ II. La definitividad de los distintos actos y etapas de los procesos electorales
 
 III. La salvaguarda, validez, eficacia y actualización democrática de los derechos políticos-electorales de los ciudadanos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Integración del sistema de medios de impugnación
 
@@ -157,7 +185,7 @@ I. (DEROGADA P.O. 3 DE OCTUBRE DE 2009)
 
 II. El recurso de revisión;
 
-III. El juicio de nulidad electoral; y (sic)
+III. El juicio de nulidad electoral; y
 
 IV. El juicio de relaciones laborales;
 
@@ -167,13 +195,13 @@ V. El Juicio para la protección de los derechos político-electorales del ciuda
 
 Sujetos sancionables por incumplimiento de la ley
 
-> <small>(REFORMADO Y REUBICADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2015)</small>
 
 ARTÍCULO 6°
 
-Las autoridades estatales y municipales, así como los ciudadanos, partidos políticos, coaliciones, candidatos, y todas aquellas personas físicas o morales, que con motivo del trámite, substanciación y resolución de los medios de impugnación previstos en esta ley, no cumplan las disposiciones de la misma o desacaten las resoluciones o requerimientos que dicten los órganos del Instituto o el Tribunal de Justicia Electoral, serán sancionados en los términos del presente ordenamiento.
+Las autoridades federales, estatales y municipales, así como los ciudadanos, partidos políticos, coaliciones, candidatos, y todas aquellas personas físicas o morales, que con motivo del trámite, substanciación y resolución de los medios de impugnación previstos en esta Ley, no cumplan las disposiciones de la misma o desacaten las resoluciones o requerimientos que (sic) el Tribunal de Justicia Electoral, serán sancionados en los términos del presente ordenamiento.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO [N. DE E. ANTES TITULO SEGUNDO], P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO [N. DE E. ANTES TITULO SEGUNDO], P.O. 3 DE OCTUBRE DE 2009)</small>
 
 ## TÍTULO TERCERO. De las Reglas Comunes de los Medios de Impugnación
 
@@ -197,9 +225,9 @@ Competencia
 
 ARTÍCULO 8°
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2015)</small>
 
-Corresponde al Tribunal de Justicia Electoral conocer y resolver los medios de impugnación previstos en esta ley, los que se substanciaran y resolverán en la forma y términos establecidos en ella, conforme a los principios que establecen los artículos 17 de la Constitución Política de los Estados Unidos Mexicanos, así como 102 y 103 de la Constitución Política del Estado de Zacatecas.
+Corresponde al Tribunal de Justicia Electoral conocer y resolver los Medios de Impugnación previstos en esta ley, los que se substanciarán y resolverán en la forma y términos establecidos en ella, conforme a los principios que establecen los artículos 17 de la Constitución Política de los Estados Unidos Mexicanos, así como 42 de la Constitución Política del Estado de Zacatecas.
 
 El Tribunal Electoral conocerá y resolverá los siguientes medios de impugnación:
 
@@ -207,7 +235,13 @@ I. El recurso de revisión;
 
 II. El juicio de nulidad electoral, en única instancia; y
 
-III. El juicio de relaciones laborales.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2015)</small>
+
+III. El juicio de relaciones laborales; y
+
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2015)</small>
+
+IV. Juicio para la protección de los derechos político-electorales del ciudadano.
 
 Los medios de impugnación señalados se substanciarán y resolverán en la forma y términos establecidos por esta ley.
 
@@ -263,17 +297,21 @@ c) Los que tengan facultades de representación conforme a sus estatutos o media
 
 d) En el caso de las coaliciones, la representación legal se acreditará en los términos del convenio respectivo, de conformidad con lo dispuesto en la Ley Electoral, sin perjuicio de que los partidos coaligados puedan interponerlos en lo individual, a través de sus representantes legítimos, en aquellos casos en que la naturaleza del acto impugnado lo amerite.
 
-II. Los candidatos por su propio derecho, sin que sea admisible representación alguna. Los candidatos deberán acompañar el original o copia certificada del documento en el que conste su registro; y (sic)
+II. Los candidatos por su propio derecho, sin que sea admisible representación alguna. Los candidatos deberán acompañar el original o copia certificada del documento en el que conste su registro; y
 
 III. Aquellos que acrediten tener un interés jurídico derivado del acto o resolución que se pretenda impugnar;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2015)</small>
 
-IV. Los ciudadanos, por su propio derecho o a través de su representante legal, cuando consideren que se le conculcan sus derechos políticos-electorales.
+IV. Los ciudadanos y los candidatos por su propio derecho, cuando consideren que se le (sic) conculcan sus derechos político electorales; y
+
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2015)</small>
+
+V. Los candidatos independientes, a través de sus representantes legítimos, entendiéndose por éstos a los que se encuentren acreditados ante el Instituto.
 
 ### CAPÍTULO TERCERO. De los Términos y del Cómputo de los Plazos
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Cómputo de los plazos
 
@@ -281,33 +319,33 @@ ARTÍCULO 11
 
 Durante los procesos electorales, todos los días y horas son hábiles; los plazos se computarán de momento a momento; si están señalados por días, éstos se considerarán de 24 horas.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2015)</small>
 
-Cuando el acto reclamado no se produzca durante el desarrollo de un proceso electoral, el cómputo de los plazos será contando solamente los días hábiles, debiendo entenderse por tales, todos los del año, a excepción de los sábados y domingos y aquéllos que por acuerdo expreso del Consejo General o del Tribunal de Justicia Electoral, sean inhábiles.
+Cuando el acto reclamado no se produzca durante el desarrollo de un proceso electoral, el cómputo de los plazos será contando solamente los días hábiles, debiendo entenderse por tales, todos los del año, a excepción de los sábados, domingos y los inhábiles en términos de ley.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 El cómputo de los plazos se hará a partir del día siguiente de aquél en que se hubiera notificado el acto o resolución correspondiente o se hubiese tenido conocimiento del mismo.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2015)</small>
 
 Del plazo para la interposición de los medios de impugnación
 
 ARTÍCULO 12
 
-Por regla general, salvo el juicio de relaciones laborales, los medios de impugnación que previene esta ley deberán interponerse dentro de los cuatro días siguientes contados a partir del día siguiente de aquél en que el actor tenga conocimiento o se le hubiere notificado el acto o resolución que se recurra.
+Los medios de impugnación previstos en esta Ley deberán presentarse dentro de los cuatro días contados a partir del día siguiente a aquél en que se tenga conocimiento del acto o resolución impugnado (sic), o se hubiese notificado de conformidad con la ley aplicable, salvo las excepciones previstas expresamente en el presente ordenamiento.
 
 ### CAPÍTULO CUARTO. Requisitos del Medio de Impugnación
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JUNIO DE 2015)</small>
 
-Requisitos del escrito
+Requisitos del escrito por el que se interpone el medio de impugnación
 
 ARTÍCULO 13
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2015)</small>
 
-Los medios de impugnación deberán presentarse por escrito ante la autoridad u órgano responsable del acto o resolución impugnado; el escrito deberá cumplir con los requisitos siguientes:
+Los medios de impugnación deberán presentarse por escrito ante la autoridad u órgano partidista señalado como responsable del acto o resolución impugnado; el escrito deberá cumplir con los requisitos siguientes:
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
@@ -321,13 +359,15 @@ IV. Hacer constar en su caso, el nombre del tercero interesado;
 
 V. De no tener acreditada personalidad, el promovente ante el órgano electoral, deberá acompañar los documentos con los que legitima su actuación;
 
-VI. Expresar el acto o resolución impugnados y el órgano electoral responsable del mismo;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2015)</small>
+
+VI. Expresar el acto o resolución impugnados y el órgano responsable del mismo;
 
 VII. Señalar expresa y claramente los agravios que le cause el acto o resolución impugnados; las disposiciones legales presuntamente violadas y los hechos en que se sustenta el medio de impugnación;
 
 VIII. Las pretensiones que deduzca;
 
-IX. Ofrecer y adjuntar las pruebas con el escrito mediante el cual interponga el medio de impugnación, y solicitar las que deban requerirse, cuando el recurrente demuestre que habiéndolas solicitado por escrito y oportunamente al órgano competente no le fueron proporcionadas; y (sic)
+IX. Ofrecer y adjuntar las pruebas con el escrito mediante el cual interponga el medio de impugnación, y solicitar las que deban requerirse, cuando el recurrente demuestre que habiéndolas solicitado por escrito y oportunamente al órgano competente no le fueron proporcionadas; y
 
 X. Que en el escrito obre firma autógrafa de quien promueve;
 
@@ -341,11 +381,11 @@ Respecto a lo previsto en la fracción III de este artículo, se realizará noti
 
 El incumplimiento de cualesquiera de los requisitos previstos por las fracciones I, II, VI, VIII ó X del párrafo anterior, será causa para tener por no presentado el escrito de impugnación.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2015)</small>
 
-Cuando se omita alguno de los requisitos señalados en las fracciones, IV y V del primer párrafo del presente artículo, el órgano resolutor, requerirá por estrados al promovente, a fin de que los subsane en un plazo de 48 horas contadas a partir del momento en que se fije en los estrados el requerimiento correspondiente, con apercibimiento que de no hacerlo se tendrá por no interpuesto el medio de impugnación. El secretario del órgano electoral, o en su caso, el secretario de acuerdos del Tribunal hará constar la hora en que se fije en los estrados, dicho requerimiento.
+Cuando se omita alguno de los requisitos señalados en las fracciones, IV y V del primer párrafo del presente artículo, el órgano resolutor, requerirá por estrados al promovente, a fin de que los subsane en un plazo de 48 horas contadas a partir del momento en que se fije en los estrados el requerimiento correspondiente, con apercibimiento que de no hacerlo se tendrá por no interpuesto el medio de impugnación. El secretario de acuerdos del Tribunal hará constar la hora en que se fije en los estrados, dicho requerimiento.
 
-> <small>(DEROGADO QUINTO PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
@@ -353,13 +393,13 @@ El actor deberá anexar copia del escrito de demanda y demás documentos para ca
 
 ### CAPÍTULO QUINTO. De la Improcedencia y del Sobreseimiento
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Causales de desechamiento
 
 ARTÍCULO 14
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 El Tribunal de Justicia Electoral podrá desechar de plano aquellos recursos o demandas en donde no se afecte el interés legítimo del actor, o bien, cuya notoria improcedencia se derive de las disposiciones del presente ordenamiento.
 
@@ -385,9 +425,9 @@ VIII. Cuando no se hayan agotado las instancias previas establecidas por las nor
 
 Las causales de improcedencia serán examinadas de oficio.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2015)</small>
 
-Cuando la Sala del Tribunal de Justicia Electoral, advierta que el medio de impugnación queda comprendido en cualesquiera de las hipótesis señaladas en este artículo, emitirán la resolución en que lo desechen de plano.
+Cuando el Pleno del Tribunal de Justicia Electoral, advierta que el Medio de Impugnación queda comprendido en cualesquiera de las hipótesis señaladas en este artículo, emitirán la resolución en que lo desechen de plano.
 
 Sobreseimiento, Causales y Trámite
 
@@ -405,9 +445,9 @@ III. La autoridad u órgano responsable del acto o la resolución impugnado lo m
 
 IV. Cuando durante el procedimiento aparezca o sobrevenga alguna causal de improcedencia señalada en el artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2015)</small>
 
-Cuando se actualice alguno de los supuestos previstos en el párrafo anterior, el Magistrado Electoral a quien le haya sido turnado el asunto propondrá el sobreseimiento a la sala.
+Cuando se actualice alguno de los supuestos previstos en el párrafo anterior, el Magistrado Electoral a quien le haya sido turnado el asunto propondrá el sobreseimiento al Pleno del Tribunal de Justicia Electoral.
 
 I. (DEROGADA, P.O. 3 DE OCTUBRE DE 2009)
 
@@ -419,7 +459,7 @@ Acumulación de expedientes
 
 ARTÍCULO 16
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Para la resolución pronta y expedita de los medios de impugnación previstos en esta ley, es facultad del órgano electoral o del Tribunal de Justicia Electoral a quien le corresponda resolver, determinar su acumulación.
 
@@ -437,7 +477,7 @@ Objeto y Reglas Generales
 
 ARTÍCULO 17
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Para la resolución de los medios de impugnación previstos en esta Ley, sólo podrán ser ofrecidas y admitidas las pruebas siguientes:
 
@@ -474,6 +514,10 @@ ARTÍCULO 18
 Para los efectos de esta ley, son documentales públicas:
 
 I. Los documentos originales o copias certificadas expedidos por los órganos o funcionarios del Instituto Electoral o funcionarios electorales, dentro del ámbito de su competencia;
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2015)</small>
+
+Además, las actas oficiales de las mesas directivas de casilla, así como las actas de los diferentes cómputos que consignen resultados electorales. Serán actas oficiales las originales, las copias autógrafas o las copias certificadas que deben constar en los expedientes de cada elección;
 
 II. Los expedidos por las autoridades federales, estatales y municipales, dentro del ámbito de sus facultades; y
 
@@ -519,7 +563,7 @@ Valoración de las pruebas
 
 ARTÍCULO 23
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Los medios de prueba serán valorados por el Tribunal de Justicia Electoral, atendiendo a las reglas de la lógica, de la sana crítica y de las máximas de la experiencia, tomando en cuenta las disposiciones especiales señaladas en este título.
 
@@ -537,7 +581,7 @@ ARTÍCULO 24
 
 La notificación es el acto procesal por el que se hace del conocimiento de las partes el contenido de una diligencia, acto o resolución de autoridad electoral.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Tipos de notificaciones
 
@@ -553,13 +597,13 @@ Durante los procesos electorales, los órganos del Instituto y el Tribunal de Ju
 
 Las notificaciones se podrán hacer personalmente, por estrados, por oficio, por correo certificado con acuse de recibo o por telegrama, según se requiera para la eficacia de la diligencia, acto o resolución a notificar, con la salvedad que disponga expresamente esta ley; también podrán hacerse por medio electrónico, conforme a lo establecido en el párrafo segundo del artículo 13 de este ordenamiento.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Notificación personal. Procedimiento
 
 ARTÍCULO 26
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Las notificaciones personales podrán hacerse en las oficinas del Tribunal de Justicia Electoral, si el interesado está presente, o en el domicilio que haya señalado para tal efecto, a más tardar el día siguiente de aquél en que se emitió el acto o se dictó la resolución. Son personales, las siguientes notificaciones:
 
@@ -605,7 +649,9 @@ b.) Al promovente, el auto que señale prevenciones al escrito del medio de impu
 
 c.) A todos los interesados, la resolución definitiva que recaiga en el juicio, o aquella que le ponga fin; y
 
-d.) Cualquier otra que la Sala del Tribunal de Justicia Electoral o el magistrado instructor estime necesario notificar personalmente para la eficacia del acto.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2015)</small>
+
+d.) Cualquier otra que el Pleno del Tribunal de Justicia Electoral o el magistrado instructor estime necesario notificar personalmente para la eficacia del acto.
 
 Notificaciones por estrados
 
@@ -619,7 +665,7 @@ ARTÍCULO 29
 
 No se requerirá de notificación personal y surtirán sus efectos legales al día siguiente de su publicación, los actos o resoluciones que se hagan públicos a través del Periódico Oficial, Órgano del Gobierno del Estado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Notificación por correo, por telegrama, y por correo electrónico
 
@@ -639,11 +685,11 @@ La notificación por correo electrónico surtirá efectos a partir de que se ten
 
 El partido político o coalición cuyo representante haya estado presente en la sesión o reunión de la autoridad responsable que actuó o resolvió el acto a impugnar, se entenderá automáticamente notificado del acto o resolución correspondiente desde ese momento para todos los efectos legales.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 ### CAPÍTULO NOVENO. Del Trámite de los Medios de Impugnación
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Forma y lugar de presentación
 
@@ -655,13 +701,15 @@ Los medios de impugnación previstos en las fracciones II y III del artículo 5�
 
 Cuando alguna autoridad electoral reciba un medio de impugnación por el cual se pretenda combatir un acto o resolución que no le es propio, lo remitirá de inmediato y sin dilación alguna, al órgano competente para que se le de el trámite establecido por este ordenamiento. En este caso, se tendrá como fecha de interposición del medio de impugnación, el día y hora en que se presentó ante la autoridad que emitió el acto o resolución que se recurre.
 
-Medios de impugnación interpuestos. Publicidad y comparecencia de terceros interesados
+Medios de impugnación interpuestos.
+
+Publicidad y comparecencia de terceros interesados
 
 ARTÍCULO 32
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2015)</small>
 
-La autoridad electoral que reciba un medio de impugnación, en contra de sus propios actos o resoluciones, bajo su más estricta responsabilidad y de inmediato, deberá realizar ll siguiente:
+La autoridad u órgano partidista, que reciba un medio de impugnación, en contra de sus propios actos o resoluciones, bajo su más estricta responsabilidad y de inmediato, deberá realizar lo siguiente:
 
 > <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2006)</small>
 
@@ -699,9 +747,9 @@ Remisión de expediente
 
 ARTÍCULO 33
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2015)</small>
 
-Dentro de las 48 horas siguientes a la conclusión del plazo a que se refiere el artículo anterior, el órgano electoral u órgano responsable remitirá al Tribunal de Justicia Electoral, el expediente conformado con motivo de la interposición del medio de impugnación, para que sea debidamente substanciado.
+Dentro de las 24 siguientes a la conclusión del plazo a que se refiere el artículo anterior, el órgano electoral u órgano responsable remitirá al Tribunal de Justicia Electoral, el expediente conformado con motivo de la interposición del medio de impugnación, para que sea debidamente substanciado.
 
 El expediente a que se refiere el párrafo anterior, se conformará con los elementos siguientes:
 
@@ -717,7 +765,7 @@ V. El informe circunstanciado que deberá rendir la autoridad responsable;
 
 VI. Cualquier otro documento que se estime necesario para la resolución del asunto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 El informe circunstanciado que debe rendir la autoridad u órgano responsable, por lo menos deberá contener:
 
@@ -733,19 +781,19 @@ IV. Si la autoridad o el órgano responsable incumple con la obligación previst
 
 Requerimiento de información
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2015)</small>
 
 ARTÍCULO 34
 
-Los Magistrados del Tribunal de Justicia Electoral, en los asuntos de su competencia o que les hayan sido turnados, podrán requerir a las autoridades estatales y municipales, así como a los partidos políticos, coaliciones, candidatos y particulares, cualquier elemento o documentación que obrando en su poder, pueda servir para sustanciar y resolver los medios de impugnación. Asimismo, en casos extraordinarios, podrán ordenar que se realice alguna diligencia o que una prueba se perfeccione o desahogue, siempre que ello no signifique una dilación que haga jurídica o materialmente irreparable la violación reclamada, o sea un obstáculo para resolver dentro de los plazos establecidos, de conformidad con lo señalado en las leyes aplicables.
+Los Magistrados del Tribunal de Justicia Electoral, en los asuntos de su competencia o que les hayan sido turnados, podrán requerir a las autoridades federales, estatales y municipales, así como a los partidos políticos, coaliciones, candidatos y particulares, cualquier elemento o documentación que obrando en su poder, pueda servir para sustanciar y resolver los medios de impugnación. Asimismo, en casos extraordinarios, podrán ordenar que se realice alguna diligencia o que una prueba se perfeccione o desahogue, siempre que ello no signifique una dilación que haga jurídica o materialmente irreparable la violación reclamada, o sea un obstáculo para resolver dentro de los plazos establecidos, de conformidad con lo señalado en las leyes aplicables.
 
 Trámite de medios de impugnación
 
 ARTÍCULO 35
 
-> <small>(DEROGADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(DEROGADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Recibida la documentación respectiva, se realizarán los actos y se ordenarán las diligencias que sean necesarias para la sustanciación de los expedientes, de conformidad con lo siguiente:
 
@@ -759,13 +807,15 @@ a). Se deseche de plano el medio de impugnación, cuando se actualice alguno de 
 
 b). Se sobresea el expediente cuando se actualice cualesquiera de las causales señaladas en los artículos 14 y 15 de este ordenamiento.
 
-III. Si el medio de impugnación reúne todos los requisitos establecidos por esta ley, el Magistrado Electoral a quien se haya turnado el asunto, dictará el auto de admisión que corresponda. Una vez sustanciado el expediente y puesto en estado de resolución, se declarará cerrada la instrucción pasando el asunto a sentencia. En estos casos, se ordenará fijar copia de los autos respectivos en los estrados; y (sic)
+III. Si el medio de impugnación reúne todos los requisitos establecidos por esta ley, el Magistrado Electoral a quien se haya turnado el asunto, dictará el auto de admisión que corresponda. Una vez sustanciado el expediente y puesto en estado de resolución, se declarará cerrada la instrucción pasando el asunto a sentencia. En estos casos, se ordenará fijar copia de los autos respectivos en los estrados; y
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 IV. Si la autoridad responsable no envía el informe circunstanciado dentro del plazo señalado, el medio de impugnación se resolverá con los elementos que obren en autos y se tendrá como presuntivamente ciertos los hechos constitutivos de la violación reclamada, salvo prueba en contrario; lo anterior, sin perjuicio de la sanción que deba ser impuesta de conformidad con la presente ley u otras disposiciones aplicables;
 
-V. Cerrada la instrucción, el Magistrado Electoral correspondiente procederá a formular el proyecto de sentencia de sobreseimiento o de fondo, según sea el caso, y lo someterá a la consideración de la Sala;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2015)</small>
+
+V. Cerrada la instrucción, el Magistrado Electoral correspondiente procederá a formular el proyecto de sentencia de sobreseimiento o de fondo, según será el caso, y lo someterá a la consideración del Pleno del Tribunal de Justicia Electoral; y
 
 VI. El Magistrado Electoral, en el proyecto de sentencia, propondrá a la Sala tener por no presentado el escrito del tercero interesado, cuando así lo disponga esta ley.
 
@@ -789,9 +839,9 @@ V. Los puntos resolutivos; y
 
 VI. En su caso, el plazo para su cumplimiento.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2015)</small>
 
-Al resolver los medios de impugnación establecidos en esta ley, si se omitiere señalar los preceptos jurídicos presuntamente violados o se citaren de manera equivocada, el órgano competente del Instituto o el Tribunal de Justicia Electoral resolverá tomando en consideración los que debieron ser invocados o los que resulten aplicables al caso concreto.
+Al resolver los medios de impugnación establecidos en esta ley, si se omitiere señalar los preceptos jurídicos presuntamente violados o se citaren de manera equivocada, el Tribunal de Justicia Electoral resolverá tomando en consideración los que debieron ser invocados o los que resulten aplicables al caso concreto.
 
 Efectos de las resoluciones
 
@@ -813,7 +863,11 @@ I. Se anule alguna elección;
 
 II. Se otorgue el triunfo a un candidato o fórmula distintos a los que originalmente determinó la autoridad electoral correspondiente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2015)</small>
+
+III. Se modifiquen los resultados en el acta como consecuencia de la nulidad de una o varias casillas, o derivado de la realización de un incidente de nuevo escrutinio y cómputo jurisdiccional.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Votación de resoluciones
 
@@ -823,23 +877,31 @@ ARTÍCULO 38
 
 Los recursos de revisión, los juicios de nulidad electoral y para la protección de los derechos político-electorales del ciudadano serán resueltos por mayoría de votos de los Magistrados integrantes del Tribunal, en el orden en que sean listados para cada sesión salvo que el Pleno del Tribunal de Justicia Electoral acuerde su modificación.
 
-El Tribunal Electoral dictará sus sentencias en sesión pública, de conformidad con lo que establezca la Ley Orgánica del Poder Judicial del Estado y el Reglamento Interior del propio Tribunal, así como el procedimiento siguiente:
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2015)</small>
 
-I. Abierta la sesión pública por el presidente de la Sala y verificado el quórum legal, se procederá a exponer cada uno de los asuntos listados con las consideraciones y preceptos jurídicos en que se funden, así como el sentido de los puntos resolutivos que se proponen;
+El Tribunal Electoral dictará sus sentencias en sesión pública, de conformidad con lo que establezca la Ley Orgánica del Tribunal de Justicia Electoral del Estado de Zacatecas y su Reglamento Interior, así como el procedimiento siguiente:
 
-II. Se procederá a discutir los asuntos y cuando el presidente de la Sala los considere suficientemente discutidos, los someterá a votación. Los Magistrados no podrán abstenerse de votar, sino cuando tengan impedimento legal. Las sentencias se aprobarán por unanimidad o por mayoría de votos;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2015)</small>
 
-III. Si el proyecto que se presenta es votado en contra por la mayoría de la Sala, dentro de un plazo de veinticuatro horas contadas a partir de que concluya la sesión respectiva, se engrosará el fallo con las consideraciones y razonamientos jurídicos correspondientes; y
+I. Abierta la sesión pública por el presidente del Pleno del Tribunal de Justicia Electoral y verificado el quórum legal, se procederá a exponer cada uno de los asuntos listados con las consideraciones y preceptos jurídicos en que se funden, así como el sentido de los puntos resolutivos que se proponen;
+
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2015)</small>
+
+II. Se procederá a discutir los asuntos y cuando el presidente del Pleno del Tribunal de Justicia Electoral los considere suficientemente discutidos, los someterá a votación. Los Magistrados no podrán abstenerse de votar, sino cuando tengan impedimento legal. Las sentencias se aprobaran por unanimidad o por mayoría de votos;
+
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2015)</small>
+
+III. Si el proyecto que se presenta es votado en contra por la mayoría del Pleno del Tribunal de Justicia Electoral, dentro de un plazo de veinticuatro horas contadas a partir de que concluya la sesión respectiva, se engrosará el fallo con las consideraciones y razonamientos jurídicos correspondientes; y
 
 IV. En las sesiones públicas sólo podrán participar y hacer uso de la palabra los magistrados electorales, directamente o a través de uno de sus secretarios, y el Secretario General de Acuerdos, el cual levantará el acta circunstanciada correspondiente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Notificación de Resoluciones
 
 ARTÍCULO 39
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Las resoluciones o sentencias del Tribunal de Justicia Electoral, recaídas a los recursos de revisión, los juicios de nulidad electoral y para la protección de los derechos político-electorales del ciudadano serán notificadas a más tardar el día siguiente de aquél en que se pronuncien, debiendo adjuntar copia de dichas resoluciones, según corresponda en cada caso, de conformidad con lo siguiente:
 
@@ -855,7 +917,7 @@ Medios de apremio y correcciones disciplinarias
 
 ARTÍCULO 40
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Las resoluciones o sentencias del Tribunal de Justicia Electoral deberán ser cabal y puntualmente cumplidas por las autoridades y respetadas por las partes.
 
@@ -871,7 +933,7 @@ Se considerará incumplimiento, el retraso por medio de evasivas o procedimiento
 
 Todas las autoridades que tengan o deban tener intervención en el cumplimiento de una resolución o sentencia del Tribunal de Justicia Electoral, estarán obligadas a realizar, dentro del ámbito de su competencia, los actos necesarios para su eficaz cumplimiento y estarán sujetas a las mismas responsabilidades y procedimientos a que aluden los párrafos anteriores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Para hacer cumplir las disposiciones del presente ordenamiento y las sentencias que dicte, así como para mantener el orden, el respeto y la consideración debidos, el Tribunal de Justicia Electoral podrá aplicar discrecionalmente los medios de apremio y las correcciones disciplinarias siguientes:
 
@@ -879,15 +941,21 @@ I. Apercibimiento;
 
 II. Amonestación;
 
-III. Multa hasta por doscientas veces el salario mínimo diario general vigente en el Estado. En caso de reincidencia, se podrá aplicar hasta el doble de la cantidad señalada; y
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2015)</small>
+
+III. Multa de cincuenta hasta cinco mil veces el salario mínimo diario general vigente en el Estado. En caso de reincidencia, se podrá aplicar hasta el doble de la cantidad señalada;
 
 IV. Auxilio de la fuerza pública.
+
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2015)</small>
+
+V. Arresto hasta por treinta y seis horas.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Los medios de apremio y las correcciones disciplinarias a que se refiere el párrafo anterior, serán aplicados por el Presidente del Tribunal de Justicia Electoral, por sí mismo o con el apoyo de la autoridad competente, de conformidad con las reglas que al efecto establezca el reglamento interno correspondiente.
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 ## TÍTULO TERCERO (SIC). De los Medios de Impugnación y de las Nulidades en Materia Electoral
 
@@ -927,7 +995,7 @@ De la procedencia
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-ARTÍCULO 46 Bis
+ARTÍCULO 46 BIS
 
 El juicio para la protección de los derechos del ciudadano, sólo procederá cuando el ciudadano por sí mismo y en forma individual, o a través de sus representantes legales, haga valer presuntas violaciones a sus derechos de votar y ser votado en las elecciones constitucionales, de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos y de afiliarse libre e individualmente a los partidos políticos estatales.
 
@@ -937,7 +1005,7 @@ Supuestos de procedencia
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-ARTÍCULO 46 Ter
+ARTÍCULO 46 TER
 
 El juicio podrá ser promovido por el ciudadano cuando:
 
@@ -959,7 +1027,7 @@ Excepciones
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-ARTÍCULO 46 Quater
+ARTÍCULO 46 QUATER
 
 Cuando por causa de inelegibilidad de los candidatos, los Consejos Electorales respectivos determinen no otorgar o revocar la constancia de mayoría o de asignación respectiva, el candidato agraviado sólo podrá impugnar dichos actos o resoluciones a través del juicio correspondiente, en la forma y términos previstos en la presente ley.
 
@@ -973,7 +1041,7 @@ Efectos de la sentencia y formas de notificación
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-ARTÍCULO 46 Quintus
+ARTÍCULO 46 QUINTUS
 
 Las sentencias que resuelvan el fondo del juicio para la protección de los derechos del ciudadano, serán definitivas y podrán tener los efectos siguientes:
 
@@ -987,11 +1055,11 @@ I. Al actor que promovió el juicio, y en su caso, a los terceros interesados, a
 
 II. A la autoridad u órgano partidista responsable, a más tardar dentro de los dos días siguientes al que se dictó la sentencia, por oficio acompañado de la copia certificada de la sentencia.
 
-(REUBICADO [N. DE E. ANTES TITULO CUARTO], P.O. 3 DE OCTUBRE DE 2009)
+(REUBICADO [N. DE E. ANTES TÍTULO CUARTO], P.O. 3 DE OCTUBRE DE 2009)
 
 ## TÍTULO SEGUNDO. Del Recurso de Revisión
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 ### CAPÍTULO PRIMERO. Del Objeto, Procedencia y Legitimación
 
@@ -1001,7 +1069,7 @@ Objeto
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-ARTÍCULO 46 Sextus
+ARTÍCULO 46 SEXTUS
 
 El recurso de revisión tiene por objeto garantizar el apego a los principios rectores en materia electoral de los actos, acuerdos y resoluciones de las autoridades electorales en los términos señalados en la presente ley. Será aplicable y procederá fuera y durante los procesos electorales locales, en los términos y formas que establece esta ley.
 
@@ -1009,7 +1077,7 @@ Procedencia
 
 ARTÍCULO 47
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 El recurso de revisión será procedente para impugnar los actos y resoluciones que emitan los órganos del Instituto Electoral del Estado en los términos de la legislación aplicable.
 
@@ -1021,7 +1089,7 @@ Recurso de revisión. Legitimación activa
 
 ARTÍCULO 48
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Podrán interponer el recurso de revisión:
 
@@ -1043,7 +1111,7 @@ Trámite
 
 ARTÍCULO 50
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Para tramitar, sustanciar y resolver el presente medio de impugnación se aplicarán, las reglas establecidas en esta ley.
 
@@ -1057,7 +1125,7 @@ ARTÍCULO 51
 
 Los recursos de revisión serán resueltos por el Tribunal de Justicia Electoral dentro de los doce días siguientes a aquél en que se admitan.
 
-(REUBICADO [N. DE E. ANTES TITULO QUINTO], P.O. 3 DE OCTUBRE DE 2009)
+(REUBICADO [N. DE E. ANTES TÍTULO QUINTO], P.O. 3 DE OCTUBRE DE 2009)
 
 ## TÍTULO TERCERO. Del Juicio de Nulidad Electoral
 
@@ -1067,7 +1135,7 @@ Causales de nulidad de votación en una casilla
 
 ARTÍCULO 52
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Las nulidades establecidas en este capítulo, podrán afectar la votación emitida en una, en varias casillas o la totalidad de una elección, en consecuencia, los resultados del cómputo de la elección impugnada.
 
@@ -1095,7 +1163,7 @@ VII. Se efectúe la recepción o el cómputo de la votación por personas u orga
 
 VIII. Permitir a ciudadanos sufragar sin credencial para votar o cuyo nombre no aparezca en la lista nominal de electores y siempre que ello sea determinante para el resultado de la votación; excepto los representantes de los partidos políticos acreditados ante la mesa directiva de casilla, además de aquellos casos en que se presente la resolución jurisdiccional correspondiente;
 
-IX. Haber impedido a los representantes de los partidos políticos o de las coaliciones, acceder al lugar donde se instaló la casilla, o en su caso, haberlos expulsado sin causa justificada; y (sic)
+IX. Haber impedido a los representantes de los partidos políticos o de las coaliciones, acceder al lugar donde se instaló la casilla, o en su caso, haberlos expulsado sin causa justificada; y
 
 X. Impedir, sin causa justificada, el ejercicio del derecho de voto a los ciudadanos en su casilla y que esto sea determinante para el resultado de la votación;
 
@@ -1111,9 +1179,9 @@ Causales de nulidad de una elección
 
 ARTÍCULO 53
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2015)</small>
 
-Serán causales de nulidad de una elección de Diputado de mayoría relativa, Ayuntamiento o de Gobernador del Estado, cualesquiera de las siguientes:
+Serán causales de nulidad de una elección de Diputado de mayoría relativa, Ayuntamiento o de Gobernador del Estado, cualquiera de las siguientes:
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
@@ -1123,11 +1191,15 @@ I. Cuando al menos alguna de las causales señaladas en el artículo anterior se
 
 II. Cuando no se instalen el 20% de las casillas del Estado, de un distrito uninominal o de un Municipio y consecuentemente, la votación no hubiere sido recibida y esto influya en los resultados de la elección de que se trate;
 
-III. Cuando los candidatos a Gobernador del Estado, Diputados o a integrantes de los ayuntamientos, respectivamente, por ambos principios, y que resulten triunfadores o les corresponda alguna asignación por el principio de Representación Proporcional sean inelegibles;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+III. Cuando los candidatos a Gobernador del Estado, o los integrantes de la fórmula de candidatos a Diputados por el principio de Mayoría Relativa resulten triunfadores, pero hayan sido declarado inelegibles.
 
-IV. Cuando el Partido Político o Coalición, sin importar el número de votos obtenido sobrepase los topes de gastos de campaña en la elección que corresponda y tal determinación se realice por la autoridad electoral, mediante el procedimiento de revisión preventiva de gastos sujetos a topes, en términos de lo previsto en la Ley Electoral. En este caso, el candidato o candidatos y el Partido Político o Coalición responsable no podrán participar en la elección extraordinaria respectiva;
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2015)</small>
+
+En el caso de que la totalidad de los integrantes de la planilla del Ayuntamiento, resulten triunfadores, pero hayan sido declarados inelegibles;
+
+IV. (DEROGADA, P.O. 6 DE JUNIO DE 2015)
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
@@ -1153,11 +1225,37 @@ d) Cuando un partido político, coalición o candidato financie directa o indire
 
 Dichas violaciones deberán estar plenamente acreditadas, a través de los elementos de convicción que aporten las partes o las que, en su caso, se allegue el Tribunal de Justicia Electoral cuando exista principio de prueba que genere duda sobre la existencia de la irregularidad alegada.
 
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2015)</small>
+
+Nulidades graves
+
+ARTÍCULO 53 BIS
+
+Las elecciones de Gobernador, Diputados de Mayoría Relativa y Ayuntamientos, serán nulas por violaciones graves, dolosas y determinantes en los casos siguientes:
+
+a) Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;
+
+b) Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley;
+
+c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
+
+Las violaciones señaladas en el párrafo anterior, deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
+
+Se entenderá por violaciones graves, aquellas conductas irregulares que produzcan una afectación sustancial a los principios constitucionales en la materia y pongan en peligro el proceso electoral y sus resultados.
+
+Se calificarán como dolosas aquellas conductas realizadas con pleno conocimiento de su carácter ilícito, llevadas a cabo con la intención de obtener un efecto indebido en los resultados del proceso electoral.
+
+Para efectos de lo dispuesto en la Base VI del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, se presumirá que se está en presencia de cobertura informativa indebida cuando, tratándose de programación y de espacios informativos o noticiosos, sea evidente que, por su carácter reiterado y sistemático, se trata de una actividad publicitaria dirigida a influir en las preferencias electorales de los ciudadanos y no de un ejercicio periodístico.
+
+A fin de salvaguardar las libertades de expresión, información y a fin de fortalecer el Estado democrático, no serán objeto de inquisición judicial ni censura, las entrevistas, opiniones, editoriales, y el análisis de cualquier índole que, sin importar el formato sean el reflejo de la propia opinión o creencias de quien las emite.
+
+En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
+
 Efectos de la declaración de nulidad de elección
 
 ARTÍCULO 54
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 Sólo el Tribunal de Justicia Electoral podrá declarar nula alguna elección en los casos señalados en el artículo anterior, siempre y cuando se interponga el medio de impugnación idóneo, en que el actor pruebe plenamente las causales que invoque y que éstas no sean imputables a los partidos políticos o coaliciones que las promuevan o a sus candidatos.
 
@@ -1257,15 +1355,15 @@ Las sentencias que resuelvan el fondo de los juicios de nulidad, podrán tener l
 
 I. Confirmar el acto impugnado;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2015)</small>
 
-II. Declarar la nulidad de la votación emitida en una o varias casillas para cualquier elección cuando se dé en cada una de ellas, al menos uno de los supuestos previstos en el artículo 57 de esta ley y modificar, en consecuencia, las actas de cómputo respectivas;
+II. Declarar la nulidad de la votación emitida en una o varias casillas para cualquier elección cuando se dé en cada una de ellas, al menos uno de los supuestos previstos en el artículo 52 de esta ley y modificar, en consecuencia, las actas de cómputo respectivas;
 
 III. Revocar las constancias de mayoría o de asignación expedidas en favor de un candidato, fórmula o planilla; otorgarlas al que resulte ganador o a quien le corresponda la asignación correspondiente como resultado de la anulación de la votación emitida en una o varias casillas y modificar, en consecuencia, las actas de cómputo distrital, municipal o estatal respectivas, según la elección que corresponda;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2015)</small>
 
-IV. Cuando se den los supuestos previstos en el artículo 58 de esta ley, declarar la nulidad de una elección y en consecuencia, revocar las constancias expedidas, así como la determinación sobre la declaración de validez de la elección, según corresponda; y
+IV. Cuando se den los supuestos previstos en el artículo 53 de esta ley, declarar la nulidad de una elección y en consecuencia, revocar las constancias expedidas, así como la determinación sobre la declaración de validez de la elección, según corresponda; y
 
 V. Hacer la corrección de los cómputos estatales, distritales o municipales, cuando sean impugnados por error aritmético.
 
@@ -1281,11 +1379,11 @@ Cuando en la sección de ejecución, por efecto de la acumulación de las senten
 
 Términos para emitir sentencia
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2015)</small>
 
 ARTÍCULO 62
 
-Los juicios de nulidad electoral de las elecciones de diputados e integrantes de ayuntamientos deberán quedar resueltos el día 5 de agosto y los relativos a la elección de Gobernador del Estado a más tardar el 15 de agosto, ambas fechas del año de la elección.
+Los juicios de nulidad electoral de las elecciones de diputados e integrantes de ayuntamientos deberán quedar resueltos el día 5 de julio y los relativos a la elección de Gobernador del Estado a más tardar el 15 de julio, ambas fechas del año de la elección.
 
 Definitividad de resultados electorales
 
@@ -1303,13 +1401,17 @@ Procedencia
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
-ARTÍCULO 63 bis
+ARTÍCULO 63 BIS
 
 El incidente sobre la pretensión de nuevo escrutinio y cómputo en las elecciones realizadas en la Entidad, de que conozca el Tribunal de Justicia Electoral, procederá cuando:
 
-I. El nuevo escrutinio y cómputo solicitado no haya sido desahogado, sin causa justificada, en la sesión de cómputo correspondiente en los términos de lo dispuesto por el párrafo primero, fracción II del artículo 222 de la Ley Electoral.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2015)</small>
 
-II. El nuevo escrutinio y cómputo total solicitado no haya sido desahogado, sin causa justificada, en la sesión de cómputo correspondiente en los términos de lo dispuesto por los párrafos tercero y cuarto del artículo 222 de la Ley Electoral.
+I. El nuevo escrutinio y cómputo solicitado no haya sido desahogado, sin causa justificada, en la sesión de cómputo correspondiente, establecida en la Ley Electoral.
+
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2015)</small>
+
+II. El nuevo escrutinio y cómputo total solicitado no haya sido desahogado, sin causa justificada, en la sesión de cómputo correspondiente, establecida en la Ley Electoral.
 
 El Tribunal de Justicia Electoral deberá establecer si las inconsistencias pueden ser corregidas o subsanadas con algunos otros datos o elementos que obren en el expediente o puedan ser requeridos a los Consejos Electorales sin necesidad de recontar los votos.
 
@@ -1317,9 +1419,7 @@ El recuento total o parcial de votos de una elección, tiene como finalidad hace
 
 Será recuento parcial, cuando el consejo respectivo o el Tribunal de Justicia Electoral, efectúe el recuento sólo en algunas casillas del total de las instaladas en la elección de que se trate. Habrá recuento total de la votación cuando lo practiquen en todas las casillas instaladas en la elección que se impugna.
 
-(NOTA: EL 3 DE DICIEMBRE DE 2009, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO Y EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 79/2009, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ANTEPENÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2009 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN).
-
-NO PROCEDERÁ EL INCIDENTE EN EL CASO DE CASILLAS EN LAS QUE SE HUBIERE REALIZADO NUEVO ESCRUTINIO Y CÓMPUTO EN LA SESIÓN DE CÓMPUTO RESPECTIVA.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 6 DE JUNIO DE 2015)</small>
 
 El incidente de nuevo cómputo debe resolverse en forma previa al dictado de la sentencia de fondo que corresponda.
 
@@ -1335,21 +1435,25 @@ Procedencia y competencia
 
 ARTÍCULO 64
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2015)</small>
 
-Las diferencias o conflictos entre el Tribunal de Justicia Electoral y el Instituto con sus respectivos servidores, serán resueltos por el propio Tribunal de Justicia Electoral, de conformidad con las disposiciones del presente título.
+Las diferencias o conflictos laborales entre el Tribunal de Justicia Electoral y sus servidores públicos; así como entre el Instituto y sus servidores públicos, serán resueltos por el propio Tribunal de Justicia Electoral, de conformidad con las disposiciones del presente título.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 El servidor del Tribunal o del Instituto que hubiese sido sancionado o destituido de su cargo o que considere haber sido afectado en sus derechos y prestaciones laborales, podrá impugnar mediante demanda que presente directamente ante el Tribunal de Justicia Electoral, dentro de los quince días hábiles siguientes al en que se le notifique la determinación del Instituto.
 
-Es requisito de procedibilidad del juicio, que el servidor involucrado haya agotado, en tiempo y forma, las instancias previas que en su caso, establezca el Estatuto.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2015)</small>
+
+Es requisito de procedibilidad del juicio, que el servido involucrado haya agotado, en tiempo y forma, las instancias previas que en su caso, establezca el Estatuto correspondiente.
 
 Ordenamientos aplicables
 
 ARTÍCULO 65
 
-Las controversias laborales que surjan entre el Tribunal o el Instituto y sus correspondientes trabajadores serán resueltos de conformidad con las normas sustantivas y procesales previstas en la Ley del Servicio Civil del Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2015)</small>
+
+Las controversias laborales que surjan entre el Tribunal o el Instituto y sus correspondientes trabajadores serán resueltos (sic) de conformidad con las normas sustantivas y procesales previstas en la Ley Electoral del Estado y Ley Orgánica del Tribunal de Justicia Electoral respectivamente.
 
 Serán además de aplicación supletoria:
 
@@ -1361,7 +1465,7 @@ III. El Estatuto;
 
 IV. La Ley Federal del Trabajo;
 
-V. La Jurisprudencia; y (sic)
+V. La Jurisprudencia; y
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
@@ -1370,6 +1474,32 @@ VI. Los Principios Generales del Derecho, y
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2009)</small>
 
 VII. La ley del Sistema de Medios de Impugnación Electoral del Estado.
+
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2015)</small>
+
+VIII. La equidad.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2015)</small>
+
+El servidor del Instituto Electoral de (sic) Estado de Zacatecas o del Tribunal de Justicia Electoral, que hubiese sido sancionado o destituido de su cargo o que considere haber sido afectado en sus derechos y prestaciones laborales, podrá inconformarse mediante demanda que presente directamente ante el Tribunal de Justicia Electoral, dentro de los quince días hábiles siguientes al que se le notifique la determinación del Instituto o del Tribunal Electoral.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2015)</small>
+
+El escrito de demanda por el que se inconforme el servidor, deberá reunir los requisitos siguientes:
+
+I. Hacer constar el nombre completo y señalar el domicilio del actor para oír notificaciones;
+
+II. Nombre y domicilio del demandado;
+
+III. Identificar el acto o resolución que se impugna;
+
+IV. Mencionar de manera expresa los agravios que cause el acto o resolución que se impugna;
+
+V. Manifestar las consideraciones de hecho y de derecho en que se funda la demanda;
+
+VI. Ofrecer las pruebas en el escrito por el que se inconforme y acompañar las documentales; y
+
+VII. La firma autógrafa del promovente.
 
 Partes en el procedimiento
 
@@ -1421,7 +1551,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. TOMAS TORRES MERCADO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 7 DE OCTUBRE DE 2006.
 
@@ -1432,3 +1562,13 @@ P.O. 3 DE OCTUBRE DE 2009.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 6 DE JUNIO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Los asuntos que a la entrada en vigor del presente Decreto se encuentren en proceso, se resolverán conforme a las disposiciones vigentes al momento en que iniciaron.
+
+TERCERO. En las elecciones ordinarias que se verifiquen el primer domingo de julio del año 2018, los juicios de nulidad electoral de las elecciones de diputados e integrantes de ayuntamientos deberán quedar resueltos el día 5 de agosto del mismo año.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto
