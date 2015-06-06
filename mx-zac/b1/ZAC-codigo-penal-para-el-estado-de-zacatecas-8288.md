@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2015-02-28"
+last_updated: "2015-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2015.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -3135,391 +3135,53 @@ III.- No evitar que se torture a un detenido.
 
 373.- Al tercero, instigado o autorizado a cometer tortura, se le aplicarán las sanciones privativas de libertad y pecuniarias previstas en el artículo 371.
 
-(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 1995) (F. DE E., P.O. 24 DE JUNIO DE 2006)
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 2015)</small>
 
 ## TITULO VIGESIMO TERCERO
 
-> <small>(ADICIONADO EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1995)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE JUNIO DE 2015)</small>
 
 ### CAPITULO PRIMERO. DELITOS EN MATERIA ELECTORAL
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 1995)</small>
+374.- (DEROGADO, P.O. 6 DE JUNIO DE 2015)
 
-374.- Para los efectos de este Código se entenderá por:
-
-I.- FUNCIONARIOS ELECTORALES.- Quienes en los términos de la legislación electoral integren los órganos que cumplan funciones electorales;
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-II.- DIRIGENTE PARTIDISTA.- Los ciudadanos que en términos estatutarios, ejerzan funciones permanentes de organización, administración, toma de decisiones o representación legal dentro de los partidos políticos nacionales o estatales, acreditados como tales ante los órganos electorales;
-
-III.- OBSERVADOR ELECTORAL.- La persona que siendo acreditada como tal por la autoridad correspondiente participe en la jornada electoral de que se trate, en los términos que la ley de la materia establece;
-
-IV.- ENCUESTADOR.- Es la persona física o moral que realice encuestas o sondeos de opinión para conocer la tendencia de la preferencia electoral y los resultados de la misma.
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-V.- DOCUMENTOS PUBLICOS ELECTORALES.- Las actas oficiales de instalación de casillas, las de escrutinio y cómputo municipales, distritales o estatales, listados, boletas electorales, credencial para votar con fotografía, credencial de identidad para funcionarios y observadores electorales, y en general, cualquier documento expedido en el ejercicio de sus funciones por los órganos del Instituto Electoral del Estado de Zacatecas o del Tribunal Estatal Electoral;
-
-VI.- SON SERVIDORES PUBLICOS.- Los así considerados por la Constitución Política del Estado de Zacatecas y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas;
-
-> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-VII.- CANDIDATOS.- Los ciudadanos registrados formalmente como tales ante la autoridad competente por los partidos políticos.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 1995)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 2015)</small>
 
 ### CAPITULO SEGUNDO. DE LOS DELITOS EN GENERAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2012)</small>
+375.- (DEROGADO, P.O. 6 DE JUNIO DE 2015)
 
-375.- Se impondrá multa de cien a doscientas cuotas de salario mínimo general vigente en la entidad y seis meses a tres años de prisión y en ambos casos suspensión de sus derechos políticos hasta por un año al que dolosamente:
+376.- (DEROGADO, P.O. 6 DE JUNIO DE 2015)
 
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-I.- Altere o falsifique una credencial e intente con ella sufragar;
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-II.- Recoja sin causa prevista por la Ley credenciales de otros electores ciudadanos;
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-III.- Sin causa justificada y sin haber renunciado, se niegue a desempeñar o no cumpla con la función electoral que le haya sido asignada por los órganos competentes para ello;
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-IV.- Impida la realización de una asamblea cuando ésta tenga carácter de propaganda político-electoral;
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-V.- Fije o realice propaganda electoral en lugares o días prohibidos por las leyes que rigen la materia.
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-VI.- Impida la instalación, apertura o cierre de una casilla, en contravención a la hora prevista por la Ley;
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-VII.- Se presente a votar armado, en estado de ebriedad o bajo los efectos de un enervante o tóxico y altere el orden de la casilla; y
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-VIII.- Por medio de dádivas, paga o recompensa alguna, motive directamente a otro a votar en favor de cualquier candidato o partido;
-
-> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-IX.- Destruya propaganda electoral, o la propaganda destinada a la difusión de programas y principios de los partidos políticos, o candidatos;
-
-> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-X.- Haga proselitismo o presione objetivamente a los electores el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes, con el fin de orientar el sentido de su voto;
-
-> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-XI.- El día de la elección lleve a cabo o participe de cualquier manera en el transporte de votantes, coartando o pretendiendo coartar su libertad para la emisión del voto;
-
-> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-XII.- Teniendo uno o más electores bajo su dependencia económica, los obligue de manera expresa y haciendo uso de su autoridad o jerarquía, a que voten o no en favor de un partido político, o candidato;
-
-> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-XIII.- Viole el derecho ciudadano de afiliación libre, voluntaria e individual obligando a pertenecer o no a un partido político;
-
-> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-XIV.- Durante los ocho días previos a la jornada electoral hasta la hora oficial del cierre de las casillas, publique o difunda por cualquier medio los resultados de encuestas o sondeos de opinión que den a conocer las preferencias electorales de los ciudadanos sobre los candidatos o partidos políticos contendientes en las elecciones locales. Celebre mítines, reuniones públicas o cualquier otro acto público de campaña; o realice proselitismo o distribuya, difunda o instale propaganda electoral, el día de la elección y los tres que le precedan;
-
-> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-XV.- Simule hechos, circunstancias o actos de campaña electoral para imputarlos a un candidato o partido;
-
-> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-XVI.- Mediante violencia o amenazas obstaculice o impida el libre acceso a oficinas o lugares donde se encuentren instalados los organismos electorales o jurisdiccionales;
-
-> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-XVII.- Se ostente en una o más casillas como funcionario electoral o representante de partido político o candidato, sin tener esa calidad.
-
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
-
-XVIII.- Durante el proceso electoral acepte nombramiento y desempeñe alguna función electoral, sin reunir los requisitos legales;
-
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
-
-XIX.- Utilice recursos públicos destinados al financiamiento para las campañas electorales de los partidos políticos, durante el proceso electoral de que se trate, en la compra y entrega de productos alimenticios, medicamentos, materiales para construcción o cualquier otro, para la promoción del voto; o
-
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
-
-XX.- Solicite o acepte, expresa o tácitamente, se expida una factura a un partido político o candidato, alterando el costo real de los bienes o servicios proporcionados.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2012)</small>
-
-376.- Se impondrá de seis meses a tres años de prisión y multa de cincuenta a doscientas cuotas de salario mínimo general vigente en la entidad, así como suspensión de sus derechos políticos hasta por dos años al que dolosamente:
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-I.- Impida a otro cumplir con las funciones electorales que legalmente le han sido encomendadas;
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-II.- Realice funciones electorales que legalmente no le hayan sido encomendadas.
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-III.- Anote datos falsos en algún documento electoral o lo altere.
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-IV.- Obstaculice o interfiera el desarrollo normal de las votaciones, del escrutinio y cómputo de la jornada electoral; así como el traslado y entrega de los paquetes y documentación electorales, o el adecuado ejercicio de las tareas de los funcionarios electorales;
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-V.- Al que vote o intente votar dos o más veces en una misma elección;
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-VI.- Utilice o pretenda utilizar para emitir sufragio, alguna credencial para votar que no le corresponda;
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-VII.- Al que deposite más de una boleta electoral en una urna para la elección de que se trate, o vote a sabiendas que no cumple con los requisitos de ley.
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-VIII.- Sustraiga de una oficina pública, de una casilla, urna o de cualquier sitio en que estos documentos se encuentren en resguardo legal, boletas electorales sufragadas o en blanco.
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-IX.- Mediante la violencia física o moral impida a otro votar libremente, viole el secreto del voto u obligue a votar por un partido o candidato determinado; y
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-X.- Destruya, oculte, altere un expediente, paquete electoral o algún documento contenido en éstos.
-
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
-
-XI.- Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que mediante amenazas o promesa de pago o dádiva, comprometa su voto a favor de un determinado partido político;
-
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
-
-XII.- Por cualquier medio participe en la alteración del padrón electoral, listado nominal, en la expedición u obtenga ilícitamente la credencial para votar; o
-
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
-
-XIII.- Modifique o destruya las publicaciones oficiales sobre resultados de la votación, fijados en el exterior de las casillas o de los locales que ocupen los Consejos Electorales del Instituto Electoral del Estado.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1995)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE JUNIO DE 2015)</small>
 
 ### CAPITULO TERCERO. DE LOS MINISTROS DE CULTOS RELIGIOSOS
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
+377.- (DEROGADO, P.O. 6 DE JUNIO DE 2015)
 
-377.- Se impondrá de uno a dos años de prisión y multa de treinta a trescientas cuotas de salario mínimo general vigente en la Entidad, así como suspensión de sus derechos políticos hasta por dos años a los ministros de cultos religiosos que, por cualquier medio, en el desarrollo de los actos propios de su ministerio, induzcan pública o privadamente al electorado a votar en favor o en contra de un candidato, partido político o a la abstención del ejercicio del derecho de votar.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 1995)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 2015)</small>
 
 ### CAPITULO CUARTO. DE LOS FUNCIONARIOS ELECTORALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2012)</small>
+378.- (DEROGADO, P.O. 6 DE JUNIO DE 2015)
 
-378.- Se impondrá de seis meses a tres años de prisión y multa de cincuenta a doscientas cuotas de salario mínimo general vigente en la entidad, así como suspensión de sus derechos políticos hasta por dos años, al funcionario electoral que dolosamente:
+379.- (DEROGADO, P.O. 6 DE JUNIO DE 2015)
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-I.- Altere en cualquier forma, mantenga, destruya o haga un uso indebido de documentos relativos a cualquier órgano electoral;
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-II.- Se abstenga de cumplir, sin causa justificada, con las obligaciones propias de su cargo, en perjuicio del proceso electoral;
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-III.- Disponga, haga uso indebido de recursos o fondos públicos, en favor de algún partido político o candidato;
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-IV.- Designe algún funcionario electoral o autorice la instalación de alguna casilla, a sabiendas de que no reúne los requisitos legales;
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-V.- Estando obligado, no rinda oportunamente los informes o no expida las constancias que la Ley determine;
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-VI.- Ejerza presión sobre los electores y los induzca objetivamente a votar por un candidato o partido determinados en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-VII.- Coarte los derechos electorales que la ley de la materia establece para los representantes de los partidos políticos en las casillas u organismos electorales.
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-VIII.- Inutilice materiales electorales sin justificación legal;
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-IX.- Niegue o retarde la tramitación de los recursos interpuestos por los representantes de los partidos políticos, o candidatos;
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-X.- Siendo funcionario de casilla no levante oportunamente las actas correspondientes o no haga entrega de las copias de ellas a los representantes de los partidos políticos;
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-XI.- Sin causa legalmente justificada participe en la instalación o funcionamiento de alguna casilla que se ubique en lugar distinto al señalado por el órgano electoral competente;
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-XII.- Expulse de un órgano electoral o casilla sin causa justificada al representante de un partido político e impida el ejercicio de sus funciones;
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-XIII.- Impida el desarrollo normal de la votación sin mediar causa justificada;
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-XIV.- Conociendo la existencia de condiciones o actividades que atenten contra la libertad y el secreto del voto, no tome las medidas conducentes para que cesen;
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-XV.- Impida a otro votar libremente, viole el secreto del voto u obligue a otro a votar por una (sic) partido o candidato determinado;
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-XVI.- Retenga algún paquete, expediente electoral y no los entregue oportunamente al organismo electoral respectivo; y
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-XVII.- Propale noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
-
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
-
-XVIII.- Se niegue a reconocer la personalidad jurídica de un partido, coalición o fusión que hubiese cumplido con los requisitos legales;
-
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
-
-XIX.- Se niegue, sin causa justificada, a registrar los nombramientos de representantes de los partidos políticos; o
-
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
-
-XX.- Viole sellos colocados en los documentos públicos electorales o en el lugar donde se resguardan estos materiales.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2012)</small>
-
-379.- Se impondrá de dos a cuatro años de prisión y multa de cien a trescientas cincuenta cuotas de salario mínimo general vigente en la entidad, así como destitución del cargo y suspensión de sus derechos políticos hasta por seis años, al funcionario electoral que dolosamente:
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-I.- Anote datos falsos en algún documento electoral o lo altere;
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-II.- Sin causa legalmente justificada impida la instalación, apertura o cierre de una casilla fuera del horario previsto por la Ley de la materia:
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-III.- Permita o tolere que algún ciudadano emita su voto cuando no cumpla con los requisitos de Ley o que introduzca en las urnas ilícitamente una o más boletas electorales;
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-IV.- Sustraiga boletas electorales en blanco o sufragadas, o realice el escrutinio y cómputo en lugar distinto al señalado por la Ley o altere los resultados electorales; y
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-V.- Sustraiga, destruya, oculte, altere algún expediente, paquete electoral u otro tipo de documentos contenidos en éstos;
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE FEBRERO DE 1997)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 2015)</small>
 
 ### CAPITULO QUINTO. DE LOS DIRIGENTES PARTIDISTAS Y CANDIDATOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2012)</small>
+380.- (DEROGADO, P.O. 6 DE JUNIO DE 2015)
 
-380.- Se impondrá de dos a cuatro años de prisión y multa de cien a trescientas cuotas de salario mínimo general vigente en la Entidad, así como suspensión de sus derechos políticos hasta por seis años, al dirigente partidista o candidato que dolosamente:
+381.- (DEROGADO, P.O. 6 DE JUNIO DE 2015)
 
-I.- Impida a otro cumplir con las funciones electorales que le han sido encomendadas;
-
-II.- Realice funciones electorales que legalmente no le hayan sido encomendadas;
-
-III.- Fije o realice propaganda electoral en lugares o días prohibidos por las leyes que rigen la materia;
-
-IV.- Inutilice propaganda electoral o impida que ésta se realice; y
-
-V.- Propale noticias falsas en torno al desarrollo de la jornada electoral o respecto a sus resultados;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2012)</small>
-
-381.- Se impondrá de dos a cinco años de prisión y multa de cien a trescientas cuotas de salario mínimo general vigente en la Entidad, así como la suspensión de sus derechos políticos hasta por seis años, al dirigente partidista o candidato que dolosamente:
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-I.- Impida la realización de una asamblea o manifestación pública o cualquier otro acto legal de propaganda política;
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-II.- Coarte el derecho de los representantes de los partidos políticos en las casillas u organismos electorales;
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-III.- El día de la elección organice reuniones y traslado de votantes con el objeto de influir en el sentido de su voto;
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-IV.- Impida la instalación, apertura o cierre de una casilla en contravención a la hora prevista por la Ley;
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-V.- Impida a otro votar libremente, viole el secreto del voto u obligue a sufragar por un partido o candidato determinado;
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-VI.- Por medio de dádivas o paga motive directamente a otro a votar en favor de algún candidato;
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 1995)</small>
-
-VII.- Sustraiga, destruya, oculte, altere algún expediente, paquete electoral u otro tipo de documentos contenidos en éstos.
-
-> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-VIII.- Ejerza presión sobre los electores o los induzca a la abstención o a votar por un candidato o partido determinados en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
-
-> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-IX.- Obtenga y utilice a sabiendas fondos provenientes de actividades ilícitas para la campaña electoral;
-
-> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-X.- Incite a la violencia que altere el orden público y afecte cualquiera de las etapas del proceso electoral; y
-
-> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-XI.- Simule hechos, circunstancias o actos de campaña electoral para imputarlos a un candidato o partido distinto al que el activo pertenece.
-
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
-
-XII. Realice, reciba o haga uso de aportaciones de dinero o en especie a favor de candidato, partido político o coalición cuando exista prohibición legal para ello; o
-
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
-
-XIII. Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1995)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE JUNIO DE 2015)</small>
 
 ### CAPITULO SEXTO. DE LOS OBSERVADORES ELECTORALES
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 1995)</small>
+382.- (DEROGADO, P.O. 6 DE JUNIO DE 2015)
 
-382.- Se impondrá de uno a tres años de prisión y multa hasta de quinientas cuotas de salario mínimo general vigente en el Estado a la persona que con el carácter de observador electoral:
-
-I.- Obstaculice el desarrollo normal de la jornada electoral;
-
-II.- Realice funciones electorales que la ley de la materia no le otorgue; y
-
-III.- Propale noticias falsas en torno al desarrollo de la jornada electoral o respecto de los resultados.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE JUNIO DE 2015)</small>
 
 ## TITULO VIGESIMO SEGUNDO
 
@@ -3527,59 +3189,15 @@ III.- Propale noticias falsas en torno al desarrollo de la jornada electoral o r
 
 ### CAPITULO SEPTIMO. DE LOS ENCUESTADORES Y DE LOS RESPONSABLES DE LOS MEDIOS DE COMUNICACION
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
+383.- (DEROGADO, P.O. 6 DE JUNIO DE 2015)
 
-383.- Se impondrá de uno a tres años de prisión y multa de cien a trescientas cincuenta cuotas de salario mínimo general vigente en el Estado, a la persona física que publique encuestas o sondeos de opinión y den a conocer las preferencias de los ciudadanos durante los ocho días previos a la jornada electoral y hasta la hora oficial de cierre de las casillas.
-
-Las mismas sanciones se impondrán a los responsables de los medios de comunicación escritos y electrónicos que en la actividad de su profesión, el día de la jornada y dentro de los días prohibidos por la ley, induzcan dolosamente al electorado a votar a favor o en contra de un determinado partido o candidato; o que con sus manifestaciones pretendan influir en la decisión del elector.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 1995)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 2015)</small>
 
 ### CAPITULO OCTAVO. DE LOS SERVIDORES PUBLICOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 2012)</small>
+384.- (DEROGADO, P.O. 6 DE JUNIO DE 2015)
 
-384.- Se impondrá de dos a cuatro años de prisión y multa de cien a trescientas cincuenta cuotas de salario mínimo general vigente en la entidad, así como suspensión de sus derechos políticos hasta por dos años, al servidor público que dolosamente:
-
-I. Sin causa justificada, se niegue a desempeñar o no cumpla sin renunciar, con la función electoral que le ha sido asignada por los órganos competentes para ello; y
-
-II. Realice funciones electorales que legalmente no le hayan sido encomendadas.
-
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
-
-III. Estando obligado a dar aviso al Registro Federal de Electores de los fallecimientos, estados de interdicción, inhabilitaciones y declaratorias de ausencia, omita dolosamente hacerlo dentro de los tiempos previstos por las leyes de la materia;
-
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
-
-IV. Teniendo fe pública, certifique hechos falsos relativos a la función electoral o, sin causa justificada, se niegue a dar fe de los actos en que deba intervenir en los términos de ley; o
-
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
-
-V. A quien habiendo sido electo para cualquier cargo de elección popular, no se presente sin causa justificada a juicio de la Legislatura del Estado, a desempeñar el cargo dentro de los plazos señalados en la ley de la materia.
-
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 1995)</small>
-
-385.- Se impondrá de uno a tres años de prisión y multa de cincuenta a quinientas cuotas de salario mínimo general vigente en la entidad, privación del empleo y suspensión de sus derechos políticos e inhabilitación para desempeñar cargos públicos hasta por cinco años, al servidor público que dolosamente:
-
-I.- Impida, dada su jerarquía laboral, a otro cumplir con las funciones electorales que le han sido encomendadas;
-
-II.- Prive de la libertad a candidatos o a los representantes de partidos políticos pretextando delitos o faltas inexistentes;
-
-III.- Impida la realización de una asamblea, manifestación pública o cualquier acto legal de propaganda política.
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-IV.- Obligue a sus subordinados a emitir sus votos o participar en la campaña en favor de un partido político o candidato;
-
-V.- Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas a la emisión del sufragio en favor de un partido político o candidato; y
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 1997)</small>
-
-VI.- Destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo, tales como: vehículos, inmuebles y equipos, al apoyo de un partido político o candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado, o proporcione ese apoyo a través de sus subordinados usando del tiempo de sus labores para que éstos presten servicio a un partido político o candidato. En la comisión de esta modalidad no se concederá el beneficio de la libertad provisional.
-
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 1997)</small>
-
-Si para la comisión de cualquiera de los delitos previstos en este capítulo se utiliza violencia física contra personas, a las penas que correspondan se aumentarán de 1 a 2 años de prisión.
+385.- (DEROGADO, P.O. 6 DE JUNIO DE 2015)
 
 > <small>(ADICIONADO CON CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE AGOSTO DE 2012)</small>
 
@@ -3856,3 +3474,11 @@ Quinto.- Se deroga el Capítulo VI del Título Decimoquinto del Código Penal de
 Sexto.- Los procesos penales por el delito de trata de personas en sus diversas modalidades que se encuentren en trámite a la entrada en vigor del presente Decreto y cuyas conductas típicas se hayan realizado con anterioridad, se continuarán aplicando los tipos y las penas que para tales delitos contempla el capítulo citado en el artículo transitorio que antecede.
 
 Séptimo.- Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 6 DE JUNIO DE 2015.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+Artículo Segundo. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen, salvo que esta Ley resulte más benéfica. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+Artículo Tercero. Se derogan todas las disposiciones que contravengan el presente Decreto.
