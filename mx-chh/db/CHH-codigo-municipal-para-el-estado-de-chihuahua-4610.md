@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2015-03-07"
+last_updated: "2015-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2015.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -303,9 +303,19 @@ LXVI.- URUACHI, con cabecera en el pueblo del mismo nombre y las Secciones Munic
 
 LXVII.- VALLE DE ZARAGOZA; con cabecera en el pueblo del mismo nombre y las secciones municipales de El Velduque y San Felipe;
 
-###### ARTICULO 12.
+> <small>(REFORMADO PRIMER PÁRRAFO, P. O. 6 DE JUNIO DE 2015)</small>
 
-Las municipalidades, secciones municipales y comisarías de policía, comprenderán las haciendas, rancherías, ejidos, congregaciones y demás centros de población, que se encuentren enclavados dentro de sus respectivos límites, sancionados por la tradición y la costumbre. Las controversias por límites entre los Municipios serán resueltos por el Congreso del Estado.
+###### ARTÍCULO 12.
+
+Las municipalidades, secciones municipales y comisarías de policía, comprenderán las haciendas, rancherías, ejidos, congregaciones y demás centros de población que se encuentren enclavados dentro de sus respectivos límites, sancionados por la tradición y la costumbre.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2015)</small>
+
+Los conflictos relativos a límites territoriales que se susciten entre dos o más municipios, podrán arreglarse por ellos de común acuerdo, y ser ratificados por el Congreso del Estado, en base al procedimiento establecido en la Ley de Límites Intermunicipales del Estado de Chihuahua.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2015)</small>
+
+En caso de que los municipios no lleguen a un acuerdo, podrán seguir el procedimiento ante el Poder Judicial del Estado, de conformidad con lo establecido en la Ley de Límites Intermunicipales del Estado de Chihuahua.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 1997)</small>
 
@@ -329,7 +339,7 @@ VI.- Que a criterio del Congreso del Estado, no afecte la subsistencia del, o lo
 
 VII.- Cuando la solicitud sea presentada por el diez por ciento de los electores residentes en los municipios involucrados, los promoventes podrán nombrar a un representante quien tendrá el derecho de expresar por escrito al Congreso del Estado la opinión de los solicitantes, dentro de los sesenta días siguientes a la fecha en que se le comunique la solicitud; asimismo, el representante tendrá los mismos derechos a que se refiere el artículo 53 constitucional respecto a la iniciativa popular.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO P.O. 7 DE AGOSTO DE 2004)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 7 DE AGOSTO DE 2004)</small>
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2004)</small>
 
@@ -4582,6 +4592,12 @@ P.O. 31 DE ENERO DE 2015.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 7 DE MARZO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P. O. 6 DE JUNIO DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
