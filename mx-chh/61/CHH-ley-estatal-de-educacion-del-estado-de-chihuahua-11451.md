@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2015-02-07"
+last_updated: "2015-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2015.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -1459,11 +1459,11 @@ I. Promover e impulsar el aprendizaje de un idioma extranjero, preferentemente e
 
 II. Promover el aprendizaje y la investigación, así como los avances científicos y tecnológicos.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 75.
 
-Se declaran de interés público la orientación profesional y la vocacional. Las instituciones educativas que ofrezcan educación media superior y que dependan del Estado o de sus organismos descentralizados, deberán apoyar al estudiante a reconocer sus aptitudes, habilidades y capacidades; además, proporcionarán información sobre la oferta de empleo, tendencias de la sociedad y demanda educativa. Los planes de desarrollo que implemente la Autoridad Educativa Estatal, deberán formar parte de la información que reciban las y los estudiantes.
+Se declaran de interés público la orientación profesional y la vocacional. Las instituciones educativas que ofrezcan educación secundaria y media superior, que dependan del Estado o de sus organismos descentralizados, deberán apoyar al estudiante a reconocer sus aptitudes, habilidades y capacidades; además, proporcionarán información sobre la oferta de empleo, tendencias de la sociedad y demanda educativa. Los planes de desarrollo que implemente la Autoridad Educativa Estatal, deberán formar parte de la información que reciban las y los estudiantes.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -3996,6 +3996,12 @@ P.O. 20 DE DICIEMBRE DE 2014.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 7 DE FEBRERO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JUNIO DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
