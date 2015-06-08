@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-judicial-del-estado-de-hidalgo-103530"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-10"
-last_updated: "2015-05-01"
+last_updated: "2015-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE JUNIO DE 2015 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 8 DE JUNIO DE 2015.</small>
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -745,11 +745,11 @@ Los juzgados de la materia Penal de carácter Acusatorio, así como cualquier ot
 
 ### CAPÍTULO IX. De los Jueces y Juezas del Fuero Común
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+(REFORMADO, P.O. 1 DE MAYO DE 2015) (F. DE E., P.O. 8 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 49.
 
-Los Jueces y Juezas del Fuero Común serán nombrados por el Pleno del Consejo de la Judicatura.
+Los Jueces y Juezas del Fuero Común serán nombrados, ratificados y removidos por el Pleno del Consejo de la Judicatura.
 
 En el caso de las adscripciones y readscripciones, será previo conocimiento de los Magistrados y Magistradas de las Salas correspondientes.
 
@@ -933,7 +933,7 @@ VI.- Resolver sobre la suspensión del proceso a prueba;
 
 > <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
 
-VIl.- Decidir sobre las medidas cautelares impuestas a los imputados;
+VII.- Decidir sobre las medidas cautelares impuestas a los imputados;
 
 > <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
 
@@ -1137,7 +1137,7 @@ VI. Redactar de manera clara y con letra legible las constancias y diligencias q
 
 > <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
 
-VIl. La organización y funcionamiento de la Coordinación de Actuarios, misma que se establecerá en el Reglamento de la presente Ley, y en los acuerdos que emita el Pleno del Consejo de la Judicatura; y
+VII. La organización y funcionamiento de la Coordinación de Actuarios, misma que se establecerá en el Reglamento de la presente Ley, y en los acuerdos que emita el Pleno del Consejo de la Judicatura; y
 
 VIII. Las que establezcan la presente Ley y demás disposiciones aplicables.
 
@@ -1423,7 +1423,7 @@ Los Magistrados y Magistradas de las salas de primera instancia conocerán y res
 
 ###### ARTÍCULO 98.
 
-A los Magistrados y Magistradas de las salas corresponde:
+A las Magistrados y Magistradas de las salas corresponde:
 
 I.- Conocer y resolver los asuntos de su competencia establecidos en el Artículo 70 de esta Ley;
 
@@ -1833,7 +1833,7 @@ V.- Recibir, tramitar y resolver las inconformidades que se presenten, en los pr
 
 VI.- Vigilar el cumplimiento de las resoluciones que emitan los Tribunales del Poder Judicial y el Pleno del Consejo de la Judicatura, respecto de las sanciones que se impongan a Magistrados, Magistradas, Consejeros y Consejeras por parte del Secretario de cada uno de los Plenos.
 
-VIl.- Formar parte de los diversos Comités que se integran en el Poder Judicial;
+VII.- Formar parte de los diversos Comités que se integran en el Poder Judicial;
 
 VIII.- Participar y asesorar en todos los procesos de licitación;
 
@@ -2057,7 +2057,7 @@ VI.- Programar, coordinar y realizar actividades recreativas y de integración f
 
 > <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
 
-VIl.- Adoptar las providencias necesarias para el eficiente manejo de los Recursos Humanos del Poder Judicial; y
+VII.- Adoptar las providencias necesarias para el eficiente manejo de los Recursos Humanos del Poder Judicial; y
 
 > <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
 
@@ -2095,7 +2095,7 @@ La Visitaduría Judicial estará integrada por los visitadores y visitadoras que
 
 > <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
 
-l. Desahogar visitas de inspección a los órganos jurisdiccionales de Primera Instancia y áreas de competencia del Consejo de la Judicatura, para verificar su adecuado funcionamiento, rindiendo informe al propio Consejo de la Judicatura, así como al Contralor General del resultado de las mismas;
+I. Desahogar visitas de inspección a los órganos jurisdiccionales de Primera Instancia y áreas de competencia del Consejo de la Judicatura, para verificar su adecuado funcionamiento, rindiendo informe al propio Consejo de la Judicatura, así como al Contralor General del resultado de las mismas;
 
 II. Intervenir, en coordinación con la Contraloría General, en los procesos de entrega recepción de las áreas jurisdiccionales, a fin de que se cumpla con la normatividad aplicable; y
 
@@ -2135,11 +2135,11 @@ El Instituto de Profesionalización e Investigaciones Jurídicas es el órgano a
 
 Para la consecución de tales fines funcionará un Comité Académico en términos del reglamento correspondiente.
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
+(REFORMADO, P.O. 1 DE MAYO DE 2015) (F. DE E., P.O. 8 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 141.
 
-El Instituto de Profesionalización e Investigaciones Jurídicas estará a cargo de un Director o Directora, quien será nombrado y removido por el Presidente o Presidenta del Consejo de la Judicatura y deberá de tener como mínimo estudios de Maestría, cumpliendo con los requisitos del artículo 51 con excepción de la fracción IV del mismo numeral.
+El Instituto de Profesionalización e Investigaciones Jurídicas estará a cargo de un Director o Directora, quien será nombrado y removido por el Presidente o Presidenta del Consejo de la Judicatura y deberá de tener como mínimo estudios de Maestría, cumpliendo con los requisitos del artículo 51 con excepción de las fracciones IV y VI del mismo numeral.
 
 ###### ARTÍCULO 142.
 
@@ -2225,7 +2225,7 @@ III.- El Archivo Judicial de Gestión.
 
 La Dirección de Modernización y Sistemas es un órgano adscrito a la Coordinación General de Planeación y Programas, y su Titular será nombrado y removido por el Pleno del Consejo de la Judicatura, y deberá de cumplir con los siguientes: requisitos:
 
-l. Tener como mínimo de edad de treinta años.
+I. Tener como mínimo de edad de treinta años.
 
 II. Tener Título de Licenciatura o Ingeniería en Informática o carrera afín, y como mínimo cuatro años de experiencia profesional.
 
@@ -2261,7 +2261,9 @@ El Centro Estatal de Justicia Alternativa es el órgano vinculado administrativa
 
 Son susceptibles de solución a través del Sistema de Justicia Alternativa, las controversias jurídicas de naturaleza civil, familiar y mercantil en aquellos asuntos que sean susceptibles de transacción o convenio, que no se contravengan disposiciones de orden público, no se trate de derechos irrenunciables y no se afecten derechos de terceros.
 
-En materia penal, en los casos previstos por la ley, procede resolver en delitos de querella necesaria y que no sean considerados graves.
+> <small>(F. DE E., P.O. 8 DE JUNIO DE 2015)</small>
+
+En materia penal, procede resolver en delitos de querella necesaria, que no sean considerados graves y en los casos previstos por la ley.
 
 > <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO PUBLICADO EN EL P.O. DE 1 DE MAYO DE 2015, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
 
@@ -2309,7 +2311,7 @@ El ingreso y la promoción de los servidores públicos del Poder Judicial, en su
 
 La Carrera Judicial está integrada por las siguientes categorías:
 
-l. Actuario, actuaria y/o notificador o notificadora; de Juzgado o Sala;
+I. Actuario, actuaria y/o notificador o notificadora; de Juzgado o Sala;
 
 II. Secretario o Secretaria de acuerdos y/o de amparos y/o de estudio y cuenta;
 
@@ -2463,7 +2465,7 @@ Serán causas de responsabilidad para los servidores públicos del Poder Judicia
 
 Serán competentes para resolver sobre las responsabilidades de los servidores públicos del Poder Judicial, previo procedimiento, así como para aplicar las sanciones a que refiere la Ley de la materia:
 
-l.- El Pleno de cada uno de los Tribunales que integran el Poder Judicial, tratándose de faltas de Magistrados y Magistradas.
+I.- El Pleno de cada uno de los Tribunales que integran el Poder Judicial, tratándose de faltas de Magistrados y Magistradas.
 
 II.- El Pleno del Consejo de la Judicatura, tratándose de faltas de Consejeros y Consejeras.
 
