@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2015-01-19"
+last_updated: "2015-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE SEPTIEMBRE DE 2015 EN LA GACETA DEL GOBIERNO DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE JUNIO DE 2015.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -133,31 +135,83 @@ La manifestación de las ideas no será objeto de ninguna inquisición judicial 
 
 El derecho a la información será garantizado por el Estado. La ley establecerá las previsiones que permitan asegurar la protección, el respeto y la difusión de este derecho.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 8 DE JUNIO DE 2015)</small>
 
-Los poderes públicos y los órganos autónomos transparentarán sus acciones, garantizarán el acceso a la información pública y protegerán los datos personales en los términos que señale la ley reglamentaria.
+Para garantizar el ejercicio del derecho de transparencia, acceso a la información pública y protección de datos personales, los poderes públicos y los organismos autónomos, transparentarán sus acciones, en términos de las disposiciones aplicables, la información será oportuna, clara, veraz y de fácil acceso.
 
-> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE JUNIO DE 2015)</small>
 
-El ejercicio del derecho de acceso a la información pública, en el Estado de México se regirá por los siguientes principios y bases:
+Este derecho se regirá por los principios y bases siguientes:
 
-I. Toda la información en posesión de cualquier autoridad Estatal o Municipal, así como de los órganos autónomos, es pública y solo podrá ser reservada temporalmente por razones de interés público en los términos que fijen las leyes.
+> <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
 
-En la interpretación de este derecho, deberá prevalecer el principio de máxima publicidad;
+I. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismos de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos estatales y municipales, así como del gobierno y de la administración pública municipal y sus organismos descentralizados, asimismo de cualquier persona física, jurídica colectiva o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones previstas en la Constitución Política de los Estados Unidos Mexicanos de interés público y seguridad, en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información.
 
-II. La información referente a la intimidad de la vida privada y la imagen de las personas será protegida a través de un marco jurídico rígido de tratamiento y manejo de datos personales, con las excepciones que establezca la ley reglamentaria;
+> <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
 
-III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos;
+II. La información referente a la intimidad de la vida privada y la imagen de las personas será protegida a través de un marco jurídico rígido de tratamiento y manejo de datos personales, con las excepciones que establezca la ley reglamentaria.
 
-IV. Los procedimientos de acceso a la información pública, de acceso, corrección y supresión de datos personales, así como los recursos de revisión derivados de los mismos, podrán tramitarse por medios electrónicos, a través de un sistema automatizado que para tal efecto establezca la ley reglamentaria y el órgano garante en el ámbito de su competencia.
+> <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
 
-La Legislatura del Estado establecerá un órgano autónomo que garantice el acceso a la información pública y proteja los datos personales que obren en los archivos de los poderes públicos y órganos autónomos, el cual tendrá las facultades que establezca la ley reglamentaria y será competente para conocer de los recursos de revisión interpuestos por violaciones al derecho de acceso a la información pública. Las resoluciones del órgano autónomo aquí previsto serán de plena jurisdicción;
+III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
 
-V. Los sujetos obligados por la ley reglamentaria deberán cumplir con los requisitos generales en materia de archivos, en términos de las leyes respectivas y deberán cumplir con la publicación, a través de medios electrónicos, de la información pública de oficio en términos de la ley reglamentaria y de los criterios emitidos por el órgano garante;
+> <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
 
-VI. La ley reglamentaria, determinará la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales;
+IV. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos que sé sustanciarán ante el organismo autónomo especializado e imparcial que establece esta Constitución.
 
-VII. La inobservancia de las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
+> <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
+
+V. Los procedimientos de acceso a la información pública, de acceso, corrección y supresión de datos personales, así como los recursos de revisión derivados de los mismos, podrán tramitarse por medios electrónicos, a través de un sistema automatizado que para tal efecto establezca la ley reglamentaria y el organismo autónomo garante en el ámbito de su competencia. Las resoluciones que correspondan a estos procedimientos se sistematizarán para favorecer su consulta.
+
+> <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
+
+VI. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y los resultados obtenidos.
+
+> <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
+
+VII. La ley reglamentaria, determinará la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o jurídicas colectivas.
+
+> <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
+
+VIII. El Estado contará con un organismo autónomo, especializado, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica y de gestión, con capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el cumplimiento del derecho de transparencia, acceso a la información pública y a la protección de datos personales en posesión de los sujetos obligados en los términos que establezca la ley.
+
+El organismo autónomo garante previsto en esta fracción, se regirá por la ley en materia de transparencia, acceso a la información pública y protección de datos personales en posesión de sujetos obligados.
+
+En su funcionamiento se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+
+El organismo autónomo garante tiene competencia para conocer de los asuntos relacionados con la transparencia, el acceso a la información pública y la protección de datos personales en posesión de cualquiera de los sujetos obligados a que se refiere la fracción I del presente artículo, con excepción de aquellos asuntos jurisdiccionales que correspondan al Tribunal Superior de Justicia en cuyo caso resolverá un comité integrado por tres Magistrados. Resolverá la reserva, confidencialidad, inexistencia o negativa de la información, en los términos que establezca la ley.
+
+La ley establecerá la información que se considere reservada o confidencial.
+
+Las resoluciones del organismo autónomo garante son vinculatorias, definitivas e inatacables para los sujetos obligados.
+
+Cuando dichas resoluciones puedan poner en peligro el interés público y la seguridad de las instituciones locales, la Consejería Jurídica podrá interponer recurso de revisión ante el Tribunal Superior de Justicia en términos de las disposiciones aplicables.
+
+El organismo autónomo garante podrá acudir ante el organismo garante federal a través de petición fundada para que éste conozca de los recursos de revisión que por su interés y trascendencia así lo ameriten.
+
+El organismo autónomo garante se integra por cinco comisionados. Para su nombramiento, la Legislatura, previa realización de una consulta a la sociedad, a propuesta de los grupos parlamentarios, con el voto de las dos terceras partes de los miembros presentes, nombrará al comisionado que deba cubrir la vacante, siguiendo el proceso establecido en la ley. El nombramiento podrá ser objetado por el Gobernador en un plazo de diez días hábiles. Si el Gobernador no objetara el nombramiento dentro de este plazo, ocupará el cargo la persona nombrada por la Legislatura.
+
+En caso de que el Gobernador objetara el nombramiento, la Legislatura hará un nuevo nombramiento, en los términos del párrafo anterior, pero con una votación de las tres quintas partes de los miembros presentes. Si este segundo nombramiento fuera objetado, la Legislatura, en los términos del párrafo anterior, con la votación de las tres quintas partes de los miembros presentes, designará al comisionado que ocupará la vacante.
+
+Los comisionados durarán en su encargo siete años y deberán cumplir con los requisitos previstos en las fracciones l, ll, V y VI del artículo 91 de esta Constitución, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia, sólo podrán ser removidos de su cargo en los términos del Título Séptimo de esta Constitución y serán sujetos de juicio político.
+
+En la conformación del organismo autónomo garante se procurará la equidad de género.
+
+El comisionado presidente será designado por los propios comisionados, mediante voto secreto, por un periodo de tres años, con posibilidad de ser reelecto por un periodo igual; estará obligado a rendir un informe anual ante la Legislatura, en la fecha y en los términos que disponga la ley.
+
+El organismo autónomo garante tendrá un Consejo Consultivo, integrado por cinco consejeros, que serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Legislatura. La ley determinará los procedimientos a seguir para la presentación de las propuestas por la propia Legislatura. Anualmente serán sustituidos los dos consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo periodo.
+
+La ley establecerá las medidas de apremio que podrá imponer el organismo autónomo garante, para asegurar el cumplimiento de sus decisiones.
+
+Toda autoridad y servidor público estará obligado a coadyuvar con al organismo autónomo garante y sus integrantes para el buen desempeño de sus funciones.
+
+El organismo autónomo garante coordinará sus acciones con el Órgano Superior de Fiscalización del Estado de México, con la entidad especializada en materia de archivos y con el Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México, así como los organismos garantes federal, de las entidades federativas y del Distrito Federal, con el objeto de fortalecer la rendición de cuentas del Estado de México.
+
+El organismo garante podrá formular programas de difusión de la cultura de transparencia, acceso a la información pública y protección de datos personales, en términos de las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
+
+IX. La inobservancia de las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
 
 > <small>(REFORMADO, G.G. 3 DE MAYO DE 2012)</small>
 
@@ -173,9 +227,25 @@ En el Estado de México se fomentará a sus habitantes el cuidado de su salud, p
 
 En todas las decisiones y actuaciones del Estado se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 438, SE ADICIONA EL PRESENTE PÁRRAFO VIGÉSIMO PRIMERO, VÉASE SECCIÓN QUINTA EN LA PÁGINA 1</small>
+
+> <small>(ADICIONADO, G.G. 8 DE JUNIO DE 2015)</small>
+
+Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 438, SE ADICIONA EL PRESENTE PÁRRAFO VIGÉSIMO SEGUNDO, VÉASE SECCIÓN QUINTA EN LA PÁGINA 1</small>
+
+> <small>(ADICIONADO, G.G. 8 DE JUNIO DE 2015)</small>
+
+Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia.
+
 > <small>(ADICIONADO, G.G. 19 DE ENERO DE 2015)</small>
 
 Toda persona tiene derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de este derecho. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
+
+> <small>(ADICIONADO, G.G. 8 DE JUNIO DE 2015)</small>
+
+El Estado garantizará a toda persona el derecho a la movilidad universal, atendiendo a los principios de igualdad, accesibilidad, disponibilidad, sustentabilidad y progresividad.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -1001,7 +1071,9 @@ II. Examinar y opinar sobre el Plan de Desarrollo del Estado que le remita el Ej
 
 III. Expedir su Ley Orgánica y todas las normas necesarias para el debido funcionamiento de sus órganos y dependencias;
 
-IV. Cumplir con las obligaciones de carácter legislativo que le fueren impuestas por las leyes de la Unión, expidiendo al efecto las leyes locales necesarias;
+> <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
+
+IV. Cumplir con las obligaciones de carácter legislativo que le fueren impuestas por la Constitución Política de los Estados Unidos Mexicanos, las leyes de la Unión, expidiendo al efecto las leyes locales necesarias;
 
 V. Informar al Congreso de la Unión, en los casos a que se refiere el inciso 3o. de la fracción III del artículo 73 de la Constitución Federal y ratificar en su caso, la resolución que dicte el mismo Congreso, de acuerdo con los incisos 6o. y 7o. de la misma fracción;
 
@@ -1137,11 +1209,11 @@ La Legislatura aprobará proyectos para la prestación de servicios conforme a l
 
 > <small>(ADICIONADO, G.G. 30 DE JULIO DE 2010)</small>
 
-Los poderes Legislativo, Ejecutivo y Judicial, así como los Organismos Autónomos, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estos presupuestos deberán observar el mismo procedimiento para la aprobación del presupuesto del Estado.
+Los poderes Legislativo, Ejecutivo y Judicial, así como los Organismos Autónomos, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estos presupuestos deberán observar el mismo procedimiento para la aprobación del presupuesto del Estado;
 
 > <small>(REFORMADA, G.G. 26 DE AGOSTO DE 2004)</small>
 
-XXXI. Expedir anualmente, a más tardar el 15 de diciembre, o hasta el 31 del mismo mes, cuando inicie el periodo constitucional el Ejecutivo Federal, la Ley de Ingresos de los Municipios, cuya iniciativa será turnada por el Ejecutivo del Estado;
+XXXI. Expedir anualmente, a más tardar el 15 de diciembre, o hasta el 31 del mismo mes, cuando inicie el periodo constitucional el Ejecutivo Federal, la Ley de Ingresos de los Municipios, cuya iniciativa será turnada por el Ejecutivo del Estado.
 
 > <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2010)</small>
 
@@ -1223,7 +1295,13 @@ XLVIII. Legislar en materia de participación ciudadana;
 
 XLIX. Convocar a consultas populares en los términos de esta Constitución y de la ley en la materia;
 
-L. Las demás que la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, las leyes federales o las del Estado le atribuyan.
+> <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
+
+L. Nombrar a los comisionados del organismo autónomo garante en materia de transparencia, acceso a la información pública y protección de datos personales.
+
+> <small>(ADICIONADA, G.G. 8 DE JUNIO DE 2015)</small>
+
+LI. Las demás que la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, las leyes federales o las del Estado, le atribuyan.
 
 > <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -1401,7 +1479,7 @@ III. Promulgar y publicar las leyes, decretos o acuerdos que expida la Legislatu
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-IV. Expedir los reglamentos necesarios para la ejecución y cumplimiento de las leyes y decretos expedidos por la Legislatura.
+IV. Expedir los reglamentos necesarios para la ejecución y cumplimiento de las leyes y decretos expedidos por la Legislatura;
 
 V. Presentar ante la Legislatura del Estado iniciativas de ley o decreto;
 
@@ -1527,9 +1605,13 @@ XLV. Asumir la representación política y jurídica del Estado en los conflicto
 
 XLVI. Solicitar a la Legislatura las consultas populares sobre los temas de trascendencia estatal, conforme a lo dispuesto en la presente Constitución y las leyes aplicables en la materia;
 
-> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
 
-XLVII. Las demás que la Constitución General de la República, la presente Constitución, las Leyes Federales o las del Estado y sus respectivos reglamentos le atribuyen.
+XLVII. Objetar los nombramientos de los comisionados del organismo autónomo garante en materia de transparencia, acceso a la información pública y protección de datos personales hechos por la Legislatura, en los términos establecidos en esta Constitución y en la Ley.
+
+> <small>(ADICIONADA, G.G. 8 DE JUNIO DE 2015)</small>
+
+XLVIII. Las demás que la Constitución General de la República, la presente Constitución, las Leyes Federales o las del Estado y sus respectivos reglamentos le atribuyen.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -1718,6 +1800,10 @@ c) El equivalente al treinta y tres por ciento de los integrantes de un Ayuntami
 > <small>(REFORMADO, G.G. 29 DE MARZO DE 2011)</small>
 
 d) La o el Presidente de la Comisión de Derechos Humanos del Estado de México, en materia de derechos humanos.
+
+> <small>(ADICIONADO, G.G. 8 DE JUNIO DE 2015)</small>
+
+e) La o el Presidente del organismo autónomo garante en materia de transparencia, acceso a la información pública y protección de datos personales, en el ámbito de su competencia.
 
 > <small>(ADICIONADA, G.G. 3 DE MAYO DE 2012)</small>
 
@@ -2299,11 +2385,11 @@ Para los efectos de las responsabilidades a que alude este título, se considera
 
 La Ley de Responsabilidades regulará sujetos, procedimientos y sanciones en la materia.
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 8 DE JUNIO DE 2015)</small>
 
 ###### Artículo 131.
 
-Los diputados de la Legislatura del Estado, los magistrados y los integrantes del Consejo de la Judicatura del Tribunal Superior de Justicia, los magistrados del Tribunal de lo Contencioso Administrativo, los titulares de las dependencias del Poder Ejecutivo y el Procurador General de Justicia son responsables de los delitos graves del orden común que cometan durante su encargo y de los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones. El Gobernador lo será igualmente, pero durante el período de su ejercicio sólo podrá ser acusado por delitos graves del orden común y por delitos contra la seguridad del Estado.
+Los diputados de la Legislatura del Estado, los magistrados y los integrantes del Consejo de la Judicatura del Tribunal Superior de Justicia, los magistrados del Tribunal de lo Contencioso Administrativo, los titulares de las dependencias del Poder Ejecutivo y el Procurador General de Justicia y los integrantes de los órganos superiores de los organismos a los que la presente Constitución les otorga autonomía son responsables de los delitos graves del orden común que cometan durante su encargo y de los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones. El Gobernador lo será igualmente, pero durante el período de su ejercicio sólo podrá ser acusado por delitos graves del orden común y por delitos contra la seguridad del Estado.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -3904,3 +3990,37 @@ G.G. 19 DE ENERO DE 2015.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 8 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 437, POR EL QUE SE REFORMAN LOS ARTÍCULOS 5 EN SUS PÁRRAFOS DÉCIMO SEXTO Y DÉCIMO SÉPTIMO, 61 EN SUS FRACCIONES IV Y L, 77 EN SU FRACCIÓN XLVII Y 131. SE ADICIONAN LOS ARTÍCULOS 61 CON LA FRACCIÓN LI, 77 CON LA FRACCIÓN XLVIII Y 88 BIS FRACCIÓN III CON UN INCISO E, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno”.
+
+TERCERO. Los Comisionados que actualmente integran el organismo autónomo garante podrán continuar en el ejercicio de su encargo por el tiempo que reste al nombramiento del que fueron objeto, previa petición formal a la Legislatura dentro de los diez días hábiles siguientes a la entrada en vigor del presente Decreto, siempre y cuando su petición sea aprobada por el voto de las dos terceras partes de los Diputados presentes, en cuyo caso, la Legislatura deberá resolver en un plazo de diez días hábiles, de lo contrario se entenderá la negativa de su petición.
+
+CUARTO. La Legislatura del Estado proveerá lo necesario para dar cumplimiento a lo establecido por el presente Decreto.
+
+QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 8 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 438, POR EL QUE SE ADICIONAN LOS PÁRRAFOS VIGÉSIMOS PRIMERO Y VIGÉSIMO SEGUNDO AL ARTICULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 8 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 439, POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de menor jerarquía que se opongan al presente decreto.
