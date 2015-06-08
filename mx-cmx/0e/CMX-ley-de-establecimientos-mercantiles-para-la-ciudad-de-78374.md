@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-establecimientos-mercantiles-para-la-ciudad-de-78374"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-20"
-last_updated: "2015-03-23"
+last_updated: "2015-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78374&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-01-14"
 
 LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE JUNIO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 20 de enero de 2011.
 
@@ -1306,19 +1306,23 @@ Independientemente de la aplicación de las sanciones pecuniarias a que se refie
 
 I. Por no haberse ingresado el Aviso o Solicitud de Permiso al Sistema para el funcionamiento del establecimiento mercantil;
 
-II. Cuando se detecten en verificación modificaciones a las condiciones originalmente manifestadas en el Aviso o Solicitud de Permiso de funcionamiento del establecimiento mercantil;
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2015)</small>
+
+II. Cuando se detecten en verificación modificaciones a las condiciones originalmente manifestadas en el Aviso o Solicitud de Permiso de funcionamiento del establecimiento mercantil de giro de impacto zonal;
 
 III. Cuando con motivo de la operación de algún giro mercantil, se ponga en peligro el orden público, la salud, la seguridad de la personas o interfiera la protección civil;
 
-IV. Cuando no se permita el acceso a las instalaciones a todo usuario respetando el orden de llegada;
+> <small>(REFORMADA, G.O. 8 DE JUNIO DE 2015)</small>
 
-V. Por utilizar aislantes de sonido que pongan en riesgo la seguridad de los usuarios;
+IV. Cuando no se permita el acceso al establecimiento mercantil de impacto zonal al personal autorizado por el Instituto para realizar las funciones de verificación.
 
-VI. Cuando se exceda con los enseres la superficie declarada en el aviso correspondiente;
+V. (DEROGADA, G.O. 8 DE JUNIO DE 2015)
+
+VI. (DEROGADA, G.O. 8 DE JUNIO DE 2015)
 
 VII. Cuando se permita fumar dentro de los establecimientos mercantiles. En este caso, la clausura sólo procederá cuando se haya sancionado al establecimiento mercantil por más de dos ocasiones en el transcurso de un año;
 
-VIII. Cuando no se permita el acceso al establecimiento mercantil al personal autorizado por el Instituto para realizar las funciones de verificación;
+VIII. (DEROGADA, G.O. 8 DE JUNIO DE 2015)
 
 IX. Cuando estando obligados no cuenten con el programa interno o especial de protección civil;
 
@@ -1328,9 +1332,11 @@ X. Cuando estando obligados no cuenten con el seguro de responsabilidad civil a 
 
 XI. Cuando estando obligados no cuenten con cajones de estacionamiento de conformidad con lo establecido en la fracción XIV del artículo 10 apartado A de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE JUNIO DE 2015)</small>
+
 ###### Artículo 71.
 
-Se impondrá clausura permanente, sujetándose al procedimiento de revocación de oficio, los establecimientos mercantiles que realicen las siguientes actividades:
+Se impondrá clausura permanente, sujetándose al procedimiento de revocación de oficio, los establecimientos mercantiles que realicen las siguientes conductas graves:
 
 I. Expendan bebidas alcohólicas y productos derivados del tabaco a menores de edad;
 
@@ -1348,7 +1354,33 @@ VI. Que presten sus servicios en horarios no permitidos;
 
 VII. Vendan bebidas alcohólicas con la modalidad de barra libre; y
 
+> <small>(ADICIONADA, G.O. 8 DE JUNIO DE 2015)</small>
+
+VIII. Cuando no permita el acceso a las instalaciones a todo usuario respetando el orden de llegada;
+
+> <small>(ADICIONADA, G.O. 8 DE JUNIO DE 2015)</small>
+
+IX. Por utilizar aislantes de sonido que pongan en riesgo la seguridad de los usuarios;
+
 Cuando exista oposición a la ejecución de la clausura, el Instituto podrá hacer uso de la fuerza pública en términos de la Ley de Procedimiento Administrativo del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 8 DE JUNIO DE 2015)</small>
+
+###### Artículo 71 Bis.
+
+El incumplimiento a las siguientes obligaciones normativas consideradas no graves en principio no será motivo de clausura:
+
+I. Cuando se detecten en verificación modificaciones a las condiciones originalmente manifestadas en el Aviso o Solicitud de Permiso de Funcionamiento del establecimiento mercantil de bajo impacto e impacto vecinal;
+
+II. Cuando se exceda con los enseres la superficie declarada en el aviso correspondiente;
+
+III. Cuando no se permita el acceso al establecimiento mercantil de impacto vecinal y de bajo impacto al personal autorizado por el Instituto para realizar las funciones de verificación;
+
+No obstante lo anterior, detectada alguna de las hipótesis durante la visita de verificación y que el visitado no haya subsanado durante el procedimiento de calificación, la autoridad al momento de emitir la resolución señalará un plazo de quince días hábiles para que el visitado subsane tales irregularidades realizando el apercibimiento respectivo, plazo que será contado a partir del día siguiente de la notificación de la resolución que ponga fin a la visita de verificación.
+
+Transcurrido este plazo y no subsanadas las irregularidades hechas del conocimiento del visitado, la autoridad emisora de la resolución procederá a hacer efectivo el apercibimiento y ordenará la clausura temporal del establecimiento de acuerdo con lo preceptuado en la propia resolución.
+
+Lo anterior se hará sin perjuicio y con tal independencia de las sanciones pecuniarias a que se haga acreedor el particular verificado y establecidas en el texto de la presente Ley.
 
 ###### Artículo 72.
 
@@ -1557,3 +1589,9 @@ SEGUNDO.- El establecimiento en parques y oficinas públicas del Gobierno del Di
 TERCERO.- Los titulares y/o administradores de las plazas comerciales a que se refiere el artículo 10 de la Ley de Establecimientos Mercantiles del Distrito Federal, contarán con un plazo no mayor a 120 días para instalar y/o adecuar los bebederos o estaciones de agua potable en sus inmuebles.
 
 CUARTO.- La presente reforma entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 8 DE JUNIO DE 2015.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
