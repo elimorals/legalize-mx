@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-prevencion-atencion-y-erradicacion-de-violencia-957
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-02"
-last_updated: "2013-09-02"
+last_updated: "2015-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # LEY PARA LA PREVENCION, ATENCION Y ERRADICACION DE VIOLENCIA ESCOLAR EN EL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE JUNIO DE 2015 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY PARA LA PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE VIOLENCIA ESCOLAR EN EL ESTADO DE HIDALGO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 8 DE JUNIO DE 2015.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 2 de septiembre de 2013.
 
@@ -405,24 +405,6 @@ Cualquier persona tendrá acceso a la información obtenida por el REPAEVE a tra
 
 ### CAPÍTULO II. DE LAS MEDIDAS PARA EL PERSONAL ESCOLAR
 
-Artículo 31 (SIC). La escuela pública o privada del Estado se hará acreedora a una medida cuando:
-
-I.- Haga caso omiso del contenido de la presente Ley;
-
-II.- Tolere o consienta algún caso de violencia escolar presentado dentro de su entorno escolar cometido por cualquier miembro de la comunidad educativa;
-
-III.- Se niegue a promover e implementar las acciones, proyectos y políticas contempladas dentro del Programa Estatal;
-
-IV.- Oculte a los padres de familia o tutores de los generadores y víctimas, los casos de violencia escolar presentados dentro de su institución;
-
-V.- Oculte a los padres de familia o tutores de los generadores y víctimas, los casos de violencia escolar en que hubiesen incurrido sus hijos o tutelados;
-
-VI.- Proporcione información falsa u oculte información a las autoridades competentes, sobre hechos de violaciones a esta Ley;
-
-VII.- Cometa otra acción u omisión contrarias a este ordenamiento; o
-
-VIII.- Se viole la confidencialidad de los datos contenidos en los expedientes de las y los alumnos.
-
 ## TÍTULO CUARTO
 
 ###### Artículo 28.
@@ -442,6 +424,38 @@ El profesional deberá entregar por escrito al REPAEVE y a la institución, las 
 IV.- Transferencia escolar: Cese escolar temporal al generador que se niegue o incumpla con la atención especificada por el profesional, hasta en tanto se garantice su reincorporación bajo tratamiento a un entorno libre de violencia, de conformidad a lo establecido en el Reglamento.
 
 Se aplicará la misma sanción del párrafo anterior, si el padre, madre y/o tutor del generador, se negaré, fuere negligente, o impidiera el tratamiento especificado por el profesional.
+
+> <small>(F. DE E., P.O. 8 DE JUNIO DE 2015)</small>
+
+###### Artículo 29.
+
+Los directores escolares o su designado serán los responsables de aplicar, previa investigación, la sanción correspondiente e informar al REPPAEAE (sic) para su registro y control.
+
+> <small>(F. DE E., P.O. 8 DE JUNIO DE 2015)</small>
+
+###### Artículo 30.
+
+Cuando la gravedad de la conducta de Acoso Escolar tenga consecuencias de tipo penal, se procederá a dar parte a las instancias correspondientes, facilitando y colaborando en todo lo necesario para la investigación sobre el caso específico y a solicitud de la autoridad.
+
+###### Artículo 31.
+
+La escuela pública o privada del Estado se hará acreedora a una medida cuando:
+
+I.- Haga caso omiso del contenido de la presente Ley;
+
+II.- Tolere o consienta algún caso de violencia escolar presentado dentro de su entorno escolar cometido por cualquier miembro de la comunidad educativa;
+
+III.- Se niegue a promover e implementar las acciones, proyectos y políticas contempladas dentro del Programa Estatal;
+
+IV.- Oculte a los padres de familia o tutores de los generadores y víctimas, los casos de violencia escolar presentados dentro de su institución;
+
+V.- Oculte a los padres de familia o tutores de los generadores y víctimas, los casos de violencia escolar en que hubiesen incurrido sus hijos o tutelados;
+
+VI.- Proporcione información falsa u oculte información a las autoridades competentes, sobre hechos de violaciones a esta Ley;
+
+VII.- Cometa otra acción u omisión contrarias a este ordenamiento; o
+
+VIII.- Se viole la confidencialidad de los datos contenidos en los expedientes de las y los alumnos.
 
 ###### Artículo 32.
 
