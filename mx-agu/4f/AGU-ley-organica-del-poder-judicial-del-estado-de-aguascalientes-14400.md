@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2015-03-23"
+last_updated: "2015-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2015.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -43,17 +43,21 @@ LEY ORGANICA DEL PODER JUDICIAL
 
 ### CAPITULO I. De los Tribunales del Estado
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTICULO 1o.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
-El Poder Judicial del Estado se integra por el Supremo Tribunal de Justicia, la Sala Administrativa y Electoral, los Juzgados de Primera Instancia Civiles, Mercantiles, de Primera Instancia Penales que estará a cargo de Juzgados de Control, de Juicio Oral y de Ejecución, de Justicia para Adolescentes, Mixtos de Primera Instancia, Familiares y Mixtos Menores, el Consejo de la Judicatura Estatal, el Instituto de Capacitación y la Contraloría Interna.
+###### ARTÍCULO 1o.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+El Poder Judicial del Estado se integra por el Supremo Tribunal de Justicia, la Sala Administrativa, los Juzgados de Primera Instancia Civiles, Mercantiles, de Primera Instancia Penales que estará a cargo de Juzgados de Control, de Juicio Oral y de Ejecución, de Justicia para Adolescentes, Mixtos de Primera Instancia, Familiares y Mixtos Menores, el Consejo de la Judicatura Estatal, el Instituto de Capacitación y la Contraloría Interna.
 
-###### ARTICULO 2o.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El Supremo Tribunal de Justicia, la Sala Administrativa y Electoral y los Jueces, ejercerán su jurisdicción respectiva en el lugar, grado y términos que les asigna esta Ley, los Códigos Procesales, el Código Electoral del Estado, la Ley del Procedimiento Contencioso Administrativo, la Ley del Sistema de Justicia para Adolescentes y demás leyes vigentes.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
+
+###### ARTÍCULO 2o.
+
+El Supremo Tribunal de Justicia, la Sala Administrativa y los Jueces, ejercerán su jurisdicción respectiva en el lugar, grado y términos que les asigna esta Ley, los Códigos Procesales, Ley del Procedimiento Contencioso Administrativo, la Ley del Sistema de Justicia para Adolescentes y demás leyes vigentes.
 
 ###### ARTICULO 3o.
 
@@ -193,25 +197,39 @@ XXII.- Conocer y resolver las controversias que se susciten entre los miembros d
 
 XXIII.- Ejercitar las demás facultades que le confieren las Leyes;
 
-XXIV.- Aprobar el presupuesto anual de egresos del Poder Judicial.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
 
-XXV.- Resolver las recusaciones y excusas que por impedimento legal tengan los Magistrados de la Sala Administrativa y Electoral; y
+XXIV.- Aprobar el presupuesto anual de egresos del Poder Judicial; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
+
+XXV.- Resolver las recusaciones y excusas que por impedimento legal tengan los Magistrados de la Sala Administrativa.
 
 XXVI.- (DEROGADA, P.O. 27 DE AGOSTO DE 2012)
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTICULO 10.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
-Para nombrar a los Magistrados del Supremo Tribunal de Justicia y a los Magistrados de la Sala Administrativa y Electoral, el Consejo de la Judicatura Estatal emitirá la convocatoria correspondiente para que los aspirantes que cumplan con los requisitos establecidos en el artículo 53 de la Constitución Política del Estado, sean sometidos a exámenes de carácter psicométrico y aptitud, así como de conocimientos; ponderándose su experiencia laboral y formación académica. Elementos todos que agregados a los resultados que se obtengan de las evaluaciones respectivas, permitirán se formen las quintetas por cada magistratura vacante para realizar el trámite que establece el artículo 54 de la Constitución Política del Estado.
+###### ARTÍCULO 10.
 
-> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2012)</small>
+Para nombrar a los Magistrados del Supremo Tribunal de Justicia y a los Magistrados de la Sala Administrativa, el Consejo de la Judicatura Estatal emitirá la convocatoria correspondiente para que los aspirantes que cumplan con los requisitos establecidos en el artículo 53 de la Constitución Política del Estado, sean sometidos a exámenes de carácter psicométrico y aptitud, así como de conocimientos; ponderándose su experiencia laboral y formación académica. Elementos todos que agregados a los resultados que se obtengan de las evaluaciones respectivas, permitirán se formen las quintetas por cada magistratura vacante para realizar el trámite que establece el artículo 54 de la Constitución Política del Estado.
 
-ARTICULO 10 A.- Los Magistrados que integren el Pleno del Supremo Tribunal de Justicia del Estado, durarán en su encargo quince años; y los Magistrados de la Sala Administrativa y Electoral durarán en su encargo diez años; sólo podrán ser sustituidos cuando sobrevenga defunción, incapacidad física o mental permanente, o removidos por mala conducta debidamente comprobada, calificada por el Consejo de la Judicatura Estatal o previo juicio de responsabilidad ante el Congreso del Estado, en cuyo caso serán destituidos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa y Electoral, podrán ser reelectos, y si lo fueren, sólo podrán ser sustituidos en los términos señalados en el párrafo anterior.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2015)</small>
+
+ARTÍCULO 10 A.- Los Magistrados que integren el Pleno del Supremo Tribunal de Justicia del Estado y los Magistrados de la Sala Administrativa durarán en su encargo quince años; sólo podrán ser sustituidos cuando sobrevenga defunción, incapacidad física o mental permanente, o removidos por mala conducta debidamente comprobada, calificada por el Consejo de la Judicatura Estatal o previo juicio de responsabilidad ante el Congreso del Estado, en cuyo caso serán destituidos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
+
+Los Magistrados del Supremo Tribunal de Justicia del Estado y de la Sala Administrativa, podrán ser reelectos, y si lo fueren, sólo podrán ser sustituidos en los términos señalados en el párrafo anterior.
 
 Todo Magistrado que pretenda reelegirse, será sometido al procedimiento establecido en el artículo 10 de esta Ley, el cual iniciará, por lo menos, noventa días antes de que concluya su encargo.
 
@@ -605,71 +623,97 @@ En el Supremo Tribunal de Justicia el turno lo llevarán los presidentes de Sala
 
 ## TITULO PRIMERO BIS
 
-> <small>(REFORMADA SU DENOMINACIÓN Y NUMERACIÓN, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPITULO I. De la Sala Administrativa y Electoral
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2015)</small>
+
+### CAPÍTULO I. De la Sala Administrativa
 
 > <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
 #### SECCIÓN PRIMERA. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ARTICULO 33 A.- En términos de lo que establecen los Artículos 17 y 51 de la Constitución Política del Estado, la Sala Administrativa y Electoral es la máxima autoridad jurisdiccional en las materias electoral y contencioso administrativa, y órgano permanente especializado, autónomo e independiente en sus decisiones y resoluciones, las cuales se sujetarán de manera invariable a los principios de legalidad y definitividad; rigiéndose por lo dispuesto en la propia Constitución, esta Ley, el Código Electoral, la Ley del Procedimiento Contencioso Administrativo, el Reglamento Interior que en uso de sus facultades expida y otros ordenamientos aplicables.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
-La Sala Administrativa y Electoral tiene a su cargo dirimir las controversias de carácter administrativo y fiscal, que se susciten entre las autoridades del Estado, de los Municipios, sus Organismos Descentralizados y otras personas, en funciones de autoridad, con los particulares. Se reputarán como otras personas, a los prestadores de servicios públicos considerados como áreas estratégicas, que sean concesionados.
+ARTÍCULO 33 A.- En términos de lo que establece el (sic) 51 de la Constitución Política del Estado, la Sala Administrativa es la máxima autoridad jurisdiccional en la materia contencioso administrativa, y órgano permanente especializado, autónomo e independiente en sus decisiones y resoluciones, las cuales se sujetarán de manera invariable a los principios de legalidad y definitividad; rigiéndose por lo dispuesto en la propia Constitución, esta Ley, la Ley del Procedimiento Contencioso Administrativo, el Reglamento Interior que en uso de sus facultades expida y otros ordenamientos aplicables.
+
+La Sala Administrativa tiene a su cargo dirimir las controversias de carácter administrativo y fiscal, que se susciten entre las autoridades del Estado, de los Municipios, sus Organismos Descentralizados y otras personas, en funciones de autoridad, con los particulares. Se reputarán como otras personas, a los prestadores de servicios públicos considerados como áreas estratégicas, que sean concesionados.
 
 Contará con la organización y atribuciones que esta Ley establece, y estará dotada de plena jurisdicción y del imperio suficiente para hacer cumplir sus determinaciones.
 
-> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-#### SECCIÓN SEGUNDA. De la Integración de la Sala Administrativa y Electoral
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2015)</small>
+
+#### SECCIÓN SEGUNDA. De la Integración de la Sala Administrativa
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2015)</small>
+
+ARTÍCULO 33 B.- La Sala Administrativa estará conformada por tres Magistrados, que no integrarán el Pleno del Supremo Tribunal de Justicia. Los Magistrados de la Sala Administrativa elegirán a su Presidente de entre sus miembros, quien ostentará el cargo por dos años, pudiendo ser reelecto por un periodo igual. Las sesiones de resolución jurisdiccional de la Sala Administrativa serán públicas y resolverá en Pleno por unanimidad o por mayoría de votos.
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
-
-ARTICULO 33 B.- La Sala Administrativa y Electoral estará conformada por tres Magistrados, que no integrarán el Pleno del Supremo Tribunal de Justicia. Los Magistrados de la Sala Administrativa y Electoral elegirán a su Presidente de entre sus miembros, quien ostentará el cargo por dos años, pudiendo ser reelecto por un periodo igual. Las sesiones de resolución jurisdiccional de la Sala Administrativa y Electoral serán públicas y resolverá en Pleno por unanimidad o por mayoría de votos.
 
 Contará con un Secretario General de Acuerdos y secretarios de estudio, proyectistas, actuarios, auxiliares y servidores administrativos que sean necesarios para el buen despacho de los asuntos de su competencia.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ARTICULO 33 C.- Para el procedimiento de elección y la duración en el cargo de los Magistrados de la Sala Administrativa y Electoral se estará a lo dispuesto en los artículos 54 y 56 de la Constitución Política del Estado y en el artículo 10 de esta Ley.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+ARTÍCULO 33 C.- Para el procedimiento de elección y la duración en el cargo de los Magistrados de la Sala Administrativa se estará a lo dispuesto en los artículos 54 y 56 de la Constitución Política del Estado y en el artículo 10 de esta Ley.
 
-ARTICULO 33 D.- Para ser Magistrado de la Sala Administrativa y Electoral se deberán reunir los requisitos que establece el Artículo 5° de esta Ley, así como los siguientes:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I.- Estar inscrito en el padrón electoral y contar con credencial para votar con fotografía;
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
-II.- No desempeñar ni haber desempeñado cargo en el Comité Estatal o equivalente, en un partido o asociación política en los siete años anteriores a la fecha de designación; y
+ARTÍCULO 33 D.- Para ser Magistrado de la Sala Administrativa se deberán reunir los requisitos que establece el Artículo 5° de esta Ley.
 
-III.- No tener ni haber tenido cargo alguno de elección popular, en los cinco años anteriores a la fecha de designación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2015)</small>
 
-ARTICULO 33 E.- Los secretarios y actuarios de la Sala Administrativa y Electoral serán designados por el Consejo de la Judicatura, previo examen de oposición, y para ello se requiere:
+ARTÍCULO 33 E.- Los secretarios y actuarios de la Sala Administrativa serán designados por el Consejo de la Judicatura, previo examen de oposición, y para ello se requiere:
 
 I.- Ser mexicano, domiciliado legalmente en el Estado cuando menos dos años antes del día de su designación;
 
 II.- Tener título y cédula de Licenciado en Derecho debidamente registrados;
 
-III.- Acreditar parlo menos tres años de práctica en materia administrativa o electoral; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
+
+III.-Acreditar por lo menos tres años de práctica en materia administrativa; y
 
 IV.- Estar en pleno goce de sus derechos civiles y políticos.
 
-> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-#### SECCIÓN TERCERA. De las atribuciones de la Sala Administrativa y Electoral
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+#### SECCIÓN TERCERA. De las Atribuciones de la Sala Administrativa
 
-ARTICULO 33 F.- La Sala Administrativa y Electoral, conocerá en materia administrativa de los juicios que se inicien contra:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2015)</small>
+
+ARTÍCULO 33 F.- La Sala Administrativa, conocerá de los juicios que se inicien contra:
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
 I.- Las resoluciones definitivas emanadas de las autoridades dependientes del Poder Ejecutivo Estatal, de los Municipios, de los Organismos Descentralizados y otras personas, cuando éstos actúen como autoridades, que causen agravio a los particulares;
 
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
 II.- Las resoluciones definitivas dictadas por cualquiera de las autoridades fiscales del Estado o Municipios, y de sus organismos fiscales autónomos, en las que se determine la existencia de una obligación fiscal, se fije ésta en cantidad líquida o se den las bases para su liquidación; nieguen la devolución de un ingreso indebidamente percibido, o cualquier otra que cause agravio en materia fiscal;
 
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
 III.- De las resoluciones favorables a un particular, cuando las autoridades estatales y municipales promuevan el juicio para que sean anuladas;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
 IV.- Del procedimiento administrativo de ejecución cuando el afectado afirme:
 
@@ -683,47 +727,51 @@ d).- Que el procedimiento coactivo no se ajustó a la Ley. En este último caso,
 
 V.- La negativa de una autoridad para ordenar la devolución de cantidades pagadas indebidamente;
 
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
 VI.- Las resoluciones definitivas que constituyan créditos fiscales, por responsabilidades de los servidores públicos del Estado, de los ayuntamientos y sus organismos descentralizados; y
 
-VII.- Las resoluciones dictadas conforme a las leyes, que le otorgue competencia a la Sala Administrativa y Electoral.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Para los efectos de las dos primeras fracciones de este articulo, las resoluciones se considerarán definitivas cuando no admitan recurso administrativo o cuando previéndolo, el afectado opte por no agotarlo y acuda directamente a la Sala Administrativa y Electoral.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
 
-La Sala Administrativa y Electoral conocerá de igual forma, de los procedimientos de responsabilidad patrimonial del Estado en términos de la ley respectiva y de los recursos que concedan las leyes en contra de los acuerdos que se dicten en la tramitación de los juicios.
+VII.- Las resoluciones dictadas conforme a las leyes, que le otorgue competencia a la Sala Administrativa.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ARTICULO 33 G.- La Sala Administrativa y Electoral, en los términos que señalen la Constitución Política del Estado y las leyes aplicables, es competente en materia electoral para conocer de los siguientes asuntos:
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
-I.- Calificar la elección de Gobernador del Estado;
+Para los efectos de las dos primeras fracciones de este artículo, las resoluciones se considerarán definitivas cuando no admitan recurso administrativo o cuando previéndolo, el afectado opte por no agotarlo y acuda directamente a la Sala Administrativa.
 
-II.- De apelación que procederá contra actos o resoluciones del Consejo General del Instituto Estatal Electoral;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- De inconformidad, contra los resultados consignados en las actas de cómputo municipal o distrital;
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
-IV.- De nulidad, para anular la votación recibida en una casilla o declarar la nulidad de una elección, y
+La Sala Administrativa conocerá de igual forma, de los procedimientos de responsabilidad patrimonial del Estado en términos de la ley respectiva y de los recursos que concedan las leyes en contra de los acuerdos que se dicten en la tramitación de los juicios.
 
-V.- Las demás facultades y atribuciones que el Código Electoral del Estado le confieran.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+ARTÍCULO 33 G.- (DEROGADO, P.O. 8 DE JUNIO DE 2015)
 
-ARTICULO 33 H.- Las atribuciones del Presidente de la Sala Administrativa y Electoral serán:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
+
+ARTÍCULO 33 H.- Las atribuciones del Presidente de la Sala Administrativa serán:
 
 I.- Representar a la Sala ante toda clase de autoridades;
 
-II.- Dictar las medidas necesarias para el turno, el despacho pronto y expedito de los asuntos competencia da la Sala;
+II.- Dictar las medidas necesarias para el turno, el despacho pronto y expedito de los asuntos competencia da (sic) la Sala;
 
-III.- Convocar y presidir las sesiones y dirigir los debates;
+III.- Convocar y presidir las sesiones y dirigir los debates; y
 
 IV.- Vigilar que se cumpla con las determinaciones de la Sala;
 
-V.- Rendir un informe al término del proceso electoral, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI.- Notificar al Consejo General del Instituto Estatal Electoral, en su caso, las resoluciones que dicte.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
-
-ARTICULO 33 I.- Son obligaciones de los Magistrados de la Sala Administrativa y Electoral, las siguientes:
+ARTÍCULO 33 I.- Son obligaciones de los Magistrados de la Sala Administrativa, las siguientes:
 
 I.- Concurrir, participar y votar, cuando corresponda, en las sesiones públicas y reuniones internas a las que sean convocados por el Presidente de la Sala, absteniéndose de votar únicamente cuando tengan impedimento legal;
 
@@ -733,55 +781,83 @@ III.- Discutir y votar los proyectos de sentencia que sean sometidos a su consid
 
 IV.- Resolver los recursos e instancias que contemplan las leyes en contra de los acuerdos y determinaciones que se tomen dentro de los procedimientos seguidos ante la Sala;
 
-V.- Admitir los medios de impugnación y los escritos de terceros interesados o coadyuvantes, en los términos que señala el Código Electoral del Estado de Aguascalientes;
+V.- Expedir su Reglamento Interior; y
 
-VI.- Someter a consideración del Pleno de la Sala, cuando proceda, la acumulación de las impugnaciones, así como la procedencia de la conexidad, en términos del Código Electoral del Estado de Aguascalientes;
+VI.- Las demás atribuciones que les señalen las leyes.
 
-VII.- Formular los requerimientos ordinarios necesarios para la integración de los expedientes en los términos de la legislación aplicable; requerir cualquier informe o documento que, obrando en poder de los órganos del Consejo General del Instituto Estatal Electoral, de las autoridades estatales o municipales, de los partidos políticos o de los particulares, pueda servir para la substanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos, de conformidad con lo señalado en el Código Electoral del Estado de Aguascalientes;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII.- Expedir su Reglamento Interior, y
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2015)</small>
 
-IX.- Las demás atribuciones que les señalen las leyes.
+#### SECCIÓN CUARTA. De los Secretarios y Actuarios de la Sala Administrativa
 
-> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-#### SECCIÓN CUARTA. De los Secretarios y Actuarios de la Sala Administrativa y Electoral
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+ARTÍCULO 33 J.- Corresponde al Secretario General de Acuerdos de la Sala Administrativa:
 
-ARTICULO 33 J.- Corresponde al Secretario General de Acuerdos de la Sala Administrativa y Electoral:
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
 I.- Acordar con el Magistrado Presidente de la Sala lo relativo a su debido funcionamiento;
 
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
 II.- Intervenir en los actos de los que deba dejarse constancia en autos, autorizándolos con su firma, excepción hecha de las encomendadas a otros servidores;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
 III.- Expedir certificaciones de las constancias que obren en los expedientes de la Secretaría General;
 
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
 IV.- Llevar los libros de gobierno de registro de documentos y de personas que puedan ser peritos ante la Sala, así como el registro de la cédula profesional de los abogados litigantes, y
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
 V.- Las demás que señalen las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ARTICULO 33 K.- Corresponde a los Secretarios de Estudio de la Sala Administrativa y Electoral:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2015)</small>
+
+ARTÍCULO 33 K.- Corresponde a los Secretarios de Estudio de la Sala Administrativa:
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
 I.- Proyectar los acuerdos de trámite;
 
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
 II.- Efectuar las diligencias que se le encomienden, cuando éstas deban practicarse fuera del local de la Sala;
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
 III.- Redactar las actas de las audiencias y las resoluciones que recaigan en los expedientes;
 
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+
 IV.- Expedir certificados de las constancias que obren en los expedientes, y
+
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
 V.- Las demás que señalen las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ARTICULO 33 L.- Corresponde a los Actuarios de la Sala Administrativa y Electoral:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2015)</small>
+
+ARTÍCULO 33 L.- Corresponde a los Actuarios de la Sala Administrativa:
+
+REFORMADA, P.O. 27 DE AGOSTO DE 2012)
 
 I.- Notificar, en el tiempo y forma prescrito por la Ley, las resoluciones recaídas en los expedientes que, para tal efecto, les sean turnados;
 
+REFORMADA, P.O. 27 DE AGOSTO DE 2012)
+
 II.- Practicar las diligencias que se les encomienden, y
+
+REFORMADA, P.O. 27 DE AGOSTO DE 2012)
 
 III.- Las demás que señalen las disposiciones legales aplicables.
 
@@ -1411,7 +1487,11 @@ Las faltas de los demás servidores públicos de la administración de justicia,
 
 La Dirección del Archivo Judicial tendrá a su cargo la guarda y custodia de los expedientes, documentos y medios magnéticos o digitales provenientes de los archivos de trámite, una vez cumplido el plazo previsto para su conservación en los mismos.
 
-El Secretario General de Acuerdos del Supremo Tribunal de Justicia, de la Sala Administrativa y Electoral, así como los Secretarios de los Juzgados de Primera Instancia y Mixtos Menores, tendrán a su cargo y cuidado los expedientes, libros y demás muebles que se encuentren en su oficina.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
+
+El Secretario General de Acuerdos del Supremo Tribunal de Justicia, de la Sala Administrativa, así como los Secretarios de los Juzgados de Primera Instancia y Mixtos Menores, tendrán a su cargo y cuidado los expedientes, libros y demás muebles que se encuentren en su oficina.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2012)</small>
 
@@ -1425,15 +1505,19 @@ I.- Los tocas o actuaciones de segunda instancia, relativos a los negocios civil
 
 II.- Los procesos concluidos en apelación o primera instancia;
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- Los expedientes concluidos que se hubieren iniciado ante el Supremo Tribunal o ante la Sala Administrativa y Electoral;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
+
+III.- Los expedientes concluidos que se hubieren iniciado ante el Supremo Tribunal o ante la Sala Administrativa;
 
 IV.- Los duplicados de los libros de entradas, archivos y demás que los jueces deben remitir; y
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V.- Los oficios, comunicaciones y documentos de cualquier clase que el Supremo Tribunal, la Sala Administrativa y Electoral, los juzgados de primera instancia, mixtos menores, y las áreas administrativas remitan.
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
+
+V.- Los oficios, comunicaciones y documentos de cualquier clase que el Supremo Tribunal, la Sala Administrativa, los juzgados de primera instancia, mixtos menores, y las áreas administrativas remitan.
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
@@ -1459,11 +1543,13 @@ Las copias certificadas y testimonios de documentos archivados sólo podrán exp
 
 Los documentos que obren en expedientes o actuaciones archivadas sólo podrán desglosarse para su entrega a quien tenga derecho a recibirlo.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### ARTICULO 80.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
-Los reglamentos del Supremo Tribunal de Justicia, de la Sala Administrativa y Electoral y de los Juzgados de Primera Instancia, de Justicia para Adolescentes, de Ejecución y Mixtos Menores, respectivamente, determinarán la forma en que deba establecerse la oficina del archivo judicial y detallarán los deberes del personal que tenga a su cargo dicha oficina.
+###### ARTÍCULO 80.
+
+Los reglamentos del Supremo Tribunal de Justicia, de la Sala Administrativa y de los Juzgados de Primera Instancia, de Justicia para Adolescentes, de Ejecución y Mixtos Menores, respectivamente, determinarán la forma en que deba establecerse la oficina del archivo judicial y detallarán los deberes del personal que tenga a su cargo dicha oficina.
 
 ### CAPITULO II. De las Excitativas de Justicia
 
@@ -1481,7 +1567,7 @@ a).- Los intereses que generen las inversiones que se hagan por los depósitos e
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
-b).- Los objetos o instrumentos materia del delito que sean de uso lícito, cuando no se reclamen en la forma y términos previstos en las disposiciones respectivas del Código Penal para el Estado de Aguascalientes y el Código Nacional de Procedimientos Penales. La declaración de que tales cantidades pasan a formar parte del Fondo se hará de oficio y en su contra podrá interponerse el recurso de revocación, de conformidad con el Código Nacional de Procedimientos Penales;
+b).- Los objetos o instrumentos materia del delito que sean de uso licito, cuando no se reclamen en la forma y términos previstos en las disposiciones respectivas del Código Penal para el Estado de Aguascalientes y el Código Nacional de Procedimientos Penales. La declaración de que tales cantidades pasan a formar parte del Fondo se hará de oficio y en su contra podrá interponerse el recurso de revocación, de conformidad con el Código Nacional de Procedimientos Penales;
 
 c).- Los muebles y valores depositados por cualquier motivo ante los tribunales de justicia del fuero común, que no fueren retirados por el depositario o por quien tenga derecho a ello, dentro del plazo de noventa días previo requerimiento;
 
@@ -1505,9 +1591,11 @@ a).- El otorgamiento de estímulos y recompensas económicas a la planta de serv
 
 b).- La participación de Magistrados y Jueces en congresos de Derecho;
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-c).- La adquisición de equipo, mobiliario y libros de consulta que se necesiten en las salas del Supremo Tribunal de Justicia, en la Sala Administrativa y Electoral y en los juzgados del fuero común del Estado, que no estén autorizados en su presupuesto;
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
+
+c).- La adquisición de equipo, mobiliario y libros de consulta que se necesiten en las salas del Supremo Tribunal de Justicia, en la Sala Administrativa y en los juzgados del fuero común del Estado, que no estén autorizados en su presupuesto;
 
 d).- La capacitación, mejoramiento y especialización profesional del personal del Poder Judicial del Estado.
 
@@ -1527,7 +1615,11 @@ La Dirección de Informática del Poder Judicial dependerá de la Presidencia de
 
 I.- La computarización de las acciones del Supremo Tribunal de Justicia en áreas de administración, contabilidad, recursos humanos, materiales y otros que se requieran;
 
-II.- La captura de datos procedentes de los juzgados, de la Sala Administrativa y Electoral y de las salas del Supremo Tribunal de Justicia, relativos a los diversos juicios, procedimientos y procesos que ante ellos se tramiten, con el fin de efectuar un seguimiento de los mismos, por medio del sistema de computación;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
+
+II.- La captura de datos procedentes de los juzgados, de la Sala Administrativa y de las salas del Supremo Tribunal de Justicia, relativos a los diversos juicios, procedimientos y procesos que ante ellos se tramiten, con el fin de efectuar un seguimiento de los mismos, por medio del sistema de computación;
 
 III.- Con base en los registros computarizados que se obtengan, proporcionar a las partes interesadas o autorizadas información actualizada del estado procesal de los asuntos en que intervengan;
 
@@ -1601,9 +1693,11 @@ El Consejo tendrá además un Secretario que será el Oficial Mayor del Supremo 
 
 Corresponde al Consejo de la Judicatura Estatal:
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I.- Nombrar a los Jueces y servidores públicos de carrera judicial, con excepción de los del Supremo Tribunal de Justicia y los de la Sala Administrativa y Electoral;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
+
+I.- Nombrar a los Jueces y servidores públicos de carrera judicial, con excepción de los del Supremo Tribunal de Justicia y los de la Sala Administrativa;
 
 II.- Informar al Supremo Tribunal de Justicia de las renuncias y licencias que hayan tramitado los Jueces para separarse de su cargo;
 
@@ -1669,7 +1763,7 @@ XII.- Dar cuenta de la correspondencia al juez de despacho;
 
 XIII.- Tramitar la correspondencia administrativa del juzgado o tribunal;
 
-XIV- Auxiliar a los jueces en el trámite de los juicios de amparo;
+XIV.- Auxiliar a los jueces en el trámite de los juicios de amparo;
 
 XV.- Auxiliar en el desahogo de las audiencias;
 
@@ -2368,3 +2462,13 @@ P.O. 23 DE MARZO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 8 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado, a excepción de lo dispuesto por el siguiente Artículo.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas a la Ley Orgánica del Poder Judicial iniciarán su vigencia una vez que haya sido instalado el Tribunal Electoral del Estado, en términos del Artículo Séptimo de las disposiciones transitorias del Decreto Número 152 que contiene el Código Electoral del Estado de Aguascalientes.
