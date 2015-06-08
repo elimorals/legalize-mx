@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-superissste-81504"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-31"
-last_updated: "2011-05-31"
+last_updated: "2015-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81504&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-04-14"
 ---
 # REGLAMENTO ORGANICO DEL SUPERISSSTE
 
-REGLAMENTO ORGANICO DEL SUPERISSSTE
+REGLAMENTO ORGÁNICO DEL SUPERISSSTE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO ORGÁNICO DEL SUPERISSSTE, PUBLICADO EN EL D.O.F. DE 8 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE JUNIO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el martes 31 de mayo de 2011.
 
@@ -575,7 +577,7 @@ IV. Realizar las demás funciones inherentes al cargo que le señale su superior
 
 El titular de la Jefatura de Departamento de Recursos Materiales tendrá las siguientes funciones:
 
-I. Elaborar la propuesta del Programa Anual de Adquisiciones, elaborado con base en los requerimientos de las Areas Administrativas, así como elaborar los contratos de arrendamientos, adquisiciones y prestación de servicios se (sic) apeguen a los requerimientos, de conformidad a la normatividad aplicable;
+I. Elaborar la propuesta del Programa Anual de Adquisiciones, elaborado con base en los requerimientos de las Areas Administrativas, así como elaborar los contratos de arrendamientos, adquisiciones y prestación de servicios (sic) se apeguen a los requerimientos, de conformidad a la normatividad aplicable;
 
 II. Realizar las acciones para la certificación y expedición de copias de los documentos que obren en poder del Instituto, relativos al ámbito de su competencia;
 
@@ -1812,3 +1814,13 @@ Lo que me permito hacer de su conocimiento para los efectos legales procedentes.
 Atentamente
 
 México, D.F., a 14 de abril de 2011.- El Secretario General y Secretario de la Junta Directiva, Luis Felipe Castro Sánchez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 8 DE JUNIO DE 2015.
+
+PRIMERO. Este Reglamento entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el acuerdo 14.1327.2011 de la Junta Directiva por el que se aprueba el Reglamento Orgánico del SuperISSSTE, de fecha 14 de abril de 2011 y publicado en el Diario Oficial de la Federación el 31 de mayo de 2011.
+
+TERCERO. Se mantendrán en vigor todas las disposiciones que no se opongan a este Reglamento.
