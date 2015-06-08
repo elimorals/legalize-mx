@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2014-09-29"
+last_updated: "2015-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -367,7 +367,7 @@ XII. Fomentar e impulsar la industria, agricultura, minería, comercio y demás 
 
 XIII. Tomar las medidas necesarias para dar cumplimiento a lo dispuesto en el Artículo 4º de la Constitución Local;
 
-XIV. Promover por todos los medios posibles, la asistencia a las escuelas preescolar (sic), primarias y secundarias del Municipio;
+XIV. Promover por todos los medios posibles, la asistencia a las escuelas preescolar, primarias y secundarias del Municipio;
 
 XV. Cuidar el aseo de las poblaciones y hacer que se observe en el ramo de higiene todo lo que consideren conveniente de acuerdo con las autoridades en Salud Pública;
 
@@ -407,7 +407,9 @@ XXXII. Considerar los informes que rindan los regidores, autoridades subalternas
 
 XXXIII. Revisar la cuenta pública que mensualmente presente el Comisionado de Hacienda, para su remisión al Congreso del Estado;
 
-XXXIV. Procurar que las poblaciones cuyo censo sea mayor de 500 habitantes, sean provistas de agua potable, panteones, alumbrado público, policía, mercado, centros de educación primaria y secundaria, lugares de recreo y para la práctica de los deportes;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
+
+XXXIV. Procurar que las poblaciones cuyo censo sea mayor de 500 habitantes, sean provistas de agua potable, panteones, alumbrado público, policía, mercado, centros de educación primaria y secundaria, lugares de recreo, espacios públicos para la práctica de activación física y deporte;
 
 XXXV. Imponer medidas disciplinarias a sus integrantes y funcionarios municipales, por faltas que cometan en el cumplimiento de sus obligaciones;
 
@@ -2186,6 +2188,12 @@ DECRETO NÚMERO 431, POR EL QUE SE REFORMA EL ARTÍCULO 74 UBICADO EN EL TÍTULO
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 29 DE SEPTIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JUNIO DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
