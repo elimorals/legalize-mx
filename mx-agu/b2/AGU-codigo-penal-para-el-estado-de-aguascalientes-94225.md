@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2015-03-23"
+last_updated: "2015-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -2073,7 +2073,7 @@ IV. Profanarlos con actos de necrofilia.
 
 Al responsable de las conductas descritas en este Artículo, se le aplicarán de 6 meses a 3 años de prisión y de 15 a 50 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-### CAPÍTULO XVI. Tipos Penales Protectores del Sistema Electoral
+### CAPÍTULO XVI
 
 ###### ARTÍCULO 184.
 
@@ -2121,91 +2121,17 @@ Motín. El Motín consiste en la reunión en forma tumultuaria que cause grave d
 
 A los responsables de Motín se les aplicarán de 2 a 5 años de prisión y de 20 a 100 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JUNIO DE 2015)</small>
+
 ### CAPÍTULO XVII. Tipos Penales Protectores del Fisco Estatal
 
 ###### ARTÍCULO 188.
 
-Atentados al sistema de elección popular. Los Atentados al Sistema de Elección Popular consisten en:
-
-I. Votar o intentar votar estando impedido para ello en términos de la legislación electoral vigente;
-
-II. Votar más de una vez, en un mismo proceso electoral, y respecto del mismo cargo motivo de elección;
-
-III. Votar o intentar votar, con una credencial de elector no expedida a su nombre, o credencial para votar con fotografía falsa;
-
-IV. Obstaculizar o interferir en el desarrollo legal del proceso electoral;
-
-V. Votar o intentar votar, portando armas;
-
-VI. Omitir el desempeñar, sin causa justificada, las funciones electorales que se le encomienden, y de las cuales haya sido notificado personalmente, por las autoridades competentes;
-
-VII. Negarse los fedatarios públicos a dar fe de los actos o hechos respecto de los cuales legalmente se solicite su intervención, en términos de la legislación electoral vigente;
-
-VIII. Hacer proselitismo o propaganda política dentro de los tres días anteriores al de la elección o el día de la votación a favor de algún partido político, coalición o candidato;
-
-IX. Inducir al electorado a abstenerse de votar, durante el desarrollo del proceso electoral correspondiente;
-
-X. Falsificar, alterar, apoderarse sin derecho o destruir documentos públicos destinados al desarrollo de procesos electorales;
-
-XI. Violar en cualquier forma el secreto del voto;
-
-XII. Recoger o solicitar la entrega, sin causa prevista por la ley, credencial para votar con fotografía en poder de los ciudadanos;
-
-XIII. Inducir al electorado a abstenerse de votar; o hacerlo a favor de cualquier partido político, coalición o candidato, cuando se tenga el carácter de Ministro de cualquier culto religioso;
-
-XIV. Inmiscuirse en asuntos de orden político, siendo extranjero;
-
-XV. Realizar el servidor público propaganda o promoción a favor de partido político, coalición o candidato, utilizando tiempo de sus labores asignadas o los recursos del erario público;
-
-XVI. Teniendo el carácter de funcionario electoral:
-
-a) Abstenerse de cumplir con sus obligaciones, sin causa justificada, y en perjuicio del proceso electoral;
-
-b) Obstaculizar o impedir el desarrollo legal del proceso electoral;
-
-c) Ejercer presión sobre los electores para inducirlos a votar por un partido, coalición o candidato, en el interior de la casilla o en el lugar donde los electores se encuentren en espera de emitir su voto;
-
-d) Instalar, abrir o cerrar dolosamente una casilla fuera de los tiempos y formas previstas por la legislación electoral vigente, o que aquélla sea instalada en lugar distinto al legalmente señalado, o impida la instalación en el lugar que le corresponda;
-
-e) Expulsar de la casilla electoral, sin causa justificada, al o los representantes de algún partido político o les impida el ejercicio de los derechos que la legislación electoral vigente les concede;
-
-f) No tomar las medidas legales adecuadas para evitar la existencia de condiciones o actividades que atenten contra la libertad y el secreto del voto;
-
-g) Dar a conocer dolosamente a cualquier medio masivo de comunicación o persona información falsa, antes durante o después del desarrollo de la jornada electoral o respecto de sus resultados;
-
-h) Permitir o tolerar que una persona vote sin que cumpla con los requisitos de ley; o
-
-i) Introducir en urnas o sustraer de ellas, o bien, permitir que se introduzcan en las urnas o se sustraiga de ellas, una o más boletas electorales en forma ilícita.
-
-XVII. Contratar propaganda en radio, televisión o prensa, a favor o en contra de un partido político, candidato o precandidato;
-
-XVIII. Difundir, en cualquier tiempo, a nombre de un aspirante, precandidato, candidato, Asociación Política Nacional o Estatal, o bien, Partido Político, cualquier programa gubernamental sin incluir, claramente visible o audible, la leyenda “Este programa es público y ajeno a cualquier Partido Político”; o
-
-XIX. Introducir o sustraer ilícitamente de urnas una o más boletas electorales.
-
-A los responsables de los hechos descritos en las Fracciones I a la XV, así como XIX del presente Artículo, se les aplicarán de 6 meses a 2 años de prisión. A los responsables de los hechos descritos en los diversos incisos de la Fracción XVI y la Fracción XVII del presente Artículo, se les aplicará de 2 a 6 años de prisión, así como suspensión de sus derechos políticos por el término de 4 a 6 años. A los responsables de los hechos descritos en la Fracción XVIII del presente Artículo, de 3 meses a 1 año de prisión y de 1000 a 2000 días multa.
+(DEROGADO, P.O. 8 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 189.
 
-Equiparación. También serán considerados Atentados al Sistema de Elección Popular, las conductas que realicen los servidores públicos y que se describen enseguida:
-
-I. No prestar con la debida oportunidad la ayuda o auxilio solicitados por las autoridades electorales, en términos de ley;
-
-II. Obligar, presionar, condicionar, u otorgar beneficios o prebendas, en cualquier tiempo a los empleados del lugar donde desarrollen sus labores, a afiliarse, inscribirse, trabajar o a emitir su voto a favor o en contra de un partido político, coalición o candidato;
-
-III. Condicionar la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas, a la emisión del voto a favor de un partido político, coalición o candidato;
-
-IV. Destinar fondos, bienes, servicios, vehículos, inmuebles o equipos que tenga a su disposición o resguardo en virtud de su cargo, al apoyo de uno o varios partidos políticos, coaliciones o candidatos, o proporcione tal apoyo a través de sus subordinados;
-
-V. Impedir la realización de reuniones, asambleas o manifestaciones pacíficas o la realización de cualquier otro acto de proselitismo electoral;
-
-VI. Difundir bajo cualquier modalidad de comunicación en radio, televisión, prensa o internet, su nombre, imagen, voz o símbolos que impliquen promoción personalizada con cualquier fin, con excepción de la información relativa a servicios educativos y de salud o para la protección civil en caso de desastre;
-
-VII. Aplicar recursos públicos que estén bajo su responsabilidad, para influir a favor o en contra de un candidato, partido político o coalición; o
-
-VIII. Difundir en los medios de comunicación social o internet, propaganda gubernamental a partir de los treinta días previos a la Jornada Electoral hasta la conclusión de ésta, con excepción de la información relativa a servicios educativos y de salud o para la protección civil en casos de desastre.
-
-Al responsable de los hechos descritos en las Fracciones I a la VIII del presente Artículo, se le aplicarán de 2 a 9 años de prisión, así como suspensión de sus derechos políticos por el término de 4 a 9 años, sin perjuicio de aplicar las reglas del Concurso, por la comisión de algún otro hecho delictivo.
+(DEROGADO, P.O. 8 DE JUNIO DE 2015)
 
 ### CAPÍTULO XVIII. Tipos Penales Protectores del Equilibrio Ecológico
 
@@ -2560,3 +2486,13 @@ P.O. 23 DE MARZO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado, a excepción de lo dispuesto por el siguiente Artículo.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas a la Ley Orgánica del Poder Judicial iniciarán su vigencia una vez que haya sido instalado el Tribunal Electoral del Estado, en términos del Artículo Séptimo de las disposiciones transitorias del Decreto Número 152 que contiene el Código Electoral del Estado de Aguascalientes.
