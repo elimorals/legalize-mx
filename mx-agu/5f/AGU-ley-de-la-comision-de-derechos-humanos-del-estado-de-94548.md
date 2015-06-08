@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-comision-de-derechos-humanos-del-estado-de-94548"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-10"
-last_updated: "2013-06-10"
+last_updated: "2015-06-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de junio de 2013.
 
@@ -45,15 +45,21 @@ LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES
 
 ### CAPÍTULO I. Del Objeto de la Ley
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 1°.
 
-Esta Ley es de orden público y de aplicación en todo el Estado de Aguascalientes en materia de Derechos Humanos en términos de lo establecido por el Artículo 62 de la Constitución Política del Estado. Tiene por objeto establecer el funcionamiento y estructura jurídico administrativa de la Comisión, así como los procedimientos sustanciados por la misma a fin de promover y salvaguardar los Derechos Humanos.
+Esta Ley es de orden público, de interés social y de aplicación en todo el Estado de Aguascalientes en materia de Derechos Humanos en términos de lo establecido por el Artículo 62 de la Constitución Política del Estado. Tiene por objeto establecer el funcionamiento y estructura jurídico administrativa de la Comisión, así como los procedimientos sustanciados por la misma a fin de promover y salvaguardar los Derechos Humanos.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 2°.
 
-Los procedimientos que se sigan ante la Comisión serán gratuitos y se sujetarán a los principios de inmediatez, concentración y rapidez, procurándose el contacto directo con quejosos, denunciantes y autoridades para evitar la dilación de las comunicaciones escritas.
+Todas las actuaciones y procedimientos que se sigan ante la Comisión serán gratuitos y se sujetarán a los principios de inmediación, concentración, rapidez y buena fe, procurándose el contacto directo con quejosos, denunciantes y autoridades para evitar la dilación de las comunicaciones escritas.
 
 Serán de aplicación supletoria la Ley del Procedimiento Administrativo del Estado de Aguascalientes, el Código de Procedimientos Civiles del Estado de Aguascalientes y los principios generales del derecho, en ese orden y en lo que no contravengan las bases esenciales de este ordenamiento.
+
+La información en posesión de la Comisión, será tratada en términos de lo dispuesto por la Ley General de Transparencia y Acceso a la Información Pública y la normatividad local aplicable.
 
 ###### ARTÍCULO 3°.
 
@@ -95,9 +101,11 @@ XI. Visitaduría: Órgano de la Comisión encargado de recibir e investigar quej
 
 ### CAPÍTULO II. De la Naturaleza Jurídica de la Comisión
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 6°.
 
-La Comisión es un órgano autónomo en su gestión y presupuesto, con personalidad jurídica y patrimonio propios, el cual tiene por objeto proteger los Derechos Humanos en el Estado de Aguascalientes, conociendo de quejas en contra de actos u omisiones de naturaleza administrativa, en términos de lo dispuesto por el Artículo 102 Apartado B de la Constitución Política de los Estados Unidos Mexicanos y 62 de la Constitución Política Local.
+La Comisión es un órgano autónomo en su gestión y presupuesto, con personalidad jurídica y patrimonio propios, el cual tiene por objeto, proteger los Derechos Humanos en el Estado de Aguascalientes, conociendo de quejas en contra de actos u omisiones de naturaleza administrativa, en términos de lo dispuesto por el Artículo 102 Apartado B de la Constitución Política de los Estados Unidos Mexicanos y 62 de la Constitución Política Local. La Comisión, en el ejercicio de sus atribuciones constitucionales y legales, no recibirá instrucciones de autoridades o servidores públicos que le sean ajenos.
 
 Este órgano tendrá su domicilio legal y ámbito de competencia en el Estado de Aguascalientes.
 
@@ -131,11 +139,15 @@ V. Informar a la autoridad competente cuando las Autoridades Responsables no res
 
 VI. Solicitar al Congreso del Estado llame a comparecer a la Autoridad Responsable que se niegue a cumplir una recomendación, esto con la finalidad de que explique el motivo;
 
-VII. Supervisar que las condiciones de las personas privadas de su libertad que se encuentren en los separos de la Policía Ministerial o Seguridad Pública, estén apegadas a la ley y se garantice el pleno respeto de sus Derechos Humanos, pudiendo solicitar el reconocimiento médico de los detenidos cuando se aleguen malos tratos o torturas. El personal de la Comisión deberá tener acceso a los quejos privados de su libertad;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
+
+VII. Supervisar que las condiciones de las personas privadas de su libertad que se encuentren en los separos de la Policía Ministerial, Seguridad Pública, Centros de Internamiento o Centros de Reinserción Social, estén apegadas a la ley y se garantice el pleno respeto de sus Derechos Humanos, pudiendo solicitar el reconocimiento médico de los detenidos cuando se aleguen malos tratos o torturas. El personal de la Comisión deberá tener acceso a los quejosos privados de su libertad;
 
 VIII. Formular opiniones de carácter general dirigidas a servidores públicos, relativos a procedimientos administrativos vigentes, que contribuyan al conocimiento y difusión de la cultura del respeto a los Derechos Humanos, en términos de lo que disponga el Reglamento Interior;
 
-IX. Formular programas y proponer acciones en coordinación con las dependencias competentes, que impulsen el cumplimiento de los tratados, convenios y acuerdos internacionales signados y ratificados por México, en materia de Derechos Humanos;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
+
+IX. Formular programas y proponer acciones en coordinación con las dependencias competentes, que impulsen el cumplimiento de los tratados, convenios y acuerdos internacionales signados y ratificados por México, en materia de Derechos Humanos, así como recopilar y divulgar en el Estado, tales instrumentos internacionales;
 
 X. Difundir, orientar y promover la cultura de respeto a los Derechos Humanos en instituciones educativas públicas y privadas;
 
@@ -173,9 +185,17 @@ XXVI. Realizar los trámites conducentes a fin de contar con espacios radiofóni
 
 XXVII. Ejercer acciones tendientes a la prevención y eliminación de todas las formas de discriminación en el Estado;
 
-XXVIII. Interponer en contra de leyes que violen los Derechos Humanos y que fueren expedidas por el Congreso del Estado, la acción de inconstitucionalidad que señala la Fracción II, inciso g) del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos; y
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
 
-XXIX. Las demás que establezcan otras leyes y disposiciones aplicables.
+XXVIII. Interponer en contra de leyes que violen los Derechos Humanos y que fueren expedidas por el Congreso del Estado, la acción de inconstitucionalidad que señala la Fracción II, inciso g) del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
+
+XXIX. Practicar visitas e inspecciones a los centros de asistencia social y de atención para las adicciones, públicos o privados, con la finalidad de cerciorarse que en éstos se respetan los Derechos Humanos; y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2015)</small>
+
+XXX. Las demás que establezcan otras leyes y las disposiciones aplicables.
 
 ###### ARTÍCULO 10.
 
@@ -225,47 +245,55 @@ Quien funja como Presidente, Secretario General o Visitador General, no podrá d
 
 ### CAPÍTULO II. De la Presidencia
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 16.
 
 El titular de la Comisión será el Presidente, mismo que deberá reunir los siguientes requisitos:
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos, nacido en el Estado de Aguascalientes o con residencia en él de cinco años anteriores a su designación;
+I. Ser ciudadano mexicano en pleno goce de sus derechos, nacido en el Estado de Aguascalientes o con residencia en él de cinco años anteriores al día en que se publique en el Periódico Oficial del Estado la convocatoria con la que se inicie el proceso de elección de Presidente;
 
-II. Contar, al menos, con título profesional de licenciatura o equivalente así como acreditar experiencia y amplios conocimientos en materia de Derechos Humanos;
+II. Contar, al menos, con título profesional de licenciatura o equivalente, de preferencia Licenciatura en Derecho, así como acreditar experiencia y amplios conocimientos en materia de Derechos Humanos;
 
-III. Tener cuando menos treinta años cumplidos el día de la designación;
+III. Tener cuando menos treinta años cumplidos al día en que se publique en el Periódico Oficial del Estado la convocatoria con la que se inicie el proceso de elección de Presidente;
 
 IV. No pertenecer al Estado eclesiástico o al servicio activo de las fuerzas armadas ni ser ministro de algún culto;
 
-V. No haber resultado responsable por violaciones a los Derechos humanos en alguna de las recomendaciones emitidas por un organismo público de defensa y protección de los derechos humanos;
+V. No haber resultado responsable por violaciones a los Derechos Humanos en alguna de las recomendaciones emitidas por un organismo público de defensa y protección de los Derechos Humanos;
 
-VI. No haber sido condenado por delito doloso; y
+VI. No haber sido condenado por delito doloso;
 
-VII. No haber tenido cargo de Secretario, Subsecretario o su equivalente en la administración pública estatal o municipal, Procurador General de Justicia del Estado, durante un año anterior al día de su designación.
+VII. No haber tenido cargo de elección popular, o bien, de Secretario, Subsecretario o su equivalente en la administración pública estatal o municipal, Fiscal General del Estado durante los tres años anteriores al día en que se publique en el Periódico Oficial del Estado, la convocatoria con la que se inicie el proceso de elección de Presidente; y
+
+VIII. No desempeñar, ni haber desempeñado cargo de dirección nacional o estatal, en algún partido político en los tres años anteriores al día en que se publique en el Periódico Oficial del Estado, la convocatoria con la que se inicie el proceso de elección de Presidente.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 17.
 
 El nombramiento del Presidente se realizará en términos de lo establecido en el Artículo 62 de la Constitución Política Local y de los siguientes lineamientos:
 
-I. La Comisión Legislativa convocará a las asociaciones civiles que estén legalmente constituidas cuyo objeto esté vinculado con la difusión y protección de los Derechos Humanos, así como agrupaciones de profesionistas e instituciones de educación superior en el Estado, a fin de que presenten propuestas de aspirantes para ocupar el cargo de Presidente. Dicha convocatoria será publicada en el Periódico Oficial del Estado y por lo menos en uno de los diarios de mayor circulación en la Entidad, asimismo, se fijará en diversos estrados de instituciones públicas y privadas que lo permitan;
+I. La Comisión Legislativa convocará a las asociaciones civiles que estén legalmente constituidas cuyo objeto esté vinculado con la difusión y protección de los Derechos Humanos, así como a colegios de profesionistas e instituciones de educación superior en el Estado, a fin de que presenten propuestas de aspirantes para ocupar el cargo de Presidente. Dicha convocatoria será publicada en el Periódico Oficial del Estado, por lo menos en uno de los diarios de mayor circulación en la Entidad y en la página electrónica del Congreso del Estado, asimismo, se fijará en diversos estrados de instituciones públicas y privadas que lo permitan;
 
-II. Quienes propongan algún aspirante deberán anexar la documentación necesaria para acreditar que la persona cumple con los requisitos referidos en el Artículo 16 de esta Ley, así como un escrito firmado por el aspirante donde acepta participar en el proceso. Nadie podrá realizar más de una propuesta;
+II. Quienes propongan algún aspirante deberán anexar la documentación necesaria para acreditar que la persona cumple con los requisitos referidos en el Artículo 16 de esta Ley, así como un escrito firmado por el aspirante donde acepta participar en el proceso. La omisión de la presentación del escrito de referencia y de algún documento o su gestión para obtenerlo en los plazos señalados en la convocatoria, será causa de exclusión de la lista de candidatos a que se refiere la Fracción III. Nadie podrá realizar más de una propuesta;
 
-III. Recibidas las propuestas, la Comisión Legislativa analizará los documentos de los aspirantes para determinar quienes cumplen con los requisitos para ocupar el cargo y con base en ello elaborará una lista de candidatos;
+III. Recibidas las propuestas, la Comisión Legislativa analizará los documentos de los aspirantes para determinar quienes cumplen con los requisitos para ocupar el cargo y con base en ello elaborará una lista de candidatos.
 
 Si el Presidente tiene y hace valer su expectativa de derecho a ser reelecto, formará parte de la lista;
 
-IV. La lista de candidatos deberá publicarse para conocimiento de los interesados y la ciudadanía en general, en el Periódico Oficial del Estado y por lo menos en uno de los diarios de mayor circulación en la Entidad;
+IV. La lista de candidatos elaborada por la Comisión Legislativa, deberá publicarse para conocimiento de los interesados y la ciudadanía en general, en el Periódico Oficial del Estado, por lo menos en uno de los diarios de mayor circulación en la Entidad y en la página electrónica del Congreso del Estado;
 
 V. La Comisión Legislativa llevará a cabo una consulta pública en términos del Artículo 62, párrafo octavo, Fracción III de la Constitución Política Local, en la que podrán intervenir todos los Diputados del Congreso del Estado. Dicha consulta se desahogará de la siguiente manera:
 
-a) Podrá registrarse para participar, a más tardar 24 horas antes del inicio de la consulta pública, toda asociación civil legalmente constituida, cuyo objeto esté vinculado con la difusión y protección de los Derechos Humanos, así como agrupaciones de profesionistas e instituciones de educación superior en el Estado, acreditando tal calidad con la documentación correspondiente;
+a) Podrá registrarse para participar, a más tardar 24 horas antes del inicio de la consulta pública, toda asociación civil legalmente constituida, cuyo objeto esté vinculado con la difusión y protección de los Derechos Humanos, así como colegios de profesionistas e instituciones de educación superior en el Estado, acreditando tal calidad con la documentación correspondiente;
 
 b) Los candidatos presentarán un plan de trabajo y responderán los cuestionamientos que realicen los Legisladores presentes; y
 
-c) Se concederá el uso de la palabra a un representante de cada una de las asociaciones, agrupaciones e instituciones registradas. Sus manifestaciones deberán entregarlas también por escrito.
+c) Se concederá el uso de la palabra a un representante de cada una de las asociaciones, colegios e instituciones registradas, para que se manifiesten sobre los planes de trabajo y realicen propuestas relacionadas con la protección y difusión de los Derechos Humanos. Las expresiones de preferencia o rechazo a los candidatos, no serán vinculatorias para los Legisladores. Las intervenciones deberán entregarse también por escrito.
 
 VI. La Comisión Legislativa emitirá un dictamen en el que se informe al Pleno del Congreso del Estado qué candidatos cumplen con los requisitos así como las opiniones recibidas en la consulta pública, a fin de que dicho órgano soberano elija al Presidente con el voto de las dos terceras partes de los Diputados presentes en la sesión.
+
+En caso de no lograr la mayoría requerida, se repetirá la votación hasta por dos ocasiones más, previo receso para propiciar el dialogo parlamentario. Si luego de las tres votaciones de referencia no se obtiene la mayoría requerida para la designación, deberá desahogarse nuevamente el procedimiento previsto en el presente Artículo.
 
 El dictamen será sometido a la consideración del Pleno del Congreso del Estado en la sesión ordinaria siguiente a la fecha en que haya sido emitido por la Comisión Legislativa y en caso de que esté en receso, se convocará inmediatamente a un período extraordinario;
 
@@ -289,7 +317,9 @@ III. Presidir la Junta y proponerle los lineamientos generales a los que se suje
 
 IV. Proponer al Consejo los lineamientos generales a los que se sujetarán las actividades administrativas;
 
-V. Dirigir las investigaciones, a solicitud del Quejoso o si lo estima pertinente, acerca de violaciones a Derechos Humanos;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
+
+V. Dirigir las investigaciones, a solicitud del Quejoso o de oficio, acerca de violaciones a Derechos Humanos;
 
 VI. Conocer y pronunciarse, en el ámbito de su competencia, sobre las consultas que se le formulen;
 
@@ -321,7 +351,9 @@ a) Recibidas al 30 de noviembre del año anterior al que se informa y que se enc
 
 b) Recibidas del 1 de diciembre del año anterior al que se informa al 1 de diciembre del año en que se informa;
 
-c) Concluidas por resolución especificando el sentido de ésta; y
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
+
+c) Concluidas por resolución especificando el sentido de ésta, así como el estado que guarda su cumplimiento; y
 
 d) Archivadas del 1 de diciembre del año anterior al que se informa al 1 de diciembre del año en que se informa, especificando el motivo.
 
@@ -347,7 +379,9 @@ I. Conclusión de su primer período en caso de que no sea reelecto;
 
 II. Si al término de su primer período fue reelecto, al concluir el segundo período;
 
-III. Renuncia;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
+
+III. Muerte o renuncia;
 
 IV. Incapacidad declarada judicialmente;
 
@@ -365,7 +399,9 @@ En caso de declararse vacante el cargo de Presidente, el Secretario General fung
 
 La renuncia al cargo de Presidente deberá presentarse ante el Consejo y surtirá sus efectos en ese momento.
 
-En las ausencias temporales del Presidente, el Secretario General fungirá como encargado del despacho y a falta de éste el Visitador General.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
+
+En las ausencias temporales del Presidente o ante la falta de su nombramiento, el Secretario General fungirá como encargado del despacho y a falta de éste el Visitador General.
 
 ### CAPÍTULO III. Del Consejo
 
@@ -405,7 +441,9 @@ Todos contarán con voz y voto, salvo el Secretario Técnico que únicamente ten
 
 El Presidente también lo será del Consejo y tendrá voto de calidad.
 
-Los consejeros deberán tener conocimiento en diversas materias técnicas, científicas y humanistas, serán electos mediante el mismo procedimiento previsto en el Artículo 17 de esta Ley con la salvedad de que el Pleno los elegirá mediante insaculación.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
+
+Los consejeros deberán contar, al menos, con título profesional de licenciatura o equivalente, tener conocimiento en diversas materias técnicas, científicas y humanistas, y cumplir con los requisitos establecidos en el Articulo 16 de esta Ley, a excepción del previsto en su Fracción II; su elección se realizará mediante el mismo procedimiento previsto en el Artículo 17 de esta Ley con la salvedad de que el Pleno los elegirá con el voto de la mayoría de los Diputados que integran el Congreso del Estado.
 
 Durarán en el cargo cuatro años sin posibilidad de reelección en el período inmediato.
 
@@ -447,7 +485,9 @@ XI. Las demás que esta Ley y otros ordenamientos le confiera.
 
 La Junta estará integrada por:
 
-I. El Presidente de la Comisión, quien también lo será del Consejo;
+> <small>(REFORMADA P.O. 8 DE JUNIO DE 2015)</small>
+
+I. El Presidente de la Comisión, quien también lo será de la Junta;
 
 II. Un representante del Congreso del Estado que no deberá ser Diputado, designado por la Comisión Legislativa;
 
@@ -467,11 +507,13 @@ Podrán ser convocados otros servidores públicos de la Comisión para que parti
 
 ### CAPÍTULO V. De la Secretaría General
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 30.
 
-La Comisión contará con una Secretaría General para la atención de los asuntos de carácter administrativo y operativo. Corresponde al Consejo nombrar a su titular.
+La Comisión contará con una Secretaría General para la atención de los asuntos de carácter administrativo y operativo. Corresponde al Consejo nombrar a su titular a propuesta del Presidente.
 
-El Secretario General deberá reunir los requisitos previstos en el Artículo 16 de esta Ley.
+El Secretario General deberá contar, al menos, con título profesional de licenciatura en derecho, contabilidad, administración o equivalente con tres años de ejercicio profesional al día de su designación, acreditar conocimientos en materia de Derechos Humanos, así como reunir los requisitos establecidos en el Artículo 16 de esta Ley a excepción del previsto en su Fracción II.
 
 ###### ARTÍCULO 31.
 
@@ -487,15 +529,29 @@ IV. Dirigir el diseño, desarrollo e implantación de reglamentos y demás norma
 
 V. Efectuar el pago de los documentos, gastos y demás egresos que se le presenten para su cobro y afecten el Presupuesto de la Comisión;
 
-VI. Autorizar las adquisiciones de acuerdo con los preceptos legales aplicables y los lineamientos que fije el Consejo en términos de la Ley Patrimonial del Estado;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
+
+VI. Autorizar las adquisiciones de acuerdo con los preceptos legales aplicables y los lineamientos que fije el Consejo en términos de la Ley de Bienes del Estado y en la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios;
 
 VII. Conservar y custodiar los bienes muebles e inmuebles de la Comisión, conforme a los lineamientos establecidos por el Consejo y llevar el registro y control de los mismos;
 
 VIII. Fungir como Secretario Técnico del Consejo;
 
-IX. Establecer y operar el sistema de informática de la Comisión; y
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
 
-X. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Presidente de la Comisión.
+IX. Establecer y operar el sistema de informática de la Comisión;
+
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
+
+X. Proporcionar el apoyo, asistencia y atención que requiera a la Contraloría Interna, a efecto de que pueda cumplir con las atribuciones que le señalen las leyes, reglamentos y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2015)</small>
+
+XI. Coadyuvar con la Contraloría Interna para garantizar que todas las áreas de la Comisión le proporcionen el apoyo, asistencia y atención que requiera para el debido desempeño de sus atribuciones; y
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2015)</small>
+
+XII. Las demás funciones que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Presidente de la Comisión.
 
 La organización, funcionamiento y estructura administrativa de la Secretaría General se establecerá en el Reglamento Interior de la Comisión.
 
@@ -591,9 +647,11 @@ III. Tener título profesional de Licenciado en Derecho, Contabilidad o Administ
 
 IV. No haber sido condenado por delito doloso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 39.
 
-La Contraloría Interna tendrá las siguientes atribuciones y obligaciones:
+La Contraloría Interna se sujetará a los principios de certeza, legalidad, objetividad, honestidad, exhaustividad y transparencia; asimismo tendrá las siguientes atribuciones y obligaciones:
 
 I. Llevar el registro de las leyes, acuerdos, reglamentos, manuales, instructivos y demás normas a las que deba sujetarse la Comisión, así como controlar, fiscalizar e inspeccionar su cumplimiento;
 
@@ -697,7 +755,9 @@ La Comisión deberá resolver sobre las quejas en un plazo no mayor de noventa d
 
 Las partes tienen derecho a que la Comisión les dé acceso al expediente y a que se les proporcione copias del mismo en el momento en que lo deseen.
 
-Se deberá garantizar la confidencialidad de las investigaciones, de las quejas y demás datos y pruebas que obren en los expedientes. De manera excepcional y mediante resolución fundada y motivada, se proporcionará tal información a personas o autoridades distintas a las partes en términos de lo previsto por la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
+
+Se deberá garantizar la confidencialidad de las investigaciones, de las quejas y demás datos y pruebas que obren en los expedientes. De manera excepcional y mediante resolución fundada y motivada, se proporcionará tal información a personas o autoridades distintas a las partes en términos de lo previsto por la Ley General de Transparencia y Acceso a la Información Pública y la normatividad local aplicable.
 
 ### CAPÍTULO II. De la Conciliación
 
@@ -745,7 +805,9 @@ Admitida la queja, se le notificará a la Autoridad Responsable así como al tit
 
 La Autoridad Responsable, en un término no mayor a tres días hábiles contados a partir de que se le notifique la admisión, deberá remitir a la Comisión un informe sobre los hechos u omisiones que se le imputan. La Comisión podrá fijar un plazo menor.
 
-La falta de informe o su entrega fuera del plazo otorgado, tendrá por consecuencia la presunción de que son ciertos los hechos imputados a la Autoridad Responsable y el Presidente podrá imponer una multa de diez a cien días de salario mínimo general vigente en el Estado al funcionario requerido.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
+
+La falta de informe o su entrega fuera del plazo otorgado, tendrá por consecuencia la presunción de que son ciertos los hechos imputados a la Autoridad Responsable y el Presidente podrá imponer una multa de cincuenta a quinientos días de salario mínimo general vigente en el Estado al funcionario requerido.
 
 ###### ARTÍCULO 60.
 
@@ -839,9 +901,11 @@ La obligación de la Autoridad Responsable de reparar el daño al Quejoso será 
 
 La Comisión informará a las instancias correspondientes sobre las recomendaciones que emita por la violación de Derechos Humanos a efecto de que se realicen los registros respectivos y el Quejoso acceda a los beneficios que establece la Ley General de Víctimas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 76.
 
-La Autoridad Responsable podrá repetir contra el Servidor Público que propicio el daño en términos Ley (sic) de Responsabilidad Patrimonial del Estado de Aguascalientes.
+La Autoridad Responsable podrá repetir contra el Servidor Público que propicio el daño en términos de la Ley de Responsabilidad Patrimonial del Estado de Aguascalientes.
 
 La reparación del daño derivada de una recomendación es independiente de la que determinen los tribunales competentes en materia penal o administrativa.
 
@@ -919,9 +983,11 @@ Se establece el servicio profesional, conforme al Artículo 62, último párrafo
 
 El servicio profesional tendrá como propósito la estabilidad y seguridad laboral, el desarrollo personal y profesional en el empleo, así como fomentar la vocación de servicio y promover la capacitación constante del personal.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 88.
 
-Se considera adscrito al servicio profesional los titulares de cualquier unidad administrativa de rango inferior a director.
+Estarán adscritos al servicio profesional los Visitadores Auxiliares, Proyectistas, Profesionales Investigadores, Coordinadores, Jefes de Departamento, así como los titulares de cualquier unidad administrativa análoga a las mencionadas que tengan rango inferior a director.
 
 ###### ARTÍCULO 89.
 
@@ -1036,3 +1102,19 @@ Dip. Kendor Gregorio Macías Martínez,
 SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 4 de junio de 2013.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión deberá ajustar sus disposiciones reglamentarias en un plazo no mayor a ciento ochenta días naturales contados a partir de la publicación del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General del Estado, la referencia al Fiscal General del Estado contenida en el presente Decreto, se entenderán (sic) hecha al Procurador General de Justicia del Estado.
