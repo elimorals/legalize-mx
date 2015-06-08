@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-ordenamiento-territorial-desarrollo-urbano-y-96157"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-10-07"
-last_updated: "2013-10-07"
+last_updated: "2015-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE ORDENAMIENTO TERRITORIAL, DESARROLLO URBANO Y VIVIENDA PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2015.
 
 Código publicado en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de octubre de 2013.
 
@@ -225,7 +225,9 @@ VII.- ÁREA: espacio de cualquier superficie de suelo o tierra urbana o rural co
 
 VIII.- ÁREAS DE BENEFICIO O AFECTACIÓN: las generadas por las acciones de fundación, conservación, mejoramiento y crecimiento; su determinación y delimitación tiene por efectos demarcar los predios o fincas a cuyos titulares corresponderán los derechos y las obligaciones específicas por la ejecución de esas acciones, las cuales se establecen con el fin de distribuir en forma equitativa, proporcional y justa sus costos, servicios o provechos;
 
-IX.- ÁREAS DE DONACIÓN: las cesiones gratuitas de terrenos con o sin edificaciones por parte de los fraccionadores o promotores a los municipios para infraestructura, equipamiento, vialidad, servicios, áreas verdes, de recreación y espacios abiertos en los fraccionamientos, condominios, desarrollos inmobiliarios especiales o subdivisiones;
+> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2015)</small>
+
+IX.- AREAS DE DONACIÓN: las cesiones gratuitas de terrenos con o sin edificaciones por parte de los fraccionadores o promotores a los municipios para infraestructura, equipamiento, vialidad, servicios, áreas verdes, de activación física, recreación y espacios abiertos en los fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones;
 
 X.- ÁREAS DE GESTIÓN URBANA INTEGRAL: las que se identifiquen y determinen en los programas de desarrollo urbano y ordenamiento territorial, por sus características naturales o histórico patrimoniales, su problemática urbanística o por constituir espacios estratégicos para el desarrollo urbano de los centros de población, por lo cual se hace necesaria su promoción coordinada e integral. Estas áreas se desarrollarán mediante una asociación, organismo o entidad, en cuya constitución podrán participar personas físicas o jurídicas, públicas o privadas;
 
@@ -5933,9 +5935,11 @@ En caso de que un condómino deseare vender la unidad de su propiedad exclusiva,
 
 El ayuntamiento respectivo tramitará la publicación en el Periódico Oficial del Estado del acta de entrega-recepción del fraccionamiento o las correspondientes a las etapas de urbanización o recepción de un servicio u obra de equipamiento urbano.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 392.
 
-Los ayuntamientos tomarán las medidas necesarias para el debido aprovechamiento de las áreas de donación y en su caso del equipamiento urbano y/o infraestructura que hubieran dotado los fraccionadores, en los términos a que se refiere este Código, programando la construcción de escuelas, parques, mercados, dispensarios y demás obras de servicios público y social, para beneficio del fraccionamiento o del centro de población en general.
+Los ayuntamientos tomarán las medidas necesarias para el debido aprovechamiento de las áreas de donación y en su caso del equipamiento urbano y/o infraestructura que hubieran dotado los fraccionadores, en los términos a que se refiere este Código, programando la construcción de escuelas, parques, instalaciones para la activación física, mercados, dispensarios y demás obras de servicio público y social, para beneficio del fraccionamiento o del centro de población en general. En todo caso se deberá destinar un espacio para la activación física, en términos del Artículo 525 del presente Código.
 
 ###### ARTÍCULO 393.
 
@@ -7037,9 +7041,11 @@ Los ayuntamientos deberán destinar para infraestructura, equipamiento y servici
 
 Los ayuntamientos podrán realizar actos traslativos de dominio o de posesión para autorizar que otras dependencias u organismos públicos o privados sin fines de lucro, sean quienes den cumplimiento a la obligación que se establece en el párrafo que antecede, debiendo cumplirse para ello con las formalidades que establezcan los ordenamientos municipales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 525.
 
-Del área total de donación de cada fraccionamiento, condominio o desarrollo inmobiliario especial, cuando menos el 30% deberá destinarse a áreas verdes, parques, jardines y espacios abiertos, cuya superficie será considerada como un bien del dominio público del municipio respectivo, por lo que no podrán considerase en este supuesto, aquellas áreas verdes ubicadas en camellones, banquetas, glorietas, isletas, o áreas de restricción, salvo que la Comisión Estatal o la SEGUOT dictamine lo contrario, previa opinión favorable del ayuntamiento respectivo.
+Del área total de donación de cada fraccionamiento, condominio o desarrollo inmobiliario especial, cuando menos el 30% deberá destinarse a áreas verdes o para la activación física, parques, jardines y espacios abiertos, cuya superficie será considerada como un bien del dominio público del municipio respectivo, por lo que no podrán considerase en este supuesto, aquellas áreas verdes ubicadas en camellones, banquetas, glorietas, isletas, o áreas de restricción, salvo que la Comisión Estatal o la SEGUOT dictamine lo contrario, previa opinión favorable del ayuntamiento respectivo.
 
 El fraccionador o promotor tendrá la obligación de equipar dicha superficie para tales efectos, en los términos que se le señale en el Reglamento del ayuntamiento respectivo. Dicha obligación formará parte del dictamen de autorización. El resto de la superficie se entregará limpia, sin escombro, drenada y nivelada con una pendiente máxima del 7%.
 
@@ -11387,7 +11393,7 @@ I.- Ceder a terceros, gravar, transferir o enajenar la concesión;
 
 II.- Transmitir los derechos y obligaciones que se derivan de la concesión; y
 
-III.- Afectar, transmitir o comprometer los bienes muebles y servicios, con los que se realiza la prestación de los servicios públicos o explotación de los bienes públicos concesionados;(sic)
+III.- Afectar, transmitir o comprometer los bienes muebles y servicios, con los que se realiza la prestación de los servicios públicos o explotación de los bienes públicos concesionados; (sic)
 
 ### CAPÍTULO IV. De las Concesiones para la Prestación del Servicio Público de Transporte Local
 
@@ -12832,3 +12838,11 @@ Dip. Arturo Robles Aguilar,
 SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 4 de octubre de 2013.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE JUNIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
