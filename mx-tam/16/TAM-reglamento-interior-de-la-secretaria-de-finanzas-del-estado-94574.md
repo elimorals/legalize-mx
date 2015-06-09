@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-interior-de-la-secretaria-de-finanzas-del-estado-945
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-05-29"
-last_updated: "2013-05-29"
+last_updated: "2015-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de mayo de 2013.
 
@@ -299,11 +299,11 @@ XIV. Certificar hechos y expedir las constancias respectivas de los documentos q
 
 XV. Proponer, para aprobación superior, los nombramientos y remociones del personal a su cargo;
 
-XVI Integrar, para la aprobación del titular de la Secretaría, los proyectos gubernamentales de la dependencia, en congruencia con la metodología aplicable, así como participar en el seguimiento del control del presupuesto aprobado; y
+XVI. Integrar, para la aprobación del titular de la Secretaría, los proyectos gubernamentales de la dependencia, en congruencia con la metodología aplicable, así como participar en el seguimiento del control del presupuesto aprobado; y
 
 XVII. Las demás que señalen las leyes, reglamentos, otras disposiciones jurídicas aplicables y las que le sean encomendadas por la superioridad.
 
-Las plazas de confianza de nivel operativo quedan sujetas a la autorización del titular de la dependencia, en apego a las disposiciones legales, fundamentalmente para el caso de los puestos con funciones de manejo de fondos, valores, almacenes e inventarios; (sic)
+Las plazas de confianza de nivel operativo quedan sujetas a la autorización del titular de la dependencia, en apego a las disposiciones legales, fundamentalmente para el caso de los puestos con funciones de manejo de fondos, valores, almacenes e inventarios;
 
 ###### ARTÍCULO 15.
 
@@ -479,13 +479,17 @@ XIV. Mantener comunicación permanente con las autoridades del Gobierno Federal,
 
 XV. Las demás que señalen las leyes, reglamentos, otras disposiciones jurídicas aplicables y las que le sean encomendadas por la superioridad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 20.
 
-La Dirección de Auditoría Fiscal de la Subsecretaría de Ingresos tiene bajo su adscripción a los Departamentos de Visitas Domiciliarias, de Programación, de Revisión de Dictámenes y el de Programas Especiales. Al titular de la Dirección, de manera directa o por conducto de sus subalternos, le corresponden las atribuciones siguientes:
+La Dirección de Auditoría Fiscal de la Subsecretaría de Ingresos tiene bajo su adscripción a los Departamentos de Visitas Domiciliarias, de Programación, de Revisión de Dictámenes, de Comercio Exterior y el de Programas Especiales. Al titular de la Dirección, de manera directa o por conducto de sus subalternos, le corresponden las atribuciones siguientes:
 
 I. Formular los Programas Operativos Anuales de fiscalización federal y estatal, a más tardar el 15 de noviembre del ejercicio inmediato anterior a aquel al que se formule el programa, estableciendo la política y los programas que deben seguir las unidades administrativas a su cargo para su ejecución;
 
-II. Apegarse a los lineamientos establecidos por las autoridades fiscales federales en materia de ingresos coordinados, por lo que respecta a las visitas domiciliarias, solicitud de información y documentación, inspecciones, actos de vigilancia, verificaciones de origen, imposición de multas y sanciones por infracciones efectuadas a los contribuyentes sujetos a los impuestos federales y en todo lo concerniente de su competencia;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2015)</small>
+
+II. Apegarse a los lineamientos establecidos por las autoridades fiscales federales en materia de ingresos coordinados, por lo que respecta a las visitas domiciliarias, solicitud de información y documentación, inspecciones, actos de vigilancia, verificaciones de origen, determinación de contribuciones, imposición de multas y sanciones por infracciones a los contribuyentes sujetos a los impuestos federales y en todo lo concerniente de su competencia;
 
 III. Evaluar la operación en materia de fiscalización, considerando la forma de medición de los efectos en los sectores económicos, en las regiones y en la recaudación que produzcan las acciones contempladas en los programas operativos anuales de fiscalización y establecer las medidas correctivas que procedan;
 
@@ -497,15 +501,21 @@ VI. Ordenar y practicar visitas domiciliarias, solicitud de información y docum
 
 VII. Ordenar y practicar visitas domiciliarias a los contribuyentes a fin de verificar el cumplimiento de las obligaciones fiscales relacionadas con la expedición de comprobantes fiscales, así como ordenar y practicar la clausura preventiva de los establecimientos de los contribuyentes por no expedir o no entregar comprobantes de sus actividades; que los expedidos no reúnan requisitos fiscales o que los datos asentados en el comprobante correspondan a persona distinta a la que adquiere el bien o contrate el uso o goce temporal de bienes o la prestación de servicios, así como ordenar y practicar la clausura de los establecimientos en el caso de que el contribuyente no cuente con controles volumétricos;
 
-VIII. Expedir las credenciales o constancias de identificación del personal que se autorice para la práctica de las visitas domiciliarias, solicitud de información y documentación, inspecciones, verificaciones y notificaciones descritas en las dos fracciones anteriores;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2015)</small>
 
-IX. Determinar contribuciones omitidas, su actualización y sus accesorios, así como los demás créditos fiscales que resulten a cargo de los contribuyentes, responsables solidarios y demás obligados, e imponer sanciones por infracciones a las disposiciones fiscales, así como informar sobre la posible comisión de delitos fiscales y proporcionar información a otras autoridades fiscales;
+VIII. Expedir las credenciales o constancias de identificación del personal que se autorice para la práctica de las visitas domiciliarias, notificaciones, inspecciones, verificaciones, para la realización de embargos precautorios y demás actos derivados del ejercicio de sus facultades;
+
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2015)</small>
+
+IX. Determinar contribuciones omitidas, su actualización y sus accesorios, cuotas compensatorias, así como los demás créditos fiscales que resulten a cargo de los contribuyentes, responsables solidarios y demás obligados, e imponer sanciones por infracciones a las disposiciones fiscales que sean descubiertas en el ejercicio de las facultades a que se refiere este artículo, en su caso determinar conforme a la Ley Aduanera la clasificación arancelaria, así como el valor en aduana o el valor comercial de las mercancías de comercio exterior e informar sobre la posible comisión de delitos fiscales y proporcionar información a otras autoridades fiscales;
 
 X. Verificar el saldo a favor compensado; determinar y liquidar las cantidades compensadas indebidamente, incluida la actualización y recargos a que haya lugar, así como efectuar la compensación de oficio de cantidades a favor de los contribuyentes;
 
 XI. Notificar los actos relacionados con el ejercicio de sus atribuciones de comprobación;
 
-XII. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos u otros documentos e informes en su domicilio o en el de la Dirección de Auditoría Fiscal, así como recabar de los servidores públicos y de los fedatarios, los informes y datos que tengan con motivo de sus actuaciones, todo ello para proceder a su revisión, a fin de comprobar hechos relacionados con los contribuyentes en proceso de fiscalización, además de autorizar o negar prórrogas para su presentación, conforme a las disposiciones fiscales aplicables, considerando así mismo, lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 2015)</small>
+
+XII. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban y, en su caso, proporcionen la contabilidad, declaraciones, avisos, datos u otros documentos e informes en su domicilio o en el de la Dirección de Auditoría Fiscal, así como recabar de los servidores públicos y de los fedatarios, los informes y datos que tengan con motivo de sus actuaciones, todo ello para proceder a su revisión, a fin de comprobar hechos relacionados con los contribuyentes en proceso de fiscalización, además de autorizar o negar prórrogas para su presentación, conforme a las disposiciones fiscales y aduaneras aplicables, considerando así mismo, lo siguiente:
 
 a) En el caso de que existan convenios o acuerdos celebrados con el Gobierno Federal se podrá requerir, en relación con la contribución coordinada, además de lo ya señalado, el dictamen de Contador Público registrado y los papeles de trabajo para la elaboración del mismo. En caso de que el Contador Público registrado, responsable solidario o los terceros con ellos relacionados residan fuera del Estado, se actuará de acuerdo a los lineamientos establecidos por la Secretaría de Hacienda y Crédito Público;
 
@@ -513,21 +523,29 @@ b) Para efectos de lo establecido en el inciso anterior, se podrá revisar en re
 
 c) En el supuesto de que se detecten irregularidades en el dictamen, deberá proceder de acuerdo a los lineamientos que establezca el órgano competente de la Secretaría de Hacienda y Crédito Público, respecto del Contador Público registrado que elaboró el mismo; tratándose de la revisión prevista en esta fracción, emitir el oficio donde se comunica irregularidades de su actuación profesional;
 
-XIII. Habilitar días y horas inhábiles para la práctica de diligencias relacionadas con las facultades conferidas dentro de este ordenamiento y las derivadas de la ley, de conformidad con las disposiciones fiscales aplicables;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2015)</small>
+
+XIII. Habilitar días y horas inhábiles para la práctica de diligencias relacionadas con las facultades conferidas dentro de este ordenamiento y las derivadas de la ley, de conformidad con las disposiciones fiscales y aduaneras aplicables;
 
 XIV. Solicitar a las instituciones bancarias, así como a las organizaciones auxiliares del crédito, que ejecuten el embargo o aseguramiento de cuentas bancarias y de inversiones a nombre de los contribuyentes o de los responsables solidarios y solicitar su levantamiento cuando así proceda;
 
 XV. Designar los peritos que se requieran para la formulación de los dictámenes técnicos relacionados con los asuntos de su competencia;
 
-XVI. Notificar a los contribuyentes, responsables solidarios y demás obligados, los hechos u omisiones imputables a éstos, conocidos con motivo de revisiones de gabinete y de dictámenes, así como de visitas domiciliarias, de inspección y demás actos de comprobación que se practiquen y hacer constar dichos hechos u omisiones en el oficio de observaciones o en la última acta parcial que se levante;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2015)</small>
+
+XVI. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados, los hechos u omisiones imputables a éstos, conocidos con motivo de revisiones de gabinete y de dictámenes, así como de visitas domiciliarias, de inspección, de verificación y demás actos de comprobación que se practiquen y hacer constar dichos hechos u omisiones en acta circunstanciada, oficio de observaciones o en la última acta parcial que se levante.
 
 XVII. Ordenar y practicar visitas domiciliarias, auditorías, inspecciones, verificaciones, revisiones de escritorio en centros de producción, almacenamiento, distribución o comercialización, tianguis o lotes donde se realice la exhibición para venta de mercancías, mercados sobre ruedas, puestos fijos y semifijos en vía pública;
 
-XVIII. Realizar la verificación de vehículos en circulación y mercancías en transporte, aun cuando no se encuentren en movimiento, excepto aeronaves;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2015)</small>
+
+XVIII. Verificar y, en su caso, determinar conforme a la Ley Aduanera, la naturaleza, estado, origen y demás características de las mercancías de procedencia extranjera, así como determinar, en su caso, su clasificación arancelaria, valor comercial y su valor en aduana;
 
 XIX. Efectuar verificaciones de origen; emitir las constancias respectivas a los servidores públicos que realicen los actos de fiscalización; levantar actas circunstanciadas con todas las formalidades establecidas en la Ley Aduanera, en el Código Fiscal de la Federación y demás disposiciones aplicables; y emitir el oficio de observaciones, así como el oficio de conclusión tratándose de revisiones de escritorio.
 
-Para efectos de lo establecido en las fracciones XV, XVI y XVII, se podrá verificar el cumplimiento en materia de restricción o regulación no arancelaria, en las materias de comercio exterior, y decretar los inicios de Procedimiento Administrativo en Materia Aduanera;
+> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2015)</small>
+
+Para efectos de lo establecido en las fracciones XV, XVI y XVII se podrá verificar el cumplimiento en materia de restricción o regulación no arancelaria, en las materias de comercio exterior, decretar los inicios de Procedimiento Administrativo en Materia Aduanera, o el procedimiento previsto en el artículo 152 de la Ley Aduanera o del artículo que así lo prevea, y notificar dicho inicio al interesado, así como tramitar y resolver los citados procedimientos hasta su conclusión, de conformidad con la legislación federal aplicable; así mismo, se podrá ordenar y decretar el embargo precautorio de las mercancías y de los vehículos de procedencia extranjera, excepto aeronaves, en términos del artículo 151 de la Ley Aduanera o el artículo que así lo prevea, levantarlo cuando proceda y en su caso poner a disposición de los interesados los bienes; declarar que dichas mercancías y vehículos han causado abandono a favor del Fisco Federal, en su caso, declarar que las mercancías y vehículos y embarcaciones pasan a propiedad del Fisco Federal conforme a lo establecido en la Ley Aduanera y demás legislación aplicable.
 
 XX. Aplicar, en las materias de su competencia, las reglas generales y los criterios establecidos por la Subsecretaría, respecto de impuestos, derechos, contribuciones de mejoras, aprovechamientos y sus accesorios;
 
@@ -543,13 +561,37 @@ XXV. Requerir a los contribuyentes, responsables solidarios o terceros con ellos
 
 XXVI. Determinar la responsabilidad solidaria respecto a créditos fiscales de su competencia;
 
-XXVII. Reducir las multas determinadas a los contribuyentes, responsables solidarios o terceros relacionados con ellos, conforme a las disposiciones fiscales o aduaneras;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2015)</small>
+
+XXVII. Reducir o condonar las multas determinadas a los contribuyentes, responsables solidarios o terceros relacionados con ellos, y aplicar la tasa de recargos que corresponda conforme a las disposiciones fiscales o aduaneras;
 
 XXVIII. Declarar la extinción de atribuciones de las autoridades fiscales para la comprobación en el cumplimiento de las disposiciones fiscales, para determinar las contribuciones omitidas y sus accesorios e imponer multas en relación con los impuestos, derechos, contribuciones de mejoras, aprovechamientos y sus accesorios;
 
 XXIX. Dejar sin efectos las órdenes de visitas domiciliarias, los requerimientos de información que se formulen a los contribuyentes, así como las revisiones de papeles de trabajo que se hagan a los Contadores Públicos registrados, cuando legalmente se justifique y motive plenamente;
 
-XXX. Las demás que señalen las leyes, reglamentos, otras disposiciones jurídicas aplicables y las que le sean encomendadas por la superioridad.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2015)</small>
+
+XXX. Ordenar y practicar verificaciones de mercancías, dentro de la circunscripción territorial del Estado de Tamaulipas, incluso en centros de almacenamiento, distribución o comercialización, tianguis, mercados sobre ruedas, puestos fijos y semifijos en la vía pública e inclusive en transporte, a fin de comprobar la legal importación, almacenaje, estancia o tenencia, transporte o manejo en territorio nacional de las mercancías de procedencia extranjera, así como para verificar el cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de mercancías de procedencia extranjera, de conformidad con la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2015)</small>
+
+XXXI. Ordenar y practicar visitas domiciliarias y verificar vehículos de origen o procedencia extranjera, que se encuentren dentro de la circunscripción territorial del Estado de Tamaulipas, en circulación y aún cuando no se encuentren en movimiento incluso en centros de almacenamiento, distribución o comercialización, tianguis o lotes donde se realice la exhibición de los mismos para su venta, a fin de comprobar su legal importación, estancia o tenencia, transporte o manejo en territorio nacional, así como para verificar el cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de vehículos de procedencia extranjera de conformidad con la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2015)</small>
+
+XXXII. Resguardar y custodiar las mercancías, medios de transporte o vehículos que hayan sido embargados precautoriamente hasta que quede firme la resolución dictada en el procedimiento administrativo en materia aduanera o hasta que se resuelva legalmente la devolución de los mismos;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2015)</small>
+
+XXXIII. Habilitar los lugares en que habrán de ser depositadas las mercancías y los vehículos que hayan sido embargados precautoriamente, los cuales adquirirán la categoría de recintos fiscales;
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2015)</small>
+
+XXXIV. Transferir a la instancia competente los bienes embargados en el ejercicio de sus facultades, que hayan pasado a propiedad del Fisco Federal o Estatal, o de los que pueda disponer en términos de la normatividad aplicable, así como realizar de conformidad con las políticas, procedimientos y criterios que al afecto se emitan, la donación o destrucción de dichos bienes cuando no puedan ser transferidos a la instancia competente; y
+
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2015)</small>
+
+XXXV. Las demás que señalen las leyes, reglamentos, otras disposiciones jurídicas aplicables y las que le sean encomendadas por la superioridad.
 
 ###### ARTÍCULO 21.
 
@@ -1005,7 +1047,7 @@ VIII. Habilitar días y horas para la práctica de diligencias relacionadas con 
 
 IX. Imponer sanciones por infracciones a las disposiciones fiscales en materia de su competencia;
 
-X Autorizar, en los términos de la legislación fiscal federal o estatal, el pago diferido o en parcialidades de los créditos fiscales, previo otorgamiento de la garantía del importe del crédito fiscal y sus accesorios, sujetándose a los lineamientos establecidos por la Subsecretaría de Ingresos;
+X. Autorizar, en los términos de la legislación fiscal federal o estatal, el pago diferido o en parcialidades de los créditos fiscales, previo otorgamiento de la garantía del importe del crédito fiscal y sus accesorios, sujetándose a los lineamientos establecidos por la Subsecretaría de Ingresos;
 
 XI. Comunicar de manera inmediata a las áreas jurídicas de la Secretaría y a la Contraloría Gubernamental sobre los hechos que puedan constituir delitos de carácter fiscal, de los que sean imputables a los servidores públicos de la Oficina Fiscal en el desempeño de sus funciones y de aquellos por los que la misma Secretaría resulte ofendida;
 
@@ -1050,3 +1092,9 @@ Los asuntos que se encuentren en trámite iniciados al amparo de las atribucione
 Dado en la sede del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, el veintinueve de octubre de dos mil doce.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HERMINIO GARZA PALACIOS.- Rúbrica.- EL SECRETARIO DE FINANZAS.- ALFREDO ROMÁN GONZÁLEZ FERNÁNDEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE JUNIO DE 2015.
+
+ÚNICO. El presente Acuerdo Gubernamental entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
