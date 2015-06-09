@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-victimas-para-el-estado-de-san-luis-potosi-102830"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-07"
-last_updated: "2015-04-09"
+last_updated: "2015-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SLP"
 
 LEY DE VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2015.
 
-Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí el martes 7 de octubre de 2014.
+Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 7 de octubre de 2014.
 
 Dr. Fernando Toranzo Fernández, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed: Que el Congreso del Estado ha Decretado lo siguiente:
 
@@ -863,7 +863,9 @@ II. No haber sido condenado o condenada por la comisión de un delito doloso, o 
 
 III. Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en sociedad civil o académicas relacionadas con la materia de esta Ley, y
 
-IV. No haber ocupado cargo público ni haber desempeñado cargo de dirección nacional o estatal en algún partido político, dentro de los dos años previos a su designación.
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2015)</small>
+
+IV. No haber ocupado cargo público ni haber desempeñado cargo de dirección nacional o estatal en algún partido político, dentro de los dos años previos a su designación; con excepción de quienes hayan prestado sus servicios en las áreas de, atención a víctimas; o protección o defensa de derechos humanos.
 
 ### CAPÍTULO III. DEL PROGRAMA ANUAL DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE SAN LUIS POTOSÍ
 
@@ -1474,5 +1476,11 @@ Lic. Cándido Ochoa Rojas
 P.O. 9 DE ABRIL DE 2015.
 
 PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE JUNIO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
