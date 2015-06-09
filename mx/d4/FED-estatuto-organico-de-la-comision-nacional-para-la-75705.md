@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-para-la-75705"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-07-16"
-last_updated: "2015-05-29"
+last_updated: "2015-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75705&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2010-06-29"
 ---
 # ESTATUTO ORGANICO DE LA COMISION NACIONAL PARA LA PROTECCION Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE JUNIO DE 2015 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL PARA LA PROTECCIÓN Y DEFENSA DE LOS USUARIOS DE SERVICIOS FINANCIEROS
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MAYO DE 2015.
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 9 DE JUNIO DE 2015.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 16 de julio de 2010.
 
@@ -743,9 +743,9 @@ XXVIII. Publicar, cuando se considere pertinente, los resultados de los programa
 
 XXIX. Solicitar a la Dirección General de Arbitraje y Sanciones la orden de suspensión de la celebración de nuevas operaciones y servicios similares a las Entidades Financieras, en los casos previstos en el artículo 13 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.
 
-> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 2015)</small>
+(REFORMADO, D.O.F. 29 DE MAYO DE 2015) (F. DE E., D.O.F. 9 DE JUNIO DE 2015)
 
-Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia; el de Evaluación de Productos de Seguros y Fianzas, las contenidas en las fracciones I, II, III, V a IX, XII a XV, XVII a XX, XXII a XXII Quáter, XXV Bis a XXIX; el de Evaluación de Productos de Sociedades Financiera (sic) de Objeto Múltiple ENR y Uniones de Crédito, las contenidas en las fracciones I, II, III, V a XII, XIV Bis, XV a XXII, XXII Ter, XXIII; XXV Bis a XXV Quáter, XXVI a XXIX, el de Evaluación de Productos de Entidades de Ahorro y Crédito Popular, las contenidas en las fracciones I, II, III a XIII, XV a XXII, XXII Ter, XXIV a XXIX.
+Las atribuciones establecidas en el presente artículo serán ejercidas directamente por el Director General o por los Directores de su adscripción, según el ámbito de su competencia; el de Evaluación de Productos de Crédito y Captación las contenidas en las fracciones I a IX, XII a XV, XVII a XX, XXII a XXII Quáter y de XXV Bis a XXIX; el de Evaluación de Productos de Seguros y Fianzas, las contenidas en las fracciones I a IX, XII, XIV Bis, XV, XVIII a XX, XXVI y XXVIII; el de Evaluación de Productos de Sociedades Financieras de Objeto Múltiple ENR y Uniones de Crédito, las contenidas en las fracciones I a IX, XII, XIII, XIV Bis, XV, XVII a XXII, XXII Ter, XXIV a XXIX, y el de Evaluación de Productos de Entidades de Ahorro y Crédito Popular, las contenidas en las fracciones I a IX, XII, XIII, XIV Bis, XV, XVII a XX, XXII, XXII Ter, XXIII, XXV Bis a XXIX.
 
 ###### Artículo 17.
 
