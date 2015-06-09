@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-la-policia-preventiva-de-seguridad-publica-60636"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-14"
-last_updated: "2011-08-10"
+last_updated: "2015-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60636&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,15 @@ state: "VER"
 ---
 # REGLAMENTO DE LA POLICIA PREVENTIVA DE SEGURIDAD PUBLICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-REGLAMENTO DE LA POLICIA PREVENTIVA DE SEGURIDAD PUBLICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+REGLAMENTO DE LA POLICÍA PREVENTIVA DE SEGURIDAD PÚBLICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE JUNIO DE 2015.
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 14 de marzo de 2008.
 
 FIDEL HERRERA BELTRÁN, Gobernador del Estado de Veracruz de Ignacio de la Llave, en ejercicio de las facultades que me confiere el artículo 49 fracción III de la Constitución Política Local, y con fundamento en el artículo 8, fracción II de la Ley Orgánica del Poder Ejecutivo del Estado, he tenido a bien expedir el siguiente:
 
-REGLAMENTO DE LA POLICIA PREVENTIVA DE SEGURIDAD PÚBLICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+REGLAMENTO DE LA POLICÍA PREVENTIVA DE SEGURIDAD PÚBLICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -321,19 +321,7 @@ El régimen de disciplina que prevalecerá entre los miembros de la Policía Pre
 
 ###### ARTÍCULO 42.
 
-Los correctivos disciplinarios que se impondrán al personal operativo de la Policía Preventiva del Estado, por infringir la Ley de Seguridad Pública, el presente Reglamento y demás disposiciones legales, se aplicarán sin perjuicio de lo que prevé la Ley de Responsabilidades de los Servidores Públicos del Estado, y consistirán en:
-
-I. Apercibimiento privado o público;
-
-II. Amonestación privada o públicas;
-
-III. Suspensión del empleo, cargo o comisión, no debiendo ser menor a tres días ni mayor a tres meses;
-
-IV. Cambio de adscripción;
-
-V. Destitución del puesto, cargo o comisión; y
-
-VI. Rescisión del nombramiento.
+(DEROGADO POR TRANSITORIO SEXTO DEL REGLAMENTO DEL RÉGIMEN DISCIPLINARIO PARA LOS INTEGRANTES OPERATIVOS DE LAS INSTITUCIONES POLICIALES DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE VERACRUZ, G.O. 9 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 43.
 
@@ -637,7 +625,7 @@ SECRETARIO DE SEGURIDAD PÚBLICA
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.O. 10 DE AGOSTO DE 2011.
 
@@ -646,3 +634,19 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
 Tercero. El Secretario de Seguridad Pública, emitirá en un plazo no mayor a noventa días el Manual de Identidad de la Secretaría de Seguridad Pública.
+
+G.O. 9 DE JUNIO DE 2015.
+
+PRIMERO. Publíquese en la Gaceta Oficial Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+CUARTO. Todos aquellos procedimientos que se encuentren vigentes o de aquellos que no hayan causado ejecutoria al momento de la publicación del presente Reglamento y que hayan sido instaurados por cualquiera de las conductas previstas por el artículo 34 fracción I del presente Reglamento, quedarán sin efectos.
+
+QUINTO. Se abroga en todo su contenido el Reglamento del Régimen Disciplinario para los Integrantes de las Instituciones Policiales de la Secretaría de Seguridad Pública del Estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial número extraordinario 18 de fecha lunes dieciocho de enero de 2010.
+
+SEXTO. Se deroga el artículo 42 del Reglamento de la Policía Preventiva de Seguridad Pública del Estado de Veracruz de Ignacio de la Llave.
+
+SÉPTIMO. La Secretaría de Finanzas y Planeación en coordinación con la Secretaría de Seguridad Pública realizará las ampliaciones presupuestales que en su caso sean necesarias, para el cumplimiento de los fines del presente Reglamento.
