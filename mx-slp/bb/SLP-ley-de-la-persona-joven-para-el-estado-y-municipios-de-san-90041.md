@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-persona-joven-para-el-estado-y-municipios-de-san-9004
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-20"
-last_updated: "2013-10-19"
+last_updated: "2015-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA PERSONA JOVEN PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 20 de octubre de 2012.
 
@@ -145,7 +145,7 @@ En función de este principio, las autoridades tomarán medidas y desarrollarán
 
 IX. De pro-persona joven: obligatoriamente se interpretará toda norma y situación buscando el mayor beneficio para las personas jóvenes. De la misma forma, aplicarán la norma más amplia o la interpretación extensiva cuando se trata de derechos protegidos y, por el contrario, la norma o la interpretación más restringida, cuando se trata de establecer límites al ejercicio de derechos de las personas jóvenes;
 
-X. De reconocimiento de la identidad: el respeto a las diversas y emergentes formas de socialización de los y las jóvenes a través.de la aceptación e integración de las aportaciones que contribuyan al ejercicio de sus derechos fundamentales y enriquezcan sus valores.
+X. De reconocimiento de la identidad: el respeto a las diversas y emergentes formas de socialización de los y las jóvenes a través de la aceptación e integración de las aportaciones que contribuyan al ejercicio de sus derechos fundamentales y enriquezcan sus valores.
 
 En función de este principio, las autoridades desarrollarán políticas y programas que integren, bajo una cultura de tolerancia y reconocimiento, las distintas identidades juveniles que se generen en el Estado;
 
@@ -783,9 +783,9 @@ III. Las demás que le otorgue esta Ley y demás ordenamientos aplicables.
 
 En materia de juventud, a la Comisión Estatal de Derechos Humanos corresponde:
 
-I. En el ámbito de sus funciones, proteger y promover los derechos de las personas jóvenes contenidos en esta ley, y
+I. En el ámbito de sus funciones, proteger y promover los derechos de las personas jóvenes contenidos en esta Ley, y
 
-II. Las demás que le otorgue esta Ley y demás ordenamientos aplicables.
+II. Las demás que le otorgue esta ley y demás ordenamientos aplicables.
 
 ###### ARTICULO 64.
 
@@ -1013,7 +1013,9 @@ Para ser Director se requiere:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
-II. Ser mayor de edad;
+> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2015)</small>
+
+II. Ser mayor de edad, y tener máximo treinta y tres años cumplidos al día de su nombramiento;
 
 III. Tener residencia mínima de dos años en el Estado;
 
@@ -1051,7 +1053,7 @@ XII. Coordinar el desarrollo de las actividades técnicas y administrativas del 
 
 XIII. Formular y proponer a la Junta Directiva el anteproyecto de Reglamento Interior del Instituto, con base en un modelo que permita contar con la estructura administrativa acorde a las necesidades del Instituto;
 
-XIV. Elaborar y mantener permanentemente actualizados el Manual General de Organización y demás instrumentos de apoyó administrativo necesarios para el funcionamiento del Instituto, informando de ello a la Junta Directiva;
+XIV. Elaborar y mantener permanentemente actualizados el Manual General de Organización y demás instrumentos de apoyo administrativo necesarios para el funcionamiento del Instituto, informando de ello a la Junta Directiva;
 
 XV. Delegar en los funcionarios del Instituto las atribuciones que expresamente determine, sin menoscabo de conservar su ejercicio directo;
 
@@ -1254,3 +1256,9 @@ P.O. 19 DE OCTUBRE DE 2013.
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 9 DE JUNIO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
