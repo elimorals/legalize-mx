@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-fondo-de-la-vivienda-del-instituto-8146
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-27"
-last_updated: "2012-09-04"
+last_updated: "2015-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81469&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2011-04-14"
 
 REGLAMENTO ORGÁNICO DEL FONDO DE LA VIVIENDA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE SEPTIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO ORGÁNICO DEL FONDO DE LA VIVIENDA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, PUBLICADO EN EL D.O.F. DE 9 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE JUNIO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 27 de mayo de 2011.
 
@@ -2315,7 +2317,7 @@ X. Autorizar el Programa de Capacitación Anual;
 
 XI. Participar con las organizaciones sindicales en el análisis de los asuntos relacionados con empleados sindicalizados;
 
-XII. Coordinar la formulación y ejercicio del programa de presupuesto anual de egresos, de los Capítulos que le apliquen, y (sic)
+XII. Coordinar la formulación y ejercicio del programa de presupuesto anual de egresos, de los Capítulos que le apliquen, y
 
 > <small>(REFORMADA, D.O.F. 4 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2656,3 +2658,15 @@ D.O.F. 4 DE SEPTIEMBRE DE 2012.
 PRIMERO. Las presentes modificaciones al Reglamento entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Las funciones y atribuciones de las Gerencias Regionales, previstas en el Capítulo Décimo Cuarto del presente Reglamento, serán desempeñadas por los Departamentos de Vivienda de las Delegaciones Estatales y Regionales del Instituto, sin menoscabo de las funciones que se establecen en el Reglamento Orgánico de las Delegaciones Estatales y Regionales del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, hasta en tanto le sea aprobada al FOVISSSTE la estructura orgánica y presupuestal de sus gerencias regionales por parte de las Secretarías de Hacienda y Crédito Público y de la Función Pública.
+
+D.O.F. 9 DE JUNIO DE 2015.
+
+PRIMERO. El presente Reglamento entra en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el acuerdo 12.1327.2011 de la Junta Directiva por el que se aprueba el Reglamento Orgánico del Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, de fecha 14 de abril de 2011 y publicado en el Diario Oficial de la Federación el 27 de mayo de 2011.
+
+TERCERO. Se mantendrán en vigor todas las disposiciones que no se opongan al presente Reglamento.
+
+CUARTO. Lo establecido en el artículo 109 estará vigente hasta en tanto se autoricen y registren las modificaciones a la estructura orgánica del FOVISSSTE.
+
+QUINTO. Las funciones y atribuciones de las Gerencias Regionales, previstas en el capítulo sexto de este Reglamento, serán desempeñadas por los Departamentos de Vivienda de las Delegaciones Estatales y Regionales del Instituto, sin menoscabo de las funciones que se establecen en el Reglamento Orgánico de las Delegaciones Estatales y Regionales del Instituto, hasta en tanto le sea aprobada al FOVISSSTE por parte de la Secretaría de Hacienda y Crédito Público y de la Secretaría de la Función Pública, la estructura orgánica y presupuestal de sus Gerencias Regionales.
