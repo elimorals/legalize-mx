@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-instituto-de-la-mujer-oaxaquena-77359"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-23"
-last_updated: "2010-10-23"
+last_updated: "2015-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77359&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE LA MUJER OAXAQUEÑA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DEL INSTITUTO DE LA MUJER OAXAQUEÑA, PUBLICADO EN EL P.O. DE 10 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 23 de octubre de 2010.
 
@@ -540,3 +542,13 @@ DESAHOGO DEL ORDEN DEL DÍA:
 2. DECLARACIÓN DE LA EXISTENCIA DE QUÓRUM LEGAL. DEL REGISTRO DE ASISTENCIA SE CONSTATA QUE DE UN TOTAL DE TRECE MIEMBROS QUE CONFORMA LA JUNTA DIRECTIVA, SE ENCUENTRAN PRESENTES DIEZ DE ELLOS, POR LO QUE SE DECLARA LA EXISTENCIA DEL QUÓRUM LEGAL PARA LLEVAR A CABO LA PRESENTE SESIÓN, SIENDO VÁLIDOS LOS ACUERDOS QUE DE ESTA EMANEN.
 
 3. LECTURA Y APROBACIÓN DEL ORDEN DEL DÍA. UNA VEZ QUE FUE LEÍDA LA ORDEN DEL DÍA LOS INTEGRANTES DE LA JUNTA DIRECTIVA PRESENTES TOMAN EL SIGUIENTE ACUERDO: POR UNANIMIDAD DE VOTOS, LA JUNTA DIRECTIVA QUE ACTÚA, APRUEBA EL ORDEN DEL DÍA PROPUESTO PARA DESARROLLARSE EN ESTA PRIMERA SESIÓN ORDINARIA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE JUNIO DE 2015.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las disposiciones del presente Reglamento, prevalecerán por encima de las disposiciones normativas de igual o menor jerarquía que se opongan a ellas, aun cuando no estén expresamente derogadas.
+
+TERCERO. Se abroga el Reglamento Interno del Instituto de la Mujer Oaxaqueña, publicado en número cuarenta y tres del Periódico Oficial del Gobierno del Estado, de fecha 23 de octubre de 2010.
