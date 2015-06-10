@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2015-05-27"
+last_updated: "2015-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -921,7 +921,9 @@ En caso de privación ilegal de la libertad personal o la comisión de otro ilí
 
 XIII.- La embriaguez habitual, o el uso ilegal y persistente de drogas estupefacientes y psicotrópicas;
 
-XIV.- La impotencia incurable para la cópula;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2015)</small>
+
+XIV.- La impotencia incurable para la cópula, salvo en aquel caso que, a sabiendas de la existencia de esta circunstancia, la contrayente manifieste su voluntad para realizar el matrimonio;
 
 XV. Encontrarse afectado por enfermedades mentales incurables;
 
@@ -6250,3 +6252,9 @@ P.O. 27 DE MAYO DE 2015.
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 10 DE JUNIO DE 2015.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
