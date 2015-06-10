@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-coordinacion-fiscal-del-estado-de-baja-california-sur-47
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-20"
-last_updated: "2012-02-10"
+last_updated: "2015-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JUNIO DE 2015.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 20 de diciembre de 2005.
 
@@ -101,7 +101,7 @@ l) Incentivos: Los incentivos federales que el Estado y los Municipios perciben 
 
 ###### Artículo 3.
 
-Las participaciones e incentivos que correspondan a los Municipios en los porcentajes que establece esta Ley se calcularán para cada ejercicio fiscal.
+Las participaciones e incentivos que correspondan a los Municipios en los porcentajes que establece esta Ley se calcularan para cada ejercicio fiscal.
 
 Los municipios participarán en el total de los impuestos federales a que tengan derecho de conformidad con lo establecido en la Ley de Coordinación Fiscal y en otros ingresos que señale expresamente esta Ley mediante la distribución de los fondos que en la misma se establecen.
 
@@ -175,7 +175,7 @@ Los Municipios, cuando así corresponda, además de las Participaciones establec
 
 ###### Artículo 8.
 
-De las cantidades que el Estado perciba por concepto del Impuesto Especial sobre Producción y Servicios sobre: cerveza, bebidas refrescantes, alcohol, bebidas alcohólicas fermentadas, bebidas alcohólicas y tabacos labrados, conforme a la Ley de Coordinación, los Municipios participarán y les corresponderá el 22% y se distribuirá en los mismos porcentajes establecidos para la distribución del Fondo General de Participaciones, de conformidad con lo previsto en el artículo 5 de esta Ley.
+De las cantidades que el Estado perciba por concepto del Impuesto Especial sobre Producción y Servicios sobre: cerveza; bebidas refrescantes, alcohol, bebidas alcohólicas fermentadas, bebidas alcohólicas y tabacos labrados, conforme a la Ley de Coordinación, los Municipios participarán y les corresponderá el 22% y se distribuirá en los mismos porcentajes establecidos para la distribución del Fondo General de Participaciones, de conformidad con lo previsto en el artículo 5 de esta Ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -199,7 +199,9 @@ De las 9/11 partes que el Estado recaude por concepto del Impuesto Especial Sobr
 
 a) El 70% en proporción a su nivel de población según los resultados del último censo de población, proporcionados por el Instituto Nacional de Estadística, Geografía e Informativa (sic) (INEGI).
 
-b) El 20% en proporción al ingreso Municipal por tenencia de vehículos.
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2015)</small>
+
+b) El 20% en proporción al ingreso Municipal por el Impuesto Sobre Enajenación de Bienes Muebles.
 
 c) El 10% en proporción al ingreso por servicios de tránsito.
 
@@ -215,19 +217,77 @@ El Estado, por conducto de la Secretaría, entregará a los Municipios, las cant
 
 La entrega podrá ser directa o, a solicitud de cada Municipio, a través de un fideicomiso para la distribución y fuente de pago de participaciones municipales que al efecto se constituya.
 
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2015)</small>
+
+Las formulas, metodologías y montos que se utilicen y determinen para los fondos señalados en el presente artículo, se publicarán en el Boletín Oficial, a más tardar el 31 de enero del ejercicio fiscal que corresponda.
+
 ###### Artículo 12.
 
 Las Participaciones que conforme a esta Ley correspondan a los Municipios son inembargables y no estarán sujetas a retención o deducción alguna, ni podrán afectarse a fines específicos, salvo para el pago de obligaciones contraídas en los términos de lo dispuesto en el Artículo 9o. de la Ley de Coordinación.
 
 No estarán sujetas a lo dispuesto en el párrafo anterior, las compensaciones que se requieran efectuar a los Municipios como consecuencia de ajustes en Participaciones y de las obligaciones de cualquier naturaleza previo acuerdo entre las partes, contraídas con el Estado.
 
-#### SECCIÓN II. DE LAS PARTICIPACIONES ESTATALES
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA], B.O. 10 DE JUNIO DE 2015)</small>
 
-> <small>(REFORMADO, B.O. 11 DE JULIO DE 2006)</small>
+#### SECCIÓN II. DE LOS FONDOS DE APORTACIONES FEDERALES
+
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2015)</small>
 
 ###### Artículo 13.
 
-Las fórmulas, metodologías y montos que se utilicen y determinen para los fondos señalados en el artículo 11 de esta Ley, se publicarán en el Boletín Oficial a más tardar el 31 de enero del ejercicio fiscal que corresponda.
+Se establecen las aportaciones federales para los municipios, como recursos que la Federación transfiere a los municipios, condicionando su gasto a la consecución y cumplimiento de los objetivos que para cada tipo de aportación establece la Ley de Coordinación Fiscal, para los Fondos siguientes:
+
+I. Fondo de Aportaciones para la Infraestructura Social Municipal; y
+
+II. Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal.
+
+Los montos de recursos que integrarán los Fondos de Aportaciones señalados en el presente artículo, serán las que se determinen en el Presupuesto de Egresos de la Federación de cada ejercicio fiscal.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2015)</small>
+
+###### Artículo 13 Bis.
+
+Los montos que correspondan a cada municipio de los Fondos de Aportaciones a que se refiere el artículo anterior, se calcularán y distribuirán con base en los porcentajes determinados en esta Ley, aplicando el procedimiento establecido en la Ley de Coordinación, debiendo publicar dicha información en el Boletín Oficial a más tardar el 31 de enero del ejercicio fiscal aplicable, así como el calendario de entero, fórmula y metodología, justificando cada elemento y el calendario de ministraciones.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2015)</small>
+
+###### Artículo 13 Ter.
+
+El Fondo de Aportaciones para la Infraestructura Social Municipal se enterará a los municipios mensualmente en los primeros diez meses del año por partes iguales y por conducto de la Secretaría, de manera ágil y directa, sin más limitaciones y restricciones, incluyendo las de carácter administrativo, que las correspondientes a los fines que establece el artículo 33 de la Ley de Coordinación.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2015)</small>
+
+###### Artículo 13 Quater.
+
+El Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal se enterará a los municipios mensualmente, por partes iguales y por conducto de la Secretaría, de manera ágil y directa, sin más limitaciones y restricciones, incluyendo las de carácter administrativo, que las correspondientes a los fines que establece el artículo 37 de la Ley de Coordinación.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2015)</small>
+
+###### Artículo 13 Quinquies.
+
+Con relación a los enteros de los recursos provenientes de los Fondos de Aportaciones a que se refiere la presente Sección, no proceden los anticipos.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2015)</small>
+
+Artículo 13 Sexties.- Las aportaciones con cargo a los fondos señalados en el artículo 13 de la presente Ley, y en su caso, sus rendimientos financieros, en ningún caso podrán destinarse a fines distintos a los expresamente previstos en los artículos 33 y 37 de la Ley de Coordinación.
+
+Las aportaciones del Fondo de Aportaciones para la Infraestructura Social Municipal, podrán afectarse para garantizar obligaciones en caso de incumplimiento, o servir como fuente de pago de dichas obligaciones que contraigan con la Federación, las instituciones de crédito que operen en territorio nacional o con personas físicas o morales de nacionalidad mexicana, en términos de lo dispuesto en el artículo 50 de la Ley de Coordinación.
+
+Las aportaciones con cargo al Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, podrán afectarse como garantía del cumplimiento de sus obligaciones de pago de derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, en términos de lo dispuesto en el artículo 51 de la Ley de Coordinación.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2015)</small>
+
+###### Artículo 13 Septies.
+
+Los recursos que por concepto de aportaciones federales reciban los municipios, serán administrados y ejercidos conforme a la aplicación de sus propias leyes, por tanto, deberán de registrarlos como ingresos propios, destinados específicamente a los fines establecidos en los artículos 33 y 37 de la Ley de Coordinación.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2015)</small>
+
+###### Artículo 13 Octies.
+
+El Congreso del Estado, a través del Órgano Superior de Fiscalización, será el responsable de supervisar, vigilar, constatar e informar, de la correcta aplicación de los recursos de los Fondos de Aportaciones Federales que reciba el Estado y los municipios, así como de fincar, en su caso, la responsabilidad correspondiente.
+
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2006)</small>
 
 ###### Artículo 14.
 
@@ -243,11 +303,15 @@ En la aplicación de estos recursos, los Municipios realizarán los registros es
 
 De las cantidades que el Estado perciba por concepto del Impuesto sobre Enajenación de Bienes Muebles, corresponderá a los Municipios el 20% de lo que en cada uno de ellos efectivamente se recaude.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+(REUBICADA [N. DE E. ANTES SECCIÓN II], P.O. 10 DE JUNIO DE 2015)
+
+#### SECCIÓN III. DE LAS PARTICIPACIONES ESTATALES
+
+> <small>N. DE E. EN RELACIÓN CON LA DEROGACIÓN DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 16.
 
-De las cantidades que el Estado perciba por concepto del Impuesto Estatal Vehicular, corresponderá a los municipios el 20% de lo que en cada uno de ellos efectivamente se recaude.
+(DEROGADO, B.O. 10 DE JUNIO DE 2015)
 
 ###### Artículo 16 Bis.
 
@@ -396,3 +460,27 @@ SEGUNDO.- El Artículo 16 del presente Decreto entrará en vigor el 1 de enero d
 B.O. 10 DE FEBRERO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.<a (sic)
+
+B.O. 10 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, con excepción de la derogación del artículo 16.
+
+###### ARTÍCULO SEGUNDO.
+
+Las retenciones y pagos que se realicen con cargo a los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal por adeudos que correspondan a los Municipios, sus organismos operadores de agua y, en su caso, sus organismos auxiliares, a que se refiere el Artículo 51 de la Ley de Coordinación, relativos a los derechos y aprovechamientos por concepto de agua y descargas de aguas residuales podrán efectuarse de manera gradual, con base en al menos los siguientes porcentajes aplicables sobre el total de los recursos que correspondan a cada Municipio por concepto del Fondo a que se refiere el presente artículo, considerando el 100% de la facturación de los conceptos referidos conforme lo siguiente:
+
+Ejercicio Fiscal Porcentaje de retención
+
+2015 60%
+
+2016 75%
+
+2017 85%
+
+2018 100%
+
+###### ARTÍCULO TERCERO.
+
+La derogación del artículo 16 de la presente Ley entrará en vigor hasta que se dejen de percibir ingresos por concepto del Impuesto Sobre Tenencia o Uso de Vehículos señalado en la Ley del Impuesto Estatal Vehicular.
