@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-salud-96494"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-23"
-last_updated: "2013-10-23"
+last_updated: "2015-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96494&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 10 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 23 de octubre de 213.
 
@@ -498,3 +500,21 @@ LA SECRETARIA DE SALUD
 VESTA LOUISE RICHARDSON LÓPEZ COLLADA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE JUNIO DE 2015.
+
+PRIMERA. El presente Reglamento iniciará su vigencia a los diez días hábiles siguientes a su publicación en el Periódico Oficial "Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Dentro de un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Reglamento, la Secretaría de Salud deberá actualizar los Manuales Administrativos, descriptivos de puestos y demás instrumentos administrativos que correspondan.
+
+TERCERA. Se abroga el Reglamento Interior de la Secretaría de Salud publicado en el Periódico Oficial “Tierra y Libertad”, número 5132, segunda sección, el veintitrés de octubre de 2013, así como se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente instrumento.
+
+CUARTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; y en los artículos 6, fracción XXXV, y 24, fracción l, del Reglamento Interior de la Secretaría de Gobierno; la Secretaría de Salud, dentro del plazo de diez días hábiles a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente Instrumento, debe informar a la diversa Secretaría de Gobierno, los cambios de denominación y supresión de las Unidades Administrativas de aquella, sufridos en virtud de este Reglamento, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos titulares de las mismas, y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+QUINTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, la Secretaría de Salud deberá realizar los trámites correspondientes para la identificación y asignación de plazas ante la diversa Secretaría de Administración, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
+
+SEXTA. Los asuntos que se encuentren en trámite a la entrada en vigor de este Reglamento a cargo de las Unidades Administrativas cuya denominación se modifica o cambia de adscripción, serán continuados en su tramitación por la Unidad Administrativa que corresponda, sin perjuicio de lo señalado en las disposiciones transitorias anteriores.
+
+SÉPTIMA. Los conflictos que se susciten por la aplicación e interpretación del presente Reglamento, serán resueltos por el Secretario de Salud.
