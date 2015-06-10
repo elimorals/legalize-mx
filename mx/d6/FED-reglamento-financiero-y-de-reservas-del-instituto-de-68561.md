@@ -4,7 +4,7 @@ identifier: "FED-reglamento-financiero-y-de-reservas-del-instituto-de-68561"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-28"
-last_updated: "2014-06-04"
+last_updated: "2015-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68561&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2009-03-31"
 
 REGLAMENTO FINANCIERO Y DE RESERVAS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO FINANCIERO Y DE RESERVAS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, PUBLICADO EN EL D.O.F. DE 10 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE JUNIO DE 2015. (ABROGADO)
 
 Reglamento publicado en la Quinta Sección del Diario Oficial de la Federación, el jueves 28 de mayo de 2009.
 
@@ -958,3 +960,9 @@ TERCERO. Las funciones y responsabilidades previstas en el Reglamento continuar�
 D.O.F. 4 DE JUNIO DE 2014.
 
 ÚNICO.- El presente acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE JUNIO DE 2015.
+
+PRIMERO. Este Reglamento entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. A partir de la entrada en vigor de este Reglamento, se abroga el Reglamento Financiero del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, publicado en el Diario Oficial de la Federación el 28 de mayo de 2009, así como cualquier otra disposición normativa que se oponga a este Reglamento.
