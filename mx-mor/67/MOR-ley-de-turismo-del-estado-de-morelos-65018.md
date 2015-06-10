@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-turismo-del-estado-de-morelos-65018"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-10"
-last_updated: "2014-11-19"
+last_updated: "2015-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TURISMO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 10 de diciembre de 2008.
 
@@ -149,9 +149,11 @@ XXI. Fomentar y desarrollar acciones para diversificar la actividad turística, 
 
 XXII. En general, la realización de toda clase de actividades que tiendan a fortalecer y acrecentar las corrientes turísticas nacionales e internacionales, hacia el Estado.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2015)</small>
+
 ###### Artículo 4.
 
-Toda persona tiene derecho a disfrutar del turismo como una expresión del crecimiento sostenido de su tiempo libre, descanso y esparcimiento, quedando prohibido todo tipo de discriminación en razón de idioma, raza, nacionalidad condición social o económica, cultural, político, religioso, preferencia sexual, capacidad diferente.
+Toda persona tiene derecho a disfrutar del turismo como una expresión del crecimiento sostenido de su tiempo libre, descanso y esparcimiento, quedando prohibido todo tipo de discriminación en razón del género, edad, estado civil, idioma, raza, nacionalidad, condición social o económica, cultural, político (sic), religioso (sic), preferencia sexual, discapacidad y condición de salud.
 
 ### CAPÍTULO II. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
@@ -203,9 +205,11 @@ Los prestadores de servicios que no se encuentren comprendidos en este artículo
 
 Los prestadores de servicios turísticos, así como el turista gozarán de los derechos y obligaciones que establece esta ley, observándose la Ley Federal de Protección al Consumidor, así como de las Normas Oficiales Mexicanas y de las demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2015)</small>
+
 ###### Artículo 7.
 
-En la prestación de servicios turísticos queda estrictamente prohibida cualquier clase de discriminación, ya sea de raza, idioma, etnia, sexo, capacidad diferente, credo político o religioso, nacionalidad, condición social o económica. La trasgresión a ésta disposición será sancionada por esta Ley.
+En la prestación de servicios turísticos queda estrictamente prohibida cualquier clase de discriminación, ya sea motivada por edad, estado civil, raza, idioma, etnia, sexo, preferencias sexuales, discapacidad, credo político o religioso, nacionalidad, condición social o económica. La trasgresión a ésta disposición será sancionada por esta Ley.
 
 ###### Artículo 8.
 
@@ -553,7 +557,7 @@ El turismo de naturaleza es aquel que tiene como fin realizar actividades recrea
 
 El turismo de naturaleza tiene las siguientes categorías:
 
-l. El ecoturismo, tienen como fin el realizar actividades recreativas de apreciación y conocimiento mediante la observación y la realización de actividades de la naturaleza a través del contacto con la misma.
+I. El ecoturismo, tienen como fin el realizar actividades recreativas de apreciación y conocimiento mediante la observación y la realización de actividades de la naturaleza a través del contacto con la misma.
 
 II. El turismo aventura, incluye actividades deportivas y recreativas, impuestas por la naturaleza, dichas actividades son agrupadas de acuerdo al espacio natural en que se desarrollan, puede ser agua, tierra, aire.
 
@@ -1074,3 +1078,43 @@ SEGUNDO.- El presente Decreto iniciará su vigencia a partir del día siguiente 
 TERCERO.- Iniciando vigencia el presente Decreto, el titular del Poder Ejecutivo del Estado de Morelos, deberá realizar dentro de los 90 días siguientes, las adecuaciones a su respectivo reglamento.
 
 CUARTO.- Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 10 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 2311 POR EL QUE SE REFORMA EL ARTÍCULO 4 DE LA LEY DE TURISMO DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial “Tierra y Libertad, órgano de difusión del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Iniciando vigencia el presente Decreto, el titular del Poder Ejecutivo del Estado de Morelos, deberá realizar dentro de los 90 días siguientes, las adecuaciones a su respectivo reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 10 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 2312 POR EL QUE SE REFORMA EL ARTÍCULO 7 DE LA LEY DE TURISMO DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad, órgano de difusión del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Iniciando vigencia el presente Decreto, el titular del Poder Ejecutivo del Estado de Morelos, deberá realizar dentro de los 90 días siguientes, las adecuaciones a su respectivo reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente Decreto.
