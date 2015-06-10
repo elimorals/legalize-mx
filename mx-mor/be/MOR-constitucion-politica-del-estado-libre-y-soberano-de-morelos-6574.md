@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2015-05-27"
+last_updated: "2015-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2015.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -3336,11 +3336,11 @@ En demandas del orden civil que se entablen contra cualquier servidor público n
 
 Para proceder penalmente en contra de los Secretarios de Despacho, el Auditor General de la Entidad Superior de Auditoría y Fiscalización, el Fiscal General del Estado, los Magistrados del Tribunal de lo Contencioso Administrativo, los Magistrados del Tribunal Electoral del Estado de Morelos, el Magistrado del Tribunal Unitario de Justicia para Adolescentes, así como el Consejero Presidente y los Consejeros Electorales del Organismo Público Electoral de Morelos, el Consejero Presidente y los Consejeros del Instituto Morelense de Información Pública y Estadística, los Presidentes Municipales, Síndicos y Regidores, por la comisión de delitos durante el tiempo de su cargo, no se requerirá la Declaratoria del Congreso del Estado en la que señale si ha lugar o no a la formación de causa.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2015)</small>
 
 ###### Artículo 137.
 
-Son responsables y serán sometidos a juicio político por actos y omisiones en perjuicio de los intereses públicos fundamentales o de su buen despacho, los Diputados al Congreso del Estado, el Gobernador del Estado, los Secretarios de Despacho, el Fiscal General del Estado, los Magistrados del Tribunal Superior de Justicia, los representantes del Poder Legislativo y Poder Ejecutivo al Consejo de la Judicatura Estatal, los Magistrados del Tribunal de lo Contencioso Administrativo, el Magistrado del Tribunal Unitario de Justicia para Adolescentes, los Jueces de Primera Instancia del Poder Judicial, el Consejero Presidente y los Consejeros del Instituto Morelense de Información Pública y Estadística, los miembros de los Ayuntamientos y el Presidente de la Comisión Estatal de Derechos Humanos.
+Son responsables y serán sometidos a juicio político por actos y omisiones en perjuicio de los intereses públicos fundamentales o de su buen despacho, los Diputados al Congreso del Estado, el Gobernador del Estado, los Secretarios de Despacho, el Fiscal General del Estado, los Magistrados del Tribunal Superior de Justicia, los representantes del Poder Legislativo y Poder Ejecutivo al Consejo de la Judicatura Estatal, los Magistrados del Tribunal de lo Contencioso Administrativo, el Magistrado del Tribunal Unitario de Justicia para Adolescentes, los Jueces de Primera Instancia del Poder Judicial, el Consejero Presidente y los Consejeros del Instituto Morelense de Información Pública y Estadística, los miembros de los Ayuntamientos y el Presidente de la Comisión de Derechos Humanos del Estado de Morelos.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
@@ -4921,3 +4921,9 @@ DECRETO NÚMERO 2254, POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 13
 PRIMERA. Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. Las reformas contenidas en el presente Decreto formarán parte de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
+
+P.O. 10 DE JUNIO DE 2015.
+
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente, se remitirá al titular del Poder Ejecutivo del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del estado de Morelos, conforme lo dispuesto por los artículos 44 y 70, fracción XVII inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Las reformas contenidas en el presente Decreto formarán parte de esta Constitución desde el momento mismo en que se realice la declaratoria a que se refiere el artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos.
