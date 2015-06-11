@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-interno-del-tribunal-electoral-del-poder-83126"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-04"
-last_updated: "2011-09-04"
+last_updated: "2015-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 11 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el día domingo 4 de septiembre de 2011.
 
@@ -1376,3 +1378,13 @@ VICTORIA DE DURANGO, DGO., 1 DE SEPTIEMBRE DE DOS MIL ONCE.
 LIC. DAMIÁN CARMONA GRACIA
 
 SECRETARIO GENERAL DE ACUERDOS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE JUNIO DE 2015.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se abroga el Reglamento Interno del Tribunal Electoral del Poder Judicial del Estado de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 19, de fecha 4 de septiembre de 2011, tomo CCXXV.
+
+TERCERO.- La vigencia de este Reglamento no afectará la situación laboral ni administrativa en que se encuentran actualmente los servidores y empleados del Tribunal Electoral del Estado de Durango.
