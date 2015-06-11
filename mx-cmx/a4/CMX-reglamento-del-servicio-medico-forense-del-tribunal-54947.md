@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-servicio-medico-forense-del-tribunal-54947"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-04"
-last_updated: "2008-12-16"
+last_updated: "2015-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54947&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,13 @@ issue_date: "2007-03-21"
 ---
 # REGLAMENTO DEL SERVICIO MEDICO FORENSE DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-REGLAMENTO DEL SERVICIO MEDICO FORENSE DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
+> <small>[N. DE E. ESTE ORDENAMIENTO CUENTA CON UNA SEGUNDA PUBLICACIÓN DE LA GACETA OFICIAL NÚMERO 792 DE FECHA 17 DE FEBRERO DE 2022.]</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE L DISTRITO FEDERAL: 16 DE DICIEMBRE DE 2008.
+REGLAMENTO DEL SERVICIO MÉDICO FORENSE DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DEL INSTITUTO DE CIENCIAS FORENSES DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 11 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE JUNIO DE 2015 (DEROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 4 de abril de 2007.
 
@@ -57,6 +61,8 @@ Que dichos manuales constituyen indudablemente instrumentos normativos de carác
 Que no obstante la basta normatividad relacionada con la función del Servicio Médico Forense quedan algunos aspectos de carácter administrativos relacionados con su operación que aun no son regulados en los diversos ordenamientos existentes y que son inherentes a las funciones y obligaciones que le han sido asignadas, por lo que el presente reglamento pretende regular complementariamente su operación
 
 Por lo que Con (sic) fundamento en los artículos 122, inciso C, Base Cuarta, Fracción II y III de la Constitución Política de los Estados Unidos Mexicanos; 76 y 83, párrafos primero y quinto, del Estatuto de Gobierno del Distrito Federal; 107 al 120, 124, 125, 195, 200, párrafo primero, 201, fracción I, de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal; 5º del Reglamento Interior del Consejo de la Judicatura del Distrito Federal, y demás disposiciones jurídicas y administrativas que resulten aplicables, el Consejo de la Judicatura del Distrito Federal expide el siguiente:
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO INTERNO DEL INSTITUTO DE CIENCIAS FORENSES DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. 11 DE JUNIO DE 2015, TODA REFERENCIA HECHA AL "SERVICIO MÉDICO FORENSE", SE ENTENDERÁ HECHA AL "INSTITUTO DE CIENCIAS FORENSES".</small>
 
 REGLAMENTO DEL SERVICIO MEDICO FORENSE DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
@@ -377,3 +383,17 @@ PRIMERO.- El presente Reglamento entrará en vigor el día de la primera publica
 G.O. 16 DE DICIEMBRE DE 2008.
 
 UNICO.- Por considerarse que tal acuerdo es de interés general, publíquese por una sola vez en la Gaceta Oficial del Distrito Federal, así como por tres veces en el Boletín Judicial del H. Tribunal.
+
+G.O. 11 DE JUNIO DE 2015.
+
+PRIMERO: El presente Reglamento entrará en vigor al día siguiente a su publicación en el Boletín Judicial del Tribunal.
+
+SEGUNDO: Se deroga el Acuerdo General 6-13/2007 emitido por el Pleno del Consejo de la Judicatura del Distrito Federal en sesión de fecha 21 de marzo de 2007, mediante el cual se aprobó el Reglamento del Servicio Médico Forense del Tribunal Superior de Justicia del Distrito Federal, así como todas aquellas disposiciones que contravengan al presente Reglamento.
+
+TERCERO: La estructura prevista en el Artículo 108 de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, se irá formalizando de manera paulatina, conforme a la disponibilidad presupuestal que exista en el Tribunal Superior de Justicia del Distrito Federal y a la emisión del Dictamen de Reestructura Orgánica correspondiente que en su momento apruebe el Consejo de la Judicatura del Distrito Federal.
+
+CUARTO: Las referencias hechas al "Servicio Médico Forense" en otras leyes o disposiciones normativas vigentes, al 27 de julio de 2012, se entenderán hechas al "Instituto de Ciencias Forenses".
+
+QUINTO: El Consejo de la Judicatura del Distrito Federal determinará, conforme a la normatividad nacional que en materia de Ejecución de Sanciones sea publicada en el Diario Oficial de la Federación, la vigencia del apartado XIV del presente Reglamento, por lo que corresponde a la Unidad de Atención Integral.
+
+SEXTO: Por considerarse que este acuerdo es de interés general, publíquese por una sola vez en la Gaceta Oficial del Distrito Federal e instrúyase al Oficial Mayor para que con cargo a la partida que corresponde, realice el pago de la publicación en dicha Gaceta."
