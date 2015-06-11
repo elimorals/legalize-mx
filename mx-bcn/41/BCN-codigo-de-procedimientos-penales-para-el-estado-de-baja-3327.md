@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2014-08-08"
+last_updated: "2015-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO PROGRESIVAMENTE, SEGÚN CORRESPONDA EL PARTIDO JUDICIAL DEL ESTADO, POR LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2007, 13 DE NOVIEMBRE DE 2009 Y 22 DE ENERO DE 2010.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO DEL DECRETO NÚMERO 288, PUBLICADO EN EL P.O. DE 11 DE JUNIO DE 2015, SE DECLARA QUE EL ESTADO DE BAJA CALIFORNIA INCORPORA A SU RÉGIMEN JURÍDICO EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES QUE ENTRARÁ EN VIGOR DE MANERA GRADUAL POR MUNICIPIO. EN CUANTO A LOS DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO DE COMPETENCIA ESTATAL QUE SE SEÑALA EN EL CAPÍTULO VII DEL TÍTULO XVIII DE LA LEY GENERAL DE SALUD, SERÁ APLICABLE EL PRESENTE ORDENAMIENTO, HASTA LA FECHA INDICADA EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2015.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -3950,3 +3952,23 @@ P.O. 8 DE AGOSTO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- A efecto de dar continuidad a los trabajos de armonización e implementación en el Estado, del sistema procesal penal acusatorio, los servidores públicos que en la actualidad integran la Comisión Interinstitucional derivada del Código de Procedimientos Penales publicado el 19 de Octubre del 2007 y que fueron respectivamente designados para tal efecto por el Congreso del Estado y el Tribunal Superior de Justicia, serán los mismos que integren la Comisión Interinstitucional de Implementación del Código Nacional de Procedimientos Penales, hasta en tanto no sean revocadas sus designaciones.
+
+P.O. 11 DE JUNIO DE 2015.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL DECRETO NÚMERO 288 QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+DECRETO No. 288
+
+PRIMERO.- Para los efectos señalados en el artículo segundo transitorio del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 5 de marzo de 2014, se DECLARA que el Estado de Baja California incorpora a su régimen jurídico el Código Nacional de Procedimientos Penales que entrará en vigor de manera gradual por Municipio, y de acuerdo con las siguientes prevenciones:
+
+I.- Sus disposiciones empezarán a regir en el municipio de Mexicali Baja California, a partir del 11 de agosto de 2015.
+
+II.- En los municipios de Ensenada, Playas de Rosarito, Tecate y Tijuana, su vigencia iniciará en las fechas que contengan los Decretos de las Declaratorias respectivas que de igual manera, y en cada caso, emita el H. Congreso del Estado de Baja California.
+
+III.- En todos los casos, entre las Declaratorias que se expidan para cada Municipio y la entrada en vigor del Código Nacional de Procedimientos Penales deberán mediar sesenta días naturales.
+
+SEGUNDO.- en cuanto a los delitos contra la salud en su modalidad de narcomenudeo de competencia estatal que se señala en el capítulo VII del Título XVIII de la ley General de Salud, será aplicable el Código de Procedimientos Penales publicado en el periódico Oficial del Estado de fecha 20 de agosto de 1989, hasta la fecha indicada en el Artículo Segundo Transitorio del Código Nacional de Procedimientos Penales.
+
+## ARTÍCULO TRANSITORIO
+
+ÚNICO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
