@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-y-bienestar-animal-para-la-94804"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-19"
-last_updated: "2013-12-12"
+last_updated: "2015-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURA
 
 > <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 100, PUBLICADO EN EL P.O. 12 DE DICIEMBRE DE 2013, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ORDENAMIENTO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Durango, el domingo 19 de mayo de 2013.
 
@@ -49,11 +49,13 @@ LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURA
 
 ### CAPÍTULO I. Objeto de la Ley
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2015)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y tiene con finalidad fijar las bases y las condiciones de protección y bienestar de los animales que viven bajo la posesión de las Personas y en especial de los animales de compañía, en el territorio del Estado de Durango.
+La presente Ley es reglamentaria del artículo 26 de la Constitución Política del Estado Libre y Soberano de Durango, de orden público, interés social y de observancia general en el territorio del Estado de Durango; y tiene como finalidad fijar las bases y las condiciones de protección y bienestar de los animales que viven bajo la posesión de las Personas, en el territorio del Estado de Durango.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
@@ -401,7 +403,7 @@ VII. Proporcionar al Animal la higiene necesaria tanto en su cuerpo como en su �
 
 VIII. En caso de que impere la necesidad de llevar a cabo el sacrificio del Animal deberá verificar que se practique por personal calificado y que el establecimiento en el cual se vaya a realizar cumpla con las disposiciones aplicables, así como que se empleen las técnicas necesarias para la Insensibilización del animal antes del acto;
 
-IX. No abandonar a los Animales que tenga bajo su custodia o bajo cualquier titulo legal o encargo, así como no permitir que éstos salgan de su área de resguardo sin supervisión o control;
+IX. No abandonar a los Animales que tenga bajo su custodia o bajo cualquier titulo legal o encargo, así como no permitir que éstos salgan de su área de regusardo sin supervisión o control;
 
 X. Proporcionar preferentemente a los Animales de Carga, Tiro y Monta el tipo de herraduras y accesorios adecuados que se utilicen en zonas urbanizadas o asfaltadas. Es obligatorio el mantenimiento del herraje con la frecuencia que en cada caso sea requerida para garantizar el Bienestar Animal;
 
@@ -451,17 +453,21 @@ Toda Persona física o moral que se dedique a la cría de animales domésticos e
 
 ### CAPÍTULO III. De los Animales Silvestres en Cautiverio
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2015)</small>
 
 ###### Artículo 26.
 
-Los zoológicos que operen en el Estado estarán a cargo de las autoridades estatales o municipales y se ajustarán a los reglamentos de funcionamiento que al efecto expidan las autoridades competentes y tendrán como objetivo central la educación ecológica, el respeto al medio ambiente y la protección para su reproducción y desarrollo de las especies.
+Los zoológicos que operen en el Estado estarán a cargo de las autoridades estatales o municipales y se ajustarán a las Normas Oficiales Mexicanas que determinen los principios básicos de trato digno y respetuoso de los animales, así como a los reglamentos de funcionamiento que al efecto expidan las autoridades competentes y solo podrán operar si cuentan con planes de manejo autorizados por la Secretaría de Medio Ambiente y Recursos Naturales; quiénes tendrán como objetivo central la educación ecológica, el respeto al medio ambiente y la protección para su reproducción y desarrollo de las especies.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2015)</small>
 
 ###### Artículo 27.
 
-Los zoológicos deberán mantener a los animales en instalaciones amplias, de manera que se les permita la libertad de movimiento y la satisfacción de sus necesidades vitales, así como asegurar las condiciones de seguridad pública e higiene. Iguales medidas deberán adoptar los circos y ferias que exhiban o utilicen animales.
+Los zoológicos deberán mantener a los animales en instalaciones amplias, de manera que se les permita la libertad de movimiento y la satisfacción de sus necesidades vitales, así como asegurar las condiciones de seguridad pública e higiene. Iguales medidas deberán adoptar las ferias que exhiban o utilicen animales.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
@@ -687,11 +693,15 @@ El Estado a través de la Secretaría, los municipios y las Asociaciones diseña
 
 ### CAPÍTULO V. De la exhibición, de la pensión, Adiestramiento y del Albergue de Animales
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2015)</small>
 
 ###### Artículo 52.
 
-Los establecimientos e instalaciones en donde se realice la exhibición, hospedaje, albergue o Adiestramiento de Animales deben ser adecuados y específicos para cada una de esas actividades, ser salubres y contar con el mantenimiento apropiado bajo la asesoría de un responsable médico veterinario que supervise que las actividades se realicen bajo condiciones de Bienestar Animal y se proporcionen a los Animales los cuidados apropiados.
+Los establecimientos e instalaciones en donde se realice la exhibición, hospedaje, albergue o Adiestramiento de Animales deberán de cumplir con lo que establezcan las Normas Oficiales Mexicanas en la materia que determinen los principios básicos de trato digno y respetuoso de los animales, deben ser adecuados y específicos para cada una de esas actividades, ser salubres y contar con el mantenimiento apropiado bajo la asesoría de un responsable médico veterinario que supervise que las actividades se realicen bajo condiciones de Bienestar Animal y se proporcionen a los Animales los cuidados apropiados.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
 Las actividades habituales de exhibición, de Adiestramiento o de hospedaje o albergue temporal de Animales Domésticos de Compañía deberán desarrollarse en establecimientos o instalaciones que cuenten con las autorizaciones de las autoridades correspondientes.
 
@@ -727,11 +737,15 @@ En las actividades de exhibición de Animales queda prohibido incidir o alterar 
 
 El Adiestramiento para la realización de rutinas, con fines de exhibición y espectáculo deberá realizarse sin causar maltrato a los Animales. Las mismas limitaciones aplicarán al momento en que se lleve a cabo la rutina del (sic) los Animales al público en general.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2015)</small>
 
 ###### Artículo 56.
 
-Queda prohibido el realizar la exhibición de Animales de circos y ferias para promocionar sus espectáculos, sin autorización de la autoridad municipal. En todo caso los remolques o vehículos automotores, deberán estar adaptados para su traslado, conforme a su especie y tamaño y deberán contar con las medidas de seguridad.
+Queda prohibido el realizar la exhibición de Animales para promocionar espectáculos, sin autorización de la autoridad municipal. En todo caso los remolques o vehículos automotores, deberán estar adaptados para su traslado, conforme a su especie y tamaño y deberán contar con las medidas de seguridad.
+
+Queda prohibido el uso de ejemplares de vida silvestre en Circos, así como la utilización de ejemplares de mamíferos marinos en espectáculos itinerantes, en los términos de la Ley General de Vida Silvestre.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
@@ -742,6 +756,12 @@ Queda prohibido el Adiestramiento en los siguientes casos:
 I. Cuando su finalidad sea el acometimiento para hacerlo pelear con otros Animales en espectáculos públicos o privados; y,
 
 II. Cuando se dirija a acrecentar y reforzar la agresividad de un Animal, con excepción de los que se entrenen policiacamente con fines de seguridad y de combate.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2015)</small>
+
+III. Cuando no se cumpla con la Normas Oficiales Mexicanas que determinen los principios básicos de trato digno y respetuoso de los animales.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
@@ -1309,7 +1329,11 @@ XXIV. Sacrificar a un Animal en la vía pública sin que medie motivo de caso fo
 
 XXV. No sacrificar inmediatamente, los propietarios, encargados o administradores de expendios de Animales o rastros, al Animal que por cualquier causa se hubiese lesionado gravemente;
 
-XXVI. Realizar la exhibición de Animales de circos y ferias para promocionar sus espectáculos en remolques o vehículos automotores que circulen por las vías públicas, sin la autorización previa correspondiente; y,
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2015)</small>
+
+XXVI. Realizar la exhibición de Animales para promocionar espectáculos en remolques o vehículos automotores que circulen por las vías públicas, sin la autorización previa correspondiente; y,
 
 XXVII. Las demás previstas en las disposiciones de la presente Ley y Reglamentos aplicables.
 
@@ -1642,3 +1666,17 @@ CUARTO.- Las Autoridades Municipales promoverán, en un plazo no mayor a 180 dí
 QUINTO.- La Secretaría promoverá, en un plazo no mayor a 180 días contados a partir de la entrada en vigor del presente Decreto, la emisión del Reglamento que permita la exacta observancia de la Ley, en las materias de su competencia.
 
 SEXTO.- Los Consejos Consultivos a que se refiere esta Ley deberán instalarse dentro de los 30 días después de la expedición de los reglamentos emitidos para tal efecto.
+
+P.O. 11 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 08 (ocho) de Julio de 2015.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente.
