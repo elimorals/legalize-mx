@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2015-03-05"
+last_updated: "2015-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,9 +27,9 @@ NOTA 1. DE CONFORMIDAD CON LA FRACCIÓN II DEL ARTICULO SEGUNDO Y PRIMERO TRANSI
 
 NOTA 2. DE CONFORMIDAD CON LOS ARTÍCULOS SEGUNDO Y TRANSITORIO PRIMERO DEL DECRETO NÚMERO 139 DE LA DECLARATORIA DE LA ENTRADA EN VIGOR DE LA ADOPCIÓN DEL SISTEMA PENAL ACUSATORIO Y ORAL, ASÍ COMO LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EN EL SEGUNDO Y TERCER DISTRITOS JUDICIALES DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 8 DE MAYO DE 2014, SE ADOPTA EL SISTEMA PENAL ACUSATORIO, EN EL SEGUNDO Y TERCER DISTRITOS JUDICIALES DEL ESTADO DE DURANGO, INTEGRADOS DE LA SIGUIENTE MANERA: SEGUNDO DISTRITO: CIUDAD LERDO COMO RESIDENCIA, COMPRENDE LOS MUNICIPIOS DE LERDO Y MAPIMÍ, EXCEPTO EN MATERIA PENAL QUE CORRESPONDE AL TERCER DISTRITO; TERCER DISTRITO: GÓMEZ PALACIO COMO RESIDENCIA; COMPRENDE EL MUNICIPIO DEL MISMO NOMBRE Y EL DE TLAHUALILO, POR LO QUE AL MISMO TIEMPO ENTRARÁ EN VIGOR EL PRESENTE ORDENAMIENTO, MISMO QUE SURTE SUS EFECTOS A PARTIR DE LAS CERO HORAS DEL DÍA 10 DE JUNIO DE 2014.
 
-NOTA 3. DE CONFORMIDAD CON LA FRACCIÓN I DEL ARTÍCULO PRIMERO, ARTÍCULOS SEGUNDO Y PRIMERO TRANSITORIO DEL DECRETO NÚMERO 326 POR EL QUE SE ADOPTA EL SISTEMA PENAL ACUSATORIO Y ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN LOS DISTRITOS JUDICIALES DEL ESTADO DE DURANGO QUE COMPRENDEN LOS SIGUIENTES MUNICIPIOS: SANTIAGO PAPASQUIARO (IV), CANATLÁN (V), EL SALTO-PUEBLO NUEVO (VI), TOPIA (VII), GUADALUPE VICTORIA (VIII), CUENCAMÉ (IX), NAZAS (X), SAN JUAN DEL RÍO (XI), SANTA MARÍA DEL ORO (XII) Y NOMBRE DE DIOS (XIII), PUBLICADO EN EL P.O. 5 DE MARZO DE 2015, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EN LOS DISTRITO JUDICIALES SEÑALADOS, A PARTIR DE LAS CERO HORAS DEL DÍA 7 DE MAYO DE 2015.
+NOTA 3. DE CONFORMIDAD CON LA FRACCIÓN I DEL ARTÍCULO PRIMERO, ARTÍCULOS SEGUNDO Y PRIMERO TRANSITORIO DEL DECRETO NÚMERO 326 POR EL QUE SE ADOPTA EL SISTEMA PENAL ACUSATORIO Y ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN LOS DISTRITOS JUDICIALES DEL ESTADO DE DURANGO Y REFORMADO MEDIANTE DECRETO NÚMERO 361 PUBLICADO EN EL P.O. DE 11 DE JUNIO DE 2015, QUEDA ABROGADO EL TÍTULO DÉCIMO PRIMERO DEL CÓDIGO PROCESAL PENAL DEL ESTADO DE DURANGO, EN LOS DISTRITOS JUDICIALES DEL ESTADO; EN EL CUARTO, QUINTO, SEXTO, SÉPTIMO, OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMER, DÉCIMO SEGUNDO Y DÉCIMO TERCER, INTEGRADOS DE LA SIGUIENTE MANERA: CUARTO DISTRITO: SANTIAGO PAPASQUIARO COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE SANTIAGO PAPASQUIARO, TEPEHUANES, GUANACEVÍ Y OTÁEZ; QUINTO DISTRITO: CANATLÁN COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE CANTATLÁN Y NUEVO IDEAL; SEXTO DISTRITO; EL SALTO COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE PUEBLO NUEVO Y SAN DIMAS CON EXCEPCIÓN DE LAS POBLACIONES DE TAYOLTITA, SAN DIMAS, RAFAEL BUELNA, GUARIZAMEY Y CARBONERAS DE ESTE ÚLTIMO MUNICIPIO; SÉPTIMO DISTRITO: TOPIA COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE TOPIA, TAMAZULA Y CANELAS; OCTAVO DISTRITO: GUADALUPE VICTORIA COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE GUADALUPE VICTORIA Y PÁNUCO DE CORONADO; NOVENO DISTRITO: CUENCAMÉ COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE CUENCAMÉ, PEÑÓN BLANCO, SANTA CLARA, SAN JUAN DE GUADALUPE Y SIMÓN BOLÍVAR; DÉCIMO DISTRITO: NAZAS COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE NAZAS, SAN LUIS DEL CORDERO Y SAN PEDRO DEL GALLO; DÉCIMO PRIMER DISTRITO: SAN JUAN DEL RÍO COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE SAN JUAN DEL RÍO, RODEO Y CONETO DE COMONFORT; DÉCIMO SEGUNDO DISTRITO: SANTA MARÍA DEL ORO COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE EL ORO, INDÉ, OCAMPO, SAN BERNARDO E HIDALGO, Y DÉCIMO TERCER DISTRITO: NOMBRE DE DIOS COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE NOMBRE DE DIOS, SÚCHIL, POANAS Y VICENTE GUERRERO, A PARTIR DE LAS CERO HORAS DEL DÍA 7 DE MAYO DE 2015.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -2111,6 +2111,8 @@ DELITOS CONTRA LA LIBERTAD Y LA SEGURIDAD SEXUALES Y EL NORMAL DESARROLLO PSICOS
 
 ### CAPÍTULO II. ABUSO SEXUAL
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2015)</small>
+
 ###### Artículo 176.
 
 A quien por medio de la violencia realice cópula con persona de cualquier sexo, se le impondrá prisión de ocho a catorce años y multa de quinientos setenta y seis a mil ocho días de salario.
@@ -2135,13 +2137,15 @@ Si se ejerciera violencia, las penas previstas se aumentarán en una mitad.
 
 ###### Artículo 178.
 
-Al que sin el consentimiento de una persona, ejecute en ella o la haga ejecutar uno o varios actos de naturaleza sexual, sin el propósito de llegar a la cópula, se le impondrá prisión de uno a tres años y multa de setenta y dos a doscientos dieciséis días de salario.
+Al que sin el consentimiento de una persona, ejecute en ella o la haga ejecutar uno o varios actos de naturaleza sexual, sin el propósito de llegar a la cópula, se le impondrá prisión de uno a cuatro años y multa de setenta y dos a doscientos dieciséis días de salario.
 
-Si se hiciera uso de violencia, la pena será de tres a cinco años de prisión y multa de doscientos dieciséis a trescientos sesenta días de salario.
+Si se hiciera uso de violencia, la pena será de tres a siete años de prisión y multa de doscientos dieciséis a trescientos sesenta días de salario.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2015)</small>
 
 ###### Artículo 179.
 
-Al que ejecute un acto sexual, sin el propósito de llegar a la cópula, en una persona menor de doce años o en persona que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirla o la obligue a ejecutarla, se le impondrán de cuatro a seis años de prisión y multa doscientos ochenta y ocho a cuatrocientos treinta y dos días de salario.
+Al que ejecute un acto sexual, sin el propósito de llegar a la cópula, en una persona menor de doce años o en persona que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirla o la obligue a ejecutarla, se le impondrán de cuatro a nueve años de prisión y multa (sic) doscientos ochenta y ocho a cuatrocientos treinta y dos días de salario.
 
 ###### Artículo 180.
 
@@ -2191,7 +2195,7 @@ A quien disponga de óvulos o esperma para fines distintos a los autorizados por
 
 ###### Artículo 184.
 
-A quien sin consentimiento de una mujer mayor de dieciocho años o aún con el consentimiento de una menor de edad o de una incapaz para comprender el significado del hecho o para resistirlo, realice en ella inseminación artificial, se le impondrán de dos a seis años de prisión y multa de ciento cuarenta y cuatro a cuatrocientos treinta y dos días de salario.
+A quien sin consentimiento de una mujer mayor de dieciocho años o aún con el consentimiento de una menor de edad de una incapaz para comprender el significado del hecho o para resistirlo, realice en ella inseminación artificial, se le impondrán de dos a seis años de prisión y multa de ciento cuarenta y cuatro a cuatrocientos treinta y dos días de salario.
 
 ###### Artículo 185.
 
@@ -2259,7 +2263,7 @@ A quien después de lesionar a una persona, culposa o fortuitamente, no le prest
 
 Al que exponga en una institución o ante cualquier otra persona a un incapaz de valerse por sí mismo, respecto del cual tenga la obligación de cuidar o se encuentre legalmente a su cargo, se le impondrá de tres meses a un año de prisión y multa de dieciocho a setenta y dos días de salario.
 
-Los ascendientes o tutores que entreguen en una casa de expósitos a un menor de doce años que esté bajo su potestad o custodia, perderán por ese sólo hecho los derechos que tengan sobre la persona y bienes del expósito.
+Los ascendientes o tutores que entreguen en una casa de expósitos a un menor: de dos años que esté bajo su potestad o custodia, perderán por ese sólo hecho los derechos que tengan sobre la persona y bienes del expósito.
 
 No se impondrá pena alguna a la madre que entregue a su hijo o hijos a otras personas para su cuidado, manutención y educación por ignorancia, extrema pobreza o por otras razones que así lo justifiquen.
 
@@ -2297,7 +2301,7 @@ V. De seis a doce años de prisión y multa de cuatrocientos treinta y dos a och
 
 Las penas señaladas en el artículo anterior, se aumentarán de tres a diez años de prisión y multa de doscientos dieciséis a setecientos veinte días de salario, si el robo se realiza en las circunstancias siguientes:
 
-I. Con violencia contra la víctima o persona distinta que se halle en compañía de ella o cuando el sujeto activo la ejerza después de consumado el robo, para proporcionarse la fuga o defender lo robado o mediante la portación o el uso de armas;
+I. Con violencia contra la víctima o persona distinta que se halle en compañía de ella o cuando el sujeto la ejerza después de consumado el robo, para proporcionarse la fuga o defender lo robado o mediante la portación o el uso de armas;
 
 II. En lugar cerrado, en edificio, vivienda, aposento o cuartos que estén habitados o destinados para habitación, comprendiendo no sólo los que están fijos en la tierra, sino también los móviles sea cual fuere el materia (sic) del que estén construidos;
 
@@ -2545,7 +2549,7 @@ XXV. Quien se coloque en estado de insolvencia, con el objeto de eludir las obli
 
 A quienes cometan el delito de fraude se les impondrán las penas siguientes:
 
-I. De seis meses a dos años de prisión o multa de treinta y seis a ciento cuarenta y cuatro días de salario, cuando el valor de lo defraudado no exceda de quince veces el salario mínimo;
+I. De seis meses a dos años de pensión (sic) o multa de treinta y seis a ciento cuarenta y cuatro días de salario, cuando el valor de lo defraudado no exceda de quince veces el salario mínimo;
 
 II. De uno a cuatro años de prisión o multa de setenta y dos a doscientos ochenta y ocho días de salario, cuando el valor de lo defraudado exceda de quince, pero no de noventa veces el salario mínimo;
 
@@ -2661,7 +2665,7 @@ DELITOS CONTRA LA SEGURIDAD PÚBLICA Y EL USO INDEBIDO DE INFORMACIÓN SOBRE ACT
 
 ###### Artículo 221.
 
-La cuantía del objeto o del producto del delito se estimará atendiendo a su valor comercial. Si el objeto o producto no fueren estimables en dinero, si por su naturaleza o por cualquier causa no fuere posible fijar su valor, se aplicará de tres meses a cinco años de prisión y multa de dieciocho a trescientos sesenta días de salario. Tratándose del delito de robo se impondrán las penas previstas en los artículos 197 y 198 del presente Código cuando se actualicen las modalidades respectivas.
+La cuantía del objeto o del producto del delito se estimará atendiendo a su valor comercial. Si el objeto o producto no fueren estimables en dinero, si por su naturaleza o por cualquier causa no fuere posible fijar su valor, se aplicará de tres meses a cinco años de prisión y multa de dieciocho a trescientos sesenta días de salario. Tratándose del delito de robo se impondrán las pena (sic) previstas en los artículos 197 y 198 del presente Código cuando se actualicen las modalidades respectivas.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2011)</small>
 
@@ -3765,7 +3769,7 @@ I. Ejerza las funciones de un cargo o comisión sin haber rendido protesta const
 
 II. Ejerza las funciones de un cargo o comisión sin satisfacer los requisitos legales;
 
-III. Ejerza las funciones de un cargo o colusión después de haber sido notificado de la suspensión, destitución o revocación de su nombramiento o después de haber renunciado, salvo que por disposición legal o reglamentaria deba continuar ejerciendo sus funciones hasta ser relevado;
+III. Ejerza las funciones de un cargo o comisión después de haber sido notificado de la suspensión, destitución o revocación de su nombramiento o después de haber renunciado, salvo que por disposición legal o reglamentaria deba continuar ejerciendo sus funciones hasta ser relevado;
 
 IV. Se atribuya funciones o comisiones distintas a las que legalmente tenga encomendadas en perjuicio de terceros o de la función pública;
 
@@ -4107,7 +4111,7 @@ La misma sanción se impondrá a quien, como intermediario de un servidor públi
 
 IX. Dictar un decreto, auto o resolución, con violación de algún precepto imperativo de la ley o manifiestamente contrario a las constancias de autos o cuando se obre indebidamente y no por simple error de opinión;
 
-X. Ejecutar actos o incurrir en omisiones que produzcan un daño o concedan si alguien una ventaja indebida;
+X. Ejecutar actos o incurrir en omisiones que produzcan un daño o concedan a alguien una ventaja indebida;
 
 XI. Admitir recursos notoriamente improcedentes, conceder términos o prórrogas indebidos;
 
@@ -4689,7 +4693,9 @@ P.O. 10 DE DICIEMBRE DE 2009.
 
 DECRETO NÚMERO 415, POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO.
 
-Artículo Primero.- El presente decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+Artículo Primero.- El presente decreto se publicará en el Periódico Oficial del
+
+Gobierno Constitucional del Estado de Durango.
 
 Artículo Segundo.- El presente decreto, entrará en vigor en el ámbito espacial y temporal de validez en la fecha que determine la declaratoria que emita el Congreso del Estado o la Comisión permanente a solicitud expresa del Tribunal Superior de Justicia del Estado.
 
@@ -4969,17 +4975,23 @@ TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente.
 
 P.O. 5 DE MARZO DE 2015.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NÚMERO 326 QUE EXPIDE LA ADOPCIÓN AL SISTEMA PENAL ACUSATORIO Y LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EN LOS DISTRITOS JUDICIALES QUE COMPRENDEN LOS SIGUIENTES MUNICIPIOS: SANTIAGO PAPASQUIARO (IV), CANATLÁN (V), EL SALTO-PUEBLO NUEVO (VI), TOPIA (VII), GUADALUPE VICTORIA (VIII), CUENCAMÉ (IX), NAZAS (X), SAN JUAN DEL RÍO (XI) .SANTA MARÍA DEL ORO (XII) y NOMBRE DE DIOS (XIII); ADEMÁS DE LA DECLARATORIA DE LA ENTRADA EN VIGOR DE LA LEY NACIONAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA PENAL, EN LOS XIII DISTRITOS JUDICIALES DEL ESTADO DE DURANGO.</small>
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NÚMERO 326 QUE EXPIDE LA ADOPCIÓN AL SISTEMA PENAL ACUSATORIO Y LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EN LOS DISTRITOS JUDICIALES QUE COMPRENDEN LOS SIGUIENTES MUNICIPIOS: SANTIAGO PAPASQUIARO (IV), CANATLÁN (V), EL SALTO-PUEBLO NUEVO (VI), TOPIA (VII), GUADALUPE VICTORIA (VIII), CUENCAMÉ (IX), NAZAS (X), SAN JUAN DEL RÍO (XI), SANTA MARÍA DEL ORO (XII) y NOMBRE DE DIOS (XIII); ADEMÁS DE LA DECLARATORIA DE LA ENTRADA EN VIGOR DE LA LEY NACIONAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS EN MATERIA PENAL, EN LOS XIII DISTRITOS JUDICIALES DEL ESTADO DE DURANGO.</small>
 
-Artículo Primero. Se adopta el Sistema Penal Acusatorio, en los distritos judiciales que comprenden los siguientes municipios de nuestra entidad: SANTIAGO PAPASQUIARO (IV), CANATLÁN (V), EL SALTO-PUEBLO NUEVO (VI), TOPIA (VII), GUADALUPE VICTORIA (VIII), CUENCAMÉ (IX), NAZAS (X), SAN JUAN DEL RÍO (XI), SANTA MARÍA DEL ORO (XII) y NOMBRE DE DIOS (XIII), por lo que al mismo tiempo entrarán en vigor los siguientes ordenamientos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2015)</small>
+
+Artículo Primero. Se adopta el Sistema Penal Acusatorio, en el Cuarto, Quinto, Sexto, Séptimo, Octavo, Noveno, Décimo, Décimo Primer, Décimo Segundo y Décimo Tercer Distritos Judiciales del Estado de Durango, integrados de la siguiente manera: Cuarto Distrito: Santiago Papasquiaro como residencia; comprende los municipios de Santiago Papasquiaro, Tepehuanes, Guanaceví y Otáez; Quinto Distrito: Canatlán como residencia; comprende los municipios de Cantatlán y Nuevo Ideal; Sexto Distrito; El Salto como residencia; comprende los municipios de Pueblo Nuevo y San Dimas con excepción de las Poblaciones de Tayoltita, San Dimas, Rafael Buelna, Guarizamey y Carboneras de este último Municipio; Séptimo Distrito: Topia como residencia; comprende los municipios de Topia, Tamazula y Canelas; Octavo Distrito: Guadalupe Victoria como residencia; comprende los municipios de Guadalupe Victoria y Pánuco de Coronado; Noveno Distrito: Cuencamé como residencia; comprende los municipios de Cuencamé, Peñón Blanco, Santa Clara, San Juan de Guadalupe y Simón Bolívar; Décimo Distrito: Nazas como residencia; comprende los municipios de Nazas, San Luis de Cordero y San Pedro del Gallo; Décimo Primer Distrito: San Juan del Río como residencia; comprende los municipios de San Juan del Río, Rodeo y Coneto de Comonfort; Décimo Segundo Distrito: Santa María del Oro como residencia; comprende los municipios de El Oro, Indé, Ocampo, San Bernardo e Hidalgo, y Décimo Tercer Distrito: Nombre de Dios como residencia; comprende los municipios de Nombre de Dios, Súchil, Poanas y Vicente Guerrero, por lo que al mismo tiempo entrarán en vigor los siguientes ordenamientos:
 
 I. Código Penal para el Estado Libre y Soberano de Durango, aprobado mediante Decreto número 284 de fecha 11 de junio de 2009, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 48 de fecha 14 de junio de 2009.
 
 II. Ley de Seguridad Pública para el Estado de Durango, relacionadas con el Sistema Procesal Penal Acusatorio, aprobadas mediante Decreto número 259 del 18 de febrero de 2009, publicadas en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 15 Bis de fecha 19 de febrero de 2009 y las reformas posteriores a la citada Ley en la materia.
 
-Artículo Segundo. Se declara la entrada en vigor del Código Nacional de Procedimientos Penales, promulgado. por el C. Licenciado Enrique Peña Nieto, Presidente de la República, y publicado en el Diario Oficial de la Federación en fecha 05 de marzo del año 2014, en los distritos judiciales que comprenden los siguientes municipios de nuestra entidad: SANTIAGO PAPASQUIARO (IV), CANATLÁN (V), EL SALTO-PUEBLO NUEVO (VI), TOPIA (VII), GUADALUPE VICTORIA (VIII), CUENCAMÉ (IX), NAZAS (X), SAN JUAN DEL RÍO (XI), SANTA MARÍA DEL ORO (XII) y NOMBRE DE DIOS (XIII).
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2015)</small>
 
-Artículo Tercero. Quedan abrogados, el Código de Procedimientos Penales para el Estado Libre y Soberano de Durango, aprobado mediante Decreto número 278, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 9 Bis, de fecha 30 de enero de 1992; el Título Décimo Primero del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto número 232, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No. 11 extraordinario, de fecha 05 de diciembre de 2008 y el Código Penal Para el Estado Libre y Soberano de Durango, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, No 35 del 29 de abril de 2004, y sus reformas posteriores; en los distritos judiciales que comprenden los siguientes municipios de nuestra entidad: SANTIAGO PAPASQUIARO (IV), CANATLÁN (V),. EL SALTO-PUEBLO NUEVO (VI), TOPIA (VII), GUADALUPE VICTORIA (VIII), CUENCAMÉ (IX), NAZAS (X), SAN JUAN DEL RÍO (XI), SANTA MARÍA DEL ORO (XII) y NOMBRE DE DIOS (XIII), sin embargo, respecto de los procedimientos penales iniciados por hechos que hayan ocurrido antes de la entrada en vigor del Código Penal para el Estado Libre y Soberano de Durango, aprobado mediante decreto 284 y el Código Nacional de Procedimientos Penales, y que se encuentren en trámite continuarán sus (sic) sustanciación hasta el final de los mismas, de conformidad con la legislación aplicable al momento del inicio de los mismos.
+Artículo Segundo. Se declara la entrada en vigor del Código Nacional de Procedimientos Penales, promulgado por el C. Licenciado Enrique Peña Nieto, Presidente de la República, y publicado en el Diario Oficial de la Federación en fecha 05 de marzo del año 2014, en el Cuarto, Quinto, Sexto, Séptimo, Octavo, Noveno, Décimo, Décimo Primer, Décimo Segundo y Décimo Tercer Distritos Judiciales del Estado de Durango, integrados de la siguiente manera: Cuarto Distrito: Santiago Papasquiaro como residencia; comprende los municipios de Santiago Papasquiaro, Tepehuanes, Guanaceví y Otáez; Quinto Distrito: Canatlán como residencia; comprende los municipios de Cantatlán y Nuevo Ideal; Sexto Distrito; El Salto como residencia; comprende los municipios de Pueblo Nuevo y San Dimas con excepción de las Poblaciones de Tayoltita, San Dimas, Rafael Buelna, Guarizamey y Carboneras de este último Municipio; Séptimo Distrito: Topia como residencia; comprende los municipios de Topia, Tamazula y Canelas; Octavo Distrito: Guadalupe Victoria como residencia; comprende los municipios de Guadalupe Victoria y Pánuco de Coronado; Noveno Distrito: Cuencamé como residencia; comprende los municipios de Cuencamé, Penón Blanco, Santa Clara, San Juan de Guadalupe y Simón Bolívar; Décimo Distrito: Nazas como residencia; comprende los municipios de Nazas, San Luis del Cordero y San Pedro del Gallo; Décimo Primer Distrito: San Juan del Río como residencia; comprende los municipios de San Juan del Río, Rodeo y Coneto de Comonfort; Décimo Segundo Distrito: Santa María del Oro como residencia; comprende los municipios de El Oro, Indé, Ocampo, San Bernardo e Hidalgo, y Décimo Tercer Distrito: Nombre de Dios como residencia; comprende los municipios de Nombre de Dios, Súchil, Poanas y Vicente Guerrero.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2015)</small>
+
+Artículo Tercero. Quedan abrogados, el Código de Procedimientos Penales para el Estado Libre y Soberano de Durango, aprobado mediante Decreto número 278, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 9 Bis, de fecha 30 de enero de 1992; el Título Décimo Primero del Código Procesal Penal del Estado de Durango, aprobado mediante Decreto número 232, y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, número 11 extraordinario, de fecha 05 de diciembre de 2008 y el Código Penal para el Estado Libre y Soberano de Durango, publicado en el Periódico Oficial del Gobierno Constitucional, número 35, del 29 de abril de 2004, y sus reformas posteriores; en el Cuarto, Quinto, Sexto, Séptimo, Octavo, Noveno, Décimo, Décimo Primer, Décimo Segundo y Décimo Tercer Distritos Judiciales del Estado de Durango, integrados de la siguiente manera: Cuarto Distrito: Santiago Papasquiaro como residencia; comprende los municipios de Santiago Papasquiaro, Tepehuanes, Guanaceví y Otáez; Quinto Distrito: Canatlán como residencia; comprende los municipios de Cantatlán y Nuevo Ideal; Sexto Distrito; El Salto como residencia; comprende los municipios de Pueblo Nuevo y San Dimas con excepción de las Poblaciones de Tayoltita, San Dimas, Rafael Buelna, Guarizamey y Carboneras de este último Municipio; Séptimo Distrito: Topia como residencia; comprende los municipios de Topia, Tamazula y Canelas; Octavo Distrito: Guadalupe Victoria como residencia; comprende los municipios de Guadalupe Victoria y Pánuco de Coronado; Noveno Distrito: Cuencamé como residencia; comprende los municipios de Cuencamé, Peñón Blanco, Santa Clara, San Juan de Guadalupe y Simón Bolívar; Décimo Distrito: Nazas como residencia; comprende los municipios de Nazas, San Luis del Cordero y San Pedro del Gallo; Décimo Primer Distrito: San Juan del Río como residencia; comprende los municipios de San Juan del Río, Rodeo y Coneto de Comonfort; Décimo Segundo Distrito: Santa María del Oro como residencia; comprende los municipios de El Oro, Indé, Ocampo, San Bernardo e Hidalgo, y Décimo Tercer Distrito: Nombre de Dios como residencia; comprende los municipios de Nombre de Dios, Súchil, Poanas y Vicente Guerrero, sin embargo, respecto de los procedimientos penales iniciados por hechos que hayan ocurrido antes de la entrada en vigor del Código Penal para el Estado Libre y Soberano de Durango, aprobado mediante decreto 284 y el Código Nacional de Procedimientos Penales, y que se encuentren en trámite continuarán su sustanciación hasta el final de los mismos, de conformidad con la legislación aplicable al momento del inicio de los mismos.
 
 Artículo Cuarto. Se declara la entrada en vigor de la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal, en la totalidad de los distritos judiciales que comprenden el Estado de Durango, de conformidad con lo establecido en la Ley Orgánica del Poder Judicial del Estado de Durango, a partir del 07 de mayo de 2015.
 
@@ -4990,3 +5002,19 @@ Primero. Publíquese el presente Decreto que contiene las Declaratorias antes al
 Segundo. Remítase para su conocimiento a las Cámaras que componen el Honorable Congreso de la Unión, a las demás legislaturas estatales y a la Asamblea Legislativa del Distrito Federal, copia de la presente Declaratoria.
 
 Tercero. Hágase del conocimiento a los habitantes de todo el Estado de Durango, la presente Declaratoria, mediante medios impresos, televisivos y electrónicos.
+
+P.O. 11 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 364, POR EL QUE SE REFORMAN LOS ARTÍCULOS 178 Y 179 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
+
+P.O. 11 DE JUNIO DE 2015.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO NÚMERO 361, QUE REFORMA AL DECRETO NÚMERO 326 POR EL QUE SE EXPIDE LA DECLARATORIA QUE ADOPTA EL SISTEMA PENAL ACUSATORIO, PUBLICADA EN EL P.O. DE 5 DE MARZO DE 2015.</small>
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
