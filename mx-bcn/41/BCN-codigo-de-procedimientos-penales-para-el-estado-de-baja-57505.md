@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-57505"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-19"
-last_updated: "2014-08-08"
+last_updated: "2015-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN LOS ARTÍCULOS PRIMERO Y SEGUNDO DE LA DECLARATORIA DE INCORPORACIÓN DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 11 DE JUNIO DE 2015, ENTRA EN VIGOR DE MANERA GRADUAL POR MUNICIPIO, Y SUS DISPOSICIONES EMPEZARÁN A REGIR EN EL MUNICIPIO DE MEXICALI BAJA CALIFORNIA, A PARTIR DEL 11 DE AGOSTO DE 2015; EN LOS MUNICIPIOS DE ENSENADA, PLAYAS DE ROSARITO, TECATE Y TIJUANA, SU VIGENCIA INICIARÁ EN LAS FECHAS QUE CONTENGAN LOS DECRETOS DE LAS DECLARATORIAS QUE EMITA EL H. CONGRESO DEL ESTADO DE BAJA CALIFORNIA; Y EN TODOS LOS CASOS, ENTRE LAS DECLARATORIAS QUE SE EXPIDAN PARA CADA MUNICIPIO Y LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES DEBERÁN MEDIAR SESENTA DÍAS NATURALES; EN CUANTO A LOS DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO DE COMPETENCIA ESTATAL QUE SE SEÑALA EN EL CAPÍTULO VII DEL TÍTULO XVIII DE LA LEY GENERAL DE SALUD, SERÁ APLICABLE EL CÓDIGO DE PROCEDIMIENTOS PENALES PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE FECHA 20 DE AGOSTO DE 1989, HASTA LA FECHA INDICADA EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2015.
 
 Código publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -1877,7 +1879,7 @@ a) Arraigo en la localidad donde será juzgado, determinado por el domicilio, re
 
 b) La importancia del daño que debe ser resarcido;
 
-c) El comportamiento del imputado durante el proceso o en otro anterior, en la medida que indique su voluntad de someterse o no a proceso; y (sic)
+c) El comportamiento del imputado durante el proceso o en otro anterior, en la medida que indique su voluntad de someterse o no a proceso; y
 
 d) La posible pena o medida de seguridad a imponer;
 
@@ -5000,3 +5002,21 @@ P.O. 8 DE AGOSTO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- A efecto de dar continuidad a los trabajos de armonización e implementación en el Estado, del sistema procesal penal acusatorio, los servidores públicos que en la actualidad integran la Comisión Interinstitucional derivada del Código de Procedimientos Penales publicado el 19 de Octubre del 2007 y que fueron respectivamente designados para tal efecto por el Congreso del Estado y el Tribunal Superior de Justicia, serán los mismos que integren la Comisión Interinstitucional de Implementación del Código Nacional de Procedimientos Penales, hasta en tanto no sean revocadas sus designaciones.
+
+P.O. 11 DE JUNIO DE 2015.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO NÚMERO 288 QUE EXPIDE LA DECLARATORIA DE INCORPORACIÓN DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE BAJA CALIFORNIA.</small>
+
+PRIMERO.- Para los efectos señalados en el artículo segundo transitorio del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 5 de marzo de 2014, se DECLARA que el Estado de Baja California incorpora a su régimen jurídico el Código Nacional de Procedimientos Penales que entrará en vigor de manera gradual por Municipio, y de acuerdo con las siguientes prevenciones:
+
+I.- Sus disposiciones empezarán a regir en el municipio de Mexicali Baja California, a partir del 11 de agosto de 2015.
+
+II.- En los municipios de Ensenada, Playas de Rosarito, Tecate y Tijuana, su vigencia iniciará en las fechas que contengan los Decretos de las Declaratorias respectivas que de igual manera, y en cada caso, emita el H. Congreso del Estado de Baja California.
+
+III.- En todos los casos, entre las Declaratorias que se expidan para cada Municipio y la entrada en vigor del Código Nacional de Procedimientos Penales deberán mediar sesenta días naturales.
+
+SEGUNDO.- en cuanto a los delitos contra la salud en su modalidad de narcomenudeo de competencia estatal que se señala en el capítulo VII del Título XVIII de la ley General de Salud, será aplicable el Código de Procedimientos Penales publicado en el periódico Oficial del Estado de fecha 20 de agosto de 1989, hasta la fecha indicada en el Artículo Segundo Transitorio del Código Nacional de Procedimientos Penales.
+
+> <small>N. DE E. SE TRANSCRIBE EL ARTÍCULO TRANSITORIO DEL DECRETO NÚMERO 288 QUE EXPIDE LA DECLARATORIA DE INCORPORACIÓN DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE BAJA CALIFORNIA.</small>
+
+ÚNICO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
