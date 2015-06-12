@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-a-los-animales-domesticos-del-estado-de-21669
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-08"
-last_updated: "2015-05-22"
+last_updated: "2015-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 8 de diciembre de 1997.
 
@@ -47,7 +47,9 @@ I.- Evitar el deterioro de las especies animales domésticas;
 
 II.- Proteger y regular la vida y el crecimiento natural de estos animales;
 
-III.- Favorecer el aprovechamiento y uso racional de los animales, así como el trato compasivo con los mismos;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
+
+III.- Favorecer el Aprovechamiento y uso racional de los animales, promover medidas para su adopción así como el trato compasivo con los mismos;
 
 IV.- Erradicar y sancionar el maltrato y los actos de crueldad para con los animales que acompañan, alimentan y ayudan al hombre;
 
@@ -173,31 +175,25 @@ Las actividades de cría de animales deberán desarrollarse en instalaciones o p
 
 ### CAPITULO IV. DE LOS ANIMALES PARA EXHIBICION O ESPECTACULOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 17.
 
-Todo propietario, poseedor o encargado de animales para exhibición o espectáculos deberá contar con las autorizaciones correspondientes.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE OCTUBRE DE 2013)</small>
-
-Las exhibiciones o espectáculos con animales deberán realizarse en condiciones adecuadas que garanticen un trato digno a las especies animales así como el respeto y cumplimiento de las normas en materia de higiene, seguridad y protección civil que establezcan las normas jurídicas correspondientes así como las normas oficiales mexicanas.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE OCTUBRE DE 2013)</small>
-
-Todos los animales que por su naturaleza representen un riesgo o peligro para el público, deberán estar encerrados en jaulas seguras y diseñadas conforme a las características de cada especie, y en su caso, de ser necesario, serán sujetados adicionalmente por cadenas que permitan proteger la vida e integridad de las personas durante la exhibición o espectáculo.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE OCTUBRE DE 2013)</small>
-
-Los propietarios o poseedores de los animales referidos en el párrafo anterior, además del permiso, autorización o anuencia que establecen las autoridades municipales correspondientes, deberán dar aviso del ingreso al Estado y Municipio de que se trate respecto de animales para exhibición o espectáculos a las autoridades en materia de protección civil describiendo las condiciones generales de cada animal así actividades (sic) de traslado de animales para exhibición, espectáculos públicos o privados. Las autoridades en materia de protección civil, vigilarán y supervisarán de manera subsidiaria que se cuente con las medidas de seguridad civil correspondientes, y en su caso, ejercerán las acciones preventivas para evitar riesgos o peligros a la población, debiendo en todo caso motivar y fundar sus determinaciones.
+Queda prohibido en el Estado el establecimiento de espectáculos circenses públicos o privados, fijos o itinerantes, en los que se utilicen animales vivos, sea cual sea su especie.
 
 ###### ARTICULO 18.
 
 Será obligación de los responsables de animales que se encuentren en exhibición, procurar que exista entre la jaula y el público una distancia precisada a través de una valla de protección, cerca o tubular, que les proporcione seguridad a los asistentes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
 ###### ARTICULO 19.
 
-Los dueños o responsables de los centros de espectáculos, que intencionalmente o por negligencia contribuyan a que sus animales en exhibición o durante su actuación causen daños y perjuicios al público, serán sancionados en los términos del reglamento respectivo y sin perjuicio de lo que impongan las leyes aplicables en esta materia.
+Los dueños o responsables de los espectáculos circenses que infrinjan el presente ordenamiento, serán sancionados en los términos del reglamento respectivo y sin perjuicio de lo que impongan las leyes aplicables en esta materia.
 
 ###### ARTICULO 20.
 
@@ -371,7 +367,9 @@ La captura por motivos de salud pública, de perros y otros animales que deambul
 
 Un animal capturado podrá ser reclamado por su dueño dentro de 72 horas siguientes, exhibiéndose el correspondiente documento de propiedad o acreditando la posesión.
 
-En caso de que el animal no sea reclamado a tiempo por su dueño, las autoridades podrán sacrificarlo, empleando para ello los métodos que se describen en el artículo 43 de esta ley, quedando expresamente prohibido el proceder a ello por medio de golpes o ahorcamiento, así como el uso de ácidos corrosivos, estricnina, warfarina, cianuro, arsénico, cloruro de potasio u otras sustancias similares.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
+En caso de que el animal no sea reclamado a tiempo por su dueño, las autoridades privilegiarán la promoción de medidas necesarias para su adopción; en caso de no llevarse a cabo dicha adopción en un lapso pertinente, podrán sacrificarlo, empleando para ello los métodos que se describen en el artículo 43 de esta ley, quedando expresamente prohibido el proceder a ello por medio de golpes o ahorcamiento, así como el uso de ácidos corrosivos, estricnina, warfarina, cianuro, arsénico, cloruro de potasio u otras sustancias similares.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE MAYO DE 2015)</small>
 
@@ -580,3 +578,17 @@ CUARTO.- Las autoridades municipales tendrán hasta un año, contado a partir de
 QUINTO.- Respecto al costo del servicio al que se refiere el Artículo 52 de esta Ley, los Ayuntamientos del Estado de Baja California deberán realizar las adecuaciones conducentes a sus respectivas Leyes de Ingresos, a efecto de la correcta aplicación de la presente reforma.
 
 SEXTO.- Se derogan todas aquellas disposiciones contrarias a las presentes reformas.
+
+P.O. 12 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 251, POR EL QUE SE APRUEBA LA REFORMA A LOS ARTÍCULOS 17 Y 19 DE LA LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día 08 de julio del año 2015.
+
+SEGUNDO.- Los Municipios del Estado, a través de sus Ayuntamientos, emitirán las disposiciones reglamentarias correspondientes en un término que no exceda de 180 días naturales, computados a partir de la fecha en que entre en vigor las presentes reformas.
+
+P.O. 12 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 254, POR EL QUE SE APRUEBA LA REFORMA A LOS ARTÍCULOS 1 Y 48 DE LA LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
