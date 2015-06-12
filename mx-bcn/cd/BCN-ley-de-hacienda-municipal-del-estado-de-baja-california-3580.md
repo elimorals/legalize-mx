@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "2014-08-01"
+last_updated: "2015-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -599,6 +599,10 @@ Los derechos se causarán y pagarán de conformidad con las tasas, cuotas y tari
 
 Los derechos se causan en el momento en que se presten los servicios, o en la forma que determinen las Leyes de Ingresos de los Municipios.
 
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2015)</small>
+
+Las Leyes de Ingresos de los Municipios, establecerán la exención al 100% del cobro de derechos, de la primera copia certificada del acta de nacimiento que expidan las oficialías del registro civil en los ayuntamientos del Estado.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1967)</small>
 
 ###### ARTICULO 74.
@@ -926,6 +930,44 @@ XI.- Construcción, reconstrucción, ampliación y translación de casas.
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2012)</small>
 
 XII.- Construcción incluyendo la apertura de hoyos y zanjas en inmuebles propiedad de particulares o en inmuebles de dominio público para la instalación de estructuras y/o mástil de antenas de telefonía móvil o fija de hasta 30 metros de altura, equipos, instrumentos o elementos necesarios para la prestación de servicios de telefonía móvil y fija, incluyendo líneas ocultas o visibles, así como televisión por cable, internet, gas y otros servicios similares prestados por empresas privadas.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JUNIO DE 2015)</small>
+
+XIII.- Canalización de instalaciones subterráneas, tales como cable conductor, fibra óptica, tuberías; instalación de casetas telefónicas y postes o similar.
+
+Los derechos a que hace referencia la presente fracción se determinarán de acuerdo a las siguientes cuotas o tarifas:
+
+Se calcularán, determinarán y cubrirán por los sujetos obligados en veces el salario mínimo diario vigente para el Estado de Baja California.
+
+Por construcción de tuberías, tendido de cables, fibras ópticas o similares y conducciones aéreas de uso público y privado, sean eléctricas, telefónicas, telecomunicaciones, de transportación de gas domiciliario o industrial y otros, pagará por metro lineal:
+
+a) Líneas aéreas 0.9
+
+b) Líneas subterráneas 0.10
+
+c) Casetas telefónicas 1.21
+
+d) Instalación de postes o similar en la vía pública 1.21
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JUNIO DE 2015)</small>
+
+XIV.- Establecimiento de instalación de mobiliario urbano y publicitario en la vía pública.
+
+Los Derechos por establecimiento de Instalación de mobiliario urbano y publicitario en la vía pública, se determinará de acuerdo a las cuotas o tarifas siguientes:
+
+Por la autorización para la construcción y/o instalación de anuncios, se pagarán las siguientes cuotas anuales calculadas en veces salario mínimo diario vigente para el Estado de Baja California:
+
+a) Unipolar espectacular 130
+
+b) Espectacular en azotea 87
+
+c) Unipolar mediano sobre poste 65
+
+d) Mediano en azotea 55
+
+e) Unipolar pequeño 35
+
+f) Electrónicos adicional 36
 
 ###### ARTICULO 78.
 
@@ -2444,3 +2486,25 @@ Túrnese las presentes Reformas de Ley al Titular del Poder Ejecutivo del Estado
 P.O. 1 DE AGOSTO DE 2014.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 255, POR EL QUE REFORMA EL ARTÍCULO 77 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Las disposiciones previstas en la presente ley, sólo serán aplicables al ejercicio de las facultades de comprobación de las autoridades fiscales, que se inicien a partir de la entrada en vigor del mismo.
+
+TERCERO.- Las autoridades fiscales estarán obligadas a realizar una campaña de difusión de las nuevas disposiciones contenidas en la presente ley.
+
+CUARTO.- Las autoridades fiscales estarán obligadas a ejercer sus facultades de comprobación una vez que entre en vigor el presente decreto.
+
+QUINTO.- El Ayuntamiento queda facultado para realizar la contratación de los servicios necesarios para determinar los créditos fiscales que correspondan derivado de la aplicación de estos derechos.
+
+SEXTO.- Los Ayuntamientos del Estado de Baja California deberán realizar las adecuaciones conducentes a sus respectivas Leyes de Ingresos, a efecto de la correcta aplicación de la presente reforma.
+
+P.O. 12 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 258, POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 73 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
