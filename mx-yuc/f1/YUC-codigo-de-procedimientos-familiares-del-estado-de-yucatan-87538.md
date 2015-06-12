@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-procedimientos-familiares-del-estado-de-yucatan-87538
 country: "mx"
 rank: "codigo"
 publication_date: "2012-04-30"
-last_updated: "2012-04-30"
+last_updated: "2015-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87538&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE JUNIO DE 2015.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 30 de abril de 2012.
 
@@ -715,6 +715,10 @@ En todo caso debe proteger y hacer respetar el derecho de convivencia entre los 
 
 La protección de los miembros de la familia, en especial la de niñas, niños, adolescentes e incapaces, debe incluir las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar.
 
+> <small>(ADICIONADO, D.O. 12 DE JUNIO DE 2015)</small>
+
+El juez ponderará la pertinencia de la participación de niñas, niños y adolescentes en las audiencias, comparecencias y demás diligencias, considerando su edad, madurez, estado psicológico, así como cualquier otra condición específica. En los asuntos en que intervengan niñas, niños o adolescentes, deberán estar acompañados de quien ejerza la patria potestad, tutela, guarda o custodia durante todo el procedimiento, salvo disposición judicial en contrario. No obstante, el juez procurará que se mantengan apartados de los adultos que puedan influir en su comportamiento o estabilidad emocional, antes y durante la realización de la audiencia, comparecencia o diligencia de que se trate y destinará espacios lúdicos de descanso y aseo para estos. Asimismo, procurará que su participación sea breve, con pleno respeto a su intimidad y vigilará que se respeten los derechos establecidos en el artículo 86 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
 Medidas que puede dictar el juez para proteger a los miembros de la familia
 
 ###### Artículo 80.
@@ -725,9 +729,17 @@ I. Ordenar la salida del cónyuge, concubina, concubinario, o persona que genere
 
 II. Ordenar su reintegración al mismo, así como la restitución de sus bienes personales que se encontraban en el mismo, en caso de que las partes interesadas se hayan visto obligadas a retirarse de su domicilio;
 
-III. Prohibir al cónyuge, concubina, concubinario, o persona que genere la violencia familiar de ir a lugar determinado, tal como el domicilio o el lugar donde trabajan o estudian los agraviados, y
+> <small>(REFORMADA, D.O. 12 DE JUNIO DE 2015)</small>
 
-IV. Informar a la autoridad competente sobre las medidas tomadas, a fin de que presten atención inmediata a las personas afectadas, en caso de que lo soliciten.
+III. Prohibir al cónyuge, concubina, concubinario, o persona que genere la violencia familiar de ir a lugar determinado, tal como el domicilio o el lugar donde trabajan o estudian los agraviados;
+
+> <small>(REFORMADA, D.O. 12 DE JUNIO DE 2015)</small>
+
+IV. Informar a la autoridad competente sobre las medidas tomadas, a fin de que presten atención inmediata a las personas afectadas, en caso de que lo soliciten, y
+
+> <small>(ADICIONADA, D.O. 12 DE JUNIO DE 2015)</small>
+
+V. Requerir a las empresas de prestación servicios en materia de medios electrónicos que realicen las acciones necesarias para suspender o bloquear las cuentas de usuarios, a fin de evitar la difusión de información, imágenes, sonidos o datos que puedan contravenir el interés superior de la niñez.
 
 Facultades de los juzgadores para mantener el orden
 
@@ -6386,3 +6398,51 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 12 DE JUNIO DE 2015.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, sin perjuicio de lo dispuesto en el artículo transitorio segundo.
+
+Segundo. Régimen de vigencia especial
+
+Las derogaciones de los artículos 67, 88 y 144 del Código de Familia para el Estado de Yucatán entrarán en vigor a los dos años contados a partir de la publicación de este decreto en el Diario Oficial del Gobierno del Estado de Yucatán. La reforma del artículo 7 de la Ley de Justicia para Adolescentes del Estado de Yucatán entrará en vigor el mismo día que lo haga el Código Nacional de Procedimientos Penales.
+
+Tercero. Abrogación
+
+Se abrogan la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el 8 de agosto de 2008.
+
+Cuarto. Expedición del programa
+
+El Gobernador deberá expedir el Programa Especial de Protección de Niñas, Niños y Adolescentes dentro de un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de este decreto.
+
+Quinto. Instalación del consejo
+
+El Consejo de Protección Integral de los Derechos Niñas, Niños y Adolescentes del Estado de Yucatán deberá instalarse dentro de un plazo de noventa días naturales contados a partir de la entrada en vigor de este decreto.
+
+Sexto. Expedición de reglamento interno
+
+El Consejo de Protección Integral de los Derechos Niñas, Niños y Adolescentes del Estado de Yucatán deberá expedir su reglamento interno dentro de un plazo de noventa días naturales contados a partir de su instalación.
+
+Séptimo. Modificación de regulación interna de la Prodemefa
+
+La Procuraduría de la Defensa del Menor y la Familia deberá adecuar su regulación interna en materia de procedimientos de adopción en los términos de lo dispuesto por este decreto dentro de un plazo de noventa días naturales contados a partir de su entrada en vigor.
+
+Octavo. Modificación de regulación interna de la Codhey
+
+La Comisión de Derechos Humanos del Estado de Yucatán deberá adecuar su regulación interna para establecer una unidad administrativa especializada en materia de niñas, niños y adolescentes, en los términos de lo dispuesto por el artículo 140 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+Noveno. Nombramiento del secretario ejecutivo
+
+El Gobernador deberá nombrar al Secretario Ejecutivo del Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán dentro de un plazo de treinta días naturales contados a partir de la entrada en vigor de este decreto.
+
+Décimo. Matrimonios entre adolescentes
+
+Los matrimonios entre adolescentes celebrados antes de la entrada en vigor de este decreto en los términos de los artículos que se derogan del Código de Familia para el Estado de Yucatán serán válidos para todos los efectos legales.
+
+Décimo primero. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
