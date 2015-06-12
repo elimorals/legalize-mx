@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2015-05-29"
+last_updated: "2015-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -2483,6 +2483,10 @@ En el caso de las personas indigentes mayores de 60 años, personas viudas en si
 
 Para los efectos de las contribuciones de mejoras, se estará a lo dispuesto en el artículo 9 de la Ley de Urbanización del Estado de Baja California.
 
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2015)</small>
+
+ARTÍCULO 174 BIS.- En el caso de las actas de nacimiento, estará exento al 100% del cobro de derechos, la expedición de la primera copia certificada del acta de registro de nacimiento.
+
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
 ###### ARTICULO 175.
@@ -3208,3 +3212,7 @@ SÉPTIMO.- Las garantías otorgadas por los notarios con anterioridad a la entra
 OCTAVO.- Dentro del mes siguiente a la publicación del presente Decreto, la Dirección del Archivo General de Notarías programará la entrega por parte de los Notarios, de los volúmenes de su protocolo y apéndices que se encuentren en el supuesto contenido en el artículo 99 de esta reforma. La Dirección del Archivo General de Notarías, mediante oficio notificará a los Notarios de la obligación de entregar los volúmenes, conforme a la programación que emita, lo que deberá cumplimentarse a más tardar un año a partir de la vigencia del presente Decreto.
 
 NOVENO.- A los Notarios que se les haya expedido la patente respectiva con anterioridad a la entrada en vigor de las presentes reformas única y exclusivamente, no les será aplicable el plazo de vigencia de patentes, a que se refieren los artículos 53 Bis y 56 del presente Decreto.
+
+P.O. 12 DE JUNIO DE 2015.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
