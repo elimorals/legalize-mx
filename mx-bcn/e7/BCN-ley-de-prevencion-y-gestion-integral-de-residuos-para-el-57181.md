@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-prevencion-y-gestion-integral-de-residuos-para-el-57181"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-28"
-last_updated: "2011-12-02"
+last_updated: "2015-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 28 de septiembre de 2007.
 
@@ -237,13 +237,17 @@ XII. Identificar, dentro de los residuos de su competencia, aquéllos que deben 
 
 XIII. Elaborar el inventario de sitios contaminados con residuos sólidos urbanos,
 
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
 
-XIV. Realizar la recolección de las llantas o neumáticos de desecho que se encuentren en la vía pública, en terrenos baldíos y/o en construcciones deshabitadas, en canales en uso o desuso así como en drenes en uso o desuso con el fin de transportarlas a los centros de acopio, manejo, tratamiento, reciclaje y confinamiento de residuos previamente establecidos o a los organismos no gubernamentales con los cuales la Secretaría hubiese firmado convenio para tal efecto, y
+XIV.- Exigir las garantías que sean necesarias con el fin de asegurar la correcta operación de los rellenos sanitarios de residuos sólidos urbanos, así como para asegurar el cumplimiento de las obligaciones relacionadas con su clausura;
 
-> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
 
-XV. Aplicar conforme a la normatividad municipal correspondiente las sanciones a las personas que sean sorprendidas tirando llantas o neumáticos en la vía pública, en terrenos baldíos y/o en construcciones deshabitadas, en canales en uso o desuso y en drenes en uso o desuso, de acuerdo a las disposiciones que para tal efecto se establezcan en el Reglamento para la Preservación del Aseo Público vigente en cada uno de los Municipios.
+XV.- Realizar la recolección de llantas o neumáticos de desecho que se encuentren en la vía pública, en terrenos baldíos y/o en construcciones deshabitadas, en canales de uso o desuso así como en drenes de uso o desuso con el fin de transportarlas a los centros de acopio, manejo, tratamiento, reciclaje y confinamiento de residuos previamente establecidos o a los organismos no gubernamentales con los cuales la Secretaría hubiese firmado convenio para tal efecto; y
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2015)</small>
+
+XVI.- Aplicar conforme a la normatividad municipal correspondiente las sanciones a las personas que sean sorprendidas tirando llantas o neumáticos en la vía pública, en terrenos baldíos y/o en construcciones deshabitadas, en canales de uso o desuso y en drenes de uso o desuso, de acuerdo a las disposiciones que para tal efecto se establezcan en el Reglamento para la Preservación de Aseo Público vigente en cada uno de los Municipios.
 
 ## TÍTULO SEGUNDO. INSTRUMENTOS DE LA POLÍTICA DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS
 
@@ -313,7 +317,7 @@ III. La eficiencia administrativa, a través del consumo racional y sustentable 
 
 Asimismo, promoverán que en sus procesos de adquisiciones de bienes para la prestación de sus servicios y cumplimiento de sus funciones, se opte por la utilización y el consumo de productos compuestos total o parcialmente de materiales valorizables.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO IV. DE LOS PLANES DE MANEJO
 
@@ -583,7 +587,7 @@ III. Evitar su vertimiento al suelo, y
 
 IV. Las demás que establezca el reglamento de la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 14.
 
@@ -739,7 +743,7 @@ III. En caso de quemas de material orgánico agrícola, que no incluya plástico
 
 Para los efectos de esta fracción, la quema debe realizarse mediante recomendación de alguna autoridad forestal, agraria o pecuaria y deberá llevarse a cabo dentro de un horario en que la dispersión del aire sea favorable.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO IV. DE LAS AUTORIZACIONES
 
@@ -915,7 +919,7 @@ La Secretaría en coordinación con los Ayuntamientos, de conformidad con el Pro
 
 ### CAPÍTULO ÚNICO. DE LA REMEDIACIÓN DEL SUELO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. DE 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. DE 22 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 26.
 
@@ -927,7 +931,7 @@ Cuando la generación, manejo y disposición final de estos residuos produzca co
 
 l. Llevar a cabo las acciones necesarias para remediar el sitio, de acuerdo a lo establecido en las disposiciones jurídicas aplicables;
 
-II. En su caso, indemnizar los daños causados a terceros de conformidad con la legislación aplicable; y (sic)
+II. En su caso, indemnizar los daños causados a terceros de conformidad con la legislación aplicable; y
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2010)</small>
 
@@ -945,7 +949,7 @@ I. Las alternativas de solución en caso de afectación al ambiente y a los recu
 
 II. Las alternativas del programa de remediación y sus diversos efectos, tanto positivos como negativos, en el ambiente y recursos naturales; así como lo previsto conforme al reglamento de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 27.
 
@@ -963,7 +967,7 @@ IV. Los procedimientos para llevar a cabo su remediación, cuando sea el caso.
 
 Lo anterior de conformidad con la forma y términos previstos en el reglamento de esta Ley.
 
-> <small>(REFORMADO [N. DE E. ADICONADO], P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE OCTUBRE DE 2010)</small>
 
 Para la remediación de los sitios contaminados como resultado del depósito de residuos por parte de las autoridades municipales, se podrá recurrir al Fondo Ambiental, al cual hace referencia el artículo 39 de la Ley Ambiental y proceder a su aprovechamiento de conformidad con los programas de ordenamiento ecológico del territorio y los usos autorizados del suelo.
 
@@ -1035,7 +1039,7 @@ Cuando la autoridad ordene alguna de las medidas de seguridad previstas en esta 
 
 ### CAPÍTULO III. DE LAS SANCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 31.
 
@@ -1077,19 +1081,19 @@ b) En casos de reincidencia cuando las infracciones generen efectos negativos al
 
 c) Se trate de desobediencia reiterada, en tres o más ocasiones, al cumplimiento de alguna o algunas medidas correctivas o de urgente aplicación impuestas por la autoridad.
 
-> <small>(REFORMADO [N. DE E. ADICONADO], P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE OCTUBRE DE 2010)</small>
 
 d) Se realicen proyectos, obras y actividades sin contar con la autorización correspondiente, de conformidad con esta Ley;
 
-> <small>(REFORMADA [N. DE E. ADICONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
 
 V. Suspensión y revocación de licencias, permisos o autorizaciones, y
 
-> <small>(REFORMADA [N. DE E. ADICONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2010)</small>
 
 VI. La remediación de sitios contaminados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 33.
 
@@ -1185,7 +1189,7 @@ SECRETARIO GENERAL DE GOBIERNO.
 
 BERNARDO H. MARTINEZ AGUIRRE.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE OCTUBRE DE 2010.
 
@@ -1195,10 +1199,14 @@ SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán expedir y, en su cas
 
 TERCERO.- Los procedimientos administrativos, recursos administrativos y asuntos relacionados que se encuentren en trámite al momento de la entrada en vigor del presente Decreto, se resolverán en los términos de la Ley vigente con anterioridad al mismo.
 
-CUARTO.- Los responsables de elaborar los planes de manejo contarán con un plazo de tres meses, a partir de la entrada en vigor del presente Decreto, para presentarlos a las autoridades competentes de su autorización" (sic).
+CUARTO.- Los responsables de elaborar los planes de manejo contarán con un plazo de tres meses, a partir de la entrada en vigor del presente Decreto, para presentarlos a las autoridades competentes de su autorización".
 
 P.O. 2 DE DICIEMBRE DE 2011.
 
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado.
 
 SEGUNDO.- Los Municipios del Estado de Baja California, deberán adoptar o adecuar en un plazo no mayor de 90 días, el Reglamento para la Preservación del Aseo Público vigente, para la aplicación de la Operatividad que se le está atribuyendo en la fracción XV del artículo 6 de la Ley de Prevención y Gestión Integral de Residuos para el Estado de Baja California.
+
+P.O. 12 DE JUNIO DE 2015.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
