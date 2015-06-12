@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2015-04-10"
+last_updated: "2015-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -71,9 +71,9 @@ La duración de las campañas será de sesenta a noventa días para la elección
 
 Durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes del estado, como de los municipios, entidades paraestatales, organismos constitucionales autónomos y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
-El proceso electoral dará inicio el último domingo del mes de septiembre del año anterior a la elección. La jornada electoral para elecciones ordinarias deberá celebrarse el primer domingo de junio del año que corresponda.
+El proceso electoral dará inicio el segundo domingo del mes de septiembre del año anterior a la elección. La jornada electoral para elecciones ordinarias deberá celebrarse el primer domingo de junio del año que corresponda.
 
 La Ley establecerá los supuestos, condiciones y reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación.
 
@@ -95,9 +95,9 @@ Los partidos políticos tienen como fin promover la participación del pueblo en
 
 En los términos de las leyes electorales, los partidos políticos tienen el derecho para solicitar el registro de candidatos a cargos de elección popular, y podrán hacerlo de manera unipartidista o mediante las figuras de coaliciones totales, parciales o flexibles.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
-Los partidos políticos deberán garantizar las reglas para cumplir con la paridad entre los géneros en candidaturas a diputados, tanto propietarios como suplentes.
+Los partidos políticos deberán garantizar las reglas para cumplir con la paridad entre los géneros en candidaturas a diputados y en planillas de candidatos a munícipes en cada Ayuntamiento, tanto propietarios como suplentes.
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -503,9 +503,17 @@ II.- Por responsabilidad penal, mediante la declaración de procedencia;
 
 III.- Por la incapacidad total y permanente para ejercer el cargo; que será declarada por autoridad judicial y ratificada por el Congreso del Estado.
 
-IV.- De conformidad a lo dispuesto en la fracción I del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, corresponde al Congreso del Estado, la Revocación del Mandato y separación definitiva de un Munícipe, por causa grave que determine la Ley, y a petición del Ayuntamiento correspondiente, siempre y cuando el afectado haya tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
+
+IV.- De conformidad con lo dispuesto en la fracción I, del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, corresponde al Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, suspender o revocar el mandato de alguno de los miembros de los ayuntamientos por causa grave que determine la Ley, siempre y cuando el afectado haya tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
 V.- En los casos en que lo acuerde o solicite la Suprema Corte de Justicia de la Nación, conforme a las disposiciones aplicables.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO NÚMERO 289, PUBLICADO EN EL P.O. 12 DE JUNIO DE 2015, LA PRESENTE FRACCIÓN INICIA SU VIGENCIA EL PRIMERO DE AGOSTO DE 2021.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JUNIO DE 2015)</small>
+
+VI.- Tratándose de Diputados, la revocación de mandato procederá mediante sufragio universal que emitan los ciudadanos, en términos de las disposiciones que resulten aplicables.
 
 ## TITULO TERCERO
 
@@ -520,6 +528,12 @@ El ejercicio del Poder Legislativo se deposita en una Asamblea de representantes
 ###### ARTICULO 14.
 
 El Congreso del Estado estará integrado por Diputados que se elegirán cada tres años; electos mediante sufragio universal, libre, secreto, directo, personal e intransferible; diecisiete serán electos en forma directa mediante el principio de mayoría relativa, uno por cada Distrito Electoral en que se divida el territorio del Estado, y en su caso, hasta ocho Diputados electos por el principio de representación proporcional en una circunscripción estatal. Por cada Diputado Propietario se elegirá un Suplente.
+
+(NOTA: EL 3 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 42/2015 Y SUS ACUMULADAS 43/2015 Y 44/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2015)</small>
+
+CADA MUNICIPIO QUE INTEGRA EL ESTADO, DEBERÁ TENER POR LO MENOS UN DISTRITO ELECTORAL EN SU DEMARCACIÓN TERRITORIAL.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
@@ -547,13 +561,15 @@ a).- Participar con candidatos a Diputados por el principio de mayoría relativa
 
 b).- Haber obtenido por lo menos el tres por ciento de la votación válida emitida en la elección de Diputados por el principio de representación proporcional, y
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
-c).- Haber obtenido el registro de la lista de dos candidatos a Diputados por el principio de representación proporcional. Este requisito solo será exigible a los partidos políticos que participen en coalición;
+c) Haber obtenido el registro de la lista de cuatro candidatos a Diputados por el principio de representación proporcional. Corresponde a cada partido político o coalición, en su caso, determinar si la primera asignación que le corresponda por este principio, será con base en la lista registrada o por porcentaje de votación válida, especificándolo en el periodo de registro de la lista de candidatos o en su caso, en el convenio de coalición, ante el Instituto Estatal Electoral.
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2015)</small>
 
-II.- El Instituto Estatal Electoral una vez verificados los requisitos de la fracción anterior, asignará un Diputado a cada partido político que tenga derecho a ello. Esta primera asignación corresponderá a los candidatos a diputados que tengan mayor porcentaje de votación valida en el distrito y que no hayan obtenido constancia de mayoría.
+II.- El Instituto Estatal Electoral una vez verificados los requisitos de la fracción anterior, asignará un Diputado a cada partido político que tenga derecho a ello. Esta primera asignación corresponderá a los candidatos a diputados de las listas previamente registradas ante la autoridad electoral o los que tengan mayor porcentaje de votación válida en el distrito y que no hayan obtenido constancia de mayoría.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 En caso de que el número de partidos políticos sea mayor que el de diputaciones por asignar, éstas se otorgarán a los que tengan mayor porcentaje en orden descendente hasta agotarse;
 
@@ -623,9 +639,9 @@ I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos e 
 
 Aquellos ciudadanos candidatos a Diputados Propietarios o Suplentes, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con certificado que expida en su caso, la Secretaría de Relaciones Exteriores, conforme a la Ley de Nacionalidad vigente a la fecha de la expedición del certificado.
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
 
-II.- Tener 21 años cumplidos el día de la elección; y
+II.- Tener 18 años de edad.
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
@@ -905,9 +921,11 @@ XXXVII.- Citar a los Secretarios del ramo, Procurador de Justicia del Estado, Ti
 
 Los funcionarios a que se refiere el párrafo anterior, estarán obligados a acudir a las sesiones correspondientes; así como a dar respuesta formal, atendiendo a los puntos de acuerdo o exhortos remitidos por el Congreso, en un plazo prudente que no exceda de 30 días naturales.
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL DECRETO NÚMERO 289, PUBLICADO EN EL P.O. 12 DE JUNIO DE 2015, LA PRESENTE FRACCIÓN INICIA SU VIGENCIA EL PRIMERO DE NOVIEMBRE DE 2021.</small>
 
-XXXVIII.- Examinar y opinar el Plan de Desarrollo del Estado que le remita el Ejecutivo;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
+
+XXXVIII.- Examinar y en su caso aprobar el Plan Estatal de Desarrollo que le remita el Ejecutivo;
 
 > <small>(REFORMADA, P.O. 10 DE ABRIL DE 2015)</small>
 
@@ -941,9 +959,9 @@ IV.- A los Ayuntamientos.
 
 V.- Al Instituto Estatal Electoral exclusivamente en materia electoral, y
 
-> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
 
-VI.- A los ciudadanos residentes en el Estado, en los términos que establezca la Ley.
+VI.- A los ciudadanos residentes en el Estado, a las Organizaciones de la Sociedad Civil del Estado en los asuntos relativos al objeto para el cual fueron constituidas y a las Instituciones de Educación Superior del Estado en los términos que establezca la Ley.
 
 ###### ARTICULO 29.
 
@@ -1511,9 +1529,9 @@ Si el Congreso resuelve la no ratificación, el Magistrado cesará en sus funcio
 
 Los Tribunales del Poder Judicial resolverán las controversias que en el ámbito de su competencia se les presenten.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
-La competencia del Tribunal Superior de Justicia, su funcionamiento en Pleno y en Salas; de los Juzgados de Primera Instancia, Juzgados de Paz, Jurados y Consejo de la Judicatura se regirá por lo que dispongan la Ley Orgánica del Poder Judicial y, de conformidad con las bases que esta Constitución establece. De la misma forma y de conformidad con lo señalado en este ordenamiento se establecerá la competencia y el funcionamiento del Tribunal de Justicia Electoral.
+La competencia del Tribunal Superior de Justicia, su funcionamiento en Pleno y en Salas; de los Juzgados de Primera Instancia, Juzgados de Paz, Jurados y Consejo de la Judicatura se regirá por lo que dispongan la Ley Orgánica del Poder Judicial y, de conformidad con las bases que esta Constitución establece.
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
@@ -1637,51 +1655,25 @@ XI.- Ejercer las demás atribuciones que les señale esta Constitución y las Le
 
 Las funciones de la vigilancia, administración, supervisión y disciplina del Poder Judicial del Estado, excluyendo las facultades jurisdiccionales de Magistrados y Jueces, estará a cargo del Consejo de la Judicatura en los términos que establezcan las leyes conforme a las bases que señale esta Constitución.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
+> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 289 PUBLICADO EN LA SECCIÓN II DEL P.O. DE 12 DE JUNIO DE 2015, PÁGINAS 7 A LA 8.</small>
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
-
-La vigilancia, administración, disciplina y carrera judicial del Tribunal de Justicia Electoral corresponderá a la Comisión de Administración que se integrará por el Presidente del Tribunal de Justicia Electoral, quien la presidirá; por un Magistrado designado por el Pleno del Tribunal Superior de Justicia del Estado y un Consejero de la Judicatura designado por el Pleno del Consejo de la Judicatura del Poder Judicial del Estado. La Comisión de Administración ejercerá las atribuciones que señala esta Constitución y las que establezca la Ley.
-
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2010)</small>
-
-Los nombramientos de secretarios de estudio y cuenta y actuarios del Tribunal de Justicia Electoral los realizará su Pleno y recaerán dentro de las personas que formen parte de la lista que elaboré la Comisión de Administración y que estará integrada por quienes hayan aprobado los exámenes psicométricos, de oposición y de méritos que esta practique. La suspensión y remoción de los secretarios de estudio y cuenta y actuarios corresponderá realizarla al Tribunal de Justicia Electoral.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 El Presidente del Tribunal Superior de Justicia, tendrá la representación del Consejo de la Judicatura, y las funciones que fije la Ley Orgánica respectiva.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 12 DE JUNIO DE 2015)</small>
 
 El Consejo de la Judicatura se integrará por:
 
 I.- El Presidente del Tribunal Superior de Justicia, quien lo presidirá;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2010)</small>
-
 II.- Dos Magistrados del Tribunal Superior de Justicia del Estado, designados por mayoría de los integrantes del Pleno del citado Tribunal;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2010)</small>
 
 III.- Un Juez designado por mayoría de los integrantes del Pleno del Tribunal Superior de Justicia del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE AGOSTO DE 2010)</small>
-
 IV.- Dos Consejeros designados por mayoría calificada del Congreso del Estado, en términos de la convocatoria que éste apruebe, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE AGOSTO DE 2010)</small>
-
 V.- Un Consejero designado por el Gobernador del Estado.
-
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2010)</small>
 
 Los Consejeros señalados en las fracciones II, III, IV y V durarán en su cargo cuatro años.
 
@@ -1745,7 +1737,7 @@ Los Consejeros de la Judicatura, Magistrados, Jueces y demás funcionarios del P
 
 > <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-### CAPITULO III (SIC).. DEL MINISTERIO PUBLICO Y DE LA DEFENSORIA DE OFICIO
+### CAPITULO IV. DEL MINISTERIO PUBLICO
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
@@ -1766,6 +1758,8 @@ Durante el periodo de su encargo, los magistrados electorales no podrán tener n
 Concluido su encargo, no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales se hayan pronunciado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.
 
 El Tribunal expedirá su Reglamento Interno y las disposiciones administrativas para su adecuado funcionamiento.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE JUNIO DE 2015)</small>
 
 ### CAPITULO I.. DEL MUNICIPIO Y DEL GOBIERNO MUNICIPAL
 
@@ -1919,77 +1913,53 @@ Los ayuntamientos iniciarán el ejercicio de sus funciones el día primero de oc
 
 Los Presidentes Municipales, Regidores y Síndicos de los ayuntamientos durarán en su cargo tres años, pudiendo ser electos por un período adicional consecutivo. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 79.
 
-Los Ayuntamientos se integrarán por un Presidente Municipal; hasta por dos Síndicos, uno electo por el principio de mayoría relativa, y otro, por el principio de representación proporcional; y por Regidores de mayoría relativa y de representación proporcional, en el número que resulte de la aplicación a cada Municipio de las siguientes bases:
+Los Ayuntamientos se integrarán por un Presidente Municipal, un Síndico Procurador y por regidores de mayoría relativa y de representación proporcional, en el número que resulte de la aplicación a cada Municipio de las siguientes bases:
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2001)</small>
+I.- El número de Regidores de mayoría relativa y de representación proporcional será:
 
-I.- El número de regidores de mayoría relativa y de representación proporcional será:
+a) Los Municipios cuya población sea menor de doscientos cincuenta mil habitantes, tendrán cinco regidores electos según el principio de mayoría relativa y hasta cinco regidores de representación proporcional;
 
-a).- Los municipios cuya población sean menor de doscientos cincuenta mil habitantes, tendrán cinco regidores electos según el principio de mayoría relativa y hasta cinco regidores de representación proporcional;
+b) Los municipios cuya población se encuentre en el rango comprendido de doscientos cincuenta mil a quinientos mil habitantes, tendrán siete regidores electos según el principio de mayoría relativa y hasta seis de representación proporcional;
 
-b).- Los municipios cuya población se encuentre en el rango comprendido de doscientos cincuenta mil a quinientos mil habitantes, tendrán siete regidores electos según el principio de mayoría relativa y hasta seis de representación proporcional;
-
-c).- Los municipios cuya población exceda de quinientos mil habitantes, tendrán ocho Regidores electos según el principio de mayoría relativa y hasta siete regidores de representación proporcional.
-
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
-
-Los Municipios comprendidos en los rangos poblacionales previstos en el inciso a) de esta fracción, tendrán un Síndico Procurador electo por mayoría relativa.
-
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
-
-Los Municipios comprendidos en los rangos poblacionales previstos en los incisos b) y c) de esta fracción, tendrán un Síndico Procurador electo por mayoría relativa, y un Síndico Social electo por el principio de representación proporcional.
-
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
-
-El Síndico Social le será asignado al partido político que, por sí mismo o en coalición, haya ocupado el segundo lugar en número de votos para la elección de munícipes, correspondiendo al candidato a Síndico registrado en la planilla respectiva.
-
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2001)</small>
+c) Los Municipios cuya población exceda de quinientos mil habitantes, tendrán ocho Regidores electos según el principio de mayoría relativa y hasta siete regidores de representación proporcional.
 
 II.- Para que los partidos políticos o coaliciones tengan derecho a la asignación de regidores por el principio de representación proporcional, deberán cumplir los siguientes requisitos:
 
-a).- Haber obtenido el registro de planilla completa de candidatos a munícipes en el Municipio que corresponda;
+a) Haber obtenido el registro de planilla completa de candidatos a munícipes en el Municipio que corresponda;
 
-b).- Haber obtenido por lo menos el tres por ciento de la votación emitida en la elección de munícipes correspondientes; y
+b) Haber obtenido por lo menos el tres por ciento de la votación emitida en la elección de munícipes correspondientes; y
 
-c).- No haber obtenido la constancia de mayoría respectiva, y
-
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2001)</small>
+c) No haber obtenido la constancia de mayoría respectiva, y
 
 III.- La asignación de regidores mediante el principio de representación proporcional se sujetará, a lo que disponga la Ley respectiva y mediante el siguiente procedimiento:
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2008)</small>
+a) El Instituto Estatal Electoral determinará qué partidos políticos o coaliciones cumplen con lo estipulado en la fracción anterior;
 
-a).- El Instituto Electoral y de Participación Ciudadana del Estado de Baja California determinará qué partidos políticos o coaliciones cumplen con lo estipulado en la fracción anterior;
-
-b).- Primeramente asignará un Regidor a cada Partido Político o coalición con derecho a la representación proporcional.
+b) Primeramente asignará un Regidor a cada partido político o coalición con derecho a la representación proporcional.
 
 En caso de que el número de partidos políticos sea mayor que el de regidurías por asignar, éstas se otorgarán a los que tengan mayor porcentaje en orden descendente hasta agotarlas;
 
-c).- Si después de efectuada la operación indicada en el inciso anterior aún hubiera regidurías por asignar, se realizarán las siguientes operaciones:
+c) Si después de efectuada la operación indicada en el inciso anterior aún hubiera regidurías por asignar, se realizarán las siguientes operaciones:
 
-1.- Se sumarán los votos de los partidos políticos o coaliciones con derecho a la representación proporcional, que servirá como base para obtener los nuevos porcentajes de participación a que se refiere el numeral siguiente;
+1.- Se sumarán los votos de los partidos políticos o coaliciones con derecho a la representación proporcional, que servirá como base para obtener los nuevos porcentajes de participación a que se refiere el numeral siguiente:
 
-2.- Se deberá obtener el nuevo porcentaje de cada Partido Político o coalición, que tenga derecho a la asignación mediante el cociente natural que se obtiene multiplicando la votación municipal de cada Partido Político o coalición por cien, y dividiendo el resultado entre la suma de los votos de los partidos políticos o coaliciones participantes;
+2.- Se deberá obtener el nuevo porcentaje de cada partido político o coalición, que tenga derecho a la asignación mediante el cociente natural que se obtiene multiplicando la votación municipal de cada partido político o coalición por cien, y dividiendo el resultado entre la suma de los votos de los partidos políticos o coaliciones participantes;
 
-3.- Se obtendrá la expectativa de integración al Ayuntamiento de cada Partido Político o coalición, con derecho a ello mediante el cociente natural que se obtiene multiplicando el porcentaje obtenido en el numeral anterior de cada Partido Político o coalición por el número de regidurías de representación proporcional que corresponda, según la fracción I de este Artículo, dividiéndolo entre cien, y
+3.- Se obtendrá la expectativa de integración al Ayuntamiento de cada partido político o coalición, con derecho a ello mediante el cociente natural que se obtiene multiplicando el porcentaje obtenido en el numeral anterior de cada partido político o coalición por el número de regidurías de representación proporcional que corresponda, según la fracción I de este Artículo, dividiéndolo entre cien, y
 
-4.- Se le restará de la expectativa de integración al Ayuntamiento a cada Partido Político o coalición, la asignación efectuada en los términos del inciso b) de esta fracción;
+4.- Se le restará de la expectativa de integración al Ayuntamiento a cada partido político o coalición, la asignación efectuada en los términos del inciso b) de esta fracción;
 
-d).- Se asignará a cada Partido Político o coalición alternadamente, tantas Regidurías como números enteros se hayan obtenido de la operación realizada en el numeral 4 del inciso anterior;
+d) Se asignará a cada partido político o coalición alternadamente, tantas Regidurías como números enteros se hayan obtenido de la operación realizada en el numeral 4 del inciso anterior;
 
-e).- En caso de que aún hubieren más regidurías por repartir, se asignarán a los Partidos Políticos o coaliciones que conserven los restos mayores, después de deducir las asignaciones efectuadas en el inciso anterior, y
+e) En caso de que aún hubieren más regidurías por repartir, se asignarán a los partidos políticos o coaliciones que conserven los restos mayores, después de deducir las asignaciones efectuadas en el inciso anterior, y
 
-f).- La asignación de las regidurías de representación proporcional que correspondan a cada Partido Político o coalición, la hará el Instituto Estatal Electoral de la lista de candidatos a Regidores que haya registrado cada Partido Político o coalición, en el orden que los mismos fueron registrados.
-
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
+f).- La asignación de las regidurías de representación proporcional que correspondan a cada partido político o coalición, la hará el Instituto Estatal Electoral de la lista de candidatos a Regidores que haya registrado cada partido político o coalición, en el orden que los mismos fueron registrados.
 
 Los integrantes de los ayuntamientos contarán con sus respectivos suplentes.
-
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
 
 Los conceptos que señala el Artículo 15 de esta Constitución, serán aplicables para el desarrollo de la fórmula de asignación aquí prevista.
 
@@ -2060,6 +2030,10 @@ V.- Establecer el procedimiento y condiciones para que el Estado asuma el ejerci
 VI.- Determinar las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes; y
 
 VII.- Establecer las normas que determinen los procedimientos mediante los cuales se resolverán los conflictos que se presenten entre los municipios y el Gobierno del Estado, o entre aquellos, con motivo de los actos a que se refieren los artículos 84 y 85 fracción I, segundo párrafo, de esta Constitución, así como el segundo párrafo de la fracción VII del Artículo 116, de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE JUNIO DE 2015)</small>
+
+VIII.- Establecer las bases generales para la presentación del informe del presidente municipal sobre el estado que guarda la Administración Pública Municipal ante el Cabildo, así como el desahogo de la glosa correspondiente a través de la comparecencia de los titulares de las dependencias municipales y de las entidades paramunicipales ante las comisiones de regidores correspondientes.
 
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -2137,7 +2111,9 @@ I.- Participar en la formulación de los planes de desarrollo regional. Cuando e
 
 II.- Participar en la creación y administración de sus reservas territoriales;
 
-III.- Intervenir en la regularización de la tenencia de la tierra urbana;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
+
+III.- Intervenir en la regularización de la tenencia de la tierra urbana; asimismo, participar en la vinculación del catastro municipal y el Registro Público de la Propiedad, para la armonización y homologación de la información inmobiliaria;
 
 IV.- Participar en la creación y administración de zonas de reservas ecológicas y, en la elaboración y aplicación de programas de ordenamiento en esta materia;
 
@@ -2528,6 +2504,10 @@ Ninguna autoridad exigirá anticipos de contribuciones ni préstamos forzosos.
 La Ley Civil contendrá disposiciones que tiendan a proteger la estabilidad del hogar y la constitución del patrimonio familiar, con miras a evitar el desamparo de la esposa y de los hijos.
 
 El Estado y Municipios por conducto de sus oficialías del registro civil establecerán los mecanismos de coordinación necesarios para el registro gratuito e inmediato del recién nacido y la entrega gratuita de la primera copia certificada del acta de nacimiento. Para el cumplimiento de este fin, podrán realizar los convenios que correspondan con las instituciones públicas o privadas de salud.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2015)</small>
+
+Asimismo, para garantizar la seguridad jurídica inmobiliaria en el Estado, la ley establecerá los mecanismos y procedimientos para la modernización y vinculación del Registro Público de la Propiedad y los catastros municipales, con información armonizada y homologada conforme a las disposiciones federales aplicables.
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -3903,7 +3883,9 @@ SEGUNDO.- La reforma al artículo 16 de esta Constitución en materia de reelecc
 
 TERCERO.- La reforma al artículo 78 de esta Constitución en materia de reelección de presidentes municipales, regidores y síndicos no será aplicable a los integrantes que hayan protestado el cargo en el Ayuntamiento que se encuentre en funciones a la entrada en vigor del presente Decreto.
 
-CUARTO.- El Congreso del Estado deberá adecuar las normas electorales del Estado, a más tardar en el mes de febrero de 2015.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
+CUARTO.- El Congreso del Estado deberá adecuar las normas electorales del Estado a más tardar dentro del plazo que establece el artículo 105, fracción II, penúltimo párrafo de la Constitución Política de los Estados Unidos Mexicanos.
 
 QUINTO.- La reforma prevista en el artículo 22 del presente Decreto, referente a los periodos ordinarios del Congreso del Estado, iniciará vigencia a partir del primero de octubre del 2016; por única ocasión, el primer periodo ordinario de sesiones de la XXII Legislatura Constitucional, será del primero de octubre al treinta de noviembre de 2016.
 
@@ -4112,3 +4094,29 @@ En un plazo que no exceda de 60 días naturales siguientes a la entrada en vigor
 ###### ARTÍCULO DÉCIMO.
 
 Los trabajadores de la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California, pasarán a forma (sic) parte de la Comisión Estatal de los Derechos Humanos, respetando todos sus derechos laborales.
+
+P.O. 12 DE JUNIO DE 2015.
+
+DECRETO NO. 289 POR EL QUE SE REFORMAN LOS ARTÍCULOS 5, 12, 15, 17, 27, 28, 59, 64, 79 Y 81; Y SE ADICIONA UN SEGUNDO PÁRRAFO, RECORRIÉNDOSE LOS SUBSECUENTES, AL ARTÍCULO 14, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE BAJA CALIFORNIA; SE SUPRIME LA EXPRESIÓN "TITULO QUINTO" EN EL CAPÍTULO III DE DICHO TÍTULO, Y SE ADICIONA AL MISMO UN CAPÍTULO IV DENOMINADO DEL MINISTERIO PÚBLICO.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 289.</small>
+
+PRIMERO.-. Salvo lo dispuesto en los artículos TERCERO Y CUARTO transitorios del presente Decreto, las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un plazo de 180 días, contados a partir de la entrada en vigor de las presente reformas, el Congreso del Estado adecuará la Ley Orgánica del Poder Legislativo del Estado de Baja California, a efecto de implementar las bases normativas del procedimiento parlamentario para el (sic) admisión y trámite de las iniciativas a que hace referencia la fracción VI, del artículo 28 del presente Decreto.
+
+TERCERO.- La reforma a la fracción VI, del artículo 12 de este Decreto, entrará en vigor el primero de agosto de 2021.
+
+CUARTO.- La reforma a la fracción XXXVIII, del artículo 27 de este Decreto, entrará en vigor el primero de noviembre de 2021.
+
+> <small>N. DE E. SE TRANSCRIBEN EL ARTÍCULO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 289.</small>
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JUNIO DE 2015.
+
+DECRETO NO. 287 POR EL QUE SE REFORMA AL ARTÍCULO 83 Y LA ADICIÓN DE UN TERCER PÁRRAFO AL ARTÍCULO 104 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Dentro de los noventa días siguientes a la publicación de las presentes reformas, el Ejecutivo del Estado realizará los convenios o acciones de coordinación con los gobiernos municipales de la entidad, para el seguimiento en la implementación de las medidas que se ordenan.
