@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-consejo-de-nomenclatura-y-monumentos-del-59270"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-04"
-last_updated: "2013-10-18"
+last_updated: "2015-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DEL CONSEJO DE NOMENCLATURA Y MONUMENTOS DEL MUNICIPIO DE ENSENADA, DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 4 de enero de 2008.
 
@@ -63,9 +63,11 @@ OBJETO Y ATRIBUCIONES DEL CONSEJO.
 
 Este Reglamento tiene por objeto regular el procedimiento, para asignar nombre a las Calles, Avenidas, Calzadas, Reformas, Glorietas, Colonias, Fraccionamientos, Plazas, Edificios Públicos, Centros Urbanos, Semi-Urbanos y Poblaciones Rurales, Puntos ó Accidentes Geográficos, así como para la y (sic) reubicación de monumentos y colocación de placas conmemorativas en el Municipio de Ensenada, Baja California.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
 ###### ARTICULO 2.
 
-Se crea el Consejo Municipal de Nomenclatura y monumentos de Ensenada, como Órgano de Consulta, Asesoria y Promoción de las acciones tendientes a la organización y ampliación de la nomenclatura municipal.
+Se crea el Consejo Municipal de Nomenclatura y Monumentos de Ensenada, como Órgano de Consulta, Asesoría y Promoción de las acciones tendientes a la organización y ampliación de la nomenclatura municipal.
 
 ###### ARTICULO 3.
 
@@ -81,9 +83,13 @@ c) Consejo.- Entiendase al Consejo Municipal de Nomenclatura y Monumentos de Ens
 
 Son atribuciones del Consejo:
 
-a) Estudiar y resolver para proponer al Ayuntamiento lo referente a los proyectos de nomenclatura que al Consejo se presenten, originados en propuesta de Instituciones Oficiales ó de particulares.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
-b) Estudiar y resolver, para sujetar al acuerdo del Ayuntamiento las proposiciones que al Consejo se presenten sobre modificaciones a la nomenclatura existente.
+a) Estudiar y resolver para proponer al Ayuntamiento, lo referente a los proyectos de nomenclatura que al Consejo se presenten, originados en propuesta de Instituciones Oficiales ó de particulares, los cuales deberán ser turnados a la Comisión de Desarrollo urbano y Ecología, en términos del Reglamento Interior para el Ayuntamiento de Ensenada, Baja California, a efecto de emitir el dictamen correspondiente.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
+b) Estudiar y resolver, para sujetar al acuerdo del Ayuntamiento las proposiciones que al Consejo se presenten sobre modificaciones a la nomenclatura existente, mismas que deberán ser turnadas a la Comisión de Desarrollo Urbano y Ecología, en términos del Reglamento Interior para el Ayuntamiento de Ensenada, Baja California, a efecto de emitir el dictamen correspondiente.
 
 c) Establecer los requisitos que deberán sujetarse las personas físicas y morales, al solicitar la asignación ó cambio de nombre a Calles, Colonias, Fraccionamientos, Parques, así como para la erección de monumentos y colocación de placas conmemorativas dentro del Municipio de Ensenada, B. C.
 
@@ -95,19 +101,23 @@ f) Llevar un registro de la nomenclatura, monumentos y placas conmemorativos del
 
 g) En general llevar a cabo todos los actos, que para el cumplimiento del objeto de este reglamento sean necesarios.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
 ###### ARTICULO 5.
 
-Los acuerdos dictados por el Ayuntamiento respecto a las propuestas del Consejo, serán ejecutadas por la autoridad competente, Secretaria de Administración Urbana y la Dirección de obras Publicas Municipales.
+Los acuerdos dictados por el Ayuntamiento respecto a las propuestas del Consejo, serán ejecutadas por la autoridad competente, Dirección de Catastro y Control Urbano, Dirección de Infraestructura y Dirección de Servicios Públicos, según sea el caso.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 6.
 
-Corresponde a la Secretaria de Administración Urbana la aplicación del presente Reglamento,
+Corresponde a la Dirección de Catastro y Control Urbano la aplicación del presente Reglamento.
 
 ### CAPITULO II
 
 DE LA INTEGRACION DEL CONSEJO.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 7.
 
@@ -127,33 +137,35 @@ El Consejo Municipal de Nomenclatura y Monumentos estará integrado por las sigu
 
 - Dirección de Policía y Tránsito Municipal.
 
-- Instituto de Cultura del Estado.
+- Instituto de Cultura de Baja California.
 
-- Un representante de cada uno de los Subcomités Sectoriales del Copladem siguientes: Desarrollo Urbano y Ecología, obras y Servicios Públicos y Educación y Cultura.
+- Un representante de las asociaciones de historia de Ensenada.
 
-- Delegación Infonavit.
+- Un representante de cada uno de los Subcomités Sectoriales del COPLADEM siguientes: Desarrollo Urbano y Ecología, Obras y Servicios Públicos y Educación y Cultura.
 
-- INDIVI (Instituto para el Desarrollo Inmobiliario y de la Vivienda para el Estado) de Baja California.
+- Delegación del INFONAVIT.
 
-- Cámara Nacional de Comercio.
+- INDIVI (Instituto para el Desarrollo Inmobiliario y de la Vivienda para el Estado de Baja California).
+
+- Cámara Nacional de Comercio y Servicios Turísticos de Ensenada.
 
 - Cámara Nacional de la Industria y la Transformación.
 
-- Cámara Nacional de Industria y Comercio.
+- Un representante de las asociaciones de arquitectos de Ensenada.
 
-- Asociación de Arquitectos.
+- Un representante de las asociaciones de ingenieros civiles de Ensenada.
 
-- Asociación de Ingenieros Civiles.
-
-- Secretaría de Infraestructura y Desarrollo Urbano del Estado
+- Secretaría de Infraestructura y Desarrollo Urbano del Estado.
 
 - Consejo de Urbanización Municipal de Ensenada.
 
-- CANADEVI (Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda
+- CANADEVI (Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda).
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 8.
 
-La estructura del Consejo Municipal de Nomenclatura y Monumentos se constituye por un Presidente, un Secretario Técnico y los Vocales Honorarios señalados en el Artículo anterior.
+La estructura del Consejo Municipal de Nomenclatura y Monumentos se constituye por un Presidente, un Secretario Técnico y los Vocales Honorarios señalados en el artículo anterior.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
@@ -171,9 +183,11 @@ El Secretario Técnico del Consejo será el Director de Catastro y Control Urban
 
 El Presidente del Consejo Municipal de Nomenclatura designará al Secretario suplente que atenderá las funciones del Secretario en ausencia por fuerza de causa mayor.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
 ###### ARTICULO 12.
 
-Los Miembros del Consejo representes (sic) de las Instituciones señaladas en el Articulo 7mo. De este Reglamento tendrán carácter de vocales, siendo estos cargos honoríficos.
+Los Miembros del Consejo representantes de las Instituciones señaladas en el artículo 7 de este Reglamento tendrán carácter de vocales, siendo estos cargos honoríficos.
 
 ###### ARTICULO 13.
 
@@ -187,9 +201,11 @@ Por cada uno de los Representantes Propietarios, se nombrará a un Suplente, deb
 
 DE LAS FUNCIONES DEL CONSEJO.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2015)</small>
+
 ###### ARTICULO 15.
 
-Las funciones del Consejo serán las que se indican en el Artículo 5 del Acuerdo de Creación para:
+Las funciones del Consejo serán las siguientes:
 
 a) Procurar que las Calles, Avenidas, Calzadas, Diagonales, Cerradas, Retornos, Parques, Jardines y nuevos Asentamientos Humanos de la Municipalidad, lleven los nombres adecuados que tiendan a su fácil identificación y localización, pudiendo ser la identificación numérica o alfabética, o bien los nombres de las personas, que por sus virtudes cívicas o por los servicios prestados a la colectividad, al Municipio, al Estado, a la Patria o a la Humanidad, merezcan el reconocimiento público y de igual forma la utilización de fechas o efemérides de significación cívica o patriótica. En todo caso, deberán evitarse duplicaciones en las denominaciones, así como la anarquía en la numeración para impedir las confusiones que con ello se provoca.
 
@@ -229,7 +245,9 @@ Son atribuciones y obligaciones del Presidente del Consejo:
 
 a) Representar al Consejo.
 
-b) Convocar y presidir las Asambleas Ordinarias y Extraordinarias.
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
+b) Convocar por conducto del Secretario Técnico y presidir las Asambleas Ordinarias y Extraordinarias.
 
 c) Poner a discusión y votación los asuntos de la Orden del Día teniendo voto de calidad en caso de empate.
 
@@ -237,9 +255,11 @@ d) Convalidar con su firma la del Secretario Técnico en las actas aprobadas por
 
 e) Nombrar a quien por razones de su cargo deba de representarlo en el seno del Consejo, notificándole a éste, por oficio, de tal representación.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
 ###### ARTICULO 18.
 
-El representante del Presidente del Consejo en los términos del apartado (e) del Artículo anterior, deberá cumplir con las obligaciones de aquel y podrá ejercer los mismos derechos.
+El representante del Presidente del Consejo en los términos del inciso e) del artículo anterior, deberá cumplir con las obligaciones de aquel y podrá ejercer los mismos derechos.
 
 ###### ARTICULO 19.
 
@@ -249,25 +269,31 @@ Mientras oficialmente no sea modificada la representación del Presidente del Co
 
 DEL SECRETARIO TÉCNICO.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
 ###### ARTICULO 20.
 
 Son obligaciones y atribuciones del Secretario Técnico:
 
-a) Dar cuenta al Presidente de la correspondencia y asuntos que se reciban.
+a. Convocar al Consejo.
 
-b) Redactar las circulares, dictámenes y proposiciones emanadas del Consejo.
+b. Dar cuenta al Presidente de la correspondencia y asuntos que se reciban.
 
-c) Preparar, con la debida anticipación, la documentación de los asuntos que deban tratarse en cada asamblea independientemente del carácter de ésta y formulando, de acuerdo con el Presidente, el Orden del Día correspondiente.
+c. Redactar las circulares, dictámenes y proposiciones emanadas del Consejo.
 
-d) Levantar las actas de las sesiones en un libro especial, que deberá asignar en cada caso y por cada asamblea afirmando la veracidad de las mismas, consignando además las modificaciones, rectificaciones o ratificaciones de éstas.
+d. Preparar, con la debida anticipación, la documentación de los asuntos que deban tratarse en cada asamblea independientemente del carácter de ésta y formulando, de acuerdo con el Presidente, el Orden del Día correspondiente.
 
-e) Llevar el archivo del Consejo.
+e. Levantar las actas de las sesiones en un libro especial, que deberá asignar en cada caso y por cada asamblea afirmando la veracidad de las mismas, consignando además las modificaciones, rectificaciones o ratificaciones de éstas.
 
-f) Las que no estando señaladas aquí, el propio Consejo le confiera de manera especial, mediante acuerdo.
+f. Llevar el archivo del Consejo.
+
+g. Las que no estando señaladas aquí, el propio Consejo le confiera de manera especial, mediante acuerdo.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 21.
 
-El Secretario Técnico, podrá ser suplido ocasionalmente por la persona designada en los términos del Artículo 12 de este ordenamiento, siempre y cuando el suplente sea avisado con no menos de 48 horas de anticipación.
+El Secretario Técnico, podrá ser suplido ocasionalmente por la persona designada en los términos del artículo 12 de este ordenamiento, siempre y cuando el suplente sea avisado con no menos de 48 horas de anticipación.
 
 ### CAPITULO VII
 
@@ -277,29 +303,39 @@ DE LAS SESIONES DEL CONSEJO.
 
 El consejo sesionará en Asamblea Ordinaria una vez cada tres meses y en forma Extraordinaria cuantas veces sea necesario, a Convocatoria expresa del Presidente del Consejo.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
 ###### ARTICULO 23.
 
-El Consejo, en su primera reunión de instalación, señalará el día del mes en que se llevarán a efecto las reuniones de carácter ordinario, señalado en el Artículo precedente.
+El Consejo, en su primera reunión de instalación, señalará el día del mes en que se llevarán a efecto las reuniones de carácter ordinario, señalado en el artículo precedente.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 24.
 
-En el caso de que en la Asamblea Ordinaria, no se presentasen la totalidad de los Miembros del Consejo, pero sí las dos terceras partes del mismo, la Asamblea tomará sus Acuerdos con carácter de validez con la mayoría de votos de los presentes.
+En el caso de que en la Asamblea Ordinaria, no se presentasen la totalidad de los Miembros del Consejo, pero sí más del 50% por ciento de los integrantes del mismo, la Asamblea tomará sus Acuerdos con carácter de validez con la mayoría de votos de los presentes, siempre y cuando se acredite que todos fueron notificados debidamente.
 
 ###### ARTICULO 25.
 
 Todos los acuerdos se tomarán por mayoría de votos, entendiéndose ésta, la mitad más uno de los votos emitidos por todos los Miembros del Consejo presentes en la Asamblea.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
 ###### ARTICULO 26.
 
-Si a la Reunión Ordinaria concurriesen menos de las dos terceras partes de sus miembros, el Presidente citará a Asambleas Extraordinarias en la fecha que considere oportuna y con 48 horas de anticipación y los acuerdos se tomarán en ésta con los asistentes de la misma.
+Si a la Reunión Ordinaria concurriesen menos del cincuenta por ciento de sus miembros, el Presidente citará a Asambleas Extraordinarias de manera inmediata y los acuerdos se tomarán en ésta con los asistentes de la misma, siempre y cuando se acredite que todos fueron notificados debidamente.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 27.
 
-El Presidente del Consejo está facultado para convocar a las Asambleas Extraordinarias que considere justificadas, las que resulten por disposición del Artículo anterior o aquellas que soliciten por escrito la mitad de sus miembros cuando menos.
+El Presidente del Consejo está facultado para convocar a las Asambleas Extraordinarias que considere justificadas, las que resulten por disposición del artículo anterior o aquellas que soliciten por escrito la mitad de sus miembros cuando menos.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 28.
 
-Las resoluciones del Consejo deberán de ser turnadas al Ayuntamiento para un dictamen definitivo. El Presidente del Consejo deberá acudir ante la Comisión correspondiente cuando así le sea solicitado a fin de realizar las aclaraciones necesarias.
+Las resoluciones del Consejo deberán de ser turnadas al Ayuntamiento para un dictamen definitivo. El Secretario Técnico del Consejo deberá acudir ante la Comisión de Desarrollo Urbano y Ecología cuando así le sea solicitado a fin de realizar las aclaraciones necesarias.
 
 ###### ARTICULO 29.
 
@@ -329,9 +365,11 @@ Todos los Fraccionamientos y Desarrollos Urbanos, Suburbanos y Rurales comprendi
 
 DEL PROCEDIMIENTO PARA ESTABLECER LA NOMENCLATURA.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
 ###### ARTICULO 34.
 
-Corresponde a los ciudadanos mexicanos avecinados en esta ciudad y a grupos o asociaciones legalmente constituidos con domicilio en esta ciudad, elevar al Consejo las propuestas para asignación de nombres a las Vialidades, Parques, Andadores y Puentes de la ciudad.
+Corresponde a los ciudadanos mexicanos avecinados en esta ciudad y a grupos o asociaciones legalmente constituidos con domicilio en esta ciudad, elevar al Consejo, por conducto del Presidente Municipal, las propuestas para asignación de nombres a las Vialidades, Parques, Andadores y Puentes de la ciudad.
 
 ###### ARTICULO 35.
 
@@ -359,9 +397,13 @@ e) Cuando se refiera a la Conmemoración de algún Suceso Histórico Local, Naci
 
 Ninguna propuesta podrá incluir el nombre de algún Partido Político, Imagen Religiosa, Giro o Establecimiento Comercial.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
 ###### ARTICULO 39.
 
-Solo serán susceptibles de Estudio las propuestas que incluyan nombres que se apeguen a lo dispuesto por el Artículo 38 del presente Reglamento.
+Solo serán susceptibles de Estudio las propuestas que incluyan nombres que se apeguen a lo dispuesto por el artículo 38 del presente Reglamento.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 40.
 
@@ -369,7 +411,7 @@ De cada propuesta se formará un expediente, los cuales deberán ser ordenados e
 
 a) El motivo de la propuesta.
 
-b) Quién ó qué origina la misma.
+b) Quién ó qué origina la misma
 
 c) La Biografía de la persona de la cual se pretende denominar con su nombre una vialidad, parque, andador, puentes o desarrollo urbano.
 
@@ -377,7 +419,9 @@ d) La condición actual de la vialidad, parque, andador, puente o desarrollo urb
 
 e) Antecedentes de la vialidad o zona de estudio.
 
-f) Una relación con nombre, dirección y firma de aprobación del 80% de los vecinos afectados.
+f) Tratándose de una propuesta de modificación de nombre de una vialidad, se deberá acompañar una relación con nombre, dirección y firma de aprobación del 80% de los vecinos afectados.
+
+Los requisitos señalados en los incisos d) y e), serán aportados por el Secretario Técnico del Consejo.
 
 ###### ARTICULO 41.
 
@@ -420,3 +464,9 @@ SECRETARIO FEDATARIO DEL XVIII AYUNTAMIENTO DE ENSENADA, B. C.
 P.O. 18 DE OCTUBRE DE 2013.
 
 ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 12 DE JUNIO DE 2015.
+
+PRIMERO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO: El representante de las asociaciones de historia de Ensenada, Baja California, considerado en el artículo 7 del presente Reglamento, deberá ser designado por las mismas, en un plazo no mayor a 15 días hábiles, posteriores a la entrada en vigor de la presente reforma; por lo que el Presidente del Consejo por conducto del Secretario Técnico del mismo, deberá realizar de forma inmediata la invitación correspondiente a fin de que realicen dicha designación. En el entendido que su duración como vocales del Consejo será hasta la renovación del mismo en los términos del artículo 13.
