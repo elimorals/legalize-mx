@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2014-08-01"
+last_updated: "2015-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -1441,6 +1441,12 @@ ARTÍCULO 106 BIS 2.- El aprovechamiento de los recursos naturales en áreas que
 
 La Secretaria deberá promover y apoyar el manejo de la flora y fauna silvestre, con base en el conocimiento biológico tradicional, información técnica, científica y económica, con el propósito de hacer un aprovechamiento sustentable de las especies.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2015)</small>
+
+ARTÍCULO 106 BIS 3.- Queda prohibido en el Estado el establecimiento de espectáculos circenses públicos o privados, fijos o itinerantes, en los que se utilicen ejemplares vivos de fauna silvestre.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2014)</small>
 
 #### SECCIÓN I. Criterios ambientales
@@ -2040,6 +2046,10 @@ Las autoridades que tengan a su cargo la promoción y el fomento de las activida
 ###### ARTÍCULO 141.
 
 Dentro del ámbito territorial del Estado, los establecimientos de servicios comerciales que tengan por actividad la utilización, facilitación y obsequio de bolsas de plástico para fines de envoltura y carga, deberán de utilizar aquellos fabricados solamente con materiales que faciliten su reuso, reciclado o de pronta biodegradación.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2015)</small>
+
+ARTÍCULO 141 BIS.- La Secretaría podrá promover instrumentos económicos a favor de fabricantes o distribuidores de productos plásticos desechables o de un sólo uso que sean de pronta biodegradación, reciclables o reciclados.
 
 > <small>(DEROGADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
@@ -2880,3 +2890,17 @@ DECRETO NÚMERO 67 POR EL QUE SE APRUEBA LA REFORMA QUE MODIFICA EL ARTÍCULO 2 
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- En un plazo no mayor al de seis meses contados a partir de la entrada en vigor de las presentes reformas, el Estado y los Ayuntamientos dentro de sus respectivos ámbitos de competencia, deberán emitir las disposiciones reglamentarias correspondientes.
+
+P.O. 12 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 251, POR EL QUE SE ADICIONA UN ARTÍCULO 106 BIS 3, DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día 08 de julio del año 2015.
+
+SEGUNDO.- Los Municipios del Estado, a través de sus Ayuntamientos, emitirán las disposiciones reglamentarias correspondientes en un término que no exceda de 180 días naturales, computados a partir de la fecha en que entre en vigor la presente reforma.
+
+P.O. 12 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 252, POR EL QUE SE ADICIONA UN ARTÍCULO 141 BIS A LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
