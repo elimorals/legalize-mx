@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2015-06-05"
+last_updated: "2015-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JUNIO DE 2015.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -313,7 +313,9 @@ XV. Testigo Social: Es quien actúa en representación honorífica de la socieda
 
 Para los efectos del Capítulo Primero, del Título Segundo del Libro Tercero de este Acuerdo se entenderá por:
 
-I. Áreas Operativas: La Dirección General de Recursos Materiales, la Dirección General de Inmuebles y Mantenimiento, la Dirección General de Tecnologías de la Información, las Administraciones Regionales y Delegaciones Administrativas;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2015)</small>
+
+I. Áreas Operativas: La Dirección General de Recursos Materiales; la Dirección General de Servicios Generales, por conducto de los Administradores de Edificios; la Dirección General de Inmuebles y Mantenimiento; la Dirección General de Tecnologías de la Información; y la Coordinación de Administración Regional por conducto de las Administraciones Regionales y Delegaciones Administrativas;
 
 II. Asesores: Persona o personas que prestarán asesoría al Comité;
 
@@ -6357,9 +6359,11 @@ III. Cuando los bienes muebles hayan sido robados, extraviados o dañados por si
 
 IV. Tratándose de vehículos de apoyo y equipos de cómputo portátiles y de escritorio asignados a los Consejeros, al término de su encargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2015)</small>
+
 ###### Artículo 559.
 
-La reasignación, rehabilitación o reaprovechamiento de los bienes, en el Distrito Federal y zona conurbada corresponderán a las Direcciones Generales de Inmuebles y Mantenimiento; Tecnologías de la Información; y Recursos Materiales en el ámbito de sus atribuciones; en el resto de la República corresponderá a la Coordinación de Administración Regional, por conducto de los Administradores Regionales y Delegados Administrativos, según se trate.
+La reasignación, rehabilitación o reaprovechamiento de los bienes y, en su caso, su desincorporación, en el Distrito Federal y zona conurbada corresponderán a las Direcciones Generales de Inmuebles y Mantenimiento; Tecnologías de la Información; Recursos Materiales; y Servicios Generales, por conducto de los Administradores de Edificios, en el ámbito de sus atribuciones; en el resto de la República corresponderá a la Coordinación de Administración Regional, por conducto de los Administradores Regionales y Delegados Administrativos, según se trate.
 
 Los equipos de cómputo portátiles y de escritorio asignados a los Consejeros, que al término de su encargo continúen como servidores públicos del Poder Judicial de la Federación, podrán ser reasignados directamente a éstos.
 
@@ -6515,11 +6519,23 @@ VIII. Invariablemente deberá incluirse en el orden del día un apartado corresp
 
 Conforme al valor del lote de bienes, la desincorporación se hará conforme a lo siguiente:
 
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2015)</small>
+
 Clasificación Valor total de los bienes Autorización
 
-Desincorporación Mayor Excede del equivalente a quinientos días de Salario Mínimo Comité
+Desincorporación Excede del equivalente Comité
 
-Desincorporación Menor Equivalente o menor a quinientos días de Salario Mínimo En el ámbito de su competencia, los Directores Generales de Recursos Materiales; de Inmuebles y Mantenimiento; y de Tecnologías de la Información; así como Administradores Regionales o Delegados Administrativos, según se trate.
+Mayor a mil días de Salario
+
+Mínimo
+
+Desincorporación Equivalente o menor El titular del área
+
+Menor a mil días de Salario operativa que Mínimo corresponda, conforme
+
+a su ámbito de
+
+competencia.
 
 ###### Artículo 569.
 
@@ -6527,7 +6543,9 @@ El procedimiento de desincorporación se substanciará por las áreas operativas
 
 I. El órgano jurisdiccional o el área administrativa que tenga asignado un bien, lo pone a disposición de las áreas operativas;
 
-II. Las áreas operativas determinan la procedencia de la rehabilitación y, en su caso, reasignarán o desincorporarán los bienes objeto de este Capítulo, mediante el formato de dictamen técnico que se autorice por el Comité;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2015)</small>
+
+II. Las áreas operativas determinan la procedencia de la rehabilitación o reaprovechamiento y, en su caso, reasignarán o desincorporarán los bienes objeto de este Capítulo, mediante el formato de dictamen técnico que se autorice por el Comité;
 
 III. Abrirán un expediente y recabará la documentación correspondiente;
 
@@ -6593,9 +6611,13 @@ Con base en el monto que resulte del avalúo, el Consejo a través del Comité o
 
 I. Licitación Pública: Excede del equivalente a seis mil días de salario mínimo;
 
-II. Invitación a cuando menos tres personas: Superior al equivalente a quinientos días de salario mínimo y menor al equivalente a seis mil días de salario mínimo; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2015)</small>
 
-III. Adjudicación Directa: Hasta el equivalente a quinientos días de salario mínimo.
+II. Invitación a cuando menos tres personas: Superior al equivalente a mil días de salario mínimo y menor al equivalente a seis mil días de salario mínimo; y
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2015)</small>
+
+III. Adjudicación Directa: Hasta el equivalente a mil días de salario mínimo.
 
 El Consejo podrá enajenar bienes sin sujetarse al procedimiento de licitación pública o invitación a cuando menos tres personas, cuando ocurran condiciones o circunstancias extraordinarias, imprevisibles, o situaciones de emergencia, a través del procedimiento de adjudicación directa.
 
@@ -10710,3 +10732,11 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Los procedimientos administrativos que al momento de la publicación del presente Acuerdo se encuentren en sustanciación y se hubiese suspendido el pago de la pensión complementaria, deberán ajustarse a las modificaciones de este Acuerdo.
+
+D.O.F. 12 DE JUNIO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Los procedimientos de desincorporación que a la fecha de entrada en vigor de este Acuerdo se encuentren en trámite, deberán continuarse hasta su conclusión conforme a las disposiciones con las que fueron iniciados.
