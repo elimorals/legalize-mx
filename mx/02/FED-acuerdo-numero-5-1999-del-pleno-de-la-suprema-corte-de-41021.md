@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-5-1999-del-pleno-de-la-suprema-corte-de-41021"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1999-06-22"
-last_updated: "1999-06-22"
+last_updated: "2015-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41021&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1999-06-21"
 ---
 # ACUERDO NUMERO 5/1999 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [BASES GENERALES PARA LA PROCEDENCIA Y TRAMITACION DE LOS RECURSOS DE REVISION EN AMPARO DIRECTO]
 
-ACUERDO NUMERO 5/1999, DEL VEINTIUNO DE JUNIO DE MIL NOVECIENTOS NOVENTA Y NUEVE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, QUE ESTABLECE LAS BASES GENERALES PARA LA PROCEDENCIA Y TRAMITACION DE LOS RECURSOS DE REVISION EN AMPARO DIRECTO
+ACUERDO NÚMERO 5/1999, DEL VEINTIUNO DE JUNIO DE MIL NOVECIENTOS NOVENTA Y NUEVE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, QUE ESTABLECE LAS BASES GENERALES PARA LA PROCEDENCIA Y TRAMITACIÓN DE LOS RECURSOS DE REVISIÓN EN AMPARO DIRECTO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL NÚMERO 9/2015, DE OCHO DE JUNIO DE DOS MIL QUINCE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, QUE ESTABLECE LAS BASES GENERALES PARA LA PROCEDENCIA Y TRAMITACIÓN DE LOS RECURSOS DE REVISIÓN EN AMPARO DIRECTO, PUBLICADO EN EL D.O.F. DE 12 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JUNIO DE 2015 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 22 de junio de 1999 y en el Semanario Judicial de la Federación y su Gaceta, Tomo X, Julio de 1999, página 927.
 
@@ -92,3 +94,13 @@ LICENCIADO JOSÉ JAVIER AGUILAR DOMÍNGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA
 CERTIFICA:
 
 Que este Acuerdo Número 5/1999, que establece las bases generales para la procedencia y tramitación de los recursos de revisión en amparo directo, fue emitido por el Tribunal Pleno en sesión privada de hoy veintiuno de junio de mil novecientos noventa y nueve, por unanimidad de diez votos de los señores Ministros presidente Genaro David Góngora Pimentel, Sergio Salvador Aguirre Anguiano, Mariano Azuela Güitrón, Juventino V. Castro y Castro, Juan Díaz Romero, José Vicente Aguinaco Alemán, Guillermo I. Ortiz Mayagoitia, Humberto Román Palacios, Olga María Sánchez Cordero y Juan N. Silva Meza.-México, Distrito Federal, a veintiuno de junio de mil novecientos noventa y nueve.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 12 DE JUNIO DE 2015.
+
+PRIMERO. Este Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo General 5/1999, del veintiuno de junio de mil novecientos noventa y nueve, del Pleno de la Suprema Corte de Justicia de la Nación, que establece las bases generales para la procedencia y tramitación de los recursos de revisión en amparo directo, publicado en el Diario Oficial de la Federación del veintidós de junio de ese año.
+
+TERCERO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y, en su momento, en el diverso 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, en medios electrónicos de consulta pública.
