@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2015-04-24"
+last_updated: "2015-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -807,11 +807,15 @@ INICIATIVA CIUDADANA.
 
 Los ciudadanos mexicanos, residentes del Municipio de Ensenada, en pleno ejercicio de sus derechos civiles y políticos, podrán promover ante el Ayuntamiento proyectos de acuerdos y Resoluciones de Cabildo, en los términos que disponga la reglamentación de la materia. Los proyectos, acuerdos y resoluciones que presenten los ciudadanos podrán hacerlo ante cualesquiera de los integrantes del Ayuntamiento, quienes para efectos de que puedan ser presentados al pleno del Ayuntamiento, deberán observar el procedimiento que establece el artículo 70 del presente Reglamento.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
 CONTENIDO DE LAS PROPUESTAS DE ACUERDO.
 
 ###### ARTÍCULO 69.
 
-Las propuestas de acuerdo deberán ser presentadas por escrito y firmadas, acompañando una exposición de motivos en la cual manifieste su autor o autores, las consideraciones jurídicas, políticas, sociales o económicas que justifiquen, expliquen y motiven la propuesta.
+Las propuestas de acuerdo deberán ser presentadas por escrito y firmadas, acompañando una exposición de motivos en la cual manifieste su autor o autores, las consideraciones jurídicas, políticas, sociales o económicas que justifiquen, expliquen y motiven la propuesta, mismo que deberá contener la redacción de los artículos a reformar y/o adicionar, en el entendido que si la propuesta consiste en la creación de reglamento, este deberá contener la redacción integra del articulado que comprende el reglamento a crear.
+
+En caso de que la propuesta manifieste la intención de crear una dependencia, ya sea una Coordinación, Secretaría, Dirección, del Ejecutivo Municipal o puesto dentro del organigrama del Ejecutivo Municipal deberá contener el o los artículos a reformar, adicionar o derogar; así como exponer las funciones que tendrán, en el caso de un puesto para el mejor ejercicio de la función del órgano ejecutivo especificar sus funciones.
 
 PRESENTACIÓN DE PROYECTOS.
 
@@ -2056,3 +2060,7 @@ La presente reforma entrará en vigor al día siguiente de su publicación en el
 P.O. 24 DE ABRIL DE 2015.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o el Periódico Oficial del Estado de Baja California.
+
+P.O. 12 DE JUNIO DE 2015.
+
+ÚNICO.- Una vez siendo aprobada la presente reforma, publíquese en la Gaceta Municipal y/o en el Periódico Oficial del Gobierno del Estado de Baja California, para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B. C.
