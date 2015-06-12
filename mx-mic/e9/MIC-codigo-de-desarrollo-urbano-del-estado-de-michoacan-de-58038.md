@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-desarrollo-urbano-del-estado-de-michoacan-de-58038"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-12-26"
-last_updated: "2015-05-28"
+last_updated: "2015-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # CODIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 12 Y 22 DE JUNIO DE 2015 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 12 DE JUNIO DE 2015.</small>
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el miércoles 26 de diciembre de 2007.
 
@@ -49,7 +49,7 @@ CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACAN DE OCAMPO
 
 Las disposiciones de este Código son de orden público, observancia general e interés social y tienen por objeto:
 
-l. Regular, ordenar y controlar la administración urbana en el Estado, conforme a los principios de los artículos 27, 73 y 115 de la Constitución Política de los Estados Unidos Mexicanos;
+I. Regular, ordenar y controlar la administración urbana en el Estado, conforme a los principios de los artículos 27, 73 y 115 de la Constitución Política de los Estados Unidos Mexicanos;
 
 II. Establecer las normas y fijar las competencias, atribuciones, concurrencia y responsabilidades del Estado y de los ayuntamientos en materia de desarrollo urbano para la planeación y regulación del ordenamiento territorial de los asentamientos humanos y la fundación, conservación, mejoramiento, ordenación y crecimiento de los centros de población, así como de la constitución de las reservas territoriales;
 
@@ -171,7 +171,7 @@ XII. La adopción de medidas para prevenir o atender desastres.
 
 El ordenamiento territorial de los asentamientos humanos y el desarrollo urbano, tenderá a mejorar las condiciones de vida de la población urbana y rural, mediante:
 
-l. La vinculación del ordenamiento territorial de los asentamientos humanos y el desarrollo urbano regional, municipal y de los centros de población con el bienestar social;
+I. La vinculación del ordenamiento territorial de los asentamientos humanos y el desarrollo urbano regional, municipal y de los centros de población con el bienestar social;
 
 II. El aprovechamiento en beneficio social de los recursos naturales en forma sustentable que garanticen una distribución equitativa de la riqueza pública;
 
@@ -491,7 +491,7 @@ XIII. Las demás que le señalen el presente Código y otras leyes aplicables.
 
 La Secretaría tendrá las atribuciones siguientes:
 
-l. Formular, ejecutar, controlar, modificar, actualizar y evaluar los programas estatal, regionales y sectoriales de desarrollo urbano;
+I. Formular, ejecutar, controlar, modificar, actualizar y evaluar los programas estatal, regionales y sectoriales de desarrollo urbano;
 
 II. Asesorar y apoyar a los ayuntamientos, cuando éstos lo soliciten, en la formulación o actualización, ejecución, control y evaluación de los programas de desarrollo urbano de su competencia;
 
@@ -675,7 +675,7 @@ La Comisión Estatal, es un órgano de consulta y opinión en materia de planeac
 
 La Comisión Estatal se integrará por veintiocho miembros permanentes:
 
-l. Un Presidente, que será el Gobernador;
+I. Un Presidente, que será el Gobernador;
 
 II. Un Secretario Técnico, que será el titular de la Secretaría;
 
@@ -777,7 +777,7 @@ II. Un Secretario Técnico, que será el titular de la Dependencia Municipal rel
 
 III. Los regidores titulares de las comisiones de Desarrollo Urbano y Obras Públicas, Ecología, y Planeación, Presupuesto y Desarrollo del Ayuntamiento;
 
-IV Tres vocales, designados por la totalidad de los Jefes de Tenencia del Municipio correspondiente;
+IV. Tres vocales, designados por la totalidad de los Jefes de Tenencia del Municipio correspondiente;
 
 V. Tres vocales, electos entre los encargados del orden del municipio correspondiente;
 
@@ -889,7 +889,7 @@ Suscrito, en su caso, el convenio de conurbación, la Comisión de Zona Conurbad
 
 La Comisión de Zona Conurbada tendrá las atribuciones siguientes:
 
-l. Formular y aprobar el programa de desarrollo urbano de la zona conurbada conjuntamente con la Secretaría;
+I. Formular y aprobar el programa de desarrollo urbano de la zona conurbada conjuntamente con la Secretaría;
 
 II. Disponer la publicación y registro del programa;
 
@@ -1049,7 +1049,7 @@ Son autoridades competentes para recibir la denuncia, sin menoscabo de otras dis
 
 La denuncia ciudadana es procedente también cuando:
 
-l. Se cause o se pueda causar un daño al patrimonio de la Federación, Estado o Municipio;
+I. Se cause o se pueda causar un daño al patrimonio de la Federación, Estado o Municipio;
 
 II. Causen o puedan causar daño patrimonial, en perjuicio de alguna persona o inclusive del denunciante;
 
@@ -1717,11 +1717,11 @@ El Estado, los ayuntamientos y las comisiones de áreas Conurbadas y Zonas metro
 
 Los programas de desarrollo urbano tendrán vigencia indefinida y solo podrán ser modificados por cambios necesarios en las políticas del ordenamiento del territorio y consecuentemente de la imagen objetivo del desarrollo urbano en los centros de población o por incongruencias entre ellos.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+(REFORMADO, P.O. 28 DE MAYO DE 2015) (F. DE E., P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 95.
 
-Para la modificación parcial o total de un programa, se aplicará el procedimiento dispuesto en el artículo 91 y demás formalidades dispuestas en este Código, salvo los casos previstos en el artículo 109.
+Para la modificación parcial o total de un programa, se aplicará el procedimiento dispuesto en el artículo 91 y demás formalidades dispuestas en este Código.
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
 
@@ -1853,7 +1853,7 @@ El Gobierno del Estado y los ayuntamientos, asignarán los recursos necesarios d
 
 El Gobernador previa autorización del Congreso del Estado, podrá transferir o enajenar áreas o predios del Estado a los ayuntamientos, entidades de la administración pública estatal o federal u organizaciones sociales y privadas, que tengan como objetivo la realización de acciones de desarrollo urbano, siempre y cuando cumplan con los requisitos siguientes:
 
-l. Que el aprovechamiento de los inmuebles sea compatible con los programas de desarrollo urbano y las disposiciones que regulan el uso o destino del suelo;
+I. Que el aprovechamiento de los inmuebles sea compatible con los programas de desarrollo urbano y las disposiciones que regulan el uso o destino del suelo;
 
 II. Contar con un programa financiero en el que se establezcan los recursos económicos disponibles y su vinculación con las acciones de desarrollo; y,
 
@@ -1919,7 +1919,7 @@ Ninguna familia deberá resultar beneficiada por la regularización con más de 
 
 No se podrán regularizar asentamientos humanos irregulares cuando se localicen en:
 
-l. Zonas de riesgo, vulnerabilidad o recarga de mantos freáticos, áreas naturales protegidas declaradas, zonas arqueológicas registradas o de reserva y preservación ecológica, de conformidad con los programas de desarrollo urbano; y,
+I. Zonas de riesgo, vulnerabilidad o recarga de mantos freáticos, áreas naturales protegidas declaradas, zonas arqueológicas registradas o de reserva y preservación ecológica, de conformidad con los programas de desarrollo urbano; y,
 
 II. Zonas federales de barrancas, ríos, arroyos, canales, presas, lagos, mares, océanos y lagunas, en los derechos de vía federales de infraestructuras carreteras, ferroviarias, eléctricas y ductos que transporten petróleo y sus derivados, así como en las franjas de afectación de los gasoductos.
 
@@ -2123,7 +2123,7 @@ Los notarios y demás fedatarios públicos, sólo podrán autorizar escrituras d
 
 Los notarios públicos no requerirán licencia de uso del suelo en los siguientes casos:
 
-l. En el primer acto traslativo de dominio de lotes y fincas en urbanizaciones autorizadas;
+I. En el primer acto traslativo de dominio de lotes y fincas en urbanizaciones autorizadas;
 
 II. Fusión de predios; y,
 
@@ -2205,7 +2205,7 @@ No deberá edificarse, modificarse, demolerse, restaurarse o rehabilitarse ning�
 
 Podrá negarse una solicitud para la realización de obras cuando:
 
-l. Se pretendan levantar construcciones cuya arquitectura no armonice con la fisonomía propia de la calle, zona, contexto urbano o en general del centro de población donde pretendan edificarse;
+I. Se pretendan levantar construcciones cuya arquitectura no armonice con la fisonomía propia de la calle, zona, contexto urbano o en general del centro de población donde pretendan edificarse;
 
 II. Se pretendan emplear en las fachadas existentes dentro de las zonas típicas, materiales que no sean tradicionales del lugar;
 
@@ -2383,7 +2383,7 @@ Los comités de obras tendrán las siguientes facultades:
 
 I. Fomentar y administrar la aportación de los particulares en materia de obras y servicios públicos;
 
-ll. Supervisar y vigilar la ejecución y la calidad de la obra de acuerdo con los proyectos, convenios y contratos aprobados, por el ayuntamiento; y,
+II. Supervisar y vigilar la ejecución y la calidad de la obra de acuerdo con los proyectos, convenios y contratos aprobados, por el ayuntamiento; y,
 
 III. Las demás que les señalen las leyes o reglamentos en la materia.
 
@@ -3035,7 +3035,7 @@ VI. Dictaminar el uso de las áreas de donación de los Desarrollos y desarrollo
 
 VII. Conceder o negar autorización para la colocación, diseño y retiro de mobiliario urbano;
 
-VIII.- Otorgar o negar las licencias de obras de urbanización.
+VIII. Otorgar o negar las licencias de obras de urbanización.
 
 IX. Expedir el certificado de habitabilidad;
 
@@ -3071,9 +3071,9 @@ XXII. Autorizar o negar los desarrollos y desarrollos en condominio;
 
 XXIII. Auxiliarse en su caso, de la fuerza pública para cumplir y hacer cumplir sus determinaciones;
 
-XXIV Emitir opinión sobre el ejercicio del derecho de preferencia del Ayuntamiento, en los términos de este Código;
+XXIV. Emitir opinión sobre el ejercicio del derecho de preferencia del Ayuntamiento, en los términos de este Código;
 
-XXV Vigilar que en los Desarrollos, y en su caso, desarrollos en condominio que no hayan sido municipalizados, los fraccionadores presten adecuada y suficientemente los servicios a que se encuentran obligados conforme a este Código y la autorización correspondiente;
+XXV. Vigilar que en los Desarrollos, y en su caso, desarrollos en condominio que no hayan sido municipalizados, los fraccionadores presten adecuada y suficientemente los servicios a que se encuentran obligados conforme a este Código y la autorización correspondiente;
 
 XXVI. Impedir el establecimiento de asentamientos humanos irregulares; de Desarrollos o desarrollos en condominio, sin las autorizaciones correspondientes;
 
@@ -3103,7 +3103,7 @@ III. Las demás que se deriven del presente Código, o que le confieran otras di
 
 Compete al Organismo, las atribuciones siguientes:
 
-l. Otorgar o negar factibilidades de servicios de su competencia;
+I. Otorgar o negar factibilidades de servicios de su competencia;
 
 II. Aprobar los proyectos de construcción e introducción de los sistemas de agua potable, alcantarillado sanitario y pluvial de los Desarrollos y desarrollos en condominio, así como los relativos a las plantas de tratamiento de aguas residuales e infraestructura para saneamiento, en su caso;
 
@@ -3513,7 +3513,7 @@ Los tipos de Desarrollos que establece este Código atenderán a la densidad de 
 
 Los Desarrollos que se autoricen en el Estado, se Clasificarán en los tipos siguientes:
 
-l. Habitacionales Urbanos:
+I. Habitacionales Urbanos:
 
 a. Residencial;
 
@@ -3555,7 +3555,7 @@ Las normas técnicas del proyecto, las obras de urbanización y construcciones e
 
 Los proyectos, las obras de urbanización y construcción en los Desarrollos, deberán sujetarse a las normas técnicas siguientes:
 
-l. De diseño urbano;
+I. De diseño urbano;
 
 II. De sistemas de agua potable y alcantarillado sanitario y pluvial;
 
@@ -3629,7 +3629,7 @@ V. Las vialidades que las circunden deberán contar con los servicios de infraes
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
 
-VI. Ser un polígono regular, con proporción del predio (ancho/largo) de 1:l a 1:2, cualquier demérito por su forma o proporción deberá incrementarse en el porcentaje de donación;
+VI. Ser un polígono regular, con proporción del predio (ancho/largo) de 1:1 a 1:2, cualquier demérito por su forma o proporción deberá incrementarse en el porcentaje de donación;
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
 
@@ -3641,7 +3641,7 @@ VIII. La posición en relación a la manzana, deberá ser preferentemente en la 
 
 > <small>(ADICIONADA, P.O. 16 DE JULIO DE 2013)</small>
 
-IX. No se permitirán predios afectados por fallas geológicas, derechos federales como líneas de la Comisión Federal de Electricidad, cuerpos de agua, carreteras, poliductos, zonas inundables, entre otros; (sic)
+IX. No se permitirán predios afectados por fallas geológicas, derechos federales como líneas de la Comisión Federal de Electricidad, cuerpos de agua, carreteras, poliductos, zonas inundables, entre otros;
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 2013)</small>
 
@@ -3699,7 +3699,7 @@ Las normas de vialidad son las que regulan el proyecto de un Desarrollo o desarr
 
 Las vialidades de un Desarrollo o desarrollo en condominio, se construirán de acuerdo con lo previsto en este Código y sus características estarán determinadas por la función principal de cada una de ellas, conforme a la siguiente clasificación:
 
-l. Vialidades colectoras. Son las destinadas para interconectar las diversas zonas de un centro de población en forma fluida y con el menor número de obstrucciones. Las características de este tipo de vialidades las determinará el Ayuntamiento;
+I. Vialidades colectoras. Son las destinadas para interconectar las diversas zonas de un centro de población en forma fluida y con el menor número de obstrucciones. Las características de este tipo de vialidades las determinará el Ayuntamiento;
 
 II. Vialidades principales. Son aquellas destinadas a conducir el tránsito de las calles locales hacia otras zonas del desarrollo o del centro de población, o hacia las vialidades colectoras. Este tipo de vialidades nunca podrán ser cerradas y darán acceso a los lotes, departamentos, viviendas, locales o unidades; y,
 
@@ -3709,7 +3709,7 @@ III. Vialidades secundarias. Son aquellas destinadas principalmente a dar acceso
 
 Las vialidades colectoras en los Desarrollos o desarrollos en condominio deberán estar orientadas en función de los puntos cardinales y tener una longitud mínima en relación al largo total de calles, de acuerdo con los porcentajes siguientes:
 
-l. De tipo residencial, el veinte por ciento;
+I. De tipo residencial, el veinte por ciento;
 
 II. De tipo medio, el quince por ciento; y,
 
@@ -3721,7 +3721,7 @@ La Dependencia Municipal determinará cuando por la dimensión de un Desarrollo 
 
 Las vialidades cerradas sólo se permitirán por excepción y sólo en los casos en las condiciones físicas del predio por fraccionar lo justifiquen, o cuando se trate de vialidades de un desarrollo en condominio y que no afecte la estructura vial principal existente de la zona en donde se ubique o que este prevista en los programas de desarrollo urbano, para lo cual deberán atender lo siguiente:
 
-l. Tendrán un arroyo vehicular de un mínimo de 10 metros en doble sentido de circulación, y su sección transversal de paramento a paramento será de 13 metros y una longitud máxima de 120 metros y un retorno de 20 metros de diámetro como mínimo, medidos de guarnición a guarnición;
+I. Tendrán un arroyo vehicular de un mínimo de 10 metros en doble sentido de circulación, y su sección transversal de paramento a paramento será de 13 metros y una longitud máxima de 120 metros y un retorno de 20 metros de diámetro como mínimo, medidos de guarnición a guarnición;
 
 II. En los Desarrollos Industriales tendrán un arroyo vehicular mínimo de 12 metros en doble sentido de circulación, su sección transversal será de 16 metros y una longitud máxima de 120 metros y un retorno de 32 metros de diámetro como mínimo de guarnición a guarnición; y,
 
@@ -3803,7 +3803,7 @@ Las vialidades secundarias deberán tener una anchura mínima de 12 metros, medi
 
 En el caso de que existan andadores, éstos deberán tener como mínimo 6 metros de ancho y contar con un área jardinada de cuando menos el 40% de su anchura. Cualquier lote que tenga acceso a través de un andador, deberá estar situado a una distancia menor de 50 metros de una calle de circulación de vehículos o del lugar de estacionamiento correspondiente; e,
 
-IV Infraestructura y equipamiento urbano. Todo Desarrollo que sea aprobado dentro de este tipo, deberá contar como mínimo, con las obras de urbanización siguientes:
+IV. Infraestructura y equipamiento urbano. Todo Desarrollo que sea aprobado dentro de este tipo, deberá contar como mínimo, con las obras de urbanización siguientes:
 
 a. Fuente de abastecimiento permanente de agua potable con sistema de cloración, red de distribución y tomas domiciliarias;
 
@@ -3837,7 +3837,7 @@ m. Caseta de vigilancia.
 
 Los Fraccionamientos Habitacionales Urbanos tipo medio, son aquellos ubicados en áreas cuya densidad de población puede ser mayor de 151 habitantes por hectárea pero no mayor de 300 habitantes por hectárea y deberán tener como mínimo las características siguientes:
 
-l. Lotificación. Sus lotes no podrán tener una superficie menor de 200 metros cuadrados, sus frentes serán de 10.00 metros cuando se ubiquen sobre vialidades colectoras y principales y de 8.00 metros cuando tengan frente a vialidades secundarias;
+I. Lotificación. Sus lotes no podrán tener una superficie menor de 200 metros cuadrados, sus frentes serán de 10.00 metros cuando se ubiquen sobre vialidades colectoras y principales y de 8.00 metros cuando tengan frente a vialidades secundarias;
 
 II. Usos del suelo. El aprovechamiento predominante será de vivienda unifamiliar y se permitirá solamente hasta el diez por ciento de la superficie vendible para áreas comerciales o de servicios en las zonas autorizadas;
 
@@ -3953,7 +3953,7 @@ Dicha autorización la otorgará el Ayuntamiento, siempre y cuando sean compatib
 
 Las características mínimas que deberán cumplir los Fraccionamientos Habitacionales Suburbanos tipo campestre, son las siguientes:
 
-l. Lotificación. Sus lotes no podrán tener un frente menor de 30 metros, ni una superficie menor a 1,200 metros cuadrados.
+I. Lotificación. Sus lotes no podrán tener un frente menor de 30 metros, ni una superficie menor a 1,200 metros cuadrados.
 
 Las construcciones deberán remeterse 5 metros a partir del paramento; superficie que se dejará como área libre. Se permitirá la construcción como máximo en el cuarenta y cinco por ciento de la superficie del lote y el resto se aprovechará en áreas verdes y espacios abiertos;
 
@@ -4009,7 +4009,7 @@ En este caso el Ayuntamiento podrá recibir las áreas de donación en especie o
 
 Los Fraccionamientos Comerciales deberán ajustarse a las especificaciones que en cada caso fije el Ayuntamiento, de acuerdo a las características siguientes:
 
-l. Lotificación. Sus lotes no podrán tener un frente menor de 3.50 metros y una superficie menor de 30 metros cuadrados;
+I. Lotificación. Sus lotes no podrán tener un frente menor de 3.50 metros y una superficie menor de 30 metros cuadrados;
 
 II. Usos del suelo. El aprovechamiento será sólo para actividades comerciales o de servicios;
 
@@ -4271,7 +4271,7 @@ III. La autorización definitiva del proyecto.
 
 La solicitud para una licencia de uso del suelo de un Desarrollo o desarrollo en condominio, se presentará ante la Dependencia Municipal, acompañando para el efecto los documentos siguientes:
 
-l. Documento que contenga los datos de identificación del predio, el tipo de Desarrollo o desarrollo en condominio que se solicita, nombre y firma del propietario o representante legal y domicilio;
+I. Documento que contenga los datos de identificación del predio, el tipo de Desarrollo o desarrollo en condominio que se solicita, nombre y firma del propietario o representante legal y domicilio;
 
 II. Copia del título de propiedad del predio, inscrito en el Registro Público de la Propiedad Raíz en el Estado;
 
@@ -4579,7 +4579,7 @@ Los desarrollos en condominio, tendrán las características de funcionamiento s
 
 I. El desarrollo podrá estar delimitado por medio de barda, reja o cerca, siempre que no se interrumpa la continuidad de las vialidades existentes que concurran al predio o que se tengan previstas en los programas de desarrollo urbano;
 
-ll. En caso de no existir estudio vial de la zona en donde se pretenda establecer el desarrollo en condominio, se deberá prever una estructura urbana de vialidades colectoras públicas a una distancia promedio máxima de 250 metros, orientadas de norte a sur y de oriente a poniente, salvo en los Desarrollos habitacionales suburbanos tipo campestre y rústicos tipo granja e industriales que será determinado por el Ayuntamiento;
+II. En caso de no existir estudio vial de la zona en donde se pretenda establecer el desarrollo en condominio, se deberá prever una estructura urbana de vialidades colectoras públicas a una distancia promedio máxima de 250 metros, orientadas de norte a sur y de oriente a poniente, salvo en los Desarrollos habitacionales suburbanos tipo campestre y rústicos tipo granja e industriales que será determinado por el Ayuntamiento;
 
 III. La sección de las vialidades internas y la longitud de las manzanas, deberán tener las mismas medidas que se disponen en este Código, para el tipo de fraccionamiento o conjunto habitacional que se pretenda realizar en condominio;
 
@@ -4695,7 +4695,7 @@ IV. Obligación de no vender, gravar, donar o fideicomitir el veinticinco por ci
 
 V. Carta de crédito expedida por Institución Bancaria; e,
 
-VI Hipoteca sobre bienes distintos del que es motivo la autorización, que a juicio de perito valuador designado por el Ayuntamiento, sea suficiente para garantizar el monto total del valor de la garantía por las obras de urbanización, según corresponda.
+VI. Hipoteca sobre bienes distintos del que es motivo la autorización, que a juicio de perito valuador designado por el Ayuntamiento, sea suficiente para garantizar el monto total del valor de la garantía por las obras de urbanización, según corresponda.
 
 ###### ARTÍCULO 386.
 
@@ -5249,7 +5249,7 @@ En el caso de que un fraccionador desee obtener la cancelación de la autorizaci
 
 No obstante el otorgamiento de la autorización de un visto bueno de vialidad y lotificación o de una autorización definitiva, a favor de persona física o moral, la propia autoridad otorgante podrá determinar su caducidad cuando:
 
-l. Transcurran más de 180 días naturales contados a partir de la fecha del oficio de la autorización del visto bueno de vialidad y lotificación y por causas imputables al fraccionador, éste no exhibe ante el Ayuntamiento los documentos que se le hayan indicado en el oficio por el que se le concede; o,
+I. Transcurran más de 180 días naturales contados a partir de la fecha del oficio de la autorización del visto bueno de vialidad y lotificación y por causas imputables al fraccionador, éste no exhibe ante el Ayuntamiento los documentos que se le hayan indicado en el oficio por el que se le concede; o,
 
 II. Transcurran más de dos años contados a partir de la fecha de notificación de la autorización definitiva, el fraccionador no haya ejecutado las obras señaladas en la autorización otorgada.
 
