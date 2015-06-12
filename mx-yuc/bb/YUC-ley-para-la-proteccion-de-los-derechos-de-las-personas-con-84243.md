@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-proteccion-de-los-derechos-de-las-personas-con-8424
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-21"
-last_updated: "2011-12-21"
+last_updated: "2015-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84243&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE JUNIO DE 2015.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 21 de diciembre de 2011.
 
@@ -393,13 +393,21 @@ Las niñas, niños y adolescentes con discapacidad no serán sujetos de violenci
 
 La Procuraduría, en el ejercicio de sus atribuciones, realizará acciones para prevenir la violencia contra niñas, niños y adolescentes con discapacidad.
 
+> <small>(REFORMADO, D.O. 12 DE JUNIO DE 2015)</small>
+
 ###### Artículo 25.
 
-Para contribuir al respeto de los derechos de niñas, niños y adolescentes con discapacidad, el DIF realizará acciones para la difusión y conocimiento de dichos derechos.
+Para contribuir al respeto de los derechos de niñas, niños y adolescentes con discapacidad, el DIF realizará acciones para la difusión y conocimiento de dichos derechos y ofrecerá apoyos educativos y formativos para quienes ejerzan la patria potestad, tutela o guarda y custodia de estos, a fin de aportarles los medios necesarios para que pueden (sic) fomentar su desarrollo y vida digna.
 
 ###### Artículo 26.
 
 En todas las políticas públicas, acciones y actividades relacionadas con niñas, niños y adolescentes con discapacidad, una consideración primordial será la protección del interés superior del niño.
+
+> <small>(ADICIONADO, D.O. 12 DE JUNIO DE 2015)</small>
+
+###### Artículo 26 Bis.
+
+Cuando exista duda o percepción de si una niña, niño o adolescente es persona con discapacidad, se presumirá que es una niña, niño o adolescente con discapacidad.
 
 ### CAPÍTULO IV. Derecho a la Accesibilidad y vivienda
 
@@ -1063,9 +1071,11 @@ III.- Las demás que señale esta Ley y otras disposiciones aplicables.
 
 ### CAPÍTULO I. Recopilación de datos y estadísticas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE JUNIO DE 2015)</small>
+
 ###### Artículo 101.
 
-Las autoridades estatales y municipales competentes, en la forma que establezca el reglamento de esta Ley, recopilarán y generarán información adecuada, incluidos datos estadísticos y de investigación, que les permita formular y aplicar Políticas Públicas en materia de protección de los derechos de las personas con discapacidad.
+Las autoridades estatales y municipales competentes, en la forma que establezca el reglamento de esta Ley, recopilarán y generarán información adecuada, incluidos datos estadísticos, desagregados por sexo, edad, escolaridad y tipo de discapacidad, y de investigación, que les permita formular y aplicar Políticas Públicas en materia de protección de los derechos de las personas con discapacidad.
 
 Para tal efecto, podrán firmar convenios de colaboración con instituciones educativas y académicas, así como dependencias y entidades de gobierno de los tres niveles, para la realización de investigaciones generadoras de datos estadísticos.
 
@@ -1262,3 +1272,51 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE JUNIO DE 2015.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, sin perjuicio de lo dispuesto en el artículo transitorio segundo.
+
+Segundo. Régimen de vigencia especial
+
+Las derogaciones de los artículos 67, 88 y 144 del Código de Familia para el Estado de Yucatán entrarán en vigor a los dos años contados a partir de la publicación de este decreto en el Diario Oficial del Gobierno del Estado de Yucatán. La reforma del artículo 7 de la Ley de Justicia para Adolescentes del Estado de Yucatán entrará en vigor el mismo día que lo haga el Código Nacional de Procedimientos Penales.
+
+Tercero. Abrogación
+
+Se abrogan la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el 8 de agosto de 2008.
+
+Cuarto. Expedición del programa
+
+El Gobernador deberá expedir el Programa Especial de Protección de Niñas, Niños y Adolescentes dentro de un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de este decreto.
+
+Quinto. Instalación del consejo
+
+El Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán deberá instalarse dentro de un plazo de noventa días naturales contados a partir de la entrada en vigor de este decreto.
+
+Sexto. Expedición de reglamento interno
+
+El Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán deberá expedir su reglamento interno dentro de un plazo de noventa días naturales contados a partir de su instalación.
+
+Séptimo. Modificación de regulación interna de la Prodemefa
+
+La Procuraduría de la Defensa del Menor y la Familia deberá adecuar su regulación interna en materia de procedimientos de adopción en los términos de lo dispuesto por este decreto dentro de un plazo de noventa días naturales contados a partir de su entrada en vigor.
+
+Octavo. Modificación de regulación interna de la Codhey
+
+La Comisión de Derechos Humanos del Estado de Yucatán deberá adecuar su regulación interna para establecer una unidad administrativa especializada en materia de niñas, niños y adolescentes, en los términos de lo dispuesto por el artículo 140 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+Noveno. Nombramiento del secretario ejecutivo
+
+El Gobernador deberá nombrar al Secretario Ejecutivo del Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán dentro de un plazo de treinta días naturales contados a partir de la entrada en vigor de este decreto.
+
+Décimo. Matrimonios entre adolescentes
+
+Los matrimonios entre adolescentes celebrados antes de la entrada en vigor de este decreto en los términos de los artículos que se derogan del Código de Familia para el Estado de Yucatán serán válidos para todos los efectos legales.
+
+Décimo primero. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
