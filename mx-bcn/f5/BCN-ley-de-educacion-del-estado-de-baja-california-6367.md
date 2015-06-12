@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2015-04-10"
+last_updated: "2015-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -950,6 +950,10 @@ IX.- Desarrollará y formará en los estudiantes una sólida conciencia de los v
 > <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2012)</small>
 
 X.- Difundirá y formará en los estudiantes, una conciencia plena sobre la cultura de la prevención de riesgos y accidentes, la educación vial, de tal manera que sean factor de cambio e impulso social de los programas estatales en la materia.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2015)</small>
+
+ARTICULO 43 BIS.- Las autoridades educativas a través de la Dirección de Formación de Profesionales de la Educación realizarán las acciones que garanticen la articulación de la formación inicial y continua del personal sujeto al Servicio Profesional Docente, en los términos establecidos en los Artículos 18 TER, 42 y 43 de la presente Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2012)</small>
 
@@ -2000,3 +2004,9 @@ P.O. 20 DE FEBRERO DE 2015.
 P.O. 10 DE ABRIL DE 2015.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JUNIO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado, deberá fusionar la estructura administrativa con las áreas correspondientes para el cumplimiento de este Decreto y, en su caso, la modificación del reglamento respectivo para asignar las funciones correspondientes que se deriven de la presente reforma, en un plazo máximo de 90 días.
