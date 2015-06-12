@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-salud-del-estado-de-yucatan-11965"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-16"
-last_updated: "2012-07-26"
+last_updated: "2015-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE SALUD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE JUNIO DE 2015.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 16 de marzo de 1992.
 
@@ -37,11 +37,11 @@ QUE EL LII CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE YUCATAN, D E C
 
 LEY DE SALUD DEL ESTADO DE YUCATAN
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 9 DE JULIO DE 2007)</small>
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO [N. DE E. ANTES CAPITULO UNICO], D.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO ÚNICO], D.O. 9 DE JULIO DE 2007)</small>
 
 ### CAPITULO I. DEL OBJETO Y FINES DE LA LEY
 
@@ -127,7 +127,7 @@ Para los efectos de esta Ley, el Estado ejercerá sus facultades de Autoridad Sa
 
 Corresponde al Estado como Autoridad Sanitaria Estatal, la aplicación de la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 7.
 
@@ -245,7 +245,7 @@ XIX.- Promover, orientar, fomentar y apoyar las acciones en materia de salubrida
 
 XX.- Las demás materias que determine esta Ley y otras disposiciones generales aplicables.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 9 DE JULIO DE 2007)</small>
 
 ### CAPITULO II. DEL SISTEMA DE SALUD
 
@@ -357,7 +357,7 @@ La competencia de las autoridades sanitarias en la planeación, regulación, org
 
 El Gobierno del Estado con la participación que corresponda al Comité de Planeación para el Desarrollo Estatal y al Consejo Estatal de Prevención de Adicciones, elaborará los programas de salud y de prevención de las adicciones, tomando en cuenta las prioridades y los servicios de los sistemas nacional y estatal de salud.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 9 DE JULIO DE 2007)</small>
 
 ### CAPITULO III. DE LA COORDINACION Y COMPETENCIAS
 
@@ -551,11 +551,11 @@ Los recursos que aporten quedarán expresamente afectados a los fines del acuerd
 
 (DEROGADO, D.O. 9 DE JULIO DE 2007)
 
-> <small>(REFORMADO SU DENOMINACIÓN, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 9 DE JULIO DE 2007)</small>
 
 ## TITULO TERCERO. DE LOS SERVICIOS DE SALUD
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 9 DE JULIO DE 2007)</small>
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
@@ -649,7 +649,7 @@ El Estado, en coordinación con las Dependencias competentes del Ejecutivo Feder
 
 (DEROGADO, D.O. 9 DE JULIO DE 2007)
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 9 DE JULIO DE 2007)</small>
 
 ### CAPITULO III. DE LAS MODALIDADES
 
@@ -719,7 +719,7 @@ El Organismo, en coordinación con las Autoridades Educativas competentes y del 
 
 El organismo coadyuvará con las Autoridades Educativas competentes para la promoción y fomento de la Constitución de Colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud, estimulando su participación en el Sistema Estatal de Salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las Autoridades Sanitarias, cuando éstas lo requieran.
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 9 DE JULIO DE 2007)</small>
 
 ### CAPITULO IV. DERECHOS Y OBLIGACIONES DE LOS USUARIOS
 
@@ -811,7 +811,7 @@ Los Ayuntamientos con sujeción a las disposiciones legales aplicables, en coord
 
 Se concede acción popular para denunciar ante las Autoridades Sanitarias, todo hecho, acto u omisión que presente un riesgo o provoque un daño a la salud de la población, bastando para darle curso, el señalamiento de los datos que permitan localizar la causa del riesgo. La acción popular podrá ejercitarse por cualquier persona.
 
-(REUBICADO [N. DE E. ANTES CAPITULO V], D.O. 9 DE JULIO DE 2007)
+(REUBICADO [N. DE E. ANTES CAPÍTULO V], D.O. 9 DE JULIO DE 2007)
 
 ### CAPITULO VI. ATENCION MATERNO INFANTIL
 
@@ -836,6 +836,12 @@ En los servicios de salud se promoverá la organización institucional de comit�
 ###### ARTICULO 64.
 
 La protección de la salud física y mental de los menores es una responsabilidad que comparten los padres, los tutores o quiénes ejerzan sobre ellos la patria potestad, el Estado y la sociedad en general.
+
+> <small>(ADICIONADO, D.O. 12 DE JUNIO DE 2015)</small>
+
+ARTICULO 64 BIS.- Los menores tendrán derecho a ser atendidos antes que las personas adultas en los servicios de salud, en igualdad de condiciones.
+
+Las autoridades sanitarias, en la prestación de los servicios de salud, deberán respetar el derecho a la intimidad de los menores.
 
 ###### ARTICULO 65.
 
@@ -867,7 +873,7 @@ A fin de proteger la salud del educando y de la comunidad escolar en general, la
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las Autoridades Sanitarias y Educativas.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO [N. DE E. ANTES CAPITULO VI], D.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO [N. DE E. ANTES CAPÍTULO VI], D.O. 9 DE JULIO DE 2007)</small>
 
 ### CAPITULO VII. PLANIFICACION FAMILIAR
 
@@ -901,7 +907,7 @@ Los comités de salud a que se refiere el artículo 59 de esta Ley, promoverán 
 
 El Gobierno del Estado coadyuvará con la Secretaría en las acciones del programa nacional de planificación familiar que formule el Consejo Nacional de Población y del programa de Planificación Familiar del Sector Salud, cuidará que se incorporen a los programas Estatales de Salud.
 
-(REUBICADO [N. DE E. ANTES CAPITULO VII], D.O. 9 DE JULIO DE 2007)
+(REUBICADO [N. DE E. ANTES CAPÍTULO VII], D.O. 9 DE JULIO DE 2007)
 
 ### CAPITULO I. PROFESIONALES, TECNICOS Y AUXILIARES
 
@@ -917,7 +923,7 @@ I.- El desarrollo de actividades educativas, socioculturales, deportivas y recre
 
 II.- La difusión de las orientaciones para la promoción de la salud mental;
 
-III.- La realización de programas para la prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencia; y (sic)
+III.- La realización de programas para la prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencia; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1061,11 +1067,11 @@ Los aspectos docentes de Internado de Pre-Grado y de las Residencias de especial
 
 La operación de los programas correspondientes en los establecimientos de salud, se llevará a cabo de acuerdo a los lineamientos establecidos por cada una de las Instituciones de salud y lo que determinen las Autoridades Sanitarias competentes.
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 9 DE JULIO DE 2007)</small>
 
 ## TITULO QUINTO. DE LA INVESTIGACION E INFORMACION PARA LA SALUD
 
-> <small>(REFORMADO [N. DE E. ANTES CAPITULO UNICO], D.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO ÚNICO], D.O. 9 DE JULIO DE 2007)</small>
 
 ### CAPITULO UNICO
 
@@ -1115,7 +1121,7 @@ Quien realice investigación en seres humanos en contravención a lo dispuesto p
 
 En el tratamiento de una persona enferma, el médico podrá usar nuevos recursos terapéuticos o de diagnóstico, cuando exista posibilidad fundada de salvar la vida, establecer la salud o disminuir el sufrimiento del paciente, siempre que cuente con el consentimiento por escrito de éste, de su representante legal, en su caso, o del familiar más cercano en vínculo, y sin perjuicio de cumplir con los demás requisitos que determine la Ley General, esta Ley y otras disposiciones aplicables.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 9 DE JULIO DE 2007)</small>
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
@@ -1149,11 +1155,11 @@ Los establecimientos que presten servicios de salud, los profesionales, técnico
 
 (DEROGADO, D.O 9 DE JULIO DE 2007)
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 9 DE JULIO DE 2007)</small>
 
 ## TITULO SEPTIMO. PRESERVACION DE LA SALUD
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 9 DE JULIO DE 2007)</small>
 
 ### CAPITULO III. NUTRICION
 
@@ -1161,7 +1167,7 @@ Los establecimientos que presten servicios de salud, los profesionales, técnico
 
 La preservación de la salud tiene por objeto crear, conservar y mejorar las condiciones de salud de la población y propiciar en el individuo, las actitudes, valores y conductas adecuadas para motivar su participación en beneficio de la salud individual y colectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 99.
 
@@ -1266,6 +1272,8 @@ En la prestación de los Servicios de Salud Ocupacional el Organismo como Autori
 El Estado en coordinación con las dependencias y entidades públicas competentes, promoverán, desarrollarán y difundirán investigaciones de carácter multidisciplinario que permitan prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipos de trabajo a las características del hombre.
 
 ### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
+
+> <small>(REFORMADO, D.O. 12 DE JUNIO DE 2015)</small>
 
 ## TITULO OCTAVO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
@@ -1401,7 +1409,7 @@ Las Autoridades Sanitarias determinarán los casos en que se deba proceder a la 
 
 ###### ARTICULO 129.
 
-El Estado realizará actividades de prevención y control de las enfermedades no transmisibles que las autoridades sanitarias competentes determinen, coordinando sus actividades con otras Dependencias y Entidades Públicas y con la Secretaría para la investigación, prevención y control de dichas enfermedades.
+El Estado realizará actividades de prevención y control del cáncer y las demás enfermedades no transmisibles que las autoridades sanitarias competentes determinen, coordinando sus actividades con otras Dependencias y Entidades Públicas y con la Secretaría para la investigación, prevención y control de dichas enfermedades.
 
 ###### ARTICULO 130.
 
@@ -1649,7 +1657,7 @@ DE LOS ESTABLECIMIENTOS QUE EXPENDAN ALIMENTOS Y BEBIDAS EN GENERAL.
 
 ## TITULO DECIMO SEGUNDO. SALUBRIDAD LOCAL
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 9 DE JULIO DE 2007)</small>
 
 ### CAPITULO IV. CEMENTERIOS Y CREMATORIOS
 
@@ -1801,7 +1809,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a reforesta
 
 La aprobación de las solicitudes de refrigeración, exhumación, cremación o traslado de cadáveres y restos áridos deberá ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad competente y las normas técnicas que dicte la Secretaría.
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 9 DE JULIO DE 2007)</small>
 
 ### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
@@ -1815,7 +1823,7 @@ Para los efectos de esta Ley, se entiende por servicio de Higiene Pública, la l
 
 Para efectos de la presente Ley, se entenderá por residuos sólidos, el material generado de los procesos de extracción, beneficio, transformación, producción, consumo, utilización control, tratamiento, de cualquier producto, cuya calidad no permita usarlo nuevamente en el proceso que lo generó que provengan de actividades que se desarrollen en domicilios, establecimientos mercantiles, industriales o de servicios de las vías públicas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 204.
 
@@ -2083,7 +2091,7 @@ Todo establecimiento dedicado al expendio de gasolina o lubricantes, será somet
 
 ### CAPITULO I. DE LAS AUTORIZACIONES Y CERTIFICADOS
 
-> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA, ANTES CAPITULO I], D.O. 9 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA, ANTES CAPÍTULO I], D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 248.
 
@@ -2117,7 +2125,7 @@ Los propietarios de los animales a que se refiere el artículo anterior, estará
 
 La Autoridad Sanitaria, mantendrá campañas permanentes de orientación a la población, enfocadas a la vacunación y control de animales domésticos susceptibles de contraer la hidrofobia.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 9 DE JULIO DE 2007)</small>
 
 ### CAPITULO III. DE LA VIGILANCIA SANITARIA
 
@@ -2213,11 +2221,11 @@ II.- Los que en forma expresa determine el Ayuntamiento por acuerdo de Cabildo o
 
 III.- Los que en forma expresa y para fechas y plazos determinados, decrete el Titular del Poder Ejecutivo del Estado, en los términos de la fracción anterior.
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 9 DE JULIO DE 2007)</small>
 
 ## TITULO DECIMO TERCERO. REGULACION SANITARIA
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADO], D.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], D.O. 9 DE JULIO DE 2007)</small>
 
 ### CAPITULO UNICO.
 
@@ -2309,7 +2317,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la Autori
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la Legislación Fiscal y los convenios de coordinación que celebren en la materia el Gobierno del Estado con el Ejecutivo Federal.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA, ANTES CAPITULO II], D.O. 9 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA, ANTES CAPÍTULO II], D.O. 9 DE JULIO DE 2007)</small>
 
 #### SECCION SEGUNDA. DE LAS REVOCACION (SIC) DE AUTORIZACIONES SANITARIAS
 
@@ -2369,7 +2377,7 @@ La Autoridad Sanitaria emitirá la resolución que corresponda al concluir la au
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso, prohibición de venta o ejercicio de las actividades a que se refiere la autorización revocada. El interesado podrá impugnar la resolución de revocación interponiendo el recurso de inconformidad señalado en esta Ley.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA, ANTES CAPITULO III], D.O. 9 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA, ANTES CAPÍTULO III], D.O. 9 DE JULIO DE 2007)</small>
 
 #### SECCION TERCERA. DE LOS CERTIFICADOS
 
@@ -2407,7 +2415,7 @@ Los certificados de defunción y de muerte fetal, serán expedidos una vez compr
 
 Los certificados a que se refiere este título se extenderán en los modelos aprobados por la Secretaría de Salud y de conformidad con las normas técnicas que la misma emita. Las Autoridades Judiciales o Administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en este artículo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 9 DE JULIO DE 2007)</small>
 
 ### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
@@ -2515,7 +2523,7 @@ IV.- Proceso utilizado y líneas o línea de productos.
 
 Todo cambio de propietario de un establecimiento, de razón social o denominación, cesión de derechos de productos o la fabricación de nuevas líneas de productos, deberá ser comunicado a la Autoridad Sanitaria, en un plazo no mayor de treinta días a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de la Ley General, de esta Ley y demás disposiciones aplicables.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 9 DE JULIO DE 2007)</small>
 
 ### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
@@ -2637,7 +2645,7 @@ En el caso de los productos recolectados en procedimientos de muestreo o verific
 
 ### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 9 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 276.
 
@@ -3101,7 +3109,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. ORLANDO A. PAREDES LARA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O. 23 DE ENERO DE 2003.
 
@@ -3164,3 +3172,49 @@ D.O. 26 DE JULIO DE 2012.
 Artículo Primero.- El presente Decreto entrará en vigor a los 120 días posteriores a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+D.O. 12 DE JUNIO DE 2015.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, sin perjuicio de lo dispuesto en el artículo transitorio segundo.
+
+Segundo. Régimen de vigencia especial
+
+Las derogaciones de los artículos 67, 88 y 144 del Código de Familia para el Estado de Yucatán entrarán en vigor a los dos años contados a partir de la publicación de este decreto en el Diario Oficial del Gobierno del Estado de Yucatán. La reforma del artículo 7 de la Ley de Justicia para Adolescentes del Estado de Yucatán entrará en vigor el mismo día que lo haga el Código Nacional de Procedimientos Penales.
+
+Tercero. Abrogación
+
+Se abrogan la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el 8 de agosto de 2008.
+
+Cuarto. Expedición del programa
+
+El Gobernador deberá expedir el Programa Especial de Protección de Niñas, Niños y Adolescentes dentro de un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de este decreto.
+
+Quinto. Instalación del consejo
+
+El Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán deberá instalarse dentro de un plazo de noventa días naturales contados a partir de la entrada en vigor de este decreto.
+
+Sexto. Expedición de reglamento interno
+
+El Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán deberá expedir su reglamento interno dentro de un plazo de noventa días naturales contados a partir de su instalación.
+
+Séptimo. Modificación de regulación interna de la Prodemefa
+
+La Procuraduría de la Defensa del Menor y la Familia deberá adecuar su regulación interna en materia de procedimientos de adopción en los términos de lo dispuesto por este decreto dentro de un plazo de noventa días naturales contados a partir de su entrada en vigor.
+
+Octavo. Modificación de regulación interna de la Codhey
+
+La Comisión de Derechos Humanos del Estado de Yucatán deberá adecuar su regulación interna para establecer una unidad administrativa especializada en materia de niñas, niños y adolescentes, en los términos de lo dispuesto por el artículo 140 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+Noveno. Nombramiento del secretario ejecutivo
+
+El Gobernador deberá nombrar al Secretario Ejecutivo del Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán dentro de un plazo de treinta días naturales contados a partir de la entrada en vigor de este decreto.
+
+Décimo. Matrimonios entre adolescentes
+
+Los matrimonios entre adolescentes celebrados antes de la entrada en vigor de este decreto en los términos de los artículos que se derogan del Código de Familia para el Estado de Yucatán serán válidos para todos los efectos legales.
+
+Décimo primero. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
