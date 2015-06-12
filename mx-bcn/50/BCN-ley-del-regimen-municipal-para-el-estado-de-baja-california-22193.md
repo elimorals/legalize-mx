@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2013-08-23"
+last_updated: "2015-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -89,7 +89,9 @@ II.- Las sesiones de Cabildo se desarrollarán conforme lo disponga el reglament
 
 III.- Para levantar las actas de las reuniones de Cabildo, llevar su adecuado registro, darle publicidad a los acuerdos adoptados, y ejercer la fé pública del órgano de gobierno, en cada Ayuntamiento fungirá una persona como secretario fedatario, quien no será miembro del Ayuntamiento y se designará por mayoría a propuesta del Presidente Municipal;
 
-IV.- Cada Ayuntamiento establecerá las comisiones de Regidores para analizar y dictaminar los asuntos que sean sometidos a la consideración del Ayuntamiento en las materias de legislación, hacienda y administración, seguridad pública, desarrollo urbano, servicios públicos y las demás que conforme a las características económicas, políticas y sociales, resulten necesarias y se acuerde establecer.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
+
+IV. Cada Ayuntamiento establecerá las comisiones de Regidores para analizar y dictaminar los asuntos que sean sometidos a la consideración del Ayuntamiento en las (sic) materia de legislación, hacienda y administración, seguridad pública, desarrollo urbano, servicios públicos, equidad de género y las demás que conforme a las características económicas, políticas y sociales, resulten necesarias y se acuerde establecer.
 
 ###### ARTÍCULO 6.
 
@@ -115,9 +117,17 @@ VI.- Ejercer el derecho de previa observación de los acuerdos que se pretendan 
 
 VII.- Cumplir y hacer cumplir las disposiciones normativas derivadas de las leyes y reglamentos federales, estatales y municipales, dentro del ámbito de su competencia;
 
-VIII.- Ejecutar los planes y programas municipales, implementando los controles presupuestales correspondientes a fin de formular la cuenta pública que será sometida al Congreso del Estado, y
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
 
-IX.- Todas aquellas que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
+VIII. Promover entre los habitantes del municipio el conocimiento, respeto y defensa de los derechos humanos; la perspectiva de género y la protección de los derechos de los pueblos indígenas;
+
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
+
+IX. Ejecutar los planes y programas municipales, implementando los controles presupuestales correspondientes a fin de formular la cuenta pública que será sometida al Congreso del Estado; y
+
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2015)</small>
+
+X. Todas aquellas que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
 
 ###### ARTÍCULO 8.
 
@@ -323,13 +333,13 @@ Las empresas de participación municipal y fideicomisos se constituirán y funci
 
 De la Municipalización de los Servicios Públicos.- Cuando la prestación de un servicio público de carácter municipal, por cualquier motivo se encuentre a cargo de un particular o de autoridad diversa a la municipal y su prestación sea irregular, deficiente o cause perjuicio a la comunidad, el ayuntamiento podrá municipalizarlo mediante acuerdo que para tal efecto adopte, de conformidad con el procedimiento que establezca en el reglamento de la materia.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 25.
 
-De los Planes y Programas Municipales.- Los planes y programas, que formulen y aprueben los Ayuntamientos, deberán incorporar la dimensión ambiental que garantice un medio ambiente adecuado para el bienestar y desarrollo de la población del Municipio.
+De los Planes y Programas Municipales.- Los planes y programas, que formulen y aprueben los Ayuntamientos, deberán incorporar la dimensión ambiental que garantice un medio ambiente adecuado para bienestar y desarrollo de la población del Municipio; el respeto y defensa de los derechos humanos; la perspectiva de género y la protección de los derechos de los pueblos indígenas a quienes se tomará en cuenta para la formulación de dichos Planes y Programas.
 
-> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
-
-Los titulares de las entidades y órganos de la Administración Pública Municipal centralizada, desconcentrada y paramunicipal deberán incluir en toda la documentación y en la difusión de sus programas contratados en los medios masivos de comunicación y en el portal institucional de internet la leyenda siguiente: “Este programa es público, ajeno a cualquier partido político. Queda prohibido el uso para fines distintos a los establecidos en el programa”.
+Los titulares de las entidades y órganos de la Administración Pública Municipal centralizada, desconcentrada y paramunicipal deberán incluir en toda la documentación y en la difusión de sus programas contratados en los medios masivos de comunicación y en el portal institucional de internet la leyenda siguiente: "Este programa es público, ajeno a cualquier partido político. Queda prohibido el uso para fines distintos a los establecidos en el programa".
 
 ### CAPÍTULO SEGUNDO. DEL TERRITORIO Y LA POBLACIÓN DE LOS MUNICIPIOS
 
@@ -652,3 +662,9 @@ SEGUNDO.- Los Ayuntamientos de Ensenada, Mexicali y Tijuana tendrán un plazo de
 P.O. 23 DE AGOSTO DE 2013.
 
 ÚNICO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 12 DE JUNIO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Ayuntamientos tendrán 90 días para realizar las modificaciones a los Reglamentos correspondientes.
