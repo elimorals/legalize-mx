@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-social-para-el-estado-de-puebla-52694"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-18"
-last_updated: "2013-11-22"
+last_updated: "2015-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015.
 
 Ley publicada en la Cuarta Sección al Periódico Oficial del Estado de Puebla, el lunes 18 de diciembre de 2006.
 
@@ -291,15 +291,17 @@ Los Municipios que no cuenten con la capacidad e infraestructura administrativa 
 
 ### CAPÍTULO III. DE LAS ZONAS DE ATENCIÓN PRIORITARIA
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 ###### Artículo 27.
 
-Se consideran zonas de atención prioritaria, las áreas o regiones de carácter predominantemente rural o urbano, cuya población registre índices de pobreza multidimensional indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos para el Desarrollo Social establecidos en esta Ley. Su determinación se orientará por los criterios de resultados que para el efecto defina la Secretaría, el que deberá, en todo tiempo, promover la eficacia cuantitativa y cualitativa de los ejecutores de la Política Social.
+Se consideran zonas de atención prioritaria, las áreas o regiones de carácter predominantemente rural o urbano, cuya población registre índices de pobreza multidimensional, indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos para el Desarrollo Social establecidos en esta Ley. Su determinación se orientará por los criterios de resultados que para el efecto defina el Consejo Nacional de Evaluación de la Política de Desarrollo Social.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 ###### Artículo 28.
 
-El Ejecutivo Estatal revisará anualmente las zonas de atención prioritaria, teniendo como referente las evaluaciones de resultados de los estudios de medición de la pobreza y marginación, que emita la instancia competente.
+El Ejecutivo Estatal revisará anualmente las zonas de atención prioritaria, teniendo como referente las evaluaciones de resultados de los estudios de medición de la pobreza y marginación, que emita el Consejo Nacional de Evaluación de la Política de Desarrollo Social, para implementar las acciones pertinentes.
 
 ###### Artículo 29.
 
@@ -716,3 +718,9 @@ P.O. 22 DE NOVIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Puebla.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE JUNIO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
