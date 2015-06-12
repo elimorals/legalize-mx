@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-venta-almacenaje-y-consumo-publico-de-25686"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-03"
-last_updated: "2012-01-20"
+last_updated: "2015-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de mayo de 2002.
 
@@ -53,109 +53,121 @@ REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PUBLICO DE BEBIDAS ALCOHOLICAS EN
 
 Las disposiciones de este Reglamento son de orden público e interés social, y regularán la Venta, Almacenaje para su Venta y Venta para Consumo Público de Bebidas Alcohólicas en el Municipio de Tijuana, Baja California.
 
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2015)</small>
+
+ARTICULO 1 BIS.- El almacenaje para su venta y venta para consumo público de bebidas alcohólicas, sólo podrán realizarse en los establecimientos y lugares que establezca este ordenamiento, previo permiso que otorgue el Ayuntamiento de Tijuana o el Ejecutivo Municipal en su caso.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
+
 ###### ARTICULO 2.
 
 Para efectos de este Reglamento se entiende por:
 
-LEY: La Ley para la venta, almacenaje y consumo público de bebidas alcohólicas del Estado de Baja California.
+I.- ACUERDO DE CABILDO: Es la resolución del pleno del Ayuntamiento que recae sobre el dictamen de la Comisión Reguladora de Bebidas Alcohólicas, mediante el cual autoriza a la autoridad municipal el otorgamiento del permiso o la negativa del mismo;
 
-> <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
+II.- APERCIBIMIENTO: Es un acto administrativo por medio del cual se hace del conocimiento de la persona requerida, de las consecuencias que trae aparejada la repetición de una conducta que es sancionable y que debe corregir, pues en caso contrario se procederá a la aplicación de las sanciones correspondientes;
 
-REGLAMENTO: El Reglamento que regula la venta, almacenaje y consumo público de bebidas alcohólicas en el Municipio de Tijuana Baja California.
+III.- AUTORIDAD MUNICIPAL: Órganos de Gobierno Municipal que tienen la facultad de ejecutar sus resoluciones aun con el auxilio de la fuerza pública;
 
-AYUNTAMIENTO: Cuerpo colegiado compuesto por el Presidente Municipal, el Sindico Procurador y los Regidores.
+IV.- AYUNTAMIENTO: Cuerpo colegiado compuesto por el Presidente Municipal, el Síndico Procurador, el Síndico Social y los Regidores;
 
-CABILDO: Se denomina Cabildo al Ayuntamiento reunido en sesión, y como cuerpo colegiado de Gobierno, le compete la definición de las políticas generales de la administración municipal, en los términos de las leyes aplicables.
+V.- BEBIDAS ALCOHÓLICAS: Los licores, cervezas, bebidas refrescantes, bebidas fermentadas, vinos y líquidos potables cuya graduación alcohólica a la temperatura de quince grados centígrados sea mayor a dos por ciento de alcohol por volumen, pero que no exceda del cincuenta y cinco por ciento de alcohol por volumen;
 
-ACUERDO DE CABILDO: Es la resolución del pleno del Ayuntamiento que recae sobre el dictamen de la Comisión de Regulación de Bebidas Alcohólicas, mediante el cual autoriza a la autoridad municipal el otorgamiento de permiso o la negativa del mismo.
+VI.- CABILDO: El Ayuntamiento reunido en sesión, y como cuerpo colegiado de Gobierno le compete la definición de las políticas generales de la administración municipal, en los términos de las leyes aplicables;
 
-AUTORIDAD MUNICIPAL: Son los órganos de Gobierno Municipal que tienen la facultad de ejecutar sus resoluciones aun con el auxilio de la fuerza pública.
+VII.- CERVECERÍA: Son aquellos espacios en donde se producen y/o se almacenan y/o se venden productos fermentados de la malta, en envase cerrado, abierto o al copeo, como actividad principal;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+VIII.- CERVECERÍA ARTESANAL: Espacio donde se almacena para su venta en envase abierto o cerrado, cerveza de producción propia y/o de un diverso productor de cerveza artesanal, como actividad principal;
 
-COMISIÓN REGULADORA DE BEBIDAS ALCOHOLICAS: COMISIÓN REGULADORA DE BEBIDAS ALCOHOLICAS: La Comisión de Cabildo, competente para dictaminar sobre la expedición de permisos nuevos para la venta, almacenaje y consumo publico de bebidas alcohólicas en el Municipio de Tijuana Baja California, así como para el estudio y análisis de los requisitos y de la factibilidad de las revocaciones de los permisos otorgados.
+IX.- CLASIFICACIÓN DE BEBIDAS ALCOHÓLICAS Y DEFINICIÓN DE ESTABLECIMIENTOS DE FABRICACIÓN, VENTA, ALMACENAJE Y CONSUMO PÚBLICO:
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+Los licores, cervezas, bebidas refrescantes, bebidas fermentadas y vinos, cuya graduación alcohólica a la temperatura de quince grados centígrados, sea mayor a dos por ciento de alcohol por volumen, pero que no exceda de cincuenta y cinco por ciento de alcohol por volumen, bajo la (sic) siguientes categorías:
 
-DICTAMEN DE COMISION: Es la resolución que emite la Comisión Reguladora de Bebidas Alcohólicas respecto a la autorización o denegación de solicitudes de permisos nuevos o la revocación de los mismos, para ser sujeto a análisis, discusión y votación del Cabildo
+1.- CLASIFICACIÓN.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+Bebidas refrescantes: Las bebidas alcohólicas elaboradas a base de vino de mesa o de destilados alcohólicos diversos en un mínimo de cincuenta por ciento; producto de la fermentación natural de frutas, pudiéndose adicionar agua, bióxido de carbono o agua carbonatada, jugo o extracto de frutas, aceites esenciales, ácidos cítrico, benzoico o sorbico o azúcar y cuyo contenido alcohólico por volumen sea superior al dos por ciento pero que no exceda del doce por ciento;
 
-PERMISO: La autorización por escrito que otorga y expide la autoridad municipal en cumplimiento al Acuerdo de procedencia emitido por el pleno de Cabildo para que una persona física o moral, pueda distribuir, almacenar o vender bebidas alcohólicas.
+a).- Bebidas de contenido alcohólico bajo: Bebidas cuya graduación alcohólica a la temperatura de quince grados centígrados sea mayor a dos por ciento de alcohol por volumen, pero que no exceda de doce por ciento de alcohol por volumen;
 
-DICTAMEN DE PROCEDENCIA: Es la autorización que emite el Cabildo.
+b).- Bebidas de contenido alcohólico medio: Bebidas cuya graduación alcohólica a la temperatura de quince grados centígrados sea mayor a dos por ciento de alcohol por volumen, pero que no exceda de veinte por ciento de alcohol por volumen, y
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+c).- Bebidas de contenido alcohólico alto: Bebidas cuya graduación alcohólica a la temperatura de quince grados centígrados sea mayor a veinte por ciento de alcohol por volumen, pero que no exceda de cincuenta y cinco por ciento de alcohol por volumen.
 
-REVALIDACIÓN: Acto administrativo que realiza la Secretaria de Gobierno Municipal anualmente, a través de la Dirección de Bebidas Alcohólicas, por virtud del cual se autoriza la operación del permiso que haya sido otorgado por el Ayuntamiento, una vez que se ha verificado que se cumple con la reglamentación Municipal vigente y previo pago de los derechos correspondientes.
+2.- CATEGORÍA.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+A).- BEBIDAS ALCOHÓLICAS FERMENTADAS: Las bebidas alcohólicas producto de la fermentación de materias de origen vegetal, pudiendo contener gas carbónico de origen endógeno, ingredientes o aditivos, sin adicionar alcohol de calidad común o aguardiente de uva o de azúcar, y cuyo contenido de alcohol por volumen a la temperatura de quince grados centígrados, sea mayor de dos por ciento pero que no exceda del veinte por ciento;
 
-OPINION TECNICA: Es el documento expedido por la Dirección de Bebidas Alcohólicas respecto de la viabilidad de autorizar un permiso para la explotación de bebidas alcohólicas en el giro que corresponda conforme al presente reglamento cuando se trate de proyectos en proceso, ya sea de construcción, habilitación o remodelación de un local o establecimiento, debidamente autorizados por las autoridades correspondientes.
+B).- CERVEZAS: Bebidas fermentadas elaboradas con malta de cebada, lúpulo, levadura y agua o con infusiones de cualquier semilla farinácea, procedente de gramíneas o leguminosas, raíces o frutos feculentos o azúcares como adjuntos de malta con adición de lúpulo o sucedáneos de éste y cuyo contenido de alcohol a la temperatura de quince grados centígrados, sea mayor a dos por ciento por volumen, pero que no exceda de doce por ciento por volumen;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+C).- CERVEZA ARTESANAL: Bebida fermentada elaborada con malta, lúpulo, levadura y agua potable, siempre que su contenido alcohólico esté entre 2 y 12 grados Gay Lussac, producida en centros independientes, ajena totalmente a cualquier consorcio, grupo o sociedad dedicada a la comercialización o producción de cerveza diversa a la artesanal, por lo que la producción de los cerveceros artesanales no deberá tener una producción que exceda los cinco millones de hectolitros anuales. Dicha cifra deberá ser el resultado de la suma de producción de todas las plantas, centros o establecimientos que se utilicen para la producción de cerveza y/o el cumplimiento de su objeto social o actividad mercantil;
 
-ESTUDIO DE IMPACTO SOCIAL: Es el documento expedido por el Secretario de Gobierno Municipal y el Director de Bebidas Alcohólicas una vez integrado debidamente el expediente donde se contienen los aspectos generales y estudio de cada uno de los requisitos exigidos por el Reglamento y la Ley.
+D).- LICORES: Las bebidas alcohólicas producto de la destilación de hierbas, frutas, granos o esencias, cuyo contenido de alcohol por volumen a la temperatura de quince grados centígrados, sea mayor del veinte por ciento pero que no exceda del cincuenta y cinco por ciento;
 
-EVENTO: Es el suceso mediante el cual las personas realizan Espectáculos Públicos, Bailes Públicos, Ferias, Variedades o Diversiones Análogas en los cuales se expenden bebidas alcohólicas por un determinado lapso de tiempo.
+E).- VINOS DE MESA: Las bebidas alcohólicas fermentadas que se elaboran con el jugo de las uvas, pudiendo contener gas carbónico de origen endógeno como ingredientes o aditivos, sin adicionar alcohol de calidad común o aguardiente de uva o de azúcar y cuyo contenido alcohólico a la temperatura de quince grados centígrados sea superior al dos por ciento por volumen, pero que no exceda del doce por ciento, y
 
-PERMISO EVENTUAL PARA ESPECTACULOS PÚBLICOS, FERIAS, BAILES PÚBLICOS, VARIEDADES O DIVERSIONES ANALOGAS: Autorización por escrito expedida por el Presidente Municipal para expender bebidas alcohólicas en lugares que no cuenten con giro autorizado, limitado este a la realización temporal de un solo evento y que se organicen en favor de Instituciones Altruistas o de Mejoramiento Social, Asociaciones Civiles, Religiosas, Clubes, Organizaciones Deportivas, Partidos Políticos o persona física o moral legalmente constituida, con excepción de los lugares no autorizados por la ley.
+F).- VINOS GENEROSOS: Las bebidas alcohólicas elaboradas con no menos de setenta y cinco por ciento de vino de uva fresca o vino de uva pasa en generosos dulces o no menos de noventa por ciento de vino de uva fresca o vino de uva pasa en generosos secos y que además del alcohol procedente de su fermentación, se adiciona de alcohol de calidad o común o aguardiente de uva y azúcar y cuyo contenido de alcohol por volumen a la temperatura de quince grados centígrados, sea de quince por ciento pero que no exceda del veinte por ciento;
 
-> <small>(F. DE E., P.O. 24 DE JUNIO DE 2005)</small>
+X.- CLAUSURA: Sanción en la cual la autoridad municipal competente cierra y obliga a permanecer cerrado un establecimiento o cierta área del mismo, colocando sellos en los lugares que se determine por la autoridad, cuando se contravenga las disposiciones de la Ley y el presente Reglamento, la cual podrá ser temporal o definitiva;
 
-PERMISO EVENTUAL GASTRONOMICO: Es aquel que otorga el Cabildo para la venta y consumo de bebidas alcohólicas preferentemente de producción regional o nacional, de acuerdo al procedimiento que contempla el presente ordenamiento para los permanentes, por un termino que no excederá de 90 días naturales improrrogables.
+XI.- CLAUSURA DEFINITIVA: Sanción aplicada por la autoridad municipal competente con respecto a un establecimiento, por el cual se suspende en forma definitiva la actividad del mismo, por violaciones graves a la Ley o al presente reglamento;
 
-FERIA: Lugar o espacio habilitado o construido para efecto de exponer, exhibir y dar a conocer artículos y actividades comerciales, industriales, artísticas, culturales, artesanales, deportivas y de cualquier otra naturaleza lícita, con el objeto de promover el desarrollo de la Ciudad o el Estado, en el que se puede expender bebidas alcohólicas, servidas en envase desechable, de plástico o de cualquier otro material que no represente peligro alguno.
+XII.- CLAUSURA TEMPORAL: Sanción aplicada por la autoridad municipal competente para suspender en forma temporal la actividad comercial de un establecimiento o cierta área del mismo, colocando sellos en los lugares que determine la autoridad, cuando se contravenga las disposiciones de la Ley y el presente Reglamento, ésta no excederá de cuarenta y cinco días naturales, y empezarán a contar al día siguiente de su ejecución, en caso de reincidencia, se procederá a la clausura total del establecimiento;
 
-ESTABLECIMIENTO: Lugar destinado, habilitado y acondicionado para la venta, distribución, almacenamiento o consumo público de bebidas alcohólicas, independientemente del nombre con que se le designe.
+XIII.- COMISIÓN REGULADORA DE BEBIDAS ALCOHOLICAS: La Comisión de Cabildo competente para dictaminar sobre la expedición de permisos nuevos para la venta, almacenaje y consumo público de bebidas alcohólicas en el Municipio de Tijuana, Baja California, así como el estudio y análisis de los requisitos y de la factibilidad de las revocaciones de los permisos otorgados;
 
-GIRO: La actividad mercantil preponderante del establecimiento, de acuerdo a lo descrito en el Artículo 6, fracción VIII de la Ley.
+XIV.- CONSUMIDOR: Persona mayor de edad y en pleno goce de sus facultades mentales que adquiere bebidas alcohólicas para su consumo, en envase abierto o cerrado según sea el giro;
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2009)</small>
+XV.- DICTAMEN DE COMISION: Resolución que emite la Comisión Reguladora de Bebidas Alcohólicas respecto a la autorización o negación de solicitudes de permisos nuevos o la revocación de los mismos, para ser sujeto a análisis, discusión y votación del Cabildo;
 
-GIRO SIMILAR: Aquellos que de acuerdo al artículo 6 fracción VIII, inciso a), de la Ley para la venta, almacenaje y consumo público de bebidas alcohólicas del Estado, su actividad predominante sea la misma.
+XVI.- DICTAMEN DE PROCEDENCIA: Es la autorización que emite el Cabildo;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+XVII.- DISTRIBUCIÓN: Acto por el cual las empresas legalmente constituidas y personas físicas, cuyo objeto dentro de su giro o actividad mercantil, sea el suministrar o abastecer productos con contenido alcohólico e inscritas en el padrón Municipal, suministren productos a establecimientos legalmente establecidos e inscritos en el padrón de establecimientos a cargo de la Secretaría de Gobierno Municipal, mismos que cuentan con permiso para la venta, almacenaje para su venta y venta para consumo público de bebidas alcohólicas;
 
-DISTRIBUCIÓN: Acto por el cual las empresas legalmente constituidas, cuyo objeto sea el suministrar o abastecer productos con contenido alcohólico e inscritas en el padrón Municipal suministren productos a establecimientos legalmente establecidos e inscritos en el padrón de establecimientos a cargo de la Secretaría de Gobierno Municipal, mismos que cuentan con permiso para la venta, almacenaje para su venta y venta para consumo publico de bebidas alcohólicas.
+XVIII.- ESTABLECIMIENTO: Lugar destinado, habilitado y acondicionado para la venta, distribución, almacenamiento o consumo público de bebidas alcohólicas, independientemente del nombre con que se le designe;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+XIX.- ESTABLECIMIENTO DE CERVEZA ARTESANAL: Espacio en donde se almacena y/o se vende cerveza artesanal de producción propia en envase cerrado, abierto o al copeo como actividad principal;
 
-SERVICIOS ADICIONALES.- Las actividades de diversión, entretenimiento o espectáculos, que se realicen o presenten en los establecimientos o giros autorizados para desarrollar cualquiera de las actividades a que se refiere la ley, bajo las modalidades que se determinen como tales en el Reglamento y que previo permiso otorgado por la Dirección de Bebidas Alcohólicas, podrán explotar de manera temporal o permanente los permisionarios en sus establecimientos, sujetos a revalidación anual;
+XX.- ESTUDIO DE IMPACTO SOCIAL: Es el documento expedido por el Secretario de Gobierno Municipal y el Director de Bebidas Alcohólicas una vez integrado debidamente el expediente donde se contienen los aspectos generales y estudio de cada uno de los requisitos exigidos por la Ley y el presente Reglamento;
 
-PERMISIONARIO: Persona física o moral titular de un permiso.
+XXI.- EVENTO: Es el suceso mediante el cual las personas realizan espectáculos públicos, bailes públicos, ferias, variedades o diversiones análogas en los cuales se expenden bebidas alcohólicas por un determinado lapso de tiempo;
 
-CONSUMIDOR: Persona mayor de edad y en pleno goce de sus facultades mentales que adquiere bebidas alcohólicas para su consumo, en envase abierto o cerrado según sea el giro.
+XXII.- FERIA: Lugar o espacio habilitado o construido para efecto de exponer, exhibir y dar a conocer artículos y actividades comerciales, industriales, artísticas, culturales, artesanales, deportivas y de cualquier otra naturaleza lícita, con el objeto de promover el desarrollo de la Ciudad o el Estado, en el que se puede expender bebidas alcohólicas, servidas en envase desechable, de plástico o de cualquier otro material que no represente peligro alguno a las personas;
 
-INSPECTOR: Servidor Público que se le ordena practicar visitas domiciliarias a un determinado establecimiento, con el fin de verificar el cumplimiento de la ley y el presente reglamento.
+XXIII.- GIRO: La actividad mercantil preponderante del establecimiento de acuerdo a lo descrito en el Artículo 6, fracción IX de la Ley;
 
-INSPECCION: Actuación que realiza un órgano de autoridad o auxiliar a fin de examinar con los propios sentidos un hecho o una cosa y asentarlo en una acta administrativa.
+XXIV.- GIRO SIMILAR: Aquellos que de acuerdo al artículo 6 fracción IX, inciso a) de la Ley y su actividad predominante sea la misma;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+XXV.- IDENTIFICACION OFICIAL CON FOTOGRAFIA: Credencial para votar, Cartilla Militar, Pasaporte Mexicano o Cedula Profesional;
 
-INFRACCION: Es una violación a este reglamento o a la Ley.
+XXVI.- INFRACCION: Es una violación a la Ley y/o a este Reglamento;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+XXVII.- INSPECCION: Actuación que realiza un órgano de autoridad o auxiliar a fin de examinar con los propios sentidos un hecho o una cosa y asentarlo en un acta administrativa;
 
-MULTA: Sanción de tipo pecuniaria impuesta por la autoridad por violar un precepto legal de este ordenamiento o de la Ley.
+XXVIII.- INSPECTOR: Servidor público que se le ordena practicar visitas domiciliarias a un determinado establecimiento, con el fin de verificar el cumplimiento de la Ley y el presente reglamento;
 
-APERCIBIMIENTO: Es un acto administrativo por medio del cual se hace del conocimiento de la persona requerida, de las consecuencias que trae aparejada la repetición de una conducta que es sancionable y que debe corregir, pues en caso contrario se procederá a la aplicación de las sanciones correspondientes.
+XXIX.- LEY: La Ley para la Venta, Almacenaje y Consumo Público de Bebidas Alcohólicas del Estado de Baja California;
 
-CLAUSURA: Sanción en la cual la autoridad municipal competente cierra y obliga a permanecer cerrado un establecimiento o cierta área del mismo, colocando sellos en los lugares que se determine por la autoridad, cuando se contravenga las disposiciones del reglamento o ley, la cual podrá ser temporal o definitiva.
+XXX.- MULTA: Sanción de tipo pecuniaria impuesta por la autoridad por violar un precepto de la Ley y/o de este ordenamiento;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+XXXI.- OPINION TECNICA: Es el documento expedido por la Dirección de Bebidas Alcohólicas respecto la viabilidad de autorizar un permiso para la explotación de bebidas alcohólicas en el giro que corresponda conforme al presente reglamento cuando se trate de proyectos en proceso, ya sea de construcción, habilitación o remodelación de un local o establecimiento, debidamente autorizados por las autoridades correspondientes;
 
-CLAUSURA TEMPORAL: Sanción aplicada por la Autoridad Municipal competente para suspender en forma temporal la actividad comercial de un establecimiento o cierta área del mismo, colocando sellos en los lugares que determine la autoridad, cuando se contravenga las disposiciones del reglamento o ley, ésta no excederá de cuarenta y cinco días naturales, y empezarán a contar al día siguiente de su ejecución, en caso de reincidencia, se procederá a la clausura total del establecimiento.
+XXXII.- PERMISIONARIO: Persona física o moral titular de un permiso;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+XXXIII.- PERMISO: La autorización por escrito que otorga y expide la autoridad municipal en cumplimiento al Dictamen de procedencia emitido por el pleno de Cabildo para que una persona física o moral, pueda distribuir, almacenar o vender bebidas alcohólicas;
 
-CLAUSURA DEFINITIVA: Sanción aplicada por la Autoridad Municipal competente con respecto a un establecimiento, por el cual se suspende en forma definitiva la actividad del mismo, por violaciones graves a la Ley o al Reglamento.
+XXXIV.- PERMISO EVENTUAL GASTRONOMICO: Es aquel que otorga el Cabildo para la venta y consumo de bebidas alcohólicas preferentemente de producción regional o nacional, como complemento de alimentos y de acuerdo al procedimiento que contempla el presente ordenamiento para los permanentes, por un término que no excederá de 90 días naturales improrrogables;
 
-REINCIDENCIA: Cuando un infractor comete la misma infracción en un período de treinta días naturales o incurre en dos o más infracciones en un período de sesenta días.
+XXXV.- PERMISO EVENTUAL PARA ESPECTACULOS PÚBLICOS, FERIAS, BAILES PÚBLICOS, VARIEDADES O DIVERSIONES ANÁLOGAS: Autorización por escrito expedida por la Dirección de Bebidas Alcohólicas para expender bebidas alcohólicas en lugares que no cuenten con giro autorizado, limitado este a la realización temporal de un solo evento y que se organicen en favor de instituciones altruistas o de mejoramiento social, asociaciones civiles, religiosas, clubes, organizaciones deportivas, partidos políticos o persona física o moral legalmente constituida, con excepción de los lugares no autorizados por la Ley;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+XXXVI.- REGLAMENTO: El Reglamento para la Venta, Almacenaje y Consumo Público de Bebidas Alcohólicas en el Municipio de Tijuana, Baja California;
 
-DOCUMENTO OFICIAL CON FOTOGRAFIA: Credencial Federal de Elector, Cartilla Militar, Pasaporte o Licencia de Conducir.
+XXXVII.- REVALIDACIÓN: Acto administrativo que realiza la Secretaria de Gobierno Municipal anualmente, a través de la Dirección de Bebidas Alcohólicas, por virtud del cual se autoriza la operación del permiso que haya sido otorgado por el Ayuntamiento, una vez que se ha verificado que se cumple con la reglamentación Municipal vigente y previo pago de los derechos correspondientes;
+
+XXXVIII.- SALA DE DEGUSTACION DE CERVEZA ARTESANAL: Espacio en el que se ofrece a los clientes la prueba de la cerveza artesanal de producción propia, en envase abierto o cerrado o al copeo como actividad accesoria al de una cervecería artesanal;
+
+XXXIX.- REINCIDENCIA: Cuando un infractor comete la misma infracción en un período de treinta días naturales o incurre en dos o más infracciones en un período de sesenta días, y
+
+XL.- SERVICIOS ADICIONALES: Las actividades de diversión, entretenimiento o espectáculos, que se realicen o presenten en los establecimientos o giros autorizados para desarrollar cualquiera de las actividades a que se refiere la Ley, bajo las modalidades que se determinen como tales en el Reglamento y que previo permiso otorgado por la Dirección de Bebidas Alcohólicas, podrán explotar de manera temporal o permanente los permisionarios en sus establecimientos, sujetos a revalidación anual.
 
 ###### ARTICULO 3.
 
@@ -203,31 +215,23 @@ IV.- Dirección de Bebidas Alcohólicas y;
 
 V.- La Dirección de Regulación Municipal y los Inspectores que éste designe.
 
-> <small>(F. DE E., P.O. 7 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 8.
 
 Son facultades del Ayuntamiento:
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2012)</small>
-
-I.- Otorgar, modificar, negar o revocar, en ejercicio de la facultad plena del Cabildo y de la Autonomía Municipal los permisos a que se refiere el artículo 10 de la ley, atendiendo al Orden Publico e interés Social;
+I.- Otorgar, modificar, negar o revocar, en ejercicio de la facultad plena de Cabildo y de la autonomía municipal, los permisos a que se refiere el artículo 10 de la Ley y el presente ordenamiento, atendiendo al orden público e interés social.
 
 II.- Autorizar las ampliaciones de horarios permanentes según corresponda a cada giro;
 
-III.- Decretar la prohibición de fechas especificas, conforme a lo establecido en el articulo 26 de la ley de la materia, y
+III.- Decretar la prohibición de fechas específicas, conforme a lo establecido en el artículo 26 de la Ley de la materia;
 
-IV.- La creación de giros diversos atendiendo a las necesidades comerciales del Municipio.
+IV.- La creación de giros diversos atendiendo a las necesidades comerciales del Municipio;
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2012)</small>
+V.- En coordinación con el Consejo Consultivo de Alcoholes y la Secretaria de Desarrollo Social Municipal a través de la Dirección Municipal de Salud, diseñar e implementar campañas sanitarias tendientes a crear en la población una conciencia de calidad de salud. Y en las que se exponga el impacto social que representa el alcoholismo en nuestra ciudad, así como el grado de afectación física y psicológica que produce en el individuo el abuso en el consumo de bebidas con contenido alcohólico.
 
-V.- En coordinación con el Consejo Consultivo de Alcoholes y la Secretaria de Desarrollo Social Municipal a través de la Dirección Municipal de Salud, diseñar e implementar campañas sanitarias tendientes a crear en la población una conciencia de calidad en salud. Y en las que se exponga el impacto social que representa el alcoholismo en nuestra Ciudad, así como el grado de afectación física y psicológica que produce en el individuo el abuso en el consumo de bebidas con contenido alcohólico.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ENERO DE 2012)</small>
-
-VI.- En Coordinación con el Consejo Consultivo de Alcoholes y a través de la Secretaria de Seguridad Púbica (sic) Municipal, promover y aplicar políticas encaminadas a la prevención, disminución y control de accidentes viales, derivados del consumo inmoderado de bebidas con graduación alcohólica, tales como la implementación del programa operativo de alcoholimetría de la Ciudad dirigido a conductores de vehículos y diseñado con la finalidad de salvaguardar la integridad física de estos, la de su familia y la de terceros, así como de preservar el orden.
-
-> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2012)</small>
+VI.- En coordinación con el Consejo Consultivo de Alcoholes y a través de la Secretaria de Seguridad Pública Municipal, promover y aplicar políticas encaminadas a la prevención, disminución y control de accidentes viales, derivados del consumo inmoderado de bebidas con graduación alcohólicas, tales como la implementación del programa operativo de alcalimetría de la ciudad dirigido a los conductores de vehículos y diseñado con la finalidad de salvaguardar la integridad física de estos, la de su familia y la de terceros, así como preservar el orden, y
 
 VII.- Las demás que establezca la Ley y este Reglamento.
 
@@ -483,7 +487,7 @@ En los permisos eventuales, podrán establecerse horarios especiales para el ser
 
 Los establecimientos a que se refiere este reglamento, deberán colocar en sus entradas y en el interior de los mismos los horarios respectivos de venta o consumo de bebidas alcohólicas.
 
-> <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 18.
 
@@ -491,9 +495,7 @@ La venta, almacenaje y consumo público de bebidas alcohólicas en los diferente
 
 I.- De los giros:
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 3 DE DICIEMBRE DE 2004, SE ADVIERTE QUE NO APARECE EL CONTENIDO DEL TEXTO.</small>
-
-A).- ABARROTES.- Establecimientos cuya actividad predominante es la venta de mercancías diversas y alimentos no preparados, comercializados a través de mostrador, susceptible de vender bebidas alcohólicas, en envase cerrado, cuyo horario será de lunes a domingo desde las 10:00 horas y hasta las 21:00 horas;
+A).- ABARROTES.- Establecimientos cuya actividad predominante es la venta de mercancías diversas y alimentos no preparados, comercializados a través de mostrador, susceptible de vender bebidas alcohólicas, en envase cerrado de las clasificadas en los incisos a), c) y f), de la fracción V, del artículo 6 de la Ley de la materia, cuyo horario será de lunes a domingo desde las 10:00 horas y hasta las 21:00 horas;
 
 B).- MERCADO.- Establecimiento mercantil cuya actividad predominante incluye la venta de despensas alimenticias, mercancías diversas y alimentos no preparados, comercializados a través de autoservicio, susceptible de vender bebidas alcohólicas, en envase cerrado, cuyo horario será de lunes a domingo desde las 10:00 horas y hasta las 22:00 horas;
 
@@ -505,57 +507,51 @@ E).- LICORERÍA.- Establecimiento mercantil cuya actividad es la venta de bebida
 
 F).- DEPÓSITO.- Establecimiento mercantil cuya actividad exclusiva sea la venta en envase cerrado de bebidas alcohólicas clasificadas en los incisos a), c), e) y f), de la fracción V, del artículo 6 de la Ley de la materia, cuyo horario será de lunes a domingo desde las 10:00 horas y hasta las 22:00 horas, no obstante, para efecto de distribución y suministro de productos a establecimientos legalmente establecidos, se podrá efectuar fuera de estos horarios;
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 3 DE DICIEMBRE DE 2004, SE ADVIERTE QUE NO APARECE EL CONTENIDO DEL TEXTO.</small>
-
-G).- AGENCIAS y SUBAGENCIAS.- Establecimientos que funcionan como centros de distribución de una empresa productora de bebidas alcohólicas, para su posterior distribución o venta al mayoreo, cuyo horario será de lunes a domingo desde las 10:00 horas y hasta las 22:00 horas, no obstante, para efecto de distribución y suministro de productos a establecimientos legalmente establecidos, se podrá efectuar fuera de estos horarios;
+G).- AGENCIAS y SUBAGENCIAS.- Establecimientos que funcionan como centros de distribución de una empresa productora de bebidas alcohólicas, en envase cerrado, para su posterior distribución o venta al mayoreo, cuyo horario será de lunes a domingo de las 10:00 horas a las 22:00 horas, susceptible de vender, en su caso, las bebidas alcohólicas clasificadas en los incisos a), c) y f), de la fracción V, del artículo 6 de la Ley de la materia, no obstante, para efecto de distribución y suministro de productos a establecimientos legalmente establecidos, se podrá efectuar fuera de estos horarios;
 
 H).- BODEGA.- Establecimiento habilitado para almacenar bebidas alcohólicas y mercancías diversas para su posterior distribución al mayoreo y medio-mayoreo cuyo horario para venta al público será de lunes a domingo desde las 10:00 horas y hasta las 22:00 horas, no obstante, para efecto de distribución y suministro de productos a establecimientos legalmente establecidos, se podrá efectuar fuera de estos horarios;
 
-I).- FONDAS y LONCHERÍAS.-Establecimientos mercantiles que cuentan con música grabada y acondicionado con área para la preparación y venta de alimentos para consumo dentro del lugar, susceptible de vender para consumo, bebidas alcohólicas de las clasificadas en los incisos a), c) y f), de la fracción V, del articulo 6 de la Ley, cuyo horario será de lunes a domingo desde las 10:00 horas y hasta las 21:00 horas, exclusivamente con el consumo de alimentos;
+I).- FONDAS y LONCHERÍAS.- Establecimientos mercantiles que cuentan con música grabada y acondicionado con área para la preparación y venta de alimentos para consumo dentro del lugar, susceptible de vender para consumo, bebidas alcohólicas de las clasificadas en los incisos a), c) y f), de la fracción V, del artículo 6 de la Ley, cuyo horario será de lunes a domingo desde las 10:00 horas y hasta las 21:00 horas, exclusivamente con el consumo de alimentos;
 
 J).- RESTAURANTE.- Establecimiento mercantil acondicionado con instalaciones para la elaboración de alimentos preparados para su consumo dentro del lugar y que cuente con música ambiental, cuyo horario será de lunes a domingos desde las 10:00 horas y hasta las 24:00 horas, exclusivamente con el consumo de alimentos;
 
-> <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
-
-K).- RESTAURANTE BAR.- Establecimiento mercantil acondicionado con instalaciones para la elaboración de alimentos preparados para su consumo dentro del lugar y que cuente con música grabada, ambiental, en vivo y pista de baile, susceptible de vender bebidas alcohólicas para consumo, cuyo horario será de lunes a domingo desde las 10:00 horas y hasta las 02:00 horas del día siguiente, con o sin alimentos;
-
-> <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
+K).- RESTAURANTE BAR.- Establecimiento mercantil acondicionado con instalaciones para la elaboración de alimentos preparados para su consumo dentro del lugar y que cuente con música grabada, ambiental, en vivo y pista de baile, susceptible de vender bebidas alcohólicas para consumo, cuyo horario será de lunes a domingos desde las 10:00 horas y hasta las 02:00 horas del día siguiente, con o sin alimentos;
 
 L).- BAR TURÍSTICO.- Establecimiento mercantil cuya actividad exclusiva es la venta para consumo de bebidas alcohólicas y que cuenta con música grabada, en vivo y pista de baile, cuyo horario será de lunes a domingo desde las 10:00 horas y hasta las 02:00 horas del día siguiente;
 
-> <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
-
-M).- BAR TERRAZA.- Establecimiento mercantil cuya actividad exclusiva es la venta para consumo de bebidas alcohólicas y que cuente con un área en el exterior para dar servicio, así como música grabada, ambiental, en vivo y pista de baile, cuyo horario será de lunes a domingo desde las 10:00 horas y hasta las 02:00 horas del día siguiente;
+M).- BAR TERRAZA.- Establecimiento mercantil cuya actividad exclusiva es la venta para consumo de bebidas alcohólicas y que cuente con un área en el exterior para dar servicio, así como música grabada, ambiental, en vivo y pista de baile, cuyo horario será de lunes a domingo de las 10:00 horas y hasta las 02:00 horas del día siguiente;
 
 N).- BILLAR.- Establecimiento mercantil que cuenta con música grabada o ambiental y cuya actividad predominante sea la operación de mesas para juego de billar u otros juegos de mesa o destreza, susceptible de vender para consumo bebidas alcohólicas de las clasificadas en los incisos a), c) y f), de la fracción V, del artículo 6 de la Ley de la materia, cuyo horario será de lunes a domingo desde las 10:00 horas y hasta las 24:00 horas;
 
-O).- EXPENDIO.- Establecimiento mercantil cuya actividad exclusiva es la venta para consumo de bebidas alcohólicas de las clasificadas en los incisos a), c) y f), de la fracción V, del artículo 6 de la Ley de la materia, y que cuenta con música grabada y pista de baile; cuyo horario será de lunes a domingo desde las 10:00 horas y hasta las 24:00 horas;
+O).- EXPENDIO.- Establecimiento mercantil cuya actividad exclusiva es la venta para consumo de bebidas alcohólicas de las clasificadas en los incisos a), c) y f) de la fracción V, del artículo 6 de la Ley de la materia, y que cuenta con música grabada y pista de baile; cuyo horario será de lunes a domingo desde las 10:00 horas y hasta las 24:00 horas;
 
 P).- HOTEL.- Establecimiento mercantil cuya actividad predominante es el hospedaje, susceptible de vender para consumo, bebidas alcohólicas a los huéspedes en sus habitaciones, cuyo horario será de lunes a domingo desde las 10:00 horas y hasta las 02:00 horas del día siguiente;
 
 Q).- MOTEL.- Establecimiento mercantil, en el que se facilita alojamiento y hospedaje en habitaciones con entradas independientes desde el exterior, y con garajes o cobertizos, próximos o contiguos a aquellos, para automóviles, susceptible de vender para consumo, bebidas alcohólicas a los huéspedes en sus habitaciones, cuyo horario será de lunes a domingo desde las 10:00 horas y hasta las 02:00 horas del día siguiente;
 
-Los Hoteles y Moteles podrán solicitar una ampliación de giro para operar dentro del mismo, restaurante bar, discotecas, bares, y cualquier (sic) de las modalidades compatibles con su giro, debiendo cubrir el pago de cada permiso y cumplir con los requisitos que para el giro se requieran.
+Los Hoteles y Moteles podrán solicitar una ampliación de giro para operar dentro del mismo, restaurante bar, discotecas, bares, y cualquier de las modalidades compatibles con su giro, debiendo cubrir el pago de cada permiso y cumplir con los requisitos que para el giro se requieran.
 
 R).- DISCOTECA.- Establecimiento mercantil cuya actividad exclusiva es proporcionar esparcimiento mediante música grabada y pista de baile, susceptible de vender bebidas alcohólicas para consumo, cuyo horario será de lunes a domingo desde las 10:00 horas y hasta las 03:00 horas del día siguiente;
 
-S).- CAFÉ CANTANTE.- Establecimiento mercantil cuya actividad exclusiva es proporcionar esparcimiento mediante música en vivo o grabada, espectáculos artísticos y pista de baile, susceptible de vender bebidas alcohólicas para consumo, cuyo horario será de lunes a domingo desde las 10:00 horas y hasta las 03:00 horas del día siguiente;
+S).- CAFÉ CANTANTE.- Establecimiento mercantil cuya actividad exclusiva es proporcionar esparcimiento mediante música en vivo o grabada, espectáculos artísticos y pista de baile, susceptible de vender bebidas alcohólicas para consumo, cuyo horario será de lunes a domingo de las 10:00 horas y hasta las 03:00 horas del día siguiente;
 
 T).- CENTRO DE ESPECTÁCULOS.- Establecimiento mercantil cuya actividad exclusiva es proporcionar esparcimiento mediante la presentación de espectáculos públicos y que cuente con las instalaciones para tal efecto, y que cuenta con música en vivo o grabada, espectáculos artísticos y pista de baile, susceptible de vender bebidas alcohólicas para consumo, cuyo horario será de lunes a domingo desde las 10:00 horas y hasta las 03:00 horas del día siguiente;
 
-U).- ESPECTÁCULOS PUBLICOS, BAILES PÚBLICOS, FERIAS, VARIEDADES O DIVERSIONES ANALOGAS.- Son todos los eventos temporales en donde se congrega la gente para celebrar o degustar, que se llevan a cabo en el Territorio Municipal, en los que se expende, y consume, bebidas alcohólicas, vinos de mesa, licores o cerveza en envase abierto, los días de lunes a domingo en el horario autorizado para tal efecto. En cada evento se requerirá el permiso por escrito de la Autoridad Municipal. La venta de bebidas alcohólicas, solo podrá hacerse por personas mayores de edad y en envase desechable, asimismo no deberá permitirse la venta y consumo a personas que no acrediten su mayoría de edad;
-
-> <small>(F. DE E., P.O. 14 DE JUNIO DE 2002)</small>
+U).- ESPECTÁCULOS PUBLICOS, BAILES PÚBLICOS, FERIAS, VARIEDADES O DIVERSIONES ANALOGAS: Son todos los eventos temporales en donde se congrega la gente para celebrar o degustar, que se llevan a cabo en el Territorio Municipal, en los que se expende y consume, bebidas alcohólicas, vinos de mesa, licores o cerveza en envase abierto, los días de lunes a domingo en el horario autorizado para tal efecto. En cada evento se requerirá el permiso por escrito de la autoridad municipal. La venta de bebidas alcohólicas, solo podrá hacerse por personas mayores de edad y en envase desechable, asimismo no deberá permitirse la venta y consumo a personas que no acrediten su mayoría de edad.
 
 Los establecimientos semejantes, cualquiera que sea su denominación o identificación, serán clasificados por la Comisión Reguladora de Bebidas Alcohólicas;
 
-II.- Podrán solicitar otros Servicios Adicionales los giros contemplados en las letras I), J), K), L), M), O), R), S), y T), del inciso anterior, siendo estos los siguientes:
+V).- SALA DE DEGUSTACION DE CERVEZA ARTESANAL: Espacio en el que se ofrece a los clientes la prueba de la cerveza artesanal, exclusivamente de producción propia, considerando bajo dicho concepto la elaborada dentro del Estado de Baja California, en envase abierto o cerrado o al copeo como actividad accesoria al de una cervecería artesanal, cuyo horario será de lunes a domingo desde las 10:00 y hasta las 23:00 horas;
 
-a).- Música grabada y aparatos musicales, entendiéndose como tales tocadiscos, sinfonolas y aparatos estereofónicos y cualquier aparato reproductor de música;
+W).- ESTABLECIMIENTOS DE CERVEZA ARTESANAL: Espacios en donde se almacena y/o se vende cerveza artesanal de producción propia en envase cerrado o abierto, como actividad principal, cuyo horario será de lunes a domingo desde las 10:00 y hasta las 23:00 horas.
+
+II.- Podrán solicitar otros servicios adicionales los giros contemplados en las letras I), J), K), L). M), O), R), S), T) y V) del inciso anterior, siendo estos los siguientes:
+
+a).- Música grabada y aparatos musicales, entendiéndose como tales tocadiscos, sinfonolas, aparatos estereofónicos y cualquier aparato reproductor de música.
 
 b).- Conjuntos Musicales;
 
-c).- Hasta cinco Mesas de billar, cuando se obtenga remuneración económica por el uso de las mismas;
+c).- Hasta cinco mesas de billar, cuando se obtenga remuneración económica por el uso de las mismas;
 
 d).- Espectáculos artísticos, y
 
@@ -563,11 +559,11 @@ e).- Pista de Baile.
 
 Los servicios adicionales únicamente podrán ser autorizados en los giros indicados previo pago de los derechos correspondientes.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 19.
 
-Los negocios contemplados en los incisos del K) al O) y del R) al U), del artículo anterior de este reglamento, contarán con una hora adicional al horario permitido para la venta de bebidas alcohólicas, para desalojar a la clientela del establecimiento, sin que durante este lapso de tiempo autorizado se permita la venta o consumo de bebidas alcohólicas, asimismo se autoriza este tiempo para realizar los movimientos contables que correspondan, culminando este lapso quedarán totalmente cerrados, solo podrán permanecer en el interior del establecimiento el personal de limpieza y de seguridad.
+Los negocios contemplados en los incisos del K) al O) y del R) al W), del artículo anterior de este reglamento, contarán con una hora adicional al horario permitido para la venta de bebidas alcohólicas, para desalojar a la clientela del establecimiento, sin que durante este lapso de tiempo autorizado se permita la venta o consumo de bebidas alcohólicas, asimismo se autoriza este tiempo para realizar los movimientos contables que correspondan, culminando este lapso quedarán totalmente cerrados, solo podrán permanecer en el interior del establecimiento el personal de limpieza y de seguridad.
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2012)</small>
 
@@ -593,11 +589,11 @@ La Autoridad podrá negar la autorización de ampliación de tiempo de actividad
 
 ### CAPITULO QUINTO. DE LOS PERMISOS Y UBICACIÓN
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 21.
 
-El Ayuntamiento de Tijuana, es la autoridad facultada para otorgar los permisos permanentes para la venta, almacenaje y venta para consumo público de bebidas alcohólicas.
+El Ayuntamiento de Tijuana, es la autoridad facultada para otorgar los permisos permanentes para la venta, almacenaje y venta para consumo público de bebidas alcohólicas, atendiendo a las distintas modalidades que se señalan en el presente Reglamento.
 
 El Cabildo decidirá el otorgar o negar la solicitud sobre el permiso permanente para la venta, almacenaje o venta para consumo público, de bebidas alcohólicas, así como decidir sobre las revocaciones de permisos, previo dictamen de la Comisión Reguladora de Bebidas Alcohólicas.
 
@@ -628,6 +624,12 @@ IX.- Fotografías, tanto del exterior como del interior del local, que muestren 
 X.- Cubrir los derechos correspondientes de acuerdo a la Ley de ingresos Municipal, y
 
 XI.- Las demás que señale la Ley y el presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2015)</small>
+
+ARTICULO 21 TER.- En ningún caso los permisos que se otorguen relativos a establecimientos de cerveza artesanal, cervecería artesanal y sala de degustación de cerveza artesanal, podrán realizar la venta, consumo, distribución, almacenamiento u otra actividad similar de cerveza que no sea artesanal.
+
+En caso contrario deberán de tramitarse los permisos que correspondan en las categorías que se señalan en la fracción IX del artículo 2 del presente reglamento.
 
 > <small>N. DE E. LA INTEGRACIÓN DEL CONTENIDO DEL PRESENTE ARTÍCULO ES RESULTADO DEL ACERVO CON EL QUE CUENTA ESTE CENTRO DE DOCUMENTACIÓN Y ANÁLISIS.</small>
 
@@ -1239,11 +1241,11 @@ El cargo de Consejero durará un período no mayor del que dure la administraci�
 
 Todos los consejeros tendrán derecho a voz y voto.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 56.
 
-El Consejo nombrara de entre sus miembros ciudadanos y por mayoría de votos un representante en calidad de Presidente, un Secretario Técnico y los ocho Vocales ciudadanos, cuyas facultades y actividades estarán sujetas a lo descrito en el presente capítulo.
+El Consejo nombrará de entre sus miembros ciudadanos y por mayoría de votos un representante en calidad de Presidente y un Secretario Técnico, cuyas facultades y actividades estarán sujetas a lo descrito en el presente capítulo.
 
 ###### ARTICULO 57.
 
@@ -1816,3 +1818,13 @@ PRIMERO.- EL PRESENTE ACUERDO ENTRARA EN VIGOR AL MOMENTO DE SU APROBACIÓN, MIS
 SEGUNDO.- SE DEROGAN TODAS Y CADA UNA DE LAS DISPOSICIONES NORMATIVAS Y REGLAMENTARIAS DERIVADAS DE ACUERDOS Y REGLAMENTOS QUE SE OPONGAN A LAS PRESENTES DISPOSICIONES LEGALES.
 
 TERCERO: UNA VEZ DEBIDAMENTE PUBLICADO EN EL PERIODICO OFICIAL DEL GOBIERNO ESTATAL Y EN LA GACETA MUNICIPAL, NOTIFIQUESE POR MEDIO DE LA SECRETARIA GENERAL DE (SIC) GOBIERNO MUNICIPAL, A LAS DEPENDENCIAS CORRESPONDIENTES DE ESTA ADMINITRACION (SIC), PARA LA IMPLEMENTACION IMEDIATA (SIC) DE LAS REFORMAS APROBADAS.
+
+P.O. 12 DE JUNIO DE 2015.
+
+PRIMERO.- Publíquese en el Periódico Oficial del Estado y/o Gaceta Municipal, órgano oficial de difusión del H. Ayuntamiento de Tijuana, Baja California.
+
+SEGUNDO.- La presente reforma entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- Se derogan todas y cada una de las disposiciones normativas y reglamentarias derivadas de acuerdos y reglamentos que se opongan a las presentes disposiciones legales.
+
+CUARTO.- Una vez debidamente publicado en el Periódico Oficial del Gobierno Estatal, notifíquese por medio de la Secretaria de Gobierno Municipal, a las dependencias correspondientes de esta administración, para la implementación inmediata de las reformas aprobadas.
