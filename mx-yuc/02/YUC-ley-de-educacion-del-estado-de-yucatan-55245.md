@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-educacion-del-estado-de-yucatan-55245"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-23"
-last_updated: "2014-04-16"
+last_updated: "2015-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE JUNIO DE 2015.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 23 de abril de 2007.
 
@@ -189,13 +189,21 @@ XI.- Impulsará la creatividad artística y el conocimiento de la cultura region
 
 > <small>(REFORMADA, D.O. 5 DE ENERO DE 2012)</small>
 
-XII. Fomentará la educación en materia de nutrición y estimulará la educación física y la práctica del deporte, así como los hábitos de vida sana y de alimentación con alto valor nutricional;
+XII.- Fomentará la educación en materia de nutrición y estimulará la educación física y la práctica del deporte, así como los hábitos de vida sana y de alimentación con alto valor nutricional;
 
 XIII.- Fomentará la integración e interacción de los diferentes grupos que conforman la sociedad, a través de una educación congruente con las características propias de nuestra región;
 
-XIV.- Procurará que los profesores y educandos, con el apoyo de los padres de familia, participen activamente en el desarrollo económico, social y cultural de sus comunidades, y
+> <small>(REFORMADA, D.O. 12 DE JUNIO DE 2015)</small>
 
-XV.- Fomentará actitudes positivas hacia el trabajo productivo, el amor a la familia, el ahorro y el bienestar general.
+XIV.- Procurará que los profesores y educandos, con el apoyo de los padres de familia, participen activamente en el desarrollo económico, social y cultural de sus comunidades;
+
+> <small>(REFORMADA, D.O. 12 DE JUNIO DE 2015)</small>
+
+XV.- Fomentará actitudes positivas hacia el trabajo productivo, el amor a la familia, el ahorro y el bienestar general, y
+
+> <small>(ADICIONADA, D.O. 12 DE JUNIO DE 2015)</small>
+
+XVI.- Los establecidos en el artículo 58 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 
 Los fines anteriores se ajustarán a la edad y al nivel de desarrollo de los escolares y al tipo, nivel y modalidad de educación que a éstos se imparta.
 
@@ -1745,7 +1753,7 @@ En el caso de venta de alimentos y bebidas, vigilarán que los mismos contribuya
 
 ###### Artículo 103.
 
-Las asociaciones de padres de familia no tendrán ingerencia en los aspectos técnico - pedagógicos y laborales de las escuelas.
+Las asociaciones de padres de familia no tendrán ingerencia (sic) en los aspectos técnico - pedagógicos y laborales de las escuelas.
 
 Las cantidades en numerario que recauden por cualquier medio las asociaciones de padres de familia se considerarán patrimonio particular y sólo pertenecerán a las escuelas cuando se conviertan en bienes y servicios y hayan sido entregados previamente a las autoridades educativas.
 
@@ -1914,3 +1922,49 @@ Artículo tercero. A partir de la entrada en vigor de este decreto, quedarán ab
 Artículo cuarto. La evaluación estatal a que se refiere el artículo quinto transitorio del decreto número 122 por el que se reforman, derogan y adicionan diversas disposiciones de la Ley de Educación del Estado de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 22 de noviembre de 2013, será para el fortalecimiento de las capacidades y competencias de los docentes en servicio, sin contravenir las disposiciones emanadas de la Ley General del Servicio Profesional Docente o de la Ley del Instituto Nacional para la Evaluación de la Educación.
 
 Artículo quinto. Se derogan todas las disposiciones legales y reglamentarias que se opongan a la Ley General del Servicio Profesional Docente o al presente decreto.
+
+D.O. 12 DE JUNIO DE 2015.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, sin perjuicio de lo dispuesto en el artículo transitorio segundo.
+
+Segundo. Régimen de vigencia especial
+
+Las derogaciones de los artículos 67, 88 y 144 del Código de Familia para el Estado de Yucatán entrarán en vigor a los dos años contados a partir de la publicación de este decreto en el Diario Oficial del Gobierno del Estado de Yucatán. La reforma del artículo 7 de la Ley de Justicia para Adolescentes del Estado de Yucatán entrará en vigor el mismo día que lo haga el Código Nacional de Procedimientos Penales.
+
+Tercero. Abrogación
+
+Se abrogan la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el 8 de agosto de 2008.
+
+Cuarto. Expedición del programa
+
+El Gobernador deberá expedir el Programa Especial de Protección de Niñas, Niños y Adolescentes dentro de un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de este decreto.
+
+Quinto. Instalación del consejo
+
+El Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán deberá instalarse dentro de un plazo de noventa días naturales contados a partir de la entrada en vigor de este decreto.
+
+Sexto. Expedición de reglamento interno
+
+El Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán deberá expedir su reglamento interno dentro de un plazo de noventa días naturales contados a partir de su instalación.
+
+Séptimo. Modificación de regulación interna de la Prodemefa
+
+La Procuraduría de la Defensa del Menor y la Familia deberá adecuar su regulación interna en materia de procedimientos de adopción en los términos de lo dispuesto por este decreto dentro de un plazo de noventa días naturales contados a partir de su entrada en vigor.
+
+Octavo. Modificación de regulación interna de la Codhey
+
+La Comisión de Derechos Humanos del Estado de Yucatán deberá adecuar su regulación interna para establecer una unidad administrativa especializada en materia de niñas, niños y adolescentes, en los términos de lo dispuesto por el artículo 140 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+Noveno. Nombramiento del secretario ejecutivo
+
+El Gobernador deberá nombrar al Secretario Ejecutivo del Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán dentro de un plazo de treinta días naturales contados a partir de la entrada en vigor de este decreto.
+
+Décimo. Matrimonios entre adolescentes
+
+Los matrimonios entre adolescentes celebrados antes de la entrada en vigor de este decreto en los términos de los artículos que se derogan del Código de Familia para el Estado de Yucatán serán válidos para todos los efectos legales.
+
+Décimo primero. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
