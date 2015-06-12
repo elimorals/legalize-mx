@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-prevencion-combate-y-erradicacion-de-la-88666"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-26"
-last_updated: "2012-07-26"
+last_updated: "2015-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA PREVENCIÓN, COMBATE Y ERRADICACIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE JUNIO DE 2015.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 26 de julio de 2012.
 
@@ -35,7 +35,7 @@ QUE EL HONORABLE CONGRESO DEL ESTADO DE YUCATÁN SE HA SERVIDO DIRIGIRME EL SIGU
 
 "EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, Y 3 DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO, TODAS DEL ESTADO, EMITE LA LEY PARA LA PREVENCIÓN, COMBATE Y ERRADICACIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE YUCATÁN, EN BASE A LA SIGUIENTE:
 
-E X P O S I C I Ó N D E M O T I V O S: .
+E X P O S I C I Ó N D E M O T I V O S:...
 
 En tal virtud, con fundamento en los artículos 30 fracción V de la Constitución Política, 18 y 43 fracción VIII y IX de la Ley de Gobierno del Poder Legislativo, ambas del Estado de Yucatán, sometemos a consideración del Pleno del Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -71,7 +71,9 @@ Para los efectos de esta Ley, se entenderá por:
 
 I. Comunidad educativa: la conformada por los estudiantes, así como por el personal docente, directivos escolares, personal administrativo de las escuelas, padres y madres de familia y, en su caso, tutores;
 
-II. Consejo: el Consejo para la Prevención, Combate y Erradicación de la Violencia en el Entorno Escolar del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 12 DE JUNIO DE 2015)</small>
+
+II. Consejo: el Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán;
 
 III. Estudiante: la persona que curse sus estudios en alguna institución educativa pública o privada del Estado, que cuente con reconocimiento y validez oficial de estudios por parte de las autoridades correspondientes;
 
@@ -87,7 +89,9 @@ VIII. Persona receptora de violencia escolar: el integrante de la comunidad educ
 
 IX. Prevención: es el conjunto de acciones positivas que deberán llevar a cabo todas las autoridades, los padres de familia y de la sociedad civil, para evitar la comisión de los distintos actos de violencia entre escolares, atendiendo a los posibles factores de riesgos tanto sociales como culturales;
 
-X. Programa: el Programa para la Prevención, Combate y Erradicación de la Violencia en el Entorno Escolar del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 12 DE JUNIO DE 2015)</small>
+
+X. Programa: el Programa Especial de Protección de Niñas, Niños y Adolescentes;
 
 XI. Receptor indirecto de la violencia escolar: los familiares y, en su caso, tutores de la persona receptora de la violencia en la comunidad educativa; las personas que tengan o hayan tenido relación o convivencia con aquella y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo de la violencia ejercida en el entorno escolar; se considerarán también a aquellas personas que presencien la violencia que se ejerce contra integrantes de la comunidad educativa, en calidad de testigos;
 
@@ -239,9 +243,19 @@ XVI. Coordinar acciones con organizaciones de la sociedad civil, asociaciones de
 
 XVII. Firmar convenios de colaboración con instituciones educativas o con organizaciones de la sociedad civil para contar con manuales de buenas prácticas en materia de prevención, combate y erradicación de la violencia en el entorno escolar en México y en el extranjero.
 
-XVIII. Sancionar en términos de lo dispuesto en esta Ley, y
+> <small>(REFORMADA, D.O. 12 DE JUNIO DE 2015)</small>
 
-XIX. Las demás que le señale esta Ley, su Reglamento y demás disposiciones legales aplicables.
+XVIII. Sancionar en términos de lo dispuesto en esta Ley;
+
+> <small>(ADICIONADA, D.O. 12 DE JUNIO DE 2015)</small>
+
+XIX. Diseñar estrategias y acciones para la detección temprana, contención, prevención y erradicación del acoso o la violencia escolar en todas sus manifestaciones, que contemplen la participación de los sectores público, privado y social, así como indicadores y mecanismos de seguimiento, evaluación y vigilancia;
+
+> <small>(ADICIONADA, D.O. 12 DE JUNIO DE 2015)</small>
+
+XX. Aprobar protocolos de actuación sobre situaciones de acoso o violencia escolar para el personal y para quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, y
+
+XXI. Las demás que le señale esta Ley, su Reglamento y demás disposiciones legales aplicables.
 
 ### Capítulo IV. De la Secretaría de Seguridad Pública
 
@@ -347,119 +361,57 @@ En los servicios educativos que se impartan en el Estado, será obligatorio que 
 
 ## TÍTULO CUARTO. DE LA COORDINACIÓN INTERINSTITUCIONAL Y LA PARTICIPACIÓN SOCIAL
 
-### Capítulo I
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 12 DE JUNIO DE 2015)</small>
 
-Del Consejo para la Prevención, Tratamiento y Erradicación de la Violencia en el Entorno Escolar del Estado de Yucatán.
+### Capítulo I
 
 ###### Artículo 18.
 
-El Consejo es un órgano especializado de consulta, análisis, asesoría y evaluación, de los planes, programas y acciones que, en materia de conocimiento, prevención y atención de la violencia en el entorno escolar, realice el Poder Ejecutivo del Estado para promover espacios educativos libres de violencia.
+(DEROGADO, D.O. 12 DE JUNIO DE 2015)
 
 ###### Artículo 19.
 
-El Consejo estará integrado por los titulares o representantes de las instancias y organizaciones civiles siguientes:
-
-I. El Poder Ejecutivo del Estado. Su Titular lo presidirá o en su caso, la persona que éste designe;
-
-II. La Secretaría de Educación, quien fungirá como Secretaria Técnica;
-
-III. La Secretaría de Salud;
-
-IV. La Secretaría de Seguridad Pública;
-
-V. La Fiscalía General;
-
-VI. Tres Autoridades Municipales;
-
-VII. El Sistema para el Desarrollo Integral de la Familia del Estado;
-
-VIII. La Comisión de Derechos Humanos del Estado;
-
-IX. Un representante del Poder Legislativo del Estado de Yucatán;
-
-X. Dos especialistas en temas de violencia en el entorno escolar, integrantes de organizaciones de la sociedad civil de reconocido prestigio y trayectoria en la temática de referencia, a invitación del Presidente, y
-
-XI. Dos especialistas en temas de violencia en el entorno escolar, integrantes de universidades públicas o privadas de reconocido prestigio y trayectoria en la temática de referencia, a invitación del Presidente.
-
-Los integrantes señalados en la fracción X y XI durarán en el ejercicio de esta representación un año, al cabo del cual el Consejo elegirá a quienes deban sustituirlos.
-
-Las tres autoridades municipales podrán participar previa invitación del Presidente del Consejo.
+(DEROGADO, D.O. 12 DE JUNIO DE 2015)
 
 ###### Artículo 20.
 
-Los miembros del Consejo serán vocales propietarios con carácter honorífico, con derecho a voz y voto, sin retribución económica por su desempeño y designarán un vocal suplente de nivel jerárquico inmediato inferior con derecho a voz y voto en las sesiones, con la finalidad de garantizar su participación en las mismas, quienes desempeñarán las mismas funciones del vocal propietario.
-
-El H. Congreso del Estado elegirá al representante propietario y suplente del Poder Legislativo ante el Consejo, y será el que participe en las sesiones con voz y voto.
+(DEROGADO, D.O. 12 DE JUNIO DE 2015)
 
 ###### Artículo 21.
 
-Se invitará a las sesiones, con voz pero sin voto, a personas expertas en materia de violencia entre escolares, representantes del sector público, privado y social; a representantes de instituciones públicas locales o federales; a representantes de instituciones educativas y de investigación públicas y privadas; y a representantes de organismos internacionales cuando se traten asuntos relacionados con sus respectivas atribuciones o especialidades, o cuya experiencia profesional sea útil para el análisis de los casos particulares que se presenten a deliberación para que emitan opiniones, aporten información, o apoyen acciones sobre los temas que se aborden.
+(DEROGADO, D.O. 12 DE JUNIO DE 2015)
 
 ###### Artículo 22.
 
-El Consejo sesionará de manera ordinaria cada seis meses y de manera extraordinaria cuando sea necesario o a petición de cualquiera de sus miembros, quienes solicitarán la reunión a través de la Presidencia o la Secretaría Técnica.
-
-El Consejo sesionará válidamente con la concurrencia de la mitad más uno del número total de sus integrantes. Si la sesión no pudiera celebrarse el día señalado por falta de quórum, se emitirá una nueva convocatoria, en la cual se indicará la fecha para celebrar la sesión.
-
-Las decisiones serán tomadas por mayoría simple de votos de los integrantes presentes del Consejo, teniendo el Presidente o el Presidente Suplente, en ausencia de éste, voto de calidad en caso de empate.
+(DEROGADO, D.O. 12 DE JUNIO DE 2015)
 
 ###### Artículo 23.
 
-La convocatoria de la sesión respectiva del Consejo se comunicará mediante oficio suscrito por el Presidente o, en su caso, por la Secretaria Técnica y deberá enviarse cuando menos cinco días hábiles antes de la celebración de la misma tratándose de sesiones ordinarias, y con 24 horas de anticipación cuando se trate de sesiones extraordinarias. Sólo podrán tratarse en las sesiones los asuntos que se incluyeron y aprobaron en el orden del día; sin embargo, cuando la importancia de los mismos lo requiera, podrán tratarse otros asuntos que no se hayan indicado en la convocatoria siempre y cuando los miembros presentes del Consejo aprueben por mayoría simple su desahogo.
+(DEROGADO, D.O. 12 DE JUNIO DE 2015)
 
 ###### Artículo 24.
 
-Por cada sesión que se celebre, deberá levantarse el acta correspondiente, que deberá ser firmada por todos los asistentes, para su validez. En ella constarán, en su caso, los compromisos adquiridos por cada una de las áreas y el nombre del responsable de su ejecución, a los cuales se les dará puntual seguimiento por la Presidencia del Consejo a través de la Secretaría Técnica.
-
-El desarrollo de las sesiones se regirá por el Reglamento correspondiente que para su efecto expida el Consejo.
+(DEROGADO, D.O. 12 DE JUNIO DE 2015)
 
 ###### Artículo 25.
 
-El Consejo tendrá las siguientes atribuciones:
+(DEROGADO, D.O. 12 DE JUNIO DE 2015)
 
-I. Establecer líneas de coordinación y comunicación con las autoridades correspondientes para fomentar un ambiente libre de violencia en el entorno escolar;
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 12 DE JUNIO DE 2015)</small>
 
-II. Expedir el Programa, considerando un diseño transversal, así como la protección de los derechos a una vida libre de violencia, a la educación, a la integridad personal, a la libertad y seguridad personal;
-
-III. Diseñar y evaluar las políticas públicas y acciones institucionales de prevención, combate y erradicación de la violencia en (sic) entorno escolar para evitar su reproducción y la deserción escolar por dicha causa, así como promover la convivencia pacífica entre escolares, desarrollando un clima de buen trato, libre de violencia;
-
-IV. Fungir como órgano de consulta, asesoría, análisis y difusión periódica de informes, estudios, diagnósticos, indicadores e investigaciones multidisciplinarias en temas de convivencia y violencia en el entorno escolar;
-
-V. Realizar investigaciones multidisciplinarias e intersectoriales, en colaboración con instituciones académicas, organismos de la sociedad civil e internacionales, que permita conocer el estado que guarda la violencia en las escuelas;
-
-VI. Coadyuvar en el diseño y difusión de campañas informativas en los medios de comunicación oficial, sobre los tipos y modalidades de violencia en el entorno escolar, así como de las instituciones que atienden a las posibles personas generadoras y receptoras de violencia en el entorno escolar;
-
-VII. Promover la celebración de convenios de colaboración con las autoridades federales, locales, municipales, universidades, institutos de investigación, así como con organismos de la sociedad civil interesados en el estudio de la violencia en el entorno escolar;
-
-VIII. Establecer y definir los lineamientos, y criterios de coordinación y transversalidad de los programas de conocimiento, prevención, combate y erradicación de la violencia en el entorno escolar;
-
-IX. Fomentar y fortalecer la coordinación, colaboración e intercambio de información entre las instituciones públicas y privadas que se ocupen de esa materia;
-
-X. Coordinar y ejecutar políticas, programas y acciones de promoción de los derechos humanos de niñas, niños y adolescentes, la cultura de la paz, cohesión comunitaria, no discriminación y convivencia armónica en la comunidad educativa;
-
-XI. Elaborar un informe anual de las estadísticas de violencia en el entorno escolar, las medidas adoptadas y los indicadores sobre el avance en la aplicación de métodos para prevenir, combatir y erradicar cualquier forma de violencia en el entorno escolar, que serán de dominio público y se difundirán en los portales de transparencia de las instancias integrantes del Consejo;
-
-XII. Establecer los lineamientos administrativos y técnicos en esta materia, así como los protocolos de atención más adecuados para esta problemática;
-
-XIII. Facilitar la generación de sistemas y bases de datos para la medición y diagnóstico de la incidencia de la violencia en el entorno escolar;
-
-XIV. Establecer grupos de trabajo, organizado en función de las materias concretas cuyo estudio y análisis se les encomiende, y
-
-XV. Las demás que señalen esta Ley, su Reglamento y demás disposiciones legales aplicables.
-
-### Capítulo II. Del Programa para la Prevención, Combate y Erradicación de la Violencia en el Entorno Escolar del Estado de Yucatán
+### Capítulo II. Del Programa Especial de Protección de Niñas, Niños y Adolescentes
 
 ###### Artículo 26.
 
-El Programa es el instrumento rector de la política pública del Estado y tiene por objeto establecer los mecanismos, estrategias, lineamientos y acciones orientadas al establecimiento, diseño, ejecución y promoción de un ambiente libre de violencia en el entorno escolar.
+(DEROGADO, D.O. 12 DE JUNIO DE 2015)
 
-Este será elaborado y aprobado por el Consejo, previendo que su revisión sea producto de un proceso de participación de todos los sectores interesados en el tema, especialmente de instituciones académicas, organismos internacionales que trabajan en la materia y organizaciones de la sociedad civil.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE JUNIO DE 2015)</small>
 
 ###### Artículo 27.
 
-Las disposiciones del Programa serán de carácter obligatorio y contendrá al menos:
+El Programa, para el cumplimiento del objeto de esta ley, contendrá:
 
-I. Los objetivos generales y específicos del Programa;
+I. (DEROGADA, D.O. 12 DE JUNIO DE 2015)
 
 II. El diagnóstico de la situación prevaleciente en el Estado en materia de Violencia en el entorno escolar;
 
@@ -617,8 +569,6 @@ Artículo Cuarto.- El Consejo para la Prevención, Tratamiento y Erradicación d
 
 Artículo Quinto.- El Programa para la Prevención, Combate y Erradicación de la Violencia en el Entorno Escolar del Estado de Yucatán, deberá expedirse dentro de los 240 días siguientes a la entrada en vigor de esta Ley.
 
-.
-
 DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO, EN LA CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS A LOS QUINCE DÍAS DEL MES DE JULIO DEL AÑO DOS MIL DOCE.- PRESIDENTA.- DIPUTADA MARTHA LETICIA GÓNGORA SÁNCHEZ.- SECRETARIO.- DIPUTADO TITO FLORENCIO SÁNCHEZ CAMARGO.- SECRETARIO.- DIPUTADO CARLOS DAVID RAMÍREZ Y SÁNCHEZ.- RUBRICAS."
 
 Y, POR TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU CONOCIMIENTO Y DEBIDO CUMPLIMIENTO.
@@ -642,3 +592,51 @@ LICENCIADO ALFREDO TEYER MERCADO, DIRECTOR DEL DIARIO OFICIAL DEL GOBIERNO DEL E
 QUE LAS PRESENTES COPIAS FOTOSTÁTICAS CONSISTENTES EN TREINTA Y CINCO FOJAS ÚTILES, SON FIEL REPRODUCCIÓN DEL ORIGINAL QUE OBRA EN EL TOMO DEL MES DE JULIO DEL AÑO DOS MIL DOCE MISMO QUE SE ENCUENTRA EN LA HEMEROTECA DE ESTA DIRECCIÓN.
 
 SE EXPIDE LA PRESENTE CERTIFICACIÓN EN LA CIUDAD DE MÉRIDA, CAPITAL DEL ESTADO DE YUCATÁN, A LOS NUEVE DIAS DEL MES DE OCTUBRE DEL AÑO DOS MIL DOCE.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE JUNIO DE 2015.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, sin perjuicio de lo dispuesto en el artículo transitorio segundo.
+
+Segundo. Régimen de vigencia especial
+
+Las derogaciones de los artículos 67, 88 y 144 del Código de Familia para el Estado de Yucatán entrarán en vigor a los dos años contados a partir de la publicación de este decreto en el Diario Oficial del Gobierno del Estado de Yucatán. La reforma del artículo 7 de la Ley de Justicia para Adolescentes del Estado de Yucatán entrará en vigor el mismo día que lo haga el Código Nacional de Procedimientos Penales.
+
+Tercero. Abrogación
+
+Se abrogan la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el 8 de agosto de 2008.
+
+Cuarto. Expedición del programa
+
+El Gobernador deberá expedir el Programa Especial de Protección de Niñas, Niños y Adolescentes dentro de un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de este decreto.
+
+Quinto. Instalación del consejo
+
+El Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán deberá instalarse dentro de un plazo de noventa días naturales contados a partir de la entrada en vigor de este decreto.
+
+Sexto. Expedición de reglamento interno
+
+El Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán deberá expedir su reglamento interno dentro de un plazo de noventa días naturales contados a partir de su instalación.
+
+Séptimo. Modificación de regulación interna de la Prodemefa
+
+La Procuraduría de la Defensa del Menor y la Familia deberá adecuar su regulación interna en materia de procedimientos de adopción en los términos de lo dispuesto por este decreto dentro de un plazo de noventa días naturales contados a partir de su entrada en vigor.
+
+Octavo. Modificación de regulación interna de la Codhey
+
+La Comisión de Derechos Humanos del Estado de Yucatán deberá adecuar su regulación interna para establecer una unidad administrativa especializada en materia de niñas, niños y adolescentes, en los términos de lo dispuesto por el artículo 140 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+Noveno. Nombramiento del secretario ejecutivo
+
+El Gobernador deberá nombrar al Secretario Ejecutivo del Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán dentro de un plazo de treinta días naturales contados a partir de la entrada en vigor de este decreto.
+
+Décimo. Matrimonios entre adolescentes
+
+Los matrimonios entre adolescentes celebrados antes de la entrada en vigor de este decreto en los términos de los artículos que se derogan del Código de Familia para el Estado de Yucatán serán válidos para todos los efectos legales.
+
+Décimo primero. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
