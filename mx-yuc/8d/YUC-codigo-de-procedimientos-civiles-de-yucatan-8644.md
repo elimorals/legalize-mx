@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-procedimientos-civiles-de-yucatan-8644"
 country: "mx"
 rank: "codigo"
 publication_date: "1941-12-24"
-last_updated: "2012-04-30"
+last_updated: "2015-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE JUNIO DE 2015.
 
 Código publicado en el Diario Oficial los días 24, 26, 27, 29, 30 y 31 de Diciembre de 1941 y 5 de Enero de 1942.
 
@@ -345,6 +345,10 @@ Los Magistrados y los Jueces a quienes corresponda, recibirán personalmente tod
 
 En cualquier estado del negocio pueden los tribunales citar a las partes para las juntas que crean convenientes, ya sea para procurar su avenencia o para esclarecer algún punto, sin que por ello se suspendan los términos que estén corriendo. Estas juntas, lo mismo que todas las diligencias, se verificarán en el local del tribunal, a menos que por su propia naturaleza deban practicarse en otro lugar, o cuando por razón de la edad, sexo, enfermedad u otra circunstancia grave debidamente justificada, de las personas que han de intervenir, el tribunal designe lugar diverso.
 
+> <small>(ADICIONADO, D.O. 12 DE JUNIO DE 2015)</small>
+
+El juez ponderará la pertinencia de la participación de niñas, niños y adolescentes en las audiencias, comparecencias y demás diligencias, considerando su edad, madurez, estado psicológico, así como cualquier otra condición específica. En los asuntos en que intervengan niñas, niños o adolescentes, deberán estar acompañados de quien ejerza la patria potestad, tutela, guarda o custodia durante todo el procedimiento, salvo disposición judicial en contrario. No obstante, el juez procurará que se mantengan apartados de los adultos que puedan influir en su comportamiento o estabilidad emocional, antes y durante la realización de la audiencia, comparecencia o diligencia de que se trate y destinará espacios lúdicos de descanso y aseo para estos. Asimismo, procurará que su participación sea breve, con pleno respeto a su intimidad y vigilará que se respeten los derechos establecidos en el artículo 86 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
 ###### ARTICULO 51.
 
 Los tribunales no admitirán nunca recursos notoriamente frívolos o improcedentes; los desecharán de plano, sin necesidad de mandar que se hagan saber a la otra parte, ni formar artículo, y consignarán el caso al agente del Ministerio Público para que éste proceda en consecuencia con lo que determina el artículo 215, fracción III, del Código de Defensa Social.
@@ -390,6 +394,10 @@ I.- Cuando el retardo o suspensión de las actuaciones provenga de impedimento l
 II.- Cuando hechas todas las promociones del caso, esté pendiente de dictarse una resolución y la autoridad judicial retarde ésta sin culpa de los interesados.
 
 III.- Cuando se trate de actuaciones para la ejecución de sentencias firmes.
+
+> <small>(ADICIONADA, D.O. 12 DE JUNIO DE 2015)</small>
+
+IV.- Cuando sea en perjuicio de niñas, niños y adolescentes, en tanto mantengan esta condición.
 
 ###### ARTICULO 56.
 
@@ -6822,3 +6830,49 @@ Los procedimientos que a la entrada en vigor de este Código, se encuentren pend
 ###### ARTÍCULO SEXTO.
 
 Cuando otras leyes, reglamentos y demás disposiciones aplicables en materia familiar, hagan referencia al Código de Procedimientos Civiles del Estado de Yucatán, a partir de la entrada en vigor de este Código se entenderán hechas a este Código.
+
+D.O. 12 DE JUNIO DE 2015.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, sin perjuicio de lo dispuesto en el artículo transitorio segundo.
+
+Segundo. Régimen de vigencia especial
+
+Las derogaciones de los artículos 67, 88 y 144 del Código de Familia para el Estado de Yucatán entrarán en vigor a los dos años contados a partir de la publicación de este decreto en el Diario Oficial del Gobierno del Estado de Yucatán. La reforma del artículo 7 de la Ley de Justicia para Adolescentes del Estado de Yucatán entrará en vigor el mismo día que lo haga el Código Nacional de Procedimientos Penales.
+
+Tercero. Abrogación
+
+Se abrogan la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el 8 de agosto de 2008.
+
+Cuarto. Expedición del programa
+
+El Gobernador deberá expedir el Programa Especial de Protección de Niñas, Niños y Adolescentes dentro de un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor este decreto.
+
+Quinto. Instalación del consejo
+
+El Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán deberá instalarse dentro de un plazo de noventa días naturales contados a partir de la entrada en vigor de este decreto.
+
+Sexto. Expedición de reglamento interno
+
+El Consejo de Protección Integral de los Derechos Niñas, Niños y Adolescentes del Estado de Yucatán deberá expedir su reglamento interno dentro de un plazo de noventa días naturales contados a partir de su instalación.
+
+Séptimo. Modificación de regulación interna de la Prodemefa
+
+La Procuraduría de la Defensa del Menor y la Familia deberá adecuar su regulación interna en materia de procedimientos de adopción en los términos de lo dispuesto por este decreto dentro de un plazo de noventa días naturales contados a partir de su entrada en vigor.
+
+Octavo. Modificación de regulación interna de la Codhey
+
+La Comisión de Derechos Humanos del Estado de Yucatán deberá adecuar su regulación interna para establecer una unidad administrativa especializada en materia de niñas, niños y adolescentes, en los términos de lo dispuesto por el artículo 140 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+Noveno. Nombramiento del secretario ejecutivo
+
+El Gobernador deberá nombrar al Secretario Ejecutivo del Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán dentro de un plazo de treinta días naturales contados a partir de la entrada en vigor de este decreto.
+
+Décimo. Matrimonios entre adolescentes
+
+Los matrimonios entre adolescentes celebrados antes de la entrada en vigor de este decreto en los términos de los artículos que se derogan del Código de Familia para el Estado de Yucatán serán válidos para todos los efectos legales.
+
+Décimo primero. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
