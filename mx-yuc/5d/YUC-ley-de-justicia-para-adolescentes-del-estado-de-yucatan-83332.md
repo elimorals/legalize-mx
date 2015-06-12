@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-justicia-para-adolescentes-del-estado-de-yucatan-83332"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-21"
-last_updated: "2011-10-21"
+last_updated: "2015-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83332&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE JUNIO DE 2015.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 21 de octubre de 2011.
 
@@ -133,17 +133,23 @@ XIX. Presunción de inocencia: el adolescente deberá ser considerado y tratado 
 
 XX. Privacidad: mediante el cual se respeta la intimidad, privacidad personal familiar del adolescente y consecuentemente se prohíbe la publicación por cualquier medio de comunicación de dato alguno que directa o indirectamente posibilite la divulgación de su identidad.
 
+> <small>(REFORMADO, D.O. 12 DE JUNIO DE 2015)</small>
+
 Interpretación
 
 ###### Artículo 6.
 
-Esta Ley debe aplicarse e interpretarse de conformidad con los principios rectores del Sistema Integral de Justicia para Adolescentes, la Constitución de los Estados Unidos Mexicanos, los instrumentos internacionales aplicables en la materia, la Constitución Política del Estado de Yucatán y las leyes para la protección de los Derechos de Niñas, Niños y Adolescentes, tanto federal como local.
+Esta Ley debe aplicarse e interpretarse de conformidad con los principios rectores del Sistema Integral de Justicia para Adolescentes, la Constitución de los Estados Unidos Mexicanos, los instrumentos internacionales aplicables en la materia, la Constitución Política del Estado de Yucatán y las leyes, general y estatal, de los derechos de niñas, niños y adolescentes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 12 DE JUNIO DE 2015)</small>
 
 Supletoriedad
 
 ###### Artículo 7.
 
-Sólo en lo no previsto por esta Ley deberá aplicarse supletoriamente el Código Penal y el Código Procesal Penal ambos del Estado y la legislación general que corresponda, siempre que no se opongan a los principios rectores y ordenamientos a que se refiere el artículo anterior protegiendo la integridad de los derechos y garantías de los adolescentes y de las víctimas.
+Sólo en lo no previsto por esta Ley deberá aplicarse supletoriamente el Código Penal del Estado de Yucatán y el Código Nacional de Procedimientos Penales, siempre que no se opongan a los principios rectores y ordenamientos a que se refiere el artículo anterior protegiendo la integridad de los derechos y garantías de los adolescentes y de las víctimas.
 
 Sistema Integral de Justicia para Adolescentes
 
@@ -1653,7 +1659,9 @@ Obligaciones de la policía y de integrantes de corporaciones de seguridad públ
 
 Los integrantes de la policía y de las corporaciones de seguridad públicas que en el ejercicio de sus funciones conozcan de hechos y conductas tipificadas como delitos por las normas penales, en las que participen adolescentes, al ejercer sus funciones, deberán:
 
-I. Apegarse a los principios, derechos y garantías previstos en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, los Tratados Internacionales vigentes aplicables en la materia, las Leyes para la Protección de los Derechos de Niñas, Niños y Adolescentes, tanto federal como local, esta Ley y las demás aplicables;
+> <small>(REFORMADA, D.O. 12 DE JUNIO DE 2015)</small>
+
+I. Apegarse a los principios, derechos y garantías previstos en la Constitución Política de los Estados Unidos Mexicanos; la particular del Estado; los Tratados Internacionales vigentes aplicables en la materia; las leyes, general y estatal, para de (sic) los derechos de niñas, niños y adolescentes; esta Ley; y las demás aplicables;
 
 II. Informar al adolescente los derechos establecidos en las fracciones I, III, IX, XII, XIII, XIV y XX del artículo 10 de esta Ley;
 
@@ -1813,7 +1821,9 @@ Denominación
 
 El adolescente es la persona que tenga entre doce años cumplidos y menos de dieciocho años de edad.
 
-Se entenderá por niña o niño a la persona que tenga menos de doce años, en términos de la Ley para la Protección de los Derechos (sic) Niñas, Niños y Adolescentes del Estado.
+> <small>(REFORMADO, D.O. 12 DE JUNIO DE 2015)</small>
+
+Se entenderá por niña o niño a la persona que tenga menos de doce años, en términos de la Ley de los Derechos (sic) Niñas, Niños y Adolescentes del Estado de Yucatán.
 
 Grupos etarios
 
@@ -5756,3 +5766,51 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 12 DE JUNIO DE 2015.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, sin perjuicio de lo dispuesto en el artículo transitorio segundo.
+
+Segundo. Régimen de vigencia especial
+
+Las derogaciones de los artículos 67, 88 y 144 del Código de Familia para el Estado de Yucatán entrarán en vigor a los dos años contados a partir de la publicación de este decreto en el Diario Oficial del Gobierno del Estado de Yucatán. La reforma del artículo 7 de la Ley de Justicia para Adolescentes del Estado de Yucatán entrará en vigor el mismo día que lo haga el Código Nacional de Procedimientos Penales.
+
+Tercero. Abrogación
+
+Se abrogan la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el 8 de agosto de 2008.
+
+Cuarto. Expedición del programa
+
+El Gobernador deberá expedir el Programa Especial de Protección de Niñas, Niños y Adolescentes dentro de un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de este decreto.
+
+Quinto. Instalación del consejo
+
+El Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán deberá instalarse dentro de un plazo de noventa días naturales contados a partir de la entrada en vigor de este decreto.
+
+Sexto. Expedición de reglamento interno
+
+El Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán deberá expedir su reglamento interno dentro de un plazo de noventa días naturales contados a partir de su instalación.
+
+Séptimo. Modificación de regulación interna de la Prodemefa
+
+La Procuraduría de la Defensa del Menor y la Familia deberá adecuar su regulación interna en materia de procedimientos de adopción en los términos de lo dispuesto por este decreto dentro de un plazo de noventa días naturales contados a partir de su entrada en vigor.
+
+Octavo. Modificación de regulación interna de la Codhey
+
+La Comisión de Derechos Humanos del Estado de Yucatán deberá adecuar su regulación interna para establecer una unidad administrativa especializada en materia de niñas, niños y adolescentes, en los términos de lo dispuesto por el artículo 140 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+Noveno. Nombramiento del secretario ejecutivo
+
+El Gobernador deberá nombrar al Secretario Ejecutivo del Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán dentro de un plazo de treinta días naturales contados a partir de la entrada en vigor de este decreto.
+
+Décimo. Matrimonios entre adolescentes
+
+Los matrimonios entre adolescentes celebrados antes de la entrada en vigor de este decreto en los términos de los artículos que se derogan del Código de Familia para el Estado de Yucatán serán válidos para todos los efectos legales.
+
+Décimo primero. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
