@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-instituciones-y-procedimientos-electorales-de-baja-64597
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-19"
-last_updated: "2013-02-15"
+last_updated: "2015-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 12 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015 (ABROGADA).
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 19 de noviembre de 2008.
 
@@ -57,7 +59,7 @@ II. La constitución, registro, organización, función, prerrogativas, derechos
 
 III. La función pública de organizar las elecciones ordinarias y extraordinarias para la integración de los Poderes Legislativo y Ejecutivo del Estado, y de los Ayuntamientos de la Entidad;
 
-IV. El Sistema de Medios de Impugnación para garantizar la legalidad de los actos y resoluciones de las autoridades electorales, y (sic)
+IV. El Sistema de Medios de Impugnación para garantizar la legalidad de los actos y resoluciones de las autoridades electorales, y
 
 V. Las faltas y sanciones administrativas, así como el Régimen de Responsabilidades y sanciones de los consejeros electorales y de los servidores públicos del Instituto Electoral y de Participación Ciudadana del Estado de Baja California.
 
@@ -479,1109 +481,455 @@ VIII. En caso de que la asignación recaiga en quien esté inhabilitado o no re�
 
 Las vacantes de propietarios de munícipes por el principio de representación proporcional, deberán ser cubiertas por los suplentes de la planilla respectiva.
 
-# LIBRO TERCERO. DEL RÉGIMEN DE LOS PARTIDOS POLÍTICOS
+> <small>(DEROGADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)</small>
 
-## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
+# LIBRO TERCERO
+
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)</small>
+
+## TÍTULO PRIMERO
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)</small>
 
 ### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 36.
 
-El presente Libro tiene por objeto regular:
-
-I. Los procedimientos para la constitución y registro de los partidos políticos estatales, su función, sus formas específicas de participación y responsabilidad, el desarrollo de sus actividades, las garantías para el cumplimiento de sus fines, el ejercicio de sus derechos y el disfrute de prerrogativas, y
-
-II. La acreditación, participación y responsabilidad de los partidos políticos nacionales en el desarrollo de sus actividades en los procesos locales, así como el ejercicio de sus derechos y el disfrute de prerrogativas.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 37.
 
-Los partidos políticos son entidades de interés público, que tienen como fin promover la participación de los ciudadanos en el desarrollo de la vida democrática, contribuir a la integración de la representación estatal y como asociación de ciudadanos, acceder al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulen y mediante el sufragio universal, libre, secreto, directo, personal e intransferible.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 38.
 
-Tendrán el carácter de partidos políticos:
-
-I. Estatales, los que se constituyan y obtengan su registro ante el Instituto Electoral, de acuerdo a los requisitos y procedimientos que señala esta Ley, y
-
-II. Nacionales, los que acrediten ante el Instituto Electoral la vigencia de su registro obtenido ante el Instituto Federal Electoral.
-
-Los partidos políticos estatales y los nacionales, gozarán de los mismos derechos, prerrogativas y obligaciones, a excepción de los que de forma exclusiva, se establecen para cada uno de ellos.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 39.
 
-Para el cumplimiento de sus atribuciones y fines, la acción de los partidos políticos deberá:
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
-I. Propiciar la articulación social y la participación democrática de los ciudadanos en los asuntos públicos de la entidad y fomentar la educación cívica;
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)</small>
 
-II. Promover la formación ideológica y política de sus militantes;
+## TÍTULO SEGUNDO
 
-III. Coordinar acciones políticas y electorales conforme a sus principios, programas y estatutos;
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)</small>
 
-IV. Fomentar discusiones sobre cuestiones de interés común y deliberaciones sobre temas que integran objetivos estatales y municipales, a fin de establecer vínculos permanentes entre la opinión y los poderes públicos, y
-
-V. Fomentar los principios democráticos en el desarrollo de sus actividades, incluidos en aquellas relativas a los procesos de precampaña electoral.
-
-## TÍTULO SEGUNDO. DE LA CONSTITUCIÓN, REGISTRO Y ACREDITACIÓN DE LOS PARTIDOS POLÍTICOS
-
-### CAPÍTULO PRIMERO. DE LA CONSTITUCIÓN DE LOS PARTIDOS POLÍTICOS ESTATALES
+### CAPÍTULO PRIMERO
 
 ###### ARTÍCULO 40.
 
-Partido Político Estatal, es la asociación de ciudadanos residentes en el Estado, que se organizan y constituyen, de acuerdo con las formalidades previstas en esta Ley, con el objeto de hacer posible los fines previstos en el artículo 37 de esta Ley.
-
-Quedan prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos políticos y cualquier forma de afiliación corporativa a ellos.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 41.
 
-La asociación interesada en constituirse como partido político estatal, deberá aprobar en asambleas públicas su declaración de principios, programa de acción y estatutos que normen sus actividades.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 42.
 
-La declaración de principios deberá contener por lo menos:
-
-I. Los principios ideológicos de carácter político, económico y social que postulen;
-
-II. La obligación de observar la Constitución Federal, la Constitución del Estado y respetar las leyes e instituciones que de ellas emanen;
-
-III. La obligación de no aceptar o convenir ningún pacto o acuerdo que los sujete o subordine a cualquier organización internacional o los haga depender de entidades o partidos políticos extranjeros;
-
-IV. La obligación de no solicitar o recibir ningún tipo de apoyo económico, político o propagandístico, proveniente de entidades, partidos políticos u organizaciones extranjeras o de ministros de cultos de cualquier religión o asociación religiosa, y de cualquier persona física o moral a la que esta Ley prohíba financiar a los partidos políticos;
-
-IV. La obligación de conducir sus actividades por medios pacíficos y por la vía democrática, y
-
-V. La obligación de promover la participación política en igualdad de oportunidades y equidad entre mujeres y hombres.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 43.
 
-El programa de acción determinará:
-
-I. Medidas congruentes que permitan alcanzar los objetivos contenidos en su declaración de principios;
-
-II. Políticas para resolver los problemas sociopolíticos, estatales y municipales;
-
-III. Medidas que adopten para ejecutar las acciones relativas a la formación ideológica de sus afiliados, y
-
-IV. Medios que propicien la participación de sus militantes en los procesos electorales, en las actividades y fines que esta Ley señale.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 44.
 
-Los estatutos contendrán:
-
-I. La denominación del partido, emblema y el color o los colores que lo identifiquen y distingan de otros partidos políticos, los cuales deberán estar exentos de alusiones religiosas o raciales. Estas características no podrán ser iguales o semejantes a las de alguno ya registrado.
-
-No podrá utilizar la combinación de colores o símbolos nacionales en su emblema o propaganda electoral;
-
-II. Los procedimientos de afiliación individual y libre, así como los derechos y obligaciones de sus miembros. Dentro de los derechos se incluirá el de participar directamente o por medio de delegados en asambleas, convenciones, o sus equivalentes y el de acceder a los órganos directivos;
-
-III. Los procedimientos democráticos internos para la renovación periódica de sus dirigentes y la integración de sus órganos, así como sus respectivas funciones, facultades y obligaciones. Entre sus órganos deberán contar, cuando menos con los siguientes:
-
-a) Una asamblea estatal o equivalente;
-
-b) Un Comité Estatal u Organismo equivalente que tenga la representación del partido en todo el Estado, y
-
-c) Un Comité Municipal u Organismo equivalente en cada uno de los Municipios del Estado;
-
-IV. Las normas y requisitos para la postulación democrática de sus candidatos;
-
-V. Establecer el órgano responsable de la administración de su patrimonio y recursos financieros y de la presentación de los informes de ingresos y egresos anuales y de campaña;
-
-VI. Las sanciones aplicables a los afiliados que infrinjan sus disposiciones internas y los correspondientes medios y procedimientos de defensa, así como los órganos partidarios permanentes encargados de la sustanciación y resolución de las controversias. Las instancias de resolución de conflictos internos nunca serán más de dos, a efecto de que las resoluciones se emitan de manera pronta y expedita, y
-
-VII. Las causas de disolución como partido político.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 45.
 
-Para que una asociación obtenga su registro como partido político estatal, es necesario que reúna los siguientes requisitos:
-
-I. Notificar al Instituto Electoral, en el mes de enero del año siguiente al de la elección ordinaria de gobernador, su propósito de constituirse como partido político estatal, señalando domicilio para oír y recibir notificaciones, así como la designación del representante legal. Cualquier notificación presentada fuera de este plazo, se tendrá por no interpuesta;
-
-II. Contar con un mínimo de dos mil quinientos afiliados en todo el territorio del estado. De estos, deberán de corresponder un mínimo de cuatrocientos afiliados por municipio, en por los (sic) menos tres de ellos. La afiliación se hará mediante solicitud individual original de los ciudadanos residentes en el Municipio correspondiente, en las que conste el nombre completo, apellidos, domicilio, ocupación, clave y número de la credencial para votar y la firma de cada afiliado o huella digital, en su caso;
-
-III. Celebrar una asamblea en cada municipio, bajo el siguiente orden del día:
-
-a) Lista de asistencia;
-
-b) Declaración de quórum legal, que se compondrá con el setenta y cinco por ciento de los afiliados del Municipio correspondiente;
-
-c) Elección de la mesa directiva que conducirá los trabajos, integrada por un presidente, un secretario, y escrutadores;
-
-d) Aprobación de la declaración de principios;
-
-e) Aprobación del programa de acción;
-
-f) Aprobación de los estatutos, y
-
-g) Elección de delegados propietarios y suplentes o sus equivalentes, para participar en representación de la asamblea municipal en la asamblea estatal constitutiva del partido, y
-
-IV. Celebrar asamblea estatal constitutiva, bajo el orden del día que contendrá, además de lo señalado en los incisos c), d), e) y f) de la fracción anterior, lo siguiente:
-
-a) Lista de asistencia de los delegados municipales o sus equivalentes acreditados a la asamblea estatal;
-
-b) Declaración de quórum legal, que se compondrá cuando menos del setenta y cinco por ciento de los delegados acreditados;
-
-c) Aprobación por parte de la asamblea de constituirse como partido político estatal, y
-
-d) Nombramiento del o los representantes legales de la asociación.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 46.
 
-Las asambleas a que se refiere el artículo anterior, deberán realizarse ante la presencia del Secretario Fedatario del Consejo General, quien dará fe y certificará la existencia de los actos que en las mismas se desarrollen, levantando el acta y testimonio que corresponda, en los que hará constar que:
-
-I. Fueron exhibidas las solicitudes individuales originales de afiliación de los miembros residentes en el Municipio correspondiente;
-
-II. Concurrieron a las asambleas cuando menos el setenta y cinco por ciento de los afiliados o delegados en su caso, habiéndose identificado con su credencial para votar, a efecto de acreditar que son ciudadanos residentes del Municipio y que están inscritos en el Padrón Electoral;
-
-III. Con los ciudadanos asistentes quedaron formuladas las listas de afiliados;
-
-IV. En la asamblea fueron leídos, discutidos y aprobados la declaración de principios, programa de acción y estatutos;
-
-V. Aprobaron en la asamblea, constituirse como partido político estatal;
-
-VI. Nombraron al o los representantes legales de la asociación, y
-
-VII. De entre ellos mismos y en la forma prevista en sus Estatutos eligieron delegados propietarios y suplentes para participar con la representación de la asamblea municipal en la asamblea estatal constitutiva del partido.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 47.
 
-Cumplidos los requisitos a que se refieren los artículos 45 y 46 de esta Ley, la asociación interesada deberá presentar solicitud ante el Consejo General, en el mes de noviembre del año que corresponda, acompañando los siguientes documentos:
-
-I. La declaración de principios, el programa de acción y los estatutos aprobados por sus miembros;
-
-II. Las solicitudes individuales originales de afiliados por municipios, y una relación de las mismas;
-
-III. Las actas certificadas de las asambleas celebradas en los municipios y el acta certificada de la asamblea estatal constitutiva;
-
-IV. Constancia levantada por el Secretario Fedatario del Consejo General, que acredite el domicilio social propio y permanente, donde se ubiquen sus instalaciones para el despacho de actividades inherentes a su objeto y fines;
-
-V. Constancias de haber realizado actividades políticas inherentes a la realización de sus fines, propias y en forma independiente de cualquier otra organización y partido político, con periodicidad mensual durante el año anterior a la presentación de la solicitud de registro. La demostración de actividades políticas debe referirse a las asociaciones solicitantes y no a individuos en forma personal o particular, y
-
-VI. Características técnicas del emblema, tipografía y el color o combinación de colores que lo identifiquen y distingan de los partidos políticos, proporcionándose en medios magnéticos.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 48.
 
-La asociación de ciudadanos interesada deberá realizar el procedimiento de constitución del partido político estatal, entre los meses de enero y noviembre del año siguiente al de la elección ordinaria de gobernador. Si la solicitud de registro no se presenta en el plazo previsto en el artículo 47 de la Ley, dejará de tener efectos la notificación formulada, desechándose de plano cualquier solicitud presentada en forma extemporánea.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
-### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE REGISTRO DE LOS PARTIDOS POLÍTICOS ESTATALES ANTE EL CONSEJO GENERAL
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)</small>
+
+### CAPÍTULO SEGUNDO
 
 ###### ARTÍCULO 49.
 
-El Consejo General, al conocer la solicitud de la asociación que pretenda registrarse como partido político estatal, a través de la Comisión del Régimen de Partidos Políticos, examinará los documentos a que se refiere el artículo 47 de esta Ley, a fin de verificar su veracidad y autenticidad, el cumplimiento de los requisitos y del procedimiento de constitución señalados en esta Ley, y formulará el proyecto de dictamen respectivo.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 50.
 
-El Consejo General a más tardar en el mes de junio del año siguiente al que se haya presentado la solicitud de registro resolverá lo conducente, debiendo fundar y motivar el sentido de su resolución, misma que notificará personalmente a los representantes legales de la asociación, en un plazo no mayor de tres días, para los fines que estime pertinentes.
-
-Una vez que cause estado la resolución, en su caso, expedirá el certificado correspondiente que lo acredite como partido político estatal.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 51.
 
-Los partidos políticos estatales registrados tendrán personalidad jurídica, gozarán de los derechos y prerrogativas que a éstos son conferidos y quedarán sujetos a las obligaciones que establecen la Constitución del Estado y esta Ley.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 52.
 
-El Consejo General, dará a conocer todos los registros que otorgue dentro de los quince días siguientes a que cause estado, mediante publicación en el Periódico Oficial del Estado.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
-### CAPÍTULO TERCERO. DE LA ACREDITACIÓN DE LOS PARTIDOS POLÍTICOS NACIONALES
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)</small>
+
+### CAPÍTULO TERCERO
 
 ###### ARTÍCULO 53.
 
-El partido político nacional con registro otorgado por el órgano electoral federal competente, tendrá derecho a participar en las elecciones de la entidad, sujetándose a lo previsto en la Constitución del Estado y en esta Ley, debiendo solicitar la acreditación durante el mes de agosto del año anterior al del día de las elecciones ordinarias, ante el Consejo General, debiendo comprobar, lo siguiente:
-
-I. La vigencia de su registro, mediante la certificación que expida el Instituto Federal Electoral, adjuntando la declaración de principios, programa de acción y estatutos certificados por la propia autoridad federal electoral. Las certificaciones referidas en esta fracción no deberán tener una antigüedad mayor de cuatro meses anteriores a la fecha en que se solicite la acreditación respectiva;
-
-II. Tener domicilio permanente en el Estado, mediante constancia levantada por un representante del Instituto Electoral, designado por la Comisión del Régimen de Partidos Políticos, donde se haga constar, que en él se ubican sus instalaciones para el despacho de las actividades inherentes a su objeto y fines, y
-
-III. La integración de su comité directivo o estructura equivalente en el Estado, en oficio suscrito por representante estatutario del órgano partidista nacional, debiendo contener la designación de los titulares de sus órganos de representación, así como una relación de los demás titulares de sus estructuras municipales y distritales, en su caso.
-
-Este procedimiento se observará en la primera ocasión que los partidos políticos nacionales quieran acreditarse en el Estado, o después que lo soliciten, cuando hubieren perdido su acreditación; con independencia de lo anterior, en el mes de octubre de cada año deberán presentar ante el Consejo General, certificación de vigencia de su registro expedido por el Instituto Federal Electoral.
-
-La acreditación como partido político nacional tendrá vigencia en tanto no le haya sido suspendida o cancelada.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 54.
 
-El Consejo General, a más tardar el diez de noviembre del año inmediato anterior en el que habrán de celebrarse elecciones, dará a conocer todas las acreditaciones que hubieren resultado procedentes, o que en su caso se encuentren vigentes, mediante publicación en el Periódico Oficial del Estado.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 55.
 
-El partido político nacional, perderá su acreditación por alguna de las siguientes causas:
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
-I. Resolución del Instituto Federal Electoral, que cause estado sobre la pérdida de su registro;
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)</small>
 
-II. No participar en un proceso electoral estatal ordinario;
-
-III. No haber obtenido en la elección de diputados por el principio de mayoría relativa, una votación de por lo menos el dos punto cinco por ciento de la votación estatal emitida;
-
-IV. Dejar de reunir los requisitos necesarios para obtener la acreditación, o
-
-V. Incumplir de manera grave o sistemática a juicio del Consejo General, las obligaciones que señala esta Ley.
-
-### CAPÍTULO CUARTO. DEL PROCEDIMENTO (SIC) DE LA CANCELACIÓN DE REGISTRO DE LOS PARTIDOS POLÍTICOS ESTATALES
+### CAPÍTULO CUARTO
 
 ###### ARTÍCULO 56.
 
-A los partidos políticos estatales se les cancelará su registro por alguna de las siguientes causas:
-
-I. No participar en un proceso electoral estatal ordinario;
-
-II. No haber obtenido en la elección de diputados por el principio de mayoría relativa, una votación de por lo menos el dos punto cinco por ciento de la votación estatal emitida;
-
-III. Dejar de reunir los requisitos necesarios para obtener el registro;
-
-IV. Incumplir de manera grave o sistemática a juicio del Consejo General, las obligaciones que señala esta Ley;
-
-V. Disolución, conforme a lo que establezcan sus estatutos, o
-
-VI. Haberse fusionado con otro partido político, en los términos que señala esta Ley.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 57.
 
-En caso de que un partido político estatal se encuentre en alguno de los supuestos señalados en las fracciones III, IV, VI y VI (SIC), del artículo 56 de esta Ley, el Consejo General, de oficio o a petición de otro partido político, lo citará por conducto de la Comisión del Régimen de Partidos Políticos, a fin de que se le oiga en defensa y pueda aportar las pruebas que considere necesarias y emita el acuerdo correspondiente.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 58.
 
-El Consejo General en los supuestos señalados en las fracciones I y II, del artículo 56 de esta Ley, emitirá el acuerdo correspondiente, mismo que invariablemente deberá considerar los resultados de los cómputos respectivos de los Consejos Distritales, que hayan causado estado.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 59.
 
-La cancelación del registro de un partido político estatal, no tiene efectos jurídicos en relación con los triunfos que sus candidatos hayan obtenido en las elecciones, por el principio de mayoría relativa.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 60.
 
-Para efectos de la liquidación de los partidos políticos estatales que pierdan su registro y el destino de sus bienes y remanentes, el Instituto Electoral dispondrá lo necesario para que estos sean adjudicados al Estado; para ello se estará a lo siguiente, y a lo que determine el Consejo General en el reglamento que expida:
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
-I. Si de los cómputos que realicen los consejos distritales del Instituto Electoral se desprende que un partido político estatal no obtiene el porcentaje mínimo de votos establecido en la fracción II del artículo 56 de esta Ley, o actualizado el supuesto de la fracción I del mismo artículo, la Dirección de Fiscalización designará de inmediato a un interventor responsable del control y vigilancia directos del uso y destino de los recursos y bienes del partido de que se trate. Lo mismo será aplicable en el caso de que el Consejo General declare la pérdida del registro legal por cualquier otra causa de las establecidas en la presente Ley;
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)</small>
 
-II. La designación del interventor será notificada de inmediato, por conducto de su representante ante el Consejo General, al partido de que se trate, en ausencia del mismo la notificación se hará en el domicilio del partido afectado, y a falte (sic) de éste, por estrados;
-
-III. A partir de su designación el interventor tendrá las más amplias facultades para actos de administración y dominio sobre el conjunto de bienes y recursos del partido político estatal, por lo que todos los gastos que realice el partido deberán ser autorizados expresamente por el interventor. No podrán enajenarse, gravarse o donarse los bienes muebles e inmuebles que integren el patrimonio del partido político, y
-
-IV. Una vez que el Consejo General emita el acuerdo de pérdida del registro legal de un partido político estatal, y que este haya causado estado, el interventor designado deberá:
-
-a) Emitir aviso de liquidación del partido político de que se trate, mismo que deberá publicarse en el Periódico Oficial del Estado para los efectos legales procedentes;
-
-b) Determinar las obligaciones laborales, fiscales y con proveedores o acreedores, a cargo del partido político en liquidación;
-
-c) Determinar el monto de recursos o valor de los bienes susceptibles de ser utilizados para el cumplimiento de las obligaciones a que se refiere el inciso anterior;
-
-d) Ordenar lo necesario para cubrir las obligaciones que la ley determina en protección y beneficio de los trabajadores del partido político en liquidación; realizado lo anterior, deberán cubrirse las obligaciones fiscales que correspondan; si quedasen recursos disponibles, se atenderán otras obligaciones contraídas y debidamente documentadas con proveedores y acreedores del partido político en liquidación, aplicando en lo conducente las leyes en esta materia;
-
-e) Formulará un informe de lo actuado que contendrá el inventario de bienes y recursos remanentes después de establecer las previsiones necesarias a los fines antes indicados; el informe será sometido a la aprobación del Consejo General. Una vez aprobado el informe con el balance de liquidación del partido de que se trate, el interventor ordenará lo necesario a fin de cubrir las obligaciones determinadas, en el orden de prelación antes señalado, y
-
-f) Si realizado lo anterior quedasen bienes o recursos remanentes, los mismos serán adjudicados íntegramente al Estado, a través de la Oficialía Mayor de Gobierno.
-
-En todo tiempo deberá garantizarse al partido político de que se trate el ejercicio de las garantías que la Constitución Federal, la Constitución del Estado, y las leyes establecen para estos casos.
-
-### CAPÍTULO QUINTO. DE LA CANCELACIÓN DE ACREDITACIÓN DE LOS PARTIDOS POLÍTICOS NACIONALES
+### CAPÍTULO QUINTO
 
 ###### ARTÍCULO 61.
 
-Cuando un partido político nacional se encuentre en el supuesto señalado en la fracción I del artículo 55 de esta Ley, la Comisión del Régimen de Partidos Políticos integrará de oficio el expediente respectivo que turnará al Consejo General, a efecto de que éste emita el Acuerdo correspondiente.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 62.
 
-El Consejo General en los supuestos de las fracciones II a la V del artículo 55 de esta Ley, de oficio citará al dirigente del partido de que se trate, por conducto de la Comisión del Régimen de Partidos Políticos, a fin de que se le oiga en defensa y pueda aportar las pruebas que considere necesarias, y emita el acuerdo correspondiente.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 63.
 
-La cancelación de la acreditación de un partido político nacional, no tiene efectos jurídicos en relación con los triunfos que sus candidatos hayan obtenido en las elecciones, por el principio de mayoría relativa.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 64.
 
-El Consejo General ordenará la publicación en el Periódico Oficial del Estado del Acuerdo que emita, sobre la cancelación de registro o acreditación del partido político, cuando haya causado estado.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
-## TÍTULO TERCERO. DE LOS DERECHOS, PRERROGATIVAS Y OBLIGACIONES DE LOS PARTIDOS POLÍTICOS
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPÍTULO PRIMERO. DE LOS DERECHOS
+## TÍTULO TERCERO
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)</small>
+
+### CAPÍTULO PRIMERO
 
 ###### ARTÍCULO 65.
 
-Son derechos de los partidos políticos:
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
-I. Participar conforme a lo dispuesto en la Constitución del Estado y en esta Ley, en la preparación, desarrollo y vigilancia del proceso electoral;
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)</small>
 
-II. Gozar de las garantías que esta Ley les otorga;
-
-III. Ejercer las prerrogativas previstas en el capítulo segundo del presente Título, y recibir el financiamiento público, en los términos del artículo 5 de la Constitución del Estado y de esta Ley;
-
-IV. Postular en forma exclusiva a los candidatos en las elecciones de Gobernador, diputados y munícipes en el Estado;
-
-V. Designar a sus representantes ante los órganos electorales a que se refiere esta Ley;
-
-VI. Formar coaliciones y fusionarse en los términos de esta Ley;
-
-VII. Designar representantes generales y representantes en las Mesas Directivas de Casilla;
-
-VIII. Ser propietarios, poseedores o administradores sólo de los bienes muebles, capitales o inmuebles que sean indispensables para el cumplimiento directo e inmediato de sus fines;
-
-IX. Realizar los actos jurídicos inherentes para la realización de sus fines, y
-
-X. Los demás que disponga esta Ley.
-
-### CAPÍTULO SEGUNDO. DE LAS PRERROGATIVAS
+### CAPÍTULO SEGUNDO
 
 ###### ARTÍCULO 66.
 
-Los partidos políticos tendrán las siguientes prerrogativas:
-
-I. Gozar del régimen fiscal que se establece en esta Ley y en las Leyes de la materia;
-
-II. Recibir en los términos del Capítulo Tercero de este Título financiamiento público, y
-
-III. Acceder a tiempos en radio y televisión en los términos previstos en el Capítulo
-
-Quinto de este Título.
-
-Además de las anteriores, los partidos políticos estatales por conducto de sus comités estatales, municipales o distritales en su caso, disfrutarán del registro postal dentro del territorio del Estado, con el propósito de que remitan su correspondencia, propaganda y publicaciones periódicas. El Instituto Electoral, a través de la Dirección de Fiscalización, establecerá el procedimiento para su otorgamiento.
-
-Para efectos del párrafo anterior, se considerará hasta el uno por ciento del financiamiento público estatal de campaña y el mismo porcentaje sobre financiamiento público estatal permanente en año no electoral, para cada uno de ellos.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 67.
 
-Los partidos políticos no son sujetos de los impuestos y derechos siguientes:
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
-I. Los relativos a ferias, festivales y otros eventos que previa autorización legal, tengan por objeto allegarse de recursos para el cumplimiento de sus fines;
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)</small>
 
-II. Los referentes a la venta de impresos que editen para la difusión de sus principios, programas y estatutos, y
-
-III. Los demás que señalen otras Leyes.
-
-### CAPÍTULO TERCERO. DEL FINANCIAMIENTO
+### CAPÍTULO TERCERO
 
 ###### ARTÍCULO 68.
 
-El régimen de financiamiento de los partidos políticos tendrá las siguientes modalidades:
-
-I. Financiamiento público estatal, que se clasifica en:
-
-a) Permanente, y
-
-b) De campaña.
-
-II. Financiamiento privado, que se clasifica en:
-
-a) Cuota de sus afiliados o militantes;
-
-b) Aportaciones de simpatizantes;
-
-c) Autofinanciamiento, y
-
-d) De rendimientos financieros, fondos y fideicomisos.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 69.
 
-Financiamiento público estatal, es aquel que el Estado otorga a los partidos políticos como entidades de interés público para contribuir subsidiariamente al desarrollo y promoción de sus actividades políticas en la Entidad.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 70.
 
-El monto total del financiamiento público estatal se divide en:
-
-I. Financiamiento permanente: es aquel que se determina cada año y cuyo monto es igual al cuarenta y cinco por ciento de la cantidad que resulte de multiplicar el número de electores inscritos en el Padrón Electoral al primero de enero del año que corresponda, por el veinte por ciento de un salario mínimo diario general vigente en la entidad, más el resultado que en su caso se obtenga de la operación señalada en el último párrafo del artículo 71 de esta Ley, y
-
-II. Financiamiento de campaña: Es aquel que se determina por cada proceso electoral y cuyo monto equivale al ochenta por ciento del resultado que se obtenga de multiplicar el veinte por ciento de un salario mínimo diario general vigente en la entidad, por cada ciudadano inscrito en el Padrón Electoral, al quince de enero del año de la elección, más el resultado que se obtenga de la operación señalada en la fracción III del artículo 72 de esta Ley.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 71.
 
-El monto total del financiamiento público estatal permanente, determinado conforme a la fracción I del artículo 70, de esta Ley, se sujetará a lo siguiente:
-
-I. Un cincuenta por ciento en partes iguales a los partidos políticos que tengan representación en el Congreso del Estado;
-
-II. El restante cincuenta por ciento, en proporción directa al número de votos logrados en la elección inmediata anterior, entre los partidos políticos que hubieran obtenido por lo menos el dos punto cinco por ciento de la Votación Estatal Emitida. Para ambos casos se considerará la elección de diputados por el principio de mayoría relativa, y
-
-III. Se entregará en ministraciones mensuales, conforme al calendario presupuestal que apruebe el Consejo General.
-
-Los partidos políticos que hayan obtenido su registro o acreditación por vez primera con fecha posterior a la última elección, se les otorgará a partir del mes siguiente a aquel en que lo obtuvieron, un treinta por ciento del que se determine para cada partido político conforme a la fracción I del presente artículo.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 72.
 
-El monto total del financiamiento público estatal de campaña, determinado conforme a la fracción II del artículo 70 de esta Ley, se sujetará a lo siguiente:
-
-I. Un treinta por ciento en partes iguales a los partidos políticos con registro o acreditación vigente y que hayan contendido en el proceso electoral inmediato anterior;
-
-II. El setenta por ciento restante, se distribuirá a los partidos políticos en proporción directa a los votos obtenidos en la elección inmediata anterior de diputados por el principio de mayoría relativa. La coalición será considerada como un sólo partido;
-
-III. Se otorgará una porción igual a la que se determine para cada partido conforme a la fracción I, de este artículo, a aquellos partidos que hayan obtenido su registro o acreditación en forma posterior a la elección inmediata anterior y que se encuentre vigente a la fecha de inicio del proceso electoral del año que corresponda, y
-
-IV. La ministración de los recursos se hará de la siguiente manera:
-
-a) Veinte por ciento del monto total, veinte días antes de que se inicie el plazo para el registro de candidatos;
-
-b) Cuarenta por ciento del monto total, cinco días después de concluido el plazo de registro señalado en el artículo 261 de esta Ley, según sean (sic) el caso;
-
-c) Treinta por ciento del monto total, diez días después de la asignación anterior, y
-
-d) Diez por ciento del monto total, veinte días antes de la jornada electoral.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 73.
 
-Cuando un partido político, participe parcialmente en una o varias elecciones, el Consejo General se sujetará a lo siguiente:
-
-I. Del total del monto del financiamiento público estatal de campaña a distribuir se considerará por partes iguales a las elecciones de Gobernador, munícipes y diputados de mayoría relativa, según corresponda;
-
-II. Determinará el monto que le corresponde a cada partido político, de conformidad con la fracción anterior y lo dispuesto por el artículo 72 de esta Ley, para cada tipo de elección;
-
-III. Entregará a cada partido político, la cantidad que le corresponda de cada elección, conforme al inciso a), de la fracción IV, del artículo 72 de esta Ley;
-
-IV. A los resultados obtenidos en la fracción II, de este artículo, se le restará la entrega efectuada conforme a la fracción anterior, las diferencias obtenidas, se dividirán cada una de ellas entre el número de electores inscritos en el Padrón Electoral, al primero de enero del año de la elección. Esta operación se efectuará por cada partido político, y
-
-V. A efecto de realizar la entrega a que se refieren los incisos b), c) y d), de la fracción IV del artículo 72 de esta Ley, se efectuarán las siguientes operaciones, para cada uno de los partidos políticos:
-
-a) Determinará cuantas solicitudes de registro de candidatos fueron aprobadas por los Consejos Electorales del Instituto Electoral, a cada partido político;
-
-b) Multiplicará el factor obtenido en la fracción anterior de este artículo, por el número de electores que corresponda a cada distrito o municipio, en el que el partido político haya registrado candidato;
-
-c) El resultado obtenido en el inciso anterior se entregará a cada partido político, en los términos establecidos en el encabezado de esta fracción;
-
-d) La suma total obtenida en el inciso anterior, más la ministración a cada partido político entregada conforme a la fracción III de este artículo, se restará al resultado obtenido en la fracción II de este artículo, acumulando lo que correspondería a cada tipo de elección, y
-
-e) El resultado obtenido en el inciso anterior, se reingresará a la Hacienda Pública del Estado, por conducto de la Dirección General del Instituto Electoral, previa autorización del Consejo General.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 74.
 
-No podrán realizar aportaciones o donativos a los partidos políticos, ni a los aspirantes, precandidatos o candidatos a cargos de elección popular, en dinero o en especie por si o por interpósita persona y bajo ninguna circunstancia:
-
-I. Los Poderes Ejecutivo, Legislativo y Judicial del Estado y los Ayuntamientos, entidades u organismos de la Administración Pública Estatal, Municipal centralizadas o paraestatales, salvo lo establecido en la Ley;
-
-II. Los Poderes Ejecutivo, Legislativo y Judicial de la Federación, dependencias, entidades u organismos de la Administración Pública Federal, centralizadas o paraestatales, salvo lo establecido en las Leyes respectivas;
-
-III. Los partidos políticos, personas físicas o morales extranjeras;
-
-IV. Los organismos internacionales de cualquier naturaleza;
-
-V. Los ministros de culto, asociaciones religiosas, iglesias o agrupaciones religiosas, y
-
-VI. Las empresas mexicanas de carácter mercantil.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 75.
 
-Los partidos políticos o coaliciones deberán integrar un órgano interno responsable de la obtención, contabilización y administración de sus recursos, la presentación de los informes referentes al origen y monto de los ingresos percibidos por cualquier modalidad de financiamiento, así como de su empleo y aplicación. Este órgano deberá acreditarse ante el Consejo General, y se constituirá en los términos y con las modalidades y características que cada partido político o coalición libremente determine.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 76.
 
-El financiamiento privado es aquel que los partidos políticos obtienen por sus propios medios, a través de cuota de sus afiliados o militantes, aportaciones de simpatizantes, autofinanciamiento, y de rendimientos financieros, fondos y fideicomisos, para el desarrollo, promoción y fortalecimiento de sus actividades en la vida política de la entidad.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 77.
 
-El financiamiento privado que provenga de la militancia estará conformado por las cuotas obligatorias ordinarias y extraordinarias de los afiliados; las contribuciones de sus mismas organizaciones; las cuotas voluntarias y personales que los candidatos aporten exclusivamente para sus campañas conforme a las siguientes reglas:
-
-I. El órgano interno responsable del financiamiento de cada partido, deberá expedir recibos foliados de las cuotas o contribuciones recibidas, de los cuales conservará un tanto para acreditar el monto ingresado;
-
-II. Cada partido político determinará libremente los montos mínimos y máximos y la periodicidad de las cuotas ordinarias y extraordinarias de los afiliados, y
-
-III. Las cuotas voluntarias y personales que los candidatos aporten exclusivamente para sus campañas, tendrán el límite que fije el órgano interno responsable del manejo del financiamiento de cada partido político.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 78.
 
-El financiamiento de simpatizantes de los partidos políticos, estará conformado por las aportaciones o donativos, en dinero o en especie, efectuadas a los partidos políticos en forma libre y voluntaria por las personas físicas o morales mexicanas con residencia en el país, que no estén comprendidas en el artículo 74 de esta Ley. En todo caso deberán sujetarse a las siguientes reglas:
-
-I. De las aportaciones en dinero deberá expedirse recibos foliados, en que se hagan constar los datos de identificación del aportante, salvo que hubieren sido obtenidas mediante colectas realizadas en mítines o en la vía pública. En el caso de colectas, sólo deberá reportarse en el informe correspondiente el monto total obtenido; de exceder este monto una cantidad equivalente al cinco por ciento del financiamiento público total otorgado al partido, deberá justificarse su procedencia;
-
-II. Las aportaciones en dinero que efectúe cada persona física o moral tendrán como límite anual el equivalente al punto cinco por ciento del monto total del financiamiento público total otorgado a los partidos políticos en el año que corresponda. Los partidos políticos mediante formatos expedidos por el Instituto Electoral, informarán de los nombres de las personas físicas y morales, así como las cantidades aportadas.
-
-III. Las aportaciones en especie se harán constar por escrito en contratos celebrados conforme a las leyes aplicables;
-
-IV. Las aportaciones de bienes muebles o inmuebles deberán destinarse única y exclusivamente para el cumplimiento del objeto del partido político, y
-
-V. La suma total anual de las aportaciones de los simpatizantes de los partidos políticos no deberá exceder el diez por ciento del tope de gastos de campaña que se determine para la última campaña de gobernador actualizada en los términos siguientes:
-
-a) Obtendrá un factor de actualización, dividiendo el índice Nacional de Precios al Consumidor del mes de enero del año que corresponda entre el índice Nacional de Precios al Consumidor del mes de marzo del año del proceso electoral inmediato anterior, en el que se hayan celebrado Elección de Gobernador, y
-
-b) El factor, resultado del inciso anterior, se multiplicará por el Tope para le (sic) Elección de Gobernador, que su (sic) hubiere determinado en el proceso electoral inmediato anterior, donde se haya celebrado la Elección de Gobernador.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 79.
 
-El autofinanciamiento del partido político estará constituido por los ingresos que obtenga de sus actividades promocionales, como son conferencias, espectáculos, juegos, sorteos, eventos culturales, ventas de propaganda utilitaria, así como de cualquier otra similar que realicen para allegarse fondos, las que estarán sujetas a las leyes correspondientes.
-
-Los partidos políticos no podrán recibir aportaciones de personas no identificadas, con excepción de las obtenidas mediante colectas realizadas en mítines o en la vía pública.
-
-El órgano interno responsable del financiamiento de cada partido político reportará los ingresos por esas actividades en los informes respectivos, que deberá remitir al Consejo General.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 80.
 
-Los partidos políticos podrán establecer en instituciones bancarias domiciliadas dentro del territorio nacional cuentas, fondos o fideicomisos para la inversión de sus recursos líquidos a fin de obtener rendimientos financieros, sujetos a las siguientes reglas:
-
-I. A las aportaciones que se realicen, a través de estas modalidades, les serán aplicables las disposiciones contenidas en el artículo 74 de esta Ley, atendiendo al tipo de operación realizada;
-
-II. Los fondos y fideicomisos que se constituyan serán manejados a través de las operaciones bancarias y financieras que el órgano responsable del financiamiento de cada partido político considere conveniente, con excepción de la adquisición de valores bursátiles, y
-
-III. Los rendimientos financieros obtenidos a través de estas modalidades, deberán destinarse únicamente para el cumplimiento de los objetivos de cada partido político.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 81.
 
-El partido político no podrá solicitar créditos provenientes de la banca de desarrollo para el financiamiento de sus actividades.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
-### CAPÍTULO CUARTO. DE LA FISCALIZACIÓN AL FINANCIAMIENTO DE LOS PARTIDOS POLÍTICOS
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)</small>
+
+### CAPÍTULO CUARTO
 
 ###### ARTÍCULO 82.
 
-Para los efectos de lo dispuesto por el párrafo decimocuarto del Apartado B del artículo 5 de la Constitución del Estado, la Dirección de Fiscalización de los Recursos de los Partidos Políticos, es el órgano técnico del Consejo General que tiene a su cargo la recepción y revisión integral de los informes que presenten los partidos respecto del origen y monto de los recursos que reciban por cualquier modalidad de financiamiento, así como sobre su destino.
-
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2009)</small>
-
-La Dirección de Fiscalización cuenta con autonomía de gestión y su nivel jerárquico será equivalente al de las direcciones ejecutivas del Instituto Electoral; contará con las jefaturas de fiscalización y jurídica, así como el personal de auditoría de conformidad con la disponibilidad presupuestal, nombrados y removidos por su titular.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 83.
 
-El titular de la Dirección de Fiscalización será designado por el Consejo General por el voto de las dos terceras partes a propuesta del Consejero Presidente; en el supuesto de que transcurridas dos rondas de votación el aspirante propuesto no alcanzare la votación requerida, deberá presentarse otro candidato, dentro de las cuarenta y ocho horas siguientes a la terminación de la sesión correspondiente. Este procedimiento se realizará por el Consejo General hasta que se designe al titular.
-
-El titular deberá reunir los mismos requisitos que esta Ley establece para ser Director General del Instituto Electoral, debiendo contar con título profesional de Contador Público o carrera afín debidamente registrado con cinco años de antigüedad, así como comprobar experiencia en tareas de fiscalización cuando menos de tres años; durará en su encargo cuatro años pudiendo ser reelecto por una ocasión conforme al procedimiento establecido en la fracción IV del artículo 154 de esta Ley.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 84.
 
-La Dirección de Fiscalización, tendrá las siguientes atribuciones:
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
-
-I. Presentar a la Comisión del Consejo General, que corresponda, para su dictaminación, el proyecto de Reglamento de la materia y los demás acuerdos, para regular el registro contable de los ingresos y egresos de los partidos políticos o coaliciones, las características de la documentación comprobatoria sobre el manejo de sus recursos y establecer los requisitos que deberán satisfacer los informes de ingresos y egresos que le presenten, de conformidad a lo establecido en la presente Ley;
-
-II. Emitir las normas generales de contabilidad y registro de operaciones aplicables a los partidos políticos o coaliciones;
-
-III. Vigilar que los recursos de los partidos tengan origen lícito y se apliquen estricta e invariablemente a las actividades señaladas en la Ley;
-
-IV. Ministrar a los partidos políticos o coaliciones el financiamiento público, de acuerdo con el calendario aprobado por el Consejo General;
-
-V. Llevar a cabo los trámites necesarios para que los partidos políticos estatales puedan disponer de las franquicias postales que les correspondan en términos de esta Ley;
-
-VI. Apoyar las gestiones de los partidos políticos o coaliciones para hacer efectivas las prerrogativas que tienen conferidas en materia fiscal;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
-
-VII. Formular los proyectos de financiamiento público y de topes máximos de gastos de campaña, que puedan erogar los partidos políticos o coaliciones en las elecciones locales y someterlos para su dictaminación a la Comisión de Fiscalización de los Recursos de los Partidos Políticos;
-
-VIII. Recibir y revisar los informes que presenten los partidos políticos o coaliciones respecto del origen y monto de los recursos que reciban por cualquier modalidad de financiamiento, así como sobre su destino;
-
-IX. Requerir información complementaria respecto de los diversos apartados de los informes de ingresos y egresos o documentación comprobatoria de cualquier otro aspecto vinculado a los mismos;
-
-X. Ordenar la práctica de auditorías, directamente o a través de terceros, a las finanzas de los partidos políticos o coaliciones;
-
-XI. Ordenar visitas de verificación a los partidos políticos o coaliciones con el fin de corroborar el cumplimiento de sus obligaciones y la veracidad de sus informes;
-
-XII. Conocer el manual de normatividad y la estructura organizacional administrativa de los partidos políticos;
-
-XIII. Realizar compulsas de los comprobantes de ingresos y gastos;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
-
-XIV. Presentar a la Comisión de Fiscalización de los Recursos de los Partidos Políticos, los informes de resultados y proyectos de resolución sobre las auditorías y verificaciones practicadas a los partidos políticos o coaliciones. Los informes especificarán las irregularidades en que hubiesen incurrido los partidos políticos o coaliciones en el manejo de sus recursos; el incumplimiento de su obligación de informar sobre la aplicación de los mismos y, en su caso, propondrán las sanciones que procedan conforme a la normatividad aplicable;
-
-XV. Proporcionar a los partidos políticos o coaliciones la orientación y asesoría necesaria para el cumplimiento, en tiempo y forma de las obligaciones consignadas en esta Ley en materia de financiamiento;
-
-XVI. Ser responsable de los procedimientos de liquidación de los partidos políticos que pierdan su registro, de conformidad con lo previsto en esta Ley;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
-
-XVII. Presentar a la Comisión de Reglamentos y Asuntos Jurídicos para su dictaminación, el proyecto de Reglamento para el desahogo de los procedimientos administrativos respecto de las quejas que se presenten en materia de fiscalización y vigilancia de los recursos de los partidos políticos; dichas quejas deberán ser presentadas ante la Dirección de Fiscalización;
-
-XVIII. Instruir los procedimientos administrativos a que haya lugar respecto de las quejas a que se refiere la fracción anterior y proponer a la consideración del Consejo General la imposición de las sanciones que procedan. Los quejosos podrán desistirse, en cuyo caso el procedimiento será sobreseído;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
-
-XIX. Requerir de las personas, físicas o morales, públicas o privadas, en relación con las operaciones que realicen con partidos políticos, la información necesaria para el cumplimiento de sus tareas, respetando en todo momento las garantías del requerido. Quienes se nieguen a proporcionar la información que les sea requerida, o no la proporcionen, sin causa justificada, dentro de los plazos que se señalen, se harán acreedores a las sanciones establecidas en esta Ley;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
-
-XX. Fungir como Secretario Técnico de la Comisión de Fiscalización de los Recursos de los Partidos Políticos, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2009)</small>
-
-XXI. Las demás que establezca esta Ley.
-
-En el ejercicio de sus facultades, la Dirección de Fiscalización deberá garantizar el derecho de audiencia de los partidos políticos y en general de toda persona requerida con motivo de los procesos de fiscalización a que se refiere el presente capítulo. Los partidos tendrán derecho a la confrontación de los documentos comprobatorios de sus ingresos y gastos, o de sus estados contables, contra los obtenidos o elaborados por la Dirección sobre las mismas operaciones, a fin de aclarar las discrepancias entre unos y otros.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 85.
 
-Los partidos políticos o coaliciones deberán presentar ante la Dirección de Fiscalización, los informes del origen, monto y destino de los recursos que perciban por cualquier modalidad de financiamiento, atendiendo las siguientes disposiciones:
-
-I. Informes de campaña: Deberán ser presentados por los partidos políticos o coaliciones, para cada una de las campañas en las elecciones respectivas, especificando el origen de todos los recursos que se hayan utilizado para financiar los gastos correspondientes y el monto y destino de dichas erogaciones, en los plazos siguientes:
-
-a) Dentro de los primeros quince días del mes de junio del año de la elección, un informe preliminar al treinta y uno de mayo del mismo año; y
-
-b) Dentro de los sesenta días siguientes al de la jornada electoral, un informe final.
-
-II. Informes anuales: A más tardar el treinta y uno de marzo del año siguiente al ejercicio que se reporte, informes anuales, que comprenderán la totalidad de los ingresos obtenidos y de los gastos ordinarios realizados durante el ejercicio objeto del informe, y
-
-III. Informes trimestrales: Dentro de los primeros veinte días del mes que corresponda, una balanza de comprobación trimestral incluyendo origen de aportaciones y gastos ordinarios realizados, relativos al trimestre inmediato anterior. Si de la revisión que realice la Dirección de Fiscalización se encuentran anomalías, errores u omisiones, se notificará al partido político a fin de que las subsane o realice las aclaraciones conducentes. En todo caso los informes trimestrales tienen carácter exclusivamente informativo para la autoridad.
-
-La presentación de la balanza de comprobación trimestral y el informe anual del ejercicio anterior, dentro de los plazos previstos en las fracciones anteriores, será requisito indispensable para la entrega de las ministraciones de financiamiento público permanente o de campaña, a que se refieren los artículos 71 y 72 de esta Ley.
-
-Las ministraciones relativas al financiamiento que no se entreguen a los partidos políticos, como consecuencia del incumplimiento a la presentación de los informes anuales o de gastos de campaña, así como las sanciones pecuniarias impuestas, se ingresarán a la Hacienda Pública por conducto de la Dirección General del Instituto Electoral, mediando autorización del Consejo General.
-
-Será causa de responsabilidad de los funcionarios del Instituto Electoral, la entrega de las ministraciones que no procedieren conforme a lo dispuesto en la presente Ley.
-
-Los informes rendidos fuera de los plazos señalados en las fracciones I y II de este artículo, se tendrán por no presentados y no se justificarán los gastos de los recursos del financiamiento que corresponda a los partidos políticos o coaliciones.
-
-Las ministraciones del financiamiento público estatal permanente que se hayan suspendido por incumplimiento de lo dispuesto por la fracción III de este artículo, una vez que se haya cumplimentado dicha disposición, se reintegrarán al partido político de que se trate.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 86.
 
-El procedimiento para la recepción, revisión, fiscalización y dictamen de los informes de gastos de campaña, se desahogará ante la Dirección de Fiscalización, en los siguientes términos:
-
-I. Recibido el informe preliminar, la Dirección de Fiscalización se avocará a revisarlo y en la medida que advierta la existencia de errores u omisiones técnicas las notificará a los partidos políticos o coaliciones para que las subsanen;
-
-II. La revisión definitiva de los informes deberán concluir dentro de los sesenta días siguientes a la fecha en que se deba presentar el informe final;
-
-III. Concluida la revisión de los informes de gastos de campaña, y en caso de que la Dirección de Fiscalización advierta la existencia de errores u omisiones técnicas, y éstas no hayan sido subsanadas durante el período de revisión, las notificará para que en un plazo de diez días contados a partir de la notificación, se presenten las aclaraciones o rectificaciones que estime pertinentes;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
-
-IV. Vencido el plazo señalado en la fracción II, de este artículo, o en su caso, el establecido en la fracción anterior, la Dirección de Fiscalización dispondrá de veinte días para elaborar el proyecto de dictamen correspondiente y turnarlo a la Comisión de Fiscalización de los Recursos de los Partidos Políticos, para que ésta, dentro de los cinco días siguientes proceda a su análisis, discusión, aprobación en su caso, y remisión del dictamen al Consejo General, y
-
-V. El dictamen a que se refiere la fracción anterior, deberá contener, en su caso:
-
-a) La mención de los errores, omisiones técnicas o irregularidades no solventadas;
-
-b) Las aclaraciones o rectificaciones presentadas por el partido político, que no fueron suficientes a consideración de la Dirección de Fiscalización, y
-
-c) Las consideraciones y propuestas del punto de Acuerdo, y en su caso, las sanciones correspondientes.
-
-Recibido el dictamen por el Consejero Presidente, el Consejo General, contará con un plazo de diez días para resolver lo conducente.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 87.
 
-El procedimiento para la recepción, revisión, fiscalización y dictamen de los informes anuales, se desahogará ante la Dirección de Fiscalización, en los siguientes términos:
-
-I. La Dirección de Fiscalización concluirá la revisión de los informes anuales a más tardar el treinta de junio del año que corresponda;
-
-II. Concluida la revisión de los informes anuales y en caso de que la Dirección de Fiscalización advierta la existencia de errores u omisiones técnicas, y éstas no hayan sido subsanadas durante el período de revisión, las notificará al partido político para que en un plazo de diez días contados a partir de la notificación, se presenten las aclaraciones o rectificaciones que estime pertinentes;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
-
-III. Vencido el plazo señalado en la fracción l o en su caso, el establecido en la fracción anterior, la Dirección de Fiscalización dispondrá de veinte días para elaborar el proyecto de dictamen correspondiente y turnarlo a la Comisión de Fiscalización de los Recursos de los Partidos Políticos, para que ésta, dentro de los cinco días siguientes proceda a su análisis, discusión, aprobación en su caso, y remisión del dictamen al Consejo General, y
-
-IV. El dictamen a que se refiere la fracción anterior, deberá contener, en su caso:
-
-a) La mención de los errores, omisiones técnicas o irregularidades no solventadas;
-
-b) Las aclaraciones o rectificaciones presentadas por el partido político, que no fueron suficientes a consideración de la Dirección de Fiscalización, y
-
-c) Las consideraciones y propuestas del punto de Acuerdo, y en su caso, las sanciones correspondientes.
-
-Recibido el dictamen por el Consejero Presidente, el Consejo General, contará con un plazo de diez días para resolver lo conducente.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 88.
 
-Para efectos de la revisión de los informes de gastos de precampañas de precandidatos, de campaña y anuales de los partidos políticos o coaliciones, la Dirección de Fiscalización podrá requerir al titular del órgano señalado en el artículo 75 de esta Ley, la documentación necesaria para comprobar la veracidad de lo reportado en los informes.
-
-La Dirección de Fiscalización en los términos del Reglamento a que se refiere la fracción I del artículo 84 de esta Ley, podrá ordenar la revisión de los registros contables de los partidos políticos o coaliciones, así como utilizar las distintas técnicas de auditoría necesarias para tales efectos. Mismas que deberán ser basadas en los Principios de Contabilidad Generalmente Aceptados, Normas y Procedimientos de Auditoría y Postulados Básicos de Contabilidad Gubernamental.
-
-Cuando en el desempeño de sus atribuciones y ejercicio de sus facultades la Dirección de Fiscalización, requiera superar la limitación establecida por los secretos bancario, fiscal o fiduciario, solicitará la intervención de la Unidad de Fiscalización de los Recursos de los Partidos Políticos del Consejo General del Instituto Federal Electoral, a fin de que ésta actúe ante las autoridades en la materia, en los términos de las leyes respectivas.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 89.
 
-Para efectos de la revisión y comprobación de los Informes del origen, monto y destino de los recursos que perciban los partidos políticos o coaliciones, por cualquier modalidad de financiamiento, a que se refiere el artículo 68 de esta Ley, se estará a lo que dispongan, esta Ley, las disposiciones que dicte el Consejo General, las normas generales de contabilidad y registro de operaciones aplicables a los partidos políticos emitidas por la Dirección de Fiscalización, y los convenios de apoyo y colaboración que celebre en materia de fiscalización de los recursos de los partidos políticos nacionales, el Instituto Electoral con el Instituto Federal Electoral.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 90.
 
-El Consejo General determinará si los informes justifican el empleo de los recursos para el fin que se otorgaron, o la existencia de errores u omisiones técnicas en el manejo de los mismos resolviendo en su caso, la suspensión o cancelación del financiamiento, o la sanción que proceda.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
-Los partidos políticos o coaliciones, podrán impugnar ante el Tribunal Electoral, la resolución mediante la cual el Consejo General imponga sanciones.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)</small>
 
-El Consejo General, deberá publicar en el Periódico Oficial, el dictamen, o en su caso, la resolución que recaiga al recurso.
-
-### CAPÍTULO QUINTO. DEL ACCESO A LA RADIO Y TELEVISIÓN
+### CAPÍTULO QUINTO
 
 ###### ARTÍCULO 91.
 
-Los partidos políticos, precandidatos y candidatos a cargos de elección popular, accederán a la radio y la televisión a través del tiempo que la Constitución Federal, otorgan como prerrogativa a los primeros, en la forma y término establecidos en el Código Federal de Instituciones y Procedimientos Electorales, y en esta Ley.
-
-Los partidos políticos, precandidatos y candidatos a cargos de elección popular, en ningún momento por sí o por terceras personas podrán contratar o adquirir, tiempos en cualquier modalidad de radio y televisión. La asignación se hará en los términos que dispone la Constitución Federal.
-
-Ninguna otra persona pública o privada, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos, coaliciones o de candidatos a cargos de elección popular.
-
-Los partidos políticos, al ejercer sus prerrogativas en la radio y la televisión, deberán difundir sus principios ideológicos, programa de acción y plataforma electoral.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 92.
 
-Corresponde a la Comisión del Régimen de Partidos Políticos del Consejo General, hacer las gestiones necesarias ante el Instituto Federal Electoral, para el ejercicio de las prerrogativas de los partidos políticos en radio y televisión; Comisión que deberá rendir informes catorcenales al Consejo General, sobre los trámites realizados.
-
-La Coordinación de Comunicación Social del Consejo General, deberá prestar los apoyos necesarios a la Comisión del Régimen de Partidos Políticos, en el desempeño de las atribuciones en materia de radio y televisión.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 93.
 
-Durante las precampañas y campañas electorales locales, el tiempo en radio y televisión asignables a los partidos políticos de conformidad con la legislación federal aplicable, una vez convertido a número de mensajes, se distribuirá entre ellos conforme al siguiente criterio: treinta por ciento del total en forma igualitaria y el setenta por ciento restante en proporción al porcentaje de votos obtenido por cada partido político en la elección de diputados por el principio de mayoría relativa inmediata anterior.
-
-Los partidos políticos de nueva acreditación o registro, según sea el caso, participarán solamente en la distribución del treinta por ciento del tiempo a que se refiere el párrafo anterior.
-
-Tratándose de coaliciones, en la distribución del tiempo, se observará lo siguiente:
-
-I. A la coalición total le será otorgada la prerrogativa de acceso a tiempo en radio y televisión, en el treinta por ciento que corresponda distribuir en forma igualitaria, como si se tratara de un sólo partido. Del setenta por ciento proporcional a los votos, cada uno de los partidos coaligados participará en lo individual para su asignación.
-
-El convenio de coalición establecerá la distribución de tiempo en cada uno de esos medios para los candidatos de la coalición, y
-
-II. Tratándose de coaliciones parciales, cada partido coaligado accederá a su respectiva prerrogativa en radio y televisión ejerciendo sus derechos por separado.
-
-El convenio de coalición establecerá la distribución de tiempo en cada uno de esos medios para los candidatos de coalición y para los de cada partido.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 94.
 
-Para los efectos de asignación del tiempo en radio y televisión, cuando corresponda al Instituto Electoral aprobar o proponer la pauta respectiva, los horarios de transmisión se asignarán conforme al porcentaje de votación en la elección inmediata anterior de diputados por el principio de mayoría relativa, que hubieren obtenido los partidos políticos.
-
-Los horarios se asignarán en estricto orden de prelación en forma descendente, iniciando con el partido político con mayor porcentaje, repitiéndose la operación las veces que sea necesaria hasta agotarse el número de horario a distribuirse. La asignación se hará en forma progresiva a partir de las seis y hasta las veinticuatro horas.
-
-Los partidos políticos de nueva acreditación o registro, según sea el caso, en este procedimiento serán considerados en forma posterior al partido de menor porcentaje.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 95.
 
-A falta de disposición expresa en la materia, se estará a lo dispuesto en el Código Federal de Instituciones y Procedimientos Electorales, y en la reglamentación que expida el Instituto Federal Electoral, sobre radio y televisión.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
-### CAPÍTULO SEXTO. DE LAS OBLIGACIONES Y PROHIBICIONES
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)</small>
+
+### CAPÍTULO SEXTO
 
 ###### ARTÍCULO 96.
 
-Son obligaciones de los partidos políticos:
-
-I. Mantener el número mínimo requerido de afiliados para su constitución y registro conforme a esta Ley;
-
-II. Conducir sus actividades dentro de los cauces legales y ajustar su conducta y la de sus militantes a los principios del estado democrático, respetando los derechos de los ciudadanos y la libre participación política de los demás partidos políticos;
-
-III. Cumplir con sus normas de afiliación, mantener en funcionamiento efectivo a sus órganos de dirección estatutarios y observar los procedimientos que señalen sus Estatutos para la postulación de candidatos;
-
-IV. Observar lo establecido en su declaración de principios, programa de acción y estatutos;
-
-V. Comunicar al Consejo General cualquier modificación a su declaración de principios, programas de acción o estatutos, dentro de los treinta días siguientes a la fecha en que se publique en el Diario Oficial de la Federación. Tratándose de los partidos políticos estatales, no surtirán efectos hasta que el Consejo General declare la procedencia de las mismas. La resolución deberá dictarse en un plazo que no exceda de treinta días contados a partir de la presentación de la documentación correspondiente;
-
-VI. Contar con domicilio social propio y permanente, comunicándolo al Consejo General, así como los cambios que de éste pudieran darse;
-
-VII. Registrar ante el Consejo General la plataforma electoral aprobada en su convención o asamblea, y publicarla y difundirla en la elección de que se trate;
-
-VIII. Registrar a sus precandidatos y candidatos a puestos de elección popular, ante los órganos electorales competentes en los términos de esta Ley;
-
-IX. Formar parte del Consejo General y de los Consejos Distritales Electorales;
-
-X. Comunicar al Consejo General, cualquier cambio de los integrantes de los órganos directivos dentro de los treinta días siguientes;
-
-XI. Acatar las resoluciones que los órganos electorales dicten en el ejercicio de sus funciones;
-
-XII. Retirar, dentro de los cuarenta y cinco días siguientes al de la elección, la propaganda electoral que hubieran fijado, pintado o instalado en lugares de uso común;
-
-XIII. Utilizar las prerrogativas y aplicar el financiamiento público exclusivamente para el sostenimiento de sus actividades ordinarias, sufragar los gastos de campaña, así como para realizar las actividades señaladas en el artículo 37 de esta Ley;
-
-XIV. Presentar los informes correspondientes ante la Dirección de Fiscalización, sobre el uso del financiamiento público y privado que hayan recibido, y los informes de precampañas a que se refiere el artículo 233 de esta Ley;
-
-XV. Permitir la práctica de auditorías y verificaciones por los órganos del Instituto Electoral facultados por esta Ley, así como entregar la documentación que dichos órganos les requieran respecto a sus ingresos y egresos;
-
-XVI. Destinar los bienes muebles e inmuebles que tengan en propiedad o de los que tengan en posesión por cualquier título, para el cumplimiento de sus fines;
-
-XVII. Editar, por lo menos, una publicación trimestral de divulgación y otra de carácter teórico en forma semestral;
-
-XVIII. Cumplir con las obligaciones que esta Ley les establece en materia de transparencia y acceso a su información, y
-
-XIX. Las demás que establezca esta Ley.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 97.
 
-Queda prohibido a los partidos políticos:
-
-I. Realizar afiliaciones colectivas de ciudadanos;
-
-II. Recurrir a la violencia y a cualquier acto que tenga por objeto o resultado alterar el orden público, perturbar el ejercicio del derecho de terceros o impedir el funcionamiento regular de las instituciones y órganos públicos;
-
-III. Actuar y conducirse con dependencia o subordinación hacia partidos políticos, personas morales nacionales, personas físicas o morales extranjeras, organismos o entidades internacionales y de ministros de cualquier culto religioso;
-
-IV. Emitir cualquier expresión pública, impresa o por cualquier otro medio que denigre a las instituciones públicas o a otros partidos políticos y sus candidatos o que calumnie a las personas;
-
-V. Ostentarse con la denominación, emblema y color o colores que tengan registrados otros partidos;
-
-VI. Utilizar símbolos, signos, expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
-
-VII. Hacer actos de proselitismo o cualquier actividad partidista en lugares o eventos destinados a cultos religiosos, y
-
-VIII. Las demás que establezcan las leyes.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 98.
 
-El incumplimiento de las obligaciones y prohibiciones a que se refieren los artículos 96 y 97 de esta Ley, será sancionado por las siguientes autoridades:
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
-I. Administrativamente, por el Consejo General cuando se trate de actos o hechos originados o relacionados con los informes que presenten los partidos políticos respecto del origen y monto de los recursos que reciban por cualquier modalidad de financiamiento, así como sobre su destino;
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)</small>
 
-II. Por las Salas Unitarias del Tribunal Electoral, ante la presentación de quejas o denuncias en contra de partidos políticos a excepción de lo previsto en la fracción anterior, y
-
-III. Por el Instituto Federal Electoral, en materia de radio y televisión en términos de la legislación aplicable.
-
-Para los efectos de las fracciones I y II del presente artículo, se observará el procedimiento establecido en el Libro Noveno de esta Ley; ello con independencia de la responsabilidad civil o penal que en su caso pudiera exigirse a los partidos políticos como entidades de interés público o a sus dirigentes, representantes o candidatos como personas físicas, por los actos ilícitos que se incurran con motivo del ejercicio de sus funciones en los términos de las leyes respectivas, debiendo en su caso darse vista al Ministerio Público.
-
-### CAPÍTULO SÉPTIMO. DE LAS OBLIGACIONES DE LOS PARTIDOS POLÍTICOS EN MATERIA DE TRANSPARENCIA
+### CAPÍTULO SÉPTIMO
 
 ###### ARTÍCULO 99.
 
-Toda persona tiene derecho a acceder a la información de los partidos políticos estatales de conformidad con las reglas previstas en la presente Ley, en la Ley de Acceso a la Información Pública para el Estado, y las que, en lo conducente, resulten aplicables conforme al reglamento del Instituto Electoral en la materia.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 100.
 
-Las personas accederán a la información de los partidos políticos estatales a través del Instituto Electoral, mediante la presentación de solicitudes específicas.
-
-Cuando la información solicitada tenga el carácter de pública y no obre en poder del Instituto Electoral, debiendo estarlo, éste notificará al partido político requerido para que la proporcione en forma directa al solicitante quien en su caso deberá cubrir el costo respectivo, dentro del plazo que señale el reglamento. El partido político de que se trate informará al Instituto Electoral del cumplimiento de esta obligación.
-
-Cuando la información solicitada se encuentre disponible en la página electrónica del Instituto Electoral, o en la del partido político de que se trate, se le notificará al solicitante para que la obtenga en forma directa, salvo que el interesado la requiera en forma impresa o en medio digital.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 101.
 
-Se considera información pública de los partidos políticos estatales y nacionales, la cual deberán publicar en sus páginas electrónicas, la siguiente:
-
-I. Sus documentos básicos;
-
-II. Las facultades de sus órganos de dirección;
-
-III. Los reglamentos, acuerdos y demás disposiciones de carácter general, aprobados por sus órganos de dirección, que regulen su vida interna, las obligaciones y derechos de sus afiliados, la elección de sus dirigentes y la postulación de sus candidatos a cargos de elección popular;
-
-IV. El directorio de sus órganos estatales, municipales, y en su caso, distritales;
-
-V. El tabulador de remuneraciones que perciben los integrantes de los órganos a que se refiere la fracción anterior, y de los demás funcionarios partidistas;
-
-VI. Las plataformas electorales que registren ante el Instituto Electoral;
-
-VII. Los convenios de coalición o fusión que celebren;
-
-VIII. Las convocatorias que emitan para la elección de sus dirigentes o la postulación de sus candidatos a cargos de elección popular;
-
-IX. Los montos de financiamiento público otorgados mensualmente, en cualquier modalidad durante los últimos tres años;
-
-X. Los informes, anuales o parciales, de ingresos y gastos, tanto ordinarios como de precampaña y campaña; el estado de situación patrimonial; el inventario de los bienes inmuebles de los que sean propietarios, así como los anexos que formen parte integrante de los documentos anteriores; la relación de donantes y los montos aportados por cada uno. Todo lo anterior, una vez concluidos los procedimientos de fiscalización establecidos por esta Ley. Los partidos políticos podrán hacer pública la información a que se refiere este inciso antes de que concluyan los procedimientos referidos, sin que ello tenga efectos en los mismos;
-
-XI. Las resoluciones que emitan sus órganos disciplinarios de cualquier nivel, una vez que hayan causado estado;
-
-XII. Los nombres de sus representantes ante los órganos del Instituto Electoral;
-
-XIII. El listado de las fundaciones, centros o institutos de investigación o capacitación, o cualquier otro, que reciban apoyo económico permanente del partido político;
-
-XIV. El dictamen y resolución que el Consejo General haya aprobado respecto de los informes a que se refiere la fracción X de este artículo, y
-
-XV. La demás que señale esta Ley, o las leyes aplicables.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 102.
 
-Los partidos políticos tendrán obligación de proporcionar la información señalada en el artículo anterior al Instituto Electoral, dentro de los treinta días siguientes a que se otorgue su acreditación o registro, y en su caso las modificaciones a la misma, en los formatos y medios electrónicos que éste determine en sus disposiciones reglamentarias.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 103.
 
-La información que los partidos políticos proporcionen al Instituto Electoral o que éste genere respecto a los mismos, que sea considerada pública conforme a los artículos anteriores, estará a disposición de toda persona a través de la página electrónica del propio Instituto Electoral.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 104.
 
-El acceso a la información pública de los partidos políticos será restringido, cuando ésta sea clasificada como reservada o confidencial.
-
-I. Se considera información confidencial, la relativa a:
-
-a) Los procesos deliberativos de los órganos internos de los partidos;
-
-b) La correspondiente a sus estrategias políticas y de campañas electorales;
-
-c) La contenida en todo tipo de encuestas por ellos ordenadas, así como la referida a las actividades de naturaleza privada, personal o familiar, de sus afiliados, dirigentes, precandidatos y candidatos a cargos de elección popular, y
-
-d) La información que contenga datos personales de los afiliados, dirigentes, precandidatos y candidatos a cargos de elección popular, salvo los contenidos en los directorios establecidos en este capítulo y en las listas de precandidatos o candidatos a cargos de elección popular, que solamente contendrán el nombre completo y otros datos personales que autorice su titular, y
-
-II. Se considerará reservada la información relativa a los juicios en curso, de cualquier naturaleza, en que los partidos políticos sean parte, hasta que causen estado.
-
-Lo anterior, sin perjuicio de la información confidencial o reservada que se establezca en la Ley de Acceso a la Información Pública para el Estado.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 105.
 
-El incumplimiento de las obligaciones establecidas en este capítulo será sancionado en los términos que dispone la presente Ley.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
-### CAPÍTULO OCTAVO. DE LOS ASUNTOS INTERNOS DE LOS PARTIDOS POLÍTICOS
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)</small>
+
+### CAPÍTULO OCTAVO
 
 ###### ARTÍCULO 106.
 
-Para los efectos de lo dispuesto en el inciso f) de la fracción IV, del artículo 116 de la Constitución Federal, los asuntos internos de los partidos políticos comprenden el conjunto de actos y procedimientos relativos a su organización y funcionamiento, con base en las disposiciones previstas en la propia Constitución del Estado, en esta Ley, así como en el Estatuto y reglamentos que aprueben sus órganos de dirección.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 107.
 
-Las autoridades electorales administrativas y jurisdiccionales, solamente podrán intervenir en los asuntos internos de los partidos políticos estatales en los términos que establecen la Constitución del Estado, la presente Ley, y las demás leyes aplicables.
-
-Para lo anterior, son asuntos internos de los partidos políticos estatales:
-
-I. La elaboración y modificación de sus documentos básicos;
-
-II. La determinación de los requisitos y mecanismos para la libre y voluntaria afiliación de los ciudadanos a ellos;
-
-III. La elección de los integrantes de sus órganos de dirección;
-
-IV. Los procedimientos y requisitos para la selección de sus precandidatos y candidatos a cargos de elección popular, y
-
-V. Los procesos deliberativos para la definición de sus estrategias políticas y electorales, y en general, para la toma de decisiones por sus órganos de dirección y de los organismos que agrupen a sus afiliados.
-
-De igual forma, las autoridades electorales, solamente podrán intervenir en los asuntos internos de los partidos políticos nacionales, a que se refiere la fracción IV del presente artículo, con motivo de su participación en los procesos electorales locales.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 108.
 
-Todas las controversias relacionadas con los asuntos internos de los partidos políticos estatales serán resueltas por los órganos establecidos en sus estatutos para tales efectos, debiendo resolver en tiempo para garantizar los derechos de los militantes. Sólo una vez que se agoten los medios partidistas de defensa, los militantes tendrán derecho de acudir a las instancias judiciales correspondientes.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 109.
 
-Para la declaratoria de procedencia legal de los documentos básicos de los partidos políticos estatales, a que se refiere la fracción V, del artículo 96 de la Ley, el Consejo General atenderá el derecho de los partidos para dictar las normas y procedimientos de organización que les permitan funcionar de acuerdo con sus fines.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
-ARTÍCULO, 110.- Los estatutos de un partido político estatal sólo podrán ser impugnados por sus afiliados, en los términos siguiente (sic):
-
-I. El Consejo General al recibir la solicitud de registro de partido político estatal a que se refiere el artículo 47, o en su caso la solicitud de modificación de los mismos prevista en el artículo 96 fracción V, ambos de esta Ley, deberá notificarlo mediante aviso de la solicitud en dos diarios de mayor circulación en la entidad, por una ocasión, a efecto de que sus afiliados dentro de los diez días siguientes a la publicación presenten las impugnaciones respectivas;
-
-II. De recibirse impugnación deberá emplazarse al partido político estatal o a la asociación de ciudadanos que pretenda constituirse como tal, para que en un término de cinco días contados a partir del día siguiente al de la notificación, conteste por escrito lo que a su derecho convenga;
-
-III. El Consejo General, al emitir la resolución que corresponda, resolverá simultáneamente las inconformidades presentadas. Emitida la declaratoria y transcurrido el plazo legal para impugnaciones sin que se haya interpuesto alguna, los estatutos quedarán firmes, y
-
-IV. Una vez que los estatutos causen estado, sólo podrán impugnarse por la legalidad de los actos de su aplicación.
+ARTÍCULO, 110.- (DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 111.
 
-Los partidos políticos estatales deberán comunicar al Instituto Electoral los reglamentos que emitan, en un plazo no mayor de diez días posteriores a su aprobación. El propio Instituto Electoral verificará el apego de dichos reglamentos a las normas legales y estatutarias y los registrará en el libro respectivo.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 112.
 
-En el caso de renovación de integrantes de los órganos directivos de los partidos políticos estatales, el Instituto deberá verificar, en un plazo de diez días contados a partir de la notificación, que el partido acompañe a la misma los documentos que comprueben el cumplimiento de los procedimientos previstos en los respectivos estatutos.
-
-Si el Instituto Electoral determina que no se cumplió con el procedimiento interno, deberá emitir resolución, debidamente fundada y motivada, estableciendo un plazo para que el partido reponga la elección o designación de sus dirigentes.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 113.
 
-Si de la verificación de los procedimientos internos de los partidos políticos el Instituto Electoral advierte errores u omisiones, éstas deberán notificarse por escrito al representante acreditado ante el mismo, otorgándole un plazo de cinco días para que manifieste lo que a su derecho convenga.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 114.
 
-Los documentos, solicitudes, o denuncias, relacionadas con los asuntos internos de los partidos políticos nacionales, que se presenten ante el Instituto Electoral, serán remitidas en forma inmediata al Instituto Federal Electoral, a través de su órgano desconcentrado estatal, a excepción de lo señalado en la fracción IV del artículo 107 de esta Ley.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
-## TÍTULO CUARTO. DE LAS COALICIONES Y FUSIONES
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)</small>
 
-### CAPÍTULO PRIMERO. DE LAS COALICIONES
+## TÍTULO CUARTO
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)</small>
+
+### CAPÍTULO PRIMERO
 
 ###### ARTÍCULO 115.
 
-Se entiende por coalición, la alianza o unión transitoria de dos o más partidos políticos, con el propósito de postular candidatos a los puestos de elección popular presentándolos bajo un sólo emblema y registro.
-
-Los partidos políticos podrán formar coaliciones para las elecciones de Gobernador del Estado, Munícipes y Diputados por ambos principios. La coalición se formalizará mediante convenio, registrado y sancionado ante el Consejo General.
-
-No podrán formar coalición los partidos políticos durante su primera elección inmediata posterior a su registro como partido político estatal o a su acreditación como partido político nacional.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 116.
 
-Los partidos políticos coaligados, no podrán postular:
-
-I. Candidatos propios donde ya hubiere candidatos de la coalición de la que ellos formen parte;
-
-II. Candidato propio a quien haya sido registrado como candidato por alguna coalición, y
-
-III. Candidato que haya sido registrado por otro partido político.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 117.
 
-Los partidos políticos que se hubieren coaligado, podrán conservar su registro al término de la elección, si su votación en la elección equivale a la suma del porcentaje del dos punto cinco por ciento de la Votación Estatal Emitida, por cada uno de los partidos políticos coaligados.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2012)</small>
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 118.
 
-La coalición que registre candidato a Gobernador del Estado, tendrá efectos en los diecisiete distritos electorales y en los municipios, en que se divide el territorio de la entidad y se sujetará a lo siguiente:
-
-I. Deberá postular y registrar a la totalidad de fórmulas de Diputados y Munícipes, conforme a lo dispuesto por los artículos 14 y 79 respectivamente de la Constitución del Estado;
-
-II. Acreditar ante los órganos del Instituto Electoral, tantos representantes como correspondiera a un sólo partido político;
-
-III. Acreditar representantes, como correspondiera a un solo partido político, ante las Mesas Directivas de Casilla y generales en el distrito;
-
-IV. Disfrutar, en su caso, de prerrogativas en los términos de esta Ley, como si se tratara de un sólo partido político, salvo las excepciones previstas en las leyes sobre radio y televisión. En los casos en que por disposición de esta Ley se tome en cuenta la fuerza electoral, se considerará la del partido coaligado que haya obtenido la mayor votación en la última elección estatal, y
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
-
-V. Participar en el proceso electoral con el emblema que adopte la coalición o el emblema formado con los de los partidos políticos coaligados; en éste podrán aparecer ligados o separados, asentando la leyenda "En Coalición".
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 119.
 
-Si una vez registrada la coalición para la elección de Gobernador del Estado, y la misma no registrara a los candidatos a todos los cargos de diputados y munícipes, dentro de los plazos que la Ley señala, la coalición y el registro de candidato para la elección de Gobernador quedarán sin efecto.
-
-A la coalición le serán asignados diputados y munícipes por el principio de representación proporcional que le corresponda, como si se tratara de un sólo partido político.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 120.
 
-La coalición que registre candidatos a Diputados de mayoría relativa o a Munícipes, exclusivamente, deberá sujetarse a lo siguiente:
-
-I. Postular y registrar fórmulas de candidatos a diputados, cuando menos en la mitad de los distritos, así como la lista a que se refiere el artículo 261 de la Ley; o planillas de candidatos a Munícipes cuando menos en la mitad de los municipios de la entidad;
-
-II. Acreditar ante los Consejos Electorales respectivos, tantos representantes en los siguientes términos:
-
-a) Cuando se trate de coalición total de munícipes y diputados la representación será igual a la que le corresponda a un partido político. La coalición actuará como tal y, por lo tanto, la representación de la misma sustituye a la de los partidos políticos coaligados en todos los órganos electorales;
-
-b) Cuando se trate de coalición parcial en la elección de diputados, en los distritos coaligados la representación será la que corresponda a un sólo partido político, asimismo un representante ante el Consejo General;
-
-c) Cuando se trate de coalición parcial en la elección de munícipes, en los distritos que se encuentren dentro de la demarcación territorial del municipio que se trate, la representación será la que corresponda a un sólo partido político, asimismo un representante ante el Consejo General, y
-
-d) Cuando se trate de la coalición parcial en las elecciones de diputados y munícipes, se estará a lo previsto en los incisos b) y c) del presente artículo, contando con un sólo representante ante el Consejo General;
-
-III. Acreditar representantes, como correspondiera a un sólo partido político, en las Mesas Directivas de Casilla y generales, en los términos de la fracción anterior;
-
-IV. Participar en la elección correspondiente con el emblema que adopte la coalición o con el emblema formado por los de los partidos políticos coaligados, en éste podrán aparecer ligados o separados, asentando la Leyenda "En Coalición";
-
-V. Disfrutar, en su caso, de prerrogativas en los términos de esta ley, como si se tratara de un sólo partido político, salvo las excepciones previstas en las leyes sobre radio y televisión. En los casos en que por disposición de esta Ley se tome en cuenta la fuerza electoral, se considerará la del partido político coaligado que haya obtenido la mayor votación en la última elección estatal, y
-
-VI. Señalar el monto de las aportaciones de cada partido político coaligado para el desarrollo de las campañas respectivas, así como la forma de reportarlo en los informes correspondientes.
-
-Para efectos de la asignación de Diputados o Munícipes por el principio de representación proporcional, la coalición se considerará como un sólo partido y, aquellos quedarán comprendidos en el partido político que se haya señalado en el convenio de coalición.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 121.
 
-En todos los casos, para el registro de la coalición los partidos políticos que pretendan coaligarse deberán acreditar ante el Consejo General, que:
-
-I. La coalición fue aprobada por la asamblea estatal u órgano equivalente de cada uno de los partidos políticos coaligados;
-
-II. Los órganos partidistas respectivos de cada uno de los partidos políticos coaligados, aprobaron la plataforma electoral de la coalición;
-
-III. Los órganos partidistas de cada uno de los partidos políticos coaligados, aprobaron la postulación de candidatos para la elección de que se trate, de conformidad con sus estatutos, normas y métodos de selección interna, y
-
-IV. Los órganos estatales partidistas aprobaron el programa de gobierno al que se sujetará el candidato o candidatos a Gobernador o Munícipes, según sea el caso, de la coalición que resulten electos.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 122.
 
-El convenio de coalición contendrá en todos los casos:
-
-I. Los partidos políticos que la forman;
-
-II. La elección o elecciones en las que se pretenda participar;
-
-III. El procedimiento que seguirá cada partido político para la selección de los candidatos que serán postulados por la coalición;
-
-IV. El emblema y colores que haya adoptado la coalición o, en su caso, la determinación de utilizar los emblemas de los partidos coaligados y en cual de los lugares que les corresponda debe aparecer en la boleta el emblema único o los emblemas de los partidos;
-
-V. La obligación de sostener una plataforma electoral de acuerdo con la declaración de principios, programa de acción y estatutos de cada uno de los partidos políticos coaligados;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
-
-VI. La prelación y la forma de distribuir el porcentaje de votos de la coalición, para la conservación del registro, así como en la participación del financiamiento de los partidos políticos;
-
-VII. El señalamiento, de ser el caso, del partido político al que pertenece originalmente cada uno de los candidatos registrados por la coalición y el señalamiento del partido político en el que quedarían comprendidos en el caso de resultar electos;
-
-VIII. Para el caso de la interposición de los medios de impugnación previstos en esta Ley, quién ostentaría la representación de la coalición, y
-
-IX. La manifestación de que los partidos políticos coaligados, según el tipo de coalición de que se trate, se sujetarán a los topes de gastos de campaña que se hayan fijado para las distintas elecciones, como si se tratara de un sólo partido político. De la misma manera, deberá señalarse el monto de las aportaciones de cada partido político coaligado para el desarrollo de las campañas respectivas, así como la forma de reportarlo en los informes correspondientes.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 123.
 
-El convenio de coalición deberá presentarse para su registro ante el Consejo General, a más tardar el treinta y uno de enero del año de la elección, después de dicho plazo no se admitirá convenio alguno.
-
-Al convenio se deberá acompañar la plataforma electoral y, en su caso, el programa de gobierno, así como los documentos en que conste la aprobación por los órganos partidistas correspondientes.
-
-En caso de elecciones extraordinarias, se estará al plazo que para el registro de candidaturas señale la convocatoria respectiva.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 124.
 
-El Consejo General, una vez recibido el convenio a que se refiere el artículo anterior, integrará expediente y resolverá a más tardar el día quince de febrero del año de la elección, sobre su solicitud.
-
-De aprobarse el convenio, se notificará de inmediato a la coalición interesada, ordenando su publicación en el Periódico Oficial del Estado y en los diarios de mayor circulación en la entidad, dentro de los tres días siguientes a la fecha en que se apruebe.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 125.
 
-Una vez concluida la etapa de entrega de constancias de mayoría y de asignaciones, terminará automáticamente la coalición, salvo para los casos de fiscalización de los informes de gastos de campaña, y los medios de impugnación que estuvieren en trámite a que se refiere esta Ley, hasta que los mismos causen estado.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
-### CAPÍTULO SEGUNDO. DE LAS FUSIONES
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)</small>
+
+### CAPÍTULO SEGUNDO
 
 ###### ARTÍCULO 126.
 
-Se entiende por fusión la unión permanente de partidos políticos estatales, con el objeto de constituir uno nuevo o de incorporarse a uno de ellos.
-
-No se podrá fusionar los partidos políticos durante su primera elección inmediata posterior a su registro como partido político estatal.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 127.
 
-Los partidos políticos estatales que acuerden fusionarse, celebrarán convenio, en el que invariablemente, se establezcan las características del nuevo partido; o cual de los partidos políticos conserva su personalidad jurídica y la vigencia de su registro, y que partido o partidos políticos quedarán fusionados.
-
-La vigencia del registro del nuevo partido, será la que corresponda al registro del partido más antiguo entre los que se fusionan.
-
-El convenio de fusión deberá presentarse al Consejo General, treinta días antes de la fecha en que se inicie el registro de candidatos, para que una vez hecha la revisión resuelva lo conducente diez días antes de la fecha citada, y en su caso, dispondrá su publicación en el Periódico Oficial del Estado.
+(DEROGADO POR ARTÍCULO TRANSITORIO OCTAVO DE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA, P.O. 12 DE JUNIO DE 2015)
 
 # LIBRO CUARTO. DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA
 
@@ -3265,7 +2613,7 @@ II. Copia certificada del acta de nacimiento, de reconocimiento de hijo o de ado
 
 III. Copia de la credencial para votar;
 
-IV. Constancia de residencia expedida por la autoridad municipal competente, y (sic)
+IV. Constancia de residencia expedida por la autoridad municipal competente, y
 
 V. Certificado de nacionalidad mexicana expedido por autoridad federal competente, en el caso de mexicanos nacidos en el extranjero.
 
@@ -4875,7 +4223,7 @@ Están legitimados para interponer los recursos que prevé esta Ley:
 
 I. Los ciudadanos, militantes, y las entidades a que se refieren los artículos 400 y 401 de esta Ley;
 
-II Los partidos políticos, a través de sus representantes legítimos, y
+II. Los partidos políticos, a través de sus representantes legítimos, y
 
 III. Las asociaciones políticas, a través de quien se ostente como su representante al momento de presentar la solicitud de registro.
 
@@ -5917,7 +5265,7 @@ I. Fijar los criterios para la realización de las auditorías, procedimientos, 
 
 II. Designar y remover al personal adscrito a la Contraloría General;
 
-III Establecer las normas, procedimientos, métodos y sistemas de contabilidad y de archivo, de los libros y documentos justificativos y comprobatorios del ingreso y del gasto, así como aquellos elementos que permitan la práctica idónea de las auditorías y revisiones, que realice en el cumplimiento de sus funciones;
+III. Establecer las normas, procedimientos, métodos y sistemas de contabilidad y de archivo, de los libros y documentos justificativos y comprobatorios del ingreso y del gasto, así como aquellos elementos que permitan la práctica idónea de las auditorías y revisiones, que realice en el cumplimiento de sus funciones;
 
 IV. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos;
 
@@ -6114,3 +5462,73 @@ TERCERO.- El Instituto Electoral y de Participación Ciudadana en términos del 
 P.O. 15 DE FEBRERO DE 2013.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JUNIO DE 2015.
+
+DECRETO NO. 292 POR EL QUE SE EMITE LA LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE BAJA CALIFORNIA
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los asuntos que a la entrada en vigor de esta Ley se encuentren en proceso se resolverán conforme a las disposiciones vigentes al momento en que iniciaron. Lo anterior, sin perjuicio de que se apliquen en lo conducente los plazos previstos en los artículos transitorios del presente Decreto.
+
+TERCERO. El Consejo General del Instituto Estatal dictará las disposiciones necesarias para hacer efectivo lo establecido en esta Ley, dentro de los sesenta días siguientes a su entrada en vigor.
+
+CUARTO. El Consejo General del Instituto Estatal, dentro de los diez días siguientes a la entrada en vigor de la presente Ley, deberá verificar si los partidos políticos locales dieron cumplimiento a lo dispuesto en los artículos transitorios Quinto y Sexto de la Ley General de Partidos Políticos; en caso de incumplimiento deberá dentro del plazo antes indicado, requerir a los partidos políticos locales a que procedan en un plazo de diez días a su acatamiento. Lo anterior con independencia de las sanciones a que haya lugar.
+
+QUINTO. Se respetarán, conforme a la Ley, los derechos de los partidos políticos.
+
+SEXTO.- A efecto de dar cumplimiento al artículo décimo octavo transitorio de la Ley General de Instituciones y Procedimientos Electorales, correlacionado con el artículo transitorio Décimo Segundo del Decreto 112 mediante el cual se reforman diversas disposiciones de la Constitución del Estado, publicado en el Periódico Oficial del Estado el 17 de octubre de 2014, el Instituto Estatal y los partidos políticos nacionales y locales, deberán atender el ACUERDO INE/CG93/2014 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL CUAL SE DETERMINAN NORMAS DE TRANSICIÓN EN MATERIA DE FISCALIZACIÓN, y en su caso, el acuerdo o reglamentario (sic) que lo sustituya.
+
+SÉPTIMO.- En el caso, de que al inicio de vigencia del presente Decreto, aun no se hubiera instalado el Instituto Estatal Electoral conforme el Decreto 112 mediante el cual se reforman diversas disposiciones de la Constitución del Estado, publicado en el Periódico Oficial del Estado el 17 de octubre de 2014, y se hubieran realizado las reformas secundarias correspondientes, las menciones que en esta Ley se hacen en relación al Instituto Estatal Electoral, se entenderán hechas al Instituto Electoral y de Participación Ciudadana del Estado.
+
+OCTAVO.- Se deroga el Libro Tercero que incluyen (sic) los artículos 36 al 127 de la Ley de Instituciones y Procedimientos Electorales del Estado de Baja California, así como todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE JUNIO DE 2015.
+
+DECRETO NO. 293, POR EL QUE SE ABROGA LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE BAJA CALIFORNIA, PUBLICADA EN EL PERIÓDICO OFICIAL NO. 57, DE FECHA 19 DE NOVIEMBRE DE 2008, ASÍ COMO SUS REFORMAS Y ADICIONES.
+
+Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga la Ley de Instituciones y Procedimientos Electorales de Baja California, publicada en el Periódico Oficial No. 57, de fecha 19 de noviembre de 2008, así como sus reformas y adiciones.
+
+Tercero.- En el caso, de que al inicio de vigencia de la presente Ley, aun no se hubiera instalado el Instituto Estatal Electoral conforme el Decreto 112 mediante el cual se reforman diversas disposiciones de la Constitución del Estado, publicado en el Periódico Oficial del Estado el 17 de octubre de 2014, las menciones que en esta Ley se hacen en relación al Instituto Estatal Electoral, se entenderán hechas al Instituto Electoral y de Participación Ciudadana del Estado.
+
+Cuarto.- El personal del Instituto Electoral y de Participación Ciudadana que con motivo del presente Decreto deba ser objeto de cambios en su adscripción de trabajo, conservará sus derechos laborales, con las previsiones siguientes:
+
+I. La Dirección General del Instituto Electoral y de Participación Ciudadana y el Secretario Fedatario del Consejo General, una vez designado el Secretario Ejecutivo, deberán de manera inmediata entregar a éste, los archivos, bienes y recursos materiales que tenga asignados.
+
+II. La Dirección Ejecutiva del Registro Estatal de Electores, vigente con motivo de la Ley que se abroga, deberá una vez instalado el Instituto Estatal Electoral, entregar los archivos, bienes y recursos materiales de la misma, al Consejero Presidente del Consejo General Electoral.
+
+III. Las Direcciones Ejecutivas de Proceso (sic) Electorales, de Administración, de Informática y Estadística Electoral, vigentes con motivo de la Ley que se abroga, deberán en un plazo de cinco días contados a partir de la instalación del Instituto Estatal Electoral, entregar los archivos, bienes y recursos materiales de las mismas, al Secretario Ejecutivo del Instituto.
+
+El Consejero Presidente del Consejo General, bajo su más estricta responsabilidad, garantizará el cumplimiento de este artículo.
+
+Quinto.- La conformación de la estructura orgánica del Instituto Estatal Electoral que dispone esta Ley, se hará a partir de su instalación en términos del transitorio tercero.
+
+Sexto.- Hasta en tanto el Instituto Nacional Electoral emita el Estatuto del Servicio Profesional Electoral Nacional que contenga los niveles o rangos y el catálogo general de cargos y puestos del personal ejecutivo y técnico, así como los requisitos de selección, ingreso, capacitación, profesionalización, promoción, evaluación, rotación, permanencia y disciplina, el Instituto Estatal aplicará la estructura orgánica prevista en el Libro Tercero de esta Ley.
+
+Séptimo.- El Consejo General del Instituto Estatal dictará los acuerdos necesarios para hacer efectivas las disposiciones de esta Ley y deberá expedir los reglamentos que se deriven del mismo a más tardar en el mes de octubre de 2015.
+
+Las disposiciones generales emitidas por el Instituto Electoral y de Participación Ciudadana del Estado, con antelación a la entrada en vigor de este Decreto seguirán vigentes, en lo que no se opongan a la Constitución del Estado y la presente Ley.
+
+Octavo.- Lo dispuesto en el párrafo in fine del artículo 152 de esta Ley, en relación con los informes de labores o de gestión de los servidores públicos, estará vigente hasta en tanto no se expida y entre en vigor la Ley Reglamentaria del párrafo octavo del artículo 134 de la Constitución General de la República, que con carácter de general expida el Congreso de la Unión.
+
+Noveno.- Los medios de impugnación, denuncias o quejas que a la entrada en vigor del presente Decreto se encuentren en trámite, deberán substanciarse o resolverse conforme a la Ley que se abroga.
+
+Décimo.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+Décimo Primero.- Para la elección de 2016, los recursos de revisión previstos en esta Ley, se resolverán conforme a los siguientes plazos:
+
+I. A más tardar el 30 de julio del año de la elección, tratándose de la elección de diputados por el principio de mayoría relativa;
+
+II. Dentro de los 12 días siguientes a aquel en que fue recibido por el Tribunal Electoral, cuando se impugne el cómputo de la elección de diputados por el principio de representación proporcional y la asignación que realice el Consejo General;
+
+III. A más tardar el 15 de septiembre del año de la elección, cuando se impugne la elección de munícipes;
+
+IV. Dentro de los 15 días siguientes a aquel en que fue recibido por el Tribunal Electoral, cuando se impugne la asignación de munícipes por el principio de representación proporcional, y
+
+V. En todos los demás supuestos, dentro de los 30 días siguientes a aquel en que fue recibido por el Tribunal Electoral.
+
+Décimo Segundo.- La presente Ley será aplicable en cuanto no se oponga con los periodos, plazos y fechas dispuestos en los artículos transitorios sexto, séptimo y octavo de la Constitución Política del Estado Libre y Soberano del Estado de Baja California, en lo referente a la concurrencia de elecciones locales y federales; reformado mediante Decreto No. 112, publicado en el Periódico Oficial del Estado No. 50 Tomo CXXI de fecha 17 de octubre de 2014, Sección I, expedido por la H. XXI Legislatura.
+
+Décimo Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
