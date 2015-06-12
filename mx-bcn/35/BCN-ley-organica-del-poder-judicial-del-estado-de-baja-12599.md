@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2015-05-22"
+last_updated: "2015-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -49,7 +49,7 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA.
 
 Corresponde a los Tribunales de Justicia del Fuero Común del Estado de Baja California, dentro de los términos que establece la Constitución General de la República y la Constitución Política del Estado, la facultad de aplicar las leyes en los asuntos civiles, penales, de extinción de dominio, familiares y de justicia para adolescentes, que sean de su conocimiento, así como los casos en que las demás leyes les concedan jurisdicción.
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 12 DE JUNIO DE 2015)</small>
 
 La facultad a que se refiere el párrafo anterior se ejerce:
 
@@ -131,17 +131,13 @@ IV.- Los Juzgados de Primera Instancia del Ramo Penal;
 
 V.- El Juzgado de Primera Instancia en materia de extinción de dominio;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2012)</small>
+VI.- Los Juzgados de Primera Instancia Especializados para Adolescentes, y
 
-VI.- los Juzgados de Primera Instancia Especializados para Adolescentes.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2012)</small>
-
-VII.- los Juzgados de Paz, y
+VII.- Los Juzgados de Paz.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1793,7 +1789,7 @@ Las resoluciones dictadas por las autoridades que sustancien el procedimiento di
 
 ###### ARTICULO 150.
 
-La suspensión temporal a que alude la fracción VII del artículo 147 de esta ley, no deberá exceder del plazo de tres meses, salvo que a juicio del Presidente del Consejo de la Judicatura debiera la suspensión subsistir para el debido desahogo de las pruebas, de la investigación, o de la naturaleza propia de la infracción que haya motivado la iniciación del procedimiento disciplinario.
+La suspensión temporal a que alude la fracción VII del artículo 147 de esta ley, no deberá exceder del plazo de tres meses, salvo que a juicio del Presidente del Consejo de la Judicatura debiera la suspensión subsistir para el debido desahogo de las pruebas, de la investigación, o de la naturaleza propia de la infracción que haya motivado la iniciación del procedimiento.
 
 ###### ARTICULO 151.
 
@@ -1913,9 +1909,9 @@ Son atribuciones del Consejo de la Judicatura del Estado.
 
 I.- Establecer las unidades administrativas que estime convenientes para el adecuado funcionamiento del Consejo de la Judicatura del Estado y designar a los consejeros que deban integrarlas.
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
 
-II.- Expedir los reglamentos interiores en materia administrativa, de carrera judicial, de escalafón y régimen disciplinario del Poder Judicial del Estado, con excepción del Tribunal de Justicia Electoral, y todos aquellos acuerdos generales que fueren necesarios para el adecuado ejercicio de sus atribuciones en términos del artículo 65 de la Constitución Política del Estado.
+II.- Expedir los reglamentos interiores en materia administrativa, de carrera judicial, de escalafón y régimen disciplinario del Poder Judicial del Estado, y todos aquellos acuerdos generales que fueren necesarios para el adecuado ejercicio de sus atribuciones en términos del artículo 65 de la Constitución Política del Estado.
 
 > <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
 
@@ -1993,9 +1989,9 @@ XXXII.- Realizar visitas extraordinarias o integrar comités de investigación, 
 
 XXXIII.- Dictar las medidas que exijan el buen servicio y la disciplina en las oficinas de los Juzgados y órganos auxiliares del Consejo de la Judicatura del Estado.
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
 
-XXXIV.- Autorizar el nombramiento de los empleados de la administración de justicia, y acordar la designación de dos Consejeros de la Judicatura para integrar la Comisión de Administración del Tribunal de Justicia Electoral.
+XXXIV.- Autorizar el nombramiento de los empleados de la administración de justicia.
 
 XXXV.- Crear las unidades administrativas que el presupuesto de egresos autorice, asignándoles sus atribuciones.
 
@@ -2171,9 +2167,9 @@ IV.- Los demás documentos que las leyes y reglamentos determinen.
 
 V.- La documentación que remita el Consejo de la Judicatura.
 
-> <small>(ADICIONADA, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
 
-VI.- Los expedientes concluidos que remita el Tribunal de Justicia Electoral.
+VI.- En su caso, los expedientes concluidos que remita el Tribunal de Justicia Electoral del Estado.
 
 ###### ARTICULO 184.
 
@@ -2751,25 +2747,19 @@ II.- Vigilar la conducta del síndico, dando cuentas al juez de las irregularida
 
 Serán causas de la remoción del interventor, no prestar vigilancia necesaria a todos los casos que están encomendados al síndico, y dar aviso al juez de las faltas u omisiones en que éste hubiere incurrido sin perjuicio de las penas y responsabilidades a que se hubiere hecho acreedor.
 
-### CAPITULO I. DE SU NATURALEZA
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+### CAPITULO I
 
 ###### ARTICULO 225.
 
 Los albaceas, tutores y curadores, ya sean provisionales o definitivos, designados por los jueces del Estado, deberán llenar todos los requisitos establecidos en este título para los síndicos e interventores, en aquello que sea compatible con su carácter y función, del mismo modo, los depositarios y en particular a todos aquellos que actúen en los juicios como auxiliares, por ese sólo hecho les serán aplicables las reglas establecidas especialmente en éste título y en todas las demás de la presente Ley en lo que fuere compatible para los efectos de su designación de sus atribuciones y responsabilidades.
 
-### CAPITULO II. DE SU INTEGRACION, FUNCIONAMIENTO Y ATRIBUCIONES
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+### CAPITULO II
 
 ###### ARTICULO 226.
 
 En los casos en que conforme al artículo 68 del Código de Procedimientos Civiles, los litigantes designen a un notario que desempeñe las funciones de secretario, estará éste obligado a cumplir con todas las disposiciones que esta ley prescribe para dichos funcionarios únicamente en relación con el negocio en que intervenga y sujeto a las sanciones establecidas en el Capítulo de Responsabilidades, por las faltas o delitos oficiales en que incurra en el desempeño del cargo. En la inteligencia en que no es preciso que permanezca en el juzgado respectivo más que el tiempo necesario para que se desahoguen y dicten diligencias, acuerdos y resoluciones en dicho negocio.
 
-### CAPITULO III. DEL PRESIDENTE DEL TRIBUNAL DE JUSTICIA ELECTORAL Y SUS ATRIBUCIONES
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+### CAPITULO III
 
 ###### ARTICULO 227.
 
@@ -2813,9 +2803,7 @@ Los honorarios de los peritos designados por el juez, sin solicitud de ninguno d
 
 Siempre que alguna persona no hable el idioma español y tenga que ser examinado en juicio civil o criminal, se le proveerá de interprete en los términos del Código de Procedimientos Civiles y Penales.
 
-### CAPITULO IV. DE LOS MAGISTRADOS ELECTORALES Y SUS ATRIBUCIONES
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+### CAPITULO IV
 
 ###### ARTICULO 237.
 
@@ -2845,899 +2833,279 @@ Los prestadores del servicio social desempeñarán función de notificadores cua
 
 Los encargados de cada programa elaborarán reportes mensuales sobre las actividades de los prestadores del servicio social y evaluarán al término de su prestación, a través de los informes necesarios.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
 TITULO DECIMOCUARTO
 
-DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
-
-### CAPITULO V. DEL SECRETARIO GENERAL DEL TRIBUNAL DE JUSTICIA ELECTORAL Y SUS ATRIBUCIONES
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+### CAPITULO V
 
 ###### ARTICULO 244.
 
-De conformidad con lo dispuesto en el Artículo 57 de la Constitución Política del Estado, el Tribunal de Justicia Electoral, es el órgano especializado del Poder Judicial, y máxima autoridad jurisdiccional electoral estatal, que garantizará el cumplimiento del principio de legalidad de los actos y resoluciones electorales.
-
-Contará con presupuesto propio que administrará y ejercerá en los términos que fije esta ley y demás ordenamientos de la materia.
-
-Para los efectos de este Título, se entenderá por Tribunal, al Tribunal de Justicia Electoral del Poder Judicial del Estado de Baja California.
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 245.
 
-El Tribunal es competente para:
-
-I. Resolver en Pleno, en forma definitiva y firme:
-
-a) Las impugnaciones de las elecciones de Diputados. Munícipes y Gobernador del Estado.
-
-El Tribunal sólo podrá declarar la nulidad de una elección por las causales que expresamente se establezcan en la Ley Electoral del Estado;
-
-b) Las impugnaciones de actos y resoluciones de la autoridad electoral local distintas a las señaladas en el inciso anterior;
-
-c) Las impugnaciones de actos y resoluciones que violen los derechos político electorales de los ciudadanos de votar y ser votado y de afiliación libre y pacífica para tomar parte de los asuntos políticos del Estado;
-
-d) Las impugnaciones en contra de las resoluciones que dicten las Salas Unitarias del Tribunal;
-
-e) Las impugnaciones en contra de los actos y resoluciones suscitados con motivo de los procesos de participación ciudadana, en los términos de la ley de la materia, y
-
-f) Las demás que le señale esta Ley y otros ordenamientos;
-
-II. Resolver en Sala Unitaria, la imposición de sanciones derivadas de las quejas o denuncias instruidas por el Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado, por actos o hechos emitidos por los partidos políticos, sus dirigentes, militantes o simpatizantes, a excepción de las derivadas en materia de fiscalización sobre el origen, monto y destino de sus recursos, y
-
-III. Fijar criterios obligatorios en los términos del Artículo 289 de esta Ley.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 246.
 
-El Tribunal, para el desempeño de sus funciones y la práctica de diligencias, está facultado para solicitar de las autoridades estatales y municipales, la información, la documentación y el auxilio que considere conveniente.
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
-Los Juzgados de Primera Instancia del Orden Común, Civiles y Penales y los Juzgados de Paz, auxiliarán al Tribunal, en la práctica de las diligencias que les sean encomendadas.
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
-
-### CAPITULO VI. DE LA COMISION DE ADMINISTRACION, INTEGRACION, FUNCIONAMIENTO Y ATRIBUCIONES
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+### CAPITULO VI
 
 ###### ARTICULO 247.
 
-El Tribunal se integra con tres Magistrados Numerarios y hasta dos Magistrados Supernumerarios para cubrir ausencias o vacantes en los términos de esta Ley. Tendrá su sede en la Capital del Estado.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-El Tribunal contará con un Secretario General de Acuerdos, Secretarios de Estudio y Cuenta, Actuarios y demás personal que requiera el servicio, conforme a la disponibilidad presupuestal del mismo.
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 248.
 
-El Tribunal, para el cumplimiento de las atribuciones que la Ley le confiere, funcionará en Pleno y Salas.
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
-El Pleno estará integrado por los tres Magistrados Numerarios, que conformarán en lo individual las Salas del Tribunal.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-Para la resolución de los medios de impugnación interpuestos en contra de las resoluciones que emitan las Salas, el Secretario General de Acuerdos, integrará el Pleno, en sustitución del Magistrado que hubiera dictado el fallo impugnado. El Secretario General de Acuerdos será sustituido para la Sesión, por el Secretario de Estudio y Cuenta que sea decano, o en su caso el de mayor edad, conforme al procedimiento reglamentario respectivo, observando lo dispuesto en el artículo 98 de esta Ley.
-
-> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-#### SECCION PRIMERA. DEL PLENO
-
-(ADICIONADO, P.O. 4 DE MAYO DE 1998) (REUBICADO, P.O. 19 DE NOVIEMBRE DE 2008)
+#### SECCION PRIMERA
 
 ###### ARTICULO 249.
 
-El Pleno del Tribunal tendrá las siguientes atribuciones:
-
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003)</small>
-
-I.- Elegir de entre los Magistrados Electorales Numerarios a más tardar el diecisiete de diciembre de cada año, al Presidente del Tribunal.
-
-II.- Designar, suspender, remover o cesar a propuesta del Presidente del Tribunal, al Secretario General y al Tribunal del Organo Administrativo de la Comisión de Administración.
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-III.- Designar, suspender, remover o cesar a propuesta del Presidente del Tribunal o de alguno de los Magistrados Electorales, a los Secretarios de Estudio y Cuenta, actuarios y demás personal jurídico del Tribunal.
-
-IV.- Conceder o negar licencias por un plazo menor de dos meses, a los Magistrados Electorales que lo soliciten, y en su caso, llamar al Magistrado Supernumerario, en el orden de prelación que los nombró el Congreso del Estado.
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-V.- Conceder o negar Licencias y acordar sobre las renuncias del Secretario General, Secretarios de Estudio y Cuenta, actuarios, demás personal jurídico, así como del Titular del Organo Administrativo.
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-VI.- Acordar llamar, en su caso, al Magistrado Supernumerario, en el orden de prelación que los nombró el Congreso del Estado por motivo de licencias por un plazo mayor de dos meses, renuncia o ausencia definitiva hasta en tanto se elija al Magistrado Electoral Numerario.
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-VII.- Realizar tareas de capacitación, investigación y difusión en materia de derecho electoral.
-
-VIII.- Aprobar la suspensión, remoción y cese del personal administrativo, a propuesta de la Comisión de Administración o de algún Magistrado Electoral.
-
-IX.- Calificar y resolver sobre las excusas o impedimentos de los Magistrados Electorales, y en su caso, acordar llamar al Magistrado Supernumerario en el orden de prelación que los nombró el Congreso del Estado.
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-X.- Aprobar lo relativo a los períodos vacacionales de los Magistrados Electorales, Secretario General, Secretarios de Estudio y Cuenta, Actuarios y demás personal jurídico; así como aprobar el calendario oficial de los días de asueto.
-
-XI.- Conocer y resolver sobre la responsabilidad de los Magistrados Electorales y servidores del Tribunal en los términos de lo que dispone esta Ley.
-
-XII.- Imponer las sanciones administrativas que correspondan a los servidores del Tribunal por las irregularidades y faltas en que incurran en el desempeño de sus funciones.
-
-XIII.- Formular denuncia o querella en contra de los Magistrados Electorales que aparecieren involucrados en la comisión de algún delito, en los casos que proceda.
-
-XIV.- Suspender en sus cargos a los Magistrados Electorales, previa declaración de procedencia que emita el Congreso del Estado, en los términos establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
-
-XV.- Acordar las iniciativas de leyes y decretos, así como su presentación ante el Congreso del Estado.
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-XVI.- Aprobar y en su caso, modificar el Reglamento Interior del Tribunal con base en el proyecto que le presente la Comisión de Administración o los magistrados electorales, así como expedir los acuerdos generales necesarios para su adecuado funcionamiento.
-
-XVII.- Discutir y en su caso, aprobar el proyecto de Presupuesto de Egresos del Tribunal, y acordar su envío al Tribunal Superior de Justicia, por conducto de su Presidente, para que se incluya agregadamente al Proyecto del Poder Judicial.
-
-XVIII.- Acordar con el Presidente del Tribunal, el ejercicio del Presupuesto de Egresos del Tribunal.
-
-XIX.- Emitir los acuerdos administrativos y circulares conducentes para garantizar el debido cumplimiento de las funciones del Tribunal.
-
-XX.- Aprobar las disposiciones generales necesarias para el ingreso, carrera, escalafón, régimen disciplinario y remoción, así como las relativas a estímulos y capacitación del personal del Tribunal.
-
-XXI.- Vigilar que se cumplan las normas de registro y seguimiento de situación patrimonial de los servidores del Tribunal, en el tiempo y forma que se acuerde.
-
-XXII.- Emitir las bases, mediante acuerdos generales, para que las adquisiciones, arrendamientos, enajenaciones de todo tipo de bienes, y las contrataciones que realice el Tribunal, en ejercicio de su Presupuesto de Egresos, se ajuste a los criterios previstos en las leyes correspondientes.
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-XXIII.- Celebrar convenios de colaboración con otros tribunales, instituciones y autoridades para su mejor desempeño, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-XXIV.- Las demás que esta Ley y el Reglamento Interior establezcan.
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 250.
 
-Las sesiones de resolución del Pleno del Tribunal funcionando en única instancia, serán públicas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 251.
 
-Para que el Pleno del Tribunal sesione válidamente en única instancia, se requiere la presencia de todos los Magistrados Electorales, y las resoluciones se tomarán por unanimidad o mayoría de votos.
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-Para sesionar válidamente en Pleno y resolver cuestiones administrativas internas del funcionamiento del Tribunal, es necesaria la presencia de por lo menos las dos terceras partes de sus integrantes, y sus determinaciones serán válidas con el voto de la mayoría de los presentes.
+#### SECCION SEGUNDA. ARTICULO 251 BIS.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+ARTICULO 251 TER.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
-#### SECCION SEGUNDA. DE LAS SALAS
+ARTICULO 251 QUATER.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+ARTICULO 251 QUINQUES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
-ARTICULO 251 BIS.- Las Salas del Tribunal serán Unitarias, integradas por un Magistrado Electoral Numerario, designadas por número ordinario. Las resoluciones se tomarán por decisión del Magistrado integrante.
+ARTICULO 251 SEXIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+ARTICULO 251 SEPTIES.- (DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
-ARTICULO 251 TER.- Las Salas Unitarias del Tribunal son competentes para sustanciar y resolver exclusivamente las denuncias o quejas a que se refiere la fracción 11 del artículo 245 de esta Ley, conforme al procedimiento previsto en la Ley Electoral del Estado.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-ARTICULO 251 QUATER.- Son facultades de los Magistrados de Salas:
-
-I. Llevar la correspondencia de la Sala, autorizándola con su firma;
-
-II. Aplicar las medidas y criterios que exijan el orden, buen servicio y la disciplina de la Sala;
-
-III. Requerir cualquier informe o documento que, obrando en poder de los órganos del Instituto Electoral y de Participación Ciudadana del Estado, o de las autoridades estatales y municipales, puedan servir para la sustanciación o resolución de las denuncias o quejas competencia de la Sala;
-
-IV. Dictar resolución en los expedientes sobre denuncias y quejas competencia de las Salas, que le sean turnados;
-
-V. Imponer las correcciones disciplinarias al personal adscrito a la Sala;
-
-VI. Emitir opinión respecto de las solicitudes de Licencia, que presente el personal de la Sala;
-
-VII. Rendir oportunamente un Informe al Presidente del Tribunal, respecto de las labores de las Salas y principales resoluciones dictadas por ellas, y
-
-VIII. Las demás que les señalen las disposiciones legales.
-
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-ARTICULO 251 QUINQUES.- Toda resolución que pronuncien las Salas deberá ser firmada por el Magistrado integrante, y por el Secretario de Estudio y Cuenta, adscrito a ella, quien dará fé; le corresponderá de igual forma firmar las actuaciones de la Salas, y expedir las constancias o certificaciones que se requieran.
-
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-ARTICULO 251 SEXIES.- Cuando un Magistrado estuviere impedido a conocer de alguna denuncia o queja o se excuse; aceptada que sea ésta o calificada de procedente el impedimento por el Pleno, el Presidente del Tribunal turnará de manera inmediata, el expediente a la Sala siguiente en turno.
-
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-ARTICULO 251 SEPTIES.- Para el desempeño de los asuntos que tiene encomendados cada Sala Unitaria, tendrá por lo menos en año electoral dos Secretarios de Estudio y Cuenta, un Actuario, y demás personal jurídico que fije el presupuesto de egresos respectivo.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
-
-### CAPITULO VII. DEL PRESIDENTE DE LA COMISION DE ADMINISTRACION DEL TRIBUNAL DE JUSTICIA ELECTORAL Y SUS ATRIBUCIONES
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+### CAPITULO VII
 
 ###### ARTICULO 252.
 
-El Presidente del Tribunal, se elegirá por el Pleno, en los términos de la fracción I del Artículo 249 de esta Ley. La duración de su cargo será de un año y podrá ser reelecto.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 253.
 
-El Presidente del Tribunal, tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
-I.- Representar al Tribunal, celebrar convenios, otorgar todo tipo de poderes y realizar los actos jurídicos y administrativos que se requieran para el buen funcionamiento del Tribunal.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-II.- Presidir el Tribunal y a la Comisión de Administración.
-
-III.- Convocar a los demás Magistrados Electorales para el inicio de sus Trabajos.
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-IV.- Convocar a los Magistrados Electorales del Tribunal, a sesiones públicas por lo menos con veinticuatro horas de anticipación, y a reuniones privadas; y tomar las medidas necesarias para coordinar las funciones jurisdiccionales y administrativas del mismo.
-
-V.- Conducir las sesiones, dirigir los debates y conservar el orden durante los mismos; cuando los asistentes no guarden la compostura debida, podrá ordenar el desalojo y la continuación de la sesión en privado.
-
-VI.- Presidir y dirigir las sesiones del Pleno.
-
-VII.- Acordar con los Magistrados las propuestas de secretarios, actuarios y demás personal jurídico; así como el Titular del Organo Administrativo que se autorice de conformidad al presupuesto.
-
-VIII.- Proponer al Pleno, al Secretario General del Tribunal.
-
-IX.- Proponer al Pleno cuando proceda, la suspensión, remoción o cese del Secretario General, secretarios, actuarios, personal jurídico del Tribunal y Titular del Organo Administrativo, y en su caso, recibir sus renuncias, turnándolas al Pleno para su conocimiento.
-
-X.- Informar al Pleno las ausencias temporales o definitivas de los Magistrados Electorales y las excusas que le presenten.
-
-XI.- Remitir al Congreso del Estado, para su aprobación, y previo acuerdo del Pleno, las renuncias de los magistrados Electorales del Tribunal; al igual que sus licencias cuando excedan de dos meses.
-
-XII.- Llamar a los Magistrados Supernumerarios, para cubrir las ausencias temporales o definitivas de los Magistrados Electorales del Tribunal, en el orden de prelación que haya señalado el Congreso del Estado al momento de su designación, previo acuerdo del Pleno.
-
-XIII.- (DEROGADA, P.O. 15 DE OCTUBRE DE 2010)
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-XIV.- Turnar a los Magistrados Electorales, de conformidad con lo dispuesto en el Reglamento Interior, los expedientes de los recursos interpuestos; así como distribuir los asuntos a cada una de las Salas, como mejor convenga a la buena marcha del Tribunal, por riguroso turno.
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-XV.- Requerir cualquier informe o documento que, obrando en poder de los órganos del Instituto Electoral y de Participación Ciudadana del Estado, o de las autoridades estatales y municipales, puedan servir para la sustanciación o resolución de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos señalados en las leyes.
-
-XVI.- Ordenar, en casos extraordinarios, que se realicen diligencias o se perfeccione alguna prueba, siempre que ésto no sea obstáculo para resolver dentro de los plazos establecidos en las leyes.
-
-XVII.- Remitir al Congreso del Estado las iniciativas de leyes y decretos acordadas por el Pleno.
-
-XVIII.- Despachar la correspondencia del Tribunal.
-
-XIX.- Llevar las relaciones con autoridades o instituciones públicas y privadas que tengan vínculos con el Tribunal.
-
-XX.- Convocar a reuniones internas al personal jurídico, técnico y administrativo del Tribunal.
-
-XXI.- Apoyar en la identificación y clasificación de los criterios obligatorios sostenidos por el Tribunal.
-
-XXII.- Vigilar que se dicten en tiempo y forma, y que se cumplan las resoluciones y sentencias del Tribunal.
-
-XXIII.- Notificar a los órganos electorales para su cumplimiento, las resoluciones y sentencias que pronuncie el Tribunal.
-
-XXIV.- Solicitar el auxilio de la fuerza pública y de las autoridades estatales y municipales, a fin de dar cumplimiento a las resoluciones y sentencias del Tribunal.
-
-XXV.- Rendir ante el Pleno un informe al término de cada proceso electoral dando cuenta de la marcha del Tribunal y de las principales resoluciones, así como de los principales criterios obligatorios adoptados en sus resoluciones, ordenando su publicación.
-
-XXVI.- Rendir al Pleno, un informe en el que se de cuenta de la marcha del Tribunal y de las gestiones realizadas durante el tiempo de sus funciones.
-
-XXVII.- Conocer diariamente durante el proceso electoral, el número y tipo de recursos recibidos, los expedientes que se encuentran en etapa de substanciación, los que estén para resolución, los Magistrados ponentes, y las resoluciones que les hubieren recaído.
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-XXVIII.- Proporcionar al Congreso del Estado y al Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado, los informes que soliciten respecto a la impartición de justicia electoral.
-
-XXIX.- Proyectar y someter a la consideración del Pleno, el Presupuesto Anual de Egresos del Tribunal, y una vez aprobado enviarlo oportunamente al Presidente del Tribunal Superior de Justicia, a efecto de que se incluya agregadamente en el Presupuesto del Poder Judicial.
-
-XXX.- Ejercer el Presupuesto de Egresos del Tribunal, por conducto de la Comisión de Administración.
-
-XXXI.- Vigilar que se cumplan las disposiciones del Reglamento Interior del Tribunal.
-
-XXXII.- Dictar las medidas que exijan el buen orden, servicios y disciplina del Tribunal.
-
-XXXIII.- Celebrar convenios con el Instituto de la Judicatura, en materia de investigación, formación, capacitación y actualización de los miembros del Tribunal.
-
-XXXIV.- Establecer, en su caso, por conducto del Consejo de la Judicatura, la coordinación entre el Instituto de la Judicatura y el Tribunal.
-
-XXXV.- Solicitar a la Comisión de Administración que tramite los recursos humanos, financieros y materiales para el buen funcionamiento del Tribunal.
-
-XXXVI.- Acordar con los funcionarios administrativos los asuntos de su competencia.
-
-XXXVII.- Acordar con el Pleno los lineamientos para selección, capacitación, designación y promoción del personal del Tribunal, considerando los principios de imparcialidad, objetividad y profesionalismo.
-
-XXXVIII.- Las demás que señale esta Ley y el Reglamento Interior.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
-
-### CAPITULO VIII. DE LA FISCALIZACION DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+### CAPITULO VIII
 
 ###### ARTICULO 254.
 
-Los Magistrados Electorales del Tribunal, serán electos por el Congreso del Estado, conforme a las bases siguientes
-
-I.- El Congreso del Estado emitirá oportunamente convocatoria, publicándola en el Periódico Oficial del Estado y en los diarios de mayor circulación, dirigida a los profesionales del derecho residentes en el Estado, a efecto que se presenten como aspirantes a integrar el Tribunal.
-
-II.- La convocatoria deberá contener por lo menos, el plazo de la inscripción, requisitos que deberán cubrir los aspirantes, el número de Magistrados que se requieren, así como el procedimiento a que se sujetarán para efecto de las evaluaciones correspondientes.
-
-III.- El Congreso del Estado, instruirá una Comisión Especial para atender y dictaminar sobre las solicitudes planteadas y será el Pleno, mediante el voto de las dos terceras partes, el que resuelva sobre los nombramientos.
-
-Si el número de solicitudes planteadas, conforme a lo dispuesto en esta fracción, resultasen insuficientes para nombrar a la totalidad de los Magistrados, subsidiariamente los diputados podrán proponer a la Comisión Especial, a candidatos para tales cargos.
-
-IV.- En el supuesto de que no se aprobasen los dictámenes presentados y habiéndose agotado una segunda ronda de votación, se procederá a nombrarlos mediante el sistema de sorteo, en el cual habrán de considerarse todas aquellas personas cuya solicitud fue aprobada.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 17 DE OCTUBRE DE 2003)</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2003)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 255.
 
-Los Magistrados Electorales desempeñarán su cargo durante tres años, sin poder ser ratificados en ningún caso.
-
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
-
-Los Magistrados Electorales del Tribunal percibirán un salario igual al de los Magistrados del Tribunal Superior de Justicia. Los salarios de los demás servidores del Tribunal Electoral, se homologarán a los de sus equivalentes en el Tribunal Superior de Justicia.
-
-> <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 256.
 
-Los Magistrados Electorales durante el tiempo que ejerzan sus funciones, no podrán aceptar empleo, cargo o comisión al servicio de particulares, ni en la Federación, Estado o Municipio.
-
-Se exceptúan en este caso, los cargos en asociaciones científicas, docentes, literarias o de beneficencia, en tanto no interfieran o perjudiquen el ejercicio de sus funciones.
-
-En año Electoral, podrán aceptar y desempeñar cargos en asociaciones científicas, docentes, literarias o de beneficencia, no remunerados, cuando sean compatibles con el ejercicio de la magistratura.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 257.
 
-Son atribuciones de los Magistrados Electorales, las siguientes:
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
-I.- Concurrir, participar y votar, cuando corresponda, en las sesiones públicas y privadas a las que sean convocados por el Presidente del Tribunal.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE JUNIO DE 2015)</small>
 
-II.- Integrar el Pleno del Tribunal, para resolver colegiadamente los asuntos de su competencia.
-
-III.- Formar parte de la Comisión de Administración, cuando sean convocados para tal efecto por el Presidente del Tribunal, de conformidad con lo dispuesto en esta Ley y el Reglamento Interior.
-
-IV.- Admitir los medios de impugnación y los escritos de terceros interesados, en los términos que señale la Ley de la materia.
-
-V.- Formular los proyectos de resolución de los expedientes que les sean turnados para tal efecto.
-
-VI.- Exponer en sesión pública, personalmente o por conducto de un secretario, sus proyectos de resolución o sentencia, señalando las consideraciones jurídicas y los preceptos en que se funden.
-
-VII.- Discutir y votar los proyectos de resolución o sentencia que sean sometidos a su consideración en las sesiones públicas.
-
-VIII.- Formular voto particular razonado, en caso de disentir de un proyecto de resolución aprobado por la mayoría, y solicitar se agregue al expediente.
-
-IX.- Realizar los engroses de los fallos aprobados, cuando sean designados para tales efectos.
-
-X.- Plantear la contradicción de criterios.
-
-XI.- Proponer al Pleno el texto y el rubro de los criterios obligatorios, de conformidad con esta Ley.
-
-XII.- Realizar las tareas de docencia e investigación en el Tribunal.
-
-XIII.- Someter al Tribunal los proyectos de resolución o sentencia, relativos a tener por no interpuestas las impugnaciones o por no presentados los escritos, cuando no cumplan los requisitos que señale la Ley aplicable.
-
-XIV.- Someter al Tribunal los proyectos de resolución o sentencia de desechamiento y de sobreseimiento, en los términos de la Ley de la materia.
-
-XV.- Someter a la consideración del Tribunal, los proyectos de acumulación de las impugnaciones, así como la procedencia de la conexidad, en los términos de la Ley aplicable.
-
-XVI.- Someter al Tribunal, los proyectos de resolución que ordenen archivar como asuntos total y definitivamente concluídos, las impugnaciones que se encuadren en estos supuestos, de conformidad con la Ley aplicable.
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-XVII.- Formular los requerimientos necesarios para la debida integración de los expedientes, y solicitar al Presidente del Tribunal se requiera cualquier informe o documento que obre en poder de los órganos del Instituto Electoral y de Participación Ciudadana, de las autoridades federales, estatales, municipales o de los partidos políticos, o de particulares, que pueda servir para la sustanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos, de conformidad con la Ley aplicable.
-
-XVIII.- Girar exhortos a los juzgados federales o estatales encomendándoles la realización de alguna diligencia en el ámbito de su competencia.
-
-XIX.- Impartir y participar en los programas y cursos de capacitación Judicial Electoral.
-
-XX.- Las demás que sean necesarias para el correcto funcionamiento del Tribunal.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE MAYO DE 1998)</small>
-
-### CAPITULO IX. DE LOS REQUISITOS PARA OCUPAR CARGOS EN EL TRIBUNAL DE JUSTICIA ELECTORAL
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+### CAPITULO IX
 
 ###### ARTICULO 258.
 
-El Secretario General del Tribunal, tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
-I.- Apoyar al Presidente del Tribunal en las tareas que le encomiende y en general, auxiliar al Pleno para el ejercicio de sus atribuciones.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-II.- Dar cuenta, tomar las votaciones y formular el acta respectiva en las sesiones del Pleno y del Tribunal.
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
-
-III.- Autorizar con su firma las actuaciones del Pleno y del Tribunal, y expedir las constancias que se requieran.
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-IV.- Llevar el control del turno de los Magistrados Electorales para conocer los recursos interpuestos, y de las ponencias de resolución o sentencia sobre los mismos; así como llevar el control de turno que corresponda a las Salas del Tribunal.
-
-V.- Llevar el registro de las sustituciones de los Magistrados Electorales.
-
-VI.- Supervisar el debido funcionamiento de la Oficialía de Partes del Tribunal.
-
-VII.- Vigilar que se hagan en tiempo y forma las notificaciones del Tribunal.
-
-VIII.- Supervisar el debido funcionamiento de los archivos jurisdiccionales del Tribunal, y en su momento, su concentración y preservación.
-
-IX.- Conservar en el Archivo Jurisdiccional del Tribunal, los expedientes de los asuntos definitivamente concluídos durante dos años a partir de que se ordene el archivo, y de conformidad con esta Ley, enviarlo en su momento al Archivo del Poder Judicial del Estado, tomando previamente las precauciones pertinentes.
-
-X.- Dictar previo acuerdo con el Presidente del Tribunal, los lineamientos generales, para la identificación e integración de los expedientes.
-
-XI.- Llevar el registro de los criterios que se adopten.
-
-XII.- Acordar con el Presidente del Tribunal, lo relativo a las sesiones del Pleno.
-
-XIII.- Revisar los engroses de las resoluciones del Tribunal.
-
-XIV.- Las demás que le encomiende el Pleno y el Presidente del Tribunal.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
-
-### CAPITULO X. DE LAS RESPONSABILIDADES, IMPEDIMENTOS Y EXCUSAS
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+### CAPITULO X
 
 ###### ARTICULO 259.
 
-La Comisión de Administración es el órgano auxiliar del Tribunal, en lo que se refiere a la administración, vigilancia, disciplina y carrera judicial del mismo, en los términos de esta Ley.
-
-La Comisión de Administración del Tribunal se integrará por los Magistrados de dicho Tribunal, y dos Consejeros de la Judicatura del Estado. El Presidente del mismo la presidirá; su carácter será permanente y sesionará en las oficinas que a tal efecto se destinen en la sede del Tribunal.
-
-El Titular de la Unidad Administrativa del Tribunal, fungirá como Secretario de la Comisión y concurrirá a las sesiones con voz, pero sin voto.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 260.
 
-La Comisión de Administración, considerando su disponibilidad presupuestal, contará con un Organo Administrativo necesario para el adecuado ejercicio de las funciones que tiene encomendadas.
-
-La estructura y funciones del Organo Administrativo, se determinará en el Reglamento Interior del Tribunal.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 261.
 
-La Comisión de Administración sesionará válidamente con la presencia de tres de sus integrantes, y adoptará sus resoluciones por unanimidad o mayoría de votos de sus integrantes.
-
-Los miembros de la Comisión no podrán abstenerse de votar, salvo que tengan excusa o impedimento legal. En caso de empate el Presidente del Tribunal, tendrá voto de calidad.
-
-Cuando una sesión de la Comisión no se pueda celebrar por la falta de quórum, se convocará nuevamente por el Presidente para que tenga verificativo dentro de las veinticuatro horas siguientes. En este caso, sesionará válidamente con el número de integrantes que se presenten.
-
-El integrante que disintiere de la mayoría, podrá formular voto particular, el cual se insertará en el acta respectiva si fuere presentado dentro de los cinco días siguientes a la fecha del acuerdo.
-
-Las sesiones ordinarias o extraordinarias de la Comisión serán privadas.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 262.
 
-La Comisión de Administración determinará cada año sus períodos de vacaciones, tomando en cuenta los calendarios electorales locales establecidos en la ley de la materia.
-
-Durante sus recesos, la Comisión nombrará a dos de sus miembros para que permanezcan de guardia a efecto de atender los asuntos administrativos urgentes. En caso de que durante el receso surgiere un asunto de otra naturaleza que requiriera de una resolución impostergable, los miembros que estén de guardia podrán tomarla provisionalmente, hasta en tanto se reúne la Comisión para resolverlo en definitiva.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 263.
 
-La Comisión de Administración, tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
-I.- Elaborar el Proyecto de Reglamento Interior del Tribunal y someterlo a la aprobación del Pleno, al igual que las modificaciones al mismo.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE JUNIO DE 2015)</small>
 
-II.- Expedir las normas internas en materia administrativa que garanticen el cumplimiento de los acuerdos administrativos y circulares emitidos por el Pleno del Tribunal.
-
-III.- Proponer al Pleno el proyecto de normas internas relativas al ingreso, carrera, escalafón, régimen disciplinario y remoción, así como las referentes a estímulos y capacitación de los servidores del Tribunal, y una vez aprobadas, velar por su cumplimiento.
-
-IV.- Establecer la normatividad y criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos, previo acuerdo del Pleno.
-
-V.- Proponer al Pleno las medidas que exijan el buen servicio y la disciplina en el Tribunal.
-
-VI.- Tramitar el nombramiento, licencias y renuncias de los servidores públicos del Tribunal, conforme a lo establecido en esta Ley; así como proponer al Pleno la remoción del personal administrativo.
-
-VII.- Tramitar los requerimientos de recursos humanos, financieros y materiales para el buen funcionamiento del Tribunal.
-
-VIII.- Dictar las bases generales de organización, funcionamiento, coordinación y supervisión del Organo Administrativo de la Comisión.
-
-IX.- Aportar al Presidente del Tribunal, los elementos necesarios para elaborar el proyecto de Presupuesto de Egresos.
-
-X.- Ejercer el Presupuesto de Egresos, de conformidad con las instrucciones que reciba del Presidente del Tribunal.
-
-XI.- Rendir informes trimestrales al Presidente del Tribunal, sobre el ejercicio del Presupuesto de Egresos.
-
-XII.- Proponer al Pleno las bases para las adquisiciones, arrendamientos enajenaciones de todo tipo de bienes, y prestación de servicios de cualquier naturaleza que realice el Tribunal.
-
-XIII.- Administrar los bienes al servicio del Tribunal, cuidando su mantenimiento, conservación y acondicionamiento.
-
-XIV.- Proponer al Pleno las bases de la política informática y estadística del Tribunal.
-
-XV.- Recibir y registrar las declaraciones de situación patrimonial de los servidores del Tribunal, y en su caso, proponer al Pleno normas para el registro y seguimiento de situación patrimonial.
-
-XVI.- Suscribir los convenios de servicio social en el Tribunal y vigilar su cumplimiento.
-
-XVII.- Desempeñar cualquier otra función que la Ley o el Reglamento Interior del Tribunal, le encomienden.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE MAYO DE 1998)</small>
-
-### CAPITULO XI. DE LAS RELACIONES DE TRABAJO DE LOS SERVIDORES PUBLICOS
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+### CAPITULO XI
 
 ###### ARTICULO 264.
 
-El Presidente de la Comisión de Administración del Tribunal, tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
-I.- Representar a la Comisión.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-II.- Presidir la Comisión, dirigir los debates y conservar el orden durante las sesiones.
-
-III.- Tramitar o turnar, cuando corresponda, los asuntos entre miembros de la Comisión para que se formulen los respectivos proyectos.
-
-IV.- Despachar la correspondencia de la Comisión y firmar las determinaciones y acuerdos.
-
-V.- Vigilar el correcto funcionamiento del Organo Administrativo de la Comisión de Administración.
-
-VI.- Informar al Presidente del Tribunal Superior de Justicia, las vacantes de los representantes del Consejo de la Judicatura en la Comisión de Administración, a efecto de que se haga el nombramiento correspondiente.
-
-VII.- Firmar los convenios relativos a la prestación del servicio social del Tribunal.
-
-VIII.- Las demás que le señale el Reglamento Interior, los acuerdos generales y la Ley.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
-
-### CAPITULO XII. DE LAS RENUNCIAS, AUSENCIAS Y LICENCIAS
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+### CAPITULO XII
 
 ###### ARTICULO 265.
 
-El Tribunal, de conformidad con lo que establezcan las leyes de la materia, deberá ser fiscalizado por la Contaduría Mayor de Hacienda del Congreso del Estado.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 266.
 
-La fiscalización a que se refiere el artículo anterior, además de lo que dispongan las leyes aplicables, deberá comprender lo siguiente:
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
-I.- El cumplimiento de las normas de control establecidas por el Pleno del Tribunal.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-II.- El cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos del Tribunal.
-
-III.- El cumplimiento de las normas y disposiciones relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales del Tribunal.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
-
-### CAPITULO XIII. DEL ARCHIVO JURISDICCIONAL
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+### CAPITULO XIII
 
 ###### ARTICULO 267.
 
-Para ser electo Magistrado Electoral del Tribunal, se requiere, además de satisfacer los requisitos señalados en el Artículo 60 de la Constitución Política del Estado, los siguientes:
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-I.- Estar inscrito en el Padrón Electoral y contar con su credencial para votar que expida la autoridad electoral federal.
-
-II.- No ser, ni haber sido Ministro de alguna asociación o culto religioso.
-
-III.- No desempeñar, ni haber desempeñado cargo directivo en algún partido político.
-
-IV.- No haber sido postulado o registrado a cargo de elección popular.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-V.- No haber desempeñado cargo de representante de partido político ante algún órgano electoral federal o estatal.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 268.
 
-Para ser Secretario General del Tribunal, se deberán satisfacer los siguientes requisitos:
-
-I.- Ser ciudadano mexicano con residencia efectiva en el Estado no menor de tres años, y en pleno ejercicio de sus derechos políticos y civiles.
-
-II.- Tener treinta años de edad por lo menos, al día de la designación.
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2009)</small>
-
-III.- Tener Título de Licenciado en Derecho, expedido cuando menos con tres años de anterioridad al día de la designación, por institución legalmente facultada.
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-IV.- Estar inscrito en el Padrón Electoral y contar con su credencial para votar que expida la autoridad electoral federal.
-
-V.- No ser, ni haber sido Ministro de alguna asociación o culto religioso.
-
-VI.- No ser o haber sido dirigente nacional, estatal o municipal de algún partido político.
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-VII.- No haber sido postulado o registrado a cargos de elección popular.
-
-VIII.- Gozar de buena reputación.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-IX.- No haber desempeñado cargo de representante de partido político ante algún órgano electoral federal o estatal.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 269.
 
-Para ser Secretario de Estudio y Cuenta del Tribunal, deberán reunirse los requisitos siguientes:
-
-> <small>(ADICIONADA, P.O. 4 DE MAYO DE 1998)</small>
-
-I.- Ser ciudadano mexicano con residencia efectiva en el Estado no menor de tres años, y en pleno ejercicio de sus derechos políticos y civiles.
-
-> <small>(ADICIONADA, P.O. 4 DE MAYO DE 1998)</small>
-
-II.- Haber cumplido por lo menos veinticinco años de edad al día de la designación.
-
-> <small>(ADICIONADA, P.O. 4 DE MAYO DE 1998)</small>
-
-III.- Tener título de Licenciado en Derecho, expedido y registrado en los términos de la Ley de la materia.
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-IV.- Estar inscrito en el Padrón Electoral y contar con su credencial para votar que expida la autoridad electoral federal.
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-V.- No haber sido postulado a cargos de elección popular.
-
-> <small>(ADICIONADA, P.O. 4 DE MAYO DE 1998)</small>
-
-VI.- Gozar de buena reputación.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-VII.- No haber desempeñado cargo de representante de partido político ante algún órgano electoral federal o estatal.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 270.
 
-Para ser Actuario del Tribunal, deberán cumplirse con los siguientes requisitos:
-
-I.- Ser ciudadano mexicano con residencia efectiva en el Estado no menor de tres años, y en pleno ejercicio de sus derechos políticos y civiles.
-
-II.- Haber cumplido por lo menos veintitrés años de edad al día de la designación.
-
-III.- Tener título de Licenciado en Derecho, expedido y registrado en los términos de la Ley de la materia.
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-IV.- Estar inscrito en el Padrón Electoral y contar con su credencial para votar que expida la autoridad electoral federal.
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-V.- No haber sido postulado a cargos de elección popular.
-
-VI.- Gozar de buena reputación.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-VII.- No haber desempeñado cargo de representante de partido político ante algún órgano electoral federal o estatal.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 271.
 
-Para ser Titular del Organo Administrativo, deberán cumplirse, como mínimo, con los siguientes requisitos:
-
-I.- Ser ciudadano mexicano con residencia efectiva en el Estado no menor de tres años, y en pleno ejercicio de sus derechos políticos y civiles.
-
-II.- Haber cumplido por lo menos veintiocho años de edad al día de la designación.
-
-III.- Tener Título Profesional de Licenciado en Contaduría Pública, Derecho, Administración de Empresas, Economía, Administración Pública o Licenciaturas afines.
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-IV.- Estar inscrito en el Padrón Electoral y contar con su credencial para votar que expida la autoridad electoral federal.
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-V.- No haber sido postulado a cargos de elección popular.
-
-VI.- Gozar de buena reputación.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-VII.- No haber desempeñado cargo de representante de partido político ante algún órgano electoral federal o estatal.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 272.
 
-El Presidente del Tribunal, a propuesta de la Comisión de Administración, podrá establecer otras categorías de personal jurídico para atender las necesidades del Tribunal, de acuerdo con las partidas autorizadas en su Presupuesto.
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
-La Comisión de Administración, podrá ser autorizada por el Pleno del Tribunal, para contratar con carácter de eventual el personal necesario, cuando las cargas de trabajo extraordinario lo exijan, de conformidad con las partidas autorizadas en su Presupuesto.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
-
-### CAPITULO XIV. DE LOS CRITERIOS OBLIGATORIOS
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+### CAPITULO XIV
 
 ###### ARTICULO 273.
 
-Las responsabilidades de todos los servidores públicos del Tribunal, se regirán por el Título Octavo de la Constitución Política del Estado, el Título Décimo de esta Ley en lo que resulte conducente, y demás disposiciones de este Capítulo. Para estos efectos, las facultades señaladas para el Consejo de la Judicatura del Estado, se entenderán atribuidas al Pleno del Tribunal.
-
-Los Magistrados Electorales del Tribunal, sólo podrán ser removidos de sus cargos, en los términos de la Constitución Política del Estado.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 274.
 
-Los Magistrados Electorales deberán excusarse de conocer los asuntos que tengan interés personal por relaciones de parentesco, negocios, amistad estrecha o enemistad que pueda afectar su imparcialidad. El Pleno del Tribunal, calificará y resolverá de inmediato la excusa, de conformidad con el Reglamento Interior, llamando, en su caso, al Magistrado Supernumerario en el orden de prelación señalado por el Congreso del Estado.
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE NOVIEMBRE DE 2008)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-Los Magistrados Electorales están impedidos para conocer de los medios de impugnación que se interponga en contra de las resoluciones emitidas por la Sala que integren. En estos casos, corresponderá al Secretario General de Acuerdos, integrar el Pleno para la resolución respectiva.
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2008)</small>
-
-Asimismo, al Secretario General Acuerdos y a los Secretarios de Estudio y Cuenta del Tribunal, les será aplicable, lo dispuesto en el párrafo primero.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
-
-### CAPITULO XV. DE LA PROTESTA CONSTITUCIONAL
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+### CAPITULO XV
 
 ###### ARTICULO 275.
 
-Las relaciones de trabajo de los servidores públicos del Tribunal, se regirán por la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas de Baja California.
-
-El Pleno del Tribunal, deberá tomar las providencias necesarias para que no se entorpezcan las funciones que le son propias al Tribunal, cuidando que éstas se desarrollen en tiempo y forma.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 276.
 
-Los servidores públicos del Tribunal, gozarán de descanso los días de asueto que apruebe el Pleno, siempre y cuando no afecte el cumplimiento en tiempo y forma de las funciones atribuidas a éste órgano especializado.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 277.
 
-Los servidores públicos del Tribunal, estarán obligados a prestar sus servicios durante las horas que señale la Comisión de Administración por acuerdo del Pleno, tomando en cuenta que durante los procesos electorales todos los días y horas son hábiles.
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
-Durante los procesos electorales locales, podrá preverse en el Presupuesto de Egresos compensaciones para los servidores públicos del Tribunal.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
-
-### CAPITULO XVI. DE LOS SERVIDORES DEL TRIBUNAL DE JUSTICIA ELECTORAL DEL PODER JUDICIAL DEL ESTADO
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+### CAPITULO XVI
 
 ###### ARTICULO 278.
 
-Las ausencias de los Magistrados Electorales Numerarios, serán cubiertas de conformidad con las reglas siguientes:
-
-I.- Cuando sean temporales, el Presidente del Tribunal lo hará del conocimiento del Pleno, quien dictará un acuerdo convocando al Magistrado Supernumerario que deba cubrirla.
-
-II.- Cuando sean definitivas, se cubrirán por el Magistrado Supernumerario, atendiendo al orden de prelación que haya señalado el Congreso del Estado al momento de la elección o sorteo, hasta en tanto se designa por el Congreso el Magistrado Numerario.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 279.
 
-Las ausencias del Presidente del Tribunal, serán cubiertas de conformidad con las reglas siguientes:
-
-I.- Cuando sean temporales, asumirá la Presidencia el Magistrado Electoral que sea decano, o en su caso, el de mayor edad, integrándose el Magistrado Supernumerario que corresponda.
-
-II.- Cuando sean definitivas, se observará lo dispuesto en la fracción anterior y el Presidente del Tribunal en funciones permanecerá, hasta que se designe por el Congreso del Estado al Magistrado Numerario. Una vez designado, se convocará de inmediato al Pleno para que elija de entre los Magistrados Electorales a quien fungirá como Presidente.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 280.
 
-Se entenderá por ausencia temporal, aquella que exceda el término de quince días, para los efectos de esta Ley.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 281.
 
-Las ausencias por defunción o cualquier otra causa de separación definitiva, serán cubiertas con los Magistrados Supernumerarios, hasta en tanto se aprueba el nombramiento de un nuevo Magistrado Numerario por el Congreso del Estado.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 282.
 
-Las renuncias de los Magistrados Electorales se someterán a la aprobación del Congreso del Estado, por conducto del Presidente del Tribunal, previo acuerdo del Pleno.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 283.
 
-Las licencias que soliciten los Magistrados Electorales por un plazo menor de dos meses, serán acordadas por el Pleno del Tribunal. Cuando excedan de dicho plazo, deberán ser autorizadas por el Congreso del Estado.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 284.
 
-A los servidores públicos del Tribunal, se les podrá conceder licencia para separarse de sus labores, sin goce de sueldo o con goce del mismo, por causa justificada y acreditada, siempre que no se interrumpa o deteriore el buen funcionamiento de las labores del Tribunal, a juicio del Pleno o por enfermedad que les impida trabajar, en este último caso con el certificado médico que se le expida por institución oficial.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 285.
 
-Las licencias de los servidores públicos del Tribunal, se concederán en los términos establecidos por los artículos 104 al 110, en lo que resulte conducente, de esta Ley.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 286.
 
-Las licencias se concederán a los servidores públicos del Tribunal, tomando en consideración que durante los procesos electorales todos los días y las horas son hábiles.
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 287.
 
-El Tribunal deberá conservar en su archivo jurisdiccional, los expedientes de los asuntos definitivamente concluidos durante dos años a partir de que se ordene su archivo.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 288.
 
-Concluido el plazo a que se refiere el artículo anterior, el Tribunal remitirá los expedientes al Archivo Judicial del Poder Judicial, y conservará copias de los que requiera, utilizando para ello cualquier método de digitalización, reproducción y reducción.
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 289.
 
-El Tribunal fijará criterios que tendrá el carácter de obligatorios, cuando éstos se sustenten en tres sentencias no interrumpidas por otra en contrario.
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
-El carácter de obligatoriedad se perderá cuando se pronuncie una sentencia en contrario por unanimidad de votos de sus integrantes, debiendo expresarse en ella las razones que motiven el cambio de criterio. El nuevo criterio será obligatorio si se da el supuesto señalado en el párrafo anterior.
-
-En el supuesto del párrafo primero de este artículo, los criterios obligatorios que se adopten requerirán de la declaratoria respectiva, y se ordenará por parte del Tribunal, su publicación en el Periódico Oficial del Estado.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 290.
 
-La protesta constitucional en el Tribunal, se rendirá de la manera siguiente:
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
-I.- Los Magistrados Electorales, la rendirán ante el Congreso del Estado, en el día y hora que éste determine.
-
-II.- El Secretario General, los secretarios, actuarios y el Titular o los Titulares de los Organos Auxiliares, ante el Pleno del Tribunal.
-
-III.- El demás personal, ante el Presidente del Tribunal.
-
-La protesta constitucional será rendida en los términos establecidos por los artículos 14 y 61 de esta Ley.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 291.
 
-Todos los servidores del Tribunal, se conducirán con imparcialidad; velarán por la aplicación irrestricta del principio de legalidad en todas las diligencias y actuaciones en que intervengan en el desempeño de sus funciones, y tendrán la obligación de guardar absoluta reserva sobre los asuntos que sean competencia del Tribunal.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ###### ARTICULO 292.
 
-Para ser servidor del Tribunal, se deberá cumplir con los requisitos que para cada cargo establezca esta Ley. Para aquellos en que no se exija requisito expreso, se estará a lo dispuesto en el Artículo 13 de este ordenamiento en su parte conducente.
+(DEROGADO, P.O. 12 DE JUNIO DE 2015)
 
 ## ARTICULOS TRANSITORIOS
 
@@ -4136,3 +3504,7 @@ Los jueces de control del Partido Judicial de Mexicali, fungirán como jueces de
 QUINTO.- La designación de los jueces de ejecución a que se refiere este Decreto, será de conformidad con la gradualidad prevista en el primer párrafo del artículo segundo transitorio de la presente reforma.
 
 Hasta en tanto no se realice el nombramiento de jueces de ejecución en cada partido judicial, según sea el caso, los jueces de garantía, control o de primer instancia atendiendo la naturaleza del proceso penal que dio lugar a la sentencia, continuarán conociendo y resolviendo los procedimientos competencia de los jueces de ejecución.
+
+P.O. 12 DE JUNIO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
