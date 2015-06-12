@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-registro-civil-del-estado-de-baja-3232"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-05-10"
-last_updated: "2015-04-17"
+last_updated: "2015-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL REGISTRO CIVIL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 10 de mayo de 1983.
 
@@ -123,9 +123,9 @@ El Director del Registro Civil, radicará en la Capital del Estado.
 
 El Director del Registro Civil, tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
 
-I.- Coordinar y supervisar el funcionamiento de las Oficialías del Registro Civil;
+I.- Coordinar y supervisar el funcionamiento de la Oficialías del Registro Civil, además de organizar el registro de nacimiento inmediato y la expedición gratuita de la primera copia certificada del acta de nacimiento en los municipios del Estado.
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
@@ -894,3 +894,7 @@ P.O. 13 DE JUNIO DE 2014.
 P.O. 17 DE ABRIL DE 2015.
 
 ÚNICO.- La presente reforma entrará al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JUNIO DE 2015.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
