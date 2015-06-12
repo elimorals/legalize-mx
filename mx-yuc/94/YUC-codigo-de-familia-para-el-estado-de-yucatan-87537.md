@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-familia-para-el-estado-de-yucatan-87537"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-04-30"
-last_updated: "2012-04-30"
+last_updated: "2015-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE JUNIO DE 2015.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 30 de abril de 2012.
 
@@ -487,33 +487,17 @@ III. Que presenten tres testigos, que bajo protesta de decir verdad, declaren qu
 
 IV. Exhibir un certificado médico en el que conste que los interesados no padecen alguna de las enfermedades consideradas como un impedimento para contraer matrimonio.
 
-Quien o quienes no hayan alcanzado la mayoría de edad, pero cuenten con más de dieciséis años cumplidos y expresen de manera voluntaria el deseo de contraer matrimonio, pueden celebrarlo siempre que él o los que ejerzan la patria potestad o tutela lo consientan. Una vez otorgado el consentimiento éste no podrá ser revocado.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O. 12 DE JUNIO DE 2015)</small>
 
-A falta, negativa o imposibilidad de quienes ejerzan la patria potestad o tutela, los interesados pueden acudir al juez de su residencia y solicitar les otorgue la dispensa de edad para celebrar el matrimonio.
-
-Ratificación de la voluntad y del consentimiento
+> <small>(DEROGADO TERCER PÁRRAFO, D.O. 12 DE JUNIO DE 2015)</small>
 
 ###### Artículo 55.
 
-Una vez expresada la voluntad de contraer matrimonio los adolescentes, deben ratificarla ante el Oficial del Registro Civil. Cuando él o los que ejerzan la patria potestad o tutela sean los que otorguen el consentimiento para la celebración del matrimonio, deben ratificar su consentimiento ante el Oficial del Registro Civil. En caso de que el juez haya otorgado la dispensa de edad, los interesados deben presentar, ante el Oficial del Registro Civil, la resolución que contenga la dispensa.
-
-Otorgamiento de la dispensa de edad
+(DEROGADO, D.O. 12 DE JUNIO DE 2015)
 
 ###### Artículo 56.
 
-El juez al otorgar la dispensa de edad para la celebración del matrimonio entre adolescentes, debe tomar en consideración las siguientes disposiciones:
-
-I. La opinión de los que ejercen la patria potestad o tutela, así como la de los interesados en contraer matrimonio;
-
-II. Vigilar que la menor que en su caso se encuentre embarazada esté bajo tutela, y
-
-III. Las demás que estime convenientes, tomando en cuenta siempre el interés superior de los adolescentes.
-
-El matrimonio entre adolescentes no tiene como consecuencia la pérdida de los derechos de los contrayentes derivados de su condición etaria, ni libera a cualquier obligado respecto de dichos derechos.
-
-El matrimonio del adolescente lo libera de la patria potestad o de la tutela, por tanto, se tiene por emancipado. Aunque el matrimonio se disuelva, el adolescente no queda sometido nuevamente a la patria potestad ni a la tutela, salvo en los casos de excepción que prevé este Código.
-
-El adolescente emancipado tiene la libre administración de sus bienes, pero durante su minoría de edad requiere de autorización judicial para enajenar, gravar o hipotecar sus bienes inmuebles o, en su caso, de un tutor para sus negocios judiciales.
+(DEROGADO, D.O. 12 DE JUNIO DE 2015)
 
 Taller de orientación prematrimonial
 
@@ -549,9 +533,9 @@ Son impedimentos para contraer el matrimonio, y pueden ser denunciados por cualq
 
 I. La falta de edad requerida por este Código;
 
-II. La falta de consentimiento de quien o quienes ejerzan la patria potestad, o tutela;
+II. (DEROGADA, D.O. 12 DE JUNIO DE 2015)
 
-III. En su caso, la falta de dispensa de edad otorgada por el juez;
+III. (DEROGADA, D.O. 12 DE JUNIO DE 2015)
 
 IV. El parentesco de consanguinidad sin limitación de grado, en la línea recta ascendente y descendente. En la línea colateral el impedimento se extiende a los hermanos y medios hermanos, al igual que entre tíos y sobrinos;
 
@@ -623,11 +607,11 @@ Igualdad en la autoridad de los cónyuges
 
 Los cónyuges, de común acuerdo, deben acordar lo relativo a la dirección y cuidado del hogar, a la educación y formación de los hijos o hijas y a la administración de los bienes que sean comunes a ellos o que pertenezcan a los hijos o hijas sujetos a su patria potestad.
 
-Limitantes de los cónyuges menores de edad
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 67.
 
-Los cónyuges adolescentes tendrán la administración de sus bienes; pero para la debida protección de su patrimonio, necesitan autorización judicial para enajenar, gravar o hipotecar sus bienes inmuebles, y un tutor para sus negocios judiciales.
+(DEROGADO, D.O. 12 DE JUNIO DE 2015)
 
 Contratos entre cónyuges
 
@@ -771,13 +755,11 @@ Capitulaciones matrimoniales nulas
 
 Son nulas las capitulaciones matrimoniales que establecen que sólo uno de los cónyuges debe percibir todas las utilidades, o que sería responsable de las pérdidas y deudas comunes en una parte que exceda a la que proporcionalmente corresponda a su capital o bien, a las utilidades que deba percibir.
 
-Capitulaciones matrimoniales de adolescentes
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 88.
 
-Los adolescentes que con arreglo a este Código pueden contraer matrimonio, también pueden otorgar capitulaciones matrimoniales, sin embargo éstas, previamente a la celebración del matrimonio, deben ser autorizadas por el juez, cuyo requisito no deben ser aceptadas por el Oficial del Registro Civil.
-
-En caso de modificación posterior a dichas capitulaciones o si se pactan después de celebrado el matrimonio, también deben ser autorizadas por el juez, siempre que no hayan alcanzado la mayoría de edad, en caso contrario se está a lo dispuesto por el artículo 85 de este Código.
+(DEROGADO, D.O. 12 DE JUNIO DE 2015)
 
 Matrimonios celebrados fuera del territorio del Estado
 
@@ -989,7 +971,7 @@ Subsistencia de la sociedad conyugal cuando exista buena fe
 
 En los casos de nulidad de matrimonio, la sociedad conyugal se considera subsistente hasta que se pronuncie sentencia ejecutoria, si los dos cónyuges procedieron de buena fe.
 
-Situación de la sociedad cuando solo cónyuge (sic) actúe de buena fe
+Situación de la sociedad cuando solo (sic) cónyuge actúe de buena fe
 
 ###### Artículo 109.
 
@@ -1259,37 +1241,23 @@ Convalidación del matrimonio
 
 Tratándose de la fracción II del artículo anterior, el matrimonio puede convalidarse ante el Oficial del Registro Civil, para lo cual se debe acreditar el cumplimiento del o de los requisitos señalados en las fracciones II, III o IV del artículo 54 de este Código. De convalidarse el matrimonio, se debe levantar el acta de matrimonio correspondiente y proceder a realizar las anotaciones conducentes.
 
-Excepciones a la nulidad por la edad menor a 16 años
-
 ###### Artículo 143.
 
-La edad menor a dieciséis años dejará de ser causa de nulidad del matrimonio, cuando:
+(DEROGADO, D.O. 12 DE JUNIO DE 2015)
 
-I. Haya habido descendencia, o
-
-II. Aún no habiendo descendencia, la persona menor de dieciséis años cumpliere dieciocho años de edad.
-
-Nulidad por falta de consentimiento o dispensa
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 144.
 
-La nulidad del matrimonio por falta del consentimiento de quienes ejerzan la patria potestad o tutela, o de la dispensa de edad que puede otorgar el juez, sólo podrá alegarse por aquél o aquéllos quienes ejerzan o la desempeñen, respectivamente, dentro de los sesenta días contados desde que tengan conocimiento de la celebración del acto, siempre y cuando no hubiere transcurrido un año contado a partir de la fecha de su celebración.
-
-Caducidad de la acción de nulidad por falta de consentimiento o dispensa
+(DEROGADO, D.O. 12 DE JUNIO DE 2015)
 
 ###### Artículo 145.
 
-Caduca la acción de nulidad por falta de consentimiento o dispensa de edad para contraer matrimonio:
-
-I. Si ha pasado el término legal que corresponda, sin haberla ejercitado, o
-
-II. Si ha habido descendencia.
-
-Convalidación del matrimonio entre adolescentes
+(DEROGADO, D.O. 12 DE JUNIO DE 2015)
 
 ###### Artículo 146.
 
-El matrimonio contraído voluntariamente por personas menores de dieciocho años pero de al menos dieciséis años de edad, sin consentimiento o dispensa de edad, se convalida si quien o quienes ejercen la patria potestad o tutela de aquellas, consienten el matrimonio expresamente ante el Oficial del Registro Civil, o en su caso, el juez otorga la dispensa de edad.
+(DEROGADO, D.O. 12 DE JUNIO DE 2015)
 
 Acción de nulidad por parentesco consanguíneo, civil o por afinidad
 
@@ -2789,7 +2757,7 @@ III. Siempre que exista un cambio en las circunstancias que la originaron;
 
 IV. Por muerte de quien tiene la custodia provisional, si ésta le corresponde a una sola persona, y
 
-V. Si durante la custodia provisional, el sujeto a la custodia llega la (sic) mayoría de edad.
+V. Si durante la custodia provisional, el sujeto a la custodia llega (sic) la mayoría de edad.
 
 ### CAPÍTULO IV. De la Integración a una Vida en Familia de Niñas, Niños y Adolescentes Expósitos, Abandonados o en Situación de Violencia
 
@@ -2800,6 +2768,10 @@ Objeto de la integración en familia de expósitos o abandonados
 La integración a una vida en familia de los expósitos o de las niñas, niños y adolescentes abandonados o que sufran alguna situación de violencia, tiene por objeto procurar su inserción en un ámbito familiar armónico que estimule su sano desarrollo psicofísico.
 
 La integración a que se refiere este artículo puede servir de tránsito a medidas definitivas como son la reincorporación a la familia de origen o bien, la adopción.
+
+> <small>(ADICIONADO, D.O. 12 DE JUNIO DE 2015)</small>
+
+La Procuraduría de la Defensa del Menor y la Familia procurará que las niñas, niños y adolescentes en las situaciones antes referidas permanezcan en acogimiento residencial brindado por centros de asistencia social el menor tiempo posible.
 
 Protección, guarda y custodia de las niñas, niños o adolescentes
 
@@ -2821,11 +2793,13 @@ Para efectos del artículo anterior la Procuraduría de la Defensa del Menor y l
 
 En caso de que no existan parientes con capacidad para integrar a las niñas, niños o adolescentes la Procuraduría, puede acordar que dicha integración se lleve a cabo con terceras personas o con una familia sustituta.
 
+> <small>(REFORMADO, D.O. 12 DE JUNIO DE 2015)</small>
+
 Preferencia para la integración
 
 ###### Artículo 342.
 
-Las niñas, niños o adolescentes expósitos, abandonados o que se encuentren en situación de violencia, serán integrados preferentemente, con personas que sean parientes, siempre y cuando les sea benéfico.
+Las niñas, niños o adolescentes abandonados o que se encuentren en situación de violencia serán integrados preferentemente con personas que sean parientes, siempre y cuando les sea benéfico, tomando en consideración el grado de parentesco, la relación de afinidad y de afectividad, el origen, la comunidad y las condiciones culturales en que se desarrollen. Asimismo, se procurará no separar a hermanas y hermanos, pero, si hubiera necesidad, se establecerán medidas para que mantengan vínculos de convivencia, contacto y comunicación permanente.
 
 Familia sustituta
 
@@ -2889,11 +2863,13 @@ En el caso de que fallezca una de las dos personas a quienes se les haya concedi
 
 Para efectos de este artículo, la persona que subsiste debe hacer del conocimiento de la Procuraduría de la Defensa del Menor y la Familia el fallecimiento.
 
+> <small>(REFORMADO, D.O. 12 DE JUNIO DE 2015)</small>
+
 Revocación del acuerdo
 
 ###### Artículo 351.
 
-La Procuraduría de la Defensa del Menor y la Familia puede revocar el acuerdo a que se refiere este Capítulo, por cambios en las condiciones imperantes al momento en que se haya acordado la integración, si resultan inconvenientes o en detrimento del interés superior de la niña, niño o adolescente y por incumplimiento en las obligaciones alimenticias.
+La Procuraduría de la Defensa del Menor y la Familia revocará el acuerdo a que se refiere este capítulo cuando se violen los derechos de la niña, niño o adolescente, cambien las condiciones imperantes del momento en que se acordó la integración, si resultan inconvenientes o en detrimento de su interés superior; no se consoliden las condiciones de adaptación con la familia sustituta, o por incumplimiento de las obligaciones alimenticias.
 
 Conversión del acuerdo de integración en custodia provisional o adopción
 
@@ -2905,7 +2881,7 @@ Consentimiento para la conversión
 
 ###### Artículo 353.
 
-La conversión a que se refiere el artículo anterior, la debe solicitar la Procuraduría de la Defensa del Menor y la Familia al juez y a esta solicitud se le_debe (sic) anexar el acuerdo de integración emitido por la propia Procuraduría.
+La conversión a que se refiere el artículo anterior, la debe solicitar la Procuraduría de la Defensa del Menor y la Familia al juez y a esta solicitud se le debe anexar el acuerdo de integración emitido por la propia Procuraduría.
 
 El juez, antes de conceder la conversión debe solicitar a las niñas, niños o adolescentes integrados a una vida en familia, que estén en condiciones de formarse juicio propio, su consentimiento para la conversión, previa información sobre sus efectos.
 
@@ -3009,7 +2985,7 @@ Criterios para limitar, suspender o perder la convivencia
 
 ###### Artículo 366.
 
-El juez para la limitación, suspensión o pérdida de la convivencia a que hace referencia el artículo anterior, debe tomar en cuenta la existencia de graves circunstancias que así lo ameriten que pongan en riesgo la integridad de la niña, niño o adolescente o bien, el incumplimiento de forma grave y reiterada los (sic) deberes impuestos al progenitor por la resolución judicial.
+El juez para la limitación, suspensión o pérdida de la convivencia a que hace referencia el artículo anterior, debe tomar en cuenta la existencia de graves circunstancias que así lo ameriten que pongan en riesgo la integridad de la niña, niño o adolescente o bien, el incumplimiento de forma grave y reiterada (sic) los deberes impuestos al progenitor por la resolución judicial.
 
 Opinión de las niñas, niños y adolescentes
 
@@ -3055,11 +3031,21 @@ Adopción única
 
 Nadie puede ser adoptado por más de una persona, salvo el caso del matrimonio o bien, del concubinato.
 
+> <small>(REFORMADO, D.O. 12 DE JUNIO DE 2015)</small>
+
 Derecho de la niña, niño o adolescente a emitir su opinión en caso de la adopción
 
 ###### Artículo 373.
 
-En todo procedimiento de adopción de alguna niña, niño o adolescente, éstas deben ser escuchadas y tomar en cuenta su opinión cuando estén en condiciones de formarse un juicio propio.
+En todo procedimiento de adopción de niñas, niños o adolescentes, estos se deberá (sic) escuchar y tomar en cuenta su opinión, de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez.
+
+> <small>(ADICIONADO, D.O. 12 DE JUNIO DE 2015)</small>
+
+Asesoría en materia de adopción
+
+###### Artículo 373 Bis.
+
+La Procuraduría de la Defensa del Menor y la Familia brindará asesoría a quienes pretendan consentir o consientan la adopción y a quienes pretendan aceptarla o la acepten, a fin de que conozcan los alcances jurídicos, familiares y sociales de esta.
 
 Personas sujetas a la adopción
 
@@ -3103,6 +3089,16 @@ Una vez que cause ejecutoria la resolución judicial que autorice una adopción,
 
 El juez que apruebe la adopción, debe remitir oficiosamente copia de las diligencias respectivas al Oficial del Registro Civil correspondiente para que inscriba el acta de nacimiento nueva del adoptado, en la que aparezcan los datos de sus progenitores adoptivos como progenitores, sin ninguna mención del carácter adoptivo de la filiación. Asimismo ordenará cancelar el acta de nacimiento original. Para efectos de este artículo aplica lo previsto en los párrafos segundo y tercero del artículo 354 de este Código.
 
+> <small>(ADICIONADO, D.O. 12 DE JUNIO DE 2015)</small>
+
+Registro de Adopciones del Estado de Yucatán
+
+###### Artículo 379 Bis.
+
+La Procuraduría de la defensa del menor y la Familia integrará y mantendrá actualizado el Registro de Adopción del Estado de Yucatán, el cual incluirá la información de las niñas, niños y adolescentes y personas incapaces cuya situación jurídica o familiar permita que sean susceptibles de adopción, de las personas solicitantes de adopción y de las adopciones concluidas.
+
+La Procuraduría de la Defensa del Menor y la Familia informará a la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, de manera trimestral, respecto de los datos contenidos en el registro a que se refiere este artículo, relativos a niñas, niños y adolescentes.
+
 ### CAPÍTULO II. De los Requisitos para la Adopción
 
 Requisito indispensable para la adopción
@@ -3117,23 +3113,31 @@ Personas que pueden adoptar
 
 El mayor de veinticinco años en pleno ejercicio de sus derechos puede adoptar a uno o más niñas, niños o adolescentes o personas incapaces.
 
+> <small>(REFORMADO, D.O. 12 DE JUNIO DE 2015)</small>
+
 Requisitos para la adopción
 
 ###### Artículo 382.
 
-Además de lo señalado en el artículo anterior la parte adoptante debe acreditar, los siguientes requisitos:
+Además de lo señalado en el artículo anterior, la parte adoptante debe acreditar los siguientes requisitos:
 
-I. Tener medios bastantes para proveer debidamente la subsistencia, educación y cuidado de quien se pretenda adoptar;
+l. Tener medios bastantes para proveer debidamente la subsistencia, educación y cuidado de quien se pretenda adoptar;
 
-II. Su aptitud física, moral, psicológica y la idoneidad para desempeñar las funciones de progenitor;
+Il. Contar con aptitudes físicas, morales y psicológicas idóneas para desempeñar las funciones de progenitor;
 
-III. Tener veinte años más que quien se pretenda adoptar, y
+III. Tener veinte años más que quien se pretenda adoptar;
 
-IV. Contar con buena reputación pública.
+IV. Contar con buena reputación pública, y
 
-La Procuraduría de la Defensa del Menor y la Familia, debe vigilar las condiciones y desarrollo de la adopción y dictaminar sobre el cumplimiento de los requisitos establecidos en este artículo, de conformidad con lo establecido en el Código de Procedimientos Familiares del Estado de Yucatán.
+V. Cumplir satisfactoriamente la etapa de acogimiento preadoptivo, en los términos que determine la Procuraduría de la Defensa del Menor y la Familia.
+
+La Procuraduria de la Defensa del Menor y la Familia debe vigilar las condiciones y desarrollo de la adopción y dictaminar sobre el cumplimiento de los requisitos establecidos en este artículo, de conformidad con lo establecido en el Código de Procedimientos Familiares del Estado de Yucatán.
+
+Las personas que realicen los estudios o informes para verificar el cumplimiento de los requisitos establecidos en este artículo, o que participen de cualquier manera en los procedimientos de adopción deberán contar con la autorización de la Procuraduría de la Defensa del Menor y la Familia, en los términos de las disposiciones que esta emita.
 
 El juez deberá evaluar el referido dictamen, antes de emitir su resolución sobre la procedencia de la adopción, previa vista al Ministerio Público.
+
+La Procuraduría de la Defensa del Menor y la Familia brindará asesoría, capacitará, evaluará, certificará y llevará un registro de las familias que resulten idóneas para el acogimiento preadoptivo.
 
 Informes e investigaciones
 
@@ -3142,6 +3146,10 @@ Informes e investigaciones
 La Procuraduría de la Defensa del Menor y la Familia puede hacer las investigaciones y entrevistas que estime convenientes para dictaminar sobre la conveniencia o inconveniencia de conceder la adopción, con independencia de que los requisitos establecidos en este Código en relación a la adopción, se hubieren reunido.
 
 Asimismo, cuando lo considere necesario, puede solicitar la revaloración de quien o quienes pretendan adoptar con el propósito de contar con mayores elementos para pronunciarse sobre la procedencia o improcedencia de las solicitudes presentadas.
+
+> <small>(ADICIONADO, D.O. 12 DE JUNIO DE 2015)</small>
+
+En todos los casos la Procuraduría de la Defensa del Menor y la Familia se asegurará que la adopción no sea motivada por beneficios económicos para quienes participen en ella.
 
 Acuerdo entre cónyuges o personas unidas en concubinato
 
@@ -3297,6 +3305,10 @@ Dictamen de la Procuraduría de la Defensa del Menor y la Familia
 
 La Procuraduría de la Defensa del Menor y la Familia es quien, una vez recibida la solicitud de adopción, debe determinar si la niña, niño o adolescente o persona incapaz es adoptable.
 
+> <small>(ADICIONADO, D.O. 12 DE JUNIO DE 2015)</small>
+
+La adopción internacional de niñas, niños y adolescentes procederá cuando se haya constatado que esta responde al interés superior de la niñez y después de haber examinado adecuadamente las posibilidades de asignación para adopción nacional.
+
 Si es conveniente recurrir a la adopción internacional en el caso debe asegurarse de contar con los consentimientos necesarios, así como determinar si los requisitos adicionales que solicite se han cubierto, y que se han tenido en consideración los intereses de la niña, niño o adolescente o persona incapaz y constar además, que ésta ha sido o será autorizado para entrar al país de recepción.
 
 En estos casos y por la naturaleza propia de la adopción internacional, la Procuraduría de la Defensa del Menor y la Familia debe determinar la conveniencia o inconveniencia previa entre quien o quienes pretenden adoptar a la persona adoptable.
@@ -3429,7 +3441,7 @@ Tutor de varios pupilos
 
 ###### Artículo 419.
 
-El tutor puede desempeñar la tutela de varios pupilos, siempre y cuando pueda efectuarlo conforme a lo que establece este Código y sin causar daños y perjuicios los (sic) pupilos.
+El tutor puede desempeñar la tutela de varios pupilos, siempre y cuando pueda efectuarlo conforme a lo que establece este Código y sin causar daños y perjuicios (sic) los pupilos.
 
 Cuando quienes deban quedar bajo tutela sean hermanos, legatarios o herederos de la misma persona, puede nombrarse un sólo tutor a todos ellos.
 
@@ -4019,7 +4031,7 @@ Medidas urgentes de protección al pupilo
 
 Para proteger la persona y patrimonio del pupilo, el tutor debe proponer al juez las medidas que juzgue convenientes. Las medidas urgentes pueden ser ejecutadas por el tutor, dando cuenta inmediatamente al juez para que las califique, ratifique, revoque o, en su caso, dicte las que estime convenientes.
 
-Obligación del tutor hacer (sic) inventario
+Obligación del tutor (sic) hacer inventario
 
 ###### Artículo 487.
 
@@ -4723,7 +4735,7 @@ Verificación de la partición
 
 ###### Artículo 581.
 
-El heredero o legatario no puede enajenar la parte de los bienes que le corresponde de la herencia sino después de verificada la partición.” (sic)
+El heredero o legatario no puede enajenar la parte de los bienes que le corresponde de la herencia sino después de verificada la partición.”
 
 Enajenación por parte del heredero
 
@@ -6343,7 +6355,7 @@ No afectación de la legitimación del descendiente
 
 ###### Artículo 803.
 
-La omisión de la madre de dar aviso de su embarazo al Juez no afecta los derechos descendientes (sic), quien debe ser considerado descendiente del cónyuge o concubinario muerto y de ser necesario, su filiación puede acreditarse mediante pruebas biológicas.
+La omisión de la madre de dar aviso de su embarazo al Juez no afecta los derechos descendientes, quien debe ser considerado descendiente del cónyuge o concubinario muerto y de ser necesario, su filiación puede acreditarse mediante pruebas biológicas.
 
 Alimentos de la viuda o concubina
 
@@ -6533,7 +6545,7 @@ Repudio de la herencia en perjuicio de acreedores
 
 Si el heredero repudia la herencia en perjuicio de sus acreedores, pueden éstos pedir al Juez que los autorice para aceptar en nombre de aquél, siempre que sus créditos sean anteriores a la repudiación.
 
-En el caso del párrafo anterior, la aceptación sólo aprovecha a los acreedores para el pago de sus créditos; pero si la herencia excede del importe de éstos, el exceso pertenecer (sic) a quien corresponda conforme a este Código, y en ningún caso al que hizo la renuncia.
+En el caso del párrafo anterior, la aceptación sólo aprovecha a los acreedores para el pago de sus créditos; pero si la herencia excede del importe de éstos, el exceso (sic) pertenecer a quien corresponda conforme a este Código, y en ningún caso al que hizo la renuncia.
 
 El que entre a la herencia repudiada, puede impedir que la acepten los acreedores, pagando a éstos los créditos que tienen contra el que la haya repudió (sic).
 
@@ -6575,7 +6587,7 @@ Obligación del heredero a respetar actos de administración
 
 El heredero está obligado a respetar los actos de administración que haya celebrado el albacea de la herencia a favor de tercero, siempre y cuando hubiere buena fe de ambas partes.
 
-Actos de enajenación de bienes hechos por la albacea favor (sic) de terceros
+Actos de enajenación de bienes hechos por la albacea (sic) favor de terceros
 
 ###### Artículo 839.
 
@@ -7234,3 +7246,51 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 12 DE JUNIO DE 2015.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, sin perjuicio de lo dispuesto en el artículo transitorio segundo.
+
+Segundo. Régimen de vigencia especial
+
+Las derogaciones de los artículos 67, 88 y 144 del Código de Familia para el Estado de Yucatán entrarán en vigor a los dos años contados a partir de la publicación de este decreto en el Diario Oficial del Gobierno del Estado de Yucatán. La reforma del artículo 7 de la Ley de Justicia para Adolescentes del Estado de Yucatán entrará en vigor el mismo día que lo haga el Código Nacional de Procedimientos Penales.
+
+Tercero. Abrogación
+
+Se abrogan la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el 8 de agosto de 2008.
+
+Cuarto. Expedición del programa
+
+El Gobernador deberá expedir el Programa Especial de Protección de Niñas, Niños y Adolescentes dentro de un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de este decreto.
+
+Quinto. Instalación del consejo
+
+El Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán deberá instalarse dentro de un plazo de noventa días naturales contados a partir de la entrada en vigor de este decreto.
+
+Sexto. Expedición de reglamento interno
+
+El Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán deberá expedir su reglamento interno dentro de un plazo de noventa días naturales contados a partir de su instalación.
+
+Séptimo. Modificación de regulación interna de la Prodemefa
+
+La Procuraduría de la Defensa del Menor y la Familia deberá adecuar su regulación interna en materia de procedimientos de adopción en los términos de lo dispuesto por este decreto dentro de un plazo de noventa días naturales contados a partir de su entrada en vigor.
+
+Octavo. Modificación de regulación interna de la Codhey
+
+La Comisión de Derechos Humanos del Estado de Yucatán deberá adecuar su regulación interna para establecer una unidad administrativa especializada en materia de niñas, niños y adolescentes, en los términos de lo dispuesto por el artículo 140 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+Noveno. Nombramiento del secretario ejecutivo
+
+El Gobernador deberá nombrar al Secretario Ejecutivo del Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán dentro de un plazo de treinta días naturales contados a partir de la entrada en vigor de este decreto.
+
+Décimo. Matrimonios entre adolescentes
+
+Los matrimonios entre adolescentes celebrados antes de la entrada en vigor de este decreto en los términos de los artículos que se derogan del Código de Familia para el Estado de Yucatán serán válidos para todos los efectos legales.
+
+Décimo primero. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
