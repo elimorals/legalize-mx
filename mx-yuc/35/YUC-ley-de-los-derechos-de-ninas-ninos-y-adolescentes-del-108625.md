@@ -1,0 +1,504 @@
+---
+title: "LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATAN"
+identifier: "YUC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108625"
+country: "mx"
+rank: "ley"
+publication_date: "2015-06-12"
+last_updated: "2015-06-12"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108625&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-yuc"
+scjn_id: "108625"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "32872 EDICION VESPERTINA"
+reform_count: "6"
+scjn_last_update: "2021-06-23"
+issue_date: "2015-05-29"
+state: "YUC"
+---
+# LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATAN
+
+LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el viernes 12 de junio de 2015.
+
+Rolando Rodrigo Zapata Bello, Gobernador del Estado de Yucatán, con fundamento en los artículos 38 y 60 de la Constitución Política del Estado de Yucatán; y 14, fracciones VII y IX, del Código de la Administración Pública de Yucatán, a sus habitantes hago saber, que el H. Congreso del Estado de Yucatán se ha servido dirigirme el siguiente decreto:
+
+“EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 29 Y 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA, 18 Y 34 FRACCIÓN XIII DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, 117 Y 118 DEL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, TODOS DEL ESTADO DE YUCATÁN, EMITE LA SIGUIENTE;
+
+E X P O S I C I Ó N D E M O T I V O S:…
+
+En tal virtud, con fundamento en los artículos 30 fracción V de la Constitución Política, 18 y 43 fracción XIV, inciso b) de la Ley de Gobierno del Poder Legislativo y 71 fracción II del Reglamento de la Ley de Gobierno del Poder Legislativo, todos del Estado de Yucatán, sometemos a consideración del Pleno del Congreso del Estado de Yucatán, el siguiente proyecto de:
+
+D E C R E T O:
+
+Que contiene la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán; y modifica el Código de Familia; la Ley del Registro Civil, Ley para Prevenir y Eliminar la Discriminación; la Ley de Salud; la Ley de Educación; la Ley para la Protección de los Derechos de las Personas con Discapacidad; el Código de Procedimientos Familiares; el Código Civil; el Código de Procedimientos Civiles; la Ley para la Prevención, Combate y Erradicación de la Violencia en el Entorno Escolar, y la Ley de Justicia para Adolescentes, todos los ordenamientos del Estado de Yucatán.
+
+Artículo primero. Se expide la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán
+
+### Capítulo I. Disposiciones generales
+
+###### Artículo 1.
+
+Objeto
+
+Esta ley es de orden público, interés social y observancia general en el territorio del estado de Yucatán y tiene por objeto regular la competencia de las autoridades locales en materia de protección de los derechos de niñas, niños y adolescentes, en los términos de lo establecido por la Ley General de los Derechos de Niñas, Niños y Adolescentes, así como la coordinación entre estas.
+
+###### Artículo 2.
+
+Definiciones
+
+Para efectos de esta ley se entenderá por:
+
+I. Adolescente: la persona entre doce y menos de dieciocho años de edad.
+
+II. Ley general: la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+III. Niña o niño: la persona menor de doce años de edad.
+
+###### Artículo 3.
+
+Criterio de consideración
+
+Cuando exista duda de si una persona es mayor o menor de doce años se presumirá que es niña o niño. Cuando exista duda de si una persona es mayor o menor de dieciocho años se presumirá que es adolescente.
+
+###### Artículo 4.
+
+Principios rectores
+
+En la protección de los derechos de niñas, niños y adolescentes se observarán los principios rectores del interés superior de la niñez; la universalidad, interdependencia, indivisibilidad, progresividad e integralidad de los derechos de niñas, niños y adolescentes; la igualdad; la no discriminación; la inclusión; el derecho a la vida, a la supervivencia y al desarrollo; la participación; la interculturalidad; la corresponsabilidad en la legislación, políticas públicas, actividades administrativas, económicas y culturales; la autonomía progresiva; el principio pro persona; el acceso a una vida libre de violencia; y la accesibilidad.
+
+###### Artículo 5.
+
+Obligación de las autoridades
+
+Las autoridades estatales y municipales, en el desempeño de sus funciones, deberán promover, respetar, proteger y garantizar los derechos que la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, la Constitución Política del Estado de Yucatán, la ley general, esta ley y otras disposiciones legales y normativas aplicables confieren a las niñas, niños y adolescentes del estado de Yucatán, para lo cual tomarán en cuenta las condiciones particulares de estos en los diferentes grupos de población, a fin de proteger el ejercicio igualitario de todos sus derechos.
+
+Las autoridades estatales y municipales coordinarán esfuerzos, entre sí y con la federación, para el cumplimiento del objeto de la ley general y de esta ley.
+
+Las autoridades estatales y municipales deberán incorporar en sus proyectos de presupuesto la asignación de los recursos que permitan dar cumplimiento a las atribuciones establecidas en la ley general y en esta ley.
+
+###### Artículo 6.
+
+Obligaciones de los padres o tutores
+
+Los padres o las personas que ejerzan la patria potestad, tutela o guarda y custodia, así como las demás personas que por razón de sus funciones o actividades tengan bajo su cuidado a niñas, niños y adolescentes tendrán las obligaciones establecidas en el artículo 103 de la ley general.
+
+###### Artículo 7.
+
+Interpretación de la ley
+
+En la aplicación de la ley a falta de disposición expresa en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales, en la Constitución Política del Estado de Yucatán, en la ley general, en esta ley o en otras disposiciones legales aplicables, se estará a los principios generales que deriven de dichos ordenamientos y a falta de estos, a los principios generales del derecho, privilegiando en todo momento los principios rectores a que se refiere el artículo 4 de esta ley.
+
+###### Artículo 8.
+
+Derechos
+
+Las niñas, niños y adolescentes del estado de Yucatán gozarán de los derechos establecidos en la ley general.
+
+### Capítulo II. Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán
+
+#### Sección primera. Generalidades
+
+###### Artículo 9.
+
+Sistema estatal
+
+El Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán es el conjunto de normas, instituciones, instrumentos y acciones que tienen por objeto garantizar los derechos que la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, la Constitución Política del Estado de Yucatán, la ley general, esta ley y otras disposiciones legales y normativas aplicables confieren a las niñas, niños y adolescentes del estado de Yucatán.
+
+###### Artículo 10.
+
+Elementos del sistema estatal
+
+El Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán se integra con los siguientes elementos:
+
+I. La Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+II. El Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+III. El Programa Especial de Protección de Niñas, Niños y Adolescentes.
+
+###### Artículo 11.
+
+Sistemas municipales
+
+Los ayuntamientos deberán establecer consejos municipales de protección integral de los derechos de niñas, niños y adolescentes, los cuales contarán con una secretaría ejecutiva, estarán presididas por el presidente municipal y se integrarán por las dependencias y entidades vinculadas con la protección de los derechos de niñas, niños y adolescentes. Las Secretarías ejecutivas garantizarán la participación de los sectores social y privado, así como de las niñas, niños y adolescentes en los consejos municipales.
+
+Los ayuntamientos contarán con unidades administrativas especializadas de primer contacto con niñas, niños o adolescentes, las cuales coordinarán a los servidores públicos municipales cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos de niñas, niños y adolescentes, a efecto de que se de vista a la Procuraduría de Protección de la Defensa del Menor y la Familia, de forma inmediata.
+
+#### Sección segunda. Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán
+
+###### Artículo 12.
+
+Consejo estatal
+
+El Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán es la instancia coordinadora del sistema estatal, encargada de establecer instrumentos, políticas, procedimientos, servicios y acciones de protección de los derechos de niñas, niños y adolescentes en el estado de Yucatán.
+
+###### Artículo 13.
+
+Atribuciones del consejo estatal
+
+El Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán tendrá las atribuciones establecidas en el artículo 137 de la ley general y las demás que establezca su reglamento interno.
+
+###### Artículo 14.
+
+Integración del consejo estatal
+
+El Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán se integrará de la siguiente manera:
+
+I. El Gobernador, quien lo presidirá.
+
+II. El Secretario General de Gobierno.
+
+III. El Secretario de Administración y Finanzas.
+
+IV. El Secretario de Salud.
+
+V. El Secretario de Educación.
+
+VI. El Secretario de Desarrollo Social.
+
+VII. El Fiscal General.
+
+VIII. El Secretario del Trabajo y Previsión Social.
+
+IX. El Director General del Sistema para el Desarrollo Integral de la Familia en Yucatán.
+
+X. Un diputado que el Congreso del Estado de Yucatán designe.
+
+XI. El Presidente del Tribunal Superior de Justicia del Estado de Yucatán.
+
+XII. El Presidente de la Comisión de Derechos Humanos del Estado de Yucatán, previa aceptación de la invitación que le realice el presidente.
+
+XIII. Tres representantes de organizaciones de la sociedad civil de reconocido prestigio y trayectoria en la temática de referencia, previa convocatoria, los cuales durarán dos años en su cargo.
+
+El Presidente del Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, al concluir el periodo para el cual fueron designados, podrá ratificar a los representantes de la sociedad civil para desempeñar su cargo por un periodo más.
+
+###### Artículo 15.
+
+Participación de niñas, niños y adolescentes
+
+El Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán deberá implementar mecanismos de consulta a niñas, niños y adolescentes, así como considerar la opinión y las necesidades de estos en el diseño de políticas para la protección de sus derechos y en la resolución de los asuntos que les afecten.
+
+El Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán difundirá anualmente un informe sobre los mecanismos de consulta implementados, la valoración de las opiniones e información obtenida y su impacto en el desempeño de las atribuciones que le corresponden.
+
+###### Artículo 16.
+
+Secretaría ejecutiva
+
+El Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán contará con una secretaría ejecutiva, la cual tendrá a su cargo la coordinación operativa del sistema estatal y estará adscrita al Sistema para el Desarrollo Integral de la Familia en Yucatán.
+
+La Secretaría Ejecutiva del Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán tendrá las siguientes atribuciones:
+
+I. Coordinar las acciones y políticas públicas, entre las dependencias y entidades competentes de la Administración Pública estatal, que deriven de la ley general y esta ley.
+
+II. Elaborar el anteproyecto del Programa Especial de Protección de Niñas, Niños y Adolescentes y someterlo a la aprobación del Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+III. Dar seguimiento y monitorear la ejecución del Programa Especial de Protección de Niñas, Niños y Adolescentes.
+
+IV. Elaborar y mantener actualizado el Manual de Organización y Operación del Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+V. Compilar y resguardar los acuerdos del Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán y los instrumentos jurídicos que deriven de estos, así como expedir certificaciones respecto de los documentos bajo su resguardo.
+
+VI. Coordinar la ejecución y dar seguimiento al cumplimiento de los acuerdos del Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+VII. Celebrar convenios y establecer vínculos de coordinación, colaboración y concertación con instancias públicas y privadas, nacionales e internacionales, para el cumplimiento del objeto del Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+VIII. Integrar y mantener actualizado un sistema de información que permita monitorear los progresos alcanzados en el cumplimiento de los derechos de niñas, niños y adolescentes en el estado, el cual incluya indicadores cualitativos y cuantitativos; así como coordinar la información de dicho registro con la del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes en los términos de los convenios que se celebren para tal efecto.
+
+IX. Realizar y promover estudios e investigaciones para fortalecer las acciones en favor de la atención, defensa y protección de niñas, niños y adolescentes con el fin de difundirlos a las autoridades competentes y a los sectores social y privado para su incorporación en los programas respectivos.
+
+X. Difundir entre las autoridades correspondientes y la población en general los resultados de los trabajos que realice, así como toda aquella información pública que tienda a la generación, desarrollo y consolidación de perspectiva en la materia, desagregada por lo menos, en razón de edad, sexo, escolaridad y discapacidad.
+
+XI. Asesorar a las dependencias y entidades de la Administración Pública estatal y a los ayuntamientos de los municipios que lo soliciten respecto del cumplimiento de las atribuciones que les confieren la ley general y esta ley.
+
+XII. Presentar informes trimestrales al Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán sobre el desempeño de sus atribuciones.
+
+XIII. Rendir ante el Sistema Nacional de Protección Integral de los Derechos de Niñas, Niños y Adolescentes un informe anual sobre los avances estatales en la materia.
+
+XIV. Impulsar la formación y actualización de acuerdos interinstitucionales de coordinación entre las diferentes instancias de gobierno.
+
+XV. Revisar y valorar la eficacia de las acciones, las políticas públicas, los programas estatales en la materia, con base en los resultados de las evaluaciones que al efecto se realicen.
+
+XVI. Fungir como instancia de interlocución con organizaciones de la sociedad civil, academia y demás instituciones de los sectores social y privado.
+
+#### Sección tercera. Programa Especial de Protección de Niñas, Niños y Adolescentes
+
+###### Artículo 17.
+
+Elaboración
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, y la sociedad civil organizada participarán en la elaboración y ejecución del Programa Especial de Protección de Niñas, Niños y Adolescentes a través del Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+###### Artículo 18.
+
+Contenido
+
+El Gobernador deberá expedir el Programa Especial de Protección de Niñas, Niños y Adolescentes, el cual contendrá políticas, objetivos, estrategias y líneas de acción prioritarias en materia de ejercicio, respeto, promoción y protección integral de los derechos de niñas, niños y adolescentes, así como los demás elementos establecidos en el artículo 37 de la Ley de Planeación para el Desarrollo del Estado de Yucatán y estará alineado al Programa Nacional de Protección de Niñas, Niños y Adolescentes.
+
+El Gobernador podrá prescindir de la expedición del Programa Especial de Protección de Niñas, Niños y Adolescentes siempre que los elementos señalados en el párrafo anterior estén incluidos en otro programa de mediano plazo.
+
+###### Artículo 19.
+
+Programas municipales
+
+Los ayuntamientos deberán expedir programas municipales de protección de niñas, niños y adolescentes, los cuales estarán alineados al Programa Especial de Protección de Niñas, Niños y Adolescentes.
+
+### Capítulo III. Autoridades estatales y distribución de competencias
+
+###### Artículo 20.
+
+Competencia concurrente
+
+Las autoridades estatales y municipales colaborarán con la Federación en el desempeño de las atribuciones establecidas en el artículo 116 de la ley general.
+
+###### Artículo 21.
+
+Atribuciones comunes
+
+Las dependencias y entidades estatales, en el ámbito de su competencia y para el cumplimiento del objeto de esta ley, tendrán las siguientes atribuciones comunes:
+
+I. Respetar y proteger los derechos de niñas, niños y adolescentes y asegurar que las violaciones a estos sean atendidas en forma preferente.
+
+II. Implementar medidas de inclusión plena y realizar las acciones afirmativas para garantizar a niñas, niños y adolescentes la igualdad de oportunidades y de trato, así como a no ser discriminados.
+
+III. Disponer e implementar los mecanismos que garanticen la participación permanente y activa de niñas, niños y adolescentes en las decisiones que se tomen en relación con los asuntos que les afecten.
+
+IV. Proporcionar a la Secretaría Ejecutiva del Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán la información necesaria para integrarla al sistema de información en la materia.
+
+V. Desarrollar los mecanismos necesarios para dar cumplimiento a lo establecido en la ley general y en esta ley.
+
+VI. Coadyuvar con las instituciones públicas o privadas dedicadas a la atención de niñas, niños y adolescentes.
+
+###### Artículo 22.
+
+Atribuciones de la Secretaría de Salud
+
+La Secretaría de Salud, para el cumplimiento del objeto de esta ley, tendrá las siguientes atribuciones:
+
+I. Vigilar que en la prestación de los servicios de salud se dé prioridad a la atención de niñas, niños y adolescentes y se respeten sus derechos.
+
+II. Proporcionar asesoría en materia de asistencia médica, psicológica y atención preventiva integrada a la salud a los padres o las personas que ejerzan la patria potestad, tutela o guardia y custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad, en relación con las obligaciones que establecen la ley general y esta ley.
+
+III. Realizar acciones para que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna, así como la prevención de embarazos, higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
+
+IV. Promover la accesibilidad, inclusión y medidas para la prevención, atención y rehabilitación de niñas, niños y adolescentes con discapacidad en los términos de la Ley para la Protección de los Derechos de las Personas con Discapacidad del Estado de Yucatán.
+
+V. Establecer medidas tendientes a prevenir embarazos de niñas y adolescentes.
+
+VI. Garantizar que las niñas, niños y adolescentes tengan acceso a agua potable para su consumo e higiene.
+
+VII. Garantizar un enfoque integral, transversal y con perspectiva de derechos humanos, en el diseño y la instrumentación de políticas y programas de gobierno.
+
+VIII. Establecer mecanismos transparentes de seguimiento y evaluación de la implementación de políticas, programas gubernamentales, legislación y compromisos derivados de tratados internacionales en la materia.
+
+IX. Las demás establecidas en el artículo 50 de la ley general.
+
+###### Artículo 23.
+
+Atribuciones de la Secretaría de Educación
+
+La Secretaría de Educación, para el cumplimiento del objeto de esta ley, tendrá las siguientes atribuciones:
+
+I. Impulsar el conocimiento de los derechos de niñas, niños y adolescentes, así como la cultura de respeto, promoción y protección de estos, de conformidad con los principios rectores de la ley general y esta ley.
+
+II. Garantizar la educación de calidad, la igualdad en el acceso y permanencia a esta y combatir el rezago educativo.
+
+III. Promover programas y proyectos de atención, educación, capacitación, investigación y cultura de los derechos humanos de niñas, niños y adolescentes.
+
+IV. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación.
+
+V. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo.
+
+VI. Las demás establecidas en el artículo 57 de la ley general.
+
+###### Artículo 24.
+
+Atribuciones de la Secretaría de Desarrollo Social
+
+La Secretaría de Desarrollo Social, para el cumplimiento del objeto de esta ley, tendrá las siguientes atribuciones:
+
+I. Diseñar, implementar y evaluar programas, políticas públicas y acciones afirmativas tendientes a eliminar la discriminación y los obstáculos que impiden la igualdad de acceso y de oportunidades a la alimentación, a la educación y a la atención médica entre niñas, niños y adolescentes.
+
+II. Adoptar medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten sus derechos.
+
+###### Artículo 25.
+
+Sistema para el Desarrollo Integral de la Familia en Yucatán
+
+El Sistema para el Desarrollo Integral de la Familia en Yucatán, para el cumplimiento del objeto de esta ley, tendrá las siguientes atribuciones:
+
+I. Proteger, en el ámbito de su competencia, los derechos de niñas, niños y adolescentes cuando estos se encuentren restringidos o vulnerados en términos de la ley general, de esta ley y demás disposiciones legales y normativas aplicables.
+
+II. Promover la colaboración de las autoridades estatales con las federales y municipales para el diseño y ejecución de mecanismos de protección y restitución de los derechos de niñas, niños y adolescentes.
+
+III. Celebrar convenios de colaboración con los sistemas para el desarrollo integral de la familia federal, estatales y municipales, así como con organizaciones e instituciones de los sectores público, privado y social, en materia de protección de los derechos de niñas, niños y adolescentes.
+
+IV. Promover la capacitación y profesionalización del personal de instituciones vinculadas con la protección y restitución de los derechos de niñas, niños y adolescentes, así como apoyar el desarrollo de estudios e investigaciones en la materia.
+
+V. Brindar asesoría y colaboración técnica y administrativa, en materia de protección y restitución de los derechos de niñas, niños y adolescentes, a los ayuntamientos de los municipios del estado que lo soliciten.
+
+VI. Instrumentar campañas de difusión para concientizar a la sociedad sobre el respeto de los derechos de niñas, niños y adolescentes y promover su protección integral.
+
+VII. Brindar atención y protección a las niñas, niños y adolescentes migrantes en los términos del capítulo décimo noveno del título segundo de la ley general.
+
+VIII. Fomentar la creación de instituciones públicas y privadas, así como fortalecer las existentes, para la atención de niñas, niños y adolescentes.
+
+###### Artículo 26.
+
+Procuraduría de la Defensa del Menor y la Familia del Estado de Yucatán
+
+La Procuraduría de la Defensa del Menor y la Familia del Estado de Yucatán, para el cumplimiento del objeto de esta ley, tendrá las siguientes atribuciones:
+
+I. Promover ante las autoridades administrativas competentes la imposición de sanciones a los medios de comunicación locales por la violación de los derechos de niñas, niños y adolescentes.
+
+II. Promover acciones colectivas ante los órganos jurisdiccionales competentes, con objeto de que estos ordenen a los medios de comunicación locales que se abstengan de difundir información o contenidos que pongan en peligro de forma individual o colectiva los derechos de niñas, niños y adolescentes y, en su caso, reparen los daños que ocasionen.
+
+III. Solicitar a las autoridades competentes la protección y restitución integral de los derechos de niñas, niños y adolescentes de acuerdo con el procedimiento establecido en el artículo 123 de la ley general.
+
+IV. Representar a niñas, niños y adolescentes ante órganos jurisdiccionales o autoridades administrativas cuando carezcan de representación, esta sea deficiente o exista un conflicto de intereses entre quienes la ejerzan y la niña, niño o adolescente.
+
+V. Impulsar el fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de sus padres o las personas que ejerzan la patria potestad, tutela o guarda y custodia.
+
+VI. Realizar las acciones necesarias para la localización y reunificación de la familia de niñas, niños y adolescentes, cuando hayan sido privados de ella, siempre y cuando no sea contrario a su interés superior.
+
+VII. Establecer las normas y los mecanismos necesarios para facilitar la localización y reunificación de la familia de niñas, niños y adolescentes, cuando hayan sido privados de ella, siempre que no sea contrario a su interés superior.
+
+VIII. Coadyuvar en la localización de niñas, niños y adolescentes sustraídos, trasladados o retenidos ilícitamente.
+
+IX. Colaborar en la búsqueda, localización y obtención de la información necesaria para acreditar o restablecer la identidad de niñas, niños y adolescentes.
+
+X. Las demás establecidas en el artículo 122 de la ley general.
+
+###### Artículo 27.
+
+Ayuntamientos
+
+Los ayuntamientos, para el cumplimiento del objeto de la ley general y de esta ley, tendrán las atribuciones de competencia municipal establecidas en el artículo 119 de la ley general.
+
+### Capítulo IV. Infracciones y sanciones
+
+###### Artículo 28.
+
+Infracciones
+
+Se considerarán como infracciones a esta ley las siguientes conductas:
+
+I. Respecto de servidores públicos estatales y municipales, personal de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de aquéllas, así como centros de asistencia social o de cualquier otra índole de jurisdicción estatal, cuando en el ejercicio de sus funciones o actividades o con motivo de ellas conozcan de la violación de algún derecho a alguna niña, niño o adolescente e indebidamente se abstengan de hacerlo del conocimiento de la autoridad competente.
+
+II. Respecto de servidores públicos estatales, personal de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de aquéllas, así como centros de asistencia social o de cualquier otra índole de jurisdicción estatal, cuando propicien, toleren o se abstengan de impedir, cualquier tipo de abuso, acoso, agresión, daño, intimidación, violencia, maltrato o perjuicio de que tengan conocimiento, en contra de niñas, niños y adolescentes.
+
+III. Respecto de profesionales en trabajo social o psicología que intervengan en procedimientos de adopción, cuando no cuenten con la autorización del Sistema para el Desarrollo Integral de la Familia en Yucatán a que se refiere el artículo 31 de la ley general, en los casos de competencia de dicho sistema.
+
+IV. Respecto de los padres o las personas que ejercen la patria potestad, tutela o guarda y custodia, así como las demás personas que por razón de sus funciones o actividades tengan bajo su cuidado a niñas, niños o adolescentes, cuando incumplan las obligaciones establecidas en el artículo 103 de la ley general.
+
+V. Las demás que contravengan lo establecido en la ley general, de competencia estatal, y en esta ley.
+
+###### Artículo 29.
+
+Denuncia popular
+
+Toda persona, grupo social, organizaciones no gubernamentales, asociaciones o sociedades podrán denunciar ante la Procuraduría de la Defensa del Menor y la Familia las conductas establecidas en el artículo anterior así como todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos que establecen la ley general y esta ley, u otros ordenamientos legales a favor de niñas, niños y adolescentes.
+
+###### Artículo 30.
+
+Sanciones
+
+La Procuraduría de la Defensa del Menor y la Familia, además de solicitar la protección y restitución integral de los derechos de niñas, niños y adolescentes, en términos del artículo 123 de la ley general, sancionará a las personas que incurran en las infracciones establecidas en el artículo 31 con multa de hasta mil quinientos días de salario mínimo general vigente en el estado de Yucatán.
+
+En casos de reincidencia, la multa podrá aplicarse hasta por el doble de lo previsto en el párrafo anterior.
+
+Los infractores en términos de esta ley no podrán participar en el funcionamiento ni las actividades de las instituciones estatales que brinden atención a niñas, niños o adolescentes.
+
+###### Artículo 31.
+
+Aspectos a considerar en la imposición de sanciones
+
+Para la determinación de la sanción, la Procuraduría de la Defensa del Menor y la Familia deberá considerar los siguientes aspectos:
+
+I. La gravedad de la infracción.
+
+II. El carácter intencional o no de la acción u omisión constitutiva de la infracción.
+
+III. Los daños que se hubieren producido o puedan producirse.
+
+IV. La condición económica del infractor.
+
+V. La reincidencia del infractor.
+
+###### Artículo 32.
+
+Recurso administrativo de revisión
+
+Contra las sanciones impuestas en cumplimiento de esta ley procederá el recurso administrativo de revisión en los términos de lo establecido en el título noveno de la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán.
+
+## Artículos transitorios
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, sin perjuicio de lo dispuesto en el artículo transitorio segundo.
+
+Segundo. Régimen de vigencia especial
+
+Las derogaciones de los artículos 67, 88 y 144 del Código de Familia para el Estado de Yucatán entrarán en vigor a los dos años contados a partir de la publicación de este decreto en el Diario Oficial del Gobierno del Estado de Yucatán. La reforma del artículo 7 de la Ley de Justicia para Adolescentes del Estado de Yucatán entrará en vigor el mismo día que lo haga el Código Nacional de Procedimientos Penales.
+
+Tercero. Abrogación
+
+Se abrogan la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el 8 de agosto de 2008.
+
+Cuarto. Expedición del programa
+
+El Gobernador deberá expedir el Programa Especial de Protección de Niñas, Niños y Adolescentes dentro de un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de este decreto.
+
+Quinto. Instalación del consejo
+
+El Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán deberá instalarse dentro de un plazo de noventa días naturales contados a partir de la entrada en vigor de este decreto.
+
+Sexto. Expedición de reglamento interno
+
+El Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán deberá expedir su reglamento interno dentro de un plazo de noventa días naturales contados a partir de su instalación.
+
+Séptimo. Modificación de regulación interna de la Prodemefa
+
+La Procuraduría de la Defensa del Menor y la Familia deberá adecuar su regulación interna en materia de procedimientos de adopción en los términos de lo dispuesto por este decreto dentro de un plazo de noventa días naturales contados a partir de su entrada en vigor.
+
+Octavo. Modificación de regulación interna de la Codhey
+
+La Comisión de Derechos Humanos del Estado de Yucatán deberá adecuar su regulación interna para establecer una unidad administrativa especializada en materia de niñas, niños y adolescentes, en los términos de lo dispuesto por el artículo 140 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+Noveno. Nombramiento del secretario ejecutivo
+
+El Gobernador deberá nombrar al Secretario Ejecutivo del Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán dentro de un plazo de treinta días naturales contados a partir de la entrada en vigor de este decreto.
+
+Décimo. Matrimonios entre adolescentes
+
+Los matrimonios entre adolescentes celebrados antes de la entrada en vigor de este decreto en los términos de los artículos que se derogan del Código de Familia para el Estado de Yucatán serán válidos para todos los efectos legales.
+
+Décimo primero. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO EN LA CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS A LOS VEINTIOCHO DIAS DEL MES DE MAYO DEL AÑO DOS MIL QUINCE.- PRESIDENTE DIPUTADO LUIS ALBERTO ECHEVERRÍA NAVARRO.- SECRETARIA DIPUTADA ADRIANA CECILIA MARTÍN SAUMA.- SECRETARIA DIPUTADA LEANDRA MOGUEL LIZAMA. RÚBRICA.”
+
+Y, por tanto, mando se imprima, publique y circule para su conocimiento y debido cumplimiento.
+
+Se expide este decreto en la sede del Poder Ejecutivo, en Mérida, a 29 de mayo de 2015.
+
+(RÚBRICA)
+
+Rolando Rodrigo Zapata Bello
+
+Gobernador del Estado de Yucatán
+
+(RÚBRICA)
+
+Roberto Antonio Rodríguez Asaf
+
+Secretario General de Gobierno
