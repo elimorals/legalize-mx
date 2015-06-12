@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "2012-11-30"
+last_updated: "2015-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JUNIO DE 2015.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -100,15 +100,17 @@ b) Cuando declarada una huelga en iguales términos de licitud por la mayoría d
 
 Las disposiciones de esta Ley son de orden público por lo que no producirá efecto legal, ni impedirá el goce y el ejercicio de los derechos, sea escrita o verbal, la estipulación que establezca:
 
-I. Trabajos para niños menores de catorce años;
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2015)</small>
+
+I. Trabajos para menores de quince años;
 
 II. Una jornada mayor que la permitida por esta Ley;
 
 III. Una jornada inhumana por lo notoriamente excesiva, dada la índole del trabajo, a juicio de la Junta de Conciliación y Arbitraje;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2015)</small>
 
-IV. Horas extraordinarias de trabajo para los menores de dieciséis años;
+IV. Horas extraordinarias de trabajo para los menores de dieciocho años;
 
 V. Un salario inferior al mínimo;
 
@@ -268,23 +270,35 @@ La prestación de un trabajo a que se refiere el párrafo primero y el contrato 
 
 Se presumen la existencia del contrato y de la relación de trabajo entre el que presta un trabajo personal y el que lo recibe.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2015)</small>
+
 ###### Artículo 22.
 
-Queda prohibida la utilización del trabajo de los menores de catorce años y de los mayores de esta edad y menores de dieciséis que no hayan terminado su educación obligatoria, salvo los casos de excepción que apruebe la autoridad correspondiente en que a su juicio haya compatibilidad entre los estudios y el trabajo.
+Los mayores de quince años pueden prestar libremente sus servicios con las limitaciones establecidas en esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+Los mayores de quince y menores de dieciséis necesitan autorización de sus padres o tutores y a falta de ellos, del sindicato a que pertenezcan, de la Junta de Conciliación y Arbitraje, del Inspector del Trabajo o de la Autoridad Política.
 
-Artículo 22 bis. Cuando las autoridades del trabajo detecten trabajando a un menor de 14 años fuera del círculo familiar, ordenará que de inmediato cese en sus labores. Al patrón que incurra en esta conducta se le sancionará con la pena establecida en el artículo 995 Bis de esta Ley.
+Los menores trabajadores deben percibir el pago de sus salarios y ejercitar, en su caso, las acciones que les correspondan.
 
-En caso de que el menor no estuviere devengando el salario que perciba un trabajador que preste los mismos servicios, el patrón deberá resarcirle las diferencias.
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2015)</small>
 
-Se entenderá por círculo familiar a los parientes del menor, por consanguinidad, ascendientes o colaterales; hasta el segundo grado.
+###### Artículo 22 Bis.
+
+Queda prohibido el trabajo de menores de quince años; no podrá utilizarse el trabajo de mayores de esta edad y menores de dieciocho años que no hayan terminado su educación básica obligatoria, salvo los casos que apruebe la autoridad laboral correspondiente en que a su juicio haya compatibilidad entre los estudios y el trabajo.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2015)</small>
 
 ###### Artículo 23.
 
-Los mayores de dieciséis años pueden prestar libremente sus servicios, con las limitaciones establecidas en esta Ley. Los mayores de catorce y menores de dieciséis necesitan autorización de sus padres o tutores y a falta de ellos, del sindicato a que pertenezcan, de la Junta de Conciliación y Arbitraje, del Inspector del Trabajo o de la Autoridad Política.
+Cuando las autoridades del trabajo detecten trabajando a un menor de quince años fuera del círculo familiar, ordenará que de inmediato cese en sus labores. Al patrón que incurra en esta conducta se le sancionará con la pena establecida en el artículo 995 Bis de esta Ley.
 
-Los menores trabajadores pueden percibir el pago de sus salarios y ejercitar las acciones que les correspondan.
+En caso de que el menor no estuviere devengando el salario que perciba un trabajador que preste los mismos servicios, el patrón deberá resarcirle las diferencias.
+
+Queda prohibido el trabajo de menores de dieciocho años dentro del círculo familiar en cualquier tipo de actividad que resulte peligrosa para su salud, su seguridad o su moralidad, o que afecte el ejercicio de sus derechos y, con ello, su desarrollo integral.
+
+Se entenderá por círculo familiar a los parientes del menor, por consanguinidad, ascendientes o colaterales; hasta el segundo grado.
+
+Cuando los menores de dieciocho años realicen alguna actividad productiva de autoconsumo, bajo la dirección de integrantes de su círculo familiar o tutores, éstos tendrán la obligación de respetar y proteger los derechos humanos de los menores y brindar el apoyo y las facilidades necesarias para que los mismos concluyan, por lo menos, su educación básica obligatoria.
 
 ###### Artículo 24.
 
@@ -704,7 +718,7 @@ VI. Sufrir perjuicios causados maliciosamente por el patrón, en sus herramienta
 
 VII. La existencia de un peligro grave para la seguridad o salud del trabajador o de su familia, ya sea por carecer de condiciones higiénicas el establecimiento o porque no se cumplan las medidas preventivas y de seguridad que las leyes establezcan;
 
-VIII. Comprometer el patrón, con su imprudencia o descuido inexcusables, la seguridad del establecimiento o de las personas que se encuentren en él; y (sic)
+VIII. Comprometer el patrón, con su imprudencia o descuido inexcusables, la seguridad del establecimiento o de las personas que se encuentren en él; y
 
 > <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -1360,7 +1374,7 @@ XXIII. Hacer las deducciones de las cuotas para la constitución y fomento de so
 
 XXIII Bis. Hacer las deducciones y pagos correspondientes a las pensiones alimenticias previstas en la fracción V del artículo 110 y colaborar al efecto con la autoridad jurisdiccional competente;
 
-XXIV. Permitir la inspección y vigilancia que las autoridades del trabajo practiquen en su establecimiento para cerciorarse del cumplimiento de las normas de trabajo y darles los informes que a ese efecto sean indispensables, cuando lo soliciten. Los patrones podrán exigir a los inspectores o comisionados que les muestren sus credenciales y les den a conocer las instrucciones que tengan; y (sic)
+XXIV. Permitir la inspección y vigilancia que las autoridades del trabajo practiquen en su establecimiento para cerciorarse del cumplimiento de las normas de trabajo y darles los informes que a ese efecto sean indispensables, cuando lo soliciten. Los patrones podrán exigir a los inspectores o comisionados que les muestren sus credenciales y les den a conocer las instrucciones que tengan; y
 
 XXV. Contribuir al fomento de las actividades culturales y del deporte entre sus trabajadores y proporcionarles los equipos y útiles indispensables.
 
@@ -2120,47 +2134,65 @@ El trabajo de los menores queda sujeto a vigilancia y protección especiales de 
 
 La Secretaría del Trabajo y Previsión Social en coordinación con las autoridades del trabajo en las entidades federativas, desarrollarán programas que permitan identificar y erradicar el trabajo infantil.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2015)</small>
 
 ###### Artículo 174.
 
-Los mayores de catorce y menores de dieciséis años, independientemente de contar con la autorización de Ley para trabajar, deberán obtener un certificado médico que acredite su aptitud para el trabajo y someterse a los exámenes médicos que periódicamente ordenen las autoridades laborales correspondientes. Sin estos requisitos, ningún patrón podrá utilizar sus servicios.
+Los mayores de quince y menores de dieciocho años, deberán obtener un certificado médico que acredite su aptitud para el trabajo y someterse a los exámenes médicos que periódicamente ordenen las autoridades laborales correspondientes. Sin estos requisitos, ningún patrón podrá utilizar sus servicios.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2015)</small>
 
 ###### Artículo 175.
 
-Queda prohibida la utilización del trabajo de los menores:
+Queda prohibida la utilización del trabajo de los menores de dieciocho años:
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 I. En establecimientos no industriales después de las diez de la noche;
 
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
 II. En expendios de bebidas embriagantes de consumo inmediato, cantinas o tabernas y centros de vicio;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 III. En trabajos susceptibles de afectar su moralidad o buenas costumbres; y
 
-IV. En labores peligrosas o insalubres que, por la naturaleza del trabajo, por las condiciones físicas, químicas o biológicas del medio en que se presta, o por la composición de la materia prima que se utiliza, son capaces de actuar sobre la vida, el desarrollo y la salud física y mental de los menores.
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2015)</small>
 
-En caso de declaratoria de contingencia sanitaria y siempre que así lo determine la autoridad competente, no podrá utilizarse el trabajo de menores de dieciséis años. Los trabajadores que se encuentren en este supuesto, no sufrirán perjuicio en su salario, prestaciones y derechos.
+IV. En labores peligrosas o insalubres que, por la naturaleza del trabajo, por las condiciones físicas, químicas o biológicas del medio en que se presta, o por la composición de la materia prima que se utiliza, son capaces de actuar sobre la vida, el desarrollo y la salud física y mental de los menores, en términos de lo previsto en el artículo 176 de esta Ley.
 
-Cuando con motivo de la declaratoria de contingencia sanitaria se ordene la suspensión general de labores, a los menores de dieciséis años les será aplicable lo dispuesto por el artículo 429, fracción IV de esta Ley.
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2015)</small>
+
+En caso de declaratoria de contingencia sanitaria y siempre que así lo determine la autoridad competente, no podrá utilizarse el trabajo de menores de dieciocho años. Los trabajadores que se encuentren en este supuesto, no sufrirán perjuicio en su salario, prestaciones y derechos.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2015)</small>
+
+Cuando con motivo de la declaratoria de contingencia sanitaria se ordene la suspensión general de labores, a los menores de dieciocho años les será aplicable lo dispuesto por el artículo 429, fracción IV de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2015)</small>
+
+###### Artículo 175 Bis.
+
+Para los efectos de este capítulo, no se considerará trabajo las actividades que bajo la supervisión, el cuidado y la responsabilidad de los padres, tutores o quienes ejerzan la patria potestad, realicen los menores de quince años relacionadas con la creación artística, el desarrollo científico, deportivo o de talento, la ejecución musical o la interpretación artística en cualquiera de sus manifestaciones, cuando se sujeten a las siguientes reglas:
 
 > <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
-Artículo 175 bis. Para los efectos de este capítulo, no se considerará trabajo las actividades que bajo la supervisión, el cuidado y la responsabilidad de los padres, tutores o quienes ejerzan la patria potestad, realicen los menores de catorce años relacionadas con la creación artística, el desarrollo científico, deportivo o de talento, la ejecución musical o la interpretación artística en cualquiera de sus manifestaciones, cuando se sujeten a las siguientes reglas:
-
 a) La relación establecida con el solicitante deberá constar por escrito y contendrá el consentimiento expreso que en nombre del menor manifiesten los padres, tutores o quienes ejerzan la patria potestad, así como la incorporación del compromiso que asuma el solicitante de respetar a favor del mismo menor los derechos que la Constitución, los convenios internacionales y las leyes federales y locales reconozcan a favor de la niñez;
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 b) Las actividades que realice el menor no podrán interferir con su educación, esparcimiento y recreación en los términos que establezca el derecho aplicable, tampoco implicarán riesgo para su integridad o salud y en todo caso, incentivarán el desarrollo de sus habilidades y talentos; y
 
-c) Las contraprestaciones que reciba el menor por las actividades que realice, nunca serán menores a las que por concepto de salario recibiría un mayor de catorce y menor de dieciséis años.
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2015)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+c) Las contraprestaciones que reciba el menor por las actividades que realice nunca serán menores a las que por concepto de salario recibiría un mayor de quince y menor de dieciocho años.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2015)</small>
 
 ###### Artículo 176.
 
-Para los efectos del artículo 175, además de lo que dispongan las Leyes, reglamentos y normas aplicables, se considerarán como labores peligrosas o insalubres, las siguientes:
-
-A. Tratándose de menores de catorce a dieciséis años de edad, aquellos que impliquen:
+Para los efectos del artículo 175, además de lo que dispongan las Leyes, reglamentos y normas aplicables, se considerarán, como labores peligrosas o insalubres, las que impliquen:
 
 I. Exposición a:
 
@@ -2174,43 +2206,47 @@ I. Exposición a:
 
 II. Labores:
 
-1. De rescate, salvamento y brigadas contra siniestros.
+1. Nocturnas industriales o el trabajo después de las veintidós horas.
 
-2. En altura o espacios confinados.
+2. De rescate, salvamento y brigadas contra siniestros.
 
-3. En las cuales se operen equipos y procesos críticos donde se manejen sustancias químicas peligrosas que puedan ocasionar accidentes mayores.
+3. En altura o espacios confinados.
 
-4. De soldadura y corte.
+4. En las cuales se operen equipos y procesos críticos donde se manejen sustancias químicas peligrosas que puedan ocasionar accidentes mayores.
 
-5. En condiciones climáticas extremas en campo abierto, que los expongan a deshidratación, golpe de calor, hipotermia o congelación.
+5. De soldadura y corte.
 
-6. En vialidades con amplio volumen de tránsito vehicular (vías primarias).
+6. En condiciones climáticas extremas en campo abierto, que los expongan a deshidratación, golpe de calor, hipotermia o congelación.
 
-7. Agrícolas, forestales, de aserrado, silvícolas, de caza y pesca.
+7. En vialidades con amplio volumen de tránsito vehicular (vías primarias).
 
-8. Productivas de las industrias gasera, del cemento, minera, del hierro y el acero, petrolera y nuclear.
+8. Agrícolas, forestales, de aserrado, silvícolas, de caza y pesca.
 
-9. Productivas de las industrias ladrillera, vidriera, cerámica y cerera.
+9. Productivas de las industrias gasera, del cemento, minera, del hierro y el acero, petrolera y nuclear.
 
-10. Productivas de la industria tabacalera.
+10. Productivas de las industrias ladrillera, vidriera, cerámica y cerera.
 
-11. Relacionadas con la generación, transmisión y distribución de electricidad y el mantenimiento de instalaciones eléctricas.
+11. Productivas de la industria tabacalera.
 
-12. En obras de construcción.
+12. Relacionadas con la generación, transmisión y distribución de electricidad y el mantenimiento de instalaciones eléctricas.
 
-13. Que tengan responsabilidad directa sobre el cuidado de personas o la custodia de bienes y valores.
+13. En obras de construcción.
 
-14. Con alto grado de dificultad; en apremio de tiempo; que demandan alta responsabilidad, o que requieren de concentración y atención sostenidas.
+14. Que tengan responsabilidad directa sobre el cuidado de personas o la custodia de bienes y valores.
 
-15. Relativas a la operación, revisión, mantenimiento y pruebas de recipientes sujetos a presión, recipientes criogénicos y generadores de vapor o calderas.
+15. Con alto grado de dificultad; en apremio de tiempo; que demandan alta responsabilidad, o que requieren de concentración y atención sostenidas.
 
-16. En buques.
+16. Relativas a la operación, revisión, mantenimiento y pruebas de recipientes sujetos a presión, recipientes criogénicos y generadores de vapor o calderas.
 
-17. Submarinas y subterráneas.
+17. En buques.
 
-18. Trabajos ambulantes, salvo autorización especial de la Inspección de Trabajo.
+18. En minas.
 
-III. Esfuerzo físico moderado y pesado; cargas superiores a los siete kilogramos; posturas forzadas, o con movimientos repetitivos por períodos prolongados, que alteren su sistema músculo-esquelético.
+19. Submarinas y subterráneas.
+
+20. Trabajos ambulantes, salvo autorización especial de la Inspección de Trabajo.
+
+III. Esfuerzo físico moderado y pesado; cargas superiores a los siete kilogramos; posturas forzadas, o con movimientos repetitivos por períodos prolongados, que alteren su sistema musculo-esquelético.
 
 IV. Manejo, transporte, almacenamiento o despacho de sustancias químicas peligrosas.
 
@@ -2220,41 +2256,35 @@ VI. Manejo de vehículos motorizados, incluido su mantenimiento mecánico y elé
 
 VII. Uso de herramientas manuales punzo cortantes.
 
-B. Tratándose de menores de dieciocho años de edad, aquellos que impliquen:
-
-I. Trabajos nocturnos industriales.
-
-II. Exposición a:
-
-a. Fauna peligrosa o flora nociva.
-
-b. Radiaciones ionizantes.
-
-III. Actividades en calidad de pañoleros y fogoneros en buques.
-
-IV. Manejo, transporte, almacenamiento o despacho de sustancias químicas peligrosas.
-
-V. Trabajos en minas.
+Las actividades previstas en este artículo, para los menores de dieciocho años y mayores de dieciséis años de edad, se sujetarán a los términos y condiciones consagrados en la Constitución Política de los Estados Unidos Mexicanos, en las leyes y los Tratados Internacionales de los que el Estado Mexicano sea parte.
 
 ###### Artículo 177.
 
 La jornada de trabajo de los menores de dieciséis años no podrá exceder de seis horas diarias y deberán dividirse en períodos máximos de tres horas. Entre los distintos períodos de la jornada, disfrutarán de reposos de una hora por lo menos.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2015)</small>
+
 ###### Artículo 178.
 
-Queda prohibida la utilización del trabajo de los menores de dieciséis años en horas extraordinarias y en los días domingos y de descanso obligatorio. En caso de violación de esta prohibición, las horas extraordinarias se pagarán con un doscientos por ciento más del salario que corresponda a las horas de la jornada, y el salario de los días domingos y de descanso obligatorio, de conformidad con lo dispuesto en los artículos 73 y 75.
+Queda prohibida la utilización del trabajo de los menores de dieciocho años, en horas extraordinarias y en los días domingos y de descanso obligatorio. En caso de violación de esta prohibición, las horas extraordinarias se pagarán con un doscientos por ciento más del salario que corresponda a las horas de la jornada, y el salario de los días domingos y de descanso obligatorio, de conformidad con lo dispuesto en los artículos 73 y 75.
+
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2015)</small>
 
 ###### Artículo 179.
 
-Los menores de dieciséis años disfrutarán de un período anual de vacaciones pagadas de dieciocho días laborables, por lo menos.
+Los menores de dieciocho años, disfrutarán de un período anual de vacaciones pagadas de dieciocho días laborables, por lo menos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2015)</small>
 
 ###### Artículo 180.
 
-Los patrones que tengan a su servicio menores de dieciséis años están obligados a:
+Los patrones que tengan a su servicio menores de dieciocho años, están obligados a:
 
 I. Exigir que se les exhiban los certificados médicos que acrediten que están aptos para el trabajo;
 
-II. Llevar un registro de inspección especial, con indicación de la fecha de su nacimiento, clase de trabajo, horario, salario y demás condiciones generales de trabajo;
+> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2015)</small>
+
+II. Llevar y tener a disposición de la autoridad competente, registros y documentación comprobatoria, en donde se indique el nombre y apellidos, la fecha de nacimiento o la edad de los menores de dieciocho años empleados por ellos, clase de trabajo, horario, salario y demás condiciones generales de trabajo; así mismo, dichos registros deberán incluir la información correspondiente de aquéllos que reciban orientación, capacitación o formación profesional en sus empresas.
 
 > <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1978)</small>
 
@@ -2320,9 +2350,11 @@ Los trabajadores de los buques deberán tener la calidad de mexicanos por nacimi
 
 Los capitanes, entendiéndose como tales a quienes ejercen el mando directo de un buque, tienen con respecto a los demás trabajadores la calidad de representantes del patrón.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2015)</small>
+
 ###### Artículo 191.
 
-Queda prohibido el trabajo a que se refiere este capítulo a los menores de quince años y el de los menores de dieciocho en calidad de pañoleros o fogoneros.
+Queda prohibido el trabajo a que se refiere este capítulo a los menores de dieciséis años y el de los menores de dieciocho en calidad de pañoleros o fogoneros.
 
 ###### Artículo 192.
 
@@ -2866,9 +2898,11 @@ Las disposiciones de este capítulo se aplican al trabajo de maniobras de servic
 
 En los contratos colectivos se determinarán las maniobras objeto de los mismos, distinguiéndose de las que correspondan a otros trabajadores.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2015)</small>
+
 ###### Artículo 267.
 
-No podrá utilizarse el trabajo de los menores de dieciséis años.
+No podrá utilizarse el trabajo de los menores de dieciocho años.
 
 ###### Artículo 268.
 
@@ -3834,9 +3868,11 @@ I. Los formados por patrones de una o varias ramas de actividades; y
 
 II. Nacionales, los formados por patrones de una o varias ramas de actividades de distintas Entidades Federativas.
 
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2015)</small>
+
 ###### Artículo 362.
 
-Pueden formar parte de los sindicatos los trabajadores mayores de catorce años.
+Pueden formar parte de los sindicatos, los trabajadores mayores de quince años.
 
 ###### Artículo 363.
 
@@ -3988,13 +4024,15 @@ XIV. Normas para la liquidación del patrimonio sindical; y
 
 XV. Las demás normas que apruebe la asamblea.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2015)</small>
+
 ###### Artículo 372.
 
-No podrán formar parte de la directiva de los sindicatos:
+No podrán formar parte de la directiva de los sindicatos los trabajadores extranjeros.
 
-I. Los trabajadores menores de dieciséis años; y
+I. (DEROGADA, D.O.F. 12 DE JUNIO DE 2015)
 
-II. Los extranjeros.
+II. (DEROGADA, D.O.F. 12 DE JUNIO DE 2015)
 
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -4478,7 +4516,7 @@ III. El exceso de producción con relación a sus condiciones económicas y a la
 
 IV. La incosteabilidad, de naturaleza temporal, notoria y manifiesta de la explotación;
 
-V. La falta de fondos y la imposibilidad de obtenerlos para la prosecución normal de los trabajos, si se comprueba plenamente por el patrón; y (sic)
+V. La falta de fondos y la imposibilidad de obtenerlos para la prosecución normal de los trabajos, si se comprueba plenamente por el patrón; y
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -4500,7 +4538,7 @@ En los casos señalados en el artículo 427, se observarán las normas siguiente
 
 I. Si se trata de la fracción I, el patrón o su representante, dará aviso de la suspensión a la Junta de Conciliación y Arbitraje, para que ésta, previo el procedimiento consignado en el artículo 892 y siguientes, la apruebe o desapruebe;
 
-II. Si se trata de las fracciones III a V, el patrón, previamente a la suspensión, deberá obtener la autorización de la Junta de Conciliación y Arbitraje, de conformidad con las disposiciones para conflictos colectivos de naturaleza económica; y (sic)
+II. Si se trata de las fracciones III a V, el patrón, previamente a la suspensión, deberá obtener la autorización de la Junta de Conciliación y Arbitraje, de conformidad con las disposiciones para conflictos colectivos de naturaleza económica; y
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -10800,11 +10838,13 @@ En los convenios en que se dé por terminada la relación de trabajo deberá des
 
 Los convenios celebrados en los términos de este artículo serán aprobados por la Junta de Conciliación y Arbitraje competente, cuando no afecten derechos de los trabajadores, y tendrán efectos definitivos, por lo que se elevarán a la categoría de laudo ejecutoriado.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2015)</small>
 
 ###### Artículo 988.
 
-Los trabajadores mayores de catorce años, pero menores de dieciséis, que no hayan terminado su educación obligatoria, podrán ocurrir ante la Junta de Conciliación y Arbitraje competente solicitando autorización para trabajar, y acompañarán los documentos que estimen convenientes, para establecer la compatibilidad entre los estudios y el trabajo.
+Los trabajadores mayores de quince años, pero menores de dieciocho, que no hayan terminado su educación básica obligatoria, podrán ocurrir ante la Junta de Conciliación y Arbitraje competente solicitando autorización para trabajar, y acompañarán los documentos que estimen convenientes, para establecer la compatibilidad entre los estudios y el trabajo.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 La Junta de Conciliación y Arbitraje, inmediatamente de recibida la solicitud, acordará lo conducente.
 
@@ -10892,9 +10932,11 @@ VII. De 250 a 2500 veces el salario mínimo general, al patrón que viole las pr
 
 Al patrón que viole las prohibiciones contenidas en el artículo 133 fracciones XIV y XV, y las normas que rigen el trabajo de las mujeres y de los menores, se le impondrá una multa equivalente de 50 a 2500 veces el salario mínimo general.
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2015)</small>
 
-Artículo 995 bis. Al patrón que infrinja lo dispuesto en el artículo 22 Bis, primer párrafo de esta Ley, se le castigará con prisión de 1 a 4 años y multa de 250 a 5000 veces el salario mínimo general.
+###### Artículo 995 Bis.
+
+Al patrón que infrinja lo dispuesto en el artículo 23, primer párrafo de esta Ley, se le castigará con prisión de 1 a 4 años y multa de 250 a 5000 veces el salario mínimo general.
 
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -11349,3 +11391,7 @@ Décimo Tercero. La Junta Federal de Conciliación y Arbitraje deberá establece
 Los peritos médicos en materia de medicina del trabajo contarán con un periodo de seis meses, a partir de que la Junta Federal de Conciliación y Arbitraje establezca el registro a que se refiere el párrafo anterior, para obtener el registro correspondiente; vencido el plazo señalado, la Junta no recibirá los peritajes que emitan peritos que carezcan de registro.
 
 Décimo Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto de egresos aprobado, por lo que no se requerirán recursos adicionales en el presente ejercicio fiscal, ni se incrementará el presupuesto regularizable.
+
+D.O.F. 12 DE JUNIO DE 2015.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
