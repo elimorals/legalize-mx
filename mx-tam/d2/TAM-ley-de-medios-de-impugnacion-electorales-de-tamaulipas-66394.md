@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-medios-de-impugnacion-electorales-de-tamaulipas-66394"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-29"
-last_updated: "2009-09-10"
+last_updated: "2015-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DE MEDIOS DE IMPUGNACION ELECTORALES DE TAMAULIPAS
 
-LEY DE MEDIOS DE IMPUGNACION ELECTORALES DE TAMAULIPAS
+LEY DE MEDIOS DE IMPUGNACIÓN ELECTORALES DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2015.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 29 de diciembre de 2008.
 
@@ -33,7 +33,7 @@ Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decr
 
 Al margen un sello que dice.- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
 
-LA SEXAGESIMA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 58 FRACCION I DE LA CONSTITUCION POLlTICA LOCAL Y 119 DE LA LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+LA SEXAGESIMA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 58 FRACCION I DE LA CONSTITUCION POLITICA LOCAL Y 119 DE LA LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
 D E C R E T O No. LX-653
 
@@ -57,29 +57,41 @@ Para los efectos de esta Ley, se entenderá por:
 
 I. Constitución: la Constitución Política del Estado de Tamaulipas;
 
-II. Código: el Código Electoral para el Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+
+II. Ley Electoral: La Ley Electoral del Estado de Tamaulipas;
 
 III. Instituto: el Instituto Electoral de Tamaulipas;
 
 IV. Consejo General: el Consejo General del Instituto Electoral de Tamaulipas;
 
-V. Tribunal: Tribunal Electoral del Poder Judicial del Estado; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
 
-VI. Pleno: El Pleno del Tribunal Electoral del Poder Judicial del Estado.
+V. Tribunal: Tribunal Electoral del Estado; y
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+
+VI. Pleno: El Pleno del Tribunal Electoral del Estado.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
 ###### Artículo 2.
 
-Para la resolución de los medios de impugnación previstos en esta Ley, las normas se interpretarán conforme a los criterios gramatical, sistemático y funcional. A falta de disposición expresa, se aplicarán los principios generales del derecho.
+Para la resolución de los medios de impugnación previstos en esta Ley, las normas se interpretarán conforme a los artículos 1º y 14 de la Constitución Política de los Estados Unidos Mexicanos, los tratados o instrumentos internacionales celebrados por el Estado Mexicano, así como los criterios gramatical, sistemático y funcional.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
 ###### Artículo 3.
 
-La conservación de la libertad de decisión política y el derecho a la auto organización de los partidos políticos, deberá ser considerada, al momento de resolver las impugnaciones relativas a los asuntos internos de los partidos políticos.
+En la interpretación sobre la resolución de conflictos de asuntos internos de los partidos políticos, se deberá tomar en cuenta el carácter de entidad de interés público de éstos como organización de ciudadanos, así como su libertad de decisión interna, el derecho a la auto organización de los mismos y el ejercicio de los derechos de sus militantes.
 
 ###### Artículo 4.
 
 Los medios de impugnación regulados por esta Ley tienen por objeto garantizar:
 
-I. Que todos los actos y resoluciones de las autoridades electorales se sujeten invariablemente, según corresponda, al principio de legalidad; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+
+I. Que todos los actos y resoluciones de las autoridades electorales y de consulta popular se sujeten invariablemente, según corresponda, al principio de legalidad;
 
 II. La definitividad de los distintos actos y etapas de los procesos electorales.
 
@@ -117,17 +129,19 @@ Los plazos se computarán de momento a momento, y si están señalados por días
 
 Cuando el acto o resolución reclamada en el medio de impugnación respectivo no se produzca durante el desarrollo de un proceso electoral, el cómputo de los plazos se hará contando solamente los días hábiles, debiendo entenderse por tales todos los días a excepción de los sábados, domingos y los inhábiles en términos de ley.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
 ###### Artículo 12.
 
-Los medios de impugnación previstos en esta ley deberán presentarse dentro de los cuatro días contados a partir del día siguiente a aquél en que se tuvo conocimiento o se hubiese notificado el acto o resolución impugnado.
+Los medios de impugnación previstos en esta ley deberán presentarse dentro de los cuatro días contados a partir del día siguiente a aquél en que se tuvo conocimiento o se hubiese notificado el acto, omisión o resolución impugnado.
 
 ### CAPITULO III. De los Requisitos del Medio de Impugnación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2015)</small>
+
 ###### Artículo 13.
 
-Los medios de impugnación deberán presentarse por escrito ante la autoridad responsable del acto o resolución impugnado, y deberán cumplir con los requisitos siguientes:
+Los medios de impugnación deberán presentarse por escrito ante la autoridad responsable del acto, omisión o resolución impugnado, y deberán cumplir con los requisitos siguientes:
 
 I. Hacer constar el nombre del actor;
 
@@ -135,9 +149,13 @@ II. Señalar domicilio en Ciudad Victoria para oír y recibir notificaciones y t
 
 III. Acompañar el o los documentos que sean necesarios para acreditar la personería del promovente;
 
-IV. Identificar el acto o resolución impugnado y al responsable del mismo;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
 
-V. Mencionar de manera expresa y clara los hechos en que se basa la impugnación, los agravios que cause el acto o resolución impugnado, y los preceptos presuntamente violados;
+IV. Identificar el acto, omisión o resolución impugnado y al responsable del mismo;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+
+V. Mencionar de manera expresa y clara los hechos en que se basa la impugnación, los agravios que cause el acto, omisión o resolución impugnado, y los preceptos presuntamente violados.
 
 VI. Ofrecer y aportar las pruebas dentro de los plazos para la interposición o presentación de los medios de impugnación previstos en la presente Ley; mencionar, en su caso, las que se habrán de aportar dentro de dichos plazos; y las que deban requerirse, cuando el promovente justifique que oportunamente las solicitó por escrito al órgano competente, y éstas no le hubieren sido entregadas; y
 
@@ -161,7 +179,9 @@ IV. Su notoria improcedencia se derive de las disposiciones del presente ordenam
 
 V. No existan hechos y agravios expuestos o habiéndose señalado sólo hechos, de ellos no se pueda deducir agravio alguno;
 
-VI. El actor no tenga interés jurídico;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+
+VI. El actor no tenga interés jurídico, legítimo, colectivo o difuso, según el caso;
 
 VII. Se pretendan impugnar actos o resoluciones que se hayan consumado de un modo irreparable;
 
@@ -193,9 +213,13 @@ Son partes en el procedimiento de los medios de impugnación las siguientes:
 
 I. El actor, que será quien estando legitimado, lo presente por sí mismo o, en su caso, a través de representante, en los términos de este ordenamiento;
 
-II. La autoridad responsable, sea administrativa o partidista, que haya realizado el acto o emitido la resolución que se impugna,
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
 
-III. El tercero interesado, que es el ciudadano, el partido político, la coalición, el candidato, la organización de ciudadanos, según corresponda, con interés legítimo en la causa derivado de un derecho incompatible con el que pretende el actor.
+II. La autoridad responsable, sea administrativa o partidista, que haya realizado la omisión, el acto, o emitido la resolución que se impugna;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2015)</small>
+
+III. El tercero interesado, que es el ciudadano, el partido político, la coalición, el precandidato o candidato el aspirante, el candidato independiente o la organización de ciudadanos, según corresponda, con interés legítimo en la causa derivado de un derecho incompatible con el que pretende el actor.
 
 Para los efectos de las fracciones I y III de este artículo, se entenderá por promovente al actor que presente un medio de impugnación, y por compareciente el tercero interesado que presente un escrito, ya sea que lo hagan por sí mismos o a través de la persona que los represente, siempre y cuando justifiquen plenamente la legitimación para ello.
 
@@ -225,9 +249,17 @@ b) Los miembros del comité estatal, distritales, municipales, o sus equivalente
 
 c) Los que tengan facultades de representación conforme a sus estatutos o mediante poder otorgado en escritura pública por los funcionarios del partido facultados para ello;
 
-II. Los ciudadanos y los candidatos por su propio derecho, sin que sea admisible representación alguna. Los candidatos deberán acompañar el original o copia certificada del documento en el que conste su registro; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
 
-III. Las organizaciones de ciudadanos, a través de sus representantes legitimos, de conformidad con la legislación aplicable.
+II. Los ciudadanos, los precandidatos, los candidatos, los aspirantes y candidatos independientes por su propio derecho o a través de la persona que los represente. Los candidatos de partido político o coalición y los candidatos independientes, deberán acompañar el original o copia certificada del documento en el que conste su registro, y los aspirantes a candidatos independientes, así como los precandidatos de los partidos políticos acompañarán el documento que acredite esa calidad, salvo que en el acto impugnado ya se les reconozca como tales;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+
+III. Las organizaciones de ciudadanos, a través de sus representantes legítimos, de conformidad con la legislación aplicable; y
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
+
+IV. Las coaliciones a través de su representante designado en términos del convenio de coalición respectivo.
 
 ### CAPITULO VII. De las Pruebas
 
@@ -319,6 +351,10 @@ Es competente para conocer de los medios de impugnación previstos en esta Ley, 
 
 El órgano electoral o partidista que reciba un medio de impugnación en contra de sus propios actos o resoluciones lo hará del conocimiento público mediante cédula que fijará en los estrados, a más tardar, el día siguiente de su recepción.
 
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+Una vez realizado lo anterior, se publicará de inmediato, en la página de internet del Instituto, tanto la cédula y razón de la fecha y hora de su fijación, como una copia del escrito de impugnación.
+
 ###### Artículo 32.
 
 Dentro de las 72 horas siguientes a la de su fijación, los terceros interesados podrán presentar los escritos que consideren pertinentes, mismos que deberán cumplir los requisitos siguientes:
@@ -327,13 +363,19 @@ I. Presentarse ante la autoridad u órgano responsable del acto o resolución im
 
 II. Hacer constar el nombre del tercero interesado;
 
-III. Señalar domicilio para recibir notificaciones; si el promovente omite señalar domicilio para recibirlos, se practicarán por estrados;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
 
-IV. Exhibir los documentos que acrediten la personalidad del promovente, cuando no la tenga reconocida ante el órgano electoral responsable;
+III. Señalar domicilio para recibir notificaciones; si el compareciente omite señalar domicilio para recibirlos (sic), se practicarán por estrados;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+
+IV. Exhibir los documentos que acrediten la personalidad del compareciente cuando no la tenga reconocida ante el partido político u órgano electoral responsable;
 
 V. Precisar la razón del interés jurídico en que se funden y las pretensiones concretas del compareciente;
 
-VI. Ofrecer las pruebas que junto con el escrito se aportan y solicitar las que deban requerirse cuando el promovente justifique que habiéndolas solicitado por escrito y oportunamente al órgano competente, no le fueron entregadas; cuando la controversia verse exclusivamente sobre puntos de derecho, no será necesario cumplir con este requisito; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+
+VI. Ofrecer las pruebas que junto con el escrito se aportan y precisar las que deban requerirse cuando el compareciente justifique que habiéndolas solicitado por escrito y oportunamente al órgano competente, no le fueron entregadas, señalando la autoridad o partido político que posee esa información, para que el Tribunal les requiera directamente los documentos o pruebas que deban obrar en el expediente. Cuando la controversia verse exclusivamente sobre puntos de derecho, no será necesario cumplir con este requisito; y
 
 VII. Hacer constar el nombre y la firma autógrafa del compareciente.
 
@@ -345,9 +387,11 @@ Cuando algún órgano del Instituto reciba un medio de impugnación por el cual 
 
 El incumplimiento de esta obligación o de la establecida en el artículo 31 será sancionado en los términos previstos en las leyes aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2015)</small>
+
 ###### Artículo 34.
 
-Dentro de las cuarenta y ocho horas siguientes al vencimiento del plazo de fijación a que se refiere el artículo 31, la autoridad o el órgano partidario responsable del acto o resolución impugnado deberá remitir al Tribunal lo siguiente:
+Dentro de las cuarenta y ocho horas siguientes al vencimiento del plazo de fijación a que se refiere el artículo 31, la autoridad o el órgano partidario responsable del acto, omisión o resolución impugnado deberá remitir al Tribunal lo siguiente:
 
 I. El escrito original mediante el cual se presenta el medio de impugnación, las pruebas y la demás documentación que se hayan acompañado al mismo;
 
@@ -361,7 +405,9 @@ V. Un informe circunstanciado que debe rendir la autoridad u órgano partidista 
 
 a) En su caso, la mención de si el promovente o el compareciente, tienen reconocida su personería;
 
-b) Los motivos y fundamentos jurídicos que considere pertinentes para sostener la constitucionalidad o legalidad del acto o resolución impugnado, y
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+b) Los motivos y fundamentos jurídicos que considere pertinentes para sostener la constitucionalidad o legalidad del acto, omisión o resolución impugnado, y
 
 c) La firma del funcionario que lo rinde.
 
@@ -381,11 +427,15 @@ III. Cuando el promovente incumpla los requisitos señalados en las fracciones I
 
 IV. En cuanto al informe circunstanciado, si la autoridad u órgano partidista no lo envía dentro del plazo señalado en el artículo 34 de esta Ley, el medio de impugnación se resolverá con los elementos que obren en autos y se tendrán como presuntivamente ciertos los hechos constitutivos de la violación reclamada, salvo prueba en contrario; lo anterior, sin perjuicio de la sanción que deba ser impuesta de conformidad con el presente ordenamiento y las leyes aplicables;
 
-V. El magistrado ponente, en el proyecto de sentencia del medio de impugnación que corresponda, propondrá al Pleno tener por no presentado el escrito del tercero interesado, cuando se presente en forma extemporánea o no cumpla con los requisitos del articulo 32 de este ordenamiento;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+
+V. El magistrado ponente, en el proyecto de sentencia del medio de impugnación que corresponda, propondrá al Pleno tener por no presentado el escrito del tercero interesado, cuando se presente en forma extemporánea o no cumpla con los requisitos previstos en las fracciones I, II, IV, V y VII del artículo 32 de este ordenamiento;
 
 VI. Una vez analizado, si el medio de impugnación reúne todos los requisitos establecidos por este ordenamiento, el magistrado ponente, dictará el auto de admisión que corresponda;
 
-VII. Dentro de los 6 días siguientes al auto de admisión, los expedientes se deberán poner en estado de resolución y se deberá dictar sentencia; en estos casos, se ordenará fijar copia de los autos respectivos en los estrados;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+
+VII. Dentro de los 6 días siguientes al auto de admisión, los expedientes se deberán poner en estado de resolución y se deberá dictar sentencia; en estos casos, se ordenará fijar copia de los autos respectivos en los estrados y en la página de internet del Tribunal;
 
 VIII. El Magistrado ponente procederá a formular el proyecto de sentencia de sobreseimiento o de fondo, según sea el caso, y lo someterá a la consideración del Pleno;
 
@@ -397,9 +447,11 @@ X. Las audiencias y todas las actuaciones que deban realizarse con motivo de la 
 
 Si la autoridad u órgano partidista responsable incumple con la obligación prevista en el artículo 31 u omite enviar cualquiera de los documentos a que se refiere el primer párrafo del artículo 34, ambos de esta Ley, se requerirá de inmediato su cumplimiento o remisión fijando un plazo de veinticuatro horas para tal efecto, bajo apercibimiento que de no cumplir o no enviar oportunamente los documentos respectivos, el Presidente del Pleno tomará las medidas necesarias para su cumplimiento, aplicando, en su caso, el medio de apremio que juzgue pertinente.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+
 ###### Artículo 37.
 
-El Presidente del Pleno podrá requerir o solicitar a las autoridades, federales, estatales y municipales, así como a los partidos políticos, candidatos, agrupaciones, organizaciones políticas y particulares, cualquier elemento o documentación que obrando en su poder, pueda servir para la sustanciación y resolución de los medios de impugnación.
+El Presidente del Pleno podrá requerir o solicitar a las autoridades, federales, estatales y municipales, así como a los partidos políticos, a sus precandidatos o candidatos, a los aspirantes o a los candidatos independientes a cargos de elección popular, y a las agrupaciones, organizaciones políticas y particulares, cualquier elemento o documentación que obrando en su poder, pueda servir para la sustanciación y resolución de los medios de impugnación.
 
 ### CAPITULO XI. De la Acumulación
 
@@ -427,13 +479,19 @@ V. Los puntos resolutivos; y
 
 VI. En su caso, el plazo para su cumplimiento.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+
 ###### Artículo 40.
+
+Al resolver los medios de impugnación establecidos en esta ley, el Tribunal suplirá las deficiencias u omisiones en los agravios cuando los mismos puedan ser deducidos claramente de los hechos expuestos.
 
 En todo caso, si se omite señalar los preceptos jurídicos presuntamente violados o se citan de manera equivocada, el Tribunal Electoral resolverá tomando en consideración los que debieron ser invocados o los que resulten aplicables al caso concreto.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+
 ###### Artículo 41.
 
-El Presidente del Pleno ordenará que se publique en los estrados respectivos, por lo menos con veinticuatro horas de antelación, la lista de los asuntos que serán ventilados en cada sesión, o en un plazo menor cuando se trate de asuntos de urgente resolución.
+El Presidente del Pleno ordenará que se publique en los estrados respectivos y en la página de internet del Tribunal, por lo menos con veinticuatro horas de antelación, la lista de los asuntos que serán ventilados en cada sesión, o en un plazo menor cuando se trate de asuntos de urgente resolución.
 
 ###### Artículo 42.
 
@@ -449,13 +507,25 @@ IV. En las sesiones públicas sólo podrán participar y hacer uso de la palabra
 
 En casos extraordinarios el Pleno podrá diferir la resolución de un asunto listado.
 
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+El Tribunal pondrá a disposición del público el audio y video de cada sesión en su página de internet.
+
 ###### Artículo 43.
 
 Las sentencias de fondo serán definitivas e inatacables y podrán tener los efectos siguientes:
 
-I. Confirmar el acto o resolución impugnado; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
 
-II. Revocar o modificar el acto o resolución impugnado y restituir al promovente en el uso y goce del derecho político-electoral que le haya sido violado.
+I. Confirmar el acto o resolución impugnado;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+
+II. Revocar o modificar el acto o resolución impugnado y restituir al promovente en el uso y goce del derecho político-electoral que le haya sido violado; y
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
+
+III. Ordenar se subsane la omisión impugnada, o declarar que en el caso no existe omisión.
 
 ### CAPITULO XIII. De las Notificaciones
 
@@ -503,9 +573,11 @@ En todos los casos, al realizar una notificación personal, se dejará en el exp
 
 Cuando los promoventes o comparecientes omitan señalar domicilio, éste no resulte cierto o no se encuentre ubicado en Ciudad Victoria, la notificación se practicará por estrados.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+
 ###### Artículo 52.
 
-Los estrados son los lugares públicos destinados en el Tribunal, para que sean colocadas las copias de los escritos de los medios de impugnación, de los terceros interesados y de los coadyuvantes, así como de los autos, acuerdos, resoluciones y sentencias que les recaigan, para su notificación y publicidad.
+Los estrados son los lugares públicos destinados en el Tribunal, para que sean colocadas las copias de los escritos de los medios de impugnación, de los terceros interesados, de los coadyuvantes así como de los autos, acuerdos, resoluciones y sentencias que les recaigan, para su notificación y publicidad, salvo que la notificación deba ser personal; sin perjuicio de su publicación en la página de internet del Tribunal.
 
 ###### Artículo 53.
 
@@ -519,9 +591,11 @@ Exclusivamente en casos urgentes o extraordinarios y a juicio de quienes presida
 
 Se realizarán mediante oficio las notificaciones que sean ordenadas a los órganos y autoridades responsables.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+
 ###### Artículo 56.
 
-El partido político cuyo representante haya estado presente en la sesión del órgano electoral que actuó o resolvió, se entenderá automáticamente notificado del acto o resolución correspondiente para todos los efectos legales.
+El partido político, coalición, aspirante o candidato independiente cuyo representante haya estado presente en la sesión del órgano electoral que actuó o resolvió, se entenderá automáticamente notificado del acto o resolución correspondiente para todos los efectos legales. Cuando en la misma se haya dado lectura íntegra al documento en que conste el acuerdo o resolución impugnado o se haya proporcionado copia certificada o equivalente a dichos representantes.
 
 ###### Artículo 57.
 
@@ -533,7 +607,9 @@ Las sentencias, serán notificadas acompañando copia certificada de la resoluci
 
 I. Al actor, personalmente, por correo certificado o por telegrama;
 
-II. Al órgano del Instituto que hubiere realizado el acto o dictado la resolución impugnada, por oficio;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+
+II. A la autoridad responsable que se le atribuye la omisión, acto o dictado la resolución impugnada, por oficio;
 
 III. A los terceros interesados, personalmente; y
 
@@ -577,15 +653,19 @@ IV. El juicio para dirimir conflictos o diferencias laborales entre el Instituto
 
 ## TITULO SEGUNDO. Del Recurso de Apelación
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+
 ###### Artículo 61.
 
-El recurso de apelación será procedente en todo tiempo, para impugnar los actos o resoluciones de cualquiera de los órganos del Instituto que causen un perjuicio al partido político o a quien que teniendo interés jurídico lo promueva, y que no sean materia de recurso de inconformidad.
+El recurso de apelación será procedente en todo tiempo, para impugnar los actos, omisiones o resoluciones de cualquiera de los órganos del Instituto que causen un perjuicio al partido político o a quien que teniendo interés jurídico lo promueva y que no sean materia de recurso de inconformidad.
 
 ###### Artículo 62.
 
 Podrán interponer el recurso de apelación:
 
-I. Los partidos políticos locales y nacionales, a través de sus representantes legítimos;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+
+I. Los partidos políticos locales y nacionales a través de sus representantes legítimos; y los candidatos independientes, por sí o a través de sus representantes;
 
 II. Los ciudadanos, por su propio derecho, sin que sea admisible representación alguna; cuando no se trate de los supuestos establecidos para el recurso de defensa de derechos político-electorales del ciudadano;
 
@@ -609,7 +689,9 @@ El recurso de defensa de derechos político-electorales del ciudadano, será pro
 
 El recurso podrá ser promovido por el ciudadano cuando:
 
-I. Considere que se violó su derecho politico-electoral de ser votado cuando, habiendo sido propuesto por un partido político, le sea negado indebidamente su registro como candidato a un cargo de elección popular;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+
+I. Considere que se violó su derecho político-electoral de ser votado cuando, habiendo sido propuesto por un partido político, o habiendo acreditado la representatividad necesaria para contender de manera independiente, le sea negado indebidamente su registro como candidato a un cargo de elección popular;
 
 II. Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de los derechos político-electorales a que se refiere el artículo anterior; y
 
@@ -641,7 +723,9 @@ El escrito de protesta por los resultados contenidos en el acta de escrutinio y 
 
 El escrito de protesta deberá contener:
 
-I. El partido político que lo presenta;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+
+I. El partido político o candidato independiente que lo presenta;
 
 II. La mesa directiva de casilla ante la que se presenta;
 
@@ -651,7 +735,9 @@ IV. La causa por la que se presenta la protesta;
 
 V. Cuando se presente ante el Consejo Distrital o Municipal que corresponda, se deberán identificar, además, individualmente cada una de las casillas que se protestan cumpliendo con lo señalado en las fracciones III y IV anteriores; y
 
-VI. El nombre, la firma y cargo partidario de quien lo presenta.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+
+VI. El nombre, la firma y cargo partidario, o el nombre y firma del representante o candidato independiente que lo presenta.
 
 El escrito de protesta deberá presentarse ante la mesa directiva de casilla al término del escrutinio y cómputo o ante el Consejo Distrital o Municipal correspondiente, antes de que se inicie la sesión de los cómputos, en los términos que señale el Código.
 
@@ -681,9 +767,11 @@ Si se impugna la votación recibida en casillas especiales, su anulación afecta
 
 Cuando se impugne por nulidad toda la elección de Gobernador, el respectivo recurso de inconformidad deberá presentarse ante el Consejo General del Instituto Electoral de Tamaulipas, acompañado de las pruebas correspondientes.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+
 ###### Artículo 72.
 
-El recurso de inconformidad sólo podrá ser promovido por los partidos políticos.
+El recurso de inconformidad sólo podrá ser promovido por los partidos políticos, las coaliciones y los candidatos independientes.
 
 ###### Artículo 73.
 
@@ -741,9 +829,11 @@ Las elecciones cuyos cómputos, constancias de validez y mayoría o de asignaci�
 
 Tratándose de la inelegibilidad de candidatos a Diputados electos por el principio de representación proporcional, tomará el lugar del declarado no elegible su suplente, y en el supuesto de que este último también sea inelegible, el propietario que sigue en el orden de la lista correspondiente al mismo partido.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+
 ###### Artículo 81.
 
-Los partidos políticos o candidatos no podrán invocar en su favor, en medio de impugnación alguno, causales de nulidad, hechos o circunstancias que ellos mismos hayan provocado.
+Los partidos políticos o candidatos y los demás sujetos legitimados por esta ley, no podrán invocar en su favor, en medio de impugnación alguno, causales de nulidad, hechos o circunstancias que ellos mismos hayan provocado.
 
 ### CAPITULO II. De las Causales
 
@@ -765,7 +855,9 @@ III. Recibir la votación personas u órganos distintos a los facultados por el 
 
 IV. Permitir a ciudadanos sufragar sin credencial para votar o cuyo nombre no aparezca en la lista nominal de electores y siempre que ello sea determinante para el resultado de la votación, salvo los casos de excepción señalados en el Código;
 
-V. Haber impedido el acceso de los representantes de los partidos políticos o haberlos expulsado, sin causa justificada;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+
+V. Haber impedido el acceso de los representantes de los partidos políticos o de los candidatos independientes, o haberlos expulsado sin causa justificada;
 
 VI. Ejercer violencia física o presión sobre los miembros de la mesa directiva de casilla o sobre los electores y siempre que esos hechos sean determinantes para el resultado de la votación;
 
@@ -794,6 +886,16 @@ IV. Más de la mitad de los integrantes de una planilla electa de ayuntamientos,
 ###### Artículo 85.
 
 Sólo podrá declararse la nulidad de una elección por el principio de mayoría relativa, cuando las causas que se invoquen hayan sido plenamente acreditadas y se demuestre que las mismas son determinantes para el resultado de la elección correspondiente.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 85 Bis.
+
+También serán nulas las elecciones en el Estado en los casos previstos por el Artículo 41, fracción VI, párrafo tercero, de la Constitución Política de los Estados Unidos Mexicanos, así como el Artículo 78 bis de la Ley General del Sistema de Medios de Impugnación en Materia Electoral.
+
+## TITULO UNICO. De su Organización y Competencia
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
 
 ###### Artículo 86.
 
@@ -831,6 +933,446 @@ VI. Dentro de los cinco días siguientes, se fijará la hora y el día para cele
 
 VII. Dentro de los diez días siguientes a la celebración de la audiencia de conciliación, pruebas y alegatos, la que notificará personalmente a las partes si señalaron domicilio para oír y recibir notificaciones, y en caso contrario, lo hará por estrados, se podrá el asunto en estado de resolución, para resolverse, en su caso, en la próxima sesión del Pleno; éste dictará su resolución definitiva e inatacable. La resolución podrá confirmar, modificar o revocar el acto o resolución impugnado. Si dejara sin efectos la destitución del servidor público, la autoridad que ordenó el acto o resolución podrá negarse a reinstalarlo, pagando una indemnización equivalente a tres meses de salario, más doce días por cada año trabajado.
 
+> <small>(ADICIONADO CON EL TÍTULO, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
+
+# LIBRO TERCERO. Del Tribunal Electoral del Estado
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
+
+### CAPITULO I. Del Pleno, su Integración y Competencia
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 87.
+
+De conformidad con lo dispuesto por el artículo 73, fracción XXIX-U, de la Constitución Política de los Estados Unidos Mexicanos, el Título tercero del Libro Tercero de la Ley General de Instituciones y Procedimientos Electorales, las fracciones IV y V del artículo 20 de la Constitución Política del Estado y esta Ley, el Tribunal Electoral es el órgano especializado y la máxima autoridad jurisdiccional en materia electoral en el Estado.
+
+Cuenta con autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones y debe cumplir sus funciones bajo los principios de certeza, imparcialidad, objetividad, legalidad y probidad.
+
+Emitirá sus resoluciones con plenitud de jurisdicción.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 88.
+
+El Tribunal Electoral realizará su función jurisdiccional en forma permanente a través de su Pleno, que estará integrado por cinco magistrados electorales, uno de quienes lo presidirá.
+
+Los magistrados electorales serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores.
+
+Los magistrados electorales serán los responsables de resolver los medios de impugnación interpuestos en contra de todos los actos y resoluciones electorales locales, en términos de las leyes aplicables.
+
+El Tribunal Electoral tendrá su sede en Ciudad Victoria.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 89.
+
+De conformidad con lo que establece el Artículo 107 de la Ley General de Instituciones y Procedimientos Electorales, durante el periodo de su encargo, los magistrados electorales no podrán tener ningún otro empleo, cargo o comisión con excepción de aquéllos en que actúen en representación de la autoridad electoral jurisdiccional Estatal, y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.
+
+Concluido su encargo, no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales se hayan pronunciado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 90.
+
+Para la elección de los Magistrados electorales se estará a lo que disponen los artículos 108 y 109 de la Ley General de Instituciones y Procedimientos Electorales.
+
+Los requisitos para ser magistrado electoral estatal son los que prevé el artículo 115 de la Ley General de Instituciones y Procedimientos Electorales.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 91.
+
+El Congreso del Estado deberá fijar en el presupuesto anual las remuneraciones de magistrados electorales, en términos del artículo 127 de la Constitución, las cuales no podrán disminuirse durante el tiempo que dure su encargo, ni podrán ser menores a las que recibe un magistrado del Supremo Tribunal de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 92.
+
+En términos del artículo 117 de la Ley General de Instituciones y Procedimientos Electorales, serán causas de responsabilidad de los magistrados electorales las siguientes:
+
+I. Realizar conductas que atenten contra la independencia de la función jurídico-electoral, o cualquier acción que genere o implique subordinación respecto de terceros;
+
+II. Tener notoria negligencia, ineptitud o descuido en el desempeño de las funciones o labores que deban realizar;
+
+III. Conocer de algún asunto o participar en algún acto para el cual se encuentren impedidos;
+
+IV. Realizar nombramientos, promociones o ratificaciones infringiendo las disposiciones correspondientes;
+
+V. Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento;
+
+VI. Dejar de desempeñar injustificadamente las funciones o las labores que tenga a su cargo;
+
+VII. Utilizar en beneficio propio o de terceros la documentación e información confidencial en los términos de la presente Ley y de la demás legislación de la materia;
+
+VIII. Sustraer, destruir, ocultar o utilizar indebidamente la documentación e información que por razón de su cargo tenga a su cuidado o custodia, con motivo del ejercicio de sus atribuciones; y
+
+IX. Las demás que determinen la Constitución y las leyes del Estado, o las leyes que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 93.
+
+Los magistrados electorales estatales gozarán de todas las garantías judiciales previstas en el artículo 17 de la Constitución a efecto de garantizar su independencia y autonomía, cuyo contenido mínimo se integra por la permanencia, la estabilidad en el ejercicio del cargo por el tiempo de su duración y la seguridad económica.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 94.
+
+En ningún caso los magistrados electorales podrán abstenerse de votar salvo cuando tengan impedimento legal.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 95.
+
+Son impedimentos para conocer de los asuntos, independientemente de los contenidos en las leyes locales, alguna de las causas siguientes:
+
+I. Tener parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado y en la colateral por afinidad hasta el segundo, con alguno de los interesados, sus representantes, patronos o defensores;
+
+II. Tener amistad íntima o enemistad manifiesta con alguna de las personas a que se refiere el inciso anterior;
+
+III. Tener interés personal en el asunto, o tenerlo su cónyuge o sus parientes, en los grados que expresa el inciso a) de este artículo;
+
+IV. Haber presentado querella o denuncia el servidor público, su cónyuge o sus parientes, en los grados que expresa el inciso a), en contra de alguno de los interesados;
+
+V. Tener pendiente el servidor público, su cónyuge o sus parientes, en los grados que expresa el inciso a), un juicio contra alguno de los interesados o no haber transcurrido más de un año desde la fecha de la terminación del que hayan seguido hasta la fecha en que tome conocimiento del asunto;
+
+VI. Haber sido procesado el servidor público, su cónyuge o parientes, en los grados expresados en el mismo inciso a), en virtud de querella o denuncia presentada ante las autoridades, por alguno de los interesados, sus representantes, patronos o defensores;
+
+VII. Estar pendiente de resolución un asunto que hubiese promovido como particular, semejante a aquél que le es sometido para su conocimiento o tenerlo su cónyuge o sus parientes en los grados expresados en el inciso a);
+
+VIII. Tener interés personal en asuntos donde alguno de los interesados sea juez, árbitro o arbitrador;
+
+IX. Asistir, durante la tramitación del asunto, a convite que le diere o costeare alguno de los interesados, tener mucha familiaridad o vivir en familia con alguno de ellos;
+
+X. Aceptar presentes o servicios de alguno de los interesados;
+
+XI. Hacer promesas que impliquen parcialidad a favor o en contra de alguno de los interesados, sus representantes, patronos o defensores, o amenazar de cualquier modo a alguno de ellos;
+
+XII. Ser acreedor, deudor, socio, arrendador o arrendatario, dependiente o principal de alguno de los interesados;
+
+XIII. Ser o haber sido tutor o curador de alguno de los interesados o administrador de sus bienes por cualquier título;
+
+XIV. Ser heredero, legatario, donatario o fiador de alguno de los interesados, si el servidor público ha aceptado la herencia o el legado o ha hecho alguna manifestación en este sentido;
+
+XV. Ser cónyuge o hijo del servidor público, acreedor, deudor o fiador de alguno de los interesados;
+
+XVI. Haber sido juez o magistrado en el mismo asunto, en otra instancia;
+
+XVII. Haber sido agente del Ministerio Público, jurado, perito, testigo, apoderado, patrono o defensor en el asunto de que se trata, o haber gestionado o recomendado anteriormente el asunto en favor o en contra de alguno de los interesados; y
+
+XVIII. Cualquier otra análoga a las anteriores.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 96.
+
+Las excusas y recusaciones que por impedimento legal se presenten, serán calificadas y resueltas de inmediato por el Pleno del Tribunal.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 97.
+
+En términos de lo dispuesto por los artículos 73, fracción XXIX-U de la Constitución Política de los Estados Unidos Mexicanos, fracciones IV y V del artículo 20 de la Constitución Política del Estado, así como en los establecido (sic) en la presente Ley, el Pleno del Tribunal Electoral, es competente para:
+
+I. Resolver, en forma definitiva en la instancia local, sobre las impugnaciones en las elecciones (sic) Gobernador, Diputados e integrantes de los ayuntamientos;
+
+II. Resolver, en forma definitiva en la instancia local, sobre las impugnaciones de actos y resoluciones que violen los derechos político-electorales de los ciudadanos de votar y ser votado, en los términos que señalen las leyes;
+
+III. Resolver, en forma definitiva en la instancia local, sobre las impugnaciones de actos, resoluciones y omisiones del Instituto Electoral de Tamaulipas;
+
+IV. Resolver los conflictos o diferencias laborales entre el Tribunal Electoral o el Instituto Electoral de Tamaulipas y sus servidores;
+
+V. Aprobar anualmente el proyecto de presupuesto del Tribunal Electoral y proponerlo para su inclusión en el proyecto de presupuesto anual del Estado;
+
+VI. Expedir sus reglamentos y los acuerdos generales necesarios para su adecuado funcionamiento;
+
+VII. Resolver sobre los conflictos concernientes a impedimentos presentados contra los magistrados;
+
+VIII. Fijar jurisprudencia en los términos de esta ley;
+
+IX. Conceder licencias temporales a los magistrados electorales que lo integran;
+
+X. Nombrar los comités que sean necesarios para la atención de los asuntos de su competencia;
+
+XI. Recibir la protesta del Secretario General de Acuerdos y del Secretario Técnico del Pleno;
+
+XII. Recibir las renuncias a sus cargos que, por causa justificada, presenten los integrantes del Pleno, dando cuenta al Senado de la República para los efectos correspondientes;
+
+XIII. Calificar y resolver de inmediato, las excusas que para abstenerse del conocimiento de un asunto, presenten los integrantes del Pleno o el Secretario General de Acuerdos;
+
+XIV. Designar al funcionario que supla las ausencias temporales del Secretario General de Acuerdos, a propuesta del Presidente;
+
+XV. Elegir, cada cuatro años, a su presidente por votación mayoritaria de los magistrados. La presidencia del Tribunal será rotatoria;
+
+XVI. Nombrar al Contralor del Tribunal por mayoría de los miembros del Pleno a propuesta de su Presidente. El nombramiento durará en su cargo cuatro años y podrá ser reelecto por una sola ocasión; y
+
+XVII. Las demás que señalen las leyes.
+
+El Tribunal Electoral ejercerá sus atribuciones a través de su Pleno, salvo cuando éste o la ley las reserve a otro órgano o funcionario del Tribunal.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 98.
+
+Bastará la presencia de tres magistrados electorales para que pueda sesionar válidamente el Pleno; éste emitirá sus resoluciones y tomará sus decisiones por mayoría simple de sus integrantes. Las sesiones del Tribunal Electoral serán públicas.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 99.
+
+En caso de empate el Magistrado Presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 100.
+
+Cuando un magistrado electoral disintiere de la mayoría o su proyecto fuera rechazado, podrá formular voto particular, el cual se insertará al final de la sentencia aprobada, siempre y cuando se presente antes de que ésta sea firmada.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 101.
+
+Para el trámite de las solicitudes de licencia de los magistrados electorales o del Magistrado Presidente, será aplicable, en lo conducente, lo establecido para el caso de los integrantes de Pleno del Supremo Tribunal de Justicia del Estado. Los magistrados electorales o el Magistrado Presidente no podrán pedir licencia por más de dos meses; en proceso electoral no podrán pedir licencia por más de una semana.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
+
+### CAPITULO II. Del Magistrado Presidente
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 102.
+
+El Presidente del Tribunal Electoral de Tamaulipas será electo por votación mayoritaria de los magistrados en la primera sesión que celebren posterior a su designación por el Senado y durará en su encargo 4 años. La presidencia del Tribunal será rotatoria.
+
+El Presidente del Tribunal Electoral, tendrá las siguientes atribuciones:
+
+I. Representar al Tribunal, celebrar convenios, otorgar todo tipo de poderes y realizar los actos jurídicos y administrativos que se requieren para el buen funcionamiento del Tribunal;
+
+II. Presidirá el Pleno y la Comisión de Administración, Vigilancia y Disciplina;
+
+III. Coordinar y supervisar los trabajos y presidir las sesiones del Pleno; así como dirigir los debates y conservar el orden durante las mismas. Cuando los asistentes no guarden la compostura debida, podrá ordenar el desalojo de los presentes y la continuación de la sesión en privado;
+
+IV. Proponer a los magistrados, el nombramiento o remoción del Secretario General de Acuerdos y del Secretario Técnico del Pleno;
+
+V. Vigilar que se cumplan, según corresponda, las determinaciones del Pleno;
+
+VI. Enviar el presupuesto anual del Tribunal Electoral al Ejecutivo del Estado, para que sea incluido en el Presupuesto anual de egresos del Estado;
+
+VII. Vigilar que el Tribunal Electoral cuente con los recursos humanos, financieros y materiales necesarios para su buen funcionamiento y designar al personal administrativo;
+
+VIII. Convocar a sesiones públicas o reuniones internas de magistrados electorales y demás personal jurídico, técnico y administrativo del Tribunal Electoral;
+
+IX. Despachar la correspondencia del Tribunal y del Pleno;
+
+X. Comunicar al Senado de la República las ausencias definitivas de los magistrados electorales para los efectos procedentes;
+
+XI. Turnar a los integrantes del Pleno, según sea el caso, los expedientes para que formulen los proyectos de resolución;
+
+XII. Requerir o solicitar cualquier informe o documento que obre en poder del Instituto Electoral de Tamaulipas y exhortar a las autoridades federales, estatales o municipales, que aporten lo que pueda servir para la substanciación o resolución de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en las leyes;
+
+XIII. Rendir un informe público al término de cada proceso electoral, respecto de las actividades del Tribunal;
+
+XIV. Vigilar que se cumplan las disposiciones reglamentarias; y
+
+XV. Las demás que sean necesarias para el buen funcionamiento del Tribunal Electoral.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 103.
+
+Las ausencias del Presidente serán suplidas, si no exceden de dos meses, por el magistrado electoral de mayor antigüedad o, en su caso, de mayor edad.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
+
+### CAPITULO III. De los Magistrados Electorales y sus Ponencias
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 104.
+
+Son atribuciones de los magistrados integrantes del Pleno, las siguientes:
+
+I. Integrar el Pleno para resolver colegiadamente los asuntos de su competencia;
+
+II. Formular los proyectos de resolución que recaigan a los expedientes que les sean turnados para tal efecto;
+
+III. Exponer en sesión pública, personalmente, por conducto de un Secretario de Estudio y Cuenta o del Secretario General de Acuerdos, sus proyectos de sentencia, señalando las consideraciones jurídicas y los preceptos en que se funden;
+
+IV. Discutir y votar los proyectos de sentencia que sean sometidos a su consideración en las sesiones públicas;
+
+V. Realizar los engroses de los fallos aprobados por el Pleno, cuando sean designados para tales efectos;
+
+VI. Admitir los medios de impugnación y los escritos de terceros interesados o coadyuvantes, en los términos que señale la ley de la materia;
+
+VII. Someter a consideración del Pleno, cuando proceda, la acumulación de las impugnaciones así como la procedencia de la conexidad, en los términos de las leyes aplicables;
+
+VIII. Formular los requerimientos ordinarios necesarios para la integración de los expedientes en los términos de la legislación aplicable, y requerir cualquier informe o documento que, obrando en poder de los órganos del Instituto Electoral de Tamaulipas, de las autoridades federales, estatales o municipales, de los partidos políticos o de particulares, pueda servir para la sustanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos, de conformidad con lo señalado en las leyes aplicables; y
+
+IX. Las demás que les señalen las leyes o reglamentos respectivos.
+
+Los magistrados tendrán obligación de guardar absoluta reserva sobre los asuntos del Tribunal.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 105.
+
+Cada integrante del Pleno contará con el apoyo de Secretarios de estudio y cuenta, Secretarios auxiliares, actuarios y demás personal que sea necesario para el desahogo de los asuntos de su competencia, en los términos de las disposiciones reglamentarias aplicables.
+
+Los Secretarios y demás personas del Tribunal Electoral se conducirán con imparcialidad y legalidad en todas las diligencias y actuaciones en que intervengan en el desempeño de sus funciones. El personal jurídico y administrativo tendrá la obligación de guardar absoluta reserva sobre los asuntos del Tribunal.
+
+Todos los servidores del Tribunal serán considerados personal de confianza.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
+
+### CAPITULO IV. De la Secretaría General de Acuerdos
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 106.
+
+Para el ejercicio de sus funciones, el Tribunal Electoral contará con un Secretario General de Acuerdos; éste tendrá las siguientes atribuciones:
+
+I. Apoyar al Presidente en las tareas que le encomiende;
+
+II. Dar cuenta, recabar las resoluciones de fondo, tomar las votaciones cuando éstas procedan y formular las actas respectivas;
+
+III. Revisar el engrose de las resoluciones del Pleno;
+
+IV. Llevar el control del turno de los integrantes del Pleno;
+
+V. Supervisar el debido funcionamiento de la Oficialía de Partes y de los actuarios, de conformidad con (sic) disposiciones reglamentarias;
+
+VI. Supervisar que se hagan en tiempo y forma las notificaciones del Pleno y las ponencias;
+
+VII. Dictar, previo acuerdo con el Presidente, los lineamientos generales para la identificación e integración de los expedientes;
+
+VIII. Supervisar el debido funcionamiento de los archivos jurisdiccionales del Tribunal;
+
+IX. Autorizar con su firma las actuaciones del Pleno;
+
+X. Expedir constancias certificadas de las que obren en los archivos del Tribunal Electoral; y
+
+XI. Las demás atribuciones que le otorguen el Pleno y su Presidente.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 107.
+
+Para su designación, el Secretario General de Acuerdos deberá satisfacer los siguientes requisitos:
+
+I. Ser ciudadano del Estado, en pleno ejercicio de sus derechos políticos y civiles;
+
+II. Tener título de Licenciado en Derecho legalmente expedido;
+
+III. No tener, o haber desempeñado, cargo de elección popular en los 3 últimos años; y
+
+IV. No ser o haber sido dirigente nacional, estatal o municipal de algún partido político, en los últimos 3 años.
+
+El Secretario General percibirá la remuneración prevista en el presupuesto de egresos y tendrá la obligación de guardar absoluta reserva sobre los asuntos del Tribunal Electoral.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 108.
+
+El Secretario técnico del Pleno se encontrará adscrito a la Presidencia del Tribunal y sus funciones, bajo la dirección del magistrado Presidente, serán las siguientes:
+
+I. Apoyar al Presidente en las tareas que le encomiende;
+
+II. Apoyar al Secretario General de Acuerdos en la preparación documental de las sesiones públicas y en la integración de los engroses de las sentencias, así como los votos particulares de los Magistrados;
+
+III. Compilar y sistematizar los precedentes, para, en su caso, notificar al Secretario General de Acuerdos, para que este informe al Pleno cuando se reiteren sentidos o criterios jurisdiccionales; y
+
+IV. Las demás atribuciones que le otorguen el Pleno y su Presidente.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
+
+### CAPITULO V. De la Comisión de Administración, Vigilancia y Disciplina
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 109.
+
+La administración, vigilancia y disciplina del Tribunal Electoral estarán a cargo de una Comisión integrada por el Presidente y dos magistrados, así como el coordinador o director administrativo del Tribunal.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 110.
+
+La Comisión de Administración, Vigilancia y Disciplina, sesionará válidamente con la presencia de dos de sus integrantes y adoptará sus resoluciones por mayoría de los integrantes presentes. Los integrantes no podrán abstenerse de votar salvo que tengan excusa o impedimento legal. En caso de empate, el Presidente tendrá voto de calidad.
+
+Cuando una sesión de la Comisión no se pueda celebrar por falta de quórum, se convocará nuevamente por el Presidente para que tenga verificativo dentro de las 24 horas siguientes. En este caso sesionará válidamente con el número de los integrantes que se presenten. Las sesiones ordinarias o extraordinarias de la Comisión serán privadas.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 111.
+
+La Comisión determinará cada año los periodos de vacaciones del Tribunal y demás actividades, tomando en cuenta los calendarios electorales.
+
+Cuando la Comisión de Administración, Vigilancia y Disciplina estime que sus acuerdos o resoluciones pudieran resultar de interés general, deberá ordenar su publicación en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 112.
+
+La Comisión de Administración, Vigilancia y Disciplina tendrá las atribuciones siguientes:
+
+I. Expedir las normas internas en materia de organización y funciones generales necesarias para el ingreso, carrera, escalafón y régimen disciplinario, así como las relativas a estímulos y capacitación del personal del Tribunal Electoral;
+
+II. Establecer, cuando así proceda, la normatividad y los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos, así como los servicios al público;
+
+III. Dictar las medidas para el buen servicio y la disciplina en el Tribunal Electoral;
+
+IV. Conceder licencias al personal administrativo adscrito al Tribunal en los términos previstos en esta Ley;
+
+V. Decretar, cuando proceda, la suspensión, remoción o cese del personal jurídico y administrativo del Tribunal;
+
+VI. Conocer de las renuncias que presenten los Secretarios y demás personal del Tribunal;
+
+VII. Conocer y resolver sobre las quejas administrativas y sobre la responsabilidad de los servidores públicos en los términos de lo que (sic) dispuesto en esta Ley y las demás que resulten aplicables;
+
+VIII. Imponer las sanciones que correspondan a los servidores del Tribunal por las irregularidades o faltas en que incurran en el desempeño de sus funciones en los términos de lo dispuesto (sic) esta Ley y las demás que resulten aplicables;
+
+IX. Nombrar, a propuesta que haga su Presidente, a los titulares y servidores públicos de los órganos auxiliares de la Comisión, de conformidad con las disposiciones reglamentarias aplicables;
+
+X. Aportar al Pleno del Tribunal Electoral todos los elementos necesarios para elaborar el anteproyecto de presupuesto anual de egresos del Tribunal Electoral;
+
+XI. Ejercer el presupuesto de egresos del Tribunal Electoral;
+
+XII. Administrar los bienes muebles e inmuebles al servicio del Tribunal Electoral, cuidando su mantenimiento, conservación y acondicionamiento; y
+
+XIII. Desempeñar cualquier otra función que la ley o las disposiciones reglamentarias respectivas le encomienden.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 113.
+
+La Comisión contará con una Secretaría Administrativa y con los órganos auxiliares necesarios para el adecuado ejercicio de las funciones que tiene encomendadas. Su estructura y funciones quedarán determinadas en reglamento respectivo.
+
+La Comisión de Administración, Vigilancia y Disciplina del Tribunal Electoral funcionará conforme las disposiciones reglamentarias aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
+
+### CAPITULO VI. De la Jurisprudencia Electoral
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 114.
+
+La jurisprudencia del Tribunal Electoral será establecida en los casos y de conformidad con las reglas siguientes:
+
+I. Cuando el Pleno, en tres sentencias no interrumpidas por otra en contrario, sostenga el mismo criterio de aplicación, interpretación o integración de una norma;
+
+II. La jurisprudencia del Tribunal Electoral se interrumpirá y dejará de tener carácter obligatorio, siempre y cuando haya un pronunciamiento en contrario por mayoría de cuatro votos de los miembros del Pleno. En la resolución respectiva se expresarán las razones en que se funde el cambio de criterio, el cual constituirá jurisprudencia; y
+
+III. Para que el criterio de jurisprudencia resulte obligatorio, se requerirá de la declaración formal del Pleno. Realizada la declaración, la jurisprudencia se notificará de inmediato al Instituto Electoral de Tamaulipas y otras autoridades electorales que se considere, y se publicará en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### Artículo 115.
+
+La jurisprudencia del Tribunal Electoral será obligatoria en todos los casos para el Instituto Electoral de Tamaulipas.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -849,8 +1391,18 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCION".- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 10 DE SEPTIEMBRE DE 2009.
 
 Artículo Unico. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
