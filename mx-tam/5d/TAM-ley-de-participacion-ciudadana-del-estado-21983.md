@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-participacion-ciudadana-del-estado-21983"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-06"
-last_updated: "2006-09-06"
+last_updated: "2015-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DE PARTICIPACION CIUDADANA DEL ESTADO
 
-LEY DE PARTICIPACION CIUDADANA DEL ESTADO
+LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 6 de junio de 2001.
 
@@ -87,9 +87,17 @@ VI.- Unidades de Quejas y Denuncias;
 
 VII.- Difusión Pública;
 
-VIII.- Audiencia Pública; y
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
 
-IX.- Recorridos de los Presidentes Municipales.
+VIII.- Audiencia Pública;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+
+IX.- Recorridos de los Presidentes Municipales; y
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
+
+X.- Consulta Popular.
 
 ## TITULO SEGUNDO. DE LOS HABITANTES Y CIUDADANOS DEL ESTADO
 
@@ -165,9 +173,11 @@ III.- Las demás que establezcan las leyes.
 
 A través del plebiscito, el Gobernador del Estado podrá consultar a los electores para que expresen su aprobación o rechazo previo a actos o decisiones del mismo, que a su juicio sean trascendentes para la vida pública del Estado.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+
 ###### ARTICULO 10.
 
-Podrán solicitar al Gobernador del Estado que convoque a plebiscito, el 1% de los ciudadanos inscritos en el padrón electoral, quienes deberán anexar a su solicitud un listado con sus nombres, firmas y clave de su credencial de elector, cuyo cotejo realizará el Instituto Estatal Electoral.
+Podrán solicitar al Gobernador del Estado que convoque a plebiscito, el 1% de los ciudadanos inscritos en el padrón electoral, quienes deberán anexar a su solicitud un listado con sus nombres, firmas y clave de su credencial de elector, cuyo cotejo realizará el Instituto Electoral de Tamaulipas.
 
 ###### ARTICULO 11.
 
@@ -191,9 +201,11 @@ III.- Actos cuya realización sea obligatoria en los términos de las leyes apli
 
 IV.- Los demás que determinen las leyes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2015)</small>
+
 ###### ARTICULO 13.
 
-El Gobernador del Estado iniciará el procedimiento de plebiscito mediante convocatoria que deberá expedir cuando menos noventa días naturales antes de la fecha de realización de la misma. La convocatoria se hará del conocimiento del Instituto Estatal Electoral, con la finalidad de iniciar la organización del proceso plebiscitario, se publicará en el Periódico Oficial del Estado, en los principales diarios de circulación en la Entidad y en los medios de comunicación electrónica, y contendrá:
+El Gobernador del Estado iniciará el procedimiento de plebiscito mediante convocatoria que deberá expedir cuando menos noventa días naturales antes de la fecha de realización de la misma. La convocatoria se hará del conocimiento del Instituto Electoral de Tamaulipas, con la finalidad de iniciar la organización del proceso plebiscitario, se publicará en el Periódico Oficial del Estado, en los principales diarios de circulación en la Entidad y en los medios de comunicación electrónica, y contendrá:
 
 I.- La explicación clara y precisa de los efectos de la aprobación o rechazo del acto o decisión sometido a plebiscito;
 
@@ -209,11 +221,13 @@ El Gobernador del Estado podrá auxiliarse de los órganos locales de gobierno, 
 
 En el año que tengan verificativo elecciones de Gobernador, Diputados al Congreso local, Ayuntamientos, Diputados Federales, Senadores o Presidente de la República no podrá realizarse plebiscito alguno durante el proceso electoral, ni durante los sesenta días posteriores a su conclusión.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+
 ###### ARTICULO 16.
 
 En los procesos de plebiscito sólo podrán participar los ciudadanos del Estado que cuenten con credencial de elector.
 
-El Instituto Estatal Electoral desarrollará los trabajos de organización, de la consulta y cómputo respectivo, declarando los efectos del plebiscito de conformidad con lo señalado en la convocatoria.
+El Instituto Electoral de Tamaulipas desarrollará los trabajos de organización, de la consulta y cómputo respectivo, declarando los efectos del plebiscito de conformidad con lo señalado en la convocatoria.
 
 ###### ARTICULO 17.
 
@@ -223,9 +237,11 @@ Los resultados del plebiscito tendrán carácter vinculatorio para las acciones 
 
 Los resultados del plebiscito se publicarán en el Periódico Oficial del Estado y en los diarios de mayor circulación en la Entidad, y se difundirán a través de los medios de comunicación electrónicos.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+
 ###### ARTICULO 19.
 
-El Instituto Estatal Electoral llevará a cabo el plebiscito y hará la declaratoria de sus efectos de conformidad con lo que disponga la ley aplicable.
+El Instituto Electoral de Tamaulipas llevará a cabo el plebiscito y hará la declaratoria de sus efectos de conformidad con lo que disponga la ley aplicable.
 
 ###### ARTICULO 20.
 
@@ -263,9 +279,11 @@ III.- Cuando sea presentada por los ciudadanos, nombre, firma y clave de su cred
 
 El procedimiento de referéndum deberá iniciarse mediante convocatoria que se deberá expedir y difundir cuando menos noventa días naturales antes de la fecha de realización del mismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2015)</small>
+
 ###### ARTICULO 26.
 
-La convocatoria a referéndum deberá hacerse del conocimiento del Instituto Estatal Electoral y deberá publicarse en el Periódico Oficial del Estado, en los principales diarios de circulación de la Entidad y en los medios de comunicación electrónicos, y contendrá:
+La convocatoria a referéndum deberá hacerse del conocimiento del Instituto Electoral de Tamaulipas y deberá publicarse en el Periódico Oficial del Estado, en los principales diarios de circulación de la Entidad y en los medios de comunicación electrónicos, y contendrá:
 
 I.- La fecha en que habrá de realizarse la votación;
 
@@ -295,11 +313,13 @@ V.- Las demás que determinen las leyes.
 
 En el año en que tengan verificativo elecciones de representantes populares, no podrá realizarse procedimiento de referéndum alguno durante el proceso electoral, ni durante los sesenta días posteriores a su conclusión.
 
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+
 ###### ARTICULO 29.
 
-En los proceso de referéndum sólo podrán participar los ciudadanos del Estado que cuenten con credencial de elector.
+En los proceso (sic) de referéndum sólo podrán participar los ciudadanos del Estado que cuenten con credencial de elector.
 
-El Instituto Estatal Electoral desarrollará los trabajos de organización, consulta y cómputo respectivo y remitirá los resultados definitivos al Congreso del Estado.
+El Instituto Electoral de Tamaulipas desarrollará los trabajos de organización, consulta y cómputo respectivo y remitirá los resultados definitivos al Congreso del Estado.
 
 ###### ARTICULO 30.
 
@@ -339,7 +359,9 @@ Una vez presentada la iniciativa popular ante la Mesa Directiva del Congreso del
 
 Para que pueda ser admitida, para su estudio y dictamen, una iniciativa popular ante el Congreso del Estado se requiere que:
 
-I.- Quede fehacientemente comprobado, mediante los nombres, firmas y claves de las credenciales de elector de los promoventes que la iniciativa se encuentra apoyada por cuando menos el 1% de ciudadanos inscritos en el padrón electoral del Estado, cuyo cotejo realizará el Instituto Estatal Electoral;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+
+I. Quede fehacientemente comprobado, mediante los nombres, firmas y claves de las credenciales de elector de los promoventes que la iniciativa se encuentra apoyada por cuando menos el 0.13% de ciudadanos inscritos en la lista nominal del Estado, cuyo cotejo realizará el Instituto Electoral de Tamaulipas;
 
 II.- Se presente escrito dirigido a la Mesa Directiva del Congreso del Estado;
 
@@ -551,6 +573,290 @@ En los recorridos que se realicen, los habitantes podrán exponer al Presidente 
 
 Las medidas que acuerde el Presidente Municipal, como resultado de la verificación realizada en el recorrido, serán llevadas a cabo por el responsable que señale el propio titular, mismas que se harán del conocimiento de los habitantes del lugar en que se llevó a cabo el recorrido.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
+
+### CAPÍTULO X. DE LA CONSULTA POPULAR
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### ARTICULO 75.
+
+La consulta popular es el mecanismo de participación por el cual los ciudadanos ejercen su derecho, a través del voto emitido mediante el cual expresan su opinión respecto de uno o varios temas de trascendencia estatal.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### ARTICULO 76.
+
+Los temas de trascendencia que sean propuestos para consulta popular, será calificada por la mayoría de los legisladores presentes en el congreso, con excepción de la consulta propuesta por los ciudadanos, en cuyo caso lo resolverá el Pleno del Supremo Tribunal del Estado.
+
+El resultado de la misma es vinculante para los poderes Ejecutivo y Legislativo estatales así como para las autoridades competentes, cuando la participación total corresponda, al menos, al cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### ARTICULO 77.
+
+Se entiende que existe trascendencia estatal en el tema propuesto para una consulta popular cuando contenga elementos tales como:
+
+I. Que repercutan en la mayor parte del territorio estatal; y
+
+II. Que impacten en una parte significativa de la población.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### ARTICULO 78.
+
+Votar en las consultas populares constituye un derecho y una obligación de los ciudadanos para participar en la toma de decisiones sobre temas de trascendencia estatal.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### ARTICULO 79.
+
+La consulta o consultas populares a que convoque el Congreso, se realizarán el mismo día de la jornada electoral local.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### ARTICULO 80.
+
+Son requisitos para participar en la consulta popular:
+
+I. Ser ciudadano tamaulipeco conforme al artículo 6 de la Constitución Política del Estado de Tamaulipas;
+
+II. Estar inscrito en el Padrón Electoral;
+
+III. Tener credencial para votar con fotografía vigente; y
+
+IV. No estar suspendido en sus derechos políticos.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### ARTICULO 81.
+
+No podrán ser objeto de consulta popular:
+
+I. La restricción de los derechos humanos;
+
+II. Los principios consagrados en el artículo 21 de la Constitución Política del Estado de Tamaulipas;
+
+III. La materia electoral;
+
+IV. Los ingresos y gastos del Estado;
+
+V. La seguridad estatal.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### ARTICULO 82.
+
+Podrán solicitar una consulta popular:
+
+I. El Gobernador del Estado;
+
+II. Los Diputados con el equivalente al treinta y tres por ciento de la integración del Congreso del Estado; o
+
+III. Los ciudadanos en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores.
+
+Los ciudadanos podrán respaldar más de una consulta popular, pero no procederá el trámite de las consultas que sean respaldadas por los mismos ciudadanos cuando estos rebasen el veinte por ciento de las firmas de apoyo. En este caso sólo procederá la primera solicitud.
+
+La inobservancia de la prohibición a que se refiere el párrafo anterior se resolverá conforme a lo dispuesto en la Ley Federal de Consulta Popular.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### ARTICULO 83.
+
+La petición de consulta popular deberá presentarse en el Congreso del Estado según corresponda, en términos de esta Ley, a partir del uno de octubre del segundo año de ejercicio de cada Legislatura y hasta el quince de octubre del año previo al en que se realice la jornada electoral estatal.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### ARTICULO 84.
+
+Los ciudadanos que deseen presentar una petición de consulta popular para la jornada de consulta inmediata siguiente, deberán dar Aviso de intención al Presidente de la Mesa Directiva del Congreso a través del formato que al efecto determine dicho Poder Legislativo.
+
+El Presidente de la Mesa Directiva del Congreso del Estado emitirá en un plazo no mayor a diez días hábiles, una constancia que acredite la presentación del Aviso de intención, que se acompañará del formato para la obtención de firmas y con ello el inicio de los actos para recabar las firmas de apoyo. Las constancias de aviso serán publicadas en la Gaceta Parlamentaria.
+
+La falta de presentación del Aviso de intención, será causa para no admitir a trámite la petición de consulta popular.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### ARTICULO 85.
+
+El formato para la obtención de firmas lo determina el Congreso del Estado, previa consulta al Instituto Electoral de Tamaulipas, preservando que cumpla con los requisitos que señala esta Ley y que deberá contener por lo menos:
+
+I. El tema de trascendencia estatal planteado;
+
+II. La propuesta de pregunta;
+
+III. El número de folio de cada hoja;
+
+IV. El nombre, firma, la clave de elector y el número identificador al reverso de la credencial de elector derivado del reconocimiento óptico de caracteres (OCR) de la credencial para votar con fotografía vigente; y
+
+V. La fecha de expedición.
+
+Si las firmas se presentaran en un formato diverso al entregado al Congreso del Estado, la propuesta de Consulta Popular no será admitida a trámite.
+
+El Presidente de la Mesa Directiva del Congreso del Estado dará cuenta de los Avisos de intención que no hayan sido formalizados con la presentación de la solicitud de consulta popular dentro del plazo establecido por el artículo 83 de esta Ley o que no se hayan entregado en el formato correspondiente para la obtención de firmas, los cuales serán archivados como asuntos total y definitivamente concluidos.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### ARTICULO 86.
+
+El Gobernador del Estado sólo podrá presentar una petición para cada jornada de consulta popular.
+
+Tratándose de las peticiones de consulta popular formuladas por los legisladores integrantes del Congreso del Estado, será objeto de la Convocatoria aquella que sea aprobada por la mayoría del Congreso, sin que pueda ser más de una.
+
+En el caso de las peticiones de ciudadanos, la Convocatoria se expedirá respecto de aquellas que hayan reunido el apoyo ciudadano en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores, de acuerdo al Informe emitido por el Instituto Electoral de Tamaulipas y previa declaración de constitucionalidad y calificación de la trascendencia estatal a cargo del Pleno del Supremo Tribunal de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### ARTICULO 87.
+
+El Gobernador del Estado y los legisladores, podrán retirar su solicitud de consulta popular hasta antes de que se publique la Convocatoria en el Periódico Oficial del Estado.
+
+Retirada la petición, podrán presentar una nueva petición de consulta, siempre que se realice dentro del plazo establecido en el artículo 83 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### ARTICULO 88.
+
+La solicitud que provenga de los ciudadanos se presentará ante el Presidente de la Mesa Directiva del Congreso del Estado conforme a los artículos 84 y 85 del presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### ARTICULO 89.
+
+Toda petición de consulta popular deberá estar contenida en un escrito que cumplirá, por lo menos, con los siguientes elementos:
+
+I. Nombre completo y firma del solicitante o solicitantes;
+
+II. El propósito de la consulta y los argumentos por los cuales el tema se considera de trascendencia estatal; y
+
+III. La pregunta que se proponga para la consulta deberá ser elaborada sin contenidos tendenciosos o juicios de valor y formulada de tal manera que produzca una respuesta categórica en sentido positivo o negativo; y deberá estar relacionada con el tema de la consulta.
+
+Sólo se podrá formular una pregunta en la petición de consulta popular.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### ARTICULO 90.
+
+En caso de que la solicitud provenga de los legisladores, además de lo establecido en el artículo anterior, deberá acompañarse del anexo que contenga nombres completos y firmas de por lo menos el treinta y tres por ciento de los integrantes del Congreso del Estado.
+
+Asimismo, deberá designarse como representante a uno de los legisladores promoventes para recibir notificaciones.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### ARTICULO 91.
+
+La solicitud que provenga de los ciudadanos, además de los requisitos previstos en el artículo 89 de esta Ley, deberá complementarse con:
+
+I. Nombre completo y domicilio del representante para recibir notificaciones; y
+
+II. Anexo que contenga los nombres completos de los ciudadanos y su firma, además de la clave de elector y el número identificador al reverso de la credencial de elector derivado del reconocimiento óptico de caracteres (OCR) de la credencial para votar con fotografía vigente.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### ARTICULO 92.
+
+Toda la documentación, así como los anexos, deberán estar plenamente identificados, señalando en la parte superior de cada hoja la referencia al tema de trascendencia Estatal que se propone someter a consulta popular.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### ARTICULO 93.
+
+Cuando el escrito de solicitud de la consulta popular no señale el nombre del representante, sea ilegible o no acompañe ninguna firma de apoyo, al Congreso del Estado prevendrá a los peticionarios para que subsane los errores u omisiones antes señalados en un plazo de tres días naturales, contados a partir de la notificación.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### ARTICULO 94.
+
+Cuando la petición de consulta popular provenga del Gobernador del Estado, se seguirá el siguiente procedimiento:
+
+I. El Presidente de la Mesa Directiva del Congreso del Estado dará cuenta de la misma y la enviará directamente a la (sic) Pleno del Supremo Tribunal de Justicia del Estado, junto con la propuesta de pregunta formulada para que resuelva y le notifique sobre su constitucionalidad dentro de un plazo de veinte días naturales;
+
+II. Recibida la solicitud del Congreso del Estado para verificar la constitucionalidad de la petición de consulta popular, del Pleno del Supremo Tribunal de Justicia del Estado deberá:
+
+a. Resolver sobre la constitucionalidad de la materia de la consulta popular y revisar que la pregunta derive directamente de la materia de la consulta; no sea tendenciosa o contenga juicios de valor; emplee lenguaje neutro, sencillo y comprensible, y produzca una respuesta categórica en sentido positivo o negativo.
+
+b. Realizar las modificaciones conducentes a la pregunta, a fin de garantizar que la misma sea congruente con la materia de la consulta y cumpla con los criterios enunciados en el inciso anterior.
+
+c. Notificar al Congreso del Estado su resolución dentro de las veinticuatro horas siguientes a que la emita;
+
+III. En el supuesto de que el Pleno del Supremo Tribunal de Justicia del Estado declare la inconstitucionalidad de la materia de la consulta, el Presidente de la Mesa Directiva del Congreso del Estado, publicará la resolución en la Gaceta Parlamentaria, dará cuenta y procederá a su archivo como asunto total y definitivamente concluido;
+
+IV. Si la resolución del Pleno del Supremo Tribunal de Justicia del Estado es en el sentido de reconocer la constitucionalidad de la materia, la pregunta contenida en la resolución, no podrá ser objeto de modificaciones posteriores por el Congreso del Estado, el Presidente de la Mesa Directiva, publicará la resolución en la Gaceta Parlamentaria y turnará la petición a la Comisión de Gobernación y, en su caso, a las comisiones que correspondan, según la materia de la petición, para su análisis y dictamen;
+
+V. El dictamen de la petición deberá ser aprobado por la mayoría de los legisladores; en caso contrario, se procederá a su archivo como asunto total y definitivamente concluido, y
+
+VI. Aprobada la petición por el Congreso del Estado, éste expedirá la Convocatoria de la consulta popular mediante Decreto, la notificará al Instituto Electoral de Tamaulipas para los efectos conducentes y ordenará su publicación en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### ARTICULO 95.
+
+Cuando la petición de consulta popular provenga de por lo menos el treinta y tres por ciento de los integrantes del Congreso, se seguirá el siguiente procedimiento:
+
+I. El Presidente de la Mesa Directiva, dará cuenta de la misma y la turnará a la Comisión de Gobernación y, en su caso, a las comisiones que correspondan, según la materia de la petición, para su análisis y dictamen.
+
+II. El dictamen de la petición deberá ser aprobado por la mayoría de los legisladores; en caso contrario, se procederá a su archivo como asunto total y definitivamente concluido;
+
+III. Aprobada la petición por el Congreso, se enviará a la (sic) Pleno del Supremo Tribunal de Justicia del Estado junto con la propuesta de pregunta para que resuelva y le notifique sobre su constitucionalidad dentro de un plazo de veinte días naturales;
+
+IV. Recibida la solicitud del Congreso para verificar la constitucionalidad de la petición de consulta popular, el Pleno del Supremo Tribunal de Justicia del Estado estará a lo dispuesto en la fracción II del artículo 94 de esta Ley;
+
+V. En el supuesto de que (sic) Pleno del Supremo Tribunal de Justicia del Estado declare la inconstitucionalidad de la materia de la consulta, el Presidente de la Mesa Directiva, publicará la resolución en la Gaceta Parlamentaria, dará cuenta y procederá a su archivo como asunto total y definitivamente concluido;
+
+VI. Si la resolución del Pleno del Supremo Tribunal de Justicia del Estado, es en el sentido de reconocer la constitucionalidad de la materia, el Congreso expedirá la Convocatoria de la consulta popular mediante Decreto, la notificará al Instituto Electoral de Tamaulipas para los efectos conducentes y ordenará su publicación en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### ARTICULO 96.
+
+Cuando la petición provenga de los ciudadanos se seguirá el siguiente procedimiento:
+
+I. Recibida la petición por el Presidente de la Mesa Directiva del Congreso, la publicará en la Gaceta Parlamentaria, dará cuenta de la misma y solicitará al Instituto Electoral de Tamaulipas que en un plazo de treinta días naturales, verifique que ha sido suscrita, en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores;
+
+II. En el caso de que el Instituto Electoral de Tamaulipas determine que no cumple con el requisito establecido en el artículo 7, fracción IV, inciso c) de la Constitución Política del Estado de Tamaulipas, el Presidente de la Mesa Directiva del Congreso, publicará el informe en la Gaceta Parlamentaria, dará cuenta y procederá a su archivo como asunto total y definitivamente concluido;
+
+III. En el caso de que el Instituto Electoral de Tamaulipas determine que se cumple el requisito establecido en la fracción I, el Presidente de la Mesa Directiva del Congreso, publicará el informe en la Gaceta Parlamentaria y enviará la petición al Pleno del Supremo Tribunal del Estado, junto con la propuesta de pregunta de los peticionarios para que resuelva sobre su constitucionalidad dentro de un plazo de veinte días naturales;
+
+IV. Recibida la solicitud del Presidente de la Mesa Directiva para verificar la constitucionalidad de la petición de consulta popular, el Pleno del Supremo Tribunal de Justicia del Estado deberá:
+
+a. Resolver sobre la constitucionalidad de la materia de la consulta popular y revisar que la pregunta derive directamente de la materia de la consulta; no sea tendenciosa o contenga juicios de valor; emplee lenguaje neutro, sencillo y comprensible; y produzca una respuesta categórica en sentido positivo o negativo.
+
+b. Realizar, en su caso, las modificaciones conducentes a la pregunta, a fin de garantizar que la misma sea congruente con la materia de la consulta y cumpla con los criterios enunciados en el inciso anterior.
+
+c. Notificar al Congreso del Estado su resolución dentro de las veinticuatro horas siguientes al en que la emita;
+
+V. Si la resolución del Pleno del Supremo Tribunal de Justicia del Estado es en el sentido de reconocer la constitucionalidad de la materia, la pregunta contenida en la resolución, no podrá ser objeto de modificaciones posteriores por el Congreso del Estado;
+
+VI. En el supuesto de que el Pleno del Supremo Tribunal de Justicia del Estado declare la inconstitucionalidad de la materia de la consulta popular, el Presidente de la Mesa Directiva del Congreso del Estado, publicará la resolución en la Gaceta Parlamentaria, dará cuenta y procederá a su archivo como asunto total y definitivamente concluido; y
+
+VII. Declarada la constitucionalidad por el Pleno del Supremo Tribunal de Justicia del Estado, el Congreso por conducto de la Mesa Directiva, emitirá la Convocatoria, la notificará al Instituto Electoral de Tamaulipas para los efectos conducentes y ordenará su publicación en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### ARTICULO 97.
+
+Las resoluciones del Pleno del Supremo Tribunal de Justicia del Estado serán definitivas e inatacables.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### ARTICULO 98.
+
+La Convocatoria de consulta popular deberá contener:
+
+I. Fundamentos legales aplicables;
+
+II. Fecha de la jornada electoral estatal en que habrá de realizarse la consulta popular;
+
+III. Breve descripción de la materia sobre el tema de trascendencia estatal que se somete a la pregunta a consultar; y
+
+IV. Lugar y fecha de la emisión de la Convocatoria.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+###### ARTICULO 99.
+
+La Convocatoria que expida el Congreso del Estado deberá publicarse en el Periódico Oficial del Estado.
+
 T R A N S I T O R I O
 
 ###### ARTICULO UNICO.
@@ -572,3 +878,17 @@ P.O. 6 DE SEPTIEMBRE DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Lo no previsto en el presente Decreto, se sujetará a las disposiciones establecidas en la Ley Federal de Consulta Popular.
+
+###### ARTÍCULO TERCERO.
+
+El órgano estatal electoral deberá considerar en su presupuesto de egresos correspondiente la previsión inherente a la realización de la consulta pública cuando ésta (sic) sea aprobado por el Congreso del Estado.
