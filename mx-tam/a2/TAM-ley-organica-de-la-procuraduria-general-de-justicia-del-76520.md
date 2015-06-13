@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-procuraduria-general-de-justicia-del-76520"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-02"
-last_updated: "2015-05-26"
+last_updated: "2015-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 2 de septiembre de 2010.
 
@@ -845,7 +845,9 @@ X. Las demás que otras disposiciones aplicables, el Procurador o los Subprocura
 
 El Fiscal Especializado para Asuntos Electorales tendrá las siguientes atribuciones:
 
-I. Ejercer la función del Ministerio Público para la investigación y persecución de los delitos electorales;
+> <small>(REFORMADA, P.O. DE 13 DE JUNIO DE 2015)</small>
+
+I. Ejercer la función del Ministerio Público para la investigación y persecución de los delitos electorales, de acuerdo a lo previsto en la Ley General en Materia de Delitos Electorales;
 
 II. Acordar con el Procurador el despacho de los asuntos de su conocimiento y competencia;
 
@@ -3390,3 +3392,9 @@ Conforme a lo establecido en el artículo que antecede, a partir de la entrada e
 ###### ARTÍCULO TERCERO.
 
 Respecto a los procedimientos penales que a la entrada en vigor del presente Decreto se encuentren en trámite, continuarán su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
+
+P.O. 13 DE JUNIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
