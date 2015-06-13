@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2015-01-10"
+last_updated: "2015-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -1227,9 +1227,9 @@ La asociación entre médicos y otros profesionales de la salud, debe tener como
 
 ARTICULO 71 TER. Para efectos de esta Ley entiéndase por inducir, consejo o instigación, destinados a provocar en una o varias personas la realización de un acto.
 
-> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
-ARTICULO 71 QUÁTER. Las personas profesionales de la salud que ejerzan en forma privada las actividades y las especialidades a que se refiere este Capítulo, y que realicen intervenciones de tipo quirúrgico con fines terapéuticos o estéticos, están obligadas a contar con un certificado de la materia que acredite su conocimiento en la misma.
+ARTICULO 71 QUÁTER. Los profesionales de la medicina que ejerzan en forma privada las actividades y especialidades referidas en este capítulo, y que realicen intervenciones quirúrgicas con fines estéticos y de reconstrucción, deben contar con, cédula profesional que ampare sus estudios como médico especialista en la materia, expedida por instituciones debidamente reconocidas por la autoridad en materia de educación superior, y con certificación vigente por el Consejo Mexicano de Cirugía Plástica, Estética y Reconstructiva; de igual forma, deberán de ser autorizados por las autoridades federales sanitarias, en los términos que correspondan.
 
 ### CAPITULO UNICO
 
@@ -3905,7 +3905,7 @@ P.O. 18 DE DICIEMBRE DE 2008.
 
 DECRETO NÚMERO 555, POR EL QUE SE ADICIONAN LOS ARTÍCULOS, 57 BIS, 57 TER Y 57 QUÁTER A LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ.
 
-PRIMERO. Este Decreto entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial del Estado.
+PRIMERO. Este Decreto entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial del Estado;
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
@@ -4040,3 +4040,9 @@ PRIMERO. Este Decreto iniciará su vigencia al día siguiente de su publicación
 SEGUNDO. El Consejo Consultivo de la Secretaría de Salud del Estado de San Luis Potosí, deberá estar formado y en operación en un plazo máximo de treinta días naturales, contados a partir de la entrada en vigor del presente Decreto.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 13 DE JUNIO DE 2015.
+
+PRIMERO. Este Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
