@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2015-05-26"
+last_updated: "2015-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -291,11 +291,11 @@ V.- Tener un modo honesto de vivir, saber leer y escribir, y no estar en los cas
 
 VI.- No ser servidor público de la Federación o del Estado, con excepción de los cargos de elección popular o del Municipio; no tener el mando de la fuerza pública en el que se haga la elección, a no ser que se separe de su cargo por lo menos 120 días antes de dicha elección.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 27.
 
-Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos electos popularmente por elección directa, no podrán ser reelectos para un período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el periodo inmediato. Todos los servidores públicos antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el periodo inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
+Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos electos de manera directa, podrán ser reelectos para el mismo cargo por un periodo adicional; también tendrán este derecho las personas que por elección indirecta, por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
@@ -2201,7 +2201,7 @@ Cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar conv
 
 ###### ARTICULO 171.
 
-Los Municipios, previo acuerdo entre sus Ayuntamientos, y con sujeción a la ley, podrán coordinarse y asociarse para la mas eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les corresponda, con la aprobación del Congreso.
+Los Municipios, previo acuerdo entre sus Ayuntamientos, y con sujeción a la ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les corresponda, con la aprobación del Congreso.
 
 Los servicios públicos municipales serán prestados por los Municipios, directamente o a través de organismos o empresas paramunicipales. Asimismo, podrán ser concesionados a particulares cuando no se lesione el interés público o social, previa autorización del Congreso y conforme a las bases que se determinen en este Código, sus Reglamentos y las contenidas en el propio acto concesión.
 
@@ -5704,6 +5704,12 @@ DECRETO NÚMERO LXII - 564 POR EL QUE SE REFORMA EL ARTÍCULO 82 DEL CÓDIGO MUN
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 26 DE MAYO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JUNIO DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
