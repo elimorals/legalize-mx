@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2015-04-04"
+last_updated: "2015-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -1476,6 +1476,10 @@ Los derechos por la prestación de servicios públicos, se causaran en el moment
 ###### Artículo 43.
 
 El importe de las tasas o tarifas que para cada derecho señalan los siguientes capítulos, deberán ser cubiertas previamente a la prestación del servicio, cuando así proceda, en las Receptorías de Rentas de la Secretaría de Finanzas y Administración, en las instituciones de crédito o en los establecimientos autorizados.
+
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
+
+El importe de las tasas o tarifas previstas en el CAPITULO VIII de este título, relativo a los "SERVICIOS PRESTADOS EN EL PODER JUDICIAL" deberá ser cubierto previamente a la prestación del servicio en las Oficinas de Depósitos y Consignaciones de conformidad con lo que establezca la Ley Orgánica del Poder Judicial del Estado de Colima y sus reglamentos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4873,9 +4877,27 @@ a).- Por la primera hoja 0.674
 
 b).- Por cada hoja más o fracción 0.135
 
-III.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2001)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JUNIO DE 2015)</small>
 
-IV.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2010)
+III.- Expedir copias certificadas de audiencias relativas a procedimientos orales civiles, mercantiles y sucesorios en Unidades de Almacenamiento en Disco Compacto:
+
+a) Por cada disco compacto 0.700
+
+b) Por cada disco adicional de una misma
+
+audiencia 0.200
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JUNIO DE 2015)</small>
+
+IV.- Publicaciones de manera electrónica:
+
+a) Primer día de publicación en medio de difusión
+
+electrónico 5.000
+
+b) Por cada día subsecuente de
+
+publicación 0.200
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -5688,3 +5710,9 @@ P.O. 4 DE ABRIL DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor el 01 de abril de 2015, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Para efectos del cálculo del pago de los impuestos contenidos en el artículo segundo del presente Decreto, se hará con base en el salario mínimo vigente en el Estado al 1°. de marzo de 2015.
+
+P.O. 13 DE JUNIO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Las oficinas de depósitos y consignaciones del Poder Judicial serán las autorizadas para recaudar los derechos por los servicios que preste el mencionado Poder, con base en los procedimientos establecidos en (sic) ley.
