@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2015-05-26"
+last_updated: "2015-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2015.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -53,11 +53,11 @@ El Estado de Tamaulipas es libre, soberano e independiente en cuanto a su Gobier
 
 El territorio del Estado comprende la antigua Provincia llamada Nuevo Santander, con las limitaciones que le hizo el Tratado de Guadalupe.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2015)</small>
 
 ###### Art. 3o.
 
-El Estado se divide en Distritos Electorales, Distritos Judiciales y Municipios. Esta Constitución y las leyes secundarias respectivas determinarán la competencia, forma y mecanismos para determinar la extensión de cada Distrito y la Organización del Municipio.
+El Estado se divide en Distritos Electorales, Distritos Judiciales y Municipios. La Constitución Federal, esta Constitución y sus leyes secundarias respectivas determinarán la competencia, forma y mecanismos para determinar la extensión de cada Distrito y la Organización del Municipio.
 
 > <small>(ADICIONADO, P.O. 1 DE ABRIL DE 1989)</small>
 
@@ -151,9 +151,9 @@ La consulta popular se realizará el mismo día de la jornada electoral para ele
 
 Las leyes garantizarán que las consultas populares sean libres, auténticas y democráticas.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
-Las resoluciones del Instituto Electoral de Tamaulipas podrán ser impugnadas en los términos de lo dispuesto en las fracciones III y IV del artículo 20 de esta Constitución y las leyes aplicables; y
+Las resoluciones del Instituto Electoral de Tamaulipas podrán ser impugnadas en los términos de lo dispuesto en las fracciones IV y V del artículo 20 de esta Constitución y las leyes aplicables; y
 
 V. Ejercer en materias políticas el derecho de petición.
 
@@ -391,173 +391,237 @@ El Ministerio Público podrá considerar criterios de oportunidad para el ejerci
 
 La soberanía del Estado reside en el pueblo y éste la ejerce a través del Poder Público del modo y en los términos que establecen la Constitución Política de los Estados Unidos Mexicanos y esta Constitución. El Estado no reconoce en los Poderes Supremos de la Unión, ni en otro alguno, derecho para pactar o convenir entre ellos o con Nación extraña, aquello que lesione la integridad de su territorio, su nacionalidad, soberanía, libertad e independencia, salvo los supuestos a que se refiere la Constitución Política de los Estados Unidos Mexicanos.
 
-Las elecciones de Gobernador, de los Diputados y de los integrantes de los Ayuntamientos del Estado se realizarán el primer domingo de julio del año que corresponda, mediante sufragio universal, libre, secreto y directo; éstas serán libres, auténticas y periódicas, y se desarrollarán conforme a las siguientes bases:
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+Las elecciones de Gobernador, de los Diputados y de los integrantes de los Ayuntamientos del Estado se sujetarán a lo que dispone la Constitución Política de los Estados Unidos Mexicanos, las leyes generales aplicables y las siguientes bases:
 
-I. De los Partidos Políticos y de los candidatos independientes.- Los partidos políticos son entidades de interés público y tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE JUNIO DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+I.- De las características de los comicios.- Las elecciones serán libres, auténticas y periódicas; mediante sufragio directo, universal, libre y secreto.
 
-Apartado A.- La ley determinará las formas específicas de participación de los partidos políticos y de los candidatos independientes en los procesos electorales, sus derechos, prerrogativas, reglas de financiamiento y fiscalización. Tanto los partidos políticos, como los candidatos independientes deberán rendir informes financieros mismos que serán públicos.
+Las elecciones se llevarán a cabo el primer domingo de junio del año que corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REFORMADA ANTES FRACCIÓN I], P.O. 13 DE JUNIO DE 2015)</small>
+
+II.- De los Partidos políticos y de los candidatos independientes.- La ley establecerá la forma en que los partidos políticos y los candidatos independientes participarán en los procesos electorales atendiendo a lo siguiente:
+
+> <small>(REFORMADO [N. DE E. Y ADICIONADO PÁRRAFO QUINTO], P.O. 13 DE JUNIO DE 2015)</small>
+
+A.- Los partidos políticos son entidades de interés público cuyo fin es promover la participación del pueblo en la vida democrática del Estado, contribuir a la integración de los órganos de representación política estatal y municipal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan.
+
+Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
 
 Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen las leyes respectivas.
 
-Apartado B.- De acuerdo con las disponibilidades presupuestales, los partidos políticos recibirán anualmente, en forma equitativa, financiamiento público. La ley garantizará que los recursos públicos prevalezcan sobre los de origen privado.
+Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales.
 
-El financiamiento público para los partidos políticos, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico. Se otorgará conforme a lo siguiente y a lo que disponga la ley:
+La ley regulará las formas de participación o asociación de los partidos políticos con el fin de postular candidatos, tales como las candidaturas comunes.
 
-a) El financiamiento público para el sostenimiento de las actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral por el treinta y cinco por ciento del salario mínimo diario vigente en la capital del Estado.
+(NOTA: EL 10 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, DÉCIMO SEXTO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2015 Y SUS ACUMULADAS 46/2015 Y 47/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEXTO DEL APARTADO A DE LA BASE II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-El treinta y cinco por ciento de la cantidad que resulte de acuerdo a lo señalado en el párrafo anterior, se distribuirá entre los partidos políticos en forma igualitaria y el sesenta y cinco por ciento restante, se repartirá de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados de mayoría relativa inmediata anterior.
+EL PARTIDO POLÍTICO LOCAL QUE NO OBTENGA, AL MENOS, EL TRES POR CIENTO DEL TOTAL DE LA VOTACIÓN ESTATAL EMITIDA EN CUALQUIERA DE LAS ELECCIONES QUE SE CELEBREN PARA LA RENOVACIÓN DEL PODER EJECUTIVO O LEGISLATIVO, LE SERÁ CANCELADO EL REGISTRO. ESTA DISPOSICIÓN NO SERÁ APLICABLE PARA LOS PARTIDOS POLÍTICOS NACIONALES QUE PARTICIPEN EN LAS ELECCIONES LOCALES, SIEMPRE Y CUANDO CONSERVEN SU REGISTRO A NIVEL NACIONAL.
 
-b) El financiamiento público para las actividades tendientes a la obtención del voto durante el año en que se realice el proceso electoral en que se elija al Gobernador del Estado, integrantes de los Ayuntamientos y diputados, será el equivalente al sesenta por ciento del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese mismo año; cuando sólo se elijan integrantes de los Ayuntamientos y diputados, equivaldrá al cuarenta por ciento del financiamiento por actividades ordinarias.
+De conformidad con las bases establecidas en la Constitución Federal, las leyes generales aplicables en la materia y esta Constitución, la ley establecerá el procedimiento para la liquidación de los partidos políticos locales, las obligaciones de los partidos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado.
 
-c) El financiamiento público por actividades específicas, relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales, equivaldrá al cinco por ciento del monto total del financiamiento público que corresponda en cada año por actividades ordinarias. El treinta y cinco por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el sesenta y cinco por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados de mayoría relativa inmediata anterior.
+El Estado reconocerá el derecho y garantizará el acceso a las prerrogativas de los partidos políticos, en los términos que establecen la Constitución Federal, las leyes generales aplicables y esta Constitución.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+Los partidos políticos nacionales y locales en el Estado, recibirán financiamiento público en forma equitativa para sus actividades ordinarias permanentes, para actividades específicas como entidades de interés público y las tendientes a la obtención del voto durante los procesos electorales.
 
-Apartado C.- La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos y de los candidatos independientes. La propia ley establecerá el monto máximo que tendrán las aportaciones de sus simpatizantes, cuya suma total no excederá el diez por ciento del tope de gastos de campaña que se determine para la elección de Gobernador.
+Por cuanto al control y vigilancia de los recursos de los partidos políticos se estará a lo que disponen la Constitución Federal y la legislación aplicable.
 
-Asimismo, la legislación electoral fijará las reglas para las precampañas y las campañas electorales de los partidos políticos y los candidatos independientes, y las sanciones para quienes las infrinjan. La duración de las campañas no deberá exceder de noventa días para la elección de gobernador, ni de sesenta días cuando sólo se elijan diputados locales y ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
+Los partidos políticos accederán a las prerrogativas de radio y televisión, de conformidad con lo establecido en el Apartado B de la base III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, en la ley general aplicable y en lo que disponga la legislación electoral del Estado, en su ámbito de competencia.
 
-Apartado D.- La ley establecerá el procedimiento para la liquidación de los partidos políticos locales, las obligaciones de los partidos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
-Apartado E.- Los partidos políticos accederán a las prerrogativas de radio y televisión, conforme lo establecido en el apartado B de la base III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, en la ley electoral federal que reglamenta lo relativo a dicha disposición constitucional y conforme a lo que disponga la legislación electoral local en su ámbito de competencia.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 17 DE DICIEMBRE DE 2013)</small>
-
-Los candidatos independientes accederán a las prerrogativas de radio y televisión en los términos que establece la legislación en la materia. Sólo gozarán de este derecho durante las campañas electorales.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
-
-Los partidos políticos, sus candidatos y los candidatos independientes en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
-
-> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA EN LA REFORMA ANTERIOR EN EL PÁRRAFO TERCERO, SIN EMBARGO, DEL ANÁLISIS DEL DECRETO No. LXII-32 DE FECHA 17 DE DICIEMBRE DE 2013, SE ADVIERTE QUE PASÓ A SER UN NUEVO CUARTO PÁRRAFO.</small>
-
-Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la transmisión en territorio nacional de este tipo de mensajes contratados en el extranjero.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
-
-En la propaganda política o electoral que difundan los partidos políticos, sus candidatos y los candidatos independientes deberán abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas.
-
-> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA EN LA REFORMA ANTERIOR EN EL PÁRRAFO QUINTO, SIN EMBARGO, DEL ANÁLISIS DEL DECRETO No. LXII-32 DE FECHA 17 DE DICIEMBRE DE 2013, SE ADVIERTE QUE PASÓ A SER UN NUEVO SEXTO PÁRRAFO.</small>
-
-Durante el tiempo que comprendan las campañas electorales, y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes federales y estatales, como de los municipios, órganos de gobierno del Distrito Federal, sus delegaciones y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
-
-Apartado F.- La ley preverá los procedimientos para el control y vigilancia del origen y uso de los recursos con que cuenten los partidos políticos y los candidatos independientes y establecerá las sanciones por el incumplimiento a las disposiciones en esta materia.
-
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
-
-Apartado G.- Conforme a las reglas que para tal efecto se establezcan en la ley, los partidos políticos no podrán proponer a más del 50% de candidatos de un mismo género.
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
-
-Apartado H.- Los ciudadanos que soliciten su registro como candidatos de manera independiente participarán en los procesos electorales del Estado en condiciones generales de igualdad.
+B.- Los ciudadanos que soliciten su registro como candidatos de manera independiente participarán en los procesos electorales del Estado en condiciones generales de equidad.
 
 Los candidatos independientes estarán representados ante la autoridad electoral de la elección en que participen y ante las mesas directivas de casilla correspondientes.
 
 Ninguna persona podrá ser registrada como candidato independiente a más de un cargo de elección popular en el mismo proceso electoral.
 
-II. De la Autoridad Administrativa Electoral.- La organización de las elecciones, es una función estatal que se realiza a través de un Organismo Público Autónomo; de los partidos políticos y de los ciudadanos, según lo disponga la Ley.
+La ley preverá los mecanismos para la postulación, registro, derechos y obligaciones de los candidatos independientes, garantizando su derecho al financiamiento público y al acceso a la radio y la televisión, en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos y en las leyes aplicables.
 
-El Organismo Público se denominará Instituto Electoral de Tamaulipas y será autónomo en su funcionamiento e independiente en sus decisiones, dotado de personalidad jurídica, patrimonio propio y facultad reglamentaria.
+Los candidatos independientes gozarán de estas prerrogativas únicamente durante las campañas electorales.
 
-La certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores en el ejercicio de esta función estatal.
+Los candidatos independientes únicamente recibirán financiamiento público para sus actividades tendientes a la obtención del voto durante los procesos electorales.
 
-El Instituto Electoral de Tamaulipas será autoridad en la materia y profesional en su desempeño; se estructurará con órganos de dirección, ejecutivos, técnicos y de vigilancia.
+La ley preverá los procedimientos para el control y vigilancia del origen y uso de los recursos con que cuenten los candidatos independientes y establecerá las sanciones por el incumplimiento a las disposiciones en esta materia.
 
-El Consejo General será su Órgano Superior de Dirección y se integrará por un Consejero Presidente y seis Consejeros Electorales, y concurrirán, con voz pero sin voto, los representantes de los partidos políticos y un Secretario Ejecutivo; la ley determinará las reglas para la organización y funcionamiento de estos órganos, así como las relaciones de mando entre éstos.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
-Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional de la función electoral. Las mesas directivas de casillas estarán integradas por ciudadanos que serán insaculados del padrón electoral.
+C.- Los partidos políticos, sus candidatos y los candidatos independientes en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
 
-La ley establecerá los requisitos mínimos que deberán reunir los funcionarios del Instituto Electoral de Tamaulipas, para garantizar la eficacia del principio de imparcialidad.
+Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la transmisión en territorio nacional de este tipo de mensajes contratados en el extranjero.
 
-En el Instituto Electoral de Tamaulipas habrá una Contraloría General que tendrá a su cargo, con autonomía técnica y de gestión, la fiscalización de todos los ingresos y egresos del Instituto.
+(NOTA: EL 10 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, DÉCIMO SEXTO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2015 Y SUS ACUMULADAS 46/2015 Y 47/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DEL APARTADO C DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-El Instituto Electoral de Tamaulipas fiscalizará las finanzas de los partidos políticos a través de un órgano técnico del Consejo General, dotado de autonomía de gestión, denominado Unidad de Fiscalización. La ley desarrollará la integración y funcionamiento de dicho órgano, así como los procedimientos para la aplicación de sanciones por el Consejo General.
+DURANTE EL TIEMPO QUE COMPRENDAN LAS CAMPAÑAS ELECTORALES Y HASTA LA CONCLUSIÓN DE LA RESPECTIVA JORNADA COMICIAL, DEBERÁ SUSPENDERSE LA DIFUSIÓN EN LOS MEDIOS DE COMUNICACIÓN SOCIAL DE TODA PROPAGANDA GUBERNAMENTAL, TANTO DE LOS PODERES ESTATALES, COMO DE LOS MUNICIPIOS Y CUALQUIER OTRO ENTE PÚBLICO. LAS ÚNICAS EXCEPCIONES A LO ANTERIOR SERÁN LAS CAMPAÑAS DE INFORMACIÓN DE LAS AUTORIDADES ELECTORALES, LAS RELATIVAS A SERVICIOS EDUCATIVOS Y DE SALUD, O LAS NECESARIAS PARA LA PROTECCIÓN CIVIL EN CASOS DE EMERGENCIA.
 
-Para el cumplimiento de sus atribuciones, la Unidad de Fiscalización se coordinará con el Instituto Federal Electoral en los términos de lo establecido en el penúltimo párrafo de la base V del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
+En la propaganda política o electoral que difundan los partidos y candidatos deberán abstenerse de expresiones que calumnien a las personas.
 
-El Instituto Electoral de Tamaulipas se integrará conforme a las siguientes bases:
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
-a) La renovación del Consejero Presidente y de Consejeros Electorales del Consejo General será escalonada, y en caso de ausencia definitiva de alguno de ellos, se designará un sustituto para concluir el período del ausente.
+D.- En los términos que establecen la Constitución Federal, las leyes generales aplicables y esta Constitución, la ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos y de los candidatos independientes. La propia ley establecerá el monto máximo que tendrán las aportaciones de sus simpatizantes, cuya suma total no excederá el diez por ciento del tope de gastos de campaña que se determine para la elección de Gobernador.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+La legislación electoral estatal fijará las reglas para las precampañas y las campañas electorales de los partidos políticos y de los candidatos independientes, así como las sanciones para quienes las infrinjan.
 
-b) Los Consejeros Electorales del Consejo General durarán en su encargo 3 años con posibilidad de una reelección inmediata.
+En todo caso, la duración de las campañas será de sesenta días para la elección de Gobernador y de cuarenta y cinco días cuando se elijan diputados locales o Ayuntamientos; las precampañas no podrán durar más de las dos terceras partes de las respectivas campañas electorales.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+En términos de lo que disponen la Constitución Federal y la legislación aplicable, conforme a las reglas que para tal efecto se establezcan en la ley, los partidos políticos no podrán proponer a más del 50% de candidatos de un solo género, a un mismo órgano de representación política. La autoridad electoral administrativa velará por la aplicación e interpretación de este precepto para garantizar la paridad de género.
 
-c) Los Consejeros Electorales del Consejo General, serán designados por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, mediante convocatoria abierta que para tal efecto se emita, observando los requisitos, procedimiento y reglas que señale la ley respectiva. Los Consejeros Electorales del Consejo General designarán, de entre ellos, al Consejero Presidente que los dirija y represente; éste ejercerá el cargo hasta por tres años y podrá ser reelecto para otro período.
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
-d) El Consejero Presidente y los Consejeros Electorales del Consejo General no podrán tener otra responsabilidad oficial o empleo, cargo o comisión remunerados, con excepción de aquellos en que actúen en representación del Consejo General y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados, previa autorización del propio Consejo General.
+E.- A los partidos políticos y a los candidatos independientes les serán aplicables los regímenes sancionadores electorales conducentes.
 
-e) Los partidos políticos contarán con un representante propietario y un suplente ante el Consejo General. Dichos representantes serán acreditados por la persona o el órgano que cuente con facultades para ello, de conformidad con las normas internas del instituto político que corresponda.
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN II], P.O. 13 DE JUNIO DE 2015)</small>
 
-f) El Secretario Ejecutivo será designado por el Consejo General a propuesta del Consejero Presidente.
+III.- De la Autoridad Administrativa Electoral.- La organización de las elecciones es una función estatal que se realiza a través de un organismo público autónomo, integrado por ciudadanos y partidos políticos según lo disponga la ley y de conformidad con lo siguiente:
 
-g) El titular de la Contraloría General del Instituto será designado por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, en la forma y términos que determine la ley. Durará 3 años en el cargo con posibilidad de una reelección inmediata.
+1. El organismo público se denominará Instituto Electoral de Tamaulipas y será autónomo en su funcionamiento e independiente en sus decisiones, dotado de personalidad jurídica, patrimonio propio y facultad reglamentaria.
 
-h) El titular de la Unidad de Fiscalización será designado por el Consejo General a propuesta del Consejero Presidente.
+2. En el ejercicio de la función electoral, a cargo de las autoridades electorales, serán principios rectores los de certeza, legalidad, imparcialidad, independencia, máxima publicidad y objetividad.
 
-i) El Instituto Electoral del Tamaulipas se integrará con las Direcciones Ejecutivas, Direcciones y demás órganos, necesarios y permanentes que garantizarán la eficaz prestación profesional de la función electoral.
+3. El Instituto Electoral de Tamaulipas será autoridad en la materia y profesional en su desempeño; se estructurará con órganos de dirección, ejecutivos, técnicos y de vigilancia. Las leyes aplicables determinarán las reglas para la organización y funcionamiento de este órgano.
 
-La ley establecerá las reglas, requisitos y procedimientos para la designación de los integrantes del Instituto Electoral de Tamaulipas.
+4. El Instituto Electoral de Tamaulipas contará con un órgano de dirección superior integrado por un consejero Presidente y seis consejeros electorales, con derecho a voz y voto; el Secretario Ejecutivo y los representantes de los partidos políticos concurrirán a las sesiones sólo con derecho a voz; el Secretario Ejecutivo será designado por el Consejo General a propuesta del Consejero Presidente, en términos de la ley.
 
-El Instituto Electoral de Tamaulipas tendrá a su cargo en forma integral y directa, además de las que determine la ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, establecimiento y revisión de las demarcaciones de los distritos electorales, los derechos y prerrogativas de las agrupaciones y de los partidos políticos, impresión de materiales electorales, preparación de la jornada electoral, los cómputos en los términos que señale la ley, declaración de validez y otorgamiento de constancias en las elecciones de Gobernador, diputados e integrantes de los Ayuntamientos, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales.
+5. Cada partido político contará con un representante propietario y un suplente ante el Consejo General en dicho órgano. Dichos representantes serán acreditados por la persona o el órgano partidista que cuente con facultades para ello, de conformidad con las normas internas del instituto político que corresponda.
 
-El Instituto Electoral de Tamaulipas, por acuerdo de tres cuartas partes de los integrantes del Consejo General, podrá convenir con el Instituto Federal Electoral la organización de procesos electorales locales, en los términos que la ley disponga.
+6. El consejero Presidente y los consejeros electorales serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la Constitución Federal y la ley general aplicable.
 
-III. De la justicia electoral.- La ley establecerá un sistema de medios de impugnación para garantizar la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación, y que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad; y fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, incluyendo aquellas que corresponda desahogar a la autoridad electoral jurisdiccional federal, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales.
+7. Los consejeros electorales estatales deberán ser originarios del Estado de Tamaulipas o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación, y cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la ley general aplicable.
 
-Del sistema de medios de impugnación conocerán, según la competencia, el Instituto Electoral de Tamaulipas y el Tribunal Electoral del Poder Judicial del Estado.
+8. En caso de que ocurra una vacante de consejero electoral, el Consejo General del Instituto Nacional Electoral hará la designación correspondiente en términos de la Constitución Federal y la ley general aplicable. Si la vacante se verifica durante los primeros cuatro años de su encargo, se elegirá un sustituto para concluir el periodo. Si la falta ocurriese dentro de los últimos tres años, se elegirá a un consejero para un nuevo periodo.
 
-La ley señalará los supuestos y las reglas para la realización de recuentos totales o parciales de votación en los ámbitos administrativo y jurisdiccional; fijará las causales de nulidad de las elecciones de gobernador, diputados e integrantes de los ayuntamientos, asimismo, tipificará los delitos y determinará las faltas en materia electoral y las sanciones que por ellos deban imponerse.
+9. Los consejeros electorales tendrán un periodo de desempeño de siete años y no podrán ser reelectos; percibirán una remuneración igual a la de los Magistrados del Tribunal Electoral del Estado.
 
-La persecución e investigación de los delitos electorales, estará a cargo de la fiscalía especializada en materia electoral, según lo prevea la ley correspondiente.
+10. Los consejeros electorales y demás servidores públicos que establezcan las leyes aplicables, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
-Las autoridades estatales, municipales y federales coadyuvarán en todo aquello que les sea requerido por el Instituto o el Tribunal Electoral del Poder Judicial del Estado.
+11. En términos de la Constitución Federal y la ley general aplicable, todo lo relativo a los órganos ejecutivos y técnicos y el cuerpo de servidores públicos calificado, necesario para prestar el servicio profesional de la función electoral, será regulado por el Instituto Nacional Electoral.
 
-En materia electoral, la interposición de los medios de impugnación legales no producirá efectos suspensivos sobre la resolución o acto impugnado.
+12. Las mesas directivas de casillas estarán integradas por ciudadanos que serán insaculados del padrón electoral, en términos de la ley.
 
-IV. Del órgano jurisdiccional electoral.- La función jurisdiccional electoral estará a cargo del Tribunal Electoral del Poder Judicial del Estado, misma que gozará de autonomía en su funcionamiento e independencia en sus decisiones; será la máxima autoridad de la materia.
+13. En el Instituto Electoral de Tamaulipas habrá una Contraloría General que tendrá a su cargo, con autonomía técnica y de gestión, la fiscalización de todos los ingresos y egresos del Instituto. El titular de la Contraloría General del Instituto será designado por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, en la forma y términos que determine la ley. Durará 6 años en el cargo sin posibilidad de reelección, en términos de la ley.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+14. De conformidad con lo que establecen la Constitución Federal y las leyes generales aplicables, la fiscalización de las finanzas de los partidos políticos y de las campañas de los candidatos estará a cargo del Consejo General del Instituto Nacional Electoral.
 
-El Tribunal Electoral del Poder Judicial del Estado se integrará con cinco Magistrados Electorales, mismos que serán designados por las dos terceras partes de los miembros presentes del Congreso del Estado, de la propuesta que para tal efecto envíe el Pleno del Supremo Tribunal de Justicia del Estado, previa convocatoria pública y evaluación objetiva que el órgano proponente haga entre los participantes. El Supremo Tribunal de Justicia del Estado enviará al Congreso del Estado una propuesta de dos candidatos por cada vacante del Tribunal Electoral del Poder Judicial del Estado. Los Magistrados del Tribunal Electoral designarán, de entre ellos, al Magistrado Presidente que los dirija y represente; quien ejercerá el cargo hasta por seis años.
+15. El Instituto Electoral de Tamaulipas fiscalizará el origen, destino, uso y monto de los recursos de los partidos políticos únicamente cuando esta función le sea delegada por el Instituto Nacional Electoral, en términos de la Constitución Federal y la legislación aplicable; dicha función será ejercida a través de un órgano técnico de su Consejo General, denominado Unidad de Fiscalización, que contará con autonomía técnica y de gestión.
 
-La elección de los magistrados del Tribunal Electoral del Poder Judicial del Estado será escalonada, conforme a las reglas y al procedimiento que señale la ley, y en caso de ausencia definitiva de alguno de ellos, se designará un sustituto para concluir el período del ausente.
+16. En el supuesto del párrafo anterior, el órgano técnico del Instituto Nacional Electoral será el conducto por el cual la Unidad de Fiscalización del Instituto Electoral de Tamaulipas podrá superar la limitación relativa a los secretos fiduciario, bancario y fiscal.
 
-El Tribunal Electoral del Poder Judicial del Estado funcionará en Pleno y será la única instancia para la resolución de los asuntos en materia electoral. Sus resoluciones serán emitidas con plenitud de jurisdicción, y contará con la fuerza coactiva del Estado para hacer cumplir sus ejecutorias. Podrá emitir criterios de jurisprudencia de conformidad con lo previsto en la ley respectiva. Sus sesiones de resolución serán públicas, en los términos que determine la ley y el reglamento correspondiente.
+17. El titular de la Unidad de Fiscalización será designado por el Consejo General del Instituto Electoral de Tamaulipas a propuesta de su Consejero Presidente, en términos de la ley.
 
-El Tribunal Electoral del Poder Judicial del Estado únicamente podrá declarar la nulidad de una elección por causas expresamente señaladas en la ley.
+18. En términos de lo que disponen la Constitución Federal y la legislación aplicable, el Instituto Electoral de Tamaulipas, ejercerá funciones en las siguientes materias:
 
-Los Magistrados Electorales que integren el Tribunal Electoral del Poder Judicial del Estado deberán satisfacer los requisitos que establezca la ley, mismos que no podrán ser menores que para ser magistrado del Supremo Tribunal de Justicia. Durarán en su encargo seis años improrrogables y no podrán ser reelectos.
+a) Derechos y el acceso a las prerrogativas de los candidatos y partidos políticos;
 
-Para el ejercicio de su competencia, el Tribunal Electoral del Poder Judicial del Estado contará con un Secretario General de Acuerdos, Secretarios de Estudio y Cuenta, y demás personal que requiera.
+b) Educación cívica;
 
-El Secretario General de Acuerdos será designado por el Tribunal Electoral del Poder Judicial del Estado a propuesta del Magistrado Presidente.
+c) Preparación de la jornada electoral;
 
-Al Tribunal Electoral del Poder Judicial del Estado le corresponde resolver en forma definitiva e inatacable, en los términos de esta Constitución, y según lo disponga la ley, acerca de:
+d) Impresión de documentos y la producción de materiales electorales;
 
-a) Las impugnaciones en las elecciones (sic) Gobernador, diputados e integrantes de los Ayuntamientos;
+e) Escrutinios y cómputos en los términos que señale la ley;
+
+f) Declaración de validez y el otorgamiento de constancias en las elecciones locales;
+
+g) Cómputo de la elección del titular del poder ejecutivo;
+
+h) Resultados preliminares; encuestas o sondeos de opinión; observación electoral, y conteos rápidos, conforme lo establecen la Constitución Federal y la ley general aplicable;
+
+i) Organización, desarrollo, cómputo y declaración de resultados en los mecanismos de participación ciudadana que prevea la legislación local;
+
+j) Todas las no reservadas al Instituto Nacional Electoral; y
+
+k) Las que determine la ley.
+
+19. En términos de lo que disponen la Constitución Federal y la legislación aplicable, el Instituto Electoral de Tamaulipas podrá solicitar y convenir con el Instituto Nacional Electoral que éste se haga cargo de la organización de los procesos electorales estatales.
+
+20. Fomentar los valores cívicos y la cultura democrática promoviendo la participación de las niñas, niños y adolescentes en los procesos electorales.
+
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN III], P.O. 13 DE JUNIO DE 2015)</small>
+
+IV.- De la Justicia Electoral.- De conformidad con lo que establece la Constitución Federal, la ley establecerá un sistema de medios de impugnación para garantizar la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación, y que todos los actos y resoluciones electorales se sujeten invariablemente a los principios de legalidad, certeza, imparcialidad, independencia, máxima publicidad y objetividad.
+
+La ley fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, incluyendo aquellas que corresponda desahogar a la autoridad electoral jurisdiccional federal, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales.
+
+Del sistema de medios de impugnación conocerá el Tribunal Electoral del Estado de Tamaulipas.
+
+En materia electoral, la interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o acto impugnado.
+
+Las autoridades electorales del Estado, administrativas y jurisdiccionales, contarán con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley.
+
+En términos de lo que dispone la Constitución Federal, la ley señalará los supuestos y las reglas para la realización de recuentos totales o parciales de votación en los ámbitos administrativo y jurisdiccional y establecerá el sistema de nulidades de las elecciones de Gobernador, Diputados e integrantes de los Ayuntamientos.
+
+Además de las previstas en la legislación de la materia, se consideran causas de nulidades de elecciones locales por violaciones graves, dolosas y determinantes en los siguientes casos:
+
+a) Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;
+
+b) Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley; y
+
+c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
+
+Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
+
+En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
+
+Asimismo, la ley determinará los delitos y las faltas en materia electoral y las sanciones que por ellas deban imponerse.
+
+La persecución e investigación de los delitos electorales estará a cargo de la Fiscalía Estatal, especializada en materia electoral, en su ámbito de competencia, según lo prevea la ley.
+
+Las autoridades federales estatales y municipales coadyuvarán en todo aquello que les sea requerido por el Instituto o el Tribunal Electoral del Estado.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA, ANTES FRACCIÓN IV], P.O. 13 DE JUNIO DE 2015)</small>
+
+V.- De la Autoridad Jurisdiccional Electoral.- En términos de lo que dispone la Constitución Federal y la ley general aplicable, la autoridad electoral jurisdiccional está a cargo del Tribunal Electoral del Estado de Tamaulipas, órgano jurisdiccional especializado en materia electoral, que gozará de autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones. Deberá cumplir sus funciones bajo los principios de certeza, imparcialidad, objetividad, legalidad y probidad.
+
+Este órgano jurisdiccional no estará adscrito al Poder Judicial del Estado.
+
+El Tribunal Electoral del Estado de Tamaulipas se integra con cinco magistrados electorales, que actuarán en forma colegiada y permanecerán en su encargo durante siete años, en términos de la Constitución Federal y la legislación aplicable.
+
+Los requisitos para ser Magistrado Electoral en el Estado de Tamaulipas son los que establece la Ley General de Instituciones y Procedimientos Electorales.
+
+En términos de la ley general aplicable, los magistrados electorales serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores, previa convocatoria pública.
+
+En caso de presentarse alguna vacante temporal de alguno de los magistrados que componen el Tribunal Electoral del Estado, se cubrirá de conformidad con el procedimiento que disponga la Ley.
+
+En términos de la Constitución Federal y la ley general aplicable tratándose de una vacante definitiva de magistrado, será comunicada a la Cámara de Senadores para que se provea el procedimiento de sustitución. Las vacantes temporales que excedan de tres meses, serán consideradas como definitivas.
+
+Los magistrados del Tribunal Electoral designarán, de entre ellos, por votación mayoritaria, al Magistrado Presidente que los dirija y represente. La ley estatal aplicable establecerá el procedimiento de designación del Magistrado Presidente, las reglas para cubrir vacantes temporales que se presenten y la forma en que la presidencia del Tribunal se rotará.
+
+En términos de lo que dispone la ley general aplicable, durante el periodo de su encargo, los magistrados electorales no podrán tener ningún otro empleo, cargo o comisión con excepción de aquéllos en que actúen en representación de la autoridad electoral jurisdiccional local, y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados, asimismo, concluido su encargo, no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales se hayan pronunciado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.
+
+Los magistrados electorales gozarán de todas las garantías judiciales previstas en el artículo 17 de la Constitución Federal a efecto de garantizar su independencia y autonomía, cuyo contenido mínimo se integra por la permanencia, la estabilidad en el ejercicio del cargo por el tiempo de su duración y la seguridad económica.
+
+La retribución que reciban los Magistrados Electorales y el Magistrado Presidente, será igual a la que recibe un Magistrado del Supremo Tribunal de Justicia del Estado.
+
+La ley general aplicable determinará las causas de responsabilidad de los magistrados electorales.
+
+Los magistrados electorales sólo podrán ser privados de sus cargos en términos del Título Cuarto de la Constitución Federal y las leyes de responsabilidades de los servidores públicos aplicables.
+
+Los magistrados electorales serán los responsables de resolver los medios de impugnación interpuestos en contra de todos los actos y resoluciones electorales locales, en términos de las leyes del Estado.
+
+El Tribunal Electoral del Estado funcionará en Pleno y será la única instancia para la resolución de los asuntos en materia electoral. Sus resoluciones serán emitidas con plenitud de jurisdicción, y contará con la fuerza coactiva del Estado para hacer cumplir sus ejecutorias. Podrá emitir criterios de jurisprudencia de conformidad con lo previsto en la ley respectiva. Sus sesiones de resolución serán públicas, en los términos que establezcan la ley y el reglamento correspondiente.
+
+El Tribunal Electoral del Estado únicamente podrá declarar la nulidad de una elección por causas expresamente señaladas en la Constitución Federal, esta Constitución y las leyes correspondientes.
+
+Para el ejercicio de su competencia, el Tribunal Electoral del Estado contará con un Secretario General de Acuerdos, un Secretario Técnico del Pleno, Secretarios de Estudio y Cuenta, y demás personal que requiera, en términos de la Ley.
+
+El Secretario General de Acuerdos y el Secretario Técnico del Pleno serán designados por dicho órgano a propuesta del Magistrado Presidente, en los términos de la Ley.
+
+Al Tribunal Electoral del Estado le corresponde resolver en forma definitiva e inatacable, en los términos de esta Constitución, y según lo disponga la ley, acerca de:
+
+a) Las impugnaciones en las elecciones de Gobernador, Diputados e integrantes de los Ayuntamientos;
 
 b) Las impugnaciones de actos y resoluciones que violen los derechos político-electorales de los ciudadanos de votar y ser votado, en los términos que señalen las leyes;
 
 c) Las impugnaciones de actos, resoluciones y omisiones del Instituto Electoral de Tamaulipas;
 
-d) Los conflictos o diferencias laborales entre el Tribunal Electoral del Poder Judicial del Estado o el Instituto Electoral de Tamaulipas y sus servidores;
+d) Los conflictos o diferencias laborales entre el Tribunal Electoral del Estado o el Instituto Electoral de Tamaulipas y sus servidores; y
 
 e) Las demás que señale la ley.
 
-La administración, vigilancia y disciplina del Tribunal Electoral del Poder Judicial del Estado corresponderán, en los términos que señale la ley, a una Comisión que se integrará por el Presidente del Tribunal Electoral del Poder Judicial del Estado, quien la presidirá; un Magistrado del Tribunal Electoral del Poder Judicial del Estado; y un Magistrado del Supremo Tribunal de Justicia del Estado, propuesto por el Presidente de éste.
-
-El Tribunal Electoral del Poder Judicial del Estado propondrá su presupuesto al Presidente del Supremo Tribunal de Justicia del Estado para su inclusión en el proyecto de Presupuesto del Poder Judicial del Estado. Asimismo, el Tribunal Electoral del Poder Judicial del Estado expedirá su Reglamento Interno y los acuerdos generales para su adecuado funcionamiento.
-
-La ley garantizará que los Consejeros Electorales que integrarán el Instituto Electoral de Tamaulipas y los Magistrados del Tribunal Electoral del Poder Judicial del Estado, no tengan antecedentes de dirigencia partidaria, en los 3 años inmediatos anteriores a la designación.
+El Tribunal Electoral del Estado propondrá su presupuesto al Ejecutivo del Estado para su inclusión en el proyecto de Presupuesto del Estado. Asimismo, el Tribunal Electoral expedirá su Reglamento Interno y los acuerdos generales para su adecuado funcionamiento.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
 
@@ -591,53 +655,45 @@ La residencia de los Poderes únicamente podrá cambiarse por resolución del Co
 
 ### CAPITULO I. De la organización del Congreso
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
 ###### Art. 25.
 
-El ejercicio de las funciones propias del Poder Legislativo se encomienda a una asamblea que se denominara "Congreso del Estado Libre y Soberano de Tamaulipas". Los Diputados al Congreso serán electos en su totalidad cada tres años. Por cada Diputado propietario se elegirá un suplente. La elección se celebrará el primer domingo del mes de julio del año que corresponda.
+El ejercicio de las funciones propias del Poder Legislativo se encomienda a una asamblea que se denominará "Congreso del Estado Libre y Soberano de Tamaulipas". Los Diputados al Congreso serán electos en su totalidad cada tres años. Por cada Diputado propietario se elegirá un suplente.
 
-> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 1997)</small>
+En los términos de la Constitución Federal, la ley general aplicable, esta Constitución y la ley estatal aplicable, los diputados podrán ser reelectos, de manera consecutiva, por una sola ocasión.
 
-Las Legislaturas del Estado se integrarán con diputados elegidos según los principios de mayoría relativa y de representación proporcional, en los términos que señale la Ley.
+La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. En los casos de los Diputados que hayan accedido a tal cargo mediante una candidatura independiente, sólo podrán postularse para ser electos de manera consecutiva por esa misma vía, sin que puedan ser postulados por algún partido político o coalición.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+Las legislaturas del Estado se integrarán con Diputados electos según los principios de Mayoría Relativa y de Representación Proporcional, en los términos que señale la Constitución Federal y la ley.
+
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
 ###### Art. 26.
 
-El Congreso del Estado se integrará por 22 Diputados electos según el principio de votación Mayoritaria Relativa, mediante el sistema de Distritos Electorales Uninominales, y con 14 Diputados que serán electos según el principio de Representación Proporcional y el sistema de listas estatales, votadas en la circunscripción plurinominal que constituye la Entidad.
+El Congreso del Estado se integrará por 22 Diputados electos según el principio de votación de Mayoría Relativa, mediante el sistema de Distritos Electorales Uninominales, y con 14 Diputados que serán electos según el principio de Representación Proporcional y el sistema de lista estatal, votadas en la circunscripción plurinominal que constituye el Estado.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO No. LX-721, PUBLICADO EN EL P.O. DE 10 DE SEPTIEMBRE DE 2009, SE MODIFICA LA ESTRUCTURA DEL PRESENTE PÁRRAFO, PARA QUEDAR CONFORMADO POR TRES FRACCIONES.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
 ###### Art. 27.
 
-La asignación de los 14 diputados electos según el principio de representación proporcional y el sistema de asignación por listas estatales, se sujetará a las siguientes bases y a lo que disponga la ley:
+La asignación de los 14 Diputados electos según el principio de Representación Proporcional y el sistema de asignación por lista estatal, se sujetará a lo que disponga la ley y a las siguientes bases:
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1995)</small>
+I.- Un partido político, para obtener el registro de su lista estatal, deberá acreditar que participa con candidatos a Diputados por el principio de Mayoría Relativa en, por lo menos, las dos terceras partes de los Distritos Electorales Uninominales;
 
-I.- Un partido político, para obtener el registro de sus listas estatales, deberá acreditar que participa con candidatos a Diputados por el principio de Mayoría Relativa en por lo menos las dos terceras partes de los Distritos Electorales Uninominales;
+(NOTA: EL 10 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, DÉCIMO SEXTO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2015 Y SUS ACUMULADAS 46/2015 Y 47/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
+II.- A LOS PARTIDOS POLÍTICOS QUE HAYAN OBTENIDO POR LO MENOS EL 1.5 % DEL TOTAL DE LA VOTACIÓN ESTATAL EMITIDA, SE LES ASIGNARÁ UN DIPUTADO Y TENDRÁN DERECHO A PARTICIPAR EN LA ASIGNACIÓN RESTANTE DE DIPUTADOS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL;
 
-II.- A todos los partidos políticos que hayan obtenido por lo menos el 1.5 % del total de la votación estatal emitida, se les asignará un diputado; y
+III.- Para la asignación de las diputaciones de Representación Proporcional se estará a las reglas y fórmulas que la ley establezca para tales efectos;
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
+IV.- Ningún partido político podrá contar con más de 22 Diputados por ambos principios;
 
-III.- Para la asignación de las diputaciones de representación proporcional que resten, después de deducidas las utilizadas en el caso de la fracción II, se estará a las reglas y fórmulas que la ley establezca para tales efectos.
+V.- Tampoco podrá contar con un número de Diputados, por ambos principios, que representen un porcentaje del total del Congreso que exceda en ocho puntos a su porcentaje de votación estatal efectiva. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de su votación estatal efectiva más el ocho por ciento;
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
+VI.- Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación estatal efectiva que hubiere recibido menos ocho puntos porcentuales; y
 
-Ningún partido político podrá contar con más de 22 diputados por ambos principios.
-
-> <small>(REFORMADO, [N. DE E.] ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
-
-Tampoco podrá contar con un número de diputados por ambos principios, que representen un porcentaje del total del Congreso que exceda en ocho puntos a su porcentaje de votación estatal efectiva. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de su votación estatal efectiva más el ocho por ciento.
-
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2009)</small>
-
-Los diputados electos según el principio de Representación Proporcional se asignarán en el orden en que fueron registrados en las listas estatales de cada partido político.
+VII.- Los Diputados electos según el principio de Representación Proporcional se asignarán en el orden en que fueron registrados en la lista estatal de cada partido político.
 
 ###### Art. 28.
 
@@ -659,11 +715,13 @@ II.- Ser Ciudadano del Estado, en ejercicio de sus derechos, nacido en el Estado
 
 III.- Tener veintiún años cumplidos el día de la elección.
 
-IV.- Poseer suficiente instrucción.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 1997)</small>
+IV.- Poseer suficiente instrucción; y
 
-V.- Los demás señalamientos que contenga el Código Electoral para el Estado de Tamaulipas.
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+
+V.- Los demás señalamientos que disponga la ley.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 29], P.O. 9 DE SEPTIEMBRE DE 1978)
 
@@ -689,13 +747,11 @@ III.- Los Ministros de cualquier culto religioso, salvo que se ciñan a lo dispu
 
 IV.- Los Servidores Públicos del Estado y los Municipios, y los Jueces en su circunscripción, estarán también impedidos si no se separan de su cargo 120 días antes de la elección;
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 1989)</small>
+V.- (DEROGADA, P.O. 13 DE JUNIO DE 2015)
 
-V.- Los Diputados Propietarios al Congreso local y los Suplentes que hayan estado en ejercicio para el período inmediato;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
-
-VI.- Los miembros de los Consejos General, Distritales y Municipales Electorales del Instituto Electoral de Tamaulipas, o Magistrado, Secretario General, Secretario de Estudio y Cuenta o Actuario del Tribunal Electoral del Poder Judicial del Estado, a menos que se separen de su cargo un año antes de la elección;
+VI.- Los miembros de los Consejos General, Distritales y Municipales Electorales del Instituto Electoral de Tamaulipas, o Magistrado, Secretario General, Secretario de Estudio y Cuenta o Actuario del Tribunal Electoral del Estado, a menos que no haya ejercido, concluyan o se separe del cargo dentro del plazo que establezcan la Constitución Federal, la ley general aplicable y la ley estatal de la materia; y
 
 > <small>(ADICIONADA, P.O. 1 DE ABRIL DE 1989)</small>
 
@@ -987,11 +1043,9 @@ Asimismo, conocer de las imputaciones que se hagan a los servidores públicos a 
 
 XX. Conceder ammistía (sic) por delitos cuyo conocimiento corresponde exclusivamente a los tribunales del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
-
-XXI. Elegir y remover a los Magistrados del Supremo Tribunal de Justicia del Estado y del Tribunal Electoral del Poder Judicial del Estado, y a los Consejeros de la Judicatura, en los términos que establece la presente Constitución. Asimismo, elegir y remover al Magistrado del Tribunal Fiscal del Estado; y ratificar al Procurador General de Justicia, con base en la designación que realice el Gobernador del Estado;
+XXI. Elegir y remover a los Magistrados del Supremo Tribunal de Justicia del Estado, y a los Consejeros de la Judicatura, en los términos que establece la presente Constitución. Asimismo, elegir y remover al Magistrado del Tribunal Fiscal del Estado; y ratificar al Procurador General de Justicia, con base en la designación que realice el Gobernador del Estado;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -1005,9 +1059,7 @@ XXIII. Nombrar el Gobernador Interino en los casos a que se refiere el artículo
 
 XXIV. Comunicarse con los Poderes Ejecutivo y Judicial por medio de comisiones nombradas para tal efecto;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
-
-XXV. Elegir al Consejero Presidente y a los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas; así como al Magistrado Presidente y Magistrados del Tribunal Electoral del Poder Judicial del Estado;
+XXV. (DEROGADA, P.O. 13 DE JUNIO DE 2015)
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -1043,9 +1095,9 @@ XXXV. Decretar, en su caso, el modo de cubrir el contingente de hombres que corr
 
 XXXVI. (DEROGADA, P.O. 10 DE JUNIO DE 1995)
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
 
-XXXVII. Recibir la protesta constitucional a los Diputados, al Gobernador y a quienes, en su caso, deban ejercer esta función; a los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Poder Judicial del Estado; al Magistrado del Tribunal Fiscal del Estado; a los Consejeros de la Judicatura, con excepción de su Presidente; al titular de la Presidencia y del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas; a los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas; a los Comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas, y a los servidores públicos que nombre y que conforme a las leyes deban rendirla;
+XXXVII.- Recibir la protesta constitucional a los Diputados, al Gobernador y a quienes, en su caso, deban ejercer esta función; a los Magistrados del Supremo Tribunal de Justicia; al Magistrado del Tribunal Fiscal del Estado; a los Consejeros de la Judicatura, con excepción de su Presidente; al titular de la Presidencia y del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas; a los Comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas, y a los servidores públicos que nombre y que conforme a las leyes deban rendirla;
 
 XXXVIII. Fomentar e impulsar la educación pública y todos los ramos de prosperidad en general;
 
@@ -1095,11 +1147,9 @@ XLVIII. Dictar las leyes necesarias para establecer un sistema integral de justi
 
 LIX (sic). Convocar a elecciones en caso de muerte del Gobernador, o cuando por haber declarado que ha lugar a formación de causa en su contra, haya sido consignado y quede acéfalo el Poder Ejecutivo y siempre que la falta obsoluta (sic) ocurra durante los tres primeros años del período;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
-
-L. Conocer y resolver sobre la renuncia y los impedimentos que tengan para desempeñar sus cargos los Magistrados del Supremo Tribunal de Justicia, del Tribunal Electoral del Poder Judicial del Estado y los consejeros de la Judicatura nombrando en su caso a quien deba sustituirlos, conforme al procedimiento aplicable para cada caso;
+L.- Conocer y resolver sobre la renuncia y los impedimentos que tengan para desempeñar sus cargos los Magistrados del Supremo Tribunal de Justicia, y los Consejeros de la Judicatura nombrando en su caso a quien deba sustituirlos, conforme al procedimiento aplicable para cada caso;
 
 > <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -1523,9 +1573,9 @@ IV.- Los que desempeñen algún cargo o comisión de otros Estados o de la Feder
 
 V.- Los Magistrados del Poder Judicial, consejeros de la Judicatura, Diputados locales, Procurador General de Justicia y Secretario General de Gobierno, o quien haga sus veces, si no se encuentran separados de sus cargos, cuando menos 120 días antes de la elección;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
 
-VI.- Los Magistrados, Secretario General de Acuerdos o Actuario del Tribunal Electoral del Poder Judicial del Estado y los miembros de los Consejos General, Distritales o Municipales del Instituto Electoral de Tamaulipas, si no se encuentran separados de su cargo un año antes de la elección;
+VI.- Los miembros de los Consejos General, Distritales y Municipales Electorales del Instituto Electoral de Tamaulipas, o Magistrado, Secretario General, Secretario de Estudio y Cuenta o Actuario del Tribunal Electoral del Estado, a menos que no hayan ejercido, concluyan o se separen del cargo dentro del plazo que establezcan la Constitución Federal, la ley general aplicable y la ley estatal de la materia; y
 
 > <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 1997)</small>
 
@@ -1639,11 +1689,9 @@ XII.- Iniciar ante el Congreso las Leyes y los Decretos que estime convenientes 
 
 XIII.- Proponer a la Diputación Permanente la convocación del Congreso a sesiones extraordinarias;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
-
-XIV.- Proponer al Congreso del Estado para su estudio y aprobación, en su caso, el nombramiento de Magistrados del Poder Judicial del Estado, con excepción de los Magistrados del Tribunal Electoral, mismos que serán nombrados mediante el procedimiento que para tal efecto se establece en esta Constitución; así como la propuesta de designación del Magistrado del Tribunal Fiscal del Estado;
+XIV.- Proponer al Congreso del Estado para su estudio y aprobación, en su caso, el nombramiento de Magistrados del Poder Judicial del Estado, así como la propuesta de designación del Magistrado del Tribunal Fiscal del Estado;
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
 
@@ -1863,17 +1911,15 @@ La ausencia temporal del Secretario General de Gobierno será cubierta por uno d
 
 ### CAPITULO I. De la Integración y Funcionamiento del Poder Judicial
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2015)</small>
 
 ###### Art. 100.
 
-El ejercicio del Poder Judicial se deposita en el Supremo Tribunal de Justicia, en el Tribunal Electoral del Poder Judicial del Estado, en los Juzgados de Primera Instancia, en los Juzgados Menores, en los Juzgados de Paz y en el Jurado Popular.
+El ejercicio del Poder Judicial se deposita en el Supremo Tribunal de Justicia, en los Juzgados de Primera Instancia, en los Juzgados Menores, en los Juzgados de Paz y en el Jurado Popular.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2009)</small>
-
-La administración, vigilancia y disciplina del Poder Judicial del Estado, con excepción del Pleno del Supremo Tribunal de Justicia y del Tribunal Electoral del Poder Judicial del Estado, estará a cargo del Consejo de la Judicatura del Poder Judicial del Estado, en los términos que al efecto señale esta Constitución y la ley.
+La administración, vigilancia y disciplina del Poder Judicial del Estado, con excepción del Pleno del Supremo Tribunal de Justicia, estará a cargo del Consejo de la Judicatura del Poder Judicial del Estado, en los términos que al efecto señale esta Constitución y la ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
@@ -1887,13 +1933,11 @@ El Consejo de la Judicatura es un órgano del Poder Judicial del Estado con inde
 
 Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de éstas, salvo las que se refieran a la adscripción y remoción de jueces, las cuales podrán ser revisadas por el Pleno del Supremo Tribunal de Justicia, para el sólo efecto de verificar si sus términos se apegaron a lo que dispone la ley orgánica respectiva.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
 ###### Art. 101.
 
-La potestad de impartir justicia mediante el control constitucional estatal, y la aplicación de las leyes en los asuntos de carácter familiar, civil, penal, electoral y de justicia para adolescentes, así como de aquellas otras que pudieran corresponderle, pertenece al Poder Judicial, el cual actuará de manera independiente, imparcial, responsable y sometida únicamente al imperio de la ley. Ningún otro poder, salvo cuando el Congreso actúe como jurado, podrá ejercer funciones judiciales.
+La potestad de impartir justicia mediante el control constitucional estatal, y la aplicación de las leyes en los asuntos de carácter familiar, civil, penal y de justicia para adolescentes, así como de aquellas otras que pudieran corresponderle, pertenece al Poder Judicial, el cual actuará de manera independiente, imparcial, responsable y sometida únicamente al imperio de la ley. Ningún otro poder, salvo cuando el Congreso actúe como jurado, podrá ejercer funciones judiciales.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
@@ -1903,13 +1947,11 @@ Los Jueces y Magistrados no pueden ejercer otras funciones que las expresamente 
 
 La justicia se administrará en nombre de la ley, la que determinará las formalidades para los procedimientos judiciales. Las ejecutorias y provisiones de los Tribunales, se ejecutarán por ellos mismos, en nombre del Estado, en la forma que las leyes prescriban. El juzgador que conozca de un asunto en una instancia, no podrá hacerlo en la otra.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
 ###### Art. 103.
 
-En los términos que disponen las leyes, es obligatorio para los servidores públicos y para toda persona, cumplir las sentencias y demás resoluciones firmes del Supremo Tribunal de Justicia, de sus Salas, del Tribunal Electoral del Poder Judicial del Estado, de sus Magistrados, del Consejo de la Judicatura y de los Jueces; así como prestar la colaboración solicitada por cualquiera de esos ámbitos o titulares de función en el curso de un proceso o en la ejecución de lo resuelto. La autoridad requerida en forma para el cumplimiento de una orden judicial, deberá proporcionar de inmediato los elementos necesarios para ello, bajo pena de hacerse acreedora a las sanciones que la ley determine.
+En los términos que disponen las leyes, es obligatorio para los servidores públicos y para toda persona, cumplir las sentencias y demás resoluciones firmes del Supremo Tribunal de Justicia, de sus Salas, de sus Magistrados, del Consejo de la Judicatura y de los Jueces; así como prestar la colaboración solicitada por cualquiera de esos ámbitos o titulares de función en el curso de un proceso o en la ejecución de lo resuelto. La autoridad requerida en forma para el cumplimiento de una orden judicial, deberá proporcionar de inmediato los elementos necesarios para ello, bajo pena de hacerse acreedora a las sanciones que la ley determine.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
@@ -1963,7 +2005,7 @@ Los designados consejeros, una vez concluida dicha encomienda, podrán continuar
 
 El Consejo de la Judicatura del Estado funcionará en Pleno o en comisiones. El Pleno sesionará con la presencia de su Presidente y de, al menos, tres de sus integrantes.
 
-III.- El Tribunal Electoral del Estado, en los términos previstos en el artículo 20 fracción IV de esta Constitución.
+III.- (DEROGADA, P.O. 13 DE JUNIO DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
@@ -2059,13 +2101,11 @@ IV.- No haber ocupado por lo menos durante el año previo al día de la designac
 
 V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2015)</small>
 
 ###### Art. 112.
 
-No podrán formar parte del Supremo Tribunal de Justicia, del Tribunal Electoral del Poder Judicial del Estado o del Consejo de la Judicatura, dos o más personas que tengan entre sí parentesco por consanguinidad hasta el cuarto grado, o por afinidad hasta el segundo.
+No podrán formar parte del Supremo Tribunal de Justicia, o del Consejo de la Judicatura, dos o más personas que tengan entre sí parentesco por consanguinidad hasta el cuarto grado, o por afinidad hasta el segundo.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
@@ -2131,7 +2171,9 @@ X.- Elegir Presidente del Pleno del Supremo Tribunal, en los términos que deter
 
 XI.- Delegar al Presidente las atribuciones que estime pertinentes;
 
-XII.- Recibir, en sesión plenaria, extraordinaria, pública y solemne que se verificará antes de la segunda quincena del mes de marzo de cada año, el informe anual de labores que deberá rendir su Presidente sobre el estado que guardan el Poder Judicial del Estado y la impartición de justicia, con excepción de la materia electoral.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2015)</small>
+
+XII.- Recibir, en sesión plenaria, extraordinaria, pública y solemne que se verificará antes de la segunda quincena del mes de marzo de cada año, el informe anual de labores que deberá rendir su Presidente sobre el estado que guardan el Poder Judicial del Estado y la impartición de justicia.
 
 El informe se entregará por escrito al Congreso del Estado, en la modalidad que éste acuerde;
 
@@ -2161,11 +2203,11 @@ XXIII.- Conocer y tramitar la ejecución de sentencias ejecutoriadas contra el E
 
 XXIV.- Promover y aplicar la mediación entre las partes, en las diversas materias de su competencia;
 
-XXV.- Proponer al Congreso del Estado a los candidatos a Magistrado Presidente y Magistrados del Tribunal Electoral del Poder Judicial del Estado, en los términos señalados en el artículo 20, fracción IV, de esta Constitución y bajo el procedimiento que señale la ley respectiva;
+XXV.- (DEROGADA, P.O. 13 DE JUNIO DE 2015)
 
 XXVI.- Aprobar el proyecto de presupuesto anual de egresos del Poder Judicial, que deberá presentarle el Consejo de la Judicatura, el que deberá ser remitido al Congreso del Estado, para su aprobación;
 
-XXVII.- Recibir, en sesión plenaria, extraordinaria, pública y solemne, el informe de labores que deberá rendir el Presidente del Tribunal Electoral del Poder Judicial del Estado sobre el estado que guarda el Tribunal y la impartición de justicia electoral. Dicho acto se verificará dentro de los seis meses siguientes a que concluya cada proceso electoral y conforme a lo que disponga la ley; y
+XXVII.- (DEROGADA, P.O. 13 DE JUNIO DE 2015)
 
 XXVIII.- Las demás facultades y obligaciones que las leyes le otorguen.
 
@@ -2193,15 +2235,19 @@ X.- Denunciar ante el Ministerio Público los hechos de que tenga conocimiento y
 
 XI.- Imponer correcciones disciplinarias a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones, actuaciones o diligencias en que intervengan, siempre y cuando se estén ventilando ante el propio Consejo de la Judicatura, ofendan o falten al respeto al Supremo Tribunal de Justicia, a alguno de sus miembros o a cualquier servidor público del Poder Judicial;
 
-XII.- Elaborar el proyecto de presupuesto anual de egresos del Poder Judicial, que deberá ser propuesto para su aprobación al Pleno del Supremo Tribunal de Justicia; el proyecto deberá incluir la propuesta de la materia formulada por el Tribunal Electoral del Poder Judicial del Estado en los términos de los (sic) dispuesto por el artículo 20 fracción IV, antepenúltimo párrafo de esta Constitución;
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
 
-XIII.- Administrar y ejercer el presupuesto del Poder Judicial, excepto el del Tribunal Electoral del Poder Judicial del Estado;
+XII.- Elaborar el proyecto de presupuesto anual de egresos del Poder Judicial, que deberá ser propuesto para su aprobación al Pleno del Supremo Tribunal de Justicia;
+
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
+
+XIII.- Administrar y ejercer el presupuesto del Poder Judicial;
 
 XIV.- Establecer una remuneración adecuada e irrenunciable al personal del Poder Judicial, excepto a los Magistrados;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
 
-XV.- Elaborar los reglamentos, acuerdos y circulares necesarios para la buena marcha administrativa del Poder Judicial, dentro del ámbito de sus competencias, excepto los tendientes a mejorar la impartición de justicia y los relativos al funcionamiento y organización del Pleno del Supremo Tribunal de Justicia y del Tribunal Electoral;
+XV.- Elaborar los reglamentos, acuerdos y circulares necesarios para la buena marcha administrativa del Poder Judicial, dentro del ámbito de sus competencias, excepto los tendientes a mejorar la impartición de justicia y los relativos al funcionamiento y organización del Pleno del Supremo Tribunal de Justicia;
 
 XVI.- Nombrar visitadores judiciales, quienes tendrán las facultades señaladas en la ley;
 
@@ -2437,31 +2483,27 @@ Una ley reglamentará la organización de la defensoría pública y los requisit
 
 ### CAPITULO UNICO. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
 ###### Art. 130.
 
-Cada Municipio será gobernado por un ayuntamiento de elección popular directa, e integrado por un presidente, regidores y síndicos electos por el principio de votación mayoritaria relativa y con regidores electos por el principio de representación proporcional. Los integrantes de los Ayuntamientos serán electos en su totalidad cada tres años. La elección se celebrará el primer domingo del mes de julio del año que corresponda. Tendrán derecho a la asignación de regidores de representación proporcional, los partidos políticos que en la elección de Ayuntamientos no hayan obtenido la mayoría relativa, siempre que la votación recibida a su favor sea igual o mayor al 1.5% del total de la votación municipal emitida para el Ayuntamiento correspondiente, conforme a las reglas establecidas en la ley correspondiente.
+Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un presidente, síndicos y regidores electos por el principio de votación de Mayoría Relativa y con regidores electos por el principio de Representación Proporcional, en los términos de la Constitución Federal, la ley general aplicable y la ley estatal de la materia.
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
+Los integrantes de los Ayuntamientos serán electos en su totalidad cada tres años.
 
-Las facultades que la Constitución Federal otorga al gobierno municipal, se ejercerán por el ayuntamiento de manera exclusiva, sin que pueda existir autoridad intermedia entre éste y el gobierno del Estado.
+Tendrán derecho a la asignación de regidores de Representación Proporcional, los partidos políticos que en la elección de Ayuntamientos no hayan obtenido la Mayoría Relativa, siempre que la votación recibida a su favor sea igual o mayor al 1.5% del total de la votación municipal emitida para el Ayuntamiento correspondiente, conforme a las reglas establecidas en la ley.
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
+Las facultades que la Constitución Federal otorga al gobierno municipal, se ejercerán por el Ayuntamiento de manera exclusiva, sin que pueda existir autoridad intermedia entre éste y el gobierno del Estado.
 
-Los integrantes de los ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el periodo inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el periodo inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el periodo inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes, si podrán ser electos para el periodo inmediato con el carácter de propietarios, a menos que hayan estado en ejercicio.
+Los integrantes de los Ayuntamientos, electos popularmente por elección directa, podrán ser reelectos para el periodo inmediato, por una sola ocasión. Los ciudadanos que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, podrán ser electas para un periodo adicional, en los términos del presente artículo.
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
+En los casos de los integrantes del Ayuntamiento que hayan accedido a tal cargo mediante una candidatura independiente, solo podrán postularse para ser electos de manera consecutiva por esa misma vía, sin que puedan ser postulados por algún partido político o coalición.
 
-La legislatura local, por mayoría calificada de las dos terceras partes de sus integrantes, podrá suspender ayuntamientos, declarar que estos han desaparecido y suspender o revocar el mandato a alguno de sus integrantes, por alguna de las causas que la ley prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y expresar los alegatos que a su juicio convengan.
+La legislatura local, por mayoría calificada de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus integrantes, por alguna de las causas que la ley prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y expresar los alegatos que a su juicio convengan.
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
+Si alguno de los miembros de los Ayuntamientos dejare de desempeñar su cargo, será sustituido por su suplente, o se procederá según lo disponga la ley.
 
-Si alguno de los miembros de los ayuntamientos dejare de desempeñar su cargo, será sustituido por su suplente, o se procederá según lo disponga la ley.
-
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
-
-En caso de declararse desaparecido un ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, a propuesta del Ejecutivo, la legislatura del Estado designará de entre los vecinos a los Consejos Municipales que concluirán los períodos respectivos; estos consejos estarán integrados por el número de miembros que determine la ley, quienes deberán cumplir los requisitos de elegibilidad establecidos para los regidores.
+En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, a propuesta del Ejecutivo, la legislatura del Estado designará de entre los vecinos a los Consejos Municipales que concluirán los periodos respectivos; estos consejos estarán integrados por el número de miembros que determine la ley, quienes deberán cumplir los requisitos de elegibilidad establecidos para los regidores.
 
 > <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
 
@@ -2729,11 +2771,11 @@ Las leyes determinarán los casos y circunstancias en los que se deba sancionar 
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante la autoridad competente respecto de las conductas a que se refiere el presente Artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2015)</small>
 
 ###### Art. 151.
 
-Podrán ser sujetos de juicio político los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Poder Judicial del Estado, los Consejeros de la Judicatura, los jueces, los Secretarios del Ejecutivo, el Procurador General de Justicia, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, el titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, los Comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas, los titulares de los organismos descentralizados, empresas de participación estatal y fideicomisos públicos y los integrantes de los Ayuntamientos.
+Podrán ser sujetos de juicio político los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Estado, los Consejeros de la Judicatura, los Jueces, los Secretarios del Ejecutivo, el Procurador General de Justicia, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, el titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, los Comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas, los titulares de los organismos descentralizados, empresas de participación estatal y fideicomisos públicos y los integrantes de los Ayuntamientos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
@@ -2757,11 +2799,11 @@ Conociendo la acusación el Pleno del Supremo Tribunal de Justicia, erigido en J
 
 Las declaraciones y resoluciones del Congreso y del Supremo Tribunal de Justicia son inatacables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2015)</small>
 
 ###### Art. 152.
 
-Para proceder penalmente contra los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Poder Judicial del Estado, los Consejeros de la Judicatura, los jueces, los Secretarios del Ejecutivo, el Procurador General de Justicia, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, el titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, los Comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas y los titulares de los organismos descentralizados, empresas de participación estatal y fideicomisos públicos por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará, por acuerdo de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el imputado.
+Para proceder penalmente contra los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Estado, los Consejeros de la Judicatura, los Jueces, los Secretarios del Ejecutivo, el Procurador General de Justicia, el Consejero Presidente y los Consejeros Electorales del Consejo General del Instituto Electoral de Tamaulipas, el titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas, los Comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas y los titulares de los organismos descentralizados, empresas de participación estatal y fideicomisos públicos, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará, por acuerdo de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el imputado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -4336,3 +4378,33 @@ DECRETO NÚMERO LXII-582, POR EL QUE SE REFORMA EL ARTÍCULO 164 DE LA CONSTITUC
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La aprobación y publicación de las adecuaciones a la legislación secundaria que deberán realizarse con motivo de las reformas constitucionales objeto del presente Decreto, se llevarán a cabo a más tardar dentro del plazo que señala el artículo 105, fracción II, cuarto párrafo de la Constitución Política de los Estados Unidos Mexicanos.
+
+###### ARTÍCULO TERCERO.
+
+Por única ocasión, los integrantes de los Ayuntamientos electos en la jornada comicial del domingo 5 de junio de 2016, durarán en su encargo dos años, concluyendo éste el 30 de septiembre de 2018.
+
+###### ARTÍCULO CUARTO.
+
+En términos de lo dispuesto por el Artículo Segundo Transitorio, fracción II, inciso a) del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral, publicado el 10 de febrero de 2014 en el Diario Oficial de la Federación, en el proceso electoral del año 2018 la jornada electoral tendrá verificativo el primer domingo de julio.
+
+###### ARTÍCULO QUINTO.
+
+La reforma al artículo 25 de esta Constitución, en materia de reelección de diputados locales, no será aplicable a los legisladores que hayan protestado el cargo en la legislatura que se encuentre en funciones a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+La reforma al artículo 130 de esta Constitución, en materia de reelección de miembros de los Ayuntamientos, no será aplicable a los integrantes de los cabildos que hayan protestado el cargo en los Ayuntamientos que se encuentre (sic) en funciones a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Contralor General del Instituto Electoral de Tamaulipas concluirá el periodo para el que fue designado por el Congreso del Estado, de acuerdo al Decreto LXII-248 publicado en el Periódico Oficial del Estado de fecha 27 de junio de 2014.
