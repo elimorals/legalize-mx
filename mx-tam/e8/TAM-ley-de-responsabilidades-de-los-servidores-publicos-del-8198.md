@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidades-de-los-servidores-publicos-del-8198"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-03"
-last_updated: "2014-06-04"
+last_updated: "2015-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 3 de marzo de 1984.
 
@@ -453,21 +453,29 @@ XX.- Informar al superior jerárquico de todo acto u omisión de los servidores 
 
 Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado a la Contraloría Gubernamental, el superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del subordinado interesado. Si el superior jerárquico omite la comunicación a la Contraloría, el subordinado podrá practicarla directamente informando a su superior acerca de este acto;
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
 
 XXI.- Cumplir con cualquier disposición jurídica relacionada con el servicio público;
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
 
 XXII.- Responder las recomendaciones que le presente la Comisión de Derechos Humanos del Estado de Tamaulipas y, en el supuesto de que se decida no aceptar o no cumplir determinada recomendación deberá hacer pública su negativa, fundándola y motivándola en los términos de lo dispuesto por el Apartado B del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos, el artículo 126 de la Constitución Política del Estado de Tamaulipas y la Ley de la Comisión de Derechos Humanos del Estado de Tamaulipas;
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
 
-XXIII.- Atender a los llamados del Congreso del Estado para comparecer a explicar el motivo de su negativa a aceptar o cumplir las recomendaciones de la Comisión de Derechos Humanos del Estado de Tamaulipas, en términos de lo dispuesto por el Apartado B del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos, el artículo 126 de la Constitución Política del Estado de Tamaulipas y la Ley de la Comisión de Derechos Humanos del Estado de Tamaulipas; y
+XXIII.- Atender a los llamados del Congreso del Estado para comparecer a explicar el motivo de su negativa a aceptar o cumplir las recomendaciones de la Comisión de Derechos Humanos del Estado de Tamaulipas, en términos de lo dispuesto por el Apartado B del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos, el artículo 126 de la Constitución Política del Estado de Tamaulipas y la Ley de la Comisión de Derechos Humanos del Estado de Tamaulipas;
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2015)</small>
 
-XXIV.- Las demás que le impongan las leyes y reglamentos.
+XXIV.- Cumplir en tiempo y forma los mandatos del Instituto Nacional Electoral y cualquiera de sus órganos, conforme lo establezca la legislación electoral aplicable, proporcionarles de manera oportuna y veraz la información que les sea solicitada y prestarles el auxilio y colaboración que les sea requerido por dichas autoridades electorales;
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
+
+XXV.- Aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos; y
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2015)</small>
+
+XXVI.- Las demás que le impongan las leyes y reglamentos.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
 
@@ -998,3 +1006,9 @@ En términos de las atribuciones que le confieren las normas constitucionales y 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE JUNIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
