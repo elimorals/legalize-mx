@@ -4,7 +4,7 @@ identifier: "TAM-codigo-electoral-para-el-estado-de-tamaulipas-66370"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-29"
-last_updated: "2013-09-24"
+last_updated: "2015-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 CÓDIGO ELECTORAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 13 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2015 (ABROGADO).
 
 Código publicado en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 29 de diciembre del 2008.
 
@@ -1447,7 +1449,7 @@ La convocatoria considerará las etapas y procedimientos para la designación o 
 
 IV.- Cuando hubiere concluido el plazo de registro de aspirantes a consejeros electorales o de aspirantes a ser reelectos para dicho encargo, la comisión prevista en la fracción II de este artículo, realizará la evaluación preliminar de los documentos recibidos, emitiendo un dictamen en el que se señalarán a los candidatos que cumplieron con los requisitos contenidos en la convocatoria para ser considerados en la etapa de entrevistas o reuniones de trabajo. La comisión deberá motivar y fundar la exclusión de los aspirantes que no sean considerados para acceder a la etapa de entrevistas o reuniones de trabajo;
 
-V.- Agotadas las etapas anteriores, la comisión citará a los aspirantes que tengan derecho a ello para que comparezcan, a una entrevista o reunión de trabajo. (sic) la propia Comisión. Las modalidades, duración y mecanismos de la referida comparecencia serán determinadas por la comisión mediante acuerdo que emitan para tal efecto;
+V.- Agotadas las etapas anteriores, la comisión citará a los aspirantes que tengan derecho a ello para que comparezcan, a una entrevista o reunión de trabajo. la propia Comisión. Las modalidades, duración y mecanismos de la referida comparecencia serán determinadas por la comisión mediante acuerdo que emitan para tal efecto;
 
 VI.- Concluida la etapa señalada en la fracción que antecede, la comisión emitirá un dictamen final que concluirá con una lista de aspirantes integrada hasta por el triple del número de consejeros necesarios a designar;
 
@@ -3597,7 +3599,7 @@ III.- Realizar o promover la afiliación colectiva de ciudadanos a la organizaci
 
 ###### Artículo 319.
 
-Las organizaciones sindicales, laborales o patronales o cualquier otra agrupación con objeto social diferente al de la creación de partidos políticos; o sus integrantes o dirigentes, cuando actúen o se ostenten con tal carácter, y (sic) o cuando dispongan de los recursos patrimoniales de su organización, cometerán infracciones al presente Código si:
+Las organizaciones sindicales, laborales o patronales o cualquier otra agrupación con objeto social diferente al de la creación de partidos políticos; o sus integrantes o dirigentes, cuando actúen o se ostenten con tal carácter, y o cuando dispongan de los recursos patrimoniales de su organización, cometerán infracciones al presente Código si:
 
 I.- Intervienen en la creación y registro de un partido político o en actos de afiliación colectiva a los mismos; y
 
@@ -4112,3 +4114,43 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
+
+P.O. 13 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Código Electoral para el Estado de Tamaulipas, expedido mediante Decreto número LX-652, y sus reformas subsecuentes, publicado en el Periódico Oficial del Estado, el 29 de diciembre de 2008.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto. Las referencias que en otras leyes se hagan al Código Electoral para el Estado de Tamaulipas, se entenderá que se refieren a la Ley Electoral del Estado de Tamaulipas.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+###### ARTÍCULO QUINTO.
+
+Los Ayuntamientos electos en el proceso electoral de 2016 durarán dos años en funciones, del primero de octubre de 2016 al treinta de septiembre de 2018.
+
+La elección para renovar dichos cuerpos edilicios se llevará a cabo en la misma fecha que las elecciones para renovar a los poderes Ejecutivo y Legislativo federales, que, en ese año se celebrarán el primer domingo de julio, en términos de la Ley General de Instituciones y Procedimientos Electorales y conforme a los plazos que para la realización del proceso establezca el IETAM.
+
+Los Ayuntamientos electos en esa fecha iniciarán su periodo normal de tres años el primero de octubre de 2018. A partir de ese periodo se elegirán en la misma fecha en la que se celebren las elecciones federales correspondientes.
+
+Se sujetarán, por tanto, a los tiempos y etapas que establecen las leyes generales para los procesos electorales.
+
+###### ARTÍCULO SEXTO.
+
+Salvo mandato o disposición en contrario, en las elecciones concurrentes con la federal no entrarán en funciones los Consejos Distritales.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Consejo General dictará los acuerdos necesarios para hacer efectivas las disposiciones de esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Los funcionarios del IETAM continuarán en sus funciones en términos de lo que disponga la regulación del servicio profesional electoral.
