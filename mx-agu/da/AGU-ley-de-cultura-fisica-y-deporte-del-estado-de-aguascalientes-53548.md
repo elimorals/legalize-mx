@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-fisica-y-deporte-del-estado-de-aguascalientes-53
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2015-02-02"
+last_updated: "2015-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2007.
 
@@ -1009,9 +1009,9 @@ Para los fines y propósitos de la presente Ley, se reconoce la participación d
 
 Los CONDE son Asociaciones Civiles, constituidas por Universidades Públicas o Privadas, Tecnológicos y Normales del país, y cualquier institución educativa pública o privada de educación básica, media o superior que tienen por objeto coordinar, de acuerdo con las autoridades educativas competentes los programas emanados del IDEA, entre la comunidad estudiantil de sus respectivos niveles, a las cuales se les reconoce el carácter de asociaciones deportivas.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
 
-La presente Ley y para los efectos de este artículo, se reconoce al deporte en todas sus modalidades y categorías, incluyendo al desarrollado por el sector estudiantil, al deporte para personas con capacidades diferentes y al deporte para personas adultas mayores en plenitud.
+La presente Ley y para los efectos de este artículo, se reconoce al deporte en todas sus modalidades y categorías, incluyendo al desarrollado por el sector estudiantil, al deporte para personas con discapacidad y al deporte para personas adultas mayores en plenitud.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2015)</small>
 
@@ -1239,7 +1239,7 @@ Para efectos de poder acceder a lo señalado en el párrafo anterior, el SIEDE d
 
 ### CAPITULO DECIMO. Del Deporte Adaptado
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
 
 ###### Artículo 75.
 
@@ -1273,7 +1273,7 @@ El IDEA destinará como mínimo el 25% de su presupuesto para la realización de
 
 ###### Artículo 78.
 
-El IDEA, apoyará, promoverá y facilitará la participación de discapacitados en las distintas disciplinas deportivas y procurará contar con personal calificado para brindar la atención que requiere este sector de la población.
+El IDEA, apoyará, promoverá y facilitará la participación de personas con discapacidad en las distintas disciplinas deportivas y procurará contar con personal calificado para brindar la atención que requiere este sector de la población.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
@@ -1281,15 +1281,13 @@ El IDEA, apoyará, promoverá y facilitará la participación de discapacitados 
 
 Los clubes, asociaciones o deportistas que practiquen deporte adaptado deberán de registrar sus organizaciones ante el IDEA, presentando su programación de actividades anuales del siguiente año, a más tardar en el mes de julio, a fin de ser considerados dentro del programa anual del deporte, así como en el presupuesto de egresos del IDEA correspondiente al año fiscal próximo siguiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
 
 ###### Artículo 80.
 
-El IDEA, contará dentro de sus instalaciones deportivas con las facilidades de acceso, desplazamiento y orientación para discapacitados, asimismo, procurará contar dentro de sus servicios médicos, con personal calificado para la atención de personas con discapacidad.
+El IDEA, contará dentro de sus instalaciones deportivas con las facilidades de acceso, desplazamiento y orientación para personas con discapacidad, asimismo, procurará contar dentro de sus servicios médicos, con personal calificado para la atención de personas con discapacidad.
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2010)</small>
-
-Los deportistas discapacitados de alto rendimiento gozarán de los mismos derechos e incentivos establecidos en esta ley en materia de deporte normal y para los deportistas de alto rendimiento.
+Las personas con discapacidad que sean deportistas de alto rendimiento gozarán de los mismos derechos e incentivos establecidos en esta ley en materia de deporte normal y para los deportistas de alto rendimiento.
 
 ### CAPITULO DECIMO SEGUNDO. Del Deporte Estudiantil
 
@@ -2060,3 +2058,13 @@ El Poder Ejecutivo del Estado deberá expedir el reglamento correspondiente y de
 ###### ARTÍCULO TERCERO.
 
 Las adecuaciones necesarias al Estatuto Orgánico del Instituto del Deporte del Estado de Aguascalientes, se harán dentro de los 180 días naturales contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 15 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de "personas con discapacidad".
