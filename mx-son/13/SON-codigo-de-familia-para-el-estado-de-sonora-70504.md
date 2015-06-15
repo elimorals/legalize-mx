@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-familia-para-el-estado-de-sonora-70504"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-15"
-last_updated: "2013-11-21"
+last_updated: "2015-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE JUNIO DE 2015.
 
 Código publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 15 de octubre de 2009.
 
@@ -1931,7 +1931,7 @@ Artículo. 282.- La persona que haya acogido al menor o incapacitado por un per�
 
 ###### Artículo 283.
 
-Si el tutor o el Ministerio Público o el Procurador de la Defensa del Menor y la Familia, se oponen a la adopción, deberán expresar la causa en que se funden, la que será calificada por el Juez, tomando en cuenta los intereses del menor o incapacitado, y escuchando siempre al Sistema Estatal para el Desarrollo Integral de la Familia pudiendo suplir el consentimiento cuando la oposición resulte infundada.
+Si el tutor o el Ministerio Público o el Procurador de la Defensa del Menor y la Familia, se oponen a la adopción, deberán expresar la causa en que se funden, la que será calificada por el Juez, tomando en cuenta los intereses del menor o incapacitado, y escuchando siempre al Sistema Estatal para el desarrollo Integral de la Familia pudiendo suplir el consentimiento cuando la oposición resulte infundada.
 
 ###### Artículo 284.
 
@@ -2267,7 +2267,7 @@ I.- Cuando los que ejerzan la patria potestad han sido declarados en quiebra, o 
 
 II.- Cuando contraigan ulteriores nupcias; y
 
-IIII.- Cuando su administración sea notoriamente ruinosa.
+III.- Cuando su administración sea notoriamente ruinosa.
 
 ###### Artículo 329.
 
@@ -3623,7 +3623,9 @@ VII.- Un vehículo de transporte con valor no superior a 5,000 salarios mínimos
 
 La constitución del patrimonio de familia no hace pasar la propiedad de los bienes que lo constituyen, del constituyente a los miembros de la familia beneficiaria Estos sólo tienen derecho a disfrutar de esos bienes, según lo que dispone el artículo siguiente.
 
-En el caso de muerte del constituyente, si hubiere cónyuge supérstite, descendientes o ascendientes, el patrimonio familiar continuará operando sin dividirse, pasando la propiedad y posesión de los bienes a los herederos que sean beneficiarios de dicho patrimonio, aunque en el testamento de quien lo constituyó se dispusiera lo contrario o éste designare a otros herederos, quienes no tendrán derecho alguno a los bienes que lo integran.
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
+
+En caso de muerte del constituyente, el patrimonio de familia se extinguirá pasando los bienes que lo integran a sus herederos legítimos, salvo que haya disposición testamentaria que los distribuya de otra manera, sin perjuicio de asegurar la supervivencia de los hijos menores de edad o de ascendientes incapacitados, que será a cargo de la sucesión intestamentaria.
 
 ###### Artículo 537.
 
@@ -3645,13 +3647,13 @@ Sólo puede constituirse el patrimonio de familia, con bienes ubicados en el mun
 
 ###### Artículo 541.
 
-Cada familia sólo puede constituir un patrimonio. Los que se constituyan después del primero, no producirán efecto legal alguno.
+Cada familia sólo puede constituir un patrimonio. Los que se constituyan despúes del primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE JUNIO DE 2015)</small>
 
-###### Artículo 542.
+###### ARTÍCULO 542.
 
-El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito al Juez de su domicilio, designando con toda precisión y de manera que puedan ser inscritos en la Oficina del Instituto Catastral y Registral del Estado de Sonora que corresponda, los bienes que van a quedar afectados demostrando, además:
+El miembro de la familia que quiera constituir el patrimonio, lo manifestará por escrito al juez de su domicilio o al notario público de su elección de la demarcación notarial en la que se ubiquen los bienes inmuebles que formaran parte de dicho patrimonio, designando con toda precisión los bienes que van a quedar afectados demostrando, además:
 
 I.- Que es mayor de edad o que ésta emancipado;
 
@@ -3663,13 +3665,15 @@ III.- La existencia de la familia a cuyo favor se va a constituir el patrimonio.
 
 IV.- Que son propiedad del constituyente, los bienes destinados al patrimonio y que no reportan ningún gravamen fuera de las servidumbres. También podrá constituirse cuando se trate de la casa que esté gravada únicamente mediante el préstamo hipotecario otorgado para su adquisición, en cuyo caso el patrimonio de familia no afectará al acreedor hipotecario; y
 
-V.- Que el valor de los bienes que van a constituir el patrimonio no excede del fijado en el artículo 535.
+V.- (DEROGADA, B.O. 15 DE JUNIO DE 2015)
 
-> <small>(REFORMADO, B.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
-###### Artículo 543.
+###### ARTÍCULO 543.
 
-Si se llenan las condiciones exigidas en el artículo anterior, el Juez, previo los trámites que fije el código procesal de la materia, aprobará la constitución del patrimonio de familia y mandará que se hagan las inscripciones correspondientes en el Instituto Catastral y Registral del Estado de Sonora.
+Si se llenan las condiciones exigidas en el artículo anterior, el juez, previos los trámites que fije el código de la materia, aprobará la constitución del patrimonio de la familia, ordenará la protocolización ante notario público y mandará que se hagan las inscripciones correspondientes en el Registro Público.
+
+Si el trámite se realizó ante notario público, este procederá a asentar la escritura correspondiente y, previa a los trámites de carácter administrativo y una vez que autorice en forma definitiva la escritura, procederá a inscribir el primer testimonio de la misma ante el Registro Público de la Propiedad.
 
 > <small>(REFORMADO, B.O. 1 DE MARZO DE 2011)</small>
 
@@ -3682,6 +3686,10 @@ También podrá constituirse el patrimonio de familia ante Notario Público del 
 Cuando el valor individual de los bienes afectados al patrimonio de familia sea inferior al máximo fijado en cada hipótesis del artículo 535, podrá ampliarse el patrimonio hasta el límite autorizado, excepto en los casos en que la ley no exige un valor determinado.
 
 La ampliación se sujetará al mismo procedimiento que para su constitución fije el Código de la materia.
+
+> <small>(ADICIONADO, B.O. 15 DE JUNIO DE 2015)</small>
+
+Una vez creado el patrimonio de familia, su constituyente o constituyentes podrán dar de baja a alguno o algunos de los bienes que lo integran y también podrán sustituirlos por otros de la misma naturaleza. Tratándose de inmuebles, dicha baja o sustitución deberá formalizarse en escritura pública, en tanto que, si dichos bienes son muebles, bastará un escrito firmado ante notario público, dirigido al Registro Público de la Propiedad, que contenga los datos necesarios para identificar el bien y la inscripción de la constitución del patrimonio de familia. En las acciones señaladas en el presente párrafo, en todo momento se deberá salvaguardar el interés superior del menor, en caso de existir.
 
 > <small>(REFORMADO, B.O. 1 DE MARZO DE 2011)</small>
 
@@ -3751,21 +3759,31 @@ II.- Cuando sin causa justificada la familia deje de habitar por un año la casa
 
 III.- Cuando se demuestre que hay gran necesidad o notoria utilidad para la familia, de que el patrimonio quede extinguido;
 
-IV.- Cuando por causa de utilidad pública se expropien los bienes que lo constituyen; y
+> <small>(REFORMADA, B.O. 15 DE JUNIO DE 2015)</small>
 
-V.- Cuando tratándose del patrimonio formado con los bienes vendidos por las autoridades mencionadas en el artículo 548, se declare judicialmente nula o rescindida la venta de esos bienes.
+IV.- Cuando por causa de utilidad pública se expropien los bienes que lo constituyen;
+
+> <small>(REFORMADA, B.O. 15 DE JUNIO DE 2015)</small>
+
+V.- Cuando, tratándose del patrimonio formado con los bienes vendidos por las autoridades mencionadas en el artículo 547 de este Código, se declare judicialmente nula o rescindida la venta de esos bienes; y
+
+> <small>(ADICIONADA, B.O. 15 DE JUNIO DE 2015)</small>
+
+VI.- Cuando la persona o personas que lo constituyeron, lo consideren conveniente.
+
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
+
+###### ARTÍCULO 555.
+
+Los constituyentes o constituyente del patrimonio de familia pueden segregar del mismo los bienes que consideren convenientes. Igualmente pueden, los mismos constituyentes, sustituir los bienes dados de baja del patrimonio de familia por otros de la misma naturaleza, pero en ningún caso podrán dar de baja la casa habitación en la que resida la familia sin sustituirla por otra, ya que, en ese caso el patrimonio de familia quedará extinto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE JUNIO DE 2015)</small>
+
+###### ARTÍCULO 556.
+
+El Juez competente o el notario que designe el constituyente o los constituyentes formulará la declaratoria para constituir o extinguir el patrimonio de familia, cuando proceda o lo soliciten los constituyentes y ordenará su inscripción en el Registro Público de la Propiedad y del Comercio del domicilio en que se ubiquen los inmuebles, salvaguardando el interés superior del menor, en caso de existir.
 
 > <small>(REFORMADO, B.O. 1 DE MARZO DE 2011)</small>
-
-###### Artículo 555.
-
-El Ministerio Público será oído en la extinción y en la reducción del patrimonio de familia.
-
-> <small>(REFORMADO, B.O. 1 DE MARZO DE 2011)</small>
-
-###### Artículo 556.
-
-La declaración que extingue el patrimonio de familia la hará el Juez competente y la comunicará al Instituto Catastral y Registral del Estado de Sonora que corresponda, para que se hagan las cancelaciones correspondientes.
 
 Cuando el patrimonio se extinga por expropiación de sus bienes, el patrimonio quedará extinguido sin necesidad de declaración judicial, debiendo ordenarse su cancelación en el Instituto Catastral y Registral del Estado de Sonora.
 
@@ -3888,3 +3906,9 @@ B.O. 21 DE NOVIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 15 DE JUNIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
