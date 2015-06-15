@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-77783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-28"
-last_updated: "2015-05-25"
+last_updated: "2015-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial de Estado de Aguascalientes, el martes 28 de diciembre de 2010.
 
@@ -165,7 +165,9 @@ III. La adopción del enfoque de desarrollo sostenible y sustentable en la plane
 
 IV. La participación corresponsable de los sectores de la sociedad;
 
-V. La accesibilidad de los discapacitados en todos los aspectos de la vida estatal;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+V. La accesibilidad de personas con discapacidad en todos los aspectos de la vida estatal;
 
 VI. El acceso libre e incluyente de todos los habitantes del Estado, al conocimiento y a la información, como base para la innovación, la creatividad, y el desarrollo integral sustentable; y
 
@@ -379,7 +381,9 @@ a) La participación ciudadana;
 
 b) La equidad de género;
 
-c) La accesibilidad a los discapacitados;
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+
+c) La accesibilidad a personas con discapacidad;
 
 d) La instrumentación de procesos informatizados que coadyuven a la consecución de las responsabilidades encomendadas; y
 
@@ -799,7 +803,7 @@ V. Dirigir, coordinar y controlar la ejecución de los programas de fomento y pr
 
 VI. Promover la simplificación del marco regulatorio en la forma que lo establece la Ley de Gestión Empresarial y Mejora Regulatoria del Estado, para facilitar e impulsar la actividad empresarial;
 
-VII. Integrar y operar el Registro Estatal de Trámites y Servicios;
+VII. (DEROGADA, P.O. 15 DE JUNIO DE 2015)
 
 VIII. Promover la creación y operación de centros regionales de desarrollo con la participación de los sectores empresariales, que permitan fomentar e incrementar las actividades empresariales;
 
@@ -871,7 +875,9 @@ VIII. Coordinar las acciones necesarias para garantizar el derecho a la salud de
 
 IX. Programar y realizar en coordinación con las autoridades federales, estatales y municipales competentes, las campañas de salud y sanitarias de prevención, atención y capacitación que garanticen la preservación y mejora de las condiciones de salud de la población;
 
-X. Proponer e impulsar la ejecución de programas para la asistencia, prevención, atención y tratamiento de personas con capacidades diferentes;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+X. Proponer e impulsar la ejecución de programas para la asistencia, prevención, atención y tratamiento de personas con discapacidad;
 
 XI. Impulsar la desconcentración y descentralización de los servicios de salud a los municipios, mediante los convenios que al efecto se suscriban, en el marco de las leyes y convenios respectivos;
 
@@ -2062,3 +2068,39 @@ Las facultades con que cuentan las unidades administrativas que, por virtud del 
 ###### ARTÍCULO SÉPTIMO.
 
 Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán su despacho por las unidades administrativas responsables de los mismos, conforme a las disposiciones jurídicas aplicables.
+
+P.O. 15 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 197, POR EL QUE SE DEROGA LA FRACCIÓN VII DEL ARTÍCULO 33 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se transforma el Instituto para la Gestión Empresarial y la Mejora Regulatoria del Estado de Aguascalientes, órgano desconcentrado de la Secretaría de Desarrollo Económico, en un organismo público descentralizado. Por tanto todos los derechos y obligaciones contraídos por el Instituto que se transforma serán asumidos por el organismo público descentralizado que se crea por virtud de las presentes reformas.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Finanzas del Gobierno del Estado, autorizará la transferencia de recursos financieros necesarios para la debida operación y funcionamiento del Instituto de Gestión Empresarial y Mejora Regulatoria.
+
+###### ARTÍCULO CUARTO.
+
+El Reglamento del Instituto de Gestión Empresarial y Mejora Regulatoria, deberá expedirse en un plazo máximo de ciento ochenta días naturales, contados a partir de la fecha de publicación del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+La Oficialía Mayor del Gobierno del Estado tramitará la asignación de los recursos materiales y humanos necesarios para iniciar la operación y funcionamiento del Instituto de Gestión Empresarial y Mejora Regulatoria.
+
+P.O. 15 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 199, POR EL QUE SE REFORMAN LOS ARTÍCULOS 12, FRACCIÓN V; 25, FRACCIÓN IV EN SU INCISO C); Y 34, FRACCIÓN X, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de "personas con discapacidad".
