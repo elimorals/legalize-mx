@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-premios-que-otorga-el-congreso-del-estado-de-57668"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2013-03-25"
+last_updated: "2015-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -95,13 +95,17 @@ VIII. Medalla “César E. Chávez”;
 
 IX. Medalla “Saturnino Herrán”;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
 
-X. Medalla “Jesús Terán Peredo”; y
+X. Medalla "Jesús Terán Peredo";
 
-> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
 
-XI. Medalla “Al Merito Deportivo”.
+XI. Medalla "Al Mérito Deportivo"; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+XII. Medalla "Mujer Aguascalentense".
 
 El Congreso del Estado podrá otorgar reconocimientos especiales propuestos por alguno de los Diputados integrantes de la Legislatura.
 
@@ -190,6 +194,14 @@ Indistintamente se podrá otorgar esta presea a la persona física o moral que s
 > <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
 
 ARTÍCULO 12 QUINQUIES.- Esta medalla se otorgará a la persona física o moral que se distinga por su trayectoria, labor o aportaciones realizadas en México o en el extranjero, en materia deportiva y sea ejemplo para la niñez y la juventud de Aguascalientes.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE JUNIO DE 2015)</small>
+
+#### SECCIÓN XII. Medalla "Mujer Aguascalentense"
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2015)</small>
+
+ARTÍCULO 12 SEXIES.- La medalla "Mujer Aguascalentense" se otorgará a la mujer que se destaque por su trayectoria en el ámbito cultural, económico, académico, político y social, en el Estado de Aguascalientes.
 
 ### CAPÍTULO III. De La Comisión De Postulaciones
 
@@ -300,3 +312,9 @@ P.O. 25 DE MARZO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JUNIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
