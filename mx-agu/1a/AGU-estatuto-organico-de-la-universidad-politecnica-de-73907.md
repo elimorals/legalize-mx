@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-organico-de-la-universidad-politecnica-de-73907"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-03-15"
-last_updated: "2010-03-15"
+last_updated: "2015-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # ESTATUTO ORGANICO DE LA UNIVERSIDAD POLITECNICA DE AGUASCALIENTES
 
-ESTATUTO ORGANICO DE LA UNIVERSIDAD POLITECNICA DE AGUASCALIENTES
+ESTATUTO ORGÁNICO DE LA UNIVERSIDAD POLITÉCNICA DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DE LA UNIVERSIDAD POLITÉCNICA DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 15 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015 (ABROGADO).
 
 Estatuto publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 15 de marzo de 2010.
 
@@ -654,3 +656,11 @@ Integrante por el Sector Social.
 Lic. Gustavo Reynoso Talamantes,
 
 Integrante por el Sector Social.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE JUNIO DE 2015.
+
+PRIMERO.- El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico de la Universidad Politécnica de Aguascalientes publicado en el Periódico Oficial del Estado el 15 de marzo de 2010.
