@@ -4,7 +4,7 @@ identifier: "SON-ley-de-desarrollo-social-del-estado-de-sonora-50024"
 country: "mx"
 rank: "ley"
 publication_date: "2006-03-30"
-last_updated: "2010-12-16"
+last_updated: "2015-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE JUNIO DE 2015.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 30 de marzo de 2006.
 
@@ -93,7 +93,7 @@ X.- Participación social, entendida como el derecho de las personas a organizar
 
 XI.- Integralidad, entendida como una concepción de la política social que enfrenta de manera integral los diversos aspectos socioeconómicos y culturales de la marginación, la inequidad y la pobreza;
 
-XIl.- Contraloría ciudadana, entendida como la intervención de los beneficiarios de las políticas y programas de desarrollo social en la fiscalización y evaluación de los proyectos y las obras correspondientes; y
+XII.- Contraloría ciudadana, entendida como la intervención de los beneficiarios de las políticas y programas de desarrollo social en la fiscalización y evaluación de los proyectos y las obras correspondientes; y
 
 XIII.- Libre determinación y autonomía de los pueblos indígenas y sus comunidades, entendida como el reconocimiento en el marco constitucional de sus usos y costumbres y formas internas de convivencia y de organización.
 
@@ -107,7 +107,7 @@ II.- Beneficiarios de desarrollo social: aquellas personas que forman parte de l
 
 III.- Comisión: Comisión Estatal de Desarrollo Social del Gobierno del Estado de Sonora.
 
-IV- Comité Técnico: Comité Técnico de la Comisión Estatal de Desarrollo Social del Gobierno del Estado de Sonora.
+IV.- Comité Técnico: Comité Técnico de la Comisión Estatal de Desarrollo Social del Gobierno del Estado de Sonora.
 
 V.- Consejo Consultivo: Consejo Consultivo para el Desarrollo Social de Sonora.
 
@@ -121,11 +121,11 @@ IX.- Indigente: persona que vive de la caridad.
 
 X.- Investigadores: personas o agrupaciones de personas con reconocimiento académico dedicadas al estudio, análisis y evaluación del desarrollo social.
 
-XI- Ley: la Ley de Desarrollo Social del Estado de Sonora.
+XI.- Ley: la Ley de Desarrollo Social del Estado de Sonora.
 
 XII.- Organizaciones: agrupaciones civiles y sociales en las que participan sujetos o beneficiarios del desarrollo social con el propósito de realizar actividades relacionadas con dicha finalidad.
 
-XIlI.- Pertinencia: resultado de la acción que considera particularidades de cualquier naturaleza de los sujetos y beneficiarios sociales.
+XIII.- Pertinencia: resultado de la acción que considera particularidades de cualquier naturaleza de los sujetos y beneficiarios sociales.
 
 XIV.- Programa Estatal: Programa Estatal de Desarrollo Social.
 
@@ -181,7 +181,7 @@ I.- Un Presidente, que será el Gobernador del Estado y cuyo suplente será el S
 
 II.- Un Secretario Técnico, que será el Secretario de Desarrollo Social; y
 
-IIl.- Vocales que serán:
+III.- Vocales que serán:
 
 a) El Secretario de Hacienda;
 
@@ -323,9 +323,9 @@ Los Comités Regionales se integran por:
 
 I.- Los presidentes de los municipios ubicados en la región;
 
-ll.- Los funcionarios municipales, a nivel de director general y superiores, que en cada municipio tengan a su cargo atribuciones de desarrollo social;
+II.- Los funcionarios municipales, a nivel de director general y superiores, que en cada municipio tengan a su cargo atribuciones de desarrollo social;
 
-IIl.- Los representantes de las dependencias y entidades del gobierno estatal que operen programas y acciones de desarrollo social en la región respectiva; y
+III.- Los representantes de las dependencias y entidades del gobierno estatal que operen programas y acciones de desarrollo social en la región respectiva; y
 
 IV.- Los representantes de las dependencias y entidades federales que operen programas y acciones de desarrollo social en la región respectiva, a invitación del Presidente de la Comisión.
 
@@ -373,7 +373,7 @@ I.- Formular, coordinadamente con la Comisión, el Programa Estatal de Desarroll
 
 II.- Promover y operar la coordinación, planeación, ejecución, seguimiento y evaluación de políticas, programas y acciones en materia de desarrollo social;
 
-lII.- Promover la organización y participación corresponsable de la sociedad en la elaboración, ejecución y evaluación de políticas, programas y acciones de desarrollo social;
+III.- Promover la organización y participación corresponsable de la sociedad en la elaboración, ejecución y evaluación de políticas, programas y acciones de desarrollo social;
 
 IV.- Someter a la aprobación del Gobernador del Estado la invitación o el nombramiento de los integrantes de la Comisión, el Comité Técnico y el Consejo Consultivo que deba hacer el Ejecutivo;
 
@@ -383,9 +383,9 @@ VI.- Convenir acciones y programas sociales con el gobierno federal o los munici
 
 > <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2010)</small>
 
-VlI.- Promover, en coordinación con las Secretarías de Economía, de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura y de Hacienda, así como con la Comisión Estatal para el Desarrollo de los Pueblos y Comunidades Indígenas y el Instituto Sonorense de la Mujer, la constitución de un programa y un fondo de apoyo al sector social de la economía, bajo parámetros jurídicos, financieros y de fomento que puedan generar recursos para impulsar el desarrollo social productivo en condiciones de eficiencia y transparencia;
+VII.- Promover, en coordinación con las Secretarías de Economía, de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura y de Hacienda, así como con la Comisión Estatal para el Desarrollo de los Pueblos y Comunidades Indígenas y el Instituto Sonorense de la Mujer, la constitución de un programa y un fondo de apoyo al sector social de la economía, bajo parámetros jurídicos, financieros y de fomento que puedan generar recursos para impulsar el desarrollo social productivo en condiciones de eficiencia y transparencia;
 
-VllI.- Informar a la sociedad sobre las acciones de desarrollo social y su impacto; y
+VIII.- Informar a la sociedad sobre las acciones de desarrollo social y su impacto; y
 
 IX.- Las demás que le señale ésta u otras leyes y demás disposiciones aplicables.
 
@@ -395,17 +395,17 @@ Les corresponden a los ayuntamientos, en el ámbito de su competencia territoria
 
 I.- Formular, aprobar y ejecutar el Programa Municipal de Desarrollo Social, buscando concordancia e integralidad con el Programa Estatal;
 
-Il.- Ejecutar, coordinadamente con el Gobierno del Estado, los programas de desarrollo social;
+II.- Ejecutar, coordinadamente con el Gobierno del Estado, los programas de desarrollo social;
 
-IIl.- Convenir acciones y programas con otros municipios de la Entidad en materia de desarrollo social;
+III.- Convenir acciones y programas con otros municipios de la Entidad en materia de desarrollo social;
 
 IV.- Concertar acciones con los sectores social y privado en materia de desarrollo social;
 
 V.- Establecer mecanismos de participación social organizada en los programas y acciones de desarrollo social, así como en la elaboración, ejecución y evaluación de políticas públicas en la materia;
 
-Vl.- Informar a la sociedad sobre las acciones que se realicen en torno al desarrollo social; y
+VI.- Informar a la sociedad sobre las acciones que se realicen en torno al desarrollo social; y
 
-VII- Las demás que les señale ésta u otras leyes y demás disposiciones aplicables.
+VII.- Las demás que les señale ésta u otras leyes y demás disposiciones aplicables.
 
 ## TITULO SEGUNDO. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS SUJETOS DEL DESARROLLO SOCIAL
 
@@ -437,9 +437,9 @@ IV.- Mantener reservada y en privacidad su información personal;
 
 V.- Recibir los servicios y prestaciones de los programas de desarrollo social conforme a sus reglas de operación, salvo que les sean suspendidos por resolución administrativa o judicial;
 
-Vl.- Presentar denuncias y quejas ante las instancias correspondientes por el incumplimiento de esta ley;
+VI.- Presentar denuncias y quejas ante las instancias correspondientes por el incumplimiento de esta ley;
 
-Vll.- Proporcionar la información socioeconómica que les sea requerida por las autoridades según la normatividad correspondiente;
+VII.- Proporcionar la información socioeconómica que les sea requerida por las autoridades según la normatividad correspondiente;
 
 VIII.- Cumplir y exigir que se cumpla la normatividad de los programas de desarrollo social; y
 
@@ -483,7 +483,9 @@ La Comisión y los Comités Regionales y Municipales darán seguimiento al ejerc
 
 La instrumentación y ejecución de programas, proyectos, acciones e inversiones de desarrollo social que lleven a cabo coordinadamente dos o más dependencias, entidades o municipios, se formalizará a través de la concertación de bases de coordinación. Los convenios intersectoriales de desarrollo social deberán ser publicados durante los cuarenta y cinco días posteriores a su firma en el Boletín Oficial del Gobierno del Estado.
 
-ARTÍCULO 38,- Las dependencias del gobierno estatal y los municipios harán del conocimiento público, cada año, sus programas operativos de desarrollo social y sus reglas de operación, a través de medios de comunicación masivos accesibles a la población, en un plazo no mayor a treinta días a partir de la aprobación de sus presupuestos de egresos anuales. Tal publicación deberá realizarse también, en el caso de los municipios, en la lengua de la etnia residente en su jurisdicción territorial cuando sea el caso.
+###### ARTÍCULO 38.
+
+Las dependencias del gobierno estatal y los municipios harán del conocimiento público, cada año, sus programas operativos de desarrollo social y sus reglas de operación, a través de medios de comunicación masivos accesibles a la población, en un plazo no mayor a treinta días a partir de la aprobación de sus presupuestos de egresos anuales. Tal publicación deberá realizarse también, en el caso de los municipios, en la lengua de la etnia residente en su jurisdicción territorial cuando sea el caso.
 
 ### CAPÍTULO II. DEL FINANClAMIENTO Y EL GASTO
 
@@ -507,7 +509,7 @@ Serán considerados prioritariamente para la asignación de los recursos presupu
 
 I.- Los programas de educación obligatoria;
 
-Il.- Las campañas de prevención y control de enfermedades transmisibles, salud sexual y reproductiva y los programas de atención médica;
+II.- Las campañas de prevención y control de enfermedades transmisibles, salud sexual y reproductiva y los programas de atención médica;
 
 III.- Los programas de vivienda social digna;
 
@@ -619,7 +621,7 @@ La evaluación del desarrollo social tiene por objeto verificar la eficacia y ef
 
 Es función de la Comisión evaluar periódicamente el impacto de las políticas, los programas y las acciones de desarrollo social que realicen las dependencias y entidades estatales y los Comités Regionales, así como promover con los gobiernos municipales dicha evaluación en el ámbito de su competencia.
 
-###### ARTICULO 58.
+###### ARTÍCULO 58.
 
 La evaluación de los programas de desarrollo social será interna o externa y podrá referirse a situaciones de impacto socio-económico, de desempeño, de operación o de aspectos más específicos. La evaluación interna será la que realicen la Comisión y las dependencias o entidades que instrumenten los programas. La evaluación externa será la que realicen las instituciones de educación superior, de investigación científica o, en general, organizaciones o instituciones no lucrativas diferentes a las que desarrollen los programas, a solicitud de la Comisión, las dependencias y entidades estatales y los gobiernos municipales.
 
@@ -647,9 +649,29 @@ Sin menoscabo de los artículos precedentes de este Capítulo, la Secretaría ll
 
 ### CAPÍTULO III. DE LAS DEFINICIONES Y MEDICIÓN DE POBREZA, MARGINAClÓN Y DESARROLLO HUMANOS
 
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 63.
 
-La Comisión establecerá las definiciones, los criterios y los mecanismos de medición y combate de la pobreza, la marginación y el desarrollo humano, así como cualquier otro u otros conceptos o parámetros de conocimiento de la situación de desarrollo social en el Estado, para cuyo efecto deberán considerarse la diversidad de las características socioeconómicas y culturales de la Entidad y, hasta donde sea posible, los criterios y la medición que aplica el gobierno federal en sus programas relacionados con el desarrollo social.
+La Comisión establecerá las definiciones, los criterios y los mecanismos de medición y combate de la pobreza, la marginación y el desarrollo humano y deberá utilizar la información que genere el Instituto Nacional de Estadística, Geografía e Informática, así como cualquier otro u otros conceptos o parámetros de conocimiento de la situación de desarrollo social en el Estado, para cuyo efecto deberán considerarse la diversidad de las características socioeconómicas y culturales de la Entidad y los lineamientos utilizados por el Gobierno Federal al menos sobre los siguientes indicadores:
+
+I.- Ingreso corriente per cápita;
+
+II.- Rezago educativo promedio en el hogar;
+
+III.- Acceso a los servicios de salud;
+
+IV.- Acceso a la seguridad social;
+
+V.- Calidad y espacios de la vivienda;
+
+VI.- Acceso a los servicios básicos en la vivienda;
+
+VII.- Acceso a la alimentación;
+
+VIII.- Grado de cohesión social; y
+
+IX.- Grado de Accesibilidad a carretera pavimentada.
 
 ###### ARTÍCULO 64.
 
@@ -673,7 +695,7 @@ COMUNIQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU PUBLICACIÓN EN EL BOLETIN OF
 
 POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS DIECISÉIS DÍAS (SIC) DEL AÑO DOS MIL SEIS.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- EDUARDO BOURS CASTELO.- RÚBRICA.- EL SECRETARIO DE GOBIERNO.- ROBERTO RUBIAL ASTIAZARAN.-RÚBRICA.-
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 16 DE DICIEMBRE DE 2010.
 
@@ -688,3 +710,9 @@ Dentro de los treinta días hábiles siguientes a la entrada en vigor del presen
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 15 DE JUNIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
