@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-gestion-empresarial-y-mejora-regulatoria-para-el-96608"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-11"
-last_updated: "2013-11-11"
+last_updated: "2015-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE GESTIÓN EMPRESARIAL Y MEJORA REGULATORIA PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 11 de noviembre de 2013.
 
@@ -49,7 +49,9 @@ LEY DE GESTIÓN EMPRESARIAL Y MEJORA REGULATORIA PARA EL ESTADO DE AGUASCALIENTE
 
 La presente Ley es de orden público e interés social; sus disposiciones son de observancia general para las dependencias y entidades de la Administración Pública Estatal y Municipal, así como para los organismos autónomos de carácter constitucional; tiene por objeto impulsar la gestión empresarial así como la mejora regulatoria en el Estado de Aguascalientes, a través de la coordinación de acciones entre las autoridades y los sectores social y privado, así como procurar el uso de los medios electrónicos, magnéticos o de cualquier tecnología y el uso de la firma electrónica, archivos electrónicos y base de datos, a fin de hacer más eficientes los servicios, trámites y actos administrativos.
 
-Los Poderes Judicial y Legislativo, los Municipios de la entidad, los Organismos Autónomos de carácter Constitucional, así como las dependencias y entidades de la Administración Pública Estatal y Municipal, comprendiendo en este rubro a los organismos paraestatales y paramunicipales, descentralizados, empresas de participación pública y desconcentrados, podrán suscribir convenios con el Poder Ejecutivo del Estado, a través de la Secretaría de Desarrollo Económico, para facilitar la implementación del objeto señalado en el párrafo anterior.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+
+Los Poderes Judicial y Legislativo, los Municipios de la entidad, los Organismos Autónomos de carácter Constitucional, así como las dependencias y entidades de la Administración Pública Estatal y Municipal, comprendiendo en este rubro a los organismos paraestatales y paramunicipales, descentralizados, empresas de participación pública y desconcentrados, podrán suscribir convenios con el Poder Ejecutivo del Estado, a través del Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, para facilitar la implementación del objeto señalado en el párrafo anterior.
 
 En los servicios, trámites y actos administrativos que se derivan de la aplicación de programas sociales federales, las dependencias observarán las reglas de operación y demás leyes aplicables, a los mismos y aplicarán sólo las disposiciones de la presente Ley a aquellas acciones que no se contrapongan a sus propias reglas.
 
@@ -65,11 +67,13 @@ III. Centro Municipal de Negocios: A las áreas físicas, que cuenten con los re
 
 IV. Consejo Consultivo: Al Consejo Consultivo para la Gestión Empresarial y la Mejora Regulatoria;
 
-V. Comité de Calidad: Al Comité de Calidad de la Mejora Regulatoria;
+V. (DEROGADA, P.O. 15 DE JUNIO DE 2015)
 
 VI. Compromiso Administrativo: Mecanismo para mejorar y garantizar la eficiente gestión Gubernamental;
 
-VII. Dependencias: A las secretarías de la administración pública estatal, así como a los organismos autónomos de carácter constitucional, tanto estatal como municipal, comprendiendo a los paraestatales, desconcentrados, descentralizados y empresas de participación pública;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+VII. Dependencias: Todas las unidades de la administración pública centralizada del Estado de Aguascalientes o de sus Municipios; los organismos descentralizados, organismos auxiliares, empresas de participación estatal mayoritaria y los fideicomisos públicos del Estado de Aguascalientes o de sus Municipios, así como los órganos autónomos previstos en la Constitución Política del Estado de Aguascalientes;
 
 VIII. Dictamen Regulatorio: Al documento que emite el Instituto respecto de una Manifestación de Impacto Regulatorio con carácter vinculante;
 
@@ -121,7 +125,9 @@ XXXI. Sistema Electrónico: Al Sistema de Trámites y servicios que opere en for
 
 XXXII. Trámites: A cualquier solicitud o entrega de información que los particulares, sean personas físicas o morales, realicen ante una dependencia; y
 
-XXXIII. Unidades de Mejora Regulatoria: A las áreas de cada dependencia responsables de planear, organizar, dirigir, controlar y evaluar los procesos de mejora regulatoria al interior de cada una de ellas.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+XXXIII. Unidades de Enlace de Mejora Regulatoria: A las áreas de cada Dependencia responsables de planear, organizar, dirigir, controlar y evaluar los proceso (sic) de Mejora Regulatoria al interior de cada una de ellas.
 
 ### CAPÍTULO II. De los Objetivos
 
@@ -137,7 +143,9 @@ III. Incidir en la regulación con principios de calidad, transparencia, eficien
 
 IV. Fortalecer y ampliar los medios de participación de los sectores social y privado que estimulen la competitividad, la inversión y el crecimiento económico en el Estado;
 
-V. Otorgar permanencia y precisión a la coordinación entre el Estado, los Municipios y los sectores social y privado, en las tareas de gestión empresarial y reforma regulatoria;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+V. Otorgar permanencia y precisión a la coordinación entre el Estado, los Municipios y los sectores social y privado, en las tareas de gestión empresarial y mejora regulatoria;
 
 VI. Unir esfuerzos para procurar reducir los tiempos y costos derivados de las disposiciones normativas que afecten la actividad económica, el establecimiento y operación de las empresas;
 
@@ -167,9 +175,11 @@ XVIII. Cualquier otro que sea compatible con el objeto de esta Ley.
 
 ### CAPÍTULO III. De las Competencias y Marco de Actuación
 
-###### ARTÍCULO 4º.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
 
-La aplicación de la presente Ley corresponde al Ejecutivo Estatal por conducto de la Secretaría, del Instituto de Gestión Empresarial y Mejora Regulatoria, a los demás órganos previstos en la misma, a los presidentes municipales y a las autoridades estatales y municipales, en sus respectivos ámbitos de competencia.
+###### ARTÍCULO 4°.
+
+La aplicación de la presente Ley corresponde al Ejecutivo Estatal por conducto del Instituto de Gestión Empresarial y Mejora Regulatoria, a los Presidentes Municipales y a las demás autoridades estatales y municipales, en sus respectivos ámbitos de competencia.
 
 ###### ARTÍCULO 5º.
 
@@ -183,9 +193,13 @@ Asimismo, se propiciará la celebración de acuerdos interinstitucionales con un
 
 Los gastos que las dependencias requieran para implementar acciones en materia de Gestión Empresarial y Mejora Regulatoria, deberán considerarlos e incluirlos en sus programas operativos anuales.
 
-###### ARTÍCULO 7º.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
 
-En caso de controversia entre las distintas dependencias de la administración pública, con respecto a la aplicación de la presente Ley, será la Secretaría la encargada de emitir opinión en forma definitiva.
+###### ARTÍCULO 7°.
+
+En caso de controversia entre las distintas Dependencias de la administración pública estatal, con respecto a la aplicación de la presente Ley, será el Ejecutivo Estatal por conducto de la Jefatura de Gabinete, el encargado de emitir opinión que resuelva en forma definitiva dicha controversia, en términos de lo establecido en el artículo 11 fracción XI de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes.
+
+En caso de controversias entre distintas Dependencias municipales, será el Presidente Municipal correspondiente quien resuelva sobre el particular.
 
 ###### ARTÍCULO 8º.
 
@@ -207,25 +221,37 @@ Todo lo referente al uso de los medios de comunicación electrónicos, de la fir
 
 ## TÍTULO SEGUNDO. DE LOS ÓRGANOS ENCARGADOS DE LA MEJORA REGULATORIA Y DE LA GESTIÓN EMPRESARIAL
 
-### CAPÍTULO I. Del Instituto Estatal de Gestión Empresarial y Mejora Regulatoria Organismo Público Desconcentrado
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JUNIO DE 2015)</small>
+
+### CAPÍTULO I
+
+Del Instituto Estatal de Gestión Empresarial y Mejora Regulatoria.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 12.
 
-Se crea el Instituto Estatal de Gestión Empresarial y Mejora Regulatoria como organismo público desconcentrado de la Administración Pública, con personalidad jurídica propia. Dicho instituto será un órgano de deliberación, participación e instrumentación transversal de la Administración Pública, los municipios y los sectores privado y social, con la misión de diseñar, regular, gestionar, dictaminar y evaluar las acciones de Gestión Empresarial y Mejora Regulatoria, que sirvan para agilizar los trámites y servicios. El Instituto estará vinculado con la Secretaría de Desarrollo Económico para los efectos presupuestarios.
+Se crea el Instituto Estatal de Gestión Empresarial y Mejora Regulatoria como organismo público descentralizado de la Administración Pública, con personalidad jurídica y patrimonio propios. Dicho Instituto será un órgano con la misión de diseñar, regular, gestionar, dictaminar, coordinar y evaluar las acciones de Gestión Empresarial y Mejora Regulatoria en el Estado, con el objeto de promover la transparencia en la elaboración y aplicación de las regulaciones y que éstas generen beneficios superiores a sus costos y el máximo beneficio para la sociedad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 13.
 
-Son atribuciones del Instituto:
+El Instituto tiene como objeto:
 
 I. Estudiar, analizar y revisar los ordenamientos legales vigentes en la Entidad, con el propósito de proponer las medidas de mejora regulatoria necesarias para cumplir con los objetivos de esta Ley;
 
-II. Coadyuvar en la elaboración y actualización del Registro de Trámites y Servicios;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+II. Llevar y mantener actualizado el Registro de Trámites y Servicios;
 
 III. Participar coordinadamente con los sectores productivo y social en el consenso y propuesta de elaboración de proyectos de iniciativas de ley, decretos, acuerdos, circulares y resoluciones que establezcan trámites y servicios que representen cargas o impactos a la actividad de los particulares;
 
 IV. Gestionar y proponer procesos de mejora regulatoria en los municipios del Estado que permitan la apertura rápida de empresas, mediante la celebración de convenios;
 
-V. Fortalecer las figuras de los Centros Municipales de Negocios o sus equivalentes y de la Ventanilla Única de Gestión Empresarial, prevista en la Ley para el Fomento a la Economía, la Inversión y el Empleo para el Estado de Aguascalientes, como unidades de apoyo y facilitadoras de las actividades emprendedoras;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+V. Fortalecer las figuras de los Centros Municipales de Negocios o sus equivalentes y la Ventanilla Única de Gestión Empresarial, como unidades de apoyo y facilitadoras de las actividades emprendedoras;
 
 VI. Proponer la celebración de convenios con diversas autoridades e instituciones del orden federal, estatal o municipal o con particulares, tendientes a lograr los objetivos de la presente Ley;
 
@@ -233,7 +259,9 @@ VII. Emitir los dictámenes regulatorios respecto de las Manifestaciones de Impa
 
 VIII. Proponer a las dependencias la adopción de sistemas que estimulen la mejora regulatoria y la simplificación administrativa;
 
-IX. Hacer valer los acuerdos y dictámenes sobre las dependencias y los municipios que hayan firmado los convenios con el Instituto, al que corresponderá la ejecución de los mismos.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+IX. Hacer valer los acuerdos y dictámenes que sobre las Dependencias estatales emita o los que se refieran a los municipios y órganos autónomos con quienes haya firmado convenio, asimismo le corresponderá la ejecución de los mismos.
 
 X. Aprobar el Programa Estatal de Mejora Regulatoria;
 
@@ -245,11 +273,15 @@ XIII. Promover el uso de los medios de comunicación electrónicos así como el 
 
 XIV. Promover e impulsar la realización de trámites a través de medios electrónicos, en coordinación con la Oficialía Mayor del Gobierno del Estado, buscando en todo momento la interoperabilidad de los sistemas y bases de datos de los gobiernos federal, estatal, municipales, los organismos autónomos y los sectores público y privado;
 
-XV. Aprobar las acciones necesarias para la implementación y desarrollo de la política de mejora regulatoria;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
 
-XVI. Conocer y analizar el informe anual que rinda el Secretario de Desarrollo Económico de las actividades que dicha Secretaría hubiere llevado a cabo en materia de Gestión Empresarial y Mejora Regulatoria durante el año inmediato anterior; y
+XV. Aprobar las acciones necesarias para la implementación y desarrollo de la política de mejora regulatoria; y
+
+XVI. (DEROGADA, P.O. 15 DE JUNIO DE 2015)
 
 XVII. Las demás que establezca esta Ley, su Reglamento y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 14.
 
@@ -257,11 +289,11 @@ El Instituto contará con:
 
 I. Una Junta Directiva, como órgano de gobierno;
 
-II. Una Dirección General, como órgano de administración;
+II. Una Dirección General, como órgano de administración; y
 
-III. Un Consejo Consultivo para la Gestión Empresarial y la Mejora Regulatoria, como órgano de consulta y vinculación con los sectores social y privado;
+III. Un Consejo Consultivo para la Gestión Empresarial y la Mejora Regulatoria, como órgano de consulta y vinculación con los sectores social y privado.
 
-IV. Un Comité de Calidad de la Mejora Regulatoria
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 15.
 
@@ -271,25 +303,23 @@ I. Un Presidente, que será el Gobernador del Estado;
 
 II. Un Vicepresidente, que será el Secretario de Desarrollo Económico, mismo que tendrá también el carácter de suplente del Presidente en ausencia del mismo;
 
-III. Un Secretario Ejecutivo, cargo que ocupará el Director General del Instituto;
+III. El Jefe de Gabinete del Gobierno del Estado;
 
-IV. Jefe de Gabinete del Gobierno del Estado;
+IV. El Secretario de Gobierno;
 
-V. Secretario de Gobierno;
+V. El Secretario de Finanzas;
 
-VI. Secretario de Finanzas;
+VI. El Oficial Mayor;
 
-VII. Secretario de Gestión Urbanística y Ordenamiento Territorial;
+VII. El Secretario de Gestión Urbanística y Ordenamiento Territorial;
 
-VIII. Coordinador Estatal de Planeación y Proyectos;
+VIII. El Coordinador Estatal de Planeación y Proyectos;
 
-IX. Secretario de Desarrollo Rural y Agroempresarial;
+IX. El Secretario de Desarrollo Rural y Agroempresarial;
 
-X. Secretario de Turismo;
+X. Los Presidentes Municipales de los dos Municipios que registren el mayor número de unidades económicas según el INEGI.
 
-XI. Los Presidentes Municipales de la Entidad;
-
-XII. Oficial Mayor del Gobierno del Estado.
+El Director General fungirá como Secretario Ejecutivo, asistiendo a las sesiones con voz pero sin voto.
 
 ###### ARTÍCULO 16.
 
@@ -325,13 +355,17 @@ La Junta Directiva podrá crear comités o grupos de trabajo para la atención d
 
 Serán facultades y obligaciones de la Junta Directiva, las siguientes:
 
-I. Definir los criterios, prioridades y metas del Instituto;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+I. Autorizar y aprobar el presupuesto del Instituto que formule el Director General, y definir los criterios, prioridades y metas del mismo.
 
 II. Autorizar el proyecto de gestión empresarial, reforma regulatoria y simplificación administrativa de corto, mediano y largo plazo, así como los mecanismos de medición de avance;
 
 III. Definir los lineamientos y criterios para la celebración de convenios de colaboración, coordinación, concertación o asociación, con las dependencias y entidades paraestatales de la administración pública federal y de los Municipios y con las organizaciones de los sectores social y privado;
 
-IV. Evaluar la operación de los instrumentos del Programa Estatal de Gestión Empresarial y Reforma Regulatoria;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+IV. Nombrar y remover a propuesta del Director General, a los servidores públicos de la entidad paraestatal que ocupen cargos en el segundo nivel jerárquico inferior al de aquél, así como aprobar la fijación de sueldos y prestaciones; Expedir y modificar el Reglamento Interior del Instituto, así como los lineamientos para la Manifestación de Impacto Regulatorio y Registro de Trámites y Servicios, los manuales y lineamientos que se requieran para su organización y funcionamiento; y
 
 V. Las demás que le otorguen esta Ley, su Reglamento y otras disposiciones legales y reglamentarias aplicables.
 
@@ -339,7 +373,9 @@ V. Las demás que le otorguen esta Ley, su Reglamento y otras disposiciones lega
 
 La Dirección General del Instituto estará a cargo de un Director General, que será designado por el Gobernador del Estado y tendrá las facultades siguientes:
 
-I. Dirigir técnica y administrativamente al Instituto;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+I. Administrar, dirigir técnicamente y representar legalmente al Instituto;
 
 II. Ejecutar los acuerdos de la Junta Directiva;
 
@@ -349,7 +385,9 @@ IV. Informar a la Junta Directiva sobre el ejercicio de las facultades que esta 
 
 V. Emitir opiniones, asesorar, elaborar y proponer anteproyectos de iniciativas a las Dependencias en materia de gestión empresarial y reforma regulatoria; así como sobre la actualización del marco jurídico correspondiente;
 
-VI. Solicitar a las Dependencias, la elaboración de un programa de reforma regulatoria;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+VI. Solicitar a las Dependencias la elaboración de un programa de mejora regulatoria;
 
 VII. Expedir los acuerdos, políticas y procedimientos internos, lineamientos, circulares y demás disposiciones de carácter estratégico, organizacional y administrativo;
 
@@ -357,7 +395,9 @@ VIII. Nombrar y remover a los servidores públicos del Instituto, evaluar su des
 
 IX. Expedir y mantener actualizado el Manual de Organización del Instituto e informar de ello a la Junta Directiva;
 
-X. Coordinar e instrumentar la gestión empresarial, la reforma regulatoria y la simplificación administrativa en el ámbito estatal y en su caso, en el ámbito municipal, así como elaborar propuestas sustentadas para el proceso de reforma regulatoria en el ámbito federal;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+X. Coordinar e instrumentar la gestión empresarial, la mejora regulatoria y la simplificación administrativa en el ámbito estatal y en su caso, en el ámbito municipal, así como elaborar propuestas sustentadas para el proceso de mejora regulatoria en el ámbito federal;
 
 XI. Coordinar la ejecución de los programas de gestión empresarial y reforma regulatoria de las Dependencias, así como someterlos a revisión de la Junta Directiva, y dar seguimiento a los mismos;
 
@@ -377,13 +417,19 @@ XVIII. Asesorar a las Dependencias en la creación y actualización del REPA;
 
 XIX. Promover los servicios que preste el Instituto, conforme a su objeto y funciones; de igual manera establecer las alianzas estratégicas con las autoridades federales, estatales y municipales, así como con los sectores social y privado;
 
-XX. Suscribir en coordinación con el Presidente, convenios de colaboración, coordinación, concertación o asociación con las dependencias, con los Municipios y sus organismos paramunicipales, así como de cooperación técnica y científica con instituciones públicas y privadas, y en general todos aquellos actos en los que el Instituto sea parte;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
 
-XXI. Proponer en el ámbito de su competencia y en coordinación con la Secretaría, de conformidad con la legislación aplicable, la suscripción de acuerdos interinstitucionales a formalizarse con uno o varios órganos gubernamentales extranjeros u organizaciones internacionales, para intercambios o colaboración en relación a la materia;
+XX. Suscribir, previo acuerdo de la Junta Directiva, los convenios de colaboración, coordinación, concertación o asociación con las Dependencias, con los Municipios y con los órganos autónomos, así como de cooperación técnica y científica con instituciones públicas y privadas, y en general todos aquellos actos en los que el Instituto sea parte;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+XXI. Proponer en el ámbito de su competencia a la Junta Directiva, de conformidad con la legislación aplicable, la suscripción de acuerdos interinstitucionales a formalizarse con uno o varios órganos gubernamentales extranjeros u organizaciones internacionales, para intercambios o colaboración en relación a la materia;
 
 XXII. Designar a los representantes del Instituto que deban participar en foros nacionales e internacionales, así como establecer los lineamientos conforme a los cuales dichos representantes deban actuar;
 
-XXIII. Proponer a la Junta Directiva el sistema de indicadores del desempeño y gestión del Instituto, así como proponer cambios en la organización o en su proceso;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+XXIII. Formular y someter a la aprobación de la Junta Directiva, el presupuesto del Instituto, los informes, estados y balances financieros de conformidad con las disposiciones aplicables, el presupuesto y el sistema de indicadores del desempeño y gestión del Instituto, proponer cambios en la organización, así como las modificaciones que correspondan al Reglamento Interior;
 
 XXIV. Resolver los asuntos administrativos que le correspondan, de acuerdo con la legislación aplicable;
 
@@ -391,11 +437,15 @@ XXV. Resolver las dudas suscitadas sobre la interpretación o aplicación de est
 
 XXVI. Delegar cualquiera de sus funciones en algunos de los integrantes de la Junta Directiva del Instituto, sin perjuicio de ejercerlas directamente, con excepción de aquellas facultades que por disposición legal expresa o determinación de la Junta Directiva le correspondan exclusivamente;
 
-XXVII. Ejercer facultades de administración y para pleitos y cobranzas, incluyendo aquéllas que requieran cláusula especial conforme a la Ley de la materia;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+XXVII. Ejercer las más amplias facultades de dominio, administración, pleitos y cobranzas, aún de aquellas que requieran de cláusula especial, así como para suscribir y negociar títulos de crédito;
 
 XXVIII. Otorgar, sustituir y revocar poderes generales y especiales con las facultades que se señalan en la Fracción anterior, incluso las que requieran autorización o cláusula especial;
 
 XXIX. Ejercer el presupuesto del Instituto con sujeción a las disposiciones legales, reglamentarias y administrativas aplicables; y
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
 
 XXX. Las demás que le otorguen la Junta Directiva, esta Ley, su Reglamento y otras disposiciones legales y reglamentarias.
 
@@ -411,7 +461,7 @@ II. Cuatro representantes del sector empresarial que serán designados por el Go
 
 III. Dos representantes de las Instituciones de Educación Superior del Estado;
 
-IV. Dos representantes de organizaciones no gubernamentales; (sic)
+IV. Dos representantes de organizaciones no gubernamentales;
 
 ###### ARTÍCULO 25.
 
@@ -421,9 +471,11 @@ Los cargos que desempeñen los consejeros serán honoríficos y tendrán derecho
 
 El Presidente, en relación a los temas que se vayan a tratar, podrá invitar a las personas que estime pertinentes, quienes participarán en las sesiones con derecho a voz únicamente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 27.
 
-El Consejo Consultivo sesionará de manera semestral a convocatoria del Presidente.
+El Consejo Consultivo sesionará al menos tres veces al año a convocatoria del Presidente.
 
 El Consejo Consultivo, sesionará válidamente con la asistencia de la mitad más uno de la totalidad de sus miembros.
 
@@ -433,111 +485,97 @@ El Consejo Consultivo funcionará conforme a los términos establecidos en el Re
 
 ###### ARTÍCULO 28.
 
-El Comité de calidad es el instrumento de coordinación interinstitucional de las dependencias de la Administración Pública Estatal, cuya finalidad es la de diseñar, implementar y evaluar el proceso de calidad regulatoria de toda aquella normatividad interna de actuación de dichas dependencias. El Comité no tiene facultades para atender la mejora regulatoria con respecto a los trámites que van dirigidos a los ciudadanos o empresas, pues esta función corresponde al Consejo.
+(DEROGADO, P.O. 15 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 29.
 
-Son atribuciones del Comité de Calidad:
-
-I. Realizar estudios, investigaciones y diagnósticos para determinar la efectividad de las disposiciones legales internas existentes con el fin de mejorarlas, regularlas, y garantizar su calidad;
-
-II. Revisar y, en su caso, autorizar el envío a la Jefatura de Gabinete los proyectos de adición o derogación de ordenamientos jurídicos con aplicación interna, para las formalidades de ley;
-
-III. Acordar y coordinar acciones de mejora a las disposiciones internas, a efecto de contribuir a su calidad regulatoria, la reducción de cargas administrativas y el logro de los objetivos institucionales;
-
-IV. Revisar de forma continua y programada, el marco normativo interno vigente, para asegurar su calidad regulatoria y la disminución efectiva de cargas administrativas innecesarias, buscando su estandarización y congruencia con los objetivos institucionales y las facultades y atribuciones conferidas a la institución;
-
-V. Revisar y proponer las actualizaciones, en su caso, a los reglamentos interiores de las dependencias del Gobierno del Estado;
-
-VI. Dictaminar y analizar, con base en la justificación regulatoria y las manifestaciones de impacto regulatorio internas, todos los proyectos normativos a fin de asegurar que sean eficaces, eficientes, consistentes y claros; y
-
-VII. Difundir todas las disposiciones vigentes a través de la normateca interna, así como llevar a cabo acciones que garanticen que toda la regulación vigente está publicada de forma íntegra y completa por dicho medio.
+(DEROGADO, P.O. 15 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 30.
 
-El Comité de Calidad se integrará por los Directores o Coordinadores Jurídicos de todas las dependencias de la Administración Pública Centralizada del Estado, y será presidido por el Director General Jurídico de la Secretaría de Desarrollo Económico, fungiendo el Subsecretario de Asuntos Jurídicos de la Secretaría de Gobierno del Estado como Vicepresidente.
+(DEROGADO, P.O. 15 DE JUNIO DE 2015)
 
-### CAPÍTULO III. De la Secretaría de Desarrollo Económico
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JUNIO DE 2015)</small>
+
+### CAPÍTULO III. Del Patrimonio del Instituto
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 31.
 
-La Secretaría será la dependencia encargada de coordinar y administrar, a través de las áreas correspondientes, el Programa Estatal de Mejora Regulatoria.
+El patrimonio del Instituto se integrará con:
+
+I. Los bienes muebles e inmuebles, derechos y demás, que le asigne o transmita el Gobierno del Estado;
+
+II. Las aportaciones federales, estatales y municipales que reciba;
+
+III. Los subsidios, donaciones y aportaciones de cualquier otra índole, que en su caso llegue a recibir;
+
+IV. Los recursos obtenidos para la ejecución de programas específicos;
+
+V. Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que le generen sus inversiones, bienes y operaciones;
+
+VI. Las acciones, derechos o productos que adquiera por cualquier otro título legal; y
+
+VII. Los demás bienes, servicios, derechos y aprovechamientos que le fijen las leyes y reglamentos, y los que provengan de otros fondos y aportaciones legalmente establecidos.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 32.
 
-Son atribuciones de la Secretaría en materia regulatoria:
+Los bienes muebles e inmuebles que formen el patrimonio del Instituto tendrán el carácter de inembargables e imprescriptibles conforme a las disposiciones legales aplicables.
 
-I. Elaborar el Programa Estatal de Mejora Regulatoria en congruencia con los objetivos, políticas, estrategias, lineamientos y metas previstos en los Planes Nacional y Estatal de Desarrollo y con los programas federales sobre la materia;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JUNIO DE 2015)</small>
 
-II. Dar seguimiento al Programa Estatal de Mejora Regulatoria;
+### CAPÍTULO IV. De las Unidades de Enlace de Mejora Regulatoria en las Dependencias
 
-III. Emitir criterios y recomendaciones sobre los requisitos, trámites y plazos en los servicios, procesos y actos administrativos;
-
-IV. Fijar y dar a conocer a las dependencias los criterios para su participación en la integración del Programa Estatal de Mejora Regulatoria;
-
-V. Promover la transparencia en la elaboración y aplicación de las regulaciones;
-
-VI. Identificar las necesidades de los ciudadanos en materia de mejora regulatoria y enfocarlas a las instancias correspondientes, para que sean atendidas a través de sus programas de mejora regulatoria;
-
-VII. Analizar las políticas de regulación e instrumentos, del ámbito nacional e internacional, con la finalidad de adecuar e implementar aquéllas que mayores beneficios pudieran aportar al Estado;
-
-VIII. Promover ante los organismos financieros nacionales e internacionales la obtención de recursos para ser implementados en procesos y herramientas de mejora regulatoria;
-
-IX. Presentar un informe anual de actividades ante el Consejo;
-
-X. Recibir las (sic) manifestación de impacto regulatorio que le presenten las dependencias y canalizarlos al Comité Técnico del Consejo para su análisis y estudio, quien deberá presentar un dictamen al Consejo para la aprobación y expedición, en su caso, de los dictámenes de Manifestaciones de Impacto Regulatorio;
-
-XI. Difundir los avances y resultados en materia de mejora regulatoria;
-
-XII. Promover y participar en foros, encuentros, seminarios, comisiones de trabajo, encuestas y consultas, para identificar las mejores prácticas regulatorias y aplicarlas en la normatividad, procedimientos y trámites;
-
-XIII. Desarrollar acciones de capacitación en materia de mejora regulatoria para las dependencias que lo soliciten;
-
-XIV. Promover la instalación y el funcionamiento de los módulos del Sistema de Apertura Rápida de Empresas y Ventanillas Únicas de Gestión;
-
-XV. Brindar asesoría técnica a las dependencias e interesados que lo soliciten;
-
-XVI. Establecer mecanismos de vinculación y participación con las dependencias para el cumplimiento del objeto de esta Ley; y
-
-XVII. Las demás que prevea esta Ley, su Reglamento y otras disposiciones jurídicas aplicables, así como las que determine el Consejo.
-
-### CAPÍTULO IV. De las Unidades de Mejora Regulatoria en las Dependencias
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 33.
 
-Los titulares de las dependencias en el ámbito estatal, integrarán una unidad de mejora regulatoria que será responsable de la mejora regulatoria al interior de cada una de ellas.
+Los titulares de las Dependencias en el ámbito estatal, designarán a un funcionario quien fungirá como titular de la Unidad de Enlace de Mejora Regulatoria quién será responsable de la mejora regulatoria al interior de cada una de éstas.
 
-Los municipios y los organismos autónomos que hayan suscrito convenio con el propósito de poder cumplir con los objetivos de la presente Ley, se conformará la unidad de mejora regulatoria integrada por todas sus oficinas o áreas de trabajo.
+Los municipios y los organismos autónomos que hayan suscrito convenio con el propósito de poder cumplir con los objetivos de la presente Ley, contarán también con Unidades de Enlace de Mejora Regulatoria integrada por todas sus oficinas o áreas de trabajo.
 
-Los organismos descentralizados conformarán su propia unidad.
+Los organismos descentralizados conformarán su propia Unidad de Enlace de Mejora Regulatoria.
 
-Cada unidad estará integrada por el servidor público con nivel de coordinador administrativo o equivalente, quien será el responsable de la unidad y enlace con la Secretaría, así como por los servidores públicos que sean necesarios para atender en forma adecuada los programas en materia de mejora regulatoria.
+Deberá preferirse a los titulares de las Direcciones Jurídicas o Unidades Jurídicas para que encabecen estas Unidades de Enlace de Mejora Regulatoria. Los titulares de esta Unidad serán el enlace con el Instituto.
 
-La designación de los servidores públicos deberá publicarse en las páginas de Internet de la dependencia correspondiente y de la Secretaría.
+La designación de estos servidores públicos deberá publicarse en las páginas de Internet de la Dependencia correspondiente y en la del Instituto.
 
-En cada unidad de mejora regulatoria deberá haber un área encargada de la recepción, atención y seguimiento de las quejas y sugerencias.
+En cada Unidad de Enlace de Mejora Regulatoria deberá haber un área encargada de la recepción, atención y seguimiento de las quejas y sugerencias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 34.
 
-Son atribuciones de las Unidades de Mejora Regulatoria las siguientes:
+Son atribuciones de las Unidades de Enlace de Mejora Regulatoria las siguientes:
 
 I. Coordinar el proceso de mejora regulatoria en la dependencia y supervisar su cumplimiento, de conformidad con la presente Ley, su Reglamento y los lineamientos que apruebe el Consejo;
 
-II. Captar las quejas y propuestas regulatorias de la (sic) empresas y los ciudadanos;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+II. Recibir y atender las quejas y propuestas regulatorias de las empresas y los ciudadanos;
 
 III. Solicitar a cada una de las áreas que integran la unidad los planes de trabajo en materia de mejora regulatoria;
 
-IV. Elaborar, ejecutar y dar seguimiento a los planes de trabajo de mejora regulatoria que integrarán el Programa Estatal de Mejora Regulatoria, en lo que respecta a las dependencias del ámbito estatal y remitirlos a la Secretaría, observando los lineamientos que emita la misma;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+IV. Elaborar, ejecutar y dar seguimiento a los planes de trabajo de mejora regulatoria que integrarán el Programa Estatal de Mejora Regulatoria, en lo que respecta a las Dependencias del ámbito estatal y remitirlos a la Dirección General del Instituto, observando los lineamientos que emita la misma;
 
 V. Elaborar y ejecutar el Programa Operativo Municipal de Mejora Regulatoria, en lo que respecta a las dependencias del ámbito municipal;
 
-VI. Presentar trimestralmente a la Secretaría, un informe de la aplicación del Programa Estatal de Mejora Regulatoria y del Programa Operativo Municipal de Mejora Regulatoria, respectivamente;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+VI. Presentar trimestralmente a la Dirección General del Instituto, un informe de la aplicación del Programa Estatal de Mejora Regulatoria y del Programa Operativo Municipal de Mejora Regulatoria, respectivamente;
 
 VII. Elaborar las Manifestaciones de Impacto Regulatorio;
 
 VIII. Recibir, analizar, orientar y dar respuesta positiva o negativa según sea el caso, de la queja y/o propuesta regulatoria. Así mismo, deberá dar a conocer al Consejo y al Comité dichas manifestaciones ciudadanas y su análisis de mejora;
 
-IX. Registrar en la página de Internet los reportes y los dictámenes de las manifestaciones de impacto regulatorio que emita la Secretaría;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+IX. Registrar en su (sic) la página de Internet los reportes y los dictámenes de las manifestaciones de impacto regulatorio que emita el Instituto;
 
 X. Revisar periódicamente los trámites que se realicen en las dependencias; y
 
@@ -581,11 +619,11 @@ XII. Las demás que prevea esta Ley, el Reglamento y otras disposiciones jurídi
 
 ### CAPÍTULO I. Del Programa Estatal de Mejora Regulatoria
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 37.
 
-El Programa Estatal de Mejora Regulatoria contendrá acciones en la materia, será elaborado por la Secretaría y aprobado por el Consejo y tendrá una vigencia de seis años, debiendo actualizarse cada vez que se considere conveniente y por lo menos en el tercer año de su vigencia.
-
-El Programa Estatal de Mejora Regulatoria deberá elaborarse dentro de los primeros seis meses del inicio de cada administración y publicarse en el Periódico Oficial del Estado.
+El Programa Estatal de Mejora Regulatoria contendrá acciones en la materia, será elaborado por la Dirección General del Instituto y aprobado por la Junta Directiva y tendrá una vigencia de seis años, debiendo actualizarse cada vez que se considere conveniente y por lo menos en el tercer año de su vigencia. El Programa Estatal de Mejora Regulatoria deberá elaborarse dentro de los primeros seis meses del inicio de cada administración estatal y publicarse en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO 38.
 
@@ -601,21 +639,25 @@ IV. Programas de capacitación a los funcionarios públicos involucrados en mate
 
 V. Las demás que determine el Consejo.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 39.
 
-Los responsables de las unidades de mejora regulatoria recopilarán los planes de trabajo de las dependencias estatales a las que pertenezcan, con la finalidad de integrarlos al Programa Estatal de Mejora Regulatoria.
+Los responsables de las Unidades de Enlace de Mejora Regulatoria recopilarán los planes de trabajo de las Dependencias estatales a las que pertenezcan, con la finalidad de integrarlos al Programa Estatal de Mejora Regulatoria.
 
-En el caso de los organismos autónomos que hayan suscrito convenio, en los términos del Artículo 1º de esta Ley, observarán lo estipulado en el presente Capítulo, para efectos de integrar en el Programa Estatal de Mejora Regulatoria sus planes de trabajo.
+En el caso de los organismos autónomos que hayan suscrito convenio, en los términos del Artículo 1° de esta Ley, observarán lo estipulado en el presente Capitulo, para efectos de integrar en el Programa Estatal de Mejora Regulatoria sus planes de trabajo.
 
-El Programa Estatal de Mejora Regulatoria se integrará conforme a los lineamientos estipulados en el Reglamento de esta Ley y los que determine el Consejo.
+El Programa Estatal de Mejora Regulatoria se integrará conforme a los lineamientos estipulados en el Reglamento de esta Ley y los que determine la Junta Directiva.
 
 ### CAPÍTULO II. Del Programa Operativo Municipal de Mejora Regulatoria
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 40.
 
-El Programa Operativo Municipal de Mejora Regulatoria contendrá todas las acciones en materia de mejora regulatoria de las dependencias, a fin de cumplir con los objetivos establecidos en la presente Ley; será elaborado por las unidades de mejora regulatoria de los municipios que hayan suscrito el convenio correspondiente, mismo que deberá ser aprobado por cada Cabildo, dentro de los primeros 6 meses del inicio la (sic) administración, y tendrá una vigencia no mayor a tres años.
+El Programa Operativo Municipal de Mejora Regulatoria contendrá todas las acciones en materia de mejora regulatoria de las Dependencias de cada Municipio, a fin de cumplir con los objetivos establecidos en la presente Ley; será elaborado por las unidades de enlace de mejora regulatoria de los municipios que hayan suscrito el convenio correspondiente, mismo que deberá ser aprobado por cada Cabildo, dentro de los primeros 6 meses del inicio de la administración correspondiente y tendrá una vigencia no mayor a tres años.
 
-El Programa deberá incluir las propuestas presentadas por los organismos autónomos que hayan suscrito convenio, en los términos del Artículo 1º de la presente Ley y será congruente con el Programa Estatal de Mejora Regulatoria.
+El Programa Operativo Municipal deberá incluir las propuestas que en su caso hayan presentado los organismos autónomos que hayan suscrito convenio con el Instituto y el mismo deberá ser congruente con el Programa Estatal de Mejora Regulatoria.
 
 ###### ARTÍCULO 41.
 
@@ -677,17 +719,19 @@ XV. Los que determine el Consejo para la mejora continua de la regulación estat
 
 Se establece el mecanismo de compromiso administrativo, con la finalidad de mejorar y garantizar una eficiente y eficaz gestión gubernamental, y para asumir con responsabilidad el compromiso de otorgar respuesta al interesado en el plazo determinado por la legislación, reglamentación o decreto aplicable.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 45.
 
-Los titulares de las dependencias designarán a un servidor público con un nivel jerárquico inmediato inferior, como responsable de:
+Los titulares de las Dependencias designarán a un responsable de la Unidad de Enlace de Mejora Regulatoria, quien será el encargado de:
 
-I. Coordinar el proceso de reforma regulatoria en el seno de la Dependencia correspondiente y supervisar su cumplimiento;
+I. Coordinar el proceso de mejora regulatoria en el seno de la Dependencia correspondiente y supervisar su cumplimiento;
 
-II. Entregar al Consejo, cuando le sea solicitado, un programa de reforma regulatoria en relación con la normatividad y trámites que exige la Dependencia de que se trate, así como reportes trimestrales dentro de los primeros diez días del mes siguiente, sobre los avances correspondientes, mientras la dependencia no concluya el proceso de reforma regulatoria y le sea proporcionada la certificación correspondiente por el Consejo; y
+II. Entregar al Instituto, cuando le sea solicitado, un programa de mejora regulatoria en relación con la normatividad y trámites que exige la Dependencia de que se trate, así como reportes trimestrales dentro de los primeros diez días del mes siguiente, sobre los avances correspondientes, mientras la Dependencia no concluya el proceso de mejora regulatoria y le sea proporcionada la certificación correspondiente por la Junta Directiva; y
 
-III. Enviar al Consejo, los anteproyectos de leyes, reglamentos, decretos o acuerdos a que se refiere esta Ley, y las manifestaciones de impacto regulatorio respectivas, que formule la Dependencia correspondiente, así como la información a inscribirse en el Registro Estatal de Trámites y Servicios.
+III. Enviar al Instituto, los anteproyectos de leyes, reglamentos, decretos o acuerdos a que se refiere esta Ley y las manifestaciones de impacto regulatorio respectivas, que formule la Dependencia correspondiente, así como la información a inscribirse en el Registro Estatal de Trámites y Servicios.
 
-El Consejo hará públicos los programas y reportes a que se refiere la Fracción II, así como los dictámenes que emita al respecto conforme a las disposiciones legales aplicables.
+El Instituto hará públicos los programas y reportes a que se refiere la fracción II, así como los dictámenes que emita al respecto conforme a las disposiciones legales aplicables.
 
 ###### ARTÍCULO 46.
 
@@ -727,13 +771,17 @@ Las dependencias para una mayor agilidad en el cumplimiento de sus funciones, po
 
 Se podrá utilizar la firma electrónica del interesado como un recurso preliminar de reconocimiento en las solicitudes efectuadas a través de los medios electrónicos puestos a su disposición para tal efecto.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 52.
 
-Las dependencias deberán entregar de manera periódica al Consejo, la información respecto al número de solicitudes de trámites recibidas, el sentido afirmativo o negativo de las mismas y los casos de aplicación de la afirmativa o negativa ficta, para su evaluación en la revisión sistemática de trámites.
+Las Dependencias deberán entregar de manera periódica al Instituto la información respecto al número de solicitudes de trámites recibidas, el sentido afirmativo o negativo de las mismas y los casos de aplicación de la afirmativa o negativa ficta, para su evaluación en la revisión sistemática de trámites.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 53.
 
-Con el fin de agilizar la gestión gubernamental y empresarial, la actividad económica y el establecimiento, ampliación, reubicación y operación de negocios, el Consejo presentará ante las dependencias correspondientes, propuestas para la reforma o adición a la normatividad vigente a efecto de adoptar cuando sea conveniente, la figura de afirmativa ficta, mejorar la regulación y evitar la discrecionalidad.
+Con el fin de agilizar la gestión gubernamental y empresarial, la actividad económica y el establecimiento, ampliación, reubicación y operación de Empresas, la Junta Directiva por conducto del Director General presentará ante las dependencias correspondientes, propuestas para realizar reformas o adiciones a la normatividad vigente a efecto de adoptar cuando sea conveniente, la figura de afirmativa ficta, así como mejorar la regulación y evitar la discrecionalidad.
 
 ### CAPÍTULO V. De la Manifestación de Impacto Regulatorio
 
@@ -741,17 +789,23 @@ Con el fin de agilizar la gestión gubernamental y empresarial, la actividad eco
 
 La Manifestación de Impacto Regulatorio tiene por objeto garantizar que los beneficios de las regulaciones sean superiores a sus costos y que fomenten la transparencia y la racionalidad.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 55.
 
-Las dependencias presentarán a la Secretaría, en forma impresa y magnética, las Manifestaciones de Impacto Regulatorio respecto de regulaciones y trámites por emitirse o modificarse.
+Las Dependencias del ejecutivo estatal deberán presentar a la Dirección General del Instituto, las Manifestaciones de Impacto Regulatorio respecto de disposiciones y trámites por emitirse o modificarse de conformidad con el Reglamento de la Ley de Gestión Empresarial y Mejora Regulatoria.
 
-La Secretaría presentará en las sesiones correspondientes del Consejo las Manifestaciones de Impacto Regulatorio presentadas por las dependencias.
+Las dependencias municipales podrán presentar a la Dirección General del Instituto las Manifestaciones de Impacto Regulatorio.
 
-No se requiere una Manifestación de Impacto Regulatorio para toda acción de simplificación o agilización de trámites que realicen las dependencias internamente o entre sí, siempre y cuando no exista relación directa a la solicitud del ciudadano a un servicio o trámite.
+La Dirección General presentará en las sesiones correspondientes de la Junta Directiva las Manifestaciones de Impacto Regulatorio presentadas por las Dependencias.
+
+No será necesario elaborar ni presentar Manifestación de Impacto Regulatorio respecto de proyectos de seguridad pública, fiscales, procuración de justicia, responsabilidad de servidores públicos, o que versen sobre las materias que son competencia de la Jefatura de Gabinete o del Ministerio Público en ejercicio de sus funciones constitucionales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 56.
 
-El Consejo elaborará y, en su caso, aprobará el dictamen regulatorio de la Manifestación de Impacto Regulatorio, que deberá estructurarse de conformidad con los principios de sencillez, transparencia y economía en los servicios, trámites y actos administrativos, a efecto de que permita conocer si los proyectos de regulaciones inciden en los siguientes lineamientos:
+El Instituto elaborará y, en su caso, aprobará el Dictamen Regulatorio de la Manifestación de Impacto Regulatorio, que deberá estructurarse de conformidad con los principios de sencillez, transparencia y economía en los servicios, trámites y actos administrativos, a efecto de que permita conocer si los proyectos de regulaciones inciden en los siguientes lineamientos:
 
 I. Los motivos de la regulación correspondiente;
 
@@ -777,9 +831,11 @@ Los lineamientos para la elaboración del dictamen regulatorio serán establecid
 
 El Registro es el expediente electrónico que contiene los trámites y requisitos de las dependencias de la Administración Pública Estatal y Municipales, que permitirá su conocimiento público y que permite su aplicación a los ciudadanos.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 59.
 
-La Secretaría será la dependencia encargada de integrar y operar el Registro.
+El Instituto será el encargado de integrar y operar el Registro.
 
 ###### ARTÍCULO 60.
 
@@ -813,9 +869,11 @@ XIII. Vigencia del trámite; y
 
 XIV. Información adicional que se estime necesaria para facilitar el servicio, trámite o acto administrativo a que se refiere.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 61.
 
-La Secretaría determinará los lineamientos que las dependencias deberán de observar para efectos de inscribir la información señalada en el Artículo anterior, con el visto bueno del Consejo.
+El Instituto por conducto de la Junta Directiva emitirá los lineamientos que las Dependencias deberán de observar para efectos de inscribir la información a que se refiere el artículo anterior en el Registro.
 
 ###### ARTÍCULO 62.
 
@@ -835,13 +893,15 @@ El Registro será regulado en los términos establecidos en el Reglamento de la 
 
 ### CAPÍTULO VII. Del Registro Estatal de Personas Acreditadas
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 66.
 
-El REPA es la base de datos que contiene los documentos electrónicos probatorios de identidad, domicilio, estado civil u otro, que han sido presentados por el ciudadano ante cualquier dependencia, así como el historial de movimientos realizados, evitando la duplicidad de documentos.
+El REPA es la base de datos que contiene los documentos electrónicos probatorios de identidad, domicilio, estado civil u otro, que han sido presentados por el Interesado ante cualquier Dependencia, así como el historial de movimientos realizados, evitando la duplicidad de documentos.
 
-La Secretaría será la encargada de conformar, coordinar y actualizar el REPA.
+El Instituto será el encargado de conformar, coordinar y actualizar el REPA y compartir la información que competa a cada Dependencia.
 
-En el convenio que suscriban los municipios y los organismos autónomos deberán manifestar su conformidad de manera explícita, en relación al párrafo anterior.
+En el convenio que suscriban los municipios y los organismos autónomos deberán manifestar su conformidad de manera explícita, para compartir la información a que se refiere el párrafo anterior.
 
 ###### ARTÍCULO 67.
 
@@ -867,9 +927,11 @@ Para la aplicación del presente Artículo, las dependencias deberán observar, 
 
 Una vez inscrito el interesado en el REPA, las dependencias deberán consultar el mismo con la finalidad de verificar toda la información integrada del interesado, salvo que el servicio, trámite o acto administrativo de que se trate requiera documentación adicional.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 70.
 
-El Consejo, a través de su Comisión Ejecutiva, emitirá los lineamientos para la creación, operación e interconexión informática del REPA, los cuales contendrán los mecanismos y procedimientos para establecer los formatos de inscripción y claves de identificación, en los términos de la presente Ley y su Reglamento.
+La Junta Directiva, emitirá los lineamientos para la creación, operación e interconexión informática del REPA, los cuales contendrán los mecanismos y procedimientos para establecer los formatos de inscripción y claves de identificación, en los términos de la presente Ley y su Reglamento.
 
 ### CAPÍTULO VIII. Del Sistema de Apertura Rápida de Empresas
 
@@ -879,9 +941,11 @@ El SARE es el proceso, transparente y competitivo, que ofrece la administración
 
 Preferentemente el SARE deberá estar instalado dentro del Centro Municipal de Negocios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 72.
 
-El SARE será implementado por los municipios en coordinación con la Secretaría y la Comisión Federal de Mejora Regulatoria, con base en los acuerdos o convenios signados al respecto, conforme a los siguientes lineamientos:
+El SARE será implementado por los municipios en coordinación con el Instituto y la Comisión Federal de Mejora Regulatoria, con base en los acuerdos o convenios firmados al respecto, conforme a los siguientes lineamientos:
 
 I. Se establecerá un Formato Único de Apertura para la solicitud del trámite, impreso o en forma electrónica, pudiendo referirse, entre otros, a los siguientes trámites:
 
@@ -911,7 +975,9 @@ l) Dictamen de impacto vial.
 
 El formato único, en sus diversas modalidades, incluyendo los requisitos y tiempos de respuesta de los trámites iniciados, deberá publicarse en el Periódico Oficial del Estado.
 
-II. El Formato Único de Apertura se publicará en las páginas de internet de los municipios y de la Secretaría;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+II. El Formato Único de Apertura se publicará en las páginas de internet de los municipios y del Instituto;
 
 III. Se publicará en la página de Internet de los municipios el catálogo de giros comerciales SARE, previa autorización del Cabildo correspondiente;
 
@@ -1027,6 +1093,66 @@ IV. Sanción económica, hasta de 30 salarios mínimos que rijan en el Estado, e
 
 Para la aplicación de las sanciones que correspondan con motivo de las mencionadas infracciones, se estará a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y en la Ley Municipal para el Estado de Aguascalientes, sin perjuicio de la responsabilidad civil o penal en que puedan incurrir los servidores públicos.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JUNIO DE 2015)</small>
+
+### CAPÍTULO XIII. Del Órgano de Vigilancia
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2015)</small>
+
+###### ARTÍCULO 85.
+
+El Órgano de Vigilancia del Instituto estará integrado por un Comisario Público propietario y un suplente, designados por el Gobernador del Estado, quien escuchará las propuestas que le formulen el Jefe de Gabinete y la Secretaría de Fiscalización y Rendición de Cuentas del Estado, para tal efecto.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2015)</small>
+
+###### ARTÍCULO 86.
+
+El Comisario Público evaluará el desempeño general y por funciones del Instituto, realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión y en general, solicitará la información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de Fiscalización y Rendición de Cuentas le asigne.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2015)</small>
+
+###### ARTÍCULO 87.
+
+Para el cumplimiento de las funciones del Comisario Público, la Junta Directiva y el Director General le proporcionarán la información que les solicite.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JUNIO DE 2015)</small>
+
+### CAPÍTULO XIV. De las Suplencias
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2015)</small>
+
+###### ARTÍCULO 88.
+
+El Director General será suplido en sus ausencias temporales conforme a lo previsto en el Reglamento Interior, quien lo supla contará con todas las facultades que correspondan al titular, independientemente las de su propio cargo o comisión.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2015)</small>
+
+###### ARTÍCULO 89.
+
+Las ausencias temporales de los titulares de las direcciones y unidades administrativas, serán suplidas conforme a lo previsto en el Reglamento Interior.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2015)</small>
+
+###### ARTÍCULO 90.
+
+Los servidores públicos que cubran las ausencias, actuarán como encargados del despacho, con todas las facultades que correspondan al titular, independientemente de las de su propio cargo o comisión.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JUNIO DE 2015)</small>
+
+### CAPÍTULO XV. Del Régimen Laboral
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2015)</small>
+
+###### ARTÍCULO 91.
+
+Las relaciones laborales del Instituto y sus servidores públicos se regirán por las disposiciones del Estatuto de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, de sus Municipios y Organismos Descentralizados.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2015)</small>
+
+###### ARTÍCULO 92.
+
+El personal del Instituto estará incorporado en los términos de la Ley relativa a las prestaciones de seguridad y servicios sociales para los servidores públicos del Estado de Aguascalientes.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
@@ -1086,3 +1212,27 @@ Dip. Gilberto Carlos Ornelas,
 PROSECRETARIO EN FUNCIONES DE SEGUNDO SECRETARIO
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 8 de noviembre de 2013.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se transforma el Instituto para la Gestión Empresarial y la Mejora Regulatoria del Estado de Aguascalientes, órgano desconcentrado de la Secretaría de Desarrollo Económico, en un organismo público descentralizado. Por tanto todos los derechos y obligaciones contraídos por el Instituto que se transforma serán asumidos por el organismo público descentralizado que se crea por virtud de las presentes reformas.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Finanzas del Gobierno del Estado, autorizará la transferencia de recursos financieros necesarios para la debida operación y funcionamiento del Instituto de Gestión Empresarial y Mejora Regulatoria.
+
+###### ARTÍCULO CUARTO.
+
+El Reglamento del Instituto de Gestión Empresarial y Mejora Regulatoria, deberá expedirse en un plazo máximo de ciento ochenta días naturales, contados a partir de la fecha de publicación del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+La Oficialía Mayor del Gobierno del Estado tramitará la asignación de los recursos materiales y humanos necesarios para iniciar la operación y funcionamiento del Instituto de Gestión Empresarial y Mejora Regulatoria.
