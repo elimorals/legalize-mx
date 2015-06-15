@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-fomento-a-las-organizaciones-de-la-sociedad-civil-77386"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-15"
-last_updated: "2012-08-20"
+last_updated: "2015-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE FOMENTO A LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 15 de noviembre de 2010.
 
@@ -103,7 +103,9 @@ VII. Asistencia jurídica;
 
 VIII. Promoción de la equidad de género;
 
-IX. Aportación de servicios para la atención a grupos sociales con capacidades diferentes;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+IX. Aportación de servicios para la atención a grupos sociales de personas con discapacidad;
 
 X. Acciones en favor de comunidades rurales y urbanas marginadas;
 
@@ -844,3 +846,13 @@ P.O. 20 DE AGOSTO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de "personas con discapacidad".
