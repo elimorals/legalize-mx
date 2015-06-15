@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-vialidad-del-estado-de-aguascalientes-2877"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-29"
-last_updated: "2012-12-31"
+last_updated: "2015-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
 
 Ley publicada en el Suplemento a la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -115,7 +115,7 @@ El Gobernador y los Ayuntamientos del Estado, proveerán en la esfera de su comp
 
 Son autoridades de vialidad:
 
-I.- El Gobernador Constitucional del Estad.
+I.- El Gobernador Constitucional del Estado.
 
 II.- (DEROGADA, P.O. 8 DE AGOSTO DE 2005)
 
@@ -617,9 +617,11 @@ c) Comprobar domicilio actual.
 
 d) Presentación de cartilla o precartilla del servicio militar y en el caso de mujeres, credencial de identificación con fotografía.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+
 e) Presentar y acreditar el examen médico de agudeza audiovisual y de integridad física, ante la Dirección.
 
-En el caso de los discapacitados, el reconocimiento médico deberá tomar en cuenta el tipo de incapacidad del solicitante, su habilidad para superarla y el acondicionamiento de su vehículo.
+En el caso de las personas con discapacidad, el reconocimiento médico deberá tomar en cuenta el tipo de discapacidad del solicitante, su habilidad para superarla y el acondicionamiento de su vehículo.
 
 f) Asistir al curso teórico sobre el conocimiento de esta Ley.
 
@@ -883,15 +885,21 @@ En los cruceros o zonas marcadas por paso peatonal, los conductores están oblig
 
 Queda estrictamente prohibido rebasar cualquier vehículo que se encuentre detenido ante una zona de paso peatonal, delimitada o no, para permitir el paso a los peatones.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 53.
 
-Los discapacitados, menores de diez años y los ancianos, además de los beneficios otorgados en otras normas, gozarán de los siguientes derechos y preferencias:
+Las personas con discapacidad, menores de doce años y los adultos mayores, además de los beneficios otorgados en otras normas, gozarán de los siguientes derechos y preferencias:
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
 I.- En las intersecciones no semaforizadas gozarán de derecho de paso sobre los vehículos.
 
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+
 II.- En las intersecciones semaforizadas gozarán de derecho de paso cuando el semáforo de peatones así lo indique, o cuando encontrándose en señal de alto el semáforo correspondiente a la vialidad que pretenden cruzar, el agente de tránsito detiene el tráfico vehicular; y
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
 III.- Cuando correspondiéndoles el paso en intersecciones semaforizadas no alcancen a cruzar, es obligación de los conductores mantenerse detenidos hasta que lo hubieran hecho, sin presionar ni inculparlos por ello.
 
@@ -977,11 +985,11 @@ X.- Conducir a una velocidad máxima de cuarenta kilómetros por hora.
 
 #### SECCION TERCERA. De los Ciclistas
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 58.
 
-Para los efectos de la presente Sección, se tienen como similares los triciclos y las sillas de ruedas en la que se desplazan los discapacitados.
+Para los efectos de la presente Sección, se tienen como similares los triciclos y las sillas de ruedas en la que se desplazan las personas con discapacidad.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
@@ -1661,7 +1669,9 @@ XVII.- Frente a estacionamientos bancarios que manejen valores.
 
 XVIII.- Frente a tomas de agua para el servicio de los cuerpos de bomberos.
 
-XIX.- Frente a rampas especiales para discapacitados o a las zonas de estacionamiento para ellos.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+XIX.- Frente a rampas especiales para personas con discapacidad o a las zonas de estacionamiento para ellas.
 
 XX.- En zonas o vías públicas donde exista un señalamiento para este efecto;
 
@@ -2283,7 +2293,7 @@ VII.- Cuando no cumpla con los requisitos de seguridad previstos por esta Ley.
 
 VIII.- Cuando el vehículo tenga defecto en su sistema de frenado.
 
-IX.- Cuando exista requerimiento para su detención por parte de autoridad competente policiaca, judicial, fiscal o de tránsito; y (sic)
+IX.- Cuando exista requerimiento para su detención por parte de autoridad competente policiaca, judicial, fiscal o de tránsito; y
 
 X.- (DEROGADA, P.O. 17 DE ABRIL DE 2006)
 
@@ -2773,17 +2783,15 @@ d) Vehículos de transporte de carga:
 
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2008)</small>
 
-IV. MUY GRAVE.
+IV.- MUY GRAVE.
 
 a) Todo tipo de vehículo:
 
 1. Conducir cualquier tipo de vehículo cuando se encuentre suspendida o cancelada la licencia de conducir.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 18 DE AGOSTO DE 2008)</small>
-
-V. Quien obstruya o se estacione en bahías, rampas o espacios para uso exclusivo de personas discapacitadas, el infractor se hará acreedor a la multa que se determine en la Ley de Ingresos del Municipio que corresponda.
+V.- Quien obstruya o se estacione en bahías, rampas o espacios para uso exclusivo de personas con discapacidad, el infractor se hará acreedor a la multa que se determine en la Ley de Ingresos del Municipio que corresponda.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3108,3 +3116,13 @@ P.O. 31 DE DICIEMBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de “personas con discapacidad”.
