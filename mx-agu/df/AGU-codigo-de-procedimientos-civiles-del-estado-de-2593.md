@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "2015-03-23"
+last_updated: "2015-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -3287,7 +3287,7 @@ El juez ejecutor decidirá de plano toda cuestión que se suscite durante la sub
 
 ###### ARTICULO 491.
 
-El día del remate, a la hora señalada, el juez pasará lista personalmente de los postores presentados y concederá media hora para admitir a los demás que se presenten. Concluída la media hora, el juez declarará que va a procederse al remate y ya no admitirá nuevos postores. En seguida (sic) revisará las propuestas presentadas, desechando, desde luego las que no tengan postura legal y los demás requisitos que menciona el artículo 487.
+El día del remate, a la hora señalada, el juez pasará lista personalmente de los postores presentados y concederá media hora para admitir a los demás que se presenten. Concluída la media hora, el juez declarará que va a procederse al remate y ya no admitirá nuevos postores. En seguida revisará las propuestas presentadas, desechando, desde luego las que no tengan postura legal y los demás requisitos que menciona el artículo 487.
 
 ###### ARTICULO 492.
 
@@ -5133,7 +5133,7 @@ Para la apertura del testamento cerrado, los testigos reconocerán separadamente
 
 Cumplido lo prescrito en sus respectivos casos, en los artículos 1454 y 1459 del Código Civil, el juez, en presencia del Notario, los testigos, el representante del Ministerio Público y el secretario, abrirá el testamento, lo leerá para sí y después en alta voz, omitiendo lo que deba permanecer en secreto.
 
-En seguida (sic) firmarán al margen del testamento las personas que hubieren intervenido en la diligencia, con el juez y el secretario, y se le pondrá el sello del juzgado, asentándose razón de todo ello en el acta.
+En seguida firmarán al margen del testamento las personas que hubieren intervenido en la diligencia, con el juez y el secretario, y se le pondrá el sello del juzgado, asentándose razón de todo ello en el acta.
 
 La protocolización de todo testamento cerrado, se hará en la notaría que designe el promovente.
 
@@ -5519,7 +5519,7 @@ En todos los casos en que el tutor necesite para algún acto de la licencia del 
 
 ### CAPITULO VI. Adopción
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 845.
 
@@ -5607,9 +5607,9 @@ La venta de los bienes indivisos pertenecientes a mayores o menores de edad, se 
 
 ###### ARTICULO 858.
 
-El que pretenda adoptar a uno o más menores o a uno o más discapacitados deberá acreditar los requisitos establecidos en el Artículo 413 del Código Civil.
+El que pretenda adoptar a uno o más menores o a uno o más incapaces, deberá acreditar los requisitos establecidos en el Artículo 413 del Código Civil.
 
-En la promoción inicial deberá manifestarse: El nombre y edad del menor o discapacitado, el nombre y domicilio de quienes ejercen sobre él la patria potestad o la tutela, y en su caso, el de la persona o institución de asistencia social pública o privada que lo tenga acogido.
+En la promoción inicial deberá manifestarse: El nombre y edad del menor o incapaz, el nombre y domicilio de quienes ejercen sobre él la patria potestad o la tutela, y en su caso, el de la persona o institución de asistencia social pública o privada que lo tenga acogido.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
 
@@ -6170,3 +6170,13 @@ P.O. 23 DE MARZO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de "personas con discapacidad".
