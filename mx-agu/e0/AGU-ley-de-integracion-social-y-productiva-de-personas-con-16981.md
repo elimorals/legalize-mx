@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-integracion-social-y-productiva-de-personas-con-16981"
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2010-11-15"
+last_updated: "2015-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE INTEGRACION SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE AGUASCALIENTES -- ANTES LEY DE INTEGRACION SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD --
 
-LEY DE INTEGRACION SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD
+LEY DE INTEGRACIÓN SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de febrero de 2000.
 
@@ -151,13 +151,13 @@ VI.- Vigilar que los apoyos otorgados a las personas físicas y morales cuyos ob
 
 VII.- Llevar a cabo un padrón de personas con discapacidad y de instituciones legalmente constituidas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2010)</small>
 
 VIII.- Supervisar que sólo se apoye a las personas físicas y morales que se encuentren debidamente registradas ante este Comité Técnico; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 IX.- (DEROGADA, P.O. 15 DE NOVIEMBRE DE 2010)
 
@@ -377,9 +377,11 @@ El Ejecutivo del Estado a través de la Dirección General del Trabajo del Estad
 
 Se crean Centros Especiales de Empleo, cuyo objetivo principal será asegurar un empleo remunerado, realizando un trabajo productivo, al personal con discapacidad, cuya promoción y apoyo técnico depende del Sistema Estatal para el Desarrollo Integral de la Familia en Aguascalientes en coordinación con la Secretaria de Desarrollo Económico.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+
 ###### ARTICULO 48.
 
-La totalidad de la plantilla de los Centros Especiales de Empleo estará constituida por trabajadores con discapacidad, a excepción de las plazas del personal no discapacitado imprescindible para el desarrollo de su actividad.
+La totalidad de la plantilla de los Centros Especiales de Empleo estará constituida por trabajadores con discapacidad, a excepción de las plazas del personal sin discapacidad imprescindible para el desarrollo de su actividad.
 
 ###### ARTICULO 49.
 
@@ -603,7 +605,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 30 DE JUNIO DE 2008.
 
@@ -636,3 +638,13 @@ La integración e instalación del Consejo deberá llevarse a cabo por la Comisi
 ###### ARTÍCULO QUINTO.
 
 Las Unidades de Enlace contarán con noventa días naturales siguientes a la entrada en vigencia del presente Decreto, para enviar a la Secretaría Técnica la información correspondiente a las Organizaciones que se encuentran registradas en las dependencias y entidades, así como las de nueva constitución que se registren ante ellas.
+
+P.O. 15 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de "personas con discapacidad".
