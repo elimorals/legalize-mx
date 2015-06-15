@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-obras-publicas-y-servicios-relacionados-para-el-33601"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-25"
-last_updated: "2013-11-20"
+last_updated: "2015-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de agosto de 2003.
 
@@ -81,7 +81,7 @@ IV. Licitante: La persona física o moral que participa en cualquier procedimien
 
 V. Contratista: La persona física o moral que celebre contratos de obra pública o de servicios relacionados con la misma;
 
-VI. Sujetos de la Ley: Los que se indican en el Articulo 1° de esta Ley;
+VI. Sujetos de la Ley: Los que se indican en el Artículo 1° de esta Ley;
 
 VII. Secretaría: La Secretaría de Obras Públicas del Estado;
 
@@ -113,7 +113,7 @@ XIII. Sujeto de la Ley Normativo: Son aquellos Sujetos de la Ley que tienen las 
 
 XIV. Sujeto de la Ley Operativo: Son aquellos Sujetos de la Ley que tienen las atribuciones, funciones y obligaciones de utilizar, manejar u operar en el ámbito de su competencia las obras de infraestructura y su equipamiento que les sean entregadas por los Sujetos de la Ley Ejecutores en el Estado, o en su caso de los municipios.
 
-###### Articulo 3°.
+###### Artículo 3°.
 
 Para los efectos de esta Ley, se considera obra pública todo trabajo que tenga por objeto: construir, ampliar instalar, rehabilitar, restaurar, conservar, mantener, reparar, modificar y demoler bienes inmuebles que por su naturaleza o por disposición de Ley, pertenezcan a cualquier Sujeto de la Ley, o bien, se utilice presupuesto público para ello.
 
@@ -133,7 +133,7 @@ V. Los trabajos de infraestructura agropecuaria que se realicen con presupuesto 
 
 > <small>(REFORMADA, P.O. 4 DE ABRIL DE 2005)</small>
 
-VI. La instalación, montaje, colocación o aplicación de bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble propiedad de las dependencias, entidades o Municipios, siempre y cuando dichos bienes sean proporcionados por la convocante al contratista, o bien cuando incluya la adquisición o fabricación de los mismos y que el precio de éstos sea inferior al de los trabajos que se contraten, incluyendo las pruebas de operación de lo bienes muebles; y
+VI. La instalación, montaje, colocación o aplicación de bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble propiedad de las dependencias, entidades o Municipios, siempre y cuando dichos bienes sean proporcionados por la convocante al contratista, o bien cuando incluya la adquisición o fabricación de los mismos y que el precio de éstos sea inferior al de los trabajos que se contraten, incluyendo las pruebas de operación de los bienes muebles; y
 
 VII. Todas aquellas actividades de naturaleza análoga, que determine la Contraloría.
 
@@ -225,7 +225,7 @@ VIII.- El banco de datos de las obras ejecutadas y de los proyectos ejecutivos.
 
 Esta planeación deberá desarrollarse entre los Sujetos de la Ley y operadores y normativos, en coordinación con la SEPLADE o su similar en los municipios, debiendo contar con ésta a mas tardar el 31 de julio del ejercicio fiscal anterior a su ejecución; las obras emergentes o aquellas que se logren incluir en el escenario por la obtención de recursos adicionales podrán adicionarse posteriormente a esta fecha, pero siempre antes del 30 de noviembre del ejercicio fiscal en que se autoricen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 14.
 
@@ -269,7 +269,9 @@ Los Sujetos de la Ley estarán obligados a prever, con sustento en los estudios 
 
 Los proyectos deberán incluir las obras necesarias para que se preserven o restituyan en forma equivalente las condiciones ambientales cuando éstas pudieren deteriorarse y se dará la intervención a las instancias que correspondan y que tengan atribuciones en la materia, así mismo, los presupuestos deberán incluir los costos mínimos para cumplir con lo indicado en este Artículo.
 
-De igual forma, todos los proyectos de infraestructura pública deberán asegurar la accesibilidad, evacuación, libre tránsito sin barreras arquitectónicas y la seguridad para todas las personas, debiendo cumplir con las normas de diseño y de señalización vigentes y aplicables al proyecto, en instalaciones, circulaciones, servicios sanitarios y demás análogas para las personas con capacidades diferentes.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+
+De igual forma, todos los proyectos de infraestructura pública deberán asegurar la accesibilidad, evacuación, libre tránsito sin barreras arquitectónicas y la seguridad para todas las personas, debiendo cumplir con las normas de diseño y de señalización vigentes y aplicables al proyecto, en instalaciones, circulaciones, servicios sanitarios y demás análogas para las personas con discapacidad.
 
 > <small>(REFORMADO, P.O. 4 DE ABRIL DE 2005)</small>
 
@@ -345,7 +347,7 @@ En los casos previstos por las Fracciones II, VIII y IX del Artículo 46 de esta
 
 Los servidores públicos que autoricen en contravención a lo dispuesto en este Artículo, se harán acreedores a las sanciones que resulten aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2009)</small>
 
 Artículo 23 bis.- Los Sujetos de la Ley ejecutores de la obra pública, posterior a la presentación de la propuesta del programa anual de obra pública y servicios relacionados y antes del treinta y uno de diciembre del ejercicio presupuestal anterior a aquel en que se vayan a ejecutar los trabajos, podrán elaborar los expedientes técnicos y remitirlos a SEPLADE o su equivalente a nivel municipal, para su análisis y probable aprobación, siempre que representen, de manera conjunta, hasta el veinticinco por ciento del presupuesto asignado para obra pública en el ejercicio fiscal anterior al de la ejecución de los trabajos, de los cuales se podrá llevar a cabo el procedimiento de contratación, debiendo cumplir con la forma y plazos indicados en esta Ley.
 
@@ -389,7 +391,7 @@ Sin perjuicio de lo señalado en el Artículo 46 de la presente Ley, los Sujetos
 
 El número de salarios mínimos con el que se obtendrán los montos máximos de adjudicación directa y los de invitación restringida a cuando menos cinco licitantes tanto para obras públicas como para servicios relacionados con las mismas se muestran en la siguiente tabla.
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 A los montos derivados de la conversión en pesos que se obtengan de la tabla anterior deberá agregársele el Impuesto al Valor Agregado. El presupuesto para realizar obras públicas y servicios relacionados con las mismas será el total a ejercer por Sujeto de la Ley en el ejercicio presupuestal que corresponda. La SEPLADE, en el ámbito estatal y sus similares en los municipios, dentro de los quince días siguientes a la autorización del Programa Anual de Obra Pública por parte del Titular del Poder Ejecutivo Estatal o Municipal, según corresponda, de cada ejercicio presupuestal, serán las responsables de informar, por escrito, a las dependencias ejecutoras de obras públicas y servicios relacionados con las mismas que les correspondan, el presupuesto con el que cuenta cada una. El monto del presupuesto deberá actualizarse dentro de los primeros cinco días hábiles de cada mes, siendo aplicable para los Sujetos de la Ley tres días hábiles posteriores a la recepción de la notificación de la actualización referida. Los recursos a los que se refiere el presente párrafo son aquellos en los que aplica la presente Ley.
 
@@ -433,7 +435,7 @@ La Secretaría dará publicidad al Padrón Estatal de Contratistas de Obra Públ
 
 Los Sujetos de la Ley podrán llevar un registro de calificaciones para procedimientos de selección y consideración para adjudicaciones directas o invitación restringida. Por lo cual se deberán incluir, en el Reglamento de esta Ley los criterios a seguir para la calificación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2005)</small>
 
 ###### Artículo 30.
 
@@ -551,7 +553,7 @@ Preferentemente se deberán llevar a cabo licitaciones de carácter estatal.
 
 Cuando sea necesario, podrá llevarse a cabo una reunión del Comité Interno de Licitación de cada Sujeto de la Ley, pero los acuerdos tomados por dicho Comité servirán como apoyo para la toma de decisión final por parte del titular del Sujeto de la Ley o de quien se le haya delegado la responsabilidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2009)</small>
 
 ###### Artículo 37.
 
@@ -669,7 +671,7 @@ Las licitaciones deberán contener los mismos requisitos y condiciones para todo
 
 En los casos de trabajos financiados con créditos otorgados a los Sujetos de la Ley, los requisitos y demás disposiciones para su contratación deberán considerar los términos de la Ley de Deuda Pública del Estado de Aguascalientes que sean aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2005)</small>
 
 ###### Artículo 40.
 
@@ -727,7 +729,7 @@ III. Se levantará acta de la primera etapa, en la que se harán constar las pro
 
 > <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
 
-IV. En la segunda etapa, una vez conocido el resultado técnico mediante la lectura del acta correspondiente, se procederá a la apertura de las propuestas económicas de los Iicitantes cuyas propuestas técnicas no hubieran sido desechadas en la primera etapa o en el análisis cualitativo de las mismas, y se dará lectura en voz alta al presupuesto base del Sujeto de la Ley convocante, procediendo posteriormente a la apertura de propuestas económicas, dando lectura al importe total de las propuestas y al porcentaje de utilidad de aquellas que contengan los documentos completos, debiendo desechar, en este acto, a aquellas que no contengan la totalidad de los documentos solicitados, así como a las propuestas que no cumplan con los aspectos cualitativos que hayan sido indicados en las bases de licitación. Por lo menos un licitante, si asistiere alguno, y dos miembros del Comité Interno de Licitación del Sujeto de la Ley rubricarán el presupuesto de obra, en que se consignen los precios y el importe total de los trabajos objeto de la licitación;
+IV. En la segunda etapa, una vez conocido el resultado técnico mediante la lectura del acta correspondiente, se procederá a la apertura de las propuestas económicas de los licitantes cuyas propuestas técnicas no hubieran sido desechadas en la primera etapa o en el análisis cualitativo de las mismas, y se dará lectura en voz alta al presupuesto base del Sujeto de la Ley convocante, procediendo posteriormente a la apertura de propuestas económicas, dando lectura al importe total de las propuestas y al porcentaje de utilidad de aquellas que contengan los documentos completos, debiendo desechar, en este acto, a aquellas que no contengan la totalidad de los documentos solicitados, así como a las propuestas que no cumplan con los aspectos cualitativos que hayan sido indicados en las bases de licitación. Por lo menos un licitante, si asistiere alguno, y dos miembros del Comité Interno de Licitación del Sujeto de la Ley rubricarán el presupuesto de obra, en que se consignen los precios y el importe total de los trabajos objeto de la licitación;
 
 V. Se señalarán fecha, lugar y hora en que se dará a conocer el fallo de la licitación; esta fecha deberá quedar comprendida dentro de los veinte días naturales contados a partir de la fecha de inicio de la primera etapa, y podrá diferirse siempre que el nuevo plazo fijado no exceda de veinte días naturales contados a partir del plazo establecido originalmente para el fallo;
 
@@ -853,7 +855,7 @@ Los Sujetos de la Ley, preferentemente, invitarán a cuando menos cinco licitant
 
 En el caso de la Fracción IV del presente Artículo, preferentemente deberá invitarse o asignarse directamente entre los licitantes que hayan presentado propuesta en los procedimientos de contratación declarados desiertos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2009)</small>
 
 ###### Artículo 47.
 
@@ -925,7 +927,7 @@ Los Sujetos de la Ley, por ningún motivo, podrán modificar las condiciones pac
 
 Los contratos a precio alzado o la parte de los mixtos de esta naturaleza, no podrán ser modificados en monto o en plazo, ni estarán sujetos a ajustes de costos; sin embargo en caso fortuito, cuando con posterioridad a la adjudicación de un contrato se presenten circunstancias de tipo general, como resultado de situaciones ajenas a la responsabilidad de las partes, que provoquen directamente un aumento o reducción de los costos y/o del plazo de los trabajos no ejecutados conforme al programa originalmente pactado, y que por tal razón no pudieron haber sido objeto de consideración en la propuesta que sirvió de base para la adjudicación del contrato correspondiente, se deberán considerar los ajustes correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2005)</small>
 
 ###### Artículo 52.
 
@@ -961,7 +963,7 @@ XI. Los procedimientos mediante los cuales las partes, entre sí, resolverán la
 
 Para los efectos de esta Ley, las bases de licitación, el contrato, sus anexos y la bitácora de los trabajos, son los instrumentos que vinculan a las partes en sus derechos y obligaciones los que deben guardar congruencia entre sí.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2005)</small>
 
 ###### Artículo 53.
 
@@ -1109,7 +1111,7 @@ En caso de incumplimiento en los pagos de estimaciones y de ajustes de costos, e
 
 Tratándose de pagos en exceso que haya recibido el contratista, éste deberá reintegrar las cantidades pagadas en exceso, más los intereses correspondientes, tomando como referencia sólo la tasa que se establezca en la Ley de Ingresos del Estado del ejercicio que corresponda, para los casos de prórroga para el pago de créditos fiscales. Los cargos se calcularán sobre las cantidades pagadas en exceso en cada caso y se computarán por días calendario desde la fecha del pago hasta la fecha en que se pongan efectivamente las cantidades a disposición del Sujeto de la Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2005)</small>
 
 ###### Artículo 63.
 
@@ -1353,7 +1355,7 @@ La forma y términos que los Sujetos de la Ley deberán remitir a la Contralorí
 
 Para tal efecto, los Sujetos de la Ley conservarán en forma ordenada y sistemática toda la documentación comprobatoria de dichos actos y contratos, cuando menos por un lapso de cinco años, contados a partir de la finalización formal de los trabajos; en el caso de la documentación contable de estará a lo dispuesto en el Código Fiscal del Estado de Aguascalientes. Para el caso de las dependencias de Gobierno del Estado, la Secretaría de Finanzas será la responsable de este último punto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2010)</small>
 
 ###### Artículo 81.
 
@@ -1618,3 +1620,13 @@ P.O. 20 DE NOVIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de “personas con discapacidad”.
