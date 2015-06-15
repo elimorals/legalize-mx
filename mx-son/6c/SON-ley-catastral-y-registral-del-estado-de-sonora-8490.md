@@ -4,7 +4,7 @@ identifier: "SON-ley-catastral-y-registral-del-estado-de-sonora-8490"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-31"
-last_updated: "2005-06-30"
+last_updated: "2015-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE JUNIO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE JUNIO DE 2015.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el jueves 31 de diciembre de 1992.
 
@@ -113,11 +113,11 @@ XV.- Terceros: todos aquellos que tengan constituidos derechos reales y graváme
 
 XVI.- Registrador: el Encargado de la Oficina del Registro Público de la Propiedad que corresponda.
 
-> <small>(REFORMADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ## TITULO SEGUNDO. DE LA FUNCION CATASTRAL
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO I. DEL CATASTRO
 
@@ -177,7 +177,7 @@ Todos los predios ubicados dentro del territorio de los Municipios del Estado, d
 
 Las autoridades competentes deberán determinar el valor catastral de cada inmueble con la aplicación de los planos y tablas generales de valores unitarios de suelo y construcción aprobadas por el Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 11.
 
@@ -191,7 +191,7 @@ La propuesta de planos deberá elaborarse tomando en cuenta los servicios públi
 
 Los valores unitarios que propongan los ayuntamientos, deberán ser análogos a los valores de mercado al momento de elaborarse el estudio correspondiente.
 
-> <small>(DEROGADO CUARTO PARRAFO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
 > <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
@@ -435,11 +435,11 @@ La autoridad catastral municipal expedirá copias certificadas de los planos y d
 
 El Código Fiscal del Estado es supletorio de la presente Ley, en cuanto sus disposiciones no se opongan a la misma y permita resolver lo no previsto en ella en materia catastral.
 
-> <small>(REFORMADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ## TITULO TERCERO. AUTORIDADES COMPETENTES
 
-> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO I. AUTORIDADES CATASTRALES Y SU COMPETENCIA
 
@@ -613,7 +613,7 @@ XX.- Las demás que le señale la presente Ley.
 
 Las relaciones de trabajo entre el Instituto y sus funcionarios de Estado se regirán por la Ley de Servicio Civil para el Estado de Sonora.
 
-> <small>(REFORMADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO II. DE LA COORDINACION DE LOS MUNICIPIOS Y EL ESTADO
 
@@ -769,13 +769,25 @@ IV.- El nombre del interesado.
 
 Una copia del comprobante de presentación que reciba el interesado, quedará en la Oficina para, con base en ella, anotar el asiento de presentación en el Control Diario de Entradas y Salidas.
 
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
+
 ###### ARTICULO 64.
 
-Una vez que se firme una escritura en que se adquiera, transmita, modifique o extinga la propiedad o la posesión de bienes inmuebles, o en que se haga constar un crédito que tenga preferencia desde que se ha registrado, el fedatario o autoridad ante quien se otorgó, a petición de parte interesada, hará llegar al Registro a más tardar el día hábil siguiente de la firma, un aviso por única vez, en el que conste la operación e inmueble de que se trate, así como la indicación de que se ha trasmitido, modificado su dominio, o se ha constituido, trasmitido, modificado o extinguido un derecho real sobre el mismo; los nombres de los interesados en la operación, el importe de la misma cuando corresponda, la fecha de la escritura y la de su firma, e indicación del antecedente registrar en que estuviera inscrita la propiedad en el Registro. El Registrador, con dicho aviso y sin cobro de derecho alguno, hará inmediatamente una anotación preventiva a la inscripción o inscripciones correspondientes. Si dentro de los sesenta días naturales siguientes a la fecha en que se hubiere firmado la escritura, misma fecha que se consignará en el aviso a que se refiere este artículo, se presentará el testimonio respectivo, su inscripción surtirá efectos contra terceros desde la fecha de la anotación preventiva, la cual se citará en la inscripción definitiva. Si el testimonio se presenta después, su registro surtirá efectos desde la fecha de la presentación.
+Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes inmuebles o cualquier derecho real sobre los mismos, que sin serlo sea inscribible o en que se haga constar un crédito que tenga preferencia desde que sea registrado, el notario púbico (sic) ante quien se haga el otorgamiento, a petición de cualquiera de las partes, deberá solicitar al Registro Público un certificado sobre la existencia o inexistencia de gravámenes en relación con la misma
 
-Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior fuere privado, darán el aviso a que este artículo se refiere, los fedatarios y autoridades señalados en la fracción III del articulo 48 de este ordenamiento, y dicho aviso producirá los efectos que se indican en el párrafo anterior.
+En dicha solicitud, que surtirá efectos de aviso preventivo, deberá mencionar la operación e inmueble de que se trate, el importe de la misma, los nombres de los contratantes y el respectivo antecedente registral.
 
-La falta de avisos a que se refiere este artículo, hace responsable al que debe darlos de los daños y perjuicios que su omisión origine.
+El registrador, con esta solicitud practicará inmediatamente la inscripción de la misma, con anotación al margen de la inscripción de la propiedad, misma que tendrá una vigencia de 30 días naturales a partir de la fecha de presentación de la solicitud.
+
+Una vez que se firme una escritura que produzca los efectos a que se refiere el primer párrafo de este artículo, el fedatario o autoridad ante quien otorgó, a petición de parte interesada, hará llegar al Registro a más tardar el día hábil siguiente de la firma, un aviso por única vez, en el que conste la operación e inmueble de que se trate, así como la indicación de que se ha trasmitido, modificado su dominio, o se ha constituido, trasmitido, modificado o extinguido un derecho real sobre el mismo; los nombres de los interesados en la operación, el importe de la misma cuando corresponda, la fecha de la escritura, y a (sic) de su firma, e indicación del antecedente registral en que estuviera inscrita la propiedad en el Registro.
+
+El registrador con dicho aviso y sin cobro de derecho alguno, hará inmediatamente una anotación preventiva a la inscripción o inscripciones correspondientes.
+
+Si dentro de los sesenta días naturales siguientes a la fecha en que se hubiere firmado la escritura, misma fecha que se consignara en el aviso a que se refiere este artículo, se presentara el testimonio respectivo, su inscripción surtirá efectos contra terceros desde la fecha de la anotación preventiva, la cual se citara en la inscripción definitiva. Si el testimonio se presenta después, su registro surtirá efectos desde la fecha de presentación.
+
+Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior fuere privado, darán el aviso a que este artículo se refiere, los fedatarios y autoridades señalados en la fracción III del artículo 48 de este ordenamiento, y dicho aviso producirá los efectos que se indican en el párrafo anterior.
+
+La falta de avisos a que se refiere este artículo, hace responsable al que debe darlos de los daños y perjuicios de que (sic) omisión origine.
 
 ###### ARTICULO 65.
 
@@ -821,7 +833,7 @@ VI.- Cuando no se individualicen los bienes del deudor sobre los que se constitu
 
 VII.- Cuando no se fije la cantidad máxima que garantice un gravamen, en el supuesto de obligaciones de monto indeterminado, salvo los casos previstos en el segundo párrafo del artículo 57 de esta Ley, si se dan las bases para determinar el monto de la obligación garantizada; y
 
-VIII.- Cuando falte algún otro requisito que deba llevar el documento, de acuerdo con esta Ley, el reglamento respectivo y demás disposiciones aplicables.
+VIII.- (DEROGADA, B.O. 15 DE JUNIO DE 2015)
 
 ###### ARTICULO 70.
 
@@ -1235,7 +1247,7 @@ IV.- Cometan errores, inexactitudes u omisiones en los asientos que practiquen o
 
 ### CAPITULO UNICO. DE LAS INFRACCIONES Y SANCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 116.
 
@@ -1327,7 +1339,7 @@ EL SECRETARIO DE GOBIERNO.
 
 LIC. ROBERTO SANCHEZ CEREZO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS LEYES DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LAS LEYES DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 14 DE DICIEMBRE DE 1998.
 
@@ -1372,3 +1384,9 @@ Dentro de los 180 días naturales siguientes a la entrada en vigor de este Decre
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que se opongan a las del presente Decreto.
+
+B.O. 15 DE JUNIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
