@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-del-estado-de-aguascalientes-77081"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-25"
-last_updated: "2010-10-25"
+last_updated: "2015-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CULTURA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 25 de octubre de 2010.
 
@@ -277,7 +277,9 @@ XXI. Celebrar convenios con los medios de comunicación para promover y difundir
 
 XII. Establecer programas de estímulo y financiamiento a las actividades culturales, priorizando la creación de fondos financieros para los artistas y creadores intelectuales del Estado, cuyas obras contribuyan al logro del objetivo del Instituto;
 
-XXIII. Promover y fomentar la adquisición de material didáctico y de lectura para personas con capacidades diferentes en centros culturales y bibliotecas;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+XXIII. Promover y fomentar la adquisición de material didáctico y de lectura para personas con discapacidad en centros culturales y bibliotecas;
 
 XXIV. Coordinar y supervisar la Red estatal de Bibliotecas Públicas y fungir como enlace con la Red Nacional de Bibliotecas Públicas; conforme a los acuerdos que se hubieran celebrado o se celebren con esa instancia federal y/o con los ayuntamientos; y
 
@@ -581,7 +583,7 @@ Para la obtención de los grados académicos, la Universidad de las Artes avalar
 
 La Universidad de las Artes está facultada para:
 
-I. Determinar la forma como cumplirá con sus funciones de docencia, investigación y extensión social, y la proposición de sus planes y programas de estudio, sus estatutos y reglamentos, Io mismo que la selección de su personal;
+I. Determinar la forma como cumplirá con sus funciones de docencia, investigación y extensión social, y la proposición de sus planes y programas de estudio, sus estatutos y reglamentos, lo mismo que la selección de su personal;
 
 II. Elegir a sus autoridades administrativas; y
 
@@ -746,3 +748,15 @@ Luis Armando Reynoso Femat.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic Juan Ángel José Pérez Talamantes.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de “personas con discapacidad”.
