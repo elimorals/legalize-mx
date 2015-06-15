@@ -4,7 +4,7 @@ identifier: "SON-ley-de-integracion-social-para-personas-con-discapacidad-14608"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-12"
-last_updated: "2014-12-22"
+last_updated: "2015-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE JUNIO DE 2015.
 
 Ley publicada en la Tercera Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de julio de 1999.
 
@@ -234,6 +234,26 @@ VII.- Deficiencia mental;
 VIII.- Síndrome de Down; y,
 
 IX.- Autismo.
+
+> <small>(ADICIONADO, B.O. 15 DE JUNIO DE 2015)</small>
+
+ARTÍCULO 5o BIS.- Los principios que deben observar las autoridades competentes, además de los establecidos tanto en el artículo 3° de la Convención sobre los Derechos de las Personas con Discapacidad, como en el artículo 5° de la Ley General para la Inclusión de Personas con Discapacidad, en el diseño, ejecución, evaluación y seguimiento de las políticas públicas a favor de las personas con discapacidad, son:
+
+I.- Inclusión;
+
+II.- Universalidad;
+
+III.- Transparencia;
+
+IV.- Progresividad;
+
+V.- Pertinencia de acciones y proyectos;
+
+VI.- Respeto y disfrute en el ejercicio de sus derechos;
+
+VII.- Eliminación de prácticas clientelares, electorales y paternalistas; y
+
+VIII.- Diseño de políticas y acciones que se establezcan las asociaciones representativas e interesadas a través de la consulta.
 
 ### CAPITULO II. DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
 
@@ -1013,7 +1033,7 @@ ARTÍCULO 79 BIS 2.- La atención preferente consistirá en reducir los tiempos 
 
 ARTÍCULO 79 BIS 3.- Las instituciones públicas en las cuales se realicen trámites procurarán contar con una ventanilla especial para atender a las personas con discapacidad.
 
-> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2013)</small>
+ADICIONADO, B.O. 16 DE DICIEMBRE DE 2013)
 
 ARTÍCULO 79 BIS 4.- Para el caso de los servidores públicos que incumplan con lo establecido en el presente capítulo, se estará a lo dispuesto por el segundo párrafo del artículo 29 Bis de esta ley.
 
@@ -1396,3 +1416,9 @@ TERCERO.- Las escuelas, tanto públicas como privadas, tendrán hasta el siguien
 CUARTO.- La Secretaría de Educación y Cultura del estado de Sonora, tendrá un plazo de 60 días para la creación de un Consejo Multidisciplinario el cual dará cumplimiento a las disposiciones del presente decreto. Este a su vez tendrá un plazo de 30 días después de su creación para fijar los lineamientos para ejercer sus funciones.
 
 QUINTO.- El ejecutivo del Estado, en función de la disponibilidad presupuestaria para ello, asignará los recursos presupuestales que sean necesarios a efecto de dar cumplimiento a las disposiciones contenidas en el presente decreto.
+
+B.O. 15 DE JUNIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
