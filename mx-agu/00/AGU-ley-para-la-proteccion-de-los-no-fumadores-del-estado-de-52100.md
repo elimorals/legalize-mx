@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-de-los-no-fumadores-del-estado-de-52100"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-30"
-last_updated: "2009-03-30"
+last_updated: "2015-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY PARA LA PROTECCION DE LOS NO FUMADORES DEL ESTADO DE AGUASCALIENTES
 
-LEY PARA LA PROTECCION DE LOS NO FUMADORES DEL ESTADO DE AGUASCALIENTES
+LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 30 de octubre de 2006.
 
@@ -71,7 +71,7 @@ VI. Establecer mecanismos de coordinación entre todas las instancias públicas 
 
 Para efectos de la presente Ley, se entiende por:
 
-I. Área abierta: Alos espacios que se encuentran ubicados al aire libre;
+I. Área abierta: A los espacios que se encuentran ubicados al aire libre;
 
 > <small>(REFORMADA, P.O. 30 DE MARZO DE 2009)</small>
 
@@ -229,7 +229,7 @@ VI. Ejercer las demás atribuciones que determine la presente Ley y sus disposic
 
 Corresponde a los jueces calificadores municipales aplicar a las personas fumadoras, las sanciones que se deriven del incumplimiento de esta Ley por las personas físicas.
 
-El ISEA, será competente par aplicar las sanciones por las infracciones a la presente Ley, respecto de los sujetos señalados en el Artículo 8° de la presente Ley.
+El ISEA, será competente para aplicar las sanciones por las infracciones a la presente Ley, respecto de los sujetos señalados en el Artículo 8° de la presente Ley.
 
 Para el procedimiento de la aplicación de las sanciones se sujetará a lo previsto en la presente Ley y demás disposiciones aplicables.
 
@@ -261,7 +261,9 @@ VIII. En áreas cerradas de los cines, teatros, centros de entretenimiento y aud
 
 IX. Instalaciones deportivas;
 
-X. En unidades destinadas al cuidado y atención de los niños, adolescentes, personas de la tercera edad y personas con capacidades diferentes;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+X. En unidades destinadas al cuidado y atención de los niños, adolescentes, adultos mayores y personas con discapacidad;
 
 XI. En los sanitarios de acceso público, baños públicos y sanitarios móviles;
 
@@ -321,7 +323,7 @@ III. Que existan letreros o carteles que provean de información sobre los riesg
 
 En los hoteles, los propietarios, administradores, responsables, empleados y/o encargados de los mismos, deberán delimitar como área de no fumar los espacios de uso común, debiéndose colocar los señalamientos que indiquen la prohibición de fumar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2009)</small>
 
 ###### Artículo 18.
 
@@ -611,10 +613,20 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Jorge Mauricio Martínez Estebanez.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 30 DE MARZO DE 2009.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de “personas con discapacidad”.
