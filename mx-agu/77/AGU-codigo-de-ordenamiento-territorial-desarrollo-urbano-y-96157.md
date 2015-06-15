@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-ordenamiento-territorial-desarrollo-urbano-y-96157"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-10-07"
-last_updated: "2015-06-08"
+last_updated: "2015-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE ORDENAMIENTO TERRITORIAL, DESARROLLO URBANO Y VIVIENDA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
 
 Código publicado en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de octubre de 2013.
 
@@ -2849,7 +2849,9 @@ XVII.- Las que se ubiquen en zonas del patrimonio natural o de preservación eco
 
 XVIII.- Las construcciones de equipamiento turísticos, gasolineras, estaciones de carburación de gas LP, industriales, comerciales y de servicios que se permitan aledañas al derecho de vía de carreteras federales o estatales, o de ferrocarriles, requerirán de un acceso adecuado, con base en las especificaciones técnicas que determine la autoridad competente, de conformidad con las disposiciones jurídicas aplicables;
 
-XIX.- Las construcciones deberán contemplar características o elementos de accesibilidad para personas discapacitadas y grupos vulnerables de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+XIX.- Las construcciones deberán contemplar características o elementos de accesibilidad para personas con discapacidad y grupos vulnerables de conformidad con las disposiciones jurídicas aplicables;
 
 XX.- Las construcciones deberán contemplar eco-tecnologías y materiales para coadyuvar a la sustentabilidad del Estado;
 
@@ -3427,7 +3429,9 @@ c) Pasamanos interiores en sus tres lados; y
 
 d) Controles de llamada colocados a 1,20 m. en su parte superior;
 
-V.- Los mecanismos automáticos de cierre de las puertas deberán de operarse con el tiempo suficiente para el paso de una persona discapacitada;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+V.- Los mecanismos automáticos de cierre de las puertas deberán de operarse con el tiempo suficiente para el paso de una persona con discapacidad;
 
 VI.- El elevador deberá tener exactitud en la parada con relación al nivel del piso.
 
@@ -3463,7 +3467,9 @@ b) Las medidas del cajón serán de 5,00 m. de fondo por 3,80 m. de frente; y
 
 c) Señalamientos pintados en el piso con el símbolo internacional de acceso a personas con discapacidad de 1,60 m. en medio del cajón y letrero con el mismo símbolo de 0,40 m. por 0,60 m. colocado a 2,10 m. de altura;
 
-XII.- En los servicios donde se requieran vestidores, deberá haber un vestidor como mínimo para personas discapacitadas, con las siguientes características:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2015)</small>
+
+XII.- En los servicios donde se requieran vestidores, deberá haber un vestidor como mínimo para personas con discapacidad, con las siguientes características:
 
 a) 1,80 m. de frente por 1,80 m. de fondo;
 
@@ -9179,13 +9185,19 @@ Las viviendas que contemplen en su diseño criterios de accesibilidad a personas
 
 Se deberán aplicar estos criterios de diseño en las viviendas ubicadas en el nivel de acceso principal de los inmuebles proyectados en varios niveles. En el caso de que exista el requerimiento de ubicar viviendas accesibles en niveles distintos al del acceso principal debe garantizarse el mismo, libre de obstáculos hasta dichas viviendas.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 778.
 
-La vivienda accesible para discapacitados deberá ser aquella que se proyecte y construya con base en las necesidades específicas de un usuario con discapacidad, a fin de crear las condiciones favorables de funcionalidad y satisfacer las necesidades de accesibilidad y se ubicará preferentemente en esquina de manzana para facilitar la movilidad en su acceso.
+La vivienda accesible para personas con discapacidad deberá ser aquella que se proyecte y construya con base en las necesidades específicas de un usuario con discapacidad, a fin de crear las condiciones favorables de funcionalidad y satisfacer las necesidades de accesibilidad y se ubicará preferentemente en esquina de manzana para facilitar la movilidad en su acceso.
+
+XIII.- a la XV.- … (SIC)
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 779.
 
-La vivienda adaptable para discapacitados deberá ser aquella que se proyecte y edifique con base en un diseño que no implique modificaciones considerables en las obras de construcción, a fin de crear las condiciones favorables de funcionalidad para satisfacer las necesidades de sus ocupantes.
+La vivienda adaptable para personas con discapacidad deberá ser aquella que se proyecte y edifique con base en un diseño que no implique modificaciones considerables en las obras de construcción, a fin de crear las condiciones favorables de funcionalidad para satisfacer las necesidades de sus ocupantes.
 
 ###### ARTÍCULO 780.
 
@@ -10595,7 +10607,9 @@ V.- Determinar las bases para planear, establecer, regular, administrar y contro
 
 VI.- La procuración de calidad, accesibilidad, seguridad, regularidad, rentabilidad, sustentabilidad, cobertura y eficiencia en el servicio público de transporte local;
 
-VII.- Las características de la infraestructura del transporte urbano para mejorar la accesibilidad a personas con problemas de movilidad, discapacitadas, adultos mayores y niños;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+VII.- Las características de la infraestructura del transporte urbano para mejorar la accesibilidad a personas con problemas de movilidad, con discapacidad, adultos mayores y niños;
 
 VIII.- Las características de los vehículos y sus condiciones operativas, necesarias para permitir su circulación, con base en las normas oficiales mexicanas aplicables; y
 
@@ -11447,7 +11461,9 @@ El Gobernador del Estado, atendiendo siempre a las necesidades públicas, facult
 
 Las concesiones para el servicio público de transporte local podrán otorgarse a:
 
-I.- Personas físicas o morales, para el servicio público de transporte de pasajeros urbano, suburbano, foráneo, de personal, turismo, discapacitados y escolar;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+I.- Personas físicas o morales, para el servicio público de transporte de pasajeros urbano, suburbano, foráneo, de personal, turismo, personas con discapacidad y escolar;
 
 II.- Personas físicas, para el servicio público de transporte de pasajeros en vehículos de alquiler. En este caso se asignará como máximo una concesión por persona; y
 
@@ -11651,7 +11667,9 @@ XIII.- Prestar el servicio con vehículos que reúnan las condiciones de peso, d
 
 XIV.- Conservar los vehículos que presten el servicio en condiciones adecuadas de presentación y operación, tanto en su estado físico exterior e interior, especificaciones y colores, así como en sus sistemas mecánico y eléctrico. Asimismo, conservar las instalaciones de las terminales o sitios en condiciones de dar un servicio eficiente;
 
-XV.- La Instalación de dispositivo regulador de velocidad en camiones urbanos, taxis, escolar, de discapacitados y de personal con velocidad no mayor a 60km/h para estas modalidades;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+XV.- La Instalación de dispositivo regulador de velocidad en camiones urbanos, taxis, escolar, de personas con discapacidad y de personal con velocidad no mayor a 60km/h para estas modalidades;
 
 XVI.- Portar en el vehículo y en lugar visible los engomados que la autoridad le otorgue para acreditar que pasó la revisión de cada modalidad;
 
@@ -11745,7 +11763,9 @@ XLI.- No permitir que viajen personas en los lugares destinados a la carga;
 
 XLII.- Presentar la revista vehicular en las formas, procedimientos y términos que la SEGUOT determine; los vehículos nuevos quedarán exentos de la revisión aleatoria durante los primero tres años, tomando como base el año del modelo del vehículo, debiendo pagar únicamente los derechos correspondientes; en el caso del transporte de personal y escolar, someter a revista semestral el vehículo utilizado para la prestación del servicio. Para el resto de las modalidades la revista físico-mecánica será anual de manera general;
 
-XLIII.- Los concesionarios deberán respetar las tarifas, rutas, itinerarios, recorridos, horarios y frecuencias autorizados por las autoridades competentes en caso de requerir alguna modificación a los mismos, el concesionario deberá solicitar la autorización previa a dicha dependencia. Las tarifas deberán establecer los descuentos que en su caso existan para personas de la tercera edad, discapacitados y estudiantes;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+XLIII.- Los concesionarios deberán respetar las tarifas, rutas, itinerarios, recorridos, horarios y frecuencias autorizados por las autoridades competentes en caso de requerir alguna modificación a los mismos, el concesionario deberá solicitar la autorización previa a dicha dependencia. Las tarifas deberán establecer los descuentos que en su caso existan para adultos mayores, personas con discapacidad y estudiantes;
 
 XLIV.- Realizar de manera periódica y aleatoria a los conductores exámenes antidopaje con la finalidad de salvaguardar la integridad y seguridad física de los usuarios, así como imponer las sanciones correspondientes a quienes resulten positivo;
 
@@ -11827,7 +11847,9 @@ XV.- Observar las disposiciones relativas a la carga autorizada de acuerdo a las
 
 XVI.- No utilizar durante el servicio audífonos, radio o discos compactos, estos últimos a un volumen que cause molestias a los usuarios;
 
-XVII.- Prohibir la ocupación de los asientos destinados para personas con discapacidad, por otras que no sean discapacitadas; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+XVII.- Prohibir la ocupación de los asientos destinados para personas con discapacidad, por otras que no lo sean; y
 
 XVIII.- Someterse a la práctica de exámenes médicos, psicológicos, farmacológicos y otros que determine la SEGUOT en los términos del reglamento correspondiente.
 
@@ -12846,3 +12868,13 @@ P.O. 8 DE JUNIO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de “personas con discapacidad”.
