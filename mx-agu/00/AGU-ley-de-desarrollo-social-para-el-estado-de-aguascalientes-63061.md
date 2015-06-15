@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-social-para-el-estado-de-aguascalientes-63061
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-08"
-last_updated: "2014-07-28"
+last_updated: "2015-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 8 de septiembre de 2008.
 
@@ -95,7 +95,9 @@ V. PARTICIPACIÓN SOCIAL: Derecho de las personas y Organizaciones a intervenir 
 
 VI. SUSTENTABILIDAD: Preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, para mejorar la calidad de vida y la productividad de las personas, sin comprometer la satisfacción de las necesidades de las generaciones futuras;
 
-VII. RESPETO A LA DIVERSIDAD: Reconocimiento en términos de origen étnico, género, edad, capacidades diferentes, condición social, condiciones de salud, religión, ideología, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias; y
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+VII. RESPETO A LA DIVERSIDAD: Reconocimiento en términos de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, ideología, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias; y
 
 VIII. TRANSPARENCIA: La información relativa al desarrollo social es pública en los términos de las leyes en la materia. El Estado garantizará que la información gubernamental sea objetiva, oportuna, sistemática y veraz.
 
@@ -107,7 +109,9 @@ I. SECRETARÍA: La Secretaría de Desarrollo Social;
 
 II. REGIONES: A los Municipios y zonas de atención prioritaria e inmediata que muestren un mayor atraso respecto de las políticas de desarrollo social;
 
-III. SECTORES SOCIALES VULNERABLES: A las personas adultas mayores o con capacidades diferentes, las madres solteras, niños y adolescentes que se encuentren en situación de vulnerabilidad social;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+III. SECTORES SOCIALES VULNERABLES: A las personas adultas mayores o con discapacidad, las madres solteras, niños y adolescentes que se encuentren en situación de vulnerabilidad social;
 
 IV. LEY: Ley de Desarrollo Social para el Estado de Aguascalientes;
 
@@ -838,3 +842,13 @@ P.O. 28 DE JULIO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de "personas con discapacidad".
