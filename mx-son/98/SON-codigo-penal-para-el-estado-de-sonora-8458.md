@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2014-12-11"
+last_updated: "2015-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE JUNIO DE 2015.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -439,7 +439,7 @@ Para que proceda lo que se prevé en esta fracción, será necesario que el ofen
 
 En los supuestos de las fracciones II y III, cuando el responsable de resarcir daños y perjuicios carezca de medios y recursos para realizar el pago correspondiente, el Estado, a través de sus organismos y dependencias competentes, tendrá la obligación de proporcionar a la víctima los tratamientos y cuidados necesarios para su recuperación, en términos de la Ley de Atención y Protección a Víctimas del Delito, la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Sonora, y en su caso, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia Familiar para el Estado de Sonora.
 
-(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, RESPECTO A "SECUESTRO" SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 Y A "TRATA DE PERSONAS" SURTIÓ EFECTOS RETROACTIVOS AL 15 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, RESPECTO A “SECUESTRO” SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 Y A “TRATA DE PERSONAS” SURTIÓ EFECTOS RETROACTIVOS AL 15 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO, B.O. 28 DE NOVIEMBRE DE 2013)</small>
 
@@ -1205,11 +1205,11 @@ El plazo para la prescripción se aumentará en una mitad más, si el imputado, 
 
 La acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de libertad que corresponda al delito cometido, incluyendo sus modalidades. Tratándose de los delitos de oficio, dicho plazo nunca será menor de tres años ni mayor de quince y en los delitos de querella nunca será menor de dos años ni mayor de diez.
 
-(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, RESPECTO A "SECUESTRO" SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 Y A "TRATA DE PERSONAS" SURTIÓ EFECTOS RETROACTIVOS AL 15 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 19 DE MAYO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 48/2015, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 16 DE JUNIO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-> <small>(REFORMADO, B.O. 28 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
-En los delitos de homicidio calificado, feminicidio, SECUESTRO, utilización de imágenes y/o voces de personas menores de edad para la pornografía, TRATA DE PERSONAS, violación y en el supuesto a que hace referencia el párrafo cuarto del artículo 213, la acción penal prescribirá en un plazo igual al término máximo de la pena privativa de la libertad que corresponda al delito cometido.
+En los delitos de homicidio calificado, feminicidio, SECUESTRO, utilización de imágenes y/o voces de personas menores de edad para la pornografía, TRATA DE PERSONAS, evasión de presos, DELINCUENCIA ORGANIZADA, desaparición forzada de personas, tráfico de menores e incapaces, violación y en el supuesto a que hace referencia el párrafo cuarto del artículo 213, el ejercicio de la acción penal será imprescriptible.
 
 ###### ARTICULO 101.
 
@@ -1292,6 +1292,12 @@ Si para deducir una acción penal se requiere previa declaración de alguna auto
 ###### ARTICULO 109.
 
 Las sanciones privativas de libertad prescribirán en un tiempo igual al fijado en la condena, plazo que nunca será menor de cinco años ni mayor de veinte.
+
+(NOTA: EL 19 DE MAYO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 48/2015, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 16 DE JUNIO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, B.O. 15 DE JUNIO DE 2015)</small>
+
+Las sanciones derivadas del ejercicio de la acción penal sobre los delitos de homicidio calificado, SECUESTRO, utilización de imágenes y/o voces de personas menores de edad para la pornografía, TRATA DE PERSONAS, evasión de presos, DELINCUENCIA ORGANIZADA, desaparición forzada de personas, feminicidio, tráfico de menores e incapaces, violación y en el supuesto a que hace referencia el párrafo cuarto del artículo 213, serán imprescriptibles.
 
 ###### ARTICULO 110.
 
@@ -1571,7 +1577,9 @@ Cuando el miembro de la pandilla sea o haya sido servidor público de alguna cor
 
 ### CAPITULO VI. DELINCUENCIA ORGANIZADA
 
-(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 15 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA 1: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 15 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+(NOTA 2: EL 19 DE MAYO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 48/2015, DECLARÓ LA INVALIDEZ EN VÍA DE CONSECUENCIA DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 16 DE JUNIO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE ABRIL DE 2008)</small>
 
@@ -1584,6 +1592,8 @@ Al miembro de delincuencia organizada se le sancionará con prisión de cuatro a
 > <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
 Cuando el miembro de delincuencia organizada realice o tenga asignadas en ésta, funciones de administración, dirección o supervisión, la sanción señalada en el párrafo anterior se aumentará en una mitad más el mínimo y el máximo.
+
+(NOTA: EL 19 DE MAYO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 48/2015, DECLARÓ LA INVALIDEZ EN VÍA DE CONSECUENCIA DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 16 DE JUNIO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 > <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
@@ -1647,11 +1657,15 @@ Si las conductas a que se refiere el artículo anterior las realiza alguien que 
 
 Al individualizar la pena, además de las circunstancias previstas para tal efecto en este Código, el Juez o Tribunal tomará en cuenta el delito o los delitos que la organización pretendía cometer o hubiere cometido, así como también la circunstancia de que ésta se encuentra integrada parcialmente por menores de edad o incapaces.
 
+(NOTA: EL 19 DE MAYO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 48/2015, DECLARÓ LA INVALIDEZ EN VÍA DE CONSECUENCIA DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 16 DE JUNIO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 > <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 144-B.
 
 El plazo de la prescripción de la acción y la sanción penal de los delitos señalados en el artículo 144 BIS se duplicará cuando se cometan por delincuencia organizada.
+
+(NOTA: EL 19 DE MAYO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 48/2015, DECLARÓ LA INVALIDEZ EN VÍA DE CONSECUENCIA DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 16 DE JUNIO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 > <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
@@ -3547,6 +3561,12 @@ Al que encuentre abandonada o perdida en cualquier sitio a una persona incapaz d
 
 Al conductor de un vehículo cualquiera o jinete que, culposa o fortuitamente, atropelle a una persona y se retire del lugar, sin prestar o facilitar la asistencia que estuviere a su alcance proporcionar, será sancionado con prisión de un mes a dos años o de cuarenta a trescientos días multa, independientemente de las sanciones que resultaren por el delito cometido, en su caso.
 
+> <small>(ADICIONADO, B.O. 15 DE JUNIO DE 2015)</small>
+
+ARTICULO 274 BIS.- Al conductor de un vehículo cualquiera que, culposa o fortuitamente, se vea involucrado en un accidente de tránsito, donde exista la posibilidad de lesionados, se retire del lugar, sin prestar o facilitar la asistencia que estuviere a su alcance proporcionar, y no intercambien datos de contactos reales, será sancionado con prisión de un mes a un año y de cuarenta a trescientos días multa, independientemente de las sanciones que resultaren por el delito cometido, en su caso.
+
+Se exceptúa de la pena mencionada en el párrafo anterior cuando el conductor se retire del lugar en busca de auxilio y regrese a ponerse a disposición de los involucrados o las autoridades dentro de las siguientes 3 horas del incidente, o reporte el accidente de tránsito dejando sus datos de contacto de manera inmediata al evento de tránsito.
+
 ###### ARTICULO 275.
 
 Al que, sin causa justificada, disponga de un niño menor de siete años que se le hubiere confiado, entregándolo a un establecimiento de beneficencia o a cualquiera otra persona, sin anuencia de la que se lo confió o de la autoridad, en su defecto, se le aplicarán de un mes a cinco años de prisión y de diez a doscientos días multa.
@@ -4825,7 +4845,7 @@ DECRETO NO. 103 POR EL QUE SE REFORMAN LAS DENOMINACIONES DEL TÍTULO VIGÉSIMO 
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 B.O. 9 DE JUNIO DE 2014.
 
@@ -4868,3 +4888,19 @@ B.O. 11 DE DICIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+B.O. 15 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 172 POR EL QUE SE ADICIONA UN ARTÍCULO 274 BIS AL CÓDIGO PENAL DEL ESTADO DE SONORA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno Estado.
+
+B.O. 15 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 180, POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 100 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 109 DEL CÓDIGO PENAL DEL ESTADO DE SONORA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
