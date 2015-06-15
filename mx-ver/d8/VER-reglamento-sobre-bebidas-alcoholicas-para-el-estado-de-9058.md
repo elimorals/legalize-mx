@@ -4,7 +4,7 @@ identifier: "VER-reglamento-sobre-bebidas-alcoholicas-para-el-estado-de-9058"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-02-13"
-last_updated: "2003-03-18"
+last_updated: "2015-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9058&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # REGLAMENTO SOBRE BEBIDAS ALCOHOLICAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE-ANTES VERACRUZ-LLAVE-
 
-REGLAMENTO SOBRE BEBIDAS ALCOHOLICAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+REGLAMENTO SOBRE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE JUNIO DE 2015.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el jueves 13 de febrero de 1992.
 
@@ -37,21 +37,35 @@ C O N S I D E R A N D O.
 
 Por lo anterior y acorde con los planteamientos de la Ley General de Salud y en especial con lo señalado en el Programa Contra el Alcoholismo y la Ley de Salud Estatal, he tenido a bien expedir el siguiente:
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL DECRETO NO. 547 DE REFORMA CONSTITUCIONAL, PUBLICADO EN EL P.O. DE 18 DE MARZO DE 2003, PARA LOS EFECTOS CONSTITUCIONALES Y LEGALES PROCEDENTES, TODAS LAS LEYES, DECRETOS, CODIGOS U ORDENAMIENTOS ESTATALES DE OBSERVANCIA GENERAL, VIGENTES QUE EN SU DENOMINACION CONTENGAN LA EXPRESION "...ESTADO DE VERACRUZ-LLAVE", SE ENTENDERAN REFERIDAS AL "...ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL DECRETO NO. 547 DE REFORMA CONSTITUCIONAL, PUBLICADO EN EL P.O. DE 18 DE MARZO DE 2003, PARA LOS EFECTOS CONSTITUCIONALES Y LEGALES PROCEDENTES, TODAS LAS LEYES, DECRETOS, CÓDIGOS U ORDENAMIENTOS ESTATALES DE OBSERVANCIA GENERAL, VIGENTES QUE EN SU DENOMINACIÓN CONTENGAN LA EXPRESIÓN "...ESTADO DE VERACRUZ-LLAVE", SE ENTENDERÁN REFERIDAS AL "...ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE MARZO DE 2003)</small>
 
 REGLAMENTO SOBRE BEBIDAS ALCOHOLICAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2015)</small>
+
 ###### ARTICULO 1°.
 
-Este Reglamento regirá en todo el territorio del Estado y su objetivo es regular el expendió, distribución y consumo de bebidas alcohólicas, de conformidad con lo establecido en el capítulo III del Título Décimo Primero de la Ley Estatal de Salud.
+Este Reglamento regirá en todo el territorio del estado y su objetivo es regular el expendio, distribución y consumo de bebidas alcohólicas, de conformidad con lo establecido en el Capítulo III del Título Décimo Primero de la Ley de Salud del Estado de Veracruz de Ignacio de la Llave.
 
 ###### ARTICULO 2°.
 
 Corresponde la aplicación de las disposiciones contenidas en este Ordenamiento al Ejecutivo del Estado por conducto de la Secretaría de Salud y Asistencia.
+
+> <small>(ADICIONADO, G.O. 15 DE JUNIO DE 2015)</small>
+
+ARTICULO 2° BIS. Para efectos del presente Reglamento se entenderá por:
+
+I. G.L.: A los Grados Gay Lussac;
+
+II. Establecimiento: Lugar en que se expenden, distribuyen o ingieren bebidas alcohólicas. Se excluye el caso del consumo gratuito de bebidas alcohólicas en domicilios particulares;
+
+III. Ley de Salud: A la Ley de Salud del Estado de Veracruz de Ignacio de la Llave; y
+
+IV. Secretaría de Salud y Asistencia: A la Secretaría de Salud del Estado.
 
 ###### ARTICULO 3°.
 
@@ -96,6 +110,10 @@ I.- Establecimientos en donde se expendan bebidas alcohólicas en envase cerrado
 6.- Supermercados o tiendas de autoservicios.
 
 7.- Vinaterías y licorerías.
+
+> <small>(ADICIONADO, G.O. 15 DE JUNIO DE 2015)</small>
+
+8.- Tiendas de Conveniencia.
 
 II.- Establecimientos en donde se expendan bebidas alcohólicas para su consumo inmediato, como:
 
@@ -221,11 +239,17 @@ Las Autoridades competentes llevarán a cabo campañas de censo y regularizació
 
 Para su funcionamiento, los establecimientos que expendan bebidas alcohólicas, deberán contar con la autorización y la tarjeta de control sanitario correspondiente, de acuerdo con lo establecido por este Reglamento para cada una de las modalidades.
 
-###### ARTICULO 26.
+###### Artículo 26.
 
 Los horarios de ventas de bebidas alcohólicas, serán los propios de los establecimientos, quedando prohibido venderlas fuera del horario normal.
 
-La Secretaría de Salud y Asistencia, cuando lo estime necesario y atendiendo a las características de las distintas zonas de la Entidad, podrá modificar los horarios a que se refiere el artículo anterior.
+> <small>(REFORMADO, G.O. 15 DE JUNIO DE 2015)</small>
+
+El horario normal de ventas de bebidas alcohólicas será de las ocho horas, antes meridiano, hasta las dos horas, antes meridiano.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 15 DE JUNIO DE 2015)</small>
+
+La Secretaría de Salud y Asistencia, cuando lo estime necesario y atendiendo a las características de las distintas zonas de la entidad, podrá modificar los horarios a que se refiere el párrafo anterior, siempre que se respete el límite de tolerancia establecido en el mismo.
 
 ###### ARTICULO 27.
 
@@ -251,7 +275,9 @@ II.- Cumplir con las normas de salubridad e higiene.
 
 III.- Tomar las medidas de seguridad necesarias para la prevención de siniestros.
 
-IV.- Colocar en lugar visible de cantinas, cervecerías o similares, avisos que señalen la prohibición de entrada y venta de bebidas alcohólicas a menores de edad e impedir su entrada.
+> <small>(REFORMADA, G.O. 15 DE JUNIO DE 2015)</small>
+
+IV.- Impedir la venta y consumo de bebidas alcohólicas a menores de edad, debiendo colocar en un lugar visible del establecimiento, los avisos que señalen la prohibición de entrada, venta y consumo de bebidas alcohólicas a dicho sector de la población.
 
 V.- Impedir la venta de bebidas alcohólicas a personas en estado de ebriedad reconocible.
 
@@ -321,6 +347,10 @@ III.- Cuando después de la reapertura de un establecimiento por motivo de suspe
 
 IV.- Cuando se dé un uso distinto o se exceda en el ejercicio de la actividad autorizada.
 
+> <small>(ADICIONADA, G.O. 15 DE JUNIO DE 2015)</small>
+
+V.- Cuando se vendan bebidas alcohólicas a menores de edad, o permitan a éstos su consumo dentro del establecimiento.
+
 En los casos de clausura definitiva quedará sin efecto la autorización que, en su caso, se hubiese otorgado.
 
 ###### ARTICULO 40.
@@ -375,7 +405,7 @@ En tanto se expiden las normas técnicas que se deriven del presente Reglamento,
 
 DADO en el Palacio del Poder Ejecutivo del Estado Libre y Soberano de Veracruz-Llave, en la ciudad de Xalapa-Enríquez, Veracruz, el día veinte de junio de mil novecientos noventa y uno.- DANTE DELGADO.-Rúbrica. Lic. MIGUEL ANGEL DIAZ PEDROZA.- Rúbrica.- Secretario General de Gobierno.- DR. RAFAEL VELASCO FERNANDEZ.- Rúbrica.- Secretario de Salud y Asistencia.- GERARDO POO ULIBARRI.- Rúbrica.-Secretario de Finanzas y Planeación.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.O. 18 DE MARZO DE 2003.
 
@@ -394,3 +424,11 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 15 DE JUNIO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+Segundo. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Tercero. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
