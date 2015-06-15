@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-especial-de-las-personas-adultas-69278"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-13"
-last_updated: "2010-08-23"
+last_updated: "2015-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -303,7 +303,9 @@ X. Instruir a los titulares de las Dependencias y Entidades de la Administració
 
 A) Servicio de transporte público urbano e interestatal, gratuito o con descuento del 50%;
 
-B) El servicio de transporte público urbano asigne cuando menos cuatro lugares para personas adultas mayores y discapacitados, en el caso del servicio interestatal cuando se preste con combis un lugar;
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+
+B) El servicio de transporte público urbano asigne cuando menos cuatro lugares para personas adultas mayores y personas con discapacidad, en el caso del servicio interestatal cuando se preste con combis un lugar;
 
 > <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
 
@@ -395,7 +397,9 @@ IV. Instruir a los titulares de las Dependencias y Entidades de la Administraci�
 
 a) Servicio de transporte público urbano gratuito o con descuento del 50%;
 
-b) El servicio de transporte público urbano asigne cuando menos cuatro lugares para personas adultas mayores y discapacitados, en el caso del servicio interestatal cuando se preste con combis un lugar;
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+
+b) El servicio de transporte público urbano asigne cuando menos cuatro lugares para personas adultas mayores y personas con discapacidad, en el caso del servicio interestatal cuando se preste con combis un lugar;
 
 c) Sector Comercial y de Servicios: Programas que consideren descuentos del 50% o más, mediante convenios al adquirir bienes de consumo, medicamentos, línea blanca, servicios públicos o privados, y se les mantenga debidamente informados para hacer valer este derecho, para que así, se fortalezca la economía y mejore la calidad de vida de las personas adultas mayores; y
 
@@ -950,3 +954,13 @@ P.O. 23 DE AGOSTO DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de “personas con discapacidad”.
