@@ -4,7 +4,7 @@ identifier: "SON-codigo-civil-para-el-estado-de-sonora-34690"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2014-01-09"
+last_updated: "2015-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN BOLETÍN OFICIAL: 9 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN BOLETÍN OFICIAL: 15 DE JUNIO DE 2015.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -14795,13 +14795,41 @@ Se prohibe a los magistrados, a los jueces y a cualesquiera otros empleados púb
 
 Se prohibe a los encargados de los establecimientos públicos y a los funcionarios y empleados públicos, tomar en arrendamiento los bienes que con los expresados caracteres administren.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
+
 ###### Art. 2673.
 
-El arrendamiento debe otorgarse por escrito cuando la renta pase de cien pesos anuales.
+El arrendamiento debe otorgarse por escrito.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
 ###### Art. 2674.
 
-Si el predio fuere rústico y la renta pasare de cinco mil pesos anuales, el contrato se otorgará en escritura pública.
+El escrito a que se refiere el artículo anterior deberá contener, cuando menos las siguientes estipulaciones:
+
+I.- Nombres del arrendador y arrendatario.
+
+II.- La ubicación del inmueble.
+
+III.- Descripción detallada del inmueble objeto del contrato y de las instalaciones y accesorios con que cuenta para el uso y goce del mismo, así como el estado que guardan.
+
+IV.- El monto y lugar del pago de renta.
+
+V.- La garantía, en su caso.
+
+VI.- La mención expresa del destino del inmueble arrendado.
+
+VII.- El término del contrato.
+
+VIII.- Las obligaciones que arrendador y arrendatario contraigan adicionalmente a las establecidas en la Ley.
+
+IX.- El monto del depósito o en su caso los datos del fiador en garantía.
+
+X.- El carácter y las facultades con que el arrendador celebrará el contrato, incluyéndose todos los datos del instrumento con que éste acredite su personalidad.
 
 ###### Art. 2675.
 
@@ -15031,9 +15059,13 @@ Si la renta no excede de veinticinco pesos mensuales es potestativo para el arre
 
 No puede renunciarse anticipadamente el derecho de cobrar la indemnización que concede el artículo 2719.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
+
 ###### Art. 2722.
 
-La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses vencidos si la renta excede de cien pesos; por quincenas vencidas, si la renta es de sesenta a cien pesos, y por semanas, también vencidas, cuando la renta no llegue a sesenta pesos.
+La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses vencidos debiendo entregar el arrendador el recibo correspondiente.
 
 ### CAPITULO V.
 
@@ -15043,9 +15075,11 @@ Del Arrendamiento de Fincas Rústicas.
 
 El propietario de un predio rústico debe cultivarlo, sin perjuicio de dejarlo descansar el tiempo que sea necesario para que no se agote su fertilidad. Si no lo cultiva, tiene obligación de darlo en arrendamiento o en aparcería, de acuerdo con lo dispuesto en la Ley de Tierras Ociosas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Art. 2724.
 
-La renta debe pagarse en los plazos convenidos, y a falta de convenio, por semestres vencidos.
+(DEROGADO, B.O. 15 DE JUNIO DE 2015)
 
 ###### Art. 2725.
 
@@ -18005,9 +18039,13 @@ Si la hipoteca se ha constituído para garantizar obligaciones a la orden, puede
 
 En el caso de que se esté en la hipótesis de la parte final del artículo 3299, se observará además la formalidad exigida por el primer párrafo de este artículo.
 
-> <small>(ADICIONADO, B.O. 19 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
-Las entidades financieras podrán ceder créditos que tengan garantizados con hipoteca sin necesidad de notificación al deudor, ni de registro, cuando los mismos sean cedidos a una entidad financiera actuando a nombre propio o como fiduciaria y el propósito de la cesión sea la emisión y colocación de valores, y siempre que el cedente mantenga la administración de los créditos. En caso de que la entidad cedente deje de llevar la administración de los créditos deberá únicamente notificarlo al deudor.
+Las instituciones del sistema bancario mexicano, actuando en nombre propio o como fiduciarias, las demás entidades financieras, y los institutos de seguridad social, podrán ceder sus créditos con garantía hipotecaria, sin necesidad de notificación al deudor o de escritura pública, siempre que el cedente lleve la administración de los créditos. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá notificar por escrito la cesión al deudor y, en ambos supuestos, se deberá dar aviso al Registro Público de la Propiedad.
+
+> <small>(ADICIONADO, B.O. 15 DE JUNIO DE 2015)</small>
+
+En los supuestos previstos en el presente artículo, la inscripción de la hipoteca a favor del acreedor original se considerará hecha a favor de el o los cesionarios referidos en tales párrafos, quienes tendrán todos los derechos y acciones derivados de ésta.
 
 ###### Art. 3306.
 
@@ -19111,7 +19149,7 @@ El Secretario Gral. de Gobierno,
 
 GERARDO LOUSTAUNAU.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 B.O. 22 DE JUNIO DE 1957.
 
@@ -19352,3 +19390,19 @@ El Ejecutivo del Estado deberá emitir el Reglamento de la presente Ley dentro d
 ###### ARTÍCULO QUINTO.
 
 Quedan sin efecto las disposiciones legales que contravengan a lo preceptuado en esta Ley.
+
+B.O. 15 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 174, POR EL QUE SE REFORMA EL PÁRRAFO CUARTO Y SE ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 3305 DEL CÓDIGO CIVIL PARA EL ESTADO DE SONORA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 15 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 176, POR EL QUE SE REFORMAN LOS ARTÍCULOS 2673, 2674 Y 2722 Y SE DEROGA EL ARTÍCULO 2724, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE SONORA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a los ciento veinte días naturales contados a partir del día de su publicación en el Boletín Oficial del Gobierno del Estado.
