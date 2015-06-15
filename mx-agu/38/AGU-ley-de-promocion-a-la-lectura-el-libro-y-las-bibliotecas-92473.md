@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-promocion-a-la-lectura-el-libro-y-las-bibliotecas-92473"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-18"
-last_updated: "2013-02-18"
+last_updated: "2015-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92473&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROMOCIÓN A LA LECTURA, EL LIBRO Y LAS BIBLIOTECAS PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 18 de febrero de 2013.
 
@@ -197,7 +197,9 @@ VII. Promover la participación del sector público y privado en el fomento al l
 
 VIII. Recomendar la creación de nuevas bibliotecas y promover las gestiones necesarias para ello en coordinación con las autoridades competentes;
 
-IX. Impulsar modelos modernos, innovadores y tecnológicos en el funcionamiento de las bibliotecas existentes en el Estado y hacer propuestas de mejoras; así como proponer el acceso a la lectura a grupos vulnerables por medio de la instalación de salas de lectura en reclusorios, albergues para personas con capacidades diferentes, orfanatos y hospitales o centros de salud en general, entre otros;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+IX. Impulsar modelos modernos, innovadores y tecnológicos en el funcionamiento de las bibliotecas existentes en el Estado y hacer propuestas de mejoras; así como proponer el acceso a la lectura a grupos vulnerables por medio de la instalación de salas de lectura en reclusorios, albergues para personas con discapacidad, orfanatos y hospitales o centros de salud en general, entre otros;
 
 X. Coadyuvar en la creación de bases públicas de datos de los libros editados en el Estado, por escritores aguascalentenses;
 
@@ -340,3 +342,15 @@ Dip. Mario Antonio Guevara Palomino
 SEGUNDO SECRETARIO
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 12 de febrero de 2013.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de "personas con discapacidad".
