@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-civiles-para-el-estado-de-sonora-8454"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "2014-01-09"
+last_updated: "2015-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
-CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
+CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE JUNIO DE 2015.
 
 Código publicado en la Sección Tercera del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -5111,83 +5111,149 @@ En el caso previsto en la parte final del artículo 3292 del Código Civil, no h
 
 Si comenzado el juicio se presentan alguno o algunos acreedores hipotecarios, se procederá conforme a las reglas de los concursos de acreedores hipotecarios.
 
-### CAPITULO SEPTIMO.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Juicio de desahucio por falta de pago.
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 15 DE JUNIO DE 2015)</small>
+
+### CAPITULO SEPTIMO.. Juicio especial en materia de arrendamiento inmobiliario
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
 ###### Art. 540.
 
-El juicio de desahucio procede cuando se exige la desocupación de una finca o local por falta de pago de dos o más mensualidades de renta.
+A las controversias que versen sobre el arrendamiento inmobiliario serán aplicables las disposiciones de este capítulo. El juez tendrá las más amplias facultades, dentro de la normatividad que le confiere su competencia y jurisdicción, para impulsar el procedimiento y decidir lo que en derecho convenga teniendo como objetivo que sus resoluciones se emitan de manera pronta, completa e imparcial.
 
-Con la demanda se acompañará el contrato escrito del arrendamiento, cuando ello fuere necesario para la validez del acto, conforme al Código Civil. En caso de no ser necesario contrato escrito, o de haberse cumplido voluntariamente por ambos contratantes sin otorgamiento de documento, o éste se haya extraviado o destruido, se justificarán estas circunstancias por medio de información testimonial, prueba documental o cualquiera otra bastante, que se recibirá como medio preparatorio del juicio. Simultáneamente con el desahucio podrá reclamarse el pago de las rentas vencidas y de las que se sigan venciendo hasta que tenga verificativo el lanzamiento.
+A las acciones que se intenten contra el fiador que haya otorgado fianza de carácter civil o terceros por controversias derivadas del arrendamiento, se aplicarán las reglas de este título, en lo conducente, respetando en todo momento la esencia y naturaleza del contrato de fianza. Igualmente, la acción que intente el arrendatario para exigir al arrendador el derecho del tanto y el pago de los daños y perjuicios a que se refiere el artículo 2717 del Código Civil para el Estado de Sonora, se sujetará a lo dispuesto en este título.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
 ###### Art. 541.
 
-Pueden promover el desahucio los que tengan la posesión real de la finca a título de dueño, de usufructuarios o de cualquier otro que les dé derecho a disfrutarla y sus causahabientes. El que figure como arrendador en el contrato que sirva de base a la demanda, justificará su legitimación activa por el simple hecho de exhibir el contrato de arrendamiento en el que aparezca con tal carácter. En los demás casos, debe acreditarse la legitimación activa, la cual puede constar por simple certificación notarial en el contrato, o exhibición del título de propiedad, sin que sea requisito que éste haya sido registrado.
+Para el ejercicio de cualesquiera de las acciones previstas en este título, el actor deberá exhibir con su demanda el contrato de arrendamiento correspondiente, en el caso de haberse celebrado por escrito.
+
+La falta de contrato escrito no limita el ejercicio de esta acción, debiendo el actor acompañar con su escrito de demanda cualquier medio de prueba tendiente a demostrar las (sic) existencia de la relación contractual, con independencia de las pruebas relacionadas con el motivo de la controversia, pruebas con las cuales se le dará vista al demandado en el momento del emplazamiento, para que junto con la contestación manifieste lo a (sic) que su derecho convenga y ofrezca las pruebas de su parte.
+
+En la demanda, contestación, reconvención y contestación a la reconvención, las partes deberán ofrecer las pruebas que pretendan rendir durante el juicio, exhibiendo las documentales que tengan en su poder o el escrito sellado mediante el cual se hayan solicitado los documentos que no tuvieran en su poder en los términos de los artículos 228 y 229 de este Código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
 ###### Art. 542.
 
-La demanda de desahucio procederá contra el arrendatario o sus causahabientes.
+Una vez admitida la demanda con los documentos y copias requeridas, se emplazará a la parte demandada. El demandado deberá dar contestación y formular, en su caso, reconvención dentro de los cinco días hábiles siguientes a la fecha del emplazamiento; si hubiere reconvención se correrá traslado de ésta a la parte actora para que la conteste dentro de los cinco días hábiles siguientes a la fecha de notificación del auto que la admita.
+
+Fijada la litis, el juez inmediatamente señalará fecha para la celebración de la audiencia de ley, que deberá fijarse dentro de los quince días hábiles siguientes a la emisión de este auto.
+
+Fijada la litis, o trascurridos los plazos para ello, el juez en el mismo auto admitirá las pruebas ofrecidas conforme a derecho y desechará las que no cumplan con las condiciones apuntadas en el Capítulo I, del Título Segundo de este Código, fijando la forma de preparación de las mismas, a efecto de que se desahoguen a más tardar en la audiencia de ley, sin que ésta pueda diferirse por ninguna circunstancia, salvo caso fortuito o de fuerza mayor.
+
+En el mismo auto de admisión de la demanda, el juez exhortará a las partes a resolver el conflicto mediante alguno de los Mecanismos Alternativos de Solución de Controversias, pudiendo hacer uso de este derecho en cualquier momento procesal hasta antes de la audiencia de ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
 ###### Art. 543.
 
-Presentada la demanda con el documento o la justificación correspondiente, dictará auto el juez mandando requerir al inquilino, para que en el acto de la diligencia justifique con el recibo correspondiente estar al corriente en el pago de las rentas, y no haciéndolo, se le prevenga que dentro de veinte días si la finca sirve para habitación; dentro de cuarenta si sirve para giro mercantil o industrial, o de dentro de noventa si fuere rústica, proceda a desocuparla, apercibido de lanzamiento a su costa si no lo efectúa. Si lo pidiere el actor, en el mismo auto mandará que se embarguen y depositen bienes bastantes para cubrir las pensiones reclamadas. Mandará que en el mismo acto se le emplace para que dentro de cinco días ocurra a oponer las excepciones que tuviere, corriéndosele traslado de la demanda, con entrega de las copias de ley.
+Es obligación de las partes vigilar el desahogo e impulso de sus pruebas; y una vez concluidos los términos fijados a las partes y sin necesidad de acuse de rebeldía, el juicio seguirá su curso precluyendo cualquier derecho relativo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
 ###### Art. 544.
 
-Será domicilio legal para hacer el requerimiento y traslado de que habla el artículo anterior, la finca o departamento de cuya desocupación se trate. La diligencia se entenderá con el demandado, o en su defecto, con cualquier persona de la familia, doméstico o porteros, excepto si fueren empleados o dependientes del propietario. Si el local se encuentra cerrado, podrá entenderse con el agente de la policía o vecinos, fijándose en la puerta, además, en este último caso, un instructivo, haciendo saber el objeto de la diligencia.
+Desde la admisión de las pruebas y hasta la celebración de la audiencia se preparará el desahogo de las mismas que hayan sido admitidas de acuerdo a lo siguiente:
 
-Si en el acto de la diligencia justificará el arrendatario con el recibo correspondiente haber hecho el pago de las pensiones reclamadas, o exhibiere su importe, se suspenderá, asentándose en ella el hecho y agregándose el justificante de pago para dar cuenta al juzgado.
+I.- La preparación de las pruebas quedará a cargo de las partes, por lo que deberán presentar a los testigos, peritos y demás pruebas que les hayan sido admitidas y sólo en caso de que demuestren la imposibilidad de preparar directamente el desahogo de algunas de las pruebas que les fueron admitidas, el juez en auxilio del oferente y a petición de éste, deberá expedir los oficios o citaciones y realizar el nombramiento de peritos, incluso perito tercero en discordia, poniendo a disposición de la parte oferente los oficios y citaciones respectivas, a efecto de que las partes preparen las pruebas y éstas se desahoguen a más tardar en la audiencia de ley;
 
-Si se hubiere exhibido el importe, se mandará entregar al actor, sin más trámite, y se dará por terminado el procedimiento.
+II.- Si llamado un testigo, perito o solicitado un documento que hayan sido admitidos como prueba, no se desahogan éstas a más tardar en la audiencia, se declarará desierta la prueba ofrecida por causa imputable al oferente;
 
-Si se exhibiere el recibo de pago, se mandará dar vista al actor por el término de tres días, y si no lo objeta dentro de este plazo, se dará por concluida la instancia.
+III.- Las pruebas deben presentarse de tal forma que la contraparte tenga oportunidad de conocerlas y estudiarlas, según la naturaleza del medio de convicción; tiempo que, en ningún caso, será menor a tres días antes de celebrar la audiencia, sin contar en este plazo el día de la celebración de la misma.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
 ###### Art. 545.
 
-En cualquier tiempo desde el requerimiento hasta el lanzamiento, el inquilino tiene derecho a exhibir el recibo o recibos que justifiquen el pago de las pensiones debidas, o exhibir el importe de ellas, y en este caso, el juez dará por terminado el procedimiento sin condenación en costas.
+La audiencia de ley a que se refieren los artículos anteriores se desarrollará conforme a las siguientes reglas:
 
-Lo dispuesto en este artículo, y los beneficios de los plazos que se conceden en este Capítulo a los inquilinos, no son renunciables.
+I.- El juez deberá estar presente durante toda la audiencia y exhortará a las partes a concluir el litigio mediante una conciliación;
+
+II.- De no lograrse la conciliación se pasará al desahogo de las pruebas admitidas y que se encuentren preparadas, dejando de recibir las que no se encuentren preparadas, las que no se declaran desiertas por causa imputable al oferente, por lo que la audiencia no se suspenderá ni diferirá en ningún caso por falta de preparación o desahogo de las pruebas admitidas;
+
+III.- Desahogadas las pruebas, y dentro de la misma audiencia, las partes alegarán lo que a su derecho convenga y el juez dictará de inmediato la resolución correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
 ###### Art. 546.
 
-Dentro de los quince días siguientes al emplazamiento, el arrendatario podrá oponerse al desahucio; pero sólo será admisible la oposición cuando se funde en cualquiera de las excepciones siguientes:
+En caso de que dentro del juicio a que se refiere este título, únicamente se demande el pago de rentas atrasadas por dos o más mensualidades, la parte actora podrá solicitar al juez que la demandada justifique en el acto de la diligencia de emplazamiento, con los recibos de renta correspondientes o escritos de consignación, que se encuentra al corriente en el pago de las rentas pactadas y no haciéndolo se embargarán bienes de su propiedad suficientes para cubrir las rentas adeudadas.
 
-I.- Pago;
+En el caso de que al contestar la demanda, se acredite con documentos que se encuentra al corriente en dichos pagos, y después de haberle dado vista al actor por término de tres días y si no lo objeta dentro de este plazo, el Juez concluirá el juicio.
 
-II.- Impedimento total o parcial del uso de la cosa arrendada por caso fortuito o fuerza mayor, en los términos de los artículos 2701, 2702 y 2703 del Código Civil;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-III.- Privación de uso proveniente de la evicción, en los términos del artículo 2704 del Código Civil, y
-
-IV.- Privación de uso total o parcial por causa de reparaciones, en los términos del artículo 2715 del Código Civil.
-
-Las excepciones sólo serán admisibles si se hacen valer ofreciendo sus pruebas, y en caso de que la privación de uso sea parcial, el arrendatario deberá exhibir la diferencia entre lo que reclame por concepto de reducción o disminución de rentas, y la renta estipulada en el contrato.
-
-Cualquier otra excepción, inclusive la reconvención y la compensación, son improcedentes en los juicios de desahucio.
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
 ###### Art. 547.
 
-Opuestas las excepciones, se mandará dar vista al actor, y se citará para una audiencia de pruebas, alegatos y sentencia que deberá efectuarse antes del vencimiento del término fijado para el lanzamiento. En esta audiencia, concurran o no las partes, se dictará resolución declarando si el arrendatario ha justificado o no sus excepciones, y si debe procederse o no al lanzamiento.
+Para los efectos de este título siempre se tendrá como domicilio legal del arrendatario el inmueble motivo del arrendamiento.
 
-Si las excepciones fueren declaradas procedentes, en la misma resolución dará el tribunal por terminada la providencia de lanzamiento; en caso contrario, en la sentencia se señalará el plazo para la desocupación, que será el que falte para cumplirse el señalado en el artículo 543. En la misma sentencia se condenará, en su caso, al arrendatario, a pagar al actor las rentas insolutas vencidas, y las que se devenguen hasta que se verifique el lanzamiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
 ###### Art. 548.
 
-Transcurrido el plazo de cinco días, a partir de la fecha del requerimiento y emplazamiento, sin que el arrendatario oponga excepciones, o siendo inadmisibles las que haga valer, a petición del actor se dictará sentencia de desahucio en los términos del párrafo final del artículo anterior, condenando simultáneamente al pago de las rentas vencidas y a las que se devenguen hasta la fecha del lanzamiento.
+Los incidentes no suspenderán el procedimiento. Se tramitarán en los términos del artículo 484 de este Código, pero la resolución se pronunciará en la audiencia de ley conjuntamente con la sentencia definitiva.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
 ###### Art. 549.
 
-La sentencia que decrete el desahucio será apelable en el efecto devolutivo, y se ejecutará sin necesidad de otorgamiento de fianza. La que lo niegue, será apelable en el efecto suspensivo.
+Para la tramitación de apelaciones respecto del juicio a que se refiere este capítulo, se estará a lo siguiente: Las resoluciones y autos que se dicten durante el procedimiento y que sean apelables, una vez interpuesta la apelación, el juez la admitirá si procede y reservará la tramitación para que se realice en su caso, conjuntamente con la tramitación de la apelación que se formule en contra de la sentencia definitiva por la misma parte apelante. Si no se presentara apelación por la misma parte en contra de la sentencia definitiva, se entenderán consentidos (sic) las resoluciones y autos que hubieran sido apelados durante dicho procedimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
 ###### Art. 550.
 
-La diligencia de lanzamiento se entenderá con el ejecutado o, en su defecto, con cualquier persona de la familia, doméstico, portero, agente de la policía o vecino, pudiéndose romper las cerraduras de la puerta si fuere necesario, sin que para ello se requiera determinación especial del juez. Los muebles y objetos que en la casa se encuentren, si no hubiere persona de la familia del inquilino que los recoja u otra autorizada para ello, se remitirán por inventario a la jefatura de policía correspondiente, o al local que designe la autoridad administrativa, dejándose constancia de esta diligencia en autos.
+En los procedimientos de arrendamiento las apelaciones sólo serán admitidas en el efecto devolutivo de tramitación conjunta con la sentencia definitiva, tratándose de las resoluciones dictadas antes de la sentencia definitiva, y se substanciarán en los términos previstos por el artículo 385 de este Código.
 
-El lanzamiento se ejecutará, no sólo contra el arrendatario o sus causahabientes, sino contra sus administradores, encargados, porteros o guardas, puestos en la finca, así como contra cualquier otra persona que disfrute o tenga en uso precario la finca por trasmisión que le haya hecho el arrendatario.
+La apelación que se interponga en contra de la sentencia definitiva procederá en efecto devolutivo.
+
+Tratándose de resoluciones dictadas con posterioridad a la sentencia definitiva procede la apelación en efecto devolutivo de tramitación inmediata.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
 ###### Art. 551.
 
-Por causas graves, como enfermedad del inquilino o trastornos económicos de consideración por el desahucio de locales ocupados por empresas industriales o agrícolas, el juez podrá conceder plazos adicionales para la desocupación, que no excederán del doble de los que fije la ley, y siempre que se garanticen con el depósito de las rentas que correspondan a estos plazos.
+La apelación deberá interponerse en la forma y términos previstos por el Título cuarto, Capítulo tercero de este código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 15 DE JUNIO DE 2015)</small>
+
+Art. 551 BIS.- En el desahogo de las controversias que surjan sobre comodato de bienes inmuebles se observarán las disposiciones establecidas en este capítulo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 15 DE JUNIO DE 2015)</small>
+
+Art. 551 TER.- En todo lo no previsto regirán las reglas generales de este Código de Procedimientos Civiles, en cuanto no se opongan a las disposiciones del presente título.
 
 ## TITULO TERCERO.
 
@@ -7111,25 +7177,17 @@ Si acepta, deberá caucionar su manejo con sujeción a lo dispuesto en los artí
 
 El juez competente para conocer de un juicio sucesorio lo será también, con exclusión de cualquier otro juez, para conocer de todas las cuestiones que puedan surgir con ocasión de la muerte del autor de la herencia, impugnación y nulidad de testamento y los demás mencionados al señalar las reglas generales de competencia, y también lo será para conocer de las reclamaciones posteriores a la radicación de la sucesión, contra el patrimonio de la misma.
 
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
+
 ###### Art. 768.
 
-Las sucesiones podrán tramitarse ante Notario Público en los siguientes casos:
+Las sucesiones podrán tramitarse ante Notario Público siempre y cuando se cumplan los siguientes requisitos:
 
-I.- Cuando todos los herederos fueren mayores de edad y hubieren sido instituídos en un testamento público;
+I.- Cuando todos los herederos fueren mayores de edad;
 
-II.- Cuando, hecha la declaración de herederos en un juicio de intestado, siendo éstos mayores de edad, encomiendan a un notario la conclusión del juicio.
+II.- Que lo soliciten todos; y
 
-Para que haya lugar a la tramitación notarial debe reunirse además los siguientes requisitos:
-
-a) Que todos los interesados sean mayores de edad;
-
-b) Que lo pidan todos, y
-
-c) Que no exista controversia alguna.
-
-En cualquier momento, antes de concluida, a solicitud de cualquiera de los interesados, cesará la tramitación extrajudicial. Lo mismo se observará cuando se suscite oposición o controversia.
-
-La tramitación ante Notario se hará del conocimiento del fisco y se verificará de acuerdo con lo que se dispone en el capítulo respectivo.
+III.- Que no exista controversia alguna.
 
 ###### Art. 769.
 
@@ -7701,13 +7759,19 @@ VIII.- La transmisión de los bienes del patrimonio familiar estará exenta de i
 
 De la tramitación ante Notarios.
 
-> <small>(F. DE E., B.O. 6 DE OCTUBRE DE 1980)</small>
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
 ###### Art. 829.
 
-Cuando todos los herederos fueren mayores de edad y hubieren sido instituídos en un testamento público o PRIVADO declarado formal judicialmente, el albacea, si lo hubiere, y los herederos, exhibiendo la partida de defunción del autor de la herencia y un testimonio del testamento, se presentarán ante un Notario para hacer constar que aceptan la herencia, que se reconocen sus derechos hereditarios, y que el albacea va a proceder a formar el inventario de los bienes de la herencia. Si no hubiere albacea testamentario, los herederos podrán designarlo de común acuerdo en la misma acta.
+Cuando todos los herederos fueren mayores de edad, y acuerden por unanimidad realizar el trámite de la sucesión ante notario público, podrán acudir ante el notario público de su elección, acompañando los siguientes documentos:
 
-El Notario dará a conocer estas declaraciones por medio de dos publicaciones que se harán de diez en diez días, en el Periódico Oficial y en otro de los de mayor circulación en el Estado.
+a) Si hubiese testamento, acompañarán un testimonio del mismo, manifestando que aceptan la herencia, que se reconocen sus derechos hereditarios y que el albacea procederá a formar el inventario de los bienes de la herencia. Al efecto, deberán acompañar copia certificada del acta de defunción.
+
+b) Si no hubiese testamento, exhibirán el escrito a que se refiere el artículo 756 y acompañarán los documentos previstos en el artículo 757, con excepción del testamento a que se refiere la fracción II del mismo dispositivo.
+
+Si no hubiere albacea testamentario, los herederos podrán designarlo de común acuerdo en la misma acta.
+
+El notario dará a conocer estas declaraciones por medio de dos publicaciones que se harán de diez días en diez días en el periódico oficial y en otro de los de mayor circulación en el Estado.
 
 ###### Art. 830.
 
@@ -7761,13 +7825,17 @@ Jurisdicción voluntaria.
 
 Disposiciones generales.
 
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
+
 ###### Art. 836.
 
-Se aplicarán las disposiciones de este Título para todos los actos en que por disposición de la ley o por solicitud de los interesados se requiere la intervención del juez, sin que esté promovida ni se promueva cuestión litigiosa alguna entre partes determinadas.
+Se aplicarán las disposiciones de este título para todos los actos en que, por disposición de la Ley o por solicitud de los interesados, se requiera la intervención de juez, sin que esté promovida ni se promueva cuestión litigiosa alguna entre las partes determinadas. Tales actos también podrán tramitarse ante notario público, siempre y cuando los promoventes sean mayores de edad.
+
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
 ###### Art. 837.
 
-La intervención judicial en jurisdicción voluntaria tendrá por objeto, cuando ello sea necesario, demostrar la existencia de hechos que han producido, o estén destinados a producir, efectos jurídicos y de los cuales no derive perjuicio a persona conocida. Podrá también intervenir la autoridad judicial para regular con certeza las situaciones jurídicas, en aquellos casos en que exista incertidumbre.
+La intervención judicial en jurisdicción voluntaria tendrá por objeto, cuando ello sea necesario, demostrar la existencia de hechos que han producido, o estén destinados a producir, efectos jurídicos y de los cuales no derive perjuicio a persona conocida. Podrá también intervenir la autoridad judicial o el notario público que elijan los interesados para regular con certeza las situaciones jurídicas, en aquellos casos en que exista incertidumbre.
 
 ###### Art. 838.
 
@@ -7791,29 +7859,35 @@ V.- Cuando lo dispusieren las leyes.
 
 Cuando fuere necesaria la audiencia de una persona, se le citará conforme a derecho, advirtiéndole en la citación que quedan por tres días las actuaciones en la Secretaría del Juzgado, para que se imponga de ellas. Igualmente se le dará a conocer la fecha que se fije para recibir informaciones o pruebas o para la práctica de las diligencias que se hubieren decretado.
 
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
+
 ###### Art. 841.
 
-Recibida la demanda, el juez la examinará, y si se hubiere ofrecido información, mandará recibirla, señalando la fecha de la diligencia. Se admitirán cualesquiera documentos que se presentaren e igualmente las justificaciones que se ofrecieren, sin necesidad de citación ni de ninguna otra formalidad; pero para la información de testigos, inspecciones oculares o recepción de otras pruebas, se aplicarán, en lo conducente, las disposiciones relativas a estas pruebas, en cuanto fuere posible. Aun cuando no se hubiere ofrecido información, se podrá disponer que el peticionario justifique previamente los hechos en los cuales funda su petición si el juez lo estima necesario.
+Recibida la demanda, el juez o el notario público la examinará, y si se hubiere ofrecido información, mandará recibirla, señalando la fecha de la diligencia. Se admitirán cualquiera (sic) documentos que se presentaren e igualmente las justificaciones que se ofrecieren, sin necesidad de citación ni de ninguna otra formalidad; pero para la información de testigos, inspecciones oculares o recepción de otras pruebas, se aplicarán, en lo conducente, las disposiciones relativas a estas pruebas, en cuanto fuere posible. Aun cuando no se hubiere ofrecido información, se podrá disponer que el peticionario justifique previamente los hechos en los cuales funda su petición si el juez o el notario lo estiman necesario.
 
 Para la recepción de pruebas se citará al Ministerio Público cuando tuviere intervención y a la persona cuya audiencia fuere necesaria. Si no asistieren se llevará adelante la diligencia, confiriéndose vista al Ministerio Público después de practicada la prueba.
 
-Si no mediare oposición el juez aprobará la información si la juzga procedente y se expedirá copia certificada al peticionario si la pidiese.
+Tratándose de diligencias promovidas ante notario público, las notificaciones al Ministerio Público, se harán por conducto del Agente del Ministerio Público, adscrito al Juzgado de Primera Instancia en turno.
 
-Si la intervención judicial no consiste en recibir información sino en practicar algún otro acto, el Juez decidirá y mandará practicar lo procedente, procurando que no se lesionen derechos de terceros.
+Si la intervención judicial o notarial no consiste en recibir información sino en practicar algún otro acto, el juez o el notario público, en su caso, decidirá y mandará practicar lo procedente, procurando que no se lesionen derechos de terceros.
+
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
 ###### Art. 842.
 
-El Juez, en los negocios de jurisdicción voluntaria, podrá variar o modificar las determinaciones que dictare sin sujeción estricta a los términos y formas establecidas para la contenciosa.
+El juez o el notario público, en los negocios de jurisdicción voluntaria, podrá variar o modificar las determinaciones que dictare sin sujeción estricta a los términos y formas establecidas para la contenciosa.
+
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
 
 ###### Art. 843.
 
 Si mediare oposición del Ministerio Público, se substanciará en la forma establecida para los incidentes.
 
-En caso de oposición de un tercero que justifique ser parte legítima, el Juez examinará en forma preliminar la procedencia de la misma. Si advierte que ella no obsta a la intervención judicial solicitada por el promovente, la substanciará en la forma prevista para los incidentes y accederá o denegará a lo pedido en la demanda.
+En caso de oposición de un tercero que justifique ser parte legítima, el juez o el notario público examinará en forma preliminar la procedencia de la misma.
 
-Si advierte que plantea una cuestión de importancia que obsta a todo pronunciamiento en la jurisdicción voluntaria, sobreseerá los procedimientos, disponiendo que los interesados promuevan el juicio contradictorio que corresponda.
+Si advierte que plantea una cuestión de importancia que obste a todo pronunciamiento en la jurisdicción voluntaria, sobreseerán (sic) los procedimientos disponiendo que los interesados promuevan el juicio contradictorio que corresponda.
 
-Si la oposición se hiciere por quien no tenga personalidad ni interés para ello, el Juez la desechará de plano. Igualmente desechará las oposiciones presentadas después de efectuado el acto de jurisdicción voluntaria, reservando su derecho al opositor.
+Si la oposición se hiciere por quien no tenga personalidad ni interés por ello, el juez o el notario público lo desechará de plano. Igualmente desechará las oposiciones presentadas después de efectuado el acto de jurisdicción voluntaria, reservando su derecho al opositor.
 
 ###### Art. 844.
 
@@ -7871,9 +7945,11 @@ El juez procurará ampliar el examen de los testigos con las preguntas que estim
 
 La declaración de los testigos se recibirá conforme a las reglas de la prueba testimonial, establecidas en este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE JUNIO DE 2015)</small>
+
 ###### Art. 851.
 
-Las informaciones se protocolizarán ante el Notario que designe el promovente. El Notario, en este caso, dará al interesado el testimonio respectivo para su inscripción en el Registro Público.
+Las informaciones se protocolizarán ante el notario que designe el promovente. El notario, en este caso, dará al interesado el testimonio respectivo para su inscripción en el Registro Público. Tratándose de informaciones tramitadas ante notario público, el mismo notario llevará a cabo dicha protocolización.
 
 Cuando no se trate de derechos reales, se expedirá al interesado copia certificada de las diligencias.
 
@@ -7901,17 +7977,21 @@ Si el opositor deja transcurrir seis meses sin promover en el juicio de oposici�
 
 Jurisdicción voluntaria en otros negocios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE JUNIO DE 2015)</small>
+
 ###### Art. 853.
 
-Se tramitarán en jurisdicción voluntaria:
+Se tramitarán en jurisdicción voluntaria ante el juez o ante notario público:
 
 I.- La solicitud que tenga por objeto la protocolización de instrumentos públicos procedentes del extranjero;
 
 II.- Los demás actos que determinen las leyes.
 
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
+
 ###### Art. 854.
 
-El juez queda facultado para hacer cotejar documentos redactados en idioma extranjero por el perito que designe, o aceptar traducciones oficiales o las hechas por perito autorizado.
+El juez o el notario público queda facultado para hacer cotejar documentos redactados en idioma extranjero por el perito que designe, o aceptar traducciones oficiales o las hechas por perito autorizado.
 
 ###### Art. 855.
 
@@ -8620,3 +8700,19 @@ B.O. 9 DE ENERO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 15 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 175, POR EL QUE SE REFORMAN LOS ARTÍCULOS 768, 829, 836, 837, 841, 842, 843, 851, PÁRRAFO PRIMERO, 853, PÁRRAFO PRIMERO Y 854 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 15 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 176, POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO SÉPTIMO, TÍTULO SEGUNDO, DEL LIBRO TERCERO Y LOS ARTÍCULOS 540, 541, 542, 543, 544, 545, 546, 547, 548, 549, 550 Y 551 Y SE ADICIONAN LOS ARTÍCULOS 551 BIS Y 551 TER, TODOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a los ciento veinte días naturales, contados a partir del día de su publicación en el Boletín Oficial del Gobierno del Estado.
