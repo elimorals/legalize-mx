@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-el-instituto-aguascalentense-de-las-mujeres-22736"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-19"
-last_updated: "2005-08-08"
+last_updated: "2015-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY QUE CREA EL INSTITUTO AGUASCALENTENSE DE LAS MUJERES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el 19 de noviembre de 2001.
 
@@ -91,7 +91,9 @@ IX.- Promover el respeto de los derechos humanos de las niñas y fomentar su des
 
 X.- Promover los mecanismos de integración de la mujer en la vida económica, social, política y cultural del Estado en condiciones de equidad; así como la integración de los hombres en la vida familiar, con el objeto de promover la complementariedad;
 
-XI.- Proponer e impulsar reformas legislativas que garanticen la participación de las mujeres en condiciones equitativas, en todos los ámbitos, sin importar el origen étnico o nacional, la edad, las capacidades diferentes, la condición social, las condiciones de salud, la religión, las opiniones, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas; así como promover el debido cumplimiento de las normas vigentes;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+
+XI.- Proponer e impulsar reformas legislativas que garanticen la participación de las mujeres en condiciones equitativas, en todos los ámbitos, sin importar el origen étnico o nacional, la edad , la discapacidad, la condición social , las condiciones de salud, la religión, las opiniones, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas; así como promover el debido cumplimiento de las normas vigentes;
 
 XII.- Proponer e impulsar reformas legislativas que promuevan la participación de los hombres en la vida familiar, así como que apoyen a las mujeres madres trabajadoras para la atención y el cuidado de sus hijos;
 
@@ -143,7 +145,7 @@ II.- La Directora General.
 
 #### SECCION I. De la Junta de Gobierno
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 9º.
 
@@ -541,7 +543,7 @@ I.- Impulsar la participación de los sectores involucrados en las acciones rela
 
 II.- Coadyuvar en la elaboración y promoción de los trabajos e iniciativas del Instituto y de los órganos públicos y privados, así como en el diseño de políticas públicas estatales que favorezcan la equidad entre hombres y mujeres;
 
-IV.- Proponer a la Directora General planes y proyectos para el cumplimiento de los fines del Instituto;
+IV (SIC).- Proponer a la Directora General planes y proyectos para el cumplimiento de los fines del Instituto;
 
 V.- Coadyuvar en la evaluación de las políticas públicas en relación con su efectiva incidencia en la vida y desarrollo de las mujeres y de la familia, así como de la equidad entre hombres y mujeres;
 
@@ -671,7 +673,7 @@ El personal del Instituto se regirá por las disposiciones del Estatuto de los T
 
 El personal del Instituto estará incorporado en los términos de la Ley de Seguridad y Servicios Sociales para los Trabajadores Públicos del Estado de Aguascalientes.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2003)</small>
 
 ### CAPITULO DECIMO. De las Responsabilidades
 
@@ -747,7 +749,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 10 DE FEBRERO DE 2003.
 
@@ -766,3 +768,13 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los recursos administrativos de inconformidad previstos en el Código Urbano del Estado de Aguascalientes que se encuentren en trámite, continuarán su tramitación hasta su total conclusión, ajustándose a las disposiciones jurídicas vigentes al momento de su inicio.
+
+P.O. 15 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de “personas con discapacidad”.
