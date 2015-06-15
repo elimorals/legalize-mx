@@ -4,7 +4,7 @@ identifier: "SON-ley-del-notariado-para-el-estado-de-sonora-8382"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-04"
-last_updated: "2005-06-30"
+last_updated: "2015-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE JUNIO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE JUNIO DE 2015.
 
 Ley publicada en la Sección Segunda del Boletín Oficial del Estado de Sonora, el jueves 4 de enero de 1996.
 
@@ -285,13 +285,13 @@ III.- Si su intervención en la autenticación del acto o del hecho, ponen en pe
 
 IV.- Si estuviere ocupado en algún otro acto notarial.
 
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
+
 ###### ARTICULO 20.
 
-El notario podrá recibir todo tipo de informaciones testimoniales de uno o de varios testigos, pero en particular las siguientes:
+El notario podrá recibir todo tipo de informaciones y practicar todo tipo (sic) diligencias en materia de jurisdicción voluntaria, en los términos previstos y autorizados por el Código de Procedimientos Civiles para el Estado de Sonora, siempre y cuando los promoventes sean mayores de edad, no exista controversia y no se afecten derechos de terceros.
 
-I.- Para acreditar cualquier acto o hecho jurídico; y
-
-II.- Sobre construcciones o mejoras de fincas rústicas o urbanas, a solicitud del propietario del predio o de las obras, de tres testigos idóneos a juicio del notario, las que tendrán el mismo valor que las rendidas ante la autoridad judicial, siempre que no haya conflicto de intereses. Estas informaciones se inscribirán en el Registro Público.
+Igualmente podrá conocer de los demás procedimientos que le autorice el Código de Procedimientos Civiles para el Estado de Sonora en las materias familiar, del patrimonio de familia y procedimientos sucesorios, cuando se den las condiciones y se cumplan los requisitos previsto (sic) en el mismo Código.
 
 ###### ARTICULO 21.
 
@@ -445,9 +445,11 @@ II.- Deberá imprimir en cada folio, únicamente por su anverso, salvo lo dispue
 
 Para los efectos de esta ley, se entiende por escritura, el conjunto de folios originales en los que el notario asienta uno o varios actos jurídicos, en cuya última página contiene la firma o huella digital de los comparecientes y que el notario autoriza con su firma y sello. Forman parte de la escritura, los documentos incorporados a la misma.
 
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
+
 ###### ARTICULO 43.
 
-Se tendrá como parte de la escritura, el documento en que se consigne el contrato o acto jurídico de que se trate, siempre que redactado y firmado por el notario y por las partes que en él intervengan, se agregue al apéndice, llene los requisitos que señala este capítulo, y en el protocolo se levante un acta en la que se haga un extracto del documento, indicando sus elementos esenciales. En este caso, la escritura se integrará por dicha acta y el documento que se agregue al apéndice, en el que se consigne el contrato o acto jurídico de que se trate.
+Se tendrá como parte de la escritura el documento en que se consigne el contrato o acto jurídico de que se trate, siempre que redactado y firmado por el notario y por las demás partes que en el intervengan, se agregue el apéndice, llene los requisitos que señala este capítulo, y en el protocolo se levante un acta en la que se haga un extracto del documento, indicando sus elementos esenciales, cuya acta podrá ser firmada solo por el notario. En ese caso, la escritura se integrará por dicha acta y el documento que agregue al apéndice, en el que se consigne el contrato o acto jurídico de que se trate.
 
 ###### ARTICULO 44.
 
@@ -771,9 +773,11 @@ El notario puede expedir certificaciones relativas a las escrituras, actas o doc
 
 Al firmar los otorgantes y las personas que conforme a la ley, deban intervenir en una escritura pública, suscribirán también un duplicado de la misma, que será autorizada por el notario.
 
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
+
 ###### ARTICULO 75.
 
-Las copias de las escrituras serán remitidas en pliego cerrado a la Dirección, dentro de los treinta días siguientes a la fecha de la visita que se le practique al notario.
+Un ejemplar de cada escritura, debidamente escaneado, será remitido a la Dirección General de Notarias, por vía electrónica dentro de los treinta días siguientes a la fecha de su autorización. Tratándose de testamentos públicos abiertos, el notario deberá remitir un ejemplar de la escritura, debidamente escaneado a la misma Dirección, dentro de los cinco días siguientes a la fecha de su firma, acompañando la preforma necesaria para su inscripción en el Registro Nacional de Testamentos.
 
 ###### ARTICULO 76.
 
@@ -847,9 +851,11 @@ XI.- Que exista un acuerdo emitido por el Ejecutivo que declare una notaría vac
 
 XII.- Triunfar en el examen de oposición correspondiente.
 
+> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
+
 ###### ARTICULO 85.
 
-Los requisitos que se fijan en la fracción I del artículo que antecede, se comprobarán por los medios que establece el Código Civil para el Estado de Sonora para justificar el estado civil de las personas; los de la fracción II, por el título correspondiente inscrito en Profesiones y por lo que se refiere al ejercicio profesional por constancias expedidas por el Supremo Tribunal de Justicia del Estado o por los medios idóneos, a criterio del Consejo; los de la fracción III, con certificado de dos médicos con título oficial; los de la fracción IV, por información testimonial de dos testigos idóneos, recibida con audiencia del Ministerio Público y del Consejo, quien, a su vez, puede rendir pruebas en contrario; el de la fracción V, con certificado expedido por la autoridad política del municipio donde resida; el de la fracción VI, con la patente respectiva y con certificación de la Dirección de que se encuentra vigente; los de la fracción VII, con certificación de la Procuraduría General de Justicia del Estado; los de las fracciones VIII, IX y X, no requieren prueba, pero su afirmación admite prueba en contrario y los de la fracción XII, con copia del acta del examen de oposición.
+Los requisitos que se fijan en la fracción I del artículo que antecede, se comprobara por los medios que establece el Código Civil para el Estado de Sonora para justificar el estado civil de las personas; los de la fracción II, por el título correspondiente inscrito en la Dirección General de Profesiones y por lo que refiere al ejercicio profesional con la cedula profesional expedida por la Secretaria de Educación Pública y por los medios idóneos, a criterio del consejo; los de la fracción III, III (sic), con certificado de dos médicos con título oficial; los de la fracción IV, por información testimonial de dos testigos idóneos, recibida con audiencia del Ministerio Público y del Consejo, quien, a su vez, puede rendir pruebas en contrario; el de la fracción V, con certificado expedido por la autoridad política del municipio donde resida; el de la fracción VI, con la patente respectiva y con certificación de la Dirección de que se encuentra vigente; los de la fracción VII, con certificación de la Procuraduría General de Justicia del Estado; los de las fracciones VIII, IX y X, no requieren prueba, pero su afirmación admite prueba en contrario y los de la fracción XII, con copia del acta del examen de oposición.
 
 ###### ARTICULO 86.
 
@@ -1447,7 +1453,7 @@ Comuníquese al Ejecutivo para su sanción y promulgación.- SALON DE SESIONES D
 
 POR TANTO, mando se publique en el Boletín Oficial del Estado y se le dé el debido cumplimiento. PALACIO DE GOBIERNO, Hermosillo, Sonora, a veintisiete de diciembre de mil novecientos noventa y cinco.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. MANLIO FABIO BELTRONES RIVERA.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- LIC. ROBERTO SANCHEZ CEREZO.- RUBRICA.-
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 30 DE JUNIO DE 2005.
 
@@ -1462,3 +1468,9 @@ Dentro de los 180 días naturales siguientes a la entrada en vigor de este Decre
 ###### ARTICULO TERCERO.
 
 Se derogan las disposiciones que se opongan a las del presente Decreto.
+
+B.O. 15 DE JUNIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
