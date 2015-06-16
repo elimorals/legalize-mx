@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-finanzas-y-95035"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-28"
-last_updated: "2015-02-17"
+last_updated: "2015-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2015.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Puebla, el viernes 28 de junio de 2013.
 
@@ -393,7 +393,9 @@ LX.- A través de las áreas competentes, resolver en el ámbito administrativo 
 
 LXI.- Instruir la elaboración y la actualización del escalafón de los trabajadores del Poder Ejecutivo y en general de los servidores públicos al servicio del Estado, así como la actualización del expediente personal de cada uno de ellos;
 
-LXII.- Establecer las políticas para operar lo relacionado con los nombramientos, remociones, renuncias y licencias de los servidores públicos de las Dependencias de la Administración Pública Estatal; así como todo tipo de movimiento de personal con cargo al erario público estatal, en términos de la ley aplicable;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2015)</small>
+
+LXII.- Establecer las políticas para operar lo relacionado con los nombramientos, remociones, renuncias y licencias de los servidores públicos de las Dependencias de la Administración Pública Estatal; así como instrumentar, tramitar y suscribir todo tipo de movimiento de personal, incluyendo los anteriores con cargo al erario público estatal que así se requieran.
 
 LXIII.- Ordenar la elaboración de la contabilidad patrimonial del Estado, respecto de los bienes muebles e inmuebles propiedad o al cuidado del Gobierno del Estado;
 
@@ -441,7 +443,13 @@ LXXXIV.- Expedir copias certificadas de documentos que obren en sus archivos, pr
 
 LXXXV.- Suscribir, previa determinación de procedencia por parte de la Coordinación General Jurídica, los convenios, contratos, acuerdos y demás instrumentos jurídicos que sean competencia de la Secretaría, ordenando se lleve a cabo el seguimiento de su ejecución; y
 
-LXXXVI.- Las demás que le delegue o encomiende el Gobernador, así como aquellas que las leyes, reglamentos, acuerdos, decretos, convenios y sus anexos le confieran.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2015)</small>
+
+LXXXVI.- Emitir el Acuerdo para el establecimiento, reubicación, adscripción o supresión de las oficinas Registrales y/o Catastrales del Estado; de las oficinas Recaudadoras y de Asistencia al Contribuyente y de las Administraciones de Recaudación; así como su circunscripción territorial, a propuesta de las áreas competentes, y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2015)</small>
+
+LXXXVII.- Las demás que le delegue o encomiende el Gobernador, así como aquellas que las leyes, reglamentos, acuerdos, decretos, convenios y sus anexos le confieran.
 
 El Secretario podrá delegar sus funciones a los servidores públicos subalternos, con excepción de las contenidas en las fracciones I, II, III, IV, VI, IX, XXX, XXXI, XXXVII, XLI, XLIX, LIV y LV de este artículo.
 
@@ -604,6 +612,14 @@ XXIV.- Iniciar las acciones judiciales para la regularización de la situación 
 > <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
 XXV.- Supervisar la substanciación y trámite de los recursos administrativos de revisión catastral o recursos administrativos registrales, que integre la Dirección de lo Contencioso Administrativo de su adscripción.
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2015)</small>
+
+XXVI.- Proponer al Secretario, el establecimiento, reubicación, adscripción o supresión de las Oficinas Registrales y/o Catastrales del Estado; así como su circunscripción territorial, y
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2015)</small>
+
+XXVII.- Coordinar y vigilar el ejercicio de las funciones de Registro Público de la Propiedad y de Catastro en la Entidad;
 
 ### CAPÍTULO II. DE LA DIRECCIÓN DE LO CONTENCIOSO ADMINISTRATIVO
 
@@ -845,9 +861,9 @@ XXVI.- Resolver de conformidad con las disposiciones fiscales y normatividad apl
 
 XXVII.- Analizar, autorizar y proponer al Secretario en los casos que proceda, de conformidad con las disposiciones fiscales y normatividad aplicables, así como con los convenios y sus anexos suscritos entre el Estado y la Federación y/o con los Municipios, la cancelación de los créditos fiscales en las cuentas públicas por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios; así como, de los requerimientos del cumplimiento de obligaciones fiscales que sean notoriamente improcedentes;
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2015)</small>
 
-XXVIII.- Proponer al Secretario, el establecimiento, reubicación, adscripción o supresión de las Oficinas Registrales y/o Catastrales del Estado; de las Oficinas Recaudadoras y de Asistencia al Contribuyente y de las Administraciones de Recaudación; así como su circunscripción territorial;
+XXVIII.- Proponer al Secretario, la creación o extinción de Oficinas Recaudadoras y de Asistencia al Contribuyente, así como su circunscripción territorial.
 
 XXIX.- Aprobar los formatos oficiales de avisos, declaraciones, manifiestos, las formas oficiales valoradas, formas oficiales de reproducción restringida y formas oficiales de libre reproducción y los demás documentos requeridos por las disposiciones fiscales;
 
@@ -869,9 +885,7 @@ XXXVI.- Participar en el ámbito de su competencia, en los organismos de coordin
 
 XXXVII.- Proponer al Secretario, en coordinación con la Procuraduría Fiscal, de conformidad con las disposiciones legales, convenios y sus anexos que le correspondan, los acuerdos para conceder subsidios, beneficios o estímulos fiscales;
 
-> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
-
-XXXVIII.- Coordinar y vigilar el ejercicio de las funciones de (sic) Registro Público de la Propiedad y de Catastro en la Entidad;
+XXXVIII.- (DEROGADA, P.O. 16 DE JUNIO DE 2015)
 
 > <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2015)</small>
 
@@ -4139,11 +4153,11 @@ En los casos de ausencias temporales por más de quince días, el Secretario, lo
 
 ### CAPÍTULO ÚNICO. DE LOS ÓRGANOS DESCONCENTRADOS
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 74.
 
-Para la eficiente atención y despacho de los asuntos de su competencia, la Secretaría podrá contar con órganos desconcentrados, que le estarán jerárquicamente subordinados y tendrán las facultades específicas para resolver sobre la materia objeto de la desconcentración, dentro del ámbito de su competencia y de conformidad con las disposiciones legales aplicables.
+Para la eficiente atención y despacho de los asuntos de su competencia, la Secretaría podrá contar con órganos desconcentrados, que le estarán jerárquicamente subordinados a través del Secretario o de la Unidad Administrativa que éste determine y tendrán las facultades específicas para resolver sobre la materia objeto de la desconcentración, dentro del ámbito de su competencia y de conformidad con las disposiciones legales aplicables.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2015)</small>
 
@@ -4157,17 +4171,23 @@ Los Órganos Desconcentrados normarán su organización y funcionamiento, de con
 
 Son atribuciones de los titulares de los Órganos Desconcentrados:
 
-I.- Establecer, de conformidad con los lineamientos que emita el Secretario o el Subsecretario que corresponda, las normas, sistemas y procedimientos de carácter técnico y administrativo que deban regir a las unidades administrativas con que cuenten;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2015)</small>
+
+I.- Establecer, de conformidad con los lineamientos que emita su superior jerárquico, las normas, sistemas y procedimientos de carácter técnico y administrativo que deban regir a las unidades administrativas con que cuenten;
 
 II.- Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento del órgano desconcentrado;
 
-III.- Acordar con el Secretario o el Subsecretario que corresponda, la resolución de los asuntos encomendados al órgano desconcentrado que así lo ameriten;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2015)</small>
+
+III.- Acordar con su superior jerárquico, la resolución de los asuntos encomendados al órgano desconcentrado que así lo ameriten;
 
 IV.- Formular el anteproyecto del Programa de Presupuesto Anual del órgano desconcentrado a su cargo, y una vez aprobado, conducir y verificar su correcta y oportuna ejecución;
 
 V.- Conducir la administración de los recursos humanos, financieros y materiales que se les asignen para el desarrollo de sus actividades, de acuerdo con sus programas y objetivos, de conformidad con las disposiciones legales aplicables;
 
-VI.- Someter a consideración del Secretario o del Subsecretario que corresponda, los convenios, contratos, acuerdos y demás instrumentos jurídicos que se requieran para el ejercicio de las atribuciones del órgano desconcentrado a su cargo;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2015)</small>
+
+VI.- Someter a consideración de su superior jerárquico los convenios, contratos, acuerdos y demás instrumentos jurídicos que se requieran para el ejercicio de las atribuciones del órgano desconcentrado a su cargo;
 
 VII.- Expedir certificaciones de los documentos que obren en los archivos del órgano desconcentrado;
 
@@ -4175,9 +4195,13 @@ VIII.- Coordinar la ejecución de su programa operativo anual con las unidades a
 
 IX.- Promover, formular e instrumentar los programas de simplificación y modernización administrativa en el órgano a su cargo;
 
-X.- Proponer al Secretario o al Subsecretario que corresponda, los anteproyectos relativos a la organización, fusión, modificación o desaparición de las unidades administrativas que integren el órgano a su cargo;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2015)</small>
 
-XI.- Someter a la consideración del Secretario, los manuales de organización, de procedimientos y de servicios al público, del órgano a su cargo;
+X.- Proponer a su superior jerárquico, los anteproyectos relativos a la organización, fusión, modificación o desaparición de las unidades administrativas que integren el órgano a su cargo;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2015)</small>
+
+XI.- Someter a la consideración de su superior jerárquico, los manuales de organización, de procedimientos y de servicios al público, del órgano a su cargo;
 
 XII.- Participar en los mecanismos de coordinación y concertación; así como en el cumplimiento de los compromisos programáticos que se establezcan con otras dependencias y entidades de la administración pública estatal;
 
@@ -4218,3 +4242,11 @@ SEGUNDO. Derivado de la entrada en vigor del presente Decreto, en aquéllas disp
 TERCERO. Las Unidades Administrativas con denominación nueva o distinta que se consideren en el presente Reglamento y que tengan competencia en asuntos que anteriormente correspondía a otras Unidades Administrativas, se harán cargo de los mismos, continuarán su substanciación y dictarán las resoluciones respectivas.
 
 CUARTO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 16 DE JUNIO DE 2015.
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se dejan sin efectos todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Todo trámite que se haya iniciado o se encuentre en proceso a la Entrada en vigor del presente Decreto, deberá continuar tramitándose de acuerdo a las disposiciones legales y normatividad vigentes al momento de iniciarse.
