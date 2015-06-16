@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-la-ley-de-transito-y-transporte-para-del-6722"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-11-24"
-last_updated: "2012-10-16"
+last_updated: "2015-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6722&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,9 @@ state: "VER"
 
 REGLAMENTO DE LA LEY DE TRÁNSITO Y TRANSPORTE PARA EL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO DE LA LEY DE TRANSITO Y SEGURIDAD VIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 16 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 16 DE OCTUBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE JUNIO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el jueves 24 de noviembre de 1988.
 
@@ -4351,3 +4351,21 @@ G.O. 8 DE AGOSTO DE 2012.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. A partir de la entrada en vigor de este Decreto, las autorizaciones de ampliaciones de ruta, con una antigüedad mayor a veinte días hábiles, cuya explotación no se hubiera iniciado a la entrada en vigor del presente acto, quedan sin efecto legal alguno. Los concesionarios que presten sus servicios en rutas anuladas en términos de este instrumento, se harán acreedores a las demás sanciones en términos de Ley.
+
+G.O. 16 DE JUNIO DE 2015.
+
+PRIMERO. Publíquese en la Gaceta Oficial Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. El presente Reglamento de la Ley de Tránsito y Seguridad Vial para el Estado de Veracruz de Ignacio de la Llave entrará en vigor al día siguiente de su publicación.
+
+TERCERO. A partir de la entrada en vigor del Reglamento de la Ley de Tránsito y Seguridad Vial para el Estado de Veracruz de Ignacio de la Llave, queda abrogado el Reglamento de la Ley de Transito y Transporte para el Estado de Veracruz, publicado el 24 de noviembre de 1988, excepto todas aquellas regulaciones que contiene en materia de transporte público, las cuales seguirán vigentes, hasta la publicación del reglamento correspondiente, siempre y cuando no se contrapongan a la verificación, coordinación, dirección, vigilancia y sanción respecto de la circulación en las vías públicas competencia del Estado con el Reglamento de la Ley de Tránsito y Seguridad Vial para el Estado de Veracruz de Ignacio de la Llave.
+
+CUARTO. Las licencias, permisos y autorizaciones otorgadas conforme al Reglamento de la Ley de Transito y Transporte para el Estado de Veracruz, publicado el 24 de noviembre de 1988 que se abroga, seguirán en vigor hasta su vencimiento, pero deberán ajustarse a las obligaciones que establece el Reglamento de la Ley de Tránsito y Seguridad Vial para el Estado de Veracruz de Ignacio de la Llave.
+
+QUINTO. Se otorga un plazo de 90 (noventa) días naturales, contados a partir de la fecha de publicación del Reglamento de la Ley de Tránsito y Seguridad Vial para el Estado de Veracruz de Ignacio de la Llave, para que los propietarios o poseedores de vehículos se ajusten a las disposiciones establecidas en el Título Cuarto del Reglamento de la Ley de Tránsito y Seguridad Vial para el Estado de Veracruz de Ignacio de la Llave, debiendo contar con los hologramas de verificación de contaminantes vigentes que establece la Ley de Transito y Seguridad Vial para el Estado de Veracruz de Ignacio de la Llave y contar con Póliza de responsabilidad civil o daños a terceros vigente o el fondo de garantía correspondiente, a que se refieren los artículos 46 y 51 de la referida Ley.
+
+SEXTO. Se otorga un plazo de 60 (sesenta) días naturales, contados a partir de la publicación del Reglamento de la Ley de Tránsito y Seguridad Vial para el Estado de Veracruz de Ignacio de la Llave, para que los propietarios de las escuelas de manejo se registren ante la Secretaría de Seguridad Pública y se ajusten a las disposiciones establecidas en el mismo.
+
+SÉPTIMO. Se otorga un plazo de 60 (sesenta) días naturales, contados a partir de la publicación del Presente Reglamento de la Ley de Tránsito y Seguridad Vial para el Estado de Veracruz de Ignacio de la Llave, para que se publique el reglamento relativo a los servicios públicos que cuenten con autorización para prestar el servicio de Arrastre, Salvamento y Depósito de Vehículos en el Estado de Veracruz de Ignacio de la Llave.
+
+OCTAVO. Se derogan todas las disposiciones de igual o menor rango que se opongan al Reglamento de Tránsito y Seguridad Vial para el Estado de Veracruz de Ignacio de la Llave.
