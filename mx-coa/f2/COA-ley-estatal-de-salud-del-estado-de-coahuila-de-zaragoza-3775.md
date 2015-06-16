@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2015-03-03"
+last_updated: "2015-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -2523,9 +2523,27 @@ El certificado médico prenupcial será requerido por las autoridades del Regist
 
 Los certificados de defunción y de muerte fetal serán expedidos, una vez comprobado el fallecimiento y determinadas sus causas, por profesionales de la medicina o personas autorizadas por la Secretaría de Salud del Estado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JUNIO DE 2015)</small>
+
+Los certificados de defunción y muerte fetal no podrán ser retenidos por hospitales, clínicas o centros de salud públicos o privados, ni por particulares a cambio de asegurar el pago por la prestación de un servicio. Quienes incumplan con lo establecido en este artículo, serán sancionados conforme al artículo 289 y demás disposiciones aplicables de esta ley.
+
 ###### Artículo 260.
 
 Los certificados a que se refiere este Título, se extenderán en los modelos aprobados por la Secretaría de Salud del gobierno federal y de conformidad con las (sic) norma oficial Mexicana que la misma emita. Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JUNIO DE 2015)</small>
+
+En su caso, a las funerarias, velatorios o vehículos que presten el servicio de traslado de cadáveres o sus partes, se les extenderá por la institución pública o privada, o por el médico certificante, dentro de los mismos plazos fijados para el certificado de defunción y muerte fetal, un documento oficial que para tal efecto emita la Secretaría de Salud, con los datos de la persona fallecida, donde se mencione cuando menos: nombre, edad, sexo, hora de la muerte, número de certificado de defunción y fecha, con la finalidad de que realicen los trámites funerarios. La forma de emisión de este documento oficial, se determinará en los lineamientos que al efecto expida la Secretaría de Salud.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JUNIO DE 2015)</small>
+
+Sin perjuicio de lo dispuesto en el párrafo anterior, para el traslado o inhumación de cadáveres o sus partes, se deberá cumplir con lo establecido en la Ley General de Salud, esta ley y demás disposiciones aplicables.
 
 ## TITULO DECIMO QUINTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
@@ -3176,3 +3194,25 @@ P.O. 3 DE MARZO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado, a través de la Secretaría de Salud, deberá realizar reuniones de trabajo con personal del sector salud público y privado para llevar a cabo el cumplimiento del presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Salud a través del área que corresponda y la Secretaría de Gobierno por medio de la Dirección del Registro Civil, realizará las acciones necesarias para darle difusión a esta reforma entre la población del Estado.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Salud contará con un plazo de diez días naturales para emitir los lineamientos a que se refiere el presente Decreto contados a partir de su entrada en vigor.
+
+###### ARTÍCULO QUINTO.
+
+Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
