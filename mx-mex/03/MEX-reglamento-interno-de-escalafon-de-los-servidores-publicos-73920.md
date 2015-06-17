@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-escalafon-de-los-servidores-publicos-7392
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-04"
-last_updated: "2010-03-04"
+last_updated: "2015-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73920&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DE ESCALAFON DE LOS SERVIDORES PUBLICOS GENERALES DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-REGLAMENTO INTERNO DE ESCALAFON DE LOS SERVIDORES PUBLICOS GENERALES DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MEXICO Y MUNICIPIOS
+REGLAMENTO INTERNO DE ESCALAFÓN DE LOS SERVIDORES PÚBLICOS GENERALES DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE ESCALAFÓN DE LOS SERVIDORES PÚBLICOS GENERALES DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, PUBLICADO EN LA G.G. DE 17 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el jueves 4 de marzo de 2010.
 
@@ -1218,3 +1220,17 @@ SILVIANO JAIME PULIDO LÓPEZ
 SECRETARIO DEL HONORABLE CONSEJO DIRECTIVO DEL ISSEMYM
 
 (RÚBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE JUNIO DE 2015.
+
+PRIMERO. El presente Reglamento deberá publicarse en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se abroga el Reglamento Interno de Escalafón de los Servidores Públicos Generales del Instituto de Seguridad Social del Estado de México y Municipios, publicado en la "Gaceta del Gobierno" el 4 de marzo del 2010 y demás ordenamientos de igual o menor jerarquía que se opongan a lo dispuesto en este Reglamento.
+
+CUARTO. En caso de duda, interpretación, controversia o aspectos no previstos en el presente Reglamento, la Comisión resolverá y emitirá el acuerdo correspondiente.
+
+QUINTO. El anexo que corresponde al Catálogo General de Puestos por grupo y rama a que hace referencia este Reglamento, puede modificarse, tal como lo prevé el mismo ordenamiento y será avalado por la Comisión.
