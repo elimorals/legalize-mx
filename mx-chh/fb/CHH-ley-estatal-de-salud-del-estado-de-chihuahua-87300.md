@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2015-05-20"
+last_updated: "2015-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2015.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -752,6 +752,10 @@ La protección de la salud física y mental de los menores es una responsabilida
 ###### Artículo 70.
 
 En la organización y operación de los servicios de salud destinados a la atención materno-infantil, las autoridades sanitarias del Estado, establecerán procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios, principalmente en materia de atención prenatal, nutrición y fomento a la lactancia materna.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2015)</small>
+
+Asimismo, se establecerán acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, con el objeto de que la leche materna sea alimento preponderante durante los primeros seis meses, y complementario hasta avanzado el segundo año de vida.
 
 ###### Artículo 71.
 
@@ -3526,3 +3530,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Organismo Público Descentralizado denominado "Desarrollo Integral de la Familia del Estado de Chihuahua" (DIF Estatal), celebrará los acuerdos de coordinación necesarios con la Secretaría de Salud Estatal, a fin de que esta, en el ámbito de sus atribuciones, participe garantizando la prestación de los servicios terapéuticos en los centros de rehabilitación a que se refiere el presente Decreto.
+
+P.O. 17 DE JUNIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
