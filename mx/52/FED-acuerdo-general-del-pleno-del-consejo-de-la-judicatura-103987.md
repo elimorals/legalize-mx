@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2015-06-12"
+last_updated: "2015-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2015.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -1011,9 +1011,13 @@ Los servidores públicos obligados al registro deberán ser enrolados en el equi
 
 Los servidores públicos adscritos a la plantilla de plazas a disposición del Consejo, deberán realizar el registro de asistencia en los órganos jurisdiccionales y áreas administrativas, a los cuales se encuentren comisionados y durante el tiempo que dure ésta.
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 17 DE JUNIO DE 2015)</small>
+
 ###### Artículo 59.
 
-Los servidores públicos que incurran en omisiones de registro de entrada o salida, retardo o falta injustificada, se harán acreedores a los descuentos señalados en las Condiciones Generales de Trabajo de los Servidores Públicos a cargo del Consejo, los cuales se aplicarán de forma automática y continua a través del sistema que corresponda en la segunda quincena del mes calendario siguiente al en que se genere la incidencia, esto de conformidad con el calendario de cierre de nómina. Cuando esto último no sea posible el descuento respectivo se aplicará al cierre de la nómina subsecuente.
+Los servidores públicos que incurran en omisiones de registro de entrada o salida, retardo o falta injustificada, se harán acreedores a los descuentos señalados en las Condiciones Generales de Trabajo de los Servidores Públicos a cargo del Consejo de la Judicatura Federal.
+
+El Auxiliar de Asistencia y Puntualidad deberá enviar las solicitudes de descuentos a la Dirección General de Recursos Humanos o al área de nómina de las Administraciones Regionales o Delegaciones Administrativas, según corresponda, a través del sistema que para tal efecto se encuentre operando, previa autorización del titular del órgano jurisdiccional, de cada ponencia en el caso de los tribunales Colegiados o área administrativa.
 
 ###### Artículo 60.
 
@@ -1025,19 +1029,23 @@ El Auxiliar de Asistencia y Puntualidad será el responsable de verificar previa
 
 De lo anterior, el Auxiliar de Asistencia y Puntualidad deberá generar acta administrativa, en la que conste el alta o modificación del Registro y la verificación de identidad del servidor público de que se trate, la cual deberá ser firmada por ambos y remitida a la Unidad de Registro y Control de Asistencia.
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 17 DE JUNIO DE 2015)</small>
+
 ###### Artículo 62.
 
-Previo al cierre de nómina, el Auxiliar de Asistencia y Puntualidad deberá asentar en el Registro, las justificaciones que previamente haya autorizado el titular del órgano jurisdiccional, de cada ponencia en el caso de los tribunales colegiados o área administrativa correspondiente, además de remitirle el reporte de incidencias respectivo para su conocimiento.
+Previo al cierre de nómina, el Auxiliar de Asistencia y Puntualidad deberá asentar en el Registro, las justificaciones que previamente haya autorizado el titular del órgano jurisdiccional, de cada ponencia en el caso de los tribunales colegiados o área administrativa correspondiente.
 
-Asimismo, dicho Auxiliar deberá resguardar la justificación autorizada y, en su caso, la documentación idónea que la acredite y depositarla en el medio electrónico que determine la Dirección General de Recursos Humanos, misma que estará sujeta a los sistemas de supervisión, control y verificación que establezca el Consejo.
+Asimismo, dicho Auxiliar deberá resguardar, en su caso, la documentación idónea que acredite la justificación autorizada.
 
 ###### Artículo 63.
 
 En caso de ausencia temporal o permanente del Auxiliar de Asistencia y Puntualidad, la Dirección General de Tecnologías de la Información deberá realizar el alta en el lector biométrico del servidor público que lo supla o sustituya, e informarlo a la Unidad de Registro y Control de Asistencia mediante correo electrónico.
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 17 DE JUNIO DE 2015)</small>
+
 ###### Artículo 64.
 
-Los titulares de los órganos jurisdiccionales, de cada ponencia en el caso de los tribunales colegiados y de las áreas administrativas, serán los únicos que podrán justificar omisiones de entrada, salida, retardos y faltas de los servidores públicos a su cargo, de conformidad con este Acuerdo y lo dispuesto en el artículo 52 de las Condiciones Generales de Trabajo de los servidores públicos a cargo del Consejo.
+Los titulares de los órganos jurisdiccionales, de cada ponencia en el caso de los tribunales colegiados, y de las áreas administrativas, serán los únicos que podrán justificar omisiones de entrada, salida, retardos y faltas de los servidores públicos a su cargo, de conformidad con este Acuerdo y con lo dispuesto en el artículo 52 de las Condiciones Generales de Trabajo de los Servidores Públicos a cargo del Consejo de la Judicatura Federal, por necesidades de organización y por las causas previstas en dichas disposiciones, así como autorizar el descuento correspondiente, en términos del artículo 59, segundo párrafo, de este Acuerdo.
 
 ###### Artículo 65.
 
@@ -10740,3 +10748,13 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Los procedimientos de desincorporación que a la fecha de entrada en vigor de este Acuerdo se encuentren en trámite, deberán continuarse hasta su conclusión conforme a las disposiciones con las que fueron iniciados.
+
+D.O.F. 17 DE JUNIO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de sus áreas administrativas competentes, llevará a cabo las adecuaciones al Registro automatizado de entrada y salida de servidores públicos, y las demás acciones necesarias para la implementación del presente Acuerdo, dentro de los noventa días siguientes a la entrada en vigor del mismo.
+
+Durante dicho plazo quedará suspendido el Registro automatizado de entrada y salida de servidores públicos.
