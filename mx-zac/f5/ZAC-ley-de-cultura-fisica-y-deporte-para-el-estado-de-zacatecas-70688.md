@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-cultura-fisica-y-deporte-para-el-estado-de-zacatecas-706
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-23"
-last_updated: "2014-07-05"
+last_updated: "2015-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70688&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 17 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2015 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 23 de septiembre de 2009.
 
@@ -947,7 +949,7 @@ VI. Capacitar e incentivar a los profesores de educación física y entrenadores
 
 > <small>(ADICIONADA, P.O. 5 DE JULIO DE 2014)</small>
 
-VIl. Diseñar planes y programas de práctica del deporte que fomenten el desarrollo neurológico de todas las poblaciones, incluyendo prioritariamente a niñas, niños y poblaciones con discapacidad.
+VII. Diseñar planes y programas de práctica del deporte que fomenten el desarrollo neurológico de todas las poblaciones, incluyendo prioritariamente a niñas, niños y poblaciones con discapacidad.
 
 Deporte de alto rendimiento o competitivo
 
@@ -1467,7 +1469,7 @@ VI. La antigüedad probada en la práctica de la disciplina deportiva;
 
 > <small>(ADICIONADA, P.O. 5 DE JULIO DE 2014)</small>
 
-VIl. Los resultados obtenidos en competencias oficiales;
+VII. Los resultados obtenidos en competencias oficiales;
 
 > <small>(ADICIONADA, P.O. 5 DE JULIO DE 2014)</small>
 
@@ -1960,3 +1962,21 @@ P.O. 5 DE JULIO DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones legales que se opongan a la eficaz aplicación del contenido de este decreto.
+
+P.O. 17 DE JUNIO DE 2015.
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Segundo. Se abroga la Ley de Cultura Física y Deporte para el Estado de Zacatecas, publicada en el Suplemento 2 al 76 del Periódico Oficial, Órgano de Gobierno del Estado, el día veintitrés de septiembre de dos mil nueve y todas las disposiciones jurídicas que contravengan la presente Ley.
+
+Tercero. El Ejecutivo del Estado dentro de los 180 días posteriores a su publicación, deberá expedir el Reglamento de la Ley.
+
+Cuarto. En tanto se expiden las disposiciones reglamentarias de esta Ley, se seguirán aplicando las disposiciones existentes en tanto no contravengan el presente Decreto.
+
+Quinto. El INCUFIDEZ desarrollará las nuevas atribuciones que le confiere la presente Ley con los recursos humanos, financieros y materiales con los que cuenta actualmente.
+
+Sexto.- El INCUFIDEZ, dentro del término de cuatro meses contados a partir de la publicación del presente Decreto, emitirá su Estatuto Orgánico.
+
+Séptimo. Todos los procedimientos y recursos administrativos relacionados con las materias de esta Ley, que se hubiesen iniciado bajo la vigencia de la Ley de Cultura Física y Deporte para el Estado de Zacatecas anterior a ésta, se tramitarán y resolverán conforme a las disposiciones de la Ley que se abroga.
+
+Octavo. Para los efectos de la integración y actualización del Registro Estatal de Cultura Física y Deporte, las Asociaciones Deportivas reconocidas en los términos de la presente Ley, deberán registrase en un plazo no mayor de ciento ochenta días naturales contados a partir de la publicación de la presente Ley.
