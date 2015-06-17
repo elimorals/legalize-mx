@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-atencion-a-la-familia-y-grupos-vulnerables-para-50467
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-02"
-last_updated: "2014-11-27"
+last_updated: "2015-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE ATENCIÓN A LA FAMILIA Y GRUPOS VULNERABLES PARA EL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el martes 2 de mayo de 2006.
 
@@ -32,8 +32,6 @@ Pablo Salazar Mendiguchía, Gobernador del Estado Libre y Soberano de Chiapas, a
 Decreto Número 360
 
 La Honorable Sexagésima Segunda Legislatura del Honorable Congreso del Estado Libre y Soberano de Chiapas, en uso de las facultades que le confiere La Constitución Política local; y,
-
-.
 
 Por las anteriores consideraciones este Honorable Congreso del Estado, ha tenido ha (sic) bien emitir el siguiente:
 
@@ -555,7 +553,7 @@ Son atribuciones y obligaciones de la Junta de Asistencia Privada, las siguiente
 
 > <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
-l. Supervisar que las instituciones de asistencia privada cumplan con lo establecido en el presente Código, con sus estatutos y demás disposiciones legales que les sean aplicables;
+I. Supervisar que las instituciones de asistencia privada cumplan con lo establecido en el presente Código, con sus estatutos y demás disposiciones legales que les sean aplicables;
 
 II. Fomentar la agrupación de instituciones para la obtención de financiamientos, capacitación y asistencia técnica;
 
@@ -731,887 +729,353 @@ Cuando el hecho cometido por el infractor, sea un ilícito que la Ley castigue c
 
 Las personas afectadas por las resoluciones dictadas con fundamento en este Código, podrán recurrirlas ante la Junta, mediante el recurso de revisión, dentro de un término de diez días, contados a partir del día siguiente al de la notificación.
 
-# Libro Segundo. De la Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado
+> <small>(DEROGADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)</small>
 
-## Título Primero. De los Principios y Derechos
+# Libro Segundo
 
-### Capítulo I. De los Principios
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+## Título Primero
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)</small>
+
+### Capítulo I
 
 ###### Artículo 61.
 
-El presente ordenamiento, tiene por objeto asegurarles a las niñas, niños y adolescentes, un desarrollo pleno integral, lo que implica la oportunidad de formarse física, mental, emocional, social y moralmente en condiciones de igualdad, realizando acciones tendentes a:
-
-I. Garantizar a las niñas, niños y adolescentes, la tutela plena e igualitaria de sus derechos fundamentales reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución local, en el presente Código, en la Declaración de los Derechos del Niño y en los Tratados Internacionales que México haya adoptado y ratificado para su cumplimiento.
-
-II. Establecer las normas, bases y procedimientos que contribuyan a la protección, ayuda, atención, rehabilitación, orientación y desarrollo de las niñas, niños y adolescentes en el Estado de Chiapas.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 62.
 
-Este ordenamiento se aplicará en beneficio de las niñas, niños y adolescentes sin distinción alguna independientemente de su origen, cultura, sexo, idioma, religión, ideología, nacionalidad, discapacidad, circunstancias de nacimiento o cualquier otra condición propia de quienes legalmente ejerzan la patria potestad, su guarda o tutela en términos de las disposiciones aplicables, en materia de la legislación Civil o Penal para el Estado de Chiapas.
-
-En cada uno de los municipios del Estado, se establecerá un Comité Municipal de Seguimiento y Vigilancia de la aplicación de este Código, el cual será presidido por el Presidente Municipal e integrado por el DIF municipal existente en cada municipio; así como por las autoridades que realicen funciones relacionadas con desarrollo social, salud, educación y seguridad pública en el Municipio.
-
-El Presidente Municipal, podrá invitar a participar en el Comité Municipal de Seguimiento y Vigilancia para la protección de los derechos de las niñas, niños y adolescentes, a representantes del DIF - Chiapas, de las Secretarías de Salud, de Desarrollo y Participación Social, de Hacienda, de Educación, de Seguridad y Protección Ciudadana, de Pueblos Indios, para el Desarrollo y Empoderamiento de las Mujeres; de la Procuraduría General de Justicia del Estado, del Instituto de Población y Ciudades Rurales y del Instituto del Deporte; así como a representantes de organizaciones sociales y privadas, dedicadas a la atención de las niñas, niños y adolescentes, asociaciones de padres de familia y a especialistas en el tema.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 63.
 
-El DIF-Chiapas, atendiendo a los acuerdos que resulten de la coordinación que se establezca, expedirá los manuales, instructivos o circulares que sean necesarios para el eficaz cumplimiento de este ordenamiento.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 64.
 
-El DIF-Chiapas, queda facultado para expedir, con base en este ordenamiento, los instructivos que considere necesarios para desarrollar, hacer explícitas y determinar la forma en que deben cumplirse las disposiciones en materia de protección a los derechos de los menores.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 65.
 
-Los acuerdos de coordinación o convenios de concertación, que con motivo a la protección de las niñas, niños y adolescentes, celebren las autoridades estatales y municipales, o con personas físicas o morales del sector privado, en los términos del presente Código, deberán contener:
-
-I. Fundamento legal;
-
-II. El objeto, función o acción que deberá estar previamente regulada por las leyes locales o federales;
-
-III. Los órganos administrativos, a través de sus representantes, deberán comprometerse hasta lograr el objetivo propuesto;
-
-IV. Los términos de aplicación de los recursos humanos, financieros y materiales que aporten las partes, deberán quedar bien especificados en los convenios o compromisos de cada Secretaría; y,
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-V. La vigencia del programa de apoyo a los derechos de las niñas, niños y adolescentes, deberá ser determinado por acuerdo de las Secretarías que la integran.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 66.
 
-Son principios rectores en la observancia, interpretación y aplicación del presente Código, los siguientes:
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
-I. El interés superior de las niñas, niños y adolescentes; este principio implica dar prioridad al bienestar de las niñas, niños y adolescentes, ante cualquier otro interés que vaya en su perjuicio.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)</small>
 
-Este, principio, orienta la actuación de las autoridades estatales encargadas de las acciones de defensa y representación jurídica, provisión, prevención, protección especial y participación de las niñas, niños y adolescentes y deberá verse reflejado en las siguientes acciones:
-
-a) En la asignación de recursos públicos para programas sociales.
-
-b) En la atención a las niñas, niños y adolescentes en los servicios públicos.
-
-c) En la formulación y ejecución de políticas públicas.
-
-II. La corresponsabilidad o concurrencia, que asegura la participación y responsabilidad de la familia, el Gobierno y la sociedad en la atención de las niñas, niños y adolescentes.
-
-III. El de igualdad y equidad en todos los ámbitos que conciernen a las niñas, niños y adolescentes.
-
-IV. El de familia, como espacio preferente para el desarrollo de las niñas, niños y adolescentes.
-
-V. El de que las niñas, niños y adolescentes, tienen diversas etapas de desarrollo y diversas necesidades, que deben llevar a la elaboración de respuestas gubernamentales especiales y de políticas públicas especificadas, dependiendo de la etapa de desarrollo en que se encuentren, con el objeto de procurar que ejerzan sus derechos con equidad.
-
-VI. El de tener una vida libre de violencia.
-
-VII. El de respeto universal a la diversidad cultural, étnica y religiosa.
-
-### Capítulo II. De los Derechos
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+### Capítulo II
 
 ###### Artículo 67.
 
-De manera enunciativa, más no limitativa, conforme al presente Código, las niñas, niños y adolescentes, en el Estado de Chiapas, tienen derecho a la vida, integridad, dignidad, identidad, seguridad jurídica y familiar, salud y alimentación, educación, asistencia a los que tengan discapacidad, pensamiento y derecho a una cultura propia, a participar al debido proceso en caso de infracción a la Ley penal.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 68.
 
-Las niñas, niños y adolescentes, tienen derecho a la vida, integridad y dignidad, los cuales consisten:
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-I. A la vida con calidad, siendo obligación del padre y la madre, del Estado y de la sociedad; garantizar a las niñas, niños y adolescentes, su sobrevivencia y desarrollo, así como el acceso a los medios y mecanismos necesarios para ello.
-
-II. A la no discriminación en razón de raza, color, género, idioma o lenguaje, religión, opinión política, origen étnico, nacionalidad o condición social, posición económica, discapacidad física o mental, circunstancias de nacimiento o cualquier otra condición no prevista en este artículo;
-
-III. A una vida libre de violencia;
-
-IV. A ser respetado en su persona, en su integridad física, psicoemocional y sexual;
-
-V. A ser protegido contra toda forma de explotación;
-
-VI. A recibir protección por parte de sus progenitores y familiares, el Estado y la sociedad; y,
-
-VII. A recibir información respecto de cuestiones de seguridad pública y de protección civil.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 69.
 
-El derecho a la identidad, intimidad, seguridad jurídica y familiar de las niñas, niños y adolescentes está compuesta por:
-
-I. El conjunto de atributos y derechos de la personalidad, conforme a lo previsto en la legislación civil del Estado, que conforma la identidad;
-
-II. A ser registrados después de su nacimiento, con un nombre y apellidos propios, de conformidad con lo previsto en la legislación civil estatal;
-
-III. A solicitar y recibir información sobre su origen, sobre la identidad de sus padres y a conocer su origen genético, salvo en los casos que la Ley lo prohíba;
-
-IV. A vivir y crecer en el seno de una familia, conocer a sus progenitores y a mantener relaciones personales y contacto directo con ellos, aún en el caso de estar separados, salvo si ello es contrario al interés superior de los menores;
-
-V. A integrarse libremente y sin presión de ninguna autoridad, institución u organización, a un hogar provisional y a recibir el beneficio, en su caso, de la adopción;
-
-VI. A emitir su opinión en todos los asuntos que le afecten, a ser escuchado tomando en cuenta su edad y madurez en todo procedimiento judicial o administrativo, ya sea directamente o por medio de representante;
-
-VII. A recibir un trato digno y apropiado, cuando sean víctimas de cualquier tipo de ilícito o cuando ellos mismos cometan infracciones;
-
-VIII. A recibir el apoyo de las entidades estatales, en lo relativo al ejercicio y respeto a sus derechos, a través de las instituciones creadas para tal efecto; y,
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-IX. A que se procure su encuentro con su familia, cuando sea privado de ella, así mismo, se tendrá como prioritaria la necesidad de que los menores cuyos padres estén separados, tengan derecho a convivir o mantener relaciones personales y trato directo con ambos, salvo que de conformidad con la ley de la materia, la autoridad determine que ello es contrario al interés superior de las niñas, niños y adolescentes;
-
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-X. A que se le respeten su correspondencia, domicilio, vida privada e intimidad familiar.
-
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 69 Bis.
 
-El Gobierno del Estado y los Ayuntamientos establecerán las medidas necesarias para asegurar que:
-
-I. Se registre sin alteración la identidad de niñas, niños y adolescentes al momento de presentarlos ante el Registro Civil.
-
-II. Se sancione a quienes proporcionen datos falsos en actos relativos al estado civil de niñas, niños y adolescentes.
-
-III. Se proporcione la asesoría y apoyos necesarios para orientar a los padres de familia en el registro de sus hijos.
-
-IV. Se preste la asistencia y protección apropiadas cuando se pretenda privar ilegalmente a niñas, niños y adolescentes de uno o más de los elementos de su identidad.
-
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 69 Ter.
 
-Las instituciones de salud públicas o privadas emitirán la constancia de los nacimientos que atiendan en sus instalaciones, misma que establecerá la identidad de los recién nacidos y de sus padres.
-
-Cuando el alumbramiento no se produzca en una institución, el médico o persona que lo haya asistido comunicará al Registro Civil la información necesaria para la inscripción del nacimiento.
-
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 69 Quáter.
 
-Las niñas, niños y adolescentes, ejercerán plenamente su derecho a la identidad, así como al reconocimiento de la paternidad o maternidad.
-
-El Gobierno del Estado les prestará la asistencia, protección y asesoría necesarias para protegerlos de toda violación a su derecho a la identidad.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 70.
 
-El derecho a la salud y alimentación de las niñas, niños y adolescentes, consiste;
-
-I. En poseer, recibir o tener acceso a los satisfactores necesarios, considerando alimentos, medicamentos, servicios y condiciones humanas o materiales, que posibiliten su desarrollo armónico e integral en el ámbito físico, intelectual, social y cultural;
-
-II. A tener acceso a los servicios médicos necesarios, para la prevención, tratamiento, atención y rehabilitación de discapacidades y enfermedades, de acuerdo con las bases y modalidades que establecen las disposiciones jurídicas aplicables;
-
-III. A recibir orientación y capacitación para obtener conocimientos básicos en materia de salud, nutrición, higiene, saneamiento comunitario y ambiental, así como todo aquello que favorezca su cuidado personal;
-
-IV. A ser protegidos y orientados contra el consumo de drogas, estupefacientes, uso de tecnologías o cualquier otra cosa que le genere estado de dependencia o adicción;
-
-V. A la salud y a los servicios integrales para la prevención, tratamiento de enfermedades y rehabilitación;
-
-VI. Recibir asesoría médica sobre salud sexual y reproductiva para prevenir embarazos tempranos;
-
-VII. Obtener atención pre y post natal a las madres adolescentes, de conformidad con lo establecido en este Código; y,
-
-VIII. De manera especial, ser atendidos al presentar enfermedades endémicas, epidérmicas, de transmisión sexual y el VIH/Sida, impulsando programas de prevención e información sobre ellas.
-
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 70 Bis.
 
-Para garantizar el derecho a la salud de las niñas, niños y adolescentes, el Gobierno del Estado, a través de la Secretaría de Salud y del DIF Chiapas, prestarán servicios de calidad, especialmente en materia de prevención, tratamiento y atención, para tal efecto realizarán las acciones siguientes:
-
-I. Asegurar la prestación de la asistencia médica y la atención sanitaria que sea necesaria, haciendo hincapié en el desarrollo de la atención primaria de salud.
-
-II. Apoyar la nutrición de la madre en estado de gestación y/o lactancia, para que el producto alcance la madurez y crecimiento necesario para su correcto desarrollo.
-
-III. Asistir médicamente, a través de las clínicas y hospitales del sector salud o de los establecimientos particulares con los que se convenga, a la madre adolescente en gestación o lactancia, sin importar su afiliación o no a los regímenes de asistencia del derechohabiente.
-
-IV. En los casos de niñas que resulten embarazadas, éstas recibirán un trato digno y respetuoso en los servicios de salud e información materno-infantil y atención médica y hospitalaria.
-
-V. Apoyar las campañas de medicina preventiva y vacunación de las diversas instancias de gobierno.
-
-VI. Realizar las campañas de prevención y detección de enfermedades y discapacidades.
-
-VII. Proporcionar complementos alimenticios a las niñas, niños y adolescentes que lo requieran.
-
-VIII. Establecer comedores para proporcionar una alimentación balanceada a las niñas, niños y adolescentes que lo requieran por su precaria situación económica y que se encuentran realizando estudios en las escuelas del sector público, independiente del nivel de escolaridad.
-
-IX. Crear y fortalecer centros de capacitación y albergues escolares en las zonas rurales, donde se proporcione a manera de beca, alimentación y vivienda.
-
-X. Proporcionar información y educación sexual con perspectiva de género.
-
-XI. Asegurar que todos los sectores de la sociedad y en particular los padres tengan conocimiento acerca de los principios básicos de la salud y la nutrición de las niñas, niños y adolescentes, las ventajas de la lactancia materna, la higiene y el saneamiento ambiental y las medidas de prevención de accidentes, tengan acceso a la educación pertinente y reciban apoyo en la aplicación de esos conocimientos.
-
-XII. Impulsar programas de atención a enfermedades endémicas, epidémicas, de transmisión sexual y del VIH/SIDA, así como programas de prevención e información sobre las mismas.
-
-XIII. Las demás acciones que coadyuven a asegurar el derecho y la salud en forma integral.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 71.
 
-Las niñas, niños y adolescentes, tienen derecho a una educación que respete su dignidad y les prepare para la vida, la cual consiste:
-
-I. A que se les proporcione la atención educativa que por su edad, madurez y circunstancias especiales, requieran para su pleno desarrollo;
-
-II. A que se evite la discriminación en materia de oportunidades educativas;
-
-III. A los que poseen cualidades intelectuales por encima de la media, tengan derecho a una educación acorde a sus capacidades, así como a contar con las condiciones adecuadas que les permita integrarse a la sociedad;
-
-IV. A que se impulse la enseñanza y respeto a los derechos humanos en especial a la no discriminación y de la convivencia sin violencia;
-
-V. A que se prevean mecanismos de participación democrática en todas las actividades escolares, como medio de formación ciudadana; y,
-
-VI. A que se impida en las instituciones educativas la imposición de medidas de disciplina que no estén previamente establecidas, sean contrarias a su dignidad, atente contra su vida o su integridad física o mental.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 72.
 
-En la protección de los derechos de las niñas, niños y adolescentes que presenten discapacidad, se establecerán normas tendentes a:
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-I. Que las niñas, niños y adolescentes con discapacidad tanto física, intelectual o sensorial, no podrán ser discriminados por ningún motivo, independientemente de los demás derechos que reconocen y otorga este Código; tienen derecho a desarrollar plenamente sus aptitudes y a gozar de una vida digna, que les permita integrarse a la sociedad, participando en la medida de sus posibilidades, en el ámbito escolar, laboral, cultural, recreativo y económico;
-
-II. Ofrecer apoyos educativos y formativos a padres y familiares de menores con discapacidad, a fin de aportarles los medios necesarios para que puedan fomentar su desarrollo y vida digna;
-
-III. Promover acciones interdisciplinarias para el estudio, diagnóstico temprano, tratamiento y rehabilitación de las discapacidades de los menores, que en cada caso se necesiten, asegurando que sean accesibles a las posibilidades económicas de sus familias;
-
-IV. Fomentar centros educativos especiales y proyectos de educación especial, que permita a menores con discapacidad, integrarse en la medida de su capacidad a los sistemas educativos regulares, disponiendo de cuidados elementales gratuitos, acceso a programas de estimulación temprana, servicios de salud, rehabilitación, esparcimiento, actividades ocupacionales, así como a la capacitación para el trabajo, para lo cual se promoverá, de no contarse con estos servicios, su creación; y,
-
-V. Adaptar el medio que rodea a menores con discapacidad a sus necesidades particulares.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 73.
 
-Las niñas, niños y adolescentes tienen derecho al pensamiento y a una cultura propia consistente:
-
-I. A gozar de libertad de pensamiento y conciencia; y,
-
-II. Cuando pertenezcan a un pueblo o comunidad indígena, tienen derecho a disfrutar libremente de su lengua, cultura, usos y costumbres, religión, recursos y formas específicas de organización social.
-
-Lo dispuesto en el párrafo anterior, no debe entenderse como limitativo del ejercicio del derecho a la educación, según lo dispuesto en el Artículo 3°, de la Constitución Política de los Estados Unidos Mexicanos, ni de ningún otro protegido por este Código.
-
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 73 Bis.
 
-Las niñas, niños y adolescentes tendrán derecho a la cultura, que consiste en:
-
-I. Acceder a espacios culturales, que fomenten el conocimiento de sus valores, historia y tradiciones.
-
-II. El conocimiento y la participación de las niñas, niños y adolescentes en la cultura y las artes, así como su acercamiento y adaptación a las diferentes etapas de desarrollo por las que atraviesan.
-
-III. Acceder a los servicios de información, documentación, bibliotecas y demás servicios culturales públicos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 74.
 
-El derecho de participación de las niñas, niños y adolescentes consiste en:
-
-I. Libertad de expresión; la cual incluye sus opiniones y a ser informado. Dichas libertades se ejercerán sin más límite, que lo previsto por la Constitución Federal;
-
-II. Ejercer sus capacidades de opinión, análisis, crítica y de presentar propuestas en todos los ámbitos en los que viven, trátese de familia, escuela, sociedad, o cualquier otro, sin más limitaciones, que las que establezca la Constitución Federal y dicte el respeto de los derechos de terceros;
-
-III. Informarse, en cumplimiento de este derecho, se establecerá en normas y se diseñarán políticas, a fin de que estén orientados en el ejercicio del derecho a que se refiere el inciso anterior, así mismo, se pondrá especial énfasis en medidas que los protejan de peligros que puedan afectar su vida, su salud o desarrollo;
-
-IV. Expresar opinión; implica, que se les tome su parecer respecto de los asuntos que los afecte, que se les escuche y tomen en cuenta sus opiniones y propuestas respectos a los asuntos de su familia o comunidad, como también el contenido de las resoluciones que les concierne; y,
-
-V. Reunirse y asociarse. Las Leyes, deben disponer lo necesario para que puedan ejercerlo sin más límites que lo que establece la Constitución.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 75.
 
-El presente Código protegerá los derechos de las niñas, niños y adolescentes, que se encuentren en conflicto con la ley penal, de cualquier injerencia arbitraria o contraria a sus garantías constitucionales o a los derechos reconocidos en este Código y en los Tratados suscritos por nuestro país, en los términos del artículo 133, Constitucional, los cuales consisten en:
-
-I. Que no sean sometidos a torturas ni a otros tratos o penas crueles inhumanas o degradantes;
-
-II. Que no sean privados de su libertad de manera ilegal o arbitraria, la detención o privación de la libertad del adolescente se llevará a cabo de conformidad con la Ley y respetando las garantías de audiencia, defensa y derechos procésales que reconoce la Constitución Federal;
-
-III. Que la privación de la libertad sea aplicada, siempre y cuando se haya comprobado que se infringió gravemente la Ley penal y como último recurso, durante el periodo más breve posible, atendiendo al principio del interés superior del menor; y,
-
-IV. Que entre las medidas de tratamiento que se apliquen a quienes infrinjan la Ley penal, se encuentren las siguientes: el cuidado, orientación, supervisión, asesoramiento, libertad vigilada, colocación de hogares de guarda, programas de enseñanza y formación profesional, así como otras posibilidades alternativas a la internación a instituciones, para asegurar que sean tratados de manera apropiada, para su reintegración y adaptación social, su función de bienestar cuidando que la medida aplicada guarde proporción entre las circunstancias de su condición y la sanción correspondiente.
-
-En las Leyes penales, se diferenciarán las medidas de tratamiento e internamiento para aquellos casos en que se infrinja la Ley penal, cuando se trate de delitos graves o de delincuencia organizada por los mismos adolescentes, ante lo cual se podrán prolongar o aumentar las medidas de tratamiento y, en último caso, optar por la internación, debiendo observar los siguientes principios:
-
-a) Que todo aquel adolescente que presuntamente ha infringido las Leyes penales, tenga derecho a un pronto acceso a la asistencia jurídica y a cualquier otra asistencia adecuada, a fin de salvaguardar sus derechos, consecuentemente se promoverá el establecimiento de defensores de oficio especializados.
-
-b) Que en caso se presuma, que se ha infringido la Ley penal, se respete el derecho a la presencia de sus ascendientes, tutores, custodios, o de quien esté responsabilizado de su cuidado.
-
-c) Que a quien se prive legalmente de su libertad, sea tratado, respetando sus derechos humanos y la dignidad inherente a toda persona.
-
-d) Que quienes sean privados de su libertad, tengan derecho a mantener contacto permanente y constante con su familia, con la cual podrá convivir, salvo en los casos que lo impida el interés superior del menor.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 76.
 
-Las niñas, niños y adolescentes tienen derecho al descanso, recreación esparcimiento, deporte y al juego, los cuales serán respetados como factores primordiales de su desarrollo y crecimiento, así como fortalecer los valores de solidaridad, tolerancia, identidad cultural y artísticas y conservación del medio ambiente de su comunidad.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 77.
 
-Por ninguna razón ni circunstancia, se les podrán imponer regímenes de vida, estudio, trabajo y reglas de disciplina que impliquen la renuncia o el menoscabo de estos derechos.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 78.
 
-Para garantizar la protección de los derechos reconocidos en este Código, se reitera la prohibición constitucional de contratar laboralmente a menores de 14 años, bajo cualquier circunstancia.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
-A los que infrinjan tal prohibición y que además pongan en peligro su integridad y desarrollo, se les impondrá las sanciones que establece el código penal.
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)</small>
 
-## Título Segundo. Obligación de los Padres, Tutores y Personas Responsables
+## Título Segundo
 
-### Capítulo Único. Generalidades
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+### Capítulo Único
 
 ###### Artículo 79.
 
-Son obligaciones de padres, madres y de todas las personas que tengan a su cuidado un menor de dieciocho años:
-
-I. Proporcionarles una vida digna, garantizando la satisfacción de alimentación, así como el pleno y armónico desarrollo de su personalidad en el seno de la familia, escuela y la sociedad;
-
-Para los efectos de este precepto, la alimentación comprende esencialmente la satisfacción de las necesidades de comida, habitación, educación, vestido, asistencia en caso de enfermedad y recreación.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-Las normas dispondrán lo necesario para garantizar el cumplimiento de los deberes antes señalados. En todo caso, se preverán los procedimientos y la asistencia jurídica necesaria para asegurar que ascendientes, padres, tutores y responsables de niñas, niños o adolescentes, cumplan con su deber de dar alimentos. Se establecerá en las leyes respectivas, la responsabilidad penal para quienes incurran en abandono de personas.
-
-> <small>(REFORMADA EN SU PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-II. Protegerlos contra toda forma de maltrato, perjuicio, daño, agresión, abuso y explotación. Lo anterior implica que la facultad que tienen quienes ejercen la patria potestad o la custodia de niñas, niños y adolescentes, no podrán al ejercerla, atentar contra su integridad física o mental ni actuar en menoscabo de su desarrollo.
-
-Las autoridades estatales y municipales, en el ámbito de sus respectivas atribuciones, impulsarán la prestación de servicios de guardería, así como auxilio y apoyo a los ascendientes o tutores responsables que trabajen.
-
-III. Tratarlos con respeto a su dignidad y a sus derechos; cuidarlos, atenderlos y orientarlos a fin de que conozcan sus derechos, aprendan a defenderlos y a respetar el de las otras personas; y,
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-IV. Será obligación de familiares, vecinos, médicos, maestros, trabajadores sociales; servidores públicos, o cualquier persona, que tenga conocimiento de casos de niñas, niños y adolescentes, que estén sufriendo la violación de sus derechos consignados en este Código, en cualquiera de sus formas, de ponerlo en conocimiento inmediato a la Procuraduría, de manera que pueda seguirse la investigación correspondiente en las escuelas o instituciones similares. Los educadores o maestros serán responsables de evitar cualquier forma de maltrato, perjuicio, daño, agresión, abuso o explotación, en contra de niñas, niños y adolescentes.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 80.
 
-Corresponde al padre y a la madre los deberes enunciados en el artículo anterior y consecuentemente, dentro de la familia y en relación con las hijas e hijos, tendrán autoridad y consideraciones iguales. El hecho de que alguno de los padres no viva en el mismo hogar, no será impedimento para que no cumpla las obligaciones que le impone este Código.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 81.
 
-Es obligación de los progenitores, miembros de la familia y responsables del cuidado de las niñas y niños, el que éstos reciban la aplicación de las vacunas que comprenden el esquema básico; acudiendo para ello a las clínicas del sector salud del Estado o centros temporales de vacunación.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 82.
 
-La Secretaría de Desarrollo y Participación Social en coordinación con el DIF Chiapas, instrumentarán los mecanismos conforme a los cuales las autoridades y las instituciones los apoyen y asistan en el cumplimiento de sus responsabilidades.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 83.
 
-El Gobierno del Estado a través de la Secretaría de Desarrollo y Participación Social y el DIF Chiapas, en coordinación con las demás instancias locales y federales, establecerán las normas y los mecanismos necesarios a fin de que, cuando las niñas, niños y adolescentes se vean separados de su familia de origen, se procure su reencuentro con ella, o bien para la localización de sus familiares en los casos de abandono, sustracción ilícita, separación por sentencia judicial, ausencia o muerte de los progenitores.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 84.
 
-Cuando un menor de dieciocho años se vea privado de su familia tendrá derecho a recibir el apoyo de la Secretaría de Desarrolló y Participación Social y del DIF Chiapas, quienes deberán brindarle asistencia social, atención integral y en su caso, proporcionarle un hogar provisional.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
-## Título Tercero. De la Procuración
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)</small>
 
-### Capítulo Único. Disposiciones Generales
+## Título Tercero
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)</small>
+
+### Capítulo Único
 
 ###### Artículo 85.
 
-Para una mejor defensa y protección de los derechos de las niñas, niños y adolescentes, el DIF Chiapas, a través de la Procuraduría de la Familia y Grupos Vulnerables, además de las facultades que le confiere otras disposiciones legales, será la instancia especializada con funciones de autoridad para la efectiva procuración del respeto de tales derechos.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 86.
 
-La Procuraduría, tendrá las facultades siguientes:
-
-I. Vigilar la observancia de las garantías constitucionales que salvaguardan los derechos de menores, las disposiciones contenidas en los tratados internacionales suscritos por nuestro país, en los términos del artículo 133, Constitucional y las previstas en la legislación local aplicable;
-
-II. Representar legalmente los intereses de los menores ante las autoridades judiciales o administrativas, sin contravenir las disposiciones legales aplicables;
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
-III. Aplicar los medios alternativos de solución de conflictos, en caso de que se presenten conflictos familiares, cuando se vulneren los derechos y garantías de los menores, en los términos de este Código y de la Ley de Justicia Alternativa del Estado de Chiapas.
-
-IV. Denunciar ante el Fiscal del Ministerio Público, todos aquellos hechos que se presuman constitutivos de un delito, coadyuvando en la averiguación previa;
-
-V. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones a favor de la atención, defensa y protección de los derechos de los menores;
-
-VI. Asesorar a las autoridades competentes y a los sectores social y privado, en lo relativo a la protección de los derechos de los menores;
-
-VII. Realizar, promover y difundir estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de sus derechos y hacerlos llegar a las autoridades competentes y a los sectores social y privado, para su incorporación a los programas correspondientes que desarrollen;
-
-VIII. Definir, instrumentar y ejecutar políticas y mecanismos que garanticen la protección de los derechos de los menores;
-
-IX. Aplicar las sanciones establecidas en este Código; y,
-
-X. Las demás que le confieran expresamente las disposiciones legales aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 87.
 
-Cuando el DIF Chiapas tenga conocimiento o reciba una denuncia, por un supuesto hecho o maltrato a los derechos de las niñas, niños y adolescentes, se procederá de la siguiente manera:
-
-I. Turnará el asunto a la Procuraduría;
-
-II. La Procuraduría, realizará una: investigación de trabajo social, para verificar la autenticidad del maltrato o de los hechos que le fueron denunciados;
-
-III. De considerar que no es grave la violación a los derechos de los menores, procederá a citar hasta por tres veces a los padres o encargados de los cuidados y atenciones de los menores, en caso de no acudir, se harán comparecer mediante el uso de la fuerza pública;
-
-IV. Una vez que comparezca ante la Procuraduría, se procederá a apercibirlo sobre los cuidados y atenciones que le deben brindar, a los menores, de acuerdo a su edad y sexo; y,
-
-V. Cuando la violación de los derechos de los menores sea grave, queda a criterio de la Procuraduría, determinar si es reintegrado nuevamente a su núcleo familiar, bajo un estricto compromiso de los tutores o encargados de sus cuidados, o queda temporalmente albergado en una casa hogar hasta que se resuelva la situación jurídica de su agresor, en términos del artículo siguiente.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 88.
 
-Cuando la violación sea grave, se realizará la denuncia ante el Fiscal del Ministerio Público, para que de acuerdo a su facultad y competencia inicie la averiguación previa, coadyuvando la
-
-Procuraduría, a realizar las investigaciones para reunir todos los elementos que acrediten el cuerpo del delito y la probable responsabilidad, que permitan al Fiscal del Ministerio Público, actuar de acuerdo a sus atribuciones constitucionales.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 89.
 
-Una vez que la Procuraduría tenga conocimiento de una violación a los derechos de las niñas, niños y adolescentes, ésta deberá:
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-I. Actuar salvaguardando la integridad física y mental de las niñas, niños y adolescentes;
-
-II. Solicitar el apoyo y cooperación de una casa hogar para albergarlos, en caso de no tener familiares; y,
-
-III. Realizar la denuncia correspondiente ante el Fiscal del Ministerio Público, en casos graves, para la integración de la averiguación previa.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 90.
 
-La Procuraduría General de Justicia del Estado, deberá establecer dentro de su estructura orgánica, Fiscalías del Ministerio Público especializadas en delitos cometidos en contra de menores de 18 años, las cuales deberán estar integradas por personal especializado en la atención de las niñas, niños y adolescentes.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 91.
 
-En lo relativo a los medios de solución de conflictos, de conciliación, mediación o arbitraje, la Procuraduría, aplicará el procedimiento previsto en el Título Segundo, del Libro Tercero de este Código, así como lo señalado en la Ley de Justicia Alternativa del Estado de Chiapas.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
-Referente a las infracciones, la Procuraduría, aplicará en lo conducente lo previsto en el Título Segundo, del Libro Tercero de este Código.
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+## Título Cuarto
 
-La Procuraduría, para asistir a las niñas, niños y adolescentes indígenas en las diligencias que así lo requieran, podrá solicitar la colaboración de traductores a la Comisión Nacional de Pueblos Indígenas o a la Secretaría de Pueblos Indios del Gobierno del Estado y demás instituciones afines.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)</small>
 
-## Título Cuarto. Del Comité de Seguimiento y Vigilancia de los Derechos de las Niñas, Niños y Adolescentes en el Estado
-
-### Capítulo I. De la Constitución y Objetivos
+### Capítulo I
 
 ###### Artículo 92.
 
-El Comité estará integrado de la manera siguiente:
-
-I. El Pleno: Es el órgano colegiado honorario integrado por los titulares de las dependencias del gobierno estatal, que en el presente capítulo se señala, así como por tres diputados integrantes de las comisiones de atención de la mujer y la niñez, equidad y género y atención a grupos vulnerables del Honorable Congreso del Estado;
-
-II. Un Presidente: Que será el Gobernador del Estado, quien tendrá voto de calidad;
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
-III. Un Vicepresidente: Que será la Presidenta del Consejo Ciudadano Consultivo;
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
-IV. Un Secretario Técnico: Que será el titular del Sistema para el Desarrollo Integral de la Familia;
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-V. Vocales A: Que serán los titulares de las Dependencias y Entidades siguientes: Secretaría de Desarrollo y Participación Social, de Hacienda, para el Desarrollo y Empoderamiento de las Mujeres, de Salud, de Educación, de Pueblos Indios, de Seguridad y Protección Ciudadana, de la Procuraduría General de Justicia del Estado, del Instituto de Población y Ciudades Rurales e Instituto del Deporte;
-
-VI. Vocales B: Que serán tres diputados integrantes de las comisiones de atención de la mujer y la niñez, equidad y género, atención a grupos vulnerables, del Honorable Congreso del Estado; quienes podrán participar con voz pero no con voto.
-
-Los integrantes del Comité anteriormente señalados, podrán nombrar a un representante del nivel jerárquico inmediato, quienes asistirán de manera permanente a las sesiones de trabajo.
-
-De igual forma, el Comité podrá invitar a sus reuniones a representantes del sector social y privado reconocido por sus actividades a favor de los derechos de las niñas, niños y adolescentes, los cuales podrán participar con voz pero no con voto.
-
-Sesionará en forma ordinaria de manera trimestral, y extraordinariamente a petición expresa del Presidente, o de la mitad de los miembros del Comité, a través del Secretario Técnico, quien deberá emitir la convocatoria; debiendo tomar los acuerdos por mayoría de votos.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 93.
 
-Los objetivos del Comité son, de manera general y enunciativa:
-
-I. Fortalecer las capacidades de las instituciones gubernamentales, a fin de que sean instrumentadas políticas, programas y servicios que garanticen a las niñas, niños y adolescentes, el cabal cumplimiento del presente Código.
-
-II. Crear en el ámbito de sus competencias, los mecanismos e instrumentos que permitan dar seguimiento y evaluar el progreso registrado en la aplicación de los derechos de las niñas, niños y adolescentes, los avances de los programas y acciones emprendidos para el disfrute de tales derechos.
-
-III. Instrumentar estrategias encaminadas a generar un proceso de cambio social, que permita desarrollar una cultura de respeto a las niñas, niños y adolescentes en el Estado, respaldada por leyes y políticas públicas.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 94.
 
-Los cargos que desempeñen todos los miembros del Comité, serán honoríficos.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 95.
 
-El Comité se considera legalmente instalado, cuando en las sesiones estén presentes la mitad más uno de sus miembros y se encuentre su Presidente o su respectivo suplente.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 96.
 
-Las decisiones del Comité se tomarán por mayoría de votos y todos sus miembros tendrán la obligación de pronunciarse en las votaciones, en caso de empate, el Presidente o quien lo represente tendrá voto de calidad.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 97.
 
-Los Ayuntamientos de los municipios del Estado, constituirán los Comités de Seguimiento y Vigilancia de la aplicación de este Código.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
-### Capítulo II. De las Funciones del Comité
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+### Capítulo II
 
 ###### Artículo 98.
 
-El Comité, tendrá dentro de sus funciones:
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
-I. Establecer estrategias interinstitucionales que permitan elaborar y mantener actualizado los análisis de situaciones de las niñas, niños y adolescentes.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)</small>
 
-II. Diseñar e instrumentar programas y acciones interinstitucionales y de vinculación con la sociedad civil, que permitan dar cumplimiento a los principios y disposiciones emanadas de la Convención sobre los derechos de la niñez, así como del presente Código.
-
-III. Promover estrategias encaminadas a generar un proceso de cambio social para hacer de los derechos de las niñas, niños y adolescentes, una práctica cotidiana entre las familias y las comunidades en la Entidad.
-
-IV. Impulsar acciones de difusión sobre los derechos de las niñas, niños y adolescentes, así como promover, a través de los medios masivos de comunicación, la sensibilización comunitaria acerca de la problemática que viven algunos menores en la Entidad.
-
-V. Diseñar y proponer modelos de intervención, en los cuales las instituciones puedan articular sus recursos humanos, materiales y operativos para la atención y prevención de la problemática que enfrentan las niñas, niños y adolescentes y que limitan su adecuado desarrollo.
-
-VI. Propiciar que los principios básicos de la Convención, sean considerados en el proceso de toma de decisiones y en la formulación e instrumentación de las políticas, programas y presupuestos, que tengan impacto directo en las acciones a favor de las niñas, niños y adolescentes que se ejecuten en la Entidad.
-
-VII. Apoyar y colaborar en el diseño y ejecución de los programas de acción, a favor de la infancia a nivel estatal.
-
-VIII. Promover las adecuaciones legislativas a fin de hacer compatibles las leyes, normas y reglamentos estatales, con los principios de la Constitución Política de los Estados Unidos Mexicanos, la Convención sobre los derechos de la niñez, así como los derechos que se establecen en el· presente ordenamiento.
-
-IX. Celebrar convenios de colaboración con el Fondo de las Naciones Unidas para la Infancia (UNICEF), Sistema Nacional para el Desarrollo Integral de la Familia (DIF), así como con los Comités Municipales de Seguimiento y Vigilancia de la aplicación del presente Código, y demás instancias protectoras de los derechos de la infancia, que permitan unificar criterios en la promoción y protección de los derechos de las niñas, niños y adolescentes.
-
-X. Fomentar y fortalecer la colaboración, concertación, coordinación y participación corresponsable de instituciones públicas y privadas en la realización de acciones para garantizar el ejercicio de los derechos de las niñas, niños y adolescentes.
-
-XI. Proponer los mecanismos e instrumentos tendientes a la consecución de aportaciones y donaciones que realicen las personas físicas o morales, públicas o privadas, de carácter local, nacional o internacional, con el propósito de coadyuvar con el cumplimiento, respeto y ejecución de los planes y programas dirigidos en beneficio de las niñas, niños y adolescentes.
-
-XII. Fomentar y supervisar las acciones de los Comités municipales que al efecto se integren, de conformidad con el artículo 91, del presente Código.
-
-XIII. Las demás que señale el presente Código y demás disposiciones aplicables.
-
-### Capítulo III. Del Pleno del Comité
+### Capítulo III
 
 ###### Artículo 99.
 
-Corresponde al Pleno del Comité:
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
-I. Conocer y en su caso, aprobar el programa general de trabajo del Comité;
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)</small>
 
-II. Proponer asuntos a tratar en el seno del Comité;
-
-III. Determinar las líneas de acción en los casos que resulte importante incidir en la creación o modificación de leyes, políticas, programas o proyectos gubernamentales que busquen mejorar el desarrollo de la población infantil;
-
-IV. Dictar las medidas que se estimen convenientes para alcanzar los propósitos definidos;
-
-V. Conocer los avances en la instalación de comités municipales; y,
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-VI. Emitir las recomendaciones necesarias a las Instituciones Públicas y Privadas que realicen actividades en beneficio de las niñas, niños y adolescentes.
-
-### Capítulo IV. De los Integrantes
+### Capítulo IV
 
 ###### Artículo 100.
 
-Corresponde al Presidente del Comité las facultades siguientes:
-
-I. Presidir las sesiones del Comité;
-
-II. Convocar a las reuniones ordinarias y extraordinarias del Comité;
-
-III. Promover y vigilar el cumplimiento de las acciones acordadas en las reuniones del Comité, de conformidad con los plazos establecidos y las responsabilidades asignadas;
-
-IV. Promover y vigilar el cumplimiento de los lineamientos de operación del Comité;
-
-V. Dictar las medidas que se estimen convenientes para alcanzar los propósitos definidos;
-
-VI. Someter los acuerdos tomados en las sesiones del Comité, y en su caso, emitir voto de calidad cuando así se requiera;
-
-VII. Firmar las actas de sesión del Comité;
-
-VIII. Proponer al Pleno la integración de grupos auxiliares de trabajo, que no dupliquen las funciones de los ya existentes, para el análisis detallado de los asuntos que así lo ameriten; y,
-
-IX. Representar al Comité para todos los actos que se requiera.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 101.
 
-Corresponde a la Presidenta del Consejo Ciudadano Consultivo:
-
-I. Fungir como vicepresidente del Comité; y,
-
-II. Suplir al Presidente en las funciones establecidas en el artículo anterior.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 102.
 
-Corresponde al Secretario Técnico:
-
-I. Fungir como Secretario Técnico del Comité;
-
-II. Suplir al Presidente y Vicepresidente en las sesiones;
-
-III. Organizar, planear y coordinar las reuniones del Comité, estableciendo con anticipación el orden del día, los asuntos a tratar, así como verificar la participación e integración del quórum de la reunión;
-
-IV. Coordinar la ejecución de acuerdos y resoluciones del Comité, así como las gestiones necesarias para su cumplimiento e informar el grado de avance;
-
-V. Definir los mecanismos de cumplimiento de objetivos;
-
-VI. Coordinar la elaboración del programa anual de trabajo del Comité y la formulación de los informes que permitan conocer el funcionamiento y operatividad del mismo;
-
-VII. Coordinar el cumplimiento y seguimiento del programa anual de trabajo;
-
-VIII. Organizar y coordinar el funcionamiento de los grupos de trabajo;
-
-IX. Promover y coordinar la instalación de Comités municipales;
-
-X. Elaborar el acta respectiva de cada reunión y firmarla conjuntamente con el presidente o vicepresidente, según corresponda, así como resguardarla con la documentación que sea utilizada;
-
-XI. Organizar las comisiones que el Pleno encomiende y las demás que sean asignadas por el Presidente y/o Vicepresidente del Comité;
-
-XII. Promover y mantener los canales adecuados de comunicación e información con los integrantes del Comité;
-
-XIII. Mantener permanentemente informados al Pleno y al Presidente sobre la situación que guardan los asuntos del Comité; y,
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-XIV. Promover y mantener la coordinación con instituciones y dependencias que coadyuven a mejorar las condiciones de las niñas, niños y adolescentes.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 103.
 
-Corresponde al titular del DIF Chiapas, además de las atribuciones establecidas en el artículo anterior:
-
-I. Planear, coordinar y evaluar políticas y acciones de integración e inclusión, protección y desarrollo de las niñas y adolescentes y sus familias en estado de riesgo de vulnerabilidad, marginación e indefensión.
-
-II. Fomentará y coordinará el desarrollo de acciones con las dependencias del Ejecutivo del Estado, los gobiernos municipales y los sectores públicos y privados a favor de las niñas, niños y adolescentes.
-
-III. Fomentar la educación en coordinación con las autoridades competentes para la integración e inclusión social de las niñas, niños y adolescentes en riesgo de vulnerabilidad, marginación o indefensión, a través de los instrumentos de la enseñanza escolar y extraescolar.
-
-IV. Fomentar el sano crecimiento físico y mental de las niñas, niños y adolescentes, contribuyendo a la formación de su conciencia crítica, desde temprana edad.
-
-V. Fomentar, apoyar, coordinar y evaluar las actividades de las instituciones de asistencia pública o privada, organismos civiles y demás entidades cuyo objeto sea la prestación de servicios en beneficio de las niñas, niños y adolescentes en Estado de vulnerabilidad, sin perjuicio de las atribuciones que al efecto corresponda a otras dependencias o entidades.
-
-VI. Desarrollar acciones en materia de prevención y rehabilitación de discapacidades en las niñas, niños y adolescentes.
-
-VII. Fomentar y gestionar con las autoridades federales, estatales o municipales servicios asistenciales.
-
-VIII. Uniformar los procedimientos que determinen la orientación general a que deben sujetarse los programas de protección de las niñas, niños y adolescentes.
-
-IX. Proponer a las instancias competentes, la promoción de la educación popular en lo referente a la higiene de las niñas, niños y adolescentes; a la formación de buenos hábitos; a la educación familiar, entre otros, a través de conferencias, exposiciones, revistas, folletos, volantes, carteles o cualquier otro medio de comunicación masiva.
-
-X. Realizar encuestas o investigaciones sobre cualquier asunto que o se refiera a la protección e interés superior de las niñas, niños y adolescentes, requiriendo para tal objeto, la cooperación de las instituciones públicas.
-
-XI. Gestionar ante los Ayuntamientos Municipales, la habilitación de espacios especiales, plazas y parques públicos, destinados a la asistencia social, recreación y esparcimiento de las niñas, niños y adolescentes.
-
-XII. Celebrar convenios con las dependencias y entidades de la administración pública federal, estatal y municipal, así como los sectores público, social y privado, para el cumplimiento de los objetivos enumerados en este artículo.
-
-XIII. Las que establezcan las leyes y demás disposiciones jurídicas aplicables.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 104.
 
-El Comité contará con los vocales siguientes:
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)</small>
 
-Vocales A. Integrado por los titulares de las Secretarías de Desarrollo y Participación Social, de Hacienda, de Salud, de Educación, para el Desarrollo y Empoderamiento de las Mujeres, de Pueblos Indios, de Seguridad y Protección Ciudadana, de la Procuraduría General de Justicia del Estado, del Instituto de Población y Ciudades Rurales, y del Instituto del Deporte.
+## Título Quinto
 
-Vocales B. Integrado por tres diputados de la Comisión de Atención de la Mujer y la Niñez y/o Equidad y Género del Congreso del Estado.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)</small>
 
-A los vocales A, les corresponde, además de las funciones establecidas en el Artículo 98, de este Código, las siguientes:
-
-I. Asistir y participar en las reuniones de trabajo;
-
-II. Participar en la elaboración del programa de trabajo anual del grupo correspondiente;
-
-III. Cumplir con el programa de trabajo establecido;
-
-IV. Encausar las acciones de los integrantes del Comité, para dar cumplimiento a los principios y disposiciones de la Convención de los derechos de la niñez, la Constitución General y las que emanen del presente Código;
-
-V. Difundir entre las dependencias, organismos e instituciones participantes, los lineamientos generales para el cumplimiento de las acciones emprendidas por el grupo de trabajo correspondiente;
-
-VI. Cumplir y dar seguimiento a los compromisos y acuerdos que se establezcan en las reuniones de trabajo, encaminados a la protección de los derechos de los menores en el Estado;
-
-VII. Integrar los informes correspondientes, derivados del funcionamiento de los grupos de trabajo;
-
-VIII. Informar el desarrollo y avance de las acciones conferidas, de acuerdo a sus respectivas competencias que establecen los ordenamientos legales que les rigen, con el fin de promover, proteger, fomentar, coordinar e instrumentar políticas públicas, acciones y programas para la protección de los derechos de los menores establecidas en este Código;
-
-IX. Proponer asuntos a tratar en el seno del comité;
-
-X. Proponer la incorporación de nuevos integrantes al comité; y,
-
-XI. Las demás que le sean asignadas por el Pleno.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-## Título Quinto. De la Atención a Situaciones de Riesgo
-
-> <small>N. DE E. DE CONFORMIDAD CON LA REFORMA DEL CÓDIGO DE ATENCIÓN A LA FAMILIA Y GRUPOS VULNERABLES ES REFORMADA LA DENOMINACIÓN DEL CAPÍTULO I, PARA QUEDAR COMO CAPÍTULO ÚNICO COMPRENDIENDO LOS ARTÍCULOS DEL 105 AL 118, ASÍ MISMO, SE DEROGAN LAS DENOMINACIONES DE LOS CAPÍTULOS II, III, IV Y V.</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-### Capítulo Único. De las Acciones
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+### Capítulo Único
 
 ###### Artículo 105.
 
-Toda persona que tenga conocimiento de niñas, niños y adolescentes que se encuentre en condiciones de abandono, maltrato o marginación, podrá pedir la intervención de las autoridades competentes, para que se apliquen de inmediato las medidas necesarias para su protección y atención.
-
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 105 Bis.
 
-No deberá considerarse como exposición ni estado de abandono de niñas, niños y adolescentes, cuando los progenitores laboren a distancias, que ocasionen dificultades para darles la correcta atención, siempre y cuando las niñas, niños y adolescentes estén al debido cuidado de otra persona y sean tratados sin violencia.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 106.
 
-Para efectos del artículo interior, el Ejecutivo Estatal establecerá programas interinstitucionales para proteger a las niñas, niños y adolescentes que se encuentren en situaciones de riesgo que impidan su desarrollo integral.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 107.
 
-Las niñas, niños y adolescentes adictos a sustancias que producen dependencia, tendrán derecho a recibir tratamiento médico, tendiente a su rehabilitación, tomándose las medidas necesarias a fin de apoyar su salud física y psicológica, para tal fin la Secretaría de Salud, reforzará y creará programas integrales enfocados a la problemática particular asociada a los distintos tipos de drogas y a las formas de dependencia física y emocional.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 108.
 
-Tratándose de las niñas, niños y adolescentes adictos a sustancias que producen dependencia, se atenderán para su rehabilitación en la Dirección de Atención a Grupos Vulnerables, del DIF Chiapas o, en su caso, se canalizará al CENTRA dependiente de la Procuraduría General de Justicia del Estado o a alguna otra institución que le brinde el servicio correspondiente.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 109.
 
-La Secretaría de Salud, establecerá las campañas preventivas tendientes a crear en las familias y la sociedad, la sensibilización y concientización sobre los efectos nocivos del uso de estupefacientes o sustancias que produzcan adicción.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 110.
 
-Cualquier persona o servidor público que tenga conocimiento de que algunas niñas, niños y adolescentes hayan sufrido maltrato o se encuentre en riesgo su integridad, tendrá la obligación de hacerlo del conocimiento del Fiscal del Ministerio Público.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 111.
 
-Aún cuando la niña, niño y/o adolescente se encuentre en custodia de su padre, madre, tutor o de cualquier persona que lo tenga legalmente o bajo su protección, el Fiscal del Ministerio Público, en ejercicio de sus atribuciones constitucionales, está facultado para intervenir de oficio, en los casos en que su integridad física o psíquica estén en peligro, a fin de proceder siempre en atención a su interés superior.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 112.
 
-La Secretaría de Desarrollo y Participación Social, en coordinación con el DIF Chiapas, tendrán la obligación de establecer un programa específico y prioritario para brindar a las niñas, niños y adolescentes que se encuentren en situación de calle, las medidas de defensa jurídica, de provisión, protección y asistencia.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 113.
 
-La Secretaría de Desarrollo y Participación Social y el DIF Chiapas, establecerán la coordinación y concertación, con organismos, instituciones e instancias competentes para generar la participación efectiva de la comunidad y de las organizaciones sociales, en beneficio de las niñas, niños y adolescentes que se encuentren en situación de calle.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 114.
 
-La Secretaría de Desarrollo y Participación Social y el DIF Chiapas; impulsarán e implementarán medidas tendientes a prevenir y evitar que las niñas, niños y adolescentes realicen actividades marginales o de sobrevivencia, procurando integrarlos a programas compensatorios, como los de becas, desayunos escolares, despensas, útiles escolares, entre otros; realizando las acciones que se requieran para protegerlos y evitar su explotación.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 115.
 
-Para la atención a las niñas, niños y adolescentes que se encuentren en situación de calle, el DIF Chiapas brindará el apoyo de terapias psicológicas, a través de la Dirección de Atención a Grupos Vulnerables, así como los aspectos legales, por medio de la Procuraduría; además de la participación; que en el ámbito de su competencia corresponda a los Gobiernos Municipales.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 116.
 
-La Secretaría de Desarrollo y Participación Social, la Secretaría de Salud y el DIF Chiapas, propiciarán con la participación de los organismos públicos e instituciones privadas, los programas dirigidos a las niñas, niños y adolescentes con discapacidad, para su rehabilitación, su integración familiar, educativa, social y la creación de talleres para capacitación laboral, así como la recreación y participación en el deporte y demás medios dirigidos a su rehabilitación.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 117.
 
-La Secretaría de Desarrollo y Participación Social, en coordinación con el DIF Chiapas, implementarán las acciones encaminadas en la protección y cuidado de las niñas, niños y adolescentes con discapacidad, los servicios inherentes a estas medidas se proporcionarán gratuitamente, cuando las condiciones económicas de los afectados así lo requieran.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 118.
 
-El DIF Chiapas brindará el apoyo de rehabilitación a las niñas, niños y adolescentes con discapacidad, a través de la Dirección de Atención a Grupos Vulnerables.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
-## Título Sexto. De las Sanciones y Recursos
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)</small>
 
-### Capítulo I. De las Sanciones
+## Título Sexto
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)</small>
+
+### Capítulo I
 
 ###### Artículo 119.
 
-Las infracciones a lo dispuesto en este Código, serán sancionadas por la Procuraduría, con multa equivalente hasta quinientas veces el salario mínimo general vigente en el Estado.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 120.
 
-En casos de reincidencia o particularmente graves, las multas podrán aplicarse hasta por el doble de lo previsto en el artículo anterior e inclusive arresto administrativo, hasta por treinta y seis horas. Se entiende por reincidencia, que el infractor incurra con su conducta, dos o más veces violando el mismo precepto legal.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 121.
 
-Las sanciones por infracciones a este Código y disposiciones derivadas de ella, se impondrán con base a:
-
-I. Las actas elaboradas por la autoridad;
-
-II. Las indagaciones efectuadas por el personal propio o adscrito de la institución especializada de procuración;
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-III. Los datos comprobados que aporten las niñas, niños y adolescentes o sus legítimos representantes;
-
-IV. Cualquier otro elemento o circunstancia que aporte elementos de convicción para aplicar la sanción correspondiente.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 ###### Artículo 122.
 
-Para la determinación de la sanción, la institución especializada de procuración, estará a lo dispuesto por este Código y las disposiciones derivadas de ella, considerando, en el siguiente orden:
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
-I. La gravedad de la infracción;
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)</small>
 
-II. El carácter intencional de la infracción;
-
-III. La situación de reincidencia; y,
-
-IV. La condición económica del infractor.
-
-### Capítulo II. Del Recurso Administrativo
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+### Capítulo II
 
 ###### Artículo 123.
 
-Las resoluciones dictadas por la Procuraduría, con fundamento en las disposiciones de este Código y demás disposiciones aplicables, podrán recurrirse de acuerdo a lo previsto en la Ley de Procedimientos Administrativos para el Estado de Chiapas.
+(DEROGADO POR TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS, P.O. 17 DE JUNIO DE 2015)
 
 # Libro Tercero. De la Prevención, Asistencia y Atención Integral de la Violencia Familiar
 
@@ -1837,7 +1301,7 @@ I. Asignar un trabajador social para que asista al menor ante la instancia corre
 
 II. Si los hechos son además constitutivos de cualquier delito penal, dará aviso de inmediato al Fiscal del Ministerio Público correspondiente para que de conformidad con lo establecido en las disposiciones legales, intervenga en los asuntos que afecten al menor;
 
-Pedir al órgano jurisdiccional competente, cuando el caso lo amerite, que dicte las medidas provisionales a fin de proteger a receptores de violencia familiar;
+III. Pedir al órgano jurisdiccional competente, cuando el caso lo amerite, que dicte las medidas provisionales a fin de proteger a receptores de violencia familiar;
 
 IV. En el caso de iniciarse la averiguación previa respectiva, ser coadyuvante del Fiscal del Ministerio Público de que se trate en la investigación, allegándose de toda la información que considere conveniente; y,
 
@@ -2207,7 +1671,7 @@ Corresponde a la Secretaría de Infraestructura, promover e impulsar las siguien
 
 I. Las facilidades urbanísticas y arquitectónicas;
 
-III. La construcción de accesos de vialidad;
+II. La construcción de accesos de vialidad;
 
 III. La asesoría en construcción de vivienda para personas con discapacidad;
 
@@ -3003,7 +2467,7 @@ g) A gozar de oportunidades por parte de las instituciones públicas y privadas;
 
 h) A vivir en entornos seguros, dignos y decorosos, que cumplan con sus necesidades y requerimientos y en donde ejerzan libremente sus derechos;
 
-i) Ser respetados y reconocidos en su calidad de seres humanos hombres y mujeres, como dignos adultos mayores, cualesquiera que sea su' origen étnico o racial, impedimentos o situaciones de cualquier tipo; y,
+i) Ser respetados y reconocidos en su calidad de seres humanos hombres y mujeres, como dignos adultos mayores, cualesquiera que sea su origen étnico o racial, impedimentos o situaciones de cualquier tipo; y,
 
 j) Vivir con honorabilidad en sus hogares y cerca de sus familiares hasta el último momento de su existencia, a menos que medie causa de enfermedad grave, contagiosa o mental que requiera su internamiento en instituciones especializadas; o bien que sus descendientes o parientes colaterales hasta el cuarto grado se vean imposibilitados para ofrecerles el cuidado y atención necesaria que los adultos mayores requieren.
 
@@ -3658,3 +3122,33 @@ P.O. 27 DE NOVIEMBRE DE 2014.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 17 DE JUNIO DE 2015.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Todas las modificaciones a las disposiciones normativas, derivadas de lo establecido en la presente Ley, deberán ser expedidas, en un término no mayor a 90 días hábiles, siguientes a la entrada en vigor del presente Decreto.
+
+Artículo Tercero.- Se deroga con el presente Decreto, lo relativo al Libro Segundo denominado "De la Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado", que comprende de los artículos 61 al 123, todos del Código de Atención a la Familia y Grupos Vulnerables para el Estado Libre y Soberano de Chiapas.
+
+Artículo Cuarto.- Los Sistemas de Protección Integral Estatal y Municipales, deberán integrarse a más tardar dentro de los noventa días hábiles, siguientes a la entrada en vigor del presente Decreto.
+
+El Presidente de los Sistemas de Protección Integral Estatal y Municipales, realizarán (sic) las acciones necesarias para la elaboración de sus Programa (sic), los cuales deberá (sic) aprobarse dentro de los treinta días hábiles siguientes a la instalación de dichos Sistemas.
+
+Artículo Quinto.- Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Ejecutivo del Estado en un plazo no mayor a los ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Sexto.- El Titular de la Secretaría Ejecutiva del Sistema Estatal de Protección Integral, una vez instalado el mismo, dentro de los siguientes treinta días naturales, deberá presentar a consideración y en su caso aprobación de los integrantes de dicho Sistema, el proyecto de lineamientos a que se refiere el artículo 156 de la presente Ley.
+
+Artículo Séptimo.- Los Centros de Asistencia que se encuentren operando con antelación a la entrada en vigor del presente Decreto, contarán con un plazo de 180 días naturales, a partir de la publicación del presente Decreto, para realizar las adecuaciones conducentes a su reglamentación, en términos de lo previsto en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Chiapas.
+
+Artículo Octavo.- El Ejecutivo Estatal, a través de la Secretaría de Hacienda, preverá una partida presupuestal, para coadyuvar en el cumplimiento de la presente Ley.
+
+Artículo Noveno.- La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, del Estado, deberá constituirse en un término no mayor a 90 días hábiles, siguientes a la entrada en vigor del presente Decreto.
+
+Para efectos del párrafo anterior, el Sistema DIF- Chiapas, deberá reformar la normatividad correspondiente, a fin de que se formalice la creación de dicha Procuraduría.
+
+Artículo Décimo.- Los Municipios del Estado, deberán asignar las partidas presupuestales que correspondan, para hacer lo concurrente a lo mandatado en esta Ley, para tales efectos se deberán realizar las modificaciones legales correspondientes a su legislación fiscal.
+
+Así mismo, deberán prever dentro de su presupuesto, la creación de las Procuradurías Municipales de Protección de los Derechos de las Niñas, Niños, Adolescentes y la Familia, las cuales deberán contar con al menos, un procurador, un psicólogo y un trabajador social.
+
+Artículo Décimo Primero.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
