@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2015-05-21"
+last_updated: "2015-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -139,9 +139,11 @@ Dependiendo de las necesidades del servicio que presente cada órgano jurisdicci
 
 El horario de atención al público en los órganos jurisdiccionales, será de lunes a viernes de las nueve a las quince horas, conforme al cual, todos los integrantes de dichos órganos jurisdiccionales, incluidos los titulares, deberán permanecer en éstos, a efecto de realizar la debida prestación del servicio público de justicia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 17 DE JUNIO DE 2015)</small>
+
 ###### Artículo 7.
 
-Los servidores públicos adscritos a los órganos jurisdiccionales que ocupen puestos de los niveles salariales del 11 al 33, deberán registrar su entrada y salida. Lo anterior salvo el actuario judicial, el secretario particular de Magistrado de Circuito o Juez de Distrito, y el chofer de funcionario, cuando el titular, en su caso, ordene que sean exceptuados del registro automatizado de entrada y salida.
+Los servidores públicos adscritos a los órganos jurisdiccionales que ocupen puestos de los niveles salariales del 11 al 33, deberán registrar su entrada y salida. Lo anterior salvo el secretario de juzgado o tribunal, el actuario judicial, el secretario particular de magistrados de Circuito o juez de Distrito, y el chofer de funcionario, cuando el titular, en su caso, ordene que sean exceptuados del registro automatizado de entrada y salida.
 
 Para la operación y funcionamiento del registro automatizado de entrada y salida, los servidores públicos adscritos a los órganos jurisdiccionales deberán proporcionar los datos que sean necesarios.
 
@@ -3220,3 +3222,13 @@ CUARTO. La Dirección General de Tecnologías de la Información contará con un
 QUINTO. Las oficinas de correspondencia común de los Centros Auxiliares Regionales del Poder Judicial de la Federación continuarán funcionando de conformidad con lo dispuesto por los acuerdos generales que les dieron origen, así como por las reglas autorizadas por la Comisión de Creación de Nuevos Órganos y, en lo que resulte aplicable, las disposiciones del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales.
 
 SEXTO. La Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos someterá a la consideración y, en su caso, aprobación de la Comisión de Creación de Nuevos Órganos, los criterios específicos a que se refiere el artículo 46, segundo párrafo, del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales.
+
+D.O.F. 17 DE JUNIO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de sus áreas administrativas competentes, llevará a cabo las adecuaciones al Registro automatizado de entrada y salida de servidores públicos, y las demás acciones necesarias para la implementación del presente Acuerdo, dentro de los noventa días siguientes a la entrada en vigor del mismo.
+
+Durante dicho plazo quedará suspendido el Registro automatizado de entrada y salida de servidores públicos.
