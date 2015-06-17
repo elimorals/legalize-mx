@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-asistencia-social-y-corresponsabilidad-ciudadana-57580"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-21"
-last_updated: "2009-06-17"
+last_updated: "2015-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ASISTENCIA SOCIAL Y CORRESPONSABILIDAD CIUDADANA PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 21 de noviembre de 2007.
 
@@ -69,7 +69,7 @@ IV.- Adolescentes: Personas que tienen entre doce años y dieciocho años cumpli
 
 V.- Adulto Mayor: Toda persona mayor de 60 años;
 
-VI.- Persona con discapacidad: Todo ser humano que tiene una carencia o disminución congénita o adquirida de alguna aptitud o capacidad funcional de tipo sensorial, psicomotora o mental, de manera parcial o total que le impida o dificulte su desarrollo e integración al medio que le rodea, por un periodo de tiempo definido o indefinido y de manea transitoria o permanente;
+VI.- Persona con discapacidad: Todo ser humano que tiene una carencia o disminución congénita o adquirida de alguna aptitud o capacidad funcional de tipo sensorial, psicomotora o mental, de manera parcial o total que le impida o dificulte su desarrollo e integración al medio que le rodea, por un periodo de tiempo definido o indefinido y de manera transitoria o permanente;
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 2009)</small>
 
@@ -191,15 +191,13 @@ Las instituciones particulares podrán prestar los servicios de asistencia socia
 
 ### CAPÍTULO V. DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MORELOS
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 15.
 
-El Gobierno del Estado contará con un organismo público descentralizado, con personalidad jurídica y patrimonio propio, que se denominará Sistema para el Desarrollo Integral de la Familia del Estado de Morelos, sectorizado a la Secretaría de Desarrollo Humano y Social; el cual será el organismo rector de la asistencia social y tendrá como objetivos la promoción de la asistencia social, la prestación de servicios en ese campo, el incremento de la interrelación sistemática de acciones que en la materia lleven a cabo las instituciones públicas y privadas, así como la realización de las demás acciones que establece esta Ley y las disposiciones legales aplicables.
+El Poder Ejecutivo del Estado, contará con un organismo público descentralizado, con personalidad jurídica y patrimonio propio, que se denominará Sistema para el Desarrollo Integral de la Familia del Estado de Morelos el cual será el organismo rector de la asistencia social en la Entidad, y tendrá como objetivos, la prestación de servicios en ese campo, promoción de la asistencia social y el incremento de las acciones coordinadas que en la materia lleven a cabo las instituciones públicas y privadas, así como la realización de las demás acciones que establece esta Ley, con la finalidad de fortalecer a la familia, mediante consensos ciudadanos y políticas públicas que permitan concretar el desarrollo comunitario y familiar en todos los municipios de la entidad.
 
-El sistema Deberá actuar fortaleciendo la perspectiva de familia, a través de generar consensos ciudadanos e implementar políticas públicas que permitan concretar el desarrollo comunitario, y lograr el posicionamiento del desarrollo integral en los municipios del Estado.
-
-El Sistema podrá celebrar convenios con los Sistemas municipales para el Desarrollo Integral de la Familia de los Estados, con el fin de crear delegaciones regionales y municipales de la Procuraduría de la Defensa del Menor y la Familia.
+El Sistema podrá celebrar convenios con los Sistemas municipales para el Desarrollo Integral de la Familia del Estado de Morelos, con el fin de crear delegaciones regionales y municipales de la Procuraduría de la Defensa del Menor y la Familia.
 
 ###### ARTÍCULO 16.
 
@@ -303,57 +301,65 @@ IV.- Un Director General, que es el representante legal y administrador del Sist
 
 La vigilancia de la operación del Sistema quedará a cargo de un Comisario.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 21.
 
-La Junta de Gobierno estará integrada por:
+La Junta de Gobierno es la máxima autoridad del Sistema, constituye un órgano colegiado que se integra por el número de servidores públicos que requiera la naturaleza y actividades del Sistema, atento a lo establecido en la Ley Orgánica de la Administración Pública del Estado de Morelos. Son integrantes de la Junta de Gobierno:
 
-I.- El Presidente o la Presidenta del Sistema, nombrado por el Gobernador del Estado, como máxima autoridad, quien la presidirá;
+I.- El Gobernador Constitucional del estado de Morelos quien la presidirá por sí o por el representante que designe al efecto;
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+II.-El titular de la Secretaría de Salud del Poder Ejecutivo Estatal;
 
-II.- El Secretario de Desarrollo Humano y Social, como titular de la dependencia coordinadora del sector;
+III.- El titular de la Secretaría de Hacienda del Poder Ejecutivo Estatal;
 
-> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+IV.- El titular de la Secretaría de Administración del Poder Ejecutivo Estatal;
 
-III.- El Secretario de Salud;
+V.- El titular de la Secretaría de la Contraloría del Poder Ejecutivo Estatal;
 
-IV.- El Secretario de Finanzas y Planeación de Gobierno del Estado;
+VI.- El titular de la Secretaría de Educación del Poder Ejecutivo Estatal, y
 
-V.- El Secretario de Obras Públicas;
+VII.-El titular de la Secretaría de Cultura del Poder Ejecutivo Estatal.
 
-VI.- El Secretario de Educación del Estado, y (sic)
+El Presidente o Presidenta, el Director General y el Comisario Público del Sistema, participarán en las sesiones de la Junta de Gobierno con derecho a voz pero sin voto.
 
-VII.- El Titular de la Oficialía Mayor del Estado;
+El desempeño del cargo en la Junta de Gobierno es honorifico, en consecuencia no se percibirá salario, compensación, emolumento o remuneración alguna por el desempeño del mismo.
 
-VIII.- El Órgano de Vigilancia.
+Los Integrantes de la Junta de Gobierno podrán designar suplentes para que los representen en las sesiones a que fueren convocados, quienes deberán cuando menos tener el nivel de Director General, enviando para tal efecto oficio que contenga la designación del presentante, dicho oficio será dirigido al Presidente de dicho cuerpo colegiado.
 
-Por cada miembro de la Junta de Gobierno se nombrará un suplente que para el efecto designen los titulares de la misma.
+Para el caso de que el representante que designe el Gobernador del Estado para fungir como Presidente de la Junta de Gobierno, sea un integrante de ésta última, en términos del presente artículo; dicho integrante deberá designar a su vez a la persona que lo supla, a fin de evitar la concentración de votos en una sola persona en la toma de decisiones.
 
-Para que tengan validez los acuerdos de la Junta de Gobierno será indispensable que sesionen cuando menos la mitad más uno de sus integrantes. Los acuerdos se tomarán por mayoría de votos, y en caso de empate el Presidente o la Presidenta tendrá el voto de calidad.
+La Junta de Gobierno contará con un Secretario Técnico, designado por la misma a propuesta de su Presidente, en términos de lo dispuesto en el Estatuto Orgánico del Sistema.
 
-La Junta de Gobierno contará con un Secretario Técnico, designado por la misma.
-
-En las sesiones de la Junta la participación del Director General, y del Comisario será con voz pero sin voto.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 22.
 
-La Junta de Gobierno tendrá las siguientes facultades:
+La Junta de Gobierno del Sistema tendrá las atribuciones siguientes:
 
-I.- Representar al Sistema con las facultades que establezcan las Leyes para actos de dominio, de administración y para pleitos y cobranzas;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
+
+I.- Establecer, con base en los programas sectoriales, las directrices generales y fijar las prioridades a que se deberá ajustar el organismo, en todo lo relacionado a la promoción de la asistencia social, la prestación de servicios en ese campo, el incremento de la interrelación sistemática de acciones que en la materia lleven a cabo las instituciones públicas y privadas, así como la realización de las demás acciones que establece esta Ley, con la finalidad de fortalecer a la familia, mediante consensos ciudadanos y políticas públicas que permitan concretar el desarrollo comunitario y familiar en todos los Municipios de la Entidad;
 
 II.- Aprobar los planes de labores, presupuestos, informes de actividades y estados financieros anuales;
 
 III.- Aprobar los programas y presupuestos del Sistema y sus modificaciones, conforme a las disposiciones legales aplicables y acuerdos de la dependencia coordinadora correspondiente;
 
-IV.- Aprobar el Reglamento Interior, la organización general del Sistema y los Manuales de Procedimientos y de Servicios al Público;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
 
-V.- Designar y remover, a propuesta del Presidente o Presidenta del Sistema, a los servidores públicos de nivel superior;
+IV.- Aprobar y expedir el Estatuto Orgánico del Sistema, los Reglamentos, así como sus reformas y adiciones, y los Manuales de Organización, Políticas y Procedimientos y de Servicios al Público;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
+
+V.- Designar y remover, a propuesta del Presidente o Presidenta del Sistema, a los servidores públicos de mando superior del Sistema, aprobar sus sueldos y prestaciones, en armonía con el catálogo de puestos y tabulador de salarios aprobado por las Secretarías de Hacienda y de Administración del Poder Ejecutivo del estado de Morelos, y las demás establecidas en su Estatuto, así como concederles las licencias que procedan;
 
 VI.- Conocer los informes, dictámenes y recomendaciones del Comisario y del Auditor Externo;
 
 VII.- Autorizar la contratación de créditos;
 
-VIII.- Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
+
+VIII.- Aprobar la aceptación de aportaciones, donaciones, legados, y demás activos que reciba el Sistema, así como las concesiones, permisos, licencias y autorizaciones que se le otorguen al Organismo conforme a la Ley y, en general, los demás bienes, muebles e inmuebles, derechos e ingresos que obtenga por cualquier título;
 
 IX.- Estudiar y aprobar los proyectos de inversión;
 
@@ -365,15 +371,21 @@ XII.- Aprobar los programas de mediano plazo a que quedarán sujetos los servici
 
 XIII.- Autorizar la creación de unidades administrativas necesarias para agilizar, controlar y evaluar las actividades del Sistema, de conformidad con lo establecido en su presupuesto;
 
-XIV.- Examinar y aprobar en su caso, los informes periódicos que presente el Director General con la intervención que a los comisarios corresponda;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
 
-XV.- Designar y cambiar a propuesta del Director General al secretario técnico;
+XIV.- Examinar y, en su caso, aprobar, los informes periódicos que presente el Director General con la intervención que al Órgano de Vigilancia le corresponda;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
+
+XV.- Designar y cambiar, a propuesta del Presidente de la Junta de Gobierno, al Secretario Técnico;
 
 XVI.- Decidir los donativos o pagos extraordinarios, con base en las disposiciones jurídicas aplicables, verificando que se apliquen exactamente, a los fines señalados en las instrucciones dictadas por la dependencia coordinadora del sector al que esté adscrito el Sistema;
 
 XVII.- Establecer las normas y bases para hacer la cancelación de adeudos a favor del Sistema y a cargo de terceros, en los casos de notoria imposibilidad práctica de su cobro, con la prevención de que cuando proceda la citada cancelación, se someterá a la aprobación de la dependencia coordinadora correspondiente;
 
-XVIII.- Cuando haya excedentes económicos, proponer la creación de reservas y su aplicación para someterlas al acuerdo de la dependencia coordinadora;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
+
+XVIII.- Cuando haya superávit, proponer la creación de reservas; su aplicación y ejercicio será sometido al acuerdo de la Secretaría Coordinadora de Sector;
 
 XIX.- Establecer políticas que regulen y contribuyan al mejoramiento de la calidad de los servicios asistenciales;
 
@@ -387,9 +399,15 @@ XXIII.- Promover la participación de los sectores público, privado y social pa
 
 XXIV.- Las demás que sean necesarias para el ejercicio de las facultades anteriores en términos de las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2015)</small>
+
+El Estatuto Orgánico contendrá las disposiciones generales a la organización del Sistema, de su Junta de Gobierno, de la Dirección General, Administración y de las unidades administrativas que lo integran, así como las demás disposiciones necesarias para su adecuado funcionamiento.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 23.
 
-La Junta de Gobierno celebrará sesiones ordinarias bimestrales y las extraordinarias que se requieran a citación expresa del Presidente o Presidenta, del Director General o a petición de la mayoría de sus integrantes.
+La Junta de Gobierno sesionará de manera ordinaria cada dos meses, y de manera extraordinaria cuando por la urgencia del asunto de que se trate sean convocados sus integrantes por el Presidente o, en su caso, por el Secretario Técnico.
 
 ###### ARTÍCULO 24.
 
@@ -433,25 +451,33 @@ XII.- Programar eventos así como giras de trabajo con el propósito de valorar 
 
 XIII.- Las demás que sean necesarias para el ejercicio de las facultades anteriores en términos de las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 27.
 
-El Presidente o Presidenta del Sistema será la máxima autoridad del mismo, designado y removido por el Gobernador del Estado, tendrá la representación oficial del Sistema así como la responsabilidad de dictar la política general en materia de Asistencia Social, ocupará un cargo honorífico por lo que no recibirá retribución, emolumento o compensación alguna.
+El Presidente o Presidenta del Sistema será la máxima autoridad del mismo, designado y removido por el Gobernador del Estado, el cual tendrá la representación oficial del Sistema, así como la responsabilidad de dictar la política general en materia de Asistencia Social; ocupará un cargo honorífico por lo que no recibirá retribución, emolumento o compensación alguna.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 28.
 
-Corresponden al Presidente o Presidenta del Sistema, las siguientes facultades:
+Corresponde al Presidente o Presidenta del Sistema las actividades y funciones siguientes:
 
 I.- Representar a la Junta de Gobierno en el Patronato;
 
-II.- Presidir la Junta de Gobierno;
+II.- (DEROGADA, P.O. 17 DE JUNIO DE 2015)
 
 III.- Presidir el voluntariado del Sistema;
 
-IV.- Ejecutar o en su caso delegar los acuerdos de la Junta de Gobierno al Director General del Sistema o en las personas que para tal efecto elija indicando el tiempo y alcances de tales facultades;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
+
+IV.- Ejecutar y dar cumplimiento, en su caso, a los acuerdos que emita la Junta de Gobierno;
 
 V.- Dictar las medidas y acuerdos necesarios para cumplir con los objetivos del Sistema;
 
-VI.- Proponer a la Junta de Gobierno el reglamento interno así como sus modificaciones;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
+
+VI.- Proponer a la Junta de Gobierno, para su aprobación y expedición, la normatividad jurídica interna que rija al Sistema, así como sus modificaciones;
 
 VII.- Rendir un informe anual de las actividades realizadas por el Sistema, ante los miembros del Patronato, de la Junta de Gobierno y funcionarios del Sistema;
 
@@ -459,9 +485,13 @@ VI.- Representar al Sistema ante instituciones públicas o privadas;
 
 VII.- Representar al Sistema en los actos sociales, culturales, benéficos o de cualquier otra índole en que tenga intervención;
 
-VIII.- Proponer la designación y remoción de los servidores públicos superiores;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
 
-IX.- Proponer la designación y remoción de los funcionarios de mandos medios, así como sus sueldos, prestaciones y demás establecidas en sus estatutos;
+VIII.- Proponer a la Junta de Gobierno la designación y remoción de los servidores públicos superiores y de mandos medios;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2015)</small>
+
+IX.- Representar al Sistema ante Instituciones públicas o privadas y en los actos sociales, culturales, benéficos o de cualquier otra índole en que tenga intervención;
 
 X.- Solicitar asesoría de cualquier naturaleza a las personas o Instituciones que estime conveniente;
 
@@ -471,109 +501,65 @@ XII.- Proponer al Gobernador del Estado los miembros que integren el Patronato d
 
 XIII.- Las demás que le confieran los ordenamientos legales y la Junta de Gobierno.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 29.
 
-Al frente del Sistema habrá un Director General designado y removido, libremente por el Gobernador del Estado, el cual deberá de reunir los siguientes requisitos:
+El Gobernador del Estado nombrará al Director General, o previo acuerdo con el Coordinador del Sector, dicha designación quedará a cargo de la Junta de Gobierno.
 
-I.- Ser ciudadano mexicano, en pleno goce de sus derechos;
+Para ser Director General del Sistema se deberán de satisfacer los requisitos siguientes:
 
-II.- Poseer título profesional a nivel licenciatura;
+I.- Ser ciudadano mexicano, preferentemente morelense por nacimiento o por residencia; en este último caso, haber residido en la Entidad un mínimo de diez años anteriores a la fecha del nombramiento;
 
-III.- Contar con experiencia en materia administrativa y de asistencia social, y
+II.- Estar en pleno ejercicio de sus derechos y no tener alguno de los impedimentos señalados en las fracciones II, III y IV, del Artículo 81 de la Ley Orgánica de la Administración Pública del Estado de Morelos;
 
-IV.- Tener cuando menos treinta años de edad al día de su nombramiento.
+III.- Contar con título profesional a nivel licenciatura y tener conocimientos y experiencia en materia de asistencia social;
+
+IV.- Tener más de 25 años a la fecha de su designación, y
+
+V.- Ser de reconocida solvencia moral.
+
+Cuando exista cambio de titular del Poder Ejecutivo, procederá el nombramiento de un nuevo Director General, excepto en el caso de que, quien se encuentre en el cargo, sea nombrado por un periodo más, de acuerdo con los requisitos que proceden.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 30.
 
-El Director tendrá las siguientes facultades y obligaciones:
+El Director General, además de las atribuciones que se señalan en el artículo 84 de la Ley Orgánica de la Administración Pública del Estado de Morelos, tendrá las siguientes:
 
-I.- Ejecutar los acuerdos y disposiciones de la Junta de Gobierno, y dictar las medidas necesarias para su cumplimiento, e informarle sobre su avance;
+I.- Administrar y representar legalmente al Sistema;
 
-II.- Presentar a la Junta de Gobierno, los informes y estados financieros bimestrales, acompañados de los comentarios que estime pertinentes a los reportes, informes y recomendaciones que al efecto formule el Comisario;
+II.- Elaborar los programas institucionales de corto, mediano y largo plazo, los correspondientes presupuestos del organismo y los de organización, para presentarlos a la aprobación de la Junta de Gobierno;
 
-III.- Someter a aprobación de la Junta de Gobierno, los planes de trabajo, los presupuestos de egresos e ingresos, y los estados financieros anuales del Sistema;
+III.- Establecer los mecanismos que permitan el aprovechamiento óptimo de los bienes muebles e inmuebles del Sistema;
 
-IV.- Presentar ante la Junta de Gobierno el informe anual de actividades;
+IV.- Aplicar las medidas adecuadas a efecto de que las funciones del Sistema se realicen de manera organizada, congruente, eficaz y eficiente;
 
-V.- Proponer a la Junta de Gobierno la designación y remoción de los servidores públicos superiores con acuerdo del Presidente o Presidenta del Sistema;
+V.- Fijar los controles necesarios para asegurar la calidad de los suministros y programas de recepción, que garanticen la continuidad de la prestación de los servicios necesarios para apoyo a la infancia y, en general, a la mejor integración de las familias morelenses;
 
-VI.- Fijar y ajustar los precios de bienes y servicios que produzcan o preste el Sistema, con autorización de la dependencia correspondiente;
+VI.- Acordar con el Presidente o la Presidenta los nombramientos, cambios y licencias de los funcionarios de mandos medios, así como sus sueldos y demás prestaciones, de acuerdo a las asignaciones globales de presupuesto de gasto corriente aprobado por el mismo órgano;
 
-VII.- Cumplir y hacer cumplir la legislación, Estatuto Orgánico y las demás disposiciones aplicables al Sistema;
+VII.- Recopilar la información y elementos estadísticos que muestren el estado de las actividades del Sistema, para estar en posibilidad de mejorar la gestión del propio organismo;
 
-VIII.- Expedir o autorizar la expedición de nombramientos del personal y llevar las relaciones laborales de acuerdo con las disposiciones legales;
+VIII.- Estructurar y operar los sistemas de control adecuados para alcanzar los objetivos y metas programados;
 
-IX.- Presentar ante la Junta de Gobierno las modificaciones al Estatuto Orgánico y la organización general del Sistema para su aprobación;
+IX.- Rendir en forma bimestral a la Junta de Gobierno, el informe del desarrollo de las actividades del Sistema e incluir en el mismo, el ejercicio de los presupuestos de ingresos y egresos y los correspondientes estados financieros, en el informe y en los documentos de apoyo, se cotejarán las metas programadas y compromisos asumidos por la dirección, con las realizaciones que se lograron;
 
-X.- Designar y remover, previo acuerdo con el Presidente o la Presidenta a los funcionarios de mandos medios, aprobar sus sueldos y prestaciones, y las demás establecidas en sus estatutos, así como concederles las licencias que procedan;
+X.- Estructurar y aplicar los mecanismos de evaluación que hagan sobresalir la eficiencia y eficacia con las cuales desarrolla sus actividades el Sistema, y presentar a la Junta de Gobierno, cuando menos dos veces al año, la evaluación de gestión en la forma detallada que haya acordado con la misma y atendiendo las recomendaciones del Comisario Público;
 
-XI.- Proporcionar a la instancia de control las facilidades y el apoyo técnico administrativo que requiera para su eficiente funcionamiento;
+XI.- Suscribir, cuando así lo requiera el régimen laboral del propio Sistema, los contratos individuales y colectivos que rijan las relaciones de trabajo de este con sus trabajadores;
 
-XII.- Administrar, planear, dirigir y controlar el funcionamiento del Sistema;
+XII.- Ejecutar y dar cumplimiento, en su caso, a los acuerdos que emita la Junta de Gobierno, y
 
-XIII.- Celebrar los convenios, contratos y actos jurídicos que sean indispensables para el cumplimiento de los objetivos del Sistema;
+XIII.- Las demás que les confieran esta Ley, la Ley Orgánica de la Administración Pública del Estado de Morelos, el Estatuto Orgánico y la Junta de Gobierno.
 
-XIV.- Coordinar y supervisar que las adquisiciones se hagan en el ámbito de su competencia conforme a la normatividad aplicable, atendiendo el origen de los recursos;
-
-XV.- Representar al organismo descentralizado ante toda clase de autoridades y personas de derecho público o privado, con todas las facultades, aún aquellas que requieran autorización especial, que corresponden a los apoderados generales para pleitos y cobranzas, actos de administración y de riguroso dominio en los términos del Artículo 2008 del Código Civil para el Estado Libre y Soberano de Morelos;
-
-XVI.- Otorgar, sustituir y revocar poderes generales y especiales, con todas las facultades, aún las que requieran cláusula especial, los cuales deberán inscribirse en el registro público de organismos descentralizados;
-
-XVII.- Resolver los recursos administrativos que conforme a las disposiciones legales y reglamentarias les correspondan;
-
-XVIII.- Participar con voz y voto en las sesiones del Consejo Estatal para la Prevención y Asistencia contra la Violencia Intrafamiliar;
-
-XIX.- Coordinar, organizar y delegar funciones en el programa “Fuerza de Tarea Popocatépetl”;
-
-XX.- Implementar y aplicar los controles necesarios para asegurar la calidad de los programas y de la prestación de los servicios que ofrece el Sistema;
-
-XXI.- Suscribir, otorgar y endosar títulos de crédito;
-
-XXII.- Presentar denuncias y formular querellas y otorgar perdón; ejercitar y desistirse de acciones judiciales aún las del juicio de amparo, y formular y absolver posiciones;
-
-XXIII.- Emitir opinión ante otras dependencias sobre la expedición de permisos licencias o autorizaciones que soliciten personas físicas o morales cuya actividad u objeto sea la asistencia social;
-
-XXIV.- Emitir constancias de acreditación de funciones a instituciones de asistencia social privada, y
-
-XXV.- Las demás que confieran las disposiciones legales aplicables.
-
-Para el mejor desarrollo de sus funciones, el Director General podrá delegar facultades en funcionarios subalternos, sin que implique la pérdida de su ejercicio directo. Son facultades indelegables, las contenidas en las fracciones I, VII, IX, XI, XII, XIV, XVIII, XIX, XX y XXII del artículo que antecede.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 31.
 
-El órgano de vigilancia estará a cargo de un Comisario Público que será designado por la Contraloría General del Estado y tendrá a su cargo las siguientes funciones:
+El Sistema tendrá un órgano de vigilancia, el cual estará integrado por un Comisario Público propietario y un suplente, designados por la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Morelos, en términos del artículo 67 de la Ley Orgánica de la Administración Pública del Estado de Morelos.
 
-I.- Efectuará actos de supervisión, inspección y vigilancia de las actuaciones, actividades, recursos y programas del Sistema, con el fin de verificar que los mismos se cumplen conforme a las disposiciones legales aplicables y bajo los principios de eficiencia y probidad;
-
-II.- Asesorar al Subcomité para el Control de las Adquisiciones del Sistema, debiendo, en todo momento, vigilar que la normatividad aplicable sea cumplida;
-
-III.- Desahogar toda clase de diligencias de carácter administrativo, preventivo o correctivo; requerir comparecencias, informes, datos o documentos de cualquier área administrativa del Sistema;
-
-IV.- Recibir quejas o denuncias que se formulen en contra de cualquier servidor público adscrito al Sistema;
-
-V.- Formular sus planes y programas de trabajo con base en las políticas y lineamientos que para tal efecto dicte la Secretaría de la Contraloría del Estado;
-
-VI.- Vigilar el desempeño eficaz, eficiente, honesto y reservado de los servidores públicos adscritos a su cargo;
-
-VII.- Rendir los informes y reportes que le requiera la Secretaría de Contraloría del Estado y turnar aquellos asuntos que impliquen presunción de responsabilidades administrativas, debidamente integrados, a la citada dependencia estatal;
-
-VIII.- Informar al Presidente o la Presidenta y al Director General los resultados de las acciones de supervisión y vigilancia;
-
-IX.- Recomendar a la Junta de Gobierno, al Presidente o a la Presidenta del Sistema y al Director General, las medidas preventivas y correctivas que sean convenientes para el mejoramiento del mismo;
-
-X.- Asistir a las sesiones de la Junta de Gobierno;
-
-XI.- Formular observaciones y recomendaciones derivadas de los resultados de supervisiones, auditorías y evaluaciones practicadas a las áreas y programas;
-
-XII.- Vigilar el establecimiento de compromisos de acción y planes de trabajo para corregir irregularidades, fallas e inconsistencias en la operación y funcionamiento de la institución;
-
-XIII.- Dirigir y coordinar los procesos de entrega-recepción, así como elaboración de actas administrativas que se levanten con motivo de la sustitución de servidores públicos de mandos medios y superiores del sistema;
-
-XIV.- Emitir opiniones en el ámbito de su competencia a las áreas del Sistema que lo soliciten, sobre el contenido de convenios, bases de licitación para concursos, contratos y aquellos actos significativos que representen ingresos y egresos;
-
-XV.- Proponer a la Dirección General medidas de modernización y simplificación administrativa, para mejorar la eficiencia de la administración de los recursos y la eficacia en el cumplimiento de sus objetivos, y
-
-XVI.- Las demás que le confieran las disposiciones legales aplicables.
+Las funciones de Comisario Público serán las de evaluar, vigilar y dar seguimiento a las actividades administrativas del organismo, realizar los estudios sobre la eficiencia con la cual se ejerzan los recursos financieros del Sistema, para ello solicitará la información necesaria; lo anterior, sin menoscabo de las tareas específicas que le asigne la Secretaría de la Contraloría del Poder Ejecutivo del estado de Morelos, así como las demás que establezca el Reglamento Interior de dicha Secretaría.
 
 ###### ARTÍCULO 32.
 
@@ -591,9 +577,15 @@ El Gobierno del Estado y el Sistema, conforme a sus respectivos ámbitos de comp
 
 El Sistema emitirá opinión sobre el otorgamiento de subsidio a instituciones públicas o privadas que actúen en el campo de la asistencia social.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 36.
 
-Las relaciones laborales entre el Sistema y sus trabajadores se sujetarán a lo dispuesto por la Ley del Servicio Civil del Estado de Morelos.
+Las relaciones laborales entre el Sistema y quienes laboran a su servicio se regulará por la Ley de la materia, la Ley del Servicio Civil del Estado de Morelos, las Condiciones Generales de Trabajo del Sistema y demás ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2015)</small>
+
+ARTÍCULO 36 BIS.- Los supuestos no previstos en la Ley Orgánica de la Administración Pública del Estado de Morelos, en esta Ley o en el Estatuto Orgánico y demás ordenamientos legales aplicables, serán resueltos por la autoridad competente en la materia.
 
 ### CAPÍTULO VI. DEL CONSEJO CONSULTIVO DE ASISTENCIA SOCIAL PARA EL ESTADO DE MORELOS
 
@@ -787,6 +779,10 @@ Las instituciones recibirán una constancia de su registro con el número corres
 
 El Sistema podrá hacer la difusión de los servicios que prestan las instituciones de asistencia social.
 
+### CAPÍTULO XII. DE LAS RESPONSABILIDADES
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 57.
 
 Las instituciones de asistencia social deberán de ajustar su funcionamiento a lo dispuesto por las leyes, reglamentos y Normas Oficiales Mexicanas, que al efecto se expidan en materia de salud y asistenciales, así como por la Secretaría de Salud y el Consejo Nacional de Normalización y Certificación.
@@ -822,6 +818,18 @@ El Sistema se obliga a proteger la identidad de los beneficiarios de los program
 ###### ARTICULO 65.
 
 Es obligación del Sistema poner a disposición de los ciudadanos la información pública de oficio señalada por la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE JUNIO DE 2015)</small>
+
+###### ARTÍCULO 66.
+
+Serán considerados como personal de mandos medios y superiores, a las personas titulares de la Dirección General, la Coordinación, las Direcciones y Subdirecciones de Área, las Jefaturas de Departamento, del manejo de fondos, los supervisores, los almacenistas, los administradores, los secretarios particulares y los auxiliares de unos y otros; todos ellos considerándose además como empleados de confianza.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2015)</small>
+
+###### ARTÍCULO 67.
+
+Los integrantes de la Junta de Gobierno, los mandos medios y superiores, el resto del personal de confianza y los sindicalizados, que incurran en acciones u omisiones previstas en la Ley Estatal de Responsabilidades de los Servidores Públicos, serán sujetos a procedimientos administrativos y, en su caso, a las sanciones previstas en el Código Penal para el Estado de Morelos, si además hubieran incurrido en la comisión de conductas dolosas conforme a las disposiciones aplicables.
 
 ## TRANSITORIOS
 
@@ -875,7 +883,7 @@ LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 23 DE JULIO DE 2008.
 
@@ -910,3 +918,17 @@ Túrnese el presente decreto al titular del Poder Ejecutivo, a efecto de que sea
 ###### ARTÍCULO SEGUNDO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación .en el Periódico Oficial Tierra y Libertad.
+
+P.O. 17 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente al Titular del Poder Ejecutivo para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrara en vigor a partir de su publicación en el Periódico Oficial “Tierra y Libertad” órgano de difusión del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
