@@ -1,0 +1,2108 @@
+---
+title: "LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS"
+identifier: "CHP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109622"
+country: "mx"
+rank: "ley"
+publication_date: "2015-06-17"
+last_updated: "2015-06-17"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109622&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-chp"
+scjn_id: "109622"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "184 TERCERA SECCION"
+reform_count: "6"
+scjn_last_update: "2025-11-26"
+issue_date: "2015-06-02"
+state: "CHP"
+---
+# LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS
+
+LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIAPAS
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 17 de junio de 2015.
+
+Manuel Velasco Coello, Gobernador del Estado de Chiapas, a sus habitantes hace saber: Que la Honorable Sexagésima Quinta Legislatura del mismo, se ha servido dirigir al Ejecutivo a su cargo el siguiente:
+
+Decreto Número 248
+
+La Honorable Sexagésima Quinta Legislatura Constitucional del Estado Libre y Soberano de Chiapas, en uso de las facultades que le concede la Constitución Política local; y,
+
+C o n s i d e r a n d o…
+
+Por las consideraciones antes expuestas, el Honorable Congreso del Estado de Chiapas, ha tenido a bien emitir el siguiente Decreto de:
+
+Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Chiapas
+
+## Título Primero. Disposiciones Generales
+
+### Capítulo Único. Generalidades
+
+###### Artículo 1°.
+
+Las disposiciones de la presente Ley son de orden público e interés social y sus disposiciones son de observancia obligatoria en el Estado y Municipios de Chiapas, y tiene por objeto reconocer a niñas, niños y adolescentes como titulares de derechos, con pleno ejercicio, respeto, protección y promoción de sus derechos humanos, conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que el Estado mexicano forma parte, en la Constitución Política del Estado de Chiapas y en la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+El Estado fijará los lineamientos y establecerá las bases para la participación de los sectores social y privado y la actuación de los poderes Ejecutivo, Legislativo, Judicial y los organismos constitucionales autónomos, en las acciones tendentes a garantizar la protección y el ejercicio de los derechos de niñas, niños y adolescentes, así como a prevenir su vulneración, para lo cual creará los mecanismos que faciliten el ejercicio de sus derechos.
+
+###### Artículo 2°.
+
+Para garantizar la protección de los derechos de niñas, niños y adolescentes, las autoridades del Estado y de los municipios realizarán las acciones y tomarán medidas necesarias, de conformidad con los principios establecidos en la Ley General de los Derechos de las Niñas, Niños y Adolescentes y en la presente Ley. Para tal efecto, deberán:
+
+I. Garantizar un enfoque integral, transversal y con perspectiva de derechos humanos en el diseño y la instrumentación de políticas y programas de gobierno.
+
+II. Promover la participación, tomar en cuenta la opinión y considerar los aspectos culturales, étnicos, afectivos, educativos y de salud de niñas, niños y adolescentes, en todos aquellos asuntos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+
+III. Establecer mecanismos transparentes de seguimiento y evaluación de la implementación de políticas, programas gubernamentales, legislación y compromisos derivados de tratados internacionales en la materia.
+
+IV. Considerar de manera primordial el interés superior de la niñez, en la toma de decisiones sobre una cuestión debatida que involucre niñas, niños y adolescentes. Cuando se presenten diferentes interpretaciones, se elegirá la que satisfaga de manera más efectiva este principio rector.
+
+V. Cuando se tome una decisión que afecte a niñas, niños o adolescentes, en lo individual o colectivo, la autoridad competente deberá evaluar y ponderar las posibles repercusiones a fin de salvaguardar su interés superior y sus garantías procesales.
+
+El Estado y los Municipios deberán garantizar que las autoridades incorporen en sus proyectos de presupuesto la asignación de recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley.
+
+El Congreso del Estado, deberá establecer dentro de su respectivo presupuesto, los recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley.
+
+###### Artículo 3°.
+
+La aplicación de la presente Ley estará a cargo de los Poderes Ejecutivo, Legislativo y Judicial en el ámbito de sus respectivas competencias y de los Ayuntamientos de acuerdo a su competencia y jurisdicción.
+
+###### Artículo 4°.
+
+El Estado y sus Municipios en el ámbito de sus respectivas competencias, están obligados al cumplimiento del objeto de la presente Ley, para el diseño, ejecución, seguimiento y evaluación de políticas públicas en materia de ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes, así como para garantizar su máximo bienestar posible privilegiando su interés superior a través de medidas estructurales, legales, administrativas y presupuestales.
+
+###### Artículo 5°.
+
+Para los efectos de esta Ley, se entenderá por:
+
+I. Acciones Afirmativas: A las acciones de carácter temporal, de políticas y prácticas de índole legislativa, administrativa y jurisdiccional que son correctivas, compensatorias y de promoción, encaminadas a acelerar la igualdad sustantiva entre niñas, niños y adolescentes.
+
+II. Acogimiento Residencial: Al brindado por Centros de Asistencia Social, como una medida especial de protección de carácter subsidiario, que será de último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar.
+
+III. Adopción Internacional: A Aquélla que se realice en términos de lo dispuesto por los tratados internacionales en la materia.
+
+IV. Ajustes Razonables: A las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a niñas, niños y adolescentes con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales.
+
+V. Autoridades Estatales y Municipales: A las Autoridades Estatales y Municipales del Estado de Chiapas.
+
+VI. Centro de Asistencia Social: Al establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones.
+
+VII. Certificado de Idoneidad: Al documento emitido por el Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas, en virtud del cual se determina que los solicitantes de adopción son aptos para ello.
+
+VIII. CONEVAL: Al Consejo Nacional de Evaluación de la Política de Desarrollo Social.
+
+IX. Congreso del Estado: Al Honorable Congreso del Estado de Chiapas.
+
+X. CIEPSE: Al Consejo de Investigación y Evaluación de la Política Social del Estado.
+
+XI. Constitución Política local: A la Constitución Política del Estado de Chiapas.
+
+XII. Diseño Universal: Al diseño de productos, entornos, programas y servicios que puedan utilizar niñas, niños y adolescentes, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para niñas, niños y adolescentes con discapacidad cuando se necesiten.
+
+XIII. Discriminación Múltiple: A la situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos.
+
+XIV. Estado: Al Estado de Chiapas y los municipios que lo integran.
+
+XV. Familia de Origen: A la compuesta por titulares de la patria potestad, tutela, guarda o custodia, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado.
+
+XVI. Familia Extensa o Ampliada: A la compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado.
+
+XVII. Familia de Acogida: A la que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva.
+
+XVIII. Familia de Acogimiento pre-adoptivo: A Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez.
+
+XIX. Igualdad Sustantiva: Al acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
+
+XX. Informe de Adoptabilidad: Al documento expedido por el Sistema Nacional DIF y los Sistemas de las Entidades, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes.
+
+XXI. Ley: A la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Chiapas.
+
+XXII. Ley General: A la Ley General de los Derechos de Niñas, Niños y Adolescentes.
+
+XXIII. Municipios: A los Municipios que integran el Estado y que se encuentran contemplados en la Constitución Política del Estado de Chiapas.
+
+XXIV. Órgano Jurisdiccional: A los Juzgados del Tribunal Superior de Justicia del Estado de Chiapas.
+
+XXV. Procuraduría Federal de Protección: A la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes.
+
+XXVI. Procuraduría de Protección Estatal: A la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia.
+
+XXVII. Procuradurías de Protección Municipales: A las Procuradurías Municipales de Protección de los Derechos de las Niñas, Niños, Adolescentes y la Familia, las cuales tendrán competencia en el territorio del municipio que corresponda.
+
+XXVIII. Programa Estatal: Al Programa Estatal de Protección de Niñas, Niños y Adolescentes.
+
+XXIX. Programas Municipales: A los Programas Municipales de Protección de Niñas, Niños y Adolescentes de cada Municipio del Estado.
+
+XXX. Programa Nacional: Al Programa Nacional de Protección de Niñas, Niños y Adolescentes.
+
+XXXI. Protección Integral: Al conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de la Ley General, de esta Ley, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte.
+
+XXXII. Representación Coadyuvante: Al acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de las Procuradurías de Protección Municipales, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público.
+
+XXXIII. Representación Originaria: A la representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables.
+
+XXXIV. Representación en Suplencia: A la representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección Estatal, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público.
+
+XXXV. Sistema DIF-Chiapas: Al Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas.
+
+XXXVI. Sistema DIF-Municipal: A los Sistemas para el Desarrollo Integral de la Familia de cada uno de los municipios del Estado.
+
+XXXVII. Sistema Estatal de Protección Integral: Al Sistema Estatal de Protección Integral de Niñas, Niños y Adolescentes.
+
+XXXVIII. Sistema Municipal de Protección Integral: A los Sistemas de Protección Integral de Niñas, Niños, y Adolescentes de cada uno de los municipios del Estado.
+
+XXXIX. Sistema Nacional de Protección Integral: Al Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes.
+
+XL. Sistema Nacional DIF: Al Sistema Nacional para el Desarrollo Integral de la Familia.
+
+XLI. Tratados Internacionales: A los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
+
+###### Artículo 6°.
+
+Se consideran niñas y niños los menores de doce años, y adolescentes las personas de entre doce años cumplidos y menos de dieciocho años de edad.
+
+Cuando exista la duda de si se trata de una persona mayor de dieciocho años de edad, se presumirá que es adolescente; y en caso de que exista la duda de si se trata de una persona mayor o menor de doce años, se presumirá que es niña o niño.
+
+###### Artículo 7°.
+
+A fin de garantizar la protección de los derechos de niñas, niños y adolescentes, las autoridades del Estado y los municipios se regirán y aplicarán la presente Ley de conformidad con los siguientes principios rectores:
+
+I. El interés superior de la niñez.
+
+II. La universalidad, interdependencia, indivisibilidad, progresividad e integralidad de los derechos de niñas, niños y adolescentes, conforme a lo dispuesto en los artículos 1° y 4° de la Constitución Política de los Estados Unidos Mexicanos así como en los tratados internacionales.
+
+III. La igualdad sustantiva.
+
+IV. La no discriminación.
+
+V. La inclusión.
+
+VI. El derecho a la vida, a la supervivencia y al desarrollo.
+
+VII. La participación.
+
+VIII. La interculturalidad.
+
+IX. La corresponsabilidad de los miembros de la familia, la sociedad y las autoridades.
+
+X. La transversalidad en la legislación, políticas públicas, actividades administrativas, económicas y culturales.
+
+XI. La autonomía progresiva.
+
+XII. El principio pro persona.
+
+XIII. El acceso a una vida libre de violencia.
+
+XIV. La accesibilidad.
+
+XV. Diligencia excepcional dentro de las medidas especiales de protección.
+
+###### Artículo 8°.
+
+La normatividad Estatal y Municipal, deberá garantizar el ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes; así como prever, primordialmente, las acciones y mecanismos que les permitan un crecimiento y desarrollo integral plenos.
+
+###### Artículo 9°.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, impulsarán la cultura de respeto, promoción y protección de derechos de niñas, niños y adolescentes, basada en los principios rectores de la Ley General y de la presente Ley, a través de la ejecución de las acciones coordinadas que para el efecto se establezcan en los Programas Estatal y Municipales respectivamente.
+
+###### Artículo 10.
+
+En todo lo no previsto por esta Ley, se aplicará supletoriamente la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, la Ley General, y (sic) Constitución Política Local; a falta de disposición expresa, se estará a los principios generales que deriven de dichos ordenamientos y a falta de éstos, a los principios generales del derecho, privilegiando en todo momento los principios rectores de esta Ley.
+
+###### Artículo 11.
+
+En la aplicación de la presente Ley se tomarán en cuenta las condiciones particulares de niñas, niños y adolescentes en los diferentes grupos de población, a fin de proteger el ejercicio igualitario de todos sus derechos.
+
+###### Artículo 12.
+
+Las autoridades del Estado y Municipios, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en condición de desplazamiento interno, en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, circunstancias de nacimiento, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
+
+Para lo anterior, se les otorgará al menos, alimentos indispensables, agua potable, cobijo y alojamiento básicos, vestido adecuado, servicios médicos y de saneamiento indispensables, así como la educación básica obligatoria.
+
+###### Artículo 13.
+
+Corresponde al Estado, municipios, a la familia, a la comunidad y a la sociedad en general, promover e impulsar una cultura de protección, auxilio y respeto a los derechos de las niñas, niños y adolescentes; así como garantizarles un nivel adecuado de vida.
+
+Asimismo, se deberá promover entre las diversas dependencias e instituciones estatal y municipal, el respeto y cuidado a los derechos de las niñas, niños y adolescentes, además de sensibilizar y ofrecer capacitación permanente a cada uno de éstos para que en todo acto que realicen privilegien el interés superior de la niñez, sin distinción alguna de raza, etnia color, sexo, idioma, lengua, circunstancia de nacimiento o cualquier otra condición propia de quienes ejerzan la patria potestad, su guarda o tutela, discapacidad, religión, situación migratoria, opinión política o de cualquier otra índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición de sus padres, representantes o responsables de su familia.
+
+###### Artículo 14.
+
+Toda persona que tenga conocimiento de hechos o actos que atenten, vulneren o trasgredan los derechos de las niñas, niños y adolescentes, deberán hacerlo inmediatamente del conocimiento a las autoridades competentes, de manera que pueda seguirse la investigación correspondiente y en su caso, instrumentar las medidas cautelares, de protección y restitución integrales procedentes en términos de las disposiciones aplicables.
+
+## Título Segundo. De los Derechos de Niñas, Niños y Adolescentes
+
+### Capítulo Primero. Disposiciones Generales
+
+###### Artículo 15.
+
+Para efectos de la presente Ley, son derechos de niñas, niños y adolescentes, de manera enunciativa más no limitativa, los siguientes:
+
+I. Derecho a la vida, a la supervivencia y al desarrollo.
+
+II. Derecho de prioridad.
+
+III. Derecho a la identidad y a la certeza jurídica.
+
+IV. Derecho a vivir en familia.
+
+V. Derecho a la igualdad sustantiva.
+
+VI. Derecho a no ser discriminado.
+
+VII. Derecho a vivir en condiciones de bienestar y a un sano desarrollo integral.
+
+VIII. Derecho de acceso a una vida libre de violencia y a la integridad personal.
+
+IX. Derecho a la protección de la salud y a la seguridad social.
+
+X. Derecho a la inclusión de niñas, niños y adolescentes con discapacidad.
+
+XI. Derecho a la educación.
+
+XII. Derecho al descanso y al esparcimiento.
+
+XIII. Derecho a la libertad de convicciones éticas, pensamiento, conciencia, religión y cultura.
+
+XIV. Derecho a la libertad de expresión y de acceso a la información.
+
+XV. Derecho a la participación.
+
+XVI. Derecho de asociación y reunión.
+
+XVII. Derecho a la intimidad.
+
+XVIII. Derecho a la movilidad humana y al libre tránsito.
+
+XIX. Derecho a la seguridad jurídica y al debido proceso.
+
+XX. Derechos de niñas, niños y adolescentes migrantes.
+
+XXI. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión.
+
+El Estado y sus municipios, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición, a través de la ejecución de las acciones coordinadas que para el efecto se establezcan en los Programas Estatal y Municipales, respectivamente.
+
+### Capítulo Segundo. Del Derecho a la Vida, a la Supervivencia y al Desarrollo
+
+###### Artículo 16.
+
+Las niñas, niños y adolescentes tienen derecho a que se les preserve la vida, a la supervivencia y al desarrollo.
+
+Las autoridades e instituciones estatales y municipales, en el ámbito de sus respectivas competencias, deberán atender de manera inmediata las acciones necesarias para garantizar el desarrollo y prevenir cualquier conducta que atente contra su supervivencia, así como investigar y sancionar efectivamente los actos de privación de la vida.
+
+###### Artículo 17.
+
+Las niñas, niños y adolescentes deberán disfrutar de una vida plena y digna en igualdad de condiciones a fin de garantizar su seguridad y desarrollo integral.
+
+###### Artículo 18.
+
+Las niñas, niños y adolescentes tienen el derecho a no ser privados de la vida bajo ninguna circunstancia, ni ser utilizados en conflictos armados o violentos, ni ser instrumento para la comisión de un delito u objeto del mismo.
+
+### Capítulo Tercero. Del Derecho de Prioridad
+
+###### Artículo 19.
+
+Las Niñas, niños y adolescentes tienen derecho a que se les asegure prioridad en el ejercicio de todos sus derechos, especialmente a que:
+
+I. Se les brinde protección y socorro en cualquier circunstancia y con la oportunidad necesaria, por conducto de las autoridades competentes.
+
+II. Se les atienda antes que a las personas adultas en todos los servicios, en igualdad de condiciones; y,
+
+III. Se les considere para el diseño y ejecución de las políticas públicas necesarias para la protección de sus derechos.
+
+###### Artículo 20.
+
+En todas las medidas concernientes a niñas, niños y adolescentes que tomen las instituciones de los Poderes del Estado y los municipios, se tomarán en cuenta, como consideración primordial, el interés superior de la niñez. Dichas autoridades elaborarán los mecanismos necesarios para garantizar éste principio.
+
+### Capítulo Cuarto. Del Derecho a la Identidad y a la Certeza Jurídica
+
+###### Artículo 21.
+
+Las niñas, niños y adolescentes desde su nacimiento, tienen derecho a:
+
+I. Ser inscritos en el Registro Civil respectivo de forma inmediata y gratuita, registrando su nombre y dos apellidos, y a que se les expida en forma ágil y sin costo la primera copia certificada del acta correspondiente, en los términos que establece el Código Civil para el Estado de Chiapas.
+
+II. Contar con nacionalidad, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales y la Constitución Política local.
+
+III. Conocer su filiación y su origen en la medida de lo posible y siempre que ello sea acorde con el interés superior de la niñez.
+
+IV. Vivir y crecer en el seno de una familia, a mantener relaciones personales y contacto directo con ambos padres de modo regular, aún cuando haya necesidad de ser separado de los mismos, siempre que ello sea acorde con el interés superior de la niñez.
+
+V. Preservar su identidad, incluidos el nombre, la nacionalidad y su pertenencia cultural, así como sus relaciones familiares.
+
+VI. A recibir el apoyo de los Poderes del Estado así como de los municipios en lo relativo al ejercicio y respeto de sus derechos por sí o a través de su representante, tutor o las instituciones creadas para tal efecto.
+
+VII. A conservar su cultura, idiosincrasia, idioma o lengua de origen.
+
+VIII. Que cuando un niño, niña o adolescentes sea atendido por alguna institución de salud, educativa o cualquier autoridad estatal o municipal, y se desconozca su identidad, de manera prioritaria e inmediata, en coordinación con la Procuraduría General de Justicia del Estado de Chiapas, se deberá localizar a los progenitores o a falta de estos a las personas que tienen a su cargo a los mismos.
+
+Cuando existan dificultades para conocer la filiación u origen de una niña, niño o adolescentes, las autoridades estatales y municipales colaborarán y facilitarán los medios para la investigación de la misma.
+
+IX. Las autoridades estatales y municipales preservarán la identidad de niñas, niños y adolescentes cuando sus derechos hayan sido vulnerados o en el caso de los adolescentes, cuando se presuma la comisión de un delito por su parte o hayan sido sentenciados. Los datos que incluyen la identidad, solo podrán ser utilizados por las autoridades de manera interna para los fines propios de su servicio y para la colaboración con otras autoridades en beneficio de los mismos.
+
+X. Las Procuradurías de Protección Estatal y Municipales, en el ámbito de su competencia, deberán asistir a las demás autoridades en sus labores de investigación sobre la identidad de las niñas, niños y adolescentes, así como orientarlos y vigilar que los datos no sean divulgados de manera inapropiada.
+
+XI. La falta de documentación para acreditar la identidad de niñas, niños y adolescentes, no será obstáculo para garantizar sus derechos.
+
+XII. Cuando haya procesos o procedimientos que deriven en cambio de apellidos de niñas, niños y adolescentes, éstos tendrán el derecho a opinar y a ser tomados en cuenta, directamente o por medio de su representante o tutor, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez. El Código de Procedimientos Civiles del Estado establecerá los mecanismos para tal efecto.
+
+###### Artículo 22.
+
+Para comprobar la identidad de los niños, niñas y adolescentes de nacionalidad extranjera, las autoridades estatales y municipales reconocerán los documentos extranjeros emitidos por la autoridad competente u otros medios previstos en la Ley de Migración y demás disposiciones aplicables.
+
+En los casos en que niñas, niños o adolescentes cumplan con los requisitos para obtener la nacionalidad mexicana, las autoridades estatales y municipales les brindarán la información sobre dónde acudir y les brindarán todas las facilidades a efecto de darles un trato prioritario.
+
+###### Artículo 23.
+
+Para efectos del reconocimiento de maternidad y paternidad de niñas, niños y adolescentes, y los derechos y obligaciones derivados de la filiación y parentesco, se estará a la legislación civil aplicable. Ante la negativa injustificada de practicarse la prueba pericial de paternidad o maternidad, la autoridad competente presumirá que es el padre o la madre respectivamente.
+
+### Capítulo Quinto. Del Derecho a Vivir en Familia
+
+###### Artículo 24.
+
+Las niñas, niños y adolescentes tienen derecho a vivir en familia. La falta de recursos no podrá considerarse motivo suficiente para separarlos de su familia de origen o de los familiares con los que convivan, ni causa para la pérdida de la patria potestad.
+
+###### Artículo 25.
+
+Niñas, niños y adolescentes no podrán ser separados de las personas que ejerzan la patria potestad o de sus tutores y, en términos de las disposiciones aplicables, de las personas que los tengan bajo su guarda y custodia, salvo que medie orden de autoridad competente, en la que se determine la procedencia de la separación, en cumplimiento a la preservación del interés superior de la niñez, de conformidad con las causas previstas en las leyes y mediante el debido proceso en el que se garantice el derecho de audiencia de todas las partes involucradas. En todos los casos, se tendrá en cuenta la opinión de niñas, niños y adolescentes conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+
+Para ello, el Código de Procedimientos Civiles para el Estado de Chiapas establecerá los mecanismos para hacer efectiva la participación de los mismos.
+
+###### Artículo 26.
+
+Los casos en que las personas que ejerzan la patria potestad, por extrema pobreza o por necesidad de ganarse el sustento lejos del lugar de residencia, tengan dificultades para atender a niñas, niños y adolescentes de manera permanente, no serán considerados como supuestos de exposición o estado de abandono, siempre que los mantengan al cuidado de otras personas, libres de violencia y provean su subsistencia.
+
+###### Artículo 27.
+
+En los casos de ausencia de aquellas personas que se encargan de la tutela, guarda y custodia de niñas, niños y adolescentes que se encuentren separados de sus padres en los supuestos señalados en el párrafo anterior, será la Procuraduría de Protección Municipal correspondiente, en coordinación con la Procuraduría de Protección Estatal, las que realizarán las acciones necesarias para evitar que los mismos se encuentren en una situación de abandono, asimismo velará por que se preserve su integridad y se garanticen sus derechos.
+
+###### Artículo 28.
+
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, están obligadas a establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia.
+
+###### Artículo 29.
+
+Es un derecho de las niñas, niños y adolescentes cuyas familias estén separadas, el convivir o mantener relaciones personales y contacto directo y permanente con sus familiares, excepto en los casos en que el órgano jurisdiccional competente determine que ello es contrario al interés superior de la niñez, sin perjuicio de las medidas cautelares y de protección que se dicten por las autoridades competentes en los procedimientos respectivos, en los que se deberá garantizar el derecho de audiencia de todas las partes involucradas, en especial de niñas, niños y adolescentes.
+
+###### Artículo 30.
+
+Las niñas, niños y adolescentes tienen derecho a convivir con sus familiares cuando éstos se encuentren privados de su libertad. Las autoridades competentes en materia jurisdiccional y penitenciaria deberán garantizar este derecho y establecer las condiciones necesarias para que esta convivencia se realice en un espacio y forma adecuada, conforme a las disposiciones aplicables. Este derecho sólo podrá ser restringido por resolución del órgano jurisdiccional competente, siempre y cuando no sea contrario a su interés superior.
+
+###### Artículo 31.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, establecerán las normas y los mecanismos necesarios para facilitar la localización y reunificación de la familia de niñas, niños y adolescentes, cuando hayan sido privados de ella, siempre y cuando no sea contrario a su interés superior.
+
+Durante la localización de la familia, las niñas, niños y adolescentes tienen derecho a acceder a las modalidades alternativas de cuidados de carácter temporal, en tanto se incorporan a su familia conforme a las disposiciones legales aplicables.
+
+###### Artículo 32.
+
+En caso de no ser posible la reintegración al vínculo familiar de las niñas, niños y adolescentes, los Sistemas DIF - Municipales, en coordinación con el Sistema DIF-Chiapas, deberán otorgarles el acogimiento correspondiente de conformidad con lo previsto en la presente Ley.
+
+###### Artículo 33.
+
+La legislación estatal deberá contener disposiciones para prevenir y sancionar el traslado o retención ilícita de niñas, niños y adolescentes cuando se produzcan en violación de los derechos atribuidos individual o conjuntamente a las personas o instituciones que ejerzan la patria potestad, la tutela o la guarda y custodia, y preverán procedimientos expeditos para garantizar el ejercicio de esos derechos.
+
+###### Artículo 34.
+
+En los casos de traslados o retenciones ilícitas de niñas, niños y adolescentes fuera del territorio nacional, las autoridades estatales y municipales facilitarán a la persona interesada la información y medios para que pueda presentar una solicitud de restitución ante la Secretaría de Relaciones Exteriores, para que ésta lleve a cabo las acciones correspondientes en el marco de sus atribuciones, de conformidad con lo dispuesto en los instrumentos internacionales y demás disposiciones aplicables.
+
+###### Artículo 35.
+
+Cuando las autoridades estatales y municipales tengan conocimiento de casos de niñas, niños y adolescentes de nacionalidad mexicana trasladados o retenidos de manera ilícita en el extranjero, se coordinarán con las autoridades federales competentes, conforme a las demás disposiciones aplicables, para su localización y restitución.
+
+###### Artículo 36.
+
+Las autoridades estatales y municipales, coadyuvarán de manera coordinada de acuerdo a sus respectivas competencias en la localización de una niña, niño o adolescente que haya sido trasladado o retenido ilícitamente en territorio chiapaneco, o trasladado legalmente pero retenido ilícitamente, a través de programas para la búsqueda, localización y recuperación, así como en la adopción de todas las medidas necesarias para prevenir que sufran mayores daños y en la sustanciación de los procedimientos de urgencia necesarios para garantizar su restitución inmediata, cuando la misma resulte procedente conforme a los tratados internacionales en materia de sustracción de niñas, niños y adolescentes, garantizando en todo momento su integridad física y psicológica, y preservando cada uno de sus derechos.
+
+###### Artículo 37.
+
+Cuando una niña, niño o adolescente se encuentre privado de su familia o hayan sido separados (sic) de su familia de origen por resolución judicial, tendrá derecho a recibir la protección del Estado y los municipios, por conducto de las instancias competentes, quienes de manera coordinada deberán otorgar medidas especiales de protección a niñas, niños y adolescentes, a fin de garantizar en todo momento el goce pleno de sus derechos.
+
+Las autoridades competentes garantizarán que reciban todos los cuidados que se requieran por su situación de desamparo familiar, debiendo considerar el interés superior de la niñez para determinar la opción que sea más adecuada y, de ser el caso, restituirle su derecho a vivir en familia.
+
+###### Artículo 38.
+
+En estos casos previstos en el artículo anterior, y de conformidad con la legislación aplicable, el Sistema DIF-Chiapas y los Sistemas Municipales DIF, en el ámbito de su competencia, se asegurarán de que niñas, niños y adolescentes:
+
+I. Sean ubicados con su familia extensa o ampliada para su cuidado, siempre que ello sea posible y no sea contrario a su interés superior.
+
+II. Sean recibidos por una familia de acogida como medida de protección, de carácter temporal, en los casos en los cuales ni los progenitores, ni la familia extensa de niñas, niños y adolescentes pudieran hacerse cargo.
+
+III. Sean sujetos del acogimiento pre-adoptivo como una fase dentro del procedimiento de adopción, que supone la vinculación de niñas, niños y adolescentes, respecto del cual ya se ha declarado la condición de adoptabilidad, con su nuevo entorno y determinar la idoneidad de la familia para convertirse en familia adoptiva.
+
+El Sistema DIF - Chiapas, deberá registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo, pudiéndose auxiliar con los Sistemas DIF Municipales.
+
+IV. Sean colocados, dadas las características específicas de cada caso, en acogimiento residencial brindado por Centros de Asistencia Social el menor tiempo posible. Esta medida especial de protección tendrá carácter subsidiario, priorizando las opciones de cuidado en un entorno familiar.
+
+El Sistema DIF Estatal y los Sistemas DIF municipales darán seguimiento de la situación en la que se encuentren niñas, niños y adolescentes durante y una vez que haya concluido el acogimiento o forma alternativa de cuidado, de conformidad con lo previsto por la Ley General, la presente Ley y demás disposiciones aplicables.
+
+###### Artículo 39.
+
+La legislación que regule los Centros de Asistencia Social, así como las modalidades alternativas de cuidados de niñas, niños y adolescentes, deberán prever los siguientes criterios indispensables:
+
+I. Las modalidades de alternativas de cuidados deberán ajustarse a las necesidades de las niñas, niños y adolescentes caso por caso y evitar la separación entre hermanos, funcionando a partir del interés superior de la niñez, los principios de necesidad, idoneidad y diligencia excepcional.
+
+II. Dar prioridad a las soluciones basadas en las familias y comunidades de origen de cada niña, niño o adolescente.
+
+III. Brindar mecanismos adaptados, confiables y seguros para que las niñas, niños y adolescentes puedan presentar denuncias y/o quejas sobre cualquier situación que les afecte durante su estancia.
+
+IV. Todas las medidas alternativas deberán ser temporales, se establecerán procedimientos periódicos para analizar su continuidad, necesidad e idoneidad para cada niña, niño o adolescente.
+
+V. Los cambios en las modalidades alternativas de cuidados para las niñas, niños y adolescentes deberán ser notificadas de inmediato a las autoridades competentes para que éstas a su vez realicen todas las acciones necesarias con el fin de garantizar que los derechos de las niñas, niños y adolescentes a vivir y crecer en familia y comunidad se respete.
+
+###### Artículo 40.
+
+El Sistema DIF Estatal y los Sistemas DIF Municipales deberán desarrollar una política integral en materia de cuidados alternativos y contar con programas respectivos que permitan a los niños, niñas y adolescentes acceder a los mismos, de conformidad con lo previsto por la Ley General y en la presente Ley.
+
+Las autoridades estatales y municipales competentes deberán tener en consideración el interés superior de la niñez para determinar la opción que sea más adecuada y, de ser el caso, restituirle su derecho a vivir en familia.
+
+###### Artículo 41.
+
+En caso de niñas, niños y adolescentes en condiciones de desplazamiento interno, las autoridades estatales y municipales:
+
+I. Privilegiarán la unidad familiar al no separar a los miembros de una misma familia.
+
+II. Tomarán las medidas conducentes para acelerar la reunificación familiar.
+
+III. Garantizarán el derecho de conocer el destino y paradero de familiares desaparecidos.
+
+### Capítulo Sexto. Del Derecho a la Igualdad Sustantiva y a la No Discriminación
+
+###### Artículo 42.
+
+Niñas, niños y adolescentes tienen derecho al acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales, sin distinción alguna de raza, étnica, color, sexo, idioma, lengua, circunstancia de nacimiento o cualquier otra condición propia de quienes ejerzan la patria potestad, su guarda o tutela, condición física y mental religión, situación migratoria, opinión política o de cualquier otra índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición de sus padres, representantes o responsables de su familia.
+
+Las autoridades están obligadas a llevar a cabo medidas especiales para prevenir, atender y erradicar la Discriminación Múltiple de la que son objeto niñas, niños y adolescentes en situación de exclusión social o cualquiera otra condición de marginalidad.
+
+Las autoridades e instituciones estatales y municipales deberán recibir y atender a todos los niños, niñas y adolescentes sin excepción ni restricciones en el servicio en razón de las condiciones y circunstancias establecidas en el párrafo anterior.
+
+###### Artículo 43.
+
+Las autoridades Estatales y Municipales, para garantizar la igualdad sustantiva deberán:
+
+I. Transversalizar la perspectiva de género en todas sus actuaciones y procurar la utilización de un lenguaje no sexista en sus documentos oficiales.
+
+II. Diseñar, implementar y evaluar programas, políticas públicas a través de Acciones afirmativas tendientes a eliminar los obstáculos que impiden la igualdad de acceso y de oportunidades a la alimentación, a la educación y a la atención médica entre niñas, niños y adolescentes.
+
+III. Implementar acciones específicas para alcanzar la eliminación de prejuicios, roles y estereotipos sexistas o de cualquier otra índole que estén basadas en la idea de inferioridad.
+
+IV. Establecer medidas dirigidas de manera preferente a niñas y adolescentes que pertenezcan a grupos y regiones con mayor rezago educativo o que enfrenten condiciones económicas y sociales de desventaja para el ejercicio de los derechos contenidos en la presente Ley.
+
+V. Establecer los mecanismos institucionales que orienten al Estado hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado, promoviendo el empoderamiento de las niñas y las adolescentes.
+
+VI. Desarrollar campañas permanentes de sensibilización y fomento al respeto y protección de los derechos de niñas y las adolescentes.
+
+VII. El Programa Estatal y los programas municipales incluirán las acciones y medidas específicas que cada una de las autoridades estatales y municipales obligadas deban realizar de manera coordinada para dar cumplimiento a lo previsto en el presente artículo.
+
+###### Artículo 44.
+
+Las normas aplicables a las niñas y a las adolescentes en el Estado de Chiapas, deberán estar dirigidas a visibilizar, promover, respetar, proteger y garantizar, en todo momento, sus derechos en aras de alcanzar la igualdad sustantiva con respecto a los niños y a los adolescentes; y, en general, con toda la sociedad.
+
+###### Artículo 45.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a adoptar medidas y a realizar las acciones afirmativas necesarias para garantizar a niñas, niños y adolescentes la igualdad sustantiva, de oportunidades y el derecho a la no discriminación. Dichas acciones también deberán estar contempladas en el Programa Estatal y los programas municipales.
+
+La adopción de estas medidas y la realización de acciones afirmativas formarán parte de la perspectiva antidiscriminatoria, la cual será incorporada de manera transversal y progresiva en el quehacer público, y de manera particular en el diseño, implementación y evaluación de las políticas públicas. Serán factor de análisis prioritario las diferencias de género como causa de vulnerabilidad y discriminación en contra de las niñas y las adolescentes.
+
+###### Artículo 46.
+
+Constituye un deber de las instancias públicas del Estado y de los órganos constitucionales autónomos reportar de forma semestral al Consejo Estatal contra la Discriminación las medidas y programas que adopten para su registro y monitoreo en términos de la Ley que previene y combate la discriminación en el Estado de Chiapas.
+
+Dichos reportes deberán desagregar la información, por lo menos, en razón de edad, sexo, municipio, escolaridad y tipo de discriminación.
+
+###### Artículo 47.
+
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, adoptarán medidas para la eliminación de usos, costumbres, prácticas culturales o prejuicios que atenten contra la igualdad de niñas, niños y adolescentes, así como prevenir y combatir toda forma de discriminación y promover la igualdad de oportunidades y de trato.
+
+### Capítulo Séptimo. Del Derecho a Vivir en Condiciones de Bienestar y a un Sano Desarrollo Integral
+
+###### Artículo 48.
+
+Las Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable, y en condiciones que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, tanto físico como mental, material, espiritual, ético, cultural y social.
+
+###### Artículo 49.
+
+Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, tienen la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán adoptar las medidas apropiadas, las cuales, serán definidas en los Programas Estatal y municipales, respectivamente.
+
+###### Artículo 50.
+
+De conformidad con lo establecido por la Ley general, la edad mínima para contraer matrimonio en el Estado de Chiapas, será de 18 años, salvo dispensa de edad en los casos que proceda conceder por autoridad judicial.
+
+### Capítulo Octavo. Del Derecho ae (sic) Acceso a una Vida Libre de Violencia y a la Integridad Personal
+
+###### Artículo 51.
+
+Las niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el libre desarrollo de su personalidad.
+
+###### Artículo 52.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a tomar las medidas necesarias para prevenir, atender y sancionar los casos en que niñas, niños o adolescentes se vean afectados por:
+
+I. El descuido, maltrato, negligencia, abandono o abuso físico, psicológico o sexual;
+
+II. Trata de personas menores de 18 años de edad, abuso sexual infantil, explotación sexual infantil con o sin fines comerciales, o cualquier otro tipo de explotación, y demás conductas punibles establecidas en las disposiciones aplicables.
+
+III. El tráfico de niñas, niños y adolescentes.
+
+IV. El trabajo antes de la edad mínima de quince años, prevista en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables.
+
+V. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en las demás disposiciones aplicables.
+
+VI. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral.
+
+Las autoridades competentes deberán considerar la perspectiva de género en las situaciones de violencia.
+
+La legislación estatal, así como los Programas Estatal y municipales, respectivamente, deberán establecer las disposiciones que orientarán las políticas de prevención, protección, atención, sanción y erradicación de los supuestos a que se refieren las fracciones anteriores.
+
+Las autoridades competentes, están obligadas a implementar medidas especiales para prevenir, sancionar y reparar las conductas previstas en este artículo para niñas, niños y adolescentes con discapacidad.
+
+###### Artículo 53.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, en coordinación con la Procuraduría de Protección que corresponda, están obligadas a adoptar las medidas apropiadas para promover la recuperación física y psicológica y la restitución de derechos de niñas, niños y adolescentes para lograr el pleno ejercicio de sus derechos y garantizar su reincorporación a la vida cotidiana.
+
+La recuperación y restitución de derechos a que se refiere el párrafo anterior se llevarán a cabo en un ambiente que fomente la salud física y psicológica, el respeto y la dignidad de niñas, niños y adolescentes.
+
+###### Artículo 54.
+
+En los casos en que niñas, niños y adolescentes sean víctimas de delitos se aplicarán las disposiciones de la Ley de Víctimas para el Estado de Chiapas y demás disposiciones que resulten aplicables. En todo caso, los protocolos de atención que se desarrollen y apliquen por las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán considerar su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como la reparación integral del daño.
+
+### Capítulo Noveno. Del Derecho a la Protección de la Salud y a la Seguridad Social
+
+###### Artículo 55.
+
+Las niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir la prestación de servicios de atención médica gratuita y de calidad de conformidad con la legislación aplicable, con el fin de prevenir, proteger y restaurar su salud.
+
+###### Artículo 56.
+
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, deberán hacer diagnósticos de las condiciones de salud de las niñas, niños y adolescentes, definir prioridades, diseñar políticas y programas para atenderlas, e implementar y coordinar los programas y acciones necesarios a fin de:
+
+I. Reducir la morbilidad y mortalidad infantil.
+
+II. Asegurar asistencia médica y sanitaria para la atención y tratamiento de las enfermedades que afecten a las niñas, niños y adolescentes.
+
+III. Promover la alimentación directa de la madre al recién nacido, desde la primer (sic) hora de vida y las ventajas que esta conlleva.
+
+IV. Atender de manera especial las enfermedades respiratorias, renales, gastrointestinales, cáncer, endémicas, epidémicas, VIH/SIDA y otras enfermedades de transmisión sexual, impulsando programas de protección e información sobre ellas.
+
+V. Establecer las medidas tendentes para prevenir embarazos de las niñas y las adolescentes.
+
+VI. Disponer lo necesario para que las niñas, niños y adolescentes con discapacidad, reciban la atención apropiada a su condición, que los rehabiliten, les mejore su calidad de vida y los equipare a las demás personas en ejercicio de sus derechos.
+
+VII. Establecer las medidas tendentes para que en los servicios de salud se detecten y atiendan de manera especial los casos de las niñas, niños y adolescentes, víctimas y sujetos de violencia intrafamiliar.
+
+VIII. Asegurar que quienes ejerzan la patria potestad, tutela o guarda y custodia, así como las niñas, niños y adolescentes, conozcan los principios básicos de salud y nutrición, higiene, saneamiento ambiental, así como, las medidas de prevención de accidentes.
+
+IX. Otorgar cuidados paliativos para liberar a las niñas, niños y adolescentes enfermos, del dolor evitable, en armonía con el tratamiento de curación.
+
+X. Combatir la desnutrición crónica y aguda, sobrepeso y obesidad, así como otros trastornos de la conducta alimentaria mediante la promoción de hábitos de alimentación saludables, mejorando las condiciones que los determinan como, el acceso a agua segura y limpia, promoción de actividad física, actividades recreativas, así como impulsar programas que promuevan y prevengan estilos de vida saludables desde la infancia.
+
+XI. Fomentar y ejecutar los programas de vacunación y el control de la niñez y adolescencia sana para vigilar su crecimiento y desarrollo en forma periódica.
+
+XII. Prohibir, sancionar y erradicar la esterilización forzada de niñas, niños y adolescentes y cualquier forma de violencia obstétrica.
+
+XIII. Proporcionar asesoría y orientación sobre salud sexual y reproductiva, conforme a su edad, el desarrollo evolutivo, cognoscitivo y madurez.
+
+XIV. Establecer medidas tendentes a que en los servicios de salud se detecten y atiendan de manera especial los casos de niñas, niños y adolescentes con problemas de salud mental.
+
+XV. Garantizar el acceso oportuno y adecuado a los servicios de salud mental.
+
+XVI. Proporcionar atención médica en el momento que sea solicitado, y en su caso a ser atendidos en las instancias de salud correspondientes, para completar su proceso de tratamiento y rehabilitación.
+
+XVII. Informar acerca de las campañas, programas y servicios que proporcione el Gobierno y las instituciones sociales y privadas en materia de salud mental.
+
+XVIII. Aplicar exámenes de valoración, confiables y actualizados que consideren su entorno social y a conocer los alcances y las limitaciones de las evaluaciones realizadas.
+
+XIX. En materia de salud mental, se deberá informar a quienes ejerzan la patria potestad, tutela o guarda y custodia, así como a las niñas, niños y adolescentes, de la condición y el posible efecto del programa, campaña o tratamiento que reciban.
+
+XX. A conservar la confidencialidad de información personal, a una historia clínica de conformidad con lo establecido en las normas oficiales y al anonimato de las niñas, niños y adolescentes en los casos de salud mental.
+
+XXI. Adoptar medidas tendentes a la eliminación de las prácticas culturales, usos y costumbres que sean perjudiciales para la salud de niñas, niños y adolescentes.
+
+XXII. Establecer medidas tendentes a la prevención, atención, combate y rehabilitación de los problemas de salud pública causados por las adicciones.
+
+Asimismo, las autoridades estatales y municipales garantizarán que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, así como la prevención de embarazos, higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
+
+Los Programas Estatal y municipales incluirán las acciones y medidas específicas que cada una de las autoridades estatales y municipales obligadas deberán realizar de manera coordinada para dar cumplimiento a lo previsto en el presente artículo.
+
+###### Artículo 57.
+
+El Sistema Estatal de Salud deberá garantizar el pleno cumplimiento del derecho a la salud atendiendo al derecho de prioridad, al interés superior de la niñez, la igualdad sustantiva y la no discriminación, así como establecer acciones afirmativas a favor de niñas, niños y adolescentes.
+
+En todos los casos se respetará el derecho a la intimidad de niñas, niños y adolescentes, considerándose en todo momento, la participación de quienes ejerzan la patria potestad, tutela, guarda o custodia de los mismos en la prestación de los servicios de salud que se les otorgue.
+
+###### Artículo 58.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias y de conformidad con las disposiciones aplicables, deberán garantizar el derecho a la seguridad social.
+
+###### Artículo 59.
+
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, deben desarrollar políticas para fortalecer la salud materno infantil y aumentar la esperanza de vida.
+
+### Capítulo Décimo. Del Derecho a la Inclusión de Niñas, Niños y Adolescentes con Discapacidad
+
+###### Artículo 60.
+
+Las Niñas, niños y adolescentes con discapacidad tienen derecho a la igualdad sustantiva y a disfrutar de los derechos contenidos en la Ley General, la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, la Constitución Política Local, la presente Ley y demás leyes aplicables.
+
+En términos de lo dispuesto por la Ley General, cuando exista duda o percepción si una niña, niño o adolescente es persona con discapacidad, se presumirá que es una niña, niño o adolescente con discapacidad.
+
+Son niñas, niños o adolescentes con discapacidad los que por razón congénita o adquirida presentan una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás.
+
+Las niñas, niños y adolescentes con discapacidad tienen derecho a vivir incluidos en la comunidad, en igualdad de condiciones que las demás niñas, niños y adolescentes.
+
+###### Artículo 61.
+
+Las autoridades Estatales y Municipales, en el ámbito de sus respectivas competencias, están obligadas a implementar medidas de nivelación, inclusión y acciones afirmativas en términos de las disposiciones aplicables, considerando los principios de participación e inclusión plenas y efectivas en la sociedad, respeto por la diferencia y la aceptación de las personas con discapacidad como parte de la diversidad y la condición humanas, respeto a la evolución de las facultades de niñas, niños y adolescentes con discapacidad y de su derecho a preservar su identidad.
+
+La discriminación por motivos de discapacidad también comprende la negación de ajustes razonables.
+
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, están obligadas a realizar lo necesario para fomentar la inclusión social y deberán establecer el diseño universal de accesibilidad de niñas, niños y adolescentes con discapacidad, en términos de la legislación aplicable.
+
+Además del diseño universal, se deberá dotar a las instalaciones que ofrezcan trámites y servicios a niñas, niños y adolescentes con discapacidad, la señalización en Braille y formatos accesibles de fácil lectura y comprensión. Asimismo, procurarán ofrecer otras medidas de asistencia e intermediarios.
+
+No se podrá negar o restringir la inclusión de niñas, niños y adolescentes con discapacidad a la educación, ni su plena participación en actividades recreativas, deportivas, lúdicas o culturales en instituciones públicas, privadas y sociales.
+
+La negación de este derecho implicará la imposición de sanciones a las autoridades responsables y de medidas de reparación a su cargo.
+
+No se considerarán discriminatorias las medidas específicas que sean necesarias para acelerar o lograr la igualdad sustantiva de las niñas, niños y adolescentes con discapacidad.
+
+###### Artículo 62.
+
+Las autoridades Estatales y municipales en el ámbito de sus respectivas competencias, realizarán acciones a fin de sensibilizar a la sociedad, incluso a nivel familiar, para que tome mayor conciencia respecto de las niñas, niños y adolescentes con discapacidad y fomentar el respeto a sus derechos y dignidad, así como combatir los estereotipos y prejuicios respecto de su discapacidad.
+
+Las leyes estatales establecerán disposiciones tendentes a:
+
+I. Reconocer y aceptar la existencia de la discapacidad, a efecto de prevenir la ocultación, abandono, negligencia y segregación de niñas, niños y adolescentes con discapacidad.
+
+II. Ofrecer apoyos educativos y formativos para quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes con discapacidad, a fin de aportarles los medios necesarios para que puedan fomentar su desarrollo y vida digna.
+
+III. Promover acciones interdisciplinarias para el estudio, diagnóstico temprano, tratamiento y rehabilitación de las discapacidades de niñas, niños y adolescentes que en cada caso se necesiten, asegurando que sean accesibles a las posibilidades económicas de sus familiares.
+
+IV. Disponer acciones que permitan ofrecerles cuidados elementales gratuitos, acceso a programas de estimulación temprana, servicios de salud, rehabilitación, esparcimiento, actividades ocupacionales, así como a la capacitación para el trabajo.
+
+V. Establecer mecanismos que permitan la recopilación periódica y sistemática de información y estadística de niñas, niños y adolescentes con discapacidad, que permita una adecuada formulación de políticas públicas en la materia.
+
+Dichos reportes deberán desagregarse, al menos, por sexo, edad, escolaridad, municipio y tipo de discapacidad.
+
+###### Artículo 63.
+
+Niñas, niños y adolescentes con discapacidad tienen derecho en todo momento a que se les facilite un intérprete o aquellos medios tecnológicos que les permitan obtener información de forma comprensible.
+
+### Capítulo Décimo Primero. Del Derecho a la Educación
+
+###### Artículo 64.
+
+Niñas, niños y adolescentes tienen derecho a una educación de calidad que contribuya al conocimiento de sus propios derechos y, basada en un enfoque de derechos humanos y de igualdad sustantiva, que garantice el respeto a su dignidad humana; el desarrollo armónico de sus potencialidades y personalidad, y fortalezca el respeto a los derechos humanos y a las libertades fundamentales, en los términos del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, La Constitución Política Local, la Ley de Educación del Estado y demás disposiciones aplicables.
+
+Quienes ejerzan la patria potestad, tutela o guarda y custodia, tendrán derecho a intervenir en la educación que habrá de darse a niñas, niños y adolescentes, en términos de lo previsto por el artículo 111 de esta Ley.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias garantizarán la consecución de una educación de calidad y la igualdad sustantiva en el acceso y permanencia en la misma, para lo cual deberán:
+
+I. Proporcionar la atención educativa que niñas, niños y adolescentes requieran para su pleno desarrollo, para lo cual, los programas respectivos deberán considerar la edad, madurez, circunstancias particulares y tradiciones culturales, así como garantizar los derechos lingüísticos y culturales de niñas niños y adolescentes indígenas.
+
+II. Adoptar medidas orientadas hacia el pleno ejercicio del derecho a la educación.
+
+III. Establecer medidas para garantizar la gratuidad de la educación pública obligatoria y para procurar la accesibilidad material, económica y geográfica a la educación, sin discriminación.
+
+IV. Establecer las condiciones necesarias para fortalecer la calidad educativa, tales como la relevancia y pertinencia del currículo, la disposición de la infraestructura y equipamiento adecuados para el aprendizaje y para las prácticas de enseñanza, la evaluación docente, entre otras.
+
+V. Destinar recursos humanos, materiales y presupuestarios adecuados y suficientes para garantizar la educación de calidad de niñas, niños y adolescentes.
+
+VI. Adaptar el sistema educativo a las condiciones, intereses y contextos específicos de niñas, niños y adolescentes para garantizar su permanencia en el sistema educativo.
+
+VII. Establecer acciones afirmativas para garantizar el derecho y permanencia a la educación de niñas, niños y adolescentes de grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, trabajo, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales.
+
+VIII. Prestar servicios educativos en condiciones de normalidad mínima, entendida ésta como el conjunto de condiciones indispensables que deben cumplirse en cada escuela para el buen desempeño de la tarea docente y el logro del aprendizaje de los educandos.
+
+IX. Implementar mecanismos para la atención, canalización y seguimiento de los casos que constituyan violaciones al derecho a la educación de niñas, niños y adolescentes.
+
+X. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos.
+
+XI. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite en los centros educativos.
+
+XII. Se elaboren protocolos de actuación sobre situaciones de acoso o violencia escolar para el personal y para quienes ejerzan la patria potestad, tutela o guarda y custodia.
+
+XIII. Garantizar el pleno respeto al derecho a la educación y la inclusión de niñas, niños y adolescentes con discapacidad en todos los niveles del Sistema Educativo Nacional, desarrollando y aplicando normas y reglamentos que eviten su discriminación y las condiciones de accesibilidad en instalaciones educativas, proporcionen los apoyos didácticos, materiales y técnicos y cuenten con personal docente capacitado.
+
+XIV. Adoptar medidas para responder a las necesidades de niñas, niños y adolescentes con aptitudes sobresalientes, de tal manera que se posibilite su desarrollo progresivo e integral, conforme a sus capacidades y habilidades personales.
+
+XV. Establecer mecanismos para la expresión y participación de niñas, niños y adolescentes, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez que permita atender y tomar en cuenta sus intereses y preocupaciones en materia educativa.
+
+XVI. Contribuir a garantizar la permanencia y conclusión de la educación obligatoria de niñas, niños y adolescentes y para abatir el ausentismo, abandono y deserción escolares.
+
+XVII. Administrar la disciplina escolar de modo compatible con la dignidad humana, impidiendo la imposición de medidas de disciplina que no estén previamente establecidas, sean contrarias a la dignidad humana o atenten contra la vida o la integridad física o mental de niñas, niños y adolescentes.
+
+XVIII. Erradicar el castigo corporal y las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes.
+
+XIX. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente.
+
+XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación.
+
+XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo nacional.
+
+XXII. Integrar de manera transversal mecanismos para garantizar los derechos lingüísticos y culturales de niñas niños y adolescentes indígenas.
+
+XXIII. Establecer acciones afirmativas que garanticen el acceso y permanencia escolar de niñas, niños y adolescentes trabajadores, faciliten su reingreso y promuevan su egreso del sistema educativo nacional.
+
+XXIV. Otorgar una correcta orientación vocacional, para que así puedan elegir la profesión, arte, oficio y opción educativa que cumpla con sus expectativas y virtudes.
+
+Las autoridades escolares, en el ámbito de su competencia, deberán adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
+
+###### Artículo 65.
+
+La educación, además de lo dispuesto en las disposiciones aplicables, tendrá los siguientes fines:
+
+I. Fomentar en niñas, niños y adolescentes los valores fundamentales y el respeto de la identidad propia, así como a las diferencias culturales y opiniones diversas.
+
+II. Desarrollar la personalidad, las aptitudes y las potencialidades de niñas, niños y adolescentes.
+
+III. Inculcar a niñas, niños y adolescentes sentimientos de identidad y pertenencia a su escuela, comunidad y nación, así como su participación activa en el proceso educativo y actividades cívicas en términos de las disposiciones aplicables.
+
+IV. Orientar a niñas, niños y adolescentes respecto a la formación profesional, las oportunidades de empleo y las posibilidades de carrera.
+
+V. Apoyar a niñas, niños y adolescentes que sean víctimas de maltrato y la atención especial de quienes se encuentren en situación de riesgo.
+
+VI. Prevenir el delito y las adicciones, mediante el diseño y ejecución de programas.
+
+VII. Emprender, en cooperación con quienes ejerzan la patria potestad, tutela o guarda y custodia, así como con grupos de la comunidad, la planificación, organización y desarrollo de actividades extracurriculares que sean de interés para niñas, niños y adolescentes.
+
+VIII. Promover la educación sexual integral conforme a su edad, el desarrollo evolutivo, cognoscitivo y madurez, que le permitan a niñas, niños y adolescentes ejercer de manera informada y responsable sus derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, en las Leyes y los Tratados Internacionales.
+
+IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos.
+
+X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos.
+
+###### Artículo 66.
+
+Sin perjuicio de lo dispuesto en otras disposiciones aplicables, las autoridades competentes llevarán a cabo las acciones necesarias para propiciar las condiciones idóneas para crear un ambiente libre de violencia en las instituciones educativas, en el que se fomente la convivencia armónica y el desarrollo integral de niñas, niños y adolescentes, incluyendo la creación de mecanismos de mediación permanentes donde participen quienes ejerzan la patria potestad o tutela.
+
+Para efectos del párrafo anterior, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, y las instituciones académicas se coordinarán para:
+
+I. Diseñar estrategias y acciones para la detección temprana, contención, prevención y erradicación del acoso o la violencia escolar en todas sus manifestaciones, que contemplen la participación de los sectores público, privado y social, así como indicadores y mecanismos de seguimiento, evaluación y vigilancia;
+
+II. Desarrollar actividades de capacitación para servidores públicos y para el personal administrativo y docente.
+
+Creando un mecanismo para garantizar la formación, capacitación y profesionalización continua y obligatoria de los servidores públicos vinculados con la protección, restitución y garantía de sus derechos a nivel estatal y municipal.
+
+III. Establecer mecanismos gratuitos de atención, asesoría, orientación y protección de niñas, niños y adolescentes involucrados en una situación de acoso o violencia escolar.
+
+IV. Establecer y aplicar las sanciones que correspondan a las personas, responsables de centros de asistencia social, personal docente o servidores públicos que realicen, promuevan, propicien, toleren o no denuncien actos de acoso o violencia escolar, conforme a lo dispuesto en esta Ley y demás disposiciones aplicables.
+
+###### Artículo 67.
+
+La falta de documentación para acreditar la identidad de niñas, niños y adolescentes no será obstáculo para que el Estado garantice su derecho a la educación; sin embargo quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes están obligados a realizar los trámites correspondientes y poder dotarlos de una identidad.
+
+### Capítulo Décimo Segundo. Del Derecho al Descanso y al Esparcimiento
+
+###### Artículo 68.
+
+Niñas, niños y adolescentes tienen derecho al descanso, al esparcimiento, al juego y a las actividades recreativas propias de su edad, así como a participar libremente en actividades culturales, deportivas y artísticas, los cuales serán respetados como factores primordiales de su desarrollo y crecimiento.
+
+Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes deberán respetar el ejercicio de estos derechos y, por lo tanto, no podrán imponerles regímenes de vida, estudio, trabajo o reglas de disciplina desproporcionadas a su edad, desarrollo evolutivo, cognoscitivo y madurez, que impliquen la renuncia o el menoscabo de los mismos.
+
+###### Artículo 69.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a garantizar el derecho de niñas, niños y adolescentes al descanso y el esparcimiento y a fomentar oportunidades apropiadas, en condiciones de igualdad, para su participación en actividades culturales, artísticas y deportivas dentro de su comunidad.
+
+### Capítulo Décimo Tercero. Del Derecho a la Libertad de Convicciones Éticas, Pensamiento, Conciencia, Religión y Cultura
+
+###### Artículo 70.
+
+Las niñas, niños y adolescentes tendrán derecho a mantener y desarrollar su identidad cultural, haciendo uso de su lengua materna en privado y en público y recibiendo información y educación en su lengua. Las instituciones estatales y municipales deberán establecer mecanismos para que niñas, niños y adolescentes sean debidamente atendidos.
+
+Las niñas, niños y adolescentes, tendrán derecho a participar en todos los medios de comunicación de manera equitativa, con el fin de reflejar su diversidad cultural ante la sociedad, y con ello, lograr el respeto (sic) sus derechos.
+
+Las autoridades estatales y municipales observarán la garantía de este derecho en la aplicación de esta ley. Así mismo, estas, junto con la sociedad, deberán respetar las costumbres, tradiciones, lengua, vestimenta y todo lo que implique la identidad cultural de las niñas, niños y adolescentes pertenecientes a cualquier grupo social.
+
+###### Artículo 71.
+
+Las Niñas, niños y adolescentes tienen derecho a la libertad de convicciones éticas, pensamiento, conciencia, religión y cultura. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias garantizarán este derecho en el marco del estado laico.
+
+La libertad de profesar la propia religión o creencias estará sujeta únicamente a las limitaciones prescritas por la ley que sean necesarias para proteger los derechos y libertades fundamentales de los demás.
+
+Niñas, niños y adolescentes no podrán ser discriminados de forma alguna por ejercer su libertad de convicciones éticas, pensamiento, conciencia, religión y cultura.
+
+###### Artículo 72.
+
+Las niñas, niños y adolescentes tienen derecho a disfrutar libremente de su lengua, cultura, usos, costumbres, prácticas culturales, religión, recursos y formas específicas de organización social y todos los elementos que constituyan su identidad cultural.
+
+Las autoridades Estatales y Municipales en el ámbito de sus respectivas competencias, estarán obligados a establecer políticas tendentes a garantizar la promoción, difusión y protección de la diversidad de las expresiones culturales, regionales y universales, entre niñas, niños y adolescentes.
+
+Lo dispuesto en este artículo no será limitativo del ejercicio del derecho a la educación, según lo dispuesto en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y el artículo 4° de la Constitución Política local, ni de los principios rectores de la presente Ley.
+
+### Capítulo Décimo Cuarto. Del Derecho a la Libertad de Expresión y de Acceso a la Información
+
+###### Artículo 73.
+
+Las autoridades Estatales y Municipales en el ámbito de sus respectivas competencias deberán garantizar el derecho de niñas, niños y adolescentes a expresar su opinión libremente, así como a buscar, generar, acceder, recibir y difundir información e ideas de todo tipo y por cualquier medio, sin más limitaciones que las establecidas en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política local.
+
+La libertad de expresión de niñas, niños y adolescentes conlleva el derecho a que se tome en cuenta su opinión respecto de los asuntos que les afecten directamente, o a sus familias o comunidades. Dichas autoridades, en el ámbito de sus respectivas competencias, deberán establecer las acciones que permitan la recopilación de opiniones y realización de entrevistas a niñas, niños y adolescentes sobre temas de interés general para ellos.
+
+En poblaciones predominantemente indígenas, las autoridades a que se refiere este artículo, tienen la obligación de difundir la información institucional y la promoción de los derechos en la lengua indígena local.
+
+Asimismo, las autoridades a que se refiere este artículo dispondrán lo necesario para garantizar que niñas, niños y adolescentes con discapacidad cuenten con los sistemas de apoyo para ejercer su derecho a la libertad de expresión, acceso a la información y sistema de apoyo para la expresión de su voluntad.
+
+###### Artículo 74.
+
+Niñas, niños y adolescentes tienen derecho al libre acceso a la información. Las autoridades Estatales y Municipales, en el ámbito de sus respectivas competencias promoverán la difusión de información y material que tengan por finalidad asegurar su bienestar social y ético, así como su desarrollo cultural y salud física y mental.
+
+El Sistema Estatal de Protección Integral acordará lineamientos generales sobre la información y materiales para difusión entre niñas, niños y adolescentes, conforme a lo dispuesto en esta Ley.
+
+###### Artículo 75.
+
+Las autoridades Estatales y Municipales, en el ámbito de sus respectivas competencias, promoverán mecanismos para la protección de las niñas, niños y adolescentes respecto de los riesgos derivados del acceso a medios de comunicación y uso de sistemas de información que afecten o impidan objetivamente su desarrollo integral.
+
+###### Artículo 76.
+
+Sin perjuicio de lo previsto en las disposiciones aplicables a los medios de comunicación, las autoridades estatales competentes, en el ámbito de sus respectivas competencias, procurarán que éstos difundan información y materiales relacionados con:
+
+I. El interés social y cultural para niñas, niños y adolescentes, de conformidad con los objetivos de la educación que dispone la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política local.
+
+II. La existencia en la sociedad de servicios, instalaciones y oportunidades destinados a niñas, niños y adolescentes.
+
+III. La orientación a niñas, niños y adolescentes en el ejercicio de sus derechos.
+
+IV. La promoción de la prevención de violaciones a los derechos humanos de niñas, niños y adolescentes y la comisión de actos delictivos.
+
+V. El enfoque de inclusión, igualdad sustantiva, no discriminación y perspectiva de género y de derechos humanos.
+
+###### Artículo 77.
+
+La Procuraduría de Protección Estatal, podrá promover ante las autoridades administrativas competentes la imposición de sanciones a los medios de comunicación, en los términos que establece esta Ley y demás disposiciones aplicables.
+
+Asimismo, la Procuraduría de Protección Estatal, estará facultada para promover acciones colectivas ante el órgano jurisdiccional competente, con objeto de que éste ordene a los medios de comunicación que se abstengan de difundir información o contenidos que pongan en peligro de forma individual o colectiva, la vida, la integridad, la dignidad u otros derechos de niñas, niños y adolescentes y, en su caso, reparen los daños que se hubieren ocasionado, sin menoscabo de las atribuciones que sobre esta materia tengan las autoridades competentes.
+
+Lo anterior, sin perjuicio de cualquier otra responsabilidad a la que hubiere lugar de conformidad con las disposiciones aplicables.
+
+### Capítulo Décimo Quinto. Del Derecho a la Participación
+
+###### Artículo 78.
+
+Niñas, niños y adolescentes tienen derecho a ser escuchados y tomados en cuenta en los asuntos de su interés, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+
+###### Artículo 79.
+
+Las autoridades Estatales y Municipales en el ámbito de sus respectivas competencias, están obligadas a disponer e implementar los mecanismos que garanticen la participación permanente y activa de niñas, niños y adolescentes en las decisiones que se toman en los ámbitos familiar, escolar, social, comunitario o cualquier otro en el que se desarrollen.
+
+###### Artículo 80.
+
+Niñas, niños y adolescentes tienen derecho a participar, a ser escuchados y tomados en cuenta en todos los procesos judiciales y de procuración de justicia donde se diriman controversias que les afectan, en los términos señalados por el Capítulo Décimo Noveno del Título Segundo de la presente Ley.
+
+###### Artículo 81.
+
+Niñas, niños y adolescentes tienen derecho a que las autoridades estatales y municipales, les informen de qué manera su opinión será valorada y tomada en cuenta su solicitud.
+
+### Capítulo Décimo Sexto. Del Derecho de Asociación y Reunión
+
+###### Artículo 82.
+
+Las niñas, niños y adolescentes tienen derecho a asociarse y reunirse, sin más limitaciones que las establecidas en la Constitución Política de los Estados Unidos Mexicanos.
+
+Quienes ejerzan la patria potestad, tutela o guarda y custodia representarán a niñas, niños y adolescentes para el ejercicio del derecho de asociación, cuando ello sea necesario para satisfacer las formalidades que establezcan las disposiciones aplicables.
+
+### Capítulo Décimo Séptimo. Del Derecho a la Intimidad
+
+###### Artículo 83.
+
+Las niñas, niños y adolescentes tienen derecho a la intimidad personal y familiar, y a la protección de sus datos personales.
+
+Las niñas, niños y adolescentes no podrán ser objeto de injerencias arbitrarias o ilegales en su vida privada, su familia, su domicilio o su correspondencia tanto física como electrónica; tampoco de divulgaciones o difusiones ilícitas de información o datos personales, incluyendo aquélla que tenga carácter informativo a la opinión pública o de noticia que permita identificarlos y que atenten contra su honra, imagen o reputación.
+
+Quienes ejerzan la patria potestad, tutela o guarda y custodia, deberán orientar, supervisar y, en su caso, restringir, las conductas y hábitos de niñas, niños y adolescentes, siempre que atiendan al interés superior de la niñez.
+
+###### Artículo 84.
+
+Se considerará violación a la intimidad de niñas, niños o adolescentes cualquier manejo directo de su imagen, nombre, datos personales o referencias que permitan su identificación en los medios de comunicación que cuenten con concesión para prestar el servicio de radiodifusión y telecomunicaciones, así como medios impresos, o en medios electrónicos de los que tenga control el concesionario o medio impreso del que se trate, que menoscabe su honra o reputación, sea contrario a sus derechos o que los ponga en riesgo, conforme al principio de interés superior de la niñez.
+
+###### Artículo 85.
+
+Cualquier medio de comunicación que difunda entrevistas a niñas, niños y adolescentes, procederá como sigue:
+
+I. Deberá recabar el consentimiento por escrito o cualquier otro medio, de quienes ejerzan la patria potestad o tutela, así como la opinión de la niña, niño o adolescente, respectivamente, conforme a lo señalado en el artículo anterior y a lo previsto en el párrafo segundo del artículo 83 de la presente Ley.
+
+II. La persona que realice la entrevista será respetuosa y no podrá mostrar actitudes ni emitir comentarios que afecten o impidan objetivamente el desarrollo integral de niñas, niños y adolescentes.
+
+En el caso de que no sea posible recabar el consentimiento de quienes ejerzan la patria potestad o tutela de un adolescente, éste podrá otorgarlo siempre que ello no implique una afectación a su derecho a la privacidad por el menoscabo a su honra o reputación.
+
+No se requerirá el consentimiento de quienes ejerzan la patria potestad o tutela de niñas, niños o adolescentes, cuando la entrevista tenga por objeto que éstos expresen libremente, en el ejercicio de su derecho a la libertad de expresión, su opinión respecto de los asuntos que les afecten directamente, siempre que ello no implique una afectación a sus derechos, en especial a su honra y reputación.
+
+###### Artículo 86.
+
+Las autoridades Estatales y Municipales en el ámbito de sus respectivas competencias y en todos los procedimientos con independencia de su naturaleza, garantizarán la protección de la identidad e intimidad de niñas, niños y adolescentes cualquiera que sea su participación, a fin de evitar su identificación pública.
+
+###### Artículo 87.
+
+Los medios de comunicación deberán asegurarse que las imágenes, voz o datos a difundir, no pongan en peligro, de forma individual o colectiva, la vida, integridad, dignidad o vulneren el ejercicio de derechos de niñas, niños y adolescentes, aun cuando se modifiquen, se difuminen o no se especifiquen sus identidades, y evitarán la difusión de imágenes o noticias que propicien o sean tendentes a su discriminación, criminalización o estigmatización, en contravención a las disposiciones aplicables.
+
+En caso de incumplimiento a lo establecido en el presente artículo, niñas, niños o adolescentes afectados, por conducto de su representante legal o, en su caso, de la Procuraduría de Protección Estatal, actuando de oficio o en representación sustituta, podrá promover las acciones civiles de reparación del daño e iniciar los procedimientos por la responsabilidad administrativa a que haya lugar; así como dar seguimiento a los procedimientos hasta su conclusión.
+
+Niñas, niños o adolescentes afectados, considerando su edad, grado de desarrollo cognoscitivo y madurez, solicitarán la intervención de la Procuraduría de Protección Estatal.
+
+En los procedimientos civiles o administrativos que sean iniciados o promovidos por quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, las Procuradurías de Protección Municipales ejercerán su representación coadyuvante.
+
+###### Artículo 88.
+
+En los procedimientos ante órganos jurisdiccionales, se podrá solicitar que se imponga como medida cautelar la suspensión o bloqueo de cuentas de usuarios en medios electrónicos, a fin de evitar la difusión de información, imágenes, sonidos o datos que puedan contravenir el interés superior de la niñez.
+
+El órgano jurisdiccional, con base en este artículo y en las disposiciones aplicables, podrá requerir a las empresas de prestación de servicios en materia de medios electrónicos, que realicen las acciones necesarias para el cumplimiento de las medidas cautelares que ordene.
+
+### Capítulo Décimo Octavo. Del Derecho a la Movilidad Humana y al Libre Tránsito
+
+###### Artículo 89.
+
+Niñas, niños y adolescentes tienen derecho a migrar y a transitar libremente por el territorio nacional, a entrar y salir de él, acompañados de quien ejerza la patria potestad, tutela, guarda o custodia, o en su caso, con la autorización de éstos o de la autoridad competente, en plena observancia al principio rector del interés superior de la niñez.
+
+### Capítulo Décimo Noveno. Del Derecho a la Seguridad Jurídica y al Debido Proceso
+
+###### Artículo 90.
+
+Las niñas, niños y adolescentes gozan de los derechos y garantías de seguridad jurídica y debido proceso establecidos en la Constitución Política de los Estados Unidos Mexicanos, Los Tratados Internacionales, la presente Ley y demás disposiciones aplicables.
+
+###### Artículo 91.
+
+En todo proceso de orden jurisdiccional o administrativo, en el que las niñas, niños y adolescentes se vean involucrados, se deberán cumplir con los derechos fundamentales y las garantías previstas en la ley. Además serán tratados con respeto y, en función de su edad y madurez, se les tendrá la consideración debida. Para ello serán valorados por profesionales que determinen si por su condición se encuentran en posibilidad de comparecer en un procedimiento seguido en forma de juicio.
+
+Esta circunstancia se acreditará mediante el certificado psicológico que determine el grado de conciencia y la manera, forma o mecanismos idóneos para tomar su parecer, acorde a su madurez y edad, a fin de no afectar su expresión de voluntad y su estabilidad emocional.
+
+Para garantizar lo establecido en el párrafo anterior, la Procuraduría General de Justicia del Estado y el Tribunal Superior de Justicia, deberán contar con el personal especializado en psicología que certifique y acompañe a las niñas, niños y adolescentes, en los procesos respectivos.
+
+###### Artículo 92.
+
+En todo proceso judicial o administrativo en el que las niñas, niños o adolescentes participen, independientemente de la calidad con que lo hagan, se establecerán las condiciones necesarias, de conformidad con su grado de desarrollo y estado emocional, a fin de que su comparecencia no tenga como consecuencia una victimización y que la experiencia sea lo menos perjudicial posible.
+
+En términos del párrafo anterior, las autoridades jurisdiccionales o administrativas, procurarán que las participaciones se desarrollen en el horario matutino o vespertino preferentemente.
+
+###### Artículo 93.
+
+Las autoridades Estatales y Municipales, que sustancien procedimientos de carácter jurisdiccional o administrativo o que realicen cualquier acto de autoridad en los que estén relacionados niñas, niños o adolescentes, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez estarán obligadas a observar, cuando menos a:
+
+I. Garantizar la protección y prevalencia del interés superior de la niñez a que se refiere la presente Ley.
+
+II. Garantizar el ejercicio de los derechos de niñas, niños y adolescentes, establecidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, la Constitución Política Local, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la presente Ley y demás disposiciones aplicables.
+
+III. Proporcionar información clara, sencilla y comprensible para las niñas, niños y adolescentes sobre el procedimiento judicial o administrativo de que se trate y la importancia de su participación en el mismo, incluyendo, en su caso, formatos accesibles de fácil comprensión y lectura para niñas, niños y adolescentes con discapacidad.
+
+IV. Implementar mecanismos de apoyo al presentar una denuncia, participar en una investigación o en un proceso judicial.
+
+V. Garantizar el derecho de niñas, niños y adolescentes a ser representados en términos de lo dispuesto en el Título Quinto, Capítulo Segundo, de la presente Ley, así como información sobre las medidas de protección disponibles.
+
+VI. Proporcionar asistencia de profesionales especializados cuando la naturaleza del procedimiento lo requiera.
+
+VII. Proporcionar la asistencia de un traductor o intérprete.
+
+VIII. Ponderar, antes de citar a una niña, niño o adolescente a alguna audiencia, la pertinencia de la misma, considerando su edad, madurez, estado psicológico, así como cualquier otra condición específica.
+
+IX. Garantizar el acompañamiento de quien ejerza sobre ellos la patria potestad, tutela, guarda o custodia durante la sustanciación de todo el procedimiento, salvo disposición judicial en contrario.
+
+X. Poseer la infraestructura necesaria como medida de protección para evitar el contacto con personas que puedan influir en el comportamiento o estabilidad emocional de la persona menor de edad.
+
+XI. Destinar espacios lúdicos de descanso y aseo para niñas, niños y adolescentes en los recintos en que se lleven a cabo procedimientos en que deban intervenir.
+
+XII. Procurar que el tiempo de comparecencia ante la autoridad competente sea el mínimo indispensable a fin de disminuir el temor y angustia.
+
+XIII. Implementar medidas para proteger a niñas, niños o adolescentes de sufrimientos durante su participación y garantizar el resguardo de su intimidad y datos personales.
+
+###### Artículo 94.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, garantizarán que niñas y niños a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito se les reconozca que están exentos de responsabilidad penal y garantizarán que no serán privados de la libertad ni sujetos a procedimiento alguno, sino que serán únicamente sujetos a la asistencia social con el fin de restituirles, en su caso, en el ejercicio de sus derechos.
+
+Lo anterior, sin perjuicio de las responsabilidades civiles que correspondan a quienes ejerzan la patria potestad, tutela o guarda y custodia, conforme a las disposiciones aplicables.
+
+###### Artículo 95.
+
+En aquellos casos en que el Ministerio Público o cualquier otra autoridad competente, tenga conocimiento de la presunta comisión o participación de una niña, niño y adolescentes (sic) en un hecho que la ley señale como delito, de manera inmediata dará aviso a la Procuraduría de Protección competente.
+
+En ningún caso, niñas o niños podrán ser detenidos, retenidos, sometidos a interrogatorios o privados de su libertad argumentándose su probable participación en un hecho que la ley señale como delito.
+
+La Procuraduría de Protección competente en el marco de sus atribuciones, deberá, en su caso, solicitar a la autoridad competente de manera inmediata las medidas necesarias para la protección integral, de asistencia social y en su caso, restitución de sus derechos para garantizar que a las niñas y niños les sean respetados todos sus derechos.
+
+Toda medida que se adopte será susceptible de revisión por órgano judicial competente en un proceso contradictorio en el que se garantice, por lo menos, el derecho a ser escuchado y la asistencia de un abogado especializado.
+
+###### Artículo 96.
+
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, garantizarán que en todos los procedimientos con independencia de su naturaleza, en que estén relacionadas niñas, niños o adolescentes cualquiera que sea su participación, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, tengan al menos los siguientes derechos:
+
+I. Se les informe sobre la naturaleza del procedimiento y el carácter de su participación en el mismo, el que en ningún caso podrá ser el de imputado o probable responsable.
+
+II. Que su participación en un procedimiento se lleve a cabo de la manera más expedita, asistidos por un profesional en derecho y atendiendo a lo dispuesto por la fracción XI del artículo 93 de esta Ley.
+
+III. Garantizar el acompañamiento de quien ejerza sobre ellos la patria potestad, tutela o guarda y custodia durante la sustanciación de todo el procedimiento, salvo disposición judicial en contrario, con base en el interés superior de la niñez.
+
+IV. Que se preserve su derecho a la intimidad, que no se divulguen sus datos de identificación en los términos de esta Ley y las demás aplicables.
+
+V. Tener acceso gratuito a asistencia jurídica, psicológica y cualquier otra necesaria atendiendo a las características del caso, a fin de salvaguardar sus derechos, en términos de las disposiciones aplicables.
+
+VI. Adoptar las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes que presuntamente son víctimas de la comisión de un delito o violación a sus derechos humanos.
+
+###### Artículo 97.
+
+Siempre que se encuentre una niña, niño o adolescente en el contexto de la comisión de un delito, se notificará de inmediato a quienes ejerzan la patria potestad, tutela o guarda y custodia, así como a la Procuraduría de Protección municipal del domicilio de éstos, para el debido seguimiento.
+
+###### Artículo 98.
+
+En los procedimientos de orden civil, familiar, penal y administrativos, se deben privilegiar las medidas de protección para evitar la violación a cualesquiera de los derechos de las niñas, niños y adolescentes, cuando exista conflicto de intereses entre quienes ejercen la patria potestad, guarda o custodia y los que estén sujetos a ellas.
+
+Para garantizar lo anterior, la Procuraduría de Protección municipal que corresponda al domicilio de las niñas, niños y adolescentes, nombrará al representante coadyuvante, sin perjuicio de la intervención que legalmente compete al Ministerio Público.
+
+###### Artículo 99.
+
+Ante la comisión de conductas que constituyan faltas o infracciones de orden administrativo, se deberá hacer del conocimiento inmediato de sus padres, tutores o custodios dicha circunstancia, a efecto de que los implicados tomen conciencia sobre las consecuencias del acto y asuman las responsabilidades que derivan de la ley.
+
+Tratándose de conductas consideradas por la legislación penal como delito, se estará a las disposiciones contenidas en la Ley que Establece el Sistema Integral de Justicia para Adolescentes en el Estado de Chiapas y demás ordenamientos aplicables.
+
+### Capítulo Vigésimo. De las Niñas, Niños y Adolescentes Migrantes
+
+###### Artículo 100.
+
+Las niñas, niños y adolescentes migrantes, gozarán en igualdad de condiciones de todos los derechos consagrados en la presente Ley.
+
+El Estado y los municipios, garantizarán esta igualdad de derechos y acceso a los sistemas de protección para las niñas, niños y adolescentes que no sean de nacionalidad mexicana y se encuentren en condiciones de movilidad humana, incluyendo a migrantes, desplazados internos, solicitantes de asilo, refugiados y apátridas.
+
+El Estado y los municipios, garantizarán el acceso a los servicios públicos, en situación de movilidad humana, y en especial el acceso a la atención en salud y la educación para las niñas, niños y adolescentes migrantes establecidos de manera permanente o temporal.
+
+###### Artículo 101.
+
+Las autoridades estatales y municipales deberán adoptar, en base al interés superior de la niñez, medidas especiales de protección para garantizar los derechos de niñas, niños y adolescentes migrantes, cualquiera que sea su condición en el contexto de movilidad humana, teniendo en cuenta sus opiniones y privilegiando la reunificación familiar, excepto cuando sea contrario a su interés superior.
+
+###### Artículo 102.
+
+Las autoridades competentes deberán observar los procedimientos de atención y protección especial de derechos de niñas, niños y adolescentes migrantes, previstos en la Ley de Migración, su Reglamento, la Ley sobre Refugiados y Protección Complementaria, su Reglamento, y demás disposiciones jurídicas aplicables, debiendo observar en todo momento el principio del interés superior de la niñez y los estándares internacionales más altos en materia de derechos humanos.
+
+###### Artículo 103.
+
+Las Procuradurías de Protección Estatal y municipales, que atiendan a niñas, niños y adolescentes que se encuentren en procesos migratorios, deberán:
+
+I. Brindarles orientación sobre sus derechos y las etapas del proceso migratorio.
+
+II. Coadyuvar para que se garantice su derecho de participación en las diferentes etapas procesales.
+
+III. Solicitar a la autoridad competente que sean asistidos gratuitamente por un traductor y/o intérprete.
+
+IV. Asistirlos legalmente, o representarlos en suplencia.
+
+V. Recurrir la decisión de la autoridad migratoria, ante el órgano jurisdiccional competente.
+
+###### Artículo 104.
+
+Para garantizar la protección integral de los derechos, el Sistema DIF-Chiapas y los Sistemas DIF-Municipales, habilitarán espacios de alojamiento o albergues para recibir a niñas, niños y adolescentes migrantes, en términos de lo que establezca la normatividad correspondiente.
+
+###### Artículo 105.
+
+En caso de que el Sistema DIF-Chiapas y los Sistemas DIF-Municipales según sea el caso, identifiquen, mediante una evaluación inicial, a niñas, niños o adolescentes extranjeros que sean susceptibles de reconocimiento de condición de refugiado o de asilo, lo comunicarán a la Comisión Mexicana de Ayuda al Refugiado a fin de adoptar medidas de protección especial e iniciar el procedimiento de solicitud de asilo.
+
+El Sistema DIF-Chiapas y los Sistemas Municipales, en el ámbito de sus respectivas competencias, deberán, en coordinación con las instituciones competentes, identificar a las niñas, niños y adolescentes extranjeros que requieren de protección internacional, ya sea como refugiado o de algún otro tipo, a través de una evaluación inicial con garantías de seguridad y privacidad, con el fin de proporcionarles el tratamiento adecuado e individualizado que sea necesario mediante la adopción de medidas de protección especial.
+
+###### Artículo 106.
+
+El Sistema DIF-Chiapas y los Sistemas Municipales deberán diseñar y administrar las bases de datos de niñas, niños y adolescentes migrantes extranjeros no acompañados, en las que se debe incluir, entre otros aspectos, la condición étnica, las causas de su migración, las condiciones de tránsito, sus vínculos familiares, factores de riesgo en origen y tránsito, información de sus representantes legales, datos sobre su alojamiento y situación jurídica, entre otros.
+
+El Sistema DIF-Chiapas, enviará al Sistema Nacional DIF la información en el momento en que se genere a fin de que se incorpore en las bases de datos a que se refiere el párrafo anterior, atendiendo a lo previsto en la Ley que Garantiza la Transparencia y el Derecho a la Información Pública en el Estado de Chiapas y demás disposiciones aplicables en materia de transparencia.
+
+###### Artículo 107.
+
+En ningún caso una situación migratoria irregular de niña, niño o adolescente, preconfigurará por sí misma la comisión de un delito, ni se prejuzgará la comisión de ilícitos por el hecho de encontrarse en dicha condición migratoria.
+
+### Capítulo Vigésimo Primero
+
+Del Derecho de Acceso a las Tecnologías de la Información y Comunicación, Servicios de Radiodifusión y Telecomunicaciones, Incluido el de Banda Ancha e Internet
+
+###### Artículo 108.
+
+Las niñas, niños y adolescentes tienen derecho a acceder de forma libre y universal al internet, a las tecnologías de la información y la comunicación, así como, a los servicios de radiodifusión y telecomunicación. El Estado garantizará el acceso a este derecho.
+
+###### Artículo 109.
+
+El Estado implementará de manera paulatina la infraestructura necesaria en aquellos espacios públicos que para tal efecto se establezcan, para que las niñas, niños y adolescentes accedan a internet y a las tecnologías de la información y la comunicación.
+
+## Título Tercero. De las Obligaciones
+
+### Capítulo Único. De Quienes Ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
+
+###### Artículo 110.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias están obligadas a proporcionar asistencia médica, psicológica y atención preventiva integrada a la salud, así como un traductor o intérprete en caso de ser necesario, asesoría jurídica y orientación social a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad, en cuanto a las obligaciones que establecen esta Ley y demás disposiciones aplicables.
+
+###### Artículo 111.
+
+Son obligaciones de quienes ejercen la patria potestad, tutela o guarda y custodia, así como de las demás personas que por razón de sus funciones o actividades tengan bajo su cuidado niñas, niños o adolescentes, en proporción a su responsabilidad y, cuando sean instituciones públicas, conforme a su ámbito de competencia, las siguientes:
+
+I. Garantizar sus derechos alimentarios, el libre desarrollo de su personalidad y el ejercicio de sus derechos, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables.
+
+Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación y nutrición, habitación, educación, vestido, atención médica y psicológica preventiva integrada a la salud, asistencia médica y recreación. Las leyes estatales deberán prever los procedimientos y la orientación jurídica necesaria así como las medidas de apoyo para asegurar el cumplimiento del deber de garantizar los derechos alimentarios.
+
+II. Registrarlos dentro de los primeros sesenta días de vida, cumpliendo con el trámite de inscripción en el Registro Civil.
+
+III. Asegurar que cursen la educación obligatoria, participar en su proceso educativo y proporcionarles las condiciones para su continuidad y permanencia en el sistema educativo e incentivarlos para que realicen actividades formativas, culturales, recreativas, deportivas y de esparcimiento.
+
+IV. Impartir en consonancia con la evolución de sus facultades, dirección y orientación apropiada a niñas, niños y adolescentes, sin que ello pueda justificar limitación, vulneración o restricción alguna en el ejercicio de sus derechos.
+
+V. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad.
+
+VI. Fomentar en niñas, niños y adolescentes el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral.
+
+VII. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, venta, trata de personas y explotación.
+
+VIII. Abstenerse de cualquier atentado contra su integridad física, psicológica o actos que menoscaben su desarrollo integral. El ejercicio de la patria potestad, la tutela o la guarda y custodia de niñas, niños y adolescentes no podrá ser justificación para incumplir la obligación prevista en la presente fracción.
+
+IX. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia o rechazo en las relaciones entre niñas, niños y adolescentes, y de éstos con quienes ejercen la patria potestad, tutela o guarda y custodia, así como con los demás miembros de su familia.
+
+X. Considerar la opinión y preferencia de las niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+
+XI. Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación.
+
+XII. Darles a conocer sus derechos y responsabilidades, leyes y normas que rigen a la sociedad, así como brindarles orientación y dirección sobre la trascendencia de su ejercicio y debida observancia, específicamente para que tomen conciencia respecto a la importancia de:
+
+a) Respetar a las personas y los derechos de terceros.
+
+b) Cuidar su cuerpo para el sano desarrollo físico y emocional.
+
+c) Atender las instrucciones que para su correcta formación, cuidado de la salud, protección de su integridad y para el mantenimiento del orden social reciban de sus padres, familiares, tutores, maestros o cualquier persona que represente una autoridad.
+
+d) Respetar las leyes y normas que rigen a la sociedad.
+
+e) Respetar y cuidar el medio ambiente y su entorno social.
+
+f) Ejercer sus derechos con responsabilidad y defenderlos.
+
+g) Cumplir con las obligaciones educativas.
+
+h) Honrar a la patria y sus símbolos.
+
+i) Participar con la familia y sociedad en las tareas formativas o de interés comunitario.
+
+j) Los demás que coadyuven a asegurar su desarrollo armónico e integral.
+
+En casos de controversia, el órgano jurisdiccional competente determinará el grado de responsabilidad de quien tenga a su cargo y cuidado a niñas, niños o adolescentes, atendiendo a los principios rectores de esta Ley.
+
+La normatividad estatal y municipal, deberá prever disposiciones que regulen y sancionen las obligaciones establecidas en el presente artículo.
+
+###### Artículo 112.
+
+Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, independientemente de que habiten en domicilios distintos, darán cumplimiento a las obligaciones a su cargo de manera coordinada y respetuosa.
+
+Las autorizaciones a que se refiere esta Ley deberán ser otorgadas por quienes ejerzan la patria potestad o tutela, en los mismos términos y con las mismas formalidades.
+
+###### Artículo 113.
+
+Quienes ejercen la patria potestad, tutela, guarda o custodia de niñas, niños y adolescentes, o quienes los cuiden y atiendan, deberán protegerlos contra toda forma de abuso, tratarlos con respeto a su dignidad, y orientarlos a fin de que conozcan sus derechos, aprendan a defenderlos y a respetar los de otras personas.
+
+###### Artículo 114.
+
+La Directiva y personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas o de cualquier otra índole, deberán abstenerse de ejercer cualquier forma de violencia, maltrato, perjuicio, agresión, daño, abuso, acoso y explotación en contra de niñas, niños o adolescentes, y formularán programas e impartirán cursos de formación permanente para prevenirlas y erradicarlas.
+
+###### Artículo 115.
+
+En caso de incumplimiento de lo dispuesto en los artículos 113 y 114 de la presente Ley, se sancionará conforme a la legislación estatal correspondiente.
+
+###### Artículo 116.
+
+La directiva y personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas o de cualquier otra índole están obligados a dar parte a las autoridades competentes sin perjuicio de la responsabilidad penal en la que pudieran incurrir en los siguientes casos:
+
+I. Maltrato físico, psicológico, verbal, patrimonial, abuso sexual o de cualquier índole, y corrupción, que involucre a las niñas, niños y adolescentes como víctimas o causantes de ello.
+
+II. Consumo de drogas o estupefacientes.
+
+###### Artículo 117.
+
+A falta de quienes ejerzan la representación originaria de niñas, niños y adolescentes, o cuando por otra causa así lo determine el órgano jurisdiccional o autoridad administrativa competente, con base en el interés superior de la niñez, la representación en suplencia corresponderá a la Procuraduría de Protección municipal competente.
+
+###### Artículo 118.
+
+En los casos en que exista (sic) indicios de conflicto de intereses entre quienes ejerzan la representación originaria o de éstos con niñas, niños y adolescentes o por una representación deficiente o dolosa, a petición del Ministerio Público, de la Procuraduría de Protección competente o de oficio, el órgano jurisdiccional o administrativo que conozca del asunto, deberá sustanciar por vía incidental, un procedimiento sumario de restricción, suspensión o revocación de la representación originaria, según sea el caso, para efectos de que la Procuraduría de Protección competente ejerza la representación en suplencia.
+
+El Ministerio Público tendrá la intervención que las leyes dispongan en los procedimientos jurisdiccionales o administrativos en que niñas, niños o adolescentes estén relacionados. En materia de justicia penal, se estará a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, esta Ley y demás disposiciones aplicables.
+
+No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, niños y adolescentes.
+
+## Título Cuarto. De la Preservación, Procuración y Protección de los Derechos de las Niñas, Niños y Adolescentes
+
+### Capítulo Único. De los Centros de Asistencia Social
+
+###### Artículo 119.
+
+Las autoridades Estatales, en términos de lo dispuesto por esta Ley, la Ley General y demás disposiciones aplicables, establecerán, los requisitos para autorizar, registrar, certificar y supervisar los centros de asistencia social, a fin de garantizar el cumplimiento de los derechos de niñas, niños y adolescentes privados de cuidado parental o familiar, atendidos en dichos centros.
+
+###### Artículo 120.
+
+Las instalaciones de los Centros de Asistencia Social observarán los requisitos que les señale la Legislación u ordenamiento correspondiente, y deberán cumplir con lo siguiente:
+
+I. Ser administradas por una institución pública o privada, o por una asociación que brinde el servicio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar.
+
+II. Su infraestructura inmobiliaria deberá cumplir con las dimensiones físicas acordes a los servicios que proporcionan y con las medidas de seguridad y protección civil en términos de la legislación aplicable.
+
+III. Ser acordes con el diseño universal y la accesibilidad en términos de la legislación aplicable.
+
+IV. Contar con medidas de seguridad, protección y vigilancia necesarios (sic) para garantizar la comodidad, higiene, espacio idóneo de acuerdo a la edad, sexo o condición física o mental de niñas, niños o adolescentes alojados, de manera tal que se permita un entorno afectivo y libre de violencia, en los términos de las disposiciones aplicables.
+
+V. Alojar y agrupar a niñas, niños y adolescentes de acuerdo a su edad y sexo en las áreas de dormitorios, sin que por ningún motivo éstos puedan ser compartidos por adultos, salvo que necesiten ser asistidos por algún adulto.
+
+VI. Contar con espacios destinados especialmente para cada una de las actividades en las que participen niñas, niños y adolescentes.
+
+VII. Atender los requerimientos establecidos por las autoridades de protección civil, salubridad y asistencia social.
+
+VIII. Procurar un entorno que provea los apoyos necesarios para que niñas, niños y adolescentes con discapacidad vivan incluidos en su comunidad.
+
+IX. Brindar una atención de calidad, personalizada y conforme al marco de respeto a los derechos humanos y equidad de género de las niñas, niños y adolescentes que se encuentren en cualquiera de las modalidades de cuidado alternativo.
+
+###### Artículo 121.
+
+Los Centros de Asistencia Social, serán responsables de garantizar la integridad física y psicológica de las niñas, niños y adolescentes que tengan bajo su custodia.
+
+Los servicios que presten los Centros de Asistencia Social estarán orientados a brindar, en cumplimiento a sus derechos:
+
+I. Un entorno seguro, afectivo y libre de violencia.
+
+II. Cuidado y protección contra actos u omisiones que puedan afectar su integridad física o psicológica.
+
+III. Alimentación que les permita tener una nutrición equilibrada y que cuente con la periódica certificación de la autoridad sanitaria.
+
+IV. Atención integral y multidisciplinaria que le brinde (sic) servicio médico integral, atención de primeros auxilios, seguimiento psicológico, social, jurídico, entre otros.
+
+V. Orientación y educación apropiada a su edad, encaminadas a lograr un desarrollo físico, cognitivo, afectivo y social, así como a la comprensión y el ejercicio de sus derechos, hasta el máximo de sus posibilidades.
+
+VI. Disfrutar en su vida cotidiana, del descanso, recreación, juego, esparcimiento y actividades que favorezcan su desarrollo integral.
+
+VII. Servicios de calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de la niñez.
+
+VIII. Las personas responsables y el personal de los centros de asistencia social se abstendrán de realizar actividades que afecten la integridad física y psicológica de niñas, niños y adolescentes. De igual manera, los responsables evitarán que el personal que realice actividades diversas al cuidado de niñas, niños y adolescentes, tenga contacto con éstos.
+
+IX. Espacios de participación para expresar libremente sus ideas y opiniones sobre los asuntos que les atañen y que dichas opiniones sean tomadas en cuenta.
+
+X. Brindarles la posibilidad de realizar actividades externas que les permitan tener contacto con su comunidad.
+
+XI. Fomentar la inclusión de las niñas, niños y adolescentes con discapacidad, en términos de la legislación aplicable.
+
+Asimismo y con la finalidad de brindarles mejores alternativas de protección para el cumplimiento de sus derechos, se deberá llevar a cabo la revisión periódica de su situación, de la de su familia y de la medida especial de protección por la cual ingresó al centro de asistencia social, garantizando el contacto con su familia y personas significativas siempre que esto sea posible, atendiendo a su interés superior.
+
+Las niñas, niños o adolescentes deberán contar con un expediente completo para efectos de que su situación sea revisada y valorada de manera particular, así como para determinar procedimientos de ingreso y egreso con el apoyo de las autoridades competentes que faciliten su reincorporación familiar o social.
+
+Asimismo, se le deberá garantizar la protección de sus datos personales conforme a la legislación aplicable y hacer de su conocimiento, en todo momento, su situación legal.
+
+###### Artículo 122.
+
+Los centros de asistencia social deberán contar por lo menos, con el siguiente personal:
+
+I. Un Responsable de la coordinación o dirección.
+
+II. Personal especializado en proporcionar atención en actividades de estimulación, formación, promoción y autocuidado de la salud; atención médica y actividades de orientación social y de promoción de la cultura de protección civil, de derechos humanos y equidad de género conforme a las disposiciones aplicables.
+
+III. El número de personas que presten sus servicios en cada centro de asistencia social será determinado en función de la capacidad económica de éstos, así como del número de niñas, niños y adolescentes que tengan bajo su custodia en forma directa e indirecta, debiendo contar por lo menos con una persona de atención por cada cuatro niños o niñas menores de un año, y una persona de atención por cada ocho mayores de esa edad.
+
+Además del personal señalado en el presente artículo, el centro de asistencia social podrá solicitar la colaboración de instituciones, organizaciones o dependencias que brinden apoyo en psicología, trabajo social, derecho, pedagogía, y otros para el cuidado integral de las niñas, niños y adolescentes.
+
+Se deberá brindar de manera permanente, capacitación y formación especializada al personal del Centro, así como supervisar y evaluar de manera periódica al mismo.
+
+###### Artículo 123.
+
+Son obligaciones de los titulares o responsables legales de los centros de Asistencia Social:
+
+I. Garantizar el cumplimiento de los requisitos establecidos por esta Ley y demás disposiciones aplicables para formar parte del registro estatal de centros de asistencia social del Sistema DIF-Chiapas.
+
+II. Llevar un registro de niñas, niños y adolescentes bajo su custodia con la información de la situación jurídica en la que se encuentren, y remitirlo semestralmente a la Procuraduría de Protección Estatal.
+
+III. Asegurar que las instalaciones tengan en lugar visible, la constancia de registro de incorporación a los Centros de Asistencia Social.
+
+IV. Garantizar que el centro de asistencia social cuente con un Reglamento Interno, aprobado por el Sistema DIF- Chiapas.
+
+V. Contar con un Programa Interno de Protección Civil en términos de las disposiciones aplicables.
+
+VI. Brindar las facilidades a la Procuraduría de Protección Estatal, para que realicen la verificación periódica que corresponda en términos de las disposiciones aplicables; y en su caso, atender sus recomendaciones.
+
+VII. Esta verificación deberá observar el seguimiento de la situación jurídica y social así como la atención médica y psicológica de la niña, niño o adolescentes (sic) y el proceso de reincorporación familiar o social.
+
+VIII. Informar oportunamente a la autoridad competente, cuando el ingreso de una niña, niño o adolescente corresponda a una situación distinta de la derivación por parte de una autoridad o tenga conocimiento de que peligra su integridad física estando bajo su custodia, a fin de iniciar los procedimientos de protección especial de forma oportuna, identificar la mejor solución para el niño, niña o adolescente y, en su caso, evitar su permanencia en el centro de asistencia social, dado su carácter de último recurso y excepcional.
+
+IX. Proporcionar a niñas, niños y adolescentes bajo su custodia, a través del personal capacitado, atención médica.
+
+X. Dar puntual seguimiento a las recomendaciones emitidas por las autoridades competentes.
+
+XI. Realizar acciones específicas para fortalecer la profesionalización del personal de los centros de asistencia social.
+
+XII. Garantizar, en corresponsabilidad con las autoridades competentes, que se promuevan acciones a favor de las niñas, niños y adolescentes para su acompañamiento, autonomía, ejercicio de sus derechos, estabilidad en sus vínculos, libertad de expresión y no discriminación, protección infantil y juvenil, perspectiva de género y medidas de restitución de sus derechos a fin de tener vínculos familiares y comunitarios.
+
+XIII. Llevar el Sistema Informático que la Procuraduría de Protección Estatal genere para el registro de las niñas, niños y adolescentes.
+
+XIV. Las demás obligaciones establecidas en la presente Ley y demás disposiciones aplicables.
+
+###### Artículo 124.
+
+La Procuraduría de Protección Estatal, en coordinación con la Procuraduría de Protección Federal, serán las autoridades competentes para autorizar, registrar, certificar y supervisar los Centros de Asistencia social destinados a brindar los servicios descritos en el presente Capítulo, para lo cual conformarán el Registro Estatal de Centros de Asistencia Social, que alimentará al Registro Nacional en los términos que establece la Ley General.
+
+Al efecto, la Procuraduría de Protección Estatal deberá reportar semestralmente a la Procuraduría Federal de Protección, la actualización de sus registros, así como los resultados de las visitas de supervisión efectuadas como coadyuvantes.
+
+###### Artículo 125.
+
+Sin perjuicio de las atribuciones que las disposiciones aplicables establezcan a otras autoridades, corresponderá a la Procuraduría de Protección Estatal, la supervisión de los Centros de Asistencia Social y, en su caso, ejercitarán las acciones legales que correspondan.
+
+La Procuraduría de Protección Estatal será coadyuvante de la Procuraduría de Protección Federal en la supervisión que se realice a las instalaciones de los Centros de Asistencia Social, en términos de lo previsto en las Leyes aplicables.
+
+La Procuraduría de Protección Estatal deberá proporcionar el apoyo que sea necesario para la efectiva garantía de los derechos de las niñas, niños y adolescentes en los Centros de Asistencia Social, este apoyo deberá fundarse en el principio de corresponsabilidad.
+
+## Título Quinto. De la Protección y Restitución Integral de los Derechos de Niñas, Niños y Adolescentes
+
+### Capítulo Primero. De las Autoridades
+
+###### Artículo 126.
+
+El Estado y los municipios garantizarán la protección integral de los derechos de niñas, niños y adolescentes, y el cumplimiento de las políticas públicas y la ejecución de programas destinados a su atención, prevención y defensa.
+
+Las políticas públicas emprendidas por dichas autoridades garantizarán el ejercicio de los derechos de niñas, niños y adolescentes, para lo cual deberán observar el interés superior de la niñez y asegurar la asignación prioritaria de recursos en términos de las disposiciones aplicables.
+
+#### Sección Primera. De la Distribución de Competencias
+
+###### Artículo 127.
+
+El Estado y los municipios coadyuvarán para el cumplimiento de los objetivos de esta Ley, de conformidad con las competencias previstas en el presente ordenamiento y demás disposiciones legales aplicables.
+
+###### Artículo 128.
+
+Corresponde a las autoridades Estatales y municipales de manera concurrente, las atribuciones siguientes:
+
+I. Coordinar la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley.
+
+II. Impulsar el conocimiento de los derechos de niñas, niños y adolescentes, así como la cultura de respeto, promoción y protección de los mismos, de conformidad con los principios rectores de esta Ley.
+
+III. Garantizar el cabal cumplimiento de la presente Ley, de los instrumentos internacionales y demás ordenamientos aplicables.
+
+IV. Adoptar medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten sus derechos.
+
+V. Proporcionar asistencia médica, psicológica y atención preventiva integrada a la salud, así como asesoría jurídica y orientación social a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad, en relación a las obligaciones que establece esta Ley.
+
+VI. Colaborar en la búsqueda, localización y obtención de la información necesaria para acreditar o restablecer la identidad de niñas, niños y adolescentes.
+
+VII. Establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia.
+
+VIII. Establecer las normas y los mecanismos necesarios para facilitar la localización y reunificación de la familia de niñas, niños y adolescentes, cuando hayan sido privados de ella, siempre que no sea contrario a su interés superior.
+
+IX. Coadyuvar en la localización de niñas, niños y adolescentes sustraídos, trasladados o retenidos ilícitamente.
+
+X. Implementar medidas de inclusión plena y realizar las Acciones afirmativas para garantizar a niñas, niños y adolescentes la igualdad de oportunidades y de trato, así como a no ser discriminados.
+
+XI. Adoptar medidas para la eliminación de usos, costumbres, prácticas culturales, religiosas, estereotipos sexistas o prejuicios que atenten contra la igualdad y los derechos de niñas, niños y adolescentes por razón de género o que promuevan cualquier tipo de discriminación.
+
+XII. Adoptar las medidas apropiadas para promover la recuperación física y psicológica y la restitución de derechos de niñas, niños y adolescentes, víctimas de cualquier forma de violencia.
+
+XIII. Garantizar que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna, así como la prevención de embarazos, higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
+
+XIV. Propiciar las condiciones idóneas para crear un ambiente libre de violencia en las instituciones educativas.
+
+XV. Establecer el diseño universal, la accesibilidad y políticas para la prevención, atención y rehabilitación de niñas, niños y adolescentes con discapacidad, en términos de la legislación aplicable.
+
+XVI. Realizar acciones a fin de sensibilizar a la sociedad, para que tome mayor conciencia respecto de las niñas, niños y adolescentes con discapacidad y fomentar el respeto a sus derechos y dignidad, así como combatir los estereotipos y prejuicios respecto de su discapacidad.
+
+XVII. Disponer e implementar los mecanismos que garanticen la participación permanente y activa de niñas, niños y adolescentes en las decisiones que se toman en los ámbitos familiar, escolar, social, comunitario o cualquier otro en el que se desarrollen.
+
+XVIII. Garantizar la consecución de una educación de calidad y la igualdad sustantiva en el acceso y permanencia en la misma.
+
+XIX. Impulsar la formación y actualización de acuerdos interinstitucionales de coordinación entre las diferentes instancias de gobierno.
+
+XX. Celebrar convenios de cooperación, coordinación y concertación en la materia.
+
+XXI. Coadyuvar con las instituciones públicas o privadas dedicadas a la atención de niñas, niños y adolescentes.
+
+XXII. Garantizar la protección de los derechos de niñas, niños y adolescentes y asegurar que las violaciones a los mismos sean atendidas de forma preferente por todas las autoridades, en el ámbito de sus respectivas competencias.
+
+XXIII. Desarrollar todos los mecanismos necesarios para el cumplimiento de la presente Ley.
+
+XXIV. Garantizar que niñas, niños y adolescentes tengan acceso a agua potable para su consumo e higiene.
+
+###### Artículo 129.
+
+Corresponden a las autoridades estatales, en el ámbito de sus respectivas competencias, las atribuciones siguientes:
+
+I. Garantizar en el ámbito de su competencia, el cabal cumplimiento de la presente Ley, de los tratados internacionales, y demás ordenamientos aplicables.
+
+II. Instrumentar y articular sus políticas públicas tomando en consideración el Programa Nacional para la adecuada garantía y protección de los derechos de niñas, niños y adolescentes.
+
+III. Elaborar y aplicar el Programa Estatal a que se hacen (sic) referencia en esta Ley.
+
+IV. Impulsar la creación de instituciones públicas y privadas que tengan trato con niñas, niños y adolescentes, así como fortalecer las ya existentes.
+
+V. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento de los programas de protección para las niñas, niños y adolescentes.
+
+VI. Promover, en coordinación con el Gobierno Federal, programas y proyectos de atención, educación, capacitación, investigación y cultura de los derechos humanos de niñas, niños y adolescentes.
+
+VII. Impulsar programas estatales para el adelanto y desarrollo de niñas, niños y adolescentes en situación de vulnerabilidad.
+
+VIII. Revisar y valorar la eficacia de las acciones, las políticas públicas y los programas estatales en la materia, con base en los resultados de las evaluaciones que al efecto se realicen.
+
+IX. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución del Programa Estatal.
+
+X. Impulsar la formación y actualización de acuerdos interinstitucionales de coordinación entre las diferentes instancias de gobierno, para facilitar la actuación de la Secretaría Ejecutiva del Sistema Estatal de Protección Integral.
+
+XI. Imponer las sanciones por las infracciones que establece la presente Ley.
+
+XII. Revocar temporal o definitivamente, a través de la autoridad competente, la autorización para operar los Centros de Asistencia Social, por el incumplimiento de las obligaciones y requisitos previstos en esta Ley.
+
+XIII. Difundir por todos los medios de comunicación el contenido de esta Ley.
+
+XIV. Rendir ante el Sistema Nacional de Protección Integral un informe anual sobre los avances.
+
+XV. Recibir de las organizaciones privadas, las propuestas y recomendaciones sobre protección de derechos de niñas, niños y adolescentes, a fin de mejorar los mecanismos en la materia.
+
+XVI. Proporcionar a las instancias encargadas de realizar estadísticas y de integrar el Sistema Nacional de información, la información necesaria para la elaboración de éstas.
+
+XVII. Coordinar con las autoridades de los tres órdenes de gobierno la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley.
+
+XVIII. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley.
+
+XIX. Garantizar el desarrollo y la supervivencia así como investigar, sancionar efectivamente los actos de privación de la vida de niñas, niños y adolescentes y garantizar la reparación del daño que corresponda.
+
+XX. Cualquier otra prevista para el cumplimiento de esta Ley.
+
+###### Artículo 130.
+
+Corresponde a los municipios, de conformidad con esta Ley y demás normatividad en la materia, las atribuciones siguientes:
+
+I. Elaborar su programa municipal y participar en el diseño del Programa Estatal.
+
+II. Realizar acciones de difusión que promuevan los derechos de niñas, niños y adolescentes en el municipio, para que sean plenamente conocidos y ejercidos.
+
+III. Promover la libre manifestación de ideas de niñas, niños y adolescentes en los asuntos concernientes a su municipio.
+
+IV. Ser enlace entre la administración pública municipal y niñas, niños y adolescentes que deseen manifestar inquietudes.
+
+V. Recibir quejas y denuncias por violaciones a los derechos contenidos en la presente Ley y demás disposiciones aplicables, brindándoles la atención a través de la Procuraduría de Protección Municipal que corresponda, y dándoles el seguimiento hasta la restitución de los derechos de las niñas, niños y adolescentes.
+
+VI. Auxiliar a la Procuraduría de Protección Estatal y demás municipales, en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones.
+
+VII. Promover la celebración de convenios de coordinación con las autoridades competentes, así como con otras instancias públicas o privadas, para la atención y protección de niñas, niños y adolescentes.
+
+VIII. Difundir y aplicar los protocolos específicos sobre niñas, niños y adolescentes que autoricen las instancias competentes de la federación y del Estado.
+
+IX. Coordinarse con las autoridades de los diferentes órdenes de gobierno para la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley.
+
+X. Llevar el registro y control de la acciones, para la correcta alimentación del Sistema Estatal de Protección Integral.
+
+XI. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales.
+
+XII. Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que, de conformidad con la presente Ley, se asuman en el Sistema Nacional DIF y el Sistema DIF- Chiapas.
+
+#### Sección Segunda. De los Sistemas para el Desarrollo Integral de la Familia del Estado y Municipios
+
+###### Artículo 131.
+
+Sin perjuicio de las atribuciones que establezcan las demás disposiciones aplicables, corresponde a los Sistemas para el Desarrollo Integral de la Familia del Estado y Municipios en materia de niñas, niños y adolescentes:
+
+I. Proteger los derechos de niñas, niños y adolescentes, cuando los mismos se encuentren restringidos o vulnerados, en términos de esta Ley y las demás disposiciones aplicables. La institucionalización procederá como último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar.
+
+II. Realizar las actividades de asistencia social, así como fomentar y promover la estabilidad y el bienestar familiar.
+
+III. Celebrar los convenios de colaboración con el Sistema Federal y Sistemas Municipales, así como con organizaciones e instituciones de los sectores público, privado y social.
+
+IV. Promover la formación, capacitación y profesionalización continua del personal de instituciones vinculadas con la protección y restitución de los derechos de niñas, niños y adolescentes, así como para realizar y apoyar estudios e investigaciones en la materia.
+
+V. Auxiliar al Ministerio Público o a los órganos jurisdiccionales, con los elementos a su alcance para la protección de las niñas, niños y adolescentes y proporcionar a aquellos la información que les requieran sobre el particular.
+
+VI. Vigilar que las instituciones y los hogares provisionales presten el cuidado y atención adecuada a las niñas, niños y adolescentes respetando y garantizando todos sus derechos.
+
+VII. Recabar los informes y datos estadísticos que requiera para el debido cumplimiento de sus atribuciones y solicitar el auxilio de las demás autoridades en el ámbito de su competencia.
+
+VIII. Impulsar la cooperación y coordinación de las autoridades estatales y municipales en el ámbito de sus respectivas competencias en materia de protección y restitución de derechos de niñas, niños y adolescentes para establecer los mecanismos necesarios para ello.
+
+IX. Establecer programas de apoyo a las familias para que la falta de recursos no sea causa de separación de las niñas, niños y adolescentes.
+
+X. Las demás que les confieran otros ordenamientos jurídicos.
+
+### Capítulo Segundo. De la Procuraduría de Protección Estatal y las Procuradurías de Protección Municipales
+
+###### Artículo 132.
+
+Para una efectiva protección y restitución de los derechos de niñas, niños y adolescentes, el Estado, dentro de la estructura del Sistema DIF-Chiapas contará con una Procuraduría de Protección de los Derechos de las Niñas, Niños, Adolescentes y la Familia.
+
+Por su parte, los municipios deberán tener una Procuraduría Municipal de Protección de los Derechos de las Niñas, Niños, Adolescentes y la Familia, que podrán depender de los Sistemas DIF-Municipales.
+
+###### Artículo 133.
+
+Para la debida determinación, coordinación de la ejecución y seguimiento de las medidas de protección integral y restitución de los derechos de niñas, niños y adolescentes, la Procuraduría de Protección Estatal y Municipales podrán establecer contacto y trabajar conjuntamente con las autoridades de asistencia social, de servicios de salud, de educación, de protección social, de cultura, deporte y con todas aquellas con las que sea necesario, para garantizar los derechos de niñas, niños y adolescentes.
+
+Asimismo, podrán auxiliarse de las autoridades ministeriales, la policía y demás autoridades estatales y municipales, quienes deberán actuar coordinadamente para salvaguardar los derechos de las niñas, niños y adolescentes.
+
+###### Artículo 134.
+
+La Procuraduría de Protección Estatal es la instancia especializada con funciones de autoridad competente en materia de infancia en el Estado, interviniendo en la defensa de los derechos contemplados en esta Ley, a favor de las niñas, niños y adolescentes, sin perjuicio de la aplicación de otras disposiciones legales vigentes en nuestro Estado.
+
+La Procuraduría de Protección Estatal podrá ejercer sus facultades a través de (sic) Procuradurías Regionales de Protección de los Derechos de las Niñas, Niños y Adolescentes.
+
+Las Procuradurías de Protección Municipales, serán las autoridades competentes en su municipio. La Procuraduría de Protección Estatal, podrá auxiliarse de las Procuradurías de Protección Municipales para la adecuada defensa de los derechos de las niñas, niños y adolescentes del municipio que corresponda, así como solicitar los informes que requiera para tal fin y para las estadísticas que se generen de sus actividades.
+
+En el supuesto de que las Procuradurías de Protección Municipales se negaren a brindar la atención, rendir los informes solicitados o ejercitar alguna de sus facultades, la Procuraduría de Protección Estatal hará de conocimiento al superior jerárquico.
+
+###### Artículo 135.
+
+Las Procuradurías de Protección Estatal y Municipales, en el ámbito de sus respectivas competencias, tendrán como facultades las siguientes:
+
+I. Procurar la protección integral de niñas, niños y adolescentes que prevé la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, la Ley General de los derechos de niñas, niños y adolescentes, la Constitución Política Local, la presente Ley y demás disposiciones aplicables. Dicha protección integral deberá abarcar, por lo menos:
+
+a) Atención médica y psicológica.
+
+b) Seguimiento a las actividades académicas y entorno social y cultural.
+
+c) La inclusión, en su caso, de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes en las medidas de rehabilitación y asistencia.
+
+Las autoridades estatales y municipales competentes, deberán coadyuvar para garantizar la protección integral de los derechos de las niñas, niños y adolescentes.
+
+II. Prestar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, sin perjuicio de las atribuciones que le correspondan al Ministerio Público, así como intervenir oficiosamente, con representación coadyuvante, en todos los procedimientos jurisdiccionales y administrativos en que participen niñas, niños y adolescentes, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables.
+
+III. Establecer acciones y mecanismos de prevención y protección a niñas, niños y adolescentes maltratados, en desamparo o con problemas sociales, para incorporarlos al núcleo familiar o albergarlos en instituciones adecuadas para su custodia, formación e instrucción, así como garantizar en todo momento su situación jurídica de acuerdo a las disposiciones aplicables.
+
+IV. Coadyuvar con la Procuraduría General de Justicia del Estado en la atención y tratamiento de las niñas, niños y adolescentes víctimas del delito.
+
+V. Recibir quejas, denuncias e informes en relación de quienes ejerzan la patria potestad, su guarda o tutela, sobre la violación de los derechos de las niñas, niños y adolescentes, haciéndolo del conocimiento de las autoridades competentes y de ser procedente ejercitar las acciones legales correspondientes.
+
+VI. Coordinarse con las autoridades estatales y municipales, a fin de establecer acciones que permitan a las niñas, niños y adolescentes disfrutar del goce pleno de sus derechos.
+
+VII. Coordinar la ejecución y dar seguimiento a las medidas de protección para la restitución integral de los derechos de niñas, niños y adolescentes, a fin de que las instituciones competentes actúen de manera oportuna y articulada.
+
+VIII. Fungir como conciliadora y mediadora en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones aplicables. La conciliación no procederá en casos de violencia.
+
+IX. Denunciar ante las autoridades competentes cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y en general cualquier acción que perjudique a la niña, niño o adolescente.
+
+X. Gestionar ante el Registro Civil la inscripción en las partidas regístrales de las niñas, niños y adolescentes, solicitadas por instituciones privadas y sociales.
+
+XI. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones a favor de la atención, defensa y protección de los derechos de las niñas, niños y adolescentes.
+
+XII. Denunciar ante el Ministerio Público aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes.
+
+XIII. Solicitar al Ministerio Público competente la imposición de medidas de protección a favor de niñas, niños y adolescentes.
+
+XIV. Ejecutar acciones y programas de protección especial para las niñas, niños y adolescentes en condiciones de desventaja social.
+
+XV. Asesorar a las autoridades competentes y a los sectores público, social y privado en el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes, conforme a las disposiciones aplicables.
+
+XVI. Desarrollar los lineamentos y procedimientos a los que se sujetarán para la restitución de los derechos de niñas, niños y adolescentes.
+
+XVII. Proporcionar, en forma gratuita, los servicios de asistencia jurídica y de orientación social a las niñas, niños y adolescentes y a quienes ejerzan la patria potestad, su guarda o tutela.
+
+XVIII. Supervisar la ejecución de las medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial.
+
+XIX. En los casos que conozca sobre padres, tutores o quienes tenga legalmente la custodia de una niña, niño o adolescente, que impliquen conductas u omisiones que pongan en riesgo la salud mental y/o física de los menores a su cargo, emitirá dictámenes en materia de trabajo social y psicología, para la elaboración del plan de resarcimiento de los derechos.
+
+XX. Hacer del conocimiento del Ministerio Público, los casos en que los padres, tutores o quienes tengan legalmente la custodia de un menor de edad, incurran en las conductas a que se refiere la fracción anterior, y rendir los informes, dictámenes, antecedentes e información con que cuente al respecto.
+
+XXI. Realizar, promover y difundir estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de los derechos de las niñas, niños y adolescentes, y hacerlos llegar a las autoridades competentes y a los sectores social y privado para su incorporación en los programas respectivos.
+
+XXII. Impulsar y promover el reconocimiento y ejercicio de los derechos de las niñas, niños y adolescentes en condiciones de desventaja social y establecer centros de información y denuncia que permita (sic) canalizar ante la representación social los hechos constitutivos de delito, cometidos en agravio de los menores y gestionar la atención de los mismos.
+
+XXIII. Gestionar ante las autoridades correspondientes, la aplicación de las sanciones a que se hagan acreedores los infractores de la presente Ley.
+
+XXIV. Las demás que les confieran otras disposiciones aplicables para la atención integral de la familia y grupos vulnerables.
+
+###### Artículo 136.
+
+Son facultades de la Procuraduría de Protección Estatal, además de las previstas en el artículo anterior, las siguientes:
+
+I. Autorizar, registrar, certificar y supervisar los centros de asistencia social, en términos de la ley de la materia.
+
+II. Desarrollar los lineamentos y procedimientos a los que se sujetarán para la restitución de los derechos de niñas, niños y adolescentes, los cuales deberá compartir con las Procuradurías de Protección Municipales.
+
+III. Registrar, capacitar e integrar expedientes de las familias candidatas al acogimiento pre-adoptivo.
+
+IV. Proporcionar información para integrar y sistematizar el Registro Nacional de Centros de Asistencia Social.
+
+###### Artículo 137.
+
+El Titular de la Procuraduría de Protección Estatal, deberá contar con los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener una residencia mínima de tres años en el Estado.
+
+II. Tener más de 30 años de edad.
+
+III. Contar con título y cédula profesional de licenciatura en derecho debidamente registrados.
+
+IV. Contar con al menos dos años de experiencia en materia de procuración de justicia o defensa de niñas, niños y adolescentes.
+
+V. Tener buena conducta y no haber sido sentenciado por delito doloso o inhabilitado como servidor público.
+
+El nombramiento del Procurador o Procuradora de Protección de los derechos de las Niñas, Niños, Adolescentes y la Familia deberá ser aprobado por la Junta de Gobierno del Sistema DIF-Chiapas, a propuesta de su Titular.
+
+###### Artículo 138.
+
+El Titular de la Procuraduría de Protección municipal, deberá cumplir con los requisitos siguientes:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos, y tener una residencia mínima de tres años en el Estado.
+
+II. Tener más de 25 años de edad.
+
+III. Contar con título y cédula profesional de licenciatura en derecho debidamente registrados.
+
+IV. Contar con al menos un año de experiencia en materia de procuración de justicia o defensa de niñas, niños y adolescentes.
+
+V. Tener buena conducta y no haber sido sentenciado por delito doloso o inhabilitado como servidor público.
+
+El nombramiento del Procurador o Procuradora Municipal de Protección de los derechos de las Niñas, Niños, Adolescentes y la Familia deberá ser aprobado (sic) el Presidente Municipal y se deberá enviar copia a la Procuraduría de Protección Estatal.
+
+### Capítulo Tercero. De las Facultades del Sistema DIF Estatal y de la Procuraduría de Protección Estatal en Materia de Adopción
+
+###### Artículo 139.
+
+Las personas interesadas en adoptar niñas, niños y/o adolescentes que se encuentren bajo la tutela de las Procuradurías de Protección Estatal o Municipales, deberán presentar ante (sic) su solicitud ante la Procuraduría de Protección Estatal.
+
+La Procuraduría de Protección Estatal, ordenará realizar las valoraciones psicológica, económica, de trabajo social y todas aquéllas que sean necesarias para integrar el expediente de los solicitantes para ser sometido al Consejo Técnico de Adopciones del Estado, quien evaluará la información y, en su caso, emitirá o negará el certificado de idoneidad respectivo.
+
+La asignación de niñas, niños y adolescentes, sólo podrá otorgarse a una familia de acogida pre-adoptiva que cuente con certificado de idoneidad. Para tal efecto, se observará lo siguiente:
+
+I. Niñas, niños y adolescentes, siempre que sea posible de acuerdo con su edad, desarrollo cognoscitivo y grado de madurez, serán escuchados y su opinión será fundamental para la determinación que adopte el órgano jurisdiccional competente.
+
+II. Se tomará en cuenta que las condiciones en la familia de acogimiento pre-adoptiva sean adecuadas para el desarrollo integral de niñas, niños y adolescentes, de conformidad con el principio de interés superior de la niñez.
+
+III. Se tomará en consideración el grado de parentesco; la relación de afinidad y de afectividad; el origen, la comunidad y las condiciones culturales en que se desarrollen niñas, niños y adolescentes.
+
+IV. Se procurará no separar a hermanas y hermanos, pero si hubiere necesidad de ello, considerando el interés superior del niño, niña o adolescente, y una vez descartadas todas las posibilidades de permanecer juntos en otra modalidad de cuidado alternativo a largo plazo, se establecerán medidas para que mantengan vínculos de convivencia, contacto y comunicación permanente. Para lo anterior, se podrá escuchar la opinión de todas las hermanas y hermanos, de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez.
+
+###### Artículo 140.
+
+La Procuraduría de Protección Estatal deberá dar seguimiento a la convivencia entre niñas, niños o adolescentes y la una (sic) familia de acogida pre-adoptiva autorizada por el Consejo Técnico de Adopciones, con el fin de prevenir o superar las dificultades que se puedan presentar.
+
+En los casos que la Procuraduría de Protección Estatal constate que no se consolidaron las condiciones de adaptación de niñas, niños o adolescentes con la familia de acogida pre-adoptiva, procederá a iniciar el procedimiento a fin de reincorporarlos al sistema que corresponda y se realizará, en su caso, una nueva asignación.
+
+Cuando se verifique cualquier tipo de violación a los derechos de niñas, niños o adolescentes asignados, el sistema competente revocará la asignación y ejercerá las facultades que le otorgan la presente Ley y demás disposiciones aplicables.
+
+Los procedimientos de adopción se desahogarán de conformidad con el Código Civil del Estado.
+
+###### Artículo 141.
+
+Corresponde al Sistema DIF- Estatal, a través de la Procuraduría de Protección Estatal:
+
+I. Prestar servicios de asesoría y asistencia jurídica a las personas que deseen asumir el carácter de familia de acogimiento pre-adoptivo de niñas, niños o adolescentes, así como su capacitación.
+
+II. Realizar evaluaciones sobre la idoneidad de las condiciones de quienes pretendan adoptar, y emitir los dictámenes correspondientes, así como formular las recomendaciones pertinentes al órgano jurisdiccional.
+
+III. Contar con un sistema de información que permita registrar a las niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, así como el listado de las personas solicitantes de adopción, adopciones concluidas e informar de manera trimestral a la Procuraduría Federal de Protección y a la Procuraduría de Protección Estatal.
+
+Para el cumplimiento de lo anterior, la Procuraduría de Protección Estatal se auxiliará de las Procuradurías de Protección Municipal y los Sistemas DIF Municipales, a través de los servidores públicos certificados para tal fin.
+
+###### Artículo 142.
+
+En materia de adopciones en el Estado, regirán las siguientes condiciones mínimas:
+
+I. Niñas, niños y adolescentes serán adoptados en pleno respeto de sus derechos, de conformidad con el principio de interés superior de la niñez.
+
+II. Se escuchará y tomará en cuenta la opinión de niñas, niños y adolescentes de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, en términos de la presente Ley.
+
+III. Se asesorará jurídicamente, tanto a quienes consientan la adopción, como a quienes la acepten, a fin de que conozcan los alcances jurídicos, familiares y sociales de la misma.
+
+IV. El Consejo Técnico de Adopciones y el órgano jurisdiccional verificarán que la adopción no sea motivada por beneficios económicos para quienes participen en ella.
+
+V. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, velarán porque en los procesos de adopción se respeten las normas que los rigen a nivel estatal.
+
+###### Artículo 143.
+
+Tratándose de adopción internacional, la normativa estatal dispondrá lo necesario para asegurar que los derechos de niñas, niños y adolescentes que sean adoptados sean garantizados en todo momento y se ajusten el (sic) interés superior de la niñez, así como garantizar que esta adopción no sea realizada para fines de venta, sustracción, retención u ocultación ilícita, tráfico, trata de personas, explotación, las peores formas de trabajo infantil o cualquier ilícito en contra de los mismos.
+
+En los procedimientos judiciales de adopción internacional deberá requerirse el informe de adoptabilidad por parte del Sistema DIF- Estatal y, una vez que el órgano jurisdiccional competente otorgue la adopción, previa solicitud de los adoptantes, se solicitará de la Secretaría de Relaciones Exteriores la certificación correspondiente, de conformidad con los tratados internacionales.
+
+Las personas que ejerzan profesiones en el trabajo social y psicología de las instituciones públicas y privadas que intervengan en procedimientos de adopción internacional, en términos de lo dispuesto en los tratados internacionales, deberán contar con la autorización y registro del Sistema DIF- Estatal en el ámbito de su competencia.
+
+La adopción internacional de una niña, niño o adolescente de nacionalidad mexicana procederá cuando se haya constatado por las autoridades correspondientes que ésta responde al interés superior de la niñez, después de haber examinado adecuadamente las posibilidades de asignación de la niña, niño o adolescente para adopción nacional.
+
+###### Artículo 144.
+
+Las personas que ejerzan profesiones en el trabajo social y psicología o carreras afines de las instituciones públicas y privadas que realicen estudios socioeconómicos, psicológicos e informes psicosociales en materia de adopción, deberán cumplir con los requisitos siguientes:
+
+I. Contar con título y cédula profesional de licenciatura en trabajo social, psicología o carreras afines.
+
+II. Acreditar experiencia en temas de desarrollo de la niñez y de la adolescencia, familia, pareja o adopción.
+
+III. Acreditar experiencia laboral mínima de dos años, en trabajo social o psicología, o en la atención de niñas, niños o adolescentes sujetos de asistencia social o solicitantes de adopción.
+
+IV. Presentar carta compromiso por parte de la institución de asistencia privada que proponga al profesional de que se trate ante el Sistema Nacional DIF, y los Sistemas de las Entidades, en los casos de profesionales que busquen ingresar a instituciones privadas.
+
+V. No haber sido condenado por delitos dolosos.
+
+VI. Presentar constancia de la institución de asistencia privada en la que indique que las personas profesionales en trabajo social o psicología o carreras afines, son personas empleadas asalariadas con remuneración mensual fija.
+
+VII. El Sistema DIF- Estatal expedirá las autorizaciones correspondientes y llevará un registro de las mismas.
+
+###### Artículo 145.
+
+Cuando las personas que laboren en las instituciones públicas y privadas contravengan los derechos de niñas, niños y adolescentes o incurran en actos contrarios al interés superior de la niñez, el Sistema DIF- Estatal revocarán (sic) la autorización y registrará la cancelación a que se refiere el artículo anterior.
+
+Las personas profesionales a quienes sea revocada la autorización serán inhabilitadas y boletinadas por el Sistema DIF- Estatal, a fin de evitar adopciones contrarias al interés superior de la niñez. Lo anterior, sin perjuicio de las sanciones previstas en las disposiciones jurídicas aplicables.
+
+Para la revocación de las autorizaciones e inhabilitación a que se refiere este artículo, se seguirán las disposiciones en materia de procedimiento administrativo aplicables en el Estado.
+
+Cualquier persona podrá presentar una queja ante el Sistema DIF -Estatal si considera que se actualizan los supuestos previstos en el primer párrafo de este artículo.
+
+## Título Sexto. Del Consejo de Investigación y Evaluación de la Política Social del Estado
+
+### Capítulo Único. Generalidades
+
+###### Artículo 146.
+
+Corresponderá al CIEPSE la evaluación de las políticas de desarrollo social vinculadas con la protección de los derechos de niñas, niños y adolescentes, en términos de lo establecido por la presente Ley, su Decreto de creación y las demás disposiciones legales aplicables.
+
+###### Artículo 147.
+
+La evaluación consistirá en revisar periódicamente el cumplimiento de esta Ley y del Programa Estatal y metas y acciones en materia de derechos de niñas, niños y adolescentes.
+
+###### Artículo 148.
+
+De acuerdo con los resultados de las evaluaciones, el CIEPSE emitirá, las sugerencias, opiniones y recomendaciones que en su caso considere pertinentes al Sistema Estatal y Sistema Nacional de Protección Integral.
+
+###### Artículo 149.
+
+Los resultados de las evaluaciones serán entregados al Titular del Poder Ejecutivo del Estado de forma anual, preferentemente en el mes de enero.
+
+###### Artículo 150.
+
+Sin perjuicio de las atribuciones contenidas en su Decreto de creación, el CIEPSE contará con las siguientes atribuciones:
+
+I. Fomentar y fortalecer la colaboración, concertación, coordinación y participación responsable de Instituciones Públicas y Privadas en la realización de acciones para garantizar el ejercicio de los derechos de las niñas, niños y adolescentes.
+
+II. Evaluar los logros y avances de los programas de la Administración Pública en la materia y proponer medidas para su optimización.
+
+III. Analizar y proponer a las instancias competentes, modelos de atención para las niñas, niños y adolescentes.
+
+IV. Contribuir en la difusión de los principios y derechos de las niñas, niños y adolescentes en el Estado.
+
+## Título Séptimo. Del Sistema Estatal de Protección Integral
+
+### Capítulo Primero. De los Integrantes y de sus Atribuciones
+
+###### Artículo 151.
+
+Para asegurar una adecuada protección de los derechos de niñas, niños y adolescentes en el Estado de Chiapas, se crea el Sistema Estatal de Protección Integral de los Derechos de Niñas, Niños y Adolescentes como instancia encargada de establecer instrumentos, políticas, procedimientos, servicios y acciones de protección de los derechos de niñas, niños y adolescentes.
+
+###### Artículo 152.
+
+El Sistema Estatal de Protección Integral estará conformado por:
+
+I. El Titular del Poder Ejecutivo del Estado, quien lo presidirá.
+
+II. El Titular de la Secretaría General de Gobierno.
+
+III. El Titular de la Secretaría de Hacienda.
+
+IV. El Titular de la Secretaría del Trabajo.
+
+V. La Titular de la Secretaría para el Desarrollo y Empoderamiento de las Mujeres.
+
+VI. El Titular de la Secretaría para el Desarrollo Sustentable de los Pueblos Indígenas.
+
+VII. El Titular de la Secretaría de Salud y Director General del Instituto de Salud.
+
+VIII. El Titular de la Secretaría de Educación.
+
+IX. El Titular de la Secretaría de Seguridad y Protección Ciudadana.
+
+X. El Titular de la Secretaría para el Desarrollo de la Frontera Sur y Enlace para la Cooperación Internacional.
+
+XI. El Titular de la Secretaría de la Juventud, Recreación y Deporte.
+
+XII. El Titular del Instituto de la Consejería Jurídica y de Asistencia Legal.
+
+XIII. La Titular del Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas, DIF-Chiapas.
+
+XIV. El Titular de la Procuraduría General de Justicia del Estado.
+
+XV. El Presidente del Tribunal Superior de Justicia del Estado.
+
+XVI. Cuatro representantes de la sociedad civil, que serán nombrados por el Sistema Estatal de Protección Integral, en términos de lo que establezca el Reglamento de la Ley.
+
+Cada uno de los integrantes del Sistema Estatal de Protección Integral, tendrá derecho a voz y voto en las sesiones que se celebren.
+
+Serán invitados especiales a las sesiones del Sistema Estatal de Protección Integral, el Presidente de la Comisión Estatal de los Derechos Humanos, y los Presidentes de las Comisiones de Atención a la Mujer y a la Niñez, y de Atención a Grupos Vulnerables del Congreso del Estado, quienes intervendrán con voz, pero sin voto.
+
+###### Artículo 153.
+
+Los integrantes del Sistema Estatal de Protección Integral nombrarán un suplente que deberá tener el nivel de subsecretario o su equivalente.
+
+###### Artículo 154.
+
+El Presidente del Sistema Estatal de Protección Integral podrá invitar a las sesiones respectivas a representantes de otras dependencias y entidades de la Administración Pública Estatal, de los órganos con autonomía constitucional, así como de los ayuntamientos, según la naturaleza de los asuntos a tratar quienes intervendrán con voz pero sin voto.
+
+En las sesiones del Sistema Estatal de Protección Integral, participarán de forma permanente, sólo con voz, niñas, niños y adolescentes, que serán seleccionados por el propio Sistema, teniendo la facultad de poder presentar propuestas, mismas que deberán ser tomadas en cuenta. La participación de niñas, niños y adolescentes deberá ser de manera voluntaria. De igual forma, se podrá invitar a personas o instituciones, nacionales o internacionales, especializadas en la materia.
+
+###### Artículo 155.
+
+El Sistema Estatal de Protección Integral se reunirá cuando menos tres veces al año. Para sesionar válidamente se requerirá un quórum de la mayoría de sus miembros y la asistencia de su Presidente o su representante; sus decisiones se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad.
+
+###### Artículo 156.
+
+Para el mejor cumplimiento de sus funciones, el Sistema Estatal de Protección Integral podrá constituir comisiones encargadas de atender asuntos o materias específicas y emitirá los lineamientos para su integración, organización y funcionamiento.
+
+###### Artículo 157.
+
+El Sistema Estatal de Protección Integral tiene las siguientes atribuciones:
+
+I. Instrumentar y articular las políticas públicas en concordancia con la política nacional.
+
+II. Coadyuvar en la adopción y consolidación del Sistema Nacional de Protección.
+
+III. Difundir el marco jurídico estatal, nacional e internacional de protección a los derechos de niñas, niños y adolescentes.
+
+IV. Integrar la participación de los sectores público, social y privado y de la sociedad civil, en la definición e instrumentación de políticas para la garantía y protección integral de los derechos de niñas, niños y adolescentes.
+
+V. Generar los mecanismos necesarios para garantizar la participación directa y efectiva de niñas, niños y adolescentes en los procesos de elaboración de programas y políticas para la garantía y protección integral de sus derechos.
+
+VI. Promover, en los diferentes sectores de gobierno, el establecimiento de presupuestos etiquetados, destinados a la protección de los derechos de niñas, niños y adolescentes.
+
+VII. Impulsar la incorporación de la perspectiva de derechos de niñas, niños y adolescentes en la planeación estatal del desarrollo.
+
+VIII. Garantizar la transversalidad de la perspectiva de derechos de niñas, niños y adolescentes en la elaboración de programas estatales y municipales, así como en las políticas y acciones de las dependencias y entidades de la Administración Pública Estatal.
+
+IX. Aprobar, en el marco de los Planes Nacional y Estatal de Desarrollo, el Programa Estatal.
+
+X. Elaborar y ejecutar coordinadamente el Programa Estatal con la participación de los sectores público, social y privado, así como de niñas, niños y adolescentes.
+
+XI. Asegurar la colaboración y coordinación entre el Estado y los municipios, para la formulación, ejecución e instrumentación de políticas, programas, estrategias y acciones en materia de protección y ejercicio de los derechos de niñas, niños y adolescentes, con la participación de los sectores público, social y privado así como de niñas, niños y adolescentes.
+
+XII. Hacer efectiva la concurrencia, vinculación y congruencia de los programas y acciones del gobierno estatal y los municipios, con los objetivos, estrategias y prioridades de la política pública estatal de protección de los derechos de niñas, niños y adolescentes.
+
+XIII. Garantizar la participación de niñas, niños y adolescentes en el ejercicio de sus derechos humanos, tomando en consideración las medidas especiales que se requieran.
+
+XIV. Fortalecer las acciones de corresponsabilidad y cercanía entre las instancias públicas y privadas con niñas, niños y adolescentes.
+
+XV. Promover la celebración de instrumentos de colaboración y coordinación, así como acciones de concertación con instancias públicas y privadas, nacionales e internacionales, que contribuyan al cumplimiento de la Ley General y la presente Ley.
+
+XVI. Establecer mecanismos de coordinación con otros sistemas estatales que desarrollen programas, acciones y políticas en beneficio de niñas, niños y adolescentes, en los términos de las disposiciones aplicables.
+
+XVII. Conformar un sistema de información a nivel estatal, con el objeto de contar con datos desagregados que permitan monitorear los progresos alcanzados en el cumplimiento de los derechos de niñas, niños y adolescentes en el país, incluyendo indicadores cualitativos y cuantitativos. Este sistema de información se coordinará y compartirá con otros sistemas estatales, municipales y el sistema nacional, en términos de los convenios de coordinación que al efecto se celebren, de conformidad con las disposiciones aplicables.
+
+XVIII. Establecer mecanismos para garantizar la formación, capacitación y profesionalización de manera sistémica, continua y obligatoria sobre derechos humanos de niñas, niños y adolescentes, de los servidores públicos vinculados con la protección, restitución y garantía de sus derechos a nivel estatal y municipal.
+
+XIX. Vigilar la correcta ejecución del Programa Estatal.
+
+XX. Emitir un informe anual sobre los avances del Programa Estatal y remitirlo al Sistema Nacional de Protección Integral.
+
+XXI. Las demás que sean necesarias para el cumplimiento de la Ley General y de esta Ley.
+
+###### Artículo 158.
+
+El Sistema Estatal de Protección Integral se coordinará con el Sistema Nacional de Protección Integral y los Sistemas Municipales de Protección Integral en un marco de respeto y colaboración.
+
+### Capítulo Segundo. De la Secretaría Ejecutiva
+
+###### Artículo 159.
+
+La coordinación operativa del Sistema Estatal de Protección Integral, estará a cargo de la Secretaría Ejecutiva, que será un órgano administrativo de la Subsecretaría de Gobierno y Derechos Humanos, de la Secretaría General de Gobierno, la cual se implementará y constituirá como el máximo órgano de autoridad del propio Sistema.
+
+La Secretaria Ejecutiva participará en las sesiones del Sistema Estatal de Protección Integral, únicamente con derecho a voz.
+
+La Secretaría Ejecutiva tiene las atribuciones siguientes:
+
+I. Coordinar las acciones entre las dependencias y las entidades competentes de la Administración Pública estatal que deriven de la presente Ley.
+
+II. Elaborar el anteproyecto del Programa Estatal para someterlo a consideración de los miembros del Sistema.
+
+III. Llevar a cabo el seguimiento y monitoreo de la ejecución del Programa Estatal;
+
+IV. Elaborar y mantener actualizado el marco normativo del Sistema Estatal de Protección Integral.
+
+V. Compilar los acuerdos que se tomen en el Sistema Estatal de Protección Integral, llevar el archivo de éstos y de los instrumentos jurídicos que deriven, y expedir constancia de los mismos.
+
+VI. Apoyar al Sistema Estatal de Protección Integral en la ejecución y seguimiento de los acuerdos y resoluciones emitidos.
+
+VII. Celebrar convenios de coordinación, colaboración y concertación con instancias públicas y privadas, nacionales e internacionales.
+
+VIII. Administrar el sistema de información a nivel local en materia de niñez y adolescencia y remitir la información al Sistema Nacional de Protección Integral.
+
+IX. Coordinar la recopilación de información y la homogeneización de estándares e indicadores y el envío oportuno de dicha información al Sistema Nacional y al Sistema Estatal de Protección Integral, para su procesamiento, análisis y evaluación.
+
+X. Realizar y promover estudios e investigaciones para fortalecer las acciones en favor de la atención, defensa y protección de niñas, niños y adolescentes con el fin de difundirlos a las autoridades competentes y a los sectores social y privado para su incorporación en los programas respectivos.
+
+XI. Difundir entre las autoridades correspondientes y la población en general los resultados de los trabajos que realice, así como toda aquella información pública que tienda a la generación, desarrollo y consolidación de perspectiva en la materia, desagregada por lo menos, en razón de edad, sexo, entidad federativa, escolaridad y discapacidad.
+
+XII. Asesorar y apoyar al Gobierno del Estado, así como a las autoridades municipales que lo requieran para el ejercicio de sus atribuciones.
+
+XIII. Proporcionar la información necesaria al CIEPSE y al Sistema Estatal de Protección Integral para la evaluación de las políticas de desarrollo social vinculadas con la protección de niñas, niños y adolescentes.
+
+XIV. Dar seguimiento al cumplimiento de sugerencias y recomendaciones derivadas de la evaluación de las políticas de desarrollo social vinculadas con la protección de niñas, niños y adolescentes.
+
+XV. Fungir como instancia de interlocución con organizaciones de la sociedad civil, academia y demás instituciones de los sectores social y privado.
+
+XVI. Coordinar con las autoridades municipales la articulación de la política estatal, así como el intercambio de información necesaria a efecto de dar cumplimiento con el objeto de esta Ley.
+
+XVII. Desarrollar campañas de difusión y sensibilización para la promoción de los derechos de la niñez y la adolescencia.
+
+XVIII. Las demás que le encomiende el Presidente o el Sistema Estatal de Protección Integral.
+
+### Capítulo Tercero. De los Sistemas Municipales de Protección
+
+###### Artículo 160.
+
+En cada Municipio del Estado se instalarán Sistemas Municipales de Protección, que serán presididos por los Presidentes Municipales, y estarán integrados por las dependencias e instituciones vinculadas con la protección y garantía de los derechos de niñas, niños y adolescentes.
+
+Los Sistemas Municipales contarán con una Secretaría Ejecutiva y garantizarán la participación de los sectores social y privado, así como de niñas, niños y adolescentes.
+
+###### Artículo 161.
+
+Los Sistemas Municipales de Protección, deberán contar con un programa de atención y la Secretaría Ejecutiva podrá fungir como autoridad de primer contacto con niñas, niños o adolescentes y será el enlace con las instancias federales y estatales competentes.
+
+La Secretaría Ejecutiva a que se refiere el presente artículo coordinará a los servidores públicos municipales cuando en la operación, verificación y supervisión de las funciones y servicios que les correspondan, detecten casos de violación a los derechos contenidos en la presente Ley, a efecto de que se dé vista a la Procuraduría de Protección Municipal de forma inmediata.
+
+Los Sistemas Municipales de Protección deberán ejercer las atribuciones previstas en (sic) artículo 130 de esta Ley, sin perjuicio de otras que se dispongan en esta Ley y demás normativa aplicable.
+
+## Título Octavo. De los Organismos de Protección de los Derechos Humanos
+
+### Capítulo Único. De la Comisión Estatal de los Derechos Humanos
+
+###### Artículo 162.
+
+La Comisión Estatal de los Derechos Humanos en el ámbito de su respectiva competencia, deberá establecer áreas especializadas para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes.
+
+## Título Noveno. Del Programa Estatal y de los Programas Municipales
+
+### Capítulo Único. Generalidades
+
+###### Artículo 163.
+
+Las autoridades Estatales y municipales, en el ámbito de sus (sic) respectiva competencia, a través del Sistema Estatal de Protección Integral, así como los sectores privado y social, participarán en la elaboración y ejecución del Programa Estatal, el cual deberá ser acorde con los Planes Federal y Estatal de Desarrollo y con la presente Ley.
+
+###### Artículo 164.
+
+El Programa Estatal contendrá las políticas, objetivos, estrategias y líneas de acción prioritarias en materia de ejercicio, respeto, promoción y protección integral de niñas, niños y adolescentes.
+
+###### Artículo 165.
+
+Los Programas Municipales preverán acciones de mediano y largo alcance, indicarán los objetivos, estrategias y líneas de acción prioritarias, y deberán alinearse al Programa Estatal.
+
+###### Artículo 166.
+
+El Programa Estatal y los Programas Municipales, deberán incluir mecanismos transparentes que permitan su evaluación y seguimiento, así como de participación ciudadana y serán publicados en el Periódico Oficial.
+
+###### Artículo 167.
+
+Los Sistemas Estatal y Municipales de Protección Integral, contarán con órganos consultivos de apoyo, en los que participarán las autoridades competentes y representantes de los sectores social y privado, para la implementación y aplicación de los Programas correspondiente (sic).
+
+## Título Décimo. De las Medidas de Protección a Favor de Niñas, Niños y Adolescentes
+
+### Capítulo Único. Generalidades
+
+###### Artículo 168.
+
+Las medidas de protección a favor de niñas, niños y adolescentes, podrán ser solicitadas al ministerio público competente, por las Procuradurías de Protección Estatal y Municipales, cualquier autoridad estatal o municipal, así como por cualquier ciudadano que tenga conocimiento de que alguna niña, niño o adolescente se encuentre en riesgo inminente su vida, integridad o libertad.
+
+###### Artículo 169.
+
+La imposición de medidas urgentes de protección especial idóneas, serán solicitadas cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, debiendo el ministerio público decretarlas a más tardar, durante las siguientes 3 horas a la recepción de la solicitud, dando aviso de inmediato a la autoridad jurisdiccional competente. Son medidas urgentes de protección especial en relación con niñas, niños y adolescentes, además de las establecidas en la legislación aplicable, las siguientes:
+
+I. El ingreso de una niña, niño o adolescente a un Centro de Asistencia Social.
+
+II. La atención médica inmediata por parte de alguna institución de Salud.
+
+Dentro de las 24 horas siguientes a la imposición de la medida urgente de protección, el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente.
+
+###### Artículo 170.
+
+Los servidores públicos, personal de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de aquéllas que, en el ejercicio de sus funciones o actividades o con motivo de ellas, indebidamente impidan el ejercicio de algún derecho o nieguen la prestación del servicio al que están obligados, a las niñas, niños o adolescentes, serán sujetos a las sanciones administrativas y demás que resulten aplicables, en términos de las disposiciones correspondientes.
+
+No se considerarán como negación al ejercicio de un derecho, las molestias que sean consecuencia de sanciones legales, que sean inherentes o incidentales a éstas o derivadas de un acto legítimo de autoridad.
+
+###### Artículo 171.
+
+Se consideran infracciones a la presente Ley:
+
+I. Respecto de servidores públicos, personal de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de aquéllas, así como centros de asistencia social o de cualquier otra índole de jurisdicción estatal o municipal, cuando en el ejercicio de sus funciones o actividades o con motivo de ellas conozcan de la violación de algún derecho de las niñas, niños o adolescente (sic), e indebidamente se abstengan de hacerlo del conocimiento de la autoridad competente en contravención a lo dispuesto por esta Ley y demás ordenamientos aplicables.
+
+II. Respecto de servidores públicos, personal de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de aquéllas, así como centros de asistencia social o de cualquier otra índole de jurisdicción estatal o municipal, cuando propicien, toleren o se abstengan de impedir, cualquier tipo de abuso, acoso, agresión, daño, intimidación, violencia, maltrato o perjuicio de que tengan conocimiento, en contra de niñas, niños y adolescentes.
+
+III. Respecto de profesionales en trabajo social o psicología que intervengan en procedimientos de adopción que no cuenten con la autorización del Sistema DIF-Chiapas a que se refiere el artículo 143 de esta Ley.
+
+IV. Las demás contravenciones a lo dispuesto en la presente Ley.
+
+###### Artículo 172.
+
+A quienes incurran en las infracciones previstas en las fracciones I, II y III del artículo anterior, se sancionará con:
+
+I. Apercibimiento.
+
+II. Amonestación por escrito.
+
+III. Multa de hasta mil quinientos días de salario mínimo general vigente en el Estado, al momento de realizarse la conducta sancionada.
+
+IV. Arresto Administrativo hasta por treinta y seis horas.
+
+V. Suspensión del empleo hasta por quince días, sólo para el caso de ser servidor público.
+
+VI. Separación definitiva del cargo.
+
+Sin perjuicio de las sanciones que procedan, en caso de que el infractor sea servidor público, se podrá denunciar ante el superior jerárquico, para que inicie el procedimiento en materia de responsabilidades de servidores públicos en los términos de la legislación aplicable.
+
+En casos de reincidencia, la multa podrá aplicarse hasta por el doble de lo previsto en este artículo. Se considerará reincidente al que:
+
+a) Habiendo incurrido en una infracción que haya sido sancionada, realice otra violación del mismo precepto de esta Ley.
+
+b) Al inicio del segundo o ulterior procedimiento exista resolución previa que haya causado estado.
+
+c) Que entre el inicio del procedimiento y la resolución que haya causado estado no hayan transcurrido más de diez años.
+
+### Capítulo Único. De las Infracciones y Sanciones Administrativas
+
+###### Artículo 173.
+
+Para la determinación de la sanción, las autoridades competentes deberán considerar:
+
+I. La gravedad de la infracción.
+
+II. El carácter intencional o no de la acción u omisión constitutiva de la infracción.
+
+III. Los daños que se hubieren producido o puedan producirse.
+
+IV. La condición económica del infractor.
+
+V. La reincidencia del infractor.
+
+###### Artículo 174.
+
+Las sanciones previstas en esta Ley se aplicarán por las siguientes autoridades:
+
+I. La dependencia o entidad de la Administración Pública Estatal o Municipal que resulte competente, en los casos de las fracciones I y II del artículo 171 de esta Ley.
+
+II. Tratándose de servidores públicos, así como empleados o trabajadores de establecimientos sujetos al control, administración o coordinación, del Poder Judicial del Estado; el Honorable Congreso del Estado; órganos con autonomía constitucional, o del Tribunal Superior de Justicia del Estado, las sanciones serán impuestas por los órganos que establezcan sus respectivos ordenamientos legales.
+
+III. El Sistema DIF- Chiapas, en los casos de la fracción III del artículo 171 de esta Ley.
+
+###### Artículo 175.
+
+Contra las sanciones que las autoridades estatales o municipales impongan en cumplimiento de esta Ley, se podrá interponer el recurso de revisión previsto en la Ley de Procedimientos Administrativos para el Estado de Chiapas.
+
+###### Artículo 176.
+
+Para los efectos de este Título, a falta de disposición expresa y en lo que no contravenga a esta Ley, se aplicará supletoriamente la Ley de Procedimientos Administrativos para el Estado de Chiapas.
+
+T r a n s i t o r i o s
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Todas las modificaciones a las disposiciones normativas, derivadas de lo establecido en la presente Ley, deberán ser expedidas, en un término no mayor a 90 días hábiles, siguientes a la entrada en vigor del presente Decreto.
+
+Artículo Tercero.- Se deroga con el presente Decreto, lo relativo al Libro Segundo denominado "De la Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado", que comprende de los artículos 61 al 123, todos del Código de Atención a la Familia y Grupos Vulnerables para el Estado Libre y Soberano de Chiapas.
+
+Artículo Cuarto.- Los Sistemas de Protección Integral Estatal y Municipales, deberán integrarse a más tardar dentro de los noventa días hábiles, siguientes a la entrada en vigor del presente Decreto.
+
+El Presidente de los Sistemas de Protección Integral Estatal y Municipales, realizarán las acciones necesarias para la elaboración de sus Programa (sic), los cuales deberá (sic) aprobarse dentro de los treinta días hábiles siguientes a la instalación de dichos Sistemas.
+
+Artículo Quinto.- Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Ejecutivo del Estado en un plazo no mayor a los ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Sexto.- El Titular de la Secretaría Ejecutiva del Sistema Estatal de Protección Integral, una vez instalado el mismo, dentro de los siguientes treinta días naturales, deberá presentar a consideración y en su caso aprobación de los integrantes de dicho Sistema, el proyecto de lineamientos a que se refiere el artículo 156 de la presente Ley.
+
+Artículo Séptimo.- Los Centros de Asistencia que se encuentren operando con antelación a la entrada en vigor del presente Decreto, contarán con un plazo de 180 días naturales, a partir de la publicación del presente Decreto, para realizar las adecuaciones conducentes a su reglamentación, en términos de lo previsto en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Chiapas.
+
+Artículo Octavo.- El Ejecutivo Estatal, a través de la Secretaría de Hacienda, preverá una partida presupuestal, para coadyuvar en el cumplimiento de la presente Ley.
+
+Artículo Noveno.- La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, del Estado, deberá constituirse en un término no mayor a 90 días hábiles, siguientes a la entrada en vigor del presente Decreto.
+
+Para efectos del párrafo anterior, el Sistema DIF - Chiapas, deberá reformar la normatividad correspondiente, a fin de que se formalice la creación de dicha Procuraduría.
+
+Artículo Décimo.- Los Municipios del Estado, deberán asignar las partidas presupuestales que correspondan, para hacer lo concurrente a lo mandatado en esta Ley, para tales efectos se deberán realizar las modificaciones legales correspondientes a su legislación fiscal.
+
+Así mismo, deberán prever dentro de su presupuesto, la creación de las Procuradurías Municipales de Protección de los Derechos de las Niñas, Niños, Adolescentes y la Familia, las cuales deberán contar con al menos, un procurador, un psicólogo y un trabajador social.
+
+Artículo Décimo Primero.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+
+El Ejecutivo del Estado, dispondrá se publique, circule y se le dé el debido cumplimiento.
+
+Dado en el Salón de Sesiones del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los 02 días del mes de junio del año dos mil quince.- D.P.C. Jorge Enrrique Hernández Bielma.- D.S.C. José Guillermo Toledo Moguel.- Rúbricas.
+
+De conformidad con la fracción I del artículo 44 de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los 02 días del mes de junio del año dos mil quince.
+
+Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Rúbricas.
+
+## Título Décimo Primero. De las Infracciones Administrativas
