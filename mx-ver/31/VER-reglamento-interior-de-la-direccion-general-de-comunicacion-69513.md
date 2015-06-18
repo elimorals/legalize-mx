@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-direccion-general-de-comunicacion-695
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-14"
-last_updated: "2009-07-14"
+last_updated: "2015-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # REGLAMENTO INTERIOR DE LA DIRECCION GENERAL DE COMUNICACION SOCIAL
 
-REGLAMENTO INTERIOR DE LA DIRECCION GENERAL DE COMUNICACION SOCIAL
+REGLAMENTO INTERIOR DE LA DIRECCIÓN GENERAL DE COMUNICACIÓN SOCIAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL, PUBLICADO EN LA G.O. DE 18 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE JUNIO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Veracruz, el martes 14 de julio de 2009.
 
@@ -163,7 +165,7 @@ X. Elaborar los dictámenes, opiniones, estudios e informes que les sean solicit
 
 XI. Suscribir los documentos relativos al ejercicio de sus facultades o de las que les sean señaladas por delegación de la superioridad, así como aquellos documentos que sean sometidos al Director General para su emisión;
 
-XII. Integrar y resguardar el archivo de las áreas a su cargo, conforme a las normas establecidas; y (sic)
+XII. Integrar y resguardar el archivo de las áreas a su cargo, conforme a las normas establecidas; y
 
 XIII. Coadyuvar con la Unidad de Acceso a la Información Pública para el cumplimiento de los fines de la ley de Transparencia y Acceso a la información Pública para el Estado de Veracruz de Ignacio de Llave; y;
 
@@ -456,3 +458,15 @@ Licenciado Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 18 DE JUNIO DE 2015.
+
+Artículo Primero. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Dirección General de Comunicación Social publicado en la Gaceta Oficial del Estado número Extraordinario 222, de fecha 14 de julio de 2009; así como todas las disposiciones normativas, administrativas o reglamentarias que se opongan al presente Reglamento.
+
+Artículo Tercero. Los Manuales de Organización, de Procedimientos y de Servicios al Público de la Coordinación General, deberán expedirse (sic) un plazo no mayor a ciento veinte días, contados a partir de la publicación en la Gaceta Oficial del Estado del presente Reglamento.
+
+Artículo Cuarto. En tanto se expidan los Manuales de Organización, de Procedimientos, de Servicios al Público y demás manuales administrativos, el Titular de la Coordinación General estará facultado para resolver los asuntos que dichos Manuales deben regular.
