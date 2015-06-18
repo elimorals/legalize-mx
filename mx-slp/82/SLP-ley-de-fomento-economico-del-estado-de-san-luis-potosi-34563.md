@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-economico-del-estado-de-san-luis-potosi-34563"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-20"
-last_updated: "2014-05-10"
+last_updated: "2015-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY DE FOMENTO ECONÓMICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 18 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2015 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 20 de marzo de 2003.
 
@@ -619,7 +621,7 @@ La interposición del recurso se hará por escrito dirigido a la Secretaría, en
 
 Lo dispuesto en los capítulos XIV y XV de esta Ley, será aplicable a los ayuntamientos de los municipios del Estado, en el ámbito de sus respectivas competencias.
 
-TRANSITORlOS
+## TRANSITORIOS
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado,
 
@@ -704,3 +706,17 @@ P.O. 10 DE MAYO DE 2014.
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 18 DE JUNIO DE 2015.
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Fomento Económico del Estado de San Luis Potosí, publicada en la edición extraordinaria del Periódico Oficial del Estado, el 20 de marzo de 2003.
+
+TERCERO. En un plazo no mayor de noventa días naturales contados a partir de la fecha de publicación de esta Ley, el Ejecutivo del Estado emitirá el Reglamento de la misma. Los reglamentos y disposiciones derivadas de la ley que se abroga, continuarán surtiendo sus efectos en todo aquello que no se oponga a la presente, en tanto se expidan los nuevos reglamentos.
+
+CUARTO. Las solicitudes de otorgamiento de estímulos que se encuentren en trámite a la entrada en vigor de este Ordenamiento, se resolverán en los términos de la ley que se abroga.
+
+QUINTO. Las personas físicas o morales que conforme a la ley que se abroga disfruten de incentivos, continuarán gozando de los beneficios concedidos hasta en tanto, no se modifiquen o cancelen por la Secretaría, mediante resolución debidamente fundada y motivada.
+
+SEXTO. El Consejo deberá instalarse en un plazo no mayor de sesenta días naturales contados a partir de la fecha de publicación de esta Ley, para lo cual el Gobernador del Estado proveerá lo conducente.
