@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-nacional-de-estadistica-y-678
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-31"
-last_updated: "2014-12-30"
+last_updated: "2015-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67802&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,11 +21,7 @@ issue_date: "2009-03-25"
 
 REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LAS REFORMAS PUBLICADAS EN EL D.O.F. DE 7 DE DICIEMBRE DE 2014, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL PRESENTE REGLAMENTO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 30 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JUNIO DE 2015.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el martes 31 de marzo de 2009.
 
@@ -735,9 +731,9 @@ XV. Establecer programas preventivos para garantizar la autenticidad de la infor
 
 XVI. Notificar a la Dirección General de Coordinación del Sistema Nacional de información Estadística y Geográfica, cuando los datos proporcionados por los Informantes sean incongruentes, incompletos o inconsistentes, para efectos de lo dispuesto por el artículo 49 de la Ley y demás disposiciones administrativas aplicables;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2015)</small>
 
-XVII. A solicitud de la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica, instruir a los servidores públicos de las Areas Administrativas a su cargo a efectuar inspecciones para verificar la autenticidad de la Información proporcionada por los Informantes. Dichas diligencias, se sujetarán al procedimiento que al efecto establece el artículo 49 de la Ley y demás disposiciones administrativas aplicables;
+XVII. Instruir a los servidores públicos de las Áreas Administrativas a su cargo, a efectuar inspecciones para verificar la autenticidad de la Información proporcionada por los informantes en coordinación con la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica. Dichas diligencias se sujetarán al procedimiento que al efecto establece el artículo 49 de la Ley y demás disposiciones administrativas aplicables;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -1035,7 +1031,9 @@ XVI. Establecer programas preventivos para garantizar la autenticidad de la info
 
 XVII. Notificar a la Dirección General de Coordinación del Sistema Nacional de información Estadística y Geográfica, cuando los datos proporcionados por los Informantes sean incongruentes, incompletos o inconsistentes, para efectos de lo dispuesto por el artículo 49 de la Ley y demás disposiciones administrativas aplicables;
 
-XVIII. A solicitud de la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica, instruir a los servidores públicos de las Areas Administrativas a su cargo a efectuar inspecciones para verificar la autenticidad de la Información proporcionada por los Informantes. Dichas diligencias, se sujetarán al procedimiento que al efecto establece el artículo 49 de la Ley y demás disposiciones administrativas aplicables;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2015)</small>
+
+XVIII. Instruir a los servidores públicos de las Áreas Administrativas a su cargo, a efectuar inspecciones para verificar la autenticidad de la Información proporcionada por los informantes en coordinación con la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica. Dichas diligencias se sujetarán al procedimiento que al efecto establece el artículo 49 de la Ley y demás disposiciones administrativas aplicables;
 
 XIX. Prestar asesoría a las Unidades del Estado, en la explotación de los resultados de censos, encuestas y registros administrativos sobre datos de gobierno, crimen, seguridad pública, victimización, justicia y sistema penitenciario;
 
@@ -1267,9 +1265,9 @@ XVII. Establecer programas preventivos para garantizar la autenticidad de la inf
 
 XVIII. Notificar a la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica, cuando los datos proporcionados por los Informantes sean incongruentes, incompletos o inconsistentes, para efectos de lo dispuesto por el artículo 49 de la Ley y demás disposiciones administrativas aplicables;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2015)</small>
 
-XIX. A solicitud de la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica, instruir a los servidores públicos de las Areas Administrativas a su cargo a efectuar las inspecciones para verificar la autenticidad de la Información proporcionada por los informantes. Dichas diligencias, se sujetarán al procedimiento que al efecto establece el artículo 49 de la Ley y demás disposiciones administrativas aplicables;
+XIX. Instruir a los servidores públicos de las Áreas Administrativas a su cargo, a efectuar inspecciones para verificar la autenticidad de la Información proporcionada por los informantes en coordinación con la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica. Dichas diligencias se sujetarán al procedimiento que al efecto establece el artículo 49 de la Ley y demás disposiciones administrativas aplicables;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -1637,9 +1635,9 @@ XXIV. Establecer programas preventivos para garantizar la autenticidad de la inf
 
 XXV. Notificar a la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica, cuando los datos proporcionados por los Informantes sean incongruentes, incompletos o inconsistentes, para efectos de lo dispuesto por el artículo 49 de la Ley y demás disposiciones administrativas aplicables;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2015)</small>
 
-XXVI. A solicitud de la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica, instruir a los servidores públicos de las Areas Administrativas a su cargo a efectuar las inspecciones para verificar la autenticidad de la información proporcionada por los informantes. Dichas diligencias, se sujetarán al procedimiento que al efecto establece el artículo 49 de la Ley y demás disposiciones administrativas aplicables;
+XXVI. Instruir a los servidores públicos de las Áreas Administrativas a su cargo, a efectuar inspecciones para verificar la autenticidad de la Información proporcionada por los informantes en coordinación con la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica. Dichas diligencias se sujetarán al procedimiento que al efecto establece el artículo 49 de la Ley y demás disposiciones administrativas aplicables;
 
 XXVII. Prestar asesoría a las Unidades del Estado en la explotación de los resultados de censos, encuestas y registros administrativos sobre datos geográficos y del medio ambiente;
 
@@ -1979,7 +1977,9 @@ Son atribuciones específicas de la Dirección General de Integración, Análisi
 
 I. Proponer políticas, normas y procedimientos para la integración de la información estadística y geográfica que producen las Unidades del Estado y el Instituto;
 
-II. Coordinar la integración de estadísticas nacionales, sectoriales, estatales y regionales;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2015)</small>
+
+II. Integrar estadísticas nacionales, sectoriales, estatales y regionales;
 
 III. Proponer al Presidente, previa consulta a las Unidades Administrativas del Instituto, el Calendario Anual de Publicación de Información de Interés Nacional y el Calendario de Difusión de Información de Coyuntura, para su aprobación por la Junta de Gobierno;
 
@@ -2015,21 +2015,21 @@ Son atribuciones específicas de la Dirección General Adjunta de Integración d
 
 I. Proporcionar la asesoría técnica y la capacitación que se requieren para el funcionamiento operativo de las áreas centrales y, en coordinación con la Dirección General de Coordinación del Sistema Nacional de Información Estadística y Geográfica, de las regionales y estatales del Instituto que participan en los procesos de integración de estadística;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2015)</small>
 
-II. Coordinar la integración de la información generada por las Unidades del Estado productoras de datos estadísticos sociodemográficos, económicos, de gobierno, seguridad pública e impartición de justicia, y elaborar productos de temática amplia de cobertura nacional, sectorial, estatal, municipal y regional conforme a la normatividad que determine la Junta de Gobierno del Instituto;
+II. Integrar información generada por las Unidades del Estado productoras de datos estadísticos sociodemográficos, económicos, de gobierno, seguridad pública e impartición de justicia, y elaborar productos de temática amplia de cobertura nacional, sectorial, estatal, municipal y regional conforme al Programa Anual que autorice el Comité de Productos del Instituto;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2015)</small>
 
-III. Integrar y administrar el banco de datos económicos de series de tiempo del Instituto y asegurar su consistencia y vinculación con los procesos de generación y difusión de información del Instituto;
+III. Integrar al banco de información del INEGI, la información generada por las Unidades del Estado productoras de datos estadísticos sociodemográficos y económicos, asegurando su consistencia y vinculación con los procesos de generación y difusión de información del Instituto;
 
 IV. Elaborar diagnósticos a partir de análisis comparativos de las estadísticas estatales integradas central y localmente, así como, realizar acciones de conciliación entre los ámbitos central, regional y estatal;
 
 V. Realizar el análisis de factibilidad, conceptual y temporal, para consolidar a nivel nacional, la integración de estadísticas captadas en fuentes del ámbito regional o estatal;
 
-> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2015)</small>
 
-VI. Integrar publicaciones de estadísticas nacionales, sectoriales, estatales y regionales;
+VI. Atender los requerimientos establecidos para el proyecto de los Objetivos de Desarrollo del Milenio;
 
 VII. (DEROGADA, D.O.F. 3 DE AGOSTO DE 2012)
 
@@ -2139,7 +2139,9 @@ VIII. Implementar el Sistema de Compilación Normativa del Sistema;
 
 IX. Integrar y emitir la opinión del Instituto sobre la pertinencia de que Unidades del Estado distintas al Instituto, realicen actividades estadísticas y geográficas en apego a los programas a que hace referencia el artículo 9 de la Ley, y hacerla del conocimiento de dichas Unidades con las recomendaciones para llevarlas a cabo, en los términos del artículo 85 de la Ley;
 
-X. Coordinar, con las Unidades Administrativas competentes en el Instituto y demás Unidades del Estado, las inspecciones para verificar la autenticidad de la información cuando los datos proporcionados por los informantes del Sistema sean incongruentes, incompletos o inconsistentes. Dichas diligencias, se sujetarán al procedimiento que al efecto establece el artículo 49 de la Ley y demás disposiciones administrativas aplicables;
+> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2015)</small>
+
+X. Coordinar, con las Unidades Administrativas competentes en el Instituto, las inspecciones para verificar la autenticidad de la información cuando los datos proporcionados por los informantes del Sistema sean incongruentes, incompletos o inconsistentes, así como, brindar la asesoría que requieran las Unidades del Estado cuando realicen inspecciones de verificación conforme al procedimiento establecido en la Ley.
 
 > <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -2376,6 +2378,10 @@ VIII. Fungir como área técnica de consulta de los Comités Técnicos Especiali
 > <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
 IX. Informar al Director General de su adscripción, las infracciones cometidas a la Ley, de las que tenga conocimiento, así como apoyar a la Dirección General Adjunta de Coordinación de los Subsistemas Nacionales de Información para realizar las actuaciones necesarias para llevar a cabo el proceso de determinación de faltas administrativas por infracciones a la Ley.
+
+> <small>(ADICIONADA, D.O.F. 18 DE JUNIO DE 2015)</small>
+
+IX Bis. Instruir a los servidores públicos de las Áreas Administrativas a su cargo, a efectuar inspecciones para verificar la autenticidad de la Información proporcionada por los informantes en coordinación con su superior jerárquico y las Unidades Administrativas responsables del operativo para recabar la información. Dichas diligencias se sujetarán al procedimiento que al efecto establece el artículo 49 de la Ley y demás disposiciones administrativas aplicables;
 
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
@@ -3448,3 +3454,7 @@ D.O.F. 17 DE DICIEMBRE DE 2014.
 PRIMERO.- Las reformas al Reglamento Interior del Instituto Nacional de Estadística y Geografía aprobadas por el presente Acuerdo, entrarán en vigor a partir del 1 de enero de 2015.
 
 SEGUNDO.- A la entrada en vigor del presente Acuerdo, los asuntos en trámite se continuarán substanciando por las Unidades Administrativas a que hace referencia este Reglamento y de conformidad con las atribuciones conferidas.
+
+D.O.F. 18 DE JUNIO DE 2015.
+
+ÚNICO.- Las reformas al Reglamento Interior del Instituto Nacional de Estadística y Geografía aprobadas por el presente Acuerdo, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
