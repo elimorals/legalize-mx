@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-economico-del-estado-de-san-luis-potosi-34563"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-20"
-last_updated: "2014-05-10"
+last_updated: "2015-06-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,906 +21,702 @@ state: "SLP"
 ---
 # LEY DE FOMENTO ECONOMICO DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE PROTECCIÓN CIVIL DEL ESTADO DE MICHOACÁN DE OCAMPO
+LEY DE FOMENTO ECONÓMICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 18 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Ley publicada en la Décima Octava Sección, en el Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 28 de diciembre del 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2015 (ABROGADA).
 
-LEONEL GODOY RANGEL, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
+Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 20 de marzo de 2003.
 
-El H. Congreso del Estado, se ha servido dirigirme el siguiente:
+Fernando Silva Nieto, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed:
 
-DECRETO
+LA QUINCUAGESIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA LO SIGUIENTE:
 
-EL CONGRESO DE MICHOACÁN DE OCAMPO DECRETA:
+DECRETO 484
 
-NÚMERO 381
+LA QUINCUAGESIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA LO SIGUIENTE:
 
-###### ARTÍCULO ÚNICO.
+...
 
-Se expide la Ley de Protección Civil del Estado de Michoacán de Ocampo, para quedar de la siguiente manera:
+LEY DE FOMENTO ECONOMICO DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE PROTECCIÓN CIVIL DEL ESTADO DE MICHOACÁN DE OCAMPO
+### CAPITULO I. Disposiciones Generales
 
-### Capítulo I. Objeto y Ámbito de Aplicación
+###### ARTICULO 1°.
 
-###### ARTÍCULO 1.
+La presente Ley es de orden público, interés social y observancia general en el territorio del Estado de San Luis Potosí. Tiene por objeto establecer las bases para promover, fomentar e incentivar la actividad económica del Estado, generándole un entorno favorable para su desarrollo local, regional, nacional e internacional.
 
-La presente Ley tiene por objeto ordenar las acciones de protección civil y prevención de riesgos en el ámbito del Estado, sin perjuicio de lo que disponga la normativa federal.
+###### ARTICULO 2°.
 
-###### ARTÍCULO 2.
+La aplicación de esta Ley corresponde al Ejecutivo Estatal por conducto de la Secretaría de Desarrollo Económico, así como a las demás autoridades estatales y municipales, de conformidad con sus atribuciones y dentro del ámbito de sus respectivas competencias.
 
-Para los efectos de esta Ley se entenderá por:
+###### ARTICULO 3°.
 
-I. Acciones de protección civil: Son las de estudio, prevención de riesgos y atención a las situaciones de emergencia que por sus dimensiones puedan calificarse de catástrofe o calamidad pública y exigen de una adecuada programación;
+Para los efectos de lo establecido en esta Ley se entenderá por:
 
-II. Alarma: Se establece cuando se han producido daños en la población, sus bienes y su entorno, lo que implica la necesaria ejecución del subprograma de auxilio;
+l. Secretaría: La Secretaría de Desarrollo Económico;
 
-III. Alerta: A la inminente concurrencia de una calamidad cuyos daños pueden llevar al grado de desastre debido a la forma en que se ha extendido el peligro o en virtud de la evolución que presenta, con la posible aplicación del subprograma de auxilio;
+II. Secretario: El titular de la Secretaría;
 
-IV. Atlas de Riesgo: Sistema de información geográfica, actualizado, que permite identificar el tipo de riesgo a que están expuestos los servicios vitales, sistemas estratégicos, las personas, sus bienes y entorno;
+III. Ley: La Ley de Fomento Económico del Estado de San Luis Potosí;
 
-V. Catástrofe: Emergencia que por su gravedad genera una desproporción entre las necesidades de atención ocasionadas por los daños producidos o factibles y las posibilidades del sistema para solventarlas, exigiendo medios extraordinarios para su atención;
+IV. Consejo: El Consejo Consultivo para el Desarrollo Económico del
 
-VI. Calamidad pública: Catástrofe en la que hay una afección generalizada a la población;
+Estado;
 
-VII. Consejo Estatal: Al Consejo Estatal de Protección Civil;
+V. Empresa: La entidad integrada por el capital y el trabajo, como factores de la producción, y dedicada a actividades industriales, comerciales o de prestación de servicios con fines de lucro;
 
-VIII. Desastre: Evento de origen natural, tecnológico o provocado por el hombre que causa alteraciones intensas en las personas, los bienes, los servicios y o el medio ambiente. Es la ocurrencia efectiva de un fenómeno peligroso, que como consecuencia de la vulnerabilidad de los elementos expuestos causa efectos adversos sobre los mismos;
+VI. Fondo: El Fondo de Fomento Económico, y
 
-IX. Estado: Estado de Michoacán de Ocampo;
+VII. Padrón: El Padrón Empresarial del Estado.
 
-X. Emergencia: Situación que sobreviene de modo súbito en la cual la vida o la integridad física de las personas o los bienes se ponen en grave riesgo o resultan agredidas y que exige la adopción inmediata de medidas para atajar el riesgo o para minimizar los daños;
+### CAPITULO II. De los Objetivos
 
-XI. Ley: A la Ley de Protección Civil del Estado de Michoacán de Ocampo;
+###### ARTICULO 4°.
 
-XII. Mitigación: Son las medidas tomadas con anticipación al desastre y durante la emergencia, para reducir su impacto en la población, bienes y entorno;
+Son objetivos de la presente Ley los siguientes:
 
-XIII. Prevención de riesgos: Se entiende a aquellas actuaciones orientadas a la protección de la vida y de la integridad física de las personas, así como a la protección de los bienes materiales y del medio ambiente, cuando se producen situaciones de emergencia tanto por causas naturales como humanas;
+I. Promover la generación de nuevas fuentes de empleo y consolidar las existentes;
 
-XIV. Programa, Al Programa Estatal de Protección Civil;
+II. Fortalecer los sectores económicos estratégicos para que sean altamente competitivos a través de esquemas de agrupamientos empresariales, cadenas productivas y programas de desarrollo de proveedores locales;
 
-XV. Programa Municipal: Objetivos, políticas, estrategias y líneas de acción de los sectores públicos estrategias y líneas de acción de los sectores público, privado y social en materia de protección civil municipal;
+III. Promover programas de capacitación y adiestramiento para fortalecer y elevar la calidad y productividad de la fuerza laboral en el Estado;
 
-XVI. Prealerta: Estado permanente de prevención de los organismos de respuestas de la protección civil, con base en la información sobre la probable presencia de un fenómeno destructivo;
+IV. Alentar el apoyo frontal a las micro, pequeñas y medianas empresas locales;
 
-XVII. Protección Civil: Al conjunto de principios, normas, procedimientos, acciones y conductas incluyentes, solidarias, participativas y corresponsables que efectúan coordinada y concertadamente la sociedad y autoridades, que se llevan a cabo para la prevención, mitigación, preparación, auxilio, rehabilitación, restablecimiento y reconstrucción, tendientes a salvaguardar la integridad física de las personas, sus bienes y entorno frente a la eventualidad de un riesgo, emergencia, siniestro o desastre;
+V. Alentar la preferencia del sector público y privado del estado por las empresas potosinas, en la asignación de obra y adquisición de bienes y servicios;
 
-XVIII. Riesgo: Situación en que la posibilidad de generación de daños sobre personas o bienes a causa de un fenómeno determinado es mayor de lo habitual;
+VI. Alentar el impulso al desarrollo integral armónico y equilibrado de las regiones que conforman el Estado;
 
-XIX. Sistema Estatal: Al Sistema Estatal de Protección Civil;
+VII. Impulsar la participación efectiva de los sectores empresarial y social en la definición del rumbo económico del Estado;
 
-XX. Sistema Nacional: Al Sistema Nacional de Protección Civil;
+VIII. Establecer y coordinar una efectiva vinculación entre los sectores educativo y productivo, para obtener una mano de obra adecuada a la demanda de las empresas;
 
-XXI. Simulacro: Ejercicio para la toma de decisiones y adiestramiento en protección civil, en una comunidad o área preestablecida, mediante la simulación de una emergencia o desastre para promover una coordinación más efectiva de respuesta por parte de las autoridades y la población;
+IX. Impulsar la comercialización de los productos y servicios estatales en los mercados regional, nacional e internacional;
 
-XXII. Unidad Estatal: A la Unidad Estatal de Protección Civil;
+X. Fomentar una cultura emprendedora entre las clases sociales más desprotegidas en el Estado, a través de programas de promoción económica de contenido social;
 
-XXIII. Unidad Municipal: A la Unidad Municipal de Protección Civil; y,
+XI. Trabajar conjuntamente con las autoridades municipales y federales relacionadas con el desarrollo económico del Estado;
 
-XXIV. Vulnerabilidad: Factor de riesgo interno de un sistema expuesto a una amenaza, como resultado de la ocurrencia de un fenómeno perturbador de una magnitud o intensidad dada.
+XII. Coadyuvar al proceso de mejora regulatoria y simplificación administrativa, de manera que estimule la creación de nuevas empresas y la ampliación de la planta productiva, así como el desarrollo eficiente de las actividades económicas;
 
-###### ARTÍCULO 3.
+XIII. Fomentar el uso y la operación de instrumentos financieros, avances tecnológicos y de infraestructura, en los sectores económicos estratégicos;
 
-La política del Estado en materia de protección civil, tendrá como finalidades básicas las siguientes:
+XIV. Propiciar las condiciones adecuadas para atraer al Estado inversiones nacionales y extrajeras (sic), a través de incentivos para la inversión;
 
-I. La identificación, localización y análisis de los distintos riesgos en el Estado, para la evaluación de sus consecuencias y de la vulnerabilidad del territorio y de la población ante cada riesgo contemplado;
+XV. Contar con un sistema de información estadística que contenga variables financieras y económicas y que permita alcanzar a la sociedad los efectos de las políticas adoptadas al respecto, y
 
-II. La implantación de medidas de prevención frente a cada riesgo que reduzcan o eliminen la posibilidad de que se produzcan daños;
+XVI. Promover la creación de condiciones económicas favorables para el desarrollo de las actividades empresariales en el territorio del Estado.
 
-III. Promover entre los distintos colectivos la autoprotección de forma tal que la población sea capaz de prever y prevenir cualquier suceso no deseable que pueda causar daños a personas y bienes, y de actuar en caso de que se produzca para neutralizarlo, reducir sus consecuencias y facilitar la evacuación;
+###### ARTICULO 5°.
 
-IV. La planificación de la respuesta en caso de producirse daños a personas y bienes, estableciendo planes de emergencia que contemplen la estructura jerárquica y funcional que permita la actuación coordinada de los distintos servicios llamados a intervenir en el siniestro;
+Para cumplir con los objetivos a que se refiere el artículo anterior, la Secretaría coordinará las funciones relacionadas con el desarrollo económico que realicen los organismos públicos y privados establecidos en la Entidad, ajustándose a los lineamientos y políticas que en materia económica se contienen en el Plan Estatal de Desarrollo.
 
-V. La intervención simultánea sobre las causas del siniestro de forma que se limite su extensión y se reduzcan sus efectos;
+### CAPITULO III. Del Consejo Consultivo para el Desarrollo Económico del Estado
 
-VI. El restablecimiento de los servicios esenciales y propiciar programas de recuperación para las zonas afectadas por los siniestros;
+###### ARTICULO 6°.
 
-VII. La preparación adecuada del personal de los servicios de intervención; y,
+El Consejo Consultivo para el Desarrollo Económico del Estado, es el órgano técnico y de consulta del Gobierno del Estado, para el fomento de las actividades productivas de la Entidad.
 
-VIII. La información y formación de los ciudadanos que pueden resultar afectados por las situaciones de emergencia.
+###### ARTICULO 7°.
 
-### Capítulo ll. Sistema Estatal de Protección Civil
+El Consejo estará integrado de manera honorífica y permanente por:
 
-###### ARTÍCULO 4.
+I. El Gobernador del Estado, quien lo presidirá;
 
-Principios de actuación.
+II. El Secretario de Desarrollo Económico de Gobierno del Estado, quien fungirá como Secretario Ejecutivo;
 
-I. Se dispondrá de un Sistema Estatal de Protección Civil, gestión de emergencias, integrado y compatible, que dé respuesta a una efectiva coordinación, dirección y control de las actuaciones necesarias;
+III. El Presidente de la Cámara Nacional de la Industria de la Construcción, Delegación San Luis Potosí;
 
-II. El diseño del sistema permitirá la activación de medidas y aplicación de recursos de forma gradual en función de la gravedad de las emergencias de modo que se asegure su eficacia y eficiencia; y,
+IV. El Presidente de la Cámara Nacional de la Industria de Transformación, Delegación San Luis Potosí;
 
-III. Los ciudadanos participarán en los fines de esta Ley ejerciendo sus derechos y cumpliendo los deberes que se establecen en ella y en el resto del ordenamiento jurídico aplicable.
+V. El Presidente del Centro Empresarial de San Luis Potosí;
 
-###### ARTÍCULO 5.
+VI. El Presidente de la Cámara Nacional de Comercio, Servicios y Turismo, Delegación San Luis Potosí;
 
-El Sistema Estatal se constituye como parte integrante del Sistema Nacional de Protección Civil, el cual es un conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos, normas, instancias, principios, instrumentos, políticas, procedimientos, servicios y acciones, que establecen las dependencias y entidades del sector público entre sí, con las organizaciones de diversos Grupos Voluntarios, Sociales y Autoridades Municipales, a fin de efectuar acciones coordinadas destinadas a la protección de la población, contra los peligros y riesgos que se presentan en la eventualidad de un desastre de origen natural o humano.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2010)</small>
 
-### Capítulo III. Consejo Estatal de Protección Civil
+VII. Tres empresarios del Estado de San Luis Potosí, mismos que designará el Consejo;
 
-###### ARTÍCULO 6.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2010)</small>
 
-El objetivo del Sistema es proteger a las personas, familias y comunidades, ante la eventualidad de un desastre provocado por fenómenos perturbadores de origen natural o humano a través de acciones que prevengan, reduzcan o eliminen la pérdida de vidas, la afectación de la planta productiva, la destrucción de bienes materiales y el daño a la naturaleza, así como a la interrupción de las funciones esenciales de la sociedad.
+VIII. El presidente del principal organismo empresarial, para cada una de las zonas del Estado: altiplano, huasteca y media; que serán designados por el Consejo, en términos del Reglamento;
 
-###### ARTÍCULO 7.
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2010)</small>
 
-El Sistema Estatal de Protección Civil se encuentra integrado por:
+IX. El diputado Presidente de la Comisión de Desarrollo Económico y Social del Honorable Congreso del Estado;
 
-I. El Consejo Estatal de Protección Civil;
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2010)</small>
 
-ll. La Unidad Estatal de Protección Civil;
+X. Los Delegados de las secretarías federales inherentes al desarrollo económico en el Estado, y
 
-III. Los Consejos Municipales de Protección Civil;
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2010)</small>
 
-IV. Las Unidades Municipales de Protección Civil;
+XI. Tres directivos de instituciones de educación superior en el Estado, mismos que designará el Consejo.
 
-V. Los Grupos Voluntarios registrados ante la Unidad Estatal; y,
+Los miembros del Consejo tendrán voz y voto.
 
-VI. Los Sectores Social y Privado.
+###### ARTICULO 8°.
 
-###### ARTÍCULO 8.
+Cuando se traten asuntos concretos, y por acuerdo de sus integrantes, El Consejo podrá invitar a titulares o representantes de dependencias u organismos de la administración pública federal, quienes asistirán sin derecho a voto. De igual forma, podrá invitarse a representantes de instituciones financieras o de organismos públicos o privados, que el propio Consejo estime pertinente.
 
-En situaciones de riesgo inminente qué implique la posibilidad de una emergencia o desastre y en donde se ponga en peligro la seguridad de la ciudadanía, sus bienes y su entorno, las dependencias y entidades de la Administración Pública del Estado y los Municipios, tendrán la obligación de poner a disposición del Sistema Estatal los recursos materiales, técnicos y humanos que les sean requeridos, así como la infraestructura pública necesaria para su atención inmediata y oportuna, sin más demora que la permitida por la organización, traslado y transportación de dichos recursos.
+###### ARTICULO 9°.
 
-###### ARTÍCULO 9.
+Son funciones del Consejo:
 
-El Consejo Estatal de Protección Civil es el órgano superior de consulta, planeación, coordinación y opinión de las acciones públicas en materia de Protección Civil en el Estado, en el que se integran de forma multidisciplinaria e interinstitucional los órganos de Gobierno, las organizaciones civiles e instituciones científicas, académicas y profesionales, cuyos fines, funciones o atribuciones se vinculan a las acciones de la Protección Civil.
+I. Proponer los sectores prioritarios y estratégicos, así como las regiones en las cuales se debe impulsar la actividad económica del Estado;
 
-###### ARTÍCULO 10.
+II. Proponer a la Secretaría los incentivos que deban otorgarse a las distintas actividades productivas, así como sus montos, plazos, términos y condiciones;
 
-El Consejo estará integrado por:
+III. Analizar las solicitudes que para la obtención de incentivos presenten los particulares, y opinar sobre el otorgamiento o rechazo de los mismos;
 
-I. Un Presidente, que será el Gobernador del Estado de Michoacán;
+IV. Emitir opinión respecto de las resoluciones que sobre modificación o cancelación de los incentivos otorgados le presente la Secretaría;
 
-II. Un Secretario Ejecutivo, que será el Secretario de Gobierno;
+V. Conocer y opinar sobre la constitución, administración, destino y presupuesto anual del Fondo, proponiendo a la Secretaría los ajustes que estime pertinentes;
 
-III. Un Secretario Técnico, que será el Director General de la Unidad Estatal;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
 
-IV. El Diputado presidente de las siguientes comisiones del Poder Legislativo, quienes fungirán como vocales:
+VI. Proponer a las autoridades federales, estatales y municipales la generación, implementación y desarrollo de incentivos, así como la entrega de recursos, en dinero o en especie, a través de los fideicomisos públicos que para tal fin constituya el Ejecutivo del Estado, a las personas físicas o morales o instituciones que resulten favorecidas en términos de esta Ley, en igualdad de oportunidades entre mujeres y hombres;
 
-a) Seguridad Pública;
+VII. Elaborar y proponer al Ejecutivo del Estado para su aprobación, el Reglamento del Consejo y del Fondo, y
 
-b) Salud;
+VIII. Las demás que le señale el Reglamento del Consejo.
 
-c) Desarrollo Urbano;
+###### ARTICULO 10.
 
-d) Desarrollo Rural;
+El Consejo sesionará en forma ordinaria una vez por mes; pudiendo celebrar las sesiones extraordinarias que se requieran, siempre que sean convocadas por el Presidente o, cuando menos, por tres de sus miembros, en los términos que fije su Reglamento.
 
-e) Desarrollo Social; y,
+###### ARTICULO 11.
 
-f) Recursos Naturales y Medio Ambiente.
+El Consejo sesionará válidamente con la concurrencia de la mayoría de sus miembros, entre los cuales deberá encontrarse el Presidente. Los acuerdos y resoluciones se tomarán por mayoría de votos de los asistentes, y el Presidente contará con voto de calidad en caso de empate.
 
-V. Un representante de cada una de las siguientes dependencias del Poder Ejecutivo, quienes fungirán como vocales:
+###### ARTICULO 12.
 
-a) Secretaría de Planeación y Desarrollo Estatal;
+El Consejo será responsable de manejar con estricta confidencialidad la información que obtenga en el cumplimiento de sus funciones.
 
-b) Secretaría de Salud;
+### CAPITULO IV. De los Consejos Consultivos Regionales para el Fomento Económico de los Municipios
 
-c) Secretaría de Educación;
+###### ARTICULO 13.
 
-d) Secretaría de Urbanismo y Medio Ambiente;
+Los consejos consultivos regionales para el fomento económico, funcionarán en las cuatro zonas que comprende el Estado: altiplano, centro, media y huasteca; como órganos técnicos y de consulta encargados de estudiar, analizar y proponer alternativas para el desarrollo de las actividades productivas de los municipios que integran cada una de las regiones.
 
-e) Secretaría de Comunicaciones y Obras Públicas;
+La creación de los consejos consultivos regionales para el fomento económico será promovida y apoyada por la Secretaría de Desarrollo Económico, en coordinación con las autoridades municipales.
 
-f) Secretaría de Contraloría y Desarrollo Administrativo;
+###### ARTICULO 14.
 
-g) Secretaría de Desarrollo Social;
+Los consejos consultivos regionales para el fomento económico de los municipios, estarán integrados de manera honorífica y permanente por:
 
-h) Secretaría de Seguridad Pública;
+I. Un Presidente, cargo que recaerá en el Secretario de Desarrollo Económico, quien será suplido en sus ausencias por la persona que designe; mismo que contará con voz y voto de calidad en caso de empate;
 
-i) Procuraduría General de Justicia del Estado;
+II. Un Secretario Técnico, quien será designado por el Presidente del Consejo;
 
-j) Secretaría de Desarrollo Agropecuario; y,
+III. El presidente municipal de cada uno de los municipios de la región; quienes contarán con voz y voto, y
 
-k) Secretaría de Finanzas y Administración.
+IV. Un representante de cada uno de los organismos empresariales señalados en el artículo 7° de este ordenamiento, que se encuentren establecidos en la región de que se trate, quienes contarán con voz y voto.
 
-VI. Los Presidentes Municipales son quienes deberán asistir a las sesiones ordinarias del Consejo, y en forma extraordinaria únicamente asistirán los Presidentes Municipales de la región en donde se lleve a cabo la consulta u ocurrencia de una emergencia o desastre.
+Los consejos consultivos regionales para el fomento económico funcionarán en los términos previstos para el Consejo Consultivo para el Desarrollo Económico del Estado.
 
-VII. El Presidente del Consejo podrá invitar a las sesiones a representantes del Poder Judicial, de las dependencias, entidades y organismos de la Administración Pública Federal, Estatal y Municipal, organizaciones privadas y de asistencia social, así como a las Universidades e instituciones académicas y profesionales, pudiendo participar todos ellos con voz pero sin voto.
+###### ARTICULO 15.
 
-###### ARTÍCULO 11.
+Son atribuciones de los consejos consultivos regionales para el fomento económico:
 
-Por cada consejero propietario, previsto en el artículo anterior, se designará un suplente que lo substituya en sus ausencias. El cargo de consejero es de carácter honorífico y tratándose de servidores públicos, sus funciones son inherentes al cargo que desempeñen.
+I. Promover el desarrollo económico de los municipios integrantes de la región a la que pertenezca;
 
-###### ARTÍCULO 12.
+II. Fomentar la participación de los sectores público y privado en la formulación y ejecución de programas de fomento económico;
 
-El Consejo sesionará ordinariamente en pleno por lo menos dos veces al año, y extraordinariamente cuando la urgencia o importancia del caso así lo requiera, a convocatoria de su Presidente.
+III. Asesorar a los ayuntamientos de la región en la elaboración, ejecución y evaluación de programas de fomento económico;
 
-Las sesiones del Consejo se llevarán a cabo con la asistencia de la mitad más uno de sus integrantes.
+IV. Proponer reformas a las disposiciones municipales para facilitar la creación de, y funcionamiento de empresas productivas;
 
-Las decisiones del Consejo serán aprobadas por mayoría de votos, y en caso de empate el Presidente tendrá voto de calidad.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
 
-### Capítulo IV. Unidad Estatal de Protección Civil
+V. Proponer a los ayuntamientos de la región, programas de estímulos para el establecimiento y desarrollo de empresas que contribuyan al incremento de la productividad regional, atendiendo a la perspectiva de género e impulsando en todo momento la igualdad entre mujeres y hombres, y
 
-###### ARTÍCULO 13.
+VI. Las demás que establezca su Reglamento.
 
-El Consejo como órgano de planeación, coordinación y concertación del sistema estatal de protección civil, tendrá las siguientes atribuciones:
+### CAPITULO V. Del Padrón Empresarial del Estado
 
-I. Elaborar, difundir, evaluar y ejecutar el programa estatal de protección civil;
+###### ARTICULO 16.
 
-II. Dirigir el sistema estatal para garantizar, mediante una adecuada planeación, la seguridad, auxilio y el establecimiento de la normalidad ante la ocurrencia de un siniestro o desastre;
+En el Padrón Empresarial del Estado quedarán inscritas las empresas que pretendan acceder a los estímulos y beneficios que se establecen en la presente Ley, por lo que la inscripción será estrictamente voluntaria en los términos que fije el Reglamento.
 
-III. Unificar criterios y acciones con las dependencias y entidades de la administración pública estatal que intervienen para regular, supervisar y evaluar las actividades de protección civil;
+El Padrón Empresarial del Estado quedará a cargo de la Secretaría de Desarrollo Económico.
 
-IV. Vincular el Sistema Estatal con el Sistema Nacional de Protección Civil, procurando su adecuada coordinación;
+###### ARTICULO 17.
 
-V. Convocar y coordinar, con pleno respeto a sus respectivas atribuciones, la participación de las dependencias federales establecidas en la Entidad;
+Dentro de los quince días hábiles siguientes a la inscripción en el Padrón, la Secretaría expedirá a la empresa el Certificado de Registro.
 
-VI. Supervisar la integración del Atlas de Riesgos de la Entidad;
+###### ARTICULO 18.
 
-VII. Promover la investigación científica, que permita detectar o identificar los problemas reales y riesgos, proponiendo acciones que permitan su solución y control;
+Las empresas inscritas en el Padrón quedan obligadas a citar la clave de registro que les corresponda, en todos los trámites que realicen ante la Secretaría.
 
-VIII. Fomentar la participación activa y responsable de todos los sectores de la Entidad en la formulación, revisión y ejecución de los programas de protección civil;
+###### ARTICULO 19.
 
-IX. Fungir como órgano de consulta en materia de protección civil dentro del Estado;
+La inscripción y cancelación en el Padrón, así como sus modificaciones, se realizarán en forma gratuita.
 
-X. Asesorar y apoyar, en su caso, la integración de los sistemas municipales de protección civil, así como de los grupos voluntarios;
+Las empresas que quedan inscritas en el Padrón deberán hacer del conocimiento de la Secretaría la modificación de sus datos, dentro de los treinta días calendario siguientes a la fecha en que ocurra.
 
-XI. Coordinar los sistemas estatal y municipales de protección civil, para programar y emprender acciones que solucionen los problemas que se originen en las zonas conurbadas;
+###### ARTICULO 20.
 
-XII. Hacer del conocimiento de los órganos que integran los sistemas estatal y nacional, los siniestros y desastres que acontezcan en el territorio del Estado y formular las recomendaciones correspondientes;
+La cancelación de la inscripción en el Padrón procederá a petición de la empresa, o por infracción a las disposiciones de la presente Ley.
 
-XIII. Constituirse en sesión permanente en el caso de presentarse un alto riesgo, siniestro o desastre, a fin de determinar las acciones que procedan;
+La cancelación dejará insubsistente el certificado e impide a la empresa el acceso a los estímulos y beneficios.
 
-XIV. Participar en forma coordinada con las dependencias federales y con las instituciones privadas y del sector social, en la aplicación y distribución de la ayuda nacional y extranjera que se reciba en caso de alto riesgo, siniestro o desastre;
+###### ARTICULO 21.
 
-XV. Promover la creación de un Fondo para la prevención y atención de Desastres en el Estado;
+La información proporcionada por las empresas sólo podrá ser utilizada para fines de registro y promoción económica.
 
-XVI. Formular, aprobar y modificar el reglamento interior para la organización y funcionamiento del propio Consejo y proponer el que corresponda a la Unidad Estatal, así como de los Consejos Municipales de Protección Civil y Prevención de Riesgos; y,
+###### ARTICULO 22.
 
-XVII. Las demás que se señalen en la presente Ley y su reglamento.
+Los municipios podrán participar en el Padrón Empresarial mediante la suscripción de acuerdos de coordinación con el Ejecutivo del Estado, de conformidad con la legislación aplicable.
 
-###### ARTÍCULO 14.
+### CAPITULO VI. De los Estímulos e Incentivos
 
-Corresponde al Presidente del Consejo:
+###### ARTICULO 23.
 
-I. Convocar a sesiones ordinarias, extraordinarias y permanentes, presidiendo las mismas y orientando los debates que surjan, contando con voto de calidad en caso de empate;
+El Ejecutivo del Estado a través de la Secretaría de Desarrollo Económico, y sin perjuicio de las disposiciones fiscales y administrativas que establezcan las leyes respectivas, llevará a cabo las siguientes acciones:
 
-II. Comunicar al Consejo los criterios que deberán orientar los trabajos del mismo, de acuerdo a la política y legislación vigente en materia de Protección Civil;
+I. En materia de apoyos financieros:
 
-III. Vigilar el funcionamiento de dicho organismo, manteniéndolo informado de acuerdo a los datos que deberán rendirle al Secretario Ejecutivo y el Secretario Técnico;
+a) Realizar (sic) de convenios con el sector privado.
 
-IV. Organizar las comisiones de trabajo que estime necesarias; y,
+b) Promocionar ante el Congreso del Estado de beneficios y estímulos fiscales o administrativos, en los términos que lo permitan la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado. En los casos que proceda, se determinará mediante decreto o acuerdo administrativo que en su caso emita el Titular del Ejecutivo.
 
-V. Las demás que le atribuya esta Ley y disposiciones aplicables.
+c) Trasladar el dominio de bienes inmuebles y/o muebles propiedad del Gobierno del Estado, en la medida de la disponibilidad de estos recursos, previa solicitud y autorización del Congreso del Estado, cuando así se requiera.
 
-###### ARTÍCULO 15.
+d) Participar en la construcción y/o mejoramiento de infraestructura de zonas y parques industriales, y
 
-Corresponde al Secretario Ejecutivo:
+II. En materia de asesoría legal, administrativa y de capacitación:
 
-I. Presidir las sesiones relativas al Consejo en ausencia de su Presidente;
+a) Gestionar ante las autoridades municipales, estatales y federales apoyos financieros, asesoría y facilidades en la ejecución de trámites.
 
-II. Representar oficialmente al Consejo en ausencia de su Presidente;
+b) Promover contratos y/o convenios para actividades de capacitación, adiestramiento e investigación.
 
-III. Coordinar las acciones relativas que se desarrollan en el seno del Consejo y las del Sistema Estatal en general;
+c) Facilitar al inversionista el vínculo con servicios legales, administrativos, financieros y logísticos.
 
-IV. Cumplir y hacer cumplir las disposiciones del Consejo;
+d) Fomentar el vínculo de la industria con los centros de competitividad empresarial y afines, colaborando con las instancias correspondientes.
 
-V. Elaborar los trabajos que le encomienden el Presidente y el Consejo, así como resolver las consultas que se sometan a su consideración;
+e) Promover y respaldar la participación de los inversionistas del Estado en eventos nacionales e internacionales, para promocionar sus productos y/o servicios.
 
-VI. Promover y apoyar los planes y programas de la materia;
+f) Apoyar la modernización de los mecanismos de comercio exterior que aseguren la existencia de condiciones de rentabilidad, y propicien prácticas internacionalmente aceptadas.
 
-VII. Informar periódicamente al Presidente del Consejo, sobre los trabajos del Consejo;
+g) Facilitar la vinculación de la industria con las universidades y centros educativos del Estado, para promover proyectos de desarrollo administrativo, tecnológico y sustentable.
 
-VIII. Suscribir la correspondencia y documentación del Consejo; y,
+h) Apoyar financieramente, en forma directa o mediante gestoría, proyectos relevantes para el desarrollo económico del Estado a través de los fideicomisos que para tal fin constituya el Poder Ejecutivo.
 
-IX. Las demás que se deriven de la presente Ley, así como aquellas que le sean conferidas por el pleno del Consejo y el Presidente.
+###### ARTICULO 24.
 
-### Capítulo V. Sistema Municipal de Protección Civil
+Adicionalmente a los estímulos e incentivos precisados en el artículo que antecede, el Ejecutivo del Estado creará un estímulo especial destinado exclusivamente a reconocer en forma honorífica la calidad de los productos de las empresas de la Entidad, el cual se denominará premio Estatal a la Calidad.
 
-###### ARTÍCULO 16.
+### CAPITULO VII. Del Otorgamiento de Incentivos y Estímulos
 
-Corresponde al Secretario Técnico:
+###### ARTICULO 25.
 
-I. Asistir a las sesiones y redactar las actas respectivas;
+Podrán ser sujetos de los incentivos previstos en esta Ley, las actividades de las personas físicas o morales establecidas o por establecerse en la Entidad, cuyas inversiones reúnan uno o más de los siguientes requisitos:
 
-II. Elaborar y someter a consideración del Secretario Ejecutivo, el calendario de sesiones del Consejo;
+I. Se establezcan en las áreas y zonas geográficas que se consideren prioritarias conforme a los planes de Desarrollo Urbano Estatal y Municipal, los estudios de vocaciones regionales y demás análisis que muestren la viabilidad de desarrollar ciertas regiones de la Entidad;
 
-III. Formular la convocatoria a las sesiones, así como la orden del día;
+II. Destinen parte de su gasto de operación a la investigación, y al desarrollo tecnológico y científico;
 
-IV. Verificar la existencia de quórum legal necesario para sesionar y dar fe de lo actuado en las sesiones;
+III. Realicen inversiones para solucionar problemas de la contaminación ambiental en materia de reciclaje, tratamiento y confinamiento de residuos domésticos e industriales;
 
-V. Preparar los estudios, investigaciones y proyectos de Protección Civil;
+IV. Sustituyan importaciones mediante el control de insumos, componentes, servicios o productos de origen nacional y local;
 
-VI. Llevar el archivo y control de los Programas de Protección Civil;
+V. Generen nuevos empleos, en el caso de la micro, pequeña y mediana empresa;
 
-VII. Proponer al Consejo las medidas y acciones de Protección Civil que estime pertinentes;
+VI. Destinen sus productos al mercado de exportación directa o indirecta;
 
-VIII. Presidir las comisiones de trabajo;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2010)</small>
 
-IX. Efectuar la evaluación y supervisión de la organización, operación y control de los Planes y Programas de Protección Civil;
+VII. Celebren acuerdos de cooperación con instituciones educativas, para estimular la formación y capacitación de técnicos y profesionistas;
 
-X. Informar periódicamente al Presidente del Consejo, sobre el cumplimiento de sus actividades;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2010)</small>
 
-XI. Despachar y ejecutar los asuntos concernientes al Consejo; y,
+VIII. Den empleo directo a personas con discapacidad, en número igual al cinco por ciento de su planta laboral;
 
-XII. Las demás que se deriven de la presente Ley y aquellas que le sean atribuidas por el Pleno del Consejo y el Presidente.
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2010)</small>
 
-###### ARTÍCULO 17.
+IX. Den empleo directo a personas jóvenes entre los 18 y los 29 años de edad, sin que se les exija como requisito para su contratación, experiencia, o haber tenido un trabajo anterior, en número igual al cinco por ciento de su planta laboral;
 
-La Unidad Estatal de Protección Civil, estará adscrita a la Secretaría de Seguridad Publica, la cual será administrada por un director general.
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2010)</small>
 
-###### ARTÍCULO 18.
+X. Fomenten la integración de cadenas productivas, y
 
-Compete a la Unidad Estatal, ejecutar las acciones de prevención, auxilio y recuperación o restablecimiento, conforme a los reglamentos, programas y acuerdos que autorice el consejo estatal, desarrollando las siguientes funciones:
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2010)</small>
 
-l. Elaborar el proyecto de programa estatal de protección civil y ponerlo a consideración del Consejo Estatal y, en su caso, las propuestas para su modificación;
+XI. Realicen nuevas inversiones, o amplíen sus instalaciones, generando con su actividad nuevos empleos permanentes.
 
-II. Elaborar el proyecto del programa operativo anual y presentarlo al Consejo Estatal para su autorización;
+###### ARTICULO 26.
 
-III. Identificar los riesgos que se presentan en la Entidad integrando el Atlas de Riesgos;
+El Ejecutivo del Estado, a través del Reglamento de esta Ley, establecerá el tipo, monto y plazo de los incentivos, con base en los estudios y propuestas técnicas que le presente el Consejo.
 
-IV. Establecer y ejecutar los subprogramas básicos de prevención, auxilio y recuperación o restablecimiento;
+###### ARTICULO 27.
 
-V. Promover y realizar acciones de capacitación y difusión a la comunidad en materia de simulacros, señalización y uso de equipo de seguridad personal para la protección civil, impulsando la formación del personal que pueda ejercer esas funciones;
+La solicitud para el otorgamiento de estímulos e incentivos deberá presentarse ante la Secretaría de Desarrollo Económico, acompañada de una copia para el Consejo Consultivo.
 
-VI. Instrumentar el sistema de seguimiento y autoevaluación del programa estatal de protección civil e informar al Consejo Estatal sobre su funcionamiento y avance;
+###### ARTICULO 28.
 
-VII. Establecer y mantener la coordinación con los consejos municipales debidamente constituidos, y con las dependencias, instituciones y organismos del sector público, social y privado involucrados en tareas de protección civil;
+Además de cumplir con los requisitos que al efecto establezca el Reglamento, el solicitante deberá indicar en cuál o cuáles de los supuestos que para ser considerado sujeto de los incentivos se contienen en el artículo 25 de la presente Ley, acompañando a su solicitud las pruebas que lo acrediten.
 
-VIII. Promover la participación e integración de grupos voluntarios al sistema estatal de protección civil;
+###### ARTICULO 29.
 
-IX. Elaborar el catálogo de recursos humanos y materiales necesarios en casos de emergencias;
+Cuando la solicitud incumpla con alguno de los requisitos a que se refiere el artículo anterior, la Secretaría requerirá al solicitante a fin de que en un plazo de cinco días hábiles cumpla con el requisito omitido. En caso de no subsanarse la omisión, la solicitud se tendrá por no presentada.
 
-X. Verificar la existencia de archivos históricos y mapas de riesgo sobre desastres ocurridos en la Entidad;
+###### ARTICULO 30.
 
-XI. Proponer la integración de las unidades internas de las dependencias y entidades de la administración pública estatal y vigilar su operación;
+Para el otorgamiento de los incentivos se deberán utilizar los criterios de rentabilidad social, tomando en consideración los siguientes factores:
 
-XII. Proporcionar información y dar asesoría a las empresas, instituciones, organismos y asociaciones privadas y del sector social, para integrar sus unidades internas y promover su participación en las acciones de protección civil;
+I. Número de empleos que se generen;
 
-XIII. Llevar el registro, prestar asesoría y coordinar a los grupos voluntarios;
+II. Monto de la inversión;
 
-XIV. Integrar la red de comunicación que permita reunir información de altos riesgos, alertar a la población, convocar a los grupos voluntarios en general y dirigir las operaciones del Sistema Estatal;
+III. Localización geográfica en que se realice la inversión;
 
-XV. Fomentar la creación de una cultura de protección civil a través de la realización de eventos y campañas de difusión;
+IV. Impacto al medio ambiente;
 
-XVI. Establecer y operar los centros de acopio para recibir y administrar ayuda a la población afectada por un siniestro o desastre;
+V. Uso racional y eficiente de agua y electricidad;
 
-XVII. Practicar inspecciones, a fin de vigilar el cumplimiento de las disposiciones estatales en materia de protección civil, e imponer la sanción correspondiente al infractor, de acuerdo a la gravedad de la falta cometida;
+VI. Desarrollo tecnológico y científico;
 
-XVIII. Elaborar los peritajes de causalidad que servirán de apoyo para programas preventivos y dictámenes en materia de protección civil; y,
+VII. Incremento de las exportaciones directas e indirectas;
 
-XIX. Las demás que le asigne el reglamento interior del Consejo Estatal.
+VIII. Integración de cadenas productivas nacionales y regionales;
 
-###### ARTÍCULO 19.
+IX. Sustitución de las importaciones;
 
-La Unidad Estatal de Protección Civil, administrará las instalaciones, equipo y materiales necesarios para su eficaz funcionamiento, los cuales serán proporcionados por el Ejecutivo del Estado, por dependencias o personas físicas o morales, a través de donaciones, contratos y convenios que celebre para su adquisición o uso
+X. Fomento de las alianzas estratégicas con inversionistas regionales;
 
-###### ARTÍCULO 20.
+XI. Desarrollo de los proveedores de insumos regionales, y
 
-Los ayuntamientos contarán con un sistema municipal de protección civil que identificará sus principales riesgos estudiará las posibles medidas para prevenir su ocurrencia y disminuir los efectos sobre la población.
+XII. Fomento de la cooperación con el sector educativo, en lo relativo a formación y capacitación de técnicos y profesionistas.
 
-###### ARTÍCULO 21.
+###### ARTICULO 31.
 
-Los sistemas municipales tendrán la obligación de desarrollar sus programas, en coordinación con la normatividad que para ese efecto expida el sistema estatal.
+El Consejo Consultivo analizará la solicitud presentada y rendirá opinión a la Secretaría respecto a la procedencia del otorgamiento de los incentivos y, en caso de resultar procedente, señalará el tipo, monto, y plazos de los incentivos que a su juicio deban otorgarse.
 
-###### ARTÍCULO 22.
+###### ARTICULO 32.
 
-Los sistemas municipales de protección civil se integrarán por:
+La Secretaría deberá emitir resolución definitiva, debidamente fundada y motivada, dentro de los treinta días hábiles siguientes a la presentación de la solicitud, y notificarla en forma personal al solicitante en el domicilio que al efecto hubiere señalado.
 
-l. El Consejo Municipal de protección civil;
+###### ARTICULO 33.
 
-II. La unidad municipal de protección civil; y,
+Cuando la resolución que dicte la Secretaría niegue al interesado el otorgamiento de los incentivos y estímulos, podrá presentar por una sola ocasión una nueva solicitud, siempre y cuando acredite fehacientemente no encontrarse en los mismos supuestos que motivaron la negativa.
 
-III. Los grupos voluntarios, representantes de los sectores social, privado y las instituciones educativas.
+###### ARTICULO 34.
 
-### Capítulo VI. Planes de Protección Civil
+Cuando con posterioridad al otorgamiento de cualquier incentivo, sobrevengan circunstancias que modifiquen las condiciones que lo motivaron, el interesado deberá dar aviso a la Secretaría antes de seguir ejerciendo el incentivo, formulando una nueva solicitud que deberá ser analizada y resuelta en los términos contemplados por este Capítulo.
 
-###### ARTÍCULO 23.
+###### ARTICULO 35.
 
-El Consejo Municipal de protección civil estudiará la forma para prevenir los desastres y, en su caso, resarcir los daños en cada una de sus localidades.
+El Consejo propondrá a la Secretaría la modificación o cancelación de los incentivos otorgados, conforme a lo previsto en el Reglamento de este ordenamiento.
 
-En caso de detectar un riesgo cuya magnitud pudiera rebasar sus propias posibilidades de respuesta, deberán hacerlo del conocimiento de la Unidad Estatal de Protección Civil, con objeto de que se estudie la situación y se propongan medidas preventivas que puedan aplicarse con aprobación del gobierno municipal.
+###### ARTICULO 36.
 
-###### ARTÍCULO 24.
+Lo dispuesto en el presente Capítulo será aplicable a los ayuntamientos y a los consejos consultivos regionales para el fomento económico de los municipios del Estado, en el ámbito de sus respectivas competencias.
 
-El Consejo Municipal estará integrado por:
+### CAPITULO VIII. Del Fondo de Fomento Económico
 
-I. Un Consejero Presidente, que será el Presidente Municipal;
+###### ARTICULO 37.
 
-II. Un Consejero Secretario Ejecutivo, que será el Secretario de Ayuntamiento;
+Con el fin de asegurar la canalización de mayores recursos económicos para el fomento de la inversión que promueva el desarrollo económico de la Entidad, el Ejecutivo del Estado a través de la Secretaría, constituirá y operará el Fondo de Fomento Económico.
 
-III. Un Secretario Técnico, que designe el Ayuntamiento, quien será el responsable de la unidad administrativa de protección civil municipal;
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2010)</small>
 
-IV. Dos regidores elegidos por el Ayuntamiento para tal efecto;
+###### ARTICULO 38.
 
-V. Los titulares de las dependencias administrativas que determine el Ayuntamiento;
+El Fondo se integrará con los recursos que para tal efecto se determinen en el Presupuesto de Egresos del Estado de San Luis Potosí, para el ejercicio fiscal correspondiente.
 
-VI. Las autoridades municipales auxiliares, a invitación del Presidente Municipal; y,
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2010)</small>
 
-VII. Los representantes de los cuerpos de apoyo y clubes de servicio, y personas que estén en condiciones de coadyuvar con los objetivos del sistema municipal, cuya participación dentro de este órgano, será coordinada por el presidente del Consejo Municipal.
+ARTICULO 38 BIS. Para el funcionamiento del Fondo, la Secretaría establecerá las reglas de operación, procurando impactar en las cuatro regiones del Estado, así como el mayor rendimiento de los recursos disponibles, a través de la mezcla de recursos con otras instancias.
 
-### Capítulo VII. Activación de los Planes de Protección Civil Territoriales, Especiales y Específicos
+###### ARTICULO 39.
 
-###### ARTÍCULO 25.
+Los activos del Fondo, así como sus rendimientos y aprovechamientos serán recaudados y administrados por la Secretaría de Finanzas, la cual llevará el registro contable y elaborará los estados financieros haciéndolos del conocimiento del Consejo a través de la Secretaría.
 
-El Consejo Municipal tendrá las siguientes atribuciones:
+### CAPITULO IX. Mejora Regulatoria y Simplificación Administrativa
 
-I. Crear y establecer los órganos o mecanismos que promuevan o aseguren la capacitación de la comunidad, especialmente a través de la formación del voluntariado de protección civil;
+###### ARTICULO 40.
 
-II. Fungir como órgano de consulta y promoción de la participación en la planeación y coordinación de las tareas de los sectores público, social y privado en materia de prevención, auxilio y restablecimiento, ante la eventualidad de algún siniestro o desastre dentro de su competencia territorial;
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 1 DE NOVIEMBRE DE 2007)
 
-III. Constituirse en sesión permanente en el caso de producirse un siniestro o desastre a fin de verificar la realización de las acciones que procedan;
+###### ARTICULO 41.
 
-IV. Promover la investigación y capacitación en materia de protección civil, identificando sus problemas y tendencias particulares, estableciendo programas y acciones que permitan su solución;
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 1 DE NOVIEMBRE DE 2007)
 
-V. Celebrar convenios con la Unidad Estatal, a fin de integrar, reglamentar y regular los cuerpos de bomberos, los servicios de atención prehospitalaria y coordinar a los grupos voluntarios de los municipios;
+###### ARTICULO 42.
 
-VI. Coordinar sus acciones con los Sistemas Nacional y Estatal de Protección Civil;
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 1 DE NOVIEMBRE DE 2007)
 
-VII. Promover la cultura de protección civil, organizando y desarrollando acciones de actualización y capacitación a la sociedad, en coordinación con las autoridades correspondientes;
+###### ARTICULO 43.
 
-VIII. Coordinar a los grupos voluntarios conforme a la normatividad que se emita en su reglamento; y,
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 1 DE NOVIEMBRE DE 2007)
 
-IX. Las demás que le asigne esta Ley y demás ordenamientos jurídicos aplicables.
+###### ARTICULO 44.
 
-###### ARTÍCULO 26.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 1 DE NOVIEMBRE DE 2007)
 
-La estructura y funcionamiento de la Unidad Municipal de Protección Civil, de los grupos voluntarios social, privado y educativo, así como los centros de operaciones, se conformará de acuerdo a la reglamentación que para ese efecto expidan los ayuntamientos, tomando como referencia esta ley y las disposiciones del Consejo Estatal.
+###### ARTICULO 45.
 
-###### ARTÍCULO 27.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 1 DE NOVIEMBRE DE 2007)
 
-Cada municipio del Estado podrá establecer, una Unidad de Protección Civil, con la finalidad de formular, organizar y ejecutar los planes y programas de prevención, auxilio y restablecimiento ante situaciones de grave riesgo colectivo o desastre, en su primer nivel de respuesta.
+###### ARTICULO 46.
 
-La estructura y operación de las Unidades Municipales, será determinada por cada Ayuntamiento, el Presidente Municipal designará al titular de la Unidad Municipal de Protección Civil.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 1 DE NOVIEMBRE DE 2007)
 
-###### ARTÍCULO 28.
+###### ARTICULO 47.
 
-Los Planes de Protección Civil constituyen el instrumento organizativo general, mediante el que se ordena la respuesta a situaciones de grave riesgo colectivo, emergencia, catástrofe o calamidad pública y se establecen los mecanismos para la movilización, coordinación y dirección de los recursos humanos y materiales necesarios para la protección de las personas, los bienes y el medio ambiente ante dichas situaciones.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 1 DE NOVIEMBRE DE 2007)
 
-###### ARTÍCULO 29.
+### CAPITULO X. De la Ventanilla Estatal de Gestión Empresarial
 
-Prevención de riesgos tiene como objetivo primordial evitar y reducir desastres así como aminorar el impacto de los mismos, formulación y ejecución de programas, planes y proyectos relacionados con desastres referentes a su prevención, mitigación, preparación, respuesta y recuperación.
+###### ARTICULO 48.
 
-###### ARTÍCULO 30.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 1 DE NOVIEMBRE DE 2007)
 
-Los Planes de Protección Civil ajustarán su estructura y contenidos a lo dispuesto en la Normas Básicas de Protección Civil, la presente Ley, y las normas que, en su caso, se desarrollen.
+###### ARTICULO 49.
 
-###### ARTÍCULO 31.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 1 DE NOVIEMBRE DE 2007)
 
-Los Planes de Protección Civil podrán ser de los tipos siguientes:
+###### ARTICULO 50.
 
-I. Planes territoriales.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI, P.O. 1 DE NOVIEMBRE DE 2007)
 
-II. Planes especiales y planes específicos.
+### CAPITULO XI. Del Medio Ambiente e Industria
 
-III. Planes de autoprotección.
+###### ARTICULO 51.
 
-###### ARTÍCULO 32.
+La Secretaría será una instancia de apoyo para el cuidado y la preservación del medio ambiente; para tal efecto, en coordinación con la Secretaría de Ecología y Gestión Ambiental del Estado, pugnará a fin de:
 
-Reglamentariamente se establecerá un Registro Público de Planes de Protección Civil, a cargo del Consejo Estatal.
+I. Que en el ámbito de su competencia, incentive una cultura de cuidado a los recursos naturales renovables y no renovables;
 
-###### ARTÍCULO 33.
+II. Que el desarrollo económico e industrial del Estado, no comprometa la explotación racional de los recursos naturales, y
 
-Los planes territoriales constituyen el instrumento organizativo previsto para hacer frente a las emergencias de carácter general que se puedan presentar en un determinado ámbito territorial, y tendrán como objeto:
+III. Que se garantice que el desarrollo económico del Estado satisfaga las necesidades del presente, sin comprometer la capacidad de las generaciones futuras para atender sus propias necesidades.
 
-l. Identificar los riesgos, con su correspondiente análisis y evaluación;
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2012)</small>
 
-II. Definir las medidas de prevención aplicables;
+ARTICULO 51 BIS. El Ejecutivo Estatal, por conducto de la Secretaría de Desarrollo Económico, gestionará ante las instancias de la federación correspondientes, la exención o reducción de impuestos federales de importación, a equipos de control de emisiones contaminantes a la atmósfera, así como para el manejo y disposición de residuos sólidos que contengan sustancias nocivas o peligrosas, en beneficio de las empresas que los adquieran e instalen.
 
-III. Planificar actividades de información y concienciación de la población sobre los riesgos y las medidas de prevención;
+### CAPITULO XII. Del Comercio Exterior
 
-IV. Configurar la organización de la protección civil del Estado, en el ámbito de referencia, para lo cual contendrá el catálogo de recursos movilizables y los criterios de actuación y coordinación de los mismos; que sean objeto de movilización;
+###### ARTICULO 52.
 
-V. Establecer la autoridad competente para la aplicación del plan y los procedimientos de intervención, así como para el restablecimiento de los servicios y la recuperación de la normalidad; y,
+La Secretaría con la participación del Consejo, del sector privado y organismos empresariales, alentará una cultura exportadora que promueva los productos de calidad, así como la competitividad de empresas, mercados, servicios, regiones y sectores.
 
-VI. Definir los criterios para promover la activación de planes de ámbito superior.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
 
-###### ARTÍCULO 34.
+###### ARTICULO 53.
 
-Los planes territoriales de protección civil de ámbito inferior al Estatal podrán ser municipales o supramunicipales, según sea el ámbito territorial de planificación que puede comprender el de un término municipal o el de varios integrados en una entidad local de naturaleza supramunicipal.
+La Secretaría fomentará la participación de los productos potosinos en los mercados, a través de diversos mecanismos de promoción e identificación de oportunidades comerciales y actividades de mercado, para incrementar las exportaciones directas e indirectas.
 
-###### ARTÍCULO 35.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
 
-Están obligados a elaborar y aprobar un plan municipal de protección civil:
+###### ARTICULO 54.
 
-I. Los municipios que cuenten con población superior a los veinte mil habitantes; y,
+La Secretaría generará servicios de información en comercio exterior, con especial orientación a los empresarios con vocación exportadora, para consulta e investigación sobre estadísticas comerciales y oportunidades de negocios, así como asesoría técnica en los marcos, económico, jurídico, aduanal, financiero y logístico; y con la participación del Consejo Consultivo para el Desarrollo Económico, definirá el Programa Integral de Exportaciones, que señalará la política de comercio exterior.
 
-II. Los municipios incluidos en el Atlas de Riesgos Estatal, por su situación geográfica, o por su actividad industrial o turística que se desarrolle en su territorio municipal o colindante.
+###### ARTICULO 55.
 
-###### ARTÍCULO 36.
+La Secretaría impulsará a las empresas con potencial de exportación, aprovechando los estímulos que se establecen en esta Ley, para que se integren a cadenas productivas, substituyan importaciones y puedan convertirse en proveedores.
 
-Los planes territoriales de protección civil de ámbito municipal o supramunicipal serán aprobados, respectivamente, por el Pleno del Consejo Estatal de Protección Civil.
+### CAPITULO XIII. Del Apoyo a la Micro y Pequeña Empresa
 
-### Capítulo VIII. Atlas Estatal de Riesgo
+###### ARTICULO 56.
 
-###### ARTÍCULO 37.
+La Secretaría en coordinación con los organismos empresariales y las entidades públicas y privadas, tales como la Secretaría de Economía, Comité Nacional de Productividad e Innovación Tecnológica, Consejo Nacional de Ciencia y Tecnología, y cualquier otro organismo con el que se celebren convenios, promoverá los programas conducentes para elevar de manera permanente el nivel de competitividad de las micro y pequeñas empresas del Estado.
 
-La homologación de estos planes territoriales por el Pleno del Consejo Estatal de Protección Civil, consistirá en comprobar y ratificar su adecuación a las disposiciones del Plan Territorial de Protección Civil Estatal que actúa, a estos efectos, como plan director y marco de integración.
+###### ARTICULO 57.
 
-###### ARTÍCULO 38.
+Los apoyos a las micro y pequeñas empresas en la Entidad se otorgarán de forma equitativa, y la Secretaría emprenderá entre otras acciones:
 
-Los planes especiales son el instrumento de organización general de respuesta para hacer frente a riesgos concretos cuya naturaleza requiera una metodología técnico-científica específica, bien por sectores de actividad, bien por tipos de emergencia o bien por actividades concretas, para los que el Consejo Estatal, establezca su regulación a través de la correspondiente directriz básica de planificación relativa a cada tipo de riesgo.
+I. Otorgamiento de becas y programas de capacitación y adiestramiento a los empleados;
 
-###### ARTÍCULO 39.
+II. Búsqueda de canales para la comercialización y promoción de los productos en el ámbito regional, nacional e internacional;
 
-El Plan Territorial de Protección Civil Estatal actúa como plan director y como marco de integración, a cuyas disposiciones deberán adaptarse los planes especiales y específicos de emergencia.
+III. Estimulación a los procesos de desregulación, simplificación administrativa y descentralización;
 
-### Capítulo IX. Medidas de Emergencia
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
 
-###### ARTÍCULO 40.
+IV. Asesoría continua y permanente sobre la tramitación de los procedimientos necesarios para su óptimo funcionamiento;
 
-Los planes especiales serán aprobados por el Consejo Estatal, a propuesta del Secretario Técnico de la Unidad competente en materia de protección civil.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
 
-###### ARTÍCULO 41.
+V. Impulso a la especialización de los procesos productivos y productos con ventajas competitivas;
 
-Los planes específicos son el instrumento organizativo general de respuesta para hacer frente a riesgos de especial trascendencia en el Estado, que no dispongan de la correspondiente directriz básica de planificación para su elaboración.
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2011)</small>
 
-###### ARTÍCULO 42.
+VI. Información estadística, sectorial y económica para la toma de decisiones;
 
-Los planes específicos serán elaborados por la unidad competente en materia de protección civil, atendiendo a los criterios establecidos en esta Ley y en el Plan Territorial de Protección Civil Estatal, y aprobados por el Consejo Estatal de Protección Civil.
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2011)</small>
 
-###### ARTÍCULO 43.
+VII. Articulación de programas, instrumentos, productos, herramientas y acciones para elevar su competitividad, y
 
-Los planes de actuación municipal son aquellos que corresponde elaborar a los municipios según se determine en un plan especial o específico para responder al riesgo que afecta a todo o parte de su territorio.
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2011)</small>
 
-###### ARTÍCULO 44.
+VIII. Formación de emprendedores.
 
-La estructura y contenido de los planes de actuación municipal se ajustará a las directrices que establezca el correspondiente plan especial o específico.
+###### ARTICULO 58.
 
-###### ARTÍCULO 45.
+Sin perjuicio de lo dispuesto por la legislación de Obra Pública y Adquisiciones del Estado, respectivamente, las entidades públicas del Estado y municipios de San Luis Potosí, incluidos los organismos descentralizados de los dos ámbitos de gobierno, preferirán a las empresas potosinas en la asignación de obra pública y de adquisiciones y, dentro de éstas, a las micro y pequeñas empresas.
 
-La aprobación de los planes de actuación municipal será por la mayoría de votos del Consejo Municipal.
+### CAPITULO XIV. De las Infracciones y Sanciones
 
-###### ARTÍCULO 46.
+###### ARTICULO 59.
 
-Los Planes de Protección Civil deberán ser elaborados según una estructura de contenido homogénea, a efectos de su integración, la cual deberá incluir, como mínimo, información y previsiones sobre:
+Comete infracción a las disposiciones de esta Ley el beneficiario que por sí, o por medio de sus representantes:
 
-I. Las características del territorio, la población y los bienes comprendidos en el ámbito del plan;
+I. Aporte información falsa para obtener el otorgamiento de incentivos o estímulos;
 
-II. El análisis de los riesgos presentes;
+II. Aproveche los apoyos directos e indirectos para fines distintos a los señalados en la solicitud y para los cuales se hubiesen otorgado;
 
-III. Las actuaciones para hacer frente a los riesgos existentes;
+III. Ceda a terceros los beneficios que le hubiesen sido otorgados, salvo que cuente con autorización previa de la Secretaría;
 
-IV. Distinguiendo entre medidas de prevención de riesgos y actuaciones en caso de emergencia;
+IV. No dé aviso en los plazos establecidos en esta Ley y su Reglamento, de la reubicación de sus instalaciones, del cambio del monto de la inversión, de la variación del número de empleos, del cambio de giro y, en general, de cualquier cambio en las condiciones que determinaron el otorgamiento de los beneficios, y
 
-V. La organización frente a la emergencia, integrada por el director del plan, el Consejo Estatal y el gabinete de información;
+V. No dé aviso en los plazos establecidos en esta Ley y su Reglamento, de la modificación de sus datos en el Padrón.
 
-VI. Los servicios operativos, que se organizan, como mínimo, en los grupos de acción, de auxilio y salvamento, de seguridad, de sanidad, de acción social y de abastecimiento y soporte logístico, así como la estructura de coordinación a través de un director técnico;
+###### ARTICULO 60.
 
-VII. Los medios y recursos disponibles para hacer frente a las emergencias, así como los procedimientos de movilización que, en todo caso, deberán dar preferencia a los recursos de titularidad pública;
+Las infracciones a que se refiere el artículo anterior serán sancionadas, indistintamente, con:
 
-VIII. Las infraestructuras operativas que deben incluir, como mínimo, un centro receptor de alarmas, un centro de coordinación operativa y los centros de mando avanzado;
+I. Amonestación;
 
-IX. Los niveles de aplicación del plan que deben corresponderse con situaciones de alerta, alarma y emergencia, con las medidas asociadas a cada uno de esos niveles;
+II. Multa hasta de 200 días de salario mínimo general vigente en el área geográfica en la que esté instalada la empresa;
 
-X. El procedimiento de activación del plan;
+III. Cancelación del Certificado de Registro en el Padrón Empresarial del Estado, y
 
-XI. Los procedimientos de relación e integración con respecto a otros planes;
+IV. La devolución de los incentivos, estímulos o apoyos recibidos.
 
-XII. Las medidas de información y protección de la población;
+###### ARTICULO 61.
 
-XIII. El programa de implantación y simulacros; y,
+Cuando la sanción consista en la devolución del importe de los incentivos, estímulos o apoyos recibidos, ésta comprenderá los importes recibidos por el beneficiario hasta la fecha en que se le notifique la resolución correspondiente, actualizados en términos del Código Fiscal del Estado, desde la fecha de la notificación y hasta aquélla en que efectivamente se realice la devolución.
 
-XIV. El programa de mantenimiento, actualización o adaptación y revisión del plan.
+Dichos importes, debidamente actualizados, tendrán el carácter de créditos fiscales para efectos de la aplicación del procedimiento administrativo de ejecución, por parte de las autoridades fiscales del Estado.
 
-###### ARTÍCULO 47.
+###### ARTICULO 62.
 
-El Consejo Estatal, determinará reglamentariamente la estructura del contenido de los planes de protección civil municipales o supramunicipales, de los planes especiales o específicos, salvo que esté contenida en el Plan Territorial de Protección Civil del Estado.
+La Secretaría al imponer las sanciones deberá fundarlas y motivarlas debidamente, y en todo caso tomará en cuenta la gravedad de la infracción, las condiciones económicas del infractor y la reincidencia si la hubiere.
 
-### Capitulo X. Movilización de Recursos
+###### ARTICULO 63.
 
-###### ARTÍCULO 48.
+El beneficiario que haya sido sancionado no tendrá derecho, en lo sucesivo, a presentar solicitud para acogerse a los beneficios de esta Ley.
 
-Detectada una situación de grave riesgo o emergencia de las contempladas en un plan territorial, especial o específico, se procederá a la activación formal del correspondiente plan de protección civil por la Autoridad competente prevista en el mismo.
+### CAPITULO XV. Del Recurso de Revisión
 
-###### ARTÍCULO 49.
+###### ARTICULO 64.
 
-A partir de la declaración de activación, la dirección y coordinación de todas las actuaciones para afrontar la emergencia corresponderá al director del plan, que deberá adoptar las medidas establecidas en el mismo, con las modificaciones tácticas que sean necesarias.
+Contra los actos o resoluciones de la Secretaría que causen agravio a los particulares procederá el recurso de revisión, que deberá hacerse valer dentro del plazo de quince días hábiles siguientes a la fecha de su notificación. La interposición del recurso será optativa para el interesado, por lo que éste no necesitará agotarlo para que proceda el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Estado.
 
-###### ARTÍCULO 50.
+###### ARTICULO 65.
 
-Cuando la evolución de la emergencia, la naturaleza del riesgo o la disponibilidad de los recursos a movilizar aconsejen la activación de un plan de protección civil de ámbito superior, se procederá a ello conforme a los procedimientos establecidos en el Plan Territorial de Protección Civil Estatal y en los respectivos planes, asumiendo, en tal caso, la dirección y coordinación de las actuaciones la autoridad que ejerza tales funciones en el plan de ámbito superior.
+El recurso de revisión tiene por objeto que la Secretaría revoque, modifique o confirme la resolución recurrida. Los fallos que los resuelvan contendrán precisión del acto impugnado, los fundamentos legales en que se apoye y los puntos resolutivos.
 
-### Capítulo XI. Situaciones de Catástrofe
+###### ARTICULO 66.
 
-###### ARTÍCULO 51.
+La interposición del recurso se hará por escrito dirigido a la Secretaría, en el que se deberá expresar el nombre y domicilio del recurrente, los antecedentes de la resolución impugnada y los agravios que se hagan valer, acompañándose de los elementos de prueba que se consideren necesarios, así como las constancias que acrediten la personalidad del promovente.
 
-La integración del Atlas Estatal de Riesgos se realizará por la Unidad Estatal, la cual asesorará y definirá las metodologías para el diseño y formulación de los mapas de prevención de riesgos de los municipios, conforme a los procedimientos que establecen los Sistemas Nacional y Estatal de Protección Civil.
+###### ARTICULO 67.
 
-### Capítulo XII. Rehabilitación y Recuperación
+Lo dispuesto en los capítulos XIV y XV de esta Ley, será aplicable a los ayuntamientos de los municipios del Estado, en el ámbito de sus respectivas competencias.
 
-###### ARTÍCULO 52.
+## TRANSITORIOS
 
-La Unidad Estatal, con apego a los Atlas Nacional, Estatal o en su caso, Municipal de Riesgos, promoverá la realización de estudios, involucrando a los gobiernos municipales de las zonas afectables, instituciones de educación superior, colegios y asociaciones de profesionales del Estado.
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado,
 
-En la realización de dichos estudios, podrá invitar a los Gobiernos de entidades vecinas que compartan en sus territorios una misma zona afectable.
+SEGUNDO. Se abroga la Ley de Fomento Industrial del Estado de San Luis Potosí, publicada en la edición extraordinaria del Periódico Oficial del Estado, el 16 de enero de 1999.
 
-###### ARTÍCULO 53.
+TERCERO. En un plazo no mayor de noventa días naturales contados a partir de la fecha de publicación de la presente Ley, se emitirá el Reglamento de la misma. Los reglamentos y disposiciones derivadas de la ley que se abroga, continuarán surtiendo sus efectos en todo aquello que no se oponga a la presente, en tanto se expidan los nuevos reglamentos.
 
-Previa activación del correspondiente plan de protección civil, las autoridades de protección civil podrán acordar alguna de las siguientes medidas de emergencia para la población:
+CUARTO. Las solicitudes de otorgamiento de estímulos que se encuentren en trámite a la entrada en vigor del presente ordenamiento, se resolverán en los términos de la ley que se abroga.
 
-I. Disponer la destrucción o detrimento de toda clase de bienes que resulte rigurosamente necesaria y proporcionada a la situación de necesidad;
+QUINTO. Las personas físicas o morales que conforme a la ley que se abroga disfruten de incentivos, continuarán gozando de los beneficios concedidos hasta en tanto no se modifiquen o cancelen por la Secretaría, mediante resolución debidamente fundada y motivada.
 
-II. Ordenar la ocupación temporal, intervención o requisa de aquellos bienes o servicios que se considere estrictamente necesario;
+SEXTO. El Consejo deberá instalarse en un plazo no mayor de sesenta días naturales contados a partir de la fecha de publicación de esta Ley en el Periódico Oficial del Estado, para lo cual el Gobernador del Estado proveerá lo conducente.
 
-III. Acordar la evacuación de personas desde las zonas de intervención y socorro;
+Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obedecer.
 
-IV. Acordar la permanencia en domicilios y locales;
+DADO en el Salón de Sesiones del H. Congreso del Estado, el día trece de marzo de dos mil tres.
 
-V. Establecer limitaciones de acceso a las zonas de operación;
+Diputado Presidente: Juan Evaristo Balderas Martínez. Diputado Secretario Fidel Castro Palomo, Diputado Secretario Malaquías Guerra Martínez (Rúbricas)
 
-VI. Limitar y condicionar el uso de servicios públicos y el consumo de determinados bienes; y,
+Por tanto mando se cumpla y ejecute el presente Decreto y que todas las autoridades lo hagan cumplir y guardar y al efecto se imprima, publique y circule a quienes corresponda.
 
-VII. Ordenar la omisión de acciones y, en su caso, la prestación de servicios obligatorios de carácter personal.
+DADO en el Palacio de Gobierno, Sede del Poder Ejecutivo del Estado Libre y Soberano de San Luis Potosí, a los diecisiete días del mes de marzo de dos mil tres.
 
-Dicha prestación se realizará de forma proporcional a la situación creada y a las capacidades de cada cual, y no dará lugar, necesariamente, a indemnización.
+El Gobernador Constitucional del Estado.
 
-###### ARTÍCULO 54.
+LIC. FERNANDO SILVA NIETO
 
-La movilización de recursos se hará de conformidad con lo que dispongan los planes aplicables o, en su defecto, según las instrucciones y órdenes de la autoridad o mando competente.
+(Rúbrica)
 
-###### ARTÍCULO 55.
+El Secretario General de Gobierno
 
-La movilización de recursos se adecuará a los principios de inmediatez en la respuesta, proximidad al lugar de la emergencia, disponibilidad de medios, profesionalización, especialización de los intervinientes, complementariedad de los medios y recursos y subsidiariedad.
+LIC. MARCO ANTONIO ARANDA MARTINEZ
 
-### Capítulo XIII. Participación Social
+(Rúbrica)
 
-###### ARTÍCULO 56.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-La desactivación de los planes de protección civil se realizará conforme a los procedimientos establecidos en ellos.
+P.O. 1 DE NOVIEMBRE DE 2007.
 
-###### ARTÍCULO 57.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DE LA LEY DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
-Cuando una emergencia por su magnitud o extensión supere las posibilidades de respuesta, podrá ser declarada por el Consejo Estatal como catástrofe, a propuesta del Secretario Técnico del mismo.
+PRIMERO. Esta Ley entrará en vigor el tino de enero de 2008, previa publicación en el Periódico Oficial del Estado.
 
-###### ARTÍCULO 58.
+SEGUNDO. Se derogan los artículos 40, 41, 42, 43, 44, 45, 46 y 47 contenidos en el Capítulo IX "Mejora Regulatoria y Simplificación Administrativa"; 48, 49 y 50 establecidos en el Capítulo X "De la Ventanilla Estatal de Gestión Empresarial", todos éstos, de la Ley de Fomento Económico del Estado de San Luis Potosí; así como todas las demás disposiciones legales y administrativas que se opongan a la presente Ley.
 
-La declaración de la situación de catástrofe supondrá la asunción de la dirección del Plan Territorial de Protección Civil por el Presidente del Consejo Estatal de Protección Civil.
+P.O. 3 DE JUNIO DE 2010.
 
-### Capítulo XIV. Auxiliares de la Protección Civil
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
-###### ARTÍCULO 70.
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
-Los ciudadanos, a partir de la mayoría de edad, están obligados a colaborar personal y materialmente en las tareas de protección civil, de acuerdo con lo establecido en los planes correspondientes o siguiendo las instrucciones de las autoridades competentes. Este deber se concreta en el cumplimiento de medidas de prevención, en la realización de simulacros, en la intervención operativa en las situaciones donde sean requeridos y en el cumplimiento de las prestaciones de carácter personal que determine la autoridad competente en situaciones de grave riesgo colectivo, emergencia, catástrofe o calamidad pública.
+P.O. 20 DE JULIO DE 2010.
 
-###### ARTÍCULO 71.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Las prestaciones de servicios obligatorios de carácter personal se realizará de forma proporcional a la situación creada y a la capacidad de cada cual, por el tiempo estrictamente imprescindible y no dará derecho a indemnización, salvo la de las lesiones que sufran cualesquiera de los bienes y derechos del prestador, derivados de la prestación.
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
-###### ARTÍCULO 72.
+P.O. 5 DE ABRIL DE 2011.
 
-En los supuestos de ocupación, intervención o requisa de bienes por las autoridades competentes, las personas o entidades afectadas por estas actuaciones tendrán derecho a ser indemnizados de acuerdo con lo establecido en la legislación vigente.
+DECRETO NÚMERO 543, POR EL QUE SE REFORMA EL ARTÍCULO 57 EN SUS FRACCIONES IV Y V; Y ADICIONA AL MISMO ARTÍCULO 57 LAS FRACCIONES VI, VII Y VIII, DE Y A LA LEY DE FOMENTO ECONÓMICO DEL ESTADO DE SAN LUIS POTOSÍ.
 
-###### ARTÍCULO 73.
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Las entidades públicas o privadas cuya actividad esté relacionada con la prevención, atención, socorro y seguridad de personas y de sus bienes, están especialmente obligadas a colaborar en situaciones de emergencia con los servicios de intervención.
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
-###### ARTÍCULO 74.
+P.O. 5 DE ABRIL DE 2011.
 
-Los medios de comunicación social, de titularidad pública o privada, en las situaciones de emergencia colectiva, catástrofe o calamidad pública están obligados a transmitir la información, avisos e instrucciones para la población facilitadas por las autoridades de protección civil, de forma íntegra, prioritaria e inmediata si así se requiere, e indicando la autoridad de procedencia.
+DECRETO NÚMERO 544, POR EL QUE SE REFORMA LOS ARTÍCULOS 53 Y 54 DE LA LEY DE FOMENTO ECONÓMICO DEL ESTADO DE SAN LUIS POTOSÍ.
 
-###### ARTÍCULO 59.
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Corresponde al Consejo Estatal, establecer el contenido y efectos de la declaración de situación de catástrofe, así como las medidas especiales susceptibles de aplicación en cada caso.
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
-###### ARTÍCULO 60.
+P.O. 14 DE JUNIO DE 2012.
 
-En el caso de ser declarado por el Estado el interés supracomunitario o el estado de alarma, el Presidente del Consejo Estatal, podrá solicitar a la Federación, la delegación de la dirección y coordinación de las actuaciones de emergencia, en el ámbito del Estado, de conformidad con lo previsto en la legislación estatal.
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-###### ARTÍCULO 61.
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
-Las Administraciones públicas, en el ámbito de sus competencias, impulsarán las medidas tendientes a la rehabilitación de los servicios esenciales cuando la carencia de estos servicios constituya por sí misma una situación de emergencia o perturbe el desarrollo de las operaciones de recuperación.
+P.O. 10 DE MAYO DE 2014.
 
-###### ARTÍCULO 62.
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado
 
-En los casos en que hubiera sido declarada la situación de catástrofe, o cuando se estime necesario, el Consejo Estatal, constituirá una Comisión de recuperación en la que podrán participar las Administraciones públicas y representantes de los sectores afectados, a fin de estudiar y proponer medidas o programas de recuperación.
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
-###### ARTÍCULO 63.
+P.O. 18 DE JUNIO DE 2015.
 
-Dichos programas de recuperación tendrán como finalidad:
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-I. Identificar y evaluar los daños y perjuicios producidos;
+SEGUNDO. Se abroga la Ley de Fomento Económico del Estado de San Luis Potosí, publicada en la edición extraordinaria del Periódico Oficial del Estado, el 20 de marzo de 2003.
 
-II. Proponer las medidas a adoptar directamente por las Administraciones públicas afectadas, así como por otras Administraciones;
+TERCERO. En un plazo no mayor de noventa días naturales contados a partir de la fecha de publicación de esta Ley, el Ejecutivo del Estado emitirá el Reglamento de la misma. Los reglamentos y disposiciones derivadas de la ley que se abroga, continuarán surtiendo sus efectos en todo aquello que no se oponga a la presente, en tanto se expidan los nuevos reglamentos.
 
-III. Proponer las ayudas y subvenciones a conceder por el Gobierno del Estado a solicitar de otras Administraciones; y,
+CUARTO. Las solicitudes de otorgamiento de estímulos que se encuentren en trámite a la entrada en vigor de este Ordenamiento, se resolverán en los términos de la ley que se abroga.
 
-IV. Impulsar las medidas que resulten necesarias para eliminar o reducir las causas de riesgo en prevención de futuras pérdidas.
+QUINTO. Las personas físicas o morales que conforme a la ley que se abroga disfruten de incentivos, continuarán gozando de los beneficios concedidos hasta en tanto, no se modifiquen o cancelen por la Secretaría, mediante resolución debidamente fundada y motivada.
 
-### Capítulo XV. Voluntariado de Protección Civil
-
-###### ARTÍCULO 75.
-
-El Estado y los municipios fomentarán las agrupaciones de voluntarios de emergencias mediante campañas de información, divulgación y reconocimiento de las actividades que desarrollen en el ámbito de la protección civil, formación del voluntariado y asistencia técnica.
-
-###### ARTÍCULO 76.
-
-Las entidades de Voluntariado de Protección Civil se atendrán a lo dispuesto en la presente Ley, y deberán inscribirse en el Registro que reglamentariamente se establezca, adscrito a la unidad competente en materia de Protección Civil.
-
-### Capítulo XVI. Inspección
-
-###### ARTÍCULO 77.
-
-Las competencias de inspección en materia de protección civil, relativas a las actividades, centros, establecimientos o dependencias obligadas a contar con los lineamientos de protección civil y, en general, en todas aquellas actividades clasificadas, corresponden a la Unidad Estatal y las Unidades Municipales, que las ejercerá a través del Departamento competente en materia de protección civil.
-
-###### ARTÍCULO 78.
-
-El Gobierno del Estado prestará el apoyo técnico necesario a las unidades locales para el ejercicio de las funciones de inspección a las que hace referencia el apartado anterior, previa petición de éstas, en el supuesto de que no dispongan de personal propio cualificado.
-
-###### ARTÍCULO 79.
-
-La inspección de las actividades e instalaciones a las que se refiere el artículo anterior tiene por finalidad garantizar su adecuación a la legalidad sobre protección civil y, en particular, verificar el cumplimiento y la eficacia de las condiciones de seguridad establecidas en las correspondientes licencias, comprobar que las actividades se realizan en las condiciones en que se hubieran autorizado, comprobar la veracidad de la información aportada y la efectiva adopción de las medidas previstas en los planes de protección civil.
-
-###### ARTÍCULO 80.
-
-El personal oficialmente designado por las autoridades competentes en materia de protección civil para realizar las labores de inspección, tendrán la consideración de agentes de la autoridad en el ejercicio de sus funciones.
-
-###### ARTÍCULO 81.
-
-Las unidades competentes podrán contar con el concurso de personal inspector de un organismo público de control que cuente con la adecuada capacidad y cualificación técnica para la realización de las inspecciones que se determinen. Asimismo podrán contar con la asistencia técnica de personal externo, que en ningún caso tendrá la consideración de inspector.
-
-###### ARTÍCULO 82.
-
-Las actas e informes que el personal inspector extienda en ejercicio de sus facultades tendrán naturaleza de documento público y valor probatorio de los hechos que motiven su formalización, sin perjuicio de las pruebas que puedan señalar o aportar los interesados.
-
-###### ARTÍCULO 83.
-
-Corresponde al personal inspector:
-
-I. Poner en conocimiento del órgano competente la comisión de hechos que pudieran ser constitutivos de infracciones tipificadas en esta Ley;
-
-II. Proponer al órgano competente la adopción de las medidas que resulten necesarias para restablecer la legalidad infringida en la materia objeto de inspección; y,
-
-III. Proponer al órgano competente la modificación revisión o revocación de la licencia a que esté sujeta la actividad inspeccionada, cuando ésta revista grave peligro para las personas o bienes.
-
-###### ARTÍCULO 84.
-
-Los titulares de las actividades objeto de inspección estarán obligados a facilitar el libre acceso de las personas designadas para realizar las funciones inspectoras, así como a prestarles la colaboración que sea necesaria.
-
-### Capítulo XVII. Infracciones y Sanciones
-
-###### ARTÍCULO 85.
-
-Son infracciones administrativas las acciones y omisiones tipificadas en la presente Ley y los reglamentos respectivos, sin perjuicio, en su caso, de las responsabilidades civiles y penales que procedan.
-
-###### ARTÍCULO 86.
-
-Las infracciones se clasifican en muy graves, graves y leves.
-
-###### ARTÍCULO 87.
-
-Se consideran infracciones muy graves en materia de protección civil las conductas consistentes en:
-
-I. Actuaciones en las que medie dolo o imprudencia temeraria que, producidas en situación de emergencia, originen graves daños a las personas o bienes;
-
-II. No adoptar, quien estuviere obligado a ello, las medidas establecidas en los planes de protección civil, cuando ello origine graves daños a las personas o bienes;
-
-III. Impedir u obstaculizar gravemente la aplicación de las medidas excepcionales;
-
-IV. El incumplimiento por parte de los medios de comunicación social de la obligación de transmitir los avisos, las instrucciones y las informaciones que ordenen las autoridades competentes de protección civil;
-
-V. No comunicar a la Unidad Estatal de la activación de un plan de autoprotección;
-
-VI. El incumplimiento de las condiciones exigidas sobre evacuación de las personas y la omisión de las medidas de prevención establecidas en las normas generales o en las autorizaciones o licencias, cuando disminuyan gravemente el grado de seguridad exigido;
-
-VII. No movilizar un recurso o un servicio afecto a un plan de protección civil activado a requerimiento del director del plan; y,
-
-VIII. Falsear los estudios complementarios de análisis de riesgos solicitados previamente a la aprobación del planeamiento urbanístico.
-
-###### ARTÍCULO 88.
-
-Se consideran infracciones graves en materia de protección civil las conductas consistentes en:
-
-l. Realizar actuaciones dolosas o imprudentes que, sin ser constitutivas de falta muy grave, ocasionen daños a las personas o los bienes;
-
-II. Incumplir las instrucciones dictadas por la autoridad competente en materia de protección civil al activarse un plan de emergencia o declarada la misma;
-
-III. La omisión de las medidas de prevención establecidas por la legislación específica y el incumplimiento de las condiciones exigidas sobre evacuación de las personas, siempre que no constituyan falta muy grave;
-
-IV. No adoptar los instrumentos de planificación preceptivos en materia de autoprotección o emergencia interior;
-
-V. La carencia de los contratos de seguros exigidos o la inadecuación y/o insuficiencia de dichos contratos de seguros para la cobertura de los riesgos;
-
-VI. Obstaculizar la aplicación de las medidas excepcionales previstas en esta ley;
-
-VII. Negarse a realizar, sin causa justificada las prestaciones personales ordenadas por la autoridad de protección civil competente en situación de activación de un plan de emergencia;
-
-VIII. No acudir a la llamada de movilización, las personas adscritas a servicios asignados a un plan y los miembros de las entidades de voluntariado de protección civil, tras la activación de un plan por la autoridad competente de protección civil;
-
-IX. Denegar la información necesaria para la planificación de protección civil, a requerimiento de la autoridad competente de protección civil; y,
-
-X. Negar el acceso de los agentes de la autoridad en ejercicio de sus funciones de inspección, o impedir u obstaculizar de cualquier otro modo su realización.
-
-###### ARTÍCULO 89.
-
-Se consideran infracciones leves en materia de protección civil las conductas consistentes en:
-
-I. El incumplimiento de la obligación de colaboración en situaciones de emergencia;
-
-II. No seguir ni respetar las medidas y las instrucciones dispuestas por la autoridad de protección civil en los simulacros;
-
-III. No acudir, los miembros de los servicios afectados y de las entidades de voluntariado, a la llamada de movilización en caso de simulacro;
-
-IV. Denegar información a los ciudadanos sobre aspectos de la planificación de protección civil que les afecten de manera directa y sobre la que requieran sobre riesgos previstos y las medidas a adoptar;
-
-V. Realizar al teléfono de emergencias llamadas alertando de falsas emergencias, con datos engañosos o que de cualquier otra manera perturben el eficaz funcionamiento del servicio; y,
-
-VI. Cualquier acción u omisión que vulnere lo dispuesto en la presente Ley o en los reglamentos que la desarrollen, y que no se encuentre tipificada como infracción grave o muy grave.
-
-###### ARTÍCULO 90.
-
-Las sanciones podrán consistir en:
-
-I. Apercibimiento;
-
-II. Clausura temporal o definitiva, parcial o total; y,
-
-III. Multa de 100 a 350 días de salario mínimo general vigente.
-
-###### ARTÍCULO 91.
-
-Las infracciones muy graves podrán ser sancionadas con multas desde 200 hasta 350 salarios mínimos generales vigentes.
-
-###### ARTÍCULO 92.
-
-Las infracciones graves podrán ser sancionadas con multas desde 100 hasta 200 salarios mínimos generales vigentes.
-
-###### ARTÍCULO 93.
-
-Las infracciones leves podrán ser sancionadas con multas de 10 hasta 100 salarios mínimos generales vigentes.
-
-###### ARTÍCULO 94.
-
-Cuando se trate de infracciones graves o muy graves correspondientes a actividades que generen riesgo, la sanción podrá incluir el cierre temporal o total de dicha actividad.
-
-###### ARTÍCULO 95.
-
-En ningún caso de reincidencia el monto de la multa podrá ser hasta de dos veces el monto originalmente impuesto sin exceder del máximo permitido.
-
-###### ARTÍCULO 96.
-
-Se consideran como circunstancias agravantes de la responsabilidad el grado de incidencia en la integridad de las personas y en el aumento de la situación de riesgo, la irreversibilidad del daño, las características del lugar, la intencionalidad y la reincidencia, sin perjuicio de las demás establecidas en la legislación básica.
-
-T R A N S I T O R I O S
-
-###### ARTÍCULO PRIMERO.
-
-La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Se abroga el Decreto número 61, publicado en el número 89 del Periódico Oficial del Estado, el 23 de Diciembre de 1993.
-
-###### ARTÍCULO TERCERO.
-
-El Consejo Estatal de Protección Civil deberá sesionar en un plazo no mayor de noventa días naturales a partir del día siguiente a la publicación de esta Ley.
-
-###### ARTÍCULO CUARTO.
-
-Las disposiciones reglamentarias de la presente Ley las expedirá el Ejecutivo del Estado dentro de un plazo que no exceda de seis meses.
-
-El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
-
-DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de Ocampo, a los 01 un días del mes de diciembre de 2011 dos mil once.
-
-ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECTIVA.- DIP. IVÁN MADERO NARANJO.- PRIMER SECRETARIO.- DIP. MARTÍN CARDONA MENDOZA.- SEGUNDO SECRETARIO.- DIP. LIBRADO MARTÍNEZ CARRANZA.- TERCER SECRETARIO.- DIP. JUAN MANUEL MACEDO NEGRETE. (Firmados)
-
-En cumplimiento a lo dispuesto por la fracción l, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 15 quince días del mes de Diciembre del año 2011 dos mil once.
-
-SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- RAFAEL MELGOZA RADILLO. (Firmados).
-
-###### ARTÍCULO 64.
-
-La Comisión de recuperación centralizará el seguimiento de las actuaciones de evaluación y recuperación.
-
-###### ARTÍCULO 65.
-
-Los ciudadanos tienen derecho a recibir información relativa a los riesgos colectivos graves que puedan afectarles, las causas y consecuencias de los mismos que sean previsibles y las actuaciones previstas para hacerles frente, así como instrucciones sobre las medidas de seguridad a adoptar y las conductas a seguir.
-
-###### ARTÍCULO 66.
-
-Los ciudadanos tienen derecho a participar en las tareas de protección civil en la forma determinada en los Planes de Protección Civil.
-
-###### ARTÍCULO 67.
-
-La participación regular con las unidades competentes en materia de protección civil se encauzará a través de las agrupaciones y organizaciones de protección civil, de bomberos voluntarios y cualesquiera otras que fuesen precisas para asegurar las actuaciones básicas de protección civil contempladas en la presente Ley.
-
-###### ARTÍCULO 68.
-
-Los voluntarios integrantes de las agrupaciones y organizaciones de voluntariado dispondrán de un seguro, a cargo de sus correspondientes organizaciones, que cubrirá el riesgo de accidente y la responsabilidad civil que se derive del cumplimiento de sus funciones.
-
-###### ARTÍCULO 69.
-
-Cualquier ciudadano podrá alertar sobre circunstancias o actividades que puedan generar situaciones de emergencia, mediante la presentación de la correspondiente documentación justificativa ante la Unidad competente en materia de protección civil o en sus dependencias periféricas.
+SEXTO. El Consejo deberá instalarse en un plazo no mayor de sesenta días naturales contados a partir de la fecha de publicación de esta Ley, para lo cual el Gobernador del Estado proveerá lo conducente.
