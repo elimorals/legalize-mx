@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-41-2005-del-pleno-del-consejo-de-la-46524"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2005-10-17"
-last_updated: "2005-10-17"
+last_updated: "2015-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46524&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2005-10-05"
 ---
 # ACUERDO GENERAL 41/2005 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-ACUERDO GENERAL 41/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA FECHA DE INICIO DE ESPECIALIZACION, NUEVA DENOMINACION Y COMPETENCIA DE LOS TRIBUNALES COLEGIADOS DEL QUINTO CIRCUITO, CON RESIDENCIA EN HERMOSILLO, SONORA; A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS MENCIONADOS TRIBUNALES COLEGIADOS
+ACUERDO GENERAL 41/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA FECHA DE INICIO DE ESPECIALIZACIÓN, NUEVA DENOMINACIÓN Y COMPETENCIA DE LOS TRIBUNALES COLEGIADOS DEL QUINTO CIRCUITO, CON RESIDENCIA EN HERMOSILLO, SONORA; A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS MENCIONADOS TRIBUNALES COLEGIADOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JUNIO DE 2015.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 17 de octubre de 2005.
 
@@ -85,9 +85,15 @@ TERCERO.- Los tribunales colegiados especializados en las materias penal y admin
 
 CUARTO.- Los tribunales colegiados especializados en las materias civil y de trabajo del quinto Circuito conocerán de los asuntos a que se refiere el artículo 37, fracciones I, incisos c) y d); II, III, IV, V, VI, VII, VIII y IX de la Ley Orgánica del Poder Judicial de la Federación, en las materias de su especialidad, de conformidad con lo establecido en el artículo 38, del propio ordenamiento legal invocado.
 
-QUINTO.- A partir del treinta y uno de octubre de dos mil cinco, la Oficina de Correspondencia Común de los Tribunales Colegiados del Quinto Circuito, con residencia en Hermosillo, Sonora, se dividirá en dos secciones; una que actuará como receptora de los asuntos de los tribunales colegiados en materias penal y administrativa, y otra que operará como receptora de los asuntos de los tribunales colegiados en materias civil y de trabajo; oficina que funcionará conforme a lo establecido en el Acuerdo General 23/2002, del Pleno del Consejo de la Judicatura Federal.
+> <small>(REFORMADO POR ARTÍCULO ÚNICO DEL ACUERDO GENERAL 25/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE JUNIO DE 2015)</small>
 
-A partir de la fecha indicada en el párrafo anterior, los asuntos que por su especialización correspondan a los tribunales colegiados en materias penal y administrativa, o en materias civil y de trabajo, se deberán presentar en la sección receptora correspondiente.
+QUINTO.- Los Tribunales Colegiados del Quinto Circuito, con residencia en Hermosillo, Sonora, contarán con las Oficinas de Correspondencia Común siguientes:
+
+I. Oficina de Correspondencia Común de los tribunales Colegiados en Materia Civil y de Trabajo; y
+
+II. Oficina de Correspondencia Común de los tribunales Colegiados en Materia Penal y Administrativa.
+
+Dichas oficinas operarán como receptoras de los asuntos de los tribunales Colegiados en las materias de su denominación.
 
 SEXTO.- Los nuevos asuntos que se reciban desde el treinta y uno de octubre de dos mil cinco, en la Oficina de Correspondencia Común de los Tribunales Colegiados del Quinto Circuito, serán distribuidos por ésta entre los tribunales especializados en dichas materias, de acuerdo con el sistema computarizado que la Dirección General de Informática, instalará para cada una de las secciones referidas.
 
@@ -136,3 +142,17 @@ PRIMERO.- Este acuerdo entrará en vigor el treinta y uno de octubre de dos mil 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 LA LICENCIADA GUADALUPE MARGARITA ORTIZ BLANCO, SECRETARIA EJECUTIVA DE CARRERA JUDICIAL, ADSCRIPCION Y CREACION DE NUEVOS ORGANOS, CERTIFICA: Que este Acuerdo General 41/2005, del Pleno del Consejo de la Judicatura Federal, Relativo a la Fecha de Inicio de Especialización, Nueva Denominación y Competencia de los Tribunales Colegiados del Quinto Circuito, con Residencia en Hermosillo, Sonora; a las Reglas de Turno, Sistema de Recepción y Distribución de Asuntos entre los Mencionados Tribunales Colegiados, fue aprobado por el Pleno del propio Consejo, en sesión de cinco de octubre de dos mil cinco, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Luis María Aguilar Morales, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D´Hers, María Teresa Herrera Tello y Miguel A. Quirós Pérez.- México, Distrito Federal, a cinco de octubre de dos mil cinco.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 19 DE JUNIO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor el veintidós de junio de dos mil quince.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. La Administración Regional en Hermosillo, Sonora, será la encargada de colocar avisos en lugares visibles respecto a la instalación, funcionamiento y denominación de la nueva unidad administrativa de que se trata.
+
+CUARTO. La actual Oficina de Correspondencia Común se transformará en Oficina de Correspondencia Común de los Tribunales Colegiados en Materia Civil y Trabajo del Quinto Circuito, con residencia en Hermosillo, Sonora y funcionará con la misma plantilla; la Oficina de Correspondencia Común de los Tribunales Colegiados en Materia Penal y Administrativa del Quinto Circuito, con residencia en Hermosillo, Sonora, contará con un Jefe de Oficina de correspondencia común y dos técnicos de enlace.
+
+QUINTO. Los asuntos en trámite en la Oficina de Correspondencia Común de los tribunales Colegiados del Quinto Circuito a la entrada en vigor del presente Acuerdo, serán atendidos por las nuevas oficinas atendiendo a la materia de su denominación.
