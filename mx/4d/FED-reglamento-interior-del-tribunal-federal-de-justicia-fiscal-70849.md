@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2015-05-14"
+last_updated: "2015-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2009-11-11"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ENERO DE 2016 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE ABRIL DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 14 DE MAYO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JUNIO DE 2015.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -561,11 +561,17 @@ IX. Centro II, que comprende el Estado de Querétaro;
 
 X. Centro III, que comprende el Estado de Guanajuato;
 
-XI. Hidalgo-México, que comprende los Estados de Hidalgo y de México;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2015)</small>
 
-XII. Oriente, que comprende los Estados de Tlaxcala y Puebla;
+XI. Norte-Este del Estado de México, que comprende los municipios de: Acolman, Aculco, Amecameca, Apaxco, Atenco, Atizapán de Zaragoza, Atlautla, Axapusco, Ayapango, Coacalco de Berriozábal, Cocotitlán, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Chalco, Chapa de Mota, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Ecatepec de Morelos, Ecatzingo, Huehuetoca, Hueypoxtla, Huixquilucan, Isidro Fabela, Ixtapaluca, Jaltenco, Jilotepec, Jilotzingo, Juchitepec, La Paz, Melchor Ocampo, Naucalpan de Juárez, Nextlalpan, Nezahualcóyotl, Nicolás Romero, Nopaltepec, Otumba, Ozumba, Papalotla, Polotitlán, San Martín de las Pirámides, Soyaniquilpan de Juárez, Tecámac, Temamatla, Temascalapa, Tenango del Aire, Teotihuacán, Tepetlaoxtoc, Tepetlixpa, Texcoco, Tezoyuca, Tlalmanalco, Tonanitla, Teoloyucan, Tepotzotlán, Tequixquiac, Timilpan, Tlalnepantla de Baz, Tultepec, Tultitlán, Valle de Chalco Solidaridad, Villa del Carbón y Zumpango.
 
-XIII. Golfo, que comprende el Estado de Veracruz;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2015)</small>
+
+XII. Oriente, que comprende el Estado de Puebla;
+
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2015)</small>
+
+XIII. Golfo, que comprende el Estado de Veracruz de Ignacio de la Llave;
 
 XIV. Pacífico, que comprende el Estado de Guerrero;
 
@@ -607,6 +613,18 @@ XXV. San Luis Potosí, que comprende el Estado de San Luis Potosí;
 
 XXVI. Tabasco, que comprende el Estado de Tabasco.
 
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2015)</small>
+
+XXVII. Hidalgo, que comprende el Estado de Hidalgo;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2015)</small>
+
+XXVIII. Tlaxcala, que comprende el Estado de Tlaxcala;
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2015)</small>
+
+XXIX. Sur del Estado de México, que comprende los municipios de: Acambay, Almoloya de Alquisiras, Almoloya de Juárez, Almoloya del Río, Amanalco, Amatepec, Atizapán, Atlacomulco, Calimaya, Capulhuac, Coatepec Harinas, Chapultepec, Donato Guerra, El Oro, Ixtapan de la Sal, Ixtapan del Oro, Ixtlahuaca, Jiquipilco, Jocotitlán, Joquicingo, Lerma, Luvianos, Malinalco, Metepec, Mexicaltzingo, Morelos, Ocoyoacac, Ocuilán, Otzoloapan, Otzolotepec, Rayón, San Antonio la Isla, San Felipe del Progreso, San José del Rincón, San Mateo Atenco, San Simón de Guerrero, Santo Tomás, Sultepec, Tejupilco, Temascalcingo, Temascaltepec, Temoaya, Tenancingo, Tenango del Valle, Texcaltitlán, Texcalyacac, Tianguistenco, Tlataya, Toluca, Tonatico, Valle de Bravo, Villa de Allende, Villa Guerrero, Villa Victoria, Xalatlaco, Xonacatlán, Zacazonapan, Zacualpan, Zinacantepec y Zumpahuacán.
+
 ###### Artículo 22.
 
 En las regiones señaladas en el artículo anterior, la sede, denominación y el número de Salas Regionales, serán las siguientes:
@@ -637,15 +655,17 @@ IX. Región del Centro II: Una Sala que se denominará “Sala Regional del Cent
 
 X. Región del Centro III: Una Sala que se denominará “Sala Regional del Centro III”, con sede en la Ciudad de Celaya, Estado de Guanajuato;
 
-XI. Región Hidalgo-México: Tres Salas que se denominarán, “Primera Sala Regional Hidalgo-México”, “Segunda Sala Regional Hidalgo-México” y “Tercera Sala Regional Hidalgo-México”, con sede en Tlalnepantla, Estado de México;
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2015)</small>
+
+XI. Región Norte-Este del Estado de México: Tres Salas que se denominarán, “Primera Sala Regional Norte-Este del Estado de México”, “Segunda Sala Regional Norte-Este del Estado de México” y “Tercera Sala Regional Norte-Este del Estado de México”, con sede en Tlalnepantla, Estado de México.
 
 > <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2015)</small>
 
 XII. Región de Oriente: Dos salas que se denominaran, “Primera Sala Regional de Oriente” y “Segunda Sala Regional de Oriente”, con sede en el municipio de San Andrés Cholula, Estado de Puebla;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2015)</small>
 
-XIII. Región del Golfo: Una Sala que se denominará “Sala Regional del Golfo”, con sede en la Ciudad de Jalapa, Estado de Veracruz;
+XIII. Región del Golfo: Una Sala que se denominará “Sala Regional del Golfo”, con sede en la ciudad de Xalapa-Enríquez, Estado de Veracruz de Ignacio de la Llave;
 
 XIV. Región del Pacífico: Una Sala que se denominará “Sala Regional del Pacífico”, con sede en la Ciudad de Acapulco, Estado de Guerrero;
 
@@ -686,6 +706,18 @@ XXV. Región de San Luis Potosí: Una Sala que se denominará “Sala Regional d
 > <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2015)</small>
 
 XXVI. Región de Tabasco: Una Sala que se denominará “Sala Regional de Tabasco”, con sede en la Ciudad de Villahermosa, Estado de Tabasco.
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2015)</small>
+
+XXVII. Región Hidalgo: Una Sala que se denominará “Sala Regional de Hidalgo” con sede en la Ciudad de Pachuca, Estado de Hidalgo.
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2015)</small>
+
+XXVIII. Región Tlaxcala: Una Sala que se denominará “Sala Regional de Tlaxcala”, con sede en la Ciudad de Tlaxcala, Estado de Tlaxcala.
+
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2015)</small>
+
+XXIX. Región Sur del Estado de México: Una Sala que se denominará “Sala Regional Sur del Estado de México”, con sede en la Ciudad de Toluca, Estado de México.
 
 > <small>(REFORMADO, D.O.F. 28 DE OCTUBRE DE 2011)</small>
 
@@ -737,6 +769,12 @@ n) Comisión Reguladora de Energía (CRE)
 
 3) (DEROGADO, D.O.F. 20 DE ENERO DE 2015)
 
+> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2015)</small>
+
+IV.- Una Sala Especializada en Materia de Comercio Exterior, que será también la Quinta Sala Auxiliar, con sede en la ciudad de Xalapa-Enríquez, Estado de Veracruz de Ignacio de la Llave, que tendrá competencia territorial limitada a los Estados de Veracruz de Ignacio de la Llave y Tamaulipas, y competencia material para tramitar y resolver los juicios que se promuevan contra las resoluciones definitivas y actos a que se refiere el artículo 14, fracciones I, II, III, IV, X, XI, XII, XIII, exclusivamente cuando el acto impugnado se funde en un tratado o acuerdo internacional en materia comercial, suscrito por México, o cuando el demandante haga valer como concepto de impugnación que no se haya aplicado en su favor dicho tratado o acuerdo; XIV, penúltimo y último párrafos de la Ley, dictados con fundamento en la Ley Aduanera, en la Ley de Comercio Exterior, así como en los demás ordenamientos que regulan la materia de comercio exterior.
+
+Respecto de los juicios que se promuevan contra las resoluciones definitivas y actos a que se refiere el artículo 14, fracción X, de la Ley, la Sala Especializada en Materia de Comercio Exterior conocerá de los mismos en términos del párrafo que antecede, cuando se controvierta exclusivamente la aplicación de cuotas compensatorias, quedando a salvo la competencia especial de las Secciones de la Sala Superior, en términos del artículo 23, fracción I, de la Ley.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE ENERO DE 2013)</small>
 
 ###### Artículo 23
@@ -759,9 +797,9 @@ III. Tercera Sala Auxiliar, con sede en la Ciudad de Torreón, Estado de Coahuil
 
 IV. Cuarta Sala Auxiliar, con sede en la ciudad de Victoria de Durango, Estado de Durango, que será la Sala Regional del Norte-Centro III, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 21, fracción XXII, y 22, fracción XXII, de este Reglamento, en relación con los diversos 31 y 32 de la Ley.
 
-> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2015)</small>
 
-V. Quinta Sala Auxiliar, con sede en la ciudad de Jalapa, Estado de Veracruz.
+V. Quinta Sala Auxiliar, con sede en la ciudad de Xalapa-Enríquez, Estado de Veracruz de Ignacio de la Llave, que será también la Sala Especializada en Materia de Comercio Exterior, conforme a lo establecido en el artículo 23, fracción IV, de este Reglamento.
 
 > <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2013)</small>
 
@@ -2996,3 +3034,25 @@ TERCERO.- En términos de lo señalado por el artículo 41, fracciones I y IV, d
 CUARTO.- Se instruye a la Secretaría Operativa de Administración y a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, para que a partir de la aprobación del presente Acuerdo, realicen todas las gestiones, acciones, trámites administrativos y presupuestales, entre otros, para implementar lo dispuesto en el presente Acuerdo.
 
 QUINTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE JUNIO DE 2015.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Sala Regional Sur del Estado de México, la Sala Regional de Hidalgo y la Sala Regional de Tlaxcala que se crean, iniciarán sus operaciones a los treinta días naturales siguientes a la fecha en que la Junta de Gobierno y Administración adscriba a los Magistrados de Sala Regional necesarios para poder integrarlas conforme se indica en el artículo 31 de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa.
+
+TERCERO.- La Sala Especializada en Materia de Comercio Exterior iniciará funciones a los treinta días naturales a partir de que la Junta de Gobierno y Administración emita el acuerdo de distribución de expedientes a que se refiere el siguiente artículo transitorio.
+
+CUARTO.- En términos de lo señalado por el artículo 41, fracciones I y IV, de la Ley Orgánica del Tribunal, la Junta de Gobierno y Administración determinará la redistribución de los expedientes para la Sala Regional Sur del Estado de México, la Sala Regional de Hidalgo, la Sala Regional de Tlaxcala y la Sala Especializada en Materia de Comercio Exterior. Asimismo, deberá dictar los demás acuerdos que sean necesarios para la consecución del objetivo de este Acuerdo.
+
+Hasta en tanto no inicien funciones la nuevas Salas citadas en el párrafo anterior, las Salas Regionales Norte-Este del Estado de México continuarán conociendo de los asuntos correspondientes a las regiones de los Estados de México e Hidalgo, las Salas Regionales de Oriente, de los correspondientes a las regiones de los Estados de Tlaxcala y Puebla, y todas las Salas Regionales, de los correspondientes a la materia de Comercio Exterior según su competencia territorial.
+
+QUINTO.- La Sala Especializada en Materia Comercio Exterior tendrá como clave de identificación la siguiente: "ECE".
+
+SEXTO.- Quedan sin efecto las disposiciones emitidas por la Junta de Gobierno y Administración, por el Pleno Jurisdiccional o por la propia Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa que se opongan a los términos del presente Acuerdo.
+
+SÉPTIMO.- Se instruye a la Secretaría Operativa de Administración y a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, para que a partir de la aprobación del presente Acuerdo, realicen todas las gestiones, acciones, trámites administrativos y presupuestales, entre otros, para implementar lo dispuesto en el presente Acuerdo.
+
+OCTAVO.- Para todo lo no previsto en el presente Acuerdo se estará a lo que resuelva el órgano competente del Tribunal Federal de Justicia Fiscal y Administrativa.
+
+NOVENO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
