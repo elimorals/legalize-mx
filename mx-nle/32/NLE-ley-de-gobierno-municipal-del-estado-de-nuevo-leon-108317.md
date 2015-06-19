@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-gobierno-municipal-del-estado-de-nuevo-leon-108317"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-27"
-last_updated: "2015-05-27"
+last_updated: "2015-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEON
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE JUNIO DE 2015 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 19 DE JUNIO DE 2015.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de mayo de 2015.
 
@@ -1391,9 +1391,13 @@ III. En los contratos constitutivos de fideicomisos de la Administración Públi
 
 IV. La modificación o extinción de los fideicomisos públicos, que convenga al interés general, corresponderá al Ayuntamiento, cuando esto suceda se deberá establecer el destino de los bienes fideicomitidos dentro del objeto de creación del fideicomiso;
 
-VI (SIC). Los fideicomisos públicos, a través de su Comité Técnico, deberán rendir al Ayuntamiento un informe trimestral sobre la administración y aplicación de sus recursos; y
+> <small>(F. DE E., P.O. 19 DE JUNIO DE 2015)</small>
 
-VII. En los contratos constitutivos de fideicomisos se establecerá la obligación de observar los requisitos y formalidades señalados en esta Ley, para la enajenación de los bienes de propiedad municipal.
+V. Los fideicomisos públicos, a través de su Comité Técnico, deberán rendir al Ayuntamiento un informe trimestral sobre la administración y aplicación de sus recursos; y
+
+> <small>(F. DE E., P.O. 19 DE JUNIO DE 2015)</small>
+
+VI. En los contratos constitutivos de fideicomisos se establecerá la obligación de observar los requisitos y formalidades señalados en esta Ley, para la enajenación de los bienes de propiedad municipal.
 
 ###### ARTÍCULO 118.
 
