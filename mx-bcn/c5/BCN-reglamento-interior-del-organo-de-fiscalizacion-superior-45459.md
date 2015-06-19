@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-organo-de-fiscalizacion-superior-45459"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-08"
-last_updated: "2014-07-11"
+last_updated: "2015-06-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45459&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 8 de julio de 2005.
-
-> <small>N. DE E. LAS REFORMAS APROBADAS, MODIFICAN DE MANERA SUSTANCIAL EL CONTENIDO DEL PRESENTE ORDENAMIENTO DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTÍCULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DE 29 DE JUNIO DE 2012.</small>
 
 REGLAMENTO INTERIOR DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE BAJA CALIFORNIA
 
@@ -37,11 +35,11 @@ REGLAMENTO INTERIOR DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE BAJA CA
 
 El presente Reglamento tiene por objeto precisar la estructura orgánica y funcionamiento del órgano de Fiscalización Superior del Estado de Baja California, para la operación y cumplimiento de sus fines.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 2.
 
-El Órgano de Fiscalización Superior del Estado, es el órgano de Fiscalización del Congreso del Estado, con las atribuciones que expresamente le confieren la Constitución Política del Estado Libre y Soberano de Baja California, la Ley de Fiscalización Superior de los Recursos Públicos para el Estado de Baja California y sus Municipios, la Ley Orgánica del Poder Legislativo del Estado de Baja California, este Reglamento Interior y cualquier otro ordenamiento legal que le sea aplicable.
+El Órgano de Fiscalización Superior del Estado, es el Órgano Técnico de Fiscalización del Congreso del Estado, con las atribuciones que expresamente le confieren la Constitución Política del Estado Libre y Soberano de Baja California, la Ley de Fiscalización Superior de los Recursos Públicos para el Estado de Baja California y sus Municipios, la Ley Orgánica del Poder Legislativo del Estado de Baja California, este Reglamento Interior y cualquier otro ordenamiento legal que le sea aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2010)</small>
 
@@ -85,9 +83,9 @@ VIII. Auditor Superior.- El Auditor Superior de Fiscalización del Estado;
 
 IX. Subauditor Superior.- El Subauditor Superior de Fiscalización del Estado;
 
-> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-X. Direcciones.- Las Direcciones Generales, la Dirección de Normatividad y Mejora Continua y las Direcciones de Auditoría;
+X.- Direcciones.- Las Direcciones Generales, las Direcciones de Auditoría, la Dirección de Normatividad y Mejora Continua y la Dirección de Gestión de Calidad;
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
 
@@ -113,49 +111,45 @@ XV. Dirección de Auditoría Tijuana.- Es la Dirección de Auditoría que tiene 
 
 XVI. Dirección de Auditoría Ensenada.- Es la Dirección de Auditoría que tiene como ámbito de competencia las Entidades Fiscalizables que tengan su domicilio dentro del Municipio de Ensenada;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
-
-XVII. Unidades.- La Unidad de Gestión de Calidad;
-
 > <small>(ADICIONADA, P.O. 11 DE JULIO DE 2014)</small>
 
-XVIII. Unidades Administrativas.- La oficina del Auditor Superior, la oficina del Subauditor Superior, las Direcciones, las Unidades, las Subdirecciones y los Departamentos que integran la estructura del Órgano de Fiscalización;
+XVII. Unidades Administrativas.- La oficina del Auditor Superior, la oficina del Subauditor Superior, las Direcciones, las Unidades, las Subdirecciones y los Departamentos que integran la estructura del Órgano de Fiscalización;
 
 > <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2013)</small>
 
-XIX. Subdirección y/o Subdirecciones.- Las Subdirecciones de Auditoría;
+XVIII. Subdirección y/o Subdirecciones.- Las Subdirecciones de Auditoría;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
 
-XX. Fiscalización Superior.- La facultad del Congreso, ejercida por conducto del Órgano de Fiscalización, para la revisión, análisis, auditoría y opinión de la Cuenta Pública de las Entidades del ejercicio fiscal correspondiente, la cual comprende la Cuenta Pública, los Informes de Avance de Gestión Financiera; y, la documentación comprobatoria y justificatoria mensual del ingreso y gasto público;
+XIX. Fiscalización Superior.- La facultad del Congreso, ejercida por conducto del Órgano de Fiscalización, para la revisión, análisis, auditoría y opinión de la Cuenta Pública de las Entidades del ejercicio fiscal correspondiente, la cual comprende la Cuenta Pública, los Informes de Avance de Gestión Financiera; y, la documentación comprobatoria y justificatoria mensual del ingreso y gasto público;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
 
-XXI. Entidades Fiscalizables.- Las Entidades que ejerzan recursos públicos, y, en general, cualquier entidad, persona física o moral, pública o privada, que haya tenido o tenga a su cargo, la recaudación, administración, el manejo o el ejercicio de recursos públicos estatales o municipales;
+XX. Entidades Fiscalizables.- Las Entidades que ejerzan recursos públicos, y, en general, cualquier entidad, persona física o moral, pública o privada, que haya tenido o tenga a su cargo, la recaudación, administración, el manejo o el ejercicio de recursos públicos estatales o municipales;
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
 
-XXII. Confronta.- Reunión realizada entre servidores públicos de las Entidades Fiscalizables o quienes dejaron de serlo, y del Órgano de Fiscalización con el objeto de dar a conocer los resultados preliminares de la revisión realizada, para efecto de que se aclaren observaciones que no hayan quedado totalmente solventadas en los plazos establecidos en la Ley;
+XXI. Confronta.- Reunión realizada entre servidores públicos de las Entidades Fiscalizables o quienes dejaron de serlo, y del Órgano de Fiscalización con el objeto de dar a conocer los resultados preliminares de la revisión realizada, para efecto de que se aclaren observaciones que no hayan quedado totalmente solventadas en los plazos establecidos en la Ley;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
 
-XXIII. ASF- Auditoría Superior de la Federación;
+XXII. ASF- Auditoría Superior de la Federación;
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
 
-XXIV. ASOFIS.- Asociación Nacional de Organismos de Fiscalización Superior y Control Gubernamental, A. C.;
+XXIII. ASOFIS.- Asociación Nacional de Organismos de Fiscalización Superior y Control Gubernamental, A. C.;
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
 
-XXV. Reglamento.- Reglamento Interior del Órgano de Fiscalización Superior del Estado de Baja California;
+XXIV. Reglamento.- Reglamento Interior del Órgano de Fiscalización Superior del Estado de Baja California;
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+XXV.- Manual de Organización.- Manual de Desarrollo Organizacional del Órgano de Fiscalización; y
 
 > <small>(ADICIONADA, P.O. 11 DE JULIO DE 2014)</small>
 
-XXVI. Manual de Organización.- Manual de desarrollo organizacional del Órgano de Fiscalización; y
-
-> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2014)</small>
-
-XXVII. Programa Anual de Auditorías.- Programa Anual de Auditorías, Visitas e Inspecciones.
+XXVI. Programa Anual de Auditorías.- Programa Anual de Auditorías, Visitas e Inspecciones.
 
 > <small>N. DE E. MEDIANTE REFORMA PUBLICADA EN EL P.O. DE 21 DE JUNIO DE 2013, SE ELIMINA LA FRACCIÓN VI Y SE RECORREN LAS SUBSECUENTES FRACCIONES.</small>
 
@@ -197,9 +191,9 @@ IV.- Dirección de Auditoría Mexicali a Entidades Municipales, la cual estará 
 
 3. Departamento de Auditoría a Obra Pública a Entidades Municipales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2015)</small>
 
-V.- Dirección de Auditoría Tijuana, la cual estará adscrita al Subauditor Superior y tendrá una subdirección a su cargo, denominada Subdirección de Auditoría Tijuana, con los siguientes Departamentos:
+V.- Dirección de Auditoría Tijuana, la cual estará adscrita al Subauditor Superior y tendrá una subdirección a su cargo, denominada Subdirección de Auditoría Tijuana; así como los siguientes Departamentos:
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
 
@@ -269,7 +263,9 @@ VIII.- Dirección General de Administración, la cual estará adscrita al Audito
 
 IX.- Dirección General de Asuntos Jurídicos, la cual estará adscrita al Auditor Superior.
 
-X.- Unidad de Gestión de Calidad, la cual estará adscrita al Auditor Superior.
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+X.- Dirección de Gestión de Calidad, la cual estará adscrita al Auditor Superior.
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
@@ -323,7 +319,9 @@ La interpretación de las disposiciones contenidas en el presente Reglamento que
 
 Al frente del Órgano de Fiscalización, como titular y autoridad ejecutiva, estará un Auditor Superior, a quien corresponde originalmente la representación, trámite y resolución de los asuntos de su competencia en los términos de la Constitución del Estado y de la Ley; y que para la mejor distribución y desarrollo del trabajo, podrá conferir sus facultades delegables a los servidores públicos subalternos, sin perder por ello, la posibilidad de su ejercicio directo.
 
-Cuando el Auditor Superior lo juzgue necesario, respecto a las facultades que el presente Reglamento le atribuye, igualmente le corresponderá dicho ejercicio al Subauditor Superior, Direcciones Generales, Direcciones de Auditoría, Unidades, Subdirecciones, Departamentos y demás personal que integre el Órgano de Fiscalización.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2015)</small>
+
+Cuando el Auditor Superior lo juzgue necesario, respecto a las facultades que el presente Reglamento le atribuye, igualmente le corresponderá dicho ejercicio al Subauditor Superior, Direcciones, Unidades, Subdirecciones, Departamentos y demás personal que integre el Órgano de Fiscalización.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2012)</small>
 
@@ -333,9 +331,9 @@ El Auditor Superior tendrá, además de las conferidas en la Ley, las siguientes
 
 I.- Designar personal para el desempeño de comisiones y servicios ordinarios o especiales fijándole sus facultades;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-II.- Seleccionar y contratar a personal capacitado, así como promover, remover, suspender o dar de baja, en su caso, al personal del Órgano de Fiscalización con sujeción a las leyes, disposiciones laborales y presupuesto autorizado;
+II.- Seleccionar y contratar a personal capacitado, así como promover, remover, suspender y/o rescindir, en su caso, al personal del Órgano de Fiscalización con sujeción a las leyes, disposiciones laborales y presupuesto autorizado;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
 
@@ -353,7 +351,9 @@ VII.- Asignar la coordinación de programas específicos a las Direcciones, Unid
 
 VIII.- Aprobar la designación de los inspectores, visitadores o auditores encargados de practicar las inspecciones, visitas y auditorías a su cargo, o, en su caso, habilitar a terceros, en los términos de la Ley, mediante la celebración de contratos de prestación de servicios profesionales independientes;
 
-IX.- Suscribir los pliegos de observaciones y las recomendaciones que deriven de los resultados de la revisión de la Cuenta Pública de las Entidades Fiscalizables;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+IX.- Aprobar y suscribir los pliegos de observaciones y las recomendaciones que deriven de los resultados de la revisión de la Cuenta Pública de las Entidades Fiscalizables;
 
 X.- Acatar las disposiciones de este Reglamento, así como resolver las dudas que se susciten con motivo de la interpretación o aplicación del mismo;
 
@@ -375,9 +375,9 @@ XIII.- El despacho de los asuntos que le encomienden otras leyes, decretos, acue
 
 El Auditor Superior tendrá, además de las señaladas en la Ley, y en el artículo que precede, las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-I.- Aprobar el Programa Anual de Auditorías y el Programa Operativo Anual del Órgano de Fiscalización, así como las adecuaciones y modificaciones a los mismos;
+I.- Aprobar el Programa Anual de Auditorías, el Programa Operativo Anual y Subprogramas Operativos Anuales del Órgano de Fiscalización, así como las adecuaciones y modificaciones a los mismos;
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
 
@@ -411,9 +411,9 @@ VIII.- Aprobar el Plan de Desarrollo Institucional del Órgano de Fiscalización
 
 IX.- Expedir los acuerdos de reformas y adiciones al Reglamento Interior del Órgano de Fiscalización debiendo enviarse para la publicación en el Periódico Oficial del Estado;
 
-> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-X.- Publicar en el Portal de Internet del Órgano de Fiscalización, el Programa Anual de Auditorías, Programa Operativo Anual, Plan de Desarrollo Institucional, Informe Anual de Actividades del Órgano de Fiscalización, entre otros, así como las adecuaciones y modificaciones a los mismos; y
+X.- Publicar en el Portal de Internet del Órgano de Fiscalización, el Programa Anual de Auditorías, Programa Operativo Anual, Plan de Desarrollo Institucional, Informe Anual de Actividades del Órgano de Fiscalización, Informe de Resultados de la Evaluación del Desempeño, entre otros, así como las modificaciones a los mismos; y
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
@@ -437,9 +437,9 @@ I.- Acordar con el Auditor Superior el despacho de los asuntos técnicos y admin
 
 II.- Auxiliar al Auditor Superior cuando se lo requiera;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-III.- Coordinar y vigilar el funcionamiento de las Direcciones de Auditoría y Departamentos a su cargo; así como de sus Programas Operativos Anuales y Programas Anuales de Auditorías; y, sus adecuaciones, sometiéndolo a la aprobación del Auditor Superior;
+III.- Coordinar y vigilar el funcionamiento de las Direcciones de Auditoría y Departamentos a su cargo; así como validar sus Subprogramas Operativos Anuales y Programas Anuales de Auditorías; y, sus adecuaciones, sometiéndolo a la aprobación del Auditor Superior;
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
 
@@ -449,9 +449,9 @@ IV.- Proponer al Auditor Superior las medidas necesarias para subsanar las defic
 
 V.- Participar en la evaluación del Informe de Avance de Gestión Financiera, en la elaboración del Informe de Resultados de la revisión de la Cuenta Pública y en la elaboración del Informe de Resultados de la Evaluación del Desempeño, en la forma en que determine el Auditor Superior;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-VI.- Elaborar su Programa Operativo Anual, donde se establecerán metas a cumplir, así como informar al Auditor Superior sobre el avance y cumplimiento del mismo;
+VI.- Elaborar su Subprograma Operativo Anual, donde se establecerán metas a cumplir, así como informar al Auditor Superior sobre el avance y cumplimiento del mismo;
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
 
@@ -461,13 +461,13 @@ VII.- Someter a la aprobación del Auditor Superior, en coordinación con los Di
 
 VIII.- Desempeñar las comisiones que el Auditor Superior le encomiende y mantenerlo informado sobre el desarrollo de las mismas;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-IX.- Vigilar el cumplimiento de la normatividad aplicable al funcionamiento de las Direcciones de Auditoría y Departamentos a su cargo, y, en su caso, proponer al Auditor Superior las modificaciones que estime convenientes;
+IX.- Verificar el exacto y puntual cumplimiento de la normatividad aplicable al funcionamiento de las Direcciones de Auditoría y Departamentos a su cargo, y, en su caso, proponer al Auditor Superior las modificaciones que estime convenientes;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-X.- Proponer a la Dirección General de Administración, los programas y cursos de formación y capacitación para elevar el nivel técnico y profesional del personal de las Direcciones de Auditoría y Departamentos a su cargo;
+X.- Validar y proponer a la Dirección General de Administración, los programas y cursos de formación y capacitación para elevar el nivel técnico y profesional del personal de las Direcciones de Auditoría y Departamentos a su cargo;
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
 
@@ -481,9 +481,9 @@ XII.- Ejercer las atribuciones que corresponden al Auditor Superior, solamente e
 
 XIII.- Publicar, actualizar y/o validar en su caso, en los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia; la información pública contenida en el portal de Internet e Intranet del Órgano de Fiscalización que le corresponde generar, administrar o poseer de conformidad con lo dispuesto en el presente Reglamento, Manual de Organización y demás disposiciones aplicables en la materia;
 
-> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-XIV.- Otorgar respuesta de manera oportuna, fidedigna, clara y pertinente, y dentro de los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia, a las solicitudes de acceso a la información pública de su competencia; y
+XIV.- Otorgar respuesta de manera oportuna, fidedigna, clara y pertinente, y en los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia, a las solicitudes de acceso a la información pública de su competencia; y
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
 
@@ -539,17 +539,17 @@ II.- Acordar con el Subauditor Superior, el despacho de los asuntos técnicos y 
 
 III.- Presentar a solicitud de la Dirección General de Administración, su anteproyecto de Presupuesto Anual de Egresos, así como el correspondiente a la Subdirección y Departamentos a su cargo, a través de su superior inmediato;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-IV.- Analizar y evaluar los Programas Operativos Anuales y Programas Anuales de Auditorías que elaboren el Subdirector y los Jefes de Departamento a su cargo, para someterlos a la consideración del Auditor Superior, bajo la coordinación del Subauditor Superior;
+IV.- Coordinar la formulación y autorizar los Subprogramas Operativos Anuales y Programas Anuales de Auditorías que elaboren el Subdirector y los Jefes de Departamento a su cargo, para someterlos a la consideración del Auditor Superior, bajo la coordinación del Subauditor Superior;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-V.- Elaborar su Programa Operativo Anual donde se establecerán metas a cumplir, así como informar a su superior inmediato, sobre el avance y cumplimiento del mismo;
+V.- Elaborar su Subprograma Operativo Anual donde se establecerán metas a cumplir, así como informar a su superior inmediato, sobre el avance y cumplimiento del mismo;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-VI.- Elaborar y turnar conforme a los Lineamientos aplicables, el proyecto del Programa Anual de Auditoría; así como coordinar las auditorías, visitas e inspecciones practicadas por los Departamentos a su cargo, en su ámbito territorial;
+VI.- Coordinar la formulación del proyecto del Programa Anual de Auditorías, conforme a los Lineamientos aplicables; así como verificar el cumplimiento de los objetivos y alcances de las auditorías, visitas e inspecciones practicadas por los Departamentos a su cargo, en su ámbito territorial;
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
@@ -559,21 +559,21 @@ VII.- Llevar a cabo la fiscalización de la cuenta pública a través del person
 
 VIII.- Informar al Auditor Superior de las irregularidades que se detecten en el ejercicio de sus atribuciones que puedan constituir responsabilidades administrativas o penales;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-IX.- Asegurar la calidad técnica de los proyectos de pliegos de observaciones, de las recomendaciones e Informes de Resultados a su cargo, que sean sometidos a la consideración del Auditor Superior;
+IX.- Validar la calidad técnica de los proyectos de pliegos de observaciones, de las recomendaciones, Informes de Resultados a su cargo y demás informes derivados del proceso de fiscalización, que sean sometidos a la consideración del Auditor Superior;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-X.- Participar en las confrontas que se realicen con los servidores públicos de las Entidades Fiscalizables;
+X.- Participar y en su caso presidir y tomar acuerdos en las reuniones de confronta que se realicen con los servidores públicos de las Entidades Fiscalizables;
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
 XI.- Valorar la integración y calidad técnica de la Carpeta de Informe de Resultados de Cuenta Pública de las Entidades Fiscalizables, misma que será sometida a la aprobación del Auditor Superior;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-XII.- Vigilar la debida integración, control y custodia del archivo de papeles de trabajo derivados de la revisión de la cuenta pública de las Entidades Fiscalizables, dentro de su ámbito territorial de competencia;
+XII.- Vigilar la debida integración, control y custodia del archivo de papeles de trabajo derivados de la revisión de la cuenta pública de las Entidades Fiscalizables, dentro de su ámbito territorial de competencia y autorizar su resguardo en el archivo de concentración;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
 
@@ -587,9 +587,9 @@ XIV.- Dictar las medidas necesarias para subsanar las deficiencias que observe e
 
 XV.- Proponer al Subauditor Superior, cursos de formación y capacitación para elevar el nivel técnico y profesional del personal a su cargo; y, evaluar su desempeño conforme a las políticas y procedimientos establecidos en el Órgano de Fiscalización;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-XVI.- Analizar y proponer al Auditor Superior, el ingreso, sustitución, licencias, promoción, suspensión y baja del personal a su cargo, para su consideración;
+XVI.- Analizar y proponer al Auditor Superior, el ingreso, sustitución, licencias, promoción, suspensión y/o rescisión del personal a su cargo, para su consideración;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
 
@@ -599,9 +599,9 @@ XVII.- Valorar y presentar al Auditor Superior, los proyectos de informes y opin
 
 XVIII.- Publicar, actualizar y/o validar en su caso, en los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia; la información pública contenida en el portal de Internet e Intranet del Órgano de Fiscalización que le corresponde generar, administrar o poseer de conformidad con lo dispuesto en el presente Reglamento, Manual de Organización y demás disposiciones aplicables en la materia;
 
-> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-XIX.- Otorgar respuesta de manera oportuna, fidedigna, clara y pertinente, y dentro de los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia, a las solicitudes de acceso a la información pública de su competencia; y
+XIX.- Otorgar respuesta de manera oportuna, fidedigna, clara y pertinente, y en los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia, a las solicitudes de acceso a la información pública de su competencia; y
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
 
@@ -633,9 +633,9 @@ Para ser Director de Auditoría Mexicali a Entidades Estatales y Autónomos, Dir
 
 A la Dirección de Normatividad y Mejora Continua le corresponde atender los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-I.- Elaborar su Programa Operativo Anual, mediante el cual establecerá metas a cumplir; y, someterlo para su autorización al Auditor Superior, así como informarle sobre el avance y cumplimiento del mismo;
+I.- Elaborar su Subprograma Operativo Anual, mediante el cual establecerá metas a cumplir; y, someterlo para su autorización al Auditor Superior, así como informarle sobre el avance y cumplimiento del mismo;
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
 
@@ -651,15 +651,15 @@ IV.- Coordinar y evaluar el funcionamiento de los Departamentos a su cargo;
 
 V.- Dictar las medidas necesarias para subsanar las deficiencias que observe en las labores de los Departamentos a su cargo;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-VI.- Proponer a su superior inmediato, para su aprobación en su caso, el ingreso, sustitución, licencias, promoción, suspensión y baja del personal a su cargo, para los fines que procedan;
+VI.- Proponer a su superior inmediato, para su aprobación en su caso, el ingreso, sustitución, licencias, promoción, suspensión y/o rescisión del personal a su cargo, para los fines que procedan;
 
 VII.- Desempeñar las comisiones que el Auditor Superior le encomiende y mantenerlo informado sobre el desarrollo de sus actividades;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-VIII.- Coordinar la revisión de los procedimientos, lineamientos y demás normatividad en materia de fiscalización de cuentas públicas de las Entidades Fiscalizables; y, sugerir al Auditor Superior los cambios que considere necesarios para su mejora;
+VIII.- Coordinar la revisión de los procedimientos, lineamientos y demás normatividad en materia de fiscalización de cuentas públicas de las Entidades Fiscalizables; y proponer al Auditor Superior las modificaciones que considere pertinentes;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
 
@@ -669,13 +669,13 @@ IX.- Someter a consideración del Auditor Superior métodos, sistemas, técnicas
 
 X.- Proponer al Auditor Superior, los proyectos de creación, modificación, reorganización y de fusión o eliminación de funciones;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-XI.- Desarrollar y someter a consideración del Auditor Superior, las propuestas de modificaciones a la normatividad aplicable al Órgano de Fiscalización;
+XI.- Desarrollar y someter a consideración del Auditor Superior, las propuestas de modificaciones al Reglamento Interior y demás normatividad aplicable al Órgano de Fiscalización;
 
-> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-XII.- Desarrollar y someter a consideración del Comité de Integridad del Órgano de Fiscalización los anteproyectos de políticas y reformas a la normatividad del OFSBC, que tengan como finalidad armonizar e incorporar las normas, valores y mejores prácticas nacionales e internacionales en materia de integridad;
+XII.- Fungir como secretario ejecutivo del Comité de Integridad del Órgano de Fiscalización, con las facultades y responsabilidades que al efecto se deriven;
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
 
@@ -719,9 +719,9 @@ XXII.- Publicar, actualizar y/o validar en su caso, la información contenida en
 
 XXIII.- Publicar, actualizar y/o validar en su caso, en los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia; la información pública contenida en el portal de Internet e Intranet del Órgano de Fiscalización que le corresponde generar, administrar o poseer de conformidad con lo dispuesto en el presente Reglamento, Manual de Organización y demás disposiciones aplicables en la materia;
 
-> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-XXIV.- Otorgar respuesta de manera oportuna, fidedigna, clara y pertinente, y dentro de los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia, a las solicitudes de acceso a la información pública de su competencia; y
+XXIV.- Otorgar respuesta de manera oportuna, fidedigna, clara y pertinente, y en los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia, a las solicitudes de acceso a la información pública de su competencia; y
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
 
@@ -767,9 +767,9 @@ V.- Dictar las medidas necesarias para subsanar las deficiencias que observe en 
 
 VI.- Desempeñar las comisiones y requerimientos que el Auditor Superior le encomiende, y mantenerlo informado sobre el desarrollo de sus actividades;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-VII.- Elaborar su Programa Operativo Anual mediante el cual se establecerán metas a cumplir, así como informar al Auditor Superior sobre el avance y cumplimiento del mismo;
+VII.- Elaborar su Subprograma Operativo Anual mediante el cual se establecerán metas a cumplir, así como informar al Auditor Superior sobre el avance y cumplimiento del mismo;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
 
@@ -823,9 +823,9 @@ XIX.- Proponer al Auditor Superior, los sistemas de evaluación y motivación pa
 
 XX.- Someter a la consideración del Auditor Superior, los programas de vacaciones del personal; procurando apegarse a la normatividad interna vigente; escuchando a los Directores y Titulares de Unidades; cuidando no afectar sus programas de actividades;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-XXI.- Coordinar, supervisar y validar la formulación y pago de la nómina del personal, así como los pagos por estímulos al desempeño, finiquitos y de cualquier otra percepción a favor de los funcionarios y empleados del Órgano de Fiscalización;
+XXI.- Coordinar, supervisar y validar la formulación y pago de la nómina del personal, así como los pagos por estímulos al desempeño, finiquitos y de cualquier otra percepción o prestación a favor de los funcionarios y empleados del Órgano de Fiscalización;
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
 
@@ -855,13 +855,13 @@ XXVII.- Dar seguimiento a las disposiciones y acuerdos del Comité de Protecció
 
 XXVIII.- Proponer al Auditor Superior, las políticas y lineamientos para la baja de documentos justificatorios y comprobatorios, así como papeles de trabajo y otros documentos que genere el Órgano de Fiscalización para efectos de destrucción, guarda y custodia de los que deban conservarse, microfilmarse o procesarse electrónicamente, sujetándose a las disposiciones legales establecidas en la materia;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-XXIX.- Realizar y vigilar la actualización del diagnóstico de las necesidades en materia de informática de las Unidades Administrativas del Órgano de Fiscalización;
+XXIX.- Realizar y vigilar la actualización del diagnóstico de las necesidades en materia de tecnologías de la información y comunicación de las Unidades Administrativas del Órgano de Fiscalización;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-XXX.- Proponer al Auditor Superior, las normas y políticas en materia de informática y comunicaciones del Órgano de Fiscalización;
+XXX.- Proponer al Auditor Superior, las normas y políticas en materia de tecnologías de la información y comunicación del Órgano de Fiscalización;
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
@@ -879,9 +879,9 @@ XXXIII.- Administrar el sistema de control de tiempos del personal del Órgano d
 
 XXXIV.- Publicar, actualizar y/o validar en su caso, en los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia; la información pública contenida en el portal de Internet e Intranet del Órgano de Fiscalización que le corresponde generar, administrar o poseer de conformidad con lo dispuesto en el presente Reglamento, Manual de Organización y demás disposiciones aplicables en la materia;
 
-> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-XXXV.- Otorgar respuesta de manera oportuna, fidedigna, clara y pertinente, y dentro de los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia, a las solicitudes de acceso a la información pública de su competencia; y
+XXXV.- Otorgar respuesta de manera oportuna, fidedigna, clara y pertinente, y en los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia, a las solicitudes de acceso a la información pública de su competencia; y
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
 
@@ -927,15 +927,15 @@ V.- Asistir al Auditor Superior en las sesiones de la Comisión de Hacienda y Pr
 
 VI.- Ejercitar las acciones judiciales, civiles, laborales y contencioso-administrativas o de cualquier otra índole en los juicios y procedimientos en que el Órgano de Fiscalización sea parte; contestar demandas, presentar pruebas y alegatos; interponer toda clase de recursos, dando el debido seguimiento a los juicios en que se actúe; y, procurar, ante quien corresponda, que se cumplimenten las resoluciones que en ellos se dicten, actuando en defensa de los intereses jurídicos del Órgano de Fiscalización;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-VII.- Representar al Órgano de Fiscalización, ante los Tribunales Federales, del Estado y ante el Tribunal de Conciliación y Arbitraje en particular, en los conflictos que se susciten con motivo de la aplicación de la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas de Baja California; formular dictámenes y demandas de terminación de la relación laboral de los servidores públicos del Órgano de Fiscalización; contestar y llevar demandas fiscales, administrativas, civiles, penales y laborales; formular pliegos de posiciones y todas aquellas promociones que se requieran en el curso de los procedimientos;
+VII.- Representar al Órgano de Fiscalización, ante los Tribunales Federales, del Estado y ante el Tribunal de Conciliación y Arbitraje en particular, en los conflictos que se susciten con motivo de la aplicación de la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California; formular dictámenes y demandas de terminación de la relación laboral de los servidores públicos del Órgano de Fiscalización; contestar y llevar demandas fiscales, administrativas, civiles, penales y laborales; formular pliegos de posiciones y todas aquellas promociones que se requieran en el curso de los procedimientos;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
 
 VIII.- Preparar, en los juicios de amparo, el informe previo y justificado que deba rendir el Órgano de Fiscalización; así como aquéllos en los que sus Servidores Públicos sean señalados como Autoridades Responsables. Intervenir cuando el Órgano de Fiscalización tenga el carácter de tercero perjudicado, y, en general, formular todas las promociones que se refieran a dichos juicios;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
 IX.- Asesorar y expedir los lineamientos sobre el levantamiento de actas administrativas y cuando sea necesario, intervenir en las mismas, que procedan como resultado de las visitas, inspecciones y auditorías que practique el Órgano de Fiscalización, así como de las que se elaboren internamente con motivo de la aplicación de la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California;
 
@@ -977,17 +977,17 @@ XVIII.- Acordar con el Auditor Superior, el despacho de los asuntos técnicos y 
 
 XIX.- Elaborar y presentar cuando lo solicite la Dirección General de Administración, su anteproyecto de Presupuesto Anual de Egresos;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-XX.- Elaborar su Programa Operativo Anual mediante el cual se establecerán metas a cumplir, así como informar al Auditor Superior sobre el avance y cumplimiento del mismo;
+XX.- Elaborar su Subprograma Operativo Anual mediante el cual se establecerán metas a cumplir, así como informar al Auditor Superior sobre el avance y cumplimiento del mismo;
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
 
 XXI.- Publicar, actualizar y/o validar en su caso, en los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia; la información pública contenida en el portal de Internet e Intranet del Órgano de Fiscalización que le corresponde generar, administrar o poseer de conformidad con lo dispuesto en el presente Reglamento, Manual de Organización y demás disposiciones aplicables en la materia;
 
-> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-XXII.- Otorgar respuesta de manera oportuna, fidedigna, clara y pertinente, y dentro de los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia, a las solicitudes de acceso a la información pública de su competencia;
+XXII.- Otorgar respuesta de manera oportuna, fidedigna, clara y pertinente, y en los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia, a las solicitudes de acceso a la información pública de su competencia;
 
 XXIII.- Mantener actualizado el sumario del Diario Oficial de la Federación y del Periódico Oficial del Estado;
 
@@ -999,9 +999,9 @@ XXIV.- Llevar a cabo el cotejo y preparación de la documentación respectiva, p
 
 XXV.- Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las labores encomendadas al personal a su cargo;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-XXVI.- Proponer al Auditor Superior para su aprobación en su caso, el ingreso, sustitución, licencias, promoción, suspensión y baja del personal a su cargo, para los fines que procedan;
+XXVI.- Proponer al Auditor Superior para su aprobación en su caso, el ingreso, sustitución, licencias, promoción, suspensión y/o rescisión del personal a su cargo, para los fines que procedan;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
 
@@ -1027,9 +1027,9 @@ XXXI.- Dictar las medidas necesarias para subsanar las deficiencias que observe 
 
 XXXII.- Coordinar y supervisar la elaboración de las propuestas de opinión y dictamen de las Iniciativas de Leyes de Ingresos de los Municipios y Tablas de Valores Catastrales Unitarios, así como la Ley de Ingresos del Estado, con sus respectivos comparativos y presentaciones, para someterlos a la consideración del Auditor Superior;
 
-> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-XXXIII.- Elaborar la normatividad que regule el procedimiento para dar seguimiento a las denuncias sobre presuntas transgresiones a la integridad institucional del Órgano de Fiscalización, para su presentación ante el Comité de Integridad del Órgano de Fiscalización; así como las modificaciones al mismo;
+XXXIII.- Fungir como vocal del Comité de Integridad del Órgano de Fiscalización, con las facultades y responsabilidades que al efecto se deriven;
 
 > <small>(ADICIONADA, P.O. 11 DE JULIO DE 2014)</small>
 
@@ -1045,37 +1045,53 @@ XXXV.- Las demás comisiones y requerimientos que le señalen expresamente el Au
 
 Para ser Director General de Asuntos Jurídicos, se requiere satisfacer los requisitos establecidos en las Fracciones I, II y VI del Artículo 13 de este Reglamento; poseer título de Licenciado en Derecho; acreditar experiencia comprobada en cargos relacionados con la Administración Pública; tener conocimientos de la legislación relativa a la fiscalización en la administración pública; y, ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
 
-(REUBICADO [N. DE E. ANTES CAPÍTULO SÉPTIMO], P.O. 25 DE MARZO DE 2011)
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JUNIO DE 2015)</small>
 
-### CAPÍTULO OCTAVO. DE LAS ATRIBUCIONES DE LA UNIDAD DE GESTIÓN DE CALIDAD
+### CAPÍTULO OCTAVO. DE LAS ATRIBUCIONES DE LA DIRECCIÓN DE GESTIÓN DE CALIDAD
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 24.
 
-La Unidad de Gestión de Calidad estará adscrita al Auditor Superior. El Titular de la Unidad tendrá a su cargo, el personal necesario para el despacho de los asuntos, correspondiéndole las siguientes atribuciones:
+La Dirección de Gestión de Calidad estará adscrita al Auditor Superior. El Titular de la Unidad tendrá a su cargo, el personal necesario para el despacho de los asuntos, correspondiéndole las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-I.- Elaborar su Programa Operativo Anual, mediante el cual deberá establecer las metas a cumplir, así como informar al Auditor Superior sobre el avance y cumplimiento del mismo;
+I.- Elaborar su Subprograma Operativo Anual, mediante el cual deberá establecer las metas a cumplir, así como informar al Auditor Superior sobre el avance y cumplimiento del mismo;
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
 
 II.- Presentar a solicitud de la Dirección General de Administración, su anteproyecto de Presupuesto Anual de Egresos;
 
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+
 III.- Proponer al Auditor Superior, las bases para el establecimiento y funcionamiento del Sistema de Gestión de Calidad del Órgano de Fiscalización;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
 
 IV.- Proponer al Auditor Superior, la certificación de los procesos operativos del Órgano de Fiscalización para el fortalecimiento del Sistema de Gestión de la Calidad;
 
-V.- Capacitar y orientar a todo el personal del Órgano de Fiscalización con relación a la implementación, seguimiento y mejora del Sistema de Gestión de la Calidad;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+V.- Capacitar y orientar al personal del Órgano de Fiscalización con relación a la implementación, seguimiento y mejora del Sistema de Gestión de la Calidad;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
 
 VI.- Planear, programar, coordinar, controlar y evaluar el funcionamiento de la Unidad y el personal a su cargo;
 
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+
 VII.- Generar y mantener registros de los resultados de las revisiones e inspecciones que se realicen con motivo del seguimiento al Sistema de Gestión de la Calidad;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
 
 VIII.- Vigilar la correcta aplicación de los procedimientos regulatorios del Sistema de Gestión de la Calidad;
 
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+
 IX.- Desempeñar las comisiones que el Auditor Superior le encomiende y mantenerlo informado sobre el desarrollo de sus actividades;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
 
 X.- Elaborar y presentar al Auditor Superior, las propuestas de opinión y dictamen de las iniciativas de las Leyes de Ingresos y de las Tablas de Valores Catastrales Unitarios Base del Impuesto Predial de los Municipios del Estado para el ejercicio fiscal correspondiente, con sus respectivos comparativos y presentaciones, cuando le sea solicitado por el Auditor Superior; y
 
@@ -1083,19 +1099,19 @@ X.- Elaborar y presentar al Auditor Superior, las propuestas de opinión y dicta
 
 XI.- Publicar, actualizar y/o validar en su caso, en los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia; la información pública contenida en el portal de Internet e Intranet del Órgano de Fiscalización que le corresponde generar, administrar o poseer de conformidad con lo dispuesto en el presente Reglamento, Manual de Organización y demás disposiciones aplicables en la materia;
 
-> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-XII.- Otorgar respuesta de manera oportuna, fidedigna, clara y pertinente, y dentro de los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia, a las solicitudes de acceso a la información pública de su competencia; y
+XII.- Otorgar respuesta de manera oportuna, fidedigna, clara y pertinente, y en los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia, a las solicitudes de acceso a la información pública de su competencia; y
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
 
 XIII.- Las demás que le señalen el Manual de Organización, o que le confiera el Auditor Superior.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 25.
 
-Para ser Titular de la Unidad de Gestión de Calidad, se requiere cumplir con los requisitos de las Fracciones I, II y VI del Artículo 13 de este Reglamento; poseer título profesional de Contador Público, Licenciado en Contaduría, Licenciado en Administración de Empresas, Licenciado en Administración Pública o postgrado en alguna materia afín; y, ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
+Para ser Titular de la Dirección de Gestión de Calidad, se requiere cumplir con los requisitos de las Fracciones I, II y VI del Artículo 13 de este Reglamento; poseer título profesional de Contador Público, Licenciado en Contaduría, Licenciado en Administración de Empresas, Licenciado en Administración Pública o postgrado en alguna materia afín; y, ser de reconocida probidad en el ejercicio de su profesión y en el desempeño de la función pública que le haya sido encomendada.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE JUNIO DE 2012)</small>
 
@@ -1113,25 +1129,29 @@ I.- Acordar con el Auditor Superior la Planeación de Auditoría Integral a Enti
 
 II.- Acordar con el Auditor Superior los mecanismos para dar seguimiento al cumplimiento de la Planeación de Auditoría Integral a Entidades Fiscalizables, así como la implementación práctica de los mismos;
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+III.- Verificar que el Programa Anual de Auditorías se integre conforme a los objetivos y alcances acordados en la planeación integral;
+
 > <small>(ADICIONADA, P.O. 11 DE JULIO DE 2014)</small>
 
-III.- Informar mensualmente al Auditor Superior sobre el cumplimiento del Programa Anual de Auditorías;
+IV.- Informar mensualmente al Auditor Superior sobre el cumplimiento del Programa Anual de Auditorías;
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
 
-IV.- Elaborar y presentar al Auditor Superior, las propuestas de opinión y dictamen de las Iniciativas de las Leyes de Ingresos y de las Tablas de Valores Catastrales Unitarios Base del Impuesto Predial de los Municipios del Estado para el ejercicio fiscal correspondiente, con sus respectivos comparativos y presentaciones, cuando le sea solicitado por el Auditor Superior;
+V.- Elaborar y presentar al Auditor Superior, las propuestas de opinión y dictamen de las Iniciativas de las Leyes de Ingresos y de las Tablas de Valores Catastrales Unitarios Base del Impuesto Predial de los Municipios del Estado para el ejercicio fiscal correspondiente, con sus respectivos comparativos y presentaciones, cuando le sea solicitado por el Auditor Superior;
 
 > <small>(ADICIONADA, P.O. 11 DE JULIO DE 2014)</small>
 
-V.- Publicar, actualizar y/o validar en su caso, en los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia; la información pública contenida en el portal de Internet e Intranet del Órgano de Fiscalización que le corresponde generar, administrar o poseer de conformidad con lo dispuesto en el presente Reglamento, Manual de Organización y demás disposiciones aplicables en la materia;
+VI.- Publicar, actualizar y/o validar en su caso, en los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia; la información pública contenida en el portal de Internet e Intranet del Órgano de Fiscalización que le corresponde generar, administrar o poseer de conformidad con lo dispuesto en el presente Reglamento, Manual de Organización y demás disposiciones aplicables en la materia;
 
-> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-VI.- Otorgar respuesta de manera oportuna, fidedigna, clara y pertinente, y dentro de los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia, a las solicitudes de acceso a la información pública de su competencia; y
+VII.- Otorgar respuesta de manera oportuna, fidedigna, clara y pertinente, y en los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia, a las solicitudes de acceso a la información pública de su competencia; y
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
 
-VII.- Las demás que le señalen el Manual de Organización, o que le confiera el Auditor Superior.
+VIII.- Las demás que le señalen el Manual de Organización, o que le confiera el Auditor Superior.
 
 > <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
 
@@ -1165,9 +1185,9 @@ IV.- Elaborar y presentar al Auditor Superior, las propuestas de opinión y dict
 
 V.- Publicar, actualizar y/o validar en su caso, en los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia; la información pública contenida en el portal de Internet e Intranet del Órgano de Fiscalización que le corresponde generar, administrar o poseer de conformidad con lo dispuesto en el presente Reglamento, Manual de Organización y demás disposiciones aplicables en la materia;
 
-> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-VI.- Otorgar respuesta de manera oportuna, fidedigna, clara y pertinente, y dentro de los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia, a las solicitudes de acceso a la información pública de su competencia; y
+VI.- Otorgar respuesta de manera oportuna, fidedigna, clara y pertinente, y en los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia, a las solicitudes de acceso a la información pública de su competencia; y
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
 
@@ -1195,49 +1215,65 @@ Las Subdirecciones de Auditoría, para el despacho de los asuntos de su competen
 
 Las Subdirecciones de Auditoría tendrán las siguientes atribuciones de carácter general:
 
-I.- Auxiliar al Director de Auditoría en el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+I.- Coadyuvar con el Director de Auditoría en el desempeño de sus funciones;
 
 II.- Proponer a su superior inmediato, la resolución de los asuntos de su competencia;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-III.- Elaborar y presentar a su superior inmediato, cuando lo solicite la Dirección General de Administración, su anteproyecto de Presupuesto Anual de Egresos; así como de los Departamentos a su cargo;
+III.- Elaborar y presentar a su superior inmediato, cuando lo solicite la Dirección General de Administración, su anteproyecto de Presupuesto Anual de Egresos; así como de los Departamentos de su adscripción;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-IV.- Analizar y evaluar los programas operativos anuales que elaboren los Jefes de Departamento a su cargo, para someterlos a la consideración del Director de Auditoría;
+IV.- Coordinar y validar la formulación y presentación de los subprogramas operativos anuales que elaboren los Jefes de Departamento de su adscripción, para someterlos a la consideración del Director de Auditoría;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-V.- Elaborar su Programa Operativo Anual mediante el cual se establecerán metas a cumplir, así como informar a su superior inmediato, sobre el avance y cumplimiento del mismo;
+V.- Elaborar su Subprograma Operativo Anual mediante el cual se establecerán metas a cumplir, así como informar a su superior inmediato, sobre el avance y cumplimiento del mismo;
 
-VI.- Coordinar las auditorías, visitas e inspecciones practicadas por los departamentos a su cargo, en su ámbito territorial;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-VII.- Participar, cuando así corresponda, en las confrontas que se realicen con los servidores públicos de las Entidades Fiscalizables;
+VI.- Coadyuvar en la coordinación de las auditorías, visitas e inspecciones practicadas por los departamentos de su adscripción;
 
-VIII.- Asegurar la calidad técnica de los proyectos de pliegos de observaciones, de las recomendaciones e Informes de Resultados a su cargo, para ser sometidos a la consideración del Director de Auditoría;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-IX.- Valorar la integración y calidad técnica de la Carpeta de Informe de Resultados de Cuenta Pública de las Entidades Fiscalizables, misma que será sometida a la consideración del Director de Auditoría;
+VII.- Participar y en su caso presidir, y tomar acuerdos, en las confrontas que se realicen con los servidores públicos de las Entidades Fiscalizables;
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+VIII.- Asegurar la calidad técnica y coordinar la presentación de los proyectos de pliegos de observaciones, de las recomendaciones, Informes de Resultados a su cargo y demás Informes derivados del proceso de fiscalización para ser sometidos a la consideración del Director de Auditoría;
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+IX.- Coadyuvar en la valoración de la integración y calidad técnica de la Carpeta de Informe de Resultados de Cuenta Pública de las Entidades Fiscalizables, misma que será sometida a la consideración del Director de Auditoría;
 
 X.- Informar a su superior inmediato de las irregularidades que se detecten en la revisión de la cuenta pública, en el ejercicio de sus atribuciones que puedan constituir responsabilidades administrativas o penales;
 
-XI.- En coordinación con el Director de Auditoría, planear, programar, coordinar, controlar y evaluar el funcionamiento de los Departamentos a su cargo;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-XII.- En coordinación con el Director de Auditoría, dictar las medidas necesarias para subsanar las deficiencias que observe en las labores de los Departamentos a su cargo;
+XI.- En coordinación con el Director de Auditoría, planear, programar, coordinar, controlar y evaluar el funcionamiento de los Departamentos de su adscripción;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-XIII.- Analizar y proponer al Director de Auditoría, para su consideración, los asuntos relacionados con el ingreso, sustitución, licencias, promoción, suspensión y baja del personal a su cargo;
+XII.- Coadyuvar con el Director de Auditoría, en la formulación y dirección de las acciones necesarias para subsanar las deficiencias que observe en las labores de los Departamentos de su adscripción;
 
-XIV.- Valorar y presentar al Director de Auditoría, los proyectos de informes y opiniones resultantes de las comisiones y funciones diversas encomendadas; y
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+XIII.- Analizar y proponer al Director de Auditoría, para su consideración, los asuntos relacionados con el ingreso, sustitución, licencias, promoción, suspensión y/o rescisión del personal a su cargo;
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+XIV.- Elaborar y presentar al Director de Auditoría, los proyectos de informes y opiniones resultantes de las comisiones y funciones diversas encomendadas;
 
 > <small>(ADICIONADA, P.O. 11 DE JULIO DE 2014)</small>
 
 XV.- Publicar, actualizar y/o validar en su caso, en los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia; la información pública contenida en el portal de Internet e Intranet del Órgano de Fiscalización que le corresponde generar, administrar o poseer de conformidad con lo dispuesto en el presente Reglamento, Manual de Organización y demás disposiciones aplicables en la materia;
 
-> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-XVI.- Otorgar respuesta de manera oportuna, fidedigna, clara y pertinente, y dentro de los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia, a las solicitudes de acceso a la información pública de su competencia; y
+XVI.- Otorgar respuesta de manera oportuna, fidedigna, clara y pertinente, y en los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia, a las solicitudes de acceso a la información pública de su competencia; y
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
 
@@ -1261,9 +1297,9 @@ Los Jefes de Departamento, tendrán las siguientes atribuciones de carácter gen
 
 I.- Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las labores del Departamento a su cargo;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-II.- Elaborar su Programa Operativo Anual, mediante el cual se establecerán metas a cumplir; y, presentarlo a su superior inmediato, informándole sobre el avance y cumplimiento del mismo;
+II.- Elaborar su Subprograma Operativo Anual, mediante el cual se establecerán metas a cumplir; y, presentarlo a su superior inmediato, informándole sobre el avance y cumplimiento del mismo;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
 
@@ -1273,19 +1309,21 @@ III.- Proponer a su superior inmediato, la resolución de los asuntos de su comp
 
 IV.- Elaborar y presentar a su superior inmediato, cuando lo solicite la Dirección General de Administración, su anteproyecto de Presupuesto Anual de Egresos;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-V.- Proponer a su superior inmediato, para su aprobación en su caso, aquellos asuntos relativos al ingreso, sustitución, licencias, promoción, suspensión y baja del personal del Departamento a su cargo, para los fines que procedan;
+V.- Proponer a su superior inmediato, para su aprobación en su caso, aquellos asuntos relativos al ingreso, sustitución, licencias, promoción, suspensión y/o rescisión del personal del Departamento a su cargo, para los fines que procedan;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
 
 VI.- Asesorar en asuntos de su competencia, a los funcionarios del Órgano de Fiscalización, desahogando las consultas que les sean formuladas; y, ejecutando los estudios, trabajos y comisiones que les encomienden sus superiores;
 
-VII.- Promover y participar en la estructuración de los programas de capacitación del personal adscrito al Departamento a su cargo;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+VII.- Promover y participar en la estructuración de las propuestas de capacitación del personal adscrito al Departamento a su cargo;
 
-VIII.- Recibir permanentemente, actualización en el área de su competencia, conforme a los programas de capacitación establecidos por el Órgano de Fiscalización;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+VIII.- Recibir permanentemente, actualización en el área de su competencia, conforme al programa de desarrollo de capacidades establecido por el Órgano de Fiscalización;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
 
@@ -1295,9 +1333,9 @@ IX.- Elaborar en coordinación con su superior inmediato, los programas de vacac
 
 X.- Publicar, actualizar y/o validar en su caso, en los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia; la información pública contenida en el portal de Internet e Intranet del Órgano de Fiscalización que le corresponde generar, administrar o poseer de conformidad con lo dispuesto en el presente Reglamento, Manual de Organización y demás disposiciones aplicables en la materia;
 
-> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-XI.- Otorgar respuesta de manera oportuna, fidedigna, clara y pertinente, y dentro de los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia, a las solicitudes de acceso a la información pública de su competencia; y
+XI.- Otorgar respuesta de manera oportuna, fidedigna, clara y pertinente, y en los términos establecidos en la Ley de Transparencia y normatividad aplicable en la materia, a las solicitudes de acceso a la información pública de su competencia; y
 
 XII.- Las demás que les confiera el Auditor Superior y su superior inmediato, dentro de la esfera de sus atribuciones.
 
@@ -1311,21 +1349,21 @@ A los Jefes de Departamento adscritos al Subauditor Superior y las Direcciones d
 
 I.- Elaborar el anteproyecto del Programa Anual de Auditorías; así como supervisar que las auditorías, visitas e inspecciones practicadas por el personal a su cargo, se realicen de acuerdo a los manuales y procedimientos de auditoría institucionales;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-II.- Verificar la elaboración, en su caso, de la solicitud de información a las Entidades Fiscalizables, a los particulares y terceros que hubieren celebrado operaciones con las Entidades Fiscalizables sujetas a revisión, así como la documentación que sea necesaria para realizar las labores que les asigne este Reglamento;
+II.- Verificar la elaboración, en su caso, de la solicitud de información a las Entidades Fiscalizables, a los particulares y/o terceros que hubieren celebrado operaciones con las Entidades Fiscalizables sujetas a revisión, así como la documentación que sea necesaria para realizar las labores que les asigne este Reglamento;
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
 III.- Informar a su superior inmediato de las irregularidades que se detecten en la revisión de la cuenta pública, en el ejercicio de sus atribuciones que puedan constituir responsabilidades administrativas o penales;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-IV.- Revisar los proyectos de pliegos de observaciones, las recomendaciones e Informes de Resultados a su cargo, que sean sometidos a la consideración de su superior inmediato;
+IV.- Dirigir y validar la formulación de los proyectos de pliegos de observaciones, las recomendaciones, Informes de Resultados a su cargo y demás informes derivados del Proceso de Fiscalización, que sean sometidos a la consideración de su superior inmediato;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-V.- Participar, cuando así corresponda, en las confrontas que se realicen con los servidores públicos de las Entidades Fiscalizables;
+V.- Participar, coordinar y tomar acuerdos en conjunto con sus superiores, en las reuniones de confronta que se realicen con los servidores públicos de las Entidades Fiscalizables;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
 
@@ -1429,9 +1467,9 @@ Para ser Jefe del Departamento de Enlace Legislativo, se requiere cumplir con lo
 
 El Departamento de Seguimiento al Gasto Federalizado estará adscrito al Auditor Superior, y contará con el personal necesario para el cumplimiento de sus funciones, correspondiéndole la atención de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-I.- Elaborar el Programa Operativo Anual del Departamento de Seguimiento al Gasto Federalizado, mediante el cual se establecerán metas a cumplir; y, someterlo a consideración del Auditor Superior, informándole sobre el avance y cumplimiento del mismo;
+I.- Elaborar el Subprograma Operativo Anual del Departamento de Seguimiento al Gasto Federalizado, mediante el cual se establecerán metas a cumplir; y, someterlo a consideración del Auditor Superior, informándole sobre el avance y cumplimiento del mismo;
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
 
@@ -1483,9 +1521,9 @@ Para ser Jefe del Departamento de Seguimiento al Gasto Federalizado, se requiere
 
 El Departamento de Relaciones Institucionales estará adscrito a la Dirección de Normatividad y Mejora Continua, y contará con el personal necesario para el cumplimiento de sus funciones correspondiéndole la atención de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-I.- Elaborar el Programa Operativo Anual del Departamento de Relaciones Institucionales, mediante el cual se establecerán metas a cumplir; y, presentarlo a su superior inmediato, informándole sobre el avance y cumplimiento del mismo;
+I.- Elaborar el Subprograma Operativo Anual del Departamento de Relaciones Institucionales, mediante el cual se establecerán metas a cumplir; y, presentarlo a su superior inmediato, informándole sobre el avance y cumplimiento del mismo;
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
 
@@ -1563,11 +1601,17 @@ Para ser Jefe del Departamento de Normatividad y Control de Procesos de Auditor�
 
 Corresponde a los Departamentos de Auditoría Financiera, dentro del ámbito de su competencia, además de lo señalado en los Artículos 33 y 34 de este Reglamento, la atención de los siguientes asuntos:
 
-I.- Sugerir al superior inmediato, el personal que practicará las visitas, inspecciones y auditorías previstas en el programa anual respectivo;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-II.- Formular los proyectos de pliegos de observaciones y las recomendaciones resultantes de la revisión de la Cuenta Pública de Patrimonio, Ingresos, Egresos y Deuda Pública de las Entidades Fiscalizables; y, analizar los elementos aportados para su solventación;
+I.- Presentar a su superior inmediato, la propuesta del personal que practicará las visitas, inspecciones y auditorías previstas en el programa anual respectivo;
 
-III.- Formular los proyectos de Informes de Resultados y dictámenes de la revisión de la Cuenta Pública Anual de las Entidades Fiscalizables; y
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+II.- Dirigir y validar la formulación de los proyectos de pliegos de observaciones y las recomendaciones resultantes de la revisión de la Cuenta Pública de Patrimonio, Ingresos, Egresos y Deuda Pública de las Entidades Fiscalizables; y, aprobar el análisis de los elementos aportados para su solventación;
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+III.- Revisar los proyectos de Informes de Resultados y dictámenes de la revisión de la Cuenta Pública Anual de las Entidades Fiscalizables; así como la integración de la Carpeta de Informe de Resultado; y
 
 IV.- Cualquier otra función inherente a su cargo que le sea requerida o encomendada por su superior inmediato o por el Auditor Superior.
 
@@ -1587,9 +1631,13 @@ Para ser Jefe del Departamento de Auditoría Financiera se requiere cumplir con 
 
 Corresponde a los Departamentos de Auditoría Presupuestal y Programática, dentro del ámbito de su competencia, además de lo señalado en los Artículos 33 y 34 de este Reglamento, el despacho de los siguientes asuntos:
 
-I.- Sugerir al superior inmediato, el personal que practicará las visitas, inspecciones y auditorías previstas en el programa anual respectivo;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-II.- Formular los proyectos de pliegos de observaciones, resultantes de la revisión de los Pronósticos de Ingresos y Presupuestos de Egresos de las Entidades Fiscalizables; así como respecto de sus programas y subprogramas; y, analizar los elementos aportados para su solventación;
+I.- Presentar a su superior inmediato, la propuesta del personal que practicará las visitas, inspecciones y auditorías previstas en el programa anual respectivo;
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+II.- Dirigir y validar la formulación de los proyectos de pliegos de observaciones, resultantes de la revisión de los Pronósticos de Ingresos y Presupuestos de Egresos de las Entidades Fiscalizables; así como respecto de sus programas y subprogramas; y, aprobar el análisis de los elementos aportados para su solventación;
 
 III.- Verificar que se lleve a cabo el seguimiento de manera sistemática, ordenada y objetiva a los programas operativos anuales de las Entidades Fiscalizables, a fin de comprobar si éstos cumplen con las actividades, tareas o metas de acuerdo al Plan de Desarrollo respectivo, los objetivos generales de sus acuerdos de creación, proyectos especiales, políticas sectoriales o regionales;
 
@@ -1625,11 +1673,15 @@ Para ser Jefe del Departamento de Auditoría Presupuestal y Programática, se re
 
 Corresponde a los Departamentos de Auditoría a Obra Pública, dentro del ámbito de su competencia, además de lo señalado en los Artículos 33 y 34 de este Reglamento, la atención de los siguientes asuntos:
 
-I.- Sugerir al superior inmediato, el personal que practicará las visitas, inspecciones y auditorías previstas en el programa anual respectivo;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+I.- Presentar a su superior inmediato, la propuesta del personal que practicará las visitas, inspecciones y auditorías previstas en el programa anual respectivo;
 
 II.- Evaluar que los recursos aprobados se hayan aplicado con apego a las disposiciones legales y normatividad aplicables a la obra pública, verificando el estado físico y financiero de los programas de la misma, sobre procesos concluidos y la parte ejecutada de los procesos no concluidos;
 
-III.- Formular los proyectos de pliegos de observaciones y las recomendaciones, resultantes de la revisión de la obra pública de las Entidades Fiscalizables; y, analizar los elementos aportados para su solventación;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+III.- Dirigir y validar la formulación de los proyectos de pliegos de observaciones y las recomendaciones, resultantes de la revisión de la obra pública de las Entidades Fiscalizables; y, aprobar el análisis de los elementos aportados para su solventación;
 
 IV.- Elaborar el informe de revisión de obra pública, así como las observaciones no solventadas que se considerarán en el proyecto de Informe de Resultados de la revisión de la obra pública de las Entidades Fiscalizables; y
 
@@ -1651,13 +1703,23 @@ Para ser Jefe del Departamento de Auditoría a Obra Pública, se requiere ademá
 
 Corresponde al Departamento de Evaluación de Desempeño, dentro del ámbito de su competencia, además de lo señalado en el Artículo 33 de este Reglamento, el despacho de los siguientes asuntos:
 
-I.- Sugerir al superior inmediato, el personal que practicará las evaluaciones de desempeño, visitas e inspecciones, previstas en el programa anual respectivo;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-II.- Formular los proyectos de recomendaciones resultantes de la evaluación de desempeño practicada a las Entidades Fiscalizables; y, analizar los elementos aportados para su atención;
+I.- Presentar a su superior inmediato, la propuesta del personal que practicará las evaluaciones de desempeño, visitas e inspecciones, previstas en el programa anual respectivo;
 
-III.- Elaborar los proyectos de informes de resultados de las evaluaciones de desempeño de las Entidades Fiscalizables; y
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-IV.- Cualquier otra función inherente a su cargo que le sea requerida o encomendada por su superior inmediato o por el Auditor Superior.
+II.- Dirigir y validar la formulación de los proyectos de recomendaciones resultantes de la evaluación de desempeño practicada a las Entidades Fiscalizables; y, aprobar el análisis de los elementos aportados para su atención;
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+III.- Elaborar los proyectos de informes de resultados de las evaluaciones de desempeño de las Entidades Fiscalizables;
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+IV.- Elaborar y presentar a su superior inmediato las propuestas de opinión y dictamen de las Iniciativas de las Leyes de Ingresos y de las Tablas de Valores Catastrales Unitarios Base del Impuesto Predial de los Municipios del Estado para el ejercicio fiscal correspondiente, con sus respectivos comparativos y presentaciones, cuando le sea solicitado por éste; y
+
+V.- Cualquier otra función inherente a su cargo que le sea requerida o encomendada por su superior inmediato o por el Auditor Superior.
 
 > <small>(ADICIONADO, P.O. 11 DE JULIO DE 2014)</small>
 
@@ -1675,13 +1737,13 @@ Para ser Jefe del Departamento de Auditoría y Evaluación del Desempeño, se re
 
 El Departamento de Tecnologías de la Información y Comunicación, estará adscrito a la Dirección General de Administración, y, contará con el personal necesario para el cumplimiento de sus funciones, correspondiéndole la atención de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-I.- Asesorar en materia de informática y comunicaciones a las Unidades Administrativas del Órgano de Fiscalización;
+I.- Asesorar en materia de Tecnologías de la Información y Comunicación a las Unidades Administrativas del Órgano de Fiscalización;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-II.- Analizar, diseñar, desarrollar, implementar, mantener y documentar los sistemas y aplicaciones de informática que se requieran en las diversas Unidades Administrativas del Órgano de Fiscalización, destinados a satisfacer las necesidades planeadas por éste, y, en su caso, proponer la contratación de servicios externos complementarios;
+II.- Analizar, diseñar, desarrollar, implementar, mantener y documentar los sistemas y aplicaciones tecnológicas que se requieran en las diversas Unidades Administrativas del Órgano de Fiscalización, destinados a satisfacer las necesidades planeadas por éste, y, en su caso, proponer la contratación de servicios externos complementarios;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
 
@@ -1703,9 +1765,9 @@ VI.- Elaborar la documentación necesaria para la administración y control del 
 
 VII.- Evaluar y recomendar acerca de los sistemas y equipos de cómputo existentes en el mercado, susceptibles de utilización según las necesidades y presupuesto del Órgano de Fiscalización;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-VIII.- Diseñar, desarrollar, implementar y actualizar conforme a las Tecnologías de la Información, el portal de Internet y de Intranet del Órgano de Fiscalización; y
+VIII.- Diseñar, desarrollar, implementar y actualizar conforme a las Tecnologías de la Información y Comunicación, el portal de Internet y de Intranet del Órgano de Fiscalización; y
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
@@ -1735,49 +1797,45 @@ I.- Llevar a cabo el control administrativo de los recursos humanos de acuerdo c
 
 II.- Revisar la elaboración de los nombramientos del personal del Órgano de Fiscalización, así como los movimientos y los casos de terminación de los efectos de dichos nombramientos, de acuerdo con las disposiciones jurídicas aplicables;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-III.- Elaborar la nómina para el pago del personal del Órgano de Fiscalización, de acuerdo a las plazas autorizadas por el Auditor Superior; verificando que se realicen las retenciones que legalmente procedan; y, presentarlas a la autorización de su jefe inmediato;
+III.- Vigilar la actualización de los expedientes del personal del Órgano de Fiscalización;
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+IV.- Proponer, para aprobación de su superior inmediato, las políticas, normas y procedimientos relativos a la capacitación del personal del Órgano de Fiscalización; y, verificar su aplicación;
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-IV.- Vigilar la actualización de los expedientes del personal del Órgano de Fiscalización;
-
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
-
-V.- Proponer, para aprobación de su superior inmediato, las políticas, normas y procedimientos relativos a la capacitación del personal del Órgano de Fiscalización; verificar su aplicación;
+V.- Calificar mediante el sistema establecido, las evaluaciones del personal del Órgano de Fiscalización;
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-VI.- Calificar mediante el sistema establecido, las evaluaciones del personal del Órgano de Fiscalización;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
-
-VII.- Proponer, coordinar y actualizar los convenios de intercambio en materia de servicio social, de capacitación y adiestramiento del personal del Órgano de Fiscalización, con otras instituciones afines, nacionales o extranjeras;
+VI.- Proponer, coordinar y actualizar los convenios de intercambio en materia de servicio social, de capacitación y adiestramiento del personal del Órgano de Fiscalización, con otras instituciones afines, nacionales o extranjeras;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
 
-VIII.- Organizar y coordinar los cursos y eventos de capacitación, tanto internos como externos; y, proponer las normas relativas a éstos, a las que deberán sujetarse el personal del Órgano de Fiscalización;
+VII.- Organizar y coordinar los cursos y eventos de capacitación, tanto internos como externos; y, proponer las normas relativas a éstos, a las que deberán sujetarse el personal del Órgano de Fiscalización;
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-IX.- Coordinar la capacitación al personal de nuevo ingreso mediante cursos de inducción;
+VIII.- Coordinar la capacitación al personal de nuevo ingreso mediante cursos de inducción;
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
 
-X.- Someter a consideración de su superior inmediato, la contratación de expositores, instructores, cursos y servicios externos, en materia de capacitación;
+IX.- Someter a consideración de su superior inmediato, la contratación de expositores, instructores, cursos y servicios externos, en materia de capacitación;
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
 
-XI.- Someter, a consideración de la Dirección General de Administración, los programas de vacaciones del personal, procurando apegarse a la normatividad interna vigente, cuidando no afectar sus programas de actividades;
+X.- Someter, a consideración de la Dirección General de Administración, los programas de vacaciones del personal, procurando apegarse a la normatividad interna vigente, cuidando no afectar sus programas de actividades;
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
 
-XII.- Valorar y someter a la aprobación de la Dirección General de Administración, los nombramientos del personal, así como controlar altas y bajas de los mismos; y, vigilar la actualización de la plantilla y el archivo del recurso humano; y
+XI.- Valorar y someter a la aprobación de la Dirección General de Administración, los nombramientos del personal, así como controlar altas y bajas de los mismos; y, vigilar la actualización de la plantilla y el archivo del recurso humano; y
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2014)</small>
 
-XIII.- Cualquier otra función inherente a su cargo que le sea requerida o encomendada por su superior inmediato o por el Auditor.
+XII.- Cualquier otra función inherente a su cargo que le sea requerida o encomendada por su superior inmediato o por el Auditor.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 53], P.O. 11 DE JULIO DE 2014)</small>
 
@@ -1899,13 +1957,15 @@ VII.- Presentar a su superior inmediato trimestralmente, el informe de avance pr
 
 VIII.- Revisar y analizar la documentación necesaria para el ejercicio del Presupuesto y presentar al Auditor Superior, por conducto de su jefe inmediato, lo que corresponda a las erogaciones que deban ser autorizadas conforme a las disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-IX.- Revisar la elaboración y efectuar los pagos correspondientes a las obligaciones contraídas con cargo al presupuesto aprobado al Órgano de Fiscalización, con sujeción a la legislación aplicable; y
+IX.- Revisar la elaboración y efectuar los pagos correspondientes a las obligaciones contraídas con cargo al presupuesto aprobado al Órgano de Fiscalización, con sujeción a la legislación aplicable;
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2012)</small>
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-X.- Cualquier otra función inherente a su cargo que le sea requerida o encomendada por su jefe inmediato o por el Auditor Superior.
+X.- Elaborar la nómina para el pago del personal del Órgano de Fiscalización, de acuerdo a las plazas autorizadas por el Auditar Superior; verificando que se realicen las retenciones que legalmente procedan; y, presentarlas a la autorización de su superior inmediato; y,
+
+XI.- Cualquier otra función inherente a su cargo que le sea requerida o encomendada por su jefe inmediato o por el Auditor Superior.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 57], P.O. 11 DE JULIO DE 2014)</small>
 
@@ -2094,6 +2154,20 @@ Los asuntos que se encuentren pendientes al entrar en vigor las presentes Reform
 Una vez emitidas las presentes Reformas, se deberán realizar las adecuaciones necesarias en la estructura del Órgano de Fiscalización.
 
 P.O. 11 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes Reformas deberán publicarse en el Periódico Oficial del Estado y en los portales de Internet e Intranet del Órgano de Fiscalización.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos que se encuentren pendientes al entrar en vigor las presentes Reformas y que deban pasar a una Dirección o de un Departamento a otro u otros, continuarán su trámite y serán resueltos por aquél o aquéllos a quienes se les atribuye la competencia en las presentes Reformas.
+
+###### ARTÍCULO TERCERO.
+
+Una vez emitidas las presentes Reformas, se deberán realizar las adecuaciones necesarias en la estructura del Órgano de Fiscalización.
+
+P.O. 19 DE JUNIO DE 2015.
 
 ###### ARTÍCULO PRIMERO.
 
