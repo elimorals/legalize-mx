@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-policia-preventiva-y-transito-del-747
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-07"
-last_updated: "2014-12-01"
+last_updated: "2015-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DE LA POLICÍA PREVENTIVA Y TRÁNSITO DEL MUNICIPIO DE AHOME DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 7 de mayo de 2010.
 
@@ -291,7 +291,7 @@ c) Policía Tercero; y,
 
 d) Policía.
 
-El policía preventivo de carrera de escala básica es el servidor público responsable de disuadir conductas antisociales, mediante acciones de prevención de infracciones cívicas y delitos y, en su caso, efectuar detenciones en flagrancia, en el ejercicio de facultades de intervención, ejecución y de naturaleza eminentemente tácticas, en apoyo al policía de carrera superior jerárquico que le corresponda, para lo cual debe cumplir con adecuados perfiles: médico, de conocimientos generales, de personalidad, de capacidad físico-atlética, de la función policial, de conocimientos jurídicos, de formación ética, de intervención policial, de técnicas básicas policiales, de primeros auxilios, de preparación física, de manejo armas (sic) de fuego y de actividades específicas en interacción con el entorno socio-familiar y con la capacidad para aplicar, de conformidad con la ley y de manera razonada, ética y eficientemente, las técnicas y procedimientos requeridos para la intervención que corresponda.
+El policía preventivo de carrera de escala básica es el servidor público responsable de disuadir conductas antisociales, mediante acciones de prevención de infracciones cívicas y delitos y, en su caso, efectuar detenciones en flagrancia, en el ejercicio de facultades de intervención, ejecución y de naturaleza eminentemente tácticas, en apoyo al policía de carrera superior jerárquico que le corresponda, para lo cual debe cumplir con adecuados perfiles: médico, de conocimientos generales, de personalidad, de capacidad físico-atlética, de la función policial, de conocimientos jurídicos, de formación ética, de intervención policial, de técnicas básicas policiales, de primeros auxilios, de preparación física, de manejo armas de fuego y de actividades específicas en interacción con el entorno socio-familiar y con la capacidad para aplicar, de conformidad con la ley y de manera razonada, ética y eficientemente, las técnicas y procedimientos requeridos para la intervención que corresponda.
 
 ###### ARTÍCULO 17.
 
@@ -723,7 +723,7 @@ III. Efectuar la detención de los probables responsables que sean sorprendidos 
 
 IV. Hacer uso solo de la fuerza física indispensable que el caso requiera, para asegurar a quienes opongan resistencia al cumplimento de su deber, con estricto respeto de los Derechos Humanos y al cumplimiento general de la ley;
 
-V. Tomar las medidas de protección necesarias, respecto de enajenados mentales, ebrios, drogadictos, vagos, malviviente (sic), mendigos, personas extraviadas o menores y ponerlos, en todo caso, inmediatamente en conocimiento o a disposición de la autoridad competente;
+V. Tomar las medidas de protección necesarias, respecto de enajenados mentales, ebrios, drogadictos, vagos, malviviente, mendigos, personas extraviadas o menores y ponerlos, en todo caso, inmediatamente en conocimiento o a disposición de la autoridad competente;
 
 VI. Vigilar que se otorgue cuidado y respeto a nuestros símbolos patrios, a las instituciones y autoridades públicas, así como a los monumentos, estatutos, recintos oficiales y a lugares históricos y culturales;
 
@@ -1363,15 +1363,25 @@ c).- El Director de operaciones de la Policía Municipal;
 
 IV. De oficio
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+V. Vía telefónica, al número 072, por parte de la Ciudadanía, misma que una vez recepcionada la queja, deberá ser ratificada físicamente por el quejoso ante la Comisión de Honor y Justicia.
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+VI. Vía Correo Electrónico, cuando la Ciudadanía, a través de la Dirección http://www.ahome.gob.mx/dependencias/honor y justicia.shtlm, en el Portal Oficial del H. Ayuntamiento de Ahome, capture los datos que se solicitan en el formato, mismos que deberán ser claros y veraces, para contar con los elementos esenciales para iniciar el procedimiento administrativo.
+
 > <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2014)</small>
 
 Se iniciará el Procedimiento de oficio, sin necesidad de que se reciba la queja por escrito, cuando los hechos o irregularidad presuntamente cometida por el elemento de Policía sea del dominio público a través de cualquier medio informativo o existan los elementos de prueba suficientes para iniciar el procedimiento administrativo sin que tenga efectos la prescripción de conformidad al Artículo 99 del Reglamento.
 
 ### CAPÍTULO III. DE LA QUEJA O SOLICITUD DE INTERVENCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 77.
 
-La queja o solicitud de intervención deberá presentarse en forma verbal o escrita, y deberá contener, por lo menos, los siguientes requisitos:
+La queja o solicitud de intervención, deberá presentarse en forma verbal o escrita, debiendo contener por lo menos, los siguientes requisitos:
 
 I. Nombre y domicilio particular del quejoso o de quien promueve en su representación, cuando se trate de un menor de edad;
 
@@ -1380,6 +1390,10 @@ II. Fecha, hora y lugar en que sucedieron los hechos;
 III. Narración breve y sucinta de los hechos que se considere constituyen una conducta contraria a este u otros ordenamientos legales; y,
 
 IV. El ofrecimiento de las pruebas relacionándolas con los hechos; si se tuvieren al momento de presentar la queja.
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+V. Correo electrónico y número telefónico del Ciudadano, cuando la denuncia sea interpuesta vía telefónica al número 072 y vía correo electrónico a través, de las direcciones autorizadas por la Comisión de Honor y Justicia, http://www.ahome.gob.mx/dependencias/honor y justicia.shtlm, considerando los ya citados en las fracciones I, II, III y IV, del presente artículo.
 
 ###### ARTÍCULO 78.
 
@@ -1531,23 +1545,37 @@ La prescripción no operará cuando se hayan (sic) decretado la reserva del caso
 
 ### CAPÍTULO VIII. DE LA PROCEDENCIA DE LOS ASUNTOS
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 103.
 
-Inmediatamente después de que se reciba la queja o solicitud de intervención de la Comisión de Honor y Justicia, se emitirá un auto en que se admita el asunto para su inicio formal o se deseche de plano.
+Inmediatamente después de que se recepcione la queja o solicitud de intervención, ante la comisión de Honor y Justicia, se emitirá un auto en que se admita el asunto para su inicio formal o se deseche de plano.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 104.
 
-Se decretará la improcedencia de un asunto en los casos siguientes:
+Se decretará la improcedencia de un asunto de los casos siguientes:
 
 I. Cuando la falta de que se acuse al elemento de policía no esté contemplada en el presente reglamento; y/o sea constitutiva de delitos;
 
 II. Cuando haya prescrito la protestad (sic) para sancionar la falta.
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+III. Cuando la queja sea interpuesta vía telefónica, al número 072, y el quejoso no proporcione su nombre, teléfono y claridad de los hechos que se denuncien.
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+IV. Se haya recepcionado la queja vía correo electrónico y el Ciudadano, omita capturar los datos correctamente en el formato establecido, mismo que limite a los integrantes de la Comisión a recabar más información respecto de los hechos que se denuncian.
+
 ### CAPÍTULO IX. DEL SOBRESEIMIENTO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 105.
 
-el sobreseimiento no prejuzga sobre la responsabilidad en que haya incurrido la parte acusada y procede en un procedimiento Administrativo en los casos siguientes:
+El Sobreseimiento no prejuzga sobre la responsabilidad en que haya incurrido la parte acusada y procede un procedimiento administrativo en los casos siguientes:
 
 I. El quejoso se desista expresamente de la acción intentada;
 
@@ -1556,6 +1584,14 @@ II. El quejoso fallezca durante el procedimiento;
 III. Sobrevenga o se advierta durante el Procedimiento o al dictar resolución definitiva, algún de los casos del improcedencia a que se refiere el apartado correspondiente;
 
 IV. No se haya efectuado ningún acto procesal durante el término de 50 días.
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+V. Cuando la queja se haya recepcionado vía telefónica al número 072, y hayan transcurrido 15 días hábiles, sin que el quejoso ratifique, y /o efectúe algún acto procesal ante la Comisión.
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+VI. Se haya recepcionado la queja vía correo electrónico y el quejoso no se presente a ratificar su denuncia ante la Comisión, en un término de 15 días hábiles o bien no se haya motivado algún acto procesal.
 
 ### CAPÍTULO X. DE LOS IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
 
@@ -1967,7 +2003,7 @@ I. Verificar la veracidad y autenticidad de la información y documentación apo
 
 II. Verificar que los criterios y políticas de selección sean aplicados adecuadamente;
 
-III. Integrar los archivos y expedientes los (sic) resultados de las evaluaciones realizadas a los aspirantes;
+III. Integrar los archivos y expedientes los resultados de las evaluaciones realizadas a los aspirantes;
 
 IV. Resolver las controversias que se susciten durante el desarrollo del proceso de selección;
 
@@ -2480,3 +2516,7 @@ P.O. 21 DE NOVIEMBRE DE 2014.
 P.O. 1 DE DICIEMBRE DE 2014.
 
 ÚNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el “Órgano Oficial del Gobierno del Estado”.
+
+P.O. 19 DE JUNIO DE 2015.
+
+ÚNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el “Órgano Oficial del Gobierno del Estado".
