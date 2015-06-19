@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-proteccion-al-ambiente-del-municipio-de-ahome-775
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-29"
-last_updated: "2010-11-29"
+last_updated: "2015-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77596&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SIN"
 ---
 # REGLAMENTO DE PROTECCION AL AMBIENTE DEL MUNICIPIO DE AHOME, SINALOA
 
-REGLAMENTO DE PROTECCION AL AMBIENTE DEL MUNICIPIO DE AHOME DEL ESTADO DE SINALOA
+REGLAMENTO DE PROTECCIÓN AL AMBIENTE DEL MUNICIPIO DE AHOME DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el lunes 29 de noviembre de 2010.
 
@@ -233,6 +233,10 @@ LXXIV. Vibraciones. Oscilaciones de escasa amplitud causadas por la reflexión d
 
 LXXV. Zonas (sic) Sujeta a Conservación Ecológica. Tipo de área natural protegida de competencia municipal.
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+LXXVI.- Fuego: Emisión de luz y calor producida por combustión de una materia, "refiriéndose a la quema de residuos de cosecha"
+
 ### CAPITULO II.- "Facultades, Obligaciones y Competencia del Municipio y su Coordinación y Concurrencia con el Estado y la Federación"
 
 ###### Artículo 6.
@@ -287,7 +291,9 @@ XII. Establecer y operar en convenio o coordinación con la dependencia estatal 
 
 XIII. Regular el funcionamiento de los sistemas de recolección, almacenamiento, transporte, rehúso, tratamiento y disposición final de residuos sólidos municipales, con sujeción en las Normas Oficiales Mexicanas en la materia;
 
-XIV. La prevención y control de la contaminación por ruido, vibraciones, energía térmica y lumínica y olores provenientes de fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como la vigilancia del cumplimiento de las disposiciones, que en su caso, resulten aplicables a las fuentes móviles de jurisdicción municipal;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+XIV. La prevención y control de la contaminación por ruido, vibraciones, energía térmica y lumínica y olores provenientes de fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así mismo regular el uso de fuego para los propietarios y poseedores de los terrenos agrícolas forestales y colindantes por la emisión de gases de efecto invernadero, al momento de quemar basura o residuos de cosecha (soca), así como la vigilancia del cumplimiento de las disposiciones, que en su caso, resulten aplicables a las fuentes móviles de jurisdicción municipal;
 
 XV. La prevención y control de la contaminación de las aguas residuales que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población del municipio, así como las aguas nacionales que tengan asignadas conforme a la legislación local;
 
@@ -769,7 +775,7 @@ Las disposiciones contenidas en el presente capitulo tiene por objeto prevenir, 
 
 ###### Artículo 50.
 
-Para prevenir y controlar la contaminación de la atmósfera en el Municipio de Ahome, deberá de tomarse en cuenta que la calidad del aire deberá de ser satisfactoria en los asentamientos humanos del municipio de acuerdo a los parámetros fijados por las Normas Oficiales Mexicanas y los Anexos Técnicos Complementarios derivados del presente Reglamento; y (sic)
+Para prevenir y controlar la contaminación de la atmósfera en el Municipio de Ahome, deberá de tomarse en cuenta que la calidad del aire deberá de ser satisfactoria en los asentamientos humanos del municipio de acuerdo a los parámetros fijados por las Normas Oficiales Mexicanas y los Anexos Técnicos Complementarios derivados del presente Reglamento; y
 
 ###### Artículo 51.
 
@@ -2179,15 +2185,17 @@ No serán objeto de inspección las casas - habitación, salvo que se presuma qu
 
 El ejercicio de las acciones de vigilancia, LA DIRECCION por conducto del cuerpo de inspección autorizado esta facultado, en caso de riesgo grave e inminente de desequilibrio ecológico o de daño al ambiente o a la salud publica, para decretar a título de medida de seguridad, la clausura temporal, parcial o total de la fuente contaminante o la retención de materiales o substancias contaminantes, para cuyo efecto se levantará acta de diligencia y la colocación de los sellos de clausura observando las prevenciones establecidas para las inspecciones.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2015)</small>
+
 ###### Artículo 264.
 
-Cuando se trate de infracciones al presente reglamento que no sean actividades propias o rutinarias de una empresa o establecimiento sino que constituyan infracciones por actos ocasionales y/o eventuales como son la tala o poda de árboles sin permiso, el tirar o depositar basura en sitios no permitidos, desperdiciar agua, etc. el inspector deberá de instrumentar un Acta de Inspección Circunstanciada para lo cual bastara la presencia de dos testigos y en la cual se consignaran los hechos observados al momento de instrumentar el acta.
+Cuando se trate de infracciones al presente reglamento que no sean actividades propias o rutinarias de una empresa o establecimiento si no que constituyan infracciones por actos ocasionales y/o eventuales como son la tala o poda de árboles sin permiso, el tirar o depositar basura en sitios no permitidos, quemar basura o residuos de cosecha (soca), desperdiciar agua, etc. el inspector deberá levantar, un acta de Inspección Circunstanciada para lo cual bastará la presencia de dos testigos y en la cual se asentarán los hechos observados al momento (sic) redactar el acta.
 
-En dicha acta deberá de recabar los datos del infractor tanto nombre como domicilio particular y los datos del sitio en el cual se cometió la infracción, en caso de que el infractor se negara a proporcionar la información requerida, el inspector podrá solicitar el apoyo de la fuerza publica y detener momentáneamente al infractor sin exceder un tiempo de 24 horas con la finalidad de que el infractor proporcione la información necesaria relativa a su nombre y domicilio.
+En dicha acta deberá de recabar los datos del infractor tanto nombre como domicilio particular y los datos del sitio en el cual se cometió la infracción, en caso de que el infractor se negare a proporcionar la información requerida, el inspector podrá solicitar el auxilio de la fuerza pública, asentar la media filiación del infractor y de ser posible tomarle fotografías o video, las que formarán parte del acta respectiva.
 
-Así mismo (sic), se dará oportunidad a la persona con la que se entendió la diligencia para manifestar lo que a su derecho convenga, en relación con los hechos, actos u omisiones asentados en el Acta de Inspección Circunstanciada, lo cual deberá quedar incluido por escrito en dicha acta, formando parte de su contenido.
+Asimismo, se dará oportunidad a la persona con la que se entendió la diligencia para manifestar lo que a su derecho convenga, en relación con los hechos, actos u omisiones asentados en el Acta de Inspección Circunstanciada, lo cual deberá quedar incluido por escrito en dicha acta, formando parte de su contenido.
 
-A continuación se procederá a firmar el acta de inspección por la persona con quien se entendió la diligencia, por los testigos y por el propio inspector, quien entregará copia del acta de inspección al infractor. Si la persona con quien se entendió la diligencia o los testigos, se negasen a firmar el acta de inspección, o el interesado se negase a aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte su validez y valor probatorio.
+A continuación se procederá a firmar el Acta de inspección por la persona con quien se entendió la diligencia, por los testigos y por el propio inspector, quien entregará copia del Acta de inspección al infractor. Si la persona con quien se entendió la diligencia o los testigos, se negasen a firmar el acta de inspección o el infractor, se negase a aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte su validez y valor probatc .o.
 
 ###### Artículo 265.
 
@@ -2234,6 +2242,10 @@ Con excepción de lo establecido en los Artículo (sic) 82, 83, 84 y 265 del pre
 I. Amonestación;
 
 II. Multa por el equivalente de veinte a veinte mil días de salario mínimo general vigente en el Municipio de Ahome, Sinaloa en el momento de imponer la sanción de conformidad con lo que establezca el Anexo Técnico Complementario correspondiente.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2015)</small>
+
+En el caso de quema de soca y esquilmos agrícolas, se impondrá una multa por el equivalente de 41 hasta 160 días de salario mínimo general vigente en el Municipio de Ahome, Sinaloa, por hectárea afectada en el momento de imponer la sanción, al propietario, rentador, comodatario o comodante, usufructuario, a la persona física o moral a cuyo nombre se encuentre el permiso de siembra del predio afectado y en su caso a la persona o personas que se encuentren en flagrancia realizando la quema de la soca. La anterior sanción se impondrá tomando en cuenta el daño ecológico, los daños ocasionados, el riesgo provocado y la puesta en peligro de bienes y personas; de conformidad con lo establecido en el anexo técnico complementario ATC-003-MEDAM-2003. En casos extraordinarios, podrá otorgarse un permiso de quema de residuos de cosecha, ante la solicitud del propietario, rentador, comodatario o comodante, usufructuario, a la persona física o moral a cuyo nombre se encuentre el permiso de siembra, mediante la solicitud por escrito emitida por el Patronato de Sanidad Vegetal.
 
 Si una vez vencido el plazo concedido por la autoridad para subsanar la o las infracciones que se hubieren cometido, resultare que dicha infracción o infracciones aún subsisten, podrán imponerse multas por cada día que transcurra sin obedecer el mandato, sin que el total de las multas exceda del monto máximo permitido, conforme a la fracción I de este artículo.
 
@@ -2501,6 +2513,10 @@ XCVII. Proporcionar información falsa o tendenciosa al presentar una denuncia p
 
 XCVIII. Prestar servicios y/o realizar obras o actividades que de acuerdo a lo establecido en el Plan Sectorial de Zonificación del centro poblado de que se trate resulten incompatibles con la zona de ubicación.
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2015)</small>
+
+XCIX. Llevar a cabo la quema de basura o residuos de cosecha (soca) o esquilmos en predios agrícolas.
+
 ###### Artículo 279.
 
 En caso de que en la resolución correspondiente se haya decretado como sanción de la clausura temporal o definitiva, parcial o total de la fuente contaminante, el personal de inspección autorizado, levantará acta de la diligencia de clausura.
@@ -2618,3 +2634,9 @@ PRESIDENTE MUNICIPAL.
 LIC. BETHOVEN PACHECO GUTIERREZ.
 
 SECRETARIO DEL AYUNTAMIENTO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE JUNIO DE 2015.
+
+ÚNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el "Órgano Oficial del Gobierno del Estado".
