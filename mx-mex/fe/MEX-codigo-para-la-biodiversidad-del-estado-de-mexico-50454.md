@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2015-01-26"
+last_updated: "2015-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE JUNIO DE 2015.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -577,17 +577,21 @@ XXXVI. Organizar el Sistema Estatal de Atención a la Denuncia Ciudadana Ambient
 
 XXXVII. Fomentar la incorporación, en los distintos niveles educativos, de programas de contenido ecológico y de educación ambiental, de investigación científica y tecnológica, que incluyan el tema del cambio climático para la prevención y difusión de sus efectos, pudiendo crear institutos de estudios ambientales y organismos necesarios para su cumplimiento;
 
-XXXVIII. Imponer las sanciones correspondientes por infracciones a este Libro en el ámbito de su competencia;
+> <small>(ADICIONADA, G.G. 19 DE JUNIO DE 2015)</small>
 
-XXXIX. Hacer cumplir el presente Libro, su Reglamento y demás ordenamientos aplicables; y
+XXXVIII. Promover, a través de convenios de coordinación, concertación y ejecución con la Federación, secretarías de Estado, municipios, organizaciones sociales y privadas, la implementación de proyectos productivos que beneficien directamente a la población de aquellos municipios que cuenten con áreas naturales protegidas y zonas forestales, conforme a lo establecido en el presente Código.
+
+XXXIX. Imponer las sanciones correspondientes por infracciones a este Libro en el ámbito de su competencia;
+
+XL. Hacer cumplir el presente Libro, su Reglamento y demás ordenamientos aplicables; y
 
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
 
-XL. Determinar el uso restringido de la infraestructura vial; y
+XLI. Determinar el uso restringido de la infraestructura vial; y
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
-XLI. Las demás que conforme a este libro y otras disposiciones aplicables le correspondan.
+XLII. Las demás que conforme a este libro y otras disposiciones aplicables le correspondan.
 
 ### CAPITULO IV. DE LAS FACULTADES DE LAS AUTORIDADES MUNICIPALES
 
@@ -947,9 +951,9 @@ II. Los lineamientos y estrategias ambientales para la preservación, conservaci
 
 I. La Secretaría publicará por una vez, el aviso del inicio del proceso de elaboración del proyecto de programas o de sus modificaciones en la Gaceta del Gobierno y en un diario de mayor circulación en el Estado de México;
 
-II. La Secretaría elaborará los proyectos de programas o sus modificaciones y en coordinación con las dependencias involucradas, definirán los elementos de articulación de dichos programas;
+II La Secretaría elaborará los proyectos de programas o sus modificaciones y en coordinación con las dependencias involucradas, definirán los elementos de articulación de dichos programas;
 
-III. Una vez que haya sido integrado el proyecto, la Secretaría publicará, por una vez, el aviso de que se inicia la consulta pública, en la Gaceta del Gobierno y en un diario de circulación estatal de acuerdo con las siguientes bases:
+III Una vez que haya sido integrado el proyecto, la Secretaría publicará, por una vez, el aviso de que se inicia la consulta pública, en la Gaceta del Gobierno y en un diario de circulación estatal de acuerdo con las siguientes bases:
 
 a). En las publicaciones se indicará los plazos y mecanismos para garantizar la participación ciudadana, así como los lugares y las fechas de las audiencias públicas que se llevarán a cabo en ese periodo;
 
@@ -2545,6 +2549,10 @@ XII. Mantener en vigor, la fianza correspondiente durante la vigencia de la auto
 
 228. El Ejecutivo Estatal a través de la Secretaría, promoverá con los sectores social, privado, público y con el Consejo Consultivo de Protección a la Biodiversidad y Desarrollo Sostenible, la constitución del Fondo para Proyectos Ambientales que estará destinado a impulsar, apoyar los proyectos medioambientales que sean sometidos a su consideración y que por su vinculación con las estrategias estatales de desarrollo sostenible resulten seleccionados.
 
+> <small>(ADICIONADO, G.G. 19 DE JUNIO DE 2015)</small>
+
+Tendrán prioridad para acceder a dicho fondo los proyectos productivos presentados por los sectores público, privado y social enfocados a las áreas naturales protegidas y forestales, así como a la construcción de centros ecoturísticos, a la preservación, cuidado, vigilancia y reforestación de los bosques y que beneficien directamente a la población del municipio en el cual se pretenda desarrollar el proyecto.
+
 ###### Artículo 2.
 
 229. Las disposiciones de este Libro, se aplicarán en la realización de actos de inspección, vigilancia, ejecución de medidas de seguridad, determinación de infracciones administrativas, de comisión de delitos, sanciones, procedimientos, recursos administrativos; cuando se trate de asuntos de competencia del Estado y de los Municipios regulados por el presente Código, sin perjuicio de lo establecido de manera específica en los Libros que lo conforman. En las materias anteriormente señaladas se aplicarán supletoriamente las disposiciones del Código de Procedimientos Administrativos del Estado de México y Ley Federal sobre Metrología y Normalización. Tratándose de materias referidas en este Libro que se encuentran reguladas por los otros Libros que conforman el Código, éste será de aplicación supletoria por lo que se refiere a los procedimientos de inspección y vigilancia.
@@ -3183,7 +3191,7 @@ VIII. Omita la instalación de sistemas o plantas de tratamiento de aguas residu
 
 289. Se deberá de realizar la reparación del daño causado al ambiente previo dictamen técnico emitido por la autoridad correspondiente, independientemente del derecho de toda persona para demandar ante los tribunales competentes la reparación del daño a la salud o a su patrimonio.
 
-###### Articulo 2.
+###### Artículo 2.
 
 290. Es derecho de toda persona u organización social denunciar de manera pacífica y respetuosa ante la Secretaría, ante la autoridad estatal, municipal o Ministerio Público competente los hechos, actos u omisiones que puedan producir desequilibrio ecológico, daños al ambiente y a la biodiversidad o alteraciones en la salud o calidad de vida de la población en cualquiera de las formas contempladas en este Libro.
 
@@ -3251,7 +3259,7 @@ La autoridad deberá en todo caso, cuando la denuncia no sea de su competencia p
 
 ### CAPITULO VI. DEL RECURSO DE INCONFORMIDAD
 
-###### Articulo 2.
+###### Artículo 2.
 
 299. Sin perjuicio de las sanciones penales o administrativas que resulten procedentes toda persona física o jurídica colectiva que contamine, dañe al ambiente o afecte los elementos y recursos naturales, los bienes ambientales o a la biodiversidad será responsable y estará obligada a reparar los daños causados de conformidad con la legislación aplicable.
 
@@ -7375,7 +7383,7 @@ El sacrificio de animales deberá ser humanitario y se hará en los locales adec
 
 ###### Artículo 6.
 
-74. Los animales mamíferos destinados al sacrificio deberán tener un período de descanso en los corrales del rastro de un mínimo de doce horas antes de éste durante el cual deberán recibir agua suficiente salvo los animales lactantes que deban sacrificarse inmediatamente, en lo que respecta a las aves deberán serlo inmediatamente después de su arribo al rastro.
+74. Los animales mamíferos destinados al sacrificio deberán tener un período de descanso en los corrales del rastro de un mínimo de doce horas antes de éste durante el cual deberán recibir agua suficiente salvo los animales lactantes que deban sacrificarse inmediatamente, en lo que respecta a las aves deberán serlo (sic) inmediatamente después de su arribo al rastro.
 
 ###### Artículo 6.
 
@@ -7391,7 +7399,7 @@ Queda estrictamente prohibido arrojar a los puercos al agua hirviendo sino hasta
 
 ###### Artículo 6.
 
-77. En ningún caso las reses y, otros de semejante naturaleza presenciarán el sacrificio de sus congéneres. Queda prohibido estrictamente el sacrificio de hembras en el período de tiempo próximo al parto.
+77. En ningún caso las reses y otros de semejante naturaleza presenciarán el sacrificio de sus congéneres. Queda prohibido estrictamente el sacrificio de hembras en el período de tiempo próximo al parto.
 
 ###### Artículo 6.
 
@@ -7804,3 +7812,9 @@ TERCERO. El Ejecutivo, expedirá las reformas a las disposiciones del Reglamento
 CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se oponga al presente Decreto.
 
 QUINTO. El Ejecutivo Estatal, en el ámbito de su competencia, proveerá lo necesario para dar cumplimiento al presente Decreto, expidiendo al efecto, las disposiciones respectivas.
+
+G.G. 19 DE JUNIO DE 2015.
+
+PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
