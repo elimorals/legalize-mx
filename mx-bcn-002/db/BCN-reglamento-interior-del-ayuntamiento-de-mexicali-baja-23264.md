@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-mexicali-baja-23264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2014-08-22"
+last_updated: "2015-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2015.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -47,7 +47,7 @@ SECRETARIO DEL XVII AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
 
 ACUERDO DE CREACION DEL REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI
 
-EXPOSICION DE MOTIVOS.
+EXPOSICION DE MOTIVOS...
 
 Por lo anteriormente expuesto y fundado y en nuestra calidad de integrantes de este Ayuntamiento sometemos a consideración el siguiente Acuerdo de cabildo en el siguiente:
 
@@ -578,6 +578,10 @@ Las propuestas que impliquen la modificación, derogación, abrogación, o adici
 ###### ARTICULO 42.
 
 Contenido de las propuestas de acuerdo.- Las propuestas de acuerdo de los integrantes del Ayuntamiento y de los particulares previstas en el artículo anterior, deberán ser presentadas por escrito y firmadas, acompañando una exposición de motivos en la cual manifieste su autor o autores, las consideraciones jurídicas, políticas, sociales o económicas que justifiquen, expliquen y motiven la propuesta.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2015)</small>
+
+Sin perjuicio de los requisitos exigidos en el párrafo anterior, dichas propuestas podrán, en su caso, y siempre que se cuente con la información para tal efecto, estar acompañadas por una estimación financiera que establezca el costo beneficio, sobre el impacto que pueda tener en los recursos materiales, humanos y financieros del ayuntamiento, así como la descripción de los resultados esperados y del número de beneficiarios, en los cuales se puede ver reflejado el impacto de las propuestas de acuerdo.
 
 > <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2008)</small>
 
@@ -1181,7 +1185,7 @@ IV.- Las demás que el Ayuntamiento y este Reglamento le encomienden.
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
-ARTICULO 91 BlS.- Comisión de Asuntos Fronterizos.- Tendrá las siguientes atribuciones:
+ARTICULO 91 BIS.- Comisión de Asuntos Fronterizos.- Tendrá las siguientes atribuciones:
 
 I. Proponer al Cabildo o al Presidente Municipal, normatividad en programas y acciones a favor de los migrantes;
 
@@ -1491,7 +1495,7 @@ Las presentes modificaciones entrarán en vigor al día siguiente de su publicac
 
 P.O. 3 DE DICIEMBRE DE 2004.
 
-ACUERDO POR EL CUAL SE REFORMA AL ARTICULO 41 DEL REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI BAJA CALIFORNIA.
+ACUERDO POR EL CUAL SE REFORMA AL ARTÍCULO 41 DEL REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI BAJA CALIFORNIA.
 
 EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
@@ -1501,7 +1505,7 @@ ACUERDO POR EL CUAL SE REFORMAN A LOS ARTÍCULOS 59 Y 71 DEL REGLAMENTO INTERIOR
 
 PRIMERO.- LAS PRESENTES REFORMAS ENTRARÁN EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN.
 
-SEGUNDO.- EN CASO DE CONTROVERSlA ENTRE LAS PRESENTES REFORMAS Y OTRAS DISPOSICIONES REGLAMENTARIAS, HABRÁ DE ATENDERSE LO QUE DISPONE EL PRESENTE ACUERDO.
+SEGUNDO.- EN CASO DE CONTROVERSIA ENTRE LAS PRESENTES REFORMAS Y OTRAS DISPOSICIONES REGLAMENTARIAS, HABRÁ DE ATENDERSE LO QUE DISPONE EL PRESENTE ACUERDO.
 
 P.O. 17 DE NOVIEMBRE DE 2006.
 
@@ -1531,7 +1535,7 @@ ACUERDO POR EL QUE SE REFORMAN Y ADICIONAN LAS FRACCIONES III Y IV DEL ARTÍCULO
 
 P.O. 27 DE MARZO DE 2009.
 
-ACUERDO POR EL QUE SE MODIFICA LA DENOMINACION DE LA SECCION III DEL CAPITULO SEGUNDO DEL REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI, Y SE ADICIONA UN ARTICULO 17 BIS AL MISMO REGLAMENTO.
+ACUERDO POR EL QUE SE MODIFICA LA DENOMINACIÓN DE LA SECCIÓN III DEL CAPÍTULO SEGUNDO DEL REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE MEXICALI, Y SE ADICIONA UN ARTÍCULO 17 BIS AL MISMO REGLAMENTO.
 
 ÚNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
@@ -1566,3 +1570,7 @@ P.O. 21 DE MARZO DE 2014.
 P.O. 22 DE AGOSTO DE 2014.
 
 ÚNICO: EL SIGUIENTE ACUERDO ENTRARA EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN, EN EL PERIÓDICO OFICIAL, ÓRGANO DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 19 DE JUNIO DE 2015.
+
+ÚNICO: LA PRESENTE REFORMA ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
