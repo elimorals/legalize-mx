@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2015-04-04"
+last_updated: "2015-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2015.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -949,9 +949,13 @@ Los recintos del pleno del Supremo Tribunal, de sus salas y de los juzgados, son
 
 El Supremo Tribunal de Justicia funcionará en pleno o en sala colegiada y estará integrado por el número de magistrados que fije la Ley Orgánica del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2002)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE JUNIO DE 2015)</small>
 
-En los términos establecidos por dicho ordenamiento, la representación y buena marcha del Poder Judicial corresponden al Magistrado Presidente del Supremo Tribunal de Justicia del Estado, quien será elegido por el Pleno para un período de dos años y podrá ser reelecto.
+EI Supremo Tribunal de Justicia, actuando en Pleno, tendrá a su cargo la representación jurídica del Poder Judicial. Esta representación podrá delegarla, indistintamente, en favor de su Presidente, de algún servidor público del Poder Judicial o comisión de éstos, en los términos que señalen la Ley Orgánica y el Reglamento.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 20 DE JUNIO DE 2015)</small>
+
+La buena marcha del Poder Judicial corresponde al Magistrado Presidente, quien será elegido por el Pleno para un período de dos años y podrá ser reelecto.
 
 > <small>(ADICIONADO, P.O. 26 DE JULIO DE 2014)</small>
 
@@ -3286,6 +3290,12 @@ P.O. 4 DE ABRIL DE 2015.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 486 POR EL QUE SE APRUEBA REFORMAR EL ARTÍCULO 99 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 20 DE JUNIO DE 2015.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 507 POR EL QUE SE APRUEBA REFORMAR EL SEGUNDO PÁRRAFO, Y ADICIONAR UN TERCER PÁRRAFO HACIÉNDOSE EL CORRIMIENTO DE LOS PÁRRAFOS SUBSECUENTES, DEL ARTÍCULO 68 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBE (SIC) Y SOBERANO DE COLIMA".]
+
+ÚNICO.- EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTÍCULO ÚNICO.
 
