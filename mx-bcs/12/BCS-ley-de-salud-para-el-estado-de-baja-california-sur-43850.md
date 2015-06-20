@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-salud-para-el-estado-de-baja-california-sur-43850"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2014-06-30"
+last_updated: "2015-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JUNIO DE 2015.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el día 31 de diciembre de 2004.
 
@@ -251,7 +251,7 @@ V.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente, que
 
 VI.- Impulsar un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
 
-VII.- Fomentar los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección; y (sic)
+VII.- Fomentar los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección; y
 
 VIII.- Promover un sistema de regulación y fomento sanitario que verifique que los productos y servicios no sean nocivos para la salud.
 
@@ -474,6 +474,8 @@ XII.- La asistencia social a los grupos vulnerables, física, psicológica y eco
 XIII.- La prevención y atención a los grupos de personas mayores de 60 años, en un área de especialización denominada geriatría, y
 
 XIV.- Las demás que establezca esta Ley o disposiciones legales aplicables.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], B.O. 20 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO 33.
 
@@ -797,7 +799,7 @@ III.- La realización obligatoria de programas para prevención del uso de subst
 
 IV.- La creación de instituciones públicas especializadas en el tratamiento e internamiento de personas con padecimientos mentales crónicos;
 
-V.- Las demás acciones que directa o indirectamente contribuyan al fomento y conservación de la salud mental de la población; y (sic)
+V.- Las demás acciones que directa o indirectamente contribuyan al fomento y conservación de la salud mental de la población; y
 
 VI.- Un programa permanente de diagnóstico, prevensión (sic) y tratamiento de enfermedades mentales.
 
@@ -1141,7 +1143,7 @@ IV.- Promover investigaciones químicas, biológicas, sociales y económicas, en
 
 > <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2012)</small>
 
-V.- Recomendar los planes de alimentación y los procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimento por la población en general y, según el caso, de la ingesta máxima, y promover en la esfera de su competencia a dicho consumo a través de los medios de comunicación masiva; y (sic)
+V.- Recomendar los planes de alimentación y los procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimento por la población en general y, según el caso, de la ingesta máxima, y promover en la esfera de su competencia a dicho consumo a través de los medios de comunicación masiva; y
 
 VI.- Advertir a la población mediante los medios de comunicación masiva, sobre el peligro del consumo de aquellos productos que sean considerados nocivos para la salud.
 
@@ -1685,7 +1687,7 @@ Los propietarios, encargados o responsables de los establecimientos en que se ex
 
 ###### ARTÍCULO 181.
 
-Se prohíbe el consumo de bebidas alcohólicas en el interior de planteles educativos, cementerios, oficinas públicas, centros de trabajo, así como en cualquier lugar en que exista concentración pública de menores de edad.
+Se prohíibe el consumo de bebidas alcohólicas en el interior de planteles educativos, cementerios, oficinas públicas, centros de trabajo, así como en cualquier lugar en que exista concentración pública de menores de edad.
 
 Así mismo queda prohibida la publicidad de bebidas alcohólicas en todas sus formas, en eventos infantiles de cualquier naturaleza.
 
@@ -3236,3 +3238,9 @@ El Titular del Poder Ejecutivo del Estado, en coordinación con el Poder Legisla
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que contravengan el presente decreto.
+
+B.O. 20 DE JUNIO DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- La Junta de Gobierno tendrá un plazo que no excederá de 60 días hábiles, posteriores a la entrada en vigor del presente Decreto para la expedición del Reglamento Interior del REPSS.
