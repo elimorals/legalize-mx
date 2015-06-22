@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-desarrollo-urbano-del-estado-de-michoacan-de-58038"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-12-26"
-last_updated: "2015-06-12"
+last_updated: "2015-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2015.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 12 DE JUNIO DE 2015.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 22 DE JUNIO DE 2015.</small>
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el miércoles 26 de diciembre de 2007.
 
@@ -1799,11 +1799,11 @@ Para evaluar los resultados obtenidos en la administración y operación urbana 
 
 El resultado de las evaluaciones de los programas a que se refiere el artículo anterior, serán entregadas a las autoridades entrantes, para que en su caso determinen las modificaciones totales o parciales de los programas de desarrollo urbano.
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
+(REFORMADO, P.O. 28 DE MAYO DE 2015) (F. DE E., P.O. 22 DE JUNIO DE 2015)
 
 ###### ARTÍCULO 109.
 
-Los programas de desarrollo urbano, sólo podrán ser modificados parcialmente, siempre y cuando no se alteren las políticas del ordenamiento del territorio y la imagen objetivo del desarrollo urbano en los centros de población establecidos y cuando existan proyectos de inversión pública o privada de impacto estatal, regional o municipal, mediante un estudio técnico justificativo y previa opinión de la Secretaría y aprobación de cabildo.
+Los programas de desarrollo urbano, sólo podrán ser modificados parcialmente, siempre y cuando no se alteren las políticas del ordenamiento del territorio y la imagen objetivo del desarrollo urbano en los centros de población establecidos y cuando existan proyectos de inversión pública o privada de impacto estatal, regional o municipal. Sujeto al procedimiento dispuesto en el artículo 91 y demás formalidades dispuestas en este Código.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE MAYO DE 2015)</small>
 
