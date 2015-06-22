@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2015-04-20"
+last_updated: "2015-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -141,13 +141,17 @@ Toda educación que realicen los particulares en el territorio del Estado será 
 
 Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar, así como el deber de protegerlo y conservarlo. Todas las autoridades en la esfera de sus atribuciones velarán por la conservación y fomento de los recursos naturales del Estado.
 
-> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2015)</small>
 
 ###### Artículo 7o.
 
-A.- El Gobierno organizará un sistema de planeación del desarrollo estatal que garantice equidad y justicia en el crecimiento de la economía, fomentando la independencia y la democratización política, social y cultural del Estado.
+A.- El Gobierno organizará un sistema de planeación del desarrollo estatal que garantice equidad y justicia en el crecimiento de la economía, impulse la competitividad fomentando la independencia y la democratización política, social y cultural del Estado. La competitividad se entenderá como el conjunto de condiciones necesarias para generar un mayor crecimiento económico, promoviendo la inversión y la generación de empleo.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2011)</small>
 
 Las organizaciones civiles podrán participar en la realización de actividades sociales, cívicas, económicas y culturales relacionadas con el desarrollo armónico y ordenado de las distintas comunidades. Así mismo, podrán coadyuvar en la identificación y precisión de las demandas y aspiraciones de la sociedad para dar contenido al Plan de Desarrollo del Estado, a los planes municipales y a los programas respectivos, propiciando la participación de los habitantes en la realización de las obras y servicios públicos.
+
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2011)</small>
 
 La Ley determinará las formas de participación de estas organizaciones, y la designación de controles sociales que vigilen el cumplimiento de las actividades señaladas en el párrafo anterior.
 
@@ -2884,3 +2888,9 @@ El presente Decreto iniciará su vigencia a partir del día 1° de enero de 2017
 ###### ARTÍCULO SEGUNDO.
 
 En los años 2015 y 2016, el informe referido en el Artículo 46 Fracción IV, será entregado al Congreso del Estado dentro del período comprendido entre el 15 y el 30 de noviembre, posteriormente se entregará dentro del periodo comprendido entre el 15 y el 30 de septiembre.
+
+P.O. 22 DE JUNIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
