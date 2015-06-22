@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "2015-06-15"
+last_updated: "2015-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2015.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -1565,6 +1565,12 @@ VI.- Los fundamentos de derecho, procurando citar los preceptos legales o princi
 
 VII.- En su caso, el valor de lo demandado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2015)</small>
+
+La solicitud de divorcio deberá cumplir con los requisitos señalados en el párrafo anterior, con excepción del contenido en su Fracción V. Asimismo, se deberá incluir la propuesta de convenio previsto en el Artículo 289 del Código Civil, y ofrecer todas las pruebas tendientes a acreditar la procedencia de la propuesta de dicho convenio.
+
 ###### ARTICULO 224.
 
 Admitida la demanda con los documentos y copias prevenidos, se correrá traslado de ella a la persona o personas contra quienes se proponga, y se les emplazará para que la contesten dentro de nueve días. Contra el auto que admita una demanda, no procede recurso alguno, contra el que la niegue procede el recurso de queja.
@@ -1599,6 +1605,12 @@ Las excepciones que se tengan, cualquiera que sea su naturaleza, se harán valer
 
 La demanda deberá contestarse negándola, confesándola u oponiendo excepciones. El demandado deberá referirse a todos y cada uno de los hechos comprendidos en la demanda, afirmándolos, negándolos, expresando los que ignore por no ser propios, o refiriéndolos como crea que tuvieron lugar. Se tendrán por admitidos los hechos sobre los que el demandado no suscitare explícitamente controversia, sin admitírsele prueba en contrario. La negación pura y simple del derecho importa la confesión de los hechos; la confesión de éstos no entraña la confesión del derecho.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2015)</small>
+
+En los casos de divorcio el demandado podrá manifestar su conformidad con el convenio propuesto o, en su caso, presentar su contrapropuesta, debiendo anexar las pruebas respectivas relacionadas con la misma.
+
 ###### ARTICULO 229.
 
 Las excepciones y la reconvención se discutirán al propio tiempo que la demanda y se decidirán en la misma sentencia, salvo las excepciones de incompetencia y litispendencia que serán objeto de artículo de previo y especial pronunciamiento. En los términos de los artículos 35 y 36 respectivamente.
@@ -1617,9 +1629,21 @@ Confesada expresamente la demanda en todas sus partes o manifestando el actor su
 
 Si las cuestiones controvertidas fueren puramente de derecho, se pondrán los autos a disposición de las partes para alegatos, por el término común de seis días. Lo dispuesto en este artículo no es aplicable en los juicios o procedimientos en cuya resolución se afecten intereses de menores o incapacitados.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2015)</small>
+
+En los casos de divorcio, si los cónyuges llegan a un acuerdo respecto al convenio, el Juez dictará un auto en el cual decrete la disolución del vínculo matrimonial y la aprobación del convenio, sin necesidad de dictar sentencia.
+
 ###### ARTICULO 233.
 
 Contestada la demanda o en su caso, la reconvención, o transcurridos los términos para ello, a petición de parte o de oficio se recibirá el juicio a prueba señalándose un término de seis días para que las partes ofrezcan las pruebas que deseen rendir.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2015)</small>
+
+En los casos de divorcio, no se abrirá el periodo probatorio, en virtud de que las pruebas relacionadas con el convenio propuesto debieron ofrecerse al momento de presentarse la solicitud y, en su caso, la contestación a la misma, por lo que únicamente se ordenará su preparación y se señalará fecha para su desahogo en el incidente correspondiente.
 
 ### CAPITULO II. Reglas Generales de la Prueba
 
@@ -2411,6 +2435,12 @@ En el propio auto en que el Juez admita las pruebas que se ofrezcan, se citará 
 
 Antes de recibir las pruebas que se hayan admitido, se intentará la conciliación de las partes mediante el arbitraje del Juez, en términos de lo establecido por el Artículo 69 de este Código. Si no se llega a un acuerdo se continuará con la audiencia en los términos previstos en el párrafo anterior.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2015)</small>
+
+Tratándose de divorcio, el Juez lo decretará una vez que se haya contestado la solicitud presentada o en su defecto, haya precluido el término para contestarla. En caso de diferencias en los convenios propuestos, el Juez, dentro de los cinco días siguientes, citará a las partes para promover el acuerdo entre las pretensiones expuestas en los citados convenios. De no ser así, se procederá en los términos del artículo 295 del Código Civil y el Título Séptimo del presente Código.
+
 ###### ARTICULO 354.
 
 Una vez dictado el auto a que se refiere el artículo anterior cualquier incidente, o cuestión que propongan las partes o que se suscite, será tramitado y resuelto en la audiencia, con sujeción a este capítulo.
@@ -2503,11 +2533,13 @@ Si en la audiencia no pronunciare el tribunal su sentencia, en ella misma citar�
 
 Al pronunciarse la sentencia se estudiarán previamente las excepciones que no destruyan la acción, y, si alguna de estas se declara procedente, se abstendrán los tribunales de entrar al fondo del negocio, dejando a salvo los derechos del actor. Si dichas excepciones no se declaran procedentes, se decidirá sobre el fondo del negocio, condenando o absolviendo, en todo o en parte, según el resultado de la valuación de las pruebas que haga el tribunal.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 372.
 
-Contra la sentencia que decide el fondo del negocio, procede el recurso de apelación, hecha a excepción de las sentencias que condenan al pago de alimentos, en contra de las cuales no procederá recurso alguno.
+Contra la sentencia que decide el fondo del negocio, procede el recurso de apelación, hecha (sic) a excepción de las sentencias que condenan al pago de alimentos o la disolución del vínculo matrimonial, en contra de las cuales no procederá recurso alguno.
 
 ### CAPITULO XII. Sentencia Ejecutoria
 
@@ -3827,7 +3859,11 @@ En las contiendas sobre desahucio, se entiende domicilio legal la finca o depart
 
 Los juicios que versen sobre pago o aseguramiento de alimentos se tramitarán conforme a las reglas generales del juicio y a las especiales de este Capítulo.
 
-En los casos de los artículos 294 y 304 del Código Civil, se observarán las disposiciones relativas de este procedimiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2015)</small>
+
+En los casos de los Artículos 292 y 297 del Código Civil, se observarán las disposiciones relativas de este procedimiento.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -3987,7 +4023,9 @@ Cuando la sentencia decrete la demolición de la obra peligrosa, el juez dispond
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 12 DE FEBRERO DE 2004)</small>
 
-### CAPITULO IX. Del Divorcio por Mutuo Consentimiento
+### CAPITULO IX
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 598.
 
@@ -4015,7 +4053,9 @@ Es juez competente para conocer de estos juicios, el de Primera Instancia de la 
 
 Tan luego como cause ejecutoria la sentencia que se pronuncie en estos juicios, el juez cumplirá lo dispuesto en el artículo 135 del Código Civil.
 
-> <small>(REFORMADA SU NUMERACIÓN, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JUNIO DE 2015)</small>
 
 ### CAPITULO X. De la Pérdida de la Patria Potestad
 
@@ -4031,51 +4071,67 @@ Corresponderá a la Procuraduría de la Defensa del Menor y la Familia o al Mini
 
 ###### ARTICULO 604.
 
-Los consortes que de común acuerdo resuelvan divorciarse y se encuentren en el caso previsto en el párrafo final del artículo 294 del Código Civil, presentarán ante el juez competente su solicitud, el convenio que menciona el artículo 295 del mismo Código, las actas que acrediten el estado civil de los promoventes y el de sus hijos y copia simple de la promoción y demás documentos.
+(DEROGADO, P.O. 22 DE JUNIO DE 2015)
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 605.
 
-El Juez examinará la solicitud y el convenio y si encuentra que esta reúne los requisitos que señala el Artículo 295 del Código Civil, ordenará que los promoventes se presenten al Centro de Mediación del Poder Judicial, donde se procurará avenirlos y se les hará saber las consecuencias del divorcio y de lo que deberá informar el Centro de Mediación, si se logra su avenimiento se archivará el asunto como concluido y para el caso de que los cónyuges persistan en divorciarse el Juez dará vista de la solicitud y demás documentos al Agente del Ministerio Público para que en un término no mayor de diez días manifieste en forma expresa su conformidad o inconformidad respecto de la solicitud y el convenio, así como las razones en que se funde.
+(DEROGADO, P.O. 22 DE JUNIO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 606.
 
-Si el convenio no contiene todos los puntos enumerados en el artículo 295 del Código Civil o no están expresados claramente, el juez prevendrá a los solicitantes que los precisen y aclaren en un término prudente que concederá al efecto, el que en ningún caso excederá de diez días, apercibiéndolos de que si no lo hacen de común acuerdo, se les tendrá por desistidos de su solicitud de divorcio.
+(DEROGADO, P.O. 22 DE JUNIO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 607.
 
-Llenados los requisitos de que se habla en los artículos anteriores, el juez después de dictar las medidas convenientes para asegurar la situación de los hijos menores o incapacitados, de la mujer y los alimentos de aquéllos y los que un cónyuge deba dar al otro mientras dure el procedimiento, dará vista de la solicitud y de los demás documentos al Agente del Ministerio Público, mandando entregarle las copias simples, para que dentro de un término no mayor de diez días, manifieste en forma expresa su conformidad o inconformidad respecto de la solicitud y del convenio, así como las razones en que se funde.
+(DEROGADO, P.O. 22 DE JUNIO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 608.
 
-Si el Ministerio Público expresa su conformidad con la solicitud y con el convenio, el juez aprobará éste si lo encuentra arreglado a Derecho y citará a los cónyuges a la junta de que se habla en el artículo 610.
+(DEROGADO, P.O. 22 DE JUNIO DE 2015)
 
-> <small>(F. DE E., P.O. 27 DE AGOSTO DE 1989)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 609.
 
-Cuando el Ministerio Público se oponga a la solicitud o a la aprobación del convenio, se dará vista de lo que exprese a los cónyuges y una vez llenadas las exigencias del representante de la sociedad o cuando ambos esposos insistan en su solicitud por estimarla arreglada a la ley, el juez traerá los autos a la vista y resolverá si es o no fundada la oposición y aprobará o denegará la aprobación del convenio. En este último caso, declarará también improcedente la solicitud de divorcio.
+(DEROGADO, P.O. 22 DE JUNIO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 610.
 
-Una vez aprobado el convenio, en los casos de los dos Artículos anteriores, en el mismo auto el Juez mandará citar a los promoventes para que personalmente concurran al juzgado a una junta que se celebrará dentro de un término que en ningún caso excederá de diez días. En la junta, que será siempre reservada, el Juez procurará establecer la armonía entre los comparecientes y si no la obtuviere y éstos insisten en divorciarse así se hará constar en los autos, y trayéndolos a la vista declarará disuelto el vínculo del matrimonio y condenará a los cónyuges a cumplir el convenio aprobado.
+(DEROGADO, P.O. 22 DE JUNIO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 611.
 
-El cónyuge menor de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
+(DEROGADO, P.O. 22 DE JUNIO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 612.
 
-En las diligencias a que se refiere este capítulo, los cónyuges no podrán hacerse representar por procurador, sino que deberán comparecer personalmente y, en su caso, acompañados por el tutor especial.
+(DEROGADO, P.O. 22 DE JUNIO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 613.
 
-En cualquier caso en que los cónyuges dejaren pasar más de tres meses sin continuar el procedimiento, el Tribunal declarará sin efecto la solicitud y mandará archivar el expediente.
+(DEROGADO, P.O. 22 DE JUNIO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 614.
 
-Ejecutoriada la sentencia de divorcio, el Tribunal mandará remitir copia de ella al Oficial del Registro Civil de su jurisdicción, al del lugar en que el matrimonio se efectuó y al de nacimiento de los divorciados para los efectos de los artículos 106, 108, y 313 del Código Civil.
+(DEROGADO, P.O. 22 DE JUNIO DE 2015)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ABRIL DE 2012)</small>
 
@@ -6180,3 +6236,9 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de "personas con discapacidad".
+
+P.O. 22 DE JUNIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia a los treinta días hábiles siguientes al de su publicación en el Periódico Oficial del Estado de Aguascalientes, quedando sin efecto todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
