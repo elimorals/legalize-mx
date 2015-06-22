@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2015-06-19"
+last_updated: "2015-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2015.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -5169,9 +5169,13 @@ X. Contar con una garantía financiera para asegurar que la operación y el cier
 
 63. Las autoridades municipales instrumentarán campañas permanentes para fomentar la separación de residuos sólidos urbanos y de manejo especial desde su fuente para facilitar la implantación de sistemas para la gestión integral de dichos residuos conforme a los lineamientos que establezca la Secretaría.
 
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2015)</small>
+
 ###### Artículo 4.
 
-64. Los recipientes y contenedores que las autoridades dispongan en la vía pública deberán ser diferenciados para distinguir los destinados a los residuos sólidos urbanos de tipo orgánico e inorgánico conforme a lo establecido en el artículo anterior cuando los Municipios hayan establecido los programas de aprovechamiento de residuos correspondientes.
+64. Los recipientes y contenedores que las autoridades dispongan o autoricen en la vía pública, deberán ser diferenciados para distinguir los destinados a los residuos sólidos urbanos de tipo orgánico e inorgánico conforme a lo establecido en el artículo anterior cuando los Municipios hayan establecido los programas de aprovechamiento de residuos correspondientes.
+
+Queda prohibida la colocación de anuncios de propaganda comercial e institucional, que no sea en materia ambiental, sobre recipientes y contenedores de residuos, o estructuras que los soporten, en vía pública, áreas naturales protegidas, parques, reservas y jardines.
 
 ###### Artículo 4.
 
@@ -7818,3 +7822,11 @@ G.G. 19 DE JUNIO DE 2015.
 PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+G.G. 22 DE JUNIO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Los Ayuntamientos deberán adecuar sus Bandos Municipales y demás ordenamientos legales, a la presente reforma en un plazo no mayor a treinta días, contados a partir de la entrada en vigor de la presente.
