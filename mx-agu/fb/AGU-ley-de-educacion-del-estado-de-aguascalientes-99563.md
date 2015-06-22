@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-99563"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-11"
-last_updated: "2014-06-16"
+last_updated: "2015-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2015.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 11 de marzo de 2014.
 
@@ -237,7 +237,9 @@ II. Toda la educación que el Estado imparta será gratuita;
 
 III. El Gobierno del Estado, además de impartir la educación básica que comprende preescolar, primaria y secundaria, a través de recursos financieros o bien, por cualquier otro medio idóneo, impartirá la educación pública en los demás tipos y modalidades educativas, incluida la educación media superior y superior, y los subsistemas de educación tecnológica. Asimismo, promoverá y atenderá la Educación Normal. Además, apoyará la investigación científica, tecnológica y humanística; alentará el fortalecimiento y difusión de las culturas regional, nacional y universal mediante el acceso de la población a las mismas;
 
-IV. El servicio educativo estatal será suficiente para asegurar el acceso a la educación básica y media superior, así como el egreso de las mismas a todos los habitantes de la Entidad, al brindar la oportunidad efectiva de concluirla en alguna de las instituciones o programas educativos dirigidos a menores o adultos que no las hubiesen terminado en forma regular; y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2015)</small>
+
+IV. El servicio educativo estatal será suficiente para asegurar el acceso a la educación básica y media superior, así como el egreso de las mismas a todos los habitantes de la Entidad, al brindar la oportunidad efectiva de concluirla en alguna de las instituciones o programas educativos dirigidos a adolescentes o adultos que no las hubiesen terminado en forma regular; y
 
 V. La educación que imparta, promueva y atienda el Estado se ofrecerá en el marco del federalismo, con la concurrencia prevista en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa establecida en la Ley General de Educación y en el presente ordenamiento jurídico.
 
@@ -305,7 +307,9 @@ VI. Promover la creación de programas escolares sobre educación artística, ac
 
 VII. Prestar los servicios de formación, actualización y superación profesional para maestros de educación básica, media y superior, de conformidad con las disposiciones generales que la Secretaría de Educación Pública determine y de acuerdo al Artículo 20 de la Ley General de Educación y los artículos 59 y 60 de la Ley General del Servicio Profesional Docente;
 
-VIII. Organizar, impartir y promover los servicios de educación de educación básica, de educación media superior y superior, escuelas normales, de educación inicial, educación especial, y educación de jóvenes y adultos de formación para el trabajo;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2015)</small>
+
+VIII. Organizar, impartir y promover los servicios de educación básica, de educación media superior y superior, escuelas normales, de educación inicial, educación especial, y educación de jóvenes y adultos de formación para el trabajo;
 
 IX. Proponer a la Secretaría de Educación Pública contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación preescolar, primaria, secundaria y demás para la formación de maestros de educación básica;
 
@@ -339,7 +343,13 @@ XXIII. Participar con la Autoridad Educativa Federal en la operación de los mec
 
 XXIV. Participar en la integración y operación de un sistema nacional de educación media superior que establezca un marco curricular común para este tipo educativo, con respeto a la autonomía universitaria y diversidad educativa; y
 
-XXV. Las demás que con tal carácter establezcan la Ley General de Educación, el presente ordenamiento y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2015)</small>
+
+XXV. Establecer las reglas de operación y llevar a cabo un Programa de Uniformes, que permita dotar gratuitamente de los mismos, a los niños, niñas y adolescentes que cursen la educación básica en las escuelas públicas del Estado; y
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2015)</small>
+
+XXVI. Las demás que con tal carácter establezcan la Ley General de Educación, el presente ordenamiento y otras disposiciones aplicables.
 
 ###### Artículo 18.
 
@@ -507,7 +517,7 @@ XV. Ofrecer los programas de regularización a que se refiere el Título Segundo
 
 XVI. Administrar la asignación de plazas con estricto apego al orden establecido con base en los puntajes obtenidos de mayor a menor, de los sustentantes que resultaron idóneos en el concurso. Podrán asignarse para el inicio del ciclo escolar o en el transcurso de éste cuando se generen vacantes que la autoridad determine que deban ser ocupadas;
 
-XVII. Celebrar, conforme a los lineamientos del Instituto Nacional para la Evaluación de la Educación, convenios con instituciones públicas autorizadas por el propio Instituto Nacional para la Evaluación de la Educación para que participen en la realización de concursos de oposición y los procesos devaluación (sic) obligatorios a que se refiere la Ley General del Servicio Profesional Docente;
+XVII. Celebrar, conforme a los lineamientos del Instituto Nacional para la Evaluación de la Educación, convenios con instituciones públicas autorizadas por el propio Instituto Nacional para la Evaluación de la Educación para que participen en la realización de concursos de oposición y los procesos (sic) devaluación obligatorios a que se refiere la Ley General del Servicio Profesional Docente;
 
 XVIII. Emitir los actos jurídicos que crean, declaran, modifican o extinguen derechos y obligaciones de conformidad con lo previsto en la Ley General del Servicio Profesional Docente;
 
@@ -639,7 +649,9 @@ XIV. Conceder reconocimientos y distinciones a quienes contribuyan a la consecuc
 
 XV. Realizarán las demás actividades que permitan mejorar la calidad y ampliar la cobertura de los servicios educativos, y alcanzar los propósitos y fines de la educación;
 
-XVI. Apoyarán y desarrollarán programas, cursos y actividades que fortalezcan la enseñanza de los padres de familia respecto al valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus maestros;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2015)</small>
+
+XVI. Apoyarán y desarrollarán programas, cursos y actividades que fortalezcan la enseñanza de los padres de familia respecto al valor de la igualdad y solidaridad entre las hijas e hijos; divulgarán el protocolo de actuación sobre situaciones de violencia escolar para los educadores, las autoridades educativas y los padres o tutores, establecido en términos de la Ley para Prevenir, Atender y Erradicar la Violencia Escolar en el Estado de Aguascalientes, y asimismo serán responsables de realizar las acciones para la detección temprana, prevención y erradicación del acoso y la violencia escolar contempladas en la ley de la materia;
 
 XVII. Establecerán, de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo, con jornadas de entre 6 y 8 horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural, dando preferencia a los hijos de madres trabajadoras;
 
@@ -677,21 +689,27 @@ Las instituciones del Sistema Educativo Estatal impartirán educación de manera
 
 Las Autoridades educativas y los organismos descentralizados en el ámbito de sus competencias otorgarán apoyos especiales a las escuelas que, por la particular condición de la asistencia y atención a víctimas, enfrenten mayor posibilidad de atrasos o deserciones, debiendo promover las acciones necesarias para compensar los problemas educativos derivados de dicha condición.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2015)</small>
+
 ###### Artículo 35.
 
-El Estado a través de los organismos descentralizados y de los particulares con autorización o con reconocimiento de validez oficial de estudios, está obligado a prestar servicios educativos para que gratuitamente, cualquier víctima o sus hijos menores de edad, en igualdad efectiva de condiciones de acceso y permanencia en los servicios educativos que el resto de la población, pueda cursar la educación preescolar, la primaria, la secundaria y media superior. Estos servicios se prestarán en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa establecida en esta Ley.
+El Estado a través de los organismos descentralizados y de los particulares con autorización o con reconocimiento de validez oficial de estudios, está obligado a prestar servicios educativos para que gratuitamente, cualquier víctima o sus hijos, que sean niñas, niños o adolescentes, en igualdad efectiva de condiciones de acceso y permanencia en los servicios educativos que el resto de la población, puedan cursar la educación preescolar, la primaria, la secundaria y media superior. Estos servicios se prestarán en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa establecida en esta Ley.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2015)</small>
 
 ###### Artículo 36.
 
-La víctima o sus familiares tendrán el derecho de recibir becas completas de estudio en instituciones públicas, como mínimo hasta la educación media superior para sí o los dependientes que lo requieran.
+La víctima o sus hijos, niñas, niños o adolescentes, tendrán el derecho de recibir becas completas de estudio en instituciones públicas, como mínimo hasta la educación media superior para sí o para los dependientes a que se refiere este artículo.
 
 ###### Artículo 37.
 
 El Gobierno Estatal, a través de sus organismos de educación, así como aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias deberán entregar a los niños, niñas y adolescentes víctimas los respectivos paquetes escolares y uniformes para garantizar las condiciones dignas y su permanencia en el sistema educativo.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2015)</small>
+
 ###### Artículo 38.
 
-La víctima o sus hijos menores de edad, deberán tener acceso a los libros de texto gratuitos y demás materiales educativos complementarios que la Secretaría de Educación Pública proporcione.
+La víctima o sus hijos, niñas, niñas (sic) o adolescentes, deberán tener acceso a los libros de texto gratuitos y demás materiales educativos complementarios que la Secretaría de Educación Pública proporcione.
 
 ###### Artículo 39.
 
@@ -1085,7 +1103,7 @@ IX. El Delegado de la Secretaría de Educación Pública.
 
 Para otorgar el reconocimiento de validez oficial de estudios, la Comisión Estatal de Educación Media, deberá aprobar mediante el voto de la mayoría sus integrantes, el reconocimiento de validez oficial de estudios.
 
-En el caso de los planes y programas de estudios que opera el Instituto de Educación de Aguascalientes, la Comisión determinará la autorización de reconocimiento de validez oficial de estudios, de conformidad a la modalidad educativa se (sic) presente.
+En el caso de los planes y programas de estudios que opera el Instituto de Educación de Aguascalientes, la Comisión determinará la autorización de reconocimiento de validez oficial de estudios, de conformidad a la modalidad educativa (sic) se presente.
 
 ###### Artículo 79.
 
@@ -1131,7 +1149,7 @@ IV. Una clara distinción entre los aspectos académicos y los laborales.
 
 La Autoridad Educativa Estatal, a través de la Comisión Estatal de Educación Superior, coordinará la planeación y evaluación de los servicios que ofrezca el conjunto de las instituciones de educación superior que operen en el Estado de Aguascalientes. Los Institutos Tecnológicos y otros servicios educativos aun no transferidos se regirán por la normatividad aplicable.
 
-Para otorgar el reconocimiento de validez oficial de estudios, la Comisión Estatal de Educación Superior, deberá aprobar mediante el voto de la mayoría sus (sic) integrantes, el reconocimiento de validez oficial de estudios.
+Para otorgar el reconocimiento de validez oficial de estudios, la Comisión Estatal de Educación Superior, deberá aprobar mediante el voto de la mayoría (sic) sus integrantes, el reconocimiento de validez oficial de estudios.
 
 ###### Artículo 85.
 
@@ -1221,9 +1239,11 @@ Con la concurrencia de la Federación, el Gobierno del Estado buscará satisface
 
 ### CAPÍTULO VI. De la Educación Inicial
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2015)</small>
+
 ###### Artículo 93.
 
-La educación inicial está dirigida a la población infantil menor de cuatro años de edad, incluye la orientación a los padres de familia y tutores para la educación de sus hijos y pupilos. Puede ofrecerse por instituciones públicas o privadas; tiene como propósito favorecer el desarrollo físico, cognoscitivo, afectivo y social de los menores.
+La educación inicial está dirigida a la población infantil menor de cuatro años de edad, incluye la orientación a los padres de familia y tutores para la educación de sus hijos y pupilos. Puede ofrecerse por instituciones públicas o privadas; tiene como propósito favorecer el desarrollo físico, cognoscitivo, afectivo y social de los niños y niñas.
 
 En su promoción, el Instituto de Educación de Aguascalientes debe:
 
@@ -1273,9 +1293,11 @@ Tienen derecho a la integración, a través de la Educación Especial, las perso
 
 Asimismo, se crearán programas y materiales didácticos específicos para aquellos que por su situación no se encuentren en posibilidad de acceder a la educación básica, a quienes se ofrecerá una educación que satisfaga sus necesidades para el logro de su autonomía social y productiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2015)</small>
+
 ###### Artículo 99.
 
-Tratándose de menores de edad con discapacidad, esta educación propiciará su integración a los planteles de educación básica regular. Para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la convivencia social autónoma y productiva en instituciones especiales, para ese fin:
+Tratándose de niñas, niños y adolescentes con discapacidad, esta educación propiciará su integración a los planteles de educación básica regular. Para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la convivencia social autónoma y productiva en instituciones especiales, para ese fin:
 
 I. Ofrecerá orientación a los padres o tutores, así como también a los maestros y personal de escuelas de educación básica y media superior regulares que integren alumnos con necesidades especiales de educación;
 
@@ -1667,7 +1689,7 @@ El recurso de revisión, versará exclusivamente respecto de la aplicación corr
 
 ###### Artículo 145.
 
-La responsabilidad de la dirección y de la operación del Sistema Educativo Estatal, es del Instituto de Educación de Aguascalientes, de acuerdo a lo establecido en el Artículo 3° del Decreto de Ley que Io creó el 17 de enero de 1993.
+La responsabilidad de la dirección y de la operación del Sistema Educativo Estatal, es del Instituto de Educación de Aguascalientes, de acuerdo a lo establecido en el Artículo 3° del Decreto de Ley que lo creó el 17 de enero de 1993.
 
 ### CAPÍTULO II. Del Proceso Educativo
 
@@ -1751,15 +1773,21 @@ El calendario escolar será publicado cada año en el Periódico Oficial del Est
 
 ### CAPÍTULO III. De la Participación Social
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2015)</small>
+
 ###### Artículo 153.
 
-Los Padres, quienes ejercen la patria potestad o la tutela de los menores, de acuerdo a la Ley General de Educación, tendrán los siguientes derechos:
+Los Padres, quienes ejercen la patria potestad o la tutela de las niñas, niños y adolescentes, de acuerdo a la Ley General de Educación, tendrán los siguientes derechos:
 
-I. Obtener inscripción en escuelas públicas para que sus hijos o pupilos menores de edad, que satisfagan los requisitos académicos aplicables, reciban educación preescolar, primaria, secundaria y la media superior;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2015)</small>
 
-La edad mínima para ingresar a la educación básica en el nivel preescolar es de 3 años, y para nivel primaria 6 años, cumplidos al 31 de diciembre del año de inicio del ciclo escolar.
+I. Obtener inscripción en escuelas públicas para que sus hijos o pupilos, niñas, niños o adolescentes, que satisfagan los requisitos académicos aplicables, reciban educación preescolar, primaria, secundaria y la media superior.
 
-II. Informar a las autoridades educativas de la escuela en la que estén inscritos sus hijos o pupilos menores de edad, cualquier problema relacionado con la educación de estos, a fin de que, en conjunto, se aboquen a su solución;
+La edad mínima para ingresar a la educación básica en el nivel preescolar es de 3 años, y para nivel primaria 6 años, cumplidos al 31 de diciembre del año de inicio del ciclo escolar;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2015)</small>
+
+II. Informar a las autoridades educativas de la escuela en la que estén inscritos sus hijos o pupilos, niñas, niños o adolescentes, de cualquier problema relacionado con la educación de estos, a fin de que, en conjunto, se aboquen a su solución;
 
 III. Colaborar con las autoridades escolares para la superación de los educandos y en el mejoramiento de los establecimientos educativos;
 
@@ -1781,19 +1809,23 @@ XI. Opinar a través de los Consejos de Participación respecto a las actualizac
 
 XII. Conocer el presupuesto asignado a cada escuela, así como su aplicación y los resultados de su ejecución;
 
-XIII. Presentar quejas ante las autoridades educativas correspondientes, en los términos establecidos en el Artículo 14, fracción XII Quintus de la Ley General de Educación sobre el desempeño de docentes, directores, supervisores y asesores técnico pedagógicos de sus hijos o pupilos menores de edad y sobre las condiciones de la escuela a la que asisten; y
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2015)</small>
+
+XIII. Presentar quejas ante las autoridades educativas correspondientes, en los términos establecidos en el Artículo 14, fracción XII Quintus de la Ley General de Educación; y
 
 XIV. Ejercer las demás que les confieran los ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2015)</small>
+
 ###### Artículo 154.
 
-Los Padres, quienes ejercen la patria potestad o la tutela de los menores, de acuerdo a la Ley General de Educación, tendrán las siguientes obligaciones:
+Los Padres, quienes ejercen la patria potestad o la tutela, de las niñas, niños o adolescentes, de acuerdo a la Ley General de Educación, tendrán las siguientes obligaciones:
 
 I. Que sus hijos o pupilos cursen los niveles de educación básica y media superior.
 
 II. Colaborar con las instituciones educativas en las que estén inscritos sus hijos o pupilos, en las actividades que dichas instituciones realicen;
 
-III. Respetar y vigilar que se cumplan los preceptos contenidos en la legislación educativa federal y estatal; y (sic)
+III. Respetar y vigilar que se cumplan los preceptos contenidos en la legislación educativa federal y estatal; y
 
 IV. Colaborar con el personal docente en el diagnóstico y atención de las dificultades de sus hijos o pupilos y apoyar a los directivos y docentes en la prevención y solución de problemas de conducta, de afectación a la integridad y a la seguridad, o de violencia física o psicológica.
 
@@ -1875,7 +1907,7 @@ IV. Promover la contribución de los medios de comunicación privados a los fine
 
 Los particulares podrán ofrecer educación en todos sus tipos, niveles y modalidades; por lo que concierne a la educación preescolar, primaria, secundaria, y normal y demás para la formación de maestros, deberán obtener previamente, en cada caso, la autorización de la Autoridad Educativa estatal. Tratándose de estudios distintos de los antes mencionados, podrán obtener el reconocimiento de la validez oficial de estudios, previo estudio de la calidad del proyecto y de las necesidades sociales y el campo laboral de los egresados.
 
-Tanto la autorización como el reconocimiento de validez oficial de estudios se otorgan en favor de un particular, para impartir planes y programas de estudios específicos, en un domicilio determinado. Para ofrecer nuevos planes y programas estudios (sic), para cambio de domicilio o apertura de nuevos centro (sic) educativos de una Institución que cuente previamente con un (sic) Autorización o Reconocimiento para un domicilio de origen, se requerirá nueva autorización o nuevo reconocimiento de validez oficial de estudios, según el nuevo tipo, nivel o modalidad que se pretenda impartir.
+Tanto la autorización como el reconocimiento de validez oficial de estudios se otorgan en favor de un particular, para impartir planes y programas de estudios específicos, en un domicilio determinado. Para ofrecer nuevos planes y programas (sic) estudios, para cambio de domicilio o apertura de nuevos centro (sic) educativos de una Institución que cuente previamente con un (sic) Autorización o Reconocimiento para un domicilio de origen, se requerirá nueva autorización o nuevo reconocimiento de validez oficial de estudios, según el nuevo tipo, nivel o modalidad que se pretenda impartir.
 
 La autorización y el reconocimiento incorporan a las instituciones que los obtengan al Sistema Educativo nacional, respecto de los estudios a que la propia autorización o dicho reconocimiento se refieran.
 
@@ -2079,7 +2111,7 @@ d) A quien funja como Autoridad Educativa, director escolar, educador o trabajad
 
 e) En el supuesto previsto en las fracciones (sic) XXX se sancionará conforme a lo dispuesto en la fracción III del Artículo anterior.
 
-f) En los supuestos a que aluden fracciones (sic) XXXI y XXXII conforme la fracción IV Artículo (sic) anterior.
+f) En los supuestos a que aluden (sic) fracciones XXXI y XXXII conforme la fracción IV Artículo (sic) anterior.
 
 g) En el caso establecido en la fracción XXXIII se sancionará al infractor de conformidad a la Ley de Responsabilidad de los Servidores Públicos del Estado de Aguascalientes.
 
@@ -2256,3 +2288,15 @@ P.O. 16 DE JUNIO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 22 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Instituto de Educación de Aguascalientes, dentro de los 90 días siguientes a la entrada en vigencia del presente Decreto, deberá elaborar y publicar en el Periódico Oficial del Estado, el Programa de Uniformes Escolares Gratuitos, para los alumnos que cursen educación básica en las escuelas públicas del Estado, así como realizar las acciones que corresponda para que al inicio del ciclo escolar 2015 - 2016, éstos puedan ser entregados oportunamente a los alumnos que correspondan.
+
+Las reglas de operación referidas en el Artículo 17, Fracción XXV del presente Decreto, preverán mecanismos para que en términos de la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios, se brinden facilidades a micro empresas o talleres comunitarios en la elaboración de los uniformes escolares.
