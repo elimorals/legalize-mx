@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2015-06-15"
+last_updated: "2015-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 22 DE JUNIO DE 2015, INICIA SU VIGENCIA A LOS TREINTA DÍAS HÁBILES DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2015.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -1197,11 +1199,11 @@ El matrimonio debe celebrarse ante los Oficiales del Registro Civil y con las fo
 
 Cualquiera condición contraria A LA PERPETUACIÓN DE LA ESPECIE O a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2015)</small>
 
 ###### Artículo 145.
 
-Para contraer matrimonio el hombre y la mujer necesitan haber cumplido dieciséis años. El Juez, puede conceder dispensa de edad por causas graves y justificadas, pero nunca se podrá dispensar a menores de catorce años.
+La edad mínima para contraer matrimonio será de 18 años. El Juez, puede conceder dispensa de edad por causas graves y justificadas, pero nunca se podrá dispensar a menores de catorce años.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -1957,9 +1959,11 @@ Si ha habido mala fe de parte de ambos consortes, el matrimonio produce efectos 
 
 La buena fe se presume; para destruir esta presunción se requiere prueba plena.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2015)</small>
+
 ###### Artículo 280.
 
-Si la demanda de nulidad fuere entablada por uno solo de los cónyuges, desde luego se dictarán las medidas provisionales que establece el artículo 304.
+Si la demanda de nulidad fuere entablada por uno solo de los cónyuges, desde luego se dictarán las medidas provisionales que establece el Artículo 292.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -1999,7 +2003,9 @@ Es ilícito pero no nulo el matrimonio:
 
 I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa;
 
-II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 156, y cuando se celebre sin que hayan transcurrido los términos fijados en los artículos 155 y 311.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2015)</small>
+
+II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 156 y cuando se celebre sin que haya transcurrido el término fijado en el Artículo 155.
 
 ###### Artículo 287.
 
@@ -2009,105 +2015,153 @@ Los que infrinjan el artículo anterior, así como los que siendo mayores de eda
 
 DEL DIVORCIO.
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2015)</small>
+
 ###### Artículo 288.
 
-El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro.
+El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. Podrá solicitarse por uno o ambos cónyuges cuando cualquiera de ellos lo reclame ante la autoridad judicial manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar la causa, siempre que haya transcurrido cuando menos un año desde la celebración del mismo.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2015)</small>
 
 ###### Artículo 289.
 
-Son causas de divorcio:
+El cónyuge que unilateralmente desee promover el juicio de divorcio deberá acompañar a su solicitud la propuesta de convenio para regular las consecuencias inherentes a la disolución del vínculo matrimonial, debiendo contener los siguientes requisitos:
 
-I.- El adulterio de uno de los cónyuges;
+I.- La designación de la persona que tendrá la guarda y custodia de los hijos menores de edad o incapaces;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+II.- Las modalidades bajo las cuales el progenitor, que no tenga la guarda y custodia, ejercerá el derecho de visitas, respetando los horarios de comidas, descanso y estudio de los hijos;
 
-II.- El hecho que durante el matrimonio nazca un hijo concebido, antes de la celebración de éste con persona distinta a su cónyuge, siempre y cuando no se hubiere tenido conocimiento de esta circunstancia;
+III.- El modo de atender las necesidades de los hijos y, en su caso, del cónyuge a quien deba darse alimentos, especificando la forma, lugar y fecha de pago de la obligación alimentaria, así como la garantía para asegurar su debido cumplimiento;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+IV.- En su caso, la designación del cónyuge al que corresponderá el uso del domicilio conyugal y su menaje;
 
-III.- La propuesta de cualquiera de los cónyuges para que se prostituya el otro, no sólo cuando lo haga directamente, sino cuando se pruebe que ha recibido dinero o cualquiera remuneración con el objeto expreso de permitir que otro tenga relaciones carnales con su cónyuge;
+V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma de liquidarla, exhibiendo para ese efecto, en su caso, las capitulaciones matrimoniales, el inventario, avalúo y el proyecto de partición;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+VI.- En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes deberá señalarse la compensación, que no podrá ser superior al 50% del valor de los bienes que hubieren adquirido, a que tendrá derecho el cónyuge que, durante el matrimonio, se haya dedicado preponderantemente al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos. El Juez resolverá atendiendo a las circunstancias especiales de cada caso.
 
-IV.- La incitación a la violencia hecha por un cónyuge al otro para cometer algún delito;
+El divorcio se decretará solo cuando se cumpla con los requisitos señalados en el presente Artículo.
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-V.- La conducta de alguno de los cónyuges con el fin de corromper a los hijos, bien sea de ambos o de uno solo de ellos, así como la tolerancia a su corrupción;
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-VI.- Padecer cualquier enfermedad incurable que sea además contagiosa o hereditaria y la impotencia sexual irreversible, siempre y cuando no tenga su origen en la edad avanzada;
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-VII.- Padecer trastorno mental permanente, declarado judicialmente;
-
-VIII.- La separación del domicilio conyugal por más de seis meses consecutivos sin causa justificada;
-
-IX.- La separación del hogar conyugal originada por una causa que sea bastante para pedir el divorcio, si se prolonga por más de un año sin que el cónyuge que se separó entable la demanda de divorcio;
-
-X.- La declaración de ausencia legalmente hecha, o la de presunción de muerte, en los casos de excepción en que no se necesita para que se haga ésta que preceda la declaración de ausencia;
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-XI.- La sevicia, las amenazas o las injurias graves de un cónyuge para el otro o para sus hijos;
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-XII.- La negativa injustificada de los cónyuges a cumplir con las obligaciones alimentarías entre sí o hacia sus hijos, sin que sea necesario agotar previamente los procedimientos tendientes a exigir su cumplimiento. También será causa de divorcio el incumplimiento sin justa causa por alguno de los cónyuges de la sentencia ejecutoriada que lo condenó al pago de alimentos a favor del otro cónyuge o de sus hijos;
-
-XIII.- La acusación hecha por un cónyuge contra el otro, si resultare calumniosa;
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-XIV.- Haber cometido uno de los cónyuges un delito doloso por el cual tenga que sufrir una pena de prisión mayor de dos años;
-
-XV.- Los hábitos de juego o de embriaguez o el uso indebido y persistente de drogas enervantes, cuando amenazan causar ruina de la familia, o constituyen un continuo motivo de desavenencia conyugal;
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-XVI.- Cometer un cónyuge contra la persona o bienes del otro o de los hijos, delito doloso, por el cual haya sido condenado por sentencia ejecutoriada;
-
-XVII.- El mutuo consentimiento;
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-XVIII.- La separación de los cónyuges por más de dos años independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualquiera de ellos;
-
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2001)</small>
-
-XIX.- Las conductas de violencia familiar cometidas por uno de los cónyuges contra el otro o hacia los hijos de ambos o de algunos de ellos.
-
-Para los efectos de este artículo se entiende por violencia familiar lo dispuesto por el Artículo 347 Ter de este Código;
-
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2010)</small>
-
-XX.- El incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales que se hayan ordenado, tendientes a corregir los actos de violencia familiar hacia el otro cónyuge o los hijos, por el cónyuge obligado a ello; o
-
-> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2010)</small>
-
-XXI.- El sometimiento voluntario de la mujer, a un método de reproducción humana asistida sin el consentimiento de su cónyuge.
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2015)</small>
 
 ###### Artículo 290.
 
-Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio por causa que no haya justificado o que haya resultado insuficiente, el demandado tiene a su vez el derecho de pedir el divorcio; pero no podrá hacerlo sino pasados tres meses de la notificación de la última sentencia. Durante estos tres meses, los cónyuges no están obligados a vivir juntos.
+El Juez está obligado a suplir la deficiencia de las partes en el convenio propuesto.
+
+Las limitaciones formales de la prueba que rigen en la materia civil, no deben aplicarse en los casos de divorcio respecto del o los convenios propuestos.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2015)</small>
 
 ###### Artículo 291.
 
-La acción para pedir el divorcio por el adulterio de uno de los cónyuges, dura seis meses, contados desde que se tuvo conocimiento del adulterio.
+La reconciliación de los cónyuges pone término al procedimiento de divorcio en cualquier estado en que se encuentre.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+Para efectos del párrafo anterior, los interesados deberán informar su reconciliación al Juez.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2015)</small>
 
 ###### Artículo 292.
 
-Para que la tolerancia en la corrupción de los hijos sea causa de divorcio, estas deben consistir tanto en acciones como omisiones.
+Desde que se presenta la demanda o la solicitud de divorcio, el Juez autorizará la separación de los cónyuges; y solo mientras dure el juicio, dictará las medidas provisionales pertinentes.
+
+Cuando el divorcio no se concluya mediante convenio, las medidas referidas en el párrafo anterior subsistirán hasta en tanto no se resuelva el incidente relativo la situación jurídica de hijos o bienes, según corresponda y de acuerdo a las disposiciones siguientes:
+
+A. De oficio:
+
+I.- En los casos en que el Juez lo considere pertinente, de conformidad con los hechos expuestos y las documentales exhibidas en los convenios propuestos, tomará las medidas que considere adecuadas para salvaguardar la integridad y seguridad de los interesados, incluyendo las de violencia familiar, donde tendrá la más amplia libertad para dictar las medidas que protejan a las víctimas;
+
+II.- Señalar y asegurar las cantidades que a título de alimentos debe dar el deudor alimentario al cónyuge acreedor y a los hijos que corresponda;
+
+III.- Las que se estimen convenientes para que los cónyuges no puedan causar perjuicio en sus respectivos bienes ni en los de la sociedad conyugal en su caso. Asimismo, ordenar cuando existan bienes que puedan pertenecer a ambos cónyuges la anotación preventiva de la demanda de divorcio en el Registro Público de la Propiedad que corresponda, según la ubicación de los bienes;
+
+IV.- Revocar o suspender los mandatos que entre los cónyuges se hubieran otorgado, con las excepciones que marca el Artículo 2468 de este Código;
+
+B. Una vez contestada la solicitud:
+
+I.- El Juez determinará con audiencia de parte, y teniendo en cuenta el interés familiar y lo que más convenga a los hijos, cuál de los cónyuges continuará en el uso de la vivienda familiar y asimismo, previo inventario, los bienes y enseres que continúen en ésta y los que se ha de llevar el otro cónyuge, incluyendo los necesarios para el ejercicio de la profesión, arte u oficio a que esté dedicado, debiendo informar éste el lugar de su residencia;
+
+II.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos, o bien, que ambos compartan la guarda y custodia mediante convenio. En defecto de ese acuerdo, el cónyuge que solicita el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos, el Juez, con audiencia del otro cónyuge y tomando en cuenta la opinión del menor resolverá lo conducente;
+
+III.- El Juez escuchará a los hijos y atenderá al interés superior de los mismos, al resolver las modalidades del derecho de visita o convivencia con sus padres;
+
+IV.- El Juez requerirá a ambos cónyuges para que le exhiban, bajo protesta de decir verdad un inventario de sus bienes y derechos así como de los que se encuentran bajo el régimen de sociedad conyugal, en su caso, especificando:
+
+a) El título bajo el cual se adquirieron o poseen;
+
+b) Su valor estimado;
+
+c) Las capitulaciones matrimoniales y un proyecto de partición.
+
+Durante el procedimiento el Juez recabará la información complementaria y comprobación de datos que en su caso precise; y
+
+V.- Las demás que el Juez considere necesarias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE JUNIO DE 2015)</small>
 
 ###### Artículo 293.
 
-(DEROGADO, P.O. 19 DE NOVIEMBRE DE 2007)
+En el Juicio de divorcio se fijará la situación de los hijos menores de edad o incapaces, para lo cual en la sentencia respectiva, se deberá resolver lo siguiente:
+
+I.- Todo lo relativo a los derechos y deberes inherentes a la patria potestad, su pérdida, suspensión o limitación; a la guarda y custodia, así como a las obligaciones de crianza; y al derecho de los hijos a convivir con ambos progenitores, el cual sólo deberá limitarse o suspenderse cuando exista riesgo para los hijos.
+
+Sólo podrá condenarse a la pérdida de la patria potestad cuando se actualice algunas de las hipótesis previstas en el Artículo 466 del presente Código.
+
+II.- Todas las medidas necesarias para proteger a los hijos de actos de violencia familiar o cualquier otra circunstancia que lastime u obstaculice su desarrollo armónico y pleno; en caso necesario podrá dictar medidas de protección para los hijos, para evitar y corregir los actos de violencia familiar.
+
+III.- Tomando en consideración, en su caso, los datos recabados en términos del Artículo 292 de este Código, el Juez fijará lo relativo a la división de los bienes y tomará las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos.
+
+Los padres estarán obligados a contribuir, en proporción a sus bienes e ingresos, al pago de alimentos a favor de los hijos;
+
+IV.- Las demás que sean necesarias para garantizar el bienestar, el desarrollo, la protección y el interés de los hijos menores de edad.
+
+Para lo dispuesto en el presente Artículo, de oficio o a petición de parte interesada, durante el procedimiento el Juez se allegará de los elementos necesarios, debiendo escuchar al Ministerio Público, a ambos padres y a los hijos.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2015)</small>
 
 ###### Artículo 294.
+
+En caso de que los padres hayan acordado la guarda y custodia compartida, el Juez deberá garantizar que los padres cumplan con las obligaciones de crianza, sin que ello implique un riesgo en la vida cotidiana para los hijos.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2015)</small>
+
+###### Artículo 295.
+
+El Juez decretará el divorcio mediante sentencia independientemente de que los cónyuges lleguen a un acuerdo respecto del convenio señalado en el Artículo 289; en caso de no lograrse el acuerdo de referencia, se dejará a salvo el derecho de los cónyuges para que lo hagan valer en la vía incidental, exclusivamente por lo que concierne a la materia del convenio.
+
+El Juez remitirá copia de la sentencia de divorcio al Oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y haga las anotaciones respectivas y, además, para que publique el extracto de la resolución durante quince días en sus estrados.
+
+En cualquier momento del trámite incidental referido en el primer párrafo de este Artículo, las partes podrán celebrar acuerdos respecto a la materia del convenio, mismos que deberán informar al Juez, quien los autorizará de plano siempre que no contravengan alguna disposición legal. En este caso, la sentencia incidental resolverá únicamente los aspectos sobre los cuales no se haya logrado acuerdo.
+
+La muerte de uno de los cónyuges pone fin al juicio de divorcio. En caso de que no se haya decretado el divorcio, los herederos del cónyuge que fallezca tienen los mismos derechos y obligaciones que tendrían si no hubiere existido dicho juicio.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2015)</small>
+
+###### Artículo 296.
+
+El Juez resolverá sobre el pago de alimentos a favor del cónyuge que, teniendo la necesidad de recibirlos, esté imposibilitado para trabajar o carezca de bienes, y que durante el matrimonio se haya dedicado preponderantemente a las labores del hogar y al cuidado de los hijos. En este caso, los alimentos se fijarán tomando en cuenta las siguientes circunstancias:
+
+I.- La edad y el estado de salud de los cónyuges;
+
+II.- Su calificación profesional y posibilidad de acceso a un empleo;
+
+III.- Duración del matrimonio y dedicación pasada y futura a la familia;
+
+IV.- Colaboración con su trabajo en las actividades del cónyuge;
+
+V.- Medios económicos de uno y otro cónyuge, así como de sus necesidades; y
+
+VI.- Las demás obligaciones que tenga el cónyuge deudor.
+
+En la resolución se fijarán las bases para actualizar la pensión y las garantías para su efectividad. El derecho a los alimentos previsto en este Artículo, se extingue cuando el acreedor:
+
+I.- Contraiga nuevas nupcias o se una en concubinato;
+
+II.- Reciba ingresos suficientes para su subsistencia; o
+
+III.- Transcurra un término igual a la duración del matrimonio.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2015)</small>
+
+###### Artículo 297.
 
 Cuando ambos consortes convengan en divorciarse y sean mayores de edad, no tengan hijos nacidos o concebidos y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente ante el Oficial del Registro Civil de la Capital del Estado; comprobarán con las copias certificadas respectivas que son casados y mayores de edad, y manifestarán de una manera terminante y explícita su voluntad de divorciarse.
 
@@ -2115,171 +2169,71 @@ El Oficial del Registro Civil, previa identificación de los consortes, levantar
 
 El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos, son menores de edad o no han liquidado su sociedad conyugal, y entonces aquéllos sufrirán las penas que establezca el Código de la materia.
 
-Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorciarse por mutuo consentimiento, ocurriendo al juez competente en los términos que ordena el Código de Procedimientos Civiles.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 1998)</small>
-
-###### Artículo 295.
-
-Los cónyuges que se encuentren en el caso del párrafo último del artículo anterior, están obligados a presentar al juzgado un convenio en que fijen los siguientes puntos:
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-I.- Designación del cónyuge que tendrá la custodia de los hijos del matrimonio tanto durante el procedimiento como después de ejecutoriado el divorcio y las modalidades bajo las cuales el progenitor que no tenga la guarda y custodia ejercerá su derecho de convivencia y en general el arreglo de la situación de sus hijos;
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-II.- El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio, especificando la forma de pago de la obligación alimentaria;
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-III.- Designación del cónyuge al que corresponderá el uso de la morada conyugal, en su caso, y de los enseres familiares, durante el procedimiento de divorcio;
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-IV.- La casa que servirá de habitación a cada cónyuge y a los hijos durante el procedimiento y después de ejecutoriado el divorcio, obligándose ambos a comunicar los cambios de domicilio aún después de decretado el divorcio mientras haya menores de edad o incapaces u obligaciones alimenticias;
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-V.- La cantidad que a título de alimentos un cónyuge debe pagar al otro durante el procedimiento y después de ejecutoriado el divorcio, la forma de hacer el pago y la garantía que debe darse para asegurarlo, o bien la manifestación expresa de que ambos cónyuges quedarán exentos de toda obligación a este respecto, en caso de que así se convenga; y
-
-> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-VI.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide. Para su liquidación se acompañará inventario y avalúo de todos los bienes muebles e inmuebles de la sociedad y el correspondiente proyecto de partición.
-
-###### Artículo 296.
-
-El divorcio por mutuo consentimiento no puede pedirse sino pasado un año de la celebración del matrimonio.
-
-###### Artículo 297.
-
-Mientras que se decrete el divorcio, el juez autorizará la separación de los cónyuges de una manera provisional, y dictará las medidas necesarias para asegurar la subsistencia de los hijos a quienes hay obligación de dar alimentos.
-
 ###### Artículo 298.
 
-Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año desde su reconciliación.
+(DEROGADO, P.O. 22 DE JUNIO DE 2015)
 
 ###### Artículo 299.
 
-El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en las fracciones VI y VII del artículo 289, podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el juez, con consentimiento de causa, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
+(DEROGADO, P.O. 22 DE JUNIO DE 2015)
 
 ###### Artículo 300.
 
-El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a él y dentro de los seis meses siguientes al día en que haya llegado a su noticia los hechos en que funde la demanda. Se exceptúan las causas a que se refieren las fracciones VI, VII y XII del artículo 289, que podrán alegarse en cualquier tiempo como causa de divorcio.
+(DEROGADO, P.O. 22 DE JUNIO DE 2015)
 
 ###### Artículo 301.
 
-Ninguna de las causas enumeradas en el artículo 289 puede alegarse para pedir el divorcio cuando haya mediado perdón expreso o tácito.
-
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-La solicitud de cambio de vía de juicio necesario a divorcio voluntario no producirá el efecto de perdón expreso o tácito por lo que de no concluir el divorcio voluntario podrá reanudarse el necesario a partir de la etapa procesal en que se hizo el cambio.
+(DEROGADO, P.O. 22 DE JUNIO DE 2015)
 
 ###### Artículo 302.
 
-La reconciliación de los cónyuges pone término al juicio de divorcio en cualquier estado en que se encuentre, si aún no hubiere sentencia ejecutoria. En este caso los interesados deberán denunciar su reconciliación al juez, sin que la omisión de esta denuncia destruya los efectos producidos por la reconciliación.
+(DEROGADO, P.O. 22 DE JUNIO DE 2015)
 
 ###### Artículo 303.
 
-El cónyuge que no haya dado causa al divorcio, puede antes de que se pronuncie la sentencia que ponga fin al litigio, prescindir de sus derechos y obligar al otro a reunirse con él; mas en este caso no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+(DEROGADO, P.O. 22 DE JUNIO DE 2015)
 
 ###### Artículo 304.
 
-Desde que se presenta la demanda de divorcio o durante la tramitación del juicio y sólo mientras dure el juicio, se dictarán las medidas provisionales pertinentes conforme a las disposiciones siguientes:
-
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
-
-I.- Separar a los cónyuges;
-
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
-
-II.- El Juez determinará con audiencia de partes, y teniendo en cuenta el interés familiar y lo que más convenga a los hijos, cuál de los cónyuges continuará habitando el domicilio conyugal y asimismo, previo inventario, los bienes y enseres que continúen en éste y lo que se ha de llevar el otro cónyuge, incluyendo los necesarios para el ejercicio de la profesión, arte u oficio a que estén dedicados, debiendo informar éste el lugar de su residencia;
-
-III.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-IV.- Las que se estimen convenientes para que los cónyuges no puedan causar perjuicio en sus respectivos bienes ni en los de la sociedad conyugal en su caso. Asimismo, ordenar cuando existan bienes que puedan pertenecer a ambos cónyuges la anotación preventiva de la demanda de divorcio en el Registro Público de la Propiedad, y de aquellos lugares en que se conozca que tienen bienes;
-
-V.- Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede encinta;
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos, el Juez, con audiencia del otro cónyuge y tomando en cuenta la opinión del menor resolverá lo conducente;
-
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-VII.- El Juez resolverá teniendo presente el interés superior de los hijos, quienes serán escuchados, respecto a las modalidades del derecho de visita y convivencia con sus padres; y
-
-> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-VIII.- En los casos en que el Juez lo considere pertinente, de conformidad con los hechos expuestos y las causales invocadas en la demanda, con el fin de salvaguardar la integridad y seguridad de los interesados tomará las siguientes medidas:
-
-a) Prohibir al cónyuge demandado ir a lugar determinado, tal como el domicilio o el lugar donde trabajan o estudian los agraviados.
-
-b) Prohibir que el cónyuge demandado se acerque a los agraviados a la distancia que considere pertinente.
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+(DEROGADO, P.O. 22 DE JUNIO DE 2015)
 
 ###### Artículo 305.
 
-La sentencia de divorcio fijará la situación de los hijos, para lo cual y atendiendo al interés superior de los menores de edad y después de escucharlos, el Juez determinará cual de ellos tendrá la guarda y custodia de los menores de edad y las modalidades bajo las cuales el otro ejercerá su derecho de convivencia.
-
-En caso necesario podrá dictar medidas de protección para los hijos, las que podrá incluir medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar.
-
-Dichas medidas así como los términos de la guarda, custodia y convivencia de los hijos podrán ser suspendidas o modificadas vía incidental.
-
-Para el caso de que haya hijos mayores incapaces, en la sentencia de divorcio deberán establecerse las medidas antes señaladas para su protección.
-
-En la sentencia de divorcio sólo podrá condenarse a la pérdida de la patria potestad cuando se actualice algunas de las hipótesis previstas en el Artículo 466 del presente Código.
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+(DEROGADO, P.O. 22 DE JUNIO DE 2015)
 
 ###### Artículo 306.
 
-Antes de que se provea definitivamente sobre la patria potestad, custodia o tutela de los hijos, éstos podrán ser beneficiados por cualquier providencia que se dicte en su favor, de oficio o a petición del tutor, ascendientes, hermanos mayores o de la Procuraduría de la Defensa del Menor y la Familia.
+(DEROGADO, P.O. 22 DE JUNIO DE 2015)
 
 ###### Artículo 307.
 
-El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas las obligaciones que tienen para con sus hijos.
+(DEROGADO, P.O. 22 DE JUNIO DE 2015)
 
 ###### Artículo 308.
 
-El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1995)</small>
+(DEROGADO, P.O. 22 DE JUNIO DE 2015)
 
 ###### Artículo 309.
 
-Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes, se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges, o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir en proporción a sus bienes a la subsistencia y educación de los hijos varones hasta que lleguen a la mayor edad, y de las hijas aunque sean mayores de edad hasta que contraigan matrimonio siempre que vivan honestamente. En caso de que se haya constituido el patrimonio familiar conforme a las reglas de este Código, ejecutoriado el divorcio éste subsistirá y aprovechará al cónyuge inocente y a los hijos en caso de divorcio necesario, o a los hijos y al cónyuge que quede con la custodia de éstos en los demás casos.
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+(DEROGADO, P.O. 22 DE JUNIO DE 2015)
 
 ###### Artículo 310.
 
-En los casos de divorcio, el cónyuge inocente tendrá derecho a recibir alimentos del cónyuge culpable, estos alimentos han de ser proporcionados a la posibilidad del que debe de darlos y a la necesidad del que debe de recibirlos, durante el mismo tiempo que duró el matrimonio o mientras no contraiga nuevas nupcias o viva en concubinato. Además, cuando por el divorcio se originen daños y perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito. En el divorcio por mutuo consentimiento, salvo pacto en contrario, los cónyuges no tienen derecho a pensión alimenticia, ni a la indemnización que concede este Artículo.
+(DEROGADO, P.O. 22 DE JUNIO DE 2015)
 
-> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2010)</small>
-
-Artículo 310 bis.- En caso de divorcio necesario, si uno de los cónyuges careciere de bienes propios, o teniéndolos sean notoriamente menores a los del otro cónyuge, y se hubiere dedicado la mayor parte de su vida matrimonial al cuidado del hogar y en su caso a la atención de los hijos, tendrá derecho a recibir del otro cónyuge una compensación. El monto será determinado por el Juez competente al momento de dictar sentencia de divorcio, tomando en cuenta la masa patrimonial del cónyuge que deba otorgarla, sin que esta pueda exceder del cincuenta por ciento de los bienes adquiridos durante el matrimonio.
+Artículo 310 bis.- (DEROGADO, P.O. 22 DE JUNIO DE 2015)
 
 ###### Artículo 311.
 
-En virtud del divorcio los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
-
-El cónyuge que haya dado causa al divorcio, no podrá volver a casarse sino después de un año, a contar desde que se decretó el divorcio.
-
-Para que los cónyuges que se divorcian voluntariamente pueden (sic) volver a contraer matrimonio, es indispensable que haya transcurrido el mismo término desde que obtuvieron el divorcio.
+(DEROGADO, P.O. 22 DE JUNIO DE 2015)
 
 ###### Artículo 312.
 
-La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los herederos del muerto tienen los mismos derechos y obligaciones que tendrían si no hubiere existido dicho juicio.
+(DEROGADO, P.O. 22 DE JUNIO DE 2015)
 
 ###### Artículo 313.
 
-Ejecutoriada una sentencia de divorcio, el Juez de Primera Instancia remitirá copia de ella al Oficial del Registro Civil, ante quien se celebró el matrimonio, para que levante el acta correspondiente y haga las anotaciones respectivas y, además, para que publique el extracto de la resolución durante quince días en las tablas destinadas al efecto.
+(DEROGADO, P.O. 22 DE JUNIO DE 2015)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -3343,9 +3297,9 @@ La patria potestad se pierde por resolución judicial:
 
 I.- Cuando el que la ejerza sea condenado expresamente a la pérdida de ese derecho;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2015)</small>
 
-II.- En los casos de divorcio, teniendo en cuenta lo que dispone el Artículo 305 de este Código;
+II.- En los casos de divorcio, teniendo en cuenta lo que dispone el Artículo 293 de este Código;
 
 > <small>(REFORMADA P.O. 5 DE ABRIL DE 2010)</small>
 
@@ -16990,3 +16944,9 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de "personas con discapacidad".
+
+P.O. 22 DE JUNIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia a los treinta días hábiles siguientes al de su publicación en el Periódico Oficial del Estado de Aguascalientes, quedando sin efecto todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
