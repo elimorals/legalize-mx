@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ingresos-del-estado-de-puebla-para-el-ejercicio-105647"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2014-12-17"
-last_updated: "2014-12-17"
+last_updated: "2015-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE INGRESOS DEL ESTADO DE PUEBLA, PARA EL EJERCICIO FISCAL 2015
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO REGIRÁ DEL PRIMERO DE ENERO AL TREINTA Y UNO DE DICIEMBRE DEL AÑO DOS MIL QUINCE, O HASTA EN TANTO ENTRE EN VIGOR LA QUE REGIRÁ PARA EL SIGUIENTE EJERCICIO FISCAL.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado, el miércoles 17 de diciembre de 2014.
 
@@ -56,6 +56,8 @@ Los ingresos de la Hacienda Pública del Estado de Puebla durante el Ejercicio F
 En el ejercicio fiscal de 2015, se percibirán los ingresos provenientes de los conceptos citados en el párrafo anterior y en las cantidades estimadas que se establecen en la presente Ley:
 
 > <small>N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE DICIEMBRE DE 2014, PÁGINAS DE LA 15 A LA 17.</small>
+
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA, EN EL P.O. DE 22 DE JUNIO DE 2015, PÁGINAS DE LA 4 A LA 7.</small>
 
 El Ejecutivo Estatal, a través de la Secretaría de Finanzas y Administración difundirá la información financiera adicional en términos de lo dispuesto por la Ley General de Contabilidad Gubernamental, así como, en los acuerdos emitidos por el Consejo Nacional de Armonización Contable que establezca como obligatorios para el Gobierno del Estado, en los medios electrónicos oficiales para efectos de transparencia.
 
@@ -4962,3 +4964,9 @@ No será aplicable la carga financiera a que se refiere este artículo, cuando l
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiséis días del mes de noviembre de dos mil catorce. Diputada Presidenta. MARÍA SARA CAMELIA CHILACA MARTÍNEZ. Rúbrica. Diputado Vicepresidente. CIRILO SALAS HERNÁNDEZ. Rúbrica. Diputado Secretario. FRANCISCO MOTA QUIROZ. Rúbrica. Diputado Secretario. JOSÉ CHEDRAUI BUDIB. Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintisiete días del mes de noviembre de dos mil catorce. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Secretario General de Gobierno. C. LUIS MALDONADO VENEGAS. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE JUNIO DE 2015.
+
+ÚNICA. El presente Acuerdo deberá publicarse en el Periódico Oficial del Estado, y estará vigente a partir del día siguiente de su publicación al treinta y uno de diciembre del año dos mil quince, o hasta en tanto entre en vigor la Ley de Ingresos del Estado de Puebla que regirá para el siguiente Ejercicio Fiscal.
