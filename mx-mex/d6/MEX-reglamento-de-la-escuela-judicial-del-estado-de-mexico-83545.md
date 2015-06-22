@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-escuela-judicial-del-estado-de-mexico-83545"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-31"
-last_updated: "2011-10-31"
+last_updated: "2015-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO DE LA ESCUELA JUDICIAL DEL ESTADO DE MEXICO
 
-REGLAMENTO DE LA ESCUELA JUDICIAL DEL ESTADO DE MEXICO
+REGLAMENTO DE LA ESCUELA JUDICIAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2015.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el lunes 31 de octubre de 2011.
 
@@ -149,7 +149,7 @@ VII. La Dirección de Difusión, Extensión y Vinculación;
 
 VIII. La Unidad de Apoyo Administrativo;
 
-IX. La Unidad de Tecnologías de Información;
+IX. (DEROGADA, G.G. 22 DE JUNIO DE 2015)
 
 X. Las Subdirecciones, Unidades, Departamentos necesarios para el buen funcionamiento de la Institución;
 
@@ -483,33 +483,7 @@ XVI. Las demás que le señale el Consejo y el Director General.
 
 ###### Artículo 22.
 
-El Titular de la Unidad de Tecnologías de Información tendrá las siguientes facultades y obligaciones:
-
-I. Cumplir y hacer cumplir el Reglamento;
-
-II. Planear, implementar y controlar el uso de Tecnologías de la Información y Comunicación;
-
-III. Emitir dictámenes técnicos para la baja de equipos y software de aplicación;
-
-IV. Realizar actividades de investigación sobre las tendencias de las tecnologías de la información, así como evaluar su posible aplicación de acuerdo a las necesidades de la Escuela;
-
-V. Brindar apoyo, asesoría y soporte técnico a las diferentes áreas de la Escuela;
-
-VI. Supervisar el uso adecuado de los servicios tecnológicos con los que cuenta la Escuela;
-
-VII. Tramitar en coordinación con la Unidad de Apoyo Administrativo la adquisición del equipo y servicios Tecnológicos que se requiera para su correcto funcionamiento;
-
-VIII. Coordinar y supervisar la realización de los servicios de mantenimiento correctivo y preventivo del equipo tecnológico con el que cuenta la Escuela;
-
-IX. Desarrollar e implementar el software que surja de las necesidades mismas que tenga la Escuela;
-
-X. Coordinar el mantenimiento, actualización y respaldo de los Bancos de Datos que genere la Escuela;
-
-XI. Elaborar los informes de actividades sobre el comportamiento de su área;
-
-XII. Colaborar en la integración del informe anual de actividades; y
-
-XIII. Las demás que le señale el Consejo y el Director General.
+(DEROGADO, G.G. 22 DE JUNIO DE 2015)
 
 #### SECCIÓN DÉCIMA. DE LAS SUBDIRECCIONES Y JEFATURAS DE DEPARTAMENTOS
 
@@ -623,7 +597,7 @@ V. El Programa de Difusión de la Cultura Jurídica;
 
 VI. El Programa de Extensión de los Servicios; y
 
-VII. El Programa de Gestión; (sic)
+VII. El Programa de Gestión;
 
 ### CAPÍTULO II. DEL PROGRAMA DE FORMACIÓN Y CAPACITACIÓN JUDICIAL
 
@@ -765,7 +739,7 @@ Las demás que se consideren pertinentes para el buen funcionamiento del program
 
 Este programa tendrá como objetivo principal la realización de los estudios necesarios para el mejoramiento de la función jurisdiccional y el desarrollo de la Carrera Judicial. Se llevará a cabo mediante proyectos de investigación aplicada que sean calificados como pertinentes por el propio Director del Centro. Para la calificación se tomarán en cuenta los siguientes criterios:
 
-l. La relevancia de las aportaciones esperadas y su posible impacto en el desarrollo de la función judicial;
+I. La relevancia de las aportaciones esperadas y su posible impacto en el desarrollo de la función judicial;
 
 II. La experiencia de los responsables de cada proyecto; y
 
@@ -913,7 +887,7 @@ El Doctorado tiene como finalidad formar profesionales en la creación y recreac
 
 El aspirante a ingresar a los estudios de Posgrado deberá cubrir, en lo conducente, los siguientes requisitos:
 
-l. Tener al menos un promedio de ocho puntos en los estudios de licenciatura, y en su caso, en los estudios de maestría;
+I. Tener al menos un promedio de ocho puntos en los estudios de licenciatura, y en su caso, en los estudios de maestría;
 
 II. Presentar currículum vitae actualizado, acompañado de documentos probatorios;
 
@@ -953,7 +927,7 @@ Un alumno podrá interrumpir sus estudios mediante la solicitud de baja voluntar
 
 La baja voluntaria tiene lugar cuando el alumno lo desee, cumpliendo con los siguientes requisitos:
 
-l. Solicitar por escrito la autorización al Director General de la Escuela; y
+I. Solicitar por escrito la autorización al Director General de la Escuela; y
 
 II. Darse de baja hasta diez días hábiles antes de la fecha señalada en el calendario escolar como período de la entrega de trabajos finales. A efecto de no contar las asignaturas como cursadas en primera oportunidad.
 
@@ -1307,7 +1281,7 @@ En ningún caso se concederán evaluaciones extraordinarias o a título de sufic
 
 La Escuela contará para el desarrollo de sus funciones académicas con personal especializado que podrá tener las siguientes categorías:
 
-l. Profesores de Asignatura;
+I. Profesores de Asignatura;
 
 II. Profesores de Tiempo Completo; e
 
@@ -1369,7 +1343,7 @@ El desempeño y labor del claustro y de los alumnos de la Escuela deben ser reco
 
 Para los profesores:
 
-l. La designación de “Doctor Honoris Causa”;
+I. La designación de “Doctor Honoris Causa”;
 
 II. La designación de “Magister Honoris Causa”;
 
@@ -1513,7 +1487,7 @@ Los exámenes escritos de los cursos de formación, se sujetarán específicamen
 
 La evaluación del aprendizaje, en cuanto a cursos de formación se refiere, tiene como propósitos generales los siguientes:
 
-l. Desarrollar proyectos de investigación educativa aplicada;
+I. Desarrollar proyectos de investigación educativa aplicada;
 
 II. Dar elementos a las autoridades de la Escuela para conocer, y en su caso mejorar, los procesos educativos; y
 
@@ -1523,7 +1497,7 @@ III. Conocer, a través de los resultados, deficiencias, aciertos y avances, el 
 
 La evaluación del aprendizaje, dentro de los cursos de formación, se realizará mediante la aplicación de dos instrumentos:
 
-l. Exámenes de ingreso; y
+I. Exámenes de ingreso; y
 
 II. Exámenes parciales.
 
@@ -1563,7 +1537,7 @@ La Dirección General, a través de la Dirección Académica y de la Carrera Jud
 
 Los concursos de oposición, para el ingreso o promoción en las categorías que integran la Carrera Judicial señaladas en la Ley Orgánica, tienen por objeto:
 
-l. Evaluar los conocimientos de los aspirantes en relación con la función específica en la categoría para la que concursan;
+I. Evaluar los conocimientos de los aspirantes en relación con la función específica en la categoría para la que concursan;
 
 II. Evaluar la capacidad de los aspirantes para aplicar sus conocimientos a casos prácticos relacionados con la categoría sujeta a concurso;
 
@@ -1601,7 +1575,7 @@ Sólo serán consideradas las solicitudes de interesados que entreguen la docume
 
 La acreditación de los requisitos para presentar el examen, se llevará a cabo con la exhibición de:
 
-l. Copia certificada del acta de nacimiento expedida con una antigüedad no mayor a un año anterior a la fecha de recepción de documentos;
+I. Copia certificada del acta de nacimiento expedida con una antigüedad no mayor a un año anterior a la fecha de recepción de documentos;
 
 II. Constancia de vecindad expedida por la autoridad municipal competente, con una vigencia no mayor de seis meses anteriores a la fecha de recepción de documentos;
 
@@ -1849,7 +1823,7 @@ El examen escrito de conocimientos teórico-práctico-jurídicos se construirá 
 
 Para el examen oral teórico-práctico-jurídico, los sustentantes serán examinados por orden alfabético y para su aplicación se integrarán uno o varios sínodos, de cinco personas de acuerdo al siguiente esquema:
 
-l. Tres sinodales propuestos por el Consejo; y
+I. Tres sinodales propuestos por el Consejo; y
 
 II. Dos sinodales propuestos por la Escuela.
 
@@ -1912,3 +1886,13 @@ EL SECRETARIO GENERAL DE ACUERDOS
 LIC. JOSÉ ANTONIO PINAL MORA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 22 DE JUNIO DE 2015.
+
+PRIMERO. Publíquese este acuerdo en la Gaceta del Gobierno, el Boletín Judicial y en la página de internet de esta Institución.
+
+SEGUNDO. Este acuerdo entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones que (sic) de igual o menor jerarquía que se opongan a este acuerdo.
