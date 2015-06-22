@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2015-05-08"
+last_updated: "2015-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -455,6 +455,22 @@ Pedimento de testimonios de actas
 
 7.- Toda persona puede pedir testimonio de las actas del Registro Civil, así como de los apéndices con ellas relacionados, y los servidores públicos encargados estarán obligados a expedirlos, excepto en los casos prohibidos por la ley.
 
+> <small>(ADICIONADO, G.G. 22 DE JUNIO DE 2015)</small>
+
+De la constancia de origen
+
+###### Artículo 3.
+
+7 Bis.- Toda persona puede solicitar la expedición gratuita de la constancia de origen que se emitirá en un plazo no mayor de 24 horas, cuando los familiares o personas relacionadas con los migrantes así lo soliciten, conforme al Reglamento del Registro Civil.
+
+## TITULO SEGUNDO. De las Actas
+
+### CAPITULO I. De las Actas de Nacimiento
+
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
+
+Del registro de nacimiento
+
 ###### Artículo 3.
 
 8.- El registro oportuno es el hecho que se declara dentro del primer año de ocurrido el nacimiento.
@@ -466,14 +482,6 @@ Los registros extemporáneos de nacimiento de personas originarias del Estado de
 Personas obligadas a declarar el nacimiento
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE MAYO DE 2015)</small>
-
-## TITULO SEGUNDO. De las Actas
-
-### CAPITULO I. De las Actas de Nacimiento
-
-> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
-
-Del registro de nacimiento
 
 ###### Artículo 3.
 
@@ -579,6 +587,12 @@ Contenido de las actas de nacimientos múltiples
 
 18.- Cuando se trate de nacimiento múltiple, se asentará acta por separado para cada uno de los nacidos, en las que se hará constar por vía de anotación, el orden de nacimiento y las particularidades que los distingan, según los datos que contenga el certificado o constancia expedido por quien haya asistido el parto.
 
+### CAPITULO II. De las Actas de Reconocimiento de hijos fuera de Matrimonio
+
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
+
+Definición de reconocimiento
+
 ###### Artículo 3.
 
 19.- El reconocimiento es el acto jurídico en virtud del cual, el que reconoce asume a favor del reconocido todos los derechos y obligaciones que se derivan de la filiación.
@@ -586,12 +600,6 @@ Contenido de las actas de nacimientos múltiples
 > <small>(ADICIONADO, G.G. 7 DE MAYO DE 2015)</small>
 
 Reconocimiento de hijo al declarar su nacimiento
-
-### CAPITULO II. De las Actas de Reconocimiento de hijos fuera de Matrimonio
-
-> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
-
-Definición de reconocimiento
 
 ###### Artículo 3.
 
@@ -629,6 +637,12 @@ Omisión de registro de reconocimiento de hijo
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 15 DE MAYO DE 2012)</small>
 
+### CAPITULO III. De las Actas de Adopción
+
+> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
+
+Plazo y documentos para levantar el acta de adopción
+
 ###### Artículo 3.
 
 23.- Dictada la resolución definitiva que autorice la adopción, el adoptante dentro del plazo de quince días, presentará al Oficial del Registro Civil, copia certificada de las diligencias relativas, a fin de que se asiente el acta de nacimiento correspondiente.
@@ -636,12 +650,6 @@ Omisión de registro de reconocimiento de hijo
 > <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
 
 Contenido y efectos del acta de adopción
-
-### CAPITULO III. De las Actas de Adopción
-
-> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
-
-Plazo y documentos para levantar el acta de adopción
 
 ###### Artículo 3.
 
@@ -658,6 +666,10 @@ Omisión del registro de la adopción
 ###### Artículo 3.
 
 25.- La falta de registro de la adopción no priva a ésta sus efectos legales.
+
+### CAPITULO IV. De las Actas de Matrimonio
+
+Contenido de las actas de matrimonio
 
 ###### Artículo 3.
 
@@ -693,10 +705,6 @@ Falsedad de declaración en la celebración de matrimonio
 
 > <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
 
-### CAPITULO IV. De las Actas de Matrimonio
-
-Contenido de las actas de matrimonio
-
 ###### Artículo 3.
 
 27.- Los contrayentes, sus padres o quienes suplan el consentimiento que declaren un hecho falso, serán denunciados ante el Ministerio Público.
@@ -706,6 +714,14 @@ De la emancipación
 ###### Artículo 3.
 
 28.- En los casos de emancipación, será suficiente para acreditarla el acta de matrimonio.
+
+### CAPITULO V. De las Actas de Defunción
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 7 DE MAYO DE 2015)</small>
+
+Definición y contenido del acta de defunción
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE MAYO DE 2015)</small>
 
 ###### Artículo 3.
 
@@ -743,14 +759,6 @@ IX. Datos generales del declarante.
 
 Aviso al Ministerio Público de muerte violenta
 
-### CAPITULO V. De las Actas de Defunción
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 7 DE MAYO DE 2015)</small>
-
-Definición y contenido del acta de defunción
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE MAYO DE 2015)</small>
-
 ###### Artículo 3.
 
 30.- Cuando el oficial del Registro Civil presuma que la muerte fue violenta, lo denunciará al Ministerio Público.
@@ -773,17 +781,17 @@ Indispensable acta de defunción para inhumación o cremación
 
 32.- Ninguna inhumación o cremación se hará sin autorización escrita dada por el Oficial del Registro Civil, quien se asegurará de la defunción con el certificado respectivo, expedido por la persona legalmente autorizada por la autoridad sanitaria. Se procederá a la inhumación o cremación después de las doce horas y dentro de las cuarenta y ocho horas siguientes de haber ocurrido la defunción, excepto en los casos en que se ordene otra cosa por la autoridad que corresponda.
 
-###### Artículo 3.
-
-33.- Las autoridades que dicten resoluciones que declaren procedentes las acciones sobre la paternidad o maternidad, de divorcio, de nulidad, de ausencia, de presunción de muerte, de tutela, de pérdida o limitación de la capacidad legal para administrar bienes, de modificación o rectificación de actas, remitirán al Oficial del Registro Civil que corresponda copia certificada de la misma.
-
-Inscripción de resoluciones y asentamiento de actas en el Registro Civil
-
 ### CAPITULO VI. Resoluciones que declaren o modifiquen el Estado Civil
 
 Resoluciones sobre estado civil
 
 > <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
+
+###### Artículo 3.
+
+33.- Las autoridades que dicten resoluciones que declaren procedentes las acciones sobre la paternidad o maternidad, de divorcio, de nulidad, de ausencia, de presunción de muerte, de tutela, de pérdida o limitación de la capacidad legal para administrar bienes, de modificación o rectificación de actas, remitirán al Oficial del Registro Civil que corresponda copia certificada de la misma.
+
+Inscripción de resoluciones y asentamiento de actas en el Registro Civil
 
 ###### Artículo 3.
 
@@ -815,17 +823,17 @@ Cancelación de acta o inscripción en el Registro Civil
 
 36.- Cuando se recobre la capacidad o concluya la limitación legal para administrar bienes, se revoque la tutela, se declare nulo un divorcio o se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por la autoridad que corresponda, para que cancele el acta o inscripción respectiva.
 
-###### Artículo 3.
-
-37.- La rectificación, modificación o nulidad de las actas de los hechos o actos del estado civil, solo procede mediante resolución judicial, con excepción del reconocimiento voluntario que un padre haga de su hijo y de lo dispuesto en el artículo 3.38 bis de este Código.
-
-Causas de rectificación o modificación de actas
-
 ### CAPITULO VII. De la rectificación de las Actas del Estado Civil
 
 Rectificación de actas del estado civil
 
 > <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
+
+###### Artículo 3.
+
+37.- La rectificación, modificación o nulidad de las actas de los hechos o actos del estado civil, solo procede mediante resolución judicial, con excepción del reconocimiento voluntario que un padre haga de su hijo y de lo dispuesto en el artículo 3.38 bis de este Código.
+
+Causas de rectificación o modificación de actas
 
 ###### Artículo 3.
 
@@ -18058,3 +18066,9 @@ G.G. 8 DE MAYO DE 2015.
 PRIMERO. Publíquese el presente Decreto en el periódico oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 22 DE JUNIO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
