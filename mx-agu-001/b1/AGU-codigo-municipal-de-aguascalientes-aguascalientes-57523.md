@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2015-04-13"
+last_updated: "2015-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -5111,9 +5111,11 @@ APARTADO SÉPTIMO
 
 De las Faltas Contra la Integridad de las Personas y sus Bienes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2015)</small>
+
 ###### ARTÍCULO 343.
 
-Son faltas contra la integridad de las personas en su seguridad, tranquilidad y propiedades particulares y se sancionarán con arresto de hasta por treinta y seis horas o multa de cinco a treinta días de Salario Mínimo General Vigente en el Estado, las siguientes:
+Son faltas con (sic) la integridad de las personas en su seguridad, tranquilidad y propiedades particulares y se sancionarán con arresto de hasta treinta y seis horas o multa de cinco a treinta días de Salario Mínimo Vigente en el Estado, las siguientes:
 
 I. Provocar a cualquier animal para que ataque a una persona.
 
@@ -5133,7 +5135,9 @@ VIII. Maltratar, rayar, pintar o ensuciar las fachadas de los edificios o inmueb
 
 IX. Maltratar, rayar, pintar o ensuciar los vehículos automotores o cualquier otro bien mueble propiedad privada.
 
-X. Deambular en lugar público en notorio estado de intoxicación producido por sustancias estimulantes o depresores del sistema nervioso central, contrariando el orden público o turbando la tranquilidad de los vecinos, o realizando actos temerarios que pongan en riesgo su propia integridad física.
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2015)</small>
+
+X.- Deambular en lugar público en notorio estado de intoxicación producido por sustancias estimulantes o depresores del sistema nervioso central, contrariando el orden público o turbando la tranquilidad de los vecinos.
 
 XI. (DEROGADA, P.O. 3 DE NOVIEMBRE DE 2008)
 
@@ -22674,3 +22678,7 @@ P.O. 13 DE ABRIL DE 2015.
 RESOLUTIVO PRIMERO, POR EL QUE SE REFORMAN LOS ARTÍCULOS 104 FRACCIÓN XIX; ARTICULO 106 FRACCIÓN; XV 108; FRACCIÓN III Y IV; ARTÍCULO 109 FRACCIÓN XII; ARTÍCULO 110 FRACCIÓN XLIV; ARTICULO 112 FRACCIÓN XLI; ASÍ MISMO SE ADICIONAN LAS FRACCIONES XX DEL ARTÍCULO 104; XVI, XVII, XVIII Y XIX DEL ARTÍCULO 106; V, VI, VII, VIII, IX, X Y XI DEL ARTÍCULO 108; XIII DEL ARTÍCULO 109; XLV Y XLVI DEL ARTÍCULO 110; Y XLII Y XLIII DEL ARTÍCULO 112.
 
 ÚNICO. Las presentes reformas y adición al Código Municipal de Aguascalientes entrarán en vigor al día de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE JUNIO DE 2015.
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
