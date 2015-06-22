@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2015-01-13"
+last_updated: "2015-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 13 DE ENERO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 367 PUBLICADO EN LA G.G. DE 18 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2015.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1767,7 +1765,9 @@ VIII. Publicar los reglamentos, circulares y demás disposiciones municipales de
 
 IX. Compilar leyes, decretos, reglamentos, periódicos oficiales del estado, circulares y órdenes relativas a los distintos sectores de la administración pública municipal;
 
-X. Expedir las constancias de vecindad que soliciten los habitantes del municipio, a la brevedad, en un plazo no mayor de 24 horas, así como las certificaciones y demás documentos públicos que legalmente procedan, o los que acuerde el ayuntamiento;
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2015)</small>
+
+X. Expedir las constancias de vecindad, de identidad o de última residencia que soliciten los habitantes del municipio, en un plazo no mayor de 24 horas, así como las certificaciones y demás documentos públicos que legalmente procedan, o los que acuerde el ayuntamiento;
 
 > <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2004)</small>
 
@@ -2313,9 +2313,7 @@ Los órganos de control y evaluación gubernamental de los ayuntamientos, serán
 
 > <small>(REFORMADO, G.G. 25 DE ABRIL DE 2013)</small>
 
-### CAPITULO NOVENO. Del Sistema de Mérito y Reconocimiento al Servicio
-
-Público Municipal
+### CAPITULO NOVENO. Del Sistema de Mérito y Reconocimiento al Servicio Público Municipal
 
 ###### Artículo 125.
 
@@ -3125,17 +3123,21 @@ VII. Los principios del Programa Estratégico para lograr la equidad de género,
 
 VIII. Protección ecológica y mejoramiento del medio ambiente;
 
+> <small>(ADICIONADA, G.G. 22 DE JUNIO DE 2015)</small>
+
+IX. En los municipios identificados como destinos turísticos, deberán incluir disposiciones que regulen la materia turística y, en su caso, el reglamento respectivo.
+
 > <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
 
-IX. Actividad industrial, comercial y de servicios a cargo de los particulares;
+X. Actividad industrial, comercial y de servicios a cargo de los particulares;
 
 > <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
 
-X. Infracciones, sanciones y recursos;
+XI. Infracciones, sanciones y recursos;
 
 > <small>(ADICIONADA, G.G. 6 DE MARZO DE 2010)</small>
 
-XI. Las demás que se estimen necesarias.
+XII. Las demás que se estimen necesarias.
 
 ###### Artículo 163.
 
@@ -4236,3 +4238,19 @@ DECRETO NÚMERO 376, POR EL QUE SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 51 DE L
 PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 22 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 449 POR EL QUE SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 91 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 22 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 450, POR EL QUE ADICIONA LA FRACCIÓN IX Y SE RECORREN EN SU ORDEN LAS SUBSECUENTES DEL ARTÍCULO 162 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
