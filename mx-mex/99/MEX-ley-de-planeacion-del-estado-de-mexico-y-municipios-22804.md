@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-planeacion-del-estado-de-mexico-y-municipios-22804"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-21"
-last_updated: "2012-07-31"
+last_updated: "2015-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2015.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 21 de diciembre de 2001.
 
@@ -211,6 +211,10 @@ IX. Los informes de evaluación;
 
 X. Los dictámenes de reconducción y actualización.
 
+> <small>(ADICIONADA, G.G. 22 DE JUNIO DE 2015)</small>
+
+XI. Los planes de desarrollo a largo plazo.
+
 ###### Artículo 15.
 
 Compete al Gobernador del Estado, en materia de planeación democrática para el desarrollo:
@@ -229,7 +233,11 @@ VI. Aprobar y ordenar la publicación y divulgación del Plan de Desarrollo del 
 
 VII. Determinar las bases para la coordinación y participación;
 
-VIII. Las demás que se establezcan en otros ordenamientos.
+> <small>(ADICIONADA, G.G. 22 DE JUNIO DE 2015)</small>
+
+VIII. Integrar con la participación ciudadana el Plan de Largo Plazo del Estado de México para los próximos 30 años y en su caso readecuarlo cada seis años;
+
+IX. Las demás que se establezcan en otros ordenamientos.
 
 ###### Artículo 16.
 
@@ -331,7 +339,11 @@ VIII. Integrar y elaborar el presupuesto por programas para la ejecución de las
 
 IX. Cumplir con el Plan Nacional de Desarrollo, el Plan de Desarrollo del Estado de México, el Plan de Desarrollo Municipal y los programas que de éstos se deriven;
 
-X. Las demás que se establezcan en otros ordenamientos.
+> <small>(ADICIONADA, G.G. 22 DE JUNIO DE 2015)</small>
+
+X. Integrar con la participación ciudadana el Plan de Largo Plazo del Municipio para los próximos 30 años y en su caso readecuarlo cada tres años;
+
+XI. Las demás que se establezcan en otros ordenamientos.
 
 ###### Artículo 20.
 
@@ -579,7 +591,7 @@ XI. Un comisario, quien será el representante de la Secretaría de la Contralor
 
 > <small>(ADICIONADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
-XII. Los titulares o representantes de los grupos y organizaciones sociales y privados; (sic)
+XII. Los titulares o representantes de los grupos y organizaciones sociales y privados;
 
 > <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -788,3 +800,9 @@ G.G. 31 DE JULIO DE 2012.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 22 DE JUNIO DE 2015.
+
+PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
