@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-ministerio-publico-del-estado-de-89069"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-20"
-last_updated: "2014-09-29"
+last_updated: "2015-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 22 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 20 de agosto de 2012.
 
@@ -1492,3 +1494,51 @@ En tanto no inicie su vigencia la autonomía de la Fiscalía General del Estado,
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones contrarias al contenido del presente decreto.
+
+P.O. 22 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes y en la misma fecha iniciará su vigencia la reforma al Artículo 59 de la Constitución Local, para lo cual este H. Congreso del Estado, declara expresamente la entrada en vigor de la autonomía constitucional de la Fiscalía General.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica del Ministerio Público del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado el 20 de agosto de 2012.
+
+###### ARTÍCULO TERCERO.
+
+Las facultades conferidas al Procurador General de Justicia del Estado en las leyes, reglamentos y demás disposiciones jurídicas, se entenderán conferidas al Fiscal General, siempre y cuando sean compatibles con las atribuciones que le otorga la Constitución Local.
+
+Las menciones hechas a la Procuraduría General de Justicia del Estado, o al Procurador General de Justicia del Estado en las leyes, reglamentos y demás disposiciones jurídicas, se entenderán referidas a la Fiscalía General o al Fiscal General, respectivamente, en los términos expresados en el párrafo anterior.
+
+En tanto se realiza la designación del Fiscal General en términos del artículo 59 de la Constitución Local, el encargado de despacho de la Procuraduría General de Justicia del Estado de Aguascalientes, será el encargado de despacho de la Fiscalía General.
+
+###### ARTÍCULO CUARTO.
+
+Las disposiciones reglamentarias de la Ley Orgánica de la Fiscalía General del Estado, serán expedidas por el Fiscal General, y serán publicadas en el Periódico Oficial del Estado, dentro de los siguientes 120 días naturales contados a partir del inicio de vigencia del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+La Fiscalía General, seguirá observando todas las disposiciones reglamentarias y administrativas aplicables a la fecha del presente Decreto a la Procuraduría General de Justicia del Estado de Aguascalientes, que no se opongan a la presente Ley, hasta en tanto expida y entren en vigor sus propias disposiciones.
+
+###### ARTÍCULO SEXTO.
+
+Los actuales servidores públicos de la Procuraduría General de Justicia del Estado que hayan sido nombrados por el Ejecutivo, permanecerán en sus cargos hasta que en su caso sean ratificados por el Fiscal General.
+
+Los servidores públicos que hayan sido nombrados por el Procurador General de Justicia del Estado, así como por el personal de confianza de la Procuraduría General de Justicia del Estado, permanecerán en sus cargos hasta que se haga la designación correspondiente conforme a lo dispuesto por esta Ley y sus disposiciones reglamentarias.
+
+Los servidores públicos a que hacen referencia los párrafos anteriores, deberán continuar percibiendo los salarios y prestaciones económicas a las que tienen derecho por el ejercicio de sus cargos.
+
+Al iniciar su vigencia el presente Decreto, todos los recursos materiales y presupuestales de la Procuraduría General de Justicia del Estado, se transferirán a la Fiscalía General del Estado.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los procedimientos jurisdiccionales y administrativos relacionados con la separación, remoción, cese, o cualquier otra forma de terminación del servicio de servidores públicos que prestaban su servicios en la Procuraduría General de Justicia del Estado al día de la entrada en vigor del presente decreto, concluirán conforme a la normatividad que les fue aplicable en el momento de inicio del procedimiento mientras que los procedimientos iniciados con posterioridad se seguirán de acuerdo con las presentes disposiciones.
+
+###### ARTÍCULO OCTAVO.
+
+Lo establecido en las fracciones IX, XIII y XXXV del artículo 15, y lo relativo al recurso de inconformidad establecido en el artículo 86 de la presente Ley, estará vigente hasta la entrada en vigor del sistema acusatorio, en términos de la Declaratoria emitida por el Congreso del Estado al respecto y publicada en el Periódico Oficial del Estado el 11 de junio del año 2014.
+
+###### ARTÍCULO NOVENO.
+
+En tanto no se constituya la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes, la referencia a ésta se entenderá hecha a la Procuraduría de la Defensa del Menor y la Familia, de conformidad con el artículo Tercero Transitorio del Decreto Número 193 que contiene la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes, publicado en el Periódico Oficial del Estado, de fecha 3 de junio de 2015.
