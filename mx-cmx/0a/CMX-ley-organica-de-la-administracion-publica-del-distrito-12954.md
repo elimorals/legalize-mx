@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2015-01-29"
+last_updated: "2015-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE JUNIO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -108,9 +108,19 @@ El Jefe de Gobierno será el titular de la Administración Pública del Distrito
 
 El Jefe de Gobierno contará con unidades de asesoría, de apoyo técnico, jurídico, de coordinación y de planeación del desarrollo que determine, de acuerdo con el presupuesto asignado a la Administración Pública del Distrito Federal. Asimismo, se encuentra facultado para crear, mediante reglamento, decreto o acuerdo, los órganos desconcentrados, institutos, consejos, comisiones, comités y demás órganos de apoyo al desarrollo de las actividades de la Administración Pública del Distrito Federal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE JUNIO DE 2015)</small>
+
 ###### Artículo 6o.
 
-Las dependencias, órganos desconcentrados y entidades de la Administración Pública Centralizada, Desconcentrada y Paraestatal conducirán sus actividades en forma programada, con base en las políticas que para el logro de los objetivos y prioridades determinen el Plan Nacional de Desarrollo, el Programa General de Desarrollo del Distrito Federal, los demás programas que deriven de éste y las que establezca el Jefe de Gobierno.
+Las dependencias, órganos desconcentrados y entidades de la Administración Pública Centralizada, Desconcentrada y Paraestatal conducirán sus actividades en forma programada, con base en las políticas que para el logro de los objetivos y prioridades determinen el Plan Nacional de Desarrollo, el Programa General de Desarrollo del Distrito Federal, Programa de Derechos Humanos del Distrito Federal, los demás Programas que deriven de éste y las que establezca el Jefe de Gobierno.
+
+> <small>(ADICIONADO, G.O. 23 DE JUNIO DE 2015)</small>
+
+De igual forma sus actividades serán enfocadas en el fortalecimiento y creación de políticas públicas para promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad.
+
+> <small>(ADICIONADO, G.O. 23 DE JUNIO DE 2015)</small>
+
+Para garantizar el principio de interés superior de la niñez, sus actividades serán enfocadas en el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez, protegiendo y respetando de manera plena sus derechos, estas actividades deberán guiar la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral.
 
 ###### Artículo 7o.
 
@@ -2591,3 +2601,11 @@ SEGUNDO.- Dentro de los treinta días hábiles a la promulgación del presente D
 TERCERO.- Hasta en tanto no se realice el ajuste correspondiente al Arancel de Notarios del Distrito Federal, se estará a lo dispuesto en la fracción V del Artículo 35 de dicho Arancel.
 
 CUARTO.- Las disposiciones contenidas en el presente decreto entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 23 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+ARTÍCULO TERCERO (SIC).- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
