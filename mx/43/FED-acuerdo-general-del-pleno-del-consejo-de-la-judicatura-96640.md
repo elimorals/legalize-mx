@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2015-05-25"
+last_updated: "2015-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JUNIO DE 2015.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -2217,7 +2217,13 @@ El informe anual será presentado en el salón de usos múltiples del edificio s
 
 El Director General del Instituto Federal de Defensoría Pública está facultado para suscribir, en representación del Consejo, convenios de coordinación y colaboración con los distintos sectores sociales, organismos públicos y privados y, en general, con todos aquellos que puedan ayudar a la consecución de los fines propios del órgano auxiliar.
 
-En forma previa a la firma de cualquier convenio, el Director General del Instituto Federal de Defensoría Pública deberá hacerlo del conocimiento del Pleno, proporcionando la información relativa a los compromisos que de dicho instrumento se deriven.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 23 DE JUNIO DE 2015)</small>
+
+En forma previa a la firma de cualquier convenio, el Director General del Instituto Federal de Defensoría Pública deberá hacerlo del conocimiento del Pleno, proporcionando la información relativa a los compromisos que de dicho instrumento se deriven, con excepción de aquellos que se relacionen con el servicio social en el Instituto.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 23 DE JUNIO DE 2015)</small>
+
+Tratándose de los convenios en materia de servicio social, para su suscripción sólo deberá contarse con la opinión de la Dirección General de Asuntos Jurídicos, y no deberán comprometerse recursos presupuestales ni la creación de estructuras administrativas para su cumplimiento.
 
 ###### Artículo 114.
 
@@ -5138,3 +5144,11 @@ ACUERDO GENERAL POR EL QUE SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 35 DEL ACUERD
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 23 DE JUNIO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
