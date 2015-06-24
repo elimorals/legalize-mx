@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fiscalizacion-superior-de-la-ciudad-de-mexico-101742"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-09"
-last_updated: "2014-12-18"
+last_updated: "2015-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101742&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2014-06-09"
 
 LEY DE FISCALIZACIÓN SUPERIOR DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE JUNIO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 9 de julio de 2014.
 
@@ -264,13 +264,19 @@ V. Informar a la Auditoría Superior la atención y seguimiento de Recomendacion
 
 El mismo procedimiento se seguirá en el caso de las instituciones o personas que hubieren recibido subsidios, transferencias, concesiones o permisos de los sujetos de fiscalización, cuando estos hubieren incurrido en los actos u omisiones que se establecen en el presente artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE JUNIO DE 2015)</small>
+
 ###### Artículo 10.
 
-La Auditoría Superior se estructurará con:
+La Auditoría Superior se estructura con:
 
 a) Un Auditor Superior que será la máxima autoridad y durará en el encargo siete años, el cual podrá ser ratificado, por una sola ocasión, para un periodo adicional; y será inamovible durante el periodo para el cual fue designado, salvo las causas previstas en el artículo 13 de esta Ley y las consideradas en la Ley en materia de Responsabilidades de Servidores Públicos; y
 
 b) Las Unidades Administrativas que el Auditor determine en el Reglamento Interior o por acuerdo.
+
+> <small>(ADICIONADO, G.O. 24 DE JUNIO DE 2015)</small>
+
+c) Un Contralor General
 
 La designación del Auditor Superior se sujetará al procedimiento siguiente:
 
@@ -456,9 +462,83 @@ El Auditor Superior a través del Reglamento Interior y/o Acuerdos respectivos f
 
 ### CAPÍTULO TERCERO. DE LA CONTRALORÍA GENERAL DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
+> <small>(REFORMADO, G.O. 24 DE JUNIO DE 2015)</small>
+
 ###### Artículo 18.
 
-Las funciones de control y evaluación del desempeño de la Auditoría Superior las ejercerá la Contraloría General de la Asamblea Legislativa del Distrito Federal, de conformidad con las disposiciones de la Ley Orgánica de la Asamblea Legislativa del Distrito Federal.
+Las funciones de control y evaluación del desempeño de la Auditoría Superior las ejercerá la Contraloría General, de conformidad con las disposiciones de esta Ley, de la Ley de Responsabilidades de los Servidores Públicos y del Reglamento Interior de la Auditoría Superior.
+
+> <small>(ADICIONADO, G.O. 24 DE JUNIO DE 2015)</small>
+
+###### Artículo 18 Bis.
+
+La Contraloría General de la Auditoría Superior tendrá a su cargo la auditoría interna del ejercicio del presupuesto de egresos de la Auditoría Superior. Al frente de la Contraloría General de la Auditoría Superior habrá un Contralor General, a quien corresponde la representación, trámite y resolución de los asuntos de la competencia de esa unidad administrativa, y para la mejor distribución y desarrollo del trabajo podrá auxiliarse de las áreas de Auditoría; de Legalidad y Responsabilidades; de Control y Evaluación; y de los servidores públicos subalternos de conformidad con el Reglamento.
+
+El Contralor General de la Auditoría Superior, durará siete años en su encargo sin posibilidad de ser reelecto, será propuesto por la Comisión de Gobierno de la Asamblea Legislativa del Distrito Federal, ante el Pleno del mencionado Órgano Parlamentario, mismo que por el voto de la mayoría de sus integrantes, efectuara la designación correspondiente.
+
+En el caso de ausencia del Contralor General de la Auditoría Superior, será suplido por los Titulares de las Áreas de Auditoría; de Legalidad y Responsabilidades; o de Control y Evaluación, en el orden citado.
+
+> <small>(ADICIONADO, G.O. 24 DE JUNIO DE 2015)</small>
+
+###### Artículo 18 Ter.
+
+Para ser Contralor General de la Auditoría Superior se requiere:
+
+I. Tener Licenciatura o estudios de postgrado en el áreas jurídica, económico administrativas o relacionadas directamente con las funciones encomendadas;
+
+II. Demostrar contar por lo menos con tres años de ejercicio profesional y una experiencia laboral de la que pueda inferir que posee los conocimientos y habilidades suficientes para cubrir el perfil de este cargo;
+
+III. No ser Cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad o civil de cualquiera de los Diputados integrantes de la Asamblea, ni tener relaciones de negocios con alguno de ellos, ni ser socio o accionista de sociedades en las que alguno de los Diputados forme o haya formado parte;
+
+IV. No haber sido condenado por delito doloso, cualquiera que haya sido la pena.
+
+> <small>(ADICIONADO, G.O. 24 DE JUNIO DE 2015)</small>
+
+Artículo 18 Quarter.- El Contralor General de la Auditoría Superior tendrá las siguientes obligaciones y atribuciones:
+
+I. Presentar al Pleno de la Asamblea, por conducto de la Comisión un informe semestral sobre el ejercicio del presupuesto de egresos de la Auditoría Superior.
+
+II. Dar a conocer previamente al Auditor Superior las resoluciones que emita.
+
+III. Apoyar, asistir y asesorar a la Comisión, a la Auditoría Superior y a las Unidades Administrativas de ésta en el ámbito de su competencia;
+
+IV. Conocer e investigar los actos u omisiones de los servidores públicos adscritos a las unidades administrativas de la Auditoría Superior, que afectan la legalidad, honradez, lealtad, imparcialidad, confidencialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión; derivadas de quejas o denuncias presentadas por particulares, servidores públicos o aquellas relacionadas con auditorías y en especial las relacionadas con los procedimientos de adquisición de bienes, servicios, arrendamientos y contratación de obra pública, así como determinar e imponer las sanciones que correspondan en los términos de la Ley de Responsabilidades de los Servidores Públicos vigente en la Ciudad de México, las cuales se aplicarán a través del superior jerárquico del servidor público sancionado. Asimismo, le corresponderá sustanciar y resolver los recursos de revocación que se promuevan en contra de las resoluciones que impongan sanciones a los servidores públicos de la Auditoría Superior, en términos de las disposiciones jurídicas y administrativas aplicables, y demás que las leyes prevean que deba conocer;
+
+V. Verificar que las unidades administrativas que integran la Auditoría Superior cumplan con las obligaciones derivadas de las disposiciones en materia de planeación, programación, presupuestos, ingresos, financiamiento, inversión, deuda, fondos, valores y bienes del Distrito Federal en administración de la Auditoría Superior: así como las demás disposiciones relativas que dicten el Pleno de la Asamblea;
+
+VI. Auxiliar a las Unidades Administrativas de la Auditoría Superior, en la elaboración y revisión de los manuales de organización y procedimientos, promoviendo y supervisando su difusión, aplicación y actualización, con énfasis en el aspecto preventivo;
+
+VII. Realizar dentro del ámbito de su competencia, todo tipo de auditorías y evaluaciones de las unidades administrativas que integran la Auditoría Superior, con el objetivo de promover la eficiencia en sus operaciones;
+
+VIII. Verificar el cumplimiento de los objetivos contenidos en los Programas de la Auditoría Superior, formular, con base en los resultados de las auditorías, las observaciones y recomendaciones que de éstas se deriven, y establecer el seguimiento sistemático para el cumplimiento de las mismas, lo anterior sin perjuicio de lo dispuesto en la fracción II de este precepto;
+
+IX. Informar a la Comisión su Programa Anual de Auditorías y, en su caso, las que deba realizar fuera del mismo, para su aprobación;
+
+X. Informar semestralmente a la Comisión sobre los resultados de las auditorías practicadas y las evaluaciones a las unidades administrativas que integran la Auditoría Superior, que hayan sido objeto de fiscalización, así como de las acciones que se indiquen para mejorar la gestión;
+
+XI. Intervenir en los procesos de licitación, de adquisiciones de bienes, servicios, arrendamientos y de obra pública, para vigilar que se cumpla con las normas jurídicas y demás disposiciones técnicas o administrativas aplicables, así como sustanciar y resolver los recursos que en dicha materia le competan;
+
+XII. Supervisar la organización, sistema, métodos y procedimientos que rigen la operación administrativa y el control de la gestión de la Auditoría Superior;
+
+XIII. Planear, Programar, organizar, coordinar y establecer el Sistema de Control y Evaluación de la Auditoría Superior en el ámbito administrativo, promoviendo permanentemente su actualización;
+
+XIV. Fiscalizar e Inspeccionar el ejercicio del gasto público y su congruencia con el Presupuesto de Egresos de la Auditoría Superior;
+
+XV. Participar en los actos de entrega recepción de la Auditoría Superior, en términos de la normatividad aplicable;
+
+XVI. Llevar el registro de los servidores públicos sancionados de las unidades administrativas de la Auditoría Superior en los términos de la Ley de Responsabilidades de Servidores Públicos vigente en el Distrito Federal;
+
+XVII. Llevar el registro patrimonial de los servidores públicos de la Auditoría Superior, y en su caso aplicar las sanciones que establezca la Ley de la materia;
+
+XVIII. Calificar los pliegos preventivos de responsabilidades que formulen las áreas contables de la Auditoría Superior, de conformidad con la normatividad aplicable en la materia;
+
+XIX. Representar en el ámbito de su competencia a la Auditoría Superior, ante las autoridades administrativas o judiciales, en todos los asuntos que se originen derivados del ejercicio de sus atribuciones legales;
+
+XX. Requerirá a las unidades administrativas de la Auditoría Superior o a los particulares involucrados, la información necesaria para el desempeño de sus funciones;
+
+XXI. Certificar los documentos y/o constancias que se encuentren en sus archivos y los que genere en el ejercicio de sus atribuciones; y
+
+XXII. Las demás que le sean atribuidas por la Ley y demás disposiciones normativas aplicables;
 
 ### CAPÍTULO CUARTO. DE LA COMISIÓN DE VIGILANCIA DE LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO
 
@@ -1296,7 +1376,7 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los nueve días del m
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-G.G. 28 DE NOVIEMBRE DE 2014.
+G.O. 28 DE NOVIEMBRE DE 2014.
 
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
@@ -1315,3 +1395,15 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 24 DE JUNIO DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Dentro de los 90 días naturales siguientes a la publicación del presente decreto, la Comisión de Gobierno de la Asamblea Legislativa del Distrito Federal, deberá proponer al Pleno del mencionado Órgano Parlamentario, candidato para ocupar el cargo de Contralor General de la Auditoria Superior; para que, dentro de los 30 días naturales siguientes por mayoría de los diputados presentes en la sesión correspondiente designe al Contralor General; en tanto, seguirá ejerciendo las funciones que viene desarrollando el actual Subcontralor en la Auditoría Superior de la Contraloría General de la Asamblea Legislativa, el personal adscrito a dicha subcontraloria continuará formando parte de la Asamblea Legislativa del Distrito Federal.
+
+TERCERO.- La Auditoría Superior de la Ciudad de México homologará y adecuará su Reglamento Interior y demás normatividad interna dentro de los 60 días hábiles siguientes a la entrada en vigor de este Decreto.
+
+CUARTO.- En un plazo de 30 días naturales posteriores a la entrada en vigor del presente Decreto, la Comisión de Presupuesto y Cuenta Pública, dictaminará las adecuaciones y ajustes presupuestales de la Asamblea Legislativa y de la Contraloría, que se deriven de esta reforma.
+
+QUINTO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación, para su mayor difusión.
