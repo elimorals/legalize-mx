@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-comision-de-derechos-humanos-del-estado-de-mexico-626
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-14"
-last_updated: "2014-07-11"
+last_updated: "2015-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE JUNIO DE 2015.
 
 Ley publicada en la Gaceta de Gobierno del Estado de México, el jueves 14 de agosto de 2008.
 
@@ -47,9 +47,11 @@ LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
 Las disposiciones de esta Ley son de orden público, interés social y observancia general en el Estado de México, en términos de lo establecido por los artículos 102 apartado B de la Constitución Política de los Estados Unidos Mexicanos y 16 de la Constitución Política del Estado Libre y Soberano de México.
 
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2015)</small>
+
 ###### Artículo 2.
 
-La presente Ley tiene por objeto establecer las bases para la protección, observancia, estudio, promoción y divulgación de los derechos humanos que ampara el orden jurídico mexicano; así como los procedimientos que se sigan ante la Comisión de Derechos Humanos del Estado de México.
+La presente Ley tiene por objeto establecer las bases para la protección, observancia, respeto, garantía, estudio, promoción y divulgación de los derechos humanos que ampara el orden jurídico mexicano; así como los procedimientos que se sigan ante la Comisión de Derechos Humanos del Estado de México.
 
 ###### Artículo 3.
 
@@ -191,9 +193,13 @@ XXVII. Otorgar premios y reconocimientos en materia de derechos humanos; y
 
 XXVIII. Las demás que sean necesarias para el cumplimiento de sus objetivos, que se deriven de esta Ley y demás ordenamientos legales.
 
+> <small>(REFORMADO, G.G. 24 DE JUNIO DE 2015)</small>
+
 ###### Artículo 14.
 
-La Comisión no es competente para conocer de asuntos electorales, laborales y jurisdiccionales; tampoco lo es respecto a consultas que formulen las autoridades, los particulares u otras entidades sobre interpretación de disposiciones constitucionales y legales; ni en aquellos casos en que se pueda comprometer o vulnerar su autonomía o su autoridad moral.
+La Comisión no es competente para conocer de asuntos electorales y jurisdiccionales; tampoco lo es respecto a consultas que formulen las autoridades, los particulares u otras entidades sobre interpretación de disposiciones constitucionales y legales; ni en aquellos casos en que se pueda comprometer o vulnerar su autonomía o su autoridad moral.
+
+En su actuación, las normas relativas a los derechos humanos se interpretarán por la Comisión, en el ámbito de su competencia, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales en la materia y la Constitución Política del Estado para favorecer en todo tiempo a las personas la protección más amplia.
 
 ### Capítulo II. De la estructura y organización
 
@@ -217,7 +223,7 @@ La Comisión se auxiliará del personal profesional, técnico y administrativo i
 
 El Presidente es el representante legal y la autoridad ejecutiva responsable del Organismo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE MARZO DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -241,7 +247,7 @@ VIII. No haber sido sancionado en el desempeño de empleo, cargo o comisión en 
 
 IX. No haber sido objeto de sanción de inhabilitación o destitución administrativas para el desempeño de empleo, cargo o comisión en el servicio público, mediante resolución que haya causado estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE MARZO DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -255,7 +261,7 @@ Para los efectos de lo previsto en el párrafo anterior, la Legislatura Estatal 
 
 La o el Presidente durará en su encargo cuatro años, pudiendo ser reelecto por la Legislatura del Estado, por una sola vez y por igual periodo, en términos de lo dispuesto por el artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE MARZO DE 2011)</small>
 
 ###### Artículo 20.
 
@@ -347,7 +353,7 @@ La o el Presidente, la o el Secretario y las o los Visitadores, no deben desempe
 
 ### Capítulo III. De las facultades y obligaciones de los Órganos de la Comisión
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE MARZO DE 2011)</small>
 
 ###### Artículo 28.
 
@@ -473,7 +479,7 @@ X. Elaborar los proyectos de Acuerdos, Resoluciones de no Responsabilidad, Recom
 
 XI. Las demás que les confiera esta Ley, otras disposiciones legales y la o el Presidente.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE MARZO DE 2011)</small>
 
 ###### Artículo 32.
 
@@ -481,7 +487,7 @@ La o el Presidente y las o los Visitadores tienen fe pública en sus actuaciones
 
 Para los efectos de esta Ley, fe pública es la facultad de certificar la veracidad de los hechos, acontecimientos, circunstancias, objetos, documentos, lugares; así como entrevistas, declaraciones y testimonios, que se relacionen con el ejercicio de sus atribuciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE MARZO DE 2011)</small>
 
 ###### Artículo 33.
 
@@ -1093,7 +1099,7 @@ DR. VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.G. 6 DE AGOSTO DE 2009.
 
@@ -1154,3 +1160,9 @@ G.G. 11 DE JULIO DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Las presentes reformas entraran en vigencia al día siguiente de su publicación en el Periódico Oficial "Gaceta de Gobierno".
+
+G.G. 24 DE JUNIO DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
