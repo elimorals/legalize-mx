@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-103369"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-10-29"
-last_updated: "2015-05-16"
+last_updated: "2015-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2015.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 29 de octubre de 2014.
 
@@ -633,7 +633,13 @@ XXVII. Tener bajo su control, directamente o por conducto del Director General d
 
 XXVIII. Presentar al Pleno, para su aprobación y, en su caso, posterior remisión al Congreso, la cuenta general de ingresos y egresos, trimestral y anualmente. En el primer caso, dentro del mes siguiente a la terminación del período correspondiente, en el segundo, dentro de los dos siguientes meses a la terminación del ejercicio fiscal.
 
-XXIX. Las demás que le confieran las leyes.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XXIX. Celebrar convenios de colaboración y/o coordinación interinstitucional con las entidades de la administración pública federal, estatal, municipal, organismos descentralizados, organismos desconcentrados, autónomos, del sector social, académico y privado, nacionales o internacionales, para el mejor desempeño de las funciones del Poder Judicial en el ejercicio de sus facultades, entre otras para realizar tareas de capacitación, investigación jurídica, difusión y socialización de la cultura de la legalidad.
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XXX. Las demás que le confieran las leyes.
 
 ###### ARTÍCULO 47.
 
@@ -1648,6 +1654,10 @@ En el desempeño de sus labores, los funcionarios adscritos a la Oficina de la P
 ###### ARTÍCULO 159.
 
 La Coordinación de la Presidencia es el órgano encargado de auxiliar al Presidente en la planeación e implementación de las políticas, disposiciones, programas o procedimientos de modernización del Poder Judicial, así como del desahogo y trámite de los asuntos que se le deleguen.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+La Coordinación, por sí o por conducto de alguna de sus áreas que considere necesario, se encargará de la tarea de difusión de la cultura de la legalidad y de socialización de las actividades del Poder Judicial del Estado, a través de la implementación de programas permanentes, en colaboración o coordinación con instituciones públicas o privadas.
 
 ###### ARTÍCULO 160.
 
@@ -2968,3 +2978,9 @@ PRIMERO.- Con relación al Artículo Primero del presente Decreto y conforme a l
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 TERCERO.- Cualquier disposición constitucional, legal y reglamentaria en la que se haga referencia al Supremo Tribunal de Justicia del Estado, se entenderá en lo subsecuente referida al Tribunal Superior de Justicia. Así mismo, las funciones, facultades, derechos y obligaciones establecidos a cargo del Supremo Tribunal de Justicia del Estado, en contratos, convenios o acuerdos, celebrados con dependencias o entidades del Gobierno del Estado, de la Federación y de los municipios, y con cualquier persona física o moral, se entenderá que corresponden al Tribunal Superior de Justicia del Estado de Chihuahua.
+
+P.O. 24 DE JUNIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
