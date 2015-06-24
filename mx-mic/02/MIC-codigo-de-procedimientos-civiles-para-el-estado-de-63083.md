@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-para-el-estado-de-63083"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-06"
-last_updated: "2012-02-01"
+last_updated: "2015-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2015.
 
 Código publicado en la Sección Extraordinaria del Periódico Oficial del Estado de Michoacán, el sábado 6 de septiembre de 2008.
 
@@ -515,35 +515,51 @@ El Magistrado y el Juez podrán modificar o variar las resoluciones antes de fir
 
 ### Capítulo IV. De las notificaciones
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
 
 ###### Artículo 75.
 
-Las notificaciones, emplazamientos, citaciones y entrega de expedientes se verificarán a más tardar el día siguiente al en que se dicten las resoluciones que las prevengan, siempre que el Juez no disponga en éstas otra cosa. Se sancionará a los infractores de este artículo por el Consejo del Poder Judicial, conforme a su Ley Orgánica.
+Las notificaciones, emplazamientos y citaciones se verificarán dentro de los dos días siguientes de aquél al en que se dicten las resoluciones que las prevengan, siempre que el juez no disponga en éstas otra cosa. Se sancionará a los infractores de este artículo por el Consejo del Poder Judicial, conforme a su Ley Orgánica.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
 
 ###### Artículo 76.
 
-El decreto en que se mande hacer una notificación, citación o entrega de expedientes, expresará la materia u objeto de la diligencia y los nombres de las personas con quienes deba practicarse.
+La resolución en que se mande hacer una notificación o citación expresará la materia u objeto de la diligencia y los nombres de las personas con quienes deba practicarse.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
 
 ###### Artículo 77.
 
-Todos los litigantes en el primer escrito que presenten o en la primera diligencia en que intervengan, deben designar casa ubicada en el lugar del juicio para que se les hagan las notificaciones y se practiquen las diligencias que sean necesarias. Igualmente deben designar la casa en que ha de hacerse la primera notificación a la persona o personas contra quienes promuevan.
+Todos los litigantes en el primer escrito que presenten, deben señalar domicilio en la ciudad en que está ubicado el tribunal; o bien, la dirección electrónica del sistema informático del Poder Judicial, en la que se hubieran inscrito como usuarios a través del Centro de Tecnologías del Poder Judicial, para que se les hagan las notificaciones que deban ser personales.
 
-Cuando un litigante no cumpla con lo previsto en la primera parte de este artículo, las notificaciones, aun las que conforme a las reglas generales deban hacerse personalmente, se harán en los términos de los artículos 85 y 86; si faltan a la segunda parte no se hará notificación alguna a la persona o personas contra quienes se promueva, hasta que se subsane la omisión.
+Igualmente deben designar el domicilio en que ha de hacerse la primera notificación a la persona o personas contra quienes promuevan, o a las que les interese que se notifique.
+
+Cuando un litigante no cumpla con lo previsto en el primer párrafo, las notificaciones, aun las que deban hacerse personalmente, se harán en los términos de los artículos 85 y 86. Lo mismo se hará si habiendo señalado como domicilio la dirección electrónica del sistema informático del Poder Judicial, no realizare los trámites correspondientes para tener acceso a éste.
+
+Si dejare de cumplir con el segundo párrafo, no se hará notificación alguna a la persona o personas contra quienes promueva o a las que le interese que sean notificadas, mientras no se subsane la omisión, a menos que las personas indicadas ocurran espontáneamente al tribunal, a notificarse.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
 
 ###### Artículo 78.
 
-Mientras un litigante no haga nueva designación de la casa en que han de hacérsele las notificaciones personales, seguirán haciéndosele en la que para ello hubiere señalado.
+Mientras un litigante no haga nueva designación del domicilio en que han de hacérsele las notificaciones personales, seguirán haciéndosele en la que para ello hubiere señalado.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
 
 ###### Artículo 79.
 
-La primera notificación se hará en la casa designada al efecto y en la persona misma del que deba de ser notificado, y no encontrándolo el notificador y cerciorado de que el notificado vive en dicha casa y está en la población, le dejará citatorio para hora fija dentro de las veinticuatro horas siguientes, y si no espera, se le hará la notificación por instructivo, en el que se expresará el nombre y apellido del promovente, el Tribunal o Juez que mande practicar la diligencia la determinación que se notifique, la fecha y la hora en que se deje y el nombre y apellido de la persona que lo reciba.
+Si se trata de emplazamiento o primera notificación, se hará en el domicilio designado al efecto, en la persona misma del que deba ser notificado, previo cercioramiento de su identidad y domicilio; no encontrándolo el notificador y cerciorado de que es el domicilio del notificado y está en la población, le dejará citatorio para hora fija hábil del día siguiente, y si no espera se le hará la notificación por instructivo, en el que se expresará el nombre del promovente, el tribunal que mande practicar la diligencia, la determinación que se notifique, la fecha y hora en que se deje y el nombre de la persona que lo reciba.
 
-El instructivo, lo mismo que el citatorio, se entregarán a la esposa, hijos, parientes, domésticos del notificado o a cualquiera otra persona que viva en la casa y si se negaren a recibirlos o ésta se hallare cerrada, el citatorio y el instructivo se fijarán en la forma que previene el artículo 84; de todo lo cual se asentará razón en la diligencia. Si se trata de notificar la demanda, se entregarán además, las copias del traslado, o en su caso, éstas quedarán en la secretaría a disposición del demandado.
+El instructivo, lo mismo que el citatorio, se entregarán a cualquiera de los parientes o domésticos del notificado o con la persona adulta que se encuentre en el domicilio y si se negaren a recibirlos o éste se hallare cerrado, el citatorio y el instructivo se fijarán en la forma que previene el artículo 84; de todo lo cual se asentará razón en la diligencia.
+
+Si se trata de notificar la demanda, se entregarán además, las copias de traslado, o en su caso, estas quedarán en la secretaría a disposición del demandado.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
 
 ###### Artículo 80.
 
-Si el funcionario encargado de hacer una notificación recibiere noticia en la casa designada, que la persona que debe ser notificada en ese momento se encuentra accidentalmente fuera de la población en que está ubicada la casa, se hará la notificación mediante instructivo, previo citatorio, dejando en su caso las copias de los traslados y asentado razón de esa diligencia.
+Si el funcionario encargado de hacer una notificación recibiere noticia en el domicilio designado, que la persona que debe ser notificada en ese momento se encuentra accidentalmente fuera de la población en que está ubicado el domicilio, se hará la notificación mediante instructivo, previo citatorio, dejando en su caso las copias de los traslados y asentado razón de esa diligencia
 
 En el caso de este artículo, la notificación se tendrá por hecha ocho días después de la fecha en que se entregue o se fije el instructivo.
 
@@ -557,17 +573,29 @@ No sabiéndose en qué punto se encuentra o cuando se ignore su habitación o do
 
 En el caso del párrafo anterior y en el del artículo 84, las copias del traslado quedarán en la secretaría a disposición del notificado.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
+
 ###### Artículo 82.
 
-Además del caso a que se refiere el artículo 79, se hará la primera notificación en la forma que el citado artículo previene, cuando deba hacerse a terceros extraños al juicio, o cuando por cualquier motivo haya dejado de actuarse dos meses o más, con la sola modificación en el segundo de los casos expresados, de que a los que hubieren comparecido se les hará la notificación como a los que estén presentes en el lugar del juicio; esto es, en la casa o por lista en la puerta del juzgado, según que hubieren o no señalado casa conforme al artículo 77 al ser notificados por primera vez.
+Además del caso a que se refiere el artículo 79, se hará la primera notificación en la forma que el citado artículo previene, cuando deba hacerse a terceros extraños al juicio, o cuando por cualquier motivo haya dejado de actuarse dos meses o más, con la sola modificación en el segundo de los casos expresados, de que a los que hubieren comparecido se les hará la notificación en el domicilio o en la dirección electrónica del Poder Judicial, que hayan designado para tal efecto, o bien, por lista en los estrados del juzgado.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
 
 ###### Artículo 83.
 
-Las notificaciones de los autos en que se mande hacer saber a las partes la llegada de los autos, se dé por contestada la demanda en rebeldía del demandado, en que se mande recibir el juicio a prueba, hacer la primera citación para absolver posiciones, citar para sentencia en lo principal y la de la misma sentencia, se harán en la casa de las partes, si éstas, cumpliendo con lo dispuesto en el artículo 77 la hubieren designado, pudiendo hacerse en el mismo juzgado, si los interesados ocurrieren antes a él. El empleado o funcionario que deba hacer la notificación, buscará en la casa designada al efecto a la persona que ha de ser notificarla (sic) y encontrándola, le hará la notificación en su propia persona. Si no la encontrase a la primera búsqueda y sin necesidad de mandamiento judicial, practicará la diligencia por medio de instructivo en los términos del artículo 79, en el que si se trata de notificar la sentencia, se insertará ésta en la parte resolutiva. Cuando no se hubiere hecho designación de casa, la notificación se hará por medio de lista.
+Las notificaciones de los autos en que se mande hacer saber a las partes la llegada de los autos, se dé por contestada la demanda en rebeldía del demandado, en que se mande recibir el juicio a prueba, hacer la primera citación para absolver posiciones, citar para sentencia interlocutoria o principal y la de la sentencia misma, se harán en el domicilio o en la dirección electrónica del sistema informático del Poder Judicial, designado por las partes. Podrán hacerse en el mismo juzgado, si los interesados ocurren antes a él.
+
+El funcionario que deba hacer la notificación para el caso de que se hubiera señalado domicilio en el lugar del juicio, buscará en el lugar designado a la persona que ha de ser notificada y le hará la notificación. Si no la encontrase y sin necesidad de mandamiento judicial, practicará la diligencia por medio de instructivo en los términos del artículo 79.
+
+Cuando se haya señalado la dirección electrónica del sistema informático del Poder Judicial, el notificador accederá al sistema de notificación electrónica para remitir la notificación de la resolución correspondiente al usuario registrado en autos.
+
+Si no se hubiere hecho cualquiera de los dos señalamientos anteriores, la notificación se hará por medio de lista.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
 
 ###### Artículo 84.
 
-No se dejarán de hacer las notificaciones de que habla el artículo anterior, aunque el que deba practicarlas reciba informe de que la persona que ha de ser notificada está ausente del lugar o ha mudado de casa, el que ésta se encuentre cerrada o deshabitada; el que las personas que vivan en ella se nieguen a recibir el instructivo o rehúsen ocurrir al llamado del que va a hacer la notificación, ni cualquier otra dificultad que tienda a embarazar o a impedir la diligencia; pues en todos esos casos y en cualquier otro análogo, bastará para que la notificación se entienda hecha y surta sus efectos legales, el que se fije el instructivo en la puerta de entrada, y si la casa tuviere varias, en cualquiera de ellas, haciéndose constar así en el expediente.
+No se dejarán de hacer las notificaciones de que habla el artículo anterior, aunque el que deba practicarlas reciba informe de que la persona que ha de ser notificada está ausente del lugar o ha mudado de domicilio, el que éste se encuentre cerrado o deshabitado; el que las personas que vivan en él se nieguen a recibir el instructivo o rehúsen ocurrir al llamado del que va a hacer la notificación, ni cualquier otra dificultad que tienda a embarazar o a impedir la diligencia; pues en todos esos casos y en cualquier otro análogo, bastará para que la notificación se entienda hecha y surta sus efectos legales, el que se fije el instructivo en la puerta de entrada, y si el domicilio tuviere varias, en cualquiera de ellas, haciéndose constar así en el expediente.
 
 ###### Artículo 85.
 
@@ -577,15 +605,27 @@ Al que hubiere sido notificado por primera vez por edictos y no hubiere comparec
 
 Todas las demás notificaciones se harán personalmente por el que deba practicarlas, si las partes ocurrieren ante el juzgado o tribunal el mismo día en que se fije la lista o al siguiente hábil, durante las horas del despacho ordinario. Si los interesados, sus mandatarios o abogados autorizados para recibir notificaciones no ocurren en este tiempo al tribunal o juzgado, la notificación se dará por hecha a las veinticuatro horas del día siguiente hábil al de la publicación de la lista, asentándose en autos la correspondiente razón.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
+
 ###### Artículo 87.
 
-Los secretarios del Supremo Tribunal y de los juzgados, fijarán diariamente concluido el acuerdo, en la puerta del despacho de la secretaría de la sala o del juzgado, una lista que consigne los negocios de que se trate, los nombres de los interesados en ellos y una síntesis de las resoluciones dictadas.
+Los funcionarios de los órganos jurisdiccionales, fijarán diariamente concluido el acuerdo, afuera el (sic) recinto oficial en que despachen, una lista que consigne los negocios de que se trate con una síntesis de las resoluciones dictadas, en forma escrita o por medios electrónicos.
 
-Esas listas serán firmadas por los secretarios y coleccionadas, se conservarán por los mismos bajo su responsabilidad, para comprobar que la notificación quedó hecha por medio de lista.
+Las listas escritas serán firmadas por los secretarios y coleccionadas, para comprobar la notificación por medio de lista.
+
+Cuando la lista se publique en medios electrónicos, la información generada hará prueba plena, siempre que sea accesible para su ulterior consulta a efecto de validar la notificación por lista.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
 
 ###### Artículo 88.
 
-Las notificaciones se harán leyendo íntegramente la determinación que se notifique y deben firmarla la persona que la hace y la que la recibe; si ésta no supiere o no quisiere firmar, lo hará aquélla, haciéndose constar esta circunstancia. Se le dará copia simple de la resolución que se le notifique, si la pidiere y sin necesidad de mandato judicial. En caso de que la requiriera certificada, se observará lo dispuesto por el artículo 68 de este Código.
+Las notificaciones presenciales se harán leyendo íntegramente la determinación que se notifique y deben firmarla la persona que la hace y la que la recibe; si ésta no supiere o no quisiere firmar, se hará constar esta circunstancia, se le dará copia simple de la resolución que se le notifique si lo solicita.
+
+Las notificaciones virtuales contendrán únicamente el contenido y objeto de la notificación personal, con los datos de identificación del juicio; en caso de un contenido extenso, la resolución será digitalizada y remitida como archivo adjunto.
+
+Si se trata de sentencia sólo será imperativo la transcripción de los puntos resolutivos.
+
+La notificación por vía electrónica se tendrá por practicada y surtirá todos sus efectos legales al día siguiente de su realización, con independencia de la fecha en que el usuario la consulte, para lo cual el notificador sentará razón de ello en autos. El Consejo de la Judicatura, a través del área respectiva, administrará un sistema de registro electrónico de usuarios.
 
 ###### Artículo 89.
 
@@ -595,9 +635,13 @@ En los casos urgentes a juicio del Magistrado o Juez, se harán las notificacion
 
 La primera notificación a una persona moral cuya representación corresponde por disposición de la ley o de sus reglamentos o estatutos, a un consejo, junta o grupo director, se tendrá por bien hecha si se hace a cualquiera de los miembros del consejo, junta o grupo director.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
+
 ###### Artículo 91.
 
-En ningún caso se harán las notificaciones a los abogados de las partes, a no ser que tengan a la vez el carácter de mandatarios de éstas o que las mismas hayan hecho constar en el expediente ser su voluntad que las notificaciones se hagan a aquéllos, sin que esto importe la facultad de promover. Las partes deberán en este caso designar la casa en que debe recibir su abogado las notificaciones que se hayan de practicar fuera del juzgado; y las que se le hicieren, aun las que deban ser personales, surtirán todos los efectos que producirían si se hubieran hecho a las mismas partes.
+En ningún caso se harán las notificaciones a los abogados de las partes, a no ser que tengan a la vez el carácter de mandatarios de éstas o que las mismas hayan hecho constar en el expediente ser su voluntad que las notificaciones se hagan a aquéllos, sin que esto importe la facultad de promover.
+
+Las partes deberán en este caso designar el domicilio en que debe recibir su abogado las notificaciones que se hayan de practicar fuera del juzgado; y las que se le hicieren, aun las que deban ser personales, surtirán todos los efectos que producirían si se hubieran hecho a las mismas partes.
 
 ###### Artículo 92.
 
@@ -2371,7 +2415,7 @@ I. Cuando sin justa causa no comparezca a la primera citación;
 
 II. Cuando comparezca pero se niegue a declarar;
 
-III. Cuando al contestar se rehusé (sic) a hacerlo afirmativa o negativamente, respecto de hechos propios; y,
+III. Cuando al contestar se rehusé a hacerlo afirmativa o negativamente, respecto de hechos propios; y,
 
 IV. En los demás casos en que lo prevenga la ley.
 
@@ -3789,7 +3833,7 @@ III. En el supuesto de que ninguna de las partes exhiba el avalúo dentro del pl
 
 IV. Si las dos partes exhibieren los avalúos en el plazo a que se refiere la fracción I de este artículo y los valores determinados de cada uno de ellos no coincidieren, se tomará como base para el remate el promedio de ambos avalúos siempre y cuando no exista un veintiocho por ciento de diferencia entre el más bajo y el más alto; en cuyo caso el Juez ordenará se practique nuevo avalúo por el corredor público o la institución bancaria que al efecto señale;
 
-V. La vigencia del valor que se obtenga por avalúos será de seis meses, para que se lleve a cabo la primera almoneda de remate. Si entre ésta y las subsecuentes mediará (sic) un término mayor de seis meses se deberán actualizar los valores;
+V. La vigencia del valor que se obtenga por avalúos será de seis meses, para que se lleve a cabo la primera almoneda de remate. Si entre ésta y las subsecuentes mediará un término mayor de seis meses se deberán actualizar los valores;
 
 VI. Obtenido el valor del avalúo, según el caso que corresponda de acuerdo a las fracciones anteriores, se procederá a rematar el inmueble en los términos del Título Décimo Primero Capítulo II de este Código; y,
 
@@ -4517,7 +4561,7 @@ El depositario será nombrado por el ejecutante, menos en los casos de secuestro
 
 ###### Artículo 782.
 
-No podrá el depositario entrar al desempeño de su cargo, sino (sic) previa aceptación y protesta, debiendo otorgar antes fianza que caucione su manejo. Esta garantía no es necesaria si el depositario comprueba que tiene bienes raíces libres de gravamen suficiente y cuando el embargo se decrete en juicio ejecutivo o en ejecución de sentencia.
+No podrá el depositario entrar al desempeño de su cargo, sino previa aceptación y protesta, debiendo otorgar antes fianza que caucione su manejo. Esta garantía no es necesaria si el depositario comprueba que tiene bienes raíces libres de gravamen suficiente y cuando el embargo se decrete en juicio ejecutivo o en ejecución de sentencia.
 
 ###### Artículo 783.
 
@@ -6717,7 +6761,7 @@ I. Verificará el apeo asentándose acta en que constarán todas las observacion
 
 II. La diligencia no se suspenderá por virtud de las observaciones, sino en el caso de que alguna persona presente en el acto un documento debidamente registrado que pruebe que el terreno que se trata de deslindar es de su propiedad;
 
-III. El Juez, al ir demarcando los límites del fundo deslindado, otorgará posesión al promovente de la propiedad que quede comprendida dentro de ellos si ninguno de los colindantes se opusiere o mandará (sic) que se le mantenga en la que esté disfrutando;
+III. El Juez, al ir demarcando los límites del fundo deslindado, otorgará posesión al promovente de la propiedad que quede comprendida dentro de ellos si ninguno de los colindantes se opusiere o mandará que se le mantenga en la que esté disfrutando;
 
 IV. Si hay oposición de alguno de los colindantes respecto a un punto determinado, por considerar que conforme a sus títulos quede comprendido dentro de los límites de su propiedad, el tribunal oirá a los testigos de identificación y a los peritos, e invitará a los interesados a que se pongan de acuerdo. Si esto se lograre, se hará constar y se otorgará la posesión según su sentido, y el Juez mandará que se fijen las señales o mojoneras convenientes en los puntos deslindados, las que quedarán como límites legales. Los puntos respecto a los cuales hubiere oposición, no quedarán deslindados ni se fijará en ellos señal alguna, mientras no haya sentencia ejecutoria que resuelva la cuestión, dictada en el juicio correspondiente; y,
 
@@ -6772,5 +6816,9 @@ PRIMERO. Los procedimientos que hasta la entrada en vigor del presente Decreto s
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 P.O. 1 DE FEBRERO DE 2012.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 24 DE JUNIO DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
