@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2015-05-28"
+last_updated: "2015-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE JUNIO DE 2015.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -1020,11 +1020,11 @@ IV.- No haber sido condenado por delito doloso, cualquiera que haya sido la pena
 
 #### SECCIÓN 3. DE LA CONTRALORÍA INTERNA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE JUNIO DE 2015)</small>
 
 ###### Artículo 64.
 
-La Contraloría General de la Asamblea tendrá a su cargo la auditoría interna del ejercicio del presupuesto de egresos de la Asamblea y de la Auditoría Superior, incluyendo los recursos asignados a los grupos parlamentarios, los que deberán presentar un informe semestral a la contraloría con la debida justificación del uso y destino de los recursos que la Asamblea les otorgue. La contraloría auditara a los grupos parlamentarios respecto del ejercicio de los recursos que les sean asignados por la Asamblea.
+La Contraloría General de la Asamblea tendrá a su cargo la auditoría interna del ejercicio del presupuesto de egresos de la Asamblea, incluyendo recursos asignados a los grupos parlamentarios, los que deberán presentar un informe semestral a la contraloría con la debida justificación del uso y destino de los recursos que la Asamblea les otorgue. La contraloría auditará a los grupos parlamentarios respecto del ejercicio de los recursos que les sean asignados pos (sic) la Asamblea.
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 2005)</small>
 
@@ -1038,87 +1038,87 @@ Las resoluciones del Contralor se darán a conocer previamente a la Comisión de
 
 Además tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, G.O. 9 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.O. 24 DE JUNIO DE 2015)</small>
 
-I.- Apoyar, asistir y asesorar al Comité de Administración y a las demás Unidades Administrativas de la Asamblea y a la Auditoría Superior en el ámbito de su competencia;
+I.- Apoyar, asistir y asesorar al Comité de Administración y a las demás Unidades Administrativas de la Asamblea en el ámbito de su competencia;
 
-> <small>(REFORMADA, G.O. 9 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.O. 24 DE JUNIO DE 2015)</small>
 
-II.- Conocer e investigar los actos u omisiones de los servidores públicos adscritos a las unidades administrativas de la Asamblea y de la Auditoría Superior, que afecten la legalidad, honradez, lealtad, imparcialidad, confidencialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión; derivadas de quejas o denuncias presentadas por particulares, servidores públicos o aquellas relacionadas con auditorías y en especial las relacionadas con los procedimientos de adquisición de bienes, servicios, arrendamientos y contratación de obra pública, así como determinar e imponer las sanciones que correspondan en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos, las cuales se aplicarán a través del superior jerárquico del servidor público sancionado. Asimismo, le corresponderá sustanciar y resolver los recursos de revocación que se promuevan en contra de las resoluciones que impongan sanciones a los servidores públicos de la Asamblea y de la Auditoría Superior, en términos de las disposiciones jurídicas y administrativas aplicables.
+II.- Conocer e investigar los actos u omisiones de los servidores públicos adscritos a las unidades administrativas de la Asamblea, que afecten la legalidad, honradez, lealtad, imparcialidad, confidencialidad y eficiencia que deben observar en el desempeño de su empleo, cargo o comisión: derivadas de quejas o denuncias presentadas por particulares, servidores públicos o aquellas relacionadas con auditorías y en especial las relacionadas con los procedimientos de adquisición de bienes, servicios, arrendamientos y contratación de obra pública, así como determinar e imponer las sanciones que correspondan en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos, las cuales se aplicarán a través del superior jerárquico del servidor público sancionado. Asimismo, le corresponderá sustanciar y resolver los recursos de revocación que se promuevan en contra de las resoluciones que impongan sanciones a los servidores públicos de la Asamblea, en términos de las disposiciones jurídicas y administrativas aplicables.
 
 Si las irregularidades detectadas constituyen delito promoverá las acciones legales que correspondan, informando de ello a la Comisión de Gobierno;
 
-> <small>(REFORMADA, G.O. 9 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.O. 24 DE JUNIO DE 2015)</small>
 
-III.- Verificar que las unidades administrativas que integran la Asamblea y la Auditoría Superior cumplan con las obligaciones derivadas de las disposiciones en materia de planeación, programación, presupuesto, ingresos, egresos, financiamiento, inversión, deuda, fondos, valores y bienes del Distrito Federal en administración de la Asamblea Legislativa y de la Auditoría Superior; así como las demás disposiciones relativas que dicte el Pleno de la Asamblea;
+III.- Verificar que las unidades administrativas que integran la Asamblea cumplan con las obligaciones derivadas de las disposiciones en materia de planeación, programación, presupuesto, ingresos, egresos, financiamiento, inversión, deuda, fondos, valores y bienes del Distrito Federal en administración de la Asamblea Legislativa; así como las demás disposiciones relativas que dicte el Pleno de la Asamblea;
 
 IV.- Auxiliar a las Unidades Administrativas, en la elaboración y revisión de los manuales de organización y procedimientos, promoviendo y supervisando su difusión, aplicación y actualización, con énfasis en el aspecto preventivo;
 
-> <small>(REFORMADA, G.O. 9 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.O. 24 DE JUNIO DE 2015)</small>
 
-V.- Realizar dentro del ámbito de su competencia, todo tipo de auditorías y evaluaciones de las unidades administrativas que integran la Asamblea y la Auditoría Superior, con el objeto de promover la eficiencia en sus operaciones;
+V.- Realizar dentro del ámbito de su competencia, todo tipo de auditorías y evaluaciones de las unidades administrativas que integran la Asamblea, con el objetivo de promover la eficiencia en sus operaciones;
 
-> <small>(REFORMADA, G.O. 9 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.O. 24 DE JUNIO DE 2015)</small>
 
-VI.- Verificar el cumplimiento de los objetivos contenidos en los Programas de la Asamblea y la Auditoría Superior, formular, con base en los resultados de las auditorias, las observaciones y recomendaciones que de éstas se deriven, y establecer el seguimiento sistemático para el cumplimiento de las mismas, lo anterior sin perjuicio de lo dispuesto en la fracción II de este precepto;
+VI.- Verificar el cumplimiento de los objetivos contenidos en los Programas de la Asamblea, formular, con base en los resultados de las auditorias, las observaciones y recomendaciones que de éstas se deriven, y establecer el seguimiento sistemático para el cumplimiento de las mismas, lo anterior sin perjuicio de lo dispuesto en la fracción II de este precepto;
 
 VII.- Presentar a la Comisión de Gobierno su Programa Anual de Auditorías y las que deba realizar fuera del mismo, para su aprobación;
 
-> <small>(REFORMADA, G.O. 9 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.O. 24 DE JUNIO DE 2015)</small>
 
-VIII.- Informar semestralmente a la Comisión de Gobierno sobre los resultados de las auditorías practicadas y las evaluaciones a las unidades administrativas que integran la Asamblea y la Auditoría Superior, que hayan sido objeto de fiscalización, así como de las acciones que se indiquen para mejorar la gestión.
+VIII.- Informar semestralmente a la Comisión de Gobierno sobre los resultados de las auditorías practicadas (sic) las evaluaciones a las unidades administrativas que integran la Asamblea, que hayan sido objeto de fiscalización, así como de las acciones que se indiquen para mejorar la gestión;
 
 IX.- Intervenir en los procesos de licitación, de adquisición de bienes, servicios, arrendamientos y de obra pública, para vigilar que se cumpla con las normas jurídicas y demás disposiciones técnicas o administrativas aplicables;
 
-> <small>(REFORMADA, G.O. 9 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.O. 24 DE JUNIO DE 2015)</small>
 
-X.- Supervisar la organización, sistemas, métodos y procedimientos que rigen la operación administrativa y el control de la gestión de la Asamblea y la Auditoría Superior;
+X.- Supervisar la organización, sistemas, métodos y procedimientos que rigen la operación administrativa y el control de la gestión de la Asamblea;
 
-> <small>(REFORMADA, G.O. 9 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.O. 24 DE JUNIO DE 2015)</small>
 
-XI.- Planear, Programar, organizar, coordinar y establecer el Sistema de Control y Evaluación de la Asamblea y la Auditoría Superior en el ámbito administrativo, promoviendo permanentemente su actualización;
+XI.- Planear, Programar, organizar, coordinar y establecer el Sistema de Control y Evaluación de la Asamblea en el ámbito administrativo, promoviendo permanentemente su actualización;
 
-> <small>(REFORMADA, G.O. 9 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.O. 24 DE JUNIO DE 2015)</small>
 
-XII.- Fiscalizar e Inspeccionar el ejercicio del gasto público y su congruencia con el Presupuesto de Egresos del Distrito Federal de la Asamblea y la Auditoría Superior;
+XII.- Fiscalizar e Inspeccionar el ejercicio del gasto público y su congruencia con el Presupuesto de Egresos del Distrito Federal de la Asamblea;
 
 XIII.- Participar en las transferencias formales de asuntos legislativos y administrativos al cierre de la gestión de la Asamblea y a la apertura de la Legislatura, así como en los cambios que en el transcurso de la misma se presenten;
 
-> <small>(REFORMADA, G.O. 9 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.O. 24 DE JUNIO DE 2015)</small>
 
-XIV.- Participar en los actos de entrega recepción de la Asamblea y de la Auditoría Superior, en términos de la normatividad aplicable;
+XIV.- Practicar en los actos de entrega recepción de la Asamblea, en términos de la normatividad aplicable;
 
-> <small>(REFORMADA, G.O. 9 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.O. 24 DE JUNIO DE 2015)</small>
 
-XV.- Llevar el registro de los servidores públicos sancionados de las unidades administrativas de la Asamblea y de la Auditoría Superior en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos;
+XV.- Llevar el registro de los servidores públicos sancionados de las unidades administrativas de la Asamblea en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos;
 
-> <small>(REFORMADA, G.O. 9 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.O. 24 DE JUNIO DE 2015)</small>
 
-XVI.- Llevar el registro patrimonial de los servidores públicos de la Asamblea y de la Auditoría Superior, y en su caso aplicar las sanciones que establezca la Ley de la materia;
+XVI.- Llevar el registro patrimonial de los servidores públicos de la Asamblea, y en su caso aplicar las sanciones que establezca la Ley de la materia;
 
-> <small>(REFORMADA, G.O. 9 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.O. 24 DE JUNIO DE 2015)</small>
 
-XVII.- Calificar los pliegos preventivos de responsabilidades que formulen las áreas contables de la Asamblea y de la Auditoría Superior, de conformidad con la normatividad aplicable en la materia;
+XVII.- Calificar los pliegos preventivos de responsabilidades que formulen las áreas contables de la Asamblea, de conformidad con la normatividad aplicable en la materia;
 
 XVIII.- Representar en el ámbito de su competencia a la Asamblea en términos de lo establecido por el Artículo 36 Fracción XVI de la Ley Orgánica, ante las autoridades administrativas o judiciales, en todos los asuntos en que ésta sea parte, o aquellos que se originen derivados del ejercicio de sus atribuciones legales;
 
-> <small>(REFORMADA, G.O. 9 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.O. 24 DE JUNIO DE 2015)</small>
 
-XIX.- Requerirá a las unidades administrativas de la Asamblea, de la Auditoría Superior o a los particulares involucrados, la información necesaria para el desempeño de sus funciones;
+XIX.- Requerirá a las unidades administrativas de la Asamblea o a los particulares involucrados, la información necesaria para el desempeño de sus funciones;
 
 XX.- Certificar los documentos que se encuentren en sus archivos y los que genere en el ejercicio de sus atribuciones; y
 
 XXI.- Las demás que le sean atribuidas por la Ley y demás disposiciones normativas aplicables;
 
-> <small>(REFORMADO, G.O. 9 DE JULIO DE 2014)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, G.O. 24 DE JUNIO DE 2015)</small>
 
-El Subcontralor en la Auditoría Superior podrá ejercer, en su ámbito de competencia, todas las atribuciones listadas en el presente artículo, excepto las señaladas en las fracciones II, VII, VIII, XIII, XV, XVI y XVIII, las cuales serán ejercidas directamente por el titular de la Contraloría General de la Asamblea. No obstante, podrá ejercerlas en caso de que el Contralor General de la Asamblea se las delegue a través de un acuerdo general.
-
-> <small>(REFORMADO, G.O. 9 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE JUNIO DE 2015)</small>
 
 ###### Artículo 65.
 
-Al frente de la Contraloría General habrá un Contralor, a quien corresponde la representación, trámite y resolución de los asuntos de la competencia de esa unidad administrativa, y para la mejor distribución y desarrollo del trabajo podrá auxiliarse de Subcontralores de Auditoría; de Legalidad y Responsabilidades; de Control y Evaluación; y de los servidores públicos subalternos establecidos en la estructura que apruebe la Comisión de Gobierno y/o el Comité de Administración, en el Manual de Organización y Procedimientos.
+Al frente de la Contraloría General habrá un Contralor, a quien corresponde la representación, trámite y resolución de los asuntos de la competencia de esa unidad administrativa, y para la mejor distribución y desarrollo del trabajo podrá auxiliarse de Subcontralores de Auditoría; Control y Evaluación; y de Legalidad y Responsabilidades; así como de los servidores públicos subalternos establecidos en la estructura que apruebe la Comisión de Gobierno y/o el Comité de Administración, en el Manual de Organización y Procedimientos.
+
+> <small>(REFORMADO, G.O. 9 DE JULIO DE 2014)</small>
 
 En el caso de ausencia del Contralor General de la Asamblea, será suplido por los Subcontralores de Auditoría; de Legalidad y Responsabilidades; o de Control y Evaluación, en el orden citado.
 
@@ -3737,3 +3737,15 @@ G.O. 28 DE MAYO DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
 
 SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 24 DE JUNIO DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Dentro de los 90 días naturales siguientes a la publicación del presente decreto, la Comisión de Gobierno de la Asamblea Legislativa del Distrito Federal, deberá proponer al Pleno del mencionado Órgano Parlamentario, candidato para ocupar el cargo de Contralor General de la Auditoria Superior; para que, dentro de los 30 días naturales siguientes por mayoría de los diputados presentes en la sesión correspondiente designe al Contralor General; en tanto, seguirá ejerciendo las funciones que viene desarrollando el actual Subcontralor en la Auditoría Superior de la Contraloría General de la Asamblea Legislativa, el personal adscrito a dicha subcontraloria continuará formando parte de la Asamblea Legislativa del Distrito Federal. .
+
+TERCERO.- La Auditoría Superior de la Ciudad de México homologará y adecuará su Reglamento Interior y demás normatividad interna dentro de los 60 días hábiles siguientes a la entrada en vigor de este Decreto.
+
+CUARTO.- En un plazo de 30 días naturales posteriores a la entrada en vigor del presente Decreto, la Comisión de Presupuesto y Cuenta Pública, dictaminará las adecuaciones y ajustes presupuestales de la Asamblea Legislativa y de la Contraloría, que se deriven de esta reforma.
+
+QUINTO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación, para su mayor difusión.
