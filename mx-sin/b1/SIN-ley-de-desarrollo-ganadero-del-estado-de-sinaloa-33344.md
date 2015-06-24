@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-desarrollo-ganadero-del-estado-de-sinaloa-33344"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-30"
-last_updated: "2009-12-23"
+last_updated: "2015-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DEL DESARROLLO GANADERO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 30 de julio de 2003.
 
@@ -41,9 +41,23 @@ LEY DE DESARROLLO GANADERO DEL ESTADO DE SINALOA
 
 ### Capítulo I. Del objeto y aplicación de la Ley
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés general, y tiene por objeto regular la organización, producción, sanidad, desarrollo, fomento y protección de la ganadería bovina, ovina, caprina, porcícola, avícola, apícola, y demás actividades de carácter pecuario, así como el mejoramiento y tecnificación de los sistemas de comercialización de los insumos, productos y subproductos de origen animal.
+La presente Ley es de orden público, interés general y observancia obligatoria en el Estado, establece las bases para la planeación, organización, producción, desarrollo, fomento y protección de la ganadería bovina, ovina, caprina, porcícola, avícola, apícola; y demás actividades de carácter pecuario, el mejoramiento y tecnificación de los sistemas de comercialización de los insumos, productos y subproductos de origen animal.
+
+Son objetivos de esta Ley:
+
+a) Establecer las formas y procedimientos para adquirir, transmitir, acreditar y proteger la propiedad ganadera, su movilización e Introducción al Estado y la de los productos y subproductos;
+
+b) Implementar las medidas de sanidad sin perjuicio de lo que prevengan las leyes federales y las Normas Oficiales Mexicanas;
+
+c) Regular el establecimiento de servicios de certificación de calidad y origen del ganado, sus productos y subproductos;
+
+d) La protección de las actividades pecuarias, de plagas y enfermedades que puedan afectarlas; y,
+
+e) Promover el desarrollo y fomento de financiamiento a organizaciones y agentes económicos.
 
 ###### Artículo 2.
 
@@ -56,6 +70,24 @@ Quedan comprendidas en las disposiciones de esta Ley las actividades de cría, r
 ###### Artículo 4.
 
 Son sujetos de las disposiciones del presente ordenamiento, todas aquellas personas físicas o morales que se dediquen a la ganadería en cualquiera de las modalidades que señale esta Ley y su Reglamento, así como las plantas que se dediquen al sacrificio e industrialización de productos relacionados con la actividad ganadera, laboratorios, comerciantes de ganado, estableros, procesadores y comercializadores de cárnicos, lácteos y mieles, así como quienes en forma habitual o accidental efectúen actos relacionados con el objeto de esta Ley.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+###### Artículo 4 Bis.
+
+Los ganaderos están obligados a manifestar por escrito directamente a la Secretaría el inicio de sus actividades dentro de un plazo de treinta días, especificando:
+
+I. El número y especie de animales;
+
+II. La clase de explotación; y,
+
+III. El número de credencial y registro que le corresponde en la Organización Ganadera a que pertenezcan.
+
+La Secretaría deberá llevar un Registro de las personas que se dediquen a dichas actividades.
+
+Las Organizaciones Ganaderas señaladas tendrán la obligación de vigilar que sus socios presenten la declaración de su inicio de actividades.
+
+Quienes al realizar la declaración de inicio de actividades no pertenezcan a una Organización Ganadera, no tendrán obligación de presentar lo dispuesto en la fracción III.
 
 ###### Artículo 5.
 
@@ -107,45 +139,157 @@ VI. Avicultor: La persona física o moral que se dedique en forma habitual a la 
 
 VII. Avicultura: La cría, reproducción y explotación de las especies y variedades de aves útiles para la alimentación humana o para la obtención de otros beneficios, directamente o por el aprovechamiento de sus productos y subproductos tales como carne, huevos, plumas y piel, entre otros;
 
-VIII. Centro de acopio porcícola: Lugar de explotación porcina que reúne los requerimientos necesarios tanto de salubridad como de infraestructura para su operación;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
 
-IX. Clasificaciones: La determinación del grado de calidad del ganado, sus productos y subproductos de acuerdo con sus especificaciones;
+VIII. Caseta de vigilancia o de inspección: Instalaciones ubicadas en las vías terrestres de comunicación donde se lleva a cabo la constatación de la expedición del certificado zoosanitario y la verificación física de animales, sus productos y subproductos;
 
-X. Colmena: La caja o cajón que se destina para habitación de las abejas a fin de que ahí finquen sus panales para el almacenamiento de miel;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
 
-XI. Especie animal: Aquella cuya reproducción sea controlada por el hombre con el objeto de explotarla y desarrollarla, para obtener satisfactores de necesidades vitales o de desarrollo humano;
+IX. Centro de acopio porcícola: Lugar de explotación porcina que reúne los requerimientos necesarios, tanto de salubridad como de infraestructura para su operación;
 
-XII. Especificaciones: La enumeración técnica de las condiciones que deben reunir el ganado, sus productos y subproductos para determinar su clasificación;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
 
-XIII. Ganadero o productor pecuario: Persona física o moral que se dedica a la cría, producción, mejoramiento, desarrollo y explotación racional de alguna especie animal;
+X. Certificado zoosanitario: Documento oficial expedido por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación o quienes estén acreditados por dicha dependencia para constatar el cumplimiento de las normas oficiales;
 
-XIV. Ganado mayor: El bovino y las especies equinas, incluyéndose sus híbridos;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
 
-XV. Ganado menor: El ovino, caprino, porcino, aves, abejas, conejos y otras especies semejantes;
+XI. Clasificaciones: La determinación del grado de calidad del ganado, sus productos y subproductos de acuerdo con sus especificaciones;
 
-XVI. Gobernador del Estado: El Gobernador Constitucional del Estado;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
 
-XVII. Granja Porcícola: La empresa ganadera especializada en la cría, reproducción, mejoramiento y manejo de los cerdos, ya sea para pie de cría o para abasto que reúne los requisitos indispensables de sanidad e higiene;
+XII. Colmena: La caja o cajón que se destina para habitación de las abejas a fin de que ahí finquen sus panales para el almacenamiento de miel;
 
-XVIII. Granjas avícolas: Superficie de terreno donde se encuentran ubicadas las instalaciones de las empresas especializadas en la cría, reproducción y explotación de las diversas clases de aves tales corno gallos, gallinas, pollos, avestruces, patos, gansos, codornices, pavos y todas las demás especies que el hombre explota para su consumo;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
 
-XIX. Ley: La Ley de Desarrollo Ganadero del Estado de Sinaloa;
+XIII. Cuarentena: Medida zoosanitaria consistente en el aislamiento, observación y restricción de la movilización de animales, productos, subproductos, desechos y esquilmos por la sospecha o existencia de una enfermedad o plaga sujeta a control en los términos de esta Ley y demás normas aplicables;
 
-XX. Marca de Venta: Es la que se pone en la paleta derecha al enajenar al animal en el caso de los bovinos y equinos;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
 
-XXI. Organizaciones ganaderas: Las organizaciones de productores pecuarios, jurídica y legalmente establecidas conforme a la Ley de Organizaciones Ganaderas y su Reglamento;
+XIV. Enfermedad: Alteración de la salud o ruptura del equilibrio en la interacción entre un animal, agente biológico y medio ambiente que provoca alteraciones en las manifestaciones vitales del animal;
 
-XXII. Porcicultor: La persona física o moral que se dedica a la cría, reproducción, mejoramiento y explotación de los cerdos;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
 
-XXIII. Porcicultura: Actividad relativa a la cría, reproducción, mejoramiento y explotación de los cerdos;
+XV. Enfermedad zoonótica: Enfermedad transmisible de los animales al humano y viceversa;
 
-XXIV. Región ganadera: Zona que por sus características geográficas y económicas se determine en los términos de la Ley de Organizaciones Ganaderas y su Reglamento;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
 
-XXV. Reglamento: Reglamento de esta Ley;
+XVI. Especie animal: Aquélla cuya reproducción sea controlada por el hombre con el objeto de explotarla y desarrollarla para obtener satisfactores de necesidades vitales o de desarrollo humano;
 
-XXVI. Secretaría: Secretaría de Agricultura, Ganadería y Pesca del Gobierno del Estado de Sinaloa; y,
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
 
-XXVII. Unidad de producción ganadera: Ente económico de producción ganadera explotada por persona física o moral de acuerdo a lo establecido en la presente Ley.
+XVII. Especificaciones: La enumeración técnica de las condiciones que deben reunir el ganado, sus productos y subproductos para determinar su clasificación;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XVIII. Estación cuarentenaria: Conjunto de instalaciones especializadas para el aislamiento de animales donde se practican medidas zoosanitarias para prevenir y controlar la diseminación de enfermedades y plagas;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XIX. Establecimiento Tipo Inspección Federal (TIF): Cualquier instalación autorizada por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación para sacrificar, conservar, beneficiar o aprovechar los ganados de abasto, sus productos o subproductos, en los términos de las disposiciones legales y reglamentarias aplicables en la materia;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XX. Explotación pecuaria o ganadera: Conjunto de procedimientos utilizados en la cría, producción, mejoramiento, desarrollo, manejo, explotación y comercialización de las especies animales señaladas en el artículo 1 de la presente Ley;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XXI. Ganadero o productor pecuario: Persona física o moral que se dedica a la cría, producción, mejoramiento, desarrollo y explotación racional de alguna especie animal;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XXII. Ganado mayor: El bovino y las especies equinas, incluyéndose sus híbridos;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XXIII. Ganado menor: El ovino, caprino, porcino, aves, abejas, conejos y otras especies semejantes;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XXIV. Ganado orejano y/o mostrenco: El que carece de datos de identificación de su propietario;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XXV. Gobernador del Estado: El Gobernador Constitucional del Estado;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XXVI. Granja Porcícola: La empresa ganadera especializada en la cría, reproducción, mejoramiento y manejo de los cerdos, ya sea para pie de cría o para abasto que reúne los requisitos indispensables de sanidad e higiene;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XXVII. Granjas avícolas: Superficie de terreno donde se encuentran ubicadas las instalaciones de las empresas especializadas en la cría, reproducción y explotación de las diversas clases de aves tales como gallos, gallinas, pollos, avestruces, patos, gansos, codornices, pavos y todas las demás especies que el hombre explota para su consumo;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XXVIII. Guía de tránsito: Documento que expide la autoridad competente para la movilización de ganado, sus productos y subproductos, una vez que se verifica su legítima propiedad y cumplimiento de las disposiciones sanitarias;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XXIX. Inmovilización: Resolución de la autoridad mediante la cual se restringe la movilidad del ganado, productos y subproductos a un lugar determinado;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XXX. Ley: Ley de Desarrollo Ganadero del Estado de Sinaloa;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XXXI. Marca de Venta: Es la que se pone en la paleta derecha al enajenar al animal en el caso de los bovinos y equinos;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XXXII. Organizaciones Ganaderas: Las organizaciones de productores pecuarios, jurídica y legalmente establecidas conforme a la Ley de Organizaciones Ganaderas y su Reglamento;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XXXIII. Porcicultor: La persona física o moral que se dedica a la cría, reproducción, mejoramiento y explotación de los cerdos;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XXXIV. Porcicultura: Actividad relativa a la cría, reproducción, mejoramiento y explotación de los cerdos;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XXXV. Productos pecuarios: Es todo bien de consumo derivado del ganado bovino, porcino, ovino, caprino, avícola y apícola; como son carne, huevo, miel, leche y cualquier otro producto lácteo;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XXXVI. Punto de verificación: Sitio aprobado por la Secretaría para constatar el cumplimiento de esta Ley y las disposiciones y normas derivadas de la misma;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XXXVII. Rastro: Establecimiento donde se presta el servicio de sacrificio de animales y la comercialización de sus productos;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XXXVIII. Región ganadera: Zona que por sus características geográficas y económicas se determine en los términos de la Ley de Organizaciones Ganaderas y su Reglamento;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XXXIX. Registro: Lista de los miembros de una organización ganadera, en la que se indican su nombre o razón social, domicilios particulares, la denominación de los predios, el tipo de propiedad de los mismos, la localidad donde realizan sus actividades y el inventario global de animales que posea el padrón;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XL. Reglamento: Reglamento de esta Ley;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XLI. SAGARPA: La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XLII. Secretaría: Secretaría de Agricultura, Ganadería y Pesca del Gobierno del Estado de Sinaloa;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XLIII. Subproducto pecuario: El que se deriva de un proceso de transformación de un producto pecuario;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XLIV. Verificación: Constatación física y de los documentos, muestreos o análisis de laboratorio del cumplimiento de las disposiciones de esta Ley; y,
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XLV. Unidad de producción ganadera: Ente económico de producción ganadera explotada por persona física o moral de acuerdo a lo establecido en la presente Ley.
 
 ### Capítulo II. De las Autoridades
 
@@ -491,13 +635,57 @@ En cuanto no contraríen la presente Ley, son aplicables las disposiciones que s
 
 ## Título Tercero. Del Comercio
 
-### Capítulo I. De la Movilización y Transporte de Ganado
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE JUNIO DE 2015)</small>
+
+### Capítulo I. De la Movilización y Transporte de Ganado, Productos y Subproductos Pecuarios
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
 
 ###### Artículo 51.
 
-Habrá puntos de paso obligado que se instalarán en los lugares estratégicos de las rutas acostumbradas para traslado de ganado fuera del Municipio correspondiente. Los encargados de movilizar y transportar el ganado están obligados a acreditar debidamente la propiedad con la factura de compraventa correspondiente y contar con la certificación de la Asociación Ganadera Local que exista en el Municipio.
+En toda movilización y transporte de ganado, productos y subproductos en el Estado, la autoridad competente verificará su legal procedencia y el cumplimiento de las disposiciones sanitarias.
+
+Habrá puntos de paso obligado que se instalarán en los lugares estratégicos de las rutas acostumbradas para traslado de ganado fuera del municipio correspondiente, llamados puntos de verificación e inspección.
+
+Quienes realicen movilizaciones de ganado estarán obligados a permitir su revisión y presentar la documentación respectiva.
 
 Para poder transportar ganado objeto de compraventa deberá haber sido quemado con la marca de venta correspondiente.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+###### Artículo 51 Bis.
+
+Toda movilización de ganado, sus productos y subproductos deberá ampararse con guías de tránsito que contendrán los datos que determine la Secretaría con base en los requisitos que establece este Capítulo.
+
+Se exceptúa de lo anterior la movilización de ganado que se realice de uno a otro predio que colinden entre sí o estén ubicados dentro de una misma zona, cuando dicha movilización se realice por razones de manejo, alimentación o producción y no tenga por objeto la venta o traslado de dominio de los animales.
+
+Tampoco requerirán de guía de tránsito para su movilización dentro del Estado, los productos y subproductos de los rastros cuando provengan de ganado que se haya sacrificado en estos establecimientos, previa cancelación de la guía de procedencia donde se haya verificado su legal origen y el cumplimiento de las disposiciones sanitarias y fiscales.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+Artículo 51 Bis A. Las guías de tránsito serán proporcionadas por la Secretaría, tendrán una vigencia de cinco días, estarán numeradas progresivamente y deberán contar con la imagen de los fierros, marcas, tatuajes y señales que ostenten los animales que se transporten, protegidos con algún material que impida una posible alteración de los mismos.
+
+El pase de ganado deberá ser cancelado a la llegada de su destino por el Inspector de Ganadería, quien revisará que se trate del mismo que se describe en el documento.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+Artículo 51 Bis B. Para la expedición de las guías de tránsito los interesados deberán cumplir con los siguientes requisitos:
+
+I. Acreditar el cumplimiento de las disposiciones sanitarias aplicables en materia de ganadería;
+
+II. Para el caso de ganado, los certificados zoosanitarios y constancia vigente de baño garrapaticida;
+
+III. El productor deberá acreditar que el ganado cumpla los requisitos que establezcan las campañas contra la tuberculosis y la brucelosis;
+
+IV. Los subproductos deben de estar libres de cualesquier aditivo no permitido por la norma vigente;
+
+V. Presentar los animales que vaya (sic) a movilizarse en lugares adecuados para su inspección;
+
+VI. Comprobar la legal propiedad del ganado que vayan a movilizarse en la forma prevista en esta Ley; y,
+
+VII. Comprobar el pago de las contribuciones correspondientes.
+
+Para las fracciones III y IV se deberá presentar constancia, dictamen o certificado que acredite el cumplimiento en materia zoosanitaria.
 
 ###### Artículo 52.
 
@@ -515,7 +703,9 @@ Toda persona antes de embarcar animales por ferrocarril o por camión tiene la o
 
 Queda prohibido durante el horario estacional establecido por Decreto del Congreso de la Unión, transitar internamente en el Estado con ganado entre las veinte horas a las seis horas. De igual manera, fuera de este horario estacional, de las diecinueve horas a las seis horas; salvo cuando se trate de cruzar el Estado en vehículo flejado o en casos especiales autorizados por las autoridades correspondientes.
 
-Todo aquel ganado que vaya a salir o entrar al Estado, excepto el que vaya a cruzar la entidad debidamente flejado, deberá arribar a las casetas fitozoosanitarias de día a efecto de poder revisar físicamente el ganado, de lo contrario deberá pernoctar en los corrales cuarentenarios de las casetas fitozoosanitarias.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+El ganado que vaya a salir o entrar al Estado, excepto el que vaya a cruzar la entidad debidamente flejado, deberá arribar a los puntos de verificación e inspección de día a efecto de poder revisarlo físicamente, de lo contrario deberá pernoctar en los corrales cuarentenarios de los puntos de verificación e inspección.
 
 ###### Artículo 56.
 
@@ -527,9 +717,11 @@ Toda persona, antes de embarcar animales, tiene obligación de tramitar la docum
 
 El que transporte productos y subproductos pecuarios deberá ampararse con la guía de tránsito, los certificados relativos a la cuestión sanitaria de la normatividad federal y demás requisitos señalados en el artículo 76 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
+
 ###### Artículo 58.
 
-Toda persona que transite con animales sin ampararse con los certificados zoosanitarios, constancia vigente de baño garrapaticida y guías de tránsito, será sancionada en los términos de lo previsto en esta Ley y su reglamento, independientemente de que se le dé vista a la autoridad competente para que investigue la probable comisión de un delito. En el caso de ganado bovino, éste debe portar el arete de identificación de hato de origen.
+Quien transite con animales sin ampararse con los certificados zoosanitarios, constancia vigente de baño garrapaticida, guías de tránsito y demás requisitos previstos en esta Ley, será sancionado en los términos del presente ordenamiento y su reglamento, independientemente de que se le dé vista a la autoridad competente para que investigue la probable comisión de un delito. En el caso de ganado bovino, éste debe portar el arete de identificación de hato de origen.
 
 ###### Artículo 59.
 
@@ -538,6 +730,12 @@ Los transportistas en general no aceptarán para su movilización ganado, produc
 ###### Artículo 60.
 
 La persona que transportando ganado quiera efectuar alguna transacción comercial durante el trayecto tendrá que canjear su guía de tránsito a través de la intervención del Inspector de Ganadería correspondiente; la nueva guía deberá especificar las reducciones de la partida original facturada.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+###### Artículo 60 Bis.
+
+Si por caso fortuito o fuerza mayor el ganado no llega a su lugar de destino, el propietario o conductor deberá presentarse ante el Inspector de Ganadería a dar el aviso correspondiente.
 
 ###### Artículo 61.
 
@@ -573,11 +771,17 @@ Cuando existan predios cercados y el ganado invada el terreno, el propietario o 
 
 Los animales que transiten sin el amparo de la guía de tránsito, o bien que la información que estos documentos contengan no concuerde con el ganado que se transporta, serán detenidos por las autoridades competentes de la Secretaría o del Municipio, iniciándose los procedimientos de investigación, notificándosele en el acto al presunto infractor del inicio del mismo, así como del término que cuenta para demostrar o argumentar lo que a su derecho convenga, sin perjuicio de que se denuncie el hecho al Agente del Ministerio Público.
 
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+Las Autoridades Competentes levantarán un acta circunstanciada, inmovilizarán el ganado y darán parte de inmediato a las autoridades correspondientes, cuando detecten alteraciones en la guía de tránsito, ya sea en la cantidad, signo de identificación de la propiedad del ganado, tipo de ganado, su origen o destino, así como su vigencia.
+
 ###### Artículo 69.
 
 Se prohíbe el tránsito de animales enfermos que represente un riesgo sanitario; si durante el viaje se enfermara algún animal, será detenida toda la partida quedando sujeta a control sanitario y a la normatividad federal correspondiente. La reanudación de la marcha se permitirá por autorización de la autoridad competente.
 
-El ganado mayor y menor, los productos y subproductos que pongan en riesgo la salud animal, representen un riesgo sanitario o que comprometan los status zoosanitarios de la entidad, serán decomisados, procediendo de acuerdo a las normas federales, a lo dispuesto en esta Ley y sus reglamentos.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+El ganado mayor y menor, los productos y subproductos que pongan en riesgo la salud animal, representen un riesgo sanitario o que comprometan los estatus zoosanitarios de la entidad, serán inmovilizados y puestos en cuarentena en su caso, procediendo en los términos del artículo 78 Bis B y demás normas federales, así como lo dispuesto en esta Ley y sus reglamentos.
 
 ###### Artículo 70.
 
@@ -603,11 +807,23 @@ Cuando los predios ganaderos colinden entre sí, con terrenos agrícolas o de ot
 
 Con la finalidad de eficientar el control del status zoosanitario de la entidad y con el propósito de modernizar la expedición de permisos, guías, registros y autorizaciones, la Secretaría cobrará los distintos servicios que presta a los sujetos de esta Ley, siempre y cuando esos recursos se inviertan directamente en mejorar la calidad de dichos servicios. Las especificaciones de tarifas por tipo de servicio y productos estarán precisadas en la ley fiscal correspondiente.
 
-### Capítulo II. Del Control de la Entrada y Salida de Ganado al Estado
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE JUNIO DE 2015)</small>
+
+### Capítulo II. Del Control de la Entrada y Salida de Ganado, Productos y Subproductos Pecuarios al Estado
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+###### Artículo 75 Bis.
+
+Para la introducción o salida del ganado al Estado, sus productos y subproductos, deberá contarse con la autorización que previamente expida la Secretaría, y además la movilización deberá ampararse con los certificados zoosanitarios que se expida y con la documentación sanitaria correspondiente. Las solicitudes respectivas deberán hacerse de conocimiento de el Comité Estatal de Fomento y Protección Pecuaria, quien emitirá su opinión al respecto.
+
+Para la expedición de las autorizaciones previstas en el párrafo anterior, la Secretaría, en el caso de productos y subproductos pecuarios deberá tomar en consideración, además de la opinión correspondiente, las necesidades de la población para que no se vean afectados los productores ni el abasto de productos para la población del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2015)</small>
 
 ###### Artículo 76.
 
-Toda persona que pretenda introducir al Estado animales, productos o subproductos procedentes de otras Entidades Federativas, deberá ampararse con:
+Toda persona que pretenda introducir al Estado animales, productos o subproductos pecuarios procedentes de otras Entidades Federativas o de otros países, deberá ampararse con:
 
 I. Acreditar debidamente la propiedad con la factura de compraventa correspondiente;
 
@@ -615,9 +831,31 @@ II. La guía de tránsito necesaria;
 
 III. Contar con la certificación de la Secretaría o la Asociación Ganadera Local que exista en el municipio de origen;
 
-IV. Contar con el certificado zoosanitario, mediante el cual, se acredite el cumplimiento de los requisitos zoosanitarios; y,
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
 
-V. Acreditar los demás requisitos que establezcan las leyes aplicables.
+IV. Contar con el certificado zoosanitario, mediante el cual, se acredite el cumplimiento de los requisitos zoosanitarios;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+V. Para el caso de ganado, deben cumplir con las normas zoosanitarias vigentes;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+VI. Para el caso de entrada de productos y subproductos pecuarios, será necesario comprobar que el sacrificio se realizó en un Establecimiento Tipo Inspección Federal;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+VII. Para el caso de subproductos, deben de estar libres de cualesquier aditivo no permitido por la norma vigente. Si los certificados zoosanitarios no se refieren a ello, se tendrá que presentar un certificado médico expedido por la autoridad sanitaria competente que lo refrende;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+VIII. En su caso, someter a los animales a la aplicación del baño garrapaticida;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+IX. La autorización a que se refiere el artículo anterior; y,
+
+X. Acreditar los demás requisitos que establezcan las leyes aplicables.
 
 ###### Artículo 77.
 
@@ -632,6 +870,34 @@ II. Con el certificado zoosanitario que haya sido expedido exclusivamente por la
 Queda prohibido introducir al Estado, todo tipo de ganado, productos y subproductos de origen pecuario por vías de comunicación en las cuales no existan casetas de inspección ganadera o estaciones cuarentenarias.
 
 Todo envío de ganado fuera de la Entidad ya sea para fines comerciales o zootécnicos, se hará en los términos de las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+En las movilizaciones de ganado, productos y subproductos, será necesario comprobar el cumplimiento de los requisitos sanitarios señalados en la presente Ley y demás ordenamientos aplicables, en las estaciones cuarentenarias o puntos de verificación e inspección mediante la presentación de la documentación correspondiente.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+###### Artículo 78 Bis.
+
+La Secretaría inspeccionará y verificará el ganado, los productos y subproductos pecuarios que se internen en el Estado para constatar el cumplimiento de las condiciones sanitarias establecidas para su introducción.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+Artículo 78 Bis A. El ganado, sus productos y subproductos que se introduzcan al Estado sin contar con la autorización correspondiente o contando con una que haya sido alterada, serán inmovilizados. Se le aplicarán las medidas sanitarias que en su caso se requieran y se sancionará en los términos de esta Ley a sus propietarios o introductores.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+Artículo 78 Bis B. Cuando se trate de ganado introducido al Estado de manera irregular, enfermo, con infestaciones, que ponga en riesgo la sanidad de la actividad ganadera de la región y del Estado o que atente a la salud pública, se procederá a su inmovilización y en su caso a cuarentena, observándose las siguientes reglas:
+
+I. Se notificará la inmovilización, y en su caso cuarentena y sus causas al propietario o poseedor directamente o por conducto del porteador para que en un plazo no mayor de 48 horas manifieste lo que a su derecho convenga;
+
+II. Transcurrido el plazo anterior con o sin la presencia del propietario, la Secretaría realizará dictámenes periciales sobre el estatus de introducción, la salud del ganado, de los productos y subproductos;
+
+III. Realizados los dictámenes periciales, la Secretaría resolverá de conformidad con la presente Ley ordenando el sacrificio del ganado en caso de que cualquiera de los peritajes resulte desfavorable en lo concerniente al estatus de salud o en su caso, la incineración de los productos y subproductos; y,
+
+IV. Los vehículos que se utilicen para la movilización del ganado serán asegurados administrativamente poniéndose a disposición de las autoridades correspondientes.
+
+Los gastos y costos derivados de inmovilización, cuarentena y/o ordenamiento a sacrificio, correrán por cuenta y a cargo del propietario de los animales, productos y subproductos de origen animal considerados en el presente artículo.
 
 ###### Artículo 79.
 
@@ -1073,11 +1339,35 @@ Los libros de registro de los rastros, empacadoras e instalaciones autorizadas p
 
 Cuando deba sacrificarse un animal donde no exista rastro público o cuando se destine al consumo doméstico, se acudirá a la autoridad Municipal más cercana, con objeto de recabar el permiso correspondiente. La autoridad que reciba este aviso está obligada a investigar la propiedad y estado de salud de los animales que se pretenda sacrificar, así como la calidad sanitaria del sacrificio y procesamiento de la carne y sus subproductos.
 
-### Capítulo I. De la Comisión Estatal de Desarrollo Ganadero
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE JUNIO DE 2015)</small>
+
+### Capítulo III. De la Inspección y Vigilancia en los Rastros
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+###### Artículo 167 Bis.
+
+Para los efectos de la inspección y vigilancia ganadera, la Secretaría llevará un registro de los Rastros que funcionen en el Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+Artículo 167 Bis A. La Secretaría inspeccionará el ganado destinado al sacrificio en los separos de los toriles para entrar al matadero, previo el descanso que determine la autoridad administrativa, revisándose la documentación respectiva para comprobar la legítima propiedad de los animales y su nivel de sanidad; así como el cumplimiento de las demás disposiciones de esta Ley. Una vez cumplidos dichos requisitos se sacrificará el ganado.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+Artículo 167 Bis B. Si se detectare alguna irregularidad o la posible comisión de algún delito, la Secretaría impedirá el sacrificio de ganado, lo inmovilizará y dará aviso a las autoridades correspondientes.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+Artículo 167 Bis C. Los administradores, encargados o empleados de los rastros en ningún caso permitirán o ejecutarán el sacrificio de ganado si no se ha comprobado ante la Secretaría la legítima propiedad del mismo, así como el cumplimiento de las correspondientes obligaciones sanitarias y fiscales y las demás disposiciones establecidas en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+Artículo 167 Bis D. Se prohíbe el sacrificio de ganado enfermo con fines de consumo humano.
 
 ## Título Noveno. Del Desarrollo Ganadero
 
-### Capítulo II. De la Clasificación del Ganado en pie y canal
+### Capítulo I. De la Comisión Estatal de Desarrollo Ganadero
 
 ###### Artículo 168.
 
@@ -1143,9 +1433,7 @@ Las Autoridades Estatales, Municipales, Organismos públicos descentralizados y 
 
 Los propietarios o poseedores de animales de cualquier especie en el Estado, están obligados a cumplir con la presente Ley y su Reglamento, así como las disposiciones que para la mejor aplicación de ambos ordenamientos dicte la Comisión Estatal de Desarrollo Ganadero. Igual obligación tendrá cualquier otra persona física o moral que directamente o de manera accidental tenga alguna relación con las disposiciones de la presente Ley y su Reglamento.
 
-### Capítulo III. De la Industria de la Leche
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+### Capítulo II. De la Clasificación del Ganado en pie y canal
 
 ###### Artículo 174.
 
@@ -1181,11 +1469,57 @@ Los establecimientos comerciales que expendan al público carne clasificada, deb
 
 Los sujetos a que se refiere el artículo 4 de esta Ley, están obligados a permitir el libre acceso de los clasificadores a los establecimientos para llevar a cabo sus funciones y deberán proporcionarles todas las facilidades necesarias para el cumplimiento de sus atribuciones.
 
-### Capítulo IV. De la Comisión Estatal de la Leche
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE JUNIO DE 2015)</small>
 
-### Capítulo Único. De los Inspectores de Ganadería
+### Capítulo II Bis. Del Proceso de Certificación del Origen de la Carne
 
-### Capítulo Único. De las Sanciones y su Aplicación
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+###### Artículo 180 Bis.
+
+El proceso de certificación del origen sinaloense de la carne de ganado bovino se inicia en los predios ganaderos del Estado donde es producido el ganado.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+Artículo 180 Bis A. Una vez que el ganado sea sacrificado, el personal del Rastro aplicará un sello en varias partes del canal que indicará que fue producido en el Estado, extendiendo un documento donde constará esta circunstancia con el fin de que en los frigoríficos, empacadoras, almacenes y comercios se tenga la certeza del origen del producto.
+
+El sello a que se refiere el párrafo anterior, únicamente será utilizado por el personal del Rastro y sólo se aplicará con tinta de origen vegetal.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+Artículo 180 Bis B. La Secretaría establecerá un sistema de identificación para el caso de ganado introducido de otras Entidades Federativas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE JUNIO DE 2015)</small>
+
+### Capítulo II Bis A. De los Establecimientos Comerciales donde se Expendan Productos Cárnicos
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+Artículo 180 Bis C. Los establecimientos comerciales donde se expendan productos cárnicos deberán identificar de manera clara y visible su especie y origen, ya sea por medios impresos o electrónicos, para que el público consumidor disponga fácilmente de la información que le permita elegir según su preferencia. La identificación sobre la especie y el origen de los productos cárnicos del ganado se harán en los propios establecimientos comerciales, sin perjuicio de lo que prevengan las leyes federales y las normas oficiales mexicanas y será verificado por la Secretaría.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+Artículo 180 Bis D. Los establecimientos comerciales deberán tener por separado el producto pecuario que sea de origen sinaloense del procedente de otras Entidades Federativas o del extranjero, indicando su origen para que pueda ser fácilmente identificado por el consumidor.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+Artículo 180 Bis E. La carne empacada en cajas o cualquier otro tipo de contenedor que haya sido producida o internada al Estado deberá contar con una identificación clara y visible en las propias piezas de la carne, indicando su origen y procedencia.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+Artículo 180 Bis F. La Secretaría proporcionará la asesoría necesaria a los establecimientos comerciales para el debido y puntual cumplimiento de las disposiciones del presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+Artículo 180 Bis G. La Secretaría verificará en los lugares que ella misma determine la carne introducida de otras Entidades Federativas o importada del extranjero, para constatar si las piezas tienen indicado el origen del producto.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+Artículo 180 Bis H. La carne de ganado sacrificado fuera de la entidad federativa que pretenda introducirse al Estado deberá ser presentada a los establecimientos Tipo Inspección Federal que indique la Secretaría, con el objeto de que se revisen los documentos de procedencia, se inspeccione la carne por las autoridades sanitarias y se selle el producto para su identificación de origen, y en su caso, de calidad.
+
+### Capítulo III. De la Industria de la Leche
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 181.
 
@@ -1213,7 +1547,7 @@ Queda prohibida la instalación de todo tipo de explotaciones lecheras en los ce
 
 Con el objeto de preservar la salud pública, toda explotación lechera deberá someterse a la normatividad de las campañas zoosanitarias referentes al ganado lechero.
 
-### Capítulo Único. De la Denuncia Popular
+### Capítulo IV. De la Comisión Estatal de la Leche
 
 ###### Artículo 187.
 
@@ -1265,7 +1599,7 @@ X. Implementar y apoyar investigaciones científicas, que conduzcan a una mayor 
 
 XI. Las demás que le otorgue esta Ley y su Reglamento.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 #### Sección I. Del Servicio Estatal de Clasificación de la Leche, Productos Derivados y Subproductos
 
@@ -1276,6 +1610,16 @@ XI. Las demás que le otorgue esta Ley y su Reglamento.
 Con el fin de apoyar y estimular la producción y garantizar la calidad de la leche en el Estado de Sinaloa, se crea el Servicio Estatal de Clasificación de la Leche, Productos Derivados y Subproductos, el cual tendrá por objeto clasificar la leche, productos derivados y subproductos, por su grado de calidad para venta y consumo humano dentro del Estado, el cual se prestará conforme a esta Ley y su Reglamento, además de los acuerdos e instructivos que en la materia expida la Secretaría. Es facultad de la Secretaría la implementación y ejecución del Servicio Estatal de Clasificación de la Leche, Productos Derivados y Subproductos.
 
 Se establecerán las mismas condiciones para la clasificación de la leche, productos derivados y subproductos locales y los de introducción, incluyendo los cobros realizados para tal servicio.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+###### Artículo 190 Bis.
+
+La Secretaría implementará las medidas necesarias para el control de la producción de leche por conducto de la Comisión Estatal de la Leche.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+Artículo 190 Bis A. Con el objeto de preservar la salud pública, toda explotación lechera en el Estado queda sujeta a la realización de las pruebas de enfermedades zoonóticas.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
@@ -1301,7 +1645,37 @@ El Gobierno del Estado en coordinación con otras instituciones públicas y priv
 
 El Gobernador del Estado, por conducto de la instancia que corresponda y en coordinación con el Gobierno Federal, gestionará y, en su caso, concederá los subsidios que juzgue convenientes en favor de los productores de leche líquida, que cumplan con lo dispuesto en la presente Ley y su Reglamento.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE JUNIO DE 2015)</small>
+
+### Capítulo V. Del Financiamiento Ganadero
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+###### Artículo 194 Bis.
+
+El Gobierno del Estado promoverá que las organizaciones y los agentes económicos del medio ganadero, accedan al financiamiento para el desarrollo productivo sustentable, mediante sistemas, esquemas y tratamientos que faciliten, amplíen y fortalezcan el uso del crédito.
+
+El Gobierno del Estado establecerá los mecanismos que permitan el acceso a los pequeños ganaderos para que dispongan de financiamiento suficiente, oportuno y a tasas competitivas para desarrollar exitosamente sus actividades, procurando que la ministración de los recursos no se desfase de las etapas de los ciclos productivos.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+Artículo 194 Bis A. El Gobierno del Estado promoverá e instrumentará los mecanismos necesarios que hagan incidir a la banca de desarrollo y privada con los programas gubernamentales.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+Artículo 194 Bis B. El Gobierno del Estado, impulsará el desarrollo de esquemas locales de financiamiento ganadero, que amplíen la cobertura institucional, apoyando el surgimiento y consolidación de proyectos productivos que respondan a las necesidades de la población ganadera.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+Artículo 194 Bis C. El Gobierno del Estado, mediante los acuerdos y esquemas de participación interinstitucional, fomentará:
+
+I. La capitalización de proyectos de inversión de las organizaciones económicas de productores; y,
+
+II. El otorgamiento de garantías para respaldar proyectos de importancia estratégica.
+
 ## Título Décimo. De la Inspección Ganadera
+
+### Capítulo Único. De los Inspectores de Ganadería
 
 ###### Artículo 195.
 
@@ -1313,25 +1687,41 @@ Las inspecciones para verificar el cumplimiento de las disposiciones de esta Ley
 
 Los sujetos a que se refiere el artículo 4 de esta Ley, están obligados a permitir el libre acceso de los inspectores a los establecimientos para cerciorarse de la observancia de la presente Ley y deberán proporcionarles todas las facilidades necesarias para el cumplimiento de sus atribuciones.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
+
 ###### Artículo 197.
 
-La inspección de ganado, sus productos y subproductos es obligatoria para verificar:
+La inspección de ganado, de los productos y subproductos pecuarios es obligatoria para verificar:
 
-I. La sanidad del ganado, así como sus productos y subproductos, la cual estará a cargo de un Inspector de Ganadería; y,
+I. La sanidad del ganado, así como de los productos y subproductos pecuarios, la cual estará a cargo de la autoridad competente;
 
-II. El pago de los impuestos y comprobación de la propiedad o posesión, la cual se efectuará por los Inspectores de Ganadería, Autoridades Estatales y Municipales.
+II. El cumplimiento de las disposiciones y requisitos para su movilización, con la facultad de impedirla o suspenderla en caso de omisión; y,
+
+III. El pago de los impuestos y comprobación de la propiedad o posesión, la cual se efectuará por los inspectores de ganadería, autoridades estatales y municipales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JUNIO DE 2015)</small>
 
 ###### Artículo 198.
 
-Para ser Inspector se requiere:
+Para ser Inspector de Ganadería se requiere:
 
 I. Ser ciudadano sinaloense;
 
-II. Contar con la experiencia necesaria para el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
 
-III. Ser de reconocida solvencia moral; y,
+II. Haber cursado como mínimo la educación media superior y tener conocimientos básicos de ganadería;
 
-IV. Gozar de buena reputación y no haber sido condenado por la comisión de delito doloso.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+III. Ser de reconocida solvencia moral;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+IV. Gozar de buena reputación y no haber sido condenado por la comisión de delito doloso; y,
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+V. No ser directivo de organismos ganaderos, ni ser propietario o empleado de empresas ganaderas de productos y subproductos pecuarios.
 
 ###### Artículo 199.
 
@@ -1339,7 +1729,9 @@ Son facultades de los Inspectores de Ganadería:
 
 I. Vigilar el cumplimiento de la presente Ley y su Reglamento, dando cuenta a las autoridades competentes de las infracciones en que se incurra para que se impongan las sanciones que correspondan. En caso de la probable comisión de un delito dar aviso a la autoridad competente;
 
-II. Vigilar que en los rastros, empacadoras e instalaciones autorizadas se sacrifiquen únicamente animales que estén amparados por las facturas y guías de tránsito de donde proceda el animal, sin cuyos requisitos no podrá sacrificarse ningún animal;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+II. Vigilar que en los rastros, empacadoras e instalaciones autorizadas se sacrifiquen únicamente animales que cumplan con los requisitos de esta Ley, de lo contrario no podrá sacrificarse ningún animal;
 
 III. Revisar y expedir la guía de tránsito;
 
@@ -1353,15 +1745,39 @@ VII. Inspeccionar a solicitud de las autoridades competentes, los animales mostr
 
 VIII. Las demás que les fije la presente Ley y su Reglamento.
 
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+###### Artículo 199 Bis.
+
+Se prohíbe a los Inspectores de Ganadería lo siguiente:
+
+I. Documentar ganado que proceda de zonas que no les corresponda, salvo los casos establecidos en el artículo 97 de esta Ley;
+
+II. Dedicarse directa o indirectamente a la compra-venta de ganado, productos y subproductos pecuarios;
+
+III. Abandonar el cargo sin autorización expresa de la Secretaría;
+
+IV. Realizar sus actividades de Inspector de Ganadería en uso o bajo los efectos de drogas o enervantes, salvo prescripción médica; y,
+
+V. Negar sin causa legal el servicio de su competencia que les sea solicitado.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+Artículo 199 Bis A. Será causal de remoción de los Inspectores de Ganadería incumplir con las facultades establecidas en el artículo 199 de esta Ley, incurrir en cualquiera de las prohibiciones establecidas en el artículo anterior, y las demás que señale la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
+
 ###### Artículo 200.
 
-En los centros poblados del Estado en los cuales no hubiera Inspectores, los Comisarios y Síndicos Municipales de la localidad desempeñará las funciones que a éstos correspondan, quienes de inmediato darán aviso a los inspectores.
+En los centros poblados del Estado en los cuales no hubiera Inspectores de Ganadería, los Comisarios y Síndicos Municipales de la localidad desempeñarán las funciones que a éstos correspondan, quienes de inmediato darán aviso a los inspectores de Ganadería.
 
 ###### Artículo 201.
 
 Previa consulta y en cooparticipación con la Unión Ganadera Regional de Sinaloa, la Secretaría en situaciones de emergencia podrá nombrar Inspectores auxiliares voluntarios de entre los mismos ganaderos, quienes no percibirán sueldo y no tendrán más facultades, que las de inspección de documentación del ganado en tránsito, en la circunscripción que le señale la Secretaría, sin que ello implique relación laboral alguna. Esta coparticipación se establecerá por excepción y sólo en casos de emergencias.
 
 ## Título Décimo Primero. De las Sanciones
+
+### Capítulo Único. De las Sanciones y su Aplicación
 
 ###### Artículo 202.
 
@@ -1371,25 +1787,35 @@ Las infracciones a esta Ley y su Reglamento serán sancionadas por la Secretarí
 
 La Secretaría a través de sus inspectores, levantará las actas circunstanciadas con motivo de la violación a la presente Ley y sus Reglamentos. Las infracciones y contravenciones a los preceptos de esta Ley y sus Reglamentos, se considerarán faltas administrativas que sancionarán las autoridades competentes, en los términos del artículo 21 Constitucional.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
+
 ###### Artículo 204.
 
-Al que infrinja las disposiciones señaladas en los artículos 16, 24, 36, 74, 90,102, 155, 160 y 165 de la presente Ley, se le amonestará con apercibimiento y, en caso de no acatarlo, se le aplicará la multa señalada en el artículo 205 de este ordenamiento.
+Al que infrinja las disposiciones señaladas en los artículos: 16, 24, 36, 74, 90, 102, 155, 160 y 165 de la presente Ley, se le amonestará con apercibimiento por escrito de que realice la conducta o actos especificados en los citados numerales dentro del término de siete días hábiles contados a partir del día hábil siguiente al en que se le haya notificado la amonestación y, en caso de no acatarlo, se le aplicará la multa señalada en el artículo 205 de este ordenamiento.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
 
 ###### Artículo 205.
 
-Al que infrinja las disposiciones señaladas en los artículos 27, 34, 37, 55, 56, 61, 70, 71, 72, 73, 138, 159 y 162 de la presente Ley se le impondrá una sanción con multa de 50 a 100 días de salario mínimo general vigente en el Estado, lo anterior, independientemente de las penas que correspondan por la comisión de algún delito.
+Al que infrinja las disposiciones señaladas en los artículos 4 Bis, 27, 34, 37, 55, 56, 61, 70, 71, 72, 73, 138, 159 ó 162 de la presente Ley se le impondrá una sanción con multa de 100 a 200 días de salario mínimo general vigente en el Estado. Lo anterior, independientemente de las penas que correspondan por la comisión de algún delito.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
 
 ###### Artículo 206.
 
-Al que infrinja las disposiciones señaladas en los artículos 20, 21, 48, 77, 78, 97, 98, 99, 121, 137, 152, 153, 154, 179,180, 192 y 196 de la presente Ley se le impondrá una sanción con multa de 100 a 300 días de salario mínimo general vigente en el Estado, lo anterior independientemente de las penas que correspondan por la comisión de algún delito.
+Al que infrinja las disposiciones señaladas en los artículos 20, 21, 48, 77, 78, 97, 98, 99, 121, 137, 152, 153, 154, 179, 180, 192 y 196 de la presente Ley se le impondrá una sanción con multa de 200 a 600 días de salario mínimo general vigente en el Estado, lo anterior independientemente de las penas que correspondan por la comisión de algún delito.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
 
 ###### Artículo 207.
 
-Al que infrinja las disposiciones señaladas en los artículos 51, 53, 57, 58, 59, 68, 69, 117, 126, 127 y 143 de la presente Ley se le impondrá una sanción con multa de 300 a 500 días de salario mínimo general vigente en el Estado, lo anterior independientemente de las penas que correspondan por la comisión de algún delito.
+Al que infrinja las disposiciones señaladas en los artículos 51, 53, 57, 58, 59, 68, 69, 117, 126, 127 y 143 de la presente Ley se le impondrá una sanción con multa de 600 a 1,000 días de salario mínimo general vigente en el Estado, lo anterior independientemente de las penas que correspondan por la comisión de algún delito.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
 
 ###### Artículo 208.
 
-Al que infrinja las disposiciones señaladas en los artículos 22, 35, 38, 60, 79, 94, 139, 140, 141 y 146 de la presente Ley se le impondrá una sanción con multa de 500 a 5,000 días de salario mínimo general vigente en el Estado, lo anterior independientemente de las penas que correspondan por la comisión de algún delito.
+Al que infrinja las disposiciones señaladas en los artículos 22, 35, 38, 60, 79, 94, 139, 140, 141 y 146 de la presente Ley se le impondrá una sanción con multa de 1,000 a 10,000 días de salario mínimo general vigente en el Estado, lo anterior independientemente de las penas que correspondan por la comisión de algún delito.
 
 ###### Artículo 209.
 
@@ -1405,9 +1831,11 @@ IV. La calidad de reincidente del infractor, si la hubiere; y,
 
 V. El carácter intencional de la infracción.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
+
 ###### Artículo 210.
 
-Cuando conste que el infractor ha incurrido en la misma violación a la presente ley dentro del año anterior a la última, será considerado como reincidente, en cuyo caso, la multa se aumentará hasta un 100%.
+Cuando conste que el infractor ha incurrido en la misma violación a la presente ley dentro del año inmediato anterior a la última violación, será considerado como reincidente, en cuyo caso, la multa se aumentará hasta un 100%, de la que le corresponda.
 
 ###### Artículo 211.
 
@@ -1443,11 +1871,19 @@ Para la reconsideración administrativa bastará que el recurrente haga una senc
 
 Una vez presentada la solicitud de reconsideración, la Secretaría resolverá sin ulterior trámite dentro del término de quince días con base en el referido informe y en función de las pruebas que se hubieren aportado.
 
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+###### Artículo 216 Bis.
+
+En contra de la resolución emitida por la presentación de la reconsideración administrativa, el afectado podrá presentar dentro del término de quince días hábiles contados a partir del día siguiente al que se hizo la notificación (sic) demanda de nulidad en los términos previstos en la Ley de Justicia Administrativa para el Estado de Sinaloa.
+
 ###### Artículo 217.
 
 Los servidores públicos que incurran en responsabilidades en la aplicación de esta Ley, serán sancionados conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa y demás disposiciones legales aplicables.
 
 ## Título Décimo Segundo. De la Denuncia
+
+### Capítulo Único. De la Denuncia Popular
 
 ###### Artículo 218.
 
@@ -1501,10 +1937,20 @@ El Secretario de Administración y Finanzas.
 
 Oscar J. Lara Aréchiga
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 23 DE DICIEMBRE DE 2009.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 24 DE JUNIO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan las demás disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los establecimientos autorizados para el sacrificio de productos pecuarios que a la entrada en vigor del presente decreto estén en funciones, lo seguirán haciendo por un periodo de 10 años.
+
+CUARTO. El Poder Ejecutivo realizará las previsiones presupuestarias necesarias en la Ley de Ingresos y Presupuesto de Egresos, para el debido cumplimiento del presente decreto.
