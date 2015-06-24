@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2015-05-21"
+last_updated: "2015-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE JUNIO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -136,9 +136,9 @@ XII.- Elegir a los miembros del Consejo General del Instituto Electoral del Dist
 
 XIII.- Designar a dos Consejeros de la Judicatura del Distrito Federal, en los términos de la fracción II de la Base Cuarta del Apartado C del artículo 122 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, G.O. 9 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.O. 24 DE JUNIO DE 2015)</small>
 
-XIV.- Designar o remover al titular de la Auditoria Superior de la Ciudad de México, en términos de lo dispuesto por esta ley y por la Ley de Fiscalización Superior de la Ciudad de México y la Ley que establece el Procedimiento de Remoción de los Servidores Públicos que designa la Asamblea Legislativa del Distrito Federal y de los Titulares de los Órganos Político Administrativos de la Ciudad de México;
+XIV. Designar o remover al titular de la Auditoría Superior de la Ciudad de México, y al titular de la Contraloría General de dicha Entidad de Fiscalización Superior, en términos de lo dispuesto por esta ley y por la Ley de Fiscalización Superior de la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 15 DE MAYO DE 2014)</small>
 
@@ -2411,3 +2411,15 @@ DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XXXVIII Y SE REFORMAN LAS FRACCIONE
 PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación por este Pleno de la Asamblea Legislativa del Distrito Federal.
 
 SEGUNDO.- Remítase el (sic) Jefe de Gobierno del Distrito Federal para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 24 DE JUNIO DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Dentro de los 90 días naturales siguientes a la publicación del presente decreto, la Comisión de Gobierno de la Asamblea Legislativa del Distrito Federal, deberá proponer al Pleno del mencionado Órgano Parlamentario, candidato para ocupar el cargo de Contralor General de la Auditoria Superior; para que, dentro de los 30 días naturales siguientes por mayoría de los diputados presentes en la sesión correspondiente designe al Contralor General; en tanto, seguirá ejerciendo las funciones que viene desarrollando el actual Subcontralor en la Auditoría Superior de la Contraloría General de la Asamblea Legislativa, el personal adscrito a dicha subcontraloria continuará formando parte de la Asamblea Legislativa del Distrito Federal.
+
+TERCERO.- La Auditoría Superior de la Ciudad de México homologará y adecuará su Reglamento Interior y demás normatividad interna dentro de los 60 días hábiles siguientes a la entrada en vigor de este Decreto.
+
+CUARTO.- En un plazo de 30 días naturales posteriores a la entrada en vigor del presente Decreto, la Comisión de Presupuesto y Cuenta Pública, dictaminará las adecuaciones y ajustes presupuestales de la Asamblea Legislativa y de la Contraloría, que se deriven de esta reforma.
+
+QUINTO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación, para su mayor difusión.
