@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2015-06-08"
+last_updated: "2015-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE JUNIO DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -123,9 +123,9 @@ I. PRIMER CIRCUITO:
 
 2. Nueve tribunales unitarios especializados: seis en materia penal y tres en materias civil y administrativa, todos con residencia en el Distrito Federal.
 
-> <small>(REFORMADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 7/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 29/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE JUNIO DE 2015)</small>
 
-3. Setenta juzgados de Distrito en el Distrito Federal especializados: dieciocho de Procesos Penales Federales, catorce de amparo en materia penal, dieciséis en materia administrativa, trece en materia civil y nueve en materia de trabajo, todos con sede en el Distrito Federal.
+3. Sesenta y nueve juzgados de Distrito en el Distrito Federal especializados: quince de Procesos Penales Federales, dieciséis de amparo en materia penal, dieciséis en materia administrativa, trece en materia civil y nueve en materia de trabajo, todos con sede en el Distrito Federal.
 
 4. Siete Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, todos con residencia en el Distrito Federal.
 
@@ -1684,3 +1684,99 @@ V. …
 2. a 3. …
 
 VI. a XXXII. …”
+
+D.O.F. 24 DE JUNIO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor el veinticuatro de junio de dos mil quince, con excepción de lo previsto en el transitorio tercero, el cual entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. La Secretaría Ejecutiva de Administración del Consejo de la Judicatura Federal, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará a los nuevos órganos jurisdiccionales materia de este Acuerdo, del equipamiento necesario para el desempeño de sus funciones.
+
+La Dirección General de Estadística Judicial, en coordinación con la Dirección General de Tecnologías de la Información, realizarán las acciones necesarias en el sistema de cómputo de la Oficina de Correspondencia Común de los Juzgados de Distrito de Amparo en Materia Penal en el Distrito Federal, a fin de incluir a los juzgados Decimoquinto y Decimosexto de Distrito de Amparo en Materia Penal en el Distrito Federal, y efectuar los ajustes correspondientes.
+
+CUARTO. Se reforma el numeral SEGUNDO, fracción I, número 3 del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. …
+
+I. …
+
+1. a 2. …
+
+3. Sesenta y nueve juzgados de Distrito en el Distrito Federal especializados: quince de Procesos Penales Federales, dieciséis de amparo en materia penal, dieciséis en materia administrativa, trece en materia civil y nueve en materia de trabajo, todos con sede en el Distrito Federal.
+
+4. a 5. …
+
+II. a XXXII. …”
+
+QUINTO. Para la distribución de las causas penales que físicamente se encuentran en los Juzgados Cuarto y Decimoquinto de Distrito de Procesos Penales Federales en el Distrito Federal, con residencia en los Reclusorios Oriente y Sur (ahora los Juzgados Decimoquinto y Decimosexto de Distrito de Amparo en Materia Penal en el Distrito Federal, respectivamente), así como en el Juzgado Decimoséptimo de Distrito de Procesos Penales Federales en el Distrito Federal, con residencia en el Reclusorio Norte, se realizará lo siguiente:
+
+A). El veinticuatro de junio de dos mil quince, cada uno de los órganos indicados clasificará los asuntos de su índice que estén en sus instalaciones, en los siguientes rubros:
+
+I. Causas penales en trámite (que estén sin audiencia celebrada; con audiencia celebrada y pendientes de resolución; resueltas que estén subjudice, etcétera);
+
+II. Causas suspensas en archivo provisional;
+
+III. Causas penales archivadas definitivamente; y
+
+IV. Causas penales con resolución urgente, en estos casos, en la relación se indicará el término; y, en la Oficina de Correspondencia Común, se hará el turno formal de esos asuntos inmediatamente.
+
+Posteriormente, elaborarán listas por triplicado de las causas penales que correspondan por rubro, en las que respecto de cada expediente incluirán la relación de sus valores y objetos, instrumentos o productos del delito, etcétera, que en su caso tengan.
+
+La relación de expedientes en cada lista se hará en orden ascendente, según el número y año de los expedientes.
+
+B). Una vez concluidas las listas indicadas, el secretario de juzgado designado para tal efecto, realizará una certificación de cada una de ellas, en la cual dará fe de la existencia física de las causas penales, así como de sus valores, objetos, instrumentos o productos del delito, etcétera.
+
+C). De las 9:00 A.M. a las 11:00 A.M. del veinticinco de junio de dos mil quince, los juzgados de Distrito indicados, por medio de su actuario, entregarán por triplicado las listas referidas en el inciso B), a la Dirección General de Estadística Judicial, donde se cotejarán los asuntos reportados con los que los órganos tengan en el SISE; y por triplicado se hará una relación de los expedientes de las listas, por cada uno de los rubros I, II, III y IV, corrigiendo si es necesario el orden numérico de su distribución, y a cada causa penal de esos rubros se le agregará un número de cada ciclo del 1 al 5.
+
+D). La Dirección General de Estadística Judicial, se quedará con una lista de cada rubro del triplicado que recibió, así como de uno de los triplicados de la relación que generó; y de las 9:00 A.M. a las 11:00 A.M. del veintiséis de junio de dos mil quince, entregará al secretario de juzgado que designe el órgano para recibirla, las dos copias de los dos triplicados restantes.
+
+E). Los ciclos de números del 1 al 5 que en la nueva relación agregó la Dirección General de Estadística Judicial a las causas penales de las listas de los rubros I, II, III y IV, de los órganos jurisdiccionales referidos en el primer párrafo de este artículo transitorio, corresponderán según el Reclusorio de su residencia, al juzgado de Distrito al cual le deberán turnar cada uno de esos asuntos, en los términos que se exponen en el siguiente cuadro:
+
+Número ordinal asignado a cada juzgado de Distrito de procesos penales federales en el Distrito Federal, para efectos del turno de los asuntos mencionados en los incisos A), B), C), D) y E) que anteceden.
+
+Número RECLUSORIO
+
+ordinal
+
+Norte Sur Oriente
+
+1 Primero Séptimo Quinto
+
+2 Segundo Octavo Sexto
+
+3 Tercero Noveno Décimo
+
+4 Decimosexto Decimotercero Decimoprimero
+
+5 Decimoctavo Decimocuarto Decimosegundo
+
+F). Entre el veintiséis y el treinta de junio de dos mil quince, cada juzgado de Distrito indicado en el primer párrafo de este artículo, al recibir la listas en comento, con apoyo en uno de los juegos de sus triplicados y en la relación de ciclos del 1 al 5; procederá a distribuir entre los cinco órganos del reclusorio de su residencia original, las causas penales que les correspondan, según el sistema ordinal expuesto en el cuadro e inciso anterior.
+
+Para ello, entregarán a los juzgados de Distrito receptores, una copia certificada de las listas y relación de ciclos del 1 al 5 respectivas, a efecto de que verifiquen físicamente la entrega de cada una de las causas penales que les correspondan, así como sus valores y objetos, instrumentos o productos del delito, etcétera, que en su caso tengan.
+
+De cada entrega se levantará un acta circunstanciada por cuadruplicado, la cual se signará por un secretario de juzgado de cada órgano, quedando una copia para el juzgado de Distrito que entrega los expedientes y otra para el que los recibe.
+
+El juzgado de Distrito de Procesos Penales Federales en el Distrito Federal, que recibe las causas penales bajo el sistema anteriormente expuesto, inmediatamente procederá a su registro con el nuevo número que le corresponda, indicando el órgano del cual procede, y el número que tenía asignado en éste.
+
+F).1. Posteriormente, cada órgano jurisdiccional citado en el primer párrafo de este artículo, realizará lo siguiente:
+
+Entregará a la Oficina de Correspondencia Común de los Juzgados de Distrito de Procesos Penales Federales en el Distrito Federal, el tercer triplicado de las listas y el de la relación numerada en ciclos de 5 que recibió de la Dirección General de Estadística Judicial, así como el tercer cuadruplicado de las actas circunstanciadas de entrega-recepción de expedientes que se integró en términos del penúltimo párrafo del inciso F).
+
+Entregará a la Dirección General de Estadística Judicial, el cuarto cuadruplicado de las actas circunstanciadas de entrega-recepción de expedientes que integró, en términos del penúltimo párrafo del inciso F).
+
+G). La Oficina de Correspondencia Común en cita, con base en los documentos recibidos, que se indican en el inciso F).1, procederá a realizar el formal registro y turno de los asuntos según la distribución ya realizada, indicando el órgano del cual procede cada asunto y el número de expediente asignado al mismo.
+
+Los juzgados de Distrito de Procesos Penales Federales en el Distrito Federal, comisionarán al actuario de su adscripción para que acuda a la Oficina de Correspondencia Común indicada, a recibir las boletas de turno que se emitan respecto a los expedientes que se les entregaron en términos del inciso F), las cuales, en su momento, se incorporarán a las causas penales correspondientes.
+
+H). La Dirección General de Estadística Judicial, con apoyo en las actas circunstanciadas de entrega-recepción de expedientes, las relaciones numeradas en ciclos de 5 y con las listas indicadas en el inciso D), integrará un documento final de distribución y recepción de asuntos, que permita ubicar el origen y destino final de los expedientes, con apoyo en los registros del SISE.
+
+Este documento final, en el caso de las causas suspensas de archivo provisional, por cuestiones de sigilo no deberá incluir nombres o apodos de los encausados en contra de quienes se dictaron las órdenes correspondientes.
+
+J) (SIC). Una vez concluido el documento final indicado en el inciso H), la Dirección General de Estadística Judicial lo remitirá a la Procuraduría General de la República, para los efectos conducentes, en especial, a efecto de que en los cumplimientos de ordenes de aprehensión dictados por los Juzgados Cuarto, Decimoquinto y Decimoséptimo de Distrito de Procesos Penales Federales en el Distrito Federal, con residencia en los Reclusorios Oriente, Sur y Norte, se conozca a qué órgano se turnó la causa penal respectiva.
+
+SEXTO. Todas las promociones posteriores que se relacionen con causas penales de los Juzgados Cuarto, Decimoquinto y Decimoséptimo de Distrito de Procesos Penales Federales en el Distrito Federal, que se encuentren en el archivo de concentración; deberán presentarse ante la Oficina de Correspondencia Común de los Juzgados de Distrito de Procesos Penales Federales en el Distrito Federal, donde se turnarán mediante el sistema aleatorio, a los órganos jurisdiccionales a los que presta sus servicios dicha oficina.
+
+El titular del Juzgado de Distrito de Procesos Penales Federales en el Distrito Federal al que se le turne la promoción, tramitará lo necesario para que se le remita la causa penal respectiva; y, en lo sucesivo, conocerá de todo lo relacionado con ésta.
+
+SÉPTIMO. Se faculta a la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, para que con apoyo en la Dirección General de Estadística Judicial y en la Dirección General de Tecnologías de la Información, resuelva todas las situaciones que surjan con motivo de la aplicación de lo expuesto en los incisos A) a J), del artículo Quinto Transitorio.
