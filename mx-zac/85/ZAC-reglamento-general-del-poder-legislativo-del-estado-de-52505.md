@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-general-del-poder-legislativo-del-estado-de-52505"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-13"
-last_updated: "2015-05-20"
+last_updated: "2015-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2015.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 13 de diciembre de 2006.
 
@@ -2029,17 +2029,21 @@ XXXIV. Fomentar la cultura de igualdad, incorporando la perspectiva de género c
 
 XXXV. Proponer la estandarización, conforme a los Instrumentos internacionales en materia de derechos humanos de las mujeres, de todos los procedimientos y actuaciones administrativas y laborales del Poder Legislativo;
 
-> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
 
-XXXVI. Impulsar la formación y capacitación del personal en relación al significado y alcance del principio de igualdad así como en temas de derechos humanos de las mujeres, (sic) perspectiva de género;
+XXXVI. Impulsar la formación y capacitación del personal en relación al significado y alcance del principio de igualdad así como en temas de derechos humanos de las mujeres, perspectiva de género y cultura del buen trato;
 
-> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
 
-XXXVII. Llevar a cabo el seguimiento, evaluación del desarrollo y cumplimiento de acciones que fomenten la observancia del principio de Igualdad de mujeres y hombres que laboren en el Poder Legislativo, y
+XXXVII. Llevar a cabo el seguimiento, evaluación del desarrollo y cumplimiento de acciones que fomenten la observancia del principio de Igualdad de mujeres y hombres que laboren en el Poder Legislativo
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+XXXVIII. Fomentar el buen trato entre las trabajadoras y los trabajadores sin distinción jerárquica, así como entre los trabajadores y las y los representantes populares, mediante la implementación de programas y proyectos orientados a ese fin, y
 
 > <small>(REFORMADA, P.O. 20 DE MAYO DE 2015)</small>
 
-XXXVIII. Las demás que le instruya el Pleno o los Órganos de Gobierno.
+XXXIX. Las demás que le instruya el Pleno o los Órganos de Gobierno.
 
 ### Capítulo III. De las unidades de apoyo de la Secretaría General
 
@@ -2520,3 +2524,9 @@ V. Impulsar a través de la Secretaría General y la Dirección de Procesos Legi
 VI. Las demás que establezca la presente Ley, el Reglamento General y lo que determinen los ordenamientos complementarios.
 
 Artículo Cuarto.- Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 24 DE JUNIO DE 2015.
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan las disposiciones que contravengan el presente Decreto.
