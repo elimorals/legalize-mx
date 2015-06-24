@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2015-06-10"
+last_updated: "2015-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -703,17 +703,29 @@ CESE DE LA OBLIGACIÓN ALIMENTARIA. Cesa la obligación de dar alimentos:
 
 I.- Cuando el que la tiene carece de medios para cumplirla;
 
-II.- Cuando el alimentista deja de necesitar los alimentos. La obligación subsiste en caso de incapacidad o por continuación de los estudios del acreedor alimentario, en este caso hasta los veinticinco años;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
 
-III.- En caso de delito, conducta antisocial, o daños graves, calificados por el juez inferidos intencionalmente por el alimentista contra el que deba prestarlos;
+II.- Cuando el acreedor alimentario deja de necesitar los alimentos. La obligación subsiste en caso de incapacidad o por continuación de los estudios del acreedor alimentario, en este caso hasta los veinticinco años;
 
-IV.- Cuando la necesidad de los alimentos dependa de la conducta delictuosa, ilícita o viciosa del acreedor alimentario mientras subsistan esas causas; y
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
 
-V.- Si el alimentista, sin conocimiento del que deba dar los alimentos, abandona la casa de éste sin justificación;
+III.- En caso de delito, conducta antisocial, o daños graves, calificados por el juez inferidos intencionalmente por el acreedor alimentario contra el que deba prestarlos;
 
-VI.- Por muerte de acreedor alimentista.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
 
-No obstante lo establecido en las fracciones III, IV y V la obligación alimentaría subsiste hasta los catorce años.
+IV.- Cuando la necesidad de los alimentos dependa de la conducta delictuosa, ilícita o viciosa del acreedor alimentario mientras subsistan esas causas;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+V.- Si el acreedor alimentario, sin conocimiento del que deba dar los alimentos, abandona la casa de éste sin justificación, y
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2015)</small>
+
+VI.- Por muerte del acreedor alimentario.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
+
+No obstante lo establecido en las fracciones III, IV y V, la obligación alimentaría subsiste hasta los quince años.
 
 ###### ARTÍCULO 56.
 
@@ -6258,3 +6270,9 @@ P.O. 10 DE JUNIO DE 2015.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 24 DE JUNIO DE 2015.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
