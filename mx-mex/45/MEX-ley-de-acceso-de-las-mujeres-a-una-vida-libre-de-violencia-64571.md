@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2014-10-16"
+last_updated: "2015-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE JUNIO DE 2015.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -51,7 +51,7 @@ La presente Ley es de orden público, interés social y de observancia general y
 
 Los objetivos específicos de esta Ley son:
 
-l. Coordinar la política gubernamental de las dependencias e instituciones del Estado de México en coadyuvancia con los gobiernos municipales y los organismos autónomos para garantizar a las mujeres, desde una perspectiva de género, el acceso a una vida libre de violencia a través de acciones y medidas integrales de prevención, atención, sanción y erradicación de la violencia de género contra las mujeres y las niñas;
+I. Coordinar la política gubernamental de las dependencias e instituciones del Estado de México en coadyuvancia con los gobiernos municipales y los organismos autónomos para garantizar a las mujeres, desde una perspectiva de género, el acceso a una vida libre de violencia a través de acciones y medidas integrales de prevención, atención, sanción y erradicación de la violencia de género contra las mujeres y las niñas;
 
 II. Transformar las condiciones políticas, sociales, económicas y culturales que justifican, alientan y reproducen la violencia de género contra las mujeres y las niñas, para generar mecanismos Institucionales de aplicación de políticas de gobierno Integrales que garanticen el respeto y el ejercicio de sus Derechos Humanos, de conformidad con la legislación nacional, así como de los instrumentos internacionales en la materia aprobados por nuestro país;
 
@@ -69,9 +69,9 @@ VII. Asegurar la concurrencia, integralidad y optimización de recursos e instru
 
 Para los efectos de esta Ley, se entiende por:
 
-l. Violencia de Género: Al conjunto de amenazas, agravios, maltrato, lesiones y daños asociados a la exclusión, la subordinación, la discriminación y la explotación de las mujeres y las niñas y que es consubstancial a la opresión de género en todas sus modalidades. La violencia de género contra las mujeres y las niñas involucra tanto a las personas como a la sociedad en sus distintas formas y organizaciones, comunidades, relaciones, prácticas e instituciones sociales y al Estado que la reproduce al no garantizar la igualdad, al perpetuar formas legales, jurídicas, judiciales, políticas androcéntricas y de jerarquía de género y al no dar garantías de seguridad a las mujeres.
+I. Violencia de Género: Al conjunto de amenazas, agravios, maltrato, lesiones y daños asociados a la exclusión, la subordinación, la discriminación y la explotación de las mujeres y las niñas y que es consubstancial a la opresión de género en todas sus modalidades. La violencia de género contra las mujeres y las niñas involucra tanto a las personas como a la sociedad en sus distintas formas y organizaciones, comunidades, relaciones, prácticas e instituciones sociales y al Estado que la reproduce al no garantizar la igualdad, al perpetuar formas legales, jurídicas, judiciales, políticas androcéntricas y de jerarquía de género y al no dar garantías de seguridad a las mujeres.
 
-La violencia de Género se ejerce tanto en el ámbito privado como en el ámbito público manifestándose en diversos tipos y modalidades como la familiar, en la comunidad, institucional, laboral, docente y feminicida de manera enunciativa y no Iimitativa;
+La violencia de Género se ejerce tanto en el ámbito privado como en el ámbito público manifestándose en diversos tipos y modalidades como la familiar, en la comunidad, institucional, laboral, docente y feminicida de manera enunciativa y no limitativa;
 
 II. (DEROGADA, G.G. 18 DE MARZO DE 2011)
 
@@ -147,7 +147,7 @@ Todas las medidas que se deriven de la presente Ley, garantizarán la prevenció
 
 Los principios rectores para el acceso de las mujeres a una vida libre de violencia de género que deberán ser observados en la elaboración y ejecución de las políticas públicas de los Gobiernos Estatal y Municipales son:
 
-l. La igualdad jurídica entre la mujer y el hombre;
+I. La igualdad jurídica entre la mujer y el hombre;
 
 II. El respeto a la dignidad humana de las mujeres;
 
@@ -195,7 +195,7 @@ Violencia familiar es el acto abusivo de poder u omisión intencional, dirigido 
 
 Con el objeto de contribuir a la erradicación de la violencia contra las mujeres dentro de la familia, el Poder Legislativo, en el respectivo ámbito de su competencia, considerará:
 
-l. Establecer la violencia familiar como restricción para el régimen de convivencia así como impedimento para la guarda y custodia de niñas y niños; y
+I. Establecer la violencia familiar como restricción para el régimen de convivencia así como impedimento para la guarda y custodia de niñas y niños; y
 
 II. Modificar los ordenamientos penales para establecer que cualquier persona que tenga conocimiento de hechos que constituyan delitos de violencia familiar puedan denunciar y posteriormente la víctima la ratifique en el término de 10 días.
 
@@ -225,7 +225,7 @@ El acoso sexual es una forma de violencia en la que existe una subordinación de
 
 Los Gobiernos Estatal y Municipales en el marco de sus respectivas competencias tomarán en consideración:
 
-l. Establecer las políticas de gobierno que garanticen el derecho de las niñas y las mujeres a una vida libre de violencia de género en sus relaciones laborales y/o de docencia;
+I. Establecer las políticas de gobierno que garanticen el derecho de las niñas y las mujeres a una vida libre de violencia de género en sus relaciones laborales y/o de docencia;
 
 II. Fortalecer el marco penal y civil para asegurar la sanción a quienes hostigan y acosan;
 
@@ -237,7 +237,7 @@ IV. Diseñar programas que brinden los servicios reeducativos integrales para la
 
 Para efectos del hostigamiento sexual y del acoso sexual, los Gobiernos Estatal y Municipales deberán:
 
-l. Reivindicar la dignidad de las mujeres y las niñas en todos los ámbitos de la vida;
+I. Reivindicar la dignidad de las mujeres y las niñas en todos los ámbitos de la vida;
 
 II. Establecer mecanismos que favorezcan su erradicación en escuelas y centros laborales privados o públicos, mediante acuerdos y convenios con instituciones escolares, empresas y sindicatos;
 
@@ -265,7 +265,7 @@ Violencia en la Comunidad: Son los actos individuales o colectivos que transgred
 
 Los Gobiernos Estatal y Municipales en el ámbito de sus competencias deben garantizar a las mujeres y a las niñas la erradicación de la violencia en la comunidad, a través de:
 
-l. La reeducación libre de estereotipos y la información de alerta sobre el estado de riesgo que enfrentan las mujeres en una sociedad desigual y discriminatoria;
+I. La reeducación libre de estereotipos y la información de alerta sobre el estado de riesgo que enfrentan las mujeres en una sociedad desigual y discriminatoria;
 
 II. El diseño de un sistema de monitoreo del comportamiento violento de las personas y de la sociedad contra las mujeres; y
 
@@ -345,7 +345,9 @@ Las acciones orientadas a controlar, restringir, vigilar a cualquiera de las par
 
 El Gobierno del Estado y los Ayuntamientos, a través de sus dependencias en el respectivo ámbito de su competencia, llevarán a cabo, mediante la aplicación de políticas públicas, las acciones necesarias tendientes a identificar, prevenir, atender y disminuir los factores que propician los fenómenos de violencia de pareja, en cualquiera de sus tipos y en consecuencia, erradicar los roles discriminatorios, estereotipos sexistas, resolución violenta de conflictos y la misoginia.
 
-### CAPÍTULO VI. DE LAS ÓRDENES DE PROTECCIÓN
+### CAPITULO V BIS. DE LA VIOLENCIA OBSTÉTRICA
+
+> <small>(ADICIONADO, G.G. 25 DE JUNIO DE 2015)</small>
 
 ###### Artículo 21.
 
@@ -359,7 +361,7 @@ Alerta de Violencia de Género: Es el conjunto de acciones gubernamentales de em
 
 Cuando se presenten casos de violencia feminicida, los Gobiernos Estatal y Municipales dispondrán de las medidas para garantizar la seguridad de las mujeres y las niñas, el cese de la violencia en su contra y eliminar las situaciones de desigualdad en que se encuentren, para lo cual se deberá:
 
-l. Establecer un grupo interinstitucional y multidisciplinario con perspectiva de género que dé el seguimiento respectivo;
+I. Establecer un grupo interinstitucional y multidisciplinario con perspectiva de género que dé el seguimiento respectivo;
 
 II. Implementar las acciones preventivas, de seguridad y justicia, para enfrentar y abatir la violencia feminicida, así como ampliar facultades de la Fiscalía Especial de homicidios dolosos contra mujeres y delitos relacionados con la violencia familiar y sexual;
 
@@ -385,7 +387,7 @@ El Gobierno Estatal cuando así lo considere, podrá solicitar al Gobierno Feder
 
 Ante la violencia feminicida, el Gobierno del Estado deberá establecer las acciones siguientes:
 
-l. El derecho a la justicia pronta, expedita e imparcial: Se deben investigar las violaciones a los derechos de las mujeres y sancionar a las personas responsables;
+I. El derecho a la justicia pronta, expedita e imparcial: Se deben investigar las violaciones a los derechos de las mujeres y sancionar a las personas responsables;
 
 II. La rehabilitación: Es la prestación de servicios jurídicos, médicos y psicológicos especializados y gratuitos para la recuperación de las víctimas;
 
@@ -397,6 +399,44 @@ a) El diseño e instrumentación de políticas públicas integrales que eviten l
 
 b) La verificación de los hechos y la publicidad de la verdad.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 25 DE JUNIO DE 2015)</small>
+
+### CAPÍTULO VI. DE LAS ÓRDENES DE PROTECCIÓN
+
+###### Artículo 27 Bis.
+
+La violencia obstétrica se configura por parte del personal médico, paramédico, de enfermería y administrativo de las instituciones de salud cuando se dañe o denigre a la mujer durante el embarazo, el parto, post parto o en emergencias obstétricas, vulnerando sus derechos mediante tratos crueles, inhumanos o degradantes.
+
+> <small>(ADICIONADO, G.G. 25 DE JUNIO DE 2015)</small>
+
+###### Artículo 27 Ter.
+
+Son actos u omisiones constitutivos de violencia obstétrica, de manera enunciativa, pero no limitativa, los siguientes:
+
+I. No atender o no brindar atención oportuna y eficaz a las mujeres en el embarazo, parto, puerperio o en emergencias obstétricas.
+
+II. Presionar psicológica u ofensivamente a una parturienta.
+
+III. Obligar a la mujer a parir acostada sobre su columna y con las piernas levantadas o en forma distinta a la que sea propia de sus usos, costumbres y tradiciones obstétricas, aun cuando existan los medios necesarios para la realización del parto vertical.
+
+IV. Alterar el proceso natural del parto de bajo riesgo, mediante el uso de técnicas de aceleración, sin obtener el consentimiento voluntario, expreso e informado de la mujer.
+
+V. Practicar el parto por vía de cesárea, sin obtener el consentimiento voluntario, expreso e informado de la mujer, no obstante de existir condiciones para el parto natural.
+
+VI. Obstaculizar, sin causa médica justificada, el apego de la niña o el niño con su madre, mediante la negación a ésta de la posibilidad de cargarle o de amamantarle inmediatamente después de nacer.
+
+VII. Intervenir quirúrgicamente sin consentimiento o autorización de la paciente, en términos de las disposiciones aplicables.
+
+VIII. Realizar la esterilización sin el consentimiento voluntario, expreso e informado de la mujer, así como las consecuencias físicas y psicológicas de dicha intervención.
+
+IX. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de la mujer.
+
+> <small>(ADICIONADO, G.G. 25 DE JUNIO DE 2015)</small>
+
+###### Artículo 27 Quater.
+
+El Gobierno del Estado, a través de la Secretaría de Salud, deberá desarrollar programas que fomenten la atención integral de la mujer durante el embarazo, el parto, el puerperio o en emergencias obstétricas, e instrumentará políticas públicas transversales para prevenir, erradicar y sancionar la violencia obstétrica.
+
 ### CAPÍTULO I. DE LAS POLÍTICAS DE GOBIERNO PARA ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 > <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
@@ -407,8 +447,6 @@ DEL PROGRAMA INTEGRAL PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y 
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE MARZO DE 2011)</small>
 
-### CAPÍTULO I. DE LA COMPETENCIA ESTATAL
-
 ###### Artículo 28.
 
 Las Órdenes de Protección: Son actos de protección y de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares. Deberán otorgarse por la autoridad competente, inmediatamente que conozcan de hechos constitutivos de infracciones o delitos que impliquen violencia de género.
@@ -417,7 +455,7 @@ Las Órdenes de Protección: Son actos de protección y de urgente aplicación e
 
 Las órdenes de protección que consagra la presente Ley son personalísimas y podrán ser:
 
-l. De Emergencia; y
+I. De Emergencia; y
 
 II. Preventivas.
 
@@ -433,7 +471,7 @@ Las órdenes de protección de emergencia y preventivas deberán expedirse de in
 
 Son órdenes de protección de emergencia las siguientes:
 
-l. Desocupación por la persona agresora, del domicilio o lugar donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo;
+I. Desocupación por la persona agresora, del domicilio o lugar donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo;
 
 II. Prohibición a la persona probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
 
@@ -447,7 +485,7 @@ V. Las demás establecidas en otras disposiciones legales.
 
 Son órdenes de protección preventivas las siguientes:
 
-l. Inventario de los bienes muebles e inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima;
+I. Inventario de los bienes muebles e inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima;
 
 II. Uso y goce de bienes muebles que se encuentren en el inmueble que sirva de domicilio de la víctima;
 
@@ -465,7 +503,7 @@ VI. Las demás establecidas en otras disposiciones legales.
 
 Son órdenes de protección de naturaleza civil las siguientes:
 
-l. Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes;
+I. Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes;
 
 II. Prohibición al agresor de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal;
 
@@ -481,7 +519,7 @@ Serán tramitadas ante los juzgados de lo familiar o a falta de éstos ante los 
 
 Para otorgar las órdenes emergentes y preventivas de la presente Ley, se considerará:
 
-l. El riesgo o peligro existente; y
+I. El riesgo o peligro existente; y
 
 II. La seguridad de la víctima.
 
@@ -493,7 +531,7 @@ DE LAS POLÍTICAS DE GOBIERNO Y DEL SISTEMA ESTATAL PARA LA IGUALDAD DE TRATO Y 
 
 > <small>(REFORMADO EN SU DENOMINACIÓN, G.G. 18 DE MARZO DE 2011)</small>
 
-### CAPÍTULO II. DE LA COMPETENCIA DEL PODER JUDICIAL
+### CAPÍTULO I. DE LA COMPETENCIA ESTATAL
 
 ###### Artículo 33.
 
@@ -501,7 +539,7 @@ Las Políticas de Gobierno que las dependencias y organismos auxiliares del Esta
 
 > <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
 
-### CAPÍTULO III. DE LA COMPETENCIA DE LOS MUNICIPIOS
+### CAPÍTULO II. DE LA COMPETENCIA DEL PODER JUDICIAL
 
 ###### Artículo 34.
 
@@ -569,17 +607,15 @@ VI. Las relacionadas con las anteriores que sean necesarias para incrementar la 
 
 > <small>(REFORMADO EN SU DENOMINACIÓN, G.G. 18 DE MARZO DE 2011)</small>
 
+### CAPÍTULO III. DE LA COMPETENCIA DE LOS MUNICIPIOS
+
 ### CAPÍTULO I. DE LA ATENCIÓN A LAS VÍCTIMAS
-
-### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS DE VIOLENCIA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 37.
 
 El Programa deberá ser elaborado por el Sistema Estatal y coordinado por el Ejecutivo Estatal a través del CEMyBS y es el mecanismo que contiene las acciones que en forma planeada y coordinada deberán realizar las dependencias, los organismos auxiliares y los organismos autónomos del Estado, en el corto, mediano y largo plazo. Deberá ser expedido por el titular del Ejecutivo y será congruente con el Plan Estatal de Desarrollo y el Programa Nacional que en esta materia se establezca a nivel federal, y contendrá las acciones con perspectiva de género para:
 
-l. Impulsar y fomentar el conocimiento, la promoción y el respeto a los Derechos Humanos de las mujeres y las niñas;
+I. Impulsar y fomentar el conocimiento, la promoción y el respeto a los Derechos Humanos de las mujeres y las niñas;
 
 II. Transformar los modelos socioculturales de conducta de mujeres y hombres, incluyendo la formulación de programas y acciones de educación formales y no formales, en todos los niveles educativos y de instrucción, con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten, fomentan y toleran la violencia contra las mujeres;
 
@@ -610,6 +646,10 @@ XIII. Diseñar un Modelo integral de atención a los Derechos Humanos y la ciuda
 El Ejecutivo Estatal propondrá en el Presupuesto de Egresos del Estado, asignar una partida presupuestaria para garantizar el cumplimiento de los objetivos del Sistema y del Programa previstos en la presente Ley.
 
 ## TÍTULO QUINTO. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES Y LAS NIÑAS
+
+### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS DE VIOLENCIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 39.
 
@@ -679,7 +719,7 @@ XXVII. Las demás que le confieran esta Ley u otros ordenamientos aplicables.
 
 Corresponde a la Secretaría General de Gobierno:
 
-l. Difundir la Ley en español y en los dialectos preponderantes de la Entidad;
+I. Difundir la Ley en español y en los dialectos preponderantes de la Entidad;
 
 II. Presidir el Sistema Estatal y, en su caso, proponer a la Secretaría de Gobernación la colaboración en las medidas emitidas en la Declaratoria de alerta de violencia de género;
 
@@ -711,7 +751,7 @@ XIV. Las demás previstas para el cumplimiento de la presente Ley.
 
 Corresponde a la Secretaría de Finanzas:
 
-l. Definir las partidas presupuestales sensibles al género indispensables para garantizar el cumplimiento de los preceptos de esta Ley;
+I. Definir las partidas presupuestales sensibles al género indispensables para garantizar el cumplimiento de los preceptos de esta Ley;
 
 II. Configurar desde la perspectiva de género las normas y lineamientos de carácter técnico presupuestal en la formulación de los programas y acciones base de elaboración presupuestal;
 
@@ -725,7 +765,7 @@ IV. Las demás previstas en el cumplimiento de la presente Ley.
 
 Corresponde a la Secretaría de Salud:
 
-l. En el marco de la política de salud integral de las mujeres, diseñar con perspectiva de género la política de prevención, atención, sanción y erradicación de la violencia en su contra;
+I. En el marco de la política de salud integral de las mujeres, diseñar con perspectiva de género la política de prevención, atención, sanción y erradicación de la violencia en su contra;
 
 II. Brindar por medio de las instituciones del sector salud de manera integral e interdisciplinaria atención médica y psicológica con perspectiva de género a las mujeres víctimas de violencia;
 
@@ -769,7 +809,7 @@ XIV. Las demás previstas para el cumplimiento de la presente Ley.
 
 Corresponde a la Secretaría del Trabajo:
 
-l. Establecer las políticas públicas transversales y con perspectiva de género que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales;
+I. Establecer las políticas públicas transversales y con perspectiva de género que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales;
 
 II. Vigilar el respeto de los derechos laborales de las mujeres, tanto en el ámbito público como privado, estableciendo las condiciones para eliminar la discriminación de las mujeres por razones de género en el acceso al trabajo;
 
@@ -817,7 +857,7 @@ XXII. Implementar ferias laborales focalizadas para las mujeres que han sufrido 
 
 Corresponde a la Secretaría de Educación:
 
-l. Definir en las políticas educativas los principios de igualdad, equidad y no discriminación entre mujeres y hombres, y el respeto pleno a los Derechos Humanos;
+I. Definir en las políticas educativas los principios de igualdad, equidad y no discriminación entre mujeres y hombres, y el respeto pleno a los Derechos Humanos;
 
 II. Desarrollar programas educativos, en todos los niveles de escolaridad, que fomenten la cultura de una vida libre de violencia contra las mujeres, así como el respeto a su dignidad, integridad y libertad;
 
@@ -849,7 +889,7 @@ XIV. Las demás previstas para el cumplimiento de la presente Ley.
 
 Corresponde a la Secretaría de Desarrollo Social.
 
-l. Fomentar el desarrollo social desde la visión de protección integral de los Derechos Humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
+I. Fomentar el desarrollo social desde la visión de protección integral de los Derechos Humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
 
 II. Coadyuvar en la promoción, la defensa, el respeto y la vigencia de los Derechos Humanos de las mujeres y las niñas;
 
@@ -881,7 +921,7 @@ XII. Las demás previstas para el cumplimiento de la presente Ley.
 
 Corresponde a la Secretaría de Turismo:
 
-l. Ejecutar acciones de prevención y erradicación del turismo sexual infantil y la trata de personas;
+I. Ejecutar acciones de prevención y erradicación del turismo sexual infantil y la trata de personas;
 
 II. Instalar en los centros turísticos, módulos de información para la población local y las personas visitantes al Estado sobre las causas y los efectos de la violencia de género contra las mujeres y las niñas; y
 
@@ -891,7 +931,7 @@ III. Las demás que le confiera esta Ley u otros ordenamientos aplicables.
 
 Corresponde a la Secretaría del Medio Ambiente:
 
-l. Fomentar el cuidado total de los ecosistemas, considerando la perspectiva de género; y
+I. Fomentar el cuidado total de los ecosistemas, considerando la perspectiva de género; y
 
 II. Establecer políticas que favorezcan el adecuado entorno ambiental que propicien el desarrollo pleno de las capacidades de hombres y mujeres sin distingos.
 
@@ -899,7 +939,7 @@ II. Establecer políticas que favorezcan el adecuado entorno ambiental que propi
 
 Corresponde al Sistema Estatal para el Desarrollo Integral de la Familia:
 
-l. La atención de la violencia contra las mujeres y las niñas; se deberán respetar los derechos de la víctima consagrados en el artículo 56 de la presente Ley a ser atendidas con perspectiva de género y a no ser sometida a procedimientos de conciliación, mediación y/o cualquier otro alternativo con la persona agresora;
+I. La atención de la violencia contra las mujeres y las niñas; se deberán respetar los derechos de la víctima consagrados en el artículo 56 de la presente Ley a ser atendidas con perspectiva de género y a no ser sometida a procedimientos de conciliación, mediación y/o cualquier otro alternativo con la persona agresora;
 
 II. Remitir a la víctima a servicios médicos, psicológicos y/o Jurídicos especializados, cuando lo requiera;
 
@@ -939,7 +979,7 @@ XVIII. Las demás que le atribuya la Ley.
 
 Corresponde al Consejo Estatal de la Mujer y Bienestar Social:
 
-l. Fungir como Secretaria Ejecutiva del Sistema Estatal, a través de su titular;
+I. Fungir como Secretaria Ejecutiva del Sistema Estatal, a través de su titular;
 
 > <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
 
@@ -989,7 +1029,7 @@ XIX. Las demás previstas para el cumplimiento de la presente Ley.
 
 Corresponde a la Procuraduría General de Justicia del Estado de México:
 
-l. Garantizar mecanismos expeditos, sin dilación en la procuración de justicia para asegurar el acceso de las mujeres a la justicia plena;
+I. Garantizar mecanismos expeditos, sin dilación en la procuración de justicia para asegurar el acceso de las mujeres a la justicia plena;
 
 II. (DEROGADA, G.G. 18 DE MARZO DE 2011)
 
@@ -1057,7 +1097,7 @@ XXVIII. Las demás previstas para el cumplimiento de la presente Ley.
 
 Corresponde a la Secretaría de Seguridad Ciudadana:
 
-l. Diseñar con una visión transversal, la política integral para la prevención de delitos violentos contra las mujeres, en los ámbitos público y privado;
+I. Diseñar con una visión transversal, la política integral para la prevención de delitos violentos contra las mujeres, en los ámbitos público y privado;
 
 II. Formar y especializar, en los términos de la presente Ley, al personal de las diferentes instancias policiales para atender los casos de violencia contra las mujeres;
 
@@ -1081,7 +1121,7 @@ X. Las demás previstas para el cumplimiento de la presente Ley.
 
 Corresponde al Poder Judicial:
 
-l. Crear sistemas de registro que incorporen indicadores que faciliten el monitoreo de las tendencias socio-jurídicas de la violencia contra las mujeres y del acceso de las mujeres a la justicia y la aplicación de la presente Ley;
+I. Crear sistemas de registro que incorporen indicadores que faciliten el monitoreo de las tendencias socio-jurídicas de la violencia contra las mujeres y del acceso de las mujeres a la justicia y la aplicación de la presente Ley;
 
 II. Crear una instancia que institucionalice, en el Poder Judicial, la perspectiva de género; impulsar la especialización en violencia de género contra las mujeres, en Derechos Humanos de las mujeres y en la materia de esta Ley al personal del poder judicial encargado de la impartición de justicia;
 
@@ -1137,7 +1177,7 @@ XIV. Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 Las autoridades Estatal y Municipales en el ámbito de sus respectivas competencias deberán prestar atención a las mujeres y niñas víctimas de violencia, consistente en:
 
-l. Fomentar la adopción y aplicación de acciones y programas, por medio de los cuales se les brinde protección;
+I. Fomentar la adopción y aplicación de acciones y programas, por medio de los cuales se les brinde protección;
 
 II. Otorgar la atención por parte de las diversas instituciones del ámbito de la salud; así como de atención y de servicio, tanto públicas como privadas;
 
@@ -1151,7 +1191,7 @@ V. Informar a la autoridad competente de los casos de violencia que ocurran en l
 
 Las mujeres víctimas de cualquier tipo de violencia tendrán los derechos siguientes:
 
-l. Ser tratadas con respeto a su integridad, dignidad, libertad y al ejercicio pleno de sus derechos;
+I. Ser tratadas con respeto a su integridad, dignidad, libertad y al ejercicio pleno de sus derechos;
 
 II. Contar con protección inmediata y efectiva por parte de las autoridades;
 
@@ -1211,7 +1251,7 @@ Los refugios deberán ser lugares seguros para la víctima, sus hijas e hijos, p
 
 Los refugios deberán prestar a la víctima y, en su caso, a sus hijas e hijos los siguientes servicios especializados y gratuitos:
 
-l. Hospedaje;
+I. Hospedaje;
 
 II. Alimentación;
 
@@ -1362,3 +1402,9 @@ G.G. 16 DE OCTUBRE DE 2014.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 25 DE JUNIO DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
