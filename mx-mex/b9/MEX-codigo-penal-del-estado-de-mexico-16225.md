@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2015-05-08"
+last_updated: "2015-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE JUNIO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -3455,9 +3455,9 @@ En este delito sólo se procederá por querella del ofendido.
 
 Comete este delito quien:
 
-> <small>(REFORMADA, G.G. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, G.G. 25 DE JUNIO DE 2015)</small>
 
-I. Dispare un arma de fuego sobre una persona o grupo de personas, o en un establecimiento comercial o de servicios o en algún lugar concurrido;
+I. Dispare un arma de fuego sobre una persona o grupo de personas, o en domicilio particular, en la vía pública, en un establecimiento comercial, de servicios, o fuera de un campo de tiro debidamente autorizado, o en algún lugar concurrido;
 
 II. Ataque a alguien de tal manera que, en razón del arma empleada, de la fuerza o destreza del agresor o de cualquier otra circunstancia semejante, pueda producir como resultado lesiones o la muerte.
 
@@ -5530,3 +5530,13 @@ DECRETO NÚMERO 431, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 124 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 25 DE JUNIO DE 2015.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "Gaceta del Gobierno".
