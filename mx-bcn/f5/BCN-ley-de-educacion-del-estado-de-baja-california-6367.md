@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2015-06-12"
+last_updated: "2015-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -175,9 +175,9 @@ La educación que se imparta en el Sistema Educativo Estatal será laica, por lo
 
 Para tal efecto, la imagen institucional de los inmuebles destinados a la educación impartida por el Estado, no se podrán identificar con los colores, lemas, imágenes o logotipos de los partidos políticos o signos religiosos, con el fin de salvaguardar a los centros escolares de cualquier acción con estos fines.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2015)</small>
 
-Para dar cumplimiento a los objetivos del presente artículo, en los inmuebles destinados a la educación básica impartida por el Estado, se utilizará el color blanco como color oficial.
+Para dar cumplimiento a los objetivos del presente artículo, en los inmuebles destinados a la educación básica impartida por el Estado, se utilizará algún color neutro como color oficial.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MARZO DE 2014)</small>
 
@@ -2010,3 +2010,7 @@ P.O. 12 DE JUNIO DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Ejecutivo del Estado, deberá fusionar la estructura administrativa con las áreas correspondientes para el cumplimiento de este Decreto y, en su caso, la modificación del reglamento respectivo para asignar las funciones correspondientes que se deriven de la presente reforma, en un plazo máximo de 90 días.
+
+P.O. 26 DE JUNIO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
