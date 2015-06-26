@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-la-competitividad-y-desarrollo-economico-45256
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2013-06-28"
+last_updated: "2015-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Baja California, el viernes 10 de junio de 2005.
 
@@ -765,9 +765,11 @@ Las Dependencias del Estado y Entidades Paraestatales cuyas atribuciones incidan
 
 ### CAPÍTULO IX. DEL COMITÉ
 
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2015)</small>
+
 ###### Artículo 31.
 
-El Comité es un órgano consultivo en materia de Estímulos y mejora regulatoria y encargado de la PDE, contando para tal efecto con las atribuciones a que se refiere la presente Ley.
+El Comité es un órgano consultivo en materia de fomento a la competitividad, desarrollo económico, mejora regulatoria, estímulos y encargado de la PDE, contando para tal efecto con las atribuciones a que se refiere la presente Ley.
 
 ###### Artículo 32.
 
@@ -779,15 +781,33 @@ II. Un Secretario, que será nombrado por el Titular de la Secretaría, y
 
 III. Los siguientes vocales:
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE JUNIO DE 2015)</small>
+
 a) El Titular de la Secretaría de Planeación y Finanzas;
 
-b) El Presidente del Ayuntamiento de cada Municipio;
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2015)</small>
 
-c) El Presidente del Consejo Coordinador Empresarial, de cada Municipio;
+b) El Titular de la Secretaría del Trabajo y Previsión Social;
 
-d) El Presidente del Consejo, y
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2015)</small>
 
-e) Dos representantes de las instituciones de educación superior, uno del sector público y otro del privado, designados por el titular de la Secretaría, de entre las propuestas que las mismas le presenten.
+c) El Titular de la Secretaría de Desarrollo Social;
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2015)</small>
+
+d) El Presidente del Ayuntamiento de cada Municipio;
+
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2015)</small>
+
+e) El Presidente del Consejo Coordinador Empresarial, de cada Municipio;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE JUNIO DE 2015)</small>
+
+f) El Presidente del Consejo; y
+
+> <small>(REFORMADO N. DE E. ADICIONADO], P.O. 26 DE JUNIO DE 2015)</small>
+
+g) Dos representantes de las instituciones de educación superior, uno del sector público y otro del privado, designados por el titular de la Secretaría, de entre las propuestas que las mismas le presenten.
 
 Cuando así se considere necesario, el Presidente podrá invitar a aquellas personas o autoridades relacionadas con alguno de los asuntos comprendidos en el orden del día, para que participen en las sesiones con derecho (sic) voz, pero sin voto.
 
@@ -795,7 +815,9 @@ Cuando así se considere necesario, el Presidente podrá invitar a aquellas pers
 
 Los cargos de los integrantes del Comité serán honoríficos, por lo que no percibirán retribución, emolumento o compensación alguna por su desempeño.
 
-Los vocales previstos en la fracción III, incisos c), d) y e), del artículo anterior, desempeñarán dicha función hasta en tanto no sea designado un nuevo representante.
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2015)</small>
+
+Los vocales previstos en la fracción III, incisos e), f) y g), del artículo anterior, desempeñaran dicha función hasta en tanto no sea designado un nuevo representante.
 
 ###### Artículo 34.
 
@@ -847,7 +869,15 @@ VIII. Fomentar y favorecer la celebración de acuerdos interinstitucionales en m
 
 IX. Promover, organizar y participar en foros, seminarios y demás actividades orientadas a impulsar el proceso de mejora regulatoria en el Estado, y
 
-X. Las demás que establezca el Reglamento y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2015)</small>
+
+X. Estudiar, proponer y evaluar en el ámbito estatal, regional y municipal, medidas de apoyo para el desarrollo de la competitividad de las cadenas productivas y de las MIPYMES a través del análisis de las propuestas surgidas del sector público y de los Sectores privado, social y del conocimiento; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JUNIO DE 2015)</small>
+
+XI. Las demás que establezca el Reglamento y otras disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE JUNIO DE 2015)</small>
 
 Sin perjuicio de lo anterior, el Comité podrá crear órganos de trabajo para auxiliarse en el cumplimiento de sus atribuciones. El Reglamento establecerá la organización y funcionamiento de los órganos de trabajo del Comité.
 
@@ -887,9 +917,75 @@ XIV. La demás información que se prevea en el Reglamento o que la Dependencia 
 
 La veracidad del contenido de la información que se remita al Comité para su inscripción y publicación en el RETE, corresponde a las Dependencias del Estado y Entidades Paraestatales que correspondan.
 
-### CAPÍTULO X. DEL FOMENTO A LA COMPETITIVIDAD Y EL DESARROLLO ECONÓMICO EN EL ÁMBITO MUNICIPAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE JUNIO DE 2015)</small>
+
+### CAPÍTULO X. DE LA POLÍTICA DE DESARROLLO PARA LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2015)</small>
 
 ###### Artículo 43.
+
+La Secretaría formulará la política de desarrollo para la competitividad de las MIPYMES, tomando en cuenta la participación de los sectores privado, social y del conocimiento, y considerando los objetivos y políticas del Consejo Nacional para la Competitividad de la Micro, Pequeña y Mediana Empresa.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2015)</small>
+
+###### Artículo 44.
+
+Para la planeación y ejecución de la política de desarrollo para la competitividad de las MIPYMES, la Secretaría en coordinación con las entidades y dependencias estatales que corresponda, deberá atender los siguientes criterios:
+
+I. Propiciar la participación y toma de decisiones de los Municipios y respetar los lineamientos de la política nacional en la materia;
+
+II. Procurar esquemas de apoyo a las MIPYMES a través de la concurrencia de recursos de la Federación, del Estado y de los Municipios, así como de los sectores privado, social y del conocimiento;
+
+III. Enfocar los esfuerzos de acuerdo con las necesidades, el potencial y las vocaciones regionales y municipales;
+
+IV. Contener objetivos a corto, mediano y largo plazo;
+
+V. Contener propuestas de mejora y simplificación normativa en materia de desarrollo y apoyo a las MIPYMES;
+
+VI. Enfocar estrategias y proyectos de modernización, innovación y desarrollo tecnológico para las MIPYMES;
+
+VII. Propiciar nuevos instrumentos de apoyo a las MIPYMES considerando las tendencias internacionales y el comportamiento de las entidades federativas; y
+
+VIII. Contar con mecanismos de medición de avances para evaluar el impacto de las políticas de apoyo a las MIPYMES.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2015)</small>
+
+###### Artículo 45.
+
+Para la ejecución de la política y las acciones contenidas en el artículo anterior, deberá considerarse que los programas sectoriales en materia de fomento a la competitividad y desarrollo económico, contemplen lo siguiente:
+
+I. La definición de los sectores prioritarios para el desarrollo económico;
+
+II. Las líneas estratégicas para el desarrollo empresarial;
+
+III. Los mecanismos y esquemas mediante los cuales se ejecutarán las líneas estratégicas;
+
+IV. Los criterios, mecanismos y procedimientos para dar seguimiento, a la evolución y desempeño de las MIPYMES;
+
+V. Las medidas para procurar un entorno favorable para la creación, desarrollo y crecimiento con calidad de las MIPYMES considerando las necesidades, el potencial y vocación de cada región;
+
+VI. Los mecanismos para evaluar de manera conjunta con la Federación y los Municipios, los resultados de los convenios de coordinación para formular nuevas acciones.
+
+VII. La homologación de la normativa y trámites en la materia;
+
+VIII. El desarrollo de un sistema de información y consulta para la planeación sobre los sectores productivos y cadenas productivas; y
+
+IX. Los apoyos y estímulos previstos en los artículos 9 incisos b) y c) y 11 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2015)</small>
+
+###### Artículo 46.
+
+Siempre que las condiciones económicas del Estado lo permitan, en el Presupuesto de Egresos del Estado se destinarán apoyos económicos a las MIPYMES, procurando que los mismos no sean inferiores, en términos reales, a los previstos en el presupuesto autorizado en el ejercicio fiscal anterior.
+
+> <small>(N. DE E. ANTES CAPÍTULO X, P.O. 26 DE JUNIO DE 2015)</small>
+
+### CAPÍTULO XI. DEL FOMENTO A LA COMPETITIVIDAD Y EL DESARROLLO ECONÓMICO EN EL ÁMBITO MUNICIPAL
+
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 43], P.O. 26 DE JUNIO DE 2015)</small>
+
+###### Artículo 47.
 
 Los Ayuntamientos en el ámbito de sus competencias, dictarán la normatividad que deberá regir esta materia, señalando de conformidad con las siguientes bases:
 
@@ -899,19 +995,25 @@ II. Las disposiciones en materia de mejora regulatoria y autoridades responsable
 
 III. En su caso, los esquemas necesarios para estimular e incentivar a las Empresas, y las autoridades u organismos facultados para gestionarlos, otorgando los Estímulos que procedan, de conformidad con las actividades sujetas a fomento económico, según lo determine dicho orden de Gobierno;
 
-IV. Los medios de defensa que los particulares podrán hacer valer contra sus resoluciones y el procedimiento a observar, y
+IV. Las medidas para una promoción coordinada de las acciones de fomento para la competitividad de las MIPYMES, desarrollando las propuestas y la concurrencia de programas y proyectos que consideren las necesidades, el potencial y las vocaciones regionales en el ámbito municipal;
 
-V. Las demás disposiciones que consideren necesarias para lograr el cumplimiento del objeto de la Ley.
+V. Los medios de defensa que los particulares podrán hacer valer contra sus resoluciones y el procedimiento a observar; y
 
-###### Artículo 44.
+VI. Las demás disposiciones que consideren necesarias para lograr el cumplimiento del objeto de la Ley.
+
+> <small>(N. DE E. ANTES CAPÍTULO XI, P.O. 26 DE JUNIO DE 2015)</small>
+
+### CAPÍTULO XII. DEL RECURSO
+
+> <small>(N. DE E. ANTES ARTÍCULO 44, P.O. 26 DE JUNIO DE 2015)</small>
+
+###### Artículo 48.
 
 Los afectados por la cancelación de un Estímulo no fiscal u otros actos definitivos derivados de la aplicación de la presente Ley, diversos de los relacionados con los Estímulos fiscales, podrán interponer el recurso de revocación previsto en la Ley del Procedimiento para los Actos de la Administración Pública del Estado de Baja California.
 
 Los actos relacionados con los estímulos fiscales, podrán ser combatidos a través de los medios de defensa previstos en las disposiciones fiscales aplicables.
 
 T R A N S I T O R I O S
-
-### CAPÍTULO XI. DEL RECURSO
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1010,3 +1112,17 @@ Las presentes reformas entrarán en vigor el día primero de Enero de 2014.
 ###### ARTÍCULO SEGUNDO.
 
 En un término no mayor al de seis meses contados a partir de la entrada en vigor de las presentes reformas, el Poder Ejecutivo del Estado constituirá el Fondo a que se refiere el artículo 22 Bis de este ordenamiento, de conformidad con la Ley de las Entidades Paraestatales del Estado de Baja California y demás disposiciones que resulten aplicables.
+
+P.O. 26 DE JUNIO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- A partir de la entrada en vigor del presente Decreto, se derogan todas aquellas disposiciones que se opongan a lo establecido en el mismo.
+
+TERCERO.- El Reglamento de esta Ley, deberá actualizarse en un plazo no mayor a 90 días, contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- Los Reglamentos Municipales deberán actualizarse en un plazo que no exceda de los 90 días, contados a partir de la entrada en vigor del presente Decreto.
+
+QUINTO.- Dentro de los 180 días posteriores a la entrada en vigor del presente Decreto, deberán actualizarse los planes y programas respectivos.
+
+SEXTO.- El Comité Consultivo de Fomento a la Competitividad y Desarrollo Económico de Baja California, además de las atribuciones contenidas por esta ley, asumirá el carácter de un Consejo Estatal para la Competitividad de la Micro, Pequeña y Mediana Empresa, llevando a cabo el objeto y las funciones encomendadas, por el titular de la Secretaría de Desarrollo Económico del Estado (sic) adoptará las medidas administrativas a que haya lugar para tales efectos.
