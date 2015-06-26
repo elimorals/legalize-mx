@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-entidad-superior-de-fiscalizacion-704
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-29"
-last_updated: "2009-09-29"
+last_updated: "2015-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "QUE"
 ---
 # REGLAMENTO INTERIOR DE LA ENTIDAD SUPERIOR DE FISCALIZACION DEL ESTADO DE QUERETARO
 
-REGLAMENTO INTERIOR DE LA ENTIDAD SUPERIOR DE FISCALIZACION DEL ESTADO DE QUERETARO
+REGLAMENTO INTERIOR DE LA ENTIDAD SUPERIOR DE FISCALIZACIÓN DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA ENTIDAD SUPERIOR DE FISCALIZACIÓN DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 26 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el martes 29 de septiembre de 2009.
 
@@ -408,7 +410,7 @@ V. Violar el deber profesional de guardar estricta reserva y confidencialidad en
 
 VI. Incurrir en descuido manifiesto, negligencia, e incumplimiento sistemático o habitual en el desempeño de sus obligaciones.
 
-VII. El descuido en el uso de vehículos, equipo de computo y demás bienes de la Entidad Superior que se encuentren a su disposición para el desempeño de de sus funciones.
+VII. El descuido en el uso de vehículos, equipo de computo y demás bienes de la Entidad Superior que se encuentren a su disposición para el desempeño de de (sic) sus funciones.
 
 VIII. Las demás que señale la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro y otras disposiciones aplicables.
 
@@ -523,3 +525,15 @@ C.P. RAFAEL CASTILLO VANDENPEEREBOOM
 AUDITOR SUPERIOR DEL ESTADO
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE JUNIO DE 2015.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día de su expedición.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Entidad Superior de Fiscalización del Estado, publicado en la "Sombra de Arteaga" el 29 de septiembre de 2009.
+
+TERCERO.- Los asuntos y procesos que se encuentren en trámite en la ESFE a la entrada en vigor del presente Reglamento, continuarán tramitándose hasta su conclusión con las disposiciones legales que regían cuando se iniciaron.
+
+CUARTO.- Se ordena la publicación del Reglamento Interior de la Entidad Superior de Fiscalización del Estado, en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", remítase para tal efecto.
