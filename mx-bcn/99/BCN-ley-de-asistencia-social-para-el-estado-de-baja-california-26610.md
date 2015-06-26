@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-asistencia-social-para-el-estado-de-baja-california-2661
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2013-01-18"
+last_updated: "2015-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 18 de noviembre de 2005.
 
@@ -109,9 +109,9 @@ VIII.- La prestación de servicios funerarios, a personas carentes de recursos;
 
 IX.- La prevención de cualquier tipo de capacidad diferente y su rehabilitación en centros especializados;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2015)</small>
 
-X.- La orientación nutricional y la alimentación subsidiaria, a personas de escasos recursos, a la población de zonas marginadas y el otorgamiento de desayunos escolares gratuitos a todos los menores que realicen sus estudios en las escuelas públicas de niveles preescolar y primaria ubicadas en el territorio del Estado; privilegiando a aquellas escuelas que se ubiquen en zonas indígenas, rurales o de alta marginación;
+X.- La orientación nutricional y la alimentación subsidiaria, a personas de escasos recursos, a la población de zonas marginadas y el otorgamiento de desayunos escolares gratuitos a todos los menores que realicen sus estudios en las escuelas públicas de niveles preescolar y primaria ubicadas en el territorio del Estado; privilegiando a aquellas escuelas que se ubiquen en zonas indígenas, rurales o de alta marginación. Los apoyos alimentarios que al efecto otorguen las autoridades estatales y municipales deberán contener un valor nutricional equilibrado, suficiente y necesario para el adecuado desarrollo de las personas, de conformidad con los estándares internacionales y programas que en la materia establece la Ley de Salud Pública para el Estado;
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
@@ -1404,3 +1404,7 @@ P.O. 11 DE ENERO DE 2013.
 P.O. 18 DE ENERO DE 2013.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 2015.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
