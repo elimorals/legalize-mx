@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-turismo-del-estado-de-baja-california-68149"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-03"
-last_updated: "2013-06-28"
+last_updated: "2015-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2015.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de abril de 2009.
 
@@ -614,6 +614,34 @@ II.- El Turismo Cultural, integrado por toda aquella gama de personas, nacionale
 III.- El Turismo de Salud, conformado por la demanda de bienes y servicios o la oferta de productos médicos, farmacéuticos, hospitalarios, de relajamiento físico por medio de spas y similares; y
 
 IV.- (DEROGADA, P.O. 20 DE SEPTIEMBRE DE 2010)
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2015)</small>
+
+V.- Turismo Religioso.- Es la actividad turística que comprende la visita a sitios religiosos, lugares sagrados, santuarios, tumbas, y la asistencia a peregrinaciones y celebraciones de carácter religioso;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2015)</small>
+
+VI.- Turismo Cinegético.- Es la actividad turística que comprende la visita de sitios autorizados por las autoridades competentes con la expedición de los permisos correspondientes para desarrollar actividades de caza, pesca, y observación de la flora y fauna de la Entidad;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2015)</small>
+
+VII.- Turismo Histórico.- Es la actividad turística por la cual se realizan visitas a sitios históricos y antropológicos para conocer sobre la fundación y antecedentes históricos de una población o ciudad con fines educativos;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2015)</small>
+
+VIII.- Turismo Agropecuario.- Es la actividad turística con fines de exposición sobre la producción agrícola y pesquera del Estado con fines de conocimiento científico, exposición de productos y comercialización de los mismos;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2015)</small>
+
+IX.- Turismo Educativo.- Es la actividad turística por la cual se desarrollan actividades de visitas a campus e instrucciones educativas con fines de intercambio académico, cultural, deportivo y recreativo;
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2015)</small>
+
+X.- Turismo Gastronómico.- Es aquella actividad turística en donde se promueve la exposición y degustación de platillos de la cocina típica del Estado; y
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2015)</small>
+
+XI.- Turismo Enológico.- Es aquella actividad turística en donde se promueve la exposición y degustación de vinos de la región con fines de concurso, competencias y promoción comercial.
 
 ###### ARTÍCULO 47.
 
@@ -1286,3 +1314,7 @@ SEGUNDO.- El Ejecutivo del Estado a partir de la publicación del presente Decre
 P.O. 28 DE JUNIO DE 2013.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 26 DE JUNIO DE 2015.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
