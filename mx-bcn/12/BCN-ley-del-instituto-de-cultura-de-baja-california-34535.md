@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-cultura-de-baja-california-34535"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-24"
-last_updated: "2015-04-10"
+last_updated: "2015-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE CULTURA DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 24 de octubre de 2003.
 
@@ -52,6 +52,10 @@ Se declara de interés social la preservación, promoción y difusión permanent
 ###### ARTÍCULO 4.
 
 El ICBC tiene por objeto preservar, promover y difundir la cultura y las artes, así como generar las condiciones necesarias para que la sociedad tenga acceso a bienes, servicios, actividades artísticas y culturales, como elementos esenciales del desarrollo humano integral, dentro de un marco de respeto y tolerancia a la diversidad cultural que nos identifica como Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2015)</small>
+
+Esta ley reconoce que las comunidades indígenas y pueblos originarios tienen derecho a la protección de sus manifestaciones culturales, por tal razón el Instituto con la participación de los sujetos de la presente ley, desarrollarán políticas, programas y proyectos que promuevan su patrimonio y manifestaciones culturales.
 
 ###### ARTÍCULO 5.
 
@@ -187,13 +191,17 @@ XXVII. Apoyar la descentralización de los bienes y servicios culturales y artí
 
 XXVIII. Promover acciones interdisciplinarias y celebrar convenios de coordinación interinstitucional, con los entes públicos o privados que tengan interés en el desarrollo de la cultura y el arte en el Estado;
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2015)</small>
 
-XXIX. Definir políticas y establecer estrategias que impulsen el desarrollo cultural de niños, jóvenes y adultos con capacidades diferentes, que motiven la participación de este sector de la sociedad en la actividad cultural del Estado, y
+XXIX. Definir políticas y establecer estrategias que impulsen el desarrollo cultural de niños, jóvenes y adultos con capacidades diferentes, que motiven la participación de este sector de la sociedad en la actividad cultural del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JUNIO DE 2015)</small>
+
+XXX. Con la finalidad de fomentar y promover la cultura de los pueblos Kumiai, Cucapá, Kiliwa, Pai Pai y Cochimí, el Instituto establecerá las previsiones presupuestales necesarias en cada ejercicio fiscal, para que en el ámbito de sus respectivas competencias, desarrollen programas y proyectos que promuevan su patrimonio y manifestaciones culturales, en los cuales se den a conocer la historia, el arte, las artesanías, la música, la promoción de las lenguas indígenas y el conocimiento tradicional de los usos medicinales de las plantas nativas. Los recursos presupuestados no podrán disminuirse en relación con los otorgados en el ejercicio fiscal anterior; y
 
 > <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2013)</small>
 
-XXX. Las demás que sean necesarias para el cumplimiento de su objeto, así como las que le confieran otras leyes y disposiciones aplicables.
+XXXI. Las demás que sean necesarias para el cumplimiento de su objeto, así como las que le confieran otras leyes y disposiciones aplicables.
 
 ### CAPÍTULO IV. DE LA VINCULACIÓN CON EL SECTOR EDUCATIVO
 
@@ -569,7 +577,7 @@ DIP. RAQUEL ÁVILES MUÑOZ.
 
 SECRETARIA
 
-DE CONFORMIDAD CON LO DISPUESTO POR LA FRACCION I DEL ARTICULO 49 DE LA CONSTITUCION POLITICA DEL ESTADO, IMPRIMASE y PUBLIQUESE.
+DE CONFORMIDAD CON LO DISPUESTO POR LA FRACCION I DEL ARTICULO 49 DE LA CONSTITUCION POLITICA DEL ESTADO, IMPRIMASE Y PUBLIQUESE.
 
 MEXICALI, BAJA CALIFORNIA, A LOS SEIS DIAS DEL MES DE OCTUBRE DEL AÑO DOS MIL TRES.
 
@@ -614,3 +622,7 @@ P.O. 10 DE ABRIL DE 2015.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Ejecutivo del Estado, efectuará las reformas a los reglamentos correspondientes dentro de los noventa días siguientes a su entrada en vigor.
+
+P.O. 26 DE JUNIO DE 2015.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
