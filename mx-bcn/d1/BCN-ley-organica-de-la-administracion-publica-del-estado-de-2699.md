@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2015-05-22"
+last_updated: "2015-06-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -793,19 +793,23 @@ X.- Asesorar técnicamente a los Ayuntamientos y a los sectores social y privado
 
 XI.- Promover programas ante instituciones especializadas referentes a la capacitación y adiestramiento de mano de obra que impulsen y mejoren la productividad del trabajo;
 
-XII.- Impulsar y participar en los programas de investigación de tecnología industrial y fomentar su divulgación, y
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2015)</small>
+
+XII.- Impulsar y participar en los programas de investigación de tecnología industrial y fomentar su divulgación;
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
 
 XIII.- Planear, promover y evaluar las actividades relativas a la ciencia y la tecnología en el Estado, su vinculación con el desarrollo estatal y sus relaciones con el exterior;
 
-> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2015)</small>
 
-XIV.- Elaborar y ejecutar programas indicativos de investigación científica y tecnológica vinculados a los objetivos estatales, regionales y nacionales de desarrollo económico y social; y
+XIV.- Elaborar y ejecutar programas indicativos de investigación científica y tecnológica vinculados a los objetivos estatales, regionales y nacionales de desarrollo económico y social;
 
-> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JUNIO DE 2015)</small>
 
-XV.- Los demás que determinen expresamente las Leyes y Reglamentos.
+XV.- Llevar el control del Registro Estatal de Agentes Profesionales Inmobiliarios y otorgar las Licencias correspondientes a los Agentes y Agencias Inmobiliarias que operen en el Estado, así como ejercer las demás atribuciones que le otorgan la Ley y Reglamento de la materia; y
+
+XVI.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
 ### CAPITULO X
 
@@ -2120,6 +2124,10 @@ Los jueces de control del Partido Judicial de Mexicali, fungirán como jueces de
 QUINTO.- La designación de los jueces de ejecución a que se refiere este Decreto, será de conformidad con la gradualidad prevista en el primer párrafo del artículo segundo transitorio de la presente reforma.
 
 Hasta en tanto no se realice el nombramiento de jueces de ejecución en cada partido judicial, según sea el caso, los jueces de garantía, control o de primer instancia atendiendo la naturaleza del proceso penal que dio lugar a la sentencia, continuarán conociendo y resolviendo los procedimientos competencia de los jueces de ejecución.
+
+P.O. 26 DE JUNIO DE 2015.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 279.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE TLAXCALA”.]
 
