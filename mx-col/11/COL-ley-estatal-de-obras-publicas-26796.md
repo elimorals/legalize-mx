@@ -4,7 +4,7 @@ identifier: "COL-ley-estatal-de-obras-publicas-26796"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-16"
-last_updated: "2005-04-30"
+last_updated: "2015-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY ESTATAL DE OBRAS PUBLICAS
 
-LEY ESTATAL DE OBRAS PUBLICAS
+LEY ESTATAL DE OBRAS PÚBLICAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2015.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 16 de noviembre de 2002.
 
@@ -150,6 +150,16 @@ Las obras públicas y servicios que se realicen con cargo total o parcial a fond
 ###### ARTÍCULO 6o.
 
 Será responsabilidad de las Dependencias y Entidades mantener adecuada y satisfactoriamente aseguradas las obras públicas a partir del momento de su recepción.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2015)</small>
+
+ARTÍCULO 6° BIS.- Se prohíbe que en las placas inaugurales o de identificación de las obras públicas y los servicios relacionados con las mismas, que realicen las dependencias estatales, las dependencias municipales, los organismos descentralizados o las empresas de participación estatal, se incluyan los nombres de funcionarios públicos que participen directamente en la ejecución de la obra o el servicio de que se trate.
+
+En dichas placas, deberá asentarse únicamente que las obras públicas y los servicios relacionados con las mismas fueron realizados por el gobierno estatal o municipal, con el esfuerzo del pueblo, y que se entregan para beneficio de éste.
+
+A ninguna obra pública o servicios relacionados, podrá imponérsele el nombre de algún funcionario público que participen (sic) directamente en la ejecución de la obra o el servicio de que se trate. Tampoco podrán emplearse signos, eslogan, emblemas y colores alusivos a los partidos políticos o característicos de la administración en turno en las obras realizadas.
+
+Es obligación de los funcionarios públicos adoptar y vigilar el cumplimiento de lo dispuesto en el presente artículo; en caso contrario, se aplicará lo establecido por la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
 ###### ARTÍCULO 7o.
 
@@ -1151,8 +1161,12 @@ Dado en Palacio de Gobierno a los 15 días del mes de noviembre del año dos mil
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. EL DIRECTOR GENERAL DE GOBIERNO, ENCARGADO DEL DESPACHO DE LA SECRETARÍA GENERAL DE GOBIERNO, LIC. JOSE GILBERTO GARCÍA NAVA. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
 
 P.O. 30 DE ABRIL DE 2005.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 27 DE JUNIO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
