@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-manzanillo-colima-26795"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2015-04-04"
+last_updated: "2015-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -4211,13 +4211,13 @@ AÑO 2003 2004 2005 2006
 
 BASE 70% 80% 90% 100%
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO QUINTO.
 
-En los predios con valor catastral de $0.00 a $264,000.00 el impuesto predial que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de este ordenamiento, en ningún caso podrá ser mayor del que resulte de multiplicar el factor de 1.06 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+En los predios con valor catastral de $0.00 a $264,000.00 el impuesto predial que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de este ordenamiento, en ningún caso podrá ser mayor del que resulte de multiplicar el factor de 1.03 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
 
-En los predios con valor catastral de $264,000.01 en adelante, el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de esta Ley, en ningún caso podrá ser menor o mayor del que resulte de multiplicar el factor de 1.10 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+En los predios con valor catastral de $264,000.01 en adelante, el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de esta Ley, en ningún caso podrá ser menor o mayor del que resulte de multiplicar el factor de 1.05 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
 
 Lo previsto en este artículo, no será aplicable en los siguientes casos:
 
@@ -4237,15 +4237,17 @@ AÑO 2003 2004 2005 2006
 
 BASE 70% 80% 90% 100%
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2015)</small>
 
-###### ARTICULO SÉPTIMO.
+###### ARTÍCULO SÉPTIMO.
 
-Durante el ejercicio fiscal 2015 se concede el 08 por ciento de bonificación a los contribuyentes que paguen durante el mes de abril del ejercicio 2015 el impuesto predial por anualidad adelantada, en términos del segundo párrafo del artículo 19 de esta Ley, así como una bonificación del 100 por ciento del monto de los recargos y multas correspondientes al ejercicio 2015 generados hasta el 30 de abril de 2015.
+Por concepto de estímulo fiscal, a los contribuyentes que se pongan al corriente en el pago del Impuesto Predial correspondiente al ejercicio fiscal 2015 y anteriores, dentro de los meses de julio a diciembre del actual ejercicio fiscal, se les aplicará un descuento en los recargos generados por la falta de pago, así como en las multas que hubieran sido impuestas por el mismo concepto, en los porcentajes que van del 100% al 60%, en los siguientes periodos:
 
-Asimismo, a quienes paguen dentro del plazo antes señalado adeudos del ejercicio 2014 y anteriores, por concepto de impuesto predial, se les condonarán al 100% las multas y recargos generados en el ejercicio fiscal 2014 y anteriores.
+PERIÓDO JULIO SEPTIEMBRE NOVIEMBRE AGOSTO OCTUBRE DICIEMBRE
 
-Lo dispuesto por el segundo párrafo del presente transitorio, no les será aplicable a los contribuyentes que celebren convenio de pago en parcialidades.
+BASE 100% 80% 60%
+
+Lo dispuesto en el presente transitorio, no les será aplicable a los contribuyentes que celebren convenio de pago en parcialidades.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -4438,3 +4440,15 @@ P.O. 23 DE AGOSTO DE 2014.
 P.O. 4 DE ABRIL DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor el 01 de abril de 2015, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+P.O. 27 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 509, POR EL QUE SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE HACIENDA DEL MUNICIPIO DE MANZANILLO.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial el (sic) "EL ESTADO DE COLIMA".
+
+P.O. 27 DE JUNIO DE 2015.
+
+DECRETO No. 510, POR EL QUE SE REFORMA EL ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO.
+
+ÚNICO.- El presente Decreto entrará en vigor el 01 de julio de 2015, previa su publicación en el Periódico Oficial "El Estado de Colima".
