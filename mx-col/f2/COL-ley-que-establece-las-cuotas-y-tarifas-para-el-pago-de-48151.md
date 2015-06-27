@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48151"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2014-06-28"
+last_updated: "2015-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE CUAUHTÉMOC, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2015.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -51,7 +51,7 @@ D E C R E T O No. 316
 
 "ARTÍCULO ÚNICO.- Es de aprobarse y se aprueba la Ley que Establece las Cuotas y Tarifas para el Pago de Derechos por los Servicios Públicos de Agua Potable y Alcantarillado del Municipio de Cuauhtémoc, Colima, para quedar en los siguientes términos:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE CUAUHTÉMOC, COLIMA.
 
@@ -79,7 +79,7 @@ II.- CUOTA FIJA BAJA 1.93 SM
 
 Comprende las Localidades de Chiapa, Ocotillo, Montitlán y Cerro Colorado
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 III.- CUOTA FIJA RESIDENCIAL 3.73 SM
 
@@ -93,19 +93,19 @@ IV.- CUOTA FIJA RURAL 1.86 SM
 
 Por el servicio comercial de agua potable se pagarán las siguientes tarifas por cada toma de media pulgada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 I.- CUOTA FIJA COMSUMO BAJO 2.67 SM
 
 Comprende las agencias de viajes, abarrotes almacenes de ropa, boutiques, carpinterías, cerrajerías, dulcerías, estacionamientos, estanquillos, farmacias, ferreterías, florerías, foto estudio, funerarias, huaracherías, licorerías, loncherías, misceláneas, mini súper, mueblerías, panaderías, papelerías, peluquerías, laminado y pintura, refaccionarias, reparación de aparatos electrodomésticos, reparación de llantas, relojerías, sastrerías, talleres de mecánica y electricidad, tapicerías, templos, tlapalerías, vidrierías y zapaterías.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 II.- CUOTA FIJA CONSUMO MEDIO 3.36 SM
 
 Comprende las academias, alquiler de loza, muebles y manteles, salones de belleza, bares, billares, bodegas de frutas y verdura, bodegas de almacenamiento, carnicería, cenadurías, fábrica de dulces, fondas y cocinas económicas, obradores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 III.- CUOTA FIJA CONSUMO ALTO 3.94 SM
 
@@ -239,7 +239,7 @@ Los usuarios de Alcantarillado y Saneamiento pagarán las siguientes tarifas por
 
 I.- Por mantenimiento al sistema de alcantarillado un 20 por ciento de la tarifa correspondiente al agua potable según su rango.
 
-II.- por (sic) el saneamiento, el usuario pagará por cada conexión de alcantarillado a la red un 10 por ciento de la tarifa correspondiente de agua potable.
+II.- por el saneamiento, el usuario pagará por cada conexión de alcantarillado a la red un 10 por ciento de la tarifa correspondiente de agua potable.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -299,7 +299,7 @@ Los desarrolladores y/o urbanizadores con obra terminadas (sic), cuando solicite
 
 Los usuarios de los servicios públicos de agua potable, alcantarillado y saneamiento, deberán hacer el pago de los derechos en los siguientes 15 días al bimestre que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 16.
 
@@ -337,19 +337,17 @@ T R A N S I T O R I O S :
 
 El presente Decreto entrará en vigor el 1º de Enero de 2006, previa su publicación en el Periódico Oficial del Estado de Colima.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO SEGUNDO.
 
-Por concepto de estímulo fiscal, en el ejercicio fiscal 2014, a los contribuyentes que paguen los derechos que resulte de aplicar las cuotas y tarifas por los conceptos de derechos por los servicios de agua potable, alcantarillado y saneamiento, se les condonan los recargos generados y las multas impuestas por falta de pago oportuno por los conceptos mencionados, en el ejercicio fiscal 2014 y anteriores, en los periodos y porcentajes que a continuación se establecen:
+Por concepto de estímulo fiscal, a los contribuyentes que paguen el servicio de agua potable, alcantarillado y saneamiento correspondiente al ejercicio fiscal 2015 y anteriores, dentro de los meses de julio a diciembre del actual ejercicio fiscal, se les aplicará un descuento en los recargos generados por la falta de pago, así como en las multas que hubieran sido impuestas por el mismo concepto, en los porcentajes que van del 100% al 60%, en los siguientes periodos:
 
-PERIODO JULIO Y SEPTIEMBRE Y NOVIEMBRE Y
-
-AGOSTO OCTUBRE DICIEMBRE
+PERIÓDO JULIO SEPTIEMBRE NOVIEMBRE AGOSTO OCTUBRE DICIEMBRE
 
 BASE 100% 80% 60%
 
-Lo dispuesto en este TRANSITORIO, no es aplicable cuando el contribuyente y el Organismo Operador Municipal celebren convenio para pago en parcialidades.
+Lo dispuesto en el presente transitorio, no les será aplicable a los contribuyentes que celebren convenio de pago en parcialidades.
 
 El Gobernador del Estado dispondrá se publique, circule y observe."
 
@@ -400,6 +398,10 @@ P.O. 28 DE JUNIO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor el 01 de julio de 2014, previa su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- El presente Decreto no les será aplicable a quienes con anterioridad a éste, hayan cubierto los pagos de los derechos por concepto de agua potable, alcantarillado y saneamiento y, en su caso, los recargos y multas generados.
+
+P.O. 27 DE JUNIO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor el 01 de julio de 2015, previa su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTÍCULO UNICO.
 
