@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48159"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2015-04-04"
+last_updated: "2015-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE TECOMÁN, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -863,7 +863,7 @@ En caso de que sea detectada una toma de agua potable o descarga de drenaje sani
 
 a).- En el caso de tomas domésticas de agua potable y de descargas al drenaje, se tomará como base para el cobro, lo que resulte de considerar un gasto de 300 litros por habitante por día, considerando 4.5 habitantes por familia, por un máximo de hasta 5 años, salvo que el usuario demuestre que data de un período menor, caso éste que el cobro se ajustara a lo demostrado;
 
-b).- Tratándose de tomas de agua potable y/o descargas al drenaje distintas a las del tipo doméstico, se aplicará el factor de 0.9 litros por segundo por hectárea, siendo el cobro por estas tomas lo que resulte de multiplicar este factor por un máximo de hasta 24 horas y hasta por 5 años, a la tarifa no doméstica vigente en el período en que se trate, salvo que el usuario demuestre que la toma data de un período en que se trate, salvo que el usuario demuestre que la toma data de un período (sic) menor y que su consumo de agua es inferior al presuntamente establecido y
+b).- Tratándose de tomas de agua potable y/o descargas al drenaje distintas a las del tipo doméstico, se aplicará el factor de 0.9 litros por segundo por hectárea, siendo el cobro por estas tomas lo que resulte de multiplicar este factor por un máximo de hasta 24 horas y hasta por 5 años, a la tarifa no doméstica vigente en el período en que se trate, salvo que el usuario demuestre que la toma data de un período en que se trate, salvo que el usuario demuestre que la toma data de un período menor y que su consumo de agua es inferior al presuntamente establecido y
 
 c).- Tratándose de tomas de agua clandestina a que se refiere la fracción V del artículo 10 de la Ley de Aguas para el Estado de Colima, se presume un consumo de agua equivalente a 10,000 metros cúbicos por hectárea por año, a la cual se le aplicará la cuota correspondiente al concepto de agua potable considerada en el rango de 16 a 20 metros cúbicos de la tarifa popular uno, hasta por cinco años, salvo que se demuestre que la conexión clandestina data de un período menor.
 
@@ -1587,15 +1587,17 @@ El presente Decreto entrará en vigor el 1º de Enero de 2006, previa su publica
 
 Para el ejercicio fiscal 2014, el beneficio a que se refieren las fracciones I, II, y V del artículo 42 de esta Ley, se amplía hasta el 30 de abril del citado año con un descuento del 10%, además de no generar los recargos correspondientes en dichas prórrogas, ampliándose por el mismo periodo los descuentos especificados en las fracciones III y IV de ese mismo artículo.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2015)</small>
 
-###### ARTÍCULO TERCERO.
+###### ARTICULO TERCERO.
 
-Por concepto de estímulo fiscal, a los contribuyentes que paguen el servicio de agua potable, alcantarillado y saneamiento por anualidad adelantada durante el mes de abril del ejercicio fiscal 2015, se les concederá una bonificación del 06 por ciento del monto pagado, así como una bonificación del 100 por ciento del monto de las multas y recargos correspondientes al ejercicio 2015 generados hasta el 30 de abril de 2015.
+Por concepto de estimulo fiscal, a los contribuyentes que paguen el servicio de agua potable, alcantarillado y saneamiento correspondiente al ejercicio fiscal 2015 y anteriores, dentro de los meses de julio a diciembre del actual ejercicio fiscal, se les aplicará un descuento en los recargos generados por la falta de pago, así como en las multas que hubieran sido impuestas por el mismo concepto, en los porcentajes que van del 100% al 60%, en los siguientes periodos:
 
-Asimismo, a quienes paguen dentro del plazo antes señalado adeudos del ejercicio 2014 y anteriores, por concepto de servicio de agua potable, alcantarillado y saneamiento, se les condonarán al 100% las multas y recargos generados en el ejercicio fiscal 2014 y anteriores.
+PERIÓDO JULIO- SEPTIEMBRE- NOVIEMBRE - AGOSTO OCTUBRE DICIEMBRE
 
-Lo dispuesto por el segundo párrafo del presente transitorio, no les será aplicable a los contribuyentes que celebren convenio de pago en parcialidades.
+BASE 100% 80% 60%
+
+Lo dispuesto en el presente transitorio, no les será aplicable a los contribuyentes que celebren convenio de pago en parcialidades.
 
 El Gobernador del Estado dispondrá se publique, circule y observe."
 
@@ -1684,3 +1686,7 @@ SEGUNDO.- El presente Decreto no les será aplicable a quienes con anterioridad 
 P.O. 4 DE ABRIL DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor el 01 de abril de 2015, mismo que deberá ser publicado en el Periódico Oficial "El Estado de Colima".
+
+P.O. 27 DE JUNIO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor el 01 de julio de 2015, previa su publicación en el Periódico Oficial "El Estado de Colima".
