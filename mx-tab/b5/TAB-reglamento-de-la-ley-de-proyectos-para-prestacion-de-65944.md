@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-la-ley-de-proyectos-para-prestacion-de-65944"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-10"
-last_updated: "2009-01-10"
+last_updated: "2015-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65944&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO DE LA LEY DE PROYECTOS PARA PRESTACION DE SERVICIOS DEL ESTADO DE TABASCO Y SUS MUNICIPIOS
 
-REGLAMENTO DE LA LEY DE PROYECTOS PARA PRESTACION DE SERVICIOS DEL ESTADO DE TABASCO Y SUS MUNICIPIOS
+REGLAMENTO DE LA LEY DE PROYECTOS PARA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TABASCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE TABASCO Y SUS MUNICIPIOS, PUBLICADO EN EL P.O. DE 27 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 10 de enero de 2009.
 
@@ -531,7 +533,7 @@ La Contraloría para la imposición de las sanciones previstas por la Ley, notif
 
 La Entidad Estatal deberá determinar el monto de los daños o perjuicios producidos o que puedan producirse, con motivo de la presunta infracción.
 
-###### Articulo 47.
+###### Artículo 47.
 
 El procedimiento se iniciará a petición de parte.
 
@@ -576,3 +578,15 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO.
 L.C.P. JOSÉ MANUEL SAIZ PINEDA.
 
 SECRETARIO DE ADMINISTRACIÓN Y FINANZAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE JUNIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El Presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de la Ley de Proyectos para Prestación de Servicios del Estado de Tabasco y sus Municipios, publicado en el Suplemento 6923 del Periódico Oficial del Estado de Tabasco, del 10 de enero de 2009, así como las disposiciones jurídicas y administrativas que se opongan al presente Reglamento.
