@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-ixtlahuacan-colima-26793"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2015-04-04"
+last_updated: "2015-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE IXTLAHUACÁN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -2907,15 +2907,17 @@ AÑO 2003 2004 2005 2006 2007
 
 BASE 60% 70% 80% 90% 100%
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO SÉPTIMO.
 
-Durante el ejercicio fiscal 2015 se concede el 08 por ciento de bonificación a los contribuyentes que paguen durante el mes de abril del ejercicio 2015 el impuesto predial por anualidad adelantada, en términos del segundo párrafo del artículo 19 de esta ley, así como una bonificación del 100 por ciento del monto de los recargos y multas correspondientes al ejercicio 2015 generados hasta el 30 de abril de 2015.
+Por concepto de estímulo fiscal, a los contribuyentes que se pongan al corriente en el pago del Impuesto Predial correspondiente al ejercicio fiscal 2015 y anteriores, dentro de los meses de julio a diciembre del actual ejercicio fiscal, se les aplicará un descuento en los recargos generados por la falta de pago, así como en las multas que hubieran sido impuestas por el mismo concepto, en los porcentajes que van del 100% al 60%, en los siguientes periodos:
 
-Asimismo, a quienes paguen dentro del plazo antes señalado adeudos del ejercicio 2014 y anteriores, por concepto de impuesto predial, se les condonarán al 100% las multas y recargos generados en el ejercicio fiscal 2014 y anteriores.
+PERIÓDO JULIO AGOSTO SEPTIEMBRE OCTUBRE NOVIEMBRE DICIEMBRE
 
-Lo dispuesto por el segundo párrafo del presente transitorio, no les será aplicable a los contribuyentes que celebren convenio de pago en parcialidades.
+BASE 100% 80% 60%
+
+Lo dispuesto en el presente transitorio, no les será aplicable a los contribuyentes que celebren convenio de pago en parcialidades.
 
 > <small>(REFORMADO, P.O. 15 DE MARZO DE 2014)</small>
 
@@ -3051,7 +3053,7 @@ UNICO.- El presente Decreto entrará en vigor el día de su aprobación y deber�
 
 P.O. 15 DE MARZO DE 2014.
 
-ÚNICO.- El presente Decreto entrará en vigor el día su (sic) aprobación, debiendo publicarse en el Periódico Oficial "El Estado de Colima".
+ÚNICO.- El presente Decreto entrará en vigor el día (sic) su aprobación, debiendo publicarse en el Periódico Oficial "El Estado de Colima".
 
 P.O. 5 DE ABRIL DE 2014.
 
@@ -3064,3 +3066,7 @@ P.O. 21 DE JUNIO DE 2014.
 P.O. 4 DE ABRIL DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor el 01 de abril de 2015, el cual deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 27 DE JUNIO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor el 01 de julio de 2015, previa su publicación en el Periódico Oficial "El Estado de Colima".
