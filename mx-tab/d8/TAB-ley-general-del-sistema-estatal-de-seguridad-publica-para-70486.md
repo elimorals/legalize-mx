@@ -4,7 +4,7 @@ identifier: "TAB-ley-general-del-sistema-estatal-de-seguridad-publica-para-70486
 country: "mx"
 rank: "ley_general"
 publication_date: "2009-10-07"
-last_updated: "2010-05-22"
+last_updated: "2015-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70486&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY GENERAL DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA PARA EL ESTADO DE TABASCO
 
-LEY GENERAL DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA PARA EL ESTADO DE TABASCO
+LEY GENERAL DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2010.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO, PUBLICADA EN EL PERIÓDICO OFICIAL EL 27 DE JUNIO DE 2015; ORDENAMIENTO QUE ENTRARÁ EN VIGOR A LOS CUARENTA Y CINCO DÍAS SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 7 de octubre de 2009.
 
@@ -1208,3 +1210,19 @@ SEGUNDO.- Tanto el personal como los recursos materiales y financieros destinado
 TERCERO.- El Poder Ejecutivo contará con tres meses a partir de la entrada en vigor del presente Decreto para concluir las transferencias de recursos humanos, materiales y financieros para la operación del Centro de Evaluación y Control de Confianza que dependerá del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
 
 CUARTO.- El Titular del Poder Ejecutivo, dentro de un término de 90 días hábiles, contados a partir de la vigencia del presente decreto, deberá realizar las adecuaciones reglamentarias a los ordenamientos jurídicos que resultaren aplicables, con relación a este mandamiento legislativo.
+
+P.O. 27 DE JUNIO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor a los cuarenta y cinco días siguientes al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, quedarán abrogadas la Ley General del Sistema Estatal de Seguridad Pública para el Estado de Tabasco, expedida mediante Decreto 190, publicado en el Suplemento 7000 F del Periódico Oficial del Estado de Tabasco, el miércoles 7 de octubre de 2009; así como la Ley de Seguridad Pública para el Estado de Tabasco, expedida mediante Decreto 226, publicado en el Suplemento 7023 R del Periódico Oficial del Estado de Tabasco, el sábado 26 de diciembre de 2009.
+
+El Congreso del Estado, en un término de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, realizará las adecuaciones a los ordenamientos legales que así lo requieran con motivo de la aplicación de la nueva Ley.
+
+TERCERO. El Ejecutivo del Estado y los ayuntamientos, según corresponda, expedirán o adecuarán las disposiciones reglamentarias o administrativas que deriven de la presente Ley, dentro de los 180 días naturales siguientes al inicio de su vigencia. Entre tanto, seguirán vigentes los reglamentos aplicables a las Instituciones de Seguridad Pública, en lo que no se opongan a esta Ley.
+
+CUARTO. Los procedimientos jurisdiccionales y administrativos, relacionados con la separación, remoción, cese o cualquier otra forma de conclusión de los servicios del personal al servicio de las Instituciones de Seguridad Pública, que estuviesen en trámite a la entrada en vigor de este Decreto, se concluirán conforme a la normatividad que les era aplicable al inicio del procedimiento de que se trate. Los procedimientos iniciados después de la entrada en vigor de este Decreto y los ordenamientos administrativos correspondientes, se tramitarán conforme a ellos.
+
+QUINTO. Conforme a las disposiciones legales aplicables y a la disponibilidad presupuestal, el Titular del Ejecutivo, por conducto de las dependencias competentes, realizará los ajustes presupuestarios y demás acciones administrativas que resulten necesarias, a efecto de que las Dependencias y órganos que así lo requieran y justifiquen en términos de la presente Ley, atiendan adecuadamente las atribuciones, funciones y servicios que les correspondan.
+
+SEXTO. Se derogan todas las disposiciones de orden legal que se opongan a lo establecido en la Presente Ley.
