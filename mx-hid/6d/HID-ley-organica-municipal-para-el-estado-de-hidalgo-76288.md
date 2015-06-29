@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2014-07-28"
+last_updated: "2015-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2015.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -697,7 +697,13 @@ o).- Aprobar o desechar las propuestas realizadas por el Presidente Municipal, r
 
 p).- Nombrar al Cronista Municipal, quien tendrá a su cargo la investigación histórica y cultural que preserve y fomente la identidad de los pobladores con su Municipio y con el Estado, así como la integración, conservación y enriquecimiento del archivo histórico del Municipio.
 
-El nombramiento del Cronista Municipal, será a propuesta de la Comisión de Educación y Cultura de cada Ayuntamiento, debiendo recaer en la persona que se distinga por sus amplios conocimientos en la historia y cultura del Municipio, así como que sea destacado por sus méritos y aportaciones a la cultura Municipal. Para su designación, deberán escucharse a las asociaciones e instituciones educativas, culturales y sociales del Municipio, durando en su encargo cuatro años, pudiendo ser ratificado por acuerdo del Ayuntamiento entrante, su nombramiento será de manera honorifica.
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2015)</small>
+
+El Ayuntamiento de cada Municipio, previa consulta a las asociaciones e instituciones educativas, culturales y sociales que existan en el Municipio, determinará la forma mediante la cual será nombrado el Cronista encargado de rescatar y preservar la historia local, quien en todo caso deberá haberse distinguido por sus méritos y aportaciones a la cultura lugareña y a fin de alentar la objetividad de sus estudios e investigaciones, su encargo deberá tener el carácter de vitalicio y honorífico. Esta misma fórmula se observará para designar a quien deba sustituir al Cronista que fallezca o renuncie voluntariamente a su encargo.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2015)</small>
+
+El Ayuntamiento, de acuerdo con su disponibilidad presupuestaria, podrá, asignar la partida que juzgue conveniente para apoyar investigaciones, estudios y publicaciones de su Cronista.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1161,13 +1167,17 @@ l).- De adultos Mayores;
 
 m) De Medio Ambiente;
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2015)</small>
 
-n) De Desarrollo Económico; y
+n) De Desarrollo Económico;
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2015)</small>
 
-ñ) De Desarrollo Rural y atención a pueblos y comunidades
+ñ) De Atención a Pueblos y Comunidades Indígenas; y
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2015)</small>
+
+o) De Desarrollo Agropecuario.
 
 II.- Serán especiales, las que designe el Ayuntamiento, de acuerdo con las necesidades del Municipio.
 
@@ -2886,3 +2896,15 @@ TERCERO.- El titular del Poder Ejecutivo del Estado de Hidalgo dispondrá, que l
 P.O. 28 DE JULIO DE 2014.
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 29 DE JUNIO DE 2015.
+
+DECRETO NÚM. 432, POR EL QUE REFORMA LOS INCISOS N) Y Ñ) DE LA FRACCIÓN I DEL ARTÍCULO 71; ADICIONA UN INCISO O) A LA FRACCIÓN I DEL ARTÍCULO 71, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 29 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 433, POR EL QUE SE REFORMA, EL SEGUNDO PÁRRAFO DEL INCISO P FRACCIÓN II Y SE ADICIONA UN TERCER PÁRRAFO, RECORRIÉNDOSE LOS SUBSECUENTES DEL ARTÍCULO 56 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
