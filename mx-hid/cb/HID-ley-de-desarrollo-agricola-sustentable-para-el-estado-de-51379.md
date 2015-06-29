@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-agricola-sustentable-para-el-estado-de-51379"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2010-12-13"
+last_updated: "2015-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY DE DESARROLLO AGRICOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-LEY DE DESARROLLO AGRICOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
+LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2015.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -55,7 +55,7 @@ QUE CONTIENE LA LEY DE DESARROLLO AGRICOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPITULO I. DEL OBJETO Y APLlCACION DE LA LEY
+### CAPITULO I. DEL OBJETO Y APLICACION DE LA LEY
 
 ###### ARTICULO 1.
 
@@ -173,7 +173,9 @@ VI.- Establecer en su Presupuesto de Egresos, una partida anual para apoyar el d
 
 VII.- Ejecutar coordinadamente con las Autoridades Federales, Estatales y las organizaciones de productores, los programas del sector agrícola;
 
-VIII.- Crear al interior del Comité de Planeación para el Desarrollo Municipal, la estructura organizativa que permita dar transparencia al uso de subsidios y recursos de los programas y proyectos que se desarrollen en el Municipio, constituyendo el Subcomité Municipal Agropecuario, que será el órgano colegiado de planeación sectorial del Municipio, el cual se integrará con el Presidente Municipal, quien lo presidirá, el Regidor Agropecuario como Coordinador General, tres agricultores o productores, un profesional en Agronomía y los servidores públicos de las Dependencias Municipales, Federales y Estatales del sector agropecuario, que laboren en el territorio Municipal;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2015)</small>
+
+VIII. Crear al interior del Comité de Planeación para el Desarrollo Municipal, la estructura organizativa que permita dar transparencia al uso de subsidios y recursos de los programas y proyectos que se desarrollen en el Municipio, constituyendo el Subcomité Municipal Agropecuario, que será el órgano colegiado de planeación sectorial del Municipio, el cual se integrará con el Presidente Municipal, quien lo presidirá, Presidente o Coordinador de la Comisión de Desarrollo Agropecuario como Coordinador General, tres agricultores o productores, un profesional en Agronomía y los servidores públicos de las Dependencias Municipales, Federales y Estatales del sector agropecuario, que laboren en el territorio Municipal.
 
 IX. Involucrar y apoyar a todos los productores rurales, en su organización e implementación de los programas y acciones, que coadyuven al desarrollo agrícola sustentable de la región; y
 
@@ -239,7 +241,7 @@ Subcomité Municipal Agropecuario: Organo colegiado de planeación sectorial Mun
 
 SENASICA: Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria.
 
-### CAPITULO V. DE LA COORDlNACION Y CONCERTACION
+### CAPITULO V. DE LA COORDINACION Y CONCERTACION
 
 ###### ARTICULO 10.
 
@@ -359,7 +361,7 @@ Las organizaciones del sector social y privado, podrán contribuir en la impleme
 
 ### CAPITULO I. DE LA ORGANIZACION, CAPACITACION Y ASESORIA ESPECIALIZADA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 18.
 
@@ -455,7 +457,7 @@ I.- A impulsar y apoyar en forma coordinada, la investigación relacionada con l
 
 II.- Vigilar el estricto cumplimiento de las normas técnicas oficiales mexicanas e Internacionales que rigen la producción y comercialización de semillas, ya sean éstas certificadas o aptas para siembra;
 
-III.- Verificar en coordinación con la federación, la certificación, verificación (sic) distribución y comercialización de semillas;
+III.- Verificar en coordinación con la federación, la certificación, verificación distribución y comercialización de semillas;
 
 IV.- Regular y supervisar la producción y beneficio de semillas certificadas y verificadas en el ámbito Estatal; y
 
@@ -693,7 +695,7 @@ El sector industrial agrícola podrá acceder a los esquemas de apoyo directo e 
 
 El Estado, a través de la Secretaria, impulsará activamente al sector, a fin de aprovechar las ventajas comparativas y los nichos de mercado que ofrece la apertura comercial.
 
-### CAPITULO IX. DE LOS MERCADOS Y LA COMERCIALlZACION
+### CAPITULO IX. DE LOS MERCADOS Y LA COMERCIALIZACION
 
 ###### ARTICULO 49.
 
@@ -945,7 +947,7 @@ IV.- El transporte y embalaje de la producción agrícola cumpla con la normativ
 
 V.- No se comercialicen, distribuyan y manejen productos químicos, que no cumplan con las Normas Mexicanas e Internacionales de Calidad y que por su composición representen un riesgo a la salud del productor, de los animales, la fauna silvestre, la vegetación y el ambiente en general;
 
-VI.- El cumplimiento de programas, proyectos y acciones, concertados con los productores, así como la correcta y transparente aplicación y ejercicio de los apoyos e instrumentos económicos dirigidos al desarrollo agrícola, así como promover la publicación en medios escritos y de circulación Estatal, todas las acciones (sic) programas y montos dirigidos al desarrollo agrícola de la Entidad, en tiempo y forma; y
+VI.- El cumplimiento de programas, proyectos y acciones, concertados con los productores, así como la correcta y transparente aplicación y ejercicio de los apoyos e instrumentos económicos dirigidos al desarrollo agrícola, así como promover la publicación en medios escritos y de circulación Estatal, todas las acciones programas y montos dirigidos al desarrollo agrícola de la Entidad, en tiempo y forma; y
 
 VII.- Todas aquéllas que se deriven de la aplicación del presente Ordenamiento y de su Reglamento.
 
@@ -1175,7 +1177,7 @@ El Ejecutivo del Estado, en un plazo de 120 días hábiles, siguientes a la publ
 
 El Poder Ejecutivo del Estado, en un plazo de 120 días hábiles, diseñará los instrumentos económicos de apoyo, programas y acciones, establecidos en la presente Ley.
 
-AL EJECUTIVO DE LA ENTIDAD PARA LOS EFECTOS DEL ARTICULO 51 DE LA CONSTITUCION POLlTICA DEL ESTADO DE HIDALGO.- DADO EN LA SALA DE SESIONES DEL CONGRESO DEL ESTADO, EN LA CIUDAD DE PACHUCA DE SOTO, HGO., A LOS DIECINUEVE DIAS DEL MES DE JULIO DEL AÑO DOS MIL SEIS.
+AL EJECUTIVO DE LA ENTIDAD PARA LOS EFECTOS DEL ARTICULO 51 DE LA CONSTITUCION POLITICA DEL ESTADO DE HIDALGO.- DADO EN LA SALA DE SESIONES DEL CONGRESO DEL ESTADO, EN LA CIUDAD DE PACHUCA DE SOTO, HGO., A LOS DIECINUEVE DIAS DEL MES DE JULIO DEL AÑO DOS MIL SEIS.
 
 PRESIDENTE
 
@@ -1189,7 +1191,7 @@ SECRETARIO
 
 DIP. HORACIO RAMÍREZ CURIEL.
 
-EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTICULO 71 FRACCION I DE LA CONSTITUCION POLlTICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
+EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTICULO 71 FRACCION I DE LA CONSTITUCION POLITICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
 
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS DOS DIAS DEL MES DE AGOSTO DEL AÑO DOS MIL SEIS.
 
@@ -1197,7 +1199,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 13 DE DICIEMBRE DE 2010.
 
@@ -1214,3 +1216,7 @@ Artículo Quinto.- Los cambios de adscripción de personal, en ninguna forma afe
 Artículo Sexto.- Los asuntos en trámite que deban pasar de una dependencia u órgano de la Administración Pública del Estado, a otra, según lo que dispone esta ley, permanecerán en el Estado en que se encuentren hasta que la unidad que los venga desahogando se incorpore a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificará a los interesados el cambio de radicación.
 
 Artículo Séptimo.- Por lo que hace a las reformas a la Ley de Salud para el Estado de Hidalgo, el reglamento a que hace referencia, el último párrafo del Artículo Tercero, deberá publicarse noventa días naturales posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 29 DE JUNIO DE 2015.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
