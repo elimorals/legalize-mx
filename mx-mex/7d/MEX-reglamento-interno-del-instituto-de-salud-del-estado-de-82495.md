@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-instituto-de-salud-del-estado-de-82495"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-12"
-last_updated: "2011-08-12"
+last_updated: "2015-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO DE SALUD DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERNO DEL INSTITUTO DE SALUD DEL ESTADO DE MEXICO
+REGLAMENTO INTERNO DEL INSTITUTO DE SALUD DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE JUNIO DE 2015.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 12 de agosto de 2011.
 
@@ -271,7 +271,9 @@ XVI. Jurisdicciones de Regulación Sanitaria.
 
 XVII. Jurisdicciones Sanitarias.
 
-XVIII. Unidad de Asuntos Jurídicos.
+> <small>(REFORMADA, G.G. 29 DE JUNIO DE 2015)</small>
+
+XVIII. Unidad Jurídico Consultiva.
 
 XIX. Unidad de Contraloría Interna.
 
@@ -613,9 +615,13 @@ IX. Coordinar la integración de los programas anuales de adquisiciones, contrat
 
 X. Coordinar las acciones de planeación, programación, presupuestación, adjudicación y control de los programas y proyectos de gestión administrativa que realice el Instituto.
 
-XI. Vigilar de manera conjunta con la Unidad de Asuntos Jurídicos y la Dirección de Administración, que los contratos y convenios en materia de adquisición de bienes, contratación de servicios, arrendamientos, ejecución de obra pública y servicios relacionados con la misma que celebre el Instituto, se elaboren en los plazos y forma establecidos en la normatividad aplicable.
+> <small>(REFORMADA, G.G. 29 DE JUNIO DE 2015)</small>
 
-XII. Suscribir, con la participación que corresponda a la Unidad de Asuntos Jurídicos y a la Dirección de Administración, los contratos y convenios en materia de adquisición de bienes, contratación de servicios, arrendamientos, ejecución de obra pública y servicios relacionados con la misma que celebre el Instituto, en los plazos y forma establecidos en la normatividad jurídica y administrativa aplicable, manteniendo informado al Director General de los contratos y convenios firmados.
+XI. Vigilar de manera conjunta con la Unidad Jurídico Consultiva y la Dirección de Administración, que los contratos y convenios en materia de adquisición de bienes, contratación de servicios, arrendamientos, ejecución de obra pública y servicios relacionados con la misma que celebre el Instituto, se elaboren en los plazos y forma establecidos en la normatividad aplicable.
+
+> <small>(REFORMADA, G.G. 29 DE JUNIO DE 2015)</small>
+
+XII. Suscribir, con la participación que corresponda a la Unidad Jurídico Consultiva y la Dirección de Administración, los contratos y convenios en materia de adquisición de bienes, contratación de servicios, arrendamientos, ejecución de obra pública y servicios relacionados con la misma que celebre el Instituto, en los plazos y forma establecidos en la normatividad jurídica y administrativa aplicable, manteniendo informado al Director General de los contratos y convenios firmados.
 
 XIII. Rescindir administrativamente los contratos de adquisición de bienes, contratación de servicios, arrendamientos, ejecución de obra pública y servicios relacionados con la misma que haya celebrado el Instituto e imponer las sanciones que prevé la legislación de la materia a los proveedores que incurran en el incumplimiento de dichos contratos.
 
@@ -743,13 +749,19 @@ Corresponde a la Dirección de Administración:
 
 I. Presentar al Coordinador de Administración y Finanzas para su expedición, los nombramientos de los servidores públicos que le correspondan.
 
-II. Suscribir contratos individuales de trabajo por obra o tiempo determinado, por honorarios asimilables a salarios y por servicios profesionales, previa revisión de la Unidad de Asuntos Jurídicos, en términos de la legislación aplicable.
+> <small>(REFORMADA, G.G. 29 DE JUNIO DE 2015)</small>
+
+II. Suscribir contratos individuales de trabajo por obra o tiempo determinado, por honorarios asimilables a salarios y por servicios profesionales, previa revisión de la Unidad Jurídico Consultiva, en términos de la legislación aplicable.
 
 III. Proponer programas y acciones para mejorar la planeación, programación y ejecución de la infraestructura del Instituto y servicios relacionados con la misma.
 
-IV. Suscribir previo dictamen de la Unidad de Asuntos Jurídicos, los contratos, convenios, acuerdos y todo tipo de documentos en materia de adquisición de bienes, servicios, arrendamientos, ejecución de obra pública y servicios relacionados con la misma que celebre el Instituto, en los plazos y forma establecidos en la normatividad aplicable.
+> <small>(REFORMADA, G.G. 29 DE JUNIO DE 2015)</small>
 
-V. Suscribir de manera conjunta con los titulares de la Coordinación de Administración y Finanzas y la Unidad de Asuntos Jurídicos, la rescisión de los contratos y convenios en materia de adquisición de bienes, contratación de servicios, arrendamientos, ejecución de obra pública y servicios relacionados con la misma que celebre el Instituto, en los términos establecidos en la normatividad aplicable e informar al Director General de las rescisiones efectuadas.
+IV. Suscribir previo dictamen de la Unidad Jurídico Consultiva, los contratos, convenios, acuerdos y todo tipo de documentos en materia de adquisición de bienes, servicios, arrendamientos, ejecución de obra pública y servicios relacionados con la misma que celebre el Instituto, en los plazos y forma establecidos en la normatividad aplicable.
+
+> <small>(REFORMADA, G.G. 29 DE JUNIO DE 2015)</small>
+
+V. Suscribir de manera conjunta con los titulares de la Coordinación de Administración y Finanzas y la Unidad Jurídico Consultiva, la rescisión de los contratos y convenios en materia de adquisición de bienes, contratación de servicios, arrendamientos, ejecución de obra pública y servicios relacionados con la misma que celebre el Instituto, en los términos establecidos en la normatividad aplicable e informar al Director General de las rescisiones efectuadas.
 
 VI. Vigilar el cumplimiento de las cláusulas estipuladas en contratos y convenios en materia de adquisición de bienes, contratación de servicios, arrendamientos, ejecución de obra pública y servicios relacionados con la misma que celebre el Instituto, manteniendo informado al Coordinador de Administración y Finanzas de dichas acciones.
 
@@ -863,7 +875,9 @@ IX. Difundir las normas, procedimientos y trámites para inventario, incorporaci
 
 X. Integrar con la documentación técnica, jurídica y administrativa los expedientes que conforman el patrimonio inmueble del Instituto y mantenerlos actualizados.
 
-XI. Tramitar y ejecutar los procedimientos y acciones para regularizar jurídicamente los inmuebles propiedad del Instituto, en coordinación con la Unidad de Asuntos Jurídicos.
+> <small>(REFORMADA, G.G. 29 DE JUNIO DE 2015)</small>
+
+XI. Tramitar y ejecutar los procedimientos y acciones para regularizar jurídicamente los inmuebles propiedad del Instituto, en coordinación con la Unidad Jurídico Consultiva.
 
 XII. Intervenir, en el ámbito de su competencia, en los actos de entrega y recepción de las oficinas públicas del Instituto, de acuerdo con las disposiciones aplicables.
 
@@ -913,11 +927,15 @@ XIV. Realizar las acciones necesarias a efecto de aplicar las penas convencional
 
 XV. Las demás que le confieren otras disposiciones legales.
 
-#### Sección Quinta. De las Unidades de Asuntos Jurídicos y de Contraloría Interna
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE JUNIO DE 2015)</small>
+
+#### Sección Quinta. De las Unidades de Jurídico Consultiva y de Contraloría Interna
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE JUNIO DE 2015)</small>
 
 ###### Artículo 42.
 
-Corresponde a la Unidad de Asuntos Jurídicos:
+Corresponde a la Unidad Jurídico Consultiva:
 
 I. Revisar y emitir opinión sobre los anteproyectos de ley, reglamentos, decretos, acuerdos y contratos relativos a los asuntos competencia del Instituto y de los que formulen las entidades agrupadas administrativamente en el sector.
 
@@ -1022,3 +1040,15 @@ LIC. ANTONIO SALOMÓN NAIME ATALA
 DIRECTOR DE ADMINISTRACIÓN Y SECRETARIO DEL CONSEJO INTERNO DEL INSTITUTO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 29 DE JUNIO DE 2015.
+
+PRIMERO.- El presente Acuerdo será publicado en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los asuntos y demás procedimientos que se encuentran en trámite en la Unidad de Asuntos Jurídicos, al entrar en vigor el presente Acuerdo, se tramitarán y resolverán por la Unidad Jurídico Consultiva".
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente ordenamiento jurídico.
