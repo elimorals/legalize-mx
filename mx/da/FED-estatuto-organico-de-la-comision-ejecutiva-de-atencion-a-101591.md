@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-ejecutiva-de-atencion-a-101591
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-06-27"
-last_updated: "2015-03-10"
+last_updated: "2015-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101591&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-05-27"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JUNIO DE 2015.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 27 de junio de 2014.
 
@@ -75,7 +75,9 @@ II. Comisión Ejecutiva: la Comisión Ejecutiva de Atención a Víctimas;
 
 III. Comisionado Presidente: la persona sobre quien recae la responsabilidad de presidir la Comisión Ejecutiva y dirigir el cumplimiento de las atribuciones de sus unidades administrativas, en términos de los artículos 87 y 95 de la Ley General de Víctimas y 35 de su Reglamento;
 
-IV. Delegados: a los Titulares de las Delegaciones de la Comisión Ejecutiva de Atención a Víctimas en las Entidades Federativas;
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2015)</small>
+
+IV. Delegados y Subdelegados: a los Titulares de las Delegaciones y Subdelegaciones de la Comisión Ejecutiva de Atención a Víctimas en las entidades federativas;
 
 V. Director General de la Asesoría: al Titular de la Asesoría Jurídica Federal de Atención a Víctimas;
 
@@ -159,7 +161,9 @@ c. Dirección de Recursos Materiales y Servicios Generales,
 
 d. Dirección de Tecnologías de la Información,
 
-XII. Unidad de Atención Inmediata y Primer Contacto;
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2015)</small>
+
+XII. Dirección General de Atención Inmediata y Primer Contacto;
 
 XIII. Comités especializados en:
 
@@ -515,7 +519,9 @@ XIV. Expedir copias certificadas en los términos de la ley, de los documentos q
 
 XV. Las demás que les confieren las disposiciones legales y administrativas aplicables, así como las que les encomiende el Pleno y el Comisionado Presidente.
 
-En caso de ausencias temporales, los Directores Generales serán suplidos por el servidor público de primer nivel de la Comisión Ejecutiva que designe el Pleno, a propuesta del propio Director General.
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2015)</small>
+
+En caso de ausencias temporales, los Directores Generales serán suplidos por el servidor público de la Comisión Ejecutiva del nivel jerárquico inmediato inferior que designe el Pleno, a propuesta del propio Director General.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MARZO DE 2015)</small>
 
@@ -923,13 +929,15 @@ XX. Las demás que sean necesarias para el cumplimiento de sus funciones, así c
 
 La Dirección General de Administración y Finanzas tendrá bajo su cargo a la Dirección General Adjunta de Finanzas, Dirección de Recursos Humanos, Dirección de Recursos Materiales y Servicios Generales, y Dirección de Tecnologías de la Información, que tendrán las facultades que las disposiciones jurídicas correspondientes establezcan.
 
-### Capítulo Octavo. De la Unidad de Atención Inmediata y Primer Contacto
+> <small>(DEROGADO, D.O.F. 29 DE JUNIO DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 2015)</small>
+### Capítulo Octavo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE JUNIO DE 2015)</small>
 
 ###### Artículo 35.
 
-Son atribuciones de la Unidad de Atención Inmediata y Primer Contacto:
+Son atribuciones de la Dirección General de Atención Inmediata y Primer Contacto:
 
 I. Realizar la primera entrevista a la víctima cuando acuda directamente a las instalaciones de la Comisión Ejecutiva;
 
@@ -949,13 +957,13 @@ VI. Hacer una evaluación interdisciplinaria de las medidas de emergencia que la
 
 VII. Considerar los resultados de la supervisión y evaluación que le reporten las unidades correspondientes y, con base en éstos, adoptar las decisiones conducentes para mejorar los servicios prestados;
 
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2015)</small>
 
-VIII. Determinar la adscripción de los servidores públicos de la Unidad de Atención Inmediata y Primer Contacto, así como la asignación de los asuntos que estime procedentes a petición de parte interesada o por necesidades del servicio;
+VIII. Determinar la adscripción de los servidores públicos de la Dirección General de Atención Inmediata y Primer Contacto, así como la asignación de los asuntos que estime procedentes a petición de parte interesada o por necesidades del servicio;
 
-> <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2015)</small>
 
-IX. Concentrar la información mensual y anual de los asuntos en que intervenga el personal de la Unidad de Atención Inmediata y Primer Contacto, con el objeto de informar de ello al Pleno, así como para elaborar el informe anual de labores de la Unidad;
+IX. Concentrar la información mensual y anual de los asuntos en que intervenga el personal de la Dirección General de Atención Inmediata y Primer Contacto, con el objeto de informar de ello al Pleno, así como para elaborar su informe anual de labores;
 
 > <small>(ADICIONADA, D.O.F. 23 DE ENERO DE 2015)</small>
 
@@ -1153,25 +1161,33 @@ XVII. Las demás que sean necesarias para el cumplimiento de sus funciones, así
 
 La Comisión Ejecutiva contará con una Unidad de Enlace para el Acceso a la Información Pública Gubernamental la cual ejercerá las facultades establecidas en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y su Reglamento.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE JUNIO DE 2015)</small>
 
-### Capítulo Décimo Primero. De las Delegaciones
+### Capítulo Décimo Primero. De las Delegaciones y Subdelegaciones
 
-> <small>(ADICIONADO, D.O.F. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2015)</small>
 
 ###### Artículo 41.
 
-Para el cumplimiento de sus atribuciones, la Comisión Ejecutiva contará con las Delegaciones y demás oficinas que se requieran conforme a sus necesidades.
+Para el cumplimiento de sus atribuciones, la Comisión Ejecutiva contará con las Delegaciones, Subdelegaciones y demás oficinas que requiera conforme a sus necesidades.
 
-Para la creación, reubicación o cierre de las Delegaciones, el Pleno atenderá criterios de índice delictivo, generación de víctimas, ubicación geográfica y recursos con que cuente la Comisión Ejecutiva.
+Las Delegaciones para el ejercicio de sus funciones se auxiliarán de los servidores públicos que se requieran para cubrir las necesidades del servicio que prestan.
 
-Los servidores públicos de dichas unidades administrativas ejercerán las atribuciones que la Ley, su Reglamento, el presente Estatuto y otros ordenamientos legales le confieran a la Comisión Ejecutiva, tanto en la circunscripción territorial que determine el Pleno de la Comisión mediante acuerdos publicados en el Diario Oficial de la Federación, así como, de manera concurrente en la circunscripción territorial de las Delegaciones circunvecinas, conforme a los lineamientos que expida el mismo Pleno, y sin perjuicio de las atribuciones que el presente Estatuto contempla para la Dirección General de la Asesoría Jurídica Federal y de la Unidad de Atención Inmediata y Primer Contacto.
+Para la creación, reubicación o cierre de las Delegaciones y Subdelegaciones, el Pleno atenderá criterios de índice delictivo, generación de víctimas, ubicación geográfica y recursos con que cuente la Comisión Ejecutiva.
 
-> <small>(ADICIONADO, D.O.F. 10 DE MARZO DE 2015)</small>
+Los servidores públicos de dichas unidades administrativas ejercerán las atribuciones que la Ley, su Reglamento, el presente Estatuto y otros ordenamientos legales le confieran a la Comisión Ejecutiva, tanto en la circunscripción territorial que determine el Pleno de la Comisión mediante acuerdos publicados en el Diario Oficial de la Federación, como de manera concurrente en la circunscripción territorial de las Delegaciones y Subdelegaciones circunvecinas, conforme a los lineamientos que expida el mismo Pleno y sin perjuicio de las atribuciones que el presente Estatuto contempla para las Direcciones Generales de la Asesoría Jurídica Federal y de Atención Inmediata y Primer Contacto.
+
+En caso de ausencias temporales de los Delegados, éstos serán suplidos por los Subdelegados.
+
+Los Subdelegados serán suplidos por el servidor público inmediato inferior que de ellos dependa, en los asuntos de su competencia.
+
+En el caso de aquellos Delegados que no cuenten con Subdelegados que los suplan, su ausencia será suplida por el Coordinador General de Delegaciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE JUNIO DE 2015)</small>
 
 ###### Artículo 42.
 
-La denominación y sede de las Delegaciones con que cuenta la Comisión Ejecutiva, son las siguientes:
+La denominación y sede de las Delegaciones y Subdelegaciones con que cuenta la Comisión Ejecutiva, son las siguientes:
 
 I. Estado de Baja California
 
@@ -1179,9 +1195,15 @@ a) Delegación Baja California, con sede en la ciudad de Tijuana.
 
 II. Estado de Chiapas
 
-a) Delegación Tuxtla Gutiérrez, con sede en la ciudad de Tuxtla Gutiérrez.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE JUNIO DE 2015)</small>
 
-b) Delegación Tapachula, con sede en la ciudad de Tapachula.
+a) Delegación Chiapas, con sede en la ciudad de Tuxtla Gutiérrez.
+
+> <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 2015)</small>
+
+Para la mejor prestación del servicio, la Delegación Chiapas contará con una Subdelegación con sede en la ciudad de Tapachula.
+
+b) (DEROGADO, D.O.F. 29 DE JUNIO DE 2015)
 
 III. Estado de Chihuahua
 
@@ -1190,6 +1212,12 @@ a) Delegación Chihuahua, con sede en la ciudad de Ciudad Juárez.
 IV. Estado de Coahuila de Zaragoza
 
 a) Delegación Coahuila, con sede en la ciudad de Torreón.
+
+> <small>(ADICIONADA, D.O.F. 29 DE JUNIO DE 2015)</small>
+
+IV Bis. Estado de Durango
+
+a) Delegación Durango, con sede en la ciudad de Durango.
 
 V. Estado de Guanajuato
 
@@ -1231,11 +1259,13 @@ XIV. Estado de Yucatán
 
 a) Delegación Yucatán, con sede en la ciudad de Mérida.
 
-> <small>(ADICIONADO, D.O.F. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2015)</small>
 
 ###### Artículo 43.
 
-Las Delegaciones serán dirigidas por un Delegado, quien será nombrado y removido por el Comisionado Presidente, y el cual será auxiliado para el despacho de los asuntos de su competencia por los servidores públicos que determine el Comisionado Presidente.
+Las Delegaciones serán dirigidas por un Delegado, quien será nombrado y removido por el Comisionado Presidente.
+
+Los Delegados se encargarán de dirigir y supervisar el trabajo, el control administrativo, la gestión y el seguimiento de acciones con personal adscrito a la delegación para cubrir las necesidades del servicio.
 
 > <small>(ADICIONADO, D.O.F. 10 DE MARZO DE 2015)</small>
 
@@ -1245,15 +1275,21 @@ Son atribuciones de la Coordinación General de Delegaciones:
 
 I. Coordinar, supervisar y evaluar las tareas que realicen las Delegaciones de la Comisión Ejecutiva, en aspectos que no sean competencia de otras unidades administrativas y de conformidad con los criterios que defina el Comisionado Presidente;
 
-II. Proponer al Comisionado Presidente la creación, modificación o supresión de las Delegaciones;
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2015)</small>
 
-III. Sugerir al Comisionado Presidente la designación y remoción de los titulares de las Delegaciones;
+II. Proponer al Comisionado Presidente la creación, modificación o supresión de las Delegaciones y Subdelegaciones;
+
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2015)</small>
+
+III. Sugerir al Comisionado Presidente la designación y remoción de los titulares de las Delegaciones y Subdelegaciones;
 
 IV. Fungir como enlace y vínculo permanente de coordinación entre las unidades administrativas centrales y las delegaciones, así como entre las mismas delegaciones, con el fin de promover el mejor desarrollo de sus actividades y apoyarlas en sus requerimientos;
 
 V. Planear, programar, organizar, dirigir y evaluar las actividades de la unidad administrativa a su cargo;
 
-VI. Coordinarse con la Dirección General de la Asesoría Jurídica Federal y la Unidad de Atención Inmediata y Primer Contacto, para la conducción, supervisión y evaluación del personal adscrito a las Delegaciones;
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2015)</small>
+
+VI. Coordinarse con las Direcciones Generales de la Asesoría Jurídica Federal y de Atención Inmediata y Primer Contacto, para la conducción, supervisión y evaluación del personal adscrito a las Delegaciones;
 
 VII. Apoyar y analizar el funcionamiento de las Delegaciones, así como el ejercicio del presupuesto asignado a las mismas, a fin de que éstas puedan alcanzar sus objetivos y metas autorizadas;
 
@@ -1269,15 +1305,29 @@ XII. Promover en coordinación con la Dirección General de Vinculación Interin
 
 XIII. Integrar el anteproyecto de presupuesto de las Delegaciones, así como supervisar su ejercicio;
 
-XIV. Planear y gestionar ante las unidades administrativas competentes de la Comisión Ejecutiva las necesidades de las delegaciones y subdelegaciones en materia de recursos humanos, financieros, materiales e informáticos;
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2015)</small>
 
-XV. Participar con las unidades administrativas de la Comisión Ejecutiva en el diseño, adecuación y ejecución de programas, proyectos e instrumentos operativos y normativos de la Comisión, que corresponde ejecutar a las delegaciones y subdelegaciones, en el ámbito de su competencia;
+XIV. Planear y gestionar ante las unidades administrativas competentes de la Comisión Ejecutiva las necesidades de las Delegaciones en materia de recursos humanos, financieros, materiales e informáticos;
+
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2015)</small>
+
+XV. Participar con las unidades administrativas de la Comisión Ejecutiva en el diseño, adecuación y ejecución de programas, proyectos e instrumentos operativos y normativos de la Comisión, que corresponde ejecutar a las Delegaciones en el ámbito de su competencia;
 
 XVI. Coordinar y administrar el diseño, implementación y ejecución del sistema de calidad de las delegaciones, supervisar el cumplimiento de los estándares de servicio establecidos, así como captar y medir la satisfacción y expectativas del usuario;
 
-XVII. Ordenar y realizar la práctica de visitas de supervisión en coordinación con las unidades administrativas competentes, así como ordenar las visitas de supervisión directa extraordinaria a las delegaciones que considere necesarias, y
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2015)</small>
 
-XVIII. Las demás que le confieran las disposiciones legales y administrativas aplicables, así como las que le encomiende el Comisionado Presidente.
+XVII. Ordenar y realizar la práctica de visitas de supervisión en coordinación con las unidades administrativas competentes, así como ordenar las visitas de supervisión directa extraordinaria a las Delegaciones que considere necesarias;
+
+> <small>(ADICIONADA, D.O.F. 29 DE JUNIO DE 2015)</small>
+
+XVIII. Coadyuvar, a través de las Delegaciones, a la promoción y fortalecimiento de acciones de coordinación con las autoridades federales, estatales y municipales en la entidad respecto de las funciones propias de cada Delegación;
+
+> <small>(ADICIONADA, D.O.F. 29 DE JUNIO DE 2015)</small>
+
+XIX. Requerir a las Delegaciones información de las entidades federativas, sus regiones y municipios, que sea de interés para el ejercicio de las atribuciones de las unidades administrativas de la Comisión Ejecutiva, y
+
+XX. Las demás que le confieran las disposiciones legales y administrativas aplicables, así como las que le encomiende el Comisionado Presidente.
 
 La Coordinación General de Delegaciones estará a cargo de un Coordinador General, adscrito al Comisionado Presidente.
 
@@ -1297,15 +1347,31 @@ IV. Proporcionar atención psicológica a las víctimas de delitos y de violaci�
 
 V. Asignar a la víctima de delito o de violaciones a sus derechos humanos un asesor jurídico federal;
 
-VI. Verificar el estado de salud de las víctimas del delito y de violación a sus derechos humanos a través del personal adscrito a la Unidad de Atención Inmediata y de Primer Contacto de la Delegación, implementando las medidas de asistencia, protección y atención que prevén la Ley y su Reglamento;
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2015)</small>
+
+VI. Verificar el estado de salud de las víctimas del delito y de violación a sus derechos humanos a través del personal que realiza funciones de atención inmediata y primer contacto adscrito a la Delegación, implementando las medidas de asistencia, protección y atención que prevén la Ley y su Reglamento;
 
 VII. Recopilar la información relacionada con la atención que se proporciona a las víctimas del delito o de violaciones a sus derechos humanos, incluyendo aquella relacionada con la inscripción de éstas al Registro Nacional de Víctimas, así como aquella encaminada a acceder a los recursos del Fondo de Ayuda, Asistencia y Reparación Integral, cuando corresponda;
 
 VIII. Integrar los expedientes relacionados con los asuntos de su competencia, expedir copias certificadas de las constancias que obren en los mismos y supervisar su resguardo y, así como, implementar y actualizar la base de datos de los expedientes generados por el personal a su cargo;
 
-IX. Informar, por conducto del Coordinador de Delegaciones, al Comisionado Presidente y, en su caso, a la unidad central que corresponda, sobre el cumplimiento de sus atribuciones, el desempeño de sus actividades y el desarrollo y cumplimiento de sus programas, y
+> <small>(REFORMADA, D.O.F. 29 DE JUNIO DE 2015)</small>
 
-X. Las demás que le confieran las disposiciones aplicables, así como las que le encomiende el Pleno o el Comisionado Presidente.
+IX. Informar, por conducto del Coordinador General de Delegaciones, al Comisionado Presidente y, en su caso, a la unidad central que corresponda, sobre el cumplimiento de sus atribuciones, el desempeño de sus actividades y el desarrollo y cumplimiento de sus programas;
+
+> <small>(ADICIONADA, D.O.F. 29 DE JUNIO DE 2015)</small>
+
+X. Promover y fortalecer acciones de coordinación con las autoridades federales, estatales y municipales en la entidad respecto de las funciones propias de cada Delegación;
+
+> <small>(ADICIONADA, D.O.F. 29 DE JUNIO DE 2015)</small>
+
+XI. Recopilar y proporcionar, a través del Coordinador General de Delegaciones, información de las entidades federativas, sus regiones y municipios, que sea de interés para el ejercicio de las atribuciones de las unidades administrativas de la Comisión Ejecutiva, y
+
+XII. Las demás que le confieran las disposiciones aplicables, así como las que le encomiende el Pleno o el Comisionado Presidente.
+
+> <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 2015)</small>
+
+Para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus atribuciones, las Delegaciones se auxiliarán por las Subdelegaciones.
 
 ## TRANSITORIOS
 
@@ -1334,3 +1400,9 @@ D.O.F. 10 DE MARZO DE 2015.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Quedan sin efectos los acuerdos CEAV/PLENO/2014/016/06 de fecha 28 de enero de 2014 y CEAV/PLENO/2014/055/09, de fecha 21 de octubre de 2014.
+
+D.O.F. 29 DE JUNIO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las referencias que las disposiciones hagan a la Unidad de Atención Inmediata y Primer Contacto, se entenderán hechas a la Dirección General de Atención Inmediata y Primer Contacto, conforme a lo dispuesto en el Estatuto Orgánico de la Comisión Ejecutiva de Atención a Víctimas.
