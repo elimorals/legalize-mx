@@ -4,7 +4,7 @@ identifier: "HID-estatuto-organico-del-sistema-para-el-desarrollo-integral-81639
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-05-30"
-last_updated: "2011-05-30"
+last_updated: "2015-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # ESTATUTO ORGANICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE HIDALGO
 
-ESTATUTO ORGANICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE HIDALGO
+ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ACUERDO QUE CONTIENE EL ESTATUTO ORGÁNICO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 29 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2015 (ABROGADO).
 
 Estatuto Orgánico publicado en Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 30 de mayo de 2011.
 
@@ -65,7 +67,7 @@ El Organismo, para el logro de su objeto, tiene las atribuciones que se señalan
 
 Son autoridades del Organismo:
 
-l.- El Patronato;
+I.- El Patronato;
 
 II.- La Junta de Gobierno; y
 
@@ -75,7 +77,7 @@ III.- La Dirección General.
 
 El organismo cuenta con la siguiente estructura orgánica:
 
-l.- Patronato;
+I.- Patronato;
 
 a).- Secretaría Particular;
 
@@ -129,7 +131,7 @@ a).- Dirección de Captación de Recursos.
 
 Son centros asistenciales del Organismo:
 
-l.- Albergue DIF;
+I.- Albergue DIF;
 
 II.- Casa de la Tercera Edad;
 
@@ -159,7 +161,7 @@ XIII.- Parque Cultural El Rehilete.
 
 Son instancias de vigilancia de la operación del Organismo:
 
-l.- El Comisario; y,
+I.- El Comisario; y,
 
 II.- Órgano Interno de Control.
 
@@ -167,7 +169,7 @@ II.- Órgano Interno de Control.
 
 Son instancias de participación ciudadana en la operación del organismo:
 
-l.- Consejo Consultivo de Asistencia Social;
+I.- Consejo Consultivo de Asistencia Social;
 
 ### CAPÍTULO III. DEL PATRONATO
 
@@ -189,7 +191,7 @@ Cada uno de los miembros del Patronato deberá designar un suplente y comunicarl
 
 El Patronato tendrá las siguientes facultades y obligaciones:
 
-l.- Emitir opinión y recomendaciones sobre los planes de trabajo, presupuestos, informes y estados financieros anuales del Organismo;
+I.- Emitir opinión y recomendaciones sobre los planes de trabajo, presupuestos, informes y estados financieros anuales del Organismo;
 
 II.- Apoyar las actividades del Organismo y formular sugerencias tendientes a su mejor desempeño;
 
@@ -203,7 +205,7 @@ V.- Las demás que le confieran las disposiciones legales aplicables.
 
 El Presidente del Patronato tendrá las siguientes facultades y obligaciones:
 
-l.- Convocar a sesión ordinaria o extraordinaria a los miembros del Patronato;
+I.- Convocar a sesión ordinaria o extraordinaria a los miembros del Patronato;
 
 II.- Presidir las sesiones de trabajo;
 
@@ -233,7 +235,7 @@ XIII.- Las demás que le confieran las disposiciones legales aplicables.
 
 El Secretario del Patronato tendrá las siguientes funciones:
 
-l.- Elaborar la convocatoria a sesiones de trabajo de acuerdo a las instrucciones del Presidente,
+I.- Elaborar la convocatoria a sesiones de trabajo de acuerdo a las instrucciones del Presidente,
 
 II.- Enviar junto con la convocatoria los materiales de la sesión, para que puedan ser previamente analizados por los integrantes del Patronato;
 
@@ -255,7 +257,7 @@ IX.- Las demás que le confiera el Patronato.
 
 El Prosecretario del Patronato tendrá las siguientes funciones:
 
-l.- Apoyar al Secretario en el desarrollo de sus funciones;
+I.- Apoyar al Secretario en el desarrollo de sus funciones;
 
 II.- Ser enlace entre el Secretario del Patronato, el Secretario de la Junta de Gobierno y la Dirección General;
 
@@ -331,7 +333,7 @@ Las notificaciones se harán personalmente mediante acuse de recibo de la convoc
 
 La Secretaría Particular del Despacho tendrá las siguientes funciones:
 
-l.- Conducir las relaciones de la Presidencia del Patronato del Organismo con dependencias, ayuntamientos y con los representantes de los sectores social y privado;
+I.- Conducir las relaciones de la Presidencia del Patronato del Organismo con dependencias, ayuntamientos y con los representantes de los sectores social y privado;
 
 II.- Atender los asuntos del despacho de la Presidencia del Patronato del Organismo, cuando el Presidente esté ausente;
 
@@ -537,7 +539,7 @@ Las resoluciones se tomarán por mayoría de votos de los integrantes de la Junt
 
 Las sesiones de la Junta se sujetarán estrictamente al formato del orden del día, el cual deberá contener, al menos:
 
-l.- Lista de presentes y declaración del Quórum;
+I.- Lista de presentes y declaración del Quórum;
 
 II.- Aprobación del orden del día;
 
@@ -665,7 +667,7 @@ XXXIX.- Las demás que le confieran las disposiciones legales aplicables.
 
 Corresponde a la Dirección de Seguimiento de Acuerdos las siguientes funciones:
 
-l.- Conducir las relaciones de la Dirección General del Organismo con dependencias, Ayuntamientos y con los representantes de los sectores social y privado;
+I.- Conducir las relaciones de la Dirección General del Organismo con dependencias, Ayuntamientos y con los representantes de los sectores social y privado;
 
 II.- Participar en la logística de las giras y reuniones de trabajo que realice la Directora General del Organismo;
 
@@ -749,7 +751,7 @@ Al frente de la Dirección de Vinculación Institucional, habrá un Director de 
 
 La Dirección de Vinculación Institucional, tendrá las siguientes funciones:
 
-l.- Fomentar las relaciones con las dependencias de la Administración Pública Federal y con las propias de la Entidad, con la finalidad de identificar programas, proyectos y recursos que favorezcan el ejercicio de los programas estatales, en la búsqueda de un mayor impacto en la población objetivo del Sistema.
+I.- Fomentar las relaciones con las dependencias de la Administración Pública Federal y con las propias de la Entidad, con la finalidad de identificar programas, proyectos y recursos que favorezcan el ejercicio de los programas estatales, en la búsqueda de un mayor impacto en la población objetivo del Sistema.
 
 II.- Establecer vínculos de coordinación con Dependencias y Organismos Descentralizados de la Administración Pública Municipal, Estatal y Federal, así como con organizaciones y representantes del sector social y privado, para el desarrollo de estrategias de política social orientadas a la superación de la pobreza y la marginación en el Estado; y
 
@@ -765,7 +767,7 @@ Al frente de la Dirección de Asuntos Jurídicos, habrá un Director, quien ser�
 
 La Dirección de Asuntos Jurídicos tendrá las siguientes funciones.
 
-l.- Elaborar proyectos de iniciativa de reformas de Ley, códigos y decretos para actualizar el marco jurídico del Organismo y proponerlos por acuerdo del Director General y con aprobación de la Junta de Gobierno ante las autoridades competentes;
+I.- Elaborar proyectos de iniciativa de reformas de Ley, códigos y decretos para actualizar el marco jurídico del Organismo y proponerlos por acuerdo del Director General y con aprobación de la Junta de Gobierno ante las autoridades competentes;
 
 II.- Establecer, sistematizar y difundir por escrito a la Dirección General y a todas las áreas del Organismo, los criterios de interpretación y aplicación de las disposiciones jurídicas de competencia del Organismo;
 
@@ -829,7 +831,7 @@ V.- Proporcionar, por acuerdo del Director General, información sobre las activ
 
 VI.- Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación o le correspondan por suplencia;
 
-VIl.- Intervenir en los procesos de adquisición de insumos así como en la contratación de servicios y obra pública, de conformidad con la normatividad aplicable;
+VII.- Intervenir en los procesos de adquisición de insumos así como en la contratación de servicios y obra pública, de conformidad con la normatividad aplicable;
 
 VIII.- Representar al Organismo ante entidades públicas, privadas y sociales, nacionales e internacionales, por acuerdo del Director General y formar parte de los Comités Internos que le correspondan conforme a su ámbito de competencia;
 
@@ -861,7 +863,7 @@ Al frente de la Subdirección General de Asistencia, Protección Social y Salud 
 
 El Subdirector General de Asistencia, Protección Social y Salud Preventiva tendrá las siguientes funciones:
 
-l.- Proponer al Director General, las políticas y lineamientos para el desarrollo de los programas y acciones de cooperación y coordinación del Organismo con los Sistemas DIF Municipales;
+I.- Proponer al Director General, las políticas y lineamientos para el desarrollo de los programas y acciones de cooperación y coordinación del Organismo con los Sistemas DIF Municipales;
 
 II.- Coordinar la participación del Organismo en los programas y acciones de ayuda a personas en condiciones de emergencia, afectadas por casos de desastre;
 
@@ -907,9 +909,9 @@ Al frente de la Coordinación de la Junta General de Asistencia habrá un Coordi
 
 El Coordinador de la Junta General de Asistencia tendrá las siguientes funciones:
 
-l.- Administrar y operar los montepíos y las unidades de producción, que formen parte de su estructura con base en los Reglamentos y manuales autorizados por la Junta de Gobierno del Organismo;
+I.- Administrar y operar los montepíos y las unidades de producción, que formen parte de su estructura con base en los Reglamentos y manuales autorizados por la Junta de Gobierno del Organismo;
 
-II - Proponer a la Dirección General, para aprobación de la Junta de Gobierno del Organismo, los márgenes de utilidad, las tarifas, precios de venta, precios de renta, intereses y gravámenes de los productos que se comercialicen, se reciban en prenda o se arrenden;
+II.- Proponer a la Dirección General, para aprobación de la Junta de Gobierno del Organismo, los márgenes de utilidad, las tarifas, precios de venta, precios de renta, intereses y gravámenes de los productos que se comercialicen, se reciban en prenda o se arrenden;
 
 III.- Enterar mensualmente a la Dirección de Planeación, Administración y Finanzas del Organismo, los recursos económicos o en especie que se obtengan a través de los montepíos, arrendamiento de inmuebles, unidades de producción, de servicios o cualquier otra fuente de ingreso;
 
@@ -949,7 +951,7 @@ Al frente de la Subdirección General de Planeación Administración y Finanzas,
 
 La Subdirección General de Planeación, Administración y Finanzas, tendrá las siguientes funciones:
 
-l.- Proporcionar, por acuerdo de la Dirección General, información sobre las actividades del Organismo que le sea requerida por dependencias e instituciones públicas y privadas;
+I.- Proporcionar, por acuerdo de la Dirección General, información sobre las actividades del Organismo que le sea requerida por dependencias e instituciones públicas y privadas;
 
 II.- Establecer, coordinar y supervisar los procesos de planeación, programación, organización y evaluación del DIF Hidalgo, observando la aplicación de las políticas, normas y lineamientos emitidos por el Organismo;
 
@@ -961,7 +963,7 @@ V.- Coordinar los procesos de análisis y evaluación sistemática y periódica 
 
 VI.- Establecer en coordinación con la Dirección General, los planes, programas, lineamientos y criterios generales para la organización administrativa del sistema;
 
-VIl.- Verificar que las políticas, normas y procedimientos establecidos por la Dirección General en materia administrativa, se efectúen de acuerdo a la normatividad vigente;
+VII.- Verificar que las políticas, normas y procedimientos establecidos por la Dirección General en materia administrativa, se efectúen de acuerdo a la normatividad vigente;
 
 VIII.- Planear y organizar los recursos humanos, materiales financieros y técnicos con los que cuenta el Organismo, aplicando y vigilando el cumplimiento de los mecanismos, normas y lineamientos que garanticen su óptimo uso y destino;
 
@@ -1025,7 +1027,7 @@ Al frente de cada Dirección de Área habrá un Director, quien será designado 
 
 Los Directores de Área tendrán las siguientes funciones comunes, así como las especificadas en los Artículos correspondientes a cada Dirección:
 
-l.- Cumplir y hacer cumplir la Ley Estatal de Responsabilidades de los Servidores Públicos;
+I.- Cumplir y hacer cumplir la Ley Estatal de Responsabilidades de los Servidores Públicos;
 
 II.- Acordar con su superior inmediato, el despacho y resolución de los asuntos de su ámbito de competencia;
 
@@ -1119,7 +1121,7 @@ XI.- Las demás que le señale la Subdirección General correspondiente, para da
 
 Las funciones de la Dirección de Protección a la Niñez y Adolescencia de la Subdirección General de Asistencia y Protección Social y Salud Preventiva, serán las siguientes:
 
-l.- Establecer y ejecutar las políticas y lineamientos en materia de atención y prevención de riesgos sociales de la niñez y la adolescencia en situación vulnerable y en circunstancias difíciles;
+I.- Establecer y ejecutar las políticas y lineamientos en materia de atención y prevención de riesgos sociales de la niñez y la adolescencia en situación vulnerable y en circunstancias difíciles;
 
 II.- Realizar de manera coordinada con la Dirección de Investigación e Innovación Institucional, estudios e investigaciones de carácter general y especifico sobre las causas y efectos que enfrenta la niñez y la adolescencia en situación de riesgo;
 
@@ -1199,7 +1201,7 @@ XIV.- Proponer al Subdirector General correspondiente la integración y distribu
 
 XV.- Promover en los Sistemas Municipales para el Desarrollo Integral de la Familia, el establecimiento de centros de espacios de alimentación, encuentro y desarrollo y desayunadores DIF;
 
-XVI.- Mantener permanentemente informado al Subdirector General y al Director General del Organismo de las actividades realizadas; y (sic)
+XVI.- Mantener permanentemente informado al Subdirector General y al Director General del Organismo de las actividades realizadas; y
 
 XVII.- Participar en el diseño y desarrollo de modelos de atención de carácter integral, orientados a incrementar el impacto social que tienen los programas bajo su responsabilidad;
 
@@ -1225,7 +1227,7 @@ XXVI.- Las demás que le señale el Subdirector General.
 
 Las funciones de la Dirección de Desarrollo Humano de la Subdirección General de Asistencia Social y Salud Preventiva, serán las siguientes:
 
-l.- Difundir entre los Sistemas Municipales para el Desarrollo Integral de la Familia los programas bajo su responsabilidad, con base en la normatividad y lineamientos autorizados por los órganos superiores del Organismo;
+I.- Difundir entre los Sistemas Municipales para el Desarrollo Integral de la Familia los programas bajo su responsabilidad, con base en la normatividad y lineamientos autorizados por los órganos superiores del Organismo;
 
 II.- Implementar en los Sistemas Municipales para el Desarrollo Integral de la Familia, los criterios para la identificación y selección de beneficiarios de acciones de desarrollo familiar y comunitario por parte del Organismo e integrar los padrones de beneficiados correspondientes;
 
@@ -1251,11 +1253,11 @@ XI.- Las demás que le señale el Subdirector General.
 
 Las funciones del Director del Centro de Rehabilitación Integral Hidalgo de la Subdirección General de Asistencia, Protección Social y Salud Preventiva, serán las siguientes:
 
-l.- Llevar a cabo las funciones, determinadas para los responsables de establecimientos en los que se presten servicios de atención médica, estipuladas en el Reglamento de la Ley General de Salud;
+I.- Llevar a cabo las funciones, determinadas para los responsables de establecimientos en los que se presten servicios de atención médica, estipuladas en el Reglamento de la Ley General de Salud;
 
 II.- Promover la formación de médicos especialistas, personal paramédico, técnicos y auxiliar, así como actividades de capacitación continua al personal que desarrolla los programas bajo su responsabilidad.
 
-III.- Proponer e instrumentar programas integrales de rehabilitación básica a nivel estatal a través de los Sistemas Municipales para el Desarrollo Integral de la Familia, y llevar a cabo acciones de investigación, enseñanza y capacitación con objeto.de contribuir a la integración social de las personas con discapacidad y demás sujetos de asistencia social en el ámbito de su responsabilidad;
+III.- Proponer e instrumentar programas integrales de rehabilitación básica a nivel estatal a través de los Sistemas Municipales para el Desarrollo Integral de la Familia, y llevar a cabo acciones de investigación, enseñanza y capacitación con objeto de contribuir a la integración social de las personas con discapacidad y demás sujetos de asistencia social en el ámbito de su responsabilidad;
 
 IV.- Implementar, previa autorización de la Dirección General y Subdirección General de Asistencia, Protección Social y Salud Preventiva, programas de investigación médico-comunitario, de crecimiento y desarrollo, epidemiológico y social, para realizar acciones de bienestar social en beneficio de la población discapacitada;
 
@@ -1285,7 +1287,7 @@ XV.- Las demás que le confiera el Subdirector General de Asistencia, Protecció
 
 Las funciones del Director el Hospital del Niño DIF de la Subdirección General de Asistencia, Protección Social y Salud Preventiva, serán las siguientes:
 
-l.- Llevar a cabo las funciones estipuladas en el Reglamento de la Ley General de Salud en materia de prestación de servicios de atención médica, para los responsables de establecimientos en los que se presten dichos servicios;
+I.- Llevar a cabo las funciones estipuladas en el Reglamento de la Ley General de Salud en materia de prestación de servicios de atención médica, para los responsables de establecimientos en los que se presten dichos servicios;
 
 II.- Promover la formación de médicos especialistas, personal paramédico. Técnico y auxiliar, así como actividades de capacitación continua al personal bajo su responsabilidad;
 
@@ -1317,7 +1319,7 @@ XIV.- Las demás que le confiera el Subdirección General de Asistencia, Protecc
 
 Las funciones de la Procuraduría de la Defensa del Menor y la Familias serán las siguientes:
 
-l.- Velar por los intereses de los menores de edad, así como por la integración familiar;
+I.- Velar por los intereses de los menores de edad, así como por la integración familiar;
 
 II.- Proporcionar asesoría jurídica y patrocinar en los juicios en materia de derecho familiar, a los sujetos de asistencia social;
 
@@ -1355,13 +1357,13 @@ XVIII.- Supervisar el cumplimiento del reglamento de convivencias de los menores
 
 XIX.- Mantener permanentemente informado al Subdirector General y al Director General del Organismo de las actividades realizadas;
 
-XX.- Las demás que le señale el Subdirector General y aquellas aplicables en materia de asistencia social y en materia de derecho familiar; y (sic)
+XX.- Las demás que le señale el Subdirector General y aquellas aplicables en materia de asistencia social y en materia de derecho familiar; y
 
 ###### Artículo 74.
 
 Las funciones de la Dirección de Captación de Recursos de la Junta General de Asistencia, serán las siguientes:
 
-l.- Aplicar las políticas de administración de operación y lineamientos autorizados por la Junta General de Gobierno para las unidades comerciales y montepíos que formen parte de la Junta General de Asistencia;
+I.- Aplicar las políticas de administración de operación y lineamientos autorizados por la Junta General de Gobierno para las unidades comerciales y montepíos que formen parte de la Junta General de Asistencia;
 
 II.- Operar los Montepíos de acuerdo a los lineamientos y procedimientos establecidos por el Organismo;
 
@@ -1507,7 +1509,7 @@ IX.- Las demás que le señale la Subdirección General, para dar cumplimiento a
 
 Las funciones de la Dirección de Investigación e Innovación Institucional de la Subdirección General de Planeación, Administración y Finanzas serán las siguientes:
 
-l.- Investigar, diagnosticar, diseñar y realizar estudios que permitan determinar las potencialidades y problemáticas de los grupos vulnerables marginados o en estado de total indefensión, para el desarrollo de programas, proyectos y modelos de atención que contribuyan al desarrollo familiar y humano;
+I.- Investigar, diagnosticar, diseñar y realizar estudios que permitan determinar las potencialidades y problemáticas de los grupos vulnerables marginados o en estado de total indefensión, para el desarrollo de programas, proyectos y modelos de atención que contribuyan al desarrollo familiar y humano;
 
 II.- Diseñar modelos de atención en asistencia social y desarrollo familiar y humano que tengan como objetivo mejorar la calidad y nivel de vida de la población vulnerable;
 
@@ -1664,3 +1666,19 @@ SECRETARIO DE SALUD DEL GOBIERNO DEL ESTADO DE HIDALGO
 LIC. JUAN MANUEL MENES LLAGUNO
 
 SECRETARIO DE CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. DE 29 DE JUNIO DE 2015.
+
+PRIMERO. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Los asuntos pendientes a la entrada en vigor de este Estatuto, que conforme al mismo deban pasar de una Unidad Administrativa a otra, continuarán su trámite y serán resueltos por aquellas a las que se les hayan conferido las funciones correspondientes.
+
+TERCERO. Los aspectos no previstos en este Estatuto, serán resueltos por la Junta de Gobierno del Organismo, conforme a los lineamientos que establezca la Ley de Entidades y el Decreto de Presupuesto de Egresos del Estado del Ejercicio Fiscal que corresponda.
+
+CUARTO. Se abroga el Estatuto Orgánico del Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo, publicado el día 30 de mayo de 2011 en el Periódico Oficial del Estado de Hidalgo, derogándose cualquier otra disposición que se oponga a lo previsto por el presente Estatuto Orgánico.
+
+QUINTO. Los acuerdos, circulares y demás disposiciones emitidas por la o el Titular de la Dirección General del Sistema DIF Hidalgo, antes y durante la autorización de este Estatuto, tendrán plena validez, siempre y cuando no se opongan al mismo.
+
+SEXTO. Se ordena la inscripción del Estatuto en el Registro Público de Organismos Descentralizados, en términos de lo que establece la Secretaría de Finanzas y Administración del Poder Ejecutivo del Estado de Hidalgo.
