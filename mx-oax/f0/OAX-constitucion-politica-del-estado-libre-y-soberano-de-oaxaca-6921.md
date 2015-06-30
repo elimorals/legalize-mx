@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2014-04-12"
+last_updated: "2015-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ÚNICO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DEL 12 DE ABRIL DE 2014, LAS PRESENTES REFORMAS ENTRAN EN VIGOR EL PRIMERO DE MAYO DE 2014.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2015.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -33,63 +31,121 @@ MANUEL GARCIA VIGIL, Gobernador Constitucional del Estado Libre y Soberano de Oa
 
 Que la XXVIII Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, en funciones de Constituyente, de acuerdo con el artículo quinto del Decreto número ciento veinticinco expedido por el ciudadano Primer Jefe del Ejército Constitucionalista, encargado del Poder Ejecutivo de la Unión, el veintisiete de marzo de mil novecientos diecisiete, y con el artículo noventa y uno del decreto número catorce, expedido con fecha treinta de septiembre de mil novecientos veinte por el ciudadano Jesús Acevedo, Gobernador provisional, reforma la Constitución Política del Estado en los términos siguientes:
 
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO DÉCIMO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 30 DE JUNIO DE 2015, LAS REFERENCIAS HECHAS AL INSTITUTO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE OAXACA, SE ENTENDERÁN COMO HECHAS EN SU CARÁCTER DE ORGANISMO PÚBLICO LOCAL EN MATERIA ELECTORAL.</small>
+
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JUNIO DE 2015)</small>
 
-## TITULO PRIMERO. Principios Constitucionales, Garantías y Derechos Humanos
+## TITULO PRIMERO. Principios Constitucionales, Derechos Humanos y sus Garantías
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 1°.
 
-El Estado de Oaxaca es parte integrante de los Estados Unidos Mexicanos y es libre y soberano en todo lo que concierne a su régimen interior.
+El Estado de Oaxaca es multiétnico, pluricultural y multilingüe, parte integrante de los Estados Unidos Mexicanos, libre y soberano en todo lo que concierne a su régimen interior.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+En el Estado todas las personas gozarán de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte y esta Constitución. El poder público garantizará su protección cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que la Constitución Política de los Estados Unidos Mexicanos establece.
 
-En el Estado queda prohibida toda discriminación con motivo del origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, la condición de migrante, las preferencias sexuales, el estado civil o cualquier otra característica que atente contra la dignidad humana y tenga por objeto anular o reducir los derechos y libertades de los individuos.
+La interpretación de las normas relativas a los derechos humanos, se hará conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, favoreciendo en todo tiempo a las personas la protección más amplia. Para el ejercicio de los derechos humanos y las garantías constitucionales no se exigirán condiciones o requisitos que no estén establecidos en la Constitución o la ley. Ninguna norma jurídica podrá restringir los derechos humanos ni sus garantías.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+Las autoridades del Estado, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad, pluriculturalidad y progresividad. El Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezcan las leyes. En el caso de aquellos que se reserve el pueblo de Oaxaca, serán protegidos mediante el Juicio para la Protección de los Derechos Humanos. Todas las autoridades están obligadas a que en sus determinaciones o resoluciones que pronuncien deben de aplicar el control difuso, el control de constitucionalidad y el control de convencionalidad en materia de derechos humanos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 2°.
 
-La Ley es igual para todos. La Constitución General de la República y esta Constitución son la Ley Suprema del Estado.
+La Ley es igual para todos. La Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales en materia de derechos humanos de los que el Estado Mexicano sea parte y esta Constitución son la Ley Suprema del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
 Las facultades que la Constitución Política de los Estados Unidos Mexicanos no otorga expresamente a la federación, se entienden reservadas para el Estado.
 
-El Poder Público y sus Representantes sólo pueden hacer lo que la Ley les autoriza y deben hacer, lo que la Ley les ordena. Los particulares pueden hacer lo que la Ley no les prohibe y deben hacer, lo que la Ley les ordena.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
+El Poder Público y sus Representantes sólo pueden hacer lo que la Ley les autoriza y deben hacer lo que la Ley les ordena. Los particulares pueden hacer lo que la Ley no les prohibe y deben hacer, lo que la Ley les ordena.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 3°.
 
-La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque la moral, los derechos de terceros, provoque algún delito o perturbe el orden público el derecho a la información será garantizado por el Estado.
+La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque la moral, la vida privada o los derechos de terceros, provoque algún delito o perturbe el orden público. El derecho a la información será garantizado por el Estado.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
-En consecuencia, es inviolable la libertad de escribir y publicar escritos sobre cualquier materia. Ninguna ley ni autoridad pueden establecer la previa censura, ni exigir fianza a los autores o impresores, ni coartar la libertad de imprenta, que no tiene más límite que el respeto a la vida privada, a la ley y a la paz pública. En ningún caso podrá secuestrarse la imprenta o cualquier otro medio que haya servido para hacer la impresión, como instrumento del delito.
+En consecuencia, es inviolable la libertad de escribir y publicar escritos sobre cualquier materia. Ninguna ley ni autoridad puede establecer la previa censura, ni exigir fianza a los autores o impresores, ni coartar la libertad de imprenta, que no tiene más límite que el respeto a la vida privada, a la ley y a la paz pública. En ningún caso podrá secuestrarse la imprenta o cualquier otro medio que haya servido para hacer la impresión, como instrumento del delito. El Estado garantizará y facilitará, en el ámbito de su competencia, el ejercicio periodístico de los pueblos y comunidades indígenas y afromexicanas, en cualquier medio de comunicación.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
 
 Las leyes orgánicas dictarán cuantas disposiciones sean necesarias para evitar que so pretexto de las denuncias por delitos de prensa, sean encarcelados los expendedores, voceadores de periódicos, operarios y demás empleados del establecimiento en que se haya impreso el escrito denunciado, a menos que se demuestre previamente la responsabilidad de aquellos.
 
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2007)</small>
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
 
-Para el ejercicio del derecho de acceso a la información, el Estado y los Municipios, en el ámbito de sus respectivas competencias, se regirán por los siguientes principios y bases:
+El derecho de réplica será garantizado por la Ley, mediante la implementación de medios de defensa jurídica en contra de la información falsa o calumniosa que publiquen o difundan los medios de comunicación, ya sean escritos o electrónicos, sobre la difusión de un contenido periodístico determinado.
 
-I. Toda la información en posesión de cualquier autoridad, entidad, órgano del Estado o municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad;
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+Este derecho se ejercerá sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la Ley aplicable.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+Toda persona tiene derecho al libre acceso a información plural y oportuna, así como a buscar, recibir y difundir información e ideas de toda índole por cualquier medio de expresión.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+Es inviolable la libertad de difundir opiniones, información e ideas, a través de cualquier medio. No se puede restringir este derecho por vías o medios indirectos, tales como el abuso de controles oficiales o particulares, de papel para periódicos, de frecuencias radioeléctricas o de enseres y aparatos usados en la difusión de información o por cualesquiera otros medios y tecnologías de la información y comunicación encaminados a impedir la transmisión y circulación de ideas y opiniones.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+Ninguna ley ni autoridad puede establecer la previa censura, ni coartar la libertad de difusión, que no tiene más límites que los previstos en el primer párrafo del artículo 6° de la Constitución Política de los Estados Unidos Mexicanos. En ningún caso podrán secuestrarse los bienes utilizados para la difusión de información, opiniones e ideas, como instrumento del delito.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+No podrán ser encarcelados los expendedores, voceadores de periódicos operarios y demás empleados del establecimiento en que se haya impreso el escrito denunciado, a menos que se demuestre previamente la responsabilidad de aquellos.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+El Estado garantizará y fomentará el derecho de acceso a las tecnologías de la información.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+El Estado garantizará a los pueblos y comunidades indígenas y afromexicanas el derecho a la libertad de expresión y a recibir información pública de oficio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
+
+Para el ejercicio del derecho de acceso a la información, el Estado y los municipios, en el ámbito de sus respectivas competencias, se regirán por los siguientes principios y bases:
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+I. Es publica toda la información en posesión de cualquier autoridad, entidad u organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos del Estado, partidos políticos, fideicomisos y fondos públicos, así como, de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal. Sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional, en los términos que fijen las leyes.
+
+> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2007)</small>
 
 II. La información que se refiere a la vida privada y los datos personales, será protegida en los términos y con las excepciones que fijen las leyes;
 
-III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-IV. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Estos procedimientos se sustanciarán ante órganos u organismos especializados e imparciales, y con autonomía operativa, de gestión y de decisión;
+III. Toda persona tiene derecho a la protección de sus datos personales, al acceso, rectificación y cancelación de los mismos, así como a manifestar su oposición, en los términos que fije la ley, la cual establecerá los supuestos de excepción.
 
-V. Los sujetos obligados, deberán preservar sus documentos en archivos administrativos actualizados y publicarán a través de los medios electrónicos disponibles, la información completa y actualizada sobre sus indicadores de gestión y el ejercicio de los recursos públicos;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-VI. Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales; y
+IV. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos que se sustanciarán ante el órgano garante autónomo especializado e imparcial, a que se refiere el artículo 114, apartado C, de esta Constitución;
 
-VII. La inobservancia a las disposiciones en materia de acceso a la información pública, será sancionada en los términos que dispongan las leyes.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+V. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles en formatos abiertos, accesibles y reutilizables, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+VI. Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+VII. La inobservancia a las disposiciones en materia de acceso a la información pública, será sancionada en los términos que dispongan las leyes, y
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+VIII. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -97,13 +153,13 @@ VII. La inobservancia a las disposiciones en materia de acceso a la información
 
 Nadie debe ser juzgado por leyes privativas ni por tribunales especiales; son necesarias leyes expedidas con anterioridad al hecho y tribunales previamente establecidos por la ley.
 
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
-Todo individuo gozará de las garantías y libertades establecidas en la Constitución y las leyes federales, los tratados internacionales, esta Constitución y las leyes que de ella emanen, sin distinción alguna de su origen, raza, color, sexo, idioma, religión, opinión política, condición o actividad social.
+En el Estado queda prohibida la esclavitud y la discriminación con motivo del origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, la condición de migrante, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o reducir los derechos y libertades de los individuos.
 
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
-Las autoridades del Estado, en su respectiva esfera de atribuciones, tienen el deber de garantizar las condiciones necesarias para que los individuos gocen de los derechos que establece esta Constitución; así como de proteger los que se reserve el pueblo de Oaxaca mediante el juicio de protección de derechos humanos. La violación de los mismos implicará la sanción correspondiente y, en su caso, la reparación del daño, en términos de ley. Está prohibida la pena de muerte.
+Las autoridades del Estado, en su respectiva esfera de atribuciones, tienen el deber de garantizar las condiciones necesarias para que los individuos gocen de los derechos que establece esta Constitución; así como de proteger los que se reserve el pueblo de Oaxaca mediante el juicio de protección de derechos humanos. La violación de los mismos implicará la sanción correspondiente y, en su caso, la reparación del daño, en términos de Ley.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
 
@@ -113,11 +169,15 @@ Nadie podrá ser privado, de la vida, de la libertad o de sus propiedades, poses
 
 En los juicios del orden criminal queda prohibido imponer por simple analogía y aún por mayoría de razón, pena alguna que no esté decretada por una ley exactamente aplicable al delito de que se trate. En los juicios del orden civil, la sentencia definitiva deberá ser conforme a la letra o a la interpretación jurídica de la ley, y a falta de ésta, se fundará en los principios generales del derecho.
 
-> <small>(REFORMADOS PRIMERO Y SEGUNDO PÁRRAFOS [N. DE E. REFORMADO], P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 6°.
 
-En el Estado, jamás se expedirá ley que imponga penas a personas determinadas, que pretenda surtir efecto retroactivo en perjuicio de alguien, que decrete la infamia de un hombre, una familia o una clase, o que establezca la confiscación de bienes o multas excesivas o cualesquiera otras penas inusitadas o trascendentales, entendiéndose por una y otras, las que afecten al patrimonio de familia. Toda pena deberá ser proporcional al delito que sancione y al bien jurídico afectado.
+En el Estado, jamás se expedirá ley que imponga penas a personas determinadas, que pretenda surtir efecto retroactivo en perjuicio de alguien, que decrete la infamia de cualquier persona, de mutilación, marcas, azotes, palos, el tormento de cualquier especie o que establezca la confiscación de bienes o multas excesivas o cualesquiera otras penas inusitadas o trascendentales, entendiéndose por una y otras, las que afecten al patrimonio. Toda pena deberá ser proporcional al delito que sancione y al bien jurídico afectado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
+
+En los decretos que se expidan, no podrá restringirse ni suspenderse el ejercicio de los derechos a la no discriminación, al reconocimiento de la personalidad jurídica, a la vida, a la integridad personal, a la protección a la familia, al nombre, a la nacionalidad, los derechos de la niñez, los derechos políticos, las libertades de pensamiento, conciencia y de profesar creencia religiosa alguna, el principio de legalidad y retroactividad, la prohibición de la pena de muerte, la prohibición de la esclavitud y la servidumbre, la prohibición de la desaparición forzada y la tortura, ni las garantías judiciales indispensables para la protección de tales derechos.
 
 No se considerará confiscación la aplicación de bienes de una persona cuando sea decretada para el pago de multas o impuestos, ni cuando la decrete una autoridad judicial para el pago de responsabilidad civil derivada de la comisión de un delito. Tampoco se considera confiscación el decomiso que ordene la autoridad judicial de los bienes en caso de enriquecimiento ilícito en los términos de esta Constitución, la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables, ni la de aquellos bienes cuyo dominio se declare extinto en sentencia. En el caso de extinción se establecerá un procedimiento que se regirá por las siguientes reglas:
 
@@ -135,21 +195,23 @@ d) Aquellos que estén intitulados a nombre de terceros, pero existan suficiente
 
 III. Toda persona que se considere afectada podrá interponer los recursos respectivos para demostrar la procedencia lícita de los bienes y su actuación de buena fe, así como que estaba impedida para conocer la utilización ilícita de sus bienes.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 7°.
 
-Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de vinculación al proceso en el que se expresará: el delito que se le impute al acusado; el lugar, tiempo y circunstancias de ejecución, así como los datos que establezcan que se ha cometido un hecho que la ley señale como delito y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
+Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas, a partir de que el imputado sea puesto a su disposición, sin que se justifique con un auto de vinculación al proceso en el que se expresará: el delito que se le impute, el lugar, tiempo y circunstancias de ejecución, así como los datos que establezcan que se ha cometido un hecho que la ley señale como delito y que exista la probabilidad de que el imputado lo cometió o participó en su comisión.
 
-Salvo los casos que señale la ley para la prisión preventiva de oficio, el Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso.
+Salvo los casos que señale la ley para la prisión preventiva oficiosa, el Ministerio público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el proceso, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso de la misma naturaleza.
 
-La ley determinará los casos en los cuales el juez podrá revocar la libertad de los individuos vinculados a proceso.
+La Ley determinará los casos en los cuales el juez podrá revocar la libertad de las personas vinculadas a proceso.
 
-El plazo para dictar el auto de vinculación a proceso podrá prorrogarse únicamente a petición del indiciado, en la forma que señale la Ley.
+El plazo para dictar el auto de vinculación a proceso podrá prorrogarse únicamente a petición del imputado o su defensor, en la forma que señala (sic) Ley.
 
-La prolongación de la detención en su perjuicio será sancionada por la ley penal. La autoridad responsable del establecimiento en el que se encuentre internado el indiciado, que dentro del plazo antes señalado no reciba copia autorizada del auto de vinculación a proceso o del que decrete prisión preventiva o de la solicitud de prórroga del plazo constitucional, deberá llamar la atención del juez sobre dicho particular en el acto mismo de concluir el plazo y, si no recibe la constancia mencionada dentro de las tres horas siguientes, pondrá al indiciado en libertad.
+La prolongación de la detención en su perjuicio será sancionada por la ley penal. La autoridad responsable del establecimiento en el que se encuentre internado el imputado, que dentro del plazo antes señalado no reciba copia autorizada del auto de vinculación a proceso o del que decrete prisión preventiva o de la solicitud de prórroga del plazo constitucional, deberá llamar la atención del juez sobre dicho particular en el acto mismo de concluir el plazo y, si no recibe la constancia mencionada dentro de las tres horas siguientes, pondrá al imputado en libertad.
 
-Todo proceso se seguirá forzosamente por el delito o delitos señalados en el auto de vinculación a proceso. Si en la secuela de un proceso apareciera que se ha cometido un delito distinto al que se persigue, deberá ser objeto de consignación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
+Todo proceso se seguirá forzosamente por el hecho o hechos delictivos señalados en el auto de vinculación a proceso. Si en la secuela de un proceso apareciera que se ha cometido un delito distinto al que se persigue, deberá ser objeto de investigación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
+
+Todo mal tratamiento en la aprehensión o en las prisiones, toda molestia que se infiera sin motivo legal, toda gabela o contribución, en las cárceles o centros de reinserción social, son abusos que serán corregidos por las leyes y castigados por las autoridades competentes.
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
@@ -159,7 +221,9 @@ El proceso penal será acusatorio y oral. Se regirá por los principios de publi
 
 A. De los principios generales:
 
-I. El proceso penal tendrá por objeto el esclarecimiento de los hechos, proteger al inocente, procurar que el culpable no quede impune y que los daños causados por el delito se reparen;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+I. El proceso penal tendrá por objeto el esclarecimiento de los hechos, proteger al inocente, resolver el conflicto que surja con motivo de la comisión del delito, sancionar al culpable y que los daños causados por el delito se reparen;
 
 II. Toda audiencia se desarrollará en presencia del juez, sin que pueda delegar en ninguna persona el desahogo y la valoración de las pruebas, la cual deberá realizarse de manera libre y lógica;
 
@@ -171,9 +235,13 @@ V. La carga de la prueba para demostrar la culpabilidad corresponde a la parte a
 
 VI. Ningún juzgador podrá tratar asuntos que estén sujetos a proceso con cualquiera de las partes sin que esté presente la otra, respetando en todo momento el principio de contradicción, salvo las excepciones que establecen esta Constitución o la ley;
 
-VII. Una vez iniciado el proceso penal, siempre y cuando no exista oposición del inculpado, se podrá decretar su terminación anticipada en los supuestos y bajo las modalidades que determine la ley. Si el imputado reconoce ante la autoridad judicial, voluntariamente y con conocimiento de las consecuencias, su participación en el delito y existen medios de convicción suficientes para corroborar la imputación, el juez citará a audiencia de sentencia. La ley establecerá los beneficios que se podrán otorgar al inculpado cuando acepte su responsabilidad;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-VIII. El juez sólo condenará cuando exista convicción más allá de la duda razonable sobre la culpabilidad del procesado;
+VII. Una vez iniciado el proceso penal, siempre y cuando no exista oposición del imputado, se podrá decretar su terminación anticipada en los supuestos y bajo las modalidades que determine la ley. Si el imputado reconoce ante la autoridad judicial, voluntariamente y con conocimiento de las consecuencias, su participación en el hecho o hechos y si existen medios de convicción suficientes para corroborar la imputación, el juez citará a audiencia de sentencia. La ley establecerá los beneficios que se podrán otorgar al imputado cuando acepte su responsabilidad;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+VIII. El juez sólo condenará cuando exista convicción más allá de la duda razonable sobre la culpabilidad del acusado;
 
 IX. Cualquier prueba obtenida con violación de derechos fundamentales será nula, y
 
@@ -181,17 +249,25 @@ X. Los principios previstos en este artículo, se observarán también en las au
 
 B. De los derechos de toda persona imputada:
 
-I. A que se presuma su inocencia mientras no se declare su responsabilidad mediante sentencia emitida por el juez de la causa;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-II. A declarar o a guardar silencio. Desde el momento de su detención se le harán saber los motivos de la misma y su derecho a guardar silencio, el cual no podrá ser utilizado en su perjuicio. Queda prohibida y será sancionada por la ley penal, toda incomunicación, intimidación o tortura. La confesión rendida sin la asistencia del defensor o ante autoridad distinta a la judicial, carecerá de todo valor probatorio;
+I. A que se presuma su inocencia mientras no se declare su responsabilidad mediante sentencia firme;
 
-III. A que se le informe, tanto en el momento de su detención como en su comparecencia ante el Ministerio Público o el juez, los hechos que se le imputan y los derechos que le asisten;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+II. A declarar o a guardar silencio. Desde el momento de su detención se le harán saber los motivos de la misma y su derecho a guardar silencio, el cual no podrá ser utilizado en su perjuicio. Queda prohibida y será sancionada por la ley penal, toda incomunicación, intimidación o tortura. La declaración rendida sin la comunicación previa y asistencia del defensor o ante autoridad distinta del Ministerio Público o del juez, carecerá de todo valor probatorio;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+III. A que se le informe, tanto en el momento de su detención como en su comparecencia ante el Ministerio Público o del juez, los derechos que le asisten, los hechos que se le imputan y los datos de prueba que obren en la investigación;
 
 IV. Se le recibirán los testigos y demás pruebas pertinentes que ofrezca; concediéndosele el tiempo que la ley estime necesario al efecto y auxiliándosele para obtener la comparecencia de las personas cuyo testimonio solicite, en los términos que señale la ley;
 
 V. Será juzgado en audiencia pública por un juez o tribunal. La publicidad sólo podrá restringirse en los casos de excepción que determine la ley, por razones de seguridad nacional, seguridad pública, protección de las víctimas, testigos y menores, cuando se ponga en riesgo la revelación de datos legalmente protegidos, o cuando el tribunal estime que existen razones fundadas para justificarlo;
 
-VI. Le serán facilitados todos los datos, en cualquier tiempo todos los datos que solicite para su defensa y que consten en el proceso.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
+
+VI. Le serán facilitados todos los datos que solicite para su defensa y que consten en el proceso.
 
 El imputado y su defensor tendrán acceso a los registros de la investigación cuando el primero se encuentre detenido y cuando pretenda recibírsele declaración o entrevistarlo. Asimismo, antes de su primera comparecencia ante juez podrán consultar dichos registros, con la oportunidad debida para preparar la defensa. A partir de este momento no podrán mantenerse en reserva las actuaciones de la investigación, salvo los casos excepcionales expresamente señalados en la ley cuando ello sea imprescindible para salvaguardar el éxito de la investigación y siempre que sean oportunamente revelados para no afectar el derecho de defensa;
 
@@ -209,23 +285,37 @@ C. De la víctima o del ofendido:
 
 I. Recibir asesoría jurídica; ser informado de los derechos que en su favor establece la Constitución; y, cuando lo solicite, ser informado del desarrollo del procedimiento penal;
 
-II. Coadyuvar con el Ministerio Público; a que se le reciban todos los datos o elementos de prueba con los que cuente, tanto en la averiguación previa como en el proceso, a que se desahoguen las diligencias correspondientes, y a intervenir en el juicio e interponer los recursos en los términos que prevea la ley;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
+
+II. Coadyuvar con el Ministerio Público; a que se le reciban todos los datos o elementos de prueba con los que cuente, tanto en la investigación como en el proceso, a que se desahoguen las diligencias correspondientes, y a intervenir en el juicio e interponer los recursos en los términos que prevea la ley;
 
 Cuando el Ministerio Público considere que no es necesario el desahogo de la diligencia, deberá fundar y motivar su negativa;
 
 III. Recibir, desde la comisión del delito, atención médica y psicológica de urgencia;
 
-IV. Que se le repare el daño. En los casos en que sea procedente, el Ministerio Público estará obligado a solicitar la reparación del daño y el juzgador no podrá absolver al sentenciado de dicha reparación si ha emitido una sentencia condenatoria.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
+
+IV. Que se le repare el daño. En los casos en que sea procedente, el Ministerio Público estará obligado a solicitar la reparación del daño, sin menoscabo de que la víctima u ofendido lo pueda solicitar directamente y el juzgador no podrá absolver al sentenciado de dicha reparación si ha emitido una sentencia condenatoria.
 
 La Ley fijará procedimientos ágiles para ejecutar las sentencias en materia de reparación del daño;
 
-V. Al resguardo de su identidad y otros datos personales en los siguientes casos: cuando sean menores de edad; cuando se trate de delitos de violación o secuestro; y cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
+
+V. Al resguardo de sus (sic) identidad y otros datos personales en los siguientes casos: cuando sean menores de edad; cuando se trate de delitos de violación, trata de personas o secuestro; y cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa.
 
 El Ministerio Público deberá garantizar la protección de víctimas, ofendidos, testigos y en general todas los sujetos que intervengan en el proceso. Los jueces deberán vigilar el buen cumplimiento de esta obligación;
 
-VI. Solicitar las medidas cautelares y providencias necesarias para la protección y restitución de sus derechos; y
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-VII. Impugnar ante autoridad judicial las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento cuando no esté satisfecha la reparación del daño.
+VI. Solicitar las medidas cautelares y providencias precautorias necesarias para la protección y restitución de sus derechos, y
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+VII. Impugnar ante autoridad judicial las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de archivo temporal, criterios de oportunidad, facultad de abstención, no ejercicio de la acción penal, desistimiento de la acción penal o suspensión del procedimiento cuando no esté satisfecha la reparación del daño.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
+
+Cuando el imputado, víctima u ofendido sea indígena, deberá ser asistido por intérpretes, traductores, peritos y defensores con conocimiento de sus sistemas normativos y especificidades culturales; cuando así corresponda, estos derechos serán garantizados a las personas afromexicanas.
 
 ###### ARTICULO 9°.
 
@@ -253,9 +343,13 @@ El Estado garantizará la existencia de un servicio de defensoría pública de c
 
 A ninguna persona podrá impedirse que se dedique a la profesión, industria, comercio o trabajo que le acomode, siendo lícitos. El ejercicio de esta libertad solo podrá vedarse por determinación judicial, cuando se ataquen los derechos de tercero, o por resolución gubernativa, dictada en los términos que marque la ley, cuando se ofendan los derechos de la sociedad. Nadie puede ser privado del producto de su trabajo, sino por resolución judicial.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
-Ni la Ley, ni las autoridades reconocerán algún pacto, convenio o contrato que menoscabe la libertad del hombre, ya sea por causa de trabajo, de educación o voto religioso; ni los que impliquen renuncia de cualquiera de las garantías individuales o de beneficio de derecho en asuntos en que el Estado debe intervenir, para garantizar los intereses sociales.
+Ni la Ley, ni las autoridades reconocerán algún pacto, convenio o contrato que menoscabe la libertad de cualquier persona, ya sea por causa de trabajo, de educación o voto religioso; ni los que impliquen renuncia de cualquiera de los derechos humanos o de beneficio de derecho en asuntos en que el Estado debe intervenir, para garantizar los intereses sociales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
+
+Queda prohibida la utilización del trabajo de los menores de quince años, los mayores de esta edad y menores de dieciséis, tendrán como jornada máxima la de seis horas.
 
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 1943)</small>
 
@@ -269,9 +363,13 @@ Las autoridades de los municipios y comunidades preservarán el tequio como expr
 
 En el ámbito territorial del Estado Libre y Soberano de Oaxaca, toda persona tiene derecho a la protección de la salud, este implicará la participación de todos los órganos de poder público, para que en la medida de sus competencias hagan funcional este derecho fundamental. La Ley definirá las bases y modalidades para el acceso a los servicios de salud. Establecerá la participación del Gobierno del Estado en materia de salubridad general concurrente, atendiendo a lo dispuesto por la Legislación Sanitaria Federal. Asimismo definirá la competencia del Estado y de los Municipios en materia de salubridad local.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
-En el Estado de Oaxaca se protege y garantiza el derecho a la vida. Todo ser humano desde el momento de la fecundación entra bajo la protección de la ley y se le reputa como nacido para todos los efectos legales hasta su muerte natural. Los habitantes del Estado tienen todas las garantías y libertades consagradas en esta Constitución, sin distinción alguna de su origen, raza, color, sexo, idioma, religión, opinión pública, condición o actividad social.
+En el Estado de Oaxaca se protege y garantiza el derecho a la vida. Todo ser humano desde el momento de la fecundación entra bajo la protección de la ley y se le reputa como nacido para todos los efectos legales hasta su muerte natural. Los habitantes del Estado gozarán de todos los derechos y libertades consagradas en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que el Estado Mexicano forma parte, esta Constitución y las leyes que de ella emanen, sin distinción alguna de su origen, raza, color, sexo o preferencia sexual, edad, idioma, religión, opinión política, condición o actividad social.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
+
+Toda persona tiene derecho a la identidad y a ser registrada inmediatamente después de su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente registrará gratuitamente a todas las personas y expedirá sin costo la primera copia certificada del acta de registro de nacimiento.
 
 > <small>(ADICIONADO, P.O. 26 DE JULIO DE 2008)</small>
 
@@ -285,9 +383,9 @@ El Estado otorgará a los ciudadanos la seguridad indispensable para salvaguarda
 
 Todo hombre y mujer serán sujetos de iguales derechos y obligaciones ante la Ley.
 
-(ADICIONADO, P.O. 26 DE JULIO DE 2008) (F. DE E., P.O. 16 DE AGOSTO DE 2008)
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
-Toda mujer tiene derecho a una vida libre de violencia de género, tanto en el ámbito público como en el privado. En los términos que la ley señale, el Gobierno del Estado y los Gobiernos Municipales se coordinarán para establecer un Sistema Estatal que asegure el acceso de las mujeres a este derecho.
+Toda mujer tiene derecho a una vida libre de violencia por razón de género y condición social, tanto en el ámbito público como en el privado. En los términos que la ley señale, el Poder Ejecutivo del Estado y los Gobiernos Municipales se coordinarán para establecer un Sistema Estatal que asegure el acceso de las mujeres a este derecho.
 
 (REFORMADO, P.O. 26 DE JULIO DE 2008) (F. DE E., P.O. 16 DE AGOSTO DE 2008)
 
@@ -321,6 +419,10 @@ Es deber de los padres preservar el derecho de los menores a la satisfacción de
 
 El Estado impulsará la organización de la juventud, su actividad deportiva y su formación cultural.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
+
+A los jóvenes de entre quince y veintinueve años, el Estado garantizara su inclusión en políticas públicas, programas, servicios y acciones en congruencia con su edad, indistintamente de su género, su estado civil, origen étnico, circunstancia social o de salud, religión o cualquier otra.
+
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
 Asimismo, promoverá la organización de las mujeres para sus actividades productivas.
@@ -329,9 +431,9 @@ Asimismo, promoverá la organización de las mujeres para sus actividades produc
 
 Es obligación del hombre y de la mujer asumir su paternidad o maternidad responsable con todos y cada uno de los hijos que procreen.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
-El niño tiene derecho a la vida sana, a la salud, a la alimentación, a la educación, a la diversión, y a llevar una vida digna en el seno de la familia. El Estado deberá procurar su buena formación. Asimismo, expedirá leyes y normas para garantizar los derechos del niño y evitar los malos tratos.
+Los niños y las niñas, adolescentes y jóvenes, tienen derecho a la vida sana, a la integridad física y emocional, a la identidad, a la protección integral, a una vida libre de violencia, a la salud, a la alimentación, a la educación, a la diversión y a llevar una vida digna e intercultural, con perspectiva de género, en condiciones de no discriminación, no subordinación y trato igualitario. El Estado velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Asimismo, expedirá leyes y normas para garantizar los derechos de las niñas, niños y adolescentes, para satisfacer sus necesidades y evitar la violencia, su explotación y trata.
 
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -339,7 +441,9 @@ El menor de edad tiene derecho:
 
 a).- A conocer a sus padres y ser respetado en su integridad física y psíquica por parte de ellos y de la sociedad;
 
-b).- A que se le proporcione alimentación, a la educación básica y a la especial, en los casos que se requiera;
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+b).- A qué se le proporcione alimentación, a la educación básica, media superior y a la especial, en los casos que se requiera, procurando que ésta sea bilingüe en los pueblos y comunidades indígenas, a efecto de preservar la lengua materna de su localidad.
 
 c).- A que se le proteja con medidas de seguridad o que garantice, en su caso, su readaptación social;
 
@@ -347,9 +451,9 @@ d).- A no ser explotado en el trabajo;
 
 e).- A no ser separado del hogar, sino en los casos excepcionales que las leyes secundarias determinen.
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
-Los ancianos tienen derecho a un albergue decoroso e higiénico y a la atención y cuidado de su salud, alimentación y debido esparcimiento por parte de sus familiares.
+Las personas adultas mayores tienen derecho a un albergue decoroso e higiénico y a la atención y cuidado de su salud, alimentación y debido esparcimiento por parte de sus familiares en los términos establecidos en la Ley. Se atenderán los derechos y necesidades específicas de las personas adultas mayores en el contexto con los pueblos y comunidades indígenas y afromexicanas. En los casos en que sus familias no puedan hacerse cargo de ellos el Estado procurará albergues decorosos e higiénicos para su atención.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
 
@@ -359,23 +463,37 @@ El Estado promoverá lo necesario para que la población tenga acceso a una vivi
 
 Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios culturales. El Estado garantizará su cumplimiento y promoverá el derecho a la creación y formación artística; la diversidad cultural de los individuos, comunidades y pueblos; la vinculación entre cultura y desarrollo sustentable; y la difusión y protección del patrimonio cultural, fomentando la participación social.
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
 
-Toda persona dentro del Territorio del Estado, tiene derecho a vivir en un medio ambiente adecuado para su desarrollo, salud y bienestar.
+Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
+
+El Estado brindara asistencia integral a los migrantes y a sus familias, fortaleciendo las diversas manifestaciones de identidad cultural de la población indígena y afromexicana migrante en los lugares de destino, con acciones que fortalezcan la vinculación familiar y comunitaria de la población migrante, para erradicar la discriminación motivada por condición migratoria.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+Toda persona dentro del territorio del Estado, tiene derecho a vivir en un medio ambiente sano para su desarrollo, salud y bienestar. El daño y deterioro ambiental generará responsabilidad para quien lo provoque en términos de lo dispuesto por las leyes.
 
 ###### ARTICULO 13.
 
 Ninguna ley ni autoridad podrá limitar el derecho de petición, con tal que ésta se formule por escrito, de manera pacífica y respetuosa. En asuntos políticos, sólo podrán ejercerlo los ciudadanos de la República. La autoridad a quien se dirija la petición tiene la obligación de contestarla por escrito en el término de diez días, cuando la ley no fije otro, y hacer llegar desde luego su respuesta al peticionario.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 14.
 
-Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente que funde y motive la causa legal del procedimiento. No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia o querella de un hecho que la ley señale corno delito, sancionado con pena privativa de libertad y obren datos que establezcan que se ha cometido ese hecho y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión. La autoridad que ejecute una orden judicial de aprehensión, deberá poner al inculpado a disposición del Juez, sin dilación alguna y bajo su más estricta responsabilidad. La contravención a lo anterior será sancionada por la ley penal. Cualquier persona puede detener al indiciado en el momento en que esté cometiendo un delito o inmediatamente después de haberlo cometido, poniéndolo sin demora a disposición de la autoridad más cercana y ésta con la misma prontitud, a la del Ministerio Público. Existirá un registro inmediato de la detención. Sólo en casos urgentes, cuando se trate de delito grave así calificado por la ley y ante el riesgo fundado de que el inculpado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público podrá tomar bajo su más estricta responsabilidad, ordenar la detención de un acusado, fundando y expresando los indicios que motiven su proceder. En caso de urgencia o flagrancia, el juez que recibe la consignación del detenido deberá inmediatamente ratificar la detención o decretar la libertad con las reservas de ley.
+Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente que funde y motive la causa legal del procedimiento. No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia o querella de un hecho que la ley señale como delito, sancionado con pena privativa de libertad y obren datos que establezcan que se ha cometido ese hecho y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión. La audiencia para orden de aprehensión, que por cualquier medio solicite el Ministerio Público, se resolverá dentro de un plazo máximo de veinticuatro horas siguientes de recibida la solicitud, en la que se emitirá resolución. La autoridad que ejecute una orden judicial de aprehensión, deberá poner al inculpado a disposición del Juez, sin dilación alguna y bajo su más estricta responsabilidad. La contravención a lo anterior será sancionada por la ley penal. Cualquier persona puede detener al indiciado en el momento en que esté cometiendo un delito o inmediatamente después de haberlo cometido, poniéndolo sin demora a disposición de la autoridad más cercana y ésta con la misma prontitud, a la del Ministerio Público. Existirá un registro inmediato de la detención. Sólo en casos urgentes, cuando se trate de delito grave así calificado por la ley y ante el riesgo fundado de que el inculpado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público podrá tomar bajo su más estricta responsabilidad, ordenar la detención de un acusado, fundando y expresando los indicios que motiven su proceder. En caso de urgencia o flagrancia, el juez que recibe la consignación del detenido deberá inmediatamente ratificar la detención o decretar la libertad con las reservas de ley.
 
-Ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponerse a disposición de la autoridad judicial. Todo abuso a lo anteriormente dispuesto será sancionado por la ley penal.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+Ningún imputado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponerse a disposición de la autoridad judicial. Todo abuso a lo anteriormente dispuesto será sancionado por la ley penal.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
 En toda orden de cateo, que sólo la autoridad judicial podrá expedir a solicitud del Ministerio Público, se expresará el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos que se buscan; a lo que únicamente debe limitarse la diligencia, levantándose al concluirla, una acta circunstanciada en presencia de dos testigos propuestos por el ocupante del lugar cateado, o en su ausencia o negativa, por la autoridad que practique la diligencia.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
 El Poder Judicial contará con jueces de garantías que resolverán, en forma inmediata, y por cualquier medio, las solicitudes de medidas cautelares, providencias precautorias y técnicas de investigación de la autoridad, que requieran control judicial, garantizando los derechos de los indiciados y de las víctimas u ofendidos. Deberá existir un registro fehaciente de todas las comunicaciones entre jueces y Ministerio Público y demás autoridades competentes.
 
@@ -429,9 +547,9 @@ Todo rigor o maltratamiento usado en la aprehensión, en la detención o en las 
 
 La autoridad administrativa sólo podrá decretarla respecto de quienes estén a su disposición, previa la libre gestión del preso, hecha por escrito y firmada por sus defensores, familiares o ante testigos que no sean empleados públicos. La autoridad respectiva será estrictamente responsable de todo perjuicio que el preso sufra por causa originada directamente por la extracción. "En ningún otro caso podrá disponerse de la persona de los reos".
 
-> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
-El sistema penitenciario se organizará sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
+El sistema penitenciario se organizará sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
 
 > <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
@@ -449,9 +567,9 @@ Los reglamentos para la portación de armas se sujetarán a la Ley Federal.
 
 No se podrá coartar el derecho de asociarse o reunirse pacíficamente con cualquier objeto lícito; pero solamente los ciudadanos de la República podrán hacerlo para tomar parte en los asuntos políticos del país. Ninguna reunión armada tiene derecho de deliberar.
 
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
-Todo hombre es libre para profesar la creencia religiosa que más le agrade y para practicar las ceremonias, devociones o actos del culto respectivo, siempre que no constituyan un delito o falta penados por la ley. Los actos religiosos de culto público se celebrarán ordinariamente en los templos. Los que extraordinariamente se celebren fuera de éstos se sujetarán a la ley reglamentaria.
+Toda persona es libre para profesar la creencia religiosa que más le agrade y para practicar las ceremonias, devociones o actos del culto respectivo, siempre que no constituyan un delito o falta penados por la ley. Los actos religiosos de culto público se celebrarán ordinariamente en los templos. Los que extraordinariamente se celebren fuera de éstos se sujetarán a la ley reglamentaria. Nadie podrá utilizar actos públicos de expresión de esta libertad con fines políticos, de proselitismo electoral o de propaganda política o electoral.
 
 Los ministros de los cultos nunca podrán, en una reunión pública o privada constituida en junta, ni en actos del culto o de propaganda religiosa, hacer crítica de las leyes fundamentales del país, de las autoridades, en particular, o en general, del Gobierno.
 
@@ -541,7 +659,7 @@ d) Se determinará la participación de la comunidad que coadyuvará, entre otro
 
 e) Los fondos de ayuda aportado por la Federación al Estado y Municipios deberá (sic) ser destinados exclusivamente a estos fines.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
+(REUBICADO, P.O. 30 DE JUNIO DE 2015)
 
 ###### ARTICULO 22.
 
@@ -555,13 +673,19 @@ II. Inscribirse en el padrón de la localidad en que residan, manifestando la pr
 
 III. Contribuir para los gastos públicos de la Federación, del Estado y del Municipio, de la manera proporcional y equitativa que dispongan las leyes.
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1958)</small>
+IV. (DEROGADA, P.O. 30 DE JUNIO DE 2015)
 
-IV. Cooperar en la Campaña de Alfabetización.
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+V. Tratándose de los pueblos y comunidades indígenas, cumplir con las obligaciones, contribuciones y los cargos que la comunidad les señale conforme a los sistemas normativos indígenas.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JUNIO DE 2015)</small>
+
+## TITULO SEGUNDO
+
+De los Ciudadanos, de las Elecciones, de los Partidos Políticos, de los Mecanismos de la Participación Ciudadana, de los Medios de Impugnación y de los Candidatos Independientes
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 1990)</small>
-
-## TITULO SEGUNDO. De los Ciudadanos, de las Elecciones, de los Partidos Políticos, de los Organismos y de los Procesos Electorales
 
 ###### ARTICULO 23.
 
@@ -605,9 +729,9 @@ Son prerrogativas de los ciudadanos del Estado:
 
 I.- Votar en las elecciones populares y participar en los procesos de plebiscito, referéndum, revocación de mandato, audiencia pública, cabildo en sesión abierta, consejos consultivos y en los que establezcan las leyes.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 17 DE NOVIEMBRE DE 1956)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-II.- Ser votados para los cargos de elección popular y ser promovidos a cualquier empleo o comisión conforme a las leyes.
+II.- Ser votados para los cargos de elección popular, como candidatos independientes o por los partidos políticos, de conformidad con las disposiciones normativas aplicables;
 
 > <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 1997)</small>
 
@@ -617,9 +741,25 @@ III.- Asociarse individual y libremente para tomar parte en forma pacífica en l
 
 IV.- Alistarse en la guardia nacional para la defensa del territorio y de las instituciones de la República y del Estado, en los términos que prescriben las leyes.
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-V.- Colaborar voluntariamente en los trabajos colectivos gratuitos para beneficio de la comunidad a la que pertenecen como solidaridad moral a este fin, así como en caso de catástrofes, terremotos, inundaciones, incendios y otras causas consideradas de fuerza mayor.
+V.- Colaborar voluntariamente en los trabajos colectivos gratuitos para beneficio de la comunidad a la que pertenecen como solidaridad moral a este fin, así como en caso de catástrofes, terremotos, inundaciones, incendios y otras causas consideradas de fuerza mayor;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+VI.- Ser promovidos a cualquier empleo, cargo o comisión;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+VII.- Presentar iniciativas de Ley, en los términos y con los requisitos que señalen esta Constitución y la Ley de la materia;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+VIII.- Ser observador en los procesos electorales y en los mecanismos de participación ciudadana, de conformidad con las leyes;
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+Los ciudadanos oaxaqueños residentes en el extranjero tienen derecho a votar en la elección del Gobernador del Estado, de acuerdo al procedimiento establecido en la Ley;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -631,113 +771,175 @@ El sistema electoral y de participación ciudadana del Estado se regirá por las
 
 A. DE LAS ELECCIONES
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
-Los procesos electorales y de participación ciudadana son actos de interés público. Su organización, desarrollo y calificación estarán a cargo del órgano electoral, las instancias jurisdiccionales competentes y de la ciudadanía en la forma y términos que establezcan las leyes.
+Los procesos electorales y de participación ciudadana son actos de interés público.
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
 
-I.- Las elecciones ordinarias de Diputados Locales, Gobernador del Estado y de los integrantes de los ayuntamientos por el régimen de partidos políticos, se celebrarán el primer domingo de julio del año que corresponda;
+La organización, desarrollo, vigilancia y calificación de las elecciones es una función estatal que se realiza por el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca y el Instituto Nacional Electoral, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Instituciones y Procedimientos Electorales, la Ley General de Partidos Políticos, esta Constitución y la legislación aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
 
-II.- La ley protegerá y propiciará las prácticas democráticas en todas las comunidades indígenas y afromexicanas del Estado de Oaxaca, para la elección de sus Ayuntamientos, en los términos establecidos por el artículo 2°. Apartado A, fracciones III y VII de la Constitución Política de los Estados Unidos Mexicanos y 16 de la Constitución Política del Estado Libre y Soberano de Oaxaca; establecerá los mecanismos para garantizar la plena y total participación de la mujer en dichos procesos electorales y el ejercicio de su derecho a votar y ser votada en condiciones de igualdad con el de los varones y sancionará su contravención.
+En el ejercicio de la función electoral, a cargo de las autoridades electorales, serán principios rectores los de certeza, imparcialidad, independencia, legalidad, interculturalidad, máxima publicidad y objetividad.
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+I. Las elecciones de Gobernador del Estado, Diputados Locales y de los Ayuntamientos por el régimen de partidos políticos y de candidatos independientes, se celebraran mediante sufragio universal, efectivo, libre, secreto y directo, el primer domingo de junio del año que corresponda.
+
+Las elecciones extraordinarias se celebraran en la fecha que señale la autoridad electoral;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
+
+II. La Ley protegerá y promoverá las instituciones y prácticas democráticas en todas las comunidades indígenas y afromexicanas del Estado de Oaxaca, para la elección de sus Ayuntamientos, en los términos establecidos por el artículo 2° Apartado A, fracciones III y VII de la Constitución Política de los Estados Unidos Mexicanos y 16 de la Constitución Política del Estado Libre y Soberano de Oaxaca, establecerá los mecanismos para garantizar la plena y total participación de la mujer en dichos procesos electorales y el ejercicio de su derecho a votar y ser votada en condiciones de igualdad y sancionará su contravención.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
 
 Las mujeres disfrutarán y ejercerán su derecho a votar y ser votadas en condiciones de igualdad con los varones; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electas o designadas.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
-En ningún caso las prácticas comunitarias podrán limitar los derechos políticos y electorales de los y las ciudadanas oaxaqueñas. Corresponderá al Instituto Estatal Electoral y de Participación Ciudadana y al Tribunal Estatal Electoral garantizar el cumplimiento efectivo de la universalidad del sufragio, en los términos que marque la ley.
+En ningún caso las instituciones y prácticas comunitarias podrán limitar los derechos políticos y electorales de los y las ciudadanas oaxaqueñas. Corresponderá al Instituto Estatal Electoral y de Participación Ciudadana y al Tribunal Estatal Electoral de Oaxaca garantizar el cumplimiento efectivo de la universalidad del sufragio, en los términos que marque la Ley.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
 
-Todas las ciudadanas y ciudadanos del Estado tienen derecho a no ser discriminados en la elección de las autoridades municipales. Los usos y costumbres de las comunidades no deben ser contrarios a los derechos fundamentales establecidos en la presente Constitución, en los tratados internacionales ratificados por el Estado Mexicano y en la Constitución Política de los Estados Unidos Mexicanos.
+Se garantizará el cumplimiento efectivo de la igualdad de derechos, la libre determinación de los pueblos y la voluntad expresada en las asambleas comunitarias en los términos establecidos en sus sistemas normativos, así como los principios y derechos contenidos en la Constitución política de los Estados Unidos Mexicanos, los tratados internacionales y esta Constitución.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+Las y los ciudadanos del Estado tienen derecho a no ser discriminados en la elección de las autoridades municipales. Los sistemas normativos indígenas de las comunidades no deben ser contrarios a los derechos fundamentales establecidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales ratificados por el Estado Mexicano y en esta Constitución.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
 
 La contravención a estos derechos, será sancionada en los términos de la legislación electoral.
 
-III.- La ley tipificará los delitos y determinará las faltas en materia electoral, así como las sanciones que deban imponerse;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+III. La comisión de delitos electorales será sancionada conforme a la Ley General de Delitos Electorales y demás disposiciones normativas.
 
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
 
-IV.- La ley regulará la forma y términos en que se realicen el plebiscito, referéndum, revocación de mandato, audiencia pública, cabildo en sesión abierta, consejos consultivos ciudadanos y demás instrumentos de consulta que establezcan esta Constitución y las leyes;
+IV. La ley regulará la forma y términos en que se realicen el plebiscito, referéndum, revocación de mandato, audiencia pública, cabildo en sesión abierta, consejos consultivos ciudadanos y demás instrumentos de consulta que establezcan esta Constitución y las leyes;
 
-V.- Las mesas directivas de casilla estarán integradas por ciudadanos, en los términos previstos por la ley.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+V. Las mesas directivas de casilla estarán integradas por ciudadanos, en los términos previstos por la Constitución Política de los Estados Unidos Mexicanos, esta Constitución Política, la Ley General de Instituciones y Procedimientos Electorales y la legislación aplicable.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE JUNIO DE 2015)</small>
+
+VI. La Ley establecerá las reglas de los procedimientos sancionadores, tomando en cuenta lo previsto en la Ley General de Instituciones y Procedimientos Electorales.
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
 
 B. DE LOS PARTIDOS POLITICOS
 
-Los partidos políticos son entidades de interés público que tienen como fin promover la vida democrática, contribuir a la integración de la representación popular y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulen, mediante el sufragio universal, libre, secreto y directo. Su participación en los procesos electorales estará determinada y garantizada por la ley.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+Los partidos políticos son entidades de interés público que tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política, hacer posible el acceso de las ciudadanas y ciudadanos al ejercicio del poder público en condiciones de igualdad, garantizando la paridad de género, de acuerdo con los programas, principios e ideas que postulen, mediante el sufragio universal, libre, secreto y directo. Su participación en los procesos electorales estará determinada y garantizada por la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, la Ley General de Instituciones y Procedimientos Electorales y por la Ley General de Partidos Políticos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
+
+Los partidos políticos tienen derecho a participar en las elecciones estatales y municipales, y a solicitar el registro de candidatas y candidatos de manera paritaria a cargos de elección popular por el principio de mayoría relativa y de representación proporcional.
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+I. Solo las y los ciudadanos podrán formar partidos políticos o afiliarse libre e individualmente a estos, sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. Asimismo, a los Partidos Políticos se les reconoce el derecho para solicitar el registro de candidatos a cargos de elección popular, con excepción de lo dispuesto en el artículo 2, apartado A, fracciones III y VII de la Constitución Política de los Estados Unidos Mexicanos.
+
+Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen la Ley General de Partidos Políticos y la legislación correspondiente;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
+
+II. Los partidos políticos recibirán el financiamiento público para el sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico, en los términos de la Legislación correspondiente.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+No tendrán derecho al financiamiento público los partidos políticos que hubieren perdido su registro, así como los partidos políticos nacionales que no alcancen por lo menos el tres por ciento de la votación valida emitida en el proceso electoral anterior.
+
+(NOTA: EL 5 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, TEMAS 1, 3 Y 4, ASÍ COMO EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 53/2015 Y SUS ACUMULADAS 57/2015, 59/2015, 61/2015, 62/2015 Y 63/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE LA FRACCIÓN II DEL APARTADO B DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+LOS PARTIDOS POLÍTICOS LOCALES CON REGISTRO ESTATAL Y RECONOCIMIENTO INDÍGENA MANTENDRÁN VIGENTES SUS DERECHOS Y PRERROGATIVAS CONFORME A ESTA CONSTITUCIÓN POLÍTICA, SIEMPRE Y CUANDO ALCANCEN POR LO MENOS EL DOS POR CIENTO DE LA VOTACIÓN VALIDA EMITIDA EN LA ELECCIÓN DE DIPUTADAS Y DIPUTADOS AL CONGRESO DEL ESTADO.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+El Consejo General del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, determinará los topes de gastos de precampaña por precandidata o precandidato y tipo de elección para la que pretenda ser postulado. El tope será equivalente al veinte por ciento del establecido para las campañas inmediatas anteriores, según la elección de que se trate;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+III. Los partidos políticos registrarán fórmulas completas de candidatas y candidatos a diputados según los principios de mayoría relativa y de representación proporcional garantizando la paridad de género. Cada una de las formulas estará compuesta por una persona propietaria y una suplente, ambas del mismo sexo;
 
 > <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
 
-I.- Solo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos, sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. Asimismo, a los Partidos Políticos se les reconoce el derecho exclusivo para solicitar el registro de candidatos a cargos de elección popular, con excepción de lo dispuesto en el artículo 2o. Apartado A, fracciones III y VII, de la Constitución Federal.
+IV. La ley establecerá las reglas a las que se sujetará el financiamiento.
 
-Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señale la Ley;
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+Para efecto de los tiempos de acceso a radio y televisión que correspondan a los partidos políticos nacionales, locales, y a los candidatos independientes, en las estaciones de radio y canales de televisión de cobertura en la entidad, se estará a la asignación que realice el Instituto Nacional Electoral, en los términos establecidos en el artículo 41, Base III, Apartado B, de la Constitución Política de los Estados Unidos Mexicanos y la legislación aplicable;
 
-II.- Los partidos políticos recibirán en forma equitativa financiamiento público para el sostenimiento de sus actividades ordinarias permanentes, la organización de los procesos internos de selección de candidatas y candidatos y las tendientes a la obtención del voto durante los procesos electorales.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
-No tendrán derecho al financiamiento público los partidos políticos que hubieren perdido su registro, así como los partidos políticos nacionales que no alcancen por lo menos el 1.5 por ciento de la votación en la elección de Diputadas y Diputados al Congreso del Estado por el principio de mayoría relativa.
+V. Los partidos políticos y los candidatos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
 
-El Consejo General del Instituto Estatal Electoral de Oaxaca, determinará los topes de gastos de precampaña por precandidata o precandidato y tipo de elección para la que pretenda ser postulado. El tope será equivalente al veinte por ciento del establecido para las campañas inmediatas anteriores, según la elección de que se trate;
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
-III.- Los partidos políticos registrarán fórmulas completas de candidatos a diputados según los principios de mayoría relativa y de representación proporcional. La ley establecerá los medios para garantizar una efectiva equidad de género e impedir la discriminación;
-
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
-
-IV.- La ley establecerá las reglas a las que se sujetará el financiamiento.
-
-Para los fines electorales en la Entidad, el Instituto Federal Electoral asignará los tiempos de acceso que correspondan a los partidos políticos nacionales y locales en las estaciones de radio y canales de televisión de cobertura en la entidad, en los términos establecidos en el artículo 41 Base III Apartado B de la Constitución Federal y la Ley;
-
-> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2008)</small>
-
-V.- Los partidos políticos en ningún momento podrán contratar o adquirir, por si o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
-
-Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular.
+Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar o adquirir propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular.
 
 Queda prohibida la transmisión en territorio estatal de mensajes contratados en otras Entidades Federativas o en el extranjero;
 
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+VI. En la propaganda política o electoral que difundan los partidos y candidatos deberán abstenerse de expresiones que calumnien a las personas;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+VII. Durante el tiempo que comprendan las campañas electorales locales y hasta la conclusión de la jornada electoral, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental de los poderes federales, estatales, municipios y de cualquier otro ente público. Las únicas excepciones, son las previstas en el artículo 41, Base III, Apartado C, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+La Ley sancionará las infracciones a lo establecido en esta disposición.
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+VIII. La Ley señalará y fijará las reglas para las precampañas y las campañas electorales de partidos políticos y candidatos, así como las sanciones para quienes las infrinjan y, fijará los criterios para establecer los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones de sus militantes y simpatizantes, cuya suma total, no excederá el diez por ciento del tope de gastos de campaña determinado para la última elección de Gobernador.
+
+Los procedimientos para el control, fiscalización y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos y las sanciones que se establezcan por el incumplimiento estarán a cargo del Instituto Nacional Electoral, conforme a lo establecido en la Ley General de Partidos Políticos y la Ley General de Instituciones y Procedimientos Electorales;
+
 > <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2008)</small>
 
-VI.- En la propaganda política o electoral que difundan los partidos deberán abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas;
-
-> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2008)</small>
-
-VII.- Durante el tiempo que comprendan las campañas electorales locales y hasta la conclusión de la jornada electoral, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental de los poderes federales y estatales, los municipios y de cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
-
-La Ley sancionará las infracciones a lo dispuesto en esta disposición;
-
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
-
-VIII.- La ley fijará los criterios para establecer los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones de sus simpatizantes, cuya suma total, no excederá el diez por ciento del tope de gastos de campaña determinado para la última elección de Gobernador; los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos; y establezcan las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias;
-
-> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2008)</small>
-
-IX.- La Ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos políticos que pierdan su registro y los supuestos en los que sus bienes y remanentes sean adjudicados al patrimonio estatal;
+IX. La Ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos políticos que pierdan su registro y los supuestos en los que sus bienes y remanentes sean adjudicados al patrimonio estatal;
 
 > <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
 
-X.- El periodo de campaña electoral para Gobernadora o Gobernador, tendrá una duración de sesenta días, para Diputadas y Diputados cuarenta días y para Concejales Municipales por el régimen de partidos políticos treinta días;
+X. El periodo de campaña electoral para Gobernadora o Gobernador, tendrá una duración de sesenta días, para Diputadas y Diputados cuarenta días y para Concejales Municipales por el régimen de partidos políticos treinta días;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-XI.- Las precampañas de los partidos políticos para la selección de precandidatos, en ningún caso podrán durar más de las dos terceras partes de las respectivas campañas electorales;
+XI. En ningún caso las precampañas excederán las dos terceras partes del tiempo previsto para las campañas electorales;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-XII.- Se prohíbe el uso de propaganda electoral que impacte negativamente al medio ambiente.
+XII. Se prohíbe el uso de propaganda electoral que impacte negativamente al medio ambiente. Las modalidades para el uso de la propaganda electoral, serán reguladas por las leyes. Las leyes respectivas sancionarán la contravención a las disposiciones contenidas en este artículo.
 
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE JUNIO DE 2015)</small>
 
-Las modalidades para el uso de la propaganda electoral, serán reguladas por las leyes.
+XIII. Todo partido político que alcance por lo menos el tres por ciento de la votación válida emitida para la lista de candidatos plurinominales, tendrá derecho a que le sean atribuidos diputados según el principio de representación proporcional;
 
-Las leyes respectivas sancionarán la contravención a las disposiciones contenidas en este artículo.
+(NOTA: EL 5 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, TEMAS 1, 3 Y 4, ASÍ COMO EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 53/2015 Y SUS ACUMULADAS 57/2015, 59/2015, 61/2015, 62/2015 Y 63/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIV DEL APARTADO B DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE JUNIO DE 2015)</small>
+
+XIV. EL PARTIDO POLÍTICO LOCAL CON REGISTRO ESTATAL Y RECONOCIMIENTO INDÍGENA QUE NO OBTENGA, AL MENOS, EL DOS POR CIENTO DE LA VOTACIÓN VÁLIDA EMITIDA EN CUALQUIERA DE LAS ELECCIONES QUE SE CELEBREN PARA LA RENOVACIÓN DEL PODER EJECUTIVO O LEGISLATIVO, LE SERÁ CANCELADO SU REGISTRO.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE JUNIO DE 2015)</small>
+
+XV. Es derecho de los partidos políticos locales con registro estatal solicitar al Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, con cargo a sus prerrogativas y en los términos previstos por la legislación correspondiente, la organización de las elecciones de sus dirigentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE JUNIO DE 2015)</small>
+
+XVI. Es derecho de los partidos políticos participar en las elecciones, a través de coaliciones totales, parciales o flexibles y por medio de candidaturas comunes, conforme a lo establecido en la Ley General de Partidos Políticos y la Ley;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
+
+Los partidos políticos deberán respetar los sistemas electorales de los pueblos y comunidades indígenas para la elección de sus autoridades o representantes, en términos del artículo 2 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -859,15 +1061,29 @@ La ley determinará los casos en los que la integración de un consejo consultiv
 
 D. DE LOS MEDIOS DE IMPUGNACION
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
-La ley establecerá un sistema de medios de impugnación para que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad. Así mismo se señalarán los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales y parciales de votación.
+La ley establecerá un sistema de medios de impugnación para que todos los actos y resoluciones de las autoridades electorales, se sujeten invariablemente a los principios de constitucionalidad, convencionalidad y de legalidad. Así mismo, se señalarán los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación.
 
 > <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2008)</small>
 
 En materia electoral la interposición de los medios de impugnación, no producirá efectos suspensivos sobre la resolución o el acto impugnado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
+
+En la substanciación y resolución de los medios de impugnación, las autoridades competentes respetarán los sistemas políticos electorales de los pueblos y comunidades indígenas y afromexicanas, conforme a sus instituciones, resoluciones y prácticas democráticas, mediante una interpretación progresiva en el marco del pluralismo jurídico.
+
 E. (DEROGADO P.O. 15 DE ABRIL DE 2011)
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+F. DE LOS CANDIDATOS INDEPENDIENTES
+
+Las y los ciudadanos tendrán derecho de solicitar su registro como candidatos independientes a los cargos de elección popular únicamente por el principio de mayoría relativa.
+
+Se garantizará el derecho de los candidatos independientes al financiamiento público y al acceso a la radio y televisión, en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos y en las leyes aplicables.
+
+Los pueblos y comunidades indígenas y afromexicanas podrán postular candidatas y candidatos independientes pertenecientes a dichos pueblos atendiendo a sus especificidades culturales y mecanismos democráticos propios.
 
 ## TITULO TERCERO. Del Estado, su soberanía y territorio
 
@@ -961,19 +1177,19 @@ El Territorio del Estado de Oaxaca, geográficamente se conforma por ocho region
 
 ### CAPITULO I. De la Forma de Gobierno y División de Poderes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 29.
 
-El Estado adopta para su régimen Interior la forma de gobierno republicano, representativo, laico y popular, teniendo como base de su organización política y administrativa, el Municipio Libre.
+El Estado adopta para su régimen interior la forma de gobierno republicano, representativo, democrático, laico, popular y multicultural, teniendo como base de su organización política y administrativa, el Municipio Libre.
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
+La elección de los ayuntamientos se hará mediante el sufragio universal, libre, secreto y directo. En los municipios con comunidades que se rigen por los sistemas normativos indígenas se observara lo dispuesto por el artículo 25 apartado A, fracción II de esta constitución y la legislación reglamentaria. No habrá autoridad intermedia entre estos y el Gobierno del Estado.
 
-La elección de los ayuntamientos se hará mediante el sufragio universal, libre, secreto y directo. En los municipios con comunidades que se rigen por el sistema de usos y costumbres, se observará lo dispuesto por el artículo 25, apartado A, fracción II, de esta Constitución y la legislación reglamentaria. No habrá autoridad intermedia entre éstos y el Gobierno del Estado.
+Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa podrán ser electos consecutivamente para un periodo adicional, siempre y cuando el período del mandato de los ayuntamientos no sea superior a tres años. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
+Ninguno de los servidores públicos municipales mencionados en el párrafo anterior, cuando hayan tenido el carácter de propietarios durante los dos periodos consecutivos, podrán ser electos para el periodo inmediato como suplentes, pero éstos sí podrán ser electos para el periodo inmediato como propietarios, pudiendo ser electos para el mismo cargo hasta por un periodo adicional.
 
-Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna Autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato, con el carácter de suplentes; pero los que tengan el carácter de suplentes si podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
+Se reconoce la autonomía como la base de gobierno interno y organización de los pueblos y comunidades indígenas y afromexicanas.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
@@ -1003,11 +1219,13 @@ El Congreso elaborará su propio proyecto de presupuesto en los términos de la 
 
 Una vez aprobado el Presupuesto de Egresos del Estado, las erogaciones previstas para el Poder Legislativo no podrán ser reducidas ni transferidas, salvo en los casos de ajuste presupuestal general previstos en la Ley.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 32.
 
-Los Diputados Propietarios no podrán ser reelectos para el período inmediato ni con el carácter de suplentes. Los Diputados Suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hayan estado en ejercicio.
+Los Diputados Propietarios podrán ser reelectos hasta por un periodo consecutivo adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que haya renunciado o perdido su militancia antes de la mitad de su mandato.
+
+Ninguno de los Diputados mencionados en el párrafo anterior, cuando hayan sido reelectos con el carácter de propietarios durante un periodo consecutivo anterior, podrá ser electo para el periodo inmediato como suplente, pero éstos sí podrán ser electos para el periodo inmediato como propietarios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
@@ -1019,27 +1237,31 @@ El Congreso del Estado estará integrado por 25 diputados electos según el prin
 
 I.- Para obtener el registro de su lista estatal, el partido político que lo solicite, deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos doce distritos uninominales.
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-II.- Tendrá derecho a que le sean atribuidos diputados electos según el principio de representación proporcional, todo aquel partido que alcance por lo menos el uno y medio por ciento de la votación total emitida.
+II.- Tendrá derecho a que le sean atribuidos diputados electos según el principio de representación proporcional, todo aquel partido nacional que alcance el tres por ciento de la votación valida emitida. Con excepción de los partidos políticos locales con registro estatal y reconocimiento indígena que alcancen por lo menos el dos por ciento de la votación valida emitida.
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-III.- El Partido que cumpla con los supuestos señalados en las fracciones I y II de este artículo, le serán asignados por el principio de representación proporcional, el número de diputados de su lista estatal que corresponda al porcentaje de votos obtenidos, de acuerdo con su votación estatal emitida.
+III.- El Partido que cumpla con los supuestos señalados en las fracciones I y II de este artículo, le serán asignados por el principio de representación proporcional, el número de diputados de su lista estatal que corresponda al porcentaje de votos obtenidos, de acuerdo con su votación estatal valida emitida, en la asignación se seguirá el orden que tuviesen las y los candidatos en la lista, bajo el principio de paridad y alternancia de género.
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
 
 IV.- La Ley determinará la fórmula electoral y los procedimientos que se observarán en dicha asignación, en la que se seguirá el orden que tuviesen los candidatos en la lista correspondiente.
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-V.- Los partidos políticos tendrán derecho a que les sean reconocidos hasta veinticinco Diputadas o Diputados, sumando a las electas y a los electos por los principios de mayoría relativa y representación proporcional. El número máximo de Diputados por ambos principios que puede alcanzar cualquier partido político, deberá corresponder a su porcentaje de votación respecto de la votación estatal emitida, más el dieciséis por ciento.
+V.- La legislatura del Estado se integrará por diputados y diputadas electos, según los principios de mayoría relativa y de representación proporcional. En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación valida emitida.
 
-Esta base no se aplicará al partido político que por sus triunfos en distritos, obtenga un porcentaje de curules superior a la suma del porcentaje de su votación estatal emitida, más el dieciséis por ciento.
+Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación valida emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
 
 VI.- Los Diputados de mayoría relativa y de representación proporcional, como representantes del pueblo tienen la misma categoría e iguales derechos y obligaciones.
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+VII.- Para los procesos electorales que se celebren en la entidad, se estará a la delimitación del Instituto Nacional Electoral en cuanto a los distritos electorales y la división del territorio en secciones electorales, en los términos de la Base V del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos y la legislación aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 1995)</small>
 
@@ -1081,15 +1303,19 @@ La vecindad no se pierde por ausencia debida al desempeño de otros cargos públ
 
 El Gobernador del Estado no puede ser electo diputado durante el período de su ejercicio.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEXTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Las Magistradas y Magistrados del Tribunal Superior de Justicia, la Secretaria o Secretario General de Gobierno, las y los Secretarios de los diferentes ramos de la Administración Pública Estatal, Subsecretarias o Subsecretarios de Gobierno, la Procuradora o el Procurador General de Justicia, las Presidentas o los Presidentes Municipales, Militares en servicio activo y cualquier otra u otro servidor público de la Federación, del Estado o de los Municipios con facultades ejecutivas, sólo pueden ser electas o electos si se separan de sus cargos con noventa días de anticipación a la fecha de su elección.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+Las Magistradas y Magistrados del Tribunal Superior de Justicia, la Secretaria o Secretario General de Gobierno, las y los Secretarios de la Administración Pública Estatal, Subsecretarias o Subsecretarios de Gobierno, El o La Fiscal General, las Presidentas o los Presidentes Municipales, Militares en servicio activo y cualquier otra u otro servidor público de la Federación, del Estado o de los Municipios con facultades ejecutivas, sólo pueden ser electas o electos para ocupar algún cargo de elección popular, si se separan de sus cargos con noventa días de anticipación a la fecha de su elección.
 
 Para los efectos de esta última disposición se consideran también como militares en servicio activo, los jefes y oficiales de las fuerzas de seguridad pública del Estado, cualesquiera que sea su denominación.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, TEMAS 1, 3 Y 4, ASÍ COMO EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 53/2015 Y SUS ACUMULADAS 57/2015, 59/2015, 61/2015, 62/2015 Y 63/2015, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-Las Magistradas y Magistrados y la Secretaria o Secretario General del Tribunal Estatal Electoral; la Presidenta o Presidente y las Consejeras y Consejeros Electorales del Consejo General del Instituto Estatal Electoral, así como la Directora o Director General, la Secretaria o Secretario General y Directoras Ejecutivas o Directores Ejecutivos del Instituto mencionado; la Auditora o Auditor y las Sub Auditoras y Sub Auditores de la Auditoría Superior del Estado; las Comisionadas y los Comisionados del Instituto Estatal de Acceso a la Información Pública de Oaxaca; la Presidenta o Presidente, las Consejeras y los Consejeros, la Visitadora o el Visitador General y la Secretaria Ejecutiva o Secretario Ejecutivo de la Comisión para la Defensa de los Derechos Humanos del Estado de Oaxaca, así como las Magistradas y Magistrados del Tribunal de lo Contencioso Administrativo, no podrán ser electas o electos para ningún cargo de elección popular, sino hasta después de transcurridos dos años de haberse separado de su cargo.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+LAS MAGISTRADAS Y MAGISTRADOS Y la Secretaria o Secretario General del Tribunal Estatal Electoral; la Auditora o Auditor y las Sub Auditoras y Sub Auditores de la Auditoría Superior del Estado; los titulares del Instituto de Acceso a la Información Pública y Protección de Datos Personales de Oaxaca, la Presidenta o Presidente, las Consejeras y los Consejeros, la Visitadora o el Visitador General y la Secretaria Ejecutiva o Secretario Ejecutivo de la Comisión para la Defensa de los Derechos Humanos del Estado de Oaxaca, así como las Magistradas y Magistrados del Tribunal de lo Contencioso Administrativo y de Cuentas, LA FISCAL O EL FISCAL GENERAL DEL ESTADO DE OAXACA ASÍ COMO LOS FISCALES ESPECIALES, no podrán ser electas o electos para ningún cargo de elección popular, sino hasta después de transcurridos dos años de haberse separado de su cargo.
 
 ###### ARTICULO 36.
 
@@ -1107,11 +1333,13 @@ Los servidores públicos titulares o responsables de la información, de la inst
 
 El ejercicio del cargo de Diputado es incompatible con cualquiera comisión o empleo del gobierno federal o del Estado, por el que se disfrute sueldo, sin licencia previa de la Legislatura; pero cesarán en sus funciones representativas mientras dure la nueva ocupación. La infracción a esta disposición se tendrá por la renuncia del cargo de Diputado con causa justificada, y se llamará desde luego al suplente o se declarará la vacante, en su caso.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 13 DE MAYO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 39.
 
-Serán diputados electos al Congreso del Estado los candidatos a diputados que obtengan la constancia correspondiente expedida por el organismo que la ley determine y que no sean impugnados ante el Tribunal Estatal Electoral dentro de los plazos y conforme a los procedimientos previstos en la Ley.
+Serán diputados electos al Congreso del Estado los candidatos a diputados que obtengan la constancia definitiva correspondiente expedida por el organismo que la Ley determine.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 1995)</small>
 
 La Diputación Permanente de la Legislatura saliente, en funciones de Comisión instaladora, procederá a la instalación de la Legislatura electa en la fecha señalada en el artículo 41 de esta Constitución.
 
@@ -1211,9 +1439,13 @@ IV. A los órganos autónomos del Estado, en el ámbito de su competencia;
 
 V. A los Ayuntamientos;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-VI. A los ciudadanos del Estado.
+VI. A los ciudadanos del Estado; y
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+VII. A los pueblos y comunidades indígenas y afromexicanas.
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -1251,25 +1483,27 @@ III.- Si las tuviere lo devolverá dentro del término de 15 días. De no hacerl
 
 IV.- (DEROGADA, P.O. 15 DE ABRIL DE 2011)
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-V.- En los períodos extraordinarios, estos trámites se ajustarán al término de duración de aquellos; pero si el Ejecutivo devolviere el proyecto y el tiempo no bastare para la nueva discusión, se reservará para el siguiente ordinario.
+V.- Los proyectos de leyes o decretos vetados por el Gobernador del Estado serán devueltos con observaciones para ser nuevamente discutidos por el Congreso, el cual tendrá hasta quince días hábiles improrrogables para manifestar su aprobación o rechazo. Si dentro del plazo prescrito se aprueban las partes vetadas, el Ejecutivo procederá a su promulgación y publicación.
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-VI.- Los proyectos de leyes o decretos vetados por el Gobernador del Estado serán devueltos con observaciones para ser nuevamente discutidos por el Congreso, el cual tendrá hasta quince días improrrogables para manifestar su aprobación o rechazo. Si se aprueban las partes vetadas, el Ejecutivo procederá a su promulgación y publicación. De lo contrario, el Ejecutivo promulgará y publicará la parte no vetada, hasta en tanto el Congreso del Estado resuelva las observaciones pendientes.
+VI.- Dentro del plazo citado en la fracción anterior, en tanto el Congreso resuelve la aprobación o rechazo de las observaciones presentadas con el veto, el Ejecutivo deberá promulgar y publicar las partes no vetadas.
 
-En caso de que el Congreso del Estado no resuelva en el plazo improrrogable establecido en esta fracción, se tendrán como aprobadas las observaciones que fueron presentadas por el Ejecutivo, para surtir inmediatamente los efectos conducentes de promulgación y publicación.
+En caso de que el Congreso del Estado no resuelva en el plazo establecido en la fracción V de este artículo, se tendrán como aprobadas las observaciones que fueron presentadas con el veto por el Ejecutivo, para surtir inmediatamente los efectos conducentes de promulgación y publicación.
 
-Si el legislativo insiste en mantener su proyecto original, éste quedará firme con el voto de las dos terceras partes de los diputados presentes; el Ejecutivo procederá a su promulgación y publicación inmediatamente, de conformidad con lo establecido en esta Constitución.
+Si el legislativo insiste en mantener su proyecto original, éste quedará firme con el voto de las dos terceras partes de los diputados presentes; el Ejecutivo tan luego como sea notificado de lo anterior por el Congreso del Estado, procederá a su promulgación y publicación de manera inmediata, de conformidad con lo establecido en esta Constitución.
 
-El Ejecutivo del Estado no podrá vetar las resoluciones del Congreso cuando éste ejerza funciones de Colegio Electoral o de Gran Jurado, lo mismo que cuando el Congreso del Estado declare que debe acusarse a uno de los altos funcionarios del Estado por delitos oficiales; tampoco podrá vetar la legislación orgánica del Poder Legislativo ni los decretos que convoquen a periodos extraordinarios de sesiones; y
+El Ejecutivo del Estado no podrá vetar las resoluciones del Congreso cuando éste ejerza funciones de Colegio Electoral o de Gran Jurado, lo mismo que cuando el Congreso del Estado declaré que debe acusarse a uno de los altos funcionarios del Estado por delitos oficiales; tampoco podrá vetar la legislación orgánica del Poder Legislativo ni los decretos que convoquen a periodos extraordinarios de sesiones;
 
-> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-VII.- En caso de que los proyectos de Ley de Ingresos y/o Presupuesto de Egresos no se aprueben en la Legislatura a más tardar el 31 de diciembre, o no se hubiese superado el veto del Ejecutivo, se prorrogará por treinta días naturales la Ley de Ingresos y/o el Presupuesto de Egresos vigente hasta el momento, en todo o en la parte no vetada del proyecto correspondiente.
+VII.- En caso de que los proyectos de Ley de Ingresos y/o Presupuesto de Egresos no se aprueben por el Congreso a más tardar el 15 de diciembre, o no se hubiese superado el veto del Ejecutivo, se prorrogará por treinta días naturales la Ley de Ingresos y/o el Presupuesto de Egresos vigente hasta el momento, en todo o en la parte no vetada del proyecto correspondiente.
 
-Si vencido el plazo referido no se hubieren aprobado los proyectos de Ley de Ingresos y/o Presupuesto de Egresos, o la parte faltante de los mismos, se tendrá por extendida su vigencia por el resto del año calendario del ordenamiento o parte faltante de que se trate. Tratándose de la Ley de Ingresos, el Ejecutivo sólo podrá actualizar los montos, sin aumentar tasas, cuotas ni tarifas en los impuestos, derechos o contribuciones; respecto al Presupuesto de Egresos podrá hacer los ajustes que se requieran atendiendo a las necesidades del Estado, en el ejercicio fiscal que corresponda y las derivadas de obligaciones contractuales indexando los montos a la inflación según lo establecido por el Banco de México, en los términos que disponga la ley en la materia, sin afectar los presupuestos del Poder Judicial y de los organismos constitucionales autónomos.
+Si vencido el plazo referido no se hubieren aprobado los proyectos de Ley de Ingresos y/o Presupuesto de Egresos o la parte faltante de los mismos, se tendrá por extendida su vigencia por el resto del año calendario del ordenamiento o parte faltante de que se trate.
+
+Tratándose de la Ley de Ingresos, el Ejecutivo sólo podrá actualizar los montos, sin aumentar tasas, cuotas o tarifas en los impuestos, derechos o contribuciones; respecto al Presupuesto de Egresos podrá hacer los ajustes que se requieran atendiendo a las necesidades del Estado, en el ejercicio fiscal que corresponda y las derivadas de obligaciones contractuales indexando los montos a la inflación según lo establecido por el Banco de México, en los términos que disponga la ley en la materia, sin afectar los presupuestos del Poder Judicial y de los órganos constitucionales autónomos.
 
 ###### ARTICULO 54.
 
@@ -1305,7 +1539,9 @@ Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpl
 
 Por tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento.
 
-(Fecha y firma del Gobernador y el Secretario del Despacho)".
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+(Fecha y firma del Gobernador, del Secretario General de Gobierno)".
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -1337,9 +1573,9 @@ IV. Iniciar leyes y decretos ante el Congreso de la Unión;
 
 V. Informar al Congreso de la Unión en los casos a que se refiere el inciso tercero de la fracción III del artículo setenta y tres de la Constitución General, y resolver lo conducente sobre la determinación del propio Congreso, de acuerdo con el inciso sexto de la misma fracción;
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-VI. Elegir al Consejero Presidente y a los Consejeros Electorales del Consejo General del Instituto Estatal Electoral;
+VI. Elegir al Contralor General del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -1459,13 +1695,13 @@ XXVII. Expedir el decreto correspondiente para que el Instituto Estatal Electora
 
 XXVII Bis. Formular la solicitud ante el Instituto Estatal Electoral y de Participación Ciudadana para la realización del plebiscito;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-XXVIII. Elegir a los Magistrados del Tribunal Superior de Justicia y los Tribunales Especializados de conformidad con lo establecido por el artículo 102 de esta Constitución;
+XXVIII. Elegir a los Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo y de Cuentas, de conformidad con lo establecido por el artículo 102 de esta Constitución;
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-XXIX. Designar al Gobernador sustituto o interino en los casos determinados por esta Constitución. La determinación respectiva se exceptúa de las competencias del Instituto Estatal Electoral y del Tribunal Estatal Electoral;
+XXIX. Elegir al Gobernador sustituto o interino en los casos determinados por esta Constitución;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -1479,9 +1715,11 @@ XXXI. Conceder licencias a sus propios miembros, al Gobernador y a los demás se
 
 XXXII. Resolver sobre las renuncias de sus propios miembros, del Gobernador y a los demás servidores públicos que ella elija o nombre;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEXTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XXXIII. Elegir al Procurador General de Justicia, de entre la terna que someta a su consideración el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+XXXIII. Elegir al Fiscal General del Estado de Oaxaca;
 
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -1551,9 +1789,11 @@ XLIX. Excitar a los Poderes de la Unión a que presten protección al Estado en 
 
 L. Cumplir con las obligaciones legislativas que le impone la Constitución Federal y las que le impongan las leyes generales;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEXTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-LI. Requerir la comparecencia de los secretarios de despacho del Gobierno del Estado, Procurador General de Justicia del Estado, representantes de los municipios, directores o administradores de los entes públicos, órganos autónomos y demás entes de la administración pública, para que informen cuando se discuta o estudie un asunto relativo a su ramo o actividades así como para que respondan a preguntas que se les formulen;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+LI. Requerir la comparecencia de los secretarios de despacho del Gobierno del Estado, Consejero Jurídico, Fiscal General del Estado de Oaxaca, titulares de los órganos constitucionales autónomos, directores o administradores de las dependencias y entidades de la Administración Pública Estatal, Administradores Municipales que considere pertinente, para que informen cuando se discuta o estudie un asunto relativo a su ramo o actividades, así como, para que respondan a preguntas que se les formulen;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -1615,13 +1855,33 @@ LXV. Autorizar el Plan Estatal de Desarrollo; y (sic)
 
 LXVI. Recibir los informes que anualmente presenten los órganos autónomos ante el pleno, y a través de las comisiones respectivas, discutirlos y dictaminarlos;
 
-> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
 LXVII. Expedir la convocatoria para la integración de los órganos establecidos en los artículos 65 Bis y 114 de conformidad con la legislación aplicable;
 
-> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-LXVIII. Todas aquellas que deriven a su favor de la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, las leyes federales, esta Constitución Política y las que sean necesarias para hacer efectivas sus facultades y atribuciones.
+LXVIII. Aprobar, mediante el voto de la mayoría de los diputados presentes, el convenio y el programa de gobierno de coalición que, en su caso, celebre el Gobernador con uno o varios partidos políticos representados en el Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+LXIX. Expedir la Ley del Sistema Estatal de Combate a la Corrupción.
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+LXX. Elegir a los integrantes del Instituto de Acceso a la Información Pública y Protección de Datos Personales, conforme al artículo 114, apartado C, de esta Constitución y a su Contralor.
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+LXXI. Realizar consultas a los pueblos y comunidades indígenas y afromexicanas, garantizando el principio de consentimiento libre, previo e informado, antes de adoptar medidas legislativas y de otra índole, que les afecten o sean susceptibles de afectarles, en términos del artículo 2 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+LXXII. Legislar en materia indígena.
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+LXXIII. Todas aquellas que deriven a su favor de la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, las leyes federales, esta Constitución Política y las que sean necesarias para hacer efectivas sus facultades y atribuciones
 
 ###### ARTICULO 60.
 
@@ -1669,7 +1929,9 @@ I. Acordar por propia iniciativa o a petición del ejecutivo, la convocación de
 
 II. Ampliar por una sola vez el número de asuntos contenidos en la convocatoria, a petición de quien haya solicitado el período extraordinario de sesiones.
 
-III. Publicar la convocatoria y su ampliación por medio de su presidente siempre que después de tres días de comunicada al Ejecutivo, éste no le hubiere dada (sic) la debida publicidad.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+III. Publicar la convocatoria y su ampliación por medio de su presidente siempre que después de tres días de comunicada al Ejecutivo, éste no le hubiere dado la debida publicidad;
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
@@ -1687,9 +1949,15 @@ VI. Resolver todas las renuncias que por causa de urgencia presenten los funcion
 
 VII. Nombrar provisionalmente a los sustitutos de los Servidores Públicos cuyas renuncias hubiere aceptado.
 
-VIII. (DEROGADA, P.O. 18 DE ABRIL DE 2008)
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-IX. Calificar las excusas que presente el Procurador General para intervenir en determinado negocio.
+VIII. Convocar de inmediato al Pleno del Congreso, a un periodo extraordinario de sesión para la elección o formulación de objeción a la remoción del Fiscal General del Estado de Oaxaca;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEXTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+IX. Calificar las excusas que presente el Fiscal General del Estado de Oaxaca para intervenir en determinado negocio.
 
 X. Dictaminar sobre todos los asuntos que queden sin resolución, a efecto de que sigan tramitándose en el período ordinario siguiente.
 
@@ -1735,7 +2003,9 @@ II. Fiscalizar los recursos provenientes de las aportaciones que en términos de
 
 III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos estatales y federales; así como efectuar visitas domiciliarias, con el único objeto de exigir la exhibición de libros, papeles o archivos indispensables, sujetándose a las leyes y a las formalidades establecidas para los cateos;
 
-IV. Determinar los daños y perjuicios que afecten a las Haciendas Públicas Estatales o Municipales al patrimonio de los entes públicos estatales y municipales, a fin de fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes; así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Séptimo de esta Constitución y presentar las denuncias y querellas necesarias; y (sic)
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+IV. Derivado de sus investigaciones promover los procedimientos de responsabilidades que sean procedentes ante el Tribunal de lo Contencioso Administrativo y de Cuentas;
 
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2012)</small>
 
@@ -1761,29 +2031,43 @@ El titular de la Auditoría Superior del Estado será electo por el Congreso, co
 
 El Poder Ejecutivo del Estado de Oaxaca, se ejerce por un solo individuo que se denominará Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 67.
 
-La elección de Gobernadora o Gobernador será mediante sufragio universal, libre, secreto y directo, por mayoría relativa y en una circunscripción uninominal que comprende todo el territorio del Estado, en los términos de la Ley Electoral.
+La elección de Gobernadora o Gobernador será mediante sufragio universal, libre, secreto y directo, por mayoría relativa y en una circunscripción uninominal que comprende todo el territorio del Estado, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Instituciones y Procedimientos Electorales, esta Constitución y la legislación correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 1939)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 68.
 
-Para ser Gobernador del Estado, se requiere:
+Para ser Gobernadora o Gobernador del Estado, se requiere:
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+(NOTA: EL 5 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, TEMAS 1, 3 Y 4, ASÍ COMO EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 53/2015 Y SUS ACUMULADAS 57/2015, 59/2015, 61/2015, 62/2015 Y 63/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-I. Ser mexicana o mexicano por nacimiento, en el ejercicio de sus derechos y nativa o nativo del Estado, con residencia mínima de tres años, vecina o vecino de él durante un periodo no menor de cinco años, inmediatamente anteriores al día de la elección. La vecindad no se pierde por ausencia en el desempeño de cargo público de elección popular;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+I. Ser mexicana o mexicano por nacimiento y nativa o nativo del Estado O VECINO CON RESIDENCIA EFECTIVA NO MENOR DE TRES AÑOS INMEDIATAMENTE ANTERIORES AL DÍA DE LOS COMICIOS.
+
+La vecindad no se pierde por ausencia en el desempeño de cargo público de elección popular o de otros cargos públicos.
 
 > <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
 
 II. Tener treinta años cumplidos el día de la elección;
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEXTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-III. No ser Presidenta o Presidente de la República, Secretaria o Secretario Estatal o Federal, Magistrada o Magistrado del Tribunal Superior, Procuradora o Procurador General de Justicia, ni Directora o Director de organismo descentralizado o empresa de participación estatal, a menos que se separe del cargo ciento veinte días antes de la fecha de la elección;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
+
+III. No ser Presidenta o Presidente de la República, Secretaria o Secretario Estatal o Federal, Magistrada o Magistrado del Tribunal Superior de Justicia del Estado y Tribunales Especializados, integrantes del máximo órgano de dirección en los Órganos Constitucionales Autónomos o Fiscal General o Especial del Estado, ni Directora o Director de organismo descentralizado, empresa de participación estatal o fideicomiso público, a menos que se separe del cargo, en forma definitiva seis meses antes del día de la elección, conforme a lo señalado en la Constitución Política de los Estados Unidos Mexicanos, en esta Constitución y en las leyes de la materia;
+
+(NOTA: EL 5 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, TEMAS 1, 3 Y 4, ASÍ COMO EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 53/2015 Y SUS ACUMULADAS 57/2015, 59/2015, 61/2015, 62/2015 Y 63/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL SEGUNDO PÁRRAFO DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEXTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+LAS MAGISTRADAS Y MAGISTRADOS DEL TRIBUNAL ESTATAL ELECTORAL DE OAXACA, Secretarios de Estudio y cuenta, o instructores, directores y contralor, así como, las Consejeras y Consejeros de los Consejos Generales, Distritales o Municipales, Secretario Ejecutivo, Directores o personal profesional directivo y Contralor del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, sólo pueden ser electas o electos, Gobernadora o Gobernador, si se separan de manera definitiva de sus cargos dos años antes del día de la elección en que participen.
 
 > <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
 
@@ -1793,17 +2077,23 @@ V. No haber intervenido directa ni indirectamente en alguna asonada, motín o cu
 
 VI. No tener parentesco de consanguinidad en los cuatro primeros grados, ni de afinidad en los dos primeros, con el Gobernador saliente;
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-VII. Separarse del servicio activo con ciento veinte días de anticipación al día de la elección si se trata de miembros del Ejército Nacional, o de las fuerzas de seguridad pública del Estado;
+VII. Separarse del servicio activo con ciento veinte días de anticipación al día de la elección si se trata de miembros del Ejército Nacional, o de las fuerzas de seguridad pública del Estado, y
 
 VIII. Tener un modo honesto de vivir.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1944)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 69.
 
-El Gobernador rendirá la protesta de Ley el primero de diciembre del año de su renovación y en seguida tomará posesión de su encargo, que durará seis años. Nunca podrá ser reelecto para otro período constitucional.
+El Gobernador rendirá la protesta de Ley el primero de diciembre del año de su renovación y enseguida tomará posesión de su encargo, que durará seis años. Nunca podrá ser reelecto para otro periodo constitucional.
+
+La o el ciudadano que haya desempeñado el cargo de Gobernador del Estado, a través de la elección popular ordinaria o extraordinaria, en ningún caso o por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, sustituto o encargado del despacho.
+
+La o el ciudadano que haya desempeñado el cargo de Gobernador sustituto constitucional, o el electo para concluir el periodo en caso de falta absoluta del constitucional, aun cuando tenga distinta denominación, no podrá ser electo Gobernador para el período inmediato.
+
+De igual manera, el ciudadano que haya desempeñado el cargo de Gobernador interino, provisional o que bajo cualquier denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo los dos últimos años del periodo.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
@@ -1925,9 +2215,9 @@ VIII. Conceder indulto a reos sentenciados por delitos del orden común;
 
 IX. Excitar a los Poderes de la Unión a que presten su protección al Estado en los términos de la Fracción XLIX del Artículo 59 de esta Constitución, siempre que la Legislatura no estuviere reunida;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-X. Emitir la convocatoria de Magistrados del Tribunal Superior de Justicia y de los Tribunales Especializados de conformidad con lo establecido en el artículo 102 de esta Constitución;
+X. Emitir la convocatoria de Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo y de Cuentas de conformidad con lo establecido en el artículo 102 de esta Constitución.
 
 > <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -1969,9 +2259,9 @@ XIX. Celebrar convenios con el Gobierno Federal o con los ayuntamientos para coo
 
 XX. Conceder licencia a funcionarios y empleados;
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-XXI. Emitir el decreto para que el Instituto Estatal Electoral convoque a elecciones extraordinarias de Diputados, cuando haya desaparecido el Poder Legislativo;
+XXI. Emitir el decreto para que el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca convoque a elecciones extraordinarias de Diputados, cuando haya desaparecido el Poder Legislativo, de conformidad con lo señalado en la Constitución Política del Estado;
 
 > <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -1989,9 +2279,19 @@ XXIV. Solicitar ante el Consejo de la Judicatura y con causa justificada, la des
 
 XXV. Solicitar al Instituto Estatal Electoral y de Participación Ciudadana, la realización del referéndum en los términos de esta Constitución y las leyes aplicables en la materia; y
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-XXVI. Todas las demás que le asigne la Ley.
+XXVI. En cualquier momento, optar por un gobierno de coalición con uno o varios de los partidos políticos representados en el Congreso del Estado.
+
+El gobierno de coalición se regulará por el convenio y el programa respectivos, los cuales deberán ser aprobados por mayoría de los miembros presentes en el Congreso del Estado. El convenio establecerá las causas de la disolución del gobierno de coalición;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+XXVII. Proponer la terna para la elección del Fiscal General del Estado de Oaxaca, en términos de lo dispuesto en el apartado D del artículo 114, de esta Constitución, y
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+XXVIII. Todas las demás que le asignen las leyes.
 
 ###### ARTICULO 80.
 
@@ -2085,19 +2385,19 @@ XXVII. Promover el desarrollo de la actividad turística, mediante el debido apr
 
 XXVIII. Cuidar el acervo de las obras artísticas, históricas y arqueológicas del Estado de conformidad con las Leyes Federales en la materia en coordinación con los ayuntamientos para su conservación y restauración;
 
-> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-XXIX. Impulsar y fortalecer las tradiciones comunitarias y el respeto a las culturas de las etnias del Estado;
+XXIX. Respetar y garantizar la implementación de los derechos de los pueblos y comunidades indígenas y afromexicanas reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los instrumentos jurídicos internacionales y esta Constitución; en particular, el fortalecimiento de su libre determinación y autonomía, patrimonio cultural, desarrollo económico y social que posibiliten sus aspiraciones y formas propias de vida, así como la protección y conservación de sus tierras, territorios y recursos o bienes naturales; y
 
 > <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
 
 XXX. Establecer las medidas necesarias para preservar el medio ambiente y procurar el equilibrio ecológico.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1936)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 81.
 
-El Gobernador no puede:
+El Gobernador no deberá:
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1992)</small>
 
@@ -2107,7 +2407,11 @@ I. Dejar de promulgar alguna ley o decreto que habiendo sido devuelto a la Legis
 
 II. Dejar de observar las leyes o decretos que la Legislatura expidiere ejerciendo las facultades de Colegio Electoral o de Gran Jurado, ni los que expidiere a virtud de las facultades que le conceden las fracciones IX, X, XII y XXII del Artículo 59 y el Artículo 62.
 
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1936)</small>
+
 III. Impedir que las elecciones se efectúen en los días señalados y con las formalidades exigidas por la ley.
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1936)</small>
 
 IV. Impedir por motivo alguno, directa ni indirectamente, el libre ejercicio de las funciones de la Legislatura.
 
@@ -2119,7 +2423,11 @@ V.- Intervenir en las funciones del Poder Judicial, ni dictar providencia alguna
 
 VI.- Salir del Territorio del Estado por un lapso mayor de 10 días, sin permiso de la Legislatura y en sus recesos de la Diputación Permanente. Si es por menor tiempo, bastará dar aviso a la H. Legislatura. Cuando las necesidades de la administración lo requieran, puede ausentarse de la Capital para trasladarse a cualquier punto del Estado, por el tiempo que estime conveniente.
 
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1936)</small>
+
 VII. Distraer las rentas públicas del Estado de los objetos a que estén destinadas por las leyes.
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1936)</small>
 
 VIII. Disponer en ningún caso y bajo ningún pretexto de las rentas municipales.
 
@@ -2127,17 +2435,23 @@ VIII. Disponer en ningún caso y bajo ningún pretexto de las rentas municipales
 
 IX. Enajenar o gravar los bienes raíces pertenecientes al Estado, sin autorización de la Legislatura, mediante la expedición del decreto respectivo.
 
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1936)</small>
+
 X. Disponer en ningún caso y por ningún motivo de los bienes que son propios de los Municipios.
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1936)</small>
 
 XI. Ordenar la aprehensión o la detención de persona alguna, sino en los casos que la Constitución Federal lo autorice, poniéndola inmediatamente sin excusa alguna a disposición de la autoridad competente.
 
 > <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
 
-XII.- Realizar alusiones u otras formas de comunicación, que incidan de algún modo sobre posiciones políticas que correspondan a los partidos y candidatos contendientes en el proceso electoral o emitir mensajes indirectos o implícitos que puedan tener efectos a favor o en contra de alguna opción política contendiente, desde el inicio de las campañas hasta concluida la jornada electoral;
+XII. Realizar alusiones u otras formas de comunicación, que incidan de algún modo sobre posiciones políticas que correspondan a los partidos y candidatos contendientes en el proceso electoral o emitir mensajes indirectos o implícitos que puedan tener efectos a favor o en contra de alguna opción política contendiente, desde el inicio de las campañas hasta concluida la jornada electoral;
 
-> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-XIII.- Realizar cualquier tipo de campaña publicitaria de programas sociales, de obra pública y gubernamentales, treinta días antes del día de la elección.
+XIII. Realizar cualquier tipo de campaña publicitaria de programas sociales, de obra pública y gubernamentales, durante el tiempo que comprendan las campañas electorales federales y locales, hasta la conclusión de la jornada comicial.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1936)</small>
 
 Se exceptúan de lo dispuesto en las fracciones XII y XIII, la comunicación de medidas urgentes de Estado o de acciones relacionadas con protección civil, programas de salud por emergencias, servicios y atención a la comunidad por causas graves o fortuitas.
 
@@ -2149,15 +2463,11 @@ Se exceptúan de lo dispuesto en las fracciones XII y XIII, la comunicación de 
 
 Para el despacho de los asuntos que son a cargo del Poder Ejecutivo del Estado, habrá los secretarios y demás funcionarios que las necesidades de la Administración Pública demanden, en los términos de la Ley Orgánica respectiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 83.
 
-La Ley establecerá los requisitos para ser servidores públicos en el nivel de mandos medios y superiores del Poder Ejecutivo, bajo los principios de idoneidad, experiencia, honorabilidad, equidad de género, apartidismo en el ejercicio de sus funciones y no discriminación.
-
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
-
-Los mismos requisitos se exigirán para los Directores de organismos descentralizados o vocales ejecutivos de comisión.
+La ley establecerá los requisitos para ser servidores públicos en el nivel de mandos medios y superiores del Poder Ejecutivo, bajo los principios de idoneidad, experiencia, honorabilidad, equidad de género, profesionalismo, independencia, imparcialidad, capacidad y no discriminación.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
@@ -2233,17 +2543,17 @@ IV.- Establecerá el esquema operativo del sector paraestatal, el cual se integr
 
 ARTICULO 90 BIS. (DEROGADO, P.O. 8 DE DICIEMBRE DE 2000)
 
-(REUBICADO [N. DE E. ANTES ARTICULO 90 BIS], P.O. 8 DE DICIEMBRE DE 2000)
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 91.
 
-La Ley organizará una Junta de Conciliación Agraria con funciones exclusivamente conciliatorias que obrará como amigable componedora y en sus laudos respetará estrictamente las disposiciones federales sobre la materia.
+La Ley organizará una Junta de Conciliación Agraria con funciones exclusivamente conciliatorias que obrará como amigable componedora y en sus resoluciones respetará estrictamente las disposiciones federales sobre la materia. Sus miembros serán nombrados por el Gobernador.
 
-Es propósito de la Junta de Conciliación Agraria, además, promover que las resoluciones que dicten las autoridades agrarias se apoyen y funden en los acuerdos conciliatorios entre las comunidades, para que estos tengan el valor jurídico de cosa juzgada.
+Es propósito de la Junta de Conciliación Agraria, además, promover que las resoluciones que dicten las autoridades agrarias se funden y motiven conforme a los acuerdos conciliatorios alcanzados entre las comunidades, para que éstos tengan el valor jurídico de cosa juzgada.
 
-La Junta de Conciliación Agraria deberá constituir sus agencias de acuerdo a cada región y grupo étnico.
+En el caso de conflictos por tenencia de la tierra entre comunidades indígenas, la Junta de Conciliación Agraria promoverá el diálogo y la construcción de acuerdos o consensos, a través de los mecanismos de decisión comunitarios, respetando sus derechos colectivos y sistemas normativos.
 
-Sus miembros serán nombrados por el Gobernador.
+La Junta de Conciliación Agraria deberá constituir sus agencias de acuerdo a cada región y pueblo Indígena.
 
 (REUBICADO [N. DE E. ANTES ARTICULO 91], P.O. 8 DE DICIEMBRE DE 2000)
 
@@ -2251,53 +2561,33 @@ Sus miembros serán nombrados por el Gobernador.
 
 El Gobernador del Estado y los demás funcionarios del Poder Ejecutivo y del sector paraestatal, no podrán aceptar durante su ejercicio, comisión onerosa alguna de los particulares, de las corporaciones políticas o civiles, como tampoco aquellas que pudiesen encomendarles las instituciones religiosas, aún cuando fueren de carácter gratuito o de distinción. El desacato a esta disposición traerá aparejadas la separación inmediata del cargo y las responsabilidades que establezca la ley de la materia.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE JUNIO DE 2015)</small>
 
-#### SECCION CUARTA. De la Procuraduría General de Justicia del Estado
-
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+#### SECCION CUARTA
 
 ###### ARTICULO 93.
 
-La Procuraduría General de Justicia es órgano del Estado y a su cargo está velar por la exacta observancia de las leyes. La investigación de los delitos corresponde a la Procuraduría General de Justicia y las policías, las cuales actuarán bajo la conducción y mando de aquélla en el ejercicio de esta función. La Procuraduría de Justicia intervendrá además, en los asuntos judiciales que interesen a las personas a quienes la ley concede especial protección en la forma y términos que la misma ley determina.
-
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+(DEROGADO, P.O. 30 DE JUNIO DE 2015)
 
 ###### ARTICULO 94.
 
-La Procuraduría General de Justicia estará integrada por el Procurador General de Justicia, por el Consejo de la Procuraduría y por los servidores públicos y agentes que fije la ley. La Ley Orgánica establecerá la integración y funcionamiento del Consejo de la Procuraduría.
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2007)</small>
+(DEROGADO, P.O. 30 DE JUNIO DE 2015)
 
 ###### ARTICULO 95.
 
-El Procurador General de Justicia será elegido por el Congreso del Estado, de una terna de juristas de reconocida capacidad profesional y solvencia moral que el Titular del Poder Ejecutivo someterá a su consideración.
-
-El Congreso elegirá al Procurador General de Justicia del Estado, previa comparecencia de las personas propuestas, por la mayoría de los diputados presentes o, en sus recesos, por la Diputación Permanente en el improrrogable plazo de treinta días. En caso de que la Legislatura no resuelva dentro de dicho plazo, ocupará el cargo la persona que de esta terna designe el Gobernador del Estado.
-
-Si el Congreso del Estado rechaza la terna propuesta, el Gobernador del Estado remitirá una segunda terna; de ser rechazada, ocupará el cargo la persona que dentro de esta terna designe el Gobernador del Estado.
-
-El Procurador General de Justicia dejará de ejercer su cargo por renuncia, remoción por parte del Ejecutivo y en los casos previstos en el Titulo Séptimo de esta Constitución.
-
-La ley organizará al Ministerio Público del Estado, que contará con independencia técnica para realizar las funciones de su competencia. El Procurador General de Justicia nombrará a los servidores públicos de la institución.
-
-Los Agentes del Ministerio Público, la policía y demás servidores públicos de la Procuraduría General de Justicia, realizarán su actividad teniendo como base de su actuación el estricto apego a la legalidad, el profesionalismo, la imparcialidad y la objetividad. Para garantizar este fin, se establecerá el servicio civil de carrera al interior de la institución.
-
-(REUBICADO [N. DE E. ANTES ARTICULO 136], P.O. 8 DE DICIEMBRE DE 2000)
+(DEROGADO, P.O. 30 DE JUNIO DE 2015)
 
 ###### ARTICULO 96.
 
-Para ser Procurador General de Justicia, se necesitan los mismos requisitos que para Magistrado. La ley determinará los que deben reunir los agentes del Ministerio Público.
+(DEROGADO, P.O. 30 DE JUNIO DE 2015)
 
 ###### ARTICULO 97.
 
 (DEROGADO, P.O. 1 DE MAYO DE 2008)
 
-(REUBICADO [N. DE E. ANTES ARTICULO 138], P.O. 8 DE DICIEMBRE DE 2000)
-
 ###### ARTICULO 98.
 
-Las funciones de Procurador General y las de Agentes del Ministerio Público, son incompatibles con el ejercicio de la abogacía y con cualquier otro cargo, empleo o comisión por el que se disfrute sueldo.
+(DEROGADO, P.O. 30 DE JUNIO DE 2015)
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 1 DE MAYO DE 2008)</small>
 
@@ -2347,7 +2637,7 @@ Los consejeros, con excepción del presidente, durarán en su cargo cinco años,
 
 El Consejo de la Judicatura establecerá la configuración territorial de las Salas y Juzgados del Poder Judicial, administrará la carrera judicial; nombrará y removerá a los Jueces y demás servidores públicos del Poder Judicial con base en principios de idoneidad, experiencia, honorabilidad, pluralidad, equidad de género, apartidismo y no discriminación, así mismo les concederá licencia, y resolverá sobre la renuncia que presenten, en los términos que establezca la ley.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 122], P.O. 8 DE DICIEMBRE DE 2000)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 122], P.O. 8 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 101.
 
@@ -2363,7 +2653,11 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 V.- Haber residido en la República Mexicana durante los dos años anteriores al día del nombramiento; y
 
-VI.- No haber sido Secretario de Despacho o su equivalente, Procurador General de Justicia o Diputado Local, en el año anterior a su nombramiento;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEXTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+VI.- No haber sido Secretario de Despacho o su equivalente, Fiscal General del Estado de Oaxaca o Diputado Local, en el año anterior a su nombramiento;
 
 Los nombramientos de los Magistrados serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
@@ -2379,17 +2673,25 @@ Las personas que hayan ocupado el cargo de Magistrado, Juez de Primera Instancia
 
 Los impedimentos de este artículo serán aplicables a los funcionarios judiciales que gocen de licencia. La infracción a lo previsto en el presente párrafo será sancionada con la pérdida del respectivo cargo dentro del Poder Judicial del Estado, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que las leyes prevean.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 102.
 
-Para nombrar a los magistrados del Tribunal Superior de Justicia y de los Tribunales Especializados, el Gobernador del Estado emitirá una convocatoria pública para la selección de aspirantes, de conformidad con los requisitos señalados en el artículo anterior.
+Para nombrar a los magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo y de Cuentas, el Gobernador del Estado emitirá una convocatoria pública para la selección de aspirantes, de conformidad con los requisitos señalados en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 El Consejo de la Judicatura certificará el cumplimiento de los requisitos de ley y aplicará los exámenes de oposición. Una vez concluidos éstos, remitirá al Gobernador del Estado una lista que contenga ocho candidatos, de los cuales el Gobernador enviará una terna al Congreso del Estado para que elija a quien debe ser Magistrado.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+
 La elección se hará por el voto de las dos terceras partes de los diputados del Congreso del Estado que se hallen presentes, dentro del improrrogable plazo de veinte días naturales. Si el Congreso no resolviere dentro de dicho plazo, ocupará el cargo de Magistrado la persona que, dentro de dicha terna, designe el Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+
 En caso de que el Congreso del Estado rechace la terna propuesta, ocupará el cargo la persona que habiendo aparecido en la lista elaborada por el Consejo de la Judicatura designe el Gobernador del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 Todos los Magistrados, con excepción del Magistrado Presidente y del Magistrado Consejero de la Judicatura, deberán integrar sala, durarán en el ejercicio de su cargo ocho años, podrán ser reelectos por un periodo igual, y si lo fueren, sólo podrán ser privados de sus puestos en los términos del artículo 117 de esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca; podrán jubilarse en los términos que señale la Ley respectiva.
 
@@ -2419,9 +2721,17 @@ III. Interpretar y aplicar las leyes del fuero común y las federales en jurisdi
 
 IV. Conocer en segunda instancia de los negocios y causas que determinen las leyes;
 
-V. Hacer la revisión de todos los procesos del orden penal que designen las leyes; y
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-VI. Las demás atribuciones que le confieran esta Constitución y la ley.
+V. Hacer la revisión de todos los procesos del orden penal que designen las leyes;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+VI. Garantizar los derechos de los pueblos indígenas y afromexicano y, cuando así corresponda, adecuar las normas del Estado con las normas indígenas, en el marco del pluralismo jurídico; y
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+VII. Las demás atribuciones que le confieran esta Constitución y la ley.
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -2441,9 +2751,17 @@ IV. Resolver como Jurado de sentencia en las causas de responsabilidad por delit
 
 V. Dirimir las competencias de jurisdicción que se susciten entre los Jueces de Primera Instancia del Estado, o entre el Alcalde de un distrito judicial y otro Alcalde o Juez de Primera Instancia de otro distrito;
 
-VI. Formar y aprobar el Reglamento Interior del Tribunal; y
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-VII. Las demás atribuciones que le confiera esta Constitución y la ley.
+VI. Establecer y ponderar criterios de homologación y adecuación en la aplicación de las normas estatales y las normas indígenas en el marco del pluralismo jurídico; así como resolver los conflictos derivados de los ámbitos de competencia entre la jurisdicción indígena y la jurisdicción estatal;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+VII. Formar y aprobar el Reglamento Interior del Tribunal; y
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+VIII. Las demás atribuciones que le confieran esta Constitución y la ley.
 
 B. Corresponde a la Sala Constitucional, en los términos que señale la ley:
 
@@ -2461,7 +2779,9 @@ e) Entre Órganos Autónomos, o entre éstos y el Poder Ejecutivo, Poder Legisla
 
 Cuando las controversias versen sobre disposiciones generales de los Poderes Ejecutivo, Legislativo, o de los municipios, y la resolución del Pleno del Tribunal Superior de Justicia las declare inconstitucionales, dicha resolución tendrá efectos generales cuando hubiere sido aprobada por las dos terceras partes de sus miembros, y surtirá efectos a partir de su publicación en el Periódico Oficial del Gobierno del Estado;
 
-II. Conocer de las acciones de inconstitucionalidad contra una norma de carácter general que se considere contraria a esta Constitución y que, dentro de los treinta días siguientes a su publicación, se ejerciten por:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
+
+II. Conocer, con excepción de las acciones de inconstitucionalidad contra leyes electorales locales, de las acciones de inconstitucionalidad contra una norma de carácter general que se considere contraria a esta Constitución y que dentro de los treinta días siguientes a su publicación, se ejerciten por:
 
 a) Cuando menos treinta por ciento de los Diputados,
 
@@ -2499,6 +2819,10 @@ VI. Solventar y resolver los recursos relativos a los requisitos de la revocaci�
 
 Habrá Jueces de Primera Instancia y Jurados en todas las cabeceras de distrito judicial.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+En los distritos judiciales con población mayoritariamente indígena, los juzgadores y jurado resolverán los asuntos de su competencia atendiendo las normas estatales y las normas indígenas en un marco de pluralismo jurídico.
+
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 129], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 108.
@@ -2515,69 +2839,73 @@ El cargo de Juez de Primera Instancia es renunciable, por causa justificada que 
 
 (DEROGADO, P.O. 15 DE ABRIL DE 2011)
 
-> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JUNIO DE 2015)</small>
 
-#### SECCION CUARTA. De los Tribunales Especializados
+#### SECCION CUARTA. Del Tribunal de lo Contencioso Administrativo y de Cuentas
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
 #### Sección IV. De las Concesiones sobre el Espectro Radioeléctrico para uso Público y uso Social para prestar el Servicio de Radiodifusión
 
 ###### ARTICULO 111.
 
-El Poder Judicial contará con Tribunales Especializados, de carácter permanente, autónomos en su funcionamiento e independientes en sus decisiones, los cuales contarán con las siguientes características y atribuciones:
+El Poder Judicial contará con un Tribunal de lo Contencioso Administrativo y de Cuentas, de carácter permanente, autónomo en su funcionamiento e independiente en sus decisiones, el cual contará con las siguientes características:
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2011)</small>
 
 I. Sus resoluciones en el ámbito de su competencia serán definitivas e inatacables en el orden local;
 
-II. Estarán integrados por tres Magistrados propietarios y tres suplentes, que serán elegidos por la Legislatura, en los términos establecidos por el artículo 102 de esta Constitución. Los magistrados de estos Tribunales Especializados, además de los requisitos correspondientes a los magistrados del Tribunal Superior de Justicia, cumplirán criterios específicos que marque la Ley, durarán en su encargo ocho años, con posibilidad de ser reelectos por un periodo adicional, y serán sustituidos de forma escalonada, en los términos que establezca la ley respectiva.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
 
-El Tribunal de lo Contencioso Administrativo tendrá la estructura que establece la Ley de Justicia Administrativa.
+En los casos que involucren personas, comunidades, municipios y pueblos indígenas y afromexicano, este tribunal observara los sistemas normativos y las determinaciones de las instituciones de dichos pueblos.
 
-III. La administración, vigilancia y disciplina en estos Tribunales corresponderá, en los términos que señale la ley, a una Comisión del Consejo de la Judicatura, que se integrará por el Presidente del Tribunal de que se trate y dos miembros del Consejo de la Judicatura;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-IV. Propondrán su presupuesto al Consejo de la Judicatura para su inclusión en el proyecto de Presupuesto del Poder Judicial;
+II. Estará integrado por una Sala Superior con cinco magistrados y Salas Unitarias de Primera Instancia. Los magistrados serán elegidos por la Legislatura, en los términos establecidos por el artículo 102 de esta Constitución y además de los requisitos correspondientes a los magistrados del Tribunal Superior de Justicia, cumplirán criterios específicos que marque la Ley, durarán en su encargo ocho años, con posibilidad de ser reelectos por un periodo adicional, y serán sustituidos de forma escalonada, en los términos que establezca la legislación aplicable.
 
-V. Los Magistrados de los Tribunales Especializados elegirán a sus respectivos presidentes, para un periodo de dos años con posibilidad de ser reelectos por un periodo adicional, en caso de no llegar a un acuerdo, resolverá el Consejo de la Judicatura;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+III. La administración, vigilancia y disciplina en este Tribunal corresponderá, en los términos que señale la ley, al Consejo de la Judicatura.
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+IV. Propondrá su presupuesto al Consejo de la Judicatura para su inclusión en el proyecto de Presupuesto del Poder Judicial;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+V. Los Magistrados de este Tribunal elegirán a su presidente, para un periodo de tres años con posibilidad de ser reelectos por un periodo adicional, en caso de no llegar a un acuerdo, resolverá el Consejo de la Judicatura;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
 
 VI. Expedirán su Reglamento Interno y los acuerdos generales para su adecuado funcionamiento; y
 
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
 VII. La Ley de la materia establecerá las normas para su organización y funcionamiento; el procedimiento y los recursos contra sus resoluciones, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad; y los criterios para instalar los juzgados y salas especializadas en la materia.
 
-Los Tribunales a los que se refiere el primer párrafo de este artículo son los siguientes:
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
-A. El Tribunal Estatal Electoral, es la máxima autoridad jurisdiccional en materia electoral del Estado de Oaxaca, y tendrá las siguientes atribuciones:
+El Tribunal de lo Contencioso Administrativo y de Cuentas del Poder Judicial del Estado de Oaxaca, es la máxima autoridad jurisdiccional en materia de fiscalización, rendición de cuentas, responsabilidad de los servidores públicos, combate a la corrupción e impartición de Justicia Administrativa, tendrá la estructura que establece la Ley Orgánica del Poder Judicial del Estado de Oaxaca y las siguientes atribuciones:
 
-I. Conocer de los recursos y medios de impugnación que se interpongan respecto de las elecciones de Gobernador del Estado, Diputados y Concejales de los Ayuntamientos por los regímenes de partidos políticos y de usos y costumbres, de la revocación de mandato del Gobernador del Estado, así como de todas las demás controversias que determine la ley respectiva;
+I. Conocer y resolver mediante juicio las controversias suscitadas por resoluciones que emita la Auditoría Superior del Estado;
 
-II. Resolver en única instancia las impugnaciones que se presenten en contra de la elección de Gobernador del Estado;
+II. Conocer, substanciar, resolver e imponer las sanciones en los procedimientos de los servidores públicos relacionados con responsabilidades administrativas graves y resarcitorias;
 
-III. Realizar el cómputo final y la calificación de la elección de Gobernador del Estado, una vez resueltas las impugnaciones que se hubieren interpuesto sobre la misma, o cuando se tenga constancia de que no se presentó ningún recurso, procediendo a formular la declaratoria de Gobernador electo, respecto del candidato que hubiese obtenido el mayor número de votos, comunicándolo a la Legislatura para difundirlo mediante Bando Solemne y por otros medios idóneos;
+III. Conocer, substanciar, resolver e imponer las sanciones en los procedimientos relacionados con cualquier persona que haya cometido hechos de corrupción que no constituyan delitos, así como de aquellos que resulten beneficiados por los mismos; de igual forma, su participación en actos vinculados con responsabilidades administrativas graves;
 
-IV. El Tribunal Estatal Electoral podrá decretar la nulidad de una elección por causas expresamente establecidas en la ley. Se preverán los plazos convenientes para el desahogo de todas las instancias de impugnación, tomando en cuenta el principio de definitividad de los procesos electorales;
+IV. Determinar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública estatal, municipal o al patrimonio de los entes públicos estatales;
 
-V. El Tribunal Estatal Electoral emitirá, en su caso, la Declaratoria de Revocación de Mandato de Gobernador del Estado, en los términos de esta Constitución y las Leyes; y
+V. Imponer a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios que refiere la fracción interior (sic). Las personas morales serán sancionadas en los términos de esta fracción cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá decretarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública, siempre que se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva;
 
-VI. Las demás atribuciones que le confieran esta Constitución y la Ley.
+VI. Resolver las controversias que se susciten entre la Administración Pública Estatal y los particulares. Así como las que se susciten entre los Municipios entre sí o entre éstos y el Gobierno del Estado, como consecuencia de los convenios que celebren para el ejercicio de funciones, de ejecución de obras o prestación de servicios públicos municipales; la ley establecerá las normas para su organización y funcionamiento, el procedimiento y los recursos contra sus resoluciones; con sujeción a los principios de igualdad, publicidad, audiencia y legalidad, y
 
-B. El Tribunal de Fiscalización del Poder Judicial del Estado de Oaxaca, es la máxima autoridad jurisdiccional en materia de fiscalización y rendición de cuentas, y tendrá las siguientes atribuciones:
+VII. Conocer de las controversias que se susciten entre los particulares y la Administración Pública Municipal, cuando no haya organismos o disposiciones de carácter municipal que diriman dichas controversias. Estas disposiciones deberán ser aprobadas por el Congreso del Estado.
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2012)</small>
+A. (DEROGADO CON SUS FRACCIONES, P.O. 30 DE JUNIO DE 2015)
 
-I. Conocer y resolver mediante juicio las controversias suscitadas por resoluciones sancionatorias que emita la Auditoría Superior del Estado;
+B. (DEROGADO CON SUS FRACCIONES, P.O. 30 DE JUNIO DE 2015)
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2012)</small>
-
-II. Una vez que se haya presentado el informe de Resultados que establece la ley, conocer y resolver mediante juicio las controversias que se susciten derivadas del procedimiento de revisión y fiscalización de las Cuentas Públicas Estatal y Municipales;
-
-III. (DEROGADA, P.O. 23 DE MARZO DE 2012)
-
-IV. (DEROGADA, P.O. 23 DE MARZO DE 2012)
-
-V. (DEROGADA, P.O. 23 DE MARZO DE 2012)
-
-C. El Tribunal de lo Contencioso Administrativo, que impartirá la Justicia Administrativa y tendrá a su cargo resolver las controversias que se susciten entre la Administración Pública Estatal y los particulares. Así como las que se susciten entre los Municipios entre sí o entre éstos y el Gobierno del Estado, como consecuencia de los convenios que celebren para el ejercicio de funciones, de ejecución de obras o prestación de servicios públicos municipales; la ley establecerá las normas para su organización y funcionamiento, el procedimiento y los recursos contra sus resoluciones, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad.
-
-Será competente para conocer de las controversias que se susciten entre los particulares y la Administración Pública Municipal, cuando no haya organismos o disposiciones de carácter municipal que diriman dichas controversias. Estas disposiciones deberán ser aprobadas por el Congreso del Estado.
+C. (DEROGADO CON SUS FRACCIONES, P.O. 30 DE JUNIO DE 2015)
 
 (REUBICADO [N. DE E. ANTES CAPITULO VI], P.O. 8 DE DICIEMBRE DE 2000)
 
@@ -2605,9 +2933,13 @@ Los Municipios se erigirán y suprimirán de conformidad con las disposiciones c
 
 Los Municipios tienen personalidad jurídica propia y constituyen un nivel de gobierno.
 
-I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal y el número de Regidores y Síndicos que la ley determine.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
-Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el periodo inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes, si podrán ser electos para el periodo inmediato como propietarios, a menos que hayan estado en ejercicio.
+I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por una Presidencia Municipal y el número de Regidurías y Sindicaturas que la ley determine, se garantizaran la paridad y alternancia de género en el registro de las planillas para hacer efectivo el principio constitucional de paridad de género.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+Los servidores públicos antes mencionados podrán ser reelectos en los términos establecidos en el artículo 29 de esta Constitución.
 
 > <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2615,7 +2947,7 @@ Para ser miembro de un Ayuntamiento se requiere:
 
 a) Ser ciudadano en ejercicio de sus derechos políticos;
 
-b) Saber leer y escribir;
+b) (DEROGADO, P.O. 30 DE JUNIO DE 2015)
 
 c) Estar avecindado en el municipio, por un período no menor de un año inmediato anterior al día de la elección;
 
@@ -2631,27 +2963,57 @@ g) No haber sido sentenciado por delitos intencionales; y
 
 h) Tener un modo honesto de vivir.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
 
-Las ciudadanas y ciudadanos comprendidos en los supuestos de los incisos d) y e), podrán ser concejales, siempre y cuando se separen del servicio activo o de sus cargos, con setenta días de anticipación a la fecha de la elección.
+i) En los municipios indígenas, además de lo establecido en los incisos anteriores, se requerirá haber cumplido con las obligaciones comunitarias establecidas en sus sistemas normativos.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+Las ciudadanas y ciudadanos comprendidos en los supuestos de los incisos d) y e), podrán ser miembros del ayuntamiento, siempre y cuando se separen del servicio activo o de sus cargos, con setenta días naturales de anticipación a la fecha de la elección.
 
 Si alguno de los miembros del Ayuntamiento dejare de desempeñar su cargo, será sustituido por su suplente o se procederá según lo disponga la ley.
 
-Los Concejales que integren los Ayuntamientos, tomarán posesión el día primero de enero del año siguiente al de su elección y durarán en su encargo tres años, no pudiendo ser reelectos para el periodo inmediato.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
-Los Concejales electos por el sistema de usos y costumbres tomarán posesión en la misma fecha y desempeñarán el cargo durante el tiempo que sus tradiciones y prácticas democráticas determinen, pero no podrá exceder de tres años.
+Los integrantes de los Ayuntamientos, tomarán posesión el día primero de enero del año siguiente al de su elección y durarán en su encargo tres años, pudiendo ser reelectos para el periodo inmediato.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+Los integrantes de los Ayuntamientos electos por el régimen de sistemas normativos internos tomarán protesta y posesión en la misma fecha acostumbrada y desempeñarán el cargo durante el tiempo que sus normas, tradiciones y prácticas democráticas determinen.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
+
+La asamblea general o la institución encargada de elegir a las autoridades indígenas, podrá decidir por mayoría calificada la terminación anticipada del periodo para el que fueron electas, de conformidad con sus sistemas normativos y la Ley Orgánica Municipal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
+
+Los municipios con comunidades indígenas y afromexicanas integrarán sus Ayuntamientos con representantes de éstas, que serán electos de conformidad con sus sistemas normativos y tomarán participación conforme lo establezca la ley.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 El partido político cuya planilla hubiere obtenido el mayor número de votos, tendrá derecho a que le acrediten como concejales a todos los miembros de la misma.
 
-La ley reglamentaria determinará los procedimientos que se observarán en la asignación de los regidores de representación proporcional, los que tendrán la misma calidad jurídica que los electos por el sistema de mayoría relativa.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+La ley reglamentaria determinará los procedimientos que se observarán en la asignación de los regidores de representación proporcional, los que tendrán la misma calidad jurídica que los electos por el sistema de mayoría relativa. En todos los casos se garantizara la paridad de género.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 No pueden ser electos miembros de los Ayuntamientos: los militares en servicio activo, ni el personal de la fuerza de seguridad pública del Estado. Podrán serlo los servidores públicos del Estado o de la Federación, si se separan del servicio activo, los primeros o de sus cargos los segundos, con ciento veinte días de anticipación a la fecha de las elecciones.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+
 Los Ayuntamientos tendrán facultades para aprobar, de acuerdo con las leyes en materia municipal, que deberá expedir la Legislatura del Estado, los Bandos de Policía y Gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el Gobierno del Estado.
 
-La organización y regulación del funcionamiento de los Municipios, estará determinada por las leyes respectivas que expida el Congreso del Estado, sin coartar ni limitar las libertades que les concede la Constitución General de la República y la particular del Estado.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+La organización y regulación del funcionamiento de los Municipios, estará determinada por las leyes respectivas que expida el Congreso del Estado, sin coartar ni limitar las libertades que les concede la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 La representación política y administrativa de los Municipios fuera del territorio del Estado, corresponde al Ejecutivo, como representante de toda la Entidad.
 
@@ -2765,27 +3127,33 @@ IX. Cada Ayuntamiento procurará contar con una Regiduría de Equidad y Género,
 
 ## TITULO SEXTO. De los Órganos Autónomos del Estado
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 114.
 
-Conforme a esta Constitución y sus leyes respectivas, los órganos autónomos del Estado son entes públicos, con personalidad jurídica y patrimonio propio. Gozan de autonomía técnica, para su administración presupuestaria y de gestión en el ejercicio de sus atribuciones, así como para decidir sobre su organización interna, funcionamiento y resoluciones. Tienen el derecho a iniciar leyes en las materias de su competencia, presentar el proyecto de presupuesto que requieran para su inclusión en el Presupuesto de Egresos del Estado, así como promover controversias constitucionales y acciones de inconstitucionalidad en el ámbito de su competencia. Están facultados para imponer las sanciones administrativas que la Ley establezca y, en su caso, ordenar procedimientos ante la autoridad competente. Cada órgano rendirá un informe anual de labores al Congreso del Estado.
+Conforme a esta Constitución y sus leyes respectivas, los órganos autónomos del Estado son entes públicos, con personalidad jurídica y patrimonio propio. Gozan de autonomía técnica, para su administración presupuestaria y de gestión en el ejercicio de sus atribuciones, así como para decidir sobre su organización interna, funcionamiento y resoluciones. Tienen el derecho a iniciar leyes en las materias de su competencia, presentar el proyecto de presupuesto que requieran para su inclusión en el Presupuesto de Egresos del Estado, así como promover controversias constitucionales y acciones de inconstitucionalidad en el ámbito de su competencia local. Están facultados para imponer las sanciones administrativas que la Ley establezca y, en su caso, ordenar procedimientos ante la autoridad competente. Cada órgano rendirá un informe anual de labores al Congreso del Estado, el cual deberá hacer público a través de los medios electrónicos disponibles en formatos abiertos, accesibles y reutilizables.
 
-El Instituto Estatal Electoral y de Participación Ciudadana y la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales tendrán un Consejo General, que sesionará públicamente.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
-Ambos órganos elegirán a su presidente por un periodo de dos años con posibilidad de reelección. Sus miembros serán designados por el voto de las dos terceras partes de los integrantes del Congreso del Estado, durarán siete años en el cargo, sin posibilidad de reelección y serán sustituidos individualmente en forma escalonada en los términos que determinen las leyes aplicables, las cuales fijarán los requisitos y procedimientos para la postulación de aspirantes, a través de convocatoria pública y consulta abierta, atendiendo a la idoneidad, experiencia y honorabilidad, así como a los principios de pluralidad, paridad de género, apartidismo y no discriminación.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
-No serán elegibles quienes, en los dos últimos años anteriores al día de su designación, hayan sido legisladores locales o federales, se hayan desempeñado como servidores públicos de mando superior de la federación, del estado o de los ayuntamientos, o hubiesen ocupado cargo en un partido político.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
-Los miembros de estos órganos, durante el ejercicio de su encargo no podrán ocupar cargo en partidos políticos ni desempeñar otro empleo, cargo o comisión en el servicio público, excepto la docencia o la investigación académica, siempre que no medie remuneración alguna. Sólo podrán ser removidos de conformidad con lo dispuesto en esta Constitución y las leyes en la materia.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 La Ley establecerá las bases para la profesionalización de sus servidores públicos.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 Los órganos autónomos del Estado desarrollarán las actividades de su competencia, de conformidad con las siguientes disposiciones:
 
 A. DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA
 
-La protección y promoción de los derechos humanos en el Estado Libre y Soberano de Oaxaca estará a cargo de un órgano autónomo del Estado denominado Defensoría de los Derechos Humanos del Pueblo de Oaxaca. Su objeto es la defensa, promoción, estudio y divulgación de los derechos humanos y la no discriminación, consagrados en esta Constitución, así como en el resto del orden jurídico mexicano e instrumentos internacionales ratificados por el Estado mexicano y fomentar el respeto a la identidad y derechos de las comunidades y pueblos indígenas del Estado. La Defensoría estará presidida por un titular cuya denominación será Defensor de los Derechos Humanos del Pueblo de Oaxaca.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+La protección y promoción de los derechos humanos en el Estado Libre y soberano de Oaxaca estará a cargo de un órgano autónomo del Estado denominado Defensoría de los Derechos Humanos del Pueblo de Oaxaca. Su objeto es la defensa, promoción, estudio y divulgación de los derechos humanos consagrados en esta Constitución, así como en el resto del orden jurídico mexicano e instrumentos internacionales ratificados por el Estado mexicano; la atención, prevención y erradicación de cualquier forma de discriminación y violencia; y fomentar el respeto a la identidad y derechos de las comunidades y pueblos indígenas y afromexicanos del Estado. La Defensoría estará presidida por un titular cuya denominación será Defensor de los Derechos Humanos del Pueblo de Oaxaca
 
 La Defensoría tendrá las siguientes atribuciones:
 
@@ -2793,9 +3161,17 @@ I. Conocer de las quejas que presente cualquier persona, sobre actos u omisiones
 
 II. Formular recomendaciones públicas no vinculatorias, propuestas, informes, así como denuncias y quejas a las autoridades respectivas. No tendrá competencia para intervenir o conocer de quejas referentes a asuntos, laborales, electorales y jurisdiccionales;
 
-III. Proponer a las autoridades del Estado de Oaxaca la formulación de modificaciones a las disposiciones legislativas reglamentarias, así como prácticas administrativas que a juicio de la Defensoría redunden en una mejor protección de los derechos humanos;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
 
-IV. Ante el incumplimiento reiterado de sus recomendaciones, la Defensoría podrá hacerlas del conocimiento del Congreso y de la autoridad que estime pertinente para los efectos procedentes; y
+Antes de emitir sus recomendaciones, conocer, adecuar y coordinar los sistemas normativos indígenas y las normas del Estado.
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+III. Conocer de las quejas que presenten los pueblos y comunidades indígenas y afromexicanas, sobre actos u omisiones de naturaleza administrativa que se consideren violatorios de los derechos colectivos y provengan de cualquier servidor público del Estado o los Municipios, con excepción de los actos u omisiones del Poder Judicial del Estado;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+IV. Todo servidor público está obligado a responder las recomendaciones que les presenten estos órganos. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa. Ante el incumplimiento reiterado de sus recomendaciones, la Defensoría podrá hacerlas del conocimiento del Congreso y de la autoridad que estime pertinente para los efectos procedentes; y
 
 V. Las demás que le atribuyan esta Constitución y las leyes.
 
@@ -2803,51 +3179,185 @@ El titular de la Defensoría será designado por el voto de las dos terceras par
 
 Durante el ejercicio de su encargo no podrá ocupar cargo en partidos políticos ni desempeñar otro empleo, cargo o comisión en el servicio público, excepto la docencia o la investigación académica, siempre que no medie remuneración alguna. Sólo podrá ser removido de conformidad con lo dispuesto en esta Constitución y las leyes en la materia.
 
-B. DEL INSTITUTO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA
+B. (DEROGADO CON SUS FRACCIONES, P.O. 30 DE JUNIO DE 2015)
 
-La organización, desarrollo y vigilancia de las elecciones, plebiscitos, referendos y revocación de mandato en el Estado estará a cargo de un órgano autónomo del Estado denominado Instituto Estatal Electoral y de Participación Ciudadana. El ejercicio de sus funciones se sujetará a los principios rectores de certeza, legalidad, independencia, imparcialidad y objetividad. El Consejo General estará integrado por siete Consejeros.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+C. EL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES.
+
+El Instituto de Acceso a la Información Pública y Protección de Datos Personales, es un órgano autónomo del Estado, especializado, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el cumplimiento del derecho de acceso a la información pública y a la protección de datos personales en posesión de los sujetos obligados en los términos que establezca la ley.
+
+Sesionará colegiadamente y públicamente, se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+
+Su Pleno estará integrado por un Comisionado Presidente y dos Comisionados ciudadanos; serán designados por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, atendiendo a la idoneidad, experiencia y honorabilidad, así como, a los principios de pluralidad, paridad de género, independencia, profesionalismo y no discriminación; durarán en el cargo cinco años, sin posibilidad de reelección y serán sustituidos individualmente en forma escalonada en los términos que determine (sic) las leyes en la materia.
+
+El nombramiento podrá ser objetado por el Gobernador del Estado, en un plazo de diez días hábiles. Si el Gobernador no objetare el nombramiento dentro de dicho plazo, ocupará el cargo de Comisionado, la persona nombrada por el Congreso del Estado.
+
+No podrán ocupar cargo en partidos políticos ni desempeñar otro empleo, cargo o comisión en el servicio público, excepto en instituciones docentes, científicas o de beneficencia, siempre que no medie remuneración alguna. Sólo podrán ser removidos de conformidad con lo dispuesto en esta Constitución y las leyes de la materia. Percibirán una remuneración conforme la legislación que establezca el Estado.
+
+El Instituto contará con las siguientes atribuciones:
+
+I. Conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales de cualquier autoridad, entidad, órgano u organismo que forme parte de alguno de los Poderes Ejecutivo, Legislativo y Judicial, Órganos Autónomos del Estado, partidos políticos, fideicomisos y fondos públicos, así como, de cualquier persona física, moral o sindicatos que reciban y ejerzan recursos públicos o realicen actos de autoridad en el ámbito estatal;
+
+II. Emitir criterios generales y lineamientos para la salvaguarda de los derechos consagrados en el artículo 3 de esta Constitución, de conformidad con la ley en la materia;
+
+III. Conocer, instruir y resolver en única instancia, las impugnaciones y acciones que se presenten contra las autoridades que nieguen o restrinjan el acceso a la información pública;
+
+IV. El Instituto remitirá para conocimiento a petición fundada al organismo garante federal los recursos de revisión que por su interés y trascendencia así lo ameriten. La ley establecerá aquella información que se considere reservada o confidencial.
+
+V. Las resoluciones del Instituto son vinculatorias, definitivas e inatacables para los sujetos obligados. El Consejero Jurídico del Gobierno del Estado podrá interponer recurso de revisión ante el Poder Judicial del Estado en los términos que establezca la ley, sólo en el caso que dichas resoluciones puedan poner en peligro la seguridad estatal y nacional conforme a la ley.
+
+VI. Promover entre los servidores públicos y la población en general la cultura de la transparencia y el acceso a la información, y
+
+VII. Las demás que señale: la Constitución Política de los Estados Unidos Mexicanos, La Ley General de Transparencia y acceso a la Información publica, esta Constitución Política y las leyes aplicables en la materia.
+
+El Instituto tendrá un Consejo Consultivo integrado por cinco consejeros, de carácter honorífico y sin goce de sueldo, que serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados por el periodo de cinco años. La Ley determinará los procedimientos a seguir para la presentación de las propuestas por la propia Cámara. Anualmente será substituido el consejero de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo periodo.
+
+El Instituto coordinará sus acciones con el órgano garante federal, con la entidad especializada en materia de archivos y con el organismo encargado de regular la captación, procesamiento y publicación de la información estadística y geográfica, con el objeto de fortalecer la rendición de cuentas del Estado mexicano.
+
+La Ley establecerá las medidas de apremio que podrá imponer el órgano garante para asegurar el cumplimiento de sus decisiones.
+
+Toda autoridad y servidor público estará obligado a coadyuvar con el organismo garante y sus integrantes para el buen desempeño de sus funciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEXTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+D. DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA.
+
+El Ministerio Público es un órgano público autónomo, único e indivisible, dotado de personalidad jurídica y de patrimonio propios, que representa a la sociedad y le compete la conducción de la investigación de los delitos y de manera exclusiva el ejercicio de la acción penal ante los Tribunales, debiendo velar por la exacta observancia de las leyes y que se rige en el ejercicio de sus funciones por los principios de buena fe, autonomía, certeza, legalidad, objetividad, pluriculturalidad, imparcialidad, eficacia, honradez, profesionalismo y respeto a los derechos humanos.
+
+El titular del Ministerio Público será el Fiscal General del Estado de Oaxaca.
+
+Para ser Fiscal General del Estado, se requiere: ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles; tener cuando menos treinta y cinco años cumplidos el día de su elección; contar al día de su elección con antigüedad mínima de diez años, con título y cédula profesional de licenciado en derecho, expedidos por la autoridad o institución legalmente facultada para ello; gozar de buena reputación; no haber sido condenado por delito doloso, y haber residido en el Estado durante los dos años anteriores al día de la elección. La ley determinará los requisitos que deben reunir los Agentes del Ministerio Público.
+
+El Fiscal General del Estado durará en su encargo cuatro años y será elegido por el Congreso del Estado de una terna de juristas de reconocida capacidad profesional y solvencia moral que el titular del Poder Ejecutivo someterá dentro (sic) los veinte días siguientes a partir de la ausencia definitiva del Fiscal General.
+
+El Congreso elegirá al Fiscal General del Estado, previa comparecencia de las personas propuestas, por la mayoría de los diputados presentes. En sus recesos, la Diputación Permanente convocara a un periodo extraordinario en el improrrogable plazo de diez días hábiles para elegir al Fiscal General. En caso de que la Legislatura no resuelva dentro de dicho plazo, ocupará el cargo la persona que de esta terna designe el Gobernador del Estado.
+
+Si el Congreso del Estado rechaza la terna propuesta o no hace la designación en los plazos que establecen los párrafos anteriores, ocupará el cargo la persona que dentro de la terna propuesta designe el Gobernador del Estado.
+
+El Fiscal General del Estado dejará de ejercer su cargo por renuncia, o podrá ser removido por el ejecutivo por las causales de responsabilidad en los casos previstos en el Título Séptimo de esta Constitución y la ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes del Congreso del Estado dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General será restituido en el ejercicio de sus funciones. Si el Congreso no se pronuncia al respecto, se entenderá que no existe objeción
+
+Las ausencias del Fiscal General del Estado de Oaxaca, serán suplidas en los términos que determine la ley.
+
+El Fiscal General del Estado de Oaxaca, podrá crear las fiscalías que se requieran para el adecuado funcionamiento de la Institución, así mismo podrá nombrar y remover a los servidores públicos y agentes del Ministerio Público; y contará al menos con una fiscalía especializada en delitos electorales y otra en materia de combate a la corrupción.
+
+Los titulares de las fiscalías serán nombrados por el Fiscal General del Estado de Oaxaca, cumpliendo con los requisitos que establezca la Ley.
+
+La Ley determinará los requisitos que deben cubrir los Agentes del Ministerio Público y demás servidores públicos que integran la estructura de la Fiscalía General del Estado de Oaxaca.
+
+Las funciones del Fiscal General del Estado, Fiscalías y Agentes del Ministerio Público, son incompatibles con el ejercicio de la abogacía y con cualquier otro cargo, empleo o comisión por el que se disfrute sueldo, excepto cuando litigue en causa propia, de su cónyuge, concubina o concubinario, de sus ascendientes o descendientes, de sus hermanos o de su adoptante o adoptado; y cuando se trate de actividades académicas o docentes.
+
+La ley establecerá las bases para la formación y actualización de los servidores públicos de la Fiscalía General, así como, para el desarrollo de la carrera profesional de los mismos.
+
+El Fiscal General del Estado de Oaxaca, presentará anualmente, al Poder Legislativo un informe de actividades. Comparecerá ante el Congreso del Estado cuando se le cite.
+
+El Fiscal General del Estado de Oaxaca y sus agentes, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
+
+La fiscalía General del Estado de Oaxaca, respetara, los sistemas normativos, las especificidades culturales y la integridad de las personas indígenas.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE JUNIO DE 2015)</small>
+
+### CAPITULO I. Del Tribunal Electoral del Estado de Oaxaca
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+ARTICULO 114 BIS. El Tribunal Electoral del Estado de Oaxaca, es un órgano especializado, autónomo en su funcionamiento e independiente en sus decisiones, es la máxima autoridad jurisdiccional en materia electoral del Estado de Oaxaca y tendrá las siguientes atribuciones:
+
+I.- Conocer de los recursos y medios de impugnación que se interpongan respecto de las elecciones de Gobernador del Estado, Diputados y Concejales de los Ayuntamientos por los regímenes de partidos políticos y de sistemas normativos indígenas, de la revocación de mandato el (sic) Gobernador del Estado, así como de todas las demás controversias que determine la ley respectiva;
+
+II. Resolver en única instancia las impugnaciones que se presenten en contra de la elección de Gobernador del Estado;
+
+III. Realizar el cómputo final y la calificación de la elección de Gobernador del Estado, una vez resueltas las impugnaciones que se hubieren interpuesto sobre la misma, o cuando se tenga constancia de que no se presentó ningún recurso, procediendo a formular la declaratoria de Gobernador electo, respecto del candidato que hubiese obtenido el mayor número de votos, comunicándolo a la Legislatura para difundirlo mediante Bando Solemne y por otros medios idóneos;
+
+IV. Resolver los procedimientos especiales sancionadores instruidos por el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, en los términos previstos en la Ley General de Instituciones y Procedimientos Electorales y la ley;
+
+V. Se preverán los plazos convenientes para el desahogo de todas las instancias de impugnación, tomando en cuenta el principio de definitividad de los procesos electorales.
+
+VI. Podrá decretar la nulidad de una elección de conformidad con el sistema de nulidades de las elecciones locales por violaciones graves, dolosas y determinantes en los siguientes casos:
+
+a) Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;
+
+b) Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la Ley.
+
+c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas, y
+
+d) Las demás causas previstas en esta Constitución y por las causas expresamente establecidas en la Ley.
+
+VII. Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento. En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
+
+VIII. El Tribunal Estatal Electoral emitirá, en su caso, la Declaratoria de Revocación de Mandato de Gobernador del Estado, en los términos de esta Constitución y las Leyes; y
+
+IX. Las demás atribuciones que le confieran esta Constitución, y las leyes.
+
+El Tribunal funcionara en pleno, sus resoluciones se tomaran por mayoría de votos y sus sesiones serán públicas. El pleno del tribunal, estará integrado por tres Magistrados quienes elegirán dentro de sus integrantes al Presidente del Tribunal conforme a su Ley Orgánica, duraran en su cargo siete años y serán designados conforme a la Ley General de Instituciones y procedimientos Electorales; percibirán una remuneración conforme a la legislación que establezca el Estado.
+
+El Tribunal respetará los sistemas normativos indígenas en el marco del pluralismo jurídico.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE JUNIO DE 2015)</small>
+
+### CAPITULO II. Del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+ARTICULO 114 TER. La organización, desarrollo, vigilancia y calificación de las elecciones, plebiscitos, referendos y revocación de mandato en el Estado estará a cargo de un órgano denominado Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca y del Instituto Nacional Electoral, gozara de autonomía en su funcionamiento e independencia en sus decisiones, en términos de lo previsto en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y la Legislación correspondiente.
+
+El Instituto contará con un órgano de dirección superior integrado por un consejero Presidente y seis consejeros electorales, con derecho a voz y voto; el Secretario Ejecutivo y los representantes de los partidos políticos concurrirán a las sesiones sólo con derecho a voz; cada partido político contará con un representante en dicho órgano.
+
+El Consejero Presidente y los consejeros electorales del Instituto serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Instituciones y Procedimientos Electorales. Los consejeros electorales deberán ser ciudadanos oaxaqueños por nacimiento o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación, y cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la Ley General de Instituciones y Procedimientos Electorales. En caso de que ocurra una vacante se procederá conforme a lo dispuestos (sic) por la Constitución Política de los Estados Unidos Mexicanos.
+
+Los consejeros electorales locales tendrán un período de desempeño de siete años y no podrán ser reelectos; percibirán una remuneración que no podrá ser superior a la que percibe un Secretario de la Administración Pública Estatal y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la Ley General de Instituciones y Procedimientos Electorales.
+
+Los consejeros electorales locales y demás servidores públicos que establezca la Ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+
+El Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca ejercerá funciones en las siguientes materias:
+
+a). Derechos y el acceso a las prerrogativas de los candidatos y partidos políticos;
+
+b). Educación cívica en el fortalecimiento de la vida democrática en la entidad y la promoción de la participación política en igualdad de condiciones con los varones.
+
+c). Preparación de la jornada electoral;
+
+d). Impresión de documentos y la producción de materiales electorales;
+
+e). Escrutinios y cómputos en los términos que señale la ley;
+
+f). Declaración de validez y el otorgamiento de constancias;
+
+g). Cómputo de la elección del Gobernador;
+
+h). Resultados preliminares; encuestas o sondeos de opinión; observación electoral, y en conteos rápidos, conforme a los lineamientos a los que se refiere el apartado B de la base V del artículo 41, de la Constitución Política de los Estados Unidos Mexicanos;
+
+i). Organización, desarrollo, cómputo y declaración de resultados en los mecanismos de participación ciudadana;
+
+j). Todas las no reservadas al Instituto Nacional Electoral, y
+
+k). Las que determine la ley.
 
 El Instituto contará con las siguientes facultades:
 
-I. Celebrar convenios con el Instituto Federal Electoral en los términos y condiciones que indiquen la Constitución Política de los Estados Unidos Mexicanos y la ley de la materia;
+I. Celebrar convenios con el Instituto Nacional Electoral en los términos y condiciones que indiquen la Constitución Política de los Estados Unidos Mexicanos y la ley de la materia;
 
-II.- Desempeñar las actividades relativas a la capacitación electoral, la educación cívica, el desarrollo de materiales electorales, impresos y electrónicos, la preparación de la jornada electoral y los procesos de plebiscito, referéndum y, en su caso, revocación de mandato, la realización de cómputos, la calificación y, en su caso, la declaración de validez de las elecciones y el otorgamiento de constancias, así como la remisión del expediente del cómputo al Tribunal Estatal Electoral, para los efectos constitucionales. Asimismo, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos;
+II. Desempeñar las actividades relativas a la educación cívica, la impresión de documentos y la producción de materiales electorales, impresos y electrónicos, la preparación de la jornada electoral y los procesos de plebiscito, referéndum y, en su caso, revocación de mandato, la realización de cómputos, la calificación y, en su caso, la declaración de validez de las elecciones y el otorgamiento de constancias, así como la remisión del expediente del cómputo al Tribunal Estatal Electoral, para los efectos constitucionales. Asimismo, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos; y ejercerá funciones en materia de resultados preliminares, encuestas o sondeos de opinión, observación electoral, y conteos rápidos, de conformidad con los lineamientos establecidos por el Instituto Nacional Electoral;
 
-III. Fiscalizar el financiamiento y el ejercicio de los recursos de los partidos políticos, lo que en ningún caso estará limitado por los secretos bancario, fiduciario y fiscal. El Instituto ejercerá esta facultad a través del órgano técnico de fiscalización del Instituto Estatal Electoral y de Participación Ciudadana, quien en su caso impondrá las sanciones que establezca la ley sin perjuicio de las denuncias que corresponda presentar ante la autoridad competente;
+III. Integrar y certificar los requisitos de las solicitudes de plebiscito y referéndum para someterlas a consideración ciudadana durante la elección estatal, siempre y cuando la solicitud se realice en un plazo no menor a ciento veinte días previos a la elección de que se trate;
 
-IV. Integrar y certificar los requisitos de las solicitudes de plebiscito y referéndum para someterlas a consideración ciudadana durante la elección estatal, siempre y cuando la solicitud se realice en un plazo no menor a ciento veinte días previos a la elección de que se trate; y
+IV. Contar con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley.
 
-V. Las demás que le atribuyan esta Constitución y las leyes.
+V. Presentar iniciativas relativas a la materia electoral;
 
-C. DE LA COMISIÓN DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES
+VI. Garantizar el respeto y fortalecimiento de los sistemas e instituciones políticas de los pueblos indígenas y afromexicano, en particular lo relativo a su libre determinación y autonomía para decidir sus formas de organización política, los procesos de elección y el nombramiento de sus autoridades y representantes en las instancias de gobierno y participación reconocidas en esta Constitución; y
 
-El derecho a la información y protección de datos personales estará garantizado por el órgano autónomo del Estado denominado Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales. Su objeto es garantizar, promover y difundir el ejercicio del derecho de acceso a la información; resolver sobre la negativa de información o deficiencia de la información otorgada; y proteger los datos personales en poder de los sujetos obligados. El Consejo General estará integrado por tres Consejeros.
+VII. Las demás que le atribuyan la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Partidos Políticos, la Ley General de Instituciones y Procedimientos Electorales, esta Constitución y las leyes.
 
-La Comisión contará con las siguientes atribuciones:
-
-I. Emitir criterios generales y lineamientos para la salvaguarda de los derechos consagrados en el artículo 3 de esta Constitución, de conformidad con la ley en la materia;
-
-II. Conocer, instruir y resolver en única instancia, las impugnaciones y acciones que se presenten contra las autoridades que nieguen o restrinjan el acceso a la información pública;
-
-III. Promover entre los servidores públicos y la población en general la cultura de la transparencia y el acceso a la información; y
-
-IV.- Las demás que le atribuyan esta Constitución y las leyes.
-
-(REUBICADO [N. DE E. ANTES TITULO QUINTO], P.O. 8 DE DICIEMBRE DE 2000)
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JUNIO DE 2015)</small>
 
 ### CAPITULO PRIMERO.. De la Justicia Administrativa
 
-### CAPITULO SEGUNDO. Principios Generales de la Administración del Estado
+## TITULO SEPTIMO
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
-
-ARTICULO 125 BIS.- El matrimonio es un contrato civil. El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. El matrimonio y los demás actos del estado civil de las personas, son de la exclusiva competencia de los servidores públicos y autoridades del orden civil, en los términos prevenidos por las leyes y tendrán la fuerza y validez que las mismas les atribuyan.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
-
-### Capítulo VI. De la Colaboración con el Instituto
-
-## TITULO SEPTIMO. De la Responsabilidad de los Servidores Públicos del Estado y Municipales
+De las Responsabilidades de los Servidores Públicos del Estado y Municipales, particulares vinculados con faltas administrativas o hechos de corrupción y patrimonial del Estado
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 139], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -2857,35 +3367,73 @@ Para los efectos de las responsabilidades a que alude este título se reputarán
 
 El Gobernador del Estado, para los efectos de este Título, sólo es responsable por delitos graves del orden común y por violación expresa del Artículo 81 de esta Constitución sin perjuicio de la responsabilidad política que se consigna en los términos del Artículo 110 de la Constitución Federal.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEXTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados de los Tribunales Especializados; los Titulares de las Secretarías y el Procurador General de Justicia, son responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las leyes federales, a esta Constitución y a las leyes que de ellas emanen, así como por el manejo indebido de fondos y recursos del Estado.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 140], P.O. 8 DE DICIEMBRE DE 2000)</small>
+Los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo y de Cuentas; Consejeros de la Judicatura; los Titulares de las Secretarías y de los órganos autónomos nombrados por el congreso y el Fiscal General del Estado de Oaxaca, son responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las leyes federales, a esta Constitución y a las leyes que de ellas emanen, así como por el manejo indebido de fondos y recursos del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+Los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial y de intereses ante las autoridades competentes y en los términos que determine la ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 116.
 
-El Congreso del Estado expedirá la Ley de Responsabilidades de los Servidores Públicos y las demás normas conducentes, a sancionar a quienes, teniendo este carácter incurran en responsabilidades de acuerdo con las siguientes prevenciones:
+Los Servidores Públicos y particulares que incurran en responsabilidad frente al Estado, serán sancionados conforme a lo siguiente:
 
-I.- Se impondrán mediante juicio político, las sanciones indicadas en el Artículo 117 de esta Constitución a los servidores públicos señalados en ella, cuando en ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+I. Se impondrán mediante juicio político, las sanciones indicadas en el Artículo 117 de esta Constitución a los servidores públicos señalados en ella, cuando en ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
 
 No procede el juicio político por la mera expresión de ideas;
 
-II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la legislación penal, y
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
 
-III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
+Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Legislativo del Estado, respecto a las conductas a las que se refiere la presente fracción.
 
-Los procedimientos para la aplicación de las sanciones a que se refieren las fracciones anteriores, se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-Las leyes determinarán los casos y las circunstancias en los que se deban sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo por sí o por interpósita persona, aumenten sustancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, y cuya procedencia lícita, no pudiesen justificar. Las leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
+II. La comisión de delitos por parte de cualquier servidor público o particulares que incurran en hechos de corrupción será sancionada en los términos de la legislación penal aplicable.
 
-Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Legislativo del Estado, respecto a las conductas a las que se refiere el presente Artículo.
+La ley determinarán (sic) los casos y las circunstancias en los que se deban sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivo del mismo por sí o por interpósita persona, aumenten sustancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, y cuya procedencia lícita, no pudiesen justificar. La ley sancionará con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
+III. Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
+
+Las sanciones administrativas consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas que deberán tomar en consideración los daños y perjuicios patrimoniales causados. En los casos de corrupción la sanción económica considerará además los beneficios obtenidos. En ningún caso las sanciones excederán de tres tantos los beneficios obtenidos o los daños y perjuicios causados. La ley establecerá los procedimientos para la investigación y sanción de dichos actos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
+
+Las faltas administrativas serán investigadas por los órganos internos de control de los poderes, órganos autónomos y municipios, y las calificadas como graves serán resueltas por el Tribunal de lo Contencioso Administrativo y de Cuentas. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los propios órganos internos de control.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
+
+La ley establecerá los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas graves, que realicen los órganos internos de control.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
+
+Los entes públicos estatales tendrán órganos internos de control con las facultades que determine la ley para prevenir, observar e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas distintas a las que son competencia del Tribunal de lo Contencioso Administrativo y de Cuentas; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos, así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción a que se refiere esta Constitución.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+Los procedimientos para la aplicación de las sanciones mencionadas en las fracciones anteriores se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEXTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 117.
 
-Podrán ser sujetos de juicio político el Gobernador del Estado; los Diputados de la Legislatura Local; los Magistrados del Tribunal Superior de Justicia; los Magistrados de los Tribunales Especializados; los Titulares de las Secretarías; el Procurador General de Justicia; los Magistrados del Tribunal Estatal Electoral; el Consejero Presidente, el Director, el Secretario General y los Consejeros Electorales del Instituto Estatal Electoral y de Participación Ciudadana; el Auditor Superior del Estado; los Magistrados del Tribunal Contencioso Administrativo y los demás Titulares de los Órganos Autónomos.
+Podrán ser sujetos de juicio político el Gobernador del Estado; los Diputados de la Legislatura Local; los Magistrados del Tribunal Superior de Justicia; los Titulares de las Secretarías; el Fiscal General del Estado de Oaxaca; los Magistrados del Tribunal Estatal Electoral de Oaxaca; el Auditor Superior del Estado, los Sub Auditores; los Magistrados del Tribunal Contencioso Administrativo y de cuentas y los demás integrantes de los Órganos Autónomos.
 
 (REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
 
@@ -2903,11 +3451,13 @@ Conociendo el dictamen el Congreso del Estado erigido en Jurado de Sentencia, ap
 
 Las declaraciones y resoluciones del Congreso del Estado son inatacables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEXTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 118.
 
-Para proceder penalmente contra los Diputados al Congreso del Estado; los Magistrados del Tribunal Superior de Justicia; los titulares de las Secretarías; el Procurador General de Justicia; los Magistrados del Tribunal Estatal Electoral; el Consejero Presidente, el Director General, el Secretario General, los Consejeros Electorales del Consejo General del Instituto Estatal Electoral; el Auditor Superior del Estado y los Magistrados del Tribunal de lo Contencioso Administrativo, por la comisión de delitos durante el tiempo de su encargo, la Legislatura declarará, por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia; los titulares de las Secretarías; el Fiscal General del Estado de Oaxaca; los Magistrados del Tribunal Estatal Electoral de Oaxaca; el Consejero Presidente, el Secretario Ejecutivo, los Consejeros Electorales del Consejo General del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca; los Consejeros de la Judicatura, el Auditor Superior del Estado, los Sub Auditores y los Magistrados del Tribunal de lo Contencioso Administrativo y de Cuentas, Titulares e integrantes del órgano superior de dirección de los órganos constitucionales autónomos, por la comisión de delitos durante el tiempo de su encargo, la Legislatura declarará, por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
 
 (REFORMADO, P.O. 8 DE DICIEMBRE DE 2000) (F. DE E., P.O. 21 DE ENERO DE 2006)
 
@@ -2949,15 +3499,37 @@ No se requerirá declaración de procedencia del Congreso del Estado cuando algu
 
 Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para que desempeñe otro cargo distinto, pero de los enumerados en el Artículo 118 se procederá de acuerdo con lo dispuesto en dicho precepto.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 144], P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
 
-## TITULO OCTAVO. Principios Generales de la Administración Pública y del Estado
+## TITULO SEPTIMO (SIC). De las Responsabilidades de los Servidores Públicos del Estado y Patrimonial del Estado y los Municipios
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 120.
 
-Las leyes sobre responsabilidades administrativas de los servidores públicos determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos o comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las leyes, consistirán en la suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la fracción III del Artículo 116, pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+El Sistema Estatal de Combate a la Corrupción es la instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
+
+I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción; de la Secretaría de la Contraloría y Transparencia Gubernamental; por el presidente del Tribunal de lo Contencioso Administrativo y de Cuentas; el presidente del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Oaxaca, así como por un representante del Consejo de la Judicatura y otro del Comité de Participación Ciudadana;
+
+II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley, y
+
+III. Corresponderá al Comité Coordinador del Sistema, en los términos que determine la Ley:
+
+a) El establecimiento de mecanismos de coordinación con los sistemas federal y municipal;
+
+b) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan;
+
+c) La determinación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes de los órdenes de gobierno;
+
+d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades de los órdenes de gobierno en materia de fiscalización y control de los recursos públicos;
+
+e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia. Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas.
+
+Los órganos de control interno de los poderes, organismos autónomos y municipios, así como la Auditoría Superior del Estado desarrollarán programas y acciones para difundir y promover la ética y la honestidad en el servicio público, así como la cultura de la legalidad.
+
+Las autoridades del Estado y de los Municipios colaborarán y prestarán auxilio a los órganos de control interno de los poderes, organismos autónomos, así como la Auditoría Superior del Estado, la Fiscalía Especializada en Combate a la Corrupción y al Tribunal de lo Contencioso Administrativo y de Cuentas en materia de combate a la corrupción en los términos que fije la ley.
+
+La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 145], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -2971,11 +3543,11 @@ La responsabilidad por delitos cometidos durante el tiempo del encargo por cualq
 
 La Ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta a la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del Artículo 116. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 146], P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 122.
 
-Los miembros de los Ayuntamientos y los alcaldes son responsables de los delitos comunes y de los delitos y faltas oficiales que cometan durante su encargo.
+Los miembros de los Ayuntamientos y los Alcaldes son responsables de los delitos comunes, de las infracciones administrativas; así como hechos de corrupción que cometan durante su encargo.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 147], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -2999,11 +3571,17 @@ Las declaraciones y resoluciones del Ayuntamiento son inatacables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2011)</small>
 
-## TITULO NOVENO. De las Adiciones y Reformas a la Constitución
+## TITULO OCTAVO. Principios Generales de la Administración Pública y del Estado
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 164], P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-### Capítulo Único. Del Espectro Radioeléctrico
+### CAPITULO SEGUNDO. Principios Generales de la Administración del Estado
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+
+ARTICULO 125 BIS.- El matrimonio es un contrato civil. El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. El matrimonio y los demás actos del estado civil de las personas, son de la exclusiva competencia de los servidores públicos y autoridades del orden civil, en los términos prevenidos por las leyes y tendrán la fuerza y validez que las mismas les atribuyan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 125.
 
@@ -3081,11 +3659,13 @@ Los trabajadores al servicio de los Poderes del Estado y sus Ayuntamientos, tend
 
 En el Estado, la vagancia se considera como un delito; en consecuencia, todos sus habitantes están obligados a trabajar para subvenir a sus propias necesidades y a las de sus familias. La ley determinará los casos de excepción.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 153 BIS], P.O. 8 DE DICIEMBRE DE 2000)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEXTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 130.
 
-El Estado está obligado a entregar sin demora a los indiciados, procesados o sentenciados, así como practicar el aseguramiento y entrega de objetos, instrumentos o productos del delito, atendiendo a la autoridad de cualquier otra Entidad Federativa o del Distrito Federal que los requiera. Estas diligencias se practicarán con la intervención de la Procuraduría General de Justicia del Estado, en coordinación con la General de la República, y las demás Procuradurías Generales de Justicia de las otras Entidades Federativas y la del Distrito Federal, en los términos de los convenios de colaboración, que para este efecto se celebren.
+El Estado está obligado a entregar sin demora a los indiciados, procesados o sentenciados, así como, practicar el aseguramiento y entrega de objetos, instrumentos o productos del delito, atendiendo a la autoridad de cualquier otra Entidad Federativa o del Distrito Federal que los requiera. Estas diligencias se practicarán con la intervención de la Fiscalía General del Estado de Oaxaca, en coordinación con la Fiscalía General de la República, y sus homólogas de las Entidades Federativas, en los términos de los convenios de colaboración, que para este efecto se celebren.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 154], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -3233,9 +3813,9 @@ Los servidores públicos que la ley determine deberán someterse para su ingreso
 
 (REUBICADO [N. DE E. ANTES TÍTULO SÉPTIMO], P.O. 8 DE DICIEMBRE DE 2000)
 
-## TITULO DECIMO. De la Inviolabilidad de la Constitución
+## TITULO NOVENO. De las Adiciones y Reformas a la Constitución
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 165], P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 164], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 141.
 
@@ -3251,7 +3831,9 @@ Si la Legislatura estuviere en receso, será convocada a sesiones extraordinaria
 
 (REUBICADO [N. DE E. ANTES TITULO OCTAVO], P.O. 8 DE DICIEMBRE DE 2000)
 
-## TÍTULO DÉCIMO PRIMERO. De los Contenidos Audiovisuales
+## TITULO DECIMO. De la Inviolabilidad de la Constitución
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 165], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 142.
 
@@ -4104,6 +4686,84 @@ SEGUNDO.- Se deroga toda disposición que se oponga a la presente reforma.
 P.O. 12 DE ABRIL DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor día (sic) el primero de mayo del presente año, publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE JUNIO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, salvo lo dispuesto en los transitorios siguientes.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+TERCERO. El Titular del Poder Ejecutivo dispondrá que el texto íntegro del presente Decreto, se traduzca y sea plenamente difundido en forma oral y escrita en las lenguas indígenas del Estado conforme a la suficiencia presupuestal.
+
+CUARTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+QUINTO. Los Poderes Ejecutivo y Legislativo tomarán las medidas necesarias para la implementación del presente Decreto.
+
+SEXTO. Las reformas y adiciones de los artículos 35, párrafo segundo, 59, fracciones XXXIII y LI, 65, fracción IX, 68, fracción III, 101, fracción VI, 114 inciso D), 115, párrafo tercero, 117, párrafo primero, 118, párrafo primero y 130, de la Constitución Política del Estado Libre y Soberano de Oaxaca, entrarán en vigor en la misma fecha en que inicie su vigencia la Ley Orgánica de la Fiscalía General del Estado de Oaxaca, la cual deberá expedirse por el Congreso del Estado dentro de los 60 días naturales siguientes a la publicación del presente Decreto.
+
+Los recursos humanos, materiales, financieros y presupuestales de la Procuraduría, se transfieren a la Fiscalía General del Estado.
+
+SEPTIMO. El Congreso del Estado deberá adecuar la legislación secundaria en material (sic) electoral a más tardar noventa días antes del inicio del proceso electoral 2015-2016.
+
+OCTAVO. Para efectos de cumplir con lo dispuesto en el artículo 116, fracción IV, inciso n), de la Constitución Política de los Estados Unidos Mexicanos, en el sentido de verificar, al menos, una elección local en la misma fecha en que tenga lugar alguna de las elecciones federales:
+
+a) Por única ocasión las y los diputados al Congreso del Estado que se elijan el primer domingo de junio de 2016, iniciaran su periodo el 13 de noviembre de 2016 y concluirán el 13 de noviembre de 2018.
+
+b) Por única ocasión, los integrantes de los ayuntamientos electos por el sistema de partidos políticos y candidatos independientes en el proceso electoral del año 2016, iniciaran su periodo el primero de enero de 2017 y concluirán el 31 de diciembre de 2018.
+
+NOVENO. De conformidad con lo que dispone el primer párrafo de la fracción III de la base A del artículo 25 reformado mediante el presente Decreto, a partir del año 2016 las elecciones locales se celebrarán el primer domingo de junio del año que corresponda, salvo las que se verifiquen en el año 2018 para elegir diputados y ayuntamientos, las cuales se llevarán a cabo el primer domingo de julio.
+
+DECIMO. El proceso electoral ordinario que tendrá lugar el primer domingo de junio del año 2016 iniciará el ocho de octubre del año 2015.
+
+DÉCIMO PRIMERO. Todas las referencias hechas al Instituto Estatal Electoral y de Participación Ciudadana del Estado de Oaxaca en los diversos ordenamientos jurídicos estatales se entenderán como hechas en su carácter de Organismo Público Local en Material (sic) Electoral.
+
+DÉCIMO SEGUNDO. Las reformas a los artículos 29 y 32 de esta Constitución en materia de elecciones consecutivas serán aplicables a los diputados y miembros de los ayuntamientos que sean electos a partir del proceso electoral de 2016.
+
+DÉCIMO TERCERO. La presidencia de la Mesa Directiva de la Legislatura remitirá al Senado de la República un ejemplar del Decreto para los efectos legales correspondientes.
+
+DÉCIMO CUARTO. Los magistrados actuales del Tribunal Estatal Electoral del Poder Judicial continuarán desahogando los asuntos de la materia hasta en tanto sean designados los nuevos magistrados electorales, en los términos de lo dispuesto por el inciso c) de la fracción IV del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos.
+
+DÉCIMO QUINTO. Una vez designados por el Senado de la República los nuevos magistrados electorales, éstos procederán dentro de los cinco días siguientes a instalar el Tribunal Electoral del Estado de Oaxaca, debiendo designar a su presidente y al secretario general de acuerdos.
+
+DÉCIMO SEXTO. El Poder Judicial transferirá al Tribunal Electoral del Estado de Oaxaca, todos los recursos humanos, materiales y financieros con que contaba para el desempeño de sus funciones cuando pertenecía a su estructura orgánica. Todos los servidores públicos de base y de confianza que con motivo del presente Decreto dejen de pertenecer al Poder Judicial conservarán la totalidad de sus derechos laborales. El Pleno del Tribunal Superior de Justicia, determinara la nueva adscripción de los actuales Magistrados del Tribunal Estatal Electoral del Poder Judicial del Estado.
+
+DÉCIMO SEPTIMO. Hasta en tanto entre en funciones el Tribunal Electoral del Estado de Oaxaca, seguirá conociendo de los asuntos el Tribunal Estatal Electoral del Poder Judicial, el cual deberá entregar los asuntos en trámite y el estado que guarden los mismos al órgano de nueva creación, a través del proceso de entrega-recepción.
+
+DÉCIMO OCTAVO. El Congreso del Estado, en un plazo de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, deberá emitir la Ley Orgánica del Tribunal Electoral del Estado de Oaxaca.
+
+DÉCIMO NOVENO. La situación presupuestal y laboral de las actuales autoridades electorales administrativas y jurisdiccionales locales será regulada en la ley secundaria respectiva, sin menoscabo de su (sic) derechos laborales.
+
+VIGESIMO. Los Poderes Ejecutivo y Legislativo tomarán las medidas necesarias para la implementación del voto de Los ciudadanos oaxaqueños residentes en el extranjero, conforme a la Legislación que se emita al respecto.
+
+VIGESIMO PRIMERO. El Congreso del Estado realizará las adecuaciones que resulten necesarias al marco jurídico, dentro de los 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, a fin de hacer efectivas las disposiciones del mismo.
+
+VIGESIMO SEGUNDO. Por única ocasión el Procurador General de Justicia del Estado que se encuentre en funciones al momento de publicarse el Decreto, quedará designado Fiscal General del Estado por el término que le reste a su designación a partir de la entrada en vigor de la presente reforma, sin perjuicio del procedimiento de remoción previsto en el artículo 114, inciso D) de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+
+VIGESIMO TERCERO. El Congreso del Estado procederá en un plazo máximo de sesenta días naturales a partir de la entrada en vigor del presente Decreto a elegir a los comisionados que integrarán el Instituto de Acceso a la Información Pública y Protección de Datos Personales. Por esta única ocasión, los Comisionados serán electos para cumplir un periodo de cinco, cuatro y tres años respectivamente a efecto de cumplir con la sustitución escalonada prevista en el artículo 114 de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+
+Para asegurar la renovación escalonada de los Comisionados en los primeros nombramientos, el Congreso del Estado especificará el periodo de ejercicio para cada comisionado tomando en consideración lo siguiente:
+
+a) Nombrará a un nuevo comisionado, cuyo mandato concluirá el 1 de septiembre de 2018.
+
+b) Nombrará a un nuevo comisionado, cuyo mandato concluirá el 1 de septiembre de 2019.
+
+c) Nombrará a un nuevo comisionado, cuyo mandato concluirá el 1 de septiembre de 2020.
+
+Los actuales Comisionados de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, que en virtud del presente Decreto concluyen sus funciones, tendrán derecho a participar en el proceso de designación de los nuevos comisionados del Instituto de Acceso a la Información Pública y Protección de Datos Personales.
+
+En tanto se integra el Instituto de Acceso a la Información Pública y Protección de Datos Personales, continuaran en sus funciones conforme al orden jurídico vigente los actuales Comisionados de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
+
+VIGESIMO CUARTO. Los recursos humanos, materiales y financieros de la Comisión de Transparencia, Acceso a la Información Pública y Protección de datos personales pasarán a formar parte del Instituto de Acceso a la Información Pública y Protección de Datos Personales al momento de entrar en vigencia el presente decreto. Para los efectos administrativos conducentes el Instituto contará con noventa días naturales para hacer las adecuaciones y actualizaciones necesarias. Los asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de este Decreto, se substanciarán ante el organismo garante que establece el artículo 114 apartado C de esta Constitución, creado en los términos del presente Decreto.
+
+VIGESIMO QUINTO. El Congreso del Estado contará con un plazo de 60 días contados a partir de la publicación del presente decreto en el Periódico Oficial del Gobierno del Estado para expedir la Ley del Sistema Estatal de Combate a la Corrupción.
+
+VIGESIMO SEXTO. En tanto el Congreso del Estado no emita la Ley a la que hace referencia el artículo transitorio anterior, se seguirá aplicando la Ley vigente de la materia. Las facultades de sanción de las faltas administrativas graves y resarcitorias que tenían asignadas a los órganos internos de control y la Auditoría Superior del Estado, respectivamente, se conferirán al Tribunal de lo Contencioso Administrativo y de Cuentas.
+
+Los asuntos que se encuentren en trámite al momento de realizar la transferencia de funciones y de personal serán resueltos hasta su conclusión por el órgano que inicio dicho procedimiento.
+
+VIGESIMO SEPTIMO. Para los efectos de cumplir con el mandato del artículo 111, los Tribunales de lo Contencioso Administrativo y de Fiscalización se fusionarán para crear el Tribunal de lo Contencioso Administrativo y de Cuentas. El Pleno del Tribunal Superior de Justicia, determinara la nueva adscripción de los actuales Magistrados del Tribunal de Fiscalización del Poder Judicial del Estado y el Consejo de la Judicatura decretará los mecanismos de transferencia del personal, así como los recursos humanos, materiales y financieros de ambos tribunales hacia el nuevo órgano jurisdiccional.
+
+VIGESIMO OCTAVO. Los Magistrados en funciones de los Tribunales de lo Contencioso Administrativo y de Fiscalización conformarán el Tribunal de lo Contencioso Administrativo y de Cuentas, por el tiempo para el cual fueron electos. Los presidentes de dichos tribunales integrarán la Sala Superior del Tribunal de lo Contencioso Administrativo y de Cuentas.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
