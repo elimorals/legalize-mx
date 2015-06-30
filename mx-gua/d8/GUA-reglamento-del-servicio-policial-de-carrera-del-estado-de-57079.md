@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-servicio-policial-de-carrera-del-estado-de-57079
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-18"
-last_updated: "2007-09-18"
+last_updated: "2015-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO DEL SERVICIO POLICIAL DE CARRERA DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO, PUBLICADO EN EL P.O. DE 30 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 18 de septiembre de 2007.
 
@@ -470,3 +472,23 @@ JOSÉ GERARDO MOSQUEDA MARTÍNEZ.
 EL SECRETARIO DE SEGURIDAD PÚBLICA
 
 BALTAZAR VILCHES HINOJOSA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE JUNIO DE 2015.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación del Reglamento vigente
+
+Artículo Segundo. Se abroga el Decreto Gubernativo número 49, que contiene el Reglamento del Servicio Policial de Carrera del Estado de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado número 150, Segunda Parte, de fecha 18 de septiembre de 2007.
+
+Procedimientos iniciados con anterioridad a la entrada en vigencia del presente Decreto
+
+Artículo Tercero. Los procedimientos materia del presente Reglamento, que se hayan iniciado con anterioridad a la fecha de su inicio de vigencia, se seguirán tramitando bajo las normas vigentes a la fecha en que se iniciaron, hasta su total conclusión.
+
+Derogación tácita
+
+Artículo Cuarto. Se derogan las disposiciones reglamentarias o administrativas que se opongan al presente ordenamiento.
