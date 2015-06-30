@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2015-06-13"
+last_updated: "2015-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE JUNIO DE 2015 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE JUNIO DE 2015.</small>
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -1909,7 +1909,9 @@ Este plazo podrá ampliarse por acuerdo del presidente del órgano que correspon
 
 ###### ARTICULO 133.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>N. DE E. VÉASE LA FE DE ERRATAS MEDIANTE LA QUE SE PRECISA "EL CITADO DECRETO NO SE PROMULGA ..."</small>
+
+(REFORMADO, P.O. 13 DE JUNIO DE 2015) (F. DE E., P.O. 30 DE JUNIO DE 2015)
 
 1. Para efectos de los nombramientos o ratificaciones, según sea el caso, de Magistrados del Supremo Tribunal de Justicia del Poder Judicial del Estado; el Contralor General del Instituto Electoral de Tamaulipas; del Titular de la Presidencia y de los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas; de los comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas y del Procurador General de Justicia se seguirá el procedimiento señalado en esta Sección y, en su caso, el de las leyes que correspondan.
 
@@ -1947,7 +1949,9 @@ d) Intervención general de 5 minutos para la exposición de conclusiones, en ca
 
 6. En el caso de nombramientos previstos en el párrafo 2 del artículo anterior, si la persona nombrada cumple con los requisitos constitucionales y legales para desempeñar el cargo, se procederá a la formulación del dictamen correspondiente, sin necesidad de llevar a cabo la reunión de trabajo o entrevista.
 
-7. (DEROGADO SÉPTIMO PÁRRAFO, P.O. 13 DE JUNIO DE 2015)
+> <small>N. DE E. VÉASE LA FE DE ERRATAS MEDIANTE LA QUE SE PRECISA "EL CITADO DECRETO NO SE PROMULGA ..."</small>
+
+7. (DEROGADO SÉPTIMO PÁRRAFO, P.O. 13 DE JUNIO DE 2015) (F. DE E., P.O. 30 DE JUNIO DE 2015)
 
 8. La designación del Contralor General del Instituto Electoral de Tamaulipas, se sujetará al siguiente procedimiento:
 
@@ -2714,6 +2718,10 @@ P.O. 23 DE OCTUBRE DE 2014.
 El Presente Decreto entrará en vigor a partir de su expedición, y se publicará en el Periódico Oficial del Estado de Tamaulipas.
 
 P.O. 13 DE JUNIO DE 2015.
+
+> <small>N. DE E. VÉASE LA FE DE ERRATAS MEDIANTE LA QUE SE PRECISA "EL CITADO DECRETO NO SE PROMULGA ..."</small>
+
+> <small>(F. DE E., P.O. 30 DE JUNIO DE 2015)</small>
 
 ###### ARTÍCULO ÚNICO.
 
