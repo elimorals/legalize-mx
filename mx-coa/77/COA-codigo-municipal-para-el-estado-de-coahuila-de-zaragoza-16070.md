@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2014-12-26"
+last_updated: "2015-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -972,6 +972,10 @@ VII. En materia de educación y cultura, asistencia y salud públicas:
 6. Cumplir y hacer cumplir las disposiciones legales en materia electoral, de cultos y de protección integral a menores.
 
 7. Organizar y promover la instrucción cívica que fomente entre los habitantes del Municipio, el conocimiento de sus derechos y obligaciones.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+8. Contar con una instancia municipal de la mujer, con el fin de institucionalizar la perspectiva de género y crear criterios de igualdad, fortaleciendo la ciudadanía de las mujeres y asegurar igualdad de oportunidades al eliminar las desventajas por la condición de género.
 
 VIII. En materia de participación ciudadana y vecinal:
 
@@ -3787,7 +3791,7 @@ Los ayuntamientos acordarán lo conducente para que los juzgados municipales cue
 
 ### CAPÍTULO III. DEL RECURSO DE INCONFORMIDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JUNIO DE 2007)</small>
 
 ###### ARTÍCULO 389.
 
@@ -4228,3 +4232,9 @@ P.O. 23 DE DICIEMBRE DE 2014.
 P.O. 26 DE DICIEMBRE DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
