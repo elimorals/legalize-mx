@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5707
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2015-05-26"
+last_updated: "2015-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57072&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2015.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -99,9 +99,25 @@ VI. Violencia Laboral: la negativa ilegal a contratar a la víctima, o a respeta
 
 VII. Violencia Docente: las conductas que dañen la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones o características físicas, que les infligen maestras o maestros;
 
-VIII. Violencia Feminicida: es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado, y puede culminar en homicidio y otras formas de muerte violenta de mujeres, y
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-IX. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+VIII. Violencia Feminicida: es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado, y puede culminar en homicidio y otras formas de muerte violenta de mujeres;
+
+> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
+
+IX. Violencia Obstétrica: todo abuso, conducta, acción u omisión intencional, negligente y dolorosa que lleve a cabo el personal de salud, de manera directa o indirecta, que dañen, denigren, discriminen y den un trato deshumanizado a las mujeres durante el embarazo, parto o puerperio; que tenga como consecuencia la pérdida de autonomía y capacidad de decidir libremente sobre su cuerpo y sexualidad. Puede expresarse en:
+
+a). Prácticas que no cuenten con el consentimiento informado de la mujer, como la esterilización forzada.
+
+b). Omisión de una atención oportuna y eficaz en urgencias obstétricas.
+
+c). No propiciar el apego precoz del bebé con la madre, sin causa médica justificada.
+
+d). Alterar el proceso natural del parto de bajo riesgo, mediante su patologización, abuso de medicación, o uso de técnicas de aceleración, sin que ellas sean necesarias.
+
+e). Practicar el parto vía cesárea sin autorización de la madre, cuando existen condiciones para parto normal, y
+
+X. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 ###### ARTICULO 4º.
 
@@ -998,3 +1014,9 @@ P.O. 26 DE MAYO DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE JUNIO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
