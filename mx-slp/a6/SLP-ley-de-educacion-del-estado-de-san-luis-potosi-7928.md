@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2014-08-05"
+last_updated: "2015-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2015.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -159,9 +159,9 @@ X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia so
 
 XI.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sostenible, la prevención del cambio climático, así como de la valoración de la protección y conservación del ambiente, como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representan el cambio climático y otros fenómenos naturales;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-XII.- Fomentar actitudes solidarias y positivas hacia el trabajo, la productividad, el ahorro y el bienestar general;
+XII.- Fomentar actitudes solidarias y positivas hacia el trabajo, la productividad, el ahorro y el bienestar general; así como la cultura emprendedora;
 
 > <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
 
@@ -1837,6 +1837,12 @@ III.- Que de otorgarse no implique la continuación o consumación de actos u om
 
 IV.- Que no ocasionen daños o perjuicios a los educandos o terceros en términos de esta Ley.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
+
+###### ARTICULO 110.
+
+En lo no previsto en el Título Octavo, se aplicarán supletoriamente, la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí; y en defecto de ésta, el Código de Procedimientos Civiles para el Estado de San Luis Potosí.
+
 ## TITULO PRIMERO.
 
 Del Sistema Educativo Estatal.
@@ -2049,7 +2055,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 
 P.O. 20 DE JULIO DE 2010.
 
-DECRETO 310, POR EL QUE SE REFORMA EL ARTÍCULO 89 EN SUS FRACCIONES III Y IV; Y ADICIONA A LOS ARTÍCULOS, 6°, EL PÁRRAFO TERCERO, 22 UNA FRACCIÓN, ESTA COMO XXII, POR LO QUE (SIC) ACTUALES XXII A XXV, XXV BIS Y XXVI A XXXII, PASAN A SER FRACCIONES XXIII A XXXIV, Y AL 89 LA FRACCIÓN V, DE Y A LA LEY DE EDUCACIÓN DEL ESTADO.
+DECRETO 310, POR EL QUE SE REFORMA EL ARTÍCULO 89 EN SUS FRACCIONES III Y IV; Y ADICIONA A LOS ARTÍCULOS, 6°, EL PÁRRAFO TERCERO, 22 UNA FRACCIÓN, ESTA COMO XXII, POR LO QUE LAS ACTUALES XXII A XXV, XXV BIS Y XXVI A XXXII, PASAN A SER FRACCIONES XXIII A XXXIV, Y AL 89 LA FRACCIÓN V, DE Y A LA LEY DE EDUCACIÓN DEL ESTADO.
 
 PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
 
@@ -2218,6 +2224,22 @@ P.O. 5 DE AGOSTO DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 30 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 1027 POR EL QUE SE ADICIONA EL ARTÍCULO 110 DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 1028 POR EL QUE SE REFORMA LA FRACCIÓN XII DEL ARTICULO 9°, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 
 ## TRANSITORIOS
 
