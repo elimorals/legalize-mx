@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-secretaria-de-gobierno-25901"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-11"
-last_updated: "2011-03-11"
+last_updated: "2015-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 30 DE JUNIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el miércoles 11 de septiembre de 2002.
 
@@ -77,7 +79,7 @@ XVI. Dirección de Programación y Desarrollo;
 
 XVII. Unidad de la Defensoría Pública;
 
-XVIII. Unidad de Asuntos Jurídicos; y (sic)
+XVIII. Unidad de Asuntos Jurídicos; y
 
 XIX. Unidad de Evaluación y Seguimiento;
 
@@ -720,3 +722,15 @@ P.O. 11 DE MARZO DE 2011.
 PRIMERO.- El presente acuerdo entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los órganos de apoyo del Consejo Estatal de Seguridad Pública tendrán las atribuciones que señale el Reglamento Interno de dicho Consejo.
+
+P.O. 30 DE JUNIO DE 2015.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de la Secretaría de Gobierno publicado en el Periódico Oficial del Estado del día 11 de septiembre de 2002, cuya última modificación se publicó en dicho Periódico Oficial, el día 11 de marzo de 2011.
+
+Tercero.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía, del marco jurídico estatal en lo que se opongan al contenido del presente Decreto.
+
+Cuarto.- Las adecuaciones presupuestales así como las modificaciones a los manuales de estructura de organización y de procedimientos, se contemplarán para el ejercicio presupuestal 2016.
+
+Quinto.- En los casos no previstos en el Reglamento Interior y que presente controversia sobre la interpretación y/o aplicación del presente Reglamento, el Secretario resolverá lo conducente.
