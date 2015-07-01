@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-ninas-y-ninos-en-el-estado-de-21996"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-05"
-last_updated: "2014-05-07"
+last_updated: "2015-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 1 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de junio del 2001.
 
@@ -998,3 +1000,31 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
+
+P.O. 1 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de los Derechos de las Niñas y Niños en el Estado de Tamaulipas, publicada en el Periódico Oficial del Estado de Tamaulipas el 5 de junio del 2001, sus reformas adoptadas, así como las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Sistema Estatal de Protección Integral y los Sistemas Municipales de Protección Integral, deberán integrarse a más tardar dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto.
+
+En su primera sesión, el Presidente del Sistema Estatal de Protección Integral someterá a consideración y aprobación del mismo los lineamientos para su integración, organización y funcionamiento, así como la designación del Titular de la Secretaría Ejecutiva del Sistema y la estructura orgánica de ésta, la cual se ajustará a las necesidades y disponibilidad presupuestal.
+
+El Presidente del Sistema Estatal de Protección Integral realizará las acciones necesarias para la elaboración del Programa Estatal, el cual deberá elaborarse y aprobarse dentro de los noventa días naturales siguientes a la entrada en vigor del Programa Nacional.
+
+###### ARTÍCULO CUARTO.
+
+A partir del siguiente ejercicio fiscal, se deberán destinar partidas presupuestales para el fortalecimiento de las instancias en las que incide la presente Ley; asimismo, el Ejecutivo del Estado gestionará ante la Cámara de Diputados del Congreso de la Unión y la Secretaría de Hacienda y Crédito Público la asignación de partidas presupuestales para el Estado de Tamaulipas para el fortalecimiento de las entidades encargadas de la aplicación y observancia de esta Ley.
+
+###### ARTICULO QUINTO.
+
+Los procedimientos de adopción y de pérdida de patria potestad de niñas, niños y adolescentes acogidos por instituciones de asistencia social, que se iniciaron con anterioridad a la entrada en vigor del presente Decreto, continuarán desarrollándose conforme al procedimiento que se venía aplicando hasta la entrada en vigor del mismo.
+
+SEXTO. El Ejecutivo Estatal o los Ayuntamientos en su caso, expedirán los Reglamentos derivados de la expedición del presente Decreto, los cuales se publicarán en el Periódico Oficial del Estado.
