@@ -4,7 +4,7 @@ identifier: "ZAC-ley-estatal-de-los-derechos-de-los-ninos-las-ninas-y-los-56059"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-16"
-last_updated: "2007-06-16"
+last_updated: "2015-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56059&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY ESTATAL DE LOS DERECHOS DE LOS NIÑOS, LAS NIÑAS Y LOS ADOLESCENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 1 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS NOVENTA DÍAS SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2015 (ABROGADA).
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 16 de junio de 2007.
 
@@ -39,7 +41,7 @@ RESULTANDO PRIMERO.- En fecha 14 de Septiembre de 2005 los Diputados Lidia Vázq
 
 RESULTANDO SEGUNDO.- En Sesión Ordinaria de la Quincuagésima Octava Legislatura celebrada el día 31 de Octubre del 2006, en ejercicio de las facultades que le otorgan los artículos 60 fracción I y 65 fracción I de la Constitución Política del Estado, la Diputada Sara Guadalupe Buerba Sauri, sometió a la consideración del Pleno la Ley Estatal de los Derechos de los Niños, las Niñas y los Adolescentes. Luego de su primera lectura; por acuerdo de la Presidenta de la Mesa Directiva, mediante memorando número 2665, se turnó el expediente a las Comisiones Legislativas de Salud y de Asistencia Social para su estudio y dictamen.
 
-.
+...
 
 Por todo lo anteriormente expuesto y fundado, y con apoyo además en lo dispuesto por los artículos 65, fracción I de la Constitución Política del Estado; 140, y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de decretarse y se
 
@@ -1030,3 +1032,69 @@ AMALIA D. GARCÍA MEDINA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LUIS GERARDO ROMO FONSECA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE JULIO DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor a los noventa días siguientes al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Artículo Segundo. Se abroga la Ley Estatal de los Derechos de los Niños, las Niñas y los Adolescentes, publicada en el Suplemento al No. 48 del Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, correspondiente al día 16 de junio de 2007.
+
+Artículo Tercero. El Sistema Estatal y los Sistemas Municipales de Protección Integral, deberán integrarse a más tardar dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto.
+
+En la primera sesión, el Presidente del Sistema Estatal someterá a consideración y aprobación del mismo los lineamientos para su integración, organización y funcionamiento, así como la designación del titular de la Secretaría Ejecutiva del Sistema.
+
+Artículo Cuarto. La Procuraduría de Protección de Niñas, Niños, Adolescentes y Familia deberá constituirse a partir del siguiente ejercicio presupuestal a la publicación del presente Decreto.
+
+Para efectos del párrafo anterior, el Sistema Estatal DIF debe reformar su normativa orgánica, a fin de que en un plazo no mayor a noventa días naturales, a partir de la entrada en vigor del presente Decreto, se formalice la creación de la Procuraduría Estatal de Protección de Niñas, Niños, Adolescentes y Familia, con sus respectivas unidades administrativas.
+
+Artículo Quinto. El titular del Ejecutivo del Estado, en la Iniciativa de Presupuesto de Egresos del Estado para el ejercicio fiscal 2016 que envíe a la Legislatura del Estado, deberá destinar la partida presupuestal para la operatividad del nuevo Sistema Estatal de Protección Integral.
+
+Las dependencias y sectores que actualmente ya implementan políticas para niñas, niños y adolescentes, seguirán a cargo de su ejecución y tendrán su propio presupuesto para ello, tanto aquellas del ámbito estatal y municipal.
+
+Artículo Sexto. El titular del Ejecutivo del Estado y la Legislatura del Estado, en un plazo no mayor a ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto, respectivamente, deberán armonizar la legislación siguiente que se derive de esta Ley, en específico la siguiente:
+
+a) Código Civil del Estado de Zacatecas.
+
+b) Código de Procedimientos Civiles para el Estado de Zacatecas.
+
+c) Código Familiar del Estado de Zacatecas.
+
+d) Ley Orgánica del Poder Judicial del Estado de Zacatecas.
+
+e) Ley de Justicia para Adolescentes en el Estado de Zacatecas.
+
+f) Ley de Juventud para el Estado de Zacatecas.
+
+g) Ley Orgánica de la Administración Pública del Estado de Zacatecas.
+
+h) Ley de Salud del Estado de Zacatecas.
+
+i) Ley de Educación del Estado de Zacatecas.
+
+j) Ley de Bibliotecas Públicas del Estado de Zacatecas.
+
+k) Ley para Prevenir y Erradicar toda forma de Discriminación en el Estado de Zacatecas.
+
+l) Ley de Asistencia Social del Estado de Zacatecas.
+
+m) Ley Estatal para la Integración al Desarrollo Social de las Personas con Discapacidad.
+
+n) Ley para Prevenir y Atender la Violencia Familiar en el Estado de Zacatecas.
+
+o) Ley de Cultura Física y Deporte para el Estado de Zacatecas.
+
+p) Ley de Protección Civil para el Estado de Zacatecas.
+
+q) Ley del Sistema Estatal de Seguridad Pública de Zacatecas.
+
+r) Ley Orgánica de la Procuraduría General de Justicia del Estado de Zacatecas.
+
+s) Ley de Transparencia y Acceso a la Información Pública del Estado de Zacatecas.
+
+t) Ley de la Comisión de los Derechos Humanos del Estado de Zacatecas.
+
+Artículo Séptimo. Los Centros de Asistencia que se encuentren operando con antelación a la entrada en vigor del presente Decreto, contarán con un plazo no mayor a ciento veinte días naturales siguientes a su entrada en vigor, para realizar las adecuaciones conducentes en términos de lo previsto por esta Ley.
+
+Artículo Octavo. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, con el objetivo de dar cumplimiento a lo previsto en esta Ley, deberán implementar las políticas y acciones correspondientes conforme los programas aplicables y los que se deriven de la misma.
