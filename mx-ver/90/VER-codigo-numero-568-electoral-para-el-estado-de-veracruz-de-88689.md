@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-568-electoral-para-el-estado-de-veracruz-de-88689
 country: "mx"
 rank: "codigo"
 publication_date: "2012-08-01"
-last_updated: "2012-12-10"
+last_updated: "2015-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "VER"
 
 CÓDIGO NÚMERO 568 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO NÚMERO 577 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 1 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 10 DE DICIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2015 (ABROGADO).
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 1 de agosto de 2012.
 
@@ -5242,3 +5242,41 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 1 DE JULIO DE 2015.
+
+PRIMERO. EI presente Código entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se abroga el Código Número 568 Electoral para el Estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del Estado en fecha primero de agosto de 2012.
+
+TERCERO. En términos de lo dispuesto del transitorio cuarto del decreto número 536 que reforma y deroga diversas disposiciones de la Constitución Política del Estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del Estado, número extraordinaria (sic) 014, de fecha 09 de enero de 2015, el Gobernador Electo el primer domingo de junio de 2016, entrará a ejercer su encargo el primero de diciembre de 2016 y concluirá el 30 de noviembre de 2018.
+
+CUARTO. Para efectos del proceso electoral a celebrarse en el año 2018, se estará a lo dispuesto por los Artículos Transitorios del Decreto número 536 que reforma y deroga diversas disposiciones de la Constitución Política del Estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del Estado, número extraordinaria (sic) 014, de fecha 09 de enero de 2015.
+
+En la citada elección el Consejo General del Instituto Electoral Veracruzano determinará los ajustes necesarios a los plazos y términos fijados en este Código para las distintas etapas del proceso electoral.
+
+QUINTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Código, serán resueltos conforme a las normas vigentes al momento de su inicio. Lo anterior, sin perjuicio de que se apliquen en lo conducente los plazos previstos en los artículos transitorios del presente.
+
+SEXTO. Cuando en este Código se haga referencia al Instituto Electoral Veracruzano, se entenderá como tal, al Organismo electoral en funciones, independientemente de su denominación, con motivo del proceso de renovación de los Consejeros Electorales implementado por el Instituto Nacional Electoral.
+
+SÉPTIMO. Cuando en este Código se haga referencia al Tribunal Electoral del Estado, se entenderá como tal al Órgano Jurisdiccional electoral en funciones, hasta en tanto no desaparezca de conformidad a lo establecido en la Constitución Política de los Estados Unidos Mexicanos.
+
+OCTAVO. Los Magistrados y demás personal del Tribunal Electoral del Estado, que se encuentren en funciones a la entrada en vigor del presente Código, continuarán en su encargo hasta en tanto se realicen los nuevos nombramientos, en los términos previstos por la fracción IV, inciso c), apartado 5 del Artículo 116 de la Constitución Política de los Estados Unidos Mexicanos y entre en funciones el nuevo Tribunal.
+
+Los Magistrados, los servidores públicos y demás personal que al momento de la entrada en vigor del presente Código laboren en el Tribunal Electoral del Poder Judicial del Estado continuarán perteneciendo al citado Poder, en los términos que señale su nombramiento.
+
+NOVENO. Los bienes muebles e inmuebles asignados al funcionamiento del Tribunal Electoral del Poder Judicial del Estado seguirán siendo propiedad del Poder Judicial del Estado, y serán administrados por el Consejo de la Judicatura.
+
+DÉCIMO. EI personal del Instituto Electoral Veracruzano será adscrito al Servicio Profesional Nacional Electoral, en términos de los estatutos que al efecto emita el Instituto Nacional Electoral.
+
+DÉCIMO PRIMERO. Las funciones correspondientes a la Dirección Ejecutiva del Servicio Profesional Electoral continuarán hasta en tanto el Instituto Nacional Electoral regule la organización y funcionamiento del Servicio Profesional Electoral, y ejerza su rectoría.
+
+DÉCIMO SEGUNDO. EI Consejo General del Instituto Electoral Veracruzano dictará los acuerdos necesarios para hacer efectivas las disposiciones de este Código y deberá expedir los reglamentos que se deriven del mismo a más tardar en ciento ochenta días a partir de su entrada en vigor.
+
+DÉCIMO TERCERO. En tanto no se realicen los nuevos nombramientos por el Consejo General del Instituto Nacional Electoral, los Consejeros que actualmente integran el Instituto Electoral Veracruzano, así como su Secretario Ejecutivo, continuarán en su encargo.
+
+DÉCIMO CUARTO. La Dirección Ejecutiva de Asuntos Jurídicos asumirá, en cuanto a funciones, estructura y personal adscrito, las que desempeñaba la Coordinación Jurídica.
+
+DÉCIMO QUINTO. Se derogan todas las disposiciones que se opongan al presente Código.
