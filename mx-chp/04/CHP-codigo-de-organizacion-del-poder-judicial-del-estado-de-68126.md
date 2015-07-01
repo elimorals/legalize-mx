@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-organizacion-del-poder-judicial-del-estado-de-68126"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-03-18"
-last_updated: "2014-11-27"
+last_updated: "2015-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE ORGANIZACIÓN DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de marzo de 2009.
 
@@ -1137,7 +1137,13 @@ III. Conocer de los conflictos de competencia que se susciten en materia penal e
 
 IV. Intervenir en los juicios de amparo, de los asuntos radicados en la Sala; y,
 
-V. De las demás que le señalen este Código y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2015)</small>
+
+V. Conocer y resolver de los recursos que en términos del Código Nacional de Procedimientos Penales, le corresponda sustanciar como Tribunal de Alzada.
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2015)</small>
+
+VI. De las demás que le señalen este Código y otras disposiciones legales aplicables.
 
 ### Capítulo VII. De las Salas Especializadas en Justicia para Adolescentes
 
@@ -1191,9 +1197,13 @@ IX. Admitir y tramitar los recursos de revisión que se interpongan en contra de
 
 X. Admitir, sustanciar y resolver el procedimiento de queja que haga valer el interesado, por el incumplimiento de las sentencias dictadas y que tengan el carácter de definitivas; y,
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2015)</small>
 
-XI. De las demás que le confiera este Código y otras disposiciones legales aplicables.
+XI. Conocer y resolver de los recursos que en términos del Código Nacional de Procedimientos Penales, le corresponda sustanciar como Tribunal de Alzada.
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2015)</small>
+
+XII. De las demás que le señalen este Código y otras disposiciones legales aplicables.
 
 ## Título Cuarto. De la Organización de los Juzgados del Poder Judicial del Estado
 
@@ -4918,3 +4928,11 @@ P.O. 27 DE NOVIEMBRE DE 2014.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 1 DE JULIO DE 2015.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Tercero.- El Consejo de la Judicatura del Estado llevará a cabo las acciones que sean necesarias para el debido cumplimiento del presente Decreto.
