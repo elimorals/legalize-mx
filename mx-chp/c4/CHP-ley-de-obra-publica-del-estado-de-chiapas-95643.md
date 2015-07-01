@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-obra-publica-del-estado-de-chiapas-95643"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-31"
-last_updated: "2014-09-12"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE OBRA PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 31 de julio de 2013.
 
@@ -71,13 +71,13 @@ La ejecución de la obra pública que realice el Poder Ejecutivo del Estado o lo
 
 Para los efectos de la presente Ley, se entenderá por:
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2015)</small>
 
-I.- Secretaría: A la Secretaría de Infraestructura y Comunicaciones, que es la Dependencia del Poder Ejecutivo del Estado de Chiapas, facultada para ejecutar Obra Pública, excepto en aquellos casos referentes a la Infraestructura Física Educativa, de Vivienda, la construcción de Villas y Ciudades Rurales y del Sistema Estatal de Seguridad Pública e implementación del Sistema de Justicia Penal en el Estado, o cualquier otro rubro, que por disposición de Ley, se encuentre reservada a una instancia diferente.
+I.- Secretaría: A la Secretaría de Infraestructura y Comunicaciones, que es la Dependencia del Poder Ejecutivo del Estado de Chiapas facultada para ejecutar Obra Pública, excepto en aquellos casos referentes a la Infraestructura Física Educativa de Vivienda, infraestructura de desarrollo de energías, la construcción de Villas y Ciudades Rurales, y del Sistema Estatal de Seguridad Pública e implementación del Sistema de Justicia Penal en el Estado, o cualquier otro rubro, que por disposición de Ley, se encuentre reservada a una instancia diferente.
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2015)</small>
 
-II.- Comité de Obra Pública/Comité: Al Comité de Obra Pública del Poder Ejecutivo del Estado, cuando se haga referencia a la Obra Pública en el ámbito Estatal, con excepción de lo concerniente a la Infraestructura Física Educativa, de Vivienda, para la construcción de Villas y Ciudades Rurales y del Sistema Estatal de Seguridad Pública e implementación del Sistema de Justicia Penal en el Estado, que estarán a cargo de un Comité de Obras específico, según corresponda; o a los Comités de Obras Públicas de los Municipios de que se trate, cuando se refiere a Obra Pública en el ámbito Municipal.
+II.- Comité de Obra Pública/Comité: Al Comité de Obra Pública del Poder Ejecutivo del Estado, cuando se haga referencia a la Obra Pública en el ámbito Estatal, con excepción de lo concerniente a la Infraestructura Física Educativa, de Vivienda, de infraestructura de desarrollo de energías, para la construcción de Villas y Ciudades Rurales y del Sistema Estatal de Seguridad Pública e implementación del Sistema de Justicia Penal en el Estado, que estarán a cargo de un Comité de Obras específico, según corresponda; o a los Comités de Obras Públicas de los Municipios de que se trate, cuando se refiere a Obra Pública en el ámbito Municipal.
 
 III.- Municipios: Los señalados como tales en la Constitución Política local y en Ley Orgánica Municipal del Estado de Chiapas;
 
@@ -577,9 +577,9 @@ En el ejercicio de sus atribuciones el órgano de control respectivo podrá inte
 
 Para la contratación de la obra pública en cualquiera de las modalidades a las que se refiere el artículo 40 de esta Ley, se constituye el Comité de Obra Pública del Poder Ejecutivo del Estado y los Comités de Obra Pública en cada uno de los municipios de la Entidad. El primero estará a cargo de lo concerniente a la obra pública en el ámbito estatal que no se encuentre reservada por disposición de ley a un organismo especializado, los segundos en el ámbito territorial del municipio de que se trate.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2015)</small>
 
-Para el caso específico de la infraestructura Física Educativa, de infraestructura de Vivienda, de la Construcción de Villas y Ciudades Rurales; así como para la Infraestructura del Sistema Estatal de Seguridad Pública e Implementación del Sistema de Justicia Penal en el Estado, existirá un Comité de Obra Pública del Instituto de la Infraestructura Física Educativa del Estado de Chiapas, un Comité de Obra Pública de la Promotora de Vivienda Chiapas, un Comité de Obra Pública del Instituto de Población y Ciudades Rurales y un Comité de Obra Pública del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, que invariablemente estarán integrados por su respectivo titular, quien los presidirá, así como por los responsables de las áreas técnicas, administrativas, jurídicas y demás que tengan bajo su responsabilidad la ejecución de Obra Pública en la materia respectiva.
+Para el caso específico de la infraestructura Física Educativa, de infraestructura de Vivienda, de infraestructura de desarrollo de energías, de la Construcción de Villas y Ciudades Rurales; así como para la Infraestructura del Sistema Estatal de Seguridad Pública e Implementación del Sistema de Justicia Penal en el Estado, existirá un Comité de Obra Pública del Instituto de la Infraestructura Física Educativa del Estado de Chiapas, un Comité de Obra Pública de la Promotora de Vivienda Chiapas, un Comité de Obra Pública del Instituto de Desarrollo de Energías del Estado de Chiapas, un Comité de Obra Pública del Instituto de Población y Ciudades Rurales y un Comité de Obra Pública del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, que invariablemente estarán integrados por su respectivo titular, quien los presidirá, así como por los responsables de las áreas técnicas, administrativas, jurídicas y demás que tengan bajo su responsabilidad la ejecución de Obra Pública en la materia respectiva.
 
 En la conformación, operación y ejecución de los Comités de obra pública, se deberá observar lo estipulado en la presente Ley. Estos Comités serán los responsables de llevar a cabo la adjudicación de la obra pública en cualquiera de las modalidades a la que se refiere la presente Ley, debiendo emitir el fallo correspondiente sobre los asuntos de su competencia que sometan a su consideración las instancias responsables.
 
@@ -1776,3 +1776,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Artículo Tercero.- Con relación a los Procedimientos de Obra Pública, que antes de la entrada en vigencia del presente Decreto hubieren iniciado y aún se encuentren en trámite, seguirán siendo atendidos por el Comité de Obra Pública respectivo.
+
+P.O. 1 DE JULIO DE 2015.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Con relación a los Procedimientos de Obra Pública en materia de desarrollo de energías, que antes de la entrada en vigor del presente Decreto hubieren iniciado y aún se encuentren en trámite, seguirán siendo atendidos por el Comité de Obra Pública respectivo.
