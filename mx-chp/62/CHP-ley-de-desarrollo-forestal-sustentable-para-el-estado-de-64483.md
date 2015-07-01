@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-64483"
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-29"
-last_updated: "2014-11-27"
+last_updated: "2015-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64483&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 1 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 29 de octubre de 2008.
 
@@ -1802,3 +1804,17 @@ P.O. 27 DE NOVIEMBRE DE 2014.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 1 DE JULIO DE 2015.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Se abroga la Ley de Desarrollo Forestal Sustentable para el Estado de Chiapas, expedida bajo el Decreto número 256, publicada en el Periódico Oficial número 123, de fecha veintinueve de octubre del año dos mil ocho.
+
+Artículo Cuarto.- La Secretaría de Medio Ambiente e Historia Natural, en un término no mayor de noventa días hábiles, contados a partir de la entrada en vigor de esta Ley deberá someter a la consideración del Titular del Poder Ejecutivo del Estado el proyecto del Reglamento de la misma, para efectos de su expedición y publicación correspondiente.
+
+Artículo Quinto.- Las autorizaciones, permisos; licencias y concesiones otorgadas con anterioridad a la fecha de entrada en vigor de la presente ley, seguirán vigentes por el término en que fueron otorgados.
+
+Artículo Sexto.- Todos los procedimientos y recursos administrativos relacionados con las materias de esta Ley, que se hubieren iniciado con anterioridad a la fecha de entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
