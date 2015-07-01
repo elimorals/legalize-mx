@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "2014-10-30"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 30 DE OCTUBRE DE 2014 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO LXII-275 PUBLICADO EN EL P.O. DE 28 DE OCTUBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -1635,7 +1633,7 @@ I.- Si el juez ante quien se promueve se considera competente para conocer del j
 
 Si la resolución fuere negando su competencia, será apelable en ambos efectos;
 
-II.- Si el juez reconoce su competencia mandará librar oficio requiriendo al que estime incompetente para que se abstenga de conocer del negocio y remitirá, desde luego, las actuaciones respectivas al superior, haciéndolo saber al interesado;
+II.- Si el juez reconoce su competencia mandará librar oficio requiriedo al que estime incompetente para que se abstenga de conocer del negocio y remitirá, desde luego, las actuaciones respectivas al superior, haciéndolo saber al interesado;
 
 III.- Luego que el juez requerido reciba el oficio inhibitorio, acordará la suspensión del procedimiento, y remitirá inmediatamente los autos originales al superior, con citación de las partes;
 
@@ -3747,41 +3745,43 @@ La citación para sentencia no será expresa, sino que operará por ministerio d
 
 En los juicios sumarios solamente los autos que decidan incidentes y las sentencias, serán apelables; el recurso sólo se admitirá en el efecto devolutivo.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE ENERO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE JULIO DE 2015)</small>
 
-### CAPITULO II BIS
+### CAPITULO II BIS. DEL JUICIO DE PERDIDA DE LA PATRIA POTESTAD PARA NIÑAS, NIÑOS Y ADOLESCENTES ACOGIDOS POR INSTITUCIONES DE ASISTENCIA SOCIAL
 
-JUICIO DE PERDIDA DE LA PATRIA POTESTAD PARA MENORES ACOGIDOS POR INSTITUCIONES DE ASISTENCIA SOCIAL.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 7 DE ENERO DE 2010)</small>
+ARTICULO 473 BIS.- Se tramitarán conforme al presente procedimiento, las demandas planteadas por instituciones públicas de asistencia social, por conducto de la Procuraduría de Protección de Niñas, Niños y Adolescentes o del Ministerio Público que tengan por objeto determinar la pérdida de la patria potestad de los menores recibidos por dichas instituciones.
 
-ARTICULO 473 BIS
+El presente procedimiento podrá plantearse únicamente en los casos previstos por las fracciones III, IV, V, VI y VII del artículo 414 del Código Civil para el Estado.
 
-1. Se tramitarán conforme al presente procedimiento las demandas planteadas por instituciones públicas o privadas de asistencia social, por conducto del Ministerio Público o de la Procuraduría de la defensa del menor y la familia, que tengan por objeto determinar la pérdida de la patria potestad de los menores recibidos por dichas instituciones.
+Admitida la demanda, se correrá traslado de ella a las personas a que se refiere el artículo 383 del Código Civil para el Estado, quienes deberán formular su contestación dentro de los diez días hábiles siguientes.
 
-2. El presente procedimiento podrá plantearse únicamente en los casos previstos por las fracciones III, IV, V, VI y VII del artículo 414 del Código Civil para el Estado. La acción corresponde al representante legal de la institución o al Ministerio Público.
+En caso de que el emplazamiento se realice por edicto, el plazo a que se refiere este artículo será de quince días hábiles.
 
-3. Admitida la demanda, se correrá traslado de ella a las personas a que se refiere el artículo 383 del Código Civil para el Estado, quienes deberán formular su contestación dentro de los diez días hábiles siguientes.
+Cuando el emplazamiento sea a través de exhorto el Juez de la causa, tendrá un término de tres días para remitirlo al Juez exhortado, en tanto éste deberá diligenciarlo y devolverlo en un término no mayor a quince días.
 
-4. Las notificaciones se sujetarán a lo dispuesto por el Capítulo V del Título Primero de este Código.
+En los casos en que se desconozca el domicilio de la demandada, el Juez deberá en un término dentro de los cinco días posteriores a la radicación del juicio, girar oficio a institución que cuente con registro oficial de personas con la finalidad de que manifiesten si en sus registros cuentan con algún domicilio de quien se deba emplazar. En tal caso, el Juez otorgará un término de tres días para que se le remita el referido informe; transcurrido este término y de persistir el desconocimiento del domicilio de la demandada, el Juez ordenará el emplazamiento a través de la publicación de un solo edicto.
 
-5. En la contestación de la demanda se deberán hacer valer todas las excepciones. Los incidentes no suspenden el procedimiento y todas las excepciones que se opongan y recursos que se interpongan se resolverán en la sentencia definitiva.
+Las notificaciones se sujetarán a lo dispuesto por el Capítulo V del Título Primero de este Código.
 
-6. Si la parte demandada no formula su contestación, la demanda se tendrá por contestada en sentido negativo.
+En la contestación de la demanda se deberán hacer valer todas las excepciones. Los incidentes no suspenden el procedimiento y todas las excepciones que se opongan y recursos que se interpongan se resolverán en la sentencia definitiva.
 
-7. En este juicio no es admisible la reconvención.
+Si la parte demandada no formula su contestación, la demanda se tendrá por contestada en sentido negativo.
 
-8. Transcurrido el periodo de emplazamiento, dentro de los diez días siguientes se celebrará una audiencia de pruebas y alegatos, citándose a las partes conforme a las reglas de las notificaciones personales, con las prevenciones y apercibimientos que legalmente se requieran.
+En este juicio no es admisible la reconvención.
 
-9. Las pruebas se ofrecerán en los escritos de demanda y contestación de la misma. Las pruebas supervenientes se regirán por las reglas generales previstas en este Código.
+Transcurrido el periodo de emplazamiento, dentro de los diez días siguientes se celebrará una audiencia de pruebas y alegatos, citándose a las partes conforme a las reglas de las notificaciones personales, con las prevenciones y apercibimientos que legalmente se requieran.
 
-10. Si en la audiencia no fuera posible desahogar todas las pruebas, aquélla podrá diferirse por una sola vez dentro de un término no mayor de cinco días.
+Las pruebas se ofrecerán en los escritos de demanda y contestación de la misma. Las pruebas supervenientes se regirán por las reglas generales previstas en este Código.
 
-11. Un vez desahogadas las pruebas y concluida la fase de alegatos, se dictará sentencia dentro de los cinco días siguientes.
+Si en la audiencia no fuera posible desahogar todas las pruebas, aquélla podrá diferirse por una sola vez dentro de un término no mayor de cinco días.
 
-12. Contra la sentencia que se dicte procede la apelación en ambos efectos.
+Una vez desahogadas las pruebas y concluida la fase de alegatos, se dictará sentencia dentro de los cinco días siguientes.
 
-13. La sentencia causará estado luego de cinco días hábiles de haber sido notificada.
+Contra la sentencia que se dicte procede la apelación en ambos efectos.
+
+La sentencia causará estado luego de cinco días hábiles de haber sido notificada, aun y cuando esta se haya realizado por medio de edicto.
 
 ### CAPITULO III. JUICIO ORAL
 
@@ -4515,7 +4515,7 @@ La oposición deberá fundarse en que el tutor o curador nombrados no reúnen lo
 
 ###### ARTICULO 585.
 
-En todos los casos en que se suscite impedimento o excusa de tutores o curadores, o se promueva su separación, se nombrará desde luego tutor o curador interino mientras se decide el punto. La decisión se tramitará en la forma incidental y la resolución que se dicte será apelable en el efecto devolutivo.
+En todos los casos en que se suscite impedimento o excusa de tutores o curadores, o se promueva su separación, se nombrará desde luego tutor o curador interino mientras se decide el punto. La decisión se tramitará en la forma incidental, y la resolución que se dicte será apelable en el efecto devolutivo.
 
 Si se decidiere que existe impedimento o motivo de excusa o se decreta la separación del tutor o curador, se hará nuevo nombramiento conforme a derecho.
 
@@ -6349,7 +6349,7 @@ La junta tendrá por objeto:
 
 I.- Dar a conocer a los herederos el albacea testamentario si lo hubiere, o proceder a su designación con arreglo a lo dispuesto en el Código Civil;
 
-II.- El reconocimiento, como herederos, de los nombrados en el testamento si éste no fuere impugnado ni se impugnare la capacidad legal de alguno;
+II.- El reconocimiento, como herederos, de lo nombrados en el testamento si éste no fuere impugnado ni se impugnare la capacidad legal de alguno;
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
 
@@ -6775,7 +6775,7 @@ II.- Si consta de estos documentos quiénes son los miembros de la familia benef
 
 III.- El inventario y avalúo se practicará desde luego por el cónyuge que sobreviva o por el albacea, si estuviere designado, y en su defecto, por el heredero que sea de más edad. No se requerirá que el avalúo vaya firmado por perito si al constituirse el patrimonio familiar consta el valor de los bienes;
 
-IV.- Presentado el inventario, el juez convocará a una junta a los interesados, nombrando en ella tutor especial a los menores que no tuvieren representante legítimo, o cuando el interés de éste fuere opuesto al de aquéllos y procurará ponerlos de acuerdo sobre la forma de hacer la partición. Si no logra el acuerdo, nombrará un partidor para que en el término de cinco días presente el proyecto de partición que dará a conocer a los interesados en una junta a la que serán convocados. En esa misma audiencia oirá y decidirá las oposiciones, mandando hacer la adjudicación;
+IV.- Presentado el inventario, el juez convocará a una junta a los interesados, nombrando en ella tutor especial a los menores que no tuvieren representante legítimo, o cuando el interés de éste fuere opuesto al de aquéllos, y procurará ponerlos de acuerdo sobre la forma de hacer la partición. Si no logra el acuerdo, nombrará un partidor para que en el término de cinco días presente el proyecto de partición que dará a conocer a los interesados en una junta a la que serán convocados. En esa misma audiencia oirá y decidirá las oposiciones, mandando hacer la adjudicación;
 
 V.- Todas las resoluciones se harán constar en actas y no se requieren peticiones escritas de parte interesada para la tramitación del juicio;
 
@@ -7355,11 +7355,81 @@ El juez queda facultado para hacer cotejar documentos redactados en idioma extra
 
 Para tramitar los asuntos a que se refiere este Capítulo, se estará a lo que particularmente establecen como requisito especial las leyes respectivas, y en lo demás, con arreglo a las disposiciones de este Título.
 
-### CAPITULO I. GENERALIDADES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JULIO DE 2015)</small>
+
+### CAPITULO VIII. DE LA ADOPCIÓN
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2015)</small>
+
+ARTICULO 907 BIS.- El juicio de adopción iniciará con la solicitud escrita en la que se expresará:
+
+I.- El Tribunal ante el cual se promueve;
+
+II.- Si se trata de adopción nacional o internacional;
+
+III.- El nombre y edad de los solicitantes, así como el domicilio para oír y recibir notificaciones;
+
+IV.- El nombre y domicilio de quien o quienes se solicita la adopción;
+
+V.- El nombre y domicilio de quien ejerza la patria potestad o la tutela;
+
+VI.- El nombre que se habrá de imponer al adoptado; y
+
+VII.- Los hechos en que el o los solicitantes funden su petición, narrándolos sucintamente, enumerándolos en párrafos separados, los que se relacionarán con el artículo 11 de la Ley de Adopciones para el Estado de Tamaulipas.
+
+A la solicitud de adopción deberán acompañarse el certificado de idoneidad y el escrito de consentimiento de adopción, sin los cuales no se dará trámite al procedimiento de adopción.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2015)</small>
+
+ARTICULO 907 TER.- Cumplidos los requisitos anteriores, el juez admitirá la solicitud inicial de adopción, dará vista al Ministerio Público y a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Sistema DIF Tamaulipas. En el auto admisorio señalará fecha para la audiencia, la que se deberá desahogar dentro de los diez días hábiles siguientes al mismo.
+
+En caso de estimar conveniente, el Juez solicitará al Sistema para el Desarrollo Integral de la Familia en el Estado, le sea remitido el expediente que se formó con motivo de la obtención del certificado de idoneidad.
+
+La audiencia tendrá por objeto que el Juez:
+
+I.- Certifique el cumplimiento de los requisitos para poder adoptar que establece la Ley de Adopciones para el Estado de Tamaulipas;
+
+II.- Informe sobre los efectos de la adopción a la niña, niño o adolescente que se pretenda adoptar, así como a todas las personas involucradas cuyo consentimiento sea necesario para la adopción;
+
+III.- Haga saber a los promoventes sobre los derechos y obligaciones que se contraen con la adopción;
+
+IV.- Recabe la ratificación de la promoción inicial y del escrito de consentimiento; y
+
+V.- Dé intervención legal que corresponda al Agente del Ministerio Público adscrito y a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Sistema DIF Tamaulipas, dentro del ámbito de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2015)</small>
+
+ARTICULO 907 QUATER.- Una vez iniciado el juicio de adopción, el Juez velará para que las actuaciones judiciales en todo momento sean continuas evitando bajo su más estricta responsabilidad la inactividad procesal, quedando obligado a presenciar y dirigir de manera personal cada una de las diligencias y actuaciones que se practiquen en el proceso y no podrá delegar dicha obligación en persona alguna. El incumplimiento de tal obligación será causa de responsabilidad para el Juez.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2015)</small>
+
+ARTICULO 907 QUINQUIES.- Rendidas las constancias que se exigen, obteniendo el consentimiento de las personas que deban darlo y celebrada la audiencia de adopción, el Juzgador resolverá lo que proceda sobre la adopción dentro de los tres días siguientes a la audiencia.
+
+En caso de que no procediera la adopción, el juez deberá pronunciarse sobre la guarda y custodia de la niña, niño o adolescente, salvaguardando el interés superior que le asiste.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2015)</small>
+
+ARTICULO 907 SEXIES.- La sentencia consentida por los promoventes causará ejecutoria.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2015)</small>
+
+ARTICULO 907 SEPTIES.- La sentencia que resuelva la no adopción será apelable por los solicitantes y su admisión será en ambos efectos.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2015)</small>
+
+ARTICULO 907 OCTIES.- Ejecutoriada la sentencia que autorice la adopción, el Juez ordenará al Oficial del Registro Civil que señalen los interesados, que cancele mediante una anotación marginal, el registro primario, asentando uno nuevo en los mismos términos del que se levanta para los hijos consanguíneos. En ningún caso se hará mención de ser adoptado en las actas de nacimiento que se expidan, ni aún a mérito de aclaración o anotación.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2015)</small>
+
+ARTICULO 907 NONIES.- El Juez deberá comunicar la sentencia ejecutoriada al Sistema para el Desarrollo integral de la Familia en el Estado, para que a través de la Procuraduría de Protección de Niñas Niños y Adolescentes, realice el seguimiento de adopción.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2015)</small>
+
+ARTICULO 907 DECIES.- Para tramitar la Adopción Internacional se acreditarán los requisitos señalados por el capítulo sobre adopciones internacionales de la Ley de Adopciones para el Estado de Tamaulipas y los tratados internacionales en la materia.
 
 ## TITULO DECIMO SEXTO. IMPUGNACION DE LAS RESOLUCIONES JUDICIALES
 
-### CAPITULO II. REVOCACION
+### CAPITULO I. GENERALIDADES
 
 ###### ARTICULO 908.
 
@@ -7391,7 +7461,7 @@ Sólo las partes y las personas a quien la ley conceda esta facultad pueden hace
 
 Los recursos se tendrán por abandonados cuando no se continúen en forma legal.
 
-### CAPITULO III. REVISION
+### CAPITULO II. REVOCACION
 
 ###### ARTICULO 914.
 
@@ -7413,9 +7483,7 @@ La revocación no suspende el curso del juicio.
 
 En los juicios que se tramitan oralmente, la revocación se decidirá tan luego como sea promovida. En los demás casos, se dará vista a las otras partes, por el término de tres días y, transcurrido dicho término, se resolverá sin más trámite, dentro de otros tres. La resolución que se dicte no admite recurso.
 
-### CAPITULO IV. APELACION
-
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
+### CAPITULO III. REVISION
 
 ###### ARTICULO 919.
 
@@ -7444,6 +7512,10 @@ Cuando se observe que en la sustanciación del juicio se violaron las leyes del 
 ###### ARTICULO 925.
 
 Tan luego como el juez de primera instancia dicte su sentencia, devolverá el expediente al inferior.
+
+### CAPITULO IV. APELACION
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 926.
 
@@ -7962,3 +8034,31 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos de queja administrativa que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, deberán concluir conforme al procedimiento con el que hayan dado comienzo.
+
+P.O. 1 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de los Derechos de las Niñas y Niños en el Estado de Tamaulipas, publicada en el Periódico Oficial del Estado de Tamaulipas el 5 de junio del 2001, sus reformas adoptadas, así como las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Sistema Estatal de Protección Integral y los Sistemas Municipales de Protección Integral, deberán integrarse a más tardar dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto.
+
+En su primera sesión, el Presidente del Sistema Estatal de Protección Integral someterá a consideración y aprobación del mismo los lineamientos para su integración, organización y funcionamiento, así como la designación del Titular de la Secretaría Ejecutiva del Sistema y la estructura orgánica de ésta, la cual se ajustará a las necesidades y disponibilidad presupuestal.
+
+El Presidente del Sistema Estatal de Protección Integral realizará las acciones necesarias para la elaboración del Programa Estatal, el cual deberá elaborarse y aprobarse dentro de los noventa días naturales siguientes a la entrada en vigor del Programa Nacional.
+
+###### ARTÍCULO CUARTO.
+
+A partir del siguiente ejercicio fiscal, se deberán destinar partidas presupuestales para el fortalecimiento de las instancias en las que incide la presente Ley; asimismo, el Ejecutivo del Estado gestionará ante la Cámara de Diputados del Congreso de la Unión y la Secretaría de Hacienda y Crédito Público la asignación de partidas presupuestales para el Estado de Tamaulipas para el fortalecimiento de las entidades encargadas de la aplicación y observancia de esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos de adopción y de pérdida de patria potestad de niñas, niños y adolescentes acogidos por instituciones de asistencia social, que se iniciaron con anterioridad a la entrada en vigor del presente Decreto, continuarán desarrollándose conforme al procedimiento que se venía aplicando hasta la entrada en vigor del mismo.
+
+(SIC) SEXTO. El Ejecutivo Estatal o los Ayuntamientos en su caso, expedirán los Reglamentos derivados de la expedición del presente Decreto, los cuales se publicarán en el Periódico Oficial del Estado.
