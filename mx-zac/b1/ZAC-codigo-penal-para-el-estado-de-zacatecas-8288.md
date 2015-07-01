@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2015-06-06"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2015.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -357,17 +357,9 @@ Cuando a consecuencia de la comisión de los delitos de estupro o violación res
 
 Si son de uso lícito, se decomisarán sólo cuando el sujeto haya sido condenado por delito doloso; si pertenecen a un tercero, sólo se decomisarán cuando éste haya tenido conocimiento de su utilización para la comisión del delito y no lo denunció o no hizo cuanto estaba de su parte para impedirlo.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
+37.- (DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS PARA EL ESTADO DE ZACATECAS, P.O. 1 DE JULIO DE 2015)
 
-37.- La autoridad competente determinará el destino de los bienes que sean instrumento, objeto o producto del delito, y que sean decomisados, al pago de la reparación de los daños y perjuicios causados, al de la multa, y al Fondo de Apoyo a la Procuración de Justicia, respectivamente.
-
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
-
-38.- Los bienes no decomisados que se encuentren a disposición de la autoridad judicial o la autoridad investigadora y no hayan sido recogidos por quien tenga derecho a ello, en un plazo de sesenta días naturales contados a partir de la notificación al interesado, causarán abandono a favor de la Procuraduría General de Justicia del Estado, y podrán ser enajenados; el producto se aplicará al Fondo de Apoyo a la Procuración de Justicia.
-
-Respecto a la enajenación referida en el párrafo anterior, deberá contarse con el avalúo respectivo, y para tal efecto, la Procuraduría General de Justicia podrá celebrar convenios con instituciones públicas o privadas.
-
-El acuerdo por el que se determine que los bienes han causado abandono deberá notificarse personalmente o mediante edictos cuando se desconozca el domicilio del propietario, que se pagarán con recursos del fondo mencionado.
+38.- (DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS PARA EL ESTADO DE ZACATECAS, P.O. 1 DE JULIO DE 2015)
 
 ### CAPITULO VII. TRABAJO A FAVOR DE LA COMUNIDAD
 
@@ -3482,3 +3474,9 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo Segundo. Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen, salvo que esta Ley resulte más benéfica. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
 
 Artículo Tercero. Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 1 DE JULIO DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan los artículos 37 y 38 del Código Penal para el Estado y demás disposiciones que se opongan al presente ordenamiento.
