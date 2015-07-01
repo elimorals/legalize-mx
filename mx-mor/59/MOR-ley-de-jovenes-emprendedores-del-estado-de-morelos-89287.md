@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-jovenes-emprendedores-del-estado-de-morelos-89287"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-29"
-last_updated: "2012-09-29"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE JÓVENES EMPRENDEDORES DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 29 de agosto de 2012.
 
@@ -121,7 +121,7 @@ II. CCDE.- Consejo Consultivo para el Desarrollo Económico.- Órgano de consult
 
 III. Fomento emprendedor.- El desarrollo de la cultura emprendedora por medio del estudio de temas que despierten el interés de los jóvenes por convertirse en agentes de cambio, y satisfagan sus metas a través de su propia acción, generando riqueza para sí y su comunidad en un marco de libertad, legalidad y responsabilidad.
 
-IV. Incubadora.- Órgano encargado del impulso, desarrollo y asesoramiento de la actividad productiva económica de proyectos de negocios para la realización exitosa de nuevas empresas, apoyándose en el Fondo de Promoción e Impulso al Joven Emprendedor"(sic).
+IV. Incubadora.- Órgano encargado del impulso, desarrollo y asesoramiento de la actividad productiva económica de proyectos de negocios para la realización exitosa de nuevas empresas, apoyándose en el Fondo de Promoción e Impulso al Joven Emprendedor" (sic).
 
 V. Joven Emprendedor.- Aquella persona hasta los 29 años de edad, que identifica una oportunidad de negocio o necesidad de un producto o servicio y organiza los recursos necesarios para ponerla en marcha, es convertir una idea en un proyecto concreto, ya sea una empresa o una organización social, que genere algún tipo de innovación y empleos.
 
@@ -135,15 +135,21 @@ VII. Proyecto incubado de negocios.- Es un documento escrito elaborado por un Em
 
 La aplicación de la presente Ley corresponde al Poder Ejecutivo del Estado por conducto de las siguientes dependencias en el ámbito de sus competencias:
 
-I.- La Secretaría de Desarrollo Económico
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2015)</small>
+
+I.- La Secretaría de Economía;
 
 II.- La Secretaría de Educación
 
-III.- La Secretaría del Trabajo y Productividad
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2015)</small>
+
+III.- La Secretaría del Trabajo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2015)</small>
 
 ###### Artículo 7.
 
-A la Secretaría de Desarrollo Económico le corresponde:
+A la secretaría de Economía le corresponde:
 
 a) Promover y direccionar el desarrollo económico del estado, impulsando la actividad productiva a través de procesos de creación de empresas competitivas, creativas e innovadoras, articuladas con las cadenas y clusters productivos reales relevantes para las distintas regiones de la entidad y con un alto nivel de planeación y visión a largo plazo;
 
@@ -151,15 +157,17 @@ b) Fortalecer los procesos empresariales que contribuyan al desarrollo local, re
 
 c) Coadyuvar con las diferentes instituciones gubernamentales, empresariales y asociaciones de la sociedad civil, con la finalidad de desarrollar estrategias orientadas a vincular y financiar los proyectos innovadores, creativos y competitivos, para lograr su consolidación.
 
-d) Establecer mecanismos para el rápido desarrollo de la cultura emprendedora y empresarial en la población joven de México a través del establecimiento de programas de simplificación administrativa, compensación y estimulo al capital joven, identificado por su administración operación y destino entre otros mecanismos institucionales que apoyen a la viabilidad y continuidad de la iniciativa empresarial juvenil.
+d) Establecer mecanismos para el rápido desarrollo de la cultura emprendedora y empresarial en la población joven de México a través del establecimiento de programas de simplificación administrativa, compensación y estímulo al capital joven, identificado por su administración operación y destino entre otros mecanismos institucionales que apoyen a la viabilidad y continuidad de la iniciativa empresarial juvenil.
 
 e) Establecer un programa estatal de asesoramiento y mentoría a la iniciativa joven mediante la creación de incubadoras, asesoramientos y generación de estudios de factibilidad, desarrollados por las cámaras especializadas en los mismos, para la planeación, investigación, administración y mejora regulatoria.
 
-f) Dar el seguimiento para articular los esfuerzos que en materia regulatoria, estimulos y coinversiones se lleven a cabo para el cumplimiento de lo propuesto en la presente ley.
+f) Dar el seguimiento para articular los esfuerzos que en materia regulatoria, estímulos y coinversiones se lleven a cabo para el cumplimiento de lo propuesto en la presente ley.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2015)</small>
 
 ###### Artículo 8.
 
-la Secretaría del Trabajo y Productividad en coordinación con la Secretaría de Desarrollo Económico deberá fomentar, promover y desarrollar programas de capacitación para el manejo de las relaciones obrero-patronales y cultura laboral, impositiva, y jurídico administrativa mediante enlaces con organizaciones, cámaras y/o dependencias afines.
+la Secretaría del Trabajo en coordinación con la Secretaría de Economía deberá fomentar, promover y desarrollar programas de capacitación para el manejo de las relaciones obrero-patronales y cultura laboral, impositiva y jurídico administrativa mediante enlaces con organizaciones, cámara y/o dependencias afines.
 
 ###### Artículo 9.
 
@@ -175,9 +183,11 @@ d) Fomentar y fortalecer el acercamiento de las instituciones educativas a insti
 
 ### CAPÍTULO CUARTO. DE LOS INCENTIVOS FISCALES Y TRIBUTARIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2015)</small>
+
 ###### Artículo 10.
 
-La Secretaría de Desarrollo Económico en el marco de sus atribuciones y para el cumplimiento de esta Ley, instrumentará los siguientes incentivos fiscales y tributarios a los jóvenes emprendedores en la creación de empresas con:
+La Secretaría de Economía en el marco de sus atribuciones y para el cumplimiento de esta Ley, instrumentará los siguientes incentivos fiscales y tributarios a los Jóvenes Emprendedores, para la creación de Empresas:
 
 I. Condonación y/o reducción de impuestos y contribuciones estatales;
 
@@ -232,3 +242,11 @@ SECRETARIO DE GOBIERNO
 Dr. OSCAR SERGIO HERNÁNDEZ BENÍTEZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE JULIO DE 2015.
+
+PRIMERO.- Remítase el presente decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
