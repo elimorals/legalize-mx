@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-14617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2015-04-22"
+last_updated: "2015-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de agosto de 1996.
 
@@ -169,9 +169,11 @@ Se prohíbe el pago de cualquier contraprestación que impida o condicione la pr
 
 En ningún caso, se podrá condicionar la inscripción, el acceso a la escuela, la aplicación de evaluaciones o exámenes, la entrega de documentación a los educandos o afectar en cualquier sentido la igualdad en el trato a los alumnos, al pago de contraprestación alguna.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2015)</small>
+
 ###### ARTICULO 8.
 
-El Gobierno del Estado promoverá y atenderá todos los tipos y modalidades educativas, incluidas la Educación Superior, la Investigación Científica y Tecnológica, y alentará el fortalecimiento de la cultura universal, nacional y regional.
+El Gobierno del Estado promoverá y atenderá todos los tipos y modalidades educativas, incluidas la educación temprana o inicial por la que deberá fortalecerse y considerarse de manera prioritaria como parte central del ciclo básico, del sistema educativo; la Educación Superior, la Investigación Científica y Tecnológica, y alentará el fortalecimiento de la cultura universal, nacional y regional.
 
 > <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
@@ -689,11 +691,17 @@ IV.- El tipo superior comprende la educación normal, la tecnológica y la unive
 
 ### CAPITULO II. DE LA EDUCACION INICIAL Y PREESCOLAR
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 24.
 
-La educación inicial es un derecho de niñas y niños menores de cuatro años de edad, con el propósito de potencializar su desarrollo integral y armónico en un ambiente rico en experiencias formativas, educativas y afectivas, que les permita adquirir habilidades, hábitos y valores, desarrollando su autonomía, creatividad y actitudes necesarias en su desempeño personal y social.
+La educación temprana o inicial tiene por objeto el desarrollo de las capacidades físicas, cognoscitivas, afectivas y de sociabilidad, de niños y niñas menores de cuatro años de edad, para su correcto desenvolvimiento social.
+
+La educación temprana o inicial se proporciona en dos modalidades: escolarizada a través de los centros de desarrollo infantil, estancias infantiles, e instituciones similares, públicas o privadas, y no escolarizada implementada en zonas rurales, indígenas y urbano marginadas a través de los Centros de Asistencia Infantil Comunitarios, dependientes del Sistema para el Desarrollo Integral de la Familia del Estado.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2015)</small>
+
+ARTICULO 24 BIS.- La autoridad educativa estatal, realizará programas especiales de orientación dirigidos a padres y madres de familia o tutores, para vincular la etapa formativa de sus hijos o pupilos con la educación familiar. De igual manera, podrá celebrar convenios de colaboración interinstitucionales e intersectoriales con dependencias del gobierno federal, estatal y municipal, para garantizar el acceso y permanencia de las niñas y niños su derecho a recibir educación temprana o inicial.
 
 ###### ARTICULO 25.
 
@@ -1888,3 +1896,11 @@ SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de 
 TERCERO.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
 
 CUARTO.- El Poder Ejecutivo y los Municipios, dentro de un plazo de ciento veinte días hábiles, contados a partir del día siguiente al que entre en vigor el presente Decreto, deberán realizar las adecuaciones legales y reglamentarias necesarias o expedirse las complementarias.
+
+P.O. 1 DE JULIO DE 2015.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA.- El Titular del Ejecutivo Estatal en coordinación con el Congreso del Estado, realizará las asignaciones presupuestales correspondientes a cada ejercicio fiscal, a efecto de garantizar de manera progresiva el acceso y permanencia del derecho de las niñas y niños a recibir educación temprana o inicial.
