@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2015-04-15"
+last_updated: "2015-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2015.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -2111,11 +2111,7 @@ Esta agravación de la pena, no tendrá lugar cuando se haya decretado la extinc
 
 Tratándose de los delitos previstos en los artículos 191 y 193, el Juez deberá de ordenar el registro del Deudor Alimentario Moroso, en el Registro de Deudores Alimentarios del Estado de Chiapas.
 
-### Capítulo I. Privación Ilegal de la Libertad
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+### Capítulo I
 
 ###### Artículo 198.
 
@@ -2233,129 +2229,63 @@ Si la recuperación de la víctima se logra por datos proporcionados por el impu
 
 ## Título Quinto. Delitos Contra la Libertad Personal y de otras Garantías
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JULIO DE 2015)</small>
+
 ### Capítulo I Bis. Engaño
 
 > <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 211.
 
-Comete delito de privación ilegal de la libertad, el particular que prive a otro de su libertad, fuera de los casos previstos por la ley, sin el propósito de obtener un lucro, ni causar un daño o perjuicio a la persona privada de su libertad o a cualquier otra.
+(DEROGADO, P.O. 1 DE JULIO DE 2015)
 
 ###### Artículo 212.
 
-Al responsable del delito de privación ilegal de la libertad en términos del artículo anterior, se le aplicará una pena de dos a cinco años de prisión y multa de veinte a cincuenta días de salario.
-
-La pena establecida se aumentará hasta en una mitad cuando la privación ilegal de la libertad se realice con violencia, exceda de tres días, cuando la víctima sea menor de dieciséis o mayor de sesenta años de edad, o cuando por cualquier circunstancia la víctima se encuentre en situación de inferioridad física o mental respecto del sujeto activo.
+(DEROGADO, P.O. 1 DE JULIO DE 2015)
 
 ###### Artículo 213.
 
-La privación ilegal de la libertad tendrá el, carácter de plagio o secuestro si se efectúa con el propósito de:
-
-I. Obtener rescate;
-
-II. Mantener en calidad de rehén y bajo amenaza de muerte o de, lesión a la víctima, para que un particular o el propio sujeto pasivo realicen o dejen de realizar un acto cualquiera, o;
-
-III. Para causar daño o perjuicio a la persona privada de la libertad o a cualquier otra.
+(DEROGADO, P.O. 1 DE JULIO DE 2015)
 
 ###### Artículo 214.
 
-Al que cometa el delito de privación ilegal de la libertad en su carácter de plagio o de secuestro, se le impondrá de veinte a cincuenta años de prisión y de mil a cuatro mil días multa.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2008)</small>
+(DEROGADO, P.O. 1 DE JULIO DE 2015)
 
 ###### Artículo 215.
 
-Se aplicarán de veinte a sesenta años de prisión y de tres mil a cinco mil días multa, si en la privación ilegal de la libertad a que se hace referencia en el artículo 213, concurre alguna o algunas de las circunstancias siguientes:
-
-I. Que se realice en camino o lugar público o en lugar desprotegido o solitario.
-
-II. Que se realice en un domicilio particular, lugar de trabajo o a bordo de un vehículo.
-
-III. Que quienes lo lleven a cabo, obren en grupo de dos o más personas.
-
-IV. Que se realice con violencia o aprovechando la confianza que se haya depositado en el sujeto activo.
-
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2008)</small>
+(DEROGADO, P.O. 1 DE JULIO DE 2015)
 
 ###### Artículo 215 Bis.
 
-Se aplicarán de treinta a ciento diez años de prisión y de cuatro mil a ocho mil días multa, si en la privación de la libertad a que se hace referencia en el artículo 213, concurre alguna de las siguientes causas:
-
-I. Que el autor sea o haya sido integrante de alguna corporación de seguridad pública o privada, integrante de alguna institución de procuración o administración de justicia, o que se ostente con cualquier de esos cargos sin tenerlo.
-
-II. Cuando la víctima sea menor de edad o mayor de sesenta años o que por cualquier otra circunstancia se encuentre en inferioridad física o mental respecto del sujeto activo.
-
-III. Cuando la víctima sea mujer.
-
-IV. Que se realice con el propósito de llevar a cabo imposiciones o abusos de prácticas sexuales para fines de explotación pornográfica.
-
-V. Cuando se cometa por una persona que se encuentre recluida en un centro de reinserción social del Estado, bien sea porque esté sujeto a proceso o bien compurgando una sentencia por pena privativa de la libertad.
-
-En el caso de la última fracción de este artículo, la pena correspondiente se aplicará una vez que el procesado o en su caso el sentenciado, haya cumplido la pena que corresponda al delito por el que se encuentre sujeto a prisión.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2008)</small>
+(DEROGADO, P.O. 1 DE JULIO DE 2015)
 
 ###### Artículo 216.
 
-A quien prive de la libertad a un menor de edad o a quien por cualquier causa no tenga capacidad de comprender o resistir la conducta, con el fin de trasladarlo fuera del territorio del Estado para obtener un lucro por su venta o por su entrega, se le aplicarán de veinticinco a ciento diez años de prisión y de cuatro mil a ocho mil días multa.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2008)</small>
+(DEROGADO, P.O. 1 DE JULIO DE 2015)
 
 ###### Artículo 217.
 
-En caso de que la víctima fallezca durante el tiempo en que se encuentre privado de la libertad, se impondrá a los responsables la pena de cuarenta a ciento diez años de prisión, independientemente de la causa que haya generado la muerte del sujeto pasivo.
-
-Cuando la víctima sea lesionada o privada de la vida por sus captores, se aplicarán las reglas del concurso de delitos.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2008)</small>
+(DEROGADO, P.O. 1 DE JULIO DE 2015)
 
 ###### Artículo 218.
 
-Si se libera espontáneamente al secuestrado, dentro de los tres días siguientes al de la privación ilegal de la libertad sin lograr alguno de los propósitos a que se refieren los artículos 213 y 216, y sin que se hayan presentado alguna de las circunstancias previstas en los artículos 215 y 215 Bis, la pena será de cuatro a ocho años de prisión y de cien a trescientos días multa.
-
-En los demás casos en que espontáneamente se libere al secuestrado, sin lograr alguno de los propósitos a que se refieren los artículos 213 y 216, la pena será de siete a veinte años de prisión y de trescientos cincuenta a setecientos días multa.
+(DEROGADO, P.O. 1 DE JULIO DE 2015)
 
 ###### Artículo 219.
 
-A quien simule encontrarse privado de su libertad con amenaza de su vida o daño a su persona, con el propósito de obtener rescate o con la intención de que la autoridad o un particular realice o deje de realizar un acto cualquiera, se le impondrán de tres a ocho años de prisión y de cien a quinientos días multa.
-
-Este delito se perseguirá por querella, cuando sea cometido por un ascendiente, descendiente, cónyuge, parientes consanguíneos hasta el cuarto grado, concubina, concubinario, pareja permanente, adoptante o adoptado y parientes por afinidad hasta el segundo grado del sujeto pasivo.
+(DEROGADO, P.O. 1 DE JULIO DE 2015)
 
 ###### Artículo 220.
 
-Se impondrán de cinco a quince años de prisión y de quinientos a mil días multa, al particular que prive ilegalmente de su libertad a un servidor público, a un particular o a ambos, con el objeto de presionar a una autoridad para que realice o deje de realizar un acto de cualquier naturaleza.
-
-La pena de prisión señalada se aumentará hasta una mitad más cuando:
-
-a) Se amenace con privar de la vida o causar un daño a la persona privada de la libertad.
-
-b) Los que lo realicen obren en grupo de dos o más personas.
-
-c) Se realice con violencia, se veje la integridad física o la integridad moral de la persona secuestrada.
-
-d) Los sujetos pasivos de la privación ilegal de la libertad, sean dos o más personas.
-
-En estos casos, si espontáneamente se libera al sujeto pasivo dentro de los tres días siguientes al de la privación ilegal de la libertad, sin lograr propósito alguno del sujeto activo, la pena será de dos a seis años de prisión y de cincuenta a ciento cincuenta días multa.
+(DEROGADO, P.O. 1 DE JULIO DE 2015)
 
 ###### Artículo 221.
 
-Se impondrán de dos a diez años de prisión y de doscientos a mil días multa, a quien, en relación con el delito de privación ilegal de la libertad en su modalidad de plagio o secuestro de un particular o de un servidor público, fuera de las causas de exclusión del delito que prevé la ley:
-
-I.- Actúe como intermediario en las negociaciones de rescate, sin el acuerdo de quienes representen o gestionen a favor de la víctima.
-
-II.- Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información.
-
-III.- Actúe como asesor, con fines lucrativos, de quienes representen o gestionen a favor de la víctima, evite informar o colaborar con la autoridad competente en el conocimiento de la comisión del delito.
-
-IV.- Aconseje a las víctimas o pasivos o a sus familiares, del delito no presentar la denuncia del delito cometido, o bien aconseje no colaborar u obstruir las actuaciones de las autoridades.
-
-V.- Efectúe el cambio de moneda nacional por divisas, o de éstas por moneda nacional, sabiendo que dicha operación tiene el propósito directo de pagar el rescate a que se refiere el artículo 213 de este Código.
+(DEROGADO, P.O. 1 DE JULIO DE 2015)
 
 ###### Artículo 222.
 
-Se impondrá de uno a cuatro años de prisión, multa de diez a cuarenta días de salario y el pago de las prestaciones legales que correspondan a la víctima, al que obligue a otro a prestar trabajos o servicios personales para el sujeto activo o para terceras personas sin la retribución debida, empleando violencia física o moral o valiéndose del engaño, de la intimidación o de cualquier otro medio.
-
-Las mismas penas se impondrán a quien valiéndose de los mismos medios o de la extrema ignorancia o necesidad del sujeto pasivo, celebre con éste un contrato que restrinja su libertad o le imponga condiciones indignas que constituyan una servidumbre extrema o una relación similar a la esclavitud.
+(DEROGADO, P.O. 1 DE JULIO DE 2015)
 
 ### Capítulo II. Allanamiento
 
@@ -3849,11 +3779,13 @@ Los que en grupo de dos o más personas, exijan pago de peaje, para transitar so
 
 #### Sección Tercera. Delincuencia Organizada
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2015)</small>
+
 ###### Artículo 376.
 
-Cuando tres o más personas, se organicen para realizar en forma permanente o reiterada, conductas que por sí o unidas a otras tengan como fin o resultado cometer alguno o algunos de los delitos siguientes de este artículo, serán considerados por ese solo hecho como miembros de la delincuencia organizada:
+Cuando tres o más personas se organicen para realizar en forma permanente o reiterada, conductas que por sí o unidas a otras tengan como fin o resultado cometer alguno o algunos de los delitos siguientes de este artículo, serán considerados por ese solo hecho como miembros de la delincuencia organizada:
 
-Homicidio calificado, previsto en los artículos 160 y 170; privación ilegal de la libertad, previsto en el artículo 211; asalto, previsto en los artículos 231 y 232; secuestro, previsto en el artículo 214; robo a bancos o instituciones financieras, previsto en los artículo (sic) 277 y 278; robo de vehículos, previsto en el artículo 281; robo, previsto en los artículos 270, 273 y 276; abigeato, previsto en los artículos 291 y 295; corrupción de menores o incapacitados, previsto en el artículo 327; pornografía infantil, previsto en el artículo 333; lenocinio, previsto y sancionado en los artículos 340 a 343; atentados contra la paz y la integridad corporal y patrimonial de la colectividad y del Estado, previsto en el artículo 369; evasión de presos, previsto, en el artículo 357; operaciones con recursos de procedencia ilícita, previsto en el artículo 478.
+Homicidio calificado, previsto en los artículos 160 y 170; privación ilegal de la libertad previsto en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; asalto, previsto en los artículos 231 y 232; secuestro, previsto en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; robo a bancos o instituciones financieras, previsto en los artículos 277 y 278; robo de vehículos, previsto en el artículo 281; robo, previsto en los artículos 270, 273 y 276; abigeato, previsto en los artículos 291 y 295; corrupción de menores o incapacitados, previsto en el artículo 327; pornografía infantil, previsto en el artículo 333; lenocinio, previsto y sancionado en los artículos 340 al 343; atentados contra la paz y la integridad corporal y patrimonial de la colectividad y del Estado, previsto en el artículo 369; evasión de presos, previsto, en el artículo 357; operaciones con recursos de procedencia ilícita, previsto en el artículo 478.
 
 ###### Artículo 377.
 
@@ -5610,3 +5542,11 @@ P.O. 15 DE ABRIL DE 2015.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 1 DE JULIO DE 2015.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los delitos a que se refieren los artículos derogados por este Decreto, serán competencia de las autoridades ministeriales y judiciales de la Entidad, de conformidad con lo dispuesto en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Artículo Tercero.- Las disposiciones relativas a los delitos a que se refieren los artículos derogados por este Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
