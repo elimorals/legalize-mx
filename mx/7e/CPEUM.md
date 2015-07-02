@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2015-05-27"
+last_updated: "2015-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JULIO DE 2015.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -548,11 +548,15 @@ El sistema penitenciario se organizará sobre la base del respeto a los derechos
 
 La Federación, los Estados y el Distrito Federal podrán celebrar convenios para que los sentenciados por delitos del ámbito de su competencia extingan las penas en establecimientos penitenciarios dependientes de una jurisdicción diversa.
 
-La Federación, los Estados y el Distrito Federal establecerán, en el ámbito de sus respectivas competencias, un sistema integral de justicia que será aplicable a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garanticen los derechos fundamentales que reconoce esta Constitución para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos. Las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley, solo serán sujetos a rehabilitación y asistencia social.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2015)</small>
+
+La Federación y las entidades federativas establecerán en el ámbito de sus respectivas competencias, un sistema integral de justicia para los adolescentes, que será aplicable a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito y tengan entre doce años cumplidos y menos de dieciocho años de edad. Este sistema garantizará los derechos humanos que reconoce la Constitución para toda persona, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos a los adolescentes. Las personas menores de doce años a quienes se atribuya que han cometido o participado en un hecho que la ley señale como delito, sólo podrán ser sujetos de asistencia social.
 
 La operación del sistema en cada orden de gobierno estará a cargo de instituciones, tribunales y autoridades especializados en la procuración e impartición de justicia para adolescentes. Se podrán aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente.
 
-Las formas alternativas de justicia deberán observarse en la aplicación de este sistema, siempre que resulte procedente. En todos los procedimientos seguidos a los adolescentes se observará la garantía del debido proceso legal, así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas. Éstas deberán ser proporcionales a la conducta realizada y tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades. El internamiento se utilizará solo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2015)</small>
+
+Las formas alternativas de justicia deberán observarse en la aplicación de este sistema, siempre que resulte procedente. El proceso en materia de justicia para adolescentes será acusatorio y oral, en el que se observará la garantía del debido proceso legal, así como la independencia de las autoridades que efectúen la remisión y las que impongan las medidas. Éstas deberán ser proporcionales al hecho realizado y tendrán como fin la reinserción y la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades. El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión o participación en un hecho que la ley señale como delito.
 
 Los sentenciados de nacionalidad mexicana que se encuentren compurgando penas en países extranjeros, podrán ser trasladados a la República para que cumplan sus condenas con base en los sistemas de reinserción social previstos en este artículo, y los sentenciados de nacionalidad extranjera por delitos del orden federal o del fuero común, podrán ser trasladados al país de su origen o residencia, sujetándose a los Tratados Internacionales que se hayan celebrado para ese efecto. El traslado de los reclusos sólo podrá efectuarse con su consentimiento expreso.
 
@@ -2174,7 +2178,9 @@ Las leyes generales contemplarán también la distribución de competencias y la
 
 b) La legislación que establezca los delitos y las faltas contra la Federación y las penas y sanciones que por ellos deban imponerse; así como legislar en materia de delincuencia organizada;
 
-c) La legislación única en materia procedimental penal, de mecanismos alternativos de solución de controversias y de ejecución de penas que regirá en la República en el orden federal y en el fuero común.
+> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2015)</small>
+
+c) La legislación única en materia procedimental penal, de mecanismos alternativos de solución de controversias, de ejecución de penas y de justicia penal para adolescentes, que regirá en la República en el orden federal y en el fuero común.
 
 Las autoridades federales podrán conocer de los delitos del fuero común, cuando éstos tengan conexidad con delitos federales o delitos contra periodistas, personas o instalaciones que afecten, limiten o menoscaben el derecho a la información o las libertades de expresión o imprenta.
 
@@ -7613,6 +7619,18 @@ Noveno. Los recursos humanos, materiales, financieros y presupuestales con que c
 Décimo. Los trabajadores de base que se encuentren prestando sus servicios en el Tribunal Federal de Justicia Fiscal y Administrativa, a la entrada en vigor de la Ley a que se refiere la fracción XXIX-H, del artículo 73, de esta Constitución, seguirán conservando su misma calidad y derechos laborales que les corresponden ante el Tribunal Federal de Justicia Administrativa, en los términos que dicha ley determine.
 
 Décimo Primero. La ley reglamentaria del segundo párrafo del artículo 113 Constitucional, reformado por virtud del presente Decreto, se entenderá referida al último párrafo del artículo 109 Constitucional atendiendo a lo establecido en el Quinto Transitorio del presente Decreto.
+
+D.O.F. 2 DE JULIO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Congreso de la Unión dentro de los 180 días naturales siguientes a la publicación de este Decreto en el Diario Oficial de la Federación, deberá expedir la legislación nacional en materia de justicia para adolescentes, previendo las disposiciones transitorias necesarias para diferenciar el inicio de su vigencia, en función de la etapa del proceso de implementación del Sistema Procesal Penal Acusatorio en que se encuentren. En razón de lo anterior, se abroga la Ley Federal de Justicia para Adolescentes, publicada en el Diario Oficial de la Federación el 27 de diciembre de 2012.
+
+La Ley para el Tratamiento de Menores Infractores para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal, así como la legislación vigente en materia de justicia para adolescentes expedida por las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, continuarán en vigor hasta que inicie la vigencia de la legislación nacional que expida el Congreso de la Unión conforme al presente Decreto.
+
+TERCERO. Los procedimientos de justicia para adolescentes y la ejecución de las medidas sancionadoras, iniciados con anterioridad a la entrada en vigor de la legislación nacional que establece el presente Decreto, serán concluidos conforme a las disposiciones vigentes al momento de iniciarse dichos procedimientos y ejecución de medidas sancionadoras.
+
+CUARTO. El Congreso de la Unión, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, deberán prever los recursos necesarios para la debida implementación, funcionamiento y desarrollo del sistema de justicia para adolescentes. Las partidas para tales propósitos deberán señalarse en los presupuestos de egresos correspondientes.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 601 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN DE BRAVO, ORIZABA, TIERRA BLANCA; VERACRUZ Y XALAPA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
