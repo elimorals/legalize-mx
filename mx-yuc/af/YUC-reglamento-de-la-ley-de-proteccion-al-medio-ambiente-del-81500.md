@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-proteccion-al-medio-ambiente-del-81500"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-26"
-last_updated: "2014-06-17"
+last_updated: "2015-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 17 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE JULIO DE 2015.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 26 de mayo de 2011.
 
@@ -207,9 +207,11 @@ Las autoridades o los particulares que realicen obras o actividades que puedan c
 
 Una vez que se obtenga el dictamen de factibilidad urbana ambiental, se podrá iniciar el procedimiento para solicitar las autorizaciones, licencias o permisos de uso de suelo municipales correspondientes. La Secretaría, dará a conocer a los Ayuntamientos respectivos la respuesta entregada al solicitante de la factibilidad.
 
+> <small>(REFORMADO, D.O. 2 DE JULIO DE 2015)</small>
+
 ###### Artículo 10.
 
-La vigencia de los Programas de Ordenamiento Ecológico del Territorio del Estado será permanente y podrá actualizarse cada cuatro años.
+Los programas de ordenamiento ecológico del territorio del estado, una vez publicados, tendrán una vigencia permanente y deberán actualizarse, al menos, cada cuatro años.
 
 ### Capítulo II. De la regulación ecológica en los asentamientos humanos
 
@@ -769,7 +771,7 @@ En lo referente a la Capacidad de Carga, el nivel e intensidad de uso será dete
 
 ###### Artículo 59.
 
-Debido al daño que una obra o actividad pudiera ocasionar al medio ambiente, los promoventes y la Secretaría podrán convenir acciones de restauración o Compensación, en los términos del Capitulo XIII, Título Tercero de este Reglamento.
+Debido al daño que una obra o actividad pudiera ocasionar al medio ambiente, los promoventes y la Secretaría podrán convenir acciones de restauración o Compensación, en los términos del Capítulo XIII, Título Tercero de este Reglamento.
 
 ###### Artículo 60.
 
@@ -2368,3 +2370,17 @@ Se deroga el capítulo II "De la Autorización en Cenotes y Cavernas", del títu
 Tercero. Derogación tácita
 
 Se derogan las disposiciones de igual o menor rango en lo que se opongan al contenido de este decreto.
+
+D.O. 2 DE JULIO DE 2015.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Actualización de programas
+
+La Secretaría de Desarrollo Urbano y Medio Ambiente, para dar cumplimiento a lo dispuesto en el artículo 10 del Reglamento de la Ley de Protección al Medio Ambiente del Estado de Yucatán, deberá actualizar los programas de ordenamiento ecológico del territorio del estado, cuya expedición o última actualización tenga una antigüedad mayor de cuatro años, en el plazo de un año contado a partir de la entrada en vigor de este decreto.
+
+Tercero. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
