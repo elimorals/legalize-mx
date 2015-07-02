@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-entidades-paraestatales-del-estado-de-durango-42394"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2012-09-23"
+last_updated: "2015-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2015.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 16 de diciembre de 2004.
 
@@ -39,9 +39,11 @@ LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE DURANGO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2015)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto establecer las bases de organización y funcionamiento de las entidades paraestatales de la Administración Pública del Estado de Durango.
+La presente ley es de orden público e interés social, reglamentaria en lo conducente del artículo 99 de la Constitución Política del Estado Libre y Soberano de Durango; y tiene por objeto establecer las bases de organización y funcionamiento de las entidades paraestatales de la Administración Pública del Estado de Durango.
 
 ###### Artículo 2.
 
@@ -67,7 +69,9 @@ IV. Aquellas entidades que por su naturaleza no estén comprendidas en la Admini
 
 Quedan exceptuadas de las disposiciones de esta ley:
 
-I. Los organismos autónomos;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2015)</small>
+
+I. Los órganos constitucionales autónomos;
 
 II. Las instituciones educativas que cuenten con autonomía legalmente reconocida;
 
@@ -85,7 +89,9 @@ Las entidades paraestatales gozarán de autonomía de gestión para el cabal cum
 
 Las relaciones del Titular del Poder Ejecutivo y sus dependencias con las entidades paraestatales, se sujetarán a lo establecido en la Ley Orgánica de la Administración Pública del Estado de Durango, en la presente Ley y sus disposiciones reglamentarias y a otras disposiciones según la materia que corresponda.
 
-La operación de las entidades paraestatales y su control, vigilancia y evaluación por parte del Titular del Poder Ejecutivo del Estado, se efectuará en los términos de esta Ley, por conducto de las Secretarías de Finanzas y de Administración, la de Contraloría y Modernización Administrativa en el respectivo ámbito de sus atribuciones y por las Secretarías del ramo coordinadoras de sector.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2015)</small>
+
+La operación de las entidades paraestatales y su control, vigilancia y evaluación por parte del Titular del Poder Ejecutivo del Estado, se efectuará en los términos de esta ley, por conducto de las Secretarías de Finanzas y de Administración, la de Contraloría, en el respectivo ámbito de sus atribuciones y por las Secretarías del ramo coordinadoras de sector.
 
 ###### Artículo 8.
 
@@ -113,7 +119,9 @@ Las (sic) Secretaría de Finanzas y de Administración tendrá miembros en los �
 
 Las entidades paraestatales deberán proporcionar a las demás dependencias y entidades del sector donde se encuentren agrupadas, la información y datos que les soliciten así como los que les requieran las secretarías del ramo coordinadoras del sector.
 
-Para el cumplimiento de lo anteriormente establecido, la Secretaría del ramo, coordinadora de sector conjuntamente con las Secretarías de Finanzas y Administración y de la Contraloría y Modernización Administrativa, harán compatibles los requerimientos de información que se demanden a las dependencias y entidades paraestatales racionalizando los flujos de información.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2015)</small>
+
+Para el cumplimiento de lo anteriormente establecido, la Secretaría del ramo, coordinadora de sector conjuntamente con las Secretarías de Finanzas y Administración y de Contraloría, harán compatibles los requerimientos de información que se demanden a las dependencias y entidades paraestatales racionalizando los flujos de información.
 
 ###### Artículo 12.
 
@@ -289,7 +297,7 @@ XI. Aprobar la constitución de reservas y aplicación de excedentes financieros
 
 XII. Observar las normas y bases para la adquisición, arrendamiento y enajenación de muebles e inmuebles que el organismo requiera, para la prestación de sus servicios, con sujeción a las disposiciones legales respectivas;
 
-XIII. Analizar y aprobar en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda al Comisario; y (sic)
+XIII. Analizar y aprobar en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda al Comisario; y
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2010)</small>
 
@@ -333,7 +341,9 @@ IX. Presentar al órgano de gobierno, el informe sobre el desempeño del organis
 
 X. Establecer los mecanismos de evaluación relativos a la eficiencia y la eficacia con que se desempeñe el organismo y presentar al Órgano de Gobierno por lo menos dos veces al año, la evaluación de gestión con el detalle que previamente acuerde dicho órgano;
 
-XI. Proporcionar la información y dar acceso a la documentación que le soliciten la Secretaría de Finanzas y de Administración, así como la de Contraloría y Modernización Administrativa o el Auditor Externo para el cumplimiento de sus funciones y la que el Congreso del Estado le solicite;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2015)</small>
+
+XI. Proporcionar la información y dar acceso a la documentación que le soliciten la Secretaría de Finanzas y de Administración, la de Contraloría, o el Auditor Externo para el cumplimiento de sus funciones y la que el Congreso del Estado le solicite;
 
 XII. Ejecutar los acuerdos que dicte el Órgano de Gobierno; y
 
@@ -399,9 +409,11 @@ Se equiparan a las empresas de participación estatal mayoritaria, las sociedade
 
 Son empresas de participación estatal minoritarias, las sociedades en las que una o varias dependencias o entidades de la Administración Pública Estatal, consideradas conjunta o separadamente, posean acciones o partes de capital que representen menos del 50% y hasta el 25% de aquél.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2015)</small>
+
 ###### Artículo 35.
 
-La vigilancia de la participación en las empresas de participación estatal minoritaria estará a cargo de un Comisario Público designado por la Secretaría de Contraloría y Modernización Administrativa.
+La vigilancia de la participación en las empresas de participación estatal minoritaria estará a cargo de un Comisario Público designado por la Secretaría de Contraloría.
 
 ###### Artículo 36.
 
@@ -465,9 +477,9 @@ VI. Otras disposiciones contenidas en los ordenamientos aplicables.
 
 El órgano de gobierno o comité técnico de los fideicomisos públicos será presidido por el Gobernador del Estado o el titular de la Secretaría del Ramo Coordinadora del Sector o por la persona a quien éste designe.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2015)</small>
 
-Deberán formar parte de ellos al menos un representante de las Secretarías de Finanzas y de Administración y de Contraloría y Modernización Administrativa esta última únicamente en su carácter de comisario con derecho a voz.
+Deberán formar parte de ellos al menos un representante de las Secretarías de Finanzas y de Administración y de Contraloría, esta última únicamente en su carácter de comisario con derecho a voz.
 
 Estará integrado preferentemente por servidores públicos de la administración pública estatal y sesionará de manera ordinaria por lo menos cada tres meses y extraordinariamente cuando así se requiera.
 
@@ -565,9 +577,11 @@ El órgano de gobierno, a propuesta de su Presidente o cuando menos de la tercer
 
 ### CAPÍTULO VI. DEL CONTROL Y EVALUACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2015)</small>
+
 ###### Artículo 59.
 
-Corresponde al Titular del Poder Ejecutivo del Estado, el control y vigilancia de las entidades paraestatales, a través de las Secretarías de Finanzas y de Administración, de Contraloría y Modernización Administrativa así como de las Secretarías del Ramo Coordinadoras de Sector respectivas, en los términos de la presente Ley.
+Corresponde al Titular del Poder Ejecutivo del Estado, el control y vigilancia de las entidades paraestatales, a través de las Secretarías de Finanzas y de Administración, de Contraloría, así como de las Secretarías del Ramo Coordinadoras de Sector respectivas, en los términos de la presente Ley.
 
 Las atribuciones conferidas al Titular del Poder Ejecutivo, en el párrafo anterior, serán ejercidas con el objeto de lograr la integración de las actividades de las entidades paraestatales a la planeación general, sectorial, regional y especial del desarrollo del Estado y de obtener la máxima eficacia y eficiencia en el resultado de sus operaciones.
 
@@ -605,9 +619,11 @@ XIV. Dictar las disposiciones administrativas, relativas a la adquisición, enaj
 
 XV. Las demás que le confieran otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2015)</small>
+
 ###### Artículo 61.
 
-La Secretaría de Contraloría y Modernización Administrativa, tendrá respecto de las entidades paraestatales, las siguientes atribuciones:
+La Secretaría de Contraloría, tendrá respecto de las entidades paraestatales, las siguientes atribuciones:
 
 I. Establecer y operar el Sistema de Control de la Gestión Pública, al interior de las entidades paraestatales;
 
@@ -649,11 +665,13 @@ VI. Tener acceso a toda clase de documentación, que les permita cumplir con las
 
 VII. Las demás que le determine esta Ley y la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2015)</small>
+
 ###### Artículo 63.
 
-El órgano de vigilancia de entidades paraestatales estará integrado por un Comisario Público Propietario y un suplente, designados por la Secretaría de la Contraloría y Modernización Administrativa.
+El órgano de vigilancia de entidades paraestatales estará integrado por un Comisario Público Propietario y un suplente, designados por la Secretaría de Contraloría.
 
-Los Comisarios Públicos evaluarán el desempeño general y funciones del organismo, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Contraloría y Modernización Administrativa les asigne específicamente conforme a la Ley. Para el cumplimiento de las Funciones citadas el órgano de gobierno y el Director General deberán proporcionar la información que soliciten los Comisarios Públicos.
+Los Comisarios Públicos evaluarán el desempeño general y funciones del organismo, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de Contraloría les asigne específicamente conforme a la Ley. Para el cumplimiento de las Funciones citadas el órgano de gobierno y el Director General deberán proporcionar la información que soliciten los Comisarios Públicos.
 
 ###### Artículo 64.
 
@@ -868,3 +886,13 @@ Se derogan todas las disposiciones legales y reglas que se opongan al presente d
 ###### ARTÍCULO TERCERO.
 
 En un plazo no mayor a 90 días posteriores a la entrada en vigor al presente decreto el Gobernador del Estado realizará las modificaciones a los decretos administrativos que se opongan al presente.
+
+P.O. 2 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a las previstas en el presente Decreto.
