@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2014-08-26"
+last_updated: "2015-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -559,11 +559,11 @@ El órgano de control disciplinario anualmente deberá elaborar y actualizar el 
 
 ### CAPITULO VI. Del trabajo de los menores
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2015)</small>
 
 ###### Art. 26 Bis.
 
-El empleo de mayores de catorce años y menores de dieciséis, se sujetará a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, sus leyes reglamentarias y lo previsto por este capítulo.
+El empleo de mayores de quince años y menores de dieciséis, se sujetará a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, sus leyes reglamentarias y lo previsto por este capítulo.
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
 
@@ -571,11 +571,11 @@ El empleo de mayores de catorce años y menores de dieciséis, se sujetará a lo
 
 Este capítulo, tiene como propósito, proteger la relación laboral de los menores a que se refiere el artículo anterior, por lo que las entidades promoverá las condiciones que permitan su asistencia a la escuela y que contribuyan a su preparación técnica y profesional; así mismo, velarán por que su desarrollo psíquico y físico no sufra detrimento, evitando asignarle actividades que impliquen esfuerzos desmesurados, que puedan dañar su salud.
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2015)</small>
 
 ###### Art. 26 Bis 2.
 
-Los menores de dieciséis años, sólo podrán prestar sus servicios en la jornada diurna, la cual no podrá exceder de seis horas. No podrán por ningún motivo trabajar tiempo extraordinario, ni laborar en los días de descanso señalados por la ley.
+Los mayores de quince años y menores de dieciséis años, sólo podrán prestar sus servicios en la jornada diurna, lo cual no podrá exceder de seis horas. No podrán por ningún motivo trabajar tiempo extraordinario, ni laborar en los días de descanso señalados por la Ley.
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2003)</small>
 
@@ -2726,3 +2726,7 @@ P.O. 26 DE AGOSTO DE 2014.
 PRIMERO. El presente decreto entrará en vigor el día 1.° de enero del 2015, previa su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Las dependencias y entidades deberán prever en su proyecto de presupuesto las erogaciones necesarias para el apoyo a que se refiere el presente decreto.
+
+P.O. 2 DE JULIO DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
