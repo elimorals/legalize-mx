@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-tribunal-de-lo-contencioso-57506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-01"
-last_updated: "2007-11-01"
+last_updated: "2015-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE SONORA, PUBLICADO EN EL B.O. DE 2 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE JULIO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 1 de noviembre de 2007.
 
@@ -608,3 +610,19 @@ MAGISTRADA PRESIDENTA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO D
 LIC. EMMA GUADALUPE MILLAN CASTRO
 
 SECRETARIA GENERAL DE ACUERDOS Y PROYECTOS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 2 DE JULIO DE 2015.
+
+###### ARTICULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día siguiente de su publicación, en el Boletín Oficial del gobierno del Estado de Sonora.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Tribunal de lo Contencioso Administrativo del Estado de Sonora, publicado en el Boletín Oficial del Gobierno del Estado de Sonora, bajo el número 36, de la Sección I el Primero de Octubre de dos mil siete.
+
+###### ARTICULO TERCERO.
+
+Se derogan las disposiciones de igual o menor rango que se opongan al presente ordenamiento.
