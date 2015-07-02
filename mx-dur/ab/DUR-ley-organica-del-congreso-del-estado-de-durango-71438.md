@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-71438"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-12-24"
-last_updated: "2014-12-25"
+last_updated: "2015-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
@@ -1575,9 +1575,15 @@ X. Legislación sobre derecho registral;
 
 XI. Legislación relativa a las expropiaciones;
 
-XII. Dictaminar sobre las leyes y reglamentos que establezcan y regulen los sistemas integrales de tratamiento penal; y
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2015)</small>
 
-XIII. Las demás que le encomiende el Congreso del Estado.
+XII. Dictaminar sobre las leyes y reglamentos que establezcan y regulen los sistemas integrales de tratamiento penal;
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2015)</small>
+
+XIII. Nombramientos, ratificación o no ratificación de los Magistrados del Poder Judicial del Estado; y
+
+XIV. Las demás que le encomiende el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
@@ -3682,3 +3688,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a las previstas en el presente Decreto.
+
+P.O. 2 DE JULIO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por el Pleno.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan a lo establecido por el presente Decreto.
