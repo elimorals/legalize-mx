@@ -4,7 +4,7 @@ identifier: "MEX-ley-registral-para-el-estado-de-mexico-82739"
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-18"
-last_updated: "2011-08-31"
+last_updated: "2015-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82739&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MEX"
 ---
 # LEY REGISTRAL PARA EL ESTADO DE MEXICO
 
-LEY REGISTRAL PARA EL ESTADO DE MEXICO
+LEY REGISTRAL PARA EL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE AGOSTO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE JULIO DE 2015.
 
 Ley publicada en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el jueves 18 de agosto de 2011.
 
@@ -285,15 +283,35 @@ La situación de los trámites y servicios en el control de gestión, según cor
 
 I. Ingresado;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 3 DE JULIO DE 2015)</small>
+
+El sistema se compondrá de las secciones siguientes:
+
+1. Tipo de predio:
+
+a) Industrial
+
+b) Comercial
+
+c) Habitacional
+
+d) Otros.
+
+2. Personas jurídicas colectivas.
+
 II. En calificación;
 
-III. Inscrito;
+> <small>(REFORMADA, G.G. 3 DE JULIO DE 2015)</small>
+
+III. Inscrito, anotado, cancelado.
 
 IV. Suspendido;
 
 V. Subsanado;
 
-VI. Denegado;
+> <small>(REFORMADA, G.G. 3 DE JULIO DE 2015)</small>
+
+VI. Rechazado.
 
 VII. En recurso de inconformidad;
 
@@ -301,9 +319,13 @@ VIII. Resolución del Recurso; y
 
 IX. Entregado.
 
-La situación de los trámites, se actualizará diariamente según corresponda de acuerdo con las etapas del procedimiento. Dichas etapas serán consultables por los usuarios a través de los medios informáticos y del Boletín.
+> <small>(REFORMADO, G.G. 3 DE JULIO DE 2015)</small>
 
-Tratándose de las etapas a que se refieren las fracciones IV, V, VI y VIII, la determinación correspondiente se publicará íntegramente en el Boletín, debiendo incluirse en tal publicación, de manera detallada y precisa, los fundamentos y motivación de la resolución, de tal manera que el interesado, con la simple publicación en el mencionado Boletín, pueda formular la acción legal que decida ejercer.
+La situación de los trámites suspendidos, rechazados o aquellos que la presente Ley y el Reglamento lo determinen serán consultables por los usuarios a través del Boletín.
+
+> <small>(REFORMADO, G.G. 3 DE JULIO DE 2015)</small>
+
+Tratándose de las etapas referidas en las fracciones IV, V, VI y VIII, la determinación correspondiente se publicará en el Boletín, debiendo incluirse en tal publicación los datos de ingreso del documento y el acto al que refiere el mismo, de tal manera que el interesado tenga conocimiento del estado que guarda el documento.
 
 ###### Artículo 22.
 
@@ -369,37 +391,73 @@ Cuando la autorización a que se refiere el artículo anterior se otorgue a Nota
 
 Para garantizar la integridad, confidencialidad y disponibilidad de la información registral, el Sistema Informático contará con las medidas de seguridad necesarias, autorizaciones y procedimientos según la Ley para el Uso de Medios Electrónicos del Estado de México y las demás disposiciones aplicables.
 
+> <small>(REFORMADO, G.G. 3 DE JULIO DE 2015)</small>
+
 ###### Artículo 31.
 
-La información registral deberá ser consultada para la calificación de los documentos, por parte de los Registradores, directamente a través del Sistema Informático.
+La información registral deberá ser consultada para la calificación y análisis de documentos, por parte de los registradores y servidores públicos adscritos a las áreas de inscripciones, anotaciones, cancelaciones y expedición de certificaciones e informes, directamente a través del Sistema Informático y documental del archivo cuando así se requiera, tomando en consideración el tipo de predio que fue ingresado, conforme lo establecido en el artículo 21, fracción I de la presente Ley.
 
 ## TITULO CUARTO. DEL PROCEDIMIENTO REGISTRAL
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.G. 3 DE JULIO DE 2015)</small>
+
 ###### Artículo 32.
 
-Cuando el acto sea inscribible y el Notario Público haya sido requerido, deberá en un plazo máximo de noventa días a partir de la fecha de otorgamiento y siempre y cuando haya sido expensado para ello, presentar a inscripción el formato precodificado o el testimonio que expida en los términos del artículo 22 fracción VI de la Ley del Notariado para el Estado de México.
+Los formatos precodificados deberán ser presentados junto con el documento requerido para la prestación del servicio.
+
+Los formatos precodificados serán autorizados por el Director General, quien determinará los requisitos que deberá contener y serán llenados por la parte usuaria del servicio con los datos que estos le requieran para inscribir, anotar o cancelar.
+
+Cuando se trate de oficios de autoridades administrativas o judiciales que directamente sean notificados a la oficina registral, por algún proceso en los que se ordene alguna limitación, anotación en el asiento registral, no se procederá a requerir dicho formato precodificado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE JULIO DE 2015)</small>
 
 ###### Artículo 33.
 
-El procedimiento registral se inicia con la asignación del número de entrada y trámite a la solicitud presentada.
+El procedimiento registral se inicia con la asignación del número de entrada, fecha, hora y trámite a la solicitud presentada.
 
 La fase de recepción podrá ser física o electrónica, debiéndose acreditar el pago de los derechos que se causen, cuando así proceda y consistirá, dependiendo el caso, de lo siguiente:
 
-I. Recepción física.- El interesado presentará en la oficialía de partes del Registro Público el Formato Precodificado respectivo, llenado bajo su responsabilidad, acompañado del testimonio u otro título auténtico y se sujetará a las siguientes reglas:
+> <small>(REFORMADA, G.G. 3 DE JULIO DE 2015)</small>
 
-A) Ingresado el documento, el Sistema Informático asignará al mismo, el número de entrada por orden de presentación, que será progresivo, fecha, hora y materia a que corresponda, lo que se hará constar en la solicitud de entrada y trámite de cada documento, de la que un ejemplar deberá entregarse al solicitante. La numeración se iniciará cada año calendario, sin que por ningún motivo, esté permitido emplear para documentos diversos el mismo número, salvo que se trate de un solo instrumento;
+I. Recepción física. El interesado presentará en oficialía de partes del Registro Público:
 
-B) Con la solicitud de entrada y trámite, se turnará el Formato Precodificado, acompañado del testimonio o documento a inscribir al Registrador para continuar la fase de calificación extrínseca; y
+1. El o los formatos precodificados respectivos, llenados bajo su responsabilidad, acompañado del testimonio original y señalando el tipo de predio que refiere el artículo 21, fracción I de la presente Ley.
 
-C) Cuando se presenten varios documentos a inscribir en los que el interesado señale en la solicitud de entrada y trámite que están vinculados entre sí, sea que se presenten al mismo tiempo o en momentos diversos, todos ellos deberán acumularse para su calificación simultánea.
+2. Documento auténtico y, en ambos casos, acompañarán copia legible de los documentos autorizados en el instrumento, sujetándose a las siguientes reglas:
 
-II. Recepción electrónica.- El Notario Público podrá enviar por medios telemáticos a través del sistema informático, el Formato Precodificado respectivo, llenado bajo su responsabilidad, acompañado de una Copia Certificada Electrónica en la que conste el acto a inscribir y deberá sujetarse a las siguientes reglas:
+A) Ingresado el documento, el Sistema Informático asignará al mismo, el número de entrada por orden de presentación, que será progresivo, fecha, hora y acto a que corresponda, lo que se hará constar en la solicitud de entrada y trámite de cada documento, de la cual se expedirán dos ejemplares de dicho ingreso entregándose uno al solicitante, que le servirá como constancia para acreditar su entrada.
 
-A) El Formato Precodificado deberá enviarse firmado electrónicamente por el Notario Público, acompañado de una Copia Certificada Electrónica. El Sistema Informático asignará al mismo, el número de entrada por orden de presentación, que será progresivo, fecha, hora y materia a que corresponda, generando con estos datos una boleta de ingreso, que surtirá efectos de solicitud de entrada y trámite, y se enviará al Notario por vía telemática de manera simultánea. La numeración se iniciará cada año calendario, sin que por ningún motivo, esté permitido emplear para documentos diversos el mismo número, salvo que se trate de un solo instrumento; y
+La numeración será continua, incluso al iniciar cada año calendario. Por ningún motivo estará permitido emplear para documentos diversos el mismo número, salvo que se trate de un solo instrumento.
 
-B) La Copia Certificada Electrónica deberá incluir las notas complementarias del instrumento en las que el Notario Público indique que se ha cumplido con todos los requisitos fiscales y administrativos que el acto requiera para su inscripción.
+B) Con la solicitud de entrada y trámite se turnará para calificación el formato precodificado, acompañado del testimonio o documento de conformidad con lo siguiente:
+
+1. El servidor público encargado de la calificación extrínseca registral procederá a la revisión y análisis del documento para determinar si procede a inscribir, anotar, cancelar, suspender o rechazar.
+
+2. El servidor público encargado de efectuar el análisis a los documentos para expedición de las certificaciones determinará si es procedente o improcedente, según sea el caso.
+
+En ambos casos, los servidores públicos verificarán el pago de los derechos que corresponda, conforme a lo establecido en las disposiciones fiscales y el tipo de predio de acuerdo al artículo 2, fracción I de la presente Ley.
+
+La calificación y análisis registral se realizará en la copia legible y autorizada del documento, y la revisión correspondiente se hará en cumplimiento al Código, la Ley Registral, su Reglamento y aquellas otras disposiciones jurídicas que así lo prevean.
+
+La forma precodificada presentada servirá como solicitud de petición, cumpliendo con el principio de rogación.
+
+C) Cuando se presenten varios documentos a inscribir, en los cuales el interesado señale en cada uno de los formatos precodificados de entrada del trámite que están vinculados entre sí y se presenten al mismo tiempo, deberán acumularse para la revisión de los mismos a un solo calificador.
+
+Los documentos que sean presentados por el interesado con posterioridad y se encuentren relacionados con otros ya ingresados surtirán sus efectos de prelación desde la fecha de ingreso, sin ninguna responsabilidad para la oficina registral.
+
+Si de la calificación registral se desprende que faltó un documento que no fue ingresado por parte del interesado, procederá a suspender los documentos que se relacionen y que no sea posible su inscripción, anotación o cancelación.
+
+> <small>(REFORMADA, G.G. 3 DE JULIO DE 2015)</small>
+
+II. Recepción electrónica. el notario público podrá enviar por medios telemáticos a través del sistema informático, el formato pre codificado respectivo, llenado bajo su responsabilidad, acompañado de la copia certificada electrónica en la que conste el acto a inscribir y deberá sujetarse a las siguientes reglas:
+
+A) El formato pre codificado deberá enviarse firmado electrónicamente por el notario público, acompañado del testimonio y la copia certificada electrónica, además de los anexos que dispongan el Código, la presente Ley Registral, su Reglamento y demás disposiciones legales aplicables.
+
+El Sistema Informático asignará al documento, el número de entrada por orden de presentación, que será progresivo, fecha, hora y acto que corresponda, generando con estos datos la boleta de ingreso, que surtirá efectos de solicitud de entrada y trámite, remitiéndose al notario por vía telemática de manera simultánea.
+
+B) La Copia Certificada Electrónica que remita el notario público deberá incluir las notas complementarias del instrumento en las que indique que se ha cumplido con todos los requisitos fiscales y administrativos que el acto requiera, así como los anexos respectivos para su inscripción, anotación o cancelación, conforme lo establezca el Código, la presente Ley Registral, su Reglamento y demás disposiciones legales aplicables.
 
 ###### Artículo 34.
 
@@ -430,6 +488,10 @@ Verificado que el testimonio, Formato Precodificado o la Copia Certificada Elect
 Se deberán inscribir o anotar, según corresponda, los documentos que se presenten al Registro para inscripción o anotación, dentro de un plazo máximo de diez días hábiles siguientes al de su presentación.
 
 Siendo el trámite por vía electrónica, se reducirá al menos a la mitad el plazo señalado en este artículo.
+
+> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2015)</small>
+
+Los inmuebles destinados a la actividad comercial o industrial de bajo impacto y que sean menores a 2,000 metros cuadrados se inscribirán en un plazo máximo de un día hábil, una vez reflejado el pago respectivo.
 
 ###### Artículo 35.
 
@@ -793,11 +855,19 @@ Los informes a las autoridades se harán mediante oficio. Las notificaciones que
 
 ### CAPITULO SEXTO. DE LAS CERTIFICACIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE JULIO DE 2015)</small>
+
 ###### Artículo 77.
 
-El Registro emitirá los siguientes:
+El Registro en términos de lo dispuesto por el artículo 8.4 del Código, emitirá:
 
-I. Certificado de existencia o inexistencia de gravámenes;
+> <small>(ADICIONADO PRIMER PÁRRAFO, G.G. 3 DE JULIO DE 2015)</small>
+
+A) Certificaciones:
+
+> <small>(REFORMADA, G.G. 3 DE JULIO DE 2015)</small>
+
+I. Certificado de existencia o inexistencia de gravámenes y limitaciones.
 
 II. Certificado de inscripción;
 
@@ -806,6 +876,26 @@ III. Certificado de no inscripción;
 IV. Certificado de no propiedad; y
 
 V. Copias Certificadas de antecedentes registrales.
+
+> <small>(ADICIONADA, G.G. 3 DE JULIO DE 2015)</small>
+
+VI. Certificación Literal del Asiento.
+
+> <small>(ADICIONADA, G.G. 3 DE JULIO DE 2015)</small>
+
+VII. Certificación de Secuencia Registral o Tracto Sucesivo.
+
+> <small>(ADICIONADA, G.G. 3 DE JULIO DE 2015)</small>
+
+VIII. Certificación de Compulsa.
+
+> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2015)</small>
+
+B) Informe sobre existencia o inexistencia de disposición testamentaria.
+
+> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2015)</small>
+
+C) Expedición de copias simples.
 
 ###### Artículo 78.
 
@@ -821,9 +911,13 @@ Al expedirse un certificado de existencia o inexistencia de gravámenes, de acue
 
 Las certificaciones a que se refiere el párrafo anterior no podrán ser denegadas, debiéndose expedir en los términos de los asientos respectivos y en su caso, se hará mención en ellas de las discrepancias existentes entre la solicitud y los asientos registrales; tampoco podrán denegarse en los casos en que el antecedente registral, contenido en libro o folio, se encuentre en Resguardo, debiendo al contestarse indicar los motivos de tal Resguardo.
 
+> <small>(REFORMADO, G.G. 3 DE JULIO DE 2015)</small>
+
 ###### Artículo 81.
 
-El certificado de existencia o inexistencia de gravámenes a que se refiere el artículo 77 fracción I, se expedirá a más tardar el quinto día contado a partir de aquél en que se haya presentado la solicitud.
+El certificado de existencia o inexistencia de gravámenes al que se refiere el artículo 77, fracción I se expedirá a más tardar el quinto día hábil siguiente, contado a partir de aquel en que se haya presentado la solicitud y el pago correspondiente.
+
+Los certificados de existencia o inexistencia de gravámenes de actos traslativos de dominio, respecto de inmuebles destinados a la actividad comercial o industrial de bajo impacto, menores a 2,000 metros cuadrados, se expedirán en un plazo de un día hábil, una vez reflejado el pago respectivo.
 
 ###### Artículo 82.
 
@@ -1063,6 +1157,10 @@ I. Por reincidir, en la comisión de alguna de las faltas a que se refiere el ar
 
 II. Por provocar dolosamente un error en un asiento registral.
 
+> <small>(ADICIONADA, G.G. 3 DE JULIO DE 2015)</small>
+
+III. Por solicitar documentación que no se prevea en la presente Ley, su Reglamento y demás ordenamientos jurídicos aplicables en la materia.
+
 ###### Artículo 112.
 
 Se sancionará con la cesación del ejercicio de la función a la que estén asignados los servidores públicos del Instituto, en los siguientes casos:
@@ -1202,3 +1300,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 3 DE JULIO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente. Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
