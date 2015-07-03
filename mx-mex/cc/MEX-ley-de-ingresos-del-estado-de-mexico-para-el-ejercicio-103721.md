@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-ingresos-del-estado-de-mexico-para-el-ejercicio-103721"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2014-11-20"
-last_updated: "2014-11-20"
+last_updated: "2015-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DE INGRESOS DEL ESTADO DE MÉXICO PARA EL EJERCICIO FISCAL DEL AÑO 2015
 
-> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA PRESENTE LEY ENTRARÁ EN VIGOR EL 1 DE ENERO DE 2015.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE JULIO DE 2015.
 
 Ley publicada en la Sección Séptima de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2014.
 
@@ -139,6 +137,12 @@ Se otorga a favor de los beneficiarios de los programas promotores de vivienda d
 
 Se autoriza para el ejercicio fiscal de 2015 la publicación sin costo alguno de los edictos en el Periódico Oficial “Gaceta del Gobierno”, en favor de los beneficiarios de los programas promotores de vivienda o de regularización de la tenencia de la tierra con un valor de hasta $568,660.00 al término de la construcción o adquisición, realizados por organismos públicos estatales en cumplimiento de sus objetivos.
 
+> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2015)</small>
+
+###### Artículo 14 Bis.
+
+Se autoriza al Titular del Ejecutivo del Estado, por conducto del Instituto de la Función Registral del Estado de México y durante el ejercicio fiscal de 2015, otorgue un subsidio de hasta el 100% en el pago de los derechos por servicios del Certificado de Libertad o Existencia de Gravámenes y la Inscripción relativa a la propiedad de inmuebles destinados a la apertura de Unidades Económicas de Bajo Impacto, cuya superficie sea menor a los 2000 metros cuadrados.
+
 ###### Artículo 15.
 
 Cuando de conformidad con la Ley Orgánica de la Administración Pública del Estado de México u otras disposiciones, los servicios que presta una dependencia de la administración pública estatal o uno de sus organismos auxiliares, pasen a ser proporcionados por otra dependencia u organismo, se entenderá que las disposiciones señaladas en esta Ley y en el Código Financiero del Estado de México y Municipios para aquéllos se aplicarán a éstos, así como cuando cambien de nombre los registros o padrones que conforman el servicio o la Ley que lo establece, se seguirán pagando los derechos correspondientes conforme a los preceptos que los establecen.
@@ -250,3 +254,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 3 DE JULIO DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan al presente Decreto.
