@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-299-de-proteccion-de-derechos-de-ninas-ninos-y-64580
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-25"
-last_updated: "2014-09-08"
+last_updated: "2015-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY DE PROTECCIÓN DE DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE SEPTIEMBRE DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DE LA LEY NÚMERO 573 DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 3 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE JULIO DE 2015. (ABROGADA)
 
 Ley publicada en el Número Extraordinario 390 a la Gaceta Oficial del Estado de Veracruz, el 25 de noviembre de 2008.
 
@@ -1180,3 +1182,25 @@ G.O. 8 DE SEPTIEMBRE DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+G.O. 3 DE JULIO DE 2015.
+
+## [N. DE E. TRANSITORIOS DE LA " LEY NÚMERO 573 DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que contravengan lo dispuesto en la presente Ley.
+
+Tercero. Se abroga la Ley 299 de Protección de Derechos de Niñas, Niños y Adolescentes para el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del estado el 25 de noviembre de 2008.
+
+Cuarto. Los Sistemas de Protección Integral Estatal y Municipales deberán integrarse a más tardar dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de la presente Ley.
+
+Quinto. El Sistema DIF Estatal deberá reformar su Reglamento Interior, a fin de que en un plazo no mayor a ciento ochenta días naturales, a partir de la entrada en vigor de la presente Ley, la actual Procuraduría de la Defensa del Menor, Familia y el Indígena se convierta en la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes y se entiendan referidas a ésta todas las menciones que en Leyes y Reglamentos se hagan de aquélla.
+
+Sexto. El Secretario Ejecutivo del actual Consejo Estatal de Asistencia para la Niñez y la Adolescencia será el Secretario Ejecutivo del órgano administrativo desconcentrado de la Secretaría de Gobierno a que se refiere el artículo 111 de la presente Ley, para lo que los recursos humanos, materiales y financieros de que ahora dispone dicho Consejo se transferirán íntegramente, a partir de la vigencia de esta Ley, al organismo que ejercerá la coordinación operativa del Sistema Estatal de Protección Integral.
+
+Séptimo. Las modificaciones legislativas procedentes deberán realizarse conforme a lo dispuesto en la presente Ley, dentro de los ciento ochenta días naturales siguientes a su entrada en vigor.
+
+Octavo. El Sistema Estatal de Protección Integral formulará el Programa Estatal de Protección Integral de Derechos de Niñas, Niños y Adolescentes en un plazo que no excederá de noventa días, contado a partir de la publicación del Programa Nacional.
+
+Noveno. Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Ejecutivo Estatal en un plazo no mayor a los ciento ochenta días naturales, contados a partir de la entrada en vigor de la presente Ley.
