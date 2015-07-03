@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-fomento-agropecuario-956
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-08-09"
-last_updated: "2013-08-09"
+last_updated: "2015-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARÍA DE FOMENTO AGROPECUARIO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2015.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 9 de agosto de 2013.
 
@@ -73,7 +73,9 @@ A) Dirección Administrativa.
 
 1) Departamento de Personal y Gestión Administrativa.
 
-2) Departamento de Programación, Presupuesto y Servicios Generales.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2015)</small>
+
+2) Departamento de Informática, Programación, Presupuesto y Servicios Generales.
 
 II. Subsecretaría de Desarrollo Agropecuario.
 
@@ -81,7 +83,9 @@ A) Dirección de Planeación Sectorial y Seguimiento a la Inversión Pública.
 
 1) Departamento de Planeación y Evaluación de Resultados.
 
-2) Departamento de Estadística, Informática, Estudios y Proyectos.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2015)</small>
+
+2) Departamento de Estadística, Estudios y Proyectos.
 
 B) Dirección de Desarrollo Empresarial del Campo.
 
@@ -189,27 +193,55 @@ I.- Dirigir, coordinar y controlar los procesos relativos a la organización, re
 
 II.- Coordinar, procurar y proporcionar los recursos económicos y materiales para el cumplimiento de los programas de la Secretaría, de acuerdo con los presupuestos autorizados;
 
-III.- Supervisar el uso correcto y buen aprovechamiento de los recursos económicos, humanos y materiales, suministrados para la ejecución de los programas de la Secretaría;
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2015)</small>
 
-IV.- Llevar el registro y control del gasto-presupuesto, e informar periódicamente a las unidades administrativas de la Secretaría del estado que guarda;
+III.- Coordinar el seguimiento del avance físico y financiero de los programas que se deriven de acuerdos y convenios de coordinación con la federación y los municipios;
 
-V.- Coordinar el sistema para la organización, control, mejora, capacitación y desarrollo de los recursos humanos adscritos a la Secretaría;
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2015)</small>
 
-VI.- Atender las observaciones derivadas de las auditorías que realicen los órganos de control competentes y coordinar la solventación de las mismas con las unidades ejecutoras auditadas;
+IV.- Coordinar, verificar y dar seguimiento a la operación del Fondo de Fomento Agropecuario del Estado de Baja California, así como a las solicitudes recibidas;
 
-VII.- Tramitar, coordinar y autorizar el abastecimiento y suministro de bienes muebles, materiales y equipo, viáticos, pasajes, gastos operativos, servicios, así como el mantenimiento preventivo y correctivo e intendencia para el buen desarrollo de las actividades de la Secretaría;
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2015)</small>
 
-VIII.- Diseñar, integrar y proponer las normas y lineamientos que regulen la ejecución de acciones aplicables en los sistemas y procedimientos con la finalidad de establecer la mejora continua en las unidades administrativas de la Secretaría;
+V.- Coordinar la integración de la cuenta pública del Fondo de Fomento Agropecuario del Estado de Baja California;
 
-IX.- Representar al Secretario en el Comité de Adquisiciones, Arrendamientos y Servicios del Poder Ejecutivo del Estado de Baja California;
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2015)</small>
 
-X.- Supervisar la vigencia y actualización de los reglamentos, manuales de organización, procedimientos, y de servicios al público, para el buen desarrollo de la Secretaría;
+VI.- Coordinar las reuniones del Comité Técnico del Fondo de Fomento Agropecuario del Estado de Baja California y dar seguimiento a sus acuerdos en materia de operación;
 
-XI.- Verificar el diseño y control de los sellos oficiales y documentación oficial que utiliza la Secretaría;
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2015)</small>
 
-XII.- Atender las solicitudes en materia de acceso a la información y transparencia que sean dirigidas al Secretario, y
+VII.- Coordinar las observaciones derivadas de las auditorías realizadas al Fondo de Fomento Agropecuario del Estado de Baja California, que realicen los órganos de control competentes;
 
-XIII.- Las demás que le sean encomendadas por el Secretario y por el Subsecretario, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2015)</small>
+
+VIII.- Coordinar la formulación e integración del programa operativo y del presupuesto anual de la Secretaría;
+
+IX.- Supervisar el uso correcto y buen aprovechamiento de los recursos económicos, humanos y materiales, suministrados para la ejecución de los programas de la Secretaría;
+
+X.- Llevar el registro y control del gasto-presupuesto, e informar periódicamente a las unidades administrativas de la Secretaría del estado que guarda;
+
+XI.- Coordinar el sistema para la organización, control, mejora, capacitación y desarrollo de los recursos humanos adscritos a la Secretaría;
+
+XII.- Atender las observaciones derivadas de las auditorías que realicen los órganos de control competentes y coordinar la solventación de las mismas con las unidades ejecutoras auditadas;
+
+XIII.- Tramitar, coordinar y autorizar el abastecimiento y suministro de bienes muebles, materiales y equipo, viáticos, pasajes, gastos operativos, servicios, así como el mantenimiento preventivo y correctivo e intendencia para el buen desarrollo de las actividades de la Secretaría;
+
+XIV.- Diseñar, integrar y proponer las normas y lineamientos que regulen la ejecución de acciones aplicables en los sistemas y procedimientos con la finalidad de establecer la mejora continua en las unidades administrativas de la Secretaría;
+
+XV.- Representar al Secretario en el Comité de Adquisiciones, Arrendamientos y Servicios del Poder Ejecutivo del Estado de Baja California;
+
+XVI.- Supervisar la vigencia y actualización de los reglamentos, manuales de organización, procedimientos, y de servicios al público, para el buen desarrollo de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2015)</small>
+
+XVII.- Coordinar y dirigir los sistemas informáticos que requiera la Secretaría para el adecuado cumplimiento de sus atribuciones;
+
+XVIII.- Verificar el diseño y control de los sellos oficiales y documentación oficial que utiliza la Secretaría;
+
+XIX.- Atender las solicitudes en materia de acceso a la información y transparencia que sean dirigidas al Secretario, y
+
+XX.- Las demás que le sean encomendadas por el Secretario y por el Subsecretario, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 ###### ARTÍCULO 11.
 
@@ -217,7 +249,9 @@ Quedan adscritas a la Dirección Administrativa, las siguientes unidades adminis
 
 A) Departamento de Personal y Gestión Administrativa.
 
-B) Departamento de Programación, Presupuesto y Servicios Generales.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2015)</small>
+
+B) Departamento de Informática, Programación, Presupuesto y Servicios Generales.
 
 ###### ARTÍCULO 12.
 
@@ -229,21 +263,31 @@ II.- Elaborar e instrumentar los sistemas de estímulos al personal por el buen 
 
 III.- Crear y fortalecer programas de capacitación para impulsar la profesionalización de los servidores públicos de la Secretaría;
 
-IV.- Llevar el registro contable de las obras de infraestructura y acciones de inversión que ejecuta la Secretaría;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2015)</small>
 
-V.- Revisar los expedientes técnicos que integran el programa de inversión pública de la Secretaría, en cada ejercicio fiscal;
+IV.- Vigilar el cumplimiento de los derechos, obligaciones y responsabilidades de los servidores públicos de la Secretaría, observando los reglamentos, condiciones generales de trabajo, políticas y demás ordenamientos legales; así como aplicar las medidas preventivas, correctivas y sanciones disciplinarias cuando correspondan;
 
-VI.- Gestionar ante la dependencia correspondiente, la liberación de recursos para el financiamiento de los proyectos que integran el programa de inversión de la Secretaría;
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2015)</small>
 
-VII.- Administrar los recursos provenientes del programa de inversión y cubrir las necesidades requeridas por las áreas ejecutoras de inversión pública;
+V.- Llevar el registro contable de las obras de infraestructura y acciones de inversión, así como coordinar el seguimiento y evaluación física y financiera de los acuerdos y convenios de coordinación celebrados con la federación y los municipios que ejecuta la Secretaría;
 
-VIII.- Vigilar el cumplimiento de los derechos, obligaciones y responsabilidades de los servidores públicos de la Secretaría, observando los reglamentos, condiciones generales de trabajo, políticas y demás ordenamientos legales; así como aplicar las medidas preventivas, correctivas y sanciones disciplinarias cuando correspondan, y
+VI.- Revisar los expedientes técnicos que integran el programa de inversión pública de la Secretaría, en cada ejercicio fiscal;
 
-IX.- Las demás que le sean encomendadas por el superior inmediato y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+VII.- Gestionar ante la dependencia correspondiente, la liberación de recursos para el financiamiento de los proyectos que integran el programa de inversión de la Secretaría;
+
+VIII.- Administrar los recursos provenientes del programa de inversión y cubrir las necesidades requeridas por las áreas ejecutoras de inversión pública;
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2015)</small>
+
+IX.- Elaborar y evaluar informes de los avances físico-financieros derivados de los acuerdos y convenios de coordinación celebrados con la federación y los municipios;
+
+X.- Las demás que le sean encomendadas por el superior inmediato y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 13.
 
-Corresponde al Departamento de Programación, Presupuesto y Servicios Generales, por conducto de su titular, el ejercicio de las siguientes atribuciones:
+Corresponde al Departamento de Informática, Programación, Presupuesto y Servicios Generales, por conducto de su titular, el ejercicio de las siguientes atribuciones:
 
 I.- Coordinar la formulación e integración del programa operativo anual y del presupuesto anual de egresos de la Secretaría;
 
@@ -253,15 +297,39 @@ III.- Coordinar los procesos de entrega y recepción de la Secretaría y en los 
 
 IV.- Elaborar e integrar proyectos de reestructuración y actualización orgánica de la Secretaría y promover su formalización ante las instancias correspondientes;
 
-V.- Llevar el registro y control permanente del gasto corriente de la Secretaría;
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2015)</small>
 
-VI.- Realizar los trámites de viáticos, hospedajes, reembolsos, solicitudes de bienes y servicios, gastos por comprobar, pagos a proveedores y demás trámites que se requieran para el buen ejercicio de las atribuciones de la Secretaría;
+V.- Coordinar la formulación e integración del programa operativo y del presupuesto anual de la Secretaría;
 
-VII.- Llevar el control, registro y trámites de las asignaciones, mantenimiento, reparaciones, seguros, fianzas, tenencias y placas de los vehículos de la Secretaría y sus actualizaciones, según corresponda;
+VI.- Llevar el registro y control permanente del gasto corriente de la Secretaría;
 
-VIII.- Llevar el control de la correspondencia, archivos del almacén, adquisiciones y suministro de insumos de oficina que se requieran para la Secretaría, y
+VII.- Realizar los trámites de viáticos, hospedajes, reembolsos, solicitudes de bienes y servicios, gastos por comprobar, pagos a proveedores y demás trámites que se requieran para el buen ejercicio de las atribuciones de la Secretaría;
 
-IX.- Las demás que le sean encomendadas por el superior inmediato y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+VIII.- Llevar el control, registro y trámites de las asignaciones, mantenimiento, reparaciones, seguros, fianzas, tenencias y placas de los vehículos de la Secretaría y sus actualizaciones, según corresponda;
+
+IX.- Llevar el control de la correspondencia, archivos del almacén, adquisiciones y suministro de insumos de oficina que se requieran para la Secretaría,
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2015)</small>
+
+X.- Determinar las normas y políticas internas en materia de tecnologías de la información y comunicaciones que promuevan el uso adecuado de la infraestructura de voz y datos de la Secretaría, así como propiciar un crecimiento ordenado de la misma;
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2015)</small>
+
+XI.- Proponer, desarrollar y coordinar proyectos y acciones en materia de tecnologías de la información y comunicaciones de la Secretaría, cumpliendo con los estándares de calidad y compatibilidad establecidos por la autoridad rectora estatal;
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2015)</small>
+
+XII.- Resguardar y mantener el inventario de los sistemas informáticos, bases de datos electrónicas, licenciamientos de software corporativas o especializadas y productos e insumos cartográficos, adquiridos o desarrollados para aplicaciones específicas de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2015)</small>
+
+XIII.- Asesorar y apoyar a las unidades administrativas de la Secretaría, en el desarrollo e implementación de proyectos departamentales en materia de tecnologías de la información y de comunicaciones;
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2015)</small>
+
+XIV.- Administrar la infraestructura en red de voz, datos y telecomunicaciones de la Secretaría, así como otorgar el soporte técnico necesario a los usuarios de la misma; y
+
+XV.- Las demás que le sean encomendadas por el superior inmediato y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 ### CAPÍTULO III. FACULTADES Y OBLIGACIONES DEL SUBSECRETARIO
 
@@ -413,6 +481,10 @@ F) Dirección de Ganadería.
 
 G) Dirección de Agricultura.
 
+> <small>N. DE E. MEDIANTE DECRETO POR EL SE REFORMA EL REGLAMENTO INTERNO DE LA SECRETARÍA DE FOMENTO AGROPECUARIO, PUBLICADO EN EL P.O. DE 3 DE JULIO DE 2015, SE DEROGAN LAS ANTERIORES FRACCIONES IV, VII, VIII, IX, XII Y XIII DEL PRESENTE ARTÍCULO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 19.
 
 Corresponde a la Dirección de Planeación Sectorial y Seguimiento a la Inversión Pública, por conducto de su titular, el ejercicio de las siguientes atribuciones:
@@ -423,33 +495,21 @@ II.- Formular la política de desarrollo agropecuario y agroindustrial, en coord
 
 III.- Proponer mecanismos de coordinación interinstitucional e intersectorial para impulsar el desarrollo de las actividades agropecuarias;
 
-IV.- Coordinar el seguimiento del avance físico y financiero de los programas que se deriven de acuerdos y convenios de coordinación con la federación y los municipios;
+IV.- Integrar, en coordinación con las unidades administrativas de la Secretaría, las convocatorias para el otorgamiento de apoyos derivados de recursos estatales y de aquellos convenidos con las dependencias y entidades de la Administración Pública Federal y Municipal;
 
-V.- Integrar, en coordinación con las unidades administrativas de la Secretaría, las convocatorias para el otorgamiento de apoyos derivados de recursos estatales y de aquellos convenidos con las dependencias y entidades de la Administración Pública Federal y Municipal;
+V.- Organizar con las unidades administrativas de la Secretaría, la operación de los programas, la apertura de ventanillas para la recepción de solicitudes de apoyos estatales y aquellos convenidos con las dependencias y entidades de la Administración Pública Federal y Municipal;
 
-VI.- Organizar con las unidades administrativas de la Secretaría, la operación de los programas, la apertura de ventanillas para la recepción de solicitudes de apoyos estatales y aquellos convenidos con las dependencias y entidades de la Administración Pública Federal y Municipal;
+VI.- Coordinar y gestionar los recursos financieros y programas de apoyo al Sector, ante instancias gubernamentales y no gubernamentales a nivel regional, nacional e internacional, para su aplicación en el Estado de Baja California, con la finalidad de promover el desarrollo de sus vocaciones productivas;
 
-VII.- Coordinar, verificar y dar seguimiento a la operación del Fondo de Fomento Agropecuario del Estado de Baja California, así como a las solicitudes recibidas y calificación de las mismas;
+VII.- Integrar y evaluar los indicadores de impacto, confiables y oportunos, de los programas de la Secretaría;
 
-VIII.- Coordinar la integración de la cuenta pública del Fondo de Fomento Agropecuario del Estado de Baja California;
+VIII.- Dar seguimiento y evaluar permanentemente los programas y proyectos de la Secretaría y su impacto en el Plan Estatal de Desarrollo;
 
-IX.- Coordinar las reuniones del Comité Técnico del Fondo de Fomento Agropecuario del Estado de Baja California y dar seguimiento a sus acuerdos en materia de operación;
+IX.- Integrar los informes institucionales y sectoriales que se requieran;
 
-X.- Coordinar y gestionar los recursos financieros y programas de apoyo al Sector, ante instancias gubernamentales y no gubernamentales a nivel regional, nacional e internacional, para su aplicación en el Estado de Baja California, con la finalidad de promover el desarrollo de sus vocaciones productivas;
+X.- Coordinar y dirigir el sistema de información estadística y geográfica, así como los sistemas informáticos que requiera la Secretaría para el adecuado cumplimiento de sus atribuciones, y
 
-XI.- Integrar y evaluar los indicadores de impacto, confiables y oportunos, de los programas de la Secretaría;
-
-XII.- Coordinar las observaciones derivadas de las auditorías realizadas al Fondo de Fomento Agropecuario del Estado de Baja California, que realicen los órganos de control competentes;
-
-XIII.- Coordinar la formulación e integración del programa operativo y del presupuesto anual de la Secretaria;
-
-XIV.- Dar seguimiento y evaluar permanentemente los programas y proyectos de la Secretaría y su impacto en el Plan Estatal de Desarrollo;
-
-XV.- Integrar los informes institucionales y sectoriales que se requieran;
-
-XVI.- Coordinar y dirigir el sistema de información estadística y geográfica, así como los sistemas informáticos que requiera la Secretaría para el adecuado cumplimiento de sus atribuciones, y
-
-XVII.- Las demás que le sean encomendadas por el Secretario y por el Subsecretario, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+XI.- Las demás que le sean encomendadas por el Secretario y por el Subsecretario, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 ###### ARTÍCULO 20.
 
@@ -457,7 +517,13 @@ Quedan adscritas a la Dirección de Planeación Sectorial y Seguimiento a la Inv
 
 A) Departamento de Planeación y Evaluación de Resultados.
 
-B) Departamento de Estadística, Informática, Estudios y Proyectos.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2015)</small>
+
+B) Departamento de Estadística, Estudios y Proyectos.
+
+> <small>N. DE E. MEDIANTE DECRETO POR EL SE REFORMA EL REGLAMENTO INTERNO DE LA SECRETARÍA DE FOMENTO AGROPECUARIO, PUBLICADO EN EL P.O. DE 3 DE JULIO DE 2015, SE DEROGAN LAS ANTERIORES FRACCIONES IV Y V DEL PRESENTE ARTÍCULO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 21.
 
@@ -467,21 +533,21 @@ I.- Evaluar los análisis, estudios, diagnósticos y proyectos tendientes a indu
 
 II.- Participar en la elaboración de proyectos estratégicos dentro del marco de planes y programas de desarrollo, así como facilitar la información necesaria dentro del ámbito de su competencia para su formulación e integración;
 
-III.- Planear y operar en coordinación con las unidades administrativas de la Secretaría competentes, las convocatorias para el otorgamiento de apoyos derivados de los recursos concurrentes convenidos con las dependencias y entidades de la Administración Pública Federal y Municipal;
+III.- Planear y operar en coordinación con las unidades administrativas de la Secretaría competentes (sic), las convocatorias para el otorgamiento de apoyos derivados de los recursos concurrentes convenidos con las dependencias y entidades de la Administración Pública Federal y Municipal;
 
-IV.- Llevar el registro, así como coordinar el seguimiento y evaluación física y financiera de los acuerdos y convenios de coordinación celebrados con la federación y los municipios;
+IV.- Diseñar, integrar y proponer las normas y lineamientos que regulen la ejecución de acciones aplicables en los sistemas y procedimientos, con la finalidad de establecer la mejora continua en las unidades administrativas adscritas de la Dirección de Planeación Sectorial y Seguimiento a la Inversión Pública;
 
-V.- Elaborar y evaluar informes de los avances físico-financieros derivados de los acuerdos y convenios de coordinación celebrados con la federación y los municipios;
+V.- Establecer los criterios internos de planeación y evaluación de los asuntos de su área de competencia, considerando los elementos que sean necesarios para alcanzar las metas y objetivos establecidos por las unidades administrativas de la Secretaría, y
 
-VI.- Diseñar, integrar y proponer las normas y lineamientos que regulen la ejecución de acciones aplicables en los sistemas y procedimientos, con la finalidad de establecer la mejora continua en las unidades administrativas adscritas de la Dirección de Planeación Sectorial y Seguimiento a la Inversión Pública;
+VI.- Las demás que le sean encomendadas por el superior inmediato, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
-VII.- Establecer los criterios internos de planeación y evaluación de los asuntos de su área de competencia, considerando los elementos que sean necesarios para alcanzar las metas y objetivos establecidos por las unidades administrativas de la Secretaría, y
+> <small>N. DE E. MEDIANTE DECRETO POR EL SE REFORMA EL REGLAMENTO INTERNO DE LA SECRETARÍA DE FOMENTO AGROPECUARIO, PUBLICADO EN EL P.O. DE 3 DE JULIO DE 2015, SE DEROGAN LAS ANTERIORES FRACCIONES IX, X, XI, XII Y XIII DEL PRESENTE ARTÍCULO.</small>
 
-VIII.- Las demás que le sean encomendadas por el superior inmediato, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 22.
 
-Corresponde al Departamento de Estadística, Informática, Estudios y Proyectos, por conducto de su titular, el ejercicio de las siguientes atribuciones;
+Corresponde al Departamento de Estadística, Estudios y Proyectos, por conducto de su titular, el ejercicio de las siguientes atribuciones;
 
 I.- Determinar los requerimientos, normas y políticas internas en materia de información estadística y geográfica agroalimentaria;
 
@@ -499,19 +565,9 @@ VII.- Determinar y establecer mecanismos para poner a disposición de los produc
 
 VIII.- Coadyuvar con las unidades administrativas de la Secretaría, para el procesamiento de los indicadores de impacto del Sector;
 
-IX.- Determinar las normas y políticas internas en materia de tecnologías de la información y comunicaciones que promuevan el uso adecuado de la infraestructura de voz y datos de la Secretaría, así como propiciar un crecimiento ordenado de la misma;
+IX.- Promover la participación de las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, así como de productores agropecuarios y asociaciones privadas relacionadas con el Sector, para aportar información relevante para incorporar y retroalimentar el Sistema Estatal de Información Estadística y Geográfica, y
 
-X.- Proponer, desarrollar y coordinar proyectos y acciones en materia de tecnologías de la información y comunicaciones de la Secretaría, cumpliendo con los estándares de calidad y compatibilidad establecidos por la autoridad rectora estatal;
-
-XI.- Resguardar y mantener el inventario de los sistemas informáticos, bases de datos electrónicas, licenciamientos de software corporativas o especializadas y productos e insumos cartográficos, adquiridos o desarrollados para aplicaciones específicas de la Secretaría;
-
-XII.- Asesorar y apoyar a las unidades administrativas de la Secretaría, en el desarrollo e implementación de proyectos departamentales en materia de tecnologías de la información y de comunicaciones;
-
-XIII.- Administrar la infraestructura en red de voz, datos y telecomunicaciones de la Secretaría, así como otorgar el soporte técnico necesario a los usuarios de la misma;
-
-XIV.- Promover la participación de las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, así como de productores agropecuarios y asociaciones privadas relacionadas con el Sector, para aportar información relevante para incorporar y retroalimentar el Sistema Estatal de Información Estadística y Geográfica, y
-
-XV.- Las demás que le sean encomendadas por el superior inmediato, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
+X.- Las demás que le sean encomendadas por el superior inmediato, y aquellas que le confieran las leyes, reglamentos y demás disposiciones aplicables.
 
 ###### ARTÍCULO 23.
 
@@ -1096,3 +1152,13 @@ SECRETARIO GENERAL DE GOBIERNO
 ANTONIO RODRÍGUEZ HERNÁNDEZ
 
 SECRETARIO DE FOMENTO AGROPECUARIO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. DE 3 DE JULIO DE 2015.
+
+PRIMERO.- La presente reforma al Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las unidades administrativas con denominación nueva o distinta, que aparecen en el presente decreto y que tienen competencia en asuntos que anteriormente correspondían a otras áreas o unidades, se harán cargo de los mismos, terminarán su substanciación y dictarán las resoluciones que corresponda.
+
+TERCERO.- En tanto no se expidan los manuales que este Reglamento menciona, el Secretario queda facultado para resolver las cuestiones que deban regularse para el mejor despacho y funcionamiento de la Secretaría.
