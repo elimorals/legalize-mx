@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-registro-de-centros-de-poblacion-del-estado-de-60080"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-05"
-last_updated: "2013-12-20"
+last_updated: "2015-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DEL REGISTRO DE CENTROS DE POBLACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2015.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el miércoles 5 de marzo de 2008.
 
@@ -227,19 +227,85 @@ d) Las áreas de producción Horticultores de Kobén.
 
 La división territorial del Municipio de Candelaria, así como la categoría política y toponimia de sus centros de población es la siguiente:
 
-l. La ciudad de Candelaria, Cabecera del Municipio;
+I. La ciudad de Candelaria, Cabecera del Municipio;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2015)</small>
+
+I bis. La Sección Municipal de Miguel Hidalgo y Costilla;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2015)</small>
+
+I ter. La Sección Municipal de Monclova;
 
 II. Las poblaciones, ejidos, rancherías y heredades que constituyen la circunscripción jurisdiccional de la cabecera municipal en la forma siguiente:
 
 A la Ciudad de Candelaria, Cabecera del Municipio corresponden:
 
-a) Los pueblos de Benito Juárez, Miguel Hidalgo y Costilla y El Naranjo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-b) Las Congregaciones de: Adolfo López Mateos, Aguas Malas (Tres Cruces), Arroyo San Juan (Las Golondrinas), Candelaria II, El Cayuco, Coahuilita, El Cokay, Corpus Cristi, La Curva, El Cuyo y La Plata, Champas Quemadas, El Chinal, Chuncopo, Delicias I, El Destino, Emiliano Zapata, El Encanto, La Envidia, Esmeralda (Samudio), La Esperancita, La Esperanza, Flor de Chiapas, La Florida 3, La FraneIita, Las Gaviotas, Ignacio Zaragoza (El Salvaje), Ignacio Zaragoza (Pulguero), Laguna La Perdida, La Lucha, Miguel de La Madrid (El Pañuelo), La Misteriosa, Nueva Delicias II, Pajaral, Las Palmitas, Las Palomas, El Paso del Cuervo (El Cuervo), La Pelusa, Pimental (El Pocito), El Ramonal II (Los Manguitos), Ranchería Pimental II, El Relámpago, El Sacrificio I, Sal Si Puedes, San José, San José (El Tulipancito), San José de Las Montañas, San Juan, San Miguel, San Pedro, Santa Cruz 2, Santa Rosa, Santa Rosa (sic), Santo Domingo (El Cuyo), Selva Negra, El Tablón, El Taxistal, El Tigre, El Tigre (sic), El Tintal, El Triunfo (Los Tochos), La Unión, Vicente Guerrero N° 2, Alianza Productora, Arroyo de Cuba, El Mirador, Paraguas, Carlos Sansores Pérez (La paz), Solidaridad, La Tómbola, Tres Reyes y, La Unión (Dos Arroyos).
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2015)</small>
 
-c) Los ejidos de: El Zapote Boval, El Luinal, El Pedregal, Pablo Torres Burgos, Nueva Rosita, El Chilar, El Tigre, Las Delicias, Peje Lagarto, Miguel Alemán, Primer Presidente de México (Guadalupe Victoria), Vicente Guerrero, Tenancingo, Justo Sierra Méndez, Nuevo Coahuila, Lázaro Cárdenas, Las Golondrinas, Pedro Baranda, El Mamey, Estado de México, Monclova, Pablo García, Paraíso Nuevo, Corte Pajaral, Venustiano Carranza, Santa Lucía, La Olla, La Esmeralda, Cuauhtémoc, El Machetazo, Héctor Pérez Morales, El Cuervo, El Desengaño, Esperanza, Estrella del Sur, La Florida (El Cuatro), La Fortuna, Francisco I. Madero, General Francisco J. Mújica, Nueva Esperanza, Narciso Mendoza, Nuevo Canutillo (San Manuel), El Pocito, El Porvenir, El Ramonal, San Rafael del Río Caribe, Santo Domingo, El Tulipán (El Imposible) La Zanja (La Palma), Vicente Lombardo Toledano y La Nueva Lucha.
+a) El pueblo de Benito Juárez;
 
-d) Los ranchos: El Astillero, El Burrito, Champas Quemadas, El Guacamayo, Los Mairen, Nuevo Comalcalco, Nuevo Rancho 2, Rancho Alegre, El Recreo, San Felipe, San Joaquín, San Martín (El Abalanzadero), San Nicolás, Santo Domingo, El Sinaí, La Tolva, Las Toyas, 2 Hermanos, 3 de Mayo, 4 Hermanos, Los 4 Hermanos, Acapulco, Achotal, Agrora, Agua Azul, El Aguacate, El Aguacate, El Alazán, Altamira, Alvarín, Amapola, Los Amigos, Anexo Dos Hermanos, Anexo El Charro, Anexo El Huasteco, Anexo El Tigre, Anexo La Lucha, Anexo Las Ruinas, Los Angeles, (Rancho Nuevo), El Arpón I, El Arpón II, Arroyo Seco, El Bosquecito, La Botella, El Botellón, La Botica, Buenavista, Las Bugambilias, Las Calaveras, California, Campamento Escalante, Las Campanas, Las Campanas, El Campesino, Campo Escondido, Cantemó, Caña Fistola, El Capricho, El Capricho, El Capulín, El Capulín, El Capulín, El Caracol, Los Cardenales, El Cariño, La Carmelita, El Carmen, El Carmen, El Carmen, El Carmen, La Ceiba, Las Ceibas, El Ceibo, Cenote, El Cenote Azul, El Cenote, Cerro del Aguila, Cerro Pelón, La Cobra, Los Cocos, La Concepción, La Conquista, El Copo, El Corozal, Las Cruces, Las Cruces, Los Cuatro Hermanos, El Cuervo II, La Cumbre, El Cura, La Curva, El Charro, El Chechén, El Chechén, La Chiapaneca, El Chilar, Las Delicias de los Tres Hermanos, Las Delicias, Las Delicias, El Delirio, El Desengaño, El Desengaño, El Desengaño, El Destino, El Diamante, El Diamante, El Diamante, El Diamante, Don Manuel, Dos Hermanos, Dos Hermanos, Dos Puertas, El Eco, Edzá-Ep, El Encanto, Entronque Estado de México, La Envidia, La Envidia, Escondido, El Escondido, El Esfuerzo, El Esfuerzo, Esmeralda, El Espejo, La Esperanza, La Esperanza, La Esperanza, La Esperanza, La Esperanza, La Esperanza, La Esperanza, La Esperanza, La Esperanza, La Esperanza, La Esperanza; La Esperanza, La Esperanza, La Estrella, El Faisán, El Faisán, El Farol, La Florecita, Las Flores, El Framboyán, La Franela, Los Gavilanes, El Girasol, El Girasol, La Gloria, La Gloria, La Granada, La Granada, Grano de Oro, La Guadalupe, La Guadalupe, Hermanos Cámara, Hermanos CarmoIín, Hermanos Morales, El Herradero, La Herradura, La Herradura, La Herradura, La Herradura, La Higuera, El Huasteco l, El Huayacán, Huiro Solo, La Ilusión II, La Ilusión, La Ilusión, El Infierno, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, El Jazmín, Jilguero II, Los Lagartos, Las Lágrimas, Los Laureles, Los Laureles, Los Laureles, Los. Laureles, Los Laureles (Palmas), La Libertad, El Limón, El Limón, El Limón, El Limón, El Limón, El Limón, Loma Linda, Lomas de Sotelo, La Lomita, La Lucha, La Lucha, La Lupita, La Llave, El Machiche, Madrigal, Las Malvinas, Las Malvinas, Los Manantiales, Los Manguitos, Las Margaritas, Las Maravillas, Las Maravillas, El Marfil (Palo Alto), María Luisa, Las Mariposas, El Martillo, La Martinica, La Mascada, Las Melinas, La Mixteca, La Mojina, La Montaña, Montebello, El Moral, Mucal, El Naranjo, El Naranjo, Nueva Esperanza, Nueva Esperanza, La Nueva Esperanza, La Nueva Historia, Nuevo California, Nuevo Capricho, Nuevo Ferrocarril, Nuevo Marente, Nuevo Mundo, Nuevo Progreso, Nuevo Progreso, El Oasis (Los Pocitos), Las Pailas, La Palma, El Palmar, El Palmar, El Palmar, El Palmar (San Pedro), Palmas, Las Palmas, Las Palomas, Las Palomas, La Pampa, Paraíso Escondido, El Paraíso, Paso Real, Los Patitos, El Pedregal, El Pedregal, El Pedregal, La Perdiz, El Perico, La Perla, El Pitayo, El Pocito, El Pocito, El Porvenir II, El Porvenir III, El Porvenir, El Potrerillo, La Preciosa, Primavera, La Primavera, El Progreso, La Providencia, La Providencia, La Providencia, La Providencia, El Pulguero, Rancho Alegre, Rancho Bonito, Rancho Chico, Rancho Grande, Rancho Nuevo, Rayo Solar, El Recuerdo, Reforma, La Reforma, El Refugio, El Remolino, La Renuncia, Los Reyes, Los Robles, El Rodeo, La Rosita, El Rubí, El Rubí, Las Ruinas, Las Ruinas, El Sacrificio, El Sacrificio, El Sacrificio, Sagrado Corazón, El Saguayo, Salto Ahogado, San Andrés, San Antonio, San Antonio, San Antonio, San Antonio, San Antonio, San Antonio, San Antonio, San Antonio California II, San Bartolo, San Carlos, San Carlos, San Diego, San Dimas, San Fernando, San Fernando, San Florencio, San Francisco, San Francisco, San Francisco, San Francisco, San Isidro, San Isidro, San Isidro, San Joaquín, San Jorge, San Jorge, San José, San José, San José, San José, San José, San José (Ojo de Agua), San José (Sal Si puedes), San Juan, San Juan, San Juanito, San Juanito, San Lorenzo, San Luis, San Manuel, San Marcos, San Marcos, San Mariano, San Miguel, San Miguel, San Miguel, San Miguel, San Ramón, San Ramón, San Roberto, San Rodrigo, San Román, San Román, San Román, San Salvador, Sanacuas, Santa Ana, Santa Bárbara, Santa Cecilia, Santa Cruz, Santa Cruz, Santa Elena; Santa Eugenia, Santa Fé, Santa Gertrudis, Santa Isabel I (Las Pozas de Santa Isabel), Santa Lucía, Santa Lucía, Santa Rosa, Santa Rosa, Santa Rosa, Santa Rosa, Santa Teresa, Santo Domingo, El Sarzal, El Satélite, El Sauso, El Senderito, El Sicar, Solamente Dios, El Solitario, El Surdidero, El Suspiro, El Suspiro, El Suspiro, Tamarindo, El Tamarindo, El Tesoro, Tierra Blanca, El Tigre, El Tigre, El Tigre, Toñita, El Torito, El Toro, El Toro, El Treinta (Las Aguilas), Los Tres Clavos, Tres Hermanos, Tres Hermanos, Triple R, Tulipán, El Tumbo, La Unión, La Unión, La Unión, El Veinte, El Veinte, El Vergel, La Victoria, El Virgilio, Vista Hermosa II, La Voluntad de Dios, Zacatonal, San Dimas (Alianza Il), Los Pollos, El Silencio, La Amapola, Placeres, 2 de Marzo, Aguacero y El Aguilar; y los demás que se encuentren dentro de los lindes de este Municipio, aunque no estén mencionados en esta relación. (sic)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2015)</small>
+
+b) Las Congregaciones de: Coahullita, El Cokay, Corpus Cristi, El Cuyo y La Plata, Champas Quemadas, Chuncopo, El Encanto, La Envidia, La Florida 3, La Franelita, Las Gaviotas, La Lucha, Pajaral, Las Palmitas, El Paso del Cuervo (El Cuervo), Pimental (El Pocito), El Ramonal II (Los Manguitos), Ranchería Pimental II, El Sacrificio I, San José, San Juan, San Miguel, San Pedro, Santa Cruz 2, Santo Domingo (El Cuyo), El Tigre, El Triunfo (Los Tochos), La Unión y Paraguas;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2015)</small>
+
+c) Los ejidos de: El Zapote Boval, Pablo Torres Burgos, Nueva Rosita, El Chilar, El Tigre, Las Delicias, Peje Lagarto, Miguel Alemán, Primer Presidente de México (Guadalupe Victoria), Paraíso Nuevo, Corte Pajaral, Venustiano Carranza, Santa Lucía, Cuauhtémoc, El Machetazo, El Cuervo, La Florida (El Cuatro), La Fortuna, General Francisco J. Mújica, El Pocito, San Rafael del Río Caribe y Vicente Lombardo Toledano;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2015)</small>
+
+d) Los ranchos: El Astillero, El Burrito, Champas Quemadas, Los Mairen, Nuevo Rancho 2, El Recreo, San Felipe, San Joaquín, San Martín (El Abalanzadero), San Nicolás, Santo Domingo, La Tolva, Las Toyas, Los 4 Hermanos, Acapulco, Achotal, Agrora, El Alazán, Altamira, Amapola, Los Amigos, Anexo Dos Hermanos, Anexo El Huasteco, Anexo El Tigre, Anexo La Lucha, El Arpón I, El Arpón II, Arroyo Seco, La Botella, El Botellón, La Botica, Las Bugambilias, Las Calaveras, California, Campamento Escalante, Las Campanas, Las Campanas, El Campesino, Campo Escondido, Caña Fístola, El Capricho, El Capulín, El Capulín, El Caracol, El Cariño, El Carmen, El Carmen, El Carmen, La Ceiba, Las Ceibas, El Ceibo, El Cenote Azul, Cerro del Águila, Cerro Pelón, La Conquista, El Copo, El Corozal, Las Cruces, Los Cuatro Hermanos, El Cuervo II, El Cura, El Charro, El Chechén, La Chiapaneca, El Chilar, Las Delicias de los Tres Hermanos, Las Delicias, Las Delicias, El Delirio, El Desengaño, El Desengaño, El Desengaño, El Destino, Don Manuel, Dos Puertas, El Eco, Edzá-Ep, La Envidia, La Envidia, Escondido, El Escondido, El Esfuerzo, El Esfuerzo, Esmeralda, La Esperanza, La Esperanza, La Esperanza, La Esperanza, La Esperanza, La Esperanza, La Esperanza, El Faisán, El Farol, La Florecita, Las Flores, El Framboyán, La Franela, El Girasol, El Girasol, La Granada, La Granada, Hermanos Cámara, Hermanos Carmolín, La Herradura, La Herradura, La Herradura, La Herradura, La Higuera, El Huasteco I, Huiro Solo, La Ilusión II, El Jazmín, Los Lagartos, Las Lágrimas, Los Laureles, Los Laureles, Los Laureles, La Libertad, Loma Linda, Lomas de Sotelo, La Lomita, La Lupita, Madrigal, Las Malvinas, Las Malvinas, Los Manantiales, Las Margaritas, María Luisa, Las Mariposas, El Martillo, La Mascada, Las Melinas, La Mojina, La Montaña, Mucal, El Naranjo, El Naranjo, Nueva Esperanza, Nueva Esperanza, La Nueva Esperanza, La Nueva Historia, Nuevo California, El Nuevo Ferrocarril, Nuevo Marente, Nuevo Mundo, Nuevo Progreso, El Oasis (Los Pocitos), El Palmar, El Palmar (San Pedro), Palmas, Las Palomas, Las Palomas, La Pampa, Paso Real, Los Patitos, El Pedregal, El Pedregal, El Pedregal, La Perdiz, El Pitayo, El Pocito, El Porvenir II, El Porvenir III, El Potrerillo, Primavera, La Providencia, Rancho Bonito, Rancho Chico, Rancho Grande, Rayo Solar, Reforma, La Reforma, El Refugio, El Renolino (sic), La Renuncia, Los Reyes, El Rodeo, La Rosita, El Rubí, Las Ruinas, El Sacrificio, Sagrado Corazón, El Saguayo, Salto Ahogado, San Andrés, San Antonio, San Antonio, San Antonio, San Antonio, San Antonio, San Bartolo, San Fernando, San Florencio, San Francisco, San Francisco, San Francisco, San Francisco, San Isidro, San Joaquín, San Jorge, San Jorge, San José (Ojo de Agua), San José (Sal Si puedes), San Juan, San Juanito, San Lorenzo, San Marcos, San Marcos, San Mariano, San Miguel, San Miguel, San Miguel, San Ramón, San Rodrigo, San Salvador, Sanacuas, Santa Cecilia, Santa Eugenia, Santa Fé, Santa Gertrudis, Santa Isabel I (Las Pozas de Santa Isabel), Santa Lucía, Santa Rosa, Santa Rosa, Santa Rosa, Santa Teresa, Santo Domingo, El Sarzal, El Satélite, El Sauso, El Senderito, El Sicar, Solamente Dios, El Surdidero, El Suspiro, El Suspiro, El Suspiro, Tamarindo, El Tesoro, Tierra Blanca, El Tigre, El Tigre, Toñita, El Torito, El Toro, Los Tres Clavos, Triple R, Tulipán, El Tumbo, La Unión, La Unión, La Unión, El Veinte, La Victoria, El Virgilio, Vista Hermosa II, La Voluntad de Dios, El Silencio, Placeres, 2 de Marzo, Aguacero y El Aguilar; y los demás que se encuentren dentro de los lindes de este Municipio, aunque no estén mencionados en esta relación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2015)</small>
+
+A la Sección Municipal de Miguel Hidalgo y Costilla, corresponden:
+
+a) El pueblo de Miguel Hidalgo y Costilla, Cabecera de la Sección;
+
+b) Las Congregaciones de: Adolfo López Mateos, La Curva, Delicias I, Emiliano Zapata, La Esperanza, Flor de Chiapas, Nueva Delicias II, La Pelusa, San José (El Tulipancito), Santa Rosa, El Tintal, Vicente Guerrero No 2, Alianza Productora, Arroyo De Cuba, El Mirador, Carlos Sansores Pérez (La Paz), Solidaridad, Tres Reyes, y La Unión (Dos Arroyos);
+
+c) Los ejidos de: Bacabchén, Champotón, Vicente Guerrero, Tenancingo, Justo Sierra Méndez, Nuevo Coahuila, Lázaro Cárdenas, Las Golondrinas, Pedro Baranda, El Mamey, El Desengaño, Estrella del Sur, Francisco I. Madero, Nueva Esperanza, Narciso Mendoza, El Porvenir, El Ramonal, San Miguel, Santa Cruz, Santo Domingo, El Tulipán y La Nueva Lucha;
+
+d) Las comunidades de Arroyo Del Julubal, Blancas Mariposas, El Jabín, Ninguno, Los Dos Guacamayos, Las Pampas, Francisco Villa, El Tigre Dos, Santa Marta, El Barón (La Esperanza), La Guadalupana (Los Cocos), El Guerrero, Ninguno, Los Coquitos, Lorenita, Nuevo Porvenir, Pueblo Nuevo de las Raíces Uno, Santa Catalina, Las Almendras, El Zoológico, Sin asignación de nombre, Otate, Casa Sola, Los Pobres, La Escondida, Los Lirios, Los Tres Potrillos, Río Alegre, San José (Santa Rosa), San Miguelito, Ninguno, Don Pérez, El Acintal, El Maculis, San Lázaro, El Toro II, Ninguno, Los Arbolitos, Plan de Ayala (Los Tres Caminos), El Divino Niño, Bellavista, Buenos Aires, Casa Blanca, Dos Arbolitos, Dos Pozas, El Bienvenido, El Carrizal, El Cedral, El Cenote (La Estrella), El Civalito, El Limonario, El Paisa, El Paso, El Paso de la Frontera, El Querubín, El Reloj, El Remolino, El Solitario, El Tinaco, El Veracruzano, Empacadora Papayera, Hermanos Vázquez, La Aguada, La Anona, La Huaca, La Laguna, La Lagunilla, La Loma, La Lomita, La Malinche, La Potranca, Las Águilas, Llama Azul, Los Primos, Los Tamarindos, Mar-Tier (Los Compadres), Punta Diamante, Rancho 38, Rancho Ganadero, Sacrificio, San Agustín, San Antonio California Tres, Veintiún Piñal, Villa de Guadalupe, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado;
+
+e) Los ranchos: Rancho Alegre, Tres de Mayo, El Aguacate, El Aguacate, Alvarín, Los Angeles, El Bosquecito, Buenavista, La Carmelita, El Carmen, Cenote, La Cobra, Los Cocos, La Concepción, Las Cruces, La Cumbre, La Curva, El Diamante, Dos Hermanos, Dos Hermanos, Dos Hermanos, El Espejo, La Esperanza, La Esperanza, La Esperanza, La Esperanza, La Estrella, Los Gavilanes, La Gloria, Grano de Oro, La Guadalupe, La Guadalupe, La Guadalupe, Hermanos Morales, La Ilusión, Jilguero Segundo, Los Laureles, El Limón, El Limón, La Lucha, La Llave, Los Manguitos, Las Maravillas, Las Maravillas, La Martinica, Montebello, Nuevo Progreso, La Palma, El Perico, El Porvenir, El Porvenir, La Primavera, La Providencia, Rancho Alegre, El Recuerdo, El Recuerdo, Los Robles, El Sacrificio, San Antonio, San Antonio California II, San Carlos, San Diego, San Dimas, San Felipe, San Fernando, San Fernando, San Isidro, San Isidro, San José, San José, San José, San José, San Juanito, San Luis, San Manuel, San Miguel, San Roberto, San Román, Santa Bárbara, Santa Cruz, Santa Elena, Santa Elena, Santa Lucía, El Solitario, El Toro, El Treinta (Las Aguilas), Tres Hermanos, El Veinte.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2015)</small>
+
+A la Sección Municipal de Monclova, corresponden:
+
+a) El pueblo de El Naranjo;
+
+b) Las Congregaciones de: Aguas Malas (Tres Cruces), Arroyo San Juan (Las Golondrinas), El Cayuco, El Chinal, El Destino, Esmeralda (Samudio), La Esperancita, Ignacio Zaragoza (El Salvaje), Ignacio Zaragoza (Pulguero), Laguna, La Perdida, Miguel de La Madrid (El Pañuelo), La Misteriosa, Las Palomas, Las Palomas, El Relámpago, Sal Si Puedes, San José de Las Montañas, Santa Rosa, Selva Negra, El Tablón, El Taziztal, El Tigre y La Tómbola;
+
+c) Los ejidos de: N.C.P.A. Monclova, Cabecera de la Sección, Arroyo Las Golondrinas, Champotón, Pedregal, Pomuch y Tenabo, Campo de la Olla, Esperanza, La Esmeralda, Luinal y Arroyo La Esperanza, N.C.P.A. Colonia Estado de México, Pablo García, N.C.P.E. Dr. Héctor Pérez Morales, Esperanza, Nuevo Canutillo (San Manuel) y La Zanja;
+
+d) Las comunidades de El Mirador Primero, Isla Del Paraíso, San Manuel Nuevo Canutillo, Luinal, Río Caribe (Caribe), Emiliano Zapata III, La Peregrina, Licenciado José Antonio González Curl, Nuevo Tabasco, Balankax, Balancancito, Tres de Mayo Tres, Nueva Rosita II, Hermanos Cruz, Tres de Mayo Dos, El Milagro, El Paraguas, El Fantasma (Los Chileros), Montecristo, El Chechenal, Naranjito, El Calabozo, La Calzada, Cinco Hermanos, La Esperancita Dos, Laguna San Ramón I, Nuevo Eben-Ezer, Palomas Dos (Montaña Dos), El Puma, Las Tres Estrellas, Montaña Del Toro, Las Azucenas, La Fortuna (Las Glorias), La Estampa, El Teniente, Las Piedras, Caballo de San Lázaro, San Isidro (Nuevo Progreso), La Loma, Ninguno, El Tintal Capricho, La Laguna, El Retazo, Laguna San Ramón, Poza Del Danto (Campamento Del Danto), Los Ramonales, San José Victoria De la Sabana, Los Saucedos, El campechano, Camino Real, José Antonio, Las Peñas, Ramonal, Nuevo Comalcalco II, Aguada Seca, La Espuela (El Ceibo), Aguascalientes Uno, El Naranjito, La Trinidad, El Laurel, Cinco Hermanos, La Isla Del Bronco, Paraíso, San José Las Cruces, El Porvenir Uno (La Quinta), Santa Amelia, Ingeniero Dolores, Poza El Naranjito, Los tres Hermanos López, Ninguno, El Limoncillo, El Lagartito, Santa María, San Cristóbal, San Juanito (La Lucha), Montecristo, San Antonio (El Treinta), La Paz, La Loma, La Esperanza II, La Palmita, El Barzón, Kilómetro Cinco Del Estado De México, La Caña, Don Toño, Los Morales, Acapulco Viejo, El Llano, Las Primaveras, El Naranjito, Seis Hermanos, El Poder, La Araña, Eben Ezer, Las Peñas, La Esperanza (El Parpajal), La Carmelita (El Porvenir), El trébol (EL Retiro), Los Tamarindos, Santa Cruz (La Invasora), San Rosario, El Porvenir (Poza de Balzora), Aguada Seca (El Poder de Dios), La Pasadita, Nueva Esperancita, El Naranjo (Cedralito), Poza San Juan, La Distancia de Israel, El Desprecio, El Castaño, Campamochas, El Acicate, El Tigre (Nuevo Progreso), La Ilusión (Los Dos Amigos), El Desengaño, El Copo, La Conquista, la Guadalupe, El tigrito, El Hormiguero, La Flor, El Cocal, Cenote Virgilio, Las Carolinas, El Milenario, Santa Rosa, Santa Rosa, Mucal, Santa Rosa, El Girasol, El Faisán, La Esperancita, El Carmen, El Capricho, Paso de San Román, El Alacrán, El Moral Dos, El Limoncillal, San Antonio, El Tigre, Vista Mar, Santa Rosa, San Juan, El Carmen, El Sacrificio, Las Campanas, Los Lara, Arroyo Seco, Aurora, San José, El Piedral, Laguna Colorada, Aguascalientes Dos, La Guadalupe, El Silencio, Ramonal, La Luna, El Arroyito, Santa Cecilia, La Victoria, El Valiente, San Francisco, San Francisco, El Sacrificio, Rancho Verde, Palomas Uno, Las Margaritas, El Flamboyán, La Fe, Esperancita, las Tres Cruces, El Tintal Capricho, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado, Innominado;
+
+e) Los ranchos: Buenavista, El Aguacate, El Águila, La Carmelita, La Curva, El Guacamayo, La Guadalupe, La Guadalupe, La Guadalupe, La Higuera, Nuevo Comalcalco, El Sinaí, El Treinta, Dos Hermanos, Cuatro Hermanos, Agua Azul, El Charro, Anexo Las Ruinas, Cantemó, El Capricho, El Capulín, Los Cardenales, El Cenote, El Chechén, El Diamante, El Diamante, El Diamante, El Diamante, El Encanto, El Espejo, El Espejo, El Espejo, Entronque Estado de México, La Esperanza, La Esperanza, La Esperanza, El Faisán, La Gloria, El Herradero, El Huayacán, La Ilusión, La Ilusión, El Infierno, Los Laureles (Palmas), El Laurel, El Limón, El Limón, El Limón, El Limón, La Lucha, Los Laureles, El Machiche, El Marfil (Palo Alto), La Mixteca, Las Mariposas, Las Mariposas, Las Maravillas, Las Maravillas, El Moral, Nuevo Capricho, Nuevo Progreso, Las Pailas, El Palmar, El Palmar, Las Palmas, Paraíso Escondido, Paraíso, La Perla, El Pocito, El Porvenir, La Preciosa, El Progreso, La Providencia, La Providencia, El Pulguero, Rancho Nuevo, Rancho Nuevo, El Rubí, El Sinaí, Las Ruinas, El Sacrificio, Tres Hermanos, San (La Ceiba), San Antonio, San Carlos, San Fernando, San José, San José, San José, San José, San Juan, San Luis, San Ramón, San Román, San Román, Santa Ana, Santa Cruz, Santa Cruz, Santa Elena, Santa Rosa, El Tamarindo, El Tigre, Tres Hermanos, El Vergel, El Vergel, Zacatonal, San Dimas (Alianza II), Los Pollos, La Amapola.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2015)</small>
+
+Los poblados y extensiones que se identificaban dentro de la jurisdicción de la Ciudad de Candelaria, que no hayan quedado comprendidos dentro de la jurisdicción de las Secciones Municipales de Miguel Hidalgo y Costilla y, de Monclova, quedan bajo la jurisdicción de la Sección Municipal en que se encuentren ubicados.
 
 ###### ARTÍCULO 12.
 
@@ -379,15 +445,29 @@ I. La ciudad de Escárcega, Cabecera del Municipio;
 
 II. La Sección Municipal de Centenario;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2015)</small>
+
+II bis.- La Sección Municipal de División del Norte;
+
 III. Las poblaciones, ejidos, rancherías y heredades que constituyen la circunscripción jurisdiccional de la cabecera y sección municipal en la forma siguiente:
 
 A la ciudad de Escárcega, Cabecera del Municipio, corresponden:
 
 a) El pueblo de Francisco Villa;
 
-b) Los ejidos: Escárcega y sus colonias la Chiquita y La Esperanza; Justicia Social Lechugal; Miguel de la Madrid; Rodolfo Fierros; Matamoros; Kilómetro 74; Juan Escutia; Juan de la Barrera; José de la Cruz Blanco; División del Norte, Haro, Francisco I. Madero, Don Samuel, Luna, Kilómetro 36, Nuevo Progreso N° 2, Chontalpa, El Huiro, Guadalajara, Benito Juárez N° 2, Zaragoza, San José, El Gallo, La Flor y el Porvenir;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-c) Los ranchos: Las Ruinas, Providencia, Monte Bravo, San Joaquín, Oscar Flores, Chaucil 1, Chaucil 2, Chaucil 3, Chaucil 4, Chaucil 5, Caña Fístula 1, Caña Fístula 2, Búfalo, La Estancia, Coliman, Zeta, San Jorge, Martín, Piedras, Elisa, Félix Romero, Carlos Schnabel, Monteclaro, San Carlos, Gran Poder, San Ignacio, Carlos Heredia, Puente de Juárez, Puerto Escondido, Rosa Encerrada, Félix Faller, Hidalgo, Mercedes, El Círculo, Trapiche, Tamarindo, Las Palmas, Selva Negra, Jorge Cural, Jorge Medina, Elidé Henández, Las Ardillas, Potro, Isis, La Unión, San Jorge 1, La Bomba, El Gallo, Guadalajara, Buenavista, Santa Ana, Otoño, Santa Lucía, Los Altos de Cuyoc, Bonanza, Miraflores, Santa Rita, Hermanos Gómez, Laramie, Jabín, La Flor, Esperanza 1, Esperanza 2, Hermanos Navarro, El Retiro, San Isidro Cuyoc, Triple R, Leonor, María de la Luz, El Charro, San Jorge, Pucté 1, Pucté 2, Pucté 3, Pucté 4, Pucté 5, Santa Juliana, Palma Larga, Vista Alegre, Piedral, Jimba, Taurino, Partenón, San Manuel, Campeador, Borrego, El Limón, El Caoba, Neftalín Inurreta, Aventurero, Las Cruces, Everardo Espinosa, Daniel Santiago, Libertad, Asunción, José Fuentes Ramos, Aída, Saúl Pérez Sosa, Anastacio Damián, Los Reyes, Santo Tomás, Juan Mora GuilIermo, Norberto Moreno Cano, Eduardo Guillermo Méndez, Adelita, Porfía, El Rey II, Ceferino Moreno Escalante, Jorge Moreno Escalante, Nanzal, Vista Alegre, La Libertad, Pedro Moreno Gómez, Vértice, Jacinto, Magueyitos, Santa Gertrudis, La Flor, San Pablo, Progreso, Asunción, Fátima, San Isidro, Mameyal, La Gimba, Los Reyes, Los Lirios, El Rincón, Lote 1, Lote 2, Lote 3, Lote 4, Lote 5, Lote 6, Lote 7, Lote 12, Lote 13, Lote 14, Lote 15, Lote 16, Lote17, Pucteal, Pokar 2, La Libertad, Benítez, La Unión, Laureles 2, Bárbara, San Carlos 2, Corozal 2, Las Camelias, Otoño, El Pensamiento, Marcos Verdejo, Lino Melenes, Gustavo Garduño, Catalina, La Guadalupe, San Miguel, Buenavista, Bodegas Rurales Conasupo, La Carmelita, Innominado, Innominado (sic), El Jaripeo (El Enamorado), Las Margaritas, Los Mexicanos, Nuevo Zináparo, Los Pocitos, Las Ruinas, San Alfredo, San Francisco, Sausalito, Tres Hermanos, Unidad Ganadera N° 3, y los demás que se encuentren dentro de los deslindes de este Municipio aunque no estén mencionados en esta relación; y
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2015)</small>
+
+b) Los ejidos: Escárcega y sus colonias la Chiquita y La Esperanza; Justicia Social, Lechugal; Miguel de la Madrid; Rodolfo Fierros; Matamoros; Kilómetro 74; Juan Escutia; Juan de la Barrera; José de la Cruz Blanco; Kilómetro 36, Nuevo Progreso N° 2, Chontalpa, Zaragoza, San José y el Porvenir;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2015)</small>
+
+c) Los ranchos: Las Ruinas, Providencia, Monte Bravo, San Joaquín, Oscar Flores, Chaucil 1, Chaucil 2, Chaucil 3, Chaucil 4, Chaucil 5, Caña Fístula 1, Caña Fístula 2, Búfalo, La Estancia, Coliman, Zeta, San Jorge, Martín, Piedras, Elisa, Félix Romero, Carlos Schnabel, Monteclaro, San Carlos, Gran Poder, San Ignacio, Carlos Heredia, Puente de Juárez, Puerto Escondido, Rosa Encerrada, Félix Faller, Hidalgo, Mercedes, El Círculo, Trapiche, Tamarindo, Las Palmas, Selva Negra, Jorge Cural, Jorge Medina, Elidé Hernández, Las Ardillas, Potro, Isis, La Unión, San Jorge 1, La Bomba, El Gallo, Guadalajara, Buenavista, Santa Ana, Otoño, Santa Lucía, Los Altos de Cuyoc, Bonanza, Miraflores, Santa Rita, Hermanos Gómez, Laramie, Jabín, Esperanza 1, Esperanza 2, Hermanos Navarro, San Isidro Cuyoc, Triple R, Leonor, María de la Luz, El Charro, San Jorge, Pucté 1, Pucté 2, Pucté 3, Pucté 4, Pucté 5, Santa Juliana, Palma Larga, Vista Alegre, Piedral, Jimba, Taurino, Partenón, San Manuel, Campeador, Borrego, El Caobo, Neftalín Inurreta, Aventurero, Las Cruces, Everardo Espinosa, Daniel Santiago, Libertad, Asunción, José Fuentes Ramos, Aída, Saúl Pérez Sosa, Anastacio Damián, Los Reyes, Santo Tomás, Juan Mora Guillermo, Norberto Moreno Cano, Eduardo Guillermo Méndez, Adelita, Porfía, El Rey II, Ceferino Moreno Escalante, Jorge Moreno Escalante, Nanzal, Vista Alegre, La Libertad, Pedro Moreno Gómez, Vértice, Jacinto, Magueyitos, Santa Gertrudis, La Flor, San Pablo, Progreso, Asunción, Fátima, San Isidro, Mameyal, La Gimba, Los Reyes, Los Lirios, El Rincón, Lote 1, Lote 2, Lote 3, Lote 4, Lote 5, Lote 6, Lote 7, Lote 12, Lote 13, Lote 14, Lote 15, Lote 16, Lote 17, Pucteal, Pokar 2, La Libertad, Benítez, La Unión, Laureles 2, Bárbara, San Carlos 2, Corozal 2, Las Camelias, Otoño, El Pensamiento, Marcos Verdejo, Lino Melenes, Gustavo Garduño, Catalina, La Guadalupe, San Miguel, Buenavista, Bodegas Rurales Conasupo, La Carmelita, Innominado, Innominado, El Jaripeo (El Enamorado), Las Margaritas, Los Mexicanos, Nuevo Zináparo, Los Pocitos, Las Ruinas, San Alfredo, San Francisco, Sausalito, Unidad Ganadera N° 3, y los demás que se encuentren dentro de los deslindes de este Municipio aunque no estén mencionados en esta relación; y
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -400,6 +480,24 @@ a) El Ejido de Centenario;
 b) Los pueblos de Silvituc y Chan Laguna;
 
 c) Los ejidos de Altamira de Zináparo (Nuevo Zináparo), Adolfo López Mateos, Las Maravillas, El Jobal, La Flor de Chiapas, Laguna Grande, José López Portillo, Benito Juárez N° 3 y Yazuchil.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2015)</small>
+
+A la Sección Municipal de División del Norte, corresponden:
+
+a) El N.C.P.A. División del Norte, Cabecera de la Sección, y sus anexos los ejidos de Benito Juárez No. 2, Don Samuel, El Gallo, El Huiro, Francisco I. Madero, Haro, La Flor, Luna, N.C.P.E. Guadalajara y sus propiedades privadas.
+
+b) Las comunidades de Flor de Mayo, El Gallo Samuel (El Gallito), Ninguno (Ganadera Uno), El Pozo, Miguel Hidalgo (Caracol), La Misteriosa, Don Gume, Las Amapolas, Santa Isabel, El Oasis, El Corriental, La Esperancita, La Almendra, María de la Luz, El Zacatecano, San Luis, San Antonio, El Caracol, Aguas Verdes, Ninguno, Ninguno, San Alejandro, Santa Cruz, El Columpio, La Esmeralda, Cuatro Caminos, Los Tres Pocitos, Sin Nombre, Sin Nombre, Valle del Sol, Santa Teresa, San José, San Jorge, San Felipe, San Carlos, Pluma de Pavo, Nuevo Progreso, Lote Once de Ocampo, Los Mendoza, Las Kimberlinas, La Guadalupe, La Flor, La Bacinilla, El Trébol, El Tintal, El Naranjo, El Naranjito, El Instituto, El Destino, El Cañaveral, El Cántaro y nueve localidades sin nombre.
+
+c) Los ranchos El Limón, El Retiro, Tres Hermanos, El Salam, Los Tres Panchos, Rancho Checo, El Naranjal, El Pocito, Bellavista y El Cóbano.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2015)</small>
+
+Los poblados y extensiones que se identificaban dentro de la jurisdicción de la Ciudad de Escárcega, que no hayan quedado comprendidos dentro de la jurisdicción de la Sección Municipal de División del Norte, quedan bajo la jurisdicción de la Sección o Comisaría Municipal en que se encuentren ubicados.
 
 ###### ARTÍCULO 15.
 
@@ -441,6 +539,12 @@ II. La Sección Municipal de Bolonchén de Rejón;
 
 III. La Sección Municipal de Dzibalchén;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2015)</small>
+
+III bis.- La Sección Municipal de Ukum;
+
 IV. Las poblaciones, ejidos, rancherías y heredades que constituyen la circunscripción jurisdiccional de la cabecera y secciones municipales en la forma siguiente:
 
 A la ciudad de Hopelchén, Cabecera del Municipio corresponden:
@@ -459,11 +563,41 @@ A la Sección Municipal de Dzibalchén, corresponden:
 
 a) La Villa de Dzibalchén, Cabecera de la Sección.
 
-b) Los pueblos de Chunchintok, Ukúm, Xmaben.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+b) (DEROGADO, P.O. 3 DE JULIO DE 2015)
 
 c) La Villa de Vicente Guerrero.
 
-d) Las congregaciones de Pakchén, Chencoh, Ramón Corona, Chanchén, Chun-Ek, Xmejía, Pach-Uitz, Xcanjá.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2015)</small>
+
+d) Las congregaciones de Pakchén, Chencoh, Ramón Corona.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2015)</small>
+
+A la Sección Municipal de Ukúm, corresponden:
+
+a) El pueblo de Ukum, cabecera de la Sección.
+
+b) Los pueblos de Chunchintok, Xmabén.
+
+c) Los ejidos de Cancabchén, Nuevo Chan Yaxché.
+
+d) Las congregaciones de Chan-chen, Chun-Ek, Pachuitz, X-Canhá, Xmejía.
+
+e) Las comunidades de Nuevo Durango Cinco, Nuevo Durango Seis, Nuevo Durango Siete, Chun Huas, San Isidro, El Vergel, El Mirador, El Mazate, Jalal, Santa Fe, Las Isabeles, La Paila, La Herradura, Los Cedros, San Francisco, Banco de Yeso Chumul, Xcribil, Chumul, Num y El Forestal (El Tigre).
+
+f) Los ranchos de San Isidro, Noh-Há, Nuevo Jalal, Santa Cruz (Entre Hermanos), X-Panzil.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2015)</small>
+
+Los poblados y extensiones que se identificaban dentro de la jurisdicción de la Sección Municipal de Dzibalchén, que no hayan quedado comprendidos dentro de la jurisdicción de la Sección Municipal de Ukum, quedan bajo la jurisdicción de la Sección Municipal en que se encuentren ubicados.
 
 ###### ARTÍCULO 17.
 
@@ -556,3 +690,15 @@ P.O. 20 DE DICIEMBRE DE 2013.
 PRIMERO.- La (sic) presente decreto entrará en vigor a los quince días (sic) su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas (sic) disposiciones legales y reglamentarias que se opongan al presente decreto
+
+P.O. 3 DE JULIO DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor a los 30 días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Una vez que entre en vigencia plena este decreto, quedarán derogadas todas aquellas disposiciones legales y reglamentarias que se le opongan.
+
+TERCERO.- En su oportunidad, los HH. Ayuntamientos de los Municipios de Candelaria, Escárcega y Hopelchén deberán proceder a emitir las previsiones que consecuentemente correspondan en sus Presupuestos de Egresos para el ejercicio fiscal 2018.
+
+CUARTO.- El organismo público electoral local deberá proceder a adoptar las medidas que sean necesarias a efecto de que en las elecciones que tendrán lugar el primer domingo de julio del año 2018 se elija a los integrantes de las HH. Juntas Municipales que, en auxilio de los HH. Ayuntamientos de los Municipios de Candelaria, Escárcega y Hopelchén administrarán las Secciones Municipales de Miguel Hidalgo y Costilla; de Monclova; de División del Norte y, de Ukum, respectivamente.
+
+QUINTO.- Entretanto quedan formalmente constituidas e integradas las Juntas Municipales de Miguel Hidalgo y Costilla; de Monclova; de División del Norte y, de Ukum, los HH. Ayuntamientos de los Municipios de Candelaria, Escárcega y Hopelchén harán las elecciones de las autoridades auxiliares que correspondan en las demarcaciones territoriales que habrán de conformar las nuevas Secciones Municipales, en términos de lo dispuesto en los artículos 3, 4, 5 y demás relativos aplicables de la Ley de Procedimientos para la Elección de Comisarios Municipales del Estado de Campeche.
