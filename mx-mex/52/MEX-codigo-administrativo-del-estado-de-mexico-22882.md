@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2015-05-13"
+last_updated: "2015-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE JULIO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1287,8 +1287,6 @@ V. Que exista un alto requerimiento para hacer más transparente el proceso.
 
 73.- Si en el término de un año son sancionados dos Testigos nombrados por una Organización no Gubernamental, esta perderá su registro.
 
-(REUBICADO [N. DE E. ANTES TÍTULO DÉCIMO], G.G. 6 DE SEPTIEMBRE DE 2010)
-
 ## TITULO DECIMO PRIMERO. De la acción popular
 
 > <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
@@ -1402,6 +1400,8 @@ Los ingresos del Consejo Estatal de Población, así como los productos e instru
 ## TITULO PRIMERO. Disposiciones generales
 
 # LIBRO SEGUNDO. De la salud
+
+(REUBICADO [N. DE E. ANTES TÍTULO DÉCIMO], G.G. 6 DE SEPTIEMBRE DE 2010)
 
 ## TITULO SEGUNDO. De los Institutos Especializados en Materia de Salud del Estado de México
 
@@ -11221,9 +11221,9 @@ V. El registro y resguardo de la información e investigaciones en materia geogr
 
 VI. Las normas técnicas para otorgar el carácter oficial a la información y resultados de las investigaciones geográficas, estadísticas y catastrales;
 
-VII. Los principios conforme a los cuales las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial y las unidades administrativas de la administración pública municipal, deberán ejercer las funciones que les correspondan como partes integrantes de los Sistemas y Servicios Estatales de Información e Investigación Geográfica, Estadística y Catastral;
+VII. Los principios conforme a los cuales las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial y las unidades administrativas de la administración pública municipal, deberán ejercer las funciones que les correspondan como partes integrantes de los Sistemas y Servicios Estatales de información e Investigación Geográfica, Estadística y Catastral;
 
-VIII. La vinculación de las actividades que desarrollen los poderes Legislativo, Ejecutivo y Judicial, en materia de información e investigación geográfica, estadística y catastral;
+VIII. La vinculación de las actividades que desarrollen los poderes Legislativo, Ejecutivo y Judicial, en materia de Información e investigación geográfica, estadística y catastral;
 
 IX. La coordinación, participación y colaboración que corresponda, de los gobiernos municipales, de los particulares y de los grupos y organizaciones sociales, a efecto de fortalecer el funcionamiento del Sistema y Servicio Público Estatal de Información e Investigación Geográfica, Estadística y Catastral;
 
@@ -11379,7 +11379,7 @@ VII. Analizar y, en su caso, aprobar los estados financieros del IGECEM;
 
 VIII. Aprobar los ingresos y egresos ordinarios y extraordinarios, necesarios para cumplir el objeto del IGECEM;
 
-IX. Aprobar la tarifa de los servicios y productos que genere el IGECEM y su publicación en la “Gaceta del Gobierno”;
+IX. Aprobar la tarifa de los servicios y productos que genere el IGECEM y su publicación en la "Gaceta del Gobierno";
 
 X. Aprobar la instalación de delegaciones regionales y la circunscripción territorial que a cada una corresponda;
 
@@ -11789,7 +11789,7 @@ V. Apoyar al IGECEM en la promoción y divulgación de los procesos que integran
 
 44.- El IGECEM, tiene por objeto:
 
-I. Planear, crear, desarrollar, establecer, operar, resguardar, conservar y actualizar ell Sistema Estatal, para apoyar al Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios;
+I. Planear, crear, desarrollar, establecer, operar, resguardar, conservar y actualizar el Sistema Estatal, para apoyar al Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios;
 
 II. Prestar el Servicio Estatal para satisfacer los requerimientos de información geográfica, estadística y catastral de las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial, de los ayuntamientos y del público en general;
 
@@ -11819,7 +11819,7 @@ VI. Ser el interlocutor con las autoridades federales y municipales en materia d
 
 VII. Establecer la coordinación de las dependencias y entidades de la administración pública en los ámbitos federal, estatal y municipales, en las materias de su competencia;
 
-VIII. Coordinar las actividades de las dependencias y entidades de los gobiernos estatal y municipales, en apoyo a los trabajos que las autoridades federales realicen en el Estado de México sobre la materia;
+VIII. Coordinar las actividades de las dependencias y entidades de los gobiernos estatal y municipal, en apoyo a los trabajos que las autoridades federales realicen en el Estado de México sobre la materia;
 
 IX. Integrar y custodiar el acervo informativo y de investigaciones geográficas, estadísticas y catastrales del Estado de México;
 
@@ -11861,7 +11861,7 @@ III. Los bienes muebles, instrumentos y equipos que adquiera o le sean transferi
 
 IV. El importe de los ingresos que perciba por la venta de productos y servicios;
 
-V. La (sic) donaciones, legados, subsidios y otras aportaciones que reciba;
+V. La donaciones, legados, subsidios y otras aportaciones que reciba;
 
 VI. Remanentes, frutos, utilidades e intereses de inversiones;
 
@@ -12263,7 +12263,7 @@ II. Aquellos que estén sujetos a plazos legales, cuyo vencimiento requiera de s
 
 III. Los que excedan de más de 300 páginas y siempre que no se esté en el supuesto de la fracción anterior, serán publicados en los ocho días hábiles siguientes; y
 
-IV. Aquellos cuya publicación este determinada por los Poderes Legislativo, Ejecutivo y Judicial.
+IV.- Aquellos cuya publicación este determinada por los Poderes Legislativo, Ejecutivo y Judicial.
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -14409,7 +14409,7 @@ XXI. Las demás que se señalen en este Libro y otras disposiciones.
 
 ### CAPITULO TERCERO. De las constancias
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE JULIO DE 2015)</small>
 
 ###### Artículo 17.
 
@@ -15061,6 +15061,14 @@ La licencia de construcción tendrá vigencia de un año y podrá autorizar, ade
 
 La autoridad municipal que emita la licencia de construcción deberá revisar que en el proyecto que autoriza se observen las disposiciones de este Libro, las Normas Técnicas y demás disposiciones jurídicas aplicables y deberá otorgar o negar la misma dando respuesta en un plazo no mayor de tres días hábiles posteriores a la fecha de presentación o recepción de la solicitud que reúna todos los requisitos establecidos en la Ley.
 
+> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2015)</small>
+
+Las licencias de construcción de inmuebles destinados a la actividad comercial o industrial de bajo impacto y que sean menores a 2,000 metros cuadrados, serán expedidas, en caso de proceder, en el plazo de un día hábil a partir de la recepción de la solicitud que reúna los requisitos de Ley.
+
+> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2015)</small>
+
+Quedan exceptuadas de obtener la licencia de construcción a que se refiere el presente artículo, las obras que se ejecuten en bienes inmuebles que sean propiedad o posesión del Gobierno del Estado de México y destinados a la prestación de servicios públicos.
+
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
@@ -15297,11 +15305,19 @@ Si no lo hicieren dentro del plazo que se les haya fijado, el propio municipio l
 
 ###### Artículo 18.
 
-33.- El titular de la licencia o permiso de construcción o el perito responsable de la obra, deberá dar aviso por escrito a la autoridad municipal, de la terminación de las obras autorizadas, dentro de los treinta días hábiles posteriores a su conclusión, a efecto de que le expida la constancia de terminación de obra.
+33. El titular de la licencia o permiso de construcción o el perito responsable de la obra deberá dar aviso por escrito a la autoridad municipal de la terminación de las obras autorizadas, dentro de los treinta días hábiles posteriores a su conclusión, a efecto de que le expida la constancia de terminación total o parcial de la obra.
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 La autoridad municipal extenderá la constancia solicitada, previa inspección que realice para comprobar que la obra, edificación o instalación se ejecutó de acuerdo al proyecto autorizado y que por lo tanto, es apta para su ocupación o para el fin señalado en la licencia o permiso de construcción.
 
-La autoridad municipal competente autorizará diferencias de obra ejecutada con respecto al proyecto autorizado, siempre que no se afecten las condiciones de seguridad, estabilidad, destino, uso, habitabilidad e higiene, se respeten las restricciones indicadas y las tolerancias que fijen las Normas Técnicas y demás disposiciones jurídicas aplicables.
+> <small>(REFORMADO, G.G. 3 DE JULIO DE 2015)</small>
+
+Tratándose de construcciones de inmuebles destinados a la actividad comercial o industrial de bajo impacto y que sean menores a 2,000 metros cuadrados, la constancia de terminación total o parcial de obra se expedirá a más tardar al día siguiente del aviso de terminación de la obra.
+
+> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2015)</small>
+
+La autoridad municipal competente autorizará las modificaciones realizadas al proyecto original, siempre que no se afecten las condiciones de seguridad, estabilidad, destino, uso, habitabilidad e higiene, se respeten las restricciones indicadas y las tolerancias que fijen las normas técnicas y demás disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15724,6 +15740,10 @@ En las obras deberán proporcionarse a los trabajadores servicios provisionales 
 68.- Las visitas de verificación tendrán por objeto comprobar que en las construcciones terminadas o en proceso se observe el cumplimiento de las disposiciones jurídicas de este Libro, las Normas Técnicas, los proyectos autorizados a través de las licencias y permisos de construcción y demás normatividad aplicable.
 
 Las visitas de verificación se realizarán de conformidad con lo establecido en el Código de Procedimientos Administrativos del Estado de México.
+
+> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2015)</small>
+
+Las construcciones de inmuebles destinados a la actividad comercial o industrial de bajo impacto y que sean menores a 2,000 metros cuadrados, podrán estar exentas de las visitas de verificación previas y durante la construcción, y solamente se llevarán a cabo previa solicitud de la constancia de terminación parcial o total de la obra.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -17548,3 +17568,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 3 DE JULIO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
