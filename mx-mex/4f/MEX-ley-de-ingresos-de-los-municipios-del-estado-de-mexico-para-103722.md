@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-ingresos-de-los-municipios-del-estado-de-mexico-para-103
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2014-11-20"
-last_updated: "2014-11-20"
+last_updated: "2015-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103722&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE MÉXICO PARA EL EJERCICIO FISCAL DEL AÑO 2015
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE JULIO DE 2015.
 
 Ley publicada en la Sección Séptima de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2014.
 
@@ -359,7 +359,15 @@ Los ayuntamientos podrán acordar a favor de los contribuyentes sujetos al pago 
 
 Los montos de los apoyos, así como los términos y condiciones en cuanto a su otorgamiento se determinarán en el correspondiente acuerdo de cabildo.
 
+> <small>(ADICIONADO, G.G. 3 DE JULIO DE 2015)</small>
+
 ###### Artículo 21.
+
+Los ayuntamientos podrán, durante el ejercicio fiscal de 2015, acordar a favor de los contribuyentes, estímulos fiscales a través de bonificaciones de hasta el 100% en el pago de contribuciones, cuando se destinen a la apertura de unidades económicas de bajo impacto.
+
+Los montos de los apoyos, así como los términos y condiciones en cuanto a su otorgamiento se determinarán en el correspondiente acuerdo de cabildo.
+
+###### Artículo 22.
 
 Los ayuntamientos podrán mediante acuerdo de cabildo, cancelar los créditos fiscales, causados con anterioridad al 1 de enero de 2011 cuyo cobro tenga encomendado la Tesorería Municipal cuando el importe histórico del crédito al 31 de diciembre de 2010, sea de $3,000.00 (Tres mil pesos 00/100 M.N.) o menos; no procederá la cancelación, cuando existan dos o mas créditos a cargo de una misma persona y la suma de ellos exceda el límite de $3,000.00 (Tres mil pesos 00/100 M.N.), ni cuando se trate de créditos derivados del Impuesto Predial y Derechos de Agua Potable; así como los derivados de multas administrativas no fiscales y los de responsabilidad administrativa resarcitoria.
 
@@ -367,7 +375,7 @@ Asimismo, los ayuntamientos podrán mediante acuerdo de cabildo, facultar a la T
 
 El Instituto Hacendario del Estado de México capacitará y asesorará a la autoridad fiscal municipal, a fin de que esta disposición se aplique correctamente.
 
-###### Artículo 22.
+###### Artículo 23.
 
 Para el ejercicio fiscal del año 2015, el importe anual a pagar por los contribuyentes del Impuesto Predial, no podrá exceder del 20% de incremento respecto al monto que se debió pagar en el ejercicio fiscal del año 2014, conforme a las disposiciones legales aplicables.
 
@@ -400,3 +408,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 3 DE JULIO DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan al presente Decreto.
