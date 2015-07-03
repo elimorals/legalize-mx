@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-del-comite-tecnico-del-fondo-ambiental-7720
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-26"
-last_updated: "2010-10-26"
+last_updated: "2015-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77206&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # REGLAMENTO INTERIOR DEL COMITE TECNICO DEL FONDO AMBIENTAL DEL ESTADO DE CAMPECHE
 
-REGLAMENTO INTERIOR DEL COMITE TECNICO DEL FONDO AMBIENTAL DEL ESTADO DE CAMPECHE
+REGLAMENTO INTERIOR DEL COMITÉ TÉCNICO DEL FONDO AMBIENTAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL COMITÉ DEL FONDO AMBIENTAL PARA EL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 3 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el martes 26 de octubre de 2010.
 
@@ -206,3 +208,11 @@ IV. Las demás inherentes a su función o que le sean señaladas por el Titular 
 Dado en la reunión de instalación e integración del Comité Técnico del Fondo Ambiental para el estado de Campeche, de fecha once de octubre del año dos mil diez.
 
 LA SECRETARIA DE MEDIO AMBIENTE Y APROCHAMIENTO (SIC) SUSTENTABLE, DRA. EVELIA RIVERA ARRIAGA.- EL SECRETARIO DE FINANZAS, C.P. TIRSO R. DE LA GALA GOMEZ.- EL SECRETARIO DE LA CONTRALORIA, LIC. MIGUEL ANGEL SULUB CAAMAL.- EL SECRETARIO DE DESARROLLO SOCIAL Y REGIONAL, LIC. RAUL AARON POZOS LANZ.- RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE JULIO DE 2015.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga el Reglamento Interior del Comité Técnico del Fondo Ambiental del Estado de Campeche, publicado en el Periódico Oficial el día 26 de octubre de 2010.
