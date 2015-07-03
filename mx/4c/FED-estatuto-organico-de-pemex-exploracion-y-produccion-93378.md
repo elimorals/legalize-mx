@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pemex-exploracion-y-produccion-93378"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-03-28"
-last_updated: "2014-02-25"
+last_updated: "2015-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93378&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2013-03-21"
 
 ESTATUTO ORGÁNICO DE PEMEX-EXPLORACIÓN Y PRODUCCIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE FEBRERO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DE PEMEX EXPLORACIÓN Y PRODUCCIÓN, PUBLICADO EN EL D.O.F. DE 3 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE JULIO DE 2015 (ABROGADA).
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 28 de marzo de 2013.
 
@@ -2759,7 +2761,7 @@ En caso de no designarse suplente, los respectivos titulares de las unidades adm
 
 ###### Artículo 138.
 
-Pemex-Exploración y Producción contará con un Organo de Vigilancia que estará integrado por un Comisario Público Propietario y un Suplente, designados por la Secretaría de la Función Pública, quienes asistirán con voz pero sin voto a las sesiones ordinarias y extraordinarias del Consejo de Administración y ejercerán las atribuciones que les confieren la Ley Federal de las Entidades Paraestatales, su Reglamento y demás disposiciones aplicables. . (sic)
+Pemex-Exploración y Producción contará con un Organo de Vigilancia que estará integrado por un Comisario Público Propietario y un Suplente, designados por la Secretaría de la Función Pública, quienes asistirán con voz pero sin voto a las sesiones ordinarias y extraordinarias del Consejo de Administración y ejercerán las atribuciones que les confieren la Ley Federal de las Entidades Paraestatales, su Reglamento y demás disposiciones aplicables. .
 
 Los Comisarios Públicos, en ejercicio de sus funciones, atenderán lo previsto en los lineamientos que en materia de control interno y evaluación del desempeño emita el Consejo de Administración de PEMEX.
 
@@ -2862,3 +2864,127 @@ DÉCIMO. Los derechos laborales serán respetados en todo momento, de acuerdo co
 DÉCIMO PRIMERO. El Organismo Subsidiario seguirá realizando las funciones para dirigir, supervisar, coordinar y ejecutar los procedimientos de contratación en materia de adquisiciones, arrendamientos, servicios y obra, en el ámbito de su respectiva competencia, hasta en tanto se realice lo necesario para la total transferencia de las funciones referidas y recursos relacionados con las mismas.
 
 DÉCIMO SEGUNDO. Las transferencias a que se refiere el artículo cuarto transitorio deberán quedar formalizadas en un plazo no mayor a un año, a partir de la publicación de las presentes modificaciones en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE JULIO DE 2015.
+
+PRIMERO. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico del Organismo Público Descentralizado denominado Pemex-Exploración y Producción.
+
+TERCERO. La estructura orgánica básica autorizada se remitirá, para conocimiento, a la Secretaría de Hacienda y Crédito Público, en términos de la Ley de Petróleos Mexicanos. La implementación de dicha estructura se realizará mediante movimientos compensados, que no impliquen incremento al presupuesto global de servicios personales o en el número total de plazas que se transferirán del organismo público descentralizado Pemex-Exploración y Producción a la empresa productiva subsidiaria denominada Pemex Exploración y Producción.
+
+CUARTO. Los lineamientos, políticas, bases, criterios y demás disposiciones emitidas con anterioridad a la entrada en vigor del presente Estatuto, por cualquier órgano o área de Petróleos Mexicanos, Pemex-Exploración y Producción, Pemex-Refinación, Pemex-Gas y Petroquímica Básica y Pemex-Petroquímica, continuarán siendo aplicables a la empresa productiva subsidiaria denominada Pemex Exploración y Producción en lo que no se opongan a la Ley de Petróleos Mexicanos, su Reglamento, el Acuerdo de Creación de Pemex Exploración y Producción, al presente Estatuto Orgánico y demás disposiciones aplicables, hasta en tanto los órganos o áreas referidas determinen su modificación o abrogación.
+
+QUINTO. Las referencias a las denominaciones de las áreas del organismo público descentralizado Pemex-Exploración y Producción, que se contengan en contratos u otros instrumentos jurídicos, se entenderán hechas o conferidas a las áreas que correspondan de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción, conforme a este Estatuto.
+
+SEXTO. Las áreas cuyas funciones se modifican o se crean en virtud de la reorganización corporativa de Petróleos Mexicanos contenidas en el presente Estatuto, deberán realizar y formalizar, según corresponda, cualquier tipo de acto o documento, incluyendo las actas de entrega-recepción, que sean necesarios para los traspasos, transferencias y demás actos que correspondan.
+
+Sin perjuicio de lo anterior, las áreas referidas deberán realizar las actividades y funciones necesarias con el propósito de dar continuidad a la operación y funcionamiento de Pemex Exploración y Producción.
+
+Se deberán realizar todas las gestiones administrativas necesarias para la transferencia de los recursos humanos y materiales, incluyendo la información y documentación, así como los recursos financieros asociados con dicha transferencia, derivadas de la reorganización corporativa de Petróleos Mexicanos.
+
+SÉPTIMO. Las obligaciones asumidas por Pemex-Exploración y Producción, Pemex-Gas y Petroquímica Básica, Pemex-Petroquímica y Pemex-Refinación, al amparo de los convenios de responsabilidad solidaria suscritos por ellos, para garantizar las obligaciones constitutivas de deuda pública contratadas por Petróleos Mexicanos y, en su caso, otros organismos subsidiarios, así como las operaciones donde dichos organismos subsidiarios han comparecido directamente, para tales efectos, continuarán vigentes hasta su conclusión, siempre que Pemex Exploración y Producción sea su causahabiente directo.
+
+OCTAVO. Conforme Pemex Exploración y Producción comience a realizar actividades de exploración en aguas profundas, se presentarán a consideración del Consejo de Administración las modificaciones a la estructura básica y a este Estatuto para incorporar a la estructura de la Subdirección de Producción Aguas Profundas las gerencias que se vayan requiriendo.
+
+NOVENO. Con el propósito de dar continuidad a los procesos y actividades de los equipos de trabajo integrados para llevar a cabo los procesos de migración de las asignaciones relacionadas con contratos integrales de exploración y producción y contratos de obra pública financiada a contratos para la exploración y extracción de Hidrocarburos, migración de asignaciones a contratos para la exploración y extracción de Hidrocarburos, participación en rondas licitatorias o separación de activos, conforme señalan las disposiciones legales vigentes que, a la fecha de entrada en vigor del presente Estatuto, hayan iniciado procedimientos que involucren autoridades, socios o terceras partes, Pemex Exploración y Producción continuará a cargo de los proyectos y gestiones necesarios, procurando integrar al personal que designe la Dirección Corporativa de Alianzas y Nuevos Negocios de Petróleos Mexicanos.
+
+En los supuestos señalados en el párrafo anterior, Pemex Exploración y Producción, por conducto de sus servidores públicos conforme a las funciones previstas en el presente Estatuto, continuará (sic) hasta su conclusión los procedimientos referidos.
+
+DÉCIMO. En cumplimiento al Acuerdo CA-094/2015, del 22 de mayo de 2015, adoptado en la Sesión 890 Extraordinaria del Consejo de Administración de Petróleos Mexicanos, la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción, de manera transitoria operará y contará con los recursos humanos, materiales y financieros, así como los bienes, derechos y obligaciones que correspondían a la Unidad de Negocio de Perforación del Organismo Subsidiario Pemex-Exploración y Producción.
+
+Por lo anterior, la Unidad de Negocio de Perforación que correspondía al Organismo Subsidiario Pemex-Exploración y Producción, estará adscrita de manera transitoria a la Coordinación Operativa, que deberá coordinarse con las Direcciones Corporativas de Petróleos Mexicanos cuando así corresponda en términos del Estatuto Orgánico de Petróleos Mexicanos, y contará con las áreas y funciones siguientes:
+
+1. Unidad de Negocio de Perforación.
+
+a) Gerencia de Estrategias y Planes.
+
+b) Gerencia de Perforación y Reparación de Pozos Terrestre.
+
+c) Gerencia de Perforación y Reparación de Pozos Marina.
+
+d) Gerencia de Bases Técnicas y Supervisión de Contratos.
+
+e) Gerencia de Servicio a Pozos.
+
+f) Gerencia de Mantenimiento de Equipos.
+
+1. La Unidad de Negocio de Perforación tendrá las funciones siguientes:
+
+I. Proveer servicios de Intervenciones a Pozos, incluyendo el suministro de servicios no estratégicos para realizar la intervención de pozos, en el territorio nacional, en la zona económica exclusiva y, en su caso, en yacimientos transfronterizos;
+
+II. Administrar los equipos y la infraestructura para las Intervenciones a Pozos, y
+
+III. Evaluar el desempeño económico, operativo y de seguridad de los equipos de Intervenciones a Pozos.
+
+a) La Gerencia de Estrategias y Planes tendrá las funciones siguientes:
+
+I. Coordinar, integrar y evaluar las actividades de planeación y estrategias de la Unidad de Negocio de Perforación;
+
+II. Elaborar el plan estratégico de la Unidad de Negocio de Perforación, y
+
+III. Integrar y analizar la información de la evaluación del desempeño de las funciones de las áreas adscritas a la Unidad de Negocio de Perforación.
+
+b) La Gerencia de Perforación y Reparación de Pozos Terrestre tendrá las funciones siguientes:
+
+I. Establecer las estrategias de perforación, terminación y reparación de pozos;
+
+II. Llevar a cabo la perforación, terminación y reparación de pozos;
+
+III. Establecer el programa de suministros a los equipos de perforación, terminación y reparación de pozos y verificar su cumplimiento;
+
+IV. Establecer directrices para la homologación y actualización de procedimientos operativos de los equipos de perforación, terminación y reparación de pozos, y
+
+V. Atender las contingencias asociadas a la intervención de pozos.
+
+c) La Gerencia de Perforación y Reparación de Pozos Marina tendrá las funciones siguientes
+
+I. Establecer las estrategias de perforación, terminación y reparación de pozos;
+
+II. Llevar a cabo la perforación, terminación y reparación de pozos;
+
+III. Establecer el programa de suministros a los equipos de perforación, terminación y reparación de pozos y verificar su cumplimiento;
+
+IV. Establecer directrices para la homologación y actualización de procedimientos operativos de los equipos de perforación, terminación y reparación de pozos, y
+
+V. Atender las contingencias asociadas a la intervención de pozos.
+
+d) La Gerencia de Bases Técnicas y Supervisión de Contratos tendrá las funciones siguientes:
+
+I. Identificar, instrumentar y desarrollar las estrategias para la contratación, así como evaluar su factibilidad económica, financiera y técnica en la Unidad de Negocio de Perforación;
+
+II. Coordinar la planeación de requerimientos de equipos, materiales y servicios que requiere la Unidad de Negocio de Perforación;
+
+III. Elaborar bases técnicas para la contratación y adquisición de equipos, materiales y servicios, que requiere la Unidad de Negocio de Perforación;
+
+IV. Gestionar ante la Subdirección de Administración y Finanzas los procesos de contratación de la Unidad de Negocio de Perforación, participando en la evaluación técnica;
+
+V. Supervisar la ejecución de los contratos de equipos, materiales y servicios que requiera la Unidad de Negocio de Perforación, y
+
+VI. Evaluar y dar seguimiento físico, financiero, operativo y de seguridad a los contratos de la Unidad de Negocio de Perforación.
+
+e) La Gerencia de Servicio a Pozos tendrá las funciones siguientes:
+
+I. Establecer las estrategias de servicio a pozos;
+
+II. Llevar a cabo las operaciones de servicio a pozos;
+
+III. Establecer el programa de suministros para la operación de servicios a pozos, incluyendo el suministro de servicios no estratégicos para realizar la intervención de pozos y verificar su cumplimiento;
+
+IV. Evaluar los proyectos de inversión para el mantenimiento, la modernización y adquisición de equipos e infraestructura de servicio a pozos;
+
+V. Establecer directrices para la homologación y actualización de procedimientos operativos de servicio a pozos, y
+
+VI. Participar en la atención de contingencias asociadas a las intervenciones de pozos.
+
+f) La Gerencia de Mantenimiento de Equipos tendrá las funciones siguientes:
+
+I. Establecer, planear, dirigir y evaluar la ingeniería del mantenimiento y modernización de equipos para Intervenciones a Pozos;
+
+II. Establecer directrices para la homologación y actualización de procedimientos, manuales, normas, mejores prácticas y especificaciones técnicas de mantenimiento de equipos, y
+
+III. Administrar los proyectos de modernización de equipos para intervenciones de pozos.
+
+Una vez que el Consejo de Administración de Petróleos Mexicanos emita la Declaratoria de entrada en vigor del Acuerdo de Creación de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Perforación y Servicios, la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción deberá transferir a la primera, los recursos humanos, materiales y financieros, así como los bienes, derechos y obligaciones que correspondían a la Unidad de Negocio de Perforación del Organismo Subsidiario Pemex-Exploración y Producción.
+
+El presente Estatuto Orgánico de la Empresa Productiva del Estado subsidiaria de Petróleos Mexicanos denominada Pemex Exploración y Producción, fue aprobado por el Consejo de Administración de Pemex Exploración y Producción, con fundamento en el artículo 12, fracción VI y Transitorio Octavo del Acuerdo de Creación de la Empresa Productiva del Estado subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción, en sesión de instalación celebrada el día 24 de junio de 2015, mediante acuerdo número CAEPS-PEP-004/2015.
