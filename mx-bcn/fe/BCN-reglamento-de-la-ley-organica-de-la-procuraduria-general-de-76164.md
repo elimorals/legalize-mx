@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-761
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-08-06"
-last_updated: "2015-02-20"
+last_updated: "2015-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2015.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 6 de agosto de 2010.
 
@@ -120,6 +120,10 @@ b) Dirección de Servicios Administrativos.
 c) Dirección de Planeación y Evaluación.
 
 d) Dirección de Capital Humano.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2015)</small>
+
+e) Dirección Estatal de Derechos Humanos.
 
 IV.- Los demás órganos que señale el Reglamento o establezcan los Acuerdos.
 
@@ -1975,15 +1979,17 @@ XIV.- Ejercer las atribuciones que las leyes le confieren al Ministerio Público
 
 XV.- Solicitar informe a los Agentes del Ministerio Público adscritos al Tribunal Superior de Justicia, respecto de los asuntos de su competencia;
 
-XVI.- Rendir los informes que se soliciten en materia de Derechos Humanos;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XVIII], P.O. 3 DE JULIO DE 2015)</small>
 
-XVII.- Dictaminar en materia de Derechos Humanos, cuando le fuere solicitado al Procurador;
+XVI.- Coordinarse con los organismos gubernamentales o no gubernamentales, e instituciones de educación pública y privadas para la elaboración de proyectos de convenios que autorice el Procurador;
 
-XVIII.- Coordinarse con los organismos gubernamentales o no gubernamentales, e instituciones de educación pública y privadas para la elaboración de proyectos de convenios que autorice el Procurador;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XIX], P.O. 3 DE JULIO DE 2015)</small>
 
-XIX.- Vigilar la actualización de los manuales administrativos de la Procuraduría; y,
+XVII.- Vigilar la actualización de los manuales administrativos de la Procuraduría; y,
 
-XX.- Las que demás le encomiende el Procurador y aquellas que le confieran las disposiciones normativas aplicables.
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XX], P.O. 3 DE JULIO DE 2015)</small>
+
+XVIII.- Las demás que le encomiende el Procurador y aquellas que le confieran las disposiciones normativas aplicables.
 
 ###### ARTÍCULO 91.
 
@@ -2019,11 +2025,15 @@ VI.- Realizar opiniones jurídicas sobre los asuntos que se reciban para su revi
 
 VII.- Las demás que le encomiende el Director Jurídico y aquellas que le confieran las disposiciones normativas aplicables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 93.
 
-La Coordinación de Procesos tendrá a su cargo las áreas de Amparo, de lo Contencioso, de Derechos Humanos, a Agentes del Ministerio Público adscritos a las salas penales del Tribunal, así como a los servidores públicos necesarios para el cumplimiento de las siguientes atribuciones:
+La Coordinación de Procesos tendrá a su cargo a las áreas de Amparo, de lo Contencioso, a Agentes del Ministerio Público adscritos a las salas penales del Tribunal, así como a los servidores públicos necesarios para el cumplimiento de las siguientes atribuciones:
 
-I.- Coordinarse con el Director Jurídico para la planeación, organización y funcionamiento de las áreas de Amparo, de lo Contencioso, de Derechos Humanos y de los Agentes del Ministerio Público adscritos al Tribunal Superior de Justicia del Estado;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2015)</small>
+
+I.- Coordinarse con el Director Jurídico para la planeación, organización y funcionamiento de las áreas de Amparo, de lo Contencioso y de los Agentes del Ministerio Público adscritos al Tribunal Superior de Justicia del Estado;
 
 II.- Revisar y turnar la documentación de su competencia que sea recibida en Oficialía de Partes, para que sean atendidas por las áreas a su cargo;
 
@@ -2035,17 +2045,21 @@ V.- Vigilar que las áreas a su cargo, recaben de las diferentes áreas de la Pr
 
 VI.- Intervenir cuando proceda, en los procedimientos en los que la Procuraduría sea parte o tercero perjudicado;
 
-VII.- Vigilar que los informes que se soliciten en materia de Derechos Humanos sean rendidos en tiempo y forma por el área a su cargo;
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2015)</small>
 
-VIII.- Participar, cuando proceda, en el seguimiento de quejas, propuestas y recomendaciones en materia de Derechos Humanos;
+VII.- Proporcionar asesoría u opinión en materia de Derechos Humanos, cuando así lo requiera;
 
-IX.- Coordinarse con el Director Jurídico en la elaboración de los dictámenes en materia de Derechos Humanos, cuando le fuere solicitado al Procurador;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN X], P.O. 3 DE JULIO DE 2015)</small>
 
-X.- Vigilar que la actuación de los Agentes del Ministerio Público adscritos a las salas del Tribunal Superior de Justicia, se realice en los términos de la normatividad aplicable;
+VIII.- Vigilar que la actuación de los Agentes del Ministerio Público adscritos a las salas del Tribunal Superior de Justicia, se realice en los términos de la normatividad aplicable;
 
-XI.- Solicitar informe a los Agentes del Ministerio Público adscritos al Tribunal Superior de Justicia, respecto de los asuntos de su competencia; y,
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XI], P.O. 3 DE JULIO DE 2015)</small>
 
-XII.- Las demás que le encomiende el Director Jurídico y aquellas que le confieran las disposiciones normativas aplicables.
+IX.- Solicitar informe a los Agentes del Ministerio Público adscritos al Tribunal Superior de Justicia, respecto de los asuntos de su competencia; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XII], P.O. 3 DE JULIO DE 2015)</small>
+
+X.- Las demás que le encomiende el Director Jurídico y aquellas que le confieran las disposiciones normativas aplicables.
 
 ###### ARTÍCULO 94.
 
@@ -2669,11 +2683,79 @@ Las Coordinaciones de Zona para el desempeño de sus funciones contarán con un 
 
 Habrá por lo menos dos Coordinaciones de Zona, que deberán residir en los Municipios de Tijuana y Ensenada.
 
-### CAPÍTULO PRIMERO. DE LOS EXÁMENES TOXICOLÓGICOS PARA DETECTAR EL POSIBLE ABUSO O CONSUMO DE DROGAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JULIO DE 2015)</small>
+
+### CAPÍTULO QUINTO
+
+DIRECCIÓN ESTATAL DE DERECHOS HUMANOS.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2015)</small>
+
+ARTÍCULO 131 BIS.- La Dirección Estatal de Derechos Humanos tendrá ámbito de competencia dentro del territorio del Estado, y tendrá su sede en la ciudad de Tijuana, Baja California, para el despacho de los asuntos de su competencia.
+
+La Dirección Estatal de Derechos Humanos contará con un titular, quien tendrá la calidad de Agente del Ministerio Público, mismo que será nombrado y removido libremente por el Procurador y dependerá directamente de este. En caso de ausencia del titular de dicha Dirección Estatal, éste será suplido por el servidor público que designe el Procurador; contará con el personal administrativo indispensable para el ejercicio de sus funciones, quienes serán nombrados y removidos por el Procurador.
+
+La Dirección Estatal de Derechos Humanos se integrará para su operación con la siguiente estructura:
+
+I.- Director Estatal;
+
+II.- Auxiliar del Ministerio Público;
+
+III.- Notificador; y,
+
+IV.- Los demás que se requieran de conformidad con la disponibilidad presupuestal de esta institución.
+
+El personal que sea designado para ocupar los puestos mencionados en el presente artículo será acorde a las plazas con las que cuente la Procuraduría.
+
+Los servidores públicos adscritos a la Dirección Estatal de Derechos Humanos dependerán operativamente del titular de la misma y deberán reunir el perfil idóneo así como experiencia en el área respectiva.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2015)</small>
+
+ARTÍCULO 131 TER.- Serán atribuciones de la Dirección Estatal de Derechos Humanos:
+
+I.- Verificar que todos los servidores públicos adscritos a la Procuraduría cumplan el ejercicio de sus funciones, bajo el apego irrestricto a los derechos humanos de las víctimas, imputados y sus familiares, así como de los testigos del delito, y en caso de su (sic) violación a esos derechos, realizar lo procedente al respecto;
+
+II.- Valorar, atender y dar seguimiento a las solicitudes de informes, propuestas de conciliación, recomendaciones, quejas, actas de investigación y colaboraciones, medidas precautorias o cautelares y recursos de impugnación formuladas por las Comisiones Nacional o Estatal de los Derechos Humanos u otros entes, y vigilar su cumplimiento;
+
+III.- Promover el intercambio con entidades privadas nacionales o estatales defensoras de derechos humanos;
+
+IV.- Solicitar a las Comisiones Nacional o Estatal de los Derechos Humanos la improcedencia de la queja notoriamente infundada y el archivo correspondiente del expediente;
+
+V.- Acudir al desahogo de todas las diligencias para el esclarecimiento de los expedientes de presuntas violaciones a los derechos humanos, cuando conforme a la normatividad aplicable sea procedente;
+
+VI.- Cuando sea procedente solicitar a la Visitaduría General de la Procuraduría, el inicio de procedimientos de responsabilidad administrativa o penal a los servidores públicos que hubieran incurrido en violaciones a los derechos humanos y, en su caso; hacerlo del conocimiento del Procurador;
+
+VII.- Asesorar a los servidores públicos de la Procuraduría que la conforman en el trámite, seguimiento y conclusión de la queja o recomendación ante las Comisiones Nacional o Estatal de los Derechos Humanos que exista en su contra por presunta violación a los derechos humanos y que se considere infundada;
+
+VIII.- Establecer programas permanentes en apoyo a la sociedad en los que promuevan los derechos humanos.
+
+IX.- Impartir cursos de capacitación lo que podrá coordinarse con las Comisiones Nacional o Estatal de los Derechos Humanos u otros entes, a fin de evitar las violaciones a los derechos humanos más recurrentes registradas por el Estado;
+
+X.- Realizar programas de difusión y orientación mediante conferencias, cursos, seminarios y eventos destinados a fortalecer una cultura de respeto de los derechos humanos, dirigidos a los servidores públicos de la Procuraduría;
+
+XI.- Dar seguimiento a las investigaciones que se encuentren relacionadas con algún expediente emitido por las Comisiones Nacional o Estatal de los Derechos Humanos u otros entes;
+
+XII.- Realizar las funciones de enlace de la Procuraduría con las Comisiones Nacional o Estatal de los Derechos Humanos u otros entes;
+
+XIII.- Elaborar un registro y mantener permanentemente actualizada la información relacionada con instancias gubernamentales, respecto a funcionarios y servidores públicos sancionados, como responsables de violaciones a los derechos humanos;
+
+XIV.- Realizar las investigaciones necesarias para recabar información concerniente a presuntas violaciones de los derechos humanos;
+
+XV.- Dar seguimiento de los procedimientos administrativos que se instruyen por la Visitaduría, en el ámbito de probables violaciones a los derechos humanos, por parte de servidores públicos de la Procuraduría;
+
+XVI.- Crear un registro de servidores públicos responsables de violaciones a los derechos humanos y actualizar de manera permanente, con el fin de identificar y capacitar en esta materia a los funcionarios por presuntas violaciones a los derechos humanos;
+
+XVII.- Instrumentar mecanismos para el control, archivo y resguardo de los expedientes de presuntas violaciones a los derechos humanos;
+
+XVIII.- Solicitar a las diferentes áreas de la Procuraduría, proporcionen oportuna y verazmente la información que les sea solicitada con relación a presuntas violaciones de los derechos humanos;
+
+XIX.- Mantener contacto permanente y establecer vínculos de colaboración con instancias públicas o privadas, así como con personas físicas o jurídicas de los sectores público, social y privado a efecto de auxiliar, analizar, actualizar o en su caso elaborar proyectos de cooperación mutua para la defensa, promoción y difusión del respeto de los derechos humanos; y,
+
+XX.- Vigilar el cumplimiento de las leyes, reglamentos, decretos, acuerdos y demás documentos de carácter normativo que integran el marco de actuación de la Procuraduría.
 
 ## TÍTULO SEXTO. DE LOS PROCEDIMIENTOS
 
-### CAPÍTULO SEGUNDO. DE LAS ÓRDENES DE APREHENSIÓN, REAPREHENSIÓN, PRESENTACIÓN Y COMPARECENCIA
+### CAPÍTULO PRIMERO. DE LOS EXÁMENES TOXICOLÓGICOS PARA DETECTAR EL POSIBLE ABUSO O CONSUMO DE DROGAS
 
 ###### ARTÍCULO 132.
 
@@ -2693,7 +2775,7 @@ V.- Cuando exista la necesidad de la práctica de otro examen, deberá realizars
 
 VI.- En los casos en que algún servidor público haya resultado positivo en el examen practicado y que se encuentre bajo tratamiento médico, deberá presentarse para su registro en el área de servicios periciales de su adscripción, a efecto de que se inicie el expediente de control, donde se hará constar los motivos y causas del tratamiento, manifestando el nombre de los medicamentos prescritos, haciendo mención del nombre del médico que lo atiende, quien tendrá que estar debidamente registrado y contar con cédula profesional, anexando las constancias clínicas del Instituto de Seguridad y Servicios Sociales de Trabajadores de Gobierno y Municipios del Estado de Baja California.
 
-### CAPÍTULO TERCERO. DE LA CANCELACIÓN Y DESTRUCCIÓN DE LOS REGISTROS DE ANTECEDENTES POLICIALES
+### CAPÍTULO SEGUNDO. DE LAS ÓRDENES DE APREHENSIÓN, REAPREHENSIÓN, PRESENTACIÓN Y COMPARECENCIA
 
 ###### ARTÍCULO 133.
 
@@ -2713,7 +2795,7 @@ V.- El personal que se comisione por la autoridad interesada, deberá comparecer
 
 VI.- En el supuesto en que haya duda sobre la identidad de la persona, se le tomará una fotografía, huellas dactilares, así como media filiación y las generales correspondientes, para hacerlas llegar vía electrónica a la autoridad requirente, y ésta, previo cotejo o confrontación con los datos que obran en el expediente de donde deriva la orden de aprehensión, o que contengan la ficha signaléctica de ese lugar, indique de inmediato si se trata de la misma persona.
 
-### CAPÍTULO CUARTO. DE LA INHIBICIÓN DEL EMBARAZO
+### CAPÍTULO TERCERO. DE LA CANCELACIÓN Y DESTRUCCIÓN DE LOS REGISTROS DE ANTECEDENTES POLICIALES
 
 ###### ARTÍCULO 134.
 
@@ -2731,7 +2813,7 @@ IV.- Ante la procedencia de la destrucción del antecedente policial declarada p
 
 V.- Ante el supuesto de la improcedencia de la destrucción del antecedente policial, de igual forma se le notificará para que manifieste lo que a sus intereses corresponda.
 
-### CAPÍTULO QUINTO. DEL ENTERO Y DEVOLUCIÓN DE FIANZAS
+### CAPÍTULO CUARTO. DE LA INHIBICIÓN DEL EMBARAZO
 
 ###### ARTÍCULO 135.
 
@@ -2771,7 +2853,7 @@ VII.- El Agente del Ministerio Público entregará a la víctima, o en caso de s
 
 De lo anterior, el hospital levantará constancia de la fecha y hora en que se llevó a cabo el procedimiento, misma que deberá remitirse a la Procuraduría, para que integre el expediente como asunto concluido.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO QUINTO. DEL ENTERO Y DEVOLUCIÓN DE FIANZAS
 
 ###### ARTÍCULO 136.
 
@@ -2973,7 +3055,7 @@ VI.- Someterse a los exámenes médicos, físicos y clínicos que señalen los r
 
 ## TÍTULO OCTAVO. RESPONSABILIDADES Y SANCIONES
 
-### CAPÍTULO SEGUNDO. PROCEDIMIENTO ADMINISTRATIVO
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 152.
 
@@ -3047,7 +3129,7 @@ III.- Auxilio de la fuerza pública; y,
 
 IV.- Arresto hasta por 36 horas.
 
-### CAPÍTULO TERCERO. NOTIFICACIONES EN EL PROCEDIMIENTO ADMINISTRATIVO
+### CAPÍTULO SEGUNDO. PROCEDIMIENTO ADMINISTRATIVO
 
 ###### ARTÍCULO 155.
 
@@ -3257,7 +3339,7 @@ La suspensión temporal preventiva contemplada en los artículos 36 y 45, así c
 
 En lo no previsto en el Reglamento para el desarrollo del presente procedimiento, para el ofrecimiento, desahogo y valoración de las pruebas y para la realización de las notificaciones, se aplicará supletoriamente, en lo conducente, las disposiciones del Código de Procedimientos Civiles para el Estado de Baja California.
 
-### CAPÍTULO CUARTO. PRESCRIPCIÓN
+### CAPÍTULO TERCERO. NOTIFICACIONES EN EL PROCEDIMIENTO ADMINISTRATIVO
 
 ###### ARTÍCULO 189.
 
@@ -3305,7 +3387,7 @@ Las notificaciones surtirán sus efectos el día en que se practiquen.
 
 Las notificaciones que se tengan que realizar a personas diversas a los servidores públicos, se harán en los términos del Código de Procedimientos Civiles para el Estado de Baja California.
 
-### CAPÍTULO QUINTO. SUSPENSIÓN PREVENTIVA
+### CAPÍTULO CUARTO. PRESCRIPCIÓN
 
 ###### ARTÍCULO 195.
 
@@ -3327,7 +3409,7 @@ II.- Con la interposición de algún juicio o medio de defensa en contra de la r
 
 Las facultades de investigación y sanción en los casos a que se refiere el artículo 44 de la ley, por la reiteración en cuando menos tres ocasiones en el incumplimiento de alguna o algunas de las obligaciones previstas en las fracciones I, II, III VI, IX, X, XI y XIV del artículo 41 de la Ley, prescribirá en los mismos términos señalados en el artículo que antecede, los cuales comenzarán a contar a partir de que la Visitaduría General tenga conocimiento de la tercera ocasión en que el servidor público incurra en incumplimiento de alguna o algunas de las obligaciones antes señaladas.
 
-### CAPÍTULO SEXTO. CONCLUSIÓN DEL SERVICIO E INDEMNIZACIÓN
+### CAPÍTULO QUINTO. SUSPENSIÓN PREVENTIVA
 
 ###### ARTÍCULO 198.
 
@@ -3345,7 +3427,7 @@ La suspensión cesará cuando así lo resuelva el Visitador General o cuando con
 
 Si el servidor público suspendido no resultare responsable de la falta, omisión administrativa, o de la pérdida del requisito de permanencia que se le atribuye, será restituido en el goce y disfrute de sus derechos, debiéndosele cubrir las prestaciones que hubiere dejado de percibir con motivo de la suspensión.
 
-### CAPÍTULO SÉPTIMO. RECURSO DE INCONFORMIDAD
+### CAPÍTULO SEXTO. CONCLUSIÓN DEL SERVICIO E INDEMNIZACIÓN
 
 ###### ARTÍCULO 201.
 
@@ -3375,7 +3457,7 @@ En ningún caso procederá la reincorporación, restitución o reinstalación en
 
 En caso de separación voluntaria, los servidores públicos de la Procuraduría, tendrán derecho a recibir las condiciones del servicio que se hubieran generado.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO SÉPTIMO. RECURSO DE INCONFORMIDAD
 
 ###### ARTÍCULO 205.
 
@@ -3409,7 +3491,7 @@ Tratándose de los servidores públicos de base, la ejecución de las sanciones 
 
 ## TÍTULO NOVENO. OBJETO Y APLICACIÓN DEL SERVICIO DE CARRERA DE PROCURACIÓN DE JUSTICIA
 
-### CAPÍTULO SEGUNDO. INGRESO Y REINGRESO
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 209.
 
@@ -3479,7 +3561,7 @@ Para ascender, debe aprobar las evaluaciones requeridas por el puesto al que asp
 
 La remuneración económica será estructurada y jerarquizada acorde a las categorías ascendente para cada carrera establecida.
 
-### CAPÍTULO TERCERO. PROFESIONALIZACIÓN
+### CAPÍTULO SEGUNDO. INGRESO Y REINGRESO
 
 ###### ARTÍCULO 216.
 
@@ -3523,7 +3605,7 @@ IX.- Tratándose de reingreso, podrá participar en la convocatoria para el nive
 
 Se llevará un registro a manera de bolsa de trabajo, para los aspirantes que hayan cubierto satisfactoriamente los requisitos y evaluaciones para el ingreso, pero que aún no hayan sido seleccionados para ingresar al puesto. En la bolsa de trabajo estarán enlistados en orden jerárquicamente descendente, según la conjugación de los resultados obtenidos en las evaluaciones. La vigencia en la bolsa de trabajo será por tres años.
 
-### CAPÍTULO CUARTO. LA PERMANENCIA, EVALUACIÓN DEL DESEMPEÑO Y CERTIFICACIÓN
+### CAPÍTULO TERCERO. PROFESIONALIZACIÓN
 
 ###### ARTÍCULO 218.
 
@@ -3575,7 +3657,7 @@ El Programa de Especialización es el proceso de entrenamiento, que por medio de
 
 La Procuraduría podrá convenir con instructores externos, para cualquiera de los programas de formación profesional.
 
-### CAPÍTULO QUINTO. PROMOCIONES Y ASCENSOS
+### CAPÍTULO CUARTO. LA PERMANENCIA, EVALUACIÓN DEL DESEMPEÑO Y CERTIFICACIÓN
 
 ###### ARTÍCULO 225.
 
@@ -3633,7 +3715,7 @@ La certificación es el proceso mediante el cual la Procuraduría reconoce el m�
 
 La certificación es para aplicar y evidenciar la profesionalización, reconocer el desempeño consistente y superior al mínimo establecido para el personal de carrera.
 
-### CAPÍTULO SEXTO. CONCURSO DE OPOSICIÓN
+### CAPÍTULO QUINTO. PROMOCIONES Y ASCENSOS
 
 ###### ARTÍCULO 232.
 
@@ -3663,7 +3745,7 @@ También se considerarán los estímulos, reconocimientos, certificaciones y san
 
 En ningún caso los derechos del servicio de carrera de procuración de justicia, implicarán inamovilidad en un cargo.
 
-### CAPÍTULO SÉPTIMO. DE ESTÍMULOS Y AYUDANTÍAS
+### CAPÍTULO SEXTO. CONCURSO DE OPOSICIÓN
 
 ###### ARTÍCULO 237.
 
@@ -3689,7 +3771,7 @@ En caso de que en los concursos de oposición abierto o cerrado, se registrare u
 
 El proceso del concurso de oposición deberá quedar concluido en el plazo especificado en la convocatoria, contado a partir de la fecha de publicación de ésta.
 
-### CAPÍTULO OCTAVO. ÓRGANOS COLEGIADOS PARA EL SERVICIO DE CARRERA DE PROCURACIÓN DE JUSTICIA
+### CAPÍTULO SÉPTIMO. DE ESTÍMULOS Y AYUDANTÍAS
 
 ###### ARTÍCULO 241.
 
@@ -3775,7 +3857,7 @@ III. Impacto social.
 
 La ayudantía se establecerá por área y no por persona, se otorgará mientras el servidor público continúe desempeñando las mismas funciones por las cuales le fue entregada, y en ningún caso se considerará parte integral del salario.
 
-### CAPÍTULO NOVENO. SEPARACIÓN DEL SERVICIO DE CARRERA DE PROCURACIÓN DE JUSTICIA
+### CAPÍTULO OCTAVO. ÓRGANOS COLEGIADOS PARA EL SERVICIO DE CARRERA DE PROCURACIÓN DE JUSTICIA
 
 ###### ARTÍCULO 251.
 
@@ -3856,6 +3938,8 @@ La Comisión Administradora del Servicio de Carrera de Procuración de Justicia 
 ###### ARTÍCULO 256.
 
 Los Presidentes de Comités y Comisión previstos en este Capítulo, informarán de las actividades y logros respectivamente asignados, trimestralmente o cuando lo requiera el Procurador.
+
+### CAPÍTULO NOVENO. SEPARACIÓN DEL SERVICIO DE CARRERA DE PROCURACIÓN DE JUSTICIA
 
 ###### ARTÍCULO 257.
 
@@ -3948,3 +4032,11 @@ P.O. 20 DE FEBRERO DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Las referencias a la Unidad Estatal Investigadora de Personas Extraviadas o Ausentes que hagan las leyes y demás disposiciones normativas, se entenderán realizadas a la Unidad Estatal Investigadora de Búsqueda de Personas No Localizadas.
+
+P.O. 3 DE JULIO DE 2015.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO DEL EJECUTIVO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 90 Y 93 DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DE ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
