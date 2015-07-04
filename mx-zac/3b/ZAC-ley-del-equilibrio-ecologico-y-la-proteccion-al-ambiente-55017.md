@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-55017"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-31"
-last_updated: "2013-03-23"
+last_updated: "2015-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de marzo de 2007.
 
@@ -777,7 +777,7 @@ IV. Promover tecnologías orientadas al aprovechamiento racional de los recursos
 
 ###### Artículo 43.
 
-La educación ambiental tiene como objetivo relacionar los problemas ambientales con las necesidades locales y regionales del desarrollo sustentable de la entidad, así como la realización de acciones que ayuden a concientizar a la ciudadanía sobre los riesgos y las consecuencias del cambio climático, e incorporar el enfoque interdisciplinario y de coordinación con la finalidad de promover la conservación y el uso adecuado de los recursos naturales; (sic)
+La educación ambiental tiene como objetivo relacionar los problemas ambientales con las necesidades locales y regionales del desarrollo sustentable de la entidad, así como la realización de acciones que ayuden a concientizar a la ciudadanía sobre los riesgos y las consecuencias del cambio climático, e incorporar el enfoque interdisciplinario y de coordinación con la finalidad de promover la conservación y el uso adecuado de los recursos naturales;
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
@@ -801,7 +801,7 @@ II. La incorporación en sus planes y programas de estudio, de los aspectos de c
 
 III. La coordinación y el fomento de acciones de cultura ambiental en la entidad, considerando los criterios regionales pertinentes e intensificando los esfuerzos para proteger y mejorar el estado actual del entorno, a fin de ampliar la cobertura de la educación ambiental a todos sus habitantes, para propiciar el fortalecimiento de la conciencia ecológica;
 
-IV. El desarrollo de una política educativa que promueva los principios, valores y prácticas de conservación y aprovechamiento sustentable de los recursos naturales en los que quede de manifiesto la relación entre el equilibrio ecológico y la calidad de vida de la población, elaborando programas de educación ambiental con dimensión paralela a las áreas de formación del pensamiento y el comportamiento del ser humano como conceptos básicos de una política educativa de formación ambiental, y (sic)
+IV. El desarrollo de una política educativa que promueva los principios, valores y prácticas de conservación y aprovechamiento sustentable de los recursos naturales en los que quede de manifiesto la relación entre el equilibrio ecológico y la calidad de vida de la población, elaborando programas de educación ambiental con dimensión paralela a las áreas de formación del pensamiento y el comportamiento del ser humano como conceptos básicos de una política educativa de formación ambiental, y
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2008)</small>
 
@@ -859,7 +859,7 @@ IV. Los programas de sensibilización ambiental dirigidos a agricultores, ganade
 
 V. El impulso de proyectos de turismo alternativo y de aventura, en los términos de la Ley para el Desarrollo Turístico del Estado;
 
-VI. La implementación de programas tendientes a disminuir la generación de residuos, y (sic)
+VI. La implementación de programas tendientes a disminuir la generación de residuos, y
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2008)</small>
 
@@ -1891,7 +1891,7 @@ I. Adquieran, instalen u operen equipo para el control de emisiones contaminante
 
 II. Fabriquen, instalen o proporcionen mantenimiento a equipo de filtrado, combustión, control, y en general, de tratamiento de emisiones que contaminen la atmósfera;
 
-III. Realicen investigaciones de tecnología cuya aplicación disminuya la generación de emisiones contaminantes, y (sic)
+III. Realicen investigaciones de tecnología cuya aplicación disminuya la generación de emisiones contaminantes, y
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2008)</small>
 
@@ -1973,7 +1973,7 @@ III. Es necesario prevenir y reducir la generación de residuos sólidos, munici
 
 IV. La utilización de plaguicidas, fertilizantes y sustancias tóxicas, debe ser compatible con el equilibrio de los ecosistemas y considerar sus efectos sobre la salud humana a fin de prevenir los daños que pudiera ocasionar;
 
-V. En los suelos contaminados por la presencia de materiales o residuos peligrosos, deberán llevarse a cabo las acciones necesarias para recuperar o restablecer sus condiciones, de tal manera que puedan ser utilizados en cualquier tipo de actividad prevista por el programa de desarrollo urbano o de ordenamiento ecológico que resulte aplicable, y (sic)
+V. En los suelos contaminados por la presencia de materiales o residuos peligrosos, deberán llevarse a cabo las acciones necesarias para recuperar o restablecer sus condiciones, de tal manera que puedan ser utilizados en cualquier tipo de actividad prevista por el programa de desarrollo urbano o de ordenamiento ecológico que resulte aplicable, y
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2127,13 +2127,19 @@ Cualquier actividad no cotidiana que se realice en los centros de población cuy
 
 ### Capítulo VII. De la contaminación visual y protección del paisaje
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2015)</small>
 
 ###### Artículo 168.
 
-La Secretaría emitirá normas estatales con el propósito de evitar el deterioro del paisaje en las zonas con valor escénico y la contaminación visual en los centros de población. Los Ayuntamientos deberán incorporar en sus Bandos de Policía y Gobierno, reglamentos y demás disposiciones que regulen obras, actividades y anuncios publicitarios, con el fin de evitar la contaminación visual en los centros de población.
+La Secretaría emitirá normas estatales con el propósito de evitar el deterioro del paisaje en las zonas con valor escénico y la contaminación visual en los centros de población. Los Ayuntamientos deberán incorporar en sus Bandos de Policía y Gobierno, reglamentos y demás disposiciones que regulen obras, actividades y anuncios publicitarios, con el fin de evitar la contaminación visual en los centros de población y del entorno natural.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 La Secretaría, los Ayuntamientos y el Consejo Consultivo Estatal para el Desarrollo Sustentable determinará las zonas en la entidad que tengan un valor escénico o de paisaje y regulará y autorizará los tipos de obras o actividades que se puedan realizar con el propósito de evitar su deterioro.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2015)</small>
+
+Queda prohibida la instalación, fijación o colocación de elementos publicitarios en espacios del entorno natural de jurisdicción estatal. La Secretaría y los Ayuntamientos, en el ámbito de su competencia, de acuerdo con la presente Ley, los reglamentos correspondientes y demás disposiciones aplicables, autorizarán la instalación, fijación y colocación de dichos elementos.
 
 ### Capítulo VIII. De la prevención y control de emergencias ecológicas y contingencias ambientales
 
@@ -2331,7 +2337,13 @@ VII. No observen los límites permitidos de emisiones señalados en los reglamen
 
 VIII. No se someta a la verificación periódica de emisiones contaminantes que le corresponda, o no apruebe la verificación dentro del periodo o plazo respectivo, y
 
-IX. Derribe un árbol perteneciente a un área natural protegida o en zonas colindantes con éstos, sin la autorización previa de la autoridad competente.
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2015)</small>
+
+IX. Derribe un árbol perteneciente a un área natural protegida o en zonas colindantes con éstos, sin la autorización previa de la autoridad competente, y
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2015)</small>
+
+X. Coloquen elementos publicitarios en los espacios a que se refiere el párrafo tercero del artículo 168 de la presente Ley.
 
 ###### Artículo 186.
 
@@ -2716,3 +2728,11 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 4 DE JULIO DE 2015.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Dentro de los noventa días siguientes a la entrada en vigor de la presente reforma, los ayuntamientos adecuarán su legislación a lo previsto en este Decreto.
+
+Artículo tercero. Se derogan las disposiciones que contravengan el presente Decreto.
