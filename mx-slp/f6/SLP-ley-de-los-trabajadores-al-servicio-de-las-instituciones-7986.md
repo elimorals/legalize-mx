@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2014-06-10"
+last_updated: "2015-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -440,6 +440,10 @@ c).- Los previstos en el artículo 37 de esta ley; y
 d).- Cuando sean promovidos temporalmente a otras comisiones, en dependencias diferentes a la de su adscripción o cargos de confianza;
 
 VIII.- Aportar a las instituciones de seguridad social respectivas, los porcentajes que correspondan al trabajador y a las entidades públicas de gobierno, para que aquéllas otorguen las jubilaciones o pensiones que procedan;
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2015)</small>
+
+En el caso de los municipios del Estado, cada ayuntamiento debe crear un Fondo de Pensiones que dependerá de la tesorería municipal, y será vigilado por los órganos de control interno de la propia administración. Este fondo deberá contar con recursos suficientes para garantizar las jubilaciones, pensiones, y retiros de los trabajadores que, con ese carácter, tengan derecho a tales prestaciones. El ayuntamiento podrá celebrar convenios con instituciones públicas o privadas de seguridad social, para el manejo, y ejecución de su fondo de pensiones, siempre que lo apruebe (sic) cuando menos las dos terceras partes de los integrantes del cabildo y, la posterior autorización del Congreso del Estado;
 
 IX.- Cubrir las demás aportaciones que según las leyes de la materia correspondan y las convenidas con los sindicatos respectivos, para que los trabajadores tengan los beneficios de la seguridad social;
 
@@ -1786,6 +1790,12 @@ PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 P.O. 10 DE JUNIO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JULIO DE 2015.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
