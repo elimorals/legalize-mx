@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-98675"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-08"
-last_updated: "2015-05-09"
+last_updated: "2015-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2015.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 8 de febrero de 2014.
 
@@ -1515,6 +1515,10 @@ Las relaciones de trabajo del personal a que se refiere esta Ley con las Autorid
 
 El personal que sea separado de su encargo con motivo de la aplicación de esta Ley y la Ley General del Servicio Profesional Docente, podrá impugnar la resolución respectiva ante los órganos jurisdiccionales competentes en materia laboral.
 
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2015)</small>
+
+En tanto se expide y entre en vigor la ley para regular de manera específica las pensiones de los trabajadores de la educación al servicio del Estado, las dependencias competentes del Poder Ejecutivo del Estado deberán proceder a establecer los mecanismos pertinentes y adecuados para cerciorarse de la supervivencia de los pensionados y jubilados, sin que ello implique su presencia física de manera periódica en las oficinas públicas respectivas.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -1578,3 +1582,9 @@ El presente Decreto entrará en vigor al día siguiente a su publicación en el 
 ###### ARTÍCULO SEGUNDO.
 
 Lo dispuesto en el presente Decreto se aplicará de manera gradual, de conformidad con la suficiencia presupuestaria y la capacidad institucional del sector educación del Estado, dando prioridad al nivel educativo de secundaria, seguido por los niveles de primaria y preescolar.
+
+P.O. 4 DE JULIO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Las Secretarías General de Gobierno, de Finanzas y Administración y de Educación del Gobierno del Estado, coordinadamente con la representación sindical correspondiente, dispondrán de un plazo no mayor a 90 días hábiles, contados a partir del día siguiente a la entrada en vigor del presente Decreto, para establecer los mecanismos a que se refiere el artículo 137 de la presente Ley, los cuales serán difundidos profusamente entre los trabajadores y organizaciones sindicales.
