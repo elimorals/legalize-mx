@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2015-03-24"
+last_updated: "2015-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -585,15 +585,23 @@ XXII. Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de
 
 XXIII. Constituir dentro de los primeros treinta días del inicio de la administración, el Consejo Municipal de Protección Civil, con el objeto de prevenir y actuar en casos de riesgo, siniestro o desastre en coordinación con las autoridades del Estado y la Federación. A este organismo concurrirán los sectores público, social y privado, con las funciones y atribuciones que para el efecto señalen la Ley de Protección Civil del Estado y el Reglamento Municipal correspondiente;
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2014)</small>
+(REFORMADA, P.O. 13 DE MAYO DE 2014) (REFORMADA, [N. DE E. REPUBLICADA], P.O. 4 DE JULIO DE 2015)
 
 XXIV. Designar por el voto de cuando menos las dos terceras partes de sus integrantes, a propuesta del Presidente Municipal, a los delegados municipales que correspondan según sea el caso;
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2015)</small>
 
-XXV. Emitir recibos por todos y cada uno de los cobros que realice el ayuntamiento, los cuales deberán contener de forma enunciativa más no limitativa, el nombre del ayuntamiento, domicilio y logotipos oficiales, el número de folio impreso consecutivo, el importe total de la operación consignado con número y letra, el concepto que ampara, la vigencia del comprobante, y el área o departamento que lo emite; debiendo ser autorizados por la tesorería municipal, y
+XXV. El ayuntamiento debe crear un Fondo de Pensiones que dependerá de la tesorería municipal, y será vigilado por los órganos de control interno de la propia administración. Este fondo deberá contar con recursos suficientes para garantizar las jubilaciones, pensiones, y retiros de los trabajadores que con ese carácter, tengan derecho a tales prestaciones. El ayuntamiento podrá celebrar convenios con instituciones públicas o privadas de seguridad social, para el manejo, y ejecución de su fondo de pensiones, siempre que lo apruebe cuando menos las dos terceras partes de los integrantes del cabildo y, la posterior autorización del Congreso del Estado.
 
-> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2014)</small>
+Para garantizar que el fondo contenga los recursos necesarios para su operación, deberá incluirse en el Presupuesto de Egresos de cada ejercicio fiscal, un apartado que contemplará tres montos a etiquetar del gasto:
+
+1. El primero, un monto en el cual se programe, con base en el número de trabajadores que cuenten con edad de jubilación, la cantidad de dinero a que asciende su liquidación por antigüedad, así como la suma asegurada de que gozarán una vez que opere su jubilación o retiro.
+
+2. El segundo monto lo integrará un promedio del gasto de los últimos cinco ejercicios fiscales anteriores, con la actualización inflacionaria correspondiente, que prevea cuantos casos de retiro por incapacidad parcial o total permanente, o pensión por riesgo de trabajo se hubiesen requerido.
+
+3. El tercer monto se formará con todos aquellos trabajadores de nuevo ingreso y de incorporación voluntaria, que se acojan a un plan de retiro que preverá cada ayuntamiento, con aportaciones del trabajador y del municipio; mismo que servirá como base para asegurar las jubilaciones y pensiones de cada trabajador, y
+
+(ADICIONADA, P.O. 13 DE MAYO DE 2014) (REPUBLICADA, P.O. 4 DE JULIO DE 2015)
 
 XXVI. Las demás que señalen la presente Ley y los ordenamientos aplicables.
 
@@ -2692,3 +2700,9 @@ P.O. 24 DE MARZO DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 4 DE JULIO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
