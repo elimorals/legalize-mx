@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2015-03-26"
+last_updated: "2015-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2015.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -1993,9 +1993,19 @@ Asimismo podrán concesionar, con autorización del Congreso del Estado, de mane
 
 IX.- Cada Municipio deberá llevar y mantener actualizado el catastro de propiedad, industria, profesión o trabajo de sus habitantes, en los términos del artículo 36, fracción I, de la Constitución Política de los Estados Unidos Mexicanos;
 
-X.- Los Ayuntamientos sólo tendrán las atribuciones que expresamente les confieren esta Constitución y las leyes que de ella emanen. La ley definirá las responsabilidades en que incurran con motivo del ejercicio de sus cargos; y
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2015)</small>
 
-XI.- Los Ayuntamientos serán electos cada tres años. Se integrarán con un Presidente, hasta con dos Síndicos y con Regidores de mayoría relativa y de representación proporcional en los términos del artículo 115, fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos, quienes tendrán las mismas facultades y obligaciones que los Regidores de mayoría relativa, conforme lo disponga la ley de la materia.
+X.- Los Ayuntamientos sólo tendrán las atribuciones que expresamente les confieren esta Constitución y las leyes que de ella emanen. La ley definirá las responsabilidades en que incurran con motivo del ejercicio de sus cargos;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2015)</small>
+
+XI.- Los Ayuntamientos serán electos cada tres años. Se integrarán con un Presidente, hasta con dos Síndicos y con Regidores de mayoría relativa y de representación proporcional en los términos del artículo 115, fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos, quienes tendrán las mismas facultades y obligaciones que los Regidores de mayoría relativa, conforme lo disponga la ley de la materia, y
+
+> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2015)</small>
+
+XII.- Los ayuntamientos de la Entidad, con base en sus respectivos presupuestos de egresos, y nóminas municipales, deberán crear un fondo de pensiones que dependerá de la tesorería municipal, y será vigilado por los órganos de control interno de la propia administración. Este fondo deberá contar con recursos suficientes para garantizar las jubilaciones, pensiones, y retiro de los trabajadores que, con ese carácter, tengan derecho a tales prestaciones; será constituido por las aportaciones de los trabajadores y del municipio. El cabildo aprobará el Reglamento para su administración y manejo.
+
+Se faculta al ayuntamiento para celebrar convenios con instituciones públicas o privadas de seguridad social, para el manejo, y ejecución de su fondo de pensiones, siempre que lo apruebe cuando menos las dos terceras partes de los integrantes del cabildo y, la posterior autorización del Congreso del Estado.
 
 (NOTA: EL 21 DE MAYO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 109/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE JUNIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -3032,3 +3042,9 @@ SEGUNDO. Lo establecido en la fracción II del artículo 17 del presente Decreto
 TERCERO. El Supremo Tribunal de Justicia del Estado instruirá las acciones necesarias al Consejo de la Judicatura para que, en aquellos casos en que se actualicen los supuestos materia del presente Decreto, tramite y pague el haber de retiro correspondiente.
 
 CUARTO. Se derogan todas aquellas disposiciones legales o reglamentarias que se opongan al presente Decreto.
+
+P.O. 4 DE JULIO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
