@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-procuraduria-general-de-justicia-del-103092"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-10-25"
-last_updated: "2015-04-04"
+last_updated: "2015-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE COLIMA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR DE MANERA PROGRESIVA Y GRADUAL EN LA FECHA, EN LAS REGIONES Y MEDIANTE LAS MODALIDADES QUE SEÑALA EL CITADO ARTÍCULO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2015.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima el sábado 25 de octubre de 2014.
 
@@ -1233,6 +1233,12 @@ Cuando existan datos suficientes para considerar que se trata de homicidio, el M
 
 Si de las diligencias apareciere claramente que la muerte no tuvo causa delictiva, previa autorización del Procurador para la dispensa de la necropsia, el Ministerio Público ordenará de inmediato la inhumación del cadáver y el levantamiento del acta de defunción.
 
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2015)</small>
+
+ARTÍCULO 73 BIS.- El Ministerio Público que tenga conocimiento de la muerte violenta de una mujer deberá iniciar las investigaciones correspondientes bajo el supuesto de un feminicidio y considerando las actuaciones establecidas en el protocolo de investigación del Delito de Feminicidio, emitido por la Procuraduría General de Justicia del Estado, con perspectiva de género.
+
+En los casos de muerte de mujeres ingresadas a hospitales por traumatismo, heridas, fracturas, esguinces; amputaciones, cuerpos extraños, quemaduras y sus secuelas; caídas, contactos traumáticos; disparos, exposición a chorros de alta presión, aporreo, golpe, mordedura, patada, rasguño o torcedura; choque o empellón; ahogamiento y sumersión; sofocación y estrangulamiento; exposición a calor excesiva, contacto con agua corriente, bebidas, alimentos, grasas y aceites para cocina, calientes; privación de alimentos o agua; agresión con drogas, medicamentos, y sustancias biológicas, con sustancias corrosivas; agresión con plaguicidas, con gases y vapores, con productos químicos y sustancias nocivas; agresión por ahorcamiento, estrangulamiento y sofocación; agresión con disparo; agresión con materia explosiva, agresión con humo, fuego y llamas; agresión con vapor de agua, vapores y objetos calientes; agresión con objetos cortantes; agresión por empujón; agresión con fuerza corporal; agresión sexual con fuerza corporal. En estos casos el Ministerio Público deberá iniciar la investigación como probable feminicidio.
+
 ###### ARTÍCULO 74.
 
 Los requisitos de ingreso y permanencia para Perito o cargo afín, se determinaran en la Ley del Servicio Profesional de Carrera en Procuración de Justicia que al efecto se emita.
@@ -2092,3 +2098,7 @@ P.O. 4 DE ABRIL DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
+
+P.O. 4 DE JULIO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
