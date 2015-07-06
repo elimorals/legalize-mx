@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-publicidad-exterior-del-distrito-federal-76110"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-20"
-last_updated: "2014-11-28"
+last_updated: "2015-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76110&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-08-04"
 
 LEY DE PUBLICIDAD EXTERIOR DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE JULIO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 20 de agosto de 2010.
 
@@ -94,13 +94,19 @@ XII. Es obligación de los ciudadanos y de las autoridades preservar la identida
 
 XIII. Es un valor ciudadano que el medio ambiente y los recursos naturales sean respetados en todo momento, particularmente los árboles con follaje consolidado en lo individual, así como los bosques, camellones arbolados, los parques, jardines, áreas verdes, áreas de valor ambiental y áreas naturales protegidas.
 
+> <small>(ADICIONADA, G.O. 6 DE JULIO DE 2015)</small>
+
+XIV. Regular el contenido de la publicidad que se exhiba en el espacio público de la Ciudad de México; para que no se atente contra la dignidad de las personas o se vulneren los derechos humanos reconocidos en la constitución.
+
 ###### Artículo 3.
 
 Para los efectos de esta Ley se entiende por:
 
 I. Anunciante: Persona física o moral que difunda o publicite productos, bienes, servicios o actividades;
 
-II. Anuncio: Cualquier medio físico, con o sin estructura de soporte, por el cual se difunde un mensaje;
+> <small>(REFORMADA, G.O. 6 DE JULIO DE 2015)</small>
+
+II. Anuncio. Cualquier medio físico, con o sin estructura de soporte, por el cual se difunde un mensaje; o bien que sin contener un mensaje, sea unidad integral en términos de lo señalado en el artículo 11 de esta Ley.
 
 III. Anuncio adosado: El que se adhiere o sujeta por cualquier medio a una fachada, muro, barda o barandilla;
 
@@ -166,7 +172,9 @@ XXX. Pantalla electrónica: El instrumento que transmite mensajes mediante un si
 
 XXXI. Propaganda comercial: Mensajes escritos o en imágenes relativos a la compra, venta, consumo o alquiler de bienes y servicios;
 
-XXXII. Propaganda electoral: Los mensajes que señala el Código Electoral del Distrito Federal, tales como escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante la campaña electoral producen y difunden los partidos políticos, los candidatos registrados y sus simpatizantes, con el propósito de presentar ante la ciudadanía las candidaturas registradas;
+> <small>(REFORMADA, G.O. 6 DE JULIO DE 2015)</small>
+
+XXXII. Propaganda electoral: Aquella a la que se refiere la legislación electoral correspondiente.
 
 XXXIII. Propaganda institucional: Mensajes relativos a las acciones que realiza con fines de comunicación social, educativos o de orientación social, sin incluir nombres, imágenes, voces o símbolos que impliquen la promoción personal de cualquier servidor público;
 
@@ -176,7 +184,9 @@ XXXV. Publicista: Persona física o moral dedicada a la instalación y explotaci
 
 XXXVI. Responsable de un inmueble: Persona física o moral que tenga la propiedad, posesión, administración, disposición, uso o disfrute de un bien inmueble y permita la instalación de un anuncio en el mismo;
 
-XXXVII. Responsable solidario: El publicista o el responsable de un inmueble, que interviene en la instalación de un anuncio;
+> <small>(REFORMADA, G.O. 6 DE JULIO DE 2015)</small>
+
+XXXVII. Responsable solidario: El publicista, el anunciante, la agencia de medios, el titular de la marca o producto, o el responsable de un inmueble, que interviene en la instalación de un anuncio;
 
 XXXVIII. Secretaría: Secretaría de Desarrollo Urbano y Vivienda;
 
@@ -186,19 +196,27 @@ XL. Vías primarias: Espacios públicos destinados al tránsito vehicular o peat
 
 XLI. Vías secundarias: Espacios públicos destinados al tránsito vehicular o peatonal o ambos, ubicados en el interior de pueblos, barrios, colonias o zonas habitacionales urbanas y rurales, siempre que no estén consideradas como vías primarias, y
 
-XLII. Suelo de conservación: La clasificación establecida en la fracción II del artículo 30 de la Ley de Desarrollo Urbano del Distrito Federal.
+> <small>(REFORMADA, G.O. 6 DE JULIO DE 2015)</small>
+
+XLII. Suelo de Conservación: Las zonas que por sus características ecológicas proveen servicios ambientales, de conformidad con lo establecido en la Ley Ambiental de Protección a la Tierra en el Distrito Federal, necesarios para el mantenimiento de calidad de vida de los habitantes del Distrito Federal;
 
 > <small>(ADICIONADA, G.O. 21 DE AGOSTO DE 2012)</small>
 
 XLIII. Muros ciegos: Los muros de colindancia que carezcan de vanos.
 
+> <small>(ADICIONADA, G.O. 6 DE JULIO DE 2015)</small>
+
+XLIV. Patrocinio: Respaldo económico otorgado para la promoción de una persona física o moral o para la realización de una actividad.
+
 ###### Artículo 4.
 
 Las señales de tránsito y la instalación de anuncios en vehículos automotores se regirán por la Ley de Transporte y Vialidad del Distrito Federal, el Reglamento de Tránsito Metropolitano y los demás ordenamientos que resulten aplicables.
 
+> <small>(REFORMADO, G.O. 6 DE JULIO DE 2015)</small>
+
 ###### Artículo 5.
 
-La publicidad en el interior de las instalaciones del Sistema de Transporte Colectivo, del Metrobús y del Servicio de Transportes Eléctricos del Distrito Federal, se regirá por las disposiciones que establezcan sus respectivos órganos de gobierno. Cuando se trate de publicidad exterior, se regirá por las disposiciones de la presente Ley.
+La publicidad en el interior de las instalaciones del Sistema de Transporte Colectivo, del Metrobús y del Servicio de Transportes Eléctricos del Distrito Federal, se regirá por las disposiciones que establezcan sus respectivos órganos de gobierno. Así mismo los recursos generados por la contraprestación deberán ser ejercidos por el Sistema de Transporte Colectivo, el Metrobús, el Servicio de Transportes Eléctricos, respectivamente, para garantizar el servicio, mantenimiento y funcionamiento de sus instalaciones.
 
 ### CAPÍTULO SEGUNDO. DE LA COMPETENCIA
 
@@ -216,7 +234,9 @@ IV. Elaborar la propuesta de ubicación de nodos publicitarios y someterla al Co
 
 V. Determinar la distribución de los espacios para anuncios en los nodos publicitarios y en los corredores publicitarios, mediante acuerdo fundado y motivado que deberá publicarse en la Gaceta Oficial del Distrito Federal;
 
-VI. Otorgar, y en su caso revocar, los Permisos Administrativos Temporales Revocables de espacios para anuncios en los nodos publicitarios;
+> <small>(REFORMADA, G.O. 6 DE JULIO DE 2015)</small>
+
+VI. Otorgar, y en su caso revocar, los permisos administrativos temporales revocables de espacios para anuncios en los nodos publicitarios, de acuerdo a lo establecido en esta Ley.
 
 > <small>(REFORMADA, G.O. 21 DE AGOSTO DE 2012)</small>
 
@@ -282,15 +302,27 @@ VIII. El Jefe Delegacional de la demarcación territorial a la que correspondan 
 
 IX. Dos contralores ciudadanos;
 
-> <small>(REFORMADA, G.O. 21 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, G.O. 6 DE JULIO DE 2015)</small>
 
-X. Tres representantes de asociaciones u organizaciones o consejos dedicados a la publicidad exterior, mismos que durarán en este encargo dos años.
+X. Cuatro representantes de asociaciones u organizaciones o consejos de personas físicas o morales dedicados a la publicidad exterior, que cuenten con registro de inventarios de anuncios y/o permisos administrativos temporal (sic) revocables en el Programa de Reordenamiento de Anuncios ante la Secretaría y la Autoridad del Espacio Público, quienes durarán en este encargo dos años y se podrán reelegir por un periodo igual.
 
-XI. Un académico experto en la materia.
+> <small>(REFORMADA, G.O. 6 DE JULIO DE 2015)</small>
+
+XI. Dos académicos expertos en la materia; destacados y que provenga uno de una institución educativa pública y el segundo de alguna institución educativa o de investigación, afín a los objetivos de esta Ley.
 
 Los integrantes del Consejo podrán nombrar a un suplente.
 
 El Consejo de Publicidad Exterior se auxiliará de un Secretario Técnico que será designado por el titular de la Secretaría.
+
+> <small>(ADICIONADO, G.O. 6 DE JULIO DE 2015)</small>
+
+###### Artículo 8 Bis.
+
+Las prohibiciones para formar parte del Consejo de Publicidad Exterior:
+
+I. Aquella persona que se ostente como representante de algún gremio publicitario ante el Consejo de publicidad exterior y al mismo tiempo ocupe algún cargo administrativo que marca el artículo 8 de la fracción I a la VIII de esta Ley.
+
+II. Haber sido juzgado y condenado por delito de carácter patrimonial.
 
 ###### Artículo 9.
 
@@ -346,7 +378,9 @@ El cambio del cartel publicitario, de un anuncio podrá realizarse en cualquier 
 
 En el territorio del Distrito Federal quedan prohibidos los anuncios de propaganda comercial e institucional:
 
-I. Instalados en los bienes del dominio público del Distrito Federal, excepto en los nodos publicitarios, en tapiales, vallas, en el mobiliario urbano y en enseres destinados para la recepción de autos, en los términos que disponga la presente Ley;
+> <small>(REFORMADA, G.O. 6 DE JULIO DE 2015)</small>
+
+I. Instalados en los bienes del dominio público del Distrito Federal, excepto en los nodos publicitarios, en tapiales, muros ciegos, vallas, en el mobiliario urbano y en enseres destinados para la recepción de autos, así como en los estacionamientos públicos, en los términos que disponga la presente Ley.
 
 II. Instalados en las azoteas de las edificaciones, sean éstas públicas o privadas;
 
@@ -354,13 +388,17 @@ III. Instalados en inmuebles privados, excepto los instalados en inmuebles ubica
 
 IV. Pintados en los muros, bardas o fachadas de edificaciones públicas o privadas;
 
-V. Con estructuras instaladas en vehículos de propiedad pública o privada y cuyo único fin sea difundir anuncios de propaganda;
+> <small>(REFORMADA, G.O. 6 DE JULIO DE 2015)</small>
+
+V. Consistentes en Vallas móviles, pantallas, anuncios volumétricos o cualquier tipo de estructura instalada en vehículos motorizados y no motorizados de propiedad pública o privada que difunda anuncios de propaganda;
 
 VI. Integrados en lonas, mantas, telones, lienzos, y en general, en cualquier otro material similar, sujetos, adheridos o colgados en los inmuebles públicos o privados, sea en sus fachadas, colindancias, azoteas o en cualquier otro remate o parte de la edificación;
 
 VII. Instalados en saliente, cualquiera que sea su dimensión;
 
-VIII. Adosados y autosoportados que comprendan cuerpos en movimiento o realzados de la superficie;
+> <small>(REFORMADA, G.O. 6 DE JULIO DE 2015)</small>
+
+VIII. Adosados, autosoportados o de cualquier otro tipo que comprendan cuerpos en movimiento o realzados de la superficie.
 
 IX. Proyectados sobre las edificaciones públicas o privadas, desde un vehículo en movimiento;
 
@@ -392,9 +430,27 @@ III. Anuncios de información cívica, cultural o de patrocinio, en mobiliario u
 
 Tratándose de las áreas de valor ambiental, y de las áreas naturales protegidas, queda prohibida toda forma de publicidad exterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE JULIO DE 2015)</small>
+
 ###### Artículo 15.
 
-El anunciante solo podrá contratar anuncios con publicistas que cuenten con Permiso Administrativo Temporal Revocable, licencia o autorización temporal vigentes otorgados de conformidad con lo previsto en esta Ley.
+El anunciante solo podrá contratar anuncios con publicistas que cuenten con Permiso Administrativo Temporal Revocable, licencia, autorización temporal vigentes otorgados de conformidad con lo previsto en esta Ley, o bien respecto de aquellos anuncios que estando dentro del inventario del Programa de Reordenamiento de Anuncios haya sido acordada su reubicación. No podrán ser contratados los anuncios que estando dentro del Programa se reubiquen sin autorización.
+
+> <small>(ADICIONADO, G.O. 6 DE JULIO DE 2015)</small>
+
+En caso del incumplimiento de lo estipulado en el párrafo anterior, el anunciante será considerado Responsable Solidario del pago de multas y gastos causados por el retiro de anuncios que ordene la autoridad.
+
+> <small>(ADICIONADO, G.O. 6 DE JULIO DE 2015)</small>
+
+###### Artículo 15 Bis.
+
+En el Distrito Federal, los anuncios podrán instalarse con o sin iluminación, pero tratándose del primer supuesto el nivel de iluminación directa al anuncio podrá ser de hasta 600 luxes siempre que su reflejo a los automovilistas y peatones no exceda de 50 luxes, dentro de un horario de 18:00 horas a 06:00 horas del día siguiente.
+
+La iluminación de las pantallas electrónicas hacia los automovilistas y peatones no podrá exceder de 325 nits, dentro de un horario de 18:00 horas a 06:00 horas del día siguiente.
+
+Los titulares de permisos y licencias deberán incorporar el uso de leds para la iluminación de anuncios; asimismo, deberán otorgar a favor del Gobierno del Distrito Federal, sin costo, el diez por ciento del tiempo de exhibición al día para emitir mensajes institucionales. A fin de preservar la seguridad de los peatones, usuarios de transporte público, operadores y automovilistas, queda prohibida la exhibición de videos en anuncios autosoportados unipolares, o aquellos contenidos en vallas, tapiales, mobiliario urbano o en cualquier otro tipo de anuncio; los anuncios en pantalla cuyo contenido consista en imágenes fijas, no podrán tener una duración menor de dos minutos.
+
+En el caso de vallas, la luminosidad de las pantallas no podrá exceder de 325 nits, además, deberán contar con sensor de intensidad y sistema automático de ajuste de esta, que reduzca la misma al nivel permitido.
 
 ### CAPÍTULO SEGUNDO. DE LOS ANUNCIOS EN INMUEBLES
 
@@ -552,7 +608,39 @@ I. El Anillo Periférico, en el tramo comprendido por los boulevares Manuel Ávi
 
 II. La calzada San Antonio Abad; la calzada de Tlalpan; la calzada Patriotismo; calzada Zaragoza, y Canal de Miramontes; y
 
-III. Las demás vías primarias que determine el Consejo de Publicidad Exterior mediante acuerdo fundado y motivado que deberá publicarse en la Gaceta Oficial del Distrito Federal.
+> <small>(ADICIONADA, G.O. 6 DE JULIO DE 2015)</small>
+
+III. Calzada Melchor Ocampo en su tramo de 3.5 km que comprende de la Avenida Marina Nacional al Eje 4 Sur Benjamín Franklin;
+
+> <small>(ADICIONADA, G.O. 6 DE JULIO DE 2015)</small>
+
+IV. Boulevard Puerto Aéreo en su tramo de 4.4 km que comprende de la Avenida Oceanía al Viaducto Río Piedad;
+
+> <small>(ADICIONADA, G.O. 6 DE JULIO DE 2015)</small>
+
+V. Avenida Río Churubusco en su tramo de 6 km que corresponde a la Avenida Insurgentes a la Avenida Cerro de las Torres;
+
+> <small>(ADICIONADA, G.O. 6 DE JULIO DE 2015)</small>
+
+VI. Viaducto Miguel Alemán, Viaducto Rio Piedad;
+
+> <small>(ADICIONADA, G.O. 6 DE JULIO DE 2015)</small>
+
+VII. Insurgentes Norte, Insurgentes Centro en su tramo que comprende de Avenida Puente de Alvarado a Avenida Buenavista;
+
+> <small>(ADICIONADA, G.O. 6 DE JULIO DE 2015)</small>
+
+VIII. Avenida Constituyentes, a partir de su intersección con el periférico Manuel Ávila Camacho hacia el poniente de la Ciudad.;
+
+> <small>(ADICIONADA, G.O. 6 DE JULIO DE 2015)</small>
+
+IX. Avenida Universidad, a partir de su intersección con avenida Cuauhtémoc, hasta el eje 10 sur y; y
+
+> <small>(ADICIONADA, G.O. 6 DE JULIO DE 2015)</small>
+
+X. Avenida Cuauhtémoc a partir de su intersección con el viaducto Río Piedad hacia el sur.
+
+XI. Las demás vías primarias que determine el Consejo de Publicidad Exterior mediante acuerdo fundado y motivado que deberá publicarse en la Gaceta Oficial del Distrito Federal.
 
 > <small>(REFORMADO, G.O. 21 DE AGOSTO DE 2012)</small>
 
@@ -594,6 +682,10 @@ X. Los anuncios adheridos que se instalen en muros ciegos, no deberán rebasar e
 
 El mobiliario urbano con publicidad integrada sólo podrá instalarse de conformidad con las disposiciones de la presente Ley.
 
+> <small>(ADICIONADO, G.O. 6 DE JULIO DE 2015)</small>
+
+No se considerará mobiliario urbano los enseres utilizados para el servicio de acomodadores de vehículos.
+
 ###### Artículo 43.
 
 En ningún caso la Secretaría podrá autorizar mobiliario urbano destinado exclusivamente a exhibir publicidad ni considerar la instalación de anuncios en el mueble urbano como causa determinante para autorizarlo. El motivo para autorizar la instalación de mobiliario urbano será exclusivamente la necesidad social del mueble y no podrá instalarse en las Áreas de Conservación Patrimonial ni en suelo de Conservación, áreas verdes, jardines, parques, áreas de valor ambiental, áreas naturales protegidas, zonas arboladas, salvo los que autorice la Secretaría conforme a las disposiciones de la presente Ley.
@@ -603,6 +695,14 @@ El servidor público que autorice la instalación de mobiliario urbano u otorgue
 ###### Artículo 44.
 
 Para integrar publicidad al mobiliario urbano, será necesario obtener licencia de la Secretaría.
+
+> <small>(ADICIONADO, G.O. 6 DE JULIO DE 2015)</small>
+
+Tratándose de los enseres utilizados para el servicio de acomodadores de vehículos, será necesario presentar aviso a la Secretaría, debiendo anexar al mismo el pago de derechos ante la Tesorería, conforme a lo establecido en el artículo 305 inciso b) del Código Fiscal del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 6 DE JULIO DE 2015)</small>
+
+Artículo 44 bis. No se requerirá licencia en los términos de la presente ley, tratándose de espacios publicitarios que puedan ser visibles desde la vía pública siempre y cuando se trate de proyectos de infraestructura de transporte masivo o colectivo avalados por la Administración Pública del Distrito Federal.
 
 ###### Artículo 45.
 
@@ -702,7 +802,9 @@ I. Que la autoridad convocante es el Consejo de Publicidad Exterior;
 
 II. El objeto de la convocatoria;
 
-III. La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases y especificaciones que regirán el sorteo público y el costo de dichas bases;
+> <small>(REFORMADA, G.O. 6 DE JULIO DE 2015)</small>
+
+III. Lugares, fechas y horarios en los que los interesados podrán obtener las bases y especificaciones que regirán el sorteo público y el costo de dichas bases;
 
 IV. Las características generales del bien que será materia del Permiso, las cuales incluirán el croquis de la ubicación del predio y, en su caso, la delimitación del espacio a usar y aprovechar, acompañado de medidas, linderos y colindancias;
 
@@ -792,7 +894,9 @@ X. Los seguros o fianzas de desempeño que, en su caso, sea necesario contratar.
 
 Son obligaciones de los permisionarios:
 
-I. Usar y aprovechar el bien de conformidad con el Permiso correspondiente;
+> <small>(REFORMADA, G.O. 6 DE JULIO DE 2015)</small>
+
+I. Usar y aprovechar el bien de conformidad con el Permiso correspondiente, no se podrán hacer adecuaciones, instalaciones y/o uso de los espacios asignados en los nodos publicitarios sin la expedición previa de la autorización o del Permiso Administrativo Temporal Revocable correspondiente.
 
 II. Proporcionar a la Secretaría, cuando así lo exija, todos los informes, datos y documentos que se requieran para conocer y evaluar el aprovechamiento del bien objeto del Permiso. Para tal efecto, los permisionarios deberán proporcionar a la Secretaría todos los informes y datos necesarios para el cumplimiento de sus funciones;
 
@@ -808,13 +912,21 @@ IV. Respetar el entorno natural, particularmente los árboles, asegurando en tod
 
 V. En general, cumplir con las disposiciones del Permiso y demás ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE JULIO DE 2015)</small>
+
 ###### Artículo 62.
 
-La Secretaría deberá conservar en forma ordenada y sistemática toda la documentación de los Permisos, de conformidad con lo establecido en la Ley de Archivos del Distrito Federal.
+La Secretaría y las Delegaciones deberán conservar en forma ordenada y sistemática toda la documentación de los Permisos, Autorizaciones y Licencias de conformidad con lo establecido en la Ley de Archivos del Distrito Federal.
 
-Asimismo, la Secretaría deberá publicar en su página de internet un listado de los permisos otorgados que incluya fecha de expedición y vigencia del permiso, ubicación del anuncio para cuya instalación fue expedido, nombre o razón social del permisionario, número de folio y monto del recibo de pago de derechos correspondiente.
+> <small>(REFORMADO, G.O. 6 DE JULIO DE 2015)</small>
+
+Asimismo, la Secretaría y las Delegaciones deberán publicar en su página de internet un listado de los Permisos, Autorizaciones y Licencias, que en sus respectivos ámbitos de competencia expidan en materia de publicidad exterior o hayan otorgado, el cual deberá incluir la fecha de expedición y vigencia del permiso, ubicación del anuncio para cuya instalación fue expedido, nombre o razón social del permisionario, número de folio y monto del recibo de pago de derechos correspondiente.
 
 El listado a que se refiere el párrafo anterior, deberá permanecer actualizado de conformidad con las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 6 DE JULIO DE 2015)</small>
+
+La omisión o inactividad de lo prescrito en este artículo será causal de sanción para el responsable de realizar la actividad por parte de la Secretaría y/o Delegación.
 
 ###### Artículo 63.
 
@@ -860,15 +972,23 @@ VIII. Las demás que establezca esta Ley y otros ordenamientos aplicables.
 
 Cuando se actualice cualquiera de las causas de extinción de los Permisos, la Secretaría podrá tomar de inmediato posesión del bien sin indemnización alguna.
 
+> <small>(REFORMADO, G.O. 6 DE JULIO DE 2015)</small>
+
 ###### Artículo 67.
 
-La construcción del anuncio que deba realizar el permisionario, sólo podrá llevarse a cabo previa aprobación de los estudios y proyectos correspondientes por parte de la Secretaría. La construcción y mantenimiento del anuncio se llevará a cabo bajo la supervisión de un Director Responsable de Obra, y en su caso, de un Corresponsable en Seguridad Estructural.
+La construcción y operación del anuncio que deba realizar el permisionario, sólo podrá llevarse a cabo previa aprobación de los estudios y proyectos correspondientes por parte de la Secretaría y previa obtención de la autorización, Licencia y/o Permiso Administrativo Temporal Revocable por parte de la Secretaría. La construcción y mantenimiento del anuncio se llevará a cabo bajo la supervisión de un Director Responsable de Obra, y en su caso, de un Corresponsable en Seguridad Estructural
 
 ###### Artículo 68.
 
 Excepcionalmente la Secretaría podrá otorgar Permisos Administrativos Temporales Revocables para el uso y aprovechamiento de nodos publicitarios, a cambio de la construcción, modificación o ampliación de infraestructura urbana.
 
-En todo caso, la Secretaría propondrá al Consejo de Publicidad Exterior la ubicación del nodo publicitario para su aprobación. La Secretaría otorgará el Permiso Administrativo Temporal Revocable cuya vigencia será determinada considerando el monto de inversión destinado a la construcción, modificación o ampliación de la infraestructura urbana de que se trate, mismo que no podrá ser menor del valor total del permiso por el espacio adjudicado para la utilización del nodo. En cualquier caso, la vigencia no podrá exceder de siete años.
+> <small>(REFORMADO, G.O. 6 DE JULIO DE 2015)</small>
+
+En este caso y exceptuando los Permisos Administrativos Temporales Revocables ya otorgados por la Administración Pública del Gobierno del Distrito Federal, la Secretaría propondrá al Consejo de Publicidad Exterior la ubicación del nodo publicitario para su aprobación. La Secretaria otorgará el Permiso Administrativo Temporal Revocable cuya vigencia será de hasta 7 años renovables y la misma será determinada considerando el monto de inversión destinado a la construcción, modificación o ampliación de la infraestructura urbana de que se trate, mismo que no podrá ser menor del valor total del permiso por el espacio adjudicado para la utilización del nodo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 6 DE JULIO DE 2015)</small>
+
+El titular del Permiso Administrativo Temporal Revocable gozará del derecho preferente al término de su vigencia.
 
 Una vez concluida la vigencia del Permiso Administrativo Temporal Revocable, los que se otorguen con posterioridad para el uso de los espacios para anuncios en el nodo publicitario se otorgarán previo sorteo público y su vigencia será de cinco años prorrogable hasta por dos veces.
 
@@ -876,15 +996,21 @@ Las obras de construcción, modificación o ampliación de la infraestructura ur
 
 ### CAPÍTULO TERCERO. DE LAS LICENCIAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE JULIO DE 2015)</small>
 
 ###### Artículo 69.
 
-La licencia de anuncios en corredores publicitarios que expida la Secretaría, permitirá a una persona física o moral la instalación de un anuncio autosoportado y unipolar o de un adherido a muro ciego en la parte del corredor publicitario expresamente determinada por la Secretaría, por un plazo de un año que podrá prorrogarse.
+La licencia de anuncios en corredores publicitarios que expida la Secretaría, permitirá a una persona física o moral la instalación de un anuncio autosoportado y unipolar o de un adherido a muro ciego en la parte del corredor publicitario expresamente determinada por la Secretaría, por un plazo de hasta tres años.
 
 La Secretaría expedirá la licencia, previo pago que el solicitante haga de los derechos correspondientes.
 
-La licencia de anuncios en vallas permitirá a una persona física o moral, la instalación de un anuncio por un plazo de un año prorrogable. La expedición de las licencias a que se refiere este párrafo se regirán por las normas aplicables a la expedición de las licencias de anuncios en corredores publicitarios.
+> <small>(REFORMADO, G.O. 6 DE JULIO DE 2015)</small>
+
+La licencia de anuncios en vallas permitirá a una persona física o moral, la instalación de un anuncio por un plazo de hasta tres años. La expedición de las licencias a que se refiere este párrafo se regirán por las normas aplicables a la expedición de las licencias de anuncios en corredores publicitarios.
+
+> <small>(ADICIONADO, G.O. 6 DE JULIO DE 2015)</small>
+
+Las personas físicas y morales sólo podrán realizar la instalación de anuncios en las ubicaciones autorizadas por la Secretaría y/o Autoridad del Espacio Público del Distrito Federal para reubicación, de anuncios ya sea autosoportados o adheridos a muros ciegos, debiendo tramitar la Licencia expedida por la Secretaría, en caso contrario no se emitirá la Licencia respectiva y se ordenará el retiro del anuncio a su costo.
 
 ###### Artículo 70.
 
@@ -907,6 +1033,10 @@ VII. Una declaración bajo protesta de decir verdad del responsable de la obra, 
 > <small>(ADICIONADO, G.O. 21 DE AGOSTO DE 2012)</small>
 
 No podrán otorgarse licencias a aquellas personas físicas o morales que hayan sido sancionadas en tres ocasiones por la comisión de una infracción prevista en esta Ley ni aquellas a las que les haya sido revocada una Licencia o un Permiso Administrativo Temporal Revocable en los nueve meses anteriores a la presentación de la solicitud.
+
+> <small>(ADICIONADO, G.O. 6 DE JULIO DE 2015)</small>
+
+No podrán instalarse anuncios no autorizados, o sin obtener previamente la Licencia, Permiso Administrativo Temporal revocable o Autorización Temporal.
 
 ###### Artículo 71.
 
@@ -936,7 +1066,9 @@ V. Recibo de pago de los derechos correspondientes previstos en el Código Fisca
 
 VI. Fecha y firma del solicitante;
 
-VII. Una declaración bajo protesta de decir verdad del responsable de la obra, donde señale que no se afectarán árboles con motivo de las obras que se puedan llevar a cabo ni en las instalaciones de los anuncios.
+> <small>(REFORMADA, G.O. 6 DE JULIO DE 2015)</small>
+
+VII. Una declaración bajo protesta de decir verdad del responsable de la obra, relativa a la instalación y demás circunstancias que deriven de la instalación del anuncio de que se trate, donde señale que no se afectarán árboles con motivo de las obras que se puedan llevar a cabo ni en las instalaciones de los anuncios.
 
 ###### Artículo 73.
 
@@ -978,7 +1110,13 @@ IV. No dar mantenimiento al anuncio;
 
 V. Tirar o podar árboles en contravención a las disposiciones legales aplicables; y
 
-VI. Las demás que establezca esta Ley y otros ordenamientos aplicables.
+> <small>(REFORMADA, G.O. 6 DE JULIO DE 2015)</small>
+
+VI. Instalar el anuncio en contravención a los requisitos de distancia, altura o cualquier otro que señale la Ley; y
+
+> <small>(ADICIONADA, G.O. 6 DE JULIO DE 2015)</small>
+
+VII. Las demás que establezca esta Ley y otros ordenamientos aplicables.
 
 ### CAPÍTULO CUARTO. DE LAS AUTORIZACIONES TEMPORALES
 
@@ -1010,7 +1148,9 @@ V. Recibo de pago de los derechos correspondientes previstos en el Código Fisca
 
 VI. Fecha y firma del solicitante;
 
-VII. Una declaración bajo protesta de decir verdad del responsable de la obra, donde señale que no se afectarán árboles con motivo de las obras que se puedan llevar a cabo ni en las instalaciones de los anuncios.
+> <small>(REFORMADA, G.O. 6 DE JULIO DE 2015)</small>
+
+VII. Una declaración bajo protesta de decir verdad del responsable de la obra, relativa a la instalación, o con motivo del anuncio que se trate, donde señale que no se afectarán árboles con motivo de las obras que se puedan llevar a cabo ni en las instalaciones de los anuncios.
 
 ###### Artículo 78.
 
@@ -1046,13 +1186,21 @@ III. A los elementos de policía de la Secretaría de Seguridad Pública corresp
 
 Las sanciones previstas en esta Ley se aplicarán sin perjuicio de las previstas en la Ley de Desarrollo Urbano del Distrito Federal y demás ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE JULIO DE 2015)</small>
+
 ###### Artículo 82.
 
-Serán solidariamente responsables del pago de las multas y de los gastos causados por el retiro de anuncios que ordene la autoridad, quienes hayan intervenido en la instalación del anuncio. Se presume, salvo prueba en contrario, que han intervenido en la instalación del anuncio:
+Independientemente de las sanciones de carácter civil, serán solidariamente responsables del pago de las multas y de los gastos causados por el retiro de anuncios que ordene la autoridad, quienes hayan intervenido en la instalación del anuncio. Se presume, salvo prueba en contrario, que han intervenido en la instalación del anuncio:
 
 I. El publicista; y
 
-II. El responsable de un inmueble.
+> <small>(REFORMADA, G.O. 6 DE JULIO DE 2015)</small>
+
+II. El responsable de un inmueble o mueble;
+
+> <small>(ADICIONADA, G.O. 6 DE JULIO DE 2015)</small>
+
+III. El anunciante, titular de la marca o producto o cualquier persona física o moral que intervenga en la comercialización de los espacios publicitarios, en los términos establecidos en esta Ley.
 
 Las lonas, mantas y materiales similares, adosados a los inmuebles, y los objetos publicitarios colocados provisionalmente sobre las banquetas o el arroyo vehicular, serán considerados bienes abandonados y la autoridad administrativa podrá retirarlos directamente.
 
@@ -1068,9 +1216,11 @@ Todo ciudadano que advierta la instalación flagrante de un anuncio en contraven
 
 Toda persona podrá presentar ante la Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal denuncia ciudadana por presuntos actos, hechos u omisiones que constituyan o puedan constituir relación, incumplimiento o falta de la aplicación de las disposiciones conferidas en esta Ley y las disposiciones que de ella deriven en los términos dispuestos en la Ley de dicha Entidad.
 
-### CAPÍTULO SEGUNDO. DE LAS INFRACCIONES Y SUS SANCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE JULIO DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+### CAPÍTULO SEGUNDO. DE LOS DELITOS E INFRACCIONES CONTRA LA PROTECCIÓN, CONSERVACIÓN Y REGULACIÓN DEL PAISAJE URBANO Y DEL AMBIENTE
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE JULIO DE 2015)</small>
 
 ###### Artículo 85.
 
@@ -1082,19 +1232,15 @@ En caso de que el infractor cometa por tercera ocasión la misma infracción pre
 
 Quienes resulten afectados en su interés legítimo, en los términos de la Ley de Procedimiento Administrativo del Distrito Federal, pueden ejercer las acciones correspondientes ante las autoridades competentes, cuando se hayan otorgado permisos, licencias y autorizaciones temporales en contravención a las disposiciones contenidas en la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 6 DE JULIO DE 2015)</small>
 
 ###### Artículo 86.
 
-Se sancionará con multa de 1500 a 2000 veces la Unidad de Cuenta de la Ciudad de México vigente, arresto administrativo inconmutable de 24 a 36 horas y el retiro del anuncio a su costa al publicista y al responsable solidario que sin contar con el Permiso Administrativo Temporal Revocable, licencia o autorización temporal respectivo, ejecute o coadyuve en la instalación de un anuncio.
+Se sancionará con multa de 1500 a 2000 veces la Unidad de Cuenta de la Ciudad de México vigente, y arresto administrativo inconmutable de 24 a 36 horas al publicista, anunciante, y cualquier persona física o moral que intervenga en la comercialización de los espacios publicitarios, así como el retiro del anuncio a costa del primero, que sin contar con el permiso administrativo temporal revocable, licencia o autorización temporal respectivo, ejecute o coadyuve en la instalación de un anuncio.
 
-Cuando el infractor cometa por segunda ocasión la misma infracción prevista en este artículo, será sancionado con el doble de la multa impuesta en la primera ocasión, arresto administrativo inconmutable de 24 a 36 horas y retiro del anuncio a su costa.
+La Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal realizará ante la autoridad administrativa competente o ante el Tribunal de lo Contencioso Administrativo del Distrito Federal, la acción que considere pertinente para demandar la anulación de actos administrativos dictados en contra de las disposiciones contenidas en esta Ley y demás disposiciones jurídicas de que (sic) ella emanen, cuya consecuencia sea la afectación o posibilidad de afectación del derecho de los habitantes del Distrito Federal a gozar de un entorno natural y urbano armónico que propicie una mejor calidad de vida.
 
-En caso de que el infractor cometa por tercera ocasión la misma infracción prevista en este artículo, será sancionado con el doble de la multa impuesta en la segunda ocasión y el retiro del anuncio a su costa. El Instituto presentará además, ante el Ministerio Público, la denuncia o querella por la comisión del delito que corresponda.
-
-La Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal podrá realizar ante la autoridad administrativa competente o ante el Tribunal de lo Contencioso Administrativo del Distrito Federal, la acción que considere pertinente para demandar la anulación de actos administrativos dictados en contra de las disposiciones contenidas en esta Ley y demás disposiciones jurídicas de que ella emanen, cuya consecuencia sea la afectación o posibilidad de afectación del derecho de los habitantes del Distrito Federal a gozar de un entorno natural y urbano armónico que propicie una mejor calidad de vida.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE JULIO DE 2015)</small>
 
 ###### Artículo 87.
 
@@ -1106,7 +1252,7 @@ En caso de que el infractor cometa por tercera ocasión la misma infracción pre
 
 Cuando los pendones o gallardetes contengan publicidad relativa a la venta de inmuebles y no se haya expedido la autorización de uso y ocupación respectiva, la Delegación condicionará la expedición de dicha autorización al pago de la multa y al retiro de los pendones o gallardetes respectivos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE JULIO DE 2015)</small>
 
 ###### Artículo 88.
 
@@ -1118,7 +1264,7 @@ En caso de que el infractor cometa por tercera ocasión la misma infracción pre
 
 En cualquier caso, cuando el anuncio contenga publicidad relativa a la celebración de un espectáculo público, las Delegaciones negarán el permiso para la celebración, o lo revocarán de oficio si ya lo hubieren expedido.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE JULIO DE 2015)</small>
 
 ###### Artículo 89.
 
@@ -1134,7 +1280,7 @@ Cuando el infractor cometa por segunda ocasión la misma infracción prevista en
 
 En caso de que el infractor cometa por tercera ocasión la misma infracción prevista en este artículo, será sancionado con el doble de la multa impuesta en la segunda ocasión, el retiro a su costa del anuncio y arresto administrativo inconmutable de 24 a 36 horas. El Instituto presentará además, ante el Ministerio Público, la denuncia o querella por la comisión del delito que corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE JULIO DE 2015)</small>
 
 ###### Artículo 90.
 
@@ -1144,7 +1290,7 @@ Cuando el infractor cometa por segunda ocasión la misma infracción prevista en
 
 En caso de que el infractor cometa por tercera ocasión la misma infracción prevista en este artículo, será sancionado con el doble de la multa impuesta en la segunda ocasión, el retiro a su costa del anuncio y arresto administrativo inconmutable de 24 a 36 horas. El Instituto presentará además, ante el Ministerio Público, la denuncia o querella por la comisión del delito que corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE JULIO DE 2015)</small>
 
 ###### Artículo 91.
 
@@ -1154,7 +1300,7 @@ Cuando el infractor cometa por segunda ocasión la misma infracción prevista en
 
 En caso de que el infractor cometa por tercera ocasión la misma infracción prevista en este artículo, será sancionado con el doble de la multa impuesta en la segunda ocasión, el retiro a su costa del anuncio y arresto administrativo inconmutable de 24 a 36 horas. El Instituto presentará además, ante el Ministerio Público, la denuncia o querella por la comisión del delito que corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE JULIO DE 2015)</small>
 
 ###### Artículo 92.
 
@@ -1168,7 +1314,7 @@ En caso de que el infractor cometa por tercera ocasión la misma infracción pre
 
 Si el mueble urbano consiste en una caseta telefónica o caja de registro de líneas telefónicas, el retiro del anuncio podrá consistir en la aplicación de pintura al mueble urbano.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE JULIO DE 2015)</small>
 
 ###### Artículo 93.
 
@@ -1178,11 +1324,15 @@ Cuando el infractor cometa por segunda ocasión la misma infracción prevista en
 
 En caso de que el infractor cometa por tercera ocasión la misma infracción prevista en este artículo, será sancionado con el doble de la multa impuesta en la segunda ocasión y el retiro a su costa del anuncio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE JULIO DE 2015)</small>
 
 ###### Artículo 94.
 
 Se sancionará con multa de 1500 a 2000 veces la Unidad de Cuenta de la Ciudad de México vigente y remisión del vehículo al depósito de la Secretaría de Seguridad Pública del Distrito Federal, al conductor de un vehículo desde el cual se proyecten anuncios sobre las edificaciones públicas o privadas, sea que el vehículo se encuentre en movimiento o estacionado.
+
+> <small>(ADICIONADO, G.O. 6 DE JULIO DE 2015)</small>
+
+La misma sanción se aplicará al conductor de un vehículo de propiedad pública o privada que se encuentre en movimiento o estacionado con cualquier tipo de estructura instalada, la cual difunda anuncios de propaganda.
 
 En todo caso, el propietario del vehículo será responsable solidario por las sanciones que se apliquen al conductor.
 
@@ -1192,11 +1342,73 @@ En caso de que el infractor cometa por tercera ocasión la misma infracción pre
 
 Los particulares o anunciantes que incumplan con las reglas de propaganda electoral que establezca la legislación electoral, estarán sujetos al régimen de sanciones que dispone este capitulo.
 
+> <small>(ADICIONADO, G.O. 6 DE JULIO DE 2015)</small>
+
+###### Artículo 94 Bis.
+
+Comete el delito en contra de la protección, conservación y regulación del paisaje urbano del Distrito Federal, quien permita la instalación o modificación en un inmueble de un anuncio autosoportado, en azotea, adosado, tapial, valla o muro ciego sin contar con la licencia, permiso o autorización que exija esta ley, y se le impondrá de tres a seis años de prisión, así como de 500 a 4000 veces la Unidad de Cuenta de la Ciudad de México vigente.
+
+Se entiende que permite la instalación o modificación, el propietario, poseedor, responsable o administrador del inmueble, o quien celebre convenio con persona cuyo objeto consista en la colocación y venta de espacios publicitarios.
+
+> <small>(ADICIONADO, G.O. 6 DE JULIO DE 2015)</small>
+
+###### Artículo 94 Ter.
+
+A quien tenga la propiedad, posesión, administración, disposición, uso o disfrute de una grúa o vehículo que se utilice, por sí o por interpósita persona, para la instalación de un anuncio autosoportado, en azotea, adosado, tapial, valla, o en muro ciego y cuya instalación o modificación se realice sin contar con licencia, permiso o autorización que exija esta ley, se le impondrán las mismas penas establecidas en el artículo anterior, además de las multas administrativas de tránsito respectivas, al vehículo, si fuere el caso.
+
+> <small>(ADICIONADO, G.O. 6 DE JULIO DE 2015)</small>
+
+###### Artículo 94 Quater.
+
+Comete delito contra el ambiente quien para ejecutar, preparar, instalar o modificar un anuncio autosoportado, en azotea, adosado, tapial, valla muro ciego, pode, desmoche o tale uno o más árboles sin autorización, permiso o licencia que exija la legislación aplicable, y se le impondrá de un año a cuatro años de prisión así como de 500 a 2000 veces la Unidad de Cuenta de la Ciudad de México vigente.
+
+Las penas previstas en este artículo se duplicarán cuando una o más de las conductas descritas en el párrafo anterior se desarrolle en suelo de conservación ecológica, área natural protegida, área de valor ambiental, barrancas o áreas verdes en suelo urbano, de conformidad con las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.O. 6 DE JULIO DE 2015)</small>
+
+Artículo 94 Quintus. Los delitos de este Capítulo se perseguirán por denuncia, asimismo, la reparación del daño será a favor del Gobierno del Distrito Federal, y consistirá en el retiro del anuncio instalado ilegalmente, o en el pago del costo del retiro del anuncio, cuando se haya llevado a cabo como medida precautoria según lo resuelva el Juez competente.
+
+> <small>(ADICIONADO, G.O. 6 DE JULIO DE 2015)</small>
+
+Artículo 94 Sextus. Se sancionará con multa de 1500 a 2000 veces la Unidad de Cuenta de la Ciudad de México vigente, y el retiro del anuncio a su costa, al titular de un Permiso Administrativo Temporal Revocable, Licencia o Autorización Temporal que incumpla con lo establecido en el artículo 15 Bis de ésta Ley.
+
+Cuando el infractor cometa por segunda ocasión la misma infracción prevista en este artículo, será sancionado con el doble de la multa impuesta en la primera ocasión y el retiro de los anuncios a su costa, si volviera a colocarlos.
+
+En caso de que el infractor cometa por tercera ocasión la misma infracción prevista en éste artículo, será sancionado con el doble de la multa impuesta en la segunda ocasión y el retiro a su costa del anuncio si lo coloca por tercera vez.
+
+El Instituto deberá presentar además, ante el ministerio público, la denuncia por la comisión del delito que corresponda.
+
+> <small>(ADICIONADO, G.O. 6 DE JULIO DE 2015)</small>
+
+Artículo 94 Septimus. A quien aun contando con registro dentro del Programa de Reordenamiento de Anuncios y Recuperación de la Imagen Urbana del Distrito Federal, instale un anuncio en alguna de las ubicaciones que ya han sido reubicadas de conformidad con el procedimiento establecido en los artículos Cuarto Transitorio de la Ley de Publicidad Exterior del Distrito Federal y Décimo Tercero Transitorio de su Reglamento, será sancionado con multa de 1500 a 2000 veces la Unidad de Cuenta de la Ciudad de México vigente, y arresto administrativo de 24 a 36 horas, así como el retiro del anuncio a costa del publicista o responsable solidario.
+
+El arresto administrativo será determinado por el Juez Cívico correspondiente, previa denuncia de la Dirección General de Asuntos Jurídicos de la Secretaría, la Coordinación General de la Autoridad del Espacio Público o el Instituto de Verificación Administrativa del Distrito Federal.
+
+Para efectos de este artículo serán solidariamente responsables quienes instalen el anuncio, el propietario poseedor o responsable del inmueble en que se realice la instalación, así como el anunciante.
+
 ### CAPÍTULO TERCERO. DE LOS MEDIOS DE IMPUGNACIÓN
 
 ###### Artículo 95.
 
 Los particulares que se consideren afectados por los actos de las autoridades previstos en esta Ley podrán, a su elección, interponer ante el superior jerárquico de la autoridad emisora, el recurso de inconformidad previsto en la Ley de Procedimiento Administrativo del Distrito Federal; o intentar el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Distrito Federal de conformidad con lo dispuesto por la Ley respectiva.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 6 DE JULIO DE 2015)</small>
+
+### CAPÍTULO CUARTO
+
+DE LAS PROHIBICIONES EN MATERIA DE PUBLICIDAD EXTERIOR.
+
+> <small>(ADICIONADO, G.O. 6 DE JULIO DE 2015)</small>
+
+###### Artículo 96.
+
+En materia de publicidad exterior se prohíbe publicitar cualquier imagen estática o en movimiento, que atente contra la dignidad de la persona o vulnere los valores o derechos humanos reconocidos en la Constitución.
+
+> <small>(ADICIONADO, G.O. 6 DE JULIO DE 2015)</small>
+
+###### Artículo 97.
+
+Las empresas publicitarias que no cumplan con lo prescrito en el artículo anterior se harán acreedoras a las sanciones del artículo 85 de esta Ley.
 
 T R A N S I T O R I O S
 
@@ -1271,3 +1483,45 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 6 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+###### ARTÍCULO SEGUNDO.
+
+Las presentes reformas y adiciones a la Ley entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO TERCERO.
+
+La instalación de pantallas electrónicas y pantallas de publicidad integradas a mobiliario urbano en cualquiera de sus modalidades, no podrá realizarse hasta en tanto se cuente con una Licencia o Permiso Administrativo Temporal Revocable vigente.
+
+Los propietarios de este tipo de anuncios que se encuentren instalados y en funcionamiento, tendrán 30 días hábiles contados a partir de la entrada en vigor del presente transitorio, para solicitar al Instituto el visto bueno por escrito para su operación, en razón de lo cual el Instituto además de constatar la existencia de Licencia o Permiso Administrativo Temporal Revocable vigente, inspeccionará físicamente que el anuncio cumpla con las obligaciones legales que impone esta Ley y su Reglamento, especialmente las relativas a los límites de nits y luxes máximos.
+
+Para el caso de no contar con el citado visto bueno, habiendo transcurrido los 30 días hábiles antes citados, se deberá apagar el anuncio, o retirarlo en caso de no contar con la Licencia o Permiso Administrativo Temporal Revocable vigente, con independencia de que el Instituto proceda a la realización de las visitas de verificación respectivas y en su caso determine las medidas cautelares y de seguridad o bien las sanciones señaladas en la presente Ley y acorde al procedimiento señalado en el Reglamento de Verificación Administrativa del Distrito Federal vigente.
+
+###### ARTÍCULO CUARTO.
+
+La aplicación y autorización de la incorporación de los corredores publicitarios referidos en el artículo 39, fracciones III, IV, V, VI, VII, VIII, IX y X, entrará en vigor a los 180 días contados a partir de la publicación en la Gaceta Oficial del Distrito Federal del presente decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Consejo de Publicidad Exterior, publicará en un plazo de 30 días contados a partir de la publicación del presente decreto, las especificaciones técnicas y operativas, así como los criterios de distribución entre las distintas empresas que en cada caso aplicará para cada uno de los corredores publicitarios referidos en el artículo 39, fracciones III, IV, V, VI, VII, VIII, IX y X.
+
+###### ARTÍCULO SEXTO.
+
+Todos los Permisos Administrativos Temporales Revocables que tengan como contraprestación la colocación de publicidad exterior en los términos de esta ley, deberán ser públicos en el portal de transparencia respectivo a más tardar en los 7 días posteriores a la firma del permiso informando por lo menos el nombre del permisionario y las características del permiso respectivo, así como la temporalidad del permiso y las retribuciones que tendrá el gobierno de la Ciudad.
+
+###### ARTÍCULO SÉPTIMO.
+
+El contenido de lo estipulado en el artículo 15 del presente ordenamiento aplicará también para aquellos publicistas incorporados al programa de reordenamiento de anuncios instrumentado en el 2004 y que hubiesen presentado su inventario de anuncios en el año antes mencionado.
+
+###### ARTÍCULO OCTAVO.
+
+A la entrada en vigor de las presentes reformas y adiciones, se derogan todas aquellas disposiciones contrarias a lo contenido en el presente ordenamiento, excepto las disposiciones en materia penal que seguirán sus propias reglas.
+
+###### ARTÍCULO NOVENO.
+
+En el Reglamento de esta ley se establecerán los criterios y requisitos que seguirá la Secretaría para determinar el tiempo de vigencia de las licencias para anuncios autosoportados o en muro ciego.
