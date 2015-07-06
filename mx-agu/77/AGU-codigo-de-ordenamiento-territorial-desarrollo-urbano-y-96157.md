@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-ordenamiento-territorial-desarrollo-urbano-y-96157"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-10-07"
-last_updated: "2015-06-15"
+last_updated: "2015-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE ORDENAMIENTO TERRITORIAL, DESARROLLO URBANO Y VIVIENDA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2015.
 
 Código publicado en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de octubre de 2013.
 
@@ -85,7 +85,9 @@ XVII.- Regular el Sistema Estatal de Suelo y Reservas Territoriales para el Orde
 
 XVIII.- Determinar las normas generales a las que se sujetará la regularización de la tenencia de la tierra urbana;
 
-XIX.- Fijar las normas generales de la infraestructura y el equipamiento vial, la movilidad urbana, el tránsito de vehículos y peatones, el uso de la bicicleta como medio alternativo de transporte no contaminante, los estacionamientos públicos y el sistema de transporte de carga y de pasajeros en la Entidad;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2015)</small>
+
+XIX.- Fijar las normas generales de la infraestructura y el equipamiento vial, la movilidad urbana, el tránsito de vehículos y peatones, el uso de la bicicleta como medio de transporte sostenible, alternativo y no contaminante, los estacionamientos públicos comprendiendo bici estacionamientos y el sistema de transporte de carga y de pasajeros en la Entidad;
 
 XX.- Normar la preservación del patrimonio cultural de los centros de población del Estado;
 
@@ -183,7 +185,9 @@ XXIX.- La aplicación de las medidas de prevención y protección de las obras, 
 
 XXX.- La prevención, atención y rehabilitación de riesgos y emergencias por desastres en los centros de población;
 
-XXXI.- La regulación de la infraestructura vial, la movilidad urbana sustentable, el tránsito de vehículos y peatones, los espacios para estacionamientos públicos y el sistema de transporte público local;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2015)</small>
+
+XXXI.- La regulación de la infraestructura vial, la movilidad urbana sustentable, el tránsito de vehículos y peatones; el uso de la bicicleta como medio alternativo de transporte sostenible, alternativo y no contaminante; los espacios para estacionamientos públicos y el sistema de transporte público local;
 
 XXXII.- El control del otorgamiento y operación de las concesiones para la prestación de los servicios públicos y la explotación de bienes de propiedad estatal y municipal;
 
@@ -269,7 +273,9 @@ XXVIII.- CENTRO DE MEDIACIÓN: al Centro de Mediación del Poder Judicial del Es
 
 XXIX.- CENTROS DE POBLACIÓN: las áreas constituidas por las zonas urbanizadas, las que se reserven a su expansión y las que se consideren no urbanizables por causas de preservación ecológica, prevención de riesgos y mantenimiento de actividades productivas dentro de los límites de dichos centros; así como, las que por resolución de la autoridad competente se provean para la fundación de los mismos;
 
-XXX.- CICLOVÍA: todo espacio físico o infraestructura vial destinada al tránsito de vehículos no motorizados de propulsión humana;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2015)</small>
+
+XXX.- CICLOVÍA: todo espacio físico o infraestructura vial destinada al tránsito de bicicletas;
 
 XXXI.- CÓDIGO: el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes;
 
@@ -593,9 +599,33 @@ CXC.- ZONA URBANA CONSOLIDADA: es aquella área situada dentro de los límites d
 
 CXCI.- ZONIFICACIÓN: la determinación de las áreas que integran y delimitan un centro de población, sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo;
 
-CXCII.- ZONIFICACIÓN PRIMARIA: la contenida en los programas de desarrollo urbano y ordenamiento territorial que comprende las acciones básicas de fundación, conservación, mejoramiento y crecimiento de los centros de población; y
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2015)</small>
 
-CXCIII.- ZONIFICACIÓN SECUNDARIA: la contenida en los programas de desarrollo urbano y ordenamiento territorial, que comprende los usos y destinos en que podrán utilizarse las áreas, lotes y predios particulares y públicos, respectivamente, así como, la determinación de reservas territoriales para la expansión física de los centros de población.
+CXCII.- ZONIFICACIÓN PRIMARIA: la contenida en los programas de desarrollo urbano y ordenamiento territorial que comprende las acciones básicas de fundación, conservación, mejoramiento y crecimiento de los centros de población;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2015)</small>
+
+CXCIII.- ZONIFICACIÓN SECUNDARIA: la contenida en los programas de desarrollo urbano y ordenamiento territorial, que comprende los usos y destinos en que podrán utilizarse las áreas, lotes y predios particulares y públicos, respectivamente, así como, la determinación de reservas territoriales para la expansión física de los centros de población;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2015)</small>
+
+CXCIV.- ÁREA DE ESPERA CICLISTA: zona que sirve de espacio de detención para los ciclistas durante el alto de un semáforo, la cual deberá ubicarse detrás del cruce de peatones y estará señalada con un ícono que represente una bicicleta;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2015)</small>
+
+CXCV.- BICICLETA: es un vehículo impulsado directamente por la fuerza humana, que consta de una o más ruedas, donde una o más personas se pueden sentar o montar y será un medio de transporte al usarse en la vía pública;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2015)</small>
+
+CXCVI.- BICI ESTACIONAMIENTOS: el lugar de uso público diseñado especialmente para el resguardo seguro de bicicletas;
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2015)</small>
+
+CXCVII.- CICLISTA: la persona que conduce una bicicleta; y
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2015)</small>
+
+CXCVIII.- CONSEJO DE MOVILIDAD: Consejo de Movilidad en Bicicletas.
 
 ###### ARTÍCULO 5º.
 
@@ -819,13 +849,17 @@ XII.- El Registro Público de la Propiedad y del Comercio.
 
 Las atribuciones concurrentes que en materia de ordenamiento del territorio, el desarrollo urbano y la vivienda establece este Código, serán ejercidas de manera coordinada por las autoridades estatales y municipales, en los ámbitos de su jurisdicción y competencia.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 17.
 
-La coordinación y concertación que en materia de ordenamiento del territorio, el desarrollo urbano, la vivienda, el patrimonio cultural y la infraestructura vial y el sistema de transporte público local se requiera por parte del Gobierno del Estado y de los ayuntamientos con las autoridades federales, se sujetará a las disposiciones previstas en este Código, en las leyes General de Asentamientos Humanos, de Vivienda, General del Equilibrio Ecológico y la Protección al Ambiente, General de Desarrollo Forestal Sustentable, Agraria, General de Bienes Nacionales, de Planeación, General de Protección Civil, de Aguas Nacionales, de Vías Generales de Comunicación y Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, en el Plan Nacional de Desarrollo y en los programas sectoriales, institucionales, especiales y regionales que de dicho Plan se deriven, así como en las demás disposiciones jurídicas aplicables.
+La coordinación y concertación que en materia de ordenamiento del territorio, el desarrollo urbano, la vivienda, el patrimonio cultural y la infraestructura vial, la movilidad y el sistema de transporte público local se requiera por parte del Gobierno del Estado y de los ayuntamientos con las autoridades federales, se sujetará a las disposiciones previstas en este Código, en las leyes General de Asentamientos Humanos, de Vivienda, General del Equilibrio Ecológico y la Protección al Ambiente, General de Desarrollo Forestal Sustentable, Agraria, General de Bienes Nacionales, de Planeación, General de Protección Civil, de Aguas Nacionales, de Vías Generales de Comunicación y Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, en el Plan Nacional de Desarrollo y en los programas sectoriales, institucionales, especiales y regionales que de dicho Plan se deriven, así como en las demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 18.
 
-Las dependencias y entidades de las administraciones públicas estatal y municipales ejercerán sus atribuciones relativas al ordenamiento del territorio, el desarrollo urbano y la vivienda, de manera congruente con los objetivos y prioridades de los Planes Estatal y Municipales de Desarrollo, y de los diferentes programas que de estos se deriven.
+Las dependencias y entidades de las administraciones públicas estatal y municipales ejercerán sus atribuciones relativas al ordenamiento del territorio, el desarrollo urbano, la vivienda y movilidad de manera congruente con los objetivos y prioridades de los Planes Estatal y Municipales de Desarrollo, y de los diferentes programas que de estos se deriven.
 
 ###### ARTÍCULO 19.
 
@@ -861,7 +895,9 @@ XII.- Proporcionar a los ayuntamientos el apoyo técnico necesario para que en e
 
 XIII.- Celebrar con los ayuntamientos de la Entidad convenios para la prestación de servicios públicos, la ejecución de acciones, obras, inversiones y la realización de cualquier otra empresa de beneficio colectivo, según se establezca en los programas de desarrollo urbano, de ordenamiento territorial y de vivienda, de acuerdo a lo dispuesto en la Constitución Política del Estado, en este Código, las leyes y demás disposiciones jurídicas aplicables;
 
-XIV.- Fomentar, en coordinación con la SICOM, la Coordinación Estatal de Planeación y Proyectos y los ayuntamientos, la planeación y la ejecución de infraestructura y equipamiento de orden público y para beneficio de personas con discapacidad o de grupos vulnerables;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2015)</small>
+
+XIV.- Fomentar, en coordinación con la Secretaría de Infraestructura y Comunicaciones, la Coordinación Estatal de Planeación y Proyectos y los Ayuntamientos, la planeación y la ejecución de infraestructura y equipamiento de orden público y para beneficio de personas con discapacidad, de grupos vulnerables y ciclistas;
 
 XV.- Coordinar y concertar con los sectores público, social y privado el financiamiento y/o concesionamiento de obras públicas de infraestructura, equipamiento y servicios urbanos en el Estado;
 
@@ -1123,9 +1159,17 @@ XLVI.- Vigilar el cumplimiento y aplicación de las disposiciones legales en mat
 
 XLVII.- Calificar en el ámbito de su competencia, las infracciones e imponer las medidas de seguridad y sanciones que establece este Código y demás disposiciones jurídicas aplicables;
 
-XLVIII.- Fungir como miembros propietarios de la Comisión Estatal, de la Comisión de Vivienda y de las comisiones de conurbación intraestatales que se establezcan; y
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2015)</small>
 
-XLIX.- Las demás que les señalen este Código y otras disposiciones jurídicas aplicables.
+XLVIII.- Fungir como miembros propietarios de la Comisión Estatal, de la Comisión de Vivienda y de las comisiones de conurbación intraestatales que se establezcan;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2015)</small>
+
+XLIX.- Prever el uso de la bicicleta en sus Planes de Desarrollo Municipales, así como desarrollar programas de fomento de su uso; y
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2015)</small>
+
+L.- Las demás que les señalen este Código y otras disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 25.
 
@@ -8007,13 +8051,17 @@ III.- Energía eléctrica;
 
 IV.- Alumbrado público;
 
-V.- Las vialidades públicas o de uso común que permitan la circulación y acceso adecuado de peatones y vehículos; y
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2015)</small>
+
+V.- Las vialidades públicas o de uso común que permitan la circulación y acceso adecuado de peatones, bicicletas y vehículos; y
 
 VI.- Equipo de limpia, aseo y mantenimiento de áreas comunes.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 631.
 
-Para los efectos del Artículo anterior, también se consideran servicios urbanos indispensables, las áreas destinadas al estacionamiento vehicular o a actividades comerciales, educativas, de recreo y de vigilancia, en la extensión necesaria, cuando una o varias de dichas áreas deban existir a juicio de la Comisión Estatal o de la SEGUOT, previa opinión del ayuntamiento respectivo.
+Para los efectos del Artículo anterior, también se consideran servicios urbanos indispensables, las áreas destinadas al estacionamiento vehicular, bici estacionamientos o a actividades comerciales, educativas, de recreo y de vigilancia, en la extensión necesaria, cuando una o varias de dichas áreas deban existir a juicio de la Comisión Estatal o de la SEGUOT, previa opinión del ayuntamiento respectivo.
 
 ###### ARTÍCULO 632.
 
@@ -8527,9 +8575,11 @@ Las entidades públicas y privadas podrán promover ante el Gobierno Estatal, la
 
 La Federación, el Estado y los ayuntamientos previamente a la autorización de cualquier obra de infraestructura, equipamiento y servicios urbanos deberán tomar en cuenta lo previsto en los programas aplicables y por tanto, obtener el dictamen estatal de congruencia urbanística y la licencia de obras de urbanización ante el ayuntamiento respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 690.
 
-El Estado y los ayuntamientos podrán celebrar convenios con los vecinos, asociaciones de habitantes, organizaciones sociales o empresariales y demás personas físicas o jurídico colectivas interesadas, para que participen en el cuidado, vigilancia, administración y mantenimiento de los parques urbanos, jardines públicos, áreas verdes, plazas cívicas, glorietas, camellones y demás bienes de uso común, así como en la realización de acciones, proyectos y actividades culturales y de educación ambiental.
+El Estado y los Ayuntamientos podrán celebrar convenios con los vecinos, asociaciones de habitantes, organizaciones sociales o empresariales y demás personas físicas o jurídico colectivas interesadas, para que participen en el cuidado, vigilancia, administración y mantenimiento de los parques urbanos, jardines públicos, áreas verdes, plazas cívicas, glorietas, camellones, bici estacionamientos, y demás bienes de uso común, así como en la realización de acciones, proyectos y actividades culturales y de educación ambiental.
 
 Los convenios celebrados y que se celebren en los términos del párrafo anterior, no generarán derecho real alguno, ni podrán impedir el uso de la población en general.
 
@@ -8621,7 +8671,9 @@ VII.- El impacto ambiental;
 
 VIII.- La estructura vial y el sistema de movilidad y transporte, así como las otras redes tales como las de electrificación, agua potable, drenaje, saneamiento, telefonía y datos y gas natural; y
 
-IX.- La infraestructura urbana y el equipamiento necesario para el desplazamiento de las personas con discapacidad y grupos vulnerables.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2015)</small>
+
+IX.- La infraestructura urbana y el equipamiento necesario para el desplazamiento de las personas con discapacidad, grupos vulnerables y ciclistas.
 
 ###### ARTÍCULO 702.
 
@@ -10767,7 +10819,9 @@ VII.- El diseño y aplicación de medidas para garantizar la seguridad en los si
 
 VIII.- La determinación de lineamientos para permitir el estacionamiento de vehículos en la vialidad y fuera de ella, de acuerdo con el uso de suelo autorizado y las disposiciones aplicables en materia de construcción, así como las medidas de auxilio, protección civil y emergencia que se adopten en relación con el tránsito de vehículos o peatones, en situaciones de fuerza mayor, caso fortuito, accidentes o alteración del orden público;
 
-IX.- Incluir en el Programa Sectorial de Infraestructura Vial, Movilidad, Transporte y Estacionamientos, vialidades o carriles exclusivos para el tránsito de bicicletas, el fomento de la infraestructura del transporte colectivo y la adecuación de la infraestructura arquitectónica adecuada para las personas con discapacidad, en un marco de promover la seguridad vial en el Estado; y
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2015)</small>
+
+IX.- Incluir en el Programa Sectorial de Infraestructura Vial, Movilidad, Transporte y Estacionamientos: Ciclovías, Bici estacionamientos, el fomento de la infraestructura del transporte colectivo, y la adecuación de la infraestructura arquitectónica adecuada para las personas con discapacidad, en un marco de promover la seguridad vial en el Estado; y
 
 X.- En coordinación con las dependencias respectivas se diseñarán los mecanismos para mejorar la nomenclatura, señalización, infraestructura, servicios y demás elementos inherentes o incorporados a la vialidad. Deberán ser instalados en la forma que mejor garanticen su uso adecuado y la seguridad de los peatones en general y conductores. Las autoridades de desarrollo urbano estatal y municipales, conforme a lo dispuesto en los programas aplicables deberán prever que las autorizaciones de nuevos centros de población, colonias o fraccionamientos, condominios y desarrollos inmobiliarios especiales tengan vialidades primarias y secundarias con camellón central y con circulación en contrasentido.
 
@@ -10779,15 +10833,109 @@ Para la realización de desfiles, caravanas, manifestaciones, peregrinaciones o 
 
 De acuerdo con el Programa Sectorial de Infraestructura Vial, Movilidad, Transporte y Estacionamientos, la SEGUOT en coordinación con los ayuntamientos determinarán los mecanismos para fomentar el desarrollo de los estacionamientos, pensiones, corralones y confinamientos públicos, para todo tipo de vehículos, privilegiando su ubicación en base a los programas aplicables.
 
-Deberá instalarse el mobiliario adecuado para brindar servicio de preferencia a las personas con discapacidad, grupos vulnerables y para usuarios de bicicletas.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
+
+Deberá instalarse la infraestructura adecuada para brindar servicio de preferencia a las personas con discapacidad, grupos vulnerables y Ciclistas.
 
 ###### ARTÍCULO 960.
 
 Los ayuntamientos promoverán la construcción o habilitación de espacios para estacionamientos, procurando su ubicación en lugares estratégicos, tomando en consideración lo indicado en los programas aplicables.
 
-### CAPÍTULO III. De las Carreteras, Caminos y Puentes de Jurisdicción Local
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JULIO DE 2015)</small>
 
-### CAPÍTULO IV. Del Régimen del Servicio Público de Transporte Local
+### CAPÍTULO III. De los Principios del Uso de la Bicicleta
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2015)</small>
+
+ARTÍCULO 960 A.- Se reconocen como principios del uso y promoción de la Bicicleta, los siguientes:
+
+I.- El derecho al libre tránsito del ser humano con sus propios medios en las vías públicas del territorio estatal;
+
+II.- El derecho de las personas a acceder a medios de transporte alternativos, en condiciones adecuadas y seguras, con el mínimo impacto ambiental posible;
+
+III.- El fomento e incentivo del uso de la Bicicleta como medio de transporte saludable y no contaminante;
+
+IV.- La protección a las personas que usen la Bicicleta como medio de transporte;
+
+V.- La adecuación de las políticas públicas en el Estado para generar las condiciones e infraestructuras necesarias que permitan usar la Bicicleta como medio de transporte;
+
+VI.- Organizar un sistema de transporte sostenible, eficiente y democrático;
+
+VII.- Involucrar a la sociedad en el mejoramiento ambiental sobre la movilidad de las personas; y
+
+VIII.- Dar prioridad a los medios de transporte de menor costo económico, social y ambiental.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2015)</small>
+
+ARTÍCULO 960 B.- De conformidad con la disponibilidad presupuestal, todas las dependencias de la administración pública estatal y municipal, deberán contar con Bici estacionamientos.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2015)</small>
+
+ARTÍCULO 960 C.- Los Ayuntamientos del Estado podrán implementar campañas de difusión permanentes de la educación vial que fomenten el uso de la Bicicleta, así como una cultura de respeto a los Ciclistas.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2015)</small>
+
+ARTÍCULO 960 D.- A fin de contribuir al uso más seguro de la Bicicleta en la entidad, se procurará que las vialidades que se construyan o se remodelen, incluyan Ciclovías.
+
+Las Ciclovías se clasifican de la siguiente manera:
+
+I.- Andador peatonal y ciclístico. Vía de circulación compartida por peatones y Ciclistas, ubicada en áreas verdes, camellones, derechos de vía, que pueden carecer de marcas que delimiten áreas de circulación;
+
+II.- Calle compartida ciclística. Vía preferente para la circulación de Ciclistas, compartida con el tránsito automotor, que generalmente cuenta con estacionamiento en vía pública y hasta dos carriles efectivos de circulación por sentido;
+
+III.- Calles de tránsito mixto. Vías destinadas a la circulación de vehículos automotores y bicicletas;
+
+IV.- Carril compartido ciclístico. Carril para la circulación de los Ciclistas, ubicado en el extremo derecho del arroyo vehicular, compartido generalmente con vehículos automotores;
+
+V.- Ciclocarril. Carril en la vialidad, destinado exclusivamente para la circulación de los Ciclistas, delimitado por marcas en el pavimento y ubicado en el extremo derecho del área de circulación de vehículos automotores;
+
+VI.- Vía ciclística. Vía exclusiva para la circulación unidireccional de Bicicletas, en el mismo sentido del tránsito, en caso de ser bidireccional, podrá ubicarse únicamente en camellones, áreas verdes y derechos de vía; y
+
+VII.- Zona de tránsito lento. Área delimitada al interior de barrios, poblados, colonias, fraccionamientos o unidades habitacionales, cuyas vías están diseñadas para reducir la intensidad y velocidad del tránsito, a efecto de que peatones, Ciclistas y conductores de vehículos automotores circulen de manera cómoda y seguir (sic).
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2015)</small>
+
+ARTÍCULO 960 E.- El Consejo de Movilidad estará integrado por:
+
+I.- El titular del Poder Ejecutivo del Estado o la persona que designe, quien fungirá como Presidente;
+
+II.- Un Secretario Ejecutivo, que será el titular de la SEGUOT, o la persona que designe;
+
+III.- Los titulares de las Secretarías de Gobierno, de Seguridad Pública, del Medio Ambiente, de Salud y de Turismo, correspondientes al Poder Ejecutivo del Estado; así como el titular del Instituto del Deporte del Estado de Aguascalientes y el titular del Instituto de Educación del Estado de Aguascalientes, o las personas que éstos designen;
+
+IV.- Los Presidentes Municipales de los once municipios de la Entidad, o las personas que éstos designen;
+
+V.- El Diputado Presidente de la Comisión del Transporte del H. Congreso del Estado y el Diputado Presidente de la Comisión de Planeación, Desarrollo Urbano y Obra Pública, o las personas que éstos designen; y
+
+VI.- Un representante de las asociaciones civiles legalmente constituidas cuyo objeto esté relacionado con la promoción de uso de la Bicicleta como medio de transporte a invitación del Secretario Ejecutivo.
+
+Las personas que, en su caso, sean designadas por los servidores públicos referidos en las Fracciones anteriores, deberán contar con conocimientos en materia de urbanismo o movilidad.
+
+Por acuerdo y a invitación del Consejo de Movilidad podrán participar en los trabajos de ésta, los servidores públicos de los órganos de administración pública federal y los representantes de las asociaciones civiles del Estado, cuya competencia u objeto, según corresponda, tenga relación con los fines de la promoción de uso de la Bicicleta como medio de transporte.
+
+El Secretario Ejecutivo será el responsable de dar cumplimiento a los acuerdos que emanen del Consejo de Movilidad.
+
+El cargo de consejero tendrá carácter honorífico.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2015)</small>
+
+ARTÍCULO 960 F.- El Consejo de Movilidad tiene las siguientes funciones:
+
+I.- Emitir recomendaciones relacionadas con el Programa Sectorial de Infraestructura Vial, Movilidad, Transporte y Estacionamiento;
+
+II.- Proponer las políticas públicas de uso y promoción de la Bicicleta;
+
+III.- Impulsar estudios sobre el uso de la Bicicleta como medio de transporte;
+
+IV.- Las demás que se establezcan (sic) el presente Código o las disposiciones reglamentarias aplicables;
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2015)</small>
+
+ARTÍCULO 960 G.- El Consejo sesionará ordinariamente dos veces al año y de manera extraordinaria cuando así se requiera.
+
+Las sesiones del Consejo de Movilidad serán de carácter público y se regirán en términos del Reglamento que al efecto emita el propio Consejo de Movilidad.
+
+### CAPÍTULO IV. De las Carreteras, Caminos y Puentes de Jurisdicción Local
 
 ###### ARTÍCULO 961.
 
@@ -10949,7 +11097,7 @@ Para retirar el vehículo del depósito se deberá acreditar, a la autoridad com
 
 Para la utilización en cualquier forma de los derechos de vía en materia del servicio de transporte en el Estado, se requiere contar con la autorización de la SICOM.
 
-### CAPÍTULO I. Del Objeto y Sujetos de las Concesiones
+### CAPÍTULO V. Del Régimen del Servicio Público de Transporte Local
 
 ###### ARTÍCULO 981.
 
@@ -11149,7 +11297,7 @@ Las asociaciones de concesionarios establecidas que se agrupen con la finalidad 
 
 ## TÍTULO DÉCIMO QUINTO. DE LAS CONCESIONES
 
-### CAPÍTULO II. De las Normas Generales que regulan a las Concesiones
+### CAPÍTULO I. Del Objeto y Sujetos de las Concesiones
 
 ###### ARTÍCULO 993.
 
@@ -11175,7 +11323,7 @@ Las autoridades concedentes podrán otorgar a los particulares derechos de uso, 
 
 Tratándose de carreteras, puentes y otros bienes susceptibles de concesionarse conforme a este Código, pero no regulados por leyes específicas, los derechos de uso, aprovechamiento o explotación se sujetarán, exclusivamente, a lo previsto en el presente Código y en los reglamentos y las concesiones respectivas.
 
-### CAPÍTULO III. De los Servicios y Explotación de Bienes que podrán ser Objeto de Concesión
+### CAPÍTULO II. De las Normas Generales que regulan a las Concesiones
 
 ###### ARTÍCULO 998.
 
@@ -11407,9 +11555,9 @@ I.- Ceder a terceros, gravar, transferir o enajenar la concesión;
 
 II.- Transmitir los derechos y obligaciones que se derivan de la concesión; y
 
-III.- Afectar, transmitir o comprometer los bienes muebles y servicios, con los que se realiza la prestación de los servicios públicos o explotación de los bienes públicos concesionados; (sic)
+III.- Afectar, transmitir o comprometer los bienes muebles y servicios, con los que se realiza la prestación de los servicios públicos o explotación de los bienes públicos concesionados;(sic)
 
-### CAPÍTULO IV. De las Concesiones para la Prestación del Servicio Público de Transporte Local
+### CAPÍTULO III. De los Servicios y Explotación de Bienes que podrán ser Objeto de Concesión
 
 ###### ARTÍCULO 1016.
 
@@ -11451,7 +11599,7 @@ Las concesiones para las explotaciones de cementerios, así como los demás tipo
 
 El servicio de arrastre, salvamento, guarda, custodia y depósito de vehículos, constituyen un servicio cuya prestación corresponde regular y vigilar al Gobierno del Estado, en términos del presente Código y el reglamento de la materia.
 
-### CAPÍTULO V. De los Usuarios
+### CAPÍTULO IV. De las Concesiones para la Prestación del Servicio Público de Transporte Local
 
 ###### ARTÍCULO 1022.
 
@@ -11853,7 +12001,7 @@ XVII.- Prohibir la ocupación de los asientos destinados para personas con disca
 
 XVIII.- Someterse a la práctica de exámenes médicos, psicológicos, farmacológicos y otros que determine la SEGUOT en los términos del reglamento correspondiente.
 
-### CAPÍTULO VI. Del Servicio para el Transporte Público de Terminales
+### CAPÍTULO V. De los Usuarios
 
 ###### ARTÍCULO 1050.
 
@@ -11913,7 +12061,7 @@ En el caso de los concesionarios y permisionarios, pueden suscribir acuerdos esp
 
 Las personas invidentes que se desplacen acompañados de perros guías, tendrán acceso con estos a todos los servicios de transporte de pasajeros
 
-### CAPÍTULO VII. De la Extinción, Intervención y Rescate de las Concesiones
+### CAPÍTULO VI. Del Servicio para el Transporte Público de Terminales
 
 ###### ARTÍCULO 1059.
 
@@ -12039,7 +12187,7 @@ VII.- Las demás que señale el reglamento correspondiente.
 
 El Registro Estatal de Transporte será público, tendrá efectos declarativos y surtirá efectos contra terceros.
 
-### CAPÍTULO I. De las Responsabilidades, Medidas de Seguridad, Infracciones y Sanciones
+### CAPÍTULO VII. De la Extinción, Intervención y Rescate de las Concesiones
 
 ###### ARTÍCULO 1071.
 
@@ -12113,7 +12261,7 @@ En el caso de que el Gobierno del Estado o el ayuntamiento respectivo, hubiere p
 
 ## TÍTULO DÉCIMO SEXTO. DE LAS RESPONSABILIDADES, MEDIDAS DE SEGURIDAD, INFRACCIONES Y SANCIONES, PROCEDIMIENTO ADMINISTRATIVO Y DENUNCIA POPULAR
 
-### CAPÍTULO II. De las Sanciones en Materia de Fraccionamientos, Condominios y Desarrollos Inmobiliarios Especiales
+### CAPÍTULO I. De las Responsabilidades, Medidas de Seguridad, Infracciones y Sanciones
 
 ###### ARTÍCULO 1080.
 
@@ -12251,7 +12399,7 @@ III.- Para su cumplimiento, las autoridades correspondientes podrán hacer uso d
 
 IV.- El plazo de caducidad para la aplicación de las sanciones será de cinco años y empezará a computarse desde el día en que se hubiera cometido la infracción o en que hayan cesado los efectos, cuando se trate de infracciones continuadas o de tracto sucesivo.
 
-### CAPÍTULO III. De las Sanciones en Materia de Transporte Público
+### CAPÍTULO II. De las Sanciones en Materia de Fraccionamientos, Condominios y Desarrollos Inmobiliarios Especiales
 
 ###### ARTÍCULO 1091.
 
@@ -12277,7 +12425,7 @@ IX.- Por realizar el fraccionador o promotor actos de publicidad, promoción o v
 
 Para lo no previsto en el presente artículo, la SEGUOT o el ayuntamiento respectivo se encontrarán facultados para imponer multa o cualquiera de las sanciones previstas en este Código, siempre y cuando funden y motiven su actuación.
 
-### CAPÍTULO IV. De las Notificaciones, Procedimientos de Comprobación y de los Medios de Impugnación
+### CAPÍTULO III. De las Sanciones en Materia de Transporte Público
 
 ###### ARTÍCULO 1092.
 
@@ -12505,7 +12653,7 @@ Las sanciones anteriores se aplicarán sin perjuicio de las de carácter penal y
 
 La SEGUOT está facultada para imponer la sanción de suspensión, quedando a cargo del Gobernador del Estado la cancelación o revocación de las concesiones, previo estudio que le presente la SEGUOT.
 
-### CAPÍTULO V. De la Denuncia Popular
+### CAPÍTULO IV. De las Notificaciones, Procedimientos de Comprobación y de los Medios de Impugnación
 
 #### SECCIÓN PRIMERA. De los Días y Horas para la Práctica de los Actos Administrativos
 
@@ -12525,7 +12673,7 @@ En todo lo relativo a este Capítulo, que no se encuentre previsto por este Cód
 
 ###### ARTÍCULO 1097.
 
-Los actos administrativos dictados en ejercicio de las facultades establecidas en el presente Código, deberán ser notificadas personalmente al interesado, entregando copia de los mismos.
+Los actos administrativos dictados en ejercicio de las facultades establecidas en el presente Código, deberán ser notificadas (sic) personalmente al interesado, entregando copia de los mismos.
 
 ###### ARTÍCULO 1098.
 
@@ -12663,7 +12811,7 @@ La Ley del Procedimiento Administrativo del Estado de Aguascalientes se aplicar�
 
 Las resoluciones definitivas dictadas con motivo de la aplicación de este Código podrán ser impugnadas mediante los medios de defensa que establece la Ley del Procedimiento Administrativo del Estado de Aguascalientes o la Ley del Procedimiento Contencioso Administrativo para el Estado de Aguascalientes.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO V. De la Denuncia Popular
 
 ###### ARTÍCULO 1115.
 
@@ -12712,6 +12860,8 @@ Es obligación de la autoridad competente estatal o municipal hacer del conocimi
 Cuando los hechos que motiven una denuncia popular hubiesen causado daños o perjuicios, los interesados o afectados deberán solicitar a las procuradurías correspondientes un dictamen técnico-jurídico, para efecto de que éstas lo canalicen a la autoridad competente con la finalidad de que se obtenga la reparación de los mismos, sin perjuicio de las sanciones, responsabilidades civiles, penales o administrativas en que hubiere incurrido la persona física o moral, pública o privada, que haya ejecutado los actos o las acciones denunciadas.
 
 ## TÍTULO DÉCIMO SÉPTIMO. DE LAS CONTROVERSIAS Y PROCEDIMIENTOS DE CONCILIACIÓN Y ARBITRAJE EN CONDOMINIOS, FRACCIONAMIENTOS Y COLONIAS
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 1122.
 
@@ -12878,3 +13028,17 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de “personas con discapacidad”.
+
+P.O. 6 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El Presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Consejo de Movilidad en Bicicletas deberá instalarse dentro de los siguientes noventa días naturales contados a partir de que inicie su vigencia el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo de Movilidad en Bicicletas deberá emitir su Reglamento de Sesiones dentro de los siguientes sesenta días naturales contados a partir de la fecha en que se instale.
