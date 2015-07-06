@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2015-06-22"
+last_updated: "2015-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -45,19 +45,15 @@ Declaraciones.
 
 El Estado de Aguascalientes es parte integrante de los Estados Unidos Mexicanos; en consecuencia, acatará las disposiciones del Pacto Federal, siendo autónomo en su régimen interno.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
 
 ###### Artículo 2o.
 
-Los derechos humanos constituyen la base de la convivencia social pacífica en el estado de Aguascalientes.
+En el Estado de Aguascalientes, todas las personas gozarán de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en el Derecho Internacional en materia de Derechos Humanos, en las leyes generales expedidas por el Congreso de la Unión, la presente Constitución y en las leyes locales, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que la propia Constitución Federal establece.
 
-Todo individuo gozará en el Estado de los derechos humanos y fundamentales reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en el Derecho Internacional en materia de Derechos Humanos del que el Estado Mexicano sea parte, los establecidos en esta Constitución y las leyes que de ellas emanen, así como de las garantías para su protección.
+Las normas relativas a los derechos humanos se interpretarán siempre de conformidad con la Constitución Política de los Estados Unidos Mexicanos, con los tratados internacionales de la materia y con la presente Constitución, favoreciendo en todo tiempo a las personas la protección más amplia.
 
-Las normas relativas a los derechos humanos se interpretarán siempre de manera armónica y progresiva favoreciendo la protección más amplia a las personas.
-
-Los derechos humanos cuentan con garantía de efectividad y protección directa, por lo cual todas las autoridades locales en el ámbito de sus competencias, tienen la obligación de promoverlos, respetarlos, protegerlos, aplicarlos y garantizarlos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad.
-
-El Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2013)</small>
 
@@ -67,7 +63,7 @@ El Poder Público solamente puede actuar en uso de facultades expresas mientras 
 
 En el cumplimiento de la ley, si la autoridad requiere afectar o intervenir un derecho, deberá observar los principios de justicia, racionalidad, necesidad, idoneidad y proporcionalidad para hacerlo.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
 
 ###### Artículo 4o.
 
@@ -75,19 +71,19 @@ La familia constituye la base fundamental de la sociedad. Cualquiera doctrina o 
 
 Por la misma razón, el hogar y, particularmente, los niños, serán objeto de especial protección por parte de las Autoridades. Toda medida o disposición protectoras de la familia y de la niñez, se considerarán de orden público.
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2003)</small>
+En todas las decisiones y actuaciones del Estado se velará por el principio del interés superior de la niñez y se cumplirá con el mismo, garantizando de manera plena sus derechos. Los niños, las niñas y los adolescentes tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez.
+
+Los ascendientes, tutores y custodios, tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios.
+
+El Estado otorgará facilidades a los particulares para que coadyuven al cumplimiento de los derechos de la niñez.
+
+Toda persona tiene derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
 
 El hombre y la mujer son iguales ante la Ley, por lo que ésta deberá garantizar que accedan a las mismas oportunidades en condiciones de equidad.
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2012)</small>
-
 Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo.
 
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
-
 Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa.
-
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2014)</small>
 
 Toda persona tiene derecho a la protección de la salud. La Ley establecerá las bases y modalidades para el acceso a los servicios de salud y determinará la participación del Estado y sus Municipios en la materia.
 
@@ -1465,7 +1461,7 @@ Los servidores públicos del Estado de Aguascalientes y de los Municipios, de su
 
 Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
 
-l. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
 
 II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado en el presupuesto correspondiente y este a su vez no podrá percibir un ingreso mayor al del Presidente de la República en términos de lo establecido en el Articulo 127 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -2890,6 +2886,12 @@ El presente Decreto iniciará su vigencia a partir del día 1° de enero de 2017
 En los años 2015 y 2016, el informe referido en el Artículo 46 Fracción IV, será entregado al Congreso del Estado dentro del período comprendido entre el 15 y el 30 de noviembre, posteriormente se entregará dentro del periodo comprendido entre el 15 y el 30 de septiembre.
 
 P.O. 22 DE JUNIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JULIO DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
