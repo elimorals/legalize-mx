@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2013-11-20"
+last_updated: "2015-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -905,9 +905,9 @@ Las concesiones a que se refiere el párrafo anterior podrán prorrogarse una o 
 
 Los concesionarios estarán obligados a cumplir con lo dispuesto en esta Ley, su Reglamento, y las condiciones señaladas en los títulos de concesión.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
 
-Los concesionarios deberán prestar los servicios públicos de conformidad con las reglas emitidas por el municipio, o por el Estado en el caso señalado en el Artículo 21, y atendiendo a la legislación de equilibrio ecológica (sic) y protección al ambiente, y las normas oficiales mexicanas que se emitan en relación con los mismos.
+Los concesionarios deberán prestar los servicios públicos de conformidad con las reglas emitidas por el municipio, o por el Estado en el caso señalado en el Artículo 21, y atendiendo a la legislación de equilibrio ecológico y protección al ambiente, y las normas oficiales mexicanas que se emitan en relación con los mismos.
 
 ###### ARTICULO 52.
 
@@ -939,7 +939,7 @@ III. Revocación;
 
 IV. No ejercer los derechos conferidos en las concesiones durante un lapso mayor de seis meses;
 
-V. Rescate en caso de utilidad o interés público, previa indemnización; y (sic)
+V. Rescate en caso de utilidad o interés público, previa indemnización; y
 
 VI. Disolución, liquidación o quiebra del concesionario;
 
@@ -969,11 +969,15 @@ VIII. No cubra al concedente las contraprestaciones que se hubiesen establecido;
 
 IX. No otorgue o no mantenga en vigor la garantía de cumplimiento de las concesiones; o
 
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2015)</small>
+
 X. Incumpla reiteradamente con las obligaciones señaladas en el título de concesión en materia de protección ecológica y prevención de la contaminación; así como con cualquiera de las obligaciones o condiciones establecidas en esta Ley o su reglamento.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+Para tales efectos, se entiende que se incumple reiteradamente, cuando en dos o más ocasiones se desatienden las obligaciones previstas en el párrafo anterior.
 
-En los casos de las Fracciones I y III a X, la concesión sólo podrá ser revocada cuando previamente se hubiese sancionado al concesionario por lo menos en dos ocasiones por las causas previstas en la misma Fracción. En todo caso, y cuando así se haya pactado en el contrato correspondiente, el Concedente podrá autorizar reprogramación de obras, trabajos y otras obligaciones cuando medie causa justificada.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
+
+En los casos de las Fracciones I y III a X, la concesión sólo podrá ser revocada cuando previamente se hubiese sancionado al concesionario en dos o más ocasiones por las causas previstas en la misma Fracción. En todo caso, y cuando así se haya pactado en el contrato correspondiente, el Concedente podrá autorizar reprogramación de obras, trabajos y otras obligaciones cuando medie causa justificada.
 
 ###### ARTICULO 57.
 
@@ -985,7 +989,9 @@ II. Aportadas las pruebas, se admitirán y desahogaran conforme a lo dispuesto p
 
 III. El Instituto remitirá al Concedente la opinión correspondiente, en un plazo que no excederá de treinta días hábiles, contados a partir de la recepción del dictamen a que se refiere la fracción anterior; y
 
-IV. El Concedente dictará la resolución que corresponda en un plazo no mayor de quince días hábiles, contados a partir de la recepción de la opinión del Instituto.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2015)</small>
+
+IV. El Concedente dictará la resolución que corresponda en un plazo no mayor de quince días hábiles, contados a partir de que reciba la opinión del Instituto o que se cumpla el plazo que se le otorga para ello en la Fracción anterior.
 
 ###### ARTICULO 58.
 
@@ -1079,9 +1085,17 @@ V. Vigilar el cumplimiento de los Proyectos Estratégicos de Desarrollo;
 
 VI. Sancionar a los prestadores de los servicios y contratistas por el incumplimiento de esta Ley;
 
-VII. Participar como asesor en los procesos de licitación de concesiones para la prestación de los servicios públicos y de los contratos a que se refieren los Artículos 47, 48 y 60; y
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2015)</small>
 
-VIII. Emitir opinión sobre la procedencia de la revocación de concesiones o rescisión de los contratos que celebren los Prestadores de Servicios, en los términos de los Artículos 56 y 57 de esta Ley.
+VII. Participar como asesor en los procesos de licitación de concesiones para la prestación de los servicios públicos y de los contratos a que se refieren los Artículos 47, 48 y 60;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2015)</small>
+
+VIII. Emitir opinión sobre la procedencia de la revocación de concesiones o rescisión de los contratos que celebren los Prestadores de Servicios, en los términos de los Artículos 56 y 57 de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2015)</small>
+
+IX. Garantizar que la distribución del agua potable, para uso personal y doméstico, sea accesible y asequible para todos, así como, facilitar el acceso mínimo y sostenible referido en esta ley, en particular, de los grupos vulnerables y personas menos favorecidas.
 
 ### CAPITULO V. De las Reglas para la Prestación de los Servicios Públicos
 
@@ -1115,7 +1129,7 @@ Presentada la solicitud debidamente requisitada, dentro de los quince días háb
 
 I. Corroborar la veracidad de los datos proporcionados por el solicitante;
 
-II. Conocer las circunstancias que el prestador de los servicios considere necesarias para determinar sobre la prestación de los servicios públicos y el presupuesto correspondiente; y (sic)
+II. Conocer las circunstancias que el prestador de los servicios considere necesarias para determinar sobre la prestación de los servicios públicos y el presupuesto correspondiente; y
 
 III. Estimar el presupuesto que comprenderá el importe del material necesario y la mano de obra, ruptura y reposición de banqueta, guarnición y pavimento si lo hubiese, así como cualquier otro trabajo que se requiera para estar en condiciones de prestar los servicios públicos solicitados;
 
@@ -1229,7 +1243,9 @@ Cuando la escasez de agua sea originada por negligencia o falta de previsión de
 
 los usuarios tendrán los siguientes derechos:
 
-I. Exigir al prestador de los servicios la prestación de éstos conforme a los niveles de calidad establecidos;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2015)</small>
+
+I. Exigir al prestador de los servicios que la prestación de éstos, para uso personal y doméstico, sean accesibles y asequibles para todos, en particular de los grupos vulnerables y personas menos favorecidas y conforme a los niveles de calidad establecidos;
 
 II. Acudir ante la autoridad competente, en caso de incumplimiento a los contratos celebrados entre los usuarios y los prestadores de los servicios, a fin de solicitar el cumplimiento de los mismos;
 
@@ -1278,6 +1294,14 @@ Las tarifas medias de equilibrio deberán ser suficientes para cubrir los costos
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
 Cuando el servicio de saneamiento o tratamiento de aguas residuales sea prestado por un particular, mediante contrato de prestación de servicios o concesión otorgada con ese único objeto por un Municipio o por el Estado en el caso señalado en el Artículo 21 de esta Ley, las tarifas serán determinadas y actualizadas sujetándose, exclusivamente, a las fórmulas y mecanismos que se establezcan en el contrato o concesión de que se trate. En estos supuestos no serán aplicables las disposiciones relativas a la determinación y ajuste de tarifas previstas en esta Sección Tercera, del Capítulo V, del Título Tercero de la Ley.
+
+(NOTA: EL 1 DE DICIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249) y “CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2015)</small>
+
+A LAS ESCUELAS Y HOSPITALES PÚBLICOS, POR SER CONSIDERADOS BIENES DE DOMINIO PÚBLICO, CONFORME A LO DISPUESTO POR AL (SIC) ARTÍCULO 8° FRACCIÓN II DE LA LEY DE BIENES DEL ESTADO DE AGUASCALIENTES, NO SE LES COBRARÁ POR LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO.
 
 ###### ARTICULO 97.
 
@@ -1367,11 +1391,23 @@ No podrán existir exenciones respecto de las cuotas y tarifas a que se refiere 
 
 Las cuotas y tarifas que se cobren al usuario serán independientes de los pagos que éste tenga que efectuar conforme a la legislación fiscal aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2008)</small>
+(NOTA: EL 1 DE DICIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2015, DECLARÓ LA INVALIDEZ DE LA SEGUNDA PARTE DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249) y “CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 104.
 
-La falta de pago en dos ocasiones consecutivas, por parte de usuarios no domésticos faculta al Municipio o al prestador de los servicios para suspender el suministro del agua potable hasta que se regularice su pago. En el caso de uso doméstico, la falta de pago en tres ocasiones consecutivas ocasionará la suspensión del suministro del agua potable. Una vez que el Municipio o el prestador del servicio suspendan el suministro de agua potable al usuario, no podrán cobrar las cuotas mensuales posteriores a la suspensión, sino hasta que éste sea reconectado.
+La falta de pago en dos ocasiones consecutivas, por parte de usuarios no domésticos faculta al Municipio o al prestador de los servicios para suspender el suministro de agua potable hasta que se regularice su pago. EN EL CASO DE USO DOMÉSTICO, LA FALTA DE PAGO EN TRES OCASIONES CONSECUTIVAS, OCASIONARÁ QUE EL MUNICIPIO O PRESTADOR DEL SERVICIO CUANDO EL MISMO ESTÉ OTORGADO A UN TERCERO, REDUZCA EL SUMINISTRO A 200 LITROS DE AGUA POTABLE POR DÍA, POR DOMICILIO, HASTA EN TANTO SE REGULARICE EL PAGO, POR CONSIDERARSE QUE QUIEN SE VEA AFECTADO POR LA PRESENTE MEDIDA, SE ENCUENTRA EN EL SUPUESTO DE GRUPO VULNERABLE CONFORME A LOS CRITERIOS CONTEMPLADOS EN EL ÍNDICE DE TENDENCIA LABORAL DE LA POBREZA QUE EMITE EL CONSEJO NACIONAL DE EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL (CONEVAL).
+
+(NOTA: EL 1 DE DICIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 48/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249) y “CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2015)</small>
+
+EL MUNICIPIO O EL PRESTADOR DEL SERVICIO, POR NINGÚN CONCEPTO, PODRÁN GENERAR NI COBRAR CUOTAS DE PAGO POSTERIORES A LA IMPLEMENTACIÓN DE LA PRESENTE MEDIDA, HASTA EN TANTO NO PROPORCIONE EL SERVICIO DE MANERA REGULAR.
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
 
@@ -1509,7 +1545,7 @@ II. Los volúmenes que marque el aparato de medición o que se desprendan de alg
 
 III. La cantidad de agua que se calcule que el usuario pudo obtener durante el periodo para el cual se efectúe la determinación, de acuerdo con las características de sus instalaciones;
 
-IV. Otra información obtenida por el municipio, en el ejercicio de sus facultades de comprobación; y (sic)
+IV. Otra información obtenida por el municipio, en el ejercicio de sus facultades de comprobación; y
 
 V. Los medios indirectos de la investigación económica o cualquier otra clase.
 
@@ -1760,3 +1796,9 @@ P.O. 20 DE NOVIEMBRE DE 2013.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE JULIO DE 2015.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
