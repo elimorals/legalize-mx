@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-ley-registral-para-el-estado-de-mexico-85283"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-09"
-last_updated: "2012-01-09"
+last_updated: "2015-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 REGLAMENTO DE LA LEY REGISTRAL PARA EL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE JULIO DE 2015.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el lunes 9 de enero de 2012.
 
@@ -315,7 +315,13 @@ IV. Brindar atención al público, de acuerdo con las disposiciones que para tal
 
 V. Asistir a los cursos de capacitación y actualización, que determine el Instituto;
 
-VI. Las demás que expresamente les señalen otros ordenamientos legales y aquellas que les encomienden formalmente el Director General, el Registrador y sus superiores jerárquicos.
+> <small>(REFORMADA, G.G. 6 DE JULIO DE 2015)</small>
+
+VI. Abstenerse de solicitar documentación que no se prevea en la Ley Registral, el presente Reglamento y demás ordenamientos jurídicos aplicables en la materia.
+
+> <small>(ADICIONADA, G.G. 6 DE JULIO DE 2015)</small>
+
+VII. Las demás que expresamente les señalen otros ordenamientos legales y aquellas que les encomienden formalmente el Director General, el Registrador y sus superiores jerárquicos.
 
 ### CAPÍTULO V. OBLIGACIONES DE LOS CALIFICADORES
 
@@ -511,9 +517,11 @@ IV. Tratándose de actos mediante los cuales se declare, reconozca, adquiera, tr
 
 a) Certificado de libertad o existencia de gravámenes del inmueble sobre el cual se declare, reconozca, adquiera, transmita, modifique, afecte, limite, grave o extinga la propiedad o posesión.
 
-b) Copia de la manifestación del Impuesto sobre Adquisición de Inmuebles y otras Operaciones Traslativas de Dominio de Inmuebles y comprobante de pago o documento que acredite el mismo.
+> <small>(REFORMADO, G.G. 6 DE JULIO DE 2015)</small>
 
-d (sic)) Certificación de clave y valor catastral.
+b) Certificación de clave y valor catastral.
+
+d) (DEROGADA, G.G. 6 DE JULIO DE 2015)
 
 ###### Artículo 39.
 
@@ -1097,6 +1105,10 @@ III. Se acompañará el documento a compulsar el cual deberá ser idéntico al q
 
 Los Registradores, expedirán las certificaciones que se soliciten durante los cinco días hábiles siguientes al de la presentación de la solicitud.
 
+> <small>(ADICIONADO, G.G. 6 DE JULIO DE 2015)</small>
+
+Tratándose del certificado de existencia o inexistencia de gravamen para llevar a cabo actos traslativos de dominio respecto de inmuebles destinados a la actividad comercial o industrial de bajo impacto y que sean menores a 2,000 metros cuadrados se expedirá en el plazo de un día hábil, una vez reflejado el pago respectivo.
+
 ###### Artículo 123.
 
 Los duplicados de las solicitudes de las certificaciones e informes a que se refiere este capítulo, deberán conservarse por un año, contado a partir de la fecha de su presentación.
@@ -1266,3 +1278,13 @@ SECRETARIO GENERAL DE GOBIERNO
 LIC. ERNESTO JAVIER NEMER ÁLVAREZ
 
 (RUBRICA).
+
+N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+G.G. 6 DE JULIO DE 2015.
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo establecido por el presente Acuerdo.
