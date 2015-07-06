@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2015-07-03"
+last_updated: "2015-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE JULIO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1287,6 +1287,8 @@ V. Que exista un alto requerimiento para hacer más transparente el proceso.
 
 73.- Si en el término de un año son sancionados dos Testigos nombrados por una Organización no Gubernamental, esta perderá su registro.
 
+(REUBICADO [N. DE E. ANTES TÍTULO DÉCIMO], G.G. 6 DE SEPTIEMBRE DE 2010)
+
 ## TITULO DECIMO PRIMERO. De la acción popular
 
 > <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
@@ -1397,13 +1399,23 @@ VI. Los rendimientos, recuperaciones y demás ingresos que obtenga por la invers
 
 Los ingresos del Consejo Estatal de Población, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a la ejecución de los programas aprobados por la Asamblea General.
 
-## TITULO PRIMERO. Disposiciones generales
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 6 DE JULIO DE 2015)</small>
+
+## TITULO DECIMO CUARTO. DEL REGISTRO ESTATAL DE INSPECTORES
+
+> <small>(ADICIONADO, G.G. 6 DE JULIO DE 2015)</small>
+
+###### Artículo 1.
+
+82.- El Registro Estatal de Inspectores es un sistema tecnológico dirigido, coordinado y operado por la Secretaría de la Contraloría del Estado de México, mediante el cual las dependencias y organismos auxiliares de la Administración Pública Estatal registran los datos relativos a las órdenes de visitas, inspecciones o verificaciones que llevan a cabo las autoridades, con el fin de que los sujetos a quienes van dirigidas o los involucrados constaten en tiempo real su autenticidad.
+
+La Secretaría de la Contrataría (sic) podrá celebrar convenios que coadyuven al objeto del Registro Estatal de Inspectores con otros poderes públicos del Estado de México, ayuntamientos, entidades públicas federales y estatales, así como con organismos autónomos, con la finalidad de mantener actualizado dicho Registro Estatal.
+
+La Secretaría vigilará que el sistema de consulta se encuentre en funcionamiento, para que la información proporcionada por las autoridades, pueda ser consultada en tiempo real.
 
 # LIBRO SEGUNDO. De la salud
 
-(REUBICADO [N. DE E. ANTES TÍTULO DÉCIMO], G.G. 6 DE SEPTIEMBRE DE 2010)
-
-## TITULO SEGUNDO. De los Institutos Especializados en Materia de Salud del Estado de México
+## TITULO PRIMERO. Disposiciones generales
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
@@ -1575,7 +1587,7 @@ Las dependencias y organismos de la administración pública estatal y municipal
 
 El registro será público, no tendrá efectos constitutivos ni surtirá efectos contra terceros.
 
-## TITULO TERCERO. De la salubridad general
+## TITULO SEGUNDO. De los Institutos Especializados en Materia de Salud del Estado de México
 
 ###### Artículo 2.
 
@@ -1667,7 +1679,7 @@ V. Las utilidades, intereses, dividendos, rendimientos de sus bienes, derechos y
 
 Los ingresos de los Institutos, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por sus consejos internos.
 
-## TITULO CUARTO. De la salubridad local
+## TITULO TERCERO. De la salubridad general
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
@@ -2895,7 +2907,7 @@ Queda prohibido que los desechos o líquidos que conduzcan los drenajes sean ver
 
 > <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO CUARTO. De la salubridad local
 
 ### CAPITULO SEGUNDO. De las autorizaciones sanitarias
 
@@ -3259,7 +3271,7 @@ Impuesto el arresto, se comunicará la resolución a la autoridad correspondient
 
 De la educación, ejercicio profesional, investigación científica y tecnológica, juventud, instalaciones educativas y mérito civil.
 
-## TITULO SEGUNDO. De la educación
+## TITULO PRIMERO. Disposiciones generales
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
@@ -3323,7 +3335,7 @@ La Secretaría de Educación verificará a través de auditorías, revisiones e 
 
 Las atribuciones en las materias de ejercicio profesional y mérito civil corresponden a la Secretaría de Educación y las relativas a investigación científica y tecnológica al Consejo Mexiquense de Ciencia y Tecnología.
 
-## TITULO TERCERO. Del ejercicio profesional
+## TITULO SEGUNDO. De la educación
 
 ### CAPITULO SEGUNDO. Del Sistema Educativo Estatal
 
@@ -3559,7 +3571,7 @@ La autorización o el reconocimiento se otorgarán cuando se satisfagan los requ
 
 En los demás casos podrán obtener el reconocimiento de validez oficial de estudios.
 
-## TITULO CUARTO. Del Consejo Mexiquense de Ciencia y Tecnología
+## TITULO TERCERO. Del ejercicio profesional
 
 ### CAPITULO SEGUNDO. De los profesionistas
 
@@ -3727,7 +3739,7 @@ El Registro Estatal de Educación será público, no tendrá efectos constitutiv
 
 45.- Las autoridades judiciales deberán comunicar oportunamente a la Secretaría de Educación las resoluciones que dicten sobre inhabilitación o suspensión en el ejercicio profesional cuando éstas hubiesen causado ejecutoria, con el objeto de que, en su caso, se cancele el registro correspondiente.
 
-## TITULO QUINTO
+## TITULO CUARTO. Del Consejo Mexiquense de Ciencia y Tecnología
 
 ###### Artículo 3.
 
@@ -3799,7 +3811,7 @@ Los ingresos del Consejo, así como los productos e instrumentos financieros aut
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
-## TITULO SEXTO
+## TITULO QUINTO
 
 ###### Artículo 3.
 
@@ -3815,7 +3827,7 @@ Los ingresos del Consejo, así como los productos e instrumentos financieros aut
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
-## TITULO SEPTIMO. Del Instituto Mexiquense de la Juventud
+## TITULO SEXTO
 
 ###### Artículo 3.
 
@@ -3829,9 +3841,7 @@ Los ingresos del Consejo, así como los productos e instrumentos financieros aut
 
 54.- (DEROGADO, G.G. 17 DE DICIEMBRE DE 2014)
 
-## TÍTULO OCTAVO. Del Instituto Mexiquense de la Infraestructura Física Educativa
-
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2010)</small>
+## TITULO SEPTIMO. Del Instituto Mexiquense de la Juventud
 
 ###### Artículo 3.
 
@@ -3847,7 +3857,9 @@ Los ingresos del Consejo, así como los productos e instrumentos financieros aut
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 22 DE DICIEMBRE DE 2010)</small>
 
-## TITULO NOVENO. Del mérito civil
+## TÍTULO OCTAVO. Del Instituto Mexiquense de la Infraestructura Física Educativa
+
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 3.
 
@@ -3927,7 +3939,7 @@ V. Los bienes o recursos que reciba por cualquier título legal.
 
 Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por la junta directiva.
 
-## TITULO DECIMO. De las infracciones y sanciones
+## TITULO NOVENO. Del mérito civil
 
 ### CAPITULO SEGUNDO. De la Presea "Estado de México"
 
@@ -4037,9 +4049,7 @@ VI. Realizar o favorecer de cualquier forma actividades políticas de tipo parti
 
 VII. Incumplir cualesquiera de los preceptos de este Libro, así como, las demás disposiciones expedidas con fundamento en él.
 
-## TITULO PRIMERO. Disposiciones generales
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+## TITULO DECIMO. De las infracciones y sanciones
 
 ###### Artículo 3.
 
@@ -4087,7 +4097,7 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-## TITULO SEGUNDO. Planeación del Turismo Sustentable
+## TITULO PRIMERO. Disposiciones generales
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -4297,9 +4307,9 @@ XII. Las demás que este Libro y otros ordenamientos jurídicos señalen.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-## TITULO TERCERO. Del Fomento del Turismo
+## TITULO SEGUNDO. Planeación del Turismo Sustentable
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO PRIMERO. Objeto del Fomento del Turismo
 
@@ -4317,9 +4327,9 @@ En todos los casos, la selección de las Zonas de Interés Turístico deberán c
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
-## TITULO CUARTO. Clasificación, Ordenamiento y Registro de los Servicios Turísticos
+## TITULO TERCERO. Del Fomento del Turismo
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO SEGUNDO. Del Desarrollo Turístico
 
@@ -4433,7 +4443,7 @@ La Secretaría y los Municipios, en el ejercicio de sus atribuciones, podrán su
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-## TITULO QUINTO. Normatividad y Certificación de la Actividad Turística
+## TITULO CUARTO. Clasificación, Ordenamiento y Registro de los Servicios Turísticos
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -4481,9 +4491,9 @@ Para tal efecto, la Secretaría determinará los servicios turísticos que estar
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
-## TITULO SEXTO. De los Derechos y Obligaciones de los Prestadores de Servicios Turísticos y de los Turistas
+## TITULO QUINTO. Normatividad y Certificación de la Actividad Turística
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 6 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO SEGUNDO. De la Certificación de la Actividad Turística
 
@@ -4519,9 +4529,9 @@ En cualquier caso, la Secretaría tomará siempre en consideración todos los pa
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
-## TITULO PRIMERO. De las Disposiciones generales
+## TITULO SEXTO. De los Derechos y Obligaciones de los Prestadores de Servicios Turísticos y de los Turistas
 
-> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
 ### CAPITULO SEGUNDO. De los Derechos y Obligaciones de los Turistas
 
@@ -4635,9 +4645,9 @@ V. Las demás que ordenen los otros ordenamientos.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-## TÍTULO SEGUNDO. De la Planeación Urbana
+## TITULO PRIMERO. De las Disposiciones generales
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ### CAPITULO SEGUNDO. De las autoridades
 
@@ -5143,7 +5153,7 @@ b) De los planes municipales, en cuyo caso tendrán por objeto especificar en un
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-## TÍTULO TERCERO. De la Administración del Desarrollo Urbano
+## TÍTULO SEGUNDO. De la Planeación Urbana
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5471,7 +5481,7 @@ La Secretaría podrá solicitar en su caso, la opinión técnica de los integran
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-## TÍTULO CUARTO. Del Sistema Estatal de Información del Desarrollo Urbano
+## TÍTULO TERCERO. De la Administración del Desarrollo Urbano
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -6061,7 +6071,7 @@ La demolición parcial o total que ordene la autoridad competente será ejecutad
 
 > <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-## TÍTULO QUINTO. De las Medidas de Seguridad, Infracciones y Sanciones
+## TÍTULO CUARTO. Del Sistema Estatal de Información del Desarrollo Urbano
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -6169,9 +6179,9 @@ Cuando así proceda, las licencias de uso del suelo y de construcción se podrá
 
 67.- Tratándose de construcciones mayores de sesenta metros cuadrados o con claros mayores de cuatro metros, la solicitud de la licencia de construcción y sus planos respectivos llevarán la firma del perito responsable de la obra, acompañándose asimismo la constancia de su inscripción en el Registro Estatal de Desarrollo Urbano.
 
-## TITULO PRIMERO. Disposiciones generales
+## TÍTULO QUINTO. De las Medidas de Seguridad, Infracciones y Sanciones
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
 ### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
 
@@ -6233,7 +6243,7 @@ La reglamentación de este Libro regulará la integración, organización y func
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-## TITULO SEGUNDO. De los Sistemas de Protección Civil
+## TITULO PRIMERO. Disposiciones generales
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -6287,9 +6297,9 @@ VIII. Resiliencia: Es la capacidad de un sistema, comunidad o sociedad potencial
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-## TITULO TERCERO. Del Fondo de Protección Civil
+## TITULO SEGUNDO. De los Sistemas de Protección Civil
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ### CAPITULO CUARTO. De los Sistemas y Consejos Municipales de Protección Civil
 
@@ -6739,7 +6749,9 @@ El Registro Estatal de Protección Civil, es obligatorio e integrará de manera 
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-## TITULO CUARTO. De los simulacros y señalizaciones
+## TITULO TERCERO. Del Fondo de Protección Civil
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
@@ -6765,9 +6777,7 @@ El Registro será público, no tendrá efectos constitutivos, ni surtirá efecto
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-## TITULO QUINTO. De las autorizaciones, registros y dictámenes
-
-> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+## TITULO CUARTO. De los simulacros y señalizaciones
 
 ###### Artículo 6.
 
@@ -6775,9 +6785,9 @@ El Registro será público, no tendrá efectos constitutivos, ni surtirá efecto
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-## TITULO SEXTO. De las declaratorias de emergencia y desastre
+## TITULO QUINTO. De las autorizaciones, registros y dictámenes
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 6.
 
@@ -6839,9 +6849,9 @@ Se podrá imponer una o más sanciones de las previstas en este artículo por un
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-## TITULO SÉPTIMO. Del sistema estatal de información de protección civil y registro estatal de protección civil
+## TITULO SEXTO. De las declaratorias de emergencia y desastre
 
-> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
@@ -6873,13 +6883,13 @@ La imposición de sanciones se hará sin perjuicio de cualquier otra responsabil
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
+## TITULO SÉPTIMO. Del sistema estatal de información de protección civil y registro estatal de protección civil
+
+> <small>(REFORMADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
+
 ## TITULO OCTAVO. De la vigilancia
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 19 DE DICIEMBRE DE 2012)</small>
-
-## TITULO PRIMERO. Disposiciones generales
-
-> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ### CAPITULO PRIMERO. Clasificación
 
@@ -6897,7 +6907,7 @@ La imposición de sanciones se hará sin perjuicio de cualquier otra responsabil
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-## TITULO SEGUNDO. De la clasificación y requisitos
+## TITULO PRIMERO. Disposiciones generales
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -6939,7 +6949,7 @@ III. La Secretaría de Finanzas, a quien corresponde las atribuciones relativas 
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-## TITULO TERCERO. De las concesiones, permisos y autorizaciones
+## TITULO SEGUNDO. De la clasificación y requisitos
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -7113,7 +7123,7 @@ III. Utilizar vehículos que reúnan las condiciones de peso, dimensión, capaci
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
-## TITULO CUARTO. Del Registro Estatal de Transporte Público
+## TITULO TERCERO. De las concesiones, permisos y autorizaciones
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -7447,9 +7457,9 @@ XI. Tráiler, autobuses y cualquier tipo de remolques: Es un vehículo de carga 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-## TITULO QUINTO. De los Servicios Auxiliares
+## TITULO CUARTO. Del Registro Estatal de Transporte Público
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 7.
 
@@ -7473,9 +7483,9 @@ VIII. Las demás señaladas por otros ordenamientos jurídicos aplicables.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO] CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-## TITULO SEXTO. De las medidas de seguridad, infracciones y sanciones
+## TITULO QUINTO. De los Servicios Auxiliares
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO SEXTO. De los vehículos, tráileres, autobuses y cualquier tipo de remolques abandonados
 
@@ -8207,7 +8217,9 @@ i) Realizar los servicios que regula este Libro, sin la concesión o permiso cor
 
 > <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO SEXTO. De las medidas de seguridad, infracciones y sanciones
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO SEGUNDO. De los vehículos
 
@@ -8239,7 +8251,7 @@ V. Omitir tener contratada y vigente la póliza de seguro de responsabilidad civ
 
 # LIBRO OCTAVO. Del Tránsito y Estacionamientos de Servicio al Público
 
-## TITULO SEGUNDO. Del tránsito
+## TITULO PRIMERO. Disposiciones generales
 
 ### CAPITULO PRIMERO. De los estacionamientos de servicio al público
 
@@ -8267,11 +8279,7 @@ V. Omitir tener contratada y vigente la póliza de seguro de responsabilidad civ
 
 Corresponde a la Comisión Estatal de Seguridad Ciudadana ejercer las atribuciones relativas al tránsito en la infraestructura vial primaria y de cuota, y a los municipios en la infraestructura vial local. Asimismo, compete a los municipios el ejercicio de las atribuciones en materia de estacionamientos de servicio al público.
 
-## TÍTULO TERCERO. De los Estacionamientos de Servicio al Público
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
+## TITULO SEGUNDO. Del tránsito
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
@@ -8489,7 +8497,11 @@ III. Someterse a las pruebas para la detección del grado de intoxicación que d
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-## TITULO CUARTO. De las infracciones y sanciones
+## TÍTULO TERCERO. De los Estacionamientos de Servicio al Público
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
 
 ### CAPITULO PRIMERO. De la producción y transformación
 
@@ -8593,7 +8605,7 @@ Para efectos del párrafo anterior, se consideran estacionamientos de servicio a
 
 17 Quáterdecies.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO CUARTO. De las infracciones y sanciones
 
 ###### Artículo 8.
 
@@ -8821,7 +8833,7 @@ II. Multa de 50 a 100 días de salario mínimo vigente y el pago de los derechos
 
 # LIBRO NOVENO. Del fomento y desarrollo agropecuario y acuícola
 
-## TITULO SEGUNDO. Del fomento y desarrollo de las actividades agropecuarias y acuícolas
+## TITULO PRIMERO. Disposiciones generales
 
 ### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
 
@@ -8855,9 +8867,7 @@ Se entiende por productor rural la persona física que directa o indirectamente 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 3 DE MAYO DE 2006)</small>
 
-## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Agropecuario y Acuícola
-
-> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
+## TITULO SEGUNDO. Del fomento y desarrollo de las actividades agropecuarias y acuícolas
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
@@ -9051,15 +9061,15 @@ VII. Considerar a quienes no puedan por sí mismos llevar a cabo las inversiones
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 3 DE MAYO DE 2006)</small>
 
-## TITULO CUARTO. De las infracciones y sanciones
+## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Agropecuario y Acuícola
+
+> <small>(REFORMADO, G.G. 3 DE MAYO DE 2006)</small>
 
 ###### Artículo 9.
 
 18.- La Secretaría de Desarrollo Agropecuario organizará y coordinará el sistema estatal de información de desarrollo agropecuario y acuícola, con el objeto de obtener, generar y procesar la información necesaria para planear el fomento y evaluar el desarrollo de las actividades a que se refiere este Libro, así como para proveer de información oportuna a quienes participan en dichas actividades y al público en general.
 
-## TITULO PRIMERO. Disposiciones generales
-
-> <small>(DEROGADO CON LOS ARTÍCULOS, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+## TITULO CUARTO. De las infracciones y sanciones
 
 ### CAPITULO TERCERO. Del Instituto de Fomento Minero y Estudios Geológicos del Estado de México
 
@@ -9089,9 +9099,9 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-## TITULO SEGUNDO. Del fomento empresarial
+## TITULO PRIMERO. Disposiciones generales
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
@@ -9157,7 +9167,9 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Económico y Registro Estatal de Desarrollo Económico
+## TITULO SEGUNDO. Del fomento empresarial
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPITULO CUARTO. Del Consejo Estatal para la Protección de las Personas con Discapacidad y su Integración al Desarrollo Social
 
@@ -9227,7 +9239,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-## TITULO CUARTO. Del otorgamiento de apoyos
+## TITULO TERCERO. Del Sistema Estatal de Información de Desarrollo Económico y Registro Estatal de Desarrollo Económico
 
 ###### Artículo 10.
 
@@ -9247,7 +9259,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-## TITULO QUINTO. Del Premio Estatal a la Excelencia Empresarial Mexiquense
+## TITULO CUARTO. Del otorgamiento de apoyos
 
 ###### Artículo 10.
 
@@ -9259,11 +9271,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-## TITULO PRIMERO. Disposiciones generales
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
+## TITULO QUINTO. Del Premio Estatal a la Excelencia Empresarial Mexiquense
 
 ###### Artículo 10.
 
@@ -9279,7 +9287,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-## TITULO SEGUNDO. De la prestación de los servicios a personas con discapacidad
+## TITULO PRIMERO. Disposiciones generales
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -9375,9 +9383,11 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-## TITULO TERCERO. De los derechos y obligaciones de los usuarios y participación de la comunidad
+## TITULO SEGUNDO. De la prestación de los servicios a personas con discapacidad
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO OCTAVO. De la atención integral a las personas con discapacidad
 
@@ -9601,9 +9611,9 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-## TITULO CUARTO. De los profesionales, técnicos y auxiliares para los servicios de salud y la educación
+## TITULO TERCERO. De los derechos y obligaciones de los usuarios y participación de la comunidad
 
-> <small>N. DE E. DEL ANÁLISIS REALIZADO SE ADVIERTE QUE CON FECHA 14 DE MAYO DE 2014 EL LEGISLADOR REFORMA EL ARTÍCULO 11.42 "El Gobierno del Estado, a través de las Secretarías de Salud y de Educación, del Sistema Estatal para el Desarrollo Integral de la Familia del Estado de México y de la Universidad Autónoma del Estado de México, impulsará y fomentará la formación, capacitación y actualización de los recursos humanos responsables de la atención de personas con discapacidad, de conformidad con los objetivos y prioridades del Sistema Estatal de Salud y los programas educativos."; SIN EMBARGO, DICHO ARTÍCULO FUE DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO NÚMERO 523, PUBLICADO EN LA G.G. DEL 31 DE AGOSTO DE 2012.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
@@ -9619,9 +9629,9 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-## TITULO QUINTO. De las sanciones
+## TITULO CUARTO. De los profesionales, técnicos y auxiliares para los servicios de salud y la educación
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. DEL ANÁLISIS REALIZADO SE ADVIERTE QUE CON FECHA 14 DE MAYO DE 2014 EL LEGISLADOR REFORMA EL ARTÍCULO 11.42 "El Gobierno del Estado, a través de las Secretarías de Salud y de Educación, del Sistema Estatal para el Desarrollo Integral de la Familia del Estado de México y de la Universidad Autónoma del Estado de México, impulsará y fomentará la formación, capacitación y actualización de los recursos humanos responsables de la atención de personas con discapacidad, de conformidad con los objetivos y prioridades del Sistema Estatal de Salud y los programas educativos."; SIN EMBARGO, DICHO ARTÍCULO FUE DEROGADO POR EL TRANSITORIO TERCERO DEL DECRETO NÚMERO 523, PUBLICADO EN LA G.G. DEL 31 DE AGOSTO DE 2012.</small>
 
 ###### Artículo 11.
 
@@ -9631,9 +9641,9 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR TRANSITORIO TERCERO DE LA LEY PARA LA PROTECCIÓN, INTEGRACIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MÉXICO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-## TITULO PRIMERO. De la información e investigación geográfica, estadística y catastral
+## TITULO QUINTO. De las sanciones
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
@@ -11191,7 +11201,7 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS, Y ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-## TITULO SEGUNDO. Del Instituto
+## TITULO PRIMERO. De la información e investigación geográfica, estadística y catastral
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -11221,9 +11231,9 @@ V. El registro y resguardo de la información e investigaciones en materia geogr
 
 VI. Las normas técnicas para otorgar el carácter oficial a la información y resultados de las investigaciones geográficas, estadísticas y catastrales;
 
-VII. Los principios conforme a los cuales las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial y las unidades administrativas de la administración pública municipal, deberán ejercer las funciones que les correspondan como partes integrantes de los Sistemas y Servicios Estatales de información e Investigación Geográfica, Estadística y Catastral;
+VII. Los principios conforme a los cuales las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial y las unidades administrativas de la administración pública municipal, deberán ejercer las funciones que les correspondan como partes integrantes de los Sistemas y Servicios Estatales de Información e Investigación Geográfica, Estadística y Catastral;
 
-VIII. La vinculación de las actividades que desarrollen los poderes Legislativo, Ejecutivo y Judicial, en materia de Información e investigación geográfica, estadística y catastral;
+VIII. La vinculación de las actividades que desarrollen los poderes Legislativo, Ejecutivo y Judicial, en materia de información e investigación geográfica, estadística y catastral;
 
 IX. La coordinación, participación y colaboración que corresponda, de los gobiernos municipales, de los particulares y de los grupos y organizaciones sociales, a efecto de fortalecer el funcionamiento del Sistema y Servicio Público Estatal de Información e Investigación Geográfica, Estadística y Catastral;
 
@@ -11771,7 +11781,7 @@ V. Apoyar al IGECEM en la promoción y divulgación de los procesos que integran
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS, Y ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-## TITULO TERCERO. De las infracciones y sanciones de las infracciones y sanciones
+## TITULO SEGUNDO. Del Instituto
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -11973,9 +11983,9 @@ El Secretario Técnico, tiene las facultades y obligaciones que se establecen en
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS, Y ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
-## TITULO PRIMERO. Disposiciones generales
+## TITULO TERCERO. De las infracciones y sanciones de las infracciones y sanciones
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ### CAPITULO SEGUNDO. Planeación, Programación y Presupuestación
 
@@ -12331,7 +12341,7 @@ II. Por actos u omisiones que entorpezcan los procedimientos de edición, public
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-## TITULO SEGUNDO. De los Proyectos
+## TITULO PRIMERO. Disposiciones generales
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -12425,7 +12435,7 @@ Las disposiciones administrativas que se emitan de conformidad a la facultad pre
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-## TÍTULO TERCERO. Del modelo de Contrato
+## TITULO SEGUNDO. De los Proyectos
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -12657,7 +12667,7 @@ VIII. Desarrollar, administrar, supervisar, evaluar y rendir los informes necesa
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-## TITULO CUARTO. De los procedimientos de adjudicación
+## TÍTULO TERCERO. Del modelo de Contrato
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -12799,7 +12809,7 @@ Cualquier modificación que pudiere surgir como resultado de las juntas de aclar
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-## TITULO QUINTO. De la adjudicación, celebración y aplicación de los contratos
+## TITULO CUARTO. De los procedimientos de adjudicación
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -13081,7 +13091,7 @@ XI. Las demás que por cualquier causa se encuentren impedidas para ello por dis
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-## TITULO SEXTO. De la información
+## TITULO QUINTO. De la adjudicación, celebración y aplicación de los contratos
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -13155,7 +13165,7 @@ En caso de incumplimiento de la Unidad Contratante y siempre que ésta dependa d
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-## TITULO SEPTIMO. De las infracciones y sanciones
+## TITULO SEXTO. De la información
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -13185,7 +13195,7 @@ Los órganos de control interno y el Órgano Superior de Fiscalización del Esta
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-## TITULO OCTAVO. De la Instancia de Inconformidad
+## TITULO SEPTIMO. De las infracciones y sanciones
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -13229,9 +13239,9 @@ IV. La situación específica del infractor.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
-## TITULO PRIMERO. Disposiciones Generales
+## TITULO OCTAVO. De la Instancia de Inconformidad
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO CUARTO. De la terminación y revocación
 
@@ -13295,7 +13305,7 @@ En las materias reguladas en el presente Libro no procederá el recurso administ
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-## TITULO SEGUNDO. De la Infraestructura Vial
+## TITULO PRIMERO. Disposiciones Generales
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -13455,7 +13465,7 @@ Para los efectos de este artículo la Secretaría contará con un registro de v�
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-## TITULO TERCERO. De las Concesiones, Permisos y Dictámenes
+## TITULO SEGUNDO. De la Infraestructura Vial
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -13785,7 +13795,7 @@ Las disposiciones reglamentarias aplicables y la Secretaría, mediante disposici
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-## TITULO CUARTO. De los Organismos Descentralizados y el Registro Estatal de Comunicaciones
+## TITULO TERCERO. De las Concesiones, Permisos y Dictámenes
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -14299,9 +14309,9 @@ XV. Las demás que se señalen en este Libro, en su Reglamento Interno, el Progr
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-## TITULO QUINTO. De las Medidas de Seguridad, Infracciones y Sanciones
+## TITULO CUARTO. De los Organismos Descentralizados y el Registro Estatal de Comunicaciones
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
 ### CAPITULO SEGUNDO. De los permisos de obra
 
@@ -14605,9 +14615,9 @@ El Registro Estatal de Comunicaciones será público y tendrá efectos declarati
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE ENERO DE 2014)</small>
 
-## TITULO PRIMERO. De las disposiciones generales
+## TITULO QUINTO. De las Medidas de Seguridad, Infracciones y Sanciones
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 ###### Artículo 17.
 
@@ -14707,7 +14717,7 @@ Si el retiro es ordenado como consecuencia de una sanción o resolución que pon
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-## TITULO SEGUNDO. De las licencias, permisos y constancias
+## TITULO PRIMERO. De las disposiciones generales
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15205,7 +15215,7 @@ XII. Obras urgentes para prevenir accidentes o en ejecución de medidas de segur
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-## TITULO TERCERO. De los lineamientos para los proyectos arquitectónicos
+## TITULO SEGUNDO. De las licencias, permisos y constancias
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15395,7 +15405,7 @@ Los locales destinados a cines, auditorios, teatros, salas de concierto, reunió
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-## TITULO CUARTO. De la seguridad estructural de las construcciones
+## TITULO TERCERO. De los lineamientos para los proyectos arquitectónicos
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15563,7 +15573,7 @@ II. Viento, cuyo objeto consiste en garantizar la seguridad de estructuras para 
 
 III. Nieve y granizo, con el propósito de prever la seguridad en el diseño de estructuras sometidas a la acción de nieve y granizo, cuyos efectos sean significativos.
 
-## TITULO QUINTO. De la ejecución de las construcciones
+## TITULO CUARTO. De la seguridad estructural de las construcciones
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15731,9 +15741,9 @@ En las obras deberán proporcionarse a los trabajadores servicios provisionales 
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
-## TITULO SEXTO. De las visitas de verificación, medidas de seguridad y sanciones
+## TITULO QUINTO. De la ejecución de las construcciones
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -15852,6 +15862,10 @@ II. Se hubieren otorgado en contravención a lo dispuesto por este Libro, las No
 III. Cuando en el plazo señalado en una medida de seguridad no se haya dado cumplimiento a las causas que le dieron origen.
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+## TITULO SEXTO. De las visitas de verificación, medidas de seguridad y sanciones
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
 
@@ -17576,3 +17590,15 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 6 DE JULIO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. La Secretaría de la Contraloría del Estado de México en un plazo de noventa días hábiles expedirá los acuerdos, lineamientos y disposiciones que permitan la implementación del Registro Estatal de Inspectores.
+
+CUARTO. Para la operación del Registro Estatal de Inspectores en materia fiscal, las secretarías de Finanzas y de la Contraloría deberán suscribir el convenio correspondiente.
+
+QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
