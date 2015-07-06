@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-administrativos-del-estado-de-17468"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-07"
-last_updated: "2015-01-13"
+last_updated: "2015-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE AGOSTO DE 2015 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 13 DE ENERO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO 367 PUBLICADO EN LA G.G. DE 18 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE JULIO DE 2015.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 7 de febrero de 1997.
 
@@ -1028,6 +1028,10 @@ XIII. Los avisos de requerimiento deberán ser retirados una vez que el particul
 > <small>(ADICIONADO, G.G. 22 DE ENERO DE 2014)</small>
 
 La falta de asistencia por parte del particular a la visita de verificación, no impedirá su realización, en materia de Derecho de Vía y Publicidad Exterior reguladas en los capítulos segundo y tercero del Título Segundo del Libro Décimo Séptimo del Código Administrativo para el Estado de México.
+
+> <small>(ADICIONADO, G.G. 6 DE JULIO DE 2015)</small>
+
+Las dependencias y organismos auxiliares deberán inscribir en el Registro Estatal de Inspectores los datos relativos a las visitas, inspecciones y verificaciones que se realicen, conforme a las disposiciones correspondientes.
 
 ###### Artículo 129.
 
@@ -3004,3 +3008,15 @@ OCTAVO. Se abroga la Ley que Regula las Casas de Empeño en el Estado de México
 NOVENO. Para el cumplimiento del presente Decreto las áreas y dependencias involucradas se ajustarán al presupuesto y recursos humanos asignados para el ejercicio fiscal del año que transcurre.
 
 DÉCIMO. Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+G.G. 6 DE JULIO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Secretaría de la Contraloría del Estado de México en un plazo de noventa días hábiles expedirá los acuerdos, lineamientos y disposiciones que permitan la implementación del Registro Estatal de Inspectores.
+
+CUARTO. Para la operación del Registro Estatal de Inspectores en materia fiscal, las secretarías de Finanzas y de la Contraloría deberán suscribir el convenio correspondiente.
+
+QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
