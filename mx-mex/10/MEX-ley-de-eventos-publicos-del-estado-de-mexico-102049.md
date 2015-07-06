@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-eventos-publicos-del-estado-de-mexico-102049"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-18"
-last_updated: "2014-09-17"
+last_updated: "2015-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DE EVENTOS PÚBLICOS DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL GACETA DEL GOBIERNO DEL 17 DE SEPTIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE JULIO DE 2015.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el lunes 18 de agosto de 2014.
 
@@ -239,7 +237,17 @@ XXX. Retirar toda la publicidad que se hubiere colocado en la vía pública una 
 
 XXXI. Proveer el servicio de sanitarios públicos en condiciones de higiene y con capacidad acorde al aforo del evento.
 
-XXXII. Las demás que se establezcan en la Ley y otras disposiciones aplicables.
+> <small>(REFORMADA, G.G. 6 DE JULIO DE 2015)</small>
+
+XXXII. Cumplir con el pago del impuesto sobre anuncios publicitarios establecido en el Código Financiero del Estado de México y Municipios.
+
+> <small>(ADICIONADA, G.G. 6 DE JULIO DE 2015)</small>
+
+XXXIII. Abstenerse de colocar publicidad del evento público a través de anuncios colgantes, adosados y los pintados en bardas, cercas y predios sin construir.
+
+> <small>(ADICIONADA, G.G. 6 DE JULIO DE 2015)</small>
+
+XXXIV. Las demás que se establezcan en la Ley y otras disposiciones aplicables.
 
 Los eventos públicos se regirán por lo ordenado en esta Ley, su reglamento y demás disposiciones aplicables.
 
@@ -283,7 +291,13 @@ IX. Que el lugar en el que se ha de realizar el evento público cuente con el di
 
 X. Contar con el dictamen de protección civil correspondiente.
 
-XI. Las demás que establezca el reglamento y demás disposiciones aplicables.
+> <small>(REFORMADA, G.G. 6 DE JULIO DE 2015)</small>
+
+XI. Que los titulares efectúen el pago del Impuesto sobre anuncios publicitarios establecido en el Código Financiero del Estado de México y Municipios.
+
+> <small>(ADICIONADA, G.G. 6 DE JULIO DE 2015)</small>
+
+XII. Las demás que establezca el reglamento y demás disposiciones aplicables.
 
 #### SECCIÓN CUARTA. VERIFICADOR EN JEFE
 
@@ -449,7 +463,9 @@ Serán sancionadas con multa las infracciones siguientes:
 
 I. De quinientos a mil días de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quien incumpla lo previsto por las fracciones VII, VIII, IX, XIX, XXII, XXVI y XXX del artículo 10 de la Ley.
 
-II. De mil a dos mil días de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quien incumpla lo previsto por las fracciones XII, XIII, XVI, XVII, XXI, XXIV, XXV y XXIX del artículo 10 de la Ley.
+> <small>(REFORMADA, G.G. 6 DE JULIO DE 2015)</small>
+
+II. De mil a dos mil días de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quien incumpla lo previsto por las fracciones XII, XIII, XVI, XVII, XXI, XXIV, XXV, XXIX, XXXII y XXXIII del artículo 10 de esta Ley.
 
 III. De dos mil a diez mil días de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quien incumpla lo previsto por las fracciones I, II, III, IV, V, VI, X, XI, XIV, XV, XVIII, XX, XXIII, XXVII y XXVIII del artículo 10 de la Ley.
 
@@ -512,3 +528,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 6 DE JULIO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan lo (sic) establecido por el presente Decreto.
