@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-de-turismo-29"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-05-02"
-last_updated: "1999-11-09"
+last_updated: "2015-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1994-04-29"
 
 REGLAMENTO DE LA LEY FEDERAL DE TURISMO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE NOVIEMBRE DE 1999.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY GENERAL DE TURISMO, PUBLICADO EN EL D.O.F. DE 6 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE JULIO DE 2015.
 
 Reglamento publicado en el Diario Oficial de la Federación el lunes 2 de mayo de 1994.
 
@@ -147,7 +149,7 @@ V.- Practicar las visitas de verificación, de conformidad con lo establecido en
 
 VI.- Participar en la integración del catálogo.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 9 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 9 DE NOVIEMBRE DE 1999)</small>
 
 ### CAPITULO IV. DE LA PROMOCION TURISTICA
 
@@ -267,7 +269,7 @@ Este tipo de agencias deberá integrar y publicar anualmente, cuando menos, dos 
 
 ART. 31.- La agencia de viajes minorista es aquella que ofrece y vende al público consumidor paquetes turísticos integrados por la operadora mayorista; servicios de otros prestadores de servicios turísticos o relacionados con ellos; y, a solicitud expresa del cliente, integra dos o más servicios turísticos o relacionados con éstos en un solo producto.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 9 DE NOVIEMBRE DE 1999)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 9 DE NOVIEMBRE DE 1999)</small>
 
 ART. 32.- La subagencia de viajes es la persona física o moral que ofrece y vende al público consumidor exclusivamente servicios turísticos o relacionados con ellos.
 
@@ -357,7 +359,7 @@ ART. 49.- Presentada la solicitud y cubiertos los requisitos, la Secretaría con
 
 ART. 50.- La Secretaría otorgará credencial de reconocimiento permanente a los guías que hayan cumplido con todas las disposiciones del presente Reglamento y que, a juicio de la misma, hayan realizado una labor satisfactoria, de manera ininterrumpida, durante doce años de servicios.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 9 DE NOVIEMBRE DE 1999)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 9 DE NOVIEMBRE DE 1999)</small>
 
 ART. 51.- La Secretaría podrá verificar directamente o en coordinación con las dependencias u órganos estatales o municipales de turismo a que se refieren los artículos 17 y 18 de la Ley, la veracidad de la información proporcionada por los guías de turistas.
 
@@ -417,7 +419,7 @@ V.- Contar con los formatos de quejas con porte pagado de la Secretaría.
 
 La información a que se refieren las fracciones II y III deberá incluirse en la promoción y publicidad que elaboren.
 
-### CAPITULO XII. DE LAS EMPRESAS DE SISTEMAS DE INTERCAMBIO DE SERVICIOS TURÌSTICOS
+### CAPITULO XII. DE LAS EMPRESAS DE SISTEMAS DE INTERCAMBIO DE SERVICIOS TURÍSTICOS
 
 ART. 62.- Las empresas de intercambio deberán reunir los siguientes requisitos:
 
@@ -515,7 +517,7 @@ ART. 88.- En el envío del recurso por correo certificado con acuse de recibo, s
 
 ART. 89.- El recurso de revisión se tendrá por no interpuesto cuando se presente fuera del término que dispone la Ley y cuando el promovente no acredite la personalidad o legitimación con la cual se ostente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE NOVIEMBRE DE 1999)</small>
 
 ART. 90.- La Secretaría dictará la resolución dentro de los treinta días hábiles siguientes a la fecha de presentación del recurso.
 
@@ -541,8 +543,58 @@ QUINTO.- Los prestadores de servicios turísticos que se encuentren inscritos en
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de abril, de mil novecientos noventa y cuatro.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Desarrollo Social, Carlos Rojas Gutiérrez.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Jaime Serra Puche.- Rúbrica.- El Secretario de Turismo, Jesús Silva Herzog.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 9 DE NOVIEMBRE DE 1999.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE JULIO DE 2015.
+
+Primero.- El presente Reglamento entrará en vigor al día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga el Reglamento de la Ley Federal de Turismo, publicado en el Diario Oficial de la Federación el 2 de mayo de 1994.
+
+Tercero.- La Secretaría publicará en el Diario Oficial de la Federación, dentro de un plazo de sesenta días hábiles a partir de la entrada en vigor del presente Reglamento, el Acuerdo del Atlas Turístico de México previsto en este ordenamiento.
+
+Cuarto.- La Secretaría publicará en el Diario Oficial de la Federación, en un plazo de sesenta días hábiles a partir de la entrada en vigor del presente Reglamento, la puesta en línea de las actualizaciones del Atlas Turístico de México, cuando éstas se refieran a cambios efectuados en el mismo.
+
+Quinto.- La Secretaría publicará en el Diario Oficial de la Federación, dentro de un plazo de sesenta días hábiles a partir de la entrada en vigor del presente Reglamento, el Acuerdo del Sistema Nacional de Información Estadística del Sector Turismo de México, previsto en este ordenamiento.
+
+Sexto.- La Secretaría publicará en el Diario Oficial de la Federación, dentro de un plazo de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Reglamento, el Acuerdo por el que se emite la Metodología para la Elaboración, Integración, Ejecución y Evaluación del Programa General, previsto en este ordenamiento.
+
+Séptimo.- La Secretaría evaluará el Programa General, después de haber transcurrido tres años a partir de la publicación del Acuerdo por el que se emite la Metodología para la Elaboración, Integración, Ejecución y Evaluación del Programa General.
+
+Octavo.- La Secretaría formulará el Programa General en un plazo de un año a partir de la publicación del Acuerdo por el que se emite la Metodología para la Elaboración, Integración, Ejecución y Evaluación del Programa General.
+
+Noveno.- La Secretaría publicará en el Diario Oficial de la Federación, dentro de los ciento ochenta días hábiles a partir de la entrada en vigor del presente Reglamento, los Lineamientos para la Dictaminación de las Zonas de Desarrollo Turístico Sustentable, previstos en este ordenamiento.
+
+Décimo.- La Secretaría, para efecto de lo dispuesto en el artículo 75 del presente Reglamento, en el plazo de un año, contado a partir de la entrada en vigor de este Reglamento, definirá las acciones y programas específicos que los Prestadores de Servicios Turísticos deberán instrumentar en materia de accesibilidad, considerando las condiciones y características de cada localidad y de cada Servicio Turístico.
+
+La Secretaría, para efectuar lo anterior, considerará las opiniones que, en su caso, emitan las autoridades competentes en materia de accesibilidad de los tres órdenes de gobierno, así como las opiniones de los Prestadores de Servicios Turísticos.
+
+Décimo Primero.- La actualización y rectificación de los datos de los Prestadores de Servicios Turísticos se llevarán a cabo mediante la presentación de la documentación en original y copia simple de la información que se pretenda actualizar o rectificar, quedando en el expediente la copia simple previo cotejo con su original, en tanto se ponga en operación el sistema electrónico.
+
+Los trámites y actuaciones realizados por los Prestadores de Servicios Turísticos para la actualización y rectificación de datos, antes de la entrada en vigor del presente Reglamento serán incluidos por la Secretaría en el proceso de modernización del Registro Nacional de Turismo.
+
+Décimo Segundo.- La Secretaría publicará en el Diario Oficial de la Federación los formatos y el Acuerdo previstos en el artículo 79 del presente Reglamento, en un plazo de sesenta días hábiles, contados a partir de la entrada en vigor del presente ordenamiento.
+
+Los trámites y procedimientos administrativos para la acreditación de Guías de Turistas, que se inicien de manera previa a la publicación del Acuerdo mencionado en el párrafo anterior, así como aquéllos que se encuentren pendientes de resolución, deberán apegarse a las disposiciones que al efecto establecen las Normas Oficiales Mexicanas vigentes al momento de iniciado el trámite respectivo.
+
+Décimo Tercero.- La Secretaría llevará a cabo la modernización del Registro Nacional de Turismo, al que se refiere el artículo Sexto Transitorio de la Ley, dentro de los ciento ochenta días hábiles a partir de la entrada en vigor del presente Reglamento.
+
+La modernización del Registro Nacional de Turismo se refiere a la puesta en marcha del sistema informático y migración a servidores que soportan el flujo de información; a la celebración de convenios de coordinación con los Estados y el Distrito Federal para la operación del Registro Nacional de Turismo, así como a la preparación y entrega de la base de datos electrónica de los Prestadores de Servicios Turísticos registrados en cada Estado, y el Distrito Federal, para su resguardo correspondiente.
+
+Décimo Cuarto.- La Secretaría publicará en el Diario Oficial de la Federación, dentro de un plazo de noventa días hábiles a partir de la entrada en vigor del presente Reglamento, la convocatoria de inscripción de los Prestadores de Servicios Turísticos en el Registro Nacional de Turismo.
+
+Décimo Quinto.- La Secretaría publicará en el Diario Oficial de la Federación, dentro de un plazo de noventa días hábiles a partir de la entrada en vigor del presente Reglamento, el Acuerdo por el que se emite el catálogo de los diferentes Servicios Turísticos cuyos Prestadores de Servicios Turísticos deberán inscribirse en el Registro Nacional de Turismo, al que hace referencia el artículo 87, fracción I de este ordenamiento.
+
+Décimo Sexto.- Los Prestadores de Servicios Turísticos que se encuentren inscritos en el Registro Nacional de Turismo, no requerirán de un nuevo proceso de inscripción; no obstante, a partir del día siguiente de la publicación de la convocatoria para inscribirse en el Registro Nacional de Turismo, contarán con un plazo de un año para actualizar la información y documentación en los términos de la convocatoria señalada en el presente Reglamento. De no cumplir con lo anterior, se cancelará el registro correspondiente.
+
+Décimo Séptimo.- La Secretaría publicará en el Diario Oficial de la Federación, dentro de un plazo de sesenta días hábiles a partir de la entrada en vigor del presente Reglamento, el Acuerdo por el que se emiten los Lineamientos del Sistema de Clasificación Hotelera, al que hace referencia este ordenamiento. A partir de la publicación de estos Lineamientos, con base en la obligatoriedad que marca el artículo 4, fracción XII y el artículo 58, fracción X de la Ley los establecimientos hoteleros y de hospedaje contarán con un plazo de un año para cumplir con las características y requisitos exigidos.
+
+Décimo Octavo.- Los trámites y procedimientos administrativos que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, deberán ser concluidos conforme a las disposiciones vigentes al momento de su presentación.
+
+Respecto del plazo establecido en el artículo 92 del presente Reglamento relativo a la expedición del certificado de Prestador de Servicios Turísticos, no se aplicará lo dispuesto en el “Acuerdo por el que se reduce el plazo de resolución y se reducen requisitos para la presentación de trámites ante la Secretaría de Turismo”, publicado en el Diario Oficial de la Federación el 17 de diciembre de 2012.
+
+Décimo Noveno.- La Secretaría publicará en el Diario Oficial de la Federación, dentro de un plazo de ciento ochenta días hábiles a partir de la entrada en vigor del presente Reglamento, el Acuerdo por el que se emiten los Lineamientos del Sistema de Certificación al que hace referencia el artículo 105, de este ordenamiento.
