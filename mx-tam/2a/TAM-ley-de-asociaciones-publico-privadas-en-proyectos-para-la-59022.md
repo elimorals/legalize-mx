@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-asociaciones-publico-privadas-en-proyectos-para-la-59022
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2010-04-27"
+last_updated: "2015-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DE ASOCIACIONES PUBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACION DE SERVICIOS DEL ESTADO DE TAMAULIPAS
 
-LEY DE ASOCIACIONES PUBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACION DE SERVICIOS DEL ESTADO DE TAMAULlPAS
+LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
 
 Ley publicada en el Extraordinario N° 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -33,11 +33,11 @@ Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decr
 
 Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
 
-LA QUINCUAGESIMA NOVENA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULlPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTICULOS 58 FRACCION I DE LA CONSTITUCION POLÍTICA LOCAL; Y 119 DE LA LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULlPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+LA QUINCUAGESIMA NOVENA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTICULOS 58 FRACCION I DE LA CONSTITUCION POLÍTICA LOCAL; Y 119 DE LA LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
-DECRETO No. LlX-1094
+DECRETO No. LIX-1094
 
-MEDIANTE EL CUAL SE EXPIDE LA LEY DE ASOCIACIONES PUBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACION DE SERVICIOS DEL ESTADO DE TAMAULlPAS.
+MEDIANTE EL CUAL SE EXPIDE LA LEY DE ASOCIACIONES PUBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACION DE SERVICIOS DEL ESTADO DE TAMAULIPAS.
 
 ## TITULO PRIMERO. De las disposiciones generales
 
@@ -85,7 +85,7 @@ g) Dependencia: cualquiera de las dependencias establecidas en la Ley Orgánica 
 
 h) Entidad: cualquiera de las entidades a que se refiere la Ley Orgánica de la Administración Pública del Estado independientemente del ordenamiento mediante el cual se crearon;
 
-i) Estudio de costo-beneficio: el estudio que deberá llevar a cabo la dependencia o entidad sobre la pertinencia del proyecto frente a la opción de lIevarlo a cabo mediante el esquema ordinario de gasto de inversión;
+i) Estudio de costo-beneficio: el estudio que deberá llevar a cabo la dependencia o entidad sobre la pertinencia del proyecto frente a la opción de llevarlo a cabo mediante el esquema ordinario de gasto de inversión;
 
 j) Garantía estatal: la afectación por parte de la administración pública estatal, como garantía o fuente de pago alterna, de cualquier ingreso derivado de contribuciones u otros conceptos que sean susceptibles de afectación;
 
@@ -109,7 +109,9 @@ Principios.
 
 1. En la aplicación de esta ley, las dependencias y entidades deberán observar que la celebración de contratos y el ejercicio de recursos públicos para ello se realice con base en los principios de legalidad, honradez, responsabilidad hacendaria, economía, racionalidad, eficiencia, eficacia, igualdad de trato, no discriminación, respeto a los intereses de los usuarios, distribución objetiva de riesgos, información pública, control y rendición de cuentas.
 
-2. Al aplicar este ordenamiento, las dependencias y entidades observarán las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Estado.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
+2. Al aplicar este ordenamiento, las dependencias y entidades observarán las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Estado y de la Ley General de Contabilidad Gubernamental.
 
 ### Capítulo I. Características
 
@@ -151,7 +153,7 @@ Características de los proyectos.
 
 1. Cualquier planteamiento para la presentación de un proyecto para la prestación de servicios deberá cumplir con las características siguientes:
 
-a) La realización del proyecto debe implicar la celebración de un contrato de prestación de servicios y, en su caso, cualquier otro acto jurídico necesario para lIevarlo a cabo, en el que se estipule el pago de una contraprestación al particular interesado por los servicios que eventualmente preste;
+a) La realización del proyecto debe implicar la celebración de un contrato de prestación de servicios y, en su caso, cualquier otro acto jurídico necesario para llevarlo a cabo, en el que se estipule el pago de una contraprestación al particular interesado por los servicios que eventualmente preste;
 
 b) Los servicios que se presten a la dependencia o entidad que contrate deberán permitirle dar un mejor cumplimiento a los objetivos institucionales que la misma tenga asignados conforme a las disposiciones que la rigen, el Plan Estatal de Desarrollo, el Programa Estatal de Infraestructura y los programas que deriven de la Ley Estatal de Planeación;
 
@@ -683,7 +685,7 @@ g) La indicación de que no podrán participar las personas que se encuentren im
 
 Acceso a las bases.
 
-1. Las bases para la licitación pública se pondrán a disposición de los interesados en el domicilio que señala la dependencia o entidad a cargo del proyecto y, cuando así lo prevean las mismas, a través de medios de difusión electrónicos, a partir del día siguiente al de la publicitación (sic) de la convocatoria conforme al párrafo 1 del artículo anterior, y hasta el décimo día hábil previo al acto de presentación y apertura de ofertas.
+1. Las bases para la licitación pública se pondrán a disposición de los interesados en el domicilio que señala la dependencia o entidad a cargo del proyecto y, cuando así lo prevean las mismas, a través de medios de difusión electrónicos, a partir del día siguiente al de la publicitación de la convocatoria conforme al párrafo 1 del artículo anterior, y hasta el décimo día hábil previo al acto de presentación y apertura de ofertas.
 
 2. Es responsabilidad exclusiva de los interesados la adquisición oportuna de las bases de la licitación pública.
 
@@ -1093,7 +1095,7 @@ Verificación.
 
 4. En el caso de que la irregularidad sea detectada por la Contraloría Gubernamental, para actuar deberá contar con la opinión de la Secretaría.
 
-###### Articulo 78.
+###### Artículo 78.
 
 Transparencia e información pública.
 
@@ -1257,7 +1259,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los siete días del mes de diciembre del año dos mi siete.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 12 DE JUNIO DE 2008.
 
@@ -1310,3 +1312,13 @@ P.O. 27 DE ABRIL DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas que mediante el presente Decreto se efectúan a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, entrarán en vigor a partir de la expedición del mismo.
