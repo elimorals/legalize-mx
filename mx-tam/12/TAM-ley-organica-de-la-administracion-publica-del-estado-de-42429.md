@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-42429"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-12-21"
-last_updated: "2015-03-24"
+last_updated: "2015-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 21 de diciembre de 2004.
 
@@ -427,69 +427,75 @@ VI. Dar curso a los trámites y efectuar los registros que requiere el control, 
 
 VII. Administrar, controlar, y actualizar el Registro Estatal de Contribuyentes y aplicar las disposiciones legales vigentes respecto de las obligaciones fiscales de los sujetos obligados a contribuir al gasto público;
 
-VIII. Llevar la contabilidad del Gobierno del Estado, formular los estados financieros y la cuenta pública trimestral del Poder Ejecutivo para su remisión al Congreso del Estado;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
-IX. Administrar y custodiar los fondos y valores del Gobierno del Estado y fincar, en su caso, las responsabilidades correspondientes, sin demérito de la acción que compete a la Contraloría Gubernamental y, en su caso, a la Procuraduría General de Justicia;
+VIII. Llevar la contabilidad del Poder Ejecutivo y formular sus estados financieros, así mismo fijar los lineamientos para la elaboración de la información necesaria relativa a la integración de la Cuenta Pública del Gobierno del Estado de Tamaulipas;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+
+IX. Recibir la información contable, financiera, patrimonial, presupuestal y programática del Poder Legislativo, del Poder Judicial y de los órganos estatales con autonomía de los poderes para la integración y consolidación en la Cuenta Pública del Gobierno del Estado de Tamaulipas y su presentación de la misma ante el Congreso del Estado, en los términos de las leyes de la materia;
+
+X. Administrar y custodiar los fondos y valores del Gobierno del Estado y fincar, en su caso, las responsabilidades correspondientes, sin demérito de la acción que compete a la Contraloría Gubernamental y, en su caso, a la Procuraduría General de Justicia;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-X. Ordenar y practicar las visitas domiciliarias, auditorías, inspecciones y verificaciones; realizar los demás actos que establece la Ley Aduanera en materia de Comercio Exterior y las disposiciones fiscales; así como lo indispensable para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de Comercio Exterior; impuestos, derechos, aprovechamientos, estímulos fiscales, franquicias, comprobantes fiscales y accesorios de carácter estatal, y de los de carácter federal de acuerdo a las atribuciones y funciones contenidas en los convenios celebrados con la Federación;
+XI. Ordenar y practicar las visitas domiciliarias, auditorías, inspecciones y verificaciones; realizar los demás actos que establece la Ley Aduanera en materia de Comercio Exterior y las disposiciones fiscales; así como lo indispensable para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de Comercio Exterior; impuestos, derechos, aprovechamientos, estímulos fiscales, franquicias, comprobantes fiscales y accesorios de carácter estatal, y de los de carácter federal de acuerdo a las atribuciones y funciones contenidas en los convenios celebrados con la Federación;
 
-XI. Expedir las credenciales o constancias de identificación del personal que se autorice para la práctica de visitas domiciliarias, auditorías, inspecciones o verificaciones correspondientes;
+XII. Expedir las credenciales o constancias de identificación del personal que se autorice para la práctica de visitas domiciliarias, auditorías, inspecciones o verificaciones correspondientes;
 
-XII. Determinar contribuciones omitidas y sus accesorios, así como los demás créditos fiscales que resulten a cargo de los contribuyentes, responsables solidarios y demás obligados;
+XIII. Determinar contribuciones omitidas y sus accesorios, así como los demás créditos fiscales que resulten a cargo de los contribuyentes, responsables solidarios y demás obligados;
 
-XIII. Aplicar el procedimiento administrativo de ejecución e imponer sanciones por infracciones a las disposiciones fiscales, así como autorizar el pago a plazos de los créditos fiscales;
+XIV. Aplicar el procedimiento administrativo de ejecución e imponer sanciones por infracciones a las disposiciones fiscales, así como autorizar el pago a plazos de los créditos fiscales;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-XIV. Presidir, mediante facultad indelegable del Secretario, los órganos de administración o decisión de los fondos y fideicomisos del Estado y ser el principal representante estatal en los demás fondos y fideicomisos en que participa el Estado; llevar registro contable de los ingresos y egresos de los fondos y fideicomisos, y mantener actualizados los instrumentos jurídicos relacionados con los mismos;
+XV. Presidir, mediante facultad indelegable del Secretario, los órganos de administración o decisión de los fondos y fideicomisos del Estado y ser el principal representante estatal en los demás fondos y fideicomisos en que participa el Estado; llevar registro contable de los ingresos y egresos de los fondos y fideicomisos, y mantener actualizados los instrumentos jurídicos relacionados con los mismos;
 
-XV. Resolver las consultas que le formulen los contribuyentes, proporcionarles asistencia gratuita para el debido cumplimiento de sus obligaciones fiscales, así como dictar reglas de carácter general en materia fiscal, promoviendo en todo caso, una cultura de cumplimiento al deber tributario;
+XVI. Resolver las consultas que le formulen los contribuyentes, proporcionarles asistencia gratuita para el debido cumplimiento de sus obligaciones fiscales, así como dictar reglas de carácter general en materia fiscal, promoviendo en todo caso, una cultura de cumplimiento al deber tributario;
 
-XVI. Ejercer las atribuciones que al Ejecutivo del Estado le confiere la Ley de Deuda Pública Estatal y Municipal y hacerse cargo de la administración de la deuda pública estatal;
+XVII. Ejercer las atribuciones que al Ejecutivo del Estado le confiere la Ley de Deuda Pública Estatal y Municipal y hacerse cargo de la administración de la deuda pública estatal;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-XVII. Diseñar, poner en práctica y ejecutar las políticas de recaudación por los derechos que se generen en virtud de los servicios que preste el Instituto Registral y Catastral del Estado;
+XVIII. Diseñar, poner en práctica y ejecutar las políticas de recaudación por los derechos que se generen en virtud de los servicios que preste el Instituto Registral y Catastral del Estado;
 
-XVIII. Determinar los criterios y montos de los subsidios y estímulos fiscales, así como estudiar, proyectar y evaluar sus efectos en los ingresos estatales;
+XIX. Determinar los criterios y montos de los subsidios y estímulos fiscales, así como estudiar, proyectar y evaluar sus efectos en los ingresos estatales;
 
-XIX. Analizar y evaluar la situación financiera de las entidades de la administración paraestatal, a fin de proponerles las medidas que considere necesarias para el mejor cumplimiento de sus objetivos;
+XX. Analizar y evaluar la situación financiera de las entidades de la administración paraestatal, a fin de proponerles las medidas que considere necesarias para el mejor cumplimiento de sus objetivos;
 
-XX. Coordinar la ejecución de las acciones concertadas por el titular del Ejecutivo con los sectores social y privado, en el ámbito de su competencia;
+XXI. Coordinar la ejecución de las acciones concertadas por el titular del Ejecutivo con los sectores social y privado, en el ámbito de su competencia;
 
-XXI. Dirigir y controlar el funcionamiento técnico-administrativo de las Oficinas Fiscales del Estado;
+XXII. Dirigir y controlar el funcionamiento técnico-administrativo de las Oficinas Fiscales del Estado;
 
-XXII. Efectuar los pagos autorizados con cargo al presupuesto de egresos, y los demás que conforme a las leyes, convenios, contratos y demás disposiciones legales deban realizarse;
+XXIII. Efectuar los pagos autorizados con cargo al presupuesto de egresos, y los demás que conforme a las leyes, convenios, contratos y demás disposiciones legales deban realizarse;
 
-XXIII. Evaluar y dar seguimiento a las principales variables económicas, de carácter nacional e internacional, que pudieran afectar las finanzas públicas del Estado e informar al titular sobre el comportamiento y perspectivas de la economía en Tamaulipas;
+XXIV. Evaluar y dar seguimiento a las principales variables económicas, de carácter nacional e internacional, que pudieran afectar las finanzas públicas del Estado e informar al titular sobre el comportamiento y perspectivas de la economía en Tamaulipas;
 
-XXIV. Planear la obtención de recursos financieros y no financieros que respalden el desarrollo económico y social del Estado;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-XXV. Suscribir los convenios materia de su competencia que celebre el Gobierno del Estado con el Gobierno Federal, con los Municipios de la Entidad y con otras Entidades Federativas y ejercer las atribuciones derivadas de éstos;
+XXV. Planear la obtención de recursos financieros y no financieros que respalden el desarrollo económico y social del Estado;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-XXVI. Recibir y resolver las solicitudes presentadas por los contribuyentes respecto de la devolución de cantidades pagadas indebidamente;
+XXVI. Suscribir los convenios materia de su competencia que celebre el Gobierno del Estado con el Gobierno Federal, con los Municipios de la Entidad y con otras Entidades Federativas y ejercer las atribuciones derivadas de éstos;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+
+XXVII. Recibir y resolver las solicitudes presentadas por los contribuyentes respecto de la devolución de cantidades pagadas indebidamente;
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-XXVII. Resolver las solicitudes de condonación y cancelación de créditos fiscales;
+XXVIII. Resolver las solicitudes de condonación y cancelación de créditos fiscales;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-XXVIII. Notificar todo tipo de actos administrativos;
+XXIX. Notificar todo tipo de actos administrativos;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-XXIX. Apoyar a la Contraloría Gubernamental en el diseño, administración y operación del Sistema de Evaluación del Desempeño del gasto público con el fin de conocer los resultados en el cumplimiento de objetivos y metas establecidos en la Administración Pública Estatal, y;
+XXX. Apoyar a la Contraloría Gubernamental en el diseño, administración y operación del Sistema de Evaluación del Desempeño del gasto público con el fin de conocer los resultados en el cumplimiento de objetivos y metas establecidos en la Administración Pública Estatal, y;
 
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-XXX. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+XXXI. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 #### Sección III. De la Secretaría de Administración
 
@@ -1507,9 +1513,15 @@ XIX. Formular e implantar, por sí o a través de terceros, estudios y programas
 
 XX. Analizar y dictaminar las estructuras orgánico-funcionales de las dependencias y entidades públicas, en coordinación con las Secretarías de Finanzas y de Administración, para los efectos presupuestales correspondientes;
 
-XXI. Emitir las normas y lineamientos que deben observar las dependencias y entidades en la formulación de sus manuales administrativos y, en su caso, autorizar los mismos, previo acuerdo del titular del Ejecutivo; y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
-XXII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+XXI. Emitir las normas y lineamientos que deben observar las dependencias y entidades en la formulación de sus manuales administrativos y, en su caso, autorizar los mismos, previo acuerdo del titular del Ejecutivo;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+
+XXII. Difundir a través de los medios conducentes el servicio de atención a la ciudadanía de la línea 070; y
+
+XXIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
@@ -1579,9 +1591,9 @@ VIII. Régimen laboral a que se sujetarán las relaciones de trabajo; y
 
 IX. Forma y términos de su extinción y liquidación.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO P.O. 7 DE JULIO DE 2015)</small>
 
-2. Las entidades remitirán su cuenta pública anual a la Secretaría de Finanzas en términos de la Ley de Fiscalización y Rendición de Cuentas para el Estado de Tamaulipas, a fin de que sea presentada al Congreso del Estado para su revisión y calificación.
+2. Las entidades remitirán la información financiera, contable, patrimonial, presupuestal y programática a la Secretaría de Finanzas en términos de la Ley de Fiscalización y Rendición de Cuentas para el Estado de Tamaulipas.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
@@ -2122,3 +2134,13 @@ Se faculta al Ejecutivo Estatal para llevar a cabo las reformas necesarias al De
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas que mediante el presente Decreto se efectúan a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, entrarán en vigor a partir de la expedición del mismo.
