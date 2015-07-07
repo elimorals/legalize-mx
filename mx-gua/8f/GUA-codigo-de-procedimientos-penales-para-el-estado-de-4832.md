@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "2014-12-16"
+last_updated: "2015-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO PROGRESIVAMENTE POR LOS ARTÍCULOS PRIMERO Y TERCERO TRANSITORIOS DE LA LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 3 DE SEPTIEMBRE DE 2010, POR LO QUE SE SUGIERE CONSULTARLOS AL FINAL DE ESTE ORDENAMIENTO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -101,9 +101,9 @@ VI.- Determinar el archivo, la reserva o el ejercicio de la acción penal;
 
 VII.- Conceder o revocar, cuando proceda, la libertad provisional del inculpado;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
-VIII.- Promover la mediación y la conciliación entre el inculpado y la víctima u ofendido en los delitos perseguibles por querella o cuando así lo señale la ley.
+VIII.- Promover la mediación y conciliación entre el inculpado y la víctima u ofendido en los delitos perseguibles por querella o cuando así lo señale la ley, salvo en los casos de violencia familiar.
 
 En la aplicación de estos mecanismos se buscará la justicia restaurativa y se realizará en los términos legales y reglamentarios; y
 
@@ -3023,7 +3023,7 @@ Habrá lugar a la reposición del procedimiento por alguna de las causas siguien
 
 I.- Por no haberse hecho saber al procesado durante la instrucción ni al celebrarse el juicio, el motivo del procedimiento, o el nombre de las personas que le imputen la comisión del delito;
 
-II.- Por no habérsele permitido nombrar defensor o no nombrársele el defensor público, en los términos que señala la Constitución Política de los Estados Unidos Mexicanos y este código; por no habérsele facilitado la manera de hacer saber al defensor su nombramiento, y por habérsele impedido comunIcarse con él o que dicho defensor lo asistiere en alguna de las diligencias del proceso;
+II.- Por no habérsele permitido nombrar defensor o no nombrársele el defensor público, en los términos que señala la Constitución Política de los Estados Unidos Mexicanos y este código; por no habérsele facilitado la manera de hacer saber al defensor su nombramiento, y por habérsele impedido comunicarse con él o que dicho defensor lo asistiere en alguna de las diligencias del proceso;
 
 III.- Por haberse omitido la designación del traductor o intérprete al inculpado que no hable o entienda suficientemente el idioma español, en los términos que señale ro Ley;
 
@@ -4523,10 +4523,6 @@ DECRETO No. 178 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DEL PROCESO
 
 Artículo Único. El presente Decreto entrará en vigencia el 1 de septiembre del año 2011, previa publicación en el Periódico Oficial del Gobierno del Estado.
 
-P.O. 5 DE MARZO DE 2013.
-
-Artículo Único. El presente Decreto entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
-
 P.O. 3 DE DICIEMBRE DE 2013.
 
 Artículo único. El presente Decreto entrará en vigencia al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -4559,6 +4555,14 @@ Ultractividad
 
 Artículo Tercero. El Código de Procedimientos Penales para el Estado de Guanajuato y la Ley del Proceso Penal para el Estado de Guanajuato, seguirán rigiendo para los actos cometidos y los procedimientos iniciados con anterioridad a la vigencia del Código Nacional de Procedimientos Penales en el Estado de Guanajuato.
 
+P.O. 5 DE MARZO DE 2013.
+
+Artículo Único. El presente Decreto entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
 P.O. 16 DE DICIEMBRE DE 2014.
+
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE JULIO DE 2015.
 
 Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
