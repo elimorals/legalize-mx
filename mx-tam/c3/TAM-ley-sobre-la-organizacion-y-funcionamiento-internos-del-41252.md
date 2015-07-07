@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2015-06-30"
+last_updated: "2015-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE JUNIO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -905,9 +903,17 @@ c) Dirigir los trabajos de las Unidades de Servicios Parlamentarios y de Servici
 
 d) Ejecutar los acuerdos de la Mesa Directiva y de la Junta de Coordinación Política, así como vigilar que se cumplan las políticas, lineamientos y criterios de dichos órganos en la prestación de los servicios parlamentarios, y administrativos y financieros;
 
-e) Formular el anteproyecto de presupuesto anual del Congreso y los programas de carácter administrativo y financiero para su ejercicio, y
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
-f) Informar a la Mesa Directiva y a la Junta de Coordinación Política sobre el cumplimiento de los acuerdos adoptados por dichos órganos, y sobre el desempeño en la prestación de los servicios parlamentarios y administrativos y financieros.
+e) Formular el anteproyecto de presupuesto anual del Congreso y los programas de carácter administrativo y financiero para su ejercicio;
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
+f) Informar a la Mesa Directiva y a la Junta de Coordinación Política sobre el cumplimiento de los acuerdos adoptados por dichos órganos, y sobre el desempeño en la prestación de los servicios parlamentarios y administrativos y financieros; y
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+
+g) Remitir a la Secretaría de Finanzas del Poder Ejecutivo la información necesaria para la conformación del Tomo del Poder Legislativo de la Cuenta Pública del Gobierno del Estado de Tamaulipas, en los términos de la ley de la materia.
 
 ###### ARTICULO 61.
 
@@ -957,7 +963,9 @@ e) Cumplir las demás funciones que le confiere esta ley, los ordenamientos rela
 
 a) De Recursos Humanos, que comprende los de: reclutamiento, promoción y evaluación del personal del Congreso; registro y actualización de los expedientes laborales; y trámites relativos a las prestaciones sociales de los colaboradores del Congreso;
 
-b) De Tesorería, que comprende los de: programación y presupuesto; control presupuestal; contabilidad y cuenta pública; finanzas; elaboración de nóminas; y formulación de manuales de organización y procedimientos administrativos;
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
+b) De Tesorería, que comprende los de: programación y presupuesto; control presupuestal; contabilidad y cuenta pública; finanzas; elaboración de los estados financieros y demás información contable, presupuestal, patrimonial y programática del Congreso del Estado para su inclusión en el Tomo del Poder legislativo de la Cuenta Pública del Gobierno del Estado de Tamaulipas; elaboración de nóminas; y formulación de manuales de organización y procedimientos administrativos;
 
 c) De Recursos Materiales y Servicios Generales, que comprende los de: inventario, provisión y control de bienes muebles, materiales de oficina y papelería; adquisición de recursos materiales; mantenimiento de bienes inmuebles; alimentación, y servicios generales y de limpieza;
 
@@ -983,7 +991,9 @@ c) Realizar estudios de carácter administrativo y financiero sobre el funcionam
 
 d) Cumplir las demás funciones que le confieren esta ley, los ordenamientos relativos a la actividad administrativa y financiera del Congreso y que le encomiende el secretario general.
 
-2. El titular de la Unidad de Servicios Administrativos y Financieros velará por el eficiente funcionamiento de los servicios que le competen.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
+2. El titular de la Unidad de Servicios Administrativos y Financieros velará por el eficiente funcionamiento de los servicios que le competen; asimismo es el responsable de la integración y consolidación de la información financiera, contable, presupuestal, patrimonial y programática que se remitirá a la Secretaría de Finanzas del Poder Ejecutivo para la conformación del Tomo del Poder legislativo de la Cuenta Pública del Gobierno del Estado de Tamaulipas.
 
 ###### ARTICULO 65.
 
@@ -2726,3 +2736,13 @@ P.O. 13 DE JUNIO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial del Estado.
+
+P.O. 7 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas que mediante el presente Decreto se efectúan a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, entrarán en vigor a partir de la expedición del mismo.
