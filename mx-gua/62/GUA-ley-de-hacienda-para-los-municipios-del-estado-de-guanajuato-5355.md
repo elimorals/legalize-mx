@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-los-municipios-del-estado-de-guanajuato-53
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "2013-08-23"
+last_updated: "2015-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -745,7 +745,7 @@ V.- Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales 
 
 VI.- Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan; revelar los datos declarados por los contribuyentes o aprovecharse de ellos; y
 
-VII.- Exigir o recibir bajo el título de cooperación o colaboración u otro semejante, cualquier prestación que no este expresamente prevista en esta Ley, aun cuando se aplique a la realización de las funciones propias de su cargo; (sic)
+VII.- Exigir o recibir bajo el título de cooperación o colaboración u otro semejante, cualquier prestación que no este expresamente prevista en esta Ley, aun cuando se aplique a la realización de las funciones propias de su cargo;
 
 ###### ARTICULO 72.
 
@@ -813,7 +813,7 @@ Desde $500.01 hasta $1,000.00 a medias centenas de pesos
 
 Desde $1,000.01 hasta $10,000.00 a centenas de pesos
 
-Desde $10,000.01 en adelante (sic) a miles de pesos
+Desde $10,000.01 en adelante a miles de pesos
 
 Desde $100,000.01 en adelante a millones de pesos
 
@@ -1819,13 +1819,11 @@ II.- Cuando la división de cosa común se dé en virtud de una donación entre 
 
 III.- Cuando la división de cosa común no tenga como resultado tipificar cualquiera de los supuestos legales sobre lotificación y fraccionamientos.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### ARTICULO 188.
 
-Este Impuesto se causa sobre el valor total del inmueble que resulte más alto entre el de la operación, el fiscal registrado y el que arroje el avalúo practicado por perito fiscal autorizado por la Tesorería Municipal correspondiente.
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
-
-Cuando el inmueble relativo a la operación no hubiese sufrido división en los dos últimos años, únicamente se calculará el impuesto sobre la parte enajenada.
+El impuesto sobre división y lotificación de inmuebles se calculará sobre el valor de la fracción que se escinde del bien inmueble objeto de la división. Para tal efecto, se tomará el valor que resulte más alto entre el de la operación y el que arroje el avalúo practicado por perito fiscal autorizado por la Tesorería Municipal correspondiente.
 
 ###### ARTICULO 189.
 
@@ -1993,13 +1991,13 @@ Los contribuyentes a que se refiere el artículo anterior están obligados a oto
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO VIII (SIC). DEL FONDO PARA SEGURIDAD PUBLICA
+### CAPITULO VIII. DEL FONDO PARA SEGURIDAD PUBLICA
 
 ARTICULO 219 BIS.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO [N. DE E. ANTES CAPÍTULO OCTAVO], P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO IX (SIC)
+### CAPITULO IX
 
 DEL IMPUESTO SOBRE EXPLOTACION DE BANCOS DE MARMOLES, CANTERAS, PIZARRAS, BASALTOS, CAL, CALIZAS, TEZONTLE, TEPETATE Y SUS DERIVADOS, ARENA, GRAVA Y OTROS SIMILARES
 
@@ -2608,3 +2606,7 @@ Artículo Primero. El presente decreto entrará en vigor el cuarto día siguient
 Artículo Segundo. Para el caso de los municipios que no realicen directamente el cobro de los derechos por la prestación del servicio de alumbrado público, los ayuntamientos respectivos a más tardar el 1 de noviembre de 2013 gestionarán la firma de los convenios correspondientes con la Comisión Federal de Electricidad.
 
 Artículo Tercero. Para efectos del artículo anterior, el Ejecutivo del Estado, a través de la Secretaría de Finanzas, Inversión y Administración gestionará el finiquito o término del convenio suscrito con la Comisión Federal de Electricidad, del 24 de julio de 1991.
+
+P.O. 7 DE JULIO DE 2015.
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
