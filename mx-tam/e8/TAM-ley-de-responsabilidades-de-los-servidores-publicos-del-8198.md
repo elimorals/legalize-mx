@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidades-de-los-servidores-publicos-del-8198"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-03"
-last_updated: "2015-06-13"
+last_updated: "2015-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 3 de marzo de 1984.
 
@@ -761,11 +761,17 @@ Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que
 
 Las facultades del superior jerárquico y de la Contraloría Gubernamental para imponer las sanciones que prevé esta ley, se sujetarán a lo siguiente:
 
-I.- Prescribirán en un año las responsabilidades cuando el beneficio obtenido o el daño causado por el infractor no excede de quinientas veces el salario mínimo diario vigente en la capital del Estado, o si la responsabilidad no fuese estimable en dinero.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
-II.- Prescribirán en dos años las responsabilidades cuando el beneficio obtenido o el daño causado por el infractor exceda de quinientas veces el salario mínimo diario vigente en la capital del Estado, y no se trate de los supuestos previstos en la siguiente fracción; y
+I.- Prescribirán en dos años las responsabilidades cuando el beneficio obtenido o el daño causado por el infractor no exceda de quinientas veces el salario mínimo diario vigente en la capital del Estado, o si la responsabilidad no fuese estimable en dinero;
 
-III.- Prescribirán en tres años las responsabilidades consideradas como graves. Se estiman como graves las responsabilidades administrativas que sean equiparables a las conductas previstas en el Título Octavo, Capítulos II, III, IV, V, VI, VII, VIII, IX, X, XI, XII y XIII, del Código Penal para el Estado, excepto los supuestos señalados en los artículos 217 fracción I, 219 fracción I, 221 fracción I y 223 fracción I de ese ordenamiento. También se consideran como graves las responsabilidades equiparables a las conductas previstas en el Título Noveno, Capítulo Único, de dicho ordenamiento.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+II.- Prescribirán en tres años las responsabilidades cuando el beneficio obtenido o el daño causado por el infractor exceda de quinientas veces el salario mínimo diario vigente en la capital del Estado, y no se trate de los supuestos previstos en la siguiente fracción; y
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+III.- Prescribirán en cinco años las responsabilidades consideradas como graves. Se estiman como graves las responsabilidades administrativas que sean equiparables a las conductas previstas en el Título Octavo, Capítulos II, III, IV, V, VI, VII, VIII, IX, X, XI, XII y XIII del Código Penal para el Estado, excepto los supuestos señalados en los artículos 217 fracción I, 219 fracción I, 221 fracción I y 223 fracción I de ese ordenamiento. También se consideran como graves las responsabilidades equiparables a las conductas previstas en el Título Noveno, Capítulo Único, de dicho ordenamiento.
 
 El plazo de prescripción se contará a partir del día siguiente a aquel en que hubiere ocurrido en la causa de responsabilidad, o a partir del momento en que hubiese cesado, si fue de carácter continuo.
 
@@ -1012,3 +1018,13 @@ P.O. 13 DE JUNIO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas que mediante el presente Decreto se efectúan a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, entrarán en vigor a partir de la expedición del mismo.
