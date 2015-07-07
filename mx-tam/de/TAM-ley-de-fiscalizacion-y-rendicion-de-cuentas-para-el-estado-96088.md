@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fiscalizacion-y-rendicion-de-cuentas-para-el-estado-9608
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-25"
-last_updated: "2014-04-03"
+last_updated: "2015-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
 
 Ley publicada en Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 25 de septiembre de 2013.
 
@@ -43,9 +43,11 @@ LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE TAMAULIPAS
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 1.
 
-La presente ley es de orden público e interés social, reglamentaria de la fracción VI, del artículo 58 y 76 de la Constitución Política del Estado de Tamaulipas.
+La presente ley es de orden público e interés social, reglamentaria de los artículos 45, 58 fracción VI y 76 de la Constitución Política del Estado de Tamaulipas.
 
 ###### ARTÍCULO 2.
 
@@ -79,13 +81,19 @@ VII.- Congreso: El H. Congreso del Estado de Tamaulipas;
 
 VIII.- Constitución: La Constitución Política del Estado de Tamaulipas;
 
-IX.- Cuenta pública: El informe que suscriben y rinden al Congreso las entidades sujetas de fiscalización, que contiene los estados financieros, contables, patrimoniales, presupuestales y programáticos de acuerdo a sus ingresos y egresos ejercidos o administrados durante el ejercicio fiscal correspondiente, conforme a los criterios de utilidad, confiabilidad, relevancia, comprensibilidad, comparación y con base en los atributos de oportunidad, veracidad, representatividad, objetividad, suficiencia, posibilidad de predicción e importancia relativa;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+IX.- Cuenta Pública: El informe consolidado que rinden las entidades obligadas a presentarla, sobre su gestión financiera, a efecto de comprobar que la obtención, administración, custodia y aplicación de los ingresos y egresos durante un ejercicio fiscal comprendido del 1 de enero al 31 de diciembre de cada año, se ejercieron en los términos de las disposiciones legales y administrativas aplicables, conforme a los criterios y con base en los programas aprobados;
 
 X.- Daño: Pérdida o menoscabo sufrido en el patrimonio de las entidades sujetas de fiscalización, por el incumplimiento de una norma o disposición jurídica;
 
 XI.- Deuda pública: Obligaciones de pasivo, directas o contingentes, derivadas de financiamientos a cargo de las entidades señaladas en la fracción siguiente de este artículo;
 
-XII.- Entidades sujetas de fiscalización:
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+
+XII.- Dirección Jurídica: La Dirección de Asuntos Jurídicos de la Auditoría Superior del Estado;
+
+XIII.- Entidades sujetas de fiscalización:
 
 a).- Poderes del Estado: Poderes Ejecutivo, Legislativo y Judicial, así como sus órganos y dependencias;
 
@@ -99,33 +107,35 @@ e).- Órganos u organismos con autonomía de los Poderes del Estado; y
 
 f).- En general, cualquier persona física o moral que por alguna razón reciban, administren o ejerzan total o parcialmente y bajo cualquier título fondos o valores del sector público;
 
-XIII.- Gasto público: Las erogaciones por concepto de gasto corriente, inversión física o financiera, así como pago de pasivos o deuda pública que realicen en la esfera de su competencia, las entidades señaladas en las fracciones anteriores;
+XIV.- Gasto público: Las erogaciones por concepto de gasto corriente, inversión física o financiera, así como pago de pasivos o deuda pública que realicen en la esfera de su competencia, las entidades señaladas en las fracciones anteriores;
 
-XIV.- Entidades públicas: Todos los organismos descentralizados, empresas de participación estatal mayoritaria, fideicomisos públicos o instituciones que administren fondos o valores públicos, cualquiera que sea la forma o estructura que adopten;
+XV.- Entidades públicas: Todos los organismos descentralizados, empresas de participación estatal mayoritaria, fideicomisos públicos o instituciones que administren fondos o valores públicos, cualquiera que sea la forma o estructura que adopten;
 
-XV.- Fiscalización: Es la revisión y análisis de la cuenta pública de una entidad sujeta de fiscalización que realiza el Congreso a través de la Auditoría para efecto de evaluar si su gestión financiera se realizó con apego a la normatividad, programas y objetivos de la administración pública y verificar la documentación;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
-XVI.- Fondos y valores públicos: Todo numerario que sea propiedad de las entidades sujetas de fiscalización, provenientes de los conceptos previstos en las leyes de los ingresos, decretos o acuerdos, que rijan en materia de asignaciones, subsidios, concesiones, participaciones o por cualquier otro concepto análogo;
+XVI.- Fiscalización: Es la revisión y análisis de la cuenta pública que realiza el Congreso a través de la Auditoría para efecto de evaluar si su gestión financiera se realizó con apego a la normatividad, programas y objetivos de la administración pública y verificar la documentación;
 
-XVII.-Informe de resultados: Documento que presenta el Auditor Superior del Estado a la Comisión, conteniendo los resultados de la fiscalización;
+XVII.- Fondos y valores públicos: Todo numerario que sea propiedad de las entidades sujetas de fiscalización, provenientes de los conceptos previstos en las leyes de los ingresos, decretos o acuerdos, que rijan en materia de asignaciones, subsidios, concesiones, participaciones o por cualquier otro concepto análogo;
 
-XVIII.- Ley General: Ley General de Contabilidad Gubernamental;
+XVIII.-Informe de resultados: Documento que presenta el Auditor Superior del Estado a la Comisión, conteniendo los resultados de la fiscalización;
 
-XIX.- Periódico Oficial: Periódico Oficial del Estado de Tamaulipas;
+XIX.- Ley General: Ley General de Contabilidad Gubernamental;
 
-XX.- Pliego de observaciones: Documento previo al informe de resultados, a través del cual se dan a conocer a las entidades sujetas de fiscalización, las deficiencias e irregularidades determinadas, así como las recomendaciones procedentes, para efecto de que sean solventadas;
+XX.- Periódico Oficial: Periódico Oficial del Estado de Tamaulipas;
 
-XXI.- Pliego de responsabilidades: Documento que identifica la presunta responsabilidad de los infractores y fija en cantidad líquida el monto de los daños y perjuicios al patrimonio de las entidades sujetas de fiscalización;
+XXI.- Pliego de observaciones: Documento previo al informe de resultados, a través del cual se dan a conocer a las entidades sujetas de fiscalización, las deficiencias e irregularidades determinadas, así como las recomendaciones procedentes, para efecto de que sean solventadas;
 
-XXII.- Programas: Documentos gubernamentales que contienen las estrategias y compromisos del Estado, Municipios y Entidades para el cumplimiento de los Planes de Desarrollo, y que tienen asignado un rubro presupuestal;
+XXII.- Pliego de responsabilidades: Documento que identifica la presunta responsabilidad de los infractores y fija en cantidad líquida el monto de los daños y perjuicios al patrimonio de las entidades sujetas de fiscalización;
 
-XXIII.- Perjuicio: Privación de cualquier ganancia o rendimiento lícito que se dejó de obtener en el patrimonio de las entidades sujetas de fiscalización, por el incumplimiento de una norma o disposición jurídica;
+XXIII.- Programas: Documentos gubernamentales que contienen las estrategias y compromisos del Estado, Municipios y Entidades para el cumplimiento de los Planes de Desarrollo, y que tienen asignado un rubro presupuestal;
 
-XXIV.- Servidores Públicos: Los que se establecen en la Constitución Política del Estado de Tamaulipas, en la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas y en los demás ordenamientos legales aplicables;
+XXIV.- Perjuicio: Privación de cualquier ganancia o rendimiento lícito que se dejó de obtener en el patrimonio de las entidades sujetas de fiscalización, por el incumplimiento de una norma o disposición jurídica;
 
-XXV.- Secretaría: La Secretaría de Finanzas del Gobierno del Estado; y
+XXV.- Servidores Públicos: Los que se establecen en la Constitución Política del Estado de Tamaulipas, en la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas y en los demás ordenamientos legales aplicables;
 
-XXVI.- Solventación: Es el acto de presentar para su valoración la documentación, información, justificación, argumentos o correcciones suficientes que aclaren las observaciones hechas por la Auditoría.
+XXVI.- Secretaría: La Secretaría de Finanzas del Gobierno del Estado; y
+
+XXVII.- Solventación: Es el acto de presentar para su valoración la documentación, información, justificación, argumentos o correcciones suficientes que aclaren las observaciones hechas por la Auditoría.
 
 ###### ARTÍCULO 6.
 
@@ -171,7 +181,9 @@ La designación y validación del notificador se hará por acuerdo dictado por e
 
 Las notificaciones personales se harán en el domicilio o centro de trabajo del servidor público implicado o en el último domicilio que el mismo haya señalado. En todo caso, el notificador deberá cerciorarse del domicilio del notificado, entregar original o copia certificada del documento que notifique y señalar la fecha y hora en que el acto se efectúa, recabando el nombre y firma de la persona con quien se entienda la diligencia. Si ésta se niega a una u otra cosa, se hará constar en el acta de notificación, sin que ello afecte su validez.
 
-Las notificaciones personales, se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere a una hora fija del día hábil siguiente.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
+Las notificaciones personales, se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere a una hora fija del día hábil siguiente, si no lo hiciere, se notificará con la persona que se encuentre en el domicilio señalado.
 
 Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato; en ambos casos se asentará razón de ello, recabando el nombre y firma de la persona a quien se entregue el citatorio. Si ésta se niega, se hará constar en el acta, sin que ello afecte la validez de la notificación.
 
@@ -189,9 +201,15 @@ En las notificaciones por estrados, se harán fijando el documento que se preten
 
 La Comisión tendrá las siguientes atribuciones:
 
-I.- Recibir el proyecto de presupuesto anual de egresos de la Auditoría, a efecto de remitirlo al Presidente de la Junta de Coordinación Política, para ser incluido debidamente identificado en el presupuesto de egresos del Poder Legislativo;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
-II.- Recibir del Congreso y turnar a la Auditoría para su revisión, las cuentas públicas de las entidades sujetas de fiscalización;
+I.- Recibir el presupuesto anual de egresos de la Auditoría, a efecto de remitirlo al Presidente de la Junta de Coordinación Política, para ser incluido debidamente identificado en el presupuesto de egresos del Poder Legislativo.
+
+Asimismo recibirá de la Auditoría la información financiera, contable, presupuestal, patrimonial y programática para su envío a la Unidad de Servicios Administrativos y Financieros del Congreso para su integración y consolidación con la información que integra el Tomo del Poder Legislativo de la Cuenta Pública del Gobierno del Estado de Tamaulipas;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+II.- Turnar a la Auditoría para su revisión, las cuentas públicas que reciba del Pleno o en su caso de la Diputación Permanente;
 
 III.- Recibir los informes de resultados de la revisión de las cuentas públicas que le remita la Auditoría para emitir el dictamen correspondiente y someterlo a consideración del Pleno;
 
@@ -311,9 +329,9 @@ XI.- El personal profesional, técnico y de apoyo administrativo necesario para 
 
 El Auditor será designado por el Congreso a propuesta de la Junta de Coordinación Política, en los términos establecidos por la Constitución y la ley, para fungir por un período de siete años y podrá ser nombrado para un nuevo período por una sola vez.
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
-El titular de la Auditoría, deberá permanecer en su cargo al término de su período, hasta que el Pleno del Congreso designe al nuevo titular. Si es removido o se ausenta del cargo, será suplido por el primer Auditor Especial.
+El titular de la Auditoría, deberá permanecer en su cargo al término de su período, hasta que el Pleno del Congreso designe al nuevo titular. Si es removido o se ausenta del cargo, será suplido por uno de los Auditores Especiales.
 
 El Auditor podrá ser removido sólo por las causas graves que señale la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas, que deberá juzgar y aprobar el Pleno del Congreso por el voto de cuando menos las dos terceras partes de sus miembros presentes. Podrá separarse del cargo por incapacidad legal para ejercer su encargo, o por enfermedad evidente y dictaminada.
 
@@ -365,7 +383,9 @@ i).- Celebrar convenios de coordinación o colaboración con los poderes del Est
 
 j).- Promover directamente las acciones ante las autoridades competentes, por las irregularidades de las que estime existan responsabilidad y, en su caso, fincar a los responsables las indemnizaciones y sanciones pecuniarias correspondientes;
 
-k).- Presentar el presupuesto anual de egresos, el programa anual de auditoría y la cuenta pública de la Auditoría, a la Comisión;
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
+k).- Presentar a la Comisión, el presupuesto anual de egresos, el programa anual de auditoría; así como la información financiera, contable, presupuestal, patrimonial y programática de la Auditoría, para su integración al Tomo del Poder Legislativo de la Cuenta Pública del Gobierno del Estado de Tamaulipas;
 
 l).- Coordinarse con las unidades de control interno de las entidades sujetas de fiscalización, a fin de optimizar recursos y hacer eficientes sus programas para otorgarle a ésta las facilidades necesarias que le permitan realizar sus funciones;
 
@@ -398,6 +418,10 @@ b).- Requerir a las entidades sujetas de fiscalización y a los terceros que hub
 c).- Ordenar y realizar auditorías, y visitas de inspecciones a las entidades sujetas de fiscalización conforme al programa aprobado por el Auditor;
 
 d).- Fijar los plazos que no excederán de treinta días naturales para que los titulares de las entidades sujetas de fiscalización presenten sus solventaciones, aclaraciones, información, documentación o comentarios, respecto de las observaciones o recomendaciones realizadas por la Auditoría;
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+
+Elaborar el pliego de responsabilidades en los casos procedentes y turnarlo a la Dirección Jurídica para los efectos de los artículos 5 fracción XXII y 55 de esta Ley;
 
 e).- Designar a los notificadores, inspectores, visitadores o auditores encargados de practicar las notificaciones, visitas, inspecciones y auditorías a su cargo;
 
@@ -455,7 +479,9 @@ f).- Elaborar las denuncias correspondientes, cuando en el ejercicio de sus atri
 
 g).- Analizar y proponer al Auditor el inicio del procedimiento de responsabilidades e indemnizaciones, de conformidad con esta y otras leyes aplicables;
 
-h).- Instruir el procedimiento para el fincamiento de responsabilidades en contra de los servidores públicos de las entidades sujetas de fiscalización, o de la Auditoría, en su caso, cuando incurran en las responsabilidades que señala el Capítulo Séptimo de esta ley;
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
+h).- Instruir el procedimiento para el fincamiento de responsabilidades en contra de los servidores públicos de las entidades sujetas de fiscalización, o de la Auditoría, en su caso, cuando incurran en las responsabilidades que señala el Capítulo Séptimo de esta ley, emitiendo la resolución correspondiente. Notificar a las entidades sujetas de fiscalización el pliego de responsabilidades que le turnen las Auditorias Especiales para los efectos del artículo 55 de esta ley;
 
 i).- Mantener actualizado el acervo normativo;
 
@@ -469,7 +495,9 @@ a).- Administrar los recursos humanos, financieros, y materiales de la Auditorí
 
 b).- Proveer los servicios que en general se requieran para el debido funcionamiento de las instalaciones en que se encuentre operando la propia Auditoría;
 
-c).- Preparar el anteproyecto de presupuesto anual, ejercer y controlar el ejercicio del presupuesto autorizado y elaborar la cuenta pública de la Auditoría, así como mantener el sistema de contabilidad conforme a la Ley General;
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
+c).- Preparar el anteproyecto de presupuesto anual, ejercer y controlar el ejercicio del presupuesto autorizado mantener el sistema de registro y contabilidad gubernamental y elaborar la información financiera, contable, presupuestal, patrimonial y programática de la Auditoría, conforme a la Ley General;
 
 d).- Apegarse a las disposiciones normativas aplicables, respecto a la adquisición o baja de los bienes muebles, inmuebles y servicios, celebrando los contratos que permitan suministrar los recursos materiales que solicitan sus unidades administrativas para su debido funcionamiento; y
 
@@ -613,31 +641,31 @@ Los Ayuntamientos presentarán a la Auditoría dentro de los quince días natura
 
 El incumplimiento de esta disposición dará motivo a la aplicación de las sanciones previstas en esta ley.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 25.
 
-La Auditoría elaborará el informe de resultados de la revisión de la cuenta pública, el cual deberá contener como mínimo lo siguiente:
+La Auditoría emitirá un dictamen por cada una de las auditorías practicadas a la Cuenta Pública y los incluirá en el Informe de Resultados que presente a la Comisión. Cada dictamen contendrá:
 
-I.- Los datos de identificación de la entidad fiscalizada, así como del ejercicio fiscal a que se refiere y los nombres de los servidores públicos responsables, de la emisión y presentación de la información revisada, de acuerdo a su propia normativa;
+I.- Los datos de identificación de la entidad fiscalizada, así como del ejercicio fiscal a que se refiere;
 
-II.- El apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, con respecto a la evaluación de la consecución de sus objetivos y metas, así como de la satisfacción de las necesidades correspondientes, bajo criterios de eficiencia, eficacia y economía;
+II.- Los criterios de selección, el objetivo, el alcance, los procedimientos de auditoría aplicados y la opinión;
 
-III.- El cumplimiento de la normatividad en materia de contabilidad gubernamental;
+III.- En su caso, las auditorías sobre el desempeño;
 
-IV.- Los resultados de la gestión financiera;
+IV.- El cumplimiento de los principios de contabilidad gubernamental y de las disposiciones contenidas en los ordenamientos y normativa correspondientes;
 
-V.- La comprobación de que las entidades sujetas de fiscalización, se ajustaron a lo dispuesto en sus respectivas Leyes de Ingresos, Presupuesto de Egresos, así como en las demás normas aplicables en la materia;
+V.- Los resultados de la gestión financiera;
 
-VI.- En su caso, el señalamiento de las desviaciones presupuestarias;
+VI.- La comprobación de que las entidades fiscalizadas, se ajustaron a lo dispuesto en la Ley de Ingresos, el Presupuesto y demás disposiciones jurídicas aplicables;
 
-VII.- El número de las observaciones, recomendaciones y acciones promovidas y en su caso, de la imposición de multas, y demás acciones que deriven de los resultados de las auditorías practicadas; y
+VII.- El análisis de las desviaciones, en su caso;
 
-VIII.- Conclusiones.
+VIII.- Los resultados de la fiscalización del manejo de los recursos públicos;
 
-El Auditor suscribirá el informe de resultados señalando su opinión y determinará si la misma resulta ser positiva, negativa, o en su caso, motivar las causas por las que se abstenga de opinar.
+IX.- Las observaciones, recomendaciones y las acciones promovidas; y
 
-Cuando exista denuncia sobre conductas que puedan constituir irregularidades en la aplicación de recursos por parte de los servidores públicos de las entidades sujetas de fiscalización, el informe de resultados deberá contener el resultado de la investigación que en lo particular practique la Auditoría, motivando las causas de procedencia o improcedencia de la misma.
-
-Si de la investigación resultan irregularidades que causaron daño o perjuicio al patrimonio de las entidades sujetas de fiscalización, la Auditoría ejercerá las acciones y fincará las responsabilidades que procedan.
+X.- Un apartado específico en cada una de las auditorías realizadas donde se incluyan las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado en relación con los resultados y las observaciones que se les hayan hecho durante las revisiones.
 
 ###### ARTÍCULO 26.
 
@@ -657,9 +685,11 @@ La Auditoría dentro de los ciento veinte días hábiles posteriores a las respu
 
 En caso de ser omisa la entidad sujeta de fiscalización en el cumplimiento, la Auditoría podrá aplicar a los responsables una multa en los términos previstos en esta ley.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 28.
 
-La Auditoría entregará al Congreso sendos informes sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas, el día 1 de mayo y el día 1 de noviembre de cada año.
+La Auditoría entregará al Congreso sendos informes sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas, el primer día hábil de mayo y de noviembre de cada año.
 
 ###### ARTÍCULO 29.
 
@@ -671,9 +701,11 @@ La Auditoría deberá guardar reserva de sus actuaciones y observaciones, salvo 
 
 ### CAPÍTULO CUARTO. DE LA CONTABILIDAD, AUDITORÍA Y ARCHIVO CONTABLE
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 31.
 
-La Auditoría, para revisar la cuenta pública de las entidades sujetas de fiscalización determinará las normas, procedimientos, métodos y sistemas de auditoría, que considere aplicables, así como para seleccionar las muestras revisables con relación a las pruebas selectivas y el alcance de las mismas.
+La Auditoría, para revisar la cuenta pública determinará las normas, procedimientos, métodos y sistemas de auditoría, que considere aplicables, así como para seleccionar las muestras revisables con relación a las pruebas selectivas y el alcance de las mismas.
 
 ###### ARTÍCULO 32.
 
@@ -691,11 +723,17 @@ Se incluyen también las copias de documentos de pagos de contribuciones y depó
 
 Para los efectos de esta ley, la cuenta pública estará constituida como mínimo:
 
-I.- Información contable, que incluya: el estado de situación financiera; el estado de actividades, el estado de variación en la hacienda pública; estado de cambios en la situación financiera; informes sobre pasivos contingentes; notas a los estados financieros; estado analítico del activo; estado analítico de la deuda y otros pasivos referidos a corto y largo plazo; fuentes de financiamiento y por acreedor;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
-II.- Información presupuestaria, que incluya: estado analítico de ingresos, del que se derivará la presentación en clasificación económica por fuente de financiamiento y concepto; un estado analítico del ejercicio del presupuesto de egresos que contemple aspectos: administrativos; económicos y por objeto del gasto y funcional- programático; y un flujo de fondos que resuma todas las operaciones y los indicadores de la postura fiscal;
+I.- Información contable, que incluya: el estado de situación financiera; el estado de actividades, el estado de variación en la hacienda pública; estado de cambios en la situación financiera; estado de flujos de efectivo; informes sobre pasivos contingentes; notas a los estados financieros; estado analítico del activo; estado analítico de la deuda y otros pasivos referidos a corto y largo plazo; fuentes de financiamiento y por acreedor;
 
-III.- Información programática, que incluya el gasto por categoría programática; los programas y proyectos de inversión y los indicadores de resultados;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+II.- Información presupuestaria, que incluya: estado analítico de ingresos, del que se derivará la presentación en clasificación económica por fuente de financiamiento y concepto, incluyendo los ingresos excedentes generados; un estado analítico del ejercicio del presupuesto de egresos que contemple aspectos: administrativos; económicos y por objeto del gasto y funcional-programático; y un flujo de fondos que resuma todas las operaciones y los indicadores de la postura fiscal;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+III.- Información programática, los programas y proyectos de inversión y los indicadores de resultados;
 
 IV.- Análisis cualitativo de los indicadores de la postura fiscal, estableciendo su vínculo con los objetivos y prioridades definidas en la materia, en el programa económico anual:
 
@@ -707,35 +745,145 @@ c).- Postura Fiscal; y
 
 d).- Deuda pública;
 
-V.- El programa de obra pública, con la especificación de tipo de obra, contrato, monto, origen del recurso, ubicación, procedimiento de adjudicación, plazo de ejecución, ejecutor.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+V.- El programa de obra pública, con la especificación de tipo de obra, contrato, monto, origen del recurso, ubicación, procedimiento de adjudicación, plazo de ejecución y ejecutor.
 
 La Auditoría en cumplimiento de su objetivo podrá solicitar a través de circulares, oficios o de los medios electrónicos que considere pertinentes, información adicional.
 
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+
+Lo dispuesto en este artículo se aplicará sin demerito de lo que se establezca en la Ley General.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+
+ARTÍCULO 33 BIS.- La Cuenta Pública estará conformada de la siguiente manera:
+
+La correspondiente al Gobierno del Estado de Tamaulipas, por los estados financieros y demás información presupuestaria, programática y contable que presentan los Poderes Ejecutivo, Legislativo y Judicial, y los Órganos Autónomos de la Entidad Federativa, integrándose con:
+
+I.- Tomo del Poder Ejecutivo: Se integra a su vez por las dependencias y órganos administrativos desconcentrados del Poder Ejecutivo y la Procuraduría General de Justicia del Estado;
+
+II.- Tomo del Poder Legislativo: Se integra a su vez por los estados financieros y demás información presupuestaria, programática y contable de la Legislatura de la Entidad Federativa, en su caso, por los estados financieros y demás información presupuestaria, programática y contable de las Entidades de Fiscalización Superior del Estado, y la de otros entes públicos del Poder Legislativo;
+
+III.- Tomo del Poder Judicial: Se integra a su vez por los estados financieros y demás información presupuestaria, programática y contable de los tribunales que establezcan las Legislaciones locales, en su caso como cualquier otro ente público del Poder Judicial; y
+
+IV.- Tomo de los Órganos Autónomos: Se integra a su vez por los estados financieros y demás información presupuestaria, programática y contable de los Órganos que la Legislación local les concedió autonomía.
+
+La Cuenta Pública de cada uno los Ayuntamientos de los Municipios del Estado de Tamaulipas, estará conformada de la siguiente manera:
+
+Por las dependencias y organismos desconcentrados del Municipio.
+
+Una vez que las Cuentas Públicas a que se refiere el presente artículo se hayan formulado e integrado por la Secretaría o su equivalente y en el caso de los Ayuntamientos de los municipios por la Tesorería o su equivalente, éstas deberán presentarlas al Congreso para los efectos conducentes a más tardar el último día de abril del año siguiente al que correspondan y la publicarán en sus respectivas páginas de internet.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 34.
 
-La cuenta pública de las entidades sujetas de fiscalización, serán de carácter anual y se presentará a más tardar el último día de abril del año siguiente que corresponda.
+La Cuenta Pública, deberá contener:
 
-Sólo se podrá ampliar el plazo de presentación de la cuenta pública del Poder Ejecutivo, cuando medie solicitud del gobernador, suficientemente justificada a juicio del Congreso, previa comparecencia del titular de la Dependencia competente, pero la prórroga no deberá exceder de treinta días naturales y, en tal supuesto, la Auditoría contará, con el mismo tiempo adicional para presentar el informe de resultados de la revisión de la cuenta pública.
+Estructura de la Cuenta Pública del Gobierno del Estado de Tamaulipas:
 
-Todas las cuentas públicas se remitirán al Congreso del Estado y este las turnará a la Auditoría, por conducto de la Comisión, cuando el Congreso esté en período ordinario de sesiones o por medio de la Diputación Permanente, cuando se encuentre en período de receso.
+A.- El Tomo del Poder Ejecutivo:
+
+I.- Información contable;
+
+II.- Información presupuestaria;
+
+III.- Información programática; y
+
+IV.- Anexos, que incluirán todos los establecidos en diferentes ordenamientos que señalan la obligación de incorporar reportes específicos en la integración de la Cuenta Pública, así como los que el ente público considere convenientes.
+
+B.- El Tomo del Poder Legislativo contendrá los apartados para los entes públicos del Congreso, por los estados financieros y demás información presupuestaria, programática y contable de la Auditoría y se estructurará de la siguiente manera:
+
+I.- Información contable;
+
+II.- Información presupuestaria;
+
+III.- Información programática; y
+
+IV.- Anexos, que incluirán todos los establecidos en diferentes ordenamientos que señalan la obligación de incorporar reportes específicos en la integración de la Cuenta Pública, así como los que el ente público considere convenientes.
+
+C.- El Tomo del Poder Judicial contendrá los apartados para los tribunales que establezca la Legislación local, que determine su estructura y organización así como cualquier otro ente público que establezca la misma, y se estructurará de la siguiente manera:
+
+I.- Información contable;
+
+II.- Información presupuestaria;
+
+III.- Información programática; y
+
+IV.- Anexos, que incluirán todos los establecidos en diferentes ordenamientos que señalan la obligación de incorporar reportes específicos en la integración de la Cuenta Pública, así como los que el ente público considere convenientes.
+
+D.- El Tomo de los órganos autónomos contendrá los apartados para cada uno de ellos y se estructurará de la siguiente manera:
+
+I.- Información contable;
+
+II.- Información presupuestaria;
+
+III.- Información programática; y
+
+IV.- Anexos, que incluirán todos los establecidos en diferentes ordenamientos que señalan la obligación de incorporar reportes específicos en la integración de la Cuenta Pública, así como los que el ente público considere convenientes.
+
+E.- Tomo adicional del Sector Paraestatal, contendrá los apartados para cada uno de ellos y se estructurará por ente público de la siguiente manera:
+
+I.- Información contable;
+
+II.- Información presupuestaria;
+
+III.- Información programática; y
+
+IV.- Anexos, que incluirán todos los establecidos en diferentes ordenamientos que señalan la obligación de incorporar reportes específicos en la integración de la Cuenta Pública, así como los que el ente público considere convenientes.
+
+Adicionalmente a la información de los poderes Ejecutivo, Legislativo, Judicial y órganos autónomos, la Cuenta Pública del Gobierno del Estado de Tamaulipas deberá contener lo siguiente:
+
+I.- Resultados Generales que contendrá entre otros temas el análisis de los indicadores de la postura fiscal; y
+
+II.- Información contable, que contendrá los estados financieros consolidados.
+
+La Cuenta Pública de cada uno de los Ayuntamientos de los Municipios del Estado de Tamaulipas, se estructurará de la siguiente manera:
+
+A.- Tomo del Ayuntamiento del Municipio:
+
+I.- Información contable;
+
+II.- Información presupuestaria; y
+
+III.- Anexos, que incluirán todos los establecidos en diferentes ordenamientos que señalan la obligación de incorporar reportes específicos en la integración de la Cuenta Pública, así como los que el ente público considere convenientes.
+
+B.- Tomo adicional del Sector Paramunicipal, contendrá los apartados para cada uno de ellos y se estructurará por ente público de la siguiente manera:
+
+I.- Información contable;
+
+II.- Información presupuestaria; y
+
+III.- Anexos, que incluirán todos los establecidos en diferentes ordenamientos que señalan la obligación de incorporar reportes específicos en la integración de la Cuenta Pública, así como los que el ente público considere convenientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 35.
 
-La cuenta pública deberá ser suscrita por los representantes legales de las entidades sujetas de fiscalización y por los responsables del manejo de los recursos públicos.
+La información contable, presupuestaria, programática y sus anexos generada por las entidades sujetas de fiscalización que contiene la cuenta pública, deberá ser suscrita por sus representantes legales y por los responsables del manejo de los recursos públicos.
 
 En el caso de los gobiernos municipales, por el presidente municipal, el tesorero y el síndico encargado de vigilar que se cumpla con esta obligación.
 
 Respecto de las entidades señaladas en el artículo 5, fracción XII incisos a), c), d) y e), en los términos de su propia normatividad.
 
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+
+Todas las cuentas públicas se remitirán al Congreso del Estado y éste las turnará a la Auditoría, por conducto de la Comisión, cuando el Congreso esté en periodo ordinario de sesiones o por medio de la Diputación Permanente, cuando se encuentre en periodo de receso.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 36.
 
-Cuando la gestión administrativa del titular de la entidad sujeta de fiscalización obligada a presentar cuenta pública, concluya antes de que termine el ejercicio fiscal, dicho titular deberá dar cumplimiento a lo establecido en la Ley para la Entrega-Recepción de los Recursos Asignados a los Poderes, Órganos y Ayuntamientos del Estado de Tamaulipas.
+Cuando la gestión administrativa del titular de la entidad sujeta de fiscalización obligada a presentar la información financiera, contable, presupuestaria, patrimonial programática y sus anexos de la cuenta pública, concluya antes de que termine el ejercicio fiscal, dicho titular deberá dar cumplimiento a lo establecido en la Ley para la Entrega-Recepción de los Recursos Asignados a los Poderes, Órganos y Ayuntamientos del Estado de Tamaulipas.
 
-Los servidores públicos en funciones al momento de elaborar y rendir la cuenta pública, serán los responsables de signarla y presentarla en los términos de esta ley.
+Los servidores públicos en funciones al momento de elaborar y rendir la información contable, presupuestaria, programática y sus anexos de la cuenta pública, serán los responsables de signarla y presentarla en los términos de esta ley.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 37.
 
-Las entidades sujetas de fiscalización del Poder Ejecutivo a que se refieren los incisos c) y d) del artículo 5 fracción XII de esta ley, que reciban o administren fondos o valores del sector público estatal deberán remitir su cuenta pública a la Secretaría, a más tardar en el último día del mes de abril del año siguiente al que corresponda. Por conducto de la Secretaría se remitirán las cuentas públicas de dichas entidades al Congreso, dentro de los plazos previstos en el artículo 34 de esta ley.
+En el caso de los poderes Legislativo y Judicial, los órganos autónomos de los poderes del Estado y los entes públicos estatales, llevarán la contabilidad y elaborarán sus informes conforme a lo previsto en la Ley General, así como enviarlos a la Secretaría para su integración a la Cuenta Pública del Gobierno del Estado de Tamaulipas, a más tardar el primer día hábil de marzo del año siguiente al ejercicio fiscal de que se trate.
 
 ###### ARTÍCULO 38.
 
@@ -791,29 +939,77 @@ Los servidores públicos de la Auditoría y de las entidades sujetas de fiscaliz
 
 La Auditoría para el cumplimiento de las atribuciones que le confiere esta ley, posee las más amplias atribuciones para:
 
-I.- Revisar los libros y documentos comprobatorios;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
-II.- Realizar compulsas con terceros contratados por las entidades sujetas de fiscalización;
+I.- Revisar el archivo contable así como los dispositivos magnéticos o electrónicos de almacenamiento de información, documentos y archivos;
 
-III.- Practicar auditorías, visitas e inspecciones necesarias para cumplir con sus funciones; y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
-IV.- Las demás actividades y procedimientos que considere necesarios para la fiscalización.
+II.- Requerir a terceros que hubieran contratado con las entidades sujetas de fiscalización, obra pública, bienes o servicios mediante cualquier título legal y, en general, a cualquier entidad o persona física o moral, pública o privada, que haya ejercido recursos públicos, la información relacionada con la documentación justificativa y comprobatoria de la Cuenta Pública, a efecto de realizar las compulsas correspondientes.
+
+El plazo para la entrega de documentación e información a que se refiere el párrafo anterior será de 15 días hábiles;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+III.- Practicar auditorías, visitas o inspecciones necesarias para cumplir con sus funciones, solicitando información y documentación durante el desarrollo de las mismas para ser revisada en las instalaciones de las propias entidades sujetas de fiscalización o en las oficinas de la Auditoría;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+IV.- Constatar la procedencia y registro de los activos y pasivos de las entidades fiscalizadas, de los fideicomisos, fondos y mandatos o cualquier otra figura análoga, para verificar la razonabilidad de las cifras mostradas en los estados financieros consolidados y particulares de la Cuenta Pública;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+
+V.- Fiscalizar la deuda pública en su contratación, registro, renegociación, administración y pago;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+
+VI.- Verificar documentalmente que las entidades fiscalizadas que hubieren captado, recaudado, custodiado, manejado, administrado, aplicado o ejercido recursos públicos, lo hayan realizado conforme a los programas aprobados y montos autorizados, así como en el caso de los egresos, con cargo a las partidas correspondientes; además, con apego a las disposiciones legales, reglamentarias y administrativas aplicables;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+
+VII.- Verificar que las operaciones que realicen las entidades sujetas de fiscalización sean acordes con el Presupuesto de Egresos y en su caso con la Ley de Ingresos, se efectúen con apego a las disposiciones legales, reglamentarias y administrativas aplicables;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+
+VIII.- Verificar obras, bienes adquiridos y servicios contratados, para comprobar si las inversiones y gastos autorizados a las entidades sujetas de fiscalización se aplicaron legal y eficientemente al logro de los objetivos y metas de los programas;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+
+IX.- Solicitar, en su caso, a los auditores externos contratados por las entidades sujetas de fiscalización, original o copia de los informes o dictámenes de las auditorías y revisiones practicadas a las mismas y la documentación que los origine.
+
+Así mismo, las unidades de control interno de las entidades sujetas de fiscalización deberán colaborar con la Auditoría, y otorgarán las facilidades que permitan a ésta realizar sus funciones, para lo cual deberán proporcionar la documentación que les solicite sobre los resultados de la fiscalización que efectúe, y cualquier otra que les requiera en el ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+
+X.- Para los efectos de la fiscalización de recursos federales que ejerzan las entidades sujetas de fiscalización, la Auditoría podrá celebrar convenios de coordinación con la Auditoría Superior de la Federación para que en ejercicio de sus respectivas atribuciones, revise a través de un programa de auditorías la aplicación, ejercicio y destino de los recursos; y
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+
+XI.- Las demás actividades y procedimientos que considere necesarios para la fiscalización.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 47.
 
-El proceso de fiscalización, tendrá entre otros objetivos, verificar, revisar y comprobar:
+El proceso de fiscalización, tendrá entre otros objetivos:
 
-I.- Si las operaciones se efectuaron correctamente, y si los estados financieros se presentaron en tiempo oportuno en forma veraz, de acuerdo con la Ley General y demás disposiciones normativas aplicables;
+I.- Verificar si se cumplió con las disposiciones jurídicas aplicables en materia de sistemas de registro y contabilidad gubernamental; contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles; almacenes y demás activos; recursos materiales, y demás normatividad aplicable al ejercicio del gasto público;
 
-II.- Si las entidades sujetas de fiscalización auditadas cumplieron en la recaudación de los ingresos, los presupuestos de egresos correspondientes y con las demás disposiciones aplicables en la materia;
+II.- Si las entidades sujetas de fiscalización auditadas cumplieron en la recaudación de los ingresos, los presupuestos de egresos correspondientes y con las demás disposiciones aplicables en la materia:
 
-III.- Si las entidades sujetas de fiscalización alcanzaron con eficiencia los objetivos de los programas aprobados; y
+a).- Si las cantidades correspondientes a los ingresos y a los egresos, se ajustaron o corresponden a los conceptos y a las partidas respectivas;
 
-IV.- Si las inversiones y gastos autorizados a las entidades sujetas de fiscalización y personas físicas o morales fueron aplicados en forma correcta, así como verificar las obras, bienes adquiridos o servicios contratados.
+b).- Si los programas y su ejecución se ajustaron a los términos y montos aprobados en el Presupuesto; y
 
-Para lo anterior podrá la Auditoría solicitar, en su caso, a los auditores externos contratados por las entidades sujetas de fiscalización, original o copia de los informes o dictámenes de las auditorías y revisiones practicadas a las mismas y la documentación que los origine.
+c).- Si los recursos provenientes de financiamientos se obtuvieron en los términos autorizados y se aplicaron con la periodicidad y forma establecidas por las leyes y demás disposiciones aplicables, y si se cumplieron los compromisos adquiridos en los actos respectivos.
 
-Así mismo, las unidades de control interno de las entidades sujetas de fiscalización deberán colaborar con la Auditoría, y otorgarán las facilidades que permitan a ésta realizar sus funciones, para lo cual deberán proporcionar la documentación que les solicite sobre los resultados de la fiscalización que efectúe, y cualquier otra que les requiera en el ejercicio de sus atribuciones.
+III.- Si las entidades sujetas de fiscalización cumplieron con los objetivos de los programas aprobados:
+
+a).- Realizar auditorías del desempeño de los programas, verificando la eficiencia, la eficacia y la economía de los mismos y su efecto o la consecuencia en las condiciones sociales y económicas durante el periodo que se evalúe; y
+
+b).- Si se cumplieron las metas de los indicadores aprobados en el Presupuesto.
+
+IV.- (DEROGADA, P.O. 7 DE JULIO DE 2015)
 
 ###### ARTÍCULO 48.
 
@@ -895,9 +1091,15 @@ Una vez que la Auditoría valore las justificaciones, aclaraciones y demás info
 
 Cuando los pliegos de observaciones no sean solventados dentro del plazo señalado, se procederá a lo siguiente:
 
-a).- Se determinarán los daños y perjuicios a la hacienda pública o patrimonio con base en medios probatorios que permitan presumir el manejo, aplicación o custodia irregulares de recursos públicos. La Auditoría notificará a las entidades sujetas de fiscalización esta determinación en los pliegos de responsabilidades;
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
-b).- Dentro de los cinco días hábiles posteriores a la notificación deberá requerirse a los presuntos infractores, para que cubran el monto de los daños y perjuicios en cantidad líquida, y en caso de negarse, se dará inicio al procedimiento resarcitorio. Sobre estas actuaciones, las entidades fiscalizadas dejarán constancia por escrito misma que remitirán a la Auditoría al día siguiente de su realización; y
+a).- Las auditorías especiales determinarán los daños y perjuicios a la hacienda pública o patrimonio con base en medios probatorios que permitan presumir el manejo, aplicación o custodia irregulares de recursos públicos emitiendo el pliego de responsabilidades. La Auditoría por conducto de la Dirección Jurídica notificará a las entidades sujetas de fiscalización esta determinación en los pliegos de responsabilidades;
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
+b).- Dentro de los siete días hábiles posteriores a la notificación las entidades fiscalizadas deberán requerir a los probables infractores, para que cubran el monto de los daños y perjuicios en cantidad líquida, y en caso de negarse, se dará inicio al procedimiento de indemnizaciones. Sobre estas actuaciones, las entidades fiscalizadas dejarán constancia por escrito misma que remitirán a la Dirección Jurídica al día siguiente de su ejecución.
+
+Cuando se omita dar razón sobre las actuaciones a que se refiere el párrafo anterior, independientemente de la sanción que corresponda a los infractores, la Dirección Jurídica dará inicio al procedimiento para fincar las indemnizaciones; y
 
 c).- En caso de no existir daños y perjuicios a la hacienda pública o patrimonio, pero sin observancia de la normatividad aplicable se hará del conocimiento al órgano de control respectivo.
 
@@ -947,15 +1149,23 @@ VI.- Los servidores públicos que al rendir la cuenta pública presenten discrep
 
 VII.- Los servidores públicos que habiendo recibido de la Auditoría los informes de resultados y las recomendaciones que correspondan, no den contestación dentro del plazo de treinta días hábiles, presentando la información necesaria y las consideraciones que estimen pertinentes; o
 
-VIII.- Los casos a que se refieren los artículos 30, 60 y 61 de esta ley.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+VIII.- Los casos a que se refieren los artículos 30, 60, 61 y los demás que se señalen en esta ley.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 59.
 
-Los que no remitan la cuenta pública a la Secretaría en los términos del artículo 37 de esta ley. En este caso será la Secretaría la obligada a sancionar el incumplimiento.
+Los que no remitan a la Secretaría la información necesaria para integrar la Cuenta Pública en los términos del artículo 37 de esta ley. Será la Secretaría la que informará al órgano de control correspondiente para sancionar el incumplimiento.
+
+En el caso de los Ayuntamientos de los Municipios la no remisión de la información necesaria para la integración de la Cuenta Pública respectiva ante la Tesorería Municipal, será su órgano de control quien sancionará su incumplimiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 60.
 
-La falta de presentación de la cuenta pública dentro del plazo legal, así como la falta de documentación comprobatoria y justificatoria de las operaciones realizadas, en el ejercicio fiscal de que se trate, dará lugar a que la Auditoría presuntivamente en base a los ingresos que se estime haya percibido, determine el importe de los daños y perjuicios generados a la hacienda pública o patrimonio de la entidad sujeta de fiscalización y en consecuencia fincar a los responsables las indemnizaciones correspondientes.
+La falta de presentación de la cuenta pública dentro del plazo legal, así como la falta de documentación comprobatoria y justificatoria de las operaciones realizadas, en el ejercicio fiscal de que se trate, dará lugar a que la Auditoría, presuntivamente en base a los ingresos que se estime haya percibido, determine el importe de los daños y perjuicios generados a la hacienda pública o patrimonio de la entidad sujeta de fiscalización y en consecuencia fincar a los responsables las indemnizaciones correspondientes.
 
 Así también denunciar aquellas conductas que tipifique el Código Penal vigente en el Estado de Tamaulipas y que haga presumir la comisión de delitos cometidos por servidores públicos de las entidades que manejen recursos públicos.
 
@@ -975,33 +1185,43 @@ Las responsabilidades se fincarán en primer término a los servidores públicos
 
 ### CAPÍTULO OCTAVO. DEL PROCEDIMIENTO PARA EL FINCAMIENTO DE RESPONSABILIDADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 63.
 
-La determinación de las responsabilidades y el fincamiento de indemnizaciones y sanciones se sujetarán al procedimiento siguiente:
+Cuando la Dirección Jurídica reciba el Pliego de Responsabilidades a que se refiere el artículo 55 de esta ley, iniciará el procedimiento para determinar las indemnizaciones correspondientes, y en su caso, la sanción equivalente a multa, y para ese efecto se sujetará al procedimiento siguiente:
 
 I.- Se citará personalmente a una audiencia al presunto o presuntos responsables, haciéndole saber de los hechos que se le imputan y comparezca en el lugar, día y hora que se señale para llevar a cabo la audiencia.
 
-Se informará al citado de su derecho a ofrecer pruebas y alegar en la audiencia lo que a su derecho convenga, por sí o por medio de un defensor; apercibido de que de no comparecer sin justa causa, se tendrá por precluido su derecho para ofrecer pruebas o formular alegatos, y se resolverá con los elementos que obren en el expediente respectivo.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
+Se informará al citado de su derecho a ofrecer pruebas y alegar en la audiencia lo que a su derecho convenga, por sí o por medio de un defensor; apercibido de que de no comparecer sin justa causa, se tendrá por ciertos los hechos que se le imputan, y por precluido su derecho para ofrecer pruebas o formular alegatos, y se resolverá con los elementos que obren en el expediente respectivo.
 
 A la audiencia podrá asistir el representante de la entidad que para tal efecto designe.
 
-II.- En caso de que el presunto responsable ofreciere pruebas documentales en la audiencia, se le recibirán y se valorarán en la resolución que se emita; si son notablemente improcedentes por no tener relación directa e inmediata con los hechos que se imputan, se desecharán en el mismo acto con el debido fundamento y motivación.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
-Si se tratase de otro tipo de pruebas, la autoridad reservará su calificación y acordará lo conducente en un término no mayor de cinco días hábiles.
+II.- En los casos en que los probables responsables, no exhiban pruebas se tendrá como determinado el daño patrimonial de acuerdo al contenido del Pliego de Responsabilidades recibido, o cuando no se haya presentado la cuenta pública en los términos a que alude el artículo 60 de esta ley; la Dirección emitirá el cierre de instrucción, dará cuenta de ello al Auditor remitiendo el expediente de actuaciones y el análisis de las pruebas existentes, y propondrá el fincamiento de responsabilidades e indemnizaciones de conformidad con esta ley, a lo cual, el Auditor determinará lo procedente. Cumplidos los trámites anteriores, el Director emitirá la resolución dentro de treinta días hábiles siguientes y hará la notificación correspondiente.
 
-III.- Desahogadas las pruebas, si las hubiere, la Auditoría resolverá dentro de los treinta días hábiles siguientes sobre la existencia o inexistencia de responsabilidad y determinará la indemnización exigible, multa o ambas sanciones, según proceda.
+Cuando presenten pruebas documentales los probables responsables se le recibirán y se valorarán en la resolución que se emita; si son notoriamente improcedentes por no tener relación directa e inmediata con los hechos que se imputan, se desecharán en el mismo acto con el debido fundamento y motivación. Cuando sean procedentes, la Dirección Jurídica remitirá las pruebas admitidas a la Auditoría Especial emisora del Pliego de Responsabilidades, a fin de que determine la existencia o ausencia del daño patrimonial, y en su caso el monto a resarcir y los perjuicios correspondientes, haciéndolo del conocimiento de la Dirección, quien procederá a emitir el cierre de instrucción, dará cuenta de ello al Auditor remitiendo el expediente de actuaciones y el análisis de las pruebas existentes, y propondrá el fincamiento de responsabilidades e indemnizaciones de conformidad con esta ley. Cumplidos los trámites anteriores, el Director emitirá la resolución dentro de treinta días hábiles siguientes y hará la notificación correspondiente.
 
-Se notificará a los responsables y a la entidad, remitiendo una copia por escrito del mismo a la Secretaría, para el efecto de que si en un plazo de quince días naturales contados a partir de la notificación, éste no es cubierto, se haga efectivo en términos de ley, mediante el procedimiento administrativo de ejecución.
+Cuando la irregularidad no cause daño a la hacienda pública o al patrimonio de las entidades sujetas de fiscalización, el procedimiento para el fincamiento de responsabilidades, se estará a lo dispuesto en las fracciones I y II de este artículo, y de inmediato la Dirección emitirá el cierre de instrucción, dará cuenta de ello al Auditor remitiendo el expediente de actuaciones y el análisis de las pruebas existentes, y propondrá el fincamiento de responsabilidades e indemnizaciones de conformidad con esta ley. Cumplidos los trámites anteriores, el Director emitirá la resolución dentro de treinta días hábiles siguientes y hará la notificación correspondiente.
 
-La indemnización invariablemente deberá ser suficiente para cubrir los daños y perjuicios causados, o ambos, y se actualizará para efectos de su pago, de acuerdo a lo previsto por el Código Fiscal del Estado de Tamaulipas.
+En todos los casos, si se tratase de otro tipo de pruebas, la autoridad reservará su calificación y acordará lo conducente en un término no mayor de cinco días hábiles; y
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+III.- La indemnización invariablemente deberá ser suficiente para cubrir los daños y perjuicios causados, o ambos, y se actualizará para efectos de su pago, de acuerdo a lo previsto por el Código Fiscal del Estado de Tamaulipas.
 
 La Auditoría podrá solicitar a la Secretaría proceda al embargo precautorio de los bienes de los presuntos responsables a efecto de garantizar el cobro de la sanción impuesta, sólo cuando haya sido determinada en cantidad líquida el monto de la responsabilidad resarcitoria respectiva.
 
 El presunto o presuntos responsables podrán solicitar la sustitución del embargo precautorio, por cualquiera de las garantías que establece el Código Fiscal del Estado de Tamaulipas, a satisfacción de la Auditoría.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 64.
 
-Las indemnizaciones o sanciones a que se refiere la presente ley, tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida, y deberán hacerse efectivas conforme al procedimiento administrativo de ejecución que establece la legislación aplicable.
+Las indemnizaciones y las sanciones a que se refiere la presente ley, tendrán el carácter de créditos fiscales y se fijarán en cantidad líquida, y deberán hacerse efectivas conforme al procedimiento administrativo de ejecución que establece la legislación aplicable.
 
 ###### ARTÍCULO 65.
 
@@ -1037,9 +1257,11 @@ La responsabilidad de carácter político, civil, administrativo o penal que res
 
 ### CAPÍTULO DÉCIMO. DEL RECURSO DE REVOCACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 71.
 
-Las sanciones y demás resoluciones que emita la Auditoría conforme a esta ley, a excepción del informe de resultados, podrán ser impugnados por las entidades sujetas de fiscalización y, en su caso, por los servidores públicos afectados adscritos a las mismas o por los particulares, personas físicas o morales que resulten afectadas, ante la propia Auditoría, mediante el recurso de revocación o bien, mediante juicio de nulidad ante el Tribunal Fiscal del Estado.
+Las sanciones y demás resoluciones que emita la Auditoría conforme a esta ley, a excepción del informe de resultados, podrán ser impugnados por las entidades sujetas de fiscalización y, en su caso, por los servidores públicos afectados adscritos a las mismas o por los particulares, personas físicas o morales que resulten afectadas, ante la propia Auditoría, mediante el recurso de revocación.
 
 El recurso de revocación se interpondrá dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación de la sanción o la resolución recurrida o de ambos.
 
@@ -1164,3 +1386,9 @@ P.O. 3 DE ABRIL DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JULIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
