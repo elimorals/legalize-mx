@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5615
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-05"
-last_updated: "2013-05-23"
+last_updated: "2015-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de julio de 2007.
 
@@ -251,7 +251,9 @@ VI. Lista general de jubilados y pensionados, incluyendo el monto de la pensión
 
 VII. Presupuesto autorizado y avance de su ejercicio por trimestre, así como los montos asignados a los grupos parlamentarios, señalando los criterios de su asignación, el tiempo de ejecución, los mecanismos de evaluación y los responsables de su recepción y ejecución final;
 
-VIII. Estado de los ingresos y egresos;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+VIII. La información financiera, contable, presupuestal, patrimonial y programática correspondiente a cada uno de los trimestres del año dentro de los treinta días naturales siguientes al cierre del periodo que corresponda. Asimismo, deberá permanecer disponible en Internet la información correspondiente de los últimos seis ejercicios fiscales;
 
 IX. Relación de subsidios y subvenciones que otorgue y sus beneficiarios;
 
@@ -265,9 +267,17 @@ XIII. Dictámenes y Decretos sobre la revisión de las cuentas públicas que emi
 
 XIV. Controversias constitucionales iniciadas por el Congreso; y
 
-XV. Legislación vigente; y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
-XVI. Orden del día, veinticuatro horas antes de las sesiones del pleno, las comisiones y la Diputación Permanente, en su caso, así como las correspondientes actas con lista de asistencia, una vez aprobadas y a la brevedad posible.
+XV. Legislación vigente;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+XVI. Orden del día, veinticuatro horas antes de las sesiones del pleno, las comisiones y la Diputación Permanente, en su caso, así como las correspondientes actas con lista de asistencia, una vez aprobadas y a la brevedad posible; y
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+
+XVII. El inventario de sus bienes a través de internet, el cual deberán actualizar, por lo menos, cada seis meses.
 
 b) En el Poder Ejecutivo:
 
@@ -289,7 +299,9 @@ VIII. Servicios que se prestan y programas de apoyo que se realizan, así como l
 
 IX. Presupuesto autorizado y avance de su ejercicio por trimestre;
 
-X. Estado de ingresos y egresos;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+X. La información financiera, contable, presupuestal, patrimonial y programática correspondiente a cada uno de los trimestres del año dentro de los treinta días naturales siguientes al cierre del periodo que corresponda. Asimismo, deberá permanecer disponible en Internet la información correspondiente de los últimos seis ejercicios fiscales;
 
 XI. Relación de subsidios y subvenciones que otorgue y sus beneficiarios;
 
@@ -303,13 +315,21 @@ XIV. Relación de vehículos oficiales e identificación de los mismos;
 
 XV. Concesiones, permisos y autorizaciones;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
-XVI. Informe anual de actividades del Ejecutivo, así como de las dependencias y entidades; y
+XVI. Informe anual de actividades del Ejecutivo, así como de las dependencias y entidades;
 
-> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
-XVII. En su caso, los indicadores de gestión.
+XVII. En su caso, los indicadores de gestión;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+
+XVIII. La Cuenta Pública del Gobierno del Estado de Tamaulipas el día hábil siguiente a su presentación ante el Congreso para su fiscalización. Asimismo, deberá permanecer disponible en Internet la información correspondiente de los últimos seis ejercicios fiscales; y
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+
+XIX. El inventario de sus bienes a través de internet, el cual deberán actualizar, por lo menos, cada seis meses.
 
 c) En el Poder Judicial:
 
@@ -327,7 +347,9 @@ VI. Lista general de jubilados y pensionados, incluyendo el monto de la pensión
 
 VII. Presupuesto autorizado y avance de su ejercicio por trimestre;
 
-VIII. Estado de ingresos y egresos;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+VIII. La información financiera, contable, presupuestal, patrimonial y programática correspondiente a cada uno de los trimestres del año dentro de los treinta días naturales siguientes al cierre del periodo que corresponda. Asimismo, deberá permanecer disponible en Internet la información correspondiente de los últimos seis ejercicios fiscales;
 
 IX. Informe de los ingresos y la aplicación del Fondo Auxiliar para la Administración de la Justicia;
 
@@ -339,9 +361,17 @@ XII. Relación de vehículos oficiales e identificación de los mismos;
 
 XIII. Informe de asuntos recibidos y resueltos por el Pleno, Salas y Juzgados;
 
-XIV. Lista de Acuerdos del Pleno, Salas y Juzgados; y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
-XV. Informe anual de actividades.
+XIV. Lista de Acuerdos del Pleno, Salas y Juzgados;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+XV. Informe anual de actividades; y
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+
+XVI. El inventario de sus bienes a través de Internet, el cual deberán actualizar, por lo menos, cada seis meses.
 
 d) Tribunales administrativos:
 
@@ -391,7 +421,9 @@ VIII. Servicios que se prestan y programas de apoyo que se realizan, así como l
 
 IX. Presupuesto autorizado y avance de su ejercicio por trimestre;
 
-X. Estado de ingresos y egresos;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+X. La información financiera, contable, presupuestal, patrimonial y programática correspondiente a cada uno de los trimestres del año dentro de los treinta días naturales siguientes al cierre del periodo que corresponda. Asimismo, deberá permanecer disponible en Internet la información correspondiente de los últimos seis ejercicios fiscales;
 
 XI. Relación de subsidios y subvenciones que otorgue y sus beneficiarios;
 
@@ -399,9 +431,19 @@ XII. Convocatorias para la licitación de adquisiciones, contratación de servic
 
 XIII. Relación de vehículos oficiales e identificación de los mismos;
 
-XIV. Informe anual de actividades; y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+XIV. Informe anual de actividades;
 
 XV. Orden del día de las reuniones de cabildo con veinticuatro horas de anticipación;
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+
+XVI. La Cuenta Pública del Ayuntamiento del Municipio el día hábil siguiente a su presentación ante el Congreso para su fiscalización. Asimismo, deberá permanecer disponible en Internet la información correspondiente de los últimos seis ejercicios fiscales; y
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+
+XVII. El inventario de sus bienes a través de internet, el cual deberán actualizar, por lo menos, cada seis meses.
 
 f) En los órganos autónomos de los Poderes:
 
@@ -421,23 +463,51 @@ VII. Lista general de jubilados y pensionados, incluyendo el monto de la pensió
 
 VIII. Presupuesto autorizado y avance de su ejercicio por trimestre;
 
-IX. El estado de ingresos y egresos;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+IX. La información financiera, contable, presupuestal, patrimonial y programática correspondiente a cada uno de los trimestres del año dentro de los treinta días naturales siguientes al cierre del periodo que corresponda. Asimismo, deberá permanecer disponible en Internet la información correspondiente de los últimos seis ejercicios fiscales;
 
 X. Relación de subsidios y subvenciones que otorgue y sus beneficiarios;
 
 XI. Convocatorias para la licitación de adquisiciones, contratación de servicios u obra pública, así como sus resultados;
 
-XII. Relación de vehículos oficiales e identificación de los mismos; y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
-XIII. Informe anual de actividades.
+XII. Relación de vehículos oficiales e identificación de los mismos;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+XIII. Informe anual de actividades; y
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+
+XIV. El inventario de sus bienes a través de internet, el cual deberán actualizar, por lo menos, cada seis meses.
 
 2. La información a que se refieren los incisos del párrafo anterior se presentará con relación al año fiscal en ejercicio y, en su caso, por trimestre vencido para efectos del sistema de rendición de cuentas.
 
-3. Los municipios del Estado con una población de más de 70,000 habitantes desplegarán la información pública de oficio que les corresponde a través de la red de información mundial denominada Internet. En todo caso, los municipios con menor número de habitantes deberán contar con la información pública de oficio en forma impresa y a disposición de quien la solicite.
+3. (DEROGADO, P.O. 7 DE JULIO DE 2015)
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2013)</small>
 
 4. El Instituto de Transparencia y Acceso a la Información de Tamaulipas revisará periódicamente los portales de internet de los sujetos obligados con el objeto de supervisar que la información esté completa y actualizada, debiendo en su caso requerirle a la Unidad de Información Pública que subsane cualquier omisión o deficiencia en su publicación, apercibiéndole que de no hacerlo dentro del plazo de treinta días naturales, se dará vista al superior jerárquico, así como al órgano de control interno correspondiente para que inicie el procedimiento de responsabilidad administrativa. Para cumplir con esta facultad, el Instituto emitirá la regulación correspondiente para efectuar la revisión de los portales de Internet. El resultado de la revisión que, en ejercicio de esta facultad, realice el Instituto será considerado para éste como información pública de oficio.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+
+5. Adicionalmente a la información contenida en el párrafo anterior, los entes públicos deberán informar, difundir y actualizar de oficio en su página de internet la siguiente información:
+
+a) Las normas que emita el CONAC;
+
+b) Los enlaces electrónicos que permitan acceder a la información financiera de todos los entes públicos que conforman el ámbito de gobierno que corresponda, así como a los órganos o instancias de transparencia competentes;
+
+c) Las iniciativas de ley de ingresos, el proyecto de presupuesto de egresos;
+
+d) Los calendarios de ingresos así como los calendarios de presupuesto de egresos con base mensual, en los formatos y plazos que determine el Consejo;
+
+e) El programa anual de evaluaciones, así como las metodologías e indicadores de desempeño;
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+
+6. Lo anterior sin perjuicio del cumplimiento de las obligaciones que en materia de difusión de la información financiera, presupuestal y de Evaluación del Desempeño se establecen en la Ley General de Contabilidad Gubernamental y en la Ley de Gasto Público y demás disposiciones aplicables.
 
 ###### ARTÍCULO 17.
 
@@ -1534,3 +1604,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Instituto de Transparencia y Acceso a la Información de Tamaulipas, dispondrá de un término no mayor de 90 días contados a partir de la entrada en vigor del presente decreto para elaborar los reglamentos y lineamientos administrativos relacionados con el mismo.
+
+P.O. 7 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas que mediante el presente Decreto se efectúan a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, entrarán en vigor a partir de la expedición del mismo.
