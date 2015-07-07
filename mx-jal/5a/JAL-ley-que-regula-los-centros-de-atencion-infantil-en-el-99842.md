@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-regula-los-centros-de-atencion-infantil-en-el-99842"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-25"
-last_updated: "2014-03-25"
+last_updated: "2015-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99842&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el 25 de marzo de 2014.
 
@@ -85,7 +85,9 @@ XI. Prestadores de servicios: Aquellas personas físicas o morales que operen co
 
 XII. Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del funcionamiento: Conjunto de acciones por parte de las autoridades competentes, para lograr una vigilancia efectiva del cumplimiento de la presente Ley y garantizar el mejoramiento progresivo y fortalecimiento de los servicios para la atención, cuidado y desarrollo integral Infantil;
 
-XIII. Programa Interno de Protección Civil: Aquel que autoriza la Unidad de Protección Civil Estatal, con el fin de salvaguardar la integridad física de los menores, empleados y de las personas que concurran en cada uno de los Centros de Atención, así como proteger las instalaciones, bienes e información vital ante la existencia de un riesgo, emergencia, siniestro o desastre;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+XIII. Programa Interno de Protección Civil: Aquel que autoriza la autoridad competente en materia de protección civil en los términos de esta Ley, con el fin de salvaguardar la integridad física de los menores, empleados y de las personas que concurran en cada uno de los Centros de Atención, así como proteger las instalaciones, bienes e información vital ante la existencia de un riesgo, emergencia, siniestro o desastre;
 
 XIV. Registro Estatal: Padrón Público de los Centros de Atención, que bajo cualquier modalidad y tipo, operen en el territorio del Estado de Jalisco;
 
@@ -451,15 +453,21 @@ Es obligación del personal que presta servicios en el Centro de Atención, así
 
 De igual forma, el personal de los Centros de Atención tendrá la obligación de informar sobre cualquier situación de peligro a los responsables del mismo o a su superior, y tomar inmediatamente las medidas necesarias para que cese dicha situación.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### Artículo 33.
 
-En el Estado de Jalisco la autoridad competente para efectos de Protección Civil, es la Unidad Estatal de Protección Civil.
+En el Estado de Jalisco la autoridad competente para efectos de Protección Civil es la Unidad Estatal de Protección Civil.
+
+La Unidad Estatal de Protección Civil podrá delegar sus atribuciones previstas en esta Ley a las autoridades municipales competentes mediante convenio de coordinación, el cual deberá ser publicado en el periódico oficial "EI Estado de Jalisco”.
 
 ###### Artículo 34.
 
 Los Centros de Atención deberán contar con un Programa Interno de Protección Civil, el cual deberá contener, por lo menos, el ámbito de competencia y responsabilidad de los prestadores de servicio en cada una de las modalidades, el estado en el que se encuentra el inmueble, las instalaciones, el equipo y el mobiliario utilizado para la prestación del servicio.
 
-El Programa Interno deberá ser aprobado por la Unidad Estatal de Protección Civil y será sujeto a evaluación de manera periódica, por la misma.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
+EI Programa Interno deberá ser aprobado por la Unidad Estatal de Protección Civil y será sujeto a evaluación de manera periódica por la misma. Éste podrá ser aprobado y evaluado por las autoridades municipales, en los términos del convenio de coordinación que señala el artículo anterior.
 
 ###### Artículo 35.
 
@@ -481,9 +489,11 @@ Con relación a la evacuación del inmueble, se deberá comprobar periódicament
 
 Una vez cada mes, se deberá realizar un simulacro con la participación de todas las personas que ocupen regularmente el inmueble. Igualmente, deberán llevarse a cabo sesiones informativas con el objeto de transmitir a los ocupantes las instrucciones de comportamiento frente a situaciones de emergencia.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### Artículo 39.
 
-Cualquier modificación o reparación estructural del inmueble deberá realizarse previa autorización de la Unidad Estatal de Protección Civil y se hará por personal capacitado fuera del horario en el que se prestan los servicios.
+Cualquier modificación o reparación estructural del inmueble, deberá realizarse previa autorización de la autoridad estatal en materia de protección civil o, en su caso, de la autoridad municipal competente en los términos del convenio de coordinación respectivo, y se hará por personal capacitado fuera del horario en el que se prestan los servicios.
 
 ###### Artículo 40.
 
@@ -770,3 +780,9 @@ El Secretario General de Gobierno
 ARTURO ZAMORA JIMÉNEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE JULIO DE 2015.
+
+ÚNICO. EI presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
