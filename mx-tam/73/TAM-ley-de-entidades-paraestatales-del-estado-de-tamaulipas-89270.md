@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-entidades-paraestatales-del-estado-de-tamaulipas-89270"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-30"
-last_updated: "2013-11-26"
+last_updated: "2015-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 30 de agosto de 2012.
 
@@ -191,7 +191,9 @@ III. Fijar y ajustar los precios de bienes y servicios que, en su caso, produzca
 
 IV. Aprobar la propuesta de obligaciones para el financiamiento de la entidad paraestatal, así como observar los lineamientos que dicten las autoridades competentes, en materia de manejo y disponibilidades financieras;
 
-V. Aprobar, previo informe de los comisarios y dictamen de los auditores externos, los estados financieros anuales de la entidad paraestatal y autorizar la publicación de los mismos;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+V. Aprobar la información contable, presupuestal, patrimonial y programática, además de los estados financieros dictaminados por los auditores externos que para efectos le asigne la Contraloría Gubernamental en su caso; previo informe de los comisarios;
 
 VI. Aprobar, de acuerdo con las leyes aplicables, las políticas, bases y programas generales que regulen los convenios, contratos, o acuerdos que deba celebrar la entidad paraestatal con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con los bienes de la entidad;
 
@@ -241,7 +243,9 @@ VII. Otorgar poderes generales y especiales con las facultades que les competan,
 
 VIII. Sustituir y revocar poderes generales o especiales;
 
-IX. Formular y someter a la aprobación del Órgano de Gobierno los presupuestos de ingresos y egresos anuales para cada ejercicio;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+IX. Formular y someter a la aprobación del Órgano de Gobierno los presupuestos de ingresos y egresos anuales para cada ejercicio, y suscribir en unión del titular del área financiera los estados financieros que deban integrarse en la Cuenta Pública del Gobierno del Estado de Tamaulipas, presentándolos a la Secretaría de Finanzas del Poder Ejecutivo;
 
 X. Certificar copias y cualquier otro documento elaborado por el organismo; y
 
@@ -303,7 +307,7 @@ II. La constitución de su capital incorpora títulos representativos de serie e
 
 III. El Estatuto de la empresa reserve al Gobierno del Estado la facultad de nombrar a la mayoría de los miembros del Consejo de Administración o al administrador único; o
 
-IV. El Estatuto de la empresa reserve al Gobierno del Estado la facultad de vetar las decisiones y acuerdos del órgano de gobierno.
+IV. EI Estatuto de la empresa reserve al Gobierno del Estado la facultad de vetar las decisiones y acuerdos del órgano de gobierno.
 
 4. Se asimilan a las empresas de participación estatal mayoritaria, las asociaciones y sociedades civiles en las que la mayoría de sus miembros son dependencias o entidades de la administración pública estatal, servidores públicos estatales que participen en ellas en razón de sus cargos o alguna o varias de aquellas realicen o se obliguen a realizar las aportaciones económicas preponderantes.
 
@@ -447,11 +451,11 @@ Los ingresos que se recauden por los diversos conceptos que establece la Ley de 
 
 Las entidades paraestatales, en lo tocante al ejercicio de sus presupuestos, concertación y cumplimiento de compromisos, registro de operaciones; rendimiento de informes sobre estados financieros e integración de datos para efecto de cuenta pública, deberán sujetarse a lo dispuesto por esta ley y su reglamento y en las disposiciones legales respectivas de la materia.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 51.
 
-Las entidades remitirán su cuenta pública anual a la Secretaría de Finanzas en términos de la Ley de Fiscalización y Rendición de Cuentas para el Estado de Tamaulipas, a fin de que sea presentada al Congreso del Estado para su revisión y calificación.
+Las entidades remitirán a la Secretaría de Finanzas del Poder Ejecutivo la información financiera, contable, presupuestal, patrimonial y programática de acuerdo a sus ingresos y egresos ejercidos o administrados durante el ejercicio fiscal correspondiente, en términos de la Ley de Fiscalización y Rendición de Cuentas para el Estado de Tamaulipas.
 
 ### CAPÍTULO VI (SIC). DE LA EVALUACIÓN Y CONTROL
 
@@ -580,3 +584,13 @@ P.O. 26 DE NOVIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción de las reformas efectuadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, las cuales surtirán efectos a partir de su aprobación.
+
+P.O. 7 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas que mediante el presente Decreto se efectúan a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, entrarán en vigor a partir de la expedición del mismo.
