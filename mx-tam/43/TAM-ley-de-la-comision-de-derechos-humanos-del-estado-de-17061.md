@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-la-comision-de-derechos-humanos-del-estado-de-17061"
 country: "mx"
 rank: "ley"
 publication_date: "1994-02-05"
-last_updated: "2013-05-15"
+last_updated: "2015-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 5 de febrero de 1994.
 
@@ -59,13 +59,13 @@ La Comisión de Derechos Humanos del Estado de Tamaulipas es un organismo públi
 
 La Comisión conocerá de quejas y denuncias sobre violaciones a los derechos humanos por actos u omisiones de naturaleza administrativa provenientes de autoridades y servidores públicos que actúen en el ámbito del Estado de Tamaulipas.
 
-> <small>(F. DE E., P.O. 23 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 4.
 
-Los procedimientos que se sigan ante la Comisión serán breves y sencillos, sin más formalidades que las establecidas en esta Ley y se regirán por los principios de buena fe, accesibilidad, inmediatez, conciliación, concentración, rapidez, discrecionalidad, publicidad y carácter no vinculatorio de sus resoluciones.
+Los procedimientos que se sigan ante la Comisión serán breves y sencillos, sin más formalidades que las establecidas en esta Ley y se regirán por los principios de buena fe, accesibilidad, inmediatez, conciliación, concentración, rapidez, discrecionalidad, máxima publicidad y carácter no vinculatorio de sus resoluciones.
 
-El personal de la Comisión manejará de manera confidencial la información o documentación relativa a los asuntos que conozca.
+El personal de la Comisión manejará la información de acceso restringido en los términos que al efecto establece la Ley de Transparencia y Acceso a la Información Pública del Estado.
 
 ###### ARTICULO 5.
 
@@ -281,7 +281,9 @@ V.- Asignar y delegar atribuciones a los funcionarios de la Comisión;
 
 VI.- Solicitar a las autoridades y servidores públicos, directamente o por conducto de los demás funcionarios, los informes y documentos relacionados con las investigaciones que practique la Comisión sobre presuntas violaciones de los derechos humanos, así como verificar inspecciones o reconocimiento de lugares, cosas y personas para el cumplimiento de sus fines;
 
-VII.- Aprobar y emitir las recomendaciones y acuerdos que resulten de las investigaciones realizadas;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+VII.- Aprobar, emitir y publicar, en su totalidad o en forma resumida las recomendaciones y acuerdos de no responsabilidad que resulten de las investigaciones realizadas, con las excepciones que establece la presente ley.
 
 VIII.- Enviar un informe general al Titular del Poder Ejecutivo y al Congreso del Estado en el mes de enero de cada año, y comparecer ante el Pleno Legislativo cuando así se solicite;
 
@@ -557,13 +559,17 @@ El Presidente de la Comisión deberá publicar en su totalidad o en forma resumi
 
 El Presidente de la Comisión deberá enviar en el mes de enero de cada año un informe general al Congreso del Estado y al Titular del Poder Ejecutivo Estatal. Dicho informe será difundido en la forma más amplia posible para conocimiento de la sociedad. Asimismo, el Presidente de la Comisión comparecerá ante el Pleno Legislativo, cuando así se solicite, para brindar información adicional, sobre las actividades de la Comisión.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### ARTICULO 56.
 
-Los informes anuales del Presidente de la Comisión deberán comprender una descripción del número y características de las quejas y denuncias que se hayan presentado, así como de las resoluciones y resultados obtenidos en las mismas.
+Los informes anuales del Presidente de la Comisión deberán comprender una descripción del número y características de las quejas y denuncias que se hayan presentado ante y por la Comisión, la mención en cada caso de las autoridades investigadas, así como de las resoluciones y resultados obtenidos en las mismas.
 
-También expresará las estadísticas, los programas desarrollados y demás datos que se consideren convenientes.
+También expresarán las estadísticas, los programas desarrollados, el resumen de las acciones de inconstitucionalidad promovidas y los demás datos que se consideren convenientes.
 
-El informe podrá contener proposiciones dirigidas a las autoridades y servidores públicos para promover la expedición o modificación de disposiciones legislativas y reglamentarias, así como para perfeccionar las prácticas administrativas correspondientes, con el objeto de tutelar de manera más eficaz los derechos humanos de los gobernados y lograr una mayor eficiencia en la prestación del servicio público.
+El informe podrá contener proposiciones dirigidas a las autoridades y servidores públicos para promover la expedición, modificación o derogación de disposiciones legislativas y reglamentarias, así como para perfeccionar las prácticas administrativas correspondientes, con el objeto de tutelar de manera más eficaz los derechos humanos y lograr una mayor eficiencia en la prestación del servicio público.
+
+En cumplimiento a las obligaciones que le impone la Ley General de Transparencia y Acceso a la Información Pública, la Comisión deberá poner a disposición del público y actualizar de oficio la información que al efecto establece el citado ordenamiento.
 
 ###### ARTICULO 57.
 
@@ -690,3 +696,9 @@ P.O. 15 DE MAYO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JULIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
