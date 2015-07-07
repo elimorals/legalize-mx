@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-entrega-recepcion-de-los-recursos-asignados-a-34930
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-06"
-last_updated: "2010-11-24"
+last_updated: "2015-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 6 de noviembre de 2003.
 
@@ -37,7 +37,7 @@ LA QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE
 
 DECRETO No. 383
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
 LEY PARA LA ENTREGA-RECEPCION DE LOS RECURSOS ASIGNADOS A LOS PODERES, ORGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS.
 
@@ -229,7 +229,7 @@ C) Con motivo de la fusión, liquidación o extinción de entidades de la admini
 
 La información y documentación relativa a los recursos humanos, materiales y financieros que son materia de entrega-recepción, en cualquiera de las modalidades que establece la presente ley, así como los formatos para su registro y las reglas e instrucciones que para ese efecto emitan los Organos de Control de los Poderes del Estado, la unidad administrativa de los órganos públicos autónomos facultada para ese efecto, y de cada uno de los Ayuntamientos, según corresponda, integrarán los Lineamientos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 7º.
 
@@ -269,7 +269,9 @@ I).- La relación de los bienes dados de baja, señalando clave de identificaci�
 
 V.- Recursos Financieros.- El registro en los formatos autorizados por el Organo de Control de:
 
-A).- Los estados financieros, anexando: balance general, estado de resultados, estado de origen y aplicación de fondos, así como los libros, registros de contabilidad y última Cuenta Pública rendida al Congreso del Estado;
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
+A).- Los estados financieros, anexando: el estado de situación financiera; el estado de actividades; el estado de variación en la hacienda pública; el estado de cambios en la situación financiera; el estado de flujos de efectivo en los términos de la Ley General de Contabilidad Gubernamental así como los libros, registros, sistemas de contabilidad, administración, archivos documentales, electrónicos y en su caso copia de la última Cuenta Pública, rendida al Congreso del Estado;
 
 B).- La relación de cuentas bancarias que, en su caso, se manejen, acompañando su último estado de cuenta expedido por la institución bancaria correspondiente, relación de cheques, inversiones, valores, títulos o cualquier otro contrato con instituciones de crédito o similares a éstas, que contengan el número de cuenta, nombre de la institución bancaria, fecha de vencimiento o de presentación de estado de cuenta, saldo, firmas registradas y los estados de cuenta correspondientes expedidos por la institución de que se trate, debidamente conciliados y el correspondiente oficio de cancelación de firmas, con sello de recibido de la institución bancaria correspondiente;
 
@@ -511,7 +513,7 @@ Si en la fecha en que deba llevarse a cabo el acto de entrega-recepción interme
 
 No podrá designarse sustituto provisional, en los casos en que esté expresamente determinado quien deba desempeñar el cargo por disposición de ley, o cuando el nombramiento de la persona que habrá de tomar posesión del cargo deba hacerlo o deba ratificarlo cualquiera de los Poderes, de los Ayuntamientos del Estado, o de cualquier otro órgano colegiado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 26.
 
@@ -619,7 +621,7 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 1 DE JUNIO DE 2006.
 
@@ -636,3 +638,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 La implementación del sistema de entrega-recepción electrónica prevista en el presente Decreto, será opcional por esta única ocasión para los procesos a que están obligados los Ayuntamientos y sus dependencias, como la administración pública estatal y sus dependencias en el proceso 2010. Fuera de este supuesto se dará entera observancia a la ley.
+
+P.O. 7 DE JULIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
