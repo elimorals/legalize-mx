@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-obras-publicas-y-servicios-relacionados-con-las-33838"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-21"
-last_updated: "2013-09-25"
+last_updated: "2015-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 21 de agosto de 2003.
 
@@ -299,9 +299,11 @@ La Comisión podrá invitar a sus sesiones a la representación de las cámaras 
 
 El gasto aplicable a las obras públicas y a los servicios relacionados con las mismas que realicen el Gobierno del Estado o los Ayuntamientos, quedará sujeto a sus respectivos presupuestos de egresos, a las disposiciones normativas que regulan el ejercicio y control del gasto público, a los preceptos de esta ley y a los convenios o acuerdos que celebren la Federación, el Estado y los Municipios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 13.
 
-La ejecución de las obras públicas que realicen el Gobierno del Estado o los Ayuntamientos con cargo total o parcial a fondos aplicados por la Federación, estará sujeta a las disposiciones de la ley federal en la materia, y en lo conducente a lo dispuesto por este ordenamiento, así como a lo pactado en los convenios y acuerdos de coordinación que se celebren.
+La ejecución de las obras públicas que realicen el Gobierno del Estado o los Ayuntamientos con cargo total o parcial a fondos aplicados por la Federación, con excepción de las Aportaciones establecidas en la Ley de Coordinación Fiscal, estará sujeta a Las disposiciones de la ley federal en la materia, y en lo conducente a lo dispuesto por este ordenamiento, así como a lo pactado en los convenios y acuerdos de coordinación que se celebren.
 
 En lo que corresponde a la ejecución de obras públicas que realicen los Ayuntamientos con cargo total o parcial a fondos aportados por el Gobierno del Estado, se sujetará a lo dispuesto por esta ley y lo previsto en los convenios y acuerdos de coordinación que celebren con el Ejecutivo Local.
 
@@ -371,7 +373,9 @@ II. Considerar la disponibilidad de recursos, basándose en los presupuestos de 
 
 III. Verificar si en los archivos de las diversas dependencias, entidades y Ayuntamientos, existen estudios o proyectos relacionados con la obra pública que se pretenda desarrollar. En el supuesto de que se advierta su existencia y se compruebe que los mismos satisfacen los requerimientos, no procederá la contratación, con excepción de aquellos trabajos que sean necesarios para su adecuación, actualización o complemento;
 
-IV. Previamente a la realización de los trabajos, tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, derechos de banco de extracción de materiales, así como la propiedad o los derechos de propiedad, incluyendo la liberación del derecho de vía y expropiación de inmuebles sobre los que se ejecutarán las obras públicas, los cuales deberán formar parte del expediente técnico respectivo. En las bases de licitación se precisarán, en su caso, aquellos trámites que corresponderá realizar al contratista;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+IV. Previamente a la realización de los trabajos, tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, derechos de banco de extracción de materiales, así como la propiedad o los derechos de propiedad, incluyendo la liberación del derecho de vía y expropiación de inmuebles sobre los que se ejecutarán las obras públicas, los cuales deberán formar parte del expediente técnico respectivo. Todos los proyectos deberán incluir la ubicación geodésica donde se realizarán los trabajos. En las bases de licitación se precisarán, en su caso, aquellos trámites que corresponderá realizar al contratista;
 
 V. Considerar los efectos que la ejecución de las obras públicas puedan causar sobre el medio ambiente, evaluando el impacto ambiental previsto por la legislación de la materia, estudios que deberán formar parte del expediente técnico respectivo. Los proyectos deberán incluir las obras necesarias para que se preserven o restituyan en forma equivalente las condiciones ambientales, cuando éstas pudieran deteriorarse;
 
@@ -455,9 +459,9 @@ La Secretaría administrará el padrón y fijará los criterios y procedimientos
 
 No será requisito estar inscrito en el padrón para participar en las licitaciones públicas convocadas por la Comisión o los Ayuntamientos.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
-Los Ayuntamientos podrán instaurar su propio padrón, siempre y cuando se sujeten a lo dispuesto en este Capítulo, o regirse por el de la Secretaría, para el caso de obras públicas o servicios relacionados con las mismas que se realicen con recursos exclusivamente municipales.
+Adicionalmente al padrón de la Secretaría, los Ayuntamientos podrán instaurar su propio padrón, siempre y cuando se sujeten a lo dispuesto en este Capítulo, o regirse por el de la Secretaría, para el caso de obras públicas o servicios relacionados con las mismas que se realicen con recursos exclusivamente municipales.
 
 En la convocatoria y contratación de las obras públicas que se adjudiquen por el procedimiento de invitación a cuando menos tres contratistas, así como en la contratación de los servicios relacionados con las mismas, la Comisión y los Ayuntamientos deberán considerar la clasificación a que se refiere el párrafo primero de este artículo.
 
@@ -739,6 +743,10 @@ II. De entre los licitantes que hayan asistido, éstos elegirán a uno, que en f
 
 III. Se levantará acta que servirá de constancia de la celebración del acto de presentación y apertura de las proposiciones, en la que se harán constar el importe de cada una de ellas; se señalará lugar, fecha y hora en que se dará a conocer el fallo de la licitación, fecha que deberá quedar comprendida dentro de los treinta días naturales siguientes a la establecida para este acto y podrá diferirse, siempre que el nuevo plazo fijado no exceda de treinta días naturales contados a partir del plazo establecido originalmente para el fallo.
 
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+
+Al acto de presentación y apertura de las proposiciones deberá asistir y participar un integrante de la Contraloría o del órgano de control interno municipal, según corresponda.
+
 ###### ARTÍCULO 44.
 
 Para hacer la evaluación de las proposiciones, la convocante deberá verificar que las mismas cumplan con los requisitos solicitados en la convocatoria y en las bases de licitación. Para tal efecto, deberá establecer los lineamientos, procedimientos y criterios de manera clara y detallada para determinar la solvencia de las propuestas, dependiendo de las características, complejidad y magnitud de los trabajos por realizar.
@@ -751,7 +759,9 @@ Tratándose de obras públicas, deberá verificar, entre otros aspectos, el cump
 
 No serán objeto de evaluación las condiciones establecidas por las convocantes que tengan como propósito facilitar la presentación de las proposiciones y agilizar la conducción de los actos de la licitación.
 
-Una vez hecha la evaluación de las proposiciones, el contrato se adjudicará de entre los licitantes, a aquél cuya propuesta resulte solvente porque reúne, conforme a los criterios de adjudicación establecidos en las bases de licitación, las condiciones legales, técnicas y económicas requeridas por la convocante y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
+Una vez hecha la evaluación de las proposiciones, el contrato se adjudicará de entre los licitantes, a aquél cuya propuesta resulte solvente porque reúne, conforme a los criterios de adjudicación establecidos en las bases de licitación, las condiciones legales, técnicas y económicas requeridas por la convocante y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas, siempre y cuando dicha proposición no sea menor o mayor de un 15% del presupuesto base.
 
 La convocante, con base en su propio presupuesto y en el análisis de las proposiciones admitidas, emitirá un dictamen que servirá de base para el fallo, en el que se hará constar una reseña cronológica de los actos del procedimiento, el análisis de las proposiciones y las razones para admitirlas o desecharlas.
 
@@ -761,7 +771,7 @@ Si resultare que dos o más proposiciones son solventes porque satisfacen la tot
 
 El fallo se dará a conocer en junta pública a la que libremente podrán asistir los licitantes que hubieren participado en la presentación y apertura de proposiciones, levantándose el acta respectiva, que firmarán los asistentes, a quienes se entregará copia de la misma. La falta de firma de algún licitante no invalidará su contenido y efectos, poniéndose a partir de esa fecha a disposición de los que no hayan asistido, para efectos de notificación. En sustitución de esa junta, la Comisión o el Ayuntamiento, podrán optar por notificar por escrito el fallo de la licitación a cada uno de los licitantes, dentro de los cinco días naturales siguientes a su emisión.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE JUNIO DE 2011)</small>
 
 Contra la resolución que contenga el fallo, sólo procederá el recurso de revocación previsto en el artículo 96 de esta ley.
 
@@ -809,9 +819,11 @@ IX. La ejecución de trabajos requieran fundamentalmente de mano de obra campesi
 
 X. La ejecución de los trabajos se acepte a título de dación en pago, en términos de lo dispuesto por el Código Civil para el Estado de Tamaulipas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 49.
 
-Bajo su responsabilidad y sin perjuicio de lo señalado en el artículo anterior, el Comité y los Ayuntamientos, también podrán ordenar la contratación de obras públicas sin sujetarse al procedimiento de licitación pública, mediante la invitación a cuando menos tres contratistas o la adjudicación directa, cuando el importe de cada contrato no exceda los montos máximos que al efecto se establecerán en el Presupuesto de Egresos del Estado de Tamaulipas, siempre que los contratos no se fraccionen para que sus montos queden comprendidos en los supuestos de excepción a la licitación pública a que se refiere este artículo.
+Bajo su responsabilidad y sin perjuicio de lo señalado en el artículo anterior, el Comité y los Ayuntamientos, también podrán ordenar la contratación de obras públicas sin sujetarse al procedimiento de licitación pública, mediante la invitación a cuando menos tres contratistas o la adjudicación directa, cuando el importe de cada contrato no exceda los montos máximos que al efecto se establecerán en el Presupuesto de Egresos del Estado de Tamaulipas, siempre y cuando los contratos no se fraccionen para que sus montos queden comprendidos en los supuestos de excepción a la licitación pública a que se refiere este artículo.
 
 En el caso de que se declare desierto un procedimiento de invitación a cuando menos tres contratistas en el supuesto previsto en el párrafo anterior, el vocal técnico de la Comisión o el titular del área responsable de la contratación de los trabajos en el Ayuntamiento podrán adjudicar directamente el contrato, informándose de ello a la Comisión o al Ayuntamiento en el término de los siguientes cinco días naturales.
 
@@ -883,7 +895,9 @@ X. El procedimiento de ajuste de costos, conforme a su determinación en las bas
 
 XI. Las causas por las cuales las dependencias, entidades o Ayuntamientos podrán dar por rescindido el contrato y el procedimiento para aplicarla, en los términos del artículo 69 de esta ley;
 
-XII. La descripción pormenorizada de los trabajos que se deban ejecutar, debiendo acompañarse, como parte integrante del contrato, en el caso de las obras, los proyectos, planos, especificaciones, programas y presupuestos; tratándose de servicios, los términos de los mismos; y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+II (SIC). La descripción pormenorizada de los trabajos que se deban ejecutar, debiendo acompañarse, como parte integrante del contrato, en el caso de las obras, los proyectos, planos en los que precise su ubicación geodésica, especificaciones, programas y presupuestos; tratándose de servicios, los términos de los mismos; y
 
 XIII. Los procedimientos mediante los cuales las partes, entre sí, resolverán las discrepancias futuras y previsibles, exclusivamente sobre problemas específicos de carácter técnico y administrativo que, de ninguna manera, impliquen una audiencia de conciliación.
 
@@ -903,6 +917,10 @@ El licitante a quien se adjudique el contrato no podrá hacerlo ejecutar por otr
 
 Los derechos y obligaciones que se deriven de los contratos de obra pública o servicios relacionados con la misma no podrán cederse en forma total o parcial a favor de cualquier otra persona, con excepción de los derechos de cobro sobre las estimaciones por trabajos ejecutados, en cuyo caso se deberá contar con el consentimiento de la dependencia, entidad o Ayuntamiento de que se trate.
 
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+
+La dependencia, entidad o municipio deberá destinar una cantidad equivalente al uno al millar del monto total de los recursos autorizados del contrato, para la fiscalización de los mismos a favor del órgano técnico de fiscalización del Estado.
+
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 55.
@@ -917,9 +935,13 @@ Los contratistas que celebren los contratos a que se refiere esta ley deberán g
 
 I. Los anticipos que, en su caso, reciban. Estas garantías deberán constituirse dentro de los quince días naturales siguientes a la fecha de notificación del fallo y por la totalidad del monto de los anticipos, y
 
-II. El cumplimiento de los contratos. Esta garantía deberá constituirse dentro de los quince días naturales siguientes a la fecha de notificación del fallo.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
-Para efectos de este artículo, los titulares de las dependencias, los órganos de gobierno de las entidades y los Ayuntamientos, fijarán las bases, la forma y el porcentaje a los que deberán sujetarse las garantías que deban constituirse. En los casos señalados en el artículo 48, fracción IX, de esta ley, y bajo su responsabilidad, el servidor público facultado para firmar el contrato, podrá exceptuar a los contratistas de presentar la garantía del cumplimiento.
+II. El cumplimiento de los contratos. Esta garantía deberá constituirse por una cantidad equivalente del diez por ciento del monto total contratado, dentro de los quince días naturales siguientes a la fecha de notificación del fallo.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
+Para efectos de este artículo, los titulares de las dependencias, los órganos de gobierno de las entidades y los Ayuntamientos, fijarán las bases y la forma que deberán sujetarse las garantías que deban constituirse. En los casos señalados en el artículo 48, fracción IX, de esta ley, y bajo su responsabilidad, el servidor público facultado para firmar el contrato, podrá exceptuar a los contratistas de presentar la garantía del cumplimiento.
 
 ###### ARTÍCULO 57.
 
@@ -1049,7 +1071,9 @@ Una vez que se tengan determinadas las posibles modificaciones al contrato respe
 
 De las autorizaciones a que se refiere este artículo, el titular del área responsable de la contratación de los trabajos informará al órgano interno de control en la dependencia, entidad o Ayuntamiento de que se trate. Al efecto, a más tardar el último día hábil de cada mes, deberá presentarse un informe relativo a las autorizaciones otorgadas en el mes de calendario inmediato anterior.
 
-Cuando durante la ejecución de los trabajos se requiera la realización de cantidades o conceptos de trabajo adicionales a los previstos originalmente, las dependencias, entidades o Ayuntamientos podrán autorizar el pago de las estimaciones de los trabajos ejecutados, previamente a la celebración de los convenios respectivos, vigilando que dichos incrementos no rebasen el presupuesto autorizado en el contrato. Tratándose de cantidades adicionales, éstas se pagarán a los precios unitarios pactados originalmente; tratándose de los conceptos no previstos en el catálogo de conceptos del contrato, sus precios unitarios deberán ser conciliados y autorizados, previamente a su pago.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
+Cuando durante la ejecución de los trabajos se requiera la realización de cantidades o conceptos de trabajo adicionales a los previstos originalmente, las dependencias, entidades o Ayuntamientos podrán autorizar el pago de las estimaciones de los trabajos ejecutados, previamente a la celebración de los convenios respectivos, vigilando que dichos incrementos no rebasen el veinticinco por ciento del presupuesto autorizado en el contrato. Tratándose de cantidades adicionales, éstas se pagarán a los precios unitarios pactados originalmente; tratándose de los conceptos no previstos en el catálogo de conceptos del contrato, sus precios unitarios deberán ser conciliados y autorizados, previamente a su pago.
 
 No será aplicable el porcentaje que se establece en el primer párrafo de este artículo, cuando se trate de contratos cuyos trabajos se refieran al mantenimiento o restauración de los inmuebles a que hace mención el artículo 4o. de la Ley del Patrimonio Histórico y Cultural del Estado, en los que no sea posible determinar el catálogo de conceptos, las cantidades de trabajo, las especificaciones correspondientes o el programa de ejecución.
 
@@ -1117,11 +1141,11 @@ De existir desacuerdo entre las partes respecto al finiquito, o bien el contrati
 
 Determinado el saldo total, la dependencia, entidad o Ayuntamiento pondrá a disposición del contratista el pago correspondiente, mediante su ofrecimiento o la consignación respectiva, o bien, solicitará el reintegro de los saldos resultantes debiendo, en forma simultánea, levantar el acta administrativa que tenga por extinguidos los derechos y obligaciones asumidos por ambas partes en el contrato.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 74.
 
-Al concluir las obras públicas, las dependencias, entidades o Ayuntamientos deberán inscribirlas en sus registros patrimoniales, encargándose las áreas competentes de hacer la inscripción y registro de aquellos inmuebles que se hayan adquirido con motivo de la construcción de las mismas, tanto en las oficinas de Catastro del municipio correspondiente como en el Instituto Registral y Catastral de Tamaulipas. En todo caso, las obras públicas estatales se inscribirán en el área a cargo del registro del patrimonio del Estado.
+Al concluir las obras públicas consideradas como capitalizables en la Ley General de Contabilidad Gubernamental, las dependencias, entidades o Ayuntamientos deberán inscribirlas en sus registros patrimoniales, encargándose las áreas competentes de hacer la inscripción y registro de aquellos inmuebles que se hayan adquirido con motivo de la construcción de las mismas, tanto en las oficinas de Catastro del municipio correspondiente como en el Instituto Registral y Catastral de Tamaulipas. En todo caso, las obras públicas estatales se inscribirán en el área a cargo del registro del patrimonio del Estado.
 
 ###### ARTÍCULO 75.
 
@@ -1201,9 +1225,11 @@ III. Los documentos que se generen durante la ejecución de la obra.
 
 El área responsable de la integración del expediente unitario deberá conservarlo cuando menos por un lapso de cinco años, contado a partir de la fecha de recepción de la obra.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 84.
 
-En ejercicio de sus facultades, la Contraloría o el órgano de control de los Ayuntamientos, podrán verificar en cualquier tiempo que las obras públicas y servicios relacionados con las mismas, se realicen conforme a lo establecido en esta ley o en otras disposiciones aplicables.
+En ejercicio de sus facultades, la Contraloría, el órgano de control de los Ayuntamientos y la Auditoría Superior del Estado, podrán verificar en cualquier tiempo que las obras públicas y servicios relacionados con las mismas, se realicen conforme a lo establecido en esta ley o en otras disposiciones aplicables.
 
 ###### ARTÍCULO 85.
 
@@ -1414,3 +1440,13 @@ Los asuntos promovidos en contra de los Ayuntamientos cuya demanda haya sido adm
 ###### ARTÍCULO CUARTO.
 
 Los profesionistas o expertos cuya designación como peritos haya sido realizada con anterioridad a la entrada en vigor de este Decreto, deberán protestar el cargo que les fue conferido de conformidad con las reglas anteriores.
+
+P.O. 7 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas que mediante el presente Decreto se efectúan a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, entrarán en vigor a partir de la expedición del mismo.
