@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2015-06-13"
+last_updated: "2015-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -73,9 +73,13 @@ II.- Las Leyes y demás disposiciones de carácter estatal diversas a las conten
 
 III.- Los convenios y acuerdos que, con apoyo en los preceptos legales, celebre el Gobierno del Estado con el Gobierno Federal y sus dependencias y entidades de la administración pública.
 
-IV.- Los convenios y acuerdos que celebren con la Federación, con el Gobierno Estatal o entre sí, con apego a la Ley.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
-V.- Los reglamentos, acuerdos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones que se expidan con arreglo a la Ley.
+IV.- Los convenios y acuerdos que celebren con la Federación, con el Gobierno Estatal o entre sí, con apego a la Ley de la materia.
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+V.- Los reglamentos, acuerdos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones que se expidan con arreglo a la Ley de la materia.
 
 ###### ARTICULO 6o.
 
@@ -255,9 +259,11 @@ En los términos que señala la Ley Electoral para el Estado de Tamaulipas, los 
 
 Por cada miembro propietario de los Ayuntamientos, se elegirá un suplente.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### ARTICULO 24.
 
-Los miembros propietarios de un Ayuntamiento, desde el día de su elección y los suplentes en ejercicio, no pueden aceptar empleo, cargo o comisión de la Federación, o de los Estados o Municipios por el cual se disfrute de salario, excepto en los cargos de instrucción pública y beneficencia.
+Los miembros propietarios de un Ayuntamiento, desde el día de su elección y los suplentes en ejercicio, no pueden aceptar, desempeñar o ejercer empleo, cargo o comisión de la Federación, o de los Estados o Municipios por el cual se disfrute de salario, excepto en los cargos de instrucción pública y beneficencia.
 
 ###### ARTICULO 25.
 
@@ -307,27 +313,11 @@ Es nula la elección de Munícipe que recaiga sobre militares en servicio activo
 
 El cargo de miembro de un Ayuntamiento sólo podrá renunciarse por causa justificada que calificará el Congreso.
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 30.
 
-Los miembros de los ayuntamientos tendrán la remuneración que se les asigne en el Presupuesto de Egresos respectivo, atendiendo a los principios de racionalidad, austeridad y disciplina del gasto público municipal, así como a la situación económica de los Municipios.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
-
-I.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2013)
-
-II.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2013)
-
-III.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2013)
-
-IV.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2013)
-
-V.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2013)
-
-VI.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2013)
-
-VII.- (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2013)
+Los miembros de los Ayuntamientos y en general los servidores públicos de los mismos, tendrán la remuneración que se les asigne en el Presupuesto de Egresos respectivo, mismo que se publicará en tabulador conjuntamente con el citado presupuesto atendiendo a los principios de racionalidad, austeridad y disciplina del gasto público municipal, así como a la situación económica del Municipio.
 
 ###### ARTICULO 31.
 
@@ -467,9 +457,9 @@ Los Ayuntamientos podrán revocar sus acuerdos por el voto de la mayoría de sus
 
 Los Ayuntamientos llevarán un libro de actas en el que se asentarán los asuntos tratados y los acuerdos tomados. Cuando en sesión se aprueben bandos, reglamentos, circulares y disposiciones administrativas de observancia general éstos constarán íntegramente en el libro de actas, debiendo firmar los miembros que hubieren estado presentes.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
-Cuando los Ayuntamientos cuenten con la infraestructura tecnológica necesaria, podrán crear su página electrónica correspondiente en el sistema de comunicación denominado internet e incluir en ella la información que permita la ley y que sea de interés ciudadano.
+Los Ayuntamientos deberán crear su página electrónica correspondiente en el sistema de comunicación denominado internet e incluir en ella la información que está obligado a publicar de acuerdo a las leyes de la materia.
 
 ###### ARTICULO 45.
 
@@ -513,7 +503,9 @@ V.- Autorizar, para efectos de auxiliar administrativo, Delegaciones, Subdelegac
 
 VI.- Proponer a la aprobación del Congreso, y por conducto del Ejecutivo, a los centros de población, la categoría y denominación política que les corresponda conforme a este Código.
 
-VII.- Contratar o concesionar obras y servicios públicos municipales en los términos de este Código y sus reglamentos.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+VII.- Autorizar los programas anuales de adquisiciones, arrendamientos y obra pública, contratar o concesionar obras y servicios públicos municipales en los términos de este Código y sus reglamentos.
 
 VIII.- Solicitar al Ejecutivo, por causa de utilidad pública, la expropiación de bienes, la ocupación temporal o la limitación de dominio.
 
@@ -531,11 +523,13 @@ XI.- Formular y remitir al Congreso, para su estudio y aprobación el proyecto d
 
 XII.- Vigilar que se recauden con toda oportunidad los ingresos municipales.
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
-XIII.- Enviar al Congreso del Estado, en los términos que establece la Ley de Fiscalización y Rendición de Cuentas para el Estado de Tamaulipas, las cuentas de recaudación y aplicación de los fondos públicos, correspondientes al período que hayan elegido para su presentación.
+XIII.- Vigilar que se envíe, al Congreso del Estado, en los términos que establece la Ley de Fiscalización y Rendición de Cuentas para el Estado de Tamaulipas la cuenta pública municipal del ejercicio fiscal correspondiente, incluyendo la información de sus organismos públicos y entidades paramunicipales, según corresponda y en términos que disponga la legislación de la materia.
 
-XIV.- Aprobar anualmente el presupuesto de egresos del Municipio con base en sus ingresos disponibles y de conformidad con los planes y programas de desarrollo económico y social, y los convenios y acuerdos de coordinación que celebren en los términos de este Código. Las remuneraciones al personal no excederán de los límites señalados en el Título III de este Código.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+XIV.- Aprobar anualmente el presupuesto de egresos del Municipio con base en sus ingresos disponibles y de conformidad con los planes y programas de desarrollo económico y social, y los convenios y acuerdos de coordinación que celebren en los términos de este Código.
 
 > <small>(REFORMADA, P.O. 11 DE JUNIO DE 2008)</small>
 
@@ -593,7 +587,9 @@ XXXI.- Celebrar convenios y acuerdos con las autoridades, dependencias, organism
 
 XXXII.- Celebrar convenios con la Federación y otros Municipios, con sujeción a la Ley, previa aprobación del Congreso.
 
-XXXIII.- Aplicar la Ley de Responsabilidades de Servidores Públicos en la esfera de su competencia, en los términos del Capítulo XIV del presente Título.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+XXXIII.- Aplicar la Ley de Responsabilidades de Servidores Públicos del Estado de Tamaulipas en la esfera de su competencia, en los términos del Capítulo XIV del presente Título.
 
 XXXIV.- Someter a consulta pública las cuestiones que afecten a la comunidad, conforme a las Leyes y sus reglamentos.
 
@@ -635,9 +631,25 @@ XLVI.- Realizar la evaluación, conforme a las reglas y modalidades que se estab
 
 XLVII.- Nombrar al Juez del Tribunal de Justicia Administrativa, a través del procedimiento de convocatoria pública que se apruebe previamente para tal efecto.
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
-XLVIII.- Las demás que determina este Código o cualquier otra ley y sus reglamentos.
+XLVIII.- Observar en los casos de que resulte aplicable a los municipios la Ley General de Contabilidad Gubernamental y las disposiciones que de ella emanen.
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+
+XLIX.- Coordinarse con el Gobierno del Estado para intercambiar información y experiencias entre ambos órdenes de Gobierno, que apoyen la armonización de su contabilidad con base en las disposiciones de la Ley General de Contabilidad Gubernamental.
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+
+L.- Designar representantes que participen en el Consejo de Armonización Contable del Estado de Tamaulipas, conforme al Reglamento del mismo.
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+
+LI.- Diseñar el sistema de evaluación del desempeño a nivel municipal, a través de la dependencia que designe.
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+
+LII.- Las demás que determina este Código o cualquier otra ley y sus reglamentos.
 
 ###### ARTICULO 50.
 
@@ -707,6 +719,10 @@ b).- Se requerirá el acuerdo de las dos terceras partes de los miembros de los 
 
 9.- Todos aquellos convenios, contratos o negocios jurídicos que afecten el patrimonio del Municipio, cuando la duración de los mismos exceda el periodo del Ayuntamiento, aún en los casos en que se cuente con la autorización del Congreso del Estado.
 
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+
+10.- Para la aprobación de los programas de obra pública, adquisiciones y arrendamientos.
+
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
 
 En los supuestos previstos por este inciso, el acuerdo de Cabildo se remitirá adjunto a la iniciativa que al efecto se presente ante el Congreso del Estado. Igualmente ocurrirá en los casos que se solicite autorización para la aceptación de herencias, legados o donaciones onerosas.
@@ -749,9 +765,9 @@ VI.- Celebrar a nombre del Ayuntamiento todos los actos y contratos necesarios p
 
 VII.- Proponer al Ayuntamiento los nombramientos del Secretario, Tesorero Municipal, Contralor Municipal, Secretario de Desarrollo Urbano y Ecología o, en su caso, Director de Obras y Servicios Públicos Municipales, Secretario o Director de Seguridad Pública, según corresponda, y demás servidores públicos de la administración municipal, así como su remoción por causa justificada.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
-VIII.- Nombrar y remover a los servidores públicos municipales de acuerdo con la ley. Sólo en los casos previstos por este Código dará cuenta de ello al Ayuntamiento para su ratificación o rectificación.
+VIII.- Nombrar y remover a los servidores públicos municipales de acuerdo con la ley de la materia. Sólo en los casos previstos por este Código dará cuenta de ello al Ayuntamiento para su ratificación o rectificación.
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2004)</small>
 
@@ -867,17 +883,17 @@ XIII.- Fungir como Agente del Ministerio Público en los casos y condiciones que
 
 XIV.- Solicitar y obtener del Tesorero Municipal, las informaciones relativas a la Hacienda Municipal, al ejercicio del presupuesto de egresos, al patrimonio municipal y demás documentación de la gestión municipal, necesarias para el cumplimiento de sus funciones.
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
-XV.- Revisar y, en su caso, si está de acuerdo suscribir los estados de origen y aplicación de los fondos públicos, la cuenta pública municipal y los estados financieros.
+XV.- Revisar y, en su caso, si está de acuerdo suscribir la información financiera, contable, patrimonial y presupuestal integrante de la cuenta pública municipal.
 
 > <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2006)</small>
 
 XVI.- Vigilar la actualización de los inventarios de bienes muebles e inmuebles y valores que integran el patrimonio del municipio.
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
-XVII.- Vigilar que se regularicen y custodien los bienes inmuebles del municipio y que se inscriban en el Registro Público de la Propiedad y del Comercio.
+XVII.- Vigilar que se regularicen y custodien los bienes inmuebles del municipio y que se inscriban en el Instituto Registral y Catastral de Tamaulipas.
 
 > <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2006)</small>
 
@@ -1025,13 +1041,15 @@ I.- Hacer efectivas las contribuciones y demás ingresos que se causen conforme 
 
 II.- Efectuar los pagos de salarios, gastos y demás erogaciones conforme al Presupuesto de Egresos aprobado, con la autorización del Presidente y Síndico o Síndicos Municipales. En consecuencia, negará los pagos no previstos en el Presupuesto de Egresos o los que afecten a partidas que estuvieren agotadas.
 
-III.- Organizar la contabilidad de la Tesorería y sus dependencias.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+III.- Fungir como unidad competente en materia de contabilidad gubernamental municipal.
 
 IV.- Comunicar diariamente al Presidente Municipal y a la Comisión de Hacienda, Presupuesto y Gasto Público, del movimiento de caudales y existencia en caja.
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
-V.- Remitir al Congreso del Estado las Cuentas Públicas correspondientes al período que hayan elegido para su presentación, dentro de los términos de ley.
+V.- Elaborar, integrar, suscribir y remitir al Congreso del Estado la Cuenta Pública Municipal, en los términos de la ley de la materia.
 
 VI.- Vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones fiscales.
 
@@ -1051,21 +1069,31 @@ XII.- Intervenir en los juicios de carácter fiscal o en cualquier otro procedim
 
 XIII.- Cumplir y hacer cumplir los convenios y acuerdos de coordinación fiscal que celebre con el Estado.
 
-XIV.- Las demás que le señalen las leyes y reglamentos.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+XIV.- Administrar el ejercicio del gasto público del Municipio con un enfoque de gestión de resultados, privilegiando el principio de transparencia y máxima publicidad de la información financiera en los términos de la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables.
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+
+XV.- Evaluar el ejercicio del gasto público del Municipio, a través de una entidad externa, con base en los indicadores para la evaluación del desempeño.
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+
+XVI.- Las demás que le señalen las leyes y reglamentos.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-ARTICULO 72 bis.- La Contraloría Municipal es el órgano de control interno encargado de vigilar y supervisar que la recaudación de los ingresos municipales y las erogaciones que deba hacer el Municipio conforme a los presupuestos aprobados, se lleven a cabo de una manera eficiente, y con apego a los programas, a la normatividad y a las leyes aplicables.
+ARTICULO 72 BIS.- La Contraloría Municipal es el órgano de control interno encargado de vigilar y supervisar que la recaudación de los ingresos municipales y las erogaciones que deba hacer el Municipio conforme a los presupuestos aprobados, se lleven a cabo de una manera eficiente, y con apego a los programas, a la normatividad y a las leyes aplicables.
 
 La oficina estará a cargo de un Contralor Municipal que será designado por el Ayuntamiento, a terna propuesta por el Presidente Municipal.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2007)</small>
 
-ARTICULO 72 ter.- Para ser Contralor Municipal se requiere reunir los requisitos señalados en el artículo 67 de este Código. En los municipios con una población que exceda de 50,000 habitantes, se requiere poseer título de Contador Público, Licenciado en Administración Pública, Licenciado en Economía, Licenciado en Finanzas, Licenciado en Administración de Empresas u otros estudios técnicos o profesionales en materias análogas.
+ARTICULO 72 TER.- Para ser Contralor Municipal se requiere reunir los requisitos señalados en el artículo 67 de este Código. En los municipios con una población que exceda de 50,000 habitantes, se requiere poseer título de Contador Público, Licenciado en Administración Pública, Licenciado en Economía, Licenciado en Finanzas, Licenciado en Administración de Empresas u otros estudios técnicos o profesionales en materias análogas.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-ARTICULO 72 quater.- Son facultades y obligaciones del Contralor Municipal:
+ARTICULO 72 QUATER.- Son facultades y obligaciones del Contralor Municipal:
 
 I.- Vigilar el cumplimiento de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas, así como conocer e investigar los actos, omisiones o conductas de los servidores públicos municipales, que puedan implicar responsabilidad administrativa.
 
@@ -1087,7 +1115,13 @@ VIII.- Intervenir, para efectos de verificación, en los actos de entrega y rece
 
 IX.- Informar al Ayuntamiento de sus programas de trabajo anuales, y trimestralmente del avance y resultados de éstos, así como de las irregularidades de las que estime exista responsabilidad alguna.
 
-X.- Las demás que con relación al ramo le encomiende el Ayuntamiento.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+X.- Asistir y participar en los procesos de adjudicación de las obras públicas, así como en las actas entrega-recepción, por parte del contratista al Municipio y en su caso del Municipio al organismo operador.
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+
+XI.- Las demás que con relación al ramo le encomiende el Ayuntamiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
 
@@ -1323,17 +1357,21 @@ La organización, dirección y funcionamiento de las Comisiones Consultivas de D
 
 Son servidores públicos de los Municipios los miembros de los Ayuntamientos, así como toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública municipal o paramunicipal, o bien maneje o aplique recursos económicos de los Municipios.
 
-La Ley de Responsabilidades de los Servidores Públicos vigente en el Estado será aplicable, en lo conducente, a los servidores públicos de los Municipios, conforme a las prevenciones que se señalen en los artículos siguientes.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+La Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas será aplicable, en lo conducente, a los servidores públicos de los Municipios, conforme a las prevenciones que se señalen en los artículos siguientes.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 Tratándose de servidores públicos asignados a las tareas de seguridad pública, se regirán en lo que corresponda por las previsiones de este Código y las propias de la materia.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### ARTICULO 89.
 
-El juicio político es competencia exclusiva de los órganos que establece la Ley de Responsabilidades de los Servidores Públicos.
+El juicio político es competencia exclusiva de los órganos que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas.
 
-En lo que respecta a la responsabilidad administrativa, las funciones propias de la Dirección General de la Contraloría Estatal, así como de las Contralorías internas y del superior jerárquico que se menciona en la propia Ley de Responsabilidades de los Servidores Públicos, serán desempeñadas por el Ayuntamiento, a través de su Presidente Municipal en lo relativo a servidores municipales. Las responsabilidades administrativas de los miembros de los Ayuntamientos es competencia exclusiva del Congreso del Estado, estando facultado para identificar, investigar y determinar dichas responsabilidades, así como para aplicar las sanciones respectivas.
+En lo que respecta a la responsabilidad administrativa, las funciones propias del Órgano de Control Estatal, así como de las Contralorías internas y del superior jerárquico que se menciona en la propia Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas, serán desempeñadas por el Ayuntamiento, a través de su Presidente Municipal en lo relativo a servidores municipales. Las responsabilidades administrativas de los miembros de los Ayuntamientos es competencia exclusiva del Congreso del Estado, estando facultado para identificar, investigar y determinar dichas responsabilidades, así como para aplicar las sanciones respectivas.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -1341,9 +1379,11 @@ En lo que respecta a la responsabilidad administrativa, las funciones propias de
 
 Los Ayuntamientos recibirán las denuncias y quejas a que se refiere el artículo 49 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas, por conducto de la Secretaría o de la Contraloría.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### ARTICULO 91.
 
-Los servidores públicos municipales que mediante el procedimiento establecido en el Artículo 64 de la Ley de Responsabilidades de los Servidores Públicos fueren sancionados por los Ayuntamientos podrán impugnar las resoluciones respectivas mediante el juicio de nulidad establecido en el Artículo 70 de la propia Ley.
+Los servidores públicos municipales que mediante el procedimiento establecido en el artículo 64 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas fueren sancionados por los Ayuntamientos podrán impugnar las resoluciones respectivas mediante el juicio de nulidad establecido en el artículo 70 de la propia Ley.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
 
@@ -1669,9 +1709,11 @@ V.- A presentar en las oficinas autorizadas que correspondan la manifestación d
 
 Los sujetos del impuesto estarán obligados a manifestar a la oficina autorizada los cambios de su domicilio dentro de los quince días siguientes a aquel en que se efectúen. Si no lo hicieren, se tendrá como domicilio para todos los efectos, el que hubieren señalado anteriormente o, en su defecto, el predio mismo.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### ARTICULO 117.
 
-El Director del Registro Público de la Propiedad no podrá inscribir ninguna escritura pública o privada sin comprobar que los impuestos correspondientes han sido pagados en su totalidad; que existe una prórroga legalmente concedida o que, por disposición de la Ley, los otorgantes están exentos del impuesto.
+El Director del Instituto Registral y Catastral de Tamaulipas no podrá inscribir ninguna escritura pública o privada sin comprobar que los impuestos correspondientes han sido pagados en su totalidad; que existe una prórroga legalmente concedida o que, por disposición de la Ley, los otorgantes están exentos del impuesto.
 
 ###### ARTICULO 118.
 
@@ -1757,11 +1799,11 @@ X.- Enajenación a través de fideicomisos.
 
 XI.- La división de la copropiedad y la disolución de la sociedad conyugal por la parte que se adquiera en demasía del porciento que le correspondía al copropietario o cónyuge. En las permutas se considerará que se efectúan dos adquisiciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ENERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 127.
 
-El valor del inmueble que se considerará para los efectos del Artículo 124, será el valor más alto entre el precio pactado y el del avalúo pericial que al efecto expida la Dirección de Catastro de la Secretaría de Hacienda del Estado, el cual podrá ser disminuido con el valor que se tomó como base para calcular este impuesto en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto.
+El valor del inmueble que se considerará para los efectos del artículo 124, será el valor más alto entre el precio pactado y el del avalúo pericial que al efecto expida la Dirección de Catastro del municipio, el cual podrá ser disminuido con el valor que se tomó como base para calcular este impuesto en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto.
 
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 1992)</small>
 
@@ -1795,7 +1837,9 @@ III.- Tratándose de adquisiciones efectuadas a través de fideicomisos, cuando 
 
 IV.- Al protocolizarse o inscribirse el reconocimiento judicial de la prescripción positiva.
 
-V.- En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en registro público, para poder surtir efectos ante terceros en los términos del derecho común; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las Leyes.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+V.- En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en el Instituto Registral y Catastral de Tamaulipas, para poder surtir efectos ante terceros en los términos del derecho común; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las Leyes.
 
 El contribuyente podrá pagar el impuesto por anticipado.
 
@@ -1917,9 +1961,11 @@ Cuando sean personas distintas el propietario o detentador por cualquier título
 
 Para la determinación y cobro de este impuesto se estará a lo dispuesto en la Ley de Ingresos Municipal que corresponda.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### ARTICULO 136.
 
-Los notarios públicos no autorizarán ni el Registro Público de la Propiedad inscribirá actos o contratos que impliquen transmisión de dominio, desmembración del predio o construcción voluntaria de servidumbres o garantías reales que tengan relación con inmuebles afectos a este impuesto, si no se les demuestra fehacientemente que se encuentra al corriente en el pago del mismo.
+Los notarios públicos no autorizarán ni el Instituto Registral y Catastral de Tamaulipas inscribirá actos o contratos que impliquen transmisión de dominio, desmembración del predio o construcción voluntaria de servidumbres o garantías reales que tengan relación con inmuebles afectos a este impuesto, si no se les demuestra fehacientemente que se encuentra al corriente en el pago del mismo.
 
 ###### ARTICULO 137.
 
@@ -1993,6 +2039,8 @@ La enajenación de bienes muebles pertenecientes al Municipio sólo podrá hacer
 
 ### CAPITULO II. DE LOS PRESUPUESTOS DE EGRESOS
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### ARTICULO 148.
 
 Los Municipios, por conducto del Ejecutivo, percibirán las participaciones que determinen las Leyes del Estado y los convenios respectivos.
@@ -2017,27 +2065,35 @@ Por ingresos compartidos deben entenderse todos aquellos a los que tenga derecho
 
 El gasto público municipal, comprende las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, así como pagos de pasivo o deuda pública que realice el Ayuntamiento y los organismos o empresas paramunicipales.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### ARTICULO 151.
 
-La programación del gasto público se basará en los objetivos, estrategias y prioridades que se determine en el Plan Municipal de Desarrollo y los programas que de él deriven.
+El proceso de planeación, programación y presupuestación, tiene como finalidad orientar el gasto público a la atención de lo prioritario, tomando en cuenta los objetivos, metas y estrategias contenidos en el Plan Municipal de Desarrollo y los programas que de él deriven.
 
-> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2004)</small>
+Los recursos se administrarán con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados.
 
 Para la creación de reservas territoriales que permitan el desarrollo urbano del Municipio, de conformidad con la estrategia presupuestal del Ayuntamiento, se destinará hasta el 1% del presupuesto de egresos para la adquisición de dichas reservas.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### ARTICULO 152.
 
-Las actividades de programación, presupuestación, control y evaluación del gasto público municipal estarán a cargo del Ayuntamiento, quien dictará las disposiciones procedentes para el eficaz cumplimiento de sus funciones.
+Las actividades de programación, presupuestación, control y evaluación del desempeño en el ejercicio del gasto público municipal estarán a cargo del Ayuntamiento, quien dictará las disposiciones procedentes para el eficaz cumplimiento de sus funciones.
+
+La evaluación a los procesos que hace referencia el párrafo anterior, será sin menoscabo de la revisión que realice la Auditoría Superior del Estado.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 153.
 
-La Contaduría Mayor de Glosa es el órgano técnico dependiente y auxiliar del Congreso del Estado que se encargará del control, inspección y evaluación de las actividades de los Ayuntamientos en materia de presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores y gasto público.
+La Auditoría Superior del Estado, es el órgano técnico de fiscalización, control y evaluación gubernamental del Congreso del Estado de Tamaulipas, que se encarga del control, inspección y evaluación de las actividades de los Ayuntamientos de la materia de presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores y gasto público.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 154.
 
-Para los efectos del artículo anterior se podrá ordenar la práctica de visitas de auditoría a los Municipios a fin de inspeccionar y evaluar las actividades mencionadas, con el auxilio de los recursos humanos y materiales del órgano de control del gasto público dependiente del Ejecutivo del Estado.
+Para los efectos del artículo anterior se podrá ordenar la práctica de visitas de auditoría a los Ayuntamientos de los Municipios a fin de inspeccionar y evaluar las actividades mencionadas, con el auxilio de los recursos humanos y materiales del órgano de control del gasto público dependiente del Ejecutivo del Estado, así como del municipal.
 
 ###### ARTICULO 155.
 
@@ -2049,9 +2105,9 @@ Los Ayuntamientos sólo podrán concertar créditos destinados a inversiones pú
 
 ###### ARTICULO 156.
 
-Los presupuestos de egresos de los Municipios serán aprobados por sus respectivos Ayuntamientos con base en sus ingresos disponibles, y considerando el Plan Municipal de Desarrollo y sus programas derivados, y los convenios y acuerdos de coordinación que celebren en los términos de este Código. En relación a remuneraciones personales no podrán exceder del porcentaje que anualmente determine el Congreso del Estado, con base en ejercicios fiscales anteriores, cálculo de ingresos probables, fluctuaciones en el costo de la vida y demás datos necesarios debiendo motivar el decreto correspondiente.
+Los presupuestos de egresos de los Municipios serán aprobados por sus respectivos Ayuntamientos con base en sus ingresos disponibles, y considerando el Plan Municipal de Desarrollo y sus programas derivados, y los convenios y acuerdos de coordinación que celebren en los términos de este Código.
 
-Los presupuestos se formularán para cada año calendario.
+Los presupuestos se formularán para cada año calendario e incluirán el señalamiento de programas, su vinculación, alineación y congruencia específica con el Plan Municipal de Desarrollo, comprendiendo objetivos, acciones, metas y unidades responsables de su ejecución, así como parámetros cuantificables e indicadores de desempeño institucional. Los programas contemplados en el Plan Municipal de Desarrollo en todos los casos incorporarán la perspectiva de género desde el diseño y ejecución hasta la evaluación del desempeño institucional.
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2005)</small>
 
@@ -2059,9 +2115,13 @@ Los presupuestos se formularán para cada año calendario.
 
 Los presupuestos de egresos deberán ser aprobados por los Ayuntamientos a más tardar el 30 de noviembre del año inmediato anterior al que se trate, y se enviarán al Ejecutivo del Estado para su publicación dentro de los primeros 10 días del mes de diciembre, debiendo publicarse a más tardar el 31 de dicho mes para expensar durante el período de un año, a partir del 1 de enero, las actividades, las obras y los servicios públicos previstos en los programas a cargo del municipio.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### ARTICULO 158.
 
-El presupuesto de egresos de los Municipios, comprenderá las previsiones de gasto público que habrán de realizar los Ayuntamientos.
+El presupuesto de egresos de los Municipios, comprenderá las previsiones de gasto público que habrán de realizar los Ayuntamientos bajo un enfoque de gestión de resultados para atender las actividades, las obras y los servicios públicos programados, a cargo de los Municipios.
+
+Se concibe el enfoque de gestión para resultados, como la posibilidad que tiene el Municipio de precisar el tipo, magnitud y sentido de la transformación, evolución, impacto o beneficio que se prevé lograr, respecto de los objetivos estratégicos generales y específicos establecidos en el Plan Municipal de Desarrollo, en el proceso de gestión de los recursos públicos que ejerzan los Municipios.
 
 ###### ARTICULO 159.
 
@@ -2087,7 +2147,33 @@ VIII.- Comentarios sobre las condiciones económicas, financieras y hacendarias 
 
 IX.- Evaluación de los avances relacionados con la ejecución y cumplimiento del Plan Municipal de Desarrollo y los programas que se deriven, así como los que se prevén para el ejercicio fiscal siguiente.
 
-X.- La demás información que solicite el Ayuntamiento.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+X.- Los establecidos en la Ley General de Contabilidad Gubernamental.
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+
+XI.- La demás información que solicite el Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+
+ARTICULO 159 BIS.- En complemento al artículo anterior, los presupuestos de egresos de los Municipios, para ser aprobados por los Ayuntamientos, deberán de integrarse con los programas presupuestarios, los cuales deberán contener:
+
+I.- Los resultados de la evaluación del desempeño que se haya obtenido con la aplicación del Gasto Público de ejercicios anteriores.
+
+II.- Los objetivos, sus indicadores de desempeño y metas que se pretendan alcanzar, conforme a la Metodología de Marco Lógico.
+
+III.- Los bienes y servicios a producir o en su caso los servicios administrativos de apoyo.
+
+IV.- Los beneficiarios de los bienes y servicios que se pretendan generar, identificando el género, las regiones y los grupos vulnerables.
+
+V.- La temporalidad de los programas, así como la designación de los responsables de su ejecución.
+
+VI.- Las previsiones del gasto de acuerdo con lo establecido en la clasificación por objeto del gasto y demás clasificaciones que señale la Tesorería Municipal, apegándose a lo que establece la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables.
+
+VII.- La calendarización del gasto público de conformidad con las clasificaciones que señale la Tesorería Municipal, y observando lo establecido en la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables.
+
+VIII.- Las demás previsiones que se estimen necesarias.
 
 ### CAPITULO II. DE LA PLANEACION MUNICIPAL
 
@@ -2097,15 +2183,21 @@ X.- La demás información que solicite el Ayuntamiento.
 
 Los Ayuntamientos podrán asignar los recursos que se obtengan en exceso de los previstos en el presupuesto de egresos del Municipio, a los programas que se consideren convenientes y autorizarán los traspasos de partidas cuando sea procedente. Tratándose de ingresos extraordinarios derivados de empréstitos, el gasto deberá ajustarse a lo dispuesto en el decreto respectivo y en el presupuesto de egresos.
 
-El gasto público deberá ajustarse al monto autorizado para los programas y partidas presupuestales, salvo que se trate de las partidas que se señalen como de ampliación automática en los presupuestos para aquellas erogaciones cuyo monto no sea posible prever.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
-Los Ayuntamientos invertirán los subsidios que les otorguen los Gobiernos Federal y Estatal en los fines que éstos determinen, debiendo proporcionar la información que se les solicite sobre la aplicación que hagan de los mismos.
+El gasto público deberá ajustarse al monto autorizado para los programas y partidas presupuestales, salvo que se trate de las partidas que se señalen como de ampliación automática en los presupuestos para aquellas erogaciones cuyo monto no sea posible prever y estén debidamente justificadas.
+
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
+Los Ayuntamientos invertirán las aportaciones y los subsidios que les otorguen los Gobiernos Federal y Estatal en los fines que éstos determinen, debiendo proporcionar la información que se les solicite sobre la aplicación que hagan de los mismos.
 
 ###### ARTICULO 161.
 
 Las Tesorerías Municipales son los órganos competentes de la administración pública municipal para efectuar los cobros y pagos correspondientes, así como el manejo de fondos, sin perjuicio de los convenios celebrados con el Estado.
 
-En consecuencia, efectuarán los pagos de salarios, gastos y demás erogaciones conforme al presupuesto de egresos aprobado y con la autorización del Presidente Municipal y los Síndicos, debiendo negar los pagos no previstos en dichos presupuestos o los que afecten a partidas que estuvieren agotadas.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
+En consecuencia, sólo efectuarán los pagos de salarios, gastos y demás erogaciones conforme al presupuesto de egresos aprobado y con el correspondiente tabulador de sueldos publicado, con la autorización del Presidente Municipal y los Síndicos, debiendo negar los pagos no previstos en dichos presupuestos y tabuladores que afecten a partidas que estuvieren agotadas.
 
 ###### ARTICULO 162.
 
@@ -2115,23 +2207,27 @@ Una vez concluida la vigencia de un presupuesto de egresos, sólo procederá hac
 
 En casos excepcionales y debidamente justificados, el Ayuntamiento podrá autorizar que se celebren contratos de obras y servicios públicos, de adquisiciones o de otra índole estrictamente necesarios, que rebasen las asignaciones presupuestales aprobadas para el año, pero en estos casos, los compromisos excedentes no cubiertos, deberán preverse en el presupuesto de egresos del año siguiente.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### ARTICULO 164.
 
-El Ayuntamiento establecerá las normas a que se sujetarán las garantías que deban constituirse a favor del Municipio en los actos y contratos que celebre.
+El Ayuntamiento establecerá las normas a que se sujetarán las garantías que deban constituirse a favor del Municipio en los actos y contratos que celebre, a excepción de la prevista en el segundo párrafo del artículo 75 de la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Tamaulipas.
 
 ###### ARTICULO 165.
 
 Los Ayuntamientos no otorgarán garantías ni efectuarán depósitos para el cumplimiento de sus obligaciones con cargo al presupuesto de egresos de los municipios, del ejercicio fiscal en curso.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### ARTICULO 166.
 
-Los Ayuntamientos estarán obligados a proporcionar al órgano de control del gasto público, dependiente del Ejecutivo, la información que se les solicite y permitirles que su personal practique visitas y auditorías, para comprobar la aplicación de los recursos provenientes del Estado.
+Los Ayuntamientos estarán obligados a proporcionar al órgano de control del gasto público, dependiente del Ejecutivo y a la Auditoría Superior del Estado, la información que se les solicite y permitirles que su personal practique visitas y auditorías, para comprobar la aplicación de los recursos provenientes del Estado o la Federación.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 167.
 
-El Congreso del Estado revisará las Cuentas Públicas de los municipios, aplicando en lo conducente las disposiciones contenidas en la Ley de Fiscalización y Rendición de Cuentas para el Estado de Tamaulipas.
+El Congreso del Estado revisará la Cuenta Pública de cada uno de los Ayuntamientos de los Municipios del Estado de Tamaulipas, aplicando en lo conducente las disposiciones contenidas en la Ley de Fiscalización y Rendición de Cuentas para el Estado de Tamaulipas.
 
 ### CAPITULO III. DE LA COORDINACION, CONCERTACION E INDUCCION
 
@@ -2154,6 +2250,10 @@ Los sistemas de contabilidad deben diseñarse y operarse en forma que faciliten 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 Los municipios presentarán información al Congreso del Estado sobre la aplicación de los fondos públicos, de una manera oportuna, confiable y comparable, a la transparencia y a la rendición de cuentas.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+
+El registro contable de las operaciones y la emisión de información financiera de las entidades a que se refiere este artículo, se realizarán conforme a lo dispuesto en el presente Código, así como a lo que establece la Ley General de Contabilidad Gubernamental, y demás disposiciones aplicables en la materia.
 
 ## TITULO CUARTO. DE LOS SERVICIOS PUBLICOS Y DESARROLLO MUNICIPAL
 
@@ -2201,7 +2301,7 @@ Cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar conv
 
 ###### ARTICULO 171.
 
-Los Municipios, previo acuerdo entre sus Ayuntamientos, y con sujeción a la ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les corresponda, con la aprobación del Congreso.
+Los Municipios, previo acuerdo entre sus Ayuntamientos, y con sujeción a la ley, podrán coordinarse y asociarse para la mas eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les corresponda, con la aprobación del Congreso.
 
 Los servicios públicos municipales serán prestados por los Municipios, directamente o a través de organismos o empresas paramunicipales. Asimismo, podrán ser concesionados a particulares cuando no se lesione el interés público o social, previa autorización del Congreso y conforme a las bases que se determinen en este Código, sus Reglamentos y las contenidas en el propio acto concesión.
 
@@ -2217,15 +2317,21 @@ Dos o más Ayuntamientos del Estado podrán crear organismos o empresas paramuni
 
 Los términos de las mismas los establecerán mediante convenio que pondrán a consideración del Congreso del Estado. Una vez aprobado por éste, podrán iniciar sus funciones de manera conjunta.
 
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
 ###### ARTICULO 172.
 
-Las concesiones, los contratos de obra pública y suministros, así como la prestación de servicios de cualquier naturaleza que otorgue el Municipio a los particulares, se adjudicarán a través de licitaciones públicas mediante convocatoria para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar las mejores condiciones disponibles en cuanto a precio, calidad, garantía, financiamiento, oportunidad y demás circunstancias pertinentes.
+Los contratos de obra pública y suministros, adquisiciones, arrendamientos y prestación de servicios, se adjudicarán de acuerdo a lo establecido en las leyes de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Tamaulipas y de Adquisiciones para la Administración Pública del Estado de Tamaulipas y sus Municipios.
+
+Los servicios que preste el Municipio y se concesionen a los particulares, deberá realizarse a través de licitaciones públicas mediante convocatoria para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar las mejores condiciones disponibles en cuanto a precio, calidad, garantía, financiamiento, oportunidad y demás circunstancias pertinentes.
 
 ###### ARTICULO 173.
 
 Se prohíbe el otorgamiento de los actos a que se refiere el artículo anterior en favor de:
 
-Servidores públicos, su cónyuge, parientes consanguíneos en línea directa sin limitación de grado; los colaterales hasta el segundo grado y los parientes por afinidad, así como a las empresas en las cuales sean representantes o tengan intereses económicos las personas referidas.
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+
+Servidores públicos de cualquier nivel, su cónyuge, parientes consanguíneos en línea directa sin limitación de grado; los colaterales hasta el segundo grado y los parientes por afinidad, así como a las empresas en las cuales sean representantes o tengan intereses económicos las personas referidas.
 
 Son nulos de pleno derecho los actos que se otorguen en contravención a lo dispuesto en este artículo, sin perjuicio de la responsabilidad en que incurran los que autoricen.
 
@@ -2373,9 +2479,9 @@ Los Tesoreros Municipales proyectarán y calcularán los ingresos del Municipio 
 
 El Ayuntamiento, al rendir su informe anual por conducto del Presidente Municipal sobre el estado que guarda la administración pública, hará mención expresa de las decisiones adoptadas para la ejecución del Plan Municipal de Desarrollo y los demás programas que de él se deriven.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
-El contenido de las Cuentas Públicas Municipales, deberá relacionarse, en lo conducente, con la información anterior, a fin de permitir al Congreso del Estado el análisis de éstas de acuerdo con los fines y prioridades de la función municipal.
+El contenido de la Cuenta Pública de cada uno de los Ayuntamientos de los Municipios del Estado de Tamaulipas, deberá relacionarse, en lo conducente, con la información anterior, a fin de permitir al Congreso del Estado el análisis de éstas de acuerdo con los fines y prioridades de la función municipal.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2014)</small>
 
@@ -2733,7 +2839,9 @@ II.- Cuando se trate de cobro de cuotas de la organización burocrática a la qu
 
 III.- Cuando se trate de descuentos ordenados por la autoridad judicial para cubrir el monto de alimentos exigidos al trabajador.
 
-IV.- Cuando se trate de retenciones de impuesto sobre productos del trabajo.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+IV.- Cuando se trate de retenciones del Impuesto sobre la Renta.
 
 ###### ARTICULO 226.
 
@@ -2859,7 +2967,9 @@ XIV.- Por falta comprobada en el cumplimiento de las obligaciones de trabajo o p
 
 XV.- Por muerte del trabajador.
 
-XVI.- Por resolución dictada en los términos de la Ley de Responsabilidades de Servidores Públicos. En los supuestos de las fracciones IV y VI de este artículo, el trabajador será indemnizado con el importe de tres meses de salario y con la prima de antigüedad consistente en 12 días de salario por cada año de servicio.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+XVI.- Por resolución dictada en los términos de la Ley de Responsabilidades de Servidores Públicos del Estado de Tamaulipas. En los supuestos de las fracciones IV y VI de este artículo, el trabajador será indemnizado con el importe de tres meses de salario y con la prima de antigüedad consistente en 12 días de salario por cada año de servicio.
 
 > <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -5183,12 +5293,6 @@ Artículo Primero.- El presente Decreto entrará en vigor el día de su publicac
 
 Artículo Segundo.- Los Ayuntamientos que hubieren realizado disposiciones en materia de bonificación por pago anticipado o en relación a la situación personal de los contribuyentes durante el mes de enero del presente año podrán autorizar la adecuación de las previsiones correspondientes a lo dispuesto en este Decreto.
 
-P.O. 2 DE DICIEMBRE DE 2002.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 99, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 55, FRACCIÓN XIX, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
 P.O. 2 DE OCTUBRE DE 2003.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -5204,6 +5308,12 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Se derogan todas las disposiciones que contravengan el presente decreto.
 
 P.O. 22 DE ABRIL DE 2004.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 99, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 55, FRACCIÓN XIX, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE NOVIEMBRE DE 2005.
 
 ###### ARTICULO UNICO.
 
@@ -5247,7 +5357,7 @@ P.O. 19 DE OCTUBRE DE 2005.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 1 DE NOVIEMBRE DE 2005.
+P.O. 2 DE DICIEMBRE DE 2002.
 
 ###### ARTICULO UNICO.
 
@@ -5710,6 +5820,12 @@ P.O. 26 DE MAYO DE 2015.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 13 DE JUNIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JULIO DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
