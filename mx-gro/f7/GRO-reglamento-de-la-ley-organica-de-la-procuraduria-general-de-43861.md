@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-438
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-08"
-last_updated: "2005-02-08"
+last_updated: "2015-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE GUERRERO NUMERO 193
 
-REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE GUERRERO NUMERO 193
+REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE GUERRERO NÚMERO 193
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO NÚMERO 500, PUBLICADO EN EL P.O. DE 7 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el martes 8 de febrero de 2005.
 
@@ -1798,3 +1800,23 @@ El Procurador General de Justicia.
 C. LIC. JESUS RAMIREZ GUERRERO.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE JULIO DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO NÚMERO 500”.]
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+Segundo. Se abroga el Reglamento Interno de la Procuraduría General de Justicia del Estado de Guerrero número 193, publicado en el Periódico Oficial del Gobierno del Estado, número 12, de fecha 8 de febrero de 2005 y las demás disposiciones aplicables que se opongan al presente ordenamiento.
+
+Tercero. Los asuntos que a la entrada en vigor del presente Reglamento se encuentren en trámite en las Unidades Administrativas que conforman la Fiscalía General, seguirán en conocimiento de aquéllas hasta su conclusión o determinación legal.
+
+Cuarto. El Fiscal General podrá ordenar que uno o varios asuntos en trámite al momento de entrar en vigor el presente Reglamento, sean asignados a la o las Fiscalías Especiales, las Especializadas, a las Direcciones Generales y demás Unidades Administrativas que conforme a la nueva estructura y organización prevista en el presente Reglamento sean competentes para conocer de ellos.
+
+Quinto. El personal que sea adscrito a las unidades administrativas de nueva creación o a aquellas cuyo nombre cambie, conservará los derechos laborales con que cuenta hasta el momento de la transferencia.
+
+Sexto. Queda sin efecto cualquier disposición administrativa que se oponga al presente Reglamento.
+
+Séptimo. Dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Reglamento, el Fiscal General, a propuesta de los titulares de las Vice fiscalías, Direcciones Generales y demás áreas administrativas que así lo requieran, deberá expedir los Reglamentos interiores, manuales de organización y de procedimientos y demás lineamientos necesarios para su funcionamiento.
