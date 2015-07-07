@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2014-12-16"
+last_updated: "2015-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -1689,6 +1689,14 @@ IV.- Se dé tormento al ofendido.
 
 V.- Se causen por envenenamiento, contagio, estupefacientes o psicotrópicos.
 
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+
+VI.- Se causen por la asistencia y con motivo de la realización de un espectáculo público, bien sea con inmediatez previa a su desarrollo, durante éste o con posterioridad inmediata al mismo.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+
+En el caso a que se refiere la fracción VI, además de las punibilidades previstas por los artículos 140 y 150 de este Código, según corresponda, se aplicará la relativa a la prohibición de asistir a eventos con fines de espectáculo público hasta por un tiempo igual al de la pena de prisión impuesta.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 2011)</small>
@@ -2642,6 +2650,10 @@ Este delito se perseguirá por querella.
 A quien cause daño a cosa ajena o propia en perjuicio de tercero, se le impondrá prisión de uno a cinco años y de diez a cincuenta días multa.
 
 Cuando el delito se ejecute por quienes conduzcan vehículos que estén prestando un servicio público o remunerado de transporte de personas o cosas o que se encuentren bajo el influjo de bebidas alcohólicas, estupefacientes, psicotrópicos u otras sustancias semejantes, se aplicará una punibilidad de dos a seis años de prisión.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+
+Las mismas penas a que se refiere el párrafo que antecede, se aplicarán cuando el delito se ejecute por la asistencia y con motivo de la realización de un espectáculo público, bien sea con inmediatez previa a su desarrollo, durante éste o con posterioridad inmediata al mismo. Además, se impondrá la prohibición de asistir a eventos con fines de espectáculo público hasta por un tiempo igual al de la pena de prisión impuesta.
 
 Estos delitos se perseguirán por querella, salvo que concurran con el delito de homicidio o lesiones graves o se trate de los delitos previstos en los tres artículos siguientes, caso en el cual se perseguirá de oficio.
 
@@ -4154,3 +4166,7 @@ Artículo Primero. El presente Decreto entrará en vigencia al siguiente día de
 Artículo Segundo. Toda referencia al tipo penal de violencia intrafamiliar deberá ser entendida al tipo penal de violencia familiar en los términos del presente decreto.
 
 Artículo Tercero. A las personas que hayan sustraído, retenido u ocultado a un menor o incapaz, con anterioridad a la entrada en vigor del presente Decreto, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+P.O. 7 DE JULIO DE 2015.
+
+Artículo Único. El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
