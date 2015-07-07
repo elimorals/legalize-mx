@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2015-06-13"
+last_updated: "2015-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO No. LXII-249, PUBLICADO EN EL P.O. DE 26 DE JUNIO DE 2014, LAS PRESENTES REFORMAS ENTRAN EN VIGOR EL 1° DE JULIO DE 2014, Y DE MANERA SUCESIVA, CONFORME A LAS FECHAS DE APLICACIÓN QUE SE ESTABLECEN EN EL ARTÍCULO ÚNICO DEL DECRETO No. LXII-232 PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO NÚMERO 53 DE FECHA 01 DE MAYO DEL 2014.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -2207,7 +2205,9 @@ XXV.- Diseñar, integrar y mantener actualizado el Sistema de Información Estad
 
 XXVI.- Entregar por conducto de su Presidente al Pleno del Supremo Tribunal de Justicia un informe estadístico trimestral del Poder Judicial del Estado;
 
-XXVII.- Elaborar la cuenta pública anual del Poder Judicial;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+
+XXVII.- Elaborar y presentar la información que se incorporará a la Cuenta Pública del Gobierno del Estado de Tamaulipas en términos de la ley de la materia;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2471,11 +2471,11 @@ El Fondo Auxiliar para la Administración de Justicia será administrado por un 
 
 A efecto de captar las cantidades o depósitos de bienes y valores que deben ingresar al Fondo, la Dirección del mismo contará con oficinas receptoras a cargo de quienes sean designados para tal efecto por el Consejo de la Judicatura.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 139.
 
-El titular de la Dirección Administradora del Fondo informará al Consejo de la Judicatura, cuando este lo requiera o por lo menos cada treinta días, de los movimientos y pormenores del Fondo y deberá reunir y proporcionar la información necesaria relativa a esa dependencia para rendir los informes de cuenta pública al Congreso del Estado.
+El titular de la Dirección Administradora del Fondo informará al Consejo de la Judicatura, cuando éste lo requiera o por lo menos cada treinta días, de los movimientos y pormenores del Fondo y deberá reunir y proporcionar la información necesaria relativa a esa dependencia para rendir los informes de cuenta pública.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2010)</small>
 
@@ -3782,3 +3782,13 @@ P.O. 13 DE JUNIO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas que mediante el presente Decreto se efectúan a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, entrarán en vigor a partir de la expedición del mismo.
