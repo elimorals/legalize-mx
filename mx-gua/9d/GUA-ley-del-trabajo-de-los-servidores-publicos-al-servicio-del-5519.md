@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-trabajo-de-los-servidores-publicos-al-servicio-del-5519
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-04"
-last_updated: "2015-05-12"
+last_updated: "2015-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 4 de diciembre de 1992.
 
@@ -218,6 +218,10 @@ LAS MADRES TRABAJADORAS TENDRAN LOS SIGUIENTES DERECHOS:
 I.- DURANTE EL PERIODO DE EMBARAZO NO REALIZARAN TRABAJOS QUE EXIJAN ESFUERZOS CONSIDERABLES Y SIGNIFIQUEN UN PELIGRO PARA SU SALUD EN RELACION CON LA GESTACION;
 
 II.- DISFRUTARAN DE UN DESCANSO DE CUARENTA Y DOS DIAS ANTERIORES A LA FECHA APROXIMADA QUE SE FIJE PARA EL PARTO Y CUARENTA Y DOS DIAS POSTERIORES AL PARTO. EL PRIMER PERIODO DE DESCANSO SE PRORROGARA POR EL TIEMPO NECESARIO SI SE ENCUENTRAN IMPOSIBILITADAS PARA TRABAJAR A CAUSA DEL EMBARAZO;
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+
+EN CASO DE NACIMIENTO PREMATURO DEL HIJO, EL PERIODO DE DESCANSO PREVIO AL PARTO SE ACUMULARA AL DESCANSO POSTERIOR AL MISMO, A EFECTO DE COMPLETAR NOVENTA DIAS.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1478,3 +1482,7 @@ Artículo Segundo. De conformidad con el decreto por el que se adicionan y refor
 P. O. 12 DE MAYO DE 2015.
 
 Artículo Único. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 7 DE JULIO DE 2015.
+
+Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
