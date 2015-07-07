@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-proceso-penal-para-el-estado-de-guanajuato-76480"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-03"
-last_updated: "2014-11-28"
+last_updated: "2015-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO Y TRANSITORIO TERCERO DEL DECRETO NÚMERO 192, PUBLICADO EN EL P.O. DE 25 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO SE INCORPORA AL RÉGIMEN JURÍDICO DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES QUE ENTRARÁ EN VIGOR DE MANERA INTEGRAL EN EL ESTADO DE GUANAJUATO, A PARTIR DEL DÍA 1 DE JUNIO DE 2016, Y SEGUIRÁ RIGIENDO PARA LOS ACTOS COMETIDOS Y LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA VIGENCIA DEL CITADO CÓDIGO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 3 de septiembre de 2010.
 
@@ -1762,6 +1762,12 @@ No procederá la mediación ni la conciliación en los casos en que el inculpado
 Cuando se trate de los supuestos contemplados en las fracciones I a III de este artículo, en los que el inculpado y la víctima o el ofendido, y en su caso, el tercero civilmente responsable, pertenezcan a la misma comunidad o pueblo indígena, las partes y la víctima o el ofendido, de común acuerdo y en la audiencia de vinculación a proceso, podrán solicitar al Juez de Control separarse del proceso penal y resolver la controversia del modo como la comunidad resuelve conforme a sus propios sistemas normativos en la regulación y solución de sus conflictos internos. Se excluyen los delitos cometidos contra menores de doce años.
 
 La resolución que se dicte en las controversias señaladas en el párrafo anterior, deberán ser validadas ante el Juez de Control.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+
+Improcedencia de medios alternativos de solución en controversias de violencia familiar
+
+Artículo 160 A. En los casos de violencia familiar no procederá la conciliación como medio alterno de solución de controversia, de conformidad con las disposiciones legales en violencia de género.
 
 Oportunidad para la aplicación de la mediación y la conciliación, y órganos facultados para practicarla
 
@@ -5846,3 +5852,7 @@ Artículo Tercero. El Código de Procedimientos Penales para el Estado de Guanaj
 P.O. 28 DE NOVIEMBRE DE 2014.
 
 Artículo Único. El presente Artículo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE JULIO DE 2015.
+
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
