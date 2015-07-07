@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-proceso-penal-para-el-estado-de-guanajuato-76480"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-03"
-last_updated: "2014-11-28"
+last_updated: "2015-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,31 +21,59 @@ state: "GUA"
 ---
 # LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO
 
-LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO
+REGLAMENTO ORGANICO DE NACIONAL FINANCIERA SOCIEDAD NACIONAL DE CREDITO INSTITUCION DE BANCA DE DESARROLLO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO Y TRANSITORIO TERCERO DEL DECRETO NÚMERO 192, PUBLICADO EN EL P.O. DE 25 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO SE INCORPORA AL RÉGIMEN JURÍDICO DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES QUE ENTRARÁ EN VIGOR DE MANERA INTEGRAL EN EL ESTADO DE GUANAJUATO, A PARTIR DEL DÍA 1 DE JUNIO DE 2016, Y SEGUIRÁ RIGIENDO PARA LOS ACTOS COMETIDOS Y LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA VIGENCIA DEL CITADO CÓDIGO.</small>
+TEXTO ORIGINAL.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
+Reglamento publicado en el Diario Oficial de la Federación, el martes 2 de abril de 1991.
 
-Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 3 de septiembre de 2010.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Hacienda y Crédito Público.
 
-JUAN MANUEL OLIVA RAMÍREZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, A LOS HABITANTES DEL MISMO SABED:
+REGLAMENTO ORGANICO DE NACIONAL FINANCIERA SOCIEDAD NACIONAL DE CREDITO INSTITUCION DE BANCA DE DESARROLLO.
 
-QUE EL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, HA TENIDO A BIEN DIRIGIRME EL SIGUIENTE:
+CONSIDERANDO
 
-DECRETO NÚMERO 80
+Que el H. Congreso de la Unión, mediante decreto publicado en el Diario Oficial de la Federación el pasado 18 de julio de 1990, expidió la Ley de Instituciones de Crédito.
 
-LA SEXAGÉSIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, DECRETA:
+Que la Ley de Instituciones de Crédito, establece en su Artículo Decimoprimero Transitorio, que el Reglamento Orgánico de la Sociedad deberá expedirse en un plazo de ciento ochenta días contados a partir de la entrada en vigor de la propia Ley.
 
-LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO
+Que corresponde a la Secretaría de Hacienda y Crédito Público expedir, con sujeción a la dispuesto en la Ley de Instituciones de Crédito y a la Ley Orgánica de Nacional Financiera, el Reglamento Orgánico de dicha Sociedad Nacional de Crédito, Institución de Banco de Desarrollo, en el que se establezcan las bases conforme a las cuales, se regirá su organización y funcionamiento.
+
+Que en el ejercicio de las facultades que me confiere la fracción XVIII del artículo 6o. del Reglamento Interior de la Secretaría de Hacienda y Crédito Público y con fundamento en los Artículos 30 y Decimoprimero Transitorio de la Ley de Instituciones de Crédito he tenido a bien expedir el siguiente
+
+REGLAMENTO ORGANICO DE NACIONAL FINANCIERA, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO.
 
 # LIBRO PRIMERO. DISPOSICIONES GENERALES
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO ÚNICO. Objeto de la ley, principios, derechos y garantías
+### CAPITULO PRIMERO. De la Sociedad
 
-Objeto de la ley
+###### ARTICULO 1o.
+
+Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, está constituida conforme a la Ley de Instituciones de Crédito y a su propia Ley Orgánica, con personalidad jurídica y patrimonio propio.
+
+###### ARTICULO 2o.
+
+El presente Reglamento orgánico tiene por objeto establecer las bases conforme a las cuales se regirá la organización y funcionamiento de la Sociedad.
+
+###### ARTICULO 3o.
+
+Nacional Financiera, en su carácter de Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, prestará el servicio de banca y crédito con sujeción a los objetivos y prioridades del Plan Nacional de Desarrollo y en especial del Programa Nacional de Financiamiento del Desarrollo para promover y financiar los sectores que le son encomendados en su propia Ley Orgánica.
+
+###### ARTICULO 4o.
+
+Nacional Financiera, como Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, tendrá por objeto: promover el ahorro y la inversión, así como canalizar apoyos financieros y técnicos al fomento industrial y en general, al desarrollo económico nacional y regional del país.
+
+###### ARTICULO 5o.
+
+El domicilio de la Sociedad será la Ciudad de México, Distrito Federal.
+
+La Sociedad podrá, previa aprobación de su Consejo Directivo establecer o clausurar sucursales o agencias a cualquier otra clase de oficinas y nombrar corresponsales, en el país o en el extranjero, con la autorización expresa de la Secretaría de Hacienda y Crédito Público, en términos de lo previsto por el artículo 42 de la Ley de Instituciones de Crédito, así como designar domicilio convencional en los actos que realice y los contratos que celebre.
+
+###### ARTICULO 6o.
+
+La Sociedad tendrá duración indefinida.
 
 ###### Artículo 1.
 
@@ -127,227 +155,333 @@ Son de aplicación supletoria las normas relacionadas de los Códigos Civil y Pr
 
 Derecho al juez predeterminado por la ley
 
-###### Artículo 10.
+###### ARTICULO 10.
 
-Nadie puede ser juzgado por jueces nombrados especialmente para el caso.
+La Sociedad podrá emitir certificados provisionales nominativos, que deberán canjearse en su oportunidad por títulos definitivos.
 
-Justicia pronta
+Los títulos provisionales y los definitivos deberán contener todos los datos necesarios para que su tenedor pueda conocer y ejercitar los derechos que el certificado le confiere.
 
-###### Artículo 11.
+###### ARTICULO 11.
 
-Toda persona tiene derecho a ser juzgada y a que se resuelva en forma definitiva acerca de la imputación que recae sobre ella en los plazos que se establecen en la Constitución Política de los Estados Unidos Mexicanos.
+La suscripción, tenencia y circulación de los certificados de aportación patrimonial de la Serie "B" se sujetarán en todo tiempo a lo previsto por la Ley de Instituciones de Crédito, por la propia Ley Orgánica y de conformidad con las disposiciones siguientes:
 
-Las autoridades judiciales, ministeriales y demás servidores públicos deben resolver las solicitudes con prontitud, sin dilaciones injustificadas.
+I.- Los títulos definitivos en que consten los certificados de aportación patrimonial Serie "B" de esta Sociedad, deberán expresar y contener:
 
-Presunción de inocencia
+a) Nombre y domicilio del tenedor o tenedores, así como su ocupación principal, y en su caso, su objeto social;
 
-###### Artículo 12.
+b) La denominación y domicilio de la Sociedad;
 
-Toda persona se presume inocente en todas las etapas del proceso, mientras no se declare su responsabilidad en sentencia firme, conforme a las reglas establecidas en este ordenamiento. En caso de duda, se estará a lo más favorable para el inculpado.
+c) La mención expresa de ser certificados de aportación patrimonial;
 
-En la aplicación de la ley penal es inadmisible la presunción de culpabilidad.
+d) El importe del capital social de la Sociedad, el número de certificados correspondientes a la Serie "B" y el valor nominal de los certificados de aportación patrimonial;
 
-Hasta que se dicte sentencia firme, ningún servidor público podrá presentar a una persona como culpable ni brindar información sobre ella en ese sentido.
+e) La mención específica de pertenecer a la serie "B" y la indicación que la misma representa el 34% del capital social de la Institución emisora, así como el número progresivo que permita la individualización de cada certificado;
 
-En los casos del sustraído a la acción de la justicia, se admitirá la publicación de los datos indispensables para su aprehensión por orden judicial.
+f) Las transcripciones que para estos títulos señala el artículo 9o. de este Reglamento Orgánico, y
 
-Principio de la carga de la prueba
+g) La firma autógrafa o facsimilar de los miembros del Consejo Directivo que conforme al último párrafo del artículo 9o. de este Reglamento Orgánico puedan suscribir tales títulos.
 
-###### Artículo 13.
+II.- Cada certificado de aportación patrimonial Serie "B", es indivisible, y en consecuencia cuando haya varios propietarios de un mismo certificado, nombrarán un representante común, y si no se pusieren de acuerdo, el nombramiento será hecho por la autoridad judicial competente;
 
-Corresponde a la parte acusadora la carga de la prueba para demostrar la existencia del hecho punible y la culpabilidad de quien intervino en él.
+III.- La Sociedad dejará de inscribir en el registro de certificados de aportación patrimonial Serie "B" a que se refiere el artículo 36 de la Ley de Instituciones de Crédito, las transmisiones que se efectúen sin ajustarse a lo establecido en la citada Ley y a lo previsto en este artículo, y
 
-Derecho de libertad personal
+IV.- La Secretaría de Hacienda y Crédito Público, conforme a lo previsto en el artículo 12 de la Ley Orgánica de Nacional Financiera, podrá autorizar la adquisición de certificados de la citada Serie "B" en una proporción mayor al 5% del capital pagado de la Sociedad, a las entidades de la Administración Pública Federal y los gobiernos de las entidades federativas y municipios.
 
-###### Artículo 14.
+###### ARTICULO 12.
 
-Toda persona tiene derecho a que se respete su libertad personal.
+En ningún momento podrán participar en forma alguna en el capital de la Sociedad personas físicas o morales extranjeras, ni sociedades mexicanas en cuyos estatutos no figure cláusula de exclusión directa e indirecta de extranjeros.
 
-Nadie puede ser privado de su libertad sino en virtud de orden de aprehensión fundada y motivada por autoridad judicial, salvo el caso de flagrancia en los términos de esta ley.
+Las personas que contravengan lo dispuesto en este artículo, perderán en favor del Gobierno Federal la participación de que se trate.
 
-Durante el proceso, las medidas cautelares restrictivas de la libertad serán sólo las establecidas por este ordenamiento, las que tendrán carácter excepcional y su aplicación debe ser proporcional al bien que se trata de resguardar.
+###### ARTICULO 13.
 
-Dignidad de la persona
+La Sociedad llevará un registro de los certificados de aportación patrimonial Serie "B" y considerará como propietarios de éstos a quienes aparezcan inscritos como tales.
 
-###### Artículo 15.
+El citado registro contendrá el nombre y domicilio del titular, así como su ocupación principal, y en su caso, objeto social, la indicación de los certificados que le pertenezcan, expresándose los números y de más particularidades e igualmente, los datos relativos a las transmisiones que se realicen en los términos del artículo 36 de la Ley de Instituciones de Crédito.
 
-Toda persona tiene derecho a que se respete su dignidad humana, su seguridad y su integridad física, psíquica y moral.
+###### ARTICULO 14.
 
-Nadie puede ser sometido a incomunicación, intimidación, torturas ni a otros tratos crueles, inhumanos o degradantes. La restricción de las comunicaciones sólo podrá ordenarse conforme a las disposiciones de este ordenamiento.
+En los casos en que se aumente el capital pagado se observará lo siguiente:
 
-Derecho a la defensa
+I.- Los titulares de los certificados de aportación patrimonial de la Serie "B" podrán adquirir los que correspondan al acuerdo adoptado, en igualdad de condiciones y en proporción al número de certificados, mediante la entrega del cupón correspondiente y su pago en efectivo, y
 
-###### Artículo 16.
+II.- Transcurrido el plazo que el Consejo Directivo señale, que no podrá ser inferior a 30 días naturales computables a partir de la fecha en que se publique en el Diario Oficial de la Federación el acuerdo del propio Consejo Directivo, los certificados no adquiridos de la Serie "B" se colocarán de manera directa por la Sociedad, observando lo previsto en el artículo 34 de la Ley de Instituciones de Crédito.
 
-La defensa es un derecho en toda etapa del proceso. Corresponde a las autoridades ministerial y judicial garantizarla sin preferencias ni desigualdades.
+###### ARTICULO 15.
 
-Con las excepciones previstas en esta ley, el inculpado tendrá derecho a intervenir en todos los actos procesales y a formular las peticiones y observaciones que considere oportunas, sin perjuicio de que la autoridad competente ejerza el poder disciplinario cuando se perjudique el curso normal del proceso.
+La administración de Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, estará encomendada a un Consejo Directivo y a un Director General, en sus respectivas esferas de competencia, de conformidad con su Ley Orgánica.
 
-Defensa técnica
+###### ARTICULO 16.
 
-###### Artículo 17.
+El Consejo Directivo estará integrado por nueve consejeros distribuidos de la siguiente forma:
 
-Desde el momento en que una persona es detenida o se apersone en la investigación preliminar tiene derecho a una defensa adecuada, la cual comprende como elementos esenciales:
+I.- Seis consejeros representarán a la Serie "A" de certificados de aportación patrimonial que serán:
 
-I. Estar asistido por un abogado defensor de su confianza que elija, y a comunicarse libre y privadamente con éste; en caso de no elegirlo, se le asignará un defensor público;
+a) El Secretario de Hacienda y Crédito Publico, quien presidirá el Consejo Directivo;
 
-II. Ser informado de los hechos que se le atribuyen y los derechos que le asisten; y
+b) Los titulares de las Secretarías de Programación y Presupuesto, de Comercio y Fomento Industrial, y de Energía, Minas e Industria Paraestatal, el Director General del Banco de México, así como el titular de una entidad de la Administración Pública Federal vinculada con el sector industrial, designado por el Ejecutivo Federal a través del Secretario de Hacienda y Crédito Público.
 
-III. Tener acceso a los registros de la investigación, consultarlos y disponer del tiempo y los medios adecuados para la preparación de su defensa.
+Serán suplentes de los consejeros mencionados, respectivamente; el Subsecretario de Hacienda y Crédito Público, quien suplirá en sus ausencias al Presidente del Consejo Directivo, sendos Subsecretarios de las demás Secretarías citadas, un Director General adjunto del Banco de México; y una persona de reconocida experiencia y prestigio en materia económica, financiera e industrial, designada por el Ejecutivo Federal, a través del Secretario de Hacienda y Crédito Público; y
 
-El derecho a la defensa adecuada es irrenunciable y su violación por parte de la autoridad producirá la nulidad absoluta de las actuaciones respectivas.
+II.- Tres consejeros de la Serie "B" designados por el Ejecutivo Federal, a través del Secretario de Hacienda y Crédito Público, con sus respectivos suplentes, nombramientos que deberán recaer en personas de reconocido prestigio y amplios conocimientos y experiencia en materia económica, financiera, industrial o de desarrollo regional.
 
-Los derechos del inculpado podrán ser ejercidos directamente por su abogado defensor, salvo aquellos de carácter personal o cuando exista una reserva expresa en la ley. Asimismo, para renunciar a derechos disponibles, el defensor deberá contar con el consentimiento expreso de su defendido. En caso de conflicto, prevalecerá la decisión informada de este último.
+La designación y la renuncia de los consejeros serán presentadas a la Secretaría de Hacienda y Crédito Público a través del Consejo Directivo de la Sociedad.
 
-Los miembros de pueblos o comunidades indígenas a quienes se impute la comisión de un delito deben contar preferentemente con un abogado defensor que tenga conocimiento de su lengua y cultura.
+Los consejeros de la Serie "B" que se designen para cubrir vacantes, durarán en su cargo el tiempo que falte por transcurrir al consejero sustituido.
 
-En caso de extranjeros, la autoridad tiene obligación de avisar a su representación consular por conducto de la Secretaría de Relaciones Exteriores.
+El cargo de consejero es personal y no podrá desempeñarse por medio de representantes.
 
-Principio de objetividad
+###### ARTICULO 17.
 
-###### Artículo 18.
+Las sesiones del Consejo Directivo deberán celebrarse cuando menos una vez al mes en los días y horas que previamente acuerde el propio Consejo; en caso necesario se celebrarán por acuerdo del Presidente o a petición de cuando menos dos consejeros de la Serie "A".
 
-Desde el inicio del proceso y a lo largo de su desarrollo las autoridades deben considerar en sus decisiones, tanto las circunstancias perjudiciales para el inculpado, como las favorables a él.
+Invariablemente se requerirá escrito dirigido a los consejeros para la celebración de las sesiones.
 
-Independencia judicial
+El Consejo Directivo sesionará válidamente con la asistencia de seis o más consejeros, siempre y cuando, entre ellos se encuentre un mínimo de cuatro de los nombrados por la Serie "A".
 
-###### Artículo 19.
+Las resoluciones se tomarán por mayoría de votos de los consejeros presentes, teniendo el Presidente voto de calidad, en caso de empate.
 
-En el ejercicio de su función, los jueces deben actuar con independencia de los otros poderes u órganos del Estado, de toda injerencia que pudiere provenir de los demás integrantes del Poder Judicial y de la ciudadanía en general.
+###### ARTICULO 18.
 
-En caso de interferencia en el ejercicio de su función, proveniente de otro Poder del Estado, del propio Poder Judicial o de la ciudadanía, el juez o tribunal deberá informar sobre los hechos que afecten su independencia al Consejo del Poder Judicial del Estado o, en su caso, al Pleno del Supremo Tribunal de Justicia. El órgano correspondiente deberá adoptar las medidas necesarias para que cese la interferencia, independientemente de las sanciones que correspondan al responsable de la misma.
+No podrán ser consejeros:
 
-Ejercicio exclusivo de la función judicial
+I.- Las personas que se encuentren en los casos señalados por los artículos 23 y 41, último párrafo, de la Ley de Instituciones de Crédito;
 
-###### Artículo 20.
+II.- Las personas que ocupen un puesto de elección popular, mientras estén en el ejercicio del mismo, y
 
-Sólo a la autoridad judicial le corresponde el juzgamiento de las causas, así como la reapertura de las terminadas por decisión firme. Los otros órganos del Estado en ningún caso podrán interferir en el desarrollo del proceso.
+III.- Dos o más personas que tengan entre sí parentesco hasta el tercer grado por consanguinidad o por afinidad.
 
-Deber de colaboración.
+Si alguno de los consejeros designados llegare a encontrarse comprendido, durante el ejercicio de su cargo en cualquiera de los supuestos anteriores, será sustituido por su suplente, por todo el tiempo que fue el impedimento y no se haga designación del consejero propietario.
 
-###### Artículo 21.
+Los consejeros que en cualquier operación tuviesen un interés opuesto al de la Sociedad, deberán abstenerse de toda intervención, respecto de dicha operación.
 
-Todas las autoridades están obligadas a prestar la colaboración que la autoridad ministerial y la judicial requieran en el ejercicio de sus funciones y deberán cumplir y hacer cumplir lo dispuesto por éstas.
+Los consejeros están obligadas en todo tiempo a lo previsto por los artículos 117 y 118 de la Ley de Instituciones de Crédito.
 
-Fundamentación y motivación
+###### ARTICULO 19.
 
-###### Artículo 22.
+El Consejo Directivo designará a su Secretario y Prosecretario de entre los servidores públicos de la Sociedad.
 
-Las autoridades ministerial y judicial están obligadas a fundamentar y motivar en los hechos sus decisiones de la manera que en cada caso señale este ordenamiento.
+El Secretario o en su caso el Prosecretario del Consejo Directivo levantará las actas de sesiones, las que se asentarán en el libro de actas que para tal efecto se lleve y deberán ser firmadas por el Presidente y por el Secretario, o el Prosecretario. Asimismo autorizará las copias de dichas actas, suscribirá los citatorios respectivo (sic) y expedirá las certificaciones que correspondan.
 
-La simple relación de las pruebas, la mención de los requerimientos, argumentos o pretensiones de las partes o de afirmaciones dogmáticas o fórmulas genéricas o rituales no reemplazan en ningún caso la fundamentación ni la motivación.
+###### ARTICULO 20.
 
-El incumplimiento de esta garantía es motivo de impugnación conforme a lo previsto en este ordenamiento.
+El Consejo Directivo dirigirá a la Sociedad en los términos de lo previsto por el artículo 42 y demás relativos de la Ley de Instituciones de Crédito.
 
-Derecho a la intimidad y a la privacidad
+El Consejo Directivo podrá acordar la realización de las operaciones inherentes al objeto de la Sociedad. Los acuerdos que en su caso dicte respecto de las operaciones previstas en las fracciones VI y IX del artículo 46 de la Ley de instituciones de Crédito, deberán considerar las propuestas del Director General.
 
-###### Artículo 23.
+Las facultades indelegables del Consejo Directivo, se ejercerán en los términos previstos en las disposiciones aplicables.
 
-Debe respetarse el derecho a la intimidad del inculpado y de cualquier otra persona, en especial la libertad de conciencia, el domicilio, la correspondencia, los papeles y otros objetos privados, así como las comunicaciones privadas de toda índole, salvo los casos autorizados por este ordenamiento.
+###### ARTICULO 21.
 
-Sólo con autorización del juez competente y a petición del Ministerio Público se puede intervenir la correspondencia, las comunicaciones telefónicas y electrónicas, catear domicilios u otros lugares.
+También serán facultades indelegables del Consejo Directivo las siguientes:
 
-Los jueces podrán admitir, como medio de prueba, las comunicaciones grabadas entre particulares únicamente, cuando éstas sean aportadas de forma voluntaria por alguno de los que participaron en ellas y no hayan sido obtenidas de manera ilícita. Los jueces valorarán su alcance, siempre y cuando contengan información relacionada con la comisión de un delito. En ningún caso se admitirán comunicaciones que violen el deber de confidencialidad que establecen la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política para el Estado, este ordenamiento y las demás leyes.
+I.- Aprobar el Informe Anual de Actividades que le presente el Director General;
 
-Derecho de igualdad ante la ley
+II.- Aprobar las inversiones en capital de riesgo a que se refiere la fracción IV del artículo 6o. y el artículo 30 de la Ley Orgánica de Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, y su enajenación, estableciendo las modalidades que considere convenientes;
 
-###### Artículo 24.
+III.- Aprobar la adquisición y uso de tecnología a que se refiere la fracción VII del artículo 6o. de la Ley Orgánica de Nacional Financiera, y
 
-Todas las personas son iguales ante la ley y deben ser tratadas conforme a las mismas reglas.
+IV.- Aprobar los demás programas específicos y reglamentos internos de la Sociedad que le presente el Director General, a efecto de someterlos a la autorización expresa de la Secretaría de Hacienda y Crédito Público.
 
-Los jueces, el Ministerio Público y la policía deben tomar en cuenta las condiciones particulares de las personas y del caso, pero no actuarán con implicaciones discriminatorias sobre la base del origen étnico, nacionalidad, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra circunstancia, calidad o condición.
+###### ARTICULO 22.
 
-Los jueces deben preservar el principio de igualdad procesal.
+El Director General será designado por el Ejecutivo Federal a través del Secretario de Hacienda y Crédito Público, debiendo recaer su nombramiento en persona que reúna los requisitos que establecen los artículos 24 y 43 de la Ley de Instituciones de Crédito.
 
-Efecto excluyente de la cosa juzgada
+###### ARTICULO 23.
 
-###### Artículo 25.
+El Director General tendrá a su cargo la administración y la representación legal de Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo sin perjuicio de las atribuciones que correspondan al Consejo Directivo, tendrá las siguientes facultades y funciones:
 
-Nadie puede ser juzgado dos veces por los mismos hechos, ya sea que en el juicio se le absuelva o se le condene. Lo mismo aplica para los casos de sobreseimiento.
+I.- En el ejercicio de sus atribuciones de representación legal, podrá celebrar u otorgar toda clase de actos y documentos inherentes al objeto de la Sociedad. Contará para ello con las más amplias facultades para realizar actos de dominio, administración, pleitos y cobranzas, aún de aquellos que requieran de autorización especial según otras disposiciones legales o reglamentarias. En tal virtud, y de manera enunciativa, y no limitativa, podrá emitir, avalar y negociar títulos de crédito, querellarse y otorgar perdón, ejercitar y desistirse de acciones judiciales inclusive en el juicio de amparo, comprometer en árbitros y transigir, otorgar poderes generales y especiales con todas las facultades que le competan aún las que requieran cláusula especial, sustituirlos y revocarlos, debiendo obtener aprobación expresa del Consejo Directivo cuando se trate de otorgar poderes generales para actos de dominio;
 
-No se pueden reabrir los procesos concluidos, salvo la revisión prevista en esta ley.
+II.- Ejecutar las resoluciones del Consejo Directivo;
 
-Licitud probatoria
+III.- Llevar la firma social;
 
-###### Artículo 26.
+IV.- Actuar como Delegado Fiduciario General;
 
-Los medios de prueba sólo tienen valor si han sido hallados, obtenidos, procesados, trasladados, producidos, reproducidos y aportados por medios lícitos y desahogados en el proceso del modo que autoriza esta ley.
+V.- Decidir la designación y contratación de los servidores públicos de Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, distintos de los señalados en la fracción I del artículo 42 de la Ley de Instituciones de Crédito, administrar al personal en su conjunto y establecer y organizar las oficinas de la Institución;
 
-No tiene valor la prueba obtenida mediante torturas, amenazas, o violación de los derechos fundamentales de las personas, ni la obtenida a partir de información originada en un procedimiento o medio ilícito, salvo lo dispuesto por este ordenamiento.
+VI.- Decidir la publicación de los balances mensuales de la Institución, conforme a las bases acordadas por el Consejo Directivo;
 
-Deberes de protección y de solicitar la reparación del daño
+VII.- Administrar los bienes y negocios celebrando los convenios y ejecutando los actos que requieran la marcha ordinaria de la Institución;
 
-###### Artículo 27.
+VIII.- Proponer al Consejo Directivo, la designación de Delegados Fiduciarios y de los servidores públicos de la Sociedad que ocupen cargos con dos jerarquías inmediatas inferiores a la de su rango y presentarle las solicitudes de licencia, así como las renuncias de los mismos;
 
-El Ministerio Público debe garantizar la protección de las víctimas u ofendidos, testigos y en general todos los sujetos que intervengan en el proceso, con la obligación de los jueces de vigilar su buen cumplimiento.
+IX.- Proponer al Consejo Directivo la creación de comités regionales consultivos y de crédito, así como los de su seno y proveer lo necesario para su adecuada integración y funcionamiento;
 
-El Ministerio Público debe solicitar la reparación del daño, sin menoscabo de que la víctima u ofendido la pueda pedir directamente.
+X.- Acordar la creación de comités internos de crédito, técnicos y administrativos;
 
-Justicia restaurativa
+XI.- Presentar al Consejo Directivo para su aprobación el Balance General Anual de la Sociedad, junto con el informe y dictamen del auditor externo y de los comisarios;
 
-###### Artículo 28.
+XII.- Presentar al Consejo Directivo los estados financieros de la Sociedad;
 
-El proceso penal se orienta por el principio de justicia restaurativa, entendido como todo procedimiento en el que la víctima u ofendido y el inculpado o sentenciado, participan conjuntamente, de forma activa, en la resolución de las cuestiones derivadas del delito, en busca de un resultado restaurativo.
+XIII.- Proponer al Consejo Directivo los programas sobre el establecimiento, reubicación y clausura de sucursales, agencias y oficinas en el país y en el extranjero;
 
-Se entiende por resultado restaurativo, el acuerdo encaminado a atender las necesidades y responsabilidades individuales y colectivas de las partes y a lograr la integración de la víctima u ofendido y del inculpado a la comunidad, en busca de la reparación, la restitución y el servicio a la comunidad.
+XIV.- Someter al Consejo Directivo los programas operativos y financieros, presupuestos generales de gastos e inversiones y las estimaciones de ingresos anuales de la Sociedad, así como sus modificaciones;
 
-Se emplearán preferentemente la mediación y la conciliación, como mecanismos alternativos de solución de controversias, para lograr resultados restaurativos.
+XV.- Presentar al Consejo Directivo las propuestas de modificación a este Reglamento Orgánico;
+
+XVI.- Proponer al Consejo Directivo las propuestas de cesión de partes del activo o pasivo de la Sociedad;
+
+XVII.- Presentar al Consejo Directivo las propuestas de adquisición de los inmuebles que la Sociedad requiera para la prestación de sus servicios y la enajenación de los mismos;
+
+XVIII.- Rendir al Consejo Directivo un informe anual de actividades;
+
+XIX.- Proponer al Consejo Directivo, la emisión de obligaciones subordinadas;
+
+XX.- Presentar al Consejo Directivo para su aprobación, los presupuestos de adquisición de partes sociales en las sociedades a que se refieren los artículos 75, cuando proceda, 88 y 89 de la Ley de Instituciones de Crédito, y
+
+XXI.- Participar en las sesiones del Consejo Directivo con voz y sin voto.
+
+###### ARTICULO 24.
+
+La designación de Delegados Fiduciarios y de los servidores públicos de la Sociedad que ocupen cargos con las dos jerarquías inmediatas inferiores a la del Director General se hará con base en los méritos obtenidos en la Institución y con sujeción a lo dispuesto en los artículos 24 y 43 de la Ley de Instituciones de Crédito.
+
+###### ARTICULO 25.
+
+El órgano de vigilancia de la Sociedad, estará integrado por dos comisarios, nombrados, uno por la Secretaría de la Contraloría General de la Federación y otro por la Comisión Consultiva a que se refiere el artículo 45 de la Ley de Instituciones de Crédito. Por cada comisario se nombrará el respectivo suplente.
+
+###### ARTICULO 26.
+
+Para el cumplimiento de las facultades y obligaciones que la Ley les confiere, los comisarios podrán ejercer conjunta o separadamente las funciones siguientes:
+
+I.- Solicitar al Director General información mensual que incluya por lo menos un estado de la situación financiera, y un estado de resultados de la Sociedad;
+
+II.- Realizar un examen de las operaciones, documentación, registro y demás constancias, en el grado y extensión que sea necesario para efectuar la vigilancia interna de la Sociedad y para rendir fundadamente el dictamen a que se refiere la fracción siguiente;
+
+III.- Rendir anualmente el Consejo Directivo un informe respecto a la veracidad, suficiencia y razonabilidad de la información presentada por el Director General al propio Consejo Directivo debiendo incluir su opinión sobre si las políticas y criterios contables y de información seguidos por la Sociedad, son adecuados y suficientes, de conformidad con lo dispuesto por la Ley de Instituciones de Crédito; si su aplicación es consistente en la información presentada al Consejo Directivo, y si como consecuencia dicha información refleja en forma veraz y suficiente la situación financiera y de resultados de la Sociedad;
+
+IV.- Hacer que se inserten en el orden del día de las sesiones del Consejo Directivo los puntos que crean pertinentes;
+
+V.- Asistir con voz, pero sin voto, a todas las sesiones del Consejo Directivo, a los cuales deberán ser citados, y
+
+VI.- Vigilar en cualquier tiempo las operaciones de la Sociedad.
+
+La actuación de los comisarios se sujetará en todo tiempo a lo previsto por los artículos 117 y 118 de la Ley de Instituciones de Crédito.
+
+###### ARTICULO 27.
+
+El comisario designado por la Secretaría de la Contraloría General de la Federación durará en su cargo hasta en tanto no sea revocado su nombramiento, y el designado por la Comisión Consultiva, por el término de un ejercicio social, pudiendo ser nombrado nuevamente.
+
+Para la designación y remoción del comisario de la Serie "B", deberá celebrarse una reunión especial de la Comisión Consultiva, cuyo acuerdo se tomará de por lo menos las dos terceras partes de votos de los presentes.
+
+El comisario designado por la Serie "B", continuará en el desempeño de sus funciones, aun cuando concluyo el periodo para el que haya sido nombrado, mientras no se haga nueva designación y el sustituto tome posesión de su cargo.
+
+###### ARTICULO 28.
+
+En los términos del artículo 45 de la Ley de Instituciones de Crédito, la Sociedad tendrá una Comisión Consultiva integrada por los titulares de los certificados de aportación patrimonial de la Serie "B", distintos de los del Gobierno Federal, que se reunirá y ocupará de los asuntos que precisa dicho artículo.
 
 ## TÍTULO SEGUNDO. ACTORES Y PARTES PROCESALES
 
-### CAPÍTULO I. Actores y partes procesales
+### CAPITULO SEGUNDO. Del Capital Social
 
-Actores procesales
+###### ARTICULO 7o.
 
-###### Artículo 29.
+El capital social de Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $ 950,000'000,000 (NOVECIENTOS CINCUENTA MIL MILLONES DE PESOS, M. N.).
 
-Son actores procesales:
+Dicho capital social estará representada por 12'540,000 (DOCE MILLONES QUINIENTOS CUARENTA MIL) certificados de aportación patrimonial de la Serie "A" con valor nominal de $ 50 000 (CINCUENTA MIL PESOS, M. N.) cada uno y por $ 6'460,000 (SEIS MILLONES CUATROCIENTOS SESENTA MIL) certificados de aportación patrimonial de la Serie "B" con valor nominal de $ 50,000 (CINCUENTA MIL PESOS, M. N.) cada uno.
 
-I. El juez o tribunal;
+El capital social podrá ser aumentado o reducido conforme a lo dispuesto por el artículo 38 de la Ley de Instituciones de Crédito, a propuesta del Consejo Directivo de la Sociedad, por Acuerdo de la Secretaría de Hacienda y Crédito Público y mediante reforma de este Reglamento.
 
-II. El Ministerio Público o el acusador particular, cuando así proceda;
+###### ARTICULO 8o.
 
-III. El inculpado y su defensor;
+Cuando la Sociedad anuncie su capital social deberá al mismo tiempo anunciar su capital pagado.
 
-IV. La víctima o el ofendido, cuando no actúen como acusador particular;
+###### ARTICULO 9o.
 
-V. El tercero civilmente responsable; y
+Los certificados de aportación patrimonial, serán títulos de crédito nominativos, en los términos del artículo 32 de la Ley de Instituciones de Crédito, divididos en dos series.
 
-VI. Los demás intervinientes.
+La Serie "A" representará en todo tiempo el 66% del capital de la Sociedad, sólo será suscrita por el Gobierno Federal, se emitirá en un título que no llevará cupones, el cual será intransmisible y en ningún caso podrá cambiar su naturaleza o los derechos que confiere al propio Gobierno Federal.
 
-Partes procesales
+La Serie "B" representará el 34% restante del capital social y podrá ser suscrita por el Gobierno Federal, por personas físicas o morales mexicanas, y por entidades de la Administración Pública Federal, los Gobiernos de los Estados y los Municipios, en los términos del artículo 12 de la Ley Orgánica.
 
-###### Artículo 30.
+Los certificados de aportación patrimonial Serie "B" llevarán transcritas las disposiciones contenidas en los artículos 33, 34, 35 y 36 de la Ley de Instituciones de Crédito y serán firmados por dos consejeros que determine el Consejo Directivo de entre los representantes de la Serie "A" de los certificados de aportación patrimonial. Estas firmas podrán ser impresas con facsímil, debiendo depositarse las firmas originales en el Registro Público de Comercio del domicilio de la Sociedad.
 
-Son partes procesales:
+###### ARTICULO 29.
 
-I. El Ministerio Público;
+La Comisión podrá ser convocada mediante un aviso que se publicará por una sola vez en uno de los periódicos de mayor circulación del domicilio de la Sociedad, cuando menos 10 días naturales antes de la fecha señalada para la reunión.
 
-II. El acusador particular, en su caso;
+En todo caso la Comisión Consultiva podrá ser convocada en cualquier tiempo por cuando menos una tercera parte de sus miembros, por el Presidente del Consejo Directivo, por el Director General, por dos consejeros de la Serie "B", o por el comisario de la misma Serie.
 
-III. El inculpado y su defensor; y
+La convocatoria para las sesiones de la Comisión Consultiva, deberá contener el orden del día, y será firmado por quien lo haga.
 
-IV. El tercero civilmente responsable en los términos de este ordenamiento.
+Cuando la convocatoria sea formulada por el Consejo Directivo, ésta será firmada por el Presidente, o por el Secretario o Prosecretario, según el propio Consejo lo determine.
 
-### CAPÍTULO II. Disposiciones comunes a los actores y partes procesales
+Para tener derecho de asistir a las sesiones de la Comisión Consultiva y votar, los tenedores depositarán los certificados de aportación patrimonial de la Serie "B" que sean de su propiedad conforme al registro de dichos títulos que llevará la Sociedad, en cualquier Sociedad Nacional de Crédito de la República Mexicana, debiendo exhibir la constancia de dicho depósito en el momento de la reunión. Tratándose de certificados depositados en instituciones para el Depósito de Valores, su titularidad se acreditará con las constancias y lisiados complementarios que al respecto regula la Ley del Mercado de Valores.
 
-Deber de lealtad y buena fe
+Los tenedores de los certificados de la Serie "B", podrán hacerse representar en las sesiones de la Comisión Consultiva por representantes facultadas en poder notarial o en carta poder certificada. No podrán ser mandatarios los miembros del Consejo Directivo, el Director General y los comisarios de la Sociedad.
 
-###### Artículo 31.
+Las reuniones de la Comisión serán dirigidas por un Presidente de Debates que será designado por los asistentes a las mismas.
 
-Los intervinientes deberán actuar con lealtad y buena fe, evitando los planteamientos dilatorios, engañosos, meramente formales y cualquier abuso de las facultades que este ordenamiento les concede.
+El Presidente de Debates, designará a uno o dos escrutadores, según lo estime conveniente quienes harán el recuento de los certificados representados e informarán sobre ello a la reunión.
 
-Las partes, así como la víctima u ofendido, no podrán designar durante el desahogo de las audiencias, apoderados o defensores que se hallaren comprendidos, respecto del juez interviniente, en una notoria relación de obligarlo a excusarse.
+Para que la Comisión sesione válidamente se deberá contar con la representación de la mayoría de los certificados de aportación patrimonial de la Serie "B", suscritos y pagados, cuyos titulares sean distintos al Gobierno Federal, tomándose por mayoría de votos las resoluciones, considerando un voto por cada certificado. Si no se reúne el número de certificados señalados, se hará una segunda y última convocatoria.
 
-Los jueces y tribunales vigilarán la regularidad del proceso, el ejercicio correcto de las facultades procesales y la buena fe.
+Cuando la reunión se realice en virtud de la segunda convocatoria, podrá sesionar con los tenedores que concurran y sus acuerdos serán válidos, siempre que se adopten por mayoría de votos presentes. Al hacer la segunda convocatoria, se expresará esta circunstancia y el orden del día será igual al de la primera.
 
-Reglas especiales de actuación
+Lo tratado y resuelto por la Comisión Consultiva se asentará en actas que se extenderán en un libro autorizado por la Comisión Nacional Bancaria y serán firmadas por quien presida la sesión y por el Secretario que designe la reunión.
 
-###### Artículo 32.
+Las copias certificadas que de las actas se expidan, llevarán la firma de quien la presidió y del Secretario.
 
-Cuando las circunstancias del caso ameriten adoptar medidas especiales para asegurar la regularidad y buena fe en el proceso, el juez o el presidente del tribunal podrán convocar a las partes a fin de acordar reglas particulares de actuación sin contravenir la ley.
+Las resoluciones legalmente adoptadas por la Comisión Consultiva, se entenderán aceptadas por los ausentes y disidentes.
 
-Medidas disciplinarias
+###### ARTICULO 30.
+
+El ejercicio social comprenderá un año natural contado del 1o. de enero al 31 de diciembre de cada año.
+
+### CAPITULO TERCERO. De la Administración y Vigilancia
+
+###### ARTICULO 31.
+
+Con la autorización expresa de la Secretaría de Hacienda y Crédito Público, la Sociedad deberá constituir las reservas y fondos necesarios para el adecuado cumplimiento de su objeto. En los términos del artículo 34 de su Ley Orgánica, al menos se constituirán las siguientes reservas:
+
+I.- Por lo menos un 10% para constituir el Fondo de Reserva Legal, hasta que dicha reserva alcance un importe por lo menos igual al capital social pagado;
+
+II.- Hasta un 20% de los pasivos a cargo de la Institución en moneda extranjera, y
+
+III.- La cantidad que determine la Secretaría de Hacienda y Crédito Público para constituir e incrementar otras reservas.
+
+Fijado el monto del remanente de operación y separada la cantidad que corresponda pagar por el impuesto respectivo y por la participación de los Trabajadores en las utilidades de la Sociedad el saldo se aplicará de la siguiente manera:
+
+A).- Del remanente se tomará la cantidad que el Consejo Directivo acuerde destinarse a ser distribuida como utilidades entre los tenedores de certificados de aportación patrimonial a prorrata, y
+
+B).- El saldo, si lo hubiere, se aplicará en la forma que acuerde el Consejo Directivo.
+
+###### ARTICULO 32.
+
+El Consejo Directivo acordará la fecha en la cual los tenedores de los certificados de aportación patrimonial podrán cobrar las utilidades que les correspondan y mandará anunciar oportunamente la fecha y las utilidades acordadas, mediante publicación en un periódico de amplia circulación en la República Mexicana.
+
+Si algún tenedor de certificados de aportación patrimonial no cobra las utilidades que le correspondan en el término de cinco años contados o partir de la fecha designada por el Consejo Directivo, se considerará prescrito su derecho y las utilidades pasarán a favor de la Sociedad.
+
+## TRANSITORIOS
+
+###### ARTICULO PRIMERO.
+
+Este Reglamento Orgánico entrará en vigor el 3 de abril de 1991.
+
+###### ARTICULO SEGUNDO.
+
+El presente Reglamento Orgánico abroga al publicado en el Diario Oficial de la Federación del día 26 de junio de 1987.
+
+###### ARTICULO TERCERO.
+
+Para efectos administrativos, Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, contará con un plazo de 90 días para ajustar su funcionamiento a las disposiciones contenidas en este Reglamento Orgánico.
+
+###### ARTICULO CUARTO.
+
+Los Organos de Gobierno y los servidores públicos de la Sociedad conservarán las facultades y poderes que se hubieren otorgado con anterioridad a la vigencia de este Reglamento Orgánico, mientras no sean revocados expresamente.
+
+Los poderes, mandatos y representaciones otorgados y las facultades concedidas por la Sociedad, subsistirán en sus términos en tanto no sean modificados a revocados expresamente.
+
+###### ARTICULO QUINTO.
+
+El capital pagado de la Sociedad a la vigencia del presente Reglamento Orgánico ascenderá a la suma de $ 483,974'200,000 (CUATROCIENTOS OCHENTA Y TRES MIL NOVECIENTOS SETENTA Y CUATRO MILLONES DOSCIENTOS MIL PESOS, M. N.) el cual estará distribuido en $ 319,422'900,000 (TRESCIENTOS DIECINUEVE MIL CUATROCIENTOS VEINTIDOS MILLONES NOVECIENTOS MIL PESOS, M. N.) representado por 6'388,458 (SEIS MILLONES TRESCIENTOS OCHENTA Y OCHO MIL CUATROCIENTOS CINCUENTA Y OCHO) certificados de aportación patrimonial de la serie "A", con un valor nominal de $ 50 000 (CINCUENTA MIL PESOS, M. N.) cada uno, y $ 1O4,551'300,000 (CIENTO SESENTA Y CUATRO MIL QUINIENTOS CINCUENTA Y UN MILLONES TRESCIENTOS MIL PESOS, M. N.) representado por 3'291,026 (TRES MILLONES DOSCIENTOS NOVENTA Y UN MIL VEINTISEIS) certificados de aportación patrimonial de la serie "B" con valor nominal de $ 50,000 (CINCUENTA MIL PESOS, M. N.) cada uno.
+
+###### ARTICULO SEXTO.
+
+Cuando el Gobierno Federal sea titular de la totalidad de certificados de aportación patrimonial de la Serie "B" de la Sociedad, la Secretaría de Hacienda y Crédito Público designará al Comisario correspondiente a esta Serie. Dicha designación será provisional y en cuanto estos certificados sean colocados por el Gobierno Federal entre tenedores distintos a éste, en una proporción no menor al 17% del capital pagado de la emisora, la Comisión Consultiva procederá en los términos del presente Reglamento Orgánico a la elección y designación del Comisario definitivo para el ejercicio social respectivo.
+
+El presente Reglamento Orgánico se expide en la Ciudad de México, Distrito Federal, a los 26 días del mes de marzo de 1991.- El Secretario de Hacienda y Crédito Público, Pedro Aspe.- Rúbrica.
 
 ###### Artículo 33.
 
@@ -377,9 +511,7 @@ Consultores técnicos
 
 Si por las particularidades del caso, el Ministerio Público o alguno de los intervinientes consideran necesaria la asistencia de un consultor en una ciencia, arte o técnica, así lo plantearán al juez o tribunal. El consultor técnico podrá acompañar en las audiencias a la parte con quien colabora, para apoyarla técnicamente en los contrainterrogatorios a los expertos ofrecidos por las otras partes en el proceso.
 
-### CAPÍTULO III. Ministerio Público
-
-Facultades del Ministerio Público
+### CAPITULO CUARTO. De la Comisión Consultiva de la Sociedad
 
 ###### Artículo 36.
 
@@ -469,9 +601,7 @@ En la medida en que le sean aplicables, los representantes del Ministerio Públi
 
 La excusa o la recusación serán resueltas por la autoridad y conforme al procedimiento señalado en la Ley Orgánica del Ministerio Público del Estado de Guanajuato.
 
-### CAPÍTULO IV. Policías
-
-Funciones de las policías
+### CAPITULO QUINTO. Del Ejercicio Social y la Distribución de Utilidades
 
 ###### Artículo 42.
 
