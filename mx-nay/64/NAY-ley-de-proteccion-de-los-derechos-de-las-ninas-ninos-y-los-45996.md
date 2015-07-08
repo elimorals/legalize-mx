@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-proteccion-de-los-derechos-de-las-ninas-ninos-y-los-4599
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-30"
-last_updated: "2014-10-30"
+last_updated: "2015-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY DE PROTECCIÓN DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y LOS ADOLESCENTES DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 8 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS CIENTO VEINTE DÍAS SIGUIENTES A SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2015.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de julio de 2005.
 
@@ -1060,3 +1062,25 @@ Artículo Único.- Las reformas contenidas en el presente Decreto entrarán en v
 P.O. 30 DE OCTUBRE DE 2014.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 8 DE JULIO DE 2015.
+
+Primero.- El presente Decreto entrará en vigor a los ciento veinte días siguientes a su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+Segundo.- A la entrada en vigor de este ordenamiento se abroga la Ley de Protección de los Derechos de las Niñas, Niños y los Adolescentes del Estado de Nayarit, publicada en el Periódico Oficial del Estado de Nayarit el día 30 de julio de 2005, así como todas las disposiciones que se opongan a la presente Ley.
+
+Tercero.- El Sistema de Protección Estatal y los Sistemas Municipales de Protección, deberán integrarse a más tardar dentro de los noventa días siguientes a la entrada en vigor de la presente ley.
+
+En su primera sesión, el Presidente del Sistema Estatal de Protección someterá a consideración y aprobación del mismo, los lineamientos para su integración, organización y funcionamiento, así como la designación del Titular de la Secretaría Ejecutiva del Sistema.
+
+En el mismo sentido, los Presidentes de los Sistemas Municipales de Protección deberán de someter a consideración y aprobación, los lineamientos para el funcionamiento de los Sistemas Municipales.
+
+Cuarto.- Las referencias que esta Ley hace a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, se entenderán realizadas por la Procuraduría de la Defensa del Menor y la Familia, en tanto se realicen las adecuaciones correspondientes.
+
+Quinto.- El Titular del Poder Ejecutivo Estatal expedirá las disposiciones reglamentarias, que se deriven de esta ley, en un plazo no mayor de ciento ochenta días, posterior a la entrada en vigor de la presente ley.
+
+Sexto.- Los centros de asistencia que se encuentren operando con antelación a la entrada en vigor de la presente ley contarán con un plazo de 180 días a partir de su publicación para realizar las adecuaciones conducentes en los términos previstos por la Ley.
+
+Séptimo.- A partir del siguiente ejercicio fiscal, se deberán destinar partidas presupuestales para el cumplimiento de lo previsto en la presente Ley.
+
+Octavo.- Las autoridades estatales y municipales, con el objeto de dar cumplimiento a lo previsto en la Ley que se expide, deberán implementar las políticas y acciones correspondientes conforme a los programas aplicables y los que deriven de la misma.
