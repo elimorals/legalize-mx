@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-30-2013-del-pleno-del-consejo-de-la-96531"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-11"
-last_updated: "2013-11-11"
+last_updated: "2015-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96531&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2013-10-31"
 
 ACUERDO GENERAL 30/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE MAGISTRADO DE CIRCUITO, MEDIANTE CONCURSOS INTERNOS DE OPOSICIÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL ACUERDO GENERAL 36/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE MAGISTRADO DE CIRCUITO, MEDIANTE CONCURSOS INTERNOS DE OPOSICIÓN, PUBLICADO EN EL D.O.F. DE 8 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE JULIO DE 2015 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 11 de noviembre de 2013.
 
@@ -750,3 +752,17 @@ TERCERO. Se abroga el Acuerdo General 8/2011 del Pleno del Consejo de la Judicat
 CUARTO. Los concursos internos de oposición que a la fecha de entrada en vigor de este Acuerdo se encuentren en trámite, continuarán realizándose conforme a la convocatoria y al Acuerdo aplicable al concurso de que se trate.
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNÁNDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 30/2013, del Pleno del Consejo de la Judicatura Federal, que establece el procedimiento y lineamientos generales para acceder al cargo de magistrado de Circuito, mediante concursos internos de oposición, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de dos de octubre de dos mil trece, por mayoría de cinco votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, César Esquinca Muñoa, César Alejandro Jáuregui Robles y Manuel Ernesto Saloma Vera; en contra del voto del señor Consejero Juan Carlos Cruz Razo, quien formuló voto particular.- México, Distrito Federal, a treinta y uno de octubre de dos mil trece.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 8 DE JULIO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal y en la del Instituto de la Judicatura.
+
+TERCERO. Se abroga el Acuerdo General 30/2013 del Pleno del Consejo de la Judicatura Federal, que establece el procedimiento y lineamientos generales para acceder al cargo de Magistrado de Circuito, mediante concursos internos de oposición.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+QUINTO. Los concursos internos de oposición que a la fecha de entrada en vigor de este Acuerdo se encuentren en trámite, deberán continuar hasta su conclusión conforme a las disposiciones con las que iniciaron.
