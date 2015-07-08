@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-sobre-monumentos-y-zonas-1132"
 country: "mx"
 rank: "reglamento"
 publication_date: "1975-12-08"
-last_updated: "1993-01-05"
+last_updated: "2015-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1132&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1975-09-20"
 ---
 # REGLAMENTO DE LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLOGICAS, ARTISTICOS E HISTORICOS
 
-REGLAMENTO DE LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLOGICAS, ARTISTICOS E HISTORICOS
+REGLAMENTO DE LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICAS, ARTÍSTICOS E HISTÓRICOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 1993.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE JULIO DE 2015.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 8 de diciembre de 1975.
 
@@ -93,13 +93,35 @@ II.- Recabarán la autorización del Instituto competente para obtener y reunir 
 
 III.- Enterarán, a petición del Instituto competente, el porcentaje que este les señale del importe de las cuotas que recauden.
 
+> <small>(REFORMADO, D.O.F. 8 DE JULIO DE 2015)</small>
+
 ###### ARTICULO 9.
 
-Las declaratorias de monumentos artísticos e históricos pertenecientes a la Federación, Distrito Federal, Estados y Municipios, así como las declaratorias de zonas arqueológicas, artísticas e históricas serán expedidas o revocadas por el Presidente de la República. En los demás casos la expedición o revocación se hará por el Secretario de Educación Pública.
+Las declaratorias de monumentos artísticos e históricos pertenecientes a la Federación, Distrito Federal, Estados y Municipios, así como las declaratorias de zonas de monumentos arqueológicos, artísticos e históricos serán expedidas o revocadas por el Presidente de la República. En los demás casos la expedición o revocación se hará por el Secretario de Educación Pública.
 
-Las declaratorias de zonas arqueológicas, artísticas e históricas determinarán, específicamente, las características de éstas y, en su caso, las condiciones a que deberán sujetarse las construcciones que se hagan en dichas zonas.
+Las declaratorias de zonas de monumentos arqueológicos, artísticos e históricos determinarán las características de éstas, el área que abarque la poligonal de la zona, precisando sus límites, la identificación de los inmuebles incluidos dentro del área que se pretende declarar y, en su caso, las condiciones a que deberán sujetarse las construcciones que se hagan en dichas zonas.
 
-Las declaratorias o revocaciones a que se refiere este artículo se publicarán en el "Diario Oficial" de la Federación. Cuando se trate de monumentos se notificarán personalmente a los interesados y, en caso de inmuebles también a los colindantes. Cuando se ignore su domicilio, surtirá efectos de notificación personal una segunda publicación de la declaratoria o revocación en el "Diario Oficial" de la Federación. Además, se dará aviso al Registro Público de la Propiedad de la localidad y al Registro Público de Monumentos y Zonas competente, para su inscripción.
+Las declaratorias de monumentos artísticos e históricos deberán mencionar sus características, dimensiones y ubicación.
+
+Las declaratorias que expida el Presidente de la República en términos de este artículo podrán impugnarse de conformidad con la legislación federal aplicable.
+
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2015)</small>
+
+ARTICULO 9 BIS.- Los institutos competentes, previo a la emisión del acuerdo de inicio de procedimiento de declaratoria, deberán integrar un expediente que contenga:
+
+I.- Antecedentes documentales que servirán para justificar el valor arqueológico, artístico o histórico y que se argumentarán en la declaratoria correspondiente;
+
+II.- Información técnica del bien o bienes a declarar como monumentos históricos o artísticos, o de los bienes que conformen la zona de monumentos arqueológicos, artísticos e históricos a declarar, y
+
+III.- En su caso, el plano que contenga la poligonal de la zona a declarar.
+
+> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2015)</small>
+
+ARTICULO 9 TER.- La opinión de procedencia del Instituto competente, a que se refiere la fracción IV del artículo 5o. TER de la Ley, deberá contener, cuando menos, lo siguiente:
+
+I.- La fundamentación que sustente la procedencia de la declaratoria, y
+
+II.- Los argumentos técnicos, científicos e históricos que respondan a cada uno de los alegatos presentados por los interesados.
 
 ###### ARTICULO 10.
 
@@ -185,9 +207,17 @@ En las inscripciones, que de las declaratorias de zonas se hagan en los Registro
 
 I.- La ubicación y linderos de la zona;
 
-II.- El área de la zona; y
+> <small>(REFORMADA, D.O.F. 8 DE JULIO DE 2015)</small>
 
-III.- La relación de los monumentos y, en su caso, el nombre con que se les conozca.
+II.- El área que abarque la poligonal de la zona;
+
+> <small>(REFORMADA, D.O.F. 8 DE JULIO DE 2015)</small>
+
+III.- La relación de los monumentos y, en su caso, el nombre con que se les conozca, y
+
+> <small>(ADICIONADA, D.O.F. 8 DE JULIO DE 2015)</small>
+
+IV.- La identificación de los inmuebles que, sin ser considerados monumentos, se encuentren, en su caso, dentro de la poligonal de la zona.
 
 ###### ARTICULO 20.
 
@@ -323,11 +353,13 @@ El plazo de la exportación temporal de monumentos artísticos o históricos, se
 
 > <small>(ADICIONADO, D. O. 5 DE ENERO DE 1993)</small>
 
-ARTICULO 37 bis.- Queda prohibida la exportación definitiva de monumentos arqueológicos, salvo canjes o donativos a gobiernos o institutos científicos extranjeros, por acuerdo expreso del Presidente de la República.
+ARTICULO 37 BIS.- Queda prohibida la exportación definitiva de monumentos arqueológicos, salvo canjes o donativos a gobiernos o institutos científicos extranjeros, por acuerdo expreso del Presidente de la República.
 
 La exportación temporal de monumentos arqueológicos sólo podrá llevarse a cabo para su exhibición en el extranjero, siempre y cuando la integridad de éstos no pueda ser afectada por su transportación, y de conformidad con lo siguiente:
 
-I.- Se requerirá permiso previo del titular de la Secretaría de Educación Pública quien, para otorgarlo, tomará en consideración la opinión de la Secretaría de Relaciones Exteriores y del Instituto Nacional de Antropología e Historia;
+> <small>(REFORMADA, D.O.F. 8 DE JULIO DE 2015)</small>
+
+I.- Se requerirá permiso previo del titular del Instituto Nacional de Antropología e Historia quien, para otorgarlo, tomará en consideración la opinión de la Secretaría de Relaciones Exteriores y de las áreas técnicas competentes del propio Instituto;
 
 II.- La Secretaría de Relaciones Exteriores adoptará las medidas necesarias para que los monumentos arqueológicos sean trasladados e instalados en los lugares de las exhibiciones y, al concluir éstas, se retornen a nuestro país, así como aquéllas para su debida protección, y
 
@@ -413,21 +445,23 @@ El Instituto competente promoverá ante las autoridades correspondientes la revo
 
 Para la imposición de una multa, el Instituto competente citará al presunto infractor a una audiencia. En el citatorio se le hará saber la infracción que se le impute y el lugar, día y hora en que se celebrará la audiencia, en la que el particular podrá ofrecer pruebas y alegar lo que a su derecho convenga. El Instituto competente dictará la resolución que proceda.
 
+> <small>(REFORMADO, D.O.F. 8 DE JULIO DE 2015)</small>
+
 ###### ARTICULO 49.
 
-El recurso de reconsideración podrá ser interpuesto por la persona a quien le fue impuesta la multa, dentro del término de cinco días hábiles contados a partir de la fecha en que se le notificó la sanción.
+Las multas impuestas, conforme lo previene el artículo anterior, podrán ser recurridas por el afectado, observando el procedimiento previsto en la Ley Federal de Procedimiento Administrativo.
 
 ###### ARTICULO 50.
 
-El recurso se interpondrá ante el Secretario de Educación Pública por conducto del Instituto que impuso la sanción, por medio de escrito en el que el recurrente expresará los motivos por los cuales estima que debe reconsiderarse la multa.
+(DEROGADO, D.O.F. 8 DE JULIO DE 2015)
 
 ###### ARTICULO 51.
 
-En el escrito a que se refiere el artículo anterior, el interesado podrá ofrecer las pruebas que estime pertinentes. De ser necesario, el Secretario de Educación Pública citará a una audiencia dentro de los quince día siguientes a la interposición del recurso, en la que se desahogarán las pruebas ofrecidas y dictará la resolución que proceda.
+(DEROGADO, D.O.F. 8 DE JULIO DE 2015)
 
 ###### ARTICULO 52.
 
-La interposición del recurso suspenderá la ejecución de la multa, siempre que se haya garantizado su importe ante las autoridades hacendarias correspondientes, en los términos del Código Fiscal de la Federación.
+(DEROGADO, D.O.F. 8 DE JULIO DE 2015)
 
 ## ARTICULOS TRANSITORIOS
 
@@ -443,8 +477,14 @@ CUARTO.- Se abroga el Reglamento de la Ley sobre protección y conservación de 
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, a los veinte días del mes de septiembre de mil novecientos setenta y cinco.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Educación Pública, Víctor Bravo Ahuja.- Rúbrica.- El Secretario del Patrimonio Nacional, Francisco Javier Alejo.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José López Portillo.- Rúbrica.- El Secretario de Relaciones Exteriores, Emilio O. Rabasa.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Octavio Sentíes Gómez.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 5 DE ENERO DE 1993
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE JULIO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado a las dependencias y entidades de la Administración Pública Federal para el ejercicio fiscal de que se trate, por lo que no se autorizarán recursos adicionales.
