@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-proteccion-a-la-fauna-para-el-estado-de-nayarit-53151"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-16"
-last_updated: "2014-05-10"
+last_updated: "2015-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PROTECCIÓN A LA FAUNA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2015.
 
 Ley publicada en la Sección Décima Tercera al Periódico Oficial del Estado de Nayarit, el sábado 16 de diciembre de 2006.
 
@@ -99,7 +99,7 @@ XI. SAGADERP.- Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca.
 
 XII. Animales nocivos o peligrosos.- Aquellos que hayan sido afectados en su comportamiento debido a alteración biológica o genética; los que por su naturaleza sean agresivos o cuyas capacidades físicas les posibiliten causar un daño grave al ser humano.
 
-XIII. Ejemplares o poblaciones ferales (sic).- Aquellos pertenecientes a especies de fauna doméstica que al quedar fuera del control humano por su peligrosidad, ferocidad o fuerza natural extrema se establecen en el hábitat natural de la vida silvestre.
+XIII. Ejemplares o poblaciones ferales.- Aquellos pertenecientes a especies de fauna doméstica que al quedar fuera del control humano por su peligrosidad, ferocidad o fuerza natural extrema se establecen en el hábitat natural de la vida silvestre.
 
 XIV. Especies o poblaciones amenazadas o en peligro de extinción.- Aquéllas cuyas áreas de distribución o volumen poblacional han sido drásticamente disminuidas, poniéndose en riesgo su viabilidad biológica si siguen operando factores que ocasionen el deterioro o modificación del hábitat o que disminuyan sus poblaciones.
 
@@ -165,7 +165,7 @@ III. Un representante de la Secretaría de Salud.
 
 IV. Un representante de la SAGADERP.
 
-V. Un representante deI INADES.
+V. Un representante del INADES.
 
 VI. Un representante por cada Comisión Municipal de Protección a la Fauna, previa acreditación.
 
@@ -341,6 +341,16 @@ Los propietarios o poseedores de ejemplares de fauna de cualquier tipo, deben us
 
 Los propietarios o legítimos poseedores de los predios en los que se distribuya la fauna silvestre, poseen derechos y obligaciones al aprovechamiento sustentable sobre sus ejemplares, partes y derivados a través de unidades de manejo para la conservación de la fauna silvestre, en los términos previstos por la Ley General de Vida Silvestre, Ley General de Equilibrio Ecológico y Protección al Ambiente y demás disposiciones aplicables, pero serán responsables de los efectos negativos que el aprovechamiento produzca.
 
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2015)</small>
+
+ARTÍCULO 30 BIS.- Las colecciones científicas y museográficas, públicas o privadas, de especímenes de especies silvestres, deberán registrarse, además de actualizar sus datos anualmente ante la autoridad correspondiente.
+
+Para el caso de ejemplares vivos, necesariamente se deberá contar con un plan de manejo autorizado por la autoridad competente.
+
+Los predios e instalaciones que manejen fauna silvestre en forma confinada, como zoológicos, espectáculos públicos y colecciones privadas, sólo podrán operar si cuentan con planes de manejo autorizados por la autoridad correspondiente, teniendo la obligación de registrarse y actualizar sus datos anualmente.
+
+Queda prohibido el uso de ejemplares de fauna silvestre en circos.
+
 ###### ARTÍCULO 31.
 
 Se prohíbe el maltrato, sacrificio, destrucción, daño o perturbación a los ejemplares, poblaciones o especies de fauna silvestre y doméstica en otra forma que no sea la prescrita por la ley; salvo lo previsto en el último párrafo del artículo 34 de este ordenamiento.
@@ -459,9 +469,9 @@ La tenencia de ejemplares de fauna amenazada, en peligro de extinción, exótica
 
 ## TITULO TERCERO
 
-DE LA COMERCIALlZACIÓN, TRANSPORTE, EXPERIMENTACIÓN EXHIBICIÓN Y SACRIFICIO DE LA FAUNA.
+DE LA COMERCIALIZACIÓN, TRANSPORTE, EXPERIMENTACIÓN EXHIBICIÓN Y SACRIFICIO DE LA FAUNA.
 
-### CAPITULO I. DE LA COMERCIALlZACIÓN
+### CAPITULO I. DE LA COMERCIALIZACIÓN
 
 ###### ARTÍCULO 46.
 
@@ -536,6 +546,10 @@ Corresponde a las Comisiones Municipales, vigilar las condiciones en que se encu
 ###### ARTÍCULO 55.
 
 Los ayuntamientos expedirán el permiso para la celebración de festividades públicas, espectáculos de circo y análogos, en los que se utilicen animales, de conformidad con las disposiciones que marca esta ley. Si se verifican infracciones del permisionario que implique maltrato hacia los animales, los ayuntamientos por si o a solicitud de las Comisiones Estatal o Municipales revocarán el permiso y procederán a sancionarlo conforme a lo previsto en el Capítulo III del Título IV de ésta ley.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2015)</small>
+
+Las sanciones que dispone la Ley, serán aplicables también a quienes hagan uso de ejemplares de fauna silvestre en los circos.
 
 ###### ARTÍCULO 56.
 
@@ -681,7 +695,9 @@ IV. Las demás que señalen otras disposiciones aplicables.
 
 Las infracciones a lo dispuesto en esta ley, que en el cuerpo de la misma no tuviere señalada una sanción específica, serán sancionadas a juicio de la autoridad competente con multa de 3 a 100 días de salario o arresto hasta por 36 horas.
 
-En los casos de sacrificios de especies en veda o protegidas se estará a lo dispuesto por la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y la Ley General de Vida Silvestre.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2015)</small>
+
+En los casos en que se realicen sacrificios de especies en veda o protegidas o se lleven a cabo actos que contravengan las disposiciones de conservación de vida silvestre fuera de su hábitat natural, se estará a lo dispuesto por la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y la Ley General de Vida Silvestre.
 
 ###### ARTÍCULO 76.
 
@@ -736,3 +752,7 @@ Y en cumplimiento a lo dispuesto en la Fracción II del artículo 69 de la Const
 P.O. 10 DE MAYO DE 2014.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 8 DE JULIO DE 2015.
+
+Único.- El presente Decreto entrará en vigor al día siguiente a partir de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
