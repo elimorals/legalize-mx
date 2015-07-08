@@ -4,7 +4,7 @@ identifier: "NAY-ley-estatal-del-equilibrio-ecologico-y-proteccion-al-21201"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-25"
-last_updated: "2007-07-04"
+last_updated: "2015-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE NAYARIT
 
-LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE NAYARIT
+LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2015.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 25 de abril del 2001.
 
@@ -43,7 +43,7 @@ LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NA
 
 ### CAPÍTULO I. Normas Preliminares
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 1.
 
@@ -417,7 +417,7 @@ XIII.- Las actividades que lleven a cabo dentro del territorio del Estado, no af
 
 XIV.- La erradicación de la pobreza es fundamental para alcanzar el desarrollo sustentable;
 
-XV.- Las mujeres cumplen una importante función en la protección, preservación y aprovechamiento sustentable de los recursos naturales y en el desarrollo. Su integral participación es esencial para lograr el desarrollo sustentable; y (sic)
+XV.- Las mujeres cumplen una importante función en la protección, preservación y aprovechamiento sustentable de los recursos naturales y en el desarrollo. Su integral participación es esencial para lograr el desarrollo sustentable; y
 
 XVI. Los procesos de creación e instrumentación de políticas ambientales se orientarán siempre por el principio precautorio;
 
@@ -475,7 +475,7 @@ V.- El impacto ambiental de nuevos asentamientos humanos, obras o actividades;
 
 VI.- Las relaciones ancestrales, étnicas y culturales de las comunidades con su entorno ecológico;
 
-VII.- Las prácticas sustentables y no sustentables, de aprovechamiento de los recursos naturales y sus repercusiones en los ecosistemas; y (sic)
+VII.- Las prácticas sustentables y no sustentables, de aprovechamiento de los recursos naturales y sus repercusiones en los ecosistemas; y
 
 VIII.- El carácter especial o prioritario de una región;
 
@@ -559,7 +559,7 @@ II.- Las Normas Oficiales Mexicanas, criterios ecológicos y las normas ambienta
 
 III.- Las declaratorias de áreas naturales protegidas incluidas en el Sistema Nacional de Áreas Naturales Protegidas;
 
-IV.- Las declaratorias de usos, destinos y reservas que tengan fundamento en la Ley Forestal; y (sic)
+IV.- Las declaratorias de usos, destinos y reservas que tengan fundamento en la Ley Forestal; y
 
 V. Las declaratorias de usos, destinos y reservas que se hagan con fundamento en la Legislación del Estado;
 
@@ -629,13 +629,13 @@ X. Las prácticas de aprovechamiento de los recursos naturales y sus repercusion
 
 XI. El carácter especial o prioritario de una región.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 23.
 
 El Programa de Ordenamiento Ecológico Estatal abarcará el total del territorio del Estado, por su parte, los programas de ordenamiento ecológico regionales abarcarán una fracción del territorio del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 Los programas de ordenamiento ecológico estatal y regional a que se refiere este Artículo, deberán contener por lo menos:
 
@@ -645,7 +645,7 @@ b) La determinación de los criterios de regulación ecológica para la conserva
 
 c) Los lineamientos para su ejecución, evaluación, seguimiento y modificación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 24.
 
@@ -669,7 +669,7 @@ II.- Los programas de ordenamiento ecológico cubrirán una extensión geográfi
 
 III.- Las previsiones contenidas en los programas de ordenamiento ecológico del territorio, mediante las cuales se regulen los usos del suelo, se referirán únicamente a las áreas localizadas fuera de los límites de los centros de población. Cuando en dichas áreas se pretenda la ampliación de un centro de población ó la realización de proyectos de desarrollo urbano, se estará a lo que establezca el programa de ordenamiento ecológico respectivo, el cual sólo podrá modificarse mediante el procedimiento que establece la presente Ley y su Reglamento;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 IV.- El ordenamiento ecológico estatal y la ordenación y regulación de los asentamientos humanos, deberán ser compatibles.
 
@@ -691,7 +691,7 @@ La formulación y adecuaciones de los programas de ordenamiento ecológico, esta
 
 El ordenamiento ecológico estatal se formulará en congruencia con el ordenamiento ecológico que establezca la Federación y particularizará en aquellos aspectos que contribuyen a establecer y preservar el equilibrio ecológico en el territorio de la Entidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 27.
 
@@ -859,13 +859,13 @@ Artículo 38 C.- Si después de la presentación de una manifestación de Impact
 
 Artículo 38 D.- Los contenidos del Informe preventivo, así como las características y las modalidades de las manifestaciones de Impacto Ambiental y los estudios de riesgo serán establecidos por el reglamento de la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 39.
 
 Las personas físicas o morales interesadas en la realización de obras o actividades públicas o privadas que impliquen o puedan implicar afectación del medio ambiente o generación de riesgos, requieren autorización de impacto ambiental y, en su caso de riesgo, previo a la realización de las mismas.
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 Corresponde a la Secretaria, evaluar el impacto ambiental a que se refiere el artículo 37 de la presente Ley, respecto de las siguientes materias:
 
@@ -927,7 +927,7 @@ La Secretaría evaluará y en su caso expedirá la autorización de impacto ambi
 
 #### SECCIÓN VI. Del procedimiento de evaluación de Impacto ambiental
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 42.
 
@@ -967,7 +967,7 @@ Si después de la presentación de una manifestación de impacto ambiental se re
 
 Los predios ubicados en áreas naturales protegidas se requerirá de una manifestación de impacto ambiental en su modalidad específica junto con la zonificación y programa de manejo respectivos para toda actividad, obra y operación pública o privada que se pretenda desarrollar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 44.
 
@@ -985,7 +985,7 @@ La Secretaría podrá llevar a cabo una consulta pública, conforme a las bases 
 
 ###### Artículo 46.
 
-El promovente deberá publicar, a su costa, en un diario de circulación nacional o en uno d e los periódicos de mayor circulación estatal, según defina la Secretaría el impacto del proyecto, un resumen del proyecto dentro de los dos días siguientes a la integración del expediente. Las personas que participen en la consulta pública, podrán presentar al Instituto por escrito sus observaciones o comentarios, dentro de los quince días hábiles siguientes a la publicación del resumen.
+El promovente deberá publicar, a su costa, en un diario de circulación nacional o en uno de los periódicos de mayor circulación estatal, según defina la Secretaría el impacto del proyecto, un resumen del proyecto dentro de los dos días siguientes a la integración del expediente. Las personas que participen en la consulta pública, podrán presentar al Instituto por escrito sus observaciones o comentarios, dentro de los quince días hábiles siguientes a la publicación del resumen.
 
 Una vez presentados las observaciones y comentarios, la Secretaría los ponderará y los considerará al momento de resolver sobre la autorización en materia de impacto ambiental.
 
@@ -997,7 +997,7 @@ En su caso, la Secretaría deberá responder por escrito a los interesados las r
 
 Al realizar la evaluación del impacto ambiental, la Secretaría se ajustará, entre otros aspectos, a los programas de ordenamiento ecológico del territorio, a los programas de desarrollo urbano, a las declaratorias de áreas naturales protegidas, sus programas de manejo, a las normas aplicables y las demás disposiciones jurídicas que resulten aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 48.
 
@@ -1053,7 +1053,7 @@ III.- Descripción de la obra o actividad proyectada; y
 
 IV. Descripción de los materiales o productos que vayan a emplearse en la ejecución de la obra o actividad proyectada, y los que en su caso vayan a obtenerse como resultado de dicha obra o actividad, incluyendo emisiones a la atmósfera, descargas de aguas residuales, tipo de residuos y procedimientos para su disposición final.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 51.
 
@@ -1077,7 +1077,7 @@ La persona que construya una obra nueva, amplíe una existente, o explote recurs
 
 Los productores, empresas u organizaciones empresariales podrán desarrollar procesos de autorregulación ambiental, a través de los cuales mejoren su desempeño ambiental, respetando la legislación y normatividad vigentes en la materia, comprometiéndose a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 La Secretaría y los municipios, en el ámbito de su competencia, inducirán o concertarán:
 
@@ -1095,7 +1095,7 @@ IV. Las demás acciones que induzcan a las empresas a alcanzar los objetivos de 
 
 Los responsables del funcionamiento de una empresa podrán en forma voluntaria, a través de la auditoría ambiental, realizar el examen metodológico de sus operaciones, respecto de la contaminación y el riesgo que en su caso podría generar, así como el grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales y de buenas prácticas de operaciones e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger el medio ambiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 La Secretaría desarrollará un programa dirigido a fomentar la realización de auditorías ambientales, y podrá supervisar su ejecución. Para tal efecto:
 
@@ -1129,7 +1129,7 @@ Para la expedición de los criterios y normas técnicas ambientales estatales, s
 
 #### SECCIÓN IX. De la Educación, la Formación y la Investigación Ambiental
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 59.
 
@@ -1161,7 +1161,7 @@ XI.- Diseñar, editar y producir materiales de difusión, divulgación, informac
 
 XII. Promover la coordinación entre las diferentes instancias oficiales y no gubernamentales, involucradas con el quehacer ambiental y educativo en la entidad, con la finalidad de optimizar recursos humanos, materiales y económicos, para así estar en posibilidad de lograr en un menor tiempo la concientización de la sociedad sobre los problemas ambientales y su participación en las posibles alternativas de solución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 60.
 
@@ -1173,7 +1173,7 @@ II.- Incluirá programas de educación ambiental que fomenten la participación 
 
 III. Propiciará la creación de un programa de becas para apoyar la formación y capacitación de recursos humanos, en áreas relacionadas con el manejo sustentable de los recursos naturales y la protección ambiental, considerando a todos los niveles de enseñanza técnica, la capacitación para el trabajo y la formación profesional.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 61.
 
@@ -1191,7 +1191,7 @@ V.- Coordinar esfuerzos con instituciones educativas de todos los niveles, crear
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
 
-VI.- La creación de una biblioteca y videoteca especializadas en el área de la educación ambiental, que sirva de apoyo a las actividades del la Secretaría y proporcione servicio al público en general;
+VI.- La creación de una biblioteca y videoteca especializadas en el área de la educación ambiental, que sirva de apoyo a las actividades del (sic) la Secretaría y proporcione servicio al público en general;
 
 VII.- Diseñar, editar y producir materiales educativos en materia de educación ambiental; y
 
@@ -1429,7 +1429,7 @@ Las áreas naturales protegidas se establecerán de conformidad con esta Ley y d
 
 La Secretaría propondrá al Ejecutivo, previa consulta ciudadana, la expedición de declaratorias para el establecimiento de áreas naturales protegidas de interés del Estado. Así mismo podrá proponer a los Ayuntamientos las declaratorias para el establecimiento de parques ecológicos y urbanos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 86.
 
@@ -1563,7 +1563,7 @@ En aquellas áreas que presenten procesos de degradación o desertificación, o 
 
 En la formulación, ejecución y seguimiento de dichos programas, la Secretaría deberá promover la participación de los propietarios, poseedores, organizaciones sociales, instituciones académicas y centros de investigación, públicas o privadas, pueblos indígenas, gobiernos municipales, y demás personas interesadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 105.
 
@@ -1573,7 +1573,7 @@ En aquéllos casos en que se estén produciendo procesos acelerados de desertifi
 
 Para tal efecto, elaborará previamente, los estudios que las justifiquen. Las declaratorias deberán publicarse en el Periódico Oficial del Estado, y serán inscritas en el Registro Público de la Propiedad correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 Las declaratorias podrán comprender, de manera parcial o total, predios sujetos a cualquier régimen de propiedad y expresarán:
 
@@ -1597,7 +1597,7 @@ Será nulo todo acto, convenio o contrato que contravenga lo establecido en la m
 
 ### CAPÍTULO III. Flora y Fauna Silvestres
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 107.
 
@@ -1607,7 +1607,7 @@ La Secretaría, en el ámbito de su competencia estatal, en coordinación con la
 
 a) La regulación para el manejo, control y remediación de los problemas asociados a ejemplares y poblaciones ferales, así como la aplicación de las disposiciones en la materia dentro de su ámbito territorial;
 
-b) La compilación de la información sobre los usos y formas de aprovechamiento de ejemplares, partes y derivados de la vida silvestre con fines de subsistencia por parte de las comunidades rurales y la promoción de la organización de los distintos grupos y su integración a los procesos de desarrollo sustentable; y (sic)
+b) La compilación de la información sobre los usos y formas de aprovechamiento de ejemplares, partes y derivados de la vida silvestre con fines de subsistencia por parte de las comunidades rurales y la promoción de la organización de los distintos grupos y su integración a los procesos de desarrollo sustentable; y
 
 c) La conducción de la política estatal de información y difusión en materia de vida silvestre; la integración y seguimiento y actualización del Sistema Estatal de información sobre la vida silvestre en compatibilidad e interrelación con el subsistema nacional de información sobre la vida silvestre en el ámbito de su jurisdicción territorial;
 
@@ -1653,9 +1653,13 @@ II.- El establecimiento o modificación de vedas de la flora y fauna silvestres.
 
 Queda prohibido en el Estado el tráfico de especies y subespecies silvestres de flora o fauna, terrestres o acuáticas, de conformidad con las Convenciones Internacionales en la materia ratificadas por el Senado de la República, las Normas Oficiales Mexicanas aplicables con criterios y normas técnicas ambientales estatales.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2015)</small>
+
 ###### Artículo 109.
 
-Corresponde a los Municipios la regulación sobre el trato digno que debe darse a los animales.
+Corresponde al Gobierno del Estado y de los Municipios, en el ámbito de sus respectivas competencias, regular el trato digno y respetuoso que debe darse a los animales.
+
+De conformidad con las Normas Oficiales Mexicanas, la Secretaría podrá expedir las normas técnicas que determinen los principios básicos de trato digno y respetuoso a los animales, que incluyen condiciones de cautiverio, exhibición, transporte, alimentación, explotación, entrenamiento, manutención y sacrificio, así como vigilar su cumplimiento en coordinación con las autoridades correspondientes de los diversos órdenes de gobierno.
 
 ###### Artículo 110.
 
@@ -1721,7 +1725,7 @@ Artículo 113 D.- Los ingresos que la Secretaria perciba por concepto del otorga
 
 ### CAPÍTULO I. Aprovechamiento Sustentable del Agua y los Ecosistemas Acuáticos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 114.
 
@@ -1731,7 +1735,7 @@ I.- El inventario de los cuerpos, disponibilidad y aprovechamiento de las aguas 
 
 II.- Ejecutar acciones de carácter técnico y administrativo en la explotación, uso o aprovechamiento de aguas estatales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 115.
 
@@ -1769,7 +1773,7 @@ Artículo 115 C.- El Ejecutivo del Estado y la Secretaría, conjuntamente con lo
 
 ### CAPÍTULO II. Aprovechamiento de Minerales o Sustancias No Reservadas a la Federación
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 116.
 
@@ -1803,7 +1807,7 @@ II.- Participar con el Estado en la vigilancia de las actividades de exploració
 
 Quienes realicen actividades de exploración, explotación, procesamiento y aprovechamiento de los minerales o sustancias no reservadas a la Federación están obligados a controlar.
 
-I.- La emisión o el desprendimiento de polvos, humos o gases que puedan afectar al equilibrio ecológico; y (sic)
+I.- La emisión o el desprendimiento de polvos, humos o gases que puedan afectar al equilibrio ecológico; y
 
 II. Sus residuos, evitando su propagación fuera de los terrenos en los que lleven a cabo sus actividades;
 
@@ -1821,7 +1825,7 @@ En las licencias o permisos que se expidan para la utilización del suelo, se ap
 
 Artículo 119 A.- Para la protección y aprovechamiento del suelo en el estado, se considerarán los siguientes criterios:
 
-I. El uso del suelo debe ser compatible con su condición de fragilidad ambiental y no debe alterar el equilibrio de los ecosistemas, por lo que, su adecuado aprovechamiento requerirá de un programa que contemple los aspectos emanados de los ordenamientos ecológicos regional del estado y locales; y (sic)
+I. El uso del suelo debe ser compatible con su condición de fragilidad ambiental y no debe alterar el equilibrio de los ecosistemas, por lo que, su adecuado aprovechamiento requerirá de un programa que contemple los aspectos emanados de los ordenamientos ecológicos regional del estado y locales; y
 
 II. La realización de las obras públicas o privadas que por sí mismas puedan provocar deterioro severo de los suelos, deberán incluir acciones equivalentes de mitigación, restauración, estabilización y rehabilitación;
 
@@ -1923,7 +1927,7 @@ Artículo 145 Ñ.- El personal que labore en la verificación de emisiones deber
 
 Artículo 145 O.- En caso de dar de baja a técnicos verificadores, el concesionario informará por escrito a la Secretaría en un plazo máximo de tres días hábiles, asimismo deberá registrar al personal de nuevo ingreso y acreditar su capacitación como técnico verificador. De igual forma, se deberán actualizar los datos en caso de darse de baja algún otro personal.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE JULIO DE 2007)</small>
 
 #### SECCIÓN IV. Del Proceso de Verificación Vehicular
 
@@ -2183,7 +2187,7 @@ Las emisiones de contaminantes generadas por fuentes móviles, que circulen en e
 
 La omisión de la verificación de las emisiones contaminantes generadas por fuentes móviles, o la falta de cumplimiento de las medidas que para el control de emisiones se establezcan, será objeto de sanciones en los términos que prevengan esta Ley y otras disposiciones jurídicas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 142.
 
@@ -2271,7 +2275,7 @@ X.- Los espectáculos públicos culturales, artísticos o deportivos de cualquie
 
 XI.- Las instalaciones y establecimientos de cualquier clase en ferias populares;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 144.
 
@@ -2307,7 +2311,7 @@ En el ámbito de competencia de la Secretaría, tanto para las fuentes fijas o m
 
 Asimismo, la Secretaría llevará un padrón de empresas cuyas actividades se consideren como contaminantes, a efecto de dar cumplimiento a lo previsto en el párrafo anterior.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 146.
 
@@ -2343,17 +2347,17 @@ Artículo 146 F.- Los permisionarios presentarán a la Secretaría un informe so
 
 I. Los certificados y las constancias de rechazo emitidas y las copias de las tarjetas de circulación correspondientes;
 
-II. Copia de los comprobantes de pago de las multas por verificación extemporánea, ante las oficinas recaudadoras, y (sic)
+II. Copia de los comprobantes de pago de las multas por verificación extemporánea, ante las oficinas recaudadoras, y
 
 III. Los certificados con holograma y constancias de rechazo cancelados, por triplicado,
 
 IV. Datos electrónicos como disquetes que contengan la información procesada.
 
-V. Entregar la documentación e información que le sea requerida por el personal de la Secretaría, en el desahogo de visitas de inspección y revisión de los equipos de verificación; (sic)
+V. Entregar la documentación e información que le sea requerida por el personal de la Secretaría, en el desahogo de visitas de inspección y revisión de los equipos de verificación;
 
 > <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
 
-Artículo 146 G.- El permisionario debe dar aviso inmediato a la Secretaría, cuando los propietarios o conductores presenten documentos alterados o aparentemente falsificados, absteniéndose de verificar el vehículo de que se trate; (sic)
+Artículo 146 G.- El permisionario debe dar aviso inmediato a la Secretaría, cuando los propietarios o conductores presenten documentos alterados o aparentemente falsificados, absteniéndose de verificar el vehículo de que se trate;
 
 > <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
 
@@ -2431,7 +2435,7 @@ VI. Los permisionarios deberán guardar un archivo con los expedientes de los ve
 
 VII. Los permisionarios y su personal, no deberán expedir certificados, hologramas y constancias de rechazo que pertenezcan a otros Centros.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE JULIO DE 2007)</small>
 
 ### CAPÍTULO II. Prevención y Control de la Contaminación del Agua y de los Ecosistemas Acuáticos
 
@@ -2473,7 +2477,7 @@ V.- Los convenios que se celebren con la Federación para entrega de agua en blo
 
 Para garantizar el uso sustentable de las aguas de jurisdicción estatal o que se tengan asignadas por la Federación en los términos de la Ley y de los convenios o acuerdos de coordinación que se celebren; quedan sujetas a regulación estatal las actividades de nueva creación descritas en la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 149.
 
@@ -2501,7 +2505,7 @@ V.- Llevar y actualizar el registro de las descargas a las redes de drenaje y al
 
 VI.- Llevar y actualizar el registro de descargas a las redes de drenaje y alcantarillado que administren, el que será integrado al Registro Nacional de Descargas a cargo de la Secretaría del Medio Ambiente, Recursos Naturales y Pesca.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 151.
 
@@ -2535,7 +2539,7 @@ El otorgamiento de asignaciones, concesiones o permisos para la explotación, us
 
 Cuando se determine el monto de los derechos correspondientes a la prestación de los servicios públicos de agua potable y alcantarillado, se considerará el costo del tratamiento que resulte necesario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 155.
 
@@ -2583,7 +2587,7 @@ La información que se recabe deberá ser incorporada al Sistema Nacional de Inf
 
 ### CAPÍTULO III. Prevención y Control de la Contaminación Visual y de la Generada por Ruido, Vibraciones, Energía Térmica, Energía Lumínica y Olores
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 163.
 
@@ -2649,7 +2653,7 @@ I.- La formulación de programas de reutilización de residuos domésticos e ind
 
 II.- La elaboración de inventarios de residuos domésticos e industriales y sus fuentes generadoras;
 
-III.- La implantación, evaluación y mejoramiento de sistemas de manejo y disposición final de residuos domésticos e industriales; y (sic)
+III.- La implantación, evaluación y mejoramiento de sistemas de manejo y disposición final de residuos domésticos e industriales; y
 
 IV.- La identificación de alternativas de reutilización y disposición final de residuos domésticos e industriales;
 
@@ -2671,7 +2675,7 @@ La generación, manejo y disposición final de los residuos de lenta degradació
 
 El Ejecutivo del Estado y los Ayuntamientos regularán la realización de actividades riesgosas, cuando éstas afecten el equilibrio ecológico de los ecosistemas o al ambiente de la entidad en general o del municipio correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 174.
 
@@ -2679,7 +2683,7 @@ La Secretaría establecerá mediante Acuerdo que será publicado en el Periódic
 
 Dicha clasificación estará determinada por las características de peligrosidad de los materiales que involucren, considerando además los volúmenes de manejo de acuerdo a la cantidad de reporte.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 175.
 
@@ -2695,7 +2699,7 @@ IV.- La infraestructura existente y necesaria para la atención de contingencias
 
 V.- Los impactos que tendría un posible evento extraordinario en la población y recursos naturales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 176.
 
@@ -2831,7 +2835,7 @@ La competencia de los municipios en esta materia se circunscribirá a los casos 
 
 Toda persona tiene derecho a de un ambiente sano y ecológicamente equilibrado; y podrá intervenir activamente en su comunidad para la defensa y conservación del medio ambiente en los términos de esta ley, haciendo uso de los derechos que la misma le confiere. La Secretaría y los Gobiernos Municipales, promoverán la participación y corresponsabilidad de la sociedad en los procesos de formulación y aplicación de la política ambiental y sus instrumentos, en acciones de información y vigilancia, y en general, en las acciones ecológicas que emprenda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 188.
 
@@ -2939,7 +2943,7 @@ La Secretaria en coordinación con los gobiernos municipales, deberá elaborar y
 
 La Secretaria editará trimestralmente, una gaceta en la que se publicarán las disposiciones jurídicas, Normas Oficiales Mexicanas, normas técnicas, criterios ambientales, decretos, reglamentos, acuerdos y demás actos administrativos, así como información de interés general en materia ambiental, que se publiquen por el gobierno federal o estatal, así como los documentos internacionales en materia ambiental de interés para México, independientemente de su publicación en el Diario Oficial de la Federación, Periódico Oficial del Estado o en otros órganos de difusión. Igualmente en dicha gaceta se publicará información oficial relacionada con espacios naturales protegidos y la preservación y el aprovechamiento sustentable de los recursos naturales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 195.
 
@@ -2957,7 +2961,7 @@ I.- Se considere por disposición legal que la información es confidencial o qu
 
 II.- Se trate de información relativa a asuntos que son materia de procedimientos judiciales o de inspección y vigilancia, pendientes de resolución;
 
-III.- Se trate de información aportada por terceros cuando los mismos no estén obligados por disposición legal a proporcionarla, y (sic)
+III.- Se trate de información aportada por terceros cuando los mismos no estén obligados por disposición legal a proporcionarla, y
 
 IV.- Se trate de información sobre inventarios e insumos y tecnologías de proceso, incluyendo la descripción del mismo;
 
@@ -3125,7 +3129,7 @@ Tratándose de actos distintos a requerimientos de informes, citaciones o notifi
 
 La resolución administrativa definitiva podrá notificarse al interesado por medio de correo certificado o mensajería, en ambos casos con acuse de recibo, siempre y cuando los solicitantes hubieran manifestado su consentimiento y hayan adjuntado al promover el trámite el comprobante de pago del servicio respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 215.
 
@@ -3173,7 +3177,7 @@ En ningún caso se podrán rechazar los escritos en las unidades de recepción d
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
-Cuando en cualquier estado del procedimiento se considere que alguno de los actos no reúne los requisitos necesarios, el órgano administrativo lo pondrá en conocimiento de la parte interesada, concediéndole un plazo de cinco días para su cumplimiento, Los (sic) interesados que no cumplan con lo dispuesto en este artículo, se les podrá declarar la caducidad del ejercicio de su derecho, en los términos previstos en la presente Ley.
+Cuando en cualquier estado del procedimiento se considere que alguno de los actos no reúne los requisitos necesarios, el órgano administrativo lo pondrá en conocimiento de la parte interesada, concediéndole un plazo de cinco días para su cumplimiento, Los interesados que no cumplan con lo dispuesto en este artículo, se les podrá declarar la caducidad del ejercicio de su derecho, en los términos previstos en la presente Ley.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
@@ -3187,11 +3191,11 @@ Las autoridades correspondientes ante quienes se inicie o se tramite cualquier p
 
 ### CAPÍTULO VI. De la Tramitación
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 223.
 
-En el despacho de los expedientes se guardará y respetará el orden riguroso de tramitación en los asuntos de la misma naturaleza, se le designara un número progresivo al asunto o expediente que en su caso se forme, que incluirá la referencia al año al que se inicia. El numero se anotara en todas las promociones y actuaciones que se produzcan respecto del mismo asunto o expediente[0] (sic); la alteración del orden sólo podrá realizarse cuando exista causa debidamente motivada de la que quede constancia.
+En el despacho de los expedientes se guardará y respetará el orden riguroso de tramitación en los asuntos de la misma naturaleza, se le designara un número progresivo al asunto o expediente que en su caso se forme, que incluirá la referencia al año al que se inicia. El numero se anotara en todas las promociones y actuaciones que se produzcan respecto del mismo asunto o expediente; la alteración del orden sólo podrá realizarse cuando exista causa debidamente motivada de la que quede constancia.
 
 El incumplimiento a lo dispuesto en el párrafo anterior, será causa de responsabilidad del servidor público infractor.
 
@@ -3319,7 +3323,7 @@ Dicho personal, al realizar las visitas de inspección, deberá contar con el do
 
 La visita de inspección se podrá llevar a cabo sin necesidad de que preceda notificación personal ni citatorio con cualquier persona que se encuentre en el lugar de la visita.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 242.
 
@@ -3391,7 +3395,7 @@ La persona con quien se entienda la diligencia estará obligada a permitir al pe
 
 La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que haya lugar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 247.
 
@@ -3403,7 +3407,7 @@ Admitidas y desahogadas las pruebas ofrecidas por el interesado, o habiendo tran
 
 Una vez recibidos los alegatos o transcurrido el término para presentarlos, la autoridad correspondiente procederá, dentro de los veinte días siguientes, a dictar por escrito la resolución respectiva, misma que se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 249.
 
@@ -3431,7 +3435,7 @@ En los casos en que proceda, la autoridad hará del conocimiento del Ministerio 
 
 ### CAPÍTULO I. Medidas de Seguridad
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 251.
 
@@ -3439,7 +3443,7 @@ Cuando exista riesgo de desequilibrio ecológico, o de daño o deterioro a los r
 
 I.- La clausura temporal, parcial o total de las fuentes contaminantes, así como de las instalaciones en que se manejen o almacenen especímenes, productos o subproductos de especies de flora o de fauna silvestre, recursos forestales, o se desarrollen las actividades que den lugar a los supuestos a que se refiere el primer párrafo de este artículo;
 
-II.- El aseguramiento precautorio de materiales y residuos peligrosos, así como de especímenes, productos o subproductos de especies de flora o de fauna silvestre o su material genético, recursos forestales, además de los bienes, vehículos, utensilios e instrumentos directamente relacionados con la conducta que da lugar a la imposición de la medida de seguridad, o (sic)
+II.- El aseguramiento precautorio de materiales y residuos peligrosos, así como de especímenes, productos o subproductos de especies de flora o de fauna silvestre o su material genético, recursos forestales, además de los bienes, vehículos, utensilios e instrumentos directamente relacionados con la conducta que da lugar a la imposición de la medida de seguridad, o
 
 III.- La neutralización o cualquier acción análoga que impida que materiales o residuos peligrosos generen los efectos previstos en el primer párrafo de este artículo;
 
@@ -3471,7 +3475,7 @@ C) Se trate de desobediencia reiterada, en tres o más ocasiones, al cumplimient
 
 III.- Arresto administrativo hasta por treinta y seis horas.
 
-IV.- La suspensión o revocación de las concesiones, licencias, permisos o autorizaciones correspondientes, y (sic)
+IV.- La suspensión o revocación de las concesiones, licencias, permisos o autorizaciones correspondientes, y
 
 V.- El decomiso de los instrumentos, ejemplares, productos o subproductos, especies de flora o fauna silvestre o recursos genéticos;
 
@@ -3557,7 +3561,7 @@ Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en es
 
 (DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
-> <small>N. DE E. ES DE OBSERVARSE QUE EL PRESENTE ARTICULO FUE DEROGADO POR EL ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002; MODIFICANDOSE POR DECRETO PUBLICADO EN EL P.O. DE 4 DE JULIO DE 2007, LO QUE SE DEJA A CONSIDERACIÓN DEL USUARIO.</small>
+> <small>N. DE E. ES DE OBSERVARSE QUE EL PRESENTE ARTICULO FUE DEROGADO POR EL ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002; MODIFICÁNDOSE POR DECRETO PUBLICADO EN EL P.O. DE 4 DE JULIO DE 2007, LO QUE SE DEJA A CONSIDERACIÓN DEL USUARIO.</small>
 
 ###### Artículo 262.
 
@@ -3585,7 +3589,7 @@ En caso de que se expidan licencias, permisos, autorizaciones o concesiones cont
 
 ### CAPÍTULO IV. De la Denuncia Popular
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### Artículo 265.
 
@@ -3693,7 +3697,7 @@ El Secretario General de Gobierno
 
 Lic. Adán Meza Barajas
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 17 DE AGOSTO DE 2002.
 
@@ -3740,3 +3744,7 @@ P.O. 4 DE JULIO DE 2007.
 Artículo Primero.- El presente decreto entrará al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Artículo Segundo.- Hasta en tanto los ayuntamientos dicten los reglamentos y bandos de policía y buen gobierno, para regular las materias que, conforme las disposiciones de este ordenamiento, son de su competencia, corresponderá a la autoridad estatal aplicar esta ley en el ámbito municipal, coordinándose para ello con las autoridades municipales respectivas.
+
+P.O. 8 DE JULIO DE 2015.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
