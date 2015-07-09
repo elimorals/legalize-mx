@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-instituciones-politicas-y-procedimientos-89193"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-08-10"
-last_updated: "2012-08-17"
+last_updated: "2015-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 CÓDIGO DE INSTITUCIONES POLÍTICAS Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 9 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2015 (ABROGADO).
 
 Código publicado en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 10 de agosto de 2012.
 
@@ -5266,3 +5268,23 @@ C.P.A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ
 P.O. 17 DE AGOSTO DE 2012.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE JULIO DE 2015.
+
+PRIMERO: El presente Decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO: Se Abroga el Código de Instituciones Políticas y Procedimientos Electorales para el Estado de Oaxaca, aprobado mediante Decreto Número 1335, de fecha 9 de agosto de 2012, publicado en el Periódico Oficial del Gobierno del Estado con fecha 10 de agosto de 2012.
+
+TERCERO: Se expide la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca.
+
+CUARTO: El Consejo General del Instituto Electoral y de Participación Ciudadana de Oaxaca, tendrá un plazo de treinta días naturales para elaborar, modificar y publicar su normatividad interna, conforme a esta Ley.
+
+QUINTO: Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio. En tanto se expiden los nuevos ordenamientos que regulen aspectos sustantivos y adjetivos de este ordenamiento, seguirán aplicándose en lo conducente en todo lo que no se opongan a esta Ley, las disposiciones reglamentarias y administrativas que regulaban los actos previstos en el Código que se abroga.
+
+SEXTO: El voto de los mexicanos en el extranjero por vía electrónica, se realizará hasta en tanto el Instituto Nacional Electoral haga pública la comprobación del sistema a utilizar para la emisión del voto en dicha modalidad, en términos del artículo décimo tercero de la Ley General de Instituciones y Procedimientos Electorales.
+
+SÉPTIMO: La Ley de Sistemas Electorales Indígenas referida en el artículo 34 párrafo segundo de esta Ley será expedida en un plazo de 60 días naturales por el Congreso del Estado, contados a partir de la expedición de esta Ley. En tanto ello sucede, la Dirección Ejecutiva de sistema normativos internos del Instituto seguirá funcionando y ejerciendo sus atribuciones conforme al Código de Código (sic) de Instituciones Políticas y Procedimientos Electorales para el Estado de Oaxaca, aprobado mediante Decreto Número 1335, de fecha 9 de agosto de 2012, publicado en el Periódico Oficial del Gobierno del Estado con fecha 10 de agosto de 2012.
+
+Una vez publicada esta Ley los recursos humanos y materiales de la actual Dirección Ejecutiva de sistema normativos internos del Instituto pasarán a forma parte del Consejo Estatal de Sistema Normativos Electorales indígenas.
+
+OCTAVO: El Congreso del Estado procederá en un plazo máximo de treinta días naturales a partir de la entrada en vigor del presente Decreto a elegir el (sic) Secretario Ejecutivo del Instituto Estatal Electoral y de Participación Ciudadana.
