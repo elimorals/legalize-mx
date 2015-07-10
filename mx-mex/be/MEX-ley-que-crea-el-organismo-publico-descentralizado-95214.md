@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-95214"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-18"
-last_updated: "2013-07-18"
+last_updated: "2015-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 10 DE JULIO DE 2015.
 
 Ley publicada en la Sección Cuarta de la Gaceta de Gobierno del Estado de México, el jueves 18 de julio de 2013.
 
@@ -129,13 +129,19 @@ IV. Cuatro vocales, que serán un representante de la Secretaría de Finanzas, u
 
 Por cada uno de los integrantes, el Consejo Directivo aprobará el nombramiento de un suplente, quien será propuesto por el propietario. El representante y suplente deberán tener como mínimo el nivel de Director General o su equivalente.
 
-Los miembros del Consejo Directivo tendrán derecho a voz y voto, con excepción del Secretario y del Comisario quienes sólo tendrán derecho de voz. Sus integrantes no tendrán una retribución adicional a su salario por el desempeño de estas actividades.
+> <small>(REFORMADO, G.G. 10 DE JULIO DE 2015)</small>
+
+Los miembros del Consejo Directivo tendrán derecho a voz y voto, con excepción del Secretario, del Comisario y de los representantes de la Procuraduría General de Justicia del Estado de México y Comisión Estatal de Seguridad Ciudadana, quienes sólo tendrán derecho de voz. Sus Integrantes no tendrán una retribución adicional a su salario por el desempeño de estas actividades.
 
 Los acuerdos del Consejo Directivo se tomarán por mayoría de votos.
 
 El Presidente deberá invitar a un representante de la sociedad civil, quien tendrá derecho a voz, pudiendo ser renovado periódicamente. Los criterios y métodos de selección del representante de la sociedad civil, serán los establecidos en el reglamento.
 
 Además, participará con voz el Contralor Municipal de que se trate, cuando el Consejo Directivo conozca de la responsabilidad de algún servidor público municipal, derivado de la aplicación del Convenio de Asunción de Funciones.
+
+> <small>(ADICIONADO, G.G. 10 DE JULIO DE 2015)</small>
+
+El Consejo Directivo podrá invitar a las sesiones a autoridades no pertenecientes al mismo, quienes solo tendrán derecho a voz.
 
 ###### Artículo 7.
 
@@ -239,7 +245,9 @@ XII. Presentar al Consejo Directivo un informe escrito, en el mes de marzo, que 
 
 XIII. Proporcionar a las autoridades los informes que le sean requeridos;
 
-XIV. Ordenar la práctica de inspecciones e investigaciones para verificar el cumplimiento de las obligaciones de los servidores públicos que puedan implicar inobservancia de sus deberes;
+> <small>(REFORMADA, G.G. 10 DE JULIO DE 2015)</small>
+
+XIV. Ordenar la práctica de inspecciones e investigaciones para verificar el cumplimiento de las obligaciones de los servidores públicos que puedan implicar inobservancia de sus deberes y derivado de los resultados que se generen emitir recomendaciones a la Comisión Estatal de Seguridad Ciudadana y a la Procuraduría General de Justicia del Estado de México, con motivo de las conductas irregulares que se detecten.
 
 XV. Recibir, tramitar, dar seguimiento y substanciar las quejas y denuncias, incluso las anónimas, con motivo del incumplimiento de las obligaciones de los servidores públicos;
 
@@ -251,7 +259,9 @@ XVIII. Rendir por escrito al Consejo Directivo informes trimestrales y los que �
 
 XIX. Ejecutar los operativos para detectar anomalías de los servidores públicos en la prestación del servicio;
 
-XX. Someter a consideración del Consejo Directivo las observaciones y recomendaciones que se formulen a otras autoridades;
+> <small>(REFORMADA, G.G. 10 DE JULIO DE 2015)</small>
+
+XX. Someter a consideración del Consejo Directivo las observaciones que se formulen a otras autoridades.
 
 XXI. Someter a la aprobación del Consejo Directivo el proyecto de resolución del procedimiento instaurado en contra de los servidores públicos;
 
@@ -263,7 +273,17 @@ XXIV. Comisionar a sus subordinados para llevar a cabo las técnicas de verifica
 
 XXV. Solicitar al Secretario de Seguridad Ciudadana y al Procurador General de Justicia del Estado de México que proporcionen las condiciones necesarias y adecuadas para llevar a cabo las técnicas de verificación;
 
-XXVI. Las demás que le confieran esta Ley, su Reglamento Interior y otros ordenamientos jurídicos.
+> <small>(REFORMADA, G.G. 10 DE JULIO DE 2015)</small>
+
+XXVI. Derivado de las denuncias y/o quejas recibidas en contra de los agentes del Ministerio Público, de la policía de investigación y de los peritos de la Procuraduría General de Justicia del Estado de México analizará que su actuación en la integración de la carpeta de investigación, sea acorde a los principios que rigen el servicio público.
+
+En caso de detectar probables irregularidades administrativas deberá solicitar a la Procuraduría General de Justicia del Estado de México, la evaluación técnica jurídica de la actuación sustantiva del personal.
+
+La evaluación técnica jurídica deberá ser rendida en el plazo de diez días hábiles, salvo excepción justificada, la cual, podrá ser considerada al momento de emitir la resolución correspondiente.
+
+> <small>(ADICIONADA, G.G. 10 DE JULIO DE 2015)</small>
+
+XXVII. Las demás que le confieran esta Ley, su Reglamento Interior y otros ordenamientos jurídicos.
 
 ###### Artículo 14.
 
@@ -376,3 +396,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MTRO. EFREN ROJAS DAVILA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 10 DE JULIO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
