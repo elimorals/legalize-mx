@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2015-06-17"
+last_updated: "2015-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE JULIO DE 2015.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -829,6 +829,8 @@ En este sentido, en los casos en que las áreas administrativas soliciten a la D
 
 ### CAPÍTULO SEXTO. DEL CESE
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL ARTÍCULO 51 Y ADICIONA EL ARTÍCULO 51 BIS DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 10 DE JULIO DE 2015)</small>
+
 ###### Artículo 31.
 
 Cuando, por cualquier medio, la Comisión de Disciplina, tenga conocimiento de actos constitutivos de responsabilidad administrativa imputables a un juez de Distrito o magistrado de Circuito, por manifiesto descuido en el ejercicio de sus funciones, y a la vez, existan elementos que hagan presumir que tales actos se realizaron como consecuencia de alguna enfermedad física o mental, que por su naturaleza pudiera impedir el adecuado ejercicio de la función jurisdiccional encomendada a los juzgadores, deberá decretar la suspensión del servidor público.
@@ -933,7 +935,15 @@ Las notificaciones de las resoluciones, que se dicten dentro del procedimiento e
 
 ###### Artículo 51.
 
-En caso de que un trabajador de base incurra en una causal de cese, los titulares de los órganos jurisdiccionales y de las áreas administrativas deberán ceñirse a las reglas que establece la Ley Federal de los Trabajadores al Servicio del Estado, y a los criterios correspondientes, aprobados por el Pleno.
+En caso de que un trabajador de base adscrito a un área administrativa incurra en una causal de cese, el titular deberá ceñirse a las reglas que establece la Ley Federal de los Trabajadores al Servicio del Estado, y a los criterios correspondientes, aprobados por el Pleno.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL ARTÍCULO 51 Y ADICIONA EL ARTÍCULO 51 BIS DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 10 DE JULIO DE 2015)</small>
+
+###### Artículo 51 Bis.
+
+En caso de que un trabajador de base adscrito a un órgano jurisdiccional incurra en una causal de cese, el titular podrá removerlo en uso de la facultad que le otorga el artículo 97 constitucional, debiendo levantar invariablemente un acta con las formalidades que establece el artículo 46 Bis de la Ley Federal de los Trabajadores al Servicio del Estado.
+
+En todo momento quedará a salvo el derecho de los trabajadores para demandar ante la Comisión Substanciadora Única del Poder Judicial de la Federación la reinstalación en su trabajo o la indemnización correspondiente, en caso de que consideren que su remoción fue injustificada.
 
 ###### Artículo 52.
 
@@ -2484,6 +2494,16 @@ Una vez que la madre haya tramitado su licencia de maternidad ante el ISSSTE, de
 ###### Artículo 236.
 
 Todas las madres, biológicas y adoptivas, tendrán derecho al período de lactancia, hasta que el recién nacido cumpla los seis meses de edad, en los términos de lo señalado por la Ley Federal de los Trabajadores al Servicio del Estado; es decir, dos períodos durante el día, de media hora cada uno. Las madres podrán decidir cómo aplicar su derecho de una hora de lactancia diaria, pudiendo optar por entrar una hora más tarde, salir una hora más temprano o ampliar su horario de comida. Esta decisión deberá ser informada por escrito, tanto a su superior jerárquico como al área administrativa que corresponda.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 10 DE JULIO DE 2015)</small>
+
+Artículo 236 bis. Los servidores públicos podrán solicitar licencia con goce de sueldo por concepto de cuidados maternos o paternos, cuando sus hijos o los menores de edad que tengan bajo su custodia o de los que sean tutores requieran de cuidados especiales con motivo de algún padecimiento grave, para lo cual deberán presentar constancia debidamente expedida por el ISSSTE.
+
+La licencia será concedida por todo el tiempo que señale la constancia del ISSSTE que se presente.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 10 DE JULIO DE 2015)</small>
+
+Artículo 236 ter. Para efectos del artículo anterior, si los dos padres o tutores, o quienes tienen la custodia del menor laboran en el Poder Judicial de la Federación, sólo a uno de ellos se le concederá la licencia.
 
 ###### Artículo 237.
 
@@ -10758,3 +10778,19 @@ SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su
 TERCERO. La Secretaría Ejecutiva de Administración, por conducto de sus áreas administrativas competentes, llevará a cabo las adecuaciones al Registro automatizado de entrada y salida de servidores públicos, y las demás acciones necesarias para la implementación del presente Acuerdo, dentro de los noventa días siguientes a la entrada en vigor del mismo.
 
 Durante dicho plazo quedará suspendido el Registro automatizado de entrada y salida de servidores públicos.
+
+D.O.F. 10 DE JULIO DE 2015.
+
+ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL ARTÍCULO 51 Y ADICIONA EL ARTÍCULO 51 BIS DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 10 DE JULIO DE 2015.
+
+ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA LOS ARTÍCULOS 236 BIS Y 236 TER DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
