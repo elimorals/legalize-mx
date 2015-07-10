@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-seguridad-escolar-para-el-estado-de-baja-california-6986
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2009-07-31"
+last_updated: "2015-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SEGURIDAD ESCOLAR PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2015.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 31 de julio de 2009.
 
@@ -131,7 +131,7 @@ II.- La expedición del reglamento de la presente ley;
 
 III.- Celebrar convenios de coordinación y ejecución a fin de cumplir los objetivos de la presente ley;
 
-IV.- Las demás atribuciones que conforme a ésta y las demás disposiciones legales aplicables le (sic) correspondan.
+IV.- Las demás atribuciones que conforme a ésta y las demás disposiciones legales aplicables (sic) le correspondan.
 
 ###### ARTÍCULO 9.
 
@@ -219,7 +219,9 @@ II.- Promover el respeto recíproco a la propiedad pública y privada;
 
 III.- Fomentar el compañerismo;
 
-IV.- Establecer, en coordinación con la autoridad del ramo, programas permanentes de formación e información, que aborden, entre otros, los temas de: cultura de la legalidad, principios y valores, equidad y género, prevención de adicciones, prevención de violencia social y escolar, educación sexual, prevención de abuso sexual, violencia intrafamiliar y educación vial;
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2015)</small>
+
+IV.- Establecer, en coordinación con la autoridad del ramo, programas permanentes de formación e información, que aborden, entre otros, los temas de: cultura de la legalidad, principios y valores, igualdad de género, prevención de adicciones, prevención de violencia social y escolar, educación sexual, prevención de abuso sexual, violencia intrafamiliar y educación vial;
 
 V.- Vigilar el aspecto sanitario del plantel educativo a su cargo;
 
@@ -448,3 +450,11 @@ NARCISO AGÚNDEZ MONTAÑO
 EL. C. SECRETARIO GENERAL DE GOBIERNO
 
 LUIS ARMANDO DÍAZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 10 DE JULIO DE 2015.
+
+###### ARTICULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
