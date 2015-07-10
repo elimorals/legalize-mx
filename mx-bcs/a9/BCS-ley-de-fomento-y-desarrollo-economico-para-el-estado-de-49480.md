@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-fomento-y-desarrollo-economico-para-el-estado-de-49480"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-20"
-last_updated: "2008-03-11"
+last_updated: "2015-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY DE FOMENTO Y DESARROLLO ECONOMICO PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-LEY DE FOMENTO Y DESARROLLO ECONOMICO PARA EL ESTADO DE BAJA CALIFORNIA SUR
+LEY DE FOMENTO Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE MARZO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2015.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 20 de febrero de 2006.
 
@@ -55,7 +55,9 @@ d) Contribuir al fortalecimiento y desarrollo económico sustentable en el Estad
 
 e) Promover la creación de empresas que generen nuevas fuentes de empleo atendiendo a una equitativa distribución de la riqueza;
 
-f) Estimular las inversiones en el Estado aprovechando racionalmente los recursos naturales y en apego a la normatividad vigente en materia ecológica, respetando la equidad de género y los grupos vulnerables;
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2015)</small>
+
+f) Estimular las inversiones en el Estado aprovechando racionalmente los recursos naturales y en apego a la normatividad vigente en materia ecológica, respetando la igualdad de género y los grupos vulnerables;
 
 g) Incrementar el desarrollo de la investigación que favorezca la productividad en el sistema económico y social;
 
@@ -209,7 +211,7 @@ VII. Un representante del Colegio de Contadores;
 
 VIII. Un representante del Colegio de Notarios Públicos;
 
-IX. Un representante del la Federación de Colegios de Profesionistas.
+IX. Un representante del (sic) la Federación de Colegios de Profesionistas.
 
 ###### ARTÍCULO 13.
 
@@ -329,7 +331,9 @@ VII. Disponibilidad de transporte;
 
 VIII. Aplicación de tecnología de control, tratamiento o reciclaje de residuos y emisiones contaminantes;
 
-IX. Equidad de género; y
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2015)</small>
+
+IX. Igualdad de género; y
 
 X. El beneficio Social.
 
@@ -527,8 +531,14 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 VÍCTOR MANUEL GULUARTE CASTRO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 11 DE MARZO DE 2008.
 
-ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Boja California Sur.
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JULIO DE 2015.
+
+###### ARTICULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
