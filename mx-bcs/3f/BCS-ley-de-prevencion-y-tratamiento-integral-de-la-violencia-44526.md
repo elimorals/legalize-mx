@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-prevencion-y-tratamiento-integral-de-la-violencia-44526"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-20"
-last_updated: "2008-03-31"
+last_updated: "2015-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY DE PREVENCION Y TRATAMIENTO INTEGRAL DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA SUR -ANTES LEY DE PREVENCION Y TRATAMIENTO INTEGRAL DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA SUR-
 
-LEY DE PREVENCION Y TRATAMIENTO INTEGRAL DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA SUR
+LEY DE PREVENCIÓN Y TRATAMIENTO INTEGRAL DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE MARZO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2015.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -83,9 +83,9 @@ IX. RELACIÓN FAMILIAR.- Se entiende en su forma más extensa, incluyendo, no s�
 
 X. PREVENCIÓN.- Medidas encaminadas a impedir la ejecución de actos que produzcan maltrato físico, psicológico, emocional, sexual o de abandono entre los integrantes de la familia.
 
-> <small>(REFORMADA, B.O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2015)</small>
 
-XI. ATENCIÓN.- Acciones, programas y estrategias que tienen por objeto salvaguardar la integridad y derechos de las personas receptoras, el tratamiento de las personas generadoras de violencia familiar, la promoción y difusión de una cultura que propicie la equidad y libertad en las familias y elimine gradualmente las causas y patrones que generan actos de violencia.
+XI.- ATENCIÓN.- Acciones, programas y estrategias que tienen por objeto salvaguardar la integridad y derechos de las personas receptoras, el tratamiento de las personas generadores (sic) de la violencia familiar, la promoción y difusión de una cultura que propicie la igualdad y libertad en las familias y elimine gradualmente las causas y patrones que generan actos de violencia.
 
 > <small>(REFORMADA, B.O. 31 DE MARZO DE 2008)</small>
 
@@ -201,11 +201,11 @@ Los organismos y dependencias de la administración pública del Estado y Munici
 
 ### CAPÍTULO PRIMERO. DE LA PREVENCIÓN
 
-> <small>(REFORMADO, B.O. 31 DE MARZO DE 2008)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 22.
 
-La prevención de la violencia familiar estará orientada a propiciar una cultura que favorezca y coadyuve a crear un marco de libertad y equidad entre las personas que integran las familias, eliminando las causas y patrones que generan y refuerzan la violencia familiar, con el propósito de erradicarla.
+La prevención de la violencia intrafamiliar estará orientada a propiciar una cultura que favorezca y coadyuve a crear un marco de libertad e igualdad entre las personas que integran la familia, eliminando las causas y patrones que generan y refuerzan la violencia familiar, con el propósito de erradicarla.
 
 ###### ARTÍCULO 23.
 
@@ -316,3 +316,9 @@ B.O. 31 DE MARZO DE 2008.
 PRIMERO.- El presente decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+B.O. 10 DE JULIO DE 2015.
+
+###### ARTICULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
