@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-derechos-y-productos-del-estado-de-baja-california-66135
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-24"
-last_updated: "2013-01-31"
+last_updated: "2015-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCS"
 
 LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 31 DE ENERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2015.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 24 de diciembre de 2008.
 
@@ -723,11 +721,21 @@ VIII. Publicidad en eventos locales de
 
 bebidas alcohólicas; 17
 
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2015)</small>
+
 IX. Permiso de traslado de cadáveres
 
-dentro del territorio del Estado de Baja
+hacia las distintas cabeceras, delegaciones
 
-California Sur; 23
+o subdelegaciones de los
+
+municipios del Estado:
+
+De 0 hasta 50 kilómetros 5
+
+Por cada tramo adicional de hasta
+
+50 kilómetros 1
 
 X. Permiso de traslado de cadáveres a
 
@@ -1334,3 +1342,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría de Salud del Estado, emitirá y dará a conocer en el Boletín Oficial del Gobierno del Estado, las disposiciones a que se refiere el Artículo 21 de esta Ley, en un plazo que no exceda de los 60 días posteriores a la entrada en vigor del presente Decreto.
+
+B.O. 10 DE JULIO DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
