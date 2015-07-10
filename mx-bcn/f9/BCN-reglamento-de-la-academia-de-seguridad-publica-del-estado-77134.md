@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-academia-de-seguridad-publica-del-estado-77134
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-15"
-last_updated: "2015-02-13"
+last_updated: "2015-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ACADEMIA DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2015.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 15 de octubre de 2010.
 
@@ -1097,11 +1097,11 @@ a) Haber concluido los estudios de enseñanza media-superior ó equivalente;
 
 b) Tener edad mínima de 19 años y máxima de 35 años;
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2015)</small>
+(REFORMADO, P.O. 13 DE FEBRERO DE 2015) (REPUBLICADO, P.O. 10 DE JULIO DE 2015)
 
 c) Estatura mínima de 1.60 metros en hombres y 1.55 metros en mujeres;
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2015)</small>
+(REFORMADO, P.O. 13 DE FEBRERO DE 2015) (REPUBLICADO, P.O. 10 DE JULIO DE 2015)
 
 d) Tener residencia mínima en el Estado de tres años;
 
@@ -1115,11 +1115,11 @@ a) Haber concluido los estudios de enseñanza superior ó equivalente;
 
 b) Tener edad mínima de 21 años y máxima de 40 años;
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2015)</small>
+(REFORMADO, P.O. 13 DE FEBRERO DE 2015) (REPUBLICADO, P.O. 10 DE JULIO DE 2015)
 
 c) Estatura mínima de 1.60 metros en hombres y 1.55 metros en mujeres;
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2015)</small>
+(REFORMADO, P.O. 13 DE FEBRERO DE 2015) (REPUBLICADO, P.O. 10 DE JULIO DE 2015)
 
 d) Tener residencia mínima en el Estado de tres años;
 
@@ -1133,7 +1133,7 @@ a) Haber concluido los estudios de enseñanza media-básica ó equivalente;
 
 b) Tener edad mínima de 19 años y máxima de 45 años;
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2015)</small>
+(REFORMADO, P.O. 13 DE FEBRERO DE 2015) (REPUBLICADO, P.O. 10 DE JULIO DE 2015)
 
 c) Estatura mínima de 1.60 metros en hombres y 1.55 metros en mujeres;
 
@@ -1244,3 +1244,9 @@ SECRETARIO DE SEGURIDAD PÚBLICA
 P.O. 13 DE FEBRERO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 10 DE JULIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
