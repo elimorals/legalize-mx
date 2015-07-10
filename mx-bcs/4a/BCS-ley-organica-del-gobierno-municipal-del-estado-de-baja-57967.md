@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-gobierno-municipal-del-estado-de-baja-57967"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-10-10"
-last_updated: "2014-12-10"
+last_updated: "2015-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2015.
 
 Ley publicada en el Extraordinario Número 45-Bis al Boletín Oficial del Estado de Baja California Sur, el miércoles 10 de octubre de 2007.
 
@@ -579,7 +579,9 @@ l) Contar con un registro del acontecer histórico local y nombrar al cronista m
 
 m) Promover la atención para el desarrollo integral de la mujer, para lograr su incorporación plena y activa en todos los ámbitos; y
 
-n) Promover y establecer las medidas o programas tendientes a fortalecer los valores de la familia, el respeto, igualdad y equidad de género entre los habitantes del municipio.
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2015)</small>
+
+n) Promover y establecer las medidas o programas tendientes a fortalecer los valores de la familia, el respeto, y la igualdad entre los habitantes del municipio.
 
 VI.- Las demás que le confieran las leyes y reglamentos para el cumplimiento de sus funciones.
 
@@ -2420,3 +2422,9 @@ B.O. 10 DE DICIEMBRE DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- En un plazo no mayor a 30 días hábiles, los Ayuntamientos de la Entidad proveerán en la esfera administrativa todas las acciones necesarias a fin de crear su correspondiente Coordinación Municipal para la Inclusión de las Personas con Discapacidad.
+
+B.O. 10 DE JULIO DE 2015.
+
+###### ARTICULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
