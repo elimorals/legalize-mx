@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-salud-para-el-estado-de-baja-california-sur-43850"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2015-06-20"
+last_updated: "2015-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2015.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el día 31 de diciembre de 2004.
 
@@ -965,7 +965,9 @@ III.- Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro
 
 IV.- Promover la participación voluntaria de profesionales, técnicos y auxiliares de la salud en actividades docentes o técnicas; y
 
-V.- Impartir cursos de sensibilización en materia de género y equidad, al personal de salud en todos los niveles.
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2015)</small>
+
+V.- Impartir cursos de sensibilización en materia de igualdad de género al personal de salud en todos los niveles.
 
 ###### ARTÍCULO 96.
 
@@ -1687,7 +1689,7 @@ Los propietarios, encargados o responsables de los establecimientos en que se ex
 
 ###### ARTÍCULO 181.
 
-Se prohíibe el consumo de bebidas alcohólicas en el interior de planteles educativos, cementerios, oficinas públicas, centros de trabajo, así como en cualquier lugar en que exista concentración pública de menores de edad.
+Se prohíbe el consumo de bebidas alcohólicas en el interior de planteles educativos, cementerios, oficinas públicas, centros de trabajo, así como en cualquier lugar en que exista concentración pública de menores de edad.
 
 Así mismo queda prohibida la publicidad de bebidas alcohólicas en todas sus formas, en eventos infantiles de cualquier naturaleza.
 
@@ -3244,3 +3246,9 @@ B.O. 20 DE JUNIO DE 2015.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- La Junta de Gobierno tendrá un plazo que no excederá de 60 días hábiles, posteriores a la entrada en vigor del presente Decreto para la expedición del Reglamento Interior del REPSS.
+
+B.O. 10 DE JULIO DE 2015.
+
+###### ARTICULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
