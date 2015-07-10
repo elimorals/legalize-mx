@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-educacion-del-estado-de-queretaro-69512"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2014-05-02"
+last_updated: "2015-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -251,13 +251,17 @@ XVII. Fomentar el conocimiento y la práctica habitual en los educandos, de los 
 
 XVIII. Formular y ejecutar programas y acciones tendientes a fortalecer la autonomía de gestión de las escuelas de conformidad con las leyes federales aplicables;
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2015)</small>
 
-XIX. Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente, como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad; y
+XIX. Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente, como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad;
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2015)</small>
 
-XX. Proporcionar los principios básicos de protección civil, migración y adaptación ante los efectos que presenta el cambio climático y otros fenómenos naturales.
+XX. Proporcionar los principios básicos de protección civil, migración y adaptación ante los efectos que presenta el cambio climático y otros fenómenos naturales; y
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2015)</small>
+
+XXI. Fomentar programas, políticas y foros, tendientes a sensibilizar y concientizar a educandos y padres de familia, sobre el problema del acoso escolar y violencia entre los alumnos, con la finalidad de diagnosticar, prevenir y erradicar estas prácticas en el sistema educativo.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
@@ -341,13 +345,15 @@ Las autoridades educativas locales participarán en la actualización e integrac
 
 XVI. Participar con la autoridad educativa federal, en la operación de los mecanismos de administración escolar;
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2015)</small>
 
-XVII. Realizar la planeación y la programación globales del sistema educativo estatal atendiendo las directrices emitidas por el Instituto Nacional para la Evaluación de la Educación y participar en las tareas de evaluación de su competencia de conformidad con los lineamientos que para tal efecto emita dicho organismo; y
+XVII. Realizar la planeación y la programación globales del sistema educativo estatal, atendiendo las directrices emitidas por el Instituto Nacional para la Evaluación de la Educación y participar en las tareas de evaluación de su competencia, de conformidad con los lineamientos que para tal efecto emita dicho organismo;
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2015)</small>
 
-XVIII. Las demás que establezcan las leyes federales educativas, esta Ley y otras disposiciones aplicables.
+XVIII. Fomentar programas, políticas y foros, tendientes a sensibilizar y concientizar a educandos y padres de familia, sobre el problema del acoso escolar y violencia entre los alumnos, con la finalidad de diagnosticar, prevenir y erradicar estas prácticas en el sistema educativo; y
+
+XIX. Las demás que establezcan las leyes federales educativas, esta Ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2014)</small>
 
@@ -419,9 +425,11 @@ XVIII. Ejercer sus atribuciones concernientes a la autonomía de gestión de las
 
 XIX. Promover y prestar servicios educativos distintos a los previstos en las fracciones I y IV del artículo 13 de acuerdo a las necesidades nacionales, regionales y estatales;
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2015)</small>
 
-XX. Las demás que establezcan este ordenamiento y otras leyes aplicables.
+XX. Promover programas y políticas tendientes a diagnosticar, prevenir y erradicar el acoso escolar y la no violencia en cualquier tipo de sus manifestaciones; y
+
+XXI. Las demás que establezcan este ordenamiento y otras leyes aplicables.
 
 Las autoridades educativas del Estado promoverán, con las autoridades federales, la celebración de convenios para la prestación eficaz de los servicios educativos a que se refiere este artículo.
 
@@ -455,9 +463,9 @@ VII. Integrar el Consejo Municipal de Participación Social en la Educación, qu
 
 VIII. Coadyuvar en la implementación de la educación indígena, en aquellos casos donde existan pueblos y comunidades con esta característica;
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2015)</small>
 
-IX. Realizar cursos, talleres y programas de atención, control y vigilancia, que ayuden a detectar, tratar y dar seguimiento a fenómenos de violencia o hechos delictivos en contra de los educandos, los cuales se realizarán en coordinación con los padres de familia y/o asociación de padres de familia, así como con las autoridades respectivas, especialistas en la materia;
+IX. Realizar cursos, talleres y programas de atención, control y vigilancia, que ayuden a detectar, tratar y dar seguimiento a fenómenos de violencia, acoso escolar o hechos delictivos en contra de los educandos, los cuales se realizarán en coordinación con los padres de familia y/o asociación de padres de familia, así como con las autoridades respectivas, especialistas en la materia;
 
 > <small>(ADICIONADA, P.O. 12 DE MARZO DE 2014)</small>
 
@@ -781,9 +789,9 @@ XIII. Prestarán servicios educativos para atender a discapacitados y educandos 
 
 XIV. Atenderán, detectarán y darán tratamiento a educandos con problemas conductuales y de bajo rendimiento escolar o cognitivo, a través de psicólogos permanentes en los planteles escolares y de las demás acciones que determine la autoridad educativa;
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2015)</small>
 
-XV. Efectuarán programas permanentes dirigidos a promover el ejercicio de los derechos de las niñas, niños y adolescentes, que tengan como objetivo asegurarles un desarrollo pleno e integral, con la oportunidad de formarse física, mental, emocional, social y moralmente en condiciones de igualdad en cada una de sus etapas de crecimiento;
+XV. Efectuar programas permanentes dirigidos a promover el ejercicio de los derechos de las niñas, niños y adolescentes, promoviendo el respeto entre los alumnos y previniendo el acoso escolar, que tengan como objetivo asegurarles un desarrollo pleno e integral, con la oportunidad de formarse física, mental, emocional, social y moralmente en condiciones de igualdad en cada una de sus etapas de crecimiento;
 
 > <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
 
@@ -1790,3 +1798,9 @@ P.O. 2 DE MAYO DE 2014.
 Artículo Primero. La presente Ley reforma (sic) entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
 
 Artículo Segundo. Remítase esta Ley al titular del Poder Ejecutivo, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 10 DE JULIO DE 2015.
+
+Artículo Primero. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
