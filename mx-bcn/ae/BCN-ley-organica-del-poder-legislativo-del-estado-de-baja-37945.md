@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2015-01-09"
+last_updated: "2015-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO NUMERO 138 PUBLICADO EN EL P.O. DE 9 DE ENERO DE 2015, LA PRESENTE REFORMA ENTRA EN VIGOR QUINCE DÍAS DESPUÉS DE SU APROBACIÓN.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2015.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -251,21 +249,21 @@ III.- Democrático, para garantizar la participación equitativa de todos los Gr
 
 ARTICULO 16 QUARTER (SIC).- El Plan se elaborará, aprobará, controlará, evaluará y coordinará conforme a los siguientes procedimientos y plazos:
 
-> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2015)</small>
 
 I.- La Junta de Coordinación Política, es el órgano de gobierno del Congreso del Estado, encargado de organizar los trabajos para la elaboración del Plan;
 
 II.- Durante los meses de octubre y noviembre del primer periodo de sesiones del inicio de una Legislatura, cada Diputado a través de su Coordinador del Grupo Parlamentario correspondiente enviará sus propuestas para elaborar la Agenda Legislativa Básica;
 
-> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2015)</small>
 
 III.- La Agenda Legislativa Básica será consensuada y acordada por los integrantes de la Junta de Coordinación Política antes de concluir el primer período de sesiones de inicio de la Legislatura, para ser incorporada al Plan;
 
-> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2015)</small>
 
-IV.- La Junta de Coordinación Política podrá incorporar al Plan, las propuestas de la Biblioteca, los Institutos y el Órgano de Fiscalización del Estado, para la mejora continua de sus funciones y servicios mediante la optimización de sus estructuras y organización técnica de los recursos materiales y humanos disponibles, antes de concluir el primer período de sesiones del inicio de la Legislatura;
+IV.- La Junta de Coordinación Política podrá incorporar al Plan, las propuestas de la Biblioteca, los Institutos y el Órgano de Fiscalización del Estado, para la mejora continua de sus funciones y servicios mediante la optimización de sus estructuras y organización técnica de los recursos materiales y humanos disponibles, antes de concluir el primer período de sesiones del inicio de la legislatura;
 
-> <small>(REFORMADA, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2015)</small>
 
 V.- Los integrantes de la Junta de Coordinación Política deberán procurar que el anteproyecto de Plan se encuentre completo al iniciar el segundo período de sesiones del inicio de la Legislatura, habiendo incluido los objetivos, estrategias y líneas de acción en materia de legislación, fiscalización del gasto público, gestoría comunitaria y modernización institucional;
 
@@ -397,7 +395,7 @@ I.- Al pasar el Secretario lista de asistencia, no digan presente o no se encuen
 
 II.- Al realizarse alguna votación, no emitan el sentido de su voto.
 
-> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 23.
 
@@ -555,7 +553,7 @@ Los Grupos Parlamentarios dispondrán de locales adecuados en las instalaciones 
 
 ### CAPITULO I. ESTRUCTURA ORGANICA
 
-> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 36.
 
@@ -811,7 +809,7 @@ XI.- Hacer que se entreguen a las Comisiones los asuntos que le correspondan a m
 
 XII.- Las demás que se deriven de la Constitución Local, de esta Ley, sus Reglamentos y de las disposiciones o acuerdos que emita el Congreso del Estado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
 
 ARTICULO 53 BIS.- Son atribuciones del Secretario Escrutador:
 
@@ -925,7 +923,7 @@ La comisión que requiere información de otra, la solicita directamente a trav�
 
 Las comisiones pueden resolver por sí mismas los asuntos cuya naturaleza y trascendencia así lo requieran, sin que contravengan los ordenamientos relativos.
 
-> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 57.
 
@@ -1047,7 +1045,7 @@ A todas estas comisiones les corresponderá, además de las facultades y atribuc
 
 ###### ARTICULO 61.
 
-(DEROGADO, G.P. 14 DE OCTUBRE DE 2010)
+(DEROGADO, P.O. 10 DE JULIO DE 2015)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.P. 14 DE OCTUBRE DE 2010)</small>
 
@@ -1197,7 +1195,7 @@ Para el cumplimiento de sus atribuciones, la Comisión de Fiscalización del Gas
 
 La Comisión de Fiscalización del Gasto Público podrá solicitar al Instituto de Opinión Ciudadana, Estudios Económicos y Sociales el estudio, análisis y opinión de los asuntos que le encomiende.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 67.
 
@@ -1205,27 +1203,27 @@ Corresponde a la Comisión de Administración y Finanzas, el conocimiento, estud
 
 I.- Poner a la consideración de la Comisión de Legislación y Puntos Constitucionales, las políticas, manuales de organización y funciones de los Órganos Técnico-Administrativos señalados en el artículo 40 de esta Ley, así como las relativas a dicha Comisión, para incorporarse a los Reglamentos de la presente Ley;
 
-> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2015)</small>
 
 II.- Elaborar el anteproyecto de Presupuesto Anual de Egresos del Poder Legislativo, con base en los montos, metas y programas que hubieren formulado los Órganos de Apoyo Parlamentario y Administrativos señalados en el artículo 40 de esta Ley y el Órgano de Fiscalización Superior y, ponerlo a la consideración de la Junta de Coordinación Política para los fines previstos en esta Ley;
 
-> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2015)</small>
 
 III.- Solicitar opinión a las Comisiones cuya actividad y funciones se encuentren relacionadas con los servicios que prestan los Órganos de Apoyo Parlamentario y Administrativo o el Órgano de Fiscalización Superior, con relación a las necesidades presupuestales planteadas por dichos Órganos;
 
-> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2015)</small>
 
 IV.- Someter a la consideración de la Junta de Coordinación Política, el anteproyecto de Presupuesto Anual de Egresos del Poder Legislativo, cuidando que el monto del presupuesto que se proponga sea suficiente para que cada uno de los Órganos de Apoyo Parlamentario, Administrativo y el Órgano de Fiscalización Superior, cumplan eficientemente con sus atribuciones y funciones legales, reglamentarias y programáticas;
 
-> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2015)</small>
 
 V.- Evaluar el avance presupuestal y programático de cada uno de los Órganos de Apoyo Parlamentario y Administrativo del Congreso;
 
-> <small>(REFORMADA, G.P. 27 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2015)</small>
 
 VI.- Supervisar el desempeño de las áreas de apoyo Administrativo, evaluando y proponiendo medidas que tiendan a eficientar su labor; y,
 
-> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2015)</small>
 
 VII.- Presentar a la Junta de Coordinación Política, las propuestas de nombramiento o remoción del Titular de la Dirección de Programación y Gasto Interno.
 
@@ -1289,19 +1287,19 @@ Su participación será para efecto de informar, respecto de los motivos y razon
 
 Los miembros de las Comisiones no tendrán derecho a ninguna retribución adicional a su dieta como diputados.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
 
-### CAPITULO III. DE LOS ÓRGANOS DE APOYO PARLAMENTARIO Y ADMINISTRATIVO
+### CAPÍTULO III. DE LOS ÓRGANOS DE APOYO PARLAMENTARIO Y ADMINISTRATIVO
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
 
-#### SECCION I
+#### SECCIÓN I
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2015)</small>
 
 A. DE LA SECRETARÍA DE SERVICIOS ADMINISTRATIVOS
 
-> <small>(REFORMADO Y REUBICADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 76.
 
@@ -1331,7 +1329,7 @@ La Secretaría de Servicios Administrativos implementará el programa de adminis
 
 Asimismo la Secretaría de Servicios Administrativos, por conducto de la Dirección General de Administración, emitirá e implementará programas de capacitación para el personal de nuevo ingreso del Congreso del Estado, así como programas de capacitación permanente para todos sus servidores públicos, según la naturaleza de las funciones que desempeñen.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
 
 B. DE LA SECRETARÍA DE SERVICIOS PARLAMENTARIOS
 
@@ -1365,7 +1363,7 @@ El desempeño de las atribuciones y obligaciones de la Secretaría de Servicios 
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.P. 27 DE AGOSTO DE 2013)</small>
 
-#### SECCION IV. DE LA DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS
+#### SECCIÓN IV. DE LA DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS
 
 > <small>(REFORMADO, G.P. 27 DE AGOSTO DE 2013)</small>
 
@@ -1413,7 +1411,7 @@ El Congreso del Estado contará con una Contraloría Interna, cuyo titular será
 
 La Contraloría Interna es un órgano dependiente del Pleno del Congreso del Estado, que lo auxilia en las funciones de control y evaluación del desempeño de las áreas administrativas de los Órganos de Apoyo Parlamentario y Administrativo y del Órgano de Fiscalización Superior, así como en la atención de quejas, investigación, procedimientos disciplinarios e imposición de sanciones del personal adscrito a los mismos, conforme lo dispone la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, esta Ley y su Reglamento. Además, tiene a su cargo la revisión, inspección y auditoría interna del ejercicio del presupuesto de egresos del Congreso.
 
-> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
 
 #### SECCION VI. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL
 
@@ -1547,7 +1545,7 @@ II.- Conocer e investigar los actos, omisiones o conductas de los servidores pú
 
 III.- Atender las quejas o denuncias que se presenten mediante escrito firmado, por particulares o servidores públicos de los Ayuntamientos o de los Poderes Ejecutivo y Judicial, con motivo del incumplimiento de las obligaciones de los servidores públicos del Congreso del Estado.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 83.
 
@@ -1635,13 +1633,13 @@ El Congreso del Estado deberá celebrar sus sesiones en el salón denominado "Be
 
 Las Comisiones sesionarán en las salas de juntas ubicadas en el edificio del Poder Legislativo o en los lugares que para tal efecto se acuerde en cada una de ellas con anterioridad y previa autorización de sus integrantes, debiendo de notificar de su cambio a la Presidencia del Congreso para los efectos de hacerla pública.
 
-> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 91.
 
 De toda sesión se levantará versión taquigráfica, estenográfica o con ayuda de medios electrónicos adecuados para ello, por personal especializado de la Secretaría de Servicios Parlamentarios, debiendo transcribir exactamente lo dicho en la Sesión. Esta transcripción será publicada en la página de internet o en la Gaceta Parlamentaria cuando así lo disponga obligatoriamente esta ley o lo acuerde la Comisión, pero en todo caso se guardará registro electrónico de la misma. La falta de esta acción acarreará responsabilidades para el titular de la Secretaría de Servicios Parlamentarios.
 
-> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 92.
 
@@ -1819,7 +1817,7 @@ Sin perjuicio de lo anterior, en las sesiones solemnes, se entonará el Himno Na
 
 ###### ARTICULO 108.
 
-(DEROGADO, G.P. 14 DE OCTUBRE DE 2010)
+(DEROGADO, P.O. 10 DE JULIO DE 2015)
 
 ###### ARTICULO 109.
 
@@ -1853,11 +1851,11 @@ Son Iniciativas de ley, las que tiendan a una resolución que contemple la forma
 
 Son Iniciativas de reformas de ley, las que tiendan a introducir reformas consistentes en modificación, derogación o adición a un ordenamiento jurídico vigente.
 
-> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 113.
 
-Es Iniciativa con proyecto de decreto aquella que tienda a una resolución que otorgue derechos o imponga obligaciones a determinadas personas físicas o morales en mandamientos particulares y concretos.
+Es iniciativa con proyecto de decreto aquella que tienda a una resolución que otorgue derechos o imponga obligaciones a determinadas personas físicas o morales en mandamientos particulares y concretos.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2014)</small>
 
@@ -1945,7 +1943,7 @@ Solo podrá dispensarse del trámite de ser turnada una iniciativa o proposició
 
 Además de lo señalado en el párrafo anterior, para la procedencia de la dispensa de trámite resultará necesario cuando menos la existencia de determinados hechos que generen una condición de urgencia en la discusión y aprobación de una iniciativa de ley o decreto, que de no realizarse traería consecuencias negativas para la sociedad. Así mismo, la condición de urgencia deberá evidenciar la necesidad de omitirse los trámites parlamentarios correspondientes, sin que esto implique la afectación a principios o valores democráticos.
 
-> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 120.
 
@@ -2333,15 +2331,15 @@ Los servidores públicos que no concurran a las sesiones correspondientes, se ha
 
 Para la designación de los Servidores Públicos que por disposición Constitucional o Legal le corresponda realizar al Poder Legislativo, se atenderá al procedimiento previsto en el Reglamento, excepto en los casos en que dicho procedimiento se encuentre regulado por otro ordenamiento legal.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
 
-## TITULO OCTAVO
+## TÍTULO OCTAVO
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
 
-### CAPITULO PRIMERO. DECLARACIÓN PATRIMONIAL
+### CAPÍTULO PRIMERO. DECLARACIÓN PATRIMONIAL
 
-> <small>(REFORMADO Y REUBICADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 168.
 
@@ -2353,9 +2351,9 @@ Tienen la obligación de presentar su declaración de situación patrimonial en 
 
 La declaración patrimonial será presentada ante la Contraloría Interna del Congreso del Estado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
 
-### CAPITULO SEGUNDO. DE LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN PÚBLICA
+### CAPÍTULO SEGUNDO. DE LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN PÚBLICA
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO PRIMER PÁRRAFO], G.P. 14 DE OCTUBRE DE 2010)</small>
 
@@ -2383,9 +2381,9 @@ La Dirección de Garantía de Acceso y Transparencia de la Información será el
 
 Todas las quejas o denuncias del personal del Congreso del Estado, se presentarán ante la Contraloría Interna.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
 
-## TITULO NOVENO. DE LA GACETA Y EL DIARIO DE LOS DEBATES DEL CONGRESO DEL ESTADO
+## TÍTULO NOVENO. DE LA GACETA Y EL DIARIO DE LOS DEBATES DEL CONGRESO DEL ESTADO
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
 
@@ -2457,7 +2455,7 @@ XIX. Los demás documentos oficiales que dispongan la Mesa y la Junta.
 
 La Gaceta se publica los días cuando sesiona el Pleno y podrá publicarse los demás días hábiles.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 172.
 
@@ -2483,7 +2481,7 @@ El Congreso del estado cuenta con un órgano oficial de información denominado 
 
 10. Textos no leídos cuya inserción ordenan el Presidente o el Pleno;
 
-11. Documentos a los que se de turno;
+11. Documentos a los que se dé turno;
 
 12. Propuestas y resoluciones aprobadas;
 
@@ -2605,9 +2603,7 @@ G.P. 14 DE OCTUBRE DE 2010.
 
 PRIMERO.- Se derogan las disposiciones que contravengan el presente Decreto.
 
-(NOTA: EL 18 DE MARZO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CAPÍTULOS XV Y XVI ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 70/2010 (CONEXA CON LA CONTROVERSIA CONSTITUCIONAL 84/2010), DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO SEGUNDO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 09 DE ABRIL DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-SEGUNDO.- TODA VEZ QUE LAS PRESENTES REFORMAS SOLO IMPLICAN MODIFICACIONES AL RÉGIMEN INTERNO DEL PODER LEGISLATIVO, ENTRARÁN EN VIGOR AL MOMENTO DE SU APROBACIÓN POR EL PLENO DEL CONGRESO DEL ESTADO Y SE PUBLICARÁN EN LA GACETA DEL PODER LEGISLATIVO.
+SEGUNDO.- Toda vez que las presentes reformas solo implican modificaciones al régimen interno del Poder Legislativo, entrarán en vigor al momento de su aprobación por el Pleno del Congreso del Estado y se publicarán en La Gaceta del Poder Legislativo.
 
 TERCERO.- Los Órganos de Apoyo Parlamentario y Administrativo que se agregan a la Estructura Orgánica del Poder Legislativo, iniciarán sus funciones conforme lo permita la disponibilidad presupuestal del Congreso del Estado de Baja California. Corresponderá a la Comisión de Administración y Finanzas la asignación de los recursos que se requieran para su adecuado funcionamiento.
 
@@ -2744,3 +2740,15 @@ DECRETO No. 154, POR EL QUE SE APRUEBA LA REFORMA Y ADICIÓN AL ARTÍCULO 117 EN
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su aprobación por el Pleno del Congreso del Estado y consecuentemente publíquese en la Gaceta Parlamentaria del Poder Legislativo del Estado de Baja California.
 
 SEGUNDO.- Una vez aprobada la presente reforma por el Congreso del Estado, remítase al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 10 DE JULIO DE 2015.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL DECRETO No. 294.</small>
+
+PRIMERO.- En cumplimiento a la resolución dictada por la Suprema Corte (sic) de la Nación derivada de la controversia constitucional Número 70/2010 conexa con la controversia constitucional 84/2010, de fecha 18 marzo de 2014, por la que se resuelve que el Decreto Número 1, de fecha 2 de octubre de dos mil diez, que refiere a diversas reformas a la Ley Orgánica del Poder Legislativo del Estado, este H. Congreso debe dar continuidad al proceso legislativo, en cuanto a diversos artículos que no sufrieron reformas desde el dos de octubre de dos mil diez hasta la actualidad, por lo que se somete a consideración de esta máxima asamblea plenaria la aprobación de los artículos siguientes: ARTÍCULOS 16 QUATER, FRACCIONES I, III, IV Y V; 23; 36; 53 BIS; 57; 61; 67, FRACCIONES DE LA II A LA VII; 76, 81; 91; 92; 108; 113; 120; 168 Y 172, LAS DENOMINACIONES DEL CAPÍTULO III, Y LAS SECCIONES I Y IV; Y LAS DENOMINACIONES DE LOS TÍTULOS OCTAVO Y NOVENO, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO, PARA QUEDAR EN LOS TÉRMINOS SIGUIENTES: …
+
+SEGUNDO.- EN ACATAMIENTO A LA RESOLUCIÓN DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DERIVADO DE LA CONTROVERSIA CONSTITUCIONAL NÚMERO 70/2010 CONEXA CON LA CONTROVERSIA CONSTITUCIONAL 84/2010, DE FECHA 18 MARZO DE 2014, SE PROCEDE A DECLARAR INVÁLIDO EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NO. 01, DE FECHA DOS DE OCTUBRE DE DOS MIL DIEZ, MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA.
+
+TERCERO.- NOTÍFIQUESE A LA SUPREMA CORTE DE JUSTICA (SIC) DE LA NACIÓN EL CABAL CUMPLIMIENTO DE EJECUTORIA 70/2010 CONEXA CON LA CONTROVERSIA CONSTITUCIONAL 84/2010, DE FECHA 18 MARZO DE 2014, REMITIÉNDOSE COPIA CERTIFICADAS DE LAS DOCUMENTALES QUE ASI LO JUSTIFIQUEN.
+
+ARTÍCULO TRANSITORIO ÚNICO.- Una vez aprobadas las presentes reformas, remítanse al titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Estado de Baja California.
