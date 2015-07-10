@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-competitividad-y-ordenamiento-comercial-del-estado-10396
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-18"
-last_updated: "2015-01-13"
+last_updated: "2015-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "MEX"
 ---
 # LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE AGOSTO DE 2015 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS 90 DÍAS NATURALES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 13 DE ENERO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO 367 PUBLICADO EN LA G.G. DE 18 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 10 DE JULIO DE 2015.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 18 de diciembre de 2014.
 
@@ -1063,6 +1061,20 @@ VII. Contar con la evidencia documental y fotográfica que permita acreditar el 
 
 Se negará el Dictamen de Factibilidad de Impacto Sanitario cuando se incumpla con cualquiera de los requisitos establecidos en esta Ley.
 
+> <small>(ADICIONADO, G.G. 10 DE JULIO DE 2015)</small>
+
+###### Artículo 79 Bis.
+
+Los dictámenes de factibilidad de impacto sanitario pueden ser revocados a juicio del Consejo Rector, por las causas siguientes:
+
+I. Se compruebe que la información proporcionada para su expedición es falsa y/o que alguno de los documentos es apócrifo.
+
+II. Cuando las actividades de la unidad económica de que se trate representen un riesgo para la tranquilidad, segundad (sic) o salud de los usuarios, dependientes o personal ocupacionalmente expuesto.
+
+III. Cuando la unidad económica incumpla con el horario autorizado.
+
+IV. Cuando la unidad económica venda o suministre bebidas alcohólicas a menores de edad o incapaces, independientemente de la responsabilidad administrativa o penal que pudiera generarse.
+
 ###### Artículo 80.
 
 En las unidades económicas donde se vendan o suministren bebidas alcohólicas, se prohíbe su venta o suministro a menores de edad, por lo que se pedirá identificación oficial vigente, para verificar que se trate de un mayor de 18 años.
@@ -1135,7 +1147,13 @@ VII. Crear oficinas regionales para la expedición del Dictamen de Factibilidad 
 
 VIII. Tomar los acuerdos que se consideren necesarios para orientar las acciones que den cumplimiento a los fines del Consejo Rector de Impacto Sanitario.
 
-IX. Adoptar las demás acciones necesarias para el cumplimiento de su objeto.
+> <small>(REFORMADA, G.G. 10 DE JULIO DE 2015)</small>
+
+IX. Solicitar la colaboración de las dependencias del Ejecutivo del Estado, organismos auxiliares de carácter estatal o municipal, para comprobar el cumplimiento de los requisitos para la expedición del Dictamen de Factibilidad de Impacto Sanitario, en los términos, condiciones y requisitos establecidos en la autorización.
+
+> <small>(ADICIONADA, G.G. 10 DE JULIO DE 2015)</small>
+
+X. Adoptar las demás acciones necesarias para el cumplimiento de su objeto.
 
 ### CAPÍTULO VII. DE LAS UNIDADES ECONÓMICAS DESTINADAS PARA LA ENAJENACIÓN, REPARACIÓN O MANTENIMIENTO DE VEHÍCULOS AUTOMOTORES USADOS Y AUTOPARTES NUEVAS Y USADAS
 
@@ -2344,3 +2362,21 @@ EL SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 10 DE JULIO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+CUARTO. Se deberán adecuar los acuerdos, convenios y demás disposiciones (sic) materia de salud que contemplen la regulación, control y fomento sanitarios entre (sic) Estado de México y la Federación, para que los ejerza la COPRISEM a la entrada en vigor del presente decreto, entretanto se seguirán aplicando los vigentes de común acuerdo con el Instituto de Salud del Estado de México y la Secretaría.
+
+QUINTO. Se deberán adecuar los acuerdos, convenios y demás disposiciones en materia jurídico-administrativa y laboral entre el Estado de México y la Federación, para que los ejerza la COPRISEM a la entrada en vigor del presente decreto entretanto se seguirán aplicando los vigentes de común acuerdo con el Instituto de Salud del Estado de México y la Secretaría.
+
+SEXTO. El Consejo Interno de la COPRISEM expedirá el Reglamento Interno respectivo, dentro del plazo de ciento ochenta días hábiles, contados a partir de la fecha de entrada en vigor del presente Decreto.
+
+SÉPTIMO. En tanto se expidan las disposiciones reglamentarias y administrativas correspondientes se aplicarán las vigentes que no sean contrarias a las previstas en esta Ley.
