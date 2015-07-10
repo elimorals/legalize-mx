@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2015-07-06"
+last_updated: "2015-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE AGOSTO DE 2015 EN LA GACETA DEL GOBIERNO DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE JULIO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1419,9 +1421,11 @@ La Secretaría vigilará que el sistema de consulta se encuentre en funcionamien
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
+> <small>(REFORMADO, G.G. 10 DE JULIO DE 2015)</small>
+
 ###### Artículo 2.
 
-1.- Este Libro tiene por objeto regular los servicios públicos de salud que presta el Estado, y el ejercicio del control sanitario en materia de salubridad local.
+1. Este Libro tiene por objeto regular los servicios públicos de salud que presta el Estado y el ejercicio de regulación, control y fomento sanitarios en materia de salubridad local.
 
 ###### Artículo 2.
 
@@ -1443,43 +1447,25 @@ La Secretaría vigilará que el sistema de consulta se encuentre en funcionamien
 
 Asimismo, en materia de salubridad general compete a la Secretaría de Salud, ejercer conforme a lo dispuesto en este Libro, las atribuciones correspondientes en materia de salubridad local.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, G.G. 10 DE JULIO DE 2015)</small>
 
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
+En el ejercicio de las atribuciones anteriores, cuando la Ley General de Salud haga referencia a las atribuciones competencia de la federación a favor de autoridades sanitarias, se ejercerá por conducto de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México COPRISEM, organismo público descentralizado, sectorizado a la Secretaría de Salud del Estado de México.
 
-El ejercicio de las atribuciones anteriores, cuando en la Ley General de Salud haga referencia a atribuciones competencia de la Federación a favor de autoridades sanitarias, se ejercerá por conducto de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México, "COPRISEM" órgano desconcentrado de la Secretaría de Salud del Estado de México.
+> <small>(ADICIONADO, G.G. 10 DE JULIO DE 2015)</small>
+
+El ejercicio de la regulación, control y fomento sanitarios, con funciones de autoridad en materia de salubridad local, las ejercerá la Secretaria de Salud por conducto de la COPRISEM.
 
 ### CAPITULO CUARTO. Del Instituto de Salud del Estado de México
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, G.G. 10 DE JULIO DE 2015)</small>
 
 ###### Artículo 2.
 
-5.- El Instituto de Salud del Estado de México, es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto la prestación de los servicios de salud en la Entidad. El ejercicio del control sanitario, con funciones de autoridad, en materia de salubridad local, las ejercerá la Secretaría de Salud por conducto de la "COPRISEM".
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
+5. El Instituto de Salud del Estado de México es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto la prestación de los servicios de salud en la Entidad.
 
 ###### Artículo 2.
 
-5. Bis.- Corresponde a la "COPRISEM" sin perjuicio de lo que dispongan su Reglamento y otros ordenamientos legales:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, G.G. 6 DE OCTUBRE DE 2008)</small>
-
-l. Desarrollar investigación permanente y sistemática de los riesgos y daños para la salud de la población, originados por toda fuente de emisión contaminante al medio ambiente.
-
-Se entiende como emisiones contaminantes a la generación o descarga de materia o energía, en cualquier cantidad, estado físico o forma, que al incorporarse, acumularse o actuar en los seres vivos, en la atmósfera, agua, suelo, subsuelo o cualquier elemento natural, afecte negativamente su salud, composición o condición natural; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, G.G. 6 DE OCTUBRE DE 2008)</small>
-
-II. Vigilar y establecer medidas para controlar la contaminación originada por ruido, vibraciones, energía térmica, lumínica, olores, vapores o cualquier otro tipo de actividad que pueda ocasionar daños a la salud de personas expuestas al ambiente o los elementos naturales, en fuentes de competencia estatal, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+5. Bis.- (DEROGADO, G.G. 10 DE JULIO DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1745,25 +1731,21 @@ XVII. Los demás que se establezcan en la Ley General de Salud y otras disposici
 
 17.- El Estado de México está obligado a prestar los servicios de salud en el marco del federalismo y concurrencia establecidos en la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Salud.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, G.G. 10 DE JULIO DE 2015)</small>
 
 ###### Artículo 2.
 
-18.- La Secretaría de Salud tendrá a su cargo la regulación de los servicios de salud a que se refiere este Título, el Instituto de Salud del Estado de México se encargará de la operación de los mismos y la "COPRISEM" ejercerá el control sanitario competencia del Estado en materia de salubridad general.
+18. La Secretaría de Salud tendrá a su cargo la regulación de los servicios de salud a que se refiere este título, el Instituto de Salud se encargará de la operación de los mismos y la COPRISEM ejercerá la regulación, control y fomento sanitarios competencia del Estado en materia de salubridad general.
 
 ###### Artículo 2.
 
 19.- Los derechos y obligaciones de los usuarios de los servicios de salud y la participación de la comunidad en los mismos se regirá por lo previsto en la Ley General de Salud.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, G.G. 10 DE JULIO DE 2015)</small>
 
 ###### Artículo 2.
 
-19 Bis.- En cumplimiento de los ordenamientos legales reglamentarios y administrativos, a la Secretaría de Salud, por conducto de la "COPRISEM" le corresponde, vigilar y operar el control sanitario de las actividades de salud que realicen los establecimientos que brindan servicios de control de peso o en beneficio de la salud estética bajo tratamientos terapéuticos, quiroprácticos, medicinales, herbolarios u otros métodos.
+19 Bis. En cumplimiento a los ordenamientos legales reglamentarios y administrativos a la Secretaría de Salud, por conducto de la COPRISEM le corresponde vigilar y operar la regulación, control y fomento sanitarios de las actividades de salud, que realizan los establecimientos que brindan servicios de control de peso o en beneficio de la salud, estética, bajo tratamientos terapéuticos quiroprácticos, medicinales, herbolarios u otros métodos.
 
 ### CAPITULO SEGUNDO. Del Sistema Estatal de Salud
 
@@ -2565,9 +2547,7 @@ VI. Procurar el fomento de una cultura sustentada en valores y principios en tor
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE JULIO DE 2015)</small>
 
 #### SECCION PRIMERA. De la recolección de muestras
 
@@ -2613,7 +2593,7 @@ Las inconformidades se regularán conforme a las disposiciones reglamentarias re
 
 ###### Artículo 2.
 
-49.- Corresponde a la "COPRISEM" como órgano desconcentrado de la Secretaría de Salud, ejercer el control sanitario de:
+49. Corresponde a la COPRISEM como organismo público descentralizado, sectorizado a la Secretaría de Salud del Estado de México, ejercer la regulación, control y fomento sanitarios de:
 
 (REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
 
@@ -11827,9 +11807,9 @@ V. Establecer las políticas y lineamientos de los servicios de informática par
 
 VI. Ser el interlocutor con las autoridades federales y municipales en materia de información e investigación geográfica, estadística y catastral;
 
-VII. Establecer la coordinación de las dependencias y entidades de la administración pública en los ámbitos federal, estatal y municipales, en las materias de su competencia;
+VII. Establecer la coordinación de las dependencias y entidades de la administración pública en los ámbitos federal, estatal y municipal, en las materias de su competencia;
 
-VIII. Coordinar las actividades de las dependencias y entidades de los gobiernos estatal y municipal, en apoyo a los trabajos que las autoridades federales realicen en el Estado de México sobre la materia;
+VIII. Coordinar las actividades de las dependencias y entidades de los gobiernos estatal y municipales, en apoyo a los trabajos que las autoridades federales realicen en el Estado de México sobre la materia;
 
 IX. Integrar y custodiar el acervo informativo y de investigaciones geográficas, estadísticas y catastrales del Estado de México;
 
@@ -17602,3 +17582,19 @@ TERCERO. La Secretaría de la Contraloría del Estado de México en un plazo de 
 CUARTO. Para la operación del Registro Estatal de Inspectores en materia fiscal, las secretarías de Finanzas y de la Contraloría deberán suscribir el convenio correspondiente.
 
 QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 10 DE JULIO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+CUARTO. Se deberán adecuar los acuerdos, convenios y demás disposiciones (sic) materia de salud que contemplen la regulación, control y fomento sanitarios entre (sic) Estado de México y la Federación, para que los ejerza la COPRISEM a la entrada en vigor del presente decreto, entretanto se seguirán aplicando los vigentes de común acuerdo con el Instituto de Salud del Estado de México y la Secretaría.
+
+QUINTO. Se deberán adecuar los acuerdos, convenios y demás disposiciones en materia jurídico-administrativa y laboral entre el Estado de México y la Federación, para que los ejerza la COPRISEM a la entrada en vigor del presente decreto entretanto se seguirán aplicando los vigentes de común acuerdo con el Instituto de Salud del Estado de México y la Secretaría.
+
+SEXTO. El Consejo Interno de la COPRISEM expedirá el Reglamento Interno respectivo, dentro del plazo de ciento ochenta días hábiles, contados a partir de la fecha de entrada en vigor del presente Decreto.
+
+SÉPTIMO. En tanto se expidan las disposiciones reglamentarias y administrativas correspondientes se aplicarán las vigentes que no sean contrarias a las previstas en esta Ley.
