@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-pesca-y-acuacultura-sustentables-del-estado-de-baja-7661
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-01"
-last_updated: "2010-08-01"
+last_updated: "2015-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76612&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCS"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTICULO PRIMERO TRANSITORIO DE LA PRESENTE LEY, ENTRARA EN VIGOR A LOS NOVENTA DIAS SIGUIENTES AL DE SU PUBLICACION.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2015.
 
 Ley publicada en el Extraordinario al Boletín Oficial del Estado de Baja California Sur, el domingo 1 de agosto de 2010.
 
@@ -395,9 +393,37 @@ VII. En la conservación, cuidado y protección de los recursos pesqueros y los 
 
 VIII. La participación, consenso y compromiso de los productores y sus comunidades en la corresponsabilidad de aprovechar en forma integral y sustentable los recursos pesqueros y acuícolas;
 
-IX. Promover ante el Gobierno Federal que los permisos para realizar actividades pesqueras y acuícolas y las medidas para el control del esfuerzo pesquero, se autoricen considerando los planes, programas y acciones del Estado y Municipios, atendiendo los principios de transparencia y eficiencia e incorporando mecanismos de control accesibles a los productores; y
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2015)</small>
 
-X. Impulsar y promover la acuacultura como una actividad productiva que permita la diversificación pesquera, ofrecer opciones de empleo en el medio rural incrementar la producción y oferta de alimentos pesqueros que mejoren la dieta de la población.
+IX. Promover ante el Gobierno Federal que los permisos para realizar actividades pesqueras y acuícolas y las medidas para el control del esfuerzo pesquero, se autoricen considerando los planes, programas y acciones del Estado y Municipios, atendiendo los principios de transparencia y eficiencia e incorporando mecanismos de control accesibles a los productores;
+
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2015)</small>
+
+X. Impulsar y promover la acuacultura como una actividad productiva que permita la diversificación pesquera, ofrecer opciones de empleo en el medio rural e incrementar la producción y oferta de alimentos pesqueros que mejoren la dieta de la población;
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2015)</small>
+
+XI. Posicionar los productos pesqueros y acuícolas estatales en los mercados de alto valor, garantizando la eficiencia y sanidad a lo largo de la cadena productiva;
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2015)</small>
+
+XII. Impulsar el establecimiento de una cultura de inocuidad en el manejo, distribución y comercialización de productos pesqueros y acuícolas;
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2015)</small>
+
+XIII. El sector pesquero y acuícola se desarrollarán desde una perspectiva sostenible, que integre y concilie los factores económicos, sociales y ambientales, a través de un enfoque estratégico y ecoeficiente;
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2015)</small>
+
+XIV. Transversalidad para la instrumentación de políticas públicas con enfoque interdisciplinario para el fortalecimiento y desarrollo de una cultura empresarial pesquera y acuícola, orientada a toda la cadena productiva, que aumente la productividad y mejore la competitividad;
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2015)</small>
+
+XV. El impulso del estado equilibrado y equitativo, que priorice el desarrollo de las comunidades pesqueras; y
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2015)</small>
+
+XVI. Financiamiento para el desarrollo e innovación tecnológica y científica, modernización de la flota pesquera, unidades de cultivo, técnicas ecoeficientes, plantas procesadoras, métodos y artes de captura.
 
 ### CAPÍTULO SEGUNDO. DEL CONSEJO ESTATAL DE PESCA Y ACUACULTURA
 
@@ -1438,3 +1464,11 @@ ING. NARCISO AGÚNDEZ MONTAÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ALFREDO PORRAS DOMÍNGUEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 10 DE JULIO DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
