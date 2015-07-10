@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-general-de-gobierno-de-955
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-25"
-last_updated: "2014-11-25"
+last_updated: "2015-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2015.
 
 Reglamento publicado en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el jueves 25 de julio de 2013.
 
@@ -73,15 +73,19 @@ b) Dirección de Tecnologías de Apoyo a la Subsecretaría de Seguridad Pública
 
 c) Dirección de Seguridad Privada;
 
-d) Coordinación de Programas Federales;
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 2015)</small>
 
-e) Coordinación Jurídica;
+d) Dirección de Servicios Previos a Juicio, Seguimiento de Medidas Cautelares y Suspensión Condicional del Proceso;
 
-f) Unidad de Control y Registro de Armas de Fuego y Municiones;
+e) Coordinación de Programas Federales;
 
-g) Órgano Interno de Control; y
+f) Coordinación Jurídica;
 
-h) Unidad de Apoyo Administrativo y Financiero de la Subsecretaría de Seguridad Pública.
+g) Unidad de Control y Registro de Armas de Fuego y Municiones;
+
+h) Órgano Interno de Control; y
+
+i) Unidad de Apoyo Administrativo y Financiero de la Subsecretaría de Seguridad Pública.
 
 > <small>(REFORMADO, B.O. 25 DE NOVIEMBRE DE 2014)</small>
 
@@ -891,7 +895,13 @@ XX. Participar en la Comisión Implemetadora (sic) del Nuevo Sistema de Justicia
 
 XXI. Coordinar las funciones y programas que implemente el Patronato para la Reincorporación Social; y
 
-XXII. Las demás que le asigne el Secretario, en el ejercicio de sus atribuciones.
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2015)</small>
+
+XXII. Administrar, coordinar y supervisar la Dirección de Servicios Previos a Juicio, Seguimiento de Medidas Cautelares y Suspensión Condicional del Proceso; y
+
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2015)</small>
+
+XXIII. Las demás que le asigne el Secretario en ejercicio de sus atribuciones.
 
 > <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL B.O. DE 25 DE NOVIEMBRE DE 2014, PÁGINA 6.</small>
 
@@ -907,15 +917,21 @@ II. Dirección de Tecnologías de Apoyo a la Subsecretaria de Seguridad Pública
 
 III. Dirección de Seguridad Privada;
 
-IV. Coordinación Jurídica;
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2015)</small>
 
-V. Coordinación de Programas Federales;
+IV. Dirección de Servicios Previos a Juicio, Seguimiento de Medidas Cautelares y Suspensión Condicional del Proceso;
 
-VI. Unidad de Control y Registro de Armas de Fuego y Municiones;
+V. Coordinación Jurídica;
 
-VII. Órgano Interno de Control; y
+VI. Coordinación de Programas Federales;
 
-VIII. Unidad de Apoyo Administrativo y Financiero de la Subsecretaria de Seguridad Pública.
+VII. Unidad de Control y Registro de Armas de Fuego y Municiones;
+
+VIII. Órgano Interno de Control; y
+
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2015)</small>
+
+IX. Unidad de Apoyo Administrativo y Financiero de la Subsecretaría de Seguridad Pública;
 
 Asimismo, coordinará las actividades del Patronato para la Reincorporación Social, así como de los órganos desconcentrados siguientes:
 
@@ -1040,6 +1056,30 @@ IX. Las demás que le asigne el Subsecretario de Seguridad Pública, en ejercici
 ###### ARTÍCULO 38.
 
 La Dirección de Tecnologías de Apoyo a la Subsecretaría de Seguridad Pública, para el buen desempeño de sus funciones, se auxiliará del personal necesario de acuerdo a su presupuesto y a las necesidades del servicio.
+
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 2015)</small>
+
+ARTÍCULO 38 BIS.- Corresponde a la Dirección de Servicios Previos a Juicio, Seguimiento de Medidas Cautelas (sic) y Suspensión Condicional del Proceso las siguientes funciones:
+
+I. Realizar la evaluación de riesgo que representa el imputado, debiendo proporcionar en dicho instrumento a las partes procesales dentro de una causa penal, la información necesaria para decidir respecto de la necesidad de la imposición o revisión de las medidas cautelares;
+
+II. Accesar a la base de datos del Sistema Nacional de Información y demás de carácter público, para la elaboración de la evaluación de riesgo;
+
+III. Dar seguimiento y supervisar el cumplimiento de las medidas cautelares impuestas por el juez de control, diversas a la prisión preventiva;
+
+IV. Implementar y mantener actualizada una base de datos a fin de dar seguimiento al cumplimiento de las medidas cautelares diversas a la prisión preventiva;
+
+V. Informar mediante reporte, de forma inmediata a las partes procesales, el incumplimiento de una medida cautelar diversa a la garantía económica o de prisión preventiva, o en el supuesto que se advierta que existe un riesgo objetivo e inminente de fuga;
+
+VI. Dar seguimiento y supervisar el cumplimiento de las condiciones impuestas por el juez de control al imputado en caso de suspensión condicional del proceso;
+
+VII. Instaurar y dar seguimiento a la base de datos del Registro Estatal de Suspensiones Condicionales del Procedimiento;
+
+VIII. Informar mediante reporte, de forma inmediata a las partes procesales, el incumplimiento de las condiciones establecidas dentro de una suspensión condicional del proceso;
+
+IX. Llevar a cabo un registro de las actividades implementadas relativas al seguimiento de las medidas cautelares y de las condiciones impuestas en los casos de suspensión condicional del proceso; y
+
+X. Cumplir con las obligaciones que para el ejercicio de sus funciones establezcan los ordenamientos penales aplicables.
 
 > <small>(REFORMADO, B.O. 25 DE NOVIEMBRE DE 2014)</small>
 
@@ -1381,6 +1421,14 @@ ARMANDO MARTÍNEZ VEGA
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-B.O. 25 DE NOVIEMBRE DE 2014.
+P.O. 25 DE NOVIEMBRE DE 2014.
 
 ÚNICO.- El presente Decreto entrara en vigor, al día siguiente de su publicación en el Boletín Oficial de Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JULIO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Boletín Oficial de Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- La Secretaría de Finanzas y la Oficialía Mayor de Gobierno deberán hacer los trámites presupuestales y administrativos necesarios para el cumplimiento del presente decreto.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
