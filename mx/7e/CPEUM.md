@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2015-07-02"
+last_updated: "2015-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE JULIO DE 2015.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -2170,9 +2170,9 @@ XX.- Para expedir las leyes de organización del Cuerpo Diplomático y del Cuerp
 
 XXI.- Para expedir:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE JULIO DE 2015)</small>
 
-a) Las leyes generales en materias de secuestro, trata de personas y delitos electorales, que establezcan como mínimo, los tipos penales y sus sanciones.
+a) Las leyes generales que establezcan como mínimo, los tipos penales y sus sanciones en las materias de secuestro, desaparición forzada de personas, otras formas de privación de la libertad contrarias a la ley, trata de personas, tortura y otros tratos o penas crueles, inhumanos o degradantes, así como electoral.
 
 Las leyes generales contemplarán también la distribución de competencias y las formas de coordinación entre la Federación, las entidades federativas, el Distrito Federal y los municipios;
 
@@ -7631,3 +7631,13 @@ La Ley para el Tratamiento de Menores Infractores para el Distrito Federal en ma
 TERCERO. Los procedimientos de justicia para adolescentes y la ejecución de las medidas sancionadoras, iniciados con anterioridad a la entrada en vigor de la legislación nacional que establece el presente Decreto, serán concluidos conforme a las disposiciones vigentes al momento de iniciarse dichos procedimientos y ejecución de medidas sancionadoras.
 
 CUARTO. El Congreso de la Unión, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, deberán prever los recursos necesarios para la debida implementación, funcionamiento y desarrollo del sistema de justicia para adolescentes. Las partidas para tales propósitos deberán señalarse en los presupuestos de egresos correspondientes.
+
+D.O.F. 10 DE JULIO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Congreso de la Unión deberá expedir la legislación en las materias que se adicionan por virtud del presente Decreto al artículo 73, fracción XXI, inciso a), dentro de los 180 días siguientes a la entrada en vigor del mismo.
+
+La legislación a que se refiere el presente Transitorio deberá regular el Sistema Nacional de Búsqueda de Personas.
+
+TERCERO. La legislación en materia de desaparición forzada de personas, otras formas de privación de la libertad contrarias a la ley, tortura y otros tratos o penas crueles, inhumanos o degradantes de las entidades federativas y de la Federación, continuará en vigor hasta en tanto entren en vigor las leyes generales que expida el Congreso de la Unión referidas en el Transitorio anterior. Los procesos penales iniciados con fundamento en dicha legislación, así como las sentencias emitidas con base en la misma, no serán afectados por la entrada en vigor de dichas leyes generales. Por lo tanto, deberán concluirse y ejecutarse, respectivamente, conforme las disposiciones vigentes antes de la entrada en vigor de estas últimas.
