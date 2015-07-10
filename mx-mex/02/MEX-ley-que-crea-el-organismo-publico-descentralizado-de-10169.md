@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-de-10169"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-28"
-last_updated: "2010-01-25"
+last_updated: "2015-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10169&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO UNIVERSIDAD TECNOLOGICA DE TECAMAC
 
-LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO UNIVERSIDAD TECNOLOGICA DE TECAMAC
+LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO UNIVERSIDAD TECNOLÓGICA DE TECAMAC
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ENERO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE JULIO DE 2015.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 28 de junio de 1996.
 
@@ -66,6 +66,10 @@ II. Realizar investigaciones científicas y tecnológicas que permitan el avance
 III. Llevar a cabo programas de vinculación con los sectores público, privado y social que contribuyan a consolidar el desarrollo tecnológico y social de la comunidad; y
 
 IV. Promover la cultura nacional y universal.
+
+> <small>(ADICIONADA, G.G. 10 DE JULIO DE 2015)</small>
+
+V. Planear, formular, desarrollar y operar programas y acciones, de investigación tecnológica y servicios tecnológicos; prestar servicios de asesorías, apoyo administrativo, técnico y capacitación técnica; elaborar y desarrollar proyectos de ingeniería, supervisión, estudios y actividades en materia de seguridad, salud y medio ambiente, así como desarrollar estudios de proyectos geológicos, exploración, explotación y producción de hidrocarburos y demás áreas del sector energético, así como servicios diversos al sector público, social y privado.
 
 ###### Artículo 5.
 
@@ -117,9 +121,17 @@ II. El Rector;
 
 III. El Secretario Académico;
 
-IV. Los Directores de División; y
+> <small>(REFORMADA, G.G. 10 DE JULIO DE 2015)</small>
 
-V. Los Directores de Centro.
+IV. El Secretario de Vinculación.
+
+> <small>(REFORMADA, G.G. 10 DE JULIO DE 2015)</small>
+
+V. Los directores de división
+
+> <small>(ADICIONADA, G.G. 10 DE JULIO DE 2015)</small>
+
+VI. Los directores de centro.
 
 También podrá contar con órganos auxiliares.
 
@@ -129,11 +141,17 @@ El consejo directivo, será la máxima autoridad de la universidad, y estará in
 
 I. Tres representantes del Gobierno del Estado, designados por el Ejecutivo Estatal, que serán:
 
-a) El Secretario de Educación, Cultura y Bienestar Social, quien lo presidirá;
+> <small>(REFORMADA, G.G. 10 DE JULIO DE 2015)</small>
 
-b) El Secretario de Finanzas y Planeación; y
+a) El Secretario de Educación.
 
-c) El Secretario de Administración.
+> <small>(REFORMADA, G.G. 10 DE JULIO DE 2015)</small>
+
+b) El Secretario de Finanzas.
+
+> <small>(REFORMADA, G.G. 10 DE JULIO DE 2015)</small>
+
+c) El Secretario de Desarrollo Económico.
 
 II. Tres representantes del Gobierno Federal, designados por el Secretario de Educación Pública;
 
@@ -297,13 +315,27 @@ XVIII. Las demás que le señale esta ley o le confiera el consejo directivo.
 
 El secretario académico tendrá a su cargo la coordinación y supervisión del desarrollo de las actividades de las Direcciones de División y de Centro.
 
+> <small>(ADICIONADO, G.G. 10 DE JULIO DE 2015)</small>
+
+###### Artículo 19 Bis.
+
+El Secretario de Vinculación tendrá a su cargo la coordinación y supervisión del desarrollo de las actividades de las unidades administrativas a su cargo.
+
 ###### Artículo 20.
 
 Las direcciones de división y de centro, tendrán a su cargo el desarrollo de los programas docentes, de investigación, vinculación y extensión, así como las actividades de apoyo administrativo, de conformidad con el reglamento interno.
 
+> <small>(ADICIONADO, G.G. 10 DE JULIO DE 2015)</small>
+
+###### Artículo 20 Bis.
+
+Las unidades administrativas de la Secretaría de Vinculación tendrán a su cargo el desarrollo de los programas de investigación, vinculación y extensión, así como las actividades de apoyo administrativo de conformidad con el Reglamento Interno.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE JULIO DE 2015)</small>
+
 ###### Artículo 21.
 
-Para ser secretario académico y director de división o de centro se requiere:
+Para ser Secretario Académico, Secretario de Vinculación y Director de División o de Centro se requiere:
 
 I. Ser ciudadano mexicano;
 
@@ -449,7 +481,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. HECTOR XIMENEZ GONZALEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.G. 13 DE AGOSTO DE 2009.
 
@@ -466,3 +498,11 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
 
 CUARTO.- A partir del inicio de la vigencia de este Decreto, el Ejecutivo del Estado dispondrá de noventa días naturales para llevar a cabo las modificaciones correspondientes a los Reglamentos de los Organismos Públicos Descentralizados a que se refiere el presente Decreto, y demás disposiciones que deban adecuarse en virtud del presente Decreto.
+
+G.G. 10 DE JULIO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará (sic) al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno"
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
