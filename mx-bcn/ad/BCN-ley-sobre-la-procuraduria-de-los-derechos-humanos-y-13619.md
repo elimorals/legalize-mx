@@ -4,7 +4,7 @@ identifier: "BCN-ley-sobre-la-procuraduria-de-los-derechos-humanos-y-13619"
 country: "mx"
 rank: "ley"
 publication_date: "1991-03-10"
-last_updated: "2006-08-25"
+last_updated: "2015-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY SOBRE LA PROCURADURIA DE LOS DERECHOS HUMANOS Y PROTECCION CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
-LEY SOBRE LA PROCURADURIA DE LOS DERECHOS HUMANOS Y PROTECCION CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
+LEY SOBRE LA PROCURADURÍA DE LOS DERECHOS HUMANOS Y PROTECCIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 10 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial de Estado de Baja California, el domingo 10 de marzo de 1991.
 
@@ -117,7 +119,7 @@ E).- Gozar de elevado prestigio profesional y personal.
 
 El Congreso del Estado para la elección del Procurador de los Derechos Humanos y Protección Ciudadana observará las siguientes bases:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2002)</small>
 
 A).- Emitirá una convocatoria para concurso de interesados a ocupar el cargo dentro de un plazo de cuarenta y cinco días antes de que concluya el período para el cual fue electo el Procurador en funciones.
 
@@ -461,7 +463,7 @@ LIC. HECTOR TERAN TERAN
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 6 DE NOVIEMBRE DE 1998.
 
@@ -490,3 +492,77 @@ Las disposiciones legales y reglamentarias que se opongan al presente Decreto, d
 P.O. 25 DE AGOSTO DE 2006.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 10 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley sobre la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California, publicada en el Periódico Oficial No. 7 de Fecha 10 de Marzo de 1991, Tomo XCVIII.
+
+###### ARTÍCULO TERCERO.
+
+El Reglamento será expedido por el Consejo dentro de los noventa días siguientes a partir de la entrada en vigor de esta Ley, el cual será publicado en el Periódico Oficial del Estado.
+
+El Reglamento de la Ley que se abroga, se mantendrá vigente en todo aquello que no se oponga al presente decreto, hasta en tanto sea expedido el Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+El Presidente de la Comisión deberá dentro de un plazo que no exceda de sesenta días a partir de la entrada en vigor de la presente Ley, someter al Consejo las propuestas de profesionales para los nombramientos de Visitadores Generales, expidiendo los nombramientos correspondientes, donde se les señalará su ámbito territorial de competencia. En los mismos términos someterá a la consideración del Consejo la designación del Secretario Ejecutivo.
+
+###### ARTÍCULO QUINTO.
+
+Los Subprocuradores de la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California, se mantendrán en su cargo, hasta en tanto, se designen a los Visitadores Generales. Los subprocuradores podrán participar en el proceso de designación.
+
+Por única ocasión los consejeros actuales, continuarán en ejercicio de sus funciones, hasta vencerse el periodo por el que fueron designados. Noventa días naturales antes de su vencimiento, el Presidente de la Comisión iniciará el procedimiento para su sustitución en los términos que determine la Ley.
+
+###### ARTÍCULO SEXTO.
+
+Los bienes muebles e inmuebles, derechos, recursos financieros y demás activos con los que opere la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California, se entenderán transferidos como patrimonio de la Comisión, en conjunto con los recursos presupuestales y financieros que para el presente ejercicio fiscal se hayan previsto.
+
+###### ARTÍCULO SÉPTIMO.
+
+El trámite de las quejas, cumplimiento de recomendaciones y demás asuntos iniciados con anterioridad a la entrada en vigor de la presente Ley ante la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California, serán continuados ante la Comisión.
+
+###### ARTÍCULO OCTAVO.
+
+Toda referencia que se hagan en otras disposiciones legales y reglamentarias a la Procuraduría de los Derechos Humanos y Participación Ciudadana, se entenderán hechas a la Comisión.
+
+Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, de la Federación y de los municipios, y con cualquier persona física o moral, serán asumidas por la Comisión.
+
+###### ARTÍCULO NOVENO.
+
+Los trabajadores de la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California, pasarán a formar parte de la Comisión, respetando todos sus derechos laborales.
+
+###### ARTÍCULO DÉCIMO.
+
+El Presidente de la Comisión, los Visitadores Generales, el Secretario Ejecutivo y el titular del órgano interno de control, deberán presentar su declaración patrimonial bajo protesta de decir verdad.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+En un plazo de noventa días a partir de la entrada en vigor de la presente Ley, el Congreso del Estado deberá adecuar y reformar la Ley Orgánica del Poder Legislativo de Baja California, a efecto de:
+
+A) Regular su intervención en los procedimientos de nombramiento del Presidente de la Comisión, así como de los integrantes del Consejo Consultivo.
+
+B) Normar sobre la recepción y glosa del informe anual a que se refiere esta Ley.
+
+C) Señalar el procedimiento a seguir en la comparecencia de las autoridades o servidores públicos responsables que no acepten o cumplan con las recomendaciones emitidas por la Comisión.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+En un plazo de 30 días naturales siguientes a la entrada en vigor del presente Decreto, el Congreso del Estado expedirá convocatoria pública para los interesados en ocupar el cargo de titular del Órgano Interno de Control de la Comisión Estatal de Derechos Humanos, debiendo al efecto atender las siguientes bases mínimas:
+
+a) De la Convocatoria: Será pública, establecerá las bases y condiciones para el registro de aspirantes y el procedimiento a seguir, debiendo publicitarse en dos diarios de mayor circulación en la entidad; en el portal de internet del Congreso del Estado; en los estrados del Congreso del Estado, así como en el Portal de Internet de la Comisión Estatal de Derechos Humanos.
+
+b) Del Procedimiento: El Congreso por conducto de la Comisión que para el efecto designe, revisará el cumplimiento de los requisitos de los aspirantes al cargo y emitirá una Lista de los Aspirantes que cumplieron con los requisitos previstos en la Convocatoria, misma que deberá publicitarse en los estrados y en el Portal de Internet, ambos del Congreso del Estado.
+
+c) De los Candidatos: Una vez establecido el cumplimiento de los requisitos por los aspirantes se procederá en Audiencia Pública a celebrarse en el recinto oficial del Poder Legislativo, el procedimiento de comparecencia de los candidatos al cargo el cual deberá transmitirse en el Portal de Internet del Congreso del Estado.
+
+d) De la Resolución: Desahogados los puntos anteriores la Comisión competente emitirá un Acuerdo que remitirá a la Junta de Coordinación Política "JUCOPO" en el cual informará de los aspirantes que cumplieron los requisitos previstos en la Convocatoria, así como de la celebración de las Audiencias Públicas, para que a su vez la JUCOPO, presente el Acuerdo mediante el cual determina el procedimiento para la emisión del voto de los legisladores, el cual habrá de ser nominal, debiendo cada Diputado pronunciarse por el nombre de algún aspirante y, en caso extremo, abstenerse.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Por única ocasión la persona que fuere nombrada titular del Órgano Interno de Control concluirá su encargo en la misma fecha del Presidente de la Comisión Estatal de Derechos Humanos.
