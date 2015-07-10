@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-desarrollo-integral-de-la-familia-de-795
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-02-11"
-last_updated: "2011-02-11"
+last_updated: "2015-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DE DESARROLLO INTEGRAL DE LA FAMILIA DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO PRIMERO DEL REGLAMENTO INTERIOR DE DESARROLLO INTEGRAL DE LA FAMILIA DE MEXICALI, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 10 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 11 de febrero de 2011.
 
@@ -405,3 +407,23 @@ El presente Reglamento Interior entrará en vigor a partir del día siguiente al
 ###### ARTICULO TERCERO.
 
 A partir de la publicación del presente, se dará un plazo de 30 días, a efecto de que se someta a consideración de la Junta de Gobierno el proyecto de Reglamento Interno de cada Centro Asistencial para su análisis y aprobación.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 10 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga el Reglamento Interior de Desarrollo Integral de la Familia de Mexicali, Baja California, publicado en fecha 11 de Febrero del 2011 y se aprueba el nuevo Reglamento Interior de Desarrollo Integral de la Familia de Mexicali, Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Reglamento Interior entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la publicación del presente reglamento se deja sin efectos cualquier disposición que contravenga este ordenamiento incluyendo aquellas que pudieran estar pendientes de publicación.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la publicación del presente, se dará un plazo de 120 días, a efecto de que se someta a consideración de la Junta de Gobierno el proyecto de Reglamento Interno de cada Centro Asistencial para su análisis y aprobación, así como la publicación de los Centros Asistenciales debidamente conformados en el Periódico Oficial del Estado.
