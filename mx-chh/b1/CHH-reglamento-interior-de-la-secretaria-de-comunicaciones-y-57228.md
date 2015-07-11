@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-de-la-secretaria-de-comunicaciones-y-57228"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-26"
-last_updated: "2008-06-28"
+last_updated: "2015-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES Y OBRAS PUBLICAS
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES Y OBRAS PUBLICAS
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE COMUNICACIONES Y OBRAS PÚBLICAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el miércoles 26 de septiembre de 2007.
 
@@ -61,9 +61,11 @@ IV. Secretario.- El Secretario de Comunicaciones y Obras Públicas.
 
 V. Ley.- Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 3.
 
-La Secretaría es una Dependencia de la Administración Pública Centralizada del Ejecutivo adscrita en forma directa al Gobernador, encargada de dirigir, coordinar y controlar la ejecución de los programas de obra pública; proyectar, diseñar y presupuestar toda clase de obras materiales; ejecutar y conservar las obras públicas por sí misma o por conducto de terceros; supervisar la ejecución de las obras públicas; dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relación a las funciones de obras públicas y comunicaciones; dirigir y vigilar la organización y funcionamiento de las direcciones que ejerzan las atribuciones anteriores, así como realizar y promover estudios e investigaciones sobre ahorro y uso eficiente de energía eléctrica.
+La Secretaría es una Dependencia de la Administración Pública Centralizada del Ejecutivo adscrita en forma directa al Gobernador, encargada de dirigir, coordinar y controlar la ejecución de los programas de obra pública: proyectar, diseñar y presupuestar toda clase de obras materiales; ejecutar y conservar las obras públicas por sí misma o por conducto de terceros; supervisar la ejecución de las obras públicas; dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relación a las funciones de obras públicas y comunicaciones; dirigir y vigilar la organización y funcionamiento de la Subsecretaría y las direcciones que ejerzan las atribuciones anteriores.
 
 ###### ARTÍCULO 4.
 
@@ -73,29 +75,37 @@ La Secretaría tiene a su cargo el despacho de los asuntos que le encomiendan la
 
 El Titular de la Secretaría tendrá el cargo de Secretario de Comunicaciones y Obras Públicas, y será nombrado por el Gobernador, de acuerdo con lo dispuesto en la fracción XXII del artículo 93 de la Constitución Política del Estado de Chihuahua y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 6.
 
-El domicilio de la Secretaría tendrá su asiento principal en la Capital del Estado, y se integra por el titular con el cargo de Secretario, Direcciones, Departamentos, Divisiones y demás personal asignado conforme el presupuesto anual aprobado.
+El domicilio de la Secretaría tendrá su asiento principal en la Capital del Estado, y se integra por el titular con el cargo de Secretario, Subsecretaría, Direcciones, Departamentos, y demás personal asignado conforme el presupuesto anual aprobado.
 
 ## TÍTULO SEGUNDO. ESTRUCTURA Y COMPETENCIA DE LA SECRETARÍA
 
 ### CAPÍTULO PRIMERO. ESTRUCTURA ORGÁNICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 7.
 
-Para el despacho de los asuntos que le competen, la Secretaría tendrá la siguiente estructura de organización:
+Para el despacho de los asuntos que le competan, la Secretaría tendrá la siguiente estructura de organización:
 
 I.- Secretario.
 
-II.- Direcciones dependientes del Secretario:
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2015)</small>
 
-a).- Dirección de Caminos.
+II.- Subsecretaría y Direcciones dependientes del Secretario:
 
-b).- Dirección de Infraestructura Municipal.
+a).- Dirección de Caminos
 
-c).- Dirección de Obras Públicas.
+b).- Dirección de infraestructura municipal
 
-d).- Dirección de Obras Públicas de la Frontera.
+c).- Dirección de Obras Públicas
+
+d).- Subsecretaría de Obras Públicas de la Frontera.
+
+e).- (DEROGADO, P.O. 11 DE JULIO DE 2015)
 
 III.- Departamentos de Apoyo dependientes directamente del Secretario:
 
@@ -119,7 +129,7 @@ c).- Departamento de Maquinaria Pesada y Equipo.
 
 d).- Departamento de Talleres.
 
-e).- Departamento de Electrificación y Ahorro de Energía.
+e).- (DEROGADO, P.O. 11 DE JULIO DE 2015)
 
 VI.- Departamentos dependientes de la Dirección de Obras Públicas:
 
@@ -130,6 +140,16 @@ b).- Departamento de Construcción de Obras Públicas.
 c).- Departamento de Proyectos.
 
 d).- Departamento de Proyectos Especiales.
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2015)</small>
+
+VII.- Departamentos dependientes de la Subsecretaría de Obras Públicas de la Frontera.
+
+a) Departamento de Construcción en Ciudad Juárez.
+
+b) Departamento de Proyectos en Ciudad Juárez.
+
+c) Departamento de Construcción de Caminos en Ciudad Juárez.
 
 ### CAPÍTULO SEGUNDO. COMPETENCIA DE LA SECRETARÍA
 
@@ -149,9 +169,11 @@ V. Supervisar la ejecución de las obras con el objeto de que éstas se realicen
 
 VI. Intervenir en la designación de representantes del Ejecutivo en las Dependencias y Entidades Federales y Municipales en materia de su competencia.
 
-VII. Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relación a las funciones de obras públicas y comunicaciones, así como vigilar la organización y el funcionamiento de las Direcciones que ejerzan las atribuciones anteriores.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2015)</small>
 
-VIII. Realizar y promover estudios e investigaciones sobre ahorro y uso eficiente de energía eléctrica, difundir las políticas que el Gobierno Federal establezca en el sector, elaborar proyectos, programas, proporcionar asesorías, procedimientos, ejecutar acuerdos y demás aspectos relacionados con el sector que promuevan su desarrollo tecnológico, financiamiento y eficiencia, así como controlar y vigilar el debido cumplimiento de dichas atribuciones.
+VII. Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos con relación a las funciones de obras públicas y comunicaciones, así como vigilar la organización y el funcionamiento de la Subsecretaría y las Direcciones que ejerzan las atribuciones anteriores.
+
+VIII. (DEROGADA, P.O. 11 DE JULIO DE 2015)
 
 IX. Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
@@ -183,33 +205,51 @@ VII. Intervenir en la celebración de convenios, contratos, acuerdos y demás ac
 
 VIII. Designar a sus representantes o suplentes en los diversos Consejos, Comités, Comisiones, Juntas de Gobierno o cualquier otro órgano similar de las Dependencias de la Administración Pública Centralizada o Paraestatal del Ejecutivo, de los cuales forme parte la Secretaría.
 
-IX. Autorizar la propuesta del Anteproyecto de Presupuesto de Egresos de la Secretaría para someterlo a la consideración de las Secretarías de Finanzas y Administración y de Planeación y Evaluación.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2015)</small>
+
+IX. Autorizar la propuesta del Anteproyecto de Presupuesto de Egresos de la Secretaría para someterlo a la consideración de la Secretaria de Hacienda.
 
 X. Las demás que le otorguen expresamente las disposiciones legales y las que le confiera el Gobernador.
 
-## TÍTULO CUARTO. DE LAS DIRECCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE JULIO DE 2015)</small>
 
-### CAPÍTULO PRIMERO. COMPETENCIA DE LAS DIRECCIONES
+## TITULO CUARTO. DE LA SUBSECRETARÍA Y DE LAS DIRECCIONES
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE JULIO DE 2015)</small>
+
+### CAPÍTULO PRIMERO. COMPETENCIA DE LA SUBSECRETARÍA Y DE LAS DIRECCIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 11.
 
-En cada una de las Direcciones habrá un titular, que tendrá el cargo de Director y se auxiliará de los Jefes de Departamento y demás personal que las necesidades del servicio requieran, de acuerdo con la organización interna que apruebe el Secretario y se autorice en el Presupuesto de Egresos aprobado por el Congreso del Estado.
+En la Subsecretaría y en cada una de las Direcciones habrá un titular, que tendrá el cargo de Subsecretario y Director, respectivamente, y se auxiliarán de los Jefes de Departamento y demás personal que las necesidades del servicio requieran, de acuerdo con la organización interna que apruebe el Secretario y se autorice en el Presupuesto de Egresos aprobado por el Congreso del Estado.
 
-Para la eficaz distribución y coordinación del trabajo, los Directores podrán delegar sus facultades a los Jefes de Departamento y a los titulares de las demás unidades orgánicas que correspondan, sin perder por ello la posibilidad de su ejercicio directo.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
+
+Para la eficaz distribución y coordinación del trabajo, el Subsecretario y los Directores podrán delegar sus facultades a sus Jefes de Departamento y a los titulares de las demás unidades orgánicas que correspondan, sin perder por ello la posibilidad de su ejercicio directo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 12.
 
-Los Directores tendrán las siguientes atribuciones comunes.
+El Subsecretario y los Directores tendrán las siguientes atribuciones comunes:
 
-I. Ejercer las funciones que competan a su Dirección y en su caso acordar con el Secretario la resolución de los asuntos derivados de aquéllas e informarle el desarrollo de las mismas.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2015)</small>
 
-II. Planear, organizar, dirigir y controlar el desempeño de las funciones encomendadas a la Dirección a su cargo.
+I. Ejercer las funciones que competan a la Subsecretaría y a su Dirección y en su caso acordar con el Secretario la resolución de los asuntos derivados de aquellas e informarle el desarrollo de las mismas.
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2015)</small>
+
+II. Planear, organizar, dirigir y controlar el desempeño de las funciones encomendadas a la Subsecretaría o a la Dirección a su cargo.
 
 III. Desempeñar las comisiones y representaciones que el Secretario les encomiende e informarle del desarrollo de las mismas.
 
 IV. Definir las directrices para el diseño y la implementación de sistemas y procedimientos de control e información en el ámbito de su competencia, así como evaluar su funcionamiento.
 
-V. Someter a la consideración del Secretario los estudios, proyectos y programas concernientes a las atribuciones de la Dirección, así como los proyectos de los manuales de organización, de procedimientos y de servicios al público y las circulares de su competencia.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2015)</small>
+
+V. Someter a la consideración del Secretario los estudios, proyectos y programas concernientes a las atribuciones de la Subsecretaría y de la Dirección, según corresponda, así como los proyectos de los manuales de organización, de procedimientos y de servicios al público y las circulares de su competencia.
 
 VI. Establecer la coordinación requerida para el ejercicio de sus funciones con las demás unidades orgánicas de la Secretaría y con las Dependencias y Entidades del Gobierno del Estado, de la Federación y de los Municipios.
 
@@ -221,7 +261,9 @@ IX. Vigilar que los Departamentos a su cargo desempeñen eficientemente las func
 
 X. Elaborar el anteproyecto del Presupuesto Anual de Egresos de la Dirección, y revisar, y en su caso aprobar, los anteproyectos de presupuesto de los Departamentos y presentarlos al Secretario para su aprobación.
 
-XI. Expedir constancias y certificaciones de asuntos y documentos relativos a las funciones de la Dirección a su cargo, sin perjuicio de las facultades que correspondan a otros funcionarios de la misma, de conformidad con las disposiciones aplicables.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2015)</small>
+
+XI. Expedir constancias y certificaciones de asuntos y documentos relativos a las funciones de la Subsecretaría o la Dirección a su cargo, sin perjuicio de las facultades que correspondan a otros funcionarios de la misma, de conformidad con las disposiciones aplicables
 
 XII. Delegar en el personal a su cargo, por escrito, las facultades que sean de su competencia y que el presente Reglamento no otorgue a dicho personal, con excepción de las que le encomiende el Secretario para su atención en forma directa.
 
@@ -281,11 +323,11 @@ VI. Operar los sistemas de registro y control administrativo de los vehículos y
 
 VII. Evaluar en cuanto a costo y a tiempo, la factibilidad de emplear el servicio de talleres externos, para proporcionar el mantenimiento bajo su supervisión y control a los vehículos y maquinaria pesada de la Secretaría.
 
-VIII. La promoción y uso eficiente de energía en el sector público y fomentar la cultura del ahorro.
+VIII. (DEROGADA, P.O. 11 DE JULIO DE 2015)
 
-IX. Asesoramiento en los diversos organismos oficiales, para proyectos de electrificación y uso de energía.
+IX. (DEROGADA, P.O. 11 DE JULIO DE 2015)
 
-X. Capacitar a los usuarios del Departamento de Electrificación y Uso de Energía.
+X. (DEROGADA, P.O. 11 DE JULIO DE 2015)
 
 XI. Las demás que le señalen las disposiciones legales y reglamentarias y las que le asigne el Secretario.
 
@@ -317,11 +359,15 @@ X. Dirigir y coordinar las actividades de supervisión de las obras y estudios y
 
 XI. Las demás funciones que le señalen las disposiciones legales y reglamentarias y que le encomiende el Secretario.
 
-### CAPÍTULO QUINTO. COMPETENCIA DE LA DIRECCIÓN DE OBRAS PÚBLICAS DE LA FRONTERA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE JULIO DE 2015)</small>
+
+### CAPÍTULO QUINTO. COMPETENCIA DE LA SUBSECRETARÍA DE OBRAS PÚBLICAS DE LA FRONTERA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 16.
 
-Compete a la Dirección de Obras Públicas de la Frontera el despacho de los siguientes asuntos:
+Compete a la Subsecretaría de Obras Públicas de la Frontera el despacho de los siguientes asuntos:
 
 I. Proyectar y ejecutar directamente, por administración o por contrato con particulares, la construcción de las obras públicas de edificación que realice el Ejecutivo, por sí mismo o por conducto de la Federación, Municipios, Organismos Descentralizados, Empresas de participación estatal o personas físicas o morales de los sectores social y privado, en la zona fronteriza.
 
@@ -367,7 +413,9 @@ I. Planear, organizar, dirigir y controlar el desarrollo de las funciones del De
 
 II. Establecer las normas, los sistemas y procedimientos, que rijan la organización del Departamento.
 
-III. Desempeñar las funciones que le encomiende el Secretario o bien el Director, según sea la autoridad lineal inmediata que reciban y someter a su consideración los dictámenes, opiniones e informes resultantes de los asuntos que les hayan sido turnados.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2015)</small>
+
+III. Desempeñar las funciones que le encomiende el Secretario, Subsecretario o bien el Director, según sea la autoridad lineal inmediata que reciban y someter a su consideración los dictámenes, opiniones e informes resultantes de los asuntos que les hayan sido turnados.
 
 IV. Acordar con su superior inmediato, de conformidad con las políticas establecidas, la resolución de los asuntos cuya tramitación se encuentre dentro del ámbito de competencia de la oficina.
 
@@ -377,7 +425,9 @@ VI. Formular el anteproyecto de presupuesto anual de egresos del Departamento de
 
 VII. Proponer el ingreso, las promociones y los movimientos administrativos del personal a su cargo.
 
-VIII. Las demás que les asigne el Secretario o el Director, según corresponda.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2015)</small>
+
+VIII. Las demás que les asigne el Secretario, Subsecretario o el Director, según corresponda.
 
 ### CAPÍTULO SEGUNDO. COMPETENCIA DE LOS DEPARTAMENTOS DE APOYO DEPENDIENTES DIRECTAMENTE DEL SECRETARIO
 
@@ -393,13 +443,17 @@ III. Dar seguimiento a la aplicación correcta de los recursos financieros en ca
 
 IV. Vigilar el correcto registro contable en cada una de las obras que la Secretaría realiza.
 
-V. Administrar los fondos revolventes de la Secretaría para la adquisición de bienes, servicios y suministros controlando el ejercicio del presupuesto de egresos autorizado en coordinación con la Secretaría de Finanzas y Administración.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2015)</small>
+
+V. Administrar los fondos revolventes de la Secretaría para la adquisición de bienes, servicios y suministros controlando el ejercicio del presupuesto de egresos autorizado en coordinación con la Secretaría de Hacienda.
 
 VI. Atender los requerimientos de Maquinaria, Equipo, Mobiliario y equipamiento en general para el desempeño correcto de la Secretaría.
 
 VII. Mantener inventarios de los bienes activos fijos, así como la prestación de los servicios de mantenimiento preventivo y correctivo de los inmuebles que ocupan las instalaciones de la Secretaría.
 
-VIII. Tramitar ante la Secretaría de Finanzas y Administración, lo relativo a nombramientos, ascensos, cambios de adscripción, licencias, permisos y vacaciones del personal de la Secretaría.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2015)</small>
+
+VIII. Tramitar ante la Secretaría de Hacienda, lo relativo a nombramientos, ascensos, cambios de adscripción, licencias, permisos y vacaciones del personal de la Secretaría.
 
 IX. Controlar la integración, actualización, custodia y uso de los expedientes del personal que presta sus servicios en la Secretaría.
 
@@ -415,9 +469,11 @@ XIV. Representar a la Secretaría en los actos concernientes a facultades admini
 
 XV. Las demás que le señalen las disposiciones legales y reglamentarias y las que le asigne el Secretario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 20.
 
-Compete al Departamento de Servicios Jurídicos el despacho de los siguientes asuntos:
+Compete al Departamento de Servicios Jurídicos el Despacho de los siguientes asuntos:
 
 I. Asesorar al Secretario y a las diversas Unidades Orgánicas que integran la Secretaría, en todos los asuntos de naturaleza jurídica, que se presenten con motivo del desempeño de sus funciones.
 
@@ -429,11 +485,15 @@ IV. Representar a la Secretaría en los trámites ante otras dependencias y enti
 
 V. Representar legalmente a la Secretaría en los actos en que ésta tenga que intervenir jurídicamente ante toda clase de autoridades jurisdiccionales o administrativas, siempre y cuando no se trate de facultades exclusivas del Secretario.
 
-VI. Elaborar los convenios necesarios para el desarrollo de las atribuciones de la Secretaría, con el Gobierno Federal, Entidades Federativas, Ayuntamientos, Organismos Descentralizados, Empresas de Participación Estatal y Particulares, de acuerdo a las instrucciones del Secretario y con el apoyo de los Directores o Jefes de Departamento del área a que el asunto corresponda.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2015)</small>
+
+VI. Elaborar los convenios necesarios para el desarrollo de las atribuciones de la Secretaría, con el Gobierno Federal, Entidades Federativas, Ayuntamientos, Organismos Descentralizados, Empresas de Participación Estatal y Particulares, de acuerdo a las instrucciones del Secretario y con el apoyo del Subsecretario, los Directores o Jefes de Departamento del área a que el asunto corresponda.
 
 VII. Por instrucciones del Secretario, elaborar las convocatorias para las Licitaciones Públicas, las actas de apertura de propuestas técnicas y económicas, solicitudes de dictámenes, fallos y notificaciones de fallo que se emitan en las mismas de conformidad con las Leyes de la materia.
 
-VIII. Elaborar a solicitud del Secretario, los contratos de obra pública y de servicios relacionados con la misma, así como realizar las acciones necesarias para efectuar la suspensión, terminación anticipada o rescisión de dichos contratos, y determinar y recabar las garantías que se deban otorgar con motivo de dichos contratos y resguardarlas para su posterior remisión a la Secretaría de Finanzas y Administración.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2015)</small>
+
+VIII. Elaborar a solicitud del Secretario, los contratos de obra pública y de servicios relacionados con la misma, así como realizar las acciones necesarias para efectuar la suspensión, terminación anticipada o rescisión de dichos contratos, y determinar y recabar las garantías que se deban otorgar con motivo de dichos contratos y resguardarlas para su posterior remisión a la Secretaría de Hacienda.
 
 IX. Realizar el estudio, análisis y compilación de las Leyes, Decretos, Reglamentos, Convenios, Circulares y demás disposiciones relacionadas con asuntos de la competencia de la Secretaría, promoviendo su actualización;
 
@@ -449,7 +509,9 @@ XIV. Formular, o en su caso revisar, los proyectos de leyes, reglamentos, decret
 
 XV. Determinar las bases y los requisitos legales a que deberán sujetarse los actos jurídicos, que celebre la Secretaría, así como intervenir en el estudio, formulación, otorgamiento, revocación o modificación de los mismos, en coordinación con las áreas involucradas.
 
-XVI. Auxiliar a las Direcciones en la elaboración de los estudios de impacto ambiental o manifestaciones de impacto ambiental que se deban de realizar con motivo de las diversas obras públicas.
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2015)</small>
+
+XVI. Auxiliar a la Subsecretaría y a las Direcciones en la elaboración de los estudios de impacto ambiental o manifestaciones de impacto ambiental que se deban de realizar con motivo de las diversas obras públicas.
 
 XVII. Asistir a juntas y reuniones en donde se requiera la opinión jurídica y participación del personal que integra el Departamento.
 
@@ -575,29 +637,7 @@ V. Las demás que le señalen las disposiciones legales y reglamentarias y las q
 
 ###### ARTÍCULO 27.
 
-Compete al Departamento de Electrificación y Ahorro de Energía las siguientes atribuciones:
-
-I. Fungir como órgano técnico de consulta, de coordinación y colaboración entre los sectores público, social y privado a nivel estatal, para promover y desarrollar programas y proyectos de ahorro y uso eficiente de energía eléctrica.
-
-II. Fomentar la participación de los sectores productivos del Estado, para desarrollar proyectos y acciones para un mejor uso de la electricidad y ahorro de energía.
-
-III. Coordinar las actividades que en materia de ahorro y uso eficiente de energía eléctrica deban realizar las dependencias y organismos auxiliares de la Administración Pública Centralizada y Paraestatal del Ejecutivo.
-
-IV. Brindar asesoría y consulta a los Municipios del Estado, así como a los distintos organismos oficiales, para desarrollar programas y proyectos en materia de ahorro y uso eficiente de energía eléctrica.
-
-V. Proponer al Ejecutivo las medidas que deberán adoptar, con carácter obligatorio, las dependencias y organismos descentralizados para lograr un aprovechamiento racional de la energía eléctrica.
-
-VI. Fomentar las actividades educativas de investigación y desarrollo tecnológico, relacionadas con el uso racional de los recursos energéticos, así como la difusión de los logros que en este campo se obtengan en los ámbitos estatal, nacional e internacional.
-
-VII. Desarrollar estudios y proyectos en las materias propias de su competencia y fomentar el aprovechamiento de los recursos energéticos renovables.
-
-VIII. Realizar campañas para concientizar a los usuarios de energía eléctrica para efecto del uso y ahorro eficiente de la misma.
-
-IX. Desarrollar y proponer estudios y proyectos que conlleven a un uso más racional de energía y lograr un desarrollo sustentable, incrementando la productividad y preservando el medio ambiente y recursos naturales.
-
-X. Participar en convenios de coordinación con organismos públicos y privados, tanto nacionales como internacionales, que estén relacionados con las materias de su competencia.
-
-XI. Las demás que le señalen las disposiciones legales y reglamentarias y las que le encomiende el Director.
+(DEROGADO, P.O. 11 DE JULIO DE 2015)
 
 ### CAPÍTULO QUINTO. COMPETENCIA DE LOS DEPARTAMENTOS DEPENDIENTES DE LA DIRECCIÓN DE OBRAS PÚBLICAS
 
@@ -661,37 +701,115 @@ III. Elaborar los informes que permitan conocer el avance y calidad de las obras
 
 IV. Las demás que le señalen las disposiciones legales y reglamentarias y las que le encomiende el Secretario o el Director de Obras Públicas.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2015)</small>
+
+### CAPÍTULO QUINTO BIS. COMPETENCIA DE LOS DEPARTAMENTOS DEPENDIENTES DE LA SUBSECRETARÍA DE OBRAS PÚBLICAS DE LA FRONTERA
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2015)</small>
+
+ARTÍCULO 31 BIS.- Compete al Departamento de Construcción de Obras Públicas en Ciudad Juárez las siguientes atribuciones:
+
+I. Formular anualmente los programas de construcción de las obras públicas en la zona fronteriza.
+
+II. Formular las especificaciones técnicas, a las que deban sujetarse los proyectos de construcción de las obras en la zona fronteriza, con el fin de hacerlo del conocimiento de los contratistas que participen en los diversos procedimientos de contratación de dichas obras y para determinar previamente el costo estimativo de la obra.
+
+III. Atender y analizar las solicitudes de construcción de obras públicas en la zona fronteriza, que presenten los diversos sectores de la comunidad y determinar a través de los estudios necesarios la factibilidad de la realización de la obra.
+
+IV. Determinar prioridades de construcción de obras públicas relativas a la construcción, reconstrucción y conservación de edificios públicos, monumentos y todas las obras de ornato a cargo del Gobierno del Estado en la zona fronteriza, atendiendo al beneficio de un mayor número de comunidades.
+
+V. Efectuar la revisión del precio unitario que ofrezcan los contratistas, considerando en su caso, los incrementos en el costo de los materiales, la mano de obra y los demás factores que intervienen en los procesos de construcción en la zona fronteriza.
+
+VI. Supervisar y controlar que los trabajos de la Empresa a la que se adjudique la realización de la obra en la zona fronteriza, cumplan con las condiciones de calidad, oportunidad y costo acordados.
+
+VII. Producir y evaluar la información relativa al avance físico y financiero de la construcción de las obras públicas en la zona fronteriza.
+
+VIII. Coordinarse con el Departamento de Servicios Jurídicos de la Secretaría, para tramitar todas aquellas afectaciones a que haya lugar, para el proceso de construcción de obras públicas relativas a la construcción, reconstrucción y conservación de edificios públicos, monumentos y obras de ornato en la zona fronteriza.
+
+IX. Coordinar y controlar el funcionamiento de las diversas residencias ubicadas en los lugares donde se realice la construcción de obras en la zona fronteriza.
+
+X. Las demás funciones que le señalen las disposiciones legales y reglamentarias y las demás que le encomiende el Subsecretario.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2015)</small>
+
+ARTÍCULO 31 TER.- Compete al Departamento de Proyectos en Ciudad Juárez las siguientes atribuciones:
+
+I. Realizar los estudios topográficos, hidráulicos y geotécnicos que se requieran para integrar los proyectos de construcción de obras públicas relativas a la construcción, reconstrucción y conservación de edificios públicos, monumentos y obras de ornato de carácter estatal en la zona fronteriza.
+
+II. Elaborar con base en la información obtenida en los estudios correspondientes, los proyectos preliminares y definitivos de construcción de edificios públicos, monumentos, obras urbanísticas y demás inmuebles de propiedad estatal que se encuentran en la zona fronteriza.
+
+III. Realizar los estudios necesarios para determinar la factibilidad de la realización de las obras públicas de competencia de la Subsecretaría de Obras Públicas de la Frontera, cuya construcción sea solicitada por los diversos sectores de la comunidad en la zona fronteriza.
+
+IV. Las demás funciones que le señalen las disposiciones legales y reglamentarias y las que le encomiende el Subsecretario de Obras Públicas de la Frontera.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2015)</small>
+
+ARTÍCULO 31 QUÁTER.- Compete al Departamento de Construcción de Caminos en Ciudad Juárez las siguientes atribuciones:
+
+I. Realizar los estudios topográficos, hidráulicos, geotécnicos y de selección de rutas, que se requieran para integrar los proyectos de construcción de caminos, carreteras, puentes y demás vías terrestres de comunicación estatal en la zona fronteriza.
+
+II. Elaborar, con base en la información obtenida en los estudios correspondientes, los proyectos preliminares y definitivos de construcción de caminos, carreteras, puentes y demás vías de comunicación terrestre estatales en la zona fronteriza y someterlos a la aprobación del Subsecretario.
+
+III. Formular anualmente los programas de obra de construcción de carreteras, puentes y demás vías de comunicación terrestre de carácter estatal en la zona fronteriza.
+
+IV. Formular las especificaciones técnicas, a las que deban sujetarse los proyectos de construcción de las obras en la zona fronteriza, con el fin de hacerlo del conocimiento de los contratistas que participen en los diversos procedimientos de contratación de dichas obras y para determinar previamente el costo estimativo de la obra.
+
+V. Atender y analizar las solicitudes de construcción de caminos y demás vías de comunicación terrestre de competencia estatal en la zona fronteriza, que presentan los diversos sectores de la comunidad y determinar a través de estudios necesarios, la factibilidad de realización de la obra.
+
+VI. Determinar prioridades de obra de construcción de caminos y demás vías de comunicación, terrestre de competencia estatal en la zona fronteriza, a cargo del Gobierno del Estado, atendiendo el beneficio de un mayor número de comunidades.
+
+VII. Realizar las acciones necesarias para el cumplimiento de los acuerdos o convenios celebrados con la Federación o los Municipios, para llevar a cabo la construcción de carreteras, caminos, libramientos, puentes y demás vías de comunicación terrestre en la zona fronteriza.
+
+VIII. Coordinar y controlar el funcionamiento de las diversas residencias, ubicadas en los lugares donde se realicen obras de construcción de caminos en la zona fronteriza.
+
+IX. Supervisar y controlar que los particulares a los que se adjudiquen los contratos para la realización de las obras en la zona fronteriza, cumplan con las condiciones de calidad, oportunidad y costo estipulados en los mismos.
+
+X. Elaborar y evaluar la información relativa a los avances físicos y financieros de las obras de construcción de caminos en la zona fronteriza.
+
+XI. Coordinarse con el Departamento de Servicios Jurídicos de la Secretaría, en el trámite de las afectaciones de bienes y propiedades a que haya lugar, para la ejecución de los programas de construcción de caminos y otras obras similares en la zona fronteriza.
+
+XII. Proyectar e instalar los señalamientos necesarios en las obras de comunicación a su cargo en la zona fronteriza.
+
+XIII. Las demás que le señalen las disposiciones legales y reglamentarias y las demás que le encomiende el Subsecretario.
 
 ## TÍTULO SEXTO. SUPLENCIA DE FUNCIONARIOS
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 32.
 
-En caso de ausencia temporal del Secretario que no exceda del plazo a que refiere el artículo siguiente, será suplido por el Director de Obras Públicas o por el Director de Caminos o por el Director de Infraestructura Municipal o por el Director de Obras Públicas de la Frontera, en ese orden.
+En caso de ausencia del Secretario que no exceda del plazo a que refiere el artículo siguiente, será suplido por el Director de Obras Públicas o por el Director de Caminos o por el Director de Infraestructura Municipal o por el Subsecretario de Obras Públicas de la Frontera, en ese orden.
 
 ###### ARTÍCULO 33.
 
 Cuando la ausencia del Secretario exceda de treinta días, el C. Gobernador del Estado podrá nombrar al servidor público que lo sustituya.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 34.
 
-La ausencia temporal o accidental de alguno de los Directores o de los Jefes de Departamento dependientes directamente del Secretario, será suplida por la persona que éste designe.
+La ausencia temporal o accidental del Subsecretario, de alguno de los Directores o de los Jefes de Departamento dependientes directamente del Secretario, será suplida por la persona que éste designe.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 35.
 
-Los Jefes de Departamentos adscritos a una Dirección, durante su ausencia temporal o accidental, serán sustituidos por quien designe el Director correspondiente.
+Los Jefes de Departamento adscritos a la Subsecretaría o a alguna Dirección, durante su ausencia temporal o accidental, serán sustituidos por quien designe el Director correspondiente.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 36.
 
-Cuando la ausencia de los Directores o Jefes de Departamentos exceda de sesenta días, el Secretario podrá nombrar al servidor público que lo sustituya.
+Cuando la ausencia del Subsecretario, de los Directores o Jefes de Departamento exceda de sesenta días, el Secretario podrá nombrar al servidor público que lo sustituya.
 
 ###### ARTÍCULO 37.
 
 Las licencias podrán ser otorgadas y revocadas en los términos de las Condiciones Generales de Trabajo del Gobierno del Estado de Chihuahua y sus trabajadores.
 
 ## TÍTULO SÉPTIMO. DE LAS RELACIONES DE TRABAJO ENTRE LA SECRETARÍA Y SUS TRABAJADORES
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 38.
 
@@ -715,7 +833,7 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JOSÉ REYES BAEZA TERRAZAS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO INTERINO. HÉCTOR H. HERNÁNDEZ VARELA. Rúbrica. EL SECRETARIO DE COMUNICACIONES Y OBRAS PÚBLICAS. ING. LUIS ALONSO FERNÁNDEZ CASILLAS. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 28 DE JUNIO DE 2008.
 
@@ -726,3 +844,9 @@ El presente Acuerdo entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese en el Periódico Oficial del Estado.
+
+P.O. 11 DE JULIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
