@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2015-05-16"
+last_updated: "2015-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2015.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -327,6 +327,24 @@ II. Se integrarán por vecinos del municipio, por designación de ellos mismos, 
 
 III. Contribuirán al cumplimiento de los planes y programas del municipio, impulsarán la colaboración y participación de sus habitantes, gestionarán la atención de demandas y propuestas de interés general, propondrán al ayuntamiento medidas para la prestación de servicios públicos, para la realización de obra pública y para la preservación y restauración del ambiente, así como alternativas de solución para los problemas de sus localidades o regiones.
 
+> <small>(ADICIONADA, CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 11 DE JULIO DE 2015)</small>
+
+#### SECCIÓN ÚNICA. DE LOS COMITÉS MUNICIPALES DE PARTICIPACIÓN VECINAL
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2015)</small>
+
+ARTICULO 24 BIS. Los comités son órganos, apartidistas e independientes de la función pública, de representación vecinal que tienen como función principal vincular a los habitantes del entorno en que haya (sic) sido designados con las autoridades públicas del gobierno municipal.
+
+Su finalidad es el logro de beneficios comunitarios en temas relativos a la consulta, gestión, promoción, planeación, ejecución, seguimiento y evaluación de obras y servicios públicos, y aquellos que los comités consideren trascendentes para su comunidad.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2015)</small>
+
+ARTICULO 24 BIS 1. Sus actividades son permanentes, pero se hará una renovación periódica de sus integrantes; quienes no podrán desempeñar cargos en algún partido político o dependencia gubernamental del ámbito federal, estatal o municipal.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2015)</small>
+
+ARTICULO 24 BIS 2. Con sujeción a los principios de democracia, tolerancia, participación, solidaridad, transparencia, pluralidad, y autonomía, los Ayuntamientos establecerán y regularán, en el reglamento correspondiente, la conformación, elección de los integrantes, su remoción, así como el funcionamiento general, los derechos, atribuciones y obligaciones de los comités de participación vecinal.
+
 ## TÍTULO SEGUNDO. DEL GOBIERNO MUNICIPAL
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
@@ -591,7 +609,9 @@ h) Nombrar, a propuesta del presidente municipal, a los representantes del munic
 
 i) Celebrar convenios de colaboración con otros municipios, con la federación, con el gobierno del Estado o con los particulares;
 
-j) Nombrar a propuesta del presidente, al secretario, tesorero, oficial mayor y contralor municipales;
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
+
+j) Nombrar a propuesta del presidente, al secretario, tesorero, oficial mayor, contralor municipal y juez cívico;
 
 k) Introducir métodos y procedimientos en la selección y desarrollo del personal, que propicien la institucionalización del servicio civil de carrera municipal;
 
@@ -603,7 +623,9 @@ n) Acordar la contratación de obras y servicios públicos municipales, en térm
 
 o) Acordar la suscripción de convenios con las autoridades estatales para la ejecución y operación de obras, la prestación de servicios públicos o la asunción de atribuciones que corresponda a aquéllas;
 
-p) Crear y suprimir las dependencia (sic) u organismos necesarios para el despacho de los asuntos de orden administrativo y la atención de los servicios públicos;
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
+
+p) Crear y suprimir las dependencias u organismos necesarios para el despacho de los asuntos de orden administrativo, de atención a servicios públicos y de relaciones vecinales;
 
 q) Intervenir ante toda clase de autoridades civiles o militares, cuando por disposición de tipo administrativo se afecten intereses municipales; y
 
@@ -627,9 +649,21 @@ g) Solicitar la expropiación de bienes por causa de utilidad pública;
 
 h) Promover y auxiliar en el cumplimiento y ejecución de los planes nacional y estatal de desarrollo y de desarrollo urbano;
 
-i) Acordar la enajenación de inmuebles del patrimonio municipal, con la aprobación de cuando menos las dos terceras partes de sus integrantes y autorizar el arrendamiento, usufructo o comodato de los bienes del municipio; y
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
 
-j) Vigilar la conclusión de las obras iniciadas y dar seguimiento a las acciones que se hayan programado en los planes de desarrollo municipal de administraciones anteriores.
+i) Acordar la enajenación de inmuebles del patrimonio municipal, con la aprobación de cuando menos las dos terceras partes de sus integrantes y autorizar el arrendamiento, usufructo o comodato de los bienes del municipio;
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
+
+j) Vigilar la conclusión de las obras iniciadas y dar seguimiento a las acciones que se hayan programado en los planes de desarrollo municipal de administraciones anteriores;
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2015)</small>
+
+k) Consultar anualmente, previo a la elaboración del Programa Operativo Anual y otros planes o programas relacionados con el desarrollo y la obra pública del municipio, a los comités de participación vecinal sobre las necesidades de inversión en reparación, modernización, mantenimiento y edificación de infraestructura pública, de sus colonias o barrios; y
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2015)</small>
+
+l) Elaborar un diagnóstico por colonia de las necesidades de servicios públicos y desarrollo urbano, por conducto de la comisión correspondiente.
 
 III. En materia de servicios públicos:
 
@@ -743,7 +777,9 @@ c) Suscribir a nombre del ayuntamiento y en los casos que lo ameriten con autori
 
 d) Conducir las relaciones políticas del ayuntamiento con los poderes federales, estatales y con otros municipios y representar a la institución oficial en todos los actos oficiales;
 
-e) Proponer al cabildo los nombramientos del secretario, tesorero, oficial mayor y contralor municipales, y removerlos en caso justificado.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
+
+e) Proponer al Cabildo los nombramientos del secretario, tesorero, oficial mayor, contralor municipal y juez cívico, así como removerlos en caso justificado;
 
 f) Solicitar la publicación en el periódico oficial de reglamentos y demás disposiciones de observancia general concernientes al municipio;
 
@@ -1215,9 +1251,57 @@ XV. Solicitar a los titulares de las dependencias y entidades de la administraci
 
 XVI. Las demás que le confiera esta u otras leyes, reglamentos, bandos municipales y acuerdos del ayuntamiento.
 
-### CAPÍTULO VII. DE LA ADMINISTRACIÓN PÚBLICA PARAMUNICIPAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2015)</small>
 
-### CAPÍTULO I. SERVICIOS PÚBLICOS
+### CAPÍTULO VI BIS. DEL JUEZ CÍVICO
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2015)</small>
+
+ARTICULO 78 BIS.- Para la preservación del orden y la paz pública, así como dirimir los conflictos entre vecinos, y/o entre éstos y la administración pública municipal, los ayuntamientos podrán contar con un Juzgado Cívico, que será designado por el cabildo a propuesta del presidente.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2015)</small>
+
+ARTICULO 78 BIS 1.- Son atribuciones del Juez Cívico:
+
+I. Conocer de las infracciones establecidas en el Reglamento Interior del Juzgado Cívico;
+
+II. Recibir y dar trámite a las quejas presentadas por los habitantes del municipio, que constituyan una violación a esta Ley, y los reglamentos municipales.
+
+III. Resolver sobre la responsabilidad de los probables infractores;
+
+IV. Imponer las sanciones correspondientes, consultando el Registro Municipal de Infractores, con el fin de verificar si el Infractor es reincidente;
+
+V. Ejercer las funciones de mediación y conciliación a que se refiere el Reglamento Interior del Juzgado Cívico;
+
+VI. Determinar y aplicar las sanciones establecidas en la presente Ley, el Reglamento Interior del Juzgado Cívico y demás disposiciones legales que así lo determinen;
+
+VII. Intervenir en los términos de la presente Ley, y el Reglamento Interior del Juzgado Cívico, en conflictos vecinales, con el fin de avenir a las partes o conocer de las infracciones cívicas que se deriven de tales conductas.
+
+VIII. Llevar el control de los expedientes relativos a los asuntos que se ventilen en el Juzgado;
+
+IX. Expedir constancias relativas a hechos y documentos contenidos en los expedientes integrados con motivo de los procedimientos de que tenga conocimiento, una vez concluido el expediente de queja;
+
+X. Expedir constancias de hechos a solicitud de particulares, quienes harán las manifestaciones bajo protesta de decir verdad, una vez concluido el expediente de queja;
+
+XI. Solicitar por escrito a las autoridades competentes, el retiro de objetos que estorben la vía pública y la limpia de lugares que deterioren el ambiente y dañen la salud pública, atendiendo desde luego situaciones de mejoramiento del entorno, preservar la tranquilidad ciudadana y garantizar la seguridad y dignidad de las personas;
+
+XII. El mando del personal que integra el Juzgado, para los efectos inherentes a su función;
+
+XIII. Conceder la permuta de la sanción por trabajo en favor de la comunidad;
+
+XIV. Retener y devolver los objetos y valores de los presuntos infractores, o que sean motivo de la controversia, previo recibo que expida. No podrá devolver los objetos que por su naturaleza sean peligrosos, o los que estén relacionados con las infracciones contenidas en el Reglamento Interior del Juzgado Cívico, en cuyo caso se procederá conforme a la normatividad correspondiente, pudiendo ser reclamados ante ésta cuando proceda;
+
+XV. Comisionar al personal del Juzgado para realizar notificaciones y diligencias;
+
+XVI. Autorizar y designar la realización de las actividades de apoyo a la comunidad a solicitud del responsable;
+
+XVII. Poner inmediatamente a disposición del Ministerio Público a aquellas personas que hayan sido detenidas cometiendo un delito en flagrancia;
+
+XVIII. Solicitar el auxilio de la fuerza pública de ser necesario, para el adecuado funcionamiento del Juzgado; y
+
+XIX. Las demás atribuciones que le confieran el Reglamento Interior del Juzgado Cívico y otros ordenamientos.
+
+### CAPÍTULO VII. DE LA ADMINISTRACIÓN PÚBLICA PARAMUNICIPAL
 
 ###### ARTICULO 79.
 
@@ -1259,7 +1343,7 @@ El Ayuntamiento Podrá Participar en convenios de asociación productiva, partic
 
 ## TÍTULO CUARTO. DE LOS SERVICIOS PÚBLICOS
 
-### CAPÍTULO II. DE LA SEGURIDAD PÚBLICA Y TRÁNSITO
+### CAPÍTULO I. SERVICIOS PÚBLICOS
 
 ###### ARTICULO 86.
 
@@ -1313,7 +1397,7 @@ Cuando no se cumpla esta disposición, la autoridad municipal correspondiente, n
 
 Los Ayuntamientos deberán establecer y desarrollar en su reglamento correspondiente el procedimiento que establece el párrafo anterior de este artículo, respetando la garantía de audiencia de los ciudadanos requeridos, el derecho de propiedad privada y estableciendo la hipótesis en que se puede notificar personalmente al propietario o poseedor, como cuando se ignore su domicilio, el de su representante, o se encuentre fuera del territorio municipal.
 
-### CAPÍTULO III. DE LOS CONVENIOS DE ASOCIACIÓN Y COORDINACIÓN
+### CAPÍTULO II. DE LA SEGURIDAD PÚBLICA Y TRÁNSITO
 
 ###### ARTICULO 89.
 
@@ -1361,7 +1445,7 @@ IX. Las demás que les sean señaladas por el artículo 21 de la Constitución P
 
 La actuación de los elementos de tránsito, se regirá por los principios de legalidad, eficiencia, profesionalismo y honradez.
 
-### CAPÍTULO IV. DE LAS CONCESIONES DE BIENES Y SERVICIOS PÚBLICOS MUNICIPALES
+### CAPÍTULO III. DE LOS CONVENIOS DE ASOCIACIÓN Y COORDINACIÓN
 
 ###### ARTICULO 92.
 
@@ -1405,9 +1489,7 @@ El Congreso podrá ordenar los estudios y análisis técnicos para determinar lo
 
 Los conflictos que se presenten con motivo de la aplicación de los convenios a que se refiere este capítulo, serán resueltos por el Supremo Tribunal de Justicia, sin perjuicio del derecho de acudir en controversia constitucional en los términos del artículo 105 de la Constitución General.
 
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
+### CAPÍTULO IV. DE LAS CONCESIONES DE BIENES Y SERVICIOS PÚBLICOS MUNICIPALES
 
 ###### ARTICULO 95.
 
@@ -1611,7 +1693,7 @@ Las resoluciones de extinción de las concesiones de servicios públicos, se pub
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 110.
 
@@ -1657,11 +1739,11 @@ Los actos de preparación del plan y programas estarán a cargo de los consejos 
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
+
 ###### ARTICULO 116.
 
-Los Ayuntamientos están facultados para aprobar, de acuerdo con esta Ley, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general, que organicen el gobierno y la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia, y aseguren la participación ciudadana y vecinal.
-
-Los ordenamientos jurídicos anteriores podrán reformarse cuando se cumplan con los requisitos de discusión, aprobación, promulgación y publicación por parte del Ayuntamiento.
+Los Ayuntamientos están facultados para aprobar, de acuerdo con esta Ley, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general, que organicen el gobierno y la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia, aseguren la participación ciudadana, y promuevan el desarrollo de la vida comunitaria y vecinal.
 
 > <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
 
@@ -1731,7 +1813,9 @@ VI.- Los relativos a salud pública y educación, previa coordinación con la au
 
 VII.- Los que estructuren los organismos de participación ciudadana y vecinal;
 
-VIII.- Los que regulen las actividades de los habitantes del Municipio y establecen la relación del Ayuntamiento con los particulares, en un marco de respeto al derecho, la paz pública y la tranquilidad, que propicien el desarrollo de la vida comunitaria; y
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2015)</small>
+
+VIII.- Los que regulen las actividades de los habitantes del Municipio y establecen la relación del Ayuntamiento con los particulares, en un marco de respeto al derecho, la paz pública y la tranquilidad, que propicien el desarrollo de la vida comunitaria, y fomenten una cultura basada en valores y buenos vecinos; y
 
 IX.- Los demás que sean necesarios para dar cumplimiento a las leyes municipales.
 
@@ -1763,7 +1847,7 @@ ARTICULO 119 TER.- Todos los municipios deberán contar con el Reglamento del Go
 
 ## TÍTULO SÉPTIMO. DEL PROCESO CONTENCIOSO MUNICIPAL
 
-### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO ÚNICO
 
 ###### ARTICULO 120.
 
@@ -1779,7 +1863,7 @@ Las resoluciones dictadas por los órganos contencioso-administrativos municipal
 
 ## TÍTULO OCTAVO. DISPOSICIONES FINALES
 
-### CAPÍTULO II. DE LA DECLARACIÓN DE SITUACIÓN PATRIMONIAL
+### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTICULO 123.
 
@@ -1794,6 +1878,10 @@ III. Jornadas en favor de la comunidad;
 IV. Suspensión de funcionamiento; y
 
 V. Clausura del establecimiento o actividad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JULIO DE 2015)</small>
+
+En los municipios que cuenten con Juez Cívico, las sanciones establecidas en el presente artículo, se deberán fincar mediante resolución definitiva.
 
 ###### ARTICULO 124.
 
@@ -1817,13 +1905,17 @@ El inspector, verificador o personal comisionado entregará, en su caso, una cop
 
 ARTICULO 124 BIS.- Se exceptúan los requisitos contenidos en las fracciones IV, V y VI del artículo 124 de esta Ley, en la elaboración de actas circunstanciadas por infracciones en materia de tránsito conocidas a través de equipos o sistemas tecnológicos y gestionadas con el uso de medios electrónicos, subsistiendo para la autoridad que impone la sanción la obligatoriedad de realizar la notificación de la infracción vía correo certificado con acuse de recibo en el domicilio del propietario del vehículo con el que se cometió, motivando y fundamentado el acto de autoridad.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
+
 ###### ARTICULO 125.
 
-La autoridad municipal competente, dentro de los cinco días siguientes a la conclusión del plazo a que se refiere el artículo anterior, emitirá la resolución procedente, con base en los hechos consignados en el acta así como en el alegato producido por el infractor y las pruebas aportadas, en su caso.
+El Juez Cívico, o la autoridad municipal competente, dentro de los cinco días siguientes a la conclusión del plazo a que se refiere el artículo 124, emitirá la resolución procedente, con base en los hechos consignados en el acta así como en el alegato producido por el infractor y las pruebas aportadas, en su caso.
+
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 126.
 
-La aplicación de las sanciones corresponderá originariamente al presidente municipal, quien podrá delegarla en la dependencia administrativa competente o en un servidor público que se denominará oficial calificador, en los términos de esta Ley así como en los reglamentos y disposiciones municipales aplicables.
+La aplicación de las sanciones corresponderá originariamente al presidente municipal, quien podrá delegarla en la dependencia administrativa competente o en un servidor público que se denominará Juez Cívico, y oficial calificador en materia de Tránsito y Vialidad, en los términos de esta Ley así como en los reglamentos y disposiciones municipales aplicables.
 
 ###### ARTICULO 127.
 
@@ -1835,7 +1927,11 @@ Si del expediente relativo y de la infracción cometida, se desprenden hechos co
 
 Para los efectos y aplicación de las sanciones, se atenderá a lo dispuesto por el reglamento relativo, a las circunstancias en que se cometió la infracción y a la situación económica y personal del infractor.
 
-### CAPÍTULO III. DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS Y EMPLEADOS
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2015)</small>
+
+ARTÍCULO 128 BIS.- Corresponde al presidente municipal conocer de los recursos de las infracciones administrativas, quien delegará la responsabilidad en el Juez Cívico, quien conocerá, además de las facultades otorgadas en el Reglamento Interior del Juzgado Cívico, de las (sic) medios de impugnación a las sanciones aplicadas en materia de Tránsito y Vialidad, impuestas por el Juez Calificador.
+
+### CAPÍTULO II. DE LA DECLARACIÓN DE SITUACIÓN PATRIMONIAL
 
 ###### ARTICULO 129.
 
@@ -1854,6 +1950,8 @@ V. Los demás señalados en los reglamentos municipales.
 ###### ARTICULO 130.
 
 La declaración de situación patrimonial deberá presentarse en los plazos y términos que al efecto señale la Ley Estatal de Responsabilidades de los Servidores Públicos.
+
+### CAPÍTULO III. DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS Y EMPLEADOS
 
 ###### ARTICULO 131.
 
@@ -2000,3 +2098,19 @@ P.O. 16 DE MAYO DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Los ayuntamientos del Estado, contarán con un plazo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, para reformar su reglamentación correspondiente y establecer el procedimiento para el saneamiento y limpia de construcciones deshabitadas y lotes baldíos en los términos que establece este Decreto.
+
+P.O. 11 DE JULIO DE 2015.
+
+DECRETO NÚMERO 513 POR EL QUE SE REFORMAN LOS INCISOS J) Y P) DE LA FRACCIÓN I DEL ARTÍCULO 45; EL INCISO E) DE LA FRACCIÓN I DEL ARTÍCULO 47; EL ARTÍCULO 116, LA FRACCIÓN VIII DEL ARTÍCULO 119; LOS ARTÍCULOS 123, 125 Y 126; ASIMISMO SE ADICIONA EL CAPÍTULO VI BIS Y LOS ARTÍCULOS 78 BIS, 78 BIS 1 Y 128 BIS DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Los Ayuntamientos del Estado que adopten la figura del Juez Cívico, deberán ajustar sus disposiciones reglamentarias a lo dispuesto por el presente Decreto.
+
+P.O. 11 DE JULIO DE 2015.
+
+DECRETO NÚMERO 516 POR EL QUE SE REFORMAN LOS INCISOS I) Y J) DE LA FRACCIÓN II DEL ARTÍCULO 45; ASÍ COMO SE ADICIONA LA SECCIÓN ÚNICA DE LOS COMITÉS MUNICIPALES DE PARTICIPACIÓN VECINAL, AL CAPÍTULO QUINTO, DEL TÍTULO PRIMERO, INTEGRADA POR LOS ARTÍCULOS 24 BIS, 24 BIS 1 Y, 24 BIS 2; Y LOS INCISOS K) Y L) DE LA FRACCIÓN II AL ARTÍCULO 45, TODOS DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Los Ayuntamientos del Estado contarán con un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto, para emitir las disposiciones reglamentarias necesarias en términos de lo establecido en el mismo.
