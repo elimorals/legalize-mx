@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-la-ley-de-vialidad-y-transito-para-el-estado-5587
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-08-24"
-last_updated: "2013-08-24"
+last_updated: "2015-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55876&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "CHH"
 ---
 # REGLAMENTO DE LA LEY DE VIALIDAD Y TRANSITO PARA EL ESTADO DE CHIHUAHUA
 
-REGLAMENTO DE LA LEY DE VIALIDAD Y TRANSITO PARA EL ESTADO DE CHIHUAHUA
+REGLAMENTO DE LA LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2015.
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 26 de mayo de 2007.
 
-LIC. JOSÉ REYES BAEZA TERRAZAS, Gobernador Constitucional del Estado libre y Soberano de Chihuahua, en ejercicio de las facultades que me concede el Artículo 93 Fracciones IV, V Y XIII de la Constitución Política del Estado y con fundamento en los Artículos 10 Fracción VII, 10, 11 Y 16, así como 25 Fracción VII de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, y
+LIC. JOSÉ REYES BAEZA TERRAZAS, Gobernador Constitucional del Estado libre y Soberano de Chihuahua, en ejercicio de las facultades que me concede el Artículo 93 Fracciones IV, V y XIII de la Constitución Política del Estado y con fundamento en los Artículos 10 Fracción VII, 10, 11 y 16, así como 25 Fracción VII de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, y
 
 CONSIDERANDO.
 
@@ -93,6 +93,10 @@ XV. Dirección.- La Dirección de Vialidad y Protección Civil de la Secretaría
 
 XVI. Estacionamiento.- Superficie de la vía pública destinada para alojar vehículos en forma temporal;
 
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2015)</small>
+
+XVI Bis. Foto-Infracción. Documento emitido por equipos o sistemas electrónicos certificados que genera la evidencia mediante imágenes, de los vehículos que sean detectados cometiendo una infracción a la Ley de Vialidad y Tránsito para el Estado de Chihuahua y al presente Reglamento.
+
 XVII. Glorieta.- Intersección donde confluyen varias vías públicas, alrededor de una rotonda central;
 
 XVIII. Inicio de Marcha.- Cuando el conductor pone en movimiento el vehículo, ya sea por haberse encontrado estacionado, ó por haber realizado una parada momentánea;
@@ -137,7 +141,7 @@ XXXV. Vía Pública.- Las avenidas, calzadas, paseos, puentes, distribuidores vi
 
 XXXVI. Vía de Circulación Continua.- Es aquella que permite la libre circulación de vehículos con intersecciones a desnivel o puentes con otras vías de circulación;
 
-XXXVII. Vía Secundaria.- Las que permiten el movimiento del tránsito entre áreas o partes de la ciudad y que pueden confluir con las vías primarias; y (sic)
+XXXVII. Vía Secundaria.- Las que permiten el movimiento del tránsito entre áreas o partes de la ciudad y que pueden confluir con las vías primarias; y
 
 XXXVIII. Zona Escolar.- Área adyacente a un centro escolar en la que existe tránsito vehicular y peatonal.
 
@@ -499,7 +503,7 @@ XVIII. Tablero de control con iluminación nocturna según las especificaciones 
 
 XIX. Salpicaderas en la parte delantera y posterior del vehículo; cofre que cubra totalmente el motor y el número de puertas requeridas según el modelo del vehículo en buen estado;
 
-XX. Extintor de fuego; y, (sic)
+XX. Extintor de fuego; y,
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
 
@@ -669,7 +673,7 @@ VI. Abrir zanjas o efectuar trabajos sin permiso de la autoridad competente;
 
 VII. Reparar o dar mantenimiento a vehículos, a menos de que se trate de una evidente emergencia;
 
-VIII. Jugar o transitar en bicicletas, patines, patinetas, triciclos, vehículos motorizados u otros juguetes similares en las calles, las banquetas y en general en cualquiera vía publica; y (sic)
+VIII. Jugar o transitar en bicicletas, patines, patinetas, triciclos, vehículos motorizados u otros juguetes similares en las calles, las banquetas y en general en cualquiera vía publica; y
 
 IX. Realizar demostración o venta de vehículos.
 
@@ -787,7 +791,7 @@ XIX. Respetar el límite de la velocidad permitida en las vías públicas;
 
 XX. En la zona centro, colonias, áreas residenciales y aproximaciones a los paraderos de transporte público, de no existir señalamiento gráfico de velocidad, respetar la velocidad máxima permitida de 40 kilómetros por hora.
 
-XXI. Respetar en todo momento todos los señalamientos de vialidad, ya sean gráficos, luminosos y los corporales realizados por los Oficiales de Vialidad y/o tránsito; y (sic)
+XXI. Respetar en todo momento todos los señalamientos de vialidad, ya sean gráficos, luminosos y los corporales realizados por los Oficiales de Vialidad y/o tránsito; y
 
 XXII. Los conductores que transiten de noche, en condiciones climatológicas tales como lluvia, nieve, neblina o en horas en que no haya luz solar, deberán conducir el vehículo con las luces exteriores encendidas.
 
@@ -869,7 +873,7 @@ XXVIII. Conducir el vehículo con un aparato de televisión encendido, ubicado e
 
 XXIX. Utilizar radio portátil de comunicación, teléfono celular o aparatos análogos al conducir;
 
-XXX. Agredir verbal o físicamente a los oficiales de vialidad; y (sic)
+XXX. Agredir verbal o físicamente a los oficiales de vialidad; y
 
 XXXI. Efectuar cualquier forma de competencias o acrobacias en la vía publica.
 
@@ -969,7 +973,7 @@ X. Obedecer las indicaciones que les hagan los Oficiales de Vialidad y/o Tránsi
 
 XI. Las personas invidentes o débiles visuales deben llevar un bastón blanco con franjas rojas mientras caminan por las vías públicas;
 
-XII. Evitar hacer el cruce entre vehículos estacionados; y (sic)
+XII. Evitar hacer el cruce entre vehículos estacionados; y
 
 XIII. En las carreteras y vías de circulación continua, al no existir algún semáforo o paso peatonal, deberán ceder en todo momento preferencia de paso a los vehículos antes de intentar cruzarla.
 
@@ -1151,7 +1155,7 @@ V. Frente a la luz roja de un semáforo, los conductores detendrán la marcha de
 
 VI. La luz roja destellando indica que el conductor deberá hacer alto total para, después de cerciorarse de que no se aproximan otros vehículos por la arteria transversal, cruzando con precaución;
 
-VII. Cuando un semáforo presente señalización con las luces roja y ámbar destellando a la vez, los vehículos deberán disminuir su velocidad a la de 30 Kilómetros por hora, extremando precauciones. En el caso de cruzamiento de peatones, detendrán la marcha en la línea de alto marcada o en ausencia de ésta, antes de entrar en la zona reservada al cruce de peatones, pudiendo reanudar su trayectoria una vez que se haya cerciorado de que no se pone en peligro a terceros; y (sic)
+VII. Cuando un semáforo presente señalización con las luces roja y ámbar destellando a la vez, los vehículos deberán disminuir su velocidad a la de 30 Kilómetros por hora, extremando precauciones. En el caso de cruzamiento de peatones, detendrán la marcha en la línea de alto marcada o en ausencia de ésta, antes de entrar en la zona reservada al cruce de peatones, pudiendo reanudar su trayectoria una vez que se haya cerciorado de que no se pone en peligro a terceros; y
 
 VIII. Si la luz ámbar de un semáforo emite destellos intermitentes, los conductores disminuirán la velocidad al llegar a la intersección, tomando las precauciones necesarias para cruzar la calle o avenida.
 
@@ -1341,7 +1345,7 @@ IV. En los lugares donde la maniobra no pueda ser realizada sin efectuar reversa
 
 V. En sentido contrario al que tenga la calle transversal;
 
-VI. En avenidas de alta circulación; y (sic)
+VI. En avenidas de alta circulación; y
 
 VII. En donde exista señalamiento gráfico prohibitivo o línea continúa sobre el pavimento.
 
@@ -1643,7 +1647,7 @@ XIII. En los costados derechos de las vías de un solo sentido de circulación;
 
 XIV. En áreas señaladas para el cruce de peatones;
 
-XV. En sentido contrario o frente a hidrantes; y (sic)
+XV. En sentido contrario o frente a hidrantes; y
 
 XVI. En zonas en que exista un señalamiento que lo prohíba expresamente, ya sea con señalamiento gráfico, con línea amarilla en el pavimento o su guarnición. La Dirección y/o Delegación Municipal que corresponda, fijará los mencionados señalamientos, estableciendo los horarios y días de la semana en que exista la prohibición de estacionarse.
 
@@ -1887,7 +1891,7 @@ En aquellos casos que por la conducta o por otros signos notoriamente visibles, 
 
 ###### Artículo 168.
 
-En todos los casos que resulte positivo, el costo del examen químico toxicológicos o médico será a cargo del conductor.
+En todos los casos que resulte positivo, el costo del examen químico toxicológicos (sic) o médico será a cargo del conductor.
 
 ###### Artículo 169.
 
@@ -2103,6 +2107,28 @@ Si la infracción es pagada antes de quince días naturales y no es de las consi
 
 Si la infracción no es pagada dentro del término antes concedido, se cobrará aplicando un día de salario mínimo general vigente en el municipio, multiplicado por el número que aparece como máximo de cada infracción señalada en el tabulador.
 
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2015)</small>
+
+###### Artículo 191
+
+Bis. Las boletas de notificación de infracción, captadas a través de la foto-infracción o cualesquier otro dispositivo o medio tecnológico deberán, para su validez, contener, además de los requisitos establecidos por la Ley y el presente Reglamento, los siguientes datos:
+
+I. Nombre y domicilio de quien aparezca como titular de las placas de circulación del vehículo con el cual se cometió la infracción;
+
+II. Actos y hechos constitutivos de la infracción;
+
+III. Lugar, fecha y hora exacta en que se cometió la infracción;
+
+IV. Velocidad medida del vehículo infraccionado en kilómetros por hora, así como de la velocidad permitida en la zona;
+
+V. Fundamento jurídico, señalando las disposiciones de la Ley o el Reglamento trasgredidos;
+
+VI. Monto de la sanción impuesta que corresponda de acuerdo al tabulador;
+
+VII. Firma del funcionario que la emitió, señalando las facultades legales para emitirla, o del servidor público en el que se delegue esa atribución; y
+
+VIII. Folio de la boleta.
+
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 192.
@@ -2121,7 +2147,7 @@ V. Llenará la boleta de infracción, mediante la cual, le notificará al conduc
 
 VI. Tratándose de infracciones que ameriten la remisión del conductor o cuando el Oficial presuma por las condiciones en que se encuentra el vehículo o los documentos de circulación que se esta cometiendo algún delito tipificado como tal en el Código Penal o en otras leyes aplicables, deberá presentar al conductor ante el oficial calificador.
 
-VII. Ordenará la remisión del vehículo únicamente en los casos previstos por el presente reglamento; (sic)
+VII. Ordenará la remisión del vehículo únicamente en los casos previstos por el presente reglamento;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2013)</small>
 
@@ -2160,6 +2186,16 @@ Igual información contendrán las infracciones que se realicen por medios elect
 > <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2013)</small>
 
 Es obligación de todo propietario de vehículos registrados, estar al pendiente de las notificaciones por infracciones que registren sus vehículos, independientemente de que ellos no las hayan provocado, constituyéndose en deudores solidarios de las mismas.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2015)</small>
+
+###### Artículo 193
+
+Bis. Después de captada la comisión de la infracción, se manda a procesamiento, verificación, y posteriormente a autorización por parte del Director de la División de Vialidad y Tránsito o del servidor público en el que se delegue esa atribución.
+
+Una vez que sea notificada la misma, en el domicilio registrado en el padrón vehicular, que se lleva en la Secretaria de Hacienda del estado, el ciudadano podrá acudir ante el Oficial Calificador, dentro del término de 15 días naturales, para que se lleve a cabo el procedimiento a que se refiere el artículo 92 de la Ley de Vialidad y Tránsito.
+
+Es obligación de todo propietario de vehículos, notificar a la Secretaria de Hacienda del estado, si existe algún cambio de domicilio; así como estar al pendiente de las notificaciones por infracciones que registren sus vehículos, independientemente de que ellos no las hayan provocado, constituyéndose en deudores solidarios de las mismas.
 
 ###### Artículo 194.
 
@@ -2215,7 +2251,7 @@ I. Que lo solicite el propietario del vehículo o su representante legal tratán
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2013)</small>
 
-II. Si lo solicita el conductor sancionado, presentando el original de la factura ó título de propiedad del vehículo, su licencia de conducir y la póliza de seguro vigentes, , (sic) acompañando de la boleta de infracción y del recibo de pago de la misma.
+II. Si lo solicita el conductor sancionado, presentando el original de la factura ó título de propiedad del vehículo, su licencia de conducir y la póliza de seguro vigentes, , acompañando de la boleta de infracción y del recibo de pago de la misma.
 
 III. El comprobante de pago de la multa a que se hizo acreedor o de los derechos en su caso.
 
@@ -2350,3 +2386,9 @@ El presente Acuerdo entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se establece un plazo de gracia de sesenta días, contados a partir de la entrada en vigor de las disposiciones jurídicas reglamentarias contenidas en el presente Acuerdo, a fin de que conductores, peatones y demás usuarios de la vía pública, adecúen su movilidad a las nuevas condiciones de circulación conforme a las disposiciones que se modifican, término en el cual las autoridades de Vialidad y Tránsito, deberán amonestar únicamente a los ciudadanos que infrinjan las mismas; concluido dicho plazo, se aplicarán las diversas sanciones que contemplan la Ley y el presente Reglamento.
+
+P.O. 11 DE JULIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Acuerdo entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
