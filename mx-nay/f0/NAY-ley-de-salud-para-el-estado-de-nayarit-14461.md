@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-salud-para-el-estado-de-nayarit-14461"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-30"
-last_updated: "2015-03-25"
+last_updated: "2015-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de abril de 1994.
 
@@ -1025,9 +1025,7 @@ III. Proporcionar información y colaborar con las acciones del Registro Naciona
 
 Trasplantes;
 
-IV. Dictar medidas y lineamientos generales del Registro Estatal de Donadores del
-
-Estado de Nayarit; y colaborar con las instituciones y autoridades competentes, a fin de que se respete con eficacia la voluntad de las personas que han decidido donar sus órganos y tejidos, en los términos previstos en la presente Ley;
+IV. Dictar medidas y lineamientos generales del Registro Estatal de Donadores del Estado de Nayarit; y colaborar con las instituciones y autoridades competentes, a fin de que se respete con eficacia la voluntad de las personas que han decidido donar sus órganos y tejidos, en los términos previstos en la presente Ley;
 
 V. Promover a través de actividades de educación, investigación, información y difusión, una cultura de donación entre la población;
 
@@ -1435,9 +1433,11 @@ III.- Coadyuvar en la aplicación de programas y actividades que establezca la S
 
 ### CAPITULO II. ENFERMEDADES TRANSMISIBLES
 
-###### ARTICULO 107.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2015)</small>
 
-El Gobierno del Estado, en coordinación con las autoridades federales y estatales, elaborarán programas o campañas temporales o permanentes, para el control o erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la protección de la salud en general a la población.
+###### ARTÍCULO 107.
+
+El Gobierno del Estado, en coordinación con las autoridades federales y estatales, elaborarán programas o campañas temporales o permanentes, para la prevención, control o erradicación, en su caso, de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la protección de la salud de la población en general.
 
 Asimismo, realizarán actividades de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades transmisibles:
 
@@ -1463,9 +1463,17 @@ X.- Helmintiasis intestinales y extraintestinales;
 
 XI.- Toxoplasmosis;
 
-XII.- Síndrome de Inmunodeficiencia Adquirida (SIDA), y
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2015)</small>
 
-XIII.- Las demás que determine el Consejo de Salubridad General y otros Tratados y Convenciones Internacionales en los que los Estados Unidos Mexicanos sean parte.
+XII.- Síndrome de Inmunodeficiencia Adquirida (SIDA);
+
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2015)</small>
+
+XIII.- Fiebre por Dengue y Chikungunya, y
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2015)</small>
+
+XIV.- Las demás que determine el Consejo de Salubridad General y otros Tratados y Convenciones Internacionales en los que los Estados Unidos Mexicanos sean parte.
 
 ###### ARTICULO 108.
 
@@ -1505,7 +1513,13 @@ IV.- La aplicación de sueros, vacunas y otros recursos preventivos y terapéuti
 
 V.- La descontaminación microbiana o parasitaria, desinfección y desinsectación de zonas, habitaciones, ropas, utensilios y otros objetos expuestos a la contaminación;
 
-VI.- La destrucción o control de vectores y reservatorios y fuentes de infección naturales o artificiales, cuando presenten peligro para la salud;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2015)</small>
+
+VI.- La destrucción de criaderos o control de vectores y reservatorios y fuentes de infección naturales o artificiales, cuando presenten peligro para la salud.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2015)</small>
+
+El Gobierno del Estado por conducto de los Servicios de Salud de Nayarit, y la autoridad municipal, en el ámbito de su respectiva competencia, llevarán a cabo de forma coordinada campañas de descacharrización, de manera permanente durante todo el año, con énfasis en recipientes eliminables y su disposición final;
 
 VII.- La inspección de pasajeros que puedan ser portadores de gérmenes, así como la de equipajes, medios de transporte, mercancías y otros objetos que puedan ser fuentes o vehículos de agentes patógenos, y
 
@@ -1522,6 +1536,12 @@ Los profesionales, técnicos y auxiliares de la salud, al tener conocimiento de 
 ###### ARTICULO 114.
 
 Los trabajadores de la salud del Gobierno de esta entidad federativa y de los municipios, así como los de otras instituciones autorizadas por las Autoridades Sanitarias del Estado, por necesidades técnicas de los programas específicos de prevención y control de enfermedades y por situaciones que pongan en peligro la salud de la población, podrán acceder al interior de todo tipo de local o casa habitación para el cumplimiento de actividades encomendadas a su responsabilidad, para cuyo fin deberán estar debidamente acreditadas por alguna de las autoridades sanitarias competentes, en los términos de las disposiciones aplicables
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2015)</small>
+
+ARTICULO 114 BIS.- Los propietarios o poseedores de un local o casa habitación están obligados a conservar las condiciones de saneamiento básico de los mismos a fin de garantizar la salud pública.
+
+Los trabajadores de la salud verificarán que se cumplan con las condiciones de saneamiento básico que determine esta Ley, los reglamentos respectivos, las normas técnicas y las disposiciones legales aplicables; en el supuesto de que el inmueble a verificar se encuentre permanentemente cerrado y la causa que origina la visita represente un riesgo inminente para la salud pública, la autoridad sanitaria competente, previa autorización judicial, efectuará la apertura e ingreso al inmueble, para llevar a cabo las acciones sanitarias necesarias.
 
 ###### ARTICULO 115.
 
@@ -2661,7 +2681,7 @@ VI.- La destrucción o control de insectos u otra fauna transmisora y nociva;
 
 VII.- La suspensión de trabajos o servicios;
 
-\/III.- El aseguramiento y destrucción de objetos, productos y substancias;
+VIII.- El aseguramiento y destrucción de objetos, productos y substancias;
 
 IX.- La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio;
 
@@ -2769,11 +2789,11 @@ III.- Las condiciones socio-económicas del infractor, y
 
 IV.- La calidad de reincidente del infractor.
 
-###### ARTICULO 285.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
 
-Se sancionará con multa equivalente hasta de veinte veces el salario mínimo general diario vigente en la zona económica de que se trate la violación de las disposiciones contenidas en los artículos 48, 49, 74, 91, 109, 110, 111, 123, 160, 255, 256 y 257 de la presente Ley.
+###### ARTÍCULO 285.
 
-La violación de las disposiciones contenidas en el artículo 89 de esta Ley, se sancionará con multa equivalente hasta de cien veces el salario mínimo general diario vigente en la zona económica de que se trate.
+Se sancionará con multa equivalente hasta de veinte veces el salario mínimo general diario vigente en la zona económica de que se trate la violación de las disposiciones contenidas en los artículos 48, 49, 74, 91, 109, 110, 111, primer párrafo del 114 bis, 123, 160, 255, 256 y 257 de la presente Ley.
 
 ###### ARTICULO 286.
 
@@ -2911,47 +2931,47 @@ Contra las resoluciones y actos administrativos de las autoridades que contraven
 
 ###### ARTICULO 305.
 
-(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
+(DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 306.
 
-(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
+(DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 307.
 
-(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
+(DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 308.
 
-(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
+(DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 309.
 
-(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
+(DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 310.
 
-(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
+(DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 311.
 
-(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
+(DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 312.
 
-(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
+(DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 313.
 
-(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
+(DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 314.
 
-(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
+(DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 315.
 
-(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
+(DEROGADO POR ARTÍCULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 316.
 
@@ -3120,3 +3140,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 25 DE MARZO DE 2015.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 11 DE JULIO DE 2015.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
