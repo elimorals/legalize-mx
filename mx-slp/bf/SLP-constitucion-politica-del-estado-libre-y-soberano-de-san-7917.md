@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2015-07-04"
+last_updated: "2015-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2015.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -135,7 +135,7 @@ III.- Las comunidades integrantes de un pueblo indígena son aquellas que forman
 
 IV.- La conciencia de su identidad étnica deberá ser criterio fundamental para determinar a quienes se aplican las disposiciones sobre pueblos y comunidades indígenas. Las propias comunidades coadyuvarán en ultima instancia a este reconocimiento;
 
-V.- El Estado reconoce el derecho de los pueblos indígenas y sus comunidades a la libre determinación, misma que se expresa en el ámbito de su autonomía; ella bajo el principio de la subsidiariedad y complementariedad en correspondencia con el marco del orden jurídico vigente.
+V.- El Estado reconoce el derecho de los pueblos indígenas y sus comunidades a la libre determinación, misma que se expresa en el ámbito de su autonomía; ella bajo el principio de la subsidiariedad y complementariedad en correspondencia con el marco del orden jurídico vigente;
 
 VI.- El Estado otorga a las comunidades indígenas la calidad de sujetos de derecho público, con personalidad jurídica y patrimonio propios;
 
@@ -953,7 +953,9 @@ XVI.- Decretar la desafectación de bienes destinados al dominio público y al u
 
 XVII.- Autorizar al Ejecutivo para enajenar bienes inmuebles propiedad del Estado, estableciendo en su caso los términos y condiciones;
 
-XVIII.- Aprobar el Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2015)</small>
+
+XVIII.- Aprobar el Plan Estatal de Desarrollo, en el plazo y con el procedimiento que disponga esta Constitución, y la ley de la materia;
 
 XIX.- Fijar las contribuciones que deban recibir los municipios; establecer anualmente las bases, montos y plazos para la entrega de las participaciones federales que les corresponden y aprobar sus leyes de ingresos, cuotas y tarifas de los servicios públicos, conforme lo establezcan las leyes respectivas;
 
@@ -1051,7 +1053,7 @@ El Congreso del Estado, a través de su Presidente, rendirá a la ciudadanía un
 
 ###### ARTÍCULO 59.
 
-Durante los recesos del Congreso habrá una Diputación Permanente, que aquél nombrará antes de la clausura de sus sesiones ordinarias. La misma será presidida por el Presidente de la Directiva del Congreso, y se compondrá además con cuatro diputados propietarios que conforme al orden de su elección, ocuparán los cargos de Vicepresidente, Secretario, primer y segundo vocales; y dos suplentes, quienes actuarán, en ausencia de los propietarios en el orden de (sic) que fueran electos.
+Durante los recesos del Congreso habrá una Diputación Permanente, que aquél nombrará antes de la clausura de sus sesiones ordinarias. La misma será presidida por el Presidente de la Directiva del Congreso, y se compondrá además con cuatro diputados propietarios que conforme al orden de su elección, ocuparán los cargos de Vicepresidente, Secretario, primer y segundo vocales; y dos suplentes, quienes actuarán en ausencia de los propietarios en el orden de (sic) que fueran electos.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -1299,7 +1301,9 @@ VII.- Presentar al Congreso del Estado, a más tardar el día quince de noviembr
 
 VIII.- Concurrir al Congreso, cuando éste se lo solicite, a informar sobre alguna iniciativa o a responder a las observaciones que los Diputados le presenten sobre actos de gobierno u otros asuntos de su competencia; o autorizar, en su caso, a algún funcionario del mismo para dichos efectos;
 
-IX.- Presentar al Congreso el Plan Estatal de Desarrollo para su aprobación, dentro de los primeros seis meses de su mandato. Asimismo informarle anualmente sobre su ejecución, durante la segunda quincena de septiembre de cada año;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2015)</small>
+
+IX.- Presentar ante el Congreso el Plan Estatal de Desarrollo para su aprobación, dentro de los primeros tres meses de su mandato. Asimismo, informarle anualmente sobre su ejecución, durante la segunda quincena de septiembre de cada año;
 
 X.- Solicitar a la Diputación Permanente que convoque a período extraordinario de sesiones, cuando así lo estime pertinente o las circunstancias del caso lo ameriten;
 
@@ -2367,7 +2371,7 @@ Los servidores públicos del Estado, organismos constitucionales autónomos, y s
 
 La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los organismos constitucionales autónomos, las dependencias y entidades de la administración pública, y cualquier otro ente de gobierno, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso dicha propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
 
-Las leyes, en sus respectivos ambitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
+Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
 
 > <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -2671,7 +2675,7 @@ P.O. 30 DE JUNIO DE 2000.
 
 DECRETO NUMERO 543.
 
-UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico del Estado.
+UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 12 DE JUNIO DE 2001.
 
@@ -2725,11 +2729,11 @@ c) El estado podrá repetir de los servidores públicos el pago de la indemnizac
 
 P.O. 17 DE JUNIO DE 2004.
 
-PRIMERO. Una vez ratificado por los ayuntamientos de la Entidad de conformidad con lo dispuesto con lo dispuesto por el artículo 138 de la propia Constitución Local, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+PRIMERO. Una vez ratificado por los ayuntamientos de la Entidad de conformidad con lo dispuesto por el artículo 138 de la propia Constitución Local, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. La educación preescolar será obligatoria para todos en los siguientes plazos: en el tercer año de preescolar a partir del ciclo 2004-2005; el segundo año de preescolar, a partir del ciclo 2005-2006; el primer año de preescolar, a partir del ciclo 2008-2009.
 
-TERCERO. Los presupuestos, tanto del Estado como de los municipios, incluirán los recursos necesarios para: la construcción, ampliación y equipamiento de la infraestructura suficiente para la cobertura progresiva de los servicios de educación preescolar; con sus correspondientes programa de formación profesional del personal docente, así como de dotación de materiales de estudio gratuito para maestros y alumnos. Para las comunidades rurales alejadas de los centros urbanos, y las zonas donde no haya sido posible establecer infraestructura para la prestación del servicio de educación preescolar, las autoridades educativas del Estado, en coordinación con la Federación, establecerán los programas especiales que se requieran y tomarán las decisiones pertinentes para asegurar el acceso de los educandos a los servicios de educación primaria.
+TERCERO. Los presupuestos, tanto del Estado como de los municipios, incluirán los recursos necesarios para: la construcción, ampliación y equipamiento de la infraestructura suficiente para la cobertura progresiva de los servicios de educación preescolar; con sus correspondientes programas de formación profesional del personal docente, así como de dotación de materiales de estudio gratuito para maestros y alumnos. Para las comunidades rurales alejadas de los centros urbanos, y las zonas donde no haya sido posible establecer infraestructura para la prestación del servicio de educación preescolar, las autoridades educativas del Estado, en coordinación con la Federación, establecerán los programas especiales que se requieran y tomarán las decisiones pertinentes para asegurar el acceso de los educandos a los servicios de educación primaria.
 
 CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
 
@@ -2783,7 +2787,7 @@ DECRETO No. 496, POR EL QUE SE REFORMA EL ARTÍCULO 17 DE LA CONSTITUCIÓN POLÍ
 
 PRIMERO. Una vez ratificado por los ayuntamientos de la Entidad conforme lo establecido en el artículo 138 de la Constitución Local, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO. Se abrogan todas las disposiciones que se opongan a este decreto.
+SEGUNDO. Se abrogan todas las disposiciones que se opongan a este Decreto.
 
 P.O. 18 DE MAYO DE 2006.
 
@@ -2839,7 +2843,7 @@ SEGUNDO. Con la entrada en vigor de este Decreto, se abrogan, tanto la Ley Elect
 
 TERCERO. Respecto del artículo Segundo de este Decreto, por el que se expide la Ley Electoral del Estado de San Luis Potosí, se habrán de observar las previsiones siguientes:
 
-I. Por única vez, para los efectos que se establecen en el artículo 63 de la Ley Electoral, quienes resulte electos o ratificados para integrar el Consejo Estatal Electoral y de Participación Ciudadana, en 2009, durarán en su encargo dos años; sin perjuicio de que quienes hayan sido electos por primera ocasión, puedan ser ratificados para el siguiente periodo, acorde con el dispositivo 63 antes citado;
+I. Por única vez, para los efectos que se establecen en el artículo 63 de la Ley Electoral, quienes resulten electos o ratificados para integrar el Consejo Estatal Electoral y de Participación Ciudadana, en 2009, durarán en su encargo dos años; sin perjuicio de que quienes hayan sido electos por primera ocasión, puedan ser ratificados para el siguiente periodo, acorde con el dispositivo 63 antes citado;
 
 II. A la entrada en vigor del presente Decreto, el Consejo Estatal Electoral y de Participación Ciudadana, contará con un plazo de noventa días naturales para expedir o adecuar sus disposiciones reglamentarias a este mismo Decreto, y
 
@@ -2943,7 +2947,7 @@ SEGUNDO. Los poderes del Estado, sus entidades descentralizadas, y los organismo
 
 TERCERO. Los ayuntamientos y sus entidades descentralizados (sic) deberán hacer los ajustes indispensables a su normativa legal y administrativa, en un plazo de tres meses, contado a partir de la fecha de entrada en vigor de este Decreto.
 
-CUARTO. Las adquisiciones, arrendamientos y enajenaciones de toda dase de bienes; la prestación de servicios de cualquier naturaleza; y la contratación de obra, que se encuentren en proceso a la entrada en vigor de este Decreto, se seguirán realizando de acuerdo con la normativa en que se tramitaron.
+CUARTO. Las adquisiciones, arrendamientos y enajenaciones de toda clase de bienes; la prestación de servicios de cualquier naturaleza; y la contratación de obra, que se encuentren en proceso a la entrada en vigor de este Decreto, se seguirán realizando de acuerdo con la normativa en que se tramitaron.
 
 P.O. 24 DE JUNIO DE 2014.
 
@@ -2959,13 +2963,13 @@ SEGUNDO. Una vez hecha la declaratoria de validez de la presente Minuta constitu
 
 TERCERO. Los actuales Presidente y consejeros del Consejo Estatal Electoral y de Participación Ciudadana, continuarán en su encargo hasta en tanto se realicen las designaciones a que se refiere el transitorio Noveno del Decreto Legislativo, por el cual fue reformada la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014. Los consejeros podrán ser elegibles para un nuevo nombramiento.
 
-CUARTO. Los Magistrados de Tribunal Electoral del Poder Judicial del Estado, que se encuentren en funciones a la entrada en vigor de las normas previstas en los transitorios Segundo y Décimo del Decreto Legislativo por el cual fue reformada la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014, continuarán en su encargo hasta en tanto se realicen los nuevos nombramientos, en los términos previstos por la fracción IV, inciso c), del artículo 116 de la Constitución Federal. Los Magistrados podrán ser elegibles para un nuevo nombramiento.
+CUARTO. Los Magistrados de (sic) Tribunal Electoral del Poder Judicial del Estado, que se encuentren en funciones a la entrada en vigor de las normas previstas en los transitorios Segundo y Décimo del Decreto Legislativo por el cual fue reformada la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014, continuarán en su encargo hasta en tanto se realicen los nuevos nombramientos, en los términos previstos por la fracción IV, inciso c), del artículo 116 de la Constitución Federal. Los Magistrados podrán ser elegibles para un nuevo nombramiento.
 
 QUINTO. Una vez que sean nombrados los magistrados electorales por el Senado de la República, los recursos humanos, materiales, presupuestales y financieros para el año 2014 del Tribunal Electoral, seguirán formando parte y ejercidos por el Poder Judicial del Estado; sin menoscabo de los derechos laborales de todos y cada uno de los trabajadores que actualmente lo integran, y de conformidad con las leyes de la materia.
 
 Los procedimientos jurisdiccionales relacionados con las agrupaciones políticas, y partidos políticos, así como de sus militantes o simpatizantes, iniciados con anterioridad al inicio de la vigencia del Decreto por el que se expide la Ley General de Instituciones y Procedimientos Electorales, de fecha veintidós de mayo del presente año, expedido por el Congreso de la Unión, seguirán bajo la competencia del actual Tribunal Electoral hasta su conclusión.
 
-Los medios de impugnación en materia electoral que sean promovidos en contra de actos y resoluciones de la autoridad administrativa electoral del Estado, con fundamento en la Ley del Sistema de Medios de Impugnación en materia electoral del Estado, a partir de la vigencia del presente Decreto y, hasta en tanto sea integrado el órgano constitucional autónomo denominado Tribunal Electoral del Estado, serán recibidos y substanciados por el actual Tribunal Electoral del Estado, el que deberá entregar, a través del proceso de entrega – recepción, los asuntos en trámite y el estado que guardan los mismos, al órgano de nueva creación.
+Los medios de impugnación en materia electoral que sean promovidos en contra de actos y resoluciones de la autoridad administrativa electoral del Estado, con fundamento en la Ley del Sistema de Medios de Impugnación en materia electoral del Estado, a partir de la vigencia del presente Decreto y, hasta en tanto sea integrado el órgano constitucional autónomo denominado Tribunal Electoral del Estado, serán recibidos y substanciados por el actual Tribunal Electoral del Estado, el que deberá entregar, a través del proceso de entrega - recepción, los asuntos en trámite y el estado que guardan los mismos, al órgano de nueva creación.
 
 Los procedimientos jurisdiccionales que se están tramitando ante el actual Tribunal Electoral en su carácter de sala auxiliar, en razón de las competencias designadas por el Pleno del Supremo Tribunal de Justicia del Estado, continuarán recibiéndose y substanciándose por la misma, hasta en tanto se cumplan las disposiciones a que se refiere el párrafo segundo de este Transitorio; cumplido el supuesto, deberá iniciarse y ejecutarse el proceso de entrega-recepción de los asuntos en trámite, de acuerdo con la asignación que para este efecto determine el Poder Judicial del Estado.
 
@@ -3044,6 +3048,12 @@ TERCERO. El Supremo Tribunal de Justicia del Estado instruirá las acciones nece
 CUARTO. Se derogan todas aquellas disposiciones legales o reglamentarias que se opongan al presente Decreto.
 
 P.O. 4 DE JULIO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE JULIO DE 2015.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
