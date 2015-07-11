@@ -4,7 +4,7 @@ identifier: "COL-ley-de-ingresos-del-estado-de-colima-para-el-ejercicio-103926"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2014-11-29"
-last_updated: "2015-04-04"
+last_updated: "2015-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103926&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE INGRESOS DEL ESTADO DE COLIMA PARA EL EJERCICIO FISCAL 2015
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 29 de noviembre de 2014.
 
@@ -52,6 +52,8 @@ DECRETO No. 434
 En el ejercicio fiscal 2015, la Hacienda Pública del Estado Libre y Soberano de Colima, percibirá los ingresos provenientes de los conceptos y en las cantidades estimadas que a continuación se enumeran:
 
 > <small>N. DE E. VÉASE TABLA EN EL P.O. DE 29 DE NOVIEMBRE DE 2014, PÁGINAS DE LA 6 A LA 9.</small>
+
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL SUPLEMENTO No. 4 DEL P.O. DE 11 DE JULIO DE 2015, PÁGINAS DE LA 8 A LA 9.</small>
 
 Transferencias, Asignaciones, Subsidios y Otras Ayudas, para efectos de la presentación se acumula al rubro contemplado en la fracción VI, correspondiente a Participaciones, Aportaciones y Convenios, atendiendo a las recomendaciones del CONAC en materia de armonización contable.
 
@@ -178,3 +180,9 @@ P.O. 4 DE ABRIL DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor el 01 de abril de 2015, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Para efectos del cálculo del pago de los impuestos contenidos en el artículo segundo del presente Decreto, se hará con base en el salario mínimo vigente en el Estado al 1°. de marzo de 2015.
+
+P.O. 11 DE JULIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial "El Estado de Colima”.
