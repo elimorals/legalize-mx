@@ -4,7 +4,7 @@ identifier: "COL-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-2561
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-15"
-last_updated: "2013-11-02"
+last_updated: "2015-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2015.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 15 de junio de 2002.
 
@@ -321,9 +321,11 @@ El Ministerio Público deberá contar con una unidad administrativa en materia a
 
 Las autoridades estatales y municipales reconocerán y garantizarán el derecho de las comunidades rurales y pueblos indígenas a la protección y preservación del ambiente de los lugares que habitan y ocupan, acceder al uso, disfrute y aprovechamiento sustentable preferente de los recursos naturales de sus tierras y territorios, así como salvaguardar el uso del conocimiento tradicional relacionado con la biodiversidad, con base en las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado, la presente Ley, los ordenamientos emanados de ella y demás aplicables.
 
-###### ARTÍCULO 8º.
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
 
-Toda persona, individual o colectivamente, podrá denunciar ante las autoridades ambientales todo hecho, acto u omisión que produzca desequilibrio ecológico o daños al ambiente que contravengan las disposiciones de esta Ley y demás ordenamientos jurídicos aplicables.
+###### ARTÍCULO 8°.
+
+Toda persona, individual o colectivamente, podrá denunciar por sí o por conducto de la Dirección de Ecología en cada municipio o de la Comisión responsable de esta materia al interior de cada Cabildo Municipal, ante las autoridades ambientales todo hecho, acto u omisión que produzca desequilibrio ecológico o daños al ambiente que contravengan las disposiciones de esta Ley y demás ordenamientos jurídicos aplicables.
 
 Si la denuncia presentada resultare del orden federal, ésta deberá ser remitida para su atención y trámite a la autoridad federal correspondiente o cuando se trate de la comisión de algún delito, deberá remitirse ante el Ministerio Público, en un plazo que no exceda de 5 días hábiles contados a partir de la fecha de su recepción.
 
@@ -333,9 +335,11 @@ Si la denuncia presentada resultare del orden federal, ésta deberá ser remitid
 
 Sin perjuicio de lo anterior, los interesados podrán presentar su denuncia directamente ante el Ministerio Público si consideran que el hecho, acto u omisión de que se trate pueden ser constitutivos de algún delito, en cuyo caso deberá sujetarse a lo dispuesto por el Código de Procedimientos Penales del Estado o, en su caso, a la legislación federal aplicable.
 
+> <small>(REFORMADO, P.O. 11 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 10.
 
-La denuncia podrá ejercitarse por cualquier persona, bastando para ello acreditar su personalidad y residencia con algún documento que lo identifique, en todo caso, el denunciante deberá ser apercibido de conducirse con la verdad y la denuncia deberá presentarse por escrito, conteniendo:
+La denuncia podrá ejercitarse por cualquier persona, por sí o por medio de la Dirección de Ecología en cada municipio o de la Comisión responsable de esta materia al interior de cada Cabildo Municipal, bastando para ello acreditar su personalidad y residencia con algún documento que lo identifique; en todo caso, el denunciante deberá ser apercibido de conducirse con la verdad y la denuncia deberá presentarse por escrito, conteniendo:
 
 I. El nombre o razón social del denunciante o de su representante legal, domicilio o teléfono si lo tiene;
 
@@ -343,11 +347,13 @@ II. Los actos, hechos u omisiones denunciados;
 
 III. Los datos que permitan identificar al presunto infractor o localizar la fuente contaminante;
 
-IV. Las consideraciones jurídico-técnico-ambientales que crea pertinente señalar a la autoridad;
+IV. Las consideraciones jurídico-técnico ambientales que crea pertinente señalar a la autoridad;
 
 V. Los puntos petitorios; y
 
 VI. Las pruebas que, en su caso, ofrezca el denunciante.
+
+Cuando se efectúe por medio de la Dirección de Ecología en cada municipio o de la Comisión responsable de esta materia al interior de cada Cabildo Municipal, ésta autoridad la presentará únicamente requiriéndole se identifique ante ella quien conozca del ilícito, dato que la Dirección o Comisión guardará con absoluta discreción.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2012)</small>
 
@@ -543,13 +549,15 @@ XIII. Vigilar el cumplimiento de las normas oficiales mexicanas en las materias 
 
 XIV. La formulación, ejecución y evaluación del programa municipal de protección al ambiente;
 
-> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2015)</small>
 
-XV. La formulación y ejecución de acciones de mitigación y adaptación al cambio climático; y
+XV. La formulación y ejecución de acciones de mitigación y adaptación al cambio climático;
 
-> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2012)</small>
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2015)</small>
 
-XVI. La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación o a los Estados.
+XVI. Denunciar la contaminación ambiental, por medio de la Dirección de Ecología en cada municipio o de la Comisión responsable de esta materia al interior de cada Cabildo Municipal, en los casos en que acuda un particular o colectivo a pedírselo; y
+
+XVII. La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación o a los Estados.
 
 ###### ARTÍCULO 20.
 
@@ -2966,3 +2974,7 @@ SEGUNDO.- Los Comités a que se refiere el último párrafo del artículo 37 del
 P.O. 2 DE NOVIEMBRE DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 11 DE JULIO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
