@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-71438"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-12-24"
-last_updated: "2015-07-02"
+last_updated: "2015-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
@@ -1973,19 +1973,27 @@ II. Dirección de Proceso Legislativo, la cual contará con los siguientes depar
 
 3) Oficialía de Partes.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2015)</small>
 
 ###### Artículo 157.
 
-Para ser Oficial Mayor, se requiere:
+Para ser oficial Mayor, se requiere:
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 I. Ser ciudadano duranguense en pleno goce de sus derechos civiles y políticos;
 
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2013)</small>
+
 II. Ser mayor de veinticinco años y tener una residencia efectiva en el Estado de cuando menos dos años inmediatamente anteriores a la fecha del nombramiento;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
 III. Ser de reconocida honradez y no haber sido sentenciado ejecutoriadamente por delito intencional, que amerite pena privativa de libertad, ni en juicio de responsabilidad por delito de carácter oficial; y
 
-IV. Poseer título de licenciado en derecho o profesión afín, con antigüedad mínima de tres años a la fecha de ser designado.
+> <small>(REFORMADA, P.O. 12 DE JULIO DE 2015)</small>
+
+IV. Poseer título de licenciado en derecho o profesión afin, con antigüedad mínima de dos años a la fecha de ser designado; y
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
@@ -2205,7 +2213,11 @@ I. Estudio, consulta y dictamen en comisión; y
 
 II. Las reformas, adiciones o derogaciones a la Constitución Política de los Estados Unidos Mexicanos y a la Constitución Política del Estado Libre y Soberano de Durango. Cuando se trate de asuntos de urgente y obvia resolución, el pleno podrá acordar la dispensa de trámites, aplicando las reglas para la lectura y discusión de dictámenes de acuerdo.
 
-Cuando se trate de asuntos de urgente y obvia resolución, el pleno podrá acordar la dispensa de trámites, aplicando las reglas para la lectura y discusión de dictámenes de acuerdo.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 12 DE JULIO DE 2015)</small>
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2015)</small>
+
+La discusión y votación de los dictámenes relativos a la Constitución Política de los Estados Unidos Mexicanos se desarrollaran conforme a lo establecido en esta Ley.
 
 ### CAPÍTULO II. DE LAS INICIATIVAS
 
@@ -2397,6 +2409,10 @@ En el debate de asuntos distintos a los dictámenes, se aplicarán las mismas re
 
 Todo dictamen que conste de más de un artículo, se someterá a debate en lo general, y aprobado en ese sentido, se hará en lo particular, en caso de que hubiera reserva. De no existir éstas, se discutirá y votará tanto en lo general como en lo particular, en un solo acto.
 
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2015)</small>
+
+Los dictámenes de reformas, adiciones o derogaciones a la Constitución Política de los Estados Unidos Mexicanos se discutirán y votarán en un solo acto, posterior a la en que hayan recibido segunda lectura y su aprobación será por mayoría calificada de los integrantes del Congreso.
+
 Los dictámenes que consten de un solo artículo, se someterán a debate en un sólo acto, tanto en lo general como en lo particular.
 
 No se discutirá y votará en lo particular una ley que se componga de más de cien artículos en una sola sesión.
@@ -2407,7 +2423,9 @@ No se discutirá y votará en lo particular una ley que se componga de más de c
 
 El debate de los dictámenes presentados al Pleno, se iniciará en la siguiente sesión a aquélla en la en (sic) que hayan recibido lectura.
 
-El debate de los dictámenes de reformas, adiciones o derogaciones de la Constitución Política de los Estado (sic) Unidos Mexicanos y de la Constitución Política del Estado Libre y Soberano de Durango, se efectuará en la sesión inmediata posterior a la en que hayan recibido segunda lectura.
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2015)</small>
+
+El debate y votación de los dictámenes de reformas, adiciones o derogaciones de la Constitución Política del Estado Libre y Soberano de Durango, se efectuará en la sesión inmediata posterior a la en que hayan recibido segunda lectura.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2013)</small>
 
@@ -3694,3 +3712,9 @@ P.O. 2 DE JULIO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por el Pleno.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan a lo establecido por el presente Decreto.
+
+P.O. 12 DE JULIO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
