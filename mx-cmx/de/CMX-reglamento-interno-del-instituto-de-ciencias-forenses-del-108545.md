@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-del-instituto-de-ciencias-forenses-del-10854
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-06-11"
-last_updated: "2015-06-11"
+last_updated: "2015-07-13"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108545&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2015-04-21"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO DE CIENCIAS FORENSES DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE JULIO DE 2015 EN LA GACETA OFICIAL DEL DISTRITO FEDERAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERNO DEL INSTITUTO DE CIENCIAS FORENSES DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
 TEXTO ORIGINAL.
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 13 DE JULIO DE 2015.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 11 de junio de 2015.
 
@@ -34,7 +34,9 @@ Aviso de publicación de Acuerdo 14-18/2015
 
 En cumplimiento a lo ordenado mediante Acuerdo 14-18/2015, emitido por el Consejo de la Judicatura del Distrito Federal, en sesión plenaria ordinaria celebrada el día veintiuno de abril del año en curso, con toda atención hago de su conocimiento que este Órgano Colegiado determinó aprobar las modificaciones al Reglamento Interno del Instituto de Ciencias Forenses del Tribunal Superior de Justicia del Distrito Federal", en los siguientes términos:
 
-"MODIFICACIONES AL REGLAMENTO INTERNO DEL INSTITUTO DE CIENCIAS FORENSES DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
+> <small>(F. DE E., G.O. 13 DE JULIO DE 2015)</small>
+
+REGLAMENTO INTERNO DEL INSTITUTO DE CIENCIAS FORENSES DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
 CONSIDERANDOS…
 
@@ -190,21 +192,33 @@ t) Rendir al Consejo los informes que le sean requeridos; y
 
 u) Las demás que le asigne el Consejo y la normatividad aplicable.
 
-### CAPÍTULO IV. DE LA SUBDIRECCIÓN PERICIAL
+### CAPÍTULO IV
+
+> <small>(F. DE E., G.O. 13 DE JULIO DE 2015)</small>
+
+DE LA SUBDIRECCIÓN TÉCNICA
+
+> <small>(F. DE E., G.O. 13 DE JULIO DE 2015)</small>
 
 ###### Artículo 11.
 
-La Subdirección Pericial es el área responsable del INCIFO de supervisar y coordinar la realización de las necropsias de ley, ordenadas por la autoridad investigadora Ministerial o Jurisdiccional, así como la expedición, al término de éstas, del certificado de defunción y entrega del cadáver a quien la autoridad ordene; proporcionando a los solicitantes del servicio una atención expedita, adecuada y de calidad.
+La Subdirección Técnica es el área responsable del INCIFO de supervisar y coordinar la realización de las necropsias de ley, ordenadas por la autoridad investigadora Ministerial o Jurisdiccional, así como la expedición, al término de éstas, del certificado de defunción y entrega del cadáver a quien la autoridad ordene; proporcionando a los solicitantes del servicio una atención expedita, adecuada y de calidad.
+
+> <small>(F. DE E., G.O. 13 DE JULIO DE 2015)</small>
 
 ###### Artículo 12.
 
-El Subdirector Pericial del INCIFO ejercerá las facultades que le confiere la Ley y el Consejo así como las demás disposiciones jurídicas y administrativas que resulten aplicables.
+El Subdirector Técnico del INCIFO ejercerá las facultades que le confiere la Ley y el Consejo así como las demás disposiciones jurídicas y administrativas que resulten aplicables.
 
-El Subdirector Pericial será designado por el Consejo y deberá cumplir con los requisitos establecidos tanto en la Ley como en el Perfil de Puestos aprobado por el Consejo.
+> <small>(F. DE E., G.O. 13 DE JULIO DE 2015)</small>
+
+El Subdirector Técnico será designado por el Consejo y deberá cumplir con los requisitos establecidos tanto en la Ley como en el Perfil de Puestos aprobado por el Consejo.
+
+> <small>(F. DE E., G.O. 13 DE JULIO DE 2015)</small>
 
 ###### Artículo 13.
 
-El Subdirector Pericial tendrá las siguientes funciones:
+El Subdirector Técnico tendrá las siguientes funciones:
 
 a) Organizar, coordinar y dirigir la prestación de los servicios de la atención médico forense de las autoridades que lo soliciten, así como establecer los mecanismos para evaluar el desempeño de las áreas adscritas a la Subdirección;
 
@@ -244,21 +258,33 @@ r) Diseñar y someter a la aprobación del Director, los protocolos, lineamiento
 
 s) Las demás actividades afines a su competencia que le asigne el Consejo, el Director o le ordene la normatividad aplicable.
 
-### CAPÍTULO V. DE LA SUBDIRECCIÓN TÉCNICA
+### CAPÍTULO V
+
+> <small>(F. DE E., G.O. 13 DE JULIO DE 2015)</small>
+
+DE LA SUBDIRECCIÓN PERICIAL
+
+> <small>(F. DE E., G.O. 13 DE JULIO DE 2015)</small>
 
 ###### Artículo 14.
 
-La Subdirección Técnica es el área responsable del INCIFO de la atención a las personas vivas que previo ordenamiento jurisdiccional requieren el servicio de valoración corporal por daños físicos, psiquiátricos o psicológicos; en juicios de divorcios, de interdicción, de lesiones, violencia física y familiar; para determinar el estado físico de los menores; en casos penales el estado de salud precario; y para la determinación de edades clínicas y/o biológicas que ordene la autoridad competente; asimismo del estudio y análisis de las muestras de tejidos y líquidos corporales tomados durante la necropsia de ley; así como de implementar el tratamiento psicológico a los menores cuando así haya sido diagnosticado en los Juicios de orden Familiar y por mandato estricto del Juzgador.
+La Subdirección Pericial es el área responsable del INCIFO de la atención a las personas vivas que previo ordenamiento jurisdiccional requieren el servicio de valoración corporal por daños físicos, psiquiátricos o psicológicos; en juicios de divorcios, de interdicción, de lesiones, violencia física y familiar; para determinar el estado físico de los menores; en casos penales el estado de salud precario; y para la determinación de edades clínicas y/o biológicas que ordene la autoridad competente; asimismo del estudio y análisis de las muestras de tejidos y líquidos corporales tomados durante la necropsia de ley; así como de implementar el tratamiento psicológico a los menores cuando así haya sido diagnosticado en los Juicios de orden Familiar y por mandato estricto del Juzgador.
+
+> <small>(F. DE E., G.O. 13 DE JULIO DE 2015)</small>
 
 ###### Artículo 15.
 
-El Subdirector Técnico del INCIFO ejercerá las facultades que le confieren la Ley y el Consejo así como las demás disposiciones jurídicas y administrativas que resulten aplicables.
+El Subdirector Pericial del INCIFO ejercerá las facultades que le confieren la Ley y el Consejo así como las demás disposiciones jurídicas y administrativas que resulten aplicables.
 
-El Subdirector Técnico será designado por el Consejo y deberá cumplir con los requisitos establecidos tanto en la Ley como en el Perfil de Puestos aprobado por el Consejo.
+> <small>(F. DE E., G.O. 13 DE JULIO DE 2015)</small>
+
+El Subdirector Pericial será designado por el Consejo y deberá cumplir con los requisitos establecidos tanto en la Ley como en el Perfil de Puestos aprobado por el Consejo.
+
+> <small>(F. DE E., G.O. 13 DE JULIO DE 2015)</small>
 
 ###### Artículo 16.
 
-El Subdirector Técnico tendrá las siguientes funciones:
+El Subdirector Pericial tendrá las siguientes funciones:
 
 a) Organizar, coordinar y dirigir la prestación de los servicios de la atención médico forense de las autoridades que lo soliciten, así como establecer los mecanismos para evaluar el desempeño de las áreas adscritas a esta Subdirección;
 
@@ -290,9 +316,13 @@ n) Establecer los mecanismos de control y seguimiento de los asuntos turnados a 
 
 o) Realizar los trabajos que dentro del ámbito de su competencia, le sean solicitados por la Dirección y rendir los informes que le sean requeridos;
 
-p) Coordinar y dar seguimiento a las gestiones administrativas del área encargada del tratamiento de Alienación Parental;
+> <small>(F. DE E., G.O. 13 DE JULIO DE 2015)</small>
 
-q) Supervisar el desarrollo del tratamiento de alineación parental y los avances de las terapias psicológicas;
+p) Coordinar y dar seguimiento a las gestiones administrativas del área encargada de la terapia psicológica parental;
+
+> <small>(F. DE E., G.O. 13 DE JULIO DE 2015)</small>
+
+q) Supervisar el desarrollo de las terapias psicológicas parentales y sus avances;
 
 r) Las demás actividades afines a su competencia que le asigne el Consejo, el Director o le ordene la normatividad aplicable.
 
@@ -564,7 +594,7 @@ Los cadáveres que ingresen a las instalaciones del INCIFO para la práctica de 
 
 Cuando los cadáveres recibidos presenten objetos vulnerantes, tales como armas punzo-cortantes, alambres, cuerdas o cualquier otro así considerado, éstos no deberán ser retirados del cuerpo hasta la práctica de la necropsia correspondiente.
 
-###### Articulo 42.
+###### Artículo 42.
 
 La ropa y objetos vulnerantes mencionados en el artículo precedente, únicamente podrán ser retirados en presencia de los peritos médicos forenses, posteriormente se procederá al lavado del cadáver.
 
@@ -602,7 +632,7 @@ El anfiteatro y cámaras de refrigeración deberán contar con las condiciones f
 
 Solo las instituciones de enseñanza o instituciones médicas legalmente facultadas para tal fin podrán disponer de órganos, tejidos y sus derivados, de cuerpos humanos, para fines terapéuticos o de investigación, mediante la firma de convenios, previa autorización del Consejo.
 
-###### Articulo 50.
+###### Artículo 50.
 
 Cuando se pretenda disponer de órganos, tejidos y sus derivados, se deberá cumplir estrictamente con las disposiciones legales y administrativas aplicables.
 
@@ -698,7 +728,7 @@ PRIMERO: El presente Reglamento entrará en vigor al día siguiente a su publica
 
 SEGUNDO: Se deroga el Acuerdo General 6-13/2007 emitido por el Pleno del Consejo de la Judicatura del Distrito Federal en sesión de fecha 21 de marzo de 2007, mediante el cual se aprobó el Reglamento del Servicio Médico Forense del Tribunal Superior de Justicia del Distrito Federal, así como todas aquellas disposiciones que contravengan al presente Reglamento.
 
-TÉRCERO: La estructura prevista en el Artículo 108 de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, se irá formalizando de manera paulatina, conforme a la disponibilidad presupuestal que exista en el Tribunal Superior de Justicia del Distrito Federal y a la emisión del Dictamen de Reestructura Orgánica correspondiente que en su momento apruebe el Consejo de la Judicatura del Distrito Federal.
+TERCERO: La estructura prevista en el Artículo 108 de la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, se irá formalizando de manera paulatina, conforme a la disponibilidad presupuestal que exista en el Tribunal Superior de Justicia del Distrito Federal y a la emisión del Dictamen de Reestructura Orgánica correspondiente que en su momento apruebe el Consejo de la Judicatura del Distrito Federal.
 
 CUARTO: Las referencias hechas al "Servicio Médico Forense" en otras leyes o disposiciones normativas vigentes, al 27 de julio de 2012, se entenderán hechas al "Instituto de Ciencias Forenses".
 
