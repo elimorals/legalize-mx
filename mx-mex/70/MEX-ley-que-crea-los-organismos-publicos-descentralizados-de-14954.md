@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-los-organismos-publicos-descentralizados-de-14954"
 country: "mx"
 rank: "ley"
 publication_date: "1985-07-16"
-last_updated: "2014-05-09"
+last_updated: "2015-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS, DE ASISTENCIA SOCIAL, DE CARÁCTER MUNICIPAL, DENOMINADOS «SISTEMAS MUNICIPALES PARA EL DESARROLLO INTEGRAL DE LA FAMILIA» DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE JULIO DE 2015.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 16 de julio de 1985.
 
@@ -245,7 +245,7 @@ XVIII. Autorizar con su firma y presentar la documentación que deba remitirse a
 
 XIX. Las demás que le confieran los ordenamientos legales y la Junta de Gobierno.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO DECIMO CUARTO.
 
@@ -257,33 +257,33 @@ II. Dirigir el funcionamiento del Sistema en todos sus aspectos, ejecutando los 
 
 III. Rendir los informes parciales que la Junta de Gobierno o la Presidencia les solicite;
 
-IV. En coordinación con el Tesorero ejecutar y controlar el presupuesto del Sistema Municipal, en los términos aprobados; y (sic)
+IV. En coordinación con el Tesorero ejecutar y controlar el presupuesto del Sistema Municipal, en los términos aprobados; y
 
 > <small>(REFORMADA, G.G. 17 DE AGOSTO DE 2009)</small>
 
 V. Cuidar que la aplicación de los gastos se haga llenando los requisitos legales conforme al presupuesto respectivo;
 
-> <small>(ADICIONADA, G.G.17 DE AGOSTO DE 2009)</small>
+> <small>(ADICIONADA, G.G. 17 DE AGOSTO DE 2009)</small>
 
 VI. Elaborar conjuntamente con el Órgano de Control Interno, el inventario general de los bienes muebles e inmuebles propiedad del organismo, haciendo que se inscriban en el libro especial, con expresión de sus valores y de todas las características de identificación como el uso y destino de los mismos;
 
-> <small>(ADICIONADA, G.G.17 DE AGOSTO DE 2009)</small>
+> <small>(ADICIONADA, G.G. 17 DE AGOSTO DE 2009)</small>
 
 VII. Regularizar la propiedad de los bienes inmuebles del organismo;
 
-> <small>(ADICIONADA, G.G.17 DE AGOSTO DE 2009)</small>
+> <small>(ADICIONADA, G.G. 17 DE AGOSTO DE 2009)</small>
 
 VIII. Certificar la documentación oficial emanada de la Junta de Gobierno o de cualquiera de sus miembros y cuando se trate de documentación presentada ante el Órgano Superior de Fiscalización del Estado de México;
 
-> <small>(ADICIONADA, G.G.17 DE AGOSTO DE 2009)</small>
+> <small>(ADICIONADA, G.G. 17 DE AGOSTO DE 2009)</small>
 
 IX. Integrar y autorizar con su firma, la documentación que deba presentarse al Órgano Superior de Fiscalización del Estado de México;
 
-> <small>(ADICIONADA, G.G.17 DE AGOSTO DE 2009)</small>
+> <small>(ADICIONADA, G.G. 17 DE AGOSTO DE 2009)</small>
 
 X. Supervisar y vigilar que el manejo, administración, registro, control, uso, mantenimiento y conservación de los recursos que conforman el patrimonio del organismo, se realice conforme a las disposiciones legales aplicables; y
 
-> <small>(ADICIONADA, G.G.17 DE AGOSTO DE 2009)</small>
+> <small>(ADICIONADA, G.G. 17 DE AGOSTO DE 2009)</small>
 
 XI. Las demás que sean necesarias para el ejercicio de los anteriores a juicio de la Junta de Gobierno y la Presidencia.
 
@@ -309,9 +309,27 @@ VII. Integrar y autorizar con su firma, la documentación que deba presentarse a
 
 VIII. Las demás que le confieran los ordenamientos legales y la Junta de Gobierno.
 
-> <small>(ADICIONADO, G.G.17 DE AGOSTO DE 2009)</small>
+> <small>(ADICIONADO, G.G. 17 DE AGOSTO DE 2009)</small>
 
 ARTICULO DECIMO QUINTO BIS.- Los servidores públicos del organismo además de las atribuciones señaladas en la presente Ley, tendrán las funciones y atribuciones contenidas en sus reglamentos interiores, manuales, acuerdos, circulares y otras disposiciones legales que tiendan a regular el funcionamiento del Organismo y serán responsables del ejercicio de las funciones propias de su competencia.
+
+> <small>(ADICIONADO, G.G. 13 DE JULIO DE 2015)</small>
+
+ARTICULO DECIMO QUINTO TER.- Para ocupar el cargo de Tesorero del organismo, o equivalentes, se deberán satisfacer los siguientes requisitos:
+
+I. Ser ciudadano del Estado en pleno uso de sus derechos.
+
+II. No estar inhabilitado para desempeñar cargo, empleo, o comisión pública.
+
+III. No haber sido condenado en proceso penal, por delito intencional que amerite pena privativa de libertad.
+
+IV. Acreditar ante el Titular del organismo o ante el Consejo Directivo, cuando sea el caso, el tener los conocimientos suficientes para poder desempeñar el cargo, contar con título profesional en las áreas económicas o contable- administrativas con experiencia mínima de un año en la materia y con la certificación de competencia laboral en funciones de la Hacienda Pública, expedida por el Instituto Hacendario del Estado de México.
+
+El requisito de la certificación de competencia laboral, deberá acreditarse dentro de los seis meses siguientes a la fecha en que inicie funciones.
+
+V. Caucionar el manejo de los fondos del organismo en términos de ley.
+
+VI. Cumplir con otros requisitos que señalen las leyes, o acuerde el Consejo Directivo.
 
 ###### ARTICULO DECIMO SEXTO.
 
@@ -434,3 +452,9 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- El Ayuntamiento del Municipio de Luvianos, expedirá las disposiciones reglamentarias y administrativas necesarias, para el cumplimiento de este Decreto.
+
+G.G. 13 DE JULIO DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Esta (sic) Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno"
