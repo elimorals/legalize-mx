@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "2015-06-22"
+last_updated: "2015-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2015.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -3865,11 +3865,47 @@ Los juicios que versen sobre pago o aseguramiento de alimentos se tramitarán co
 
 En los casos de los Artículos 292 y 297 del Código Civil, se observarán las disposiciones relativas de este procedimiento.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2015)</small>
+
+Las personas que, en su caso, sean autorizadas conforme al Artículo 116 del presente Código, estarán facultadas para acudir en nombre y representación de los acreedores alimentarios, a la diligencia que tiene como fin requerir al que deba cubrir los alimentos por el pago de la primer pensión y para realizar cualquier actuación a fin de que se garantice el pago de las subsecuentes en términos de lo que establezca la resolución respectiva.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2015)</small>
+
+El actor deberá ofrecer pruebas al presentar su demanda, sea por escrito o por comparecencia personal en términos de lo dispuesto por el Artículo 572 de este Código; el demandado deberá ofrecer pruebas en su escrito de contestación de demanda. El Juez, al tener por contestada la demanda o la reconvención, o concluidos los plazos para ello, de oficio dictará el auto de admisión de pruebas y señalará fecha de audiencia para su desahogo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2015)</small>
+
+El Juez podrá actuar e intervenir de oficio en los asuntos de alimentos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 572.
 
-Si al promoverse el juicio también se demanda la fijación y aseguramiento de alimentos provisionales el Juez fijará a petición del acreedor, sin audiencia del deudor y mediante la información que estime necesaria, una pensión alimenticia provisional mientras se resuelve el juicio.
+Las personas señaladas en el artículo 337 del Código Civil podrán acudir ante el Juez por escrito o por comparecencia personal para demandar el pago de alimentos, pudiendo solicitar una pensión alimenticia provisional mientras se resuelve el juicio, en cuyo caso en el escrito o comparecencia se deberá manifestar, bajo protesta de decir verdad, los hechos que le constan sobre la situación económica del demandado, el monto y origen de sus ingresos, bienes y propiedades, así como el nivel de vida que haya proporcionado al acreedor en los últimos dos años, debiendo acompañar:
+
+I. Los atestados del registro civil que acrediten el vínculo de parentesco entre el acreedor y el deudor así como los documentos que acrediten su legitimación para solicitar alimentos;
+
+II. Identificación oficial en términos del Artículo 90, numeral 3 de este Código;
+
+III. Los documentos que acrediten o hagan presumir la capacidad económica del deudor, así como los que cuantifiquen la necesidad aproximada de los acreedores;
+
+IV. Los demás documentos que el actor considere necesarios para la fijación de la pensión alimenticia provisional.
+
+El Juez podrá tomar en cuenta tanto los ingresos como las erogaciones del deudor alimentario para estimar su situación económica.
+
+En caso de que el Juez considere que los elementos aportados por el actor son suficientes para fijar objetivamente la pensión provisional, en el auto de admisión de la demanda señalará la cantidad o porcentaje de las percepciones y prestaciones económicas del demandado que la constituirán y mandará abonarla por mensualidades anticipadas, mientras se resuelve en definitiva.
+
+El Juez deberá recabar de oficio las pruebas que estime necesarias en caso de que el actor no aporte los elementos indispensables para fijar objetivamente la pensión provisional, por lo que en el auto de admisión de la demanda ordenará las diligencias necesarias y en términos del Artículo 331 Bis del Código Civil, solicitará información sobre la situación económica del deudor a instituciones financieras o a cualquier instancia pública o privada, las cuales deberán contestar dentro de los cinco días siguientes contados a partir de que se les notifique la solicitud, de lo contrario el Juez les podrá imponer las medidas de apremio previstas en el presente Código.
+
+Una vez que el Juez cuente con elementos para fijar objetivamente la pensión provisional, sin que sea necesario desahogar la totalidad de las actuaciones referidas en el párrafo anterior, señalará la cantidad, salarios mínimos o porcentaje de las percepciones y prestaciones económicas del demandado que la constituirán y mandará abonarla por mensualidades anticipadas, mientras se resuelve en definitiva.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -6242,3 +6278,13 @@ P.O. 22 DE JUNIO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia a los treinta días hábiles siguientes al de su publicación en el Periódico Oficial del Estado de Aguascalientes, quedando sin efecto todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
+
+P.O. 13 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a los cuarenta y cinco días naturales posteriores a su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos especiales de alimentos que estén en trámite antes de que entre en vigor el presente Decreto, se sujetarán a las disposiciones vigentes al momento de la presentación de la demanda respectiva.
