@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2015-04-20"
+last_updated: "2015-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -299,7 +299,9 @@ XVIII. Derecho a la seguridad jurídica y al debido proceso;
 
 XIX. Derechos de niñas, niños y adolescentes migrantes; y
 
-XX. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión. Para tales efectos, se establecerán condiciones de competencia efectiva en la prestación de dichos servicios.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2015)</small>
+
+XX. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión.
 
 Las autoridades federales, estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
@@ -883,11 +885,13 @@ V. El enfoque de inclusión, igualdad sustantiva, no discriminación y perspecti
 
 ###### Artículo 67.
 
-De conformidad con lo establecido en la Ley Federal de Telecomunicaciones y Radiodifusión respecto a la programación dirigida a niñas, niños y adolescentes, así como los criterios de clasificación emitidos de conformidad con la misma, las concesiones que se otorguen en materia de radiodifusión y telecomunicaciones deberán contemplar la obligación de los concesionarios de abstenerse de difundir o transmitir información, imágenes o audios que afecten o impidan objetivamente el desarrollo integral de niñas, niños y adolescentes, o que hagan apología del delito, en contravención al principio de interés superior de la niñez.
+(DEROGADO, P.O. 13 DE JULIO DE 2015)
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2015)</small>
 
 ###### Artículo 68.
 
-Las autoridades competentes vigilarán que se clasifiquen las películas, programas de radio y televisión en términos de lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión, así como videos, videojuegos y los impresos.
+Las autoridades competentes, vigilarán que las películas, programas de radio y televisión, así como los videos, videojuegos y los impresos, cumplan con lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión.
 
 ###### Artículo 69.
 
@@ -1785,35 +1789,21 @@ I. Cuando los servidores públicos estatales, personal de instituciones de salud
 
 II. Cuando los servidores públicos estatales, personal de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de aquéllas, así como centros de asistencia social o de cualquier otra índole de jurisdicción estatal, propicien, toleren o se abstengan de impedir, cualquier tipo de abuso, acoso, agresión, daño, intimidación, violencia, maltrato o perjuicio de que tengan conocimiento, en contra de niñas, niños y adolescentes;
 
-III. Cuando los servidores públicos de radio y televisión, en el ejercicio de sus funciones o actividades o con motivo de ellas, difundan o transmitan imágenes, voz o datos que afecten o impidan objetivamente el desarrollo integral de niñas, niños o adolescentes, o que hagan apología del delito, en contravención esta Ley y a las disposiciones específicas que regulen la difusión y transmisión de contenidos;
+III. (DEROGADA, P.O. 13 DE JULIO DE 2015)
 
-IV. Cuando los servidores públicos de radio y televisión realicen actos con violación a la intimidad personal o familiar de niñas, niños o adolescentes, a que se refiere esta Ley y la de la materia;
+IV. (DEROGADA, P.O. 13 DE JULIO DE 2015)
 
-V. Cuando los servidores públicos de radio y televisión realicen entrevistas y las difundan, en perjuicio de niñas, niños y adolescentes, sin la autorización a que se refiere esta Ley y la de la materia;
+V. (DEROGADA, P.O. 13 DE JULIO DE 2015)
 
-VI. Cuando los servidores públicos de radio y televisión realicen la difusión o transmisión de datos personales de niñas, niños o adolescentes relacionados de cualquier forma en procedimientos penales o a quienes se les apliquen medidas de reparación, reinserción, restitución o asistencia, en términos de las disposiciones aplicables, en contravención con la presente Ley y en concordancia con la Ley de Justicia para Adolescentes;
+VI. (DEROGADA, P.O. 13 DE JULIO DE 2015)
 
-VII. Cuando los servidores públicos de radio y televisión por difundir o transmitir imágenes, voz o datos de niñas, niños o adolescentes, en contravención a lo dispuesto en esta Ley; y
+VII. (DEROGADA, P.O. 13 DE JULIO DE 2015)
 
 VIII. Las demás contravenciones a lo dispuesto en esta Ley.
 
 ###### Artículo 140.
 
-A quienes incurran en las infracciones previstas en las fracciones I, II y VIII del artículo anterior, se les impondrá multa de hasta mil quinientos días de salario mínimo general vigente en el Estado al momento de realizarse la conducta sancionada.
-
-Las infracciones previstas en las fracciones III, IV, V, VI y VII del artículo anterior, serán sancionadas con multa de tres mil y hasta treinta mil días de salario mínimo general vigente en el Estado al momento de realizarse la conducta.
-
-En los casos de las infracciones previstas en las fracciones III, V, VI y VII del artículo anterior, se impondrá una multa adicional de mil quinientos y hasta siete mil días de salario mínimo general vigente en el Estado, por cada día que se difunda o se encuentren disponibles en medios electrónicos de los que tenga control el servidor público estatal o medio impreso que se trate, la información, datos, imágenes o audios.
-
-En casos de reincidencia, la multa podrá aplicarse hasta por el doble de lo previsto en este artículo. Se considerará reincidente a aquella persona que:
-
-I. Habiendo incurrido en una infracción que haya sido sancionada, realice otra violación del mismo precepto de esta Ley;
-
-II. Al inicio del segundo o ulterior procedimiento exista resolución previa que haya causado estado; y
-
-III. Que entre el inicio del procedimiento y la resolución que haya causado estado no hayan transcurrido más de tres años.
-
-A los servidores públicos que incurran en actos violatorios de esta ley, se les aplicarán las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
+(DEROGADO, P.O. 13 DE JULIO DE 2015)
 
 ###### Artículo 141.
 
@@ -1839,7 +1829,7 @@ II. Tratándose de servidores públicos, así como empleados o trabajadores de e
 
 ###### Artículo 143.
 
-Contra las sanciones que las autoridades estatales impongan en cumplimiento de esta Ley, se podrá interponer el recurso de revisión previsto en la Ley de (sic) Procedimiento Administrativo para el Estado.
+Contra las sanciones que las autoridades estatales impongan en cumplimiento de esta Ley, se podrá interponer el recurso de revisión previsto en la Ley de Procedimiento Administrativo para el Estado.
 
 ###### Artículo 144.
 
@@ -1880,3 +1870,9 @@ PRESIDENTE, DIP. MARIO ALBERTO CUATEPOTZO DURÁN.- RÚBRICA; SECRETARIA, DIP. MA
 EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
 
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS DIECISÉIS DÍAS DEL MES DE ABRIL DEL AÑO DOS MIL QUINCE. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ.- RÚBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE JULIO DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
