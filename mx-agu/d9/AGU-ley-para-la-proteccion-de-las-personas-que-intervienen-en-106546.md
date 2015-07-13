@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-de-las-personas-que-intervienen-en-10654
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-16"
-last_updated: "2015-03-16"
+last_updated: "2015-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN DE LAS PERSONAS QUE INTERVIENEN EN EL ENJUICIAMIENTO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO INICIARÁ SU VIGENCIA A LOS TREINTA DÍAS SIGUIENTES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de marzo de 2015.
 
@@ -159,9 +157,11 @@ VI.- Las personas que hayan aportado datos útiles para la investigación del he
 
 VII.- Los parientes o allegados de cualquiera de los sujetos mencionados en las fracciones anteriores, si se acredita que se encuentran en una situación de riesgo real e inminente derivada del proceso penal.
 
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2015)</small>
+
 ###### Artículo 10.
 
-Para que una persona pueda ser sujeto del régimen de protección, además de la situación de riesgo derivada de su participación en el juicio penal, se requiere que el delito sobre el cual se necesita su participación sea de aquellos que la normatividad procesal penal aplicable considera como graves.
+Para que una persona pueda ser sujeto del régimen de protección, se requiere de una situación de riesgo derivada de su participación en el juicio penal.
 
 ### CAPÍTULO V. Medidas de Protección
 
@@ -175,7 +175,9 @@ Las medidas de protección establecidas en esta Ley, pueden tener las siguientes
 
 I.- Asegurar que la intervención del sujeto en el proceso penal no tendrá ninguna consecuencia nociva en el ámbito material o psicológico del participante directo en el juicio, o bien, de alguno de sus parientes o allegados en razón de algún vínculo de afecto;
 
-II.- Crear las condiciones necesarias para preservar la vida y la integridad física de los participantes en el proceso penal, o de sus parientes y allegados en aquellos delitos graves respecto de los cuales, la intervención en el juicio pueda implicar un riesgo para los sujetos a que se refiere el artículo 9° de esta ley.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2015)</small>
+
+II.- Crear las condiciones necesarias para preservar la vida y la integridad física de los participantes en el proceso penal o de sus pariente (sic) y allegados, cuya intervención en el juicio pueda implicar un riesgo para los sujetos a que se refiere el artículo 9° de la esta (sic) Ley.
 
 ###### Artículo 13.
 
@@ -380,3 +382,11 @@ Dip. Oswaldo Rodríguez García,
 SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 12 de marzo de 2015.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE JULIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
