@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2015-01-26"
+last_updated: "2015-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ NOTA 1.- DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTI
 
 NOTA 2.- DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DE LA DECLARATORIA Y SEGUNDO TRANSITORIO DEL DECRETO No. 392, DE LA G.G. DE 21 DE ENERO DE 2015, POR EL QUE SE APRUEBA LA INCORPORACIÓN A SU RÉGIMEN JURÍDICO EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, COMO SEÑALA QUE DICHA DECLARATORIA SURTIRÁ SUS EFECTOS 18 DE JUNIO DE 2016, EN EL ESTADO DE MÉXICO, SIN EMBARGO, RESPECTO DE LOS PROCEDIMIENTOS PENALES INICIADOS CON ANTELACIÓN A LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE MÉXICO, SE REGIRÁN POR LAS DISPOSICIONES VIGENTES AL MOMENTO DE SU INICIO, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO UNA VEZ INICIADA LA VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE MÉXICO.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE JULIO DE 2015.
 
 Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -1749,7 +1749,9 @@ El defensor podrá renunciar al ejercicio del cargo. El órgano jurisdiccional r
 
 No se podrá renunciar durante las audiencias.
 
-Si el defensor, sin causa justificada, abandona la defensa o deja al imputado sin asistencia técnica, se nombrará uno público y aquél no podrá ser nombrado nuevamente. La decisión se comunicará al imputado, y se le instruirá sobre su derecho de elegir otro defensor.
+> <small>(REFORMADO, G.G. 13 DE JULIO DE 2015)</small>
+
+Si el defensor, sin causa justificada, abandona la defensa o deja al imputado sin asistencia técnica, se le nombrará uno público. La decisión se comunicará al imputado, y se le instruirá sobre su derecho de elegir otro defensor, revalidar al que tenía o preferir continuar con el público.
 
 Cuando el abandono ocurra antes de iniciarse el juicio, podrá aplazarse su comienzo, por un plazo razonable que no exceda de diez días para la adecuada preparación de la defensa, considerando la complejidad del caso, las circunstancias del abandono, las posibilidades de aplazamiento y la solicitud fundamentada del nuevo defensor.
 
@@ -5810,3 +5812,9 @@ PRIMERO. Publíquese el presente Decreto en el periódico oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”, con excepción de la reforma al párrafo tercero del artículo 193 del Código Penal del Estado de México, por el que se impone de tres meses a un año de prisión al que maneje o utilice un vehículo de motor sin ambas placas de circulación o la autorización para circular, la cual, entrará en vigor a los seis meses posteriores a la publicación del presente Decreto.
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 13 DE JULIO DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
