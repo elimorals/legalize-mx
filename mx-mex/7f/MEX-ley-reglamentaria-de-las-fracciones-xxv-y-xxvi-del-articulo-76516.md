@@ -4,7 +4,7 @@ identifier: "MEX-ley-reglamentaria-de-las-fracciones-xxv-y-xxvi-del-articulo-765
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-03"
-last_updated: "2013-02-25"
+last_updated: "2015-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76516&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY REGLAMENTARIA DE LAS FRACCIONES XXV Y XXVI DEL ARTÍCULO 61 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2015.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 3 de septiembre de 2010.
 
@@ -335,7 +335,15 @@ I. Sus trámites serán sencillos, evitando formulismos innecesarios;
 
 II. Deberán tramitarse y decidirse de manera pronta y expedita;
 
-III. El procedimiento sólo podrá tramitarse con la intervención de los municipios interesados;
+> <small>(REFORMADA, G.G. 13 DE JULIO DE 2015)</small>
+
+III. El procedimiento solo podrá tramitarse con la intervención de los municipios interesados, debiendo otorgar garantía de audiencia a los municipios colindantes, con las formalidades siguientes:
+
+a) Se comunicará el inicio del procedimiento y sus consecuencias jurídicas.
+
+b) Se otorgará la oportunidad de ofrecer y desahogar pruebas.
+
+c) Se dará la oportunidad de alegar lo que en derecho convenga.
 
 IV. Las actuaciones serán públicas;
 
@@ -393,7 +401,7 @@ IV. Las fechas en que realizaron las reuniones de trabajo y recorridos de campo;
 
 V. Las fechas de los acuerdos de cabildo en las que se aprobaron el plano y el convenio;
 
-VI. Una descripción detallada de los puntos de la línea limítrofe entre ambos municipios; y (sic)
+VI. Una descripción detallada de los puntos de la línea limítrofe entre ambos municipios; y
 
 VII. Lugar y fecha en que se suscribe el convenio; y
 
@@ -579,7 +587,7 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 
 SEGUNDO.- Este ordenamiento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-TERCERO.- Se abroga la Ley para la Creación de Municipios en el Estado de México. Publicada en el Periódico Oficial "Gaceta del Gobierno", el 22 de Enero de I996.
+TERCERO.- Se abroga la Ley para la Creación de Municipios en el Estado de México. Publicada en el Periódico Oficial "Gaceta del Gobierno", el 22 de Enero de 1996.
 
 Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
 
@@ -612,3 +620,11 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
 
 CUARTO.- El Gobernador del Estado, al presentar la Cuenta Pública del Gobierno del estado de México y Organismos Auxiliares del Ejercicio Fiscal 2013, informará de los recursos ejercidos por la Consejería Jurídica.
+
+G.G. 13 DE JULIO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto, perdiendo vigor al momento de esta publicación.
