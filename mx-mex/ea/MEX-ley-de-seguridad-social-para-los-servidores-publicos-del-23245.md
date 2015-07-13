@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-social-para-los-servidores-publicos-del-23245"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-03"
-last_updated: "2014-05-14"
+last_updated: "2015-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE JULIO DE 2015.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 3 de enero de 2002.
 
@@ -87,7 +87,9 @@ VI. Familiares y dependientes económicos del servidor público o del pensionado
 
 1. El cónyuge.
 
-2. A falta del cónyuge, la persona con quien el servidor público o el pensionado haya vivido como si lo fuera durante los últimos 5 años, que ambos hayan permanecido libres de matrimonio y acredite que no esté sujeto a otro régimen de seguridad social.
+> <small>(REFORMADO, G.G. 13 DE JULIO DE 2015)</small>
+
+2. A falta del cónyuge, la persona con quien el servidor público o el pensionado haya vivido como si lo fuera y que ambos hayan permanecido libres de matrimonio, de conformidad con lo que dispone el artículo 4.403 del Código Civil del Estado de México y que acredite que no esté sujeto a otro régimen de seguridad social.
 
 3. Los hijos menores de dieciocho años de ambos o de uno de ellos, que sean solteros.
 
@@ -1686,3 +1688,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Cuando en los ordenamientos jurídicos estatales se haga referencia a la Secretaría de Finanzas, Planeación y Administración; de Desarrollo Urbano y Obras Públicas; de Educación, Cultura y Bienestar Social; del Trabajo y de la Previsión Social y, de Ecología, se entenderá, respectivamente, a la Secretaría de Finanzas; de Desarrollo Urbano; de Educación, de Trabajo y, de Medio Ambiente.
+
+G.G. 13 DE JULIO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
