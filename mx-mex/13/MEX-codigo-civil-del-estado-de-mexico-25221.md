@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2015-06-22"
+last_updated: "2015-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE JULIO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -2050,6 +2050,18 @@ ll. Que el concubinario o la concubina se hubiera dedicado al cuidado de los hij
 III. Que no haya contraído nuevas nupcias o viva en concubinato;
 
 IV. Que se reclame dentro del año siguiente de haber cesado el concubinato.
+
+> <small>(ADICIONADO, G.G. 13 DE JULIO DE 2015)</small>
+
+Al cesar la convivencia, la concubina o concubino que haya procreado hijos, se hubiera dedicado al cuidado de éstos y del hogar, y que además carezca de ingresos o bienes propios para su sostenimiento, tiene derecho a una pensión alimenticia por un tiempo no mayor al que haya durado el concubinato, según lo fije el juez tomando en cuenta sus posibilidades para que pueda proveerse de un empleo o actividad remunerada, según su edad, instrucción y aptitud laboral.
+
+> <small>(ADICIONADO, G.G. 13 DE JULIO DE 2015)</small>
+
+No podrá reclamar alimentos y en su caso cesarán si se une en concubinato o contrae matrimonio o bien adquiere bienes propios o realiza alguna actividad remunerada que le permitan su subsistencia.
+
+> <small>(ADICIONADO, G.G. 13 DE JULIO DE 2015)</small>
+
+El derecho que otorga este artículo podrá ejercitarse sólo durante el año siguiente a la cesación del concubinato.
 
 Obligación alimentaria de los padres
 
@@ -18072,3 +18084,13 @@ G.G. 22 DE JUNIO DE 2015.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 13 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
