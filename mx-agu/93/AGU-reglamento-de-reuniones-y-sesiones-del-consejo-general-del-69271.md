@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-reuniones-y-sesiones-del-consejo-general-del-6927
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-13"
-last_updated: "2009-07-13"
+last_updated: "2015-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO DE REUNIONES Y SESIONES DEL CONSEJO GENERAL DEL INSTITUTO ESTATAL ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO PRIMERO DEL REGLAMENTO DE REUNIONES Y SESIONES DEL CONSEJO GENERAL DEL INSTITUTO ESTATAL ELECTORAL, PUBLICADO EN EL P.O. DE 13 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -512,3 +514,15 @@ T R A N S I T O R I O S :
 PRIMERO. Se abroga el Reglamento de Sesiones del Consejo General del Instituto Estatal Electoral del Estado de Aguascalientes publicado en fecha 12 de enero del 2004 en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO. El presente Reglamento entrará en vigor al momento de su aprobación.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga el Reglamento de Sesiones del Consejo General del Instituto Estatal Electoral del Estado de Aguascalientes publicado en fecha trece de julio dedos (sic) mil nueve en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Reglamento entrará en vigor al momento de su aprobación.
