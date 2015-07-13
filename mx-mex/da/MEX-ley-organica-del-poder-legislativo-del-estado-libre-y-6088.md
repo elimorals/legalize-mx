@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2014-10-22"
+last_updated: "2015-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE JULIO DE 2015.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1129,9 +1129,13 @@ En el caso de que los diputados no sean miembro (sic) de las comisiones o de los
 
 Las comisiones legislativas tendrán como funciones estudiar y analizar las iniciativas de ley o decreto que les sean turnados de acuerdo a su ámbito de competencia, de acuerdo a lo dispuesto en el Reglamento del Poder Legislativo del Estado Libre y Soberano de México, además de los asuntos que en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política les encomienden, con el objeto de elaborar los dictámenes o informes correspondientes, debiendo dar cuenta de ello al Presidente de la Legislatura en los plazos establecidos por la ley y el reglamento.
 
-> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADO, G.G. 13 DE JULIO DE 2015)</small>
 
-Para el cumplimiento de esta función el pleno de cada Comisión Legislativa podrá constituir subcomisiones de trabajo con el objeto de agilizar y especializar la labor de dictaminación.
+Durante el Proceso Legislativo, las comisiones de manera preferente, generarán mesas de trabajo, en las que podrán convocar a Organizaciones de la Sociedad Civil que se encuentren involucradas en los temas a tratar.
+
+> <small>(REFORMADO, G.G. 13 DE JULIO DE 2015)</small>
+
+Para el cumplimiento de esta función el pleno de cada comisión legislativa podrá constituir subcomisiones de trabajo con el objeto de agilizar y especializar la labor de dictaminación.
 
 > <small>(REFORMADO, G.G. 14 DE NOVIEMBRE DE 2011)</small>
 
@@ -1455,7 +1459,7 @@ Asimismo, podrá disponer la creación de otras que sean necesarias.
 
 ###### Artículo 94 Bis.
 
-El Poder Legislativo se auxiliará de un órgano de consulta denominado Consejo Consultivo de Valoración Salarial, cuya integración y funciones estarán señaladas por el reglamento del Poder Legislativo del Estado Libre y Soberano de México.
+El Poder Legislativo se auxiliará de un órgano de consulta denominado Consejo Consultivo de Valoración Salarial, cuya integración y funciones estarán señaladas por el Reglamento del Poder Legislativo del Estado Libre y Soberano de México.
 
 > <small>(ADICIONADO, G.G. 2 DE FEBRERO DE 2010)</small>
 
@@ -2100,3 +2104,9 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Cuando se haga referencia en disposiciones legales o administrativas a la Comisión Legislativa de Asuntos Electorales, se entenderá que corresponde a la Comisión Legislativa Electoral y de Desarrollo Democrático.
+
+G.G. 13 DE JULIO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
