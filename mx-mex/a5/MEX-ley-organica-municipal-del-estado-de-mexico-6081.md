@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2015-06-22"
+last_updated: "2015-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE JULIO DE 2015.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1635,7 +1635,7 @@ La Unidad Municipal de Protección Civil, será la autoridad encargada de dar la
 
 Para ser titular de la Unidad Municipal de Protección Civil se requiere, además de los requisitos del artículo 32 de esta Ley:
 
-l. Tener los conocimientos suficientes debidamente acreditados en materia de protección civil para poder desempeñar el cargo y acreditar dentro de los seis meses siguientes a partir del momento en que ocupe el cargo, haber tomado cursos de capacitación en la materia, impartidos por la Dirección General de Protección Civil del Estado de México o por cualquier otra institución debidamente reconocida por la misma.
+I. Tener los conocimientos suficientes debidamente acreditados en materia de protección civil para poder desempeñar el cargo y acreditar dentro de los seis meses siguientes a partir del momento en que ocupe el cargo, haber tomado cursos de capacitación en la materia, impartidos por la Dirección General de Protección Civil del Estado de México o por cualquier otra institución debidamente reconocida por la misma.
 
 > <small>(ADICIONADO, G.G. 4 DE OCTUBRE DE 2010)</small>
 
@@ -1645,7 +1645,7 @@ Cada Ayuntamiento constituirá un consejo municipal de protección civil que enc
 
 Son atribuciones de los Consejos Municipales de Protección Civil:
 
-l. Identificar en un Atlas de Riesgos Municipal, que deberá actualizarse permanentemente y publicarse en la Gaceta Municipal durante el primer año de gestión de cada ayuntamiento, sitios que por sus características específicas puedan ser escenarios de situaciones de emergencia, desastre o calamidad públicas;
+I. Identificar en un Atlas de Riesgos Municipal, que deberá actualizarse permanentemente y publicarse en la Gaceta Municipal durante el primer año de gestión de cada ayuntamiento, sitios que por sus características específicas puedan ser escenarios de situaciones de emergencia, desastre o calamidad públicas;
 
 II. Formular, en coordinación con las autoridades estatales de la materia, planes operativos para fomentar la cultura de la prevención, detección de riesgos, auxilio, protección a la población, restablecimiento a la normalidad y conocimientos básicos que permitan el aprendizaje de medidas de autoprotección y de auxilio, con la oportunidad y eficacia debidas.
 
@@ -1875,9 +1875,11 @@ XXII. Las que les señalen las demás disposiciones legales y el ayuntamiento.
 
 Para ser tesorero municipal se requiere, además de los requisitos del artículos (sic) 32 de esta Ley:
 
-> <small>(REFORMADA, G.G. 24 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 13 DE JULIO DE 2015)</small>
 
-I. Tener los conocimientos suficientes para poder desempeñar el cargo, a juicio del ayuntamiento; contar con título profesional en las áreas económicas o contable-administrativas, con experiencia mínima de un año y con la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México, con anterioridad a la fecha de su designación;
+I. Tener los conocimientos suficientes para poder desempeñar el cargo, a juicio del Ayuntamiento; contar con título profesional en las áreas jurídicas, económicas o contable-administrativas, con experiencia mínima de un año y con la certificación de competencia laboral en funciones expedida por el Instituto Hacendario del Estado de México, con anterioridad a la fecha de su designación;
+
+El requisito de la certificación de competencia laboral, deberá acreditarse dentro de los seis meses siguientes a la fecha en que inicie funciones.
 
 > <small>(REFORMADA, G.G. 21 DE ABRIL DE 2014)</small>
 
@@ -2699,7 +2701,7 @@ El ayuntamiento garantizará que se publique y difunda en los lugares de mayor a
 
 Artículo 147 Q.- Para ser Cronista Municipal se requiere:
 
-l. Haber nacido en el municipio o tener en él una residencia no menor de 10 años;
+I. Haber nacido en el municipio o tener en él una residencia no menor de 10 años;
 
 II. Conocer y estar familiarizado con la historia, costumbres, tradiciones, desarrollo cultural y demás elementos que le dan identidad al municipio;
 
@@ -4254,3 +4256,9 @@ DECRETO NÚMERO 450, POR EL QUE ADICIONA LA FRACCIÓN IX Y SE RECORREN EN SU ORD
 PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 13 DE JULIO DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- Esta (sic) Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
