@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-del-instituto-de-seguridad-y-servicios-3162
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-03"
-last_updated: "2003-06-03"
+last_updated: "2015-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,6 +22,10 @@ state: "CAM"
 # REGLAMENTO INTERIOR DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE CAMPECHE -ISSSTECAM-
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE CAMPECHE
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 13 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el martes 3 de junio de 2003.
 
@@ -151,7 +155,7 @@ VI.- Convocar al Consejo Directivo a las reuniones ordinarias y extraordinarias;
 
 VII.- Las demás que señale la Ley de creación del organismo, este reglamento y los acuerdos del Consejo Directivo.
 
-### CAPÍTULO V. DE LAS ATRIBUCI0NES Y FACULTADES GENERALES DEL DIRECTOR OPERATIVO
+### CAPÍTULO V. DE LAS ATRIBUCIONES Y FACULTADES GENERALES DEL DIRECTOR OPERATIVO
 
 ###### Artículo 11.
 
@@ -553,7 +557,7 @@ IV.- Supervisar el correcto desempeño de las actividades técnicas y administra
 
 V.- Coordinar y supervisar la elaboración del proyecto del programa anual de trabajo por área para la integración del mismo al Programa Anual de Trabajo del Centro de Desarrollo Infantil y presentarlo para su aprobación a las autoridades competentes;
 
-II (sic).- Proporcionar asesoría y apoyo técnico en la materia de su competencia cuando así Io determine el Director General;
+II (sic).- Proporcionar asesoría y apoyo técnico en la materia de su competencia cuando así lo determine el Director General;
 
 III.- Programar la elaboración y entrega de cheques;
 
@@ -671,7 +675,7 @@ IV.- Controlar el inventario de mobiliario y enseres del CENDI;
 
 V.- Supervisar la puntualidad y asistencia del personal docente y demás empleados, reportando al Coordinador Administrativo del CENDI las incidencias;
 
-VI.- Elaborar los informes que solicite la Dirección del CENOI, o demás autoridades del organismo; y
+VI.- Elaborar los informes que solicite la Dirección del CENDI, o demás autoridades del organismo; y
 
 VII.- Las demás que le encomiende el Director del CENDI, el Director General del organismo y demás aplicables del presente reglamento.
 
@@ -802,3 +806,13 @@ Se derogan todas las disposiciones reglamentarias y administrativas en lo que se
 Dado en la sala de Juntas del Consejo Directivo del Instituto de Seguridad y Servicios Sociales de los trabajadores del Estado de Campeche, en la ciudad de Campeche, Municipio y Estado del .mismo nombre, a los cuatro días del mes de marzo del año dos mil dos.
 
 C.P. Víctor Santiago Pérez Aguilar, Secretario de Finanzas y Administración, Representante del Presidente del Consejo y Secretario Técnico.- Lic. Alfredo Sandoval Martínez, Subsecretario de Administración de la Secretaría de Finanzas y Administración. Secretario Ejecutivo.- Dr. Pedro Canul Rodríguez, Secretario de Salud del Estado. Vocal Ejecutivo.- Lic. Mario Sosa Díaz., Coordinador General C-4. Vocal Ejecutivo.- Lic. Manuel Sansores Díaz, Director General del ISSSTECAN, Vocal Secretario- C.P. Francisco Fernández Pérez, Secretario de la Contraloría. Comisario del Consejo.- Lic. Salvador Barahona González, Secretario General del SUTPMIDEC. Vocal Ejecutivo.- C.P. Jorge Carlos Hurtado Valdez, Presidente Municipal del H. Ayuntamiento de Campeche. Vocal Ejecutivo.- Lic. Alfonso Esquivel Campos, Director General del Instituto de Cultura. Vocal Ejecutivo.- C.P. Silvia Barrera Sánchez, Representante del H. Ayuntamiento de Campeche. Vocal Ejecutivo.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE JULIO DE 2015.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en (sic) Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Campeche publicado el 3 de junio del año 2003 en el Periódico Oficial del Estado.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Reglamento.
