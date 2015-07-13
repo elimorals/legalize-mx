@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2015-06-08"
+last_updated: "2015-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2015.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -1565,9 +1565,9 @@ El fondo para la administración de justicia, se integra con:
 
 a).- Los intereses que generen las inversiones que se hagan por los depósitos en dinero o en valores que se efectúen ante los tribunales judiciales del fuero común;
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2015)</small>
 
-b).- Los objetos o instrumentos materia del delito que sean de uso licito, cuando no se reclamen en la forma y términos previstos en las disposiciones respectivas del Código Penal para el Estado de Aguascalientes y el Código Nacional de Procedimientos Penales. La declaración de que tales cantidades pasan a formar parte del Fondo se hará de oficio y en su contra podrá interponerse el recurso de revocación, de conformidad con el Código Nacional de Procedimientos Penales;
+b).- Los objetos o instrumentos materia del delito que sean de uso lícito, cuando no se reclamen en la forma y términos previstos en las disposiciones respectivas del Código Penal para el Estado de Aguascalientes y el Código Nacional de Procedimientos Penales. La declaratoria de que tales cantidades pasan a formar parte del fondo se hará de oficio;
 
 c).- Los muebles y valores depositados por cualquier motivo ante los tribunales de justicia del fuero común, que no fueren retirados por el depositario o por quien tenga derecho a ello, dentro del plazo de noventa días previo requerimiento;
 
@@ -1575,9 +1575,9 @@ d).- Donaciones, herencias y legados;
 
 e).- Las multas y sustituciones de pena impuesta por los órganos jurisdiccionales estatales;
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2015)</small>
 
-f).- El monto de la reparación del daño cuando la víctima u ofendido renuncie a él o no reclame dentro del plazo de seis meses, a partir de la notificación de que queda a su disposición. La declaración de que tales cantidades pasan a formar parte del fondo, se hará de oficio y en su contra podrá interponerse el recurso de revocación, de conformidad con el Código Nacional de Procedimientos Penales.
+f).- El monto de la reparación del daño cuando la víctima u ofendido renuncie a él o no reclame dentro del plazo de seis meses, a partir de la notificación de que queda a su disposición. La declaración de que tales cantidades pasan a formar parte del fondo, se hará de oficio.
 
 ###### ARTICULO 83.
 
@@ -2472,3 +2472,9 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Las reformas a la Ley Orgánica del Poder Judicial iniciarán su vigencia una vez que haya sido instalado el Tribunal Electoral del Estado, en términos del Artículo Séptimo de las disposiciones transitorias del Decreto Número 152 que contiene el Código Electoral del Estado de Aguascalientes.
+
+P.O. 13 DE JULIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
