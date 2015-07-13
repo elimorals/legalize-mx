@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-instituto-estatal-electoral-de-82167"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-11"
-last_updated: "2011-07-11"
+last_updated: "2015-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL ELECTORAL DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO TERCERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ESTATAL ELECTORAL MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL ELECTORAL DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 13 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 11 de julio de 2011.
 
@@ -1081,3 +1083,35 @@ TERCERO: Los nombramientos expedidos con anterioridad a la entrada en vigor de e
 CUARTO: El titular de la Contraloría General tendrá un plazo de seis meses contado a partir de su nombramiento por el Congreso para emitir los reglamentos, normas, lineamientos, procedimientos, métodos, mecanismos, programas y sistemas a que se refiere el artículo 353 del Código.
 
 QUINTO: Se derogan las disposiciones del Reglamento del Servicio Profesional Estatal Electoral que contravengan lo dispuesto en el presente Reglamento.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE JULIO DE 2015.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ESTATAL ELECTORAL MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL ELECTORAL DE AGUASCALIENTES.</small>
+
+PRIMERO. Este Consejo General, es competente para emitir el presente Acuerdo de conformidad con lo establecido en los Considerandos que lo integran.
+
+SEGUNDO. Este Consejo General expide el Reglamento Interior del Instituto Estatal Electoral de Aguascalientes, para quedar en los siguientes términos:
+
+...
+
+TERCERO. Se abroga el Reglamento Interior del Instituto Estatal Electoral de Aguascalientes, publicado en el Periódico Oficial del Estado de Aguascalientes, en fecha once de julio de dos mil once.
+
+CUARTO. El presente Acuerdo entrará en vigor y surtirá sus efectos legales al momento de su aprobación por el Consejo General del Instituto Estatal Electoral de Aguascalientes.
+
+QUINTO Notifíquese por estrados el presente Acuerdo en términos de lo establecido por los artículos 318,320 fracción III y 323 del Código Electoral del Estado de Aguascalientes; y 45 y 46 del Reglamento de Reuniones y Sesiones del Consejo General del Instituto Estatal Electoral.
+
+SEXTO. Para su conocimiento general publíquese el presente Acuerdo en el Periódico Oficial del Estado, así como en la página oficial de Internet del Instituto Estatal Electoral, con fundamento en lo establecido en el artículo 46 del Reglamento de Reuniones y Sesiones del Consejo General del Instituto Estatal Electoral.
+
+## TRANSITORIOS
+
+PRIMERO. A la entrada en vigor del presente Reglamento quedarán salvaguardados los derechos laborales del personal del Instituto.
+
+SEGUNDO. La Comisión del Servicio Profesional Estatal Electoral continuará en sus funciones hasta en tanto el Consejo General del Instituto Nacional Electoral apruebe el Estatuto del Servicio Profesional Electoral Nacional y el Catálogo General de Cargos y Puestos del Instituto y de los Organismos Públicos Locales, a efecto de que se establezcan las directrices relacionadas con la entrada en vigor del Servicio Profesional Electoral Nacional.
+
+TERCERO. EI titular de la Contraloría Interna del Instituto tendrá un plazo de seis meses, contado a partir de su nombramiento por el Congreso del Estado, para emitir los reglamentos, normas, lineamientos, procedimientos, métodos, mecanismos, programas, sistemas y demás documentos a que se refiere el presente Reglamento y el artículo 290 del Código.
+
+CUARTO. Todas las referencias a la Secretaria Ejecutiva y al Secretario Ejecutivo contenidas en el presente Reglamento deberán entenderse realizadas a la Secretaría Técnica y al Secretario Técnico respectivamente, hasta en tanto el Consejo General del Instituto Nacional Electoral realice la designación del Consejero Presidente y los Consejeros Electorales del Consejo Genera!, y estos a su vez designen al Secretario Ejecutivo.
+
+En lo referente a la Oficialía Electoral, ésta deberá sujetarse a lo dispuesto por el Reglamento que al efecto apruebe el Consejo.
