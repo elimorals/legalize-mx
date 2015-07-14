@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "2015-07-01"
+last_updated: "2015-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -469,7 +469,7 @@ II.- Si durante la tramitación se transfiere el derecho controvertido por acto 
 
 III.- Si la trasmisión a título particular se produce por causa de muerte de una de las partes, el juicio se seguirá por, o contra el sucesor universal;
 
-IV.- En cualquier caso, el sucesor a título particular puede intervenir o ser llamado a juicio, y si las partes están conformes, el enajenante o el sucesor universal pueden ser excluidos. La sentencia dictada contra estos últimos produce siempre sus efectos contra el sucesor a título particular, quien tendrá derecho de impugnarla , salvo las disposiciones por adquisición de buena fe, respecto de bienes muebles o inmuebles no inscritos en el Registro Público;
+IV.- En cualquier caso, el sucesor a título particular puede intervenir o ser llamado a juicio, y si las partes están conformes, el enajenante o el sucesor universal pueden ser excluidos. La sentencia dictada contra estos últimos produce siempre sus efectos contra el sucesor a título particular, quien tendrá derecho de impugnarla, salvo las disposiciones por adquisición de buena fe, respecto de bienes muebles o inmuebles no inscritos en el Registro Público;
 
 V.- Las trasmisiones del derecho o derechos controvertidos no afectan al procedimiento, excepto en los casos en que haga desaparecer, por confusión sustancial de intereses, la materia del litigio; y,
 
@@ -1633,7 +1633,7 @@ I.- Si el juez ante quien se promueve se considera competente para conocer del j
 
 Si la resolución fuere negando su competencia, será apelable en ambos efectos;
 
-II.- Si el juez reconoce su competencia mandará librar oficio requiriedo al que estime incompetente para que se abstenga de conocer del negocio y remitirá, desde luego, las actuaciones respectivas al superior, haciéndolo saber al interesado;
+II.- Si el juez reconoce su competencia mandará librar oficio requiriendo al que estime incompetente para que se abstenga de conocer del negocio y remitirá, desde luego, las actuaciones respectivas al superior, haciéndolo saber al interesado;
 
 III.- Luego que el juez requerido reciba el oficio inhibitorio, acordará la suspensión del procedimiento, y remitirá inmediatamente los autos originales al superior, con citación de las partes;
 
@@ -1689,7 +1689,7 @@ V.- Si ha hecho promesa o amenazas, o ha manifestado de otro modo su enemistad o
 
 VI.- Si asiste o ha asistido a convites que especialmente para él diere o costeare alguno de los litigantes, después de comenzado el pleito, o vive con él en su compañía en una misma casa;
 
-VII.- Cuando después de comenzado el pleito, haya admitido él, su cónyuge o alguno de sus hijos, dádivas o servicios de alguna de las partes;
+VII.- Cuando después de comenzado el pleito, o haya admitido él, su cónyuge o alguno de sus hijos, dádivas o servicios de alguna de las partes;
 
 VIII.- Si ha sido abogado o procurador, perito o testigo en el negocio de que se trate.
 
@@ -1997,13 +1997,17 @@ IV.- Lo que se pida, designándolo con toda exactitud, en términos claros y pre
 
 V.- Los fundamentos de Derecho;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2015)</small>
 
-VI.- En su caso, si pide que el emplazamiento por exhorto dirigido a un órgano jurisdiccional del Poder Judicial del Estado o perteneciente a otro Poder Judicial del País, con el que institucionalmente se hubiere convenido el envío electrónico de exhortos de la Comunicación Procesal Electrónica; y
+VI.- En su caso, si pide que el emplazamiento por exhorto dirigido a un órgano jurisdiccional del Poder Judicial del Estado o perteneciente a otro Poder Judicial del País, con el que institucionalmente se hubiere convenido el envío electrónico de exhortos de la Comunicación Procesal Electrónica;
 
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2015)</small>
 
-VII.- Los demás requisitos contenidos en el artículo 22 de este Código.
+VII.- En los casos de divorcio deberá incluirse la propuesta de convenio en los términos que se establece en el artículo 248 del Código Civil, debiendo ofrecer todas las pruebas tendientes a acreditar la procedencia de la propuesta de convenio; y
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2015)</small>
+
+VIII.- Los demás requisitos contenidos en el artículo 22 de este Código.
 
 ###### ARTICULO 248.
 
@@ -2139,6 +2143,10 @@ IV.- Producir todas las consecuencias de la interpelación judicial, si por otro
 
 La demanda deberá contestarse negándola, confesándola, u oponiendo excepciones. El demandado deberá referirse a todos y cada uno de los hechos comprendidos en ella, afirmándolos, negándolos, expresando los que ignore por no ser propios, o refiriéndolos como crea que tuvieron lugar. Se tendrán por admitidos los hechos sobre los que el demandado no suscitare explícitamente controversia, sin admitírsele prueba en contrario. La negación pura y simple del derecho importa la confesión de los hechos, la confesión de éstos no entraña la confesión del derecho.
 
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2015)</small>
+
+En los casos de divorcio podrá manifestar su conformidad con el convenio propuesto o, en su caso, presentar su contra propuesta, debiendo anexar las pruebas respectivas relacionadas con la misma.
+
 ###### ARTICULO 259.
 
 Cuando, al contestar, no se contrademande, no puede ser ampliada la contestación en ningún momento del juicio, a no ser que se trate de excepciones supervinientes. En este caso es permitida la ampliación correspondiente, una sola vez hasta antes de fenecer el término de prueba, en el cual se admitirá la de las excepciones supervinientes.
@@ -2199,15 +2207,27 @@ V.- Proveerá lo que pida el demandado respecto de los documentos que no tenga a
 
 No procederá que el juicio se abra a prueba:
 
-I.- Cuando el demandado se allane a la demanda o admita expresamente la totalidad de los hechos afirmados en la misma, ni cuando, salvo el caso de rebeldía, no suscite explícitamente controversia sobre ellos, y siempre que no se haga valer compensación o reconvención; y,
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2015)</small>
 
-II.- Cuando las cuestiones controvertidas fueren puramente de derecho y no de hecho, salvo lo dispuesto para el derecho extranjero.
+I.- Cuando el demandado se allane a la demanda o admita expresamente la totalidad de los hechos afirmados en la misma, ni cuando, salvo el caso de rebeldía, no suscite explícitamente controversia sobre ellos, y siempre que no se haga valer compensación o reconvención.
+
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2015)</small>
+
+II.- Cuando las cuestiones controvertidas fueren puramente de derecho y no de hecho, salvo lo dispuesto para el derecho extranjero; y
+
+> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2015)</small>
+
+III.- En los casos de divorcio, toda vez que las pruebas relacionadas con el convenio propuesto debieron ofrecerse al momento de presentarse la solicitud y, en su caso, la contestación a la misma, por lo que únicamente se ordenará su preparación y se señalará fecha para su desahogo en el incidente correspondiente.
 
 ###### ARTICULO 271.
 
 En los casos a que se refiere la fracción I del Artículo anterior, el juez mandará citar a las partes para oír sentencia, haciendo esta citación precisamente en el auto mencionado en el 269, excepto si la cuestión interesa al orden público, y la sentencia a dictarse surte efectos frente a terceros que no han litigado, pues en estos casos deberá, no obstante, mandarse abrir el juicio a prueba.
 
 En el caso a que se refiere la fracción II, el juez citará a las partes para la audiencia de alegatos, o les señalará plazo para que aleguen.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2015)</small>
+
+El juez, en lo que respecta a la fracción III del artículo 270, decretará el divorcio y no se admite recurso alguno, una vez que se haya contestado la solicitud presentada o en su defecto, haya precluido el término para contestarla o las partes no se hayan puesto de acuerdo de conformidad en la audiencia de conciliación. En caso de diferencias en los convenios propuestos, el juez, procederá en los términos a que se refiere el segundo párrafo del artículo 251 del Código Civil para el Estado de Tamaulipas.
 
 ###### ARTICULO 272.
 
@@ -4735,7 +4755,7 @@ El que hubiere poseído bienes inmuebles por el tiempo y las condiciones exigida
 
 Si se declara procedente la acción, el juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción, y tal declaración se tendrá como título de propiedad, y será inscrita, una vez protocolizadas las diligencias respectivas, en el Registro Público.
 
-### CAPITULO IV. JUICIO REVINDICATORIO (SIC)
+### CAPITULO IV. JUICIO REVINDICATORIO
 
 ###### ARTICULO 621.
 
@@ -6349,7 +6369,7 @@ La junta tendrá por objeto:
 
 I.- Dar a conocer a los herederos el albacea testamentario si lo hubiere, o proceder a su designación con arreglo a lo dispuesto en el Código Civil;
 
-II.- El reconocimiento, como herederos, de lo nombrados en el testamento si éste no fuere impugnado ni se impugnare la capacidad legal de alguno;
+II.- El reconocimiento, como herederos, de los nombrados en el testamento si éste no fuere impugnado ni se impugnare la capacidad legal de alguno;
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
 
@@ -8062,3 +8082,13 @@ A partir del siguiente ejercicio fiscal, se deberán destinar partidas presupues
 Los procedimientos de adopción y de pérdida de patria potestad de niñas, niños y adolescentes acogidos por instituciones de asistencia social, que se iniciaron con anterioridad a la entrada en vigor del presente Decreto, continuarán desarrollándose conforme al procedimiento que se venía aplicando hasta la entrada en vigor del mismo.
 
 (SIC) SEXTO. El Ejecutivo Estatal o los Ayuntamientos en su caso, expedirán los Reglamentos derivados de la expedición del presente Decreto, los cuales se publicarán en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Por lo que hace a los juicios de divorcio en trámite, será potestativo para cualquiera de las partes acogerse a las reformas establecidas en el presente decreto o, en su caso, seguirán rigiéndose con las disposiciones vigentes anteriores a la publicación del presente decreto hasta en tanto hayan concluido en su totalidad.
