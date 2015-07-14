@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2015-05-29"
+last_updated: "2015-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "PUE"
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 14 DE JULIO DE 2015.</small>
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -5870,6 +5872,8 @@ TABULADOR DE INFRACCIONES Y SANCIONES
 De las infracciones en general y otras obligaciones.
 
 > <small>N. DE E. VÉASE TABLA EN LA CUARTA SECCIÓN DEL P.O. DE 2 DE MARZO DE 2015, PÁGINAS DE LA 46 A LA 55.</small>
+
+> <small>N. DE E. VÉASE F. DE E. A LA TABLA EN LA TERCERA SECCIÓN DEL P.O. 14 DE JULIO DE 2015, PÁGINA 3.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -24227,7 +24231,7 @@ III.- Desperdicios: Son la basura y los residuos que se encuentren en el rastro 
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-IV.- Esquilmos: Partes del animal no aptos para el consumo humano; son las materias residuales que resultan del sacrificio de los animales como: la sangre, óvulos, espermas, embriones, glándulas, bazo, hipófisis, el páncreas, testículos, patas, ubre, las cerdas, el pelo, el hueso calcinado, los cuernos, la piel, las pezuñas, las plumas, las hieles, el estiércol, etcétera;
+IV. Esquilmos: Partes del animal no aptos para el consumo humano; son las materias residuales que resultan del sacrificio de los animales como: la sangre, óvulos, espermas, embriones, glándulas, bazo, hipófisis, el páncreas, testículos, patas, ubre, las cerdas, el pelo, el hueso calcinado, los cuernos, la piel, las pezuñas, las plumas, las hieles, el estiércol, etcétera;
 
 V.- Evisceración: Extracción de las vísceras contenidas en la cavidad toráxica, abdominal, craneana y bucal de las especies de animales consideradas algunas aptas para el consumo humano, pudiendo o no, extraerse los riñones;
 
@@ -24267,7 +24271,7 @@ XXII.- Secretaría: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pe
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-XXIII.- Subproducto cárnico: Derivado del producto cárnico, como jamón, tocino, queso de puerco, pastel de pollo, longaniza, chorizo, mortadela, salami, carne adobada, carne seca, cecina, tasajo, chicharrón, frituras, toda clase de embutidos, y cualquier otro semejante;
+XXIII. Subproducto cárnico: Derivado del producto cárnico, como jamón, tocino, queso de puerco, pastel de pollo, longaniza, chorizo, mortadela, salami, carne adobada, carne seca, cecina, tasajo, chicharrón, frituras, toda clase de embutidos, y cualquier otro semejante;
 
 XXIV.- TIF: Establecimiento Tipo Inspección Federal;
 
@@ -24277,31 +24281,31 @@ XXVI.- Usuarios: Son todos aquéllos que utilicen los servicios del rastro.
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-XXVII.- Carne: Estructura compuesta por fibra muscular estriada, acompañada o no de tejido conjuntivo elástico, hueso, grasa, fibras nerviosas, vasos linfáticos, y sanguíneos, de las especies animales autorizadas para el consumo humano;
+XXVII. Carne: Estructura compuesta por fibra muscular estriada, acompañada o no de tejido conjuntivo elástico, hueso, grasa, fibras nerviosas, vasos linfáticos, y sanguíneos, de las especies animales autorizadas para el consumo humano;
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-XXVIII.- Carne blanca: Es la canal o carne sin sello del Rastro Municipal o algún Rastro reconocido;
+XXVIII. Carne blanca: Es la canal o carne sin sello del Rastro Municipal o algún Rastro reconocido;
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-XIX (SIC).- Decomiso: Incautación de las canales, las vísceras y demás productos cárnicos y/o subproductos, considerados impropios para el consumo humano, que únicamente podrán ser aprovechados para uso industrial o en su caso incineración;
+XIX (SIC). Decomiso: Incautación de las canales, las vísceras y demás productos cárnicos y/o subproductos, considerados impropios para el consumo humano, que únicamente podrán ser aprovechados para uso industrial o en su caso incineración;
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-XXX.- Empacadora: Establecimiento que procesa carne fresca o congelada para su comercialización en cortes o piezas debidamente empacadas;
+XXX. Empacadora: Establecimiento que procesa carne fresca o congelada para su comercialización en cortes o piezas debidamente empacadas;
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-XXXI.- Establecimiento: Instalación sujeta a la inspección del H. Ayuntamiento de Puebla, en la que se sacrifican y/o procesan animales de las especies bovina, equina, ovina, caprina, porcina, aves, lepóridos o cualquier otra especie destinadas al consumo humano, para el comercio en la República Mexicana o para su exportación;
+XXXI. Establecimiento: Instalación sujeta a la inspección del H. Ayuntamiento de Puebla, en la que se sacrifican y/o procesan animales de las especies bovina, equina, ovina, caprina, porcina, aves, lepóridos o cualquier otra especie destinadas al consumo humano, para el comercio en la República Mexicana o para su exportación;
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-XXXII.- Planta industrializadora: Establecimiento que procesa e industrializa las partes comestibles de los animales hasta transformarlas en productos alimenticios; y
+XXXII. Planta industrializadora: Establecimiento que procesa e industrializa las partes comestibles de los animales hasta transformarlas en productos alimenticios; y
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-XXXIII.- Vísceras: Órganos contenidos en las cavidades torácica, abdominal, pélvica, craneana y bucal.
+XXXIII. Vísceras: Órganos contenidos en las cavidades torácica, abdominal, pélvica, craneana y bucal.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -33341,7 +33345,7 @@ II. Los que celebre un representante o promotor con una empresa, respecto a una 
 
 III. Los de exclusividad, celebrados por un promotor o representante con una empresa para el efecto de que el boxeador actúe bajo su promoción por un tiempo determinado, de acuerdo con las cláusulas en el contrato respectivo, o entre éstos y el boxeador directamente en condiciones especiales.
 
-Todos los contratos o convenios en materia de Box o Lucha Libre celebrados dentro del Municipio, deberán ser presentados por triplicado para el respectivo registro ante la Comisión, para los efectos administrativos y legales que corresponda, estando obligadas las partes a ratficarlos ante la propia Comisión, en un plazo no mayor de 3 días a partir de aquél en se hayan presentado para su registro; no podrán contener cláusulas Leoninas.
+Todos los contratos o convenios en materia de Box o Lucha Libre celebrados dentro del Municipio, deberán ser presentados por triplicado para el respectivo registro ante la Comisión, para los efectos administrativos y legales que corresponda, estando obligadas las partes a ratificarlos ante la propia Comisión, en un plazo no mayor de 3 días a partir de aquél en se hayan presentado para su registro; no podrán contener cláusulas Leoninas.
 
 Una vez registrado y autorizado el contrato, se entregará un tanto al representante, otro al boxeador y el restante quedará depositado en el archivo de la Comisión.
 
