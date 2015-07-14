@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-del-r-ayuntamiento-del-252
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-06-21"
-last_updated: "2007-04-06"
+last_updated: "2015-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DEL R. AYUNTAMIENTO DEL MUNICIPIO DE TORREÓN, COAH.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL REPUBLICANO AYUNTAMIENTO DEL MUNICIPIO DE TORREÓN, PUBLICADO EN EL P.O. 14 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 21 de junio de 2002.
 
@@ -608,3 +610,13 @@ P.O. 6 DE ABRIL DE 2007.
 > <small>N. DE E. SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
 
 Tercero.- Las modificaciones al Reglamento Interior del R. Ayuntamiento de Torreón y al Reglamento Interior de la Secretaría del R. Ayuntamiento de Torreón, iniciarán su vigencia al día siguiente de su publicación.
+
+P.O. 14 DE JULIO DE 2015.
+
+Artículo Primero. El Presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal;
+
+Artículo Segundo. Se Abroga el Reglamento Interior de la Secretaría del R. Ayuntamiento del Municipio de Torreón, publicado en el Periódico Oficial del Gobierno del Estado de fecha veintiuno de junio de 2002, así como sus posteriores reformas;
+
+Artículo Tercero. Se derogan todas las disposiciones reglamentarias y administrativas que se opongan al Presente Reglamento; y
+
+Artículo Cuarto. Se instruye al Secretario del Republicano Ayuntamiento para que solicite la publicación del Reglamento en el Periódico Oficial del Gobierno del Estado de Coahuila.
