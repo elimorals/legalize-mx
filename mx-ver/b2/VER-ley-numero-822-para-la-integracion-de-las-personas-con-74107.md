@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-822-para-la-integracion-de-las-personas-con-74107"
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-11"
-last_updated: "2015-05-19"
+last_updated: "2015-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 822 PARA LA INTEGRACIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE JULIO DE 2015.
 
 Ley publicada en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 11 de marzo de 2010.
 
@@ -463,6 +463,10 @@ La Secretaría de Educación propiciará que la incorporación al ámbito educat
 
 El Gobierno del Estado y los Ayuntamientos, a través de sus dependencias y entidades relacionadas, establecerán programas de obras públicas y desarrollo urbano, tendientes a vigilar la aplicación de la Norma Oficial Mexicana que establece los requisitos arquitectónicos para facilitar el acceso, tránsito y permanencia de las personas con discapacidad en establecimientos e instituciones públicas, privadas y sociales, así como a lograr la accesibilidad en la vía pública, con base en las normas internacionales y nacionales, en cuanto a su diseño y señalización universal.
 
+> <small>(ADICIONADO, G.O. 14 DE JULIO DE 2015)</small>
+
+Las autoridades competentes se abstendrán de extender licencias de construcción de instalaciones de uso público, autorizar la realización de obras en las vías públicas otorgar permisos o concesiones para el aprovechamiento de dichas vías o cualesquiera otros bienes de uso común, destinados a un servicio público, si en los planos o proyectos que a su consideración se sometan no se contempla la infraestructura necesaria para facilitar la accesibilidad, el libre tránsito y la permanencia de las personas con discapacidad.
+
 ###### Artículo 29.
 
 Las autoridades estatales y municipales realizarán las acciones pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones que las demás, al entorno físico, el transporte, la información y las comunicaciones, incluidas las tecnologías de la información y las telecomunicaciones, y a otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales; para tal efecto, deberán:
@@ -850,5 +854,11 @@ Rúbrica.
 G.O. 19 DE MAYO DE 2015.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 14 DE JULIO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
