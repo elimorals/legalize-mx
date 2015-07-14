@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2014-04-15"
+last_updated: "2015-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2015.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -1031,73 +1031,43 @@ II.- Cuando no se haya otorgado la previa dispensa que requiere el artículo 141
 
 ### CAPITULO XII. DEL DIVORCIO
 
-ART. 248.- El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
 
-ART. 249.- Son causas de divorcio:
+ART. 248.- El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. Podrá solicitarse por uno o ambos cónyuges cuando cualquiera de ellos lo reclame ante la autoridad judicial manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar la causa por la cual se solicita, siempre que haya transcurrido cuando menos un año desde la celebración del mismo.
 
-I.- El adulterio;
+Solo se decretará cuando se cumplan los requisitos exigidos por el siguiente artículo.
 
-II.- El hecho de que la mujer dé a luz, durante el matrimonio, un hijo concebido antes de su celebración, y que judicialmente se declare que no es hijo del marido;
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
 
-III.- La perversión de alguno de los cónyuges demostrada por:
+ART. 249.- El cónyuge que unilateralmente desee promover el juicio de divorcio deberá acompañar a su solicitud la propuesta de convenio para regular las consecuencias inherentes a la disolución del vínculo matrimonial, debiendo contener los siguientes requisitos:
 
-a).- La propuesta de un cónyuge para prostituir a su consorte, sea que aquél lo haya hecho directamente, sea que haya recibido cualquiera remuneración con el objeto expreso de que el cónyuge a quien se pretende prostituir tenga relaciones carnales con otra persona;
+I.- La designación de la persona que tendrá la guarda y custodia de los hijos menores o incapaces;
 
-b).- La incitación a la violencia hecha por un cónyuge a otro para cometer algún delito;
+II.- Las modalidades bajo las cuales el progenitor, que no tenga la guarda y custodia, ejercerá el derecho de visitas, respetando los horarios de comidas, descanso y estudio de los hijos;
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+III.- El modo de atender las necesidades de los hijos y, en su caso, del cónyuge a quien deba darse alimentos, especificando la forma, lugar y fecha de pago de la obligación alimentaria, así como la garantía para asegurar su debido cumplimiento;
 
-c).- El connato o los hechos de cualquiera de los cónyuges para corromper a los hijos o hijas, ya sean éstos de ambos cónyuges, ya de uno solo, así como la tolerancia en su corrupción.
+IV.- Designación del cónyuge al que corresponderá el uso del domicilio conyugal, en su caso, y del menaje;
 
-IV.- Padecer cualquier enfermedad grave crónica o incurable, que sea, además, contagiosa o hereditaria;
+V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma de liquidarla, exhibiendo para ese efecto, en su caso, las capitulaciones matrimoniales, el inventario, avalúo y el proyecto de partición; y
 
-V.- La impotencia incurable, que sobrevenga después de celebrado el matrimonio, si no se debe a edad avanzada;
+VI.- En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes deberá señalarse la compensación, que no podrá ser superior al 50% del valor de los bienes que hubieren adquirido, a que tendrá derecho el cónyuge que, durante el matrimonio, se haya dedicado preponderantemente al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos. El Juez de lo Familiar resolverá atendiendo a las circunstancias especiales de cada caso.
 
-VI.- Padecer enajenación mental incurable, previa declaración de interdicción que se haga;
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
 
-VII.- La separación de la casa conyugal por más de seis meses consecutivos sin causa justificada;
+ART. 250.- Los jueces de lo familiar están obligados a suplir la deficiencia de las partes en el convenio propuesto.
 
-VIII.- La separación del hogar conyugal originada por una causa que sea bastante para pedir el divorcio, si se prolonga por más de un año sin que el cónyuge que se separó entable la demanda de divorcio;
+Las limitaciones formales de la prueba que rigen en la materia civil, no deben aplicarse en los casos de divorcio respecto del o los convenios propuestos.
 
-IX.- La ausencia legalmente declarada o la presunción de muerte;
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
 
-X.- La sevicia, las amenazas, la difamación o injurias graves, o los malos tratamientos de un cónyuge para el otro, siempre que éstos y aquéllos sean de tal naturaleza, que hagan imposible la vida en común;
+ART. 251.- En caso de que los cónyuges lleguen a un acuerdo respecto del convenio señalado en el artículo 249 y éste no contravenga ninguna disposición legal, el Juez lo aprobará de plano, decretando el divorcio mediante sentencia, la cual no podrá ser recurrida.
 
-XI.- La negativa injustificada de los cónyuges a cumplir las obligaciones señaladas en el artículo 144 y el incumplimiento de la sentencia ejecutoriada, sin justa causa, por alguno de los cónyuges en el caso del artículo 147;
+De no ser así, el juez decretará el divorcio mediante sentencia, dejando expedito el derecho de los cónyuges para que lo hagan valer en la vía incidental, exclusivamente por lo que concierne al convenio.
 
-XII.- La acusación calumniosa hecha por un cónyuge contra el otro, por delito que merezca pena corporal;
+El juez exhortará en la referida sentencia que, previo al inicio de la vía incidental, las partes acudan al procedimiento de mediación a que se refiere, la ley de Mediación para el Estado de Tamaulipas e intenten, a través de dicho procedimiento, llegar a un acuerdo respecto del convenio señalado.
 
-XIII.- Haber cometido uno de los cónyuges un delito que no sea político, pero que sea intencional, por el cual tenga que sufrir una pena de prisión mayor de dos años;
-
-XIV.- Los hábitos de juego o de embriaguez o el uso no terapéutico de enervantes, estupefacientes o psicotrópicos o de cualquier otra substancia que altere la conducta y produzca dependencia, cuando amenazan causar la ruina de la familia o constituyen un continuo motivo de desavenencia conyugal;
-
-XV.- El grave o reiterado maltrato físico o mental de un cónyuge hacia los hijos;
-
-XVI.- Cometer un cónyuge contra la persona o los bienes del otro, un hecho punible, siempre que tal hecho tenga señalada en la ley una pena de por lo menos un año de prisión;
-
-XVII.- La bigamia, que sólo puede ser invocada por el cónyuge inocente del primer matrimonio;
-
-XVIII.- La separación de los cónyuges por más de dos años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualquiera de ellos;
-
-XIX.- El mutuo consentimiento;
-
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2008)</small>
-
-XX.- Las conductas de violencia familiar cometidas por uno de los cónyuges contra el otro o hacia los hijos de ambos o de alguno de ellos. Para los efectos de este artículo se entiende por violencia familiar lo dispuesto por el artículo 298 ter de éste Código;
-
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2008)</small>
-
-XXI.- El incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales que se hayan ordenado, tendientes a corregir los actos de violencia familiar hacia el otro cónyuge o los hijos, por el cónyuge obligado a ello.
-
-> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
-
-XXII.- La simple voluntad de cualquiera de los cónyuges.
-
-ART. 250.- Cuando un cónyuge demande el divorcio o la nulidad del matrimonio y no justifique la causa o desista de la acción sin consentimiento del demandado, éste tendrá a su vez derecho para demandar el divorcio, una vez que transcurran tres meses a partir de la notificación de la última sentencia o del auto que recaiga al desistimiento. Durante estos tres meses los cónyuges no están obligados a vivir juntos.
-
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
-
-ART. 251.- El divorcio motivado por las causales del artículo 249, con excepción de las fracciones XIX y XXII, sólo puede demandarse por el cónyuge al que no se le imputan las acciones que motivan el divorcio y dentro de los seis meses siguientes a la fecha en que tuvo noticia de los hechos que fundan su demanda, si éstos son instantáneos. Pero si se trata de una situación continua, la acción puede ejercerse mientras aquélla perdure, o dentro de los seis meses siguientes a la fecha en que deje de subsistir dicha situación.
+En caso de que las partes, una vez recibida la pre-mediación, no hubieren aceptado el procedimiento, o habiéndolo iniciado no fuera posible llegar a un acuerdo, podrán hacer valer sus derechos por la vía incidental. En el caso de que las partes logren la construcción de un acuerdo por medio del procedimiento de mediación, lo harán del conocimiento del juez.
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1155,11 +1125,15 @@ ART. 255.- Sólo cuando haya transcurrido por lo menos un año de la celebració
 
 ART. 256.- Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento podrán reunirse de común acuerdo en cualquier tiempo con tal de que el divorcio no hubiere sido decretado. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año desde su reconciliación.
 
-ART. 257.- El cónyuge que no quiere pedir el divorcio fundado en las causas enumeradas en las fracciones IV, V y VI del artículo 249, podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el juez, con conocimiento de causa, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
+
+ART. 257.- El cónyuge que no quiere pedir el divorcio, podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el Juez, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
 
 ART. 258.- La reconciliación de los cónyuges pone término al juicio de divorcio en cualquier estado en que se encuentre, si aún no hubiere sentencia ejecutoria. En este caso los interesados deberán denunciar su reconciliación al juez.
 
-ART. 259.- Al admitirse la demanda de divorcio, o antes, si hubiere urgencia, se dictarán provisionalmente y sólo mientras dure el juicio, las disposiciones siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2015)</small>
+
+ART. 259.- Desde que se presenta la demanda, la controversia del orden familiar o la solicitud de divorcio o antes, si hubiere urgencia, y solo mientras dure el juicio, se dictarán las medidas provisionales pertinentes; asimismo en los casos de divorcio en que no se llegue a concluir mediante convenio, las medidas subsistirán hasta en tanto se dicte sentencia interlocutoria en el incidente que resuelva la situación jurídica de hijos o bienes, según corresponda y de acuerdo a las disposiciones siguientes:
 
 I.- Separar a los cónyuges en todo caso. Para este efecto, el Juez prevendrá al marido que se separe de la casa conyugal y ordenará se le entregue su ropa y los bienes que sean necesarios para el ejercicio de la profesión, arte u oficio a que está dedicado. Deberá el marido informar al juez el lugar de su residencia. Si sobre esto se suscitare controversia el juez decidirá en la vía incidental;
 
@@ -1171,7 +1145,9 @@ IV.- Fijar las reglas para el cuidado de los hijos oyendo el parecer de los cón
 
 V.- Dictar las providencias que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes ni en los de la sociedad conyugal, en su caso;
 
-VI.- Dictar, en su caso, las providencias precautorias que ameriten el estado de embarazo de la mujer;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2015)</small>
+
+VI.- Dictar, en su caso, las providencias precautorias que ameriten el estado de embarazo de la mujer; y
 
 > <small>(REFORMADA, P.O. 24 DE JUNIO DE 2008)</small>
 
@@ -1193,9 +1169,7 @@ Dentro de la convivencia, de manera recíproca deberá evitarse todo acto de man
 
 ART. 261.- El padre y la madre, aunque pierdan la patria potestad quedan sujetos a todas las obligaciones que tienen para con sus hijos.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
-
-ART. 262.- El cónyuge al que se le imputen las causales a que hace referencia el artículo 249, perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
+ART. 262.- (DEROGADO, P.O. 14 DE JULIO DE 2015)
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1987)</small>
 
@@ -1203,11 +1177,29 @@ ART. 263.- Ejecutoriada una sentencia de divorcio, el Juez remitirá copia de el
 
 Habiendo causado ejecutoria el divorcio, se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades de los hijos, a la subsistencia y a la educación de éstos.
 
-ART. 264.- En los casos de divorcio necesario, el Juez, tomando en cuenta las circunstancias del caso y entre ellas la capacidad para trabajar de los cónyuges y su situación económica, podrá sentenciar al culpable al pago de alimentos en favor del inocente. Este derecho lo disfrutará en tanto viva honestamente y no contraiga nupcias. Además, cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
 
-ART. 265.- Cuando el divorcio sea decretado por las causales establecidas en las fracciones IV y VI del artículo 249, el cónyuge enfermo tendrá derecho a alimentos a cargo del sano, si carece de bienes y está imposibilitado para trabajar.
+ART. 264.- En caso de divorcio, el Juez resolverá sobre el pago de alimentos a favor del cónyuge que, teniendo la necesidad de recibirlos, durante el matrimonio se haya dedicado preponderantemente a las labores del hogar, al cuidado de los hijos, esté imposibilitado para trabajar o carezca de bienes; tomando en cuenta las siguientes circunstancias:
 
-ART. 266.- El cónyuge culpable sólo podrá volver a casarse hasta que hayan transcurrido más de dos años, a contar desde que se decrete el divorcio. Los cónyuges que se divorcian voluntariamente sólo podrán contraer nuevo matrimonio hasta que haya transcurrido, al menos, un año a partir de la fecha en que se decrete el divorcio.
+I.- La edad y el estado de salud de los cónyuges;
+
+II.- Su calificación profesional y posibilidad de acceso a un empleo;
+
+III.- Duración del matrimonio y dedicación pasada y futura a la familia;
+
+IV.- Colaboración con su trabajo en las actividades del cónyuge;
+
+V.- Medios económicos de uno y otro cónyuge, así como de sus necesidades; y
+
+VI.- Las demás obligaciones que tenga el cónyuge deudor.
+
+En la resolución se fijarán las bases para actualizar la pensión y las garantías para su efectividad. El derecho a los alimentos se extingue cuando el acreedor contraiga nuevas nupcias o se una en concubinato o haya transcurrido un término igual a la duración del matrimonio.
+
+ART. 265.- (DEROGADO, P.O. 14 DE JULIO DE 2015)
+
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
+
+ART. 266.- En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer matrimonio.
 
 ART. 267.- La muerte de uno de los cónyuges pone fin al juicio de divorcio y los herederos del fallecido tienen los mismos derechos y obligaciones que tendrían si no hubiere existido dicho juicio.
 
@@ -10198,3 +10190,13 @@ P.O. 15 DE ABRIL DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Por lo que hace a los juicios de divorcio en trámite, será potestativo para cualquiera de las partes acogerse a las reformas establecidas en el presente decreto o, en su caso, seguirán rigiéndose con las disposiciones vigentes anteriores a la publicación del presente decreto hasta en tanto hayan concluido en su totalidad.
