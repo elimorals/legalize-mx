@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2015-06-25"
+last_updated: "2015-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE JULIO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -2315,7 +2315,9 @@ Comete este delito el que:
 
 I. Sin ser funcionario público se atribuya ese carácter o ejerza alguna función pública sin derecho; y
 
-II. Se atribuya o acepte por cualquier medio el carácter de profesionista sin tener título legal o ejerza los actos propios de una profesión sin título o sin autorización legal.
+> <small>(REFORMADA, G.G. 14 DE JULIO DE 2015)</small>
+
+II. Se atribuya o acepte por cualquier medio el carácter de profesionista o grado académico sin tener título legal o ejerza los actos propios de una profesión sin título o sin autorización legal;
 
 > <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2004)</small>
 
@@ -3651,7 +3653,7 @@ VII. Actúe como asesor o intermediario de quienes representen o gestionen en fa
 
 ### CAPITULO II. ABUSO SEXUAL
 
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 14 DE JULIO DE 2015)</small>
 
 ###### Artículo 262.
 
@@ -3821,9 +3823,11 @@ En estos casos se impondrán penas de un año a cuatro años de prisión y de ci
 
 ###### Artículo 270.
 
-Comete el delito de abuso sexual quien ejecute en una persona menor de edad o que no tenga la capacidad de comprender las cosas o de resistir al hecho, un acto erótico o sexual sin la intensión de llegar a la cópula o quien lo realice en su presencia o haga ejecutarlo para sí o en otra persona.
+Comete el delito de abuso sexual:
 
-A quien cometa este delito, se le impondrá pena de ocho a quince años de prisión.
+I. Quien ejecute en una persona un acto erótico o sexual sin su consentimiento y sin el propósito de llegar a la cópula o a quien lo realice en su presencia o haga ejecutarlo para sí o en otra persona. A quien cometa este delito, se le impondrá pena de dos a cuatro años de prisión y de doscientos a cuatrocientos días de multa de salario mínimo.
+
+II. Quien ejecute en una persona menor de edad o que no tenga la capacidad de comprender las cosas o de resistir al hecho, un acto erótico o sexual sin el propósito de llegar a la cópula o a quien lo realice en su presencia o haga ejecutarlo para sí o en otra persona. A quien cometa este delito, se le impondrá pena de ocho a quince años de prisión y de quinientos a mil días de multa de salario mínimo.
 
 ### CAPITULO VI. DAÑO EN LOS BIENES
 
@@ -5540,3 +5544,23 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 14 DE JULIO DE 2015.
+
+DECRETO NÚMERO 479, POR EL QUE SE REFORMA EL ARTÍCULO 270 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 14 DE JULIO DE 2015.
+
+DECRETO NÚMERO 480, POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 176 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
