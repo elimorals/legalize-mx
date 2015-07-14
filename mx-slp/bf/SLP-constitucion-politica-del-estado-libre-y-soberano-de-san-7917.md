@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2015-07-11"
+last_updated: "2015-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2015.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -1289,11 +1289,9 @@ IV.- Concurrir a la apertura y clausura de los períodos ordinarios y extraordin
 
 V.- Presentar ante el Congreso del Estado, durante la segunda quincena de septiembre de cada año, un informe por escrito en el que manifieste el estado que guarda la administración pública y comparecer posteriormente, cuando así lo acuerde con el Poder Legislativo, a fin de responder a las observaciones que los Diputados le presenten sobre el particular;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2006)</small>
-
-VI.- Rendir al Congreso del Estado, en forma trimestral y por escrito, a más tardar el día quince del mes siguiente al periodo de que se trate, un estado de información financiera que refleje la situación que guarda la hacienda pública del Estado y, en forma anual, su cuenta pública, la que presentará a más tardar el último día de febrero del año siguiente al que corresponda su ejercicio;
+VI.- Rendir ante el Congreso del Estado, en forma trimestral y por escrito, a más tardar el día quince del mes siguiente al periodo de que se trate, un estado de información financiera que refleje la situación que guarda la hacienda pública del Estado y, en forma anual, su cuenta pública, la que presentará a más tardar el último día de febrero del año siguiente al que corresponda su ejercicio. Asimismo, deberá rendir en forma trimestral y por escrito, informe y documentación de respaldo sobre el avance programático y presupuestal por cada una de las secretarías y dependencias de la administración pública estatal, a más tardar dentro de los diez días hábiles siguientes al periodo que concluya;
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2010)</small>
 
@@ -3054,6 +3052,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 11 DE JULIO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE JULIO DE 2015.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
