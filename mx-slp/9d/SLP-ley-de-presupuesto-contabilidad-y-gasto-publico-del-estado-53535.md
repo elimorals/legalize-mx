@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-5353
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-21"
-last_updated: "2011-07-23"
+last_updated: "2015-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE SAN LUIS POTOSI
+LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2015.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el jueves 21 de diciembre de 2006.
 
@@ -569,11 +569,15 @@ Los resultados a los que se refiere el párrafo anterior serán considerados por
 
 A la Contraloría General del Estado y a la Contaduría Mayor de Hacienda o su equivalente, corresponden las acciones de fiscalización del gasto. Los órganos internos de control de los poderes Legislativo, y Judicial, y de los organismos autónomos, establecerán de igual forma sus sistemas de evaluación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2015)</small>
+
 ###### ARTICULO 66.
 
-Las dependencias están obligadas a presentar bimestralmente a la Secretaría, a más tardar dentro de los diez días hábiles siguientes del bimestre que concluya, información sobre el avance de metas y programas, que incluya su pasivo circulante, deuda pública, en su caso, así como el reporte de ingresos y egresos de recursos financieros.
+Las dependencias están obligadas a presentar trimestralmente a la Secretaría y al Congreso del Estado de San Luis Potosí, a más tardar dentro de los diez días hábiles siguientes del trimestre que concluya, información sobre el avance de metas y programas, que incluya su pasivo circulante, deuda pública, en su caso, así como el reporte de ingresos y egresos de recursos financieros.
 
-Las entidades están obligadas a presentar mensualmente la información que se refiere en el párrafo anterior, a más tardar en los primeros quince días siguientes del mes que concluya.
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
+
+Las entidades están obligadas a presentar, en la misma forma y plazo, la información referida en el párrafo anterior.
 
 Las instituciones que reciban subsidios con cargo al Presupuesto, presentarán bimestralmente a la Secretaría informe detallado de su aplicación.
 
@@ -617,7 +621,7 @@ En el Poder Legislativo las funciones de evaluación y control serán llevadas a
 
 Las responsabilidades que afecten a la Hacienda Pública Estatal, derivadas del incumplimiento de las disposiciones contenidas en el presente Ordenamiento y demás normas que se expidan con base en éste, serán determinadas y sancionadas en el ámbito de sus respectivas competencias, por la Contraloría General del Estado, el Congreso del Estado, la Contaduría Mayor de Hacienda o su equivalente, y los órganos de control interno respectivos, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, y demás leyes aplicables.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE AGOSTO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE AGOSTO DE 2007)</small>
 
 ### CAPITULO IX. Del Registro Público de Contratos de Prestación de Servicios y Arrendamientos a Largo Plazo
 
@@ -675,7 +679,7 @@ Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 16 DE AGOSTO DE 2007.
 
@@ -694,6 +698,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 23 DE JULIO DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE JULIO DE 2015.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
