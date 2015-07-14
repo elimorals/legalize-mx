@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2015-06-08"
+last_updated: "2015-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MEX"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE SEPTIEMBRE DE 2015 EN LA GACETA DEL GOBIERNO DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE JULIO DE 2015.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -1209,11 +1207,11 @@ La Legislatura aprobará proyectos para la prestación de servicios conforme a l
 
 > <small>(ADICIONADO, G.G. 30 DE JULIO DE 2010)</small>
 
-Los poderes Legislativo, Ejecutivo y Judicial, así como los Organismos Autónomos, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estos presupuestos deberán observar el mismo procedimiento para la aprobación del presupuesto del Estado;
+Los poderes Legislativo, Ejecutivo y Judicial, así como los Organismos Autónomos, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estos presupuestos deberán observar el mismo procedimiento para la aprobación del presupuesto del Estado.
 
 > <small>(REFORMADA, G.G. 26 DE AGOSTO DE 2004)</small>
 
-XXXI. Expedir anualmente, a más tardar el 15 de diciembre, o hasta el 31 del mismo mes, cuando inicie el periodo constitucional el Ejecutivo Federal, la Ley de Ingresos de los Municipios, cuya iniciativa será turnada por el Ejecutivo del Estado.
+XXXI. Expedir anualmente, a más tardar el 15 de diciembre, o hasta el 31 del mismo mes, cuando inicie el periodo constitucional el Ejecutivo Federal, la Ley de Ingresos de los Municipios, cuya iniciativa será turnada por el Ejecutivo del Estado;
 
 > <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2010)</small>
 
@@ -2434,6 +2432,10 @@ En demandas del orden civil no hay fuero ni inmunidad para ningún servidor púb
 ###### Artículo 137.
 
 Las autoridades del Estado y de los municipios, en la esfera de su competencia, acatarán sin reservas los mandatos de la Constitución Política de los Estados Unidos Mexicanos y cumplirán con las disposiciones de las leyes federales y de los tratados internacionales.
+
+> <small>(ADICIONADO, G.G. 14 DE JULIO DE 2015)</small>
+
+De conformidad con lo dispuesto en la legislación federal aplicable, los titulares de los poderes Ejecutivo, Legislativo y Judicial, de cualquier dependencia u organismo descentralizado de la Administración Pública Estatal y los presidentes municipales, podrán convenir acuerdos interinstitucionales con uno o varios órganos gubernamentales extranjeros u organizaciones internacionales.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -4024,3 +4026,9 @@ PRIMERO.- Publíquese el presente decreto en el Periódico Oficial “Gaceta del
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de menor jerarquía que se opongan al presente decreto.
+
+G.G. 14 DE JULIO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
