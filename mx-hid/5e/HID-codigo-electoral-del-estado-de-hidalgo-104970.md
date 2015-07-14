@@ -4,7 +4,7 @@ identifier: "HID-codigo-electoral-del-estado-de-hidalgo-104970"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-22"
-last_updated: "2014-12-22"
+last_updated: "2015-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2015.
 
 Código publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -433,85 +433,69 @@ VII. Quienes estén suspendidos de sus derechos político - electorales.
 
 Los partidos políticos tendrán derecho al financiamiento público y privado para sus actividades ordinarias permanentes y para gastos de campaña de acuerdo a lo que establezca éste Código.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2015)</small>
+
 ###### Artículo 30.
 
-El financiamiento público que reciben los partidos políticos del Instituto Estatal Electoral, se divide en:
+Los partidos políticos tendrán derecho al financiamiento público de sus actividades, estructura, sueldos y salarios, independientemente de las demás prerrogativas otorgadas en este Código, conforme a las disposiciones siguientes:
 
-(NOTA: EL 15 DE JUNIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE JUNIO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+I. Para el sostenimiento de actividades ordinarias permanentes:
 
-I. FINANCIAMIENTO POR ACTIVIDADES ORDINARIAS PERMANENTES:
+a. El Consejo General del Instituto Estatal Electoral, determinará anualmente el monto total por distribuir entre los partidos políticos conforme a lo siguiente: multiplicará el número total de ciudadanos inscritos en el padrón electoral del Estado de Hidalgo, a la fecha de corte de julio de cada año, por el veinticinco por ciento del salario mínimo diario vigente para la región;
 
-A. LOS PARTIDOS QUE HUBIEREN OBTENIDO MÁS DEL 2% HASTA EL 3.5% DE LA VOTACIÓN EN LA ÚLTIMA ELECCIÓN ORDINARIA DE DIPUTADOS LOCALES, PERCIBIRÁN UNA CANTIDAD IGUAL A LA SUMA DE TRES MIL SALARIOS MÍNIMOS GENERALES VIGENTES EN EL ESTADO;
+b. El resultado de la operación señalada en el inciso anterior constituye el financiamiento público anual a los partidos políticos por sus actividades ordinarias permanentes, el 30% se distribuirá entre los partidos políticos en forma igualitaria y el 70% restante se distribuirá entre los mismos de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados locales inmediata anterior;
 
-B. LOS PARTIDOS QUE HUBIEREN OBTENIDO MÁS DEL 3.5% HASTA EL 5% DE LA VOTACIÓN EN LA ÚLTIMA ELECCIÓN ORDINARIA DE DIPUTADOS LOCALES, PERCIBIRÁN UNA CANTIDAD IGUAL A LA SUMA DE TRES MIL TRESCIENTOS SALARIOS MÍNIMOS GENERALES VIGENTES EN EL ESTADO;
+c. Las cantidades que, en su caso, se determinen para cada partido, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente;
 
-C. LOS PARTIDOS QUE HUBIEREN OBTENIDO MÁS DEL 5% HASTA EL 7.5% DE LA VOTACIÓN EN LA ÚLTIMA ELECCIÓN ORDINARIA DE DIPUTADOS LOCALES, PERCIBIRÁN UNA CANTIDAD IGUAL A LA SUMA DE TRES MIL OCHOCIENTOS CUARENTA Y UN SALARIOS MÍNIMOS GENERALES VIGENTES EN EL ESTADO;
+d. Para el desarrollo de las actividades específicas, a que se refiere la fracción IV de este artículo, cada partido político adicionalmente deberá destinar anualmente por lo menos el dos por ciento del financiamiento público ordinario que reciba; y
 
-D. LOS PARTIDOS QUE HUBIEREN OBTENIDO MÁS DEL 7.5% HASTA EL 10% DE LA VOTACIÓN EN LA ÚLTIMA ELECCIÓN ORDINARIA DE DIPUTADOS LOCALES, PERCIBIRÁN UNA CANTIDAD IGUAL A LA SUMA DE CUATRO MIL TRESCIENTOS OCHENTA Y DOS SALARIOS MÍNIMOS GENERALES VIGENTES EN EL ESTADO;
+e. Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar anualmente al menos, el cinco por ciento del financiamiento público ordinario.
 
-E. LOS PARTIDOS QUE HUBIEREN OBTENIDO MÁS DEL 10% HASTA EL 12.5% DE LA VOTACIÓN EN LA ÚLTIMA ELECCIÓN ORDINARIA DE DIPUTADOS LOCALES, PERCIBIRÁN UNA CANTIDAD IGUAL A LA SUMA DE CUATRO MIL NOVECIENTOS VEINTITRÉS SALARIOS MÍNIMOS GENERALES VIGENTES EN EL ESTADO;
+II. Para gastos de campaña.
 
-F. LOS PARTIDOS QUE HUBIEREN OBTENIDO MÁS DEL 12.5% HASTA EL 15% DE LA VOTACIÓN EN LA ÚLTIMA ELECCIÓN ORDINARIA DE DIPUTADOS LOCALES, PERCIBIRÁN UNA CANTIDAD IGUAL A LA SUMA DE CINCO MIL CUATROCIENTOS SESENTA Y CUATRO SALARIOS MÍNIMOS GENERALES VIGENTES EN EL ESTADO;
+Para cada una de las elecciones locales se otorgará a cada Partido Político:
 
-G. LOS PARTIDOS QUE HUBIEREN OBTENIDO MÁS DEL 15% HASTA EL 17.5% DE LA VOTACIÓN EN LA ÚLTIMA ELECCIÓN ORDINARIA DE DIPUTADOS LOCALES, PERCIBIRÁN UNA CANTIDAD IGUAL A LA SUMA DE SEIS MIL CINCO SALARIOS MÍNIMOS GENERALES VIGENTES EN EL ESTADO;
+a. Para la elección del Gobernador del Estado, a cada partido político nacional o local, en su caso, se le otorgará para gastos de campaña un monto equivalente a multiplicar el factor 1.20 por el monto del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año;
 
-H. LOS PARTIDOS QUE HUBIEREN OBTENIDO MÁS DEL 17.5% HASTA EL 20% DE LA VOTACIÓN EN LA ÚLTIMA ELECCIÓN ORDINARIA DE DIPUTADOS LOCALES, PERCIBIRÁN UNA CANTIDAD IGUAL A LA SUMA DE SEIS MIL QUINIENTOS CUARENTA Y SEIS SALARIOS MÍNIMOS GENERALES VIGENTES EN EL ESTADO;
+b. Para la elección de Diputados del Congreso del Estado, a cada partido político nacional o local, en su caso, se le otorgará para gastos de campaña un monto equivalente a multiplicar el factor 0.90 por el monto del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año; y
 
-I. LOS PARTIDOS QUE HUBIEREN OBTENIDO MÁS DEL 20% HASTA EL 22.5% DE LA VOTACIÓN EN LA ÚLTIMA ELECCIÓN ORDINARIA DE DIPUTADOS LOCALES, PERCIBIRÁN UNA CANTIDAD IGUAL A LA SUMA DE SIETE MIL OCHENTA Y SIETE SALARIOS MÍNIMOS GENERALES VIGENTES EN EL ESTADO;
+c. Para la elección de los integrantes de los Ayuntamientos, a cada partido político nacional o local, en su caso, se le otorgará para gastos de campaña un monto equivalente a multiplicar el factor 0.90 por el monto del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año.
 
-J. LOS PARTIDOS QUE HUBIEREN OBTENIDO MÁS DEL 22.5% HASTA EL 25% DE LA VOTACIÓN EN LA ÚLTIMA ELECCIÓN ORDINARIA DE DIPUTADOS LOCALES, PERCIBIRÁN UNA CANTIDAD IGUAL A LA SUMA DE SIETE MIL SEISCIENTOS VEINTIOCHO SALARIOS MÍNIMOS GENERALES VIGENTES EN EL ESTADO;
+El financiamiento de campaña para cada elección se otorgará independientemente que concurran dos o más elecciones locales en el mismo año.
 
-K. LOS PARTIDOS QUE HUBIEREN OBTENIDO MÁS DEL 25% HASTA EL 27.5% DE LA VOTACIÓN EN LA ÚLTIMA ELECCIÓN ORDINARIA DE DIPUTADOS LOCALES, PERCIBIRÁN UNA CANTIDAD IGUAL A LA SUMA DE OCHO MIL CIENTO SESENTA Y NUEVE SALARIOS MÍNIMOS GENERALES VIGENTES EN EL ESTADO;
+El financiamiento de campaña será administrado en su totalidad por los partidos políticos; estableciendo el prorrateo conforme lo previsto en este Código; teniendo que informarlas (sic) a la Unidad de Fiscalización del Instituto Nacional Electoral diez días antes del inicio de la campaña electoral, la cual lo hará del conocimiento de su Consejo General en la siguiente sesión, sin que dichos porcentajes de prorrateo puedan ser modificados.
 
-L. LOS PARTIDOS QUE HUBIEREN OBTENIDO MÁS DEL 27.5% HASTA EL 30% DE LA VOTACIÓN EN LA ÚLTIMA ELECCIÓN ORDINARIA DE DIPUTADOS LOCALES, PERCIBIRÁN UNA CANTIDAD IGUAL A LA SUMA DE OCHO MIL SETECIENTOS DIEZ SALARIOS MÍNIMOS GENERALES VIGENTES EN EL ESTADO;
+III. Bonificación por actividad electoral.
 
-M. LOS PARTIDOS QUE HUBIEREN OBTENIDO MÁS DEL 30% HASTA EL 35% DE LA VOTACIÓN EN LA ÚLTIMA ELECCIÓN ORDINARIA DE DIPUTADOS LOCALES, PERCIBIRÁN UNA CANTIDAD IGUAL A LA SUMA DE NUEVE MIL DOSCIENTOS CINCUENTA SALARIOS MÍNIMOS GENERALES VIGENTES EN EL ESTADO;
+Los partidos políticos tendrán derecho a recibir una bonificación por actividad electoral, con base al número de representantes de partido debidamente acreditados ante las casillas electorales de acuerdo al siguiente procedimiento:
 
-N. LOS PARTIDOS QUE HUBIEREN OBTENIDO MÁS DEL 35% DE LA VOTACIÓN EN LA ÚLTIMA ELECCIÓN ORDINARIA DE DIPUTADOS LOCALES, PERCIBIRÁN UNA CANTIDAD IGUAL A LA SUMA DE NUEVE MIL SETECIENTOS CINCUENTA SALARIOS MÍNIMOS GENERALES VIGENTES EN EL ESTADO;
+a. La representación para efectos de esta bonificación será de un representante por partido político en cada casilla electoral;
 
-Ñ. LOS PARTIDOS POLÍTICOS CON REGISTRO NACIONAL QUE OBTENGAN A NIVEL ESTATAL DEL 1% HASTA EL 2% DE LA VOTACIÓN EN LA ÚLTIMA ELECCIÓN ORDINARIA DE DIPUTADOS Y QUE HUBIESEN PARTICIPADO CON FÓRMULAS DE CANDIDATOS, EN CUANDO MENOS DOCE DISTRITOS ELECTORALES, SE LES OTORGARÁN MIL CIENTO CINCUENTA SALARIOS MÍNIMOS GENERALES VIGENTES EN EL ESTADO;
+b. El monto por casilla será de diez veces el salario mínimo general vigente en el Estado;
 
-O. LOS PARTIDOS POLÍTICOS QUE OBTENGAN MENOS DEL 1% DE LA VOTACIÓN EN LA ÚLTIMA ELECCIÓN ORDINARIA DE DIPUTADOS, NO TENDRÁN DERECHO A RECIBIR ESTE FINANCIAMIENTO;
+c. Esta bonificación se entregará cinco días después de que los partidos efectúen el registro de los nombramientos de sus representantes ante las mesas directivas de casilla de conformidad con el artículo 137 de este Código; y
 
-P. LOS PARTIDOS POLÍTICOS QUE NO TENGAN ANTECEDENTE ELECTORAL EN LA ELECCIÓN DE DIPUTADOS, SE LES OTORGARÁN SEISCIENTOS CINCUENTA SALARIOS MÍNIMOS VIGENTES EN EL ESTADO; Y
+d. La Dirección Ejecutiva de Prerrogativas y Partidos Políticos de la Junta Estatal Ejecutiva del Instituto Estatal Electoral verificará la participación de los partidos políticos a través del acta de la jornada electoral, la cual deberá estar firmada, cuando menos, por un representante debidamente acreditado ante la casilla electoral correspondiente.
 
-Q. EL FINANCIAMIENTO SERÁ ENTREGADO EN EXHIBICIONES MENSUALES A LOS TITULARES DE LOS ÓRGANOS INTERNOS RESPONSABLES DE LA PERCEPCIÓN Y ADMINISTRACIÓN DE LOS RECURSOS, DEBIDAMENTE ACREDITADOS ANTE EL CONSEJO GENERAL DEL INSTITUTO ESTATAL ELECTORAL, DE ACUERDO A SUS NORMAS ESTATUTARIAS.
+En el cómputo de la elección correspondiente, se verificará la asistencia de los representantes de los Partidos ante las mesas directivas de casilla en el acta de la jornada electoral, en caso de haber diferencia entre el registro de representantes y la verificación de su asistencia, la cantidad que resulte será descontada de las prerrogativas por actividades ordinarias permanentes.
 
-AUNADO A LO ANTERIOR, LOS PARTIDOS POLÍTICOS RECIBIRÁN POR CONCEPTO DE ACTIVIDADES DE EDUCACIÓN Y CAPACITACIÓN POLÍTICA, INVESTIGACIÓN SOCIOECONÓMICA Y POLÍTICA, ASÍ COMO LAS TAREAS EDITORIALES, FINANCIAMIENTO PÚBLICO POR UN MONTO TOTAL ANUAL EQUIVALENTE AL DOS POR CIENTO DEL QUE CORRESPONDA EN EL MISMO AÑO PARA LAS ACTIVIDADES GENERALES A QUE SE REFIERE ESTA FRACCIÓN, EL MONTO TOTAL SERÁ DISTRIBUIDO Y REGULADO CON BASE EN LOS LINEAMIENTOS QUE EMITA EL INSTITUTO ESTATAL ELECTORAL.
+IV. Por actividades específicas como entidades de interés público:
 
-SE DESTINARÁ ANUALMENTE POR LO MENOS EL CINCO POR CIENTO DEL FINANCIAMIENTO PÚBLICO A LA CAPACITACIÓN, PROMOCIÓN Y DESARROLLO POLÍTICO DE LAS MUJERES.
+a. La educación y capacitación política, investigación socioeconómica y política, así como las tareas editoriales de los partidos políticos, serán apoyadas mediante financiamiento público por un monto total anual equivalente al tres por ciento del que corresponda en el mismo año para las actividades ordinarias; el monto total será distribuido en los términos establecidos en este artículo;
 
-(NOTA: EL 15 DE JUNIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL16 DE JUNIO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+b. El Consejo General del Instituto Nacional Electoral, a través de la Unidad Técnica, vigilará que éstos destinen el financiamiento a que se refiere el presente inciso exclusivamente a las actividades señaladas en la fracción inmediata anterior; y
 
-II. FINANCIAMIENTO PARA GASTOS DE CAMPAÑA:
+c. Las cantidades que en su caso se determinen para cada partido, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente.
 
-A. EN AÑOS DE ELECCIONES LOCALES Y CON BASE EN EL PRESUPUESTO AUTORIZADO PARA TAL FIN, SE DARÁN APOYOS ADICIONALES A LOS PARTIDOS POLÍTICOS;
+V. Los partidos políticos nacionales o locales que hubieren obtenido su registro con fecha posterior a la última elección local, o aquéllos partidos políticos locales que habiendo conservado su registro legal no cuenten con representación en el Congreso del Estado, tendrán derecho a que se les otorgue financiamiento público conforme a las bases siguientes:
 
-B. EL MONTO SE DETERMINARÁ CON BASE EN LA PRERROGATIVA QUE POR ACTIVIDADES ORDINARIAS PERMANENTES RECIBA CADA PARTIDO POLÍTICO, MISMO QUE NO PODRÁ EXCEDER DE 3 VECES LA CANTIDAD MENSUAL QUE POR ESTE CONCEPTO RECIBA DURANTE SEIS MESES;
+a) Se le otorgará a cada partido político el dos por ciento del monto que por financiamiento ordinario total les corresponda a los partidos políticos para el sostenimiento de sus actividades ordinarias permanentes a que se refiere este artículo;
 
-C. DICHA PRERROGATIVA SE OTORGARÁ MENSUALMENTE A PARTIR DE LA INSTALACIÓN FORMAL DEL CONSEJO GENERAL DEL INSTITUTO ESTATAL ELECTORAL Y HASTA EL TÉRMINO DE LOS CÓMPUTOS RESPECTIVOS;
+b) Para cada elección local recibirán financiamiento para gastos de campaña con base en lo dispuesto en la fracción II del presente artículo; y
 
-D. PARA HACER USO DE ESTA PRERROGATIVA, LOS PARTIDOS POLÍTICOS DEBERÁN EXHIBIR ANTES DE LA INSTALACIÓN DEL CONSEJO GENERAL DEL INSTITUTO ESTATAL ELECTORAL, LA CONSTANCIA CERTIFICADA POR LA AUTORIDAD COMPETENTE DE LA VIGENCIA DE SU REGISTRO; Y
+c) Participarán del financiamiento público para actividades específicas como entidades de interés público sólo en la parte que se distribuya en forma igualitaria.
 
-E. EN EL SUPUESTO DE QUE ALGÚN PARTIDO POLÍTICO CON REGISTRO VIGENTE NO CUENTE CON ANTECEDENTES DE PARTICIPACIÓN, TENDRÁ ACCESO A LA PRERROGATIVA POR ACTIVIDAD ELECTORAL EN UN MONTO QUE NO PODRÁ EXCEDER DE SEISCIENTOS CINCUENTA SALARIOS MÍNIMOS VIGENTES EN EL ESTADO.
-
-III. Bonificación por actividad electoral:
-
-Los partidos políticos tendrán derecho a recibir una bonificación por actividad electoral, en base al número de Representantes de partido debidamente acreditados ante las casillas electorales de acuerdo al siguiente procedimiento:
-
-a. La representación para efectos de esta bonificación será de un Representante por partido político en cada casilla electoral;
-
-b. La Coordinación de Prerrogativas de la Junta Estatal Ejecutiva del Instituto Estatal Electoral verificará la participación de los partidos políticos a través del acta de la jornada electoral, la cual deberá estar firmada, cuando menos, por un Representante debidamente acreditado ante la casilla electoral correspondiente;
-
-c. El monto por casilla será de diez veces el salario mínimo general vigente en el Estado; y
-
-d. Esta bonificación se entregará en dos partes:
-
-La primera entrega, se realizará una vez efectuado el registro de los Representantes generales ante las mesas directivas de casilla, a más tardar diez días antes de la fecha de la elección de la que se trate, la cual será equivalente al cincuenta por ciento de la cantidad total de Representantes registrados.
-
-La segunda entrega, se realizará quince días después de haberse efectuado el cómputo de la elección correspondiente, conforme al registro total de Representantes dado en tiempo y verificada su asistencia en el acta de la jornada electoral.
-
-En caso de haber diferencia entre el registro de Representantes y la verificación de su asistencia, la cantidad que resulte será descontada de las prerrogativas por actividad general.
+Las cantidades a que se refiere (sic) los incisos a) y b) serán entregadas en la parte proporcional que corresponda a la anualidad, a partir de la fecha en que surta efectos el registro y tomando en cuenta el calendario presupuestal aprobado para el año.
 
 ### CAPÍTULO II. DEL FINANCIAMIENTO PRIVADO
 
@@ -5088,3 +5072,9 @@ PRESIDENTE DIP. ISMAEL GADOTH TAPIA BENÍTEZ.- RÚBRICA; SECRETARIA DIP. MA. EUG
 EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
 
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS DIECIOCHO DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL CATORCE. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ.- RÚBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE JULIO DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
