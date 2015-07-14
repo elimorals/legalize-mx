@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2015-07-13"
+last_updated: "2015-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE JULIO DE 2015.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -969,141 +969,79 @@ II. Las que les encomiende la Junta de Coordinación Política o su Presidente.
 
 La Legislatura para el ejercicio de sus funciones, contará con comisiones legislativas, especiales, jurisdiccionales y comités. En el reglamento se regulará la organización y funcionamiento de dichos órganos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, G.G. 14 DE JULIO DE 2015)</small>
 
 ###### Artículo 69.
 
-A más tardar, en la tercera sesión del primer periodo de sesiones ordinarias, a propuesta de la Junta de Coordinación Política y mediante votación económica, la Asamblea aprobará para todo el ejercicio constitucional la integración de las Comisiones Legislativas siguientes:
+A más tardar, en la tercera sesión del primer período de sesiones ordinarias, a propuesta de la Junta de Coordinación Política y mediante votación económica, la Asamblea aprobará para todo el ejercicio constitucional, la integración de las comisiones legislativas siguientes:
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+I. Gobernación y Puntos Constitucionales;
 
-- Gobernación y Puntos Constitucionales
+II. Legislación y Administración Municipal;
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+III. Procuración y Administración de Justicia;
 
-- Legislación y Administración Municipal
+IV. Planeación y Gasto Público;
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+V. Trabajo, Previsión y Seguridad Social;
 
-- Procuración y Administración de Justicia
+VI. Educación, Cultura, Ciencia y Tecnología;
 
-> <small>(REFORMADO, G.G. 21 DE SEPTIEMBRE DE 2006)</small>
+VII. Desarrollo Urbano;
 
-- Planeación y Gasto Público
+VIII. Planificación Demográfica;
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+IX. Desarrollo Agropecuario y Forestal;
 
-- Trabajo, Previsión y Seguridad Social
+X. Protección Ambiental;
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+XI. Desarrollo Económico, Industrial, Comercial y Minero;
 
-- Educación, Cultura, Ciencia y Tecnología
+XII. Comunicaciones y Transportes;
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+XIII. Derechos Humanos;
 
-- Desarrollo Urbano
+XIV. Salud, Asistencia y Bienestar Social;
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+XV. Seguridad Pública y Tránsito;
 
-- Planificación Demográfica
+XVI. Electoral y de Desarrollo Democrático;
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+XVII. Patrimonio Estatal y Municipal;
 
-- Desarrollo Agropecuario y Forestal
+XVIII. Desarrollo Turístico y Artesanal;
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+XIX. Asuntos Metropolitanos;
 
-- Protección Ambiental
+XX. Vigilancia del Órgano Superior de Fiscalización;
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+XXI. Asuntos Indígenas;
 
-- Desarrollo Económico, Industrial, Comercial y Minero
+XXII. Protección Civil;
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+XXIII. Para la Protección e Integración al Desarrollo de las Personas con Discapacidad;
 
-- Comunicaciones y Transportes
+XXIV. Desarrollo Social;
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+XXV. De Límites Territoriales del Estado de México y sus Municipios;
 
-- Derechos Humanos
+XXVI. Para la Igualdad de Género;
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+XXVII. Seguimiento de la operación de proyectos para prestación de servicios;
 
-- Salud, Asistencia y Bienestar Social
+XXVIII. De la Juventud y el Deporte;
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+XXIX. Finanzas Públicas;
 
-- Seguridad Pública y Tránsito
+XXX. Recursos Hidráulicos;
 
-> <small>(REFORMADO, G.G. 22 DE OCTUBRE DE 2014)</small>
+XXXI. Apoyo y Atención al Migrante;
 
-- Electoral y de Desarrollo Democrático
+XXXII. Participación Ciudadana;
 
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+XXXIII. Asuntos Internacionales;
 
-- Patrimonio Estatal y Municipal
-
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-- Desarrollo Turístico y Artesanal
-
-> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
-
-- Asuntos Metropolitanos
-
-> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
-
-- Vigilancia del Órgano Superior de Fiscalización
-
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-- Asuntos Indígenas
-
-> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
-
-- De Protección Civil
-
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-- Para la Protección e Integración al Desarrollo de las Personas con Discapacidad
-
-- Desarrollo Social
-
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-- De Límites Territoriales del Estado de México y sus Municipios
-
-> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
-
-- Para la Igualdad de Género
-
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2006)</small>
-
-- Seguimiento de la operación de proyectos para prestación de servicios
-
-- De la Juventud y el Deporte
-
-> <small>(ADICIONADO, G.G. 21 DE SEPTIEMBRE DE 2006)</small>
-
-- Finanzas Públicas
-
-> <small>(REFORMADO, G.G. 26 DE JUNIO DE 2008)</small>
-
-- Recursos Hidráulicos
-
-> <small>(ADICIONADO, G.G. 11 DE AGOSTO DE 2008)</small>
-
-- Apoyo y Atención al Migrante
-
-> <small>(ADICIONADO, G.G. 13 DE OCTUBRE DE 2008)</small>
-
-- Participación Ciudadana.
-
-> <small>(ADICIONADO, G.G. 1 DE AGOSTO DE 2014)</small>
-
-- Asuntos Internacionales
-
-> <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+XXXIV. Transparencia, Acceso a la Información Pública, Protección de Datos Personales y de Combate a la Corrupción.
 
 La Asamblea podrá determinar la creación de otras comisiones legislativas, así como fijar el número de sus integrantes, de acuerdo con las necesidades institucionales de la Legislatura.
 
@@ -2110,3 +2048,11 @@ G.G. 13 DE JULIO DE 2015.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 14 DE JULIO DE 2015.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor a los cinco días siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto, perdiendo vigor al momento de esta publicación.
