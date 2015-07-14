@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-vigilancia-del-desempeno-jurisdiccional-y-95146"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-15"
-last_updated: "2014-07-03"
+last_updated: "2015-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95146&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-07-04"
 
 REGLAMENTO DE VIGILANCIA DEL DESEMPEÑO JURISDICCIONAL Y ADMINISTRATIVO PARA LAS SALAS REGIONALES, ESPECIALIZADAS, AUXILIARES Y/O MIXTAS, DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2015.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 15 de julio de 2013.
 
@@ -145,15 +145,69 @@ Para los efectos, aplicación e interpretación del presente Reglamento, se aten
 
 Igualmente se atenderá a los siguientes conceptos:
 
-I. Asunto: Tema o materia planteada por el actor al ejercer la acción contencioso administrativa;
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2015)</small>
 
-II. Demandas Recibidas: Escritos que dan inicio al juicio contencioso administrativo, mediante los cuales el actor ejerce su acción, ya sea en la forma tradicional o en línea;
+I. Acuerdo: Solución consensual que construyen los mediados, bajo la tutela del mediador, para cada uno de los puntos controvertidos en el conflicto durante el desarrollo de la mediación, y que deberá ser formalizado mediante convenio, ante la Junta de Gobierno y Administración;
 
-III. Expediente: Conjunto de documentos que corresponden a un determinado asunto, al cual le es asignado un número de serie para su pronta identificación y control;
+II. Asunto: Tema o materia planteada por el actor al ejercer la acción contencioso administrativa;
 
-IV. Pliego: Comunicado en el que se hace el resumen de las inconsistencias o irregularidades, ya sean recomendaciones preventivas u observaciones definitivas, advertidas con motivo de las actividades de la función de vigilancia y señalan las medidas y plazos para solventarlas; y
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2015)</small>
 
-V. Salas Mixtas: Salas Regionales que tienen jurisdicción en una circunscripción territorial o materia específica asignadas en el Reglamento Interior y que, sin perder esa jurisdicción y facultades instructoras, auxilian en el dictado de sentencias definitivas a otras Salas Regionales.
+III. Confidencialidad: Información generada por las partes durante la mediación, misma que no podrá ser divulgada, salvo que de ello se desprenda una falta grave o delito cometido por alguno de los mediados o cualquier otro servidor público de este Tribunal;
+
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2015)</small>
+
+IV. Convenio: Conjunto de cláusulas que contienen los acuerdos celebrados entre los mediados, respecto de la solución del conflicto motivo de la mediación, asentados en un documento;
+
+V. Demandas Recibidas: Escritos que dan inicio al juicio contencioso administrativo, mediante los cuales el actor ejerce su acción, ya sea en la forma tradicional o en línea;
+
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2015)</small>
+
+VI. Equidad: Los mediadores propiciarán condiciones de equilibrio entre los mediados, para obtener acuerdos recíprocamente satisfactorios;
+
+VII. Expediente: Conjunto de documentos que corresponden a un determinado asunto, al cual le es asignado un número de serie para su pronta identificación y control;
+
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2015)</small>
+
+VIII. Flexibilidad: La mediación carecerá de toda forma rígida, ya que deriva de la voluntad de los mediados;
+
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2015)</small>
+
+IX. Imparcialidad: Los mediadores que conduzcan la mediación deberán mantener ésta libre de favoritismos, inclinaciones o preferencias personales, que impliquen la concesión de ventajas para alguno de los mediados;
+
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2015)</small>
+
+X. Mediación: Procedimiento por medio del cual se busca la solución amigable a un conflicto suscitado entre servidores públicos del Tribunal, mediante la intervención de un tercero aceptable, imparcial y neutro, carente de valor de decisión y habilitado para ayudar a los involucrados para alcanzar un arreglo voluntario aceptable de los temas en discusión;
+
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2015)</small>
+
+XI. Mediador: Magistrado integrante de la Junta de Gobierno y Administración, con calidad de Visitador de la Sala Regional a la que se encuentren adscritos los servidores públicos involucrados en un conflicto, discrepancia o controversia, o bien, aquél que sea designado por la Junta para resolver una controversia suscitada en un área que por su naturaleza no cuente con un Magistrado Visitador específico, quien de manera imparcial, conducirá el procedimiento de mediación y facilitará la comunicación y la negociación entre los involucrados;
+
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2015)</small>
+
+XII. Mediados: Servidores públicos adscritos al Tribunal involucrados en conflicto, discrepancia o controversia y que buscan una solución pacífica a la misma;
+
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2015)</small>
+
+XIII. Neutralidad: Los mediadores que conduzcan la mediación deberán mantenerla exenta de juicios, opiniones y perjuicios propios respecto de los mediados, que puedan influir en la toma de decisiones;
+
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2015)</small>
+
+XIV. Objetividad: Es la actitud que el mediador debe adoptar, atendiendo a la necesidad de los mediados, sin que derive en su interés personal;
+
+XV. Pliego: Comunicado en el que se hace el resumen de las inconsistencias o irregularidades, ya sean recomendaciones preventivas u observaciones definitivas, advertidas con motivo de las actividades de la función de vigilancia y señalan las medidas y plazos para solventarlas; y
+
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2015)</small>
+
+XVI. Profesionalismo: Actuar de manera responsable y seria sobre cualquier acto que pueda mermar en la respetabilidad propia de su cargo;
+
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2015)</small>
+
+XVII. Salas Mixtas: Salas Regionales que tienen jurisdicción en una circunscripción territorial o materia específica asignadas en el Reglamento Interior y que, sin perder esa jurisdicción y facultades instructoras auxilian en el dictado de sentencias definitivas a otras Salas Regionales, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2015)</small>
+
+XVIII. Terceros: Tendrán ese carácter todas aquellas personas que, a petición de los interesados o a consideración del mediador puedan contribuir en la solución del conflicto.
 
 ###### Artículo 3.
 
@@ -388,6 +442,10 @@ Para revisar el buen funcionamiento de las Salas Regionales, Especializadas, Aux
 I. Verificar el orden y disciplina imperantes en las Salas Regionales, Especializadas, Auxiliares y/o Mixtas;
 
 II. Aplicar el instrumento o modalidad aprobados por la Junta, a efecto de conocer el clima laboral de las Salas visitadas; y
+
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
+
+Si durante la práctica de las visitas o fuera de ellas, se detectan conflictos que pudieran afectar el clima laboral, el Magistrado Visitador fungirá como mediador, sujetándose al procedimiento previsto en este Reglamento, y
 
 III. Verificar el uso correcto de la COCOVIJ.
 
@@ -817,39 +875,153 @@ IV. Examinar los movimientos de personal de la Sala, indicando los servidores p�
 
 V. Verificar la situación real y material de las instalaciones físicas que ocupan las sedes de las diversas Salas Regionales del Tribunal, para prevenir riesgos de cualquier tipo al personal que ahí labora y al público en general, así como para la facilitación de la labor jurisdiccional y administrativa.
 
-### CAPÍTULO ÚNICO. DEL PROCESO DE EVALUACIÓN
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
+
+### CAPÍTULO III. DEL PROCEDIMIENTO DE MEDIACIÓN
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE JULIO DE 2015)</small>
 
 ###### Artículo 53.
+
+La mediación es un proceso privado y voluntario al cual podrán someterse los servidores públicos de este Tribunal cuando exista una controversia o conflicto que dificulte la armonía y buen funcionamiento de la Sala o área respectiva, con la finalidad de llegar a una amigable composición, fortaleciendo así la vida institucional y el respeto a los derechos laborales del personal administrativo y jurisdiccional. El procedimiento de mediación deberá regirse por los principios de confidencialidad, imparcialidad, neutralidad, objetividad, bilateralidad, equidad, flexibilidad y profesionalismo.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE JULIO DE 2015)</small>
+
+###### Artículo 54.
+
+Son partes en el procedimiento de mediación:
+
+I. Mediados;
+
+II. Mediador, y
+
+III. Terceros.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE JULIO DE 2015)</small>
+
+###### Artículo 55.
+
+El procedimiento de mediación podrá iniciarse de oficio, cuando el Magistrado competente, por cualquier medio y con motivo de sus funciones, conozca de un conflicto entre servidores públicos del Tribunal que afecte la labor jurisdiccional. O bien se iniciará a petición de alguno de los servidores públicos involucrados, en donde el mediador intervendrá para facilitar la comunicación directa y confidencial entre los involucrados con el propósito de que éstos lleguen por sí mismos a un acuerdo voluntario que ponga fin a la controversia suscitada.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE JULIO DE 2015)</small>
+
+###### Artículo 56.
+
+Las solicitudes de mediación podrán hacerse del conocimiento del Magistrado competente por cualquiera de los medios de comunicación existentes en el Tribunal, mismas que deberán contener cuando menos la siguiente información:
+
+I. Nombre y firma de la persona que solicite la mediación, así como su área de adscripción;
+
+II. Nombre del servidor o servidores públicos involucrados en la controversia, así como el cargo y área de adscripción del mismo en caso de que conozca dicha información, y
+
+III. Exposición breve del asunto controvertido, así como los datos o indicios que permitan la identificación de los puntos en conflicto.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE JULIO DE 2015)</small>
+
+###### Artículo 57.
+
+El Magistrado competente al que corresponda el asunto, hará del conocimiento a la Junta de la existencia de un conflicto a mediar, respetando siempre el principio de confidencialidad que debe prevalecer en el procedimiento de mediación, el cual comienza con la audiencia inicial y concluye con la audiencia final.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE JULIO DE 2015)</small>
+
+###### Artículo 58.
+
+El mediador, como facilitador del proceso, y atendiendo a la esfera del conflicto y a sus causas, podrá fijar tantas audiencias como estime pertinentes a fin de realizar las intervenciones necesarias para recopilar información y documentación acerca de la disputa, realizar entrevistas con las partes y demás involucrados o llevar a cabo cualquier otra gestión que estime pertinente para el mejor conocimiento de los hechos.
+
+Tratándose de Salas o áreas con sede distinta al Distrito Federal, el Mediador deberá asistir a la audiencia inicial y final, y podrá designar a un comisionado que lo asista para la celebración de las demás audiencias, quien le dará cuenta de los resultados de dichas reuniones.
+
+De estimarlo necesario, el Magistrado mediador podrá efectuar visitas extraordinarias, previa aprobación de la Junta.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE JULIO DE 2015)</small>
+
+###### Artículo 59.
+
+Durante la audiencia inicial de mediación, el mediador recordará a los mediados el objeto y alcance de la mediación, explicará las reglas básicas y pautas de comportamiento que deben prevalecer durante el proceso, celebrará con ellos el convenio de confidencialidad correspondiente respecto de la información que en las sesiones se trate, delimitará las áreas temáticas y las cuestiones en discusión y en su caso determinará una secuencia para el manejo de los temas en discusión. Asimismo, les informará sobre la posibilidad de dar por terminada la mediación, si así conviene a las necesidades e intereses de los mediados o si el mediador detecta violación a las reglas sobre las que deben conducirse éstos durante la investigación.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE JULIO DE 2015)</small>
+
+###### Artículo 60.
+
+El mediador auxiliará a los mediados a compartir información fomentando el diálogo amable entre las partes y mediante la instrumentación de entrenamiento empático, promoviendo así entre las partes el conocimiento de la necesidad de generar opciones o alternativas para solucionar el conflicto, atendiendo a las necesidades e intereses de las partes y reduciendo en lo posible el alcance y número de las discrepancias existentes.
+
+Basado en el principio de flexibilidad, el mediador buscará que las partes definan, adopten, acepten y respeten voluntariamente el procedimiento para reconciliar sus intereses y evalúen los alcances y beneficios de cada una de las alternativas de solución.
+
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
+
+###### Artículo 61.
+
+En la audiencia final de mediación, se buscará la negociación definitiva entre las partes para alcanzar un acuerdo consensual formal, mismo que deberá detallar los pasos generales y específicos requeridos para aplicar la decisión, precisando si la naturaleza del acuerdo permite su ejecución inmediata, o si es necesario el establecimiento de un plazo, o en su caso si el mismo requerirá de una conducta permanente. Asimismo, se establecerán los métodos para supervisar el acatamiento a tales acuerdos.
+
+El convenio celebrado entre las partes deberá redactarse de manera clara y precisa, evitando que las cláusulas propicien dudas que deriven en errores o interpretaciones subjetivas. Para ello, el mediador buscará en todo momento aclarar las intenciones de las partes y explicará a detalle el significado y alcance de las cláusulas que lo componen.
+
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
+
+###### Artículo 62.
+
+Los acuerdos a los que se sometan los mediados generarán un compromiso entre los mismos, que deberá ser respetado en cada uno de sus términos y se harán del conocimiento de la Junta, correspondiendo al Magistrado Visitador, o en su caso, a aquel que al efecto designe la propia Junta, la supervisión del cumplimiento de los acuerdos alcanzados.
+
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
+
+###### Artículo 63.
+
+Se dará por concluida de manera anticipada la mediación, cuando de lo expuesto en las audiencias se advierta la presencia de conductas irregulares desplegadas por alguno de los servidores públicos involucrados en la mediación.
+
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
+
+###### Artículo 64.
+
+Si con motivo de la mediación el mediador conoce de la comisión de alguna falta grave o de algún delito, se investigará a través de los medios correspondientes, sin que ello implique violación al convenio de confidencialidad celebrado con las partes.
+
+## TÍTULO CUARTO
+
+### CAPÍTULO ÚNICO. DEL PROCESO DE EVALUACIÓN
+
+#### SECCIÓN I. DE LA EVALUACIÓN POR LA JUNTA DE GOBIERNO Y ADMINISTRACIÓN
+
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
+
+###### Artículo 65.
 
 Durante el mes de enero de cada año, los Magistrados visitadores presentarán a la Junta el Acta-Informe que contenga los documentos a que se refiere el artículo 1, fracción II, inciso h), así como todos aquellos elementos recabados durante el proceso de vigilancia y visita, ordinaria o extraordinaria, incluyendo el reporte anual de observaciones y recomendaciones sobre la situación de las Salas Regionales, Especializadas, Auxiliares y/o Mixtas, a que alude el último párrafo del artículo 54 del Reglamento Interior.
 
 El plazo señalado en el párrafo anterior será aplicable también a los Magistrados visitadores que concluyen su encargo en la Junta, ya que ellos presentarán en el referido mes de enero el Acta-Informe y el reporte de observaciones y recomendaciones sobre la situación de las Salas visitadas, incorporando los datos del mes de diciembre, en los términos del artículo 15, último párrafo, de este ordenamiento.
 
-###### Artículo 54.
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
+
+###### Artículo 66.
 
 Las Actas-Informes y demás información que rendirán los Magistrados visitadores, serán presentadas en medios electrónicos que permitan su concentración, homologación y sistematización, de manera que facilite su interpretación global, segmentada e interactiva, sobre la situación que guarden el Tribunal, las Salas, Magistrados y personal jurisdiccional y administrativo que lo integran.
 
-###### Artículo 55.
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
+
+###### Artículo 67.
 
 Durante el mes de febrero de cada año, la Junta evaluará el funcionamiento de las Salas Regionales, Especializadas, Auxiliares y/o Mixtas por la anualidad anterior, tomando como base el resultado de las evaluaciones a distancia; las actas levantadas con motivo de las visitas; las recomendaciones y observaciones producidas y los demás documentos que se generen durante las visitas o actividades de vigilancia.
 
 La evaluación podrá realizarse de manera global, por periodos o rubros parciales, o por Regiones y grupos de servidores públicos específicos, de tal suerte que los resultados obtenidos sustenten las políticas de planeación estratégica y la toma de decisiones institucionales para el buen funcionamiento del Tribunal y para la ejecución de las medidas conducentes a su mejora continua.
 
-###### Artículo 56.
+#### SECCIÓN II. PREVENCIONES FINALES
+
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
+
+###### Artículo 68.
 
 La Junta podrá reunirse en cualquier tiempo, a propuesta de alguno de sus integrantes, para comentar, analizar, evaluar o tomar, en su caso, las medidas que fueren necesarias, con motivo de las visitas realizadas durante el ejercicio, o de sucesos o eventos fuera de visita, inclusive para establecer los cambios de adscripción de Magistrados numerarios o supernumerarios que se estimen convenientes para la buena marcha de la Región o Sala que así lo ameriten.
 
-###### Artículo 57.
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
 
-Los asuntos que surjan en el Proceso de Vigilancia del Desempeño Jurisdiccional y Administrativo que no estén previstos en este Reglamento, serán resueltos por el Magistrado visitador que corresponda, en consonancia con los objetivos establecidos en el presente ordenamiento y en el Reglamento Interior, tomando debida nota de esa circunstancia en el acta o informe respectivo.
+Artículo 68 (SIC). Los asuntos que surjan en el Proceso de Vigilancia del Desempeño Jurisdiccional y Administrativo que no estén previstos en este Reglamento, serán resueltos por el Magistrado visitador que corresponda, en consonancia con los objetivos establecidos en el presente ordenamiento y en el Reglamento Interior, tomando debida nota de esa circunstancia en el acta o informe respectivo.
 
 En todo caso, el Magistrado visitador y su personal de apoyo estarán dotados de las atribuciones necesarias y suficientes para llevar a buen fin las comisiones que tengan encomendadas.
 
-###### Artículo 58.
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
+
+###### Artículo 70.
 
 En caso de que se haga necesario indagar sustancialmente asuntos de índole administrativa, la Junta, o en su caso el Magistrado visitador, podrán solicitar el apoyo técnico necesario de cualquier unidad administrativa del Tribunal, incluida la Contraloría Interna.
 
-###### Artículo 59.
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
+
+###### Artículo 71.
 
 En caso de incumplimiento de los plazos y condiciones que se establecen en este Reglamento, se procederá en los términos siguientes:
 
@@ -857,15 +1029,11 @@ a) El Magistrado visitador exhortará al obligado para que, en el término peren
 
 b) De persistir el incumplimiento, o si se trata de un caso que la Junta considere de gravedad, el mismo Órgano Colegiado requerirá al obligado para que atienda de inmediato lo conducente, apercibiéndolo de que, si persiste el incumplimiento, se dará inicio al correspondiente procedimiento administrativo de responsabilidades de servidores públicos.
 
-###### Artículo 60.
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
+
+###### Artículo 72.
 
 En casos de duda sobre la interpretación y alcance de las disposiciones de este Reglamento, la Junta determinará lo conducente, y resolverá cualquier situación técnica o administrativa no prevista en el mismo.
-
-## TÍTULO CUARTO
-
-#### SECCIÓN I. DE LA EVALUACIÓN POR LA JUNTA DE GOBIERNO Y ADMINISTRACIÓN
-
-#### SECCIÓN II. PREVENCIONES FINALES
 
 ## TRANSITORIOS
 
@@ -892,3 +1060,9 @@ SEGUNDO. Publíquese el presente Acuerdo en la Comunidad de Control y Vigilancia
 TERCERO. Quedan sin efecto todas las disposiciones administrativas emitidas por el Tribunal que contravengan lo establecido en el presente ordenamiento.
 
 CUARTO. Comuníquese el presente Acuerdo a los Presidentes de las Salas Regionales, Especializadas, Auxiliares y/o Mixtas, del Tribunal Federal de Justicia Fiscal y Administrativa, al Titular de la Oficialía de Partes Común de las Salas Regionales Metropolitanas, a los Coordinadores de la Actuaría Común del Tribunal, al Titular de la Unidad de Seguimiento de Visitas, así como al Director General del Sistema de Justicia en Línea.
+
+D.O.F. 14 DE JULIO DE 2015.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Para su debida difusión, publíquese el presente Acuerdo en la página web institucional del Tribunal, así como en la Comunidad de Control y Vigilancia Jurisdiccional.
