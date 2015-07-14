@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2014-12-16"
+last_updated: "2015-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE JULIO DE 2015.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -534,6 +534,24 @@ c). Participar en la promoción, desarrollo de convenios comerciales, fomento tu
 d). Generar las condiciones y los acuerdos para establecer una red o asociaciones de Comisiones de Asuntos Internacionales con las entidades que cuenten con esta figura legislativa, y
 
 e) Las demás que le confiera la Junta de Coordinación Política, la Presidencia de la Legislatura y la Diputación Permanente.
+
+> <small>(ADICIONADA, G.G. 14 DE JULIO DE 2015)</small>
+
+XXXIV. La Comisión de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y de Combate a la Corrupción, conocerá de los temas e iniciativas siguientes:
+
+a) De las iniciativas de ley, decreto o acuerdo relacionadas con la transparencia.
+
+b) De las iniciativas de ley, decreto o acuerdo relacionadas con el acceso a la información pública.
+
+c) De las iniciativas de ley, decreto o acuerdo relacionadas con la protección de datos personales.
+
+d) Con los asuntos legislativos vinculados a la transparencia, el acceso a la información pública y protección de datos personales;
+
+e) De las iniciativas de ley, decreto o acuerdo relacionadas con el Combate a la Corrupción;
+
+f) De las iniciativas de ley, decreto o acuerdo relacionadas con la rendición de cuentas;
+
+g) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
 Cuando la naturaleza de la materia lo amerite, el asunto o iniciativa podrá turnarse a comisión distinta de aquella cuya competencia se establece en este artículo.
 
@@ -5498,6 +5516,14 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Las presentes reformas deberán estar armonizadas en los reglamentos que correspondan, noventa días después de su publicación en el Periódico Oficial "Gaceta de Gobierno".
+
+G.G. 14 DE JULIO DE 2015.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor a los cinco días siguientes de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto, perdiendo vigor al momento de esta publicación.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 233 POR EL QUE SE REFORMA EL ARTÍCULO 174 Y SE ADICIONA EL ARTÍCULO 174 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499".]
 
