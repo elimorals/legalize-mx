@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-vigilancia-del-desempeno-jurisdiccional-y-95146"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-15"
-last_updated: "2014-07-03"
+last_updated: "2015-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95146&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,2028 +19,1050 @@ issue_date: "2013-07-04"
 ---
 # REGLAMENTO DE VIGILANCIA DEL DESEMPEÑO JURISDICCIONAL Y ADMINISTRATIVO PARA LAS SALAS REGIONALES, ESPECIALIZADAS, AUXILIARES Y/O MIXTAS, DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-LEY ORGANICA DEL CONGRESO DEL ESTADO DE SINALOA
+REGLAMENTO DE VIGILANCIA DEL DESEMPEÑO JURISDICCIONAL Y ADMINISTRATIVO PARA LAS SALAS REGIONALES, ESPECIALIZADAS, AUXILIARES Y/O MIXTAS, DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2015.
 
-Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
+Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 15 de julio de 2013.
 
-GOBIERNO DEL ESTADO
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Tribunal Federal de Justicia Fiscal y Administrativa.- Junta de Gobierno y Administración.
 
-El Congreso del Estado Libre y Soberano de Sinaloa, representado por su Quincuagésima Cuarta Legislatura, ha tenido a bien expedir el siguiente:
+ACUERDO E/JGA/14/2013
 
-DECRETO NUMERO 662
+REGLAMENTO DE VIGILANCIA DEL DESEMPEÑO JURISDICCIONAL Y ADMINISTRATIVO PARA LAS SALAS REGIONALES, ESPECIALIZADAS, AUXILIARES Y/O MIXTAS, DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA.
 
-LEY ORGANICA DEL CONGRESO DEL ESTADO DE SINALOA
+Acuerdo Específico E/JGA/14/2013 de la Junta de Gobierno y Administración del Tribunal Federal de Justicia Fiscal y Administrativa, que establece el Reglamento de Vigilancia del Desempeño Jurisdiccional y Administrativo para las Salas Regionales, Especializadas, Auxiliares y/o Mixtas, del Tribunal Federal de Justicia Fiscal y Administrativa.
 
-## TITULO PRIMERO. DEL CONGRESO DEL ESTADO
+CONSIDERANDO
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+Primero. Que, el Tribunal Federal de Justicia Fiscal y Administrativa es un tribunal de lo contencioso-administrativo, dotado de plena autonomía para dictar sus fallos, de conformidad con el Artículo 73 fracción XXIX-H, de la Constitución Política de los Estados Unidos Mexicanos relacionado con el diverso 1 de la Ley Orgánica del mismo;
 
-###### ARTICULO 1.
+Segundo. Que, conforme al texto e interpretación armónica de los artículos 39 y 41 fracciones V, X, XI, XXII, XXIII, XXIV, XXIX, XXXII y XXXV de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa; 46, fracción III, inciso b), 47 primero y cuarto párrafos, y 57 del Reglamento Interior del mismo, la Junta de Gobierno y Administración, en adelante la Junta, tiene a su cargo, entre otras tareas esenciales, la administración, vigilancia, disciplina y carrera jurisdiccional, para cuyo ejercicio cuenta con autonomía técnica y de gestión, de suerte que se garantice, entre otros objetivos, que los actos y funciones jurisdiccionales y administrativas se realicen por los órganos, unidades y servidores públicos del Tribunal, conforme a la normatividad aplicable;
 
-Esta Ley rige la organización y funcionamiento del Poder Legislativo del Estado de Sinaloa, en el ejercicio de las facultades que le señala la Constitución Política del Estado.
+Tercero. Que, complementariamente, para el ejercicio de las funciones antes descritas, dicho Órgano Colegiado tiene la atribución de expedir en el ámbito administrativo los acuerdos esenciales para el buen funcionamiento del Tribunal y para dirigir su buena marcha, dictando las medidas necesarias. Tales acuerdos podrán tener por objeto, entre otros, la expedición de Reglamentos específicos;
 
-###### ARTICULO 2.
+Cuarto. Que, acorde a las definiciones reglamentarias que rigen este Tribunal, en concordancia con la atribución de vigilancia que es propia de la Junta, y para verificar el correcto funcionamiento de las Salas Regionales, Especializadas, Auxiliares y/o Mixtas, este Órgano Colegiado dicta las Reglas conforme a las cuales se deben practicar las visitas necesarias para comprobar el adecuado desempeño de dichas Salas, en complemento de las cuales expidió una serie de Criterios Operativos Obligatorios que rigieron para el año 2012 y en los cuales se instituyó el concepto de Visita como un Proceso permanente y dinámico, realizado preferentemente a distancia y por medios telemáticos;
 
-El ejercicio del Poder Legislativo del Estado se deposita en una Asamblea que se denomina Congreso del Estado.
+Quinto. Que, derivado de la mejora administrativa y de la evolución institucional impulsada en los años recientes con la adopción del Sistema de Justicia en Línea, con la creación de la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, y con el gradual despliegue del uso intensivo de herramientas informáticas en apoyo a la función jurisdiccional, se considera conveniente robustecer estos avances plasmándolos en un nuevo cuerpo de normas que permita simplificar, agilizar y hacer más eficiente la vigilancia del desempeño jurisdiccional y administrativo, a través de la interacción permanente de los diversos actores que intervienen en el proceso jurisdiccional y administrativo, con independencia de la función específica que cada uno realice, para acelerar la operación plena del Sistema de Justicia en Línea en la parte que corresponde a la vigilancia del desempeño y a su integración consolidada en el Módulo de Indicadores de Gestión y Reportes de Operación del Subsistema de Información Estadística.
 
-###### ARTICULO 3.
+En consecuencia, con fundamento en lo dispuesto por los artículos 17 de la Constitución Política de los Estados Unidos Mexicanos; 39, 40 y 41 fracciones V, X, XI, XXII, XXIII, XXIV, XXIX, XXXII y XXXV, de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa, y; 46, fracción III, inciso b), 47, primero y cuarto párrafos y 57, del Reglamento Interior del mismo, la Junta de Gobierno y Administración emite el siguiente:
 
-El Congreso del Estado se compone de representantes del pueblo, nombrados en elección directa en su totalidad cada tres años.
+REGLAMENTO DE VIGILANCIA DEL DESEMPEÑO JURISDICCIONAL Y ADMINISTRATIVO PARA LAS SALAS REGIONALES, ESPECIALIZADAS, AUXILIARES Y/O MIXTAS, DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-Por cada Diputado propietario se elegirá un suplente.
+## TÍTULO PRIMERO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 1998)</small>
+### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
 
-### CAPITULO I. DE LA ETICA PARLAMENTARIA
+###### Artículo 1.
 
-###### ARTICULO 4.
+El presente Reglamento tiene por objeto:
 
-La Legislatura del Estado se integra con veinticuatro Diputados electos por el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y con dieciséis Diputados electos por el principio de representación proporcional, mediante el sistema de lista de candidatos votada en circunscripción plurinominal.
+I. Establecer las bases del Sistema conforme al cual se llevará a cabo la vigilancia permanente del desempeño jurisdiccional y administrativo de las Salas Regionales, Especializadas, Auxiliares y/o Mixtas, del Tribunal Federal de Justicia Fiscal y Administrativa, en adelante el Tribunal;
 
-Los Diputados, una vez electos y en el ejercicio de sus funciones, serán considerados con los mismos derechos y obligaciones.
+II. Fijar las Reglas que los Magistrados visitadores tomarán en cuenta a efecto de verificar el correcto funcionamiento de las Salas, durante el Proceso de Visita que deberá:
 
-###### ARTICULO 5.
+a) Abarcar, cuando menos, los aspectos previstos en el artículo 54 del Reglamento Interior del Tribunal Federal de Justicia Fiscal y Administrativa, en adelante el Reglamento Interior;
 
-El ejercicio de las funciones del Congreso se llevará a cabo en Legislaturas, períodos y sesiones.
+b) Ser permanente, continuo, interactivo, preferentemente a distancia y a través de medios telemáticos, consistente, homogéneo, estructurado para su registro, y almacenado específicamente en los formatos diseñados por la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, en adelante la SOTIC, y aprobados previamente por la Junta, lo mismo que sus modificaciones posteriores;
 
-El ejercicio de las funciones de los Diputados durante tres años constituye una Legislatura.
+c) Tener carácter preventivo y garantizar el acompañamiento permanente del Magistrado visitador en las medidas de mejora o estrategias jurisdiccionales que las Salas visitadas requieran;
 
-La Legislatura cambiará de nomenclatura cada tres años. El número que corresponda a cada una de ellas será en orden progresivo.
+d) Elaborar recomendaciones periódicas, al menos trimestralmente, que coadyuven con las Salas visitadas a evitar la formación de rezagos o la aparición de zonas de conflicto jurisdiccional o administrativo;
 
-La reunión del Pleno del Congreso se denomina sesión.
+e) Realizar cuando menos una etapa presencial, en la que:
 
-El período es la serie continuada de sesiones.
+1. Se hará la revisión física de los expedientes que, por sus particularidades o por los datos recabados, ameriten de su verificación presencial y confronta con los asientos del Sistema de Control y Seguimiento de Juicios, en adelante SICSEJ;
 
-###### ARTICULO 6.
+2. Se revisará el desempeño de las Oficialías de Partes, Archivos y Actuarías de las Salas visitadas;
 
-El Congreso se erigirá en gran jurado, en caso de juicio político y declaración de procedencia; además, en Colegio Electoral, de conformidad con lo previsto por la Constitución Política del Estado.
+3. Se reafirmará la importancia de la buena colegiación de Magistrados y Secretarios de Acuerdos, como condición permanente del desempeño colectivo y se constatará la prevalencia de un clima laboral basado en el respeto a las personas, a las normas y a los principios éticos que rigen en el Tribunal; y
 
-###### ARTICULO 7.
+4. Se concederá audiencia a los litigantes y personal jurisdiccional y administrativo que lo soliciten. El aviso de audiencia deberá divulgarse previamente y fijarse en lugar visible de la Sala visitada, citando día, hora y lugar para su desarrollo.
 
-El Congreso del Estado tendrá su residencia en la Capital del Estado y sesionará en el recinto oficial o en el que para el efecto habilite provisionalmente.
+f) Al término de la visita presencial, se levantará el acta correspondiente en la que se harán constar, cuando menos:
 
-###### ARTICULO 8.
+1. Los resultados de la revisión efectuada a distancia, consignando los datos obtenidos desde el inicio del proceso hasta la fecha de la visita presencial;
 
-Esta Ley, sus reformas y adiciones no necesitarán de promulgación del Gobernador del Estado, ni podrá ser objeto de veto.
+2. Los aspectos en los que se detectaron irregularidades jurisdiccionales o administrativas, cuyas recomendaciones no se hubieran solventado a la fecha de la visita;
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2007)</small>
+3. Las observaciones que se consideren pertinentes atendiendo a cada Sala visitada en particular, así como los plazos para su solventación;
 
-###### ARTICULO 9.
+4. Las observaciones o manifestaciones que produzcan los Magistrados con motivo del proceso de vigilancia, de la visita presencial o de las incidencias presentadas durante la visita; y
 
-El quince de noviembre de cada año, el Ejecutivo del Estado enviará al Congreso del Estado un informe por escrito sobre la situación que guarda la Administración Pública. Una vez recibido se remitirá a Comisiones para su conocimiento.
+5. Las manifestaciones, escritos o cualquiera otro elemento que se aporten durante las audiencias concedidas a los litigantes o personal de la Sala que las hayan solicitado previamente.
 
-Dentro de los quince días siguientes, el Congreso del Estado celebrará reunión de trabajo, en los términos de este artículo, con el Gobernador del Estado y los miembros de su gabinete sobre la valoración del informe rendido.
+g) Proporcionar los elementos necesarios para, al término del proceso correspondiente, elaborar los Pliegos de observaciones definitivas que deberán ser atendidas en el plazo perentorio que se haya otorgado para ese fin. Las observaciones definitivas deberán ser verificadas, al inicio de sus encargos, por los Magistrados visitadores designados por la Junta en el mes de enero del año siguiente; y
 
-La sesión de trabajo se desarrollará de acuerdo al protocolo y a la práctica parlamentaria, concediéndose el uso de la palabra al Gobernador del Estado, para exponer las líneas generales del informe. Enseguida, en el orden ascendente que resulta del número de integrantes en el Congreso, de cada partido, participarán el orador que cada uno de sus grupos parlamentarios registren para expresar su posición respecto al informe. A continuación los Diputados que equitativamente autorice la Comisión de Concertación Política, plantearán sus preguntas al Gobernador, que responderá por sí o auxiliado por los miembros del gabinete, con derecho a réplica y contrarréplica, respectivamente.
+h) Cerrar el proceso anual de visita con la elaboración del Acta-Informe sobre la situación que guarda la Sala visitada, misma que dará fe de la regularidad y evolución del trabajo jurisdiccional y de los aspectos administrativos vinculados con aquél.
 
-En esta reunión de trabajo, durante la intervención del Gobernador y las de los grupos parlamentarios no procederán interrupciones de los Diputados.
+En el Acta-Informe se asentará, cuando menos:
 
-Así mismo, para garantizar que la reunión se dé ante un auditorio plural y representativo de todos los sectores sociales, se girarán invitaciones por la Presidencia de la Gran Comisión, a colegios y asociaciones de profesionistas, cámaras de comercio e industria y otros organismos representativos de los sectores productivos del estado, a organismos sociales, instituciones de educación superior, partidos políticos, directivos de medios de comunicación representantes de las iglesias, servidores públicos de los tres niveles de gobierno y organismos no gubernamentales.
+1. El reporte de la verificación del cumplimiento de las observaciones del Proceso de Visita anterior;
 
-###### ARTICULO 10.
+2. El desempeño jurisdiccional y administrativo observado por la Sala visitada durante el Proceso de Visita que concluye;
 
-Los Diputados gozan del fuero que reconoce la Constitución Política del Estado.
+3. El reporte de recomendaciones preventivas producidas dentro del Proceso de Visita que se concluye, especificando si fueron atendidas o no; y
 
-Los Diputados son inviolables en la expresión de las ideas que manifiesten en el desempeño de sus funciones, y jamás podrán ser reconvenidos por la expresión de ellas.
+4. El informe de las observaciones definitivas que deberán ser atendidas en el siguiente Proceso de Visita y el plazo para su cumplimiento.
 
-Ningún Diputado podrá ser procesado por la comisión de delitos, sin que preceda la declaración del Congreso de haber lugar a formación de causa. En demandas del orden civil, no gozarán de fuero alguno.
+i) Garantizar a la Junta la homogeneidad y transparencia de los procedimientos para recabar los datos objetivos y conclusiones derivados del Proceso de Visita, y para proporcionarle los elementos de juicio suficientes que permitan la evaluación periódica y pertinente del funcionamiento del Tribunal, de sus Salas y de los integrantes del personal jurisdiccional y del personal administrativo vinculados con la jurisdicción; y
 
-###### ARTICULO 11.
+j) Allegar a la Junta cualquiera otra información adicional que se estime pertinente y útil para la toma de decisiones respecto de una o varias Salas visitadas, e incluso respecto a la estructura del Tribunal, tales como el aumento o cambio de sede de Salas, así como el cambio de competencia o jurisdicción de las mismas.
 
-El Presidente del Congreso velará por el respeto al fuero constitucional de los Diputados y por la inviolabilidad del recinto donde se reúnan a sesionar.
+III. Fijar las bases que los Magistrados visitadores tomarán en cuenta a efecto de desarrollar el Proceso de Vigilancia, mismas que deberán atender a las características esenciales de dicho Proceso que son:
 
-Toda fuerza pública está impedida de tener acceso al recinto del Congreso, salvo solicitud o permiso del Presidente del Congreso o de la Diputación Permanente, según corresponda, bajo cuyo mando quedarán en este caso. Cuando sin mediar autorización se hiciera presente la fuerza pública, el Presidente decretará un receso hasta que dicha fuerza abandone el recinto.
+a) Supervisar que los actos y funciones jurisdiccionales y administrativas se realicen por los órganos, unidades y servidores públicos del Tribunal conforme a la normatividad aplicable; y
 
-###### ARTICULO 12.
+b) Ser permanente y realizarse por medio de supervisiones, indagaciones o actos materiales ordinarios o extraordinarios, que podrán consistir en visitas virtuales o presenciales, inspecciones, investigaciones directas o de gabinete, rendición de informes de los involucrados o de terceros y cualquier otra actuación que la Junta determine para mejor cumplimiento de su función.
 
-Ninguna autoridad, sin autorización del Presidente del Congreso o de la Diputación Permanente podrá ejecutar mandamientos judiciales o administrativos sobre los bienes del Congreso, ni sobre las personas o bienes de los Diputados en el interior del recinto parlamentario.
+IV. Validar y consolidar oportunamente los datos estadísticos recabados durante el proceso permanente de vigilancia del desempeño, para su incorporación al Subsistema de Información Estadística como única fuente oficial de información jurisdiccional;
 
-###### ARTICULO 13.
+V. Proporcionar a la Junta los elementos necesarios para:
 
-Los Diputados guardarán el debido respeto y compostura en el interior del recinto oficial, en las sesiones y en cualquier acto de carácter oficial.
+a) Verificar el buen funcionamiento del Tribunal y las Salas que lo integran;
 
-## TITULO SEGUNDO. DE LOS DIPUTADOS
+b) Evaluar el desempeño del personal jurisdiccional y administrativo, y tomar las medidas necesarias para corregir, mejorar o modificar las situaciones o conductas que a su juicio lo ameriten;
 
-### CAPITULO II. DE LOS DERECHOS DE LOS DIPUTADOS
+c) Realizar los estudios necesarios para determinar las regiones, sedes y número de las Salas Regionales; las sedes y número de las Salas Auxiliares; el número y la competencia material y territorial de las Salas Especializadas, y los criterios conforme a los cuales se ejercerá la facultad de atracción, de acuerdo con lo que establezcan las disposiciones aplicables;
 
-###### ARTICULO 14.
+d) Conocer la situación real y material de las instalaciones físicas que ocupan las sedes de las diversas Salas Regionales del Tribunal, para prevenir riesgos de cualquier tipo al personal que ahí labora y al público en general, así como para la facilitación de la labor jurisdiccional y administrativa. Para el desahogo de esta función, el Magistrado visitador se apoyará en la información existente en el Padrón Nacional de Inmuebles del Tribunal que formará y mantendrá actualizado la Secretaría Operativa de Administración, en adelante SOA;
 
-Los Diputados observarán las normas de la cortesía y el respeto parlamentario, para sus compañeros y para con los funcionarios e invitados al recinto oficial.
+e) Llevar a cabo la evaluación interna de los servidores públicos que le requiera el Pleno de la Sala Superior para ser presentados como candidatos a Magistrados del Tribunal, atendiendo a los datos previstos en los artículos 57 y 58 del Reglamento Interior;
 
-###### ARTICULO 15.
+f) Ponderar la adscripción de Magistrados y personal jurisdiccional, conforme a las necesidades derivadas de cargas de trabajo excesivas, zonas de rezago procesal, conflictos de colegiación, necesidades de especialización profesional, insuficiencias acreditadas en el desempeño jurisdiccional, conductas inadecuadas o contrarias al Código de Ética del Tribunal, en adelante el Código, u otras de carácter similar;
 
-Los Diputados en el ejercicio de sus funciones, tanto en el recinto oficial como fuera de él, observarán una conducta y comportamiento en congruencia con su dignidad de representantes del pueblo.
+g) Examinar y orientar los programas permanentes de capacitación, especialización y actualización para los servidores públicos jurisdiccionales, que le presente el Centro de Estudios Superiores en materia de Derecho Fiscal y Administrativo;
 
-###### ARTICULO 16.
+h) Supervisar la correcta operación y funcionamiento de las Oficialías de Partes Comunes y de Sala, las coordinaciones y oficinas de Actuarios, así como de los Archivos y Secretarías de Acuerdos o Secretarías Técnicas en las Salas del Tribunal, según sea el caso;
 
-Los Diputados, durante sus intervenciones en la tribuna o en cualquier acto oficial, se abstendrán de afectar o lesionar la dignidad de cualquier compañero, funcionario o ciudadano.
+i) Conocer los reportes relativos al comportamiento laboral del personal jurisdiccional y administrativo, respecto de su asistencia y puntualidad, incidencias de comportamiento o conductas indebidas, así como los movimientos inherentes a su ingreso, reingreso, promoción, baja y licencias; y
 
-###### ARTICULO 17.
+j) Disponer de la totalidad de la información recabada durante el Proceso de Visita del año que corresponda, a través de medios electrónicos que le permitan la concentración, clasificación y compatibilización de los reportes de los Magistrados visitadores.
 
-Los Diputados deberán guardar la reserva de todos aquellos asuntos, que por su actividad y funciones tengan conocimiento, y cuya revelación pueda afectar al Poder Legislativo.
+###### Artículo 2.
 
-### CAPITULO III. DE LAS OBLIGACIONES DE LOS DIPUTADOS
+Para los efectos, aplicación e interpretación del presente Reglamento, se atenderá en lo conducente a las definiciones que establecen la Ley Federal de Procedimiento Contencioso Administrativo, la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa, en adelante la Ley Orgánica, y el Reglamento Interior.
 
-###### ARTICULO 18.
+Igualmente se atenderá a los siguientes conceptos:
 
-Son derechos de los Diputados, además de los otorgados por la Constitución Política del Estado y otros ordenamientos legales aplicables, los siguientes:
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2015)</small>
 
-I.- Iniciar Leyes y Decretos, proponer reformas y adiciones a la normatividad jurídica, interviniendo en las discusiones y votaciones de las mismas, conforme a lo establecido en la presente Ley;
+I. Acuerdo: Solución consensual que construyen los mediados, bajo la tutela del mediador, para cada uno de los puntos controvertidos en el conflicto durante el desarrollo de la mediación, y que deberá ser formalizado mediante convenio, ante la Junta de Gobierno y Administración;
 
-II.- Asistir con voz y voto a las sesiones del Pleno del Congreso, así como a las de las Comisiones de que forme parte. Podrán asistir con voz, pero sin voto, a las sesiones de las Comisiones de que no formen parte;
+II. Asunto: Tema o materia planteada por el actor al ejercer la acción contencioso administrativa;
 
-III.- Formar parte de las Comisiones Permanentes y Especiales en los términos de la presente Ley;
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2015)</small>
 
-IV.- Percibir las dietas, asignaciones y prestaciones conforme al presupuesto de egresos del Congreso del Estado;
+III. Confidencialidad: Información generada por las partes durante la mediación, misma que no podrá ser divulgada, salvo que de ello se desprenda una falta grave o delito cometido por alguno de los mediados o cualquier otro servidor público de este Tribunal;
 
-V.- Elegir y ser electos para integrar los órganos del Congreso;
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2015)</small>
 
-VI.- Formar parte de un grupo parlamentario en los términos previstos en la presente Ley;
+IV. Convenio: Conjunto de cláusulas que contienen los acuerdos celebrados entre los mediados, respecto de la solución del conflicto motivo de la mediación, asentados en un documento;
 
-VII.- Gestionar ante las autoridades la atención de los asuntos que les planteen sus representados;
+V. Demandas Recibidas: Escritos que dan inicio al juicio contencioso administrativo, mediante los cuales el actor ejerce su acción, ya sea en la forma tradicional o en línea;
 
-VIII.- Representar al Congreso en los foros, audiencias públicas y reuniones nacionales e internacionales para los que sean designados por el Pleno o por su Diputación Permanente;
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2015)</small>
 
-IX.- Obtener el documento e insignia que los acredite como Diputados integrantes de la Legislatura correspondiente;
+VI. Equidad: Los mediadores propiciarán condiciones de equilibrio entre los mediados, para obtener acuerdos recíprocamente satisfactorios;
 
-X.- Contar con un espacio en las instalaciones del edificio del Congreso para el desarrollo de sus funciones; y
+VII. Expediente: Conjunto de documentos que corresponden a un determinado asunto, al cual le es asignado un número de serie para su pronta identificación y control;
 
-XI.- Las demás que se establezcan en la presente Ley y otros ordenamientos aplicables.
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2015)</small>
 
-###### ARTICULO 19.
+VIII. Flexibilidad: La mediación carecerá de toda forma rígida, ya que deriva de la voluntad de los mediados;
 
-Todos los Diputados tienen las obligaciones siguientes:
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2015)</small>
 
-I.- Rendir la protesta de ley y tomar posesión de su cargo;
+IX. Imparcialidad: Los mediadores que conduzcan la mediación deberán mantener ésta libre de favoritismos, inclinaciones o preferencias personales, que impliquen la concesión de ventajas para alguno de los mediados;
 
-II.- Cumplir con las normas de la Constitución Política de los Estados Unidos Mexicanos y del Estado, de las Leyes que de ellas emanen y con las de la presente Ley;
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2015)</small>
 
-III.- Responder por sus actos y omisiones en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa;
+X. Mediación: Procedimiento por medio del cual se busca la solución amigable a un conflicto suscitado entre servidores públicos del Tribunal, mediante la intervención de un tercero aceptable, imparcial y neutro, carente de valor de decisión y habilitado para ayudar a los involucrados para alcanzar un arreglo voluntario aceptable de los temas en discusión;
 
-IV.- Cumplir con las disposiciones que le señalen el Pleno y la Presidencia del Congreso, de conformidad con la presente Ley;
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2015)</small>
 
-V.- Asistir puntualmente a las sesiones tanto del Pleno como de las Comisiones que formare parte y permanecer en ellas hasta su conclusión;
+XI. Mediador: Magistrado integrante de la Junta de Gobierno y Administración, con calidad de Visitador de la Sala Regional a la que se encuentren adscritos los servidores públicos involucrados en un conflicto, discrepancia o controversia, o bien, aquél que sea designado por la Junta para resolver una controversia suscitada en un área que por su naturaleza no cuente con un Magistrado Visitador específico, quien de manera imparcial, conducirá el procedimiento de mediación y facilitará la comunicación y la negociación entre los involucrados;
 
-VI.- Formar parte de las Comisiones Permanentes o Especiales y ocupar los cargos del Congreso para los que fuere designado;
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2015)</small>
 
-VII.- Cumplir con diligencia los trabajos que les correspondan;
+XII. Mediados: Servidores públicos adscritos al Tribunal involucrados en conflicto, discrepancia o controversia y que buscan una solución pacífica a la misma;
 
-VIII.- Representar los intereses de los ciudadanos, así como promover y gestionar la solución de los problemas y necesidades colectivas ante las autoridades competentes;
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2015)</small>
 
-IX.- Informar al Congreso, cuando se le requiera, acerca del cumplimiento de sus obligaciones;
+XIII. Neutralidad: Los mediadores que conduzcan la mediación deberán mantenerla exenta de juicios, opiniones y perjuicios propios respecto de los mediados, que puedan influir en la toma de decisiones;
 
-X.- Votar a favor o en contra en las votaciones en las cuales tome parte;
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2015)</small>
 
-XI.- Presentar su declaración de situación patrimonial en los términos de la Ley de la materia; y,
+XIV. Objetividad: Es la actitud que el mediador debe adoptar, atendiendo a la necesidad de los mediados, sin que derive en su interés personal;
 
-XII.- Las demás que le señalen las Leyes o acuerde la Cámara.
+XV. Pliego: Comunicado en el que se hace el resumen de las inconsistencias o irregularidades, ya sean recomendaciones preventivas u observaciones definitivas, advertidas con motivo de las actividades de la función de vigilancia y señalan las medidas y plazos para solventarlas; y
 
-###### ARTICULO 20.
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2015)</small>
 
-Los Diputados que falten a sesión ordinaria o extraordinaria sin causa justificada, sin permiso del Presidente o que sin tales requisitos abandonen el Salón antes de que la sesión termine, no tendrán derecho a las dietas correspondientes.
+XVI. Profesionalismo: Actuar de manera responsable y seria sobre cualquier acto que pueda mermar en la respetabilidad propia de su cargo;
 
-###### ARTICULO 21.
+> <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2015)</small>
 
-Cuando al abrirse los períodos de sesiones, los Diputados propietarios no concurran durante diez días y no acrediten que les impide fuerza mayor, se les declarará suspendidos en sus funciones hasta la inauguración del período siguiente.
+XVII. Salas Mixtas: Salas Regionales que tienen jurisdicción en una circunscripción territorial o materia específica asignadas en el Reglamento Interior y que, sin perder esa jurisdicción y facultades instructoras auxilian en el dictado de sentencias definitivas a otras Salas Regionales, y
 
-###### ARTICULO 22.
+> <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2015)</small>
 
-Los Diputados que en el curso de las sesiones, y sin causa justificada a juicio de la Cámara, falten diez días consecutivos se entenderá que renuncian al cargo.
+XVIII. Terceros: Tendrán ese carácter todas aquellas personas que, a petición de los interesados o a consideración del mediador puedan contribuir en la solución del conflicto.
 
-###### ARTICULO 23.
+###### Artículo 3.
 
-Todo aquel Diputado que viole la privacidad que debe observarse en los asuntos tratados en sesión secreta, será turnado a la Comisión de Honor y Justicia.
+Las disposiciones de este Reglamento son de observancia general y obligatoria para los servidores públicos de las Salas del Tribunal a que se refiere este ordenamiento, incluyendo a su personal adscrito y al de las áreas centrales de apoyo técnico y administrativo.
 
-###### ARTICULO 24.
+### CAPÍTULO II. DE LAS BASES DEL SISTEMA DE VIGILANCIA
 
-Ningún Diputado podrá salir de la sesión mientras se efectúa la votación, si entrare de nuevo durante el desarrollo de la misma, no podrá votar nominal ni económicamente.
+###### Artículo 4.
 
-###### ARTICULO 25.
+La función de vigilancia es la actividad tendente a supervisar que los actos y funciones jurisdiccionales y administrativas se realicen por los órganos, unidades y servidores públicos del Tribunal conforme a la normatividad aplicable, sin perjuicio de la obligación originaria que todo servidor público tiene, de cumplir con sus atribuciones y responsabilidades en los tiempos y formas que marquen las disposiciones normativas que regulen su actuación.
 
-Los Diputados que salgan de la sesión sin el permiso correspondiente del Presidente, no podrán participar de la misma.
+###### Artículo 5.
 
-### CAPITULO IV. INCUMPLIMIENTO DE OBLIGACIONES Y SANCIONES A LOS DIPUTADOS
+La vigilancia del desempeño jurisdiccional y administrativo es una función de carácter continuo y dinámico que la Junta realiza, por regla general, a través de los Magistrados visitadores que sean designados al inicio de cada año para ese objeto.
 
-###### ARTICULO 26.
+###### Artículo 6.
 
-Si durante el desarrollo de las sesiones algún Diputado profiriese expresiones ofensivas a sus compañeros, podrán éstos reclamar luego que haya concluido de hablar el que las profirió, y si éste no satisface al Congreso o al Diputado que se crea ofendido, el Presidente mandará que se escriba y firme la expresión en el acta correspondiente, turnándolo a la Comisión de Honor y Justicia.
+Para desarrollar la función de vigilancia que les compete, los Magistrados visitadores o la Junta, según corresponda, podrán realizar de manera individual, conjunta o indistintamente:
 
-###### ARTICULO 27.
+I. Supervisiones directas, que se ejercerán mediante inspecciones y/o auditorías técnicas para establecer si determinado tipo de actos, o sus procedimientos, se realizaron por los órganos, unidades y servidores públicos del Tribunal, conforme a la normatividad aplicable. En el desarrollo de estas acciones los Magistrados visitadores podrán ser auxiliados por el personal técnico o administrativo que estimen necesario;
 
-Los Diputados que no observen en las sesiones el debido comportamiento, se harán acreedores la primera vez a una amonestación por escrito y, en caso de reincidencia, será turnado por el Presidente a la Comisión de Honor y Justicia la que resolverá conforme lo estime conveniente al decoro del Congreso y a la armonía que debe haber entre los Diputados.
+II. Indagaciones, para investigar hechos, actos o conductas contrarios a la regularidad jurisdiccional o administrativa, a la moral, a la ética, o a los principios de la Institución, que trastornen el buen funcionamiento de una Sala o Ponencia, que entrañen problemas de colegiación, u otros de naturaleza similar. En el curso de la indagación podrán desahogarse citaciones, entrevistas, declaraciones, cuestionarios, audiencias públicas o privadas, así como requerimientos de informes, tanto de los involucrados como de terceros que puedan aportar elementos para el éxito de la investigación.
 
-## TITULO TERCERO. DE LA INSTALACION DEL CONGRESO
+III. Actos materiales, que consistirán en visitas virtuales o presenciales, inspecciones, investigaciones directas o de gabinete, rendición de informes de los involucrados o de terceros, tomas de nota (sic) procesales, encuestas, u otros análogos o similares, así como aquéllos que tengan el carácter de preparatorios para el ejercicio de la función de vigilancia y su desahogo; y
 
-### CAPITULO UNICO. DE LA INSTALACION DE LA CAMARA
+IV. Cualquiera otra actuación que la Junta determine para el mejor cumplimiento de su función de vigilancia.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+Las acciones y procedimientos contenidos en las fracciones anteriores, deberán concluir con: opiniones, propuestas, reportes, informes o dictámenes rendidos por los Magistrados visitadores en torno a la causa o motivo de su intervención. Cuando la naturaleza de los asuntos sujetos a los procesos antes descritos lo permita, se procederá a la formulación de compromisos específicos de los involucrados, plasmándolos en documentos aprobados por los Magistrados visitadores o por la Junta, de suerte que se garantice el cumplimiento de las determinaciones que se estimaron convenientes o necesarias para la solución de la problemática planteada.
 
-###### ARTICULO 28.
+###### Artículo 7.
 
-Los Diputados que por sí o por intermedio de otras personas afecten el patrimonio del Congreso serán turnados a la Comisión Instructora, para que inicie el procedimiento respectivo.
+El procedimiento de trabajo establecido en este Reglamento será aplicado por todos los Magistrados visitadores que integran la Junta y por sus respectivos equipos de trabajo, con la finalidad de que exista homogeneidad y consistencia en la información que se recopile en los procesos en que intervengan.
 
-###### ARTICULO 29.
+###### Artículo 8.
 
-Ningún Diputado podrá excusarse cuando se le designe para formar parte de una Comisión o de la Mesa Directiva; cuando incumplan con el desempeño de la Comisión serán sancionados, la primera vez con una amonestación y, de reincidir será turnado a la Comisión de Honor y Justicia.
+Al inicio de la función de vigilancia, la Junta realizará un diagnóstico preliminar sobre la actuación de las Salas en el año inmediato anterior, verificando que los programas de trabajo planteados por los Magistrados visitadores se hayan cumplido a cabalidad y que no hubiese quedado algún lapso o período de actividades sin labores de supervisión, visita o vigilancia.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+###### Artículo 9.
 
-###### ARTICULO 30.
+Para la ejecución permanente del Sistema de Vigilancia del Desempeño Jurisdiccional y Administrativo, se instituye una plataforma tecnológica que se denominará Comunidad de Control y Vigilancia Jurisdiccional, en adelante COCOVIJ.
 
-Los Diputados que sin causa justificada o sin permiso no se presentaren en los días de sesión a la hora indicada para el inicio de ésta no se les cubrirá la dieta correspondiente.
+###### Artículo 10.
 
-Tampoco tendrán derecho a la dieta correspondiente cuando en las mismas circunstancias faltaren a los trabajos de las Comisiones de las que formaren parte.
+La información jurisdiccional que se almacene en la COCOVIJ será incorporada mensualmente por los respectivos Delegados de TICs, quienes la obtendrán directamente del Sistema de Control y Seguimiento de Juicios y/o Sistema de Justicia en Línea, en adelante SJL, previa validación de los Magistrados visitados, conforme a los procedimientos establecidos en este Reglamento.
 
-###### ARTICULO 31.
+###### Artículo 11.
 
-Los Diputados quedarán suspendidos de los derechos y obligaciones a que se refiere esta Ley en los siguientes casos:
+La información contenida en la COCOVIJ podrá ser usada por los Magistrados visitadores, para:
 
-I.- Por licencia concedida en los términos establecidos por esta Ley; y
+I. Elaborar evaluaciones por el período que resulte necesario dentro del Proceso de Visita, dependiendo de la problemática específica que presenten las Salas Regionales, Especializadas, Auxiliares y/o Mixtas pero, en todo caso, siempre se elaborarán las evaluaciones preventivas trimestrales;
 
-II.- Por resolución del Pleno de que ha lugar a proceder penalmente.
+II. Formular Pliegos de recomendaciones preventivas o de observaciones definitivas;
 
-### CAPITULO I. DE LA MESA DIRECTIVA
+III. Confeccionar, en las sedes de las Salas visitadas, las actas referidas a la etapa presencial o el Acta-Informe correspondiente a la etapa final;
 
-#### SECCIÓN PRIMERA. DE LA SECRETARÍA GENERAL
+IV. Tomar todas las medidas correctivas conducentes para solventar las irregularidades jurisdiccionales o desviaciones administrativas advertidas durante el proceso respectivo; y
 
-###### ARTICULO 93.
+V. Proporcionar a la Junta los informes necesarios, a fin de que el Pleno Jurisdiccional determine las Salas Regionales que deberán ser auxiliadas, así como el número y cualidad de los asuntos que se enviarán a las Salas Auxiliares.
 
-El Congreso del Estado, para su debido funcionamiento y en el cumplimiento de sus atribuciones, deberá contar con la estructura administrativa que se establece en la presente Ley.
+###### Artículo 12.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+La información contenida en la COCOVIJ también podrá ser utilizada por la Junta para ponderar la pertinencia de realizar cambios de adscripción de los Magistrados o de otro personal jurisdiccional y administrativo de las Salas visitadas.
 
-###### ARTÍCULO 94.
+Los cambios de adscripción de los Magistrados numerarios podrán motivarse por:
 
-Para la organización y el debido apoyo al cumplimiento de las funciones legislativas y la atención correspondiente a sus necesidades administrativas el Congreso contará con una Secretaría General y su titular se denominará Secretario General.
+I. La necesidad de crear nuevas Salas Regionales, Especializadas, Auxiliares y/o Mixtas;
 
-La Secretaría General es la dependencia del Poder Legislativo cuya función es coadyuvar con la Legislatura a efecto de que ésta ejerza las facultades que le corresponden, conforme a la Ley.
+II. La conveniencia de corregir problemas de colegiación o de buscar estándares cuantitativos o cualitativos más aproximados al perfil o desempeño del Magistrado visitado, en relación con otras Regiones o Salas del país;
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+III. La utilidad de aprovechar la experiencia de los Juzgadores en determinada materia del derecho fiscal y administrativo o de otras áreas de la ciencia jurídica;
 
-###### ARTÍCULO 95.
+IV. Estímulo al desempeño y trayectoria de los Juzgadores; y
 
-La Secretaría General del Congreso, para el debido desarrollo de sus funciones, contará con los recursos humanos y materiales que se establezcan en el presupuesto.
+V. Las necesidades del servicio que así lo requieran en casos análogos o similares a los anteriores.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+###### Artículo 13.
 
-###### ARTICULO 96.
+Las obligaciones señaladas en el presente Reglamento se cumplirán dentro del plazo establecido para cada una de ellas. En caso de no existir término expreso, el Magistrado visitador lo establecerá prudentemente a fin de que puedan ser cumplidas.
 
-Son atribuciones del Secretario General del Congreso:
+## TÍTULO SEGUNDO
 
-I.- Formular y dirigir los planes y programas administrativos del Congreso;
+### CAPÍTULO I. DE LAS REGLAS DEL PROCESO DE VISITA
 
-II.- Formular y preparar la documentación que requiere el Congreso para su funcionamiento;
+###### Artículo 14.
 
-III.- Proveer lo conducente para el apoyo al trabajo parlamentario y la vinculación social del Congreso con su comunidad;
+El Proceso de Visita es el instrumento esencial del Sistema de Vigilancia del Desempeño Jurisdiccional y Administrativo de Salas Regionales, Especializadas, Auxiliares y/o Mixtas.
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+En el mes de enero de cada año, la Junta designará a los Magistrados visitadores mediante el Acuerdo correspondiente, en el que se les asignarán las Salas Regionales, Especializadas, Auxiliares y/o Mixtas que les corresponda visitar.
 
-IV.- Supervisar y vigilar que se cumplan las políticas que se establezcan para la investigación legislativa y el servicio civil de carrera;
+###### Artículo 15.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+El Proceso de Visita a las Salas del Tribunal se rige por los siguientes principios:
 
-V.- Dar cumplimiento en el ámbito administrativo a los Acuerdos y Resoluciones tomados por el Pleno, la Gran Comisión, la Mesa Directiva y las Comisiones;
+I. Tendrá carácter permanente, primordialmente preventivo y excepcionalmente correctivo;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+II. Será dividido, para su mejor desahogo, en períodos mensuales que abarcarán de enero a diciembre de cada año. Los reportes que se produzcan en esos lapsos registrarán el comportamiento jurisdiccional detectado y se elaborarán con la intervención de los Magistrados visitadores;
 
-VI.- Llevar a cabo los trámites de carácter meramente administrativo relacionados con el proceso legislativo de las iniciativas, proyectos y dictámenes presentados al Pleno y a las Comisiones;
+III. Durante el periodo de visita, los Magistrados visitadores podrán requerir y revisar cualquier expediente o documentación, con la finalidad de constatar la correcta regularidad registrada en la marcha jurisdiccional y administrativa de las Salas visitadas, así como el cumplimiento a lo dispuesto en el Código de Ética;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+IV. Tanto los Magistrados visitadores como su personal de apoyo, guardarán el respeto y consideración debidos a los Magistrados y personal jurisdiccional y administrativo de las Salas visitadas, evitando cualquier actitud o comportamiento prepotente, intimidatorio o punitivo, que perturbe la relación armónica entre pares (sic) que sirven a la misma Institución. La misma obligación corresponderá a todo el personal de las Salas visitadas;
 
-VII.- Llevar los libros, registros y demás documentos establecidos para el control y seguimiento de los asuntos del Congreso;
+V. La intervención del Magistrado visitador se agota con la emisión y entrega a la Junta del Acta-Informe que contiene el resultado de la revisión del funcionamiento jurisdiccional y administrativo de las Salas visitadas; y
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+VI. El proceso anual concluirá con la evaluación final que realice la Junta sobre el funcionamiento del Tribunal, con cuya base emitirá las determinaciones necesarias para optimizar la función jurisdiccional y tomará las medidas conducentes para corregir las irregularidades o desviaciones administrativas o disciplinarias que se hayan detectado.
 
-VIII.- Tramitar ante las instancias correspondientes, todo lo relativo a los recursos del Congreso;
+Los Magistrados visitadores que estén en su último año de encargo en la Junta, concluirán el Proceso de Visita el 30 de noviembre y cerrarán el período incorporando los datos que arroje la COCOVIJ para el mes de diciembre.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+###### Artículo 16.
 
-IX.- Extender las actas de sesiones públicas ordinarias y extraordinarias presentándolas a los Secretarios para su revisión antes de darse cuenta de ellas a la Cámara;
+El Proceso de Visita comprenderá la revisión de los datos jurisdiccionales y administrativos establecidos por el artículo 54, y aquéllos a que se refiere el artículo 56 en relación con los diversos 57 y 67, todos del Reglamento Interior, para realizar el análisis objetivo que permita:
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+I. Advertir el correcto funcionamiento de las Salas visitadas, constatando su regularidad en la marcha jurisdiccional y administrativa durante el periodo de la revisión, o bien;
 
-X.- Elaborar y publicar el Diario de los Debates del Congreso, así como sus órganos de difusión;
+II. Evidenciar las inconsistencias u omisiones que registren las Salas visitadas y los diversos servidores públicos adscritos a ellas, durante el desempeño de sus labores;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+III. Ponderar los rangos de productividad jurisdiccional y de calidad de sus resoluciones durante el lapso de la revisión;
 
-XI.- Extender y certificar, la documentación correspondiente, que obre en los archivos del Congreso;
+IV. Emitir las determinaciones necesarias para optimizar la función jurisdiccional y/o tomar las medidas conducentes para corregir las irregularidades o desviaciones administrativas o disciplinarias que se hayan detectado; y
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+V. Reconocer los esfuerzos sobresalientes realizados por el personal que integra este órgano jurisdiccional, a través de las constancias respectivas que deberán agregarse a su expediente.
 
-XII.- Resolver asuntos de mero trámite relacionados con las actividades de la Cámara;
+###### Artículo 17.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+Con base en la información proporcionada periódicamente, en términos del presente Reglamento, los Magistrados visitadores ponderarán los rangos de productividad y calidad jurisdiccional alcanzados durante el lapso de la revisión en, cuando menos, los siguientes aspectos:
 
-XIII.- Coordinar el trabajo de sus dependencias y las del Instituto de Investigaciones Parlamentarias;
+I. Equilibrio entre los inventarios de Ponencias y Mesas;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+II. Adecuada productividad de Magistrados, Secretarios de Acuerdos, Actuarios y Oficiales Jurisdiccionales;
 
-XIV.- Supervisar las actividades laborales del personal del Congreso;
+III. Asuntos que presenten inactividad procesal por períodos que se estimen prolongados en cada caso;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+IV. Juicios antiguos que se encuentren en trámite sin aparente justificación procesal;
 
-XV.- Procurar la conservación y mantenimiento de las instalaciones del Congreso; y
+V. Expedientes en los que haya fenecido el plazo legal para dictar sentencia;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+VI. Promociones pendientes de validar y vincular a un acuerdo;
 
-XVI.- Las demás acordadas por la Asamblea, o que prescriba esta Ley.
+VII. Incidencias en correcciones en el SICSEJ, así como en el SJL;
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+VIII. Actos de indisciplina o desacuerdos de cualquier índole entre servidores públicos; y
 
-###### ARTICULO 97.
+IX. Las demás cuestiones que resulten necesarias para alcanzar el objeto del presente Reglamento y para el debido ejercicio de la actividad de vigilancia.
 
-Para profesionalizar y hacer más eficientes los servicios de apoyo parlamentario y administrativo se instituye el servicio civil de carrera, regido por los principios de legalidad, imparcialidad, objetividad, especialización, honradez, lealtad y eficiencia. El reglamento establecerá y desarrollará las bases para la permanencia, promoción, estímulos, capacitación y actualización del personal.
+### CAPÍTULO II. DEL PROCESO DE VISITA ORDINARIA
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+###### Artículo 18.
 
-###### ARTICULO 98.
+El Proceso Permanente de Vigilancia del Desempeño Jurisdiccional y Administrativo, en su modalidad de visitas para verificar el buen funcionamiento del Tribunal, se llevará a cabo conforme a las Reglas siguientes:
 
-De la Secretaría General del Congreso dependerán las Direcciones Administrativa, de Asuntos Jurídicos y Proceso Legislativo, de Gestión y Vinculación Social y las demás unidades y Departamentos que sean necesarios para el debido cumplimiento de sus atribuciones.
+I. Inmediatamente después del Acuerdo de la Junta, los Magistrados visitadores harán el comunicado personal sobre su designación a las Salas Regionales, Especializadas, Auxiliares y/o Mixtas, que les correspondan;
 
-El nombramiento del Secretario General y demás servidores públicos directivos del Congreso será hecho por la Cámara o la Diputación Permanente, en su caso, a propuesta de la Gran Comisión, atendiendo las bases del servicio civil de carrera.
+II. Cada Magistrado visitador formulará un plan de trabajo anual, enfatizando la verificación y vigilancia periódicas del desempeño jurisdiccional y administrativo sobre los rubros que no se observen consistentes o dentro de la regularidad esperada en la Sala a visitar;
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+III. Los Magistrados visitadores harán del conocimiento oportuno de los Magistrados visitados la metodología que aplicarán durante el proceso, y designarán al personal de apoyo de sus equipos para establecer la debida coordinación con el personal acreditado por los Magistrados visitados; y
 
-###### ARTICULO 99.
+IV. En su caso, requerirán el envío del informe sobre la atención y cumplimiento de las observaciones definitivas formuladas en el Proceso de Visita del año anterior.
 
-Los Servidores Públicos del Congreso concurrirán de lunes a viernes a la oficina, a las nueve de la mañana, permaneciendo en ella al menos hasta las quince horas, sin perjuicio de continuar sus labores a cualquier hora del día, cuando así lo dispusiere el Secretario General del Congreso, con las facultades que le otorga esta Ley.
+###### Artículo 19.
 
-Todo el personal de la administración guardará durante las horas de trabajo la mayor compostura y subordinación. Cuando algún servidor violare las anteriores prevenciones, podrá el Secretario General del Congreso, con su carácter de jefe inmediato, llamarle la atención, y si reincidiere, dará cuenta a quien corresponda para los efectos a que haya lugar.
+El Proceso de Visita ordinaria a las Salas Regionales, Especializadas, Auxiliares y/o Mixtas, se realizará privilegiando el uso de la información jurisdiccional y administrativa que puede verificarse por medios electrónicos y a distancia, sin perjuicio de conformarse de tres etapas, a saber:
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+I. Etapa de revisión de gabinete o visita indirecta, que se llevará a cabo de manera mensual en la modalidad que establece el artículo 55, fracción I, inciso b) del Reglamento Interior, para conocer y constatar la regularidad de los datos jurisdiccionales y administrativos de las Salas, y para dar seguimiento a expedientes de rubros específicos que, por su naturaleza procesal, ameriten de supervisión prioritaria;
 
-###### ARTICULO 100.
+II. Etapa presencial o visita directa, que se practicará en la modalidad que establece el artículo 55, fracción I, inciso a) del Reglamento Interior, para revisar aquellos aspectos que no puedan verificarse virtualmente y, en casos de excepción, para aplicar medidas de carácter correctivo. La visita directa abarcará los aspectos que determine el Magistrado visitador o la Junta, atendiendo a la problemática particular que revista la Sala Regional, Especializada, Auxiliar y/o Mixta visitada;
 
-Para el mejor desempeño del Congreso todos los servidores públicos de éste, están obligados a prestar sus servicios indistintamente en las labores del Congreso conforme se requieran éstas, a juicio del Secretario General del Congreso. El personal de seguridad, los secretarios técnicos, los técnicos en sistemas, las secretarias y asistentes parlamentarios, así como todos los que desarrollen funciones de supervisión, serán personal de confianza.
+III. Etapa final, que tendrá lugar una vez desahogada la etapa presencial, y a cuyo término se emitirá:
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+a) Por regla general, un Pliego de observaciones definitivas que precise el plazo para su solventación por parte de la Sala visitada o del Magistrado o personal jurisdiccional o administrativo que corresponda; y
 
-###### ARTICULO 101.
+b) El Acta-Informe que dará fin al proceso anual correspondiente, y que se emitirá después de transcurridos los plazos otorgados conforme al inciso anterior, sin perjuicio de lo señalado en el artículo 15, fracción III, de este Reglamento.
 
-En todos los casos no previstos en este capítulo el Secretario General del Congreso, como jefe inmediato administrativo, ordenará lo que fuere más conveniente al buen despacho de la oficina, sujeto a los lineamientos y directrices definidas por la Gran Comisión.
+###### Artículo 20.
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+A efecto de optimizar el funcionamiento jurisdiccional y administrativo de las Salas Regionales, Especializadas, Auxiliares y/o Mixtas, los Magistrados visitadores podrán elaborar Pliegos de observaciones durante el Proceso de Visita a distancia, que serán:
 
-###### ARTICULO 32.
+I. Preventivos de recomendaciones ordinarias, que se realizarán de manera trimestral y procurando que comprendan un número razonable de aspectos solventables para no afectar el trabajo cotidiano de la Sala visitada;
 
-Los Diputados perderán el carácter de tales en los siguientes casos:
+II. Preventivos de recomendaciones extraordinarias, que se formularán en cualquier momento que se considere necesario incentivar la buena marcha de la Sala visitada, hacer notar desequilibrios jurisdiccionales graves o corregir irregularidades de colegiación o de otra índole que afecte el funcionamiento normal de la Sala visitada; y
 
-I.- Por resolución del Pleno como resultado de juicio político instaurado en su contra;
+III. El Pliego de observaciones definitivas, que se emitirá invariablemente al término de la etapa final del Proceso de Visita, conforme lo establecido en este Reglamento.
 
-II.- Por sentencia firme condenatoria en los casos a que se refiere la Constitución Política Local;
+En todos los Pliegos que se emitan, se precisarán los plazos en los que deberán ser solventadas las recomendaciones u observaciones consignadas.
 
-III.- Por no presentarse, sin causa justificada, a desempeñar el cargo para el cual fueron electos en los términos de la Constitución Política Local;
+Los Magistrados visitadores vigilarán el estricto y puntual cumplimiento de las observaciones o recomendaciones que produzcan.
 
-IV.- Por incapacidad declarada judicialmente en los términos de la ley respectiva;
+###### Artículo 21.
 
-V.- Por desempeñar otro cargo, empleo o Comisión de la Federación, Estados o Municipios, sin contar con la autorización respectiva; y
+Las recomendaciones preventivas asentadas en un Pliego, y no solventadas en tiempo, deberán consignarse en el subsecuente Pliego o, en su caso, en el Acta-Informe final, haciendo notar tal circunstancia y requiriendo se justifiquen las omisiones. En los casos que el Magistrado visitador estime relevantes, se podrá presentar un informe o denuncia de dichas omisiones a la Junta, para que determine la acción correctiva correspondiente o aplique las sanciones administrativas que procedan.
 
-VI.- Por concluir el término para el cual fueron elegidos.
+###### Artículo 22.
 
-###### ARTICULO 33.
+Los Magistrados visitadores darán aviso inmediato a la Junta, sin necesidad de Pliego alguno, cuando la trascendencia o importancia de la irregularidad detectada así lo amerite.
 
-Recibida la constancia de mayoría o de asignación proporcional, antes del día 30 de noviembre del año de la elección los Diputados electos deberán presentarse a la Secretaría General del Congreso y registrarse en el libro que a ese efecto debe llevarse en la misma, asentándose la fecha de presentación, nombre y apellidos, distrito o circunscripción electoral, domicilio, acompañando además, copia de su constancia de mayoría o de asignación proporcional, y su currícula, entregándose al interesado por parte del Congreso la certificación respectiva y convocándolo a la junta previa prevista en el artículo siguiente.
+###### Artículo 23.
 
-###### ARTICULO 34.
+La celebración de la etapa presencial, o visita directa, se practicará en la sede de la Sala Regional, Especializada, Auxiliar y/o Mixta y su inicio se publicará en el Portal del Tribunal y se comunicará al personal visitado a través del Presidente de la Sala con, al menos, cinco días hábiles de anticipación, lo mismo que la fecha, lugar y hora de la audiencia a los litigantes o personal jurisdiccional y administrativo de la Sala que la soliciten. El Presidente, o Coordinador de sede, ordenará que se fije en lugar visible de la Sala el aviso relativo a la audiencia del Magistrado visitador.
 
-El 30 de noviembre del año de la elección, a las diez horas, se llevará a cabo una junta previa a la instalación de la Legislatura, con la presencia de los Diputados propietarios electos, a fin de preparar su instalación. Si no concurriera la mayoría, la Mesa Directiva de la Legislatura saliente o su Diputación Permanente, citará para el día siguiente, en forma verbal, a los concurrentes y por escrito o por otro medio adecuado a los faltantes, a fin de que acudan.
+###### Artículo 24.
 
-El Presidente de la Mesa Directiva de la Cámara saliente, o de su Diputación Permanente, en esta reunión previa:
+De la etapa presencial o visita directa se levantará acta pormenorizada que suscribirán los Magistrados visitadores y visitados, con la asistencia del Primer Secretario de Acuerdos del Magistrado Presidente de la Sala visitada. En dicha acta se hará un resumen de los resultados consignados en los informes mensuales y en los cortes periódicos o Pliegos de observaciones preventivas que se registren durante el Proceso de Visita a distancia y por medios electrónicos, mismos que serán respaldados en los datos de la COCOVIJ y que serán agregados como anexos del acta mencionada.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+Del acta pormenorizada se entregará un ejemplar a cada uno de los Magistrados integrantes de la Sala visitada, otro lo conservará el Magistrado visitador y lo incorporará a la COCOVIJ, y otro más se presentará a la Junta, a través de la Unidad de Seguimiento de Visitas para su resguardo y evaluación consecuente.
 
-A) Dará a conocer el nombre de los Diputados que registraron su constancia de mayoría, o de asignación en su caso, ante la Secretaría General, y con la que procederá a pasar lista de presente, dando a conocer el distrito electoral o circunscripción que representan;
+###### Artículo 25.
 
-B).- Exhortará a los Diputados a integrarse a los Grupos Parlamentarios conforme a las prevenciones constitucionales y legales; y,
+La conclusión del proceso de visita ordinaria se realizará observando las siguientes etapas:
 
-C).- Citará a los Diputados electos para la sesión de instalación y dará a conocer el procedimiento previsto en la ley.
+a) La incorporación de los datos electrónicos obtenidos hasta el mes de diciembre a los resultados consignados como anexos del Acta pormenorizada que cierra la etapa presencial o visita directa;
 
-###### ARTICULO 35.
+b) Con la emisión del Pliego de observaciones definitivas; y
 
-Para la instalación de la Cámara de Diputados se reunirán éstos el día primero de diciembre del año de la elección, presididas por la Mesa Directiva de la Cámara saliente o de su Diputación Permanente y se procederá en la forma siguiente:
+c) Una vez concluido el plazo para la solventación de las observaciones definitivas, el Magistrado visitador debe elaborar el Acta-Informe para dar cuenta del desarrollo integral del Proceso de Visita.
 
-A).- El Presidente pedirá al Secretario proceda a dar lectura a la lista de los Diputados electos y comprobando que se tiene la concurrencia que prescribe el Artículo 28 de la Constitución Política del Estado, le informará al Presidente;
+### CAPÍTULO III. DE LA VISITA EXTRAORDINARIA
 
-B).- El Presidente de la Legislatura saliente o de su Diputación Permanente procederá a recibir la protesta de los miembros que integrarán la nueva Legislatura, para lo cual les pedirá se pongan de pie y dirá: "¿PROTESTAIS GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LA REPUBLICA, LA DEL ESTADO, Y LAS LEYES QUE DE ELLAS EMANEN, Y CUMPLIR LEAL Y PATRIOTICAMENTE EL CARGO DE DIPUTADO QUE EL PUEBLO OS HA CONFERIDO, MIRANDO EN TODO POR EL HONOR Y PROSPERIDAD DE LA REPUBLICA Y DEL ESTADO?" a lo que los interpelados responderán: "SÍ PROTESTO". Acto continuo, la persona que recibe la protesta expresará: "SI NO LO HICIEREIS ASI, LA REPÚBLICA Y EL ESTADO OS LO DEMANDEN";
+###### Artículo 26.
 
-C).- Acto continuo, el Presidente saliente invitará a los Diputados a elegir la Mesa Directiva de la Cámara, en escrutinio secreto y por mayoría de votos, de acuerdo con las disposiciones de esta Ley;
+Los Magistrados visitadores podrán practicar Visitas Extraordinarias en cualquier momento, como lo establece el artículo 55, fracción II, del Reglamento Interior, sin necesidad de aviso previo, cuando así lo ordene la Junta, o cuando se adviertan indicios de alguna irregularidad grave en la marcha y/o buen funcionamiento jurisdiccional y administrativo de la Sala visitada; así como cuando acontezca cualquier eventualidad que impida el desarrollo normal de sus actividades.
 
-D).- Dado a conocer el resultado de la votación por el Secretario, termina la función de la Mesa Directiva de la Legislatura saliente o de su Diputación Permanente, por lo cual se retira del presidium y los integrantes de la Mesa Directiva electa pasan a ocupar su lugar en éste. A continuación nombrará una Comisión que se encargará de acompañar a los integrantes de la Mesa Directiva de la Legislatura saliente o de la Diputación Permanente, al abandonar el recinto; y
+###### Artículo 27.
 
-E).- El Presidente de la Cámara, pedirá a los Diputados ponerse de pie y dirá en voz alta: "La (número ordinario que corresponda) Legislatura del Estado de Sinaloa, se declara legítimamente constituida e instalada y abre hoy, Primero de Diciembre de (año que corresponda) su Primer Período Ordinario de Sesiones, correspondiente al Primer Año de su Ejercicio Constitucional."
+Para la práctica de las visitas extraordinarias serán aplicables, en lo conducente y en cuanto no sean contrarias a su naturaleza, las reglas de la visita ordinaria. En el reporte de su conclusión, se procurará documentar suficientemente las causas que generaron la visita; los resultados obtenidos con la práctica de la visita, y las medidas urgentes que se hayan tomado o que se propongan a la Junta para resolver la problemática planteada.
 
-###### ARTICULO 36.
+## TÍTULO TERCERO
 
-La Mesa Directiva del Congreso se integrará con un Presidente, dos Vice-Presidentes, dos Secretarios y dos Pro-Secretarios, que serán electos por mayoría y en votación por cédula. Estos nombramientos se comunicarán a los demás Poderes del Estado.
+### CAPÍTULO I. DE LAS DISPOSICIONES COMPLEMENTARIAS DEL PROCESO DE VIGILANCIA
 
-#### SECCIÓN SEGUNDA. DEL INSTITUTO DE INVESTIGACIONES PARLAMENTARIAS
+###### Artículo 28.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+Para revisar el buen funcionamiento de las Salas Regionales, Especializadas, Auxiliares y/o Mixtas respecto al cumplimiento regular de las normas de orden, vigilancia y disciplina del Tribunal, así como la vigencia de condiciones adecuadas de clima laboral, durante la práctica de las visitas ordinarias, o fuera de ellas, se deberá:
 
-###### ARTICULO 102.
+I. Verificar el orden y disciplina imperantes en las Salas Regionales, Especializadas, Auxiliares y/o Mixtas;
 
-El Congreso del Estado contará con un Instituto de Investigaciones Parlamentarias, como órgano técnico-académico, de apoyo jurídico, legislativo, de investigación y análisis, cuyas funciones principales serán:
+II. Aplicar el instrumento o modalidad aprobados por la Junta, a efecto de conocer el clima laboral de las Salas visitadas; y
 
-I.- Realizar, promover y difundir investigaciones vinculadas con los temas relevantes del quehacer parlamentario;
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2008)</small>
+Si durante la práctica de las visitas o fuera de ellas, se detectan conflictos que pudieran afectar el clima laboral, el Magistrado Visitador fungirá como mediador, sujetándose al procedimiento previsto en este Reglamento, y
 
-II.- Proporcionar asesoría a las Comisiones Legislativas para apoyar sus dictámenes, las decisiones del Congreso, de la Diputación Permanente, de la Gran Comisión, de los Diputados, de la Secretaría General del Congreso y de la Auditoría Superior del Estado;
+III. Verificar el uso correcto de la COCOVIJ.
 
-III.- Investigar los antecedentes históricos del Poder Legislativo, así como de las leyes, códigos, decretos y acuerdos vigentes en la entidad;
+###### Artículo 29.
 
-IV.- Efectuar estudios comparativos de la legislación del Estado con la legislación federal y la que rige en otras entidades federativas;
+El Magistrado visitador podrá requerir a las Salas Regionales, Especializadas, Auxiliares y/o Mixtas, a través de sus Presidentes y/o Coordinadores de la Región, cuando la situación así lo amerite, información adicional a la que se encuentre almacenada en la COCOVIJ, debiendo precisar en dicho requerimiento la periodicidad con la que la misma será proporcionada.
 
-V.- Recabar, compilar y analizar información básica acerca de los municipios de la Entidad y la que corresponda al Estado en general;
+###### Artículo 30.
 
-VI.- Apoyar a los diputados en la elaboración de iniciativas, dictámenes, acuerdos, y demás disposiciones legales, así como en la redacción de ponencias, artículos y otros trabajos;
+Los Magistrados Instructores son responsables de allegar la información oportunamente al Presidente de la Sala a la que se encuentren adscritos, a fin de que los requerimientos formulados por el Magistrado visitador sean solventados en tiempo y forma.
 
-VII.- Proponer directrices y líneas de investigación, difusión, conservación de documentos, de intercambio bibliográfico y de experiencia en investigación parlamentaria con otros institutos o centros similares;
+###### Artículo 31.
 
-VIII.- Auxiliarse de la Biblioteca del Congreso del Estado, para obtener la información y datos estadísticos que le sean necesarios en sus actividades de investigación;
+A efecto de cumplir con lo previsto en las fracciones XXIII y XXIV del artículo 41 de la Ley Orgánica, durante la práctica de las etapas presenciales o en las visitas extraordinarias, de ser necesario, los Magistrados visitadores supervisarán la correcta operación de las Oficialías de Partes Comunes o de Sala; así como del Módulo de Registro de usuarios del SJL y del Sistema Automático de Recepción de Oficialía de Partes (SAROP); de las coordinaciones y oficinas de Actuarios; y de las áreas de Archivo, atendiendo a lo siguiente:
 
-IX.- Organizar la impartición de cursos en técnica legislativa y Derecho Parlamentario, así como seminarios, congresos, coloquios, conferencias, y mesas redondas, relacionados con el trabajo parlamentario; y
+I. En las Oficialías de Partes Comunes o de Sala, se verificarán los siguientes aspectos:
 
-X.- Las demás que le asigne la Gran Comisión, la Secretaría General o el Congreso le confiera.
+a) Que los datos del SICSEJ coincidan con los de la demanda y promociones presentadas por las partes, así como los datos capturados en el Subsistema de Juicio Tradicional;
 
-Al frente del Instituto habrá un Director y contará con las unidades y Departamentos que fije su Reglamento Interior conforme al cual se desarrollarán sus funciones.
+b) Que el llenado del sello asentado por el Oficial de Partes corresponda con la documentación exhibida por las partes;
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE JULIO DE 2008)</small>
+c) Que los acuses de recibo contengan el sello en el que conste la fecha en que fueron recibidos en la Sala; para el caso del SJL, el uso correcto y adecuado de las caratulas y etiquetas correspondientes; y
 
-### CAPITULO IX. DE LA AUDITORIA SUPERIOR DEL ESTADO
+d) El tiempo que se emplea para turnar las promociones recibidas a las Ponencias.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2008)</small>
+II. En los Archivos se verificará:
 
-###### ARTICULO 103.
+a) Que reciban con la oportunidad debida física y electrónicamente, las demandas, oficios, constancias de notificación, promociones, acuses de recibo y demás documentos relacionados con los juicios radicados en la ponencia, a fin de ser integrados al expediente respectivo, debidamente cosidos y foliados cronológicamente;
 
-La Auditoría Superior del Estado es el órgano técnico mediante el cual el Congreso del Estado ejerce su facultad exclusiva de Fiscalización Superior, consistente en la revisión y fiscalización de las cuentas públicas de los Poderes del Estado, de los municipios y de las demás entidades y personas que ejercen recursos públicos.
+b) Que los datos de las carátulas de los expedientes coincidan con aquéllos de los juicios de que se trate;
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2008)</small>
+c) El tiempo que tarda en turnar al Secretario de Acuerdos la demanda, promoción, oficio o documento de que se trate, debidamente integrado al expediente respectivo, así como registrar el movimiento en el SICSEJ o en el SJL, según corresponda, a partir de la fecha en que se los turna la Oficialía de Partes o la Actuaría;
 
-###### ARTICULO 104.
+d) Que los expedientes archivados se encuentren separados entre los de trámite y aquellos que se encuentran concluidos, y que guarden un orden cronológico de más antiguos a más recientes, atendiendo a su fecha de presentación;
 
-La Auditoría Superior del Estado, como órgano técnico de fiscalización general en la Entidad, en los términos de esta Ley y de la Ley de la Auditoría Superior del Estado, será coordinada por la Comisión de Fiscalización en su relación con el Congreso del Estado.
+e) El lugar en que se archivan las pruebas físicas voluminosas, y verificar que se encuentren debidamente identificadas con el expediente al que corresponden;
 
-###### ARTICULO 105.
+f) Si las “carpetas falsas” se encuentran correctamente integradas, foliadas, y ordenadas conforme a los criterios del inciso d) anterior;
 
-(DEROGADO, P.O. 25 DE JULIO DE 2008)
+g) Que la depuración de los expedientes a su cargo se haya realizado en los términos y condiciones que señalen las reglas que en su caso apruebe la Junta; y
 
-## TITULO QUINTO. DEL FUNCIONAMIENTO DEL CONGRESO
+h) Los demás aspectos que determine el Magistrado visitador, atendiendo a cada caso en concreto y conforme a lo previsto en el artículo 45 del Reglamento Interior.
 
-### CAPITULO I. DE LOS PERIODOS DE SESIONES
+III. En las coordinaciones y oficinas de Actuarios se revisará:
 
-###### ARTICULO 106.
+a) Que las notificaciones se practiquen en la forma y plazos legales;
 
-El Congreso del Estado tendrá cada año dos períodos ordinarios de sesiones prorrogables a juicio de la Cámara por el tiempo que fuera necesario. El primero comenzará el día primero de Diciembre y terminará a más tardar el día primero de Abril siguiente y, el segundo principiará el día primero de junio y concluirá a más tardar el día primero de Agosto inmediato posterior.
+b) Que los documentos que contengan las notificaciones efectuadas por boletín electrónico se registren correctamente, y que las listas de autos y resoluciones se fijen en un sitio accesible para las partes;
 
-Cada período ordinario de sesiones durará el tiempo necesario para tratar los asuntos de su competencia, pudiéndose terminar los trabajos antes de las fechas mencionadas.
+c) Que las fechas de las notificaciones se encuentren registradas en el SICSEJ o en el SJL, según proceda, y que coincidan con las constancias respectivas que obran en el expediente;
 
-###### ARTICULO 107.
+d) Que los expedientes que físicamente se encuentren en la Actuaría, hayan sido recibidos electrónicamente en el SICSEJ o en el SJL;
 
-El Congreso podrá ser convocado a período extraordinario de sesiones, siempre que lo disponga:
+e) El tiempo que tardan para remitir los expedientes al Archivo o, en su caso, las constancias de notificación en aquellas Regiones en que no se envíen los expedientes físicamente, una vez que se encuentran debidamente notificados a las partes o se hayan depositado las piezas postales tratándose de notificaciones por correo certificado.
 
-I.- La Diputación Permanente;
+### CAPÍTULO II. DEL USO DE TECNOLOGÍAS DE LA INFORMACIÓN Y LAS COMUNICACIONES
 
-II.- La mayoría absoluta de los Diputados;
+#### SECCIÓN I. DE LA COMUNIDAD DE CONTROL Y VIGILANCIA JURISDICCIONAL
 
-III.- El Ejecutivo del Estado, y
+###### Artículo 32.
 
-IV.- El Supremo Tribunal de Justicia del Estado.
+La Comunidad de Control y Vigilancia Jurisdiccional a que se refiere el artículo 9 del presente Reglamento, es un software diseñado para constituir una herramienta de trabajo colaborativo, que permita a los Magistrados visitadores y visitados, y al personal jurisdiccional y administrativo involucrado en el proceso permanente de vigilancia: gestionar, almacenar e intercambiar información en los diversos formatos electrónicos previamente aprobados por la Junta; proporcionando la funcionalidad necesaria para procesar y analizar la información registrada por las áreas jurisdiccionales y administrativas. La COCOVIJ tendrá, cuando menos, las siguientes funciones y características:
 
-En los últimos tres casos, la convocatoria se hará por conducto de la misma Diputación Permanente. En los períodos extraordinarios se tratarán de preferencia los asuntos que los motiven, sin perjuicio de los que señale la Constitución y de los que a juicio de la Cámara deban también resolverse.
+I. Constituir la herramienta informática amigable instrumentada para facilitar la recopilación, almacenamiento, sistematización y análisis de la información recabada en los procesos anuales de Visita;
 
-###### ARTICULO 108.
+II. Servir de canal de interacción, permanente y en tiempo real, de Magistrados visitadores y Magistrados visitados para garantizar su coordinación, diálogo y acceso a la información generada en el proceso, de manera directa, oportuna, clara y flexible;
 
-Si el Congreso estuviere en período extraordinario de sesiones cuando deba comenzar el ordinario, cerrará aquél para inaugurar éste. A la apertura y clausura de todo período extraordinario de sesiones o prórroga del ordinario, deberán proceder los Decretos respectivos.
+III. Registrar y compilar electrónicamente las observaciones preventivas o definitivas y las preevaluaciones periódicas producidas por los Magistrados visitadores, así como los informes de cumplimiento, aclaración o corrección que, a su vez, provengan de los Magistrados visitados;
 
-###### ARTICULO 109.
+IV. Establecer espacios de colaboración que permitan a los Magistrados visitados formular los comentarios, observaciones, aportaciones, dudas o sugerencias que estimen pertinentes en relación con las funciones de vigilancia ejercidas por la Junta o con el proceso permanente de Visita anual;
 
-En los días indicados el Congreso se reunirá en sesión solemne, para la apertura y clausura de sus períodos ordinarios de sesiones que la Mesa Directiva nombrada realizará mediante la siguiente declaración de su Presidente:
+V. Registrar y compilar electrónicamente las actas administrativas y demás constancias que los Magistrados visitados registren mensualmente; y de manera oportuna, los actos de indisciplina, incidencias, conductas incorrectas o conflictos de cualquiera índole que se susciten entre los servidores públicos visitados, que afecten negativamente el clima laboral de la Sala, o contravengan el Código de Ética. La SOTIC garantizará que esta funcionalidad se realice en un espacio de almacenamiento con máximos controles de acceso y de carácter reservado de la información, la cual será considerada confidencial y de uso oficial para el desarrollo de las investigaciones que correspondan en cada caso;
 
-"El Congreso del Estado de Sinaloa (abre-clausura) hoy (fecha) el (Primero-Segundo) Período Ordinario de sesiones correspondiente al (año respectivo) de su Ejercicio Constitucional".
+VI. Proporcionar reportes mensuales que permitan a los Magistrados visitados la previsualización y validación, según corresponda, de la información jurisdiccional y administrativa generada por la Sala, misma que deberá ser desplegada por Sala, Ponencia (Magistrados) y/o Mesa (Secretario de Acuerdos);
 
-###### ARTICULO 110.
+VII. Prever las facilidades tecnológicas necesarias para posibilitar cualquiera otra solución informática que se considere conveniente por la Junta o por los Magistrados visitadores, durante el desarrollo del Proceso de Visita anual, respecto de una Región, Sede o Sala en particular;
 
-Para el caso de la apertura y clausura de sus períodos extraordinarios de sesiones, la Mesa Directiva nombrada realizará las mismas, mediante la siguiente declaración de su Presidente:
+VIII. Permitir las aplicaciones que se requieran para optimizar el funcionamiento y desarrollo del Sistema de Vigilancia y la mejora continua del Proceso de Visita;
 
-"El Congreso del Estado de Sinaloa (abre-clausura) hoy (fecha) el (número) Período Extraordinario de Sesiones".
+IX. Impulsar la integración y desarrollo dentro del SJL, de un Subsistema de información estadística sobre el desempeño del Tribunal, que contemple los aspectos previstos en los artículos 57 y 58 del Reglamento Interior o, por lo menos: el número de asuntos atendidos, su materia, su cuantía, la duración de los procedimientos, el rezago, y las resoluciones confirmadas, revocadas o modificadas; y
 
-### CAPITULO II. DEL PROCESO LEGISLATIVO
+X. Proveer la instrumentación de un sistema electrónico de información curricular de los servidores públicos del Tribunal.
 
-###### ARTICULO 37.
+###### Artículo 33.
 
-Los integrantes de la Mesa Directiva durarán en su cargo un mes, pudiendo ser reelectos. Para su integración se observará la composición plural del Congreso.
+Los espacios de almacenamiento de la COCOVIJ contarán con información jurisdiccional y administrativa de las Salas Regionales, Especializadas, Auxiliares y/o Mixtas, a efecto de que los Magistrados visitadores cuenten con elementos objetivos durante el proceso de vigilancia del desempeño y el funcionamiento de éstas.
 
-###### ARTICULO 38.
+###### Artículo 34.
 
-Los integrantes de la Mesa Directiva de la Cámara serán electos en la última sesión de cada mes, y asumirán sus cargos en la sesión siguiente de aquélla en que hubieren sido designados; excepto los casos que por acuerdo de la Asamblea se disponga en otra forma.
+Para todas las comunicaciones y avisos relacionados con el objeto del presente Reglamento, la COCOVIJ proporcionará al menos los siguientes espacios de colaboración: foros de discusión, y tablero de mensajes o correos electrónicos, que garanticen una comunicación eficiente y segura entre los usuarios que intervienen en el proceso de vigilancia del desempeño y funcionamiento de las áreas jurisdiccionales.
 
-#### SECCION PRIMERA. DE LAS SESIONES
+La COCOVIJ contará con una aplicación que permita llevar el control estadístico de las correcciones que se realicen en la información del SICSEJ y/o SJL, para que la Junta cuente con datos suficientes y precisos para:
 
-###### ARTICULO 111.
+I. Diseñar y aplicar los programas de capacitación relacionados con el área tecnológica;
 
-Las sesiones del Congreso podrán ser: públicas, secretas, ordinarias, extraordinarias y solemnes.
+II. Dictar las medidas correctivas conducentes; y
 
-###### ARTICULO 112.
+III. Turnar las denuncias respectivas a la Secretaria Auxiliar de la Junta para su trámite o, bien, para que se dé intervención a la Contraloría Interna de este Tribunal, cuando se involucre a personal no jurisdiccional.
 
-Habrá sesión pública los martes y jueves de cada semana, con excepción de los días de festividad nacional, estatal y los que disponga la Cámara. Dicha sesión comenzará a las once de la mañana, a menos que el Presidente de la Cámara convoque a otra hora, pudiendo durar tres horas y podrá prorrogarse a juicio de la Cámara, dependiendo de la naturaleza de los asuntos en cartera.
+###### Artículo 35.
 
-Durante las sesiones podrá haber recesos cuando el Presidente así lo considere oportuno o conveniente para concertar un acuerdo legislativo, integrar debidamente un expediente, modificar un dictamen o cuando por acuerdo del Pleno, a propuesta de uno o más Diputados, así lo requiera algún asunto. La duración del receso será determinada por el Presidente de la Mesa Directiva.
+La SOTIC, por conducto de sus unidades administrativas, llevará a cabo:
 
-###### ARTICULO 113.
+I. La implementación y operación de la COCOVIJ en los términos indicados en el artículo 32 de este Reglamento;
 
-Habrá sesión pública extraordinaria cuando lo juzgue conveniente el Presidente del Congreso, pudiéndose celebrar aún en los días exceptuados en el artículo anterior y comenzando a la hora que el Presidente designe.
+II. El acopio mensual de la información y procesos necesarios que permitan el procesamiento, análisis y generación de reportes de la información proporcionada por las Salas Regionales, Especializadas, Auxiliares y/o Mixtas, para la verificación del buen funcionamiento del Tribunal y para la aplicación de las medidas correctivas necesarias;
 
-###### ARTICULO 114.
+III. El establecimiento de los espacios de almacenamiento de datos o información, y de las modalidades de colaboración que los Magistrados visitadores, o la Junta, requieran para las Salas Regionales, Especializadas, Auxiliares y/o Mixtas;
 
-Habrá sesión secreta, cuando existan asuntos que lo ameriten y el Presidente de la Cámara lo disponga.
+IV. El otorgamiento de los permisos correspondientes para el acceso y administración de los espacios de colaboración a los Magistrados visitadores y sus equipos de apoyo acreditados;
 
-###### ARTICULO 115.
+V. La difusión y aplicación de las políticas de seguridad y confidencialidad aplicables a la COCOVIJ; y
 
-Las sesiones serán solemnes, cuando así lo requieran los asuntos a tratar en las mismas o cuando así lo determine la ley y podrán concurrir como invitados de honor las personas que para tal efecto acuerde invitar el Congreso.
+VI. El desarrollo de un mecanismo de captura, control y estadística de las solicitudes de corrección al SICSEJ y/o SJL, de las acciones que se lleven a cabo para ese efecto, y de las causas que originaron las correcciones.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1997)</small>
+###### Artículo 36.
 
-Siempre serán solemnes las sesiones que se celebren los días primero de diciembre y primero de junio de cada año, al inicio de cada período ordinario de sesiones, en las que se rendirán honores a la Bandera Nacional.
+La SOTIC, como Administradora general de la COCOVIJ, implementará los mecanismos de seguridad y confidencialidad necesarios para que:
 
-###### ARTICULO 116.
+I. Los Magistrados visitadores y sus colaboradores tengan acceso a la información de las Salas designadas para el Programa de Visitas;
 
-Serán tratados en sesión secreta:
+II. Sólo el personal que determine la Junta tenga acceso a la información contenida en los espacios de almacenamiento y/o colaboración asignados; y
 
-I.- Las acusaciones que se hagan contra los servidores públicos de que habla la fracción XX del artículo 43 de la Constitución, conforme a lo dispuesto en el Título VI de la misma;
+III. En general, la COCOVIJ guarde el registro de los movimientos efectuados y sus autores, con la fecha y hora en que se realizaron.
 
-II.- Los oficios que con nota de reservados se dirijan al Congreso;
+El resguardo y uso de los permisos de acceso concedidos serán responsabilidad de los usuarios, quienes respetarán en todo tiempo las políticas de seguridad y acceso a los espacios de colaboración asignados.
 
-III.- Cuando se traten los asuntos que tengan por objeto la organización interna del Congreso, los relativos a los asuntos económicos de éste, así como los que se refieran a los deberes de los Diputados; y
+#### SECCIÓN II. DE LAS ACTIVIDADES DEL PERSONAL VISITADOR
 
-IV.- Los demás negocios que la Cámara calificare que necesitan reserva.
+###### Artículo 37.
 
-###### ARTICULO 117.
+En enero de cada año se iniciarán las actividades de la función de vigilancia y, a partir del mes de febrero, se procederá a la interpretación de la información sobre el desempeño jurisdiccional y administrativo, consolidada y sistematizada a través de la COCOVIJ.
 
-Para que haya sesión se necesita la concurrencia de más de la mitad del número total de Diputados.
+###### Artículo 38.
 
-###### ARTICULO 118.
+Durante las etapas del proceso de vigilancia realizado a través de la modalidad de visitas, y con independencia de la problemática específica de cada Sala, se verificarán mensualmente los datos jurisdiccionales que se recaben, validen, analicen y sistematicen conforme al artículo anterior, para dar cumplimiento a las regulaciones del artículo 11 del presente ordenamiento. Del mismo modo se procederá para atender lo dispuesto en el artículo 51 de este Reglamento.
 
-Los Diputados tienen la obligación de asistir a todas las sesiones y de permanecer en ellas durante todo el tiempo de su duración.
+#### SECCIÓN III. DE LAS ACTIVIDADES DEL PERSONAL DE LAS ÁREAS ADMINISTRATIVAS
 
-###### ARTICULO 119.
+###### Artículo 39.
 
-Cuando por causa justificada algún Diputado no pudiere asistir a sesión, o continuar en ella, lo avisará al Presidente; pero si la ausencia le impidiere concurrir a más de dos sesiones, lo participará por escrito solicitando el permiso necesario.
+La información jurisdiccional se recabará en el Reporte mensual para visitas, los cuales serán requisitados:
 
-###### ARTICULO 120.
+I. Para las Salas Regionales, Especializadas, Auxiliares y/o Mixtas con sede en el Distrito Federal, por la Dirección General del Sistema del Justicia en Línea, en adelante la DGSJL, que desglosará la información a nivel de Sala, Magistrado, Secretario de Acuerdos y Actuarios; y
 
-El Presidente puede conceder licencia a los Diputados para que en un mes falten hasta por tres sesiones, en cuyo caso no se omitirá el pago de dietas.
+II. Para el resto de las Salas Regionales, Especializadas, Auxiliares y/o Mixtas con sede distinta del Distrito Federal, por los Delegados de TICs acreditados, los que desglosarán la información a nivel de Sala, Magistrado, Secretario de Acuerdos y Actuarios.
 
-###### ARTICULO 121.
+#### SECCIÓN IV. DE LA INTERACCIÓN DE LAS ÁREAS JURISDICCIONALES Y ADMINISTRATIVAS
 
-La autorización de solicitud de licencia a los Diputados, para faltar a sesiones, estará sujeta a que se cuente con el número necesario para que pueda funcionar el Congreso. Si la licencia excede de tres sesiones, solamente la Cámara podrá concederla.
+###### Artículo 40.
 
-En los casos de licencias concedidas a los Diputados propietarios, la Cámara resolverá si debe o no llamar a los Diputados suplentes respectivos.
+Los Magistrados visitadores y sus colaboradores, los Magistrados de las Salas visitadas, los Delegados Administrativos y de TICs, así como el Titular de la Unidad de Seguimiento de Visitas, son los únicos servidores públicos que, en principio, tendrán acceso a la COCOVIJ y exclusivamente por lo que respecta a los campos de su competencia para los que hayan sido acreditados.
 
-###### ARTICULO 122.
+###### Artículo 41.
 
-Concluido el período de sesiones, los Diputados, con excepción de los que forman la Diputación Permanente, podrán retirarse del lugar de residencia del Poder Legislativo, disfrutando de sus dietas, pero tendrán la obligación de presentarse con la debida oportunidad si fueren citados a período extraordinario.
+La información jurisdiccional proporcionada por la DGSJL y por los Delegados de TICs sobre las Salas Regionales, Especializadas, Auxiliares y/o Mixtas, previamente validada por los Magistrados de las Salas visitadas, será registrada en la COCOVIJ y estará disponible para su uso en el cumplimiento del objeto del presente Reglamento.
 
-###### ARTICULO 123.
+###### Artículo 42.
 
-Los titulares de las dependencias administrativas del Ejecutivo, asistirán a las sesiones de acuerdo a lo preceptuado por la Constitución, siempre que fueren enviados por el Gobernador o llamados por acuerdo de la Cámara para asistir a alguna discusión para que informen, cuando se discuta una Ley o Decreto o se estudie un negocio concerniente a sus respectivos ramos o actividades. Esta disposición se aplicará asimismo a los representantes del Supremo Tribunal de Justicia del Estado y de los Ayuntamientos.
+Las unidades administrativas de la SOTIC; de la SOA; de la Secretaría Auxiliar de la Junta y, en su caso, los Delegados de TICs y los Delegados Administrativos adscritos a las Salas Regionales, Especializadas, Auxiliares y/o Mixtas, al igual que el personal jurisdiccional o administrativo de éstas, se encuentran obligados a proporcionar a los Magistrados visitadores, adicionalmente a la recabada en la COCOVIJ, la información jurisdiccional o administrativa a que se refiere el artículo 54 del Reglamento Interior, así como toda aquélla que se estime necesaria para el esclarecimiento de cuestiones inherentes a la vigilancia, o a casos concretos encomendados por la Junta, cuya resolución no sea posible con los datos de la COCOVIJ.
 
-###### ARTICULO 39.
+###### Artículo 43.
 
-Cuando se hubiere convocado a Período Extraordinario de Sesiones del Congreso, en la primera sesión será electa la Mesa Directiva que funcionará en dicho período.
+La información jurisdiccional que se recopile en la COCOVIJ tendrá como propósito conocer la evolución del trabajo jurisdiccional y administrativo de la Sala visitada. De tales datos se verificará si los 52 indicadores que reflejan el buen funcionamiento del Tribunal evidencian regularidad; o si los indicadores de los datos duros, relativos a la productividad, constancia, regularidad y efectividad en el desempeño jurisdiccional, arrojan diferencias positivas o negativas entre uno y otro. Se estiman como datos duros aquellos en los cuales quedan subsumidos los demás indicadores, toda vez que éstos corresponden al desahogo de etapas procesales necesarias para arribar a los productos jurisdiccionales que se reflejan en aquéllos.
 
-#### SECCION SEGUNDA. DEL CEREMONIAL
+A partir de la interpretación y evaluación preliminar que realicen a la información referida en el párrafo anterior, los Magistrados visitadores producirán las recomendaciones preventivas y recomendarán las medidas pertinentes que eviten que una Sala, una Ponencia, una Secretaría de Acuerdos, una Actuaría, un Archivo o una Oficialía de Partes, se ubiquen en estado de alarma jurisdiccional o en zonas de conflicto procesal.
 
-###### ARTICULO 124.
+###### Artículo 44.
 
-Los Diputados asistirán a las sesiones desde el principio hasta su conclusión y ocuparán las curules que les correspondan, excepto los integrantes de la Mesa Directiva, quienes se ubicarán bajo el dosel del Salón de Sesiones, en el recinto oficial.
+Para efectos del artículo anterior, la DGSJL y los Delegados de TICs de las Salas visitadas, según corresponda, procederán conforme a los siguientes lineamientos:
 
-###### ARTICULO 125.
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 2014)</small>
 
-Cuando el ciudadano Presidente de los Estados Unidos Mexicanos o su representante personal asista a alguna sesión solemne, ocupará el lugar situado a la derecha del Presidente del Congreso, y el Gobernador del Estado, el lugar de la izquierda.
+1. Se entiende como “cierre”: el último día hábil de cada mes, o excepcionalmente la fecha distinta que autorice la Junta, en que los usuarios del SICSEJ pueden incorporar, modificar, validar o firmar actuaciones procesales de todo tipo en el Sistema. Transcurrida esa fecha, la DGSJL, y/o el Delegado de TICs, ejecutarán la aplicación denominada “candado” de cierre en el SICSEJ, con el propósito de impedir que los usuarios del Sistema modifiquen la información registrada en ese período, con posterioridad al “cierre”; ésta fecha también se considerará como cierre en el Subsistema de Juicio Tradicional del Sistema de Justicia en Línea, en adelante SJT, para la emisión del Reporte Mensual para visitas a que se refiere el numeral siguiente.
 
-En caso de que no asista el Presidente de los Estados Unidos Mexicanos o su representante, el Gobernador del Estado o su representante personal, ocupará el asiento de la derecha del Presidente del Congreso, y el Presidente del Supremo Tribunal de Justicia o su representante, el lugar de la izquierda.
+2. Una vez activada la aplicación denominada “candado” de cierre, la DGSJL, y/o el Delegado de TICs de la Sala que corresponda, generarán el Reporte mensual para visitas por Ponencia y Mesa. El reporte, que será elaborado el primer día hábil posterior a la fecha de cierre, contendrá la estadística de la actividad jurisdiccional generada durante el periodo de que se trate, misma que será puesta a disposición de los Magistrados Instructores y sus equipos el mismo día, para que procedan a su revisión y validación hasta por un término de 5 días hábiles;
 
-###### ARTICULO 126.
+3. En caso de detectar inconsistencias en la información del Reporte mensual de visitas, los Magistrados Instructores las remitirán a la DGSJL y/o a los Delegados de TICs que correspondan, mediante el formato “Reporte de ajustes al informe mensual de visitas” y dentro de los tres días siguientes a que se aplique el candado de “cierre”, a través del cual podrán solicitar los ajustes o correcciones que consideren pertinentes. Dentro de los cinco días siguientes a que se aplique el candado de “cierre”, la DGSJL y/o los Delegados de TICs, con la participación de los Secretarios de Acuerdos y demás personal jurisdiccional que determine el Magistrado Instructor, deberán efectuar los ajustes o correcciones solicitados, cerciorándose, previamente, y dentro del mismo plazo, que los cambios solicitados son procedentes.
 
-Si se tratare de la sesión solemne en que el Gobernador del Estado deba rendir la protesta constitucional para asumir el cargo, se situará a quien hubiese desempeñado la titularidad del Poder Ejecutivo hasta antes de la fecha de la protesta, en el lugar que corresponda al Gobernador, pero una vez rendida la protesta por el nuevo titular del Poder Ejecutivo, aquél deberá ceder su lugar a éste, y ocupar el que al efecto se le haya designado en el presidium.
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 2014)</small>
 
-###### ARTICULO 127.
+Sin el requisito de validación de correcciones sumarias o de otro tipo de inconsistencias hechas valer oportunamente, la información no será considerada como definitiva y las personas que hayan provocado las omisiones respectivas, serán objeto de sanción en los términos procedentes.
 
-En el momento de rendir la protesta el Gobernador del Estado, el Presidente del Congreso, los Diputados y demás asistentes deberán permanecer de pie.
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 2014)</small>
 
-###### ARTICULO 128.
+En caso de que, con posterioridad a los plazos contenidos en este numeral, sean necesarias correcciones extraordinarias en el SICSEJ, SJT y/o SJL, el Magistrado Instructor que corresponda, dentro del mes siguiente a aquél en que se generó el error o inconsistencia, solicitará la modificación respectiva a la DGSJL y/o al Delegado de TICs, para que, previa revisión de la causa del error y su consecuente verificación física en el expediente respectivo, procedan a realizar la corrección o ajuste solicitados, dando cuenta detallada a la SOTIC, al Magistrado visitador y a la Contraloría Interna para efectos de transparencia y firmeza de la información. Las correcciones a que se refiere este párrafo deberán consignarse en la COCOVIJ precisamente en el reporte del mes siguiente, con la consiguiente nota explicativa;
 
-Si al concluir la protesta, el Gobernador dirige la palabra al Congreso, el Presidente del Congreso podrá dar contestación.
+> <small>(REFORMADO, D.O.F. 3 DE JULIO DE 2014)</small>
 
-###### ARTICULO 129.
+4. Fuera de los casos extraordinarios señalados en la parte final del numeral anterior, al sexto día hábil siguiente a que se active el candado de “cierre”, la DGSJL y/o el Delegado de TICs, emitirá nuevamente el Reporte mensual para visitas de los asuntos generados por la actividad jurisdiccional, por Ponencia y Mesa, donde se reflejarán los ajustes realizados a petición del Magistrado Instructor, asimismo, el “Reporte de ajustes al informe mensual de visitas”, deberá remitirse a la Contraloría Interna por conducto de la Unidad de Seguimiento de Visitas, para el ejercicio de sus atribuciones, conservando la DGSJL una copia de dicho reporte.
 
-Cuando se trate de la protesta constitucional que deberá rendir algún Diputado o funcionarios de los que deban hacerlo ante el Congreso, el Presidente de la Mesa Directiva designará una Comisión que lo introduzca al recinto y lo acompañe posteriormente, a su lugar o fuera del recinto, según el caso.
+Los Secretarios de Acuerdos respectivos deberán asistir a los Delegados de TICs y al personal autorizado de la DGSJL, en la identificación y modificación de las correcciones derivadas de los reportes de inconsistencias que se señalan en el presente artículo.
 
-###### ARTICULO 130.
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2014)</small>
 
-En cualquier sesión a que deban asistir, siempre se destinarán lugares preferentes en el recinto a los Gobernadores de otras entidades, a los altos servidores de la Federación, del Estado o de otras entidades federativas.
+5. También procederán las correcciones de forma sumaria y extraordinaria, cuando derive de una inconsistencia observada con motivo de la confronta llevada a cabo por un Magistrado Visitador, aunque la inconsistencia sea de más de un mes atrás.
 
-###### ARTICULO 131.
+> <small>(ADICIONADO, D.O.F. 3 DE JULIO DE 2014)</small>
 
-Siempre se destinará un lugar especial en el recinto a los Magistrados del Supremo Tribunal de Justicia, a los titulares de las dependencias del Ejecutivo Estatal y de los organismos descentralizados, a los integrantes de los Ayuntamientos de la entidad y a los miembros de los cuerpos diplomático y consular.
+6. Para correcciones de inconsistencias cometidas o detectadas de más de un mes atrás, que no deriven de una observación de un Magistrado Visitador, se deberá seguir el procedimiento ordinario establecido en el último párrafo, del artículo 66, del Reglamento Interior.
 
-###### ARTICULO 132.
+Con base en la información obtenida de la COCOVIJ, o de otros medios idóneos de información institucional, los Magistrados visitadores constatarán la buena marcha jurisdiccional y administrativa de las Salas y rendirán las conclusiones conducentes para que la Junta proceda a la evaluación del estado que guarda el funcionamiento del Tribunal.
 
-Es facultad del Congreso celebrar dentro o fuera del recinto oficial reuniones de trabajo y audiencias públicas, para conocer directamente de los sectores de la población, cualquier criterio u opinión que juzgue conveniente recabar, para la mejor elaboración de los dictámenes de Ley, de Decreto o de Acuerdo. Dichas reuniones y audiencias podrán celebrarlas tanto la Asamblea, la Diputación Permanente o las Comisiones.
+###### Artículo 45.
 
-###### ARTICULO 133.
+En el caso de las Salas Regionales, Especializadas, Auxiliares y/o Mixtas que realizan el trámite del juicio contencioso administrativo en línea, o en la modalidad tradicional pero utilizando las plataformas tecnológicas del SJL aplicarán en lo conducente las disposiciones contenidas en este Ordenamiento.
 
-Al término de la sesión de clausura del período ordinario de sesiones, el Presidente del Congreso nombrará una Comisión de Diputados para que participen al Gobernador del Estado y al Presidente del Supremo Tribunal de Justicia la clausura.
+###### Artículo 46.
 
-###### ARTICULO 40.
+No obstante lo dispuesto en el artículo anterior, la Junta podrá en todo momento expedir la normatividad específica que permita la operación eficiente del sistema de vigilancia del desempeño jurisdiccional y administrativo en las Salas a que se refiere el artículo anterior, en vista de la naturaleza, evolución tecnológica y características propias del SJL.
 
-Los integrantes de la Mesa Directiva sólo podrán ser removidos de sus cargos por causas graves que afecten las funciones legislativas.
+De expedirse normas específicas conforme a este artículo, una vez estabilizados los procesos de instrumentación e implementación de las modalidades tecnológicas respectivas, tales preceptos deberán integrarse al presente cuerpo normativo mediante su adición.
 
-###### ARTICULO 41.
+###### Artículo 47.
 
-Corresponde a la Mesa Directiva, bajo la autoridad de su Presidente, preservar la libertad de las deliberaciones, cuidar de la efectividad del trabajo legislativo y aplicar con imparcialidad las disposiciones de esta Ley, sus Reglamentos y los Acuerdos que apruebe el Congreso.
+El Reporte mensual para visitas que deberá proporcionar la DGSJL y los Delegados de TICs, contendrá los siguientes datos jurisdiccionales:
 
-###### ARTICULO 42.
+I. De las Salas Regionales y Especializadas:
 
-Son atribuciones de la Presidencia:
+a) En el aspecto cuantitativo:
 
-I.- Abrir, prorrogar, suspender y clausurar las sesiones;
+1. Inventario inicial: integrado por el número de asuntos que se encontraban en trámite al primer día del periodo correspondiente;
 
-II.- Dar curso reglamentario a los asuntos y determinar los trámites a que deban sujetarse, cuando se dé cuenta a la Cámara de ellos;
+2. Inventario final: que se integra por el número de asuntos que se encuentren en trámite al último día hábil del periodo;
 
-III.- Presidir y conducir los debates y las deliberaciones en la Cámara, pudiendo participar en ellos, cuidando la eficiencia de los trabajos y dignidad del Congreso;
+3. Total de ingresos en el periodo: que se integra por el número de asuntos dados de alta que se registran dentro del periodo;
 
-IV.- Establecer y vigilar el cumplimiento del orden del día de las sesiones;
+4. Total de bajas en el periodo: número de asuntos que se concluyen dentro del periodo, por sentencia o por acuerdo;
 
-V.- Conceder la palabra a los Diputados por el turno en que la pidiesen, procurando en lo posible que la usen alternativamente los que hablen en pro y los que hablen en contra, o negarla cuando el asunto sobre el cual se pida la palabra no se esté tratando en ese momento o ya se haya tratado anteriormente;
+5. Demandas recibidas en juicio ordinario: constituyen las demandas nuevas que se presentan en el período para su trámite en la vía ordinaria;
 
-VI.- Otorgar la palabra solamente cuando esté a discusión el asunto;
+6. Demandas recibidas en juicio sumario: constituyen las demandas nuevas que se presentan en el período para su trámite en la vía sumaria;
 
-VII.- Llamar al orden al que faltare al mismo, por sí o excitado por algún otro miembro de la Cámara. Los Diputados que abandonen la sesión sin permiso de la Presidencia, no podrán regresar a la misma;
+7. Total de demandas recibidas: se integra por la suma de las demandas nuevas recibidas en el período para su trámite en las vías ordinaria y sumaria;
 
-VIII.- Exigir orden al público asistente a las sesiones e imponerlo cuando hubiere motivo para ello;
+8. Demandas recibidas por día hábil: lo constituye el total de demandas presentadas en el período, dividido entre los días hábiles del año de que se trate;
 
-IX.- Solicitar el auxilio de la fuerza pública cuando fuese necesario y en los términos de esta Ley;
+9. Sentencias de fondo emitidas: número de sentencias emitidas en el período que resuelven el fondo de un asunto, y concluyen declarando su nulidad, la nulidad para efectos, reconociendo la validez de la resolución impugnada, o reconociendo la existencia de un derecho subjetivo y condenando al cumplimiento de la obligación correlativa;
 
-X.- Firmar en unión de los Secretarios, las Leyes, Decretos, Reglamentos y Acuerdos que expida el Congreso, así como el acta de cada sesión, inmediatamente después de que haya sido aprobada;
+10. Sentencias de sobreseimiento emitidas: número de sentencias que en el período sobreseen el juicio, sin entrar al estudio de fondo;
 
-XI.- Nombrar Comisiones, cuyo objeto fuere de mera ceremonia o para atender algún asunto específico;
+11. Total de sentencias de fondo emitidas en juicios tramitados en la vía sumaria tradicional;
 
-XII.- Citar a sesión extraordinaria cuando lo estime necesario;
+12. Total de sentencias de sobreseimiento emitidas en juicios tramitados en la vía sumaria tradicional;
 
-XIII.- Mandar requerir por escrito a los Diputados faltistas a concurrir a las sesiones de la Cámara y proponer, en su caso, las medidas o sanciones que correspondan, de acuerdo con la Constitución Política del Estado y esta Ley;
+13. Total de sentencias emitidas;
 
-XIV.- Declarar que no hay la asistencia requerida para celebrar sesión en los términos legales, ordenando a la Secretaría expedir la excitativa a los faltantes para que concurran;
+14. Total de sentencias emitidas por día hábil;
 
-XV.- Requerir a las Comisiones para que presenten dictamen sobre los asuntos que se les hubieren encomendado, conminándolas para que lo hagan a la mayor brevedad y para el caso de que no lo hicieren, señalarles un día determinado para presentarlo, y de no hacerlo, pasar el asunto a otra Comisión que designe la Asamblea, con prevención de dictaminar en término breve;
+15. Sentencias interlocutorias emitidas;
 
-XVI.- Llamar, en los casos en que se requiera, a los Diputados suplentes;
+16. Sentencias interlocutorias emitidas por día hábil;
 
-XVII.- Firmar la correspondencia y demás comunicaciones de la Cámara que así se estime necesario;
+17. Acuerdos emitidos;
 
-XVIII.- Tomar las protestas de Ley a los funcionarios que la deban rendir; y
+18. Acuerdos emitidos por día hábil;
 
-XIX.- Las demás que se deriven de esta Ley y de las disposiciones o Acuerdos que emita la Cámara.
+19. Número de incidentes tramitados relativos al cumplimiento de la sentencia. (Total de incidentes de inejecución, artículo 58, fracción I, de la Ley Federal de Procedimiento Contencioso Administrativo);
 
-###### ARTICULO 43.
+20. Instancias de queja pendientes de resolver. (Artículo 58, fracción II, de la Ley Federal de Procedimiento Contencioso Administrativo);
 
-Los Vice-Presidentes auxiliarán al Presidente en el desempeño de sus funciones, y lo suplirán en sus ausencias e impedimentos temporales, en el orden de su designación.
+21. Total de instancias de queja resueltas. (Artículo 58, fracción II, de la Ley Federal de Procedimiento Contencioso Administrativo);
 
-###### ARTICULO 44.
+22. Total de incidentes de incompetencia interpuestos;
 
-Por falta del Presidente y de los Vice-Presidentes, desempeñará las veces del primero el que más recientemente haya desempeñado dicho cargo de entre los miembros presentes y si ninguno de estos estuviere, lo suplirán los Secretarios por el orden de designación.
+23. Total de solicitudes de indemnización interpuestas;
 
-###### ARTICULO 45.
+24. Solicitudes de suspensión de la ejecución de los actos impugnados, pendientes de resolver;
 
-Son atribuciones de los Secretarios:
+25. Solicitudes de medidas cautelares pendientes de resolver;
 
-I.- Auxiliar al Presidente en el desempeño de sus funciones;
+26. Incidentes de acumulación pendientes de resolver;
 
-II.- Comprobar al inicio de las sesiones la existencia del quórum;
+27. Incidentes de falsedad de documentos pendientes de resolver;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+28. Incidentes de nulidad de notificaciones pendientes de resolver;
 
-III. Extender las actas sintetizadas de las sesiones, anotando en su contenido la parte medular de lo expuesto en las mismas, y firmadas por el Presidente después de ser aprobadas por la Cámara, pasarlas a la Secretaría General para su archivo;
+29. Total de notificaciones personales;
 
-IV.- Firmar las Leyes, Decretos, Acuerdos y todas las Resoluciones que expida el Congreso, así como cualquier documentación de la Cámara;
+30. Total de notificaciones por oficio;
 
-La correspondencia oficial será firmada exclusivamente por los dos Secretarios;
+31. Total de notificaciones por correo certificado con acuse de recibo y mediante correo electrónico;
 
-V.- Leer los documentos señalados para cada sesión;
+32. Total de notificaciones por lista;
 
-VI.- Recoger y comprobar las votaciones, proclamando sus resultados cuando así lo disponga el Presidente de la Mesa Directiva;
+33. Total de notificaciones por Boletín Electrónico, y
 
-VII.- Abrir, integrar y actualizar los expedientes para los asuntos recibidos por la Cámara, y firmar las Resoluciones que sobre ello recaigan;
+34. Total de notificaciones practicadas;
 
-VIII.- Dar cuenta, previo acuerdo del Presidente de la Cámara con los asuntos en cartera;
+b) En el aspecto cualitativo:
 
-IX.- Asentar y firmar en todos los expedientes los trámites que se les dieren y las Resoluciones que sobre ellos se tomen;
+1. Recursos de reclamación pendientes de resolver. (Artículo 59, de la Ley Federal de Procedimiento Contencioso Administrativo);
 
-X.- Llevar un Libro en que se asienten por orden cronológico y textualmente las Leyes y Decretos que expida el Congreso;
+2. Recursos de reclamación resueltos. (Artículo 59, de la Ley Federal de Procedimiento Contencioso Administrativo);
 
-XI.- Hacer que se coleccionen por separado las actas de las sesiones públicas y secretas, a fin de que se empasten en tomos; y
+3. Recursos de reclamación fundados. (Artículo 59, de la Ley Federal de Procedimiento Contencioso Administrativo);
 
-XII.- Las demás que les confiera esta Ley y los Acuerdos de la Cámara.
+4. Recursos de reclamación pendientes de resolver. (Artículo 62, de la Ley Federal de Procedimiento Contencioso Administrativo);
 
-###### ARTICULO 46.
+5. Recursos de reclamación resueltos. (Artículo 62, de la Ley Federal de Procedimiento Contencioso Administrativo);
 
-En cada sesión, los Secretarios para dar cuenta con los asuntos, podrán alternarse según lo disponga el Presidente.
+6. Recursos de reclamación fundados. (Artículo 62, de la Ley Federal de Procedimiento Contencioso Administrativo);
 
-###### ARTICULO 47.
+7. Aclaraciones de sentencia resueltas;
 
-Las ausencias de los Secretarios se cubrirán con los Pro-Secretarios, según el orden de su designación; si la Cámara lo estima necesario nombrará Secretarios Interinos.
+8. Juicios de amparo directo interpuestos, así como el tiempo que medie entre su presentación ante la Sala visitada y su envío al Tribunal Colegiado;
 
-### CAPITULO IV. DE LOS GRUPOS PARLAMENTARIOS
+9. Recursos de revisión fiscal interpuestos, así como el tiempo que medie entre su presentación ante la Sala visitada y su envío al Tribunal Colegiado;
 
-###### ARTICULO 48.
+10. Total de demandas de amparo y recursos de revisión pendientes de remitir al Tribunal Colegiado;
 
-Los Grupos Parlamentarios son las formas de organización que podrán adoptar los Diputados con igual afiliación de Partido para realizar tareas específicas en la Cámara, a fin de garantizar la libre expresión de las corrientes ideológicas.
+11. Total de ejecutorias recibidas que resuelven amparos directos y recursos de revisión;
 
-Los Diputados que pertenezcan a un mismo Partido Político en ningún caso podrán formar un grupo parlamentario por separado y tampoco podrán formar parte de más de un grupo, a menos que renuncien al que pertenecen para asociarse a otro. Por ningún motivo podrán formar Grupos Parlamentarios independientes por ser ésta una prerrogativa conferida a los Partidos Políticos.
+12. Total de ejecutorias recibidas que resuelven amparos directos;
 
-El Diputado que hubiese sido electo por una coalición o por candidatura común de varios Partidos Políticos, sólo podrá integrarse a alguno de los grupos formados por cualquiera de esos Partidos.
+13. Total de ejecutorias recibidas que resuelven recursos de revisión;
 
-###### ARTICULO 49.
+14. Amparos directos concedidos, así como el tiempo transcurrido para su cumplimiento, a partir de que se recibió la ejecutoria en la Sala;
 
-Los Grupos Parlamentarios coadyuvan al mejor desarrollo del proceso legislativo y facilitan la participación de los Diputados en las tareas camarales; además contribuyen, orientan y estimulan la formación de criterios comunes en las discusiones y deliberaciones en las que participan sus integrantes.
+15. Recursos de revisión fiscal fundados, así como el tiempo transcurrido para su cumplimiento, a partir de que se recibió la ejecutoria en la Sala;
 
-###### ARTICULO 50.
+16. Porcentajes de sentencias de amparo y revisión fiscal, que conceden el amparo para algún efecto, revocan o modifican fallos, en relación con el total de sentencias emitidas en el mes (fondo y sobreseimiento);
 
-Para realizar las tareas de coordinación con la Mesa Directiva y las Comisiones, los Coordinadores de los Grupos Parlamentarios serán su conducto.
+17. Porcentajes de sentencias de revisión fiscal que revocan o modifican fallos, en relación con el total de sentencias emitidas en el mes (fondo y sobreseimiento);
 
-###### ARTICULO 51.
+18. Porcentajes de sentencias de amparo que conceden el amparo para algún efecto, en relación con el total de sentencias emitidas en el mes (fondo y sobreseimiento);
 
-El funcionamiento, las actividades y los procedimientos para la designación de los Coordinadores de los Grupos Parlamentarios, serán regulados por las normas estatutarias y los lineamientos de los respectivos Partidos Políticos.
+19. La duración promedio de los juicios tramitados en la Sala visitada, tanto en la vía sumaria como en la vía ordinaria. Para calcular el tiempo promedio de duración de los Juicios, se deberá promediar el tiempo de duración de aquellos juicios en los que se dictó sentencia definitiva durante el periodo que abarca el Proceso de Visita;
 
-###### ARTICULO 52.
+20. El cumplimiento que se haya dado a las recomendaciones suscitadas en la Visita anterior, que hubiesen quedado pendientes de solventar; y
 
-Los Diputados de la misma filiación de Partido sólo podrán constituir un Grupo Parlamentario y se tendrán por constituidos cuando presenten los siguientes documentos a la Mesa Directiva de la Cámara:
+21. Los tiempos de tramitación de las solicitudes de suspensión u otras medidas cautelares.
 
-I.- Acta en la que conste la decisión de sus miembros de constituirse en grupo con especificación del nombre del mismo y lista de los integrantes; y
+II. De las Salas Auxiliares, los que enseguida se mencionan:
 
-II.- Nombre del Diputado que haya sido electo Coordinador del Grupo Parlamentario.
+a) En el aspecto cuantitativo:
 
-### CAPITULO II. DE LA PRESIDENCIA Y LAS VICE-PRESIDENCIAS
+1. En general, el cumplimiento de las Reglas de operación expedidas por la Junta para la operación de las Salas Auxiliares;
 
-###### ARTICULO 53.
+2. El número de asuntos que, de acuerdo a la normatividad específica, le corresponde atender en el período de la revisión;
 
-Los Grupos Parlamentarios deberán entregar la documentación requerida en el artículo precedente, en la segunda sesión del primer período ordinario de sesiones de cada Legislatura.
+3. El número de juicios recibidos en el período para el dictado del fallo correspondiente;
 
-Examinada por el Presidente la documentación, en sesión ordinaria de la Cámara hará, en su caso, la declaratoria de constitución de los Grupos Parlamentarios; a partir de este momento ejercerán las atribuciones previstas por esta Ley.
+4. El número de asuntos devueltos a las Salas auxiliadas por reposición de procedimiento, en los casos que excepcionalmente marquen los lineamientos que rigen a las Salas Auxiliares, así como la causa que los haya motivado;
 
-###### ARTICULO 54.
+5. El número de sentencias definitivas emitidas en el período, aclaraciones de sentencias e incidentes resueltos o de ser el caso, el número de quejas promovidas y resueltas en términos del artículo 58 de la Ley Federal de Procedimiento Contencioso Administrativo;
 
-De acuerdo con las posibilidades y el presupuesto de la propia Cámara, los Grupos Parlamentarios dispondrán de locales adecuados en las instalaciones de la Cámara así como de los asesores, personal y los elementos necesarios para el cumplimiento de sus funciones.
+6. El número de expedientes pendientes de sentenciar, conforme los estándares y plazos de resolución establecidos para las Salas Auxiliares;
 
-### CAPITULO V. DE LA GRAN COMISION
+b) En el aspecto cualitativo:
 
-###### ARTICULO 55.
+1. Juicios de amparo directo interpuestos en el período, así como el tiempo que medie entre su presentación ante la Sala de este Tribunal y su envío al Tribunal Colegiado;
 
-El Congreso del Estado contará con una Gran Comisión, la que será el órgano conductor y coordinador del trabajo legislativo, así como desarrollar las funciones de gobierno y representación permanente del Congreso, durante el ejercicio de cada Legislatura.
+2. Recursos de revisión fiscal interpuestos en el período, así como el tiempo que medie entre su presentación ante la Sala de este Tribunal y su envío al Tribunal de (sic) Colegiado;
 
-###### ARTICULO 56.
+3. Total de demandas de amparo y recursos de revisión pendientes de remitir al Tribunal Colegiado;
 
-En la segunda sesión del Primer Período Ordinario de sesiones del primer año y para todo el ejercicio constitucional, se elegirá, en votación nominal y por mayoría absoluta de votos, a la Gran Comisión.
+4. Total de ejecutorias recibidas que resuelven amparos directos y recursos de revisión;
 
-###### ARTICULO 57.
+5. Amparos directos concedidos, así como el tiempo transcurrido para su cumplimiento, a partir de que se recibió la ejecutoria en la Sala;
 
-La Gran Comisión estará formada por cinco Diputados, de los cuales, el primeramente nombrado será el Presidente, el segundo tendrá las funciones de secretario, y los tres miembros restantes serán Vocales.
+6. Recursos de revisión fiscal fundados, así como el tiempo transcurrido para su cumplimiento, a partir de que se recibió la ejecutoria en la Sala;
 
-###### ARTICULO 58.
+7. Porcentajes de sentencias de amparo y revisión fiscal, que conceden el amparo para algún efecto, revocan o modifican fallos, en relación con el total de sentencias emitidas en el mes (fondo y sobreseimiento);
 
-La Gran Comisión tendrá las siguientes atribuciones:
+8. Porcentajes de sentencias de revisión fiscal que revocan o modifican fallos, en relación con el total de sentencias emitidas en el mes (fondo y sobreseimiento);
 
-I.- Dirigir y vigilar los servicios internos necesarios para el eficaz cumplimiento de las funciones de la Cámara;
+9. Porcentajes de sentencias de amparo que conceden el amparo para algún efecto, en relación con el total de sentencias emitidas en el mes (fondo y sobreseimiento); y
 
-II.- Proponer a la Cámara, en su caso, el programa legislativo a ejercer durante cada período de sesiones, jerarquizando las iniciativas de Ley o Decreto;
+10. El cumplimiento que se haya dado a las recomendaciones suscitadas en la visita anterior, que hubiesen quedado pendientes de solventar.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+III. De las Salas Regionales Mixtas, que son aquellas en las que concurren funciones de Sala Auxiliar y de Sala Regional, se obtendrán por separado los rubros referentes a las Salas Regionales o Especializadas, y los de las Salas Auxiliares, según corresponda, dada cuenta que en la evaluación de su desempeño se ponderará su doble naturaleza.
 
-III.- Impulsar la profesionalización de los servicios de apoyo parlamentario a través del servicio civil de carrera y del Instituto de Investigaciones Parlamentarias, determinando las políticas generales para ello y proponiendo al pleno los proyectos de los reglamentos respectivos.
+IV. Respecto del juicio sumario, adicionalmente a los rubros enumerados en este precepto, la verificación de que el acuerdo de admisión de la demanda sea emitido en un lapso no mayor de cinco días. Del mismo modo, la verificación de que el cumplimiento de las etapas procesales se ajuste a los plazos señalados, a efecto de que los procedimientos sumarios terminen dentro del período de setenta días que marca la ley.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+###### Artículo 48.
 
-IV.- Conducir, coordinar, controlar y evaluar las funciones de la Secretaría General, y proponer a la Cámara la designación del Secretario General.
+A efecto de constatar la productividad de los Oficiales Jurisdiccionales, los Magistrados Instructores a quienes se encuentren adscritos formularán un plan de trabajo en el que detallen las funciones específicas que les sean encomendadas a cada uno, y rendirán un informe mensual que desglose los resultados cuantitativos y cualitativos correspondientes a las diversas actividades que se les asignaron. Tanto las modificaciones al Plan de Trabajo como el informe mensual se depositarán en la COCOVIJ a más tardar el sexto día hábil de cada mes.
 
-V.- Coadyuvar en la realización de las funciones del Congreso;
+La SOTIC diseñará los formatos de concentración de los datos contenidos en los informes, aprobados previamente por la Junta, lo mismo que sus modificaciones posteriores y, con anterioridad a su recopilación, sistematización e interpretación, presentará en la COCOVIJ los indicadores relevantes sobre las funciones y resultados obtenidos con el esfuerzo laboral de los Oficiales Jurisdiccionales.
 
-VI.- Acordar el nombramiento de los integrantes de las Comisiones Permanentes;
+###### Artículo 49.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+Para revisar el buen funcionamiento de las Salas Regionales, Especializadas, Auxiliares y/o Mixtas, respecto a la regularidad del trabajo colegiado de Magistrados, Secretarios de Acuerdos y miembros del Sistema Profesional de Carrera, se verificarán durante la práctica de las visitas o mediante la función de vigilancia, los siguientes aspectos:
 
-VII.- Proveer a través de la Secretaría General lo necesario para el trabajo de las Comisiones;
+I. Los criterios jurisdiccionales implantados o modificados;
 
-VIII.- Proponer el presupuesto anual del Congreso;
+II. El tiempo que ocupa cada Magistrado Instructor para la revisión y firma de los asuntos que se atienden en forma colegiada;
 
-IX.- Proponer en el Presupuesto del Congreso, el monto de las dietas para los ciudadanos Diputados en los términos de la Constitución Política del Estado; y,
+III. Los votos en contra y los votos particulares emitidos por los Magistrados Instructores;
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+IV. Los métodos de colegiación empleados por los Magistrados, así como los sistemas para darle seguimiento a los criterios implantados, ya sean novedosos o modificados, los acuerdos adoptados en general; y
 
-X.- Presentar al Pleno durante el mes de enero informe anual sobre el ejercicio presupuestal, excepto en el tercer año de ejercicio constitucional que lo hará durante el mes de noviembre ante el Pleno o la Diputación Permanente; y
+V. El total de tesis elaboradas por la Sala visitada y que se encuentren publicadas en la Revista del Tribunal, para lo cual serán auxiliadas por la Secretaría de Acuerdos de Compilación de Tesis.
 
-XI.- Las demás que le confiere esta Ley o acuerde la Cámara.
+###### Artículo 50.
 
-###### ARTICULO 59.
+Para verificar el buen funcionamiento de las Salas Regionales, Especializadas, Auxiliares y/o Mixtas, respecto a la regularidad en la instrucción y/o resolución de los juicios, se revisarán durante la práctica de las visitas ordinarias o fuera de ella, los expedientes que se ubiquen en los siguientes supuestos:
 
-El Presidente de la Gran Comisión tendrá las siguientes atribuciones:
+I. Los más antiguos en trámite, para lo cual los Magistrados visitadores determinarán el número de expedientes a verificar, atendiendo a la situación particular de la Sala que corresponda, a efecto de producir las recomendaciones preventivas u observaciones definitivas y establecer el plazo razonable para su solventación;
 
-I.- Realizar las acciones que sean necesarias para que se dé cumplimiento a las funciones de la Gran Comisión;
+II. Los que presenten un lapso determinado de inactividad procesal, a juicio del Magistrado visitador y conforme a las cargas de trabajo de las Salas visitadas, para elaborar los Pliegos de recomendaciones preventivas o definitivas que procedan, así como el plazo para su solventación o explicación de las causas de inactividad detectadas;
 
-II.- Citar a los miembros de la Gran Comisión a las sesiones ordinarias o extraordinarias;
+III. Aquéllos en los que, aún y cuando haya concluido la sustanciación del juicio y no existiere ninguna cuestión pendiente que impida su resolución, no se haya dictado el acuerdo en el que se otorga plazo a las partes para formular alegatos, el acuerdo que declara cerrada la instrucción o la sentencia definitiva, según corresponda;
 
-III.- Presidir y conducir los debates y las deliberaciones de las sesiones de la Gran Comisión;
+IV. Los que sean seleccionados aleatoriamente por el Magistrado visitador para verificar, física y electrónicamente, si su instrucción, resolución y, en su caso, el cumplimiento de la sentencia, se han efectuado con arreglo a la ley; y para verificar el cumplimiento de los plazos establecidos para la instrucción del juicio contencioso administrativo y el acatamiento de las disposiciones legales que rigen el desahogo de sus etapas procesales.
 
-IV.- Establecer el orden del día de las sesiones de la Gran Comisión;
+V. Las promociones ingresadas pendientes de validar y/o ligar a un acuerdo, además de los oficios provenientes de Órganos del Poder Judicial Federal pendientes de validar; y
 
-V.- Ejecutar los Acuerdos que tome la Gran Comisión en sus sesiones;
+VI. Tratándose de las Salas Auxiliares, para efectos de verificar los juicios más antiguos, se pueden revisar todos aquéllos expedientes que se estimen necesarios para constatar el cumplimiento de las Reglas de Operación de éstas Salas.
 
-VI.- Coordinar las relaciones con los poderes públicos, atendiendo las disposiciones legales y las indicaciones que reciba del Congreso o de la Gran Comisión;
+###### Artículo 51.
 
-VII.- Representar al Congreso en todos los actos y ceremonias oficiales;
+Cuando se estime necesario constatar la veracidad o existencia de alguna actuación procesal, promoción o dato relacionado con la información jurisdiccional de las Salas Regionales, Especializadas, Auxiliares y/o Mixtas, los Magistrados visitadores podrán solicitar a la DGSJL o a los Delegados de TICs, la verificación física de la existencia de la información requerida en el o los expedientes de que se trate, para lo cual asentarán en su informe una muestra electrónica que cumpla con los criterios definidos por el Magistrado visitador. Los Magistrados y Secretarios de Acuerdos que correspondan, prestarán con agilidad y eficiencia el apoyo solicitado.
 
-VIII.- Representar al Congreso en la firma de convenios y contratos;
+###### Artículo 52.
 
-IX.- Representar al Congreso en juicio y fuera de él; y
+Para constatar el buen funcionamiento de las Salas Regionales, Especializadas, Auxiliares y/o Mixtas, respecto a la regularidad en el desempeño administrativo del personal de la Sala, incluidas las labores de prevención y seguridad, los Magistrados visitadores deberán:
 
-X.- Las demás que se deriven de esta Ley y de las disposiciones o Acuerdos que emita la Cámara.
+I. Analizar los informes mensuales de puntualidad y asistencia del personal obligado a registrar su entrada y salida en horarios laborales. Los Delegados Administrativos rendirán los informes respectivos a través de la COCOVIJ;
 
-###### ARTICULO 60.
+II. Verificar el debido y puntual cumplimiento del Acuerdo de destrucción de expedientes que esté vigente a la fecha de la revisión;
 
-El secretario de la Gran Comisión deberá de levantar las actas de las sesiones y llevar la documentación y archivo que correspondan para la buena marcha de los asuntos de que conozca.
+III. Dar seguimiento a las solicitudes de los requerimientos materiales y humanos formulados por las Salas visitadas y a su atención oportuna;
 
-###### ARTICULO 61.
+IV. Examinar los movimientos de personal de la Sala, indicando los servidores públicos materia de tales movimientos, para evaluar los impactos que previsiblemente pueden ocasionar tales movimientos en la productividad de las áreas jurisdiccionales o administrativas, y en el mantenimiento, mejora o deterioro del clima laboral; y
 
-El secretario suplirá las faltas del Presidente y cuando ello no sea posible, la sustitución la hará el vocal que primeramente haya sido nombrado. Las faltas del secretario serán cubiertas por el vocal que primeramente haya sido nombrado y así sucesivamente por los demás Vocales.
+V. Verificar la situación real y material de las instalaciones físicas que ocupan las sedes de las diversas Salas Regionales del Tribunal, para prevenir riesgos de cualquier tipo al personal que ahí labora y al público en general, así como para la facilitación de la labor jurisdiccional y administrativa.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
 
-###### ARTICULO 62.
+### CAPÍTULO III. DEL PROCEDIMIENTO DE MEDIACIÓN
 
-Antes de que concluya el tercer año de ejercicio constitucional de cada Legislatura, la Gran Comisión elaborará un informe sobre el trabajo de la Legislatura, en el cual se relacionarán los asuntos que quedaron pendientes.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE JULIO DE 2015)</small>
 
-Dicho informe se entregará al Presidente de la Mesa Directiva de la nueva Legislatura, para que en su oportunidad lo turne al Presidente de la Gran Comisión de dicha Legislatura.
+###### Artículo 53.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+La mediación es un proceso privado y voluntario al cual podrán someterse los servidores públicos de este Tribunal cuando exista una controversia o conflicto que dificulte la armonía y buen funcionamiento de la Sala o área respectiva, con la finalidad de llegar a una amigable composición, fortaleciendo así la vida institucional y el respeto a los derechos laborales del personal administrativo y jurisdiccional. El procedimiento de mediación deberá regirse por los principios de confidencialidad, imparcialidad, neutralidad, objetividad, bilateralidad, equidad, flexibilidad y profesionalismo.
 
-###### ARTICULO 63.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE JULIO DE 2015)</small>
 
-La Gran Comisión tendrá sesiones ordinarias, por lo menos una vez al mes y extraordinarias cuando el Presidente de la Comisión lo juzgue pertinente.
+###### Artículo 54.
 
-La Gran Comisión dispondrá de un local adecuado en las instalaciones del Congreso y contará con los recursos humanos y materiales que sean necesarios para el desempeño de sus funciones, con arreglo a lo que determine el presupuesto.
+Son partes en el procedimiento de mediación:
 
-###### ARTICULO 64.
+I. Mediados;
 
-Cuando el Presidente de la Gran Comisión lo sea también de la Mesa Directiva podrá realizar sus funciones indistintamente.
+II. Mediador, y
 
-### CAPITULO VI. DE LAS COMISIONES
+III. Terceros.
 
-## TITULO CUARTO. DE LA ORGANIZACION DEL CONGRESO
+> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE JULIO DE 2015)</small>
 
-### CAPITULO III. DE LOS SECRETARIOS Y LOS PRO-SECRETARIOS
+###### Artículo 55.
 
-#### SECCION TERCERA. DE LAS INICIATIVAS
+El procedimiento de mediación podrá iniciarse de oficio, cuando el Magistrado competente, por cualquier medio y con motivo de sus funciones, conozca de un conflicto entre servidores públicos del Tribunal que afecte la labor jurisdiccional. O bien se iniciará a petición de alguno de los servidores públicos involucrados, en donde el mediador intervendrá para facilitar la comunicación directa y confidencial entre los involucrados con el propósito de que éstos lleguen por sí mismos a un acuerdo voluntario que ponga fin a la controversia suscitada.
 
-###### ARTICULO 134.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE JULIO DE 2015)</small>
 
-La iniciativa es el documento formal que contiene el proyecto de Ley o Decreto que se propone por las personas facultadas para ello, para crear una situación jurídica o modificar una existente.
+###### Artículo 56.
 
-###### ARTICULO 135.
+Las solicitudes de mediación podrán hacerse del conocimiento del Magistrado competente por cualquiera de los medios de comunicación existentes en el Tribunal, mismas que deberán contener cuando menos la siguiente información:
 
-El derecho de iniciativa sólo compete a quienes expresamente señala el artículo 45 de la Constitución Política del Estado de Sinaloa.
+I. Nombre y firma de la persona que solicite la mediación, así como su área de adscripción;
 
-###### ARTICULO 136.
+II. Nombre del servidor o servidores públicos involucrados en la controversia, así como el cargo y área de adscripción del mismo en caso de que conozca dicha información, y
 
-El documento que contenga una iniciativa deberá cumplir los siguientes requisitos:
+III. Exposición breve del asunto controvertido, así como los datos o indicios que permitan la identificación de los puntos en conflicto.
 
-I.- Deberá comprender un único objeto debidamente expresado;
+> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE JULIO DE 2015)</small>
 
-II.- Expresar los motivos, en forma clara y sistematizada, de lo que se propone;
+###### Artículo 57.
 
-III.- Los fundamentos de derecho en que apoyen sus pretensiones;
+El Magistrado competente al que corresponda el asunto, hará del conocimiento a la Junta de la existencia de un conflicto a mediar, respetando siempre el principio de confidencialidad que debe prevalecer en el procedimiento de mediación, el cual comienza con la audiencia inicial y concluye con la audiencia final.
 
-IV.- El texto de la Ley, Decreto o Acuerdo que se propone, procurando estructurarlo en títulos, capítulos, secciones, apartados, artículos o cualquier otra forma que permita darles organización y congruencia;
+> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE JULIO DE 2015)</small>
 
-V.- En el caso de reformas, la iniciativa de ley, capítulo, artículo o cualquiera otra parte de ella se propondrá de nuevo tal como debe quedar aprobada para sustituir completamente a la ley, capítulo, artículo o cualquiera otra parte reformada. Si la propuesta de reforma consistiere en intercalar artículos adicionales, la iniciativa de ley expresará el artículo o artículos de la antigua que se adicionen, señalando a aquellos el lugar en que deben quedar;
+###### Artículo 58.
 
-VI.- Señalamiento de los artículos transitorios que correspondan; y
+El mediador, como facilitador del proceso, y atendiendo a la esfera del conflicto y a sus causas, podrá fijar tantas audiencias como estime pertinentes a fin de realizar las intervenciones necesarias para recopilar información y documentación acerca de la disputa, realizar entrevistas con las partes y demás involucrados o llevar a cabo cualquier otra gestión que estime pertinente para el mejor conocimiento de los hechos.
 
-VII.- Acompañar, en su caso, los anexos documentales necesarios.
+Tratándose de Salas o áreas con sede distinta al Distrito Federal, el Mediador deberá asistir a la audiencia inicial y final, y podrá designar a un comisionado que lo asista para la celebración de las demás audiencias, quien le dará cuenta de los resultados de dichas reuniones.
 
-###### ARTICULO 137.
+De estimarlo necesario, el Magistrado mediador podrá efectuar visitas extraordinarias, previa aprobación de la Junta.
 
-Las iniciativas podrán ser de Ley, Decreto o Acuerdo.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE JULIO DE 2015)</small>
 
-###### ARTICULO 138.
+###### Artículo 59.
 
-Es iniciativa de Ley aquella que tiende a una resolución que otorgue derechos o imponga obligaciones a la generalidad de las personas.
+Durante la audiencia inicial de mediación, el mediador recordará a los mediados el objeto y alcance de la mediación, explicará las reglas básicas y pautas de comportamiento que deben prevalecer durante el proceso, celebrará con ellos el convenio de confidencialidad correspondiente respecto de la información que en las sesiones se trate, delimitará las áreas temáticas y las cuestiones en discusión y en su caso determinará una secuencia para el manejo de los temas en discusión. Asimismo, les informará sobre la posibilidad de dar por terminada la mediación, si así conviene a las necesidades e intereses de los mediados o si el mediador detecta violación a las reglas sobre las que deben conducirse éstos durante la investigación.
 
-###### ARTICULO 139.
+> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE JULIO DE 2015)</small>
 
-Es iniciativa de Decreto aquella que tiende a una resolución que otorgue derechos o imponga obligaciones a determinadas personas físicas o morales.
+###### Artículo 60.
 
-###### ARTICULO 140.
+El mediador auxiliará a los mediados a compartir información fomentando el diálogo amable entre las partes y mediante la instrumentación de entrenamiento empático, promoviendo así entre las partes el conocimiento de la necesidad de generar opciones o alternativas para solucionar el conflicto, atendiendo a las necesidades e intereses de las partes y reduciendo en lo posible el alcance y número de las discrepancias existentes.
 
-Es iniciativa de Acuerdo aquella que tiende a una resolución que por su naturaleza no requiera para su validez de la sanción, promulgación y publicación.
+Basado en el principio de flexibilidad, el mediador buscará que las partes definan, adopten, acepten y respeten voluntariamente el procedimiento para reconciliar sus intereses y evalúen los alcances y beneficios de cada una de las alternativas de solución.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
 
-###### ARTICULO 141.
+###### Artículo 61.
 
-Cuando se presente ante el Congreso una iniciativa, primeramente, deberá pasar a la Comisión de Protocolo y Régimen Orgánico Interior para que determine si cumple con los requisitos de ley y pueda ser registrada a efectos de ser turnada a su lectura correspondiente.
+En la audiencia final de mediación, se buscará la negociación definitiva entre las partes para alcanzar un acuerdo consensual formal, mismo que deberá detallar los pasos generales y específicos requeridos para aplicar la decisión, precisando si la naturaleza del acuerdo permite su ejecución inmediata, o si es necesario el establecimiento de un plazo, o en su caso si el mismo requerirá de una conducta permanente. Asimismo, se establecerán los métodos para supervisar el acatamiento a tales acuerdos.
 
-La Comisión de Protocolo y Régimen Orgánico Interior deberá informar por escrito, mensualmente, al Congreso del Estado de las iniciativas recibidas, para su debido conocimiento.
+El convenio celebrado entre las partes deberá redactarse de manera clara y precisa, evitando que las cláusulas propicien dudas que deriven en errores o interpretaciones subjetivas. Para ello, el mediador buscará en todo momento aclarar las intenciones de las partes y explicará a detalle el significado y alcance de las cláusulas que lo componen.
 
-###### ARTICULO 142.
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
 
-Las iniciativas que no reúnan los requisitos expresados por esta ley para ser registradas, deberán ser remitidas, por una sola vez, a quienes las presentaron para que hagan las correcciones pertinentes y en caso de que no se subsanen serán desechadas de plano.
+###### Artículo 62.
 
-###### ARTICULO 143.
+Los acuerdos a los que se sometan los mediados generarán un compromiso entre los mismos, que deberá ser respetado en cada uno de sus términos y se harán del conocimiento de la Junta, correspondiendo al Magistrado Visitador, o en su caso, a aquel que al efecto designe la propia Junta, la supervisión del cumplimiento de los acuerdos alcanzados.
 
-Ninguna iniciativa se someterá a la consideración del Congreso sin que antes haya sido examinada y dictaminada por la Comisión o Comisiones correspondientes. Esta exigencia podrá dispensarse por la Legislatura en los términos previstos por esta Ley.
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
 
-Previo acuerdo de la Cámara, se podrá dar difusión a las iniciativas, dictámenes y proposiciones acerca de un asunto de interés general.
+###### Artículo 63.
 
-###### ARTICULO 144.
+Se dará por concluida de manera anticipada la mediación, cuando de lo expuesto en las audiencias se advierta la presencia de conductas irregulares desplegadas por alguno de los servidores públicos involucrados en la mediación.
 
-Las iniciativas presentadas podrán ser leídas en dos sesiones diferentes; primero en la que fueren presentadas y después en la que disponga la Mesa Directiva del Congreso, salvo disposición especial que señale otro trámite.
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
 
-Cuando el texto de la iniciativa se haya distribuido con anticipación, podrá ser tramitada con una sola lectura con la aprobación de la Asamblea.
+###### Artículo 64.
 
-Cuando se trate de iniciativas sumamente voluminosas, el Presidente puede someter al Pleno la determinación de sustituir la lectura, por la entrega de un tanto de la iniciativa impresa, para que cada legislador la estudie. La votación de este acuerdo será económica.
+Si con motivo de la mediación el mediador conoce de la comisión de alguna falta grave o de algún delito, se investigará a través de los medios correspondientes, sin que ello implique violación al convenio de confidencialidad celebrado con las partes.
 
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 1997)</small>
+## TÍTULO CUARTO
 
-En el caso de iniciativas de pensiones, serán tramitadas con una sola lectura y de tomarse en consideración se turnarán a la Comisión que corresponda.
+### CAPÍTULO ÚNICO. DEL PROCESO DE EVALUACIÓN
 
-###### ARTICULO 145.
+#### SECCIÓN I. DE LA EVALUACIÓN POR LA JUNTA DE GOBIERNO Y ADMINISTRACIÓN
 
-El día de la segunda lectura podrá exponer su autor, si lo tuviere a bien, o uno de ellos si fueren varios, los fundamentos que las apoyan, y podrán hablar una sola vez el autor de ella en pro y un miembro de la Cámara en contra. Estas prerrogativas no son extensivas a los simples ciudadanos que hagan uso del derecho de iniciativa.
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
 
-Podrá dispensarse la segunda lectura, siempre que la Cámara lo acuerde, a petición de algún Diputado, conforme a los requisitos para la dispensa de trámites.
+###### Artículo 65.
 
-###### ARTICULO 146.
+Durante el mes de enero de cada año, los Magistrados visitadores presentarán a la Junta el Acta-Informe que contenga los documentos a que se refiere el artículo 1, fracción II, inciso h), así como todos aquellos elementos recabados durante el proceso de vigilancia y visita, ordinaria o extraordinaria, incluyendo el reporte anual de observaciones y recomendaciones sobre la situación de las Salas Regionales, Especializadas, Auxiliares y/o Mixtas, a que alude el último párrafo del artículo 54 del Reglamento Interior.
 
-Inmediatamente después de la segunda lectura, si la hubiere o en caso de su dispensa, se interrogará a la Cámara, si se toma o no en consideración la iniciativa; si la resolución fuere afirmativa se pasará a la Comisión que corresponda y si fuese negativa, se tendrá por desechada y no podrá volver a presentarse en el mismo período de sesiones.
+El plazo señalado en el párrafo anterior será aplicable también a los Magistrados visitadores que concluyen su encargo en la Junta, ya que ellos presentarán en el referido mes de enero el Acta-Informe y el reporte de observaciones y recomendaciones sobre la situación de las Salas visitadas, incorporando los datos del mes de diciembre, en los términos del artículo 15, último párrafo, de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
 
-###### ARTICULO 147.
+###### Artículo 66.
 
-Las iniciativas de Ley que presente la Legislatura del Estado ante el Congreso de la Unión serán acordadas por el Pleno y se firmarán por el Presidente y los Secretarios.
+Las Actas-Informes y demás información que rendirán los Magistrados visitadores, serán presentadas en medios electrónicos que permitan su concentración, homologación y sistematización, de manera que facilite su interpretación global, segmentada e interactiva, sobre la situación que guarden el Tribunal, las Salas, Magistrados y personal jurisdiccional y administrativo que lo integran.
 
-Para el caso de las iniciativas que quedaren pendientes de resolución de una Legislatura a otra, el iniciador deberá ratificarlas ante la nueva Legislatura durante su primer período ordinario de sesiones.
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+###### Artículo 67.
 
-Toda iniciativa deberá ser dictaminada por la Comisión o las Comisiones respectivas, dentro de un plazo máximo de seis meses, contados a partir del día siguiente en que fueren turnadas a la Comisión o Comisiones correspondientes, con excepción del caso de iniciativas de Ley que propongan nuevos cuerpos normativos.
+Durante el mes de febrero de cada año, la Junta evaluará el funcionamiento de las Salas Regionales, Especializadas, Auxiliares y/o Mixtas por la anualidad anterior, tomando como base el resultado de las evaluaciones a distancia; las actas levantadas con motivo de las visitas; las recomendaciones y observaciones producidas y los demás documentos que se generen durante las visitas o actividades de vigilancia.
 
-###### ARTICULO 65.
+La evaluación podrá realizarse de manera global, por periodos o rubros parciales, o por Regiones y grupos de servidores públicos específicos, de tal suerte que los resultados obtenidos sustenten las políticas de planeación estratégica y la toma de decisiones institucionales para el buen funcionamiento del Tribunal y para la ejecución de las medidas conducentes a su mejora continua.
 
-Las Comisiones del Congreso son órganos colegiados que se integran por Diputados, cuyas funciones son las de analizar y discutir las iniciativas de Ley, los proyectos de Decreto y demás asuntos que les sean turnados por la Mesa Directiva para elaborar, en su caso, los dictámenes correspondientes.
+#### SECCIÓN II. PREVENCIONES FINALES
 
-###### ARTICULO 66.
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
 
-En el cumplimiento de sus funciones el Congreso del Estado integrará Comisiones, mismas que por su naturaleza serán Permanentes y Especiales.
+###### Artículo 68.
 
-Ninguna Comisión se integrará con Diputados de un sólo Partido.
+La Junta podrá reunirse en cualquier tiempo, a propuesta de alguno de sus integrantes, para comentar, analizar, evaluar o tomar, en su caso, las medidas que fueren necesarias, con motivo de las visitas realizadas durante el ejercicio, o de sucesos o eventos fuera de visita, inclusive para establecer los cambios de adscripción de Magistrados numerarios o supernumerarios que se estimen convenientes para la buena marcha de la Región o Sala que así lo ameriten.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2008)</small>
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
 
-###### ARTICULO 67.
+Artículo 68 (SIC). Los asuntos que surjan en el Proceso de Vigilancia del Desempeño Jurisdiccional y Administrativo que no estén previstos en este Reglamento, serán resueltos por el Magistrado visitador que corresponda, en consonancia con los objetivos establecidos en el presente ordenamiento y en el Reglamento Interior, tomando debida nota de esa circunstancia en el acta o informe respectivo.
 
-Serán Comisiones Permanentes las siguientes:
+En todo caso, el Magistrado visitador y su personal de apoyo estarán dotados de las atribuciones necesarias y suficientes para llevar a buen fin las comisiones que tengan encomendadas.
 
-l. De Puntos Constitucionales y Gobernación;
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
 
-II. De Hacienda Pública y Administración;
+###### Artículo 70.
 
-III. De Planeación y Desarrollo;
+En caso de que se haga necesario indagar sustancialmente asuntos de índole administrativa, la Junta, o en su caso el Magistrado visitador, podrán solicitar el apoyo técnico necesario de cualquier unidad administrativa del Tribunal, incluida la Contraloría Interna.
 
-IV. De Educación Pública y Cultura;
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
 
-V. De Ciencia y Tecnología;
+###### Artículo 71.
 
-VI. De Ecología;
+En caso de incumplimiento de los plazos y condiciones que se establecen en este Reglamento, se procederá en los términos siguientes:
 
-VII. De Desarrollo Económico;
+a) El Magistrado visitador exhortará al obligado para que, en el término perentorio que determine, proceda a ejecutar la acción que corresponda o para que justifique fehacientemente las causas del incumplimiento; y
 
-VIII. De Comunicaciones y Obras Públicas;
+b) De persistir el incumplimiento, o si se trata de un caso que la Junta considere de gravedad, el mismo Órgano Colegiado requerirá al obligado para que atienda de inmediato lo conducente, apercibiéndolo de que, si persiste el incumplimiento, se dará inicio al correspondiente procedimiento administrativo de responsabilidades de servidores públicos.
 
-IX. De Salud y Asistencia Social;
+> <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 2015)</small>
 
-X. De la Juventud y el Deporte;
+###### Artículo 72.
 
-XI. De Asuntos Obreros y de Trabajo y Previsión Social;
-
-XII. De Derechos Humanos;
-
-XIII. De Fiscalización;
-
-XIV. De las Comunidades y Asuntos Indígenas;
-
-XV. De Turismo;
-
-XVI. De Pesca;
-
-XVII. De Asuntos Agropecuarios;
-
-XVIII. De Protección Civil;
-
-XIX. De Seguridad Pública;
-
-XX. De Biblioteca, Cultura Parlamentaria y Asuntos Editoriales;
-
-XXI. De Equidad, Género y Familia;
-
-XXII. De Protocolo y Régimen Orgánico Interior;
-
-XXIII. De Participación Ciudadana;
-
-XXIV. De Honor y Disciplina Parlamentaria;
-
-XXV. De Vivienda;
-
-XXVI. De Justicia; e
-
-XXVII. Instructora.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
-
-#### SECCION CUARTA. DE LOS DICTAMENES
-
-###### ARTICULO 148.
-
-Las Comisiones formularán por escrito sus dictámenes, que constarán de dos partes, expositiva una y resolutiva otra.
-
-En la primera, expresará los fundamentos de la resolución que se proponga y en la segunda se expondrá dicha resolución, reduciéndola a proposiciones claras y sencillas, o en caso de Ley o Decreto, a artículos numerados, sobre los que recaerá la votación de la Cámara.
-
-Las Comisiones que creyeren pertinente proponer algo al Congreso en materias pertenecientes a su ramo, podrán ampliar su dictamen a materias relacionadas aún cuando no sea objeto expreso de la iniciativa.
-
-No se tomarán en consideración los dictámenes que carezcan de los requisitos expresados, ni aquellos cuya parte resolutiva no forme un todo completo.
-
-Los dictámenes podrán proponer la resolución en sentido aprobatorio o desaprobatorio respecto de la iniciativa que se dictamina, pudiendo modificar el contenido de la misma.
-
-###### ARTICULO 149.
-
-Cuando algún Diputado no pueda dictaminar en un negocio, por tener interés personal u otro motivo grave, será sustituido previo aviso a la Cámara.
-
-###### ARTICULO 150.
-
-Las Comisiones tomarán sus decisiones por mayoría de votos de sus miembros. Cuando alguno de sus miembros disienta de la resolución adoptada, podrá expresar su voto particular.
-
-Los votos particulares serán declarativos y su fin es el de dejar asentada una determinada posición. Cuando alguno de los miembros de la Comisión no esté de acuerdo con algún punto particular del dictamen general, podrá firmar el dictamen y emitir su voto particular sobre el aspecto del que tuviere objeciones.
-
-###### ARTICULO 151.
-
-Ninguna Comisión podrá suspender por sí misma el acuerdo de un negocio, sino precediendo su dictamen motivado que se discutirá para la resolución correspondiente.
-
-Las Comisiones durante los recesos, continuarán el estudio de los asuntos pendientes, hasta producir el correspondiente dictamen.
-
-###### ARTICULO 152.
-
-Una vez que estén firmados los dictámenes por la mayoría de los miembros de las Comisiones encargadas de un asunto, se imprimirán junto con los votos particulares si los hubiere y se entregarán a los Diputados en la sesión correspondiente.
-
-###### ARTICULO 153.
-
-Las Comisiones deberán despachar los negocios que les correspondan o les encomiende la Cámara, a más tardar dentro de los treinta días de haberlos recibido. Cuando alguna Comisión creyere que conviene demorar o suspender el curso de algún negocio, no podrá hacerlo por sí misma, sino que abrirá dictamen, exponiendo a la Cámara esa conveniencia.
-
-###### ARTICULO 154.
-
-Las Comisiones, por medio de su Presidente, podrán pedir todos los informes que estimen conveniente para la mejor ilustración de los negocios, con tal de que no sean de aquellos que exigen reserva, cuya violación puede ser perjudicial al servicio público.
-
-En la inteligencia de que la negligencia o negativa en proporcionar dichos informes, en un plazo razonable, motivará que la Comisión ocurra en queja ante el Gobernador del Estado, o ante el superior de los empleados o funcionarios omisos, solicitando se le impongan los correctivos que procedan y que se les obligue a cumplir con su deber.
-
-###### ARTICULO 155.
-
-Cualquier miembro de la Cámara puede asistir sin voto a las reuniones de las Comisiones y discutir en ellas.
-
-###### ARTICULO 156.
-
-Pueden también las Comisiones, para ilustrar su juicio en el despacho de los negocios que se les encomienden, tener conferencias con los funcionarios del área del asunto que esté trabajando la Comisión para elaborar dictamen, quienes están obligados a guardar a los integrantes de éstas las atenciones y consideraciones necesarias al cumplimiento de su misión.
-
-###### ARTICULO 157.
-
-Cuando para la elaboración de un dictamen se requieran conocimientos especiales, podrán las Comisiones, a efecto de normar su criterio, auxiliarse de personas que sean peritos en la materia a que el asunto se refiera.
-
-###### ARTICULO 158.
-
-Los dictámenes que emitan las Comisiones tendrán dos lecturas en diferentes sesiones, pero dispensándose la segunda lectura se pondrá a discusión en la misma sesión.
-
-Cuando se trate de dictámenes sumamente voluminosos, el Presidente puede someter al Pleno la determinación de dispensar ya sea la primera o segunda lectura, sustituyendo la lectura, por la entrega de un tanto del dictamen impreso, para que cada legislador lo estudie. La votación de este acuerdo será económica.
-
-###### ARTICULO 159.
-
-Los dictámenes sobre cuentas públicas, tendrán su primera lectura el día en que se presenten y su segunda lectura se hará en un plazo no menor de una semana.
-
-###### ARTICULO 160.
-
-Si un proyecto constare de más de cien artículos, podrán darse las lecturas que correspondan de manera parcial, en el número de sesiones que acuerde la Asamblea, hasta que se haya terminado la lectura total del proyecto que se considerará para su aprobación.
-
-###### ARTICULO 161.
-
-Los dictámenes que las Comisiones emitan sobre asuntos que no llegue a conocer la Legislatura que lo recibió, quedarán a disposición de la siguiente, mediante informe que se rinda, con el carácter de proyecto.
-
-###### ARTICULO 162.
-
-Si debe ser reformado un dictamen, la Comisión encargada de hacerlo, lo presentará con las reformas dentro de los cinco días siguientes a la fecha en que lo recibió.
-
-Las iniciativas dictaminadas y no aprobadas no podrán volver a presentarse en el mismo período ordinario de sesiones.
-
-#### SECCION QUINTA. DE LAS DISCUSIONES
-
-###### ARTICULO 163.
-
-La discusión es el acto por el cual el Congreso delibera acerca de los asuntos a fin de determinar si deben o no ser aprobados.
-
-Sólo procede la discusión cuando el Presidente haya presentado el asunto al Pleno para ese efecto.
-
-Tres días a lo menos, antes de la discusión de las Leyes o Decretos, o con la oportunidad necesaria, la Cámara dará aviso al Ejecutivo del Estado, al Supremo Tribunal de Justicia del Estado, a los Ayuntamientos, en sus respectivos casos, a fin de que si lo estiman conveniente, envíen un Representante para que con voz, pero sin voto, tome parte de las discusiones.
-
-Los asuntos se discutirán según estén listados en el orden del día, salvo resolución del Pleno en contrario.
-
-###### ARTICULO 164.
-
-No podrá ser puesto a discusión ningún proyecto de Ley o Decreto sin que previamente se hayan repartido a los Diputados las copias que contengan el dictamen. Llegado el momento de la discusión se leerá el dictamen de la Comisión y una vez concluido el Presidente declarará: "Está a discusión el dictamen".
-
-###### ARTICULO 165.
-
-Al principio de cada discusión cualquier Diputado puede solicitar que el Presidente de la Comisión respectiva explique sus fundamentos.
-
-###### ARTICULO 166.
-
-Tendrá preferencia en el uso de la palabra el Diputado que la solicite para dar lectura a Leyes o documentos que ilustren la discusión.
-
-###### ARTICULO 167.
-
-El Presidente formará una lista de los Diputados que pidan la palabra en contra y otra de los que la pidan en pro, la cual leerá íntegra antes de empezar la discusión.
-
-###### ARTICULO 168.
-
-Todo dictamen de Ley o Decreto se discutirá primero en lo general y después en lo particular. Cuando conste el dictamen de un único artículo será discutido una sola vez.
-
-La discusión en lo general se hará, participando dos Diputados a favor y dos en contra, haciendo uso de la voz primero los que estén en contra y los que estén a favor lo harán al final.
-
-Agotada la discusión en lo general, se ordenará por el Presidente proceder a la votación.
-
-Aprobado en lo general el proyecto, se continuará su discusión en lo particular en los artículos que se hubiesen anotado por la Presidencia, observándose los lineamientos anteriores.
-
-Cuando el proyecto conste de un único artículo no habrá necesidad de votarlo en lo particular.
-
-La discusión en lo particular se hará separando los artículos que lo ameriten, y solamente éstos serán sometidos a ella, considerándose el resto como aprobados. Igualmente se tendrán por aprobados los artículos que reservados para su discusión en lo particular no se hayan hecho, respecto de ellos, proposiciones concretas por escrito. Para este efecto los participantes en la discusión señalarán previamente los artículos que formarán parte de ella y harán las proposiciones concretas, mismas que serán objeto de votación.
-
-Para que las propuestas en lo particular procedan requerirán ser aprobadas en los términos de ley.
-
-Durante la discusión en lo particular de un proyecto podrán presentarse, por escrito, otro u otros artículos para sustituir totalmente al que está a discusión o bien para modificar, adicionar o suprimir algo del mismo.
-
-Cuando la mayoría de los miembros integrantes de la Comisión Dictaminadora acepte la sustitución, modificación o supresión, la proposición se considerará parte del proyecto de la Comisión. De no aceptarla ésta, el Presidente consultará al Pleno si la admite o no a discusión; en el primer caso la someterá a debate y posteriormente resolverá en torno a ella. Y en el segundo caso se tendrá por desechada y aprobada la que se presentó en el dictamen.
-
-###### ARTICULO 169.
-
-Todos los proyectos de Ley que consten de más de treinta artículos podrán ser discutidos y aprobados por Libros, Títulos, Capítulos, Secciones o cualquier otra forma que permita darles organización y congruencia, siempre que así lo acuerde la Cámara, a petición de uno o más de sus miembros.
-
-###### ARTICULO 170.
-
-Cuando se esté discutiendo alguna proposición o proyecto de Ley, no se permitirá tratar otros diferentes.
-
-###### ARTICULO 171.
-
-Si durante la discusión de un artículo hubiere dos o más proposiciones se discutirá una después de la otra.
-
-###### ARTICULO 172.
-
-Cuando un artículo incluya varias partes, estás se discutirán y votarán separadamente, si así lo aprueba la Asamblea.
-
-###### ARTICULO 173.
-
-En las discusiones, las intervenciones de los miembros del Congreso, serán por una sola vez cuando se trate del mismo punto y tendrán una duración máxima de treinta minutos, para hacerlo por más tiempo, necesitarán la autorización de la Asamblea concedida por la mayoría en votación económica. Pudiendo además, hacer uso de la palabra únicamente para rectificar, contestar alusiones personales o hacer aclaraciones sobre conceptos vertidos por el orador en turno por un término no mayor de cinco minutos, por una sola vez.
-
-Los diálogos quedan prohibidos. Para interpelar al orador se requerirá su autorización previa.
-
-###### ARTICULO 174.
-
-Si en el curso de las discusiones, con el propósito de clarificar los debates se interpela al orador, éste podrá, discrecionalmente, contestar la interpelación o abstenerse de hacerlo. Las interpelaciones se harán siempre claras, precisas y concretas.
-
-###### ARTICULO 175.
-
-No se podrá reclamar el orden sino ante el Presidente, en los tres casos siguientes: primero, cuando se infrinja algún artículo de esta Ley; segundo, cuando se viertan injurias contra alguna persona o corporación y tercero, en los casos del artículo 42, fracciones VII y VIII, y siempre que por grave desorden en el seno de la Cámara o en las galerías sea necesario levantar la sesión pública para continuarla secreta. No se tomarán como injurias, hablar de faltas cometidas por empleados públicos en el desempeño de sus obligaciones.
-
-En cualquier momento del debate se podrá pedir se observen las disposiciones de la Ley formulando una moción de orden. Quien pidiere la moción deberá citar el precepto o preceptos legales cuya aplicación reclama.
-
-Escuchada y valorada la moción el Presidente resolverá lo conducente.
-
-###### ARTICULO 176.
-
-Ningún Diputado, cuando se encuentre en tribuna en el uso de la palabra podrá ser interrumpido, salvo por el Presidente para pedir la lectura de un documento que ilustre la discusión, advertirle que se le ha agotado el tiempo, exhortarlo a que se atenga al tema de discusión; llamarlo al orden cuando ofenda al Congreso, a alguno de los Diputados o al público, o para preguntarle si acepta contestar alguna interpelación que le formulare otro Diputado.
-
-###### ARTICULO 177.
-
-Los Diputados harán uso de la palabra en el orden que se les conceda, y los que no se encuentren presentes en el salón de sesiones cuando les toque el turno, se entenderá que la renuncian.
-
-###### ARTICULO 178.
-
-Cuando ningún Diputado pida la palabra en contra de algún dictamen, se considerará discutido, procediéndose a su votación.
-
-###### ARTICULO 179.
-
-Cuando no haya quien pida la palabra, en contra de algún dictamen el Presidente o alguno de los miembros de la Comisión podrá informar los motivos que se tuvieron para elaborarlo.
-
-###### ARTICULO 180.
-
-Los miembros de la Comisión que elaboró el dictamen que se discute podrán participar en la discusión cuantas veces lo estimen conveniente.
-
-###### ARTICULO 181.
-
-Ninguna discusión se podrá suspender sino por estas causas:
-
-I.- Por el acto de levantar la sesión a la hora señalada o por no existir quórum;
-
-II.- Por grave desorden en las galerías o en el seno de la misma Cámara, y mientras se restableciera el orden; y
-
-III.- Por alguna proposición suspensiva de cualquier miembro de la Cámara, en los términos del articulado siguiente.
-
-###### ARTICULO 182.
-
-En la discusión del dictamen no podrá hacerse más de una moción suspensiva.
-
-###### ARTICULO 183.
-
-Presentada por escrito una moción suspensiva se leerá sin otro requisito que oír a su autor si la quisiera fundar, o a cualquiera otro de los Diputados, luego de lo cual en votación económica se preguntará a la Cámara si se toma en consideración; en caso de negativa, se tendrá por desechada y en caso de afirmativa se discutirá y votará en el acto.
-
-###### ARTICULO 184.
-
-Puesto a discusión algún dictamen o iniciativa, ni la Comisión ni sus autores podrán retirarlo sin previa licencia de la Cámara, que se solicitará verbalmente; sin embargo, aún sin retirar el dictamen o iniciativa, podrán sus autores modificarlo al tiempo de discutirse en particular, pero en el sentido que manifieste la discusión.
-
-###### ARTICULO 185.
-
-Cuando ninguno de los Diputados pretenda ya hacer uso de la palabra, el Presidente preguntará por sí o a petición de alguno de los miembros de la Cámara, si el asunto está o no debidamente discutido. Si se declara que no está, se continuará la discusión, pero si el voto es por la afirmativa se procederá conforme el artículo 189. Bastará que haya hablado un orador en favor y otro en contra para que se repita la pregunta.
-
-###### ARTICULO 186.
-
-En la discusión, y a solicitud de los participantes en la misma, podrán traerse a la vista los documentos que sean necesarios, bastando para hacerlo que lo apruebe como pertinente la Asamblea.
-
-###### ARTICULO 187.
-
-Si se declara que vuelva a Comisión algún dictamen, para que se reforme, en lo general o en lo particular, la Comisión lo hará en el sentido que haya manifestado la discusión, presentándolo de nuevo a más tardar dentro de cinco días de haber recibido el expediente.
-
-###### ARTICULO 188.
-
-Cuando en el curso de la discusión se hubiere propuesto la modificación de algún artículo se procederá a la votación correspondiente y el artículo se aprobará de acuerdo con el resultado de la votación.
-
-###### ARTICULO 189.
-
-Agotada la discusión en lo general o en lo particular, se ordenará por el Presidente que procederá la votación por los Diputados.
-
-###### ARTICULO 190.
-
-Al empezar la discusión, podrán los Representantes del Ejecutivo informar a la Cámara lo que estimen conveniente y exponer cuantos fundamentos quieran en apoyo de la opinión que pretendan sostener.
-
-###### ARTICULO 191.
-
-Los Diputados, cuando aporten algún escrito como anexo a su intervención, pueden solicitar que se transcriba en el acta, siempre que entreguen dicho escrito a la Secretaría.
-
-#### SECCION SEXTA. DE LAS VOTACIONES
-
-###### ARTICULO 192.
-
-Habrá tres clases de votaciones: nominal, económica y por cédula.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
-
-###### ARTICULO 193.
-
-En las votaciones nominales, se procederá al pase de lista de los Diputados para que expresen su voto directamente, contestando aprobado o no aprobado.
-
-Las votaciones nominales, serán en los casos siguientes:
-
-I.- Cuando se vote un proyecto de Ley, en lo general o en lo particular;
-
-II.- Cuando se voten iniciativas que el Congreso del Estado dirija al de la Unión; y
-
-III.- Cuando así lo determine el Presidente de la Mesa Directiva o la Asamblea.
-
-###### ARTICULO 194.
-
-La votación económica se practicará levantando la mano los Diputados que estén a favor de la proposición de que se trate, en los asuntos no comprendidos en el artículo anterior. Se considerará que votan en contra, quienes no hagan ese signo. De esta votación, cualquier Diputado puede pedir que se rectifique.
-
-###### ARTICULO 195.
-
-La votación por cédula consiste en que por escrito se exprese el nombre de la persona por la que se emite el voto y su escrutinio será secreto.
-
-Las votaciones serán por cédula en los casos siguientes:
-
-I.- Las que tengan por objeto elegir a la Mesa Directiva del Congreso;
-
-II.- Las que tengan por objeto elegir al Gobernador del Estado en los términos del Artículo 43 fracción XIII de la Constitución Política del Estado;
-
-III.- Las que tengan por finalidad designar a los Magistrados del Supremo Tribunal de Justicia del Estado;
-
-IV.- Las que tengan por objeto designar a los Magistrados del Tribunal Estatal Electoral;
-
-V.- Las que tengan por objeto designar a los Magistrados del Tribunal de lo Contencioso Administrativo del Estado;
-
-VI.- Las que tengan por objeto designar a los miembros del Congreso que serán Consejeros del Poder Legislativo ante el Consejo Estatal Electoral;
-
-VII.- Las que tengan por objeto designar a los Consejeros Ciudadanos del Consejo Estatal Electoral; y
-
-VIII.- En general, todas aquellas que se trate de nombrar o elegir personas.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
-
-###### ARTICULO 196.
-
-Los Diputados en las votaciones nominales y económicas, tienen obligación de votar precisamente en sentido afirmativo o negativo, sin que por ningún motivo puedan salvar su voto.
-
-Encontrándose presente el Diputado y no manifestando su voto, se entenderá a favor del proyecto.
-
-###### ARTICULO 197.
-
-En las votaciones económicas, todo Diputado puede pedir que se haga constar en el acta el sentido en que haya votado. Esta petición se podrá hacer en la misma sesión o en la inmediata, al tiempo de aprobarse el acta.
-
-###### ARTICULO 198.
-
-Los empates en las votaciones nominales y económicas, se decidirán ampliando la discusión y volviendo a votar y si resultare nuevamente empatada, se discutirá y votará otra vez el asunto en la sesión inmediata; pero si el empate volviere a tener lugar se reservarán la discusión y votación para cuando algún Diputado manifieste que ha modificado su opinión o cuando haya algún cambio en la integración de la Cámara.
-
-###### ARTICULO 199.
-
-Serán económicas todas las votaciones, con excepción de los casos en que se pida votación nominal, así como cuando se trate de la aprobación de Leyes o Decretos.
-
-###### ARTICULO 200.
-
-Se harán por cédula todas las votaciones en que se elijan personas; al efecto, los Diputados las depositarán en una urna que con tal objeto se colocará en la mesa.
-
-###### ARTICULO 201.
-
-Concluida la votación por cédula, uno de los Secretarios preguntará si falta algún Diputado por votar, enseguida contará las cédulas para comparar su número con el de votantes, y se hará el computo de votos y se dará a conocer el resultado.
-
-###### ARTICULO 202.
-
-Cuando alguna persona no tuviera mayoría absoluta en el primer escrutinio, se repetirá la elección entre los dos que obtuvieron el mayor número de votos si dos o más hubieren obtenido igual número de sufragios, entre ellos se repetirá la elección pero habiendo al mismo tiempo otra persona que haya obtenido mayor número de sufragios que aquéllos se le tendrá como primer competidor y el segundo se sacará por votación entre quienes tengan igual número de votos. Repetida la votación y resultando empate, decidirá la suerte quién debe ser electo.
-
-###### ARTICULO 203.
-
-Toda vez que se encuentren cédulas en blanco al computar una votación, se adicionarán a los votos que haya reunido el candidato que tenga más.
-
-###### ARTICULO 204.
-
-Antes de efectuarse cualquier votación, llamará el Presidente con la campanilla, advirtiendo que se va a votar y haciendo que se avise a los Diputados que hayan salido del salón; se colocarán los mencionados funcionarios en sus asientos comenzando entonces la votación.
-
-###### ARTICULO 205.
-
-Cualquier Diputado que tenga interés personal en un negocio, se retirará tan pronto como llegue la hora de votarlo, pero sólo por el tiempo que dure la votación. Cuando asista a la Cámara el Representante del Ejecutivo, se abstendrá siempre de tomar parte en las votaciones.
-
-###### ARTICULO 206.
-
-No podrán dividirse los artículos de cualquier dictamen en más partes, al tiempo de la votación, que aquellas en que se haya dividido al tiempo de la discusión.
-
-###### ARTICULO 207.
-
-Mientras se efectúa la votación, ningún Diputado podrá salir del salón ni excusarse de votar.
-
-###### ARTICULO 208.
-
-Todas las votaciones de cualquier clase, se verificarán a mayoría absoluta de votos con los Diputados que se encuentren presentes en el momento de la votación, si forman quórum, a no ser en aquellos casos en que la Constitución o esta Ley señalen otra forma.
-
-#### SECCION SEPTIMA. DE LAS OBSERVACIONES DEL EJECUTIVO
-
-###### ARTICULO 209.
-
-Una vez aprobado el proyecto de Ley o Decreto se remitirá al Ejecutivo del Estado, quien si no tuviere observaciones que hacer lo promulgará inmediatamente.
-
-###### ARTICULO 210.
-
-Devuelta la Ley o Decreto por el Ejecutivo con observaciones, en todo o en parte, volverá el expediente a la Comisión para que en vista de ella examine de nuevo el asunto y emita su parecer.
-
-###### ARTICULO 211.
-
-El nuevo Dictamen de la Comisión será leído y discutido con las mismas formalidades que el primero pero concretándose la discusión solamente a las observaciones hechas.
-
-###### ARTICULO 212.
-
-Para ratificar un Proyecto de Ley o de Decreto devuelto por el Ejecutivo con observaciones, o aprobar éstas, se requiere el voto afirmativo de dos terceras partes de los Diputados presentes.
-
-###### ARTICULO 213.
-
-Se reputará aprobado por el Ejecutivo, todo proyecto de Ley o Decreto que no sea devuelto con observaciones al Congreso dentro de los primeros ocho días útiles contados desde la fecha en que lo reciba, a no ser que corriendo ese término hubiere el Congreso cerrado sus sesiones; en ese caso, la devolución deberá hacerse el primer día útil del nuevo período ordinario de sesiones.
-
-#### SECCION OCTAVA. DE LAS DISPENSAS DE TRÁMITE
-
-###### ARTICULO 214.
-
-Para que se dispensen los trámites que debe correr un Proyecto de Ley o Iniciativa, se necesita proposición verbal o escrita, en que se pida a la Cámara la dispensa expresándose los trámites cuya dispensa se solicita, o si se pide la de todos.
-
-###### ARTICULO 215.
-
-La proposición podrá ser puesta a discusión, la que versará sobre la urgencia u obvia resolución de la Ley o Decreto de que se trate, pudiendo hablar dos Diputados en pro y dos en contra.
-
-###### ARTICULO 216.
-
-Si se otorgara la dispensa de todos los trámites el proyecto de Ley será puesto inmediatamente a discusión en lo general y en lo particular.
-
-En esta dispensa de trámites no se entienden comprendidos los que se originen de la discusión en adelante, a menos que se presente nueva solicitud de dispensa.
-
-###### ARTICULO 217.
-
-Podrán dispensarse todos o cualquiera de los trámites formales previstos en esta Ley.
-
-#### SECCION NOVENA. DE LA EXPEDICIÓN DE LAS LEYES
-
-###### ARTICULO 218.
-
-Las Leyes no comprenderán más que un sólo objeto que se expresará siempre en su epígrafe o rubro. No se reformarán por simple referencia a su título o fecha, sino que la Ley reformada, capítulo, artículo o cualquiera otra parte de ella, se propondrá de nuevo tal como debe quedar aprobada, para substituir completamente a la Ley, capítulo, artículo o cualquiera otra parte reformada. Si la reforma consistiere en intercalar artículos adicionales, la nueva Ley expresará el artículo o artículos de la antigua que se adicionen, señalando a aquéllos el lugar en que deben quedar.
-
-###### ARTICULO 219.
-
-Toda Ley o Decreto será expedido bajo la firma del Presidente y Secretarios del Congreso, en la siguiente forma: "El Congreso del Estado Libre y Soberano de Sinaloa, representado por su (número de orden) Legislatura, ha tenido a bien expedir la (o el) siguiente Ley (o Decreto); (número) o nombre oficial de la Ley o Decreto". Seguirá el texto y al final dirá: " Es dado en el Palacio del Poder Legislativo del Estado en Culiacán Rosales, Sinaloa a los.... días del mes de......de....."
-
-### CAPITULO III. DE LA ASISTENCIA DE LOS CIUDADANOS A LAS SESIONES
-
-Y DEL ORDEN PÚBLICO
-
-###### ARTICULO 220.
-
-Toda persona sin excepción tiene el derecho de asistir a presenciar el desarrollo de las sesiones públicas del Congreso. La seguridad y el acceso del público al recinto legislativo, conforme a la capacidad del mismo, será garantizado por el personal administrativo del Congreso.
-
-###### ARTICULO 221.
-
-No se permitirá la entrada a quienes se presenten armados, bajo el aparente influjo de alguna sustancia tóxica o enervante; embozado; se nieguen a identificarse o pretendan introducir objetos extraños sin someterlos a su inspección por el personal encargado.
-
-###### ARTICULO 222.
-
-Los asistentes al salón de sesiones conservarán el mayor silencio, respeto y compostura y por ningún motivo podrán tomar parte en las discusiones, ni realizar manifestaciones de ningún género. En todo caso los asistentes deberán guardar las normas de orden, respeto y cordura que la Presidencia disponga para asegurar el desarrollo de las sesiones.
-
-###### ARTICULO 223.
-
-La infracción a lo dispuesto anteriormente será sancionada por el Presidente, ordenando abandonar el salón a los responsables y siendo mayor la falta mandará detener al que la cometiere y bajo la correspondiente custodia lo pondrá a disposición de las autoridades competentes.
-
-###### ARTICULO 224.
-
-Si las disposiciones ordenadas por el Presidente no bastaren para contener el desorden en el salón de sesiones, de inmediato levantará la sesión pública y podrá continuarla en secreto. Lo mismo hará cuando no pueda restablecerse el orden alterado por los miembros de la Legislatura.
-
-###### ARTICULO 225.
-
-Cuando el Congreso o su Presidente lo consideren conveniente, ordenarán que se sitúe policía o fuerza armada en el edificio del mismo, disponiendo la autoridad que la proporcione que se ponga a las órdenes del Presidente del Congreso.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
-
-### CAPÍTULO III BIS. DE LA DIFUSIÓN DEL TRABAJO PARLAMENTARIO
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
-
-ARTICULO 225 BIS.- El Congreso del Estado contará con un canal televisivo para la permanente difusión de sus sesiones públicas, así como de todas aquellas actividades que contribuyan al desarrollo y fortalecimiento de la cultura parlamentaria y democrática de los sinaloenses.
-
-El Canal Legislativo estará a cargo de la Comisión de Biblioteca, Cultura Parlamentaria y Asuntos Editoriales, la cual será responsable de todo lo relativo a su funcionamiento y estará apoyada por la Dirección de Gestión y Vinculación Social.
-
-En tanto no se establezca previsión presupuestal para la creación de un Canal Televisivo exclusivo del Poder Legislativo del Estado, la Comisión de Biblioteca, Cultura Parlamentaria y Asuntos Editoriales, con apoyo de la Dirección de Gestión y Vinculación Social celebrarán convenios de colaboración con las diversas repetidoras o canales de naturaleza cultural y académica que se proyectan en el Estado, a través de los sistemas ordinario o de cable local, con el fin de posibilitar la inmediata transmisión en vivo o diferido de las sesiones y trabajos de esta Soberanía.
-
-### CAPITULO IV. DE LA CONSULTA POPULAR
-
-###### ARTICULO 226.
-
-El Congreso por acuerdo de la mayoría de sus integrantes o de las Comisiones previo acuerdo, en este último caso, de la Gran Comisión podrán convocar a reuniones de audiencia para someter a consulta pública asuntos de su competencia.
-
-###### ARTICULO 227.
-
-Para los efectos del artículo anterior, el Congreso o las Comisiones en su caso, acordarán los términos de la convocatoria, la cual deberá cumplir al menos con los siguientes requisitos:
-
-I.- Objeto y materia de la consulta;
-
-II.- Ciudadanos, organizaciones y agrupaciones que se invita a participar;
-
-III.- Fechas y lugares en que se habrán de celebrar las audiencias públicas; y
-
-IV.- Bases para su desarrollo.
-
-###### ARTICULO 228.
-
-Una vez concluida la consulta pública y previo informe que al respecto se presente a la Cámara, el Congreso podrá ordenar la publicación de la memoria de la consulta o de las conclusiones en su caso.
-
-### CAPITULO V. DE LAS REFORMAS A LA CONSTITUCION
-
-###### ARTICULO 229.
-
-Los trámites para las reformas a la Constitución serán los que señala la misma en su artículo 159, como sigue:
-
-I.- Toda iniciativa de reforma presentada al Congreso por servidor público o ciudadano alguno del Estado, tendrá su primera lectura, después de la cual se consultará a la Cámara si es de tomarse en consideración o no. Si previa discusión se responde negativamente por mayoría, se tendrá por desechada y así se comunicará a su autor. Si fuere aceptada la iniciativa por la mayoría absoluta de los Diputados presentes, se turnará el asunto a la Comisión de Puntos Constitucionales y Gobernación que tendrá a su cargo la producción del dictamen.
-
-II.- Presentado el dictamen se le dará lectura y se fijará fecha para su discusión, girando los avisos correspondientes al Ejecutivo, al Supremo Tribunal, a los Ayuntamientos y al autor de la iniciativa, en su caso.
-
-III.- En la sesión de la discusión final, hablarán por orden de preferencia, el autor de la iniciativa, los miembros de la Comisión, los demás Diputados, los representantes del Ejecutivo, del Supremo Tribunal, de los Ayuntamientos y de los ciudadanos presentes. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que el Congreso del Estado, por el voto de las dos terceras partes del número total de Diputados, acuerden las reformas y adiciones.
-
-IV.- Acordada por el Congreso la reforma se emitirá el Decreto correspondiente y se girará copia del expediente a todos los Ayuntamientos, quienes deberán dar su voto dentro de los quince días siguientes y aprobada por la mayoría absoluta de ellos, quedará incorporada la reforma en el texto de la Constitución. Al Ayuntamiento que dejare de emitir su voto dentro del plazo señalado se le computará como afirmativo.
-
-El Congreso del Estado, o la Diputación Permanente en su caso, realizarán el cómputo de la votación emitida por los Ayuntamientos y verificando la mayoría absoluta requerida se hará la declaratoria correspondiente y se ordenará su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-V.- La copia del expediente integrado con las reformas o adiciones acordadas que deba enviarse a los Ayuntamientos para que emitan su voto aprobatorio, contendrá lo siguiente:
-
-A.- Iniciativa de la reforma o adición propuesta.
-
-B.- Dictamen de la iniciativa de reforma o adición.
-
-C.- Decreto que acuerda la reforma o adición.
-
-VI.- El Ejecutivo del Estado no podrá hacer alguna observación ni oponerse a sancionar y promulgar las reformas constitucionales, aprobadas en los términos expresados en las fracciones que anteceden.
-
-## TITULO SEXTO. DE LAS FUNCIONES DE JURADO
-
-### CAPITULO UNICO. DE LA ORGANIZACION DEL JURADO Y
-
-PERSONAS SUJETAS A SU JURISDICCION
-
-###### ARTICULO 230.
-
-Para el desempeño de las funciones judiciales que la Constitución encomienda al Congreso se erigirá éste en Jurado para poner en estado las causas que deba conocer la Comisión Instructora.
-
-###### ARTICULO 231.
-
-Podrán ser sujetos de juicio político, para sancionar su responsabilidad, el Gobernador, los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia del Estado, los Magistrados de las Salas de Circuito del Poder Judicial del Estado, los Secretarios del Despacho del Poder Ejecutivo, el Procurador General de Justicia y los Jueces de Primera Instancia, así como los Titulares y Directores, o sus equivalentes, de las entidades, instituciones u organismos que integren la administración pública paraestatal conforme al primer párrafo del Artículo 130 de la Constitución Política del Estado de Sinaloa, así como los Presidentes Municipales y Regidores de los Ayuntamientos.
-
-###### ARTICULO 232.
-
-Se requiere declaratoria previa del Congreso del Estado, erigido en Jurado de Acusación, por mayoría absoluta de los Diputados presentes, de que ha lugar a proceder penalmente en contra del inculpado, tratándose de delitos atribuidos a Diputados de la Legislatura Local, Magistrados del Supremo Tribunal de Justicia, Secretarios del Despacho del Poder Ejecutivo, Procurador General de Justicia y Presidentes Municipales, quienes serán juzgados por la autoridad competente.
-
-###### ARTICULO 233.
-
-Tratándose de delitos que se imputen a los servidores públicos a que se refiere el párrafo segundo del Artículo 135 de la Constitución Política del Estado, se requiere declaratoria previa del Congreso Local erigido en Jurado de Acusación, para resolver sobre la subsistencia del fuero constitucional cuya remoción se solicita y de que ha lugar a proceder penalmente en contra del inculpado.
-
-###### ARTICULO 234.
-
-Siempre que el Congreso esté en receso, las acusaciones que se hagan contra las personas que disfrutan de inmunidad, se presentarán a la Diputación Permanente. Leídas en la primera sesión, se pasarán a la Comisión Instructora y si ésta no estuviere completa y no pudiere integrarse con los suplentes, la misma diputación nombrará con ese fin a alguno o algunos de sus propios miembros.
-
-###### ARTICULO 235.
-
-Procederá el juicio político en contra del Gobernador del Estado, los Diputados Locales y los Magistrados del Supremo Tribunal de Justicia, solamente por las faltas y omisiones en que incurren durante el ejercicio de su encargo, en perjuicio de los intereses públicos fundamentales o de su buen despacho.
-
-###### ARTICULO 236.
-
-Son causas que lesionan los intereses públicos fundamentales o su despacho:
-
-I.- La violación grave a disposición expresa de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado o de las Leyes que de ellas emanen;
-
-II.- El manejo indebido de fondos y recursos del Estado de la Federación; y,
-
-III.- Los ataques a la libertad de sufragio.
-
-###### ARTICULO 237.
-
-El Gobernador del Estado durante el tiempo de su encargo sólo podrá ser enjuiciado por delitos graves del fuero común, previa declaratoria de la Legislatura, y será juzgado por el Pleno del Supremo Tribunal de Justicia erigido en Jurado de Sentencia.
-
-###### ARTICULO 238.
-
-El Juicio Político procede en contra de los Secretarios de Despacho del Poder Ejecutivo, el Procurador General de Justicia y los Jueces de Primera Instancia, así como los titulares y directores o equivalentes de las entidades, instituciones y organismos que integren la administración pública paraestatal y paramunicipal y los Presidentes Municipales y Regidores de los Ayuntamientos por las causas señaladas en el artículo 236 y además por las siguientes:
-
-I.- Las violaciones graves y sistemáticas a las garantías individuales o sociales;
-
-II.- La usurpación de atribuciones;
-
-III.- Cualquier infracción a la Constitución Política de los Estados Unidos Mexicanos, a la del Estado, a las Leyes federales o locales, cuando cause perjuicios graves a la Federación, al Estado, a los Municipios, a la sociedad, o motive algún trastorno en el funcionamiento normal de las instituciones;
-
-IV.- Las violaciones sistemáticas o graves a los planes, programas y presupuestos de la Administración Pública Federal, Estatal o Municipal y a las Leyes que determinen el manejo de sus recursos económicos;
-
-No procederá el juicio político por la sola expresión de las ideas.
-
-###### ARTICULO 239.
-
-Los servidores públicos mencionados en el presente Capítulo, en su caso, serán sancionados con destitución del empleo, cargo o comisión y atendiendo a la gravedad de la falta podrá imponerse además inhabilitación para el servicio público, desde uno hasta veinte años.
-
-###### ARTICULO 240.
-
-Los procedimientos de Juicio Político, declaratoria de procedencia por la comisión de delitos, y de responsabilidad y sanciones a iniciativas que realice la Comisión Instructora del Congreso del Estado, se efectuarán conforme a las disposiciones que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
-
-## TITULO SEPTIMO. DEL BANDO SOLEMNE Y FACULTADES DE NOMBRAMIENTO
-
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
-
-###### ARTICULO 241.
-
-El Congreso del Estado expedirá el Bando Solemne entre los días 15 al 20 de diciembre del año de la elección, para dar a conocer en todo el Estado la declaración de Gobernador electo que hubiera hecho el Tribunal Estatal Electoral; una vez recibida por el mismo, la declaratoria de validez de la elección y la del Gobernador electo, respecto del candidato que hubiera obtenido el mayor número de votos.
-
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2007)</small>
-
-En caso de que se presente la hipótesis del artículo 99, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos, se suspenderán los actos a que se refiere el párrafo anterior hasta en tanto el Tribunal Electoral del Poder Judicial de la Federación emita la resolución correspondiente y le sea comunicada al Congreso por medio del Tribunal Electoral del Estado.
-
-###### ARTICULO 242.
-
-Las disposiciones legislativas de los Ayuntamientos que estén sujetos conforme a las Leyes, a la revisión del Congreso o de la Diputación Permanente en su caso, seguirán los mismos trámites que señala esta Ley, según su naturaleza.
-
-###### ARTICULO 243.
-
-La elección de Magistrados al Supremo Tribunal de Justicia del Estado, se hará por el Congreso o la Diputación Permanente en los términos previstos por la Constitución Política del Estado.
-
-###### ARTICULO 244.
-
-El Congreso del Estado o su Diputación Permanente tendrán la facultad de elegir y nombrar a los Servidores Públicos que señale la Constitución o sus Leyes Reglamentarias.
-
-###### ARTICULO 68.
-
-Las Comisiones Permanentes serán nombradas por el Pleno, en su conjunto en votación nominal, a propuesta de la Gran Comisión, en la tercera sesión del Primer Período Ordinario de Sesiones del Ejercicio Constitucional.
-
-La Gran Comisión como órgano conductor y coordinador del trabajo legislativo, podrá proponer al Pleno el cambio de alguno o varios de los integrantes de las Comisiones Permanentes cuando se justifique.
-
-Para los efectos del párrafo anterior, la Gran Comisión analizará en su seno las razones o motivos por los cuales estima procedente proponer al Pleno el cambio de integrantes de las Comisiones Permanentes.
-
-Las razones o motivos por los cuales se considera procedente el cambio de algún integrante de las Comisiones Permanentes se contendrán en la propuesta que dirigirá la Gran Comisión al Pleno.
-
-El Pleno del Congreso del Estado, acordará por mayoría de los Diputados presentes, la propuesta del cambio de integrantes de las Comisiones Permanentes.
-
-###### ARTICULO 69.
-
-Los Integrantes de las Comisiones Permanentes durarán en su cargo por el término establecido para el ejercicio constitucional de la Legislatura correspondiente y sólo podrán ser removidos por causa grave mediante acuerdo de la Asamblea.
-
-###### ARTICULO 70.
-
-Las Comisiones Permanentes, tendrán la competencia que se derive de su denominación en relación a las áreas respectivas de la Administración Pública Estatal y en su caso a la materia de su conocimiento. En el ejercicio de sus funciones podrán dar seguimiento a los programas correspondientes, realizar trabajos de coordinación, así como analizar y dictaminar las iniciativas de Ley y de Decreto, y de participar en las deliberaciones de la Asamblea de acuerdo con las disposiciones de esta Ley.
-
-Las reuniones de las Comisiones serán privadas, pero podrán celebrar, si así lo acuerdan, reuniones públicas con propósitos de información y audiencia.
-
-A las reuniones de las Comisiones asistirán sus miembros, las personas convocadas para informarlas y los Diputados que lo deseen. En sus deliberaciones sólo podrán participar los Diputados del Congreso y únicamente votarán los miembros de la respectiva Comisión.
-
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1998)</small>
-
-Las Comisiones Permanentes presentarán en la última sesión de cada período ordinario de sesiones un informe escrito, por el que se dé cuenta del uso que hayan hecho de sus atribuciones y de los asuntos que les hayan sido turnados por la Mesa Directiva.
-
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2003)</small>
-
-Las Comisiones Permanentes se reunirán, por lo menos, una vez al mes, con excepción de las Comisiones de Honor y Disciplina Parlamentaria e Instructora.
-
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO UNICO DEL DECRETO No. 147, PUBLICADO EN EL P.O. DE 25 DE JULIO DE 2008, LA ESTRUCTURA DEL PRESENTE ARTICULO HA SIDO MODIFICADA.</small>
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
-
-###### ARTICULO 71.
-
-Las Comisiones Permanentes, además de lo establecido en el artículo anterior, tendrán las siguientes atribuciones:
-
-> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2003)</small>
-
-I.- La Comisión de Puntos Constitucionales y Gobernación atenderá todos los asuntos correspondientes a las reformas constitucionales, a la seguridad pública, así como los relacionados con la expedición de Leyes;
-
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2008)</small>
-
-II.- La Comisión de Fiscalización, en los términos que establece la Ley de la Auditoría Superior del Estado:
-
-a) Atenderá lo relacionado a la revisión y fiscalización de las cuentas públicas;
-
-b) Propondrá el nombramiento del Auditor Superior del Estado y revisará su informe anual así como su programa de trabajo;
-
-c) Establecerá los criterios generales para la organización y el funcionamiento de la Auditoría Superior del Estado; y
-
-d) Conocerá de procedimientos de responsabilidades que instruya el órgano fiscalizador.
-
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2008)</small>
-
-III.- La Comisión de Protocolo y Régimen Orgánico Interior tendrá a su cargo preparar los proyectos de Ley o Decreto para actualizar las normas de las actividades camarales, estudiar las disposiciones normativas, regímenes y prácticas parlamentarias y desahogar las consultas sobre la aplicación e interpretación de esta Ley, prácticas y usos parlamentarios;
-
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2008)</small>
-
-IV.- La Comisión de Hacienda Pública y Administración tendrá a su cargo el despacho de los negocios que le señalen las Leyes, en materia fiscal, los asuntos donde se ventile la situación de la hacienda pública estatal y de los municipios, así como los asuntos en materia de administración pública estatal y municipal.
-
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2008)</small>
-
-V.- La Comisión de Honor y Disciplina Parlamentaria funcionará cuando así lo acuerde la Asamblea y conocerá específicamente de los hechos en que se vean involucrados los Diputados en el desarrollo de sus funciones;
-
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2008)</small>
-
-VI.- La Comisión de Justicia se hará cargo de los asuntos relacionados con la procuración y la administración de justicia; y,
-
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2008)</small>
-
-VII.- La Comisión Instructora tendrá la competencia que le señale la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa.
-
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2008)</small>
-
-###### ARTICULO 72.
-
-Las Comisiones permanentes se integrarán con cinco Diputados, con excepción de la Comisión de Fiscalización, que estará compuesta de siete Diputados. La composición de las comisiones permanentes será siempre plural.
-
-Las comisiones especiales se integrarán con un mínimo de tres y un máximo de cinco Diputados.
-
-En ningún caso un Diputado podrá formar parte de más de cuatro Comisiones Permanentes.
-
-Las Comisiones de Puntos Constitucionales y Gobernación, de Hacienda Pública y Administración, y de Fiscalización, contarán para el desempeño de sus funciones con espacios adecuados y con los recursos humanos y materiales suficientes para el desarrollo profesional y eficiente de sus labores, de acuerdo con la disponibilidad presupuestal.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
-
-###### ARTICULO 73.
-
-Habrá una Comisión de Concertación Política la cual se integrará por los Diputados Coordinadores de cada uno de los diversos Grupos Parlamentarios, más otro Diputado del grupo mayoritario en la Cámara y sus Acuerdos sólo se tomarán por consenso.
-
-Cuando un Grupo Parlamentario cambie de Coordinador, el designado se integrará a la Comisión de Concertación Política en sustitución del anterior.
-
-La Comisión de Concertación Política tendrá a su cargo las funciones tendientes a la realización de las acciones específicas que propicien el mejor desarrollo de las labores camarales, previo a los Acuerdos a que lleguen los Diputados integrantes de la misma Comisión, buscando siempre los puntos de consenso para hacer las propuestas que se requieran para el cumplimiento de sus funciones.
-
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2007)</small>
-
-Esta Comisión organizará y dirigirá la reunión de trabajo entre los Diputados y el Ejecutivo y su gabinete, dentro de los quince días siguientes, de la presentación del informe del Gobernador del Estado, para valorar la situación que guarda la Administración Pública, cuidando por el orden del acto y la participación equitativa de los Diputados de los distintos partidos o grupos parlamentarios.
-
-###### ARTICULO 74.
-
-Las Comisiones Especiales serán designadas por la Cámara y tendrán la competencia que se les atribuya en el acto de su designación.
-
-###### ARTICULO 75.
-
-Las faltas de los integrantes de las Comisiones Permanentes serán cubiertas por los Diputados que nombre la Cámara.
-
-###### ARTICULO 76.
-
-En las Comisiones actuarán como Presidente el primero que sea nombrado, el designado en segundo lugar como Secretario y los miembros restantes como Vocales.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
-
-###### ARTICULO 77.
-
-Los Presidentes de las Comisiones Permanentes tendrán las siguientes atribuciones:
-
-I.- Instalar formalmente las Comisiones;
-
-II.- Coordinar los trabajos de las Comisiones;
-
-III.- Representar a las Comisiones ante las instancias que correspondan;
-
-IV.- Recibir y solicitar la información que sea necesaria para el cumplimiento de las funciones de las Comisiones;
-
-V.- Dar trámite y procurar que los asuntos de las Comisiones sean atendidos en los términos que establece la Ley;
-
-VI.- Citar a reunión de las Comisiones cuando haya asuntos que deban ser conocidos por la misma;
-
-VII.- Presidir y coordinar las sesiones de las Comisiones; y
-
-VIII.- Las demás que la Ley y otras disposiciones o Acuerdos de la Cámara establezcan.
-
-### CAPITULO VII. DE LA DIPUTACION PERMANENTE
-
-###### ARTICULO 78.
-
-La Diputación Permanente ejercerá las facultades y obligaciones que le confiere la Constitución Política del Estado y esta Ley.
-
-###### ARTICULO 79.
-
-La Diputación Permanente es el órgano del Congreso del Estado que durante los recesos de éste desempeña las funciones siguientes:
-
-I.- Recibir y despachar la correspondencia del Congreso resolviendo sólo los asuntos de carácter urgente y que no requieran la expedición de una Ley o Decreto, o expidiéndolo únicamente en los casos a que se refieren las fracciones IV, V, VI y XI de este artículo;
-
-II.- Abrir dictamen sobre los asuntos que hubieren quedado sin resolución en los expedientes y sobre los que en el receso del Congreso se presentaren para dar a éste cuenta con ellos en el próximo período de su reunión;
-
-III.- Elegir Presidente Municipal y Regidores sustitutos, en los términos previstos en la ley, en casos de vacante;
-
-IV.- Convocar al Congreso a sesiones extraordinarias cuando proceda;
-
-V.- Convocar a elecciones extraordinarias cuando fuere conducente;
-
-VI.- Nombrar Gobernador Provisional en los casos que la Constitución determine;
-
-VII.- Recibir la protesta del Gobernador del Estado y la de los Magistrados del Supremo Tribunal de Justicia;
-
-VIII.- Elegir a los Magistrados del Supremo Tribunal de Justicia;
-
-IX.- Conceder licencias a sus propios miembros, a los Diputados y demás servidores públicos del Congreso, al Gobernador y a los Magistrados del Supremo Tribunal de Justicia del Estado;
-
-X.- Llamar, en los casos en que se requiera, a los Diputados suplentes;
-
-XI.- Decretar en caso grave, la traslación provisional de los Poderes del Estado fuera del lugar de su residencia; y
-
-XII.- Las que especialmente le encomiende la Cámara, sin constituir violación de lo dispuesto en la fracción II del artículo 44 y las demás facultades que se hayan consignado en la Constitución Política del Estado, o que le confieran las Leyes.
-
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2003)</small>
-
-###### ARTICULO 80.
-
-La Diputación Permanente estará integrada por once diputados de los cuales funcionarán siete como propietarios y cuatro como suplentes generales.
-
-###### ARTICULO 81.
-
-En la última sesión de cada período ordinario de sesiones de ejercicio constitucional, los Diputados integrantes de la Legislatura elegirán, por mayoría de votos de los Diputados presentes, a la Diputación Permanente.
-
-La Diputación Permanente no suspenderá sus trabajos durante los períodos extraordinarios de sesiones que se convoquen, salvo en aquellos que se refieren a los asuntos para el que se haya convocado al período extraordinario respectivo.
-
-###### ARTICULO 82.
-
-La Diputación Permanente se instalará el mismo día en que el Congreso cierre sus sesiones; y hecha la instalación se comunicará por oficio al Gobernador para su conocimiento y publicación, así como a las demás autoridades del Estado.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
-
-###### ARTICULO 83.
-
-Para su instalación, la Diputación Permanente nombrará a un Presidente y un Secretario, fungiendo el resto de los propietarios como Vocales.
-
-###### ARTICULO 84.
-
-El Presidente de la Diputación Permanente tendrá las siguientes facultades:
-
-I.- Abrir, prorrogar, suspender y clausurar las sesiones;
-
-II.- Dar curso reglamentario a los asuntos y determinar los trámites a que deban sujetarse, cuando se de cuenta a la Diputación Permanente de ellos;
-
-III.- Presidir y conducir los debates y las deliberaciones en la Diputación Permanente;
-
-IV.- Establecer el orden del día de las sesiones de la Diputación Permanente;
-
-V.- Conceder la palabra a los Diputados por el turno en que la pidiesen, procurando en lo posible que la usen alternativamente los que hablen en pro y los que hablen en contra, o negarla cuando el asunto sobre el cual se pida la palabra no se esté tratando en ese momento o ya se haya tratado anteriormente;
-
-VI.- Llamar al orden al que faltare al mismo, por sí o excitado por algún otro miembro de la Diputación Permanente;
-
-VII.- Exigir orden al público asistente a las sesiones e imponerlo cuando hubiere motivo para ello;
-
-VIII.- Solicitar el auxilio de la fuerza pública cuando fuese necesario y en los términos de esta Ley;
-
-IX.- Firmar en unión del Secretario los Acuerdos que expida la Diputación Permanente, así como el acta de cada sesión, inmediatamente después de que haya sido aprobada;
-
-X.- Nombrar Comisiones, cuyo objeto fuere de mera ceremonia o para atender algún asunto específico;
-
-XI.- Citar a sesión extraordinaria a la Diputación Permanente cuando lo estime necesario;
-
-XII.- Declarar que no hay la asistencia requerida para celebrar sesión en los términos legales, ordenando a la Secretaría expedir la excitativa a los faltantes para que concurran;
-
-XIII.- Firmar la correspondencia y demás comunicaciones de la Diputación Permanente que así se estime necesario;
-
-XIV.- Tomar las Protestas de Ley a los funcionarios que la deban rendir; y
-
-XV.- Las demás que se deriven de la Ley y de las disposiciones o Acuerdos que emita la Diputación Permanente.
-
-###### ARTICULO 85.
-
-Las faltas del Presidente se cubrirán por el Secretario; en su defecto por los miembros restantes y por los suplentes, en el orden de su nombramiento. Las faltas del Secretario se cubrirán por los Vocales de la Diputación Permanente, o sus suplentes, en el orden de su nombramiento.
-
-###### ARTICULO 86.
-
-Las sesiones de la Diputación Permanente podrán ser: públicas, secretas, ordinarias, extraordinarias y solemnes.
-
-Habrá sesión pública el día martes de cada semana, con excepción de días inhábiles. Las sesiones secretas se realizarán cuando existan asuntos que así lo ameriten a juicio de su Presidente.
-
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2003)</small>
-
-La Diputación Permanente para sesionar requerirá al menos de la concurrencia de cuatro de sus integrantes propietarios. Las ausencias de uno o más de los diputados propietarios serán sustituidas por los suplentes en el orden en que hubiesen sido nombrados.
-
-###### ARTICULO 87.
-
-Tendrá sesiones extraordinarias cuando lo juzgue necesario su Presidente, lo pida el Ejecutivo o algún integrante de la misma Diputación.
-
-###### ARTICULO 88.
-
-Sólo se nombrarán Comisiones Especiales, cuando la Diputación Permanente lo creyere conveniente para el buen funcionamiento de la Cámara.
-
-###### ARTICULO 89.
-
-La Diputación Permanente presentará en la primera sesión del período ordinario de sesiones inmediato un informe escrito, por el que se dé cuenta del uso que haya hecho de sus atribuciones y de los negocios que hubiere despachado.
-
-###### ARTICULO 90.
-
-Cuando por cualquier causa no pudiere una Legislatura inaugurar un período de ejercicio en el día que la Ley determina, la Diputación Permanente continuará en funciones hasta la definitiva instalación de la Cámara.
-
-###### ARTICULO 91.
-
-La Diputación Permanente cesará en sus funciones inmediatamente que el Congreso abra el período ordinario de sesiones.
-
-###### ARTICULO 92.
-
-En todo lo demás que no esté previsto en los artículos anteriores, la Diputación Permanente se sujetará, a lo que esta Ley dispone respecto de la Cámara.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE NOVIEMBRE DE 2001)</small>
-
-### CAPÍTULO VIII. DE LA ORGANIZACIÓN TÉCNICA Y ADMINISTRATIVA DEL CONGRESO DEL ESTADO
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+En casos de duda sobre la interpretación y alcance de las disposiciones de este Reglamento, la Junta determinará lo conducente, y resolverá cualquier situación técnica o administrativa no prevista en el mismo.
 
 ## TRANSITORIOS
 
-###### ARTICULO PRIMERO.
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación por la Junta de Gobierno y Administración, ordenándose su publicación en el Diario Oficial de la Federación, en la Comunidad de Control y Vigilancia Jurisdiccional y en la página web institucional del Tribunal Federal de Justicia Fiscal y Administrativa.
 
-La presente Ley entrará en vigor tres días después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+SEGUNDO. La Secretaría Operativa de Tecnologías de la Información y las Comunicaciones garantizará que la Comunidad de Control y Vigilancia Jurisdiccional cuente con todas las funciones y aplicaciones a que se refiere el presente Reglamento, debidamente probadas y funcionando, a más tardar el 11 de julio de 2013, con independencia de la fecha que la Junta determine para su entrada en operación.
 
-###### ARTICULO SEGUNDO.
+TERCERO. Se abroga el Acuerdo E/JGA/14/2011, en el que se contienen las "Reglas conforme a las cuales se llevará el Proceso de Visita a las Salas Regionales del Tribunal Federal de Justicia Fiscal y Administrativa", dictado por la Junta de Gobierno y Administración en sesión del día 29 de marzo de 2011.
 
-La presente Ley abroga la Ley Orgánica del Congreso del Estado de Sinaloa aprobada según Decreto del 31 de marzo de 1981 y deroga todas las disposiciones legales que se opongan.
+CUARTO. Las referencias que en otros ordenamientos se hagan al Acuerdo E/JGA/14/2011 del día 29 de marzo de 2011 que se abroga, se entenderán hechas al presente Reglamento; las demás disposiciones normativas seguirán en vigor siempre que no se contrapongan con lo señalado en el presente ordenamiento.
 
-###### ARTICULO TERCERO.
+QUINTO. La información recopilada, almacenada, sistematizada o analizada durante el proceso de visita, comprendido de enero de 2013 a la fecha de entrada en vigor del presente Reglamento, quedará incorporada a la Comunidad de Control y Vigilancia Jurisdiccional a efecto de que los Magistrados visitadores cuenten con elementos objetivos para continuar con el Proceso de Vigilancia del desempeño jurisdiccional y administrativo de las Salas del Tribunal durante la anualidad en curso. De la misma manera, todas las evaluaciones, recomendaciones y demás acciones practicadas durante el Proceso de Visita de 2013 se entenderá que forma parte integral del Proceso de Vigilancia a desarrollar en el mismo año.
 
-Corresponderá a la Diputación Permanente el desempeño de las atribuciones consignadas en esta Ley a la Gran Comisión en tanto se nombra ésta.
+Dictado en sesiones de veinte y veintisiete de junio, y cuatro de julio de dos mil trece.- Con fundamento en los artículos 30 fracción XV, 52 fracciones II y III, de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa; así como los artículos 16 fracción VI, 78 fracciones VIII y XI, y 103, del Reglamento Interior del Tribunal Federal de Justicia Fiscal y Administrativa, firman: el Presidente de la Junta de Gobierno y Administración del Tribunal Federal de Justicia Fiscal y Administrativa, Mag. Juan Manuel Jiménez Illescas.- Rúbrica.- Los Integrantes de la Junta de Gobierno y Administración del Tribunal Federal de Justicia Fiscal y Administrativa: Mag. Carlos Chaurand Arzate, Mag. Juan Ángel Chávez Ramírez, Mag. Faustino Gerardo Hidalgo Ezquerra, Mag. Rafael Estrada Sámano.- Rúbricas.- El Secretario Auxiliar de la Junta de Gobierno y Administración, Gibrán Miguel Castañeda de la Cruz.- Rúbrica.
 
-Es dado en el Palacio del Poder Legislativo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los veinticinco días del mes de julio de mil novecientos noventa y cinco.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-Lic. Juan Bautista Camacho Rivera
+D.O.F. 3 DE JULIO DE 2014.
 
-DIPUTADO PRESIDENTE
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-C. Blas Ramón Rubio Lara
+SEGUNDO. Publíquese el presente Acuerdo en la Comunidad de Control y Vigilancia Jurisdiccional y en la página web institucional del Tribunal Federal de Justicia Fiscal y Administrativa.
 
-DIPUTADO SECRETARIO
+TERCERO. Quedan sin efecto todas las disposiciones administrativas emitidas por el Tribunal que contravengan lo establecido en el presente ordenamiento.
 
-Lic. Heriberto Arias Suárez
+CUARTO. Comuníquese el presente Acuerdo a los Presidentes de las Salas Regionales, Especializadas, Auxiliares y/o Mixtas, del Tribunal Federal de Justicia Fiscal y Administrativa, al Titular de la Oficialía de Partes Común de las Salas Regionales Metropolitanas, a los Coordinadores de la Actuaría Común del Tribunal, al Titular de la Unidad de Seguimiento de Visitas, así como al Director General del Sistema de Justicia en Línea.
 
-DIPUTADO SECRETARIO
+D.O.F. 14 DE JULIO DE 2015.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-P.O. 26 DE MARZO DE 1997.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-P.O. 27 DE MARZO DE 1998.
-
-DECRETO NUMERO 453
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-P.O. 27 DE MARZO DE 1998.
-
-DECRETO NUMERO 467
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-P.O. 21 DE OCTUBRE DE 1998.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa", excepto lo dispuesto en los artículos 80 y 83 modificados, los cuales lo harán al día siguiente del inicio de vigencia de la reforma al artículo 49 de la Constitución Política del Estado de Sinaloa.
-
-P.O. 12 DE ABRIL DE 1999.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-P.O. 15 DE SEPTIEMBRE DE 2000.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-P.O. 30 DE NOVIEMBRE DE 2001.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-###### ARTÍCULO SEGUNDO.
-
-El Reglamento del Instituto de Investigaciones Parlamentarias se deberá expedir en un plazo de ciento ochenta días a partir de la publicación del presente decreto.
-
-###### ARTÍCULO TERCERO.
-
-El Reglamento para el Servicio Civil de Carrera del H. Congreso del Estado se deberá expedir en un plazo de ciento ochenta días a partir de la publicación del presente decreto.
-
-P.O. 18 DE ENERO DE 2002.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-P.O. 1 DE AGOSTO DE 2003.
-
-Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-P.O. 6 DE AGOSTO DE 2003.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-P.O. 19 DE DICIEMBRE DE 2003.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-P.O. 9 DE FEBRERO DE 2007.
-
-DECRETO NUMERO 476
-
-###### ARTÍCULO ÚNICO.
-
-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-P.O. 9 DE FEBRERO DE 2007.
-
-DECRETO NUMERO 477
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-P.O. 25 DE JULIO DE 2007.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-P.O. 25 DE JULIO DE 2008.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor un día después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-###### ARTÍCULO SEGUNDO.
-
-La integración de la Comisión de Fiscalización deberá hacerse a más tardar en la última sesión del Segundo Periodo Ordinario de Sesiones del Primer Año de Ejercicio Constitucional de la Quincuagésima Novena Legislatura.
+SEGUNDO.- Para su debida difusión, publíquese el presente Acuerdo en la página web institucional del Tribunal, así como en la Comunidad de Control y Vigilancia Jurisdiccional.
