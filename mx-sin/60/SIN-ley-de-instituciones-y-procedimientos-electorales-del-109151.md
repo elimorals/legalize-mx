@@ -1,0 +1,4192 @@
+---
+title: "LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA"
+identifier: "SIN-ley-de-instituciones-y-procedimientos-electorales-del-109151"
+country: "mx"
+rank: "ley"
+publication_date: "2015-07-15"
+last_updated: "2015-07-15"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109151&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-sin"
+scjn_id: "109151"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "84 SEGUNDA SECCION, PARTES UNO Y DOS"
+reform_count: "18"
+scjn_last_update: "2026-09-04"
+issue_date: "2015-07-02"
+state: "SIN"
+---
+# LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE JULIO DE 2015 EN EL P.O. DEL ESTADO DE SINALOA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 15 de julio de 2015.
+
+El Ciudadano LIC. MARIO LÓPEZ VALDEZ, Gobernador Constitucional del Estado Libre y Soberano de Sinaloa, a sus habitantes hace saber:
+
+Que por el H. Congreso del mismo, se le ha comunicado lo siguiente:
+
+El H. Congreso del Estado Libre y Soberano de Sinaloa, representado por su Sexagésima Primera Legislatura, ha tenido a bien expedir el siguiente,
+
+DECRETO NÚMERO: 364
+
+###### ARTÍCULO ÚNICO.
+
+Se expide la Ley de Instituciones y Procedimientos Electorales del Estado de Sinaloa, para quedar como sigue:
+
+LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA
+
+## TÍTULO PRIMERO
+
+### Capítulo Único. Disposiciones Generales
+
+###### Artículo 1.
+
+La presente ley es de orden público y de observancia general en el Estado de Sinaloa, para las y los ciudadanos sinaloenses que ejerzan sus derechos político-electorales en territorio estatal, y tiene por objeto reglamentar las normas constitucionales locales relativas a las instituciones políticas y la función del Estado en la organización de los procesos electorales para elegir a los integrantes de los Poderes Legislativo y Ejecutivo del Estado, así como de los Ayuntamientos.
+
+###### Artículo 2.
+
+Para los efectos de esta ley se entiende por:
+
+I. Actos Anticipados de Campaña: Son acciones y expresiones realizadas bajo cualquier modalidad y en cualquier momento fuera de la etapa de campañas, que llamen expresamente al voto a favor o en contra de una candidatura o partido político, o que soliciten cualquier tipo de apoyo para contender en el proceso electoral por alguna candidatura o para un partido;
+
+II. Actos Anticipados de Precampaña: Son acciones y expresiones realizadas bajo cualquier modalidad y en cualquier momento entre el inicio de un proceso electoral y el inicio de los procesos internos de los partidos para seleccionar a sus candidaturas a cargos de elección popular, con el objeto expreso de pedir el voto a favor o en contra de una precandidatura;
+
+III. Candidata o Candidato Independiente: La o el ciudadano que obtenga por parte de la autoridad electoral el acuerdo de registro para contender en una elección popular en el Estado, habiendo cumplido los requisitos que para tal efecto establece la presente ley;
+
+IV. Ciudadanos: Las personas que teniendo la calidad de mexicanos reúnan los requisitos determinados en el artículo 8 de la Constitución Estatal;
+
+V. Constitución: La Constitución Política de los Estados Unidos Mexicanos;
+
+VI. Constitución Estatal: La Constitución Política del Estado de Sinaloa;
+
+VII. Consejo General: El Consejo General del Instituto Electoral del Estado de Sinaloa;
+
+VIII. Gobernador: El Gobernador Constitucional del Estado;
+
+IX. Instituto: El Instituto Electoral del Estado de Sinaloa;
+
+X. Periódico Oficial: El Periódico Oficial “El Estado de Sinaloa”; y,
+
+XI. Tribunal Electoral: El Tribunal Electoral del Estado de Sinaloa.
+
+###### Artículo 3.
+
+Las disposiciones de esta ley son aplicables a las elecciones en el ámbito local respecto de las materias que establece la Constitución Estatal y corresponde su aplicación al Instituto y sus órganos, a las Mesas Directivas de Casilla, al Tribunal Electoral y al Congreso del Estado en sus ámbitos de competencia y conforme a las disposiciones vigentes en la materia.
+
+En el ejercicio de la función electoral del Estado:
+
+I. La interpretación de esta ley se hará conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el segundo párrafo del artículo 1° y en el cuarto párrafo del artículo 14 de la Constitución;
+
+II. Las disposiciones de la presente ley se fundan en la Constitución Estatal y las leyes aplicables, conforme a lo previsto en la Constitución y las Leyes Generales vigentes en materia electoral;
+
+III. La promoción de la participación para el ejercicio del derecho al sufragio, corresponde al Instituto, a los partidos políticos y sus candidatos, a las candidaturas independientes y a las y los ciudadanos del Estado. El Consejo General emitirá las reglas a las que se sujetarán las campañas institucionales de promoción del voto en las elecciones populares; y,
+
+IV. El Instituto en el ámbito de sus atribuciones, dispondrá lo necesario para asegurar el cumplimiento de esta ley y demás disposiciones jurídicas aplicables.
+
+## TÍTULO SEGUNDO. De la integración de los Poderes Legislativo y Ejecutivo del Estado y de los Ayuntamientos
+
+### Capítulo I. De la Participación de las y los Ciudadanos en las Elecciones
+
+###### Artículo 4.
+
+Votar en las elecciones constituye un derecho y una obligación que se ejerce para integrar los órganos del Estado de elección popular. También es derecho de las y los ciudadanos y obligación para los partidos políticos la igualdad de oportunidades y la paridad entre hombres y mujeres para tener acceso a cargos de elección popular, en los términos de esta ley.
+
+El voto es universal, libre, secreto, directo, personal e intransferible. Quedan prohibidos los actos que generen presión o coacción a los electores.
+
+Es derecho de las y los ciudadanos ser votado para todos los cargos de elección popular, teniendo las calidades que establece la Legislación de la materia y en su caso, solicitar su registro de manera independiente, cuando cumplan los requisitos y condiciones previstos en esta ley.
+
+###### Artículo 5.
+
+Es obligación de las y los ciudadanos integrar las mesas directivas de casilla en los términos de esta ley.
+
+La presente ley reconoce el derecho exclusivo de las y los ciudadanos mexicanos a participar como observadores de los actos de preparación y desarrollo del proceso electoral, así como en el referéndum, el plebiscito y las demás formas de participación ciudadana que establezca la ley.
+
+###### Artículo 6.
+
+Para el ejercicio del voto popular, las y los ciudadanos deberán satisfacer, además de los que fija el artículo 8° de la Constitución Estatal, los siguientes requisitos:
+
+I. Estar inscritos en el Registro Federal de Electores en los términos dispuestos por la ley de la materia; y,
+
+II. Contar con la credencial para votar con fotografía vigente.
+
+En cada distrito electoral el sufragio se emitirá en la sección electoral que corresponda al domicilio del ciudadano, salvo en los casos de excepción expresamente señalados por esta ley.
+
+### Capítulo II. De la elección de Gobernador, Diputados, Presidentes Municipales, Síndico Procurador y Regidores
+
+###### Artículo 7.
+
+Las elecciones de la Gubernatura, Diputaciones, Presidencias Municipales, Síndico Procurador y Regidurías, se realizarán mediante elecciones libres, auténticas y periódicas a través del sufragio universal, libre, secreto y directo, en los términos que disponen la Constitución Estatal y esta ley.
+
+Las elecciones ordinarias locales se celebrarán el primer domingo de junio del año que corresponda, de conformidad con la Constitución, las Leyes Generales en la materia, la Constitución Estatal y esta ley. La fecha en que éstas se verifiquen será concurrente con la que la Constitución señale para las elecciones ordinarias federales.
+
+El día en que deban celebrarse las elecciones locales ordinarias será considerado como no laborable en todo el territorio de la Entidad.
+
+###### Artículo 8.
+
+El Poder Ejecutivo del Estado, se renovará cada seis años, en tanto que las y los Diputados al Congreso Local e integrantes de los Ayuntamientos serán electos cada tres años; estas elecciones se llevarán a cabo conforme a los principios de la Constitución, de la Constitución Estatal y esta ley.
+
+El Poder Legislativo de la entidad se deposita en una Asamblea que se denomina Congreso del Estado y se integrará con cuarenta Diputaciones, veinticuatro de ellas electas por el sistema de mayoría relativa en distritos electorales uninominales y dieciséis Diputaciones electas por el principio de representación proporcional mediante el sistema de lista de candidaturas postuladas con paridad de género y votada en una sola circunscripción plurinominal.
+
+Por cada Diputada o Diputado propietarios se elegirá un suplente, debiendo ser ambos del mismo género. El suplente entrará en funciones para cubrir las faltas temporales o absolutas del propietario.
+
+Las vacantes de las Diputaciones al Congreso del Estado se cubrirán en los términos previstos en el artículo 30 de la Constitución Estatal.
+
+###### Artículo 9.
+
+Los partidos políticos o coaliciones cumplirán el principio de paridad de género en la selección y postulación de sus candidaturas a Diputados propietarios y suplentes por el sistema de mayoría relativa y en la integración de la lista de candidaturas por el principio de representación proporcional.
+
+En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellos distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
+
+###### Artículo 10.
+
+Son requisitos para quien aspire a una Diputación los siguientes:
+
+I. Ser sinaloense por nacimiento o ciudadano sinaloense por vecindad con residencia efectiva en el Estado, en este último caso, no menor de cinco años inmediatamente anteriores al día de la elección y en ambos casos estar en pleno ejercicio de sus derechos cívicos;
+
+II. Ser nativo del distrito electoral que lo elija en el caso de mayoría relativa, o de la entidad cuando se trate de la elección por el principio de representación proporcional o cumpliendo con los requisitos constitucionales de vecindad y residencia, en ambos casos;
+
+III. Ser mayor de veintiún años en la fecha de la elección;
+
+IV. Haberse separado cuando menos noventa días antes de la elección de los cargos de Gobernador, Secretarios, Subsecretarios y Titulares de cualesquiera de las entidades de la Administración Pública Estatal o Paraestatal, Magistrados del Supremo Tribunal de Justicia, Procurador General de Justicia, Jueces de Primera Instancia, Recaudadores de Rentas y Presidentes Municipales en los Distritos Electorales en donde ejerzan sus funciones, Diputados o Senadores del Congreso de la Unión, las personas que tengan o hayan tenido mando de fuerzas de la Federación, Estado o Municipios;
+
+V. No ser ministro de culto;
+
+VI. No ser Magistrado o Secretario del Tribunal Electoral, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
+
+VII. No ser Secretario Ejecutivo del Instituto, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
+
+VIII. No ser Consejero Presidente o Consejero Electoral en el Consejo General del Instituto, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate; y,
+
+IX. No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate.
+
+Las y los Diputados locales que se encuentren en ejercicio y pretendan su elección consecutiva deberán separarse de sus cargos con la anticipación prevista en la fracción IV del primer párrafo de este artículo, con independencia de lo que al efecto señalen los estatutos, reglamentos, convocatorias o convenios del partido político o coalición que los postule con motivo del desarrollo de sus procesos internos de selección de candidaturas.
+
+###### Artículo 11.
+
+El territorio del Estado se divide políticamente en veinticuatro Distritos Electorales Uninominales.
+
+La demarcación territorial de los Distritos Electorales Uninominales en que se divida el Estado de Sinaloa será realizada por el Instituto Nacional Electoral con base en el último censo general de población y los criterios generales determinados por su Consejo General.
+
+###### Artículo 12.
+
+El ejercicio del Poder Ejecutivo se deposita en un ciudadano que se denomina Gobernador Constitucional del Estado, electo por mayoría relativa y mediante voto directo en todo el Estado para un periodo de seis años.
+
+###### Artículo 13.
+
+Son requisitos para quien aspire a la Gubernatura del Estado los siguientes:
+
+I. Ser ciudadano sinaloense por nacimiento o por vecindad, en este último caso con residencia efectiva en el Estado no menor de cinco años inmediatamente anteriores al día de la elección;
+
+II. Tener treinta años cumplidos el día de la elección;
+
+III. Haber conservado su domicilio en el Estado, seis meses al menos, inmediatamente antes de la elección; bastando para ser Gobernador Interino, Provisional o Sustituto, la calidad de ciudadano sinaloense;
+
+IV. Haber obtenido la mayoría de sufragios legales. En caso de empate en la votación, se convocará a nuevas elecciones;
+
+V. No haber sido Secretario, Subsecretario o titular de cualesquiera de las entidades de la Administración Pública Estatal o Paraestatal; Magistrado del Supremo Tribunal de Justicia, Procurador General de Justicia; Juez de Primera Instancia, Recaudador de Rentas o Presidente Municipal, Diputado y Senador al Congreso de la Unión, que se encontrare en ejercicio; haber tenido mando de fuerza de la Federación, Estado o Municipios o ser Ministro de cualquier culto. Los ciudadanos antes referidos, con excepción de los Ministros de los cultos, podrán ser electos, siempre que se separen de sus cargos cuando menos noventa días antes de la elección;
+
+VI. No haber sido convicto por ningún Tribunal, ni haber figurado directa o indirectamente en alguna azonada, motín o cuartelazo promovido contra las instituciones de la Nación o del Estado;
+
+VII. Comprobar de conformidad con el Código Civil para el Estado de Sinaloa y demás leyes sobre la materia su calidad de ciudadano sinaloense por nacimiento.
+
+VIII. No ser Magistrado Electoral o Secretario del Tribunal Electoral, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
+
+IX. No ser Secretario Ejecutivo del Instituto, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
+
+X. No ser Consejero Presidente o Consejero Electoral en el Consejo General del Instituto, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate; y,
+
+XI. No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate.
+
+###### Artículo 14.
+
+Los municipios serán gobernados por un Ayuntamiento de elección popular directa, conformado por un Presidente Municipal, un Síndico Procurador y Regidores por el sistema de mayoría relativa y el principio de representación proporcional.
+
+Serán electos por un periodo de tres años y podrán ser electos consecutivamente para los mismos cargos hasta por un periodo adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+
+La elección de Regidurías por el sistema de mayoría relativa se hará por planilla, dentro de la cual se integrará al Síndico Procurador, y que encabezará la candidatura a Presidente Municipal. Las planillas deberán integrarse con un cincuenta por ciento de fórmulas de candidaturas a Regidores de un género y cincuenta por ciento de fórmulas del otro género, mismas que se incluirán alternadamente, de tal manera que a una fórmula de un género siga siempre una fórmula de género distinto.
+
+En la conformación de planillas de candidatos a integrantes de los Ayuntamientos los partidos políticos y coaliciones no podrán postular a menos del cincuenta por ciento de los candidatos a Presidencias Municipales y síndicos procuradores a personas de un mismo género, respecto del total de ayuntamientos en el Estado o de aquellos para los cuales solicite el registro de candidaturas. En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellos municipios en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior. En las planillas en que hubiere candidato a presidente municipal de un género, la candidatura a síndico procurador corresponderá a persona del otro género, debiendo integrarse el resto de la planilla cumpliendo con el criterio de alternancia a que se refieren los párrafos anteriores.
+
+La elección de Regidurías por el principio de representación proporcional, se hará mediante listas municipales votadas en sus respectivas demarcaciones, aplicando los porcentajes y el criterio de alternancia a que se refieren los párrafos anteriores.
+
+Por cada Síndico Procurador y cada Regidor propietario se elegirá un suplente. En ambos casos, tanto el propietario como el suplente deberán ser del mismo género.
+
+###### Artículo 15.
+
+Los Ayuntamientos se integran de la forma siguiente:
+
+I. Ahome, Guasave, Culiacán y Mazatlán: con un Presidente Municipal, un Síndico Procurador, once Regidurías de mayoría relativa y siete Regidurías de representación proporcional;
+
+II. El Fuerte, Sinaloa, Salvador Alvarado, Mocorito, Navolato, Rosario y Escuinapa: con un Presidente Municipal, un Síndico Procurador, ocho Regidurías de mayoría relativa y cinco Regidurías de representación proporcional; y,
+
+III. Choix, Angostura, Badiraguato, Cosalá, Elota, San Ignacio y Concordia: con un Presidente Municipal, un Síndico Procurador, seis Regidurías de mayoría relativa y cuatro Regidurías de representación proporcional.
+
+###### Artículo 16.
+
+Son requisitos para quien aspire a una Regiduría o al cargo de Síndico Procurador los siguientes:
+
+I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
+
+II. Ser originario o vecino de la municipalidad en que se elija cuando menos con un año antes de la elección;
+
+III. Para éste efecto, la vecindad no se pierde por ausencia en el desempeño de cualquier cargo de elección popular o de designación en los poderes Legislativo, Ejecutivo o Judicial;
+
+IV. No tener empleo, cargo o comisión del Gobierno Federal, Estatal o Municipal, ni ser titular, director o su equivalente de sus respectivos organismos públicos paraestatales. Los ciudadanos antes referidos, podrán ser electos siempre que se separen de sus cargos cuando menos noventa días antes de la elección.
+
+V. No ser ministro de culto;
+
+VI. No ser Magistrado Electoral o Secretario del Tribunal Electoral, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
+
+VII. No ser Secretario Ejecutivo del Instituto, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
+
+VIII. No ser Consejero Presidente o Consejero Electoral en el Consejo General del Instituto, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate; y,
+
+IX. No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate.
+
+Las y los Regidores y Síndicos Procuradores que se encuentren en ejercicio y pretendan su elección consecutiva deberán separarse de sus cargos con la anticipación prevista en la fracción IV del párrafo anterior, con independencia de lo que al efecto señalen los estatutos, reglamentos, convocatorias o convenios del partido político o coalición que los postule con motivo del desarrollo de sus procesos internos de selección de candidatos.
+
+###### Artículo 17.
+
+Son requisitos para quien aspire a la Presidencia Municipal, además de los requisitos exigidos para ser Regidor, los siguientes:
+
+I. Tener veinticinco años cumplidos, cuando menos, en la fecha de la elección; y,
+
+II. Ser originario de la municipalidad que lo elija o vecino de ella cuando menos tres años anteriores a la elección siempre que sea ciudadano sinaloense por nacimiento o por vecindad, con residencia efectiva en el Estado en este último caso, no menor de cinco años inmediatamente anteriores al día de la elección.
+
+Las y los Presidentes Municipales que se encuentren en ejercicio y pretendan su elección consecutiva deberán separarse de sus cargos con la anticipación prevista en la fracción IV del primer párrafo del artículo anterior, con independencia de lo que al efecto señalen los estatutos, reglamentos, convocatorias o convenios del partido político o coalición que los postule con motivo del desarrollo de sus procesos internos de selección de candidatos.
+
+### Capítulo III. De las Elecciones
+
+###### Artículo 18.
+
+Las elecciones ordinarias se celebrarán el primer domingo de junio del año que corresponda.
+
+El Congreso del Estado convocará a elecciones dentro de la primera quincena del mes de septiembre del año previo al año de la elección.
+
+El proceso electoral ordinario se inicia con la expedición de la convocatoria y concluye con la declaratoria que el Tribunal Electoral deberá publicar cuando:
+
+I. El Tribunal Electoral constate y certifique que no se presentó ningún medio de impugnación que pudiera tener efectos sobre el resultado de cualquiera de las elecciones;
+
+II. El Tribunal Electoral haya resuelto el último de los medios de impugnación que se hubieren interpuesto ante él mismo y que pudiera tener efectos sobre el resultado de cualquiera de las elecciones, siempre y cuando no se interponga contra su resolución alguno de los juicios previstos en la Ley General del Sistema de Medios de Impugnación en Materia Electoral; y,
+
+III. El Tribunal Electoral del Poder Judicial de la Federación hubiera resuelto en definitiva la última de las impugnaciones que ante él se presente, y que pueda tener efectos sobre cualquiera de los resultados electorales.
+
+###### Artículo 19.
+
+Cuando la autoridad electoral que corresponda, declare nula una elección, la extraordinaria que se celebre se sujetará a las disposiciones de esta ley y a las que contengan la convocatoria que deberá expedir el Congreso del Estado dentro los cuarenta y cinco días siguientes de la declaratoria de nulidad.
+
+Esta convocatoria no podrá restringir los derechos que esta ley reconoce a los ciudadanos y a los partidos políticos ni alterar los procedimientos y formalidades que el mismo ordenamiento establece.
+
+###### Artículo 20.
+
+Los plazos señalados para las elecciones ordinarias se podrán ampliar cuando a juicio del Consejo General haya imposibilidad material de realizar dentro de ellos los actos para los cuales están establecidos.
+
+Durante el proceso electoral, todos los días y horas son hábiles.
+
+###### Artículo 21.
+
+Para ser Diputado, Gobernador Constitucional del Estado, Presidente Municipal, Síndico Procurador o Regidor, se observará lo dispuesto en los artículos 25, 56, 115 y 116 de la Constitución Estatal, y los señalados en esta ley, según corresponda.
+
+###### Artículo 22.
+
+A ninguna persona podrá registrársele como candidato a distintos cargos de elección popular en el mismo proceso electoral, excepto en el caso de Presidente Municipal y Regidor.
+
+###### Artículo 23.
+
+Los partidos políticos podrán registrar simultáneamente, hasta cuatro fórmulas de candidatos a Diputados y tres fórmulas de Regidores por mayoría relativa y por representación proporcional, en lista estatal y en la lista municipal, respectivamente.
+
+### Capítulo IV. De la Representación Proporcional en la Integración del Poder Legislativo y los Ayuntamientos del Estado
+
+###### Artículo 24.
+
+Para la elección de las Diputaciones por el principio de representación proporcional, la circunscripción plurinominal corresponde al total del territorio del Estado.
+
+Para que un partido político obtenga el registro de su lista estatal para la elección de Diputaciones de representación proporcional deberá acreditar que participa con candidatos a Diputados por el sistema de mayoría relativa en por lo menos diez distritos uninominales.
+
+Las listas estatales se integrarán con dieciséis fórmulas de candidatos propietarios y suplentes, cada formula deberá ser del mismo género.
+
+En ningún caso se deberá registrar una lista en la que más del cincuenta por ciento de las fórmulas de candidatos sean de un solo género. Dichas listas deberán estar integradas alternadamente, de tal manera que a una fórmula de un género siga siempre una fórmula de género distinto.
+
+Sólo tendrán derecho que se les asignen Diputaciones de representación proporcional, los partidos políticos que como mínimo alcancen el tres por ciento de la votación estatal emitida para la elección de Diputaciones por dicho principio.
+
+Ningún partido político podrá contar con más de veinticuatro Diputaciones por ambos principios.
+
+En ningún caso un partido político podrá contar con un número de Diputaciones por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de diputaciones del total de la Legislatura superior a la suma del porcentaje de su votación estatal emitida, más los ocho puntos mencionados. Asimismo, en la integración de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
+
+###### Artículo 25.
+
+Para la elección de Regidurías de representación proporcional de los Ayuntamientos, los partidos políticos participantes que obtengan votación minoritaria y alcancen cuando menos el tres por ciento de la votación municipal emitida tendrán derecho a que se les asignen Regidurías de representación proporcional.
+
+Las listas municipales se integrarán con el número de candidatos a Regidores que corresponda al municipio respectivo, conforme lo establece el artículo 112 de la Constitución Estatal y el artículo 15 de esta ley.
+
+En la elaboración de las listas de candidatos a Regidores por el principio de representación proporcional deberán aplicarse los porcentajes y el criterio de alternancia de género a que se refiere el artículo 33 fracción VII de esta ley.
+
+Cada una de las fórmulas de candidatos a Regidores, tanto el propietario como el suplente serán del mismo género.
+
+### Capítulo V. De las fórmulas para la asignación de Diputaciones y Regidurías por el Principio de Representación Proporcional
+
+###### Artículo 26.
+
+Para los efectos de esta ley, se entiende por fórmula electoral el conjunto de normas, elementos matemáticos y mecanismos que se utilizan para asignar a los partidos políticos las Diputaciones y Regidurías por el principio de representación proporcional, que conforme a su votación les corresponde.
+
+###### Artículo 27.
+
+Para la aplicación de la fórmula electoral, en la asignación de Diputaciones por el principio de representación proporcional, se considerarán los siguientes elementos:
+
+VOTACIÓN ESTATAL EMITIDA. Es la suma o total de los votos depositados en las urnas para la elección de Diputaciones por el principio de representación proporcional de todos los partidos políticos, deducidos los votos nulos, de los candidatos independientes y de los candidatos no registrados.
+
+PORCENTAJE MÍNIMO. Elemento por medio del cual se asigna la primer curul a cada partido político que por sí solo haya obtenido mínimo el tres por ciento de la votación estatal emitida para Diputaciones.
+
+VOTACIÓN EFECTIVA. Es la suma de los votos obtenidos por los partidos políticos que hayan alcanzado una diputación de representación proporcional por porcentaje mínimo, a la cual, deberá deducirse los votos utilizados para la obtención de dicha curul.
+
+VALOR DE ASIGNACIÓN. Es el número de votos que resulta de dividir la votación efectiva de todos los partidos políticos, entre el número de Diputaciones de representación proporcional que se vayan a repartir.
+
+COCIENTE NATURAL. La resultante de dividir la votación efectiva de cada partido político, entre el valor de asignación.
+
+VALOR DE ASIGNACIÓN AJUSTADO. Es el número de votos que resulta de restar a la votación efectiva la votación del partido que haya alcanzado el límite máximo de diputaciones establecido en esta ley y dividirlo entre el número de curules de representación proporcional que queden por asignar después de aplicar el cociente natural.
+
+COCIENTE AJUSTADO. La resultante de dividir la votación efectiva de cada partido político que no haya alcanzado el límite máximo de Diputaciones establecido en esta ley, entre el valor de asignación ajustado.
+
+RESTO MAYOR. El remanente más alto entre los restos de las votaciones de cada partido político, deducidos los sufragios utilizados en la aplicación de los elementos antes mencionados.
+
+###### Artículo 28.
+
+La asignación de Diputaciones por el principio de representación proporcional se sujetará a las siguientes bases:
+
+I. Tendrán derecho a obtener diputaciones por el principio de representación proporcional los partidos políticos que hayan cumplido los siguientes requisitos:
+
+a) Haber registrado candidatos a Diputaciones de mayoría relativa en por lo menos diez distritos uninominales y que dichos candidatos hayan permanecido durante el proceso electoral; y,
+
+b) Haber obtenido cuando menos el tres por ciento de la votación estatal emitida para Diputaciones electas por el principio de representación proporcional; y,
+
+II. La fórmula electoral para la asignación de las diputaciones de representación proporcional, atenderá el siguiente procedimiento:
+
+a) Se asignará una diputación de representación proporcional a cada partido político que haya obtenido el porcentaje mínimo.
+
+b) Hecha la asignación anterior, se procederá a continuar la distribución de las Diputaciones de representación proporcional que hayan quedado.
+
+1. Se obtiene el valor de asignación, mediante la suma de la votación efectiva de los partidos políticos que cuenten con ella y se divide entre el número de Diputaciones de representación proporcional que queden por repartir.
+
+2. Se obtiene el cociente natural, el cual indicará el número de Diputaciones de representación proporcional que a cada partido político se le asignará.
+
+3. A continuación se determinará si es de aplicar a algún partido político alguno de los límites establecidos en el artículo 24 de la Constitución Estatal, para lo cual al partido político cuyo número de Diputaciones por ambos principios exceda de veinticuatro o su porcentaje de curules del total del Congreso exceda en ocho puntos porcentuales a su porcentaje de votación estatal emitida, le serán deducidos el número de Diputaciones de representación proporcional hasta ajustarse a los límites establecidos, asignándose las diputaciones todavía excedentes a los demás partidos que no se ubiquen en estos supuestos, iniciando la reasignación con aquellos que se encuadran en condiciones de sub-representación, atendiendo al último párrafo del artículo 24 y a lo dispuesto en el artículo 34, fracción III, último párrafo, ambos de esta misma Ley.
+
+4. Una vez determinado si algún partido llega al máximo de curules por ambos principios establecido en el artículo 24 de la Constitución Estatal, continuará la asignación de Diputaciones de representación proporcional restantes, mediante la aplicación del valor de asignación y el cociente ajustados.
+
+5. Una vez aplicado el valor de asignación y cociente, tanto naturales como ajustados, en su caso, si aún quedasen curules por repartir, se asignarán aplicando los restos mayores.
+
+###### Artículo 29.
+
+Para la aplicación de las fórmulas de asignación de regidurías de representación proporcional se entiende por:
+
+VOTACIÓN MUNICIPAL EMITIDA. El total de votos depositados en las urnas en favor de listas municipales, deducidos los votos nulos y los de los partidos que no hayan obtenido al menos el tres por ciento de la votación municipal.
+
+VOTACIÓN MUNICIPAL EFECTIVA. La suma de los votos obtenidos por los partidos que no hubieren alcanzado la mayoría, y que hayan obtenido los porcentajes a que se refiere el artículo 30 fracción I de esta ley de la votación municipal emitida.
+
+PORCENTAJE MÍNIMO. Elemento por medio del cual se asigna la primera regiduría a cada partido político que haya obtenido al menos el tres por ciento de la votación municipal.
+
+VALOR DE ASIGNACIÓN. Es el número de votos que resultan de dividir la votación municipal efectiva entre el número de regidurías de representación proporcional que correspondan.
+
+COCIENTE NATURAL MUNICIPAL. La resultante de dividir la votación municipal efectiva, entre el número de regidurías de representación proporcional que hayan quedado después de haber aplicado el porcentaje mínimo.
+
+RESTO MAYOR. El remanente más alto entre los restos de las votaciones de cada partido político deducidos los sufragios utilizados en la aplicación de los elementos antes mencionados.
+
+###### Artículo 30.
+
+La fórmula de asignación de regidurías de representación proporcional será la siguiente:
+
+I. Se asignará una regiduría a cada partido que al menos haya obtenido el tres por ciento de la votación municipal efectiva; y,
+
+II. Hecha la asignación anterior, se restará el valor de asignación a cada partido político que haya obtenido el porcentaje mínimo.
+
+El número de votos que a cada partido político quede, servirá para continuar la asignación de regidurías dividiéndolo entre el cociente natural que corresponda de acuerdo con el municipio y en caso necesario por restos mayores.
+
+## TÍTULO TERCERO. De los Partidos Políticos
+
+### Capítulo I. Disposiciones Generales
+
+###### Artículo 31.
+
+Los partidos políticos son entidades de interés público con personalidad jurídica y patrimonio propio, con registro legal ante el Instituto Nacional Electoral o ante el Instituto, y tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público de acuerdo con los programas, principios e ideas que postulen y mediante el sufragio universal, libre, secreto, directo, personal e intransferible, garantizando la paridad de género en las candidaturas a cargos públicos que postulen en los términos de ley.
+
+En materia de partidos políticos en el Estado, las disposiciones del presente ordenamiento se complementan con lo dispuesto en la Constitución, la Constitución Estatal, la Ley General de Partidos Políticos, la Ley General de Instituciones y Procedimientos Electorales y la Ley General del Sistema de Medios de Impugnación en materia Electoral.
+
+###### Artículo 32.
+
+Son derechos político-electorales de las y los ciudadanos sinaloenses, con relación a los partidos políticos, los siguientes:
+
+I. Asociarse o reunirse pacíficamente para tomar parte en los asuntos políticos del país;
+
+II. Afiliarse libre e individualmente a los partidos políticos nacionales o estatales; y,
+
+III. Votar y ser votado para todos los cargos de elección popular dentro de los procesos internos de selección de candidatos y elección de dirigentes, teniendo las calidades que establezcan la ley y los estatutos de cada partido político.
+
+Las organizaciones civiles, sociales, gremiales, religiosas y con objeto social diferente a la creación de partidos y cualquier forma de afiliación corporativa tienen prohibido intervenir en los partidos políticos bajo cualquier forma, directa o indirecta.
+
+La selección de dirigentes y la postulación de candidaturas de los partidos políticos en Sinaloa se realizarán aplicando los principios del estado democrático de derecho, tanto en su desempeño en la vida política del estado, como en su régimen organizativo interno.
+
+###### Artículo 33.
+
+Los partidos políticos, en el cumplimiento de sus fines deberán:
+
+I. Propiciar la articulación social y la participación democrática de los ciudadanos en los asuntos públicos de la entidad y fomentar la educación cívica;
+
+II. Promover la formación ideológica y política de sus militantes;
+
+III. Coordinar acciones políticas y electorales conforme a sus principios, programas y estatutos;
+
+IV. Fomentar discusiones sobre cuestiones de interés común y deliberaciones sobre temas que integran objetivos estatales y municipales, a fin de establecer vínculos permanentes entre la opinión pública y los poderes del Estado;
+
+V. Fomentar los principios democráticos en el desarrollo de sus actividades, incluidos en aquellas relativas a los procesos de precampaña electoral;
+
+VI. Garantizar la participación de sus miembros bajo el principio de igualdad para lograr la equidad de género en los cargos directivos partidarios y en los cargos de elección popular;
+
+VII. Aplicar en términos de ley, los principios y ejes rectores relativos a los porcentajes de género que en todo momento deberán ser paritarios en la postulación de candidatas y candidatos propietarios y suplentes a Diputados al Congreso del Estado, Presidentes Municipales, Síndicos Procuradores y Regidores por el sistema de mayoría relativa y por el principio de representación proporcional; y,
+
+VIII. Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos, en los términos que expresamente se señala en esta ley.
+
+###### Artículo 34.
+
+Corresponden al Instituto las siguientes atribuciones en materia de partidos políticos:
+
+I. Reconocer los derechos y el acceso a las prerrogativas de los partidos políticos y los candidatos a cargos de elección popular en el Estado de Sinaloa;
+
+II. Otorgar el registro a los partidos políticos locales;
+
+III. Verificar que la Legislatura del Estado se integre con Diputaciones electas según el sistema de mayoría relativa y el principio de representación proporcional, en los términos de la Constitución, la Constitución Estatal y las leyes de la materia.
+
+En ningún caso, un partido político podrá contar con un número de Diputaciones por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta norma no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento.
+
+Para reconocer y garantizar la representación y pluralidad de las fuerzas políticas que contiendan en la entidad, en la integración de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales. En todo caso, la fórmula establecerá las reglas para la deducción del número de Diputaciones de representación proporcional que sean necesarios para asignar Diputaciones a los partidos políticos que se encuentren en ese supuesto, de mayor o menor sobre representación; y,
+
+IV. Las demás que establezca la Constitución, la Constitución Estatal, la Ley de Participación Ciudadana del Estado y esta ley.
+
+###### Artículo 35.
+
+Esta ley reconoce a los partidos políticos con registro nacional otorgados por el Instituto Nacional Electoral y los que obtengan dicho registro ante el Instituto.
+
+Los partidos políticos estatales y los nacionales, gozarán de los mismos derechos, prerrogativas y obligaciones, a excepción de los que de forma exclusiva, se establecen para cada uno de ellos en ésta u otras legislaciones.
+
+### Capítulo II. De los Partidos Políticos Nacionales
+
+###### Artículo 36.
+
+Los partidos políticos nacionales tienen derecho de participar en las elecciones estatales y municipales en los términos del artículo 41, párrafo cuarto, fracción I de la Constitución y en los establecidos en esta ley.
+
+Los partidos políticos al inicio del proceso electoral, en términos de la convocatoria que se expida para el caso, deberán solicitarle al Instituto, su acreditación para participar en el mismo dentro de los siguientes quince días a partir de la publicación de la convocatoria que declare iniciado el proceso electoral en el Estado para renovar los poderes constitucionales.
+
+El Instituto deberá de acordar la acreditación del partido político nacional para los procesos electorales en el Estado, dentro de los diez días siguientes a la solicitud recibida.
+
+La acreditación de los partidos políticos nacionales ante el Instituto deberá seguir las siguientes formalidades:
+
+I. El partido solicita la acreditación por escrito dirigido al Instituto para cada proceso electoral;
+
+II. Deberán anexarse los documentos probatorios de su registro ante el Instituto Nacional Electoral, así como los documentos que contengan la declaración de principios, el programa de acción y los estatutos;
+
+III. Señalar domicilio social permanente en la Capital del Estado de Sinaloa, mediante constancia levantada por un representante del Instituto, donde se manifieste la ubicación de sus instalaciones para sus actividades y notificaciones legales;
+
+IV. Indicar cómo y por quiénes se integran sus órganos internos estatales; y,
+
+V. Indicar cómo y por quiénes se integran sus órganos Municipales, los cuales deberán tener presencia en al menos la mitad más uno de los municipios de la Entidad.
+
+El Instituto tendrá en todo tiempo las facultades más amplias para verificar la información que los partidos políticos nacionales que pretendan su acreditación, le provean.
+
+El Instituto podrá negar la acreditación referida, si el partido político aspirante a la misma, le proporciona información falsa, incorrecta o incompleta.
+
+El Instituto en esta materia, tendrá en todo momento la obligación de integrar un expediente del asunto y resguardarlo.
+
+La información que en esta materia obre en el Instituto se considerará pública y por tanto a ella podrán tener acceso los ciudadanos conforme a los lineamientos que el Instituto defina al efecto.
+
+Dentro del primer mes del proceso electoral ordinario, el Instituto ordenará publicar en el Periódico Oficial, el acuerdo que emita sobre la procedencia de la acreditación de los partidos políticos nacionales.
+
+La acreditación de los partidos políticos nacionales para participar en las elecciones locales deberá observarse al inicio de cada proceso electoral ordinario y sólo se suspenderá o perderá, de conformidad con lo dispuesto en esta ley.
+
+###### Artículo 37.
+
+Los partidos políticos nacionales perderán su derecho a participar en las elecciones locales en los supuestos siguientes:
+
+I. Al perder su registro ante el Instituto Nacional Electoral;
+
+II. Por no cumplir con las disposiciones contenidas en la Constitución Estatal y en la presente ley; y,
+
+III. Al no acatar de manera reiterada y sistemática los acuerdos de los organismos electorales tomados dentro de sus respectivos ámbitos de competencia.
+
+Aquel partido político nacional que no obtenga al menos el tres por ciento de la votación estatal emitida en cualquiera de las elecciones, dejará de recibir las ministraciones de financiamiento público ordinario que le corresponden durante los dos años siguientes al proceso del que se trate.
+
+La pérdida de los derechos de los partidos, a que se refieren los párrafos anteriores, no tiene efecto en relación con los triunfos que sus candidatos hayan obtenido en las elecciones por el sistema de mayoría relativa.
+
+### Capítulo III. De los Partidos Políticos Estatales
+
+###### Artículo 38.
+
+Partido Político Estatal en Sinaloa, es la asociación de ciudadanos residentes, que se organizan y constituyen de acuerdo con las formalidades previstas en la Ley General de Partidos Políticos y en esta ley, con el objeto de tomar parte en la vida política del Estado, integrar los poderes Legislativo, Ejecutivo y Ayuntamientos, electos por el voto popular e impulsar la vida democrática en el Estado de acuerdo a la Constitución y la Constitución Estatal.
+
+###### Artículo 39.
+
+La asociación promotora de la constitución de partido político estatal, deberá presentar escrito al Instituto, manifestando su intención de constituirlo legalmente, durante el mes de enero del año siguiente al de la elección de la Gubernatura del Estado.
+
+El Instituto deberá concluir el procedimiento de registro, seis meses antes del inicio del proceso electoral siguiente.
+
+A partir de la presentación de la solicitud de registro y hasta la resolución sobre la procedencia del mismo, la asociación promotora deberá:
+
+I. Informar al Instituto sobre el origen y destino de sus recursos dentro de los primeros quince días de cada mes; y,
+
+II. Publicar por dos ocasiones en los periódicos regionales de mayor circulación y demás medios de difusión necesarios, las convocatorias a las y los ciudadanos sinaloenses, para que éstos acudan a las asambleas municipales a conocer, discutir y, en su caso, aprobar los proyectos de declaración de principios, programas de acción y estatutos del partido político estatal, así como elegir Delegados a la asamblea estatal.
+
+###### Artículo 40.
+
+Para el caso de las organizaciones de ciudadanos que pretendan constituirse en partido político en el Estado de Sinaloa, se deberá acreditar:
+
+I. La celebración de asambleas en por lo menos dos terceras partes de los municipios, en presencia de un servidor público acreditado del Instituto, quien certificará:
+
+a) La publicación de las convocatorias;
+
+b) Que concurrieron y participaron afiliados y afiliadas, en un número que en ningún caso podrá ser menor del 0.26% del padrón electoral de cada municipio; que los mismos suscribieron el documento de manifestación formal de afiliación; que asistieron libremente; que conocieron y aprobaron la declaración de principios, el programa de acción y los estatutos; y que eligieron a los delegados propietarios y suplentes a la asamblea estatal constitutiva;
+
+c) Que con las y los ciudadanos mencionados en el inciso anterior, quedaron formadas las listas de afiliados, con el nombre, los apellidos, domicilio, clave y folio de la credencial para votar con fotografía vigente; y,
+
+d) Que en la realización de las asambleas de que se trate, no existió intervención de organizaciones gremiales o de otras con objeto social diferente al de constituir el partido político.
+
+II. La celebración de la asamblea estatal constitutiva ante la presencia del funcionario designado por el Instituto, quien certificará:
+
+a) Que las asambleas municipales se llevaron en términos de la convocatoria;
+
+b) Que asistieron los delegados propietarios o suplentes, elegidos en las asambleas previas para nombrar delegados en los municipios definidos en dicha convocatoria ante el Instituto;
+
+c) Que se comprobó la identidad y residencia de los delegados electos en las asambleas municipales, por medio de su credencial para votar con fotografía vigente;
+
+d) Que los delegados aprobaron la declaración de principios, programa de acción y estatutos; y,
+
+e) Que se presentaron las listas de afiliados con los demás ciudadanos con que cuenta la organización en la entidad, con el objeto de satisfacer el requisito del porcentaje mínimo exigido por esta ley. Estas listas contendrán los datos requeridos en el inciso c) de la fracción anterior.
+
+La certificación expedida por el servidor público acreditado por el Instituto surtirá efectos dentro del plazo previsto para el proceso de registro solicitado.
+
+###### Artículo 41.
+
+Las asambleas constitutivas se sujetarán a las bases siguientes:
+
+I. Asambleas Municipales:
+
+a) La asociación promotora, en presencia de un servidor público acreditado por el Instituto, deberá celebrar en al menos dos terceras partes de los municipios de la entidad, una asamblea municipal constitutiva a efecto de conocer, discutir y en su caso aprobar los proyectos de declaración de principios, programas de acción y estatutos del partido político estatal;
+
+b) Cada asamblea deberá designar delegados propietario y suplente que acudirán a la asamblea estatal constitutiva;
+
+c) La reunión será presidida por la persona que la asociación promotora designe;
+
+d) Deberá acreditarse la asistencia de un número de afiliados equivalente al menos al 0.26% del padrón electoral de cada municipio a la fecha del inicio de los trámites de registro; y,
+
+e) El acta de la sesión deberá ser levantada por el servidor público del Instituto; la cual será firmada por todos los asistentes, quienes al momento de hacerlo exhibirán al mismo servidor público su credencial para votar con fotografía vigente; y,
+
+II. Asamblea Estatal:
+
+a) La asamblea estatal se celebrará con la asistencia del cincuenta por ciento más uno de los delegados, propietarios o suplentes, electos por las asambleas municipales;
+
+b) Son aplicables a la asamblea estatal las reglas de las asambleas municipales; y,
+
+c) El Instituto tendrá la facultad para reglamentar el procedimiento de constitución de un partido político estatal, así como para emitir todos los manuales, circulares, directrices, formatos y demás instrumentos necesarios para hacer efectivas estas disposiciones sin contravenir lo dispuesto en esta ley.
+
+En el caso de que por causas no imputables a la asociación promotora de la creación del partido político estatal, no concurra el servidor público acreditado del Instituto a la celebración de alguna asamblea municipal, la asociación podrá requerir los servicios de un notario público para que levante la respectiva acta de dación de fe de hechos de la asamblea respectiva.
+
+###### Artículo 42.
+
+El costo de las certificaciones requeridas será con cargo al presupuesto del Instituto. Los servidores públicos autorizados para expedirlas están obligados a realizar las actuaciones correspondientes.
+
+###### Artículo 43.
+
+La organización que pretenda constituirse como partido político estatal, deberá formular una declaración de principios, su programa de acción y los estatutos que normen sus actividades
+
+###### Artículo 44.
+
+Los documentos básicos deberán ser aprobados en asamblea estatal constitutiva y su contenido deberá incluir:
+
+I. Declaración de principios, que deberá contener por lo menos:
+
+a) La obligación de observar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Sinaloa y respetar las leyes e instituciones que de ellas emanen;
+
+b) Los principios ideológicos de carácter político, económico y social que postulen;
+
+c) La obligación de no aceptar o convenir ningún pacto o acuerdo que los sujete o subordine a cualquier organización nacional o internacional o los haga depender de entidades o partidos políticos extranjeros;
+
+d) La obligación de no solicitar o recibir ningún tipo de apoyo económico, político o propagandístico, proveniente de entidades, partidos políticos u organizaciones nacionales o extranjeras o de ministros de cultos de cualquier religión o secta y de cualquier persona física o moral a la que esta ley prohíba financiar a los partidos políticos; y,
+
+e) Conducir sus actividades por medios pacíficos y por la vía democrática;
+
+II. Programa de acción que determinará:
+
+a) Medidas congruentes que permitan alcanzar los objetivos contenidos en su declaración de principios;
+
+b) Políticas para resolver los problemas sociopolíticos, estatales y municipales;
+
+c) Medidas que adopten para ejecutar las acciones relativas a la formación ideológica de sus afiliados;
+
+d) Medios que propicien la participación activa y responsable de sus militantes en los procesos electorales, en las actividades y fines que esta ley señale; y,
+
+e) Medidas para fomentar la participación de la mujer sinaloense en las actividades políticas; y,
+
+III. Estatutos que regularán:
+
+a) La identificación propia y distintiva de la de otros partidos registrados, así como el emblema, color o colores que lo caractericen y diferencien de otros partidos políticos, los que deberán estar exentos de significados religiosos, étnicos o racistas;
+
+b) Los métodos de afiliación, los derechos y obligaciones de sus miembros;
+
+c) Los procedimientos democráticos internos para la renovación de sus cuadros dirigentes, que en todo caso observarán la paridad entre los géneros;
+
+d) Los sistemas y procedimientos democráticos internos que adopten para los actos de postulación de sus candidatos, mismos que serán públicos, y que garantizarán la paridad entre los géneros conforme a la Constitución Estatal;
+
+e) La creación de sus órganos, que serán básicamente una asamblea estatal, un comité u organismo que tenga la representación del partido en toda la entidad y los comités distritales, municipales o regionales, y comités u órganos responsables de las finanzas de los mismos; de justicia intrapartidaria, de transparencia y acceso a la información y de educación y capacitación cívica;
+
+f) Las normas, plazos y procedimientos de justicia intrapartidaria y los mecanismos alternativos de solución de controversias internas, con los cuales se garantizan los derechos de los militantes, así como la oportunidad y legalidad de las resoluciones; y,
+
+g) Las sanciones aplicables a los miembros que infrinjan sus disposiciones internas, mediante un procedimiento disciplinario intrapartidario, con las garantías procesales mínimas que incluyan los derechos de audiencia y defensa, la descripción de las posibles infracciones a la normatividad interna o causales de expulsión y la obligación de fundar y motivar la resolución respectiva.
+
+Los partidos políticos deberán elaborar y difundir una plataforma electoral, para la elección de la Gubernatura, de Diputaciones y de Ayuntamientos, sustentada en su declaración de principios y programa de acción; dichos documentos se presentan ante el Instituto al registrar a las y los candidatos.
+
+###### Artículo 45.
+
+Una vez realizados los actos relativos al procedimiento de constitución de un partido, la organización de ciudadanos interesada, en el mes de enero del año anterior al de la siguiente elección, presentará ante el Instituto competente, los siguientes documentos:
+
+I. Solicitud del registro del partido político;
+
+II. Actas de las asambleas municipales y estatal constitutivas;
+
+III. Los documentos básicos siguientes:
+
+a) Declaración de principios;
+
+b) Programa de acción; y,
+
+c) Estatutos;
+
+IV. Lista de afiliados por municipio, que contengan los nombres completos, domicilios y claves de elector, correspondientes a un mínimo de 0.26% del número de ciudadanos inscritos en el padrón electoral en el Estado; y
+
+V. Los formatos personales de afiliación que contengan los nombres, domicilio, clave de elector y firma de los ciudadanos que busquen su afiliación, anexando copias fotostáticas de sus credenciales para votar con fotografía.
+
+###### Artículo 46.
+
+El Instituto al recibir la solicitud de la organización que pretenda su registro como partido estatal, verificará el cumplimiento de los requisitos y del procedimiento de constitución establecidos en esta ley y formulará el proyecto de dictamen correspondiente.
+
+Para tal efecto, constatará la autenticidad de las afiliaciones al partido en formación, ya sea en su totalidad o a través del establecimiento de un método aleatorio, en los términos de los lineamientos que al efecto expida el Instituto, verificando que cuando al menos cumplan con el mínimo de afiliados requerido inscritos en el padrón electoral, actualizado a la fecha de la solicitud de que se trate.
+
+###### Artículo 47.
+
+El Instituto conocerá de la solicitud de los ciudadanos que pretendan su registro como partido político en Sinaloa, examinará los documentos de la solicitud de registro a fin de verificar el cumplimiento de los requisitos y del procedimiento de constitución señalados en esta ley y formulará el proyecto de dictamen respectivo.
+
+El Instituto solicitará al Instituto Nacional Electoral para que realice la verificación del número de afiliados y de la autenticidad de las afiliaciones al partido en formación, conforme al cual se constatará que se cuenta con el número mínimo de afiliados.
+
+El Instituto llevará un libro de registro de los partidos políticos locales que contendrá, al menos:
+
+I. Denominación del partido político;
+
+II. Emblema y color o colores que lo caractericen;
+
+III. Fecha de constitución;
+
+IV. Documentos básicos;
+
+V. Órganos de Dirección;
+
+VI. Domicilio legal; y,
+
+VII. Padrón de afiliados.
+
+###### Artículo 48.
+
+Para los efectos de lo dispuesto en esta ley se deberá verificar que no exista doble afiliación a partidos ya registrados o en formación.
+
+En el caso de que un ciudadano aparezca en más de un padrón de afiliados de partidos políticos, el Instituto, dará vista a los partidos políticos involucrados para que manifiesten lo que a su derecho convenga; de subsistir la doble afiliación, el Instituto requerirá al ciudadano para que se manifieste al respecto y, en caso de que no se manifieste, subsistirá la más reciente.
+
+###### Artículo 49.
+
+El Instituto elaborará el proyecto de dictamen dentro del plazo de sesenta días contados a partir de la fecha en que quedó debidamente integrado el expediente.
+
+Cuando proceda, expedirá el certificado correspondiente haciendo constar el registro. En caso de negativa fundamentará las causas que la motivan y lo comunicará a los interesados. El registro de los partidos políticos surtirá efectos constitutivos a partir del primer día del mes de julio del año previo al de la elección.
+
+La resolución se deberá publicar en el Periódico Oficial y podrá ser recurrida ante el Tribunal Electoral.
+
+###### Artículo 50.
+
+Los partidos políticos estatales, perderán su registro ante el Instituto, en los siguientes casos:
+
+I. Por no haber alcanzado el tres por ciento de la votación estatal emitida en cualquiera de las elecciones;
+
+II. Por haber incurrido en violaciones graves a la Constitución, a la Constitución Estatal o a la presente ley;
+
+III. Por no acatar en forma reiterada y sistemática las sentencias o resoluciones de las autoridades electorales, de tipo administrativo o jurisdiccional;
+
+IV. Por no registrar candidaturas a Diputaciones por el sistema de mayoría relativa en la mitad mas uno de los distritos electorales uninominales;
+
+V. Por no registrar candidaturas a Presidentes Municipales o planilla de candidaturas a Regidores y Síndico Procurador en la mitad mas uno de los Municipios del Estado;
+
+VI. Por haberse fusionado con otro partido político estatal; y,
+
+VII. Por haber resuelto en asamblea general, la disolución del mismo.
+
+La cancelación del registro no exime a los partidos políticos de la presentación de los informes de aplicación de gastos ordinarios y de campañas, cuando sea el caso.
+
+Los partidos políticos estatales que hayan perdido su registro, por las causas establecidas en la presente ley, previo inventario de sus bienes, los mismos deberán revertirse a favor del erario público.
+
+Lo dispuesto en este artículo será aplicable también a los partidos políticos nacionales, en lo conducente.
+
+###### Artículo 51.
+
+El Instituto resolverá la cancelación del registro del partido político que hubiere incurrido en el supuesto previsto por la fracción I del artículo 50 de esta ley, tomando en cuenta los resultados de las elecciones, una vez calificadas en definitiva.
+
+El partido político estatal al cual se le haya cancelado su registro por haber incurrido en el supuesto previsto en la fracción I del artículo 50 de esta ley, no podrá volver a solicitarlo sino hasta pasado un proceso electoral.
+
+La cancelación del registro de un partido político no tiene efectos en relación con los triunfos que sus candidatos hayan obtenido en las elecciones por el sistema de mayoría relativa. Tampoco exime a sus dirigentes de la obligación de presentar sus informes justificativos del origen y monto de sus ingresos, así como de su empleo y aplicación.
+
+###### Artículo 52.
+
+Los dirigentes de los partidos políticos que enterados de la existencia de alguna causa de cancelación de registro, realizaran actos tendentes a disponer del patrimonio del partido para usos distintos del objeto del mismo, o que oculten o no entreguen la información a los liquidadores, incurrirán en responsabilidad y se harán acreedores a las sanciones previstas en el Código Penal del Estado.
+
+El Instituto estará legitimado para presentar las denuncias o querellas que se requieran.
+
+Ninguna cancelación de registro, podrá decretarse sin previa audiencia del partido político respectivo, a fin de que por medio de un representante legal alegue lo que su derecho convenga y presente pruebas tendentes a su justificación.
+
+###### Artículo 53.
+
+El Instituto de oficio o a petición de parte, podrá iniciar el procedimiento de cancelación de registro de un partido político estatal en cualquier momento, conforme a las bases siguientes:
+
+I. Iniciado el procedimiento, asignará su trámite a la comisión que corresponda y ésta deberá llamar al mismo partido político para que dentro de un plazo de treinta días comparezca y haga valer los argumentos que consideren pertinentes y aporte pruebas;
+
+II. Recibidas la comparecencia y las pruebas, la comisión presentará al pleno del Instituto el dictamen, a efecto de que éste lo apruebe o rechace, íntegro o con modificaciones;
+
+III. La resolución del Instituto en esta materia deberá publicarse en el Periódico Oficial y notificarse personalmente a la representación legal del partido político afectado;
+
+IV. En caso de decretarse la cancelación del registro del partido político, en la resolución respectiva deberá incluirse, entre otros aspectos, el procedimiento de liquidación del partido; y,
+
+V. La resolución puede ser impugnada conforme a esta ley.
+
+###### Artículo 54.
+
+Lo dispuesto en esta ley sobre el registro de los partidos políticos estatales también será aplicable, en lo conducente, para los partidos políticos nacionales y para la suspensión de las prerrogativas en los términos previstos en este ordenamiento.
+
+Los bienes que formen parte del patrimonio de aquel partido político estatal al que se le haya cancelado su registro por cualquiera de los supuestos contemplados en esta ley pasaran al erario público, luego de haber seguido el proceso de liquidación que para tal efecto haya determinado el Instituto.
+
+Para el procedimiento de liquidación de los partidos políticos estatales se aplicarán las disposiciones de la Ley General de Partidos Políticos.
+
+### Capítulo IV. De los Derechos y Obligaciones de los Partidos Políticos Estatales
+
+###### Artículo 55.
+
+En materia de derechos, obligaciones y prohibiciones para los partidos políticos estatales se estará a lo que dispone la Ley General de Partidos Políticos y demás disposiciones jurídicas aplicables.
+
+### Capítulo V. De la Organización Interna de los Partidos Políticos Estatales
+
+###### Artículo 56.
+
+En materia de la organización interna de partidos políticos estatales se estará a lo que dispone la Ley General de Partidos Políticos.
+
+###### Artículo 57.
+
+Son aplicables en materia de los documentos básicos de los partidos políticos estatales, en lo conducente, lo dispuesto en el Título III de la Ley General de Partidos Políticos.
+
+Los partidos políticos estatales deberán contar con los órganos directivos acordados en sus estatutos en el ámbito estatal, distrital y municipal, según corresponda, con la asamblea estatal como máximo órgano colectivo de dirigencia; un comité estatal; así como organismos especiales de administración, de organización y para la selección de cargos directivos y candidaturas, de justicia interna, de educación, así como para la función de transparencia.
+
+La integración de sus órganos directivos y la organización de un organismo colegiado de justicia partidaria que tutele los derechos de las y los militantes, así como la aplicación de los documentos básicos y los acuerdos de los órganos de dirección partidaria de acuerdo a lo establecido en la Ley General de Partidos Políticos.
+
+### Capítulo VI. De los Frentes, Fusiones, Candidaturas Comunes y Registro de Coaliciones
+
+###### Artículo 58.
+
+Los partidos políticos podrán constituir frentes, para alcanzar objetivos políticos y sociales compartidos de índole no electoral, mediante acciones y estrategias específicas y comunes.
+
+Dos o más partidos políticos locales podrán fusionarse para constituir un nuevo partido o para incorporarse en uno de ellos.
+
+Los partidos de nuevo registro no podrán convenir frentes o fusiones con otro partido político antes de la conclusión de la primera elección estatal inmediata posterior a su registro según corresponda.
+
+###### Artículo 59.
+
+Para constituir un frente deberá celebrarse un convenio en el que se hará constar:
+
+I. Su duración;
+
+II. Las causas que lo motiven;
+
+III. Los propósitos que persiguen; y,
+
+IV. La forma que convengan los partidos políticos para ejercer en común sus prerrogativas, dentro de los señalamientos de esta ley.
+
+El convenio que se celebre para integrar un frente deberá presentarse al Instituto, el que dentro del término de diez días hábiles resolverá si cumple los requisitos legales y en su caso dispondrá su publicación en el Periódico Oficial para que surta sus efectos.
+
+Los partidos políticos que integren un frente, conservarán su personalidad jurídica, su registro y su identidad.
+
+(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+###### Artículo 60.
+
+La solicitud de registro del convenio de coalición, según sea el caso, deberá dirigirse al Consejo General del Instituto según la elección que lo motive, acompañado de la documentación pertinente, a más tardar treinta días antes de que se inicie el periodo de precampaña de la elección de que se trate.
+
+La presidencia del Consejo General del Instituto integrará el expediente e informará al Pleno del mismo.
+
+El Pleno resolverá a más tardar dentro de los diez días siguientes a la presentación del convenio.
+
+Una vez registrado un convenio de coalición, el Instituto dispondrá su publicación en el Periódico Oficial para que surta efectos legales.
+
+En materia de Coaliciones se estará a lo que dispone la Ley General de Partidos Políticos.
+
+###### Artículo 61.
+
+Dos o más partidos pueden postular y registrar al mismo candidato, fórmula, planilla o lista de candidatos, pero para ello es indispensable el consentimiento de éstos.
+
+(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+LOS VOTOS EN LOS QUE SE HUBIESEN MARCADO MÁS DE UNA OPCIÓN DE LOS PARTIDOS QUE PARTICIPAN EN LA CANDIDATURA COMÚN, SERÁN CONSIDERADOS VÁLIDOS ÚNICAMENTE PARA EL CANDIDATO POSTULADO, CONTARÁN COMO UN SOLO VOTO Y SIN QUE PUEDAN SER TOMADOS EN CUENTA PARA LA ASIGNACIÓN DE REPRESENTACIÓN PROPORCIONAL U OTRAS PRERROGATIVAS.
+
+La postulación de candidatos mediante candidaturas comunes deberá ser uniforme. Los partidos políticos que participen en esta forma de postulación, únicamente podrán hacerlo con el mismo o los mismos partidos políticos, en todas las elecciones en que estén participando.
+
+###### Artículo 62.
+
+La fusión de partidos sólo podrá realizarse entre dos o más partidos políticos locales.
+
+Los partidos políticos estatales que decidan fusionarse, deberán celebrar un convenio en el que invariablemente se establecerán las características del nuevo partido; o cuál de los partidos políticos conserva su personalidad jurídica; y qué partido o partidos quedarán fusionados. El convenio de fusión deberá ser aprobado por la asamblea estatal u órgano equivalente por mayoría calificada o la que se determine en sus estatutos.
+
+Para todos los efectos legales, la vigencia del registro del nuevo partido será la que corresponda al registro del partido más antiguo entre los que se fusionen.
+
+Los derechos y prerrogativas que correspondan al nuevo partido le serán reconocidos y asignados tomando como base la suma de los porcentajes de votación que los partidos fusionados obtuvieron en la última elección para Diputaciones de representación proporcional.
+
+El convenio de fusión deberá dirigirse al Instituto, para que, una vez hecha la revisión de las constancias que sustentan la fusión, se someta a la consideración del pleno del mismo.
+
+El Instituto resolverá sobre la procedencia del convenio celebrado dentro del término de treinta días siguientes a su presentación y, en su caso, dispondrá su publicación en el Periódico Oficial.
+
+Para fines electorales, el convenio de fusión deberá presentarse al Instituto a más tardar un año antes al día de la elección.
+
+### Capítulo VII. De las Prerrogativas de los Partidos Políticos
+
+###### Artículo 63.
+
+Los partidos políticos tendrán las siguientes prerrogativas, como elemento adicional y complementario a lo dispuesto en el título séptimo de la Ley General de Partidos Políticos:
+
+I. Exención de impuestos y derechos estatales y municipales:
+
+a) Impuestos relacionados con la: Compraventa de bienes inmuebles y muebles;
+
+b) Impuestos por donaciones; y,
+
+c) Impuestos y derechos relacionados con la expedición y certificación de copias, ferias, festivales y otros eventos que tengan por objeto allegarse recursos para sus fines así como el registro de operaciones que versen sobre inmuebles;
+
+II. El acceso a los bienes propios del Estado o los Municipios, destinados o no a un servicio público, en los términos de esta ley y las leyes especiales de la materia;
+
+III. Participar del financiamiento público estatal y municipal, en los términos de esta ley; y,
+
+IV. Las demás que disponga esta ley.
+
+Corresponde al Instituto la función de garantizar los derechos y el acceso a las prerrogativas de los candidatos y partidos políticos en materia electoral estatal.
+
+### Capítulo VIII. Del Financiamiento Público y Privado y de los Informes Financieros de los Partidos Políticos
+
+###### Artículo 64.
+
+El financiamiento de los partidos políticos se constituye con el financiamiento público que le otorga el Estado conforme a esta Ley, así como el financiamiento privado y el autofinanciamiento. El financiamiento público debe prevalecer sobre el privado y el autofinanciamiento. Son aplicables en esta materia, en lo procedente, las disposiciones de los títulos quinto, sexto, séptimo y octavo de la Ley General de Partidos Políticos.
+
+Las disposiciones de este capítulo se aplicarán en lo que no contravengan a la Ley General de Partidos Políticos.
+
+###### Artículo 65.
+
+Los partidos políticos deberán integrar un órgano interno responsable de la obtención, contabilización y administración de sus recursos, la presentación de los informes referentes al origen y monto de los ingresos percibidos por cualquier modalidad de financiamiento, así como de su empleo y aplicación. Este órgano deberá acreditarse ante el Instituto.
+
+En caso de que el Instituto Nacional Electoral delegue el ejercicio de la facultad de fiscalización, el Instituto deberá contar con una Comisión que conozca de los asuntos relativos a dicha función. Asimismo deberá contar con una Unidad de Fiscalización, para la recepción, revisión, fiscalización y dictamen de los informes que los partidos políticos presenten sobre el origen y destino de sus recursos. En tal caso, su titular fungirá como Secretario Técnico de la Comisión de Fiscalización.
+
+(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DEL APARTADO A DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+A. DEL FINANCIAMIENTO PÚBLICO
+
+EL FINANCIAMIENTO PÚBLICO SEGÚN SU DESTINO SE CLASIFICA EN:
+
+A) FINANCIAMIENTO ORDINARIO, QUE ES EL QUE SE APLICA EN EL GASTO CORRIENTE PARA LA REALIZACIÓN DE LAS ACTIVIDADES COTIDIANAS DE UN PARTIDO POLÍTICO; Y,
+
+B) FINANCIAMIENTO PARA CAMPAÑAS ELECTORALES, QUE ES EL QUE SE APLICA EN LAS MISMAS, CON LA FINALIDAD DE PROMOVER LAS PLATAFORMAS ELECTORALES Y OBTENER EL VOTO DE LOS CIUDADANOS EN LOS COMICIOS CONSTITUCIONALES.
+
+LOS PARTIDOS POLÍTICOS TENDRÁN DERECHO AL FINANCIAMIENTO PÚBLICO DE SUS ACTIVIDADES ORDINARIAS PERMANENTES Y DE CAMPAÑA ELECTORAL, CONFORME A LAS REGLAS SIGUIENTES:
+
+A) PARA EL SOSTENIMIENTO DE ACTIVIDADES ORDINARIAS PERMANENTES:
+
+1. EL CONSEJO GENERAL, DETERMINARÁ ANUALMENTE EL MONTO TOTAL QUE SE DISTRIBUIRÁ ENTRE LOS PARTIDOS POLÍTICOS CONFORME A LO SIGUIENTE: MULTIPLICARÁ EL NÚMERO TOTAL DE CIUDADANOS INSCRITOS EN EL PADRÓN ELECTORAL DE LA ENTIDAD, A LA FECHA DE CORTE DEL ÚLTIMO DÍA DEL MES DE JULIO DE CADA AÑO, POR EL SETENTA Y CINCO POR CIENTO DEL SALARIO MÍNIMO DIARIO VIGENTE PARA EL ESTADO DE SINALOA;
+
+2. EL RESULTADO DE LA OPERACIÓN SEÑALADA EN EL NUMERAL ANTERIOR CONSTITUYE EL FINANCIAMIENTO PÚBLICO ANUAL A LOS PARTIDOS POLÍTICOS POR SUS ACTIVIDADES ORDINARIAS PERMANENTES Y SE DISTRIBUIRÁ EN LA SIGUIENTE FORMA: UN VEINTE POR CIENTO SE DIVIDIRÁ POR IGUAL ENTRE TODOS LOS PARTIDOS POLÍTICOS, EL OCHENTA POR CIENTO RESTANTE SE DIVIDIRÁ CONFORME A LA VOTACIÓN OBTENIDA POR CADA PARTIDO POLÍTICO EN LA ÚLTIMA ELECCIÓN DE DIPUTACIONES POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL;
+
+3. LAS CANTIDADES QUE, EN SU CASO, SE DETERMINEN PARA CADA PARTIDO, SERÁN ACTUALIZADAS DURANTE LA PRIMER QUINCENA DEL MES DE ENERO DE CADA AÑO, CONSIDERANDO EL INCREMENTO QUE SE OTORGUE AL SALARIO MÍNIMO GENERAL DE LA ZONA ECONÓMICA A LA QUE PERTENECE EL ESTADO DE SINALOA, Y SE ENTREGARÁN EN MINISTRACIONES MENSUALES CONFORME AL CALENDARIO PRESUPUESTAL QUE SE APRUEBE JUNTO CON LA ACTUALIZACIÓN;
+
+4. CADA PARTIDO POLÍTICO DEBERÁ DESTINAR ANUALMENTE POR LO MENOS EL DOS POR CIENTO DEL FINANCIAMIENTO PÚBLICO QUE RECIBA PARA EL DESARROLLO DE LAS ACTIVIDADES ESPECÍFICAS, CONSISTENTES EN ACTIVIDADES DE FORMACIÓN IDEOLÓGICA, POLÍTICAS Y DE INVESTIGACIONES ACADÉMICAS Y EDITORIALES, Y,
+
+5. PARA LA CAPACITACIÓN, PROMOCIÓN Y EL DESARROLLO DEL LIDERAZGO POLÍTICO DE LAS MUJERES, CADA PARTIDO POLÍTICO DEBERÁ DESTINAR ANUALMENTE, EL CINCO POR CIENTO DEL FINANCIAMIENTO PÚBLICO ORDINARIO.
+
+B) PARA EL FINANCIAMIENTO A LAS CAMPAÑAS ELECTORALES, SERÁN APLICABLES LAS REGLAS SIGUIENTES:
+
+1. EN EL AÑO DE LA ELECCIÓN EN QUE SE RENUEVEN EL PODER EJECUTIVO, EL CONGRESO DEL ESTADO Y LOS AYUNTAMIENTOS, A LOS PARTIDOS POLÍTICOS SE LES OTORGARÁ PARA GASTOS DE CAMPAÑA UN MONTO IGUAL AL DEL FINANCIAMIENTO PÚBLICO QUE PARA EL SOSTENIMIENTO DE SUS ACTIVIDADES ORDINARIAS PERMANENTES LE CORRESPONDA EN ESE AÑO;
+
+2. EN EL AÑO DE LA ELECCIÓN EN QUE SE RENUEVEN SOLAMENTE EL CONGRESO DEL ESTADO Y LOS AYUNTAMIENTOS, A LOS PARTIDOS POLÍTICOS, SE LES OTORGARÁ PARA GASTOS DE CAMPAÑA UN MONTO EQUIVALENTE AL CINCUENTA POR CIENTO DEL FINANCIAMIENTO PÚBLICO QUE PARA EL SOSTENIMIENTO DE SUS ACTIVIDADES ORDINARIAS PERMANENTES LES CORRESPONDAN EN ESE AÑO;
+
+3. EL FINANCIAMIENTO DE CAMPAÑA SERÁ DISTRIBUIDO APLICANDO LA REGLA CONTENIDA EN EL NUMERAL 2 DEL INCISO ANTERIOR, DE ESTE ARTÍCULO, Y SERÁ ADMINISTRADO EN SU TOTALIDAD POR LOS PARTIDOS POLÍTICOS, ESTABLECIENDO EL PRORRATEO CONFORME LO PREVISTO EN LA LEY GENERAL DE PARTIDOS POLÍTICOS, Y
+
+4. EN EL CASO DE QUE SE REGISTREN CANDIDATOS INDEPENDIENTES PARA EL PROCESO ELECTORAL DE QUE SE TRATE, ÉSTOS DEBERÁN SER CONSIDERADOS COMO UN PARTIDO DE NUEVO REGISTRO PARA LA DISTRIBUCIÓN DEL FINANCIAMIENTO PARA CAMPAÑAS, POR LO QUE PARTICIPARÁN DE LA PARTE CORRESPONDIENTE AL VEINTE POR CIENTO QUE SE DISTRIBUYE DE MANERA IGUALITARIA ENTRE TODOS LOS PARTIDOS POLÍTICOS.
+
+C) LOS PARTIDOS POLÍTICOS QUE HUBIEREN OBTENIDO SU REGISTRO CON FECHA POSTERIOR A LA ÚLTIMA ELECCIÓN, TENDRÁN DERECHO A QUE SE LES OTORGUE FINANCIAMIENTO PÚBLICO, CONFORME A LAS BASES SIGUIENTES:
+
+1. A PARTIR DEL DÍA PRIMERO DEL MES SIGUIENTE EN QUE EL CONSEJO GENERAL APRUEBE SU REGISTRO, SE LE OTORGARÁ A CADA PARTIDO POLÍTICO LA CANTIDAD PROPORCIONAL QUE RESULTE DEL MONTO CORRESPONDIENTE AL VEINTE POR CIENTO QUE SE DISTRIBUYE DE FORMA IGUALITARIA, QUE AÚN NO SE HAYA ENTREGADO A LOS PARTIDOS POLÍTICOS.
+
+2. EL CONSEJO GENERAL DEBERÁ APROBAR LOS MONTOS MODIFICADOS PARA TODOS LOS PARTIDOS POLÍTICOS INCLUIDOS LOS DE NUEVO REGISTRO A MÁS TARDAR EN LA ÚLTIMA SEMANA DEL MES EN QUE HAYA APROBADO EL REGISTRO DE NUEVOS PARTIDOS.
+
+3. EN EL AÑO DE LA ELECCIÓN DE QUE SE TRATE, EL FINANCIAMIENTO PARA GASTOS DE CAMPAÑA QUE CORRESPONDA CON BASE EN LO DISPUESTO POR INCISO B) DEL SEGUNDO PÁRRAFO DEL PRESENTE APARTADO.
+
+(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DEL APARTADO B DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+B. DEL AUTOFINANCIAMIENTO.
+
+EL AUTOFINANCIAMIENTO DE LOS PARTIDOS POLÍTICOS ESTARÁ CONSTITUIDO POR LOS INGRESOS QUE OBTENGA DE SUS ACTIVIDADES PROMOCIONALES, COMO SON CONFERENCIAS, ESPECTÁCULOS, FERIAS, FESTIVALES Y OTROS EVENTOS DE NATURALEZA SIMILAR, JUEGOS, RIFAS Y SORTEOS, EVENTOS CULTURALES, VENTAS DE PROPAGANDA UTILITARIA, CUOTAS ORDINARIAS Y EXTRAORDINARIAS DE SUS MIEMBROS ACTIVOS Y APORTACIONES DE SUS ORGANIZACIONES, LAS QUE SERÁN DETERMINADAS LIBREMENTE POR CADA PARTIDO POLÍTICO, ASÍ COMO DE CUALQUIER OTRA ACTIVIDAD SIMILAR QUE REALICEN PARA ALLEGARSE FONDOS, LAS QUE ESTARÁN SUJETAS A LAS LEYES CORRESPONDIENTES.
+
+EL LÍMITE DEL MONTO DE ESTE FINANCIAMIENTO SERÁ DEL CUARENTA POR CIENTO DEL FINANCIAMIENTO PÚBLICO QUE LES CORRESPONDA.
+
+EL ÓRGANO INTERNO RESPONSABLE DEL FINANCIAMIENTO DE CADA PARTIDO POLÍTICO REPORTARÁ LOS INGRESOS POR ESAS ACTIVIDADES EN LOS INFORMES RESPECTIVOS, QUE DEBERÁ REMITIR AL INSTITUTO ANEXO AL INFORME ANUAL.
+
+EL PARTIDO POLÍTICO PARA OBTENER RENDIMIENTOS FINANCIEROS, PODRÁ CREAR FONDOS O FIDEICOMISOS CON SU PATRIMONIO, DEBIENDO SUJETARSE A LAS SIGUIENTES REGLAS:
+
+A) A LAS APORTACIONES QUE SE REALICEN A TRAVÉS DE ESTAS MODALIDADES, LES SERÁN APLICABLES LAS PROHIBICIONES REFERIDAS AL FINANCIAMIENTO PRIVADO A QUE SE REFIERE EL INCISO SIGUIENTE;
+
+B) LOS FONDOS Y FIDEICOMISOS QUE SE CONSTITUYAN SERÁN MANEJADOS A TRAVÉS DE LAS OPERACIONES BANCARIAS Y FINANCIERAS QUE EL ÓRGANO RESPONSABLE DEL FINANCIAMIENTO DE CADA PARTIDO POLÍTICO CONSIDERE CONVENIENTE, QUEDANDO PROHIBIDA LA ADQUISICIÓN DE VALORES BURSÁTILES;
+
+C) LOS RENDIMIENTOS FINANCIEROS OBTENIDOS A TRAVÉS DE ESTAS MODALIDADES, DEBERÁN DESTINARSE ÚNICAMENTE PARA EL CUMPLIMIENTO DE LOS OBJETIVOS DE CADA PARTIDO POLÍTICO; Y,
+
+D) EL PARTIDO POLÍTICO NO PODRÁ SOLICITAR CRÉDITOS PROVENIENTES DE LA BANCA DE DESARROLLO PARA EL FINANCIAMIENTO DE SUS ACTIVIDADES.
+
+C. Del financiamiento privado.
+
+El financiamiento privado se constituye por las aportaciones que las personas físicas, simpatizantes de los partidos políticos, hacen a favor de éstos en efectivo o especie para el desarrollo y fortalecimiento de sus actividades.
+
+El monto total de este financiamiento no excederá el diez por ciento del tope de gastos de campaña que se determine para la elección de la Gubernatura.
+
+Las aportaciones que los simpatizantes realicen a favor de los partidos políticos, deberán cumplir los siguientes supuestos:
+
+a) De las aportaciones en dinero deberán expedirse recibos foliados autorizados por el Instituto conforme a reglas generales que emita al efecto y en los que se hagan constar los datos de identificación del aportante;
+
+b) Las aportaciones en especie se harán constar por escrito en contratos celebrados conforme a las leyes aplicables; y,
+
+c) Las aportaciones de bienes muebles o inmuebles deberán destinarse única y exclusivamente para el cumplimiento del objetivo del partido político.
+
+Ninguna persona podrá aportar más del uno por ciento del monto total del financiamiento privado que corresponda a cada partido político.
+
+El monto total que por financiamiento privado a través de colectas obtenga un partido político, no podrá ser superior al cinco por ciento del monto total que por ese financiamiento le corresponda.
+
+No podrán realizar aportaciones o donativos a los partidos políticos, en dinero o en especie, por sí o por interpósita persona y bajo ninguna circunstancia:
+
+a) Los Poderes Ejecutivo, Legislativo y Judicial de la Federación, de los Estados y los Ayuntamientos, salvo los establecidos en la ley;
+
+b) Las dependencias, entidades u organismos de la administración pública federal, estatal o municipal, centralizadas o paraestatales;
+
+c) Los partidos políticos, personas físicas o morales extranjeras;
+
+d) Los organismos internacionales de cualquier naturaleza;
+
+e) Los ministros de culto, asociaciones religiosas, iglesias o agrupaciones de cualquier religión o secta;
+
+f) Las personas que vivan o trabajen en el extranjero; y,
+
+g) Las personas morales.
+
+###### Artículo 66.
+
+Los Ayuntamientos otorgarán a los partidos políticos de conformidad con lo dispuesto en el artículo 15 de esta ley, financiamiento mensual en base a cien veces el salario mínimo general vigente en la entidad por cada regiduría que les corresponda. Para este efecto, será presupuestado por los respectivos Cabildos.
+
+Los Partidos Políticos deberán incorporar a sus informes anuales la comprobación del origen, monto y destino de este financiamiento.
+
+### Capítulo IX. Del Acceso de los Partidos Políticos a los Medios de Comunicación Social
+
+###### Artículo 67.
+
+La fiscalización de los ingresos y egresos de los partidos políticos y candidatos corresponde al Instituto Nacional Electoral en términos de lo dispuesto en el apartado B de la base V del artículo 41 de la Constitución o a cargo del Instituto en el caso del ejercicio de esta facultad delegada de conformidad con lo dispuesto en el artículo 125 de la Ley General de Instituciones y Procedimientos Electorales, e incluye:
+
+I. La fiscalización a partidos y candidatos de las actividades ordinarias permanentes y aquellas llevadas a cabo durante los procesos electorales; y,
+
+II. Los Informes de ingresos y gastos de los partidos políticos.
+
+###### Artículo 68.
+
+El acceso de los partidos políticos, coaliciones y candidatos independientes a la radio y la televisión se efectuará de conformidad con lo que establece el apartado B de la base III, del artículo 41 de la Constitución, así como lo dispuesto en el título quinto de la Ley General de Partidos Políticos y la Ley General de Instituciones y Procedimientos Electorales.
+
+Es derecho exclusivo de los partidos políticos y coaliciones, así como de los candidatos independientes, por conducto del órgano electoral, tener acceso a espacios en los medios de comunicación impresos para difundir mensajes orientados a la obtención del voto durante las precampañas y campañas electorales, conforme a las reglas y procedimientos contenidos en la normatividad que dicho órgano expida. Las y los candidatos de los partidos, sólo podrán hacer uso de los espacios que les asigne su partido político o coalición.
+
+###### Artículo 69.
+
+En la propaganda que contraten los partidos políticos y coaliciones deberán circunscribirse a la promoción del voto, a difundir los principios ideológicos de los partidos, las plataformas electorales y propuestas específicas de los candidatos.
+
+(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+Los partidos políticos, coaliciones y candidatos independientes en la propaganda electoral que difundan a través de los medios masivos de comunicación, evitarán cualquier OFENSA, DIFAMACIÓN O calumnia QUE DENIGRE a candidatos y terceros así como también se abstendrán de usar frases similares o alusivas a las utilizadas públicamente por cualquiera de las instancias de gobierno.
+
+(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+SE ENTENDERÁ POR CALUMNIA LA IMPUTACIÓN DE HECHOS O DELITOS FALSOS CON IMPACTO EN UN PROCESO ELECTORAL.
+
+## TÍTULO CUARTO. De las Candidaturas Independientes
+
+### Capítulo I. Disposiciones Generales
+
+###### Artículo 70.
+
+Las candidaturas independientes para el cargo de Gobernador, Diputados, Presidente Municipal, Síndico Procurador y Regidores por el sistema de mayoría relativa, son aplicables en los términos de lo dispuesto en la fracción IV, incisos k) y p) del artículo 116 de la Constitución y artículos 10, fracción II y 14 de la Constitución Estatal.
+
+###### Artículo 71.
+
+Son aplicables, en todo lo conducente, las disposiciones de la Ley General del Sistema de Medios de Impugnación en Materia Electoral y la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.
+
+###### Artículo 72.
+
+La organización y desarrollo de los procedimientos tendentes a la concesión de registro de candidaturas independientes a los ciudadanos será responsabilidad del Instituto.
+
+###### Artículo 73.
+
+Corresponde al Instituto la vigilancia y fiscalización en su caso, del ejercicio de las prerrogativas otorgadas a las candidaturas independientes, conforme a lo establecido en la Ley General de Instituciones y Procedimientos Electorales en lo que no corresponda al Instituto Nacional Electoral, y en atención a lo establecido en la legislación aplicable en la materia para los partidos políticos.
+
+###### Artículo 74.
+
+El derecho de los ciudadanos de solicitar su registro de manera independiente a los partidos políticos se sujetará a los requisitos, condiciones y términos establecidos en la Constitución, la Constitución Estatal y en la presente ley, para los cargos de elección a que aspiren.
+
+###### Artículo 75.
+
+Las y los ciudadanos que cumplan con los requisitos, condiciones y términos tendrán derecho a participar y, en su caso, a ser registrados como candidatos independientes para ocupar los siguientes cargos de elección popular:
+
+I. Gobernador;
+
+II. Diputado por el sistema de mayoría relativa; y,
+
+III. Presidente Municipal, Síndico Procurador y Regidores por el sistema de mayoría relativa.
+
+No procederá en ningún caso, el registro de aspirantes a candidaturas independientes por el principio de representación proporcional.
+
+###### Artículo 76.
+
+Para los efectos del cargo de Gobernador, se registra una candidatura única; para integración del Congreso, las candidaturas independientes para el cargo de Diputado deberán registrar la fórmula correspondiente de propietario y suplente por Distrito; en el caso de la integración del Ayuntamiento deberán registrar una planilla de candidaturas independientes, integrada por un solo candidato para el cargo de Presidente Municipal y con candidatos, propietario y suplente, tratándose del Síndico Procurador y Regidurías por el sistema de mayoría relativa.
+
+En la integración de fórmulas de candidatos independientes, cuando el propietario sea del género masculino, el suplente podrá ser de cualquier género, pero si el propietario fuera del género femenino únicamente podrá integrar fórmula con suplente del mismo género.
+
+###### Artículo 77.
+
+Las y los candidatos independientes que hayan participado en una elección ordinaria que haya sido anulada, tendrán derecho a participar en las elecciones extraordinarias correspondientes, siempre y cuando no les sean imputables las causas que motivaron dicha anulación.
+
+### Capítulo II. De la Postulación de Candidaturas Independientes
+
+###### Artículo 78.
+
+Para los efectos de esta ley, el proceso de selección de las candidaturas independientes comprende las etapas siguientes:
+
+I. De la Convocatoria;
+
+II. De los actos previos al registro;
+
+III. De la obtención del apoyo ciudadano; y,
+
+IV. Del registro.
+
+###### Artículo 79.
+
+El Consejo General emitirá y dará amplia difusión en la convocatoria que declara iniciado el proceso de registro de las y los ciudadanos interesados en postularse como candidatos independientes, señalando los cargos de elección popular a los que pueden aspirar, los requisitos que deben cumplir, la documentación comprobatoria requerida, los plazos para recabar el apoyo ciudadano correspondiente, para la presentación de las solicitudes de registro, y para la emisión de la resolución sobre la procedencia, o improcedencia en su caso, del otorgamiento de las candidaturas, así como los topes de gastos que pueden erogar y los formatos para ello.
+
+###### Artículo 80.
+
+Las y los ciudadanos que pretendan postular su candidatura independiente a un cargo de elección popular deberán hacerlo del conocimiento del órgano correspondiente del Instituto, dependiendo del cargo al que aspiren, por escrito y en el formato que el Consejo General determine.
+
+En todo caso, la manifestación de la intención se realizará a partir del día siguiente al en que se emita la convocatoria y hasta el día previo al en que dé inicio el periodo para recabar el apoyo ciudadano correspondiente, conforme a las siguientes reglas:
+
+I. Las y los aspirantes al cargo de Gobernador del Estado, ante el Consejo General;
+
+II. Las fórmulas de aspirantes al cargo de Diputado local por el sistema de mayoría relativa ante el Consejo Distrital correspondiente; y,
+
+III. Las planillas de aspirantes a los cargos de Presidente Municipal, Síndico Procurador y Regidores por el sistema de mayoría relativa, ante el Consejo Municipal respectivo.
+
+Una vez hecha la comunicación a que se refiere el párrafo primero de este artículo y recibida la constancia respectiva, los ciudadanos adquirirán la calidad de aspirantes.
+
+Con la manifestación de intención, el aspirante a candidato independiente deberá presentar la documentación que acredite la creación de la persona moral constituida en asociación civil, la cual deberá tener el mismo tratamiento que un partido político en el régimen fiscal. El Consejo General establecerá el modelo único de estatutos de la asociación civil. De la misma manera deberá acreditar su alta ante el Sistema de Administración Tributaria y anexar los datos de la cuenta bancaria a nombre de la persona moral para recibir el financiamiento público y privado correspondiente.
+
+La persona moral a la que se refiere el párrafo anterior deberá estar constituida con por lo menos el aspirante a candidato independiente, su representante legal y el encargado de la administración de los recursos de la candidatura independiente.
+
+###### Artículo 81.
+
+A partir del día siguiente de la fecha en que obtengan la calidad de aspirantes, estos podrán realizar actos tendentes a recabar el porcentaje de apoyo ciudadano requerido por medios diversos a la radio y la televisión, siempre que los mismos no constituyan actos anticipados de campaña.
+
+Los actos tendentes a recabar el apoyo ciudadano en los procesos en que se elijan al Gobernador, a las y los Diputados integrantes del Congreso y a los integrantes de los Ayuntamientos, se sujetarán a los siguientes plazos, según corresponda:
+
+I. Las y los aspirantes a Candidato Independiente para el cargo de Gobernador, contarán con cuarenta días; y,
+
+II. Las y los aspirantes a Candidato Independiente para el cargo de Diputado o integrantes de los Ayuntamientos, con cuarenta días para los procesos en que se elija Gobernador del Estado, y con treinta días en aquellos en que sólo se elijan Diputaciones Locales, Presidencias Municipales, Síndicos Procuradores y Regidurías.
+
+El periodo para la realización de actos tendentes a la obtención del apoyo ciudadano, invariablemente durará el mismo tiempo que corresponda a las precampañas.
+
+El Consejo General podrá realizar ajustes a los plazos establecidos en este artículo a fin de garantizar los plazos de registro y que la duración de los actos tendentes a recabar el apoyo ciudadano se ciñan a lo establecido en las fracciones anteriores. Cualquier ajuste que el Consejo General realice deberá ser difundido ampliamente.
+
+###### Artículo 82.
+
+Se entiende por actos tendentes a recabar el apoyo ciudadano, el conjunto de reuniones públicas, asambleas, marchas y todas aquellas actividades dirigidas a la ciudadanía en general, que realizan los aspirantes con el objeto de obtener el apoyo ciudadano para satisfacer el requisito en los términos de esta ley.
+
+###### Artículo 83.
+
+Para la candidatura de Gobernador, la cédula de respaldo deberá contener las firmas de una cantidad de ciudadanos equivalente al dos por ciento de la lista nominal de electores en el Estado, con corte al treinta y uno de agosto del año previo al de la elección, y estar integrada por electores de por lo menos la mitad de los Municipios del Estado, que sumen cuando menos el uno por ciento de ciudadanos que figuren en la lista nominal de electores de cada una de ellos.
+
+Para las candidaturas independientes a integrantes de los Ayuntamientos, la planilla correspondiente requerirá contar con cédula de respaldo que deberá contener las firmas de una cantidad de ciudadanos que represente, al menos el dos por ciento de los inscritos en la lista nominal de electores del Municipio respectivo, con corte al treinta y uno de agosto del año previo al de la elección, y estar integrada por electores de por lo menos la mitad de las secciones del municipio, que sumen cuando menos el uno por ciento de ciudadanos que figuren en la lista nominal de electores de cada una de ellas.
+
+Para las candidaturas independientes de Diputaciones al Congreso del Estado por el sistema de mayoría relativa, la fórmula correspondiente requerirá contar con cédula de respaldo que deberá contener las firmas de una cantidad de ciudadanos que represente, al menos el dos por ciento de los inscritos en la lista nominal de electores del distrito correspondiente, con corte al treinta y uno de agosto del año previo al de la elección, y estar integrada por electores de por lo menos la mitad de las secciones del distrito, que sumen cuando menos el uno por ciento de ciudadanos que figuren en la lista nominal de electores de cada una de ellas. En aquellos distritos electorales que comprendan el territorio de más de un municipio o porción de uno o más de ellos, el porcentaje de apoyo ciudadano procurará encontrarse distribuido de manera proporcional entre dichos territorios.
+
+###### Artículo 84.
+
+Las y los aspirantes no podrán realizar actos anticipados de campaña por ningún medio.
+
+Queda prohibido a los aspirantes, en todo tiempo, la contratación de propaganda o cualquier otra forma de promoción personal en radio y televisión.
+
+###### Artículo 85.
+
+La cuenta en institución bancaria abierta para la solicitud del registro de la candidatura independiente, servirá para el manejo de los recursos para obtener el apoyo ciudadano y para, en su caso, la campaña electoral.
+
+La utilización de la cuenta será a partir del inicio de los actos tendentes a obtener el apoyo ciudadano y hasta la conclusión de las campañas electorales y con posterioridad, exclusivamente para cubrir los pasivos contraídos y demás erogaciones. Su cancelación deberá realizarse una vez que se concluyan los procedimientos que correspondan a la Unidad de Fiscalización del Instituto Nacional Electoral.
+
+###### Artículo 86.
+
+Los actos tendentes a recabar el apoyo ciudadano se financiarán con recursos privados de origen lícito, en los términos de la normatividad aplicable, y estarán sujetos al tope de gastos que determine el Instituto por el tipo de elección para la que pretenda ser postulado.
+
+El Instituto determinará el tope de gastos equivalente al diez por ciento del establecido para las campañas inmediatas anteriores, según la elección de que se trate.
+
+###### Artículo 87.
+
+Todo egreso deberá cubrirse con cheque nominativo o transferencia electrónica y los comprobantes que los amparen, deberán ser expedidos a nombre del aspirante y la persona encargada del manejo de recursos financieros en cuentas mancomunadas, debiendo constar en original como soporte a los informes financieros de los actos tendentes a obtener el apoyo ciudadano.
+
+Le serán aplicables a las y los aspirantes las disposiciones relacionadas con el financiamiento privado de las candidaturas independientes de esta ley.
+
+Los aspirantes deberán nombrar una persona encargada del manejo de los recursos financieros y administración de los recursos relacionados con el apoyo ciudadano, así como de la presentación de los informes en los términos de esta ley.
+
+###### Artículo 88.
+
+Los aspirantes cubrirán los requisitos de su informe de ingresos y egresos de actos tendentes a recabar el apoyo ciudadano de acuerdo a lo establecido por el Consejo General del Instituto Nacional Electoral, en los términos de la normatividad vigente en la materia.
+
+###### Artículo 89.
+
+El aspirante que no entregue el informe de ingresos y egresos, dentro de los treinta días siguientes a la conclusión del periodo para recabar el apoyo ciudadano, le será negado o cancelado en su caso, el registro como Candidato Independiente.
+
+Los aspirantes que sin haber obtenido el registro a la candidatura independiente no entreguen los informes antes señalados, serán sancionados en los términos de la Ley General de Instituciones y Procedimientos Electorales.
+
+### Capítulo III. De los Derechos y Obligaciones de los Aspirantes
+
+###### Artículo 90.
+
+Son derechos de las y los aspirantes:
+
+I. Solicitar a los órganos electorales, dependiendo del tipo de elección, su registro como aspirante;
+
+II. Realizar actos para promover sus ideas y propuestas con el fin de obtener el apoyo ciudadano por el cargo al que aspire;
+
+III. Utilizar financiamiento privado para el desarrollo de sus actividades, en términos de esta ley;
+
+IV. Nombrar a un representante para asistir a las sesiones de los Consejos General, distritales y municipales, según corresponda, con derecho sólo a voz;
+
+V. Insertar en su propaganda la leyenda “aspirante a Candidato Independiente”; y,
+
+VI. Los demás establecidos por esta ley.
+
+###### Artículo 91.
+
+Son obligaciones de las y los aspirantes:
+
+I. Conducirse con respeto irrestricto a lo dispuesto en la Constitución, la Constitución Estatal y la presente ley;
+
+II. No aceptar ni utilizar recursos de procedencia ilícita para realizar actos tendentes a obtener el apoyo ciudadano;
+
+III. Abstenerse de recibir aportaciones y donaciones en efectivo o en especie de cualquier persona física o moral, de las no permitidas por la normatividad aplicable;
+
+IV. Rechazar toda clase de apoyo económico, político o propagandístico proveniente de extranjeros o de ministros de culto de cualquier religión, así como de las asociaciones y organizaciones religiosas, iglesias o sectas. Tampoco podrán aceptar aportaciones o donativos, en dinero o en especie, por sí o por interpósita persona y bajo ninguna circunstancia de:
+
+a) Los poderes Ejecutivo, Legislativo y Judicial de la Federación y de las entidades federativas, y los ayuntamientos;
+
+b) Las dependencias, entidades u organismos de la Administración Pública Federal, Estatal o Municipal, centralizada o paraestatal, y los órganos de gobierno del Distrito Federal;
+
+c) Los organismos autónomos federales, estatales y del Distrito Federal;
+
+d) Los partidos políticos, personas físicas o morales extranjeras;
+
+e) Los organismos internacionales de cualquier naturaleza;
+
+f) Las personas morales; y,
+
+g) Las personas que vivan o trabajen en el extranjero;
+
+V. Abstenerse de realizar por sí o por interpósita persona, actos de presión o coacción para obtener el apoyo ciudadano;
+
+(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+VI. Abstenerse de proferir OFENSAS, DIFAMACIÓN, calumnia O CUALQUIER EXPRESIÓN QUE DENIGRE a otros aspirantes o precandidatos, personas e instituciones privadas;
+
+VII. Rendir el informe de ingresos y egresos;
+
+VIII. Respetar los topes de gastos fijados para obtener el apoyo ciudadano, en los términos que establece la presente ley; y,
+
+IX. Las demás establecidas por esta ley.
+
+### Capítulo IV. Del Registro de Candidatos Independientes y su Propaganda
+
+###### Artículo 92.
+
+Las y los ciudadanos que aspiren a participar como candidatos independientes en las elecciones locales de que se trate, deberán satisfacer los requisitos señalados por la Constitución Estatal y el presente ordenamiento para los cargos de elección a que aspiren.
+
+###### Artículo 93.
+
+Los plazos y órganos competentes para el registro de las candidaturas independientes en el año de la elección, serán los mismos que se señalan en la presente ley para Gobernador, Diputados, Presidente Municipal, Síndico Procurador y Regidurías por el sistema de mayoría relativa.
+
+El Instituto dará amplia difusión a la apertura del registro de las candidaturas independientes y a los plazos a que se refiere el presente artículo.
+
+###### Artículo 94.
+
+Las y los ciudadanos que aspiren a participar como candidatos independientes a un cargo de elección popular, deberán presentar ante el Instituto:
+
+I. La solicitud por escrito;
+
+II. La solicitud de registro deberá contener:
+
+a) Apellido paterno, apellido materno, nombre completo y firma o, en su caso, huella dactilar del solicitante;
+
+b) Lugar y fecha de nacimiento del solicitante;
+
+c) Domicilio del solicitante y tiempo de residencia en el mismo;
+
+d) Ocupación del solicitante;
+
+e) Clave de la credencial para votar con fotografía vigente del solicitante;
+
+f) Cargo para el que se pretenda postular el solicitante;
+
+g) Designación del representante legal y domicilio para oír y recibir notificaciones; y,
+
+h) Designación de la persona encargada del manejo de los recursos financieros y de la rendición de informes correspondientes;
+
+III. La solicitud deberá acompañarse de la siguiente documentación:
+
+a) Formato en el que manifieste su voluntad de ser Candidato Independiente, y declaración bajo protesta de decir verdad que no se encuentra en algunos de los supuestos de prohibición señalados por esta ley;
+
+b) Copia del acta de nacimiento y del anverso y reverso de la credencial para votar con fotografía vigente;
+
+c) La plataforma electoral que contenga las principales propuestas que el Candidato Independiente sostendrá en la campaña electoral;
+
+d) Los datos de identificación de la cuenta bancaria para el manejo de los recursos de la candidatura independiente, en los términos de esta ley;
+
+e) Los informes de gastos y egresos de los actos tendentes a obtener el apoyo ciudadano;
+
+f) La cédula de respaldo que contenga el nombre, firma y clave de elector o el número identificador al reverso de la credencial de elector derivado del reconocimiento óptico de caracteres (OCR) de la credencial para votar con fotografía vigente de cada uno de los ciudadanos que manifiestan el apoyo en el porcentaje requerido en los términos de esta ley; y,
+
+g) Manifestación por escrito, bajo protesta de decir verdad, de:
+
+1. No aceptar recursos de procedencia ilícita para campañas y actos para obtener el apoyo ciudadano;
+
+2. No ser presidente del comité ejecutivo nacional, estatal, municipal, dirigente, militante, afiliado o su equivalente, de un partido político, en un plazo de sesenta días antes de la emisión de la convocatoria a elecciones expedida por el Congreso del Estado; y
+
+3. No tener ningún otro impedimento de tipo legal para contender como Candidato Independiente; y,
+
+IV. Escrito en el que manifieste su conformidad para que todos los ingresos y egresos de la cuenta bancaria sean fiscalizados, en cualquier momento, por el Instituto Nacional Electoral.
+
+Recibida una solicitud de registro de candidatura independiente por el Presidente o Secretario del consejo que corresponda, se verificará dentro de los tres días siguientes que se cumplió con todos los requisitos señalados en la fracción anterior, con excepción de lo relativo al apoyo ciudadano.
+
+###### Artículo 95.
+
+Si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos, se notificará de inmediato al solicitante o a su representante, para que dentro de las cuarenta y ocho horas siguientes subsane el o los requisitos omitidos.
+
+Si no se subsanan los requisitos omitidos o se advierte que la solicitud se realizó en forma extemporánea, se tendrá por no presentada.
+
+###### Artículo 96.
+
+Una vez que se cumplan los demás requisitos establecidos en esta ley, con el apoyo de la Dirección Ejecutiva del Registro Federal de Electores del Instituto Nacional Electoral, se procederá a verificar que se haya reunido el porcentaje de apoyo ciudadano que corresponda según la elección de que se trate, constatando que los ciudadanos aparecen en la lista nominal de electores.
+
+Las firmas no se computarán para los efectos del porcentaje requerido cuando se presente alguna de las siguientes circunstancias:
+
+I. Nombres con datos falsos o erróneos;
+
+II. En el caso de candidatos a Gobernador, los ciudadanos no tengan su domicilio en la Entidad;
+
+III. En el caso de candidatos a Diputado, los ciudadanos no tengan su domicilio en el distrito para el que se está postulando;
+
+IV. En el caso de candidatos a Presidente Municipal, Síndico Procurador y Regidurías, los ciudadanos no tengan su domicilio en el Municipio para el que se están postulando;
+
+V. Los ciudadanos hayan sido dados de baja de la lista nominal;
+
+VI. En el caso que se haya presentado por una misma persona más de una manifestación a favor de un mismo aspirante, sólo se computará una; y,
+
+VII. En el caso que una misma persona haya presentado manifestación en favor de más de un aspirante, sólo se computará la primera manifestación presentada.
+
+###### Artículo 97.
+
+Si la solicitud no reúne el porcentaje mínimo requerido de apoyo ciudadano se tendrá por no presentada.
+
+###### Artículo 98.
+
+Ninguna persona podrá solicitar su registro como candidato para un cargo de elección popular del orden estatal y simultáneamente para otro de índole federal o del Distrito Federal. En este supuesto, si el registro para el cargo de la elección federal ya estuviere hecho, se procederá a la cancelación automática del registro local.
+
+Las y los candidatos independientes que hayan sido registrados no podrán ser postulados como candidatos por un partido político o coalición en el mismo proceso electoral.
+
+###### Artículo 99.
+
+Dentro de los tres días siguientes al en que venzan los plazos para la presentación de las solicitudes de registro de candidaturas los Consejos General, Distritales y Municipales, deberán celebrar las sesiones en que se resuelvan las referidas solicitudes, en los términos de la presente ley.
+
+###### Artículo 100.
+
+Las Secretarías del Consejo General y de los Consejos Distritales y Municipales, según corresponda, tomarán las medidas necesarias para hacer pública la conclusión del registro de candidaturas independientes, dando a conocer los nombres de los candidatos o fórmulas registradas y de aquéllos que no cumplieron con los requisitos.
+
+Los nombres de los candidatos o formulas que obtuvieron su registro deberán publicarse por el Instituto en el Periódico Oficial.
+
+###### Artículo 101.
+
+Las y los candidatos independientes que obtengan su registro no podrán ser sustituidos en ninguna de las etapas del proceso electoral.
+
+###### Artículo 102.
+
+Son aplicables a las candidaturas independientes, las normas sobre propaganda electoral contenidas en esta ley.
+
+###### Artículo 103.
+
+La propaganda electoral de las candidaturas independientes deberá tener el emblema y color o colores que los caractericen y diferencien de otros partidos políticos y de otras candidaturas independientes, así como tener visible la leyenda: “Candidato Independiente” o “Candidata Independiente” en su caso.
+
+### Capítulo V. De las prerrogativas, derechos, obligaciones y fiscalización de las Candidaturas Independientes
+
+###### Artículo 104.
+
+Son prerrogativas y derechos de las y los Candidatos Independientes registrados:
+
+I. Participar en la campaña electoral correspondiente y en la elección al cargo para el que hayan sido registrados;
+
+II. Tener acceso a los tiempos de radio y televisión, como si se tratara de un partido político de nuevo registro, pero en forma proporcional al tipo de elección de que se trate y únicamente en la etapa de las campañas electorales;
+
+III. Obtener financiamiento público y privado, en los términos de esta ley;
+
+IV. Realizar actos de campaña y difundir propaganda electoral en los términos de esta ley;
+
+V. Replicar y aclarar la información que generen los medios de comunicación, cuando consideren que se deforma su imagen o que se difundan hechos falsos o sin sustento alguno;
+
+VI. Designar representantes ante los órganos del Instituto, en los términos dispuestos por esta ley;
+
+VII. Solicitar a los órganos electorales copia de la documentación electoral, a través de sus representantes acreditados; y,
+
+VIII. Las demás que les otorgue esta ley y otros ordenamientos aplicables.
+
+###### Artículo 105.
+
+Son obligaciones de las y los Candidatos Independientes registrados:
+
+I. Conducirse con respeto irrestricto a lo dispuesto en la Constitución, en la Constitución Estatal y en la presente ley;
+
+II. Respetar y acatar los acuerdos que emitan los órganos del Instituto;
+
+III. Respetar y acatar los topes de gastos de campaña en los términos de la presente ley;
+
+IV. Proporcionar al Instituto la información y documentación que éste solicite, en los términos de la presente ley;
+
+V. Ejercer las prerrogativas y aplicar el financiamiento exclusivamente para los gastos de campaña;
+
+VI. Depositar únicamente en la cuenta bancaria registrada sus aportaciones y realizar todos los egresos de los actos de campaña con dicha cuenta;
+
+VII. Abstenerse de utilizar símbolos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
+
+(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+VIII. Abstenerse de proferir OFENSAS, DIFAMACIÓN, calumnia O CUALQUIER EXPRESIÓN QUE DENIGRE a otros candidatos, personas o instituciones privadas;
+
+IX. Insertar en su propaganda de manera visible la leyenda: “Candidata Independiente”, o “Candidato Independiente” en su caso;
+
+X. Abstenerse de utilizar en su propaganda política o electoral, emblemas y colores utilizados por otros candidatos independientes o partidos políticos;
+
+XI. Abstenerse de realizar actos que generen presión o coacción a los electores;
+
+XII. Abstenerse de recibir aportaciones y donaciones en efectivo, o en especie por cualquier persona física o moral;
+
+XIII. Presentar, en los mismos términos en que lo hagan los partidos políticos, los informes de campaña sobre el origen y monto de todos sus ingresos, así como su aplicación y empleo;
+
+XIV. Ser responsable directo, junto con el encargado de la administración de sus recursos financieros, dentro de los procedimientos de fiscalización de los recursos correspondientes; y,
+
+XV. Las demás que establezcan esta ley y otros ordenamientos aplicables.
+
+###### Artículo 106.
+
+Las y los candidatos independientes, de conformidad con esta ley y la normatividad de la materia, podrán designar representantes ante los órganos del Instituto, en los términos siguientes:
+
+I. Las candidaturas independientes a Gobernador del Estado, ante el Consejo General y la totalidad de los Consejos Distritales;
+
+II. Las candidaturas independientes a Diputados, ante el Consejo Distrital correspondiente a la demarcación por la que se postule; y,
+
+III. Las candidaturas independientes a Presidente Municipal, Síndico Procurador y Regidurías por el sistema de mayoría relativa, ante el Consejo Municipal de la demarcación por la cual se postule.
+
+La acreditación de representantes ante el Consejo General y los Consejos Distritales y Municipales se realizará dentro de los treinta días posteriores al de la aprobación de su registro como aspirante a Candidato Independiente.
+
+Si la designación no se realiza en el plazo previsto en el párrafo anterior perderá este derecho.
+
+###### Artículo 107.
+
+El registro de los nombramientos de los representantes ante mesas directivas de casilla y generales, se realizará en los términos previstos en esta ley.
+
+###### Artículo 108.
+
+El régimen de financiamiento de las candidaturas independientes tendrá las siguientes modalidades:
+
+I. Financiamiento privado; y,
+
+II. Financiamiento público.
+
+###### Artículo 109.
+
+El financiamiento privado se constituye por las aportaciones que realicen la o el Candidato Independiente y sus simpatizantes, el cual en conjunto con el financiamiento público, no podrá rebasar en ningún caso, el tope de gasto de campaña para la elección de que se trate.
+
+No será aplicable a las candidaturas independientes, el principio de prevalencia del financiamiento público sobre el privado dentro de las campañas electorales, de manera que, una vez determinada la porción que le corresponda del financiamiento público, el financiamiento privado podrá excederlo, teniendo la sumatoria de ambos como límite, la cantidad que se determine como tope de gastos de campaña para la elección correspondiente.
+
+###### Artículo 110.
+
+Las y los candidatos independientes tienen prohibido recibir aportaciones y donaciones en efectivo o en especie, de cualquier persona física que rebase el tope de gastos previsto en el artículo anterior.
+
+###### Artículo 111.
+
+No podrán recibir aportaciones o donativos en dinero o en especie por sí o por interpósita persona, las y los candidatos independientes a cargos de elección popular, bajo ninguna circunstancia de:
+
+I. Los Poderes Ejecutivo, Legislativo y Judicial de la Federación y de las Entidades, así como los Ayuntamientos;
+
+II. Las Dependencias, Entidades u Organismos de la Administración Pública Federal, Estatal o Municipal, así como los del Distrito Federal;
+
+III. Los Organismos Autónomos Federales, Estatales y del Distrito Federal;
+
+IV. Los partidos políticos, personas físicas o morales extranjeras;
+
+V. Las organizaciones gremiales, sindicatos y corporativos;
+
+VI. Los organismos internacionales de cualquier naturaleza;
+
+VII. Los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión;
+
+VIII. Las personas que vivan o trabajen en el extranjero; y,
+
+IX. Las personas morales.
+
+###### Artículo 112.
+
+Las y los candidatos independientes no podrán solicitar créditos provenientes de la banca de desarrollo para el financiamiento de sus actividades. Tampoco podrán recibir aportaciones de personas no identificadas.
+
+###### Artículo 113.
+
+Para el manejo de los recursos de campaña electoral, se deberá utilizar la cuenta bancaria registrada a que se refiere esta ley; todas las aportaciones deberán realizarse exclusivamente en dicha cuenta, mediante cheque o transferencia bancaria.
+
+###### Artículo 114.
+
+Todo egreso deberá cubrirse con cheque nominativo o transferencia electrónica. En el caso de los pagos por la prestación de bienes o servicios, cuyo monto exceda el equivalente a cien días de salario mínimo general vigente en el Estado, adicionalmente el cheque deberá contener la leyenda “para abono en cuenta del beneficiario”. Las pólizas de los cheques deberán conservarse anexas a la documentación comprobatoria junto con la copia del cheque a que se hace referencia.
+
+Los comprobantes que amparen los egresos que realicen las y los candidatos independientes, deberán ser expedidos a su nombre y constar en original como soporte a los informes financieros de las campañas electorales, los cuales estarán a disposición de la Unidad de Fiscalización del Instituto Nacional Electoral para su revisión de conformidad con lo dispuesto en esta ley. Dicha documentación deberá cumplir con los requisitos que exigen las disposiciones fiscales aplicables, así como las establecidas por el reglamento de Fiscalización de los Recursos de los Partidos Políticos.
+
+###### Artículo 115.
+
+Las aportaciones de bienes muebles, servicios o de cualquier otra especie, deberán destinarse exclusivamente a las actividades de la candidatura independiente.
+
+###### Artículo 116.
+
+En ningún caso, las candidaturas independientes podrán recibir en propiedad bienes inmuebles para las actividades de su candidatura, así como adquirir bienes inmuebles con el financiamiento público o privado que reciban.
+
+###### Artículo 117.
+
+Las candidaturas independientes tendrán derecho a recibir financiamiento público para sus gastos de campaña. Para los efectos de la distribución del financiamiento público y prerrogativas a que tienen derecho las y los candidatos independientes, en su conjunto, serán considerados como un partido político de nuevo registro.
+
+Cada candidato independiente recibirá las prerrogativas en la parte proporcional que le corresponda en la elección de que se trate.
+
+###### Artículo 118.
+
+El monto que le correspondería a un partido de nuevo registro, se distribuirá entre todas las candidaturas independientes de la siguiente manera:
+
+I. Un treinta y tres punto tres por ciento que se distribuirá de manera igualitaria entre todas las candidaturas independientes al cargo de Gobernador;
+
+II. Un treinta y tres punto tres por ciento que se distribuirá de manera igualitaria entre todas las fórmulas de candidaturas independientes al cargo de Diputado de mayoría; y,
+
+III. Un treinta y tres punto tres por ciento que se distribuirá de manera igualitaria entre todas las fórmulas de candidaturas independientes al cargo de Regidor.
+
+En el supuesto de que un sólo candidato obtenga su registro para cualquiera de los cargos antes mencionados, no podrá recibir financiamiento que exceda del cincuenta por ciento de los montos referidos en los incisos anteriores.
+
+###### Artículo 119.
+
+Las y los candidatos deberán nombrar una persona encargada del manejo de los recursos financieros y administración de los recursos generales y de campaña, así como de la presentación de los informes a que se refiere esta ley.
+
+###### Artículo 120.
+
+Las y los candidatos independientes deberán reembolsar al Instituto el monto del financiamiento público no erogado.
+
+###### Artículo 121.
+
+El Instituto Nacional Electoral, como autoridad única para la administración del tiempo que corresponda al Estado en radio y televisión, garantizará a las candidaturas independientes el uso de sus prerrogativas en radio y televisión; aprobará a propuesta del Instituto, las pautas para la asignación de los mensajes y programas que tengan derecho a difundir durante las campañas electorales; atenderá las quejas y denuncias por la violación a las normas aplicables y determinará, en su caso, las sanciones.
+
+El Instituto deberá notificar al Instituto Nacional Electoral los acuerdos por los que se registren candidaturas independientes para el proceso electoral, se notificará al Instituto Nacional Electoral en términos de los lineamientos que al inicio del proceso electoral emita éste para el caso.
+
+###### Artículo 122.
+
+El conjunto de candidaturas independientes, según el tipo de elección, accederán a la radio y la televisión, como si se tratara de un partido de nuevo registro, únicamente en el porcentaje que se distribuye en forma igualitaria a los partidos políticos, en términos de lo dispuesto en la Constitución.
+
+Las y los candidatos independientes sólo tendrán acceso a radio y televisión en campaña electoral.
+
+###### Artículo 123.
+
+Las y los candidatos independientes deberán entregar sus materiales al Instituto para su calificación técnica a fin de emitir el dictamen correspondiente en los plazos y términos que el propio Instituto determine.
+
+###### Artículo 124.
+
+Ninguna persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión para promover un Candidato Independiente o dirigida a influir en las preferencias electorales de los ciudadanos, a favor o en contra de los mismos o de los partidos políticos. Queda prohibida la transmisión en territorio estatal de este tipo de propaganda contratada en el extranjero.
+
+###### Artículo 125.
+
+El Instituto Nacional Electoral, podrá ordenar la suspensión inmediata de cualquier propaganda política o electoral en radio o televisión que resulte violatoria de esta ley, lo anterior, sin perjuicio de las demás sanciones que deban aplicarse a los infractores.
+
+###### Artículo 126.
+
+Para la transmisión de mensajes de las y los candidatos independientes en cada estación de radio y canal de televisión, se estará a lo establecido en la normatividad aplicable en la materia, así como los acuerdos del Comité de Radio y Televisión del Instituto.
+
+###### Artículo 127.
+
+El tiempo que corresponda a cada candidata y candidato independiente será utilizado exclusivamente para la difusión de sus mensajes.
+
+###### Artículo 128.
+
+El Comité de Radio y Televisión del Instituto Nacional Electoral será el responsable de asegurar a las y los candidatos independientes la debida participación en la materia.
+
+###### Artículo 129.
+
+Las infracciones a lo establecido en esta materia, serán sancionadas en los términos establecidos en la normatividad aplicable.
+
+###### Artículo 130.
+
+Las candidaturas independientes disfrutarán de las franquicias postales dentro del territorio estatal, que sean necesarias para el desarrollo de sus actividades.
+
+###### Artículo 131.
+
+Las franquicias postales para las candidaturas independientes se sujetarán a las siguientes reglas:
+
+I. Cada una de las candidaturas independientes, será considerada como un partido de nuevo registro para la distribución del cuatro por ciento de la franquicia postal a que se refiere la Ley General de Instituciones y Procedimientos Electorales, que se distribuirá en forma igualitaria;
+
+II. Las candidaturas independientes sólo tendrán acceso a las franquicias postales durante la campaña electoral y en el ámbito territorial del cargo por el que están compitiendo;
+
+III. Los nombres y firmas de los representantes autorizados para realizar las gestiones para el uso de las franquicias, se registrarán ante la Dirección Ejecutiva de Prerrogativas y Partidos Políticos a fin de que ésta los comunique al organismo público correspondiente; y,
+
+IV. El envío de la propaganda electoral, se realizará conforme a lo siguiente:
+
+a) Las y los candidatos independientes a Gobernador podrán remitir propaganda únicamente en el Estado;
+
+b) Las y los candidatos independientes al cargo de Diputado, podrán remitir propaganda únicamente en el Distrito por el que están compitiendo; y,
+
+c) Las y los candidatos independientes al cargo de Presidente Municipal, Síndico Procurador y Regidurías, podrán remitir propaganda únicamente en el Municipio por el que están compitiendo.
+
+###### Artículo 132.
+
+Las candidaturas independientes no tendrán derecho al uso de franquicias telegráficas.
+
+###### Artículo 133.
+
+La revisión de los informes que los aspirantes presenten sobre el origen y destino de sus recursos y de actos para el apoyo ciudadano según corresponda, así como la práctica de auditorías sobre el manejo de sus recursos y su situación contable y financiera estará a cargo del área correspondiente conforme a lo dispuesto en el Título Quinto del Libro Séptimo de la Ley General de Instituciones y Procedimientos Electorales y lo conducente de la Ley General de Partidos Políticos.
+
+El procedimiento para la presentación y revisión de los informes se sujetará a las reglas establecidas en la Ley General de Partidos Políticos.
+
+### Capítulo VI. De los Actos de la Jornada Electoral, Cómputos y Resultados
+
+###### Artículo 134.
+
+Las y los Candidatos Independientes figurarán en la misma boleta que acuerde el Instituto para los candidatos de los partidos políticos o coaliciones, según la elección en la que participen, de conformidad con esta ley.
+
+Se utilizará un recuadro para cada candidatura independiente o fórmula de candidaturas independientes, con el mismo tamaño y en un espacio de las mismas dimensiones que aquéllos que se destinen en la boleta a los partidos o coaliciones que participan. Estos recuadros serán colocados después de los destinados a los partidos políticos y si fueran varios candidatos o fórmulas, aparecerán en el orden en que hayan solicitado su registro correspondiente.
+
+En la boleta, de acuerdo a la elección de que se trate, aparecerá el nombre completo del Candidato Independiente o de los integrantes de la fórmula de Candidatos Independientes así como el emblema que registre al momento de solicitar su participación como candidato independiente. El emblema podrá ser una imagen que identifique su candidatura. Este emblema seguirá las reglas aplicables a los emblemas de los partidos políticos.
+
+La boleta electoral podrá contener el sobrenombre o apócope del candidato para identificarlo, si así lo manifiesta al momento de solicitar su registro.
+
+En la boleta no se incluirá fotografía, imagen, silueta o acrónimo del candidato.
+
+###### Artículo 135.
+
+Los documentos electorales serán elaborados por el Instituto, aplicando en lo conducente lo dispuesto en esta ley y en los lineamientos que el Instituto Nacional Electoral establezca para la elaboración de la documentación y el material electoral.
+
+###### Artículo 136.
+
+Se contará como voto válido la marca que haga el elector en un solo recuadro en el que se contenga el emblema o el nombre de un Candidato Independiente, en términos de lo dispuesto por esta ley.
+
+###### Artículo 137.
+
+Para determinar la votación requerida para la asignación de Diputaciones y Regidurías por el principio de representación proporcional no serán contabilizados los votos recibidos a favor de Candidatos Independientes.
+
+## TÍTULO QUINTO. De las Autoridades Electorales y la Organización Electoral
+
+### Capítulo I. De las Autoridades Electorales
+
+###### Artículo 138.
+
+La organización de las elecciones es una función estatal, que se ejerce en coordinación con el Instituto Nacional Electoral por un organismo público local, denominado Instituto Electoral del Estado de Sinaloa, estará dotado de personalidad jurídica y patrimonio propio. Goza de autonomía en su funcionamiento e independencia en sus decisiones, en los términos previstos en la Constitución, la Constitución Estatal, esta ley y demás normatividad vigente en la materia. Será profesional en su desempeño y se regirá bajo los principios de certeza, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y paridad de género, y estará integrado por:
+
+I. El Consejo General;
+
+II. Los Consejos Distritales Electorales;
+
+III. Los Consejos Municipales Electorales; y,
+
+IV. Las Mesas Directivas de Casilla.
+
+El Instituto es autoridad en la materia electoral, en los términos que establece la Constitución, la Constitución Estatal, la ley General de Instituciones y Procedimientos Electorales, esta ley y demás normatividad vigente en la materia.
+
+El Instituto contará con un órgano especializado denominado Oficialía Electoral, el cual estará integrado por servidores públicos investidos con facultades suficientes para dar fe pública respecto de actos o hechos de naturaleza electoral, los que previa solicitud que le sea girada por la autoridad electoral correspondiente, en forma oportuna deberán ejercer entre otras las atribuciones siguientes:
+
+a) A petición de los partidos políticos o de los candidatos independientes, dar fe de la realización de actos y hechos en materia electoral que pudieran influir o afectar la equidad en las contiendas electorales locales;
+
+b) Solicitar la colaboración de los notarios públicos para el auxilio de la función electoral durante el desarrollo de la jornada electoral en los procesos locales; y
+
+c) En los demás casos que se requieran en el desarrollo del proceso electoral, y los que se establezcan en las leyes del Estado.
+
+Dichos servidores públicos deberán ser Licenciados en Derecho.
+
+### Capítulo II. Del Instituto Electoral del Estado de Sinaloa
+
+###### Artículo 139.
+
+El Instituto es el órgano dotado de autonomía, personalidad jurídica y patrimonio propio, encargado de la preparación, desarrollo, vigilancia y calificación de los procesos electorales, así como la información de los resultados. En su ejercicio se regirá por los principios de certeza, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y paridad de género. Goza de autonomía en su funcionamiento e independencia en sus decisiones.
+
+El Instituto contará con un órgano de dirección superior, que lo es el Consejo General y se integra por un consejero Presidente y seis Consejeros Electorales, con derecho a voz y voto; el Secretario Ejecutivo y un representante de cada partido político con registro nacional o estatal y representantes de candidatos independientes para el cargo de Gobernador, en su caso, quienes concurrirán a las sesiones sólo con derecho a voz.
+
+El patrimonio del Instituto se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se les señalen en la Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa para la organización del proceso electoral local y para el financiamiento de los partidos políticos.
+
+El domicilio permanente del Instituto será la Ciudad de Culiacán, capital del Estado de Sinaloa.
+
+###### Artículo 140.
+
+El Consejero Presidente y los Consejeros Electorales serán designados por el Consejo General del Instituto Nacional Electoral, por un periodo de siete años, conforme al procedimiento previsto en la Ley General de Instituciones y Procedimientos Electorales.
+
+La remoción del Consejero Presidente y los Consejeros Electorales Locales, es facultad del Consejo General del Instituto Nacional Electoral, en los términos previstos en la ley referida en el párrafo anterior.
+
+El Secretario Ejecutivo del Instituto será designado por el propio Instituto a propuesta de la Presidencia del mismo y concurrirá a las sesiones sólo con derecho a voz.
+
+Los representantes de los partidos políticos serán designados de conformidad con sus estatutos y por cada representante propietario habrá un suplente. Los representantes de los partidos políticos con registro nacional o estatal, concurrirán a las sesiones sólo con derecho a voz.
+
+Los representantes de los candidatos independientes a gobernador en su caso, serán designados a partir de la fecha en que obtengan la respectiva constancia de registro por parte del Consejo General. Por cada representante propietario habrá un suplente.
+
+Los partidos políticos podrán sustituir en todo tiempo a sus representantes, notificando oportunamente al Presidente del Instituto.
+
+###### Artículo 141.
+
+En las sesiones de los órganos del Instituto, sólo el Presidente y los Consejeros Electorales tendrán derecho a voz y voto, el Presidente tendrá voto de calidad en caso de empate.
+
+###### Artículo 142.
+
+El Consejo General funcionará en forma permanente, pero para efectos de dar inicio formal a los procesos electorales celebrará sesión en que así lo dé a conocer en la segunda quincena del mes de septiembre del año anterior al año de la elección ordinaria. A partir de esa fecha y hasta la conclusión del proceso el Consejo General sesionará por lo menos dos veces al mes.
+
+Concluido el proceso electoral, el Consejo General se reunirá a convocatoria de su Presidente.
+
+Al término del proceso electoral en la etapa de interproceso, el Consejo General fungirá de manera permanente para atender los asuntos establecidos por la Constitución, la Constitución Estatal, esta ley y las leyes aplicables en la materia.
+
+###### Artículo 143.
+
+Los Consejos del Instituto realizarán sus sesiones con la asistencia de la mayoría de sus integrantes entre los que deberá estar su Presidente. Las resoluciones se tomarán por mayoría de votos y en caso de empate, será de calidad el voto del Presidente.
+
+Cuando no se reúna mayoría, sesionará dentro de las veinticuatro horas siguientes con los Consejeros y Representantes que asistan entre los que deberá estar el Presidente, para lo cual tendrán que ser nuevamente y debidamente convocados todos los miembros de los Consejos.
+
+###### Artículo 144.
+
+El Consejo General ordenará la publicación de acuerdos y resoluciones de observancia general en el Periódico Oficial, así como la integración de los Consejos Distritales y Municipales Electorales.
+
+###### Artículo 145.
+
+Corresponde al Instituto ejercer las atribuciones en las siguientes materias:
+
+I. Aplicar las disposiciones generales que establezca el Instituto Nacional Electoral, sobre reglas, lineamientos, criterios y formatos que, en ejercicio de las facultades le confiere la Constitución, la Ley General de Instituciones y Procedimientos Electorales, la Constitución Estatal y esta ley;
+
+II. Garantizar los derechos y el acceso a las prerrogativas de los partidos políticos y candidatos registrados para los procesos electorales en el Estado;
+
+III. Garantizar la ministración oportuna del financiamiento público a que tienen derecho los partidos políticos nacionales y locales y, en su caso, a las candidaturas independientes, en la entidad;
+
+IV. Desarrollar y ejecutar los programas de educación cívica en la entidad;
+
+V. Orientar a los ciudadanos en la entidad para el ejercicio y protección de sus derechos y el cumplimiento de sus obligaciones político-electorales;
+
+VI. Llevar a cabo las actividades necesarias para la preparación de la jornada electoral;
+
+VII. Imprimir los documentos y producir los materiales electorales, en términos de los lineamientos que al efecto emita el Instituto Nacional Electoral;
+
+VIII. Efectuar a través de sus organismos facultados, el escrutinio y cómputo total de las elecciones que se lleven a cabo en la entidad, con base en los resultados consignados en las actas de cómputos estatal, distritales y municipales;
+
+IX. Expedir las constancias de mayoría y declarar la validez de la elección a los candidatos que hubiesen obtenido la mayoría de votos, así como la constancia de asignación a las fórmulas de Diputaciones por el principio de representación proporcional de la legislatura local, conforme al cómputo y declaración de validez que efectúe el propio organismo;
+
+X. Efectuar el cómputo de la elección del titular del Poder Ejecutivo en la entidad;
+
+XI. Implementar y operar el Programa de Resultados Electorales Preliminares de las elecciones que se lleven a cabo en la entidad, de conformidad con las reglas, lineamientos, criterios y formatos que para el efecto emita el Instituto Nacional Electoral;
+
+XII. Verificar el cumplimiento de los criterios generales que emita el Instituto Nacional Electoral en materia de encuestas o sondeos de opinión sobre preferencias electorales que deberán adoptar las personas físicas o morales que pretendan llevar a cabo este tipo de estudios en la entidad;
+
+XIII. Desarrollar las actividades que se requieran para garantizar el derecho de los ciudadanos a realizar labores de observación electoral en la entidad, de acuerdo con los lineamientos y criterios que emita el Instituto Nacional Electoral;
+
+XIV. Ordenar la realización de conteos rápidos basados en las actas de escrutinio y cómputo de casilla a fin de conocer las tendencias de los resultados el día de la jornada electoral, de conformidad con los lineamientos emitidos por el Instituto Nacional Electoral;
+
+XV. Organizar, desarrollar y realizar el cómputo de votos y declarar los resultados de los mecanismos de participación ciudadana que se prevean en la legislación de la entidad;
+
+XVI. Supervisar las actividades que realicen los Consejos distritales y municipales en la entidad durante el proceso electoral;
+
+XVII. Ejercer la función de oficialía electoral respecto de actos o hechos exclusivamente de naturaleza electoral;
+
+XVIII. Informar a la Unidad Técnica de Vinculación con los Organismos Públicos Locales, sobre el ejercicio de las funciones que le hubiera delegado el Instituto Nacional Electoral, conforme a lo previsto por la Ley General de Instituciones y Procedimientos Electorales y demás disposiciones que emita el Consejo General del Instituto Nacional Electoral; y,
+
+XIX. Las demás que determine el artículo 41 de la Constitución, la Constitución Estatal, la Ley General de Instituciones y Procedimientos Electorales, aquéllas no reservadas al Instituto Nacional Electoral, las que le sean delegadas por éste, y las que se establezcan en esta ley.
+
+###### Artículo 146.
+
+Son atribuciones del Consejo General, las siguientes:
+
+I. Conducir la preparación, desarrollo y vigilancia del proceso electoral y cuidar la adecuada integración y funcionamiento de los organismos electorales;
+
+II. Dictar normas y previsiones destinadas a hacer efectivas las disposiciones de esta ley;
+
+III. Designar durante la primera quincena del mes de noviembre del año previo al de la elección, al Presidente y consejeros electorales que integren los Consejos Distritales y a los integrantes de los Consejos Municipales con base en los lineamientos respectivos;
+
+IV. Recibir y autorizar el registro de los Partidos Políticos nacionales, para participar en los procesos electorales locales;
+
+V. Determinar conforme a las reglas establecidas en el Capítulo VIII del Título Tercero de esta ley, el monto del financiamiento público a que tendrán derecho los partidos políticos y acordar el calendario para la ministración de dicho financiamiento;
+
+VI. Proveer lo relativo a las prerrogativas que esta ley otorga a los partidos políticos;
+
+VII. Resolver sobre los Convenios de Frentes y Coaliciones que sometan a su consideración los partidos políticos;
+
+VIII. Recibir y resolver las solicitudes de registro de candidaturas a Gobernador del Estado;
+
+IX. Recibir y resolver las solicitudes de registro de las listas de candidatos a Diputaciones por el principio de representación proporcional;
+
+X. Expedir el reglamento para la difusión y fijación de la propaganda electoral;
+
+XI. Recibir, substanciar y remitir al Tribunal Electoral, en la forma y términos que señala la ley correspondiente, los recursos que sean interpuestos contra sus actos y resoluciones;
+
+XII. Proporcionar a los Consejos Distritales y Municipales, la documentación y material electoral, así como los demás elementos y útiles necesarios;
+
+XIII. Vigilar que las actividades de los partidos políticos se desarrollen con apego a esta ley y cumplan con las obligaciones a que están sujetos;
+
+XIV. Registrar la plataforma electoral que para cada proceso electoral deben presentar los partidos políticos y candidatos independientes, en los términos de esta ley;
+
+XV. Efectuar el cómputo estatal para la elección de la Gubernatura del Estado, así como expedir la Constancia de Mayoría respectiva;
+
+XVI. Efectuar el cómputo de la elección de Diputaciones según el principio de representación proporcional y hacer la calificación y declaración de validez de la elección correspondiente, así como expedir las constancias de asignación;
+
+XVII. Aplicar la fórmula de asignación de diputaciones por el principio de representación proporcional;
+
+XVIII. Enviar a las instancias correspondientes el expediente relativo a la elección de la Gubernatura del Estado;
+
+XIX. Aprobar los formatos de la documentación electoral, conforme a los lineamientos que emita el Instituto Nacional Electoral;
+
+XX. Celebrar convenios con autoridades federales, estatales y municipales u otras instancias, para el mejor desarrollo del proceso electoral;
+
+XXI. Celebrar convenios con los medios impresos de comunicación, para la cesión gratuita de espacios que pudieran asignarse equitativamente a los partidos políticos y candidatos independientes en las campañas electorales;
+
+XXII. Resolver, en los términos de esta ley, el otorgamiento o pérdida del registro de partidos políticos estatales, emitir la declaratoria correspondiente y ordenar su publicación en el Periódico Oficial;
+
+XXIII. Recibir de manera supletoria las solicitudes de registro de fórmulas de candidatos a Diputaciones por el sistema de mayoría relativa; y resolver sobre la procedencia o improcedencia de todas las solicitudes, incluidas las que se presenten en los Consejos Distritales Electorales;
+
+XXIV. Recibir supletoriamente solicitudes de registro de planillas municipales para la elección por el sistema de mayoría relativa y listas municipales de candidatos a Regidurías por el principio de representación proporcional y remitirlas para su resolución al Consejo Municipal o Distrital que corresponda;
+
+XXV. Desahogar las dudas que se presenten sobre la aplicación e interpretación de esta ley;
+
+XXVI. El Consejo General podrá designar de entre sus miembros, todas las Comisiones que considere necesarias, precisando las funciones de cada una de ellas, considerando entre éstas informar oportunamente a la sociedad sobre los acuerdos y disposiciones que en su interior se generen, así como contribuir a la difusión de la cultura cívica y de participación ciudadana;
+
+XXVII. Nombrar a o al titular de la Secretaría Ejecutiva del Consejo a propuesta de la Presidencia;
+
+XXVIII. El Consejo General, elaborará el reglamento de funciones, organización, responsabilidades y trabajo del Instituto;
+
+XXIX. Nombrar, a propuesta del Presidente, a los coordinadores de organización, administración, prerrogativas de partidos políticos, capacitación y educación cívica;
+
+XXX. Fijar durante la primera quincena del mes de diciembre, los topes de precampaña y campaña a que se deberán sujetar los aspirantes a candidato, los candidatos, los partidos políticos y los candidatos independientes en los términos previstos en la ley;
+
+XXXI. Aprobar anualmente el anteproyecto de presupuesto del Consejo que le proponga el Presidente y remitirlo al titular del Poder Ejecutivo a más tardar en el mes de agosto, para su inclusión en el proyecto de Ley de Ingresos y Presupuesto de Egresos del Estado;
+
+XXXII. Conocer y aprobar, en sesión especial, el informe financiero que durante la segunda quincena del mes de febrero, le presente el Presidente, el cual será turnado al Congreso del Estado para los efectos legales que correspondan;
+
+XXXIII. Organizar los debates públicos o encuentros en los que deseen participar los candidatos registrados de conformidad con los lineamientos emitidos por el Instituto Nacional Electoral;
+
+XXXIV. Vigilar que las autoridades de la administración pública centralizada y descentralizada, de los gobiernos federal, estatal y municipal no realicen propaganda oficial de acciones de gobierno durante el periodo de las campañas y hasta el día de la jornada electoral, y en caso de incumplimiento de lo anterior, denunciarlo ante la autoridad correspondiente en los términos de las leyes aplicables;
+
+XXXV. Establecer en su reglamento interior y en los acuerdos correspondientes los principios, normas, sistemas y procedimientos a los que habrán de sujetarse y permitan el acopio y difusión de los resultados electorales preliminares;
+
+XXXVI. Implementar y operar el Programa de Resultados Electorales Preliminares de las elecciones de conformidad con las reglas, lineamientos, criterios y formatos que al efecto emita el Instituto Nacional Electoral;
+
+XXXVII. Desarrollar y ejecutar programas de educación cívica; así como orientar a los ciudadanos para el ejercicio de sus derechos y cumplimiento de sus obligaciones político-electorales;
+
+XXXVIII. Acordar con la aprobación de las dos terceras partes de sus integrantes, la celebración de convenios con el Instituto Nacional Electoral a fin de que se haga cargo de la organización integral de procesos electorales locales o del desarrollo de alguna de sus etapas, en los casos y conforme al procedimiento previstos en el artículo 121 de la Ley General de Instituciones y Procedimientos Electorales;
+
+XXXIX. Formular solicitud expresa al Instituto Nacional Electoral para que asuma la organización integral del proceso electoral correspondiente, con base en los convenios a que refiere la fracción anterior; y
+
+XL. Todas las demás que le sean delegadas por Instituto Nacional Electoral y las que le confieran ésta y otras leyes y disposiciones complementarias.
+
+###### Artículo 147.
+
+Para el cumplimiento de sus atribuciones y funciones el Instituto como Órgano Público Local, se sujetará en todo lo concerniente a lo dispuesto por el artículo 41 de la Constitución, la Constitución Estatal y la presente ley.
+
+###### Artículo 148.
+
+Son atribuciones de la Presidencia del Consejo General, las siguientes:
+
+I. Convocar, presidir y conducir las sesiones del Instituto;
+
+II. Proponer al Consejo General el nombramiento del Secretario Ejecutivo y de los coordinadores de organización, administración, prerrogativas de partidos políticos, capacitación y educación cívica; así como nombrar al demás personal que sea necesario para el cumplimiento de las atribuciones del Instituto;
+
+III. Vigilar el cumplimiento de los acuerdos y resoluciones del Consejo General;
+
+IV. Velar por la legalidad y procurar la unidad y coordinación de las actividades de las autoridades electorales;
+
+V. Establecer relaciones de colaboración con autoridades federales, estatales y municipales;
+
+VI. Recibir las solicitudes de registro de candidaturas competencia del Consejo General;
+
+VII. Vigilar la entrega a los organismos electorales de documentación aprobada y demás elementos necesarios;
+
+VIII. Publicar mediante avisos colocados en el exterior de las oficinas del Consejo General, los resultados de los cómputos;
+
+IX. Recibir y remitir, en unión con la Secretaría Ejecutiva, una vez sustanciados, los recursos que se interpongan en contra de los acuerdos y resoluciones del Consejo General;
+
+X. Presentar al Consejo General un informe financiero, durante la segunda quincena del mes de febrero, el cual ya aprobado será turnado al Congreso del Estado para los efectos legales que correspondan;
+
+XI. Remitir al Congreso del Estado, en los términos de ley, el informe financiero que cada año apruebe el Consejo General;
+
+XII. Elaborar anualmente el anteproyecto de presupuesto del Instituto y presentarlo al Pleno del Consejo General para su aprobación;
+
+XIII. Acatar las resoluciones y disposiciones que emita el Instituto Nacional Electoral, para que éste se haga cargo de los procesos electorales locales;
+
+XIV. Suscribir en unión de la Secretaría Ejecutiva todos los convenios y contratos que celebre el Instituto, así como todos los acuerdos y resoluciones que se emitan; y,
+
+XV. Las demás que le sean conferidas por el Instituto, esta ley y demás disposiciones legales y reglamentarias aplicables.
+
+###### Artículo 149.
+
+Son atribuciones de la Secretaría Ejecutiva del Instituto:
+
+I. Auxiliar al Consejo General y a su Presidente en el ejercicio de sus atribuciones;
+
+II. Preparar el orden del día de las sesiones del Consejo General, declarar la existencia de quórum, dar fe de lo actuado en las sesiones, levantar el acta correspondiente y someterla a la aprobación de los Consejeros;
+
+III. Firmar, junto con la Presidencia del Consejo General todos los acuerdos y resoluciones que se emitan;
+
+IV. Suplir las ausencias de la Presidencia;
+
+V. Ejercer y atender oportunamente la función de oficialía electoral por sí, o por conducto de las Secretarías de los Consejos Distritales y Municipales, respecto de actos o hechos exclusivamente de naturaleza electoral;
+
+VI. Delegar el ejercicio de la función de oficialía electoral a otros servidores públicos del Instituto respecto de actos o hechos exclusivamente de naturaleza electoral; y,
+
+VII. Las demás que le confieran esta ley, el Consejo General y su Presidente, en los términos de la normatividad aplicable.
+
+### Capítulo III. De los Consejos Distritales Electorales
+
+### Capítulo IV. De los Consejos Municipales Electorales
+
+###### Artículo 150.
+
+Los Consejos Distritales Electorales son los organismos encargados de la preparación, desarrollo, vigilancia y calificación del proceso electoral en sus respectivos ámbitos de competencia. Son dependientes del Instituto y funcionan durante el proceso electoral con residencia en la cabecera de cada Distrito.
+
+Se integran por un Consejero Presidente y seis Consejeros Electorales Propietarios con voz y voto designados por el Consejo General; un representante propietario y su respectivo suplente, por cada uno de los partidos políticos registrados o acreditados ante el Instituto, representantes de candidatos independientes en su caso, quienes tendrán derecho a voz pero no a voto y un Secretario con derecho sólo a voz en los asuntos de su competencia.
+
+El Consejo General elegirá tres Consejeros Electorales Suplentes Generales en orden de prelación, exclusivamente para que suplan a los Consejeros Electorales Propietarios por ausencias justificadas mayores a treinta días o en su caso, por ausencias definitivas.
+
+A falta definitiva del Presidente ocupará ese cargo, el consejero que designe el Consejo General. En caso de que un consejero propietario o suplente en funciones faltare injustificadamente a dos sesiones consecutivas del Consejo Distrital, será llamado el consejero suplente general que corresponda según el orden de prelación para que éste asuma el cargo, previa protesta de ley.
+
+Los partidos políticos deberán acreditar a sus representantes ante los Consejos a más tardar dentro de los treinta días siguientes a la fecha de instalación del Consejo de que se trate.
+
+Los partidos políticos podrán sustituir a sus representantes en todo momento, mediante notificación que hagan por escrito a los Presidentes de los Consejos Distritales.
+
+###### Artículo 151.
+
+El Presidente y los seis Consejeros serán nombrados por el Consejo General, con base en los lineamientos respectivos.
+
+El Presidente y los Consejeros de los Consejos Distritales, serán nombrados previa convocatoria del Instituto.
+
+Los miembros de los Consejos Distritales tendrán voz y voto, con excepción del Secretario y los representantes de los partidos políticos, quienes únicamente tendrán derecho a voz.
+
+Los representantes de los partidos políticos serán designados de conformidad con sus estatutos y por cada representante propietario habrá un suplente.
+
+El Secretario del Consejo será designado por el propio Consejo a propuesta de la Presidencia del mismo.
+
+###### Artículo 152.
+
+Las y los Consejeros Electorales de los Consejos Distritales deberán reunir los requisitos siguientes:
+
+I. Tener la calidad de ciudadanos sinaloenses en pleno ejercicio de sus derechos políticos y civiles;
+
+II. Tener más de veinticinco años de edad el día de su designación;
+
+III. Estar inscritos en el Registro Federal de Electores y contar con credencial para votar con fotografía vigente;
+
+IV. Contar con conocimientos para el desempeño adecuado de sus funciones;
+
+V. No desempeñar o haber desempeñado cargo de elección popular, ni haber sido postulado como candidato, en los cinco años inmediatos anteriores a la designación;
+
+VI. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido u organización política en los tres años inmediatos anteriores a la designación; y,
+
+VII. Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter culposo.
+
+Las y los Consejeros Electorales serán designados para un proceso electoral y podrán ser ratificados hasta por uno más.
+
+Las y los Consejeros Electorales en el ejercicio de sus funciones, para garantizar su independencia, objetividad e imparcialidad, se abstendrán de emitir públicamente juicios de valor en favor o en contra de candidatos o partidos políticos. Para el desempeño de sus cargos tendrán derecho a disfrutar de las facilidades necesarias en sus trabajos o empleos habituales.
+
+Las y los Consejeros Electorales recibirán una dieta durante el proceso electoral y fungirán en Pleno hasta la calificación de las elecciones.
+
+###### Artículo 153.
+
+Los Consejos Distritales Electorales se instalarán durante la segunda quincena del mes de noviembre del año anterior al que se celebren las elecciones ordinarias. A partir de su instalación y hasta la conclusión del proceso, sesionarán en forma ordinaria por lo menos dos veces al mes.
+
+###### Artículo 154.
+
+Los Consejos Distritales sesionarán, con la asistencia de la mayoría de sus integrantes entre los que deberá estar su Presidente. Las resoluciones se tomarán por mayoría de votos; en caso de empate, será de calidad el voto del Presidente.
+
+Cuando no se reúna mayoría sesionarán dentro de las veinticuatro horas siguientes con los consejeros y representantes que asistan, entre los que deberá estar el Presidente, para lo cual tendrán que ser debida y nuevamente convocados, todos los miembros del Consejo.
+
+###### Artículo 155.
+
+En el ámbito de su competencia los Consejos Distritales Electorales tienen las atribuciones siguientes:
+
+I. Velar por la observancia de esta ley y de los acuerdos y resoluciones del Consejo General;
+
+II. Recibir las solicitudes de registro de fórmulas de candidatos a Diputaciones por el sistema de mayoría relativa, por partidos o coaliciones y remitirlas oportunamente para su resolución al Consejo General;
+
+III. Registrar cuando procedan, los nombramientos de los representantes que los partidos políticos, coaliciones y candidaturas independientes que se acrediten para la jornada electoral;
+
+IV. Entregar a los Presidentes de las Mesas Directivas de Casilla la documentación electoral y demás útiles necesarios para el cumplimiento de sus funciones;
+
+V. Realizar los cómputos distritales de las elecciones para Gobernador y para Diputaciones por el sistema de mayoría relativa y por el principio de representación proporcional;
+
+VI. Calificar y declarar la validez de la elección de Diputaciones por el sistema de mayoría relativa y expedir la Constancia de Mayoría a la fórmula de candidatos que obtengan el mayor número de votos;
+
+VII. Enviar a las instancias correspondientes los expedientes electorales, cuya integración les impone la presente ley;
+
+VIII. Recibir, sustanciar y remitir al Tribunal Electoral, en la forma y términos que señala la ley correspondiente, los recursos que sean interpuestos contra sus actos o resoluciones;
+
+IX. Acreditar a los ciudadanos mexicanos, o a la agrupación a la que pertenezcan, que hayan presentado su solicitud para participar como observadores durante el proceso electoral;
+
+X. Nombrar al Secretario del Consejo a propuesta del Presidente;
+
+XI. Realizar recuentos parciales y totales de votos, durante los cómputos de todas las elecciones que le corresponden, con apego a los procedimientos establecidos en esta ley; y,
+
+XII. Ejercer funciones de recepción, tramitación y sustanciación en el procedimiento sancionador especial en el ámbito de su competencia;
+
+XIII. Recibir las manifestaciones de intención de ciudadanos que pretendan postularse como candidatos independientes al cargo de Diputados por el sistema de mayoría relativa y acreditar a los aspirantes que hayan cumplido con los requisitos; así como recibir y resolver las solicitudes de registro de fórmulas de candidatos independientes a Diputaciones por el sistema de mayoría relativa;
+
+XIV. Las que deriven de la necesaria materialización de las funciones y atribuciones que el Instituto ejerza por delegación del Instituto Nacional Electoral; y,
+
+XV. Las demás que les confiera esta ley, el Consejo General y otras disposiciones legales y reglamentarias.
+
+###### Artículo 156.
+
+Son atribuciones de la Presidencia del Consejo Distrital, las siguientes:
+
+I. Convocar, presidir y conducir las sesiones del Consejo;
+
+II. Proponer el nombramiento de la Secretaría al Consejo;
+
+III. Vigilar el cumplimiento de los acuerdos y resoluciones del Consejo;
+
+IV. Recibir las solicitudes de registro de candidaturas competencia del Consejo;
+
+V. Publicar las listas de ubicación e integración de las Mesas Directivas de Casilla;
+
+VI. Publicar mediante avisos colocados en el exterior de las oficinas del Consejo, los resultados de los cómputos distritales y, en su caso, municipales;
+
+VII. Recibir y remitir al Tribunal Electoral una vez sustanciados los recursos que se interpongan en contra de los acuerdos y resoluciones del Consejo; y,
+
+VIII. Las demás que le sean conferidas por esta ley, el Consejo General y Distrital, y demás disposiciones complementarias.
+
+###### Artículo 157.
+
+El Secretario del Consejo Distrital Electoral tendrá en el ámbito de su competencia, las atribuciones previstas en el artículo 149 de esta ley.
+
+### Capítulo V. De las Mesas Directivas de Casilla
+
+###### Artículo 158.
+
+Los Consejos Municipales Electorales son organismos encargados de la preparación, desarrollo, vigilancia y calificación del proceso electoral, dentro de sus respectivas demarcaciones, conforme a lo establecido por esta ley y disposiciones relativas. Funcionarán en cada uno de los Municipios y se instalarán en la cabecera respectiva. En los municipios que tengan un solo Distrito Electoral, el Consejo Distrital hará las veces de Consejo Municipal.
+
+Se integrará por un Presidente, cuatro Consejeros Electorales, un representante de cada partido político, un representante de cada Candidato Independiente si lo hubiere y un Secretario. El Presidente y los Consejeros tendrán derecho a voz y voto, el Secretario y los representantes de los partidos políticos y de candidatos independientes sólo a voz.
+
+###### Artículo 159.
+
+La designación del Presidente, del Secretario, de los Consejeros Electorales y la acreditación de los Representantes de los Partidos Políticos y de las candidaturas independientes, se hará conforme al procedimiento previsto para la integración de los Consejos Distritales Electorales.
+
+Por cada representante de los partidos políticos y de los candidatos independientes, se nombrará un suplente.
+
+###### Artículo 160.
+
+Las y los Consejeros Electorales de los Consejos Municipales, deberán de reunir los requisitos previstos en el artículo 152 de esta ley.
+
+###### Artículo 161.
+
+Los Consejos Municipales Electorales se instalarán durante la segunda quincena del mes de noviembre del año anterior al en que se celebren las elecciones ordinarias para Gobernador, y en la primera quincena del mes de enero del año de la elección, cuando se trate solamente de la renovación del Congreso del Estado y los Ayuntamientos. A partir de su instalación y hasta la conclusión del proceso, sesionarán por lo menos dos veces al mes.
+
+###### Artículo 162.
+
+Para que los Consejos Municipales puedan sesionar, es necesaria la presencia de la mayoría de sus integrantes, entre los que deberá estar el Presidente. Las resoluciones se tomarán por mayoría de votos, en caso de empate, será de calidad el voto del Presidente.
+
+En caso de que no se reúna la mayoría a que se refiere el párrafo anterior, la sesión tendrá lugar dentro de las veinticuatro horas siguientes con los que asistan, entre los que deberá estar el Presidente, para lo cual tendrán que ser debida y nuevamente convocados todos los miembros del Consejo.
+
+###### Artículo 163.
+
+Los Consejos Municipales Electorales tienen las siguientes atribuciones:
+
+I. Velar por la observancia de esta ley y de los acuerdos y resoluciones del Consejo General;
+
+II. Intervenir conforme esta ley dentro de sus demarcaciones, en la preparación, desarrollo y vigilancia del proceso electoral;
+
+III. Nombrar al Secretario del Consejo a propuesta del Presidente;
+
+IV. Recibir las solicitudes de registro de las planillas de candidaturas a los cargos de Presidente Municipal, Síndico Procurador y Regidurías por el sistema de mayoría relativa y de la lista de candidaturas a Regidurías por el principio de representación proporcional, y remitirlas oportunamente para su resolución al Consejo General;
+
+V. Recibir y resolver las manifestaciones de intención de las y los ciudadanos que pretendan postularse como candidatos independientes a los cargos de Presidente municipal, Síndico Procurador y Regidurías por el sistema de mayoría relativa, y acreditar a los aspirantes que hayan cumplido con los requisitos;
+
+VI. Recibir y resolver las solicitudes de registro de candidatos independientes a Presidente Municipal, Síndico Procurador y Regidurías por el sistema de mayoría relativa;
+
+VII. Desahogar las peticiones y consultas que les sometan los ciudadanos, candidatos y partidos políticos en relación con el desarrollo del proceso electoral, cuando sea de su competencia;
+
+VIII. Realizar el cómputo municipal, calificar y declarar la validez de la elección de Presidencia Municipal, Síndico Procurador y Regidurías, así como expedir la Constancia de Mayoría a la planilla que obtenga el mayor número de votos, así como la asignación de Regidurías de representación proporcional en los casos que prevé esta ley;
+
+IX. Calificar y declarar la validez de las elecciones municipales, así como expedir la Constancia de Mayoría a la planilla que obtenga el mayor número de votos, realizar la asignación de Regidurías de representación proporcional y entrega de constancias correspondientes;
+
+X. Enviar a las instancias correspondientes los expedientes electorales cuya integración les impone la presente ley;
+
+XI. Recibir, sustanciar y remitir al Tribunal Electoral en la forma y términos que señala la ley correspondiente los recursos que sean interpuestos por los partidos políticos contra sus actos y resoluciones;
+
+XII. Ejercer funciones de recepción, tramitación y sustanciación en el procedimiento sancionador especial en el ámbito de su competencia;
+
+XIII. Realizar recuentos parciales y totales de votos, durante los cómputos que le corresponden, con apego a los procedimientos establecidos en esta ley;
+
+XIV. Las demás que les confiera esta ley, el Consejo General y otras disposiciones legales y reglamentarias.
+
+###### Artículo 164.
+
+La Presidencia del Consejo Municipal Electoral tendrá en el ámbito de su competencia, las atribuciones previstas en el artículo 156 de esta ley.
+
+###### Artículo 165.
+
+El Secretario del Consejo Municipal Electoral tendrá en el ámbito de su competencia, las atribuciones previstas en el artículo 149 de esta ley.
+
+### Capítulo VI. Disposiciones Comunes a los Consejos Electorales
+
+###### Artículo 166.
+
+La integración, ubicación y designación de integrantes de las mesas directivas de casillas a instalar para la recepción de la votación, corresponde al Instituto Nacional Electoral en términos de lo dispuesto en el apartado B de la base V del artículo 41 de la Constitución, o a cargo del Instituto en el caso del ejercicio de esta facultad delegada, de conformidad con lo dispuesto en el artículo 125 de la Ley General de Instituciones y Procedimientos Electorales.
+
+Se realizará con base en las disposiciones de la legislación general y en los acuerdos que emita el Consejo General del Instituto Nacional Electoral en la materia.
+
+### Capítulo I. Disposiciones Generales
+
+###### Artículo 167.
+
+Las y los integrantes de los Consejos General, Distritales y Municipales, antes de tomar posesión de sus cargos, deberán rendir la protesta de ley.
+
+Para ser postulados a cargos de elección popular, los Presidentes, Secretarios y Consejeros Electorales deberán haber renunciado, al menos, dos años antes del día de la elección correspondiente.
+
+###### Artículo 168.
+
+Las sesiones de los Consejos serán públicas, los concurrentes deberán guardar el debido orden en el recinto y sólo los integrantes de los Consejos podrán ocupar lugar e intervenir en las sesiones.
+
+Para garantizar el orden, los Presidentes podrán tomar las medidas siguientes:
+
+I. Exhortación a guardar el orden;
+
+II. Conminar a abandonar el local; y,
+
+III. Solicitar el auxilio de la fuerza pública para restablecer el orden y expulsar a quienes lo hayan alterado.
+
+Los locales donde sesionen los Consejos Electorales deberán ser adecuados en amplitud y funcionalidad para garantizar su carácter público y el cumplimiento de sus atribuciones.
+
+###### Artículo 169.
+
+Los Consejos Distritales y Municipales dentro de las veinticuatro horas siguientes a su instalación, remitirán copia del acta respectiva al Presidente del Consejo General. En idéntica forma procederán respecto de los acuerdos que se tomen en las subsecuentes sesiones.
+
+## TÍTULO SEXTO. Del Proceso Electoral
+
+### Capítulo II. De los Observadores Electorales
+
+###### Artículo 170.
+
+El proceso electoral es el conjunto de actos realizados por el Poder Legislativo del Estado, las autoridades electorales, partidos políticos, candidatos independientes y ciudadanos, que tiene por objeto la renovación periódica de los integrantes de los Poderes Legislativo, Ejecutivo y de los Ayuntamientos de la entidad.
+
+Son aplicables las disposiciones de la Ley General de Instituciones y Procedimientos Electorales, así como la Ley General del Sistema de Medios de Impugnación en materia electoral, en lo correspondiente.
+
+El proceso electoral en el Estado se iniciará con la publicación de la convocatoria a elecciones que emita el Congreso del Estado y concluirá con la declaratoria correspondiente que emita el Tribunal Estatal Electoral.
+
+### Capítulo III. De las Precampañas, Registro de Candidatos y Campañas Electorales
+
+###### Artículo 171.
+
+La expedición de las reglas, lineamientos, criterios y formatos en materia de observación electoral, corresponde al Instituto Nacional Electoral en términos de lo dispuesto en el apartado B de la base V del artículo 41 de la Constitución.
+
+El Instituto, de conformidad con el artículo 104, inciso m) de la Ley General de Instituciones y Procedimientos Electorales deberá desarrollar las actividades que se requieran para garantizar el derecho de los ciudadanos a realizar labores de observación electoral en la entidad, de acuerdo con los lineamientos y criterios que emita el Instituto Nacional Electoral, y lo previsto en el artículo 217 de la misma Ley General.
+
+### Capítulo IV. De la Campaña Electoral
+
+###### Artículo 172.
+
+Para los fines de la presente ley, se entenderá por:
+
+I. Precampaña Electoral: El conjunto de actos que realizan los partidos políticos, sus militantes y los precandidatos a candidaturas a cargos de elección popular debidamente registrados por cada partido;
+
+II. Actos de Precampaña Electoral: Las reuniones públicas, asambleas, marchas y en general aquéllos en que los precandidatos a una candidatura se dirigen a los afiliados, simpatizantes o al electorado en general, con el objetivo de obtener su respaldo para ser postulado como candidato a un cargo de elección popular;;
+
+III. Propaganda de precampaña electoral: El conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante el periodo establecido por esta Ley y el que señale la convocatoria respectiva difunden los precandidatos a candidaturas a cargos de elección popular con el propósito de dar a conocer sus propuestas. La propaganda de precampaña deberá señalar de manera expresa, por medios gráficos y auditivos, la calidad de precandidato de quien es promovido; y,
+
+IV. Precandidato: El ciudadano que pretende ser postulado por un partido político como candidato a cargo de elección popular, conforme a esta Ley y a los Estatutos de un partido político, en el proceso de selección interna de candidatos a cargos de elección popular.
+
+###### Artículo 173.
+
+Corresponde a los partidos políticos o coaliciones, autorizar a sus militantes o simpatizantes la realización de actividades proselitistas en busca de su nominación a un puesto de elección popular, de manera previa al evento de postulación o designación de candidatos, conforme a sus estatutos, acuerdos de sus órganos de representación y prescripciones de esta ley.
+
+Ningún ciudadano podrá participar simultáneamente en procesos de selección interna de candidatos a cargos de elección popular por diferentes partidos políticos, salvo que entre ellos medie convenio para participar en coalición.
+
+El partido político o coalición deberá informar por escrito al Consejo General, sobre el inicio de la precampaña electoral dentro de los cinco días anteriores a su inicio, en el que deberá acompañar un informe de los lineamientos o acuerdos, a los que estarán sujetos los precandidatos.
+
+Las precampañas electorales para Gobernador del Estado, Diputaciones Locales e integrantes de los Ayuntamientos, en el año que corresponda, tendrán una duración de cuarenta días. En el año en que solamente se elijan Diputaciones Locales e Integrantes de los Ayuntamientos las precampañas electorales tendrán una duración de treinta días. En todo caso, deberán concluir a más tardar siete días previos al inicio del período de registro de las candidaturas.
+
+El partido político o coalición deberá informar al Consejo General, la acreditación de los precandidatos, dentro de los cinco días siguientes a aquel en que obtengan tal calidad, acompañando la siguiente información:
+
+I. Copia del escrito de solicitud;
+
+II. Periodo de precampaña que ha definido cada partido;
+
+III. Lineamientos, normas complementarias, convocatoria y acuerdos que se tomen en relación con la elección de los candidatos a puestos de elección popular;
+
+IV. Nombre del responsable de la obtención, administración y gasto de los recursos recabados, del precandidato; y,
+
+V. Domicilio para oír y recibir notificaciones del precandidato.
+
+En caso de que el precandidato no informe que desea iniciar la precampaña, tanto el Consejo General como los partidos políticos o coaliciones, deberán reconocer que la precampaña ha dado inicio, una vez que sean públicos y notorios los actos y gastos de precampaña, y podrá ser sujeto a sanciones conforme lo establecido por los estatutos del partido correspondiente y esta ley.
+
+Una vez notificado, el Consejo General, por conducto de su Comisión correspondiente hará saber al partido y a los precandidatos, conforme a la presente ley, las obligaciones a que quedan sujetos.
+
+Los partidos y las coaliciones dispondrán lo necesario a fin de que los precandidatos sean reconocidos como tales, extendiéndoles las constancias de registro respectivas, si cumple con los requisitos y resulte procedente, conforme a esta ley, los estatutos y acuerdos del partido.
+
+###### Artículo 174.
+
+Las y los aspirantes a candidato deberán observar lo siguiente:
+
+I. Son obligaciones de los precandidatos:
+
+a) Respetar los estatutos, lineamientos o acuerdos del partido político o coalición, respecto de la postulación de candidatos, así como lo prescrito en la presente ley;
+
+b) Informar por escrito al partido político o coalición de su aspiración, acompañándolo con una exposición de motivos y el programa de trabajo que se propone llevar a cabo, como posible representante de elección popular;
+
+c) Presentar un informe financiero, sobre el origen y aplicación de recursos, ante el partido político o coalición, dentro de los tres días anteriores a la realización del evento, en el cual se elija o designe al candidato;
+
+d) Entregar al partido político o coalición por el que contendió internamente, cualquier remanente del financiamiento de precampaña que pudiera existir. Lo anterior, sin importar si el precandidato concluyó o no la precampaña electoral y si fue o no nominado como candidato;
+
+e) Cumplir con el tope de gastos que para este tipo de selección de aspirantes, dispone esta ley;
+
+f) Señalar domicilio legal;
+
+g) Designar a su representante y al responsable de la obtención, administración y gasto de los recursos recabados;
+
+h) Propiciar la exposición, desarrollo y discusión del programa y acciones fijadas, conforme a lo establecido en los documentos básicos y, en su caso, de la plataforma electoral del partido político o coalición; y,
+
+i) Las demás que establezca esta ley.
+
+En el caso de que se trate de aspirantes que sean servidores públicos, además de cumplir con lo que establece la Constitución Estatal y esta ley, se abstendrán de promover la recaudación de recursos para destinarlos a la realización de actos proselitistas a favor de su candidatura o la de otros aspirantes, si no ha informado de ello a su partido y éste a su vez no les ha otorgado la constancia correspondiente, ni notificado al Consejo General sobre su aspiración; y,
+
+II. Queda prohibido a los aspirantes a una candidatura:
+
+a) Recibir cualquier aportación que sea contraria a las disposiciones de esta ley;
+
+b) Realizar actos de precampaña electoral antes de la expedición de la constancia de registro correspondiente u obtener recursos, cualquiera que sea su origen, antes de que aquella inicie;
+
+c) Utilizar para fines personales los recursos recabados al amparo de actos proselitistas de precampaña, salvo viáticos, alimentos y transportación, relacionados de manera directa;
+
+d) Hacer uso de la infraestructura de cualquiera de los tres niveles de gobierno, incluidos, entre otros, teléfonos, faxes y herramientas de internet, para la obtención de financiamiento o en apoyo a la realización de cualquier otro acto de precampaña;
+
+e) La utilización de símbolos, signos, expresiones, alusiones o fundamentaciones de carácter religioso;
+
+f) Las expresiones verbales o alusiones ofensivas a las instituciones, personas y partidos políticos y aquellas contrarias a la moral, a las buenas costumbres y las que inciten al desorden, así como las que injurien a las autoridades o a los precandidatos de otros partidos o coaliciones;
+
+g) Que la propaganda de precampaña electoral se fije o se pinte en lugares de uso común, ni en elementos del equipamiento urbano, carretero o ferroviario, ni en accidentes orográficos cualquiera que sea su régimen jurídico, tales como cerros, colinas, montañas y en general cuando se modifique el paisaje natural y urbano o perjudique el entorno ecológico; y,
+
+h) Contratar en medios electrónicos y prensa, por sí o por interpósita persona o por órgano distinto al organismo electoral competente, propaganda electoral.
+
+###### Artículo 175.
+
+Los recursos que destinen los precandidatos para la realización de propaganda y actos de precampaña electoral, no podrán rebasar los topes que determine el Consejo General; los cuales no podrán ser mayores al veinte por ciento del establecido en la elección inmediata anterior para las candidaturas a Diputaciones y Ayuntamientos, y para el caso de precandidato a Gobernador hasta el treinta por ciento de la elección mencionada.
+
+Quedan comprendidos dentro de los topes de gastos de precampaña, los siguientes:
+
+I. Los operativos de precampaña, en salarios del personal eventual, honorarios, arrendamiento de bienes muebles e inmuebles, gastos de transporte de personas y de material, viáticos y otros similares;
+
+II. Los de propaganda en medios de comunicación impresos, como anuncios publicitarios, inserciones y otros similares; y,
+
+III. Los destinados con motivo de la contratación de agencias y servicios personales especializados en mercadotecnia y publicidad electoral.
+
+Los recursos obtenidos durante una precampaña electoral, estarán conformados por las aportaciones o donativos, en dinero o en especie efectuados en favor de los precandidatos, en forma libre y voluntaria, por las personas físicas o morales mexicanas con residencia en el país, no comprendidas en el financiamiento público establecido en esta ley.
+
+Para el caso de las aportaciones en especie que en las precampañas electorales, efectúe cada persona física o moral, tendrán como límite el equivalente al uno por ciento del monto total determinado como tope de gasto de precampaña.
+
+Los partidos políticos mediante formatos aprobados por el organismo electoral competente, informarán los nombres y domicilios de las personas físicas y morales, así como las cantidades aportadas.
+
+###### Artículo 176.
+
+Conforme a la naturaleza de las aportaciones que conforman el financiamiento de las precampañas electorales, se sujetarán a lo siguiente:
+
+I. Las aportaciones en dinero que efectúe cada persona física o moral durante la precampaña electoral tendrán como límite el equivalente a trescientas veces el salario mínimo general vigente en la entidad, debiendo expedirse recibos foliados, en los cuales se hará constar los datos de identificación del aportante, conforme al formato que establezca el Consejo General;
+
+II. Los recursos obtenidos mediante autofinanciamiento, se comprobarán conforme a los lineamientos que dicte el Consejo General;
+
+III. En el caso de colectas, sólo deberá reportarse en el informe correspondiente el monto total obtenido; de exceder este monto una cantidad equivalente a ciento cincuenta veces el salario mínimo general vigente, deberá justificarse su procedencia;
+
+IV. Las aportaciones en especie se harán constar por escrito en contratos celebrados conforme a las leyes aplicables; y,
+
+V. Las aportaciones en bienes muebles o inmuebles deberán destinarse única y exclusivamente para el cumplimiento del objeto de la precampaña electoral. Los bienes muebles e inmuebles sólo podrán darse en comodato por el tiempo que dure la precampaña. El comodato de bienes no quedará sujeto al límite de aportación por persona.
+
+###### Artículo 177.
+
+La fiscalización de los ingresos y egresos de las precampañas corresponde al Instituto Nacional Electoral en términos de lo dispuesto en el apartado B de la base V del artículo 41 de la Constitución, o a cargo del Instituto en caso de que la autoridad nacional le delegue el ejercicio de dicha facultad, de conformidad con lo dispuesto en el artículo 125 de la Ley General de Instituciones y Procedimientos Electorales.
+
+### Capítulo V. Del Procedimiento para el Registro de Candidatos
+
+###### Artículo 178.
+
+La campaña electoral, es el conjunto de actividades llevadas a cabo por los partidos políticos, coaliciones y candidatos independientes para la difusión de sus respectivas plataformas electorales, programas de acción y plan de gobierno tendentes a la obtención del voto y comprende las siguientes actividades:
+
+I. Actos de campaña: Son las reuniones públicas, asistencia potestativa a debates, asambleas, visitas domiciliarias, marchas, promociones a través de transmisiones de radio y televisión, en medios impresos, de anuncios en la vía pública, entrevistas y en general aquellos en que los candidatos o voceros de los partidos políticos, coaliciones o candidatos independientes se dirigen al electorado; y,
+
+II. Propaganda electoral: Son el conjunto de escritos, publicaciones, imágenes, grabaciones en audio y video, proyecciones y expresiones que durante la campaña electoral producen y difunden los partidos políticos, coaliciones y candidatos independientes y sus simpatizantes, con el propósito de presentarlos ante la ciudadanía y solicitar expresamente el sentido de su voto el día de la elección.
+
+Tanto los actos de campaña, como la propaganda electoral deberán propiciar el conocimiento de los perfiles de los candidatos y la exposición, desarrollo y discusión ante el electorado de los programas y acciones propuestos por los partidos políticos, coaliciones o candidatos en sus documentos básicos y, particularmente, en la plataforma electoral que hubieren registrad (sic)
+
+En el caso de los candidatos independientes se referirán a la plataforma electoral registrada.
+
+Las campañas electorales en los procesos en que se elija Gobernador iniciarán sesenta y tres días antes del establecido para la jornada electoral; y las correspondientes a los procesos en que se elijan Diputaciones Locales, Presidencias Municipales, Síndicos Procuradores y Regidurías, iniciarán cuarenta y ocho días antes del día de la elección. Todas las campañas concluirán el miércoles anterior al día de la elección. Durante los tres días previos al de la jornada electoral no podrá celebrarse ningún acto de campaña, ni de propaganda o proselitismo electoral.
+
+Queda prohibido realizar actos de propaganda electoral que no cumpla con los propósitos establecidos en este artículo, así como los que puedan perturbar la tranquilidad de las personas fuera de los horarios establecidos en el reglamento de la materia.
+
+Queda prohibido realizar actos de campaña y de propaganda electoral fuera de las fechas indicadas en los párrafos anteriores.
+
+###### Artículo 179.
+
+El Pleno del Consejo General aprobará durante la primera quincena de diciembre del año anterior al de la elección, los topes máximos de gastos de precampaña y campaña que podrán erogar los partidos políticos y coaliciones, en cada uno de los procesos internos y elecciones, conforme a los siguientes criterios:
+
+I. El tope máximo de gastos de campaña, para cada tipo de elección será la cantidad que resulte de multiplicar el 0.25 del salario mínimo general vigente en el Estado, por el número total de ciudadanos empadronados en el Registro Federal de Electores en el Estado, Distrito o Municipio según corresponda, al día primero de enero del año de la elección; y,
+
+II. En aquellos Distritos o Municipios en que el tope máximo de gastos de campaña en aplicación a la presente fórmula sea menor a cuatrocientos mil pesos, se tomará como tope esa cantidad.
+
+###### Artículo 180.
+
+Las reuniones públicas realizadas dentro de las campañas electorales por los partidos políticos, coaliciones o por los candidatos independientes registrados se regirán por lo dispuesto en el artículo 9 de la Constitución y no tendrán más límite que el respeto a los derechos de terceros, en particular de otros partidos y candidatos independientes, así como las disposiciones que para el ejercicio de la garantía de reunión y preservación se establezcan en los ordenamientos jurídicos en la materia y disposiciones que dicten la autoridad administrativa competente.
+
+Los partidos políticos, coaliciones o candidatos independientes que durante la campaña electoral pretendan realizar marchas o reuniones que impliquen interrupción temporal de la vialidad, deberán con tres días hábiles de anticipación hacer del conocimiento a la autoridad competente, el itinerario, hora y tiempo de duración, a fin de que ésta provea lo necesario para que prevalezca el respeto al derecho de terceros.
+
+Cuando las autoridades pretendan facilitar a los partidos políticos, coaliciones o a los candidatos independientes el uso de locales de propiedad pública, deberán considerar lo siguiente:
+
+I. Dar un trato equitativo a todos los partidos y candidatos que participen en la elección; y,
+
+II. Atender en orden de prelación las solicitudes, evitando que los actos de los partidos políticos o coaliciones o candidatos coincidan en un mismo tiempo y lugar o en lugares adyacentes.
+
+###### Artículo 181.
+
+La solicitud de los partidos políticos, coaliciones y candidatos independientes para que se les proporcione el uso de los locales deberán hacerla por escrito a la autoridad de que se trate, con tres días hábiles de anticipación, debiendo señalar los siguientes datos:
+
+I. La naturaleza del acto a realizar;
+
+II. El número de personas que se estima habrán de concurrir;
+
+III. Las horas necesarias para la preparación y realización del evento; y,
+
+IV. El nombre del ciudadano autorizado por el partido político, coalición o candidato independiente que se responsabilice del uso del local y sus instalaciones.
+
+La Presidencia del Consejo General, previa solicitud por escrito, del partido político, coalición interesado o candidato independiente que lo requiera, gestionará ante las autoridades competentes, las medidas de seguridad personal para sus candidatos, desde el momento en que obtengan su registro.
+
+###### Artículo 182.
+
+La propaganda electoral se sujetará en lo conducente a lo establecido en los artículos 209, 210, 211 y 212 de la Ley General de Instituciones y Procedimientos Electorales y a las siguientes disposiciones:
+
+I. Se prohíbe la utilización de símbolos, signos, expresiones, alusiones o fundamentaciones de carácter religioso, así como la realización de actos de proselitismo o cualquier actividad partidista en lugares o eventos destinados a cultos religiosos;
+
+(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+II. SE PROHÍBEN LAS EXPRESIONES VERBALES O ALUSIONES OFENSIVAS A LAS PERSONAS Y SU VIDA PRIVADA, A LAS AUTORIDADES, LOS CANDIDATOS, LOS PARTIDOS POLÍTICOS, LA COALICIÓN O EL CANDIDATO INDEPENDIENTE, SEGÚN SEA EL CASO Y AQUELLAS EXPRESIONES CONTRARIAS A LA MORAL, A LAS BUENAS COSTUMBRES Y LAS QUE INCITEN A LA DISCRIMINACIÓN, EL ODIO Y LA DENIGRACIÓN DE PERSONAS, DE GRUPOS E INSTITUCIONES PÚBLICAS O PRIVADAS LEGALMENTE CONSTITUIDAS;
+
+III. Propiciará el conocimiento de los perfiles de los candidatos, la exposición, desarrollo y discusión ante el electorado de los programas y acciones propuestas por los partidos políticos y coaliciones de sus documentos básicos, y el candidato independiente de la plataforma electoral a saber: su diagnóstico sobre el desarrollo del Estado, los problemas sociales, económicos y políticos del Estado, así como su propuesta de solución a los mismos;
+
+IV. La propaganda electoral impresa que utilice el candidato, deberá contener identificación precisa del emblema que lo identifique, y del partido político o coalición que lo postula; y,
+
+V. La propaganda electoral de los partidos políticos, coaliciones y de los candidatos, que difundan por medios gráficos o a través de los medios electrónicos de comunicación, deberán observar lo establecido en esta ley en cuanto a su contenido, las etapas del proceso electoral y el respeto de los derechos de las personas.
+
+###### Artículo 183.
+
+Los Partidos Políticos, Coaliciones o Candidatos Independientes podrán colocar o fijar propaganda en inmueble de propiedad privada, siempre que medie permiso escrito del propietario o legítimo poseedor.
+
+No podrá colgarse en elementos del equipamiento urbano, ni obstaculizar en forma alguna la visibilidad de los señalamientos que permiten a las personas transitar y orientarse dentro de los centros de población. Las autoridades electorales competentes ordenarán el retiro de la propaganda electoral contraria a esta norma.
+
+No podrá colocarse, fijarse o pintarse propaganda electoral en elementos del equipamiento urbano, carretero, ferroviario, ni en accidentes geográficos, cualquiera que sea su régimen jurídico, tales como cerros, colinas, montañas y en general cuando se modifique el paisaje natural, la imagen urbana o perjudique el entorno ecológico.
+
+No podrá fijarse, colocarse, pintarse, ni distribuirse en el interior y exterior de las oficinas, edificios y locales ocupados por los poderes del Estado, la administración pública centralizada y descentralizada Federal, Estatal o Municipal, y en general en aquellos que estén destinados a la prestación de servicios públicos.
+
+No podrá colocarse, fijarse o pintarse propaganda electoral en monumentos históricos, arqueológicos, artísticos y construcciones de valor cultural.
+
+En caso de violación a las reglas para la propaganda electoral de precampaña o campaña y la fijación de la misma, el Consejo Electoral respectivo, de oficio o a petición de parte pudiendo ser incluso un particular, dará inicio al procedimiento administrativo sancionador correspondiente.
+
+Se prohíbe a los partidos políticos, coaliciones o candidatos independientes la sobreposición, destrucción, deterioro o alteración de carteles y de cualquier otra modalidad de propaganda electoral de otros partidos políticos.
+
+Los partidos políticos, coaliciones o candidatos independientes denunciarán al Consejo Distrital correspondiente aquello que obstaculice la libre y pacífica celebración de los actos de las campañas electorales y de los que destruyan o inutilicen su propaganda o material.
+
+Los partidos políticos, coaliciones o candidatos independientes deberán retirar la propaganda electoral que se hubiera fijado, pintado o instalado con motivo del proceso electoral.
+
+###### Artículo 184.
+
+Las y los candidatos a los cargos de elección popular podrán participar en los debates públicos que organizará el Instituto, bajo sus lineamientos y directrices que acuerde.
+
+Los debates tendrán por objeto el contenido de las respectivas plataformas que hayan registrado los partidos políticos, coaliciones y candidatos independientes, así como temas de interés social y político.
+
+En el caso de la elección de la Gubernatura, el Consejo General, organizará al menos dos debates públicos. En el caso de la elección de Presidencias Municipales, de Ahome, Guasave, Culiacán, y Mazatlán, el Consejo General organizará al menos un debate. Los Consejos Distritales Electorales, organizarán por lo menos un debate público entre candidatos a Diputaciones por el sistema de mayoría relativa y Presidente Municipal.
+
+En materia de difusión de los debates públicos se estará a lo dispuesto en el artículo 218 de la Ley General de Instituciones y Procedimientos Electorales.
+
+###### Artículo 185.
+
+Las reglas, lineamientos, criterios y formatos en materia de encuestas y sondeos electorales, corresponden al Instituto Nacional Electoral, en términos de lo dispuesto en el apartado B de la base V del artículo 41 de la Constitución.
+
+El Instituto, de conformidad con el artículo 104, incisos a) y l) de la Ley General de Instituciones y Procedimientos Electorales podrá verificar el cumplimiento de los criterios generales que emita el Instituto Nacional Electoral en materia de encuestas o sondeos de opinión sobre preferencias electorales que deberán adoptar las personas físicas o morales que pretendan llevar a cabo este tipo de estudios en la entidad, y el artículo 213 de la misma ley general.
+
+###### Artículo 186.
+
+Los partidos políticos, precandidatos y simpatizantes están obligados a retirar su propaganda electoral de precampaña para su reciclaje, por lo menos tres días antes al inicio del plazo para el registro de candidatos de la elección de que se trate. De la misma manera, los partidos políticos, y candidatos independientes deberán retirar su propaganda electoral, dentro de un plazo de siete días posteriores a la jornada electoral. En caso contrario, las autoridades municipales correspondientes procederán a retirar la propaganda de los lugares públicos, por cuenta de los partidos políticos, coaliciones y candidatos independientes. La autoridad municipal, antes de retirar la propaganda electoral, presentará al Consejo Distrital respectivo, el presupuesto correspondiente de cada partido político para que resuelva lo conducente y, en caso de ser aprobado, le será deducido del financiamiento público estatal que les corresponda, y tratándose de candidatos independientes, de ser necesario, el cobro se hará a través del procedimiento económico coactivo, independientemente a las sanciones administrativas a que se hagan acreedores.
+
+En todo caso los poseedores o propietarios de los espacios comerciales donde se fije, coloque o pinte propaganda electoral, en el convenio suscrito con el partido político, coalición o candidato independiente deberán comprometerse de retirar la propaganda en el término señalado en el numeral anterior.
+
+Cualquier infracción a las disposiciones relativas, a la propaganda electoral será sancionada en los términos de esta ley y demás disposiciones jurídicas aplicables.
+
+### Capítulo VI. Del Registro de Representantes
+
+###### Artículo 187.
+
+Corresponde a los partidos políticos, coaliciones y los ciudadanos el derecho de solicitar el registro de candidatos a cargos de elección popular en el Estado.
+
+###### Artículo 188.
+
+Los plazos y organismos competentes para recibir las solicitudes de registro de las fórmulas, planillas y listas de candidatos para los distintos cargos en el año de la elección ordinaria, son los siguientes:
+
+I. Para candidatos a Gobernador del diecisiete al veintiséis de marzo del año de la elección, por el Consejo General;
+
+II. Para candidatos a Diputados por el sistema de mayoría relativa, cuando se trate del proceso electoral en el que se elija Gobernador, del doce al veintiuno de marzo del año de la elección, por los Consejos Distritales correspondientes y supletoriamente por el Consejo General;
+
+III. Para las listas de candidatos a Diputaciones por el principio de representación proporcional, cuando se trate del proceso electoral en el que se elija Gobernador, del doce al veintiuno de marzo del año de la elección, por el Consejo General;
+
+IV. Para las planillas de candidaturas a Presidente Municipal, Síndico Procurador y Regidurías por el sistema de mayoría relativa, cuando se trate del proceso electoral en el que se elija Gobernador, del doce al veintiuno de marzo del año de la elección, por los Consejos Distritales y Municipales correspondientes;
+
+V. Para las listas municipales de las y los candidatos a Regidurías que serán electos por el principio de representación proporcional, cuando se trate del proceso electoral en el que se elija Gobernador, del doce al veintiuno de marzo del año de la elección, por los Consejos Distritales y Municipales correspondientes y supletoriamente por el Consejo General.
+
+VI. Para candidatos a Diputaciones por el sistema de mayoría relativa, cuando se trate del proceso electoral en el que solo se renueve el Congreso local y Ayuntamientos, del veintisiete de marzo al cinco de abril del año de la elección, por los Consejos Distritales correspondientes y supletoriamente por el Consejo General;
+
+VII. Para las listas de candidatos a Diputaciones por el principio de representación proporcional, cuando se trate del proceso electoral en el que solo se renueve el Congreso local y Ayuntamientos, del veintisiete de marzo al cinco de abril del año de la elección, por el Consejo General;
+
+VIII. Para las planillas de candidaturas a la Presidencia Municipal, al cargo de Síndico Procurador y a las Regidurías por el sistema de mayoría relativa, cuando se trate del proceso electoral en el que solo se renueve el Congreso local y Ayuntamientos, del veintisiete de marzo al cinco de abril del año de la elección, por los Consejos Distritales y Municipales correspondientes; y,
+
+IX. Para las listas municipales de las y los candidatos a Regidurías que serán electos por el principio de representación proporcional, cuando se trate del proceso electoral en el que solo se renueve el Congreso local y Ayuntamientos, del veintisiete de marzo al cinco de abril del año de la elección, por los Consejos Distritales y Municipales correspondientes y supletoriamente por el Consejo General.
+
+###### Artículo 189.
+
+Los Organismos Electorales darán amplia difusión a la apertura del Registro de Candidaturas, fórmulas, planillas y listas, así como a los plazos a que se refiere el presente capítulo.
+
+Los órganos del Consejo General dispondrán de personal, espacio, equipo y horario especial que sean necesarios para la recepción de solicitudes de registro de candidaturas, incluyendo la constancia del tiempo de presentación en la ventanilla receptora por parte de los interesados con independencia del turno en que sean atendidos, para los efectos legales que correspondan a los plazos y términos de la convocatoria.
+
+###### Artículo 190.
+
+La solicitud de registro de candidaturas deberá señalar si se trata de la vía de un partido político o coalición o por la vía independiente, según quien postule, así como los siguientes datos de los candidatos:
+
+I. Apellido paterno, materno y nombre completo;
+
+II. Lugar, fecha de nacimiento y género;
+
+III. Domicilio;
+
+IV. Ocupación;
+
+V. Clave de la credencial para votar con fotografía vigente; y,
+
+VI. Cargo para el que se les postule.
+
+Para el caso de los partidos políticos, la solicitud deberá acompañarse de la declaración de aceptación de la candidatura, copia del acta de nacimiento y de la credencial para votar con fotografía vigente, así como la constancia de residencia de los candidatos propietarios y suplentes en su caso.
+
+###### Artículo 191.
+
+Recibida una solicitud de registro, se analizará si cumple los requisitos señalados en el artículo anterior.
+
+Si de la revisión se advierte que se omitió el cumplimiento de uno o varios requisitos, se notificará de inmediato al partido político, coalición o candidato independiente correspondiente para que dentro de las cuarenta y ocho horas siguientes subsane las omisiones detectadas o sustituya la candidatura.
+
+Salvo en los casos de sustitución previstos en esta ley, cualquier solicitud o documentación que se presente fuera de los plazos de registro, será desechada de plano; de igual forma, no se registrará la candidatura o candidaturas que no satisfagan los requisitos legales vigentes.
+
+Dentro de los tres días siguientes al vencimiento del plazo de registro de candidaturas, los Consejos Municipales y los Consejos Distritales a los que corresponda, celebrarán sesión cuyo único objeto será resolver sobre la procedencia o improcedencia de las solicitudes de registro de candidaturas independientes recibidas.
+
+Para resolver las solicitudes de registro de las planillas de candidaturas independientes a Presidente Municipal, Síndico Procurador y Regidurías propietarios y suplentes por el sistema de mayoría relativa, los órganos electorales competentes se sujetarán al siguiente procedimiento:
+
+I. Se verificará que se cumplan los criterios y porcentajes de género, procediendo a la aprobación de aquellas solicitudes que satisfagan todos los requisitos legales;
+
+II. Si de la revisión se advierte que alguna de las solicitudes no cumple con los criterios y porcentajes antes mencionados, se procederá a notificar a los candidatos, otorgándoles un plazo improrrogable de veinticuatro horas para que cumpla con los criterios y porcentajes necesarios para el ordenamiento, apercibiéndole de que en caso de no hacerlo se suprimirán de la planilla tantas fórmulas como sea necesario para lograr que las candidaturas de un mismo género no superen el límite máximo legalmente establecido, iniciando la supresión con las fórmulas del género cuyo porcentaje se hubiere excedido ubicadas en los últimos lugares de la lista y continuando en orden regresivo; y,
+
+III. Transcurrido este último plazo el órgano electoral competente sesionará nuevamente para aprobar aquellas solicitudes cuyos errores u omisiones hayan sido subsanadas, así como a rechazar el registro de las que no satisfagan los requisitos legales y de las suprimidas conforme a la fracción anterior.
+
+Los Consejos Distritales y Municipales, comunicarán de inmediato al Consejo General, el acuerdo relativo al registro de candidaturas independientes que hayan aprobado.
+
+###### Artículo 192.
+
+Al concluir el plazo para el registro de las candidaturas a la Gubernatura, Diputaciones y Presidencia Municipal, Síndico Procurador y Regidurías por el sistema de mayoría relativa, así como el de las listas municipales de Regidurías por el principio de representación proporcional, los Consejos Distritales y Municipales remitirán de inmediato al Consejo General los expedientes de las solicitudes de registro que hubieren recibido, conservando copia certificada en sus archivos.
+
+Una vez que se encuentren los expedientes en su poder, el Consejo General, por conducto de la Comisión de Organización y Vigilancia Electoral, revisará las solicitudes de registro para verificar que cumplen los requisitos de elegibilidad para los cargos que se traten. Si de la revisión resulta el incumplimiento de tales requisitos, el Consejo General lo notificará de inmediato a los partidos políticos o coaliciones que corresponda, para que en un plazo de setenta y dos horas realicen la sustitución de candidatos que se requiera para ajustarse a lo dispuesto en esta ley, apercibiéndoles de que en caso de incumplimiento se harán acreedores a una amonestación pública.
+
+A más tardar tres días antes al del inicio de las campañas, el Consejo General sesionará para aprobar el registro de candidaturas a Diputaciones y Presidente Municipal, Síndico Procurador y Regidurías por el sistema de mayoría relativa correspondientes a los partidos políticos y coaliciones cuyas solicitudes se encuentren ajustadas a la ley, así como a aquellos que habiendo sido requeridos atendieron adecuadamente el requerimiento. Si resultara que uno o más partidos políticos o coaliciones no dieron cumplimiento a lo requerido conforme a este artículo, en la misma sesión se aplicará la amonestación pública y se les requerirá nuevamente para que en un plazo improrrogable de veinticuatro horas realicen las sustituciones que se requieran.
+
+Transcurrido el nuevo plazo, el Consejo General sesionará nuevamente para otorgar el registro de las candidaturas a los partidos políticos y coaliciones que hayan cumplido con lo requerido, y en su caso, para sancionar a los que no hubieran cumplido. En tal caso, la sanción consistirá en la negativa de registro de tantas candidaturas como sea necesario para establecer el tope máximo que permite la ley. La selección de las fórmulas de candidatos cuyo registro será rechazado se realizará por sorteo en el que participarán todas las fórmulas del género cuyo límite se hubiera excedido del máximo legal, operación que se repetirá hasta obtener dicho tope máximo.
+
+###### Artículo 193.
+
+A más tardar tres días antes del inicio de las campañas, el Consejo General sesionará para resolver las solicitudes de registro de las listas estatales de candidatos propietarios y suplentes a Diputados, y de las listas municipales de candidaturas a Regidores, ambas por el principio de representación proporcional, conforme a lo siguiente:
+
+I. Se verificará que las listas cumplan con el principio de paridad y el criterio de alternancia conforme a lo dispuesto en los artículos 24 y 25 de esta ley. Procediendo a la aprobación de aquellas solicitudes que satisfagan todos los requisitos legales;
+
+II. Si de la revisión se advierte que alguna de las solicitudes no cumple con los criterios y porcentajes antes mencionados, se procederá a notificar a los partidos políticos o coaliciones, otorgándoles un plazo improrrogable de veinticuatro horas para que cumpla con los criterios y porcentajes necesarios por el ordenamiento, apercibiéndole de que en caso de no hacerlo se suprimirán de la lista tantas fórmulas como sea necesario para lograr que las candidaturas de un mismo género no superen el límite máximo legalmente establecido, iniciando la supresión con las fórmulas del género cuyo porcentaje se hubiere excedido ubicadas en los últimos lugares de la lista y continuando en orden regresivo; y,
+
+III. Transcurrido este último plazo el Consejo General sesionará nuevamente para aprobar aquellas solicitudes cuyos errores u omisiones hayan sido subsanadas, así como a rechazar el registro de las que no satisfagan los requisitos legales.
+
+###### Artículo 194.
+
+El Consejo General ordenará oportunamente la publicación de la relación de nombres de los candidatos y los partidos o coaliciones que los postulen en el Periódico Oficial.
+
+En la misma forma, se publicarán y difundirán las cancelaciones de registro o sustituciones de candidatos.
+
+###### Artículo 195.
+
+La sustitución de candidatos deberá solicitarse por escrito, observando las disposiciones siguientes:
+
+I. Dentro del plazo establecido para el registro de candidatos, podrán sustituirse libremente ante el Consejo que recibió la solicitud;
+
+II. Vencido el plazo a que se refiere la fracción anterior, solo podrán sustituirse candidatos por causa de fallecimiento, inhabilitación, incapacidad o renuncia, así como en los casos previstos en los artículos relativos a la paridad de género para las candidaturas a elección popular establecidas en esta ley. La solicitud de sustitución deberá presentarse ante el Consejo General, que resolverá lo conducente. No procederá la sustitución por renuncia de los candidatos, cuando tenga lugar dentro de los veinte días anteriores al de la elección, ni cuando tenga por efecto el incumplimiento de lo previsto con relación a la paridad de género. Para la corrección o sustitución en su caso, de las boletas electorales se estará a lo dispuesto en esta ley con relación al tiempo en que se ordena imprimir las boletas electorales para la jornada; y,
+
+III. En los casos en que la renuncia del candidato fuera notificada por éste a los órganos electorales que correspondan, se hará del conocimiento del partido político o coalición que lo registró para que proceda, en su caso, a la sustitución.
+
+### Capítulo VII. De la Documentación y el Material Electoral
+
+###### Artículo 196.
+
+A partir del mes de abril y hasta trece días antes de la jornada electoral, los partidos políticos y candidatos independientes podrán nombrar hasta dos representantes propietarios y un suplente ante cada Mesa Directiva de Casilla, un representante general propietario por cada diez casillas urbanas y uno por cada cinco casillas rurales.
+
+Para los procesos electorales concurrentes, se estará a las disposiciones del artículo 259 y demás relativos de la Ley General de Instituciones y Procedimientos Electorales así como los lineamientos, los términos de la convocatoria y los acuerdos que tome el Instituto Nacional Electoral. En todo caso, para efecto de las elecciones en el Estado, se seguirán las disposiciones de este capítulo en materia de acreditación de representantes de partido, coaliciones y candidatos independientes en las mesas directivas de casilla.
+
+###### Artículo 197.
+
+La actuación de los representantes generales estará sujeta a las normas siguientes:
+
+I. Ejercerán su cargo exclusivamente ante las Mesas Directivas de Casilla instaladas en el Distrito Electoral para el que fueron acreditados;
+
+II. Deberán actuar individualmente, y en ningún caso podrán hacerse presentes al mismo tiempo en las casillas más de un representante general, de un mismo partido político;
+
+III. No sustituirán en sus funciones a los representantes ante las mesas directivas de casillas, sin embargo, podrán coadyuvar en sus funciones y en el ejercicio de los derechos de éstos ante las propias mesas directivas de casillas;
+
+IV. En ningún caso ejercerán o asumirán las funciones de los integrantes de las Mesas Directivas de Casilla;
+
+V. No obstaculizarán el desarrollo normal de la votación en las casillas en que se presenten;
+
+VI. En todo tiempo podrán presentar escritos de incidentes que se susciten durante el desarrollo de la jornada electoral, pero sólo podrán presentar escritos de protesta al término del escrutinio y cómputo, cuando el representante de su partido ante la Mesa Directiva de Casilla no estuviere presente;
+
+VII. Sólo podrán solicitar y obtener de las Mesas Directivas de Casilla del Distrito para el que fueron nombrados, copias de las actas que se levanten, cuando no hubiere estado presente el representante acreditado ante la Mesa Directiva de Casilla;
+
+VIII. Podrán comprobar la presencia de sus representantes en las Mesas Directivas de Casilla y recibir de ellos los informes relativos a su desempeño; y,
+
+IX. Podrán actuar en representación del partido político y, de ser el caso, de la candidatura independiente que los acreditó, indistintamente para las elecciones que se celebren en la jornada electoral.
+
+###### Artículo 198.
+
+Las y los representantes de los partidos políticos, coaliciones y candidatos independientes debidamente acreditados ante las Mesas Directivas de Casilla, tendrán los siguientes derechos:
+
+I. Participar en la instalación de la casilla, contribuyendo al buen desarrollo de sus actividades y permaneciendo en ella hasta su clausura. Tendrán derecho a ocupar un lugar que les permita observar y vigilar el desarrollo de la elección;
+
+II. Recibir copia legible de las actas de instalación, cierre de votación y final de escrutinio y cómputo elaboradas en la casilla, deberá firmar el acuse de recibo correspondiente;
+
+III. Presentar escritos relacionados con incidentes ocurridos durante la votación;
+
+IV. Presentar al término del escrutinio y cómputo escritos de protesta;
+
+V. Acompañar al Presidente al Consejo Distrital o Municipal correspondiente, para hacer entrega de la documentación y el expediente electoral;
+
+VI. Podrá ser reemplazado por su suplente en cualquier momento hasta antes del escrutinio y cómputo;
+
+VII. Utilizar el distintivo de su partido, coalición o del candidato independiente en lugar visible para su mejor identificación, durante toda la jornada electoral; el mismo será de un tamaño de hasta 2.5 por 2.5 centímetros, con el emblema del partido político, coalición o candidato independiente que represente y con la leyenda visible de "representante";
+
+VIII. Verificar que la lista nominal de electores que se utilizará para la votación, corresponda a la última proporcionada a los partidos políticos, coalición o candidatos independientes por el Consejo Distrital; y,
+
+IX. Las demás que establezca la ley.
+
+###### Artículo 199.
+
+Los representantes vigilarán el cumplimiento de las disposiciones de esta ley y deberán firmar todas las actas que se levanten, lo que podrán hacer bajo protesta con mención de la causa que la motiva.
+
+###### Artículo 200.
+
+El registro de los nombramientos de los representantes ante las Mesas Directivas de Casillas y de los representantes generales se hará ante el Consejo Distrital Electoral correspondiente, y se sujetará a las reglas siguientes:
+
+I. A partir del mes de abril y hasta trece días antes del día de la elección, los partidos políticos deberán registrar en su propia documentación y ante el Consejo Distrital que corresponda, a sus representantes generales y de casilla. La documentación de que se trata deberá de reunir los requisitos que establezca el Instituto;
+
+II. Los Consejos Distritales devolverán a los partidos políticos, coalición o candidatos independientes el original de los nombramientos respectivos, debidamente sellado y firmado por el Presidente y el Secretario del mismo, conservando un ejemplar; y,
+
+III. Los partidos políticos, coalición o candidato independiente podrán sustituir a sus representantes hasta con diez días de anterioridad a la fecha de la elección, devolviendo con el nuevo nombramiento el original del anterior.
+
+###### Artículo 201.
+
+Los nombramientos de los representantes ante las Mesas Directivas de Casilla deberán contener los siguientes datos:
+
+I. Denominación del partido político o coalición o el nombre del candidato independiente;
+
+II. Nombre del representante;
+
+III. Indicación de su carácter de propietario o suplente;
+
+IV. Número de Distrito Electoral, sección y casilla en que actuarán;
+
+V. Domicilio del representante;
+
+VI. Clave de la credencial para votar con fotografía vigente;
+
+VII. Firma del representante, lo cual se podrá realizar hasta antes de la instalación de la casilla y previa identificación;
+
+VIII. Lugar y fecha de expedición;
+
+IX. Firma del representante o el dirigente del partido político, coalición o candidato independiente o de su representante, que haga el nombramiento; y,
+
+X. Llevará impreso al reverso del nombramiento el texto de los artículos que correspondan a la función que realizarán el día de la jornada electoral.
+
+En caso de que la Presidencia del Consejo Distrital no resuelva dentro de las cuarenta y ocho horas siguientes a la solicitud o niegue el registro sin causa justificada, el partido político o el Candidato Independiente interesado podrá solicitar al Presidente del Consejo General registre a los representantes de manera supletoria.
+
+###### Artículo 202.
+
+La Presidencia del Consejo Distrital Electoral entregará al Presidente de la Mesa, una relación de los representantes que tengan derecho de actuar en la casilla que se trate.
+
+###### Artículo 203.
+
+Los nombramientos de los representantes generales deberán contener los mismos datos que los nombramientos de los representantes ante las Mesas Directivas de Casilla, con excepción del número de sección y casilla.
+
+De estos nombramientos se formará una lista que deberá entregarse a los Presidentes de las Mesas Directivas de Casilla.
+
+### Capítulo VIII. De la Jornada Electoral
+
+###### Artículo 204.
+
+Las boletas electorales se imprimirán conforme al modelo que apruebe el Consejo General de acuerdo con los mecanismos de seguridad y lineamientos que expida el Instituto Nacional Electoral, de conformidad con las disposiciones contenidas en los artículos 104, inciso g) y 216 de la Ley General de Instituciones y Procedimientos Electorales y contendrán:
+
+I. Los nombres y apellidos de los candidatos, y en caso de que fueren autorizados, los apodos;
+
+II. El color o combinación de colores y emblema que cada partido político o candidatos independientes tenga registrados, conforme a su antigüedad;
+
+III. Cargo para el que se postula a los candidatos;
+
+IV. Espacio en blanco para anotar los nombres de los candidatos no registrados;
+
+V. El nombre del Estado, Distrito, Municipio; y,
+
+VI. Las firmas impresas del Presidente y Secretario del Consejo General.
+
+Las boletas estarán adheridas a un talón con folio, del cual serán desprendibles. La información que contendrá ese talón será a la que hace referencia la fracción V de este artículo.
+
+###### Artículo 205.
+
+En las boletas para la elección de Gobernador Constitucional del Estado se destinará un sólo recuadro para cada candidato registrado.
+
+###### Artículo 206.
+
+En las boletas para la elección de Diputaciones por el sistema de mayoría relativa se destinará un solo recuadro para cada fórmula de candidatos, propietario y suplente postulados por un partido o candidato independiente de manera que no requiera más que la emisión de un solo voto para sufragar por ambos.
+
+###### Artículo 207.
+
+En las boletas para elección de Presidente Municipal, Síndico Procurador y Regidurías por el sistema de mayoría relativa deberá destinarse un sólo recuadro para cada planilla de candidatos propietarios y suplentes postulados por un partido o candidato independiente de tal manera que no se requiera más que la emisión de un sólo voto para sufragar por los integrantes de la planilla.
+
+###### Artículo 208.
+
+Para la elección de Diputaciones y Regidurías por el principio de representación proporcional, se utilizará la misma boleta de la elección de Diputaciones, y la de Presidente Municipal, Síndico Procurador y Regidores por el sistema de mayoría relativa, respectivamente. En el reverso de las mismas se anotarán las fórmulas de candidatos de la lista estatal o municipal, de tal manera que el voto emitido por el ciudadano en favor de los candidatos de mayoría relativa, se compute por igual en favor de los candidatos de representación proporcional de aquel partido por el que se hubiere sufragado.
+
+Quedan exceptuados de la previsión anterior los candidatos independientes.
+
+###### Artículo 209.
+
+Las boletas se enviarán para su impresión en la fecha que el Consejo General determine, conforme a las especificaciones técnicas requeridas para su producción. En caso de cancelación o sustitución de uno o más candidatos, no habrá modificación a las boletas, si éstas ya estuvieren impresas. En todo caso, los votos contarán para los partidos y los candidatos que estuvieren legalmente registrados ante los órganos correspondientes en tiempo y forma y se mantuvieron vigentes al momento de la elección.
+
+###### Artículo 210.
+
+Las boletas deberán estar en poder los Consejos Distritales cuando menos quince días antes de la elección. Para su control se tomarán las medidas siguientes:
+
+I. El personal autorizado por el Consejo General entregará las boletas en el día, hora y lugar preestablecidos al Presidente de los Consejos Distritales quien estará acompañado de los demás integrantes;
+
+II. El Secretario del Consejo Distrital levantará acta pormenorizada de la entrega y recepción de las boletas, asentando en ella los datos relativos al número de boletas, las características del embalaje que las contiene, y los nombres y cargos de los miembros del Consejo presentes;
+
+III. Los miembros presentes del Consejo Distrital acompañarán a la presidencia para depositar la documentación recibida en el lugar previamente asignado dentro de su local, debiendo asegurar su integridad mediante fajillas selladas y firmadas por los concurrentes. Estos pormenores se asentarán en el acta respectiva;
+
+IV. El mismo día o más tardar el siguiente, el Presidente, el Secretario y los consejeros electorales procederán a contar las boletas para precisar la cantidad recibida, sellarlas al dorso y agruparlas en razón del número de electores que corresponda a cada una de las casillas a instalar, incluyendo las de las casillas especiales, según el número que acuerde el Consejo General para ellas. El Secretario registrará los datos de esta distribución;
+
+V. Estas operaciones se realizarán con la presencia de los representantes de los partidos políticos y candidatos independientes que decidan asistir; y,
+
+VI. Las y los representantes de los partidos y candidatos independientes acreditados ante los Consejos bajo su más estricta responsabilidad, si lo desearen, podrán firmar las boletas, levantándose un acta en la que conste el número de ellas que se les dio a firmar, el de las firmadas y, en su caso, el de boletas faltantes después de haber realizado el procedimiento de firma. En este último caso se dará noticia de inmediato a la autoridad competente. La falta de firma de los representantes en las boletas no impedirá su oportuna distribución.
+
+###### Artículo 211.
+
+Las presidencias de los Consejos Distritales Electorales entregarán a cada presidencia de mesa directiva de casilla, dentro de los cinco días previos al de la elección y contra el recibo detallado correspondiente:
+
+I. Un ejemplar de la lista nominal con fotografía de electores de la sección;
+
+II. La relación de los representantes registrados para la casilla;
+
+III. La relación de los representantes generales acreditados en el distrito en que se ubique la casilla en cuestión;
+
+IV. Las boletas para cada elección, en número igual al de los electores que figuren en la lista nominal, y al de los representantes acreditados para actuar en la casilla;
+
+V. Las urnas para recibir la votación;
+
+VI. La tinta indeleble;
+
+VII. La documentación, formas aprobadas, útiles de escritorio y demás elementos necesarios;
+
+VIII. Los instructivos que indiquen las atribuciones y responsabilidades de los funcionarios de casilla; y,
+
+IX. Las mamparas que garanticen el secreto del voto.
+
+###### Artículo 212.
+
+A los Presidentes de mesas directivas de casillas especiales les será entregada la documentación y material a que se refiere el artículo anterior, con excepción de la lista nominal de electores. El número de boletas serán las que determine el Consejo General.
+
+###### Artículo 213.
+
+Los documentos y materiales electorales se elaborarán de conformidad a lo establecido en el artículo 216 de la Ley General de Instituciones y Procedimientos Electorales. Las urnas serán de un material transparente, plegable o armable. Presentarán en parte visible en su exterior la leyenda que identifique el cargo de la elección de que se trate, ya sea en forma impresa o adherida, correspondiendo con el color de las boletas respectivas.
+
+###### Artículo 214.
+
+La presidencia y la secretaría de cada casilla cuidarán las condiciones materiales del local en que ésta haya de instalarse para facilitar la votación, garantizar la libertad y el secreto del voto, y asegurar el orden en la elección. En el local de la casilla y en su exterior no deberá haber propaganda electoral; de haberla, se ordenará su retiro.
+
+###### Artículo 215.
+
+Los Consejos Distritales fijarán, dentro de los cinco días previos al día de la jornada electoral, en los lugares en que habrán de instalarse las casillas, un aviso comunicando dicho evento a la ciudadanía.
+
+Asimismo mandará publicar en los diarios de mayor circulación, el día de la jornada electoral, la lista conteniendo la ubicación de las casillas electorales y su integración por municipios, distrito electoral, sección y número de casilla según corresponda.
+
+### Capítulo IX. De la Recepción de Paquetes Electorales y la Información Preliminar de Resultados
+
+###### Artículo 216.
+
+En cuanto al desarrollo de la jornada electoral, en lo conducente, se estará a lo dispuesto por el Título Tercero, del Libro Quinto de la Ley General de Instituciones y Procedimientos Electorales, la presente ley, y en los lineamientos y acuerdos que al respecto expida el Instituto Nacional Electoral. Las disposiciones del presente capítulo serán de aplicación complementaria a las de la legislación general.
+
+Durante el día de la elección se levantará el acta de la jornada electoral, que contendrá los datos comunes a todas las elecciones y las actas relativas al escrutinio y cómputo de cada una de las elecciones.
+
+El primer domingo de junio del año de la elección ordinaria, a las siete horas con treinta minutos, los integrantes de las Mesas Directivas de Casilla, nombrados como propietarios, iniciarán su instalación en presencia de los representantes de los partidos políticos o coaliciones, candidatos independientes y observadores electorales que concurran. En todo caso, el Consejo General y sus órganos distritales y municipales se sujetarán a lo que disponga el Instituto Nacional Electoral.
+
+A solicitud de un partido político, las boletas electorales podrán ser rubricadas o selladas por uno de los representantes partidistas o de candidatos ante la casilla designado por sorteo, quien podrá hacerlo por partes para no obstaculizar el desarrollo de la votación. En el supuesto de que el representante que resultó facultado en el sorteo se negare a firmar o sellar las boletas, el representante que en un principio lo haya solicitado tendrá ese derecho. La falta de rúbrica o sello en las boletas no será motivo para anular los sufragios recibidos. Acto continuo, se iniciará el levantamiento del acta de la jornada electoral, llenándose y firmándose el apartado correspondiente a la instalación de la casilla.
+
+El acta de la jornada electoral constará de los siguientes apartados:
+
+I. El de instalación, y
+
+II. El de cierre de votación.
+
+En el apartado correspondiente a la instalación, se hará constar:
+
+I. El lugar, la fecha y la hora en que se inicia el acto de instalación;
+
+II. El nombre completo y firma autógrafa de las personas que actúan como funcionarios de casilla;
+
+III. El número de boletas recibidas para cada elección en la casilla que corresponda, consignando en el acta los números de folios;
+
+IV. Que las urnas se armaron o abrieron en presencia de los funcionarios y representantes presentes para comprobar que estaban vacías y que se colocaron en una mesa o lugar adecuado a la vista de los electores y representantes de los partidos políticos y de Candidatos Independientes;
+
+V. Una relación de los incidentes suscitados, si los hubiere, y
+
+VI. En su caso, la causa por la que se cambió de ubicación la casilla.
+
+En ningún caso se podrán recibir votos antes de las siete horas con treinta minutos.
+
+Momentos antes de la instalación de la casilla, el Presidente en compañía de los representantes presentes de los partidos políticos y candidatos presentes, en su caso, procederá a fijar en lugar próximo a la casilla y a la vista de los funcionarios y representantes un ejemplar de la lista nominal de electores de la sección, para que los ciudadanos previamente al ejercicio del voto verifiquen si aparecen sus nombres.
+
+Los miembros de la Mesa Directiva de la Casilla no podrán retirarse sino hasta que ésta sea clausurada.
+
+Los representantes de los partidos políticos tendrán una ubicación en la Casilla de manera que puedan observar y vigilar el desarrollo de la elección.
+
+Los representantes propietarios de los partidos y candidatos independientes podrán ser sustituidos por el suplente en cualquier momento de la jornada electoral hasta antes del escrutinio, quedando asentado en el acta correspondiente.
+
+###### Artículo 217.
+
+En caso de no instalarse la casilla, a las ocho horas con quince minutos, conforme al artículo anterior, se procederá a lo siguiente:
+
+I. Si estuviera el Presidente, éste designará a los funcionarios necesarios para su integración, recorriendo, en primer término y en su caso, el orden para ocupar los cargos de los funcionarios ausentes con los propietarios presentes y habilitando a los suplentes presentes para los faltantes, y en ausencia de los funcionarios designados, de entre los electores que se encuentren en la casilla;
+
+II. Si no estuviera el Presidente, pero estuviera el Secretario, éste asumirá las funciones de Presidente de la casilla y procederá a integrarla en los términos señalados en la fracción anterior;
+
+III. Si no estuvieran el Presidente ni el Secretario, pero estuviera alguno de los Escrutadores, éste asumirá las funciones de Presidente y procederá a integrar la casilla de conformidad con lo señalado en la fracción I de este artículo;
+
+IV. Si sólo estuvieran los suplentes, uno de ellos asumirá las funciones de Presidente, los otros las de Secretario y Primer Escrutador, procediendo el primero a instalar la casilla nombrando a los funcionarios necesarios de entre los electores presentes;
+
+V. Si no asistiera ninguno de los funcionarios de la casilla, el Consejo Distrital tomará las medidas necesarias para la instalación de la misma y designará al personal encargado de ejecutarlas y cerciorarse de su instalación;
+
+VI. Cuando por razones de distancia o de dificultad de las comunicaciones, no sea posible la intervención oportuna del personal del Consejo Distrital designado, a las diez horas, los representantes de los partidos políticos y de candidaturas independientes ante las mesas directivas de casilla designarán, por mayoría, a los funcionarios necesarios para integrar las casillas de entre los electores presentes, verificando previamente que se encuentren inscritos en la lista nominal de electores de la sección correspondiente y cuenten con credencial para votar, y;
+
+VII. En todo caso, integrada conforme a los anteriores supuestos, la mesa directiva de casilla, iniciará sus actividades, recibirá válidamente la votación y funcionará hasta su clausura;
+
+VIII. En el supuesto previsto en la fracción VI, se requerirá:
+
+a) La presencia de un juez o notario público, quien tiene la obligación de acudir y dar fe de los hechos; y,
+
+b) En ausencia del juez o notario público, bastará que los representantes expresen su conformidad para designar, de común acuerdo, a los miembros de la mesa directiva; y,
+
+IX. Los nombramientos que se hagan conforme a lo dispuesto en la fracción I de este artículo, deberán recaer en electores que se encuentren en la casilla para emitir su voto; en ningún caso podrán recaer los nombramientos en los representantes de los partidos políticos o de los candidatos independientes.
+
+###### Artículo 218.
+
+De la instalación de la casilla se levantará un acta que deberá ser firmada, sin excepción, por todos los funcionarios y representantes, y en la cual se hará constar las incidencias ocurridas.
+
+###### Artículo 219.
+
+Se considera que existe causa justificada para la instalación de una casilla en lugar distinto al señalado, cuando:
+
+I. No exista el local indicado en las publicaciones respectivas;
+
+II. El local se encuentre cerrado o clausurado y no se pueda realizar la instalación;
+
+III. Se advierta, al momento de la instalación de la casilla, que ésta se pretende realizar en lugar prohibido por la ley;
+
+IV. Las condiciones del local no permitan asegurar la libertad o el secreto del voto o el fácil y libre acceso de los electores o bien, no garanticen la realización de las operaciones electorales en forma normal. En este caso, será necesario que los funcionarios y representantes presentes tomen la determinación de común acuerdo, y,
+
+V. El Consejo Distrital así lo disponga por causa de fuerza mayor o caso fortuito y se lo notifique al presidente de la casilla.
+
+###### Artículo 220.
+
+En caso de reubicación, la casilla deberá quedar instalada en la misma sección y en el lugar adecuado más próximo, debiéndose dejar aviso de la nueva ubicación en el exterior del lugar original que no reunió los requisitos. En el acta de instalación se anotará la causa por la que se cambió de ubicación la casilla.
+
+###### Artículo 221.
+
+Una vez formulada y firmada el acta de la jornada electoral en el apartado correspondiente a la de instalación, el presidente de la mesa anunciará el inicio de la votación.
+
+Iniciada la votación, no podrá suspenderse sino por caso fortuito o causa de fuerza mayor. En este caso, corresponde al presidente dar aviso de inmediato al Consejo Distrital a través del medio de comunicación a su alcance para dar cuenta de la causa de suspensión, la hora en que ocurrió y la indicación de los votantes que al momento habían ejercido su derecho de voto, lo que será consignado en el acta.
+
+El aviso de referencia deberá ser firmado por dos testigos, que lo serán preferentemente, los integrantes de la mesa directiva o los representantes de los partidos políticos o de los candidatos independientes.
+
+Recibida la comunicación que antecede, el Consejo Distrital Electoral decidirá si se reanuda la votación, para lo cual tomará las medidas que estime necesarias.
+
+###### Artículo 222.
+
+Las y los electores votarán en el orden en que se presenten ante la mesa directiva de casilla, debiendo cumplir los siguientes requisitos:
+
+I. Exhibir su credencial para votar con fotografía vigente; y,
+
+II. De no contar con ella, podrá hacerlo con su resolución favorable del órgano jurisdiccional electoral competente, que les otorga el derecho de votar sin aparecer en la lista nominal o sin contar con credencial para votar o en ambos casos.
+
+###### Artículo 223.
+
+Las presidencias de casilla permitirán emitir su voto a aquellas y aquellos ciudadanos que, estando en la lista nominal de electores correspondiente a su domicilio, su credencial para votar con fotografía vigente contenga errores de seccionamiento. En este caso los presidentes de casilla, además de identificar a los electores en los términos de esta ley, se cerciorarán de su residencia en la sección correspondiente por el medio que estimen más efectivo.
+
+###### Artículo 224.
+
+La presidencia de la casilla recogerá la credencial para votar con fotografía vigente a quien vote o pretenda votar sin ser el titular de ella, o en el caso de que tenga muestras de alteración o no pertenezcan al ciudadano, poniendo a disposición de las autoridades a quien la presente. La secretaría de la mesa directiva anotará el incidente en el acta respectiva, con mención expresa de los hechos que motivan la detención y, en su caso, el nombre del ciudadano o ciudadanos presuntamente responsables y los pondrá a disposición de las autoridades competentes de manera inmediata.
+
+###### Artículo 225.
+
+Una vez comprobado que el ciudadano elector aparece inscrito en la lista nominal, que haya exhibido su credencial para votar y que se ha identificado plenamente conforme a la ley, el Presidente le entregará las boletas de las elecciones para que libremente y en secreto, las marque y emita su voto.
+
+Acto seguido, el elector doblará sus boletas y se dirigirá a depositarlas en la urna correspondiente.
+
+La secretaría de la casilla, auxiliado en todo tiempo por uno de los escrutadores, deberá anotar, con el sello que le haya sido entregado para tal efecto, la palabra "votó" en la lista nominal correspondiente y procederá a:
+
+I. Perforar la credencial para votar con fotografía vigente de quien ha ejercido su derecho de voto;
+
+II. Impregnar con tinta indeleble el dedo pulgar derecho del votante; y,
+
+III. Devolver al elector su credencial para votar con fotografía vigente.
+
+###### Artículo 226.
+
+Las y los representantes de los partidos políticos y candidatos independientes ante las mesas directivas, podrán ejercer su derecho de voto en la casilla en la que estén acreditados, para lo cual se seguirá el procedimiento señalado, anotando el nombre completo y la clave de la credencial para votar con fotografía vigente de los representantes al final de la lista nominal de electores.
+
+###### Artículo 227.
+
+Los electores que no sepan leer o que se encuentren impedidos físicamente para marcar sus boletas de voto, podrán asistirse por una persona de su confianza que les acompañe.
+
+###### Artículo 228.
+
+Corresponde al presidente de la mesa directiva, en el lugar en que se haya instalado la casilla, el ejercicio de la autoridad para preservar el orden, asegurar el libre acceso de los electores, garantizar en todo tiempo el secreto del voto y mantener la estricta observancia de esta Ley.
+
+Los miembros de la mesa directiva deberán permanecer en la casilla a lo largo de la votación, pero en ningún caso podrán interferir con la libertad y secreto del voto de los electores.
+
+Tendrán derecho de acceso a las casillas:
+
+I. Los electores que hayan sido admitidos por el presidente de la mesa directiva de casilla en los términos que fija el artículo 227 de esta Ley;
+
+II. Los representantes de los partidos políticos y de Candidatos Independientes debidamente acreditados en los términos que fija esta Ley;
+
+III. Los notarios públicos y jueces que deban dar fe de cualquier acto relacionado con la integración de la mesa directiva, la instalación de la casilla y, en general, con el desarrollo de la votación, siempre que se hayan identificado ante el presidente de la mesa directiva de casilla y precisado la índole de la diligencia a realizar, misma que en ningún caso podrá oponerse al secreto de la votación; y,
+
+IV. Los funcionarios del Instituto que fueren enviados por el Consejo General o el Consejo Distrital respectivo o llamados por la Presidencia de la Mesa Directiva.
+
+Los representantes generales permanecerán en las casillas el tiempo necesario para cumplir con las funciones que les fija esta Ley; no podrán interferir el libre desarrollo de la votación ni pretender asumir las funciones propias de los integrantes de la mesa directiva. La presidencia de la mesa directiva podrá conminarlos a cumplir con sus funciones y, en su caso, podrá ordenar su retiro cuando el representante deje de cumplir su función, coaccione a los electores, o en cualquier forma afecte el desarrollo normal de la votación.
+
+###### Artículo 229.
+
+No se permitirá el acceso a las casillas a personas que se encuentren privadas de sus facultades mentales, intoxicadas, bajo el influjo de enervantes, embozadas o armadas. Tampoco tendrán acceso a las casillas, salvo que sea para ejercer su derecho de voto, miembros de corporaciones o fuerzas de seguridad pública, dirigentes de partidos políticos, candidatos o representantes populares.
+
+El personal administrativo de las fuerzas armadas, la oficialidad, las clases, la tropa y miembros de las corporaciones policiacas, deben presentarse a votar individualmente, sin armas y sin vigilancia o mando de superior alguno, en la sección electoral que les corresponda por razón de su domicilio.
+
+###### Artículo 230.
+
+La presidencia de la mesa directiva podrá solicitar, en todo tiempo, el auxilio de las fuerzas de seguridad pública a fin de preservar el orden en la casilla y la normalidad de la votación, ordenando el retiro de cualquier persona que indebidamente interfiera o altere el orden.
+
+En los casos de alteración del orden de la casilla, el secretario hará constar las causas del quebranto del orden y las medidas acordadas por el presidente en un acta especial que deberá firmarse por los funcionarios de la casilla y los representantes de los partidos acreditados ante la misma. Si algún funcionario o representante se negase a firmar el secretario hará constar la negativa.
+
+###### Artículo 231.
+
+Los representantes de los partidos políticos y candidatos independientes, podrán presentar al secretario de la mesa directiva escritos sobre cualquier incidente que en su concepto constituya una infracción a lo dispuesto por esta ley. Dichos escritos se recibirán e incorporarán al expediente electoral de la casilla, sin que pueda mediar discusión sobre su admisión, debiendo firmar de recibido.
+
+###### Artículo 232.
+
+Ninguna autoridad podrá detener a los integrantes de las mesas directivas de casilla o a los representantes de los partidos y de los candidatos independientes durante la jornada electoral, salvo en caso de delito flagrante.
+
+###### Artículo 233.
+
+En las casillas especiales se aplicarán, en lo procedente, las reglas establecidas en los artículos anteriores y las siguientes:
+
+I. El ciudadano elector además de exhibir su credencial para votar con fotografía vigente, a requerimiento del presidente de la mesa directiva, deberá mostrar el pulgar derecho para constatar que no ha votado en otra casilla;
+
+II. La secretaría de la mesa directiva procederá a asentar en el acta de electores en tránsito los datos de la credencial para votar con fotografía vigente; y,
+
+III. Una vez asentados los datos a que se refiere la fracción anterior, se observará lo siguiente:
+
+a) Si el elector se encuentra fuera de su distrito pero dentro de su municipio, podrá votar para Regidores y Diputaciones por el principio de representación proporcional, y para Gobernador. La presidencia de la mesa directiva le entregará las boletas únicas para las elecciones de Regidores y de Diputaciones asentando la leyenda "Representación Proporcional"; o la abreviatura "RP"; y,
+
+b) Si el elector se encuentra fuera de su municipio podrá votar por Diputados por el principio de representación proporcional y por Gobernador. La presidencia de la mesa directiva le entregará la boleta única para la elección de Diputaciones, asentando la leyenda "Representación Proporcional", o la abreviatura "RP".
+
+Cumplidos los requisitos para acreditar la calidad de elector y anotados los datos en el acta correspondiente, el presidente de la casilla le entregará las boletas a que tuviere derecho.
+
+La secretaría hará constar a continuación del nombre del ciudadano y la elección o elecciones por las que votó en el acta correspondiente.
+
+###### Artículo 234.
+
+La votación se cerrará a las dieciocho horas. Podrá cerrarse antes sólo cuando el presidente y el secretario certifiquen que hubieren votado todos los electores incluidos en la lista nominal correspondiente.
+
+Sólo permanecerá abierta después de las dieciocho horas, aquella casilla en la que aún se encuentren electores formados para votar. En este caso, se cerrará una vez que quienes estuviesen formados antes de la hora indicada hayan votado.
+
+###### Artículo 235.
+
+La presidencia declarará cerrada la votación al cumplirse lo dispuesto en el artículo anterior. Acto seguido, el secretario levantará el acta de cierre de votación y la pondrá a firma de los demás integrantes de la mesa directiva y los representantes de los partidos y los candidatos independientes.
+
+En todo caso el acta contendrá:
+
+I. Hora de inicio y cierre de la votación;
+
+II. Causa por la que se cerró antes o después de las dieciocho horas; y,
+
+III. Incidentes registrados durante la votación.
+
+###### Artículo 236.
+
+Una vez cerrada la votación y levantada el acta respectiva, los integrantes de la mesa directiva procederán al escrutinio y cómputo de los votos en la casilla.
+
+El escrutinio y cómputo es el procedimiento por el cual se determina:
+
+I. El número de electores que votó en la casilla;
+
+II. El número de votos emitidos en favor de cada uno de los Partidos Políticos y de los candidatos independientes;
+
+III. El número de votos anulados; y,
+
+IV. El número de boletas sobrantes de cada elección.
+
+Son votos nulos:
+
+I. Aquél expresado por un elector en una boleta que depositó en la urna, sin haber marcado ningún cuadro que contenga el emblema de un partido político o de una candidatura independiente; y,
+
+II. Cuando el elector marque dos o más cuadros sin existir coalición entre los partidos cuyos emblemas hayan sido marcados.
+
+Cuando el elector marque en la boleta dos o más cuadros y exista coalición entre los partidos cuyos emblemas hayan sido marcados, el voto contará para el candidato de la coalición y se registrará por separado en el espacio correspondiente del acta de escrutinio y cómputo de casilla.
+
+Se entiende por boletas sobrantes aquéllas que habiendo sido entregadas a la mesa directiva de casilla no fueron utilizadas por los electores.
+
+El escrutinio y cómputo se iniciará con la elección de Diputaciones, continuará con la de Gobernador y concluirá con la de Presidente Municipal, Síndico Procurador y Regidores.
+
+En el caso de que se hubiere instalado casilla única en elecciones concurrentes, en forma simultánea a los cómputos a que se refiere el párrafo anterior, se realizará el cómputo local en el orden siguiente:
+
+I. De Gobernador;
+
+II. De diputados locales, y
+
+III. De ayuntamientos.
+
+###### Artículo 237.
+
+Para el escrutinio y el cómputo de los votos, los integrantes de las Mesas Directivas de Casilla, observarán las siguientes reglas:
+
+I. Se enumerarán las boletas sobrantes, inutilizándolas por medio de dos rayas diagonales, haciendo constar su número en el acta correspondiente;
+
+II. La Presidencia de la Mesa Directiva de la casilla abrirá la urna;
+
+III. Se comprobará si el número de boletas depositadas corresponde al número de electores que sufragaron, para lo cual el Primer Escrutador sacará de la urna, una por una, las boletas, contándolas en voz alta, en tanto que el Secretario irá sumando en la lista nominal de electores el número de ciudadanos que votó, consignándose en el acta correspondiente el resultado de estas operaciones;
+
+IV. Se mostrará a todos los presentes que la urna quedó vacía;
+
+V. El Segundo Escrutador, tomará boleta por boleta y leerá en voz alta los nombres de los partidos o candidatos independientes en favor de los cuales se haya sufragado;
+
+VI. El Secretario, al mismo tiempo, irá anotando los votos que el Escrutador vaya leyendo;
+
+VII. En primer lugar, se hará el escrutinio y cómputo de la elección de Diputaciones, después la de la Gubernatura y, por último, la de los Ayuntamientos, salvo que se trate de elección concurrente, en cuyo caso atenderá el orden señalado en el artículo anterior. En el caso de que al abrir la urna que contiene los votos de una elección se descubrieran boletas correspondientes a otra urna, se computarán por separado, y se sumarán a la elección que corresponda;
+
+VIII. Se contará un solo voto por cada cuadro marcado o cuando el elector marque en algún lugar del cuadro que contiene el nombre del candidato o candidatos y el emblema del partido correspondiente. El voto que haya sido marcado en más de un cuadro, sin que se pueda inferir la preferencia del elector, se computará como voto nulo. El Secretario registrará en el acta respectiva el número de votos nulos; y
+
+IX. En el caso de candidatos postulados por una coalición si el elector marca el cuadro de más de un partido de los que lo postulan, este voto se computará únicamente para el candidato o candidatos de que se trate, sin que se tome en cuenta para un partido político postulante en específico. En el supuesto de que el elector marque dos o más emblemas de partidos que participan en una coalición o candidatura común, los votos deberán registrarse en el apartado correspondiente en el acta de escrutinio y cómputo, sumarse y repartirse equitativamente entre ellos y de existir fracción, los votos correspondientes se asignarán a los partidos de más alta votación. En el supuesto de que el elector marque más de un cuadro, diferente a aquellos partidos políticos que postulen la candidatura, este voto será nulo. El Secretario registrará en el acta respectiva el número de votos nulos.
+
+###### Artículo 238.
+
+Para determinar la validez o nulidad de los votos se observarán las reglas siguientes:
+
+I. El voto será válido si el elector pone la marca dentro del cuadro en que se encuentren comprendidos el nombre del candidato o candidatos y el emblema del partido, de tal modo que de la simple vista se desprenda, de manera indubitable, que votó en favor de determinado candidato o fórmula;
+
+II. El voto será válido si el elector marca dos o más emblemas de partidos que participan en la misma coalición o candidatura común;
+
+III. Será nulo cualquier voto emitido en forma distinta a la señalada; y,
+
+IV. Los votos emitidos a favor de candidatos no registrados se asentarán en el acta por separado.
+
+Si se encontrasen boletas de una elección en la urna correspondiente a otra, se separarán y se computarán en la elección respectiva.
+
+###### Artículo 239.
+
+El acta final de escrutinio y cómputo deberá contener, por lo menos:
+
+I. El número de votos emitidos a favor de cada partido político, o candidato independiente;
+
+II. El número de votos emitidos a favor de una coalición o candidatura común, marcando dos o más de sus emblemas;
+
+III. El número total de las boletas sobrantes que fueron inutilizadas;
+
+IV. El número de votos nulos;
+
+V. El número de representantes de partidos que votaron en la casilla sin estar en el listado nominal de electores;
+
+VI. La relación sucinta de los incidentes ocurridos durante el escrutinio y cómputo; y,
+
+VII. La relación de escritos de protesta presentados por los representantes de los partidos políticos hasta el término del escrutinio y cómputo.
+
+###### Artículo 240.
+
+El escrito de protesta podrá presentarse ante la mesa directiva de casilla al término del escrutinio y cómputo o ante el Consejo Distrital o Municipal correspondiente, antes de que se inicie la sesión de cómputo, para los efectos de la interposición de una impugnación.
+
+De la presentación del escrito de protesta deberán acusar recibo o razonar de recibida una copia del respectivo escrito los funcionarios de la casilla o del Consejo Distrital o Municipal ante el que se presentaron.
+
+###### Artículo 241.
+
+El Consejo General podrá acordar la utilización de una sola acta que contenga los datos de cada una de las actas mencionadas en los artículos anteriores, misma que deberá llenarse en los tiempos señalados en esta ley.
+
+###### Artículo 242.
+
+Se denomina paquete electoral al que se forma con las actas levantadas por la Mesa Directiva de Casilla, las boletas utilizadas e inutilizadas, la lista nominal de electores y los escritos de protesta y de incidentes que se hubieren presentado.
+
+Al término del escrutinio y cómputo de cada una de las elecciones en la casilla, se formarán los expedientes siguientes:
+
+I. Expediente de la elección de diputaciones, el cual deberá contener:
+
+a) Ejemplar del acta de la jornada;
+
+b) Original del acta final de escrutinio y cómputo;
+
+c) Los escritos de protesta que se hubieren recibido, relativos a esta elección;
+
+d) Los escritos de incidentes que se hubieren presentado;
+
+e) De haberse utilizado, ejemplares de las hojas adicionales de Incidentes presentados;
+
+f) La lista nominal de electores, en su caso; y,
+
+g) En sobre por separado, al interior del paquete, las boletas sobrantes inutilizadas y las que contengan los votos válidos y los nulos;
+
+II. Expediente de la elección de la gubernatura, el cual deberá contener:
+
+a) Original del acta final de escrutinio y cómputo; y,
+
+b) En sobre por separado, al interior del paquete, las boletas sobrantes inutilizadas y las que contengan los votos válidos y los nulos; y,
+
+III. Expediente de la elección de Presidente Municipal, Síndico Procurador y Regidores, el cual deberá contener:
+
+a) Copia del acta de la jornada;
+
+b) Original del acta final del escrutinio y cómputo;
+
+c) Los escritos de protesta que se hubieren recibido relativos a esta elección;
+
+d) Copia de los escritos de incidentes que se hubieren presentado;
+
+e) De haberse utilizado, ejemplares de las hojas adicionales de incidentes presentados; y,
+
+f) En sobre por separado, al interior del paquete, las boletas sobrantes inutilizadas y las que contengan los votos válidos y los nulos.
+
+Para garantizar la inviolabilidad de la documentación anterior, los expedientes de las elecciones se depositarán en un paquete sobre cuya envoltura se anotarán los datos de identificación del distrito, municipio, sección y casilla, firmarán además los integrantes de la mesa directiva de casilla, y los representantes que desearen hacerlo.
+
+En los casos de los municipios, el paquete correspondiente a la elección de Presidente Municipal, Síndico Procurador y Regidores será depositado en caja por separado para los efectos de la entrega correspondiente al Consejo Municipal Electoral.
+
+###### Artículo 243.
+
+Cumplidas las acciones a que se refieren los artículos anteriores, los presidentes de las mesas directivas de casilla, fijarán avisos en lugar visible del exterior de las mismas con los resultados de cada una de las elecciones, los que serán firmados por el presidente y los representantes que así deseen hacerlo.
+
+La secretaría levantará un acta que deberán firmar los funcionarios de las mesas y los representantes de los partidos políticos que desearen hacerlo, misma en la que se asentará:
+
+I. Los nombres de quienes harán la entrega al Consejo Distrital Electoral respectivo de la caja que contenga los paquetes electorales;
+
+II. Los representantes de los partidos políticos que, en su caso, los acompañarán, y,
+
+III. La hora de clausura de la casilla.
+
+###### Artículo 244.
+
+Por fuera de la caja en que se depositen los paquetes de las elecciones, se adherirá un sobre que contenga copia de las actas finales de escrutinio y cómputo de cada una de ellas y el original del acta de integración de paquetes y clausura de la casilla.
+
+###### Artículo 245.
+
+Una vez clausuradas las casillas, los presidentes de las mismas, bajo su responsabilidad, harán llegar al Consejo Distrital o Municipal Electoral que corresponda, la caja que contenga los paquetes y expedientes electorales, dentro de los plazos siguientes contados a partir de la hora de clausura:
+
+I. Inmediatamente, cuando se trate de casillas urbanas ubicadas en la cabecera del distrito;
+
+II. Hasta doce horas, cuando se trate de casillas urbanas ubicadas fuera de la cabecera del distrito; y,
+
+III. Hasta veinticuatro horas, cuando se trate de casillas rurales.
+
+Los Consejos Distritales previamente a la jornada electoral, podrán determinar la ampliación de los plazos anteriores para aquellas casillas en que así se justifique.
+
+Se considerará que existe causa justificada para que los paquetes con los expedientes de casilla sean entregados al Consejo Distrital o Municipal fuera de los plazos establecidos, cuando medie caso fortuito o fuerza mayor.
+
+El Consejo hará constar en el acta circunstanciada de recepción de los paquetes a que se refiere este artículo, las causas que se invoquen para el retraso en la entrega de los paquetes.
+
+El Consejo Distrital recibirá los paquetes electorales entregados fuera de los plazos legales o determinados, pero no serán computados sus resultados.
+
+###### Artículo 246.
+
+Los Consejos Distritales y Municipales Electorales para garantizar que los paquetes electorales sean entregados dentro de los plazos legales, podrán establecer mecanismos para recolectarlos, cuando ello fuere necesario. Lo anterior se realizará bajo la vigilancia de los partidos políticos, coaliciones y representantes de candidatos independientes que así desearen hacerlo.
+
+###### Artículo 247.
+
+Para el desarrollo de la jornada electoral, se adoptarán las siguientes prevenciones:
+
+I. El día de la elección, las autoridades competentes de acuerdo a la normatividad vigente, podrán establecer medidas para limitar el horario de servicio de los establecimientos en los que se expendan bebidas alcohólicas;
+
+II. Exclusivamente podrán portar armas los miembros uniformados de las fuerzas públicas encargadas del orden;
+
+III. Se mantendrán abiertas las oficinas de juzgados de primera instancia, menores, agencias del ministerio público y notarías, a fin de atender las solicitudes que les hagan funcionarios de casilla, ciudadanos, representantes de partidos políticos y candidatos independientes, para dar fe de hechos o certificar documentos concernientes a la elección; y,
+
+IV. La Secretaría General de Gobierno, por conducto del Archivo General de Notarías, publicará en los diarios de mayor circulación, cinco días antes del día de la elección, los nombres de los notarios en ejercicio y los domicilios de sus oficinas.
+
+###### Artículo 248.
+
+Las autoridades federales, estatales y municipales, a requerimiento que les formulen los órganos electorales competentes, proporcionarán lo siguiente:
+
+I. La información que obre en su poder, relacionada con la jornada electoral;
+
+II. Las certificaciones de los hechos que les consten o de los documentos que existan en los archivos a su cargo, relacionados con el proceso electoral;
+
+III. El apoyo necesario para practicar las diligencias que les sean demandadas para fines electorales; y,
+
+IV. La información de los hechos que puedan influir o alterar el resultado de las elecciones.
+
+### Capítulo X. De los Cómputos Distritales y Municipales y del Recuento de Votos
+
+###### Artículo 249.
+
+La recepción, depósito y salvaguarda de las cajas en que se contengan los paquetes electorales, por parte de los Consejos Distritales y Municipales se hará conforme al procedimiento siguiente:
+
+I. Se recibirán en el orden en que sean entregadas extendiendo el recibo correspondiente, en el que se señale la hora de recepción y el nombre de quien lo entrega;
+
+II. La Presidencia del Consejo dispondrá su depósito, en orden numérico de las casillas, colocando por separado las de las especiales, en un lugar dentro del local que reúna las condiciones de seguridad, desde el momento de su recepción hasta el día en que se practique el cómputo;
+
+III. La Presidencia del Consejo, bajo su responsabilidad, dispondrá su custodia y asegurará que sean selladas las puertas de acceso al lugar del depósito, en presencia de los representantes de los partidos políticos y candidatos independientes; y,
+
+IV. Con la recepción de la primera caja que contenga los paquetes electorales, se iniciará la elaboración de un acta circunstanciada en la que se hará constar, por exclusión, el estado físico de las cajas que hubieren sido recibidas sin reunir los requisitos que señala esta ley.
+
+###### Artículo 250.
+
+Los Consejos Distritales harán las sumas de los resultados contenidos en las copias de las actas de escrutinio y cómputo de las casillas, conforme éstas se vayan recibiendo y hasta el vencimiento del plazo legal para la entrega de las cajas que contengan los paquetes electorales, conforme a las siguientes reglas:
+
+I. Recibida una caja, el Presidente desprenderá de inmediato el sobre adherido a la misma y dispondrá la formación de los legajos correspondientes con las copias de las actas de escrutinio y cómputo de cada elección.
+
+II. El Secretario cuidará que los resultados contenidos en las mismas, se anoten en las formas destinadas para ello, conforme al orden numérico de las casillas; las formas que se indican deberán estar a la vista de los miembros del Consejo;
+
+III. Los representantes de los partidos políticos y de los candidatos independientes acreditados ante los Consejos, contarán con las formas adecuadas para anotar en ellas los resultados de la votación en las casillas que se vayan recibiendo;
+
+IV. Concluida la recepción o el plazo para la misma, el secretario efectuará la suma de las cantidades anotadas en las formas a que se refiere la fracción II de este artículo, haciéndola del conocimiento de los miembros del Consejo; y,
+
+V. Posteriormente, la Presidencia del Consejo, fijará en el exterior del local del mismo, los resultados preliminares de las elecciones en el distrito o en el municipio según corresponda.
+
+###### Artículo 251.
+
+Las reglas, lineamientos, criterios y formatos en materia de resultados preliminares, corresponde al Instituto Nacional Electoral en términos de lo dispuesto en el apartado B de la Base V del artículo 41 de la Constitución.
+
+El Instituto, de conformidad con los artículos 104, inciso k) de la Ley General de Instituciones y Procedimientos Electorales deberá implementar y operar el Programa de Resultados Electorales Preliminares de las elecciones que se lleven a cabo en la entidad, de conformidad con las reglas, lineamientos, criterios y formatos que para el efecto emita el Instituto Nacional Electoral y el artículo 219 de la misma ley general.
+
+### Capítulo XI. Del Cómputo Estatal
+
+###### Artículo 252.
+
+El cómputo distrital o municipal de una elección es la suma que realiza el Consejo Electoral correspondiente de los resultados anotados en las actas de escrutinio y cómputo de las casillas en un distrito electoral o municipio.
+
+###### Artículo 253.
+
+Durante los cómputos distritales o municipales, los representantes de los partidos políticos o candidatos independientes podrán solicitar el recuento parcial o total de votos de una elección, cuando se actualice alguno de los supuestos previstos en la realización de los cómputos Distritales y Municipales descritos en los artículos siguientes, a cargo de los Consejos respectivos.
+
+El Consejo General determinará para cada proceso electoral el personal que podrá auxiliar a los consejos electorales en el recuento de votos en los casos establecidos en esta Ley.
+
+###### Artículo 254.
+
+Los Consejos Electorales celebrarán sesión a partir de las ocho horas del miércoles siguiente al día de la jornada electoral, para hacer el cómputo de cada una de las elecciones, bajo el siguiente procedimiento:
+
+El Consejo Distrital realizará primeramente el cómputo de la elección de Diputaciones, posteriormente la de la Gubernatura del Estado.
+
+El Consejo Municipal realizará el cómputo de la elección de la Presidencia Municipal, Síndico Procurador y Regidurías.
+
+Cada uno de los cómputos a que se refieren los párrafos anteriores se realizarán ininterrumpidamente hasta su conclusión. Al instalarse la sesión, se iniciará la elaboración de un acta circunstanciada, en la que se harán constar los resultados y los incidentes que ocurriesen durante su celebración.
+
+Los consejos electorales, en sesión previa a la jornada electoral podrán acordar que los miembros del personal operativo, puedan sustituirse o alternarse entre sí en las sesiones o que puedan ser sustituidos por otros miembros del sistema, y asimismo, que los Consejeros Electorales y representantes de partidos políticos y candidatos independientes, si los hubiere, acrediten en sus ausencias a sus suplentes para que participen en ellas, de manera que se pueda sesionar permanentemente.
+
+###### Artículo 255.
+
+El cómputo distrital de la votación para Diputaciones se sujetará al procedimiento siguiente:
+
+I. Se abrirán las cajas que contengan los expedientes de las elecciones que no tengan muestras de alteración y siguiendo el orden numérico de las casillas; se cotejará el resultado del original del acta de escrutinio y cómputo de la elección de Diputaciones contenida en el paquete con los resultados que aparezcan en la copia realizada en el cómputo en la casilla. Si los resultados de ambas coinciden, se asentarán en las formas establecidas para ello;
+
+Durante la apertura de paquetes electorales, el presidente o el secretario del consejo electoral extraerá: los escritos de protesta, si los hubiere; la lista nominal correspondiente; la relación de ciudadanos que votaron y no aparecen en la lista nominal, así como las hojas de incidentes y la demás documentación que determine el Consejo General en acuerdo previo a la jornada electoral. De la documentación así obtenida, se dará cuenta al consejo electoral correspondiente, debiendo ordenarse conforme a la numeración de las casillas. Las carpetas con dicha documentación quedarán bajo resguardo del presidente del consejo para atender los requerimientos que llegare a presentar el Tribunal Electoral u otros órganos del Instituto;
+
+II. Si los resultados no coinciden, no obrase la copia en poder del presidente o no se contenga el original en el paquete, la Presidencia del Consejo abrirá el sobre que contenga las boletas y procederá a su escrutinio y cómputo. El resultado del mismo se hará constar en un acta individual de la casilla en la forma establecida para ello, dejándose constancia en el acta circunstanciada;
+
+III. A continuación se abrirán las cajas con muestras de alteración y se realizarán, según el caso, las operaciones señaladas en las fracciones anteriores, haciéndose constar lo procedente en el acta circunstanciada;
+
+IV. La suma de los resultados, después de realizar las operaciones indicadas en las fracciones anteriores constituirá el cómputo distrital de la elección de Diputaciones por el sistema de mayoría relativa, que se asentará en el acta correspondiente;
+
+V. Acto seguido, se abrirán las cajas en que se contengan los paquetes de las casillas especiales, para extraer el de la elección de Diputaciones de representación proporcional y se procederá en los términos de las fracciones I, II y III de este artículo;
+
+VI. El cómputo distrital de la elección de Diputaciones por el principio de representación proporcional, será el resultado de sumar las cifras obtenidas según las fracciones IV y V de este artículo y se asentará en el acta correspondiente a la elección de Diputaciones por el principio de representación proporcional;
+
+VII. Cuando existan errores o alteraciones evidentes en las actas, el Consejo Electoral deberá realizar nuevamente el escrutinio y cómputo, lo que se hará constar en el acta circunstanciada.
+
+De igual manera se procederá al recuento, cuando las actas consignen que todos los votos fueron emitidos a favor de un mismo candidato;
+
+VIII. Si al término de la sesión de cómputo, su resultado arroja una diferencia igual o menor a un punto porcentual entre los dos candidatos con mayor votación, el representante del partido político o candidato independiente, que se ubique en segundo lugar podrá solicitar que se realice el recuento total de los votos del distrito. El Consejo solo accederá a la solicitud, si ésta se presenta antes de que el acta de cómputo distrital haya sido elaborada y firmada por los integrantes del Consejo con derecho a voto.
+
+Cuando conforme a la presente fracción se apruebe la realización de un recuento total de votos del distrito, se excluirán del procedimiento los paquetes de las casillas que ya hubiesen sido objeto de recuento de conformidad con lo dispuesto en la fracción II de este artículo;
+
+IX. Siempre que se apruebe la realización del recuento total de votos con apego a lo establecido en la fracción precedente, el Consejo Distrital dispondrá lo necesario para que no se obstaculice el cómputo del resto de las elecciones y para que todos los cómputos que le corresponden concluyan antes del domingo siguiente al de la jornada electoral. Para tales efectos, el presidente del Consejo, sin levantar la sesión, procederá a:
+
+a) Dar aviso de inmediato al Consejo General, por conducto de su Secretario;
+
+b) Disponer la creación de grupos de trabajo para la realización del recuento de votos, que estarán integrados por representantes de los partidos y candidatos independientes, personal del Consejo Distrital, personal de apoyo que en su caso le proporcione el Consejo General y los vocales, quienes conducirán los trabajos. Los partidos políticos y los candidatos independientes tendrán derecho a nombrar a un representante en cada grupo, con su respectivo suplente;
+
+c) Distribuir proporcionalmente entre los grupos de trabajo los paquetes electorales que serán objeto del recuento. La labor de los grupos se realizará en forma simultánea e ininterrumpida, salvo caso fortuito o causa de fuerza mayor;
+
+X. Si durante el recuento de votos se encuentran en el paquete boletas de una elección distinta a la del cómputo en curso, se separarán para contabilizarlos en el cómputo que le corresponda;
+
+XI. El consejero que conduzca los trabajos de grupo asentará los resultados del recuento de cada paquete en una nueva acta de escrutinio y cómputo; y al concluir su actividad levantará un acta circunstanciada en la que consignará el resultado del recuento de cada casilla y el resultado final que arroje la suma de votos por candidato;
+
+XII. Concluida la actividad de los grupos de trabajo, el presidente del Consejo reanudará la sesión en pleno, realizará la suma de los resultados consignados en el acta de cada grupo de trabajo, y asentará el resultado en el acta final de cómputo distrital; y,
+
+XIII. Los errores que durante el procedimiento de recuento se detecten en las actas originales de escrutinio y cómputo, serán corregidos por acuerdo del Consejo Distrital, por lo que no podrán invocarse como causal de nulidad de la elección correspondiente ante el Tribunal Electoral, salvo que se acredite que el Consejo incurrió nuevamente en error o que existió dolo o mala fe durante la corrección.
+
+###### Artículo 256.
+
+El cómputo distrital de la votación para Gobernador, se sujetará al procedimiento siguiente:
+
+I. Se abrirán las cajas que contengan los paquetes de las elecciones que no tengan muestras de alteración y siguiendo el orden numérico de las casillas; se cotejará el resultado del original del acta de escrutinio y cómputo de la elección de la Gubernatura contenida en el paquete con los resultados que aparezcan en la copia del acta correspondiente. Si los resultados de ambas coinciden, se asentarán en las formas establecidas para ello;
+
+II. Si los resultados no coinciden, no obrase la copia en poder del presidente o no se contenga el original en el paquete, procederá el recuento total de los votos;
+
+III. En estas operaciones se seguirá el orden numérico progresivo de las casillas y al final se computarán las actas de las casillas especiales; y,
+
+IV. La suma de los resultados asentados, constituirá el cómputo distrital de la elección de la Gubernatura, que se hará constar en el acta correspondiente a esta elección.
+
+Serán aplicables al cómputo de la elección de la Gubernatura, las disposiciones del procedimiento descrito para el cómputo distrital de la votación para Diputaciones, en lo que corresponde a los recuentos de votos.
+
+###### Artículo 257.
+
+El cómputo de la votación para Presidente Municipal, Síndico Procurador y Regidores, se sujetará al procedimiento siguiente:
+
+I. Se abrirán las cajas que contengan los paquetes de las elecciones que no tengan muestras de alteración y siguiendo el orden numérico de las casillas; se cotejará el resultado del original del acta de escrutinio y cómputo de la elección de Presidente Municipal, Síndico Procurador y Regidores contenida en el paquete con los resultados que aparezcan en la copia del acta respectiva. Si los resultados de ambas coinciden, se asentarán en las formas establecidas para ello;
+
+II. Si los resultados no coinciden, no obrase la copia en poder del presidente o no se contenga el original en el paquete, se procederá al recuento de los votos;
+
+III. La suma de los resultados, después de realizar las operaciones indicadas en las fracciones anteriores, constituirá el cómputo de la elección de Presidente Municipal, Síndico Procurador y Regidores por el sistema de mayoría relativa, que se asentará en el acta correspondiente;
+
+IV. Acto seguido, se tomarán los originales de las actas finales de escrutinio y cómputo de las casillas especiales, procediendo a la suma de sus resultados; y,
+
+V. El cómputo de la elección de Regidores por el principio de representación proporcional, será el resultado de sumar las cifras obtenidas, según las fracciones III y IV de este artículo, que se asentará en el acta correspondiente a la elección de Regidores por el principio de representación proporcional.
+
+Serán aplicables al cómputo de la elección de Presidente Municipal, Síndico Procurador y Regidores, las disposiciones del procedimiento descrito para el cómputo distrital de la votación para Diputados, en lo que corresponde a los recuentos de votos.
+
+###### Artículo 258.
+
+Al término de la sesión de cómputo, y una vez firmadas las actas respectivas, los consejos expedirán las constancias de mayoría a la fórmula y planilla, respectivamente, que haya obtenido mayor número de votos y las constancias de asignación correspondientes a las regidurías determinadas por el principio de representación proporcional, salvo lo dispuesto en el artículo 291 de esta ley.
+
+Igualmente procederán a fijar al exterior de los locales de los consejos los resultados del cómputo de las elecciones de su competencia.
+
+###### Artículo 259.
+
+Las presidencias de los Consejos deberán integrar según sea el caso los siguientes expedientes:
+
+I. El expediente del cómputo distrital de la elección de Diputaciones por el sistema de mayoría relativa, con:
+
+a) Las actas de instalación, cierre, escrutinio y cómputo, clausura y, en su caso, de quebranto de orden de las casillas;
+
+b) El acta de cómputo distrital de la elección de Diputaciones por el sistema de mayoría relativa;
+
+c) Copia de los escritos de protesta y escritos de incidentes que obren en poder del Consejo, relativos a esta elección;
+
+d) El acta circunstanciada de la sesión de cómputo distrital; y,
+
+e) Un informe de la Presidencia del Consejo Distrital, sobre el desarrollo del proceso electoral;
+
+II. El expediente del cómputo distrital de la elección de Diputaciones por el principio de representación proporcional, con:
+
+a) Una copia certificada de las actas de instalación, cierre, escrutinio y cómputo, clausura y, en su caso, de quebranto de orden de la casilla y los originales de todas las actas de las casillas especiales;
+
+b) El acta de cómputo distrital de la elección de Diputaciones por el principio de representación proporcional;
+
+c) Copia de los escritos de protesta y escritos de incidentes que obren en poder del Consejo, relativos a esta elección;
+
+d) Una copia certificada del acta circunstanciada de la sesión de cómputo distrital; y,
+
+e) Una copia certificada del informe del presidente del Consejo Distrital, sobre el desarrollo del proceso electoral;
+
+III. El expediente de cómputo distrital de la elección de la Gubernatura, con:
+
+a) Las actas finales de escrutinio y cómputo de la elección de Gobernador de las casillas, incluidas las de las casillas especiales; y,
+
+b) El acta de cómputo distrital de la elección de Gobernador Constitucional del Estado; y,
+
+IV. El expediente de cómputo municipal de la elección de Presidente Municipal, Síndico Procurador y Regidores con:
+
+a) El original de las actas de escrutinio y cómputo y las copias de las actas de instalación, cierre, clausura y en su caso de quebranto de orden de las casillas, incluidas las de las especiales;
+
+b) El acta de cómputo municipal de la elección de Presidente Municipal, Síndico Procurador y Regidores por el sistema de mayoría relativa;
+
+c) El acta de cómputo municipal de la elección de Regidores por el principio de representación proporcional;
+
+d) Copia de los escritos de protesta y escritos de incidentes que obren en poder del Consejo, relativos a esta elección;
+
+e) Copia certificada del acta circunstanciada de la sesión de cómputo municipal; y,
+
+f) Copia certificada del informe de la Presidencia del Consejo, sobre el desarrollo del proceso electoral.
+
+###### Artículo 260.
+
+Las presidencias de los consejos, una vez integrados los expedientes a que se refiere el artículo anterior, procederán a:
+
+I. Remitir al Tribunal Electoral, cuando se hubiere interpuesto recurso de inconformidad, los siguientes documentos:
+
+a) El escrito del recurso de inconformidad interpuesto;
+
+b) Los escritos de protesta y escritos de incidentes que obren en poder del Consejo;
+
+c) Copia certificada del expediente del cómputo de la elección impugnada;
+
+d) Las pruebas aportadas;
+
+e) Los escritos aportados por terceros interesados;
+
+f) Un informe circunstanciado sobre el acto o resolución impugnados, en el que se expresará si el promovente del recurso tiene reconocida su personalidad ante el Consejo; y,
+
+g) Los demás elementos que estimen pertinentes para la resolución; y,
+
+II. Remitir, en su caso, al Consejo General los expedientes del cómputo de las elecciones de Diputados por el principio de representación proporcional y de Gobernador Constitucional del Estado.
+
+###### Artículo 261.
+
+Las presidencias de los Consejos Distritales y Municipales conservarán en su poder una copia certificada de todas las actas y documentación de cada uno de los expedientes de los cómputos distritales o municipales.
+
+Asimismo, tomarán las medidas necesarias para el depósito y salvaguarda de toda la documentación electoral, en el lugar que para tal efecto se determine, por el tiempo que sea necesario, hasta que el Consejo General acuerde su destrucción; cualquier acto que contravenga esta disposición, será sancionado en los términos de la legislación penal aplicable.
+
+### Capítulo XII. De la Calificación de las Elecciones
+
+###### Artículo 262.
+
+El Consejo General celebrará sesión el domingo siguiente al de la elección, para realizar el cómputo Estatal de las elecciones de Diputados por el principio de representación proporcional y de la Gubernatura.
+
+Al instalarse la sesión, se iniciará la elaboración de un acta circunstanciada, en la que se harán constar los resultados y los incidentes que ocurriesen durante su celebración.
+
+El cómputo se sujetará a las reglas siguientes:
+
+I. Se iniciará con la elección de Diputaciones por el principio de representación proporcional, bajo el siguiente procedimiento:
+
+a) Se tomará nota de los resultados que consten en cada una de las actas de cómputo distrital de esta elección;
+
+b) La suma de los resultados constituirá el cómputo estatal de la elección de Diputaciones por el principio de representación proporcional y se asentará en el acta correspondiente;
+
+c) Posteriormente, en los términos del artículo 24 de la Constitución Estatal, se procederá a la asignación de Diputaciones electos por el principio de representación proporcional mediante la fórmula y procedimiento determinado en este ordenamiento; y,
+
+II. Se continuará con la elección de la Gubernatura, bajo el siguiente procedimiento:
+
+a) Se tomará nota de los resultados que consten en cada una de las actas de cómputo distrital de esta elección;
+
+b) La suma de los resultados constituirá el cómputo estatal de la elección de la Gubernatura y se asentará en el acta correspondiente.
+
+(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+EN LO QUE SE REFIERE A LOS CÓMPUTOS ESTATALES DE LAS ELECCIONES DE DIPUTADOS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL Y DE LA GUBERNATURA, SOLO PROCEDERÁ EL RECUENTO DE VOTOS EN SEDE JURISDICCIONAL.
+
+###### Artículo 263.
+
+Al término de la sesión de cómputo y una vez firmadas las actas respectivas, la Presidencia del Consejo General procederá a hacer entrega de las constancias de asignación de Diputaciones electas por el principio de representación proporcional, así como de la constancia de mayoría al candidato a Gobernador que hubiese obtenido la mayoría de votos.
+
+Igualmente procederá a fijar en el exterior del local del Consejo General los resultados del cómputo de las elecciones de su competencia.
+
+###### Artículo 264.
+
+La presidencia del Consejo General, deberá integrar:
+
+I. El expediente del cómputo estatal de la elección de Diputaciones por el principio de representación proporcional, con:
+
+a) Los originales de las actas de escrutinio y cómputo de las casillas especiales;
+
+b) Los originales de las actas de cómputo distrital correspondiente a esta elección;
+
+c) El acta de cómputo estatal de la elección de Diputaciones por el principio de representación proporcional;
+
+d) El acta circunstanciada de la sesión de cómputo estatal; y,
+
+e) Un informe del presidente del Consejo General sobre el desarrollo del proceso electoral; y,
+
+II. El expediente del cómputo estatal de la elección de Gobernador Constitucional del Estado con:
+
+a) Las actas finales de escrutinio y cómputo de la elección de Gobernador de las casillas, incluidas las de casillas especiales;
+
+b) Los originales de las actas de cómputo distrital correspondiente a esta elección; y,
+
+c) El acta de cómputo estatal de la elección de la Gubernatura.
+
+###### Artículo 265.
+
+La Presidencia del Consejo General, una vez integrados los expedientes a que se refiere el artículo anterior procederá a:
+
+I. Remitir al Tribunal Electoral, cuando se hubiera interpuesto recurso de reconsideración en contra de la asignación de Diputaciones por el principio de representación proporcional y de inconformidad en contra del cómputo estatal de la elección de la Gubernatura los siguientes documentos:
+
+a) El escrito de recurso de inconformidad interpuesto;
+
+b) Los escritos de protesta y escritos de incidentes que obren en poder del Consejo General;
+
+c) Copia certificada del expediente del cómputo estatal de dicha elección;
+
+d) Las pruebas aportadas;
+
+e) Los escritos aportados por terceros interesados;
+
+f) Un informe circunstanciado sobre el acto o resolución impugnados, en el que se expresará si el promovente del recurso tiene reconocida su personalidad ante el Consejo General; y,
+
+g) Los demás elementos que estime pertinentes para la resolución; y,
+
+II. Una vez integrado los expedientes correspondientes al o los recursos interpuestos, deberán remitirlos al Tribunal Electoral y, en su caso, anexar el expediente de la elección o elecciones impugnadas.
+
+### Capítulo I. Sujetos Responsables
+
+###### Artículo 266.
+
+El Tribunal Electoral en pleno, realizará el cómputo final de la elección de la Gubernatura, una vez resueltas, en su caso, las impugnaciones que se hubieren interpuesto sobre la misma, procediendo a formular la declaración de validez de la elección y la de Gobernador Electo respecto del candidato que hubiese obtenido el mayor número de votos. La declaratoria se emitirá a más tardar la segunda quincena del mes de agosto y será remitida al Congreso del Estado para que expida el Bando Solemne, a fin de que el Gobernador Electo tome posesión de su cargo el día primero de noviembre inmediato.
+
+El Consejo General emitirá la constancia de validez de la elección de las Diputaciones de representación proporcional al final de la sesión del cómputo estatal para esta elección.
+
+###### Artículo 267.
+
+El Congreso del Estado, expedirá el Bando Solemne para dar a conocer en todo el Estado la Declaración de Gobernador Electo que hubiere hecho el Tribunal Electoral, una vez que el Tribunal Electoral del Poder Judicial de la Federación hubiere resuelto las impugnaciones, en el caso que las hubiere.
+
+El Bando Solemne se publicará en las cabeceras municipales.
+
+## TÍTULO SÉPTIMO. De los Regímenes Sancionador Electoral y Disciplinario Interno de las Infracciones Electorales y Sanciones
+
+### Capítulo II. Infracciones de los Partidos Políticos
+
+###### Artículo 268.
+
+En la sustanciación de los procedimientos sancionadores, se aplicarán supletoriamente en lo no previsto en esta Ley, la Ley del Sistema de Medios de Impugnación en Materia Electoral y de Participación Ciudadana del Estado de Sinaloa.
+
+###### Artículo 269.
+
+Son sujetos de responsabilidad por infracciones cometidas a las disposiciones electorales contenidas en esta ley:
+
+I. Los partidos políticos;
+
+II. Las y los aspirantes, precandidatos y candidatos a cargos de elección popular;
+
+III. Las y los ciudadanos o cualquier persona moral;
+
+IV. Las y los observadores electorales y organizaciones de observadores electorales;
+
+V. Las y los servidores públicos de cualquiera de los Poderes de la Unión; de los poderes locales; órganos de gobierno municipales; órganos autónomos, y cualquier otro ente público;
+
+VI. Las y los notarios públicos;
+
+VII. Los extranjeros;
+
+VIII. Las organizaciones de ciudadanos que pretendan formar un partido político;
+
+IX. Las organizaciones sindicales, laborales o patronales, o de cualquier otra agrupación con objeto social diferente a la creación de partidos políticos, así como sus integrantes o dirigentes, en lo relativo a la creación y registro de partidos políticos;
+
+X. Los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión o culto; y,
+
+XI. Los demás sujetos obligados en los términos de la presente ley.
+
+### Capítulo III. De las Infracciones de las y los Aspirantes, Precandidatos y Candidatos
+
+###### Artículo 270.
+
+Constituyen infracciones de los partidos políticos las siguientes:
+
+I. El incumplimiento de las obligaciones señaladas expresamente en la Ley General de Partidos Políticos, en la Ley General de Instituciones y Procedimientos Electorales, así como por lo dispuesto en esta ley;
+
+II. El incumplimiento de las resoluciones o acuerdos del Instituto;
+
+III. El incumplimiento de las obligaciones o incurrir en las conductas prohibidas o exceder los topes que en materia de financiamiento y fiscalización les impone la Ley General de Partidos Políticos, Ley General de Instituciones y Procedimientos Electorales y la presente ley;
+
+IV. No presentar los informes de precampaña o de campaña, o no atender los requerimientos de información en materia de Fiscalización de los recursos de los partidos políticos, en los términos y plazos previstos en la legislación aplicable en la materia;
+
+V. La realización anticipada de actos de precampaña o campaña atribuible a los propios partidos;
+
+VI. Exceder los topes de gastos de campaña;
+
+VII. La realización de actos de precampaña o campaña fuera del territorio del Estado, cuando se acredite plenamente que se hizo con consentimiento de aquéllos, sin perjuicio de que se determine la responsabilidad de quien hubiese cometido la infracción;
+
+VIII. El incumplimiento de las demás disposiciones previstas en esta ley y demás disposiciones jurídicas aplicables en materia de precampañas y campañas electorales;
+
+IX. La contratación, en forma directa o por terceras personas, de tiempo en cualquier modalidad en radio o televisión;
+
+(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DE LA PORCION NORMATIVA DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+X. La difusión de propaganda política o electoral que contenga expresiones que impliquen calumnia, INFAMIA, INJURIA, DIFAMACIÓN O QUE PUEDA DENIGRAR a los ciudadanos, a las personas morales y candidatos o que realicen actos de violencia de género tendentes a impedir el ejercicio pleno de sus derechos políticos electorales;
+
+XI. El incumplimiento de las obligaciones establecidas en la Legislación en materia de transparencia y acceso a la información;
+
+XII. El incumplimiento de las reglas establecidas para el manejo y comprobación de sus recursos o para la entrega de la información sobre el origen, monto y destino de los mismos;
+
+XIII. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto;
+
+XIV. El incumplimiento a su responsabilidad solidaria, de las obligaciones establecidas por la presente ley en materia de retiro de propaganda electoral de sus candidatos;
+
+XV. Realizar dolosamente propuestas de precampaña o campaña electoral que atenten contra el régimen democrático, incurran en falsedad o sean contrarias al régimen jurídico; y,
+
+XVI. La comisión de cualquier conducta que contravenga las disposiciones de esta ley.
+
+### Capítulo IV. De las Infracciones de los Ciudadanos, Miembros y Dirigentes de los Partidos Políticos
+
+###### Artículo 271.
+
+Constituyen infracciones de las y los aspirantes, precandidatos y candidatos de partido político a cargo de elección popular, las siguientes:
+
+I. La realización de actos anticipados de precampaña o campaña;
+
+II. En el caso de los aspirantes o precandidatos, solicitar o recibir recursos, en dinero o en especie, de personas no autorizadas por la ley;
+
+III. Omitir información de los recursos recibidos, en dinero o en especie, destinados a su precampaña o campaña;
+
+IV. No presentar el informe de gastos de precampaña o campaña a que obligan las leyes respectivas;
+
+V. Exceder el tope de gastos de precampaña o campaña establecidos;
+
+VI. El incumplimiento de las obligaciones establecidas por la presente ley en materia de retiro y borrado de propaganda electoral;
+
+(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DE LA PORCION NORMATIVA DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+VII. Realizar dolosamente propuestas de precampaña o campaña electoral que atenten contra el régimen democrático, incurran en falsedad o sean contrarias al régimen jurídico y proferir expresiones que impliquen calumnia, INFAMIA, INJURIA, DIFAMACIÓN O QUE PUEDA DENIGRAR a los ciudadanos, a las instituciones, a las personas morales y a los candidatos; y,
+
+VIII. El incumplimiento de cualquiera de las disposiciones contenidas en esta ley.
+
+###### Artículo 272.
+
+Constituyen infracciones de las y los aspirantes y Candidatos Independientes a cargos de elección popular, las siguientes:
+
+I. El incumplimiento de las obligaciones establecidas en esta ley y demás disposiciones jurídicas aplicables;
+
+II. La realización de actos anticipados de campaña;
+
+III. Solicitar o recibir recursos en efectivo o en especie, de personas no autorizadas por la ley;
+
+IV. Liquidar o pagar, así como aceptar la liquidación o el pago de actos u operaciones mediante el uso de efectivo o en especie;
+
+V. Utilizar recursos de procedencia ilícita para el financiamiento de cualquiera de sus actividades;
+
+VI. Recibir aportaciones y donaciones en efectivo o en especie de cualquier persona física o moral;
+
+VII. No presentar los informes que correspondan para obtener el apoyo ciudadano y de campaña establecidos en esta ley;
+
+VIII. Exceder el tope de gastos para obtener el apoyo ciudadano y de campaña establecidos;
+
+IX. No reembolsar los recursos provenientes del financiamiento público no ejercidos durante las actividades de campaña;
+
+X. El incumplimiento de las resoluciones y acuerdos del Instituto;
+
+XI. La contratación, en forma directa o por terceras personas, de tiempo en cualquier modalidad en radio o televisión;
+
+XII. La obtención de bienes inmuebles con recursos provenientes del financiamiento público o privado;
+
+(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DE LA PORCION NORMATIVA DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+XIII. La difusión de propaganda política o electoral que contenga expresiones que impliquen calumnia, INFAMIA, INJURIA, DIFAMACIÓN O QUE PUEDA DENIGRAR a los ciudadanos, a las instituciones, a las personas morales y a los candidatos;
+
+XIV. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos Instituto; y,
+
+XV. El incumplimiento de cualquiera de las disposiciones contenidas en esta ley y demás disposiciones aplicables.
+
+### Capítulo V. De las Infracciones de los Observadores Electorales y sus Organizaciones
+
+###### Artículo 273.
+
+Constituyen infracciones de las y los ciudadanos, de los dirigentes y miembros en cualquiera de las modalidades que prevea la normatividad estatutaria de los partidos políticos, así como de las personas morales, las siguientes:
+
+I. No entregar la información requerida por el Instituto en términos de ley, entregarla en forma incompleta o con datos falsos, o fuera de los plazos que señale el requerimiento, respecto de las operaciones mercantiles, los contratos que celebren, los donativos o aportaciones que realicen, o cualquiera otro acto que los vincule con los partidos políticos, los aspirantes, precandidatos o candidatos a cargos de elección popular;
+
+II. Contratar o adquirir propaganda en radio y televisión, dentro y fuera del territorio del Estado, dirigida a la promoción personal con fines políticos o electorales, a influir en las preferencias electorales de los ciudadanos, o a favor o en contra de partidos políticos o de candidatos a cargos de elección popular;
+
+III. Las y los ciudadanos que realicen actos anticipados de precampaña o tendentes a obtener el apoyo ciudadano, según sea el caso, antes o después del inicio de un proceso electoral local ordinario, hasta la fecha en que conforme a la normatividad legal y estatutaria de los partidos, puedan tener la calidad de aspirante, ya sea, en algún proceso interno de postulación de candidatos a cargo de elección popular de partido político, o bien como candidato independiente;
+
+IV. La promoción de quejas frívolas.
+
+Para tales efectos, se entenderá como quejas frívolas:
+
+a) Aquéllas que se promuevan respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la queja;
+
+b) Las quejas o promociones en las cuales se formulen pretensiones que no se pueden alcanzar jurídicamente, por ser notorio y evidente que no se encuentran al amparo del derecho;
+
+c) Aquéllas que refieran hechos que resulten falsos o inexistentes de la sola lectura cuidadosa del escrito y no se presenten las pruebas mínimas para acreditar su veracidad;
+
+d) Aquéllas que se refieran a hechos que no constituyan una falta o violación electoral; y,
+
+e) Aquéllas que únicamente se fundamenten en notas de opinión periodística o de carácter noticioso, que generalicen una situación, sin que por otro medio se pueda acreditar su veracidad.
+
+La sanción que se imponga, en su caso, deberá de valorar el grado de frivolidad de la queja y el daño que se podría generar con la atención de este tipo de quejas a los organismos electorales; y,
+
+V. El incumplimiento de cualquiera de las disposiciones contenidas en esta ley.
+
+### Capítulo VI. De las Infracciones de Servidores Públicos
+
+###### Artículo 274.
+
+Constituyen infracciones de las organizaciones de observadores electorales y de los observadores electorales las siguientes:
+
+I. Sustituir u obstaculizar a las autoridades electorales en el ejercicio de sus funciones e interferir en el desarrollo de las mismas;
+
+II. Hacer proselitismo de cualquier tipo o manifestarse en favor de partido o candidato alguno;
+
+(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DE LA PORCION NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+III. Externar cualquier expresión de OFENSA, DIFAMACIÓN O calumnia en contra de las instituciones, autoridades electorales, partidos políticos o candidatos; y,
+
+IV. Declarar el triunfo de algún candidato o partido político.
+
+### Capítulo VII. De las Infracciones de los Notarios Públicos
+
+###### Artículo 275.
+
+Constituyen infracciones a la presente ley de las y los servidores públicos de cualquiera de los Poderes de la Unión, de los poderes locales, órganos de gobiernos municipales, órganos autónomos y cualquier otro ente público, las siguientes:
+
+I. La omisión o el incumplimiento de la obligación de prestar colaboración y auxilio o de proporcionar, en tiempo y forma, la información que le sea solicitada, en términos de ley, por los órganos del Instituto;
+
+II. La difusión por cualquier medio, de propaganda gubernamental dentro del periodo que comprende desde el inicio de las campañas electorales hasta la conclusión de la jornada electoral. Se exceptúa de esta prohibición, la difusión de la información relativa a servicios educativos y de salud, o la necesaria para la protección civil en casos de emergencia;
+
+III. El incumplimiento del principio de imparcialidad en la aplicación de los recursos públicos, cuando tal conducta pudiere afectar la equidad de la competencia entre los partidos políticos, entre los aspirantes, precandidatos o candidatos durante los procesos electorales;
+
+IV. La utilización de programas sociales y de sus recursos, del ámbito federal, estatal, municipal, o del Distrito Federal, con la finalidad de inducir en cualquier forma o coaccionar a los ciudadanos para votar a favor o en contra de cualquier partido político o candidato; y,
+
+V. El incumplimiento de cualquiera de las disposiciones contenidas en esta ley y demás disposiciones jurídicas aplicables.
+
+### Capítulo VIII. De las Infracciones de los Extranjeros
+
+###### Artículo 276.
+
+Constituyen infracciones a la presente ley, de las y los notarios públicos, el incumplimiento de las obligaciones de mantener abiertas sus oficinas el día de la elección y de atender las solicitudes que les hagan las autoridades electorales, los funcionarios de casilla, los ciudadanos, los representantes de partidos políticos y candidatos independientes, para dar fe de hechos o certificar documentos concernientes a la elección.
+
+### Capítulo IX. De las Infracciones de Organizaciones de Ciudadanos que pretendan formar Partidos Políticos
+
+###### Artículo 277.
+
+Constituyen infracciones de los extranjeros a la presente ley las conductas que violen lo dispuesto por el artículo 33 de la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables.
+
+### Capítulo X. De las Infracciones de Organizaciones Sindicales, Laborales o Patronales
+
+###### Artículo 278.
+
+Constituyen infracciones a la presente ley de las organizaciones de ciudadanos que pretendan constituir partidos políticos:
+
+I. No informar mensualmente al Instituto del origen y destino de los recursos que obtengan para el desarrollo de las actividades tendientes a la obtención del registro;
+
+II. Permitir que en la creación del partido político intervengan organizaciones gremiales u otras con objeto social diferente a dicho propósito; y,
+
+III. Realizar o promover la afiliación colectiva de ciudadanos a la organización o al partido para el que se pretenda registro.
+
+### Capítulo XI. De las Infracciones de los Ministros de Culto, Asociaciones o Agrupaciones de Cualquier Religión
+
+###### Artículo 279.
+
+Constituyen infracciones a esta ley de las organizaciones sindicales, laborales o patronales, o de cualquier otra agrupación con objeto social diferente a la creación de partidos políticos, así como de sus integrantes o dirigentes, actuar u ostentarse indebidamente con el carácter de organización o partido político, o cuando dispongan de los recursos patrimoniales de su organización para dichos fines, los siguientes:
+
+I. Intervenir en la creación y registro de un partido político o en actos de afiliación colectiva a los mismos; y,
+
+II. El incumplimiento, de cualquiera de las disposiciones contenidas en esta ley.
+
+### Capítulo XII. De las Sanciones
+
+###### Artículo 280.
+
+Constituyen infracciones a esta ley de los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión o culto, las siguientes:
+
+I. La inducción a la abstención, a votar por un candidato o partido político, o a no hacerlo por cualquiera de ellos, en los lugares destinados al culto, en locales de uso público o en los medios de comunicación;
+
+II. Realizar o promover aportaciones económicas a un partido político, aspirante, precandidato o candidato a cargo de elección popular; y,
+
+III. Incurrir en cualquier conducta que les sea prohibida por esta ley.
+
+### Capítulo I. Disposiciones Generales
+
+### Capítulo II. Del Procedimiento Sancionador Ordinario
+
+###### Artículo 281.
+
+Las infracciones señaladas en los artículos anteriores serán sancionadas conforme a lo siguiente:
+
+I. Respecto de los partidos políticos:
+
+a) Con amonestación pública;
+
+b) Con multa de cien hasta diez mil días de salario mínimo general vigente en el Estado, según la gravedad de la falta;
+
+c) Con hasta un tanto del monto ejercido en exceso, en los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes, o de los candidatos para sus propias campañas.
+
+En caso de reincidencia, la sanción será de hasta dos tantos;
+
+d) Con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público para actividades ordinarias que les corresponda, por el periodo que señale la resolución, dependiendo de la gravedad de la falta; y,
+
+e) Cancelación del registro si se trata de partidos políticos locales, o la supresión total hasta por tres años del financiamiento público para actividades ordinarias si se trata de partidos políticos nacionales acreditados, en los casos de graves y reiteradas conductas violatorias de la Constitución Política de los Estados Unidos Mexicanos, de las leyes aplicables y de esta ley, especialmente en cuanto a sus obligaciones en materia de origen y destino de sus recursos;
+
+II. Respecto de las y los aspirantes, precandidatos o candidatos a cargos de elección popular:
+
+a) Con amonestación pública;
+
+b) Con multa de cincuenta hasta cinco mil días de salario mínimo general vigente en la Entidad; y,
+
+c) Tratándose del aspirante, con la pérdida del derecho a ser registrado como precandidato y con la pérdida del derecho del precandidato infractor a ser registrado como candidato, o con la cancelación si ya estuviere registrado. Cuando las infracciones cometidas por aspirantes o precandidatos a cargos de elección popular sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate. Cuando el precandidato resulte electo en el proceso interno, el partido político no podrá registrarlo como candidato.
+
+III. Respecto de las y los ciudadanos, de los dirigentes y miembros de los partidos políticos, o de cualquiera persona física o moral:
+
+a) Con amonestación pública a los dirigentes y miembros de los partidos políticos;
+
+b) Con multa de cincuenta hasta mil días de salario mínimo general vigente en el Estado a los dirigentes y miembros de los partidos políticos o a cualquier otra persona física o moral en el caso de aportaciones a partidos político o candidatos que violen lo dispuesto en esta ley;
+
+c) Respecto de los ciudadanos, de los dirigentes y miembros de los partidos políticos, o cualquier persona moral, con amonestación pública y en caso de reincidencia, con multa de cincuenta hasta dos mil días de salario mínimo general vigente en el Estado, en el caso de que promuevan una queja frívola; y,
+
+d) Respecto de los ciudadanos que realicen actos anticipados de precampaña o tendentes a obtener el apoyo ciudadano, según sea el caso, durante el lapso que va desde antes o después del inicio de un proceso electoral local ordinario, hasta la fecha en que conforme a la normatividad legal y estatutaria de los partidos, puedan tener la calidad de aspirante, ya sea, en algún proceso interno de postulación de candidatos a cargo de elección popular de partido político, o bien como candidato independiente. Por la comisión de esta infracción, se aplicará multa de cincuenta a cinco mil días de salario mínimo general vigente en el Estado, perdiendo además el infractor, la posibilidad de participar en un proceso interno de postulación de candidato de algún partido o como aspirante a candidato independiente, según sea el caso.
+
+Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones; y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones;
+
+IV. Respecto de las organizaciones de observadores electorales y de los observadores electorales:
+
+a) Con amonestación pública;
+
+b) Con la cancelación inmediata de la acreditación como observadores electorales y la inhabilitación para acreditarlos como tales en al menos dos procesos electorales locales; y,
+
+c) Con multa de cincuenta hasta doscientos días de salario mínimo general vigente en el Estado;
+
+V. Respecto de las organizaciones de ciudadanos que pretendan constituir partidos políticos:
+
+a) Con amonestación pública;
+
+b) Con multa de cincuenta hasta cinco mil días de salario mínimo general vigente en el Estado, según la gravedad de la falta; y
+
+c) Con la cancelación del procedimiento tendente a obtener el registro como partido político estatal.
+
+VI. Respecto de las organizaciones sindicales, laborales o patronales, o de cualquier otra agrupación con objeto social diferente a la creación de partidos políticos, así como sus integrantes o dirigentes, en lo relativo a la creación y registro de partidos políticos:
+
+a) Con amonestación pública; y
+
+b) Con multa de cincuenta hasta cinco mil días de salario mínimo general vigente en el Estado, según la gravedad de la falta; y,
+
+VII. Respecto de las y los Aspirantes y Candidatos Independientes:
+
+a) Con amonestación pública;
+
+b) Con multa de cincuenta hasta cinco mil días de salario mínimo general vigente en el Estado;
+
+c) Con la pérdida del derecho del aspirante a ser registrado como Candidato Independiente o, en su caso, si ya hubiera sido registrado, con la cancelación del mismo;
+
+d) En caso de que el aspirante omita informar y comprobar a la unidad de fiscalización del Instituto Nacional Electoral los gastos tendentes a recabar el apoyo ciudadano, no podrá ser registrado en las dos elecciones subsecuentes, independientemente de las responsabilidades que, en su caso, le resulten en términos de la legislación aplicable; y,
+
+e) En caso de que el Candidato Independiente omita informar y comprobar a la unidad de fiscalización del Instituto Nacional Electoral los gastos de campaña y no los reembolse, no podrá ser registrado como candidato en las dos elecciones subsecuentes, independientemente de las responsabilidades que, en su caso, le resulten en términos de la legislación aplicable.
+
+###### Artículo 282.
+
+Cuando las y los servidores públicos federales, estatales o municipales incumplan las disposiciones de esta ley, se estará a lo siguiente:
+
+I. Conocida la infracción, la Secretaría Ejecutiva integrará un expediente que será remitido a la autoridad competente, para que éste proceda en los términos de ley; y
+
+II. En todo caso, la autoridad competente ordenará las medidas cautelares a fin de que la conducta infractora cese de inmediato.
+
+###### Artículo 283.
+
+Cuando el Instituto tenga conocimiento del incumplimiento por parte de los notarios públicos a las obligaciones que la presente Ley les impone, la Secretaría Ejecutiva integrará un expediente que remitirá a la autoridad competente para que proceda en los términos de la legislación aplicable; estos últimos deberán comunicar al Instituto, dentro del plazo de un mes, las medidas que haya adoptado y las sanciones impuestas. En todo caso, la autoridad competente ordenará las medidas cautelares a fin de que la conducta infractora cese de inmediato.
+
+###### Artículo 284.
+
+Cuando el Instituto tenga conocimiento de que un extranjero, por cualquier forma, pretenda inmiscuirse o se inmiscuya en asuntos políticos, tomará las medidas conducentes y procederá a informar de inmediato y sin realizar mayor trámite a la Secretaría de Gobernación, para los efectos previstos por la ley. Si el infractor se encuentra fuera del territorio nacional, el Instituto procederá a informar a la Secretaría de Relaciones Exteriores para los efectos a que haya lugar.
+
+###### Artículo 285.
+
+Cuando el Instituto tenga conocimiento de la comisión de una infracción por parte de los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión, informará de inmediato y sin realizar mayor trámite a la Secretaría de Gobernación para los efectos legales conducentes.
+
+###### Artículo 286.
+
+Para la individualización de las sanciones a que se refiere este capítulo, una vez acreditada la existencia de una infracción y su imputación, la autoridad electoral deberá tomar en cuenta las circunstancias que rodean la contravención de la norma administrativa, entre otras, las siguientes:
+
+I. La gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones de esta Ley, en atención al bien jurídico tutelado, o las que se dicten con base en él;
+
+II. Las circunstancias de modo, tiempo y lugar de la infracción;
+
+III. Las condiciones socioeconómicas del infractor;
+
+IV. Las condiciones externas y los medios de ejecución;
+
+V. La reincidencia en el incumplimiento de obligaciones, y
+
+VI. En su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
+
+###### Artículo 287.
+
+Se considerará reincidente al infractor que habiendo sido declarado responsable del incumplimiento de alguna de las obligaciones a que se refiere la presente Ley, incurra nuevamente en la misma conducta infractora al presente ordenamiento legal.
+
+###### Artículo 288.
+
+Las multas deberán ser pagadas al área encargada de la administración del Instituto; si el infractor no cumple con su obligación, el Instituto dará vista a las autoridades hacendarias a efecto de que procedan a su cobro conforme a la legislación aplicable. En el caso de los partidos políticos, el monto de las mismas se restará de sus ministraciones de gasto ordinario conforme a lo que se determine en la resolución.
+
+Los recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador electoral considerados en este Título, serán destinados al Instituto de Apoyo a la Investigación e Innovación de Sinaloa.
+
+Las multas que se impongan a los sujetos del régimen sancionador electoral, que no hubiesen sido impugnadas, o bien, que fuesen confirmadas por el Tribunal Electoral, deberán ser pagadas en el área encargada de la Administración del Instituto, en un plazo improrrogable de quince días contados a partir de la notificación; si el infractor no cumple con su obligación, el órgano electoral dará vista a las autoridades hacendarias a efecto de que procedan a su cobro conforme la legislación aplicable. En el caso de los partidos políticos, transcurrido el plazo sin que el pago se hubiere efectuado, se deducirá el monto de la multa de la siguiente ministración del financiamiento público que le corresponda.
+
+## TÍTULO OCTAVO. Del Procedimiento Sancionador
+
+### Capítulo III. Del Procedimiento Sancionador Especial
+
+###### Artículo 289.
+
+Son órganos competentes para la tramitación de los procedimientos sancionadores ordinario y especial:
+
+I. El Consejo General;
+
+II. La Comisión de Quejas; y
+
+III. La Secretaría Ejecutiva del Consejo General.
+
+El Tribunal Electoral será el órgano competente para la resolución de los procedimientos sancionadores ordinario y especial.
+
+Los Consejos Distritales y Municipales, en sus respectivos ámbitos de competencia fungirán como órganos auxiliares para la tramitación de los procedimientos sancionadores, salvo lo establecido en el artículo 183 de esta ley.
+
+La Comisión mencionada en la fracción II de este artículo se integrará por tres Consejeros Electorales, quienes serán designados por el Consejo General para un periodo de tres años. Sus sesiones y procedimientos serán determinados en el reglamento que al efecto apruebe el propio Consejo General.
+
+###### Artículo 290.
+
+Las notificaciones se harán a más tardar dentro de los tres días hábiles siguientes al en que se dicten las resoluciones que las motiven y surtirán sus efectos al día siguiente en que fueron realizadas.
+
+Cuando la resolución entrañe una citación o un plazo para la práctica de una diligencia se notificará personalmente, al menos con tres días hábiles de anticipación al día y hora en que se haya de celebrar la actuación o audiencia. Las demás se harán por cédula que se fijará en los estrados del órgano que emita la resolución de que se trate. En todo caso, las que se dirijan a una autoridad u órgano partidario se notificarán por oficio.
+
+Las notificaciones personales se realizarán en días y horas hábiles, al interesado o por conducto de la persona autorizada para tal efecto.
+
+Se notificará de manera personal el primer acuerdo o resolución a alguna de las partes, el emplazamiento al procedimiento y la resolución del mismo, así como las demás que se determinen en la normatividad aplicable.
+
+Cuando deba realizarse una notificación personal, el notificador deberá cerciorarse, por cualquier medio, que la persona que deba ser notificada tiene su domicilio en el inmueble designado y, después de ello, practicará la diligencia entregando copia autorizada de la resolución correspondiente, de todo lo cual se asentará razón en actuaciones.
+
+Si no se encuentra al interesado en su domicilio se le dejará citatorio con cualquiera de las personas que allí se encuentren, el que contendrá:
+
+I. Denominación del órgano que dictó la resolución que se pretende notificar;
+
+II. Datos del expediente;
+
+III. Extracto de la resolución que se notifica;
+
+IV. Día y hora en que se deja el citatorio y nombre de la persona a la que se le entrega; y,
+
+V. El señalamiento del día y la hora en la que deberá esperar la notificación.
+
+Al día siguiente, en la hora fijada en el citatorio, el notificador se constituirá nuevamente en el domicilio y si el interesado no se encuentra, se hará la notificación por estrados, de todo lo cual se asentará la razón correspondiente.
+
+Si el destinatario se niega a recibir la notificación, o las personas que se encuentran en el domicilio se rehúsan a recibir el citatorio, o no se encuentra nadie en el lugar, la cédula de citación se fijará en la puerta de entrada, procediendo a realizar la notificación por estrados, asentando razón de ello en actuaciones.
+
+Las notificaciones personales podrán realizarse por comparecencia del interesado, de su representante o de su autorizado ante el órgano que corresponda.
+
+La notificación de las resoluciones que pongan fin al procedimiento de investigación será personal, se hará a más tardar dentro de los tres días hábiles siguientes de aquel en que se dicten, entregando al quejoso y al denunciado copia certificada de la resolución.
+
+Los plazos se contarán de momento a momento, si están señalados por días, éstos se considerarán de veinticuatro horas. Durante los procesos electorales todos los días y horas son hábiles. En el caso de los procedimientos incoados fuera del proceso electoral, los plazos se computarán por días hábiles.
+
+###### Artículo 291.
+
+Son objeto de prueba los hechos controvertidos. No lo será el derecho, los hechos notorios o imposibles, ni aquellos que hayan sido reconocidos, se podrán invocar los hechos notorios aunque no hayan sido alegados por el denunciado o por el quejoso. En todo caso, una vez que se haya apersonado el denunciado al procedimiento de investigación, en el desahogo de las pruebas se respetará el principio de contradicción de la prueba, siempre que ello no signifique la posibilidad de demorar el proceso, o el riesgo de que se oculte o destruya el material probatorio.
+
+Las pruebas deberán ofrecerse en el primer escrito que presenten las partes en el procedimiento, expresando con toda claridad cuál es el hecho o hechos que tratan de acreditar, así como las razones por las que se estima que demostrarán las afirmaciones vertidas.
+
+Sólo serán admitidas las siguientes pruebas:
+
+I. Documentales públicas;
+
+II. Documentales privadas;
+
+III. Técnicas;
+
+IV. Pericial contable;
+
+V. Presuncional legal y humana; y
+
+VI. Instrumental de actuaciones.
+
+La confesional y la testimonial podrán ser admitidas cuando se ofrezcan en acta levantada ante fedatario público que las haya recibido directamente de los declarantes, y siempre que estos últimos queden debidamente identificados y asienten la razón de su dicho.
+
+La autoridad que sustancie el procedimiento podrá ordenar el desahogo de reconocimientos o inspecciones, así como de pruebas periciales, cuando la violación reclamada lo amerite, los plazos permitan su desahogo y se estimen determinantes para el esclarecimiento de los hechos denunciados.
+
+Las partes podrán aportar pruebas supervenientes hasta antes del cierre de la instrucción.
+
+Admitida una prueba superveniente, se dará vista a las partes, según corresponda, para que en el plazo de cinco días manifiesten lo que a su derecho convenga.
+
+La Secretaría o el Consejo General podrán admitir aquellas pruebas que habiendo sido ofrecidas en el escrito por el que se comparezca al procedimiento, hayan sido solicitadas previamente a las instancias correspondientes y no se hubiesen aportado antes de la aprobación del proyecto de resolución y se aporten hasta veinticuatro horas antes del inicio de la sesión respectiva. El Consejo General apercibirá a las autoridades que no atiendan en tiempo y forma, el requerimiento de las pruebas.
+
+El Consejo General podrá admitir aquellos elementos probatorios que hayan sido solicitados por los órganos del Instituto dentro de la investigación correspondiente y no se hubiesen recibido, sino hasta veinticuatro horas antes de la sesión respectiva.
+
+Los órganos que sustancien el procedimiento podrán hacer uso de los medios de apremio para hacer cumplir sus resoluciones.
+
+###### Artículo 292.
+
+Las pruebas admitidas y desahogadas serán valoradas en su conjunto, atendiendo a las reglas de la lógica, la experiencia y de la sana crítica, así como a los principios rectores de la función electoral, con el objeto de que produzcan convicción sobre la veracidad de los hechos denunciados.
+
+Las documentales públicas tendrán valor probatorio pleno, salvo prueba en contrario respecto de su autenticidad o de la veracidad de los hechos a que se refieran.
+
+Las documentales privadas, técnicas, periciales, e instrumental de actuaciones, así como aquellas en las que un fedatario haga constar las declaraciones de alguna persona debidamente identificada, sólo harán prueba plena cuando a juicio del órgano competente para resolver generen convicción sobre la veracidad de los hechos afirmados, al concatenarse con los demás elementos que obren en el expediente, las afirmaciones de las partes, la verdad conocida y el recto raciocinio de la relación que guardan entre sí.
+
+En el caso de existir imposibilidad material para compulsar las copias simples que obren en el expediente, éstas tendrán únicamente el valor de un indicio.
+
+###### Artículo 293.
+
+Para la resolución expedita de las quejas con el objeto de determinar en una sola resolución sobre dos o más de ellas, procederá decretar la acumulación por litispendencia, conexidad, o cuando exista vinculación de dos o más expedientes de procedimientos porque existan varias quejas contra un mismo denunciado, respecto de una misma conducta y provengan de una misma causa.
+
+###### Artículo 294.
+
+El procedimiento para el conocimiento de las infracciones y aplicación de sanciones administrativas podrá iniciar a instancia de parte, o de oficio cuando cualquier órgano del Instituto tenga conocimiento de la comisión de conductas infractoras.
+
+La facultad de la autoridad electoral para fincar responsabilidades por infracciones administrativas prescribe en el término de tres años, contados a partir de la comisión de los hechos o que se tenga conocimiento de los mismos.
+
+###### Artículo 295.
+
+Cualquier persona podrá presentar quejas por presuntas violaciones a la normatividad electoral ante los órganos del Instituto; las personas morales lo harán por medio de sus legítimos representantes, en términos de la legislación aplicable; y, las personas físicas lo harán por su propio derecho, debiendo ser ratificadas las quejas ante el Secretario Ejecutivo.
+
+La queja podrá ser presentada por escrito en forma oral o por medios de comunicación electrónicos y deberá cumplir con los siguientes requisitos:
+
+I. Nombre del quejoso, con firma autógrafa o huella digital;
+
+II. Domicilio para oír y recibir notificaciones;
+
+III. Los documentos que sean necesarios para acreditar la personalidad;
+
+IV. Narración expresa y clara de los hechos en que se basa la queja y de ser posible, los preceptos presuntamente violados;
+
+V. Ofrecer y aportar las pruebas con que cuente; o en su caso, mencionar las que habrán de requerirse, cuando el promovente acredite que oportunamente las solicitó por escrito al órgano competente, y no le hubieren sido entregadas. El quejoso deberá relacionar las pruebas con cada uno de los hechos; y,
+
+VI. Los partidos políticos deberán presentar las quejas por escrito. En caso de que los representantes no acrediten su personalidad, la queja se tendrá por no presentada.
+
+Salvo la hipótesis contenida en la última parte del párrafo siguiente, ante la omisión de cualquiera de los requisitos antes señalados, la Secretaría prevendrá al promovente para que la subsane dentro del plazo improrrogable de tres días. De la misma forma lo prevendrá para que aclare su queja, cuando ésta sea imprecisa, vaga o genérica. En caso de no enmendar la omisión que se le requiera, se tendrá por no presentada la queja.
+
+La autoridad que tome conocimiento de la interposición de una queja por comparecencia o por medios de comunicación electrónicos, deberá hacerla constar en acta, requiriendo la ratificación por parte del promovente sólo cuando se presente por medio de comunicación electrónica. En caso de no acudir a ratificar la queja dentro del término de tres días contados a partir de que se le notifique la citación, se tendrá por no formulada la queja.
+
+La queja podrá ser formulada ante cualquiera de los Consejos del Instituto, debiendo ser remitida dentro del término de cuarenta y ocho horas a la Secretaría Ejecutiva para su trámite, salvo que se requiera de la ratificación por parte del quejoso; supuesto en el que será remitida una vez ratificada o, en su caso, cuando haya concluido el plazo para ello.
+
+Los Consejos Distritales y Municipales que reciban una queja sobre cualquier materia, procederán a enviar el escrito a la Secretaría Ejecutiva dentro del plazo señalado en el párrafo anterior, debiendo realizarlas acciones necesarias para impedir el ocultamiento, menoscabo o destrucción de pruebas, así como para allegarse de elementos probatorios adicionales que estimen necesarios para la investigación, sin que dichas medidas impliquen el inicio anticipado de la misma.
+
+El Consejo del Instituto que reciba la queja la remitirá inmediatamente a la Unidad Técnica de lo Contencioso de la Secretaría Ejecutiva, para que ésta resuelva lo conducente.
+
+Recibida la queja, la Secretaría Ejecutiva procederá a:
+
+I. Su registro, debiendo informar de su presentación al Consejo General;
+
+II. Su revisión para determinar si debe prevenir al quejoso;
+
+III. Su análisis para determinar la admisión o desechamiento; y,
+
+IV. En su caso, determinar y solicitar las diligencias necesarias para el desarrollo de la investigación.
+
+La Secretaría Ejecutiva contará con un plazo de cinco días para emitir el acuerdo de admisión o propuesta de desechamiento, contado a partir del día en que reciba la queja. En caso de que se hubiere prevenido al quejoso, a partir de la fecha en la que termine el plazo para su cumplimiento.
+
+###### Artículo 296.
+
+La queja será improcedente cuando:
+
+I. Se trate de quejas que versen sobre presuntas violaciones a la normatividad interna de un partido político, y el quejoso no acredite su pertenencia al partido de que se trate o su interés jurídico;
+
+II. El quejoso no haya agotado previamente las instancias internas del partido denunciado si la queja versa sobre presuntas violaciones a su normatividad interna;
+
+III. Por actos o hechos imputados a la misma persona que hayan sido materia de otra queja a la que haya recaído resolución del Consejo General respecto al fondo y ésta no se hubiere impugnado ante el Tribunal Electoral, o habiendo sido impugnada haya sido confirmada por el mismo Tribunal Electoral; y,
+
+IV. Se denuncien actos de los que el Instituto resulte incompetente para conocer; o cuando los actos, hechos u omisiones denunciados no constituyan violaciones a la presente ley.
+
+###### Artículo 297.
+
+Procederá el sobreseimiento de la queja, cuando:
+
+I. Habiendo sido admitida la queja, sobrevenga alguna de las causales de improcedencia;
+
+II. El denunciado sea un partido político que haya perdido el registro con posterioridad a la admisión de la queja; y,
+
+III. El quejoso presente escrito de desistimiento debidamente ratificado ante la Secretaría Ejecutiva del Consejo siempre y cuando lo exhiba antes de la aprobación del proyecto de resolución por parte de la Secretaría y que a juicio de ésta, o por el avance de la investigación, no se trate de la imputación de hechos graves, ni se vulneren los principios rectores de la función electoral.
+
+###### Artículo 298.
+
+El estudio de las causas de improcedencia o sobreseimiento de la queja se realizará de oficio. La Secretaría Ejecutiva elaborará el proyecto de resolución, en caso de advertir que se actualiza una de ellas.
+
+Cuando durante la sustanciación de una investigación la Secretaría Ejecutiva advierta hechos distintos al objeto de ese procedimiento que puedan constituir distintas violaciones electorales, o la responsabilidad de actores diversos a los denunciados, de oficio podrá ordenar un nuevo procedimiento de investigación.
+
+La Secretaría Ejecutiva llevará un registro de las quejas desechadas e informará de ello al Consejo.
+
+###### Artículo 299.
+
+Admitida la queja la Secretaría Ejecutiva emplazará al denunciado, sin perjuicio de ordenar las diligencias de investigación que estime necesarias. Con la primera notificación al denunciado se le correrá traslado con una copia de la queja, así como de las pruebas que haya aportado el quejoso o que la autoridad a prevención hubiera obtenido, concediéndole un plazo de cinco días para que conteste respecto a las imputaciones que se le formulan. La omisión de contestar sobre dichas imputaciones únicamente tiene como efecto la preclusión de su derecho a ofrecer pruebas, sin generar presunción respecto a la veracidad de los hechos denunciados.
+
+El escrito de contestación deberá cumplir con los siguientes requisitos:
+
+I. Nombre del denunciado o su representante, con firma autógrafa o huella digital;
+
+II. Deberá referirse a los hechos que se le imputan, afirmándolos, negándolos o declarando que los desconoce;
+
+III. Domicilio para oír y recibir notificaciones;
+
+IV. Los documentos que sean necesarios para acreditar la personalidad; y,
+
+V. Ofrecer y aportar las pruebas con que cuente debiendo relacionarlas con los hechos; o en su caso, mencionar las que habrán de requerirse por estar en poder de una autoridad y que no le haya sido posible obtener. En este último supuesto, el oferente deberá acreditar que dichas pruebas fueron solicitadas con anterioridad a la presentación de la queja e identificarlas con toda precisión.
+
+###### Artículo 300.
+
+La investigación para el conocimiento cierto de los hechos se realizará por el Instituto de forma seria, congruente, idónea, eficaz, expedita, completa y exhaustiva.
+
+Una vez que la Secretaría Ejecutiva tenga conocimiento de los hechos denunciados, dictará de inmediato las medidas necesarias para dar fe de los mismos; para impedir que se pierdan, destruyan o alteren las huellas o vestigios, y en general para evitar que se dificulte la investigación.
+
+Admitida la queja, la Secretaría Ejecutiva, se allegará de los elementos de convicción que estime pertinentes para integrar el expediente respectivo.
+
+El plazo para llevar a cabo la investigación no podrá exceder de cuarenta días, contados a partir de la recepción del escrito de queja en la Secretaría Ejecutiva o del inicio de oficio del procedimiento por parte del Secretario. Dicho plazo podrá ser ampliado de manera excepcional por una sola vez, hasta por un periodo igual al antes señalado, mediante acuerdo debidamente fundado y motivado que emita la Secretaría Ejecutiva.
+
+Si dentro del plazo fijado para la admisión de la queja la Secretaría Ejecutiva valora que deben dictarse medidas cautelares, se acordara lo conducente a fin lograr que cesen los actos o hechos que constituyan la infracción, evitar la producción de daños irreparables, la afectación de los principios que rigen los procesos electorales, o la vulneración de los bienes jurídicos tutelados por las disposiciones contenidas en esta ley.
+
+El Secretario Ejecutivo del Consejo General podrá solicitar a las autoridades federales, estatales o municipales, los informes, certificaciones o el apoyo necesario para la realización de diligencias tendientes a indagar y verificar la certeza de los hechos denunciados. Con la misma finalidad podrá requerir a las personas físicas y morales la entrega de informes y pruebas que considere necesarias.
+
+Las diligencias que se practiquen en el curso de la investigación deberán ser efectuadas por la Secretaría Ejecutiva, o a través del servidor público en quien legalmente se pueda delegar dicha facultad, por los Consejeros Presidentes de los Consejos Distritales o Municipales los que excepcionalmente podrán designar al Secretario del Consejo Distrital o Municipal, según corresponda, para que lleven a cabo dichas diligencias. En todo caso, los Consejeros Presidentes serán responsables del debido ejercicio de la función indagatoria.
+
+###### Artículo 301.
+
+Concluido el desahogo de las pruebas y, en su caso, agotada la investigación, la Secretaría pondrá el expediente a la vista del quejoso y del denunciado para que en un plazo de cinco días, manifiesten lo que a su derecho convenga. Transcurrido dicho plazo, en un término no mayor a diez días contados a partir del desahogo de la última vista formulará el proyecto de resolución. El Secretario podrá ampliar el plazo para resolver mediante acuerdo en el que se señalen las causas que lo motiven; la ampliación no podrá exceder de diez días.
+
+El proyecto de resolución que formule la Secretaría será enviado a la Comisión de Quejas, dentro del término de tres días, para su conocimiento y estudio.
+
+El Consejero Electoral Titular de la citada Comisión, a más tardar al día siguiente de la recepción del dictamen, convocará a los demás integrantes a sesión, la que deberá tener lugar no antes de veinticuatro horas de la fecha de la convocatoria, con la finalidad de que dicho órgano colegiado analice y valore el proyecto de resolución, atendiendo a lo siguiente:
+
+I. Si el proyecto de la Secretaría propone el desechamiento o sobreseimiento de la investigación, o la imposición de una sanción y la Comisión está de acuerdo con el sentido del mismo, será turnado al Consejero Presidente;
+
+II. En el caso de que la Comisión no apruebe el proyecto propuesto, lo devolverá al Secretario, exponiendo las razones o sugiriendo las diligencias que estime pertinentes para el perfeccionamiento de la investigación; y,
+
+III. En un plazo no mayor a quince días después de la devolución del proyecto y las consideraciones al respecto, la Secretaría emitirá un nuevo proyecto de resolución en el que deberá considerar los razonamientos y argumentos que formule la Comisión.
+
+El Consejero Presidente al recibir el proyecto de resolución, lo hará del conocimiento de los integrantes del Consejo General en sesión especial que deberá celebrar para tal efecto, dentro de los siguientes cinco días contados a partir de la presentación del proyecto de resolución al Consejo General.
+
+###### Artículo 302.
+
+En la sesión en que conozca del proyecto de resolución el Consejo General determinará:
+
+I. Aprobarlo en los términos en que se le presente;
+
+II. Aprobarlo, ordenando al Secretario del Consejo General realizar el engrose de la resolución en el sentido de los argumentos, consideraciones y razonamientos expresados por la mayoría;
+
+III. Modificarlo, procediendo a aprobarlo dentro de la misma sesión, siempre y cuando se considere que puede hacerse y que no contradice lo establecido en el cuerpo del dictamen;
+
+IV. Rechazarlo y ordenar a la Secretaría Ejecutiva elaborar uno nuevo en el sentido de los argumentos, consideraciones y razonamientos expresados por la mayoría; y,
+
+V. Rechazado un proyecto de resolución se entiende que se aprueba un acuerdo de devolución.
+
+En caso de empate motivado por la ausencia de alguno de los Consejeros Electorales, se procederá a una segunda votación; en caso de persistir el empate, el Consejero Presidente determinará que se presente en una sesión posterior, en la que se encuentren presenten todos los Consejeros Electorales.
+
+El Consejero Electoral que disienta de la mayoría podrá formular voto particular, el cual se insertará en el proyecto respectivo siempre y cuando lo haga llegar al secretario dentro de los dos días siguientes a la fecha de su aprobación.
+
+En el desahogo de los puntos del orden del día en el que el Consejo deba resolver sobre los proyectos de resolución relativos a quejas, se agruparán y votarán en un solo acto, salvo que alguno de sus integrantes proponga su discusión por separado.
+
+###### Artículo 303.
+
+Dentro de los procesos electorales, la Secretaría Ejecutiva del Consejo General instruirá el procedimiento especial establecido por el presente capítulo, cuando se denuncie la comisión de conductas que:
+
+I. Violen la fracción III del artículo 275 de esta ley y el párrafo séptimo del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos;
+
+II. Contravengan las normas sobre propaganda política o electoral establecidas para los partidos políticos y candidatos independientes en esta ley; y,
+
+III. Constituyan actos anticipados de precampaña o campaña.
+
+###### Artículo 304.
+
+Cuando una conducta infractora esté relacionada con propaganda política o electoral en radio y televisión durante la etapa de los procesos electorales en el Estado, el Instituto dará vista al Instituto Nacional Electoral, dentro de las veinticuatro horas siguientes al momento en que tuvo conocimiento del hecho.
+
+Los procedimientos sancionadores relacionados con la difusión de propaganda que calumnie en medios distintos a radio y televisión, sólo podrán iniciar a instancia de parte afectada. Se entenderá por calumnia la imputación de hechos falsos que pudieren constituir delito y que tengan impacto en un proceso electoral.
+
+###### Artículo 305.
+
+La queja deberá reunir los siguientes requisitos:
+
+I. Nombre del quejoso, con firma autógrafa o huella digital;
+
+II. Domicilio para oír y recibir notificaciones;
+
+III. Los documentos que sean necesarios para acreditar la personalidad;
+
+IV. Narración expresa y clara de los hechos en que se basa la queja;
+
+V. Ofrecimiento y exhibición de pruebas; o la mención de las que habrán de requerirse, por no tener posibilidad de recabarlas; y,
+
+VI. En su caso, las medidas cautelares que se soliciten.
+
+El órgano del Instituto que reciba o provea la queja, con excepción de la correspondiente a propaganda en vía pública, la remitirá inmediatamente a la Secretaría Ejecutiva, para que esta la examine junto con las pruebas aportadas.
+
+###### Artículo 306.
+
+La queja será desechada de plano sin prevención alguna cuando:
+
+I. No reúna los requisitos indicados en el artículo anterior;
+
+II. Los hechos denunciados no constituyan de manera evidente, una violación en materia de propaganda político-electoral dentro de un proceso electivo;
+
+III. El quejoso no aporte ni ofrezca prueba alguna de sus dichos;
+
+IV. La materia de la queja resulte irreparable; y,
+
+V. La queja sea evidentemente frívola.
+
+En los casos anteriores la Secretaría Ejecutiva notificará al quejoso su resolución, por el medio más expedito a su alcance, dentro del plazo de doce horas, tal resolución deberá ser confirmada por escrito.
+
+La Secretaría Ejecutiva contará con un plazo de veinticuatro horas para emitir el acuerdo de admisión o la propuesta de desechamiento, contado a partir del momento en que reciba la queja. En caso de que se requieran realizar diligencias de investigación respecto de los hechos denunciados, el plazo para la admisión o propuesta de desechamiento de la queja será de setenta y dos horas, contado a partir del momento en que reciba la queja, dentro del cual deberán de agotarse dichas diligencias.
+
+Cuando la queja sea admitida, se emplazará al quejoso y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado de la queja con sus anexos, así como con el resultado de las diligencias de investigación que en su caso se hubieren realizado.
+
+Si la Secretaría Ejecutiva considera necesaria la adopción de medidas cautelares, las propondrá a la Comisión de Quejas dentro del plazo antes señalado para que se resuelva lo conducente.
+
+###### Artículo 307.
+
+La audiencia de pruebas y alegatos se llevará a cabo de manera ininterrumpida, en forma oral y será conducida por la Secretaría Ejecutiva debiéndose levantar constancia de su desarrollo. Para el desahogo de la audiencia los partidos políticos, personas morales o instituciones públicas, podrán acreditar a un representante.
+
+En el procedimiento especial no serán admitidas más pruebas que la documental y la técnica, esta última será desahogada siempre y cuando el oferente aporte los medios para tal efecto en el curso de la audiencia.
+
+La falta de asistencia de las partes no impedirá la celebración de la audiencia en el día y hora señalados, la que se desarrollará en los siguientes términos:
+
+I. Abierta la audiencia, se dará el uso de la voz al quejoso a fin de que, en una intervención no mayor de quince minutos, resuma el hecho que motivó la queja y haga una relación de las pruebas que a su juicio la corroboran. En caso de que el procedimiento se haya iniciado en forma oficiosa la Secretaría Ejecutiva actuará como quejoso;
+
+II. Acto seguido, se dará el uso de la voz al denunciado, a fin de que en un tiempo no mayor a treinta minutos, responda a la queja, ofreciendo las pruebas que a su juicio desvirtúen la imputación que se realiza;
+
+III. La Secretaría Ejecutiva resolverá sobre la admisión de pruebas y acto seguido procederá a su desahogo; y,
+
+IV. Concluido el desahogo de las pruebas, la Secretaría Ejecutiva concederá en forma sucesiva el uso de la voz al quejoso y al denunciado, o a sus representantes, quienes podrán alegar en forma escrita o verbal, por una sola vez y en tiempo no mayor a quince minutos cada uno.
+
+###### Artículo 308.
+
+Celebrada la audiencia, la Secretaría deberá turnar de forma inmediata el expediente completo, exponiendo en su caso, las medidas cautelares y demás diligencias que se hayan llevado a cabo, al Tribunal Electoral para su resolución, así como un informe circunstanciado.
+
+El informe circunstanciado deberá contener por lo menos, lo siguiente:
+
+I. La relatoría de los hechos que dieron motivo a la queja;
+
+II. Las diligencias que se hayan realizado por la autoridad;
+
+III. Las pruebas aportadas por las partes;
+
+IV. Las demás actuaciones realizadas; y,
+
+V. Las conclusiones sobre la queja.
+
+Del informe circunstanciado se enviará una copia a la Comisión de Quejas del Instituto para su conocimiento.
+
+###### Artículo 309.
+
+Cuando las denuncias a que se refiere este Capítulo tengan como motivo la comisión de conductas referidas a la ubicación física o al contenido de propaganda política o electoral impresa, de aquélla pintada en bardas, o de cualquier otra diferente a la transmitida por radio o televisión, así como cuando se refieran a actos anticipados de precampaña o campaña en que la conducta infractora esté relacionada con ese tipo de propaganda se estará a lo siguiente:
+
+I. La denuncia será presentada ante el Consejero Presidente del Consejo Distrital o Municipal que corresponda a la demarcación territorial en donde haya ocurrido la conducta denunciada o del cargo que se elija;
+
+II. El Consejero Presidente ejercerá, en lo conducente, las facultades señaladas en los artículos anteriores para la Secretaría Ejecutiva, conforme al procedimiento y dentro de los plazos señalados, y,
+
+III. Celebrada la audiencia, el Consejero Presidente deberá turnar al Tribunal Electoral de forma inmediata el expediente completo, exponiendo las diligencias que se hayan llevado a cabo así como un informe circunstanciado en términos de lo dispuesto en esta Ley.
+
+En los supuestos establecidos en el primer párrafo del presente artículo, si la conducta denunciada constituye una infracción generalizada o reviste gravedad, la Secretaría Ejecutiva podrá atraer el asunto.
+
+T R A N S I T O R I O S
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+SEGUNDO.- Las disposiciones de la presente ley derogan de la Ley Electoral del Estado de Sinaloa publicada en el Periódico Oficial "El Estado de Sinaloa", No. 55, Segunda Sección, del día 6 de mayo de 1992, los artículos contenidos en sus Títulos Primero, Segundo, Tercero, Cuarto, Sexto, y los previstos en el Capítulo VI de su Título Séptimo.
+
+(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO 364 PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD DE QUINCE DE JULIO DE DOS MIL QUINCE INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+TERCERO.- HASTA EN TANTO EL INSTITUTO NACIONAL ELECTORAL EJERZA SUS FACULTADES EN MATERIA DE DISTRITACIÓN, CONFORME AL ARTÍCULO 41 APARTADO B, INCISO A), NUMERAL 2 DE LA CONSTITUCIÓN FEDERAL, SE MANTIENE LA DEMARCACIÓN TERRITORIAL DE LOS DISTRITOS ELECTORALES UNINOMINALES EN QUE SE DIVIDE EL ESTADO DE SINALOA, DE LA SIGUIENTE MANERA:
+
+PRIMER DISTRITO. COMPRENDE EL MUNICIPIO DE CHOIX, CABECERA: LA CIUDAD DE CHOIX.
+
+SEGUNDO DISTRITO. COMPRENDE EL MUNICIPIO DE EL FUERTE, CABECERA: LA CIUDAD DE EL FUERTE.
+
+TERCER DISTRITO. COMPRENDE PARTE DE LA CIUDAD DE LOS MOCHIS Y DE LA ALCALDÍA CENTRAL Y DE LAS SINDICATURAS DE AHOME, HIGUERA DE ZARAGOZA Y TOPOLOBAMPO, DEL MUNICIPIO DE AHOME, CABECERA: LA CIUDAD DE LOS MOCHIS.
+
+CUARTO DISTRITO. COMPRENDE PARTE DE LA CIUDAD DE LOS MOCHIS Y DE LA ALCALDÍA CENTRAL Y LAS SINDICATURAS DE SAN MIGUEL ZAPOTITLÁN, HERIBERTO VALDEZ ROMERO Y GUSTAVO DÍAZ ORDAZ, DEL MUNICIPIO DE AHOME, CABECERA: LA CIUDAD DE LOS MOCHIS.
+
+QUINTO DISTRITO. COMPRENDE EL MUNICIPIO DE SINALOA, CABECERA: LA CIUDAD DE SINALOA DE LEYVA.
+
+SEXTO DISTRITO. COMPRENDE PARTE DE LA CIUDAD DE GUASAVE Y DE LA ALCALDÍA CENTRAL Y LAS SINDICATURAS DE JUAN JOSÉ RÍOS, RUIZ CORTINES, BENITO JUÁREZ Y LA TRINIDAD, DEL MUNICIPIO DE GUASAVE, CABECERA: LA CIUDAD DE GUASAVE.
+
+SÉPTIMO DISTRITO. COMPRENDE PARTE DE LA CIUDAD DE GUASAVE Y DE LA ALCALDÍA CENTRAL Y LAS SINDICATURAS DE TAMAZULA, LA BRECHA, EL BURRIÓN, SAN RAFAEL, NÍO, BAMOA Y LEÓN FONSECA, DEL MUNICIPIO DE GUASAVE, CABECERA: LA CIUDAD DE GUASAVE.
+
+OCTAVO DISTRITO. COMPRENDE EL MUNICIPIO DE ANGOSTURA, CABECERA: LA CIUDAD DE ANGOSTURA.
+
+NOVENO DISTRITO. COMPRENDE EL MUNICIPIO DE SALVADOR ALVARADO, CABECERA: LA CIUDAD DE GUAMÚCHIL.
+
+DÉCIMO DISTRITO. COMPRENDE EL MUNICIPIO DE MOCORITO CABECERA: LA CIUDAD DE MOCORITO.
+
+DÉCIMO PRIMER DISTRITO. COMPRENDE EL MUNICIPIO DE BADIRAGUATO, CABECERA: LA CIUDAD DE BADIRAGUATO.
+
+DÉCIMO SEGUNDO DISTRITO. COMPRENDE PARTE DE LA CIUDAD DE CULIACÁN Y DE LA ALCALDÍA CENTRAL, Y LAS SINDICATURAS DE IMALA, SANALONA Y LAS TAPIAS, CABECERA: LA CIUDAD DE CULIACÁN ROSALES.
+
+DÉCIMO TERCERO DISTRITO. COMPRENDE PARTE DE LA CIUDAD DE CULIACÁN Y LAS SINDICATURAS DE AGUARUTO, CULIACANCITO Y EL TAMARINDO, CABECERA: LA CIUDAD DE CULIACÁN ROSALES.
+
+DÉCIMO CUARTO DISTRITO. COMPRENDE LAS SINDICATURAS DE ELDORADO, COSTA RICA, QUILÁ, SAN LORENZO, BAILA, HIGUERAS DE ABUYA, EMILIANO ZAPATA, TACUICHAMONA Y EL SALADO, DEL MUNICIPIO DE CULIACÁN, CABECERA: ELDORADO.
+
+DÉCIMO QUINTO DISTRITO. COMPRENDE EL MUNICIPIO DE NAVOLATO, CABECERA: LA CIUDAD DE NAVOLATO.
+
+DÉCIMO SEXTO DISTRITO. COMPRENDE EL MUNICIPIO DE COSALÁ, CABECERA: LA CIUDAD DE COSALÁ.
+
+DÉCIMO SEPTIMO DISTRITO. COMPRENDE EL MUNICIPIO DE ELOTA, CABECERA: LA CIUDAD DE LA CRUZ.
+
+DÉCIMO OCTAVO DISTRITO. COMPRENDE EL MUNICIPIO DE SAN IGNACIO, CABECERA: LA CIUDAD DE SAN IGNACIO.
+
+DÉCIMO NOVENO DISTRITO. COMPRENDE PARTE DE LA CIUDAD DE MAZATLÁN Y DE LA ALCALDÍA CENTRAL, Y LAS SINDICATURAS DE MÁRMOL, LA NORIA, EL QUELITE, EL RECODO Y SIQUEROS, DEL MUNICIPIO DE MAZATLÁN, CABECERA: LA CIUDAD DE MAZATLÁN.
+
+VIGÉSIMO DISTRITO. COMPRENDE PARTE DE LA CIUDAD DE MAZATLÁN Y DE LA ALCALDÍA CENTRAL, Y LAS SINDICATURAS DE VILLA UNIÓN Y EL ROBLE, DEL MUNICIPIO DE MAZATLÁN, CABECERA: LA CIUDAD DE MAZATLÁN.
+
+VIGÉSIMO PRIMER DISTRITO. COMPRENDE EL MUNICIPIO DE CONCORDIA, CABECERA: LA CIUDAD DE CONCORDIA.
+
+VIGÉSIMO SEGUNDO DISTRITO. COMPRENDE EL MUNICIPIO DE ROSARIO, CABECERA: LA CIUDAD DE EL ROSARIO.
+
+VIGÉSIMO TERCER DISTRITO. COMPRENDE EL MUNICIPIO DE ESCUINAPA, CABECERA: LA CIUDAD DE ESCUINAPA.
+
+VIGÉSIMO CUARTO DISTRITO. COMPRENDE PARTE DE LA CIUDAD DE CULIACÁN Y DE LA ALCALDÍA CENTRAL Y LAS SINDICATURAS DE JESÚS MARÍA Y TEPUCHE, CABECERA: LA CIUDAD DE CULIACÁN ROSALES.
+
+(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DEL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO 364 PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD DE QUINCE DE JULIO DE DOS MIL QUINCE INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+CUARTO.- HASTA EN TANTO EL INSTITUTO NACIONAL ELECTORAL EJERZA SUS FACULTADES EN MATERIA DE DISTRITACIÓN, CONFORME AL ARTÍCULO 41 APARTADO B, INCISO A), NUMERAL 2 DE LA CONSTITUCIÓN FEDERAL, LOS CONSEJOS MUNICIPALES SOLO FUNCIONARÁN EN LOS MUNICIPIOS DONDE EXISTA MÁS DE UN DISTRITO ELECTORAL CONFORME AL TRANSITORIO ANTERIOR Y SE INSTALARÁN EN LA CABECERA RESPECTIVA.
+
+QUINTO.- Dentro de los quince días siguientes a que el Instituto Electoral del Estado de Sinaloa quede integrado en términos de lo dispuesto en el Artículo Noveno Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral, publicado en el Diario Oficial de la Federación el diez de febrero de dos mil catorce, el Consejo General celebrará su primera sesión, con independencia de la convocatoria a elecciones ordinarias locales que al efecto expida el Congreso del Estado conforme a lo previsto en esta ley.
+
+SEXTO.- El Presidente y los Consejeros Ciudadanos que actualmente integran el Consejo Estatal Electoral, que sean relevados en sus cargos antes del periodo para el que fueron designados por esta Soberanía, con motivo de la integración del organismo público local electoral a que se refieren los artículos transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos en materia político-electoral, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014, recibirán previo a su separación, las prestaciones a que tengan derecho de conformidad con las disposiciones de la Ley Federal del Trabajo, mismas que serán calculadas en los términos de dicho ordenamiento legal, sin perjuicio de recibir otras que la legislación adicionalmente disponga.
+
+Las prestaciones a que se refiere el párrafo anterior serán otorgadas al Presidente y a los Consejeros Ciudadanos en funciones del Consejo Estatal Electoral, siempre y cuando opten por no participar en el proceso de renovación convocado mediante Acuerdo del Consejo General del Instituto Nacional Electoral, publicado en el Periódico Oficial “El Estado de Sinaloa” el diecisiete de abril de de (sic) dos mil quince, o participando, no resulten electos.
+
+SÉPTIMO.- El pago de las prestaciones mencionadas en el artículo transitorio que antecede, se cubrirá con cargo al presupuesto del Consejo Estatal Electoral, por lo que el Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Administración y Finanzas, realizará las adecuaciones de orden presupuestal correspondientes, a efecto de garantizar que el órgano administrativo electoral cuente con los recursos necesarios y suficientes para el pago de las prestaciones a que el Presidente y los Consejeros Ciudadanos tengan derecho.
+
+OCTAVO.- Por única ocasión, el proceso electoral correspondiente a las elecciones que tendrán lugar el primer domingo de junio de 2016, iniciará en la segunda quincena del mes de octubre de 2015, con la convocatoria que al efecto expida el Congreso del Estado. Para tal efecto, el Consejo General aprobará los ajustes necesarios a los plazos establecidos en la presente Ley y se coordinará con el Instituto Nacional Electoral en relación con la aplicación, en lo conducente, de la Ley General de Instituciones y Procedimientos Electorales.
+
+Es dado en el Palacio del Poder Legislativo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los treinta días del mes de junio del año dos mil quince.
+
+C. YUDIT DEL RINCÓN CASTRO
+
+DIPUTADA PRESIDENTA
+
+C. LUIS FERNANDO SANDOVAL MORALES
+
+DIPUTADO SECRETARIO
+
+P.M.D.L.
+
+C. RAMÓN LUCAS LIZÁRRAGA
+
+DIPUTADO SECRETARIO
+
+Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Es dado en el Palacio del Poder Ejecutivo del Estado en la ciudad de Culiacán Rosales, Sinaloa, a los dos días del mes de julio del año dos mil quince.
+
+El Gobernador Constitucional del Estado
+
+Lic. Mario López Valdez.
+
+El Secretario General de Gobierno
+
+C. Gerardo O. Vargas Landeros.
