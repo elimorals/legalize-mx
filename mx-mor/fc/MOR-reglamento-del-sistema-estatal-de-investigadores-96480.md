@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-del-sistema-estatal-de-investigadores-96480"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-11-04"
-last_updated: "2013-11-04"
+last_updated: "2015-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DEL SISTEMA ESTATAL DE INVESTIGADORES DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el lunes 4 de noviembre de 2013.
 
@@ -115,9 +115,13 @@ Podrán formar parte del SEI todos aquellos miembros de la comunidad científica
 
 La Secretaría, de conformidad con la Ley, es la encargada de instaurar, desarrollar y administrar el SEI y evaluar su funcionamiento, garantizando el proceso de implantación, principios de transparencia, legalidad y equidad, involucrando en esas actividades a miembros reconocidos de la comunidad científica local y de los sectores público, social y privado, por lo que para dichos efectos se apoyará en una Comisión Técnica integrada por:
 
-l. La persona Titular de la Subsecretaría de Investigación Científica de la Secretaría, quien lo presidirá;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2015)</small>
 
-II. La persona Titular de la Dirección General de Proyectos de Investigación de la Secretaría, quien fungirá como Secretario Técnico;
+I. La persona Titular de la Subsecretaría de Innovación, Ciencia y Desarrollo Tecnológico de la Secretaría, quien lo presidirá;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2015)</small>
+
+II. La persona Titular de la Dirección General de Investigación de la Secretaría, quien fungirá como Secretario Técnico;
 
 III. Tres vocales internos, representantes de la Academia de Ciencias de Morelos, de la Academia de Ingeniería Coordinación de Morelos y de la Academia de Ciencias Sociales y Humanidades del Estado de Morelos, respectivamente, y
 
@@ -175,7 +179,9 @@ I. Formular y someter a consideración de la Comisión Técnica el contenido de 
 
 II. Revisar que las solicitudes de incorporación al SEI cumplan con los requisitos del artículo 18 del presente Reglamento y notificar mediante los medios de comunicación que considere oportunos al solicitante que adquiere la calidad de participante;
 
-III. Recibir y resguardar los expedientes que sean presentados por los solicitantes y participantes;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2015)</small>
+
+III. Recibir el formato de solicitud debidamente firmado, y resguardar los expedientes electrónicos que sean presentados por los solicitantes y participantes;
 
 IV. Elaborar el orden del día en coordinación con el Presidente de la Comisión técnica, y las actas de las sesiones;
 
@@ -187,11 +193,15 @@ VII. Llevar el registro y seguimiento de los acuerdos de sesiones, así como rea
 
 VIII. Llevar el control y registro de las actas generadas en las sesiones, así como recabar la firma de los integrantes que en ellas participaron;
 
-IX. Turnar a los Comités de Evaluación los expedientes de los participantes que serán sometidos a evaluación para su incorporación al SEI;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2015)</small>
+
+IX. Notificar a través de los medios de comunicación que considere oportunos a los Comités de Evaluación, que los expedientes electrónicos de los participantes están disponibles en línea en la página electrónica del SEI, para evaluar su incorporación al SEI;
 
 X. Presentar a la Comisión Técnica los dictámenes emitidos por los Comités de Evaluación durante el proceso de evaluación;
 
-XI. Turnar las revisiones que por su conducto presenten los participantes inconformes a los Comités revisores;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2015)</small>
+
+XI. Notificar a través de los medios de comunicación que considere oportunos a los Comités revisores que los expedientes electrónicos de los participantes que interpusieron la revisión, se encuentran disponibles en línea en la página electrónica del SEI;
 
 XII. Presentar a la Comisión Técnica las recomendaciones emitidas por los Comités Revisores, y
 
@@ -277,13 +287,19 @@ Para el caso de que algún integrante de la comunidad científica del Estado de 
 
 Las solicitudes para participar en el SEI deberán entregarse en los formatos previamente establecidos por la Comisión Técnica, en las oficinas de la Secretaría contra el acuse de recibo correspondiente.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2015)</small>
+
 ###### Artículo 21.
 
-Cada una de las actividades, productos de investigación e innovación y desarrollos tecnológicos solicitados en la Convocatoria y reportados por el solicitante, deberán adjuntarse en fotocopia a la solicitud para participar en el SEI en el formato previamente establecido, siempre que permita la identificación de la actividad o producto y desarrollo tecnológico, la responsabilidad de participar, y la fecha de su realización.
+El solicitante deberá registrarse en la página electrónica del SEI, en la cual se le proporcionará un número de usuario y contraseña, así como una clave de registro con la cual desde ese momento, se identificará al solicitante para todos los trámites relativos al SEI. La clave de registro, el número de usuario y contraseña serán únicos e intransferibles, por lo que su resguardo es responsabilidad del solicitante.
+
+Una vez que el solicitante haya obtenido sus datos de usuario y contraseña en la página electrónica del SEI, deberá adjuntar los archivos electrónicos de cada una de las actividades, productos de investigación e innovación y desarrollos tecnológicos solicitados en la Convocatoria, siguiendo las instrucciones que aparecen en la página del SEI, siempre que permitan la identificación de la actividad o producto y desarrollo tecnológico, y la fecha de su realización.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2015)</small>
 
 ###### Artículo 22.
 
-El solicitante, una vez que cumpla con los requisitos del artículo 18 del presente Reglamento, adquiere la calidad de participante y su expediente será sometido al proceso de evaluación para su incorporación al SEI.
+El solicitante, una vez que cumpla con los requisitos del artículo 18, del presente Reglamento, adquiere la calidad de participante y su expediente electrónico será sometido al proceso de evaluación para su incorporación al SEI.
 
 ###### Artículo 23.
 
@@ -361,7 +377,9 @@ Cada convocatoria del SEI deberá contener como mínimo lo siguiente:
 
 I. Los requisitos que deben cumplir los solicitantes a que hace alusión el artículo 18 del presente Reglamento;
 
-II. La forma en que deberán presentarse las solicitudes para participar en el SEI y como se adjuntarán a ésta cada una de las actividades, productos de investigación e innovación y desarrollos tecnológicos que constituyen su producción científica o tecnológica;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2015)</small>
+
+II. La forma en que deberán presentarse las solicitudes para participar en el SEI y el mecanismo por el cual se adjuntarán en la página electrónica del mismo cada una de las actividades, productos de investigación e innovación y desarrollos tecnológicos que constituyen su producción científica o tecnológica;
 
 III. El período de entrega de las solicitudes de participación en el SEI;
 
@@ -455,9 +473,11 @@ III. Cuando no se expresen argumentos en relación con el dictamen objeto de la 
 
 ### CAPÍTULO VI. DEL MANEJO Y RESGUARDO DE LA INFORMACIÓN
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2015)</small>
+
 ###### Artículo 43.
 
-La información contenida en la documentación que presenten los solicitantes y participantes que solicitan su incorporación al SEI, será considerada de carácter confidencial y no podrá ser divulgada sin su autorización expresa, misma que quedará bajo resguardo y responsabilidad del Secretario Técnico de la Comisión Técnica, conforme a lo dispuesto por la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos y demás disposiciones normativas aplicables.
+La información contenida en los documentos electrónicos que se adjunten en la página del SEI, que presenten los solicitantes y participantes, será considerada de carácter confidencial y no podrá ser divulgada sin su autorización expresa, misma que quedará bajo resguardo y responsabilidad del Secretario Técnico de la Comisión Técnica, conforme a lo dispuesto por la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos y demás disposiciones normativas aplicables.
 
 DISPOSICIONES TRANSITORIAS
 
@@ -480,3 +500,11 @@ LA SECRETARIA DE INNOVACIÓN, CIENCIA Y TECNOLOGÍA
 MARÍA BRENDA VALDERRAMA BLANCO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE JULIO DE 2015.
+
+PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente Decreto.
