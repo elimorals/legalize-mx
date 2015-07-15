@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-5643
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2013-07-30"
+last_updated: "2015-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -149,7 +149,7 @@ I. Implementar la política municipal en materia de igualdad entre mujeres y hom
 
 II. Coadyuvar con el Gobierno Federal y con el Gobierno Estatal correspondiente, en la consolidación de los programas en materia de igualdad entre mujeres y hombres;
 
-III. Diseñar, formular y aplicar campañas de concientización que promuevan los valores y contenidos de la presente ley, y (sic)
+III. Diseñar, formular y aplicar campañas de concientización que promuevan los valores y contenidos de la presente ley, y
 
 IV. Fomentar la participación social, política y ciudadana dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas como en las rurales.
 
@@ -391,6 +391,12 @@ VI. Establecer los mecanismos para la atención de las víctimas en todos los ti
 
 VII. Fomentar las investigaciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2015)</small>
+
+VIII. Contribuir a un reparto más equilibrado de las responsabilidades familiares reconociendo a los padres biológicos y por adopción, el derecho a un permiso con goce de sueldo por paternidad, en términos de la Ley Federal del Trabajo.
+
 ### CAPÍTULO SEXTO. DE LA ELIMINACIÓN DE ESTEREOTIPOS ESTABLECIDOS EN FUNCIÓN DEL SEXO
 
 ###### Artículo 37.
@@ -472,3 +478,9 @@ PRIMERO.- El presente decreto entrará en vigor a los treinta días siguientes d
 SEGUNDO.- En la medida de sus posibilidades presupuestales, las autoridades competentes tomarán las previsiones necesarias para la observancia de los efectos de este decreto.
 
 TERCERO.- Se derogan todas (sic) disposiciones legales y reglamentarias que se opongan a lo que este decreto dispone
+
+P.O. 15 DE JULIO DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.-Se derogan todas disposiciones legales y reglamentarias que se opongan al presente decreto.
