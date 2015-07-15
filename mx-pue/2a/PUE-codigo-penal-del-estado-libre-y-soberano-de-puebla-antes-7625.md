@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2015-03-13"
+last_updated: "2015-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2015.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA QUINTA SECCIÓN DEL P.O. EL 13 DE MARZO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, PUBLICADO EN LA TERCERA SECCIÓN DEL P.O. DE 13 DE MARZO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -3867,25 +3865,19 @@ Al que infiera lesiones calificadas se les impondrán las sanciones correspondie
 
 #### SECCION SEXTA.- HOMICIDIO EN RAZON DEL PARENTESCO O RELACION
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2015)</small>
 
 ###### Artículo 312.
 
 Comete el delito de Homicidio el que priva de la vida a otro.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 312 Bis.
 
-Comete el delito de feminicidio quien por razones de género priva de la vida a una mujer. Para efectos de este artículo, existen razones de género cuando existan datos que establezcan:
-
-I. Que el sujeto activo lo comete por odio o aversión a las mujeres;
-
-II. Que el sujeto activo lo comete por celos extremos respecto a la víctima; o
-
-III. Cuando existan datos que establezcan en la víctima lesiones infamantes, violencia sexual, amenazas o acoso, tormentos o tratos crueles, inhumanos o degradantes.
-
-A quien comete el delito de feminicidio, se le impondrá una sanción de treinta a cincuenta años de prisión.
+(DEROGADO, P.O. 15 DE JULIO DE 2015)
 
 ###### Artículo 313.
 
@@ -3931,7 +3923,11 @@ Al responsable de cualquier homicidio simple intencional y que no tenga señalad
 
 Cuando el homicidio se cometiere en riña o duelo, se impondrá al responsable una sanción de dos a nueve años de prisión, si es el provocado y de cinco a doce años, si es el provocador.
 
-#### SECCION SEPTIMA.-
+#### SECCIÓN SÉPTIMA.- FEMINICIDIO
+
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JULIO DE 2015)</small>
 
 ###### Artículo 318.
 
@@ -4033,6 +4029,12 @@ La existencia de cualquier otro móvil no excluye el odio; siempre se estará a 
 
 Al responsable de un homicidio calificado, se le impondrá de veinte a cincuenta años de prisión.
 
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2015)</small>
+
+El homicidio de una mujer cometido por odio en razón de género, se sancionará como feminicidio.
+
 ###### Artículo 332.
 
 De las lesiones que a una persona cause algún animal, será responsable el que con esa intención lo azuce, o lo suelte o haga esto último por descuido.
@@ -4061,7 +4063,7 @@ El que pudiendo impedir un suicidio, no lo impida o no lo evite, o impidiere que
 
 ###### Artículo 336.
 
-Se configura el delito de homicidio en razón del parentesco o relación, al privar de la vida a un ascendiente o descendiente, hermano, adoptante o adoptado con conocimiento del parentesco; o en relaciones de matrimonio, concubinato, amasiato o noviazgo.
+Se configura el delito de homicidio en razón de parentesco o relación, al privar de la vida a un o una ascendiente o descendiente, hermano o hermana, un o una adoptante, adoptado o adoptada, con conocimiento del parentesco; o al cónyuge, concubino, amasio o novio.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -4073,13 +4075,51 @@ Al que cometa el delito a que se refiere el artículo que antecede, se le impond
 
 (DEROGADO, P.O. 4 DE ENERO DE 2012)
 
-> <small>(DEROGADA SU DENOMINACIÓN, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA], P.O. 15 DE JULIO DE 2015)</small>
 
 #### SECCION SEGUNDA.- ABANDONO DE PERSONAS
 
 ###### Artículo 338.
 
-(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2013)
+Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. Se considera que existen razones de género cuando con la privación de la vida concurra alguna de las siguientes circunstancias:
+
+I.- Que el sujeto activo lo cometa por odio o aversión a las mujeres;
+
+II.- Que el sujeto activo lo cometa por celos extremos respecto a la víctima;
+
+III.- Cuando existan datos que establezcan en la víctima, lesiones o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida, violencia sexual, actos de necrofilia, tormentos o tratos crueles, inhumanos o degradantes;
+
+IV.- Que existan antecedentes o datos de violencia en el ámbito familiar, laboral, escolar o cualquier otro del sujeto activo en contra de la víctima;
+
+V.- Que exista o se tengan datos de antecedentes de violencia en una relación de matrimonio, concubinato, amasiato o noviazgo entre el sujeto activo y la víctima;
+
+VI.- Que empleando la perfidia aproveche la relación sentimental, afectiva o de confianza entre el activo y la víctima;
+
+VII.- Existan datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima;
+
+VIII.- Que la víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida; o
+
+IX.- Que el cuerpo de la víctima sea expuesto o exhibido en un lugar público.
+
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2015)</small>
+
+###### Artículo 338 Bis.
+
+A quien cometa el delito de feminicidio, se le impondrá una sanción de cuarenta a sesenta años de prisión y multa de quinientos a mil días de salario.
+
+En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio, sin menoscabo de observar alguna circunstancia que agrave o atenúe la sanción conforme a lo establecido en las Secciones Segunda y Cuarta.
+
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2015)</small>
+
+###### Artículo 338 Ter.
+
+Además de las sanciones descritas en el artículo anterior, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
 
 #### SECCION TERCERA.- INCUMPLIMIENTO DE LA OBLIGACIÓN ALIMENTARIA
 
@@ -6216,3 +6256,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO. Los Ayuntamientos de los Municipios de la Entidad en el ámbito de sus respectivas competencias, deberán prever y realizar las acciones conducentes para fomentar las expresiones o manifestaciones artísticas o culturales de los habitantes de sus jurisdicciones.
 
 CUARTO. El presente Decreto en cuanto a la materia procedimental penal estará vigente, hasta en tanto, surta efectos a plenitud la entrada en vigor del Código Nacional de Procedimientos Penales en el territorio del Estado, conforme a lo que establecen el artículo 10 Bis de la Ley Orgánica del Poder Judicial del Estado de Puebla, y el artículo Segundo Transitorio de la Ley Orgánica del Poder Judicial del Estado de Puebla, Decretos publicados en el Periódico Oficial del Estado de fecha diecisiete de junio de dos mil once y trece de septiembre de dos mil trece, respectivamente.
+
+P.O. 15 DE JULIO DE 2015.
+
+PRIMERO. El presente Decreto, entrará en vigor a los quince días naturales siguientes contados a partir del día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Todos los asuntos que se encuentren en etapa de averiguación previa, instrucción, juicio o ejecución, o en etapa de investigación, intermedia o de juicio, según sea el caso del sistema penal en que se lleven a cabo, por delitos relacionados con el presente Decreto, seguirán rigiéndose por las normas vigentes al momento de la realización del hecho delictuoso.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
