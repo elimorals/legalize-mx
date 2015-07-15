@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-reconocimiento-al-merito-estatal-de-69300"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-22"
-last_updated: "2013-11-04"
+last_updated: "2015-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO PARA EL RECONOCIMIENTO AL MERITO ESTATAL DE INVESTIGACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2015.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 22 de julio de 2009.
 
@@ -101,17 +101,17 @@ IX. Secretaría, a la Secretaría de Innovación, Ciencia y Tecnología del Pode
 
 La Secretaría de conformidad con la Ley, es la encargada de otorgar estímulos económicos y reconocimientos al mérito estatal de innovación, ciencia y tecnología a las instituciones y miembros de la comunidad científica, para lo cual se apoyará en una Comisión Técnica integrada por:
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2015)</small>
 
-I. La persona Titular de la Subsecretaría de Investigación Científica de la Secretaría, quien la presidirá;
+I. La persona Titular de la Secretaría de Innovación, Ciencia y Tecnología, quien la presidirá;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2015)</small>
 
-II. La persona Titular de la Dirección General de Proyectos de Investigación de la Secretaría, quien fungirá como Secretario Técnico;
+II. La persona Titular de la Subsecretaría de Innovación, Ciencia y Desarrollo Tecnológico de la Secretaría, quien fungirá como Secretario Técnico;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2015)</small>
 
-III. Dos vocales internos, que serán las personas Titulares de las Direcciones Generales de Proyectos de Innovación, y de Coordinación y Desarrollo Administrativo ambas de la Secretaría, y
+III. Dos vocales internos, que serán las personas Titulares de la Dirección General de Innovación Industrial, y la Dirección General de Investigación, ambas de la Secretaría, y
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2013)</small>
 
@@ -342,5 +342,11 @@ RÚBRICAS.
 P.O. 4 DE NOVIEMBRE DE 2013.
 
 PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial ''Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2015.
+
+PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDA. Se derogan todas las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente Decreto.
