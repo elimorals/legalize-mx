@@ -4,7 +4,7 @@ identifier: "SON-ley-de-ganaderia-para-el-estado-de-sonora-46784"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-07"
-last_updated: "2013-12-19"
+last_updated: "2015-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE GANADERÍA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE JULIO DE 2015.
 
 Ley publicada en la Tercera Sección del Boletín Oficial del Estado de Sonora, el lunes 7 de noviembre de 2005
 
@@ -269,9 +269,13 @@ V.- Las asociaciones ganaderas locales;
 
 V Bis.- Las asociaciones de productores de leche en el Estado;
 
-> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, B.O. 16 DE JULIO DE 2015)</small>
 
-V Bis 1.- Las uniones o asociaciones de productores pecuarios; y
+V Bis 1.- Las uniones o asociaciones de productores pecuarios;
+
+> <small>(ADICIONADA, B.O. 16 DE JULIO DE 2015)</small>
+
+V Bis 2.- La Unión de Productores de Carne de Sonora; y
 
 VI.- Las asociaciones que la Secretaría autorice como organismos de cooperación cuando no puedan aglutinarse en alguna de las enlistadas en las fracciones anteriores y reúnan los siguientes requisitos:
 
@@ -956,6 +960,10 @@ Los inspectores levantarán un acta circunstanciada, inmovilizarán el ganado y 
 Para la introducción o salida del Estado de ganado, sus productos y subproductos, deberá contarse con la autorización que previamente expida la Secretaría y, además, la movilización deberá ampararse con la guía de tránsito que expida el inspector de ganadería y con la documentación sanitaria correspondiente. Las solicitudes respectivas deberán hacerse por conducto de la Unión Ganadera Regional de Sonora, quien emitirá su opinión al respecto.
 
 Las movilizaciones en tránsito por el Estado no requerirán de la autorización de la Secretaría, siendo únicamente necesario comprobar el cumplimiento de los requisitos sanitarios correspondientes ante el personal de inspección de las estaciones cuarentenarias o casetas de inspección mediante la presentación de la documentación correspondiente.
+
+> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
+
+Tratándose de productos y subproductos cárnicos de ganado bovino, las solicitudes se realizarán por conducto de la Unión de Productores de Carne de Sonora, quien remitirá su opinión al respecto a la Secretaría.
 
 ###### ARTÍCULO 87.
 
@@ -2130,3 +2138,9 @@ B.O. 19 DE DICIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 16 DE JULIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
