@@ -4,7 +4,7 @@ identifier: "SON-ley-de-educacion-para-el-estado-de-sonora-8518"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2014-12-22"
+last_updated: "2015-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE JULIO DE 2015.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 30 de diciembre de 1994.
 
@@ -181,7 +181,15 @@ La educación que imparta el Estado, sus organismos descentralizados y los ayunt
 
 Se prohíbe el pago de cualquier contraprestación que impida o condicione la prestación del servicio educativo a los alumnos. En ningún caso se podrá condicionar la inscripción, el acceso a la escuela, la aplicación de evaluaciones o exámenes, la entrega de documentación a los alumnos o afectar, en cualquier sentido, la igualdad en el trato a los alumnos, al pago de contraprestación alguna.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 16 DE JULIO DE 2015)</small>
+
+Se prohíbe a los planteles educativos el cobro de cualquier contraprestación que condicione la entrega de cualquier tipo de documento a favor de los educandos que así lo requieran para tramitar becas.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], B.O. 16 DE JULIO DE 2015)</small>
+
 Las donaciones o aportaciones voluntarias destinadas a dicha educación, en ningún caso se entenderán como contraprestación del servicio educativo. Las autoridades educativas, en el ámbito de su competencia, establecerán los mecanismos para la regulación, destino, aplicación, transparencia y vigilancia de las donaciones o aportaciones voluntarias.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], B.O. 16 DE JULIO DE 2015)</small>
 
 Para garantizar la gratuidad en la educación básica que imparta el Estado, el Ejecutivo Estatal destinará, en el proyecto de presupuesto de egresos del Gobierno del Estado que presente al Congreso del Estado, anualmente, una previsión de recursos para la constitución y operación de un fondo para el mantenimiento, mejora y equipamiento de las escuelas públicas de nivel básico pertenecientes al Sistema Educativo. Los recursos del fondo a los que se hace mención en este párrafo no deberán ser menores al equivalente a, cuando menos, el 1% del presupuesto de egresos que anualmente apruebe el Congreso del Estado para el Poder Ejecutivo.
 
@@ -349,13 +357,17 @@ XVIII.- Promover y fomentar la lectura y el libro.
 
 XIX.- Difundir los derechos y deberes de niños, niñas y adolescentes y las formas de protección con que cuentan para ejercitarlos;
 
-> <small>(REFORMADA, B.O. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, B.O. 16 DE JULIO DE 2015)</small>
 
-XX.- Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tenga la capacidad de comprender el significado del hecho o para resistirlo; y
+XX.- Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tenga (sic) la capacidad de comprender el significado del hecho o para resistirlo;
 
-> <small>(ADICIONADA, B.O. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, B.O. 16 DE JULIO DE 2015)</small>
 
-XXI.- Impartir Educación Preventiva al uso de Drogas, Alcohol y Tabaco, esta se entenderá como la instrucción de los conocimientos necesarios para adquirir una formación y los valores adecuados que resulten en un rechazo informado a cualquier tipo de adición (sic), una cultura de denuncia del consumo de sustancias ilícitas y una conciencia integral del cuidado de la salud física y psicológica.
+XXI.- Impartir Educación Preventiva al uso de Drogas, Alcohol y Tabaco, esta se entenderá como la instrucción de los conocimientos necesarios para adquirir una formación y los valores adecuados que resulten en un rechazo informado a cualquier tipo de adicción, una cultura de denuncia del consumo de sustancias ilícitas y una conciencia integral del cuidado de la salud física y psicológica; y
+
+> <small>(ADICIONADA, B.O. 16 DE JULIO DE 2015)</small>
+
+XXII.- Implementar cursos de verano para los alumnos de educación básica y media superior, en los que se impartan asignaturas enfocadas al arte, la cultura y el deporte.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE ABRIL DE 2014)</small>
 
@@ -443,11 +455,13 @@ Asimismo, los establecimientos de consumo escolar y distribución de alimentos y
 
 En la elaboración de los alimentos deberán cumplirse los criterios nutricionales que para tal efecto determine la Secretaría de Salud del Poder Ejecutivo Federal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, B.O. 16 DE JULIO DE 2015)</small>
 
-> <small>(REFORMADA, B.O. 8 DE DICIEMBRE DE 2011)</small>
+II Bis A.- Coordinarse con las autoridades en materia de seguridad pública y salud del Estado, con los Municipios y las Sociedades de Padres de Familia, según corresponda, para implementar programas que proporcionen a los alumnos de educación básica, información veraz sobre los efectos nocivos de las drogas y la violencia, para que al conocer dicha información y sustentados en su propia inteligencia y voluntad, decidan mantenerse al margen de éstas, buscando con ello reducir y combatir el uso de alcohol, tabaco y otras drogas, así como los comportamientos violentos que pudieran derivarse de ellos; debiendo implementar para ello programas de salud mental tanto para educandos como para padres de familia.
 
-II Bis A.- Coordinarse con las autoridades en materia de seguridad pública y salud del Estado, con los Municipios y las Sociedades de Padres de Familia, según corresponda, para implementar programas que proporcionen a los alumnos de educación básica, información veraz sobre los efectos nocivos de las drogas y la violencia, para que al conocer dicha información y sustentados en su propia inteligencia y voluntad, decidan mantenerse al margen de éstas, buscando con ello reducir y combatir el uso de alcohol, tabaco y otras drogas, así como los comportamientos violentos que pudieran derivarse de ellos; debiendo implementar para ello programas de salud mental tanto para educandos como para padres de familia;
+Establecer programas dentro de las instituciones educativas para promover, en los casos de infracciones cometidas por alumnos con aliento alcohólico o estado de ebriedad, tratamientos, servicios comunitarios, conferencias o alguna otra medida tendiente a solucionar dicha problemática en el alumnado.
+
+Para tal efecto se procurará que los padres, o quienes tenga (sic) la patria potestad, tutela o custodia del alumno, participen activamente;
 
 > <small>(ADICIONADA, B.O. 28 DE JUNIO DE 2010)</small>
 
@@ -2457,7 +2471,7 @@ B.O. 9 DE ENERO DE 2014.
 
 El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
 
-(SIC) SEGUNDO.- El Decreto del Presupuesto de Egresos del Gobierno del Estado contemplará una partida anual para efectos del cumplimiento del presente decreto.
+SEGUNDO.- El Decreto del Presupuesto de Egresos del Gobierno del Estado contemplará una partida anual para efectos del cumplimiento del presente decreto.
 
 B.O. 3 DE ABRIL DE 2014.
 
@@ -2566,3 +2580,27 @@ TERCERO.- Las escuelas, tanto públicas como privadas, tendrán hasta el siguien
 CUARTO.- La Secretaría de Educación y Cultura del Estado de Sonora, tendrá un plazo de 60 días para la creación de un Consejo Multidisciplinario el cual dará cumplimiento a las disposiciones del presente decreto. Este a su vez tendrá un plazo de 30 días después de su creación para fijar los lineamientos para ejercer sus funciones.
 
 QUINTO.- El ejecutivo del Estado, en función de la disponibilidad presupuestaria para ello, asignará los resultados presupuestales que sean necesarios a efecto de dar cumplimiento a las disposiciones contenidas en el presente decreto.
+
+B.O. 16 DE JULIO DE 2015.
+
+DECRETO NÚMERO 181, POR EL QUE SE REFORMAN LOS PÁRRAFOS TERCERO Y CUARTO Y SE ADICIONA UN PÁRRAFO QUINTO (SIC) AL ARTÍCULO 8 DE LA LEY DE EDUCACIÓN.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 16 DE JULIO DE 2015.
+
+DECRETO NÚMERO 187 POR EL QUE SE REFORMAN LAS FRACCIONES XX Y XXI Y SE ADICIONA UNA FRACCIÓN XXII AL ARTÍCULO 13 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 16 DE JULIO DE 2015.
+
+DECRETO NÚMERO 188 POR EL QUE SE REFORMA LA FRACCIÓN II BIS A DEL ARTÍCULO 19 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
