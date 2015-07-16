@@ -4,7 +4,7 @@ identifier: "SON-ley-de-profesiones-del-estado-de-sonora-60305"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-18"
-last_updated: "2008-03-18"
+last_updated: "2015-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE PROFESIONES DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE JULIO DE 2015.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el martes 18 de marzo de 2008.
 
@@ -164,6 +164,10 @@ XVI.- Informática;
 XVII.- Ingeniería;
 
 XVIII.- Medicina;
+
+> <small>(ADICIONADA, B.O. 16 DE JULIO DE 2015)</small>
+
+XVIII Bis.- Medicina tradicional china y acupuntura humana;
 
 XIX.- Medicina Veterinaria;
 
@@ -457,7 +461,7 @@ IV.- El beneficio directamente obtenido por el infractor por los actos que motiv
 
 V.- La reincidencia del infractor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DE LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY.</small>
 
 ###### Artículo 35.
 
@@ -580,3 +584,19 @@ EDUARDO TOURS CASTELO
 EL SECRETARIO DE GOBIERNO
 
 ROBERTO RUBIAL ASTIAZARAN
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 16 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente a su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Educación y Cultura tendrá un periodo de seis meses contados a partir de la entrada en vigor del presente decreto para establecer los criterios de certificación de los programas educativos de medicina tradicional china y acupuntura humana en sus distintos niveles como técnico, técnico superior, licenciatura, y especialidad.
+
+###### ARTÍCULO TERCERO.
+
+Aquellos profesionales y técnicos en medicina tradicional china y acupuntura humana que cuenten con los conocimientos y experiencia sin estar certificados por la Secretaría de Educación y Cultura, contarán con un plazo no mayor a 6 meses contados a partir de la entrada en vigor del presente decreto, para acreditar ante una instancia educativa autorizada que poseen los conocimientos que los hagan acreedores de los títulos y/o certificados que los autorizarán para el ejercicio de las actividades respectivas.
