@@ -4,7 +4,7 @@ identifier: "SON-ley-de-responsabilidades-de-los-servidores-publicos-del-8399"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-09"
-last_updated: "2009-08-31"
+last_updated: "2015-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y DE LOS MUNICIPIOS
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y DE LOS MUNICIPIOS
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE AGOSTO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE JULIO DE 2015.
 
 Ley publicada en la Sección Segunda del Boletín Oficial del Estado de Sonora, el lunes 9 de abril de 1984.
 
@@ -43,7 +43,7 @@ DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y DE LOS MUNICIPIOS.
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 1o.
 
@@ -401,7 +401,7 @@ Las resoluciones del Congreso se comunicarán al Supremo Tribunal de Justicia, c
 
 Incurren en responsabilidad administrativa, los servidores públicos a que se refiere el Artículo 143 de la Constitución Política del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE ABRIL DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 63.
 
@@ -582,6 +582,10 @@ I.- La sanción económica determinada en cantidad liquida se dividirá entre el
 II.- El cociente se multiplicará por el salario mínimo general mensual vigente en la Capital del Estado, al día del pago de la sanción.
 
 Para los efectos de esta ley, se entenderá por salario mínimo general mensual, el equivalente a treinta veces el salario mínimo diario general vigente en la Capital del Estado.
+
+> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
+
+ARTICULO 70 BIS.- La Secretaría de la Contraloría General o el Órgano de Control que resulte competente impondrá multa de 100 a 500 días de salario mínimo general vigente en el municipio de Hermosillo, Sonora, a aquellos servidores públicos que incumplan con lo establecido en la fracción XXIV del artículo 63 acerca de presentar con toda oportunidad y veracidad la declaración inicial y final de su situación patrimonial y las actualizaciones de la misma en los términos que establece la presente Ley.
 
 > <small>(REFORMADO, B.O. 26 DE ABRIL DE 1993)</small>
 
@@ -811,7 +815,7 @@ También harán la declaración de que se trata, los demás servidores públicos
 
 El servidor público que en su declaración de situación patrimonial faltase a la verdad, en relación con lo que es obligatorio manifestar en los términos de esta Ley, será suspendido, y cuando por su importancia lo amerite, destituido o inhabilitado de tres meses a tres años, sin perjuicio de las investigaciones que el caso pudiere ameritar.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 14 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 94.
 
@@ -925,7 +929,7 @@ EL SECRETARIO DE GOBIERNO,
 
 Lic. Carlos Gámez Fimbres.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
 
 B.O. 26 DE ABRIL DE 1993.
 
@@ -968,3 +972,9 @@ Los propietarios, poseedores, administradores o encargados de establecimientos, 
 ###### ARTÍCULO CUARTO.
 
 En un plazo no mayor a treinta días contados a partir de la entrada en vigor de la presente Ley, el Titular del Ejecutivo Estatal y los ayuntamientos, en su respectivo ámbito de competencia, deberán realizar las adecuaciones pertinentes y emitir las disposiciones administrativas necesarias para cumplir cabalmente con las disposiciones de este ordenamiento.
+
+B.O. 16 DE JULIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
