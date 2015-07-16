@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2015-06-19"
+last_updated: "2015-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2015.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -3621,6 +3621,22 @@ OCTAVO. (DEROGADO, P.O. 16 DE NOVIEMBRE DE 2012)
 
 NOVENO. Se abroga la Ley Orgánica y de Procedimientos del Congreso del Estado, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el 13 trece de marzo de 2003 dos mil tres.
 
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2015)</small>
+
+DÉCIMO. Para efectos de lo previsto por el artículo 100 fracción VIII de la Ley Orgánica y de Procedimientos del Congreso del Estado, el Comité de Administración y Control, por única ocasión, rendirá su último informe al Pleno, de los estados financieros sobre el ejercicio del presupuesto del Poder Legislativo, por el periodo comprendido del 1 de julio al 31 agosto de 2015.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2015)</small>
+
+DÉCIMO PRIMERO. Por única ocasión, el Comité de Administración y Control, de la Septuagésima Tercera Legislatura, rendirá su primer informe al Pleno, referente a lo previsto por el artículo 100 fracción VIII de la Ley Orgánica y de Procedimientos del Congreso del Estado, por el periodo comprendido a los meses del 1 septiembre al 31 de diciembre del 2015.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2015)</small>
+
+DÉCIMO SEGUNDO. Por única ocasión la Junta someterá a discusión y aprobación del Pleno su último informe financiero y de ejecución presupuestal que refiere el artículo 47 fracción XII de la Ley Orgánica y de Procedimientos del Congreso del Estado de Michoacán de Ocampo, por el periodo comprendido del 1 de julio al 31 agosto de 2015.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2015)</small>
+
+DÉCIMO TERCERO. Por única ocasión, la Junta de la Septuagésima Tercera Legislatura, someterá a discusión y aprobación del Pleno, el primer informe financiero y de ejecución presupuestal que refiere el artículo 47 fracción XII de la Ley Orgánica y de Procedimientos del Congreso del Estado de Michoacán de Ocampo, por el periodo comprendido a los meses del 1 (sic) septiembre al 31 de diciembre del 2015.
+
 El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
 
 DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, Morelia, Michoacán de Ocampo, a los 17 diecisiete días del mes de mayo de 2011, dos mil once-
@@ -3708,3 +3724,9 @@ PRIMERO. La presente Ley entrará en vigor a los veinte días siguientes a su ap
 SEGUNDO. Las disposiciones previstas en el presente Decreto, respecto a la adición del segundo párrafo del artículo 17 y la que reforma el artículo 20, entrarán en vigor, a la toma de protesta de los diputados integrantes de la Septuagésima Tercera Legislatura.
 
 TERCERO. Notifíquese al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 16 DE JULIO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación en los términos del artículo 42 de la Constitución Política del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
