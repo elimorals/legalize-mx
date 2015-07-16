@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2014-06-19"
+last_updated: "2015-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE JULIO DE 2015.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -631,15 +631,11 @@ En todos los casos en que por cualquiera causa desaparezca el Congreso, el Ejecu
 
 Para designar el Congreso electo en la forma establecida en el Artículo anterior, se añadirá al número que le corresponda la palabra "BIS", si dentro del periodo constitucional del Congreso desaparecido se instalare el nuevo.
 
-> <small>(REFORMADO, B.O. 7 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, B.O. 16 DE JULIO DE 2015)</small>
 
 ###### Artículo 41.
 
-El Congreso tendrá durante el año dos períodos de sesiones ordinarias y dos periodos de sesiones extraordinarias.
-
-Los periodos de sesiones ordinarias serán: el primero desde el 16 de septiembre hasta el 15 de diciembre y el segundo desde el 1º de abril hasta el día último de junio. Ambos periodos podrán prorrogarse.
-
-Los periodos de sesiones extraordinarias serán: el primero desde la terminación del primer periodo de sesiones ordinarias hasta el día último de marzo y el segundo desde la terminación del segundo periodo de sesiones ordinarias hasta el 15 de septiembre.
+El Congreso tendrá, durante el año, dos periodos de sesiones ordinarias y dos periodos de sesiones extraordinarias. Los periodos de sesiones ordinarias serán: el primero desde el 16 de septiembre hasta el 15 de diciembre y, el segundo, desde el día 01 de marzo hasta el día último de junio. Ambos periodos podrán prorrogarse. Los periodos de sesiones extraordinarias serán: el primero desde la terminación del primer periodo de sesiones ordinarias hasta el día último de febrero y, el segundo, desde la terminación del segundo periodo de sesiones ordinarias hasta el 15 de septiembre.
 
 > <small>(REFORMADO, B.O. 7 DE OCTUBRE DE 2004)</small>
 
@@ -3368,6 +3364,18 @@ La reforma al artículo 30 de esta Constitución, en materia de reelección, ser
 ###### ARTÍCULO SÉPTIMO.
 
 La reforma al artículo 131 de esta Constitución, en materia de reelección, será aplicable a los integrantes de los ayuntamientos que sean electos a partir del proceso electoral que culmine en el año 2018.
+
+B.O. 16 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo que emitan los Ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, a fin de dar cumplimiento a lo establecido por la Constitución Política del Estado Libre y Soberano de Sonora en su artículo 163.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el computo respectivo y la remitan al Titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado, en caso de resultar aprobada.
+
+###### ARTÍCULO SEGUNDO.
+
+Al entrar en vigor la presente Ley, deberán impulsarse las reformas y adiciones a la Ley Orgánica del Poder Legislativo del Estado de Sonora y demás disposiciones legales aplicables a la materia.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
