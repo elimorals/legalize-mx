@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-188-de-ingresos-y-presupuesto-de-ingresos-del-109073
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-29"
-last_updated: "2014-12-29"
+last_updated: "2015-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE INGRESOS Y PRESUPUESTO DE INGRESOS DEL ESTADO PARA EL EJERCICIO FISCAL DEL AÑO 2015
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE JULIO DE 2015.
 
 Ley publicada en el Número 52 Sección I del Boletín Oficial del Estado de Sonora, el lunes 29 de diciembre de 2014.
 
@@ -45,9 +45,13 @@ DE INGRESOS Y PRESUPUESTO DE INGRESOS DEL ESTADO PARA EL EJERCICIO FISCAL DEL A�
 
 En el Ejercicio Fiscal del año 2015, el Estado de Sonora percibirá los ingresos provenientes de los conceptos y en las cantidades estimadas, expresadas en pesos, que a continuación se enumeran:
 
-INGRESOS DEL ESTADO: 48,594,060,440
+> <small>(REFORMADO EN SU MONTO, B.O. 16 DE JULIO DE 2015)</small>
 
-1. IMPUESTOS: 2,192,151,351
+INGRESOS DEL ESTADO: 48,565,280,096
+
+> <small>(REFORMADO EN SU MONTO, B.O. 16 DE JULIO DE 2015)</small>
+
+1. IMPUESTOS: 2,163,371,007
 
 1. Impuestos sobre los ingresos: 59,955,000.00
 
@@ -143,23 +147,11 @@ de Concertación para la Obra Pública. 328,264,118
 
 de la Infraestructura Educativa. 328,264,118
 
-9. Impuestos no comprendidos en las
+9. (DEROGADO, B.O. 16 DE JULIO DE 2015)
 
-fracciones de la Ley de Ingresos causados
+> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
 
-en los ejercicios fiscales anteriores
-
-pendientes de liquidación de pago. 28,780,344
-
-La aplicación de los conceptos impositivos
-
-a que se refiere este apartado, numerales
-
-1.02, 1.03, 1.04 y 5.02, quedan en suspenso
-
-con motivo de la coordinación de la Entidad
-
-con la Federación en materia fiscal.
+Se deja sin efecto el adeudo generado con la implementación del impuesto denominado Contribución al Fortalecimiento Municipal, así como sus accesorios, créditos fiscales y todo tipo de recargo que haya generado el mismo, correspondiente al ejercicio fiscal del año 2013.
 
 2. CUOTAS Y APORTACIONES DE SEGURIDAD SOCIAL
 
@@ -1286,3 +1278,11 @@ GUILLERMO PADRÉS ELIAS
 EL SECRETARIO DE GOBIERNO
 
 ROBERTO ROMERO LÓPEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 16 DE JULIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
