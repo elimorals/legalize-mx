@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2013-12-16"
+last_updated: "2015-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE JULIO DE 2015.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -417,7 +417,7 @@ IX. La disponibilidad de medicamentos y otros insumos esenciales para la salud;
 
 X. La promoción del mejoramiento de la nutrición;
 
-XI. La asistencia social a los grupos más vulnerables; y (sic)
+XI. La asistencia social a los grupos más vulnerables; y
 
 > <small>(ADICIONADA, B.O. 9 DE JUNIO DE 2008)</small>
 
@@ -569,9 +569,21 @@ Cualquier persona podrá denunciar ante las autoridades sanitarias del Estado to
 
 La atención materno-infantil tiene carácter preferente y comprende las siguientes acciones:
 
-I. La atención de la mujer durante el embarazo, el parto y el puerperio;
+> <small>(REFORMADA, B.O. 16 DE JULIO DE 2015)</small>
 
-II. La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna;
+I.- La atención de la mujer durante el embarazo, el parto y el puerperio, brindando especial atención a la transmisión del VIH/Sida y otras infecciones de transmisión sexual en mujeres embarazadas, a fin de evitar la transmisión perinatal;
+
+> <small>(REFORMADA, B.O. 16 DE JULIO DE 2015)</small>
+
+II. La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna, atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas, y atención que incluya la aplicación de la prueba del tamiz neonatal ampliado, y su salud visual;
+
+> <small>(ADICIONADA, B.O. 16 DE JULIO DE 2015)</small>
+
+II Bis. La revisión de retina y tamiz auditivo neonatal;
+
+> <small>(ADICIONADA, B.O. 16 DE JULIO DE 2015)</small>
+
+II Ter. La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados;
 
 III. La atención de la integración y del bienestar familiar; y
 
@@ -1305,7 +1317,7 @@ VII. Apoyar y asesorar a las instituciones en el cumplimiento de sus objetivos y
 
 VIII. Autorizar y supervisar la promoción y realización de suscripciones de cooperación pública, sorteos y, en general, de toda clase de festivales o diversiones que requieran efectuar las instituciones;
 
-IX. Intervenir, en nombre de las fundaciones en proceso de creación por disposición testamentaria, en los juicios sucesorios correspondientes y en todos aquellos procedimientos judiciales en los que pudiesen resultar afectados los intereses de tales instituciones, hasta en tanto éstas queden debidamente constituidas;
+IX. Intervenir, en nombre de las fundaciones en proceso de creación por disposición testamentaria, en los juicios sucesorios correspondientes y en todos aquellos procedimientos judiciales en los que pudiesen resultar afectados los intereses de tales instituciones, hasta en tanto éstas queden debidamente constituídas;
 
 X. Imponer las sanciones administrativas que correspondan por violaciones al presente Capítulo y sus disposiciones reglamentarias. Dichas sanciones podrán consistir en multa, clausura o disolución de la institución o remoción de sus patronos o administradores. Contra las resoluciones de la Junta de Asistencia Privada procederá el recurso de inconformidad previsto en esta ley; y
 
@@ -1367,7 +1379,7 @@ El Patronato o Junta Directiva podrá autorizar a cualesquiera de sus integrante
 
 En el Estado de Sonora, sólo podrán promover y realizar suscripciones de cooperación pública, las instituciones de asistencia pública y aquellas instituciones de asistencia privada debidamente constituidas y registradas ante la Junta de Asistencia Privada.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 9 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 9 DE JUNIO DE 2008)</small>
 
 ## TITULO DECIMO. PROGRAMAS CONTRA LAS ADICCIONES, LAS ENFERMEDADES CARDIOVASCULARES, OBESIDAD Y DIABETES
 
@@ -1383,9 +1395,35 @@ Las autoridades sanitarias, en coordinación con la Secretaría de Salud y el Co
 
 I. La prevención y el tratamiento del alcoholismo y, en su caso, la rehabilitación de los alcohólicos;
 
-II. La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a niños, adolescentes, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva; y
+> <small>(REFORMADA, B.O. 16 DE JULIO DE 2015)</small>
+
+II. Estrategias, programas anuales preventivos y campañas permanentes de difusión e información en materia de combate al abuso en el consumo del alcohol, orientadas a desincentivar el consumo e informando de las consecuencias negativas en la salud de la persona, en la vida familiar y en la social;
 
 III. El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo especialmente en zonas rurales y en los grupos de población considerados de alto riesgo.
+
+> <small>(ADICIONADA, B.O. 16 DE JULIO DE 2015)</small>
+
+IV. Promover la participación de las instituciones sociales en la planeación, programación y ejecución de acciones de naturaleza preventiva y correctiva del abuso en el consumo del alcohol;
+
+> <small>(ADICIONADA, B.O. 16 DE JULIO DE 2015)</small>
+
+V. Promover la formalización de acuerdos con asociaciones empresariales o empresas fabricantes y distribuidoras de bebidas alcohólicas, así como anunciantes, agencias, medios de publicidad, medios de comunicación y asociaciones de consumidores y usuarios, con el fin de prevenir y combatir el abuso en el consumo de bebidas alcohólicas, proteger la salud frente a los riesgos derivados del mismo, así como otras acciones tendientes a lograr el cumplimientos de esta Ley;
+
+> <small>(ADICIONADA, B.O. 16 DE JULIO DE 2015)</small>
+
+VI. Fortalecer las estrategias de apoyo y ayuda dirigidas a familias donde alguno de sus miembros presente problemas de consumo abusivo de bebidas alcohólicas;
+
+> <small>(ADICIONADA, B.O. 16 DE JULIO DE 2015)</small>
+
+VII. Apoyar a centros de prevención y a organizaciones no gubernamentales que promuevan campañas permanentes para reducir el abuso en el consumo de bebidas alcohólicas, o brinden tratamiento a las personas que así lo requieran;
+
+> <small>(ADICIONADA, B.O. 16 DE JULIO DE 2015)</small>
+
+VIII. Promover la participación social con el fin de lograr el cumplimiento de esta ley; y
+
+> <small>(ADICIONADA, B.O. 16 DE JULIO DE 2015)</small>
+
+IX. Las demás que señalen otras disposiciones de carácter general.
 
 ###### ARTICULO 144.
 
@@ -1509,9 +1547,9 @@ ARTICULO 154 BIS.- Toda persona es disponente de su cuerpo y podrá donarlo, tot
 
 El consentimiento de las personas para disponer de su cuerpo, deberá efectuarse en la forma, circunstancias, requisitos, restricciones y prohibiciones previstos en el ordenamiento antes mencionado.
 
-ARTICULO 154 BIS A.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LEY DE DONACION Y TRASPLANTES PARA ORGANISMOS HUMANOS, PUBLICADA EN EL B. O. EL 10 DE JUNIO DE 2005)
+ARTICULO 154 BIS A.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LEY DE DONACIÓN Y TRASPLANTES PARA ORGANISMOS HUMANOS, PUBLICADA EN EL B. O. EL 10 DE JUNIO DE 2005)
 
-ARTICULO 154 BIS B.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LEY DE DONACION Y TRASPLANTES PARA ORGANISMOS HUMANOS, PUBLICADA EN EL B. O. EL 10 DE JUNIO DE 2005)
+ARTICULO 154 BIS B.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LEY DE DONACIÓN Y TRASPLANTES PARA ORGANISMOS HUMANOS, PUBLICADA EN EL B. O. EL 10 DE JUNIO DE 2005)
 
 > <small>(ADICIONADO, B.O. 7 DE JULIO DE 2003)</small>
 
@@ -1519,7 +1557,7 @@ ARTICULO 154 BIS C.- El traslado, preservación, conservación, manejo, etiqueta
 
 Los concesionarios del servicio público de transporte, de ámbito estatal, otorgarán todas las facilidades que requiera el traslado de órganos y tejidos destinados a trasplantes, conforme a las disposiciones aplicables y las normas oficiales mexicanas que emitan las autoridades competentes.
 
-ARTICULO 154 BIS D.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LEY DE DONACION Y TRASPLANTES PARA ORGANISMOS HUMANOS, PUBLICADA EN EL B. O. EL 10 DE JUNIO DE 2005)
+ARTICULO 154 BIS D.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LEY DE DONACIÓN Y TRASPLANTES PARA ORGANISMOS HUMANOS, PUBLICADA EN EL B. O. EL 10 DE JUNIO DE 2005)
 
 > <small>(ADICIONADO, B.O. 7 DE JULIO DE 2003)</small>
 
@@ -1531,9 +1569,9 @@ ARTICULO 154 BIS F.- Los establecimientos de salud en el Estado autorizados por 
 
 Los establecimientos informarán al Registro Estatal de Trasplantes de las acciones que realicen, así como de los donadores, receptores y profesionales que intervengan en los trasplantes, en los términos, forma y periodicidad que señale el Centro Estatal de Trasplantes.
 
-ARTICULO 154 BIS G.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LEY DE DONACION Y TRASPLANTES PARA ORGANISMOS HUMANOS, PUBLICADA EN EL B. O. EL 10 DE JUNIO DE 2005)
+ARTICULO 154 BIS G.- (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LEY DE DONACIÓN Y TRASPLANTES PARA ORGANISMOS HUMANOS, PUBLICADA EN EL B. O. EL 10 DE JUNIO DE 2005)
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 4 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
@@ -1553,7 +1591,7 @@ ARTICULO 154 BIS G.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LEY DE DONACI
 
 ## TITULO DECIMO PRIMERO BIS. DONACIONES Y TRASPLANTES DE ORGANOS, TEJIDOS Y CELULAS Y PERDIDA DE LA VIDA EN SERES HUMANOS
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 7 DE JULIO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 7 DE JULIO DE 2003)</small>
 
 ### CAPITULO VI. RASTROS
 
@@ -1591,7 +1629,7 @@ Los propietarios o encargados de los establecimientos que expendan o suministren
 
 Corresponde a la autoridad municipal, con base en lo que dispongan los Bandos de Policía y Gobierno y demás disposiciones legales aplicables, fijar los horarios a que deberán sujetarse los establecimientos que expendan o suministren alimentos y bebidas no alcohólicas en el Estado.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 7 DE JULIO DE 2003)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, B.O. 7 DE JULIO DE 2003)</small>
 
 ## TITULO DÉCIMO SEGUNDO. SALUBRIDAD LOCAL
 
@@ -1693,7 +1731,7 @@ La Secretaría verificará que los mercados y centros de abastos provisionales o
 
 Los vendedores, locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales, y el ejercicio de sus actividades se sujetará a lo que dispongan esta ley, los reglamentos respectivos, otras disposiciones legales aplicables, y las normas técnicas correspondientes.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 4 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
 ### CAPITULO XII. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
@@ -1933,7 +1971,7 @@ Para el establecimiento de nuevos establos, granjas avícolas, porcícolas o api
 
 Las condiciones sanitarias que deban reunir los establecimiento (sic) a que se refiere este Capítulo, estarán fijadas por esta ley, la Ley de Ganadería para el Estado de Sonora, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 4 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
 ### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
@@ -1957,7 +1995,7 @@ Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el t
 
 Los responsables de los reclusorios, centros de readaptación social y Centros de Tratamiento y de Aplicación de Medidas para Adolescentes, con el apoyo de los servicios médicos de la institución y en coordinación con la autoridad sanitaria, adoptarán las medidas necesarias para la detección, tratamiento, control y notificación de las enfermedades transmisibles, conforme a los reglamentos y normas técnicas aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 4 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
 ### CAPITULO III. CERTIFICADOS
 
@@ -2027,7 +2065,7 @@ Para los efectos de esta ley, se entiende por gasolinera el establecimiento dest
 
 Las gasolineras deberán contar con las instalaciones sanitarias y de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas técnicas correspondientes.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 4 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
 ### CAPITULO III. PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
@@ -2944,3 +2982,27 @@ B.O. 16 DE DICIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 16 DE JULIO DE 2015.
+
+DECRETO NÚMERO 186 POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 50 DE LA LEY DE SALUD PARA EL ESTADO DE SONORA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 16 DE JULIO DE 2015.
+
+DECRETO NÚMERO 188 POR EL QUE SE REFORMA LA FRACCIÓN II Y SE ADICIONAN LAS FRACCIONES IV, V, VI, VII, VIII Y IX DEL ARTÍCULO 143 DE LA LEY DE SALUD PARA EL ESTADO DE SONORA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 16 DE JULIO DE 2015.
+
+DECRETO NÚMERO 191 POR EL QUE SE REFORMA LA FRACCIÓN II Y SE ADICIONAN LAS FRACCIONES II BIS Y II TER AL ARTÍCULO 50 DE LA LEY DE SALUD PARA EL ESTADO DE SONORA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
