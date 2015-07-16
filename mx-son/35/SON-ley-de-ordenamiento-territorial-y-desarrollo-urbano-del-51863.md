@@ -4,7 +4,7 @@ identifier: "SON-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-51863"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-28"
-last_updated: "2014-12-11"
+last_updated: "2015-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51863&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE JULIO DE 2015.
 
 Ley publicada en el la Sección IV del Boletín Oficial del Estado de Sonora, el jueves 28 de septiembre de 2006.
 
@@ -113,6 +113,10 @@ IV.- Área urbana: La ocupada por infraestructura, equipamiento, instalaciones y
 
 V.- Área urbanizable: La superficie susceptible de ser urbanizada de la manera prevista en el programa de ordenamiento territorial y desarrollo urbano que corresponda por reunir condiciones para ser dotadas de servicios, incluidas las reservadas para el crecimiento de un centro de población o para la fundación de nuevos asentamientos humanos;
 
+> <small>(ADICIONADA, B.O. 16 DE JULIO DE 2015)</small>
+
+V Bis.- Área Verde: Los espacios urbanos, o de periferia a éstos, predominantemente ocupados con árboles, arbustos o plantas, que pueden tener diferentes usos, ya sea cumplir funciones de esparcimiento, recreación, ecológicas, ornamentación, protección, recuperación y rehabilitación del entorno, mitigación de riesgos o similares;
+
 VI.- Asentamiento humano: El establecimiento de un conglomerado demográfico con el conjunto de sus sistemas de convivencia, en un área físicamente localizada, considerando dentro de la misma los elementos naturales, culturales y las obras materiales que lo integran;
 
 VII.- Asentamientos humanos irregulares: Los núcleos de población ubicados en áreas o predios con acciones de urbanización, fraccionados o subdivididos sin las autorizaciones correspondientes conforme a esta ley y los programas de ordenamiento territorial y desarrollo urbano vigentes;
@@ -135,9 +139,13 @@ XV.- Dictamen de congruencia de los programas de desarrollo urbano: El documento
 
 XVI.- Dictamen para usos de impacto regional: El documento oficial a través del cual la Secretaría determina sobre la procedencia en obras, actividades o proyectos y cuya materia no se encuentre expresamente atribuida a la Federación y que puedan provocar una alteración significativa en el aprovechamiento del territorio o desequilibrio ambiental en el Estado;
 
-XVII.- Equipamiento urbano: El conjunto de inmuebles, instalaciones y construcciones de uso público utilizado para prestar los servicios urbanos y el desarrollo de las actividades económicas, culturales y sociales de la población;
+> <small>(REFORMADA, B.O. 16 DE JULIO DE 2015)</small>
 
-XVIII.- Estructura urbana: El conjunto de componentes, tales como el suelo, la vialidad, el transporte, la vivienda, el equipamiento, la infraestructura, la estructura inmobiliaria, paisaje y su medio ambiente, entre otros, que actúan interrelacionados y que constituyen la organización espacial que caracteriza a un área urbana;
+XVII.- equipamiento urbano: El conjunto de inmuebles, instalaciones y construcciones de uso público utilizado para prestar los servicios urbanos y el desarrollo de las actividades económicas, culturales, sociales y deportivas de la población;
+
+> <small>(REFORMADA, B.O. 16 DE JULIO DE 2015)</small>
+
+XVIII.- Estructura urbana: El conjunto de componentes, tales como el suelo, la vialidad, el transporte, la vivienda, el equipamiento, la infraestructura, la estructura inmobiliaria, paisaje, áreas verdes y su medio ambiente, entre otros, que actúan interrelacionados y que constituyen la organización espacial que caracteriza a una área urbana;
 
 XIX.- Fraccionador: La persona física o moral que el Ayuntamiento autoriza para realizar un fraccionamiento sobre un predio determinado;
 
@@ -184,6 +192,10 @@ XXXIX.- Secretaría: La Secretaría de Infraestructura y Desarrollo Urbano;
 XL.- Servicios urbanos: Las actividades operativas públicas prestadas directamente por la autoridad competente o a través de los particulares en los términos previstos por las leyes aplicables, para satisfacer necesidades colectivas en los centros de población;
 
 XLI.- Supermanzanas: La superficie de terreno de forma regular ó irregular delimitada por vías de circulación primaria o bien colector con toda la infraestructura de servicios a pie de terreno;
+
+> <small>(ADICIONADA, B.O. 16 DE JULIO DE 2015)</small>
+
+XLI Bis.- Unidades deportivas: A una construcción provista de los medios necesarios para el aprendizaje, la práctica y la competición de uno o más deportes. Incluyen las áreas donde se realizan las actividades deportivas, los diferentes espacios complementarios y los de servicios auxiliares, quedando establecido que una unidad deportiva no son consideradas (sic) como áreas verdes, para los efectos de la donación correspondiente;
 
 XLII.- Usos: Los fines particulares a que podrán dedicarse determinadas zonas o predios de un centro de población;
 
@@ -538,6 +550,10 @@ IV.- Alcanzar la integración funcional del territorio, asegurando la accesibili
 V.- Garantizar a los centros de población rural condiciones de accesibilidad a la infraestructura y equipamiento;
 
 VI.- Salvaguardar los recursos naturales, mantener el equilibrio ecológico y mejorar las condiciones ambientales de los centros de población;
+
+> <small>(ADICIONADA, B.O. 16 DE JULIO DE 2015)</small>
+
+VI Bis.- Garantizar la creación de áreas verdes, dentro y alrededor de los centros urbanos, atendiendo las recomendaciones al respecto que emite la Organización Mundial de la Salud;
 
 VII.- Proteger el patrimonio histórico-cultural de la entidad; y
 
@@ -1291,7 +1307,9 @@ VI.- Las proporciones relativas a las áreas y servicios sanitarios y el equipam
 
 VII.- Las especificaciones relativas a las características y dimensiones de los lotes, a la densidad de construcción en los mismos, considerados individualmente, así como a las densidades totales;
 
-VIII.- Las normas de urbanización y las áreas que quedarán a cargo del Ayuntamiento respectivo; y
+> <small>(REFORMADA, B.O. 16 DE JULIO DE 2015)</small>
+
+VIII.- Las normas de urbanización y las áreas que quedarán a cargo del Ayuntamiento respectivo, sin que pueda modificarse o variar las áreas verdes originalmente autorizadas en el proyecto ejecutivo de obra; y
 
 IX.- Las normas técnicas y los demás derechos y obligaciones que establezca la presente ley.
 
@@ -1313,9 +1331,25 @@ El acuerdo de incorporación urbana conlleva la obligación de las autoridades m
 
 I.- Recibir las obras de urbanización, instalaciones y el equipamiento urbano, una vez que se haya cumplido lo estipulado en la autorización respectiva;
 
-II.- Prestar los servicios públicos municipales previstos en las leyes relativas y aplicables; y
+> <small>(REFORMADA, B.O. 16 DE JULIO DE 2015)</small>
 
-III.- Incorporar el área desarrollada como suelo urbanizado dentro de su programa vigente.
+II.- Prestar los servicios públicos municipales previstos en las leyes relativas y aplicables;
+
+> <small>(REFORMADA, B.O. 16 DE JULIO DE 2015)</small>
+
+III.- Incorporar el área desarrollada como suelo urbanizado dentro de su programa vigente;
+
+> <small>(ADICIONADA, B.O. 16 DE JULIO DE 2015)</small>
+
+IV.- recibir y preservar las áreas verdes, parques y jardines con su vegetación nativa o adaptada, sin que se pueda modificar su destino bajo ningún título de enajenación;
+
+> <small>(ADICIONADA, B.O. 16 DE JULIO DE 2015)</small>
+
+V.- Determinar dentro del equipamiento urbano, el área destinada a las unidades deportivas, garantizando que las unidades deportivas no sean las áreas verdes; y
+
+> <small>(ADICIONADA, B.O. 16 DE JULIO DE 2015)</small>
+
+VI.- Las áreas de equipamiento urbano podrán otorgarse en comodato siempre y cuando no se modifique su destino, para lo cual ya deberán haber sido vendidos por el fraccionador como mínimo el 60 por ciento de los bienes inmuebles y que más del cincuenta por ciento de los nuevos propietarios aprueben por escrito y ante fe notarial dicho comodato. El comodatario tendrá un plazo no mayor a un año para iniciar las obras respectivas.
 
 ###### ARTÍCULO 93.
 
@@ -1363,13 +1397,47 @@ VIII.- Rampas de acceso en las esquinas para personas con discapacidad;
 
 IX.- Pavimento;
 
-X.- Arbolado y equipamiento en parques y jardines públicos;
+> <small>(REFORMADA, B.O. 16 DE JULIO DE 2015)</small>
 
-XI.- Calles colectoras; y
+X.- Áreas verdes y equipamiento en parques y jardines públicos, que deberán ser con vegetación natural, vegetación nativa o adaptada y no importada, la que predomine en cada uno de los municipios; así como áreas exclusivas para la realización de deporte, independientemente de las áreas verdes;
 
-XII.- Calles locales.
+> <small>(REFORMADA, B.O. 16 DE JULIO DE 2015)</small>
 
-Cuando los municipios realicen acciones de urbanización de acuerdo a los programas sociales de suelo y vivienda, se estará a lo dispuesto en el Reglamento Municipal que para tal efecto se expida.
+XI.- Calles colectoras;
+
+> <small>(REFORMADA, B.O. 16 DE JULIO DE 2015)</small>
+
+XII.- Calles locales; y
+
+> <small>(ADICIONADA, B.O. 16 DE JULIO DE 2015)</small>
+
+XIII.- Transporte Público en la vialidad primaria y secundaria, con paradas a una distancia no mayor a los 300 metros de distancia del fraccionamiento, siendo obligación de la autoridad responsable, definir el sitio de la parada correspondiente.
+
+> <small>(REFORMADO, B.O. 16 DE JULIO DE 2015)</small>
+
+Cuando los municipios realicen acciones de urbanización de acuerdo a los programas sociales de suelo y vivienda, se estará a lo dispuesto en el Reglamento Municipal que para tal efecto se expida, debiéndose acatar el lineamiento que en materia de infraestructura para vialidades primarias, secundarias y locales se establece en el (sic) la Ley de Vivienda, con base a los siguientes lineamentos:
+
+A.- VIALIDADES PRIMARIAS:
+
+a).- Sección total mínima: 34 metros
+
+b).- Arroyo mínimo: 21 metros
+
+c).- Camellón central con vegetación de mínimo 3.50 metros para permitir vuelta a la izquierda.
+
+d).- Ubicar señalización vías con camellón central y dentro de franja de mobiliario urbano.
+
+e).- Tiras táctiles en piso para señalar cambios de sentido o intersecciones con otras vías.
+
+f).- Una senda exclusiva para ciclovías de 1.50 metros mínimos en sentido y 2.50 metros mínimos para doble circulación.
+
+B.- VIALIDADES SECUNDARIAS:
+
+a).- De acuerdo a la Ley Municipal de Desarrollo Urbano
+
+C.- VIALIDADES LOCALES:
+
+a).- De acuerdo a la Ley Municipal de Desarrollo Urbano
 
 ###### ARTÍCULO 97.
 
@@ -1399,7 +1467,9 @@ IX.- Hidrantes contra incendios;
 
 X.- Guarniciones y banquetas de concreto con rampas de acceso en las esquinas para personas con discapacidad;
 
-XI.- Arbolado y equipamiento de parques y jardines; y
+> <small>(REFORMADA, B.O. 16 DE JULIO DE 2015)</small>
+
+XI.- Áreas verdes y equipamiento en parques y jardines públicos, que deberán ser con vegetación natural, vegetación nativa o adaptada y no importada, la que predomine en cada uno de los municipios; así como áreas exclusivas para la realización de deporte, independientemente de las áreas verdes; y
 
 XII.- Áreas de servicios generales.
 
@@ -1433,7 +1503,9 @@ a) Plano de localización;
 
 b) Dimensionamiento de manzanas, lotes y/o supermanzanas; y
 
-c) Distribución de los usos de suelo como son habitacional, comercial, vialidades, reservas, área de donación en su caso, áreas verdes y afectaciones si existen;
+> <small>(REFORMADO, B.O. 16 DE JULIO DE 2015)</small>
+
+c) Distribución de los usos de suelo como son habitacional, comercial, vialidades, reservas, áreas de donación en su caso, áreas verdes con vegetación nativa de la zona o adaptada, áreas deportivas y afectaciones si existen;
 
 VI.- Estudio del drenaje pluvial del fraccionamiento con respecto a la zona donde se ubica, para su revisión y aprobación correspondiente;
 
@@ -1469,7 +1541,13 @@ El fraccionador tendrá las obligaciones siguientes:
 
 I.- Ceder al Municipio, a título gratuito, superficies de terreno para vías públicas y áreas de donación destinadas a garantizar el área necesaria de equipamiento urbano y otros espacios de carácter público, así como aquellas que contribuyan a fortalecer las acciones de reserva territorial, de conformidad con las disposiciones previstas en los reglamentos de esta ley.
 
-En el caso de que por las características propias del fraccionamiento no sea posible donar la superficie de terreno necesaria para equipamiento urbano, sin incluir parques y jardines, el fraccionador podrá hacer una aportación en efectivo equivalente al valor comercial de la superficie a donar, la cual se integrará a un Fondo que se constituirá por la autoridad competente para la adquisición de reservas territoriales destinadas a equipamiento.
+> <small>(REFORMADO, B.O. 16 DE JULIO DE 2015)</small>
+
+En ningún caso, el fraccionador conmutará la donación de superficie de terreno necesaria para equipamiento urbano, incluyendo parques y jardines, por una aportación en efectivo, debiendo entregar la superficie que le corresponda dentro de su polígono.
+
+> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
+
+En el caso de vivienda mayor a dos niveles, si las condiciones no permiten la donación dentro del polígono a desarrollarse, esta superficie de donación podrá hacerse en cualquier punto de la ciudad equivalente en metros cuadrados al valor catastral de la superficie a donar, conservando el uso y destino para lo que fue donada.
 
 II.- Terminar la construcción de las obras de infraestructura y urbanización, garantizando que las mismas se hayan ejecutado sin defectos ni vicios ocultos dentro del plazo establecido en la autorización correspondiente;
 
@@ -1489,19 +1567,21 @@ IX.- Ejecutar por su cuenta los gastos de conservación de las obras de urbaniza
 
 X.- Las demás que establezcan esta ley y sus reglamentos.
 
+> <small>(REFORMADO, B.O. 16 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 103.
 
-Las áreas de donación destinadas a garantizar el área necesaria de equipamiento urbano y otros espacios de carácter público, así como aquellas que contribuyan a fortalecer las acciones de reserva territorial se determinarán de la siguiente manera:
+Las áreas de donación destinadas a garantizar el área necesaria de equipamiento urbano, áreas verdes y otros espacios de carácter público, serán con base a la densidad de población, la misma que se determinará a continuación:
 
-I.- En los fraccionamientos unifamiliares con densidad baja, se donará el catorce por ciento de la superficie total vendible, de la cual el tres por ciento deberá ser en parques y jardines;
+I.- Durante el año 2015, en todos los fraccionamientos habitacionales, tanto unifamiliares como plurifamiliares se donarán 6.0 metros cuadrados por vivienda para áreas de equipamiento y 2.4 metros cuadrados por vivienda para áreas deportivas, además de 4.2 metros cuadrados por vivienda para áreas verdes.
 
-II.- En los fraccionamientos unifamiliares con densidad media, el doce por ciento de la superficie total vendible, de la cual el tres por ciento deberá ser en parques y jardines;
+A partir del año 2016 las donaciones para áreas de equipamiento y deportivas permanecerán sin cambio y las donaciones en áreas verdes aumentarán en .50 metros adicionales por vivienda por año hasta llegar en el año 2019 a un máximo de 6.2 metros por vivienda.
 
-III.- En los fraccionamientos unifamiliares con densidad alta, el diez por ciento de la superficie total vendible, de la cual el tres por ciento deberá ser en parques y jardines;
+II.- En fraccionamientos industriales se donará el 7 por ciento del área vendible para áreas verdes y el 7 por ciento para equipamiento.
 
-IV.- En fraccionamientos plurifamiliares con densidad alta, el doce por ciento de la superficie total urbanizable a fraccionar; y
+III.- Para viviendas construidas en lotes con una superficie igual o mayor a 300 metros cuadrados, se multiplicarán por 1.5 las áreas de equipamiento, áreas deportivas y áreas verdes descritas en la fracción I de este artículo.
 
-V.- En fraccionamientos industriales, el diez por ciento de la superficie total vendible.
+IV.- Será responsabilidad del desarrollador de vivienda el equipamiento adecuado de las áreas deportivas, proporcionando las instalaciones necesarias para el aprendizaje, practica, y/o la competición de uno o más deportes.
 
 ###### ARTÍCULO 104.
 
@@ -1959,6 +2039,12 @@ III.- Se realicen o se lleven a cabo modificaciones al proyecto inicialmente aut
 
 Las sanciones consistentes en multa impuestas por la autoridad competente se harán efectivas por conducto de la Secretaría de Hacienda y de las tesorerías municipales, según corresponda, mediante el procedimiento administrativo de ejecución, en los términos de las leyes fiscales aplicables.
 
+> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
+
+###### ARTÍCULO 155 Bis.
+
+Al funcionario estatal o municipal que modifique o enajene o autorice la modificación o enajenación de las áreas destinadas a áreas verdes, parques, jardines y equipamiento urbano previstas en los artículos 92 fracciones IV, V y VI y artículo 103 de la presente Ley, se le sancionará con prisión de uno a tres años, con multa de cincuenta mil a doscientos mil días de salario mínimo vigente, e inhabilitación para el desempeño de cualquier cargo, comisión o empleo público, por un lapso igual al de la pena de prisión impuesta. De igual forma el acto realizado de modificación o enajenación estará afectado de nulidad.
+
 ## TÍTULO DÉCIMO SEGUNDO. DE LA DEFENSA DE LOS PARTICULARES
 
 ### CAPÍTULO ÚNICO. DEL RECURSO DE INCONFORMIDAD
@@ -2122,3 +2208,9 @@ Las instituciones públicas tendrán un plazo de 90 días para realizar las adec
 ###### ARTICULO TERCERO.
 
 El Ejecutivo del Estado y los Ayuntamientos dispondrán de lo necesario para la difusión, promoción y ejecución de las medidas derivadas del ordenamiento objeto de esta reforma, de manera tal que coadyuven a (sic) eficaz aplicación y conclusión de las mismas.
+
+B.O. 16 DE JULIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
