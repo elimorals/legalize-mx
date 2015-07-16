@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-comisiones-del-consejo-general-del-instituto-6195
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-18"
-last_updated: "2008-07-18"
+last_updated: "2015-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61952&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-06-27"
 
 REGLAMENTO DE COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO DE COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 16 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 18 de julio de 2008.
 
@@ -654,3 +656,17 @@ Primero. El presente Reglamento entrará en vigor a partir del día siguiente de
 Segundo. Se abroga el Reglamento de Comisiones del Consejo General del Instituto Federal Electoral aprobado el 6 de octubre de 2005 y sus modificaciones.
 
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 27 de junio de dos mil ocho.- El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 16 DE JULIO DE 2015.
+
+Primero.- Las previsiones del presente Reglamento serán aplicables, en lo que corresponda, al Órgano Garante de la Transparencia y el Acceso a la Información hasta en tanto se expida la Ley secundaria en la materia.
+
+Segundo.- En tanto se expida la normatividad interna que regule el funcionamiento de la estructura orgánica del Instituto en términos de lo previsto en la Ley General de Instituciones y Procedimientos Electorales, fungirán como Secretaría Técnica de la Comisión de Quejas y Denuncias y de Fiscalización, la Dirección Jurídica y la Unidad de Fiscalización de los Recursos de los Partidos Políticos, respectivamente.
+
+Tercero.- Las previsiones del presente Reglamento en relación a los procedimientos ordinarios sancionadores, le serán aplicables, en lo que resulte procedente, a los procedimientos especiales sancionadores, hasta en tanto se emita la normatividad específica que los regule.
+
+Cuarto.- Se abroga el Reglamento de Comisiones del Consejo General del Instituto Federal Electoral, publicado en el Diario Oficial de la Federación el 18 de julio de 2008, así como sus reformas y adiciones.
+
+Quinto.- Los asuntos que se encuentren en trámite al momento de la entrada en vigor del presente Reglamento, continuarán hasta su conclusión de conformidad con las normas vigentes al momento de su inicio.
