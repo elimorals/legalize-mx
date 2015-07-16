@@ -4,7 +4,7 @@ identifier: "SON-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-63502
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-25"
-last_updated: "2014-12-11"
+last_updated: "2015-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE JULIO DE 2015.
 
 Ley publicada en la Sección VIII del Boletín Oficial del Estado de Sonora, el jueves 25 de septiembre de 2008.
 
@@ -1385,7 +1385,7 @@ d) La obra o actividad pueda propiciar que una o más especies sean declaradas c
 
 II.- Para la revocación:
 
-a) Por el incumplimiento del fin para que (sic) el fue otorgada;
+a) Por el incumplimiento del fin para que el (sic) fue otorgada;
 
 b) Por incurrir en alguna de las causales previstas en los incisos a), c), d) y e) de la fracción III del artículo 97 de esta ley; y
 
@@ -1499,7 +1499,15 @@ Queda prohibido emitir contaminantes a la atmósfera que ocasionen o puedan ocas
 
 Las personas físicas o morales, públicas o privadas, que pretendan realizar o realicen obras o actividades por las que se emitan a la atmósfera olores, gases o partículas sólidas o líquidas serán responsables del cumplimiento de las disposiciones a que se refiere este artículo.
 
-#### SECCIÓN I. DE LAS ATRIBUCIONES
+#### SECCIÓN IV. DE LA QUEMA AGRÍCOLA
+
+> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
+
+ARTÍCULO 126 BIS.- Queda estrictamente prohibido la quema de material vegetal y de crecimiento en terrenos agrícolas, salvo que se hubiese obtenido el permiso de quema controlada expedido por el ayuntamiento correspondiente.
+
+> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
+
+ARTÍCULO 126 TER.- Los ayuntamientos, a través de su dependencia dedicada a la ecología, emitirán las licencias a quienes habiendo presentado un plan de quema controlada, cumplan con los requisitos establecidos por los mismos municipios para la mitigación del impacto a los recursos naturales y a propiedades colindantes.
 
 ###### ARTÍCULO 114.
 
@@ -1551,7 +1559,7 @@ La Comisión o el Ayuntamiento correspondiente, no permitirán quemas a cielo ab
 
 Podrán suspender de manera total o parcial, temporal o definitiva el permiso que hubieren otorgado cuando se presente algún evento extraordinario de contingencia ocasionado por las combustiones, o cuando las condiciones ambientales no permitan una adecuada dispersión de los contaminantes.
 
-#### SECCIÓN II. DE LOS CRITERIOS PARA EL MANEJO INTEGRAL DE RESIDUOS
+#### SECCIÓN I. DE LAS ATRIBUCIONES
 
 ###### ARTÍCULO 117.
 
@@ -1703,7 +1711,9 @@ IV.- Se hubiere determinado por dos ocasiones la suspensión de la autorización
 
 La certificación o constatación de los niveles de emisión de contaminantes en los centros de verificación se realizará de acuerdo con las normas oficiales mexicanas aplicables.
 
-#### SECCIÓN III. DE LAS AUTORIZACIONES PARA EL MANEJO Y DISPOSICIÓN FINAL DE RESIDUOS, Y DE SU MANEJO INTEGRAL
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 16 DE JULIO DE 2015)</small>
+
+#### SECCIÓN II. DE LOS CRITERIOS PARA EL MANEJO INTEGRAL DE RESIDUOS
 
 ### CAPÍTULO II. DE LA PREVENCIÓN Y EL CONTROL DE LA CONTAMINACIÓN DEL AGUA
 
@@ -1873,7 +1883,7 @@ La Comisión promoverá directamente o en coordinación con las dependencias fed
 
 ### CAPÍTULO IV. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN POR RESIDUOS
 
-#### SECCIÓN IV. INGRESO AL ESTADO DE RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL
+#### SECCIÓN III. DE LAS AUTORIZACIONES PARA EL MANEJO Y DISPOSICIÓN FINAL DE RESIDUOS, Y DE SU MANEJO INTEGRAL
 
 ###### ARTÍCULO 144.
 
@@ -1968,6 +1978,8 @@ La Comisión propiciará la celebración de acuerdos de coordinación entre los 
 La Comisión y los ayuntamientos promoverán que en la fabricación y utilización de empaques y envases para todo tipo de productos se utilicen materiales que permitan reducir la generación de residuos sólidos no peligrosos.
 
 Asimismo, promoverán entre los productores, importadores, intermediarios y, en general, cualquier persona física o moral responsable de introducir en el mercado productos que con su uso se conviertan en residuos, la implementación de medidas necesarias para que los envases de dichos productos favorezcan la prevención en la generación de residuos y faciliten su reutilización o el reciclado o valorización de éstos. Igualmente, promoverán que dichos sujetos participen en el establecimiento de sistemas organizados de gestión de dichos residuos, por sí o a través de la autoridad, con cargo a los consumidores de los mismos.
+
+#### SECCIÓN IV. INGRESO AL ESTADO DE RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL
 
 ###### ARTÍCULO 151.
 
@@ -2746,3 +2758,13 @@ B.O. 11 DE DICIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 16 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los ayuntamientos tendrán un plazo de 120 días naturales contados a partir de la publicación del presente decreto, para emitir el procedimiento de solicitud y los requisitos que mitiguen el impacto a los recursos naturales y a propiedades colindantes, para la obtención de la licencia de quema controlada.
