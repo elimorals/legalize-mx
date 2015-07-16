@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-del-consejo-general-del-instituto-61486"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-16"
-last_updated: "2011-09-05"
+last_updated: "2015-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61486&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,11 @@ issue_date: "2008-05-23"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE EXPIDE EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL
 
-> <small>N. DE E. LAS REFORMAS APROBADAS POR EL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, MODIFICA DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DEL REGLAMENTO DEL 16 DE JUNIO DE 2008, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN EL D.O.F. DE 7 DE JULIO DE 2011.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO Y EL TRANSITORIO PRIMERO DEL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 16 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE SEPTIEMBRE DE 2011.
+> <small>N. DE E. LAS REFORMAS APROBADAS POR EL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, MODIFICA DE MANERA SUSTANCIAL PRÁCTICAMENTE TODO EL TEXTO DEL REGLAMENTO DEL 16 DE JUNIO DE 2008, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTÍCULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN EL D.O.F. DE 7 DE JULIO DE 2011.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2015 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 16 de junio de 2008.
 
@@ -243,7 +245,7 @@ a) Concurrir y participar en las deliberaciones del Consejo;
 
 b) Integrar el pleno del Consejo;
 
-c) Solicitar al Secretario, de conformidad con las reglas establecidas en este Reglamento, la inclusión de asuntos en el orden del día, y (sic)
+c) Solicitar al Secretario, de conformidad con las reglas establecidas en este Reglamento, la inclusión de asuntos en el orden del día, y
 
 d) Por mayoría, solicitar se convoque a sesión extraordinaria en los términos previstos en el presente Reglamento; y
 
@@ -811,7 +813,7 @@ Quinto.- El Secretario Ejecutivo dispondrá a la brevedad posible, la edición d
 
 El presente Acuerdo fue aprobado en sesión ordinaria del Consejo General celebrada el 23 de mayo de dos mil ocho.- El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- De conformidad en lo dispuesto por los artículos 115, párrafo 2 y 125, párrafo 1, inciso b) del Código Federal de Instituciones y Procedimientos Electorales; 16, párrafo 2, inciso c) del Reglamento Interior del Instituto Federal Electoral y 16, párrafo 4 del Reglamento de Sesiones del Consejo General, el Director Ejecutivo de Capacitación Electoral y Educación Cívica y Encargado del Despacho de la Secretaría Ejecutiva, Hugo Alejandro Concha Cantú.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 7 DE JULIO DE 2011.
 
@@ -830,3 +832,15 @@ D.O.F. 5 DE SEPTIEMBRE DE 2011.
 Segundo.- Las modificaciones al Reglamento de sesiones del Consejo General entrarán en vigor al día siguiente de su aprobación por el Consejo General.
 
 Tercero.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en la Gaceta del Instituto Federal Electoral.
+
+D.O.F. 16 DE JULIO DE 2015.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+Segundo.- El presente Acuerdo entrará en vigor y surtirá efectos al día siguiente de su aprobación por el Consejo General.
+
+## TRANSITORIOS
+
+Primero.- Se abroga el Reglamento de Sesiones del Consejo General del Instituto Federal Electoral, publicado en el Diario Oficial de la Federación el 16 de junio de 2008, así como sus reformas y adiciones.
+
+Segundo.- Los asuntos que se encuentren en trámite al momento de la entrada en vigor del presente Reglamento, continuaran hasta su conclusión de conformidad con las normas vigentes al momento de su inicio.
