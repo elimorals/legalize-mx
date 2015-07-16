@@ -4,7 +4,7 @@ identifier: "SON-ley-de-seguridad-escolar-para-el-estado-de-sonora-67616"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-15"
-last_updated: "2014-01-09"
+last_updated: "2015-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SEGURIDAD ESCOLAR PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2015.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 15 de enero de 2009.
 
@@ -180,6 +180,12 @@ VI.- Motivar y facilitar la organización de los miembros de la comunidad escola
 VII.- Proponer que en la toma de decisiones, en materia de esta ley, las autoridades o instancias respectivas consideren las necesidades específicas para cada una de las regiones del Estado; y
 
 VIII.- Las demás atribuciones que conforme a esta ley y otras disposiciones aplicables le correspondan.
+
+> <small>(ADICIONADO, B.O. 16 DE JULIO DE 2015)</small>
+
+ARTÍCULO 10 BIS.- La Secretaria de Educación y Cultura podrá celebrar convenios con asociaciones civiles legalmente constituidas, cuya finalidad y objeto sea el realizar labor altruista en beneficio de los adultos mayores, para efecto de que las asociaciones civiles canalicen personas adultos mayores para coadyuvar de manera voluntaria en planteles educativos públicos del Estado en las labores de seguridad peatonal de alguna comunidad escolar determinada.
+
+Los adultos mayores que colaboren en los planteles educativos públicos en términos de lo establecido en el párrafo anterior recibirán cobertura en servicios médicos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE ENERO DE 2014)</small>
 
@@ -610,3 +616,9 @@ El Ejecutivo del Estado cuenta con un plazo de ciento ochenta días, a partir de
 ###### ARTÍCULO TERCERO.
 
 El Ejecutivo del Estado, a través de las dependencias a su cargo y las que se señalan en el artículo 7 de la Ley de Seguridad Escolar para el Estado de Sonora, cuenta con un plazo de trescientos sesenta días naturales, contado a partir de la publicación del presente decreto, para acreditar a la totalidad del personal docente, administrativo y de apoyo, que labora en las instituciones educativas donde aplique la Ley de Seguridad Escolar para el Estado de Sonora.
+
+B.O. 16 DE JULIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
