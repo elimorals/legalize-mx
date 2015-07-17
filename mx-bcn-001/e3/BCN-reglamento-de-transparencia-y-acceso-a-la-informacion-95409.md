@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transparencia-y-acceso-a-la-informacion-95409"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-08-09"
-last_updated: "2014-10-10"
+last_updated: "2015-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 9 de agosto de 2013.
 
@@ -357,39 +357,41 @@ En el caso de las Delegaciones Municipales, éstas actuarán como oficina recept
 
 En este último caso, el plazo para la entrega de la información queda automáticamente duplicado.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE JULIO DE 2015)</small>
 
-### CAPÍTULO II. DEL COMITÉ TÉCNICO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL AYUNTAMIENTO DE ENSENADA
+### CAPÍTULO II. DEL COMITÉ TÉCNICO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PÚBLICA DEL AYUNTAMIENTO DE ENSENADA
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2015)</small>
 
 ###### Artículo 24.
 
-El Comité técnico de Transparencia y Acceso a la Información Pública del Ayuntamiento de Ensenada, es un órgano normativo y tendrá como objeto coordinar y supervisar las acciones tendientes al cumplimiento de las disposiciones de este Reglamento, y estará integrado por:
+El Comité Técnico de Transparencia y Acceso a la Información Pública del Ayuntamiento de Ensenada, es un órgano normativo y tendrá como objeto coordinar y supervisar las acciones tendientes al cumplimiento de las disposiciones de este Reglamento, y estará integrado por:
 
-I. El Presidente Municipal, quien presidirá el Comité de Información;
+I.- El Presidente Municipal, quien presidirá el Comité de Información;
 
-II. El Síndico Procurador;
+II.- El Síndico Procurador;
 
-III. Síndico Social;
+III.- Síndico Social;
 
-IV. El Regidor Coordinador de la Comisión de Gobernación y Legislación;
+IV.- El Regidor Coordinador de la Comisión de Gobernación y Legislación;
 
-V. El Regidor Coordinador de la Comisión de Administración Pública y Fortalecimiento Municipal;
+V.- El Regidor Coordinador de la Comisión de Administración Pública y Fortalecimiento Municipal;
 
-VI. El Regidor Coordinador de la Comisión de Transparencia y Rendición de Cuentas.
+VI.- El Regidor Coordinador de la Comisión de Transparencia y Rendición de Cuentas;
 
-VII. El Secretario General del Ayuntamiento;
+VII.- El Secretario General del Ayuntamiento;
 
-VIII. Jefe de la Oficina de Presidencia;
+VIII.- El Jefe de la Oficina de Presidencia;
 
-IX. Tesorero Municipal;
+IX.- El Tesorero Municipal;
 
-X. El Director de Asuntos Jurídicos;
+X.- El Director de Asuntos Jurídicos;
 
-XI. El Subdirector de Informática; y
+XI.- El Subdirector de Informática; y
 
-XII. El Titular de la Unidad Municipal Concentradora de Transparencia y Acceso a la Información, quien fungirá como Secretario Técnico del mismo y sólo tendrá derecho a voz.
+XII.- El Titular de la Unidad Municipal Concentradora de Transparencia y Acceso a la Información, quien fungirá como Secretario Técnico del mismo y sólo tendrá derecho a voz.
+
+El Síndico Procurador como Órgano de Control Interno del Municipio de Ensenada, podrá asistir a las sesiones del comité con voz, pero sin voto
 
 Conformado el comité o si se diera sustitución definitiva de alguno de sus integrantes se comunicará al órgano garante para que este lo registre.
 
@@ -592,3 +594,7 @@ PRIMERO.- Una vez siendo aprobada la presente reforma, publíquese en el Periód
 SEGUNDO.- Una vez siendo aprobada la presente reforma no será aplicable el perfil establecido en el presente reglamento, ni transgredir los derechos laborales del actual Titular de la Unidad de Transparencia y Acceso a la Información, por lo que al momento de designar un nuevo Titular este deberá cumplir con los requisitos establecidos en el presente reglamento.
 
 TERCERO.- El Responsable de Enlace de la Unidad que menciona el presente Reglamento será designado del personal actual de la dependencia.
+
+P.O. 17 DE JULIO DE 2015.
+
+ÚNICO.- Una vez siendo aprobada la presente reforma, publíquese en la Gaceta Municipal y/o en el Periódico Oficial del Gobierno del Estado de Baja California, para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B. C.
