@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2015-05-28"
+last_updated: "2015-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ABRIL DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 28 DE MAYO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE JULIO DE 2015.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -87,25 +85,25 @@ La libertad del hombre y de la mujer no tiene más límite que la prohibición d
 
 Toda persona tiene derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. En el Estado de Veracruz se garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADO, G.O. 11 DE MAYO DE 2011)</small>
 
 En materia penal el proceso será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación y tendrá por objeto el esclarecimiento de los hechos, proteger al inocente, evitar que el culpable quede impune y asegurar que se reparen los daños causados por el delito.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADO, G.O. 11 DE MAYO DE 2011)</small>
 
 Toda persona es inocente en tanto no se le declare culpable mediante sentencia del juez de la causa que no haya conocido el caso previamente, y ante quien se desarrollará todo el juicio, incluyendo el desahogo y valoración de pruebas. Esta función judicial de ninguna manera será delegable. Cualquier prueba obtenida en violación de derechos fundamentales será nula.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADO, G.O. 11 DE MAYO DE 2011)</small>
 
 Habrá jueces de control que garanticen los derechos de los imputados y de las víctimas y decidan sobre las medidas cautelares en los términos de la ley de la materia. La prisión preventiva sólo procederá cuando otras medidas no sean suficientes en los términos de las leyes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(ADICIONADO, G.O. 11 DE MAYO DE 2011)</small>
 
@@ -481,19 +479,9 @@ a) Examinar, discutir y, en su caso, aprobar el presupuesto que en relación con
 
 b) Examinar, discutir y aprobar las leyes de ingresos de los municipios, que sean presentadas en las fechas que indique la ley respectiva; y
 
-> <small>(REFORMADO, G.O. 24 DE JUNIO DE 2009)</small>
+c) (DEROGADO, G.O. 17 DE JULIO DE 2015)
 
-c) Dictaminar y, en su caso, aprobar las Cuentas Públicas que, en términos de ley, le presenten el Poder Público, los organismos autónomos del Estado, la Universidad Veracruzana, los ayuntamientos, entidades paraestatales, entidades paramunicipales y cualquier ente o institución pública a la que esta Constitución o las leyes del Estado les den el carácter de ente fiscalizable.
-
-II. En el segundo período de sesiones ordinarias:
-
-> <small>(ADICIONADO, G.O. 24 DE JUNIO DE 2009)</small>
-
-a) Recibir de los entes fiscalizables señalados en el inciso c) de la fracción anterior, sus Cuentas Públicas a fin de conocer los resultados de su Gestión Financiera y comprobar si cumplieron con los objetivos de sus planes y programas, así como con los criterios señalados en sus respectivos presupuestos. Al efecto, las Cuentas Públicas deberán presentarse al Congreso del Estado durante el mes de mayo del año siguiente al que correspondan.
-
-b) Examinar, fiscalizar y aprobar las cuentas de recaudación y distribución de ingresos del año próximo anterior, presentadas por los ayuntamientos en las fechas indicadas en las leyes respectivas.
-
-La revisión se extenderá a comprobar la exactitud y justificación de los gastos realizados y, de ser necesario, a la determinación de las responsabilidades a que hubiere lugar conforme a la ley de la materia.
+II. (DEROGADA, G.O. 17 DE JULIO DE 2015)
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -705,31 +693,65 @@ Este presupuesto considerará igualmente las partidas necesarias para el desarro
 
 Si al 31 de diciembre no se ha aprobado el presupuesto de egresos para el año siguiente, el gasto público a ejercer en dicho período se limitará a cubrir las partidas correspondientes a las remuneraciones de los servidores públicos y al gasto corriente de los servicios de salud, educación, seguridad pública, procuración e impartición de justicia, funcionamiento del Poder Legislativo, así como para los organismos autónomos de estado, para lo cual se ejercerá en cada mes una doceava parte del último presupuesto aprobado, en tanto se aprueba el nuevo.
 
-XXIX. Revisar las Cuentas Públicas del Gobierno del Estado y de los ayuntamientos con el apoyo del Órgano de Fiscalización Superior del Estado;
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2015)</small>
 
-XXX. Dar las bases para reconocer y mandar pagar los adeudos contraídos por el Poder Ejecutivo, con cargo al crédito del Estado, así como señalar los fondos con que deberán pagarse;
+XXIX. Revisar las cuentas públicas con el apoyo del Órgano de Fiscalización Superior del Estado, que le sean presentadas por el Poder Público; los ayuntamientos; entidades paraestatales y paramunicipales; los organismos autónomos del Estado y, en general, mandatos, fondos o cualquier otra figura jurídica y cualquier persona física o moral, pública o privada, que recaude, administre, ministre, maneje o ejerza recursos públicos; y cualquier ente o institución pública a los que esta Constitución o las leyes del Estado les den el carácter de ente fiscalizable, a fin de conocer los resultados de su gestión financiera y comprobar si cumplieron con los objetivos de sus planes y programas, así como con los criterios señalados en sus respectivos presupuestos.
 
-> <small>(REFORMADA, G.O. 18 DE MARZO DE 2003)</small>
+A tal efecto, las cuentas públicas de los entes fiscalizables municipales serán presentadas al Congreso del Estado durante el mes de enero, a excepción del último año de su administración, en el que podrán ser entregadas el 31 de diciembre, o bien, hasta el último día del mes de enero; y hasta el último día del mes de marzo, los demás entes fiscalizables, en ambos casos del año siguiente al que correspondan;
 
-XXXI. Autorizar al Ejecutivo del Estado a enajenar, a título oneroso o gratuito, o a conceder el uso y disfrute de bienes de propiedad estatal, en los términos que fije la ley;
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2015)</small>
 
-XXXII. Revisar y fiscalizar las cuentas y demás documentos que presenten o se soliciten a los organismos autónomos de Estado;
+XXX. Dictaminar y, en su caso, aprobar y establecer la incoación de la fase de determinación de responsabilidades y fincamiento de las indemnizaciones y sanciones a los servidores públicos o personas responsables, del informe del resultado de las cuentas que, en términos de ley, sean presentadas a los entes fiscalizables señalados en la fracción anterior, hasta el último día del mes de octubre del año siguiente al que correspondan.
 
-XXXIII. Conceder al Ejecutivo, por un tiempo limitado y con aprobación de las dos terceras partes de sus integrantes, las facultades extraordinarias que necesite para salvar la situación en caso de alteración del orden o peligro público;
+Para la dictaminación y aprobación de las cuentas públicas correspondientes, la Diputación Permanente podrá citar al Congreso a las sesiones extraordinarias a las que haya lugar;
 
-XXXIV. Conceder amnistía en circunstancias extraordinarias y con aprobación de las dos terceras partes de los diputados presentes, por delitos cuyo conocimiento sea de la competencia de los tribunales del Estado;
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2015)</small>
 
-XXXV. Conceder dispensas de ley por causas justificadas o por razones de utilidad pública;
+XXXI. Dar las bases para reconocer y mandar pagar los adeudos contraídos por el Poder Ejecutivo, con cargo al crédito del Estado, así como señalar los fondos con que deberán pagarse;
 
-XXXVI. Conceder cartas de ciudadanía honoraria a los vecinos de otros Estados que fueren acreedores a ello por sus méritos; otorgar premios o recompensas a los que hayan prestado servicios de importancia a la humanidad, al país o al Estado; y declarar beneméritos a los que se hayan distinguido por servicios eminentes a Veracruz;
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2015)</small>
 
-XXXVII. Recibir del Gobernador, de los diputados, de los magistrados, de los integrantes del Consejo de la Judicatura, y de los titulares de los organismos autónomos de Estado, la protesta de guardar y hacer guardar la Constitución Federal, la del Estado y las leyes que de ambas emanen;
+XXXII. Autorizar al Ejecutivo del Estado a enajenar, a título oneroso o gratuito, o a conceder el uso y disfrute de bienes de propiedad estatal, en los términos que fije la ley;
 
-XXXVIII. Reclamar ante la Suprema Corte de Justicia de la Nación cuando alguna ley constituya un ataque a la soberanía o autonomía del Estado, o de la Constitución Federal;
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2015)</small>
 
-XXXIX. (DEROGADA, G.O. 9 DE ENERO DE 2015)
+XXXIII. Revisar y fiscalizar las cuentas y demás documentos que presenten o se soliciten a los organismos autónomos de (sic) Estado;
 
-XL. Las demás que le confieren la Constitución Federal, esta Constitución y las que sean necesarias para hacer efectivas sus atribuciones.
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2015)</small>
+
+XXXIV. Conceder al Ejecutivo, por un tiempo limitado y con aprobación de las dos terceras partes de sus integrantes, las facultades extraordinarias que necesite para salvar la situación en caso de alteración del orden o peligro público;
+
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2015)</small>
+
+XXXV. Conceder amnistía en circunstancias extraordinarias y con aprobación de las dos terceras partes de los diputados presentes, por delitos cuyo conocimiento sea de la competencia de los tribunales del Estado;
+
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2015)</small>
+
+XXXVI. Conceder dispensas de ley por causas justificadas o por razones de utilidad pública;
+
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2015)</small>
+
+XXXVII. Conceder cartas de ciudadanía honoraria a los vecinos de otros Estados que fueren acreedores a ello por sus méritos; otorgar premios o recompensas a los que hayan prestado servicios de importancia a la humanidad, al país o al Estado; y declarar beneméritos a los que se hayan distinguido por servicios eminentes a Veracruz;
+
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2015)</small>
+
+XXXVIII. Recibir del Gobernador, de los diputados, de los magistrados, de los integrantes del Consejo de la Judicatura y de los titulares de los organismos autónomos de (sic) Estado la protesta de guardar y hacer guardar la Constitución Federal, la del Estado y las leyes que de ambas emanen;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 17 DE JULIO DE 2015)</small>
+
+XXXIX. Reclamar ante la Suprema Corte de Justicia de la Nación cuando alguna ley constituya un ataque a la soberanía o autonomía del Estado, o de la Constitución Federal;
+
+> <small>(REFORMADA, G.O. 17 DE JULIO DE 2015)</small>
+
+XL. Aprobar, con el voto de las dos terceras partes de sus integrantes, la división del Estado en distritos electorales, de acuerdo con el último censo general de población, y fijar la circunscripción y cabecera de ellos, tomando en consideración los estudios realizados por el Instituto Electoral Veracruzano;
+
+> <small>(ADICIONADA, G.O. 17 DE JULIO DE 2015)</small>
+
+XLI. Llevar a cabo actividades preventivas de revisión, análisis, control, evaluación y vigilancia de la correcta y oportuna aplicación de los recursos públicos durante el ejercicio presupuestal en curso de los entes fiscalizables del Estado; y
+
+> <small>(ADICIONADA, G.O. 17 DE JULIO DE 2015)</small>
+
+XLII. Las demás que le confieren la Constitución Federal, esta Constitución y las que sean necesarias para hacer efectivas sus atribuciones.
 
 > <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1323,6 +1345,10 @@ Son atribuciones de la Diputación Permanente:
 
 I. Acordar por sí misma o a solicitud del Gobernador del Estado, la convocatoria al Congreso para llevar a cabo períodos de sesiones extraordinarias;
 
+> <small>(ADICIONADO, G.O. 17 DE JULIO DE 2015)</small>
+
+Para efectos de la discusión y, en su caso, aprobación de los dictámenes de las cuentas públicas podrá convocar de manera extraordinaria cuantas veces sean necesarias.
+
 II. Llamar a los diputados sustitutos de la propia Diputación, por ausencia, muerte, renuncia, inhabilitación o licencia por más de un mes de los propietarios;
 
 III. Recibir las iniciativas que le sean presentadas y turnarlas a las comisiones que correspondan;
@@ -1671,7 +1697,7 @@ El Consejo de la Judicatura será el órgano encargado de conducir la administra
 
 I. Ser ciudadano mexicano por nacimiento en ejercicio de sus derechos y no tener ni haber tenido otra nacionalidad;
 
-Il. Ser veracruzano o, en caso de no serlo, tener vecindad mínima de dos años en el Estado;
+II. Ser veracruzano o, en caso de no serlo, tener vecindad mínima de dos años en el Estado;
 
 III. Tener, cuando menos, treinta años cumplidos al día de la designación;
 
@@ -2269,7 +2295,7 @@ Dicha remuneración será determinada anual y equitativamente en los presupuesto
 
 I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
 
-Il. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la del Presidente de la República, establecidas éstas en los presupuestos de egresos correspondientes. Ningún servidor público de la administración pública estatal podrá recibir remuneración mayor a la del Gobernador del Estado.
+II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la del Presidente de la República, establecidas éstas en los presupuestos de egresos correspondientes. Ningún servidor público de la administración pública estatal podrá recibir remuneración mayor a la del Gobernador del Estado.
 
 III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico, salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivada de un trabajo técnico calificado o por especialización en su función; la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República ni de la mitad de la señalada para el Gobernador del Estado, en los presupuestos correspondientes.
 
@@ -11741,7 +11767,7 @@ Una vez que el Consejo de la Judicatura determine la adscripción de los Magistr
 
 ###### ARTICULO DECIMO TERCERO.
 
-El Pleno del Tribunal Superior del Estado, se reunirá a los treinta días siguientes, a la entrada en vigor de este Decreto, para elegir al Presidente de dicho Tribunal. que durará en su cargo hasta el 2 de diciembre de 1998, fecha en la que deberá rendir el informe respectivo.
+El Pleno del Tribunal Superior del Estado, se reunirá a los treinta días siguientes, a la entrada en vigor de este Decreto, para elegir al Presidente de dicho Tribunal, que durará en su cargo hasta el 2 de diciembre de 1998, fecha en la que deberá rendir el informe respectivo.
 
 ###### ARTICULO DECIMO CUARTO.
 
@@ -11811,7 +11837,7 @@ Los Jueces municipales que se encuentran en ejercicio quedan designa dos provisi
 
 ###### ARTICULO VIGESIMO SEPTIMO.
 
-Los Juzgados de Paz, funcionarán en los locales que ocupan los Juzgados Municipales. El Consejo de la Judicatura, llevará al (sic) cabo los trámites necesarios para que los Juzgados de Paz cuenten con locales propios.
+Los Juzgados de Paz, funcionarán en los locales que ocupan los Juzgados Municipales. El Consejo de la Judicatura, llevará al cabo los trámites necesarios para que los Juzgados de Paz cuenten con locales propios.
 
 ###### ARTICULO VIGESIMO OCTAVO.
 
@@ -12202,6 +12228,14 @@ G.O. 9 DE ABRIL DE 2015.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio (sic) la Llave.
 
 Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
+
+G.O. 17 DE JULIO DE 2015.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. Dentro del plazo de treinta días hábiles, contado a partir de la entrada en vigor de este Decreto, el Congreso del Estado deberá llevar a cabo la adecuación normativa requerida para su plena aplicación.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1915 DEL CÓDIGO CIVIL FEDERAL".]
 
