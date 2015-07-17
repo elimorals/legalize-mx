@@ -4,7 +4,7 @@ identifier: "SIN-ley-electoral-del-estado-de-sinaloa-6493"
 country: "mx"
 rank: "ley"
 publication_date: "1992-05-06"
-last_updated: "2015-07-15"
+last_updated: "2015-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SIN"
 ---
 # LEY ELECTORAL DEL ESTADO DE SINALOA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE JULIO DE 2015 EN EL P.O. DEL ESTADO DE SINALOA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ELECTORAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2015.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE SINALOA, PUBLICADA EN LA EDICIÓN VESPERTINA DEL P.O. DE 17 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2015 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 6 de mayo de 1992.
 
@@ -791,7 +791,9 @@ ARTICULO 117 BIS N.- (DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY DE INSTITUCIONE
 
 (DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA, P.O. 15 DE JULIO DE 2015)
 
-ARTCULO 147.- (DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA, P.O. 15 DE JULIO DE 2015)
+###### ARTICULO 147.
+
+(DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA, P.O. 15 DE JULIO DE 2015)
 
 ###### ARTICULO 148.
 
@@ -1019,7 +1021,7 @@ ARTICULO 181 BIS.- (DEROGADO POR TRANSITORIO SEGUNDO DE LA LEY DE INSTITUCIONES 
 
 ## TITULO SEPTIMO. DEL SISTEMA DE IMPUGNACIONES
 
-CAPITUL I (sic)
+CAPITUL (SIC) I
 
 DEL TRIBUNAL ESTATAL ELECTORAL
 
@@ -1125,7 +1127,7 @@ III.- Aprobar y en su caso, modificar el reglamento interior del Tribunal, a má
 
 IV.- Diseñar y ejecutar programas de capacitación para el personal de apoyo jurídico del Tribunal:
 
-V.- Propiciar la comunicación e intercambio de materiales con otros órganos jurisdiccionales electorales y (sic);
+V.- Propiciar la comunicación e intercambio de materiales con otros órganos jurisdiccionales electorales y;
 
 VI.- Elaborar y divulgar la memoria de cada proceso electoral;
 
@@ -1349,7 +1351,7 @@ IV.- Los preceptos legales supuestamente violados y la relación sucinta de los 
 
 V.- Relación de pruebas que con la interposición de la impugnación se aportan;
 
-VI.- Todo escrito deberá estar firmado autógrafamente por quien lo promueve; y (sic),
+VI.- Todo escrito deberá estar firmado autógrafamente por quien lo promueve; y,
 
 > <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1995)</small>
 
@@ -1567,7 +1569,7 @@ Las resoluciones de la Sala de Reconsideración que recaigan a los recursos de r
 
 Las resoluciones de la Sala de Reconsideración del Tribunal Estatal Electoral, serán notificadas.
 
-l. Al partido político que interpuso el recurso y a los terceros interesados, personalmente, siempre y cuando hayan señalado domicilio en la ciudad sede del Tribunal o por estrados, en el supuesto de que no se señaló domicilio alguno, a más tardar dentro de las veinticuatro horas siguientes al día en que se dictó la resolución.
+I. Al partido político que interpuso el recurso y a los terceros interesados, personalmente, siempre y cuando hayan señalado domicilio en la ciudad sede del Tribunal o por estrados, en el supuesto de que no se señaló domicilio alguno, a más tardar dentro de las veinticuatro horas siguientes al día en que se dictó la resolución.
 
 II. Al Consejo Estatal Electoral, por oficio, acompañado de copia certificada del expediente y de la resolución, a más tardar dentro de las veinticuatro horas siguientes al día en que se dictó la resolución; y
 
@@ -1932,3 +1934,19 @@ Las prestaciones a que se refiere el párrafo anterior serán otorgadas al Presi
 SÉPTIMO.- El pago de las prestaciones mencionadas en el artículo transitorio que antecede, se cubrirá con cargo al presupuesto del Consejo Estatal Electoral, por lo que el Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Administración y Finanzas, realizará las adecuaciones de orden presupuestal correspondientes, a efecto de garantizar que el órgano administrativo electoral cuente con los recursos necesarios y suficientes para el pago de las prestaciones a que el Presidente y los Consejeros Ciudadanos tengan derecho.
 
 OCTAVO.- Por única ocasión, el proceso electoral correspondiente a las elecciones que tendrán lugar el primer domingo de junio de 2016, iniciará en la segunda quincena del mes de octubre de 2015, con la convocatoria que al efecto expida el Congreso del Estado. Para tal efecto, el Consejo General aprobará los ajustes necesarios a los plazos establecidos en la presente Ley y se coordinará con el Instituto Nacional Electoral en relación con la aplicación, en lo conducente, de la Ley General de Instituciones y Procedimientos Electorales.
+
+P.O. 17 DE JULIO DE 2015.
+
+PRIMERO.- La presente Ley del Sistema de Medios de Impugnación en Materia Electoral y de Participación Ciudadana para el Estado de Sinaloa, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO.- La presente ley abroga a la Ley Electoral del Estado de Sinaloa.
+
+TERCERO.- Los asuntos que se encuentren en trámite antes de la entrada en vigor de este Decreto serán sustanciados y resueltos conforme a las normas vigentes al momento de su interposición.
+
+CUARTO.- El Presidente y los Magistrados que actualmente integran el Tribunal Estatal Electoral de Sinaloa, que sean relevados en sus cargos antes del periodo para el que fueron designados por esta Soberanía, con motivo de la integración del Tribunal Electoral del Estado de Sinaloa en términos de lo dispuesto en los artículos transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos en materia político-electoral, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014, recibirán previo a su separación, las prestaciones que conforme a la Ley Federal del Trabajo tengan derecho, mismas que serán calculadas en los términos del mismo ordenamiento legal, sin perjuicio de recibir otras que la legislación adicionalmente disponga.
+
+Las prestaciones a que se refiere el párrafo anterior serán otorgadas al Presidente y a los Magistrados en funciones del Tribunal Estatal Electoral, siempre y cuando opten por no participar en el proceso de renovación que se convoque, o participando, no resulten designados.
+
+QUINTO.- El pago de las prestaciones mencionadas en el artículo transitorio que antecede, se cubrirá con cargo al presupuesto del Tribunal Estatal Electoral, por lo que el Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Administración y Finanzas, realizará las adecuaciones de orden presupuestal correspondientes, a efecto de garantizar que el órgano jurisdiccional electoral cuente con los recursos necesarios y suficientes para el pago de las prestaciones a que el Presidente y los Magistrados tengan derecho.
+
+SEXTO.- Por única ocasión, la Presidencia del Tribunal Electoral del Estado de Sinaloa para el proceso electoral que tendrá verificativo en el año 2016 será electa en su primera sesión pública, misma que habrá de celebrarse dentro de los 15 días posteriores a la fecha en que quede integrado mediante el acuerdo de designación de la Cámara de Senadores. Dicha sesión será presidida por el Magistrado con mayor edad y cesará en su función una vez electa la Presidencia del Tribunal para ese proceso en dicha sesión.
