@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-y-desarrollo-urbano-del-estado-345
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-26"
-last_updated: "2014-09-16"
+last_updated: "2015-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE SEPTIEMBRE DE 2015 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de julio de 1994.
 
@@ -300,6 +302,12 @@ VI.- Presentar el proyecto de programa de prevención de accidentes internos y e
 > <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
 
 VII.- Cuando sean solicitadas con la finalidad de establecer instalaciones, realizar construcciones u obras destinadas a la producción minera, presentar copia de los documentos que acrediten el otorgamiento de concesión minera.
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2015)</small>
+
+VIII.- Presentar la aprobación emitida por la autoridad federal de aeronáutica civil, cuando sean solicitadas con la finalidad de establecer instalaciones, realizar construcciones u obras en los terrenos adyacentes e inmediatos a los aeropuertos civiles, dentro de las zonas de protección de los mismos.
+
+Para efectos de la presente fracción, los terrenos adyacentes e inmediatos a los aeropuertos civiles, dentro de las zonas de protección de los mismos serán los señalados en el artículo 264-bis del presente ordenamiento.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 1996)</small>
 
@@ -684,6 +692,10 @@ XXXIX.- Autorizar la subdivisión y fusión de terrenos;
 > <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 XL.- Otorgar licencias y permisos para construcción, remodelación, ampliación y demolición de inmuebles. En ningún caso podrán otorgar licencias para construcción de casinos, centros de juego, casas de apuesta y similares, cualquiera que sea su denominación, para centros donde se presentan espectáculos con personas desnudas o semidesnudas y, para establecimientos donde se comercializan vehículos de procedencia extranjera sin acreditar su legal estancia en el Estado;
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2015)</small>
+
+La autoridad municipal otorgará licencias y permisos para construcción en los terrenos adyacentes e inmediatos a los aeropuertos civiles, dentro de las zonas de protección de los mismos, siempre y cuando se cuente previamente con la aprobación emitida por la autoridad federal de aeronáutica civil y con la opinión favorable del comité de zonificación.
 
 > <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
 
@@ -2965,7 +2977,13 @@ La fusión y la subdivisión (sic) predios no podrá realizarse cuando obstruya 
 
 El ayuntamiento o la autoridad competente, sólo autorizará la construcción en predios provenientes de relotificaciones, fusiones o subdivisiones cuando éstas hayan sido previamente autorizadas.
 
-### CAPITULO SEPTIMO. DE LAS CONSTRUCCIONES
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2015)</small>
+
+### CAPITULO SEPTIMO
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2015)</small>
+
+#### SECCION PRIMERA. DE LAS CONSTRUCCIONES
 
 ###### ARTICULO 255.
 
@@ -3044,6 +3062,54 @@ Las edificaciones, de acuerdo con su tipo y ubicación, deberán contar con espa
 ###### ARTICULO 264.
 
 Los propietarios de las edificaciones y predios deben conservarlos en buenas condiciones de estabilidad, servicio, aspecto e higiene y adoptar las medidas conducentes a fin de evitar riesgos para la integridad personal de los vecinos y su patrimonio.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 17 DE JULIO DE 2015)</small>
+
+#### SECCION SEGUNDA. DE LAS ZONAS AEROPORTUARIAS
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2015)</small>
+
+ARTICULO 264 BIS.- Toda construcción o elevación sólida que pretenda realizarse en los terrenos adyacentes e inmediatos de los aeropuertos de la entidad, deberá efectuarse de conformidad con las siguientes disposiciones:
+
+I.- Las zonas aeroportuarias siempre deberán estar delimitadas en función de la clase de aeropuertos, para procurar el uso eficiente del espacio de aeronavegación en dichas zonas, conforme a las siguientes reglas:
+
+A).- Superficie de Aproximación es el límite extremo necesario de la pista para el aterrizaje.
+
+B).- Superficie de Salida es el límite extremo necesario de la pista para el despegue.
+
+C).- Franja Libre es la extensión a cada lado de la pista, en la longitud que más adelante se precisa.
+
+II.- La zona restringida para los efectos de la presente sección, es la que abarca en:
+
+A).- Dos mil metros lineales a cada lado de la franja libre, y a cada lado de las superficies de aproximación y salida en los Aeropuertos Clase I que, son aquéllos que según la normatividad aeronáutica internacional, operan bajo las reglas de vuelo instrumental (IFR, por sus siglas en inglés) y tienen una Franja Libre con longitud de doscientos metros al borde de la pista.
+
+B).- Mil quinientos metros lineales a cada lado de la franja libre, y a cada lado de las superficies de aproximación y salida en los Aeropuertos Clase II, que son aquéllos que según la normatividad aeronáutica internacional, operan bajo las reglas de vuelo visual (VFR, por sus siglas en inglés) y tienen una Franja Libre con longitud de ciento cincuenta metros al borde de la pista.
+
+III.- Queda prohibido erigir construcciones, edificios o elevaciones sólidas, permanentes o temporales, artificiales o naturales a una altura mayor a la aprobada por la autoridad federal de Aeronáutica Civil en los terrenos adyacentes e inmediatos y en las zonas restringidas. Se entiende por elevaciones sólidas, las de origen natural, señalamientos, espectaculares, anuncios con iluminación, vallas publicitarias o cualquier otra estructura análoga.
+
+IV.- Si las construcciones, o elevaciones existentes han sido abandonadas, destruidas o se han deteriorado en más de un ochenta por ciento, previo dictamen, se podrá ordenar su demolición total, sin responsabilidad para el estado y no se volverá a conceder la licencia de construcción correspondiente.
+
+V.- Las presentes disposiciones deberán observarse para los demás tipos de aeropuertos de la entidad.
+
+VI.- Antes del otorgamiento del permiso o la licencia municipal correspondiente, se deberá contar con la aprobación de la autoridad federal de aeronáutica civil y con la opinión favorable del Comité de Zonificación.
+
+VII.- El Comité de Zonificación se regulará por el reglamento que al efecto se expida. En todo caso quedará sujeto a las bases siguientes:
+
+A).- Estará integrado por un representante de:
+
+a) El Gobierno del Estado;
+
+b) El Municipio en el que se encuentre el Aeropuerto;
+
+c) Del órgano operador del aeropuerto; y
+
+d) La Dirección General de Aeronáutica Civil.
+
+B).- El Comité de Zonificación tendrá, las siguientes atribuciones:
+
+a) Expedir la opinión correspondiente respecto a los permisos que se soliciten; y
+
+b) Emitir su opinión de las propuestas de proyectos que se sometan a su consideración y a las longitudes de restricción establecidas en las zonas de cada clase de aeropuertos.
 
 ### CAPITULO OCTAVO. DE LAS MEDIDAS DE SEGURIDAD, INFRACCIONES Y SANCIONES
 
@@ -3460,3 +3526,21 @@ P.O. 16 DE SEPTIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El reglamento a que se refiere la fracción VIII del artículo 264 bis deberá ser expedido, conforme al presente decreto, por el Ejecutivo del Estado en un plazo no mayor a noventa días.
+
+###### ARTÍCULO SEGUNDO.
+
+Salvo disposición en contrario se consideran Aeropuertos Clase I los de Piedras Negras, Torreón, Saltillo y Monclova, y como Aeropuertos Clase II los de Carbonífera, Múzquiz, y Ciudad Acuña.
+
+###### ARTÍCULO TERCERO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO CUARTO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
