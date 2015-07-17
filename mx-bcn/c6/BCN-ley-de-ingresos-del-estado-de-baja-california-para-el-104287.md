@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ingresos-del-estado-de-baja-california-para-el-104287"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2014-12-31"
-last_updated: "2014-12-31"
+last_updated: "2015-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2015.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2015.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el miércoles 31 de diciembre de 2014.
 
@@ -207,31 +207,31 @@ No se causará el impuesto adicional para la educación media y superior respect
 
 IMPUESTO SOBRE DIVERSIONES Y ESPECTÁCULOS PÚBLICOS.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 4.
 
 El Impuesto sobre Diversiones y Espectáculos Públicos, se causa conforme a las siguientes
 
-T A S A S:
+TASAS:
 
-I.- Obras de Teatro y funciones de circo; por el ingreso bruto percibido por la venta de boletos para entrar al espectáculo................. 2.96%
+I.- Obras de Teatro y funciones de circo; por el ingreso bruto percibido por la venta de boletos para entrar al espectáculo.................................................................................. 2.96%
 
-II.- Espectáculos cómicos, taurinos, audiencias musicales, bailes, eventos de box y lucha, sobre el ingreso bruto percibido por la venta de boletos para entrar al espectáculo........ 5.0%
+II.- Espectáculos cómicos, taurinos, audiencias musicales, bailes, eventos de box y lucha, sobre el ingreso bruto percibido por la venta de boletos para entrar al espectáculo................... 5.0%
 
-III.- Espectáculos de carpa y aquéllos en que participan deportistas profesionales, sobre el ingreso bruto percibido por la venta de boletos para entrar al espectáculo.... 5.0%
+III.- Espectáculos de carpa y aquéllos en que participan deportistas profesionales, sobre el ingreso bruto percibido por la venta de boletos para entrar al espectáculo....................... 5.0%
 
-IV.- Espectáculos en que participen deportistas, músicos y actores no profesionales, así como los realizados por Instituciones Educativas y organizaciones que no persigan fines de lucro, sobre el ingreso bruto percibido por la venta de boletos para entrar al espectáculo................................. 2.5%
+IV.- Espectáculos en que participen deportistas, músicos y actores no profesionales, así como los realizados por Instituciones Educativas y organizaciones que no persigan fines de lucro, sobre el ingreso bruto percibido por la venta de boletos para entrar al espectáculo.................................................................................................. 2.5%
 
-V.- Espectáculos de frontón, carreras de caballos, o de galgos, sobre el ingreso bruto percibido por la venta de boletos para entrar al espectáculo................................. 10.0%
+V.- Espectáculos de frontón, carreras de caballos, o de galgos, sobre el ingreso bruto percibido por la venta de boletos para entrar al espectáculo............................................................. 10.0%
 
-VI.- Otras diversiones y espectáculos públicos, sobre el ingreso bruto percibido por la venta de boletos que importen el derecho de admisión para entrar al espectáculo………...... 10.0%
+VI.- Otras diversiones y espectáculos públicos, sobre el ingreso bruto percibido por la venta de boletos que importen el derecho de admisión para entrar al espectáculo................ 10.0%
 
 Para efectos de este impuesto se considerará también como boletos vendidos aquéllos por los que no se pague la entrada, por tener boletos de cortesía, pases, o por cualquier otro motivo, determinándose como base gravable de éstos, el costo promedio aritmético del valor de los boletos ofrecidos al público.
 
 Para la determinación del impuesto, en los casos en que para un espectáculo se vendan boletos con distinto costo para una misma sección, zona o ubicación, se considerará como base gravable el de costo mayor.
 
-Cuando estos espectáculos sean realizados por Organismos no lucrativos que brinden servicios y asistencia médica de manera gratuita a enfermos que padezcan cáncer en etapa terminal, debidamente registrados en la Secretaría de Salud del Estado................................. 0.00%
-
-Se derogan las disposiciones que se establezcan en otras Leyes, Códigos, reglamentos, acuerdos, circulares o disposiciones administrativas en la parte que contengan exenciones, totales o parciales, beneficios o estímulos fiscales, o consideren a personas como no sujetos de este impuesto, distintas a las comprendidas en los ordenamientos fiscales o en las disposiciones de carácter general que emite el Gobernador del Estado con fundamento en el artículo 35 del Código Fiscal del Estado de Baja California.
+Cuando estos espectáculos sean realizados por Organismos no lucrativos que brinden servicios y asistencia médica de manera gratuita a enfermos que padezcan cáncer en etapa terminal, debidamente registrados en la Secretaría de Salud del Estado..................................................... 0.00%
 
 El ingreso que se recaude por concepto del impuesto sobre diversiones y espectáculos públicos, se destinará a la promoción y prestación de servicios de asistencia social en el Estado, al desarrollo integral de la familia, de la comunidad y de los grupos vulnerables, a la promoción del sano desarrollo físico, mental y social de la niñez, a través del Sistema para el Desarrollo Integral de la Familia de Baja California; con excepción de los ingresos que le correspondan a los Municipios en términos de la Ley de Coordinación Fiscal del Estado de Baja California.
 
@@ -3188,3 +3188,9 @@ GOBERNADOR DEL ESTADO
 FRANCISCO RUEDA GOMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE JULIO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Estado.
