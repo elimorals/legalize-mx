@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2015-06-30"
+last_updated: "2015-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -2535,6 +2535,10 @@ Cuando no sea posible medir el consumo debido a la destrucción total o parcial 
 
 Toda persona usuaria está obligada al pago mensual de los servicio (sic) públicos de agua potable, alcantarillado y saneamiento, con base en las cuotas o tarifas fijadas en los términos de la presente Ley, con excepción de aquellas quienes reciben estos servicios por parte de un organismo operador intermunicipal, mismos que deberán pagar bimestralmente.
 
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2015)</small>
+
+Únicamente se podrá restringir el suministro a la cantidad necesaria para satisfacer los requerimientos básicos de consumo de agua a que refieren, la fracción XI del artículo 79, la fracción XII del artículo 92; y el párrafo primero del artículo 180, de la presente Ley, siempre y cuando el usuario doméstico acredite al prestador del servicio, fehacientemente, su incapacidad de pago.
+
 ###### ARTICULO 184.
 
 El propietario de un predio responderá ante el prestador de los servicios, por los adeudos que ante el mismo se generen en los términos de esta Ley.
@@ -3352,3 +3356,9 @@ DECRETO NÚMERO 1025, POR EL QUE SE REFORMAN LOS ARTÍCULOS 79 EN SU FRACCIÓN X
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE JULIO DE 2015.
+
+PRIMERO. Este Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
