@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2015-06-18"
+last_updated: "2015-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -209,6 +209,12 @@ II. Ayuntamientos: a los ayuntamientos del Estado de San Luis Potosí;
 
 III. Bahía: al espacio delimitado en la vía pública para el ingreso y salida de los vehículos de transporte público, para el servicio de ascenso y descenso de pasaje;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2015)</small>
+
+III Bis. Carril confinado: superficie de rodamiento en la vía pública con dispositivos que delimitan su perímetro, para el uso preferente o exclusivo de los servicios públicos de transporte;
+
 IV. Centro de transferencia: al espacio físico con infraestructura y equipamiento auxiliar de transporte, que sirve para el trasbordo de los usuarios entre dos o más rutas o modos de transporte;
 
 > <small>(REFORMADA, P.O. 18 DE JUNIO DE 2015)</small>
@@ -223,7 +229,11 @@ VII. Consejo: al Consejo Estatal de Transporte Público;
 
 VIII. Consejo municipal: al Consejo Municipal de Transporte Público;
 
-IX. Corredor exclusivo de transporte público: a la parte delimitada de una vialidad que tiene continuidad, longitud y ancho suficientes para el tránsito exclusivo de vehículos de transporte público, así como de su equipamiento auxiliar;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2015)</small>
+
+IX. Corredor de transporte público: sistema de transporte público de pasajeros Urbano Masivo, con operación regulada, controlada y recaudo centralizado, que opera de manera preferencial o exclusiva en una vialidad en la que se establece un Carril Confinado, que cuenta con zonas de ascenso y descenso de pasajeros, terminales en su origen y destino, así como demás equipamiento auxiliar de transporte necesario para su funcionamiento, el cual opera la prestación del servicio bajo la figura de persona moral titular de concesión para la prestación del servicio público de transporte;
 
 X. Costo: a la cantidad pecuniaria que erogan los concesionarios y permisionarios del transporte público, en la adquisición de bienes y servicios inherentes a la prestación del mismo;
 
@@ -296,6 +306,12 @@ XXXVI. Servicio público de transporte: prestación del servicio de transporte p
 XXXVII. Servicios auxiliares: a los bienes muebles o inmuebles de infraestructura, complementarios a la prestación del servicio de transporte público, previstos por esta Ley y su Reglamento, susceptibles de permiso o concesión a particulares;
 
 XXXVIII. Servicio particular de transporte: a la actividad en virtud de la cual las personas físicas o morales satisfacen sus necesidades de transporte de pasajeros o de carga, que tengan como fin el desarrollo de actividades particulares o el cumplimiento de su objetivo social y que no se ofrece al público en general;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2015)</small>
+
+XXXVIII Bis. Sistema integrado de transporte: sistema que usa múltiples medios de transporte que actúan conjuntamente para desplazar usuarios, a través del uso de una infraestructura, itinerario, tarifa, y sistema de validación común;
 
 XXXIX. Tarifa: a la contraprestación que pagan los usuarios por el servicio de transporte público;
 
@@ -415,17 +431,25 @@ X. Vigilar el cumplimiento de las condiciones establecidas en las concesiones y 
 
 XI. Autorizar la publicidad y propaganda de cualquier tipo que se fije o transmita a través de las unidades del transporte público, en sus paraderos, bases de servicio, terminales de pasajeros o de carga, en los términos de esta Ley y demás normatividad aplicable;
 
-XII. Exigir a los concesionarios y permisionarios, la constitución de los fidecomisos establecidos en esta Ley, para la renovación de unidades y la adquisición de seguros que cubran la responsabilidad objetiva en que pudiera incurrir el transportista;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2015)</small>
+XII. Exigir a los concesionarios y permisionarios la constitución de los fidecomisos establecidos en esta Ley, para la renovación de unidades y la adquisición de seguros que cubran la responsabilidad objetiva en que pudiera incurrir el transportista; así como aprobar la constitución de fondos de garantía cuando se lo soliciten;
 
-XIII. Imponer las sanciones que procedan de conformidad con la presente Ley y sus reglamentos;
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2015)</small>
+XIII. Revisar que se cumpla de conformidad a lo que establezca esta Ley o el Reglamento respectivo, la sustitución de los vehículos, siempre que se encuentre en el rango de los diez años;
 
-XIV. Celebrar convenios de coordinación con organismos o instituciones, a fin de llevar a cabo programas de capacitación para operadores del transporte público, y
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2015)</small>
 
-XV. Las demás que le encomiende el titular del Ejecutivo del Estado, así como las establecidas por las disposiciones jurídicas y administrativas aplicables.
+XIV. Imponer las sanciones que procedan de conformidad con la presente Ley y sus reglamentos;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE JULIO DE 2015)</small>
+
+XV. Celebrar convenios de coordinación con organismos o instituciones, a fin de llevar a cabo programas de capacitación para operadores del transporte público, y
+
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2015)</small>
+
+XVI. Las demás que le encomiende el titular del Ejecutivo del Estado, así como las establecidas por las disposiciones jurídicas y administrativas aplicables.
 
 ###### ARTICULO 18.
 
@@ -473,11 +497,21 @@ a) Colectivo: servicio sujeto a itinerario fijo que se presta en zonas urbanas, 
 
 b) Colectivo de primera clase: servicio sujeto a itinerarios fijos que se presta en zonas urbanas, con vehículos con capacidad de veintisiete y hasta cuarenta y cinco asientos, quedando prohibido admitir pasajeros adicionales al número de asientos con que cuenta la unidad.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2015)</small>
+
+1. Colectivo masivo: servicio que se presta en un corredor de transporte público mediante autobuses de control delantero y motor trasero con transmisión automática, de entrada baja, piso bajo o piso alto con capacidad de hasta 165 pasajeros pudiendo ser articulado.
+
 c) Automóvil de alquiler en sitio: es el que se presta a través de vehículos con capacidad de hasta cinco pasajeros, incluido el operador; con tarifas previamente autorizadas según la distancia de recorrido; obligados a iniciar su servicio a partir de su sitio o base de servicio, sin que pueda aceptar pasaje distinto al que solicitó el servicio, hasta su retorno al sitio o base a la que pertenecen; el número de unidades de cada sitio será determinado por la Secretaría de Comunicaciones y Transportes, en razón de la demanda existente y la temporalidad de la misma.
 
 d) Automóvil de alquiler de ruleteo: es aquél que se presta a través de vehículos con capacidad hasta de cinco pasajeros, incluido el operador; con tarifas autorizadas según distancia, sin aceptar pasaje distinto hasta el término del recorrido convenido, y le estará prohibido ofrecer y efectuar el servicio en los sitios o bases de servicio de automóvil de alquiler en sitio, o en las zonas de influencia de los mismos;
 
-II. Interurbano: servicio sujeto a rutas regulares de circulación dentro de dos o más poblaciones o zonas conurbadas; con paradas, terminales y horarios fijos; pudiendo ser servicio de primera o de segunda clase, según la clasificación señalada en la fracción III de este artículo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2015)</small>
+
+II. Interurbano: servicio sujeto a rutas regulares de circulación dentro de dos o más poblaciones de una misma ciudad, o entre zonas conurbadas; con paradas, terminales y horarios fijos; pudiendo tener las características de los servicios, colectivo; colectivo de primera clase; o colectivo masivo;
 
 III. Foráneo: servicio sujeto a itinerarios fijos por vías de competencia estatal entre dos o más poblaciones; con paradas, terminales y horarios fijos.
 
@@ -827,9 +861,9 @@ Los vehículos destinados para el transporte de pasajeros y de carga a que se re
 
 En todos los casos, deberán cumplir con los requisitos y estándares de calidad que establecen las normas ecológicas y de tránsito aplicables. Asimismo, deberán acreditar satisfactoriamente la revista vehicular anual en los términos de los artículos 48 y 81 fracción XVII de esta Ley y su Reglamento.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2015)</small>
 
-En los casos en los que por accidente, falla mecánica mayor o causa justificada, el concesionario se encuentre en la necesidad de reemplazar el vehículo, no se autorizará la sustitución de un vehículo por otro de modelo anterior al que se vaya a reemplazar, aún y cuando se encuentre dentro del rango de antigüedad a que refiere el párrafo primero de este artículo; con la excepción en los casos en los que no se trate de vehículos destinados al servicio público de transporte de pasajeros podrán ser reemplazados por un vehículo de hasta tres años anteriores al modelo que se sustituye.
+Salvo en los casos de accidentes que impliquen la pérdida total del vehículo, o causas de fuerza mayor plenamente justificadas ante la Secretaría, no se autorizará la sustitución de un vehículo por otro de modelo anterior al que se vaya a reemplazar, aún y cuando se encuentre dentro del rango de diez años de antigüedad establecido para los sistemas de transporte de pasajeros a que se refieren las fracciones I, II, III, y V inciso b) del artículo 21 de la presente Ley. En los casos en los que no se trate de vehículos destinados al servicio público de transporte de pasajeros, podrán ser reemplazados por un vehículo de hasta tres años anteriores al modelo que se sustituye.
 
 El vehículo relevado invariablemente deberá ser presentado sin los rótulos de identificación y los colores oficiales que se determinen en el Reglamento respectivo; en caso contrario no procederá el registro y alta de la unidad.
 
@@ -971,7 +1005,13 @@ II. Cuando la garantía exhibida por el concesionario para el otorgamiento de la
 
 III. No pagar el concesionario o permisionario los derechos correspondientes por la expedición, refrendos, revalidación, placas, revista anual y servicios relacionados con las concesiones, permisos y demás actos jurídicos relacionados con el servicio público de transporte;
 
-IV. No contar con póliza de seguro vigente, para indemnizar los daños que con motivo de la prestación del servicio de transporte público se causen a los usuarios peatones o terceros en su persona y/o propiedad;
+> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2015)</small>
+
+III Bis. Que el concesionario deje de explotar la concesión por más de un año en forma ininterrumpida;
+
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2015)</small>
+
+IV. No contar con póliza de seguro vigente, para indemnizar los daños que con motivo de la prestación del servicio de transporte público se causen a los usuarios peatones o terceros en su persona y/o propiedad; o, en su caso, la omisión de usar el fondo de garantía a que refiere el artículo 81 de esta Ley;
 
 V. No cubrir las indemnizaciones por daños que se originen al Estado, los municipios, a los usuarios, peatones, conductores o terceros, en sus personas y sus bienes con motivo de la prestación del servicio de transporte público;
 
@@ -2404,5 +2444,13 @@ P.O. 18 DE JUNIO DE 2015.
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Los prestadores del transporte público en la modalidad de urbano colectivo, tendrán hasta el 30 de septiembre de 2015, para instalar las cámaras de video grabación en la totalidad de las unidades de dicha modalidad.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 18 DE JULIO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo dispuesto en el Transitorio siguiente.
+
+SEGUNDO. Lo correspondiente a los artículos, 12, y 21 de este Decreto, entrará en vigor a partir del uno de septiembre de 2015.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
