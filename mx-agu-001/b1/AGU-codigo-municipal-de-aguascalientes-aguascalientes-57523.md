@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2015-06-22"
+last_updated: "2015-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -111,7 +111,7 @@ IV. Tercer cuartel de sinople con una granada entreabierta de su color natural, 
 
 V. Cuarto cuartel fajado de dieciséis piezas, ocho de azur y ocho de plata, sobre el mismo una hoguera de su color;
 
-> <small>N. DE E. VÉASE IMÁGEN EN EL P.O. DE 8 DE OCTUBRE DE 2012, PÁGINA 15.</small>
+> <small>N. DE E. VÉASE IMAGEN EN EL P.O. DE 8 DE OCTUBRE DE 2012, PÁGINA 15.</small>
 
 VI. Brochante sobre el todo, un escusón de azur en el que aparece el misterio de la Asunción de Nuestra Señora, de su color natural (carnación). La punta del escusón mojada de oro. Bordura de púrpura con doce bezantes de oro y en la parte superior la cifra de 1575;
 
@@ -181,17 +181,21 @@ VIII. Promover el desarrollo económico y el turismo local, para generar más op
 
 IX. Normar directa y libremente las materias de su competencia.
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
-X. Promover la igualdad de género, la no discriminación y la no violencia en contra de las mujeres y cualquier persona por razones de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad de género, el estado civil o cualquier otra que atente contra la dignidad humana y que tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+X. Promover la igualdad sustantiva entre mujeres y hombres mediante el aceleramiento de la igualdad de género, la no discriminación y la no violencia en contra de las mujeres y cualquier persona por razones de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad sexo-genérica, el estado civil o cualquier otra que atente contra la dignidad humana y que tenga por objeto anular o menoscabar los derechos y libertades de las personas;
 
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 2011)</small>
 
 XI. Fomentar la participación ciudadana en la observación, vigilancia y evaluación de la calidad en la gestión pública municipal.
 
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
-XII. Prevenir, investigar y sancionar las violaciones a los derechos humanos en el ámbito de su competencia, de conformidad con la normatividad vigente.
+XII. Respetar los derechos humanos previstos en la Constitución Política de los Estados Unidos Mexicanos y en los instrumentos internacionales que México ha suscrito y ratificado.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+
+Así como Prevenir, investigar y sancionar las violaciones a los derechos humanos en el ámbito de su competencia, de conformidad con la normatividad vigente.
 
 > <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
@@ -218,6 +222,32 @@ VIII. El derecho a libertad de asociación.
 IX. El derecho a la libertad de profesar la religión y las creencias propias dentro de la Ley; y
 
 X. El derecho a tener igualdad de acceso a las funciones públicas de su Municipio y a participar en los asuntos públicos, incluyendo la toma de decisiones.
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XI. El derecho a la plena autonomía y libertad de decisión independientemente a su núcleo familiar, estado civil o cualquier otra relación que establezca;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XII. El derecho a vivir, laborar e interactuar en un ambiente adecuado libre de cualquier tipo de violencia, en el ámbito público y privado; y
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XIII. Los derechos que se encuentren en los instrumentos internacionales que México, ha suscrito y ratificado.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+
+Consecuentemente todo acto de discriminación, constituye una violación a los derechos humanosde (sic) las mujeres.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+
+ARTÍCULO 6° TER.- El municipio establecerá los siguientes sistemas, para los efectos de contar con la política del municipio en materia de igualdad sustantiva entre mujeres y hombres y de atención, prevención, sanción y erradicación de la violencia contra las mujeres mediante los programas respectivos, que operen dichos sistemas.
+
+I. Sistema Municipal de igualdad sustantiva entre mujeres y hombres; y
+
+II. Sistema Municipal de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+
+En dichos sistemas participaran los entes de la administración pública municipal que se determinen.
 
 ### CAPÍTULO IV. De la Población
 
@@ -254,6 +284,10 @@ La declaración de pérdida de vecindad será realizada por el Ayuntamiento.
 ###### ARTÍCULO 10.
 
 No se perderá la vecindad cuando la persona se traslade a residir a otro lugar para desempeñar una comisión o cargo de carácter oficial no permanente, o con motivo de estudios académicos, científicos o artísticos.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+
+Lo cual también resulta aplicable para el caso de las personas que acrediten mediante documento idóneo a juicio dela (sic) autoridad municipal competente que por motivos de violencia de género, temporalmente abandonaron el territorio del municipio.
 
 # LIBRO SEGUNDO. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
@@ -377,9 +411,9 @@ XXIX. Consejo que regula la venta de sustancia de efectos psicotrópicos.
 
 XXX. Comité de Actividades Musicales.
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
-XXXI. Consejo para la Equidad Laboral.
+XXXI. Consejo para la Igualdad Sustantiva en Materia Laboral;
 
 > <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2009)</small>
 
@@ -399,17 +433,25 @@ ARTÍCULO 16 BIS.- El Presidente Municipal a través de la Unidad Administrativa
 
 I. Capacitar al personal de la Secretaría de Seguridad Pública para atender los casos de violencia contra las mujeres.
 
-II. Establecer las acciones y medidas que se deberán tomar para la readaptación de los generadores de violencia.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+II. Establecer las acciones y medidas que se deberán tomar para la reeducación de los agresores y las agresoras de la violencia familiar, como beneficio y reparación para las personas que sufren violencia;
 
 III. Implementar cursos y talleres de prevención y protección contra la violencia de género.
 
-IV. Proporcionar a las víctimas de violencia la asesoría necesaria para conocer su situación jurídica y sus derechos.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+IV. Proporcionar a las víctimas de violencia la asesoría necesaria para conocer su situación jurídica y sus derechos y de ser necesario la psicoterapia que disminuya el impacto de la violencia vivida;
 
 V. Promover la cultura de respeto a los derechos fundamentales de las mujeres.
 
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
-VI. Capacitar al personal del Municipio en funciones de Seguridad Pública y sensibilizarlo para prevenir casos de violencia en contra de persona alguna por su identidad de género u orientación sexual.
+VI. Garantizar la seguridad e integridad física de las personas que viven violencia y que acudan a las autoridades municipales, diseñando para tales efectos las estrategias de proximidad policial que sean necesarias; y
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+VII. Operar la política del municipio en materia de igualdad sustantiva y de violencia de género, así como de no discriminación.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
 
@@ -599,11 +641,11 @@ Serán Sesiones Solemnes aquellas que el Cabildo les dé ese carácter por la im
 
 El miembro del H. Ayuntamiento que no hubiere sido citado a una Sesión de Cabildo, podrá solicitar, dentro de las veinticuatro horas siguientes a la fecha en que haya tenido conocimiento de la Sesión, que se vuelva a discutir en su presencia, él o los acuerdos tomados en su ausencia y el Secretario del H. Ayuntamiento le informará de los acuerdos tomados, debiendo quedar asentado en el acta respectiva su opinión sobre cada uno de los asuntos tratados. En este caso el integrante del Cabildo que se encuentre en dicho supuesto podrá solicitar la revocación del acuerdo en cuestión en términos de lo establecido por este Código Municipal.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 31.
 
-El Informe Anual de Gobierno del Presidente Municipal, será llevado a cabo en Sesión Solemne de Cabildo a celebrarse a más tardar en el mes de diciembre de cada año. El formato así como el orden del día de este tipo de sesiones serán acordadas por el Cabildo en sesión previa a la misma, pero en todo caso contendrá la participación de dos integrantes del Ayuntamiento, uno de extracción partidista del Primer Edil y otro más de entre los miembros de la oposición. En todas (sic) los casos, los integrantes del Ayuntamiento que participen en el Informe deberán ser de sexo distinto. Dicho informe deberá señalar todas las acciones realizadas por la Presidencia encaminadas a la protección de la equidad de género.
+El Informe Anual de Gobierno del Presidente Municipal, será llevado a cabo en Sesión Solemne de Cabildo a celebrarse a más tardar en el mes de diciembre de cada año. El formato así como el orden del día de este tipo de sesiones serán acordadas por el Cabildo en sesión previa a la misma, pero en todo caso contendrá la participación de dos integrantes del Ayuntamiento, uno de extracción partidista del Primer Edil y otro más de entre los miembros de la oposición. En todoslos (sic) casos, los integrantes del Ayuntamiento que participen en el Informe deberán ser de sexo distinto. Dicho informe deberá señalar todas las acciones realizadas por la Presidencia en materia de igualdad sustantiva y de eliminación de la violencia en sus diversos tipos y modalidades.
 
 ###### ARTÍCULO 32.
 
@@ -730,6 +772,10 @@ Iniciada la discusión de un asunto, sólo podrá suspenderse:
 I. Por desordenes graves en el recinto.
 
 II. Por moción suspensiva a propuesta de uno de los miembros del H. Ayuntamiento y que sea aprobado por mayoría del mismo.
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+III. Por actos o expresiones de discriminación.
 
 ###### ARTÍCULO 55.
 
@@ -1735,7 +1781,9 @@ El Comité Municipal para el Desarrollo Integral de la Familia y el Voluntariado
 
 I. Fortalecer el núcleo familiar a través de la promoción social, que tienda al mejoramiento de la vida del individuo, la familia y la sociedad en general.
 
-II. Realizar estudios e investigaciones sobre los problemas de la familia, de los menores, de los senectos, de las personas con discapacidad y proponer soluciones adecuadas.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+II. Realizar estudios e investigaciones sobre los problemas de la familia, de las y los menores, de las personas adultas mayores, considerando a las mujeres y su problemática en especial en esta etapa de su ciclo de vida, de las personas con discapacidad y proponer soluciones adecuadas.
 
 III. Proporcionar servicios asistenciales a menores en estado de abandono, a las personas con discapacidad, personas sin recursos y senectos desamparados.
 
@@ -1755,6 +1803,22 @@ X. Procurar y promover la coordinación con otras instituciones afines, cuyo obj
 
 XI. Las demás que les confiera la Legislación vigente, o que les encomiende el H. Ayuntamiento, a través del Presidente Municipal.
 
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XII. Nombrará un enlace de género para la debida coordinación de acciones con el Instituto Municipal de la Mujer de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XIII. Formará parte de los Sistemas Municipales, de Prevención, atención, sanción y erradicación de la violencia contra las mujeres, y de igualdad sustantiva entre mujeres y hombres.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+
+ARTÍCULO 100 BIS.- El Comité Municipal para el Desarrollo Integral de la Familia y el Voluntariado, en materia de violencia de género, considerará la desigualdad en que se encuentra, quien vive violencia familiar y consecuentemente:
+
+I. No impondrán procedimientos de conciliación ni de mediación entre pareja, y en los casos de que existan menores en la familia, atenderán en todo momento al interés superior de éstos.
+
+II. Se abstendrán de imponer así como recomendar psicoterapia de pareja y de familia.
+
 APARTADO TERCERO
 
 De la Coordinación General de Comunicación Social
@@ -1771,7 +1835,9 @@ III. Mantener informado al H. Ayuntamiento, al Presidente Municipal y a las Depe
 
 IV. Mostrar una imagen veraz y adecuada, del H. Ayuntamiento y Administración Municipal ante la sociedad.
 
-V. Emitir la normatividad en materia de comunicación social a que deberán sujetarse las dependencias del Gobierno Municipal.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+V. Emitir la normatividad en materia de comunicación social a que deberán sujetarse las dependencias del Gobierno Municipal, incluyendo el enfoque de género, que evite cualquier tipo de discriminación y expresiones o imágenes de sumisión de un género hacia otro;
 
 VI. Garantizar que la información proveniente del gobierno municipal se difunda a toda la población.
 
@@ -1821,9 +1887,13 @@ XII. Vigilar que se cumpla con las disposiciones legales en todos los asuntos at
 
 XIII. Apoyar a la comisión permanente en la gestión de proyectos avanzados, evaluando su pertinencia y viabilidad, con miras a conseguir apoyo y fortalecimiento entre las instancias gubernamentales y no gubernamentales, nacionales y extranjeras.
 
-XIV. Desarrollar Talleres de Análisis por (sic) para conocer las coyunturas y posicionamientos de la ciudadanía y las autoridades municipales sobre temas emergentes que requieren atención a través de políticas públicas concertadas.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
-XV. Promover la participación de la sociedad en las políticas públicas a través de la difusión de la información gubernamental tendientes a garantizar el efectivo goce y acceso a los servicios públicos municipales;
+XIV. Desarrollar talleres de análisis para conocer las coyunturas y posicionamientos de la ciudadanía y las autoridades municipales sobre temas emergentes que requieren atención a través de políticas públicas concertadas, en especial sobre la condición social, cultural, política y los factores que impiden su pleno desarrollo;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XV. Promover la participación de la sociedad en las políticas públicas a través de la difusión de la información gubernamental tendientes a garantizar el efectivo goce y acceso a los servicios públicos municipales, así como a una vida libre de violencia;
 
 XVI. Fomentar la participación de los ciudadanos en los asuntos públicos mediante la promoción de la cultura de la legalidad;
 
@@ -1985,15 +2055,29 @@ IX. Cumplir con la normatividad que emita la Dirección de Tecnologías de la In
 
 X. Asistir y brindar el apoyo necesario para los eventos y actividades de las dependencias de la Administración Pública Municipal organizadas en su jurisdicción.
 
-XI. Llevar a cabo reuniones mensuales con los comisarios municipales.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
-XII. Hacer recorridos en colonias y comunidades para hacer un diagnóstico y resolver la problemática del lugar en materia de servicios públicos y apoyos en desarrollo humano, urbano y rural.
+XI. Llevar a cabo reuniones mensuales con los comisarios municipales e incluir el rubro de reportes de violencia contra las mujeres en la demarcación y acciones para eliminarla;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XII. Hacer recorridos en colonias y comunidades para hacer un diagnóstico y resolver la problemática del lugar en materia de violencia de género, en especial contra las mujeres, servicios públicos y apoyos en desarrollo humano, urbano y rural, en su caso canalizarlo a las dependencias correspondientes;
 
 XIII. Dar seguimiento a reportes de las necesidades del servicio público, alumbrado, agua potable y demás servicios con que cuente o necesite la comunidad.
 
 XIV. Apoyar a la ciudadanía canalizándola a diversas instancias como hospitales, Sistema D.I.F., Seguridad Pública, entre otras.
 
-XV. Las demás que señale la ley o el H. Ayuntamiento por conducto del Presidente Municipal.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XV. Llevar un registro de los casos donde se presenten actos de violencia de género, en especial contra las mujeres, en especial de violencia en la familia y violencia comunitaria, con datos desagregados de género, edad, escolaridad, urbana, rural o comunitaria, orientación sexual, origen étnico;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XVI. Nombrar un enlace de género para la debida coordinación de acciones con el Instituto Municipal de la Mujer de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XVII. Las demás que señale la ley o el H. Ayuntamiento.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -2081,7 +2165,9 @@ I. Fungir como Secretario del H. Ayuntamiento.
 
 II. Vigilar el adecuado funcionamiento del archivo general del H. Ayuntamiento.
 
-III. Coordinar a las dependencias de la administración pública municipal a fin de mantener el orden público, vigilando que las actividades de los particulares se desarrollen dentro de los límites de respeto a la vida privada, a la paz y a la moral pública.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+III. Coordinar a las dependencias de la administración pública municipal a fin de mantener el orden público, vigilando que las actividades de los particulares se desarrollen dentro de los límites de respeto a la vida privada, a la paz y a la moral pública, de igual manera, en todo momento velará que se garantice el derecho de las personas a una vida libre de violencia en el municipiocon (sic) especial atención y cuidado hacia las mujeres;
 
 IV. Organizar, vigilar y coordinar las funciones de la Junta Municipal de Reclutamiento.
 
@@ -2105,9 +2191,9 @@ X. Regir las políticas jurídicas del Municipio por si o a través de la Direcc
 
 XI. Requerir información sobre el trámite y resolución de los asuntos tratados en las Direcciones, Coordinaciones y/o Departamentos Jurídicos de las Dependencias de la Administración Pública Municipal a efecto de evaluar su desempeño y articular las acciones necesarias para la salvaguarda de los intereses del H. Ayuntamiento de Aguascalientes, por sí o a través de la Dirección de Asuntos Jurídicos.
 
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
-XII. Supervisar y evaluar las actividades que se realicen en materia jurídica por cualquiera de las dependencias de la Administración Pública Municipal, por sí o a través de la Dirección de Asuntos Jurídicos.
+XII. Supervisar y evaluar las actividades que se realicen en materia jurídica por cualquiera de las dependencias de la Administración Pública Municipal, por si o a través de la Dirección de Asuntos Jurídicos, llevando el registro de las mismas desagregado por sexo.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -2119,9 +2205,9 @@ XIV. Asesorar en todo momento a los titulares de las Direcciones, Coordinaciones
 
 XV. (DEROGADA, P.O. 13 DE ENERO DE 2014)
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
-XVI. Tener bajo su mando la Dirección de Asuntos Internos de Seguridad Pública encargada de atender y dar seguimiento a las denuncias que se presenten sobre la actuación de los integrantes operativos que conforman la Secretaría de Seguridad Pública.
+XVI. Tener bajo su mando la Dirección de Asuntos Internos de Seguridad Pública encargada de atender y dar seguimiento a las denuncias que se presenten sobre la actuación de los integrantes operativos que conforman la Secretaría de Seguridad Pública, llevando el registro de las denuncias motivadas por algún tipo de discriminación o negación de servicio en casos de violencia de género;
 
 > <small>(ADICIONADA, P.O. 9 DE ENERO DE 2012)</small>
 
@@ -2375,7 +2461,9 @@ III. Promover y apoyar la participación ciudadana, para lograr un mejoramiento 
 
 IV. Recibir y canalizar las iniciativas de la población tendientes a satisfacer sus necesidades, así como inducir su colaboración en la realización de obras y la prestación de los servicios públicos municipales.
 
-V. Elaborar, supervisar, evaluar y actualizar los planes y programas de desarrollo social municipal.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+V. Elaborar, supervisar, evaluar y actualizar los planes y programas de desarrollo social municipal, considerando las necesidades específicas de las personas para su autonomía e independencia;
 
 VI. Diseñar y aplicar procedimientos técnicos administrativos en la realización de los programas de inversión municipales que tengan por fundamento el presupuesto por programas y observar lo dispuesto en los programas de transferencias de recursos federales y estatales.
 
@@ -2403,7 +2491,9 @@ XV. El fomento al empleo e impulso a la actividad económica en el comercio y lo
 
 XVI. Promover el autoempleo y el fortalecimiento de las micro y pequeñas empresas en el comercio y los servicios.
 
-XVII. Promover proyectos productivos en el área rural.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XVII. Promover proyectos productivos en el área rural, en especial para las mujeres rurales, a efecto de acelerar su igualdad con los hombres de su comunidad;
 
 XVIII. Coadyuvar, fomentar y promover, en los términos de las leyes y reglamentos de la materia la ejecución de políticas y programas del Municipio de Aguascalientes en lo referente a la actividad económica, que permita más empleo y el desarrollo del comercio y los servicios.
 
@@ -2421,7 +2511,9 @@ XXIV. Promover la vinculación con las instituciones de educación superior para
 
 XXV. Promover la infraestructura, así como la creación de nuevas empresas en las zonas rurales.
 
-XXVI. Brindar consultas y capacitación en materia empresarial.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XXVI. Brindar consultas y capacitación en materia empresarial, incluyendo la construcción de liderazgos y personas emprendedoras;
 
 XXVII. Promover y difundir las actividades artesanales, así como la comercialización de productos propios del Municipio.
 
@@ -2433,7 +2525,17 @@ XXX. Apoyar a las micro y pequeñas empresas en las gestiones para la obtención
 
 XXXI. (REFORMADA [N. DE E. DEROGADA], P.O. 3 DE MARZO DE 2008)
 
-XXXII. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XXXII. Nombrar un enlace de género para la debida coordinación de acciones con el Instituto Municipal de la Mujer de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XXXIII. Formar parte de los Sistemas Municipales, de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres y de Igualdad Sustantiva entre Mujeres y Hombres;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XXXIV. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 ###### ARTÍCULO 111
 
@@ -2691,13 +2793,35 @@ V. Vigilar, aplicar y hacer cumplir, en el ámbito de su competencia, las dispos
 
 VI. Practicar detenciones de personas y el aseguramiento de bienes en los casos previstos en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, así como los responsables por la presunta comisión de faltas administrativas o hechos delictivos en los términos de ley;
 
-VII. Poner a disposición de las autoridades competentes, en forma inmediata, a las personas detenidas y los bienes que en su caso se hayan asegurado;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+VII. Poner a disposición de las autoridades competentes, en forma inmediata, a las personas detenidas y los bienes que en su caso se hayan asegurado, incluyendo los casos de violencia familiar; absteniéndose en todo momento de prácticas de conciliación, negociación y mediación entre los involucrados;
 
 VIII. Vigilar e inspeccionar, para fines de Seguridad Pública, la zona terrestre de las vías generales de comunicación y los medios de transporte que operen en el Municipio de Aguascalientes;
 
-IX. Realizar investigaciones en el ámbito de su competencia para hacer efectiva la prevención, así como las derivadas de la comisión de delitos y faltas administrativas cometidos dentro del Municipio en el entendido de que esta información constituye la plataforma sustantiva para la conformación de las bases de datos susceptibles de aprovechamiento en la atención al fenómeno delictivo; y
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
-X. Las demás que señale la ley, los reglamentos, el H. Ayuntamiento y el Presidente Municipal.
+IX. Realizar investigaciones en el ámbito de su competencia para hacer efectiva la prevención, así como las derivadas de la comisión de delitos y faltas administrativas cometidos dentro del Municipio en el entendido de que esta información constituye la plataforma sustantiva para la conformación de las bases de datos susceptibles de aprovechamiento en la atención al fenómeno delictivo, la cual estará desagregada por sexo;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+X. Asistir sin dilación alguna a los llamados en casos de violencia familiar, con independencia del grupo especial para casos de violencia de género y de las órdenes de protección que éste cumplimente, para dar debida y cabal protección a las víctimas de este tipo de violencia;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XI. Evaluar en base a las órdenes de protección que le sean remitidas, el riesgo en que se encuentran las mujeres que hacen denuncias por violencia familiar o en la comunidad y establecer las estrategias de proximidad policial para garantizar su integridad física, notificando de los casos que se evalúen al Instituto Municipal de la Mujer de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XII. Nombrar un enlace de género para la debida coordinación de acciones con el Instituto Municipal de la Mujer de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XIII. Formar parte de los Sistemas Municipales, de Prevención, atención, sanción y erradicación de la violencia contra las mujeres, y de igualdad sustantiva entre mujeres y hombres; y
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XIV. Las demás que señale la ley, los reglamentos, el H. Ayuntamiento y el Presidente Municipal.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -2845,6 +2969,14 @@ III. Por solicitud del trabajador, si hubiese plazas disponibles.
 
 IV. Cuando las necesidades del servicio así lo requieran.
 
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+V. Por Quejas presentadas en su contra por hostigamiento o acoso sexual o violencia laboral, independientemente que de comprobarse se aplique la sanción que corresponda.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+
+Independientemente de lo señalado en el artículo 138 del presente código, en relación a lo dispuesto por la Ley Federal de Trabajo para quienes cometen estos actos.
+
 APARTADO SEGUNDO
 
 De las Condiciones de Trabajo
@@ -2913,11 +3045,19 @@ VII. Usar los gafetes, la ropa de trabajo y/o equipo que se le encomiende para s
 
 VIII. Asistir y participar en los cursos internos de capacitación y adiestramiento que les indiquen sus superiores. Cuando los cursos sean externos, el H. Ayuntamiento pagará los cursos en proporción al nivel de aprovechamiento tenido en el curso, y se cursarán siempre y cuando tengan relación directa con su área de trabajo y sean necesarios para un mejor desempeño de sus funciones, debiendo ser autorizados previamente por el Comité de Capacitación.
 
-IX. Cumplir con las demás normas de trabajo que le son aplicables y que contengan la Ley Federal del Trabajo, el Estatuto Jurídico de los Servidores Públicos de los Gobiernos del Estado, Municipios y Organismos descentralizados y La Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+
+Se consideraran necesarios e indispensables para el desarrollo de la actividad laboral, aquellos que se relacionan con buenas prácticas de igualdad de género y no discriminación, derechos humanos, prevención del hostigamiento y acoso sexual, así como aquellos contra la violencia laboral;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+IX. Cumplir con las demás normas de trabajo que le son aplicables y que contengan la Ley Federal del Trabajo, el Estatuto Jurídico de los Servidores Públicos de los Gobiernos del Estado, Municipios y Organismos descentralizados, la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, el Código de Ética para la Administración Pública del Municipio Libre deAguascalientes (sic), Reglamento Interior de Trabajo del Municipio de Aguascalientes y el presente este Código y demás normatividad aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 132.
 
-A los trabajadores les queda estrictamente prohibido:
+A las trabajadoras y los trabajadores les queda estrictamente prohibido:
 
 I. Hacer rifas, tandas, cobros, colectas, apuestas, préstamos de dinero, cualquier acto de comercio y cualquier actividad ajena a su trabajo, en horas laborables y dentro de los inmuebles del H. Ayuntamiento.
 
@@ -2941,7 +3081,17 @@ X. Presentarse a sus labores con aliento alcohólico, bajo los efectos de bebida
 
 XI. Portar armas de cualquier naturaleza, durante las horas de trabajo y dentro de las instalaciones del H. Ayuntamiento, salvo que la naturaleza de sus actividades así lo exija.
 
-XII. Las demás prohibiciones que le impone la Ley Federal del Trabajo, La Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, El Estatuto Jurídico para los servidores Públicos de los Gobiernos del Estado, Municipios y Organismos Descentralizados del Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XII. Proferir comentarios discriminatorios de género, que menoscaben, anulen, o faciliten burlas o humillaciones hacia las personas, en razón de su cuerpo, sexualidad o características personales;
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XIII. Efectuar actos de hostigamiento o acoso sexual, o cualquier otra acción de violencia de género y laboral.
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XIV. Las demás prohibiciones que le impone la Ley Federal del Trabajo, La Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, El Estatuto Jurídico para los servidores Públicos de los Gobiernos del Estado, Municipios y Organismos Descentralizados del Estado de Aguascalientes, Reglamento Interior de Trabajo del Municipio de Aguascalientes y este Código.
 
 ###### ARTÍCULO 133.
 
@@ -2985,101 +3135,181 @@ II. Suspensión del trabajo de uno a quince días, sin goce de sueldo.
 
 III. Rescisión de la relación de trabajo.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE JULIO DE 2015)</small>
 
 APARTADO CUARTO BIS
 
-Del Consejo por la Equidad Laboral y la Comisión para la Erradicación de la Violencia Laboral
+Del Consejo para la Igualdad sustantiva en materia Laboral y la Comisión para la Erradicación de la Violencia Laboral
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
 
-ARTÍCULO 138 BIS.- El Consejo por la Equidad Laboral tiene por objeto establecer la coordinación entre las dependencias y entidades de la administración pública municipal, a fin de implementar políticas y acciones para prevenir y erradicar la violencia laboral, así como los principios y modalidades para garantizar su acceso a un espacio laboral libre de violencia que favorezca el desarrollo y bienestar conforme a los principios de igualdad y no discriminación que permitan un desarrollo integral en las funciones y actividades que se desarrollan dentro de la administración pública municipal.
+ARTÍCULO 138 BIS.- El Consejo para la Igualdad sustantiva en materia Laboral tiene por objeto establecer la coordinación entre las dependencias y entidades de la Administración Pública Municipal, a fin de implementar políticas y acciones para prevenir y erradicar la violencia laboral, así como los principios y modalidades para garantizar su acceso a un espacio laboral libre de violencia que favorezca el desarrollo y bienestar conforme a los principios de igualdad y no discriminación que permitan un desarrollo integral en las funciones y actividades que se desarrollan dentro de la Administración Pública Municipal.
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
 
-ARTÍCULO 138 TER.- El Consejo por la Equidad Laboral tendrá como atribuciones las siguientes:
+ARTÍCULO 138 TER.- El Consejo para la Igualdad sustantiva en materia Laboral tendrá como atribuciones las siguientes:
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 I. Implementar políticas sociales, laborales y culturales que justifiquen y alienten las relaciones humanas basadas en el respeto de sus derechos fundamentales;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 II. Establecer las políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 III. Fortalecer el marco laboral para asegurar la sanción a quienes hostigan y acosan;
 
-IV. Promover y difundir entre las trabajadoras y trabajadores que el hostigamiento y el acoso sexual son delitos;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
-V. Diseñar programas que brinden servicios reeducativos integrales para víctimas y agresores;
+IV. Promover y difundir entre las trabajadoras y trabajadores que el hostigamiento y el acoso sexual son conductas sancionadas por la ley, así como actos que discriminan a las personas y consecuentemente violan sus derechos humanos;
 
-VI. Establecer políticas y lineamientos en materia de equidad de género e igualdad laboral entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
-VII. Garantizar la igualdad de oportunidades para mujeres y hombres dentro del ámbito laboral, mediante proyectos e instrumentos compensatorios como acciones afirmativas;
+V. Diseñar programas que atiendan el impacto de la violencia en las víctimas y de servicios reeducativos integrales para agresores y agresoras;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+VI. Establecer políticas y lineamientos en materia de igualdad laboral entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+VII. Garantizar la igualdad de oportunidades para mujeres y hombres dentro del ámbito laboral, mediante proyectos e instrumentos compensatorios como acciones afirmativas, que aceleren la igualdad de las mujeres en relación con los hombres, mismas que no se consideraran discriminatorias;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 VIII. Promover la igualdad entre mujeres y hombres y contribuir a la erradicación de todo tipo de discriminación en términos del ámbito laboral;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 IX. Fomentar que los procesos de contratación sean equitativos para mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 X. Impulsar liderazgos igualitarios dentro de la jerarquía laboral tanto para trabajadoras como trabajadores del Ayuntamiento;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 XI. Promover el desempeño de las dependencias y entidades de la administración pública municipal para que asuman el compromiso de prevenir y atender la violencia laboral;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 XII. Asegurar la optimización de recursos e instrumentos de todo tipo destinados para actuar en contra de la violencia laboral de conformidad con las disposiciones legales aplicables;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 XIII. Propiciar el establecimiento de vínculos institucionales para el intercambio de información con dependencias, organismos, entidades u otras instituciones nacionales e internacionales;
 
-XIV. Organizar seminarios, simposios, conferencias, cursos, diplomados y otros actos relacionados con temas de interés que le permitan la consecución de sus fines;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XIV. Organizar seminarios, simposios, conferencias, cursos, diplomados y otros actos relacionados con temas de interés que le permitan la consecución de sus fines, conformando un programa anual de capacitación para los y las servidores(as) públicos( as) del Municipio para la debida sensibilización y concientización, incluyendo los talleres de nuevas masculinidades;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 XV. Cualquier otra que determine el H. Ayuntamiento del Municipio de Aguascalientes; y
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 XVI. Las demás que de manera enunciativa y no limitativa comprendan y prevengan la violencia laboral.
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
 
-ARTÍCULO 138 QUÁTER.- El Consejo por la Equidad Laboral estará integrado de la siguiente manera:
+ARTÍCULO 138 QUÁTER.- El Consejo para la Igualdad sustantiva en materia Laboral, estará integrado de la siguiente manera:
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 I. Presidente(a) Municipal, quien fungirá como Presidente(a) del mismo;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 II. Titular Presidente(a) de la Comisión Permanente de Igualdad y Género;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 III. Titular Presidente(a) de la Comisión Permanente de Derechos Humanos;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 IV. Titular de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, quien fungirá como Secretario(a) Ejecutivo(a) del Consejo;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 V. Titular de la Oficina Ejecutiva de la Presidencia Municipal;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 VI. Titular de la Coordinación General de Observatorio Ciudadano de Transparencia y Gestión Municipal;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 VII. Presidente(a) del Comité Municipal para el Desarrollo Integral de la Familia;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 VIII. Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 IX. Titular de la Coordinación General de Comunicación Social;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 X. Titular de la Contraloría Municipal;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 XI. Titular de la Secretaría de Finanzas;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 XII. Titular de la Secretaría de de (sic) Obras Publicas;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 XIII. Titular de la Secretaría de Administración;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 XIV. Titular de la Secretaría de Integración Social;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 XV. Titular de la Secretaría de Desarrollo Urbano;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 XVI. Titular de la Secretaría de Servicios Públicos;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 XVII. Titular de la Secretaría de Seguridad Pública;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 XVIII. Titular de la Secretaría de Medio Ambiente y Desarrollo Sustentable;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 XIX. Titular del Instituto Municipal de la Mujer de Aguascalientes;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 XX. Titular de la Comisión Ciudadana de Agua Potable y Alcantarillado del Municipio de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 XXI. Titular del Instituto Municipal de Planeación;
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 XXII. Titular del Instituto Municipal Aguascalentense para la Cultura; y
 
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+
 XXIII. Secretario General del Sindicato Único de Trabajadores Estatales y Municipales de Aguascalientes (SUTEMA).
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
 
 Los integrantes del Consejo tendrán una representación exclusivamente honorífica y no podrán recibir compensación alguna por este motivo.
 
@@ -3145,9 +3375,11 @@ APARTADO QUINTO
 
 Obligaciones del Municipio hacia sus Trabajadores
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 139.
 
-Son obligaciones del Municipio hacia los trabajadores de la administración pública municipal, las siguientes:
+Son obligaciones del Municipio hacia las y los trabajadores de la Administración Pública Municipal, las siguientes:
 
 I. Pagar los salarios pactados y prestaciones a que tienen derecho.
 
@@ -3171,13 +3403,13 @@ VII. Adoptar las medidas de higiene y seguridad previstas por las leyes de la ma
 
 VIII. Adoptar medidas para informar, atender y sancionar la discriminación, la violencia laboral, el acoso y hostigamiento sexual;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
-IX. Adoptar criterios de equidad de género que se vean reflejados en la igualdad laboral y la no discriminación previstas por las leyes de la materia, atendiendo en todo momento a lo dispuesto en el artículo 135 BIS de este Ordenamiento.
+IX. Adoptar criterios de igualdad sustantiva en materia de género que se vean reflejados en la igualdad laboral y no discriminación, a partir de analizar las desigualdades existentes entre mujeres y hombres, previstas por las leyes de la materia;
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
-X. Adoptar modelos de trabajo que involucren la utilización de los avances electrónicos y tecnológicos que abonen a la conciliación entre la vida familiar y laboral; y
+X. Adoptar modelos de trabajo que involucren la utilización de los avances electrónicos y tecnológicos que abonen a la conciliación entre la vida familiar y laboral, buscando en todo momento que los hombres participen en la crianza de hijas e hijos; y
 
 XI. Las demás establecidas y que le imponen las leyes y reglamentos en la materia.
 
@@ -3208,6 +3440,10 @@ VII. Garantizar promociones justas y otras formas de progreso laboral, con base 
 VIII. Garantizar a los servidores públicos municipales, el ejercicio de los derechos que les reconocen las leyes y otros ordenamientos jurídicos.
 
 IX. Contribuir al bienestar de los servidores públicos municipales y sus familias, mediante el desarrollo de actividades educativas, de asistencia, culturales, deportivas, recreativas y sociales.
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+X. Establecer la perspectiva de género, como forma de interacción entre las y los trabajadores del Municipio facilitando la construcción de nuevas masculinidades.
 
 ###### ARTÍCULO 142.
 
@@ -4405,9 +4641,11 @@ En el Municipio de Aguascalientes la Justicia Municipal consiste en la valoraci�
 
 La Dirección de Justicia Municipal dependerá de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno y será facultad exclusiva del Director de Justicia Municipal por sí o a través de los Jueces Municipales lo establecido en el artículo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 294.
 
-El sistema de Justicia Municipal funcionará las 24 horas de de (sic) los 365 días del año. Cada Juzgado actuará por turnos que estarán integrados por:
+El sistema de Justicia Municipal funcionará las 24 horas de los 365 días del año. Cada Juzgado actuará por turnos que estarán integrados por:
 
 I. El Juez Municipal.
 
@@ -4421,9 +4659,15 @@ V. Un responsable del área de trabajo social.
 
 VI. Oficiales custodios.
 
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+
+Se buscará una integración con igual número de mujeres que de hombres.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 295.
 
-Para ser Director de Justicia Municipal, se requiere:
+Para ser titular de la Dirección de Justicia Municipal, se requiere:
 
 I. Ser mexicano en pleno goce de sus derechos y vecino del Municipio por más de cinco años.
 
@@ -4433,13 +4677,17 @@ III. No haber sido sentenciado por la comisión de delito doloso alguno.
 
 IV. Contar con experiencia comprobable en la materia de administración de justicia municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 296.
 
-Son atribuciones del Director de Justicia Municipal:
+Son atribuciones de la persona titular de la Dirección de Justicia Municipal:
 
 I. Proveer en el ámbito de su competencia lo necesario para la debida impartición de la Justicia Municipal.
 
-II. Examinar y proponer al Secretario del H. Ayuntamiento y Director General de Gobierno, el personal a integrar la Dirección de Justicia Municipal, así como los programas permanentes de capacitación.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+II. Examinar y proponer al Secretario del H. Ayuntamiento y Director General de Gobierno, el personal a integrar la Dirección de Justicia Municipal, así como los programas permanentes de capacitación, que invariablemente deberán contener los temas de acceso a la justicia y juzgar con perspectiva de género, así como de violencia contra las mujeres.
 
 III. Determinar discrecionalmente y de acuerdo a las necesidades del servicio, los horarios y turnos del personal que integra la Dirección de Justicia Municipal.
 
@@ -4447,7 +4695,9 @@ IV. Ejercer por sí o por conducto del Juez en turno el mando de los oficiales c
 
 V. Informar al Secretario del H. Ayuntamiento y Director General de Gobierno, sobre los asuntos relevantes que se susciten en la Dirección.
 
-VI. Elaborar planes y programas necesarios para la debida impartición de la Justicia Municipal.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+VI. Elaborar planes y programas necesarios para la debida impartición de la Justicia Municipal, incluyendo la perspectiva de género.
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -4465,9 +4715,11 @@ APARTADO SEGUNDO
 
 De los Jueces Municipales de Seguridad Pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 297.
 
-Para ser Juez Municipal se requiere:
+Para ser Juez(a) Municipal se requiere:
 
 I. Ser mexicano en pleno goce de sus derechos y vecino del Municipio por más de tres años.
 
@@ -4477,9 +4729,15 @@ III. Aprobar el examen de conocimientos que aplique el Director de Justicia Muni
 
 IV. No haber sido sentenciado por delito doloso alguno.
 
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+V. Contar con conocimientos en materia de nuevas masculinidades y perspectiva de género.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 298.
 
-Son atribuciones de los Jueces Municipales:
+Son atribuciones de Jueces y juezas Municipales:
 
 I. Recibir, a través del receptor de detenidos, las personas que sean puestas a su disposición.
 
@@ -4521,11 +4779,15 @@ XV. Para imponer, como sanción administrativa, el servicio comunitario, conform
 
 XVI. Las demás que se desprendan del presente Código y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+
+Tratándose de casos donde se presuma la existencia de algún tipo de violencia de género, independientemente del asunto de que se trate, queda prohibido efectuar procedimientos de conciliación, negociación o mediación.
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 299.
 
-Los jueces municipales, dentro de su turno, serán la máxima autoridad tanto del juzgado respectivo como del centro de detención adjunto y cuidaran estrictamente que se respeten y hagan valer los derechos humanos de los infractores y su dignidad humana, quedando bajo su responsabilidad cualquier atentado en que incurra el personal del juzgado.
+Lasy (sic) los Jueces Municipales, dentro de su turno serán la máxima autoridad tanto del Juzgado respectivo como del Centro de Detención adjunto y cuidarán estrictamente que se respeten los derechos humanos de los y las infractores(as) y su dignidad humana, quedando bajo su responsabilidad cualquier atentado en que incurra el personal del Juzgado, incluyendo actos de discriminación basada en edad, discapacidades, origen étnico, clase, condiciones de salud, religión; opiniones, sexo, orientación sexual, identidad sexo-génerica, estado civil o cualquier otra que tenga por objeto o por resultado, menoscabar o anular el reconocimiento, goce o ejercicio, independientemente de su estado civil, sobre la base de los Derechos Humanos y las libertades fundamentales en las esferas políticas, económicas, social, cultural, civil o en cualquier otra esfera.
 
 ###### ARTÍCULO 300.
 
@@ -4635,9 +4897,11 @@ APARTADO SEXTO
 
 Del Departamento de Servicios Médicos, Psicología y Trabajo Social
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 312.
 
-la Dirección de Justicia Municipal contará con un cuerpo de médicos, psicólogos y personal de trabajo social a cargo de un Jefe de Departamento, quien contará con las siguientes atribuciones:
+La Dirección de Justicia Municipal contará con personal médico, psicológico y de trabajo social a cargo de un Jefe(a) de Departamento, quien contará con las siguientes atribuciones:
 
 l. Organizar y supervisar las distintas actividades que se realizan en el área a su cargo.
 
@@ -4651,7 +4915,9 @@ IV. Coordinar, supervisar y proponer planes y programas de trabajo al Director d
 
 V. Elaborar certificados médicos a las personas detenidas y presentadas por autoridad distinta de la Secretaría de Seguridad Pública, con la que previamente se haya celebrado convenio de colaboración, así hecho saber por el Director de Justicia Municipal o por el Jefe del Departamento.
 
-VI. Participar en la programación y supervisión de cursos de capacitación.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+VI. Participar en la programación y supervisión de cursos de capacitación, incluyendo en materia de derechos humanos, de violencia e igualdad de género y justicia con perspectiva de género.
 
 VII. Establecer el rol de turnos del personal a su cargo.
 
@@ -4659,11 +4925,19 @@ VIII. Llevar el control administrativo de las personas que sean atendidas en los
 
 IX. Proveer lo necesario a efecto de que se cuente con médico de guardia en los Juzgados Municipales en todo momento.
 
-X. Las demás que se desprendan de éste Código, de los ordenamientos jurídicos vigentes y las normas administrativas que dicte el Director de Justicia Municipal.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+X. Verificar que el personal a su cargo evite prácticas de conciliación, mediación, negociación o atenciones psicológicas de familia o pareja en los casos donde exista violencia de cualquier tipo en contra de las mujeres.
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XI. Las demás que se desprendan de éste Código, de los ordenamientos jurídicos vigentes y lasnormas (sic) administrativas que dicte la persona titular de la Dirección de Justicia Municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 313.
 
-Serán atribuciones de los médicos de Justicia Municipal:
+Serán atribuciones del personal médico de Justicia Municipal:
 
 I. Revisar el estado de salud de quienes son puestos a disposición del Juez Municipal, elaborando a cada uno el certificado médico de integridad psicofísica correspondiente, supervisando su salud, durante el tiempo que estén detenidos.
 
@@ -4691,6 +4965,10 @@ XI. Las demás que se desprendan de éste Código, de los ordenamientos jurídic
 
 Los médicos durante su turno serán responsables del buen uso o cuidado del equipo medico, mobiliario, medicinas y material de curación con que cuente la dependencia.
 
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+
+Proporcionar atención libre de cualquier tipo de discriminación, o estereotipos de sumisión de un género hacia otro.
+
 ###### ARTÍCULO 314.
 
 Son atribuciones del personal de psicología y trabajo social:
@@ -4699,17 +4977,29 @@ I. Pasar lista a los detenidos en celdas al inicio de cada turno.
 
 II. Orientar a detenidos, infractores y a la población en general, en la solución de problemas sociales, familiares, vecinales, de adicciones, entre otros.
 
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+
+Tratándose de mujeres que vivan violencia familiar se abstendrán de orientaciones en pareja o familia, así como de conciliación, mediación o negociación.
+
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 III. Atender y encauzar a la autoridad competente a las personas extraviadas, en desventaja social, menores de edad y enfermos mentales que sean presentados por los integrantes operativos de la Secretaría de Seguridad Pública o remitidos por el Juez Municipal.
 
 IV. Llevar el registro de actividad diaria.
 
-V. Proponer y elaborar planes y programas de atención a personas y familias con problemas sociales, familiares, de adicción, entre otros.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+V. Proponer y elaborar planes y programas de atención a personas y familias con problemas sociales, familiares, de adicción, entre otros, respetando en todo caso la autonomía e independencia de las mujeres, sin asignación de consideraciones sobre la responsabilidad de cuidado de la familia de manera exclusiva a estas.
 
 VI. Atender casos urgentes de violencia familiar, desamparo, intentos de suicidio, protección y asesoramiento a víctimas de faltas administrativas.
 
-VII. Coadyuvar en la conciliación con el Juez Municipal cuando así se les requiera.
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+
+Lo anterior, en coordinación con los lineamientos establecidos por el Instituto Municipal de la Mujer de Aguascalientes, a efecto de que no apliquen estereotipos tradicionales a las mujeres y se favorezca la autonomía e independencia.
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+VII. Coadyuvar en la conciliación con la jueza o juezMunicipal (sic) cuando así se les requierasalvo (sic) en casos de violencia familiar.
 
 VIII. Elaborar ficha de registro de las personas atendidas, la cual deberá contener según sea el caso:
 
@@ -4849,6 +5139,14 @@ Cuando el infractor alegue su calidad específica de obrero, jornalero o asalari
 
 Inmediatamente que el infractor pague la multa, por su conducto o por interpósita persona, será puesto en absoluta libertad.
 
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+
+Podrá considerarse como trabajo comunitario, la asistencia a psicoterapias reeducativas para quien realice actos de violencia en la familia, en cuyo caso no podrán ser atendidos en los mismos horarios y lugares ni por las mismas personas que atienden a quienes sufren la violencia.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+
+El modelo de intervención se articulará en coordinación con el Instituto Municipal de la Mujer de Aguascalientes, a efecto de que se proporcione con el enfoque de género y los estándares debidos para la atención de agresores.
+
 ###### ARTÍCULO 325.
 
 El Juez Municipal, a efecto de aplicar las sanciones administrativas que señala este Código, deberá de verificar si existe adecuación de la conducta del infractor con la falta descrita.
@@ -4969,9 +5267,9 @@ IX. Portar cualquier objeto, que solo puede ser utilizado para agredir o causar 
 
 X. Ingerir bebidas embriagantes en la vía pública.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
-XI. Realizar actos de violencia contra las mujeres, en términos de la legislación del Estado que regula las modalidades y tipos de violencia de género.
+XI. Realizar actos de violencia contra las mujeres de conformidad con los ordenamientos aplicables a la materia que regulan las formas y tipos de violencia de género.
 
 > <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
 
@@ -5085,19 +5383,21 @@ VII. Producir ruido que por su volumen provoque malestar público con aparatos d
 
 VIII. Ensayar las bandas de guerra o conjuntos musicales en lugares públicos, careciendo del permiso correspondiente o en lugares privados cuando el ruido generado ocasione molestias a los vecinos.
 
-IX. Proferir palabras obscenas en la vía pública.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+IX. Proferir palabras obscenas en la vía pública, insultar o hacer referencia a su sexualidad.
 
 X. Causar daños a vecinos, transeúntes o vehículos, por omitir las medidas necesarias de aseguramiento de tiestos, plantas u otros objetos.
 
 XI. Obstaculizar un sentido de circulación o la totalidad de cualquier vialidad primaria, secundaria o carretera, durante cualquier manifestación de los habitantes del Municipio.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
-XII. Realizar acoso contra las mujeres, siempre y cuando no constituya algún delito.
+XII. Realizar acoso, con palabras sea cual sea su contenido, ademanes sexuales o acciones físicas de seguimiento en contra de la niñez, la adolescencia, mujeres, hombres, adultos mayores, independientemente de su identidad sexo-genérica, siempre y cuando no constituya algún delito.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
-XIII. Una perturbación relevante de la convivencia que afecte de manera grave, inmediata y directa a la tranquilidad o al ejercicio de derechos legítimos de otras personas como son la violencia intrafamiliar y de género.
+XIII. Una perturbación relevante de la convivencia que afecte de manera grave, inmediata y directa a la tranquilidad o al ejercicio de derechos legítimos de otras personas como son la violencia familiar, comunitaria y de género.
 
 > <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
 
@@ -5106,6 +5406,14 @@ XIV. Efectuar actos de discriminación o de violencia de cualquier tipo por razo
 > <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
 
 XV. Efectuar trato diferenciado entre mujeres y hombres, así como cualquier persona por su origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad de género, el estado civil o cualquier otra en la prestación de cualquier servicio o en el otorgamiento de algún derecho.
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XVI. Discriminar de cualquier forma a la niñez, la adolescencia, mujeres, hombres, adultos mayores, independientemente de su identidad sexo-genérica mediante la negativa de la prestación de algún servicio y/o venta de algún bien, con las excepciones que se señalan y regulan en los ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+
+Para los casos de la fracción XII, se efectuará el reporte correspondiente al Instituto Municipal de la Mujer de Aguascalientes.
 
 APARTADO SÉPTIMO
 
@@ -5129,7 +5437,9 @@ V. Turbar la tranquilidad de las personas con gritos, música o ruidos aún cuan
 
 VI. Hacer bromas indecorosas o mortificantes o en cualquier otra forma molestar a una persona mediante el uso del teléfono.
 
-VII. Dirigirse a una persona con frases o ademanes que afecten su integridad, asediarlo, intimidarlo o impedirle su libertad de acción en cualquier forma.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+VII. Dirigirse a una persona con frases o ademanes que afecten su integridad, asediarlo, intimidarlo o impedirle su libertad de acción en cualquier forma, en el caso de mujeres se considerarán además cualquier frase que les sea dirigida de manera ofensiva.
 
 VIII. Maltratar, rayar, pintar o ensuciar las fachadas de los edificios o inmuebles de propiedad particular.
 
@@ -5149,15 +5459,17 @@ APARTADO OCTAVO
 
 De las Faltas Contra la Integridad Moral del Individuo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 344.
 
-Son faltas contra la integridad moral individual, colectiva y de la familia y se sancionarán con arresto de hasta por treinta y seis horas o multa de cinco a treinta días de salario mínimo general vigente en el Estado, las siguientes:
+Son faltas contra la integridad moral de las personas y de la familia y se sancionarán con arresto de hasta por treinta y seis horas o multa de cinco a treinta días de Salario Mínimo General Vigente en el Estado, las siguientes:
 
 I. Usar drogas, sustancias, plantas o semillas enervantes en la vía pública.
 
-II. Invitar, inducir, promocionar o facilitar en la vía pública el comercio carnal.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+II. Invitar, inducir, promocionar o facilitar en la vía pública el comercio carnal, lo cual también es aplicable a quien se ostente como cliente de este comercio.
 
 III. Injuriar a las personas que asistan a un espectáculo o diversión con palabras, actitudes o gestos, por parte de los actores, jugadores, músicos o auxiliares del espectáculo o diversión.
 
@@ -5167,7 +5479,9 @@ IV. Faltar en la vía pública, al respeto o consideración que se debe a los ad
 
 V. Corregir con escándalo, vejar o maltratar a los menores, adultos mayores, al cónyuge, concubina o concubinario en la vía pública, o bien en el interior de un bien inmueble, siempre que cause efectos hacia el exterior o lo solicite un tercero.
 
-VI. Ejecutar, exhibir o asumir actitudes obscenas, de manera pública y por cualquier medio, que atente contra la moral y las buenas costumbres.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+VI. Ejecutar, exhibir o asumir actitudes obscenas y/o sexuales, de manera pública.
 
 VII. Asistir los menores de dieciocho años de edad a centros nocturnos, bares, pulquerías o cualquier otro lugar en que se prohíba su permanencia, esto con independencia de la sanción correspondiente a los establecimientos, de acuerdo con las disposiciones reglamentarias que las rijan.
 
@@ -5299,13 +5613,19 @@ Las autoridades señaladas en el artículo que antecede, con excepción de las m
 
 El Municipio podrá llevar a cabo toda clase de convenios con las autoridades estatales y federales, así como con diversas instituciones públicas o privadas, a fin de capacitar profesionalmente al personal encargado de la custodia y manutención de los internos en los Centros de Detención Municipales, así como para brindar un mejor servicio.
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 365.
 
-El personal que durante el desempeño y sus funciones esté relacionado con las actividades propias del centro preventivo, estará obligado a asistir al curso teórico-práctico de formación y actualización que organice y disponga el Director de Justicia Municipal de este municipio.
+El personal que durante el desempeño y (sic) sus funciones esté relacionado con las actividades propias del centro preventivo, estará obligado a asistir al curso teórico-práctico de formación y actualización que organice y disponga la persona titular de la Dirección de Justicia Municipal de este municipio.
+
+Estará también obligado a la capacitación que en materia de juzgar con perspectiva de género, le proporcione el Municipio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 366.
 
-El Director de Justicia Municipal, además de las atribuciones que tiene en relación con lo previsto en otros ordenamientos y en capítulos anteriores, tendrá las siguientes atribuciones:
+La persona titular de la Dirección de Justicia Municipal, además de las atribuciones que tiene en relación con lo previsto en otros ordenamientos y en capítulos anteriores, tendrá las siguientes atribuciones:
 
 I. Organizar, dirigir y administrar los Centros de Detención Preventiva de este municipio.
 
@@ -5351,9 +5671,11 @@ XVIII. Asignar un área médica en la cual deberá existir un médico responsabl
 
 XIX. Las demás que se desprendan del presente Código o que le sean asignadas por el Presidente Municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 367.
 
-Los Jueces Municipales, además de las establecidas en el Código Municipal u otras disposiciones, tienen las siguientes atribuciones:
+Jueces y juezas Municipales, además de las establecidas en el Código Municipal u otras disposiciones, tienen las siguientes atribuciones:
 
 I. Llevar el control de los detenidos que ingresen diariamente a los Centros de Detención Preventiva Municipales.
 
@@ -5368,6 +5690,10 @@ V. Ordenar se realice toda diligencia necesaria a fin que se cumpla estrictament
 VI. Dar conocimiento al Director de Justicia Municipal, de cualquier anomalía o contradicción que se realice con lo estipulado en el presente capítulo, con el propósito de que se corrija o se sancione al responsable.
 
 VII. Estar al mando de los oficiales custodios que se encuentren de turno en los Centros de Detención Preventiva Municipales.
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+VIII. Juzgar con perspectiva de género, considerando las desigualdades entre mujeres y hombres, en la comisión de las faltas administrativas que así lo requieran, resultando aplicable en los casos de presión, intimidación contra mujeres que hayan formulado quejas por actos de violencia de género.
 
 ###### ARTÍCULO 368.
 
@@ -5458,6 +5784,10 @@ Ningún arresto administrativo podrá exceder del término de treinta y seis hor
 ###### ARTÍCULO 376.
 
 Será obligación de la Dirección de Justicia Municipal llevar a cabo un sistema de identificación, como medio de control administrativo de todos aquellos internos que se encuentren a su disposición. Para la identificación de los internos, además se podrá tomar una fotografía de frente y de perfil, así como las huellas dactilares las cuales se insertarán en el expediente administrativo de ingreso al Centro de Detención Preventiva Municipal. La información será confidencial y sólo podrá ser entregada cuando así sea requerido por las autoridades competentes y se realice dicha petición por escrito.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+
+ARTÍCULO 376 BIS.- Tratándose de faltas administrativas vinculadas a cualquier tipo de violencia de género y en particular violencia familiar, se remitirá a la Secretaría de Seguridad Pública Municipal, la información del lugar, circunstancias y personas involucradas, para los efectos de establecer acciones preventivas y de proximidad policial de protección a las víctimas directas e indirectas.
 
 APARTADO CUARTO
 
@@ -5623,6 +5953,10 @@ A su ingreso el visitante deberá portar un gafete de identificación que expres
 
 Todos los visitantes deberán ser sometidos a una revisión corporal como medida de seguridad y por ningún motivo podrá ingresar al área de celdas con objetos que por su diseño o naturaleza implique algún riesgo para la integridad física de los internos, de los visitantes, oficiales custodios o administrativo de la institución, por lo que los alimentos también serán revisados de manera higiénica, para evitar que sean introducidos diversos objetos no permitidos, lo anterior a través de los oficiales custodios.
 
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+
+La revisión de mujeres visitantes, deberá de efectuarse por oficiales custodios mujeres, y el mismo deberá obedecer a los fines señalados, pero garantizando un trato respetuoso, sin comentarios inadecuados en relación a su género, orientación sexual o condición.
+
 ###### ARTÍCULO 399.
 
 Cuando algún funcionario relacionado con la procuración y administración de la justicia, ya sea del fuero común o federal en ejercicio de sus funciones, solicite su ingreso al área de celdas y acredite su personalidad, deberá proporcionársele las facilidades necesarias para que realice su visita. De igual forma se permitirá el acceso a los funcionarios de la Comisión Nacional de Derechos Humanos y del organismo protector de los derechos humanos en el Estado para que lleven a cabo sus funciones.
@@ -5635,9 +5969,15 @@ APARTADO NOVENO
 
 Oficiales Custodios
 
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 401.
 
-Los oficiales custodios comisionados a los Centros de Detención Preventiva Municipal, deberán cumplir con sus responsabilidades en estricto apego a los derechos fundamentales de las personas internas, cumpliendo lo establecido por las leyes, Código Municipal y Reglamentos relacionados con su ámbito de competencia para el desarrollo de su trabajo. Por ningún motivo los oficiales custodios o personal administrativo solicitará al interno o a sus familiares dádiva o emolumento alguno, ya que en caso de esta naturaleza, se pondrá a disposición de su jefe inmediato a fin de que se proceda conforme a derecho, por lo que se deberá levantar el acta administrativa circunstanciada de los hechos que motiven la irregularidad detectada o reportada con el nombre y firma del quejoso y de dos testigos de asistencia.
+Laspersonas (sic) que desempeñen el cargo de oficial custodio comisionados a los Centros de Detención Preventiva Municipal, deberán cumplir con sus responsabilidades en estricto apego a los derechos fundamentales de las personas internas, aplicando lo establecido por las Leyes, el presente Código Municipal y Reglamentos relacionados con su ámbito de competencia para el desarrollo de su trabajo.
+
+Por ningún motivo quienes desempeñen esta labor de custodia o personal administrativo solicitará a la persona interna o a sus familiares dádiva o emolumento alguno, pues en tal supuesto, se avisara a su jefe o jefa inmediato(a), quien deberá levantar el acta administrativa circunstanciada de los hechos que motiven la irregularidad detectada o reportada con el nombre y firma del quejoso o quejosa y de dos personas que atestigüen, procediendo conforme a derecho.
+
+De igual forma se procederá en caso de presentarse acoso sexual y/o cualquier conducta irregular por parte de las personas que se desempeñen como oficiales custodios o personal administrativo a la persona interna o a sus familiares.
 
 ###### ARTÍCULO 402.
 
@@ -7241,6 +7581,10 @@ II. Prevención, que se realizará a través de las actividades encaminadas a ev
 
 III. Reacción, que serán las acciones dirigidas a garantizar, mantener y restablecer el orden y la paz pública.
 
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+IV. Protección de la integridad física de las personas, con especial atención a las mujeresy (sic) victimas indirectas que viven violencia, con la materialización de las órdenes de protección y las estrategias de proximidad a que haya lugar, de conformidad con el reglamento respectivo.
+
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO 547.
@@ -7297,21 +7641,25 @@ IV. Vigilar que los recursos humanos, materiales y financieros se ejerzan eficaz
 
 V. Ordenar la profesionalización, y en lo general todos aquellos estudios que permitan alcanzar el desarrollo profesional del personal adscrito a la Secretaría;
 
-VI. Cumplir y velar por que los integrantes operativos de la Secretaría acaten las disposiciones legales aplicables sobre la prestación del servicio de Seguridad Pública, manteniendo la más estricta observancia de respeto a los derechos humanos;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+VI. Cumplir y velar que las personas integrantes operativas de la Secretaría acaten las disposiciones legales aplicables sobre la prestación del servicio de Seguridad Pública, manteniendo la más estricta observancia de respeto a los derechos humanos, la no discriminación y el derecho de las mujeres a vivir una vida libre de violencia;
 
 VII. Resolver las dudas que se susciten internamente sobre las competencias de las Unidades Administrativas de la Secretaría, con motivo de la interpretación o aplicación del presente Código y sobre las situaciones no previstas en el mismo, así como establecer los lineamientos y procedimientos conforme a los cuales deban actuar;
 
-VIII. Proponer al Presidente Municipal los nombramientos de:
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
-a) Director de Estado Mayor;
+VIII. Proponer al Presidente o Presidenta Municipal con paridad genérica los siguientes nombramientos:
 
-b) Director de Policía Preventiva;
+a) Director (a) de Estado Mayor;
 
-c) Director de Tránsito y Movilidad;
+b) Director (a) de Policía Preventiva;
 
-d) Director de Prevención del Delito; y
+c) Director (a) de Tránsito y Movilidad;
 
-e) Director de Profesionalización.
+d) Director (a) de Prevención del Delito; y
+
+e) Director (a) de Profesionalización.
 
 IX. Recibir y realizar acuerdos directamente con los Directores de la Secretaría para el despacho de los asuntos de su competencia;
 
@@ -7321,13 +7669,23 @@ XI. Imponer las sanciones y correctivos disciplinarios a los integrantes operati
 
 XII. Fomentar una cultura de respeto a los Derechos Humanos, en lo relativo a la prestación del servicio de Seguridad Pública, específicamente respecto a las detenciones, al mantenimiento y restablecimiento del orden público, a través de la difusión y promoción de los mismos, hacia el interior de la Secretaría y a la sociedad;
 
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+
+En respeto a los derechos humanos de las mujeres, no se les someterá a prácticas de conciliación o mediación en casos de violencia.
+
 XIII. Autorizar los cambios, comisiones y rotaciones de servicio o de turno a cualquier integrante operativo de la Secretaría, por cuestiones de operatividad o necesidades del servicio cuando así se requiera respetando las formalidades en la operación del sistema terciario y los manuales correspondientes;
 
 XIV. Ordenar la presentación del personal adscrito a la Secretaría en revista administrativa y operativa;
 
 XV. Ordenar la investigación preventiva del delito y faltas administrativas a fin de inhibir su incidencia; y
 
-XVI. Las demás que le señalen las disposiciones normativas aplicables o le asigne el Presidente Municipal.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XVI. Ordenar la actuación policial en casos de violencia de género, órdenes de protección, evaluación de riesgo y estrategias policiales en dichos casos.
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XVII. Las demás que le señalen las disposiciones normativas aplicables o le asigne el Presidente o Presidenta Municipal.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -7365,7 +7723,13 @@ XIV. Elaborar estudios comparados sobre las legislaciones de las entidades feder
 
 XV. Mantener informado al Secretario de Seguridad Pública, a los Directores y demás personal de la Secretaría, respecto de la creación, reformas y adiciones a las leyes, reglamentos, decretos y manuales que atañen a la Secretaría; y
 
-XVI. Las demás que le confiera el Secretario y las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XVI. Revisar los lineamientos de actuación en materia de órdenes de protección de las mujeres y víctimas indirectas, con arreglo a los protocolos específicos o manuales, así como tener el registro respectivo de dichas órdenes y de sus acciones de proximidad policial a cada una de ellas.
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XVII. Las demás que le confiera el Secretario y las disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -7407,7 +7771,13 @@ XVI. Sustituir al Secretario en sus faltas y ausencias temporales, salvo que por
 
 XVII. Emitir y publicar acuerdos para la correcta operación de las áreas que se encuentren bajo su responsabilidad, previa revisión de la Coordinación de Asuntos Jurídicos y la autorización respectiva del Secretario; y
 
-XVIII. Las demás que le confiera el Secretario y las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XVIII. La supervisión de las acciones de proximidad policial, para acotar el riesgo en que se encuentran las personas que viven violencia de género.
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XIX. Las demás que le confiera el Secretario y las disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -7443,7 +7813,9 @@ XIII. Emitir informes mensuales de sus actividades al Secretario;
 
 XIV. Coordinar la supervisión, control y disciplina del personal a su cargo;
 
-XV. Dar parte a la instancia correspondiente de las violaciones cometidas por los integrantes operativos bajo su mando, a los principios de actuación y obligaciones que los rigen; y
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XV. Dar parte a la instancia correspondiente de las violaciones cometidas por las personas integrantes operativas bajo su mando, a los principios de actuación y obligaciones que los rigen, así como de los actos de discriminación o de género en que incurran; y
 
 XVI. Las demás que le confiera el Secretario y las disposiciones legales aplicables.
 
@@ -7517,9 +7889,11 @@ I. Desarrollar y aplicar las políticas en materia de prevención del delito, a 
 
 II. Promover la concertación Institucional y sectorial en los ámbitos público, privado y social, participando en programas de prevención delictiva;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
-III. Desarrollar y establecer modelos de prevención delictiva, en los que participe la población en forma individual, grupal, comunitaria o institucional, llevando a cabo acciones tendientes a evitar o reducir los daños causados por la comisión de delitos o faltas administrativas;
+III. Desarrollar y establecer modelos de prevención delictiva, incluyendo los de nuevas feminidades y masculinidades, en los que participe la población en forma individual, grupal, comunitaria o institucional, llevando a cabo acciones tendientes a evitar o reducir los daños causados por la comisión de delitos o faltas administrativas.
+
+Las acciones de prevención y atención a las víctimas de la violencia familiar y de género, deberán establecerse de conformidad con el Programa Nacional de Prevención Social del Delito, en el que participa el municipio, en coordinación con el Instituto Municipal de la Mujer de Aguascalientes.
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -7548,6 +7922,10 @@ IX. Desarrollar e implementar programas encaminados a:
 a).- Prevenir la violencia infantil y juvenil.
 
 b).- Promover la erradicación de la violencia en contra de cualquier persona por su origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad de género, el estado civil o cualquier otra; dentro y fuera del seno familiar.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE JULIO DE 2015)</small>
+
+Las acciones de erradicación de la violencia de género, se harán anualmente en coordinación con el Instituto Municipal de la Mujer de Aguascalientes, para la formación de nuevas feminidades y masculinidades que prevén los programas de Prevención Social del Delito.
 
 c).- Prevenir la violencia generada por el uso de armas, el abuso de drogas y alcohol.
 
@@ -7585,7 +7963,9 @@ IV. Diseñar y proponer los procesos, procedimientos, lineamientos, políticas, 
 
 V. Diseñar, implementar y evaluar los planes y programas para la formación inicial y continua de las demás direcciones, en coordinación con instituciones educativas, organismos públicos y privados;
 
-VI. Diagnosticar las necesidades de profesionalización del personal de la Secretaría;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+VI. Diagnosticar las necesidades de profesionalización del personal de la Secretaría, considerándose la importancia de institucionalizar el enfoque de género, la atención en crisis, la violencia de género en sus diferentes modalidades y tipos;
 
 VII. Promover el desarrollo de la investigación académica en materia policial de manera autónoma o en coordinación con instituciones u organismos públicos y privados;
 
@@ -7613,7 +7993,7 @@ XVII. Las demás que le confiera el Secretario y las disposiciones legales aplic
 
 ### CAPÍTULO I. Derechos y Obligaciones
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 560.
 
@@ -7733,35 +8113,69 @@ Nadie podrá ingresar a la escala jerárquica y sus equivalencias, si no ha sido
 
 ###### ARTÍCULO 565.
 
-Son derechos de todos los integrantes operativos de la Secretaría, aquellos que por la naturaleza de su grado o cargo les son conferidos en forma implícita o explícita por este Código y demás instrumentos normativos aplicables, los siguientes:
+Son derechos de las personas integrantes operativas de la Secretaría, quienes por la naturaleza de su grado o cargo les son conferidos en forma implícita o explícita por este Código y demás instrumentos normativos aplicables, los siguientes:
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 I. Percibir un salario digno y remunerador, acorde con la calidad y riesgo en el desempeño de las funciones, en el entendido de que, a misma jerarquía corresponden las mismas percepciones y éstas no podrán ser disminuidas durante el desempeño de su encargo;
 
-II. Gozar de un trato digno y respetuoso por parte de sus superiores jerárquicos, iguales y subordinados;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+II. Gozar de un trato digno y respetuoso por parte de sus superiores jerárquicos, iguales y subordinados, libre de cualquier práctica de hostigamiento o acoso sexual y/o violencia laboral;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 III. Recibir el respeto y la atención de la comunidad a la que sirve;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 IV. Recibir la formación inicial y continua que para el efecto señale la Dirección de Profesionalización, a través de las áreas correspondientes;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 V. Que le sean respetados los derechos que les reconoce el Sistema Integral de Desarrollo Policial, en términos de este Código y demás instrumentos normativos aplicables;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 VI. Recibir el equipo, uniforme, insignias y divisas correspondientes sin costo alguno, dos veces al año. Asimismo se le proporcionarán las armas de fuego y municiones necesarias de acuerdo a las particularidades de la prestación del servicio asignado;
 
-VII. Participar en los concursos de promoción y someterse a las evaluaciones correspondientes para ascender a la jerarquía inmediata superior en atención a las programaciones y los requisitos correspondientes que al efecto determine el Sistema Integral de Desarrollo Policial;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+VII. Participar las mujeres en igualdad de condiciones en los concursos de promoción y someterse a las evaluaciones correspondientes para ascender a la jerarquía inmediata superior en atención a las programaciones y los requisitos correspondientes que al efecto determine el Sistema Integral de Desarrollo Policial.
+
+Estableciéndose medidas de aceleramiento de la igualdad de oportunidades a favor de las mujeres, mediante un concurso especial que favorezca igual número de mujeres que de hombres dentro de la jerarquía y mando policiales.
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 VIII. Ser sujeto de estímulos cuando su conducta y desempeño así lo ameriten, atendiendo a los procedimientos establecidos;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 IX. Contar con jornadas de trabajo que permitan su desarrollo personal, profesional, familiar y social, así como disfrutar de las mismas prestaciones de los trabajadores de base, conjuntamente a las que deriven del régimen complementario de seguridad social que se implementen en beneficio de los integrantes y sus familiares;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE JULIO DE 2015)</small>
+
+El Municipio proporcionará en la medida de sus posibilidades, los elementos necesarios a efecto de que dentro de las prestaciones referidas en el párrafo anterior, se otorgue el servicio de guardería para hijas e hijos de mujeres y hombres policías;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 X. Ser asesorados y defendidos jurídicamente por la Secretaría a través de la Coordinación de Asuntos Jurídicos, en forma gratuita, en el supuesto de que por motivos del servicio, sean sujetos a algún procedimiento que tenga por objeto fincarles una responsabilidad jurídica.
 
 La asesoría y defensa podrá negarse o suspenderse en cualquier tiempo, por decisión fundada y motivada del Secretario, cuando la conducta del integrante en cuestión, sea contraria a los principios de actuación y obligaciones que rigen a los integrantes operativos de la Secretaría o vaya en detrimento de la imagen de la misma;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XI. Recibir atención médica y el tratamiento adecuado sin costo alguno, cuando sean lesionados en servicio o con motivo de éste, en la institución pública o privada que pueda proporcionarla en las mejores condiciones, de acuerdo con el Sistema de Prestaciones Sociales del Municipio;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XII. Cumplir, en su caso, con los arrestos impuestos por el Juez Municipal, por la comisión de faltas administrativas, en un área especial para policías separado del resto de los detenidos;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XIII. Hacer uso del derecho de opinión y petición hacia sus superiores jerárquicos, siempre y cuando sea en forma escrita, pacífica y respetuosa;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XIV. En caso de maternidad, gozará de la protección a ésta, como propósito fundamental atendiendo a las siguientes consideraciones:
 
@@ -7773,13 +8187,19 @@ c) A partir de la fecha del parto la integrante operativa, tendrá derecho duran
 
 d) En caso de maternidad por adopción gozará de doce semanas de descanso, las cuales comenzarán a contar a partir del día en que sea formalmente entregado el hijo;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 XV. En caso de paternidad natural o adoptiva gozarán de una semana de descanso con goce de sueldo a partir del nacimiento o la entrega formal del hijo. El integrante está obligado a informar por escrito al titular de la unidad administrativa a que pertenezca de inmediato por sí o por tercera persona, en caso contrario dicha situación quedará registrada en su expediente. De igual forma deberá acreditarlo con el acta de nacimiento correspondiente, a más tardar dentro de los treinta días hábiles siguientes a su reincorporación al servicio, la omisión en el aviso oportuno o justificación documental dará lugar a que sean consideradas como faltas injustificadas, sin perjuicio de los procedimientos aplicables;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XVI. Los integrantes operativos gozarán de seis días al año por permisos económicos, para atender asuntos personales, mismos que deberán ser autorizados previamente por su jefe inmediato y su Director de área, atendiendo a las necesidades del servicio. Este derecho sólo será reconocido a los integrantes operativos que hayan acreditado la certificación, las evaluaciones del desempeño y la formación continua, y que además en su expediente no cuenten con registros de sanción o incapacidades, a excepción de las de maternidad y las de riesgo laboral, en el año anterior al de la solicitud.
 
 En el caso de que durante un año no haya sido utilizado la totalidad de los días de permiso económico, estos no serán acumulables con los que correspondan al año siguiente.
 
 En caso de muerte de algún familiar consanguíneo del integrante operativo ya sea en primer grado en línea recta, en segundo grado en la colateral o cónyuge, tendrá derecho a ausentarse del servicio con goce de sueldo hasta por diez días hábiles contados a partir de la defunción. Este periodo podrá duplicarse previa valoración psicológica que determine la Secretaría, mismos que serán sin goce de sueldo;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XVII. Disfrutar de un seguro de vida colectivo por lo menos de los siguientes montos:
 
@@ -7788,6 +8208,8 @@ a) Por muerte natural, causada por motivos ajenos al servicio.- dos mil setecien
 b) Por muerte accidental o violenta.- seis mil trescientos salarios mínimos vigentes en el Estado de Aguascalientes; y
 
 c) Lo anterior sin menoscabo de los beneficios derivados de otros programas u ordenamientos que le resulten aplicables.
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 XVIII. Los demás que señale éste Código y demás ordenamientos legales aplicables.
 
@@ -7803,11 +8225,13 @@ Las horas que excedan de la jornada laboral normal se retribuirán como tiempo e
 
 La Jornada laboral del personal operativo deberá determinarse por destacamento, delegación, unidad o grupo especial, debiendo notificarse tal circunstancia a los integrantes cuando menos con cuarenta y ocho horas de anticipación. En ningún caso podrá asignarse a persona alguna un horario distinto de manera individualizada.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 567.
 
-La legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos son principios de actuación que los integrantes operativos de la Secretaría deben observar invariablemente en el desempeño de sus funciones, con el más alto sentido de la disciplina y compromiso de servicio hacia la comunidad, respetando y haciendo que se respete la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública, la Constitución Política del Estado de Aguascalientes, la Ley del Sistema Estatal de Seguridad Pública del Estado de Aguascalientes, este Código y demás disposiciones legales aplicables.
+La legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos son principios de actuación que las personas integrantes operativas de la Secretaría deben observar invariablemente en el desempeño de sus funciones, con el más alto sentido de la disciplina y compromiso de servicio hacia la comunidad, respetando y haciendo que se respete la Constitución Política de los Estados Unidos Mexicanos, la Ley del Sistema Estatal de Seguridad Pública del Estado de Aguascalientes, este Código y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 Con el objeto de garantizar el cumplimiento de los principios de actuación, son obligaciones de los integrantes operativos de la Secretaría los siguientes:
 
@@ -7875,7 +8299,11 @@ III. Utilizar los protocolos de investigación y de cadena de custodia que estab
 
 IV. Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
 
-V. Actuar con la decisión necesaria y sin demora en la protección de las personas, en sus derechos y sus bienes, procurando que sea congruente, oportuna y proporcional al hecho;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+V. Actuar con la decisión necesaria y sin demora en la protección de las personas, en sus derechos y sus bienes, procurando que sea congruente, oportuna y proporcional al hecho.
+
+Tratándose de actos de violencia de género, se evitará el contacto directo entre el infractor y la denunciante,
 
 VI. Impedir la ejecución de actos contrarios a la moral y a la tranquilidad pública, así como los demás que tiendan a dañar a personas, animales o cosas;
 
@@ -7899,6 +8327,10 @@ XV. Abstenerse de tomar parte activa durante el desempeño de su servicio en cua
 
 XVI. Abstenerse de realizar en cualquier forma la comisión de un delito culposo o falta administrativa;
 
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XVII. Abstenerse de favorecer o fomentar la conciliación o reconciliación en casos de violencia de género y violencia familiar en particular, independientemente del parentesco o relación de los involucrados.
+
 C. De tercer nivel:
 
 I. Cuidar los monumentos, recintos oficiales, lugares históricos, culturales o públicos;
@@ -7915,7 +8347,9 @@ VI. Conservar y dar buen uso de los bienes afectos al servicio público, propied
 
 VII. Entregar al superior de quien dependa, un informe escrito de sus actividades en las misiones encomendadas, en la periodicidad que las instrucciones o los manuales operativos señalen. Este informe deberá elaborarse en el apego más estricto a la verdad histórica de los hechos ocurridos;
 
-VIII. Realizar el servicio ordinario de vigilancia en las vías y demás lugares públicos, atendiendo a las necesidades de la población así como efectuar los servicios de vigilancia extraordinaria que le sean solicitados por acontecimientos o eventos especiales;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+VIII. Realizar el servicio ordinario de vigilancia en las vías y demás lugares públicos, atendiendo a las necesidades de la población así como efectuar los servicios de vigilancia extraordinaria que le sean solicitados por acontecimientos o eventos especiales y aquellos que se relacionen con el monitoreo de casos de violencia familiar y de género;
 
 IX. Observar un trato respetuoso, evitando tutear o tratar con altivez y despotismo a las personas;
 
@@ -7935,11 +8369,13 @@ XVI. Hacer uso diferenciado de la fuerza, de manera legal, congruente, oportuna,
 
 XVII. Las demás que establezcan las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 568.
 
-Además de las contenidas en el artículo anterior son obligaciones de los integrantes operativos con mando, las siguientes:
+Además de las contenidas en el artículo anterior son obligaciones de las personas integrantes operativas con mando, las siguientes:
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 A. De primer nivel:
 
@@ -7951,9 +8387,13 @@ III. Presentar ante el Médico de Guardia y someter al proceso correspondiente a
 
 IV. Abstenerse de aplicar de manera injustificada y reiterada sanciones o correctivos disciplinarios a los integrantes;
 
-V. Dar ejemplo a sus subordinados con su conducta, sus actos, palabras, puntualidad, honestidad y justicia, inspirándoles confianza y aprecio a los mismos; y
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+V. Dar ejemplo a sus subordinados con su conducta, sus actos, palabras, puntualidad, honestidad y justicia, inspirándoles confianza y aprecio a los mismos, evitando en todo momento un ambiente que fomente los comentarios sobre sexualidad, orientación sexual o condiciones físicas o culturales de las mujeres que resulten ofensivos; y
 
 VI. Supervisar las acciones de sus subordinados durante el servicio, a fin de mantener un registro detallado y cronológico de éstas y sus resultados, mismos que deberá resguardar y proporcionar a las instancias correspondientes.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 B. De segundo nivel:
 
@@ -7974,6 +8414,8 @@ VII. Propiciar que sus subordinados conozcan y apliquen las disposiciones establ
 VIII. Dar parte al superior jerárquico y a la instancia correspondiente de toda sanción hecha a los integrantes operativos y supervisar que sea anexado a su expediente el documento probatorio; y
 
 IX. Proponer al Presidente de la Comisión de Normatividad Interna la emisión, actualización, modificación o derogación de los manuales administrativos y de operación necesarios.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
 Lo anterior sin detrimento de los demás instrumentos normativos aplicables.
 
@@ -8003,7 +8445,9 @@ III. Proporcionalidad: que el uso diferenciado de la fuerza sea adecuado, corres
 
 Tratándose de domicilios privados, se respetará en todo caso su inviolabilidad, y en el caso de que en cumplimiento de sus funciones los integrantes operativos de la Secretaría tuvieran necesidad de penetrar en éstos, ya fuere con objeto de realizar alguna detención o cualquier otro acto de carácter legal, recabará previamente el permiso por escrito de los habitantes del domicilio en cuestión.
 
-Tratándose de casos de fuerza mayor y en situaciones de peligro grave, actual o inminente para la vida, libertad, la integridad física de las personas y cualquier otro bien jurídico tutelado de igual o mayor jerarquía que el que se llegare a poner en peligro o dañar al ingresar al domicilio, los integrantes no necesitarán recabar el permiso a que se refiere el párrafo anterior.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
+
+En situaciones de peligro grave, actual o inminente para la vida, libertad, la integridad física de las personas y cualquier otro bien jurídico tutelado de igual o mayor jerarquía que el que se llegare a poner en peligro o dañar al ingresar al domicilio, las personas integrantes operativas no necesitarán recabar el permiso a que se refiere el párrafo anterior, lo dispuesto resulta aplicable a los llamados en casos de violencia familiar, ante la imposibilidad de evaluar en los momentos de intervención el riesgo real e inminente.
 
 No se considerarán como domicilios particulares o privados, los patios, escaleras, corredores de uso común de edificios públicos y de oficinas, de casas de huéspedes, hoteles, mesones o vecindades, cines, teatros, mercados, parques, canchas deportivas, carreteras, caminos, avenidas, calles, calzadas, plazas, lugares en los que se presente algún espectáculo público, lugares de libre acceso ni aquellos que por sus condiciones se encuentren en notorio estado de abandono propiciando condiciones recurrentes de inseguridad en el entorno y por sus características de fácil acceso sean utilizados para cometer faltas o delitos.
 
@@ -8064,6 +8508,10 @@ Las sanciones y correctivos disciplinarios señaladas en el artículo 572 no con
 Con independencia de las acciones que competan a otras autoridades ajenas a la Secretaría, no podrá aplicarse más de una sanción por los mismos hechos.
 
 Los integrantes operativos podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en la Secretaría, o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Municipio sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+
+ARTÍCULO 574 BIS.- Todo correctivo disciplinario que se aplique a las mujeres policías operativas, además de los lineamientos señalados en el presente código considerarán las circunstancias personales, las jornadas que efectúa en los ámbitos públicos y privados, su condición de maternidad, a fin de que se aplique el enfoque de género y la igualdad sustantiva.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -8127,11 +8575,11 @@ Las sanciones de amonestación y arresto, a que se refiere este artículo serán
 
 Para lograr una óptima y eficaz prestación del servicio de seguridad pública y con el objeto de alcanzar el desarrollo profesional, personal, familiar y social de sus integrantes operativos, se establece el Sistema Integral de Desarrollo Policial, su coordinación y vigilancia estará a cargo de la Dirección de Profesionalización de la Secretaría.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 581.
 
-El Desarrollo Policial es un conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí que comprenden la Carrera Policial, la profesionalización, la certificación, el régimen disciplinario y el complementario de seguridad social de los Integrantes operativos de la Secretaría, tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos; elevar la profesionalización, fomentar la vocación de servicio, el compromiso del personal y el sentido de pertenencia, así como garantizar en la operación interna y externa, el cumplimiento de los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+El Desarrollo Policial es un conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí que comprenden la Carrera Policial, la profesionalización, la certificación, el régimen disciplinario y el complementario de seguridad social de las personas integrantes operativas de la Secretaría, tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos, considerando siempre la igualdad sustantiva entre mujeres y hombres, elevar la profesionalización, fomentar la vocación de servicio, el compromiso del personal y el sentido de pertenencia, así como garantizar en la operación interna y externa, el cumplimiento de los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -8307,7 +8755,9 @@ III. Propiciar la preparación intelectual y física así como el mejoramiento d
 
 IV. Cubrir las vacantes que se generen en los cuadros orgánicos de las unidades;
 
-Para la promoción de los integrantes operativos se deberán considerar, por lo menos, los resultados obtenidos en los programas de profesionalización, los méritos demostrados en el desempeño de sus funciones y sus aptitudes de mando y liderazgo.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
+
+Se procurará que las promociones logren la paridad de género.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -8328,6 +8778,10 @@ V. Etapas del proceso y sus fechas; y
 VI. Responsables de la coordinación del proceso y de la atención de situaciones no previstas;
 
 Entre la fecha de entrega de los temarios y bibliografías, y la aplicación del primer examen, no podrá existir un periodo menor a seis meses.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+
+Si la vacancia de plazas y las partidas presupuestales lo permiten se efectuarán convocatorias exclusivas para mujeres, a fin de igualar el número de efectivos de mujeres y hombres, o al menos asegurar que la contratación sea mayor de mujeres con el fin de acortar brechas de segregación ocupacional y discriminación laboral hacía las mujeres.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -8442,6 +8896,10 @@ Los planes de estudio para la formación se integrarán al interior de la Direcc
 La certificación es el eje constituido por los procesos mediante los cuales, los integrantes de la Secretaría, se someten a las evaluaciones periódicas correspondientes, para comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia.
 
 La certificación tiene como objetivo, reconocer habilidades, destrezas, actitudes, conocimientos generales y específicos conforme a los perfiles que aseguren a la sociedad que los integrantes operativos de la Secretaría poseen las características ideales para ejercer la función policial; así como identificar los factores de riesgo que interfieran, repercutan o pongan en peligro la prestación del servicio de Seguridad Pública.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+
+Dicha certificación comprenderá las actitudes idóneas para la atención a la violencia de género, mediante las escalas psicométricas y entrevistas que acrediten la ausencia de prejuicios de sumisión de un género sobre otro.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -8881,11 +9339,15 @@ I. Promover la participación organizada de la sociedad, en actividades relacion
 
 II. Establecer un sistema permanente que permita identificar la percepción de seguridad de la ciudadanía, del que puedan desprenderse conclusiones acerca de los puntos que deban atender las autoridades en seguridad pública para mejorar la percepción del ciudadano;
 
-III. Integrar un sistema de seguimiento y evaluación de las actividades que se realicen en el marco de los programas de seguridad pública y de prevención del delito;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+III. Integrar un sistema de seguimiento y evaluación de las actividades que se realicen en el marco de los programas de seguridad pública y de prevención del delito, así como de la violencia familiar;
 
 IV. Formular propuestas para la elaboración de los programas de seguridad pública, así como la evaluación periódica de estos y otros relacionados;
 
-V. Evaluar la situación de la seguridad pública en el Municipio y proponer las acciones tendientes a su mejoramiento;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+V. Evaluar la situación de la seguridad pública en el Municipio y proponer las acciones tendientes a su mejoramiento, considerando la violencia contra las mujeres en la comunidad y las zonas en donde se efectúa.
 
 VI. Evaluar con objetividad el comportamiento, eficiencia y preparación de los integrantes operativos de la Secretaría, su operación y funcionamiento en general, todo esto dirigido a propiciar mejores condiciones de seguridad en el Municipio;
 
@@ -9009,11 +9471,11 @@ V. El Jefe del Departamento de Emergencias 080.
 
 Con el objetivo de que el Servicio de Emergencia 080 proporcione a la ciudadanía sus servicios, el personal laborará los 365 días del año las 24 horas, conforme al rol de turno que determine la Secretaría.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 628.
 
-El personal que integra el Servicio de Emergencia 080, deberá asistir a los cursos y programas de capacitación que convoquen la Secretaria de Seguridad Pública, la Coordinación Municipal de Protección Civil o la Jefatura del Departamento y los que sean mencionados en el plan interno de capacitación, tomando en cuenta las siguientes formas de capacitación dentro del sistema de emergencia 080
+El personal que integra el Servicio de Emergencia 080, deberá asistir a los cursos y programas de capacitación que convoquen la Secretaria de Seguridad Pública, la Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencias Pre hospitalarias o la Jefatura del Departamento y los que sean mencionados en el Plan Interno de Capacitación, en los que se incluirán los que se proporcionen anualmente para la debida atención de casos de violencia de género y serán aplicados desde esa misma perspectiva, tomando en cuenta las siguientes formas de capacitación dentro del sistema de emergencia 080:
 
 a) Cursos obligatorios de Capacitación para el desempeño: Aquellos cursos que son necesarios para el desarrollo eficiente de su trabajo incrementando la capacidad de los empleados municipales asignados al servicio para la realización de las actividades y funciones del puesto que actualmente ocupan, los cuales pueden ser otorgados por el mismo departamento o por una institución o persona ajena a éste.
 
@@ -17485,7 +17947,9 @@ I. En el ámbito de su competencia, realizar la vigilancia del cumplimiento de l
 
 II. Realizar un reporte a la Secretada del H. Ayuntamiento y Dirección General de Gobierno, de las anomalías detectadas en sus delegaciones o comunidades en relación con la aplicación del presente Título; y
 
-III. Las demás que le confieran las disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+III. Hacer del conocimiento de la Secretaria de Seguridad Pública Municipal y del Instituto Municipal de la Mujer de Aguascalientes de los casos de violencia de género, para los efectos a que haya lugar.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -18221,7 +18685,11 @@ IX. Contar con las instalaciones adecuadas para el acceso y libre tránsito de p
 
 X.- Permitir el libre e inmediato acceso de los verificadores, para la realización de sus funciones, siempre que los mismos exhiban la orden de visita de acuerdo a la Ley del Procedimiento Administrativo. Quienes obstaculicen la entrada o inspección de los verificadores serán detenidos por elementos de la Secretaría de Seguridad Pública y puestos a disposición de un Juez Municipal;
 
-XI. Retirar a las personas que se encuentren en notorio estado de ebriedad dentro del establecimiento mercantil y que no guarden compostura o alteren de manera grave el orden público; en caso necesario se podrán solicitar el auxilio de la fuerza pública;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+XI. Retirar a las personas que se encuentren en notorio estado de ebriedad dentro del establecimiento mercantil y que no guarden compostura, o alteren de manera grave el orden público, o efectúen prácticas de acoso sexual, en caso necesario se podrán solicitar el auxilio de la fuerza pública;
+
+De igual forma deben reportar cualquier evento que pudiera constituir algún ilícito a la Autoridad competente.
 
 XII. Solicitar previo al acceso, credencial o identificación oficial con fotografía a personas que se presuma son menores de edad y en presencia de su titular constatarlo y realizar su devolución inmediata sin dilación alguna;
 
@@ -18261,7 +18729,9 @@ V. Permitir la entrada de personas menores de edad a los establecimientos mercan
 
 VI. Permitir el acceso a personas armadas, con excepción de los integrantes operativos de los cuerpos de seguridad pública, que por razones de servicio deberán ingresar a los establecimientos en forma inmediata y sin dilación alguna;
 
-VII. Permitir dentro del establecimiento mercantil las conductas que tiendan a la mendicidad, la alternancia y la prostitución;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+VII. Permitir dentro del establecimiento mercantil las conductas que tiendan a la mendicidad, la prostitución, o la trata de personas;
 
 VIII. Permitir la celebración de apuestas de cualquier tipo, dentro del establecimiento mercantil;
 
@@ -18280,6 +18750,8 @@ XIII. Dar mal uso a los colores y símbolos nacionales así como retratos o esta
 > <small>(ADICIONADO [N. DE E. REUBICADA SU DENOMINACIÓN ANTES EN EL CAPÍTULO III], P.O. 4 DE MARZO DE 2013)</small>
 
 ### CAPÍTULO XII. De los Hoteles, Moteles, Casas de Huéspedes, Mesones y Otros Establecimientos Similares
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 1323.
 
@@ -18387,7 +18859,7 @@ La Secretaría del H. Ayuntamiento y Dirección General de Gobierno, podrá form
 
 ###### ARTÍCULO 1330.
 
-Los administradores o encargados de hoteles, moteles, casa de huéspedes, mesones y otros establecimientos similares, tienen la obligación de requerir a todo huésped el equipaje correspondiente y sus datos personales que deberán anotarse en el libro de registro e independientemente de lo anterior, se prohíbe el ingreso de parejas menores de edad o en su caso de personas con uniforme escolar sin acompañarse de sus padres o familiares. La violación a las obligaciones anteriores será materia de sanción, en los términos de este Código.
+Los administradores o encargados de hoteles, moteles, casa de huéspedes, mesones y otros establecimientos similares, tienen la obligación de requerir a todo huésped el equipaje correspondiente y sus datos personales previa identificación oficial que deberán anotarse en el libro de registro e independientemente de lo anterior, se prohíbe el ingreso de parejas menores de edad, o con uniforme escolar sin acompañarse de sus padres o familiares, así como personas que se aprecie su ingreso sin el debido consentimiento, o bien que no esté en aptitudes de manifestarlo. La violación a las obligaciones anteriores será materia de sanción, en los términos de este Código.
 
 > <small>(ADICIONADO [N. DE E. REUBICADA SU DENOMINACIÓN ANTES EN EL CAPÍTULO V], P.O. 4 DE MARZO DE 2013)</small>
 
@@ -18516,6 +18988,10 @@ En cualquier momento, la Dirección de Reglamentos podrá solicitar el auxilio d
 ###### ARTÍCULO 1336.
 
 Las salas de cine deberán contar con licencia vigente, y permitir la entrada de las personas de acuerdo a la edad según la clasificación de las películas, además deberán anunciar la clasificación de cada película que exhiban. Los complejos cinematográficos que tengan autorizada la venta de bebidas alcohólicas, deberán abstenerse de vender o permitir el consumo a los menores de edad y fuera del área destinada para tal fin.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+
+Se debe vigilar que no existan eventos de acoso verbal o físico de carácter sexual, que pudieren constituir falta administrativa o la comisión de algún delito, debiendo dar aviso de inmediato a la Secretaria de Seguridad Pública Municipal o Autoridad competente.
 
 > <small>(ADICIONADO [N. DE E. REUBICADA SU DENOMINACIÓN ANTES EN EL CAPÍTULO VII], P.O. 4 DE MARZO DE 2013)</small>
 
@@ -19007,7 +19483,9 @@ III. Utilizar colores y símbolos nacionales en la publicidad y decoración de l
 
 IV. Permanecer en su local o lugar asignado en estado de ebriedad o bajo el efecto de sustancias psicotrópicas o narcóticos o que causen efectos similares.
 
-V. Permitir la estancia de personas que ejerzan la prostitución dentro de los mercados.
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+V. Permitir la estancia de personas que ejerzan la prostitución dentro de los mercados o personas que generen ambientes hostiles con actitudes sexuales, expresiones o lenguaje que ridiculicen, humillen, en detrimento de la seguridad de las personas.
 
 VI. Permitir o tomar parte en juegos de azar o de apuestas de cualquier tipo dentro del mercado.
 
@@ -21143,7 +21621,9 @@ c) Permitir el acceso a menores de edad a espectáculos exclusivos para adultos.
 
 d) Permitir dentro del establecimiento la alternancia y/o actividades tendientes a la prostitución.
 
-e) Permitir dentro del establecimiento que alguna persona altere el orden público, la moral y buenas costumbres, provoque disturbios o participe en una riña.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
+
+e) Permitir dentro del establecimiento que alguna persona altere el orden público, que provoque disturbios o discriminen de alguna forma a las personas, o participe en una riña.
 
 f) La reincidencia en faltas administrativas contraviniendo las normas establecidas por el presente Código.
 
@@ -21564,6 +22044,10 @@ e) Funcionar sin renovar la licencia en tiempo y forma, de conformidad con los o
 f) Realizar actividad diferente al giro autorizado y que sea inherente a otro giro reglamentado el cual requiera permiso o licencia; y
 
 g) Cambiar de domicilio sin la previa autorización de la autoridad municipal correspondiente.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
+
+h) Permitir la discriminación y ejercicio de la violencia de género, dentro del establecimiento de cualquier tipo;
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -22682,3 +23166,9 @@ RESOLUTIVO PRIMERO, POR EL QUE SE REFORMAN LOS ARTÍCULOS 104 FRACCIÓN XIX; ART
 P.O. 22 DE JUNIO DE 2015.
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JULIO DE 2015.
+
+PRIMERO.- Las reformas y adiciones que anteceden entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Dentro de los sesenta días naturales siguientes a la publicación de las presentes reformas y adiciones, la Secretaria de Seguridad Publica y el Instituto Municipal de la Mujer de Aguascalientes, presentaran un informe sobre la materialización de las mismas ante el H. Ayuntamiento de Aguascalientes.
