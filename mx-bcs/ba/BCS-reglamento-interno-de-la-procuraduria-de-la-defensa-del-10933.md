@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interno-de-la-procuraduria-de-la-defensa-del-10933"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-08-22"
-last_updated: "1997-08-22"
+last_updated: "2015-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10933&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # REGLAMENTO INTERNO DE LA PROCURADURIA DE LA DEFENSA DEL TRABAJO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-REGLAMENTO INTERNO DE LA PROCURADURIA DE LA DEFENSA DEL TRABAJO DEL ESTADO DE BAJA CALIFORNIA SUR
+REGLAMENTO INTERNO DE LA PROCURADURÍA DE LA DEFENSA DEL TRABAJO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DE LA PROCURADURÍA DE LA DEFENSA DEL TRABAJO DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 20 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 22 de agosto de 1997.
 
@@ -252,3 +254,13 @@ C. LIC. GUILLERMO MERCADO ROMERO.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C. LIC. RAUL ANTONIO ORTEGA SALGADO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 20 DE JULIO DE 2015.
+
+PRIMERO.- El presente reglamento entrará en vigor a (sic) día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se abroga el Reglamento Interno de la Procuraduría de la Defensa del Trabajo del Estado de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado número 35 de fecha 22 de Agosto del año 1997.
+
+TERCERO. A partir de la entrada en vigor del presente Reglamento, la Procuraduría de la Defensa del Trabajo cuenta con un plazo de 30 días hábiles para la expedición de los Manuales de Organización y de Procedimiento.
