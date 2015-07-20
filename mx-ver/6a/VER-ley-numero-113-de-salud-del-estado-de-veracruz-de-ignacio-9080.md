@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-113-de-salud-del-estado-de-veracruz-de-ignacio-9080"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-17"
-last_updated: "2015-04-27"
+last_updated: "2015-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 113 DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE DICIEMBRE DE 2016 EN LA G.O. DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE JULIO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 17 de mayo de 1988.
 
@@ -185,6 +187,22 @@ VII.- Sistema; al Sistema de Protección Social en Salud a que se refiere los ar
 
 VIII.- Salubridad General: las facultades contenidas en el artículo 3º de la presente, y las que se transfieren al Estado en virtud de la misma ley, convenios y acuerdos de coordinación o de colaboración específicos.
 
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2015)</small>
+
+IX.- Establecimiento: Lugar en que se venden, distribuyen o ingieren bebidas alcohólicas. Se excluye el caso del consumo gratuito de bebidas alcohólicas en domicilios particulares o eventos particulares: y
+
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2015)</small>
+
+X.- Bebidas alcohólicas: Todas las que contengan alcohol etílico en una proporción mayor al 2% en volumen, y que se clasifican de la siguiente manera:
+
+a) De bajo contenido alcohólico: Son productos que contienen hasta 6 grados GAY LUSSAC (G.. L.).
+
+b) De medio contenido alcohólico: Son productos que contienen entre 6.1 grados G.. L. y 20 grados G.. L.
+
+c) De alto contenido alcohólico: Son productos que contienen entre 20.1 grados G .. L. y 55 grados G.. L.
+
+Los productos cuyo contenido alcohólico sea mayor de 55 grados G.. L. se consideran como alcohol no potable y no se autorizará su venta o suministro al público, para ingestión directa.
+
 ###### ARTICULO 4°.
 
 Son autoridades sanitarias del Estado:
@@ -327,7 +345,7 @@ VI.- Las demás que sean necesarias para hacer efectivas las facultades anterior
 
 > <small>(ADICIONADA, G.O. 3 DE ENERO DE 2007)</small>
 
-VII. Para los efectos señalados en la fracción anterior, el titular de la Secretaría de Salud nombrará una comisión integrada por médicos epidemiólogos de esa institución, quienes estarán atentos en todo tiempo a los acontecimientos epidemiológicos que se susciten en el Estado de Veracruz, para determinar y, en su caso, emitir conjuntamente con el Secretario de Salud, la solicitud al Gobernador del Estado, para que emita una declaratoria de emergencia, fundada y motivada, cuyo propósito será exclusivamente el de llevar a cabo las tareas de fumigación, abatización y descacharrización, siempre que subsista el estado de contingencia expresamente señalado en la declaratoria y se encuentre normado su procedimiento.
+VII.- Para los efectos señalados en la fracción anterior, el titular de la Secretaría de Salud nombrará una comisión integrada por médicos epidemiólogos de esa institución, quienes estarán atentos en todo tiempo a los acontecimientos epidemiológicos que se susciten en el Estado de Veracruz, para determinar y, en su caso, emitir conjuntamente con el Secretario de Salud, la solicitud al Gobernador del Estado, para que emita una declaratoria de emergencia, fundada y motivada, cuyo propósito será exclusivamente el de llevar a cabo las tareas de fumigación, abatización y descacharrización, siempre que subsista el estado de contingencia expresamente señalado en la declaratoria y se encuentre normado su procedimiento.
 
 Para los efectos del párrafo anterior, el titular de la Secretaría de Salud expedirá un reglamento en el que se establezcan los tiempos y procedimientos en que dichas acciones se puedan llevar a cabo, así como las correlativas sanciones en caso de incumplimiento por parte de los ciudadanos del reglamento respectivo.
 
@@ -1257,7 +1275,117 @@ Para una mayor eficacia de las acciones a las que se refiere este artículo, se 
 
 ARTICULO 154 BIS.- (DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
-### CAPITULO IV. MERCADOS Y CENTROS DE ABASTO
+### CAPITULO III BIS. DE LA PROHIBICION DE VENTA DE BEBIDAS ALCOHOLICAS A MENORES DE EDAD
+
+> <small>(ADICIONADO, G.O. 20 DE JULIO DE 2015)</small>
+
+ARTICULO 177 BIS. Se prohíbe el expendio y venta de bebidas alcohólicas a menores de edad en cualquier establecimiento.
+
+El establecimiento que incumpla lo señalado en el párrafo anterior se hará acreedor a la revocación de la licencia para la venta de bebidas alcohólicas o, en su caso, a la clausura definitiva.
+
+> <small>(ADICIONADO, G.O. 20 DE JULIO DE 2015)</small>
+
+ARTICULO 177 TER. Es obligación de quien expenda o venda bebidas alcohólicas cerciorarse, en cada ocasión, que el comprador cuente con la mayoría de edad, comprobándolo a través de una identificación oficial.
+
+Asimismo, el establecimiento deberá contar en su exterior con un letrero visible, advirtiendo la prohibición del consumo de bebidas alcohólicas en la vía pública, así como la venta a menores de edad.
+
+La omisión de cualquiera de los requisitos señalados en el presente artículo traerá como consecuencia la imposición de una multa que no podrá ser menor a 100 veces el salario mínimo, ni mayor a 200 veces el salario mínimo general vigente en la zona geográfica correspondiente.
+
+> <small>(ADICIONADO, G.O. 20 DE JULIO DE 2015)</small>
+
+ARTICULO 177 QUATER. Para los efectos de este Capítulo en materia de imposición de sanciones, la Secretaría de Salud, por conducto del Organismo Público Descentralizado Servicios de Salud de Veracruz, fundará y motivará su resolución, realizará el proceso respetando la garantía de audiencia y calificará la sanción correspondiente atendiendo a la gravedad de la infracción.
+
+> <small>(ADICIONADO, G.O. 20 DE JULIO DE 2015)</small>
+
+ARTICULO 177 QUINQUIES. El individuo que venda bebidas alcohólicas a menores de edad en un establecimiento, o que las suministre o provea para su consumo dentro o fuera del mismo, se hará acreedor a la imposición de una multa que no podrá ser menor a 300 veces el salario mínimo, ni mayor a 600 veces el salario mínimo general vigente en la zona geográfica correspondiente. Lo anterior, con independencia de las responsabilidades civiles o penales a que haya lugar.
+
+> <small>(ADICIONADO, G.O. 20 DE JULIO DE 2015)</small>
+
+ARTICULO 177 SEXIES. Se prohíbe la venta de bebidas alcohólicas para el consumo inmediato del público en una proximidad menor a los trescientos metros de escuelas; centros deportivos; cuarteles; parques y otros lugares de reunión de niñas, niños y adolescentes; templos e iglesias; así como hospitales y clínicas.
+
+Quien otorgue una licencia de venta de bebidas alcohólicas a un establecimiento, en contravención a lo dispuesto en el presente artículo, será sancionado en términos de la Ley de Responsabilidades de los Servidores Públicos para el Estado Libre y Soberano de Veracruz de Ignacio de la Llave o, en su caso, de la Ley Orgánica del Municipio Libre.
+
+> <small>(ADICIONADO, G.O. 20 DE JULIO DE 2015)</small>
+
+ARTICULO 177 SEPTIES. La Secretaría de Salud del Estado, por conducto del Organismo Público Descentralizado Servicios de Salud de Veracruz, en coordinación con los ayuntamientos, deberá promover acciones para la prevención, reducción y tratamiento del consumo nocivo de bebidas alcohólicas; así como ejercer un efectivo control sanitario.
+
+Para efectos del presente Capítulo, se entenderá por control sanitario, al conjunto de acciones que implemente la Secretaría de Salud del Estado, por conducto del Organismo Público Descentralizado Servicios de Salud de Veracruz, con el objeto de verificar el cumplimiento del presente Capítulo, fijar las medidas de seguridad y aplicar las sanciones correspondientes.
+
+> <small>(ADICIONADO, G.O. 20 DE JULIO DE 2015)</small>
+
+ARTICULO 177 OCTIES. La Secretaría de Salud del Estado, por conducto del Organismo Público Descentralizado Servicios de Salud de Veracruz, deberá establecer el día o los días obligatorios en que se prohíba la venta de bebidas alcohólicas al público. Dicha autoridad sanitaria deberá hacerlo del conocimiento público cuando menos con 36 horas de anticipación al día o días de la prohibición.
+
+> <small>(ADICIONADO, G.O. 20 DE JULIO DE 2015)</small>
+
+ARTICULO 177 NONIES. El Gobierno del Estado promoverá con la Federación, así como con los Ayuntamientos que integran la entidad, la celebración de acuerdos en materia de prevención del alcoholismo y corrupción por consumo de alcohol en menores de edad, entre cuyas acciones prioritarias deberán considerarse:
+
+I. La prohibición de consumo de alcohol en vías públicas;
+
+II. La regulación de los distintos establecimientos con licencia de venta de alcohol al público;
+
+III. El horario de apertura y cierre de establecimientos por cuanto hace a sus servicios al público;
+
+IV. La prohibición de acceso a menores de edad a establecimientos específicos para la venta y consumo de bebidas alcohólicas, tales como:
+
+a) Bares o Cantinas;
+
+b) Cabarets y Centro Nocturnos;
+
+c) Centros Botaneros;
+
+d) Discotecas;
+
+e) Casinos;
+
+f) Pulquerías, Cervecerías, Tepacherías; y
+
+g) Video Bares y Karaokes.
+
+V. La regulación de horarios y zonas para menores de edad, en establecimientos no específicos, en los cuales puede realizarse en forma accesoria la venta y consumo de bebidas alcohólicas para su consumo en el lugar, tales como:
+
+a) Billares;
+
+b) Boliches;
+
+c) Centros o peñas artísticas o culturales;
+
+d) Fondas, Cafés, Cenadurías, Taquerías, Loncherías, Coctelerías y Antojitos;
+
+e) Parianes;
+
+f) Restaurantes;
+
+g) Restaurantes-Bar;
+
+h) Salones de Baile;
+
+i) Hoteles y Moteles; y
+
+j) Clubes Sociales, Deportivos, Recreativos o Clubes Privados.
+
+VI. La regulación de establecimientos no específicos, en los cuales puede realizarse en forma accesoria la venta y consumo de bebidas alcohólicas en envase cerrado para su consumo fuera del lugar, tales como:
+
+a) Licorerías;
+
+b) Tiendas de autoservicio;
+
+c) Supermercados y mini súper; y
+
+d) Misceláneas y tiendas de abarrotes.
+
+VII. Programas de seguridad y prevención de accidentes causados por el consumo de alcohol;
+
+VIII. Fechas de prohibición de venta de alcohol al público;
+
+IX. Festividades, ferias tradicionales y verbena popular y otros eventos;
+
+X. Responsabilidades y sanciones a quienes permitan la entrada a menores de edad a los establecimientos con licencia de venta de alcohol; y
+
+XI. Autoridades competentes para verificar y, en su caso, sancionar las conductas infractoras y delictivas a que hace referencia este Capítulo.
+
+> <small>(ADICIONADO, G.O. 20 DE JULIO DE 2015)</small>
+
+ARTICULO 177 DECIES. Los ayuntamientos instrumentarán, en coordinación con los propietarios de establecimientos, campañas de información sobre los riesgos relacionados con el consumo excesivo de bebidas alcohólicas y con la conducción de vehículos automotores bajo los influjos de éstas.
 
 ###### ARTICULO 155.
 
@@ -1281,7 +1409,7 @@ III.- Hábitos de consumo del alcohol en los diferentes grupos de población.
 
 IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
-### CAPITULO V. DE LAS CONSTRUCCIONES
+### CAPITULO IV. MERCADOS Y CENTROS DE ABASTO
 
 ###### ARTICULO 157.
 
@@ -1299,7 +1427,7 @@ I.- La investigación de las causas del tabaquismo y de las acciones para contro
 
 II.- La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes.
 
-### CAPITULO VI. LIMPIEZA PUBLICA
+### CAPITULO V. DE LAS CONSTRUCCIONES
 
 ###### ARTICULO 159.
 
@@ -1323,7 +1451,7 @@ TITULO DECIMOPRIMERO
 
 SALUBRIDAD LOCAL
 
-### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPITULO VI. LIMPIEZA PUBLICA
 
 ###### ARTICULO 161.
 
@@ -1361,7 +1489,7 @@ Todo cambio de propietario de un establecimiento de razón y denominación socia
 
 Las normas técnicas que expida la Secretaría de Salud y Asistencia del Estado, surtirán sus efectos al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
 
-### CAPITULO VIII. RASTROS
+### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### ARTICULO 169.
 
@@ -1375,7 +1503,7 @@ La Secretaría de Salud y Asistencia del Estado y los municipios, en el ámbito 
 
 El Ejecutivo del Estado podrá celebrar con los municipios, los convenios conducentes para que éstos asuman los servicios sanitarios relacionados con los establecimientos a que se refiere este capítulo.
 
-### CAPITULO IX. PANTEONES
+### CAPITULO VIII. RASTROS
 
 ###### ARTICULO 172.
 
@@ -1397,6 +1525,26 @@ El reglamento de esta Ley, establecerá las diferentes modalidades aplicables a 
 
 La Secretaría de Salud y Asistencia del Estado, en los términos de esta Ley y demás disposiciones aplicables, será la única Dependencia que autorizará el funcionamiento, expendio, revalidación, ubicación, cancelación, en su caso y los horarios de los establecimientos a que se refiere este capítulo, a través de las licencias, revalidaciones anuales y revocaciones correspondientes.
 
+> <small>(ADICIONADO, G.O. 20 DE JULIO DE 2015)</small>
+
+Ningún establecimiento podrá realizar el expendio y venta de bebidas alcohólicas, sin contar con la licencia o permiso correspondiente.
+
+> <small>(ADICIONADO, G.O. 20 DE JULIO DE 2015)</small>
+
+Los establecimientos con licencia de venta de bebidas alcohólicas deberán ajustarse al horario que para tal efecto expida la autoridad competente; y no podrán operar horas extraordinarias ni ampliadas a las establecidas.
+
+> <small>(ADICIONADO, G.O. 20 DE JULIO DE 2015)</small>
+
+El horario de venta de bebidas alcohólicas en los establecimientos que cuenten con licencia para tal efecto, deberá sujetarse a lo siguiente:
+
+I. Apertura de venta de bebidas alcohólicas después de las 08:00 horas.
+
+II. Cierre de venta de bebidas alcohólicas a más tardar a las 02:00 horas.
+
+> <small>(ADICIONADO, G.O. 20 DE JULIO DE 2015)</small>
+
+Los establecimientos que vendan o expendan bebidas alcohólicas fuera del horario establecido en el presente artículo se harán acreedores a una multa, la cual no podrá ser menor a 300 veces el salario mínimo ni mayor a 600 veces el salario mínimo general vigente en la zona que corresponda.
+
 ###### ARTICULO 175.
 
 Los establecimientos destinados a la venta y principalmente al expendio para consumo en los mismos de bebidas alcohólicas, sólo podrán funcionar en los horarios que establezca la Secretaría de Salud y Asistencia del Estado, atendiendo a las características de las distintas zonas de la Entidad, y no podrán funcionar en proximidad, de escuelas, centros de trabajo, centros deportivos, otros centros de reunión para niños y jóvenes y otros similares, a efecto de coadyuvar en forma eficaz en las acciones derivadas del programa contra el alcoholismo.
@@ -1409,9 +1557,11 @@ No se requerirá licencia para el expendio en envase cerrado, de bebidas alcohó
 
 Lo dispuesto en el artículo anterior rige además para el expendio, en envase abierto, en clubes deportivos y recreativos, casinos y círculos sociales con servicio exclusivo a socios.
 
-### CAPITULO X. ESTABLOS, GRANJAS AVICOLAS, PISCICOLAS Y PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 20 DE JULIO DE 2015)</small>
 
-### CAPITULO XI. RECLUSORIOS
+### CAPITULO IX. PANTEONES
+
+### CAPITULO X. ESTABLOS, GRANJAS AVICOLAS, PISCICOLAS Y PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTICULO 178.
 
@@ -1429,7 +1579,7 @@ Los mercados y centros de abasto, desde el punto de vista higiénico, estarán b
 
 Los vendedores locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales y el ejercicio de sus actividades se sujetará a lo que disponga esta Ley, y los reglamentos respectivos, así como las normas técnicas correspondientes.
 
-### CAPITULO XII. BAÑOS PUBLICOS, GIMNASIOS Y CLUBES DEPORTIVOS
+### CAPITULO XI. RECLUSORIOS
 
 ###### ARTICULO 182.
 
@@ -1467,7 +1617,7 @@ Cuando los propietarios o poseedores de construcciones o terrenos declarados pel
 
 Los propietarios o poseedores de los edificios y locales o de los negocios en ellos establecidos, están obligados a ejecutar las obras que se requieran, para cumplir con las condiciones de higiene y seguridad que establezcan las disposiciones aplicables y las normas técnicas correspondientes.
 
-### CAPITULO XIII. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO XII. BAÑOS PUBLICOS, GIMNASIOS Y CLUBES DEPORTIVOS
 
 ###### ARTICULO 191.
 
@@ -1501,7 +1651,7 @@ Por ningún motivo se manipulará la basura antes de su llegada al basurero o la
 
 Para toda actividad relacionada con este capítulo, se acatará lo dispuesto por esta Ley, las demás disposiciones aplicables y las normas técnicas correspondientes.
 
-### CAPITULO XIV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS, COMO PELUQUERIAS, SALONES DE BELLEZA Y OTROS
+### CAPITULO XIII. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTICULO 199.
 
@@ -1535,7 +1685,7 @@ Los proyectos para la implantación de sistemas de alcantarillado, deberán ser 
 
 Queda prohibido que los desechos o líquidos que conduzcan los caños, sean vertidos en el mar o en arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al consumo humano.
 
-### CAPITULO XV. ESTABLECIMIENTOS DE HOSPEDAJE Y RESTAURANTES
+### CAPITULO XIV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS, COMO PELUQUERIAS, SALONES DE BELLEZA Y OTROS
 
 ###### ARTICULO 207.
 
@@ -1573,7 +1723,7 @@ El transporte de carne, para el comercio dentro del territorio del Estado, deber
 
 Las disposiciones a que se refiere, este capítulo, también son aplicables respecto a la matanza de aves para su venta al público, incluyendo pavos o guajolotes, gallinas, gallos, pollos, patos, codornices, palomas y otras.
 
-### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
+### CAPITULO XV. ESTABLECIMIENTOS DE HOSPEDAJE Y RESTAURANTES
 
 ###### ARTICULO 216.
 
@@ -1597,7 +1747,7 @@ El funcionamiento de los panteones y agencias funerarias, estará sujeto a esta 
 
 Para el debido control de los panteones establecidos en el territorio estatal, la Secretaría llevará un Registro Público Estatal de Panteones, el cual contendrá la información que anualmente le remitan los Ayuntamientos de la Entidad.
 
-### CAPITULO XVII. GASOLINERAS
+### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
 
 ###### ARTICULO 220.
 
@@ -1625,7 +1775,7 @@ Para el funcionamiento de los establecimientos a que se refiere este capítulo, 
 
 Las condiciones sanitarias que deben reunir estos establecimientos, estarán fijadas por esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO XVIII. DE LA CAMPAÑA CONTRA LA HIDROFOBIA
+### CAPITULO XVII. GASOLINERAS
 
 ###### ARTICULO 224.
 
@@ -1639,7 +1789,7 @@ Los reclusorios estarán sujetos al control sanitario del Gobierno del Estado, d
 
 Los reclusorios deberán contar, además de lo previsto por las disposiciones legales aplicables y las normas técnicas correspondientes, con departamentos de baño de regadera, retretes, peluquería, dietología, enfermería para la atención de los reclusos en los casos en que no ameriten hospitalización; áreas conyugales; servicios de psiquiatría, etc.
 
-### CAPITULO XIX. DE LAS CAMPAÑAS CONTRA OTRAS ENFERMEDADES
+### CAPITULO XVIII. DE LA CAMPAÑA CONTRA LA HIDROFOBIA
 
 ###### ARTICULO 227.
 
@@ -1657,7 +1807,7 @@ Para el funcionamiento al público de los baños, gimnasios o clubes deportivos,
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, las disposiciones legales aplicables y las normas técnicas correspondientes que dicte la Secretaría de Salud y Asistencia del Estado.
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XIX. DE LAS CAMPAÑAS CONTRA OTRAS ENFERMEDADES
 
 ###### ARTICULO 230.
 
@@ -1671,7 +1821,7 @@ El funcionamiento de los establecimientos a que se refiere el artículo anterior
 
 Para su funcionamiento al público, previamente deberá obtener autorización sanitaria de la autoridad estatal.
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 233.
 
@@ -1691,19 +1841,19 @@ II.- Lavandería, el establecimiento dedicado al lavado de ropa.
 
 III.- Lavadero público, el establecimiento al cual acuden los interesados para realizar personalmente el lavado de ropa.
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 236.
 
 Para los efectos de esta Ley, se entiende por establecimiento de hospedaje, cualquier edificación que se destine a albergar a toda aquella persona que paga por ello y por restaurantes, los lugares destinados a elaborar y servir alimentos al público.
 
-### CAPITULO UNICO
+### CAPITULO III. CERTIFICADOS
 
 ###### ARTICULO 237.
 
 Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo destinado al traslado de carga de alimentos perecederos o imperecederos o de pasajeros sea terrestre, fluvial, aéreo o marítimo, y sea cual fuere su medio de propulsión.
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
 ###### ARTICULO 238.
 
@@ -1713,7 +1863,7 @@ Para los efectos de esta Ley, se entiende por gasolinera, el establecimiento des
 
 Las gasolineras deberán contar con las instalaciones sanitarias y cumplir con las normas de seguridad que se establezcan en el reglamento correspondiente y otras disposiciones legales aplicables.
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 240.
 
@@ -1735,7 +1885,7 @@ Las autoridades sanitarias, mantendrán campañas permanentes de orientación a 
 
 Queda prohibido poseer animales domésticos en aquellos edificios de condominios o departamentos en los que deban utilizar pasillos, escaleras o elevadores comunes.
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 245.
 
@@ -1745,7 +1895,7 @@ TITULO DECIMOSEGUNDO
 
 AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO IV. RECURSOS DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 246.
 
@@ -1817,7 +1967,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los ingresos que se obtengan por los servicios de salubridad local que se presten, se efectuarán en la forma que establezca la legislación aplicable.
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSOS DE INCONFORMIDAD
 
 ###### ARTICULO 258.
 
@@ -1875,9 +2025,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 266.
 
@@ -1913,7 +2061,7 @@ TITULO DECIMOTERCERO
 
 VIGILANCIA SANITARIA
 
-### CAPITULO II. DE LOS BENEFICIARIOS DEL SISTEMA DE PROTECCION SOCIAL EN SALUD
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -1977,7 +2125,7 @@ TITULO DECIMOCUARTO
 
 MEDIDAS DE SEGURIDAD Y SANCIONES
 
-### CAPITULO III. DE LAS APORTACIONES PARA EL SISTEMA DE PROTECCION SOCIAL EN SALUD
+### CAPITULO II. DE LOS BENEFICIARIOS DEL SISTEMA DE PROTECCION SOCIAL EN SALUD
 
 > <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -2077,7 +2225,7 @@ Quedan exceptuados, aquellos bienes que se encuentren a disposición de autorida
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio se ordenará, previa observancia de la garantía de audiencia y dictamen pericial, cuando, a juicio de las autoridades sanitarias competentes, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
 
-### CAPITULO IV. DE LAS CUOTAS FAMILIARES
+### CAPITULO III. DE LAS APORTACIONES PARA EL SISTEMA DE PROTECCION SOCIAL EN SALUD
 
 > <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -2159,9 +2307,9 @@ Sólo procederá esta sanción, si previamente se dictó cualquiera otra de las 
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPITULO V. DE LA TRANSPARENCIA, CONTROL Y SUPERVISION DEL MANEJO DE LOS RECURSOS DEL SISTEMA DE PROTECCION SOCIAL EN SALUD
+### CAPITULO IV. DE LAS CUOTAS FAMILIARES
 
-> <small>(REFORMADO, G.O. 17 DE ABRIL DE 2008)</small>
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 305.
 
@@ -2235,7 +2383,7 @@ En los casos de suspensión de trabajos o de servicios o de clausura temporal o 
 
 Cuando del contenido de un acta de inspección se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que corresponda.
 
-### CAPITULO VI. DEL REGIMEN DEL SISTEMA ESTATAL DE PROTECCION SOCIAL EN SALUD
+### CAPITULO V. DE LA TRANSPARENCIA, CONTROL Y SUPERVISION DEL MANEJO DE LOS RECURSOS DEL SISTEMA DE PROTECCION SOCIAL EN SALUD
 
 > <small>(REFORMADO, G.O. 17 DE ABRIL DE 2008)</small>
 
@@ -2301,9 +2449,9 @@ III.- Que fueren de difícil reparación los daños y perjuicios que se causen a
 
 En la tramitación del recurso de inconformidad, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado de Veracruz.
 
-### CAPITULO VII. DERECHOS Y OBLIGACIONES DE LOS BENEFICIARIOS
+### CAPITULO VI. DEL REGIMEN DEL SISTEMA ESTATAL DE PROTECCION SOCIAL EN SALUD
 
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.O. 17 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 326.
 
@@ -2329,7 +2477,7 @@ DEL SISTEMA DE PROTECCION SOCIAL EN SALUD
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
-### CAPITULO VIII. CAUSAS DE SUSPENSION Y CANCELACION EN EL SISTEMA DE PROTECCION SOCIAL EN SALUD
+### CAPITULO VII. DERECHOS Y OBLIGACIONES DE LOS BENEFICIARIOS
 
 > <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -2415,7 +2563,7 @@ VII.- Es facultad del Régimen, a través de los Servicios de Salud, proveer de 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
-### CAPITULO IX. DEL CONSEJO ESTATAL DEL REGIMEN DE PROTECCION SOCIAL EN SALUD
+### CAPITULO VIII. CAUSAS DE SUSPENSION Y CANCELACION EN EL SISTEMA DE PROTECCION SOCIAL EN SALUD
 
 > <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -2462,6 +2610,10 @@ VII.- Prescripción y surtimiento de medicamentos;
 VIII.- Información al usuario sobre diagnóstico y pronóstico, así como del otorgamiento de orientación terapéutica.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
+
+### CAPITULO IX. DEL CONSEJO ESTATAL DEL REGIMEN DE PROTECCION SOCIAL EN SALUD
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 337.
 
@@ -2824,3 +2976,11 @@ SEGUNDO. La Secretaría de Salud emitirá en un plazo de sesenta días naturales
 TERCERO. Los Municipios de la Entidad, por única ocasión, deberán remitir a la Secretaría de Salud, copia del Registro Municipal de Panteones Públicos y Privados que integre, dentro de los cien días naturales posteriores a la expedición de los lineamientos señalados en el transitorio anterior.
 
 CUARTO. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+G.O. 20 DE JULIO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. El Ejecutivo del Estado deberá adecuar el Reglamento sobre Bebidas Alcohólicas para el Estado de Veracruz de Ignacio de la Llave, en un plazo no mayor a noventa días, a partir de la publicación del presente Decreto.
+
+Tercero. Se deroga cualquier disposición que se contraponga al presente Decreto.
