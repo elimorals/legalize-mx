@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-cultura-fisica-y-deporte-del-estado-de-baja-101889"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-31"
-last_updated: "2014-07-31"
+last_updated: "2015-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2015.
 
 Ley Publicada en el Boletín Oficial del Estado de Baja California Sur, el día jueves 31 de julio de 2014
 
@@ -69,23 +69,37 @@ II.- Elevar, por medio de la activación física, la cultura física y el deport
 
 III.- Fomentar la creación, conservación, mejoramiento, protección, difusión, promoción, investigación y aprovechamiento de los recursos humanos, materiales y financieros destinados a la activación física, cultura física y el deporte;
 
-IV.- Fomentar el desarrollo de la activación física, la cultura física y el deporte, como medio importante en la preservación de la salud y prevención de enfermedades;
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 2015)</small>
 
-V.- Fomentar el desarrollo de la activación física, la cultura física y el deporte, como medio importante en la prevención del delito;
+IV.- Fomentar el desarrollo de la activación física, la cultura física y el deporte, como medio importante en la preservación de la salud y prevención de enfermedades, así como para la prevención del delito;
 
-VI.- Incentivar la inversión social y privada para el desarrollo de la cultura física y el deporte, como complemento de la actuación pública;
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 2015)</small>
 
-VII.- Promover las medidas necesarias para erradicar la violencia y reducir los riegos de afectación en la práctica de actividades físicas, recreativas o deportivas, así como para prevenir y erradicar el uso de sustancias y métodos no reglamentarios que pudieran derivarse del doping;
+V.- Promover en niños, adolescentes y jóvenes la práctica cotidiana de actividades físicas, recreativas y deportivas, en igualdad de oportunidades, para contribuir a su desarrollo integral y armónico, así como a su bienestar general, fomentando en ellos los valores de respeto, solidaridad, honor, disciplina, tenacidad y trabajo en equipo, fortalecer la salud y como medio para prevenir entre ellos la violencia y la delincuencia.
 
-VIII.- Fomentar, ordenar y regular a las Asociaciones y Sociedades Deportivas, Recreativo-Deportivas, del Deporte en la Rehabilitación y de Cultura Física-Deportiva;
+> <small>(ADICIONADA, B.O. 20 DE JULIO DE 2015)</small>
 
-IX.- Incentivar la actividad deportiva que se desarrolla en forma organizada y programática a través de las Asociaciones Deportivas Estatales;
+VI.- Promover programas integrales de fomento a la cultura física y el deporte que vayan dirigidos a prevenir la drogadicción de niños, adolescentes y jóvenes y a fortalecer la integración familiar a través del deporte.
 
-X.- Promover en la práctica de actividades físicas, recreativas y deportivas el aprovechamiento, protección y conservación adecuada del medio ambiente;
+> <small>(ADICIONADA, B.O. 20 DE JULIO DE 2015)</small>
 
-XI.- Garantizar a todas las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen, y
+VII.- Promover acciones para el reconocimiento público y difusión de las actividades sobresalientes de las y los deportistas del Estado; estimulando la práctica del deporte con reconocimientos a nivel Local, Estatal, Nacional e Internacional;
 
-XII.- Los deportistas con algún tipo de discapacidad no serán objeto de discriminación alguna.
+VIII.- Incentivar la inversión social y privada para el desarrollo de la cultura física y el deporte, como complemento de la actuación pública;
+
+IX.- Promover las medidas necesarias para erradicar la violencia y reducir los riegos de afectación en la práctica de actividades físicas, recreativas o deportivas, así como para prevenir y erradicar el uso de sustancias y métodos no reglamentarios que pudieran derivarse del doping;
+
+X.- Fomentar, ordenar y regular a las Asociaciones y Sociedades Deportivas, Recreativo-Deportivas, del Deporte en la Rehabilitación y de Cultura Física-Deportiva;
+
+XI.- Incentivar la actividad deportiva que se desarrolla en forma organizada y programática a través de las Asociaciones Deportivas Estatales;
+
+XII.- Promover en la práctica de actividades físicas, recreativas y deportivas el aprovechamiento, protección y conservación adecuada del medio ambiente;
+
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 2015)</small>
+
+XIII.- Garantizar a todas las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen; y
+
+XIV.- Los deportistas con algún tipo de discapacidad no serán objeto de discriminación alguna.
 
 ###### Artículo 3°.
 
@@ -1858,3 +1872,9 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR
 SECRETARIO GENERAL DE GOBIERNO
 
 LUIS ANDRÉS CÓRDOVA URRUTIA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 20 DE JULIO DE 2015.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
