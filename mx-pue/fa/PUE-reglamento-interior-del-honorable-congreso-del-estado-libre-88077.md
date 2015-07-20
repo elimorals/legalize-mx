@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-880
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-26"
-last_updated: "2014-03-05"
+last_updated: "2015-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2015.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 26 de marzo de 2012.
 
@@ -1103,9 +1103,17 @@ V.- Lectura de los documentos con que se de cuenta al Congreso del Estado y el A
 
 VI.- Lectura, discusión y aprobación de los acuerdos que se sometan al Pleno, o en su caso a la Comisión Permanente;
 
-VII.- Lectura, discusión y votación de los Dictámenes con Minutas de Ley, Decreto o Acuerdo; y
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
-VIII.- Asuntos generales.
+VII.- Lectura, discusión y votación de los Dictámenes con Minutas de Ley, Decreto o Acuerdo;
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+
+VIII.- Lectura de Efemérides correspondientes al mes en curso; y
+
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+
+IX.- Asuntos Generales.
 
 ###### ARTÍCULO 94.
 
@@ -2818,6 +2826,12 @@ CUARTO.- El cambio en la denominación del Comité de Tecnologías de la Informa
 QUINTO.- Los asuntos en trámite que hayan sido turnados al Comité de Tecnologías de la Información, pasarán a ser competencia del Comité de Innovación y Tecnología.
 
 SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE JULIO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 57.- POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS”.]
 
