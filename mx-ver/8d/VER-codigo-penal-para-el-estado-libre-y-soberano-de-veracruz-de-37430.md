@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2015-05-19"
+last_updated: "2015-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE JULIO DE 2015.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -8017,7 +8017,7 @@ Se impondrán de dos a cuatro años de prisión y multa de cien a quinientas vec
 
 ### CAPÍTULO II. CORRUPCIÓN DE MENORES O INCAPACES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE JULIO DE 2015)</small>
 
 ###### Artículo 259.
 
@@ -8315,7 +8315,7 @@ Se impondrán de seis meses a dos años de prisión y multa hasta de cincuenta d
 
 ###### Artículo 285.
 
-Se impondrán de cuatro a doce años de prisión y multa hasta de quinientos días de salario a quien procure, facilite, induzca u obligue a un menor de dieciocho años o incapaz a:
+Se impondrán de seis a doce años de prisión y multa hasta de seiscientos días de salario a quien procure, facilite, provea, induzca u obligue a un menor de dieciocho años o incapaz a:
 
 I. (DEROGADA, G.O. 2 DE ABRIL DE 2010)
 
@@ -8324,6 +8324,10 @@ II. Cometer cualquier delito.
 > <small>(ADICIONADA, G.O. 2 DE ABRIL DE 2010)</small>
 
 III. Consumir bebidas embriagantes u otras sustancias nocivas para la salud.
+
+> <small>(ADICIONADO, G.O. 20 DE JULIO DE 2015)</small>
+
+Las penas a que hace referencia el presente artículo, se aumentarán en una mitad, en los casos en que se venda o expenda bebidas alcohólicas u otras sustancias nocivas para la salud a menores de dieciocho años para su consumo.
 
 ###### Artículo 286.
 
@@ -9644,6 +9648,14 @@ Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
 G.O. 19 DE MAYO DE 2015.
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+G.O. 20 DE JULIO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. El Ejecutivo del Estado deberá adecuar el Reglamento sobre Bebidas Alcohólicas para el Estado de Veracruz de Ignacio de la Llave, en un plazo no mayor a noventa días, a partir de la publicación del presente Decreto.
+
+Tercero. Se deroga cualquier disposición que se contraponga al presente Decreto.
 
 ###### Art. 1o.
 
