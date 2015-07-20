@@ -4,7 +4,7 @@ identifier: "BCS-ley-que-crea-el-instituto-sudcaliforniano-de-cultura-de-2963"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-10"
-last_updated: "2006-11-25"
+last_updated: "2015-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY QUE CREA EL INSTITUTO SUDCALIFORNIANO DE CULTURA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 25 DE NOVIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2015.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 10 de mayo de 1994.
 
@@ -71,13 +71,17 @@ III.- Dirigir, vigilar y conservar las bibliotecas, museos, hemerotecas y pinaco
 
 IV.- Fomentar y apoyar a las asociaciones y sociedades civiles y a todo tipo de entidades privadas cuyo objeto sea la realización de actividades de tipo cultural y artístico;
 
-V.- Realizar estudios e investigaciones sobre la cultura en el Estado e integrar un acervo de información y documentación en esta materia;
+> <small>(ADICIONADA, B.O. 20 DE JULIO DE 2015)</small>
 
-VI.- Sostener relaciones de intercambio con organismos similares locales, nacionales e internacionales y coordinar sus acciones con aquellas instituciones que realicen funciones semejantes, afines o complementarias;
+V.- Elaborar programas y gestionar espacios públicos adecuados para el desarrollo del Arte Urbano.
 
-VII.- Diseñar y promover la política editorial del sector cultura y proponer directrices en relación con las publicaciones y programas educativos y culturales para los diversos medios de comunicación; y
+VI.- Realizar estudios e investigaciones sobre la cultura en el Estado e integrar un acervo de información y documentación en esta materia;
 
-VIII.- Las demás que le señalen las disposiciones legales o reglamentarias.
+VII.- Sostener relaciones de intercambio con organismos similares locales, nacionales e internacionales y coordinar sus acciones con aquellas instituciones que realicen funciones semejantes, afines o complementarias;
+
+VIII.- Diseñar y promover la política editorial del sector cultura y proponer directrices en relación con las publicaciones y programas educativos y culturales para los diversos medios de comunicación; y
+
+IX.- Las demás que le señalen las disposiciones legales o reglamentarias.
 
 > <small>(REFORMADO, B.O. 25 DE NOVIEMBRE DE 2006)</small>
 
@@ -221,7 +225,7 @@ VI.- Supervisar, observar y ejecutar las políticas y los acuerdos que dicte el 
 
 > <small>(REFORMADA, B.O. 25 DE NOVIEMBRE DE 2006)</small>
 
-VII.- Diseñar, establecer y coordinar la comisión Interinstitucional para el desarrollo cultural del Estado, de acuerdo al reglamento que al efecto expida el Ejecutivo del Estado; y (sic)
+VII.- Diseñar, establecer y coordinar la comisión Interinstitucional para el desarrollo cultural del Estado, de acuerdo al reglamento que al efecto expida el Ejecutivo del Estado; y
 
 VIII.- Formular el anteproyecto de Reglamento Interior del Instituto y someterlo a la consideración del Consejo Directivo;
 
@@ -289,7 +293,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RAUL ANTONIO ORTEGA SALGADO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 B.O. 25 DE NOVIEMBRE DE 2006.
 
@@ -300,3 +304,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 El Reglamento Interior del Instituto Sudcaliforniano de Cultura, deberá ser expedido en un plazo no mayor de noventa días, contados a partir de la fecha en que entre en vigor el presente Decreto.
+
+B.O. 20 DE JULIO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
