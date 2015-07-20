@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-educacion-para-el-estado-de-baja-california-sur-100469"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-22"
-last_updated: "2014-04-22"
+last_updated: "2015-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2015.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 22 de abril de 2014.
 
@@ -103,7 +103,7 @@ X.- Desarrollar actitudes solidarias en los individuos, para crear conciencia so
 
 XI.- Contribuir, mediante programas de Educación ambiental, a promover actitudes positivas que fomenten tanto la protección del ambiente como la promoción de actividades productivas en armonía con la naturaleza, buscando un equilibrio entre conservación y desarrollo, en el marco del concepto de desarrollo sustentable;
 
-XII.- Promover y fomentar la conciencia y la asimilación de conocimientos sobre la cultura del cuidado y uso eficiente del agua, así como la prevención y conocimiento de las afectaciones del cambio climático; y (sic)
+XII.- Promover y fomentar la conciencia y la asimilación de conocimientos sobre la cultura del cuidado y uso eficiente del agua, así como la prevención y conocimiento de las afectaciones del cambio climático; y
 
 XIII.- Fomentar actitudes solidarias y positivas hacia el trabajo, el ahorro y el bienestar social en general.
 
@@ -111,7 +111,13 @@ XIV.- Fomentar la cultura de la transparencia y la rendición de cuentas, así c
 
 XV.- Promover y fomentar la lectura y el libro.
 
-XVI.- Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tenga la capacidad de comprender el significado del hecho o para resistirlo.
+> <small>(REFORMADA, B.O. 20 DE JULIO DE 2015)</small>
+
+XVI.- Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo; y
+
+> <small>(ADICIONADA, B.O. 20 DE JULIO DE 2015)</small>
+
+XVII.- Fomentar la educación vial de forma permanente con carácter de obligatoriedad dentro de las instituciones públicas y privadas a fin de que los educandos obtengan los conocimientos y hábitos de la prevención de accidentes viales y la protección de todos los habitantes en la vía pública ya sea conductores, pasajeros y peatones.
 
 ###### ARTÍCULO 8.
 
@@ -1434,3 +1440,11 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR
 SECRETARIO GENERAL DE GOBIERNO
 
 ARMANDO MARTÍNEZ VEGA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 20 DE JULIO DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
