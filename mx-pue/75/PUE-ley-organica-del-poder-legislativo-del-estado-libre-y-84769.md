@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2015-04-06"
+last_updated: "2015-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2015.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -295,9 +295,13 @@ I.- La Mesa Directiva electa de conformidad con lo dispuesto por el artículo 27
 
 Los Diputados electos ausentes serán llamados en términos del artículo 48 de la Constitución Política del Estado Libre y Soberano de Puebla;
 
-II.- El Presidente de la Mesa Directiva de la Legislatura entrante protestará su cargo, pidiendo a los Diputados asistentes que se pongan de pie y dirá: "Protesto sin reserva alguna guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de Diputado de la (número) Legislatura de este Congreso que el pueblo me ha conferido, mirando en todo por el bien y la prosperidad de la Nación y de esta Entidad Federativa, y si así no lo hiciere, que el Estado y la Nación me lo demanden".
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
 
-Enseguida tomará asiento en el lugar correspondiente y preguntará a los demás miembros de la Legislatura, quienes permanecerán de pie: ¿Protestáis sin reserva alguna, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las Leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de Diputado que el pueblo os ha conferido, mirando en todo por el bien y prosperidad de la Nación y de esta Entidad Federativa?. Los interrogados deberán contestar: "Sí, Protesto". El Presidente dirá entonces: "Si no lo hiciereis así, que el Estado y la Nación os lo demanden".
+II.- El Presidente de la Mesa Directiva de la Legislatura entrante protestará su cargo, pidiendo a los Diputados asistentes que se pongan de pie y dirá: "Protesto sin reserva alguna guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de Diputado de la (número) Legislatura de este Congreso que el pueblo me ha conferido, mirando en todo por el bien y la prosperidad de la Nación y de esta Entidad Federativa, y si así no lo hiciera, que el Estado y la Nación me lo demanden".
+
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
+
+Enseguida tomará asiento en el lugar correspondiente y preguntará a los demás miembros de la Legislatura, quienes permanecerán de pie: ¿Protesta sin reserva alguna, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las Leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de Diputado que el pueblo le ha conferido, mirando en todo por el bien y prosperidad de la Nación y de esta Entidad Federativa?. Los interrogados deberán contestar: "Sí, Protesto". El Presidente dirá entonces: "Si no lo hiciera así, que el Estado y la Nación se lo demanden".
 
 Igual protesta están obligados a otorgar cada uno de los Diputados propietarios que se presenten después de la instalación;
 
@@ -2398,6 +2402,12 @@ QUINTO.- Los asuntos en trámite que hayan sido turnados al Comité de Tecnolog�
 SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 6 DE ABRIL DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE JULIO DE 2015.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
