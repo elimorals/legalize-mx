@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2015-06-17"
+last_updated: "2015-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JULIO DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -1599,9 +1599,11 @@ Este libro se llevará conforme a la tabla número seis del anexo de este Acuerd
 
 En el libro de certificados de depósito se registrarán todos los certificados de depósito que sean recibidos en el juzgado, incluso los exhibidos ante el Agente del Ministerio Público que tengan orden de transferencia, con excepción de aquellos a los que hace referencia la Ley Federal para la Administración de Bienes Asegurados, Decomisados y Abandonados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE JULIO DE 2015)</small>
+
 ###### Artículo 119.
 
-Este libro constará de ocho columnas con los rubros: Número de orden, Expediente, Fecha de exhibición, Nombre del depositante, Número de certificado y cantidad, Destino, Fecha de comunicación al Consejo y Observaciones; las que se utilizarán de la siguiente manera:
+Este libro constará de siete columnas con los rubros: Número de orden, Expediente, Fecha de exhibición, Nombre del depositante, Número de certificado y cantidad, Destino y Observaciones; las que se utilizarán de la siguiente manera:
 
 I. Número de orden: se registrarán con numeración progresiva y ascendente, todos los certificados de depósito que se reciban en el órgano jurisdiccional y a los que se hizo referencia en el artículo anterior;
 
@@ -1629,7 +1631,7 @@ b) Se hace efectivo: se utilizará en el caso en que se ordene hacer efectivo el
 
 2. Número de oficio: se anotará el número del oficio con el que se hubiese remitido el certificado de depósito a la autoridad exactora, seguido de la fecha en que ésta lo haya recibido;
 
-VII. Fecha de comunicación al Consejo: se anotará el número del oficio mediante el cual se haya comunicado a la Dirección General de Tesorería el proveído que ordene hacer efectivo el certificado de depósito, seguido de la fecha en que se hubiese recibido; y
+VII. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE JULIO DE 2015)
 
 VIII. Observaciones: deberá anotarse el caso en que el órgano jurisdiccional declare su incompetencia y por ese motivo remita el certificado de depósito al competente.
 
@@ -3161,6 +3163,8 @@ SEXTO. Se derogan todas las disposiciones que opongan al presente Acuerdo.
 
 > <small>N. DE E. VÉASE TABLAS EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 15 DE ENERO DE 2015, PÁGINAS DE LA 95 A LA 105.</small>
 
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA 7 EN LA PRIMERA SECCIÓN DEL D.O.F. DE 21 DE JULIO DE 2015, PÁGINA 102.</small>
+
 EL MAGISTRADO LUIS FERNANDO ANGULO JACOBO, SECRETARIO EJECUTIVO DEL PLENO Y DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de doce de noviembre de dos mil catorce, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Felipe Borrego Estrada, Daniel Francisco Cabeza de Vaca Hernández, César Esquinca Muñoa, Alfonso Pérez Daza, Manuel Ernesto Saloma Vera y J. Guadalupe Tafoya Hernández.- México, Distrito Federal, a seis de enero de dos mil quince.- Conste.- Rúbrica
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
@@ -3232,3 +3236,13 @@ SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su
 TERCERO. La Secretaría Ejecutiva de Administración, por conducto de sus áreas administrativas competentes, llevará a cabo las adecuaciones al Registro automatizado de entrada y salida de servidores públicos, y las demás acciones necesarias para la implementación del presente Acuerdo, dentro de los noventa días siguientes a la entrada en vigor del mismo.
 
 Durante dicho plazo quedará suspendido el Registro automatizado de entrada y salida de servidores públicos.
+
+D.O.F. 21 DE JULIO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+CUARTO. Los libros físicos que contengan la columna que se suprime con motivo de la entrada en vigor de este Acuerdo que tengan en existencia el Consejo de la Judicatura Federal o los órganos jurisdiccionales o, cuya impresión ya haya sido contratada, podrán seguirse utilizando sin requisitar el espacio.
