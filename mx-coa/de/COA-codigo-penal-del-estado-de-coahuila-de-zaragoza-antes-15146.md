@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2015-04-24"
+last_updated: "2015-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -4667,19 +4667,33 @@ ARTÍCULO 293 BIS 4. Serán considerados actos de crueldad:
 
 ARTÍCULO 293 BIS 5. En caso de que las lesiones o muerte del animal, sean provocadas por médico veterinario o persona relacionada con el cuidado, resguardo o comercio de animales, además de la pena de prisión se aplicara suspensión o inhabilitación, según sea el caso, por un lapso de uno a cinco años, del empleo, cargo, profesión, oficio, autorización, licencia, comercio, o cualquier circunstancia bajo la cual hubiese cometido el delito y en caso de reincidencia se revocaran estos de forma definitiva.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE JULIO DE 2015)</small>
+
+ARTÍCULO 293 BIS 6. SANCIONES Y FIGURA TIPICA DE COMPRA VENTA O TRANSPORTACIÓN DE CARNE DE ANIMAL. Se le impondrá de seis meses a cuatro años de prisión y de cien a trescientos días multa, a quien sin cumplir con los requisitos establecidos en la Ley de Fomento Ganadero para el Estado de Coahuila, la Ley Estatal de Salud o cualquier otra disposición aplicable en materia de sanidad:
+
+I. Compre, venda, enajene de cualquier manera o distribuya carne de animal destinada al consumo humano;
+
+II. Transporte carne de animal destinada a la comercialización o consumo humano.
+
+No se sancionará a quien compre, venda, enajene de cualquier manera o transporte carne de animal, procedente de ganado menor o aves de corral, destinada únicamente al consumo familiar.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE JULIO DE 2015)</small>
+
+ARTÍCULO 293 BIS 7. PRESTACIÓN DEL SERVICIO DE RASTRO, PROCESAMIENTO O INDUSTRIALlZACION DE CARNE DE ANIMAL, SUS PRODUCTOS Y SUBPRODUCTOS. Se le impondrá de dos a cinco años de prisión y de cien a trescientos días multa, a quien preste el servicio de rastro, procese o industrialice carne de animal, sus productos y subproductos, sin contar con los permisos o autorizaciones de las autoridades competentes, o no reúna los requisitos sanitarios establecidos en la Ley de Fomento Ganadero para el Estado de Coahuila, la Ley Estatal de Salud o cualquier otra disposición aplicable en materia de sanidad.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
 ### CAPÍTULO SEXTO. PELEAS O ENFRENTAMIENTOS ENTRE ANIMALES
 
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2015)</small>
 
-ARTÍCULO 293 BIS 6. SANCIONES Y FIGURA TIPICA DE PELEAS O ENFRENTAMIENTO ENTRE ANIMALES. Se aplicará prisión de uno a siete años, multa, así como el decomiso de los objetos, instrumentos y productos del delito, la clausura del establecimiento y la cancelación del permiso o licencia, si lo hubiere: A quien organice, explote, financie, promueva o realice, por cuenta propia o ajena, todo acto cuyo objeto sea total o parcialmente la pelea de animales entre sí o con ejemplares de otra especie, ya sea en un espectáculo público o privado, independientemente de que se efectúen apuestas o actividades conexas; salvo lo exceptuado en las Leyes de Protección a los Animales.
+ARTÍCULO 293 BIS 8. SANCIONES Y FIGURA TIPICA DE PELEAS O ENFRENTAMIENTO ENTRE ANIMALES. Se aplicará prisión de uno a siete años, multa, así como el decomiso de los objetos, instrumentos y productos del delito, la clausura del establecimiento y la cancelación del permiso o licencia, si lo hubiere: A quien organice, explote, financie, promueva o realice, por cuenta propia o ajena, todo acto cuyo objeto sea total o parcialmente la pelea de animales entre sí o con ejemplares de otra especie, ya sea en un espectáculo público o privado, independientemente de que se efectúen apuestas o actividades conexas; salvo lo exceptuado en las Leyes de Protección a los Animales.
 
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2015)</small>
 
-ARTÍCULO 293 BIS 7. SANCIONES Y FIGURA TIPICA RELACIONADAS CON PELEAS O ENFRENTAMIENTOS ENTRE ANIMALES. Se aplicará prisión de uno a tres años y multa: A quien participe, ayude o coopere con otra a organizar, explotar, financiar, promocionar o realizar todo acto cuyo objetivo sea totalmente o parcialmente la pelea de animales entre sí o con ejemplares de otra especie, así como a quien presencie su realización; salvo lo exceptuado en las Leyes de Protección a los Animales.
+ARTÍCULO 293 BIS 9. SANCIONES Y FIGURA TIPICA RELACIONADAS CON PELEAS O ENFRENTAMIENTOS ENTRE ANIMALES. Se aplicará prisión de uno a tres años y multa: A quien participe, ayude o coopere con otra a organizar, explotar, financiar, promocionar o realizar todo acto cuyo objetivo sea totalmente o parcialmente la pelea de animales entre sí o con ejemplares de otra especie, así como a quien presencie su realización; salvo lo exceptuado en las Leyes de Protección a los Animales.
 
-Las mismas penas se impondrán a quien procure o ayude a procurar la desaparición, ocultación o alteración de los rastros, pruebas o instrumentos utilizados para explotación, organización o realización de las actividades previstas en este artículo.
+Las mismas penas se impondrán a quien procure o ayude a procurar la desaparición, ocultación o alteración de los rastros, pruebas o instrumentos utilizados para explotación, organización o realización de las actividades previstas en este articulo.
 
 Los delitos señalados en el presente Título se perseguirán de oficio.
 
@@ -6920,3 +6934,7 @@ SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
 P.O. 24 DE ABRIL DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE JULIO DE 2015.
+
+ÚNICO.- El presente Decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
