@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-22-2013-del-pleno-del-consejo-de-la-95335"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-08-09"
-last_updated: "2013-08-09"
+last_updated: "2015-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95335&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-08-07"
 
 ACUERDO GENERAL 22/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS CUARTO Y QUINTO DE DISTRITO DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN, Y SU TRANSFORMACIÓN COMO JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO EN MATERIA ADMINISTRATIVA ESPECIALIZADOS EN COMPETENCIA ECONÓMICA, RADIODIFUSIÓN Y TELECOMUNICACIONES, CON RESIDENCIA EN EL DISTRITO FEDERAL, Y JURISDICCIÓN TERRITORIAL EN TODA LA REPÚBLICA. A LA CONCLUSIÓN DE FUNCIONES DE LOS TRIBUNALES COLEGIADOS SEGUNDO Y TERCERO DE CIRCUITO DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN Y SU TRANSFORMACIÓN COMO PRIMER Y SEGUNDO TRIBUNALES COLEGIADOS DE CIRCUITO EN MATERIA ADMINISTRATIVA ESPECIALIZADOS EN COMPETENCIA ECONÓMICA, RADIODIFUSIÓN Y TELECOMUNICACIONES, CON RESIDENCIA EN EL DISTRITO FEDERAL Y JURISDICCIÓN TERRITORIAL EN TODA LA REPÚBLICA. ASÍ COMO SU DOMICILIO, FECHA DE INICIO DE FUNCIONAMIENTO Y A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS ÓRGANOS JURISDICCIONALES INDICADOS. Y AL CAMBIO DE DENOMINACIÓN DE LA OFICINA DE CORRESPONDENCIA COMÚN DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JULIO DE 2015.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 9 de agosto de 2013.
 
@@ -147,7 +147,11 @@ II. Se adiciona un punto SEXTO y se recorren los subsecuentes como SÉPTIMO y OC
 
 DÉCIMO TERCERO.- Los Tribunales Colegiados Primero y Segundo de Circuito en Materia Administrativa Especializados en Competencia Económica, Radiodifusión y Telecomunicaciones conformarán un Pleno de Circuito especializado de conformidad con el Acuerdo General 14/2013 del Pleno del Consejo de la Judicatura Federal.
 
-DÉCIMO CUARTO.- La adscripción, la temporalidad y la rotación de los jueces de Distrito y magistrados de Circuito como titulares de los órganos jurisdiccionales en materia administrativa especializados en competencia económica, radiodifusión y telecomunicaciones, corresponderá a la Comisión de Adscripciones del Consejo de la Judicatura Federal de conformidad con las atribuciones señaladas en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 30/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE JULIO DE 2015)</small>
+
+DÉCIMO CUARTO.- La adscripción y la rotación de los jueces de Distrito y magistrados de Circuito como titulares de los órganos jurisdiccionales en materia administrativa especializados en competencia económica, radiodifusión y telecomunicaciones, corresponderá a la Comisión de Adscripción del Consejo de la Judicatura Federal de conformidad con las atribuciones señaladas en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
+
+La rotación de los titulares de dichos órganos jurisdiccionales se deberá llevar a cabo cada cuatro años.
 
 DÉCIMO QUINTO.- La Comisión de Vigilancia, Información y Evaluación del Consejo de la Judicatura Federal, emitirá los acuerdos y las acciones pertinentes para garantizar la independencia, objetividad e imparcialidad de los juzgados y tribunales en materia administrativa especializados en competencia económica, radiodifusión y telecomunicaciones, en armonía con los principios del Código de Ética que rige a los servidores públicos del Poder Judicial de la Federación.
 
@@ -170,3 +174,13 @@ QUINTO. A fin de equilibrar las cargas de trabajo que llegaren a presentarse en 
 SEXTO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 20/2009 y al Acuerdo General 3/2013, ambos del Pleno del Consejo de la Judicatura Federal.
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNÁNDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 22/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la conclusión de funciones de los juzgados cuarto y quinto de Distrito del Centro Auxiliar de la Primera Región, y su transformación como juzgados primero y segundo de Distrito en materia administrativa especializados en competencia económica, radiodifusión y telecomunicaciones, con residencia en el Distrito Federal, y jurisdicción territorial en toda la República. A la conclusión de funciones de los tribunales colegiados segundo y tercero de Circuito del Centro Auxiliar de la Primera Región y su transformación como primer y segundo tribunales colegiados de Circuito en materia administrativa especializados en competencia económica, radiodifusión y telecomunicaciones, con residencia en el Distrito Federal y jurisdicción territorial en toda la República. Así como su domicilio, fecha de inicio de funcionamiento y a las reglas de turno, sistema de recepción y distribución de asuntos entre los órganos jurisdiccionales indicados. Y al cambio de denominación de la oficina de correspondencia común del Centro Auxiliar de la Primera Región, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de siete de agosto de dos mil trece, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Esquinca Muñoa, César Alejandro Jáuregui Robles y Manuel Ernesto Saloma Vera.- México, Distrito Federal, a siete de agosto de dos mil trece.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 21 DE JULIO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. El término a que se refiere el numeral Décimo Cuarto del Acuerdo General 22/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la conclusión de funciones de los Juzgados Cuarto y Quinto de Distrito del Centro Auxiliar de la Primera Región, y su transformación como Juzgados Primero y Segundo de Distrito en Materia Administrativa Especializados en Competencia Económica, Radiodifusión y Telecomunicaciones, con residencia en el Distrito Federal, y jurisdicción territorial en toda la República. A la conclusión de funciones de los Tribunales Colegiados Segundo y Tercero de Circuito del Centro Auxiliar de la Primera Región y su transformación como Primer y Segundo Tribunales Colegiados de Circuito en Materia Administrativa Especializados en Competencia Económica, Radiodifusión y Telecomunicaciones, con residencia en el Distrito Federal y jurisdicción territorial en toda la República. Así como su domicilio, fecha de inicio de funcionamiento y a las reglas de turno, sistema de recepción y distribución de asuntos entre los Órganos Jurisdiccionales indicados. Y al cambio de denominación de la oficina de correspondencia común del Centro Auxiliar de la Primera Región; iniciará a la conclusión del lapso de la comisión actual de los titulares de los órganos jurisdiccionales en materia administrativa especializados en Competencia Económica, Radiodifusión y Telecomunicaciones, observándose el escalonamiento en la conclusión de la comisión, como se previó antes de la entrada en vigor del presente Acuerdo.
