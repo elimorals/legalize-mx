@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2014-08-09"
+last_updated: "2015-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2015.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -567,7 +567,11 @@ Corresponde a la Procuraduría Social, además de lo establecido en otros ordena
 
 I. Representar y defender a las mujeres víctimas de violencia en todas las etapas de los procedimientos penales, civiles y familiares si es que no cuenta con defensor particular, en los términos de las disposiciones legales aplicables;
 
-II. Representar a las mujeres en procedimientos contemplados por la Ley de Justicia Integral para Adolescentes del Estado hasta que éstas nombren defensor particular;
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2015)</small>
+
+II. Representar a las mujeres en procedimientos contemplados por la Ley de Justicia para Adolescentes del Estado de Jalisco hasta que éstas nombren defensor particular;
 
 III. Proporcionar asistencia jurídica gratuita a las mujeres víctimas de violencia desde el momento mismo en que lo soliciten y conforme lo establecido por la Ley de la materia;
 
@@ -946,3 +950,7 @@ LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 P.O. 9 DE AGOSTO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 21 DE JULIO DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor en los términos de la fracción I del decreto número 24864/LX/14, previa su publicación en el periódico oficial "El Estado de Jalisco".
