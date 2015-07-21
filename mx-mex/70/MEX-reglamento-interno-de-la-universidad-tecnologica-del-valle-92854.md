@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-universidad-tecnologica-del-valle-9285
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-01"
-last_updated: "2013-03-01"
+last_updated: "2015-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92854&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA UNIVERSIDAD TECNOLÓGICA DEL VALLE DE TOLUCA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JULIO DE 2015.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 1° de Marzo de 2013.
 
@@ -71,7 +71,7 @@ La Dirección y Administración de la Universidad corresponden a:
 
 I. Un Consejo Directivo; y
 
-II. Un Rector; (sic)
+II. Un Rector;
 
 ### CAPÍTULO II. DEL CONSEJO DIRECTIVO
 
@@ -121,35 +121,39 @@ XIII. Presentar periódicamente al Consejo un informe sobre la aplicación de lo
 
 XIV. Las demás que le confieren otras disposiciones legales y aquellas que establezca el Consejo.
 
+> <small>(REFORMADO, G.G. 21 DE JULIO DE 2015)</small>
+
 ###### Artículo 11.
 
 Para el estudio, planeación y despacho de los asuntos de su competencia, el Rector se auxiliará de las unidades administrativas básicas siguientes:
 
-I. Rectoría
+I. Abogado General;
 
-II. Abogado General;
+II. Contraloría Interna;
 
-III. Dirección de Carrera de Mecatrónica y Sistemas Productivos;
+III. Secretaría Académica;
 
-IV. Dirección de Carrera de Mantenimiento Industrial;
+IV. Secretaría de Vinculación;
 
-V. Dirección de Carrera de Tecnologías de la Información y Comunicación;
+V. Dirección de Administración y Finanzas;
 
-VI. Dirección de Carera (sic) de Tecnología Ambiental;
+VI. Dirección de Difusión y Extensión Universitaria;
 
-VII. Dirección de Carrera de Negocios y Gestión Empresarial;
+VII. Dirección de Carrera de Mecatrónica y Sistemas Productivos;
 
-VIII. Dirección de Carrera de Salud Pública y Paramédico;
+VIII. Dirección de Carrera de Mantenimiento Industrial;
 
-IX. Dirección de Desarrollo Académico;
+IX. Dirección de Carrera de Tecnologías de la Información y Comunicación;
 
-X. Dirección de Vinculación y Educación Continua;
+X. Dirección de Carrera de Tecnología Ambiental;
 
-XI. Dirección de Difusión y Extensión Universitaria;
+XI. Dirección de Carrera de Negocios y Gestión Empresarial;
 
-XII. Dirección de Administración y Finanzas; y
+XII. Dirección de Carrera de Paramédico y Protección Civil;
 
-XIII. Unidad de Información, Planeación, Programación y Evaluación.
+XIII. Dirección de Carrera de Salud Pública y Enfermería; y
+
+XIV. Unidad de Información, Planeación, Programación y Evaluación.
 
 La Universidad contará además con las unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización. Asimismo, se auxiliará de los servidores públicos, órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizados.
 
@@ -182,6 +186,30 @@ VII. Proponer disposiciones normativas complementarias que coadyuven a eficienta
 VIII. Apoyar en el resguardo del cumplimiento exacto de la legislación universitaria.
 
 IX. Las demás que le confieran otras disposiciones y el Rector.
+
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2015)</small>
+
+###### Artículo 13 Bis.
+
+Corresponde a la Contraloría Interna:
+
+I. Vigilar el cumplimiento de los programas y subprogramas de las unidades administrativas de la Universidad y elaborar los reportes correspondientes;
+
+II. Realizar revisiones administrativas, contables, operacionales, técnicas y jurídicas a las unidades administrativas de la Universidad, tendientes a verificar el cumplimiento de las normas y disposiciones relacionadas con los sistemas de registro, contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos del patrimonio del Organismo;
+
+III. Verificar el adecuado ejercicio del presupuesto de la Universidad, atendiendo a los principios de racionalidad, austeridad y disciplina que establece la normatividad en la materia;
+
+IV. Participar en los procesos de entrega y recepción de las unidades administrativas de la Universidad, verificando su apego a la normatividad correspondiente;
+
+V. Recibir, tramitar y dar seguimiento a las quejas y denuncias que se interpongan en contra de los servidores públicos de la Universidad en términos de la ley de la materia;
+
+VI. Verificar la presentación oportuna de las declaraciones de situación patrimonial de los servidores públicos de la Universidad;
+
+VII. Informar a la Secretaría de la Contraloría sobre el resultado de las acciones o funciones que le encomiende;
+
+VIII. Difundir entre el personal de la Universidad las disposiciones en materia de control que incidan en el desarrollo de sus labores; y
+
+IX. Las demás que le señalen otros ordenamientos legales y las que le encomiende el Rector.
 
 ATRIBUCIONES GENÉRICAS DE LOS DIRECTORES
 
@@ -243,7 +271,7 @@ VI. Supervisar que las aulas, equipamiento e instalaciones académicas se manten
 
 VII. Fomentar la participación del personal docente en proyectos de investigación aplicada y desarrollo tecnológico en materia de su competencia;
 
-VIII. Asegurar periódica y oportunamente, en el ámbito de su competencia, una planta docente completa, capaz y competitiva para atender las necesidades del programa educativo: (sic)
+VIII. Asegurar periódica y oportunamente, en el ámbito de su competencia, una planta docente completa, capaz y competitiva para atender las necesidades del programa educativo:
 
 IX. Propiciar las condiciones necesarias para impulsar la investigación colegiada entre el personal docente, que derive en producción académica, la consolidación de cuerpos académicos y la obtención de perfiles deseables reconocidos;
 
@@ -365,9 +393,41 @@ XI. Proponer al Rector agendas de trabajo y sistemas de información para asegur
 
 XII. Las demás que le señalen otros ordenamientos y las que le encomiende el Consejo o el Rector.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE JULIO DE 2015)</small>
+
 ###### Artículo 20.
 
-Corresponde a la Dirección de Carrera de Salud Pública y Paramédico:
+Corresponde a la Dirección de Carrera de Paramédico y Protección Civil:
+
+I. Proponer actualizaciones a los planes y programas de estudio de la Carrera para el cumplimiento del proceso educativo y someterlos a la consideración del Rector;
+
+II. Promover entre los estudiantes y profesores la utilización de los talleres y laboratorios de la Carrera para reforzar las competencias profesionales, realizando las gestiones necesarias para mantenerlos actualizados;
+
+III. Promover la superación académica, aplicando las nuevas tecnologías en el proceso enseñanza aprendizaje del programa educativo a su cargo;
+
+IV. Proponer la vinculación con el sector productivo de la región, para que los alumnos de la Carrera realicen prácticas profesionales;
+
+V. Proponer al Rector la suscripción de acuerdos y convenios de intercambio académico en las materias de su competencia;
+
+VI. Supervisar que las aulas, equipamiento e instalaciones académicas se mantengan en óptimas condiciones;
+
+VII. Fomentar la participación del personal docente en proyectos de investigación aplicada y desarrollo tecnológico en materia de su competencia;
+
+VIII. Asegurar periódica y oportunamente, en el ámbito de su competencia, una planta docente completa, capaz y competitiva para atender las necesidades del programa educativo;
+
+IX. Propiciar las condiciones necesarias para impulsar la investigación colegiada entre el personal docente, que derive en producción académica, la consolidación de cuerpos académicos y la obtención de perfiles deseables reconocidos;
+
+X. Proponer al Rector proyectos para el mejoramiento del programa educativo y la trayectoria escolar de los alumnos;
+
+XI. Proponer al Rector agendas de trabajo y sistemas de información para asegurar resultados satisfactorios en las evaluaciones y acreditaciones por parte de organismos externos; y
+
+XII. Las demás que le señalen otros ordenamientos y las que le encomiende el Consejo o el Rector.
+
+> <small>(ADICIONADO, G.G. 21 DE JULIO DE 2015)</small>
+
+###### Artículo 20 Bis.
+
+Corresponde a la Dirección de Carrera de Salud Pública y Enfermería:
 
 I. Proponer actualizaciones a los planes y programas de estudio de la Carrera para el cumplimiento del proceso educativo y someterlos a la consideración del Rector;
 
@@ -397,9 +457,11 @@ ATRIBUCIONES ESPECÍFICAS
 
 DE LA DIRECCIÓN DE DESARROLLO ACADÉMICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE JULIO DE 2015)</small>
+
 ###### Artículo 21.
 
-Corresponde a la Dirección de Desarrollo Académico:
+Corresponde a la Secretaría Académica:
 
 I. Desarrollar o dirigir aquellas actividades académicas de la Universidad que permitan alcanzar y mantener la excelencia académica.
 
@@ -413,7 +475,7 @@ V. Validar los planes de estudio y documentos curriculares de las carreras que i
 
 VI. Planear y supervisar la coedición, edición y distribución de materiales didácticos;
 
-VII. Articular acciones orientadas a fortalecer la actualización de los planes y programas de estudio: (sic)
+VII. Articular acciones orientadas a fortalecer la actualización de los planes y programas de estudio:
 
 VIII. Vigilar el cumplimiento de las normas y procedimientos de ingreso, permanencia y egreso de educandos y su aplicación;
 
@@ -427,7 +489,7 @@ XII. Impulsar acciones que equilibren las cargas de trabajo del personal docente
 
 XIII. Coordinar los servicios de apoyo escolar que se proporcionan a los alumnos;
 
-XIV. Contribuir a lograr que los egresados de la Universidad cuenten con habilidades y cualidades necesarias para mejorar sus oportunidades de acceso al mercado de trabajo de manera productiva y competitiva: (sic)
+XIV. Contribuir a lograr que los egresados de la Universidad cuenten con habilidades y cualidades necesarias para mejorar sus oportunidades de acceso al mercado de trabajo de manera productiva y competitiva:
 
 XV. Coadyuvar a transparentar y retroalimentar las acciones académicas para el mejor desempeño académico en los procesos de evaluación y acreditación de los programas educativos;
 
@@ -439,11 +501,13 @@ ATRIBUCIONES ESPECÍFICAS
 
 DE LA DIRECCIÓN DE VINCULACIÓN Y EDUCACIÓN CONTINUA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE JULIO DE 2015)</small>
+
 ###### Artículo 22.
 
-Corresponde a la Dirección de Vinculación y Educación Continua:
+Corresponde a la Secretaría de Vinculación:
 
-I. Planear y organizar las actividades de vinculación de la Universidad: (sic)
+I. Planear y organizar las actividades de vinculación de la Universidad:
 
 II. Proponer a la Rectoría los trabajos relacionados con la Dirección a su cargo;
 
@@ -467,7 +531,13 @@ XI. Supervisar el seguimiento a los acuerdos del Consejo de Vinculación y Perti
 
 XII. Supervisar que los eventos de vinculación se realicen de conformidad a lo programado;
 
-XIII. Las demás que le señalen otros ordenamientos y las que le encomiende el Consejo o el Rector.
+> <small>(REFORMADA, G.G. 21 DE JULIO DE 2015)</small>
+
+XIII. Dar seguimiento al desempeño de los egresados en el ámbito laboral.
+
+> <small>(ADICIONADA, G.G. 21 DE JULIO DE 2015)</small>
+
+XIV. Las demás que le señalen otros ordenamientos y las que le encomiende el Consejo o el Rector.
 
 ATRIBUCIONES ESPECÍFICAS
 
@@ -501,7 +571,13 @@ XI. Generar las acciones necesarias para mantener actualizada la información qu
 
 XII. Coadyuvar para la realización eficiente de los eventos que se desarrollan en cumplimiento de los objetivos y programas institucionales; y
 
-XIII. Las demás que le señalen otros ordenamientos y las que le encomiende el Consejo o el Rector.
+> <small>(REFORMADA, G.G. 21 DE JULIO DE 2015)</small>
+
+XIII. Proporcionar servicios bibliotecarios de calidad; y
+
+> <small>(ADICIONADA, G.G. 21 DE JULIO DE 2015)</small>
+
+XIV. Las demás que le señalen otros ordenamientos y las que le encomiende el Consejo o el Rector.
 
 ATRIBUCIONES ESPECÍFICAS
 
@@ -531,7 +607,7 @@ IX. Llevar el control del inventario de los bienes muebles e inmuebles de la Uni
 
 X. Suministrar los recursos humanos, técnicos, materiales y financieros para el desarrollo de las actividades académicas y administrativas de la Universidad;
 
-XI. Intervenir en la correcta operación de los procedimientos relativos a la adquisición de bienes y contratación de obras y servicios; y (sic)
+XI. Intervenir en la correcta operación de los procedimientos relativos a la adquisición de bienes y contratación de obras y servicios; y
 
 XII. Supervisar la correcta elaboración, ejecución y control del presupuesto de la Universidad;
 
@@ -564,3 +640,11 @@ Q.F.B. MARTHA GARCÍARIVAS (SIC) PALMEROS
 RECTORA DE LA UNIVERSIDAD TECNOLÓGICA DEL VALLE DE TOLUCA Y SECRETARIA DEL CONSEJO DIRECTIVO
 
 (RÚBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 21 DE JULIO DE 2015.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
