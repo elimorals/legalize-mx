@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-sistema-de-coordinacion-fiscal-del-estado-de-105510"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-26"
-last_updated: "2014-12-26"
+last_updated: "2015-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DEL SISTEMA DE COORDINACIÓN FISCAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 26 de diciembre de 2014.
 
@@ -409,9 +409,37 @@ Se distribuirá entre los Municipios como una aportación, equivalente al 100% d
 
 Se distribuirá entre los Municipios como una aportación, equivalente al 100% del Impuesto Adicional para la Preservación del Patrimonio Cultural, Infraestructura y Deporte que efectivamente entere cada municipio al Estado y refleje flujo de efectivo. Para que resulte aplicable lo dispuesto en este artículo, los municipios deberán enterar al Estado el 100% del pago que deban efectuar del Impuesto Adicional para la Preservación del Patrimonio Cultural, Infraestructura y Deporte. Los recursos que por este concepto reciban los municipios, deberán destinarlos a la preservación del patrimonio cultural del municipio, infraestructura y deporte, y podrán utilizarlos como fuente de financiamiento para su aportación en convenios de coordinación, reasignación o paripassu con el Gobierno Federal o Estatal.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2015)</small>
+
 ###### Artículo 38.
 
-Se transferirá a los municipios el 20% de los recursos que correspondan al Estado del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos conforme al artículo 57 de la Ley de Ingresos sobre Hidrocarburos, que deberán destinarse a lo dispuesto en la fracción IV, del tercer párrafo del citado artículo, a inversión en infraestructura para resarcir, entre otros fines, las afectaciones al entorno social y ecológico, y hasta el 3% de los recursos para la realización de estudios y evaluación de proyectos que cumplan con los fines específicos del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos.
+Se transferirá a los municipios que se ubiquen en las hipótesis de distribución, el 20% de los recursos que correspondan al Estado del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos conforme al artículo 57 de la Ley de Ingresos sobre Hidrocarburos, que deberán aplicarse, invertirse y ejercerse de conformidad con lo dispuesto en la fracción IV, del tercer párrafo del citado artículo, así como en las Reglas de Operación para la distribución y aplicación de los Recursos del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos.
+
+I. En el caso de áreas contractuales o de asignación que se ubiquen en regiones terrestres los recursos de este Fondo se distribuirán a los municipios donde se localicen las áreas contractuales o de asignación ubicadas en regiones terrestres, que comprendan la geografía del municipio respectivo, de acuerdo con la fórmula establecida en las Reglas Quinta y Sexta de la Regla de Operación para la Distribución y Aplicación de los recursos del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos, según estas sean modificadas de tiempo en tiempo o a aquellas que las sustituyan, así como en lo conducente a la Ley de Ingresos Sobre Hidrocarburos.
+
+Asimismo, deberá tomarse en cuenta la información que la Unidad de Coordinación con Entidades Federativas de la Secretaría de Hacienda y Crédito Público entregue al Estado de conformidad con las Reglas Décima Primera, en relación con la Cuarta, Quinta y Séptima de las Reglas de Operación para la Distribución y Aplicación de los recursos del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos según éstas sean modificadas de tiempo en tiempo o a aquellas Reglas que las substituyan.
+
+II. En el caso de áreas contractuales o de asignación que se ubiquen en regiones marítimas se distribuirán a los municipios que registren daño al entorno social y ecológico derivado de las actividades de exploración y extracción de hidrocarburos bajo la siguiente forma de distribución:
+
+II.1.- Para los efectos de esta Ley se entenderá por:
+
+a) Daño al entorno social derivado de las actividades de exploración y extracción de hidrocarburos.- Pérdida, cambio, deterioro, menoscabo, afectación o modificación adversos y mensurable de las condiciones de vida para el íntegro desarrollo de los habitantes del municipio que inciden en las condiciones de trabajo o empleo, nivel de ingresos, condiciones de seguridad social y salud, servicios públicos disponibles, seguridad pública, educación, nivel cultural y demás elementos sociales que determinan el funcionamiento de la sociedad y la forma en que se lleva a cabo la interrelación social, derivado de las actividades de exploración y extracción de hidrocarburos.
+
+b) Daño al entorno ecológico derivado de las actividades de exploración y extracción de hidrocarburos.- Pérdida, cambio, deterioro, menoscabo, afectación o modificación adversos y mensurable de los hábitat, de los ecosistemas, de los elementos y recursos naturales, de sus condiciones químicas, físicas o biológicas, de las relaciones de interacción que se dan entre éstos, así como de los servicios ambientales que proporcionan, derivado de las actividades de exploración y extracción de hidrocarburos.
+
+II.2.- La distribución a los municipios será de la siguiente forma:
+
+a) El 70% en proporción directa al número de habitantes que tenga el municipio que registre los daños al entorno social y ecológico derivado de las actividades de exploración y extracción de hidrocarburos;
+
+b) El 15% en la proporción que representen los daños al entorno social que registre; y
+
+c) El 15% en la proporción que representen los daños al entorno ecológico que registre.
+
+III.3.- La Secretaría publicará anualmente en el Periódico Oficial del Estado, durante el mes de enero, la composición por municipio de las variables establecidas en la fracción anterior, con base en la información que para ello le proporcione de manera tripartita, el Instituto de Información Estadística, Geográfica y Catastral del Estado de Campeche, la Secretaría de Medio Ambiente y Desarrollo Sustentable y la Secretaría de Desarrollo Social y Regional, sujetándose a lo siguiente.
+
+a) Para la medición de los daños al entorno social y ecológico deberá tomarse en cuenta los indicadores de medición establecidos por el Instituto Nacional de Estadística y Geografía INEGI, en los temas de "Medio Ambiente" y “Asentamientos Humanos y Actividades Humanas” según estos sean modificados de tiempo en tiempo o a aquellos que los sustituyan, derivado de las actividades de exploración y extracción de hidrocarburos.
+
+b) Cuando no se conozcan los precitados indicadores de medición que emite el INEGI, las precitadas instancias estatales de medición podrán apartarse de éstos y proceder conforme a las disposiciones jurídicas aplicables a la medición a través de los indicadores y sistemas que demuestren los daños al entorno social y ecológico, derivado de las actividades de exploración y extracción de hidrocarburos.
 
 ###### Artículo 39.
 
@@ -508,3 +536,19 @@ Que la LXI Legislatura del H. Congreso Constitucional del Estado Libre y Soberan
 Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los veintidós días del mes de diciembre del año dos mil catorce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, LIC. WILLIAM ROBERTO SARMIENTO URBINA.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE JULIO DE 2015.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo por lo dispuesto en el Transitorio Segundo de este mismo decreto.
+
+Segundo. Tanto el FEXHI-FOPEC, como el FEXHI-FOPEC Municipal a que se refiere los artículos 23-3 y 23-13 entrará en vigor el 1° de enero de 2016, no obstante en la elaboración de los proyectos de la Ley de Ingresos y del Presupuesto de Egresos del Estado para el ejercicio fiscal 2016, será aplicable lo dispuesto en el Artículo 23-18 de la Ley de Control Presupuestal y Responsabilidad Hacendaria del Estado de Campeche, según como el mismo se modifica en términos del Artículo Segundo del presente decreto.
+
+Tercero. La interpretación para efectos administrativos de este decreto, así como la resolución de supuestos no previstos en éste, corresponde al titular de la Secretaría de Finanzas, en el entendido de que la interpretación del presente deberá privilegiar la mejor realización de los fines y objeto del Fondo Petrolero de Campeche, conforme a su naturaleza de fideicomiso que no forma parte de la administración paraestatal.
+
+Cuarto. Para los efectos de la medición de los daños a que se refiere el artículo 38 de la Ley del Sistema de Coordinación Fiscal del Estado de Campeche, esta será de manera anualizada a partir del año 2016; no obstante para efectos de la distribución del recurso por lo que resta del año 2015, las instancias estatales referidas en ese artículo procederán a emitir su medición y enviarla a la Secretaría de Finanzas dentro de los 20 días naturales siguientes a la entrada en vigor de este decreto.
+
+Quinto. Las referencias a leyes o reglamentos en este decreto se entenderán hechas a las leyes o reglamentos según estos sean modificados de tiempo en tiempo o a aquellas leyes o reglamentos que los sustituyan.
+
+Sexto. Se derogan todas las disposiciones que se opongan al presente decreto.
