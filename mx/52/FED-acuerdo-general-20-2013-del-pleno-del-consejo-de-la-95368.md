@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-20-2013-del-pleno-del-consejo-de-la-95368"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-08-13"
-last_updated: "2014-07-04"
+last_updated: "2015-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95368&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2013-08-05"
 
 ACUERDO GENERAL 20/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA ATENCIÓN DE LAS SOLICITUDES DE CONCENTRACIÓN DE EXPEDIENTES EN LOS ÓRGANOS JUDICIALES DEL PODER JUDICIAL DE LA FEDERACIÓN, CON EXCEPCIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL TRIBUNAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JULIO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 26/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 21 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JULIO DE 2015 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 13 de agosto de 2013.
 
@@ -104,3 +106,13 @@ D.O.F. 4 DE JULIO DE 2014.
 PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 21 DE JULIO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se abroga el Acuerdo General 20/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la atención de las solicitudes de concentración de expedientes en los Órganos Judiciales del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral.
+
+CUARTO. Las solicitudes presentadas hasta antes de la entrada en vigor del presente Acuerdo, deberán tramitarse hasta su conclusión conforme a las disposiciones con las que fueron iniciadas.
