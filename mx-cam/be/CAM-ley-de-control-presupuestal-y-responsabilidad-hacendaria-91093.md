@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-control-presupuestal-y-responsabilidad-hacendaria-91093"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-26"
-last_updated: "2014-12-24"
+last_updated: "2015-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91093&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY DE CONTROL PRESUPUESTAL Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TERCERO Y CUARTO DEL DECRETO PUBLICADO EN EL P.O. DE 21 DE JULIO DE 2015, CUALQUIER REFERENCIA A "EXCEDENTES DEL FONDO DE EXTRACCIÓN DE HIDROCARBUROS" Y "EXCEDENTES DEL FONDO DE EXTRACCIÓN DE HIDROCARBUROS MUNICIPALES" SE ENTENDERÁN HECHAS A "FEXHI FOPEC" Y "FEXHI FOPEC MUNICIPAL", RESPECTIVAMENTE.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 26 de diciembre de 2012.
 
@@ -66,6 +68,10 @@ V. Secretaría: La Secretaría de Finanzas;
 VI. Contraloría: La Secretaría de la Contraloría; y
 
 VII. CIPACAM: Consejo para la Implementación del Proceso de Armonización Contable en el Estado de Campeche.
+
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2015)</small>
+
+VIII. Año Base: significa el ejercicio fiscal del 2012 o del ejercicio fiscal que establezca de tiempo en tiempo el Comité Técnico del Fondo Petrolero de Campeche, por unanimidad de sus miembros con derecho a voto.
 
 ###### Artículo 2.
 
@@ -249,15 +255,13 @@ La Secretaría deberá supervisar que la institución fiduciaria aplique el patr
 
 2.- El Fondo Petrolero de Campeche no formará parte de la administración pública paraestatal, de conformidad con lo establecido por el segundo párrafo del artículo 51 de la Ley Orgánica de la Administración Pública del Estado de Campeche, por lo que su operación se sujetará exclusivamente a lo previsto en la presente Ley, en el contrato de fideicomiso mediante el cual se constituya dicho fondo, y en las reglas de operación que emita el Comité Técnico y que se publiquen en el Periódico Oficial del Estado de Campeche. El derecho mercantil y el derecho civil serán supletorios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2015)</small>
 
 ###### Artículo 23
 
 3.- El Fondo Petrolero de Campeche tendrá por objeto concentrar, administrar, invertir y aplicar recursos que le correspondan al Estado y que sean determinados en esta Ley y en las reglas de operación, incluyendo, sin limitar:
 
-I. Los excedentes del Fondo de Extracción de Hidrocarburos, a efecto de:
+I. Los recursos derivados del “FEXHI FOPEC”, a efecto de:
 
 1. Compensar disminuciones en las participaciones que en ingresos federales le corresponden al Estado del Fondo General de Participaciones;
 
@@ -281,15 +285,21 @@ I. Los excedentes del Fondo de Extracción de Hidrocarburos, a efecto de:
 
 11. Pagar los gastos de administración y operación del Fondo Petrolero de Campeche.
 
-Durante la vigencia del Fondo Petrolero de Campeche, por "Excedentes del Fondo de Extracción de Hidrocarburos" para el ejercicio fiscal de que se trate, se entenderá la diferencia positiva entre: (i) las cantidades recibidas por el Estado de Campeche del Fondo de Extracción de Hidrocarburos, en el ejercicio fiscal de que se trate, y (ii) las cantidades publicadas por la Secretaría de Hacienda y Crédito Público de conformidad con el artículo 44 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria par a (sic) ese ejercicio fiscal.
+Por “FEXHI FOPEC” para el ejercicio fiscal de que se trate (comenzando en el ejercicio fiscal 2016), se entenderá como lo que resulte mayor entre: (A) la diferencia positiva entre: (i) las cantidades recibidas por el Estado de Campeche del Fondo de Extracción de Hidrocarburos, en el ejercicio fiscal de que se trate, y (ii) las cantidades publicadas por la Secretaría de Hacienda y Crédito Público de conformidad con el artículo 44 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria para ese ejercicio fiscal; y (B) la diferencia positiva entre: (i) las cantidades recibidas por el Estado de Campeche del Fondo de Extracción de Hidrocarburos, en el ejercicio fiscal de que se trate, y (ii) las cantidades recibidas por el Estado de Campeche del Fondo de Extracción de Hidrocarburos en el Año Base, actualizadas al ejercicio fiscal en que se efectúe el cálculo. Lo anterior en el entendido de que, para determinar un nuevo Año Base el Comité Técnico deberá considerar que las cantidades recibidas por el Estado de Campeche del Fondo de Extracción de Hidrocarburos en el nuevo Año Base no podrán ser superiores a las recibidas por el Estado en cualquiera de los tres ejercicios fiscales anteriores a dicho nuevo Año Base. Asimismo, la modificación al Año Base que determine el Comité Técnico, entrará en vigor el primero de enero del segundo ejercicio fiscal que siga a aquél en el que se hizo dicha modificación.
 
-Para evitar cualquier duda, si las cantidades recibidas por el Estado de Campeche del Fondo de Extracción de Hidrocarburos, en el ejercicio fiscal de que se trate son menores a las cantidades publicadas por la Secretaría de Hacienda y Crédito Público de conformidad con el artículo 44 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria para ese ejercicio fiscal, no habrá Excedentes del Fondo de Extracción de Hidrocarburos para dicho ejercicio fiscal; y
+La actualización a que se refiere el inciso (B) (ii) anterior, se realizará mediante la aplicación de la siguiente fórmula:
 
-II. Los recursos que le corresponden al Estado derivados del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos a que se refiere el artículo 57 de la Ley de Ingresos Sobre Hidrocarburos y demás legislación aplicable de conformidad con lo previsto en el presente Decreto y en las reglas de operación, a efecto de invertir en:
+FEXHI Estatal recibidoAño Base * (INPCúltimo disponible/INPCenero Año Base)
 
-1. Infraestructura para resarcir, entre otros fines, las afectaciones al entorno social y ecológico, y
+Donde,
 
-2. En estudios y evaluación de proyectos que cumplan con los fines específicos del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos.
+- FEXHI Estatal recibidoAño Base.- se refiere al monto recibido por el Estado por concepto de Fondo de Extracción de Hidrocarburos en el Año Base (excluyendo lo que le corresponde a los Municipios) conforme a lo establecido en la Cuenta Pública Estatal, correspondiente al Año Base.
+
+- INPCenero 2012.- se refiere al Índice Nacional de Precios al Consumidor publicado por el Instituto Nacional de Estadística y Geografía (INEGI) para el mes de enero del Año Base, del día hábil inmediato anterior al momento de realizar el cálculo para el ejercicio fiscal que corresponda.
+
+- INPCúltimo disponible.- se refiere al último Índice Nacional de Precios al Consumidor mensual publicado por el INEGI, el día hábil inmediato anterior al momento de realizar el cálculo para el ejercicio fiscal que corresponda.”
+
+II. Los recursos que le corresponden al Estado, derivados del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos a efecto de aplicar, invertir y ejercer dichos recursos conforme a lo previsto en el artículo 57 de la Ley de Ingresos sobre Hidrocarburos, las Reglas de Operación para la distribución y aplicación de los recursos del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos y cualesquier legislación aplicable, según éstas sean modificadas o sustituidas de tiempo en tiempo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
@@ -439,21 +449,19 @@ El Comité Técnico tendrá las facultades que se establecen en esta Ley, en el 
 
 12.- No obstante lo anterior, a elección del titular de la Secretaría de Finanzas, el Estado, directamente o por conducto del fiduciario del Fondo Petrolero de Campeche, podrá constituir uno o más fideicomisos adicionales, a efecto de que la adhesión de los municipios se instrumente en dichos fideicomisos, con objeto de lograr una operación eficiente del Fondo Petrolero de Campeche, en el entendido de que la participación de los municipios en dichos fideicomisos será determinada en las reglas de operación correspondientes. Dichos fideicomisos estarán sujetos a lo dispuesto en el presente Decreto, así como en el contrato de fideicomiso y en las reglas de operación respectivas, en cuyo caso las autorizaciones otorgadas al Estado respecto del Fondo Petrolero de Campeche, se entenderán otorgadas al Estado respecto de dichos fideicomisos adicionales. Para evitar cualquier duda, los fideicomisos adicionales que se constituyan en términos del presente, no serán considerados parte de la administración pública paraestatal o paramunicipal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2015)</small>
 
 ###### Artículo 23
 
 13.- El Fondo Petrolero de Campeche y/o los fideicomisos que se constituyan de conformidad con el artículo anterior, tendrá por objeto concentrar, administrar, invertir y aplicar los recursos que le corresponden a los municipios que se adhieran al Fondo Petrolero de Campeche que sean determinados mediante esta Ley y en las reglas de operación, incluyendo sin limitar:
 
-I. Los Excedentes del Fondo de Extracción de Hidrocarburos Municipales, a efecto de:
+I. Los recursos derivados del "FEXHI FOPEC Municipal", a efecto de:
 
 1. Compensar disminuciones en las participaciones que en ingresos federales le corresponden al municipio respectivo del Fondo General de Participaciones;
 
 2. Aportar, invertir y/o pagar las cantidades que sean necesarias o convenientes relacionadas con las pensiones del Instituto de Seguridad y Servicios Sociales de los Trabajadores, respecto del municipio correspondiente;
 
-3. Pagar obligaciones de seguridad social de los servidores públicos municipales;
+3. Pagar obligaciones relacionadas con las pensiones de seguridad social de los servidores públicos municipales;
 
 4. Pagar obligaciones de pasivo circulante con objeto de alcanzar y mantener niveles de obligaciones de pago adecuados;
 
@@ -473,13 +481,21 @@ I. Los Excedentes del Fondo de Extracción de Hidrocarburos Municipales, a efect
 
 12. Pagar los gastos de administración y operación del Fondo Petrolero de Campeche que le correspondan.
 
-Durante la vigencia del Fondo Petrolero de Campeche, por "Excedentes del Fondo de Extracción de Hidrocarburos Municipales" para el ejercicio fiscal de que se trate, se entenderá la diferencia positiva entre: (i) las cantidades recibidas por el municipio que corresponda de Campeche del Fondo de Extracción de Hidrocarburos, en el ejercicio fiscal de que se trate, y (ii) las cantidades determinadas por el Estado de conformidad con el artículo 44 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria para ese ejercicio fiscal y de conformidad con la Ley de Coordinación Hacendaria del Estado de Campeche. Para evitar cualquier duda, si (i) las cantidades recibidas por el municipio del Fondo de Extracción de Hidrocarburos, en el ejercicio fiscal de que se trate son menores a (ii) las cantidades determinadas por el Estado de conformidad con el artículo 44 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria para ese ejercicio fiscal y de conformidad con la Ley de Coordinación Hacendaria del Estado de Campeche, no habrá Excedentes del Fondo de Extracción de Hidrocarburos Municipales para dicho ejercicio fiscal; y
+Por "FEXHI FOPEC Municipal" para el ejercicio fiscal de que se trate (comenzando en el ejercicio fiscal 2016), se entenderá como lo que resulte mayor entre: (A) la diferencia positiva entre: (i) las cantidades recibidas por el Municipio correspondiente del Fondo de Extracción de Hidrocarburos, en el ejercicio fiscal de que se trate, y (ii) las cantidades determinadas por el Estado de conformidad con el artículo 44 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria para ese ejercicio fiscal y de conformidad con la Ley del Sistema de Coordinación Fiscal del Estado de Campeche; y (B) la diferencia positiva entre: (i) las cantidades recibidas por el Municipio que corresponda del Fondo de Extracción de Hidrocarburos, en el ejercicio fiscal de que se trate, y (ii) las cantidades recibidas por el Municipio que corresponda del Fondo de Extracción de Hidrocarburos en el Año Base, actualizadas al ejercicio fiscal en que se efectúe el cálculo. Lo anterior en el entendido de que, para determinar un nuevo Año Base el Comité Técnico deberá considerar que las cantidades recibidas por el por el (sic) Municipio correspondiente del Fondo de Extracción de Hidrocarburos en el nuevo Año Base no podrán ser superiores a las recibidas por dicho Municipio en cualquiera de los tres ejercicios fiscales anteriores a dicho nuevo Año Base. Asimismo, la modificación al Año Base que determine el Comité Técnico, entrará en vigor el primero de enero del segundo ejercicio fiscal que siga a aquél en el que se hizo dicha modificación.
 
-II. Los recursos que le corresponden al municipio correspondiente, derivados del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos a que se refiere el artículo 57 de la Ley de Ingresos Sobre Hidrocarburos y demás legislación aplicable, de conformidad con lo previsto en esta Ley y en las reglas de operación, a efecto de invertir en:
+La actualización a que se refiere el inciso (B) (ii) anterior, se realizará mediante la aplicación de la siguiente fórmula:
 
-1. Infraestructura para resarcir, entre otros fines, las afectaciones al entorno social y ecológico, y
+FEXHI Municipio recibidoAño Base * (INPCúltimo disponible/INPCenero Año Base)
 
-2. En estudios y evaluación de proyectos que cumplan con los fines específicos del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos.
+Donde,
+
+- FEXHI Municipio recibidoAño Base.- se refiere al monto recibido por el Municipio correspondiente por concepto de Fondo de Extracción de Hidrocarburos en el Año Base (excluyendo lo que le corresponde a los demás Municipios) conforme a lo establecido en la Cuenta Pública Municipal, correspondiente a dicho ejercicio fiscal.
+
+- INPCenero Año Base.- se refiere al Índice Nacional de Precios al Consumidor publicado por el Instituto Nacional de Estadística y Geografía (INEGI) para el mes de enero del Año Base, del día hábil inmediato anterior al momento de realizar el cálculo para el ejercicio fiscal que corresponda.
+
+- INPCúltimo disponible.- se refiere al último Índice Nacional de Precios al Consumidor mensual publicado por el INEGI, el día hábil inmediato anterior al momento de realizar el cálculo para el ejercicio fiscal que corresponda.
+
+II. Los recursos que le corresponden al Municipio correspondiente, derivados del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos a efecto de aplicar, invertir y ejercer dichos recursos conforme a lo previsto en el artículo 57 de la Ley de Ingresos sobre Hidrocarburos, las Reglas de Operación para la distribución y aplicación de los recursos del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos y cualesquier legislación aplicable, según éstas sean modificadas o sustituidas de tiempo en tiempo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
@@ -503,6 +519,10 @@ II. Los recursos que le corresponden al municipio correspondiente, derivados del
 
 15.- El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas, podrá gestionar, negociar y acordar los demás términos y condiciones que se estimen necesarios o convenientes, y firmar y suscribir los convenios, contratos y demás documentos que sean necesarios o convenientes, para instrumentar el Fondo Petrolero de Campeche al amparo de esta Ley, así como celebrar y llevar a cabo los demás actos contemplados en la misma, incluyendo sin limitar, modificar, revocar o cancelar instrucciones, registros, notificaciones o avisos girados con anterioridad para la afectación de los derechos y recursos derivados de los Excedentes del Fondo de Extracción de Hidrocarburos y del Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos, o bien llevar a cabo nuevas instrucciones, notificaciones registros o avisos que sean necesarios o convenientes ante autoridades Federales, Estatales o Municipales
 
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2015)</small>
+
+Sin perjuicio del párrafo anterior el Fondo Petrolero de Campeche, únicamente podrá ser modificado previa autorización del Comité Técnico adoptado por unanimidad de sus miembros con derecho a voto.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
@@ -519,25 +539,17 @@ II. Los recursos que le corresponden al municipio correspondiente, derivados del
 
 17.- Corresponderá a la Auditoria Superior del Estado evaluar el desempeño del Fondo Petrolero de Campeche y fiscalizar su operación, conforme a la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Campeche y a las demás disposiciones jurídicas aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JULIO DE 2015)</small>
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+### Capítulo II Séptimus. Presupuestación del Fondo de Extracción de Hidrocarburos
 
-### Capítulo II Séptimus. Destino de ciertos recursos derivados del Fondo de Extracción de Hidrocarburos
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2015)</small>
 
 ###### Artículo 23
 
-18.- Los recursos del Fondo de Extracción de Hidrocarburos correspondientes al Estado (excluyendo a los municipios) que representan la diferencia positiva entre: (i) las cantidades publicadas por la Secretaría de Hacienda y Crédito Público de conformidad con el artículo 44 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, en el ejercicio fiscal de que se trate, o cualquier otro que lo sustituya; y (ii) las cantidades recibidas por el Estado de Campeche del Fondo de Extracción de Hidrocarburos en el ejercicio fiscal del 2012, actualizadas al ejercicio fiscal en que se efectúe el cálculo, deberán ser destinados a pagos derivados de inversión pública productiva, según dicho término se define en la Ley de Deuda Pública del Estado de Campeche y sus Municipios; así como también podrán ser destinados para el pago de las contrapartes estatales a Convenios Federales.
+18.- El Estado de Campeche a través de la Secretaría de Finanzas, deberá, de conformidad con la ley aplicable, proponer en el proyecto de Ley de Ingresos para cada ejercicio fiscal (i) como ingresos de libre disposición por concepto del Fondo de Extracción de Hidrocarburos las cantidades recibidas por el Estado de Campeche del Fondo de Extracción de Hidrocarburos en el ejercicio fiscal correspondiente al Año Base, actualizadas al ejercicio fiscal en que se efectúe el cálculo. Dicha actualización, se deberá calcular conforme a la fórmula prevista en el artículo 23-3; y (ii) como ingresos afectados al Fondo Petrolero de Campeche, las cantidades que sean recibidas por el Estado del Fondo de Extracción de Hidrocarburos por encima de lo presupuestado en la Ley de Ingresos conforme a lo descrito en la sección (i) anterior. Dichas cantidades deberán ser transferidas al Fondo Petrolero de Campeche para cumplir con su objeto.
 
-La actualización a que se refiere el inciso (ii) anterior, se realizará mediante la aplicación de la siguiente fórmula:
-
-> <small>N. DE E. VÉASE FORMULA EN EL P.O. DE 24 DE DICIEMBRE DE 2014, PÁGINA 92.</small>
-
-Para evitar cualquier duda, si las cantidades publicadas por la Secretaría de Hacienda y Crédito Público de conformidad con el artículo 44 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, en el ejercicio fiscal de que se trate son menores a las cantidades recibidas por el Estado de Campeche del Fondo de Extracción de Hidrocarburos en el ejercicio fiscal del 2012, actualizado al ejercicio fiscal en que se efectúe el cálculo, mediante la aplicación de la fórmula descrita en el párrafo anterior, entonces no habrán recursos definidos en este artículo de la presente Ley.
+Los Municipios adheridos al Fondo Petrolero de Campeche deberán, de conformidad con los artículos 54 bis de la Constitución Política del Estado de Campeche, 16 de la Ley de Hacienda de los Municipios del Estado de Campeche y demás legislación aplicable, proponer en sus respectivos proyectos de Ley de Ingresos para cada ejercicio fiscal (i) como ingresos de libre disposición por concepto del Fondo de Extracción de Hidrocarburos que les corresponda, las cantidades recibidas por el Municipio del Fondo de Extracción de Hidrocarburos en el ejercicio fiscal correspondiente al Año Base, actualizadas al ejercicio fiscal en que se efectúe el cálculo. Dicha actualización, se deberá calcular conforme a la fórmula prevista en el artículo 23-13 y (ii) como ingresos afectados al Fondo Petrolero de Campeche, únicamente en caso de aquellos Municipios adheridos al Fondo Petrolero de Campeche, las cantidades que sean recibidas por el Municipio correspondiente del Fondo de Extracción de Hidrocarburos por encima de lo presupuestado en la Ley de Ingresos conforme a lo descrito en la sección (i) anterior. Dichas cantidades deberán ser transferidas al Fondo Petrolero de Campeche para cumplir con su objeto.
 
 ### Capítulo III. Del Ejercicio del Presupuesto
 
@@ -974,3 +986,17 @@ Segundo. La interpretación para efectos administrativos de este decreto, así c
 Tercero. Las referencias a leyes o reglamentos en este decreto se entenderán hechas a las leyes o reglamentos según estos sean modificados de tiempo en tiempo, o a aquellas leyes o reglamentos que los substituyan.
 
 Cuarto.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 21 DE JULIO DE 2015.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo por lo dispuesto en el Transitorio Segundo de este mismo decreto.
+
+Segundo. Tanto el FEXHI-FOPEC, como el FEXHI-FOPEC Municipal a que se refiere (sic) los artículos 23-3 y 23-13 entrará en vigor el 1° de enero de 2016, no obstante en la elaboración de los proyectos de la Ley de Ingresos y del Presupuesto de Egresos del Estado para el ejercicio fiscal 2016, será aplicable lo dispuesto en el Artículo 23-18 de la Ley de Control Presupuestal y Responsabilidad Hacendaria del Estado de Campeche, según como el mismo se modifica en términos del Artículo Segundo del presente decreto.
+
+Tercero. La interpretación para efectos administrativos de este decreto, así como la resolución de supuestos no previstos en éste, corresponde al titular de la Secretaría de Finanzas, en el entendido de que la interpretación del presente deberá privilegiar la mejor realización de los fines y objeto del Fondo Petrolero de Campeche, conforme a su naturaleza de fideicomiso que no forma parte de la administración paraestatal.
+
+Cuarto.- Para los efectos de la medición de los daños a que se refiere el artículo 38 de la Ley del Sistema de Coordinación Fiscal del Estado de Campeche, esta será de manera anualizada a partir del año 2016; no obstante para efectos de la distribución del recurso por lo que resta del año 2015, las instancias estatales referidas en ese artículo procederán a emitir su medición y enviarla a la Secretaría de Finanzas dentro de los 20 días naturales siguientes a la entrada en vigor de este decreto.
+
+Quinto.- Las referencias a leyes o reglamentos en este decreto se entenderán hechas a las leyes o reglamentos según estos sean modificados de tiempo en tiempo o a aquellas leyes o reglamentos que los sustituyan.
+
+Sexto.- Se derogan todas las disposiciones que se opongan al presente decreto.
