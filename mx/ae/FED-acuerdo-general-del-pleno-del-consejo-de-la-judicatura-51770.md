@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2015-06-01"
+last_updated: "2015-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JULIO DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -195,9 +195,53 @@ Los jueces de distrito que participen en los concursos para la designación de m
 
 El Consejo, a través del Instituto o del órgano designado por el Pleno, deberá expedir y entregar las constancias necesarias que acrediten fehacientemente el lugar, día y hora en que los servidores públicos realizaron su inscripción, sustentaron los exámenes, aprobaron los cursos y, en su caso, asistieron a los cursos propedéuticos correspondientes.
 
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 21 DE JULIO DE 2015)</small>
+
 ###### Artículo 20.
 
-(DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DEROGA EL ARTÍCULO 20 DEL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 20 DE NOVIEMBRE DE 2013)
+El Pleno podrá reincorporar a quien, habiendo ocupado el cargo de magistrado de Circuito o de juez de Distrito se hubiese separado de él, por motivos personales o por cualquier otra causa que no constituye un impedimento insalvable.
+
+Para la reincorporación se deberá observar lo siguiente:
+
+I. Quien haya ocupado el cargo de juez de Distrito o magistrado de Circuito deberá presentar ante la Comisión, por una sola ocasión, la solicitud de reincorporación en la última categoría desempeñada;
+
+II. La solicitud de reincorporación, debe formularse por escrito de manera respetuosa y motivada, a la que se acompañará:
+
+a) Currículum Vitae;
+
+b) Constancia de las actividades profesionales desarrolladas durante el tiempo en que ha estado separado del cargo; y
+
+c) Constancia de las actividades académicas realizadas en ese periodo;
+
+III. Recibida la solicitud, la Comisión:
+
+a) Formará y registrará el expediente bajo el número que le corresponda;
+
+b) Ordenará que se publique el inicio del procedimiento de reincorporación por una vez en el Diario Oficial de la Federación; e instruirá la colocación, por un período de cinco días hábiles, de avisos del citado procedimiento en el portal de internet del Consejo y en los estrados y lugares más visibles de los órganos jurisdiccionales ubicados en el o los circuitos en los que el solicitante se hubiera desempeñado como titular.
+
+Lo anterior, a efecto de hacer saber al público en general, el nombre de la persona que solicita su reincorporación para que, dentro del improrrogable plazo de cinco días hábiles contados a partir del siguiente al de la publicación en el Diario Oficial de la Federación, cualquier persona pueda formular por escrito, de manera respetuosa, las observaciones u objeciones que estime pertinentes en relación con esa solicitud;
+
+c) Comunicará el inicio del trámite al solicitante respectivo; le entregará un ejemplar de la guía de estudio aprobada para los concursos internos de oposición de la plaza a reincorporar, y lo citará para que en la fecha, hora y lugar que determine, presente examen escrito de conocimientos, elaborado con base en la guía de estudio;
+
+d) Una vez que se realice el examen a que se refiere el inciso anterior, entrevistará al solicitante en la fecha, hora y lugar que determine. De esta diligencia se levantará acta circunstanciada y se hará registro de audio e imagen;
+
+e) Requerirá al Contralor del Poder Judicial de la Federación para que rinda un informe de la evolución de la situación patrimonial del solicitante durante el tiempo en que se desempeñó como titular de (sic) órgano jurisdiccional;
+
+f) Requerirá a la Dirección General de Recursos Humanos para que remita en original o copia el expediente personal del solicitante;
+
+g) Ordenará recabar la información estadística sobre la actividad del solicitante en los órganos jurisdiccionales en que se hubiese desempeñado como titular;
+
+h) Requerirá a la Secretaría Ejecutiva de Disciplina los resultados de las visitas de inspección practicadas, de los informes circunstanciados rendidos y de los procedimientos administrativos disciplinarios incoados en contra del solicitante; y
+
+i) Turnará el expediente al Consejero Presidente de la Comisión a fin de que elabore el dictamen correspondiente para someterlo al Pleno;
+
+IV. El Pleno, en la sesión correspondiente evaluará el desempeño que el solicitante tuvo en su trayectoria dentro del Poder Judicial de la Federación, la conducta observada en su actuación, la fama pública de que goce después de separado del cargo, su preparación profesional, así como la conveniencia de su reincorporación. La decisión en el sentido de aceptar la reincorporación al cargo de juez de Distrito o magistrado de Circuito, según el caso, deberá tomarse por al menos cinco votos; y
+
+V. Aprobada la reincorporación y una vez que se designe el órgano jurisdiccional de adscripción, el funcionario deberá rendir la protesta que exige el artículo 97 de la Constitución.
+
+No procederá la reincorporación si el motivo de separación fue la incapacidad total y permanente expedida por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; o cuando la causa de separación hubiera derivado de actos constitutivos de delito, de reiteradas faltas a la moral o a la disciplina, o alguna otra que se considere totalmente incompatible con la función jurisdiccional, tales como las señaladas en las fracciones I a VI del artículo 131 de la Ley.
+
+La determinación de improcedencia o negativa adoptada será definitiva e inatacable, por lo que, en su contra, no procederá recurso alguno.
 
 ### Capítulo II. De la Adscripción
 
@@ -771,9 +815,9 @@ De aprobar el examen de aptitud, los aspirantes a los cargos de actuario y secre
 
 La circunstancia de que un Magistrado de Circuito o Juez de Distrito adquiera alguno de los parentescos por afinidad o civil, a que se refiere la fracción XI del artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos con alguno de los servidores públicos adscritos al mismo órgano jurisdiccional del que sea titular, no hace cesar el nombramiento respectivo, previamente expedido, ni impide que los funcionarios involucrados continúen en el disfrute de sus derechos laborales; con excepción del caso de que se trate del matrimonio celebrado por el titular con uno de esos servidores públicos.
 
-> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 21 DE JULIO DE 2015)</small>
 
-En el caso de que en algún órgano jurisdiccional se hubiere extendido un nombramiento de base o interino, en las categorías de secretario de Juzgado; o de Tribunal de Circuito; de actuario de los mismos; o bien de Asistente de Constancias y Registro de Tribunal de Alzada, de juez de control, o de juez de enjuiciamiento; a persona o personas que fueren cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado de algún titular; éste no podrá a su vez, extender nombramientos en los mismos términos respecto de personas que resultaren cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado del titular del órgano donde se encuentren adscritos sus allegados. El titular que designe en alguno de los citados cargos a personas que se ubiquen en los supuestos citados, deberá dar aviso de esa circunstancia a la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal.
+En el caso de que en algún órgano jurisdiccional se hubiere extendido un nombramiento de base, interino, o de confianza a persona o personas que fueren cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado de algún titular; éste no podrá a su vez, extender nombramientos de ningún tipo, respecto de personas que resultaren cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado del titular del órgano donde se encuentren adscritos sus allegados. El titular que designe en cualquier cargo a personas que se ubiquen en los supuestos citados, deberá dar aviso de esa circunstancia a la Dirección General de Recursos Humanos.
 
 > <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 20 DE JULIO DE 2010)</small>
 
@@ -1922,6 +1966,26 @@ CUARTO. Se abrogan los Lineamientos relativos a la revisión de vehículos como 
 QUINTO. La Secretaría Ejecutiva de Administración y la Coordinación de Seguridad del Poder Judicial de la Federación deberán revisar el impacto de la medida de prescindir de la revisión vehicular en los contratos celebrados en materia de seguridad, a fin de que, en su caso, se lleven a cabo las adecuaciones contractuales respectivas.
 
 D.O.F. 1 DE JUNIO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 21 DE JULIO DE 2015.
+
+ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES POR EL QUE SE REFORMA EL ARTÍCULO 72.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Los nombramientos, cualquiera que sea su naturaleza, otorgados con anterioridad a la entrada en vigor del presente Acuerdo, que se encuentren en las nuevas hipótesis del artículo 72 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales, continuarán sus efectos con todas sus consecuencias jurídicas hasta su conclusión.
+
+En todo caso, los titulares de los órganos jurisdiccionales deberán dar aviso a la Dirección General de Recursos Humanos de la existencia de los nombramientos a que se refiere el párrafo anterior.
+
+D.O.F. 21 DE JULIO DE 2015.
+
+ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES POR EL QUE SE REFORMA EL ARTÍCULO 20.
 
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
