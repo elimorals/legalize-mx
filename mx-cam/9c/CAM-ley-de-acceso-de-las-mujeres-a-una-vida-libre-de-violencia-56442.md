@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5644
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2014-06-11"
+last_updated: "2015-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON TRANSITORIO PRIMERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 21 DE JULIO DE 2015, ENTRA EN VIGOR QUINCE DÍAS DESPUÉS DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -131,11 +133,13 @@ V. Violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sex
 
 VI. Violencia Política.- Es cualquier acto u omisión que limite, niegue, obstaculice, lesione, dañe la integridad y libertad de las mujeres a ejercer en plenitud sus derechos políticos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 11 DE JUNIO DE 2014)</small>
+VII. Violencia Obstétrica.- Es toda acción u omisión por parte del personal médico y de salud, que dañe, lastime, denigre o cause la muerte a la mujer durante el embarazo, parto y puerperio; así como la negligencia en su atención médica que se exprese en un trato deshumanizado, en un abuso de medicalización y patologización de los procesos naturales, trayendo consigo pérdida de autonomía y capacidad de decidir libremente sobre sus cuerpos (sic) y sexualidad; considerando como tales la omisión de la atención oportuna y eficaz de las emergencias obstétricas; practicar el parto por vía de cesárea, existiendo condiciones para el parto natural; el uso de métodos anticonceptivos o esterilización sin que medie el consentimiento voluntario, expreso e informado de la mujer; así como obstaculizar sin causa médica justificada el apego precoz del niño o niña con su madre, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer;
 
-VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 2015)</small>
+
+VIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ## TÍTULO SEGUNDO. MODALIDADES DE LA VIOLENCIA EN CONTRA DE LAS MUJERES
 
@@ -632,5 +636,11 @@ SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que 
 P.O. 11 DE JUNIO DE 2014.
 
 PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
+
+P.O. 21 DE JULIO DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
