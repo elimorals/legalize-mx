@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-adquisiciones-arrendamientos-contratacion-de-10975"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-13"
-last_updated: "2011-08-10"
+last_updated: "2015-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHH"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA “LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA”, PUBLICADA EN EL P.O. EL 23 DE DICIEMBRE DE 2000, SE DEROGAN TODAS LAS DISPOSICIONES REFERENTES A LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA CONTENIDOS EN LA “LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA”, PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 13 DE SEPTIEMBRE DE 1997 Y SUS POSTERIORES REFORMAS.]</small>
+> <small>[N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA "LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA", PUBLICADA EN EL P.O. EL 23 DE DICIEMBRE DE 2000, SE DEROGAN TODAS LAS DISPOSICIONES REFERENTES A LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA CONTENIDOS EN LA "LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA", PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 13 DE SEPTIEMBRE DE 1997 Y SUS POSTERIORES REFORMAS.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2015.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 13 de septiembre de 1997.
 
@@ -155,7 +155,7 @@ En el ámbito del Poder Ejecutivo, la Secretaría y la Contraloría dictarán la
 
 Lo propio harán el Poder Legislativo en su ámbito interior, a través de sus órganos de administración, y los Ayuntamientos por conducto de los órganos facultados conforme al Código Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
@@ -178,6 +178,10 @@ Se podrá contratar fuera del procedimiento de licitación pública: la realizac
 ###### Artículo 11.
 
 Los entes públicos a que se refiere el artículo 1, se abstendrán de formalizar o modificar pedidos y contratos en las materias que regula esta Ley, si no hubiera partida expresa y saldo disponible en sus respectivos presupuestos.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2015)</small>
+
+En las adquisiciones, arrendamientos y contratación de servicios derivados de contrataciones plurianuales, cuya vigencia rebase un ejercicio presupuestario, los entes públicos deberán determinar tanto el presupuesto total como el relativo a los ejercicios de que se trate; en la formulación de los presupuestos de los ejercicios subsecuentes se considerarán los costos que, en su momento, se encuentren vigentes, y se dará prioridad a las previsiones para el cumplimiento de las obligaciones contraídas en ejercicios anteriores.
 
 ###### Artículo 12.
 
@@ -321,7 +325,7 @@ El documento que contenga los programas será de carácter informativo; no supon
 
 Por cada Entidad, Dependencia u Organismo existirá un Comité de Adquisiciones, Arrendamientos y Servicios, en el ámbito de competencia estatal. En los Municipios existirá un Comité en cada uno de ellos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 26.
 
@@ -361,9 +365,13 @@ V. Analizar exclusivamente para su opinión, los dictámenes emitidos por el req
 
 VI. Emitir el fallo con base en el dictamen elaborado por el requirente de la adquisición, el arrendamiento o la prestación del servicio; y
 
-> <small>(F. DE E., P.O. 10 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2015)</small>
 
-VII. Coadyuvar al cumplimiento de esta Ley y demás disposiciones aplicables.
+VII. Revisar y, en su caso, recomendar la celebración de contratos plurianuales.
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2015)</small>
+
+VIII. Coadyuvar al cumplimiento de esta Ley y demás disposiciones aplicables.
 
 > <small>(F. DE E., P.O. 10 DE DICIEMBRE DE 1997)</small>
 
@@ -407,7 +415,7 @@ a) La invitación a cuando menos tres proveedores o contratistas según sea el c
 
 b) La adjudicación directa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### Artículo 32.
 
@@ -621,7 +629,7 @@ Se podrán rescindir administrativamente los contratos en caso de incumplimiento
 
 Asimismo, se podrán dar por terminados anticipadamente los contratos por razones de interés general fundadas, dando aviso al proveedor o contratista, cuando menos con cinco días naturales de anticipación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 42.
 
@@ -665,7 +673,7 @@ En los procedimientos que lleven a cabo los entes públicos para la contratació
 
 Existiendo igualdad de condiciones, el pedido o contrato se asignará en todo caso a proveedores con domicilio fiscal en el Estado, considerándose que existe igualdad de condiciones, cuando haya como máximo una diferencia del 8% con relación al mejor precio ofertado, siempre y cuando éste haya sido presentado por un proveedor foráneo o que sólo cuente con sucursales en el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2007)</small>
 
 ###### Artículo 44.
 
@@ -807,7 +815,7 @@ Los entes públicos estarán obligados a mantener los bienes adquiridos o arrend
 
 Para ello, en los actos o contratos de adquisiciones, arrendamientos o servicios, deberán estipular las condiciones que garanticen su correcta operación y funcionamiento; el aseguramiento del bien o bienes de que se trate para garantizar su integridad hasta el momento de su entrega y, en caso de ser necesario, la capacitación del personal que operará los equipos.
 
-> <small>[N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA “LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA”, PUBLICADA EN EL P.O. EL 23 DE DICIEMBRE DE 2000, SE DEROGAN TODAS LAS DISPOSICIONES REFERENTES A LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA CONTENIDOS EN LA “LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA”, PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 13 DE SEPTIEMBRE DE 1997 Y SUS POSTERIORES REFORMAS.]</small>
+> <small>[N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA "LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA", PUBLICADA EN EL P.O. EL 23 DE DICIEMBRE DE 2000, SE DEROGAN TODAS LAS DISPOSICIONES REFERENTES A LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA CONTENIDOS EN LA "LEY DE ADQUISICIONES, ARRENDAMIENTOS, CONTRATACIÓN DE SERVICIOS Y OBRA PÚBLICA DEL ESTADO DE CHIHUAHUA", PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 13 DE SEPTIEMBRE DE 1997 Y SUS POSTERIORES REFORMAS.]</small>
 
 ### Capítulo III. De los Procedimientos y Contratos de Obra Pública
 
@@ -1189,7 +1197,7 @@ III. Los plazos para las diversas etapas del procedimiento se sujetarán para ca
 
 ### Capítulo Unico
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 104.
 
@@ -1199,7 +1207,7 @@ De igual manera, lo harán los Municipios cuando la adquisición, el arrendamien
 
 Para tal efecto, conservarán en forma ordenada y sistemática toda la documentación comprobatoria de dichos actos y contratos, cuando menos por un lapso de seis años, contados a partir de la fecha en que se hubiere recibido los bienes o las obras; o prestado el servicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 105.
 
@@ -1227,7 +1235,7 @@ El resultado de las comprobaciones se hará constar en un dictamen que será fir
 
 ### Capítulo Unico. De las Infracciones y Sanciones
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 108.
 
@@ -1335,11 +1343,11 @@ En contra de las resoluciones que se dicten en el ámbito del Poder Ejecutivo y 
 
 Tratándose de resoluciones emanadas de la administración municipal y su sector paramunicipal, deberá estarse a los recursos y procedimientos contemplados en el Código Municipal.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
 
 ## TÍTULO SÉPTIMO. DE LOS PROYECTOS DE INVERSIÓN PÚBLICA A LARGO PLAZO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
 
 ### Capítulo I. Procedimiento de Contratación Disposiciones Generales
 
@@ -1355,7 +1363,7 @@ Las disposiciones del presente Título, únicamente serán aplicables para los p
 
 El Poder Ejecutivo, a través de sus dependencias, los Organismos Públicos Descentralizados y los Municipios, bajo su estricta responsabilidad, deberán contratar proyectos de inversión pública a largo plazo, mediante el procedimiento de licitación pública.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
 
 ### Capítulo II. Licitación Pública
 
@@ -1393,7 +1401,7 @@ IV. Emisión del dictamen técnico económico: en un término de hasta veinte d�
 
 V. Notificación del fallo: en un plazo de hasta cinco días hábiles a partir de la emisión del dictamen técnico económico.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
 
 ### Capítulo III. Convocatorias y Bases
 
@@ -1481,7 +1489,7 @@ La Junta de Aclaraciones tendrá por objeto esclarecer aquellos aspectos de la c
 
 Cualquier modificación a las bases de la licitación, derivada de la Junta de Aclaraciones, será considerada como parte de aquéllas.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
 
 ### Capítulo IV. Presentación y Apertura de las Proposiciones
 
@@ -1531,7 +1539,7 @@ El Comité emitirá y notificará el fallo dentro de un plazo no mayor a cinco d
 
 Las convocantes no podrán recibir proposiciones o celebrar contratación alguna, con las personas físicas o morales a que se refiere el artículo 42 de esta Ley, exceptuando a las señaladas en la fracción IX del mismo.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTIÍCULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
 
 ### Capítulo V. Declaración Desierta y Fallo de la Licitación
 
@@ -1585,7 +1593,7 @@ Los participantes en un procedimiento de licitación podrán promover inconformi
 
 La inconformidad administrativa se presentará por escrito ante la Secretaría de la Contraloría o el Ayuntamiento, según sea el caso, dentro de los diez días hábiles siguientes a la fecha en que se dé a conocer públicamente el fallo de adjudicación, en caso de que el inconforme haya asistido al acto de adjudicación o, en su defecto, al día en que le haya sido notificado el fallo de adjudicación.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
 
 ### Capítulo VI. Formalización del Contrato
 
@@ -1651,7 +1659,7 @@ II. Para el cumplimiento de los contratos, cuando menos el diez por ciento sobre
 
 Las infracciones por contravenir las disposiciones del presente Título, así como la aplicación de las sanciones correspondientes, se regirán por lo establecido en el Título Quinto de la presente Ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2011)</small>
 
 ### Capítulo VII. Rescisión Administrativa de los Contratos
 
@@ -1850,5 +1858,11 @@ El Ejecutivo del Estado expedirá la reglamentación que se requiera para la ade
 P.O. 10 DE AGOSTO DE 2011.
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE JULIO DE 2015.
+
+###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
