@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-presupuesto-de-egresos-contabilidad-gubernamental-y-9698
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-28"
-last_updated: "2015-04-29"
+last_updated: "2015-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PRESUPUESTO DE EGRESOS, CONTABILIDAD GUBERNAMENTAL Y GASTO PÚBLICO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2015.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 28 de diciembre de 2013.
 
@@ -373,7 +373,9 @@ VII. Ingresos y gastos realizados, tanto en el último ejercicio fiscal como el 
 
 VIII. Situación de la deuda pública al término del último ejercicio fiscal; estimación de los montos del ejercicio en curso y del siguiente.
 
-IX. Situación que guardan las obligaciones de pago plurianuales derivadas de los Proyectos de Inversión Pública a Largo Plazo.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2015)</small>
+
+IX. Situación que guardan las obligaciones de pago plurianuales derivadas de los Proyectos de Inversión Pública a Largo Plazo, así como las de gasto que se autoricen en los términos del artículo 46-BIS de esta Ley.
 
 X. Los tabuladores desglosados de las remuneraciones que se propone perciban los servidores públicos, sujetándose a las bases contenidas en el artículo 165 bis de la Constitución Política del Estado.
 
@@ -444,6 +446,28 @@ II. Ingresos adicionales que excedan al 5% de los presupuestos de egresos.
 Ningún gasto podrá efectuarse sin que exista partida expresa en el presupuesto de egresos y tenga el saldo suficiente para cubrirlo.
 
 Las obligaciones de pago derivadas de los Proyectos de Inversión Pública a Largo Plazo, deberán quedar debidamente identificadas en la partida presupuestal correspondiente.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2015)</small>
+
+###### ARTÍCULO 46
+
+BIS. Los entes públicos y los municipios podrán celebrar contratos plurianuales de obras públicas, adquisiciones, arrendamientos o servicios durante el ejercicio fiscal, siempre que:
+
+I. Justifiquen que su celebración representa ventajas económicas o que sus términos o condiciones son más favorables.
+
+II. Justifiquen el plazo de la contratación y que el mismo no afectará negativamente la competencia económica en el sector de que se trate.
+
+III. Identifiquen el gasto corriente o de inversión correspondiente.
+
+IV. Desglosen el gasto a precios del año tanto para el ejercicio fiscal correspondiente, como para los subsecuentes.
+
+En la administración centralizada se requerirá la autorización presupuestaria de la Secretaría para la celebración de los contratos a que se refiere este artículo. En el caso de las entidades paraestatales, estas se sujetarán a la autorización de su titular conforme a las disposiciones generales aplicables, que emita la Secretaría.
+
+Las dependencias de la administración centralizada y las entidades paraestatales deberán informar a la Secretaría de la Contraloría sobre la celebración de los contratos a que se refiere este artículo, dentro de los 30 días posteriores a su formalización.
+
+Los Poderes Legislativo y Judicial y los entes autónomos, a través de sus respectivas unidades de administración o su equivalente, podrán autorizar la celebración de contratos plurianuales siempre y cuando cumplan lo dispuesto en este artículo y emitan normas generales para su justificación y autorización.
+
+En los informes trimestrales se deberá incluir un reporte sobre el monto total erogado durante el periodo, correspondiente a los contratos a que se refiere este artículo, así como incluir las previsiones correspondientes en los proyectos de presupuesto para los siguientes ejercicios fiscales, en los términos del artículo 36 de esta Ley.
 
 ###### ARTÍCULO 47.
 
@@ -1564,3 +1588,9 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 ###### ARTÍCULO SEGUNDO.
 
 Por lo que hace a la reforma constitucional contenida en el Artículo Primero del presente Decreto, esta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. El contenido de los Artículos Segundo, Tercero y Cuarto del presente Decreto, surtirán vigencia un día después de que lo haga la reforma constitucional señalada.
+
+P.O. 22 DE JULIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
