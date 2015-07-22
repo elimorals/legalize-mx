@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2014-12-24"
+last_updated: "2015-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2015.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -1533,7 +1533,7 @@ En la investigación y persecución de los demás delitos del fuero común, la i
 
 ### CAPÍTULO II. DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2015)</small>
 
 ###### Artículo 50.
 
@@ -1781,8 +1781,6 @@ I. El Tribunal Constitucional.
 
 II. Las salas regionales colegiadas.
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
 III. Los juzgados de Primera Instancia, dentro de los cuales se entenderán como tales a los:
 
 a) Juzgados de Control y Tribunales de Enjuiciamiento.
@@ -1799,15 +1797,11 @@ VII. Los juzgados municipales.
 
 VIII. El Centro Estatal de Justicia Alternativa.
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
 IX. El Instituto de la Defensoría Pública.
-
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2014)</small>
 
 El Tribunal Constitucional residirá en la capital del Estado, sus atribuciones serán las establecidas en esta Constitución y en el Código, funcionará en Pleno y en Sala, en sesiones públicas y por excepción secretas en los casos en que así lo exijan la moral y el interés público y tomarán resoluciones por mayoría de votos.
 
-Se integra por cinco magistrados que durarán en su encargo nueve años y podrán ser reelectos para ejercer un siguiente periodo consecutivo.
+El Tribunal Constitucional, en Pleno se integrará por cinco magistrados que durarán en su encargo nueve años y podrán ser reelectos para ejercer un siguiente periodo consecutivo.
 
 El Presidente del Tribunal Constitucional lo será también del Tribunal Superior de Justicia, quien será electo por el Pleno cada tres años con posibilidades de reelección y a él corresponderá la administración del Tribunal Constitucional.
 
@@ -1815,21 +1809,7 @@ El Presidente del Tribunal Superior de Justicia será el Titular del Poder Judic
 
 Los magistrados del Tribunal Constitucional serán nombrados por el Pleno del Congreso del Estado o la Comisión Permanente en su caso, a propuesta del Titular del Poder Ejecutivo, con la aprobación de las dos terceras partes de sus integrantes.
 
-> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2014)</small>
-
 La competencia del Tribunal Constitucional en Pleno y en Sala, se regirán por lo que dispongan las leyes de conformidad con las bases que esta constitución establece.
-
-> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2014)</small>
-
-El Tribunal Constitucional en Pleno, se integrará por los cinco magistrados, con excepción de la fracción VIII del artículo 63 de esta Constitución.
-
-> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2014)</small>
-
-Para efectos de la atribución establecida en la fracción VIII del artículo 63 de esta Constitución, el Tribunal Constitucional se constituirá en Sala, la cual estará integrada por cuatro de sus magistrados, designando de entre ellos a su presidente y en caso de empate, tendrá voto de calidad. El Presidente del Tribunal Constitucional, no integrará Sala.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2012)</small>
 
 Los magistrados que integren las Salas Regionales Colegiadas y las Especializadas en Justicia para Adolescentes del Tribunal Superior de Justicia, durarán en sus funciones seis años, con posibilidad de ser reelectos en los términos del Código de Organización del Poder Judicial. La adscripción de los magistrados del Tribunal Superior de Justicia, a excepción de los del Tribunal Constitucional, será acordada por el Consejo de la Judicatura.
 
@@ -1843,17 +1823,9 @@ El Tribunal Superior de Justicia contará con un órgano de mediación, concilia
 
 El Director General del Centro Estatal de Justicia Alternativa será nombrado por el Consejo de la Judicatura a propuesta del Titular del Ejecutivo, para la designación de los demás servidores públicos del Centro, se nombrarán dentro de aquéllos que aprueben satisfactoriamente el curso de formación para mediadores, conciliadores y árbitros, mediante un proceso riguroso de oposición. Las bases, requisitos y procedimientos serán establecidos por el Consejo de la Judicatura.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
 El Instituto de la Defensoría Pública del Estado de Chiapas, tiene como fin garantizar el acceso real y equitativo del derecho a la defensa pública adecuada y a la justicia mediante la orientación, asesoría y representación jurídica a la población más desprotegida del Estado, que no se encuentra en condiciones económicas de atender por su cuenta los gastos de un proceso jurisdiccional, contribuyendo a superar desigualdades sociales y a consolidar el estado de derecho. La Ley de la defensoría Pública del Estado de Chiapas regirá lo respectivo a la organización, atribuciones y funcionamiento del Instituto.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2012)</small>
-
 El Tribunal Constitucional elaborará su proyecto de presupuesto, el Consejo de la Judicatura lo hará para el resto del Poder Judicial en los términos previstos por esta Constitución, el Código y demás legislación aplicable; los proyectos elaborados y aprobados por cada uno de los órganos facultados para hacerlo, serán incluidos dentro del proyecto de presupuesto del Poder Judicial y remitidos directamente por el Consejo de la Judicatura al Congreso del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2012)</small>
 
 Para garantizar la efectividad del Sistema de Justicia Acusatorio, el Tribunal Superior de Justicia contará además, con órganos cuya actuación se regirá bajo los principios de publicidad, contradicción, concentración, continuidad, e inmediación, en las formas que la ley de la materia determine.
 
@@ -2003,9 +1975,7 @@ VI. Designar al miembro del Consejo de la Judicatura y al magistrado del Tribuna
 
 VII. Conocer de los asuntos que por su interés o transcendencia así lo ameriten a petición fundada del Procurador General de Justicia del Estado.
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2014)</small>
-
-VIII. Conocer y resolver, en segunda instancia, del recurso de revisión en materia administrativa y demás casos que establezcan las leyes aplicables de la materia.
+VIII. (DEROGADA, P.O. 22 DE JULIO DE 2015)
 
 IX. Las demás atribuciones que les confieran esta Constitución y la ley.
 
@@ -2591,43 +2561,99 @@ Las Adiciones y Reformas de la presente Constitución, aprobadas por el Constitu
 
 Esta constitución es la Ley fundamental del Estado por lo que se refiere a su régimen interior y nadie podrá ser dispensado de acatar sus preceptos, los cuales no perderán su fuerza y vigencia, aún cuando por cualquier circunstancia se interrumpa su observancia.
 
-###### ARTICULO 97.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JULIO DE 2015)</small>
 
-En el caso de la fracción V del artículo 76 de la Constitución General de la República, asumirá el Poder Ejecutivo, en su orden, el último Presidente del Tribunal Superior de Justicia y los Magistrados en su orden numérico.
+## TÍTULO DÉCIMO SEXTO. DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 1933)</small>
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2015)</small>
 
-###### ARTICULO 98.
+###### Artículo 97.
 
-En el caso de la fracción V del artículo 76 de la Constitución General, asumirá el Poder Ejecutivo en su orden el Presidente Municipal de la Capital, el Presidente Municipal de Chiapa de Corzo, el Presidente Municipal de Tapachula, el Presidente Municipal de Comitán, el Presidente Municipal de Ocozocoautla de Espinosa, con la protesta que tiene otorgada y siempre que reúnan los requisitos para ser Gobernador.
+Corresponde al Tribunal de Justicia Administrativa, conocer y resolver en segunda instancia, del recurso de revisión en materia administrativa y demás casos que establezcan las leyes aplicables de la materia.
 
-###### ARTICULO 99.
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2015)</small>
 
-La ciudadanía no se suspende ni la vecindad se pierde por ausencia en el desempeño de cargos públicos del Estado o de la Federación o en el estudio de alguna ciencia o arte.
+###### Artículo 98.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+El Tribunal de Justicia Administrativa es un organismo constitucional autónomo, de carácter permanente, con personalidad jurídica y patrimonio propios, independiente en sus decisiones, y será la máxima autoridad jurisdiccional en la materia, con la jurisdicción y competencia que determine esta Constitución y su Ley orgánica respectiva.
 
-###### ARTICULO 100.
+Su organización y funcionamiento estarán regulados en la Ley orgánica respectiva.
 
-La construcción de obras públicas las hará el Ejecutivo por administración o por contrato, en este último caso serán adjudicados en subasta y mediante convocatoria, para que se presenten proposiciones en sobre cerrado y que será abierto en junta pública.
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+###### Artículo 99.
 
-###### ARTICULO 101.
+El Tribunal de Justicia Administrativa residirá en la capital del Estado, sus atribuciones serán las establecidas en esta Constitución y en la Ley Orgánica respectiva, funcionará en Pleno y estará conformado por tres magistrados.
 
-Los impuestos del Estado serán cobrados en forma directa por las oficinas hacendarias, quedando estrictamente prohibido rematar los mismos.
+El Presidente del Tribunal de Justicia Administrativa, será electo por el Pleno del mismo, cada tres años, con posibilidades de reelección y a él corresponderá la administración de dicho Tribunal.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
+Los tres magistrados integrantes del Tribunal de Justicia Administrativa, serán designados por el Titular del Poder Ejecutivo, y ratificados por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, o en sus recesos, por la Comisión Permanente. Durarán en su encargo 9 años, y podrán ser reelectos para ejercer un siguiente periodo consecutivo.
 
-###### ARTICULO 102.
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2015)</small>
 
-A ningún funcionario ni empleado público se le concederá licencia con goce de sueldo, salvo el caso de enfermedad legalmente comprobada.
+###### Artículo 100.
 
-###### ARTICULO 103.
+El magistrado presidente comparecerá y rendirá anualmente, ante el Congreso del Estado, un informe sobre el estado que guardan los asuntos de su competencia, en los términos que establezca la Ley orgánica.
 
-Todos las contratas (sic) que el Ejecutivo tenga que celebrar para la construcción de obras públicas serán adjudicadas en subasta y mediante convocatoria para que se presenten proposiciones en sobre cerrado, que será abierto en junta pública.
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2015)</small>
 
-> <small>N. DE E. ES DE OBSERVARSE QUE EN EL DECRETO No. 9 PUBLICADO EN P.O. 21 DE MARZO DE 1953, EL LEGISLADOR SEÑALA LA REFORMA AL PRESENTE ARTICULO, SIN EMBARGO, LA MISMA NO COINCIDE CON EL TEXTO QUE A LA FECHA TENIA ESTE, POR LO CUAL SE TRANSCRIBE DICHA REFORMA A LA LETRA, PARA LOS EFECTOS A QUE HAYA LUGAR.</small>
+###### Artículo 101.
+
+El Tribunal de Justicia Administrativa, expedirá su Reglamento Interno, así como los acuerdos generales para su adecuado funcionamiento, en los términos que señale la Ley orgánica respectiva.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2015)</small>
+
+###### Artículo 102.
+
+Para ser magistrado del Tribunal de Justicia Administrativa se requiere:
+
+I. Ser ciudadano chiapaneco, mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos, así como tener su domicilio en el Estado.
+
+II. Tener cuando menos 35 años cumplidos al día de su designación.
+
+III. Poseer al día de su nombramiento, con antigüedad mínima de 10 años, título universitario y cédula profesional de licenciado en derecho, expedidas por autoridad o institución legalmente facultada para ello.
+
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite una pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza, y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
+
+V. No ser ministro de culto religioso, salvo que se separe del cargo, dos años antes del día de su nombramiento.
+
+VI. No haber sido designado Secretario de Estado, Procurador General de Justicia del Estado, Senador, Diputado Federal, Diputado Local, o Presidente Municipal, a menos que se haya separado del cargo dos años antes del día de su nombramiento.
+
+VII. Haber residido en el país durante los dos años anteriores al día de su designación.
+
+VIII. Los demás requisitos que señale la Ley orgánica.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2015)</small>
+
+###### Artículo 103.
+
+El Tribunal de Justicia Administrativa, es competente para conocer:
+
+I. De los juicios contenciosos administrativos promovidos en contra de las resoluciones definitivas que pronuncien las autoridades de las dependencias y entidades del Poder Ejecutivo estatal o municipal, en funciones administrativas o fiscales, de conformidad a lo dispuesto por la Ley de Procedimientos Administrativos para el Estado.
+
+II. De los juicios en contra de las resoluciones pronunciadas por las autoridades administrativas en materia fiscal que favorezcan a los particulares en detrimento de la hacienda pública estatal o municipal.
+
+III. De los juicios en contra de actos administrativos que las autoridades de la Administración Pública del Estado dicten, ordenen, ejecuten o traten de ejecutar, en agravio de personas físicas o morales.
+
+IV. De los juicios en contra de los actos administrativos de la Administración Pública Paraestatal del Estado, cuando actúen con el carácter de autoridades.
+
+V. De los juicios en contra de las resoluciones definitivas dictadas por la Administración Pública del Estado, en las que se determine la existencia de una obligación fiscal, se fije ésta en cantidad líquida o se den las bases para su liquidación, nieguen la devolución de un ingreso indebidamente percibido o cualesquiera otras que causen agravio en materia fiscal.
+
+VI. De los juicios en contra de la falta de contestación de las mismas autoridades, dentro de un término de treinta días naturales, a las promociones presentadas ante ellas por los particulares, a menos que las leyes y reglamentos fijen otros plazos o la naturaleza del asunto lo requiera.
+
+VII. De los juicios en contra de resoluciones negativas fictas, que se configurarán transcurridos cuatro meses a partir de la recepción por parte de las autoridades demandadas competentes de la última promoción presentada por él o los demandantes, a menos que las leyes fijen otros plazos.
+
+VIII. De los juicios en que se demande la resolución positiva o afirmativa ficta, cuando la establezcan expresamente las disposiciones legales aplicables y en los plazos en que éstas lo determinen.
+
+IX. De los juicios en que se impugne la negativa de la autoridad a certificar la configuración de la afirmativa ficta, cuando así lo establezcan las leyes.
+
+X. De las quejas por incumplimiento de las sentencias que dicten.
+
+XI. Del recurso de reclamación en contra de los acuerdos de trámite del mismo Tribunal.
+
+XII. De los juicios que promuevan las autoridades para que sean nulificadas las resoluciones favorables a las personas físicas o morales.
+
+XIII. De los demás que expresamente señalen ésta u otras Leyes.
 
 ###### ARTICULO 104.
 
@@ -4516,3 +4542,27 @@ P.O. 24 DE DICIEMBRE DE 2014.
 Artículo Primero.- El presente Decreto entrará en vigor el día posterior a su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE JULIO DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ESTABLECE LA VIGÉSIMA QUINTA REFORMA A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Artículo Tercero.- Dentro del plazo de sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto, deberán llevarse a cabo las reformas a los ordenamientos legales aplicables, a fin de adecuarlas a lo previsto en este Decreto; así como expedirse la Ley orgánica respectiva.
+
+En tanto se expidan las disposiciones legales, reglamentarias y acuerdos generales, seguirán siendo aplicadas las que se encuentran vigentes a la entrada en vigor del presente Decreto, salvo en los casos en que se opongan al mismo.
+
+Artículo Cuarto.- A partir de que se realicen las reformas a la normatividad correspondiente, los expedientes o asuntos administrativos en segunda instancia que se encuentran en trámite o bajo cualquier concepto en el Tribunal Constitucional, y que no estén totalmente concluidos, deberán remitirse al Tribunal de Justicia Administrativa, a efecto que se que se (sic) continúe con su substanciación.
+
+Los asuntos serán tramitados y resueltos conforme a las normas aplicables vigentes al momento de su interposición.
+
+Artículo Quinto.- El órgano autónomo que por este Decreto se crea, deberá integrarse a más tardar dentro de los 30 días hábiles siguientes a la entrada en vigor del presente Decreto, y comenzará a ejercer sus atribuciones a partir de que entren en vigor las normas previstas en la ley de la materia.
+
+Artículo Sexto.- El Congreso del Estado aprobará el presupuesto necesario para que el Tribunal de Justicia Administrativa sea creado, y cumpla cabalmente con el objeto del mismo.
+
+Artículo Séptimo.- El Magistrado Presidente deberá ser designado en la primera sesión del Pleno del Tribunal de Justicia Administrativa.
+
+Artículo Octavo.- Una vez que entre en vigor en nuestra Entidad Federativa, el Sistema Local Anticorrupción, el Tribunal de Justicia Administrativa será el Órgano competente que asumirá las atribuciones establecidas en la legislación correspondiente. Para lo cual, se llevará a cabo las adecuaciones necesarias a la normatividad en la materia.
