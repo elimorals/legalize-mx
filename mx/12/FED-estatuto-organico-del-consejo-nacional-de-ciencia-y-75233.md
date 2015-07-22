@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-ciencia-y-75233"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-06-10"
-last_updated: "2015-03-27"
+last_updated: "2015-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75233&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2010-05-13"
 
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2015.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 22 DE JULIO DE 2015, EN TODAS AQUELLAS DISPOSICIONES EN LAS QUE SE HAGA REFERENCIA A LA DIRECCIÓN ADJUNTA DE PLANEACIÓN Y COOPERACIÓN INTERNACIONAL DEBERÁ ENTENDERSE COMO LA DIRECCIÓN ADJUNTA DE PLANEACIÓN Y EVALUACIÓN, SALVO AQUELLAS ACCIONES QUE SE REFIERAN A TEMAS DE CARÁCTER INTERNACIONAL EN CUYO CASO CORRESPONDERÁN A LA DIRECCIÓN DE COOPERACIÓN INTERNACIONAL.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JULIO DE 2015.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 10 de junio de 2010.
 
@@ -359,7 +361,9 @@ d) Centros de Investigación.
 
 e) Desarrollo Regional.
 
-f) Planeación y Cooperación Internacional, y
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2015)</small>
+
+f) Planeación y Evaluación, y;
 
 g) Unidad de Asuntos Jurídicos.
 
@@ -367,7 +371,13 @@ V. Secretaría Ejecutiva de la CIBIOGEM.
 
 VI. Coordinación de Proyectos, Comunicación e Información Estratégica.
 
-VII. Organo Interno de Control.
+> <small>(ADICIONADA, D.O.F. 22 DE JULIO DE 2015)</small>
+
+VII. Dirección de Cooperación Internacional.
+
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 2015)</small>
+
+VIII. Órgano Interno de Control.
 
 > <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
@@ -609,9 +619,13 @@ Presentar, para opinión de la Junta de Gobierno, los proyectos de iniciativas d
 
 X. Ejercer la Vicepresidencia de la CIBIOGEM, presidiendo las sesiones en ausencia del Presidente, coadyuvar con la CIBIOGEM y con su Secretaría Ejecutiva en el ejercicio de sus funciones, y realizar las demás actividades que le encomiende la CIBIOGEM, en los términos de la LBOGM y demás disposiciones aplicables.
 
-XI. Coordinar a través de la Dirección Adjunta de Planeación y Cooperación Internacional, las reuniones de seguimiento del PECITI.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE JULIO DE 2015)</small>
 
-Revisar y analizar, a través de la Oficialía mayor y de la Dirección Adjunta de Planeación y Cooperación Internacional, de manera conjunta con la SHCP, el proyecto consolidado de presupuesto anual de las dependencias y entidades de la administración pública federal en materia de ciencia, tecnología e innovación, en el marco del comité intersecretarial para la integración del presupuesto federal en ciencia, tecnología e innovación establecido en la LCYT.
+XI. Coordinar a través de la Dirección Adjunta de Planeación y Evaluación, las reuniones de seguimiento del PECITI.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2015)</small>
+
+Revisar y analizar, a través de la Oficialía Mayor y de la Dirección Adjunta de Planeación y Evaluación, de manera conjunta con la SHCP, el proyecto consolidado de presupuesto anual de las dependencias y entidades de la administración pública federal en materia de ciencia, tecnología e innovación, en el marco del comité intersecretarial para la integración del presupuesto federal en ciencia, tecnología e innovación establecido en la LCYT.
 
 Nombrar conjuntamente con la SHCP, al Secretario Técnico del Comité Intersecretarial para la Integración del Presupuesto Federal en Ciencia, Tecnología e Innovación.
 
@@ -675,7 +689,9 @@ g) Un Representante de la Secretaría de Salud.
 
 h) El Secretario Técnico de la Mesa Directiva del Foro.
 
-i) El Titular de la Dirección Adjunta de Planeación y Cooperación Internacional.
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2015)</small>
+
+i) El Titular de la Dirección Adjunta de Planeación y Evaluación.
 
 j) El Titular de la Dirección Adjunta de Desarrollo Científico.
 
@@ -841,7 +857,9 @@ II. Formular, diseñar, coordinar, evaluar y dar seguimiento, en el ámbito de s
 
 Impulsar la participación de organizaciones que fomenten las actividades de investigación científica básica y aplicada, para el fortalecimiento del Sistema Nacional de Ciencia, Tecnología e Innovación así como establecer políticas que apoyen la infraestructura científica.
 
-Planear y realizar estudios de prospectiva nacional, en coordinación con la Dirección Adjunta de Planeación y Cooperación Internacional para identificar las necesidades, oportunidades y soluciones en materia de desarrollo científico, así como formular sus políticas y estrategias en beneficio del país.
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2015)</small>
+
+Planear y realizar estudios de prospectiva nacional, en coordinación con la Dirección Adjunta de Planeación y Evaluación para identificar las necesidades, oportunidades y soluciones en materia de desarrollo científico, así como formular sus políticas y estrategias en beneficio del país.
 
 Procurar la atención de las demandas específicas de las dependencias y entidades de la administración pública federal, a través de los apoyos que otorga el CONACYT y coadyuvar con la comunidad científica en la identificación de las áreas de conocimiento prioritarias.
 
@@ -855,7 +873,9 @@ Verificar el cumplimiento de las condiciones establecidas en las convocatorias, 
 
 Apoyar a los comités y comisiones de evaluación de los fondos establecidos en la LCYT, para la selección y coordinación de los grupos de expertos que se requieran en términos (sic) la naturaleza y enfoque de las propuestas presentadas en las convocatorias que para el efecto se emitan.
 
-Implementar las acciones para instrumentar el proceso de evaluación de los proyectos que apoye de manera directa o a través de los fondos a su cargo, así como coadyuvar en la obtención de información para realizar, en coordinación con la Dirección Adjunta de Planeación y Cooperación Internacional, la evaluación de impacto de sus programas.
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2015)</small>
+
+Implementar las acciones para instrumentar el proceso de evaluación de los proyectos que apoye de manera directa o a través de los fondos a su cargo, así como coadyuvar en la obtención de información para realizar, en coordinación con la Dirección Adjunta de Planeación y Evaluación, la evaluación de impacto de sus programas.
 
 V. Conducir la operación del SNI, en los términos de las disposiciones legales y administrativas aplicables. El titular de la Dirección Adjunta fungirá como Secretario Ejecutivo del SNI, y podrá proponer modificaciones al reglamento.
 
@@ -867,7 +887,9 @@ Coadyuvar para la conformación de la Red Nacional de Grupos y Centros de Invest
 
 VII. Diseñar, ejecutar y evaluar un sistema nacional de estímulos e incentivos para la formación y consolidación de investigadores, tecnólogos y grupos de investigadores en cualquiera de sus ramas y especialidades, en el marco de los programas destinados a la creación, desarrollo y consolidación de la ciencia básica o aplicada, llevando a cabo el seguimiento, control y evaluación de los parámetros que permitan medir el impacto de los resultados.
 
-VIII. Implementar, en el ámbito de su competencia, acuerdos de colaboración científica, tanto nacionales como internacionales, coadyuvando en el caso de internacionales con la Dirección Adjunta de Planeación y Cooperación Internacional.
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 2015)</small>
+
+VIII. Implementar en el ámbito de su competencia acuerdos de colaboración científica, tanto nacionales como internacionales, coadyuvando en el caso de internacionales con la Dirección de Cooperación Internacional.
 
 IX. Apoyar en la integración y la coordinación de los comités intersectoriales y de vinculación que, en materia de ciencia, se requieran en cumplimiento a la LCYT.
 
@@ -907,13 +929,19 @@ Diseñar, coordinar y ejecutar esquemas que propicien la generación de propieda
 
 VI. Propiciar la formación de alianzas y redes públicas y/o privadas regionales, nacionales o internacionales, que tengan como objetivo el desarrollo tecnológico y la innovación, fomentando la participación del Sistema Nacional de Centros Públicos de Investigación.
 
-VII. Implementar las acciones para instrumentar el proceso de evaluación de los proyectos que apoye de manera directa o a través de los fondos a su cargo, así como coadyuvar en la obtención de información para realizar, en coordinación con la Dirección Adjunta de Planeación y Cooperación Internacional, la evaluación de impacto de sus programas.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE JULIO DE 2015)</small>
+
+VII. Implementar las acciones para instrumentar el proceso de evaluación de los proyectos que apoye de manera directa o a través de los fondos a su cargo, así como coadyuvar en la obtención de información para realizar, en coordinación con la Dirección Adjunta de Planeación y Evaluación, la evaluación de impacto de sus programas.
 
 Promover las acciones de fomento, coordinación, supervisión y evaluación técnica de los programas, estímulos fiscales y otros estímulos en materia de investigación, desarrollo tecnológico e innovación, en el marco de las disposiciones legales y administrativas aplicables.
 
-VIII. Implementar, en el ámbito de su competencia, acuerdos de colaboración tecnológica o de innovación, tanto nacionales como internacionales, coadyuvando en el caso de internacionales con la Dirección Adjunta de Planeación y Cooperación Internacional.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE JULIO DE 2015)</small>
 
-Coordinar y operar las acciones de los instrumentos de cooperación en tecnología e innovación en el ámbito nacional o internacional, en este último en coordinación con la Dirección Adjunta de Planeación y Cooperación Internacional.
+VIII. Implementar en el ámbito de su competencia acuerdos de colaboración tecnológica o de innovación, tanto nacionales como internacionales, coadyuvando en el caso de internacionales con la Dirección de Cooperación Internacional.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2015)</small>
+
+Coordinar y operar las acciones de los instrumentos de cooperación en tecnología e innovación en el ámbito nacional o internacional, en este último en coordinación con la Dirección de Cooperación Internacional.
 
 Propiciar la realización de estudios de prospectiva nacionales e internacionales, y colaborar con las unidades, para identificar las necesidades y soluciones en materia de desarrollo tecnológico e innovación, así como formular y proponer estrategias, políticas y esquemas de innovación y desarrollo tecnológico.
 
@@ -931,9 +959,13 @@ I. Formular y financiar programas de becas y en general de apoyo a la formación
 
 II. Establecer las políticas y ejecutar los programas que propicien el fomento, la formación, el desarrollo y la vinculación de recursos humanos de alto nivel en el país, atendiendo las prioridades locales y regionales a través de los instrumentos establecidos en la LCYT.
 
-Establecer programas y alianzas estratégicas con instituciones de educación superior y organismos, nacionales e internacionales, que permitan formar y desarrollar la capacidad científica y tecnológica del país, en el caso de internacionales en coordinación con la Dirección Adjunta de Planeación y Cooperación Internacional.
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2015)</small>
 
-Implementar, en el ámbito de su competencia, acuerdos de colaboración en materia de formación de recursos humanos de alto nivel, tanto nacionales como internacionales, coadyuvando en el caso de internacionales con la Dirección Adjunta de Planeación y Cooperación Internacional.
+Establecer programas y alianzas estratégicas con instituciones de educación superior y organismos, nacionales e internacionales, que permitan formar y desarrollar la capacidad científica y tecnológica del país, en el caso de internacionales en coordinación con la Dirección de Cooperación Internacional.
+
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2015)</small>
+
+Implementar en el ámbito de su competencia acuerdos de colaboración en materia de formación de recursos humanos de alto nivel, tanto nacionales como internacionales, coadyuvando en el caso de internacionales con la Dirección de Cooperación Internacional.
 
 III. Coordinar y ejecutar acciones de promoción y fomento de jóvenes talentos mexicanos con vocación para la investigación científica, el desarrollo tecnológico y la innovación del país, así como incentivar la participación y desarrollo de nuevas generaciones de investigadores y tecnólogos.
 
@@ -951,11 +983,15 @@ VII. Brindar la asesoría necesaria en materia de fomento, formación, desarroll
 
 Brindar la asesoría necesaria en materia de capital humano científico y tecnológico, en el marco de los fondos regulados por la LCYT, y participar, en su caso, en la instrumentación de los diversos apoyos que se otorguen en la materia.
 
-VIII. Recabar y proporcionar información suficiente, oportuna y transparente, relacionada con el fomento, formación, desarrollo y vinculación de los recursos humanos de alto nivel apoyados por los programas del CONACYT, que permitan satisfacer las necesidades de información de instancias externas e internas así como evaluar los resultados e impacto de estos programas en coordinación con la Dirección Adjunta de Planeación y Cooperación Internacional.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE JULIO DE 2015)</small>
+
+VIII. Recabar y proporcionar información suficiente, oportuna y transparente, relacionada con el fomento, formación, desarrollo y vinculación de los recursos humanos de alto nivel apoyados por los programas del CONACYT, que permitan satisfacer las necesidades de información de instancias externas e internas así como evaluar los resultados e impacto de estos programas en coordinación con la Dirección Adjunta de Planeación y Evaluación.
 
 Llevar a cabo procesos de evaluación de los apoyos que se otorgan en materia de formación de recursos humanos de alto nivel para que los mismos se efectúen de manera oportuna y eficiente.
 
-IX. Planear y realizar estudios de prospectiva nacional, en coordinación con la Dirección Adjunta de Planeación y Cooperación Internacional para identificar las necesidades, oportunidades y soluciones en materia de Formación de Recursos Humanos de Alto Nivel, así como formular sus políticas y estrategias en beneficio del país.
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 2015)</small>
+
+IX. Planear y realizar estudios de prospectiva nacional, en coordinación con la Dirección Adjunta de Planeación y Evaluación para identificar las necesidades, oportunidades y soluciones en materia de Formación de Recursos Humanos de Alto Nivel, así como formular sus políticas y estrategias en beneficio del país.
 
 X. Coadyuvar en la formulación y modificación de la normatividad interna en lo relativo a las funciones de su competencia e interpretar la misma, incluyendo la generada con anterioridad a la entrada en vigor de la LOCNCT, así como resolver los casos no previstos en materia de apoyos relacionados con el fomento, formación, desarrollo y consolidación de recursos humanos o de becas en sus diferentes modalidades.
 
@@ -1037,69 +1073,101 @@ VII. Promover la incorporación del componente regional, estatal y municipal en 
 
 VIII. Impulsar la realización de estudios, diagnósticos y análisis sobre desarrollo regional.
 
-IX. Coadyuvar con la Dirección Adjunta de Planeación y Cooperación Internacional, en las acciones necesarias para la evaluación de los programas e instrumentos que coordine la Dirección Adjunta.
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 2015)</small>
+
+IX. Coadyuvar con la Dirección Adjunta de Planeación y Evaluación, en las acciones necesarias para la evaluación de los programas e instrumentos que coordine la Dirección Adjunta.
 
 X. Coordinar la operación, funcionamiento y seguimiento de las Direcciones Regionales.
 
 El CONACYT con el objeto de fortalecer el Sistema Nacional de Ciencia y Tecnología a través de la desconcentración y regionalización, contará con Direcciones Regionales. Al frente de cada una de éstas, estará un Director Regional quien tendrá un nivel de Director de Area, propuesto por el Director General; dichas contarán con los recursos humanos y materiales necesarios para el desarrollo de sus actividades de conformidad con las disponibilidades presupuestarias del CONACYT.
 
-> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2015)</small>
 
 ###### Artículo 31.
 
-Corresponde a la Dirección Adjunta de Planeación y Cooperación Internacional:
+Corresponde a la Dirección Adjunta de Planeación y Evaluación:
 
-I. Coordinar la formulación de las políticas nacionales en materia de ciencia, tecnología e innovación, expresándolas en el PECITI.
+I. Planear la realización de las actividades pertinentes para presentar la información y los documentos requeridos para la formulación, revisión y adecuación del Plan Nacional de Desarrollo en coordinación con las Direcciones Adjuntas, homólogas y la Unidad de Asuntos Jurídicos del CONACYT.
 
-Integrar el Programa Anual de Trabajo del CONACYT, verificando su congruencia y articulación con el Plan Nacional de Desarrollo, el PECITI, el programa institucional y, en su caso, otros programas sectoriales.
+II. Coordinar la formulación de las políticas nacionales en materia de ciencia, tecnología e innovación, expresándolas en el PECITI y proponer a la Dirección General su presentación al Consejo General de Investigación Científica, Desarrollo Tecnológico e Innovación.
 
-II. Elaborar el apartado de ciencia, tecnología e innovación de los informes Presidenciales de Gobierno y de Ejecución del Plan Nacional de Desarrollo.
+III. Dirigir la elaboración y revisión periódica del Programa Institucional de mediano plazo, así como establecer los procedimientos necesarios para verificar su congruencia y articulación con el Plan Nacional de Desarrollo, el PECITI y otros programas sectoriales.
 
-Identificar, en coordinación con la Dirección Adjunta de Posgrado y Becas, las necesidades de capital humano de los sectores de la sociedad, regiones y entidades federativas del país, con base en las vocaciones, diagnósticos locales y regionales, así como en el PECITI, para atenderlas a través de los programas o subprogramas de recursos humanos de alto nivel del CONACYT. Así como participar en la elaboración y actualización del inventario de capital humano científico y tecnológico.
+IV. Integrar el Programa Anual de Trabajo del CONACYT, verificando su congruencia y articulación con el Plan Nacional de Desarrollo, el PECITI, el Programa Institucional y, en su caso, otros programas sectoriales.
 
-Integrar los informes relacionados con el objeto del CONACYT.
+V. Elaborar el apartado de ciencia, tecnología e innovación de los informes Presidenciales de Gobierno el cual deberá contener la información de la cuenta sectorial del Gasto Federal de Ciencia y Tecnología que forma parte del Informe Presidencial.
 
-III. Acopiar, procesar, analizar y difundir sistemáticamente la información de las actividades de ciencia y tecnología en México, y elaborar anualmente los Indicadores de las Actividades Científicas y Tecnológicas, así como la Cuenta Nacional de Ciencia, Tecnología e Innovación para su revisión y análisis integral y de congruencia global.
+VI. Identificar, en coordinación con la Dirección Adjunta de Posgrado y Becas, las necesidades de capital humano de los sectores de la sociedad, regiones y entidades federativas del país, con base en las vocaciones, diagnósticos locales y regionales, así como en el PECITI, para atenderlas a través de los programas o subprogramas de recursos humanos de alto nivel del CONACYT. Así como participar en la elaboración y actualización del inventario de capital humano científico y tecnológico.
 
-Elaborar y publicar anualmente el Informe General del Estado de la Ciencia, la Tecnología y la Innovación en México, y coordinar otros estudios de análisis y prospectiva que apoyen la formulación de políticas nacionales de ciencia, tecnología e innovación.
+VII. Dirigir la elaboración de los informes de autoevaluación, semestrales y anuales, del CONACYT solicitados por la Secretaría de la Función Pública y aprobados por la Junta de Gobierno.
 
-Diseñar las estadísticas e indicadores de ciencia, tecnología e innovación conforme a las normas internacionales, así como medir los resultados y beneficios de los recursos federales asignados al sector de ciencia, tecnología e innovación.
+VIII. Coordinar la integración del informe anual al Congreso de la Unión sobre el estado que guarda el ramo del CONACYT, dando cuenta del avance y grado de cumplimiento de los objetivos y prioridades fijados en la planeación nacional que le corresponda y de los resultados de las acciones previstas.
 
-IV. Definir la política integral de los sistemas de información del CONACYT, estableciendo las estrategias, prioridades y acciones de supervisión necesarias. Para ello contará con un comité asesor, el cual presidirá, y que estará integrado por los usuarios de los sistemas, por los desarrolladores de las soluciones así como por la Oficialía Mayor, debiendo rendir un informe de actividades al Grupo Directivo del Consejo.
+IX. Coordinar la elaboración de los informes sobre el cumplimiento de los compromisos presidenciales que establezca el Ejecutivo Federal en materia de ciencia, tecnología e innovación.
 
-V. Llevar a cabo el seguimiento y evaluación del desempeño del sector ciencia, tecnología e innovación en el marco del PECITI, conforme a las disposiciones legales aplicables.
+X. Dirigir en coordinación con la Dirección Adjunta de Desarrollo Regional la elaboración de la publicación anual de la Actividad del CONACYT por Entidad Federativa.
 
-Integrar y coordinar la implementación del Programa Anual de Evaluación del CONACYT, vigilando el cumplimiento de la normatividad establecida en la materia para los programas públicos federales, así como para las dependencias y entidades de la administración pública federal.
+XI. Acopiar, procesar, analizar y difundir sistemáticamente la información de las actividades de ciencia y tecnología en México, y elaborar anualmente los Indicadores de las Actividades Científicas y Tecnológicas, así como la Cuenta Nacional de Ciencia, Tecnología e Innovación para su revisión y análisis integral y de congruencia global.
 
-Evaluar los resultados y el impacto de los programas y proyectos gubernamentales de ciencia, tecnología e innovación coordinados por el CONACYT, de acuerdo con el programa anual de evaluación que al efecto se establezca.
+XII. Elaborar y publicar anualmente el Informe General del Estado de la Ciencia, la Tecnología y la Innovación en México, y coordinar otros estudios de análisis y prospectiva que apoyen la formulación de políticas nacionales de ciencia, tecnología e innovación.
 
-VI. Participar en la planeación de los procesos de elaboración de convocatorias, términos de referencia y diseño de indicadores que lleven a cabo las unidades responsables de la operación de los programas y fondos CONACYT, a fin de garantizar la alineación de estos instrumentos con los sistemas de información del CONACYT y los programas anuales de evaluación.
+XIII. Diseñar las estadísticas e indicadores de ciencia, tecnología e innovación conforme a las normas internacionales, así como medir los resultados y beneficios de los recursos federales asignados al sector de ciencia, tecnología e innovación.
 
-Apoyar al Consejo General en la integración y la coordinación de los comités intersectoriales y de vinculación en materia de ciencia, tecnología e innovación, para el cumplimiento de la LCYT.
+XIV. Asesorar, conjuntamente con otras unidades administrativas, a los Consejos Estatales de Ciencia y Tecnología en la elaboración de sus sistemas de contabilidad del gasto en ciencia y tecnología, para construir series históricas de datos, homogéneas y comparables, según la metodología OCDE y en los temas relevantes de la ciencia y tecnología.
 
-VII. Administrar el SINECYT, emitiendo los criterios y mecánica para su funcionamiento previa aprobación de la Junta de Gobierno.
+XV. Coordinar la realización de encuestas para la obtención de información requerida por el CONACYT para la generación y mantenimiento de las bases de datos.
 
-VIII. Participar en los diferentes organismos internacionales relacionados con los asuntos de política científica, tecnológica e innovación.
+XVI. Coordinar la participación del CONACYT ante el grupo de expertos en indicadores de ciencia y tecnología de la OCDE, ante la Red Iberoamericana de Indicadores de Ciencia y Tecnología y otras instancias internacionales de estadísticas en la materia.
 
-Representar al CONACYT, en la planeación, elaboración de estadísticas e indicadores, así como en los ámbitos en que sea requerido, con el Instituto Nacional de Estadística y Geografía, entre otros.
+XVII. Definir la política integral de los sistemas de información del CONACYT, estableciendo las estrategias, prioridades y acciones de supervisión necesarias. Para ello contará con un comité asesor, el cual presidirá, y que estará integrado por los usuarios de los sistemas, por los desarrolladores de las soluciones así como por la Oficialía Mayor, debiendo rendir un informe de actividades al Grupo Directivo del Consejo.
 
-IX. Coadyuvar en el establecimiento de prioridades y criterios de asignación del gasto en ciencia, tecnología e innovación del Ramo Presupuestal del CONACYT.
+XVIII. Coordinar, dentro del ámbito de competencia del CONACYT y de las Dependencias y Entidades del Gobierno Federal, el informe de los resultados que se hayan obtenido en materia de ciencia y tecnología como consecuencia de la ejecución del Plan Nacional de Desarrollo.
 
-Participar, en coordinación con la Oficialía Mayor, en la integración de la propuesta de estructura programática a emplear en cada ejercicio presupuestal.
+XIX. Llevar a cabo la instrumentación, coordinación, ejecución, operación, seguimiento y evaluación anual del PECITI desempeño del sector ciencia, tecnología e innovación en el marco del PECITI, conforme a las disposiciones legales aplicables.
 
-X. Administrar el SIICYT, así como coordinar el establecimiento de convenios de colaboración entre el CONACYT y diferentes instancias para el desarrollo de sistemas de información a fin de que sean incorporados al mismo.
+XX. Integrar y coordinar la implementación del Programa Anual de Evaluación del CONACYT, vigilando el cumplimiento de la normatividad establecida en la materia para los programas públicos federales, así como para las dependencias y entidades de la administración pública federal.
 
-XI. Coadyuvar con la Unidad de Asuntos Jurídicos en la elaboración de las reglas de operación de los programas del CONACYT.
+XXI. Evaluar los resultados y el impacto de los programas y proyectos gubernamentales de ciencia, tecnología e innovación coordinados por el CONACYT, de acuerdo con el programa anual de evaluación que al efecto se establezca.
 
-XII. Apoyar al Director General en el diseño y ejecución de las políticas de cooperación internacional en materia de ciencia, tecnología e innovación, en coordinación con las unidades del CONACYT, brindando el seguimiento, respecto de la ejecución de convenios concertados por el CONACYT con agencias internacionales y otros países.
+XXII. Apoyar las actividades relacionadas con el diseño y revisión de la Matriz de Indicadores de Resultados de los programas presupuestarios del CONACYT, en el marco del proceso de Planeación, Programación e Integración del Presupuesto de Egresos de la Federación.
 
-Participar con la SRE de manera directa o en coordinación con las Unidades del CONACYT, tanto en la asesoría como en las negociaciones correspondientes con organismos internacionales, homólogos y dependencias gubernamentales involucradas en programas bilaterales de investigación científica, desarrollo tecnológico e innovación, así como en la asesoría que en su caso proceda respecto a la celebración de tratados y convenios internacionales en estas materias.
+XXIII. Difundir y verificar la aplicación de la metodología de evaluación de programas científicos y tecnológicos, en particular, los procesos para la inducción, integración, impacto, evaluación, seguimiento y rendición de cuentas de los proyectos que concursen en los Fondos y programas del CONACYT.
 
-Representar al CONACYT en las reuniones internacionales cuando así lo determine el Director General y promover en coordinación con las Unidades del Consejo, las acciones de cooperación científica, tecnológica y de innovación que fortalezcan al Sistema Nacional de Ciencia y Tecnología, incluyendo la cooperación y fuentes de financiamiento.
+XXIV. Elaborar el Informe Anual de Evaluación del Sistema Nacional de Ciencia y Tecnología, el cual debe incluir la evaluación del impacto socioeconómico de los proyectos apoyados por los Fondos y los diferentes programas y proyectos gubernamentales de ciencia y tecnología, incluyendo las actividades del Sistema de Centros Públicos CONACYT.
 
-Apoyar al Director General en coordinación con las Unidades del Consejo en la concertación de acuerdos y acciones de carácter internacional que permitan el apoyo a los programas de formación de recursos humanos de alto nivel y de intercambio de personas que realicen actividades de investigación científica, desarrollo tecnológico o innovación.
+XXV. Coordinar el diseño de los lineamientos e indicadores para que los elementos que se consideren en la evaluación ex-ante de proyectos (operada por las unidades administrativas sustantivas) puedan ser cuantificados en la evaluación ex–post.
 
-En coordinación con las Unidades del CONACYT, fungir como enlace entre la comunidad científica internacional y el Consejo, para la concertación o ejecución de acuerdos o convenios que involucren la realización de proyectos conjuntos en materia de investigación científica, desarrollo tecnológico e innovación, así como coadyuvar, en el ámbito de su competencia, en la constitución, funcionamiento, evaluación y control de los Fondos de Cooperación Internacional a que se refiere la Ley de Ciencia y Tecnología, pudiendo operar el Fondo Sectorial con la SRE, de conformidad con lo que determine el Director General.
+XXVI. Formular los lineamientos para la conformación de los Comités de Evaluación de los Fondos y de los demás programas del CONACYT.
+
+XXVII. Participar en la planeación de los procesos de elaboración de convocatorias, términos de referencia y diseño de indicadores que lleven a cabo las unidades responsables de la operación de los programas y fondos CONACYT, a fin de garantizar la alineación de estos instrumentos con los sistemas de información del CONACYT y los programas anuales de evaluación.
+
+XXVIII. Apoyar al Consejo General en la integración y la coordinación de los comités intersectoriales y de vinculación así como en la integración del Presupuesto Federal en materia de ciencia, tecnología e innovación, para el cumplimiento de la LCYT.
+
+XXIX. Administrar el SINECYT, emitiendo los criterios y mecánica para su funcionamiento previa aprobación de la Junta de Gobierno, incluyendo el Registro CONACYT de Evaluadores Acreditados (RCEA).
+
+XXX. Participar en los diferentes organismos internacionales relacionados con los asuntos de política científica, tecnológica e innovación.
+
+XXXI. Representar al CONACYT, en la planeación, elaboración de estadísticas e indicadores, así como en los ámbitos en que sea requerido, con el Instituto Nacional de Estadística y Geografía, entre otros.
+
+XXXII. Coadyuvar en el establecimiento de prioridades y criterios de asignación del gasto en ciencia, tecnología e innovación del Ramo Presupuestal del CONACYT.
+
+XXXIII. Participar, en coordinación con la Oficialía Mayor, en la integración de la propuesta de estructura programática y en la elaboración de la exposición de motivos del Presupuesto de Egresos de la Federación a emplear en cada ejercicio presupuestal.
+
+XXXIV. Administrar el SIICYT, así como coordinar el establecimiento de convenios de colaboración entre el CONACYT y diferentes instancias para el desarrollo de sistemas de información a fin de que sean incorporados al mismo.
+
+XXXV. Planear y dirigir la integración de la base de datos de los proyectos apoyados por las Secretarías que invierten en ciencia, tecnología e innovación.
+
+XXXVI. Dirigir la administración del Currículum Vítae Único del Sector Ciencia, Tecnología e Innovación.
+
+XXXVII. Coordinar y operar la implementación del repositorio nacional de acceso abierto a recursos informáticos, científicos, tecnológicos y de innovación de calidad interés social y cultural las publicaciones en la biblioteca digital en Ciencia, Tecnología e Innovación.
+
+XXXVIII. Diseñar y proponer la normatividad que regirá el funcionamiento del Repositorio Nacional y de los Repositorios Institucionales en los términos establecidos en la LCYT.
+
+XXXIX. Dirigir la estrategia para poner en operación el Repositorio Nacional y diseñar un sistema de monitoreo para que éste pueda cumplir su objetivo de acopiar, preservar, gestionar y dar acceso electrónico a la información científica, tecnológica y de innovación, financiada total o parcialmente por recursos públicos.
+
+XL. Coadyuvar con la Unidad de Asuntos Jurídicos en la elaboración de las reglas de operación de los programas del CONACYT.
+
+XLI. En coordinación con la Secretaría de Comunicaciones y Transportes y con la Dirección de Divulgación y Difusión de Ciencia y Tecnología, conformar, administrar y actualizar el portal e-Ciencia y Tecnología.
 
 > <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
@@ -1155,6 +1223,10 @@ Promover la recuperación de adeudos o emitir, en su caso, el dictamen de irrecu
 
 Resolver los recursos administrativos que se interpongan en contra del CONACYT o de sus unidades.
 
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 2015)</small>
+
+Dictaminar la procedencia para transigir los asuntos laborales relacionados con el CONACYT.
+
 X. Apoyar jurídicamente para la protección de los derechos de propiedad industrial y derechos de autor.
 
 XI. Dirigir la gestión, ante las autoridades competentes, de las actividades relacionadas con asuntos migratorios que deriven de los programas del CONACYT.
@@ -1179,7 +1251,9 @@ I. Administrar el patrimonio general y los recursos financieros, materiales, hum
 
 II. Coordinar y orientar las políticas de planeación, programación, presupuesto, ejercicio, control, seguimiento y evaluación del gasto de las entidades paraestatales bajo su coordinación sectorial, así como vigilar que se realicen con transparencia y cumplan con las normas y medidas de austeridad en la elaboración, revisión, evaluación y adecuación de los programas y presupuestos anuales.
 
-III. Participar, en coordinación con la Dirección Adjunta de Planeación y Cooperación Internacional, en la integración de la propuesta de estructura programática para cada ejercicio presupuestal, así como coadyuvar en el establecimiento de prioridades y criterios de asignación del gasto del ramo presupuestal del CONACYT.
+> <small>(REFORMADA, D.O.F. 22 DE JULIO DE 2015)</small>
+
+III. Participar, en coordinación con la Dirección Adjunta de Planeación y Evaluación, en la integración de la propuesta de estructura programática para cada ejercicio presupuestal, así como coadyuvar en el establecimiento de prioridades y criterios de asignación del gasto del ramo presupuestal del CONACYT.
 
 IV. Coordinar el proceso programático presupuestal del Ramo, fungiendo como ventanilla ante la SHCP, para la gestión de los asuntos relacionados con su administración, así como realizar las acciones necesarias ante las instancias correspondientes para la coordinación de las entidades paraestatales bajo su coordinación sectorial.
 
@@ -1201,7 +1275,9 @@ VI. Registrar y actualizar la estructura orgánica de acuerdo a las necesidades 
 
 Integrar y expedir, en coordinación con la Unidad de Asuntos Jurídicos, previa aprobación del Director General, el Manual de Organización del CONACYT, así como integrar y expedir, los demás manuales necesarios para la operación y funcionamiento del CONACYT.
 
-VII. Vigilar el debido cumplimiento de las Condiciones Generales de Trabajo, así como el otorgamiento de las prestaciones y adoptar las medidas conducentes que para tal efecto se requieran, así como dictaminar la procedencia para transigir los asuntos laborales relacionados con el CONACYT.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE JULIO DE 2015)</small>
+
+VII. Vigilar el debido cumplimiento de las Condiciones Generales de Trabajo, así como el otorgamiento de las prestaciones y adoptar las medidas conducentes que para tal efecto se requieran.
 
 Otorgar licencias, en los casos y por los periodos que para el efecto autorice el Director General, tratándose de empleados de confianza en términos de la normativa aplicable, y conforme a las Condiciones Generales de Trabajo en el caso del personal de base.
 
@@ -1313,47 +1389,79 @@ VII. Dirigir la política de comunicación social del CONACYT, que incluye la di
 
 VIII. Desempeñar las demás funciones que establezcan las disposiciones legales y administrativas aplicables, el presente Estatuto y las que le sean encomendadas por el Director General en la esfera de su competencia.
 
-> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 22 DE JULIO DE 2015)</small>
 
-### CAPITULO NOVENO. Organo Interno de Control
+### CAPITULO NOVENO. Dirección de Cooperación Internacional
 
-> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
+> <small>(ADICIONADO, D.O.F. 22 DE JULIO DE 2015)</small>
 
 ###### Artículo 37.
 
-El CONACYT contará con un Organo Interno de Control que será parte de su estructura, al frente del cual estará el Titular de dicho Organo, designado en términos de lo dispuesto por la Ley Orgánica de la Administración Pública Federal, quien en el ejercicio de sus funciones se auxiliará de los titulares de las áreas de Responsabilidades, Auditoría Interna, Auditoría para Desarrollo y Mejora de la Gestión Pública y de Quejas, nombrados para el efecto.
+Corresponde a la Dirección de Cooperación Internacional:
+
+I. Identificar áreas de oportunidad y necesidades de la comunidad mexicana de ciencia, tecnología e innovación para vincularlas con la oferta de cooperación internacional de parte de gobiernos extranjeros, organizaciones regionales, organismos multilaterales, asociaciones científicas internacionales y otros actores internacionales.
+
+II. Dirigir la coordinación interna o transversalidad de las acciones de cooperación internacional del Consejo con la finalidad de mantener una comunicación eficiente e interactuando sistemáticamente con las Direcciones Adjuntas y la Dirección General de CONACYT.
+
+III. Negociar y redactar los Acuerdos, Memorándums de Entendimiento, Convenios, Cartas de Intención y otros instrumentos con actores internacionales (gubernamentales, multilaterales, universidades, centros de investigación y otros) para establecer los términos y compromisos de cooperación internacional del Consejo en materia de investigación científica, innovación tecnológica y formación de capital humano.
+
+IV. Administrar los Fondos y Fideicomisos en los que se manejan los recursos que el Consejo asigna al presupuesto de cooperación internacional (el Fondo de Cooperación Internacional en Ciencia y Tecnología, FONCICYT; y el Fondo sectorial de Investigación S.R.E. - CONACYT).
+
+V. Dar seguimiento administrativo y técnico a los proyectos a los que el Consejo asigna recursos por medio de las diferentes convocatorias que se aprueban en los Fondos de cooperación internacional. Asegurarse, en coordinación con la Dirección de Fondos de la Oficialía Mayor, que los convenios de asignación de recursos y el seguimiento de proyectos se hacen de acuerdo a las reglas de operación de los Fondos y los términos de las convocatorias respectivas.
+
+VI. Representar al Consejo y al Director General en reuniones bilaterales, multilaterales, foros científicos y tecnológicos internacionales.
+
+VII. Dirigir la organización de talleres y eventos para fomentar el desarrollo de redes de trabajo entre la comunidad científico-tecnológica mexicana y sus pares (sic) en otros países, organizaciones regionales y multilaterales así como asociaciones científicas y centros internacionales de investigación.
+
+VIII. Coordinar la agenda internacional del Director General de CONACYT e integrar las comunicaciones y concertación de citas en México y el extranjero.
+
+IX. Coordinar con otras Secretarías y dependencias del gobierno federal para asegurar que los compromisos y acciones de cooperación internacional del CONACYT estén en concordancia con los lineamientos y objetivos de política exterior que se establecen en el Plan Nacional de Desarrollo.
+
+X. Colaborar con la Secretaría de Relaciones Exteriores y la Agencia Mexicana de Cooperación Internacional para el desarrollo de los términos establecidos tanto en el Programa de Cooperación Internacional para el Desarrollo, como en la Ley de Cooperación Internacional para el Desarrollo.
+
+XI. Dirigir la administración del FONCICYT a efecto de promover acciones científicas, tecnológicas y de innovación de alto impacto y la formación de recursos humanos especializados que contribuyan al desarrollo nacional e internacional.
 
 > <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
-### CAPITULO DECIMO. Suplencia de los Servidores Públicos del CONACYT
+### CAPITULO DECIMO. Organo Interno de Control
 
 > <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 38.
 
-El Titular del Organo Interno de Control y los Titulares de las áreas de Responsabilidades, Auditoría Interna, Auditoría para Desarrollo y Mejora de la Gestión Pública y de Quejas, en el ámbito de sus respectivas competencias, tendrán las facultades que se señalan en el Reglamento Interior de la SFP y en los demás ordenamientos legales y administrativos aplicables.
+El CONACYT contará con un Organo Interno de Control que será parte de su estructura, al frente del cual estará el Titular de dicho Organo, designado en términos de lo dispuesto por la Ley Orgánica de la Administración Pública Federal, quien en el ejercicio de sus funciones se auxiliará de los titulares de las áreas de Responsabilidades, Auditoría Interna, Auditoría para Desarrollo y Mejora de la Gestión Pública y de Quejas, nombrados para el efecto.
 
 > <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 39.
 
-El Titular del Organo Interno de Control, será auxiliado por el personal que las necesidades del servicio requieran y cuyos puestos figuren en la estructura y presupuesto del CONACYT.
+El Titular del Organo Interno de Control y los Titulares de las áreas de Responsabilidades, Auditoría Interna, Auditoría para Desarrollo y Mejora de la Gestión Pública y de Quejas, en el ámbito de sus respectivas competencias, tendrán las facultades que se señalan en el Reglamento Interior de la SFP y en los demás ordenamientos legales y administrativos aplicables.
 
 > <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 40.
 
-El Titular del Organo Interno de Control, deberá reunir los requisitos que para el desempeño de este cargo, establezca la SFP y no deberá contar con ningún impedimento que para ser miembro del Organo de Gobierno establezca la Ley Federal de las Entidades Paraestatales.
+El Titular del Organo Interno de Control, será auxiliado por el personal que las necesidades del servicio requieran y cuyos puestos figuren en la estructura y presupuesto del CONACYT.
 
 > <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 41.
 
-En los órganos colegiados que se considere la participación del Organo Interno de Control, éste tomará parte en los mismos en calidad de invitado permanente con voz pero sin voto, salvo las excepciones que las leyes y ordenamientos administrativos determinen.
+El Titular del Organo Interno de Control, deberá reunir los requisitos que para el desempeño de este cargo, establezca la SFP y no deberá contar con ningún impedimento que para ser miembro del Organo de Gobierno establezca la Ley Federal de las Entidades Paraestatales.
 
 > <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 ###### Artículo 42.
+
+En los órganos colegiados que se considere la participación del Organo Interno de Control, éste tomará parte en los mismos en calidad de invitado permanente con voz pero sin voto, salvo las excepciones que las leyes y ordenamientos administrativos determinen.
+
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
+
+### CAPITULO DECIMO PRIMERO. Suplencia de los Servidores Públicos del CONACYT
+
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
+
+###### Artículo 43.
 
 Durante las ausencias del Director General, el despacho y resolución de los asuntos administrativos quedarán a cargo del Oficial Mayor o Titular de Dirección Adjunta o Unidad de Asuntos Jurídicos que el mismo designe.
 
@@ -1367,7 +1475,7 @@ En caso de ausencias definitivas, el Director General podrá designar encargados
 
 > <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
-###### Artículo 43.
+###### Artículo 44.
 
 En materia de amparo y procedimientos administrativos el Director General será suplido en sus ausencias por el Titular de la Unidad de Asuntos Jurídicos.
 
@@ -1398,3 +1506,9 @@ UNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publica
 D.O.F. 27 DE MARZO DE 2015.
 
 ÚNICO.- La presente modificación al Estatuto Orgánico del Consejo Nacional de Ciencia y Tecnología entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE JULIO DE 2015.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En todas aquellas disposiciones en las que se haga referencia a la Dirección Adjunta de Planeación y Cooperación Internacional deberá entenderse como la Dirección Adjunta de Planeación y Evaluación, salvo aquellas acciones que se refieran a temas de carácter internacional en cuyo caso corresponderán a la Dirección de Cooperación Internacional.
