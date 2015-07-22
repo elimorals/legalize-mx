@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-19016
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2011-08-10"
+last_updated: "2015-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE CHIHUAHUA
 
-LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE CHIHUAHUA
+LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2015.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de diciembre del 2000.
 
@@ -163,7 +163,7 @@ En el ámbito del Poder Ejecutivo, la Secretaría, escuchando la opinión de la 
 
 Lo propio harán el Poder Legislativo y Judicial en su ámbito interior, a través de sus órganos de administración, y los Ayuntamientos por conducto de los órganos facultados conforme al Código Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 8.
 
@@ -182,6 +182,10 @@ En la instrumentación de las acciones que deban llevarse a cabo en cumplimiento
 ###### ARTICULO 10.
 
 Los Entes Públicos a que se refiere el artículo 1, se abstendrán de formalizar o modificar contratos en las materias que regula esta Ley, si no hubiera partida expresa y saldo disponible en sus respectivos presupuestos.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2015)</small>
+
+En las contrataciones plurianuales, cuya vigencia rebase un ejercicio presupuestario, los entes públicos deberán determinar tanto el presupuesto total como el relativo a los ejercicios de que se trate; en la formulación de los presupuestos de los ejercicios subsecuentes se considerarán los costos que, en su momento, se encuentren vigentes, y se dará prioridad a las previsiones para el cumplimiento de las obligaciones contraídas en ejercicios anteriores.
 
 ###### ARTICULO 11.
 
@@ -307,7 +311,7 @@ XIV. Las instalaciones para que las personas con algún impedimento físico pued
 
 XV. Las demás previsiones que deban tomarse en cuenta según la naturaleza, ubicación, dimensiones, destino y demás características de la obra.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2010)</small>
 
 ###### ARTICULO 19.
 
@@ -319,7 +323,7 @@ En las edificaciones y proyectos futuros, se deberán incluir mecanismos, equipo
 
 > <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2005)</small>
 
-Atendiendo y aplicando, en los casos de edificaciones no residenciales, lo estipulado por la Norma Oficial Mexicana NOM-008-ENER-2001 de “Eficiencia Energética en Edificaciones Envolvente de Edificios no Residenciales”, sin perjuicio de otras aplicables para los proyectos de esta naturaleza.
+Atendiendo y aplicando, en los casos de edificaciones no residenciales, lo estipulado por la Norma Oficial Mexicana NOM-008-ENER-2001 de "Eficiencia Energética en Edificaciones Envolvente de Edificios no Residenciales", sin perjuicio de otras aplicables para los proyectos de esta naturaleza.
 
 ###### ARTICULO 20.
 
@@ -543,7 +547,7 @@ XXIII. Acreditar el cumplimiento de las obligaciones de registro y actualizació
 
 XXIV. Para el caso de proyectos integrales o llave en mano, se deberán requerir al contratista los anteproyectos arquitectónicos y de ingeniería, normas de calidad de los materiales y especificaciones de construcción, así como el sistema constructivo; los requisitos de calidad, funcionamiento, mantenimiento y operación de la obra terminada; el desglose de los costos de diseño y construcción y la metodología que deberá seguirse para el control del proyecto;
 
-XXV. La indicación de que el licitante que no firme el contrato por causas imputables al mismo, será sancionado en términos del artículo 90 de esta Ley; y (sic),
+XXV. La indicación de que el licitante que no firme el contrato por causas imputables al mismo, será sancionado en términos del artículo 90 de esta Ley; y,
 
 > <small>(ADICIONADA, P.O. 23 DE MAYO DE 2009)</small>
 
@@ -603,7 +607,7 @@ Las garantías que deban otorgarse conforme a esta Ley, se constituirán a favor
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
 
-I.- Finanzas, por actos o contratos que se celebren con las dependencias estatales;
+I. Finanzas, por actos o contratos que se celebren con las dependencias estatales;
 
 II. El Congreso y el Supremo Tribunal de Justicia por actos y contratos que se celebren con ellos;
 
@@ -655,7 +659,7 @@ DE LOS PROCEDIMIENTOS Y CONTRATOS DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON L
 
 Se crea la Comisión Consultiva Estatal de Obra Pública, como Órgano de enlace con la Cámara Mexicana de la Industria de la Construcción, que tendrá por objeto emitir opiniones relacionadas con las materias de esta Ley, las cuales tendrán carácter de recomendaciones no vinculatorias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 46.
 
@@ -789,7 +793,7 @@ XII. La descripción de la obra que se deba ejecutar, debiendo acompañar como p
 
 XIII. Señalamiento de que el contrato, sus anexos, la bitácora de los trabajos y la documentación que se genere en el período de ejecución de la obra o de los servicios, son los instrumentos que vinculan a las partes en sus derechos y obligaciones;
 
-XIV. En su caso, los procedimientos mediante los cuales las partes, de común acuerdo, resolverán las controversias que resulten previsibles que pudieren versar sobre problemas específicos de carácter técnico y administrativo. Para los efectos de la presente fracción, el procedimiento invariablemente se realizará dentro del territorio del Estado; y (sic),
+XIV. En su caso, los procedimientos mediante los cuales las partes, de común acuerdo, resolverán las controversias que resulten previsibles que pudieren versar sobre problemas específicos de carácter técnico y administrativo. Para los efectos de la presente fracción, el procedimiento invariablemente se realizará dentro del territorio del Estado; y,
 
 XV. En caso de asociación de contratistas, la mención de que responderán solidariamente en sus obligaciones para la ejecución de la totalidad de la obra, debiendo nombrar un representante común con facultades legales, otorgadas ante fedatario público, para comprometerse en nombre propio y de los asociados;
 
@@ -1193,7 +1197,7 @@ Los Entes Públicos que realicen obra pública por administración directa o med
 
 ### CAPITULO UNICO. DE LA INFORMACION Y VERIFICACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 86.
 
@@ -1203,7 +1207,7 @@ De igual manera, lo harán los municipios cuando la obra o servicio, se realice 
 
 Para tal efecto, conservarán en forma ordenada y sistemática toda la documentación comprobatoria de dichos actos y contratos, cuando menos por un lapso de seis años, contados a partir de la fecha en que se hubieren recibido las obras, o prestado el servicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 87.
 
@@ -1227,7 +1231,7 @@ El resultado de las comprobaciones se hará constar en un dictamen que será fir
 
 ### CAPITULO UNICO. DE LAS INFRACCIONES Y SANCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 90.
 
@@ -1399,7 +1403,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. VICTOR E. ANCHONDO PAREDES.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 24 DE DICIEMBRE DE 2003.
 
@@ -1508,6 +1512,12 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Los Entes Públicos deberán implementar las adaptaciones descritas en el presente Decreto, en un plazo no mayor de un año a partir de la publicación del mismo.
 
 P.O. 10 DE AGOSTO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE JULIO DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
