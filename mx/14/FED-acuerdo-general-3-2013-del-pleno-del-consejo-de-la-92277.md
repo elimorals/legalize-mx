@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2015-06-24"
+last_updated: "2015-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE JUNIO DE 2015.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 22 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 1 DE AGOSTO DE 2015.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JULIO DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -819,23 +821,25 @@ QUINTO. Centros Auxiliares Regionales:
 
 Todos los órganos jurisdiccionales antes citados tendrán jurisdicción en toda la República Mexicana y su competencia será mixta, a excepción del Juzgado Tercero de Distrito del Centro Auxiliar de la Primera Región que además se especializa en materia de extinción de dominio.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 53/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 35/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE JULIO DE 2015)</small>
 
 QUINTO BIS. Centros de Justicia Penal Federal:
 
-1. El Centro de Justicia Penal Federal en el Estado de Durango se integrará por cinco jueces de Distrito especializados en el sistema penal acusatorio, y un Tribunal Unitario de Circuito con competencia especializada en el sistema penal acusatorio, todos con residencia en Durango, Durango.
+1. El Centro de Justicia Penal Federal en el Estado de Baja California Sur se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en La Paz, Baja California Sur.
 
-2. El Centro de Justicia Penal Federal en el Estado de Puebla se integrará por cuatro jueces de Distrito especializados en el sistema penal acusatorio, y dos tribunales unitarios de Circuito con competencia especializada en el sistema penal acusatorio, todos con residencia en San Andrés Cholula, Puebla.
+2. El Centro de Justicia Penal Federal en el Estado de Durango se integrará por cinco jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
 
-Los órganos jurisdiccionales de los centros de justicia penal federal serán competentes en todo el territorio de la entidad federativa de su residencia.
+3. El Centro de Justicia Penal Federal en el Estado de Guanajuato se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 3/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE MARZO DE 2015)</small>
+4. El Centro de Justicia Penal Federal en el Estado de Puebla se integrará por cuatro jueces de Distrito, y dos Tribunales de Alzada, todos con residencia en San Andrés Cholula, Puebla.
 
-3. El Centro de Justicia Penal Federal en el Estado de Yucatán se integrará por cuatro jueces de Distrito especializados en el sistema penal acusatorio, y un Tribunal Unitario de Circuito con competencia especializada en el sistema penal acusatorio, todos con residencia en Mérida, Yucatán.
+5. El Centro de Justicia Penal Federal en el Estado de Querétaro se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 3/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE MARZO DE 2015)</small>
+6. El Centro de Justicia Penal Federal en el Estado de San Luis Potosí se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
 
-4. El Centro de Justicia Penal Federal en el Estado de Zacatecas se integrará por cuatro jueces de Distrito especializados en el sistema penal acusatorio, y un tribunal unitario de Circuito con competencia especializada en el sistema penal acusatorio, todos con residencia en la ciudad del mismo nombre.
+7. El Centro de Justicia Penal Federal en el Estado de Yucatán se integrará por cuatro jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Mérida, Yucatán.
+
+8. Centro de Justicia Penal Federal en el Estado de Zacatecas se integrará por cuatro jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
 
 Los órganos jurisdiccionales de los centros de justicia penal federal serán competentes en todo el territorio de la entidad federativa de su residencia.
 
@@ -1780,3 +1784,9 @@ SEXTO. Todas las promociones posteriores que se relacionen con causas penales de
 El titular del Juzgado de Distrito de Procesos Penales Federales en el Distrito Federal al que se le turne la promoción, tramitará lo necesario para que se le remita la causa penal respectiva; y, en lo sucesivo, conocerá de todo lo relacionado con ésta.
 
 SÉPTIMO. Se faculta a la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, para que con apoyo en la Dirección General de Estadística Judicial y en la Dirección General de Tecnologías de la Información, resuelva todas las situaciones que surjan con motivo de la aplicación de lo expuesto en los incisos A) a J), del artículo Quinto Transitorio.
+
+D.O.F. 22 DE JULIO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor el primero de agosto de dos mil quince.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
