@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2015-06-10"
+last_updated: "2015-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2015.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -202,11 +202,11 @@ Son habitantes del Estado todos los que radican en su territorio.
 
 Son transeúntes las personas que sin residir habitualmente en el Estado, permanezcan o viajen transitoriamente en su territorio.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2015)</small>
 
 ###### Artículo 6.
 
-Los habitantes del Estado se considerarán vecinos del mismo, cuando teniendo un modo honesto de vivir, fijen su domicilio en cualquiera de las poblaciones y soliciten y obtengan ante la Autoridad Municipal su inscripción en el padrón correspondiente.
+Los habitantes del Estado se considerarán vecinos del mismo, cuando teniendo un modo honesto de vivir y fijen su domicilio en cualquiera de las poblaciones que lo integran.
 
 ###### Artículo 7.
 
@@ -1710,9 +1710,9 @@ VI.- Designar o nombrar a los Secretarios de Despacho y al Consejero Jurídico, 
 
 VII.- Conceder o negar indulto con arreglo a la Ley, a los reos sentenciados por los Tribunales del Estado.
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 1992)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2015)</small>
 
-VIII.- Imponer como corrección, arresto hasta por treinta y seis horas o multa; pero si el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas;
+VIII.- Imponer como corrección, arresto hasta por treinta y seis horas o multa; pero si el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta por el arresto correspondiente;
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -1722,7 +1722,7 @@ Dentro del proceso de la planeación y programación democrática, así como de 
 
 X.- Convocar a elecciones de Congreso, únicamente en los casos de los artículos 68 y 69 de esta Constitución.
 
-XI.- Conceder licencia a los funcionarios y empleados cuyo nombramiento y remoción dependen del Ejecutivo, para separarse de sus respectivos encargos.
+XI.- (DEROGADA, P.O. 22 DE JULIO DE 2015)
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1996)</small>
 
@@ -2920,9 +2920,9 @@ Los Ayuntamientos con sujeción a la normatividad aplicable, podrán coordinarse
 
 Sin perjuicio de su competencia constitucional, en el desempeño de sus funciones o la prestación de los servicios a su cargo, los Ayuntamientos observarán lo dispuesto en las leyes federales y estatales.
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2015)</small>
 
-Los Ayuntamientos deberán otorgar capacitación turística a los ciudadanos residentes y avecindados en su ámbito territorial, en términos de lo señalado en el artículo 30 fracción II de la Constitución Política Federal.
+Los Ayuntamientos deberán otorgar capacitación turística a los ciudadanos residentes y avecindados en su ámbito territorial.
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -4927,3 +4927,27 @@ P.O. 10 DE JUNIO DE 2015.
 PRIMERA. Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente, se remitirá al titular del Poder Ejecutivo del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del estado de Morelos, conforme lo dispuesto por los artículos 44 y 70, fracción XVII inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. Las reformas contenidas en el presente Decreto formarán parte de esta Constitución desde el momento mismo en que se realice la declaratoria a que se refiere el artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 22 DE JULIO DE 2015.
+
+DECRETO NÚMERO 2427 POR EL QUE SE REFORMA EL ARTÍCULO 6 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente, se remitirá al titular del Poder Ejecutivo del Estado para que se publique en el Periódico Oficial “Tierra y Libertad”, órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Las reformas contenidas en el presente Decreto forman parte de esta Constitución desde el momento mismo en que se realizó la declaratoria a que se refiere el artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 22 DE JULIO DE 2015.
+
+DECRETO NÚMERO 2428, POR EL QUE SE REFORMA LA FRACCIÓN VIII Y SE DEROGA LA FRACCIÓN XI, DEL ARTÍCULO 70, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente, se remitirá al titular del Poder Ejecutivo del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Las reformas contenidas en el presente Decreto forman parte de esta Constitución desde el momento mismo en que se realizó la declaratoria a que se refiere el artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 22 DE JULIO DE 2015.
+
+DECRETO NÚMERO 2429 POR EL QUE SE REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO 114-BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente, se remitirá al titular del Poder Ejecutivo del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Las reformas contenidas en el presente Decreto forman parte de esta Constitución desde el momento mismo en que se realizó la declaratoria a que se refiere el artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos.
