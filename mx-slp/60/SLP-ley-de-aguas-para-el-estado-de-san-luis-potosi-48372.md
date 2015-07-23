@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2015-07-18"
+last_updated: "2015-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -2161,7 +2161,9 @@ Cuando se trate de tomas solicitadas por giros o establecimientos ubicados en fo
 
 Es obligación del prestador de servicios públicos, la instalación de aparatos de micromedición; además, de dispositivos o mecanismos expulsores de aire de las tuberías de conducción de agua, para verificar la medición exacta del consumo de agua del servicio público para todos los usuarios.
 
-Para realizar lo establecido en el párrafo anterior, las tomas deberán instalarse en la entrada de los predios o establecimientos, y los medidores en lugares accesibles, junto a dicha entrada, con libre acceso al personal del prestador de los servicios públicos, en forma tal que se puedan llevar a cabo sin dificultad las lecturas de consumo, las pruebas de funcionamiento de los aparatos y, cuando sea necesario, el cambio de los medidores.
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2015)</small>
+
+Para realizar lo establecido en el párrafo anterior, las tomas deberán estar individualizadas para cada usuario, e instalarse en la entrada de los predios, establecimientos, viviendas, y en cada departamento; así como los medidores en lugares accesibles, junto a dicha entrada, con libre acceso al personal del prestador de los servicios públicos, en forma tal que se puedan llevar a cabo sin dificultad las lecturas de consumo, las pruebas de funcionamiento de los aparatos y, cuando sea necesario, el cambio de los medidores.
 
 ###### ARTICULO 144.
 
@@ -2533,7 +2535,7 @@ Cuando no sea posible medir el consumo debido a la destrucción total o parcial 
 
 ###### ARTICULO 183.
 
-Toda persona usuaria está obligada al pago mensual de los servicio (sic) públicos de agua potable, alcantarillado y saneamiento, con base en las cuotas o tarifas fijadas en los términos de la presente Ley, con excepción de aquellas quienes reciben estos servicios por parte de un organismo operador intermunicipal, mismos que deberán pagar bimestralmente.
+Toda persona usuaria está obligada al pago mensual de los servicio públicos de agua potable, alcantarillado y saneamiento, con base en las cuotas o tarifas fijadas en los términos de la presente Ley, con excepción de aquellas quienes reciben estos servicios por parte de un organismo operador intermunicipal, mismos que deberán pagar bimestralmente.
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2015)</small>
 
@@ -3360,5 +3362,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 18 DE JULIO DE 2015.
 
 PRIMERO. Este Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 23 DE JULIO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
