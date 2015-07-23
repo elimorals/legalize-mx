@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2015-07-18"
+last_updated: "2015-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -634,6 +634,10 @@ En igualdad de circunstancias, los permisos temporales se otorgarán preferentem
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 2014)</small>
 
 Estos mismos requisitos serán aplicables para la adjudicación directa de concesiones en la modalidad de servicios especiales de transporte de trabajadores.
+
+> <small>(ADICIONADO, P.O. 23 DE JULIO DE 2015)</small>
+
+En su caso, se podrá tomar en cuenta la opinión de la Asamblea General Comunitaria, en lo relativo al otorgamiento de concesiones o permisos que presten el servicio dentro de su jurisdicción.
 
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 2014)</small>
 
@@ -2454,3 +2458,9 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Lo correspondiente a los artículos, 12, y 21 de este Decreto, entrará en vigor a partir del uno de septiembre de 2015.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 23 DE JULIO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
