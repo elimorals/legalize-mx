@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2014-11-01"
+last_updated: "2015-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2015.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -1043,21 +1043,25 @@ La SEGAM considerará como prioritarias para efectos del otorgamiento de los est
 
 I. La investigación, incorporación o utilización de mecanismos, equipos y tecnologías que tengan por objeto evitar, reducir o controlar el deterioro ambiental, así como el uso eficiente de energía y de recursos naturales;
 
-II. El ahorro y aprovechamiento sustentable y la prevención de la contaminación del agua;
+> <small>(ADICIONADA, P.O. 23 DE JULIO DE 2015)</small>
 
-III. La ubicación y reubicación de instalaciones industriales, comerciales y de servicios en áreas ambientalmente adecuadas, con el apego estricto a los planes de desarrollo urbano y programas de ordenamiento ecológico regional y local;
+II. La utilización de sistemas de ahorro de energía, y el uso de fuentes de energía alternativas;
+
+III. El ahorro y aprovechamiento sustentable y la prevención de la contaminación del agua;
+
+IV. La ubicación y reubicación de instalaciones industriales, comerciales y de servicios en áreas ambientalmente adecuadas, con el apego estricto a los planes de desarrollo urbano y programas de ordenamiento ecológico regional y local;
 
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
 
-IV. El establecimiento, manejo y vigilancia de áreas naturales protegidas de competencia estatal y municipal;
+V. El establecimiento, manejo y vigilancia de áreas naturales protegidas de competencia estatal y municipal;
 
 > <small>(ADICIONADA, P.O. 23 DE JULIO DE 2011)</small>
 
-V. La producción, promoción, entrega y utilización de bolsas de plástico biodegradables, y
+VI. La producción, promoción, entrega y utilización de bolsas de plástico biodegradables, y
 
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
 
-VI. En general, aquellas actividades relacionadas con la protección, conservación y restauración del ambiente.
+VII. En general, aquellas actividades relacionadas con la protección, conservación y restauración del ambiente.
 
 ### CAPITULO V. DEL USO DEL SUELO Y DE LA LICENCIA
 
@@ -3034,3 +3038,9 @@ P.O. 1 DE NOVIEMBRE DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JULIO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
