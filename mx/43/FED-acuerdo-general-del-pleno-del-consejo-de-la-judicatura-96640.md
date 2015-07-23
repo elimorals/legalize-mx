@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2015-06-23"
+last_updated: "2015-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JUNIO DE 2015.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 23 DE JULIO DE 2015, LAS REFERENCIAS QUE CUALQUIER DISPOSICIÓN HAGA A LA DIRECCIÓN GENERAL DE SERVICIOS MÉDICOS Y DESARROLLO INFANTIL, SE ENTENDERÁN HECHAS A LA DIRECCIÓN GENERAL DE SERVICIOS MÉDICOS, CON EXCEPCIÓN DE AQUELLAS QUE SE RELACIONEN CON SUS ATRIBUCIONES EN MATERIA DE DESARROLLO INFANTIL, MISMAS QUE SE ENTENDERÁN A LA DIRECCIÓN GENERAL DE SERVICIOS AL PERSONAL.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JULIO DE 2015.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -1561,7 +1563,9 @@ XI. Dirección General de Servicios al Personal;
 
 XII. Dirección General de Servicios Generales;
 
-XIII. Dirección General de Servicios Médicos y Desarrollo Infantil; y
+> <small>(REFORMADA POR ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+XIII. Dirección General de Servicios Médicos; y
 
 XIV. Las demás que determine el Pleno.
 
@@ -3409,11 +3413,11 @@ XIX. Informar al superior jerárquico sobre el funcionamiento de la unidad admin
 
 XX. Las demás que establezcan el Pleno y las Comisiones.
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
 
 ###### Artículo 173.
 
-La Dirección General de Servicios al Personal será la responsable de todo lo referente a las prestaciones, seguros y servicios de los servidores públicos del Poder Judicial de la Federación.
+La Dirección General de Servicios al Personal será la responsable de todo lo referente a las prestaciones, seguros y servicios de los servidores públicos del Poder Judicial de la Federación; así como de supervisar que las acciones educativas y asistenciales para el desarrollo integral de los hijos de los servidores públicos que prestan sus servicios en el Poder Judicial de la Federación se realicen de manera integral, con la finalidad de proporcionar un servicio eficiente y de calidad con base en las disposiciones aplicables.
 
 ###### Artículo 174.
 
@@ -3421,7 +3425,21 @@ El titular de la Dirección General de Servicios al Personal tendrá las atribuc
 
 I. Participar en la elaboración y evaluación de anteproyectos de acuerdos, disposiciones, reglas, bases de carácter general, normas, lineamientos y políticas que permitan optimizar el aprovechamiento de los recursos del Consejo;
 
-II. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+II. Organizar, dirigir, coordinar, controlar, supervisar y evaluar la operación del servicio de desarrollo infantil que proporciona el Consejo;
+
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+II. Bis. Difundir y vigilar la aplicación de las disposiciones que dicte el Consejo en materia de servicios de desarrollo infantil para los servidores públicos y sus familiares;
+
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+II. Ter. Supervisar el cumplimiento de las políticas, normas y procedimientos derivados de la legislación para la prestación de servicios para la atención, cuidado y desarrollo integral infantil;
+
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+II. Quater. Fomentar el intercambio de experiencias y conocimientos con instituciones educativas, públicas y privadas, en apoyo a las actividades de desarrollo infantil que se realizan en el ámbito de la educación inicial y preescolar;
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
 
@@ -3431,7 +3449,9 @@ III. Proponer políticas y programas relativos al subsistema de prestaciones y s
 
 IV. Vigilar la ejecución de políticas, programas y normas que regulan el otorgamiento de prestaciones y servicios autorizados;
 
-V. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+V. Coordinar, dirigir, controlar y supervisar la operación del programa de apoyo para guarderías particulares que se otorga a los servidores públicos, y asesorarlos para la utilización de las guarderías del ISSSTE;
 
 VI. Realizar trámites ante terceros en lo relativo a prestaciones, seguros y servicios para el personal del Poder Judicial de la Federación y difundir esa información entre los servidores públicos;
 
@@ -3449,9 +3469,29 @@ XII. Proponer contratos de prestación de servicios derivados de programas autor
 
 XIII. Participar en el Programa de Protección Civil en coordinación con las áreas administrativas;
 
-XIV. Informar al superior jerárquico, sobre el funcionamiento de la unidad administrativa a su cargo y del avance y logro de objetivos y metas programadas en el ámbito de su competencia; y
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
 
-XV. Las demás que establezcan el Pleno y, las Comisiones.
+XIV. Informar al superior jerárquico, sobre el funcionamiento de la unidad administrativa a su cargo y del avance y logro de objetivos y metas programadas en el ámbito de su competencia;
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+XV. Vigilar, en coordinación con la Dirección General de Servicios Médicos, la aplicación de los programas de medicina preventiva y nutricionales encaminados a mantener en buen estado de salud a los niños que acuden a los centros de desarrollo infantil;
+
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+XVI. Realizar la evaluación en materia de recursos humanos, y verificar que se mantengan actualizados los inventarios de insumos, equipo y mobiliario de su área;
+
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+XVII. Implementar procesos informáticos para mejorar la operación de su área;
+
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+XVIII. Participar en los procesos de adquisiciones y contratación de servicios respecto de los requerimientos e insumos para el equipamiento y buen funcionamiento de las actividades de su área; y
+
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+XIX. Las demás que establezcan el Pleno y, las Comisiones.
 
 ###### Artículo 175.
 
@@ -3505,19 +3545,27 @@ XX. Informar al superior jerárquico sobre el funcionamiento de la unidad admini
 
 XXI. Las demás que establezcan el Pleno y, las Comisiones.
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
 ###### Artículo 177.
 
-La Dirección General de Servicios Médicos y Desarrollo Infantil será la unidad administrativa encargada de proporcionar el servicio médico inicial o de primer contacto, desarrollar e instrumentar las campañas y los programas en materia de salud, elaborar el diagnóstico institucional de salud, promover, difundir y aplicar las normas, políticas, lineamientos y demás disposiciones para el buen funcionamiento y operación de los servicios médicos del Consejo; así como supervisar que las acciones educativas y asistenciales para el desarrollo integral de los hijos de los servidores públicos que prestan sus servicios en el Poder Judicial de la Federación se realicen de manera integral, con la finalidad de proporcionar un servicio eficiente y de calidad con base en la normatividad vigente en materia de salud y desarrollo integral infantil.
+La Dirección General de Servicios Médicos será la unidad administrativa encargada de proporcionar el servicio médico inicial o de primer contacto, desarrollar e instrumentar las campañas y los programas en materia de salud, elaborar el diagnóstico institucional de salud, promover, difundir y aplicar las normas, políticas, lineamientos y demás disposiciones para el buen funcionamiento y operación de los servicios médicos del Consejo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
 
 ###### Artículo 178.
 
-El titular de la Dirección General de Servicios Médicos y Desarrollo Infantil tendrá las siguientes atribuciones:
+El titular de la Dirección General de Servicios Médicos tendrá las siguientes atribuciones:
 
-I. Organizar, dirigir, coordinar, controlar, supervisar y evaluar la prestación de los servicios de salud en los consultorios médicos y la operación del servicio de desarrollo infantil que proporciona el Consejo;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+I. Organizar, dirigir, coordinar, controlar, supervisar y evaluar la prestación de los servicios de salud en los consultorios médicos;
 
 II. Participar en la elaboración y evaluación de anteproyectos de acuerdos, disposiciones, reglas, bases de carácter general, normas, lineamientos y políticas que permitan elevar la calidad de los servicios que proporciona, y optimizar el aprovechamiento de los recursos del Consejo;
 
-III. Difundir y vigilar la aplicación de los acuerdos que dicte el Consejo en materia de salud y servicios de desarrollo infantil para los servidores públicos y sus familiares;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+III. Difundir y vigilar la aplicación de las disposiciones que dicte el Consejo en materia de salud;
 
 IV. Promover, difundir y aplicar las normas, políticas, lineamientos y demás disposiciones en materia de salud, para el buen funcionamiento y operación de los servicios médicos del Consejo;
 
@@ -3531,11 +3579,11 @@ VIII. Gestionar ante el ISSSTE la emisión de los dictámenes relativos a las co
 
 IX. Integrar, orientar, supervisar y controlar el funcionamiento en los centros de trabajo de las Comisiones de Seguridad y Salud en el Trabajo, así como en los centros de desarrollo e instancias infantiles;
 
-X. Supervisar el cumplimiento de las políticas, normas y procedimientos derivados de la legislación para la prestación de servicios para la atención, cuidado y desarrollo integral infantil;
+X. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)
 
-XI. Coordinar, dirigir, controlar y supervisar la operación del programa de apoyo para guarderías particulares que se otorga a los servidores públicos, y asesorarlos para la utilización de las guarderías del ISSSTE;
+XI. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)
 
-XII. Vigilar la aplicación de los programas de medicina preventiva y nutricionales encaminados a mantener en buen estado de salud a los niños que acuden a los centros de desarrollo infantil;
+XII. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)
 
 XIII. Realizar la evaluación en materia de recursos humanos, y verificar que se mantengan actualizados los inventarios de insumos, equipo y mobiliario de su área;
 
@@ -3543,7 +3591,7 @@ XIV. Implementar procesos informáticos para mejorar la operación de su área;
 
 XV. Participar en los procesos de adquisiciones y contratación de servicios respecto de los requerimientos e insumos para el equipamiento y buen funcionamiento de las actividades de su área;
 
-XVI. Fomentar el intercambio de experiencias y conocimientos con instituciones educativas, públicas y privadas, en apoyo a las actividades de desarrollo infantil que se realizan en el ámbito de la educación inicial y preescolar;
+XVI. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)
 
 XVII. Coordinar el proceso para la elaboración del anteproyecto de presupuesto de egresos del Poder Judicial de la Federación en lo relativo a su área y del Diagnóstico Institucional de Salud del Consejo;
 
@@ -4461,9 +4509,9 @@ V. El Director General de Servicios Generales; y
 
 VI. El Director General de Inmuebles y Mantenimiento.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
 
-Los titulares de la Coordinación de Seguridad del Poder Judicial de la Federación y de la Dirección General de Servicios Médicos y Desarrollo Infantil apoyarán, en todo momento, a los integrantes de la Comisión, para lo cual podrán participar en las sesiones de la Comisión con voz pero sin voto.
+Los titulares de la Coordinación de Seguridad del Poder Judicial de la Federación y de la Dirección General de Servicios Médicos apoyarán, en todo momento, a los integrantes de la Comisión, para lo cual podrán participar en las sesiones de la Comisión con voz pero sin voto.
 
 Adicionalmente, el titular de la Contraloría del Poder Judicial de la Federación podrá participar en las sesiones de la Comisión como invitado con voz pero sin voto.
 
@@ -5152,3 +5200,17 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 23 DE JULIO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Los recursos humanos, financieros y materiales con los que cuenta la Dirección General de Servicios Médicos y Desarrollo Infantil, que estén asignados para el ejercicio de sus atribuciones en materia de desarrollo infantil, se transfieren (sic) Dirección General de Servicios al Personal.
+
+Para la transferencia se deberán suscribir las respectivas actas de entrega-recepción, con la intervención de la Contraloría del Poder Judicial de la Federación, en el ámbito de sus atribuciones.
+
+CUARTO. Las referencias que cualquier disposición haga a la Dirección General de Servicios Médicos y Desarrollo Infantil, se entenderán hechas a la Dirección General de Servicios Médicos, con excepción de aquellas que se relacionen con sus atribuciones en materia de desarrollo infantil, mismas que se entenderán a la Dirección General de Servicios al Personal.
+
+QUINTO. La Secretaría Ejecutiva de Administración, por conducto de las unidades administrativas competentes que le estén adscritas, adoptará las acciones necesarias para la implementación del presente Acuerdo.
