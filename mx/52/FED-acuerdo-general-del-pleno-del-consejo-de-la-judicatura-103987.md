@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2015-07-10"
+last_updated: "2015-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE JULIO DE 2015.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 23 DE JULIO DE 2015, LAS REFERENCIAS QUE CUALQUIER DISPOSICIÓN HAGA A LA DIRECCIÓN GENERAL DE SERVICIOS MÉDICOS Y DESARROLLO INFANTIL, SE ENTENDERÁN HECHAS A LA DIRECCIÓN GENERAL DE SERVICIOS MÉDICOS, CON EXCEPCIÓN DE AQUELLAS QUE SE RELACIONEN CON SUS ATRIBUCIONES EN MATERIA DE DESARROLLO INFANTIL, MISMAS QUE SE ENTENDERÁN A LA DIRECCIÓN GENERAL DE SERVICIOS AL PERSONAL.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JULIO DE 2015.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -855,39 +857,51 @@ Si así conviniere a sus intereses, el servidor público, durante la sustanciaci
 
 Los acuerdos de trámite dentro del procedimiento especial, serán emitidos por el Presidente y no serán recurribles.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
 ###### Artículo 36.
 
-En el acuerdo de inicio del procedimiento especial, se transcribirá el acuerdo del Pleno en el que se haya decretado la suspensión del servidor público y en el mismo, se solicitará a la Dirección General de Servicios Médicos y Desarrollo Infantil, la designación de un perito médico, de preferencia especialista en la probable enfermedad del servidor público.
+En el acuerdo de inicio del procedimiento especial, se transcribirá el acuerdo del Pleno en el que se haya decretado la suspensión del servidor público y en el mismo, se solicitará a la Dirección General de Servicios Médicos, la designación de un perito médico, de preferencia especialista en la probable enfermedad del servidor público.
 
-Asimismo, se requerirá a éste para que, si conviene a sus intereses, designe a su perito médico. La designación de los referidos peritos deberá ser hecha por la Dirección General de Servicios Médicos y Desarrollo Infantil y por el servidor público, respectivamente, en un término de cinco días naturales contados a partir del día siguiente al de la notificación del acuerdo. Esta notificación se hará en forma personal al servidor público y por oficio a la citada unidad administrativa.
+Asimismo, se requerirá a éste para que, si conviene a sus intereses, designe a su perito médico. La designación de los referidos peritos deberá ser hecha por la Dirección General de Servicios Médicos y por el servidor público, respectivamente, en un término de cinco días naturales contados a partir del día siguiente al de la notificación del acuerdo. Esta notificación se hará en forma personal al servidor público y por oficio a la citada unidad administrativa.
 
-Si el servidor público no designa perito dentro del referido término, se entenderá que consiente el dictamen que rinda el perito designado por la Dirección General de Servicios Médicos y Desarrollo Infantil, salvo lo dispuesto en el artículo 48 de este Acuerdo.
+Si el servidor público no designa perito dentro del referido término, se entenderá que consiente el dictamen que rinda el perito designado por la Dirección General de Servicios Médicos, salvo lo dispuesto en el artículo 48 de este Acuerdo.
+
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
 
 ###### Artículo 37.
 
-Hecha la designación de los peritos, se requerirá a éstos, por conducto de la Dirección General de Servicios Médicos y Desarrollo Infantil y del servidor público, para que rindan sus correspondientes dictámenes, dentro del término de quince días a partir del día siguiente de la notificación respectiva. Este término podrá prorrogarse discrecionalmente por el Presidente o, por una sola vez y por igual lapso.
+Hecha la designación de los peritos, se requerirá a éstos, por conducto de la Dirección General de Servicios Médicos y del servidor público, para que rindan sus correspondientes dictámenes, dentro del término de quince días a partir del día siguiente de la notificación respectiva. Este término podrá prorrogarse discrecionalmente por el Presidente o, por una sola vez y por igual lapso.
+
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
 
 ###### Artículo 38.
 
-El servidor público deberá proporcionar a los peritos, toda la información médica que éstos le requieran. Asimismo, deberá someterse a los exámenes y estudios clínicos que los mismos le soliciten, los que serán a costa del Consejo, exclusivamente cuando hayan sido solicitados por el perito nombrado por la Dirección General de Servicios Médicos y Desarrollo Infantil, o por el perito tercero, designado en los términos del artículo 42 de este Acuerdo.
+El servidor público deberá proporcionar a los peritos, toda la información médica que éstos le requieran. Asimismo, deberá someterse a los exámenes y estudios clínicos que los mismos le soliciten, los que serán a costa del Consejo, exclusivamente cuando hayan sido solicitados por el perito nombrado por la Dirección General de Servicios Médicos, o por el perito tercero, designado en los términos del artículo 42 de este Acuerdo.
+
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
 
 ###### Artículo 39.
 
-El servidor público podrá ser citado a las oficinas de la Dirección General de Servicios Médicos y Desarrollo Infantil, o al lugar que el titular de ésta indique, para que se someta a la revisión médica del perito designado por esa unidad administrativa.
+El servidor público podrá ser citado a las oficinas de la Dirección General de Servicios Médicos, o al lugar que el titular de ésta indique, para que se someta a la revisión médica del perito designado por esa unidad administrativa.
 
-Si dicho servidor público, por su estado de salud, no está en condiciones de viajar, deberá, bajo protesta de decir verdad, manifestarlo dentro del término de cinco días a que se refiere el párrafo primero del artículo 36 de este Acuerdo. En tal caso, el perito médico designado por la Dirección General de Servicios Médicos y Desarrollo Infantil, deberá trasladarse al lugar en el que resida el servidor público.
+Si dicho servidor público, por su estado de salud, no está en condiciones de viajar, deberá, bajo protesta de decir verdad, manifestarlo dentro del término de cinco días a que se refiere el párrafo primero del artículo 36 de este Acuerdo. En tal caso, el perito médico designado por la Dirección General de Servicios Médicos, deberá trasladarse al lugar en el que resida el servidor público.
 
 ###### Artículo 40.
 
 Los dictámenes periciales deberán informar si el servidor público se encuentra o no impedido para el ejercicio de su cargo y, en su caso, si su incapacidad es de carácter temporal o permanente.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
 ###### Artículo 41.
 
-Si el servidor público se niega a someterse a la revisión médica o a los estudios clínicos solicitados por el perito designado por la Dirección General de Servicios Médicos y Desarrollo Infantil, se sobreseerá el procedimiento especial, con la consecuencia prevista en el artículo 47 de este Acuerdo.
+Si el servidor público se niega a someterse a la revisión médica o a los estudios clínicos solicitados por el perito designado por la Dirección General de Servicios Médicos, se sobreseerá el procedimiento especial, con la consecuencia prevista en el artículo 47 de este Acuerdo.
+
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
 
 ###### Artículo 42.
 
-Si los dictámenes emitidos por los peritos designados por la Dirección General de Servicios Médicos y Desarrollo Infantil y por el servidor público, respectivamente, fueran contradictorios, el Presidente solicitará al ISSSTE o a la Procuraduría General de la República, en su caso, la designación de un perito tercero en discordia. En caso de que el ISSSTE y la Procuraduría General de la República no estén en posibilidad de proporcionar el perito correspondiente, podrá solicitarlo a otros organismos públicos.
+Si los dictámenes emitidos por los peritos designados por la Dirección General de Servicios Médicos y por el servidor público, respectivamente, fueran contradictorios, el Presidente solicitará al ISSSTE o a la Procuraduría General de la República, en su caso, la designación de un perito tercero en discordia. En caso de que el ISSSTE y la Procuraduría General de la República no estén en posibilidad de proporcionar el perito correspondiente, podrá solicitarlo a otros organismos públicos.
 
 ###### Artículo 43.
 
@@ -911,9 +925,11 @@ Durante el lapso de separación temporal, el Pleno, discrecionalmente, podrá ot
 
 Para efectos laborales, la separación temporal del servidor público se equipara a la de los servidores públicos que disfrutan de licencia otorgada por el órgano competente del Consejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
 ###### Artículo 47.
 
-Una vez transcurrido el término de suspensión temporal y sus prórrogas, si las hubo, el servidor público deberá someterse a un examen médico, practicado por el perito médico que designe la Dirección General de Servicios Médicos y Desarrollo Infantil, así como a los estudios clínicos que el mismo señale. Dicho perito emitirá un dictamen en el que se determine si cesaron o no las causas que determinaron la incapacidad de aquél.
+Una vez transcurrido el término de suspensión temporal y sus prórrogas, si las hubo, el servidor público deberá someterse a un examen médico, practicado por el perito médico que designe la Dirección General de Servicios Médicos, así como a los estudios clínicos que el mismo señale. Dicho perito emitirá un dictamen en el que se determine si cesaron o no las causas que determinaron la incapacidad de aquél.
 
 Si el referido dictamen es desfavorable al servidor público, o si éste no se sometiera al examen y estudios clínicos mencionados en el párrafo anterior, el Pleno, decretará su separación definitiva, teniendo aplicación, en tal supuesto, lo previsto en el artículo 45 de este Acuerdo.
 
@@ -1493,6 +1509,8 @@ El titular de la Dirección General de Servicios al Personal informará mensualm
 
 #### SECCIÓN SEGUNDA. PRESTACIÓN DE SERVICIOS
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
 ###### Artículo 103.
 
 Se suspenderá el pago de la pensión complementaria cuando el magistrado de Circuito o juez de Distrito jubilado que la estuviere recibiendo, por cualquier causa, regresare al servicio activo en cualquier cargo dentro del Poder Judicial de la Federación.
@@ -1679,31 +1697,79 @@ Cuando el servidor público cause baja y cuente con un préstamo vigente, de as�
 
 El Pleno, a propuesta de la Secretaría Ejecutiva de Administración, y previo visto bueno de la Comisión de Administración, podrá autorizar la creación de un CENDI, siempre que la disponibilidad presupuestal lo permita.
 
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+###### Artículo 127 Bis.
+
+La organización y funcionamiento de los CENDI se regirá conforme a lo previsto en la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil; este Capítulo y las demás disposiciones aplicables.
+
 ###### Artículo 128.
 
 Los casos no previstos en este Capítulo serán resueltos por el Pleno, la Comisión de Administración y la Secretaría Ejecutiva de Administración, en su ámbito de competencia.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+###### Artículo 128 Bis.
+
+Corresponde al Pleno la interpretación administrativa de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+###### Artículo 128 Ter.
+
+En la prestación de servicios del CENDI se debe observar la Política Nacional en materia de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil y atender los principios siguientes:
+
+I. Desarrollo de niñas y niños en todos los aspectos de su vida, ya sean físicos, emocionales, psicosociales, cognitivos, sociales, educativos o culturales;
+
+II. No discriminación e igualdad de derechos;
+
+III. El interés superior de la niñez;
+
+IV. Participación de niñas y niños en todos los asuntos que les atañen; y
+
+V. Equidad de género.
+
+Asimismo, debe orientarse al logro de la observancia y ejercicio de los derechos a que se refiere el artículo 11 de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+###### Artículo 128 Quater.
+
+La Secretaría Ejecutiva de Administración, por conducto de la Dirección General de Servicios al Personal, deberá inscribir cada CENDI en el registro local que corresponda, previa revisión del cumplimiento de requisitos conforme a la modalidad y tipo que se trate y conforme a las leyes locales aplicables.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+###### Artículo 128 Quinquies.
+
+El Consejo podrá celebrar instrumentos convencionales con instituciones públicas, privadas y sociales para que se preste la atención especializada a las niñas y niños que la requieran.
 
 #### SECCIÓN SÉPTIMA. INSCRIPCIÓN Y REINSCRIPCIÓN AL CENDI
 
 ###### Artículo 129.
 
-Tienen derecho a la prestación de servicios del CENDI:
+Los hijos de servidores públicos del Poder Judicial de la Federación, así como los menores de edad de los que sean tutores, tienen derecho a la prestación de servicios de guardería.
 
-I. Los hijos de las madres trabajadoras;
+Las niñas y niños a que se refiere el artículo 130 de este Acuerdo que tengan alguna discapacidad tienen derecho a ser admitidos en los CENDI.
 
-II. Los hijos de los padres trabajadores viudos;
+El ingreso a los CENDI estará sujeto a su infraestructura, a lo previsto en este Acuerdo, y a los lineamientos que determine la Comisión de Administración, los cuales deberán tomar en consideración la perspectiva de género, la protección del menor y la suficiencia presupuestal.
 
-III. Los hijos de los padres trabajadores divorciados que tengan la custodia exclusiva por resolución judicial; y
+La prestación podrá cubrirse a través de los CENDI, de las Estancias para el Bienestar y Desarrollo Infantil del ISSSTE, o mediante el otorgamiento del apoyo económico para la contratación de guarderías particulares.
 
-IV. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 4 DE MARZO DE 2015)
+El apoyo económico se otorgará en caso de que no se cuente con CENDI en la localidad del centro de trabajo del servidor público respectivo; o que habiéndolo no haya cupo en el mismo y no pueda ser admitido en las Estancias para el Bienestar y Desarrollo Infantil del ISSSTE.
+
+Tratándose de menores de edad que padezcan una discapacidad, además de los supuestos previstos en el párrafo anterior, procederá el pago de apoyo económico cuando habiendo CENDI no se cuente con los recursos materiales y humanos para brindar la atención adecuada en el mismo.
+
+El apoyo económico que cubra el Consejo será hasta por el monto que determine la Comisión de Administración en los lineamientos a que se refiere este artículo, y estará sujeto a la suficiencia presupuestal.
 
 ###### Artículo 130.
 
 Los infantes a que se refiere el artículo anterior podrán ingresar y permanecer en el CENDI desde los 45 días de nacidos, como edad mínima, hasta los 5 años 11 meses, cumplidos al inicio del ciclo escolar, de acuerdo con el calendario de la SEP.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
 ###### Artículo 131.
 
-Para la prestación de servicios del CENDI, los servidores públicos deberán tener una antigüedad mínima de seis meses en el Poder Judicial de la Federación y haber incrementado la suma asegurada en su Seguro de Gastos Médicos Mayores, en un monto mayor al que paga el Consejo como prestación de conformidad con el nivel de puesto que les corresponda, así como haber designado al infante como asegurado en la póliza respectiva.
+Para la prestación de servicios del CENDI, los servidores públicos deberán tener una antigüedad mínima de seis meses en el Poder Judicial de la Federación, con excepción de aquellos casos en que los menores estén matriculados en un Centro, cuando su madre o padre haya dejado de prestar sus servicios al referido Poder, por haber sido sancionados con destitución del puesto, si su cónyuge ingresa a alguna área administrativa del Consejo o algún órgano jurisdiccional. En este caso se deberá dar continuidad al servicio sin necesidad de tener dicha antigüedad.
 
 Este servicio no podrá ser proporcionado a las personas contratadas bajo el régimen de honorarios.
 
@@ -1711,9 +1777,11 @@ Este servicio no podrá ser proporcionado a las personas contratadas bajo el ré
 
 (DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 4 DE MARZO DE 2015)
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
 ###### Artículo 133.
 
-Los servidores públicos podrán solicitar el ingreso de sus hijos en el CENDI que se encuentre en su centro de trabajo. En caso de no haber disponibilidad de espacio, o bien, cuando no haya un CENDI en el lugar de trabajo o en sus proximidades, los servidores públicos podrán optar por los servicios de guardería que proporciona el ISSSTE o solicitar por escrito el apoyo económico para la contratación de guarderías particulares. En este último caso, el trámite correspondiente se llevará a cabo ante la Dirección General de Servicios Médicos y Desarrollo Infantil, y estará sujeto a disponibilidad presupuestal.
+El trámite del apoyo económico a que se refiere el artículo 129 de este Acuerdo se llevará a cabo ante la Dirección General de Servicios al Personal, y estará sujeto a disponibilidad presupuestal.
 
 ###### Artículo 134.
 
@@ -1723,9 +1791,11 @@ Los servidores públicos podrán gozar de la prestación del servicio de CENDI h
 
 El Director del CENDI será responsable de la vigilancia en el cumplimiento de las normas que rijan la prestación de los servicios brindados por los CENDI, quien deberá reportar a las instancias del Consejo competentes aquellas anomalías que por su naturaleza e importancia deban hacerse de su conocimiento.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
 ###### Artículo 136.
 
-Los servidores públicos que soliciten el ingreso de sus hijos a un CENDI deberán cumplir con las indicaciones y requisitos que aseguren que los infantes gocen de un estado de salud satisfactorio, que les permita integrarse a las actividades en él desarrolladas.
+Los servidores públicos que soliciten el ingreso de sus hijos a un CENDI deberán cumplir con los requisitos a que se refiere este Capítulo, sin que ninguno de ellos pueda implicar discriminación alguna.
 
 ###### Artículo 137.
 
@@ -1743,9 +1813,11 @@ II. Tercer grado de preescolar hasta que concluya el ciclo escolar correspondien
 
 La prestación de servicios se brindará en las instalaciones de cada CENDI, excepto en los casos en que se programen actividades fuera de éste.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
 ###### Artículo 140.
 
-La prestación de servicios se realizará con el personal previsto en la plantilla básica para cada uno de los CENDI.
+La prestación de servicios se realizará, exclusivamente, con el personal previsto en la plantilla básica para cada uno de los CENDI.
 
 ###### Artículo 141.
 
@@ -1769,13 +1841,11 @@ La prestación de servicios se brindará en los días hábiles del Poder Judicia
 
 No habrá prestación de servicios en los días de descanso señalados en el artículo 104 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales; así como los previstos en el artículo 6 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
 ###### Artículo 145.
 
-En el caso de que al servidor público se le haya otorgado una licencia por enfermedad o maternidad, podrá gozar del servicio del CENDI, siempre y cuando cumpla con lo siguiente:
-
-I. Presentar copia de la licencia respectiva; y
-
-II. En caso de que la incapacidad del trabajador sea por enfermedad infecto contagiosa, el infante será revisado y diagnosticado por el médico del CENDI para poder ingresar a las instalaciones del mismo.
+En el caso de que al servidor público se le haya otorgado una licencia por enfermedad o maternidad, podrá gozar del servicio del CENDI, siempre y cuando presente copia de la licencia respectiva.
 
 ###### Artículo 146.
 
@@ -1795,7 +1865,9 @@ I. Se determine la posibilidad o existencia de un brote epidémico que requiera 
 
 II. Se efectúen obras, reparaciones o remodelaciones que impidan la adecuada prestación del servicio;
 
-III. En caso de emergencia, el Director General de Servicios Médicos y Desarrollo Infantil podrá ordenar la suspensión de la prestación del servicio en uno o varios CENDI, debiendo informar inmediatamente al Consejo sobre las causas que la motivaron. El Consejo determinará si se mantiene o levanta la suspensión, conforme a las circunstancias previstas en este artículo; y
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+III. En caso de emergencia, el Director General de Servicios al Personal podrá ordenar la suspensión de la prestación del servicio en uno o varios CENDI, debiendo informar inmediatamente al Consejo sobre las causas que la motivaron. El Consejo determinará si se mantiene o levanta la suspensión, conforme a las circunstancias previstas en este artículo; y
 
 IV. Por cualquier otra circunstancia que impida el desarrollo de las actividades del CENDI en condiciones de seguridad e higiene.
 
@@ -1804,6 +1876,30 @@ IV. Por cualquier otra circunstancia que impida el desarrollo de las actividades
 ###### Artículo 148.
 
 Los CENDI contarán con el personal y los medios materiales necesarios para cumplir sus funciones eficientemente, de conformidad con lo que disponga la Comisión de Administración, tomando en consideración las cargas de trabajo y las posibilidades presupuestales.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+El personal que labore en los CENDI, estará obligado a participar en los programas de formación, actualización, capacitación y certificación de competencias, así como de protección civil que establezcan las autoridades competentes.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+El Consejo procurará que los CENDI cuenten con personal capacitado en la atención de personas con discapacidad.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+###### Artículo 148 Bis.
+
+Los CENDI que tengan matriculados niñas y niños con discapacidad, conforme a la suficiencia presupuestal, deberán proporcionarles materiales y ayudas técnicas que apoyen su rendimiento académico.
+
+La Secretaría Ejecutiva de Administración, por conducto de la Dirección General de Servicios al Personal, deberá adoptar las medidas necesarias para procurar que los CENDI que lo requieran cuenten con libros en braille, materiales didácticos, apoyo de intérpretes de lengua de señas mexicana o especialistas en sistema braille, equipos computarizados con tecnología para personas ciegas y todos aquellos apoyos que se identifiquen como necesarios para brindar una educación con calidad, en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+###### Artículo 148 Ter.
+
+Cada uno de los CENDI deberá contar con un Programa Interno de Protección Civil, en términos de lo previsto en el artículo 41 de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, y cumplir con las medidas de seguridad y protección civil a que se refiere el Capítulo VIII de dicho ordenamiento.
+
+Asimismo, deberán de contar con las condiciones necesarias de accesibilidad para las personas con discapacidad.
 
 ###### Artículo 149.
 
@@ -1823,9 +1919,11 @@ IV. Área de psicología preventiva; y
 
 V. Área de nutrición.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
 ###### Artículo 151.
 
-El Director General de Servicios Médicos y Desarrollo Infantil establecerá los canales de coordinación con las instancias públicas correspondientes, para la atención de cuestiones vinculadas con la salud y educación de los infantes.
+El Director General de Servicios al Personal establecerá los canales de coordinación con las instancias públicas correspondientes, para la atención de cuestiones vinculadas con la educación de los infantes y la Dirección General de Servicios Médicos hará lo mismo tratándose de la salud de los mismos.
 
 ###### Artículo 152.
 
@@ -1859,7 +1957,9 @@ Es competencia del área de nutrición proporcionar a los infantes los alimentos
 
 Antes del inicio del ciclo escolar el Director del CENDI y los responsables de cada área, formularán los programas que deberán ser aplicados en el período correspondiente.
 
-El contenido de los programas que para el desarrollo integral de los infantes formule el CENDI deberán realizarse de conformidad con las disposiciones aplicables emitidas por la SEP, y su contenido deberá ser aprobado cada ciclo escolar por el Director General de Servicios Médicos y Desarrollo Infantil.
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+El contenido de los programas que para el desarrollo integral de los infantes formule el CENDI deberán realizarse de conformidad con las disposiciones aplicables emitidas por la SEP, y su contenido deberá ser aprobado cada ciclo escolar por el Director General de Servicios al Personal.
 
 Su seguimiento y evaluación estará a cargo del Supervisor.
 
@@ -1873,9 +1973,11 @@ El personal y los trabajadores se abstendrán de realizar cualquier tipo de acci
 
 La alimentación que se proporciona en el horario de prestación de servicios consistirá en colación matutina, comida y colación vespertina. Dicha alimentación será programada por el responsable del área de nutrición, supervisada por el médico pediatra del CENDI y autorizada por el Director del mismo.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
 ###### Artículo 162.
 
-Si por motivos de salud algún infante requiere un horario de alimentación o dieta especial, el servidor público responsable podrá solicitar por escrito al Director del CENDI su autorización para proveer los alimentos que requiera el menor y que éstos sean proporcionados en el horario que se requiera, quien de estimarlo procedente y previo visto bueno del médico pediatra, permitirá el ingreso de los alimentos al CENDI y su suministro de manera extraordinaria. El servidor público deberá adjuntar a su solicitud la receta del médico tratante conforme a lo previsto en la parte final del artículo 171 de este Acuerdo.
+Si por motivos de salud algún infante requiere un horario de alimentación o dieta especial, el servidor público responsable podrá solicitar por escrito al Director del CENDI su autorización para proveer los alimentos que requiera el menor y que éstos sean proporcionados en el horario que se requiera, quien de estimarlo procedente y previo visto bueno del médico pediatra, permitirá el ingreso de los alimentos al CENDI. El servidor público deberá adjuntar a su solicitud la receta del médico tratante conforme a lo previsto en el artículo 171 de este Acuerdo.
 
 ###### Artículo 163.
 
@@ -1901,13 +2003,17 @@ El médico pediatra llevará a cabo diariamente el filtro de salud para autoriza
 
 Cuando el infante presente algún padecimiento o síntoma de enfermedad durante la jornada escolar será atendido por el médico pediatra del CENDI, circunstancia que deberá ser informada al servidor público responsable del infante. En caso de que el Director del CENDI y el médico pediatra lo estimen conveniente se podrá solicitar el retiro del menor del citado Centro.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
 ###### Artículo 168.
 
-En caso de que un infante, durante su estancia en el CENDI, presente síntomas de una enfermedad transmisible, se procederá a aislarlo.
+En caso de que un infante durante el filtro de salud o su estancia en el CENDI presente síntomas de una enfermedad, se dará aviso al servidor público o a la persona autorizada para recibir al infante, para que proceda a su retiro.
 
-El CENDI dará aviso al servidor público o a la persona autorizada para recibir al infante para que proceda a su retiro.
+En este supuesto se extenderá constancia por los días que el médico juzgue conveniente, como justificante de la ausencia del menor de edad.
 
-El médico pediatra dará por escrito las indicaciones médicas necesarias. Si el infante enfermo tuviera un hermano inscrito en el CENDI, y ante la posibilidad de que sea portador de la misma enfermedad, también deberá ser retirado del mismo y suspendido durante el tiempo que estime conveniente el médico pediatra.
+En todo caso el personal del CENDI adoptará las medidas necesarias para salvaguardar la salud de todos los menores del Centro.
+
+En aquellos casos en que se advierta la posibilidad de que un menor de edad sea portador de alguna enfermedad que genere un brote, también deberá ser retirado del mismo durante el tiempo que estime conveniente el médico pediatra.
 
 ###### Artículo 169.
 
@@ -1931,9 +2037,11 @@ El área médica conservará los medicamentos etiquetados en un lugar visible. E
 
 No se recibirán medicamentos que deban administrarse en períodos cortos o que no requieran de un horario preestablecido tales como: homeopáticos, gotas ópticas u oftálmicas, vitaminas, suplementos nutricionales, entre otros.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
 ###### Artículo 174.
 
-Cuando un infante haya sido suspendido por motivos de salud, para reincorporarse al CENDI deberá ser sometido a un examen médico y el servidor público presentará al médico pediatra la constancia del tratamiento recibido o, en su defecto, las recetas de los medicamentos que le hubieren prescrito para certificar que se encuentra sano y apto para reintegrarse al CENDI.
+Cuando un infante deje de asistir al CENDI por motivos de salud, al reincorporarse al mismo, el servidor público presentará al médico pediatra la constancia del tratamiento recibido o, en su defecto, las recetas de los medicamentos que le hubieren prescrito.
 
 ###### Artículo 175.
 
@@ -1943,7 +2051,9 @@ El personal o el trabajador que tengan conocimiento de maltrato o abuso físico 
 
 Cuando un infante presente evidencia de maltrato o abuso físico o psicológico, el Director del CENDI solicitará al médico pediatra o psicólogo que requieran al trabajador responsable del infante, así como al personal que se estime conducente, para que declaren sobre las lesiones o conductas observadas en el menor, para la elaboración de un reporte al respecto.
 
-El Director del CENDI revisará el reporte, y de desprenderse una posible responsabilidad lo deberá hacer del conocimiento del Supervisor, quien a su vez informará a la Dirección General de Servicios Médicos y Desarrollo Infantil, para que se determinen las acciones a seguir.
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+El Director del CENDI revisará el reporte, y de desprenderse una posible responsabilidad lo deberá hacer del conocimiento del Supervisor, quien a su vez informará a la Dirección General de Servicios al Personal, para que se determinen las acciones a seguir.
 
 ###### Artículo 177.
 
@@ -2001,6 +2111,8 @@ En el caso de que el infante cumpla seis años durante el ciclo escolar, continu
 
 #### SECCIÓN DÉCIMA SEGUNDA. SOLICITUD DE RECONSIDERACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
 ###### Artículo 188.
 
 El servidor público acudirá al CENDI correspondiente a su centro de trabajo para informarse de la disponibilidad de vacantes, y en caso de no haber lugar disponible registrará su solicitud de inscripción en la lista de espera correspondiente.
@@ -2013,7 +2125,7 @@ I. Acta de nacimiento del infante;
 
 II. Cartilla Nacional de Vacunación actualizada del infante;
 
-III. Póliza del Seguro de Gastos Médicos Mayores del servidor público, con la que se acredite que la suma asegurada está incrementada en un monto mayor al que paga el Consejo como prestación, de conformidad con el nivel de puesto que le corresponde y que el infante está designado en la relación de asegurados;
+III. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)
 
 IV. Último nombramiento de trabajo;
 
@@ -2057,17 +2169,31 @@ d) Aquellos estudios adicionales que se indiquen.
 
 V. Escrito firmado por el servidor público, en el cual se autorice a que se practiquen curaciones de urgencia al infante y su traslado a una unidad médica, en caso de ser necesario;
 
-VI. Escrito deslindando de responsabilidades al CENDI, si el infante se encuentra bajo control médico en virtud de algún padecimiento sujeto a tratamiento, sobre el cual no haya proporcionado información al servicio médico del CENDI; y
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
 
-VII. Entregar los artículos de uso personal del infante y materiales didácticos solicitados, de conformidad con la sección o grupo en que haya sido inscrito, en la fecha programada para ello.
+VI. Escrito deslindando de responsabilidades al CENDI, si el infante se encuentra bajo control médico en virtud de algún padecimiento sujeto a tratamiento, sobre el cual no haya proporcionado información al servicio médico del CENDI;
+
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+VII. Entregar los artículos de uso personal del infante y materiales didácticos solicitados, de conformidad con la sección o grupo en que haya sido inscrito, en la fecha programada para ello; y
+
+> <small>(ADICIONADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+VIII. En su caso, los demás que determine la Comisión de Administración.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+La Comisión de Administración podrá fijar requisitos adicionales a los previstos en este artículo, por ciclo escolar, a propuesta de la Secretaría Ejecutiva de Administración.
 
 ###### Artículo 193.
 
 Los resultados de los análisis se entregarán, en original, al médico del CENDI, en las fechas previstas para tal efecto, dicha documentación deberá contar con razón social, resultados desglosados, firma del responsable del laboratorio y sello oficial.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
 ###### Artículo 194.
 
-Cuando los resultados de los análisis no sean clínicamente normales y determinen una enfermedad en evolución, el infante sólo podrá ser admitido hasta que un nuevo examen demuestre que la enfermedad en cuestión ha desaparecido, a criterio y decisión del médico pediatra del CENDI.
+Los resultados de los análisis serán parte del historial clínico del menor de edad. En caso de que se detecte algún padecimiento que pudiera generar un brote, el médico pediatra del CENDI, dará seguimiento al tratamiento del mismo, a efecto de que el menor de edad ingrese al Centro cuando, a su juicio, la enfermedad esté controlada o haya desaparecido. Para tal fin el médico podrá solicitar exámenes complementarios. En todo momento se deberán adoptar las medidas necesarias para salvaguardar la salud de dicho menor, y de las niñas y niños del Centro.
 
 ###### Artículo 195.
 
@@ -2075,7 +2201,7 @@ El servidor público deberá presentar al infante en el servicio médico del CEN
 
 ###### Artículo 196.
 
-La valoración médica y psicológica efectuada por el médico pediatra y el psicólogo, deberán determinar si el infante se encuentra apto para ingresar al CENDI.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)
 
 ###### Artículo 197.
 
@@ -2089,11 +2215,19 @@ Concluidos los trámites de inscripción, el Director del CENDI solicitará al s
 
 El Director del CENDI verificará que se integre y se resguarde la documentación de los expedientes que contienen las solicitudes de inscripción, tanto de las peticiones atendidas como de aquellas que fueron denegadas.
 
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+###### Artículo 199 Bis.
+
+En caso de que el servidor público sea sancionado con destitución del puesto, se le suspenderá definitivamente el servicio del CENDI, observándose lo dispuesto en el artículo 138 de este Acuerdo.
+
 ###### Artículo 200.
 
 El servidor público que no cumpla con los requisitos previstos en los artículos 192, 193 y 194 de este Acuerdo no podrá solicitar la reinscripción.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 4 DE MARZO DE 2015)</small>
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+Tampoco lo podrá hacer el servidor público que haya sido sancionado con destitución del puesto. En este caso se estará a lo dispuesto en el artículo 138 de este Acuerdo.
 
 #### SECCIÓN DÉCIMA TERCERA. OBLIGACIONES DEL PERSONAL
 
@@ -2103,7 +2237,7 @@ Los infantes se recibirán diariamente en el mostrador de acceso de las 8:30 a l
 
 ###### Artículo 202.
 
-Se extenderá constancia de suspensión temporal por los días que el médico juzgue conveniente a los infantes que no sean admitidos por presentar síntomas de enfermedad que ponga en riesgo su salud o la del resto de la población infantil del CENDI.
+(DEROGADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)
 
 ###### Artículo 203.
 
@@ -2144,6 +2278,10 @@ El servidor público sólo podrá pasar al interior del CENDI previa autorizaci�
 ###### Artículo 210.
 
 Cuando ocurra alguna situación de contingencia; como un sismo, incendio, u otro; o bien, durante acciones de simulacro, todo trabajador que se encuentre dentro de las instalaciones del CENDI deberá seguir las indicaciones del personal autorizado por el Director del CENDI respectivo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+La Dirección General de Protección Civil y Salud en el Trabajo deberá prever las medidas específicas relacionadas con la evacuación de las personas con discapacidad.
 
 #### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
 
@@ -2201,7 +2339,9 @@ XI. Tratar con cortesía y respeto al personal;
 
 XII. Abstenerse de dar gratificaciones al personal;
 
-XIII. Abstenerse de dar indicaciones al personal sobre cuidados especiales que desee que se proporcionen a sus infantes; así como intervenir en las actividades educativas, de alimentación y de salud, mientras los menores se encuentran en el CENDI;
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+XIII. Abstenerse de dar indicaciones al personal sobre cuidados específicos a sus infantes, con excepción de aquellos que deriven de prescripción médica; así como intervenir, injustificadamente, en las actividades educativas, de alimentación y de salud, mientras los menores se encuentran en el CENDI;
 
 XIV. Informar al Director del CENDI de cualquier anomalía, queja o comentario sobre el funcionamiento del centro respectivo y formular las sugerencias que considere pertinentes;
 
@@ -2245,7 +2385,9 @@ c) En la tercera ocasión, suspensión por cinco días hábiles; y
 
 d) En la cuarta y ulteriores ocasiones, suspensión por diez días hábiles.
 
-II. Cuando se actualicen los supuestos previstos en el artículo 221, fracciones I, II, IV y VI, de este Acuerdo, conforme a lo indicado en el reporte elaborado por el médico pediatra o el psicólogo del CENDI; y
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+II. Cuando se actualice alguno de los supuestos del artículo 220, la suspensión será de uno a tres días hábiles;
 
 III. Cuando se actualicen los supuestos previstos en el artículo 221, fracciones VII y VIII, de este Acuerdo, la suspensión será de cinco días hábiles. En el caso de reincidir en el incumplimiento se impondrá una suspensión de diez días hábiles más. Si al término de la segunda sanción impuesta, el servidor público no cumple con lo solicitado, se estará a lo dispuesto en el artículo 222, fracción III, de este Acuerdo.
 
@@ -2253,15 +2395,19 @@ III. Cuando se actualicen los supuestos previstos en el artículo 221, fraccione
 
 Las amonestaciones por escrito y los avisos de suspensión deberán especificar los motivos que los originan.
 
-El aviso de suspensión precisará la fecha en que inicia y concluye la suspensión de la prestación del servicio, medida que deberá ser notificada cuando menos un día hábil previo de la fecha del inicio de ésta, salvo el caso previsto en el artículo 168 de este Acuerdo.
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+El aviso de suspensión precisará la fecha en que inicia y concluye la suspensión de la prestación del servicio, medida que deberá ser notificada cuando menos un día hábil previo a la fecha de inicio de ésta.
 
 ###### Artículo 218.
 
 La amonestación escrita y el aviso de suspensión de la prestación del servicio deberán ser firmados de recibido por el servidor público, en caso de no hacerlo, se asentará en la copia dicha circunstancia, en presencia de dos testigos, que deberán firmar dicha acta.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
 ###### Artículo 219.
 
-El Director del CENDI formulará las amonestaciones verbales y escritas, y determinará las suspensiones temporales de hasta 5 días. El Supervisor acordará las suspensiones temporales que excedan este término y el Director General de Servicios Médicos y Desarrollo Infantil las suspensiones definitivas.
+El Director del CENDI formulará las amonestaciones verbales y escritas, y determinará las suspensiones temporales de hasta 5 días. El Supervisor acordará las suspensiones temporales que excedan este término y el Director General de Servicios al Personal las suspensiones definitivas.
 
 ###### Artículo 220.
 
@@ -2291,9 +2437,11 @@ XI. Cuando el servidor público no informe de los cambios de domicilio y teléfo
 
 XII. Cuando el servidor público no cumpla con lo dispuesto en el artículo 145 de este Acuerdo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
 ###### Artículo 221.
 
-Serán motivo de suspensión por causas de salud:
+También serán motivo de suspensión:
 
 I. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 4 DE MARZO DE 2015)
 
@@ -2301,11 +2449,11 @@ II. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO
 
 III. Cuando el servidor público muestre una actitud negligente y poco cooperadora durante la aplicación de un programa o tratamiento que haya sido indicado por el médico o psicólogo del CENDI para resolver algún problema que presente el infante;
 
-IV. Cuando el infante padezca alguna enfermedad de tipo parasitario;
+IV. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)
 
 V. Cuando el infante sea presentado desaseado conforme al reporte que presente el personal encargado del filtro de salud;
 
-VI. Cuando el infante padezca dermatitis perianal, es decir, rozaduras, conforme al reporte que presente el personal encargado del filtro de salud;
+VI. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)
 
 VII. Cuando no se haya cumplido el programa de vacunación obligatorio conforme a lo dispuesto por la Secretaría de Salud; y
 
@@ -2337,23 +2485,27 @@ X. Se compruebe que el servidor público otorga gratificaciones al personal;
 
 XI. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 4 DE MARZO DE 2015)
 
-XII. Exista un trastorno emocional o de conducta que impida la integración del infante a las actividades del CENDI, y a pesar de seguir el tratamiento indicado por el médico especialista al cual haya sido canalizado, no manifieste mejora en su comportamiento, y tal circunstancia afecte el desarrollo del trabajo educativo del grupo; y
+XII. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)
 
-XIII. Por cualquier otro motivo grave a juicio del Director del CENDI, previo acuerdo con el Supervisor y autorización del Director General de Servicios Médicos y Desarrollo Infantil.
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+XIII. Por cualquier otro motivo grave a juicio del Director del CENDI, previo acuerdo con el Supervisor y autorización del Director General de Servicios al Personal.
 
 #### SECCIÓN CUARTA. ANTICIPOS
 
 ###### Artículo 223.
 
-El servidor público podrá presentar solicitud de reconsideración en contra de la amonestación escrita, la suspensión temporal o definitiva y la negativa de inscripción al CENDI, mediante escrito dirigido a la Dirección General de Servicios Médicos y Desarrollo Infantil, en el que expresará sus motivos de inconformidad.
+El servidor público podrá presentar solicitud de reconsideración en contra de la amonestación escrita, la suspensión temporal o definitiva y la negativa de inscripción al CENDI, mediante escrito dirigido a la Dirección General de Servicios al Personal, en el que expresará sus motivos de inconformidad.
 
 El plazo para formular la solicitud de reconsideración será de cinco días hábiles siguientes a la fecha en que se tenga por recibida la amonestación escrita, la suspensión o la notificación que niegue la inscripción.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
 ###### Artículo 224.
 
-La Secretaría Ejecutiva de Administración será competente para resolver las solicitudes de reconsideración en las que se reclame una suspensión definitiva; en los demás casos será la Dirección General de Servicios Médicos y Desarrollo Infantil, la unidad administrativa competente para emitir la resolución que corresponda.
+La Secretaría Ejecutiva de Administración será competente para resolver las solicitudes de reconsideración en las que se reclame una suspensión definitiva; en los demás casos será la Dirección General de Servicios al Personal, la unidad administrativa competente para emitir la resolución que corresponda.
 
-La solicitud de reconsideración se substanciará de plano por la Dirección General de Servicios Médicos y Desarrollo Infantil, quien deberá emitir la resolución que corresponda dentro de los treinta días hábiles siguientes al de su recepción o, en su caso, proponer el proyecto de resolución a la Secretaría Ejecutiva de Administración.
+La solicitud de reconsideración se substanciará de plano por la Dirección General de Servicios al Personal, quien deberá emitir la resolución que corresponda dentro de los treinta días hábiles siguientes al de su recepción o, en su caso, proponer el proyecto de resolución a la Secretaría Ejecutiva de Administración.
 
 ###### Artículo 225.
 
@@ -2432,6 +2584,20 @@ b) Llevar a cabo la inscripción de los menores, verificando que esté completo 
 c) Supervisar el bienestar social del menor durante su permanencia en el CENDI; y
 
 d) Propiciar el diálogo entre los servidores públicos y personal del CENDI.
+
+> <small>(ADICIONADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+
+V. En el área psicológica preventiva:
+
+a) Vigilar, valorar y contribuir al adecuado desarrollo de las áreas motriz, de lenguaje, cognitiva y conductual;
+
+b) Orientar a los servidores públicos sobre los factores que coadyuven al desarrollo psicológico de los menores;
+
+c) Asesorar al personal pedagógico para generar las condiciones y ambientes interactivos adecuados entre el adulto y el menor;
+
+d) Realizar diagnóstico y detección de necesidades educativas específicas; y
+
+e) Brindar atención psicológica preventiva a los menores durante su estancia en el CENDI y, en caso de que requieran seguimiento informarlo al padre o tutor para que sean atendidos por especialistas fuera del Centro.
 
 ### CAPÍTULO TERCERO. INSTRUMENTOS JURÍDICOS
 
@@ -10794,3 +10960,17 @@ ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA LOS 
 PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 23 DE JULIO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Los recursos humanos, financieros y materiales con los que cuenta la Dirección General de Servicios Médicos y Desarrollo Infantil, que estén asignados para el ejercicio de sus atribuciones en materia de desarrollo infantil, se transfieren (sic) Dirección General de Servicios al Personal.
+
+Para la transferencia se deberán suscribir las respectivas actas de entrega-recepción, con la intervención de la Contraloría del Poder Judicial de la Federación, en el ámbito de sus atribuciones.
+
+CUARTO. Las referencias que cualquier disposición haga a la Dirección General de Servicios Médicos y Desarrollo Infantil, se entenderán hechas a la Dirección General de Servicios Médicos, con excepción de aquellas que se relacionen con sus atribuciones en materia de desarrollo infantil, mismas que se entenderán a la Dirección General de Servicios al Personal.
+
+QUINTO. La Secretaría Ejecutiva de Administración, por conducto de las unidades administrativas competentes que le estén adscritas, adoptará las acciones necesarias para la implementación del presente Acuerdo.
