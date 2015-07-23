@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-adquisiciones-y-enajenaciones-del-gobierno-del-10503"
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-14"
-last_updated: "2012-04-21"
+last_updated: "2015-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "JAL"
 
 LEY DE ADQUISICIONES Y ENAJENACIONES DEL GOBIERNO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ADQUISICIONES Y ENAJENACIONES DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 23 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 21 DE ABRIL DE 2012 NO APLICA AL ARTICULADO DEL DECRETO 23644/LIX/11 PUBLICADO EN EL P.O. DE 15 DE DICIEMBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2015 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 14 de marzo de 1995.
 
@@ -431,7 +431,7 @@ Si transcurrido el término que se señala en el párrafo primero de este artíc
 
 La Secretaría podrá suspender o cancelar el registro de un proveedor del padrón, cuando:
 
-I. Incurra en incumplimiento a lo establecido en esta ley que ameriten la suspensión o cancelación de su registro; y (sic)
+I. Incurra en incumplimiento a lo establecido en esta ley que ameriten la suspensión o cancelación de su registro; y
 
 II. Advierta que la información proporcionada por el proveedor es incompleta o inconsistente, o bien, no se presenten los documentos para acreditarla;
 
@@ -744,3 +744,25 @@ P.O. 15 DE DICIEMBRE DE 2011.
 P.O. 23 DE FEBRERO DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 23 DE JULIO DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley de Adquisiciones y Enajenaciones del Gobierno del Estado.
+
+TERCERO. Las alusiones que otras disposiciones legales efectúen a la Ley de Adquisiciones y Enajenaciones del Gobierno del Estado se entenderán hechas a la presente Ley.
+
+CUARTO. El Titular del Poder Ejecutivo del Estado en el ejercicio de sus atribuciones expedirá el Reglamento de la presente Ley, dentro de los treinta días naturales siguientes a la entrada en vigor del presente decreto.
+
+QUINTO. Por única ocasión y de conformidad a lo dispuesto por los artículos 10, 12, 13 y 14 de esta Ley, los montos en moneda nacional a los que se sujetarán las adquisiciones de los Poderes Legislativo, Ejecutivo y Judicial, y de los órganos a los que la Constitución del Estado otorga autonomía, para el ejercicio fiscal 2015, se dispondrán en esta ley y serán los siguientes:
+
+I. Fondo revolvente: de $0 a $12,500.00;
+
+II. Invitación: de $12,501.00 a $5'000,000.00;
+
+III. Concurso: de $5'000,001.00 a $35'000,000.00; y
+
+IV. Licitación Pública: de $35'000,001.00 en adelante.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
