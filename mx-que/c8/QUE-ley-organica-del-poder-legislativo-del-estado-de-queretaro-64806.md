@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2015-04-17"
+last_updated: "2015-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -451,9 +451,11 @@ Cuando la iniciativa proponga la creación de organismos, dependencias o la ampl
 
 (Iniciativas de particulares) Las iniciativas de particulares serán presentadas en los términos de la ley de la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2015)</small>
+
 ###### Artículo 44.
 
-(Turno de la iniciativa) Las iniciativas serán turnadas para su dictamen a la Comisión correspondiente, por el Presidente de la Mesa Directiva, en un plazo máximo de cinco días contados a partir de su recepción o aclaración, en su caso. Se exceptúan de lo anterior, las iniciativas presentadas durante los últimos sesenta días naturales anteriores al término del ejercicio constitucional de la Legislatura, las cuales serán turnadas a la Comisión que corresponda en el plazo señalado contados a partir del inicio del funcionamiento de la Legislatura siguiente.
+(Turno de la iniciativa) Las iniciativas serán turnadas para su dictamen a la Comisión que corresponda, por el Presidente de la Mesa Directiva, en un plazo máximo de cinco días, contados a partir de su recepción o aclaración, en su caso. Se exceptúan de lo anterior, las iniciativas ingresadas durante los últimos sesenta días naturales anteriores al término del ejercicio constitucional de la Legislatura, las cuales serán turnadas a la Comisión respectiva dentro del plazo señalado, contado a partir del inicio del funcionamiento de la Legislatura siguiente, salvo cuando se trate de iniciativas presentadas por el titular del Poder Ejecutivo del Estado de Querétaro o por la Junta de Concertación Política, las que podrán presentarse en cualquier momento y ser turnadas a la Comisión pertinente, para que sean dictaminadas.
 
 Las iniciativas turnadas se harán del conocimiento de los integrantes del Pleno.
 
@@ -2226,3 +2228,11 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su apr
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. Remítase la presente Ley al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 24 DE JULIO DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su aprobación por el Pleno de la Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente ordenamiento legal.
+
+Artículo Tercero. Remítase la Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
