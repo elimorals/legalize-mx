@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2014-12-19"
+last_updated: "2015-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2015.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -4814,6 +4814,14 @@ La esposa que sin culpa suya se vea obligada a vivir separada de su marido, si n
 ###### Artículo 858.
 
 Para la fijación, el aseguramiento y el pago de las pensiones alimenticias, el Juez procederá según su prudente arbitrio, estando facultado para fijar de plano el monto de la pensión cuando sea provisional.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+Una vez fijada la pensión provisional el juez requerirá a la acreedora alimentaria para que presente ante el fondo de mejoramiento para la impartición de justicia, o Institución bancaria, copia de su identificación oficial así como su comprobante de domicilio, con el objetivo que de inmediato se inicie el trámite ante la institución bancaria respectiva, debiéndosele expedir su tarjeta de débito, y así estar en aptitud de hacer su cobro correspondiente; de igual manera, en el mismo acuerdo se le hará saber al deudor alimentista que, a partir de su próxima consignación, ésta deberá de depositarse directamente ante el banco, a la cuenta existente para tal efecto; quedando obligado el citado Fondo a informar al Juez si el consignante dejó de realizar sus depósitos.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+Una vez hecho lo anterior, el Juez concluirá el expediente y ordenará archivarlo.
 
 ###### Artículo 859.
 
@@ -17440,3 +17448,9 @@ P.O. 19 DE DICIEMBRE DE 2014.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE JULIO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
