@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-penales-para-el-estado-libre-y-7193"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-07"
-last_updated: "2014-11-19"
+last_updated: "2015-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA RO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO NÚMERO 121, PUBLICADO EN EL P.O. DE 6 DE JUNIO DE 2014, LOS PROCEDIMIENTOS PENALES INICIADOS CON ANTERIORIDAD A LA ENTRADA EN VIGOR DEL SISTEMA PROCESAL PENAL ACUSATORIO Y ORAL EN EL ESTADO, SERÁN CONCLUIDOS CONFORME A LAS DISPOSICIONES LEGALES VIGENTES CON ANTERIORIDAD A LA ENTRADA EN VIGOR DE DICHO SISTEMA EN EL DISTRITO JUDICIAL QUE CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2015.
 
 > <small>N. DE E. CONTIENE LA DECLARATORIA PUBLICADA EN EL P.O. DE 6 DE JUNIO DE 2014.</small>
 
@@ -671,6 +671,10 @@ El auto de formal prisión se comunicará al jefe del establecimiento donde se e
 
 El auto de formal prisión y el de sujeción a proceso se comunicarán en la misma forma al superior jerárquico del acusado, cuando éste fuere militar, empleado o funcionario público.
 
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+Si se tratara de un extranjero, el auto de formal prisión o de sujeción a proceso se hará del conocimiento del Instituto Nacional de Migración para los efectos de lo dispuesto en el artículo 48 de la Ley de Migración.
+
 ###### Artículo 68.
 
 Dictado el auto de formal prisión, o el de sujeción a proceso, se identificará al acusado por el sistema adoptado administrativamente y, en todo caso se comunicará a las oficinas de identificación las resoluciones que pongan fin al proceso y que hayan causado ejecutoria, para que se hagan las anotaciones correspondientes.
@@ -1307,7 +1311,7 @@ El perito emitirá su dictamen por escrito y lo ratificará en diligencia especi
 
 ###### Artículo 166.
 
-El perito oficial no necesitará ratificar su dictamen, sino cuando el funcionario que practique las diligencias lo estime necesario.
+(DEROGADO, P.O. 24 DE JULIO DE 2015)
 
 ###### Artículo 167.
 
@@ -4446,3 +4450,9 @@ P.O. 19 DE NOVIEMBRE DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo y su aplicación estará sujeta al Decreto 121 emitido por la XIV Legislatura.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE JULIO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
