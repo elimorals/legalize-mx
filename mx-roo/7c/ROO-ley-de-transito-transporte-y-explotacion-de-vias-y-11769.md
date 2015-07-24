@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-transito-transporte-y-explotacion-de-vias-y-11769"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-16"
-last_updated: "2015-05-28"
+last_updated: "2015-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE TRÁNSITO, TRANSPORTE Y EXPLOTACIÓN DE VÍAS Y CARRETERAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2015.
 
 Ley publicada en el Extraordinario del Periódico Oficial de Estado de Quintana Roo, el 16 de diciembre de 1996.
 
@@ -403,6 +403,12 @@ El transporte de pasajeros de carga y el especializado en el Estado de Quintana 
 
 Los vehículos de servicio público, son los que utilizando las vías y carreteras del Estado, perciben remuneración económica por efectuar dicho servicio y a la vez cubren las necesidades que en materia de autotransporte se requiera para el desarrollo de la entidad.
 
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+ARTICULO 31 BIS.- Los vehículos de servicio público de transporte de pasajeros que cumplan con las disposiciones contenidas en ésta ley y demás disposiciones aplicables, podrán pactar sus servicios, por medio de contrato verbal, escrito, o por medio de servicios electrónicos, informáticos, de internet, de correo electrónico, de teléfono incluyendo celulares y/o aplicaciones o programas utilizados por dichos medios.
+
+No será servicio público de transporte de pasajeros, el que se pretenda brindar o se brinde por particulares sin la autorización del Titular del Poder Ejecutivo a que hace referencia al artículo 32 de esta ley, independientemente de que dicho servicio se haya solicitado y pactado, por medio de contrato verbal, escrito, o por medio de servicios electrónicos, informáticos, de internet, de correo electrónico, de teléfono incluyendo celulares y/o aplicaciones o programas utilizados por dichos medios. La realización de esta actividad será sancionada en términos de esta ley, sus reglamentos y demás disposiciones aplicables.
+
 ###### ARTICULO 32.
 
 Para la prestación del servicio público de autotransporte, será necesario contar con la autorización del Ejecutivo del Estado mediante concesión que al efecto otorgue el titular de este. La citada concesión establecerá los requisitos que señalen los reglamentos, tales como itinerarios, territorio de operación, horarios, tarifas y modalidades que la misma autoridad fije, otorgándose en forma de concesión los que podrán ser:
@@ -459,7 +465,7 @@ Los convenios, operaciones o actos que transfieran o modifiquen la titularidad d
 
 ###### ARTICULO 42.
 
-El socio concesionario afiliado a alguna Agrupación Sindical, podrá en lo persona (sic) o por interpósitas personas, siempre y cuando estas últimas no excedan de dos, explotar la aludida concesión, de conformidad con los contratos que celebren entre si y que establezcan las leyes aplicables según el caso.
+El socio concesionario afiliado a alguna Agrupación Sindical, podrá en lo (sic) persona o por interpósitas personas, siempre y cuando estas últimas no excedan de dos, explotar la aludida concesión, de conformidad con los contratos que celebren entre si y que establezcan las leyes aplicables según el caso.
 
 ###### ARTICULO 43.
 
@@ -775,7 +781,7 @@ EL C. SECRETARIO DE INFRAESTRUCTURA, MEDIO AMBIENTE Y PESCA.
 
 ARQ. SERGIO PEREZ ERALES.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE MARZO DE 2011.
 
@@ -800,3 +806,7 @@ P.O. 28 DE MAYO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor el día ocho de junio del año dos mil quince, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente decreto.
+
+P.O. 24 DE JULIO DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
