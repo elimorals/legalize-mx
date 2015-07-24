@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-8648
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-03"
-last_updated: "2013-07-05"
+last_updated: "2015-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE MOVILIDAD PARA EL TRANSPORTE DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 3 de marzo de 2012.
 
@@ -717,9 +717,9 @@ El Instituto establecerá los lineamientos y mecanismos de verificación del cum
 
 Los programas de capacitación en materia de transporte podrán ser impartidos, evaluados y acreditados por las instituciones públicas y privadas de educación y capacitación tecnológica y superior, que cuenten con reconocimiento oficial ante las autoridades competentes de la materia, y podrán suscribir convenios con el Estado y los concesionarios para la impartición de los programas de capacitación.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
-El Instituto evaluará y supervisará la correcta impartición de los programas de capacitación a los que se refiere esta Ley.
+El Instituto evaluará y supervisará la correcta impartición de los programas de capacitación a los que se refiere esta Ley; asimismo, en el ámbito de sus atribuciones administrativas y sin perjuicio de la intervención que corresponda a las autoridades federales competentes, verificará que los concesionarios de transporte público en las modalidades de transporte colectivo urbano, semiurbano e intermunicipal, de taxi y servicio mixto, empleen para la prestación del servicio, únicamente operadores que gocen de prestaciones y acceso a la seguridad social, conforme a las disposiciones de la Ley Federal del Trabajo y demás ordenamientos aplicables. Esta disposición no aplicará en los casos en que la unidad utilizada para la prestación del servicio sea operada por el propio concesionario o permisionario.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -892,6 +892,10 @@ Para el cumplimiento de lo anterior se estará a las normas Reglamentarias que d
 ###### Artículo 61.
 
 Los concesionarios de este servicio, deberán contar con una organización empresarial sustentada en personal administrativo, operativo y técnico así como con instalaciones administrativas que les permita una eficiente prestación del servicio.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+Es obligación solidaria de los concesionarios y, en su caso, de los propietarios de los vehículos afectos al servicio, garantizar que los operadores que conduzcan las unidades empleadas para su prestación en la modalidad de transporte colectivo urbano, suburbano o intermunicipal, gocen de seguridad social y acceso a prestaciones conforme lo establece la Ley Federal del Trabajo y demás ordenamientos aplicables.
 
 ###### Artículo 62.
 
@@ -1161,6 +1165,12 @@ III. Cumplir las condiciones que fueron fijadas en la autorización otorgada por
 
 El Instituto podrá practicar visitas de inspección al sitio, para verificar el cumplimiento de las disposiciones de este artículo, así como las contenidas en la autorización otorgada por el Municipio.
 
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+###### Artículo 100 Bis.
+
+Es obligación solidaria de los concesionarios y en su caso, de los propietarios de los vehículos afectos al servicio, garantizar que los operadores que conduzcan las unidades empleadas para su prestación en la modalidad de taxi, gocen de seguridad social y acceso a prestaciones, conforme lo establece la Ley Federal del Trabajo y demás ordenamientos aplicables.
+
 ### Capítulo Cuarto. Del servicio público de transporte mixto
 
 ###### Artículo 101.
@@ -1192,6 +1202,10 @@ Los vehículos de este servicio deberán llevar letreros, en lugar visible para 
 El Instituto establecerá las condiciones de operación de esta modalidad de servicio, conforme a los resultados de los estudios técnicos que para tal efecto se realicen.
 
 El servicio de transporte mixto se sujetará a las disposiciones reglamentarias que de esta ley se deriven.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+Los concesionarios de transporte mixto deberán otorgar a los operadores que empleen para la prestación del servicio, la protección laboral a que se refieren los artículos 41, 61 y 100 Bis del presente ordenamiento.
 
 ### Capítulo Único. Disposiciones generales
 
@@ -1319,13 +1333,15 @@ Las personas físicas y jurídicas colectivas podrán ser titulares de más de u
 
 El Poder Ejecutivo del Estado vigilará que no se formen ni propicien, al amparo de esta disposición, monopolios, concentraciones, competencia desleal u otros fenómenos ilícitos de acaparamiento del mercado de conformidad con lo dispuesto por la ley de la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2015)</small>
+
 ###### Artículo 124.
 
-Las concesiones que se otorguen para la prestación del servicio público y especial de transporte tendrán una vigencia de diez años, pudiendo prorrogarse por períodos iguales, previa evaluación de la prestación del servicio en la forma y términos que establece la presente ley y las normas reglamentarias que de esta se deriven.
+Los concesionarios deberán refrendar de forma anual, ante el Instituto, la concesión respectiva, bajo las condiciones y montos que se establezcan en las disposiciones legales aplicables.
 
 Se prohíbe prestar un servicio de transporte distinto al amparado por el título de concesión respectivo.
 
-Con independencia de lo anterior, los concesionarios previa autorización de la Secretaría de Gobierno, deberán refrendar de forma anual la concesión respectiva, en la forma y montos que se establezca en la ley fiscal correspondiente.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE JULIO DE 2015)</small>
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -1335,19 +1351,7 @@ El refrendo es la revalidación anual que otorga el Instituto previa petición d
 
 ###### Artículo 126.
 
-Para la prórroga de vigencia de una concesión se requerirá de la solicitud del concesionario con doce meses de anticipación a la fecha de su vencimiento y de seis meses para el caso del servicio especial de transporte, expresando la justificación técnica y financiera así como las propuestas que en su caso formule para mejorar la calidad en la prestación del servicio.
-
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
-
-Una vez presentada la solicitud de renovación de vigencia, el Instituto iniciará la revisión de las evaluaciones anuales del servicio a cargo del concesionario solicitante. Cuando el concesionario no presente su solicitud de renovación de vigencia de la concesión a su favor o si de la suma total promedio de las evaluaciones anuales resulta un valor no aprobatorio, el Instituto procederá con una nueva licitación de este servicio, debiendo notificar personalmente al concesionario noventa días anteriores al vencimiento del término de la concesión.
-
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
-
-Cuando el resultado de la suma total promedio de las evaluaciones anuales resulta un valor aprobatorio, el Instituto emitirá un dictamen previo sobre la factibilidad de la prórroga de la concesión, para emitir la resolución respectiva, la cual deberá notificarse personalmente al concesionario dentro de los noventa días anteriores al vencimiento del término de la concesión y publicarse en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
-
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2013)</small>
-
-Cuando no se hayan realizado las evaluaciones anuales del servicio por parte del Instituto, el dictamen sobre la factibilidad de la prórroga de la concesión se sustentará en el cumplimiento o no del servicio.
+(DEROGADO, P.O. 24 DE JULIO DE 2015)
 
 ###### Artículo 127.
 
@@ -1431,7 +1435,7 @@ VIII. Tipo y número de vehículos que ampara la concesión, y en el caso del se
 
 IX. Número económico asignado a los vehículos;
 
-X. Vigencia de la concesión;
+X. (DEROGADA, P.O. 24 DE JULIO DE 2015)
 
 XI. Derechos y obligaciones del titular de la concesión;
 
@@ -1451,7 +1455,7 @@ Las concesiones se extinguen por las siguientes causas:
 
 I. Muerte del titular en caso de personas físicas que no hayan designado beneficiarios o cuando habiéndolo designado, éste no cumpla con los requisitos previstos en esta Ley;
 
-II. Vencimiento del plazo de vigencia de la concesión, sin haberse otorgado prórroga;
+II. (DEROGADA, P.O. 24 DE JULIO DE 2015)
 
 III. Extinción, liquidación, quiebra o concurso de las personas morales titulares;
 
@@ -1481,7 +1485,9 @@ Las concesiones no podrán transmitirse, salvo por autorización previa y expres
 
 La transmisión de una concesión será gratuita y deberá previamente ser autorizada por el Instituto, conforme al procedimiento y requisitos que para ello dispongan las normas reglamentarias que de esta Ley se deriven. Cualquier transmisión onerosa o sin la autorización del Instituto será causal de revocación.
 
-En este caso, la concesión transmitida continuará con la vigencia originalmente otorgada así como las (sic) demás términos y condiciones en ella establecidos.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
+
+En este caso, la concesión transmitida continuará en los términos y condiciones en ella establecidos.
 
 ###### Artículo 137.
 
@@ -1847,7 +1853,7 @@ Las tarifas diurna y nocturna sólo se establecerán cuando se tenga autorizada 
 
 ## Título Séptimo. De los derechos y obligaciones
 
-### Capítulo Primero. Derechos y obligaciones de los concesionarios y (sic)
+### Capítulo Primero. Derechos y obligaciones de los concesionarios y
 
 ###### Artículo 175.
 
@@ -1979,7 +1985,9 @@ El Instituto integrará y administrará el Registro Público de Transporte que c
 
 I. Del concesionario: Nombre, denominación o razón social, los documentos que amparen su identidad o legal existencia así como la personalidad de su representante legal, en su caso, domicilio legal, datos de identificación fiscal, resultados de evaluaciones del servicio realizadas, registro de la infraestructura física afecta al servicio así como las infracciones a la presente ley y su reglamento;
 
-II. De las concesiones: Original del título de concesión, vigencia, ruta e itinerario en el caso del servicio público colectivo así como de las resoluciones para su otorgamiento, transmisión, suspensión, revocación o prórroga y las modificaciones de concesión. Sentencias de tribunales judiciales y administrativos que hayan causado estado, en las que se ordene la modificación, cancelación o rectificación de las concesiones;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
+
+II. De las concesiones: Original del título de concesión, ruta e itinerario en el caso del servicio público colectivo, así como de las resoluciones para su otorgamiento, transmisión, suspensión, revocación o prórroga y las modificaciones de concesión. Sentencias de tribunales judiciales y administrativos que hayan causado estado, en las que se ordene la modificación, cancelación o rectificación de las concesiones;
 
 III. De los conductores: Datos del conductor, licencia de conducir y capacitaciones recibidas y aprobadas, resultados de exámenes para la detección de consumo de drogas o alcohol así como infracciones a la presente ley y a las normas reglamentarias que de esta se deriven;
 
@@ -2057,9 +2065,7 @@ I. Explotar el servicio de transporte autorizado;
 
 II. Cobrar la tarifa autorizada;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
-
-III. Solicitar la prórroga de la vigencia de la concesión; y
+III. (DEROGADA, P.O. 24 DE JULIO DE 2015)
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -2121,9 +2127,9 @@ XVII. Proporcionar los datos e información para la integración y actualizació
 
 XVIII. Abstenerse de instalar u operar en los vehículos de servicio, cualquier tipo de equipo que emita sonidos o luces que dificulten la visión o concentración de los conductores de la unidad o de otros vehículos o aditamentos que dificulten la visibilidad hacia o desde el interior del vehículo;
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
 
-XIX. Proporcionar capacitación a sus conductores conforme al contenido autorizado por el Instituto;
+XIX. Proporcionar a sus conductores, conforme al contenido autorizado por el Instituto, capacitación de calidad para la adecuada prestación del servicio público; así como las prestaciones laborales y la cobertura de seguridad social que establece la Ley Federal del Trabajo y demás ordenamientos aplicables.
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -2194,6 +2200,10 @@ XIV. Las demás que establezca la presente ley y las normas reglamentarias que d
 ###### Artículo 197.
 
 Los conductores del servicio público de transporte deberán hacer entrega a los usuarios del comprobante que ampare el pago de la tarifa e incluya el seguro, en los términos de la Reglamentación correspondiente.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+Así mismo, a petición del personal de inspección y vigilancia del Instituto, los conductores deberán exhibir la documentación que acredite que se encuentran registrados ante las autoridades competentes como trabajadores del concesionario responsable de la prestación del servicio. Las normas reglamentarias de esta Ley podrán establecer mecanismos alternativos y fidedignos para acreditar el cumplimiento de esta obligación a cargo del concesionario.
 
 ###### Artículo 198.
 
@@ -2425,7 +2435,7 @@ XVI. Realice la prestación del servicio en una jurisdicción territorial distin
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2013)</small>
 
-XVII. Realice ascenso o descenso de pasaje en un lugar distinto al autorizado; y (sic)
+XVII. Realice ascenso o descenso de pasaje en un lugar distinto al autorizado; y
 
 XVIII. (DEROGADA, P.O. 5 DE JULIO DE 2013)
 
@@ -2499,7 +2509,7 @@ IV. No respete los asientos designados a los adultos mayores de sesenta años, p
 
 V. No respetan la zona destinada para ellos;
 
-VI. Hagan uso del servicio bajo el influjo de cualquier tipo de drogas, enervantes o psicotrópicos de cualquier tipo o de bebidas alcohólicas; y (sic)
+VI. Hagan uso del servicio bajo el influjo de cualquier tipo de drogas, enervantes o psicotrópicos de cualquier tipo o de bebidas alcohólicas; y
 
 VII. (DEROGADA, P.O. 5 DE JULIO DE 2013)
 
@@ -2585,9 +2595,17 @@ X. El concesionario permita a un conductor prestar el servicio bajo el efecto de
 
 XI. Alguno de los conductores del concesionario haya incurrido en tres o más infracciones a la presente ley y sus normas reglamentarias que pongan en riesgo la seguridad del usuario o ciudadanía en general;
 
-XII. El concesionario o conductor del vehículo del servicio público de transporte se oponga a la remisión del vehículo a un establecimiento de depósito autorizado con motivo de la imposición de una boleta de infracción por violación a las disposiciones contenidas en la presente ley y en las normas reglamentarias que de ésta se deriven, y
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
 
-XIII. Por las demás que se establezcan en el título de concesión y se califiquen expresamente como causas de suspensión.
+XII. El concesionario o conductor del vehículo del servicio público de transporte se oponga a la remisión del vehículo a un establecimiento de depósito autorizado con motivo de la imposición de una boleta de infracción por violación a las disposiciones contenidas en la presente Ley y en las normas reglamentarias que de ésta se deriven;
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
+
+XIII. Por las demás que se establezcan en el título de concesión y se califiquen expresamente como causas de suspensión; y
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2015)</small>
+
+XIV. El concesionario emplee para la prestación del servicio, operadores que no cuenten con prestaciones laborales ni cobertura de seguridad social conforme a las leyes de la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -2776,3 +2794,9 @@ Artículo Decimosegundo. El Poder Ejecutivo del Estado, con el objeto de cumplir
 Artículo Decimotercero. Para el cumplimiento de los artículos 6 y 10, el titular del Poder Ejecutivo, emitirá el Programa Estatal de Transporte, con la participación de los Municipios a partir del 1 de octubre del año 2015.
 
 Artículo Decimocuarto. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en esta Ley.
+
+P.O. 24 DE JULIO DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
