@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2014-12-19"
+last_updated: "2015-07-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -64,8 +64,6 @@ La impartición de justicia en el Estado, es función exclusiva de los Tribunale
 ###### Artículo 3º.
 
 Para el despacho de los asuntos de su competencia, el Poder Judicial se auxiliará de los órganos jurisdiccionales y administrativos que establezca esta Ley, y en su caso, el reglamento respectivo.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 4º.
 
@@ -135,6 +133,8 @@ XIV.- Los servidores públicos de carácter técnico de las dependencias del Pod
 
 XV.- Todos los demás a quienes las leyes les confieran este carácter.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 9º.
 
 Los auxiliares de la impartición de justicia cumplirán los mandamientos de la autoridad judicial y le proporcionarán el apoyo solicitado. En el caso de los notarios públicos, del personal de las Instituciones de Educación Superior y de las dependencias del Poder Ejecutivo, el Presidente del Tribunal Superior de Justicia acordará con quien corresponda, las condiciones para la prestación del servicio.
@@ -199,13 +199,13 @@ En las sesiones del Tribunal se tomará conocimiento y resolverán los asuntos d
 
 Las sesiones del Pleno serán públicas, salvo que éste considere que por la naturaleza del asunto, deban ser privadas.
 
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
-Las audiencias se registrarán por videograbación, audio grabación o cualquier medio idóneo, a juicio del Presidente del Tribunal, para producir fe, que permita garantizar la fidelidad e integridad de la información, la conservación y reproducción de su contenido y el acceso a los mismos a quienes de acuerdo a la ley tuvieren derecho a ello.
+Las sesiones se registrarán por video y audio grabación, para producir fe, que permita garantizar la fidelidad e integridad de la información, la conservación y reproducción de su contenido y el acceso a los mismos a quienes de acuerdo a la ley tuvieren derecho a ello.
 
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
-El Secretario General de Acuerdos del Pleno deberá certificar el medio óptico o magnético en donde se encuentre registrada la audiencia respectiva, identificar dicho medio con el número de registro de acta y tomar las medidas necesarias para evitar que pueda alterarse.
+El Secretario General de Acuerdos del Pleno deberá certificar el medio óptico o magnético en donde se encuentre registrada la sesión respectiva, identificar dicho medio con el número de registro de acta y tomar las medidas necesarias para evitar que pueda alterarse.
 
 ###### Artículo 18.
 
@@ -617,9 +617,9 @@ XIV.- Comunicar a la Legislatura del Estado las faltas absolutas de los Magistra
 
 XV.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
 
-XVI.- Proveer en términos de ley, la tramitación y diligenciación de toda clase de exhortos, despachos y similares;
+XVI.- Proveer la tramitación y diligenciación de exhortos, despachos y similares, en las formas previstas por la Ley de la materia;
 
 XVII.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
 
@@ -838,6 +838,12 @@ XVIII.- Remitir por conducto del Secretario Ejecutivo de Administración del Con
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
 En el sistema penal acusatorio, los jueces actuarán sin asistencia de secretarios, tendrán fe pública para certificar el contenido de los actos que realicen y de las resoluciones que dicten, cuando tales actos consten en registros informáticos, de audio, video o se transcriban por escrito.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+###### Artículo 63 Bis.
+
+Los Jueces en la oralidad Familiar, Mercantil, Civil y los Internos, gozan de fe pública en la realización de las actuaciones de su competencia, pudiendo certificar el contenido de los actos que realicen y de las resoluciones que dicten, cuando tales actos consten en registros informáticos, de audio, video o se transcriban por escrito.
 
 ###### Artículo 64.
 
@@ -1491,7 +1497,7 @@ X.- Redactar los acuerdos y actas de los asuntos que tramiten, recogiendo la fir
 
 XI.- Preparar aquellos proyectos que los Magistrados les encomienden, procurando ceñirse a las instrucciones que reciban;
 
-XII.- Elaborar y autorizar la lista de acuerdos y resoluciones de la Sala, la cual se fijará en los estrados, conservando una copia para el archivo y otra que remitirá a la Secretaría General de Acuerdos del Tribunal;
+XII.- (DEROGADA P.O. 24 DE JULIO DE 2015)
 
 XIII.- Intervenir en todas las diligencias que practiquen las Salas, en la forma y términos que establezcan las leyes;
 
@@ -1567,19 +1573,27 @@ XVI.- Cuidar y vigilar que el archivo del Juzgado se arregle por orden numérico
 
 XVII.- Ejercer la supervisión y control sobre todos los empleados administrativos del Juzgado e informar al Juez de quienes no cumplan con su función; y
 
-> <small>(REFORMADA P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
 
-XVIII.- Las demás funciones que la ley les encomiende.
+XVIII.- Presentar a los Jueces los proyectos de acuerdos que éstos les encomienden, dentro del plazo de cuarenta y ocho horas, después de recibida la promoción respectiva, salvo que se trate de asuntos que por su naturaleza, requieran atención inmediata, y
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2015)</small>
+
+XIX.- Las demás funciones que la ley les encomiende.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 86.
 
-Son obligaciones de los Actuarios:
+Son obligaciones de los Actuarios, notificadores y ejecutores:
 
 I.- Concurrir diariamente y con puntualidad al lugar en que presten sus servicios;
 
 II.- Hacer en términos de ley las notificaciones personales y practicar las diligencias que se decreten, devolviendo los expedientes previas las anotaciones correspondientes en el libro respectivo;
 
-III.- Elaborar y actualizar la lista de acuerdos y resoluciones de Tribunal, la cual se fijará en los estrados, conservando una copia para el archivo y otra que remitirá al Tribunal Superior de Justicia;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
+
+III.- Elaborar y autorizar la lista de acuerdos y resoluciones de Tribunal, la cual se fijará en la lista electrónica, conservando una copia para el archivo de la autoridad que lo haya ordenado;
 
 IV.- Ejecutar las determinaciones cuando para ello sea necesaria su intervención, limitándose estrictamente a los términos del mandamiento respectivo;
 
@@ -1617,9 +1631,9 @@ IV.- Vigilar la conservación y funcionalidad de los bienes muebles e inmuebles 
 
 V.- Supervisar por turno la distribución de los asuntos entre los jueces o tribunales.
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
 
-VI.- Supervisar la programación de las diligencias a desarrollarse en los recintos de audiencia a su cargo.
+VI.- A solicitud realizada vía electrónica por los jueces, deberán agendar fecha, hora y sala en la que se desarrollarán las distintas diligencias, enviando respuesta por ese mismo medio, así como supervisar la programación de las mismas en los recintos a su cargo;
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -1783,7 +1797,9 @@ III. Dar cuenta y acordar las promociones que se reciban en el Tribunal Unitario
 
 Artículo 86 Sexties.- Son obligaciones de los Secretarios Auxiliares:
 
-I. Formular los proyectos de acuerdos que le sean encomendados por el Juez, y
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
+
+I.- Formular los proyectos de acuerdos que le sean encomendados por el Juez o el secretario de acuerdos, a más tardar dentro del plazo de cuarenta y ocho horas, salvo que por la naturaleza del asunto se requiera de su elaboración inmediata, y
 
 II. Las demás labores que sean necesarias para el buen funcionamiento del Juzgado.
 
@@ -1863,9 +1879,9 @@ XIV.- Formar anualmente una lista con los nombres de las personas que puedan fun
 
 XV.- Coordinar y supervisar el funcionamiento de los órganos auxiliares del Consejo de la Judicatura;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
 
-XVI.- Nombrar a los servidores públicos de los órganos auxiliares del Consejo de la Judicatura y del Instituto de Defensoría Pública, así como acordar lo relativo a sus ascensos, licencias, remociones y renuncias;
+XVI.- Nombrar a los servidores públicos de los Juzgados, los órganos auxiliares del Consejo de la Judicatura, Instituto de Defensoría Pública y Centro de Justicia Alternativa; así como acordar lo relativo a sus ascensos, licencias, remociones y renuncias;
 
 XVII.- Administrar los bienes muebles e inmuebles del Poder Judicial, cuidando su mantenimiento, conservación y acondicionamiento;
 
@@ -1893,7 +1909,17 @@ XXIV.- Determinar la designación de uno o varios intérpretes de lengua de señ
 
 El Consejo de la Judicatura podrá celebrar acuerdos y convenios con instituciones públicas o privadas para garantizar la disponibilidad de intérpretes o traductores, en caso de ser insuficiente el personal referido en el párrafo anterior, y
 
-XXV.- Las demás que se señalen en el o los reglamentos para hacer efectivas las contenidas en la Constitución del Estado y en esta Ley.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
+
+XXV.- Substanciar y resolver por conducto de la Comisión designada por el Pleno, o por conducto del Juez interno, según el caso, los procedimientos de responsabilidad administrativa e imponer las sanciones que correspondan a los Servidores Públicos del Poder Judicial, a excepción de los Magistrados y Secretario General de Acuerdos ambos del Tribunal Superior de Justicia, previa garantía de audiencia y defensa, acorde a las formalidades del procedimiento previsto en esta ley;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2015)</small>
+
+XXVI.- Resolver los recursos de reconsideración interpuestos en contra de las resoluciones dictadas por el Juez Interno, y
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2015)</small>
+
+XXVII.- Las demás que se señalen en el o los reglamentos para hacer efectivas las contenidas en la Constitución del Estado y en esta Ley.
 
 (REUBICADO, ADICIONADO [N. DE E. REFORMADA SU DENOMINACIÓN], P.O. 16 DE DICIEMBRE DE 2003)
 
@@ -2301,13 +2327,11 @@ De toda visita de inspección deberá levantarse acta circunstanciada, en la cua
 
 Lo asentado en las actas circunstanciadas por los visitadores se tendrá como cierto, salvo prueba en contrario.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 110.
 
-El Consejo de la Judicatura, por conducto de su Presidente, podrá ordenar la celebración de auditorías especiales que comprendan determinado período de tiempo y/o expedientes, así como visitas extraordinarias de inspección o la integración de comités de investigación, siempre que a su juicio existan elementos que hagan presumir irregularidades cometidas por algunos de los integrantes del Poder Judicial sujetos a supervisión.
+El Consejo de la Judicatura o su Presidente, podrá ordenar la celebración de auditorías especiales que comprendan determinado período de tiempo y/o expedientes, así como visitas extraordinarias de inspección o la integración de comités de investigación, siempre que a su juicio existan elementos que hagan presumir irregularidades cometidas por algunos de los integrantes del Poder Judicial sujetos a supervisión.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -2358,6 +2382,22 @@ d) La información de los resultados que el Pleno haya recibido en materia de qu
 e) Las comisiones realizadas en el desempeño de su encargo; y
 
 f) La documentación que acredite la impartición de cursos, conferencias, seminarios por parte del Magistrado dentro del Poder Judicial, tendientes a mejorar la impartición de justicia y los dirigidos hacia la sociedad, para promover la cultura jurídica; así como las constancias que demuestren la preparación y actualización de sus conocimientos durante el desempeño de su cargo;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2015)</small>
+
+II Bis.- Tratándose del magistrado consejero cuando éste se haya desempeñado durante una parte o la totalidad del periodo de su encargo, conforme a las funciones de administración, vigilancia, disciplina y carrera judicial, se recabará la siguiente documentación, sin perjuicio de la relativa a la fracción II en caso de haber integrado Sala:
+
+a) El número total de sesiones ordinarias y extraordinarias del Consejo de la Judicatura del Poder Judicial del Estado, en las que haya participado el magistrado Consejero;
+
+b) El número de acuerdos generales aprobados por el Consejo de la Judicatura del Poder Judicial del Estado de Quintana Roo;
+
+c) La relación de las tareas encomendadas al magistrado Consejero, por el Consejo de la Judicatura del Poder Judicial del Estado de Quintana Roo;
+
+d) Identificación de las comisiones integradas o presididas, así como el número de dictámenes emitidos o procedimientos sustanciados;
+
+e) El número total de dictámenes emitidos en la Visitaduría Judicial, así como en los procesos de Permanencia o Ratificación Judicial, y
+
+f) La información relativa al total de recursos de reconsideración resueltos por la Comisión respectiva.
 
 III.- El Presidente del Tribunal Superior de Justicia solicitará toda la información en relación con los magistrados que estén próximos a concluir su cargo que estime pertinente a los distintos órganos del Poder Judicial, y éstos estarán obligados a proporcionarla;
 
@@ -2589,273 +2629,297 @@ Los titulares de los órganos de carácter jurisdiccional y administrativo, los 
 
 Las faltas y responsabilidades administrativas serán sancionadas conforme a la presente ley y a la Ley de Responsabilidades respectiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 125.
 
-Son causas de responsabilidad para los Magistrados y los titulares de los órganos de carácter administrativo del Poder Judicial, las siguientes:
+Son causas de responsabilidad para todos los servidores públicos del Poder Judicial del Estado:
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
+I.- Realizar conductas que atenten contra la independencia de la función judicial, tales como aceptar o ejercer consignas, presiones, encargos o comisiones, o cualquier acción que genere o implique subordinación respecto de alguna persona, del mismo u otro poder;
 
-I.- Tratar con desatención o falta de respeto al público, compañeros de trabajo o subordinados;
+II.- Inmiscuirse indebidamente en cuestiones del orden jurisdiccional que competan a otros órganos del Poder Judicial del Estado;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
+III.- Tener una notoria ineptitud o descuido en el desempeño de las funciones o labores que deban realizar;
 
-II.- Comportarse públicamente en demérito a la imagen que se debe al cargo;
+IV.- El abandono o el retraso en la tramitación y resolución de los asuntos que sean de su conocimiento;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
+V.- Delegar o tolerar que otras personas desempeñen las funciones que les son propias;
 
-III.- Externar opinión fuera de procedimiento en algún asunto de su competencia;
+VI.- Impedir en los procedimientos judiciales que las partes ejerzan los derechos que legalmente les correspondan en los procedimientos;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
+VII.- Conocer de algún asunto o participar en algún acto para el cual se encuentren impedidos, en términos de la ley de la materia, la de Responsabilidades de los Servidores Públicos del Estado y esta Ley;
 
-IV.- Autorizar la salida de expedientes o documentos de las oficinas, fuera de los casos previstos por la ley;
+VIII.- Realizar nombramientos, promociones o ratificaciones infringiendo las disposiciones generales correspondientes;
 
-> <small>(ADICIONADO PRIMER PÁRRAFO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
+IX.- No poner en conocimiento del Consejo de la Judicatura del Estado cualquier acto tendiente a vulnerar la independencia de la función judicial;
 
-V.- Desobedecer los requerimientos de sus superiores;
+X.- No preservar la dignidad, imparcialidad y profesionalismo propios de la función judicial en el desempeño de sus labores;
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+XI.- Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento;
 
-De conformidad con el artículo 50 de la ley de responsabilidad de servidores públicos del Estado, el presidente del Tribunal Superior de Justicia será considerado como superior jerárquico.
+XII.- Externar opinión fuera de procedimiento respecto de algún asunto de su competencia o de algún compañero de trabajo;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
+XIII.- Faltar sin causa justificada a sus labores, o abandonar la residencia del Distrito Judicial al que esté adscrito, o dejar de desempeñar las funciones o las labores que tenga a su cargo;
 
-VI.- Delegar o tolerar que otras personas desempeñen las funciones que les son propias;
+XIV.- Incumplir con las obligaciones previstas en el artículo 47 de la Ley de Responsabilidades de los Servidores Públicos del Estado, siempre que no fueren contrarias a la naturaleza de la función que desempeñan;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
+XV.- Incumplir las disposiciones constitucionales y legales en materia de propaganda y de informes de labores o de gestión;
 
-VII.- Realizar conductas que atenten contra la independencia de la función judicial, tales como aceptar o ejercer consignas, presiones, encargos o comisiones, o cualquier acción que genere o implique subordinación respecto de alguna persona del mismo o de otro Poder;
+XVI.- Incumplir con las obligaciones propias de su cargo o comisión;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
+XVII.- Incumplir los acuerdos generales que emita el Pleno del Tribunal Superior, o el Consejo de la Judicatura según sea el caso, y que sean aplicables a su cargo o comisión;
 
-VIII.- Inmiscuirse indebidamente en cuestiones del orden jurisdiccional que competan a otros órganos del Poder Judicial del Estado;
+XVIII.- Tratar con desatención o falta de respeto al público, compañeros de trabajo o subordinados;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
+XIX.- Comportarse públicamente en demérito del respeto a la imagen que se debe al cargo;
 
-IX.- Tener una notoria ineptitud o descuido en el desempeño de las funciones o labores que deban realizar;
+XX.- Autorizar la salida o llevar fuera del Juzgado expedientes o documentos de las oficinas, sin causa justificada, fuera de los casos previstos por la ley o por acuerdo del Pleno del Tribunal o del Consejo;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
+XXI.- No tener el libro de gobierno actualizado en el sistema electrónico destinado para tal fin;
 
-X.- Impedir en los procedimientos judiciales que las partes ejerzan los derechos que legalmente les correspondan en los procedimientos;
+XXII.- No remitir dentro del término de tres días todos los bienes asegurados que se le hayan puesto a su disposición, al fondo de mejoramiento de la administración de justicia del Estado;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
+XXIII.- No remitir dentro del término de Ley los bienes decomisados al fondo de mejoramiento de la administración de justicia del Estado;
 
-XI.- Conocer de algún asunto o participar en algún acto para el cual se encuentren impedidos por ley;
+XXIV.- No llevar los registros electrónicos que para el desempeño de sus funciones haya designado el Pleno del Tribunal o el Consejo de la Judicatura en su caso;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
+XXV.- Revelar información clasificada como confidencial de acuerdo a las leyes que normen su desempeño, con motivo del trámite de mediación, conciliación, asesoría jurídica o defensa pública;
 
-XII.- No poner en conocimiento del órgano competente cualquier acto tendiente a vulnerar la independencia de la función judicial;
+XXVI.- Despachar tardíamente los oficios; retardar las diligencias que se les encomienden o negarse a practicarlas;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
+XXVII.- Retardar el turno de las promociones a los juzgados correspondientes;
 
-XIII.- No preservar la dignidad, imparcialidad y profesionalismo propios de la función judicial en el desempeño de sus labores;
+XXVIII.- Consumir alimentos o realizar compras o ventas en el interior del recinto de la sala, juzgado u oficina en el horario de trabajo;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
+XXIX.- No concurrir en las horas reglamentarias al desempeño de sus labores, y no asistir puntualmente a la celebración de ceremonias o actos oficiales del poder judicial o cursos de capacitación, conferencias o reuniones de trabajo;
 
-XIV.- Contravenir alguna disposición prevista por esta Ley;
+XXX.- Incumplir las instrucciones de sus superiores jerárquicos relacionadas con las funciones del juzgado, tribunal o área administrativa correspondiente;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE MAYO DE 2013)</small>
+XXXI.- Tratar con descortesía a los litigantes, abogados patronos y al público;
 
-XV.- Corregir la aplicación o interpretación del ordenamiento jurídico hecha por los inferiores en el orden jurisdiccional, salvo cuando administren justicia en virtud de los recursos que las leyes establezcan;
+XXXII.- No mostrar los expedientes a las partes, o a las personas autorizadas cuando lo soliciten, siendo los encargados de hacerlo, y
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+XXXIII.- Contravenir alguna disposición prevista por esta Ley.
 
-XVI.- El abandono o el retraso en la tramitación y resolución de los recursos que sean de su conocimiento;
-
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
-
-XVII.- Nieguen o concedan a favor un recurso que notoriamente fuere procedente o improcedente contra actos distintos de los especialmente recurridos;
-
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
-
-XVIII.- No respetar los nombramientos otorgados a los servidores públicos judiciales, asignándoles labores diferentes para los cuales fue designado, salvo que sea un acuerdo del Pleno del Tribunal Superior de Justicia;
-
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
-
-XIX.- La intromisión, dirigiendo órdenes o presiones de cualquier tipo, en la aplicación o interpretación de las leyes que corresponda a cualquier otro órgano jurisdiccional de igual o inferior grado;
-
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
-
-XX.- La ausencia en las labores de trabajo a menos que por acuerdo del pleno de la sala le otorgue permiso de ausentarse;
-
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
-
-XXI.- Las demás que determine la ley;
-
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 125
 
-Bis.- Son Causas de responsabilidad de los Jueces, las acciones u omisiones siguientes:
+Bis.- Son causas de responsabilidad de los Jueces, con independencia de lo establecido en el artículo 125 de esta ley, las acciones u omisiones siguientes:
 
-I.- Tratar con desatención o falta de respeto al público, compañeros de trabajo o subordinados;
+I.- Ausentarse de las labores de trabajo a menos que por acuerdo del Consejo se le otorgue permiso;
 
-II.- Comportarse públicamente en demérito del respeto a la imagen que se debe al cargo;
+II.- No presidir las audiencias de pruebas, las juntas de peritos u otras diligencias en las que la ley determine su intervención;
 
-III.- Externar opinión fuera de procedimiento respecto de algún asunto de su competencia o de algún compañero de trabajo;
+III.- Rehusarse a conocer injustificadamente los asuntos sometidos a su consideración, cuando sean competentes;
 
-IV.- No preservar la dignidad, imparcialidad y profesionalismo propios de la función judicial en el desempeño de sus labores;
+IV.- Rehusarse a diligenciar sin causa justificada los exhortos, despachos o cualquier otro similar, que sean de su competencia y conocimiento;
 
-V.- Autorizar la salida o llevar fuera del Juzgado expedientes o documentos de las oficinas, fuera de los casos previstos por la ley o por acuerdo del Consejo;
+V.- Señalar la celebración de vistas o audiencias, fuera de los plazos establecidos por la ley;
 
-VI.- Actuar en los negocios en que estuvieren impedidos por las causas previstas en los ordenamientos legales;
+VI.- No dictar dentro de los términos señalados por la ley, las resoluciones que provean legalmente las promociones de las partes, o las sentencias definitivas o interlocutorias en los negocios de su conocimiento;
 
-VII.- Evidenciar una conducta parcial en la tramitación del procedimiento;
+VII.- No turnar dentro de las veinticuatro horas siguientes al secretario de estudio y cuenta del juzgado, los expedientes o las causas penales cuando ya se haya realizado la citación a sentencia o vista pública;
 
-VIII.- No respetar los nombramientos otorgados a los servidores públicos judiciales, asignándoles labores diferentes para los cuales fue designado (sic), salvo que sea un acuerdo del Consejo de la Judicatura del Poder Judicial;
+VIII.- Actuar en los negocios e (sic) que estuvieren impedidos por las causas previstas en los ordenamientos legales;
 
-IX.- La ausencia en las labores de trabajo a menos que por acuerdo del Consejo le otorgue permiso de ausentarse;
+IX.- Decretar providencias provisionales notoriamente improcedentes o fuera de los casos previstos por la ley;
 
-X.- Decretar providencias provisionales notoriamente improcedentes o fuera de los casos previstos por la ley;
+X.- Revocar sus propios autos cuando la Ley no lo prevea, y
 
-XI.- No presidir las audiencias de pruebas, las juntas de peritos u otras diligencias en las que la ley determine su intervención;
+XI.- Contravenir alguna disposición prevista por esta Ley.
 
-XII.- No tener el libro de gobierno actualizado en el sistema electrónico destinado para tal fin;
-
-XIII.- No notificar vía correo electrónico, cuando haya sido solicitado por las partes;
-
-XIV.- No cumplir con las disposiciones que determine el Consejo de la Judicatura;
-
-XV.- Delegar, tolerar o permitir que otras personas desempeñen funciones que le son propias, sin autorización del Consejo de la Judicatura;
-
-XVI.- Realizar conductas que atenten contra la independencia de la función judicial, tales como aceptar o ejercer consignas, presiones, encargos o comisiones, o cualquier acción que genere o implique subordinación respecto de alguna persona del mismo o de otro Poder;
-
-XVII.- Inmiscuirse indebidamente en cuestiones del orden jurisdiccional que competan a otros órganos del Poder Judicial del Estado;
-
-XVIII.- Impedir en los procedimientos judiciales que las partes ejerzan los derechos que legalmente les correspondan;
-
-XIX.- Conocer de algún asunto o participar en algún acto para el cual se encuentren impedidos por ley;
-
-XX.- Rehusarse a conocer injustificadamente los asuntos sometidos a su consideración, cuando sean competentes;
-
-XXI.- Rehusarse a diligenciar sin causa justificada los exhortos, despachos o cualquier otro similar, que sean de su competencia y conocimiento;
-
-XXII.- Señalar la celebración de vistas o audiencias, fuera de los plazos establecidos por la ley;
-
-XXIII.- No dictar dentro de los términos señalados por la ley, las resoluciones que provean legalmente las promociones de las partes, o las sentencias definitivas o interlocutorias en los negocios de su conocimiento;
-
-XXIV.- No turnar dentro de las veinticuatro horas siguientes al secretario de estudio y cuenta del juzgado, los expedientes o las causas penales cuando ya se haya realizado la citación a sentencia o vista pública;
-
-XXV.- No remitir dentro del término de tres días todos los bienes asegurados que se le hayan puesto a su disposición, al fondo de mejoramiento de la administración de justicia del Estado;
-
-XXVI.- No remitir dentro del término de Ley los bienes decomisados al fondo de mejoramiento de la administración de justicia del Estado;
-
-XXVII.- Contravenir alguna disposición prevista por esta Ley;
-
-XXVIII.- Revocar sus propios autos cuando la Ley no lo prevea.
-
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 125
 
-Ter.- Son causas de responsabilidad del Secretario General de Acuerdos, las acciones u omisiones siguientes:
+Ter.- Son causas de responsabilidad del Secretario General de Acuerdos de los Jueces, con independencia de lo establecido en el artículo 125 de esta ley, las acciones u omisiones siguientes:
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
 I.- No autorizar con su firma las providencias y acuerdos del Presidente en la tramitación de los asuntos de su competencia;
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+
 II.- No practicar las diligencias que se ordenen en los negocios cuyo conocimiento corresponda al Pleno;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
 III.- Omitir asentar en los autos los acuerdos que se dicten y vigilar que reciban el debido cumplimiento;
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+
 IV.- Omitir las notificaciones que le encomiende el Pleno y la Ley, y no entregar para el mismo efecto los expedientes al actuario;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
 V.- Negarse a autorizar las copias certificadas de constancias judiciales que soliciten las partes o quienes legalmente puedan hacerlo;
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+
 VI.- Contravenir alguna disposición prevista por esta Ley en lo que sea aplicable a su función;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
 VII.- Las demás que determinen las leyes.
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 125
 
-Quáter.- Son causas de responsabilidad de los Secretarios de las Salas, las acciones u omisiones siguientes:
+Quáter.- Son causas de responsabilidad de los Secretarios de Acuerdos de las Salas, con independencia de lo establecido en el artículo 125 de esta ley, las acciones u omisiones siguientes:
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
 I.- No autorizar con su firma las providencias y acuerdos de la Sala en la tramitación de los asuntos de su competencia;
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+
 II.- No practicar las diligencias que se les ordenen en los negocios cuyo conocimiento corresponda a la Sala;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
 III.- Omitir asentar en los autos los acuerdos que dicten y vigilar que reciban el debido cumplimiento;
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+
 IV.- No llevar electrónicamente los registros de tocas, exhortos y despachos de correspondencia, títulos, cedulas, actas del Pleno y los demás asuntos que para el control se requieran;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
 V.- No autorizar con su firma las resoluciones y diligencias en que tenga (sic) intervenir;
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+
 VI.- Contravenir alguna disposición prevista por esta Ley en lo que sea aplicable a su función;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
 VII.- Las demás que determinen (sic) la ley.
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 125
 
-Quinquies.- Son causas de responsabilidad de los Secretarios de Acuerdos, las acciones u omisiones siguientes:
+Quinquies.- Son causas de responsabilidad de los Secretarios de Acuerdos de los Juzgados, con independencia de lo establecido en el artículo 125 de esta ley, las acciones u omisiones siguientes:
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
 I.- Dar cuenta, fuera del término legal, con los oficios y documentos oficiales dirigidos al juez y con los escritos y promociones de las partes;
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+
 II.- Asentar en autos, las certificaciones que procedan de oficio o por mandato judicial, sin sujetarse a los plazos señalados en la ley o abstenerse de hacerlas;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
 III.- Cuando una vez realizado, el o los acuerdos no entregue dentro de las veinticuatro horas siguientes, el acuerdo o los acuerdos, y/o los expedientes al actuario para las notificaciones;
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+
 IV.- No denunciar al Juez de las faltas u omisiones que personalmente hubieren observado en los servidores subalternos de la oficina;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
 V.- Rehusarse a mostrar los expedientes a las partes, lo soliciten o cuando se hubiera publicado, siempre y cuando por Ley tengan ese derecho;
 
-VI.- Tratar con descortesía a los litigantes, abogados patronos y al público;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
 
-VII.- Utilizar los equipos de cómputo para cualquier otra actividad que no sea propia de su función;
+VI.- Utilizar los equipos de cómputo para cualquier otra actividad que no sea propia de su función;
 
-VIII.- Contravenir alguna disposición prevista por esta Ley en lo que sea aplicable a su función;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
+
+VII.- Contravenir alguna disposición prevista por esta ley en lo que sea aplicable a su función;
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
+
+VIII.- No realizar en términos de ley, los proyectos de acuerdos que le ordene el Juez, y
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
 IX.- Las demás que determinen las leyes.
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 125
 
-Sexties.- Son causas de responsabilidad de los Secretarios de Estudio y Cuenta de los Juzgados, las acciones u omisiones siguientes:
+Sexties.- Son causas de responsabilidad de los Secretarios de Estudio y Cuenta de las Salas y Juzgados, con independencia de lo establecido en el artículo 125 de esta ley, las acciones u omisiones siguientes:
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
 I.- Retardarse en la elaboración del proyecto de resolución que por cuestión de turno se le haya asignado;
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+
 II.- No cumplir con el registro del expediente por la vía electrónica por el cual fue designado;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
 III.- No llevar los registros electrónicos que para tal efecto haya designado el Consejo de la Judicatura;
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+
 IV.- Emitir opinión a alguna de las partes sobre el sentido de proyectos de resolución de los expedientes o causas;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
 V.- Contravenir alguna disposición prevista por esta Ley en lo que sea aplicable a su función;
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+
 VI.- Las demás que determine la Ley.
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 125
 
-Septies.- Son causas de responsabilidad de los Ejecutores y de los Notificadores, las acciones u omisiones siguientes:
+Septies.- Son causas de responsabilidad de los Actuarios, Ejecutores y Notificadores, con independencia de lo establecido en el artículo 125 de esta ley, las acciones u omisiones siguientes:
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
 I.- Dar preferencia a alguno de los litigantes, en la práctica de las diligencias;
 
+> <small>(ADICIONADA P.O. 15 DE MAYO DE 2013)</small>
+
 II.- Dejar de hacer con la debida oportunidad, las notificaciones personales o abstenerse de practicar las diligencias encomendadas, cuando éstas deban efectuarse dentro o fuera del juzgado;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
 III.- No notificar cuando menos con cuarenta y ocho horas de anticipación a la fecha de la realización de la audiencia;
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+
 IV.- No realizar dentro del término de cinco días la entrega de los oficios correspondientes a las autoridades a las que se les dirija los mismos, salvo que el acuerdo requiera que sea notificado antes del término;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
 V.- Omitir en la redacción de las cedulas los requisitos formales que exige la Ley, fecha, hora, a quien va dirigida la notificación, la persona con quien se entienda la diligencia, o en su caso la descripción del lugar donde se deja la notificación;
 
-VI.- No publicar la lista de estrados dentro del término que marca la Ley;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
+
+VI.- No publicar la lista de estrados electrónica dentro del término que marca la Ley;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
 VII.- Retardar indebidamente las notificaciones, emplazamientos, embargos o diligencias de cualquier clase que les fueren encomendadas;
 
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+
 VIII.- Tratar con descortesía a los litigantes, abogados patronos y al público;
 
-IX.- Negarse a realizar las notificaciones que procedan dentro del término de ley, o cuando las partes concurran al juzgado.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+IX.- Negarse a realizar las notificaciones que procedan dentro del término de ley, o cuando las partes concurran al juzgado, y
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2015)</small>
+
+X.- No notificar vía correo electrónico en los términos señalados por la ley, cuando haya sido solicitado por las partes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 125
 
-Octies.- Son causas de responsabilidad del personal especializado del Centro de Justicia Alternativa, las siguientes:
+Octies.- Son causas de responsabilidad del personal especializado del Centro de Justicia Alternativa, con independencia de lo establecido en el artículo 125 de esta ley, las acciones u omisiones siguientes:
 
 > <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
 
@@ -2885,31 +2949,41 @@ VI.- Incumplir con las obligaciones inherentes a su cargo.
 
 VII.- Las demás que determine la Ley.
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 125
 
-Nonies.- Son causas de responsabilidad de los demás servidores públicos del Poder Judicial, las acciones u omisiones siguientes:
+Nonies.- Son causas de responsabilidad de los defensores públicos y asistentes jurídicos del Instituto de Defensoría Pública, con independencia de lo establecido en el artículo 125 de esta ley, las acciones u omisiones siguientes:
 
-I.- Tratar con descortesía a los litigantes, abogados patronos y al público;
+I.- Inmiscuirse indebidamente en cuestiones que competan a otros órganos del Poder Judicial del Estado, o actuar indebidamente cuando se encuentren impedidos por alguna de las causales previstas por la Ley de Defensoría Pública, las leyes de la materia que se trate y esta Ley;
 
-II.- Despachar tardíamente los oficios; retardar las diligencias que se les encomienden o negarse a practicarlas;
+II.- Descuidar y abandonar injustificadamente el desempeño de las funciones o labores que deban realizar en virtud de su encargo;
 
-III.- Retardar el turno de las promociones a los juzgados correspondientes;
+III.- No poner en conocimiento del Director o Coordinador General de Zona, y éste al Director, de cualquier acto tendiente a vulnerar la independencia o autonomía de sus funciones;
 
-IV.- Consumir alimentos o realizar compras o ventas en el interior del recinto de la sala, juzgado u oficina en el horario de trabajo;
+IV.- No preservar la dignidad, ética y profesionalismo propios del ejercicio de sus atribuciones;
 
-V.- No concurrir en las horas reglamentarias al desempeño de sus labores, y no asistir puntualmente a la celebración de ceremonias o actos oficiales del poder judicial o cursos de capacitación, conferencias o reuniones de trabajo;
+V.- Negarse injustificadamente a ejercer la defensa de los indiciados, imputados, acusados o sentenciados, a pesar de la designación del cargo hecha a su favor, por el Ministerio Público del Estado o por el Órgano jurisdiccional correspondiente;
 
-VI.- No mostrar los expedientes a las partes, o a las personas autorizadas cuando lo soliciten, siendo los encargados de hacerlo; y
+VI.- No mostrar los expedientes a las partes, o a las personas autorizadas cuando lo soliciten, siendo los encargados de hacerlo;
 
-VII.- Incumplir las instrucciones de sus superiores jerárquicos relacionadas con las funciones del juzgado o tribunal.
+VII.- Aceptar dádivas o cualquier remuneración por los servicios que prestan a sus defendidos o asistidos, o solicitar a éstos o a las personas que por ellos se interesan dinero o cualquier otra retribución para cumplir con las funciones que gratuitamente deban ejercer;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
+VIII.- Demorar sin causa justificada la atención de los asuntos a su cargo;
+
+IX.- No interponer en tiempo y forma los recursos legales que procedan dentro de los asuntos a su cargo; desatender el trámite en éstos o abandonarlos en perjuicio de su representado;
+
+X.- Desempeñarse negligentemente provocando se generen violaciones al procedimiento que afecten la garantía suprema de libertad y seguridad respectivas;
+
+XI.- Dejar de cumplir con cualquiera de las obligaciones que les estén señaladas por las leyes, reglamentos o por sus superiores, y
+
+XII.- No excusarse de conocer de un asunto cuando estuviera obligado a hacerlo de conformidad con esta Ley y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 126.
 
-Las faltas serán valoradas y, en su caso, sancionadas de conformidad a la presente Ley y a la Ley de Responsabilidades de los Servidores Públicos del Estado, con cualquiera de los siguientes medios:
+Las causas de responsabilidad administrativa serán valoradas y, en su caso, sancionadas de conformidad a la presente Ley y a la Ley de Responsabilidades de los Servidores Públicos del Estado, con cualquiera de los siguientes medios:
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -2935,25 +3009,39 @@ V.- Destitución.
 
 Los Magistrados numerarios solo podrán ser separados en los términos que señala el título octavo de la Constitución Política del Estado o como consecuencia del retiro forzoso.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 127.
 
-Tienen acción para denunciar la comisión de las causas de responsabilidad administrativa:
+Pueden denunciar la comisión de las causas de responsabilidad administrativa:
+
+> <small>(ADICIONADA [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 I.- Las partes en el juicio en el que se cometieron;
 
+> <small>(ADICIONADA [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
+
 II.- Los abogados patronos de las partes;
+
+> <small>(ADICIONADA [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 III.- El Ministerio Público en los negocios en que intervenga;
 
+> <small>(ADICIONADA [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
+
 IV.- Los titulares de los órganos jurisdiccionales y administrativos del Poder Judicial; y
 
-V.- Cualquier ciudadano que tenga conocimiento de su comisión.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+V.- El titular de la Contraloría Interna;
 
-VI.- El Visitador, previa acta levantada con motivo de las visitas practicadas a los juzgados, o por hechos que se desprendan del ejercicio de la función de los servidores públicos.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
+
+VI.- Los Visitadores, previa acta levantada con motivo de las visitas practicadas a los juzgados, o por hechos que se desprendan del ejercicio de la función de los servidores públicos; y
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2015)</small>
+
+VII.- Cualquier ciudadano que tenga conocimiento de su comisión.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -2961,101 +3049,89 @@ VI.- El Visitador, previa acta levantada con motivo de las visitas practicadas a
 
 Las autoridades competentes para aplicar las sanciones por la comisión de responsabilidades administrativas, son:
 
-I.- El Tribunal Pleno, de esta índole en que incurran los Magistrados y el Secretario General de Acuerdos del propio Tribunal Pleno y el personal a su cargo;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
+I.- El Tribunal Pleno, respecto de las causas de responsabilidad en que incurran los Magistrados y el Secretario General de Acuerdos del propio Tribunal Pleno;
 
-II.- El Consejo de la Judicatura, por conducto del Juez Interno competente, respecto de las responsabilidades en que incurran el resto de servidores públicos del Poder Judicial, y los Titulares de las unidades y áreas administrativas respecto de su personal, cuando resulte la sanción como de su competencia, en términos de la presente Ley y del Reglamento que al efecto expida el propio Consejo.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
+II.- El Consejo de la Judicatura, respecto de las causas de responsabilidades administrativas en que incurran sus integrantes, así como por los Jueces Internos, y
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2015)</small>
+
+III.- El Juez Interno dependiente del Consejo de la Judicatura, respecto del resto de los servidores públicos del Poder Judicial, en los casos no comprendidos en las fracciones anteriores.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+###### Artículo 128 Bis.
+
+En la sustanciación del procedimiento de responsabilidad administrativa se deberá estar a lo más favorable para la persona que esté sujeta a dicho procedimiento y se presumirá la inocencia del Servidor Público.
+
+En todo caso, se respetará la garantía de audiencia al Servidor Público denunciado.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 129.
 
-El procedimiento para la imposición de las sanciones a que se refiere el artículo anterior, se sujetará a las siguientes reglas:
+El procedimiento para la imposición de las sanciones a que se refiere el artículo 128 de esta ley, se sujetará a las siguientes reglas:
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
+I.- La denuncia se presentará por escrito, ante el Consejo de la Judicatura o el Juez Interno del Poder Judicial, quienes para efectos de este procedimiento serán considerados la autoridad que conozca del procedimiento sancionador. La demanda se presentará dentro del término de quince días hábiles, contados a partir del día siguiente en que el denunciante haya tenido conocimiento de la causa de responsabilidad administrativa.
 
-I.- La denuncia se presentará por escrito, dentro del término de quince días hábiles, contados a partir del día siguiente en que el denunciante haya tenido conocimiento de la conducta sancionable, ante (sic) Consejo de la Judicatura o el Juez Interno del Poder Judicial, la cual deberá contener: nombre del presunto infractor, señalando su puesto y adscripción, nombre y domicilio del denunciante, descripción de los hechos y, medios de prueba que estime conveniente ofrecer y que tengan relación con los hechos;
+La demanda deberá contener: nombre del presunto infractor, señalando su puesto y adscripción, nombre y domicilio del denunciante, descripción de los hechos y, medios de prueba que estime conveniente ofrecer y que tengan relación con los hechos; así como los medios de prueba que no pueda obtener para que a través del Juez Interno sean solicitados;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
-
-II.- Las quejas o denuncias que se formulen deberán estar apoyadas en elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado;
+II.- Las quejas o denuncias que se formulen deberán estar apoyadas en elementos probatorios suficientes para establecer la posible existencia de la infracción y presumir la responsabilidad del Servidor Público denunciado.
 
 Si falta alguno de los requisitos anteriores, la denuncia será desechada de plano y se mandara archivar como asunto totalmente concluido.
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
+Toda queja o denuncia por responsabilidad administrativa, será improcedente cuando el motivo de la denuncia se haga consistir en criterios contenidos en resoluciones de naturaleza estrictamente jurisdiccional.
+
+Con independencia de que la queja se admita a trámite o no, la autoridad que conozca del procedimiento sancionador, podrá dictar las providencias oportunas para la corrección inmediata del motivo de la queja, y si de la propia queja se desprende la realización de una conducta que pudiera dar lugar a responsabilidad, dará cuenta al Pleno del órgano que corresponda, para que proceda en los términos previstos en este, sin perjuicio de que, en cualquier momento, se acuerde la suspensión temporal sin goce de sueldo en el ejercicio de sus funciones del probable infractor;
 
 III.- Presentada la denuncia, se ordenará emplazar al presunto infractor corriéndole traslado con copia de la misma y de los documentos acompañados, a fin de que, en un plazo de cinco días hábiles, ocurra a producir su contestación por escrito, debiendo ofrecer pruebas al momento de rendir su contestación señalando los puntos sobre los que versen las mismas, precluyendo su derecho para realizarlo en otro acto;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
+IV.- En el escrito de contestación el presunto infractor deberá referirse a cada uno de los hechos aducidos por el denunciante, confesándolos o negándolos y expresando los que ignore por no ser propios, o refiriéndolos como a su derecho convenga, así mismo ofrecerá los medios probatorios que considere y que guarden relación con los hechos denunciados, así como los medios de prueba que no pueda obtener para que a través de la autoridad que conozca del procedimiento sancionador sean solicitados; Además el presunto infractor deberá señalar para oír y recibir notificaciones, dirección de correo electrónico institucional; de no hacerlo así, las notificaciones, aun las de carácter personal se le harán por lista electrónica de la autoridad que conozca del procedimiento;
 
-IV.- En el escrito de contestación el presunto infractor deberá referirse a cada uno de los hechos aducidos por el denunciante, confesándolos o negándolos y expresando los que ignore por no ser propios, o refiriéndolos como a su derecho convenga, así mismo ofrecerá los medios probatorios que considere;
+V.- La autoridad que conozca del procedimiento sancionador podrá recabar de oficio las pruebas conducentes una vez admitida la queja o denuncia y hasta antes de la audiencia de juicio. Las partes sólo podrán ofrecer las pruebas supervinientes fuera de este plazo;
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+VI.- Contestada la denuncia o transcurrido el plazo para hacerlo, se fijará fecha y hora para la audiencia de desahogo de pruebas, la cual deberá realizarse dentro de los diez días hábiles posteriores a la contestación de denuncia.
 
-V.- El órgano sancionador podrá recabar de oficio las pruebas conducentes hasta antes de la audiencia de juicio. Las partes sólo podrán ofrecer las pruebas durante este plazo si se tratare de pruebas supervinientes;
-
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
-
-VI.- Contestada la denuncia o transcurrido el plazo para hacerlo, se fijara fecha y hora para la audiencia de desahogo de pruebas, la cual no podrá exceder de diez días hábiles posteriores a la contestación de denuncia.
-
-Tratándose de testigos que sean funcionarios públicos del Poder Judicial o de otras dependencias, el Juez Interno ordenará su notificación.
+Tratándose de testigos que sean funcionarios públicos del Poder Judicial o de otras dependencias, la autoridad que conozca del procedimiento sancionador ordenará su notificación de manera oficiosa.
 
 Cuando se trate de testigos que no sean funcionarios públicos, deberán de ser presentados por el oferente el día de la audiencia y en caso de que no comparezcan se declarará desierta la prueba. Salvo que se justifique la imposibilidad de su presentación, en cuyo supuesto aplicará lo dispuesto en el párrafo anterior.
 
-En el caso de documentos, el Juez Interno de oficio o a petición de parte siempre que justifique que no pueda recabarlas, solicitará a las autoridades la presentación de ellos.
+En el caso de documentos, la autoridad que conozca del procedimiento sancionador de oficio o a petición de parte siempre que justifique que no pueda recabarlas, solicitará a las autoridades la presentación de ellos.
 
-Las partes oferentes, de la prueba pericial deberán presentar a sus propios peritos el día de la audiencia donde protestarán el cargo, exhibiendo su respectivo dictamen con tres días de anticipación con los anexos acrediten sus conocimientos técnicos, a fin de que la parte contraria conozca el peritaje rendido, para que el día de la audiencia pueda cuestionar el dictamen exhibido. En caso de no presentar el dictamen el perito dentro (sic) término indicado no podrá comparecer, y se declarará desierta la prueba; de igual manera se procederá en los mismos términos ante la incomparecencia del perito el día de la audiencia.
+Las partes oferentes, de la prueba pericial deberán presentar a sus propios peritos el día de la audiencia donde protestarán el cargo, exhibiendo su respectivo dictamen con tres días de anticipación con los anexos acrediten sus conocimientos técnicos, a fin de que la parte contraria conozca el peritaje rendido, para que el día de la audiencia pueda cuestionar el dictamen exhibido. En caso de no presentar el dictamen el perito dentro del término indicado no podrá comparecer, y se declarará desierta la prueba; de igual manera se procederá en los mismos términos ante la incomparecencia del perito el día de la audiencia.
 
 Para el caso de la citación se podrán utilizar las siguientes medidas de apremio: multa de diez hasta ciento veinte días de salario mínimo vigente en la entidad en la época que acontecieron los hechos; el auxilio de la fuerza pública o arresto hasta por treinta y seis horas.
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+Los medios de pruebas ofrecidos se admitirán o desecharán por la autoridad que conozca del procedimiento sancionador, atendiendo a su pertinencia e idoneidad.
 
-VII.- La audiencia será pública y presidida por el Juez Interno, y se desarrollaran oralmente en lo relativo a toda intervención de quienes participen en ellas. Quienes declaren serán instruidos de sus obligaciones y de las responsabilidades por su incumplimiento y se les tomara protesta de decir verdad;
+VII.- La audiencia será pública y presidida por la autoridad que conozca del procedimiento sancionador, y se desarrollará oralmente en lo relativo a toda intervención de quienes participen en ellas. Quienes declaren serán instruidos de sus obligaciones y de las responsabilidades por su incumplimiento y se les tomará protesta de decir verdad.
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+La audiencia se llevará a cabo con la asistencia del denunciante o en su defecto, si la denuncia la hace algún miembro del Consejo, será el Visitador nombrado por el consejo quien deberá estar presente en dicha audiencia; al inicio de la Audiencia, la autoridad que conozca del procedimiento sancionador hará constar oralmente en los registros respectivos, la fecha, hora, lugar, y las personas que intervienen en la diligencia, verificando la identidad de los mismos, haciéndole saber a las partes, comparecientes y público asistente; el orden, decoro y respeto que deberán observar.
 
-VIII.- La audiencia se llevará a cabo con la asistencia del denunciante o en su defecto si la denuncia la hace algún miembro del Consejo, será el Visitador nombrado por el consejo quien deberá estar presente en dicha audiencia; al inicio de la Audiencia, el Juez Interno hará constar oralmente en los registros respectivos, la fecha, hora, lugar, y las personas que intervienen en la diligencia, verificando la identidad de los mismos, haciéndole saber a las partes, comparecientes y público asistente; el orden, decoro y respeto que deberán observar;
+En caso de no presentarse el presunto infractor la autoridad que conozca del procedimiento sancionador hará uso de los medios de apremio para lograr su comparecencia.
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+Si el denunciante no comparece después de haber sido citado dos veces para la audiencia, se le tendrá por desistido de la denuncia y se ordenará el archivo definitivo del asunto;
 
-IX.- Si la autoridad denunciada se presentará después de iniciada la audiencia, podrá incorporarse, haciéndose constar oralmente el momento de su incorporación, sin embargo, tendrá por precluído el derecho para hacer valer las manifestaciones y demás actos referentes a las actuaciones ya celebradas;
+VIII.- Si la autoridad denunciada se presentara después de iniciada la audiencia, podrá incorporarse, haciéndose constar oralmente el momento de su incorporación, sin embargo, tendrá por precluído el derecho para hacer valer las manifestaciones y demás actos referentes a las actuaciones ya celebradas;
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+IX.- La autoridad que conozca del procedimiento sancionador, referirá oralmente un extracto de los puntos sobre los que versa la denuncia y la contestación. A continuación se desahogarán las pruebas ofrecidas, primero las de la parte denunciante y posteriormente del presunto infractor;
 
-X.- El Juez Interno, referirá oralmente un extracto de los puntos sobre los que versa la denuncia y la contestación. A continuación se desahogaran las pruebas ofrecidas, primero las de la parte quejosa y posteriormente del presunto infractor y su representante;
+X.- Una vez desahogadas las pruebas ofrecidas por las partes, así como aquellas que de oficio haya determinado realizar la autoridad que conozca del procedimiento sancionador, se escucharán los alegatos que serán emitidos de forma oral, primero del denunciante y posteriormente del presunto infractor;
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+XI.- La autoridad que conozca del procedimiento sancionador determinará el inicio y la conclusión de cada una de las etapas de la audiencia, precluyendo los derechos procesales que debieron ejercitarse en las anteriores;
 
-XI.- Una vez desahogadas las pruebas ofrecidas por las partes, así como aquellas que de oficio haya determinado realizar el propio Juez Interno, se escucharán los alegatos que serán emitidos de forma oral, primero del denunciante y posteriormente del presunto infractor;
+XII.- Enseguida, se dictará resolución administrativa, fundada y motivada en el acto si fuera posible; en caso contrario, se citará a las partes para dictarla dentro del término de diez días posteriores a la audiencia. Si la resolución dictada por la autoridad que conozca del procedimiento sancionador tiene como consecuencia alguna de las sanciones previstas para este procedimiento, la misma autoridad dará cuenta al Pleno del Consejo de la Judicatura para que aplique la sanción impuesta, ordenando la anotación respectiva en su expediente;
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+XIII.- La resolución de no responsabilidad administrativa, deberá ser publicada en la página oficial del Poder Judicial del Estado, y en su caso, se sujetará al denunciante a las responsabilidades civiles y penales correspondientes;
 
-XII.- El Juez Interno determinará el inicio y la conclusión de cada una de las etapas de la audiencia, precluyendo los derechos procesales que debieron ejercitarse en las anteriores;
+XIV.- Las audiencias se registrarán por videograbación, audio grabación o cualquier medio idóneo, a juicio de la autoridad que conozca del procedimiento sancionador, para producir fe, que permita garantizar la fidelidad e integridad de la información, la conservación y reproducción de su contenido, y el acceso a los mismos a quienes de acuerdo a la Ley tuvieren derecho a ello;
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+XV.- Para la aplicación de las sanciones, se tomará en cuenta la gravedad de la falta cometida, la incidencia o reincidencia de la misma y la conducta anterior del servidor público.
 
-XIII.- Enseguida, se dictará resolución administrativa, fundada y motivada en el acto si fuera posible; en caso contrario, se citará a las partes para dictarla dentro del término de diez días posteriores a la audiencia. Si la resolución dictada por el Juez Interno tiene como consecuencia alguna de las sanciones previstas para este procedimiento, el Juez Interno dará cuenta al Pleno del Consejo de la Judicatura para que aplique la sanción impuesta, ordenando la anotación respectiva en su expediente;
-
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
-
-XIV.- La resolución de no responsabilidad administrativa, deberá ser publicada en la página oficial del Poder Judicial del Estado, en su caso, se sujetará al denunciante a las responsabilidades civiles y penales correspondientes;
-
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
-
-XV.- Las audiencias se registraran por videograbación, audio grabación o cualquier medio idóneo, a juicio del Juez Interno, para producir fe, que permita garantizar la fidelidad e integridad de la información, la conservación y reproducción de su contenido, y el acceso a los mismos a quienes de acuerdo a la Ley tuvieren derecho a ello;
-
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
-
-XVI.- Para la aplicación de las sanciones, se tomará en cuenta la gravedad de la falta cometida, la incidencia o reincidencia de la misma y la conducta anterior del servidor público.
-
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
-
-El Juez Interno substanciará el procedimiento y emitirá la resolución que corresponda, salvo lo previsto en el Título Octavo de la Constitución del Estado o los casos previstos en esta Ley como competencia del Tribunal Pleno o del Pleno del Consejo de la Judicatura.
-
-(REPUBLICADO, P.O. 15 DE MAYO DE 2013)
-
-En todo caso, se respetará su garantía de audiencia al infractor.
+La autoridad que conozca del procedimiento sancionador substanciará el procedimiento y emitirá la resolución que corresponda, salvo lo previsto en el Título Octavo de la Constitución del Estado o los casos previstos en esta Ley como competencia del Tribunal Pleno o del Pleno del Consejo de la Judicatura.
 
 > <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
 
@@ -3131,17 +3207,33 @@ II.- Cuando reincida en una causa de responsabilidad sin haber atendido a las ob
 
 Con independencia de si el motivo de la queja da o no lugar a la responsabilidad, la Comisión de magistrados designada por el pleno del Tribunal, o el Juez Interno en su caso, dictara las providencias oportunas para su corrección inmediata y si de la propia queja se desprende la realización de una conducta que pudiera dar lugar a responsabilidad, dará cuenta al Pleno del órgano que corresponda, para que proceda en los términos previstos en este, sin perjuicio de que, en cualquier momento, se acuerde la suspensión temporal sin goce de sueldo en el ejercicio de sus funciones del probable infractor.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 131.
 
-En contra de las determinaciones que impongan una sanción dictadas por el Juez Interno procede el recurso de reconsideración ante el Pleno del Consejo de la Judicatura en efecto suspensivo, dentro de los cinco días siguientes a la fecha de la notificación. En el caso de las determinaciones del Pleno del Tribunal que impongan una sanción serán inatacables.
+En contra de las determinaciones que impongan una sanción dictada por el Juez Interno procede el recurso de reconsideración ante el Consejo de la Judicatura en efecto suspensivo. En el caso de las determinaciones de la Comisión de Magistrados o del Consejo de la Judicatura que impongan una sanción, serán inatacables.
 
 Del recurso interpuesto contra la determinación del Juez interno, conocerá y resolverá colegiadamente una comisión integrada por tres consejeros del Consejo de la Judicatura, sin que pueda formar parte de la misma el presidente del Tribunal y del Consejo.
 
-Interpuesto el recurso y admitido el mismo, con el escrito de inconformidad, el informe del Juez Interno y la resolución recurrida, se citará a una audiencia oral dentro de los cinco días siguientes, para efecto de que el o los recurrentes expresen los motivos y fundamentos de la impugnación, cerrado el debate el órgano colegiado del recurso pronunciará su decisión de inmediato o, si no fuere posible, dentro de un plazo de tres días siguientes a la celebración de la audiencia, en fecha y hora que dará a conocer a los intervinientes en la misma.
+El recurso se substanciará en los términos siguientes:
 
-Cuando una queja se interponga sin fundamento, carezca de las formalidades necesarias o bien sea notoriamente frívola e improcedente y así se declare se impondrá al quejoso o a su abogado, o a ambos una multa de diez a ciento veinte días de salario mínimo tomando como base el vigente en el Estado de Quintana Roo al momento de interponerse la queja, misma que será efectiva a través del Fondo para el Mejoramiento en la Administración e Impartición de Justicia en el Estado.
+I.- Deberá interponerse ante el Juez Interno, dentro de los cinco días siguientes a la fecha de la notificación de la resolución;
+
+II.- Dentro de los tres días siguientes a la interposición, el Juez Interno remitirá los autos originales al Consejo de la Judicatura, junto con el escrito del recurso de reconsideración y un informe que emita respecto de la procedencia o improcedencia del recurso;
+
+III.- Recibidos los autos por el Pleno del Consejo de la Judicatura, éste designará los Consejeros que integrarán la Comisión resolutoria del caso concreto; de la cual formarán parte el Magistrado y Juez Consejeros;
+
+IV.- Integrada la Comisión, sus miembros designarán al Presidente y Secretario Ejecutivo; y se pronunciará respecto de la admisión del recurso;
+
+V.- Admitido el recurso, la Comisión citará a las partes a una audiencia oral dentro de los diez días siguientes, para el efecto de que el o los recurrentes expresen los motivos y fundamentos de la impugnación;
+
+VI.- La audiencia se llevará a cabo con la asistencia de las partes, y a su inicio la Comisión hará constar oralmente en los registros respectivos, la fecha, hora, lugar, y las personas que intervienen en la diligencia, verificando la identidad de los mismos, haciéndole saber a las partes, comparecientes y público asistente, el orden, decoro y respeto que deberán observar.
+
+Si no comparece el recurrente a la audiencia, se le tendrá por desistido del recurso;
+
+VII.- Escuchados los motivos y fundamentos de la impugnación, así como a la contraparte, se declarará cerrado el debate; la Comisión pronunciará su decisión de inmediato o, si no fuere posible, dentro de un plazo de diez días siguientes a la celebración de la audiencia, en la que dará a conocer a los intervinientes de la misma.
+
+Cuando un recurso se interponga sin fundamento, carezca de las formalidades necesarias o bien sea notoriamente frívola e improcedente y así se declare, se impondrá al denunciante, a su abogado, o a ambos una multa de diez a ciento veinte días de salario mínimo vigente en el Estado de Quintana Roo al momento de interponerse dicho recurso, misma que se hará efectiva a través del Fondo para el Mejoramiento en la Administración e Impartición de Justicia en el Estado.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -3456,3 +3548,9 @@ SEGUNDO. El Consejo de la Judicatura del Estado deberá aprobar y publicar el Pr
 TERCERO. La Procuraduría General de Justicia del Estado deberá aprobar y publicar el Programa para la atención y defensa de las personas en condición de vulnerabilidad en el Periódico Oficial del Estado de Quintana Roo, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto.
 
 CUARTO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE JULIO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
