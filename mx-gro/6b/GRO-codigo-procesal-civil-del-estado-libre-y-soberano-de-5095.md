@@ -4,7 +4,7 @@ identifier: "GRO-codigo-procesal-civil-del-estado-libre-y-soberano-de-5095"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-26"
-last_updated: "2013-04-16"
+last_updated: "2015-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CÓDIGO PROCESAL CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 364
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 26 de marzo de 1993.
 
@@ -1209,7 +1209,7 @@ Contenido de las resoluciones judiciales. En los casos en que no haya prevenció
 
 ###### Artículo 142.
 
-Contenido de las sentencias. Las sentencias contendrán, además de los requisitos comunes a toda resolución judicial, una relación suscinta de las cuestiones planteadas y de las pruebas rendidas, así como las consideraciones jurídicas aplicables, tanto legales como doctrinarias, comprendiendo en ellas los motivos para hacer o no condenación en costas, y terminarán resolviendo con toda precisión los puntos sujetos a la consideración del tribunal, y fijando, en su caso, el plazo dentro del cual deben cumplirse.
+Contenido de las sentencias. Las sentencias contendrán, además de los requisitos comunes a toda resolución judicial, una relación suscinta (sic) de las cuestiones planteadas y de las pruebas rendidas, así como las consideraciones jurídicas aplicables, tanto legales como doctrinarias, comprendiendo en ellas los motivos para hacer o no condenación en costas, y terminarán resolviendo con toda precisión los puntos sujetos a la consideración del tribunal, y fijando, en su caso, el plazo dentro del cual deben cumplirse.
 
 ###### Artículo 143.
 
@@ -2021,7 +2021,7 @@ Documentos que deben acompañarse a la demanda. Con toda demanda deberán acompa
 
 I. Los documentos que acrediten la personalidad o representación del que comparece en nombre de otro;
 
-II. Con la demanda debe presentar el actor los documentos en que funde la acción. Si no los tuviere a su disposición, designará el archivo o lugar en que se encuentren los originales para que, a su costa, se mande expedir copia de ellos, en la forma que prevenga la Ley antes de admitirse la demanda. Se entiende que el actor tiene a su disposición los documentos, siempre que legalmente pueda pedir copia autorizada de los originales; y (sic)
+II. Con la demanda debe presentar el actor los documentos en que funde la acción. Si no los tuviere a su disposición, designará el archivo o lugar en que se encuentren los originales para que, a su costa, se mande expedir copia de ellos, en la forma que prevenga la Ley antes de admitirse la demanda. Se entiende que el actor tiene a su disposición los documentos, siempre que legalmente pueda pedir copia autorizada de los originales; y
 
 III. Tantas copias simples del escrito de demanda y de los documentos que acompañe, cuantas fueren las personas demandadas.
 
@@ -2143,7 +2143,7 @@ Documentos que deberán acompañarse al contestar la demanda. Con el escrito de 
 
 I. Los documentos que acrediten la personalidad o representación del que comparece en nombre de otro. Puede el demandado no acompañar estos documentos, siempre que proteste presentarlos y que designe el lugar o archivo en que se encuentren; y en este caso se le fijará un término de cinco días para que lo haga o recabe copia de ellos; y de no hacerlo en este término sin más trámite, se tendrá por no contestada la demanda, teniéndose al demandado por rebelde;
 
-II. Los documentos que funden las excepciones y defensas del demandado y la compensación o reconvención y los que quiera utilizar como prueba, siguiéndose en lo conducente las reglas de los artículos 233 y 234; y (sic)
+II. Los documentos que funden las excepciones y defensas del demandado y la compensación o reconvención y los que quiera utilizar como prueba, siguiéndose en lo conducente las reglas de los artículos 233 y 234; y
 
 III. Una copia del escrito de contestación y demás documentos para que se corra traslado al actor.
 
@@ -3937,11 +3937,11 @@ XIII. Los ejidos de los pueblos y la parcela individual que en fraccionamiento h
 
 ###### Artículo 444.
 
-Substitución de los bienes embargados. En cualquier momento anterior a la adjudicación, el deudor podrá pedir que se substituyan los bienes embargados por una suma de dinero igual al monto de los créditos del acreedor embargante, intereses, costas, y en su caso, de los acreedores intervenientes. El juzgador fijará la suma que debe darse en substitución del embargo, después de oír a las partes; y una vez entregada esta suma, ordenará que se liberen del embargo los bienes que comprende y se trabará el embargo en la suma entregada en su substitución depositándose ésta.
+Substitución de los bienes embargados. En cualquier momento anterior a la adjudicación, el deudor podrá pedir que se substituyan los bienes embargados por una suma de dinero igual al monto de los créditos del acreedor embargante, intereses, costas, y en su caso, de los acreedores intervenientes (sic). El juzgador fijará la suma que debe darse en substitución del embargo, después de oír a las partes; y una vez entregada esta suma, ordenará que se liberen del embargo los bienes que comprende y se trabará el embargo en la suma entregada en su substitución depositándose ésta.
 
 ###### Artículo 445.
 
-Reducción del embargo. Cuando el valor de los bienes embargados sea superior en un cincuenta por ciento a la suma de los créditos reclamados, intereses y las costas, el juzgador podrá ordenar, a petición del deudor y aún de oficio, la reducción del embargo, debiendo oír previamente al acreedor embargante y a los acreedores intervenientes, si los hubiere.
+Reducción del embargo. Cuando el valor de los bienes embargados sea superior en un cincuenta por ciento a la suma de los créditos reclamados, intereses y las costas, el juzgador podrá ordenar, a petición del deudor y aún de oficio, la reducción del embargo, debiendo oír previamente al acreedor embargante y a los acreedores intervenientes (sic), si los hubiere.
 
 ###### Artículo 446.
 
@@ -4159,7 +4159,7 @@ III. Los valores serán estimados de acuerdo con las cotizaciones de la Bolsa Me
 
 IV. Los establecimientos mercantiles o industriaies (sic), y la participación en las utilidades de una sociedad, se valorizarán tomando en cuenta los datos del activo y pasivo de la contabilidad, o el balance practicado en relación con la época en que se verifique el avalúo. El avalúo y balance será practicado por algún contador público titulado, pudiendo las partes también nombrar perito; y
 
-V. Si los bienes muebles estuvieren registrados o aparecieren con algún gravamen real, se dará intervención en el avalúo a los acreedores que aparezcan en el certificado respectivo del Registro Público. Los terceros intervenientes, así como los que hubieren practicado embargo posterior, podrán también tener intervención en el avalúo.
+V. Si los bienes muebles estuvieren registrados o aparecieren con algún gravamen real, se dará intervención en el avalúo a los acreedores que aparezcan en el certificado respectivo del Registro Público. Los terceros intervenientes (sic), así como los que hubieren practicado embargo posterior, podrán también tener intervención en el avalúo.
 
 ###### Artículo 462.
 
@@ -4267,7 +4267,7 @@ IV. Calificadas de buenas las posturas, el juzgador las leerá en voz alta por s
 
 V. Hecha la declaración de la postura considerada preferente, el juzgador preguntará si alguno de los licitadores la mejora. En caso afirmativo dentro de los cinco minutos que sigan, interrogará de nuevo si algún postor puja la mejora, y así sucesivamente respecto a las pujas que se hagan. Pasados cinco minutos de hecha la pregunta correspondiente, si no se mejora la última postura, declarará el juzgador fincado el remate en favor del postor que hubiera hecho aquélla;
 
-VI. Una vez fincado el remate el juzgador resolverá sobre su aprobación. Si se aprobare el remate, en el mismo auto se mandará otorgar la correspondiente escritura de adjudicación en favor del comprador, y hacer la entrega de los bienes rematados. Previamente el comprador deberá entregar el saldo de la parte de contado de su postura, y si omitiera hacerlo, perderá el depósito a que se refiere la fracción IV del artículo 467 aplicándose por vía de indeminización (sic) por partes iguales al ejecutante y a ejecutado; y
+VI. Una vez fincado el remate el juzgador resolverá sobre su aprobación. Si se aprobare el remate, en el mismo auto se mandará otorgar la correspondiente escritura de adjudicación en favor del comprador, y hacer la entrega de los bienes rematados. Previamente el comprador deberá entregar el saldo de la parte de contado de su postura, y si omitiera hacerlo, perderá el depósito a que se refiere la fracción IV del artículo 467 aplicándose por vía de indeminización (sic) por partes iguales al ejecutante y a (sic) ejecutado; y
 
 VII. No habiendo postor, quedará al arbitrio del ejecutante pedir que se adjudiquen los bienes por las dos terceras partes del precio que sirvió de base para el remate, o que se saquen de nuevo a pública subasta, con rebaja del veinte por ciento.
 
@@ -4377,7 +4377,7 @@ Si la cuestión sólo afecta parte de la suma a distribuir, se proveerá desde l
 
 Prelación en la distribución de la suma obtenida. Para determinar la prelación en la distribución de la suma obtenida se seguirán las siguientes reglas:
 
-I. Si todos los acreedores intervenientes que justifiquen tener derecho sobre la suma obtenida someten al juzgador, de común acuerdo, un plan para la distribución, se proveerá de conformidad, después de oído el deudor; y
+I. Si todos los acreedores intervenientes (sic) que justifiquen tener derecho sobre la suma obtenida someten al juzgador, de común acuerdo, un plan para la distribución, se proveerá de conformidad, después de oído el deudor; y
 
 II. Si no hubiere acuerdo, salvo lo que dispongan en contrario otras leyes, la distribución se hará conforme al siguiente orden de prelación:
 
@@ -4765,7 +4765,7 @@ I. Las reglas sobre repartición de la carga de la prueba no tendrán aplicació
 
 II. Para la investigación de la verdad, el juzgador puede ordenar cualquier prueba, aunque no la ofrezcan las partes, para lo cual podrá cerciorarse personalmente, o con el apoyo de trabajadores sociales, profesionales en otras disciplinas o autoridades que presten su servicio dentro de la administración pública, quienes presentarán el informe correspondiente, y en su caso, podrán ser interrogados por el Juez y las partes;
 
-III. El principio preclusivo, en cuanto signifique un obstáculo para el logro de la verdad no tendrá aplicación; y (sic)
+III. El principio preclusivo, en cuanto signifique un obstáculo para el logro de la verdad no tendrá aplicación; y
 
 IV. La admisión de hechos y el allanamiento no vinculan al juzgador;
 
@@ -5041,21 +5041,41 @@ Sanciones en caso del ejercicio doloso de la acción. El que promueva dolosament
 
 ### CAPITULO VII. RECTIFICACION DE LAS ACTAS DEL ESTADO CIVIL
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
+
 ###### Artículo 559.
 
-(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO, P.O. 4 DE ENERO DE 2011)
+Procedencia del juicio. La rectificación o modificación de un acta del estado civil no puede hacerse sino mediante sentencia que dicte la autoridad judicial o resolución de la autoridad administrativa correspondiente, salvo cuando se trate de errores mecanográficos, ortográficos o de otra índole que no afecten los datos esenciales de las actas del estado civil, pues en estas hipótesis, el interesado podrá hacer la aclaración pertinente ante la Oficina del Registro Civil correspondiente, o ante la Coordinación Técnica del Sistema Estatal del Registro Civil.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 560.
 
-(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO, P.O. 4 DE ENERO DE 2011)
+Supuestos en que procede la rectificación. Sólo habrá lugar a pedir la rectificación de actas del estado civil por falsedad, cuando se alegue que el acta registrada no pasó, o por enmienda, cuando se solicite variar algún nombre u otra circunstancia.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 561.
 
-(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO, P.O. 4 DE ENERO DE 2011)
+Legitimación. Pueden pedir la rectificación o modificación de un acta del estado civil:
+
+I. Las personas de cuyo estado se trate;
+
+II. Las que se mencionan en el acta como relacionadas con el estado civil de las personas cuya acta se pretende rectificar;
+
+III. Los herederos de las personas comprendidas en las dos fracciones anteriores,
+
+IV. Los que señale el Código Civil y la Ley N° 495, del Registro Civil del Estado de Guerrero.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 562.
 
-(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO, P.O. 4 DE ENERO DE 2011)
+Tramitación del juicio.- “El juicio sobre rectificación se tramitará ante los Juzgados de Paz dependientes del Poder Judicial del Estado, en la vía de jurisdicción voluntaria, con intervención del Ministerio Público para los efectos de su representación legal.
+
+En el juicio de rectificación de actas de nacimiento se aplicarán, en lo conducente, las siguientes reglas:
+
+La solicitud será presentada por los interesados o promovente de la rectificación del acta del registro civil, ante el Juez de Paz que corresponda. En el auto de radicación se admitirá la solicitud, en la cual se ordenará notificar al Oficial del Registro Civil correspondiente y al Coordinador Técnico del Sistema Estatal del Registro Civil; señalándose fecha y hora para que tenga verificativo la audiencia de ley, en la que se desahogarán las pruebas ofrecidas por el promovente o solicitante en su escrito de jurisdicción voluntaria; en dicha audiencia se turnará el expediente para sentencia, la cual deberá ser dictada dentro de un plazo que no puede exceder de quince días como máximo. La solicitud de jurisdicción voluntaria concluye con la sentencia definitiva, la cual podrá ser recurrible por las partes. Una vez ejecutoriada la sentencia, se comunicará al Oficial del Registro Civil ante quien el acta objeto de rectificación se asentó y al Coordinador Técnico del Sistema Estatal del Registro Civil, para que hagan referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
 
 ### CAPITULO VIII. JUICIO DE ALIMENTOS
 
@@ -7168,3 +7188,27 @@ El presente Decreto entrará en vigor a los dos meses siguientes del día de su 
 ###### ARTÍCULO SEGUNDO.
 
 Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
+
+P.O. 24 DE JULIO DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 836 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 358 Y DEL CÓDIGO PROCESAL CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 364”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Jueces de Paz Mixto o Civil dependientes del Poder Judicial, existentes en cada municipio del Estado, comenzarán a conocer de los asuntos de rectificación de acta, treinta días después de la publicación del presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos constitucionales correspondientes.
+
+###### ARTÍCULO CUARTO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales conducentes.
+
+###### ARTÍCULO QUINTO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero y en el Portal web de este Honorable Congreso del Estado, para el conocimiento general.
