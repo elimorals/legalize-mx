@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2014-12-23"
+last_updated: "2015-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -495,15 +495,19 @@ SUSPENSION, DISOLUCION, PROHIBICION DE REALIZAR DETERMINADAS OPERACIONES E INTER
 
 Los instrumentos del delito, así como las cosas que sean objeto o producto de él, se decomisarán si son de uso prohibido. Si son de uso lícito, se decomisarán al acusado solamente cuando éste fuere sentenciado por delito doloso. Si pertenecen a un tercero, sólo se decomisarán cuando éste se encuentre en alguno de los supuestos a que se refiere el artículo 234. Las autoridades competentes procederán al inmediato aseguramiento de los bienes que podrían ser materia del decomiso, durante la averiguación o en el proceso. Se actuará en los términos previstos por este párrafo, cualquiera que sea la naturaleza de los instrumentos, objetos o productos del delito.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
+
 ###### ARTICULO 45.
 
-El destino de los instrumentos o cosas decomisadas se determinará por la autoridad competente, el pago de la reparación del daño o en defecto de éste, para beneficio de la administración de justicia según su entidad. Si se tratare de sustancias nocivas o peligrosas, dicha autoridad podrá disponer, aún antes de declararse su decomiso por sentencia ejecutoria, las medidas de precaución que correspondan, incluida su destrucción, si fuere indispensable.
+El destino de los instrumentos o cosas decomisadas se determinará por la autoridad competente, primeramente al pago de la reparación del daño a la víctima y la multa en los casos que proceda, los costos de administración y gastos de mantenimiento y conservación de los bienes, y el excedente será distribuido en partes iguales al Poder Judicial del Estado, a la Procuraduría General de Justicia del Estado y al Fondo previsto en la Ley de Víctimas del Estado de Quintana Roo. Si se tratare de sustancias nocivas o peligrosas, dicha autoridad podrá disponer, aún antes de declararse su decomiso por sentencia ejecutoria, las medidas de precaución que correspondan, incluida su destrucción, si fuere indispensable.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 46.
 
-Los objetos o valores que se encuentren a disposición de la autoridad judicial que hayan sido decomisados y que no sean recogidos por quien tenga derecho a ello, en un lapso de noventa días naturales, contados a partir de la notificación al interesado, se enajenarán en subasta pública y el producto de la venta se aplicará al mejoramiento de la administración de justicia, previas las deducciones de los gastos ocasionados.
+Los objetos o valores que se encuentren a disposición de la autoridad judicial o ministerial que no hayan sido decomisados y que no sean recogidos por quien tenga derecho a ello, en un lapso de diez días hábiles siguientes, contados a partir de la notificación del acuerdo de devolución al interesado o a su representante legal, causarán abandono en términos de la Ley para la Administración de Bienes Asegurados, Abandonados y Decomisados del Estado de Quintana Roo.
 
-En el caso de bienes que se encuentren a disposición de la autoridad, que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en subasta pública y el producto se dejará a disposición de quien tenga derecho al mismo por el lapso de seis meses, a partir de la notificación que se le haga. Transcurrido ese término sin que haya reclamación, se aplicará dicho producto al mejoramiento de la Administración de Justicia.
+En el caso de bienes que se encuentren a disposición de la autoridad judicial o ministerial, que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en subasta pública y el producto y sus rendimientos se dejará a disposición de quien tenga derecho a reclamarlos, en los términos estipulados en el párrafo anterior.
 
 ### CAPITULO XV. TRATAMIENTO PSICOTERAPÉUTICO REEDUCATIVO
 
@@ -641,9 +645,13 @@ En caso de autoría indeterminada, se impondrá como pena hasta las tres cuartas
 
 La prisión podrá ser conmutada a juicio del juzgador, apreciando lo dispuesto en el artículo 52, en los términos siguientes:
 
-I.- Cuando no exceda de tres años, por multa o trabajo en favor de la comunidad;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
 
-II.- Cuando no exceda de cuatro años, por tratamiento en libertad, semilibertad, o trabajo en favor de la comunidad según se requiera, en los términos de los artículos 23, 24 y 37.
+I.- Cuando no exceda de cuatro años, por multa;
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
+
+II.- Cuando no exceda de cinco años, por tratamiento en libertad o semilibertad, según se requiera, en los términos de los artículos 23 y 24.
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2006)</small>
 
@@ -1635,11 +1643,15 @@ VI.- En contra de una oficina bancaria, recaudadora u otra en que se conservan c
 
 VII.- En local comercial abierto al público;
 
-> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2015)</small>
+
+VIII.- En agravio de bienes que pertenezcan o estén destinados al servicio educativo, en escuelas o instituciones educativas de carácter público o privado que cuenten con reconocimiento de validez oficial, o en inmuebles destinados a prestar un servicio educativo.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 145
 
-TER.- Se impondrá de dos a cuatro años de prisión y de diez a veinte días de multa a quien posea, transporte, adquiera, enajene, acople o comercialice piezas, partes o accesorios objeto de la conducta descrita en la fracción VII del artículo 145 de este Código.
+TER.- Se impondrá de dos a cuatro años de prisión y de diez a veinte días de multa a quien posea, transporte, adquiera, enajene, acopie o comercialice piezas, partes o accesorios objeto de las conductas descritas en las fracciones VII del artículo 145 y VIII del artículo 145-Bis de este Código.
 
 ###### ARTICULO 146.
 
@@ -3714,3 +3726,17 @@ P.O. 23 DE DICIEMBRE DE 2014.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan las disposiciones legales vigentes que se opongan al presente Decreto.
+
+P.O. 24 DE JULIO DE 2015.
+
+DECRETO NÚMERO 271, POR EL QUE SE REFORMAN LOS ARTÍCULOS 45 Y 46 Y LAS FRACCIONES I Y II DEL ARTICULO 62 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 24 DE JULIO DE 2015.
+
+DECRETO NÚMERO 274, POR EL QUE SE REFORMA EL ARTÍCULO 145-TER Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 145-BIS, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
