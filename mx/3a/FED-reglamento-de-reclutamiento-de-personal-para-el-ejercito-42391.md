@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-reclutamiento-de-personal-para-el-ejercito-42391"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-20"
-last_updated: "2014-03-24"
+last_updated: "2015-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42391&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-01-14"
 
 REGLAMENTO DE RECLUTAMIENTO DE PERSONAL PARA EL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE JULIO DE 2015.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 20 de enero de 2005.
 
@@ -157,9 +157,11 @@ VII. Solicitarán al Escalón Sanitario del Organismo donde se encuentren alojad
 
 VIII. Una vez verificado que los aspirantes hayan recabado toda su documentación, les indicarán que pueden trasladarse a la Unidad que representan para iniciar su trámite de alta.
 
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 16.
 
-En tanto es aprobada el alta de los aspirantes, éstos no deberán realizar actividades castrenses dentro o fuera de los Organismos a que pertenezcan y los Comandantes o Jefes se limitarán únicamente a su control administrativo.
+Los aspirantes no deberán realizar actividades castrenses dentro o fuera de Unidades, Dependencias e Instalaciones militares, hasta en tanto sea aprobada su alta por la Secretaría de la Defensa Nacional.
 
 ### CAPÍTULO IV. De los Requisitos para el Alta
 
@@ -179,7 +181,7 @@ III. Tener dieciocho años cumplidos y no ser mayor de treinta.
 
 El personal técnico o especialista no podrá ser mayor de treinta y dos años, salvo que las necesidades del servicio lo justifiquen y previa autorización de la Secretaría de la Defensa Nacional, se podrá dar de alta a mayores de esta edad.
 
-Podrán causar alta en el Sistema Educativo Militar como discentes, para su formación en las Instituciones Educativas Militares, los menores de dieciocho años con quince cumplidos, siempre que cuenten con el consentimiento del padre, madre, tutor o representante legal;
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 24 DE JULIO DE 2015)</small>
 
 > <small>(REFORMADA, D.O.F. 4 DE JULIO DE 2012)</small>
 
@@ -193,7 +195,9 @@ a). Copia certificada del Acta de Nacimiento o copia certificada de dicho docume
 
 b). Clave Única de Registro de Población (CURP);
 
-c). Credencial para votar expedida por el Instituto Federal Electoral, y
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2015)</small>
+
+c). Credencial para votar expedida por el Instituto Nacional Electoral, y
 
 d). Certificado de Educación Secundaria.
 
@@ -209,7 +213,7 @@ VIII. Estar sano y apto clínica y psicológicamente para el servicio de las arm
 
 IX. Tener una braza que sea proporcional a la estatura mínima siguiente:
 
-a) Personal masculino en Unidades, Dependencias e Instalaciones, 1.63 metros;
+a). Personal masculino en Unidades, Dependencias e Instalaciones, 1.63 metros;
 
 > <small>(REFORMADO, D.O.F. 4 DE JULIO DE 2012)</small>
 
@@ -217,7 +221,7 @@ b). Personal en la Escuela Militar de Aviación 1.65 metros, y
 
 > <small>(REFORMADO, D.O.F. 24 DE MARZO DE 2014)</small>
 
-c) Personal femenino en Unidades, Dependencias e Instalaciones, 1.60 metros;
+c). Personal femenino en Unidades, Dependencias e Instalaciones, 1.60 metros;
 
 d). (DEROGADO, D.O.F. 4 DE JULIO DE 2012)
 
@@ -225,9 +229,7 @@ d). (DEROGADO, D.O.F. 4 DE JULIO DE 2012)
 
 X. Suscribir el Contrato de Enganche.
 
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 2014)</small>
-
-En el caso de aspirantes a causar alta en el Sistema Educativo Militar que sean menores de dieciocho años, el Contrato de Enganche será suscrito por el padre, madre, tutor o representante legal, mismo que será ratificado por el aspirante, una vez que alcance la mayoría de edad, y
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 24 DE JULIO DE 2015)</small>
 
 > <small>(ADICIONADA, D.O.F. 24 DE MARZO DE 2014)</small>
 
@@ -257,9 +259,11 @@ I. De laboratorio: biometría hemática completa, examen general de orina, quím
 
 II. Radiológico: tele de tórax.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 21.
 
-El examen médico será practicado para verificar que los aspirantes no se encuentren con algún padecimiento de los comprendidos en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas. Para su realización y evaluación, se observarán los lineamientos siguientes:
+El examen médico será practicado para verificar que los aspirantes no se encuentren con algún padecimiento de los comprendidos en los artículos 226 o 226 Bis de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas. Para su realización y evaluación, se observarán los lineamientos siguientes:
 
 > <small>(REFORMADA, D.O.F. 4 DE JULIO DE 2012)</small>
 
@@ -315,9 +319,9 @@ XI. Comprobante de domicilio;
 
 XII. Constancia de no antecedentes penales o constancia de buena conducta expedida por la autoridad municipal o delegacional;
 
-> <small>(REFORMADA, D.O.F. 4 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 24 DE JULIO DE 2015)</small>
 
-XIII. Copia de la Credencial para Votar expedida por el Instituto Federal Electoral;
+XIII. Copia de la credencial para votar expedida por el Instituto Nacional Electoral;
 
 XIV. Copia de la Clave Única del Registro de Población, y
 
@@ -325,13 +329,9 @@ XIV. Copia de la Clave Única del Registro de Población, y
 
 XV. Contrato de Enganche en siete ejemplares.
 
-> <small>(ADICIONADO, D.O.F. 4 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-ARTÍCULO 23 BIS.- Los expedientes para el alta de aspirantes al Sistema Educativo Militar en el Ejército y Fuerza Aérea Mexicanos, además de los documentos anteriores, incluirán:
-
-I. Certificado de estudios que exija la Institución Educativa a la que aspire ingresar, y
-
-II. Consentimiento del padre, madre, tutor o representante legal, para el caso de los menores de dieciocho años.
+ARTÍCULO 23 BIS.- Los expedientes para el alta de aspirantes al Sistema Educativo Militar en el Ejército y Fuerza Aérea Mexicanos, además de los documentos anteriores, incluirán el Certificado de estudios que exija la Institución de Educación Militar a la que pretenda ingresar.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE JULIO DE 2012)</small>
 
@@ -349,13 +349,13 @@ c) Solicitud manuscrita del interesado;
 
 > <small>(REFORMADO, D.O.F. 4 DE JULIO DE 2012)</small>
 
-d). Copia certificada del Acta de Nacimiento o copia certificada de dicho documento, tomada del libro donde se asentó su nacimiento, cuya expedición no sea mayor de tres meses;
+d) Copia certificada del Acta de Nacimiento o copia certificada de dicho documento, tomada del libro donde se asentó su nacimiento, cuya expedición no sea mayor de tres meses;
 
 e) Comprobante de domicilio;
 
 > <small>(REFORMADO, D.O.F. 4 DE JULIO DE 2012)</small>
 
-f). Constancia de no antecedentes penales o constancia de buena conducta expedida por la autoridad municipal o delegacional;
+f) Constancia de no antecedentes penales o constancia de buena conducta expedida por la autoridad municipal o delegacional;
 
 g) Certificado Médico;
 
@@ -363,35 +363,35 @@ h) Certificado Psicológico;
 
 > <small>(REFORMADO, D.O.F. 4 DE JULIO DE 2012)</small>
 
-i). Hoja de datos personales;
+i) Hoja de datos personales;
 
 > <small>(REFORMADO, D.O.F. 4 DE JULIO DE 2012)</small>
 
-j). Hoja de media filiación;
+j) Hoja de media filiación;
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2015)</small>
+
+k) Copia de la credencial para votar expedida por el Instituto Nacional Electoral;
 
 > <small>(REFORMADO, D.O.F. 4 DE JULIO DE 2012)</small>
 
-k). Copia de la Credencial para votar expedida por el Instituto Federal Electoral;
+l) Cartilla del Servicio Militar Nacional, en su caso;
 
 > <small>(REFORMADO, D.O.F. 4 DE JULIO DE 2012)</small>
 
-l). Cartilla del Servicio Militar Nacional, en su caso;
-
-> <small>(REFORMADO, D.O.F. 4 DE JULIO DE 2012)</small>
-
-m). Clave Única del Registro de Población;
+m) Clave Única del Registro de Población;
 
 > <small>(ADICIONADO, D.O.F. 24 DE JULIO DE 2012)</small>
 
-n). Dos Fichas Dactilares;
+n) Dos Fichas Dactilares;
 
 > <small>(ADICIONADO, D.O.F. 24 DE JULIO DE 2012)</small>
 
-o). Dos Tarjetas Índice, y
+o) Dos Tarjetas Índice, y
 
 > <small>(ADICIONADO, D.O.F. 24 DE JULIO DE 2012)</small>
 
-p). Contrato de Enganche en siete tantos.
+p) Contrato de Enganche en siete tantos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE JULIO DE 2012)</small>
 
@@ -411,7 +411,7 @@ a) Título y Cédula Profesional a nivel Técnico, en las especialidades que lo 
 
 > <small>(REFORMADO, D.O.F. 4 DE JULIO DE 2012)</small>
 
-b). Certificado de Estudios, Diploma, Nombramiento o Acta que acredite los conocimientos de su especialidad.
+b) Certificado de Estudios, Diploma, Nombramiento o Acta que acredite los conocimientos de su especialidad.
 
 Certificado de Secundaria en el caso de especialidades que no requieran acreditar estudios específicos.
 
@@ -505,7 +505,7 @@ b) Uno, al expediente del interesado;
 
 > <small>(REFORMADO, D.O.F. 4 DE JULIO DE 2012)</small>
 
-c). Uno, al legajo de Revista Administrativa Mensual con ajuste y que se remitirá a la Dirección correspondiente, y
+c) Uno, al legajo de Revista Administrativa Mensual con ajuste y que se remitirá a la Dirección correspondiente, y
 
 d) Uno, al interesado.
 
@@ -583,23 +583,29 @@ XIII. Presentar tatuajes y/o perforaciones en cualquier parte del cuerpo durante
 
 La Secretaría de la Defensa Nacional podrá dejar sin efectos y sin responsabilidad para ella, las Cartas Compromiso suscritas por los alumnos de los Establecimientos de Educación Militar, cuando éstos se ubiquen en alguno de los supuestos de rescisión previstos en este artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 43.
 
-Cuando el Comandante o Jefe del Organismo a que pertenezca el interesado considere que éste se ubica en alguno de los supuestos previstos en el artículo anterior, se lo notificará personalmente, concediéndole un término de tres días para que manifieste lo que a su derecho convenga y aporte las pruebas conducentes. Cuando el interesado se ubique en la causal prevista en la fracción IX del artículo que antecede, la notificación se hará mediante publicación en la Orden General de la plaza por tres días consecutivos.
+El Contrato de Enganche de los Soldados y Cabos o su renovación, se rescindirá conforme al procedimiento siguiente:
 
-> <small>(REFORMADO, D.O.F. 4 DE JULIO DE 2012)</small>
+I. Cuando el titular de la Unidad, Dependencia o Instalación militar tenga conocimiento de que algún soldado o cabo bajo su mando, se ubica en alguno de los supuestos previstos en el artículo 42 de este Reglamento, remitirá dentro de las veinticuatro horas siguientes, a la Dirección del Arma o Servicio a la que dependa administrativamente el interesado, la documentación que acredite la causal de rescisión, así como la demás que estime necesaria;
 
-Transcurrido dicho término, el titular del Organismo resolverá sobre la rescisión del Contrato de Enganche, de manera fundada y motivada, la cual se notificará al interesado, haciéndose constar en un acta en términos del párrafo anterior.
+II. Recibida la documentación a que se refiere la fracción anterior, la Dirección del Arma o Servicio notificará al interesado el inicio del procedimiento para determinar la procedencia o no de la rescisión del Contrato de Enganche o la recisión de su renovación, haciéndole saber que si es procedente dicha rescisión será dado de baja de la Secretaría de la Defensa Nacional, asimismo se le concederá un plazo de quince días hábiles contado a partir del día siguiente a dicha notificación, para que manifieste por escrito lo que a su derecho convenga y, en su caso, aporte las pruebas que estime pertinentes y señale un domicilio para oír y recibir notificaciones apercibiéndolo de que si no hace tal señalamiento se le notificará en el último domicilio registrado ante la Unidad, Dependencia o Instalación militar a la que se encuentre adscrito.
 
-Cuando el titular del Organismo rescinda el Contrato de Reclutamiento, enviará el acta correspondiente acompañada de la documentación que acredite la causal de rescisión a la Dirección de su Arma o Servicio, a fin de que se proceda a la baja del interesado del Ejército y Fuerza Aérea Mexicanos.
+La notificación a que se refiere el párrafo anterior se hará personalmente por conducto del titular de la Unidad, Dependencia o Instalación militar a la que pertenezca, quien recabará el acuse respectivo del interesado y lo remitirá a la Dirección del Arma o Servicio correspondiente;
 
-> <small>(REFORMADO, D.O.F. 4 DE JULIO DE 2012)</small>
+III. Si el interesado se ubica en la causal prevista en la fracción IX del artículo 42 de este Reglamento, será notificado mediante publicación en la Orden General de la plaza de México, para los mismos efectos previstos en la fracción II de este artículo;
+
+IV. Una vez recibido el escrito y, en su caso, desahogadas las pruebas a que se refiere la fracción II de este artículo, la Dirección del Arma o Servicio someterá el asunto a consideración del Secretario de la Defensa Nacional para que resuelva sobre la rescisión del Contrato de Enganche o la rescisión de su renovación, así como la baja del interesado, en términos del artículo 170, fracción II, inciso G de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, o
+
+V. Concluido el plazo a que se refiere la fracción II de este artículo sin que el interesado comparezca por escrito o personalmente, se le tendrá tácitamente por conforme y, se someterá el asunto a consideración del Secretario de la Defensa Nacional para que resuelva sobre la rescisión del Contrato de Enganche o la rescisión de su renovación, así como la baja del interesado, en términos del artículo 170, fracción II, inciso G de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos.
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 44.
 
-Los Titulares de las Unidades, Dependencias e Instalaciones militares están facultados para firmar, rescindir o renovar los Contratos de Enganche y para recibir formalmente o dejar sin efectos las Cartas Compromiso. Lo anterior deberá informarse a la Dirección de las Armas y Servicios a la que pertenezca el personal militar y a la Oficina Central de Reclutamiento.
+Los titulares de las Unidades, Dependencias e Instalaciones militares están facultados para firmar y renovar los Contratos de Enganche, así como para recibir y dejar sin efectos las Cartas Compromiso. Lo anterior deberá informarse a la Dirección del Arma o Servicio a la que pertenezca el personal militar y a la Oficina Central de Reclutamiento de la Dirección General de Personal.
 
 ### CAPÍTULO VIII. De la Certificación de Altas
 
@@ -641,9 +647,7 @@ II. (DEROGADA, D.O.F. 4 DE JULIO DE 2012)
 
 III. Al personal femenino, se le asignará la Matrícula correspondiente al aprobarse su alta, misma que será alfanuméricamente diferente a la del personal masculino. En este caso, no se expedirá la Cartilla de Identidad del Servicio Militar Nacional.
 
-> <small>(ADICIONADA, D.O.F. 4 DE JULIO DE 2012)</small>
-
-IV. La Secretaría de la Defensa Nacional le asignará una clave al personal masculino mayor de quince y menor de diecisiete años, que ingrese como discente a las Instituciones Educativas Militares, mismo que al cumplir los diecisiete años, deberá tramitar su Cartilla de Identidad del Servicio Militar Nacional en las oficinas municipales o delegacionales de reclutamiento, debiendo proceder como se señala en la fracción I del presente artículo, para la asignación de su Matrícula.
+IV. (DEROGADA, D.O.F. 24 DE JULIO DE 2015)
 
 ### CAPÍTULO X. De los Desistimientos
 
@@ -653,9 +657,15 @@ El desistimiento es la renuncia de un aspirante para ingresar al Ejército y Fue
 
 En este caso, los Comandantes o Jefes de los Organismos tramitarán inmediatamente ante la Oficina Central de Reclutamiento la cancelación del alta.
 
+> <small>(ADICIONADO, D.O.F. 24 DE JULIO DE 2015)</small>
+
+En los aspirantes a ingresar como discentes en las Instituciones de Educación Militar únicamente procederá el desistimiento antes de que se haya aprobado su alta, previa solicitud manuscrita del interesado o, en su caso, mediante acta circunstanciada donde se asiente tal situación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 52.
 
-Si el desistimiento se produce cuando ya se haya recibido la comunicación de alta, sin que se hayan cubierto haberes al aspirante, los Comandantes o Jefes de los Organismos, además de tramitar la cancelación de la misma ante la Oficina Central de Reclutamiento, devolverán el expediente, anexando un certificado de no percepción de haberes.
+Para efectos del primer párrafo del artículo 51 de este Reglamento, el desistimiento podrá ocurrir posteriormente a que se haya recibido la comunicación de alta, siempre y cuando no se hayan cubierto haberes al aspirante. En este caso, los titulares de las Unidades, Dependencias e Instalaciones militares, además de tramitar la cancelación del alta ante la Oficina Central de Reclutamiento de la Dirección General de Personal, devolverán el expediente, anexando un certificado de no percepción de haberes y la solicitud manuscrita del aspirante en la que manifieste expresamente su desistimiento. Esta solicitud podrá omitirse cuando el aspirante no sea localizado y se anexe un acta circunstanciada en la que se asiente tal situación.
 
 El desistimiento no procederá cuando el interesado haya cobrado haberes.
 
@@ -822,3 +832,15 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Las erogaciones que deriven de la aplicación del presente Decreto serán realizadas mediante movimientos compensados y no se requerirán recursos adicionales por lo que la Secretaría de la Defensa Nacional, debe sujetarse a su presupuesto autorizado para el presente ejercicio fiscal y no incrementar su presupuesto regularizable.
+
+D.O.F. 24 DE JULIO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que deriven de la aplicación del presente Decreto serán realizadas mediante movimientos compensados, por lo que la Secretaría de la Defensa Nacional debe sujetarse a su presupuesto autorizado para el presente ejercicio fiscal y no incrementar su presupuesto regularizable.
+
+TERCERO.- Se derogan las disposiciones administrativas que se opongan al presente Decreto.
+
+CUARTO.- Los trámites de desistimiento de los aspirantes a ingresar al Ejército y Fuerza Aérea Mexicanos, iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite hasta su conclusión conforme a las disposiciones aplicables al momento en que se presentaron.
+
+Los procedimientos de rescisión del contrato de enganche que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto se ajustarán en lo conducente a lo previsto en el presente ordenamiento.
