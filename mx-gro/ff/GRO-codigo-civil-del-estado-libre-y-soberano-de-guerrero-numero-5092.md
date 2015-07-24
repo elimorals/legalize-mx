@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "2015-01-16"
+last_updated: "2015-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 358
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
 
@@ -1965,25 +1965,43 @@ El Oficial del Registro levantará el acta correspondiente, en la que insertará
 
 Cuando se recobre la capacidad legal para administrar, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al oficial del Registro Civil por el mismo interesado o por la autoridad que corresponda, para que cancele el acta a que se refiere el artículo anterior.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO, P.O. 4 DE ENERO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 24 DE JULIO DE 2015)</small>
 
 ### Capítulo IX. De la rectificación de las actas del estado civil
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE JULIO DE 2015)</small>
+
 ###### Artículo 370.
 
-(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO, P.O. 4 DE ENERO DE 2011)
+La rectificación o modificación de un acta del estado civil puede interponerse ante los Juzgados de Paz del Poder Judicial y ante la autoridad administrativa Coordinación Técnica del Sistema Estatal del Registro Civil, esta última con sede en Chilpancingo de los Bravo, Guerrero, en virtud de sentencia o resolución administrativa, salvo el reconocimiento que voluntariamente hagan los padres de su o sus hijos, el cual se sujetará a las prescripciones de este Código.
+
+La sentencia ejecutoriada o resolución administrativa, según sea el caso, se comunicará al oficial del registro civil correspondiente de cada municipio, ante la Coordinación Técnica Estatal citada y se hará una referencia a ella al margen del acta controvertida, sea que el fallo conceda o niegue la rectificación.
+
+El juicio de rectificación puede promoverse por las personas o que se refiera el acta cuestionada; por las que se mencionen en ella como relacionadas con el estado civil de alguno; por los herederos de éstas y aquellas y por las personas que según este código pueden intentar o continuar las acciones del estado civil.
+
+Después de haber realizado el trámite de rectificación o modificación de un acta del estado civil, la Coordinación Técnica del Sistema Estatal del Registro Civil, deberá comunicarlo por escrito al Juez de Paz correspondiente del lugar de residencia de la persona interesada, a efecto de evitar la duplicidad de actuaciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 371.
 
-(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO, P.O. 4 DE ENERO DE 2011)
+Podrá promoverse la rectificación:
+
+I. Cuando se alegue falsedad del acto registrado; y
+
+II. Cuando se solicite variar algún nombre u otra circunstancia, sea ésta esencial o accidental.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 372.
 
-(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO, P.O. 4 DE ENERO DE 2011)
+El juicio de rectificación de acta se seguirá en la forma que se establezca en el Código de Procedimientos Civiles vigente en el Estado, en el ámbito de competencia de los Juzgados de Paz dependiente del Poder Judicial del Estado y/o en la Ley N° 495, del Registro Civil del Estado de Guerrero, competencia de la autoridad administrativa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 373.
 
-(DEROGADO POR ARTICULO TERCERO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO, P.O. 4 DE ENERO DE 2011)
+La aclaración de las actas del estado civil, procede cuando en el registro existan errores, caligráficos, ortográficos o de otra índole que no afecten los datos esenciales de aquellas y deberán tramitarse ante la Coordinación Técnica del Sistema Estatal del Registro Civil del Gobierno del Estado.
 
 ### Capítulo I. Disposiciones generales
 
@@ -15706,3 +15724,27 @@ Dentro de los sesenta días naturales a la entrada en vigor del presente Decreto
 ###### ARTÍCULO CUARTO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, en la página web de internet del Honorable Congreso del Estado y en dos diarios de mayor circulación en la entidad para su divulgación.
+
+P.O. 24 DE JULIO DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 836 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 358 Y DEL CÓDIGO PROCESAL CIVIL DEL ESTADO LIBRE Y SOBERANO GUERRERO, NÚMERO 364”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Jueces de Paz Mixto o Civil dependientes del Poder Judicial, existentes en cada municipio del Estado, comenzarán a conocer de los asuntos de rectificación de acta, treinta días después de la publicación del presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos constitucionales correspondientes.
+
+###### ARTÍCULO CUARTO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales conducentes.
+
+###### ARTÍCULO QUINTO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero y en el Portal web de este Honorable Congreso del Estado, para el conocimiento general.
