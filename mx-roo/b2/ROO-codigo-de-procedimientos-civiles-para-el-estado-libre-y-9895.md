@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-civiles-para-el-estado-libre-y-9895"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-01-08"
-last_updated: "2014-12-19"
+last_updated: "2015-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA RO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL DECRETO NÚMERO 150, PUBLICADO EN EL P.O. DE 14 DE NOVIEMBRE DE 2014, EL PROCEDIMIENTO ORAL EN MATERIA CIVIL, PREVISTO EN EL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, ENTRA EN VIGOR EN EL DISTRITO JUDICIAL DE CHETUMAL, CON CABECERA EN LA CIUDAD DEL MISMO NOMBRE, EL CUAL COMPRENDE LA CIRCUNSCRIPCIÓN TERRITORIAL DEL MUNICIPIO DE OTHÓN P. BLANCO Y BACALAR DEL ESTADO DE QUINTANA ROO, CUANDO EL PRESENTE DECRETO SE PUBLIQUE EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 8 de enero de 1981.
 
@@ -403,7 +403,9 @@ Los jueces y magistrados a quienes corresponda, recibirán por sí mismos las de
 
 Las actuaciones judiciales se practicarán en días y horas hábiles. Son días hábiles todos los días del año, menos los sábados y domingos y aquellos que las leyes y el Pleno declaren inhábiles.
 
-Se entienden horas hábiles las que median desde las siete hasta las diecinueve horas. En los juicios sobre alimentos, impedimentos de matrimonio, diferencias que surjan entre marido y mujer, sobre administración de bienes comunes, educación de hijos, servidumbres legales, interdictos posesorios y las demás que determinen las leyes, no hay días ni horas inhábiles. En los demás casos, el Juez puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
+
+Se entienden horas hábiles las que median desde las siete hasta las veintiún horas. En los juicios sobre alimentos, impedimentos de matrimonio, diferencias que surjan entre marido y mujer, sobre administración de bienes comunes, educación de hijos, servidumbres legales, interdictos posesorios y las demás que determinen las leyes, no hay días ni horas inhábiles. En los demás casos, el Juez puede habilitar los días y horas inhábiles para actuar o para que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.
 
 ###### Artículo 63.
 
@@ -569,9 +571,11 @@ IV.- El arresto hasta por 36 horas.
 
 Dentro de los tres días de haberse hecho saber una corrección disciplinaria a la persona a quien se le impuso, podrá ésta pedir al Juez que la oiga en justicia, con esta petición se le citará para la audiencia dentro del tercer día, en que se dictará resolución, confirmando, revocando, suspendiendo o modificando la corrección.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2015)</small>
+
 ###### Artículo 89.
 
-Los jueces, para hacer cumplir sus determinaciones, pueden emplear cualquiera de los siguientes medios de apremio que juzguen eficaz:
+Los jueces y magistrados para hacer cumplir sus determinaciones, pueden emplear cualquier (sic) de los siguientes medios de apremio que juzguen eficaz:
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2012)</small>
 
@@ -591,7 +595,9 @@ V. El arresto hasta por 36 horas;
 
 VI. La presentación del testigo;
 
-Si el caso exige mayor sanción, se dará parte a la autoridad competente.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
+
+Respecto a las multas que impongan los jueces y magistrados en el ejercicio de sus funciones, se notificará al infractor que debe acudir a pagarla ante el Fondo para el Mejoramiento de Administración de Justicia dentro del término de tres días, debiendo acreditar dentro de los dos días siguientes a su pago que ya cumplió con la determinación, en caso contrario, se le dará vista al ministerio público por desobediencia a un mandato judicial.
 
 ### CAPITULO III. De la presentación de documentos
 
@@ -667,6 +673,22 @@ Los exhortos que se remitan al extranjero o se reciban de él se sujetarán, en 
 
 Pueden los tribunales acordar que los exhortos y despachos que manden expedir se entreguen, para hacerlos llegar a su destino, a la parte interesada que hubiere solicitado la práctica de la diligencia, quién tendrá la obligación de devolverlos con lo que practicare, si por su conducto se hiciere la devolución.
 
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+###### Artículo 104
+
+Bis.- Los despachos, exhortos o cualquier otra comunicación similar que tengan que diligenciarse entre las autoridades judiciales del Estado, deberán ser remitidos de juez a juez, sin necesidad de pasar a la Presidencia del Tribunal Superior de Justicia del Estado.
+
+Los exhortos y despachos a los que alude el párrafo anterior, se deberán remitir al juzgado que deba cumplir la encomienda, a través del correo electrónico institucional de la Administración de Gestión Judicial que corresponda o de la oficialía de partes en su caso, conjuntamente con los archivos digitalizados, de las constancias conducentes y del recibo de pago de los derechos inherentes. Sin estos requisitos no se procederá a su diligenciación. Una vez recepcionado, se procederá a la impresión de los documentos digitalizados y el fedatario hará constar en el citado documento, la fecha y hora de su recepción. De la misma manera, se devolverán las constancias que deriven de la diligenciación de dichos exhortos, independientemente de la remisión que se hagan (sic) mediante correo certificado.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+###### Artículo 104
+
+Ter.- Tratándose de exhortos o despachos que libren jueces o magistrados del Estado a otras entidades federativas o al extranjero que deban realizarse, estos serán remitidos por medio del correo electrónico institucional, de manera directa a los jueces o magistrados que por razón de jurisdicción y competencia deban diligenciarlos, o en su caso, a través de sus respectivas oficialías comunes de partes, siempre y cuando exista convenio entre los Tribunales respectivos, que así lo justifiquen. Los exhortos o despachos provenientes de otros Tribunales, que deban ser diligenciados en nuestro Estado, podrán ser enviados de manera directa o por conducto de las oficialías comunes, así como por las Administraciones de Gestión Judicial, por medio del correo electrónico institucional, previo convenio realizado entre los diversos Tribunales; mismos que una vez diligenciados deberán ser devueltos por la misma vía.
+
+De no existir convenio respecto a la tramitación de los exhortos vía electrónica, los juzgados de la Entidad los enviarán por esa vía a la Administración de Gestión de Exhortos, debiendo recibirlos el fedatario de la adscripción, quien una vez impreso y cotejado al igual que los documentos que se acompañan, los remitirá al Tribunal Superior de Justicia donde se vaya a realizar la diligencia. Tratándose de los exhortos o despachos que provengan de otra Entidad Federativa, éstos serán enviados a la Administración de Gestión de Exhortos, quien por conducto de su fedatario lo escaneará y lo enviará vía correo electrónico institucional al juez competente; quien por ese mismo conducto, lo devolverá a dicha Administración. Los exhortos y despachos respectivos, serán canalizados por el Presidente del Tribunal.
+
 ### CAPITULO V. De las Notificaciones
 
 ###### Artículo 105.
@@ -698,6 +720,18 @@ Si durante el transcurso de la tramitación del juicio, el abogado litigante es 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
 
 Cuando el litigante no cumpla con lo prevenido en la primera parte de este artículo, las notificaciones, aun las que, conforme a las reglas generales, deben hacerse personalmente, se le harán por lista electrónica, si faltare a lo dispuesto en el párrafo segundo, no se hará notificación alguna a la persona contra quien promueva, hasta que se subsane la omisión.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+Todo Licenciado en Derecho deberá presentar en su primer escrito o diligencia judicial en la que intervenga, su cédula profesional y copia simple de ésta, para el efecto de que el juez o magistrado, mediante el acuerdo correspondiente, coteje la misma y reconozca al compareciente su calidad como profesional en derecho. Asimismo se le asignará una cuenta de acceso al sistema de notificaciones electrónicas la cual deberá mantenerla activa, misma donde recibirá todas y cada una de las notificaciones, inclusive las personales, cuando así lo solicite, y que le servirá para identificarse en los diversos juicios que promueva en los distintos distritos judiciales del Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+Los profesionales en derecho que aún no hayan iniciado un procedimiento civil y deseen obtener su número de usuario para futuros trámites ante diversas instancias judiciales pueden acudir ante la Administración de Gestión Judicial, en donde se le (sic) otorgará el número de usuario que le corresponda.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+Respecto al registro de Licenciados en Derecho, los datos mínimos que se requieren para que al usuario se le asigne un correo institucional, serán: nombre, edad, profesión, correo electrónico y domicilio. El administrador del sistema deberá verificar el cumplimiento estricto de estos.
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
 
@@ -768,6 +802,14 @@ Si ninguna persona quisiere recibir la cédula, se fijará en la puerta, asentá
 > <small>(ADICIONADO, P.O. 25 DE JULIO DE 2014)</small>
 
 En ambos casos el actuario tendrá la obligación de tomar fotografías del inmueble donde se realiza la diligencia, las cuales correrán agregadas en autos.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+Cuando el acceso a la casa, local, oficina o despacho, donde se haya ordenado la notificación personal, se encuentre restringido por estar en el interior de negociaciones mercantiles, establecimientos abiertos al público, clubes privados, unidades habitacionales, fraccionamientos, condominios, colonias o cualquier otro lugar similar; el actuario solicitará el ingreso a quien se encuentre resguardando la entrada, y en caso de negativa, dará cuenta de ésta al juez competente mediante acta pormenorizada.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+En este caso, el Juez ordenará el auxilio de la fuerza pública, a fin de que ésta ejecute todos los actos tendientes a permitir el ingreso del actuario para que se constituya en el domicilio y realice la notificación personal en los términos de este artículo; lo anterior sin perjuicio de la decisión judicial de dar vista al Ministerio Público por desobediencia a un mandato judicial y la aplicación de otras medidas de apremio que se determinen ordenar.
 
 ###### Artículo 113.
 
@@ -1733,7 +1775,7 @@ El arreglo a que llegaren las partes tendrá carácter de sentencia ejecutoriada
 
 No se procederá a la conciliación únicamente en los Juicios sobre filiación, estado civil de las personas, en Juicios o procedimientos no contenciosos y cuando no se conteste la demanda.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CÁPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -4085,13 +4127,13 @@ Interpuesta una apelación, el Juez la admitirá, expresando si lo hace en un so
 
 En el mismo auto donde se admita la apelación, se ordenará notificar personalmente a la contraria, para que dentro del término de seis días conteste a lo que a su derecho convenga.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 613.
 
-En los escritos de expresión y contestación de agravios, las partes deberán señalar domicilio en el lugar de residencia del Superior, bajo pena, en caso de no hacerlo, que todas las notificaciones que deban hacérseles, aún las de carácter personal, surtirán sus efectos por lista de estrados.
+En los escritos de expresión y contestación de agravios, las partes deberán señalar correo electrónico, bajo pena, en caso de no hacerlo, que todas las notificaciones que deban hacérseles, aún las de carácter personal, se practicarán por lista electrónica.
+
+Sin menoscabo de lo dispuesto en el párrafo anterior, se podrá designar domicilio en donde tenga sede el Tribunal de Alzada, para que se hagan las notificaciones y practiquen las diligencias que sean necesarias.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4293,7 +4335,7 @@ Los muebles u objetos que en la casa se encuentren si no hubiere persona de la f
 
 Para la ejecución del desahucio se tiene como domicilio legal del ejecutado, la finca o departamento de cuya desocupación se trata.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE ENERO DE 1995)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE ENERO DE 1995)</small>
 
 ### CAPITULO II (SIC). Del Juicio Hipotecario
 
@@ -6157,7 +6199,9 @@ II. Las solicitudes de divorcio por mutuo consentimiento;
 
 III. Los actos de jurisdicción que versen sobre enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos, y la adopción;
 
-IV. Las rectificaciones de actas del estado civil;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
+
+IV. Las nulidades y rectificaciones de actas del estado civil;
 
 V. Las solicitudes del divorcio incausado;
 
@@ -6167,9 +6211,19 @@ VII. El juicio de Desahucio;
 
 VIII. El juicio hipotecario;
 
-IX. La jurisdicción voluntaria de información ad perpetuam, y
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
 
-X. Las tercerías, (sic)
+IX. Las jurisdicciones voluntarias de información ad perpetuam y la homologación de convenios transaccionales;
+
+X. Las tercerías,
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2015)</small>
+
+XI. La acción que se promueva para obtener el pago de cuotas condominales a que se refiere el artículo 43 de la Ley de Propiedad en Condominio, y
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2015)</small>
+
+XII. Los Interdictos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -6191,13 +6245,15 @@ El Juez de Instrucción tendrá bajo su cargo la recepción, análisis, admisió
 
 El Juez Oral presidirá las audiencias inicial y de juicio, dictando la sentencia correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 895.
 
-En caso de que una de las partes o ambas tengan alguna discapacidad ya sea visual, auditiva o carezca de lenguaje, el Juez Oral ordenará la asistencia necesaria que permita su adecuada intervención en las diligencias en que formen parte.
+En caso de que una de las partes o ambas tengan alguna discapacidad ya sea visual, auditiva o carezca de lenguaje, el Juez de Instrucción ordenará la asistencia necesaria que permita su adecuada intervención en las diligencias en que formen parte. En caso de intérpretes se estará a lo dispuesto en el artículo 918 de este código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 Si para el desahogo de la audiencia de juicio no es posible contar con la asistencia requerida, ésta deberá suspenderse y ordenarse lo conducente para que tenga lugar en fecha posterior, a efecto de que se cumpla con tal disposición.
 
@@ -6311,9 +6367,13 @@ La demanda, contestación, reconvención y contestación a la reconvención, deb
 
 Las partes podrán autorizar a una o varias personas con capacidad legal para oír y recibir documentos y notificaciones en su nombre. Asimismo, podrán otorgar mandato de acuerdo a lo establecido en el Código Civil del Estado, facultando a su mandatario para interponer los recursos e impugnaciones que procedan, ofrecer e intervenir en el desahogo de pruebas y alegar en las audiencias, sin que éste último pueda sustituir o delegar dichas facultades en un tercero.
 
-El mandatario deberá acreditar encontrarse legalmente autorizado para ejercer la profesión de abogado o licenciado en derecho, debiendo proporcionar los datos correspondientes en el escrito que se otorgue el mandato y exponer la cédula profesional para la práctica de la abogacía, en las diligencias en que intervengan.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
-Las personas autorizadas en los términos anteriores, deberán indicar su correo electrónico proporcionado por la Administración de Gestión Judicial.
+El mandatario deberá acreditar encontrarse legalmente autorizado para ejercer la profesión de abogado o licenciado en derecho, debiendo proporcionar copia de su cédula profesional, en el escrito que se otorgue el mandato.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
+
+El mandatario deberá exhibir su cédula profesional en las diligencias en que intervenga, salvo que ya se encuentre registrada dicha cédula en el Sistema de Gestión Judicial del juzgado correspondiente. El mandato judicial otorgado, por escrito, podrá ser ratificado ante el Juez de Instrucción o ante el Juez Oral en la audiencia correspondiente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -6323,15 +6383,15 @@ Las personas autorizadas en los términos anteriores, deberán indicar su correo
 
 En los escritos de demanda, contestación, reconvención y contestación a la reconvención, las partes ofrecerán sus pruebas, mismas que serán relacionadas con los puntos controvertidos, y se proporcionará el nombre, apellidos y domicilio de los testigos, la pericial que en su caso se ofrezca y los puntos sobre los que versará, así como la exhibición de las documentales que obren en su poder o el escrito mediante el cual se hayan solicitado los documentos que no tuvieren en su poder.
 
-Si las partes no cumplen con los requisitos anteriores en los escritos que fijan la litis, el Juez de Instrucción no podrá admitirlas aunque se ofrezcan por las partes posteriormente, salvo que importen excepción superveniente.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Si las partes no cumplen con los requisitos anteriores en los escritos que fijan la litis, el Juez oral no podrá admitirlas, aunque se ofrezcan por las partes posteriormente, salvo que importen pruebas supervenientes.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 908.
 
-Admitida la demanda, el Juez de Instrucción con las copias de la demanda y los documentos que se acompañan ordenará emplazar al demandado, a fin de que, en un plazo de nueve días, ocurra a producir su contestación por escrito, debiendo referirse a todos y cada uno de los hechos aducidos por el actor, confesándolos o negándolos, así como, en su caso, interponer excepciones.
+Admitida la demanda, el Juez de Instrucción con las copias de la demanda y los documentos que se acompañan ordenará emplazar al demandado, y en el caso del ejercicio de acciones de naturaleza ejecutiva, de igual forma debe emitir mandamiento de ejecución. La contestación de la demanda debe presentarse por escrito en un plazo de nueve días, y en la misma el demandado, debe referirse a todos y cada uno de los hechos aducidos por el actor, confesándolos o negándolos, así como, en su caso, interponer excepciones.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -6435,13 +6495,15 @@ La fecha y hora de las audiencias se deberá fijar con la mayor proximidad posib
 
 Las resoluciones judiciales pronunciadas en las audiencias se tendrán por notificadas en ese mismo acto, sin necesidad de formalidad alguna a quienes estén presentes o debieron haberlo estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 918.
 
-Cualquiera de las partes que no hablen el idioma español, formularán sus preguntas o contestaciones por medio de un intérprete, en cuyo caso el Juez Oral será quien lo designe. Las preguntas o contestaciones serán relatadas en el idioma español por el intérprete y si así lo solicitare, éste permanecerá a su lado durante toda la audiencia. En estos casos, a solicitud del (sic) de la parte o del intérprete, se concederá el tiempo suficiente para que éste pueda hacer la traducción respectiva, cuidando, en lo posible, que no se interrumpa el adecuado desarrollo del debate.
+Cualquiera de las partes que no hablen el idioma español, formularán sus preguntas o contestaciones por medio de un intérprete, en cuyo caso el Juez Oral enviará oficio al área de servicios periciales del Poder Judicial a efecto de (sic) ésta, proponga un perito para que sea designado por el juez. Las preguntas o contestaciones serán relatadas en el idioma español por el intérprete y si así lo solicitare, éste permanecerá a su lado durante toda la audiencia. En estos casos, a solicitud del (sic) de la parte o del intérprete, se concederá el tiempo suficiente para que éste pueda hacer la traducción respectiva, cuidando, en lo posible, que no se interrumpa el adecuado desarrollo de la audiencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 Los intérpretes al iniciar su función serán advertidos de las penas en que incurren los falsos declarantes y sobre su obligación de traducir o interpretar fielmente lo dicho.
 
@@ -6581,13 +6643,11 @@ V. La fijación de acuerdos sobre hechos no controvertidos, y
 
 VI. La fijación de acuerdos probatorios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 930.
 
-En caso de que el demandado no conteste la demanda, el Juez de Instrucción declarará la rebeldía y fijará fecha y hora para la audiencia inicial, en la que el Juez Oral admitirá las pruebas ofrecidas por el actor y en caso que éstas no ameriten preparación tendrá por concluida la audiencia inicial e inmediatamente dará inicio a la audiencia de juicio, en la cual se desahogaran las pruebas admitidas, dictándose de ser posible la sentencia definitiva, de no ser así, citará a las partes para dictarla en un término que no podrá exceder de ocho días.
+En caso de que el demandado no conteste la demanda, el Juez de Instrucción declarará la rebeldía. Contestada la demanda o declarada la rebeldía éste fijará fecha y hora para la audiencia inicial, en la que el Juez Oral admitirá o desechara las pruebas ofrecidas por las partes, y en el caso de las admitidas que no ameriten preparación tendrá por concluida la audiencia inicial e inmediatamente dará inicio a la audiencia de juicio, en la cual se desahogarán las pruebas admitidas, dictándose de ser posible la sentencia definitiva, de no ser así, citará a las partes para dictarla en un término que no podrá exceder de ocho días.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -6605,13 +6665,11 @@ La Audiencia inicial se llevará a cabo con o sin la asistencia de las partes. A
 
 Al inicio de la Audiencia inicial, una vez que el Encargado de Sala lleve a cabo lo referido en el artículo 925 de este Código, el juez Oral expondrá un breve resumen de lo demandado y de la contestación a la misma.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 933.
 
-Tratándose de las excepciones dilatorias que no tengan una tramitación especial en este capítulo, se escucharán los alegatos, primero del actor y posteriormente del demandado. Enseguida, el Juez dictará la resolución correspondiente, concluyendo la etapa de depuración.
+Tratándose de las excepciones dilatorias que no tengan una tramitación especial en este capítulo, se tramitarán conforme a las reglas del capítulo de los incidentes.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -6743,13 +6801,11 @@ Sólo la sentencia definitiva, los autos y las sentencias interlocutorias que po
 
 La impugnación contra las demás resoluciones que se pronuncien duranteel (sic) procedimiento, se harán valer en el momento en que se dicten; y los agravios ante la segunda instancia, en el caso de que el agraviado interponga el recurso de apelación contra la sentencia definitiva.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 944.
 
-El recurso de apelación se interpondrá en audiencia ante el mismo Juez Oral que dictó la resolución. Una vez interpuesto el recurso el Juez Oral ordenará remitir las actuaciones al Tribunal de Alzada, en un término no mayor de tres días, y notificará a las partes la sede de dicho tribunal, haciéndole de su conocimiento que las notificaciones para el apelante se harán por vía de estrados, hasta en tanto las partes no acudan ante éste a fijar un nuevo domicilio en la jurisdicción del Tribunal de Alzada, para recibir notificaciones y la forma para recibirlas.
+El recurso de apelación se interpondrá en audiencia ante el mismo Juez Oral que dictó la resolución o ante el Juez de Instrucción tratándose de resoluciones apelables dictadas por éste. Una vez interpuesto el recurso el Juez ordenará remitir las actuaciones al Tribunal de Alzada, en un término no mayor de tres días, y notificará a las partes la sede de dicho tribunal, haciéndole de su conocimiento que las notificaciones para el apelante se harán a través de la lista electrónica o por notificación personal electrónica.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -6799,6 +6855,12 @@ Tratándose de una cuestión que requiera prueba y de ser procedente su admisió
 
 Si en la audiencia de juicio no pudiere concluirse una cuestión incidental, el juez continuará con el desarrollo de la audiencia, sin que pueda dictar sentencia definitiva, hasta en tanto no se resuelva el incidente en los términos del artículo anterior.
 
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+###### Artículo 948
+
+Bis.- Tratándose de los incidentes de nulidad de notificación por falta de emplazamiento y el de falta de personalidad, planteados fuera de audiencia, estos serán tramitados por el Juez de instrucción, quien dará vista a la contraparte para que, en el término de tres días, manifieste lo que (sic) su derecho corresponda, y para el caso de que se ofrezcan pruebas, éstas serán admitidas y preparadas por el mismo Juez, y una vez hecho lo anterior, se fijará audiencia incidental, que será resuelto (sic) por el Juez oral, y en caso de ser procedente el referido incidente, se ordenará lo conducente.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2013)</small>
@@ -6810,6 +6872,40 @@ Si en la audiencia de juicio no pudiere concluirse una cuestión incidental, el 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2013)</small>
 
 Artículo 962 Septiés.- La ejecución de los convenios celebrados ante el juez oral y de las resoluciones dictadas por éstos, será llevada por el juez de instrucción.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+En los casos en que, al momento que el Juez Oral dicte su resolución, y las partes no la recurran, el juez deberá decretar que la misma ha causado ejecutoria, e iniciar la ejecución, girando los oficios correspondientes y, en su caso, ordenando las diligencias necesarias.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+Una vez causado estado la sentencia, en caso de que una de las partes no cumpla con lo ordenado, el juez de instrucción actuará de la siguiente manera:
+
+I. Cuando el deudor alimentista, a pesar de habérsele fijado el pago de pensión alimenticia por el Juez, no cumpla con su obligación, se hará acreedor a la medida de apremio consistente en una multa hasta por el monto establecido en el artículo 89 de este Código;
+
+II. En caso de reincidencia, el Juez ordenará el arresto de dicho deudor, en términos de la fracción IV del artículo 89 del Código en cita;
+
+III. Si por tercera ocasión el deudor alimentista incumple con la citada obligación de pago de pensión alimenticia, se le dará vista al ministerio público para que inicie la carpeta de investigación correspondiente por desobediencia y resistencia de particulares, y lo que resulte procedente;
+
+IV. En caso de que alguna de las partes no respete el régimen de convivencia aprobado por el Juez, se le requerirá para que cumpla de inmediato, apercibido (sic) de no hacerlo así, se le amonestará;
+
+V. Si por segunda ocasión la parte no cumplió con la determinación del Juez respecto de las convivencias; se le hará saber que las subsecuentes visitas se harán en el centro de convivencia respectivo, donde se le hará la entrega del o de los menores;
+
+VI. Si aun así, no se cumple con acudir al Centro de Convivencia, se le impondrá una multa en términos del artículo 89 de este ordenamiento;
+
+VII. En caso de no cumplir con los requerimientos anteriores, el Juez ordenará el arresto, en términos de la fracción IV del artículo 89 de este Código;
+
+VIII. Si agotadas las medidas de apremio antes señaladas, la parte que deba cumplir con el ordenamiento del Juez, insiste en esa conducta, el Juez dará vista al Ministerio Público para iniciar la carpeta de investigación por el delito de resistencia y desobediencia de particulares y/o lo que resulte procedente.
+
+Habiendo causado ejecutoria las resoluciones, y aprobados los convenios transaccionales, el Juez ordenará su archivo definitivo, ordenando se expida copia certificada a las partes, exceptuando los que contengan resolutivos o cláusulas de ejecución inmediata.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+En caso de incumplimiento de los mismos, el interesado promoverá, vía incidental, por cuerda separada, la ejecución del convenio o de la resolución correspondiente que contendrá los siguientes requisitos:
+
+a) Los que establece el artículo 264 de este Código, y
+
+b) Copia certificada del convenio y el auto que lo eleva a categoría de cosa juzgada y resolución o convenio que se pretende ejecutar.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -6833,7 +6929,9 @@ La preparación de las pruebas quedará a cargo de las partes, por lo que deber�
 
 La prueba confesional en este juicio se desahogará conforme a las siguientes reglas:
 
-I. El oferente de la prueba podrá pedir que la contraparte se presente a declarar sobre los interrogatorios que, en el acto de la audiencia se formulen;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2015)</small>
+
+I. El oferente de la prueba podrá pedir que la contraparte se presente a declarar sobre los interrogatorios que, en el acto de la audiencia, se formulen y contesten de manera oral;
 
 II. Los interrogatorios podrán formularse libremente sin más limitación que las preguntas se refieran a hechos propios del declarante que sean objeto del debate. El Juez, en el acto de la audiencia, examinará y calificará las preguntas cuidadosamente; y
 
@@ -7071,17 +7169,15 @@ La demanda de alimentos puede presentarse por escrito ante el Administrador de G
 
 En la comparecencia el Juez Oral debe de informar al interesado que puede contar con el patrocinio de un defensor público para conocer de su procedimiento, y como consecuencia el juez dará parte al Instituto de la Defensoría Pública del Estado para que, en su caso, asesore o patrocine a aquel.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 966.
 
-Levantada la constancia respectiva de la comparecencia o recibida la demanda y cumplidas las exigencias legales, el Juez Oral dictará el auto de admisión, fijando prudencialmente una pensión provisional, contra la cual no se admitirá recurso alguno. Lo anterior, se comunicará de inmediato a la persona física o moral de quien perciba el ingreso el deudor alimentista, para que se haga entrega de la pensión provisional al que exige los alimentos. Lo mismo se observará respecto de cualquier emolumento u otro ingreso que exista a favor del deudor alimentista.
+Levantada la constancia respectiva de la comparecencia o recibida la demanda y cumplidas las exigencias legales, el Juez de Instrucción dictará el auto de admisión, fijando prudencialmente una pensión provisional, contra la cual no se admitirá recurso alguno. Lo anterior, se comunicará de inmediato a la persona física o moral de quien perciba el ingreso el deudor alimentista, para que dicha pensión se deposite a la cuenta bancaria del Poder Judicial o en la caja de la dirección financiera, para tal efecto el Juez hará del conocimiento el número de cuenta correspondiente; la cual hará constar el juez en el acuerdo donde fije la citada pensión; debiendo el Fondo para el Mejoramiento de la Administración de Justicia informar al juzgado cuando la persona física o moral incumpla, para efecto de que el juez requiera a la institución o persona moral en la que labore el deudor alimentista o en su caso, de manera directa al deudor alimentista.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
-
-Para fijar la pensión provisional, el Juez podrá ordenar el desahogo de cualquier diligencia que considere necesaria. Fuera de los casos anteriores, se ordenará requerir al deudor alimentista sobre el pago inmediato de dicha pensión provisional, embargando, en su caso, bienes de su propiedad que garanticen su cumplimiento.
+Para fijar la pensión provisional, el Juez de Instrucción podrá ordenar el desahogo de cualquier diligencia que considere necesaria. Fuera de los casos anteriores, se ordenará requerir al deudor alimentista sobre el pago inmediato de dicha pensión provisional, embargando, en su caso, bienes de su propiedad que garanticen su cumplimiento.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7149,15 +7245,13 @@ II. La convivencia de los abuelos con sus nietos menores de edad.
 
 Las personas primeramente señaladas, están legitimadas para acudir en esta vía, siempre que se encuentren en el ejercicio de la patria potestad, pero en ella no se ventilará discusión alguna sobre el derecho de su ejercicio y no será procedente cuando dicha cuestión ha sido motivo de sentencia ejecutoriada. Cualquier discusión en este sentido deberá tramitarse en la vía ordinaria.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 972.
 
-El Juez, después de contestada la demanda y fijada la litis, fijará un régimen de convivencia provisional con el demandante ya sea de manera libre, asistida o supervisada, atendiendo a las circunstancias del caso y al interés superior del menor involucrado, pudiendo negar dicha medida temporal en caso que exista un inminente riesgo a la integridad física, psicológica o emocional del menor.
+El Juez de instrucción, después de contestada la demanda, fijará un régimen de convivencia provisional con el demandante ya sea de manera libre, asistida o supervisada, atendiendo a las circunstancias del caso y al interés superior del menor involucrado, pudiendo negar dicha medida temporal en caso que exista un inminente riesgo a la integridad física, psicológica o emocional del menor. Asimismo, podrá mandar a realizar las valoraciones psicológicas y medicas de la persona menor de edad y quienes tengan derecho a ejercer la convivencia y así lo soliciten.
 
-La convivencia provisional cesará una vez que el Juez pronuncie la sentencia definitiva.
+La convivencia provisional cesará una vez que el Juez Oral pronuncie la sentencia definitiva.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7209,7 +7303,7 @@ La sentencia se ejecutará, si así se solicita, sin necesidad de fianza.
 
 #### SECCIÓN PRIMERA. PROCEDIMIENTO
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 977.
 
@@ -7325,25 +7419,29 @@ a) La designación sobre la guarda y custodia de los hijos menores o incapaces y
 
 b) El régimen de visita y convivencia respecto del progenitor que no ejercerá la guarda y custodia de los menores;
 
-c) La designación del cónyuge que seguirá habitando, en su caso, el domicilio donde se haga vida en común;
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
+
+c) La designación de los domicilios donde habitarán los cónyuges, tanto durante como después de ejecutoriado el divorcio;
 
 d) La cantidad que por concepto de alimentos se propone, para atender las necesidades de los hijos y en su caso del cónyuge a quien deba darse alimentos, la forma, lugar y temporalidad para hacerlo, los elementos que permitan al Juez fijar la pensión propuesta, así como la garantía para asegurar su cumplimiento;
 
 e) La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma de liquidarla, después de decretado el divorcio; y
 
-f) Tratándose del régimen de separación de bienes, la forma de repartir los bienes adquiridos durante el matrimonio, en los términos previstos por la Sección Tercera del Capítulo IV del Título Primero de la Segunda Parte del Libro Tercero del Código Civil del Estado.
+f) (DEROGADO, P.O. 24 DE JULIO DE 2015)
 
 En la solicitud, se podrá pedir la aplicación de medidas precautorias, acompañando en su caso, la documentación que se estime necesaria.
 
 Se exhibirá copia de la solicitud y documentos exhibidos para traslado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 985
 
-Quater.- Presentada la solicitud, de no existir prevención alguna, el Juez admitirá a trámite la petición, dando vista al otro cónyuge y, proveerá sobre las medidas precautorias solicitadas o las que estime necesarias para salvaguardar el interés superior de los menores o incapaces.
+Quater.- Presentada la solicitud, el Juez de Instrucción admitirá a trámite la petición, dando vista al otro cónyuge y proveerá sobre las medidas precautorias y provisionales solicitadas o las que estime necesarias para salvaguardar el interés superior de los menores o incapaces.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
 
 Además, se señalará día y hora para una audiencia de avenencia que tendrá verificativo después de nueve y antes de quince días, contados a partir de la notificación del propio auto.
 
@@ -7355,33 +7453,43 @@ Además, se señalará día y hora para una audiencia de avenencia que tendrá v
 
 Quinquies.- En la audiencia de avenencia, el Juez tratará de conciliar a las partes, para continuar con el matrimonio. De no obtenerse la conciliación, la audiencia continuará y el Juez escuchará a las partes sobre la propuesta del convenio, en la que se podrán modificar o adicionar las cláusulas del mismo a petición de los interesados.
 
-De manifestar su conformidad con los términos del convenio y, de no haber observación alguna por el juzgador, se aprobará y elevará a la categoría de cosa juzgada, decretando la disolución del vínculo matrimonial y, en su caso, la terminación de la sociedad conyugal.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
+
+De manifestar su conformidad con los términos del convenio y, de no haber observación alguna por el juzgador, se aprobará y elevará a la categoría de cosa juzgada, decretando mediante sentencia definitiva la disolución del vínculo matrimonial y, en su caso, la terminación de la sociedad conyugal.
 
 La aprobación del convenio podrá ser sólo sobre los puntos en que haya consenso, respecto de los restantes se procederá conforme al precepto legal siguiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 985
 
-Sexties.- De no llegar a un acuerdo sobre la totalidad de los puntos del convenio o de no asistir a la audiencia respectiva el cónyuge citado, se decretará la disolución del vínculo matrimonial y, en su caso, la terminación de la sociedad conyugal; apercibiendo a las partes de abstenerse de ocultar, enajenar, dilapidar bienes y efectos patrimoniales generados durante el matrimonio hasta en tanto se resuelva en definitiva.
+Sexties.- De no llegar a un acuerdo sobre la totalidad de los puntos del convenio o de no asistir a la audiencia respectiva el cónyuge citado, se decretará la disolución del vínculo matrimonial y, en su caso, la terminación de la sociedad conyugal; apercibiendo a las partes en la sentencia definitiva de abstenerse de ocultar, enajenar, dilapidar bienes y efectos patrimoniales generados durante el matrimonio hasta en tanto se liquide la sociedad conyugal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
 
 En la propia audiencia, se decidirá sobre las medidas precautorias y provisionales, entre otras las referentes a los alimentos, guarda y custodia de menores o incapaces y, régimen de convivencia.
 
-Se otorgará a las partes un plazo común de cinco días para que conforme a los requisitos de una demanda, formulen sus pretensiones, hechos y ofrezcan sus medios de prueba, respecto de los puntos que no hayan sido objeto de consenso y los demás que estimen convenientes.
-
-Con los escritos que presenten las partes, se les dará vista para que manifiesten lo que a su interés convenga, opongan defensas y excepciones y ofrezca los medios de prueba respectivos, por un plazo de cinco días.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
 
+Se otorgará a las partes un plazo común de cinco días para que conforme a los requisitos de una demanda, formulen sus pretensiones, hechos y ofrezcan sus medios de prueba, respecto de los puntos que no hayan sido objeto de consenso y los demás que estimen convenientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+Con los escritos que presenten las partes, se les dará vista para que manifiesten lo que a su interés convenga, opongan defensas y excepciones y ofrezca los medios de prueba respectivos, por un plazo de cinco días.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
+
 ###### Artículo 985
 
-Septies.- Hecha la solicitud y cumplidas las exigencias del artículo anterior, el Juez de Instrucción, por conducto del Administrador de Gestión Judicial, citará a los cónyuges y al Ministerio Público a la audiencia inicial ante el Juez Oral, dentro de un término entre ocho y quince días; en términos del artículo 923 de esta ley adjetiva y la secuencia procesal seguirá las mismas reglas del título vigésimo primero denominado del procedimiento oral, del propio ordenamiento.
+Septies.- Hecha la solicitud y cumplidas las exigencias del artículo anterior, el Juez de Instrucción, citará al Ministerio Público a la audiencia inicial ante el Juez Oral, dentro de un plazo entre ocho y quince días; y la secuencia procesal seguirá las mismas reglas del Título Vigésimo Primero denominado del Procedimiento Oral, resolviéndose mediante sentencia interlocutoria el incidente de pretensiones planteado respecto de los puntos que no hayan sido objeto del consenso.
 
-La resolución que se decrete en el divorcio incausado será irrecurrible.
+La sentencia definitiva que decrete la disolución del vínculo matrimonial será irrecurrible.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7395,7 +7503,9 @@ La resolución que se decrete en el divorcio incausado será irrecurrible.
 
 ###### Artículo 986.
 
-La solicitud se presentará por escrito al Administrador de Gestión Judicial del Juzgado y reunirá los requisitos de los artículos 90, 91 y 264 de este Código y cualquier otro requisito que el Juez de Instrucción considere prudente, los correspondientes al acto de jurisdicción voluntaria que se promueva y cualquier otro requisito que el Juez de Instrucción considere prudente según las circunstancias del caso. Si no se reúnen las exigencias previstas en el párrafo anterior, el Juez concederá al promovente un término de tres días para completarlas. En caso de que no se cumpla esa prevención, se desechará de plano su solicitud.
+La solicitud se presentará por escrito al Juez de instrucción y reunirá los requisitos de los artículos 90, 91 y 264 de este Código y cualquier otro requisito que el Juez de Instrucción considere prudente; los correspondientes al acto de jurisdicción voluntaria que se promueva y cualquier otro requisito que el Juez de Instrucción considere necesario, según las circunstancias del caso. Si no se reúnen las exigencias previstas en el párrafo anterior, el Juez concederá al promovente un término de tres días para completarlas. En caso de que no se cumpla esa prevención, se desechará de plano su solicitud.
+
+Tratándose de convenios transaccionales, el Juez de Instrucción, dentro del término de tres días, fijará audiencia mandando citar a las partes interesadas del objeto de la transacción, para que, en presencia del Juez Oral, ratifique el convenio y las firmas para que proceda su homologación y eleve a categoría de cosa juzgada. Para el caso de que no comparezcan las partes a la audiencia respectiva a ratificar el convenio, se ordenará el archivo definitivo del asunto.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -7561,9 +7671,7 @@ Contra la resolución que concede la diligencia preparatoria no habrá ningún r
 
 ### CAPÍTULO V. DEL JUICIO HIPOTECARIO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 1003.
 
@@ -7589,43 +7697,57 @@ Emplazado el demandado y en caso de que el inmueble se encuentre desocupado, a p
 
 ###### Artículo 1005.
 
-Procederá el juicio hipotecario, si éste fue constituido en los términos de los Artículos 3096, 3097, 3098, 3099, 3108 y demás relativos del Código Civil para el Estado, y además cuando:
+Se tramitará en la vía civil oral el juicio que se promueva para ejercitar la acción hipotecaria que tiene por objeto la obtención del pago del crédito que la hipoteca garantice. Para que el juicio proceda es necesario se siga según las reglas del presente capítulo, y se cumpla la totalidad de los siguientes requisitos:
 
-I. El documento base de la acción tenga carácter de título ejecutivo;
+I. Que el crédito hipotecario se otorgue en los términos de los Artículos 3096, 3097, 3098, 3099, 3108 y demás relativos del Código Civil para el Estado y que sea de plazo cumplido, o que éste sea exigible en los términos pactados o bien conforme a las disposiciones aplicables;
 
-II. El bien se encuentre inscrito a favor del demandado; y
+II. El documento base de la acción tenga carácter de título ejecutivo;
 
-III. No exista embargo o gravamen en favor de tercero, inscrito cuando menos noventa días anteriores a la de la presentación de la demanda.
+III. El bien se encuentre inscrito a favor del demandado, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV. No exista embargo o gravamen en favor de tercero, inscrito cuando menos noventa días anteriores a la de la presentación de la demanda.
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 1006.
 
 Presentado el escrito de demanda, acompañado del instrumento respectivo, el juez de instrucción, previa calificación de que se reúnen los requisitos fijados por el artículo anterior, admitirá la misma y mandará anotar la demanda en el Registro Público de la Propiedad y que se corra traslado de ésta al deudor, para contestar la demanda y a oponer las excepciones, que no podrán ser otras que:
 
-I. Las fundadas en las que el demandado no haya firmado el documento base de la acción, su alteración o la de falsedad del mismo;
+I. La falta de personalidad del acreedor;
 
-II. Incumplimiento;
+II. Las fundadas en las que el demandado no haya firmado el documento base de la acción, su alteración o la de falsedad del mismo;
 
-III. Pago o compensación;
+III. Falta de representación, de poder bastante o facultades legales de que quien haya suscrito en representación del demandado el documento base de la acción;
 
-IV. Remisión o quita;
+IV. Incumplimiento o nulidad del contrato;
 
-V. Oferta de no cobrar o espera, y
+V. Pago o compensación;
 
-VI. Novación de contrato.
+VI. Remisión o quita;
 
-Las excepciones comprendidas en las fracciones III, IV, V y VI solo se admitirán cuando se funden en prueba documental.
+VII. Oferta de no cobrar o espera;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VIII. Novación de contrato;
 
-> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2013)</small>
+IX. Litispendencia y conexidad, y
+
+X. Cosa juzgada.
+
+Las excepciones comprendidas en las fracciones V a la VIII y la indicada en la fracción X, solo se admitirán cuando se funden en prueba documental. Las excepciones señaladas en la fracción IX, solo se admitirán si se exhiben con la contestación las copias señaladas de la demanda y contestación de ésta, o de las constancias que acrediten el emplazamiento del juicio pendiente o conexo, o bien la documentación que acredite fehacientemente que se encuentra tramitando un procedimiento arbitral.
+
+La reconvención solo será procedente cuando se funde en el mismo documento base de la acción o se refiera a su nulidad. En cualquier otro caso se desechará de plano.
+
+Si el demandado al contestar la demanda se allanare a esta y solicitare el término de gracia para el pago o cumplimiento de lo reclamado, el Juez de Instrucción dará vista al actor para que, dentro de tres días manifieste lo que a su derecho convenga, debiendo el Juez Oral resolver en la audiencia inicial, de acuerdo a tales proposiciones de las partes. El término de gracia no podrá exceder de tres meses en ningún caso.
+
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 1007.
 
-La demanda se anotará al margen de la inscripción registral de la hipoteca en el Registro Público correspondiente, a cuyo efecto el actor exhibirá un tanto más de dicha demanda, documento base de la acción y en su caso, de aquellos con que justifique su representación, para que previo cotejo con sus originales, se certifiquen por el Fedatario, haciendo constar que se expiden para efectos de que la parte interesada inscriba su demanda, a quien se le entregarán para tal fin, debiendo hacer las gestiones en el Registro.
+La demanda se anotará al margen de la inscripción registral de la hipoteca en el Registro Público correspondiente, a cuyo efecto el actor exhibirá un tanto más de dicha demanda, documento base de la acción y en su caso, de aquellos con que justifique su representación, para que previo cotejo con sus originales, se certifiquen por el Fedatario, haciendo constar que se expiden para efectos de que la parte interesada anote su demanda, a quien se le entregarán para tal fin, debiendo hacer las gestiones en el Registro.
+
+La anotación de la demanda estará vigente desde su materialización en el Registro Público de la Propiedad, hasta la conclusión del juicio, determinada por auto o sentencia que haya quedado firme.
+
+Si la finca no se haya en el lugar del juicio, se librará exhorto al juez de la ubicación, para que ordene el registro de la demanda como se previene en el primer párrafo de este artículo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7634,6 +7756,60 @@ La demanda se anotará al margen de la inscripción registral de la hipoteca en 
 ###### Artículo 1008.
 
 Anotada la demanda en el Registro Público de la Propiedad, no podrá verificarse en la finca hipotecada ningún embargo, toma de posesión, diligencia precautoria o cualquier otra que entorpezca el curso del juicio, sino en virtud de sentencia ejecutoriada relativa a la misma finca, debidamente registrada y anterior en fecha a la inscripción de la referida demanda o en razón de providencia precautoria solicitada ante el juez de instrucción por acreedor con mejor derecho, en fecha anterior a la demanda.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+###### Artículo 1008
+
+Bis.- Si en la libertad de gravamen como uno de los elementos por el cual se ejercita una acción hipotecaria se advierte que hay otros acreedores hipotecarios, el Juez de Instrucción mandará notificarles la existencia del juicio para que manifiesten lo que a su derecho corresponda.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+###### Artículo 1008
+
+Ter.- En la diligencia de emplazamiento se le requerirá al deudor del pago de lo adeudado y de no hacerlo se le nombrará depositario judicial, respecto a la finca dada en garantía hipotecaria, de sus frutos y los objetos que con arreglo al contrato y conforme al Código Civil, deban considerarse como inmovilizados y formando parte de la misma finca de los cuales se formará inventario para agregarlo a los autos, siempre que lo pida el acreedor.
+
+Para efecto del inventario el deudor queda obligado a dar todas las facilidades para su formación y en caso de desobediencia, el Juez lo compelerá por los medios de apremio que le autoriza la ley.
+
+El deudor que no haya aceptado la responsabilidad de depositario, será desalojado judicialmente y entregará desde luego la tenencia material al actor.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+###### Artículo 1008
+
+Quater.- Si en la diligencia que se señala en el párrafo anterior no se entendiere directamente con el deudor, éste deberá dentro de los tres días siguientes manifestar si acepta o no la responsabilidad de depositario, entendiéndose que no lo acepta si no hace esta manifestación y en este caso el autor podrá pedir que se le entregue la tenencia material de la finca.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+###### Artículo 1008
+
+Quinquies.- Si durante la conciliación, el demandado confesare ante el facilitador adscrito al Centro de Justicia Alternativa ciertas las pretensiones del actor, el juez oral le concederá al demandado un término de gracia de quince días para hacer los pagos adeudados, exentándolo del pago de gastos y costos que se hubieren originado. Si no lo hiciere, se dictará sentencia condenatoria en la que se determine el remate de la finca hipotecada por el saldo de lo adeudado por el demandado.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+###### Artículo 1008
+
+Sexties.- Para el remate, se tendrá como precio de la finca hipotecada, el precio que señale el avalúo que presente la persona que las partes hayan convenido para tal efecto en el momento de la constitución de la hipoteca, o en su caso, de no haberse acordado se procederá de la forma siguiente:
+
+I. Cada parte tendrá derecho de exhibir, dentro de los cinco días siguientes a que sea ejecutable la sentencia, avalúo de la finca hipotecada, practicado por un corredor público, una institución de crédito o perito valuador autorizado por la ley, los cuales en ningún caso podrán tener el carácter de parte o de interesada en juicio;
+
+II. En el caso de que algunas de las partes omita exhibir el avalúo dentro del plazo señalado en la fracción anterior se entenderá su conformidad con el avalúo que haya exhibido su contraria;
+
+III. En el supuesto de que ninguna de las partes exhiba el avalúo dentro del plazo señalado en la fracción I de este artículo, cualquiera de ellas lo podrá presentar posteriormente, considerándose como base para el remate el primero en tiempo;
+
+IV. Si las dos partes exhibieren los avalúos en el plazo a que se refiere la fracción I de este artículo y los valores determinados de cada uno de ellos no coincidieren, se tomará como base para el remate el promedio de ambos avalúos, siempre y cuando no exista un treinta por ciento de diferencia entre el más bajo y el más alto, en cuyo caso el juez ordenará se practique nuevo avalúo por el corredor público o la institución bancaria que al efecto señale;
+
+V. La vigencia del valor que se tenga por los avalúos, será de seis meses para que se lleve a cabo la primera almoneda de remate. Si entre ésta y la subsecuente mediara un término mayor de seis meses, se deberán actualizar los valores;
+
+VI. Obtenido el valor del avalúo según el caso que corresponda de acuerdo a las fracciones anteriores, se procederá a rematar la finca en los términos del Capítulo IV denominado “De los remates” del Título Noveno de este código, y
+
+VII. La resolución que recaiga al remate solo podrá ser apelable en sentido devolutivo.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2015)</small>
+
+###### Artículo 1008
+
+Septies.- Desde el día del emplazamiento, contrae el deudor la obligación de depositario judicial de la finca hipotecada, de sus frutos y de todos los objetos que con arreglo a la escritura y conforme al Código Civil, deban considerarse como inmovilizados y formando parte de la misma finca, de los cuales se formará inventario para agregarlo a los autos, siempre que lo pida el acreedor.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -8330,3 +8506,9 @@ P.O. 19 DE DICIEMBRE DE 2014.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE JULIO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
