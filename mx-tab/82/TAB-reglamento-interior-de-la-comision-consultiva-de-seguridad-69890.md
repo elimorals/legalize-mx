@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-comision-consultiva-de-seguridad-6989
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-29"
-last_updated: "2009-07-29"
+last_updated: "2015-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION CONSULTIVA DE SEGURIDAD E HIGIENE EN EL TRABAJO EN EL ESTADO DE TABASCO
 
-REGLAMENTO INTERIOR DE LA COMISION CONSULTIVA DE SEGURIDAD E HIGIENE EN EL TRABAJO EN EL ESTADO DE TABASCO
+REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA DE SEGURIDAD E HIGIENE EN EL TRABAJO EN EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO Y SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD Y SALUD EN EL TRABAJO DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 25 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2015 (SIN EFECTOS).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 29 de julio de 2009.
 
@@ -326,3 +328,11 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO
 MTRO. JORGE LORENZO BARRAGÁN LANZ
 
 DELEGADO FEDERAL DEL TRABAJO EN EL ESTADO Y SECRETARIO TÉCNICO DE LA COMISIÓN CONSULTIVA DE SEGURIDAD E HIGIENE EN EL TRABAJO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE JULIO DE 2015.
+
+Artículo primero.- El presente Reglamento surtirá sus efectos a partir del 01 de mayo de 2015.
+
+Artículo segundo.- Queda sin efectos el Reglamento Interior de la Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo, aprobado en Junio de 2009 y todas aquellas disposiciones relativas a la integración y funcionamiento de la Comisión que se contrapongan al presente Reglamento.
