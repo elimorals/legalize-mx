@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-del-instituto-electoral-del-estado-de-73297
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-05"
-last_updated: "2009-12-05"
+last_updated: "2015-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73297&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. 25 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 5 de diciembre de 2009.
 
@@ -653,7 +655,7 @@ Apartado Cuarto
 
 De Asuntos Jurídicos
 
-###### Articulo 31.
+###### Artículo 31.
 
 1. Son atribuciones de la persona titular de la Dirección Ejecutiva de Asuntos Jurídicos, además de las señaladas en el artículo 44 de la Ley Orgánica del Instituto Electoral del Estado de Zacatecas, las siguientes:
 
@@ -1171,7 +1173,7 @@ VI. Rendir los informes que le sean solicitados por la Presidenta del Consejo o 
 
 VII. Las demás que le señale el Secretario Ejecutivo.
 
-###### Articulo 52.
+###### Artículo 52.
 
 1. El personal encargado del archivo jurisdiccional está obligado a respetar los documentos y su contenido. Sólo proporcionará información a los Consejeros Electorales, al Secretario Ejecutivo y al personal autorizado por la Presidenta y/o Secretario Ejecutivo. A los partidos políticos, candidatos y público en general, se proporcionará la información pública siempre y cuando medie solicitud en ejercicio de la garantía de acceso a la información pública del Instituto y dará acceso al archivo sólo al personal autorizado mediante escrito por la Presidenta y/o Secretario Ejecutivo del Instituto.
 
@@ -1218,3 +1220,13 @@ Artículo Primero.- Publíquese en el Periódico Oficial, Órgano del Gobierno d
 Artículo Segundo.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo Tercero.- Se abroga el Reglamento Interior del Instituto Electoral del Estado de Zacatecas, aprobado por el Consejo General del Instituto Electoral del Estado de Zacatecas, en fecha veintisiete de septiembre de dos mil cinco.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE JULIO DE 2015.
+
+Primero.- Se abroga el Reglamento Interior del Instituto Electoral del Estado de Zacatecas, aprobado por el Consejo General el dos de diciembre de dos mil nueve.
+
+Segundo.- El presente Reglamento entrará en vigor a partir de su aprobación por el Consejo General.
+
+Tercero.- Publíquese en el Periódico Oficial, Órgano del Gobierno del Estado.
