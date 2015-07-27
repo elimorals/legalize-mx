@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5052
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-22"
-last_updated: "2014-12-31"
+last_updated: "2015-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 22 de mayo de 2006.
 
@@ -31,7 +31,7 @@ LUIS ARMANDO REYNOSO FEMAT, Gobernador Constitucional del Estado Libre y Soberan
 
 Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
 
-La LIX Legislatura del Poder Legislativo del Estado Libre y Soberano de Aguascalientes, en virtud de su función y facultad constitucional, ha tenido ha bien expedir el siguiente
+La LIX Legislatura del Poder Legislativo del Estado Libre y Soberano de Aguascalientes, en virtud de su función y facultad constitucional, ha tenido ha (sic) bien expedir el siguiente
 
 Decreto Número 169
 
@@ -63,7 +63,9 @@ Para los efectos de esta Ley se entiende por:
 
 I.- Datos personales: La información numérica, alfabética, gráfica fotográfica, acústica o de cualquier otro tipo concerniente a una persona física, identificada o identificable, entre otra, la relativa a su nombre asociado, a su origen étnico o racial, o que esté referida a las características físicas, morales o emocionales, a su vida afectiva y familiar, domicilio, número telefónico, cuenta personal de correo electrónico, patrimonio, ideología y opiniones políticas, creencias o convicciones religiosas o filosóficas, los estados de salud físicos o mentales, las preferencias sexuales, la huella digital, su información genética, la fotografía o el número de seguridad social u otras análogas que afecten su intimidad;
 
-II.- Dependencias y Unidades de Apoyo: Las señaladas en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, incluidos los órganos administrativos desconcentrados, la Procuraduría General de Justicia del Estado, y la Junta Local de Conciliación y Arbitraje;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+
+II.- Dependencias y Unidades de Apoyo: Las señaladas en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, incluidos los órganos administrativos desconcentrados y la Junta Local de Conciliación y Arbitraje;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -139,7 +141,7 @@ XXIII.- Sistema de Datos Personales: El conjunto ordenado de los mismos que est�
 
 XXIV.- Sujetos Obligados: Las instituciones públicas señaladas en el Artículo 1° de esta Ley;
 
-XXV.- Transparencia: Atributo de la Información Pública que consiste en que ésta sea clara, veraz, oportuna y suficiente en los términos de Ley; y (sic)
+XXV.- Transparencia: Atributo de la Información Pública que consiste en que ésta sea clara, veraz, oportuna y suficiente en los términos de Ley; y
 
 XXVI.- Unidad de Enlace: La oficina designada por los sujetos obligados de esta Ley, encargada de recibir, dar trámite a las solicitudes de información y encomendadas a realizar las funciones que se establezca en esta Ley y su respectivo Reglamento.
 
@@ -1156,3 +1158,13 @@ Toda referencia al Artículo 25 de la Ley de Presupuesto, Contabilidad y Gasto P
 ###### ARTÍCULO SEXTO.
 
 Los Municipios, los Poderes Legislativo y Judicial, así como los Órganos Autónomos, dentro de los noventa días naturales siguientes al inicio de vigencia del presente Decreto, establecerán la instancia técnica de evaluación a que se refiere el Artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios.
+
+P.O. 27 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
