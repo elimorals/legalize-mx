@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-fisica-y-deporte-del-estado-de-aguascalientes-53
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2015-06-15"
+last_updated: "2015-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2007.
 
@@ -429,7 +429,9 @@ f) Secretaría de Bienestar y Desarrollo Social
 
 g) Secretaría de Seguridad Pública;
 
-h) Procuraduría General de Justicia del Estado;
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
+
+h) Fiscalía General del Estado;
 
 > <small>(REFORMADO, P.O. 25 DE ENERO DE 2010)</small>
 
@@ -1829,7 +1831,9 @@ La coordinación y operación de los trabajos dé la Comisión, estarán a cargo
 
 Artículo 138 bis.- Las funciones de dicha Comisión, entre otras, que se establecerán para el cumplimiento de sus fines, conforme a lo dispuesto en el reglamento de la presente Ley, serán:
 
-I. Trabajar de manera coordinada con las dependencias estatales involucradas en la realización de espectáculos deportivos, como son: la Procuraduría General de Justicia del Estado, la Secretaría de Seguridad Pública Estatal y Municipal, y Protección Civil del Estado y Municipios;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+
+l. Trabajar de manera coordinada con las dependencias estatales involucradas en la realización de espectáculos deportivos, como son: la Fiscalía General del Estado, la Secretaría de Seguridad Pública Estatal y Municipal, y Protección Civil del Estado y Municipios;
 
 II. Promover e impulsar las acciones encaminadas a la Prevención de la Violencia en la Celebración de los Espectáculos Deportivos;
 
@@ -2068,3 +2072,13 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de "personas con discapacidad".
+
+P.O. 27 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
