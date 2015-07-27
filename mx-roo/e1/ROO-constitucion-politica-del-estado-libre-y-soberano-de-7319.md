@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2015-02-27"
+last_updated: "2015-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -259,25 +259,31 @@ Los derechos de tránsito por el Estado, y mudar de residencia dentro del mismo,
 
 Toda personas (sic) disfrutará en Quintana Roo de la Libertad de creencias, en términos de los Artículos 24 y 130 de la Constitución Política de los Estados Unidos Mexicanos y de sus leyes reglamentarias.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
+
 ###### ARTICULO 21.
 
-La correspondencia que bajo cualquier forma circule en el Estado, estaráexenta (sic) de toda revisión y su violación constituye delito.
+La correspondencia que bajo cualquier forma circule en el Estado, estará exenta de toda revisión y su violación constituye delito.
 
-> <small>(ADICIONADO P.O. 19 DE MAYO DE 2008)</small>
+La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley. El derecho a la información será garantizado por el Estado.
 
-La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho de replica será ejercido en los términos dispuestos por la ley. El derecho a la información será garantizado por el Estado.
+El derecho de acceso a la información y la protección de datos personales será garantizado por un órgano público autónomo, especializado, imparcial y colegiado, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, denominado Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo.
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2015)</small>
+Este órgano garante estará integrado por tres comisionados que durarán en su encargo siete años, serán nombrados en los términos que prevea la ley, procurando la equidad de género y cumpliendo como mínimo con los requisitos previstos en las fracciones I, II, IV, V, VI y VII del artículo 101 de la Constitución Política del Estado Libre y Soberano de Quintana Roo. No podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia, sólo podrán ser removidos de su cargo en los términos del Título Cuarto de esta Constitución y serán sujetos de juicio político.
 
-El derecho de acceso a a (sic) información y la protección de datos personales será garantizado por un órgano público autónomo, especializado, imparcial y colegiado, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre e (sic) ejercicio de su presupuesto y determinar su organización interna, denominado Instituto de Acceso a la nformación (sic) y Protección de Datos Personales de Quintana Roo, el cual tendrá una Junta de Gobierno que será el órgano máximo de dirección compuesto por tres Consejeros Ciudadanos, y entre ellos elegirán a quien fungirá como Presidente, durarán 6 años, y serán nombrados en los términos que prevenga la ley. En la conformación de la Junta de Gobierno del órgano garante se procurará la equidad de género. En su funcionamiento se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+El comisionado presidente será designado por los propios comisionados, mediante voto secreto, por un periodo de tres años, con posibilidad de ser reelecto por un periodo igual; estará obligado a rendir un informe anual ante la Legislatura del Estado, en la fecha y en los términos que disponga la ley.
 
-> <small>(ADICIONADO P.O. 19 DE MAYO DE 2008)</small>
+El órgano garante se regirá por la ley de la materia, en apego a los términos que establezca la ley general y su funcionamiento se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+
+Las resoluciones del órgano garante son vinculatorias, definitivas e inatacables para los sujetos obligados.
+
+La ley establecerá las medidas de apremio que podrá imponer el organismo garante para asegurar el cumplimiento de sus decisiones.
+
+El organismo garante tendrá un Consejo Consultivo, integrado por cuatro consejeros, que serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Legislatura del Estado. La ley determinará los procedimientos de designación.
 
 Para el ejercicio del derecho de acceso a la información, regirán los principios y bases siguientes:
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2015)</small>
-
-I.- Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, Municipios, órganos públicos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional, estatal o municipal, en términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de maxima publicidad. La ley establecerá aquella información que se considere reservada o confidencial.
+l. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, Municipios, órganos públicos autónomos, partidos políticos, fideicomisos y fondos públicos, así como cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional, estatal o municipal, en términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. La ley establecerá aquella información que se considere reservada o confidencial.
 
 Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información.
 
@@ -285,21 +291,15 @@ II. La información que se refiere a la vida privada y los datos personales ser�
 
 III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2015)</small>
+IV. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Estos procedimientos se sustanciarán ante el órgano garante, que además estará obligado a realizar tareas de investigación, promoción y difusión acerca de temas relacionados con el derecho a la información y la protección de datos personales, así como el ejercicio de las atribuciones que determine la ley; asimismo deberá contar con sistemas electrónicos para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información pública del propio órgano y de los procedimientos de revisión.
 
-IV.- Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Estos procedimientos se sustanciarán ante el órgano garante, que además estará obligado a realizar tareas de investigación, promoción y difusión acerca de temas relacionados con el derecho a la información y la protección de datos personales, así como e (sic) ejercicio ce (sic) las atribuciones que determine la ley; asimismo deberá contar con sistemas electrónicos para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información pública del propio órgano y de los procedimientos de revisión.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2015)</small>
-
-V.- Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos.
+V. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos.
 
 Los sujetos obligados deberán contar con sistemas electrónicos para que cualquier persona pueda hacer uso remoto de los mecanismos de acceso a la información.
 
 VI. La ley determinará la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
 
 VII. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
-
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2015)</small>
 
 Toda autoridad y servidor público estará obligado a coadyuvar con el órgano garante y sus integrantes para el buen desempeño de sus funciones.
 
@@ -1371,9 +1371,9 @@ XLVII. Solicitar a la Comisión Nacional de los Derechos Humanos la investigaci�
 
 XLVIII. Expedir leyes encaminadas a combatir el alcoholismo;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
 
-XLIX.- Nombrar a los integrantes de la Junta de Gobierno del órgano garante previsto en el artículo 21 de ésta Constitución, en los términos establecidos en la ley de la materia.
+XLIX.- Nombrar a los comisionados del órgano garante previsto en el artículo 21 de ésta Constitución, en los términos establecidos en la ley de la materia.
 
 > <small>(ADICIONADA, P.O. 30 DE JULIO DE 2013)</small>
 
@@ -1423,9 +1423,9 @@ XI.- Designar mediante el procedimiento que la Ley determine, al Presidente y a 
 
 XII.- Designar mediante el procedimiento previsto en esta Constitución y en las leyes respectivas, a los Consejeros Electorales, propietarios y suplentes, del Consejo General del Instituto Electoral de Quintana Roo, al igual que al Contralor Interno del mismo, así como a los Magistrados Numerarios, propietarios y suplentes, y al Contralor Interno del Tribunal Electoral de Quintana Roo y tomarles la protesta de Ley;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
 
-XIII.- Nombrar a los integrantes de la Junta de Gobierno de (sic) órgano garante previsto en el Artículo 21 de ésta Constitución, en los términos establecidos en la ley de la materia.
+XIII.- Nombrar a los comisionados del órgano garante previsto en el artículo 21 de ésta Constitución, en los términos establecidos en la ley de la materia.
 
 XIV.- Las demás que le confiera expresamente esta Constitución.
 
@@ -2367,7 +2367,7 @@ X Y
 
 36 315,075.14 2,062, 249.69
 
-37 315,043.39 2,060, 361.03
+37 315,043.39 2,060,361.03
 
 38 322,640.11 2,060, 352.93
 
@@ -3485,9 +3485,9 @@ Para los efectos de las responsabilidades a que alude este Título, se reputará
 
 La Legislatura del Estado expedirá una Ley de Responsabilidades de los Servidores Públicos, así como las demás disposiciones que sancionen conductas que entrañen responsabilidad de los servidores públicos conforme a las siguientes prevenciones:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2015)</small>
 
-I.- Se impondrá mediante juicio político: a la o el Gobernador del Estado, a las y os (sic) Diputados de la Legislatura, las y los Magistrados del Tribunal Superior de Justicia, las y los Magistrados del Tribunal Electoral de Quintana Roo, las y los Consejeros de la Judicatura del Poder ludicial (sic), las y los Magistrados de los Tribunales Unitarios, a la o al Titular del Órgano de Fiscal zación (sic) Superior, a las o los Consejeros Ciudadanos de la Junta de Gobierno del Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, a las o los Consejeros Electorales del Consejo General, así como a la o el Secretario General del Instituto Electoral de Quintana Roo, as (sic) y los Secretarios y Subsecretarios del Despacho, a la o el Procurador General de Justicia del Estado, las y los Directores Generales o sus equivalentes de los organismos descentralizados de (sic) Estado o de los Municipios, empresas de participación estatal o municipal, fideicomisos del Estado o de los Municipios y miembros de los Ayuntamientos; sanciones consistentes en destitución de (sic) cargo e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público, cuando incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
+I.- Se impondrá mediante juicio político: a la o el Gobernador del Estado, a las y los Diputados de la Legislatura, las y los Magistrados del Tribunal Superior de Justicia, las y los Magistrados del Tribunal Electoral de Quintana Roo, las y los Consejeros de la Judicatura del Poder judicial, las y los Magistrados de los Tribunales Unitarios, a la o al Titular del Órgano de Fiscalización Superior, a las o los comisionados del Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, a las o los Consejeros Electorales del Consejo General, así como a la o el Secretario General del Instituto Electoral de Quintana Roo, las y los Secretarios y Subsecretarios del Despacho, a la o el Procurador General de Justicia del Estado, las y los Directores Generales o sus equivalentes de los organismos descentralizados del Estado o de los Municipios, empresas de participación estatal o municipal, fideicomisos del Estado o de los Municipios y miembros de los Ayuntamientos; sanciones consistentes en destitución del cargo e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público, cuando incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -4620,3 +4620,21 @@ CUARTO. Los recursos presupuestales, financieros y materiales, así como los tra
 QUINTO. Los asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de este Decreto se sustanciarán ante el organismo garante que establece el Artículo 21 de esta Constitución, conforme a la legislación aplicable en el momento en que se iniciaron, en todo lo que no se oponga al presente decreto.
 
 SEXTO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 27 DE JULIO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. La Legislatura del Estado, deberá armonizar la legislación en materia de transparencia y acceso a la información pública dentro del plazo establecido por el artículo quinto transitorio de la Ley General de Transparencia y Acceso a la Información Pública, publicada en el Diario Oficial de la Federación en fecha 4 de mayo de 2015.
+
+TERCERO. Los Consejeros Ciudadanos que conforman la Junta de Gobierno del Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, continuarán con el carácter de Comisionados de este órgano garante. La duración y titularidad de sus cargos se sujetará a los siguientes períodos, los cuales se contarán a partir de la entrada en vigor del presente decreto:
+
+a) El Consejero Presidente nombrado mediante declaratoria 017 de la H. XII Legislatura publicada en el Periódico Oficial del Estado en fecha 30 de julio de 2010: Siete años como comisionado Presidente.
+
+b) La Consejera nombrada mediante declaratoria 009 de la H. XII Legislatura publicada en el Periódico Oficial del Estado en fecha 29 de julio de 2009: Seis años como comisionada.
+
+c) La Consejera nombrada mediante declaratoria 001 de la H. XIII Legislatura publicada en Periódico Oficial del Estado en fecha 26 de julio de 2011: Cinco años como comisionada.
+
+Para efectos de este artículo, si se presentara la ausencia o falta definitiva de algún comisionado, la Legislatura del Estado o la Diputación Permanente, en su caso, nombrará un comisionado que concluya el período de que se trate.
+
+CUARTO. Hasta en tanto la Legislatura del Estado lleve a cabo la armonización a que se refiere el artículo segundo transitorio de este Decreto, se continuará aplicando la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo.
