@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-asistencia-social-y-de-17254"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-10"
-last_updated: "2010-11-15"
+last_updated: "2015-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACION FAMILIAR, DEL ESTADO DE AGUASCALIENTES
 
-LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACION FAMILIAR
+LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de abril de 2000.
 
@@ -283,7 +283,9 @@ III.- Patronato del Sistema: el Patronato del Sistema para el Desarrollo Integra
 
 IV.- Director: el Director General del Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes; y
 
-V.- Procuraduría: a la Procuraduría de la Defensa del Menor y la Familia.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+
+V.- Procuraduría: Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes.
 
 ###### ARTICULO 18.
 
@@ -337,7 +339,9 @@ XIX.- Participar en programas de rehabilitación y educación especial;
 
 XX.- Proponer a las autoridades correspondientes la adaptación y readaptación del espacio urbano que fuere necesario para satisfacer los requerimientos de autonomía de las personas con discapacidad;
 
-XXI.- Los servicios de representación jurídica que para los efectos de esta Ley se requieran, serán prestados por la Procuraduría de la Defensa del Menor y la Familia; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+
+XXI.- Los servicios de representación jurídica que para los efectos de esta Ley se requieran, serán prestados por la Procuraduría; y
 
 XXII.- Las demás que establezcan las disposiciones aplicables en la materia.
 
@@ -371,7 +375,7 @@ VI.- Las concesiones, permisos, licencias y autorizaciones que se le otorguen co
 
 VII.- En general, los demás bienes, derechos e ingresos que obtengan por cualquier título.
 
-El Organismo estará exento de todos los impuestos, derechos y obligaciones fiscales locales; y (sic)
+El Organismo estará exento de todos los impuestos, derechos y obligaciones fiscales locales; y
 
 ###### ARTICULO 22.
 
@@ -393,7 +397,9 @@ I.- Instituto de Salud del Estado;
 
 II.- Instituto de Educación del Estado;
 
-III.- Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+
+III.- Fiscalía General del Estado;
 
 IV.- Secretaría de Finanzas del Estado;
 
@@ -559,11 +565,15 @@ El Organismo emitirá opinión sobre el otorgamiento de subsidio a instituciones
 
 Las relaciones de trabajo entre el organismo y sus trabajadores se sujetarán a lo dispuesto por el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado, sus Municipios y Organismos Descentralizados.
 
-### CAPITULO III. De la Procuraduría de la Defensa del Menor y la Familia
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JULIO DE 2015)</small>
+
+### CAPITULO III. De la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 38.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes, contará con una Procuraduría de la Defensa del Menor y la Familia que tendrá por objeto la prestación de servicios jurídicos y de orientación social, a favor de las personas a que se refiere el artículo 4$ (sic) de este ordenamiento.
+El Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes, contará con una Procuraduría que tendrá por objeto la prestación de servicios jurídicos y de orientación social, a favor de las personas a que se refiere el Artículo 4° de este ordenamiento.
 
 ###### ARTICULO 39.
 
@@ -1101,7 +1111,7 @@ VI.- Remitir al Organismo los documentos y rendirle oportunamente los informes q
 
 VII.- Practicar las operaciones que determinen los estatutos de las instituciones a su cargo y las que autoriza la Ley;
 
-VIII.- Ejercitar las acciones y defensas que correspondan a dichas instituciones, y hacer que se cumpla el objeto para que fueron constituidas (sic), acatando estrictamente sus estatutos;
+VIII.- Ejercitar las acciones y defensas que correspondan a dichas instituciones, y hacer que se cumpla el objeto para que fueron constituidas, acatando estrictamente sus estatutos;
 
 IX.- Obedecer las instrucciones del Organismo, cuando éstos tiendan a corregir un error o una práctica viciosa;
 
@@ -1504,3 +1514,13 @@ La integración e instalación del Consejo deberá llevarse a cabo por la Comisi
 ###### ARTÍCULO QUINTO.
 
 Las Unidades de Enlace contarán con noventa días naturales siguientes a la entrada en vigencia del presente Decreto, para enviar a la Secretaría Técnica la información correspondiente a las Organizaciones que se encuentran registradas en las dependencias y entidades, así como las de nueva constitución que se registren ante ellas.
+
+P.O. 27 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
