@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidad-patrimonial-del-estado-de-74857"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-10"
-last_updated: "2013-02-11"
+last_updated: "2015-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 10 de mayo de 2010.
 
@@ -38,6 +38,8 @@ Decreto Número 394
 ###### ARTÍCULO PRIMERO
 
 Se aprueba la Ley de Responsabilidad Patrimonial del Estado de Aguascalientes, para quedar como sigue:
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 216, PUBLICADO EN EL P.O. DE 27 DE JULIO DE 2015, EN TANTO NO INICIE SU VIGENCIA LA AUTONOMÍA DE LA FISCALÍA GENERAL DE LA REPÚBLICA, LAS REFERENCIAS A DICHA FISCALÍA CONTENIDAS EN EL PRESENTE DECRETO, SE ENTENDERÁN HECHAS A LA PROCURADURÍA GENERAL DE LA REPÚBLICA.</small>
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE AGUASCALIENTES
 
@@ -61,7 +63,9 @@ I. Actividad administrativa irregular: aquella que cause daño a los bienes y de
 
 II. Actividad administrativa del Estado: la que desarrollan los entes públicos;
 
-III. Entes públicos: salvo mención expresa en contrario, los poderes judicial, legislativo y ejecutivo, las entidades paraestatales y dependencias de la administración pública estatal, los gobiernos municipales, las entidades y dependencias de la administración pública municipal, la Procuraduría General de Justicia, los organismos constitucionalmente autónomos y cualquier otro ente público de carácter local;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+
+III. Entes públicos: salvo mención expresa en contrario, los poderes judicial, legislativo y ejecutivo, las entidades paraestatales y dependencias de la administración pública estatal, los gobiernos municipales, las entidades y dependencias de la administración pública municipal, los organismos constitucionalmente autónomos y cualquier otro ente público de carácter local;
 
 IV. Salario: Al salario mínimo general vigente en el Estado de Aguascalientes.
 
@@ -362,3 +366,13 @@ P.O. 11 DE FEBRERO DE 2013.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
