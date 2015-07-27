@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-video-vigilancia-del-estado-de-aguascalientes-68994"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-22"
-last_updated: "2009-06-22"
+last_updated: "2015-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE VIDEO VIGILANCIA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de junio de 2009.
 
@@ -73,7 +73,9 @@ VI. Ley: Ley de Video Vigilancia del Estado de Aguascalientes;
 
 VII Presidente: Presidente del Comité de Video Vigilancia del Estado de Aguascalientes;
 
-VIII. Procurador: Procurador General de Justicia del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+
+VIII. Fiscal: Fiscal General del Estado;
 
 IX. Reglamento: Reglamento de la Ley de Vídeo Vigilancia del Estado de Aguascalientes;
 
@@ -123,7 +125,9 @@ I. Un representante del Secretario de Seguridad Pública del Estado, que será s
 
 II. Un representante del Poder Legislativo, que no podrá ser Diputado, nombrado por la Comisión de Seguridad Pública, con derecho a voz y voto;
 
-III. Un representante del Procurador General de Justicia del Estado que tendrá derecho a voz y voto;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+
+III. Un representante del Fiscal que tendrá derecho a voz y voto;
 
 IV. Un representante de la Comisión Estatal de los Derechos Humanos que tendrá derecho a voz y voto; y
 
@@ -167,7 +171,9 @@ Los miembros del Comité no recibirán remuneración alguna; durarán en su carg
 
 Las resoluciones que emita deberán ser aprobadas por la mayoría de los presentes en la sesión.
 
-El Secretario de Seguridad Pública y el Procurador General de Justicia podrán asistir a las sesiones del Comité cuando lo estimen necesario, a quienes podrá otorgarse el uso de la voz.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
+
+El Secretario de Seguridad Pública y el Fiscal podrán asistir a las sesiones del Comité cuando lo estimen necesario, a quienes podrá otorgarse el uso de la voz.
 
 ###### ARTÍCULO 10.
 
@@ -295,11 +301,15 @@ En el manejo de toda grabación, invariablemente se observará una secuencia de 
 
 Quien tenga bajo su custodia grabaciones, será responsable de su guarda, inviolabilidad e inalterabilidad, hasta en tanto no haga entrega de la misma a otro y lo asiente en el documento de resguardo en términos de lo establecido en el párrafo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 26.
 
-Al realizarse cualquier grabación cumpliendo los requisitos establecidos en, esta Ley, y si en ella existen elementos útiles para la investigación de un hecho punible, será certificada por el Comité y se pondrá a disposición del Ministerio Público o la autoridad jurisdiccional correspondiente; cuando sean hechos punibles que no se persigan de oficio, se enviará a la Procuraduría General de Justicia del Estado, o bien, a la Delegación de la Procuraduría General de la República, según corresponda.
+Al realizarse cualquier grabación cumpliendo los requisitos establecidos en, esta Ley, y si en ella existen elementos útiles para la investigación de un hecho punible, será certificada por el Comité y se pondrá a disposición del Ministerio Público o la autoridad jurisdiccional correspondiente; cuando sean hechos punibles que no se persigan de oficio, se enviará a la Fiscalía General del Estado, o bien, a la Delegación de la Fiscalía General de la República, según corresponda.
 
-La certificación del Comité versará sobre la forma, términos y fecha en que fue obtenida la grabación, así como del manejo y administración que se ha dado a la misma. La validación de los contenidos o respecto de la alteración o no de las grabaciones, en su caso corresponderá a la Dirección de Servicios Periciales de la Procuraduría General de Justicia del Estado.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
+
+La certificación del Comité versará sobre la forma, términos y fecha en que fue obtenida la grabación, así como del manejo y administración que se ha dado a la misma. La validación de los contenidos o respecto de la alteración o no de las grabaciones, en su caso corresponderá a los Servicios Periciales de la Fiscalía General del Estado.
 
 Tratándose de captación o manejo de las imágenes, el personal autorizado, en caso de advertir la posible comisión de un hecho punible, deberá dar aviso inmediato a su superior jerárquico, así como al Ministerio Público.
 
@@ -468,3 +478,15 @@ Luis Armando Reynoso Femat.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 Lic. Juan Ángel José Pérez Talamantes.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
