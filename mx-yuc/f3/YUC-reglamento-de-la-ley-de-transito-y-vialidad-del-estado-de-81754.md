@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-transito-y-vialidad-del-estado-de-81754
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-21"
-last_updated: "2014-11-29"
+last_updated: "2015-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE JULIO DE 2015.
 
 Reglamento publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 21 de junio de 2011.
 
@@ -3077,17 +3077,25 @@ I. Vehículos con el motor en marcha, y
 
 II. Vehículos del servicio público de transporte con pasajeros a bordo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 27 DE JULIO DE 2015)</small>
+
 Distancias respecto de los demás vehículos
 
 ###### Artículo 218.
 
-Los ·conductores de vehículos en tránsito deberán conservar una distancia prudente, respecto del vehículo que lo precede, en la forma que a continuación se indica:
+Los conductores deberán transitar ajustándose a las siguientes disposiciones:
 
-I. Transitar a una distancia de seguridad que garantice la detención oportuna, en caso del frenado intempestivo del vehículo que lo precede, tomando en cuenta la velocidad, las condiciones de la Vía Pública, las condiciones climatológicas y las del propio Vehículo;
+I. Conservar una distancia de seguridad que garantice:
 
-II. Deberán dejar suficiente espacio entre su vehículo y el que lo precede, en previsión a que un tercer Vehículo intente adelantarlo y hacer la señal correspondiente, para que éste pueda ocupar ese espacio sin peligro, excepto cuando a su vez él trate de adelantar al que lo precede, y
+a) La detención oportuna en caso de que el vehículo que lo precede frene intempestivamente.
 
-III. Cuando circulen en caravana, deberán transitar de manera que haya espacio suficiente entre ellos, para que otro Vehículo pueda ocuparlo sin peligro. Esta disposición no se aplicará a columnas militares ni a cortejos funerales.
+b) El adelantamiento de un tercer vehículo entre sus vehículos y los que los precedan. Esta fracción no aplicará en columnas militares ni cortejos fúnebres.
+
+II. Preservar una distancia de seguridad al adelantar vehículos menores o menores motorizados, principalmente bicicletas o motocicletas, que será de, por lo menos, metro y medio.
+
+Los conductores deberán adecuar su distancia de seguridad, considerando el tamaño de los vehículos involucrados, su velocidad, el tráfico, las condiciones climatológicas, la visibilidad, así como el estado y ancho de la vía pública.
 
 Tránsito guiado por semáforos
 
@@ -4863,11 +4871,15 @@ A partir de la notificación en el domicilio señalado para tal efecto, de la re
 
 ### CAPÍTULO II. De la circulación del servicio público de transporte de pasajeros
 
-Circulación de los vehículos de servicio público de transporte de pasajeros
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 27 DE JULIO DE 2015)</small>
+
+Circulación de los vehículos de servicio público de transporte de pasajeros.
 
 ###### Artículo 339.
 
-Los conductores de vehículos autorizados para prestar el servicio público o privado de transporte de pasajeros, deberán circular en los horarios y rutas que determinen las autoridades competentes, por el carril derecho o por los carriles exclusivos de las vías destinados a ellos, salvo el caso de adelantamiento de vehículos por accidente o descompostura.
+Los conductores de vehículos autorizados para prestar el servicio público o privado de transporte de pasajeros deberán circular, en los horarios y las rutas que determinen las autoridades competentes, por el carril derecho o los carriles destinados para ellos, salvo el caso de adelantamiento, respetando las distancias de seguridad establecidas en el artículo 218 de este reglamento.
 
 Ascenso y descenso de pasajeros
 
@@ -7021,7 +7033,7 @@ SECRETARIO DE SEGURIDAD PÚBLICA
 
 > <small>N. DE E. VÉASE ANEXO EN EL D.O. DE 21 DE JUNIO DE 2011, PÁGINAS DE LA 246 A LA 286. F. DE E. AL ANEXO, D.O. 24 DE JUNIO DE 2011.</small>
 
-> <small>N. DE E. VÉASE REFORMAS AL ANEXO, D.O. 30 DE DICIEMBRE DE 2011, PÁGINAS DE LA 35 A LA 75.</small>
+> <small>N. DE E. VÉASE REFORMAS AL ANEXO, D.O. 30 DE DICIEMBRE DE 2011, PÁGINAS DE LA 35 A LA 75; D.O. 27 DE JULIO DE 2015, PÁGINAS DE LA 4 A LA 5.</small>
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
@@ -7040,3 +7052,13 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
+
+D.O. 27 DE JULIO DE 2015.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor a los treinta días de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
