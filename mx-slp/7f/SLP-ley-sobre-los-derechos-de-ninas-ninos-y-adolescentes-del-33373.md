@@ -4,7 +4,7 @@ identifier: "SLP-ley-sobre-los-derechos-de-ninas-ninos-y-adolescentes-del-33373"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-14"
-last_updated: "2013-06-11"
+last_updated: "2015-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY SOBRE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 27 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de agosto de 2003.
 
@@ -802,3 +804,27 @@ P.O. 11 DE JUNIO DE 2013.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 27 DE JULIO DE 2015.
+
+PRIMERO. Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado y, en consecuencia, se abroga la Ley Sobre los Derechos de Niñas, Niños y Adolescentes del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el 14 de agosto de 2003.
+
+SEGUNDO. El titular del Poder Ejecutivo deberá expedir el Decreto Administrativo de creación del organismo público descentralizado Sistema Estatal de Protección Integral, dentro de los treinta días naturales siguientes a la entrada en vigor de este Ordenamiento, conforme a lo establecido por esta Ley y la Ley Orgánica de la Administración Pública del Estado de San Luis Potosí.
+
+TERCERO. La Procuraduría de Protección de Niñas, Niños, Adolescentes, la Mujer, la Familia y el Adulto Mayor del Estado de San Luis Potosí, deberá constituirse a más tardar dentro de los treinta días siguientes a la entrada en vigor de este Decreto. Para el presente ejercicio presupuestal funcionará con los recursos humanos, materiales y financieros que tiene asignados la actual Procuraduría de la Defensa del Menor, la Mujer, la Familia y el Adulto Mayor y aquéllos, que en su caso, le asigne el Sistema para el Desarrollo Integral de la Familia del Estado de San Luis Potosí.
+
+A partir del siguiente ejercicio presupuestal, de acuerdo a la disponibilidad con que cuente el Estado en su Ley de Ingresos, le serán asignados los recursos financieros necesarios para el cumplimiento de los objetivos establecidos en la presente ley.
+
+CUARTO. El Sistema Estatal de Protección Integral, deberá sesionar dentro de los sesenta días naturales siguientes a la entrada en vigor de este Ordenamiento, y el presidente del organismo deberá designar al titular de la Secretaría Ejecutiva.
+
+QUINTO. El Sistema Estatal de Protección Integral deberá expedir su Reglamento dentro de los sesenta días naturales siguientes a la entrada en vigencia de esta Ley.
+
+SEXTO. Los ayuntamientos deberán expedir la regulación municipal para la operación del Sistema Municipal de Protección Integral y del programa de atención de primer contacto con las niñas, niños y adolescentes, en los términos de esta Ley, dentro de los sesenta días naturales siguientes a la entrada en vigencia de esta Ley.
+
+SÉPTIMO. Los municipios deberán integrar su Sistema Municipal de Protección Integral dentro de los sesenta días naturales siguientes a la entrada en vigor de este Ordenamiento.
+
+OCTAVO. Los municipios deberán expedir el programa de atención de primer contacto con las niñas, niños y adolescentes, y designar y capacitar a los servidores públicos de dicho programa, en los términos de esta Ley y la regulación municipal que al efecto expida el ayuntamiento, dentro de los noventa días naturales siguientes a la entrada en vigencia de esta Ley.
+
+NOVENO. El Congreso del Estado dentro de los treinta días naturales siguientes a la entrada en vigor de este Ordenamiento, deberá realizar las modificaciones relativas a la edad para contraer matrimonio al Código Familiar del Estado.
+
+DÉCIMO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
