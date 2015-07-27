@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-ordenamiento-territorial-desarrollo-urbano-y-96157"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-10-07"
-last_updated: "2015-07-06"
+last_updated: "2015-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE ORDENAMIENTO TERRITORIAL, DESARROLLO URBANO Y VIVIENDA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
 
 Código publicado en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de octubre de 2013.
 
@@ -38,6 +38,10 @@ Decreto Número 394
 ###### ARTÍCULO ÚNICO.
 
 Se aprueba el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes.
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 216, EN TANTO NO INICIE SU VIGENCIA LA AUTONOMÍA DE LA FISCALÍA GENERAL DE LA REPÚBLICA, LAS REFERENCIAS A DICHA FISCALÍA CONTENIDAS EN EL PRESENTE DECRETO, SE ENTENDERÁN ECHAS A LA PROCURADURÍA GENERAL DE LA REPUBLICA.</small>
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 216, PUBLICADO EN EL P.O. DE 27 DE JULIO DE 2015, EN TANTO NO INICIE SU VIGENCIA LA AUTONOMÍA DE LA FISCALÍA GENERAL DE LA REPÚBLICA, LAS REFERENCIAS A DICHA FISCALÍA CONTENIDAS EN EL PRESENTE DECRETO, SE ENTENDERÁN HECHAS A LA PROCURADURÍA GENERAL DE LA REPÚBLICA.</small>
 
 CÓDIGO DE ORDENAMIENTO TERRITORIAL, DESARROLLO URBANO Y VIVIENDA PARA EL ESTADO DE AGUASCALIENTES
 
@@ -1869,9 +1873,11 @@ El Consejo Consultivo de Protección y Fomento del Patrimonio Cultural del Estad
 
 El Consejo Estatal de Protección Civil es un órgano público de planeación, consulta, apoyo y opinión, facultado para establecer y aplicar las políticas para la protección civil en el Estado de forma multidisciplinaria e institucional para coordinar y ejecutar acciones públicas y de concertación con los sectores social y privado, que cuenta con las atribuciones, integración y funcionamiento que establece la Ley de Protección Civil de Aguascalientes y que deberá ajustarse en sus actividades a lo dispuesto en este Código y en los programas que regula el mismo.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 78.
 
-La Procuraduría General de Justicia del Estado, la Secretaría de Gobierno, la Secretaría de Seguridad Pública, la Secretaría de Finanzas del Estado, la SMAE, la Coordinación Estatal de Planeación y Proyectos, la Procuraduría Estatal de Impacto Ambiental, Urbano y Social, la Coordinación Estatal de Protección Civil, el Registro Público de la Propiedad y del Comercio y el Instituto Catastral del Estado, así como las demás dependencias y entidades de la Administración Pública del Estado, de acuerdo a sus competencias y a las disposiciones jurídicas que los rigen, coadyuvarán con las autoridades en la aplicación de este Código y de los programas que se establecen en el mismo.
+La Fiscalía General del Estado, la Secretaría de Gobierno, la Secretaría de Seguridad Pública, la Secretaría de Finanzas del Estado, la SMAE, la Coordinación Estatal de Planeación y Proyectos, la Procuraduría Estatal de Impacto Ambiental, Urbano y Social, la Coordinación Estatal de Protección Civil, el Registro Público de la Propiedad y del Comercio y el Instituto Catastral del Estado, así como las dependencias y entidades de la Administración Pública del Estado, de acuerdo a sus competencias y a las disposiciones jurídicas que los rigen, coadyuvarán con las autoridades en la aplicación de este Código y de los programas que se establecen en el mismo.
 
 ## TÍTULO TERCERO. DEL ORDENAMIENTO TERRITORIAL DE LOS ASENTAMIENTOS HUMANOS Y DEL DESARROLLO URBANO DE LOS CENTROS DE POBLACIÓN
 
@@ -1955,7 +1961,7 @@ X.- Instrumentos de política: contendrán el conjunto de medidas, mecanismos y 
 
 XI.- Proyectos estratégicos: contendrán los proyectos que deberán ejecutarse de manera prioritaria;
 
-XII.- La estructura de organización y coordinación: para la elaboración, ejecución, control, evaluación, actualización y modificación del programa; y (sic)
+XII.- La estructura de organización y coordinación: para la elaboración, ejecución, control, evaluación, actualización y modificación del programa; y
 
 XIII.- Anexo gráfico y cartográfico: que expresará en una forma descriptiva y clara el contenido básico del programa y su base cartográfica.
 
@@ -3407,7 +3413,7 @@ IX.- Sanitarios.- Reserva: 1 ducha, 1 cabina de servicios, puertas: 1,00 m. de a
 
 X.- Mostradores.- Altura inferior a 0,90 m.;
 
-XI.- Teléfonos públicos.- Reserva: 1 de cada 20 teléfonos públicos que se instalen deberán contar con un aparato a una altura no mayor a 1,20 m. sobre nivel del piso terminado, para facilitar su uso a personas con discapacidad permanente o temporal, personas afectadas de enanismo como a niños; asimismo, la impresión de la numeración para marcar deberá ser en relieve a fin de facilitar su uso a invidentes y débiles visuales; y (sic)
+XI.- Teléfonos públicos.- Reserva: 1 de cada 20 teléfonos públicos que se instalen deberán contar con un aparato a una altura no mayor a 1,20 m. sobre nivel del piso terminado, para facilitar su uso a personas con discapacidad permanente o temporal, personas afectadas de enanismo como a niños; asimismo, la impresión de la numeración para marcar deberá ser en relieve a fin de facilitar su uso a invidentes y débiles visuales; y
 
 XII.- Los tensores que en las vías públicas se instalen, como apoyo de los postes de los servicios públicos, deberán contar con un protector metálico, el cual deberá ser recubierto con pintura de color vivo a fin de que los transeúntes, principalmente los débiles visuales, los identifiquen con facilidad para evitar tropezarse.
 
@@ -4339,7 +4345,7 @@ VII.- Fijación de propaganda en forma de volantes en árboles, casetas, monumen
 
 VIII.- Ningún anuncio tendrá semejanza con los signos o indicaciones que regulen el tránsito, ni en forma ni en palabras, ni tendrá superficies reflectoras parecidas a las que usa en sus señalamientos las autoridades de seguridad pública y vialidad;
 
-IX.- Colocación de anuncios colgantes, volados o en sobresalientes, o sea aquellas cuyas carátulas se proyecten fuera del parámetro de una fachada, fijándose a ella por medio de ménsulas o voladizos que invadan espacios y vías públicas; y (sic)
+IX.- Colocación de anuncios colgantes, volados o en sobresalientes, o sea aquellas cuyas carátulas se proyecten fuera del parámetro de una fachada, fijándose a ella por medio de ménsulas o voladizos que invadan espacios y vías públicas; y
 
 X.- Emisión o colocación de anuncios, cualquiera que sea su clase o material, en los siguientes lugares:
 
@@ -9199,7 +9205,7 @@ II.- VIVIENDA MEDIA: Es aquella cuyo valor, al término de su edificación, no e
 
 III.- VIVIENDA RESIDENCIAL: Es aquella cuyo valor, al término de su edificación, no exceda de la suma que resulte de multiplicar de 750,1 a 1,500 veces el salario mínimo mensual vigente en el área geográfica A y la superficie mínima construida sea de 145 m2; y
 
-IV.- VIVIENDA RESIDENCIAL PLUS: Es aquella cuyo valor, al término de su edificación, la suma que resulte de multiplicar sea mayor a 1,500 veces el salario mínimo mensual vigente en el área geográfica A y la superficie mínima construida sea de 225 m2, (sic)
+IV.- VIVIENDA RESIDENCIAL PLUS: Es aquella cuyo valor, al término de su edificación, la suma que resulte de multiplicar sea mayor a 1,500 veces el salario mínimo mensual vigente en el área geográfica A y la superficie mínima construida sea de 225 m2,
 
 ###### ARTÍCULO 772.
 
@@ -11555,7 +11561,7 @@ I.- Ceder a terceros, gravar, transferir o enajenar la concesión;
 
 II.- Transmitir los derechos y obligaciones que se derivan de la concesión; y
 
-III.- Afectar, transmitir o comprometer los bienes muebles y servicios, con los que se realiza la prestación de los servicios públicos o explotación de los bienes públicos concesionados;(sic)
+III.- Afectar, transmitir o comprometer los bienes muebles y servicios, con los que se realiza la prestación de los servicios públicos o explotación de los bienes públicos concesionados;
 
 ### CAPÍTULO III. De los Servicios y Explotación de Bienes que podrán ser Objeto de Concesión
 
@@ -13042,3 +13048,13 @@ El Consejo de Movilidad en Bicicletas deberá instalarse dentro de los siguiente
 ###### ARTÍCULO TERCERO.
 
 El Consejo de Movilidad en Bicicletas deberá emitir su Reglamento de Sesiones dentro de los siguientes sesenta días naturales contados a partir de la fecha en que se instale.
+
+P.O. 27 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
