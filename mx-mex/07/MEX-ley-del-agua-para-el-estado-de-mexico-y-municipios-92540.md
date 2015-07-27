@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-agua-para-el-estado-de-mexico-y-municipios-92540"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-22"
-last_updated: "2013-12-19"
+last_updated: "2015-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JULIO DE 2015.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 22 de febrero de 2013.
 
@@ -40,6 +40,8 @@ DECRETA:
 ###### ARTÍCULO ÚNICO.
 
 Se expide la Ley del Agua para el Estado de México y Municipios, para quedar como sigue:
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO NOVENO DEL DECRETO NÚMERO 481, PUBLICADO EN LA G.G. DE 27 DE JULIO DE 2015, CUANDO EN OTROS ORDENAMIENTOS LEGALES ADMINISTRATIVOS, DOCUMENTACIÓN Y PAPELERÍA SE HAGA REFERENCIA A LAS SECRETARÍAS DEL AGUA Y OBRA PÚBLICA Y DE COMUNICACIONES, SE ENTENDERÁ QUE SE REFIEREN A LA "SECRETARÍA DE INFRAESTRUCTURA".</small>
 
 LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS
 
@@ -83,7 +85,9 @@ La aplicación de esta Ley corresponde, en el ámbito competencial respectivo, a
 
 I. El Gobernador del Estado;
 
-II. El Secretario del Agua y Obra Pública;
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+
+II. El Secretario de Infraestructura;
 
 III. El Vocal Ejecutivo de la Comisión;
 
@@ -267,7 +271,9 @@ LX. Reuso: La utilización de aguas tratadas;
 
 LXI. Saneamiento: La conducción, alejamiento, descarga y, en su caso, tratamiento de las aguas residuales y la disposición final de sus productos resultantes;
 
-LXII. Secretaría: La Secretaría del Agua y Obra Pública;
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+
+LXII. Secretaría: La Secretaría de Infraestructura;
 
 LXIII. Seguridad hidráulica: La preservación, conservación y mantenimiento de las obras hidráulicas estatales y municipales, incluyendo sus zonas de protección, para su debido resguardo y adecuado funcionamiento, así como los criterios para construir y operar obras hidráulicas para el control de avenidas y protección contra inundaciones;
 
@@ -463,7 +469,9 @@ La autoridades encargadas de la ejecución del Sistema Estatal del Agua serán l
 
 I. El Gobernador del Estado;
 
-II. La Secretaría del Agua y Obra Pública;
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+
+II. La Secretaría de Infraestructura;
 
 III. La Comisión del Agua del Estado de México;
 
@@ -505,7 +513,9 @@ VI. Decretar la intervención de servicios de jurisdicción estatal concesionado
 
 VII. Las demás que le otorguen esta Ley y otras disposiciones legales y reglamentarias aplicables.
 
-#### SECCIÓN SEGUNDA. DE LA SECRETARÍA DEL AGUA Y OBRA PÚBLICA
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 27 DE JULIO DE 2015)</small>
+
+#### SECCIÓN SEGUNDA. DE LA SECRETARÍA DE INFRAESTRUCTURA
 
 ###### Artículo 16.
 
@@ -657,7 +667,9 @@ La dirección de la Comisión estará a cargo de un Consejo Directivo y un Vocal
 
 El Consejo Directivo será la máxima autoridad de la Comisión y estará integrado por:
 
-I. Un presidente, quien será el Secretario del Agua y Obra Pública;
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+
+I. Un presidente, quien será el Secretario de Infraestructura;
 
 II. Un secretario técnico, que será el Vocal Ejecutivo;
 
@@ -699,7 +711,7 @@ V. Resolver los asuntos que plantee el Vocal Ejecutivo;
 
 VI. Solicitar la asesoría de las instancias públicas o privadas que considere necesarios;
 
-VII. Aprobar el Reglamento Interior de la Comisión; y (sic)
+VII. Aprobar el Reglamento Interior de la Comisión; y
 
 > <small>(REFORMADA, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
@@ -1723,9 +1735,11 @@ Son objeto de concesión la construcción, operación, conservación y/o manteni
 
 Las concesiones se otorgarán mediante concurso público, en el que se establecerán los mismos requisitos y condiciones para todos los participantes, a personas físicas o jurídicas colectivas, en los términos que se establezcan en la presente Ley, su Reglamento y las bases que al efecto se emitan.
 
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2015)</small>
+
 ###### Artículo 112.
 
-El único facultado para firmar el título de concesión es el Secretario del Agua y Obra Pública, quien podrá encomendar a la Comisión la tramitación del concurso. Tratándose de jurisdicción municipal, el otorgamiento de concesiones es facultad del Municipio, en términos de la legislación aplicable.
+El único facultado para firmar el título de concesión es el Secretario de Infraestructura, quien podrá encomendar a la Comisión la tramitación del concurso. Tratándose de jurisdicción municipal, el otorgamiento de concesiones es facultad del Municipio, en términos de la legislación aplicable.
 
 ###### Artículo 113.
 
@@ -2524,3 +2538,27 @@ TERCERO.- Se derogan todas las disposiciones legales o reglamentarias de igual o
 CUARTO.- El Ejecutivo del Estado expedirá a los ciento ochenta días hábiles siguientes a la publicación del presente Decreto, las adecuaciones a las disposiciones reglamentarias de los ordenamientos que se reforman o adicionan mediante este Decreto.
 
 QUINTO.- El Ejecutivo del Estado implementará antes del 2016, el Sistema Estatal de Monitoreo, Registro y Verificación de reducción de emisiones a que se refiere el presente Decreto, con el fin de evaluar y sistematizar la reducción de emisiones de gases de efecto invernadero, derivadas de las acciones de prevención y combate de la deforestación y degradación de los ecosistemas forestales, dentro del territorio del Estado de México.
+
+G.G. 27 DE JULIO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, el dictamen de reconducción correspondiente de las Secretarías del Agua y Obra Pública y de Comunicaciones; y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre la dependencia señalada en el presente Decreto.
+
+CUARTO. El Ejecutivo deberá expedir el Reglamento Interior de la Secretaría de Infraestructura en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor de este Decreto.
+
+QUINTO. Las atribuciones que se otorgan a la Secretaría de Infraestructura en el presente Decreto, en tanto se expida el Reglamento Interior y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de las Secretarías que se fusionan mediante el presente Decreto.
+
+SEXTO. Los recursos humanos, materiales y financieros de la Secretaría del Agua y Obra Pública y de la Secretaría de Comunicaciones serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Infraestructura.
+
+SÉPTIMO. Los derechos laborales adquiridos por los servidores públicos adscritos a la Secretaría del Agua y Obra Pública y la Secretaría de Comunicaciones, al pasar a formar parte de la Secretaría de Infraestructura, permanecerán en las mismas condiciones.
+
+OCTAVO. Los asuntos y demás procedimientos que se encuentren en trámite en la Secretaría del Agua y Obra Pública y en la Secretaría de Comunicaciones se concluirán conforme a su legislación vigente hasta antes de la entrada en vigor del presente Decreto.
+
+NOVENO. Cuando en otros ordenamientos legales administrativos, documentación y papelería se haga referencia a las Secretarías del Agua y Obra Pública y de Comunicaciones, se entenderá que se refieren a la Secretaría de Infraestructura.
+
+DÉCIMO. Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento del presente Decreto.
+
+DÉCIMO PRIMERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
