@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-fiscalizacion-superior-del-estado-de-aguascalientes-8388
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-21"
-last_updated: "2015-03-23"
+last_updated: "2015-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de noviembre de 2011.
 
@@ -73,7 +73,9 @@ Para efectos de la presente Ley, se entenderá por:
 
 I. Estado: El Estado de Aguascalientes;
 
-II. Poderes del Estado: Los Poderes Legislativo, Judicial y Ejecutivo del Estado, comprendidas en este último, las dependencias y entidades de la Administración Pública Estatal, así como la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+
+II. Poderes del Estado: Los Poderes Legislativo, Judicial y Ejecutivo del Estado, comprendidas en este último, las dependencias y entidades de la Administración Pública Estatal;
 
 III. Entes Públicos Estatales: Los organismos públicos autónomos estatales, organismos públicos descentralizados estatales, empresas de participación estatal, fideicomisos públicos estatales, las demás personas de derecho público de carácter estatal autónomas por disposición legal, así como los órganos que determinen las leyes y ejerzan recursos públicos;
 
@@ -1429,7 +1431,9 @@ III. Tener cuando menos treinta años cumplidos el día de su designación;
 
 IV. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal;
 
-V. No haber tenido cargo de Secretario o su equivalente en el Poder Ejecutivo del Estado, Procurador de Justicia, Contralor del Estado o de municipio, presidente municipal, senador, federal o local, síndico o regidor de algún ayuntamiento o dirigente de partido político durante los tres años previos al de su designación; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+
+V. No haber tenido cargo de Secretario o su equivalente en el Poder Ejecutivo del Estado, Fiscal General del Estado, Contralor de algún Municipio, presidente municipal, senador, diputado federal o local, síndico o regidor de algún ayuntamiento o dirigente de partido político durante los tres años previos al de su designación; y
 
 VI. Contar con tres años de experiencia en las áreas contables, de control, auditoría financiera o de responsabilidades.
 
@@ -1988,3 +1992,13 @@ Los procedimientos de revisión de la Cuenta Pública iniciados antes de la vige
 ###### ARTÍCULO TERCERO.
 
 En un plazo no mayor de ciento ochenta días hábiles contados a partir de la publicación de este Decreto, deberán adecuarse las disposiciones legales y reglamentarias que procedan.
+
+P.O. 27 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
