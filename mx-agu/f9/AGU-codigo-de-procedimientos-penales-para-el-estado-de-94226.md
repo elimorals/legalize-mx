@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-penales-para-el-estado-de-94226"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2014-06-11"
+last_updated: "2015-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS SEGUNDO DE LA DECLARATORIA Y PRIMERO TRANSITORIO DEL DECRETO NO. 63 DEL P.O. DE 11 DE JUNIO DE 2014, POR EL QUE SE APRUEBA LA INCORPORACIÓN DEL SISTEMA PENAL ACUSATORIO EN EL RÉGIMEN JURÍDICO LOCAL Y DE INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE AGUASCALIENTES, ASÍ COMO SEÑALA QUE DICHA DECLARATORIA SURTIRÁ SUS EFECTOS EL SIETE DE SEPTIEMBRE DE DOS MIL CATORCE PARA EL INICIO DE VIGENCIA DEL REFERIDO CÓDIGO, POR LO QUE QUEDARÁN DEROGADOS, DE MANERA PROGRESIVA Y GRADUAL, LOS PRECEPTOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE AGUASCALIENTES, CON LA SALVEDAD DE LOS PROCEDIMIENTOS QUE SE ESTÉN TRAMITANDO CON BASE EN SUS DISPOSICIONES, EN CUYO CASO SE SEGUIRÁN APLICANDO HASTA SU RESOLUCIÓN.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -465,9 +465,11 @@ Cambio de personal. Cuando cambiare el personal de un tribunal o de una Agencia 
 
 Cuando no tenga que dictarse resolución alguna antes de la sentencia, se hará saber a los sujetos procesales interesados, en auto especialmente dictado, el cambio de personal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 56.
 
-Justicia pronta. Los funcionarios de la Procuraduría General de Justicia y los Tribunales dictarán de oficio los trámites y providencias encaminados a que la justicia sea pronta y expedita. Para este fin, los sujetos procesales interesados podrán solicitar la orientación de tales autoridades sobre puntos del procedimiento que ante éstas se desarrollen, como cómputos, plazos y circunstancias para la promoción y desahogo de pruebas, así como otras cuestiones que aseguren, con plena información para los participantes, la debida marcha del procedimiento, sin abordar cuestiones de fondo que las autoridades deban resolver en los autos o en la sentencia. La información que se proporcione constará en acta específica.
+Justicia pronta. Los funcionarios de la Fiscalía General del Estado y los Tribunales dictarán de oficio los trámites y providencias encaminados a que la justicia sea pronta y expedita. Para este fin, los sujetos procesales interesados podrán solicitar la orientación de tales autoridades sobre puntos del procedimiento que ante éstas se desarrollen, como cómputos, plazos y circunstancias para la promoción y desahogo de pruebas, así como otras cuestiones que aseguren, con plena información para los participantes, la debida marcha del procedimiento, sin abordar cuestiones de fondo que las autoridades deban resolver en los autos o en la sentencia. La información que se proporcione constara en acta específica.
 
 Las autoridades que conozcan del procedimiento penal, rechazarán de plano, sin necesidad de sustanciar Artículo, incidentes, recursos o promociones notoriamente frívolas o improcedentes.
 
@@ -917,11 +919,13 @@ Quedan exceptuados de esta obligación las personas señaladas en el Artículo 7
 
 Investigación de residencia. Cuando se ignore la residencia de la persona que deba ser citada, se solicitará al Ministerio Público encargue a la policía que lo averigüe y proporcione el dato. Si esta investigación no tuviere éxito y quien ordene la citación estime conveniente, podrá hacerlo por medio de un periódico de mayor circulación, o por los medios de comunicación social que estime necesarios para el efecto.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 117.
 
-Registro de citaciones. El empleado del tribunal o de la Procuraduría General de Justicia dará cuenta, por medio de informe que se hará constar en autos, del resultado de la entrega de las citas que se le encomendaren, precisamente antes de la hora señalada para la diligencia para la cual fue expedida, y dentro del mismo tiempo, la policía dará dicho informe, por escrito, cuando a ella se le encomiende la citación.
+Registro de citaciones. El empleado del tribunal o de la Fiscalía General del Estado dará cuenta, por medio de informe que se hará constar en autos, del resultado de la entrega de las citas que se le encomendaren, precisamente antes de la hora señalada para la diligencia para la cual fue expedida, y dentro del mismo tiempo, la policía dará dicho informe, por escrito, cuando a ella se le encomiende la citación.
 
-La falta de cumplimiento de esta disposición será sancionada por el tribunal o por la Procuraduría General de Justicia con multa de hasta 10 días de salario mínimo vigente en el Estado.
+La falta de cumplimiento de esta disposición será sancionada por el tribunal o por la Fiscalía General del Estado con multa de hasta 10 días de salario mínimo vigente en el Estado.
 
 ### CAPÍTULO VIII. Audiencias Judiciales
 
@@ -1383,7 +1387,9 @@ Si se opta por este procedimiento a solicitud expresa del inculpado y/o su defen
 
 Inicio y conclusiones. Cerrada la instrucción, el juez mandará poner la causa a la vista del Ministerio Público y de la víctima u ofendido por el plazo que estime prudente, de acuerdo con el número de fojas que integren el expediente, pero que en ningún caso podrá ser menor de 5 días ni mayor de 10, para que formulen conclusiones por escrito.
 
-Transcurrido el plazo que se haya fijado sin que el Ministerio Público haya presentado conclusiones, el juez deberá informar al Procurador General de Justicia acerca de la omisión, para que dicha autoridad formule u ordene la formulación de las conclusiones pertinentes en un término igual al fijado originalmente.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
+
+Transcurrido el plazo que se haya fijado sin que el Ministerio Público haya presentado conclusiones, el juez deberá informar al Fiscal General del Estado acerca de la omisión, para que dicha autoridad formule u ordene la formulación de las conclusiones pertinentes en un término igual al fijado originalmente.
 
 Si transcurren los plazos establecidos en los párrafos anteriores sin que se formulen las conclusiones, el tribunal tendrá por formuladas conclusiones de no acusación y el procesado será puesto en inmediata libertad, sobreseyéndose el procedimiento.
 
@@ -1403,9 +1409,11 @@ IV. Si estima que ha lugar a la acusación, fijará en proposiciones concretas, 
 
 El documento que las contenga, se presentará con las copias suficientes para que los inculpados las contesten.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 175.
 
-Vista al Procurador General. Si las conclusiones del Ministerio Público fueren de no acusación, contrarias a las constancias procesales o no reúnen la totalidad de los requisitos exigidos para el efecto en el Artículo anterior, el juez las mandará al Procurador General de Justicia, para que éste las modifique o las confirme, en un plazo igual al fijado para la elaboración de las conclusiones por el Ministerio Público. En su caso, el Juez señalará la contradicción existente o los requisitos faltantes. Si transcurren los plazos establecidos sin que se resuelva sobre la no acusación inicial, la contradicción existente o se complementen los requisitos faltantes, el tribunal tendrá por formuladas conclusiones de no acusación y el procesado será puesto en inmediata libertad, sobreseyéndose el procedimiento.
+Vista al Fiscal General del Estado. Si las conclusiones del Ministerio Público fueren de no acusación, contrarias a las constancias procesales o no reúnen la totalidad de los requisitos exigidos para el efecto en el Artículo anterior, el juez las mandará al Fiscal General del Estado, para que éste las modifique o las confirme, en un plazo igual al fijado para la elaboración de las conclusiones por el Ministerio Público. En su caso, el Juez señalará la contradicción existente o los requisitos faltantes. Si transcurren los plazos establecidos sin que se resuelva sobre la no acusación inicial, la contradicción existente o se complementen los requisitos faltantes, el tribunal tendrá por formuladas conclusiones de no acusación y el procesado será puesto en inmediata libertad, sobreseyéndose el procedimiento.
 
 ###### ARTÍCULO 176.
 
@@ -1487,7 +1495,9 @@ Tal acuerdo será notificado personalmente:
 
 I. Al sentenciado;
 
-II. A la Procuraduría General de Justicia en el Estado;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+
+II. A la Fiscalía General del Estado;
 
 III. Al Juez de Ejecución de Penas y Medidas de Seguridad; y
 
@@ -2439,11 +2449,17 @@ I. Cuando se demuestre la extinción de la pretensión punitiva;
 
 II. Cuando se demuestre que el procesado ya fue sentenciado por los mismos hechos punibles, independientemente de que hayan sido calificados como delictivos o no delictivos en otro procedimiento;
 
-III. Cuando el Procurador General de Justicia confirme o formule conclusiones no acusatorias;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
 
-IV. Cuando el Procurador General de Justicia confirme el desistimiento de la acción penal formulado por el Agente del Ministerio Público;
+III. Cuando el Fiscal General del Estado confirme o formule conclusiones no acusatorias;
 
-V. Cuando el Ministerio Público o el Procurador General de Justicia no formulen conclusiones dentro del término que se les fije para el efecto, en términos de la presente normatividad;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+
+IV. Cuando el Fiscal General del Estado confirme el desistimiento de la acción penal formulado por el Agente del Ministerio Público;
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+
+V. Cuando el Ministerio Público o el Fiscal General del Estado no formulen conclusiones dentro del término que se les fije para el efecto, en términos de la presente normatividad;
 
 VI. Cuando la víctima y ofendido otorgue el perdón a favor del procesado o se le tenga por otorgado en términos del Código Penal para el Estado de Aguascalientes; o
 
@@ -2780,3 +2796,13 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Remítase copia del presente Decreto a los Poderes Ejecutivo y Judicial del Estado, para su conocimiento y efectos a que haya lugar.
+
+P.O. 27 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
