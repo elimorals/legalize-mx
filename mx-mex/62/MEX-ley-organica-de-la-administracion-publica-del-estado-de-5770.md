@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2015-07-06"
+last_updated: "2015-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JULIO DE 2015.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -187,9 +187,9 @@ VII. Secretaría de Desarrollo Social;
 
 VIII. Secretaría de Desarrollo Urbano y Metropolitano;
 
-> <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
 
-IX. Secretaría del Agua y Obra Pública;
+IX. Secretaría de Infraestructura.
 
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
@@ -211,9 +211,7 @@ XIII. Secretaría de Cultura;
 
 XIV. Secretaría de la Contraloría;
 
-> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
-
-XV. Secretaría de Comunicaciones;
+XV. (DEROGADA, G.G. 27 DE JULIO DE 2015)
 
 > <small>(REFORMADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -1039,11 +1037,11 @@ XXX.- Fomentar la participación ciudadana en la planeación y evaluación de ac
 
 XXXI.- Las demás que le señalen otras disposiciones legales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE JULIO DE 2015)</small>
 
 ###### Artículo 32.
 
-La Secretaría de Comunicaciones es la dependencia encargada del desarrollo y administración de la infraestructura vial primaria y de la regulación de las comunicaciones de jurisdicción local, que comprende los sistemas de transporte masivo o de alta capacidad.
+La Secretaría de Infraestructura es la dependencia encargada del desarrollo y administración de la infraestructura vial primaria y de la regulación de las comunicaciones de jurisdicción local, que comprende los sistemas de transporte masivo o de alta capacidad así como de ejecutar las obras públicas que tenga a su cargo y de promover y ejecutar las acciones tendientes al desarrollo de la infraestructura hidráulica y eléctrica en la Entidad.
 
 > <small>(REFORMADO, G.G. 2 DE AGOSTO DE 2002)</small>
 
@@ -1115,9 +1113,83 @@ XX.- Elaborar estudios, diseñar, proyectar, construir, operar, administrar, exp
 
 XXI.- Determinar el uso restringido de la infraestructura vial;
 
-> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
 
-XXII.- Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
+XXII. Promover la reestructura o revocación de concesiones cuando los estudios costo beneficio, financieros o sociales representen que puede haber un ahorro financiero para el Estado, una mejora sustancial en el otorgamiento del servicio o un riesgo para el otorgamiento del servicio o cumplimiento del objetivo de la concesión. Los estudios referidos, podrán ser realizados por instituciones públicas o privadas en término de las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+
+XXIII. Formular y conducir la política estatal en materia de obras públicas e infraestructura para el desarrollo;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+
+XXIV. Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de obra pública;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+
+XXV. Integrar el Programa General de Obras Públicas del Gobierno del Estado, con la Participación de las dependencias y organismos del Poder Ejecutivo, en congruencia con el Plan Estatal de Desarrollo y la política, objetivos y prioridades que establezca el Gobernador del Estado, y vigilar su ejecución;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+
+XXVI. Dictar las normas generales y ejecutar las obras de reparación, adaptación y demolición de inmuebles propiedad del Gobierno del Estado que le sean asignadas;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+
+XXVII. Construir, mantener o modificar, en su caso, la obra pública que corresponda al desarrollo y equipamiento urbano y que no competa a otras autoridades;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+
+XXVIII. Expedir en coordinación con las dependencias que corresponda, las bases a que deben sujetarse los concursos para la ejecución de las obras a su cargo, así como adjudicarlas, cancelarlas y vigilar el cumplimiento de los contratos que celebre;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+
+XXIX. Establecer lineamientos para la realización de estudios y proyectos de construcción de obras públicas;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+
+XXX. Vigilar que la ejecución de la obra pública adjudicada y los servicios relacionados con ésta, se sujeten a las condiciones contratadas;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+
+XXXI. Proponer al Ejecutivo del Estado la celebración de convenios en materia de obra pública e infraestructura para el desarrollo y participar en su ejecución;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+
+XXXII. Apoyar la creación y consolidación de los organismos públicos descentralizados municipales, encargados de la prestación de los servicios públicos de suministro de agua potable, drenaje y tratamiento de aguas residuales;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+
+XXXIII. Impulsar y promover trabajos de introducción de energía eléctrica en áreas urbanas y rurales;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+
+XXXIV. Promover el financiamiento y la construcción, instalación, conservación, mantenimiento o mejoramiento de la infraestructura hidráulica estatal;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+
+XXXV. Coordinar, formular u operar programas estatales de obras de abastecimiento de agua potable y de servicios de drenaje y alcantarillado y de las demás relacionadas con el desarrollo y equipamiento urbano, que no estén asignadas a otras autoridades;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+
+XXXVI. Supervisar la construcción, conservación, mantenimiento, operación y administración de las obras de agua potable y alcantarillado a su cargo;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+
+XXXVII. Controlar el inventario de disponibilidad de Agua Potable del Estado;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+
+XXXVIII. Autorizar el uso y disponibilidad del Agua por Zona o Región en conjunto con la Secretaría de Desarrollo Urbano y Metropolitano para que los municipios otorguen licencias de construcción de vivienda o industria;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+
+XXXIX. Administrar en conjunto con la Secretaría de Finanzas los fideicomisos de infraestructura del Gobierno del Estado de acuerdo al Plan Anual y Sexenal de Obras;
+
+> <small>(ADICIONADA, G.G. 27 DE JULIO DE 2015)</small>
+
+XL. Representar, participar o dirigir, los fideicomisos, consejos o empresas de participación estatal que el Gobernador le instruya para el cumplimiento de sus funciones;
+
+XLI. Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 23 DE AGOSTO DE 2005)</small>
 
@@ -1235,7 +1307,9 @@ XV. Sancionar el incumplimiento de obligaciones por parte de los titulares de co
 
 XVI. Opinar respecto del uso de la infraestructura vial primaria por los servicios de transporte público y de la construcción de bahías de ascenso y descenso de pasaje;
 
-XVII. Autorizar las bases, paraderos y terminales del servicio público de transporte, previa opinión de la Secretaría de Comunicaciones, en los casos de uso de la infraestructura vial primaria;
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+
+XVII. Autorizar las bases, paraderos y terminales del servicio público de transporte, previa opinión de la Secretaría de Infraestructura en los casos de uso de la infraestructura vial primaria, o de impacto o influencia directa en terminales o rutas de transporte masivo o de alta capacidad.
 
 XVIII. Realizar las tareas relativas a ingeniería del transporte, coordinándose con otras autoridades cuando así fuere procedente;
 
@@ -1255,7 +1329,9 @@ XXV. Aprobar la implementación y operación del servicio de pago tarifario anti
 
 XXVI. Aprobar la implementación y operación de los Centros de Gestión y Control Común a través de los cuales se operen redes integradas de transporte, con las que se eficiente el servicio público de pasajeros en la modalidades de colectivo, individual y mixto, y fijar los requisitos mediante disposiciones de carácter general para su aprobación; así como modificar, revocar, rescatar, sustituir o dar por terminadas las mismas. El proceso de aprobación será inscrito en el Registro Estatal de Transporte y publicado en el Periódico Oficial "Gaceta del Gobierno", mediante convocatoria, señalando el procedimiento de asignación y el resultado de la misma;
 
-XXVII. Definir, en coordinación con la Secretaría de Comunicaciones, la operación de las rutas alimentadoras para el transporte de alta capacidad; y
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+
+XXVII. Definir en coordinación con la Secretaría de Infraestructura, la operación de las rutas alimentadoras para el transporte de alta capacidad; y
 
 XXVIII. Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
 
@@ -1309,45 +1385,9 @@ XVIII. Coordinar las actividades operativas de las Coordinaciones Regionales de 
 
 XIX. Las demás que señalen las leyes, reglamentos y disposiciones relativas en el Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE DICIEMBRE DE 2005)</small>
-
 ###### Artículo 35.
 
-La Secretaría de Agua y Obra Pública es la dependencia encargada de ejecutar las obras públicas a su cargo y de promover el desarrollo de la infraestructura hidráulica y eléctrica en la Entidad.
-
-> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
-
-A esta Secretaría le corresponde el despacho de los siguientes asuntos:
-
-I.- Formular y conducir la política estatal en materia de obras públicas e infraestructura para el desarrollo;
-
-II.- Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de obra pública;
-
-III.- Integrar el Programa General de Obras Públicas del Gobierno del Estado, con la Participación de las dependencias y organismos del Poder Ejecutivo, en congruencia con el Plan Estatal de Desarrollo y la políticas, objetivos y prioridades que establezca el Gobernador del Estado, y vigilar su ejecución;
-
-IV.- Dictar las normas generales y ejecutar las obras de reparación, adaptación y demolición de inmuebles propiedad del Gobierno del Estado que le sean asignadas;
-
-V.- Construir, mantener o modificar, en su caso, la obra pública que corresponda al desarrollo y equipamiento urbano y que no competa a otras autoridades;
-
-VI.- Expedir en coordinación con las dependencias que corresponda, las bases a que deben sujetarse los concursos para la ejecución de las obras a su cargo, así como adjudicarlas, cancelarlas y vigilar el cumplimiento de los contratos que celebre;
-
-VII.- Establecer lineamientos para la realización de estudios y proyectos de construcción de obras públicas;
-
-VIII.- Vigilar que la ejecución de la obra pública adjudicada y los servicios relacionados con ésta, se sujeten a las condiciones contratadas;
-
-IX.- Proponer al Ejecutivo del Estado la celebración de convenios en materia de obra pública e infraestructura para el desarrollo y participar en su ejecución;
-
-X.- Apoyar la creación y consolidación de los organismos descentralizados municipales encargados de la prestación de los servicios públicos de suministro de agua potable, drenaje y tratamiento de aguas residuales;
-
-XI.- Impulsar y promover trabajos de introducción de energía eléctrica en áreas urbanas y rurales;
-
-XII.- Promover el financiamiento y la construcción, instalación, conservación, mantenimiento o mejoramiento de la infraestructura hidráulica estatal;
-
-XIII.- Coordinar, formular u operar programas estatales de obras de abastecimiento de agua potable y de servicios de drenaje y alcantarillado y de las demás relacionadas con el desarrollo y equipamiento urbano, que no estén asignadas a otras autoridades;
-
-XIV.- Supervisar la construcción, conservación, mantenimiento, operación y administración de las obras de agua potable y alcantarillado a su cargo;
-
-XV.- Las demás que le señalen otras leyes, reglamentos y disposiciones de observancia general.
+(DEROGADO, G.G. 27 DE JULIO DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -2726,6 +2766,30 @@ TERCERO. La Secretaría de la Contraloría del Estado de México en un plazo de 
 CUARTO. Para la operación del Registro Estatal de Inspectores en materia fiscal, las secretarías de Finanzas y de la Contraloría deberán suscribir el convenio correspondiente.
 
 QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 27 DE JULIO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, el dictamen de reconducción correspondiente de las Secretarías del Agua y Obra Pública y de Comunicaciones; y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre la dependencia señalada en el presente Decreto.
+
+CUARTO. El Ejecutivo deberá expedir el Reglamento Interior de la Secretaría de Infraestructura en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor de este Decreto.
+
+QUINTO. Las atribuciones que se otorgan a la Secretaría de Infraestructura en el presente Decreto, en tanto se expida el Reglamento Interior y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de las Secretarías que se fusionan mediante el presente Decreto.
+
+SEXTO. Los recursos humanos, materiales y financieros de la Secretaría del Agua y Obra Pública y de la Secretaría de Comunicaciones serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Infraestructura.
+
+SÉPTIMO. Los derechos laborales adquiridos por los servidores públicos adscritos a la Secretaría del Agua y Obra Pública y la Secretaría de Comunicaciones, al pasar a formar parte de la Secretaría de Infraestructura, permanecerán en las mismas condiciones.
+
+OCTAVO. Los asuntos y demás procedimientos que se encuentren en trámite en la Secretaría del Agua y Obra Pública y en la Secretaría de Comunicaciones se concluirán conforme a su legislación vigente hasta antes de la entrada en vigor del presente Decreto.
+
+NOVENO. Cuando en otros ordenamientos legales administrativos, documentación y papelería se haga referencia a las Secretarías del Agua y Obra Pública y de Comunicaciones, se entenderá que se refieren a la Secretaría de Infraestructura.
+
+DÉCIMO. Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento del presente Decreto.
+
+DÉCIMO PRIMERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
