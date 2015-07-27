@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2015-05-25"
+last_updated: "2015-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -111,7 +111,9 @@ III.- Equidad.- Trato justo y proporcional en las condiciones de acceso y disfru
 
 IV.- Corresponsabilidad.- Promover la concurrencia de los sectores público y privado y en especial de la familia del adulto mayor, con una actitud de responsabilidad compartida; y
 
-V.- Atención Preferente.- Las Instituciones Estatales y Municipales, así como los sectores público y privado implementarán programas acordes a las diferentes características, circunstancias y condiciones de los adultos mayores que los beneficien directamente.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+
+V.- Atención Preferente.- Las Instituciones Estatales y Municipales, así como los sectores público y privado implementarán programas acordes a las diferentes características, circunstancias y condiciones de los adultos mayores que los beneficien directamente, vigilando y garantizando la defensa de los derechos de las personas adultas mayores, a efecto de otorgarles una atención preferente, respetuosa, personalizada y expedita, que agilice los trámites y procedimientos a realizar, para que de esta forma, accedan a los servicios y tramites sin dificultad.
 
 ###### Artículo 7.
 
@@ -151,7 +153,7 @@ VII.- Derecho a la asistencia social.- Por tanto, se reconoce que tienen derecho
 
 7. Ocupar su tiempo libre en actividades productivas, recreativas, culturales, deportivas y de esparcimiento y realizar giras de turismo social dentro y fuera del Estado.
 
-8. Ser beneficiario de los porcentajes de descuentos concertados y difundidos por el Instituto, en determinados bienes y servicios públicos, establecimientos comerciales, centros hospitalarios y otros prestadores de servicios técnicos y profesionales, así como de los descuentos en transporte público para su cómodo traslado, tarifas en el suministro de agua potable y alcantarillado, así como su afiliación a programas de apoyo a las personas adultos (sic) mayores.
+8. Ser beneficiario de los porcentajes de descuentos concertados y difundidos por el Instituto, en determinados bienes y servicios públicos, establecimientos comerciales, centros hospitalarios y otros prestadores de servicios técnicos y profesionales, así como de los descuentos en transporte público para su cómodo traslado, tarifas en el suministro de agua potable y alcantarillado, así como su afiliación a programas de apoyo a las personas adultos mayores.
 
 VIII.- Derecho a constituir organizaciones.- Conformar organizaciones con la finalidad de promover su desarrollo e inducir a las acciones dirigidas a este sector;
 
@@ -584,3 +586,7 @@ P.O. 25 DE MAYO DE 2015.
 PRIMERO. Envíese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE JULIO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
