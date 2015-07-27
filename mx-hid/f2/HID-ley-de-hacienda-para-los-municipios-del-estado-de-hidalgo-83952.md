@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-para-los-municipios-del-estado-de-hidalgo-83952
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-21"
-last_updated: "2015-04-06"
+last_updated: "2015-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 1 DE ENERO DE 2015.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 6 DE ABRIL DE 2015 NO APLICA AL ARTICULADO DEL DECRETO NÚM. 309 PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -809,6 +805,10 @@ Se entiende por este derecho la contraprestación económica que da el particula
 
 Los derechos que se causan por los servicios que presta el Registro del Estado Familiar, dentro y fuera de la oficina se pagarán de conformidad con las cuotas y tarifas establecidas en la Ley de Ingresos de cada Municipio de acuerdo con el Artículo 5º de esta Ley.
 
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2015)</small>
+
+Las autoridades municipales exentarán de cobro el derecho por el registro de nacimiento.
+
 ###### ARTÍCULO 99.
 
 El pago de los derechos que establece este capítulo y a que hace referencia el Artículo 22 del Código Familiar vigente, respecto a los matrimonios se causarán y pagarán de conformidad con las cuotas y tarifas establecidas en la Ley de Ingresos de cada Municipio, de conformidad con el Artículo 5º de esta Ley.
@@ -830,6 +830,10 @@ No causan este derecho las certificaciones, legalizaciones y expedición de copi
 I.- Las que se expidan para acreditar la clausura de algún establecimiento comercial o cualquiera otra causa que justifique la exención de este gravamen.
 
 II.- Las que acuerde el Ayuntamiento, el Presidente Municipal o cualquiera otra de las autoridades fiscales Municipales, con las prerrogativas que les otorga el Código Fiscal Municipal.
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2015)</small>
+
+III.- La primera copia certificada del acta de nacimiento, será expedida sin costo, por las autoridades municipales
 
 #### SECCIÓN TERCERA. DERECHOS POR SERVICIOS DE EXPEDICIÓN Y RENOVACIÓN DE PLACA DE FUNCIONAMIENTO DE ESTABLECIMIENTOS COMERCIALES E INDUSTRIALES
 
@@ -1798,3 +1802,9 @@ PRIMERO.- El presente Decreto entrará en vigor el día 01 de enero de 2015, pre
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
 TERCERO.- Con el propósito de que los Municipios y los prestadores de servicio cuenten con un plazo perentorio para el cumplimiento de lo dispuesto en el artículo 5° de este Decreto, con relación al Derecho de Alumbrado Público, las disposiciones contenidas en él, entrarán en vigor hasta el 1° de julio del año 2015.
+
+P.O. 27 DE JULIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
