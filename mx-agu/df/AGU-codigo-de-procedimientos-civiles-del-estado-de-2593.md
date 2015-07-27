@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "2015-07-13"
+last_updated: "2015-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -2139,13 +2139,17 @@ ARTICULO 307 A.- Para el desahogo de la prueba pericial genética, en los juicio
 
 I.- El juez ordenará de oficio a las partes la realización de la prueba pericial genética, bajo apercibimiento que en caso de negativa injustificada del demandado de someterse a la realización de la prueba pericial genética, configura una presunción en su contra. Las partes podrán ofrecer la prueba pericial genética apegándose a las reglas generales previstas en el Artículo 297 de este Código;
 
-II.- La prueba que ordene el juez deberán ser practicadas por el servicio médico legal de la Dirección General de Servicios Periciales de la Procuraduría General de Justicia del Estado o por cualquier institución pública que cuente con especialidad para ello y se encuentre debidamente registrada ante el Supremo Tribunal de Justicia del Estado, y deberán realizarse con absoluto respeto a la dignidad de la persona que deba sujetarse a ella y sin que pueda en ningún caso constituir, en sí misma o por la forma de realizarla, un trato inhumano o degradante;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+
+II.- La prueba (sic) que ordene el juez deberán ser practicadas por el servicio médico legal de los Servicios Periciales de la Fiscalía General del Estado o por cualquier institución pública que cuente con especialidad para ello y se encuentre debidamente registrada ante el Supremo Tribunal de Justicia del Estado, y deberán realizarse con absoluto respeto a la dignidad de la persona que deba sujetarse a ella y sin que pueda en ningún caso constituir, en sí misma o por la forma de realizarla, un trato inhumano o degradante;
 
 > <small>(REFORMADA, P.O. 28 DE JULIO DE 2008)</small>
 
 III.- El juez solicitará las pruebas genéticas a quien, en razón de su especialidad técnica, deba practicarlas, indicando la fecha y hora en que las muestras de material genético deban ser tomadas en el local del juzgado, o bien, podrá autorizar que sean tomadas en lugar diverso en cuyo caso decretará las providencias necesarias para que sean debidamente identificadas;
 
-IV.- Una de las muestras a que se refiere la Fracción anterior, permanecerá en cadena de custodia en la Dirección General de Servicios Periciales de la Procuraduría General de Justicia del Estado, hasta que la sentencia dictada en el juicio respectivo haya causado ejecutoria.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+
+IV.- Una de las muestras a que se refiere la Fracción anterior, permanecerá en cadena de custodia en los Servicios Periciales de la Fiscalía General del Estado, hasta que la sentencia dictada en el juicio respectivo haya causado ejecutoria.
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -2153,11 +2157,13 @@ ARTICULO 307 B.- El Juez deberá proveer lo necesario para el desahogo de la pru
 
 Se exceptuará el pago del costo de la prueba a quien, previo estudio socio económico realizado por Institución Pública, se determine que no tiene la capacidad económica para realizarlo.
 
-En caso de que exista la presentación de esta prueba por ambas partes y que una vez desahogada existan resultados contradictorios, el Juez ordenará la realización sin costo para los promoventes de una nueva prueba pericial genética, la cual deberá ser realizada exclusivamente en la Dirección General de Servicios Periciales de la Procuraduría General de Justicia del Estado y cuyos resultados serán los que prevalezcan como validos.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+En caso de que exista la presentación de esta prueba por ambas partes y que una vez desahogada existan resultados contradictorios, el Juez ordenará la realización sin costo para los promoventes de una nueva prueba pericial genética, la cual deberá ser realizada exclusivamente en los Servicios Periciales de la Fiscalía General del Estado y cuyos resultados serán los que prevalezcan como válidos.
 
-ARTICULO 307 C.- La Dirección General de Servicios Periciales de la Procuraduría General de Justicia del Estado, en conjunto con el Instituto de Salud del Estado de Aguascalientes, elaborarán la reglamentación de la Prueba Pericial Genética a fin de establecer los procedimientos técnicos y especificaciones que garanticen la veracidad de la prueba.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
+
+ARTICULO 307 C.- Los Servicios Periciales de la Fiscalía General del Estado, en conjunto con el Instituto de Servicios de Salud del Estado de Aguascalientes, elaborarán la reglamentación de la Prueba Pericial Genética a fin de establecer los procedimientos técnicos y especificaciones que garanticen la veracidad de la prueba.
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -4101,7 +4107,9 @@ Tan luego como cause ejecutoria la sentencia que se pronuncie en estos juicios, 
 
 El procedimiento a que se refiere este Capítulo tiene por objeto determinar la pérdida de la patria potestad de los menores albergados en instituciones públicas de asistencia social, en los casos previstos por el Artículo 466, Fracciones III, IV, V y VI del Código Civil del Estado.
 
-Corresponderá a la Procuraduría de la Defensa del Menor y la Familia o al Ministerio Público, el ejercicio de la acción relativa a la promoción del juicio.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
+
+Corresponderá a la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes o al Ministerio Público, el ejercicio de la acción relativa a la promoción del juicio.
 
 > <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2012)</small>
 
@@ -5341,9 +5349,9 @@ III.- Por sus presuntos herederos legítimos;
 
 IV.- Por el ejecutor testamentario; y
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
 
-V.- Por el Ministerio Público y la Procuraduría de la Defensa del Menor y la Familia en el Estado.
+V.- Por el Ministerio Público y la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes.
 
 ###### ARTICULO 798.
 
@@ -5369,9 +5377,9 @@ IV.- Por el Ministerio Público, que en todo caso será oído:
 
 V.- Por el Consejo de Tutelas; y
 
-> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
 
-VI.- Por la Procuraduría de la Defensa del Menor y la Familia.
+VI.- Por la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes.
 
 ###### ARTICULO 800.
 
@@ -6288,3 +6296,13 @@ El presente Decreto iniciará su vigencia a los cuarenta y cinco días naturales
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos especiales de alimentos que estén en trámite antes de que entre en vigor el presente Decreto, se sujetarán a las disposiciones vigentes al momento de la presentación de la demanda respectiva.
+
+P.O. 27 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
