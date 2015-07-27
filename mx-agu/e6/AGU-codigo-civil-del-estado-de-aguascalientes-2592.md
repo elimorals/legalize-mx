@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2015-06-22"
+last_updated: "2015-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 22 DE JUNIO DE 2015, INICIA SU VIGENCIA A LOS TREINTA DÍAS HÁBILES DE SU PUBLICACIÓN.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -2721,7 +2719,9 @@ El menor de edad podrá reconocer a sus hijos, sin el consentimiento de sus padr
 
 El Oficial del Registro Civil ante quien se haga un reconocimiento por un menor de edad, deberá hacerlo saber al Ministerio Público dentro de los ocho días siguientes, bajo la pena de cinco a cincuenta pesos de multa; incurriendo en igual pena el Agente del Ministerio Público que, habiendo recibido el aviso o teniendo conocimiento del caso por cualquier otro medio no exprese su conformidad o inconformidad con conocimiento de causa, para lo cual podrá tomar los informes y datos necesarios por sí o por medio del Juez.
 
-Si transcurrido el término de sesenta días, no se hubiere resuelto el caso por el Ministerio Público, el Oficial del Registro Civil o cualquiera de los interesados podrá ocurrir al juez de la localidad a fin de que apremie al agente moroso, imponiéndole la pena que corresponda y señalando nuevo término, que no podrá exceder de treinta días, con el apercibimiento de ser destituído si nuevamente faltare al cumplimiento de su obligación, a cuyo efecto, llegado el caso, se pondrá en conocimiento del C. Procurador de Justicia para que haga efectiva esta sanción.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
+
+Si transcurrido el término de sesenta días, no se hubiere resuelto el caso por el Ministerio Público, el Oficial del Registro Civil o cualquiera de los interesados podrá ocurrir al juez de la localidad a fin de que apremie al agente moroso, imponiéndole la pena que corresponda y señalando nuevo término, que no podrá exceder de treinta días, con el apercibimiento de ser destituido si nuevamente faltare al cumplimiento de su obligación, a cuyo efecto, llegado el caso, se pondrá en conocimiento del Fiscal General del Estado para que haga efectiva esta sanción.
 
 Los padres o tutores y cualquier otro interesado que pretenda objetar un reconocimiento, deberá hacerlo en juicio ordinario.
 
@@ -2907,11 +2907,11 @@ Nadie puede ser adoptado por más de una persona, salvo el caso previsto en el a
 
 El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de la tutela.
 
-> <small>(REFORMADO, [N. DE E. ADICIONADO] P.O. 5 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
 
 ###### Artículo 417.
 
-Concedida la adopción, el Sistema para el Desarrollo Integral de la Familia del Estado, a través de la Procuraduría de la Defensa del Menor y la Familia, le dará seguimiento por un periodo de dos años, informando de ello semestralmente al Juez que la autorizó.
+Concedida la adopción, el Sistema para el Desarrollo Integral de la Familia del Estado, a través de la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes, le dará seguimiento por un periodo de dos años, informando de ello semestralmente al Juez que lo autorizó.
 
 ###### Artículo 418.
 
@@ -3263,11 +3263,11 @@ Las personas que ejercen la patria potestad tienen obligación de dar cuenta de 
 
 En todos los casos en que las personas que ejercen la patria potestad tienen un interés opuesto al de los hijos, serán éstos representados, en juicio y fuera de él, por un tutor nombrado por el juez para cada caso.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
 
 ###### Artículo 463.
 
-Los jueces tienen facultad de tomar las medidas necesarias para impedir que, por la mala administración de quienes ejercen la patria potestad, los bienes del hijo se derrochen o se disminuyan. Estas medidas se tomarán a instancias de las personas interesadas, del menor de edad, cuando hubiere cumplido catorce años, de la Procuraduría de la Defensa del Menor y la Familia ó el Ministerio Público en todo caso.
+Los jueces tienen facultad de tomar las medidas necesarias para impedir que, por la mala administración de quienes ejercen la patria potestad, los bienes del hijo se derrochen o se disminuyan. Estas medidas se tomarán a instancias de las personas interesadas, del menor de edad, cuando hubiere cumplido catorce años, de la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes ó el Ministerio Público en todo caso.
 
 ###### Artículo 464.
 
@@ -3313,13 +3313,33 @@ IV.- Por la exposición que el que la ejerce hiciere del menor de edad o porque 
 
 V.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso en el que la víctima sea el menor sobre quien ejerce la patria potestad;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
 
-VI.- Cuando el que la ejerza incurra en conductas de violencia familiar en donde la víctima sea el menor de edad; o
+VI.- Cuando quien la ejerza incurra en conductas de violencia familiar en donde la víctima sea el menor de edad;
 
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
 
-VII.- Cuando quien la ejerza abandone al menor de edad por más de sesenta días naturales si lo confió a familiares que tengan relación con el menor de edad hasta el tercer grado.
+VII.- Cuando quien la ejerza abandone al menor de edad por más de sesenta días naturales si lo confió a familiares que tengan relación con el menor de edad hasta el tercer grado;
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2015)</small>
+
+VIII.- Cuando quien la ejerza sea condenado por algún delito doloso y se acredite alguna afectación al interés superior del menor;
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2015)</small>
+
+IX.- Cuando quien la ejerza obligue a los menores de edad a realizar la mendicidad, trabajo forzado o cualquier otra forma de explotación;
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2015)</small>
+
+X.- Cuando quien la ejerza permita o tolere que otras personas atenten contra la seguridad e integridad física, emocional o sexual de los menores; o
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2015)</small>
+
+XI.- Por el incumplimiento reiterado de las determinaciones judiciales que se hayan ordenado al que ejerza la patria potestad, tendientes a corregir la violencia familiar o las que se emitan para regular la custodia, el régimen de convivencias o el cumplimiento de sus obligaciones y éstas hayan afectado a los menores.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2015)</small>
+
+El progenitor que perdió la patria potestad por el abandono de sus deberes alimentarios, la podrá recuperar, siempre y cuando compruebe que ha cumplido con ésta obligación por más de un año, otorgue garantía anual, se le haya realizado un estudio de su situación económica y de su comportamiento actual, así como un diagnóstico psicológico; dichos estudios serán realizados por personal del Sistema para el Desarrollo Integral de la Familia del Estado o por el perito en la materia que el propio juzgador determine.
 
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2001)</small>
 
@@ -3341,7 +3361,9 @@ III.- Los hermanos y demás parientes colaterales del menor dentro del tercer gr
 
 IV.- El Ministerio Público; y
 
-V.- La Procuraduría de la defensa del Menor y la Familia.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+
+V.- La Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes.
 
 ###### Artículo 468.
 
@@ -3355,7 +3377,21 @@ I.- Por incapacidad declarada judicialmente;
 
 II.- Por ausencia declarada en forma;
 
-III.- Por sentencia condenatoria que imponga como pena esta suspensión.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+
+III.- Por sentencia condenatoria que imponga como pena esta suspensión;
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2015)</small>
+
+IV.- Por disponer de los bienes del menor sin autorización judicial, en los casos en que esta sea requerida por la ley;
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2015)</small>
+
+V.- Por negar o no permitir se lleven a cabo las convivencias decretadas por autoridad competente o fijadas mediante convenio judicial; o
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2015)</small>
+
+VI.- Cuando en una resolución judicial firme, se determine la existencia de alienación parental, respecto al progenitor que la haya generado.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
 
@@ -3665,9 +3701,9 @@ V.- Los miembros de las juntas de beneficencia pública o privada que disfruten 
 
 VI.- Los directores de establecimientos de beneficencia pública;
 
-> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
 
-VII.- Los servidores públicos adscritos a la defensoría de oficio, Procuraduría de la Defensa del Menor y la Familia tanto Estatal como Municipal y la Comisión Estatal de los Derechos Humanos.
+VII.- Los servidores públicos adscritos a la defensoría de oficio, Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes tanto Estatal como Municipal y la Comisión Estatal de los Derechos Humanos.
 
 Los jueces nombrarán de entre las personas mencionadas las que en cada coso deban desempeñar la tutela, procurando que este cargo se reparta equitativamente, sin perjuicio de que también puedan ser nombrados tutores las personas que figuren en las listas que deben formar los Consejos de Tutela, conforme a lo dispuesto en el Capítulo XV de este Título, cuando estén conformes en desempeñar gratuitamente la tutela de que se trata.
 
@@ -4129,9 +4165,9 @@ Cuando el tutor de un incapaz sea el cónyuge, continuará ejerciendo sus derech
 
 I.- Si se requiere legalmente el consentimiento del otro cónyuge, se suplirá por el juez, con audiencia del curador;
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
 
-II.- En los casos en que el cónyuge incapaz pueda querellarse del otro, denunciarlo o demandarlo para asegurar sus derechos violados o amenazados, será representado por un tutor interino que el Juez nombrará. Es obligación del curador promover este nombramiento, y si no lo cumple será responsable de los perjuicios que le causen al incapacitado. También podrá promover ese nombramiento la Procuraduría de la Defensa del Menor y la Familia.
+II.- En los casos en que el cónyuge incapaz pueda querellarse del otro, denunciarlo o demandarlo para asegurar sus derechos violados o amenazados, será representado por un tutor interino que el Juez nombrará. Es obligación del curador promover este nombramiento, y si no lo cumple será responsable de los perjuicios que le causen al incapacitado. También podrá promover ese nombramiento la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -4143,11 +4179,11 @@ Cuando la tutela del incapacitado recaiga en el cónyuge, sólo podrá gravar lo
 
 Cuando la tutela recaiga en cualquiera otra persona, se ejercerá conforme a las reglas establecidas para la tutela de los menores.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
 
 ###### Artículo 607.
 
-En caso de agresión física, moral, maltrato, negligencia en los debidos cuidados al incapacitado o de la mala administración de sus bienes, podrá el tutor ser removido del cargo de tutela a petición del curador, de los parientes del incapacitado, del Ministerio Público o de la Procuraduría de la Defensa del Menor y la Familia en el Estado.
+En caso de agresión física, moral, maltrato, negligencia en los debidos cuidados al incapacitado o de la mala administración de sus bienes, podrá el tutor ser removido del cargo de tutela a petición del curador, de los parientes del incapacitado, del Ministerio Público o de la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes.
 
 ###### Artículo 608.
 
@@ -16950,3 +16986,23 @@ P.O. 22 DE JUNIO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia a los treinta días hábiles siguientes al de su publicación en el Periódico Oficial del Estado de Aguascalientes, quedando sin efecto todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
+
+P.O. 27 DE JULIO DE 2015.
+
+DECRETO NÚMERO 215, POR EL QUE SE REFORMA EL ARTÍCULO 466, FRACCIONES VI Y VII Y SE LE ADICIONAN LAS FRACCIONES VIII, IX, X, Y XI Y UN PÁRRAFO SEGUNDO; Y SE REFORMA EL ARTÍCULO 469, FRACCIÓN III Y SE LE ADICIONAN LAS FRACCIONES IV, V Y VI DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JULIO DE 2015.
+
+DECRETO NÚMERO 216, POR EL QUE SE REFORMAN LOS ARTÍCULOS 386, PÁRRAFO TERCERO; 417; 463; 467, FRACCIÓN V; 523, FRACCIÓN VII; 604, FRACCIÓN 11 Y 607 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
