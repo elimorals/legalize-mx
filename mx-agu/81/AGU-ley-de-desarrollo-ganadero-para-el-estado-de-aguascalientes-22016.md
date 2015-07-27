@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-ganadero-para-el-estado-de-aguascalientes-220
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-23"
-last_updated: "2013-02-18"
+last_updated: "2015-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DESARROLLO GANADERO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 23 de julio de 2001.
 
@@ -36,6 +36,8 @@ El H. Congreso del Estado en sesión ordinaria celebrada hoy, tuvo a bien expedi
 "NUMERO 184
 
 La H. LVII Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le conceden los Artículos 27, fracción I, 32 y 35 de la Constitución Política Local, en nombre del pueblo decreta:
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 216, PUBLICADO EN EL P.O. DE 27 DE JULIO DE 2015, “EN TANTO NO INICIE SU VIGENCIA LA AUTONOMÍA DE LA FISCALÍA GENERAL DE LA REPÚBLICA, LAS REFERENCIAS A DICHA FISCALÍA CONTENIDAS EN EL PRESENTE DECRETO, SE ENTENDERÁN HECHAS A LA PROCURADURÍA GENERAL DE LA REPÚBLICA”.</small>
 
 LEY DE DESARROLLO GANADERO PARA EL ESTADO DE AGUASCALIENTES
 
@@ -147,7 +149,7 @@ III. (DEROGADA, P.O. 23 DE ABRIL DE 2007)
 
 IV. Coadyuvar en la aplicación y cumplimiento de las Leyes Federales en la materia;
 
-V. Prevenir y combatir los incendios, plagas y enfermedades de la vegetación en los agostaderos; y (sic)
+V. Prevenir y combatir los incendios, plagas y enfermedades de la vegetación en los agostaderos; y
 
 VI. Proteger la fauna silvestre;
 
@@ -271,7 +273,7 @@ V. Llevar a cabo exámenes médicos y realizar las pruebas de diagnóstico que c
 
 VI. Autorizar los libros de registro a los propietarios de saladeros, tenerías y las personas que se dediquen al comercio de pieles crudas;
 
-VII. Levantar actas circunstanciadas con motivo de la violación de la presente Ley; y (sic)
+VII. Levantar actas circunstanciadas con motivo de la violación de la presente Ley; y
 
 VIII. Evaluar el desarrollo de los programas y acciones concertadas entre la Federación y el Estado;
 
@@ -667,9 +669,11 @@ Con el fin de no prolongar el sufrimiento o agonía de cualquier animal que a vi
 
 Los administradores de los rastros reportarán mensualmente a las autoridades Municipales, el movimiento del ganado y sacrificios registrados en la capital del Estado, enviando copia de los reportes a la Comisión, Asociación Ganadera local respectiva y Unión Ganadera Regional.
 
-###### ARTICULO 81.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
 
-Los libros de registro de los rastros, podrán ser revisados en cualquier tiempo por los Presidentes Municipales, los inspectores, la Comisión, los representantes de la Asociación Ganadera local, de la Unión Ganadera Regional y la Procuraduría General de Justicia del Estado, pudiendo hacer cualquiera de ellos las gestiones que procedan para reportar las irregularidades que descubran.
+###### ARTÍCULO 81.
+
+Los libros de registro de los rastros, podrán ser revisados en cualquier tiempo por los Presidentes Municipales, los inspectores, la Comisión, los representantes de la Asociación Ganadera local, de la Unión Ganadera Regional y la Fiscalía General del Estado, pudiendo hacer cualquiera de ellos las gestiones que procedan para reportar las irregularidades que descubran.
 
 ###### ARTICULO 82.
 
@@ -1024,3 +1028,13 @@ P.O. 18 DE FEBRERO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
