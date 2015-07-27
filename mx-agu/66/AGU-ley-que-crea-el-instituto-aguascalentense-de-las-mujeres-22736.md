@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-el-instituto-aguascalentense-de-las-mujeres-22736"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-19"
-last_updated: "2015-06-15"
+last_updated: "2015-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY QUE CREA EL INSTITUTO AGUASCALENTENSE DE LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el 19 de noviembre de 2001.
 
@@ -173,11 +173,13 @@ f).- Instituto de Educación del Estado de Aguascalientes;
 
 g).- Comisión para el Desarrollo Agropecuario del Estado de Aguascalientes;
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2005)</small>
 
 h).- Secretaría de Planeación y Desarrollo Regional;
 
-i).- Procuraduría General de Justicia del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+
+i).- Fiscalía General del Estado;
 
 III.- (DEROGADA, P.O. 10 DE FEBRERO DE 2003)
 
@@ -373,11 +375,15 @@ c).- Discriminación laboral, social, cultural y política.
 
 d).- Violencia familiar;
 
-V.- Elaborar propuestas para que la Procuraduría General de Justicia del Estado y el Supremo Tribunal de Justicia del Estado, designen mujeres en aquellos cargos en donde se atiendan asuntos sobre violencia hacia las mujeres y delitos sexuales;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+
+V.- Elaborar propuestas para que la Fiscalía General del Estado y el Supremo Tribunal de Justicia del Estado, designen mujeres en aquellos cargos en donde se atiendan asuntos sobre violencia hacia las mujeres y delitos sexuales;
 
 VI.- Proporcionar asesoría jurídica a adolescentes embarazadas y a sus padres y madres, así como canalizarlas a las instancias competentes y organismos sociales, con el objeto de que se les brinde la asistencia correspondiente;
 
-VII.- Elaborar, en coordinación con el Instituto de Educación del Estado, el órgano encargado de los derechos humanos, la Procuraduría de la Defensa del Trabajo en el Estado, la Procuraduría General de Justicia del Estado, el Supremo Tribunal de Justicia y el Instituto Estatal Electoral, programas educativos de apoyo a las mujeres en materia de:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2015)</small>
+
+VII.- Elaborar, en coordinación con el Instituto de Educación del Estado, el órgano encargado de los derechos humanos, la Procuraduría de la Defensa del Trabajo en el Estado, Fiscalía General del Estado, el Supremo Tribunal de Justicia y el Instituto Estatal Electoral, programas educativos de apoyo a las mujeres en materia de:
 
 a).- Derechos en materia de salud integral de la mujer.
 
@@ -778,3 +784,13 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de “personas con discapacidad”.
+
+P.O. 27 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
