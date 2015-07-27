@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-instituto-estatal-de-seguridad-publica-17128"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-03-06"
-last_updated: "2011-06-17"
+last_updated: "2015-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY ORGANICA DEL INSTITUTO ESTATAL DE SEGURIDAD PUBLICA
 
-LEY ORGANICA DEL INSTITUTO ESTATAL DE SEGURIDAD PUBLICA
+LEY ORGÁNICA DEL INSTITUTO ESTATAL DE SEGURIDAD PÚBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 6 de marzo de 2000.
 
@@ -55,7 +55,7 @@ Su objeto es el reclutamiento, la selección y la preparación profesional de lo
 
 El Instituto Estatal de Seguridad Pública a través de sus actividades académicas buscará la excelencia del personal de las instituciones de seguridad pública reforzando valores como: honestidad, responsabilidad, servicio, lealtad institucional, disciplina y respeto a los derechos de las personas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE MARZO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE MARZO DE 2004)</small>
 
 ### CAPITULO II. Del Instituto Estatal de Seguridad Pública
 
@@ -113,7 +113,7 @@ IX.- Area del Cuerpo de Alumnos.
 
 Las Direcciones Académica y Administrativa, suplirán en sus ausencias temporales al Director General, quienes tendrán las atribuciones, funciones y obligaciones que el Director General asigne o de conformidad a lo establecido en el Reglamento Interior.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE MARZO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE MARZO DE 2004)</small>
 
 ### CAPITULO III. Del Patrimonio del Instituto Estatal de Seguridad Pública
 
@@ -131,7 +131,7 @@ III.- Toda clase de bienes que adquiera el Instituto Estatal de Seguridad Públi
 
 ### CAPITULO IV. De los Organos de Gobierno
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 6º.
 
@@ -159,9 +159,9 @@ La Presidencia de la Junta de Gobierno estará a cargo del Gobernador Constituci
 
 La Secretaría Ejecutiva estará a cargo del Secretario de Seguridad Pública del Estado, quien tendrá voz y voto en la misma.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
 
-Los vocales de la Junta, quienes tendrán voz y voto serán: el Secretario de Gobierno, quien a su vez suplirá al Presidente en sus ausencias; el Procurador General de Justicia del Estado, el Director General del Instituto de Educación de Aguascalientes, el Director General de Seguridad Pública y Vialidad, el Director General de Reinserción Social, el Rector de la Universidad Autónoma de Aguascalientes, el Presidente de la Comisión Estatal de Derechos Humanos, el Presidente Municipal de Aguascalientes y tres representantes de los Municipios del interior del Estado.
+Los vocales de la Junta, quienes tendrán voz y voto serán: el Secretario de Gobierno, quien a su vez suplirá al Presidente en sus ausencias; el Fiscal General del Estado, el Director General del Instituto de Educación de Aguascalientes, el Director General de Seguridad Pública y Vialidad, el Director General de Reinserción Social, el Rector de la Universidad Autónoma de Aguascalientes, el Presidente de la Comisión Estatal de Derechos Humanos, el Presidente Municipal de Aguascalientes y tres representantes de los Municipios del interior del Estado.
 
 Los vocales representantes de los Municipios, serán electos de común acuerdo por los Presidentes Municipales de la totalidad de los Municipios del Estado, quienes se reunirán para tal efecto y darán a conocer a la Presidencia de la Junta de Gobierno el resultado de la elección; en caso de que no existiera acuerdo, la selección se llevará a cabo por insaculación en los términos que se establezcan en el Reglamento del la presente Ley. Los representantes de los Municipios ante la Junta de Gobierno, durarán en su encargo dos años, pudiendo ser reelectos.
 
@@ -197,7 +197,7 @@ La Junta de Gobierno sesionará por lo menos trimestralmente y podrá celebrar s
 
 La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que la mayoría de los asistentes sean representantes de la Administración Pública Estatal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 10.
 
@@ -263,7 +263,7 @@ III.- Poseer Título de Licenciatura o Postgrado; y
 
 IV.- No encontrarse en alguno de los impedimentos para ser miembro de la Junta de Gobierno que señalan las fracciones II, III, IV y V del Artículo 12 de la Ley para el Control de Entidades Paraestatales vigente en el Estado, con relación al artículo 8º de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 13.
 
@@ -411,7 +411,7 @@ El servidor público o personal docente que imponga cualquier sanción o medida 
 
 ### CAPITULO VI. Del Consejo Técnico Consultivo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MARZO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 14.
 
@@ -421,7 +421,9 @@ El Director General del Instituto Estatal de Seguridad Pública, contará con el
 
 a). Un representante de la Dirección General de Seguridad Pública y Vialidad del Estado;
 
-b).- Un representante de la Procuraduría General de Justicia en el Estado;
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
+
+b).- Un representante de la Fiscalía General del Estado;
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
@@ -491,7 +493,7 @@ III.- Proponer los planes de estudio y programas de enseñanza del Instituto Est
 
 IV.- Las demás que le confiera el Reglamento Interior o el Director General del Instituto Estatal de Seguridad Pública.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE MARZO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE MARZO DE 2004)</small>
 
 ### CAPITULO VII. Del Régimen Educativo del Instituto Estatal de Seguridad Pública
 
@@ -519,7 +521,7 @@ El aspirante seleccionado como alumno interno gozará de una beca y de los apoyo
 
 Los egresados del Instituto Estatal de Seguridad Pública de Aguascalientes o de otras instituciones similares en el país que acrediten fehacientemente que cuentan con los conocimientos necesarios ante este Instituto, tendrán preferencia para ocupar alguna plaza laboral en las Instituciones de Seguridad Pública en el Estado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE MARZO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE MARZO DE 2004)</small>
 
 ### CAPITULO VIII. Del Régimen Laboral
 
@@ -595,7 +597,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 1 DE MARZO DE 2004.
 
@@ -658,3 +660,13 @@ El Poder Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias c
 ###### ARTÍCULO NOVENO.
 
 Se derogan todas las disposiciones que se opongan a la (sic) presente Decreto.
+
+P.O. 27 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
