@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-gestion-urbanistica-805
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-22"
-last_updated: "2011-03-22"
+last_updated: "2015-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE GESTION URBANISTICA Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE AGUASCALIENTES
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE GESTION URBANISTICA Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE AGUASCALIENTES
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE GESTIÓN URBANÍSTICA Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GESTIÓN URBANÍSTICA Y ORDENAMIENTO TERRITORIAL, PUBLICADO EN EL P.O. DE 27 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 22 de marzo de 2011.
 
 CARLOS LOZANO DE LA TORRE, Gobernador Constitucional del Estado de Aguascalientes, en ejercicio de la facultad que me confiere el artículo 46 fracción I de la Constitución Política del Estado de Aguascalientes, y con fundamento en los artículos 2º, 3º, 10 fracción IV, 11 fracción IV y en el Artículo Décimo Primero Transitorio de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, publicada el día 28 de diciembre del año 2010, he tenido a bien expedir el Reglamento Interior de la Secretaría de Gestión Urbanística y Ordenamiento Territorial al tenor de los siguientes:
 
-C O N S I D E R A N D O S :.
+C O N S I D E R A N D O S :...
 
 Finalmente, en el Transitorio Décimo Primero de la multicitada Ley Orgánica de la Administración Pública del Estado de Aguascalientes, establece la obligación legal de expedir en un término de 60 días naturales los reglamentos interiores de las Dependencias de nueva creación en términos de la Ley Orgánica de la Administración Pública del Estado. En tal razón y haciendo eco de esta obligación legal me permito expedir el siguiente:
 
@@ -563,7 +565,7 @@ Los directores generales serán suplidos en sus ausencias menores a 30 días, po
 
 Los directores, jefes de departamento y demás personal de la Secretaría, serán suplidos en sus ausencias menores a 30 días, por el servidor de la jerarquía inmediata inferior que el director general correspondiente señale, si la ausencia es mayor, será suplido por quien designe el Secretario.
 
-T R A N S I T O R I O S:
+T R A N S I T O R I O S :
 
 ###### ARTÍCULO PRIMERO.
 
@@ -594,3 +596,23 @@ JEFE DE GABINETE.
 Lic. Oscar Augusto López Velarde Vega,
 
 SECRETARIO DE GESTIÓN URBANÍSTICA Y ORDENAMIENTO TERRITORIAL.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+A la Secretaría de Gestión Urbanística y Ordenamiento Territorial, le corresponderán además, todas aquellas atribuciones que por disposición legal o reglamentaria, le correspondan a la Secretaría de Planeación y Desarrollo Regional del Estado de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+A la Dirección General de Movilidad Urbana, le corresponderán todas las atribuciones, que por disposición legal o reglamentaria, se confieran a la Dirección General de Transporte; así mismo, se entenderán como facultades del Director General de Movilidad Urbana, todas las que por disposición legal o reglamentaria, le correspondan al Director General de Transporte Público.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga el Reglamento Interior de la Secretaría de Gestión Urbanística y Ordenamiento Territorial del Estado de Aguascalientes, publicado enel (sic) Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el día martes 22 de marzo de 2011.
