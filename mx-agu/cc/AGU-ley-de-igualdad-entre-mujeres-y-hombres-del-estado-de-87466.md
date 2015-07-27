@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-igualdad-entre-mujeres-y-hombres-del-estado-de-87466"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-23"
-last_updated: "2013-11-11"
+last_updated: "2015-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
 
 Ley publicada en la Primera Sección de Periódico Oficial del Estado de Aguascalientes, el lunes 23 de abril de 2012.
 
@@ -42,6 +42,8 @@ Decreto Número 191
 ###### ARTÍCULO ÚNICO.
 
 Se aprueba la Ley de Igualdad entre Mujeres y Hombres del Estado de Aguascalientes, bajo los siguientes términos:
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 216, PUBLICADO EN EL P.O. DE 27 DE JULIO DE 2015, EN TANTO NO INICIE SU VIGENCIA LA AUTONOMÍA DE LA FISCALÍA GENERAL DE LA REPÚBLICA, LAS REFERENCIAS A DICHA FISCALÍA CONTENIDAS EN EL PRESENTE DECRETO, SE ENTENDERÁN HECHAS A LA PROCURADURÍA GENERAL DE LA REPÚBLICA.</small>
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES
 
@@ -191,7 +193,9 @@ IV. La Comisión de Equidad de Género del Congreso del Estado;
 
 V. El Supremo Tribunal de Justicia;
 
-VI. La Procuraduría General de Justicia; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+
+VI. La Fiscalía General del Estado; y
 
 VII. Tres representantes de la sociedad civil e instituciones académicas designados por el Poder Ejecutivo.
 
@@ -564,3 +568,13 @@ P.O. 11 DE NOVIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
