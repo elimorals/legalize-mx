@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2014-12-22"
+last_updated: "2015-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
 
 Estatuto publicado en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -36,6 +36,8 @@ El H. Congreso del Estado en sesión ordinaria celebrada hoy, tuvo a bien expedi
 "NUMERO 183
 
 La H. LIV Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le concede el Artículo 27 de la Constitución Política Local, en nombre del Pueblo, decreta:
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 216, PUBLICADO EN EL P.O. DE 27 DE JULIO DE 2015, "EN TANTO NO INICIE SU VIGENCIA LA AUTONOMÍA DE LA FISCALÍA GENERAL DE LA REPÚBLICA, LAS REFERENCIAS A DICHA FISCALÍA CONTENIDAS EN EL PRESENTE DECRETO, SE ENTENDERÁN HECHAS A LA PROCURADURÍA GENERAL DE LA REPÚBLICA".</small>
 
 ESTATUTO JURIDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS
 
@@ -109,15 +111,17 @@ B) En el Poder Ejecutivo,
 
 2. Los Secretarios;
 
-3. El Procurador General de Justicia del Estado;
+3. (DEROGADO, P.O. 27 DE JULIO DE 2015)
 
-4. El Procurador de la Defensa del Menor y la Familia del Sistema DIF Estatal;
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
+
+4. El Procurador de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes;
 
 5. El Procurador de Protección al Ambiente del Estado de Aguascalientes;
 
 6. Los Subsecretarios;
 
-7. Los Subprocuradores;
+7. (DEROGADO, P.O. 27 DE JULIO DE 2015)
 
 8. El Oficial Mayor;
 
@@ -1635,9 +1639,11 @@ El Tribunal ordenará se cite a los absolventes personalmente o por conducto de 
 
 Si la persona citada para absolver posiciones no concurre en la fecha y hora señalada, se hará efectivo el apercibimiento a que se refiere el artículo anterior, y en consecuencia, se le declarará confesa de las posiciones que se hubieren articulado y calificado de legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2015)</small>
+
 ###### ARTICULO 168.
 
-Cuando se ofrezca la confesión a cargo del Gobernador del Estado, Secretarios de Estado, Procurador General de Justicia, Presidente del Supremo Tribunal de Justicia, Presidente de la Gran Comisión del Congreso del Estado, Presidentes Municipales y Directores Generales de Organismos Descentralizados, y se les hayan atribuido hechos propios, éstos no absolverán posiciones en la forma establecida en los artículos anteriores, pero la parte contraria podrá pedir que se les gire oficio, insertando las posiciones que quiera hacerles para que, por vía de informe, sean contestadas dentro del término de cinco días. En el oficio se apercibirá a la parte absolvente de tenerla por confesa sino contestare dentro de ese término, o si no lo hiciere categóricamente, afirmando o negando los hechos.
+Cuando se ofrezca la confesión a cargo del Gobernador del Estado, Secretarios de Estado, Fiscal General del Estado, Presidente del Supremo Tribunal de Justicia, Presidente de la Mesa Directiva del Congreso del Estado, Presidentes Municipales y Directores Generales de Organismos Descentralizados, y se les hayan atribuido hechos propios, éstos no absolverán posiciones en la forma establecida en los artículos anteriores, pero la parte contraria podrá pedir que se les gire oficio, insertando las posiciones que quiera hacerles para que, por vía de informe, sean contestadas dentro del término de cinco días. En el oficio se percibirá (sic) a la parte absolvente de tenerla por confesa sino (sic) contestare dentro de ese término, o si no lo hiciere categóricamente, afirmando o negando los hechos.
 
 Para tal efecto, al ofrecer la prueba, deberán acompañarse los pliegos correspondientes, para que una vez calificadas las posiciones por el Tribunal, se giren los oficios correspondientes.
 
@@ -2002,3 +2008,13 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Los contratos celebrados con anterioridad al inicio de vigencia del presente Decreto, podrán ser convalidados por los trabajadores a fin de que continúen surtiendo sus efectos, siempre que se ajusten a las disposiciones contenidas en esta reforma.
+
+P.O. 27 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
