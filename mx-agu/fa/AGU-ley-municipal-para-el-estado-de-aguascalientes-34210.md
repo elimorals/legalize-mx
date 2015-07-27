@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2015-06-08"
+last_updated: "2015-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -38,6 +38,8 @@ La LVIII Legislatura del Poder Legislativo del Estado Libre y Soberano de Aguasc
 Resolución
 
 UNICO.- Se Ratifica el Decreto 37 expedido por esta LVIII Legislatura del Congreso del Estado, para quedar en los siguientes términos:
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 216, PUBLICADO EN EL P.O. DE 27 DE JULIO DE 2015, EN TANTO NO INICIE SU VIGENCIA LA AUTONOMÍA DE LA FISCALÍA GENERAL DE LA REPÚBLICA, LAS REFERENCIAS A DICHA FISCALÍA CONTENIDAS EN EL PRESENTE DECRETO, SE ENTENDERÁN HECHAS A LA PROCURADURÍA GENERAL DE LA REPÚBLICA.</small>
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
@@ -635,7 +637,9 @@ X. Intervenir en la formulación del inventario general de bienes muebles e inmu
 
 XI. Vigilar que el inventario a que se refiere la fracción anterior, esté siempre al corriente y que se hagan constar las altas y bajas tan luego como ocurran;
 
-XII. En los lugares donde no existan agencias del Ministerio Público, practicar las primeras diligencias de la averiguación previa y remitirlas, dentro de las 24 horas siguientes, al Procurador General de Justicia en el Estado;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+
+XII. En los lugares donde no existan agencias del Ministerio Público, practicar las primeras diligencias de la investigación correspondiente y remitirlas, dentro de las 24 horas siguientes, al Fiscal General del Estado;
 
 XIII. Procurar la regularización de la propiedad de los bienes del Municipio;
 
@@ -2198,3 +2202,13 @@ P.O. 8 DE JUNIO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
