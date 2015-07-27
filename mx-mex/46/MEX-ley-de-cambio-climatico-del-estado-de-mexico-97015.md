@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-cambio-climatico-del-estado-de-mexico-97015"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-19"
-last_updated: "2013-12-19"
+last_updated: "2015-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL DÍA EN QUE INICIE SU VIGENCIA EL DIVERSO POR EL SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 18 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, EN MATERIA DE CAMBIO CLIMÁTICO.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JULIO DE 2015.
 
 Ley publicada en la Sección Octava de la Gaceta del Gobierno del Estado de México, el jueves 19 de diciembre de 2013.
 
@@ -63,7 +61,7 @@ IV. Desarrollar los instrumentos de la política estatal en materia de cambio cl
 
 V. Garantizar la participación corresponsable e informada de los habitantes del Estado de México, en forma individual o colectiva, en materia de cambio climático;
 
-VI. Establecer los mecanismos para el ejercicio de los actos de inspección y vigilancia que permitan garantizar el cumplimiento y la observancia de la presente Ley y de las disposiciones que de ella deriven, así como para la imposición de medidas de seguridad y las sanciones administrativas que, en su caso, resulten aplicables, y (sic)
+VI. Establecer los mecanismos para el ejercicio de los actos de inspección y vigilancia que permitan garantizar el cumplimiento y la observancia de la presente Ley y de las disposiciones que de ella deriven, así como para la imposición de medidas de seguridad y las sanciones administrativas que, en su caso, resulten aplicables, y
 
 VII. Desarrollar las medidas y prácticas que incidan en reducir la vulnerabilidad, mejoren las capacidades de adaptación y permitan desarrollar propuestas de mitigación de los efectos del cambio climático producidos por las emisiones de GEI; y
 
@@ -309,7 +307,9 @@ f) De la Secretaría de Desarrollo Económico;
 
 g) De la Secretaría de Desarrollo Metropolitano;
 
-h) De la Secretaría del Agua y Obra Pública; y
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2015)</small>
+
+h) De la Secretaría de Infraestructura; y
 
 i) De la Secretaría de Desarrollo Agropecuario.
 
@@ -401,7 +401,9 @@ h) De la Secretaría de Desarrollo Social;
 
 i) De la Secretaría de Desarrollo Urbano;
 
-j) De la Secretaría del Agua y Obra Pública;
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2015)</small>
+
+j) De la Secretaría de Infraestructura;
 
 k) De la Secretaría de Desarrollo Agropecuario;
 
@@ -413,7 +415,7 @@ n) De la Secretaría de Desarrollo Metropolitano;
 
 ñ) De la Secretaría de la Contraloría;
 
-o) De la Secretaría de Comunicaciones;
+o) (DEROGADO, G.G. 27 DE JULIO DE 2015)
 
 p) De la Secretaría de Transporte; y
 
@@ -703,7 +705,9 @@ III. La Secretaría de Finanzas;
 
 IV. La Secretaría de Desarrollo Urbano;
 
-V. La Secretaría del Agua y Obra Pública;
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+
+V. La Secretaría de Infraestructura;
 
 VI. La Secretaría de Desarrollo Agropecuario;
 
@@ -1012,3 +1016,29 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MTRO. EFRÉN ROJAS DÁVILA
 
 (RÚBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 27 DE JULIO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno".
+
+TERCERO. La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, el dictamen de reconducción correspondiente de las Secretarías del Agua y Obra Pública y de Comunicaciones; y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre la dependencia señalada en el presente Decreto.
+
+CUARTO. El Ejecutivo deberá expedir el Reglamento Interior de la Secretaría de Infraestructura en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor de este Decreto.
+
+QUINTO. Las atribuciones que se otorgan a la Secretaría de Infraestructura en el presente Decreto, en tanto se expida el Reglamento Interior y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de las Secretarías que se fusionan mediante el presente Decreto.
+
+SEXTO. Los recursos humanos, materiales y financieros de la Secretaría del Agua y Obra Pública y de la Secretaría de Comunicaciones serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Infraestructura.
+
+SÉPTIMO. Los derechos laborales adquiridos por los servidores públicos adscritos a la Secretaría del Agua y Obra Pública y la Secretaría de Comunicaciones, al pasar a formar parte de la Secretaría de Infraestructura, permanecerán en las mismas condiciones.
+
+OCTAVO. Los asuntos y demás procedimientos que se encuentren en trámite en la Secretaría del Agua y Obra Pública y en la Secretaría de Comunicaciones se concluirán conforme a su legislación vigente hasta antes de la entrada en vigor del presente Decreto.
+
+NOVENO. Cuando en otros ordenamientos legales administrativos, documentación y papelería se haga referencia a las Secretarías del Agua y Obra Pública y de Comunicaciones, se entenderá que se refieren a la Secretaría de Infraestructura.
+
+DÉCIMO. Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento del presente Decreto.
+
+DÉCIMO PRIMERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
