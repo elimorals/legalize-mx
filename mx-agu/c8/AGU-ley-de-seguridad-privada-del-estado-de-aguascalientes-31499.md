@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-privada-del-estado-de-aguascalientes-31499"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-26"
-last_updated: "2012-11-05"
+last_updated: "2015-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 LEY DE SEGURIDAD PRIVADA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2009.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 5 DE NOVIEMBRE DE 2012, NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 142 PUBLICADO EN EL P.O. DE 12 DE FEBRERO DE 2004.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 26 de mayo de 2003.
 
@@ -189,7 +187,7 @@ g). Video vigilancia.
 
 El diseño, fabricación, reparación, instalación, mantenimiento, supervisión o comercialización de equipos, dispositivos, aparatos, servicios, sistemas o procedimientos técnicos especializados aplicables en alguna de las anteriores modalidades serán prestados con las autorizaciones otorgadas por las autoridades competentes en los términos de los ordenamientos que resulten aplicables;
 
-III. Anexar le solicitud:
+III. Anexar a la solicitud:
 
 a). Copia Certificada del acta de nacimiento, o acta constitutiva así como de las modificaciones a sus estatutos, si es persona moral;
 
@@ -243,7 +241,7 @@ En caso de resultar procedente la expedición de la autorización, la Secretarí
 
 ###### Artículo 11.
 
-La autorización que se otorgue es intransferible y especificará los datos generales del titular tales como nombre o razón social, en su caso, el nombre del representante del y el nombre de los socios, el domicilio desglosado, la modalidad que se autoriza, los límites o condiciones de operación, el número de registro, la fecha de expedición y la fecha de expiración.
+La autorización que se otorgue es intransferible y especificará los datos generales del titular, tales como nombre o razón social, en su caso, el nombre del representante legal y el nombre de los socios, el domicilio desglosado, la modalidad que se autoriza, los limites o condiciones de operación, el número de registro, la fecha de expedición y la fecha de expiración.
 
 La vigencia de la autorización será de un año, la cual habrá de hacerse del conocimiento de los Ayuntamientos del Estado.
 
@@ -307,9 +305,11 @@ IX. Cualquier otro dato que sea necesario, a juicio de la Secretaría o del C-4,
 
 ### CAPITULO CUARTO. De los Requisitos para Desempeñar las Funciones de Personal Operativo en el Servicio de Seguridad Privada y de lo Principios de Actuación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2015)</small>
+
 ###### Artículo 16.
 
-Previamente a la contratación del personal operativo, los prestadores del servicio deberán presentar por escrito, ante el C-4, la relación de aspirantes, conteniendo nombre completo, la CURP (Clave Única de Registro Poblacional) y en su caso la CUIP (Clave Única de Identificación Permanente) para que haga las consultas indispensables a la Procuraduría General de Justicia del Estado, a la Procuraduría General de la República, al Sistema Nacional de Información en Seguridad Pública y a la Secretaría de Seguridad Pública Federal, sobre la información de los antecedentes de los aspirantes.
+Previamente a la contratación del personal operativo, los prestadores del servicio deberán presentar por escrito, ante el C-4, la relación de aspirantes, conteniendo nombre completo, la CURP (Clave Única de Registro Poblacional) y en su caso la CUIP (Clave Única de Identificación Permanente) para que haga las consultas indispensables a la Fiscalía General del Estado, Fiscalía General de la República, al Sistema Nacional de Información en Seguridad Pública y a la Secretaría de Seguridad Pública Federal, sobre la información de los antecedentes de los aspirantes.
 
 El C-4 deberá de informar al prestador del servicio y a la Secretaría dentro de los diez días hábiles siguientes a la presentación del escrito, el resultado de la consulta, debiendo expedir, cuando sea procedente la Constancia de Viabilidad. En el supuesto de que el C-4 no emita su respuesta en el plazo antes señalado se presumirá, salvo prueba en contrario, que no existe inconveniente para la contratación del personal.
 
@@ -674,3 +674,13 @@ P.O. 24 DE AGOSTO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
