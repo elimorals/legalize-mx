@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fomento-economico-para-el-estado-de-mexico-76536"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-07"
-last_updated: "2015-01-13"
+last_updated: "2015-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL G.G. EL 13 DE ENERO DE 2015, NÚMERO 6, SECCIÓN CUARTA, PÁGINAS 13 A LA 20, NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 367 PUBLICADO EN LA G.G. DE 18 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JULIO DE 2015.
 
 Ley publicada en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el martes 7 de septiembre de 2010.
 
@@ -317,13 +315,15 @@ a). La Secretaría del Trabajo;
 
 b). La Secretaría de Desarrollo Urbano;
 
-c). La Secretaría del Agua y Obra Pública;
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2015)</small>
+
+c). La Secretaría de Infraestructura;
 
 d). La Secretaría de Desarrollo Metropolitano;
 
 e). La Secretaría de Desarrollo Agropecuario;
 
-f). La Secretaría de Comunicaciones;
+f). (DEROGADO, G.G. 27 DE JULIO DE 2015)
 
 g). La Secretaría de Transportes;
 
@@ -1151,7 +1151,9 @@ a). Secretaría General de Gobierno: Dirección General de Protección Civil e I
 
 b). Secretaría de Desarrollo Urbano: Dirección General de Operación Urbana;
 
-c). Secretaría de Comunicaciones: Dirección General de Vialidad;
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2015)</small>
+
+c). Secretaría de Infraestructura, a través de la unidad administrativa correspondiente.
 
 d). Secretaría del Medio Ambiente: Direcciones Generales de Ordenamiento e Impacto Ambiental, y de Prevención y Control de la Contaminación Atmosférica;
 
@@ -1398,3 +1400,27 @@ OCTAVO. Se abroga la Ley que Regula las Casas de Empeño en el Estado de México
 NOVENO. Para el cumplimiento del presente Decreto las áreas y dependencias involucradas se ajustarán al presupuesto y recursos humanos asignados para el ejercicio fiscal del año que transcurre.
 
 DÉCIMO. Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+G.G. 27 DE JULIO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, el dictamen de reconducción correspondiente de las Secretarías del Agua y Obra Pública y de Comunicaciones; y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre la dependencia señalada en el presente Decreto.
+
+CUARTO. El Ejecutivo deberá expedir el Reglamento Interior de la Secretaría de Infraestructura en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor de este Decreto.
+
+QUINTO. Las atribuciones que se otorgan a la Secretaría de Infraestructura en el presente Decreto, en tanto se expida el Reglamento Interior y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de las Secretarías que se fusionan mediante el presente Decreto.
+
+SEXTO. Los recursos humanos, materiales y financieros de la Secretaría del Agua y Obra Pública y de la Secretaría de Comunicaciones serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Infraestructura.
+
+SÉPTIMO. Los derechos laborales adquiridos por los servidores públicos adscritos a la Secretaría del Agua y Obra pública y la Secretaría de Comunicaciones, al pasar a formar parte de la Secretaría de Infraestructura, permanecerán en las mismas condiciones.
+
+OCTAVO. Los asuntos y demás procedimientos que se encuentren en trámite en la Secretaría del Agua y Obra Pública y en la Secretaría de Comunicaciones se concluirán conforme a su legislación vigente hasta antes de la entrada en vigor del presente Decreto.
+
+NOVENO. Cuando en otros ordenamientos legales administrativos, documentación y papelería se haga referencia a las Secretarías del Agua y Obra Pública y de Comunicaciones, se entenderá que se refieren a la Secretaría de Infraestructura.
+
+DÉCIMO. Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento del presente Decreto.
+
+DÉCIMO PRIMERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
