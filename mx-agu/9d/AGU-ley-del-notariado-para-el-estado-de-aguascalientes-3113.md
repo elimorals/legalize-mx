@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-notariado-para-el-estado-de-aguascalientes-3113"
 country: "mx"
 rank: "ley"
 publication_date: "1980-06-01"
-last_updated: "2010-09-20"
+last_updated: "2015-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 1 de junio de 1980.
 
@@ -975,15 +975,19 @@ La clausura de un protocolo se efectuará siempre por el representante que el Go
 
 El notario que reciba una notaría, ya sea por vacancia de ésta o suspensión de quien la servía, deberá, siempre, hacerlo por riguroso inventario, con asistencia de un representante del Gobierno del Estado. El acta de recibo, con inclusión del inventario, se levantará y firmará por triplicado, remitiéndose un ejemplar al Gobernador del Estado, otro al encargado del Registro Público de la Propiedad y el último, quedará en poder del notario que reciba.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
+
 ###### ARTICULO 121.
 
-El notario que se encuentre en cualesquiera de las condiciones a que se refieren los artículos anteriores, tiene derecho a asistir a las clausuras de protocolo y a la entrega de su respectiva notaría, y recibirá desde luego, los muebles, valores y documentos personales, sin que en tal caso, haya lugar al inventario respectivo de que habla la parte final del Artículo 119 de esta Ley. Si la vacante temporal, o definitiva, es por causa de delito, asistirá a la clausura, inventario y entrega, el C. Procurador General de Justicia.
+El notario que se encuentre en cualesquiera de las condiciones a que se refieren los artículos anteriores, tiene derecho a asistir a las clausuras de protocolo y a la entrega de su respectiva notaría, y recibirá desde luego, los muebles, valores y documentos personales, sin que en tal caso, haya lugar al inventario respectivo de que habla la parte final del Artículo 119 de esta Ley. Si la vacante temporal, o definitiva, es por causa de delito, asistirá a la clausura, inventario y entrega, el Fiscal General del Estado.
 
 ### CAPITULO SEPTIMO. DEL CONSEJO AUXILIAR DEL NOTARIADO
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
+
 ###### ARTICULO 122.
 
-Se establecerá en el Estado, con residencia en la Capital, un Consejo Auxiliar del Notariado, que integrarán el C. Procurador General de Justicia, el C. Encargado del Registro Público de la Propiedad y tres notarios, designados éstos cada dos años por el C. Gobernador. Para el funcionamiento del Consejo, sus miembros elegirán un presidente y un secretario, debiendo quedar los restantes como vocales.
+Se establecerá en el Estado, con residencia en la Capital, un Consejo Auxiliar del Notariado, que integrarán el Fiscal General del Estado, el C. Encargado del Registro Público de la Propiedad y tres notarios, designados éstos cada dos años por el C. Gobernador. Para el funcionamiento del Consejo, sus miembros elegirán un presidente y un secretario, debiendo quedar los restantes como vocales.
 
 ###### ARTICULO 123.
 
@@ -1260,3 +1264,13 @@ P.O. 20 DE SEPTIEMBRE DE 2010.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
