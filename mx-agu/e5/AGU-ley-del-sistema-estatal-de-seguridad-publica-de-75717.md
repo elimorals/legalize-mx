@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2014-09-29"
+last_updated: "2015-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -101,7 +101,9 @@ El Mando Único que ejerza la Secretaría se entenderá única y exclusivamente 
 
 El Mando Único no aplicará respecto a la Dirección de Tránsito Municipal y la Jefatura Operativa de Policía Auxiliar y Comercial, así como tampoco en faltas de policía contenidas en el Código Municipal de Aguascalientes;
 
-XIII. Procuraduría: A la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+
+XIII. Fiscalía: A la Fiscalía General del Estado;
 
 XIV. Programa Rector: Al conjunto de contenidos encaminados a la profesionalización de los servidores públicos de las Instituciones Policiales e Instituciones de Procuración de Justicia respectivamente;
 
@@ -213,17 +215,17 @@ III. El Secretario de Gobierno del Estado;
 
 IV. El Secretario de Seguridad Pública del Estado;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
 
-V. El Procurador General de Justicia del Estado;
+V. El Fiscal General del Estado;
 
 > <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
 
 VI. El Comandante de la XIV Zona Militar;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
 
-VII. El Delegado Estatal de la Procuraduría General de la República;
+VII. Delegado Estatal de la Fiscalía General de la República;
 
 > <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
 
@@ -855,9 +857,11 @@ II. Prevención de delitos e infracciones administrativas en los respectivos ám
 
 III. Reacción, a fin de garantizar, mantener y restablecer el orden y la paz públicos.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
+
 ###### Artículo 62.
 
-Las unidades de policía encargadas de la investigación científica de los delitos se ubicarán en la estructura orgánica de la Procuraduría.
+Las unidades de policía encargadas de la investigación científica de los delitos se ubicarán en la estructura orgánica de la Fiscalía General del Estado.
 
 ###### Artículo 63.
 
@@ -1263,7 +1267,9 @@ El Estado y los municipios establecerán instancias colegiadas en las que partic
 
 Para tal fin, las instituciones policiales podrán constituir sus respectivas comisiones del servicio profesional de carrera policial y de honor y justicia, las que llevarán un registro de datos de los integrantes de sus instituciones. Dichos datos se incorporarán a las bases de datos del personal de Seguridad Pública.
 
-En la Procuraduría se integrarán órganos equivalentes para conocer y resolver toda controversia que se suscite con relación a los procedimientos de la Carrera Policial Ministerial, en la que podrán intervenir representantes de los policías ministeriales, en los términos que establezca su ley orgánica y reglamento interior.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
+
+En la Fiscalía se integrarán órganos equivalentes para conocer y resolver toda controversia que se suscite con relación a los procedimientos de la Carrera Policial Ministerial, en la que podrán intervenir representantes de los policías ministeriales, en los términos que establezca su ley orgánica y reglamento interior.
 
 ### CAPÍTULO X. Comisión del Servicio Profesional de Carrera Policial
 
@@ -1319,6 +1325,8 @@ Por cada uno de estos cargos se nombrará un suplente, a excepción del Secretar
 
 ### CAPÍTULO XI. Servicio de Carrera y Desarrollo Policial en la Institución de Procuración de Justicia
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
+
 ###### Artículo 97.
 
 La Comisión del Servicio Profesional de Carrera Policial de la Secretaría, es el organismo colegiado que tiene por objeto administrar, diseñar y ejecutar los lineamientos que definan los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento, así como dictaminar sobre la baja del servicio de los integrantes de las Instituciones Policiales adscritos a la Secretaría. Además, será la instancia encargada, en el ámbito de su competencia, de procurar que se cumplan los fines de la carrera policial.
@@ -1353,11 +1361,13 @@ VII. El Director General de Administración de la Secretaría, quien fungirá co
 
 ###### Artículo 100.
 
-El servicio de carrera del personal ministerial y pericial así como el Desarrollo Policial en la institución de Procuración de Justicia se sujetará a lo previsto en la Ley Orgánica de la Procuraduría General de Justicia del Estado, su reglamento interior y demás ordenamientos aplicables.
+El servicio de carrera del personal ministerial y pericial así como el Desarrollo Policial en la institución de Procuración de Justicia se sujetará a lo previsto en la Ley Orgánica de la Fiscalía General del Estado, su reglamento interior y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
 
 ###### Artículo 101.
 
-Las reglas y procesos en materia de Servicio de Carrera y Desarrollo Policial a que se refiere el Artículo anterior, serán aplicados, operados y supervisados por la Procuraduría.
+Las reglas y procesos en materia de Servicio de Carrera y Desarrollo Policial a que se refiere el Artículo anterior, serán aplicados, operados y supervisados por la Fiscalía.
 
 ###### Artículo 102.
 
@@ -1389,7 +1399,9 @@ El Estado y los municipios, de acuerdo con la Federación, realizarán los traba
 
 El Sistema Estatal de Estadística Criminológica es un instrumento metodológico a cargo del Secretariado Ejecutivo, que tendrá como finalidad orientar los procesos de planeación, organización, ejecución, control y evaluación de los objetivos, metas, estrategias y acciones político-criminales en el Estado.
 
-Las Instituciones Policiales del Estado y de los municipios, así como la Procuraduría, el Supremo Tribunal de Justicia y las instancias que conforman el Sistema Penitenciario Estatal, deberán suministrar la información que generen a efecto de integrar y organizar el Sistema Estatal de Estadística Criminológica. También se conformará con la información proporcionada por otras dependencias y organismos públicos que se estime necesaria para la elaboración del diagnóstico criminológico en el Estado y para la elaboración de estrategias en materia de prevención del delito y conductas antisociales.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
+
+Las Instituciones Policiales del Estado y de los municipios, así como la Fiscalía, el Supremo Tribunal de Justicia y las instancias que conforman el Sistema Penitenciario Estatal, deberán suministrar la información que generen a efecto de integrar y organizar el Sistema Estatal de Estadística Criminológica. También se conformará con la información proporcionada por otras dependencias y organismos públicos que se estime necesaria para la elaboración del diagnóstico criminológico en el Estado y para la elaboración de estrategias en materia de prevención del delito y conductas antisociales.
 
 Podrá recabar información de otras entidades federativas, del Distrito Federal y de la Federación, conforme a lo establecido en la Ley General del Sistema Nacional de Seguridad Pública.
 
@@ -1503,7 +1515,9 @@ Dentro del Sistema Único de Información Criminal se integrará una base nacion
 
 Esta base nacional de datos se actualizará permanentemente y se conformará con la información que aporten las Instituciones de Seguridad Pública, relativa a las investigaciones, procedimientos penales, órdenes de detención y aprehensión, procesos penales, sentencias o ejecución de penas.
 
-La Procuraduría podrá reservarse la información que ponga en riesgo alguna investigación, conforme a las disposiciones aplicables, proporcionándola al Sistema Único de Información Criminal después que deje de existir tal condición.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
+
+La Fiscalía podrá reservarse la información que ponga en riesgo alguna investigación, conforme a las disposiciones aplicables, proporcionándola al Sistema Único de Información Criminal después que deje de existir tal condición.
 
 ###### Artículo 119.
 
@@ -1601,7 +1615,9 @@ El Consejo Estatal de Consulta y Participación Ciudadana difundirá a través d
 
 Las medidas disciplinarias son las sanciones a que se hacen acreedores los integrantes de las Instituciones Policiales estatales y municipales, inclusive actuando como policía auxiliar, cuando desacaten los principios de actuación y las obligaciones que esta ley y demás disposiciones jurídicas les asignen. Las sanciones que deban imponerse y los procedimientos para aplicarlas, se especificarán en lo particular para cada institución policial, en sus reglamentos respectivos, atendiendo a lo dispuesto por esta ley. Deberá integrarse al expediente del infractor las resoluciones correspondientes. En la aplicación de las medidas disciplinarias se respetará la garantía de audiencia del infractor.
 
-El personal ministerial, pericial y de la policía ministerial se sujetará a lo dispuesto en la Ley Orgánica de la Procuraduría General de Justicia, su reglamento interior y demás disposiciones jurídicas aplicables, quedando a cargo de la Procuraduría la aplicación de las normas, supervisión y operación de los procedimientos respectivos.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
+
+El personal ministerial, pericial y de la policía ministerial se sujetará a lo dispuesto en la Ley Orgánica de la Fiscalía General del Estado, su reglamento interior y demás disposiciones jurídicas aplicables, quedando a cargo de la Fiscalía la aplicación de las normas, supervisión y operación de los procedimientos respectivos.
 
 ###### Artículo 130.
 
@@ -1808,3 +1824,13 @@ En tanto no inicie su vigencia la autonomía de la Fiscalía General del Estado,
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones contrarias al contenido del presente decreto.
+
+P.O. 27 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
