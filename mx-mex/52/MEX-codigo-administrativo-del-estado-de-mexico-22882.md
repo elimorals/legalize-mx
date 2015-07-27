@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2015-07-10"
+last_updated: "2015-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MEX"
 ---
 # CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE AGOSTO DE 2015 EN LA GACETA DEL GOBIERNO DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JULIO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -3763,9 +3761,9 @@ XIV. Las demás que se establezcan en otros ordenamientos.
 
 47.- La dirección y administración del Consejo está a cargo de una junta directiva y un director general.
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2015)</small>
 
-La junta directiva se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con trece vocales, que son los representantes de las secretarías de: Finanzas, de Salud, del Trabajo, de Desarrollo Urbano, de Desarrollo Agropecuario, de Desarrollo Económico, de Medio Ambiente, de Comunicaciones y de Transporte, el Rector de la Universidad Autónoma del Estado de México, el Presidente del Consejo Coordinador Empresarial Mexiquense, A. C. y a invitación del Presidente de la junta, dos científicos destacados en la materia.
+La junta directiva se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con trece vocales, que son los representantes de las Secretarías de: Finanzas, de Salud, del Trabajo, de Desarrollo Urbano y Metropolitano, de Desarrollo Agropecuario, de Desarrollo Económico, del Medio Ambiente, de infraestructura y de Movilidad, el Rector de la Universidad Autónoma del Estado de México, el Presidente del Consejo Coordinador Empresarial Mexiquense, A. C. y a invitación del Presidente de la Junta, dos científicos destacados en la materia.
 
 El director general será nombrado por el Gobernador del Estado, a propuesta del presidente de la junta.
 
@@ -9681,7 +9679,9 @@ III. Secretaría, a la Secretaría de Finanzas.
 
 IV. Contraloría, a la Secretaría de la Contraloría y órganos de control interno de las dependencias, entidades estatales y de los municipios;
 
-V. Secretaría del Ramo, a la Secretaría de Agua, Obra Pública e Infraestructura para el Desarrollo;
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+
+V. Secretaría del Ramo, a la Secretaría de Infraestructura;
 
 VI. Licitante, a la persona que participe en un procedimiento de licitación de obra pública o de servicios relacionados con la misma;
 
@@ -13337,11 +13337,15 @@ Los sistemas de transporte de pasajeros de alta capacidad o masivo y teleférico
 
 4.- Para efectos del presente Libro se entenderá por:
 
-l. Derecho de Vía.- A la franja de terreno de anchura variable, determinada en las normas técnicas que emita la Secretaría de Comunicaciones que se requiere para la construcción, conservación, rehabilitación, ampliación, protección y, en general, para el uso adecuado de la infraestructura vial primaria;
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+
+I. Derecho de Vía.- A la franja de terreno de anchura variable, determinada en las normas técnicas que emita la Secretaría de Infraestructura que se requiere para la construcción, conservación, rehabilitación, ampliación, protección y, en general, para el uso adecuado de la infraestructura vial primaria;
 
 II. Carril Confinado.- Es el carril en la infraestructura vial destinado para uso exclusivo de los vehículos que operan en los sistemas de transporte masivo o de alta capacidad;
 
-III. Dictamen de Incorporación e Impacto Vial.- A la resolución técnica de la Secretaría de Comunicaciones, que determina la factibilidad de incorporar a la infraestructura vial o de cuota, el flujo vehicular y peatonal previsto, como consecuencia de la construcción, ampliación, modernización u operación de edificaciones o instalaciones de impacto regional, así como las obras y acciones que, en su caso, deben llevarse a cabo para mitigar su efecto;
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+
+III. Dictamen de Incorporación e Impacto Vial.- A la resolución técnica de la Secretaría de Infraestructura, que determina la factibilidad de incorporar a la infraestructura vial o de cuota, el flujo vehicular y peatonal previsto, como consecuencia de la construcción, ampliación, modernización u operación de edificaciones o instalaciones de impacto regional, así como las obras y acciones que, en su caso, deben llevarse a cabo para mitigar su efecto;
 
 IV. Estación de Transferencia Modal.- Instalaciones con equipo tecnológico donde converge el transporte de alta capacidad con otro u otros medios de transporte;
 
@@ -13363,7 +13367,9 @@ VI bis. Responsable de un Inmueble.- Persona física o jurídica colectiva que t
 
 VI. ter. Anunciante.- Persona física o jurídica colectiva que difunda o publicite productos, bienes, servicios o actividades, haciendo uso de cualquier elemento que corresponda a la publicidad exterior que se encuentre instalada dentro del derecho de vía;
 
-VII. Secretaría.- A la Secretaría de Comunicaciones del Estado de México;
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+
+VII. Secretaría.- A la Secretaría de Infraestructura;
 
 > <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
 
@@ -13379,7 +13385,9 @@ VIII Bis. Transporte Teleférico.- El que se presta a través de un sistema elev
 
 VIII Ter. Zona de Influencia.- Es la extensión, que en relación al teleférico, se determinará en cada caso, atendiendo a la topografía y a la naturaleza geológica del terreno, a las peculiares instalaciones del teleférico y a las características de utilización pública o privada de la zona afectada; y
 
-IX. Zona de Seguridad.- Al predio lindante con el derecho de vía de anchura variable determinada en las normas técnicas que emita la Secretaría de Comunicaciones, cuya preservación y restricción de uso, son necesarios para evitar riesgos a los usuarios de la infraestructura vial.
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+
+IX. Zona de Seguridad.- Al predio lindante con el derecho de vía de anchura variable determinada en las normas técnicas que emita la Secretaría de Infraestructura, cuya preservación y restricción de uso, son necesarios para evitar riesgos a los usuarios de la infraestructura vial.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -13393,7 +13401,9 @@ IX. Zona de Seguridad.- Al predio lindante con el derecho de vía de anchura var
 
 I. El Gobernador del Estado;
 
-II. El Secretario de Comunicaciones:
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+
+II. El Secretario de Infraestructura.
 
 III. La Junta de Caminos del Estado de México;
 
@@ -13773,7 +13783,7 @@ Las disposiciones reglamentarias aplicables y la Secretaría, mediante disposici
 
 39.- Las concesiones se otorgarán mediante concurso público, en el que se establezcan los mismos requisitos y condiciones para todos los participantes, a sociedades mercantiles constituidas conforme a las leyes mexicanas, en los términos que se establezcan en el presente Libro y los reglamentos respectivos.
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE JULIO DE 2015)</small>
 
 ## TITULO TERCERO. De las Concesiones, Permisos y Dictámenes
 
@@ -13785,11 +13795,17 @@ Las disposiciones reglamentarias aplicables y la Secretaría, mediante disposici
 
 ###### Artículo 17.
 
-40.- El otorgamiento de las concesiones es facultad exclusiva e indelegable de la Secretaría y su titular es el único facultado para firmar el título de concesión. El Secretario de Comunicaciones podrá encomendar a los Organismos Auxiliares del sector la tramitación del concurso, de conformidad con el procedimiento siguiente:
+40.- El otorgamiento de las concesiones es facultad exclusiva e indelegable de la Secretaría y su titular es el único facultado para firmar el título de concesión. El Secretario de Infraestructura podrá encomendar a los Organismos Auxiliares del sector la tramitación del concurso, de conformidad con el procedimiento siguiente:
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 l. La Secretaría, de oficio o a petición de parte interesada, previo estudio, podrá expedir convocatoria pública para que, en el plazo que se establezca en la reglamentación de este Libro, se presenten propuestas;
 
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
 II. La convocatoria se publicará simultáneamente en la Gaceta del Gobierno, en un periódico de amplia circulación nacional y en otro de amplia circulación estatal, así como en los medios electrónicos de difusión;
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 III. Las bases del concurso incluirán como mínimo:
 
@@ -13807,6 +13823,8 @@ f) Las características de la operación de servicios y tarifas iniciales; y
 
 g) La indicación de que las propuestas deberán incluir medidas o acciones para mejorar el medio ambiente en la zona de influencia de la infraestructura que se licita, como aportación del proyecto.
 
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
 IV. Podrán participar uno o varios interesados que demuestren:
 
 a) Solvencia económica;
@@ -13819,11 +13837,19 @@ d) Capacidad administrativa y financiera; y
 
 e) Cumplir con los demás requisitos que establezcan las bases que expida la Secretaría.
 
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
 V. La Secretaría, con base en el análisis comparativo de las propuestas admitidas, emitirá el dictamen que servirá de base para el fallo; éste último será dado a conocer a todos los participantes y contendrá, además, la información relativa a las propuestas que se desechen y las causas que la motivaren;
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 VI. La propuesta ganadora estará a disposición de los interesados durante diez días hábiles a partir de que se haya dado a conocer el fallo correspondiente, para que manifiesten lo que a su derecho convenga;
 
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+
 VII. No se otorgará la concesión cuando ninguna de las propuestas presentadas cumpla con las bases del concurso o por caso fortuito o fuerza mayor. En este caso, se declarará desierto el concurso.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 Declarada desierta una licitación pública, se podrá adjudicar la concesión a través del procedimiento de invitación restringida a cuando menos tres personas.
 
@@ -14303,11 +14329,11 @@ XV. Las demás que se señalen en este Libro, en su Reglamento Interno, el Progr
 
 La organización y funcionamiento de la Junta se rige por el reglamento interno y su manual de organización que expida el consejo directivo.
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2015)</small>
 
 ###### Artículo 17.
 
-67.- El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y cuenta con siete vocales, que son: el Secretario de Comunicaciones quien lo preside, los representantes de las secretarías de Finanzas, de Desarrollo Urbano, de Agua y Obra Pública, de Medio Ambiente, y los directores generales de Vialidad y del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México.
+67.- El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México, y cuenta con siete vocales, que son: El Secretario de Infraestructura quien lo preside, los representantes de las Secretarías de: Finanzas, de Desarrollo Urbano y Metropolitano, del Medio Ambiente y los directores generales de Vialidad y del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -14407,11 +14433,11 @@ XXI. Las demás que se señalen en este Libro y otras disposiciones.
 
 La organización y funcionamiento del Sistema se rige por el reglamento interno expedido por el consejo directivo.
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2015)</small>
 
 ###### Artículo 17.
 
-73.- El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y cuenta con siete vocales, que son: el Secretario de Comunicaciones quien lo preside, los representantes de las secretarías de Finanzas, de Desarrollo Urbano, de Agua y Obra Pública, de Medio Ambiente, y los directores generales de Vialidad y de la Junta de Caminos del Estado de México.
+73.- El consejo directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con siete vocales, que son: el Secretario de Infraestructura quien lo preside, los representantes de las secretarías de Finanzas, de Desarrollo Urbano y Metropolitano, del Medio Ambiente, y los directores generales de Vialidad y de la Junta de Caminos del Estado de México.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -14457,7 +14483,9 @@ l. Proponer y ejecutar planes, programas, proyectos y acciones para el diseño, 
 
 II. Promover y fomentar la participación de la iniciativa privada en la construcción, administración, operación, explotación, mantenimiento, rehabilitación y conservación de infraestructura y operación de transporte de alta capacidad, de estaciones de transferencia modal, así como del sistema de transporte teleférico y las estaciones de origen-destino e intermedias que se requieren para su eficiente funcionamiento;
 
-III. Presentar a consideración del Secretario de Comunicaciones, para su autorización y firma, en su caso:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE JULIO DE 2015)</small>
+
+III. Presentar a consideración del Secretario de Infraestructura, para su autorización y firma, en su caso:
 
 > <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
@@ -14465,9 +14493,9 @@ a) Proyectos para otorgar o ampliar el plazo de las concesiones y contratos para
 
 b) Proyectos sustentados en los que se proponga la terminación anticipada, revocación o rescate de las concesiones o contratos.
 
-> <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
 
-IV. Llevar a cabo, previa autorización del Secretario de Comunicaciones, los procedimientos de licitación pública hasta la publicación del fallo, para el otorgamiento de concesiones y contratos para la construcción, administración, operación, explotación, rehabilitación, mantenimiento y conservación de la infraestructura y operación de transporte de alta capacidad y teleférico, así como estaciones de transferencia modal y las estaciones de origen-destino e intermedias que se requieren para el eficiente funcionamiento del teleférico;
+IV. Llevar a cabo, previa autorización del Secretario de Infraestructura, los procedimientos de licitación pública hasta la publicación del fallo, para el otorgamiento de concesiones y contratos para la construcción, administración, operación, explotación, rehabilitación, mantenimiento y conservación de la infraestructura y operación de transporte de alta capacidad y teleférico, así como estaciones de transferencia modal y las estaciones de origen-destino e intermedias que se requieren para el eficiente funcionamiento del teleférico:
 
 > <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
 
@@ -14523,11 +14551,11 @@ XVI. Las demás que se señalen en este Libro y otras disposiciones.
 
 La organización y funcionamiento del Sistema se rige por el Reglamento Interno expedido por el Consejo Directivo.
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 27 DE JULIO DE 2015)</small>
 
 ###### Artículo 17.
 
-79.- El Consejo Directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y cuenta con ocho vocales, que son: el Secretario de Comunicaciones, quien lo preside, los representantes de las Secretarías de Finanzas, de Desarrollo Urbano, de Transporte y del Medio Ambiente, y los directores generales de Vialidad, de la Junta de Caminos del Estado de México y del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México.
+79.- El Consejo Directivo se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con ocho vocales, que son: el Secretario de Infraestructura, quien lo preside, los representantes de las Secretarías de Finanzas, de Desarrollo Urbano y Metropolitano, de Movilidad y del Medio Ambiente, y los directores generales de Vialidad, de la Junta de Caminos del Estado de México y del Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -14723,7 +14751,9 @@ III. Construcciones: a toda obra, edificación o instalación de carácter priva
 
 IV. Normas Técnicas: a las Normas Técnicas Complementarias de Construcción, en materia de diseño urbano y arquitectónico, procesos constructivos, estructuras e instalaciones;
 
-V. Secretaría: a la Secretaría del Agua y Obra Pública; y
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+
+V. Secretaría: A la Secretaría de Infraestructura; y
 
 VI. Vía pública: a la infraestructura vial primaria y local definidas en el Libro Séptimo del Código, que tiene por objeto el libre tránsito de personas, bienes y servicios; el alojamiento de redes de infraestructura; así como el dar acceso, iluminación, ventilación y asoleamiento a los inmuebles que la delimitan.
 
@@ -14839,7 +14869,9 @@ XI. Las demás que le confieran otras disposiciones legales.
 
 I. El titular de la Secretaría, quien fungirá como Presidente;
 
-II. Representantes especialistas de las Secretarías General de Gobierno, del Medio Ambiente, del Agua y Obra Pública, de Desarrollo Económico, de Desarrollo Urbano y de Salud;
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+
+II. Representantes especialistas de las Secretarías: General de Gobierno, del Medio Ambiente, de Infraestructura, de Desarrollo Económico, de Desarrollo Urbano y Metropolitano y de Salud;
 
 III. Las instituciones académicas de educación superior, de ciencia y tecnología, las asociaciones de profesionistas en la materia y las cámaras y asociaciones de industriales y de la construcción, que determine el Presidente del Comité, quienes deberán designar como representantes a especialistas en la materia; y
 
@@ -17598,3 +17630,27 @@ QUINTO. Se deberán adecuar los acuerdos, convenios y demás disposiciones en ma
 SEXTO. El Consejo Interno de la COPRISEM expedirá el Reglamento Interno respectivo, dentro del plazo de ciento ochenta días hábiles, contados a partir de la fecha de entrada en vigor del presente Decreto.
 
 SÉPTIMO. En tanto se expidan las disposiciones reglamentarias y administrativas correspondientes se aplicarán las vigentes que no sean contrarias a las previstas en esta Ley.
+
+G.G. 27 DE JULIO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno".
+
+TERCERO. La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, el dictamen de reconducción correspondiente de las Secretarías del Agua y Obra Pública y de Comunicaciones; y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre la dependencia señalada en el presente Decreto.
+
+CUARTO. El Ejecutivo deberá expedir el Reglamento Interior de la Secretaría de Infraestructura en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor de este Decreto.
+
+QUINTO. Las atribuciones que se otorgan a la Secretaría de Infraestructura en el presente Decreto, en tanto se expida el Reglamento Interior y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de las Secretarías que se fusionan mediante el presente Decreto.
+
+SEXTO. Los recursos humanos, materiales y financieros de la Secretaría del Agua y Obra Pública y de la Secretaría de Comunicaciones serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Infraestructura.
+
+SÉPTIMO. Los derechos laborales adquiridos por los servidores públicos adscritos a la Secretaría del Agua y Obra Pública y la Secretaría de Comunicaciones, al pasar a formar parte de la Secretaría de Infraestructura, permanecerán en las mismas condiciones.
+
+OCTAVO. Los asuntos y demás procedimientos que se encuentren en trámite en la Secretaría del Agua y Obra Pública y en la Secretaría de Comunicaciones se concluirán conforme a su legislación vigente hasta antes de la entrada en vigor del presente Decreto.
+
+NOVENO. Cuando en otros ordenamientos legales administrativos, documentación y papelería se haga referencia a las Secretarías del Agua y Obra Pública y de Comunicaciones, se entenderá que se refieren a la Secretaría de Infraestructura.
+
+DÉCIMO. Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento del presente Decreto.
+
+DÉCIMO PRIMERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
