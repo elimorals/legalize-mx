@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-comision-estatal-de-desarrollo-13040"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-10-11"
-last_updated: "2007-08-20"
+last_updated: "2015-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE DESARROLLO URBANO
 
-REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE DESARROLLO URBANO
+REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE DESARROLLO URBANO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL, PUBLICADO EN EL P.O. DE 27 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Suplemento al Núm. 41 del Periódico Oficial del Estado de Aguascalientes, el domingo 11 de octubre de 1998.
 
@@ -42,7 +44,7 @@ ORDEN DEL DIA:
 
 4.- Propuesta de "Reglamento Interior de la Comisión Estatal de Desarrollo Urbano".
 
-.
+...
 
 Por lo anterior se instruye al C. Secretario Técnico para que se notifique al promovente la presente resolución.
 
@@ -50,7 +52,7 @@ Por lo anterior se instruye al C. Secretario Técnico para que se notifique al p
 
 REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE DESARROLLO URBANO
 
-.
+...
 
 En consecuencia se emite la siguiente
 
@@ -642,7 +644,7 @@ Los asuntos en revisión en algunas de las Subcomisiones ya existentes seguirán
 
 SEGUNDO: Remítase el presente Reglamento al titular del Poder Ejecutivo del Estado para su aprobación definitiva, y a efecto de que ordene su publicación en el Periódico Oficial del Estado para su plena validez y vigencia.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 4 DE SEPTIEMBRE DE 2006.
 
@@ -659,3 +661,11 @@ SEGUNDO: Remítase el presente Reglamento al titular del Poder Ejecutivo del Est
 P.O. 20 DE AGOSTO DE 2007.
 
 ÚNICO.- Las presentes reformas al Reglamento Interior de la Comisión Estatal de Desarrollo Urbano, entrarán en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JULIO DE 2015.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga en lo conducente el Reglamento Interior de la Comisión del Estado publicado en el Periódico Oficial del Estado de fecha 20 de agosto del año 2007.
+
+TERCERO.- Siempre que en alguna disposición legal o reglamentaria se concedan facultades a la Comisión Estatal de Desarrollo Urbano y Ordenamiento Territorialdel (sic) Estado, dichas facultades se entenderán conferidas a la Comisión Estatal de Desarrollo Urbano y Ordenamiento Territorial.
