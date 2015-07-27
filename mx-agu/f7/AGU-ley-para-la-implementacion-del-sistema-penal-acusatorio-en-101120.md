@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-implementacion-del-sistema-penal-acusatorio-en-1011
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-02"
-last_updated: "2014-06-02"
+last_updated: "2015-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101120&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA IMPLEMENTACIÓN DEL SISTEMA PENAL ACUSATORIO EN EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de junio de 2014.
 
@@ -107,7 +107,9 @@ IV. El Presidente de la Comisión de Justicia del Honorable Congreso del Estado;
 
 V. El Secretario de Finanzas;
 
-VI. El Procurador General de Justicia;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+
+VI. El Fiscal General del Estado;
 
 VII. El Secretario de Seguridad Pública;
 
@@ -232,3 +234,15 @@ Dip. Verónica Sánchez Alejandre,
 SEGUNDA SECRETARIA.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 30 de mayo de 2014.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
