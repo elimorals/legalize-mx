@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-prevencion-social-de-la-violencia-y-la-95190"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-17"
-last_updated: "2013-07-18"
+last_updated: "2015-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DE 18 DE JULIO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JULIO DE 2015.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 17 de julio de 2013.
 
@@ -303,7 +301,9 @@ VII. Secretaría de Desarrollo Social.
 
 VIII. Secretaría de Desarrollo Urbano.
 
-IX. Secretaría del Agua y Obra Pública.
+> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+
+IX. Secretaría de Infraestructura.
 
 X. Secretaría de Desarrollo Agropecuario.
 
@@ -315,7 +315,7 @@ XIII. Secretaría de Desarrollo Metropolitano.
 
 XIV. Secretaría de la Contraloría.
 
-XV. Secretaría de Comunicaciones.
+XV. (DEROGADA, G.G. 27 DE JULIO DE 2015)
 
 XVI. Secretaría del Transporte.
 
@@ -620,3 +620,29 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MTRO. EFREN ROJAS DAVILA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 27 DE JULIO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, el dictamen de reconducción correspondiente de las Secretarías del Agua y Obra Pública y de Comunicaciones; y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre la dependencia señalada en el presente Decreto.
+
+CUARTO. El Ejecutivo deberá expedir el Reglamento Interior de la Secretaría de Infraestructura en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor de este Decreto.
+
+QUINTO. Las atribuciones que se otorgan a la Secretaría de Infraestructura en el presente Decreto, en tanto se expida el Reglamento Interior y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de las Secretarías que se fusionan mediante el presente Decreto.
+
+SEXTO. Los recursos humanos, materiales y financieros de la Secretaría del Agua y Obra Pública y de la Secretaría de Comunicaciones serán transferidos a partir de la entrada en vigor del presente Decreto a la Secretaría de Infraestructura.
+
+SÉPTIMO. Los derechos laborales adquiridos por los servidores públicos adscritos a la Secretaría del Agua y Obra pública y la Secretaría de Comunicaciones, al pasar a formar parte de la Secretaría de Infraestructura, permanecerán en las mismas condiciones.
+
+OCTAVO. Los asuntos y demás procedimientos que se encuentren en trámite en la Secretaría del Agua y Obra Pública y en la Secretaría de Comunicaciones se concluirán conforme a su legislación vigente hasta antes de la entrada en vigor del presente Decreto.
+
+NOVENO. Cuando en otros ordenamientos legales administrativos, documentación y papelería se haga referencia a las Secretarías del Agua y Obra Pública y de Comunicaciones, se entenderá que se refieren a la Secretaría de Infraestructura.
+
+DÉCIMO. Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento del presente Decreto.
+
+DÉCIMO PRIMERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
