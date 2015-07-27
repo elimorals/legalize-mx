@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2015-03-16"
+last_updated: "2015-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -431,7 +431,9 @@ VI. Un representante de la Secretaría de Desarrollo Económico;
 
 VII. Un representante de la Secretaría de Planeación y Desarrollo Regional;
 
-VIII. Un representante de la Procuraduría General del Estado;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+
+VIII. Un representante de la Fiscalía General del Estado;
 
 IX. Un representante del Instituto de Educación del Estado;
 
@@ -719,9 +721,9 @@ VII. Rendir un informe bimensual a la Coordinación General del Consejo de las a
 
 VIII. Realizar estudios estadísticos e investigaciones referentes al acceso a la justicia de las mujeres víctimas de violencia, así como de las causas y sentencias que se dictan en contra de las mujeres responsables de delitos;
 
-> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
 
-IX. Especializar a las y los agentes del Ministerio Público, peritos, personal adscritos a la Procuraduría General de Justicia del Estado que atiende a víctimas a través de programas y cursos permanentes en: derechos humanos y género, perspectiva de género para la debida diligencia en la conducción de averiguaciones previas y procesos judiciales relacionados con discriminación, y violencia, incorporación de la perspectiva de género en los servicios periciales, eliminación de estereotipos sobre el rol social de las mujeres, entre otros; y
+IX. Especializar a las y los agentes del Ministerio Público, peritos, personal adscritos a la Fiscalía General del Estado que atiende a víctimas a través de programas y cursos permanentes en: derechos humanos y género, perspectiva de género para la debida diligencia en la conducción de averiguaciones previas y procesos judiciales relacionados con discriminación, y violencia, incorporación de la perspectiva de género en los servicios periciales, eliminación de estereotipos sobre el rol social de las mujeres, entre otros; y
 
 > <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2013)</small>
 
@@ -759,9 +761,13 @@ Forman parte del Sector de Seguridad Pública y Justicia:
 
 I. La Secretaria de Seguridad Pública;
 
-II. La Procuraduría General de Justicia del Estado; y
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
 
-III. La Procuraduría de la Defensa del Menor y la Familia.
+II-. La Fiscalía General del Estado; y
+
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+
+III. La Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes.
 
 ###### Artículo 59.
 
@@ -783,13 +789,15 @@ VII. Rendir un informe bimensual a la Coordinación General del Consejo de las a
 
 VIII. Las demás que le asigne el Programa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2015)</small>
+
 ###### Artículo 60.
 
-Corresponde a la Procuraduría General de Justicia del Estado:
+Corresponde a la Fiscalía General del Estado:
 
-> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
 
-l. Promover, entre sus servidores públicos la atención especializada en los casos de violencia de género. Asimismo, capacitar por lo menos una vez al año al personal adscrito a la Procuraduría General de Justicia del Estado; en el trato digno y manejo adecuado de las y los denunciantes, para evitar su re victimización.
+I. Promover, entre sus servidores públicos la atención especializada en los casos de violencia de género. Asimismo, capacitar por lo menos una vez al año al personal adscrito a la Fiscalía General del Estado en el trato digno y manejo adecuado de las y los denunciantes, para evitar su re victimización.
 
 II. Implementar de manera permanente procesos de especialización sobre violencia de género contra las mujeres, dirigidos a los diversos niveles jerárquicos de su personal;
 
@@ -813,9 +821,11 @@ VII. Crear y administrar un sistema de registro público de los delitos que aten
 
 VIII. Las demás que le asigne el Programa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2015)</small>
+
 ###### Artículo 61.
 
-Corresponde a la Procuraduría para la Defensa del Menor y la Familia:
+Corresponde a la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes;
 
 I. Promover la recepción de atención integral para las víctimas de violencia;
 
@@ -1162,3 +1172,13 @@ P.O. 16 DE MARZO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
