@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-del-instituto-estatal-de-educacion-13857"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-01-22"
-last_updated: "1999-01-22"
+last_updated: "2015-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # REGLAMENTO INTERNO DEL INSTITUTO ESTATAL DE EDUCACION PUBLICA DE OAXACA
 
-REGLAMENTO INTERNO DEL INSTITUTO ESTATAL DE EDUCACION PUBLICA DE OAXACA
+REGLAMENTO INTERNO DEL INSTITUTO ESTATAL DE EDUCACIÓN PÚBLICA DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL INSTITUTO ESTATAL DE EDUCACIÓN PÚBLICA DE OAXACA, PUBLICADO EN EL P.O. DE 28 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Alcance del Periódico Oficial del Estado de Oaxaca, el viernes 22 de enero de 1999.
 
@@ -1566,3 +1568,13 @@ OAXACA DE JUAREZ, OAX., A PRIMERO DE NOVIEMBRE DE MIL NOVECIENTOS NOVENTA Y OCHO
 LIC. RAMON EDUARDO LOPEZ FLORES
 
 DIRECTOR GENERAL DEL I.E.E.P.O
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE JULIO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Oaxaca.
+
+SEGUNDO. Se abroga el Reglamento Interno del Instituto Estatal de Educación Pública de Oaxaca, publicado en el Periódico Oficial del Estado de Oaxaca, el 22 de enero de 1999. Se derogan todas las minutas, acuerdos, ordenes, oficios y disposiciones jurídicas que se opongan a las del presente Reglamento.
+
+TERCERO. Se deja sin efecto todo nombramiento otorgado, designado o reconocido con anterioridad a la entrada en vigor del presente Reglamento.
