@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-junta-directiva-del-instituto-13858"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-09-20"
-last_updated: "1997-09-20"
+last_updated: "2015-07-28"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13858&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # REGLAMENTO INTERNO DE LA JUNTA DIRECTIVA DEL INSTITUTO ESTATAL DE EDUCACION PUBLICA DE OAXACA
 
-REGLAMENTO INTERNO DE LA JUNTA DIRECTIVA DEL INSTITUTO ESTATAL DE EDUCACION PUBLICA DE OAXACA
+REGLAMENTO INTERNO DE LA JUNTA DIRECTIVA DEL INSTITUTO ESTATAL DE EDUCACIÓN PÚBLICA DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO INTERNO DE FUNCIONAMIENTO DE LA JUNTA DIRECTIVA DEL INSTITUTO ESTATAL DE EDUCACIÓN PÚBLICA DE OAXACA, PUBLICADO EN EL P.O. DE 28 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2015 (SIN EFECTOS).
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 20 de septiembre de 1997.
 
@@ -158,3 +160,11 @@ LIC. HECTOR ANUAR MAFUD MAFUD
 EL DIRECTOR GENERAL DEL INSTITUTO ESTATAL DE EDUCACION PUBLICA DE OAXACA
 
 LIC. RAMON EDUARDO LOPEZ FLORES
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE JULIO DE 2015.
+
+PRIMERO. El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca, por lo que deja de surtir efectos el Acuerdo emitido por el C. Gobernador del Estado, mediante el cual se dicta el Reglamento Interno de la Junta Directiva del Instituto Estatal de Educación Pública de Oaxaca, publicado el 20 de septiembre de 1997, en el Periódico Oficial del Estado de Oaxaca.
+
+SEGUNDO. Los integrantes del Comité Consultivo de 2015, serán electos dentro de los siguientes treinta días a partir de la publicación del presente Reglamento Interno, por lo cual se deberá de emitir la convocatoria correspondiente en forma inmediata.
