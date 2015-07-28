@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2015-07-14"
+last_updated: "2015-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2015.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 14 DE JULIO DE 2015.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 28 DE JULIO DE 2015.</small>
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -1009,7 +1009,7 @@ La Secretaría en el ámbito de su competencia, a través de la Dirección, ser�
 
 La Dirección para cumplir cabalmente con las funciones que le son determinadas por el presente Capítulo, podrá delegar las facultades que se le confieren en los funcionarios que designe.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 115.
 
@@ -1029,7 +1029,7 @@ Para ser miembro de la Asamblea General además de tener el carácter de vecino,
 
 En la jornada de elección de la Mesa Directiva de Vecinos, la Dirección levantará un registro de los ciudadanos que participen y éste servirá como base numérica para determinar el quórum de las sesiones de la Asamblea General subsecuentes.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 117.
 
@@ -5385,7 +5385,9 @@ VIII. Hacer uso de dispositivos tecnológicos que permitan obtener datos para co
 
 IX. Instalar cinemómetros en las vialidades y en el horario que para tal efecto designe, con base en la intensidad vehicular respectiva y a fin de permitir la obtención de datos que conlleven a la identificación y control del cumplimiento de los límites de velocidad de los vehículos;
 
-X. Infraccionar por contravenir las disposiciones del presente Capítulo cuando se registre a través de un cinemómetro que fueron excedidos los límites de velocidad, deberá contener los mismos requisitos que los determinados para un Acta de Infracción;
+> <small>(F. DE E., P.O. 28 DE JULIO DE 2015)</small>
+
+X. Infraccionar por contravenir las disposiciones del presente Capítulo y cuando se registre a través de un cinemómetro que fueron excedidos los límites de velocidad, deberá contener los mismos requisitos que los determinados para un Acta de Infracción;
 
 XI. Instalar programas para la prevención de accidentes generados por la ingesta de alcohol u otras substancias tóxicas, para conductores de vehículos motorizados con el fin de salvaguardar la vida, integridad física y propiedad de los conductores, pasajeros y peatones;
 
@@ -10077,7 +10079,7 @@ XVII. Producto cárnico: Se entenderá por éste lo contemplado en el artículo 
 
 XVIII. Reinspección: Revisión para constatar el cumplimiento de las disposiciones de este Código y demás ordenamientos legales aplicables en la materia; de las canales o subproductos que ya fueron sujetos a inspección por un rastro distinto del Municipal;
 
-XIX. Resello: Sello que se coloca con la leyenda “Inspeccionado y Aprobado” en la carne comercializada en el Municipio de Puebla que presenta alguna alteración en el sello original, como estar borroso o presumirse de dudosa procedencia; y
+XIX. Resello: Sello que se coloca con la leyenda "Inspeccionado y Aprobado" en la carne comercializada en el Municipio de Puebla que presenta alguna alteración en el sello original, como estar borroso o presumirse de dudosa procedencia; y
 
 XX. Subproducto: Derivado del producto cárnico, como jamón, tocino, queso de puerco, pastel de pollo, longaniza, chorizo, mortadela, salami, carne adobada, carne seca, cecina, tasajo, chicharrón, frituras, toda clase de embutidos, y cualquier otro semejante.
 
@@ -10307,7 +10309,7 @@ DE LAS SANCIONES
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo “De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas”, y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
+Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo "De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas", y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
 
 Para la aplicación de dichas sanciones se considerará como infracciones administrativas las contempladas en el artículo 1671 Bis fracciones I, II, III, IV, V y VI del presente Código. La reincidencia será sancionada con multa por el doble de las cantidades señaladas.
 
@@ -10412,6 +10414,8 @@ X. Proponer a los interesados los espacios que pueden ser utilizados para el eje
 XI. Ejercer funciones de conciliación en los casos que considere necesario con los comerciantes ambulantes, semifijos y prestadores ambulantes de servicios en la vía pública; y
 
 XII. Llevar el control de los permisos otorgados para el ejercicio del comercio informal en la vía pública, debiendo informar al respecto al Departamento de Vía Pública.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 642.
 
@@ -16539,25 +16543,37 @@ Todo el equipo e instalaciones mencionados en este apartado, deberán ser aproba
 
 Se llevará bitácora mensual respectiva de los equipos e instalaciones contra incendios de los inmuebles mencionados en el artículo 1103, las cuales serán presentadas durante las visitas e inspecciones que se realicen a los inmuebles.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+###### Artículo 1115.
+
+La Unidad Municipal de Protección Civil y el Departamento de Bomberos de Puebla, están facultados para indicar las protecciones contra incendio adicionales a las previstas en el presente apartado, según las condiciones especiales de los inmuebles y las actividades que en ellos se realicen.
 
 ###### Artículo 1115.
 
 La Unidad Operativa Municipal de Protección Civil y el Departamento de Bomberos de Puebla, están facultados para indicar las protecciones contra incendio adicionales a las previstas en el presente apartado, según las condiciones especiales de los inmuebles y las actividades que en ellos se realicen.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE AGOSTO DE 2012)</small>
+
+DE LA INTEGRACIÓN Y ORGANIZACIÓN DE LA ASAMBLEA GENERAL
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
+
 ###### Artículo 1116.
 
 Los casos no previstos en este apartado, quedarán sujetos a las disposiciones que al efecto dicte el C. Presidente Municipal.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+###### Artículo 1117.
+
+Es obligación ciudadana y de los medios de comunicación reportar directamente a la Unidad Municipal de Protección Civil el incumplimiento total o parcial del presente Capítulo.
+
+NORMAS PREVENTIVAS EXTINTORES
+
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
 
 ###### Artículo 1117.
 
 Es obligación ciudadana y de los medios de comunicación reportar directamente a la Unidad Operativa Municipal de Protección Civil el incumplimiento total o parcial del presente Capítulo.
 
-NORMAS PREVENTIVAS EXTINTORES
-
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 1118.
 
@@ -24653,7 +24669,7 @@ Las visitas de inspección se regirán y sujetarán a lo dispuesto en el artícu
 
 El producto cárnico que no esté amparado con la documentación de sanidad, legal procedencia y el sello del Rastro Municipal o del Rastro al que pertenece será inspeccionado por la autoridad sanitaria municipal; la disposición de éste será de acuerdo al criterio del médico veterinario responsable oficial o aprobado; cuando el producto cárnico esté en condiciones de sanidad que permitan su uso en la alimentación humana, previo pago de los derechos correspondientes, será resellado con la leyenda "Inspeccionado y Aprobado", pudiendo el propietario aprovecharlo en su venta directa o en la elaboración de productos comestibles; en caso contrario deberá ser decomisado haciéndose constar tal situación en el acta de decomiso correspondiente y el propietario, a su costa, deberá enviarlo a la planta de rendimiento de su elección para su aprovechamiento como harina de carne y/o desnaturalización, o en su caso, incineración.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1637 Bis 1.
 
@@ -24662,8 +24678,6 @@ Para el caso de la reinspección de los productos cárnicos y/o subproductos pro
 I. Si se encuentran alteraciones que los hagan impropios para el consumo humano, serán decomisados y se dispondrá de ellos en la forma en que se previene en el artículo inmediato anterior.
 
 II. Cuando estén en condiciones de sanidad que permitan su uso en la alimentación humana, previo pago de los derechos correspondientes, serán resellados con la leyenda "Inspeccionado y Aprobado", pudiendo el propietario aprovecharlo en su venta directa o en la elaboración de productos comestibles; esto también se hará constar en el acta respectiva.
-
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1637 Ter.
 
@@ -24937,7 +24951,7 @@ Los productos cárnicos que se transporten en el Municipio, deberán estar ampar
 
 El producto cárnico que se transporte sin cumplir con lo dispuesto en el artículo anterior será decomisado por la autoridad municipal y sometido a inspección sanitaria; adoptando las medidas señaladas en el artículo 1637 Bis del presente Código.
 
-Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación “México Calidad Suprema”, los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
