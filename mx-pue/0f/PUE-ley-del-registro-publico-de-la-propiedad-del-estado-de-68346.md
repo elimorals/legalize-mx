@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-registro-publico-de-la-propiedad-del-estado-de-68346"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-15"
-last_updated: "2014-11-13"
+last_updated: "2015-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2015.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de abril de 2009.
 
@@ -85,7 +85,7 @@ XI. Secretaría: La Secretaría de Finanzas y Administración del Gobierno del E
 
 XII. Secretario: El Secretario de Finanzas y Administración del Estado de Puebla; y
 
-XIII. Subsecretario: El Subsecretario de Ingresos de la Secretaría de Finanzas y Administración.
+XIII. (DEROGADA, P.O. 28 DE JULIO DE 2015)
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
 
@@ -1241,7 +1241,7 @@ CUARTO.- El Ejecutivo del Estado fijará las medidas para la transición al sist
 
 QUINTO.- En todo ordenamiento estatal que haga referencia al Registro Público de la Propiedad y del Comercio se entenderá que se refiere al Registro Público de la Propiedad, asimismo cuando se haga referencia al Director del Registro Público de la Propiedad y del Comercio, se entenderá el Director del Registro Público de la Propiedad.
 
-EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los doce días del mes de marzo de dos mil nueve.- Diputado Presidente.- JOSÉ OTHÓN BAILLERES CARRILES.- Rúbrica.- Diputada Vicepresidenta.- CARMEN ERIKA SUCK MENDIETA.- Rúbrica.- Diputada Secretaria.- LUANA ARMIDA AMADOR VALLEJO.- Rúbrica.- Diputada Secretaria.- IRMA RAMOS GALlNDO.- Rúbrica.
+EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los doce días del mes de marzo de dos mil nueve.- Diputado Presidente.- JOSÉ OTHÓN BAILLERES CARRILES.- Rúbrica.- Diputada Vicepresidenta.- CARMEN ERIKA SUCK MENDIETA.- Rúbrica.- Diputada Secretaria.- LUANA ARMIDA AMADOR VALLEJO.- Rúbrica.- Diputada Secretaria.- IRMA RAMOS GALINDO.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los diecisiete días del mes de marzo de dos mil nueve.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación LICENCIADO MARIO ALBERTO MONTERO SERRANO.- Rúbrica.
 
@@ -1270,3 +1270,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Las disposiciones reglamentarias que deriven de las presentes reformas, se efectuarán dentro del plazo de sesenta días hábiles, a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JULIO DE 2015.
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. El Ejecutivo Estatal realizará las modificaciones que resulten necesarias a los ordenamientos reglamentarios conducentes.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO. Todo trámite que se haya iniciado o se encuentre en proceso a la Entrada en vigor del presente Decreto, deberá continuar tramitándose de acuerdo a las disposiciones legales y normatividad vigentes al momento de iniciarse.
