@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2014-11-18"
+last_updated: "2015-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -1362,6 +1362,10 @@ En los programas a que se refiere el artículo anterior, se incorporarán accion
 ###### ARTICULO 133 Bis.
 
 Los propietarios de establecimientos destinados a la elaboración y consumo de alimentos o bebidas que cuenten con más de dos sucursales, deberán publicar en el listado, carta o menú, las calorías que contiene cada alimento o bebida, de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2015)</small>
+
+En los establecimientos señalados en el párrafo que antecede se deberá proporcionar de manera obligatoria y gratuita, agua purificada a los clientes que así lo soliciten, hasta por una cantidad de doscientos cincuenta mililitros.
 
 ### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
 
@@ -2723,11 +2727,13 @@ IV. La calidad de reincidente del infractor;
 
 V. El beneficio obtenido por el infractor, como resultado de la infracción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2015)</small>
+
+###### Artículo 308.
+
+Se sancionará con multa hasta 1,000 veces el salario mínimo general diario vigente en el Estado de Puebla, la violación de las disposiciones contenidas en los artículos 48, 49, 74, 89, 133 Bis párrafo segundo, 144, 145, 146, 158, 186, 187, 191, 193, 196, 197, 202, 208, 214, 215, 216, 218, 258, 279 y 280 de esta Ley.
+
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
-
-###### ARTICULO 308.
-
-Se sancionará con multa hasta 1,000 veces el salario mínimo general diario vigente en el Estado de Puebla, la violación de las disposiciones contenidas en los artículos 48, 49, 74, 89, 144, 145, 146, 158, 186, 187, 191, 193, 196, 197, 202, 208, 214, 215, 216, 218, 258, 279 y 280 de esta Ley.
 
 La violación de la disposición contenida en el artículo 89 de esta Ley, se sancionará con multa equivalente hasta de 100 veces el salario mínimo general diario vigente en la zona económica de que se trate.
 
@@ -3116,3 +3122,11 @@ P.O. 18 DE NOVIEMBRE DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE JULIO DE 2015.
+
+PRIMERO. En los establecimientos a que se refiere el artículo 133 Bis, tendrán un plazo no mayor de 300 días naturales, para dar cumplimiento con la presente reforma.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
