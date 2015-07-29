@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-coordinacion-para-el-desarrollo-metropolitano-del-78657"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-19"
-last_updated: "2014-11-19"
+last_updated: "2015-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78657&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE COORDINACIÓN PARA EL DESARROLLO METROPOLITANO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de enero de 2011.
 
@@ -127,29 +127,53 @@ Los Consejos para el Desarrollo Metropolitano son los órganos jerárquicos de c
 
 El Consejo para el Desarrollo Metropolitano se integrará de la siguiente manera:
 
-I. El Secretario de Gobierno, quien lo presidirá;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
 
-II. El Secretario de Desarrollo Sustentable, quien fungirá como Secretario Técnico;
+I. La persona Titular de la Secretaría de Gobierno, quien lo presidirá;
 
-III. El Secretario de Obras Públicas;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
 
-IV. El Secretario de Hacienda;
+II. La persona Titular de la Secretaría de Desarrollo Sustentable, quien fungirá como Secretario Técnico;
 
-V. El Secretario de Desarrollo Social;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
 
-VI. El Titular de la Comisión Estatal del Agua;
+III. La persona Titular de la Secretaría de Obras Públicas;
 
-VII. Los Presidentes Municipales que integren la zona metropolitana de la que se trate;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
 
-VIII. Un representante del Poder Legislativo quien será el Presidente de la Comisión Legislativa en la materia competente;
+IV. La persona Titular de la Secretaría de Hacienda;
 
-IX. El Delegado de la Secretaría de Desarrollo Social en el Estado de Morelos;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
 
-X. El Delegado de la Secretaría del Medio Ambiente y Recursos Naturales en el Estado de Morelos;
+V. La persona Titular de la Secretaría de Desarrollo Social;
 
-XI. El Director General del Instituto de Desarrollo y Fortalecimiento Municipal del Estado;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
 
-XII. El Titular del Comité de Planeación para el Desarrollo del Estado de Morelos.
+VI. La persona Titular de la Comisión Estatal del Agua;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+VII. Las y los Presidentes Municipales que integren la zona metropolitana de la que se trate.
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+VIII. Un representante del Poder Legislativo que será quien presida la Comisión Legislativa en la materia competente.
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+IX. La persona Titular de la Delegación de la Secretaria de Desarrollo Social en el Estado de Morelos.
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+X. La persona Titular de la Delegación de la Secretaría del Medio Ambiente y Recursos Naturales del Estado de Morelos;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+XI. La persona Titular de la Dirección General del Instituto de Desarrollo y Fortalecimiento Municipal del Estado y
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+XII. La persona Titular del Comité de Planeación para el Desarrollo del Estado de Morelos.
 
 > <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
 
@@ -281,17 +305,29 @@ Los subcomités Técnicos de Evaluación de Proyectos son los órganos integrado
 
 El Subcomité Técnico de Evaluación de Proyectos de cada zona metropolitana, estará integrado de la siguiente manera:
 
-I. El Secretario de Desarrollo Sustentable, quien lo presidirá;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
 
-II. El Secretario de Obras Públicas;
+I. La persona Titular de la Secretaría de Desarrollo Sustentable, quien lo presidirá;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+II. La persona Titular de la Secretaría de Obras Públicas;
 
 III. Un representante del Comité de Planeación para el Desarrollo del Estado de Morelos (COPLADE) o su equivalente;
 
-IV. El titular de la Comisión Estatal del Agua;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
 
-V. Los Titulares de los Sistemas Operadores de Agua Potable y Saneamiento de los Municipios que integren la zona metropolitana de que se trate; y
+IV. La persona Titular de la Comisión Estatal del Agua;
 
-VI. Los Titulares de las áreas de obras públicas y desarrollo urbano de los Municipios que integren la zona metropolitana de que se trate.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+V. Las personas Titulares de los sistemas operadores de Agua Potable y Saneamiento de los Municipios que integren la zona metropolitana de que se trate; y
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+VI. Las personas Titulares de las áreas de obras públicas y desarrollo urbano de los Municipios que integren
+
+La zona metropolitana de que se trate. (sic)
 
 Todos los integrantes del Subcomité Técnico tendrán derecho de voz y voto. Por cada integrante propietario se nombrará a un suplente, quien deberá estar debidamente acreditado tendrá los mismos derechos de los titulares.
 
@@ -411,11 +447,11 @@ En el caso de existir un fideicomiso de administración de recursos federales pa
 
 Los recursos asignados a través del Fondo Metropolitano Estatal, se destinarán exclusivamente a financiar estudios, planes, programas, proyectos, acciones y obras de carácter metropolitano. Los programas, proyectos y obras a los que se destinen los recursos del Fondo, deberán ser viables y sustentables, además de ser el resultado de la planeación del desarrollo regional y urbano, así como, de los programas de ordenamiento de los asentamientos humanos en el territorio, por lo que deberán guardar congruencia con el Plan Estatal de Desarrollo y con los programas de desarrollo regional, subregional, urbano y especiales que se deriven del mismo, además de estar alineados con los Planes de Desarrollo Urbano y de los Municipios involucrados y comprendidos en la respectiva zona metropolitana.
 
-###### Artículo 27.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
-El Ejercicio de los recursos del Fondo Metropolitano del Estado de Morelos se sujetará a las Reglas de Operación que establezca la dependencia del Poder Ejecutivo Estatal encargada de las finanzas públicas y bajo la supervisión de la Auditoria Superior de Fiscalización, siempre y cuando no se mezclen con recursos federales destinados al desarrollo metropolitano de la Entidad, en cuyo caso se hará conforme a la normatividad federal aplicable.
+###### Articulo 27.
 
-La operación de los proyectos estará a cargo de los órganos de coordinación metropolitana, de conformidad a las atribuciones previstas en la presente ley.
+El Ejercicio de los recursos del Fondo Metropolitano del Estado de Morelos se sujetará a las Reglas de Operación que establezca la dependencia del Poder Ejecutivo Estatal encargada de las finanzas públicas y bajo la supervisión de la Entidad Superior de Auditoría y Fiscalización, siempre y cuando no se mezclen con recursos federales destinados al desarrollo metropolitano de la Entidad, en cuyo caso se hará conforme a la normatividad federal aplicable.
 
 ###### Artículo 28.
 
@@ -484,3 +520,19 @@ P.O. 19 DE NOVIEMBRE DE 2014.
 Primero.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+P.O. 29 DE JULIO DE 2015.
+
+DECRETO NUMERO 2558, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 27 DE LA LEY DE COORDINACIÓN PARA EL DESARROLLO METROPOLITANO DEL ESTADO DE MORELOS.
+
+Primero.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+P.O. 29 DE JULIO DE 2015.
+
+DECRETO NÚMERO 2559, POR EL QUE SE REFORMAN LAS FRACCIONES I A XII DEL ARTÍCULO 6; Y LAS FRACCIONES I, II, IV, V Y VI DEL ARTÍCULO 13, AMBOS DE LA LEY DE COORDINACIÓN PARA EL DESARROLLO METROPOLITANO DEL ESTADO DE MORELOS.
+
+Primero.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
