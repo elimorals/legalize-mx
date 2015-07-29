@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-los-trabajadores-al-servicio-del-estado-de-tabasco-7837"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-31"
-last_updated: "2014-12-13"
+last_updated: "2015-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 31 de marzo de 1990.
 
@@ -244,6 +244,14 @@ LL).- Las análogas a las establecidas en los incisos anteriores, de igual maner
 ###### ARTICULO 21.
 
 Cuando el trabajador incurra en alguna de las causales de terminación a que se refiere la fracción V del Artículo anterior dentro de los 10 días siguientes, el titular o encargado de la Entidad Pública o Dependencia, podrá levantar acta administrativa, en la que se asentarán con toda precisión los hechos, declaraciones y pruebas que se estimen procedentes, firmándose ante la presencia de los testigos de asistencia en todo caso se otorgará el derecho de audiencia al trabajador e intervención a la representación sindical si la solicitare.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2015)</small>
+
+ARTICULO 21 BIS. El trabajador podrá solicitar a su elección, ante el Tribunal de Conciliación y Arbitraje, que se le reinstale en el trabajo que desempeñaba o que se le indemnice con el importe de tres meses de salario, a razón del que corresponda a la fecha en que se realice el pago.
+
+Si en el Juicio correspondiente la entidad pública respectiva no comprueba la causa de la rescisión, el trabajador tendrá derecho, además, a que se le paguen los salarios vencidos computados desde la fecha del despido hasta por un periodo máximo de doce meses.
+
+En caso de muerte del trabajador, dejaran de computarse los salarios vencidos como parte del conflicto, a partir de la fecha del fallecimiento.
 
 ### CAPITULO V. DE LAS RELACIONES ENTRE LAS ENTIDADES PUBLICAS Y SUS TRABAJADORES
 
@@ -1270,3 +1278,9 @@ P.O. 13 DE DICIEMBRE DE 2014.
 DECRETO 132, POR EL QUE SE ADICIONA UN ARTÍCULO 121 BIS A LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE JULIO DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
