@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-para-el-estado-de-michoacan-de-ocampo-59759"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-02-11"
-last_updated: "2013-03-12"
+last_updated: "2015-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59759&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2015.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el lunes 11 de febrero de 2008.
 
@@ -617,7 +617,7 @@ Tiene derecho a que se le reembolsen los gastos necesarios.
 
 ###### Artículo 99.
 
-El que posee en concepto de dueño, por más de un año pacífica (sic), continua y públicamente, aunque su posesión sea de mala fe, con tal que no sea delictuosa, tiene derecho:
+El que posee en concepto de dueño, por más de un año pacífica, continua y públicamente, aunque su posesión sea de mala fe, con tal que no sea delictuosa, tiene derecho:
 
 I. A las dos terceras partes de los frutos industriales que haga producir a la cosa poseída, perteneciendo la otra tercera parte al propietario, si reivindica la cosa antes de que se prescriba; y,
 
@@ -1805,7 +1805,7 @@ La cantidad de agua que pueda hacerse pasar por un acueducto establecido en pred
 
 ###### Artículo 360.
 
-Si el que disfruta del acueducto necesitare ampliarlo, deberá costear las obras necesarias y pagar el terreno que nuevamente ocupe y los daños que cause, conforme a lo dispuesto en los incisos (sic) IV y V del artículo 357.
+Si el que disfruta del acueducto necesitare ampliarlo, deberá costear las obras necesarias y pagar el terreno que nuevamente ocupe y los daños que cause, conforme a lo dispuesto en los incisos IV y V del artículo 357.
 
 ###### Artículo 361.
 
@@ -3149,7 +3149,7 @@ Si la cosa legada estuviere sujeta a usufructo, uso o habitación, el legatario 
 
 ###### Artículo 644.
 
-Puede el testador sustituir una o más personas al heredero o herederos instituidos, para el caso de que mueran antes que él, o de que no puedan o no quieran aceptar que él, o de que no puedan o no quieran aceptar la herencia (sic).
+Puede el testador sustituir una o más personas al heredero o herederos instituidos, para el caso de que mueran antes que él, o de que no puedan o no quieran aceptar que él, o de que no puedan o no quieran aceptar la herencia.
 
 ###### Artículo 645.
 
@@ -4901,7 +4901,7 @@ Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el d
 
 ###### Artículo 1001.
 
-Los supuestos previstos por el artículo anterior se tendrán por cumplidos mediante la utilización de medios electrónicos, ópticos o de cualquier otra tecnología, siempre que la información generada o comunicada en forma íntegra, a través de estos medios sea atribuible a las personas obligadas y accesible (sic) para su ulterior consulta.
+Los supuestos previstos por el artículo anterior se tendrán por cumplidos mediante la utilización de medios electrónicos, ópticos o de cualquier otra tecnología, siempre que la información generada o comunicada en forma íntegra, a través de estos medios sea atribuible a las personas obligadas y accesible para su ulterior consulta.
 
 En los casos en que la ley establezca como requisito que un acto jurídico deba otorgarse en instrumento ante fedatario público, éste y las partes obligadas podrán generar, enviar, recibir, archivar o comunicar la información que contenga los términos exactos en que las partes han decidido obligarse, mediante la utilización de medios electrónicos, ópticos o de cualquier otra tecnología, en cuyo caso el fedatario público, deberá hacer constar en el instrumento los elementos a través de los cuales se atribuye la información a las partes y conservar bajo su resguardo una versión íntegra de la misma para su ulterior consulta, otorgando el instrumento de conformidad con la legislación aplicable que lo rige.
 
@@ -5113,7 +5113,7 @@ La obligación del que emite el título al portador no desaparece, aunque demues
 
 ###### Artículo 1046.
 
-El suscritor del título al portador no puede oponer más excepciones que las que se refieren a la nulidad del mismo título, las que se deriven de su texto o las que tenga en contra del portador que lo presente (sic)
+El suscritor del título al portador no puede oponer más excepciones que las que se refieren a la nulidad del mismo título, las que se deriven de su texto o las que tenga en contra del portador que lo presente
 
 ###### Artículo 1047.
 
@@ -7568,6 +7568,18 @@ Si se ha convenido un interés más alto que el legal, el deudor, después de se
 ###### Artículo 1558.
 
 Las partes no pueden, bajo pena de nulidad, convenir de antemano que los intereses se capitalicen y que produzcan intereses.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2015)</small>
+
+Artículo 1558 bis. Cuando se vaya a realizar u otorgarse un acto jurídico en el que se cree, declare, reconozca, adquiera, trasmita, modifique, limite, grave o extinga la propiedad o posesión de bienes inmuebles, o cualquier derecho real sobre los mismos o que sin ser inscribible, el notario o autoridad ante quien se haga el otorgamiento, podrá solicitar al Registro Público de la Propiedad del Estado de Michoacán certificado sobre la existencia o inexistencia de gravámenes o anotaciones en relación con la misma y del titular o titulares registrales. El Registro Público de la Propiedad del Estado de Michoacán expedirá dicho certificado, en los términos que marca la Ley de Ingresos del Estado. En dicha solicitud que surtirá efectos de primer aviso preventivo, deberá mencionarse la operación y bien inmueble o derecho real de que se trate, el nombre de su titular o titulares y el respectivo antecedente registral. El registrador, con esa solicitud y sin cobro de derechos por concepto de esta anotación, practicará inmediatamente la nota de presentación correspondiente a dicho aviso preventivo en el folio relativo, asiento que tendrá vigencia por un término de treinta días naturales a partir de la fecha de presentación de la solicitud. De no perfeccionarse el acto jurídico del cual se haya dado el primer aviso preventivo, el notario en cualquier momento podrá solicitar la cancelación de dicha anotación.
+
+Una vez firmado el instrumento notarial que produzca cualquiera de las consecuencias mencionadas en el párrafo que antecede, el Notario ante quien se otorgó deberá dentro de los diez días hábiles siguientes dar un segundo aviso preventivo acerca de la operación de que se trate al Registro Público de la Propiedad del Estado de Michoacán y contendrá además de los datos mencionados en el párrafo anterior, la fecha del acto jurídico, la de su firma y los nombres de las partes contratantes.
+
+El registrador, con el aviso citado y sin cobro de derecho alguno practicará de inmediato la nota de presentación correspondiente, la cual tendrá una vigencia de noventa días naturales a partir de la fecha de presentación de aviso. Si éste se da dentro del término de treinta días que establece el párrafo anterior, sus efectos preventivos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el mismo párrafo; en caso contrario, sólo surtirá efectos desde la fecha en que fue presentado y según el número de entrada que le corresponda.
+
+Si el instrumento notarial respectivo se presentare al Registro Público de la Propiedad del Estado de Michoacán dentro de cualquiera de los términos que señalan los dos párrafos primero y tercero anteriores, su inscripción surtirá efectos contra terceros desde la fecha de presentación del aviso y con arreglo a su número de entrada.
+
+Si el instrumento se presentare fenecidos los referidos plazos, su registro sólo surtirá efectos desde la fecha de presentación.
 
 ## TÍTULO SEXTO. DEL ARRENDAMIENTO
 
@@ -10762,3 +10774,7 @@ LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS E
 P.O. 12 DE MARZO DE 2013.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE JULIO DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
