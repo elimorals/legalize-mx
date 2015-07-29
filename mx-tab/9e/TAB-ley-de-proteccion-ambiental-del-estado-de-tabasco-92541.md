@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-proteccion-ambiental-del-estado-de-tabasco-92541"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-22"
-last_updated: "2012-12-22"
+last_updated: "2015-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92541&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE PROTECCIÓN AMBIENTAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2015.
 
 Ley publicada en el Suplemento Q del Periódico Oficial del Estado de Tabasco, el sábado 22 de diciembre de 2012.
 
@@ -1603,7 +1603,7 @@ II. Descripción de la obra o actividad proyectada;
 
 III. Descripción de las sustancias o productos que utilizarán y obtendrán, incluyendo sus emisiones a la atmósfera, descargas de aguas residuales, residuos generados; así como otro tipo de emisión de contaminación y procedimientos, para prevenir y controlar la contaminación, así como los impactos ambientales;
 
-IV. Justificación de porque (sic) se considera estar en alguno de los supuestos señalados en el Reglamento;
+IV. Justificación de porque se considera estar en alguno de los supuestos señalados en el Reglamento;
 
 V. Las autorizaciones en materia de impacto y riesgo ambiental que hayan obtenido con anterioridad, relativo a la obra o actividad;
 
@@ -1641,9 +1641,11 @@ Si la información solicitada es presentada, se reanudará el trámite respectiv
 
 En el caso de obras o actividades, por la complejidad que puedan presentar en sus características, dimensiones o ubicación, la Secretaría podrá solicitar opinión técnica a dependencias federales, estatales o municipales, o en su caso a colegios de profesionistas o universidades, a efecto de contar con mayores elementos técnicos y normativos en la emisión de los resolutivos correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 121.
 
-Una vez que la Secretaría reciba una manifestación de impacto ambiental e integre el expediente a que se refiere el artículo 120, pondrá ésta a disposición del público por un periodo de diez días hábiles, con el fin de que pueda ser consultada por cualquier persona.
+Una vez que la Secretaría reciba una manifestación de impacto ambiental la pondrá de inmediato a disposición del público por un periodo de diez días hábiles, con el fin de que pueda ser consultada por cualquier persona.
 
 Los promoventes de la obra o actividad podrán requerir que se mantenga en reserva la información que haya sido integrada al expediente, y que de hacerse pública, pudiera afectar derechos de propiedad industrial y la confidencialidad de la información comercial que aporte el interesado.
 
@@ -1651,21 +1653,27 @@ La Secretaría, a solicitud de cualquier persona de la comunidad de que se trate
 
 I. La Secretaría publicará la solicitud de autorización en materia de impacto ambiental en su página oficial en internet;
 
-II. Cualquier ciudadano, dentro del plazo de diez días contados a partir de la publicación de la solicitud de autorización en materia de impacto ambiental, podrá solicitar a la Secretaría, ponga a disposición del público en el Estado la manifestación de impacto ambiental;
+II. (DEROGADA, P.O. 29 DE JULIO DE 2015)
 
 III. Cuando se trate de obras o actividades que puedan generar desequilibrios ecológicos graves o daños a la salud pública o a los ecosistemas, de conformidad con lo que señale el Reglamento de la presente Ley, la Secretaría podrá en coordinación con las autoridades locales, organizar una reunión pública de información en la que el promovente estará obligado a explicar los aspectos técnicos ambientales de la obra o actividad de que se trate;
 
-IV. Cualquier interesado, dentro del plazo de veinte días, contados a partir de que la Secretaría ponga a disposición del público la manifestación de impacto ambiental en los términos de la fracción II, podrá proponer el establecimiento de medidas de prevención y mitigación adicionales, así como las observaciones que considere pertinentes; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+IV. Cualquier interesado, dentro del plazo de diez días, contados a partir de que la Secretaría ponga a disposición del público la manifestación de impacto ambiental en los términos del párrafo primero de este artículo, podrá proponer el establecimiento de medidas de prevención y mitigación adicionales, así como las observaciones que considere pertinentes; y
 
 V. La Secretaría podrá agregar las observaciones realizadas por los interesados al expediente respectivo, y consignará en la resolución que emita, el proceso de consulta pública realizada, los resultados de las observaciones y las propuestas que por escrito se hayan formulado.
 
-Admitida la solicitud de consulta pública a que se refiere este artículo, se suspenderá el término del procedimiento de evaluación de la manifestación de impacto ambiental, debiéndose reanudar concluido el termino que requiere la fracción IV.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 29 DE JULIO DE 2015)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 122.
 
-La Secretaría deberá emitir por escrito la resolución que corresponda, en sentido procedente o improcedente, en un plazo no mayor a sesenta días hábiles, contados a partir de la presentación de la manifestación de impacto ambiental.
+La Secretaría deberá emitir por escrito la resolución que corresponda, en sentido procedente o improcedente, en un plazo no mayor a treinta días hábiles, contados a partir de la presentación de la manifestación de impacto ambiental.
 
-Excepcionalmente, cuando por la complejidad y las dimensiones de una obra o actividad, la Secretaría requiera de un plazo mayor para su evaluación, éste se podrá ampliar hasta por sesenta días hábiles adicionales, siempre que se justifique conforme a lo establecido en el Reglamento de la presente Ley.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
+
+Excepcionalmente, cuando por la complejidad y las dimensiones de una obra o actividad, la Secretaría requiera de un plazo mayor para su evaluación, éste se podrá ampliar hasta por treinta días hábiles adicionales, siempre que se justifique conforme a lo establecido en el Reglamento de la presente Ley.
 
 Para la emisión de la resolución en materia de impacto ambiental, la Secretaría tomará en consideración los programas de desarrollo urbano y de ordenamiento ecológico del territorio, las declaratorias de áreas naturales protegidas y las demás disposiciones jurídicas que resulten aplicables.
 
@@ -3830,3 +3838,15 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
 LIC. RAFAEL MIGUEL GONZÁLEZ LASTRA
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE JULIO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las demás disposiciones legales de igual naturaleza que se opongan al presente Decreto.
+
+TERCERO. El Titular del Poder Ejecutivo, así como los ayuntamientos, conforme a sus respectivas competencias, procederán a realizar las adecuaciones reglamentarias correspondientes de conformidad con el presente Decreto, en un término no mayor a ciento veinte días naturales, a partir de la entrada en vigor de este Decreto.
+
+En tanto se expidan los nuevos ordenamientos que regulen aspectos sustantivos y adjetivos de este Decreto, seguirán aplicándose en lo conducente y en todo lo que no se oponga al mismo, las disposiciones reglamentarias y administrativas que regulaban los aspectos previstos en el presente.
