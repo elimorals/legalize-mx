@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-para-la-evaluacion-963
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-10-22"
-last_updated: "2013-10-22"
+last_updated: "2015-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96315&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2013-10-14"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO NACIONAL PARA LA EVALUACION DE LA EDUCACION
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE SEPTIEMBRE DE 2015 EN LA PRIMERA SECCIÓN DEL DIARIO OFICIAL DE LA FEDERACION, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JULIO DE 2015.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 22 de octubre de 2013.
 
@@ -37,7 +39,7 @@ Que el 26 de febrero de 2013 fue publicado en el Diario Oficial de la Federació
 
 Que el 25 de abril de 2013 la Cámara de Senadores llevó a cabo la elección de los integrantes de la Junta de Gobierno del Instituto de conformidad con el artículo segundo transitorio del Decreto por el que se reforman los artículos 3o. y 73 de la Constitución Política de los Estados Unidos Mexicanos;
 
-Que el 30 de abril de 2013 los consejeros la (sic) Junta de Gobierno rindieron protesta en el Senado de la República, en cumplimiento a lo dispuesto en la fracción IX del artículo 3o. Constitucional y la Junta de Gobierno del Instituto de manera colegiada nombró al Consejero Presidente;
+Que el 30 de abril de 2013 los consejeros (sic) la Junta de Gobierno rindieron protesta en el Senado de la República, en cumplimiento a lo dispuesto en la fracción IX del artículo 3o. Constitucional y la Junta de Gobierno del Instituto de manera colegiada nombró al Consejero Presidente;
 
 Que el 11 de septiembre de 2013 fue publicado en el Diario Oficial de la Federación el DECRETO por el que se expide la Ley del Instituto Nacional para la Evaluación de la Educación, la cual establece en sus artículos 38 y 44 que corresponderá a la Junta de Gobierno expedir, a propuesta del Presidente, el Estatuto Orgánico que norme la organización y funcionamiento del Instituto Nacional para la Evaluación de la Educación, en un plazo no mayor de noventa días naturales a partir de la entrada en vigor su (sic) Ley, conforme se establece en su Artículo Quinto Transitorio;
 
@@ -91,6 +93,14 @@ VII. Consejos Técnicos, a los Consejos Técnicos Especializados;
 
 VIII. Consejo de Vinculación, al Consejo de Vinculación con las Entidades Federativas;
 
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+VIII. Bis. Coordinación, a la Coordinación de Direcciones del INEE en las Entidades Federativas;
+
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+VIII. Ter. Direcciones del INEE en las Entidades Federativas, a las áreas del Instituto que se establezcan en cada uno de los Estados de la República, así como en el Distrito Federal;
+
 IX. Estatuto, al Estatuto Orgánico;
 
 X. Instituto, al Instituto Nacional para la Evaluación de la Educación;
@@ -113,9 +123,11 @@ XVIII. Sistema Educativo Nacional, al constituido en términos de lo dispuesto e
 
 ### CAPÍTULO II. De la Organización del Instituto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE JULIO DE 2015)</small>
+
 ###### Artículo 4.
 
-Para el ejercicio de sus funciones y el despacho de los asuntos que le competen, el Instituto contará con los órganos y unidades siguientes:
+Para el ejercicio de sus funciones y el despacho de los asuntos que le competen, el Instituto contará con los Órganos y Unidades Administrativas siguientes:
 
 I. Junta de Gobierno;
 
@@ -143,7 +155,11 @@ a.2. Dirección General de Directrices para la Mejora de la Educación;
 
 a.3. Dirección General de Formación, Capacitación y Certificación;
 
-a.4. Dirección General de Coordinación de Oficinas en las Entidades Federativas.
+a.4. (DEROGADO, D.O.F. 29 DE JULIO DE 2015)
+
+> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 2015)</small>
+
+a.5. Dirección General para la Coordinación del Sistema Nacional de Evaluación Educativa.
 
 b) Unidad de Evaluación del Sistema Educativo Nacional:
 
@@ -169,9 +185,11 @@ c.4. Dirección General de Investigación e Innovación.
 
 d) Unidad de Planeación, Coordinación y Comunicación Social:
 
-d.1. Dirección General de Coordinación del Sistema Nacional de Evaluación Educativa;
+d.1. (DEROGADO, D.O.F. 29 DE JULIO DE 2015)
 
-d.2. Dirección General de Coordinación Institucional;
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2015)</small>
+
+d.2. Dirección General de Planeación y Coordinación Institucional.
 
 d.3. Dirección General de Comunicación Social.
 
@@ -182,6 +200,18 @@ e.1. Dirección General de Administración y Finanzas;
 e.2. Dirección General de Asuntos Jurídicos;
 
 e.3. Dirección General de Informática y Servicios Técnicos.
+
+> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 2015)</small>
+
+f) Coordinación de Direcciones del INEE en las Entidades Federativas:
+
+f.1. Dirección General Operativa “A”;
+
+f.1.1 Direcciones del INEE en las Entidades Federativas;
+
+f.2. Dirección General Operativa “B”;
+
+f.2.1 Direcciones del INEE en las Entidades Federativas.
 
 VI. Contraloría Interna
 
@@ -261,11 +291,15 @@ II. Autorizar, según sea el caso, la representación institucional de cada Cons
 
 III. Autorizar el Programa Estratégico de Desarrollo Institucional;
 
-IV. Autorizar los lineamientos para la planeación, programación, organización y evaluación del desempeño de las Unidades y Direcciones Generales del Instituto;
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+IV. Autorizar los lineamientos para la planeación, programación, organización y evaluación del desempeño de las Unidades, Coordinación y Direcciones Generales;
 
 V. Presentar a la Conferencia la propuesta de un programa de trabajo para el Sistema Nacional de Evaluación Educativa, así como los lineamientos para su elaboración y seguimiento;
 
-VI. Autorizar la instalación de Oficinas en las entidades federativas;
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+VI. Autorizar el funcionamiento de las Direcciones del INEE en las Entidades Federativas;
 
 VII. Designar al servidor público del Instituto que fungirá como Secretario Técnico de la Junta y de la Conferencia;
 
@@ -279,13 +313,17 @@ XI. Designar al servidor público responsable de coordinar la elaboración del i
 
 XII. Autorizar los lineamientos que definan las condiciones laborales y de contratación del personal del Instituto;
 
-XIII. Autorizar los nombramientos, ceses o remociones de los titulares de Unidad y Directores Generales del Instituto;
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+XIII. Autorizar los nombramientos, ceses o remociones de los Titulares de Unidad, Coordinador y Directores Generales del Instituto;
 
 XIV. Aprobar en la primera sesión ordinaria de cada ejercicio fiscal el calendario de las sesiones ordinarias;
 
 XV. Autorizar la asistencia de invitados a las sesiones ordinarias o extraordinarias de la Junta;
 
-XVI. Conocer el avance de los programas de trabajo de las Unidades con una periodicidad trimestral, mismo que podrá ser presentado en una sesión ordinaria de la Junta;
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+XVI. Conocer el avance de los programas de trabajo de las Unidades y de la Coordinación con una periodicidad trimestral, mismos que serán presentados en sesión ordinaria de la Junta;
 
 XVII. Autorizar la remuneración a los miembros de los Consejos Técnicos Especializados conforme corresponda a su participación y contribuciones específicas que les hayan sido requeridas; y
 
@@ -357,9 +395,11 @@ X. Aquellas que les asigne expresamente la Junta y las que les delegue el Presid
 
 ### CAPITULO VII. Del Consejero Presidente de la Junta de Gobierno
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE JULIO DE 2015)</small>
+
 ###### Artículo 18.
 
-El Presidente, además de lo dispuesto en el artículo 44 de la Ley, tendrá las siguientes facultades y funciones:
+El Consejero Presidente, además de lo dispuesto en el artículo 44 de la Ley, tendrá las siguientes facultades y funciones:
 
 I. Delegar en los titulares de Unidad, según el ámbito de sus competencias, los actos jurídicos que por disposición de la norma aplicable sean delegables y sin menoscabo de conservar su ejercicio directo;
 
@@ -377,7 +417,9 @@ VII. Nombrar, cesar o remover a los servidores públicos del Instituto cuya desi
 
 VIII. Establecer, previa autorización de la Junta, los lineamientos que definan las condiciones laborales y de contratación del personal del Instituto;
 
-IX. Asegurar, en coordinación con el Secretario Técnico y con los titulares de Unidad que correspondan, el cumplimiento de los acuerdos de la Junta; y
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+IX. Asegurar, en coordinación con el Secretario Técnico, con los Titulares de Unidad que correspondan, así como con el Coordinador, el cumplimiento de los acuerdos de la Junta; y
 
 X. Aquellas otras que le sean asignadas por la Junta.
 
@@ -519,9 +561,11 @@ III. Propondrá las actividades específicas de colaboración y coordinación pa
 
 IV. Contribuirá a fomentar una cultura de la evaluación mediante la difusión y uso de resultados de las distintas evaluaciones que se realicen en el Sistema.
 
+> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2015)</small>
+
 ###### Artículo 34.
 
-La Junta designará a un Consejero para que presida el Consejo de Vinculación. El Secretario de Actas será el Titular de la Unidad de Planeación, Coordinación y Comunicación Social o el servidor público de jerarquía inmediata que dicho titular designe. Podrán participar en las sesiones otros servidores públicos del Instituto a quienes invite la Junta.
+La Junta designará a un Consejero para que presida el Consejo de Vinculación con las Entidades Federativas. El Secretario de Actas, será el Coordinador de Direcciones del INEE en las Entidades Federativas o el servidor público de jerarquía inmediata, que dicho Coordinador designe. Podrán participar en las sesiones otros servidores públicos del Instituto a quienes invite la Junta.
 
 ###### Artículo 35.
 
@@ -693,13 +737,19 @@ Los Consejos Técnicos no requerirán votar los asuntos a tratar. En el acta que
 
 El presidente de cada Consejo, a través de sí mismo o del Secretario de Actas, deberá de informar a la Junta de los resultados de las sesiones ordinarias o extraordinarias.
 
-### CAPÍTULO XIV. De las Facultades y Funciones de los Titulares de Unidad
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE JULIO DE 2015)</small>
+
+### CAPÍTULO XIV. De las Facultades y Funciones de los Titulares de Unidad y del Coordinador
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE JULIO DE 2015)</small>
 
 ###### Artículo 57.
 
-Al frente de las Unidades a que hace referencia el artículo 4 de este Estatuto estará un Titular que tendrá las siguientes facultades y funciones generales:
+Al frente de las Unidades y de la Coordinación a que hace referencia el artículo 4 de este Estatuto estará un Titular y un Coordinador, respectivamente, que tendrán las siguientes facultades y funciones generales:
 
-I. Planear, programar, organizar, dirigir y evaluar el desempeño de las funciones encomendadas a la Unidad a su cargo, de acuerdo con los lineamientos que fije la Junta;
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+I. Planear, programar, organizar, dirigir y evaluar el desempeño de las funciones encomendadas a la Unidad o Coordinación a su cargo, de acuerdo con los lineamientos que fije la Junta;
 
 II. Participar en la elaboración y seguimiento del Programa de trabajo del Sistema Nacional de Evaluación Educativa;
 
@@ -707,19 +757,27 @@ III. Intervenir en el diseño y seguimiento del Programa Estratégico de Desarro
 
 IV. Establecer las estrategias que propicien la articulación y colaboración de las unidades administrativas del Instituto, para el logro de los programas y objetivos institucionales, conforme a las atribuciones que a cada una de ellas correspondan;
 
-V. Acordar con el Presidente o, en su caso, con el Consejero designado, los asuntos relevantes de la Unidad a su cargo;
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+V. Acordar con el Consejero Presidente o, en su caso, con el Consejero designado, los asuntos relevantes de la Unidad o Coordinación a su cargo;
 
 VI. Coordinar la integración de los proyectos de presupuesto relativos a la Unidad a su cargo, así como someterlos a la consideración del Presidente;
 
 VII. Firmar y establecer los mecanismos para notificar los oficios y comunicados que emita con fundamento en las facultades que les correspondan;
 
-VIII. Participar en el diseño de los sistemas informáticos requeridos para la realización de las funciones asignadas a su Unidad;
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
 
-IX. Dirigir y administrar los recursos humanos, financieros y materiales de las áreas adscritas a su Unidad, así como autorizar el ejercicio de los recursos financieros que tenga asignados, de acuerdo con la normativa aplicable;
+VIII. Participar en el diseño de los sistemas informáticos requeridos para la realización de las funciones asignadas a su Unidad o Coordinación;
+
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+IX. Dirigir y administrar los recursos humanos, financieros y materiales de las áreas adscritas a su Unidad o Coordinación, así como autorizar el ejercicio de los recursos financieros que tenga asignados, de acuerdo con la normatividad aplicable;
 
 X. Aprobar los manuales de organización y procedimientos que correspondan a las áreas a su cargo y someterlos a la autorización respectiva;
 
-XI. Proponer la designación y remoción de los servidores públicos adscritos a su Unidad, conforme a lo establecido en este Estatuto y disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+XI. Proponer la designación y remoción de los servidores públicos adscritos a su Unidad o Coordinación, conforme a lo establecido en este Estatuto y disposiciones jurídicas aplicables;
 
 XII. Participar y atender las convocatorias de las sesiones de la Junta, la Conferencia y los órganos colegiados, según le corresponda;
 
@@ -773,7 +831,9 @@ XVI. Dar seguimiento a los compromisos adquiridos por el Instituto ante organism
 
 XVII. Las demás que le confieran otras disposiciones o que le sean encomendadas por sus superiores jerárquicos o por la Junta.
 
-### CAPÍTULO XVI. De las Unidades y sus Direcciones Generales
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE JULIO DE 2015)</small>
+
+### CAPÍTULO XVI. De las Unidades, Coordinación y sus Direcciones Generales
 
 ###### Artículo 59.
 
@@ -781,7 +841,23 @@ La Unidad de Normatividad y Política Educativa tendrá las siguientes funciones
 
 I. Dirigir la integración de los lineamientos a los que se sujetarán las Autoridades Educativas para llevar a cabo las funciones de evaluación que les corresponden, promoviendo que éstas atiendan la diversidad y equidad;
 
-II. Intervenir en el diseño y seguimiento de la Política Nacional de Evaluación Educativa;
+II. (DEROGADA, D.O.F. 29 DE JULIO DE 2015)
+
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+II. Bis. Coordinar la formulación de la Política Nacional de Evaluación de la Educación con la intervención de las Unidades del Instituto, en los términos que establece el presente Estatuto, con la participación de las Autoridades Educativas; y someterla por conducto del Consejero Presidente a la consideración de la Junta y, en su caso, de la Conferencia;
+
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+II. Ter. Coordinar el seguimiento de la implementación de la Política Nacional de Evaluación de la Educación;
+
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+II. Quáter. Coordinar los mecanismos para el funcionamiento del Sistema Nacional de Evaluación Educativa, de conformidad con la normatividad aplicable;
+
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+II. Quintus. Proponer a la Junta, por conducto del Consejero Presidente, los lineamientos para la elaboración, integración y seguimiento del programa de trabajo del Sistema Nacional de Evaluación Educativa;
 
 III. Determinar las estrategias para dar seguimiento a la aplicación, por parte de las Autoridades Educativas, de los lineamientos de evaluación que emita el Instituto;
 
@@ -790,6 +866,10 @@ IV. Establecer los mecanismos para obtener información actualizada por parte de
 V. Dirigir la integración de directrices para orientar la formulación de políticas que busquen mejorar la calidad de la educación, con base en los resultados de las evaluaciones y estudios del propio Instituto;
 
 VI. Proponer estrategias para analizar, junto con las Autoridades Educativas y, en su caso escolares, los alcances e implicaciones de los resultados de las evaluaciones, así como las directrices que emita el Instituto;
+
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+VI. Bis. Coordinar y dar seguimiento a los temas de vinculación entre el Instituto y las Autoridades Educativas;
 
 VII. Planear y coordinar la elaboración de los programas de formación y capacitación para los participantes en los procesos de evaluación realizados por el propio Instituto o por las Autoridades Educativas;
 
@@ -801,11 +881,11 @@ X. Coordinar el seguimiento a las actividades del Consejo Técnico Especializado
 
 XI. Establecer los mecanismos de supervisión de los procesos de evaluación vinculados con el Servicio Profesional Docente;
 
-XII. Establecer los mecanismos para la operación de las oficinas del Instituto en las entidades federativas, a fin de atender los programas, trámites y gestiones en el ámbito local;
+XII. (DEROGADA, D.O.F. 29 DE JULIO DE 2015)
 
-XIII. Establecer las políticas de vinculación de las oficinas del Instituto en las entidades federativas con autoridades educativas locales y representaciones federales; y
+XIII. (DEROGADA, D.O.F. 29 DE JULIO DE 2015)
 
-XIV. Someter a consideración del Presidente los criterios para la desconcentración de funciones del Instituto, en colaboración con el titular de la Unidad de Planeación, Coordinación y Comunicación Social; (sic)
+XIV. (DEROGADA, D.O.F. 29 DE JULIO DE 2015)
 
 ###### Artículo 60.
 
@@ -879,23 +959,25 @@ X. Establecer recomendaciones para la actualización de los lineamientos en mate
 
 ###### Artículo 63.
 
-La Dirección General para la Coordinación de Oficinas en las Entidades Federativas tendrá las siguientes funciones:
+(DEROGADO, D.O.F. 29 DE JULIO DE 2015)
 
-I. Establecer las políticas, normas y criterios para la conformación y funcionamiento de las oficinas del Instituto en las entidades federativas;
+> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 2015)</small>
 
-II. Diseñar y proponer los lineamientos para la adecuada coordinación de las oficinas en las entidades federativas, con las representaciones educativas federales, estatales y municipales;
+###### Artículo 63 Bis.
 
-III. Coordinar la supervisión de los procesos de evaluación vinculados con el Servicio Profesional Docente, que realicen las Autoridades Educativas;
+La Dirección General para la Coordinación del Sistema Nacional de Evaluación Educativa tendrá las siguientes funciones:
 
-IV. Proponer al titular de la Unidad el trabajo de las oficinas del Instituto en las entidades federativas, buscando privilegiar apoyos en aquellas que más lo requieran;
+I. Proponer los elementos para el diseño e instrumentación de la Política Nacional de Evaluación de la Educación;
 
-V. Coadyuvar en la solución de aquellos asuntos que se generen en las oficinas del Instituto en las entidades federativas;
+II. Dar seguimiento a la implementación de la Política Nacional de Evaluación de la Educación;
 
-VI. Coordinar a las oficinas en las entidades federativas para captar la información que se genere en el ámbito local, conforme lo definan las unidades administrativas del Instituto;
+III. Proponer los criterios para el funcionamiento del Sistema Nacional de Evaluación Educativa;
 
-VII. Organizar y coordinar las reuniones de evaluación y seguimiento operativo de las oficinas en la entidades federativas; y
+IV. Integrar los mecanismos e instrumentos para promover el desarrollo del Sistema Nacional de Evaluación Educativa;
 
-VIII. Coordinar la participación de las oficinas en las entidades federativas en el seguimiento de los compromisos establecidos en los convenios y anexos técnicos que se suscriban con autoridades educativas estatales.
+V. Participar en la formulación del programa de trabajo del Sistema Nacional de Evaluación Educativa, así como en el seguimiento de su implementación; y
+
+VI. Colaborar con la Coordinación de Direcciones del INEE en las Entidades Federativas para apoyar la formulación de los programas institucionales en materia de evaluación por las Autoridades Educativas Estatales.
 
 ###### Artículo 64.
 
@@ -1059,7 +1141,9 @@ VII. Asegurar la edición y generación de los originales de los instrumentos de
 
 VIII. Establecer, en colaboración con otras direcciones generales, los criterios y estrategias para el diseño de las bases de datos y su procesamiento;
 
-IX. Establecer los mecanismos de enlace con la Coordinación de Oficinas en las Entidades Federativas para la realización de los procesos de levantamiento de datos;
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+IX. Establecer los mecanismos de enlace con la Coordinación de Direcciones del INEE en las Entidades Federativas para la realización de los procesos de levantamiento de datos;
 
 X. Definir, en coordinación con la Dirección General de Informática y Servicios Técnicos, los mecanismos y criterios para garantizar la seguridad y la calidad del procesamiento de datos;
 
@@ -1223,99 +1307,209 @@ XIV. Coadyuvar en la formación de investigadores de otras instituciones.
 
 La Unidad de Planeación, Coordinación y Comunicación Social tendrá las siguientes funciones:
 
-I. Coordinar la integración del Programa Estratégico de Desarrollo Institucional de corto, mediano y largo plazo y dar seguimiento a su implementación, con la colaboración de las otras Unidades;
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
 
-II. Coordinar la formulación de la Política Nacional de Evaluación y someterla, por conducto del Presidente, a consideración de la Conferencia;
+I. Coordinar la integración del Programa Estratégico de Desarrollo Institucional y dar seguimiento a su implementación;
 
-III. Coordinar el seguimiento a la implementación de la Política Nacional de Evaluación;
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
 
-IV. Proponer políticas y disposiciones normativas para el funcionamiento del Sistema Nacional de Evaluación Educativa, con fundamento en lo dispuesto en la Ley, en el presente Estatuto y demás disposiciones administrativas aplicables;
+I. Bis. Coordinar y proponer los lineamientos para llevar a cabo los procesos de planeación y programación, así como dar seguimiento a su implementación;
 
-V. Coordinar la elaboración e integración de un programa de trabajo para el Sistema Nacional de Evaluación Educativa, así como dar seguimiento a su implementación;
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
 
-VI. Coordinar las estrategias para la elaboración de los programas de trabajo anuales del Instituto y dar seguimiento a su implementación, con la colaboración de la Unidad de Administración;
+I. Ter. Coordinar la evaluación del desempeño institucional y proponer a la Junta, a través del Consejero Presidente, las acciones de mejora;
 
-VII. Contribuir al proceso de toma de decisiones del Presidente a través del diagnóstico y análisis de los avances que presentan los programas de trabajo institucionales;
+II. (DEROGADA, D.O.F. 29 DE JULIO DE 2015)
 
-VIII. Planear y coordinar la gestión y funcionamiento de los distintos órganos colegiados del Instituto y de la Junta;
+III. (DEROGADA, D.O.F. 29 DE JULIO DE 2015)
+
+IV. (DEROGADA, D.O.F. 29 DE JULIO DE 2015)
+
+V. (DEROGADA, D.O.F. 29 DE JULIO DE 2015)
+
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+VI. Coordinar la elaboración del Programa de Trabajo Anual y dar seguimiento a su implementación a través de informes trimestrales;
+
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+VI. Bis. Proponer la integración del Programa de Trabajo Anual y someterlo a la consideración del Consejero Presidente, para su aprobación por la Junta;
+
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+VI. Ter. Coordinar el seguimiento de las metas comprometidas en el Programa de Trabajo Anual y de mediano plazo;
+
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+VII. Contribuir, a través del Consejero Presidente, al proceso de toma de decisiones de la Junta mediante el diagnóstico y análisis de los avances que presentan los programas de trabajo institucionales;
+
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+VII. Bis. Proponer a la Junta para su aprobación, las disposiciones para la integración y el funcionamiento del Consejo Social Consultivo de Evaluación de la Educación, del Consejo de Vinculación con las Entidades Federativas, del Consejo Pedagógico de Evaluación Educativa y de los Consejos Técnicos Especializados;
+
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+VIII. Fungir como Secretario Técnico de la Junta y de la Conferencia;
 
 IX. Coordinar y dar seguimiento a los temas estratégicos de vinculación entre el Instituto y las Autoridades Educativas, medios de comunicación y organismos no gubernamentales;
 
-X. Definir y coordinar la estrategia de vinculación internacional y sus actividades de seguimiento;
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
 
-XI. Diseñar los criterios para el fortalecimiento de la imagen institucional;
+X. Coordinar la vinculación con organismos internacionales;
 
-XII. Coordinar el diseño y operación de la política de comunicación social del Instituto y de los programas y acciones correspondientes;
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
 
-XIII. Autorizar el programa de comunicación interna del Instituto y de las acciones correspondientes;
+XI. Fomentar el uso y desarrollo de la imagen institucional y diseñar las estrategias para su fortalecimiento;
 
-XIV. Coordinar la elaboración de los informes de gestión y financieros que el Instituto deba presentar ante el Poder Ejecutivo Federal y el Congreso de la Unión, y someterlos por conducto del Presidente a consideración de la Junta para su aprobación;
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
 
-XV. Someter a consideración del Presidente, en coordinación con la Unidad de Normatividad y Política Educativa, los criterios para la desconcentración de funciones del Instituto; y
+XII. Coordinar el diseño y operación de la política y estrategia de comunicación social y organizacional, así como la estrategia de vinculación institucional;
 
-XVI. Fungir como Secretario Técnico de la Conferencia y de la Junta.
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+XII. Bis. Proporcionar a la Junta información relevante emitida por los medios de comunicación, portales informativos y redes sociales;
+
+XIII. (DEROGADA, D.O.F. 29 DE JULIO DE 2015)
+
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+XIV. Coordinar la elaboración del informe anual de gestión del Instituto y someterlo a consideración del Consejero Presidente para su presentación y aprobación de la Junta; y
+
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+XIV. Bis. Proponer a la Junta el desarrollo de estudios de prospectiva institucional.
+
+XV. (DEROGADA, D.O.F. 29 DE JULIO DE 2015)
+
+XVI. (DEROGADA, D.O.F. 29 DE JULIO DE 2015)
 
 ###### Artículo 76.
 
-La Dirección General para la Coordinación del Sistema Nacional de Evaluación Educativa tendrá las siguientes funciones:
+(DEROGADO, D.O.F. 29 DE JULIO DE 2015)
 
-I. Coordinar el diseño de las políticas y disposiciones normativas para el funcionamiento del Sistema Nacional de Evaluación Educativa;
-
-II. Participar en la elaboración e integración de un programa de trabajo para el Sistema Nacional de Evaluación Educativa, así como en el seguimiento de su implementación;
-
-III. Dar seguimiento a la instrumentación de la Política Nacional de Evaluación y preparar los informes que serán sometidos a consideración de la Conferencia;
-
-IV. Colaborar con la Dirección General de Coordinación de Oficinas en las Entidades Federativas para apoyar, en su caso, la formulación de los programas institucionales a desarrollar en materia de evaluación por las autoridades educativas locales;
-
-V. Integrar los calendarios para la realización de las sesiones de la Conferencia así como de las reuniones de los grupos de trabajo que emanen de sus acuerdos, opiniones y recomendaciones; y
-
-VI. Supervisar y dar seguimiento a los acuerdos, opiniones y recomendaciones que emita la Conferencia.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE JULIO DE 2015)</small>
 
 ###### Artículo 77.
 
-La Dirección General para la Coordinación Institucional tendrá las siguientes funciones:
+La Dirección General de Planeación y Coordinación Institucional tendrá las siguientes funciones:
 
-I. Coordinar el proceso de planeación para la formulación del Programa Estratégico de Desarrollo Institucional;
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
 
-II. Integrar el Programa Estratégico de Desarrollo Institucional, así como dar seguimiento a su implementación;
+I. Colaborar en la integración del Programa Estratégico de Desarrollo Institucional, así como dar seguimiento a los procesos de planeación institucional;
 
-III. Integrar y dar seguimiento a los Programas Anuales de Trabajo en coordinación y colaboración con las direcciones generales que correspondan;
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
 
-IV. Coadyuvar con la Dirección General de Administración y Finanzas en el seguimiento de los indicadores establecidos en los mecanismos de planeación anual del Instituto;
+l. Bis. Dar seguimiento a la implementación del Programa Estratégico de Desarrollo Institucional;
 
-V. Establecer los criterios para el funcionamiento regular de los órganos colegiados;
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
 
-VI. Establecer los mecanismos de interacción y funcionamiento de los órganos colegiados del Instituto en colaboración con el área encargada de presidirlos;
+l. Ter. Integrar el calendario anual de actividades institucionales;
 
-VII. Integrar y sistematizar los acuerdos que se tomen en los órganos colegiados de consulta u (sic) asesoramiento del Instituto y, en su caso, efectuar su publicación;
+II. (DEROGADA, D.O.F. 29 DE JULIO DE 2015)
 
-VIII. Realizar la sistematización integral y control de los acuerdos, opiniones y recomendaciones que se emitan en los órganos colegiados; y
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
 
-IX. Elaborar en colaboración con el área responsable los planes de acción para atender los acuerdos y recomendaciones que emitan los órganos colegiados, según corresponda.
+III. Dar seguimiento a los programas anual y de mediano plazo del Instituto, en coordinación con las Unidades Administrativas correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+III. Bis. Formular y actualizar los lineamientos e instrumentos para la planeación, programación, organización y evaluación del desempeño de las Unidades Administrativas, así como orientar su implementación;
+
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+III. Ter. Integrar y actualizar los criterios para la formulación, revisión, actualización de la Matriz de Indicadores para Resultados y de las Fichas de Indicadores;
+
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+III. Quáter. Diseñar e implementar la evaluación del desempeño institucional y hacer seguimiento a los indicadores correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+III. Quintus. Implementar y dar seguimiento a la Matriz de Riesgos del Instituto y plantear las medidas necesarias para su administración;
+
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+IV. Dar seguimiento a los indicadores de planeación y desempeño institucional, en coordinación con las Unidades Administrativas correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+IV. Bis. Integrar los informes trimestrales y el informe anual de gestión del Instituto;
+
+V. (DEROGADA, D.O.F. 29 DE JULIO DE 2015)
+
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+V. Bis. Formular las disposiciones para la integración y el funcionamiento del Consejo Social Consultivo de Evaluación de la Educación, del Consejo de Vinculación con las Entidades Federativas, del Consejo Pedagógico de Evaluación Educativa y de los Consejos Técnicos Especializados del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+V. Ter. Dar seguimiento al cumplimiento de los acuerdos e integrar los informes sobre el funcionamiento y desempeño de los órganos colegiados establecidos en la fracción anterior; y
+
+VI. (DEROGADA, D.O.F. 29 DE JULIO DE 2015)
+
+VII. (DEROGADA, D.O.F. 29 DE JULIO DE 2015)
+
+VIII. (DEROGADA, D.O.F. 29 DE JULIO DE 2015)
+
+IX. (DEROGADA, D.O.F. 29 DE JULIO DE 2015)
+
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+X. Elaborar propuestas de estudios de prospectiva institucional.
 
 ###### Artículo 78.
 
 La Dirección General de Comunicación Social tendrá las siguientes funciones:
 
-I. Formular y proponer al Presidente, por conducto del titular de la Unidad de Planeación, Coordinación y Comunicación Social, el programa para dar cumplimiento a la política y estrategia de comunicación social y de relaciones públicas del Instituto;
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
 
-II. Instrumentar la política y estrategias de comunicación social y de relaciones públicas que determine la Junta;
+I. Formular el programa de comunicación social y organizacional del Instituto;
 
-III. Orientar y coordinar las acciones de comunicación social del Instituto, así como apoyar y asesorar a sus áreas en dicha materia según lo requieran;
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
 
-IV. Dirigir acciones de comunicación social para promover entre representantes de los medios de comunicación el uso y aprovechamiento de los productos y servicios que ofrece el Instituto;
+II. Instrumentar la política de comunicación social y organizacional del Instituto;
 
-V. Planear la emisión de información sobre el desarrollo de los programas y actividades del Instituto a través de los diferentes medios de comunicación;
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
 
-VI. Evaluar los resultados derivados de los programas y campañas de comunicación social del Instituto;
+III. Desarrollar las acciones de apoyo y asesoría a las áreas del Instituto en materia de comunicación social, imagen institucional y contenidos digitales;
 
-VII. Establecer los criterios y lineamientos para la conducción de las relaciones del Instituto con los medios de comunicación y las redes sociales;
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
 
-VIII. Coordinar las relaciones públicas del Instituto en materia de comunicación social, con dependencias y entidades de la administración pública federal, de las entidades federativas, y otros organismos públicos o privados;
+IV. Dirigir acciones de comunicación social para promover entre representantes de los medios de comunicación el conocimiento, uso y aprovechamiento de los productos y servicios que ofrece el Instituto;
 
-IX. Dirigir la identificación, análisis y procesamiento de la información en los medios de comunicación, referente a los acontecimientos de interés del Instituto; y
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
 
-X. Formular, proponer e instrumentar el programa de comunicación interna del Instituto.
+V. Planear la emisión de información sobre el desarrollo de los programas y actividades del Instituto a través de los diferentes medios de comunicación y redes sociales;
+
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+V. Bis. Administrar los contenidos de la página de Internet del Instituto, las cuentas institucionales en redes sociales y aplicaciones para dispositivos móviles;
+
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+V. Ter. Apoyar y dar seguimiento a la vinculación del Instituto con organismos internacionales;
+
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+VI. Realizar estudios de opinión sobre los programas, las campañas de comunicación social y temas de interés del Instituto;
+
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+VII. Elaborar el protocolo para la conducción de las relaciones del Instituto con los medios de comunicación y las redes sociales;
+
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+VIII. Atender y coadyuvar en las actividades de vinculación institucional para el desarrollo de las funciones del Instituto;
+
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+IX. Dirigir el monitoreo, síntesis y análisis de la información emitida por los medios de comunicación, portales informativos y redes sociales, referente a las actividades y los acontecimientos de interés del Instituto; y
+
+> <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+IX. Bis. Definir estrategias informativas y contenidos digitales para el posicionamiento mediático de la imagen pública del Instituto.
+
+X. (DEROGADA, D.O.F. 29 DE JULIO DE 2015)
 
 ###### Artículo 79.
 
@@ -1325,7 +1519,9 @@ I. Vigilar que se proporcionen a las unidades administrativas del Instituto los 
 
 II. Asegurar el envío, por parte de la Presidencia, del presupuesto aprobado por la Junta a la Secretaría de Hacienda y Crédito Público, para su integración al proyecto de Presupuesto de Egresos de la Federación;
 
-III. Presentar y someter a consideración del Presidente el proyecto de presupuesto anual del Instituto y sus respectivos programas, para su aprobación por la Junta;
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+III. Presentar y someter a consideración del Consejero Presidente el proyecto de presupuesto anual del Instituto, para la aprobación de la Junta;
 
 IV. Proponer al Presidente, para su aprobación por la Junta, las políticas y normas para la administración de los recursos humanos, financieros y materiales del Instituto;
 
@@ -1333,11 +1529,13 @@ V. Proponer al Presidente, para su aprobación por la Junta, los manuales de org
 
 VI. Proponer al Presidente, para su aprobación por la Junta, las normas y procedimientos necesarios para la regulación del Servicio Profesional del Instituto;
 
-VII. Aprobar la integración del Programa Anual de Trabajo del Instituto, para someterlo a consideración del Presidente, para su aprobación por la Junta;
+VII. (DEROGADA, D.O.F. 29 DE JULIO DE 2015)
 
 VIII. Autorizar las modificaciones a la estructura orgánica ocupacional y salarial que, desde el punto de vista técnico, organizacional y operacional, resulten necesarias conforme a los lineamientos aprobados por la Junta;
 
-IX. Autorizar, de acuerdo con las normas y demás disposiciones aplicables, el ejercicio del presupuesto anual y vigilar el cumplimiento de las metas comprometidas en el Programa Anual de Trabajo del Instituto;
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+IX. Autorizar, de acuerdo con las normas y demás disposiciones aplicables, el ejercicio del presupuesto anual del Instituto;
 
 X. Autorizar la realización de procesos de adjudicación y, en su caso, la formalización de contratos cuya vigencia inicie en el ejercicio fiscal siguiente de aquel en el que se solicite, y que estarán sujetos a la disponibilidad presupuestaria del año en el que se prevé el inicio de su vigencia;
 
@@ -1381,11 +1579,13 @@ VIII. Proponer las modificaciones de la estructura orgánica ocupacional y salar
 
 IX. Evaluar, de acuerdo con las normas y demás disposiciones aplicables, el ejercicio del presupuesto así como el cumplimiento de las metas comprometidas en el Programa Anual de Trabajo del Instituto;
 
-X. Coadyuvar, con la Dirección General de Coordinación Institucional, en el seguimiento de los indicadores establecidos en los mecanismos de planeación anual del Instituto;
+> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
+
+X. Coadyuvar, con la Dirección General de Planeación y Coordinación Institucional, en el seguimiento de los indicadores establecidos en los mecanismos de planeación anual del Instituto;
 
 XI. Suscribir contratos y convenios de adquisiciones y arrendamientos de bienes muebles e inmuebles, servicios de cualquier naturaleza, obras públicas que celebre y otorgue el Instituto y sus modificaciones, así como los demás actos de administración que prevean las disposiciones legales y administrativas aplicables para el Instituto, que no hayan sido conferidas expresamente a otros servidores públicos del mismo; y
 
-XII. Asegurar la elaboración de los estados financieros, la integración de la Cuenta de la Hacienda Pública y su presentación a las autoridades competentes, así como la atención a las instancias fiscalizadoras; (sic)
+XII. Asegurar la elaboración de los estados financieros, la integración de la Cuenta de la Hacienda Pública y su presentación a las autoridades competentes, así como la atención a las instancias fiscalizadoras;
 
 ###### Artículo 81.
 
@@ -1462,6 +1662,66 @@ XIV. Formular recomendaciones relacionadas con el uso de tecnologías e innovaci
 XV. Promover, en coordinación con otras direcciones generales, la realización de estudios sobre las aplicaciones tecnológicas que puedan ser de utilidad para el Instituto; y
 
 XVI. Establecer las relaciones de enlace con terceros que sean de utilidad para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 2015)</small>
+
+###### Artículo 82 Bis.
+
+La Coordinación de Direcciones del INEE en las Entidades Federativas tendrá las siguientes funciones:
+
+I. Proponer al Consejero Presidente las normas para el funcionamiento de las Direcciones del INEE en las Entidades Federativas;
+
+II. Formular los lineamientos para la vinculación entre las Unidades Administrativas del Instituto y las Direcciones del INEE en las Entidades Federativas;
+
+III. Coordinar el seguimiento de los compromisos establecidos en los convenios y anexos técnicos que suscriba el Instituto con Autoridades Educativas y Organismos Descentralizados en las entidades federativas;
+
+IV. Coordinar la operación de las Direcciones del INEE en las Entidades Federativas;
+
+V. Proponer los mecanismos para la vinculación de las Direcciones del INEE en las Entidades Federativas con las Autoridades Educativas y Organismos Descentralizados en las entidades federativas;
+
+VI. Fungir como Secretario de Actas del Consejo de Vinculación con las Entidades Federativas;
+
+VII. Impulsar acciones de fortalecimiento de las capacidades locales en materia de evaluación de la educación, en el marco de las políticas y programas del Instituto;
+
+VIII. Supervisar los procesos de evaluación vinculados con el Servicio Profesional Docente y con las evaluaciones del Instituto, en coordinación con la Unidad de Normatividad y Política Educativa y la Unidad de Evaluación del Sistema Educativo Nacional;
+
+IX. Sistematizar información sobre el estado que guarda la educación y la evaluación en las entidades federativas, conforme lo determine la Junta, en coordinación con la Unidad de Información y Fomento de la Cultura de la Evaluación;
+
+X. Coordinar las reuniones de seguimiento operativo de las Direcciones del INEE en las Entidades Federativas;
+
+XI. Dirigir la implementación de mecanismos de diálogo con las autoridades educativas locales y los centros escolares para promover la cultura de la evaluación; y
+
+XII. Coordinar la implementación y seguimiento de los procesos de comunicación social, organizacional y de vinculación institucional de las Direcciones del INEE en las Entidades Federativas, en coordinación con la Unidad de Planeación, Coordinación y Comunicación Social.
+
+> <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 2015)</small>
+
+###### Artículo 82 Ter.
+
+La Dirección General Operativa “A” y la Dirección General Operativa “B” tendrán las siguientes funciones:
+
+I. Formular y actualizar las normas para el funcionamiento de las Direcciones del INEE en las Entidades Federativas;
+
+II. Colaborar en la formulación e instrumentación de los lineamientos para la vinculación entre las Unidades Administrativas del Instituto y las Direcciones del INEE en las Entidades Federativas que correspondan;
+
+III. Colaborar con las Direcciones del INEE en las Entidades Federativas que le correspondan en la elaboración, seguimiento y actualización del Programa de Trabajo Anual;
+
+IV. Dar seguimiento a los compromisos establecidos en los convenios y anexos técnicos que suscriba el Instituto con las entidades federativas que le correspondan;
+
+V. Proponer para su aprobación los mecanismos y recursos necesarios para la operación de las Direcciones del INEE en las Entidades Federativas que le correspondan;
+
+VI. Proponer mecanismos de vinculación y enlace de las Direcciones del INEE en las Entidades Federativas con Autoridades Educativas Estatales y Organismos Descentralizados para la operación de los proyectos de trabajo del Instituto;
+
+VII. Gestionar ante el Instituto las solicitudes de asesoría técnica de las entidades federativas que le correspondan;
+
+VIII. Dar seguimiento e informar sobre el desarrollo de los procesos de evaluación que se lleven a cabo en las entidades federativas que le correspondan;
+
+IX. Apoyar a las Direcciones del INEE en las Entidades Federativas que le correspondan y asegurar la recopilación y procesamiento de información sobre el estado que guardan la educación y los procesos de evaluación;
+
+X. Participar en la organización de las reuniones de seguimiento operativo de las Direcciones del INEE en las Entidades Federativas que le correspondan;
+
+XI. Impulsar mecanismos de diálogo con las autoridades educativas locales y en el seno de los consejos técnicos escolares de educación básica y su equivalente en educación media superior, con el fin de promover el uso de resultados de las evaluaciones para la mejora educativa; y
+
+XII. Coadyuvar en el desarrollo de los procesos de comunicación social y vinculación institucional, con medios de comunicación en las entidades federativas que le correspondan.
 
 ### Capítulo XVII. De la Contraloría Interna
 
@@ -1706,3 +1966,17 @@ SÉPTIMO.- La estructura organizacional establecida en el presente Estatuto entr
 OCTAVO.- Los órganos colegiados de consulta y asesoramiento del Instituto se instalarán en el transcurso del año 2014.
 
 México, D.F., a 14 de octubre de 2013.- Junta de Gobierno del Instituto Nacional para la Evaluación de la Educación: la Consejera Presidenta, Sylvia Irene Schmelkes del Valle.- Rúbrica.- Los Consejeros: Eduardo Backhoff Escudero, Gilberto Ramón Guevara Niebla, Teresa Bracho González, Margarita María Zorrilla Fierro.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 29 DE JULIO DE 2015.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- De conformidad con el artículo 97 del Estatuto Orgánico del Instituto Nacional para la Evaluación de la Educación, una vez que se publique en el Diario Oficial de la Federación el presente Acuerdo, difúndase éste en la página de Internet del Instituto.
+
+TERCERO.- La Dirección General para la Coordinación del Sistema Nacional de Evaluación Educativa continuará desarrollando los proyectos aprobados en el Programa de Trabajo Anual 2015 del Instituto, y ejercerá el presupuesto que le fue asignado originalmente para ese ejercicio fiscal.
+
+CUARTO.- La Coordinación de Direcciones del INEE en las Entidades Federativas, así como las Direcciones Generales Operativa “A” y Operativa “B”, entrarán en funciones una vez que se hayan realizado los ajustes presupuestales por parte de la Unidad de Administración.
+
+QUINTO.- Cuando en la normatividad interna del Instituto Nacional para la Evaluación de la Educación se haga referencia a la Dirección General de Coordinación de las Oficinas en las Entidades Federativas, se entenderá que se trata de la Coordinación de Direcciones del INEE en las Entidades Federativas. Igualmente, cuando la normatividad interna se refiera a las Direcciones de Coordinación Zona “A” y de Coordinación Zona “B”, se entenderá que se trata de las Direcciones Generales Operativa “A” y Operativa “B”, respectivamente.
