@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-proteccion-civil-del-estado-de-tabasco-105710"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2014-12-31"
+last_updated: "2015-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 31 de diciembre de 2014.
 
@@ -777,6 +777,10 @@ En el caso de asentamientos humanos ya establecidos en Zonas de Riesgo, las auto
 
 Se consideran como delito grave y sancionarán en términos de la Ley, la construcción, edificación, realización de obras de infraestructura y los asentamientos humanos que se lleven a cabo en una zona determinada sin elaborar un análisis de riesgos y, en su caso, definir las medidas para su reducción, tomando en consideración la normatividad aplicable y los Atlas municipales y el Estatal y no cuenten con la autorización de la autoridad correspondiente.
 
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2015)</small>
+
+El Análisis de riesgos antes mencionado, consiste en el estudio que permita determinar los factores de riesgo a los que está expuesto un predio, zona o inmueble de los referidos en el párrafo anterior, con el fin de garantizar la seguridad de las instalaciones y de la población en general.
+
 ### CAPÍTULO VII. De la Atención a la Población Rural Afectada por Contingencias Climatológicas
 
 ###### Artículo 46.
@@ -1138,3 +1142,15 @@ SECRETARIO DE GOBIERNO
 LIC. JUAN JOSÉ PERALTA FÓCIL
 
 COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE JULIO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las demás disposiciones legales de igual naturaleza que se opongan al presente Decreto.
+
+TERCERO. El Titular del Poder Ejecutivo, así como los ayuntamientos, conforme a sus respectivas competencias, procederán a realizar las adecuaciones reglamentarias correspondientes de conformidad con el presente Decreto, en un término no mayor a ciento veinte días naturales, a partir de la entrada en vigor de este Decreto.
+
+En tanto se expidan los nuevos ordenamientos que regulen aspectos sustantivos y adjetivos de este Decreto, seguirán aplicándose en lo conducente y en todo lo que no se oponga al mismo, las disposiciones reglamentarias y administrativas que regulaban los aspectos previstos en el presente.
