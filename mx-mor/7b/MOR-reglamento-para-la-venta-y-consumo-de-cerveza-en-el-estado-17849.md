@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-la-venta-y-consumo-de-cerveza-en-el-estado-1784
 country: "mx"
 rank: "reglamento"
 publication_date: "1955-11-09"
-last_updated: "1955-11-09"
+last_updated: "2015-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MOR"
 
 REGLAMENTO PARA LA VENTA Y CONSUMO DE CERVEZA EN EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO DOS MIL SEISCIENTOS DIECINUEVE, PUBLICADO EN EL P. O. DE 29 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Reglamento publicado en el Periódico Oficial del Estado de Morelos, el 9 de noviembre de 1955.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2015 (ABROGADO).
 
 EL CIUDADANO GENERAL DE BRIGADA, RODOLFO LOPEZ DE NAVA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, A SUS HABITANTES, SABED:
 
@@ -484,3 +484,11 @@ Por tanto mando se imprima,, (sic) publique, circule y se le dé el debido cumpl
 Dado en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Cuernavaca, Morelos, a los cinco días del mes de noviembre de mil novecientos cincuenta y cinco.
 
 SUFRAGIO EFECTIVO. NO REELECCION.-EL GOBERNADOR CONSTL. DEL ESTADO.- Gral. de Bgda. Rodolfo López de Nava.- EL SECRETARIO GENERAL DE GOBIERNO.- Lic. Vicente Suárez Colín.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE JULIO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+SEGUNDO.- Remítase el presente Decreto al titular del Poder Ejecutivo para los efectos constitucionales procedentes.
