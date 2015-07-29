@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-14617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2015-07-01"
+last_updated: "2015-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de agosto de 1996.
 
@@ -763,6 +763,10 @@ La Educación física contribuirá al desarrollo armónico e integral del indivi
 
 En el nivel superior, la educación física deberá tener el objetivo primordial de fomentar la práctica de un deporte o disciplina deportiva, o bien, el acondicionamiento físico permanente y cotidiano de los estudiantes.
 
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2015)</small>
+
+La educación física debe considerarse como una herramienta a través de la cual se favorezca la convivencia de las y los alumnos dentro y fuera del aula, por lo que se fomentará la práctica de actividades relacionadas con la misma.
+
 ###### ARTICULO 37.
 
 Las autoridades educativas serán las responsables de la expedición y aplicación de los programas y guías metodológicas oficiales de educación física, en los diferentes niveles educativos.
@@ -794,6 +798,10 @@ La educación indígena promoverá en el educando actitudes encaminadas a la pre
 ###### ARTICULO 42.
 
 La educación indígena se apoyará con servicios asistenciales y de extensión educativa que faciliten en forma continua y permanente el aprendizaje y aprovechamiento de los alumnos, respetando y resaltando su personalidad y su cultura.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2015)</small>
+
+Las autoridades educativas serán las responsables de la implementación de estrategias que impulsen la autogestión del aprendizaje del educando, para mejorar sus oportunidades en el fututo (sic) inmediato, que impidan la exclusión y la deserción escolar.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 2014)</small>
 
@@ -860,6 +868,10 @@ V.- Su introducción a los aspectos aplicados de la ciencia y la tecnología, du
 ###### ARTICULO 48.
 
 Las escuelas de educación media superior terminal o de enseñanza técnica, normarán sus trabajos de acuerdo a los programas que cubran las necesidades del alumnado y de la entidad, con el fin de preparar personal calificado en la (sic) diferentes actividades de la industria, del comercio y del trabajo en general.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2015)</small>
+
+Asimismo promoverán que los alumnos realicen sus prácticas profesionales antes de concluir su especialidad, para que estos adquieran experiencia y capacitación que incentiven su conocimiento en las diferentes disciplinas adquiridas, siendo obligatorio de la escuela determinar en qué sector se llevaran a cabo.
 
 ###### ARTICULO 49.
 
@@ -1904,3 +1916,9 @@ PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, 
 SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
 
 TERCERA.- El Titular del Ejecutivo Estatal en coordinación con el Congreso del Estado, realizará las asignaciones presupuestales correspondientes a cada ejercicio fiscal, a efecto de garantizar de manera progresiva el acceso y permanencia del derecho de las niñas y niños a recibir educación temprana o inicial.
+
+P.O. 29 DE JULIO DE 2015.
+
+PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDO. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
