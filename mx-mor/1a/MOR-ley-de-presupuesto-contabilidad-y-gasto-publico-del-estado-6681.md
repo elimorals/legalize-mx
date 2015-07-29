@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-6681
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-08"
-last_updated: "2013-03-20"
+last_updated: "2015-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 8 de febrero de 1995.
 
@@ -121,9 +121,9 @@ Los Poderes Legislativo y Judicial, en el ámbito de sus respectivas competencia
 
 El Ejecutivo del Estado, a través de la Secretaría de Hacienda y los Presidentes Municipales a través de las Tesorerías Municipales, coordinarán, conforme lo establece la presente Ley, las actividades de programación, presupuestación, control, seguimiento y evaluación del Gasto Público.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
-Las facultades que la presente Ley concede a las Tesorerías Municipales no excluyen las que la Ley Orgánica Municipal del Estado de Morelos otorga a las Comisiones de Regidores encargadas del Ramo de Hacienda, corresponde a la Contaduría Mayor de Hacienda del Congreso del Estado ejercer las atribuciones que le confiere su Ley Orgánica.
+Las facultades que la presente Ley concede a las Tesorerías Municipales no excluyen las que la Ley Orgánica Municipal del Estado de Morelos otorga a las Comisiones de Regidores encargadas del ramo de Hacienda, corresponde a la Entidad Superior de Auditoria y Fiscalización ejercer las atribuciones que le confiere su Ley Orgánica.
 
 ###### ARTICULO 5o.
 
@@ -145,11 +145,11 @@ Con el propósito de optimizar los recursos presupuestales que tienen asignados,
 
 En cada una de las dependencias del Ejecutivo, de los Municipios y en las demás entidades, los encargados de ejecutar los programas serán los responsables del avance de los mismos y deberán informar periódicamente de los resultados obtenidos, por conducto de sus titulares a la Secretaría de Hacienda, Tesorerías Municipales y unidades equivalentes.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 8o.
 
-A la Secretaría de Hacienda, a las Sindicaturas, Comisiones, Regidores del Ramo de Hacienda y Tesorerías Municipales respectivas, quedará encomendada la vigilancia y verificación del ejercicio del gasto público de las dependencias y entidades a través de visitas, inspecciones y auditorías sin detrimento de las facultades legales que correspondan a las Contralorías respectivas o al Congreso del Estado a través de la Contaduría Mayor de Hacienda.
+A la Secretaría de Hacienda, a las Sindicaturas, Comisiones, Regidores del ramo de Hacienda y Tesorerías Municipales respectivas, quedará encomendada la vigilancia y verificación del ejercicio del gasto público de las dependencias y entidades a través de visitas, inspecciones y auditorías sin detrimento de las facultades legales que correspondan a las Contralorías respectivas o al Congreso del Estado a través de la Entidad Superior de Auditoria y Fiscalización.
 
 ###### ARTICULO 9o.
 
@@ -161,27 +161,11 @@ Las dependencias y entidades deberán proporcionar, en el Estado, a la Secretar�
 
 Todas las dependencias y entidades que de sus actividades generen ingresos que con base a la legislación estatal o municipal, se consideren ingresos fiscales, deberán coordinarse con la Secretaría de Hacienda en el primer caso y con las Tesorerías Municipales en el segundo para que se incorporen en la Ley de Ingresos respectiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
 ###### ARTICULO 11.
 
-Los proyectos de Presupuestos de Ingresos incluirán la expectativa de entradas de efectivo por ingresos fiscales y, las Entidades, incluirán los ingresos que generen con relación directa al cumplimiento de su objeto social, los que serán objeto de revisión por el Congreso del Estado, a través del Órgano de la Auditoría Superior de Fiscalización.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2008)</small>
-
-Los proyectos de Presupuestos de Ingresos del Gobierno del Estado y de los Municipios, para que puedan incluirse en las respectivas iniciativas de Leyes de Ingresos, se entregarán oportunamente, con el fin de que puedan ser presentadas al Congreso del Estado en los términos que señala el artículo 32, segundo párrafo, de la Constitución Política del Estado Libre y Soberano de Morelos:
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2005)</small>
-
-I.- Al Titular del Ejecutivo, a través de la Secretaría de Finanzas y planeación del Estado, a más tardar el quince de agosto de cada año, los correspondientes al Gobierno del Estado y entidades de la Administración Pública Paraestatal, de forma que puedan ser enviados oportunamente al Congreso del Estado junto con el Presupuesto de Egresos respectivo.
-
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2005)</small>
-
-II.- A los Ayuntamientos, por conducto de la Tesorería Municipal, a más tardar el quince de agosto de cada año, los correspondientes al Municipio y a las entidades de la Administración Pública Paramunicipal, de manera que puedan ser enviados oportunamente al Congreso del Estado por conducto del Presidente Municipal.
-
-En el caso de Organismos Descentralizados o Empresas Intermunicipales la obligación corresponderá al Ayuntamiento donde se establezca la sede de la entidad, independientemente de que el régimen de ingresos involucre dos o más municipios. En la documentación respectiva se anexarán las actas aprobatorias de los Cabildos correspondientes.
+Los proyectos de Presupuestos de Ingresos incluirán la expectativa de entradas de efectivo por ingresos fiscales y, las Entidades, incluirán los ingresos que generen con relación directa al cumplimiento de su objeto social, los que serán objeto de revisión por el Congreso del Estado, a través de la Entidad Superior de Auditoria y Fiscalización.
 
 ###### ARTICULO 12.
 
@@ -425,9 +409,11 @@ En los casos a que se refiere este artículo se requerirá siempre el señalamie
 
 Las entidades de la Administración Pública Paraestatal y Paramunicipal administrarán y ejercerán su Presupuesto de Egresos aprobado. Cuando así lo determinen, el Ejecutivo del Estado y los Ayuntamientos podrán disponer que los fondos y pagos correspondientes a las entidades de la Administración Pública Paraestatal o Paramunicipal incluidas en el Presupuesto de Egresos del Gobierno del Estado y de los Municipios, se manejen eventual o permanentemente por la Secretaría de Hacienda o por las Tesorerías Municipales, respectivamente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2015)</small>
+
 ###### ARTICULO 35.
 
-Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá hacer pagos con base en él, por los conceptos efectivamente devengados en el año que corresponda y siempre que estén debidamente contabilizados al 31 de diciembre del ejercicio correspondiente o por operaciones determinadas, en el ámbito de su competencia por la Secretaría de Hacienda, Tesorerías Municipales, Sindicaturas, la Contraloría del Estado, y Contadurías y Unidades Internas de Auditorías, resultantes de las atribuciones de vigilancia o verificación del Gasto Público dispuestas por ésta Ley o por la Contaduría Mayor de Hacienda del Congreso del Estado resultantes de las atribuciones de fiscalización de las cuentas Públicas de conformidad con las leyes aplicables en la materia.
+Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá hacer pagos con base en él, por los conceptos efectivamente devengados en el año que corresponda y siempre que estén debidamente contabilizados al 31 de diciembre del ejercicio correspondiente o por operaciones determinadas, en el ámbito de su competencia por la Secretaría de Hacienda, Tesorerías Municipales, Sindicaturas, la Contraloría del Estado, y Contadurías y Unidades Internas de Auditorías, resultantes de las atribuciones de vigilancia o verificación del Gasto Público dispuestas por ésta Ley o por la Entidad Superior de Auditoria y Fiscalización resultantes de las atribuciones de fiscalización de las cuentas Públicas de conformidad con las leyes aplicables en la materia.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -477,9 +463,9 @@ En el ámbito Municipal, la facultad a que se refiere el primer párrafo del art
 
 Los Ayuntamientos enviarán al Congreso del Estado, de conformidad con el artículo 32 de la Constitución Política del Estado Libre y Soberano de Morelos, a más tardar el 31 de enero de cada año, la cuenta pública correspondiente al año anterior, a excepción del año en que concluyan un período constitucional e inicien uno nuevo, en cuyo caso la aprobación de la cuenta pública y su presentación ante el Congreso la hará cada uno por el período a su cargo. El Ayuntamiento que concluya su gestión deberá presentar, a más tardar el 30 de noviembre, la cuenta pública correspondiente a los meses de enero a octubre del año en que termine el período constitucional. El Ayuntamiento que inicie su gestión deberá presentar, a más tardar el 31 de enero del año siguiente a aquel en que inicie su período constitucional, la cuenta pública, correspondiente a los meses de noviembre y diciembre del año en que inicie dicho período. En el supuesto anterior, el Ayuntamiento entrante presentará la cuenta pública anual, consolidando los doce meses del ejercicio presupuestal, sin perjuicio de las responsabilidades que correspondan a los funcionarios públicos en funciones en cada período constitucional.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
-Así mismo, los Ayuntamientos enviarán las cuentas públicas mensuales a la Auditoría Superior de Fiscalización, dentro de los primeros veinte días naturales del mes siguiente al que corresponda rendir dicho informe.
+Así mismo, los Ayuntamientos enviarán las cuentas públicas mensuales a la Entidad Superior de Auditoria y Fiscalización, dentro de los primeros veinte días naturales del mes siguiente al que corresponda rendir dicho informe.
 
 Los propios Ayuntamientos serán responsables de solventar las observaciones sobre la Cuenta Pública que finque el Congreso del Estado.
 
@@ -704,3 +690,9 @@ Primero.- Remítase al Titular del Poder Ejecutivo, para su publicación en el P
 Segundo.- El presente decreto entrará en vigor al día siguiente de su publicación.
 
 Tercero.- Se derogan todas las disposiciones que se opongan a la presente reforma.
+
+P.O. 29 DE JULIO DE 2015.
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
