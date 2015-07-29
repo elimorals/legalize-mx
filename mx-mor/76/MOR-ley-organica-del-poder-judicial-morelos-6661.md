@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-poder-judicial-morelos-6661"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-12"
-last_updated: "2015-04-22"
+last_updated: "2015-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 12 de abril de 1995.
 
@@ -1395,7 +1395,9 @@ XIII.- Recibir y estudiar los informes y dictámenes del Magistrado Visitador Ge
 
 XIV.- Cuidar que los Juzgados no se encuentren sin titular por más de cinco días;
 
-XV.- Discutir y aprobar oportunamente el presupuesto anual del Poder Judicial, y remitirlo para su inclusión en el Proyecto de Presupuesto de Egresos del Estado;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+XV.- Discutir y aprobar oportunamente el presupuesto anual del Poder Judicial, y remitirlo para su inclusión en el proyecto de Presupuesto de Egresos del Estado; así como respetar las partidas y sus denominaciones en virtud de que se tenga una mayor vigilancia en las erogaciones presupuestares;
 
 XVI.- Tomar a su cargo la administración, vigilancia y disciplina del Poder Judicial;
 
@@ -1455,7 +1457,9 @@ IX.- Informar al Consejo acerca de las medidas o medios administrativos adoptado
 
 X.- Nombrar, con carácter provisional y en casos urgentes, a los funcionarios y empleados del Poder Judicial, sometiendo tales nombramientos al Consejo en los casos y competencia de éste, para su ratificación o rectificación;
 
-XI.- Formular y someter a la consideración del Consejo de la Judicatura Estatal el presupuesto anual del Poder Judicial;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+XI.- Formular y someter a la consideración del Consejo de la Judicatura Estatal el presupuesto anual del Poder Judicial; así como respetar las partidas y sus denominaciones ya establecidas en las erogaciones presupuestares;
 
 > <small>(REFORMADA, P.O. 23 DE MAYO DE 2001)</small>
 
@@ -1576,6 +1580,8 @@ La Dirección General de Administración dependerá del Consejo de la Judicatura
 Son atribuciones de la Dirección General de Administración, previo acuerdo con el Presidente del Consejo de la Judicatura Estatal:
 
 I.- Proponer e instrumentar las políticas para la administración de los recursos financieros, administrativos y humanos del Poder Judicial, tomando en cuenta los convenios celebrados con el Ejecutivo, así como las disposiciones aplicables sobre la materia;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
 
 II.- Definir, organizar, coordinar y administrar la elaboración del presupuesto así como su erogación, de acuerdo a las disposiciones establecidas sobre la materia y la autorización del Consejo y el Presidente del mismo;
 
@@ -2384,3 +2390,9 @@ PRIMERA. Remítase el Decreto al Gobernador Constitucional del Estado, para los 
 SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA. Una vez que entre en vigor el presente Decreto, el Poder Judicial del Estado de Morelos, presentará su propuesta de asignación de recursos presupuestales para cubrir los Haberes por Retiro, al Titular del Poder Ejecutivo, para que éste presente la Iniciativa de modificación del Decreto por el que se aprobó el Presupuesto de Egresos del Gobierno del Estado de Morelos, respecto de los recursos asignados al Tribunal Superior de Justicia del Estado de Morelos para el Ejercicio del año Fiscal dos mil catorce.
+
+P.O. 29 DE JULIO DE 2015.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
