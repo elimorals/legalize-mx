@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-proteccion-y-conservacion-del-maiz-criollo-en-su-101561"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-25"
-last_updated: "2014-06-25"
+last_updated: "2015-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PROTECCIÓN Y CONSERVACIÓN DEL MAÍZ CRIOLLO EN SU ESTADO GENÉTICO PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 29 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 25 de junio de 2014.
 
@@ -175,7 +175,9 @@ I. El Gobernador, quien fungirá como Presidente;
 
 II. El Secretario de Desarrollo Agropecuario, quien fungirá como Vicepresidente;
 
-III. El Secretario de Desarrollo Económico, quien fungirá como Vocal;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+III. El Secretario de Economía, quien fungirá como Vocal;
 
 IV. El Subsecretario de Fomento Agropecuario, quien fungirá como Secretario Técnico;
 
@@ -366,3 +368,11 @@ SECRETARIO DE GOBIERNO
 ING. JORGE VICENTE MESSEGUER GUILLÉN
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE JULIO DE 2015.
+
+PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
