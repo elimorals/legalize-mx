@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-mental-del-estado-de-morelos-83235"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-12"
-last_updated: "2015-04-22"
+last_updated: "2015-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD MENTAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el miércoles 12 de octubre de 2011.
 
@@ -503,6 +503,10 @@ La consulta psicoterapéutica que proporcione la Secretaría se realizará en lo
 
 Para el ejercicio de la psicoterapia se requiere un espacio físico, virtual o telefónico, garantizando los aspectos de confidencialidad, privacidad, aislamiento y sin contaminación, adecuadamente ventilada e iluminada.
 
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2015)</small>
+
+Los espacios físicos a que hace referencia el párrafo anterior, deberán estar libres de barreras arquitectónicas y serán de fácil acceso para las personas adultas mayores y/o para quienes presenten alguna discapacidad.
+
 ###### Artículo 32.
 
 El Reglamento determinará el procedimiento para la valoración clínica de las personas usuarias de los servicios de salud mental.
@@ -970,3 +974,9 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 29 DE JULIO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+SEGUNDO.- Remítase el presente Decreto al titular del Poder Ejecutivo para los efectos constitucionales procedentes.
