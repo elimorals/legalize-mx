@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-18777
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2015-04-29"
+last_updated: "2015-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de diciembre de 2000.
 
@@ -125,7 +125,9 @@ LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS.
 
 La presente Ley es de orden público e interés social y tiene por objeto regular las acciones relativas a la planeación, programación, presupuestación, contratación, gasto, ejecución y control de las obras públicas, así como de los servicios relacionados con las mismas, que realice la Administración Pública Central y Paraestatal y sus Organismos Auxiliares, así como la Administración Pública Municipal y Paramunicipal.
 
-Los titulares de las dependencias, de los órganos de gobierno, de las entidades y las autoridades municipales emitirán, bajo su responsabilidad, las políticas, bases y lineamientos para el cumplimiento y observancia de la presente ley.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
+
+Las personas titulares de las dependencias, de los órganos de gobierno, de las entidades y las autoridades municipales emitirán, bajo su responsabilidad, las políticas, bases y lineamientos para el cumplimiento y observancia de la presente ley.
 
 No estarán sujetas a las disposiciones de esta Ley, las obras que deban ejecutarse para crear la infraestructura necesaria en la prestación de servicios públicos que los particulares tengan concesionados cuando estos los lleven a cabo, ni las obras concesionadas.
 
@@ -231,13 +233,11 @@ La ejecución de los trabajos de obra pública, que requieran las dependencias d
 
 La Secretaría y la unidad encarga (sic) que corresponda, vigilarán que las dependencias cumplan con las disposiciones de esta Ley, así como aquellas que emanen de ésta; la misma circunstancia deberán observar los ayuntamientos con sus dependencias encargadas de realizar obra pública y los servicios relacionados con la misma.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 10.
 
-Los titulares y los directores de las unidades, dependencias, secretaría o ayuntamientos serán los responsables de que, en la adopción e instrumentación de las acciones que deban llevar a cabo en cumplimiento de esta Ley, se observen los criterios que promuevan la simplificación administrativa.
+Las personas titulares y las personas con nivel de dirección de las unidades, dependencias, secretaría o ayuntamientos serán los responsables de que, en la adopción e instrumentación de las acciones que deban llevar a cabo en cumplimiento de esta Ley, se observen los criterios que promuevan la simplificación administrativa.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
@@ -337,31 +337,39 @@ El documento que contenga los programas será de carácter informativo; no impli
 
 Para efectos informativos, la Secretaría integrará y difundirá los programas anuales de obras públicas y servicios relacionados con las mismas, para lo cual podrá requerir a las dependencias o ayuntamientos la información que sea necesaria respecto de las modificaciones a dichos programas y los pondrá a disposición de los interesados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 20.
 
-Los titulares de las unidades, dependencias, secretarías o ayuntamientos, atendiendo a la cantidad de obras públicas y servicios relacionados con las mismas que realicen, podrán establecer comités y subcomités de obras públicas que tengan proyectadas, en los que podrán participar en calidad de invitadas las personas físicas o morales, empresariales o gremiales, que se dediquen a la construcción en el Estado. Dichos comités y subcomités tendrán como mínimo las siguientes funciones:
+Las personas titulares de las unidades, dependencias, secretarías o ayuntamientos, atendiendo a la cantidad de obras públicas y servicios relacionados con las mismas que realicen, podrán establecer comités y subcomités de obras públicas que tengan proyectadas, en los que podrán participar en calidad de invitadas las personas físicas o morales, empresariales o gremiales, que se dediquen a la construcción en el Estado. Dichos comités y subcomités tendrán como mínimo las siguientes funciones:
 
-> <small>(F. DE E., P.O. 21 DE NOVIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012) (F. DE E., P.O. 21 DE NOVIEMBRE DE 2012)
 
 I. Coordinarse y seguir los lineamientos, directrices, políticas y acuerdos de la unidad administrativa encargada de dirigir todos los procesos de adjudicación de contratos, conforme al reglamento que para tal efecto se emita;
 
-> <small>(F. DE E., P.O. 21 DE NOVIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012) (F. DE E., P.O. 21 DE NOVIEMBRE DE 2012)
 
 II. Revisar los programas y presupuestos de obras públicas y servicios relacionados con las mismas, así como formular las observaciones y recomendaciones convenientes;
 
-> <small>(F. DE E., P.O. 21 DE NOVIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012) (F. DE E., P.O. 21 DE NOVIEMBRE DE 2012)
 
 III. Dictaminar, previamente a la iniciación del procedimiento, sobre la procedencia de no celebrar licitaciones públicas por encontrarse en alguno de los supuestos de excepción previstos en el artículo 39 de esta Ley;
 
-> <small>(F. DE E., P.O. 21 DE NOVIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012) (F. DE E., P.O. 21 DE NOVIEMBRE DE 2012)
 
 IV. Elaborar y aprobar el manual de integración y funcionamiento del comité, conforme a las bases que expida la Contraloría, y
 
-> <small>(F. DE E., P.O. 21 DE NOVIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012) (F. DE E., P.O. 21 DE NOVIEMBRE DE 2012)
 
 V. Coadyuvar al cumplimiento de esta Ley y demás disposiciones aplicables.
 
@@ -677,7 +685,9 @@ II. Tratándose de obra pública, una descripción general de la obra correspond
 
 III. La nacionalidad del contratista, asesor o consultor, según corresponda.
 
-En estos casos, el titular del área responsable de la contratación de los trabajos, a más tardar el último día hábil de cada mes, enviará al órgano interno del control en las Dependencias, Secretaría o Ayuntamientos de que se trate, un informe relativo a los contratos formalizados durante el mes de calendario inmediato anterior, acompañando copia del escrito aludido en este artículo y del dictamen a que se refiere el artículo 35 de esta Ley. No será necesario rendir este informe en las operaciones que se realicen al amparo de la fracción IV del artículo 39 de esta Ley.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
+
+En estos casos, la persona titular del área responsable de la contratación de los trabajos, a más tardar el último día hábil de cada mes, enviará al órgano interno del (sic) control en las Dependencias, Secretaría o Ayuntamientos de que se trate, un informe relativo a los contratos formalizados durante el mes de calendario inmediato anterior, acompañando copia del escrito aludido en este artículo y del dictamen a que se refiere el artículo 35 de esta Ley. No será necesario rendir este informe en las operaciones que se realicen al amparo de la fracción IV del artículo 39 de esta Ley.
 
 Los montos máximos de las obras que puedan contratarse mediante los procedimientos de licitación restringida o de adjudicación directa, se establecerán en el Presupuesto de Egresos Estatal o Municipal, según corresponda.
 
@@ -719,9 +729,13 @@ Las Dependencias, Secretaría o Ayuntamientos, bajo su responsabilidad y en su c
 
 La suma de las operaciones que se realicen al amparo de este artículo, no podrá exceder del veinte por ciento del presupuesto autorizado a las Dependencias, Secretaría o Ayuntamientos para realizar obras públicas y servicios relacionados con las mismas, en cada ejercicio presupuestal.
 
-En casos excepcionales, las operaciones previstas en este artículo podrán exceder el porcentaje indicado, siempre que las mismas sean aprobadas previamente, de manera indelegable y bajo su estricta responsabilidad, por el titular de las Dependencias, Secretaría o Ayuntamientos, y que sean registradas detalladamente en el informe a que se refiere el artículo 38 de esta Ley.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
-En materia de obra pública, la autorización del Titular de las Dependencias, Secretaría o Ayuntamientos, será específica para cada obra, tomando en consideración para tal efecto la opinión del comité.
+En casos excepcionales, las operaciones previstas en este artículo podrán exceder el porcentaje indicado, siempre que las mismas sean aprobadas previamente, de manera indelegable y bajo su estricta responsabilidad, por la persona titular de las Dependencias, Secretaría o Ayuntamientos, y que sean registradas detalladamente en el informe a que se refiere el artículo 38 de esta Ley.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
+
+En materia de obra pública, la autorización de la persona Titular de las Dependencias, Secretaría o Ayuntamientos, será específica para cada obra, tomando en consideración para tal efecto la opinión del comité.
 
 ###### ARTÍCULO 41.
 
@@ -917,7 +931,9 @@ III. Los contratistas, en su proposición, deberán considerar para la determina
 
 IV. A juicio de las Dependencias, Secretaría o Ayuntamientos, se podrán otorgar anticipos a los convenios que se celebren en términos del artículo 60 de esta Ley;
 
-V. Cuando las condiciones de los trabajos lo requieran, el porcentaje de anticipo podrá ser mayor, en cuyo caso será necesaria la autorización escrita del titular de las Dependencias, Secretaría o Ayuntamientos en su caso, o de la eprsona (sic) en quien éste haya delegado tal facultad; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+V.- Cuando las condiciones de los trabajos lo requieran, el porcentaje de anticipo podrá ser mayor, en cuyo caso será necesaria la autorización escrita de la persona titular de las Dependencias, Secretaría o Ayuntamientos en su caso, o de la persona en quien éste haya delegado tal facultad; y
 
 VI. Cuando los trabajos se inicien en el último trimestre del primer ejercicio y el anticipo resulte insuficiente, las Dependencias, Secretaría o Ayuntamientos en su caso, podrán por única vez bajo su responsabilidad, complementar en el segundo ejercicio los gastos para el inicio de los trabajos hasta por el diez por ciento del importe de la asignación aprobada para dicho ejercicio, en este caso, el contratista deberá anexar a su proposición el importe desglosado por los conceptos a que se refiere esta fracción.
 
@@ -1017,9 +1033,13 @@ El ajuste de costos que corresponda a los trabajos ejecutados conforme a las est
 
 Las Dependencias, Secretaría o Ayuntamientos podrán, dentro de su presupuesto autorizado, bajo su responsabilidad y por razones fundadas y explícitas, modificar los contratos de obra pública o servicios, mediante convenio, siempre y cuando éstos, considerados conjunta o separadamente, no rebasen el veinticinco por ciento del monto o del plazo pactados en el contrato, ni impliquen variaciones sustanciales al proyecto original.
 
-Si las modificaciones exceden el porcentaje indicado o varían substancialmente el proyecto, deberán celebrar convenios adicionales por una sola vez entre las partes respecto de las nuevas condiciones, en los términos del artículo 25 de esta Ley. Estos convenios deberán ser autorizados bajo la responsabilidad del titular de las Dependencias, Secretaría o Ayuntamientos en su caso, que hayan contratado los trabajos. Dichas modificaciones no podrán, en modo alguno, afectar las condiciones que se refieran a la naturaleza y características esenciales del objeto del contrato original, ni convenirse para eludir en cualquier forma el cumplimiento de esta Ley o de los tratados.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
-De las autorizaciones a que se refiere el párrafo anterior, el titular del área responsable de la contratación de los trabajos informará al órgano interno de control en las Dependencias, Secretaría o Ayuntamientos que se trate. Al efecto, a más tardar el último día hábil de cada mes, deberá presentarse un informe que se referirá a las autorizaciones otorgadas en el mes calendario inmediato anterior.
+Si las modificaciones exceden el porcentaje indicado o varían substancialmente el proyecto, deberán celebrar convenios adicionales por una sola vez entre las partes respecto de las nuevas condiciones, en los términos del artículo 25 de esta Ley. Estos convenios deberán ser autorizados bajo la responsabilidad de la persona titular de las Dependencias, Secretaría o Ayuntamientos en su caso, que hayan contratado los trabajos. Dichas modificaciones no podrán, en modo alguno, afectar las condiciones que se refieran a la naturaleza y características esenciales del objeto del contrato original, ni convenirse para eludir en cualquier forma el cumplimiento de esta Ley o de los tratados.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
+
+De las autorizaciones a que se refiere el párrafo anterior, la persona titular del área responsable de la contratación de los trabajos informará al órgano interno de control en las Dependencias, Secretaría o Ayuntamientos (sic) que se trate. Al efecto, a más tardar el último día hábil de cada mes, deberá presentarse un informe que se referirá a las autorizaciones otorgadas en el mes calendario inmediato anterior.
 
 Tratándose de cantidades adicionales de trabajos no previstos, estas se pagaran a los previos unitarios pactados originalmente; tratándose de los conceptos no previstos en el catálogo de conceptos del contrato, sus precios unitarios deberán ser conciliados y autorizados previamente a su ejecución, que realizados estos se procederá a su pago.
 
@@ -1101,7 +1121,9 @@ Cuando se requieran equipos, instrumentos, elementos prefabricados terminados, m
 
 Los órganos internos de control de las Dependencias, Secretaría o Ayuntamientos, previamente a la ejecución de las obras por administración directa, verificarán que se cuente con los programas de ejecución, de utilización de recursos humanos y de utilización de maquinaria y equipo de construcción.
 
-Previamente a la ejecución de la obra, el Titular de las Dependencias, Secretaría o Ayuntamientos, emitirá el acuerdo respectivo, del cual formarán parte; la descripción pormenorizada de la obra que se deba ejecutar, los proyectos, planos especificaciones, programas de ejecución y suministro, y el presupuesto correspondiente.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
+
+Previamente a la ejecución de la obra, la persona Titular de las Dependencias, Secretaría o Ayuntamientos, emitirá el acuerdo respectivo, del cual formaran parte; la descripción pormenorizada de la obra que se deba ejecutar, los proyectos, planos especificaciones, programas de ejecución y suministro, y el presupuesto correspondiente.
 
 En la ejecución de obras por administración directa serán aplicables, en lo conducente, las disposiciones de esta Ley.
 
@@ -1380,3 +1402,9 @@ Primero.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estad
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 Tercero.- Se derogan aquellas disposiciones de igual o menor rango que se opongan al contenido del presente Decreto.
+
+P.O. 29 DE JULIO DE 2015.
+
+Primero.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
