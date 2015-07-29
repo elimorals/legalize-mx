@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-vivienda-del-estado-libre-y-soberano-de-morelos-84265"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-21"
-last_updated: "2014-04-30"
+last_updated: "2015-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE VIVIENDA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 21 de diciembre de 2011.
 
@@ -71,7 +71,9 @@ Las disposiciones de esta Ley deberán aplicarse bajo principios de equidad e in
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Ejecutivo: El Gobernador del Estado de Morelos;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+I. Ejecutivo: La persona titular del Poder Ejecutivo del Estado;
 
 II. Congreso: El Congreso del Estado de Morelos;
 
@@ -157,13 +159,17 @@ XVII. Autoproducción de vivienda.- El proceso de gestión de suelo, construcci�
 
 XVIII. Autoconstrucción de vivienda.- El proceso de construcción o edificación de la vivienda realizada directamente por sus propios usuarios, en forma individual, familiar o colectiva;
 
-XIX. Producción social de vivienda.- El conjunto de actividades de gestión, elaboración de bienes o prestación de servicios de vivienda de interés social y popular, que realizan personas físicas o morales, familias, instituciones académicas y organizaciones sociales, sin fines de lucro;
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2015)</small>
 
-XX. Política Estatal de Vivienda.- El conjunto de disposiciones, criterios, lineamientos y medidas de carácter general que se establecen para coordinar las acciones de vivienda que realicen las autoridades del Estado y de los municipios, así como su concertación con los sectores privado y social, con la finalidad de cumplir con el mandato constitucional del derecho a la vivienda digna y decorosa;
+XIX. Proceso Habitacional.- El conjunto de programas, proyectos y actividades relativos a los procesos de planeación, construcción y distribución de la vivienda, de acuerdo al Programa de Ordenamiento Ecológico General del Territorio (POEGT) o el Programa de Ordenamiento Ecológico Territorial (POET) Estatal o Municipal de forma organizada, planificada y continua, bajo esquemas de operación estructurados.
 
-XXI. Sistema Estatal de Información e Indicadores de Vivienda.- El conjunto de datos producidos por los sectores público, social y privado, organizados bajo una estructura conceptual predeterminada, que permita mostrar la situación del suelo, vivienda y el mercado habitacional, así como los efectos de las políticas públicas en la materia; y
+XX. Producción social de vivienda.- El conjunto de actividades de gestión, elaboración de bienes o prestación de servicios de vivienda de interés social y popular, que realizan personas físicas o morales, familias, instituciones académicas y organizaciones sociales, sin fines de lucro;
 
-XXII. Sector Privado.- Son las empresas dedicadas y/o especializadas en la construcción de desarrollos de vivienda de forma ordenada y sustentable;
+XXI. Política Estatal de Vivienda.- El conjunto de disposiciones, criterios, lineamientos y medidas de carácter general que se establecen para coordinar las acciones de vivienda que realicen las autoridades del Estado y de los municipios, así como su concertación con los sectores privado y social, con la finalidad de cumplir con el mandato constitucional del derecho a la vivienda digna y decorosa;
+
+XXII. Sistema Estatal de Información e Indicadores de Vivienda.- El conjunto de datos producidos por los sectores público, social y privado, organizados bajo una estructura conceptual predeterminada, que permita mostrar la situación del suelo, vivienda y el mercado habitacional, así como los efectos de las políticas públicas en la materia; y
+
+XXIII. Sector Privado.- Son las empresas dedicadas y/o especializadas en la construcción de desarrollos de vivienda de forma ordenada y sustentable;
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
@@ -201,7 +207,7 @@ XI.- Sustentabilidad ambiental.- Toda acción de vivienda se entiende como un el
 
 XII.- Sustentabilidad de la vivienda.- Las acciones de producción y mejoramiento de vivienda deben integrarse al ambiente en forma armónica, mediante la utilización de materiales y con la utilización de eco-tecnologías y diseños adecuados a su ubicación geográfica y el aprovechamiento eficiente de la energía eléctrica, el agua, y el tratamiento de desechos;
 
-XIII.- Ordenación territorial y urbanística.- La acción de vivienda se considera como un factor para la adecuada ordenación urbanística y territorial; y (sic)
+XIII.- Ordenación territorial y urbanística.- La acción de vivienda se considera como un factor para la adecuada ordenación urbanística y territorial; y
 
 XIV.- Financiamiento asequible y crédito social.- Búsqueda de estrategias y esquemas financieros que favorezcan la adquisición y construcción de vivienda, de la población no sujeta a esquemas de crédito en el sistema financiero nacional; así como los apoyos e instrumentos necesarios para atender a la población en condiciones de pobreza, marginación y vulnerabilidad.
 
@@ -217,9 +223,11 @@ XVI.- Accesibilidad para Discapacitados.- Con el objeto de que las personas con 
 
 La formulación del Programa Estatal de Vivienda deberá llevarse a cabo al inicio de la administración pública estatal y debe sujetarse a lo previsto en la Ley Estatal de Planeación, la Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable del Estado de Morelos, el Plan Estatal de Desarrollo, el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano Sustentable, el Programa Estatal de Reserva Territorial y el Programa Nacional de Vivienda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 7.
 
-El Programa Estatal de Vivienda, deberá contener las bases Jurídicas que permitan conocer el fundamento jurídico legal federal, estatal y municipal en el cual se basa el Programa Estatal de Vivienda;
+El Programa Estatal de Vivienda, deberá contener las bases Jurídicas que permitan conocer el fundamento jurídico legal federal, estatal y municipal en el cual se basa el Programa Estatal de Vivienda:
 
 I. Las bases de la Política Estatal de Vivienda;
 
@@ -229,27 +237,31 @@ III. Objetivos generales, específicos y políticas; así como las estrategias y
 
 IV. Metas a corto, mediano y largo plazo;
 
-V. La previsión sobre la infraestructura y equipamiento urbano, así como los requerimientos de uso de suelo, reservas territoriales y mantos acuíferos para vivienda;
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2015)</small>
 
-VI. La tipología de vivienda que oriente las acciones en la materia;
+V. Fomentar una distribución equilibrada de las acciones de vivienda en todo el Estado, considerando el Programa de Ordenamiento Ecológico General del Territorio (POEGT) o el Programa de Ordenamiento Ecológico Territorial (POET) Estatal o Municipal y las modalidades del proceso habitacional;
 
-VII. Planeación de acciones de vivienda que permitan la reubicación de la población establecida en zonas de alto riesgo, en congruencia con la política de ordenamiento territorial;
+VI. La previsión sobre la infraestructura y equipamiento urbano, así como los requerimientos de uso de suelo, reservas territoriales y mantos acuíferos para vivienda;
 
-VIII. Los mecanismos de fomento a la instrumentación social de vivienda y a la vivienda de construcción progresiva con respeto absoluto a la normatividad en la materia;
+VII. La tipología de vivienda que oriente las acciones en la materia;
 
-IX. Los mecanismos para facilitar el acceso al financiamiento público y privado para la construcción y mejoramiento de vivienda para la población en situación de pobreza, marginalidad y vulnerabilidad;
+VIII. Planeación de acciones de vivienda que permitan la reubicación de la población establecida en zonas de alto riesgo, en congruencia con la política de ordenamiento territorial;
 
-X. Los mecanismos para evitar prácticas indebidas que encarezcan el financiamiento, la adquisición, construcción, reparación, ampliación o mejoramientos de la vivienda;
+IX. Los mecanismos de fomento a la instrumentación social de vivienda y a la vivienda de construcción progresiva con respeto absoluto a la normatividad en la materia;
 
-XI. Las acciones de normalización y certificación de materiales, insumos y procesos de construcción para la vivienda;
+X. Los mecanismos para facilitar el acceso al financiamiento público y privado para la construcción y mejoramiento de vivienda para la población en situación de pobreza, marginalidad y vulnerabilidad;
 
-XII. Las medidas de mejora regulatoria encaminadas a fortalecer la seguridad jurídica y administrativa para disminuir costos y gastos de la vivienda;
+XI. Los mecanismos para evitar prácticas indebidas que encarezcan el financiamiento, la adquisición, construcción, reparación, ampliación o mejoramientos de la vivienda;
 
-XIII. Los mecanismos de coordinación con la Federación y los Municipios, así como los de concertación de los sectores público, privado y social;
+XII. Las acciones de normalización y certificación de materiales, insumos y procesos de construcción para la vivienda;
 
-XIV. Las demás previsiones que señale el Plan Estatal de Desarrollo y otros ordenamientos legales; y
+XIII. Las medidas de mejora regulatoria encaminadas a fortalecer la seguridad jurídica y administrativa para disminuir costos y gastos de la vivienda;
 
-XV. Promover políticas de re densificación de vivienda en los documentos normativos en materia de desarrollo urbano sustentable.
+XIV. Los mecanismos de coordinación con la Federación y los Municipios, así como los de concertación de los sectores público, privado y social;
+
+XV. Las demás previsiones que señale el Plan Estatal de Desarrollo y otros ordenamientos legales; y
+
+XVI. Promover políticas de re densificación de vivienda en los documentos normativos en materia de desarrollo urbano sustentable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
@@ -297,7 +309,7 @@ III.- Fomentar y crear esquemas de concertación con los sectores privado y soci
 
 IV.- Fomentar y celebrar convenios de coordinación y colaboración con la Federación, otras entidades federativas y los Municipios, para el desarrollo de programas y acciones de suelo y vivienda;
 
-V.- Planear, programar y presupuestar, las acciones de suelo y vivienda, atendiendo al principio de igualdad social, pero otorgando preferencia a las personas de menores ingresos; y (sic)
+V.- Planear, programar y presupuestar, las acciones de suelo y vivienda, atendiendo al principio de igualdad social, pero otorgando preferencia a las personas de menores ingresos; y
 
 VI.- Apoyar a los Ayuntamientos que lo soliciten, en la planeación, gestión de recursos, operación de programas y en la ejecución de acciones en materia de suelo y vivienda.
 
@@ -337,7 +349,7 @@ I.- Formular, ejecutar y evaluar el Programa Estatal de Vivienda;
 
 II.- Ejecutar, dentro del ámbito de su competencia y en coordinación con la Secretaría, el Programa Estatal de Vivienda.;
 
-III.- Planear, formular, coordinar y ejecutar programas y acciones para el desarrollo de la vivienda Turística, de interés social, económica (sic), popular y rural, así como Instalar y operar el Comité Técnico de Vivienda;
+III.- Planear, formular, coordinar y ejecutar programas y acciones para el desarrollo de la vivienda Turística, de interés social, económica, popular y rural, así como Instalar y operar el Comité Técnico de Vivienda;
 
 IV.- Establecer e instrumentar un sistema de indicadores de las tendencias de desarrollo urbano y el ordenamiento territorial, a mediano y largo plazo, estableciendo, al finalizar cada año, calendario de cuál es el rezago por tipo de vivienda en el Estado; y
 
@@ -369,9 +381,15 @@ III. Fomentar políticas que incentiven al sector de la construcción, brindánd
 
 IV. Propiciar la colaboración de los sectores público, social y privado en el fomento y promoción de actividades y servicios para el desarrollo de la vivienda;
 
-V. Proponer y en su caso, realizar estudios que sirvan de base para la elaboración, seguimiento y evaluación de acciones específicas de vivienda; y
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2015)</small>
 
-VI.- Las demás que le encomiende el Gobernador del Estado.
+V.- Procurar que las acciones de vivienda, se realicen de acuerdo a los estudios, evaluaciones y a la demanda de cada región del Estado, de conformidad con los lineamientos específicos de la legislación vigente;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+VI.- Las demás que le encomiende la persona titular del Poder Ejecutivo del Estado
+
+VII.- Las demás que le encomiende el Gobernador del Estado.
 
 ###### Artículo 17.
 
@@ -551,9 +569,11 @@ III. Conceder facilidades y apoyos en el pago de impuestos y derechos relacionad
 
 IV. Los estímulos, apoyos y facilidades que sean otorgados por la autoridad a los demás productores de vivienda, en cuanto esto sea procedente.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
+
 ###### ARTÍCULO 38.
 
-Los contratos, las operaciones y actos relacionados con los inmuebles a que se refiere la presente Ley, quedan sujetos a los subsidios y reducciones del pago del impuesto, derechos o contribuciones de conformidad con las normas que al efecto expida el Gobernador del Estado.
+Los contratos, las operaciones y actos relacionados con los inmuebles a que se refiere la presente Ley, quedan sujetos a los subsidios y reducciones del pago del impuesto, derechos o contribuciones de conformidad con las normas que al efecto expida la persona Titular del Poder Ejecutivo del Estado.
 
 ### CAPÍTULO IX. DE LA PRODUCCIÓN SOCIAL DE VIVIENDA
 
@@ -720,3 +740,19 @@ DECRETO NÚMERO 1,328 POR EL QUE SE REFORMA LA FRACCIÓN XIV, DEL ARTÍCULO 3, D
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refieren los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libe y Soberano de Morelos.
+
+P.O. 29 DE JULIO DE 2015.
+
+DECRETO NÚMERO 2557 POR EL QUE SE ADICIONAN UNA FRACCIÓN XIX, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES FRACCIONES DEL ARTÍCULO 3; UNA FRACCIÓN V, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES FRACCIONES AL ARTÍCULO 7; Y UNA FRACCIÓN V, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES FRACCIONES AL ARTÍCULO 16, TODOS DE LA LEY DE VIVIENDA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+Primero.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos señalados en los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+P.O. 29 DE JULIO DE 2015.
+
+DECRETO NÚMERO 2560, POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 3, LA FRACCIÓN VI DEL ARTÍCULO 16 Y EL ARTÍCULO 38, TODOS DE LA LEY DE VIVIENDA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+Primero.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
