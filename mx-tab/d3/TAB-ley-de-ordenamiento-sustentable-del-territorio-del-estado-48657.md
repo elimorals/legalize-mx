@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-ordenamiento-sustentable-del-territorio-del-estado-48657
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-28"
-last_updated: "2011-09-28"
+last_updated: "2015-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48657&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE ORDENAMIENTO SUSTENTABLE DEL TERRITORIO DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 28 de diciembre de 2005.
 
@@ -127,13 +127,23 @@ d. El desarrollo urbano.
 
 XVI. Reglamento: El Reglamento de la Ley de Ordenamiento Sustentable del Territorio del Estado de Tabasco;
 
-XVII. Secretaría: Secretaría de Comunicaciones, Asentamientos y Obras Públicas;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+XVII. Secretaría: Secretaría de Ordenamiento Territorial y Obras Públicas;
 
 XVIII. Territorio: Es el espacio de asentamiento de una comunidad, el hábitat de una población, y encierra también sus dimensiones social, económica y cultural. Se ve afectado por las actividades socioeconómicas que la sociedad desarrolla en el mismo, considerando tanto su ocupación física como el ejercicio político sobre el mismo y el derecho a su uso.
 
-XIX. Zonificación: La determinación de las áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
 
-XX. Consejo de Colaboración: Es el órgano de participación social, asesoría y consulta de los Ayuntamientos.
+XIX. Zonificación: La determinación de las áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+XX. Consejo de Colaboración: Es el órgano de participación social, asesoría y consulta de los Ayuntamientos; y
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2015)</small>
+
+XXI. Impacto Vial: Es la alteración al sistema vial y de transporte, ocasionada por algún proyecto u obra pública o privada, el cual será evaluado por la autoridad competente.
 
 ###### Artículo 3.
 
@@ -267,7 +277,9 @@ IX. Verificar que las autorizaciones emitidas por los Ayuntamientos o Consejos M
 
 X. Dictaminar los casos en que sean de utilidad pública la ocupación de los bienes inmuebles de propiedad privada, interviniendo en la expropiación, afectación y destino de dichos bienes;
 
-XI. Comprobar la inscripción en el Registro Público de la Propiedad de los diversos programas materia de la presente Ley, y de los convenios que reconozcan la existencia de una zona conurbada o zona metropolitana;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+XI. Comprobar la inscripción en el Instituto Registral del Estado de Tabasco de los diversos programas materia de la presente Ley, y de los convenios que reconozcan la existencia de una zona conurbada o zona metropolitana;
 
 XII. Establecer mecanismos de coordinación con la Autoridad Catastral, para que ésta integre en sus registros la información derivada de los diversos programas materia de la presente Ley, que le resulte relevante para sus fines y quien a su vez proporcionará la información catastral, para elaborar, actualizar o modificar los mismos programas;
 
@@ -291,9 +303,19 @@ XXI. Establecer los lineamientos generales a los que habrá de sujetarse la crea
 
 XXII. Revisar y validar los dictámenes de impacto urbano en los casos exigidos por la presente Ley;
 
-XXIII. Celebrar, con el Gobierno Federal, el gobierno de otros Estados y con Ayuntamientos o Concejos Municipales de la Entidad, en los términos que señala la Constitución Política Estatal, los convenios que sean necesarios para cumplir con los objetivos de los Programas en las materias que se ocupa la presente Ley; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
 
-XXIV. Las demás que le atribuyan la presente Ley y otros ordenamientos legales.
+XXIII. Celebrar, con el Gobierno Federal, los gobiernos de otras Entidades y con Ayuntamientos o Concejos municipales de la Entidad, en los términos que señala la Constitución Política Estatal, los convenios que sean necesarios para cumplir con los objetivos de los Programas en las materias que se ocupa la presente Ley;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2015)</small>
+
+XXIV. Realizar la Certificación de los predios por ubicación en zona de riesgo;
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2015)</small>
+
+XXV. Establecer en sus instalaciones la Ventanilla Única; y
+
+XXVI. Las demás que le atribuyan la presente Ley y otros ordenamientos legales.
 
 ###### Artículo 10.
 
@@ -325,7 +347,9 @@ XII. Intervenir en la regularización de la tenencia de la tierra evaluando la f
 
 XIII. Otorgar, cancelar o negar, en su caso, las licencias y permisos de construcción;
 
-XIV. Otorgar, cancelar o negar, en su caso, las autorizaciones de fraccionamientos, en los contextos integrados de la ventanilla única;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+XIV. Otorgar, cancelar o negar, en su caso, las autorizaciones de fraccionamientos;
 
 XV. Participar en la promoción, creación y administración de sus reservas territoriales;
 
@@ -439,9 +463,13 @@ El Consejo Multidisciplinario Estatal para el Desarrollo Territorial y Urbano, e
 
 I. El Gobernador del Estado, quien fungirá como su Presidente;
 
-II. El Secretario de Comunicaciones, Asentamientos y Obras Públicas, quien será el Secretario Técnico;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
 
-III. El Secretario de Desarrollo Social y Protección del Medio Ambiente;
+II. El Secretario de Ordenamiento Territorial y Obras Públicas, quien será el Secretario Técnico;
+
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+III. El Secretario de Energía, Recursos Naturales y Protección Ambiental;
 
 IV. El Secretario de Finanzas;
 
@@ -451,7 +479,7 @@ VI. El Secretario de Desarrollo Agropecuario, Forestal y Pesca;
 
 VII. El Director General del Instituto de Vivienda de Tabasco;
 
-VIII. El Director General del Instituto del Agua del Estado de Tabasco;
+VIII. (DEROGADA, P.O. 29 DE JULIO DE 2015)
 
 IX. El Coordinador del Sistema de Agua y Saneamiento del Municipio de Centro;
 
@@ -475,7 +503,9 @@ e). Instituto Nacional de Estadística, Geografía e Informática;
 
 f). Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
-g). Secretaría de la Reforma Agraria;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+g). Secretaría de Desarrollo Agrario, Territorial y Urbano;
 
 h). Registro Agrario Nacional;
 
@@ -505,7 +535,7 @@ i). Colegio de Notarios;
 
 j). Colegios de Abogados; y
 
-k). Consejo Estatal de Ecología;
+k). (DEROGADO, P.O. 29 DE JULIO DE 2015)
 
 XV. Las demás dependencias, autoridades municipales, instituciones, asociaciones y personas, que deban integrarse por invitación del Gobernador del Estado, que cuenten con reconocida solvencia moral y experiencia en la materia de la presente Ley, para que con el carácter de asesores honoríficos, aporten sus conocimientos y experiencias.
 
@@ -1045,9 +1075,11 @@ Las declaratorias de reservas contendrán la delimitación de las áreas de expa
 
 ### CAPITULO VII. PUBLICACIÓN Y REGISTRO DE LOS PROGRAMAS
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
+
 ###### Artículo 57.
 
-Aprobados los Programas materia de esta Ley por el Gobernador del Estado, por conducto de la Secretaría, por el Ayuntamiento o en su caso, Concejo Municipal, se hará una publicación completa en el Periódico Oficial del Estado. Posteriormente se inscribirán en un plazo de diez días hábiles contados a partir de la fecha de su publicación, en el Registro Público de la Propiedad, para que surta los efectos previstos por esta Ley.
+Aprobados los Programas materia de esta Ley por el Gobernador del Estado, por conducto de la Secretaría, por el Ayuntamiento o en su caso, Concejo Municipal, se hará una publicación completa en el Periódico Oficial del Estado. Posteriormente se inscribirán en un plazo de diez días hábiles contados a partir de la fecha de su publicación, en el Instituto Registral del Estado de Tabasco, para que surta los efectos previstos por esta Ley.
 
 ###### Artículo 58.
 
@@ -1269,7 +1301,9 @@ La determinación de usos se establecerá conforme a las disposiciones a las que
 
 La determinación de destinos en los Programas de Desarrollo Urbano Municipales, de Centros de Población y Parciales contendrá la descripción precisa del fin o aprovechamiento público a que éstos prevean afectarse y la procedencia de las acciones que conlleven a la adquisición por parte del Municipio o el Estado de los predios y fincas, para proveer a la comunidad de los fines públicos establecidos en las mismas, ejecutando las obras de infraestructura y equipamiento necesarias.
 
-No producirán efecto jurídico alguno los actos, convenios y contratos relativos a la propiedad o cualquier otro derecho relacionado con el aprovechamiento de áreas y predios, que contravengan las correspondientes provisiones, usos, destinos y reservas inscritas en el Registro Público de la Propiedad, así como los actos jurídicos de traslación de dominio que se realicen sin respetar el derecho de preferencia a que se refiere la presente Ley.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
+
+No producirán efecto jurídico alguno los actos, convenios y contratos relativos a la propiedad o cualquier otro derecho relacionado con el aprovechamiento de áreas y predios, que contravengan las correspondientes provisiones, usos, destinos y reservas inscritas en el Instituto Registral del Estado de Tabasco, así como los actos jurídicos de traslación de dominio que se realicen sin respetar el derecho de preferencia a que se refiere la presente Ley.
 
 ###### Artículo 74.
 
@@ -1343,7 +1377,9 @@ I. Un Presidente, que será el Gobernador del Estado o la persona que éste desi
 
 II. Dos o más presidentes municipales;
 
-III. Un secretario técnico, que será el Secretario de Comunicaciones, Asentamientos y Obras Públicas del Estado o la persona que este designe; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+III. Un secretario técnico, que será el Secretario de Ordenamiento Territorial y Obras Públicas del Estado o la persona que éste designe; y
 
 IV. Los representantes de las dependencias, órganos y entidades de la administración pública estatal, municipal y de los sectores social y privado que intervengan o estén relacionados en el ordenamiento territorial y en el desarrollo urbano.
 
@@ -1803,9 +1839,11 @@ VI. Las medidas que propicien el aprovechamiento de áreas y predios baldíos qu
 
 VII. Los mecanismos e instrumentos financieros para la dotación de infraestructura, equipamiento y servicios urbanos, así como la edificación o mejoramiento de vivienda.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
+
 ###### Artículo 136.
 
-El Programa de Constitución de Reservas Territoriales se publicará en el Periódico Oficial del Estado; asimismo se inscribirá en el Registro Agrario Nacional, en el Registro Público de la Propiedad Federal o en el Registro Público de la Propiedad que corresponda y en la oficina del Catastro correspondiente; debiéndose insertar en el Programa Estatal de Ordenamiento Territorial y en los Programas Estatales y Municipales de Desarrollo Urbano.
+El Programa de Constitución de Reservas Territoriales se publicará en el Periódico Oficial del Estado; asimismo se inscribirá en el Registro Agrario Nacional, en el Registro Público de la Propiedad Federal, en el Instituto Registral del Estado de Tabasco, según corresponda y en la oficina del Catastro respectiva; debiéndose insertar en el Programa Estatal de Ordenamiento Territorial y en los Programas Estatales y Municipales de Desarrollo Urbano.
 
 ###### Artículo 137.
 
@@ -2269,9 +2307,11 @@ Cuando el Ayuntamiento o Concejo Municipal lo considere necesario, requerirá de
 
 El Ayuntamiento o Concejo Municipal podrá negar la autorización de relotificaciones, fusiones y subdivisiones de áreas y predios, cuando en el fraccionamiento o zonas en que se pretendan realizar, no se cuente con la suficiente y adecuada cobertura de equipamiento, infraestructura y servicios urbanos.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
+
 ###### Artículo 192.
 
-Los derechos y demás gravámenes fiscales que deban cubrirse por las solicitudes de relotificación, fusión, subdivisión, alineamiento y compatibilidad urbanística, serán fijados de acuerdo a lo previsto en las leyes fiscales correspondientes.
+Los derechos y demás gravámenes fiscales que deban cubrirse por las solicitudes de relotificación, fusión, subdivisión y alineamiento, serán fijados de acuerdo a lo previsto en las leyes fiscales correspondientes.
 
 ###### Artículo 193.
 
@@ -2379,17 +2419,23 @@ El Reglamento de la presente Ley, determinará las características de este tipo
 
 Los interesados en obtener la autorización para construir un fraccionamiento de cualquiera de los tipos señalados en el artículo 195 de la presente Ley o de un fraccionamiento especial, deberán formular ante el Ayuntamiento o Concejo Municipal, la solicitud por escrito acompañada de los documentos siguientes:
 
-I. Título o títulos de propiedad de los terrenos, debidamente inscritos en el Registro Público de la Propiedad, o en su caso los convenios celebrados con los propietarios para realizar el fraccionamiento;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+I. Título o títulos de propiedad de los terrenos, debidamente inscritos en el Instituto Registral del Estado de Tabasco o, en su caso, los convenios celebrados con los propietarios para realizar el fraccionamiento;
 
 II. Certificado de libertad de gravámenes;
 
-III. Copia certificada del Acta Constitutiva de la Sociedad, Fideicomiso o Empresa fraccionadora, debidamente inscrita en el Registro Público de la Propiedad, cuando se trate de persona moral;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+III. Copia certificada del Acta Constitutiva de la Sociedad, Fideicomiso o Empresa fraccionadora, debidamente inscrita en el Instituto Registral del Estado de Tabasco, cuando se trate de persona moral;
 
 IV. Comprobantes de pago de los impuestos y derechos sobre el predio;
 
-V. Dictamen de compatibilidad urbanística, de uso y destino derivados del Programa de Desarrollo Urbano del Centro de Población;
+V. (DEROGADA, P.O. 29 DE JULIO DE 2015)
 
-VI. Manifestación de impacto ambiental validada por la Secretaría de Desarrollo Social y Protección del Medio Ambiente;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+VI. Manifestación de impacto ambiental validada por la Secretaría de Energía, Recursos Naturales y Protección Ambiental;
 
 VII. Memoria descriptiva del fraccionamiento y proyecto general a escala de lotificación, con señalamiento de manzanas, zonificación interna, propuesta de nomenclatura, localización de áreas verdes y áreas de donación, así como de los planos y memorias de cálculo de las vialidades, localización de la fuente de abastecimiento y redes de agua potable y alcantarillado, electrificación y alumbrado público;
 
@@ -2575,7 +2621,9 @@ VI. Conservar y mantener las obras de urbanización y equipamiento en buen estad
 
 VII. Prestar gratuitamente los servicios municipales de agua potable, drenaje, alumbrado público y recolección de basura, hasta la fecha de entrega al Municipio, en caso de que se le haya autorizado la realización de operaciones comerciales que permitan la ocupación legal de lotes antes de su entrega;
 
-VIII. Inscribir en el Registro Público de la Propiedad, los planos definitivos de lotificación o zonificación y de la memoria descriptiva de lotes o predios, dentro de un plazo no mayor de sesenta días hábiles siguientes a la notificación de la resolución favorable;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+VIII. Inscribir en el Instituto Registral del Estado de Tabasco, los planos definitivos de lotificación o zonificación y de la memoria descriptiva de lotes o predios, dentro de un plazo no mayor de sesenta días hábiles siguientes al en que se le notifique la resolución favorable. Cuando en los ordenamientos municipales respectivos se establezca que esta acción pueda ser realizada por la Dirección de Obras u homóloga, se procederá conforme a la norma municipal;
 
 IX. Responder de los vicios y defectos ocultos de las obras, así como de los daños que cause a las obras e instalaciones existentes con motivo de la autorización;
 
@@ -2943,21 +2991,21 @@ El Gobierno del Estado y los gobiernos municipales se coordinarán para ejercer 
 
 ### CAPITULO XX. SISTEMA DE VENTANILLA UNICA
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
+
 ###### Artículo 272.
 
-Los Ayuntamientos o Concejos Municipales y la Secretaría podrán suscribir convenios de coordinación, para la autorización de solicitudes, licencias, permisos, autorizaciones o concesiones, materias de la presente Ley, con las dependencias y entidades federales, a través del Sistema de Ventanilla Única.
-
-Debiéndose entender por Sistema de Ventanilla Única; El sistema administrativo que reúne al mayor número posible de las dependencias y entidades del sector público, tanto federal, estatal y municipales para la atención, tramitación y resolución integral de solicitudes, licencias, permisos, autorizaciones o concesiones materias de la presente Ley.
-
-El sistema de ventanilla única, deberá comprender el conjunto de actos y procedimientos por medio de los cuales, las autoridades del Estado y de los Municipios, en el ámbito de sus respectivas competencias, supervisan que la gestión y actividad de ordenamiento territorial y de desarrollo urbano se lleven a cabo de acuerdo con lo dispuesto por esta Ley, los Programas y reglamentos y demás ordenamientos jurídicos y administrativos aplicables.
+Los Ayuntamientos o Concejos Municipales y la Secretaría deberán promover la suscripción de convenios de coordinación, con las dependencias y entidades federales competentes, para la autorización de solicitudes, licencias, permisos, autorizaciones o concesiones, a través del Sistema de Ventanilla Única; cuando así resulte pertinente.
 
 ###### Artículo 273.
 
 Las licencias, permisos, autorizaciones o concesiones que se expidan en contravención de esta Ley, sus reglamentos o los Programas de Desarrollo Urbano, serán nulas.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
+
 ###### Artículo 274.
 
-No serán inscritas en el Registro Público de la Propiedad, las escrituras públicas o privadas en las que no se cumpla con lo dispuesto por los artículos 4 y 5 de la presente Ley.
+No serán inscritos en el Instituto Registral del Estado de Tabasco, los instrumentos en los que no se cumpla con lo dispuesto por los artículos 4 y 5 de la presente Ley.
 
 ###### Artículo 275.
 
@@ -3017,6 +3065,42 @@ X. Los demás datos, elementos, criterios o lineamientos que se deriven de la pr
 
 Las licencias y autorizaciones tendrán la vigencia que determine la disposición legal o reglamento correspondiente y podrán ser prorrogadas por determinación de los mismos.
 
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2015)</small>
+
+###### Artículo 280 Bis.
+
+Mediante el Sistema de Ventanilla Única se podrán realizar todos los trámites estatales involucrados con la autorización de construcción.
+
+El Reglamento de esta Ley señalará los trámites en que aplicará el Sistema de Ventanilla Única y los requisitos a cumplir en cada uno de ellos, así como las normas aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2015)</small>
+
+###### Artículo 280 Bis 1.
+
+Conforme a lo dispuesto en el artículo anterior, la Ventanilla Única tendrá las funciones siguientes:
+
+I. Verificar la documentación entregada por el usuario y orientarle en caso de presentar documentación incorrecta e insuficiente;
+
+II. Dirigir al área competente de la Secretaría de Ordenamiento Territorial y Obras Públicas, la información completa referente a los trámites de Certificación de Predio e Impacto Urbano;
+
+III. Recibir los resolutivos emitidos por la Secretaría de Ordenamiento Territorial y Obras Públicas, referentes a los trámites de Certificación de Predio e Impacto Urbano;
+
+IV. Remitir a las autoridades competentes la documentación para que se realicen los trámites de Dictamen de Impacto Ambiental, Dictamen de Impacto Vial y Dictamen de Análisis de Riesgos, previo el pago de los derechos correspondientes;
+
+V. Recibir los resolutivos emitidos por la Secretaría de Energía, Recursos Naturales y Protección Ambiental, la Policía Estatal de Caminos y el Instituto de Protección Civil del Estado respecto de los trámites de Dictamen de Impacto Ambiental, Dictamen de Impacto Vial y Dictamen de Análisis de Riesgos, respectivamente;
+
+VI. Entregar al promovente, los resolutivos de Impacto Ambiental, Impacto Vial, y Análisis de Riesgos emitidos por las autoridades competentes;
+
+VII. Difundir y actualizar el Manual de Operación de la Ventanilla Única Estatal de Construcción; y
+
+VIII. Las demás que le sean encomendadas.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2015)</small>
+
+###### Artículo 280 Bis 2.
+
+El procedimiento interno que lleva cada dependencia para resolver los trámites ingresados mediante la Ventanilla Única se modificará exclusivamente al presentarse por este medio, y se apegará a lo establecido en los artículos 164 al 172 del Reglamento de la presente Ley. Para los demás casos, el procedimiento se aplicará conforme a lo dispuesto en la presente Ley y su Reglamento, la Ley de Protección Ambiental del Estado de Tabasco y su Reglamento, en materia de evaluación del impacto y riesgo ambiental; la Ley de Protección Civil del Estado de Tabasco, la Ley General de Tránsito y Vialidad del Estado de Tabasco y su Reglamento y demás ordenamientos aplicables.
+
 ### CAPÍTULO XXI. DE LA REGULARIZACION DE LA TENENCIA DE LA TIERRA
 
 ###### Artículo 281.
@@ -3051,7 +3135,9 @@ IV. Formulación del dictamen de usos o destinos, por los Ayuntamientos o Concej
 
 La Secretaría al tener conocimiento de un asentamiento humano irregular o la formación de éste, procederá hacerlo del conocimiento al Ayuntamiento o Concejo Municipal correspondiente, para que proceda de acuerdo a la legislación y reglamentación correspondiente.
 
-Además procederán a la solicitud de inscripción marginal en la escritura correspondiente en el Registro Público de la Propiedad, de que se trata de un asentamiento irregular, sin demérito de la adopción de otras medidas de seguridad procedentes, e impondrán las sanciones administrativas que establece esta Ley, con independencia de los ilícitos en que se hubiere incurrido.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
+
+Además procederán a la solicitud de inscripción marginal en la escritura correspondiente en el Instituto Registral del Estado de Tabasco, de que se trata de un asentamiento irregular, sin demérito de la adopción de otras medidas de seguridad procedentes, e impondrán las sanciones administrativas que establece esta Ley, con independencia de los ilícitos en que se hubiere incurrido.
 
 ###### Artículo 285.
 
@@ -3117,7 +3203,9 @@ V. Las obligaciones a cargo del Gobernador del Estado, la Secretaría y de los A
 
 VI. Los plazos de iniciación, revisión y terminación de las obras;
 
-VII. Constancia de compatibilidad urbanística y licencia de uso de suelo; y
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+VII. Licencia de uso de suelo; y
 
 VIII. Las autorizaciones de fraccionamientos o condominios, en su caso.
 
@@ -3269,9 +3357,11 @@ Los propietarios o poseedores de predios además del pago señalado en el párra
 
 ### CAPITULO XXV. DE LAS NOTIFICACIONES, TERMINOS E INSPECCIONES
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
+
 ###### Artículo 302.
 
-Todas las resoluciones emitidas por la Secretaría, o los Ayuntamientos o Concejos Municipales, deberán ser notificadas personalmente al interesado, entregándole copia de las mismas.
+Todas las resoluciones emitidas por la Secretaría, o los Ayuntamientos o Concejos Municipales, deberán ser notificadas al interesado, entregándole copia de las mismas, de acuerdo a los medios de tramitación estipulados en la presente Ley, su Reglamento y demás ordenamientos aplicables.
 
 ###### Artículo 303.
 
@@ -3385,7 +3475,9 @@ VII. Cuando se proporcione información falsa o que actúen con dolo o mala fe e
 
 VIII Cuando se haya actuado con dolo o mala fe al interponer una inconformidad o proporcionado información falsa en la presentación o desahogo de la misma; y
 
-IX. Cuando se realice el registro de escritura pública, permiso o autorización por los empleados del Registro Público de la Propiedad y del Comercio, en contravención a la presente Ley, su reglamento y de los programas y declaratorias respectivas.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+IX. Cuando se realice el registro de escritura pública, permiso o autorización por los empleados del Instituto Registral del Estado de Tabasco, en contravención a la presente Ley, su Reglamento y de los programas y declaratorias respectivas.
 
 En los casos de responsabilidad de Notarios públicos, las sanciones que se apliquen serán independientes de las que se establezcan y se les apliquen en la ley específica de su actividad.
 
@@ -3568,3 +3660,13 @@ DECRETO No. 127, POR EL QUE SE REFORMAN LAS FRACCIONES II Y III DEL ARTICULO 268
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 29 DE JULIO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las demás disposiciones legales de igual naturaleza que se opongan al presente Decreto.
+
+TERCERO. El Titular del Poder Ejecutivo, así como los ayuntamientos, conforme a sus respectivas competencias, procederán a realizar las adecuaciones reglamentarias correspondientes de conformidad con el presente Decreto, en un término no mayor a ciento veinte días naturales, a partir de la entrada en vigor de este Decreto.
+
+En tanto se expidan los nuevos ordenamientos que regulen aspectos sustantivos y adjetivos de este Decreto, seguirán aplicándose en lo conducente y en todo lo que no se oponga al mismo, las disposiciones reglamentarias y administrativas que regulaban los aspectos previstos en el presente.
