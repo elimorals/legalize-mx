@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2013-11-20"
+last_updated: "2015-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -67,13 +67,19 @@ El pueblo ejerce su soberanía por medio por (sic) los Poderes del Estado, en lo
 
 La renovación de los Poderes Legislativo, Ejecutivo y de los Ayuntamientos, se realizará por medio de elecciones libres, auténticas y periódicas que se celebrarán el mismo día y año que las elecciones federales, con la participación corresponsable de los ciudadanos y de los partidos políticos. El instrumento único de expresión de la voluntad popular es el voto universal, libre, secreto, directo e intransferible.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
-La jornada comicial tendrá lugar el primer domingo de julio del año que corresponda. El Instituto Electoral del Estado podrá convenir con el Instituto Federal Electoral, que éste se haga cargo de la organización de los procesos electorales locales, en términos de la legislación aplicable.
+La organización de las elecciones es una función estatal que se realiza a través del Instituto Electoral del Estado, organismo público local, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y de la legislación electoral aplicable.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2015)</small>
+
+La jornada comicial tendrá lugar el primer domingo de junio del año que corresponda. El Instituto Electoral del Estado podrá convenir con el Instituto Nacional Electoral, que éste se haga cargo de la organización de los procesos electorales locales, en términos de la legislación aplicable.
 
 I.- La elección de Gobernador, de Diputados por los principios de mayoría relativa y representación proporcional y de miembros de Ayuntamientos en el Estado, se efectuará conforme a lo previsto en esta Constitución, y el Código de la materia, que regulará:
 
-a) Las etapas del proceso electoral y la forma de participación de los ciudadanos en el mismo;
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
+
+a) Los actos preliminares al inicio del proceso electoral, así como las etapas del proceso electoral y la forma de participación de los ciudadanos en el mismo;
 
 b) Los derechos, prerrogativas y obligaciones de los partidos políticos;
 
@@ -87,17 +93,25 @@ f) Las causales de nulidad de votación recibida en casilla y, de las elecciones
 
 g) Las faltas administrativas y sanciones.
 
-II.- El Instituto Electoral del Estado será el organismo público, de carácter permanente, autónomo e independiente, con personalidad jurídica y patrimonio propios, al que se le encomendará la función estatal de organizar las elecciones. En el ejercicio de estas funciones serán principios rectores la legalidad, la imparcialidad, la objetividad, la certeza y la independencia. Además tendrá a su cargo, en los términos de esta Constitución y de la Ley respectiva, la organización de los procesos de plebiscito y referéndum.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2015)</small>
 
-Los órganos del Instituto estarán integrados invariablemente por ciudadanos, quienes de manera exclusiva, con su voto, tomarán las decisiones del organismo; los partidos políticos y el Poder Legislativo, en los términos que prescriban las disposiciones legales relativas.
+II.- El Instituto Electoral del Estado será el organismo público local, dotado de personalidad jurídica y patrimonio propios, gozará de autonomía en su funcionamiento e independencia en sus decisiones, de carácter permanente, al que se le encomendará la función estatal de organizar las elecciones. En el ejercicio de estas funciones serán principios rectores la legalidad, la imparcialidad, la objetividad, la certeza, la independencia y máxima publicidad. Además tendrá a su cargo, en los términos de esta Constitución y de la Ley respectiva, la organización de los procesos de plebiscito y referéndum.
 
-El Instituto deberá vigilar en el ámbito electoral el cumplimiento de las disposiciones de esta Constitución y sus correspondientes reglamentarias, que garanticen el derecho de organización y participación política de los ciudadanos; contribuir al desarrollo de la vida democrática; garantizar la celebración periódica y pacífica de las elecciones para renovar a los integrantes de los Poderes Legislativo, Ejecutivo y de miembros de los Ayuntamientos del Estado; asegurar el ejercicio de los derechos político-electorales de los ciudadanos y de los partidos políticos, vigilando el cumplimiento de sus obligaciones; vigilar la autenticidad y efectividad del voto; preservar el fortalecimiento del régimen de partidos políticos y coadyuvar en la promoción y difusión de la cultura política y la educación cívica.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
-El Consejo General será el Órgano Superior de Dirección del Instituto y el responsable de vigilar el cumplimento de las disposiciones constitucionales y legales en materia electoral, así como de vigilar que los principios de legalidad, imparcialidad, objetividad, certeza e independencia guíen todas las actividades del Instituto.
+Los órganos del Instituto estarán integrados invariablemente por ciudadanos, quienes de manera exclusiva, con su voto, tomarán las decisiones del organismo; y los partidos políticos en los términos que prescriban las disposiciones legales relativas.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
-El Consejo General se reunirá en la primera semana del mes de febrero del año de la jornada electoral para declarar el inicio del proceso electoral.
+El Instituto deberá vigilar en el ámbito de su competencia el cumplimiento de las disposiciones de esta Constitución y sus correspondientes reglamentarias, que garanticen el derecho de organización y participación política de los ciudadanos; contribuir al desarrollo de la vida democrática; garantizar la celebración periódica y pacífica de las elecciones para renovar a los integrantes de los Poderes Legislativo, Ejecutivo y de miembros de los Ayuntamientos del Estado; asegurar el ejercicio de los derechos político-electorales de los ciudadanos y de los partidos políticos, vigilando el cumplimiento de sus obligaciones; vigilar la autenticidad y efectividad del voto; preservar el fortalecimiento del régimen de partidos políticos y coadyuvar en la promoción y difusión de la cultura política y la educación cívica.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
+
+El Consejo General será el Órgano Superior de Dirección del Instituto y el responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de vigilar que los principios de legalidad, imparcialidad, objetividad, certeza, independencia y máxima publicidad guíen todas las actividades del Instituto.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
+
+El Consejo General se reunirá la cuarta semana de noviembre del año previo a la elección para declarar el inicio del proceso electoral.
 
 El Consejo General del Instituto se integrará por:
 
@@ -105,13 +119,17 @@ El Consejo General del Instituto se integrará por:
 
 a) Un Consejero Presidente con derecho a voz y voto.
 
-b) Ocho Consejeros Electorales con derecho a voz y voto;
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
-c) Un representante del Poder Legislativo por cada uno de los partidos políticos que integren el Congreso del Estado, con derecho a voz y sin voto;
+b) Seis Consejeros Electorales con derecho a voz y voto;
+
+c) (DEROGADO, P.O. 29 DE JULIO DE 2015)
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
 d) Un representante de partido por cada uno de los partidos políticos con registro, previa acreditación, con derecho a voz y sin voto;
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
 e) El Secretario Ejecutivo del Instituto, quien es también el Secretario del Consejo General, con derecho a voz y sin voto;
 
@@ -119,53 +137,81 @@ f) (DEROGADO, P.O. 28 DE OCTUBRE DE 2011)
 
 g) (DEROGADO, P.O. 28 DE OCTUBRE DE 2011)
 
-La designación del Consejero Presidente y de los Consejeros Electorales a los que se refieren los incisos anteriores de este artículo es responsabilidad exclusiva de la Legislatura del Estado. Serán nombrados por consenso o por mayoría calificada de los miembros del Congreso presentes, en ese orden de prelación, de entre las propuestas que realice la Sociedad Civil y los Grupos Parlamentarios con representación en el Congreso del Estado y conforme a las reglas que establezca el Código.
+(NOTA: EL 26 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 77/2015 Y SU ACUMULADA 78/2015, DECLARÓ LA INVALIDEZ DEL SÉPTIMO PÁRRAFO DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
-Los Consejeros Electorales y el Consejero Presidente deberán reunir los requisitos que el Código les exija para su nombramiento, el que deberá realizarse a más tardar en el mes de octubre del año anterior al de la elección, desempeñarán su encargo por un periodo de siete años. La retribución que perciban los Consejeros Electorales será igual a la prevista para los Magistrados del Tribunal Superior de Justicia del Estado.
+LOS PARTIDOS POLÍTICOS REPRESENTADOS EN EL CONGRESO PODRÁN PARTICIPAR MEDIANTE UN REPRESENTANTE LEGISLATIVO EN LAS SESIONES DEL CONSEJO GENERAL COMO INVITADOS PERMANENTES, NO CONTARÁN PARA LA INTEGRACIÓN DEL QUÓRUM, Y SÓLO TENDRÁN DERECHO A VOZ SIN VOTO.
 
-Durante el tiempo de su nombramiento los Consejeros Electorales y el Consejero Presidente del Consejo General no deberán, en ningún caso, aceptar o desempeñar cargo, empleo o comisión de la Federación, del Estado, de los Municipios o de los partidos políticos.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2011)</small>
+La designación y remoción del Consejero Presidente y de los Consejeros Electorales corresponde al Instituto Nacional Electoral en los términos que establece la legislación correspondiente.
 
-Los Consejeros Electorales, el Consejero Presidente y el Secretario Ejecutivo, no podrán tener ningún otro empleo, cargo o comisión, con excepción de aquellos en que actúen en representación del Consejo General y de los que desempeñen en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, no remunerados.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2011)</small>
+Los Consejeros Electorales Estatales tendrán un período de desempeño de siete años y no podrán ser reelectos. La retribución que perciban los Consejeros Electorales no podrá ser menor a la prevista para los Magistrados del Tribunal Superior de Justicia del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
+
+Los Consejeros Electorales, el Consejero Presidente y el Secretario Ejecutivo, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación, de beneficencia o de aquéllos en que actúen en representación del Consejo General. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
 El Secretario Ejecutivo del Instituto será nombrado por el Consejo General, a propuesta del Consejero Presidente.
 
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
+
 Corresponderá al Consejo General del Instituto Electoral del Estado, realizar el cómputo final de la elección de Gobernador, formular la declaración de validez de la elección y expedir la constancia de Gobernador electo a favor del candidato que hubiera alcanzado el mayor número de votos.
 
-El Instituto Electoral del Estado, será autoridad en la materia, autónomo en su funcionamiento, independiente en sus decisiones y profesional en su desempeño, contando en su estructura con un cuerpo directivo y técnico integrado con miembros del Servicio Electoral Profesional, en términos del Estatuto que regule su funcionamiento.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2011)</small>
+El Instituto Electoral del Estado, será autoridad en la materia, autónomo en su funcionamiento, independiente en sus decisiones y profesional en su desempeño, contando en su estructura con un cuerpo directivo y técnico, en términos de la legislación aplicable. El Instituto contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, sus atribuciones y funcionamiento se regulará en el Código de la materia.
 
-La fiscalización de las finanzas de los partidos políticos estará a cargo de un Órgano Técnico del Instituto Electoral del Estado, dotado de autonomía técnica y de gestión, cuyo titular será designado por el voto de la mayoría de los integrantes del Consejo General a propuesta del Consejero Presidente.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2011)</small>
+La fiscalización de las finanzas de los partidos políticos y de las campañas de los candidatos estará a cargo de la Comisión correspondiente del Instituto Nacional Electoral; con excepción de los casos en que le sea delegada dicha función al Instituto Electoral del Estado, en términos de las disposiciones legales aplicables.
 
-La Ley establecerá los requisitos para ser titular y desarrollará la integración y funcionamiento de dicho Órgano, así como los procedimientos para la sustanciación y la aplicación de sanciones por el Consejo General; el Órgano Técnico tendrá las atribuciones que establezca el Código de la materia.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2011)</small>
+La Ley contemplará la conformación de la Comisión correspondiente y de la estructura de la Unidad encargada de desarrollar los trabajos de fiscalización que de acuerdo con las leyes generales en la materia le corresponden al organismo público local, estableciendo conforme a dichas disposiciones sus atribuciones y estructura.
 
-El vocal del Registro Federal de Electores de la Junta Local Ejecutiva del Instituto Federal Electoral y el titular de la Unidad de Fiscalización, participarán en el Pleno del Consejo General con el único objeto de rendir los informes relativos a los trabajos realizados por el Órgano a su cargo, previa convocatoria por el Consejero Presidente del Consejo General.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 29 DE JULIO DE 2015)</small>
 
-III.- Los partidos políticos son entidades de interés público, democráticos hacia su interior, autónomos y formas de organización política, integrados conforme a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y el Código de Instituciones y Procesos Electorales del Estado de Puebla y tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos; hacer posible el acceso de éstos al ejercicio del poder público de acuerdo con los programas, principios e ideas que postulen y mediante el sufragio universal, libre, secreto y directo.
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2013)</small>
+III.- Los partidos políticos son entidades de interés público, democráticos hacia su interior, autónomos y formas de organización política, integrados conforme a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y la legislación general y local en la materia y tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público de acuerdo con los programas, principios e ideas que postulen y mediante el sufragio universal, libre, secreto y directo. Así como establecer las reglas para garantizar la paridad entre géneros de las candidaturas a integrantes de la legislatura.
 
-Los partidos políticos deberán de constituirse sólo por ciudadanos sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. Asimismo, corresponde a éstos el derecho para solicitar el registro de candidatos a cargos de elección popular, con excepción de lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en esta Constitución.
+Los partidos políticos deberán de constituirse sólo por ciudadanos sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. Asimismo, corresponde a éstos el derecho para solicitar el registro de candidatos a cargos de elección popular, con excepción de lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en esta Constitución. El partido político local que no obtenga, al menos, el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo locales le será cancelado el registro.
+
+La ley establecerá los términos y procedimientos para los partidos políticos nacionales que pierdan su registro y que opten por su registro local.
 
 IV.- El Tribunal Electoral del Estado, como máxima autoridad jurisdiccional en materia electoral del Estado, es el organismo de control constitucional local, autónomo e independiente, de carácter permanente, encargado de garantizar que los actos y resoluciones electorales se sujeten invariablemente a los principios de constitucionalidad, legalidad y definitividad, rectores en los procesos electorales.
 
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2015)</small>
+
+El Tribunal Electoral del Estado, se integrará por tres Magistrados, que actuarán en forma colegiada y permanecerá (sic) en su cargo durante siete años, y serán electos por el Senado de la República, en los términos de la ley aplicable. La retribución que perciban los Magistrados Electorales durante el tiempo que ejerzan sus funciones, no podrá ser menor a la prevista para los Magistrados del Tribunal Superior de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2015)</small>
+
+El Código de la materia establecerá el procedimiento de designación del Magistrado Presidente, así como las reglas para cubrir las vacantes temporales que se presenten. La presidencia deberá ser rotatoria. En el caso de las vacantes definitivas, se dará vista al Senado de la República.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2015)</small>
+
+Además de lo establecido en las leyes que resulten aplicables, el Código de la materia determinará las causas adicionales de responsabilidad de los Magistrados Electorales.
+
+> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2015)</small>
+
+Las impugnaciones en contra de los actos que, conforme a la base V del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, realice el Instituto Nacional Electoral con motivo de los procesos electorales locales, serán resueltas por el Tribunal Electoral del Poder Judicial de la Federación, conforme lo determine la legislación aplicable.
+
 V.- La Ley de la materia establecerá los hechos considerados como delitos electorales.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2015)</small>
 
 ###### Artículo 4°.
 
-Los partidos políticos con registro nacional o estatal participarán en las elecciones, para Gobernador, Diputados por los principios de mayoría relativa y representación proporcional, y miembros de Ayuntamientos, con todos los derechos, obligaciones y prerrogativas que el Código respectivo les señale.
+Los partidos políticos nacionales y estatales, acreditados o registrados, respectivamente, en términos de la legislación general aplicable y la que se emita en el Estado, participarán en las elecciones, para Gobernador, Diputados por los principios de mayoría relativa y representación proporcional, y miembros de Ayuntamientos, con todos los derechos, obligaciones y prerrogativas que el Código respectivo les señale.
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2009)</small>
 
 I.- El Código de Instituciones y Procesos Electorales del Estado deberá establecer:
 
@@ -173,9 +219,11 @@ a) Los casos en que solamente las autoridades electorales puedan intervenir en l
 
 b) El procedimiento para la liquidación de los partidos políticos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado; y
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
-c) Las reglas para las precampañas y las campañas electorales de los partidos políticos, así como las sanciones para quienes las infrinjan. En todo caso, las campañas electorales para cualquier cargo de elección durarán un plazo máximo de sesenta días; de igual forma las precampañas no podrán exceder de cuarenta días, debiendo concluir antes del inicio del plazo de presentación del registro de candidatos.
+c) Las reglas para las precampañas y las campañas electorales de los partidos políticos, así como las sanciones para quienes las infrinjan. En todo caso, la duración de las campañas será de sesenta días para la elección de gobernador y de treinta días para la elección de diputados locales y ayuntamientos; las precampañas para la elección de gobernador, diputados locales y ayuntamientos, no podrán exceder de diez días.
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2009)</small>
 
 II.- En los procesos electorales los partidos políticos tendrán derecho a recibir financiamiento público para sus actividades tendientes a la obtención del voto. El Código de Instituciones y Procesos Electorales del Estado de Puebla garantizará además que los partidos políticos reciban en forma equitativa financiamiento público para llevar a cabo sus actividades ordinarias permanentes. Los partidos políticos accederán a la radio y la televisión conforme a las normas establecidas en la Constitución Política de los Estados Unidos Mexicanos y la legislación en la materia. En ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
 
@@ -185,33 +233,47 @@ Durante el tiempo que comprendan las campañas electorales y hasta la conclusió
 
 Para el otorgamientos (sic) de financiamiento público se estará a las siguientes reglas:
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
-a) El financiamiento público para el sostenimiento de las actividades ordinarias permanentes de los partidos políticos, se determinará conforme a lo que establezca el Código de la materia. Al efecto, el treinta por ciento de la cantidad total se distribuirá entre los partidos políticos en forma igualitaria, y el setenta por ciento restantes se distribuirá entre los mismos, de acuerdo con el porcentaje de votación que hubieren obtenido en la elección de Diputados al Congreso del Estado por el principio de mayoría relativa inmediata anterior;
+a) El financiamiento público para el sostenimiento de las actividades ordinarias permanentes de los partidos políticos, se determinará conforme a lo que establezca la legislación de la materia. Al efecto, el treinta por ciento de la cantidad total se distribuirá entre los partidos políticos en forma igualitaria, y el setenta por ciento restantes se distribuirá entre los mismos, de acuerdo con el porcentaje de votación que hubieren obtenido en la elección de Diputados al Congreso del Estado por el principio de mayoría relativa inmediata anterior;
 
 b) El financiamiento público para las actividades tendientes a la obtención del voto durante los procesos electorales, equivaldrá a una cantidad igual al monto del financiamiento público que le corresponda a cada partido político por actividades ordinarias permanentes en ese año; y
 
 c) (DEROGADO, P.O. 28 DE OCTUBRE DE 2011)
 
-Asimismo el Consejo General fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los montos máximos que tengan las aportaciones pecuniarias de sus militantes y simpatizantes, cuya suma total no podrá exceder el diez por ciento del tope de gastos de campaña que se determine para la elección de Gobernador; y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos; así como las sanciones por el incumplimiento a las disposiciones que se expidan en estos rubros.
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
+
+La ley de la materia fijará los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales. La propia ley establecerá el monto máximo que tendrán las aportaciones de sus militantes y simpatizantes. Para el caso de que la autoridad nacional delegue las funciones relativas a la fiscalización, del origen y uso de todos los recursos con que cuenten para precampañas y campañas se actuará conforme a las disposiciones aplicables.
 
 El financiamiento público siempre prevalecerá sobre el privado.
 
-> <small>(F. DE E., P.O. 18 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2015)</small>
 
-III.- El Código de la materia deberá de instituir las bases obligatorias para la coordinación entre el Instituto Federal Electoral y las autoridades electorales del Estado en materia de fiscalización de las finanzas de los partidos políticos, en los términos que señala la Constitución Federal y las Leyes en la materia.
+III.- El Código de la materia deberá de instituir las bases obligatorias para la coordinación entre el Instituto Nacional Electoral y las autoridades electorales del Estado en materia de fiscalización de las finanzas de los partidos políticos, en los términos que señala la Constitución Federal y las Leyes en la materia.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2009)</small>
 
 Los servidores públicos del Estado y de los Municipios, en el ámbito de su competencia tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos de los que sean responsables, sin influir en la equidad de la competencia entre los partidos políticos.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
-Para garantizar la equidad en las campañas electorales durante el tiempo que comprendan las mismas y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes públicos, los órganos autónomos, los municipios, las dependencias y entidades de la Administración Pública Estatal y Municipales o cualquier otro ente público, salvo las que fueran de carácter urgente por una contingencia natural, las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para los programas de protección civil en casos de emergencia, así como los que acuerde el Consejo General del Instituto Federal Electoral. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+Para garantizar la equidad en las campañas electorales durante el tiempo que comprendan las mismas y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes públicos, los órganos autónomos, los municipios, las dependencias y entidades de la Administración Pública o cualquier otro ente público, salvo las que fueran de carácter urgente por una contingencia natural, las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para los programas de protección civil en casos de emergencia, así como los que acuerde el Consejo General del Instituto Nacional Electoral. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2009)</small>
 
 Las leyes correspondientes en sus ámbitos de aplicación respectivos, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos precedentes, así como el régimen de sanciones a que haya lugar.
 
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
 
-IV.- La ley establecerá el régimen al que se sujetarán las candidaturas independientes.
+IV.- La Ley de la materia establecerá el régimen aplicable a la postulación, registro, derechos y obligaciones de los candidatos independientes, garantizando su derecho al financiamiento público y al acceso a la radio y la televisión en los términos de la legislación correspondiente.
+
+> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2015)</small>
+
+V.- La Ley electoral establecerá los casos y formas de participación o asociación de los partidos políticos con el fin de postular candidatos.
+
+(NOTA: EL 26 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 77/2015 Y SU ACUMULADA 78/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+El partido político nacional o estatal que participe por primera ocasión en una elección local no podrá formar frentes, COALICIONES o fusiones, ni postular candidaturas en común.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -653,17 +715,19 @@ La elección de Diputados por el principio de representación proporcional, se s
 
 I.- Un Partido Político, para obtener el registro de sus listas, deberá acreditar su registro como tal y que participa con candidatos a Diputados por mayoría relativa en por lo menos las dos terceras partes de los Distritos Electorales Uninominales.
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
 
-II.- Todo partido político que alcance por lo menos el dos por ciento del total de la votación emitida en la elección de Diputados por el principio de mayoría relativa, tendrá derecho a que le sean asignados Diputados por el de representación proporcional.
+II.- Todo partido político que alcance por lo menos el tres por ciento del total de la votación emitida en la elección de Diputados por el principio de mayoría relativa, tendrá derecho a que le sean asignados Diputados por el de representación proporcional;
 
 > <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
 III.- Al partido político que cumpla con lo dispuesto por las dos fracciones anteriores, adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus Candidatos, les serán asignados por el principio de representación proporcional, el número de Diputados que les corresponda de acuerdo a lo dispuesto por el Código correspondiente. En todo caso, la primera Diputación le será asignada a la fórmula de candidatos del partido político que, por sí mismo, haya obtenido el mayor porcentaje de votos en la elección de Diputados por el principio de mayoría relativa, siempre que no hubiere alcanzado la constancia respectiva conforme a dicho principio. En las asignaciones subsecuentes, a que tuvieren derecho los partidos políticos, se seguirá el orden que tuviesen los Candidatos en las listas correspondientes;
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
 
-IV.- En ningún caso un Partido Político podrá contar con más de veintiséis Diputados por ambos principios.
+IV.- Ningún Partido Político podrá contar con más de veintiséis Diputados por ambos principios.
+
+En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la legislatura el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
 > <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
@@ -703,9 +767,9 @@ VI.- Los ministros de algún culto religioso.
 
 Los funcionarios y los miembros de las fuerzas armadas del país a los que se refieren respectivamente las fracciones II a V de este artículo, podrán ser electos Diputados propietarios o suplentes, si se separan definitivamente de su cargo, o del servicio activo, noventa días antes de la elección.
 
-> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
-Los Diputados a la Legislatura no podrán ser reelectos para el periodo inmediato. Los Diputados Suplentes podrán ser electos para el periodo inmediato con el carácter de propietario, siempre que no hubieren estado en ejercicio, pero los Diputados Propietarios no podrán ser electos para el periodo inmediato con el carácter de suplentes.
+Los diputados a la legislatura local podrán ser electos consecutivamente hasta por cuatro períodos, la postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los integrantes de la coalición que los hubieren postulado, salvo que hayan perdido o renunciado a su militancia antes de la mitad de su mandato.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -927,17 +991,15 @@ XII.- Crear y suprimir empleos públicos, señalando, aumentando o disminuyendo 
 
 XIII.- Erigirse en Gran Jurado para declarar si ha lugar o no a formación de causa contra funcionarios públicos que gocen de fuero constitucional, por delitos del orden común, y si dichos funcionarios son o no culpables de los delitos oficiales que se les imputen.
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
 
-XIV.- Elegir a los Magistrados del Tribunal Superior de Justicia y del Tribunal Contencioso Administrativo, a propuesta en terna del Ejecutivo y a los del Tribunal Electoral del Estado, en los términos señalados en la legislación vigente.
+XIV.- Elegir a los Magistrados del Tribunal Superior de Justicia y del Tribunal Contencioso Administrativo, a propuesta en terna del Ejecutivo, en los términos señalados en la legislación vigente;
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
 
-XV.- Conocer y resolver sobre las renuncias; así como de las licencias por más de treinta días del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, del Tribunal Contencioso Administrativo, de los del Tribunal Electoral del Estado, del Auditor Superior del Estado y demás que conforme a la ley deba conocer;
+XV.- Conocer y resolver sobre las renuncias; así como de las licencias por más de treinta días del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, del Tribunal Contencioso Administrativo, del Auditor Superior del Estado y demás que conforme a (sic) Ley deba conocer;
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
-
-XVI.- Nombrar, por consenso o por mayoría calificada de los miembros del Congreso presentes, en ese orden de prelación, al Consejero Presidente y a los Consejeros Electorales del Consejo General del Instituto Electoral del Estado. De igual forma deberá nombrar a los Consejeros Electorales suplentes. El Código aplicable establecerá el procedimiento y las reglas respectivas.
+XVI.- (DEROGADA, P.O. 29 DE JULIO DE 2015)
 
 > <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1984)</small>
 
@@ -989,9 +1051,9 @@ En los casos de los puntos 1 y 2 de esta fracción, el Congreso nombrará un Con
 
 XXII.- Solicitar al Instituto Electoral del Estado, por el voto de las dos terceras partes de sus miembros, que someta a plebiscito, en los términos que disponga la ley correspondiente, las propuestas de decisiones o actos del Ejecutivo del Estado considerados como trascendentales para el orden público o el interés social de la Entidad.
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
 
-XXIII.- Recibir la protesta Constitucional a los Diputados, al Gobernador de elección popular directa, al interino o al substituto, a los Consejeros Electorales y al Consejero Presidente del Consejo General del Instituto Electoral del Estado, a los Magistrados del Tribunal Superior de Justicia, a los Magistrados del Tribunal Electoral del Estado, a los suplentes de éstos, así como al Auditor Superior del Estado, y a todos los demás que conforme a las leyes no deban otorgar protesta ante otra autoridad;
+XXIII.- Recibir la protesta Constitucional a los Diputados, al Gobernador de elección popular directa, al interino o al substituto, a los Magistrados del Tribunal Superior de Justicia, así como al Auditor Superior del Estado, y a todos los demás que conforme a las leyes no deban otorgar protesta ante otra autoridad;
 
 XXIV.- Expedir y modificar la ley que regule su estructura y funcionamiento internos. Esta Ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo Estatal para tener vigencia.
 
@@ -1069,13 +1131,13 @@ Son atribuciones de la Comisión Permanente:
 
 I.- Acordar por sí o a propuesta del Ejecutivo, oyéndolo en el primer caso, la convocatoria de la Legislatura a sesiones extraordinarias. La convocatoria señalará el objeto de las sesiones y la fecha en que deban comenzar.
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
 
-II.- Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral del Estado, de los Consejeros Electorales, del Consejero Presidente del Consejo General del Instituto Electoral del Estado, del Auditor Superior del Estado y demás que conforme a ley deba conocer el Congreso;
+II.- Recibir la protesta del Gobernador, de los Diputados, de los Magistrados del Tribunal Superior de Justicia, del Auditor Superior del Estado y demás que conforme a (sic) Ley deba conocer el Congreso;
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
 
-III.- Conceder licencias al Gobernador del Estado, a los Diputados cuando el número de éstos no exceda de la mitad de los que la integran, al Auditor Superior del Estado y a los servidores públicos de la Legislatura; y nombrar en calidad de provisionales, Gobernador del Estado, Magistrados del Tribunal Superior de Justicia, a los Magistrados del Tribunal Electoral del Estado, del Auditor Superior del Estado y demás que conforme a ley corresponda al Congreso;
+III.- Conceder licencias al Gobernador del Estado, a los Diputados cuando el número de éstos no exceda de la mitad de los que la integran, al Auditor Superior del Estado y a los servidores públicos de la Legislatura; y nombrar en calidad de provisionales, Gobernador del Estado, Magistrados del Tribunal Superior de Justicia, del Auditor Superior del Estado y demás que conforme a (sic) Ley corresponda al Congreso;
 
 IV.- Nombrar Gobernador provisional, cuando falte absolutamente el Gobernador de elección popular dentro de los cuatro últimos años del período, si la falta acaeciere durante un receso del Congreso, y convocar a éste para elegir Gobernador sustituto.
 
@@ -1313,7 +1375,11 @@ XVI.- Celebrar contratos y convenios con la Federación, Ayuntamientos y demás 
 
 XVII.- Celebrar convenios con los Ayuntamientos del Estado, respecto a la prestación de servicios públicos o administración de las contribuciones que les correspondan, cuando éstos no tengan la infraestructura suficiente para hacerlo; siempre que sea en forma temporal, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio;
 
-XVIII.- (DEROGADA, P.O. 5 DE MARZO DE 2001)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JULIO DE 2015)</small>
+
+XVIII.- En cualquier momento, optar por un gobierno de coalición con uno o varios de los partidos políticos representados en el Congreso del Estado.
+
+El gobierno de coalición se regulará por el convenio y el programa respectivos, los cuales deberán ser aprobados por mayoría de los miembros presentes del Congreso del Estado. El convenio establecerá las causas de la disolución del gobierno de coalición.
 
 XIX.- Someter a la aprobación del Congreso, la enajenación de bienes inmuebles propios de los Municipios y los contratos que celebren los Ayuntamientos, cuando tengan una duración mayor del período para el cual hubieren sido electos.
 
@@ -1635,25 +1701,25 @@ c) En los municipios que conforme al último censo general de población tengan 
 
 d) En los demás municipios, hasta con dos Regidores que serán acreditados conforme al mismo principio;
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
 
-e) En los casos a que se refieren las fracciones anteriores, los Regidores se acreditarán de entre los partidos políticos minoritarios que hayan obtenido por lo menos el dos por ciento de la votación emitida en el municipio, de acuerdo con las fórmulas y procedimientos que establezca la Ley de la materia.
+e) En los casos a que se refieren las fracciones anteriores, los Regidores se acreditarán de entre los partidos políticos minoritarios que hayan obtenido por lo menos el tres por ciento de la votación emitida en el municipio, de acuerdo con las fórmulas y procedimientos que establezca la Ley de la materia.
 
 > <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
 
 f) En todo caso, en la asignación de Regidores de representación proporcional se seguirá el orden que tuviesen los candidatos en las planillas correspondientes, con excepción de quienes hubiesen figurado como candidatos a Presidente Municipal o Primer Regidor y a Síndico.
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
 
-II.- No podrán ser electos para el período inmediato, como propietarios:
+II.- Los Presidentes Municipales, Regidores y Síndico de los Ayuntamientos podrán ser electos consecutivamente para el mismo cargo por un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los integrantes de la coalición que los hubieren postulado, salvo que hayan perdido o renunciado a su militancia antes de la mitad de su mandato.
 
-a).- Los Presidentes Municipales, Regidores y Síndico de los Ayuntamientos, electos popularmente.
+No podrán ser electos para un tercer período consecutivo, como propietarios:
 
-b).- Las personas que desempeñen o hayan desempeñado las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé y la forma de su nombramiento, designación o elección.
+a) Los Presidentes Municipales, Regidores y Síndico de los Ayuntamientos, electos popularmente.
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1984)</small>
+b) Las personas que desempeñen o hayan desempeñado las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé y la forma de su nombramiento, designación o elección.
 
-III.- Los funcionarios mencionados en las fracciones anteriores, cuando hayan tenido el carácter de propietarios, no podrán ser electos para el período inmediato, como suplentes; pero los que fueron suplentes podrán ser electos para el período inmediato como propietarios, salvo que hayan estado en ejercicio.
+III.- (DEROGADA, P.O. 29 DE JULIO DE 2015)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2011)</small>
 
@@ -3136,3 +3202,15 @@ PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara q
 SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE JULIO DE 2015.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas, adiciones y derogaciones han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- La celebración de elecciones locales que se verifiquen en 2018, se llevarán a cabo el primer domingo de julio.
+
+CUARTO.- La reforma a los artículos 37 y 102 de esta Constitución será aplicable a los diputados y ayuntamientos que sean electos a partir del proceso electoral de 2018.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
