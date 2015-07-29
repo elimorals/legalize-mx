@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-de-89623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-28"
-last_updated: "2015-04-22"
+last_updated: "2015-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 28 de septiembre de 2012.
 
@@ -765,7 +765,9 @@ VIII. Planear, organizar, dirigir y controlar el sistema para la equivalencia y 
 
 IX. Llevar el registro y control de los profesionistas que egresen del Sistema Educativo Estatal, así como de los colegios o asociaciones profesionales y organizar el servicio social respectivo en los niveles y modalidades competencia de esta Secretaría;
 
-X. Formular programas permanentes de educación para adultos, de alfabetización y demás programas especiales, en coordinación con los Gobiernos federal y municipal;
+> <small>(REFORMADA, P.O. 29 DE JULIO DE 2015)</small>
+
+X. Formular, promover y supervisar programas permanentes de educación para adultos, de alfabetización, orientación vocacional de enseñanza abierta, acreditación y certificación de estudios durante todo el año, programas especiales, así como organizar programas de capacitación y adiestramiento, en coordinación con los municipios del Estado y el Gobierno Federal;
 
 XI. Formular programas de educación a comunidades indígenas, en coordinación con otras instancias competentes;
 
@@ -2000,3 +2002,9 @@ SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de 
 TERCERO.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
 
 CUARTO.- El Poder Ejecutivo y los Municipios, dentro de un plazo de ciento veinte días hábiles, contados a partir del día siguiente al que entre en vigor el presente Decreto, deberán realizar las adecuaciones legales y reglamentarias necesarias o expedirse las complementarias.
+
+P.O. 29 DE JULIO DE 2015.
+
+PRIMERO. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los articulas 44, 47 y 70, fracción XVII, de la Constitución Política del Estado libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
