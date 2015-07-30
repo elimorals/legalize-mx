@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-secretaria-de-desarrollo-economico-70
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-30"
-last_updated: "2009-09-30"
+last_updated: "2015-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "ROO"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO, PUBLICADO EN EL P.O. DE 30 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el miércoles 30 de septiembre de 2009.
 
 LICENCIADO FÉLIX ARTURO GONZÁLEZ CANTO, GOBERNADOR DEL ESTADO DE QUINTANA ROO, EN EJERCICIO DE LAS FACULTADES QUE ME OTORGA EL ARTÍCULO 90 FRACCIÓN XVIII, Y EN CUMPLIMIENTO DE LAS OBLIGACIONES QUE ME IMPONE EL ARTÍCULO 91 FRACCIONES VI Y XIII DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, Y CON FUNDAMENTO EN LO DISPUESTO EN LOS ARTÍCULOS 2 Y 12 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO, Y
 
-CONSIDERANDO.
+CONSIDERANDO...
 
 Que en mérito de lo expuesto, he tenido a bien expedir el siguiente:
 
@@ -213,7 +215,7 @@ V. Someter a consideración del Secretario, con asesoría de la Dirección Jurí
 
 VI. Controlar y administrar las actividades de las Unidades Administrativas a ellos adscritas, conforme a los lineamientos que determine el C. Secretario; conocer las faltas administrativas en que incurra el personal a ellos subordinados, como apoyo o en conjunto con la Dirección Administrativa, Dirección Jurídica y el órgano de Control y Evaluación Interno;
 
-VII. Integrar y someter a la aprobación del C. Secretario eI anteproyecto del Presupuesto de Egresos de las Unidades Administrativas adscritas a su cargo;
+VII. Integrar y someter a la aprobación del C. Secretario el anteproyecto del Presupuesto de Egresos de las Unidades Administrativas adscritas a su cargo;
 
 VIII. Elaborar estudios sobre la creación, modificación o desaparición de Unidades Administrativas y proponer al C. Secretario las medidas correspondientes;
 
@@ -247,7 +249,7 @@ XX. Las demás que le confieran otras disposiciones legales o el C. Secretario, 
 
 La Subsecretaría de Desarrollo Económico tendrá, además de las facultades señaladas en el artículo 12 de este Reglamento, las siguientes:
 
-l. Dirigir, coordinar y evaluar el desarrollo y cumplimiento de las funciones encomendadas a las unidades administrativas adscritas a la propia Subsecretaría;
+I. Dirigir, coordinar y evaluar el desarrollo y cumplimiento de las funciones encomendadas a las unidades administrativas adscritas a la propia Subsecretaría;
 
 II. Someter al acuerdo del C. Secretario los asuntos relevantes encomendados a la Subsecretaría a su cargo y desempeñar las comisiones y funciones específicas que se le confieren;
 
@@ -267,7 +269,7 @@ VIII. Estructurar y fomentar instrumentos financieros que contribuyan al desarro
 
 IX. Establecer programas de difusión de los apoyos crediticios Municipales, Estatales, Federales e Internacionales, entre los sujetos de apoyo;
 
-X. lnstrumentar y difundir sistemas de información económica y estadística;
+X. Instrumentar y difundir sistemas de información económica y estadística;
 
 XI. Establecer los lineamientos necesarios para la explotación racional y sustentable del recurso pesquero del Estado;
 
@@ -287,7 +289,7 @@ XVIII. Las demás que le confieran otras disposiciones legales o el C. Secretari
 
 #### SECCIÓN III. DE LAS FACULTADES DE LA SUBSECRETARÍA DE PROMOCIÓN ECONÓMICA
 
-###### Articulo 14.
+###### Artículo 14.
 
 La Subsecretaría de Promoción Económica tendrá, además de las facultades señaladas en el artículo 12 de este Reglamento, las siguientes:
 
@@ -339,7 +341,7 @@ V. Suscribir los documentos relativos al ejercicio de sus facultades y aquellos 
 
 VI. Desempeñar las comisiones que el C. Secretario le encomiende, y por acuerdo expreso, representar a la Secretaría ante las Dependencias, Entidades y todas las demás que el titular determine;
 
-VIl. Coordinar y dirigir las acciones de planeación encomendadas a la Secretaría y promover la participación de los sectores social y privado en la formulación de los planes responsabilidad de la Secretaría, así como en la evaluación de los mismos;
+VII. Coordinar y dirigir las acciones de planeación encomendadas a la Secretaría y promover la participación de los sectores social y privado en la formulación de los planes responsabilidad de la Secretaría, así como en la evaluación de los mismos;
 
 VIII. Proponer el esquema general de evaluación y seguimiento, al que deberán de sujetarse las áreas, dependencias y organismos del Sector Coordinado por la Secretaría, en función de los objetivos y metas establecidas en el Plan Estatal de Desarrollo y los Programas Sectoriales;
 
@@ -353,7 +355,7 @@ XII. Proponer y diseñar estrategias económicas y políticas públicas para el 
 
 XIII. Dar seguimiento a las variables económicas del Estado que permitan evaluar y prospectar el desarrollo económico del Estado, estableciendo estrategias y recomendaciones que permitan medir el impacto de los programas y acciones que se desarrollan, así como la ocurrencia de eventos que puedan alterar el curso planeado;
 
-XlV. Diseñar, operar, mantener y aplicar los sistemas de información que requiera la Secretaría para el adecuado cumplimiento de sus funciones; y
+XIV. Diseñar, operar, mantener y aplicar los sistemas de información que requiera la Secretaría para el adecuado cumplimiento de sus funciones; y
 
 XVI. Las demás que le confieran otras disposiciones legales o el C. Secretario, dentro de la esfera de su competencia.
 
@@ -491,7 +493,7 @@ IX. Las demás que les confieran otras disposiciones legales o su superior jerá
 
 #### SECCIÓN IV. DE LA DIRECCIÓN JURÍDICA
 
-###### Articulo 20.
+###### Artículo 20.
 
 La Dirección Jurídica dependerá directamente del C. Secretario, y tendrá además de las facultades señaladas en el artículo 17 de este Reglamento las siguientes facultades y obligaciones:
 
@@ -565,7 +567,7 @@ La Unidad de Enlace dependerá directamente del C. secretario, y tendrá además
 
 I. Recabar y proveer lo conducente a fin de Difundir la Infamación Pública obligatoria a que se refiere la Ley de Transparencia y Acceso a la Infamación Pública del Estado de Quintana Roo;
 
-II. Recibir y despachar las solicitudes de Acceso a la Información Pública turnadas por la Unidad de Transparencia y Acceso a la Información Pública del Poder Ejecutivo (UTAlPPE);
+II. Recibir y despachar las solicitudes de Acceso a la Información Pública turnadas por la Unidad de Transparencia y Acceso a la Información Pública del Poder Ejecutivo (UTAIPPE);
 
 III. Entregar o negar la información requerida por la UTAIPPE fundando y motivando su resolución en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo y el Reglamento de Transparencia y Acceso a la Información Pública para el Poder Ejecutivo del Estado de Quintana Roo;
 
@@ -605,7 +607,7 @@ XX. Las demás que les confieran otras disposiciones legales o su superior jerá
 
 #### SECCIÓN VI. DE LA DIRECCIÓN GENERAL DE ACUACULTURA Y PESCA
 
-###### Articulo 22.
+###### Artículo 22.
 
 La Dirección General de Acuacultura y Pesca dependerá directamente del Subsecretario de Desarrollo Económico y tendrá además de las facultades señaladas en el artículo 17 de este Reglamento las siguientes facultades y obligaciones:
 
@@ -637,7 +639,7 @@ XIII. Las demás que les confieran otras disposiciones legales o su superior jer
 
 #### SECCIÓN VII. DE LA DIRECCIÓN DE OPERACIÓN PESQUERA
 
-###### Articulo 23.
+###### Artículo 23.
 
 La dirección de Operación Pesquera dependerá directamente del Subsecretario de Desarrollo Económico y tendrá además de las facultades señaladas en el artículo 17 de este Reglamento las siguientes facultades y obligaciones:
 
@@ -663,7 +665,7 @@ X. Las demás que les confieran otras disposiciones legales o su superior jerár
 
 #### SECCIÓN VIII. DE LA DIRECCIÓN DE ARTICULACIÓN PRODUCTIVA
 
-###### Articulo 24.
+###### Artículo 24.
 
 La Dirección de Articulación Productiva dependerá directamente del Subsecretario de Desarrollo Económico y tendrá además de las facultades señaladas en el artículo 17 de este Reglamento las siguientes facultades y obligaciones:
 
@@ -691,7 +693,7 @@ XI. Las demás que les confieran otras disposiciones legales o su superior jerá
 
 #### SECCIÓN IX. DE LA DIRECCIÓN DE VINCULACIÓN COMERCIAL Y ABASTO
 
-###### ARTÍCULO 25.
+###### Artículo 25.
 
 La Dirección de Vinculación Comercial y Abasto dependerá directamente del Subsecretario de Desarrollo Económico y tendrá además de las facultades señaladas en el artículo 17 de este Reglamento las siguientes facultades y obligaciones:
 
@@ -859,7 +861,7 @@ XIII. Las demás que les confieran otras disposiciones legales o su superior jer
 
 #### SECCIÓN XIV. DE LA DIRECCIÓN DE PROMOCIÓN ECONÓMICA
 
-###### Articulo 30.
+###### Artículo 30.
 
 La Dirección de Promoción Económica dependerá directamente del Subsecretario de Promoción Económica, y tendrá además de las facultades señaladas en el artículo 17 de este Reglamento las siguientes facultades y obligaciones:
 
@@ -881,7 +883,7 @@ VIII. Desempeñar las comisiones que el Subsecretario de promoción Económico l
 
 IX. Coadyuvar en la proporción, de las actividades industriales, artesanales, de capacitación empresarial, de atracción de inversiones y de servicios, procurando canalizar los apoyos presupuestales y financieros para el cumplimiento de estos objetivos;
 
-X. Participar en la promoción y realización de estudios y proyectos para apoyar el establecimiento de estímulos fiscales y que incentiven las actividades industriales, artesanales y de atracción de inversiones, en coordinación con las Direcciones de la Subsecretaría; y (sic)
+X. Participar en la promoción y realización de estudios y proyectos para apoyar el establecimiento de estímulos fiscales y que incentiven las actividades industriales, artesanales y de atracción de inversiones, en coordinación con las Direcciones de la Subsecretaría; y
 
 XI. Proponer al Subsecretario de Promoción Económico de manera fundada y motivada, en su oportunidad, la clasificación de la información que sea solicitada y que se encuentre bajo su resguardo y competencia;
 
@@ -1052,3 +1054,27 @@ SECRETARIA DE GOBIERNO
 M. EN C. FRANCISCO ANTONIO ALOR QUEZADA
 
 SECRETARIO DE DESARROLLO ECONÓMICO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Desarrollo Económico, publicado en el Periódico Oficial del Estado de Quintana Roo bajo el número 18 de fecha 30 de septiembre de 2009.
+
+###### ARTÍCULO TERCERO.
+
+Cuando en este Reglamento se dé una denominación nueva o distinta a algún Órgano o Unidad Administrativa establecida con anterioridad a la vigencia del mismo, aquel Órgano o Unidad Administrativa atenderá los asuntos a que se refiere este ordenamiento.
+
+###### ARTÍCULO CUARTO.
+
+Para su mejor funcionamiento, las Unidades Administrativas deberán formular sus respectivos Manuales de Organización y Procedimientos en un plazo no mayor de 90 contados a partir de su publicación en el Periódico Oficial del Estado; y
+
+###### ARTÍCULO QUINTO.
+
+Los recursos financieros y materiales que estuvieran asignados a las Unidades Administrativas que desaparezcan o modifican su competencia en virtud de lo dispuesto en el presente ordenamiento, serán reasignados a las Unidades que asuman las correspondientes facultades con la intervención de la Dirección Administrativa y de conformidad con las instrucciones que para el efecto imparta el Titular;
