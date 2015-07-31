@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2014-12-18"
+last_updated: "2015-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE JULIO DE 2015.
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -147,7 +147,7 @@ Atribuciones de los jueces civiles
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE MAYO DE 2013)</small>
 
-l. Los juicios civiles y mercantiles cuando el valor del negocio exceda de mil veces el salario mínimo vigente en el lugar de su ubicación, o no cuantificables en dinero, con excepción de los que correspondan al derecho familiar y al mercantil, si hubiera en el lugar juzgados de estas materias;
+I. Los juicios civiles y mercantiles cuando el valor del negocio exceda de mil veces el salario mínimo vigente en el lugar de su ubicación, o no cuantificables en dinero, con excepción de los que correspondan al derecho familiar y al mercantil, si hubiera en el lugar juzgados de estas materias;
 
 > <small>(ADICIONADO, G.G. 5 DE OCTUBRE DE 2011)</small>
 
@@ -1154,6 +1154,10 @@ III. Rompimiento de cerraduras;
 IV. Cateo por orden escrita;
 
 V. Arresto hasta por treinta y seis horas.
+
+> <small>(ADICIONADO, G.G. 31 DE JULIO DE 2015)</small>
+
+Impuesta la medida de apremio y de no ser cumplimentada la determinación judicial, previo apercibimiento, se procederá contra el rebelde por el delito de desobediencia.
 
 ###### Artículo 1.
 
@@ -8722,3 +8726,9 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 CUARTO.- Los asuntos que a la entrada en vigor del presente Decreto se encuentren en proceso, se resolverán conforme a las disposiciones vigentes al momento en que iniciaron.
+
+G.G. 31 DE JULIO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
