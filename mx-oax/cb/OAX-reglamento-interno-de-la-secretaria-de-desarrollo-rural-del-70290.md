@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-secretaria-de-desarrollo-rural-del-702
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-24"
-last_updated: "2010-12-01"
+last_updated: "2015-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "OAX"
 ---
 # REGLAMENTO INTERNO DE LA SECRETARIA DE DESARROLLO RURAL DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-REGLAMENTO INTERNO DE LA SECRETARIA DE DESARROLLO RURAL DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
+REGLAMENTO INTERNO DE LA SECRETARÍA DE DESARROLLO RURAL DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO SEXTO TRANSITORIO DE LA LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 1 DE DICIEMBRE DE 2010, LA DENOMINACION SECRETARIA DE DESARROLLO RURAL SE MODIFICA POR SECRETARIA DE DESARROLLO AGROPECUARIO, FORESTAL Y PESCA.</small>
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEXTO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 1 DE DICIEMBRE DE 2010, LA DENOMINACIÓN SECRETARÍA DE DESARROLLO RURAL SE MODIFICA POR SECRETARÍA DE DESARROLLO AGROPECUARIO, FORESTAL Y PESCA.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO, PESCA Y ACUACULTURA DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 31 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el lunes 24 de agosto de 2009.
 
@@ -985,7 +987,7 @@ EL SECRETARIO DE ADMINISTRACIÓN
 
 LIC. JOSE ANTONIO ESTEFAN GARFIAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 1 DE DICIEMBRE DE 2010.
 
@@ -1018,3 +1020,11 @@ La Secretaría de la Contraloría, se entenderá que se refiere a la Secretaría
 El mismo criterio se aplicará para los titulares de dichas dependencias. Las obligaciones y derechos derivados de contratos; convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias que por virtud de esta ley cambian de denominación y sector, se entenderán subrogadas y contraídas por su correlativa.
 
 SÉPTIMO.- El Congreso del Estado contará con un término de noventa días para realizar las reformas a las leyes estatales que resulten pertinentes, para el cumplimiento de la presente ley.
+
+P.O. 31 DE JULIO DE 2015.
+
+PRIMERO. El presente reglamento entrara en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las disposiciones contenidas en el presente reglamento, prevalecerán sobre cualquier otra disposición de igual o menor rango que se le opongan.
+
+TERCERO. Se abroga el reglamento interno de la Secretaría de Desarrollo Rural del Poder Ejecutivo del Estado, publicado el 24 de agosto del año 2009, en el Periódico Oficial del Gobierno del Estado.
