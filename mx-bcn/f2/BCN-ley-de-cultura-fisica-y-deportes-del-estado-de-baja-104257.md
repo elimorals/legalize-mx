@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-cultura-fisica-y-deportes-del-estado-de-baja-104257"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2014-12-31"
+last_updated: "2015-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104257&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE CULTURA FÍSICA Y DEPORTES DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2015.
 
 Ley publicada en la Sección VIII del Periódico Oficial del Estado de Baja California, el miércoles 31 de diciembre de 2014.
 
@@ -764,6 +764,10 @@ El Sistema Municipal coordinará sus actividades para aplicar las políticas, pl
 ###### ARTICULO 52.
 
 El Ejecutivo Estatal, a través del INDE, ejercerá las competencias que le son atribuidas por esta Ley, para ello, se coordinará con la Federación y los Gobiernos Municipales y, en su caso, concertará acciones con el sector académico, social y privado que puedan incidir directa y manifiestamente los intereses generales de la cultura física y deporte en el ámbito estatal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE JULIO DE 2015)</small>
+
+Asimismo el Ejecutivo Estatal, a través del INDE, deberá coordinarse con las autoridades federales y municipales, con el propósito de promover a los niños y jóvenes su acceso gratuito a las instalaciones deportivas correspondientes.
 
 ###### ARTÍCULO 53.
 
@@ -1908,3 +1912,9 @@ GOBERNADOR DEL ESTADO
 FRANCISCO RUEDA GÓMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE JULIO DE 2015.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
