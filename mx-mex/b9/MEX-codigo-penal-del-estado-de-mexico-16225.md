@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2015-07-14"
+last_updated: "2015-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE JULIO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -1389,9 +1389,11 @@ También comete este delito el que debiendo ser examinado por la autoridad, sin 
 
 Cuando el conductor de cualquier vehículo de transporte público de pasajeros que, al ser requerido por la autoridad competente, no comparezca o se niegue a acudir a formular su denuncia ante el Ministerio Público por la comisión de una conducta presuntamente constitutiva de delito en su agravio o de los usuarios durante la prestación del servicio correspondiente, se impondrá una pena de seis meses a tres años de prisión y suspensión del derecho para conducir vehículo automotor por un término igual al de la pena impuesta, sin perjuicio de las penas que le correspondan por cualquier otra conducta.
 
+> <small>(REFORMADO, G.G. 31 DE JULIO DE 2015)</small>
+
 ###### Artículo 119.
 
-Cuando la ley autorice el empleo de medios de apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumará el delito cuando se hubieren agotado tales medios.
+Cuando la ley autorice el empleo de medios de apremio para hacer efectivas las determinaciones de la autoridad, el delito se comete cuando se haya agotado el medio idóneo impuesto, previo apercibimiento por parte de la autoridad.
 
 ### CAPITULO IV. OPOSICION A LA EJECUCION DE OBRAS O TRABAJOS PUBLICOS
 
@@ -5564,3 +5566,9 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTICULO SEGUNDO.
 
 Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 31 DE JULIO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
