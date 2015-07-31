@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2015-07-16"
+last_updated: "2015-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2015.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -181,7 +181,9 @@ VII. Presentar declaración patrimonial, en términos de ley;
 
 VIII. No hacer uso de su condición de legislador para el ejercicio de actividad mercantil o profesional;
 
-IX. Presentar un informe anual sobre sus labores legislativas dentro de los treinta días siguientes al cumplimiento de cada año legislativo, a excepción del último año legislativo que tendrán que hacerlo, dentro de los treinta días anteriores a que concluya; y,
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2015)</small>
+
+IX. Presentar un informe anual sobre sus labores legislativas dentro del mes de septiembre de cada año; a excepción del último año legislativo que tendrán que hacerlo, dentro del mes de agosto; y,
 
 X. Las demás que señale la Constitución, la presente Ley y los ordenamientos que de ésta deriven.
 
@@ -3730,3 +3732,13 @@ P.O. 16 DE JULIO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación en los términos del artículo 42 de la Constitución Política del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 31 DE JULIO DE 2015.
+
+Primero. Por única ocasión los Ayuntamientos actuales, y los Concejos Municipales, realizarán el último informe de su periodo dentro de la segunda quincena del mes de agosto de 2015, fecha en la que concluye su periodo constitucional.
+
+Segundo. Por única ocasión el Gobernador y los Diputados al Congreso del Estado, miembros de la LXXII legislatura realizarán su último informe dentro del período comprendido por la segunda quincena del mes de agosto y la primera semana de septiembre de 2015, mes en el que concluye el periodo constitucional.
+
+Tercero. Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+Cuarto. El presente Decreto entrará en vigor al día siguiente de su publicación, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
