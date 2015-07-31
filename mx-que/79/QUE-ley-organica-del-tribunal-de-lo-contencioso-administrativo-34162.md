@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-tribunal-de-lo-contencioso-administrativo-3416
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-09-29"
-last_updated: "2007-10-19"
+last_updated: "2015-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO-ADMINISTRATIVO DEL ESTADO DE QUERETARO
 
-LEY ORGANICA DEL TRIBUNAL DE LO CONTENCIOSO-ADMINISTRATIVO DEL ESTADO DE QUERETARO
+LEY ORGÁNICA DEL TRIBUNAL DE LO CONTENCIOSO-ADMINISTRATIVO DEL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE OCTUBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 29 de septiembre de 2003.
 
@@ -57,9 +57,11 @@ Que atendiendo a todo lo anterior, esta Quincuagésima Tercera Legislatura expid
 
 ## TÍTULO PRIMERO. OBJETO DE LA LEY
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2015)</small>
+
 ###### Artículo 1.
 
-La presente Ley es reglamentaria de los artículos 72 y 73 de la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga.
+La presente Ley es reglamentaria de los artículos 116 de la Constitución Política de los Estados Unidos Mexicanos y 34, Apartado A, de la Constitución Política del Estado de Querétaro.
 
 ###### Artículo 2.
 
@@ -103,27 +105,19 @@ VI. Las demás que señalen los ordenamientos legales aplicables.
 
 ### CAPÍTULO I. DE LA SALA UNITARIA
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2015)</small>
+
 ###### Artículo 6.
 
-La Sala Unitaria del Tribunal de lo Contencioso-Administrativo residirá en la ciudad de Santiago de Querétaro.
+La Sala Unitaria del Tribunal de lo Contencioso-Administrativo residirá en la ciudad de Santiago de Querétaro y se compondrá de un Magistrado Propietario y por lo menos dos Magistrados Supernumerarios, quienes serán electos por la Legislatura del Estado de Querétaro.
+
+El Magistrado Supernumerario siguiente en número, integrará la Sala Unitaria cuando sustituya al Magistrado Propietario y desempeñará sus funciones conforme a la Ley.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2015)</small>
 
 ###### Artículo 7.
 
-La Sala Unitaria se compondrá de un Magistrado Propietario y por lo menos dos Supernumerarios, quienes serán electos por la Legislatura del Estado de Querétaro, si satisfacen los siguientes requisitos:
-
-I. Ser mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
-
-II. Tener cuando menos treinta y cinco años cumplidos y máximo 60 el día de la elección, o reelección en su caso;
-
-III. Contar con Título de Licenciado en Derecho y Cédula Profesional legalmente expedidos, con una antigüedad mínima de diez años al día de la elección;
-
-IV. Ser de reconocida honradez y no haber sido condenado por delito intencional que merezca pena corporal por más de un año. Empero, si se tratare de robo, fraude, falsificación, abuso de confianza u otro delito que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, independientemente de cual haya sido la pena;
-
-V. Haber residido en el Estado de Querétaro, durante los dos últimos años anteriores al día de su elección; y
-
-VI. No haber ocupado el cargo de Secretario de Estado o su equivalente, Procurador General de Justicia o Diputado Local, durante el año previo al día de su elección.
-
-El Magistrado Supernumerario siguiente en número, integrará la Sala Unitaria cuando sustituya al Magistrado Propietario y desempeñará sus funciones conforme a la ley.
+Cuando en algún negocio se inhiban los magistrados propietarios y supernumerarios en número tal que no quede restante para integrar la Sala Unitaria, se llamará por número al juez de lo contencioso-administrativo que no haya conocido del juicio de origen.
 
 ###### Artículo 8.
 
@@ -179,7 +173,9 @@ XVIII. Determinar la adscripción, de acuerdo con las necesidades del servicio, 
 
 XIX. Conceder licencias a los jueces, hasta por quince días y a los demás funcionarios y empleados hasta por noventa días, sin goce de sueldo;
 
-XX. Establecer las bases y convocar al procedimiento de selección para cubrir las plazas vacantes del Tribunal de conformidad con lo establecido por esta ley y en el reglamento interior, así como establecer las previsiones para su sustitución en casos de ausencia temporal o absoluta, en los términos del servicio civil de carrera;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2015)</small>
+
+XX. Instituir las bases y convocar al procedimiento de selección para cubrir las plazas vacantes del Tribunal, de conformidad con lo dispuesto por esta Ley y en el Reglamento Interior, así como establecer las previsiones para su sustitución en caso de ausencia temporal o absoluta, en los términos del servicio civil de carrera, exceptuando el caso de los Magistrados, cuya designación se hará por la Legislatura del Estado, conforme a lo señalado en el artículo 17, fracción IV, de la Constitución Política del Estado de Querétaro;
 
 XXI. Conocer del destino y manejo de los recursos del Tribunal y recomendar las providencias necesarias para su eficiente manejo;
 
@@ -187,7 +183,9 @@ XXII. Aprobar el proyecto del presupuesto de egresos del Tribunal y acordar su p
 
 XXIII. Proponer de manera anual la aprobación de las listas de personas que deban ejercer cargos de peritos y otros auxiliares de la impartición de justicia contencioso-administrativa;
 
-XXIV. Supervisar el funcionamiento de juzgados y órganos del tribunal;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2015)</small>
+
+XXXIV. Imponer correcciones disciplinarias a las partes, abogados o cualquier otra persona que acudiendo o dirigiéndose al Tribunal, falten al orden en las audiencias o al respeto y consideración debidos a la investidura de sus servidores públicos;
 
 XXV. Convocar, presidir, dirigir los debates y conservar el orden en las reuniones;
 
@@ -207,7 +205,9 @@ XXXII. Firmar en unión del secretario de acuerdos las actas y resoluciones de l
 
 XXXIII. Ordenar que se registren en el libro respectivo las cédulas profesionales de los abogados;
 
-XXXIV. Imponer correcciones disciplinarias a las partes y abogados postulantes, cuando dirigiéndose al Tribunal, falten al respeto a la investidura de sus servidores públicos, o a sus personas;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2015)</small>
+
+XXXIV. Imponer correcciones disciplinarias a las partes, abogados o cualquier otra persona que acudiendo o dirigiéndose al Tribunal, falten al orden en las audiencias o al respeto y consideración debidos a la investidura de sus servidores públicos;
 
 XXXV. Rendir los informes justificados en los amparos que se promuevan en contra de las resoluciones de la Sala Unitaria;
 
@@ -225,21 +225,45 @@ XLI. Ejercer las facultades que le sean conferidas en el Reglamento Interior del
 
 ### CAPITULO II. DE LOS MAGISTRADOS
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2015)</small>
 
 ###### Artículo 12.
 
-El Magistrado Propietario de la Sala Unitaria durará en el ejercicio de su cargo cuatro años. Al término de este tiempo, podrá ser ratificado por la Legislatura del Estado hasta por dos ocasiones, por un periodo de cuatro años cada uno.
+Para ser electo por la Legislatura del Estado, como Magistrado Propietario o Supernumerarios de la Sala Unitaria, se requiere:
 
-Si se ratificara el nombramiento, el Magistrado sólo podrá ser removido, mediante resolución que declare su responsabilidad política en los términos del Título Séptimo de la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga.
+I. Ser mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
-Ninguna persona podrá ocular el cargo de Magistrado Propietario en forma consecutiva, ni discontinua, por más de doce años. Al vencimiento de dicho plazo o ante si el Magistrado llega a la edad de setenta años, cesará en sus funciones y tendrá derecho a un haber por concepto de retiro.
+II. Tener cuando menos treinta y cinco años cumplidos el día de la elección o reelección, en su caso;
+
+III. Contar con Título de Licenciado en Derecho y Cédula Profesional legalmente expedidos, con una antigüedad mínima de diez años al día de la elección;
+
+IV. Ser de reconocida honradez y no haber sido condenado por delito doloso que merezca pena de prisión por más de un año. Empero, si se tratare de robo, fraude, falsificación, abuso de confianza u otro delito que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, independientemente de cual haya sido la pena;
+
+V. Haber residido en el Estado de Querétaro, durante los tres últimos años anteriores al día de su elección; y
+
+VI. No haber ocupado el cargo de Secretario de Estado o su equivalente, Procurador General de Justicia o Diputado Local, durante el año previo al día de su elección.
+
+Los nombramientos de los Magistrados de la Sala Unitaria serán hechos por la Legislatura del Estado, entre aquellos profesionales del derecho que lo merezcan por su honorabilidad, competencia y antecedentes en la profesión jurídica.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2015)</small>
 
 ###### Artículo 13.
 
-Los Magistrados, después de su elección, sea como propietarios o como supernumerarios, deberán rendir la protesta de Ley ante la Legislatura o ante la Comisión Permanente, cuando aquella no se encuentre en periodo ordinario de sesiones.
+El Magistrado Propietario de la Sala Unitaria durará en el ejercicio de su cargo cuatro años. Al término de este tiempo, podrá ser ratificado por la Legislatura del Estado, hasta por un periodo igual inmediato de cuatro años.
+
+Si se ratificara el nombramiento, el Magistrado sólo podrá ser removido mediante resolución que declare su responsabilidad política, en los términos del Título Cuarto de la Constitución Política del Estado de Querétaro.
+
+Ninguna persona podrá ocupar el cargo de Magistrado Propietario en forma consecutiva, ni discontinua, por más de ocho años. Al vencimiento de dicho plazo, cesará en sus funciones y tendrá derecho a un haber por concepto de retiro, equivalente a tres meses de salario.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2015)</small>
 
 ###### Artículo 14.
+
+Los Magistrados, después de su elección, sea como propietarios o como supernumerarios, deberán rendir la protesta de Ley ante la Legislatura del Estado.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2015)</small>
+
+###### Artículo 15.
 
 El cargo de Magistrado no es renunciable, sino por causa grave calificada por la Legislatura.
 
@@ -247,13 +271,13 @@ El Magistrado podrá solicitar licencia hasta por 15 días con goce de sueldo, c
 
 La remuneración que perciban no podrá ser disminuida bajo ninguna circunstancia.
 
-###### Artículo 15.
-
-Los Magistrados del Tribunal deberán mantener el orden y exigir que se les guarde el respeto y consideración debidos bien por parte del personal de los juzgados o de los litigantes y personas que acuden ante ellos, pudiendo aplicar las correcciones disciplinarias que correspondan.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2015)</small>
 
 ###### Artículo 16.
 
-Cuando en algún negocio se inhiban los magistrados propietarios y supernumerarios en número tal que no quede restante para integrar la Sala Unitaria, se llamará por número al juez de lo contencioso-administrativo que no haya conocido del juicio de origen.
+Cuando exista falta absoluta de Magistrado Supernumerario, el Magistrado Propietario, dentro de un plazo de cinco días hábiles, contados a partir de que tenga conocimiento de tal circunstancia, la comunicará a la Legislatura del Estado para que ésta proceda a la elección del magistrado correspondiente. Si la falta absoluta es la del Magistrado Propietario, la comunicación la efectuará el Oficial Mayor del Tribunal.
+
+La Legislatura del Estado podrá proceder de oficio al ejercicio de la atribución referida en el párrafo anterior, cuando la falta absoluta del Magistrado se origine por el vencimiento del plazo legal respectivo por el que electo para ocupar tal cargo, por fallecimiento del titular o cuando éste sufra alguna discapacidad física o intelectual que lo imposibilite en forma absoluta para desempeñar y permanecer en el cargo.
 
 ### CAPÍTULO III. DE LOS SUPERNUMERARIOS
 
@@ -659,9 +683,11 @@ Manifestada por el interesado la causa de impedimento, se procederá en término
 
 ### CAPÍTULO I. DE LAS FALTAS OFICIALES
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2015)</small>
+
 ###### Artículo 52.
 
-Los Magistrados, Jueces, Secretarios de Acuerdos y todos los funcionarios y empleados del Tribunal Contencioso Administrativo son responsables de las acciones u omisiones en que incurran en el desempeño de sus funciones y están sujetos a las disposiciones del Título Séptimo de la Constitución Política del Estado, la Ley de Responsabilidades de los Servidores Públicos del Estado, el Código Penal y de esta ley.
+Los Magistrados, Jueces, Secretarios de Acuerdos y todos los funcionarios y empleados del Tribunal Contencioso-Administrativo, son responsables de las acciones u omisiones en que incurran en el desempeño de sus funciones y están sujetos a las disposiciones del Título Cuarto de la Constitución Política del Estado de Querétaro, la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro, el Código Penal para el Estado de Querétaro y de esta Ley.
 
 ###### Artículo 53.
 
@@ -849,27 +875,27 @@ Antes de iniciar un periodo de vacaciones, el Magistrado Propietario de la Sala 
 
 El ingreso, la formación, actualización, promoción y permanencia de los servidores públicos del Tribunal, se hará mediante el sistema de servicio civil de carrera a que se refiere el presente Capítulo, el cual se regirá por los principios de excelencia, profesionalismo, objetividad, imparcialidad, independencia y antigüedad.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2015)</small>
+
 ###### Artículo 70.
 
 El servicio civil de carrera comprende las siguientes categorías:
 
-I. Magistrado de lo Contencioso-Administrativo;
+I. Juez de lo Contencioso-Administrativo;
 
-II. Juez de lo Contencioso-Administrativo;
+II. Secretario de Acuerdos de la Sala Unitaria;
 
-III. Secretario de Acuerdos de la Sala Unitaria;
+III. Secretario Proyectista de la Sala Unitaria;
 
-IV. Secretario Proyectista de la Sala Unitaria;
+IV. Defensor de Oficio;
 
-V. Defensor de Oficio;
+V. Secretario de Acuerdos de Juzgado;
 
-VI. Secretario de Acuerdos de Juzgado;
+VI. Secretario Proyectista de Juzgado;
 
-VII. Secretario Proyectista de Juzgado;
+VII. Actuario de la Sala Unitaria; y
 
-VIII. Actuario de la Sala Unitaria;
-
-IX. Actuario de Juzgado.
+VIII. Actuario de Juzgado.
 
 ###### Artículo 71.
 
@@ -969,7 +995,7 @@ SECRETARIO DE GOBIERNO
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 17 DE NOVIEMBRE DE 2006.
 
@@ -986,3 +1012,11 @@ P.O. 19 DE OCTUBRE DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 31 DE JULIO DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. El actual Magistrado Presidente del Tribunal de lo Contencioso-Administrativo continuará en su cargo hasta que concluya el periodo por el que fue ratificado.
