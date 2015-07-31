@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2014-08-01"
+last_updated: "2015-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -214,6 +214,10 @@ El titular del organismo estatal de protección de los Derechos Humanos podrá h
 ###### ARTICULO 5.
 
 El propietario de una cosa puede gozar y disponer de ella con las limitaciones y modalidades que señalen las leyes.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2015)</small>
+
+No estarán permitidos en el Estado los usos de suelo y edificaciones para casinos, centros de apuestas, salas de sorteos, casas de juego y similares, así como para el establecimiento de centros que presenten espectáculos con personas desnudas o semidesnudas.
 
 La propiedad particular solamente puede ser objeto de expropiación por causa de utilidad pública y mediante indemnización, en la forma y términos que determinan las leyes.
 
@@ -2429,17 +2433,23 @@ I.- Aprobar, de acuerdo con las Leyes en materia municipal que expida el Congres
 
 II.- Ejercer, en los términos de las Leyes federales y estatales, las siguientes facultades:
 
-a).- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; asimismo planear y regular de manera conjunta y coordinada con la Federación, el Gobierno del Estado y los Ayuntamientos respectivos, el desarrollo de los centros urbanos, cuando dichos centros se encuentren situados en territorios de los Municipios del Estado o en los de éste con otro vecino, de manera que formen o tiendan a formar una continuidad demográfica, debiendo apegarse a la Ley Federal de la materia;
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2015)</small>
+
+a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; asimismo planear y regular de manera conjunta y coordinada con la Federación, el Gobierno del Estado y los Ayuntamientos respectivos, el desarrollo de los centros urbanos, cuando dichos centros se encuentren situados en territorios de los Municipios del Estado o en los de éste con otro vecino, de manera que formen o tiendan a formar una continuidad demográfica, debiendo apegarse a la Ley Federal de la materia. Los Planes de Desarrollo Urbano Municipal deberán establecer la prohibición de usos de suelo y uso de edificación para casinos, centros de apuestas, salas de sorteos, casas de juego y similares, así como para el establecimiento de centros que presenten espectáculos con personas desnudas o semidesnudas;
 
 b).- Participar en la creación y administración de sus reservas territoriales;
 
 c).- Formular los Planes Municipales de Desarrollo, de conformidad con lo dispuesto por esta Constitución, así como participar en la formulación de Planes de Desarrollo Regional, los cuales deberán estar en concordancia con los planes generales de la materia;
 
-d).- Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales;
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2015)</small>
+
+d) Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales. No estarán permitidos en el Estado los usos de suelo para casinos, centros de apuestas, salas de sorteos, casas de juego y similares, así como para el establecimiento de centros que presenten espectáculos con personas desnudas o semidesnudas;
 
 e).- Intervenir en la regularización de la tenencia de la tierra urbana;
 
-f).- Autorizar divisiones, fusiones, lotificaciones y fraccionamientos de bienes inmuebles, así como otorgar licencias y permisos para construcciones;
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2015)</small>
+
+f) Autorizar divisiones, fusiones, lotificaciones y fraccionamientos de bienes inmuebles, así como otorgar licencias y permisos para construcciones. No estarán permitidos en el Estado los permisos de construcción para casinos, centros de apuestas, salas de sorteos, casas de juego y similares, así como para el establecimiento de centros que presenten espectáculos con personas desnudas o semidesnudas;
 
 g).- Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento y fomento en esta materia;
 
@@ -3696,3 +3706,9 @@ Artículo Sexto. La referencia que esta Constitución hace al Fiscal General de 
 P.O. 1 DE AGOSTO DE 2014.
 
 Artículo Único. El presente decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 31 DE JULIO DE 2015.
+
+Artículo Primero. El presente Decreto entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. El Congreso del Estado deberá adecuar la Ley Orgánica Municipal para el Estado de Guanajuato, y el Código Territorial para el Estado y los Municipios de Guanajuato, y demás leyes al contenido del presente Decreto, en un término de ciento ochenta días, contado a partir del inicio de su vigencia.
