@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2014-12-24"
+last_updated: "2015-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2015.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -785,9 +785,9 @@ XVII.- Conceder honores, premios y recompensas a las personas que presten servic
 
 XVII bis.- Conceder pensiones, en casos de excepción, conforme a los procedimientos y formalidades que establezca la ley de la materia, con la aprobación de las dos terceras partes de los diputados presentes;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2015)</small>
 
-XVIII.- Citar a los titulares de las dependencias y entidades de la administración pública estatal, centralizada y paraestatal, para que informen cuando se discuta una ley, decreto o asunto concerniente a sus respectivos ramos o actividades;
+XVIII. Citar a los titulares y directores de las dependencias de la Administración pública Estatal centralizada, de las coordinaciones auxiliares del Titular del Ejecutivo, de las entidades paraestatales, de los organismos autónomos; y, al Procurador General de Justicia, quienes deberán comparecer y rendir informes;
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
 
@@ -1071,11 +1071,11 @@ VIII.- Presentar cada año al Congreso, a más tardar el treinta y uno de marzo,
 
 IX.- Dar informes al Congreso cuando le fueren pedidos, sobre cualquier ramo de la administración pública, por sí o a través de los titulares de las dependencias básicas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NO. 69.</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+X. Presentar al Congreso del Estado, un informe por escrito, dentro del período comprendido entre el día 15 y 30 de septiembre de cada año, en el que manifieste el estado general que guarde la Administración Pública del Estado y señale con precisión, el ejercicio del presupuesto y su vinculación con el Plan Estatal de Desarrollo, estableciendo en su caso las incidencias por las que éste se hubiese modificado y proponiendo los medios para mejorarla.
 
-X. Presentar al Congreso del Estado, un informe por escrito, en el mes de agosto de cada año legislativo, en el que manifieste el estado general que guarde la Administración Pública del Estado, proponiendo los medios para mejorarla. El Presidente del Congreso dará respuesta a esa presentación en términos generales. A esta sesión deberán asistir el Presidente y los magistrados del Supremo Tribunal de Justicia;
+El Congreso realizará el análisis del informe y podrá solicitar al Gobernador del Estado ampliar la información mediante pregunta por escrito y citar a los titulares y directores de las dependencias de la Administración pública Estatal centralizada, de las coordinaciones auxiliares del Titular del Ejecutivo, de las entidades paraestatales, de los organismos autónomos; y, al Procurador General de Justicia, quienes comparecerán y rendirán informes.
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
@@ -2045,13 +2045,17 @@ Todo Ayuntamiento tendrá un Secretario y un Tesorero, que serán nombrados por 
 
 Ningún regidor podrá desempeñar estos empleos y las personas designadas llenarán los mismos requisitos que los regidores, con excepción del de vecindad. El Tesorero deberá otorgar fianza para garantizar el manejo de fondos públicos.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2015)</small>
 
 ###### Artículo 123.
 
-Son facultades y obligaciones de los ayuntamientos:
+Son facultades y obligaciones de los ayuntamientos y de los concejos municipales:
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 I.- Representar jurídicamente al municipio;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 II.- Administrar libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que el Congreso del Estado establezca a su favor y, en todo caso:
 
@@ -2090,6 +2094,8 @@ Cada Ayuntamiento deberá aprobar en el presupuesto de egresos del ejercicio las
 > <small>(REFORMADA, P.O., 3 DE JULIO DE 2001)</small>
 
 IV.- Aprobar y expedir de conformidad con las leyes que emita el Congreso, el Bando de Gobierno Municipal, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 V.- Proporcionar en sus jurisdicciones los servicios de:
 
@@ -2169,9 +2175,9 @@ XII.- Celebrar convenios para la administración y custodia de las zonas federal
 
 XIII.- Vigilar las escuelas públicas y las particulares, tomando empeño para que en sus respectivas circunscripciones asistan a las escuelas todos los niños en edad escolar;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2015)</small>
 
-XIV.- Conocer anualmente, en pleno, el estado que guarda la administración municipal, por informe que rendirá el Presidente;
+XIV.- Conocer anualmente, en pleno, el estado que guarda la administración municipal, por informe que rendirá el Presidente o Concejero respectivo;
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
 
@@ -2281,7 +2287,7 @@ La propaganda gubernamental que difundan como tales, los poderes públicos, los 
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
 
-En los casos de infracción a lo dispuesto en el párrafo anterior, será competente en todo momento el Instituto Electoral de Michoacán, quien conocera y sancionara de manera pronta y expedita, sin menoscabo de las responsabilidades a que pueda ser acreedor.
+En los casos de infracción a lo dispuesto en el párrafo anterior, será competente en todo momento el Instituto Electoral de Michoacán, quien conocerá y sancionará de manera pronta y expedita, sin menoscabo de las responsabilidades a que pueda ser acreedor.
 
 > <small>(REFORMADO, P.O. 11 DE AGOSTO DE 1983)</small>
 
@@ -3660,3 +3666,13 @@ P.O. 24 DE DICIEMBRE DE 2014.
 PRIMERO. Remítase la Minuta con Proyecto de Decreto a los Ayuntamientos del Estado, para que en el término de un mes después de recibida, envíen al Congreso del Estado de Michoacán de Ocampo el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 31 DE JULIO DE 2015.
+
+Primero. Por única ocasión los Ayuntamientos actuales, y los Concejos Municipales, realizarán el último informe de su periodo dentro de la segunda quincena del mes de agosto de 2015, fecha en la que concluye su periodo constitucional.
+
+Segundo. Por única ocasión el Gobernador y los Diputados al Congreso del Estado, miembros de la LXXII legislatura realizarán su último informe dentro del período comprendido por la segunda quincena del mes de agosto y la primera semana de septiembre de 2015, mes en el que concluye el periodo constitucional.
+
+Tercero. Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+Cuarto. El presente Decreto entrará en vigor al día siguiente de su publicación, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
