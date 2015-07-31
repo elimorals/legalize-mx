@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2014-12-31"
+last_updated: "2015-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2015.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -383,9 +383,9 @@ XI.- La prevención del Consumo de narcóticos y la atención a las adicciones;
 
 XII.- Citar al farmacodependiente o consumidor a efecto de proporcionarle orientación y conminarlo a tomar parte en los programas contra la farmacodependencia o en aquellos preventivos en la materia, una vez que el centro o institución especializado en tratamiento, atención y rehabilitación de farmacodependientes haya recibido de la Secretaria de Salud del Estado el reporte de no ejercicio de la acción penal;
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2015)</small>
 
-XIII.- Ejecutar permanentemente una campaña estatal de donación altruista de sangre que garantice su abasto al servicio de salud, en la que se deberá cuidar que la donación se rija por los principios de altruismo, ausencia de ánimo de lucro y factibilidad;
+XIII.- Ejecutar permanentemente una campaña estatal de donación altruista de sangre, componentes sanguíneos y células troncales o progenitoras, que garantice su abasto al servicio de salud, en la que se deberá cuidar que la donación se rija por los principios de altruismo, ausencia de ánimo de lucro y factibilidad, y de acuerdo a las bases y modalidades establecidas en el Sistema Nacional de Salud;
 
 > <small>(REFORMADA, P.O. 18 DE ENERO DE 2013)</small>
 
@@ -407,9 +407,9 @@ II.- Administrar los establecimientos asistenciales y de salud que descentralice
 
 III.- Formular y desarrollar programas municipales de salud, en el marco del Sistema Nacional de Salud, del Sistema Estatal de Salud y de acuerdo con los principios y objetivos de los Planes Nacional, Estatal y Municipales de Desarrollo;
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2015)</small>
 
-IV.- Formular acciones de orientación que permitan establecer en la sociedad una cultura de donación de órganos y de sangre;
+IV.- Formular acciones de orientación que permitan establecer en la sociedad una cultura de donación de órganos, de sangre, componentes sanguíneos y células troncales o progenitoras, de acuerdo a las bases y modalidades establecidas en el Sistema Nacional de Salud;
 
 V.- Vigilar y hacer cumplir en la esfera de su competencia, la Ley General de Salud, la presente Ley y demás disposiciones legales aplicables; y
 
@@ -558,6 +558,14 @@ V.- Los menores de hasta seis meses de edad, entregados en las Instituciones Pú
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE ENERO DE 2013)</small>
 
 VI.- La realización del tamiz neonatal ampliado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE JULIO DE 2015)</small>
+
+En una situación de urgencia médica, las Instituciones Públicas de Salud prestarán de manera inmediata los servicios sanitarios y la atención médica necesaria a las mujeres en estado de gravidez, cualquiera que sea la etapa de la gestación, y que por su estado grave de salud se encuentre en riesgo su vida y la del producto de la concepción; esto sin discernir o distinguir la calidad de la usuaria; es decir, sea (sic) o no usuarias de servicios a población general, derecho habientes, aseguradas o beneficiarias, o que estén o no bajo el Sistema de Protección Social en Salud.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE JULIO DE 2015)</small>
+
+Cualquier omisión a lo anterior será sancionada en los términos que establezcan las leyes civiles, penales y administrativas.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE DICIEMBRE DE 2011)</small>
 
@@ -1863,9 +1871,9 @@ Los usuarios que aprovechen en su servicio aguas que posteriormente serán utili
 
 #### SECCION XI. DE LOS CENTROS DE DESARROLLO INFANTIL Y ESTANCIAS INFANTILES FAMILIARES
 
-(NOTA: EL 10 DE FEBRERO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 86/2009, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE FEBRERO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2015)</small>
 
 ###### ARTÍCULO 132.
 
@@ -1959,9 +1967,11 @@ Los transportes de carga señalados en el artículo anterior que circulen por el
 
 ###### ARTÍCULO 147.
 
-Se entiende por Centros de Desarrollo Infantil, el establecimiento donde se brinda cuidado temporal, alimentación y que en su caso brinden educación inicial, a menores en edad lactante, maternal, preescolar y menores con discapacidad NO DEPENDIENTES, cualquiera que sea su denominación.
+Se entiende por Centros de Desarrollo Infantil, el establecimiento donde se brinda cuidado temporal, alimentación y que en su caso brinden educación inicial, a menores en edad lactante, maternal y preescolar, y menores con discapacidad, cualquiera que sea su denominación.
 
 Es Estancia Infantil Familiar, la casa habitación en la que el propietario o posesionario del inmueble habita y de manera personal brinda cuidado temporal y alimentación a menores en edad lactante y hasta de seis años.
+
+El ingreso de niñas y niños a los servicios de los Centros de Desarrollo Infantil y Estancias Infantiles Familiares, se hará de conformidad con los requisitos previstos en las disposiciones normativas aplicables a cada caso y no se podrá condicionar por discapacidad, origen étnico, religión, preferencias sexuales o situación económica de los menores, padres, madres o tutores legales.
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2603,7 +2613,7 @@ C.P. JORGE RAMOS.
 
 P.O. 5 DE JULIO DE 2002.
 
-UNICO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+ÚNICO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
 
 P.O. 14 DE MARZO DE 2003.
 
@@ -2900,3 +2910,27 @@ P.O. 24 DE OCTUBRE DE 2014.
 P.O. 31 DE DICIEMBRE DE 2014.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE JULIO DE 2015.
+
+DECRETO No. 300, POR EL QUE SE APRUEBA LA REFORMA A LOS ARTÍCULOS 11 FRACCIÓN XIII Y 12 FRACCIÓN IV DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE JULIO DE 2015.
+
+DECRETO No. 301, POR EL QUE SE APRUEBA LA INICIATIVA POR EL QUE SE REFORMA EL ARTÍCULO 22 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Ejecutivo del Estado deberán (sic) realizar las reformas a los Reglamentos correspondientes, teniendo un plazo de 90 días naturales a partir de la publicación del presente Decreto.
+
+P.O. 31 DE JULIO DE 2015.
+
+DECRETO NÚMERO 302, POR EL QUE SE APRUEBA LA REFORMA Y ADICIÓN DE UN TERCER PÁRRAFO AL ARTÍCULO 147 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO: La presente reforma entrará en vigor a los 120 días siguientes a su publicación en el Periódico Oficial.
+
+SEGUNDO: El Ejecutivo del Estado y los Ayuntamientos tendrán un plazo de noventa días contados a partir de la entrada en vigor de la presente Ley, para adecuar su normatividad en el ámbito de su competencia.
+
+TERCERO: El Poder Ejecutivo del Estado de Baja California, deberá realizar las Políticas Públicas que se estimen necesarias, a efecto de que los Centros de Desarrollo infantil se cuente (sic) con personal técnico capacitado, así como equipo y medidas requeridas en los Centros de Desarrollo Infantil, para la inclusión de menores con discapacidad cualquiera que sea su denominación.
