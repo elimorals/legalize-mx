@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2015-06-26"
+last_updated: "2015-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -83,7 +83,11 @@ El Ejecutivo del Estado, de conformidad con las disposiciones aplicables proveer
 
 El Ejecutivo del Estado vigilará que el presupuesto destinado al sector educativo para la construcción, mantenimiento, mejoramiento, rehabilitación o remodelación, interior o exterior de inmuebles educativos, no sea utilizado de forma tal que promueva partidos, ideologías, servidores públicos, que pudieran influir u orientar las preferencias electorales o simpatías políticas de los niños, niñas, adolescentes y jóvenes.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2015)</small>
+
+De igual manera debe de otorgar los elementos necesarios para realizar los ajustes razonables en las instalaciones y espacios de los inmuebles educativos, de acuerdo al diseño universal de accesibilidad, en los términos de las Leyes en materia de inclusión de Personas con Discapacidad.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2015)</small>
 
 El Ejecutivo Estatal y los Municipios están obligados a incluir en el proyecto de presupuesto que sometan a la aprobación de la legislatura local, los recursos suficientes para fortalecer la autonomía de la gestión escolar de acuerdo a lo establecido en el artículo 28 bis de la Ley General de Educación.
 
@@ -441,7 +445,7 @@ X.- Fomentar y difundir las actividades artísticas, culturales y deportivas en 
 
 XI.- Editar libros y materiales didácticos distintos a los textos gratuitos otorgados por la Secretaría de Educación Pública y
 
-(NOTA: EL 22 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 47/2014, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTA FRACCIÓN, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 22 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 47/2014, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2014)</small>
 
@@ -2014,3 +2018,9 @@ SEGUNDO.- El Ejecutivo del Estado, deberá fusionar la estructura administrativa
 P.O. 26 DE JUNIO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE JULIO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Ejecutivo del Estado realizará las modificaciones a los Reglamentos correspondientes en los ciento veinte días posteriores a la entrada en vigor del presente Decreto.
