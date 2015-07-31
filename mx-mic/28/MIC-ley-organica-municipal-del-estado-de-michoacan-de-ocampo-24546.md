@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2015-04-24"
+last_updated: "2015-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2015.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -615,9 +615,11 @@ Los casos no previstos en la presente Ley, respecto al funcionamiento del Ayunta
 
 ### Capítulo V. De las Atribuciones de los Ayuntamientos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2015)</small>
+
 ###### Artículo 32.
 
-Los Ayuntamientos tienen las siguientes atribuciones:
+Los Ayuntamientos y los Concejos Municipales tienen las siguientes atribuciones:
 
 a).- En materia de Política Interior:
 
@@ -643,7 +645,9 @@ X. Celebrar por razones de interés público común, convenios de coordinación 
 
 XI. Celebrar convenios para la administración y custodia de las zonas federales;
 
-XII. Rendir a la población, por conducto del Presidente Municipal, un informe anual del estado que guarda los asuntos municipales y del avance de los programas de obras y servicios;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2015)</small>
+
+XII. Rendir a la población, por conducto del Presidente Municipal o Concejero Municipal respectivo, un informe anual en el mes de agosto, del estado que guarda (sic) los asuntos municipales y del avance de los programas de obras y servicios. En el último año de su gestión, rendirá su informe en la segunda quincena del mes de julio y en el proceso de entrega-recepción, entregará por separado toda la documentación del ejercicio correspondiente al mes de agosto, al Ayuntamiento o Concejo Municipal entrante;
 
 XIII. Expedir y reformar en su caso, el Bando de Gobierno Municipal y los reglamentos municipales necesarios para el mejor funcionamiento del Ayuntamiento;
 
@@ -737,7 +741,9 @@ VIII. Publicar en el Periódico Oficial del Estado los presupuestos de egresos, 
 
 IX. Publicar trimestralmente en la tabla de avisos del Ayuntamiento o en el periódico de mayor circulación en el municipio, el estado de origen y aplicación de los recursos públicos a su cargo;
 
-X. Enviar al Titular del Poder Ejecutivo del Estado, dentro de los primeros quince días del mes de diciembre de cada año, un informe de labores desarrolladas en el ejercicio; y,
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2015)</small>
+
+X. Enviar al Titular del Poder Ejecutivo del Estado, dentro de los primeros quince días del mes de agosto de cada año, un informe de labores desarrolladas en el ejercicio;
 
 > <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
 
@@ -1173,6 +1179,8 @@ Los regidores están obligados a aceptar las comisiones que les sean conferidas 
 
 ### Capítulo I. De las Atribuciones del Presidente Municipal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2015)</small>
+
 ###### Artículo 49.
 
 El Presidente Municipal tendrá a su cargo la representación del Ayuntamiento y la ejecución de las resoluciones del mismo, así como las siguientes atribuciones:
@@ -1187,7 +1195,9 @@ IV. Convocar y presidir las sesiones del Ayuntamiento y ejecutar sus acuerdos y 
 
 V. Ordenar la promulgación y publicación de los reglamentos, acuerdos y demás disposiciones administrativas del Ayuntamiento que deban regir en el municipio y disponer, en su caso, la aplicación de las sanciones que corresponda;
 
-VI. Informar anualmente a la población, en sesión pública y solemne del Ayuntamiento, durante la primera quincena del mes de diciembre, sobre el estado general que guarde la administración pública municipal, del avance del plan municipal de desarrollo y sus programas operativos; después de leído el informe podrá hacer uso de la palabra un regidor representante de cada una de las fracciones de los partidos políticos representados en el Ayuntamiento, a efecto de comentar sobre el informe de labores;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2015)</small>
+
+VI. Informar anualmente a la población, en sesión pública y solemne del Ayuntamiento o Concejo Municipal, durante la primera quincena del mes de agosto, a excepción del último año de gestión, que será la segunda quincena del mes de julio, sobre el estado general que guarde la administración pública municipal, del avance del plan municipal de desarrollo y sus programas operativos; después de leído el informe podrá hacer uso de la palabra un regidor representante de cada una de las fracciones de los partidos políticos representados en el Ayuntamiento, a efecto de comentar sobre el informe de labores. Los Concejos Municipales podrán definir previamente qué concejero comenta el informe de labores.
 
 VII. Ejercer el mando de la policía preventiva municipal en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, esta Ley, sus reglamentos y demás disposiciones del orden municipal;
 
@@ -1237,7 +1247,9 @@ II. Coordinar la Comisión de Hacienda Pública Municipal del Ayuntamiento y vig
 
 III. Revisar y en su caso, suscribir los estados de origen y aplicación de fondos y los estados financieros municipales;
 
-IV. Desempeñar las comisiones que le encomiende el Ayuntamiento presentar un informe anual de actividades durante la segunda quincena del mes de noviembre de cada año;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2015)</small>
+
+IV. Desempeñar las comisiones que le encomiende el Ayuntamiento, y deberá presentar un informe anual de actividades durante la segunda quincena del mes de julio de cada año, a excepción del último año de gestión, que será la primera quincena del mes de julio.
 
 V. Vigilar que el Ayuntamiento cumpla con las disposiciones que señala la Ley y con los planes y programas establecidos;
 
@@ -1261,7 +1273,9 @@ En su carácter de representantes de la comunidad en el Ayuntamiento, los Regido
 
 I. Acudir con derecho de voz y voto a las sesiones del Ayuntamiento y vigilar el cumplimiento de sus acuerdos;
 
-II. Desempeñar las comisiones que le encomiende el Ayuntamiento y presentar un informe anual de actividades durante la segunda quincena del mes de noviembre de cada año;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2015)</small>
+
+II. Desempeñar las comisiones que le encomiende el Ayuntamiento y deberá presentar un informe anual de actividades durante la segunda quincena del mes de julio de cada año, a excepción del último año de gestión, que será la primera quincena del mes de julio.
 
 III. Vigilar que el Ayuntamiento cumpla con las disposiciones que le establecen las disposiciones aplicables y con los planes y programas municipales;
 
@@ -2842,3 +2856,13 @@ Tercero. En los reglamentos municipales y demás disposiciones en que se haga re
 Cuarto. Dese cuenta del presente Decreto a los titulares de los poderes Ejecutivo y Judicial, al Instituto Nacional de Estadística y Geografia (INEGI); y, al Instituto Nacional Electoral, para su conocimiento.
 
 Quinto. Se exhorta al Ayuntamiento del Municipio de Venustiano Carranza, para que en el marco de su competencia, ordene se modifiquen, los emblemas, escudos, papelería, sellos e imagen, tanto del Ayuntamiento, como de la Cabecera Municipal, ajustándose a lo aprobado en el presente Decreto.
+
+P.O. 31 DE JULIO DE 2015.
+
+Primero. Por única ocasión los Ayuntamientos actuales, y los Concejos Municipales, realizarán el último informe de su periodo dentro de la segunda quincena del mes de agosto de 2015, fecha en la que concluye su periodo constitucional.
+
+Segundo. Por única ocasión el Gobernador y los Diputados al Congreso del Estado, miembros de la LXXII legislatura realizarán su último informe dentro del período comprendido por la segunda quincena del mes de agosto y la primera semana de septiembre de 2015, mes en el que concluye el periodo constitucional.
+
+Tercero. Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+Cuarto. El presente Decreto entrará en vigor al día siguiente de su publicación, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
