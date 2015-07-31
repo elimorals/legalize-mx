@@ -4,7 +4,7 @@ identifier: "MIC-declaratoria-de-incorporacion-del-sistema-procesal-penal-104244
 country: "mx"
 rank: "otro"
 publication_date: "2014-12-26"
-last_updated: "2014-12-26"
+last_updated: "2015-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PENAL ACUSATORIO Y DE INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2015.
 
 Declaratoria publicada en la tercera sección del periódico oficial del Estado de Michoacán de Ocampo el viernes 26 de diciembre de 2014.
 
@@ -49,7 +49,13 @@ En consecuencia, las garantías consagradas en los artículos antes indicados, r
 
 I. El 7 de marzo de 2015, en la región de Morelia, que comprende los distritos de Morelia, Pátzcuaro y Zinapécuaro; y, en la región de Zitácuaro, que comprende los distritos de Hidalgo, Huetamo, Maravatío y Zitácuaro.
 
-II. El 3 de agosto de 2015, en la región de Zamora, que comprende los distritos de Jiquilpan, La Piedad, Los Reyes, Puruándiro, Sahuayo, Tanhuato, Zacapu y Zamora; y, en la región de Uruapan, que comprende los distritos de Ario, Tacámbaro y Uruapan; y,
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2015)</small>
+
+II. El 3 de agosto de 2015, en la región de Uruapan, que comprende los distritos de Ario, Tacámbaro y Uruapan;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2015)</small>
+
+II-A. El 11 de febrero de 2016, en la región de Zamora, que comprende los distritos de Jiquilpan, La Piedad, Los Reyes, Puruándiro, Sahuayo, Tanhuato, Zacapu y Zamora; y,
 
 III. El 9 de mayo de 2016, en la región de Lázaro Cárdenas, que comprende los distritos de Arteaga, Coahuayana y Lázaro Cárdenas; y, en la región de Apatzingán, que comprende los distritos de Apatzingán y Coalcomán.
 
@@ -57,7 +63,13 @@ Artículo Segundo. En cumplimiento a lo previsto en el artículo Segundo Transit
 
 I. El 7 de marzo de 2015, en la región de Morelia, que comprende los distritos de Morelia, Pátzcuaro y Zinapécuaro; y, en la región de Zitácuaro, que comprende los distritos de Hidalgo, Huetamo, Maravatío y Zitácuaro;
 
-II. El 3 de agosto de 2015, en la región de Zamora, que comprende los distritos de Jiquilpan, La Piedad, Los Reyes, Puruándiro, Sahuayo, Tanhuato, Zacapu y Zamora; y, en la región de Uruapan, que comprende los distritos de Ario, Tacámbaro y Uruapan; y,
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2015)</small>
+
+II. El 3 de agosto de 2015, en la región de Uruapan, que comprende los distritos de Ario, Tacámbaro y Uruapan;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2015)</small>
+
+II-A. El 11 de febrero de 2016, en la región de Zamora, que comprende los distritos de Jiquilpan, La Piedad, Los Reyes, Puruándiro, Sahuayo, Tanhuato, Zacapu y Zamora; y,
 
 III. El 9 de mayo de 2016, en la región de Lázaro Cárdenas, que comprende los distritos de Arteaga, Coahuayana y Lázaro Cárdenas; y, en la región de Apatzingán, que comprende los distritos de Apatzingán y Coalcomán.
 
@@ -88,3 +100,11 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la Residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a 26 veintiséis días del mes de diciembre del año 2014 dos mil catorce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- MTRO. JAIME DARÍO OSEGUERA MÉNDEZ.- (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE JULIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
