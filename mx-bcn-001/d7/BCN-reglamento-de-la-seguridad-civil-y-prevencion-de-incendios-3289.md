@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-seguridad-civil-y-prevencion-de-incendios-3289
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-06-10"
-last_updated: "2008-01-04"
+last_updated: "2015-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3289&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO DE LA SEGURIDAD CIVIL Y PREVENCION DE INCENDIOS PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-REGLAMENTO DE LA SEGURIDAD CIVIL Y PREVENCION DE INCENDIOS PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
+REGLAMENTO DE LA SEGURIDAD CIVIL Y PREVENCIÓN DE INCENDIOS PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO PARA LA PREVENCIÓN, CONTROL Y EXTINCIÓN DE INCENDIOS Y SINIESTROS EN EL MUNICIPIO DE ENSENADA, PUBLICADO EN EL P.O. DE 31 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el domingo 10 de junio de 1990.
 
@@ -181,7 +183,7 @@ V.- Pagar los derechos que causen, conforme a la Ley de Ingresos del Municipio.
 
 VI.- Permitir las inspecciones que de oficio o a solicitud de parte se (sic) realice la Dirección de Bomberos y Protección Civil.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 9o.
 
@@ -925,10 +927,40 @@ C. MARIO GALAVIZ QUINTERO.
 
 (Rúbrica)
 
-> <small>N. DE E. VEASE TABLAS EN EL P. O. DE 10 DE JUNIO DE 1990, PAGINAS DE LA 10 A LA 34.</small>
+> <small>N. DE E. VÉASE TABLAS EN EL P. O. DE 10 DE JUNIO DE 1990, PÁGINAS DE LA 10 A LA 34.</small>
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 4 DE ENERO DE 2008.
 
 UNICO.- Esta reforma entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 31 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Se Abroga el Reglamento para la Seguridad Civil y Prevención de Incendios para el Municipio de Ensenada, Baja California, publicado en el Periódico Oficial, órgano del Gobierno del Estado de Baja California, el día 10 de junio de 1990.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones municipales que se opongan al objeto y fines del presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Baja California.
+
+###### ARTÍCULO CUARTO.
+
+En interés de la seguridad civil, los edificios construidos o en proceso de construcción, a la entrada en vigor del presente Reglamento estarán sujetos a la inspección y vigilancia, así como a las disposiciones y requerimientos señalados en el mismo, independientemente de las autorizaciones que con anterioridad se hayan otorgado.
+
+###### ARTÍCULO QUINTO.
+
+La Subdirección en un plazo de 90 días a partir de la publicación del presente Reglamento, deberá someter a aprobación del Presidente Municipal el Manual de Normas Técnicas para la prevención de incendios a que se refiere el presente Reglamento.
+
+###### ARTÍCULO SEXTO.
+
+El presente Reglamento se deberá revisar cada 3 años, para mantener actualizado los requerimientos en cuanto a procesos y equipos que dependan del avance tecnológico y científico.
+
+###### ARTÍCULO SÉPTIMO.
+
+Toda empresa que preste servicios comerciales de diseño, instalación y mantenimiento de equipos y sistemas contra incendios deberán de acatar las disposiciones contenidas en este Reglamento, teniendo un plazo de 60 días naturales después de su publicación para realizar los trámites de registro correspondientes ante la Subdirección.
