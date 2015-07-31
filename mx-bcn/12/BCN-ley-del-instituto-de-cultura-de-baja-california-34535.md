@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-cultura-de-baja-california-34535"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-24"
-last_updated: "2015-06-26"
+last_updated: "2015-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE CULTURA DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 24 de octubre de 2003.
 
@@ -153,7 +153,9 @@ XII. Reconocer a los residentes en el Estado y a los bajacalifornianos que se ha
 
 XIII. Fomentar programas de intercambio cultural y artístico a nivel nacional y el extranjero para fortalecer el conocimiento y desarrollo de nuestros valores;
 
-XIV. Fomentar y llevar a cabo programas especiales tendientes a incorporar a los niños, jóvenes y personas con capacidades diferentes, en la iniciación de actividades artísticas y creativas, en coordinación con instituciones, sindicatos, sociedades y asociaciones civiles afines;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2015)</small>
+
+XIV.- Fomentar y llevar a cabo programas especiales tendientes a incorporar a los niños, jóvenes, personas adultas mayores y personas con capacidades diferentes, en la iniciación de actividades artísticas y creativas, en coordinación con instituciones, sindicatos, sociedades y asociaciones civiles afines;
 
 XV. Interactuar con instituciones públicas, como complemento en aquellos programas que tiendan al fortalecimiento del desarrollo cultural y artístico del Estado, principalmente en áreas rurales;
 
@@ -191,9 +193,9 @@ XXVII. Apoyar la descentralización de los bienes y servicios culturales y artí
 
 XXVIII. Promover acciones interdisciplinarias y celebrar convenios de coordinación interinstitucional, con los entes públicos o privados que tengan interés en el desarrollo de la cultura y el arte en el Estado;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2015)</small>
 
-XXIX. Definir políticas y establecer estrategias que impulsen el desarrollo cultural de niños, jóvenes y adultos con capacidades diferentes, que motiven la participación de este sector de la sociedad en la actividad cultural del Estado;
+XXIX.- Definir políticas y establecer estrategias que impulsen el desarrollo cultural de niños, jóvenes, personas adultas mayores y adultos con capacidades diferentes, que motiven la participación de este sector de la sociedad en la actividad cultural del Estado, y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JUNIO DE 2015)</small>
 
@@ -211,7 +213,7 @@ Para el mejor cumplimiento de su objeto, el ICBC actuará de manera coordinada c
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
 
-I.- Promocionar y gestionar cursos de capacitación, formación, profesionalización y especialización para los promotores y gestores culturales o artísticos, así como la realización de talleres estatales de fomento a la lectura;
+I. Promocionar y gestionar cursos de capacitación, formación, profesionalización y especialización para los promotores y gestores culturales o artísticos, así como la realización de talleres estatales de fomento a la lectura;
 
 II. Trabajar coordinadamente con el sector educativo a través de los programas vigentes;
 
@@ -624,5 +626,9 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- El Ejecutivo del Estado, efectuará las reformas a los reglamentos correspondientes dentro de los noventa días siguientes a su entrada en vigor.
 
 P.O. 26 DE JUNIO DE 2015.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE JULIO DE 2015.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
