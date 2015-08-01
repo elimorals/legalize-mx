@@ -4,7 +4,7 @@ identifier: "TAB-ley-reglamentaria-del-articulo-65-fraccion-i-inciso-g-de-la-345
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-01"
-last_updated: "2003-11-01"
+last_updated: "2015-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34583&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY REGLAMENTARIA DEL ARTICULO 65, FRACCION I, INCISO G), DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-LEY REGLAMENTARIA DEL ARTICULO 65, FRACCION I, INCISO G), DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
+LEY REGLAMENTARIA DEL ARTÍCULO 65, FRACCIÓN I, INCISO G), DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO 219, PUBLICADO EN EL P.O. DE 1 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2015 (ABROGADA).
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el 1 de noviembre de 2003.
 
@@ -358,3 +360,37 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Ley Orgánica del Poder Judicial del Estado de Tabasco del 2 de octubre de 1990 y sus reformas, continúan vigentes para todos los efectos legales a que haya lugar, en tanto no se opongan al presente Decreto y el Congreso emita la Ley Orgánica del Poder Judicial del Estado de Tabasco que la sustituya y abrogue expresamente.
+
+TERCERO. Se abroga la Ley Reglamentaria del Artículo 65, Fracción I, inciso g), de la Constitución Política del Estado Libre y Soberano de Tabasco, publicada en el Suplemento C6381 al Periódico Oficial del Estado de Tabasco, el primero de noviembre de 2003.
+
+CUARTO. Se establece un plazo de 12 meses para que el Congreso del Estado emita la nueva Ley Orgánica del Poder Judicial del Estado de Tabasco, así como las demás leyes secundarias y reformas a las existentes que el presente Decreto ordena.
+
+QUINTO. A efecto de adecuar la composición del Consejo de la Judicatura, conforme lo establecido en el presente Decreto, con la entrada en vigor del mismo se procederá conforme a lo siguiente:
+
+Los actuales consejeros que hayan sido propuestos por el Gobernador y ratificados por el Congreso, o designados directamente por este último, podrán ser ratificados por el Gobernador o el Congreso, según sea el caso, conforme a lo señalado por el artículo 55 Bis reformado, hasta el cumplimiento del período que les corresponda.
+
+Los dos consejeros cuya designación corresponde al Pleno del Tribunal, serán elegidos de entre los magistrados y jueces que integran el Poder Judicial; en caso de elegir alguno o algunos de quienes actualmente ocupan el cargo de consejeros en el Consejo de la Judicatura, serán designados para concluir el período original para el que fueron nombrados. Los consejeros que no sean designados, regresarán a desempeñar el cargo de magistrado o juez, según corresponda.
+
+SEXTO. Los magistrados numerarios en funciones, nombrados con fundamento en el artículo 56 de la Constitución del Estado vigente hasta la presente fecha, continuarán desempeñando sus funciones como magistrados hasta cumplir el período por el cual fueron designados, al término del cual podrán ser reelectos para un periodo inmediato de ocho años, por una sola ocasión, previa la evaluación que de su desempeño y cumplimiento de los requisitos constitucionales realice el Congreso del Estado.
+
+Las vacantes de magistrados del Tribunal Superior de Justicia que existan a la fecha del inicio de vigencia del presente Decreto, serán cubiertas de conformidad con las nuevas disposiciones de la Constitución del Estado en la materia.
+
+SÉPTIMO. Los jueces de primera instancia que fungen como magistrados supernumerarios del Tribunal Superior de Justicia a la entrada en vigor del presente Decreto, concluirán sus funciones como tales y volverán a su encargo de juez; o bien, a su decisión, recibirán una remuneración consistente en una cantidad líquida neta equivalente al último año de servicios prestados. Todas las plazas correspondientes a magistrados supernumerarios deberán cancelarse administrativamente.
+
+Los magistrados supernumerarios a los que alude el primer párrafo del presente artículo transitorio tendrán la posibilidad de ser propuestos como magistrados del Tribunal Superior de Justicia, de conformidad con el procedimiento previsto en el artículo 56 reformado por virtud del presente Decreto. De ser electos perderán el derecho concedido en la parte final del primer párrafo de este artículo, durante el tiempo que continúen en funciones.
+
+OCTAVO. Tomando en consideración que, para garantizar el funcionamiento del Tribunal Superior de Justicia y atendiendo la integración de las salas colegiadas y Unitaria existentes, en tanto el Gobernador y el Congreso designan a los magistrados a que se refiere el presente Decreto, para la integración total del Pleno del Tribunal Superior de Justicia, se faculta a éste último para que, por única vez, designe a los magistrados interinos necesarios para ello, en términos de lo establecido por el artículo 56 reformado por este Decreto.
+
+NOVENO. El Titular del Poder Ejecutivo, por conducto de las instancias competentes, procederá a realizar las adecuaciones presupuestales que resulten necesarias para el debido cumplimiento de lo establecido en el presente Decreto, informando de ello al H. Congreso del Estado
+
+Del mismo modo, el Pleno del Tribunal Superior de Justicia y el Consejo de la Judicatura, según sus respectivas competencias, dictarán las medidas administrativas necesarias al interior del Poder Judicial, que resulten necesarias para el adecuado cumplimiento de lo establecido en el presente Decreto y garantizar la continuidad en el desempeño de las funciones que le competen.
+
+DÉCIMO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
