@@ -4,7 +4,7 @@ identifier: "COL-ley-de-adquisiciones-servicios-y-arrendamientos-del-sector-2549
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-15"
-last_updated: "2012-01-28"
+last_updated: "2015-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ADQUISICIONES, SERVICIOS Y ARRENDAMIENTOS DEL SECTOR PÚBLICO EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2015.
 
 Ley publicada en el Periódico Oficial "El Estado de Colima", el sábado 15 de junio del 2002.
 
@@ -145,9 +145,11 @@ Lo dispuesto en el párrafo anterior no será aplicable cuando por razón de la 
 
 La Oficialía Mayor y los órganos administrativos correspondientes, en su caso, autorizarán previamente la aplicación de esta excepción.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 7o.
 
-El gasto para las adquisiciones, servicios y arrendamientos se sujetará a las disposiciones específicas de los presupuestos de egresos del Gobierno, de los Ayuntamientos y de las entidades, en su caso, así como a lo previsto en las leyes de Presupuesto, Contabilidad y Gasto Público del Estado y Municipal y demás disposiciones aplicables.
+El gasto para las adquisiciones, servicios y arrendamientos se sujetará a los principios de eficiencia, eficacia, austeridad, y racionalidad presupuestaria, así como a las disposiciones específicas de los presupuestos de egresos del Gobierno, de los Ayuntamientos y de las entidades, en su caso, así como a lo previsto en las leyes de Presupuesto, Contabilidad y Gasto Público del Estado, Ley de Presupuesto y Gasto Público del Estado de Colima, y demás disposiciones aplicables.
 
 ###### ARTICULO 8o.
 
@@ -966,3 +968,9 @@ P.O. 9 DE OCTUBRE DE 2010.
 P.O. 28 DE ENERO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima"; sin perjuicio de los presupuestos y gastos que se hayan aprobado con anterioridad a la vigencia del mismo.
+
+SEGUNDO. En cumplimiento a las reformas y adiciones de este Decreto, para el ejercicio fiscal 2015, la previsión de recursos para gastos de operación de los sujetos de la Ley deberá reflejar las reducciones y supresión de partidas presupuestarias correspondientes.
