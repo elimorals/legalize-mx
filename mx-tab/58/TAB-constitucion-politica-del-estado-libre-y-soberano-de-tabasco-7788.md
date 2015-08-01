@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2015-02-14"
+last_updated: "2015-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2015.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -587,7 +587,9 @@ k) El Instituto Electoral y de Participación Ciudadana de Tabasco declarará la
 
 II.- El Consejo Estatal, a través del Consejero Presidente, deberá remitir al Ejecutivo Estatal el anteproyecto de egresos de cada año, para su inclusión en el proyecto del Presupuesto General de Egresos del Estado, mismo que será revisado y, en su caso, aprobado por el Congreso. En los años electorales se aumentará conforme a lo dispuesto por las leyes en la materia, tomando en cuenta las elecciones de que se trate;
 
-III.- La retribución económica que perciban los Consejeros Electorales, incluyendo la de su Presidente, no será superior, en ningún caso, a la que perciban los Magistrados Numerarios del Tribunal Superior de Justicia del Estado; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2015)</small>
+
+III.- La retribución económica que perciban los consejeros electorales, incluyendo la de su Presidente, no será superior, en ningún caso, a la que perciban los magistrados del Tribunal Superior de Justicia del Estado; y
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
@@ -1045,9 +1047,11 @@ XIX.- Designar al Fiscal General del Estado y al Contralor General del Instituto
 
 XX.- Dirimir los conflictos políticos y de límites entre el Municipio y el Estado y de los Municipios entre sí;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2015)</small>
 
-XXI.- Resolver acerca de las renuncias de Gobernador, diputados o magistrados numerarios del Tribunal Superior de Justicia y conceder licencias, a los dos primeros; así como a los magistrados cuando sean mayores a un año, en los términos de ley;
+XXI.- Resolver acerca de las renuncias y licencias de Gobernador y diputados; así como dar trámite a las renuncias de los magistrados del Tribunal Superior de Justicia y otorgarles licencia cuando sus ausencias sean mayores a sesenta días naturales, en cuyo caso se nombrará un Suplente por el término de la licencia, a propuesta del Gobernador del Estado.
+
+La licencia otorgada a los magistrados no podrá exceder el término de un año, salvo la que se conceda a quien integre el Consejo de la Judicatura en los términos señalados en el artículo 55 Bis de esta Constitución. En todo caso, el tiempo que dure la licencia se computará como parte del periodo para el que fue designado Magistrado;
 
 XXII.- Convocar a elecciones para cubrir las vacantes definitivas de sus miembros por el período respectivo, si la falta ocurriere antes de los últimos seis meses del período constitucional;
 
@@ -1055,7 +1059,7 @@ XXII.- Convocar a elecciones para cubrir las vacantes definitivas de sus miembro
 
 XXIII.- Convocar a elecciones Extraordinarias de Ayuntamientos cuando resulte procedente según esta Constitución;
 
-XXIV.- Dirimir los conflictos entre los otros dos Poderes, siempre que aquéllos no fueren de la competencia de la Suprema Corte de Justicia de la Nación;
+XXIV.- (DEROGADA, P.O. 1 DE AGOSTO DE 2015)
 
 > <small>(REFORMADA, P.O. 11 DE JUNIO DE 1983)</small>
 
@@ -1187,9 +1191,9 @@ II.- Recibir la protesta de ley a los Funcionarios que deban presentarlas ante e
 
 III.- Conceder las licencias que sean competencia del Congreso a los funcionarios que la soliciten, hasta por quince días;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2015)</small>
 
-IV.- Aprobar o no con carácter provisional los nombramientos de Magistrados Numerarios del Tribunal Superior de Justicia que someta a la consideración el Gobernador del Estado;
+IV.- Aprobar o no, con carácter provisional, los nombramientos de magistrados del Tribunal Superior de Justicia que someta a su consideración el Gobernador del Estado, con la sola excepción de los Interinos, según lo previsto en el artículo 56 de esta Constitución;
 
 V.- Nombrar con carácter provisional a todos los Funcionarios y empleados cuya designación compete al Congreso del Estado;
 
@@ -1615,73 +1619,81 @@ El Fiscal General del Estado y sus agentes, serán responsables de toda falta, o
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
 
-###### ARTICULO 55.
+###### Artículo 55.
 
-Se deposita el ejercicio del Poder Judicial del Estado, en los siguientes órganos, que conforme a su naturaleza, materia, competencia o atribuciones, se estructuran de la siguiente manera.
+Se deposita el ejercicio del Poder Judicial del Estado en los tribunales y juzgados que esta Constitución y las leyes establecen, los cuales administrarán justicia pronta y gratuita, de manera independiente e imparcial; asimismo, contarán con las atribuciones, competencias, organización, personal y demás funciones inherentes.
 
-I.- Órganos que ejercen funciones jurisdiccionales:
+El Poder Judicial contará además con un Consejo de la Judicatura y un Centro de Justicia Alternativa, con las atribuciones que señalen esta Constitución, la Ley Orgánica del Poder Judicial y demás ordenamientos aplicables.
 
-1).-Tribunal Superior de Justicia;
+Las normas relativas a los derechos humanos reconocidos en esta Constitución, particularmente las concernientes a la materia penal, serán interpretadas por los tribunales y juzgados locales de conformidad con la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales en la materia y esta Constitución.
 
-2).- Juzgados de Primera Instancia;
+El proceso penal será acusatorio y oral, estará sujeto a lo dispuesto por el Código Nacional de Procedimientos Penales. Se regirá por los principios generales de publicidad, contradicción, concentración, continuidad e inmediación y tendrá por objeto el esclarecimiento de los hechos, proteger al inocente, procurar que el responsable de la comisión del ilícito no quede impune y que los daños causados por el delito se reparen.
 
-3).- Juzgados especializados para Adolescentes;
+De conformidad con la Ley General de la materia y demás ordenamientos correspondientes, en el Estado operará un sistema integral de justicia aplicable a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garanticen sus derechos humanos, así como aquellos derechos específicos por su condición de personas en desarrollo. Las personas menores de doce años a quienes se atribuya que han cometido o participado en un hecho que la ley señale como delito, sólo podrán ser sujetos de asistencia social. La procuración e impartición de justicia para adolescentes estará a cargo de instituciones, juzgados y autoridades especializadas.
 
-4).- Juzgados especializados en extinción de dominio;
+Las leyes preverán mecanismos alternativos de solución de controversias para todas las materias. En la materia penal regularán su aplicación, asegurarán la reparación del daño y establecerán los casos en los que se requerirá supervisión judicial.
 
-5).- Juzgados de Paz;
+Para el ejercicio de sus funciones el Poder Judicial del Estado se compone de los siguientes tribunales y juzgados:
 
-6).- Juzgados de Control;
+I. Tribunal Superior de Justicia, que distribuye los asuntos de su competencia en:
 
-7).- Tribunales de Juicio Oral, integrados cada uno por tres jueces; y
+a) El Pleno;
 
-8).- Juzgados de Ejecución de Sanciones.
+b) La Sal a (sic) Especial Constitucional;
 
-Estos tres últimos órganos judiciales, ejercerán las funciones que le atribuyan competencia dentro del sistema procesal penal acusatorio y oral, y de las demás en que sean dotados.
+c) Las salas en materia Civil;
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+d) Las s alas (sic) en materia Penal; y
 
-El proceso penal será acusatorio y oral. Se regirá por los principios generales de publicidad, contradicción, concentración, continuidad e inmediación y tendrá por objeto el esclarecimiento de los hechos, proteger al inocente, procurar que el responsable de la comisión del ilícito no quede impune, y que los daños causados por el delito se reparen.
+II.- Los tribunales y juzgados que las leyes establezcan. La Ley Orgánica regulará su organización y determinará sus respectivas competencias, de conformidad con las disposiciones generales aplicables, en su caso.
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+El Tribunal Superior de Justicia del Estado funciona y se organiza de la siguiente manera:
 
-Las leyes preverán mecanismos alternos gratuitos de solución de controversias. En la materia penal regularán su aplicación, asegurarán la reparación del daño y establecerán los casos en los que se requerirá supervisión judicial.
+I. Funciona en Pleno o en salas colegiadas y unitarias para conocer de asuntos de legalidad, y como Sala Especial Constitucional para la aplicación e interpretación de esta Constitución;
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+II. El Pleno se integra por el Presidente del Tribunal Superior y los magistrados de las salas, y tiene las atribuciones que determina la Ley Orgánica. Esta fija, además, el número de salas, su composición, su especialización por materia, la forma de adscripción de los magistrados a cada una de ellas, así como el procedimiento de designación de quienes las presiden;
 
-Todos los derechos fundamentales y particularmente los concernientes con la materia penal de esta Constitución Estatal, serán interpretados por los jueces locales apegados estrictamente a la interpretación que de los mismos derechos reconocidos en la Constitución Federal y los Tratados Internacionales hayan hecho la Suprema Corte de Justicia de la Nación y demás tribunales competentes del Poder Judicial de la Federación, así como la Corte Interamericana de Derechos Humanos.
+III. La Sala Especial Constitucional se integra por el Presidente del Tribunal Superior de Justicia, quien la preside, y con los presidentes de las salas colegiadas en materias penal y civil. La Sala Especial Constitucional es el órgano jurisdiccional supremo de aplicación e interpretación de esta Constitución;
 
-II.- Para el ejercicio de la jurisdicción en los mecanismos alternativos de solución de conflictos, se contará con: Centros de Acceso a la Justicia Alternativa.
+IV. En los términos que la Ley disponga, las sesiones del Pleno y de las salas serán públicas o, por excepción, privadas en los casos que así lo exijan la moral o el interés público. Sus resoluciones se tomarán por mayoría de votos; y
 
-Todos estos órganos judiciales administrarán justicia expedita y gratuita de acuerdo con los artículos 17 y 18 de la Constitución Política de los Estados Unidos Mexicanos. Contarán con las atribuciones, competencia, organización y demás funciones inherentes que se refieren en esta Constitución, en los demás ordenamientos legislativos y legales que se expidan. Podrán funcionar en la forma que se disponga en la ley orgánica o ley especial aplicable, para dotarlos, en su caso, por razón de la materia o competencia de las especialidades que deben tener los órganos judiciales conforme mandato constitucional.
-
-III.- Para los fines a que se contrae el artículo 55 Bis de este precepto, así como las demás disposiciones de esta Constitución y leyes aplicables, contará con el Consejo de la Judicatura.
-
-El Tribunal Superior de Justicia del Estado, se integrará cuando menos por 19 magistrados, numerarios y los supernumerarios e interinos que se requieran, y funcionarán en pleno y en salas
-
-En los términos que la ley disponga, las sesiones del pleno y de las salas serán públicas, y por excepción, secretas en los casos que así lo exijan la moral o el interés público. Sus resoluciones se tomarán por mayoría de votos.
-
-Los Magistrados Numerarios serán nombrados en los términos del artículo 56 de la Constitución Política Local y los supernumerarios por el Pleno del propio Tribunal.
+V. Las sentencias que dicten el Pleno o las salas en todo tipo de procesos, serán públicas y de acceso universal en su versión digital, de conformidad con lo que la ley determine para la protección del derecho al honor y a la vida privada, así como por lo establecido en la materia por la Suprema Corte de Justicia de la Nación y la Corte Interamericana de Derechos Humanos.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2012)</small>
 
 ARTICULO 55 BIS.- El Consejo de la Judicatura como órgano integrante del Poder Judicial del Estado, tendrá autonomía técnica, de gestión y de resolución, en el ámbito de su competencia. La administración, capacitación, vigilancia, y disciplina del Poder Judicial, con excepción del Tribunal Superior de Justicia, estarán a cargo del Consejo de la Judicatura, en los términos que establezcan las leyes secundarias conforme a las bases que señala esta Constitución.
 
-El Consejo, se integrará por siete miembros de los cuales, uno lo será el presidente del Tribunal Superior de Justicia, quien lo presidirá; dos Magistrados Numerarios nombrados por el Pleno del Tribunal Superior de Justicia mediante votación secreta; un Juez de Primera Instancia y un Juez de Paz, designados por elección directa y secreta, entre ellos mismos, conforme el listado que formulará el Pleno del Consejo de la Judicatura de aquellos jueces que hubieren sido ratificados en sus cargos; un consejero propuesto por el gobernador del Estado, y ratificado por el Congreso; y un consejero designado por éste, ambos por las dos terceras partes de los diputados presentes; quienes deberán satisfacer los mismos requisitos que se exigen para ser Magistrado.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+El Consejo se integrará por cinco miembros, de los cuales uno lo será el Presidente del Tribunal Superior de Justicia, quien lo presidirá; un Magistrado y un juez electos por el Pleno del Tribunal Superior de Justicia por mayoría absoluta; un Consejero designado por el Gobernador del Estado; y un Consejero designado por el Congreso del Estado. Los consejeros, a excepción del Presidente, durarán en su cargo un periodo de cinco años, sin posibilidad de ser reelectos.
 
 Contará en su estructura administrativa, para el cumplimiento de sus atribuciones, con las unidades de apoyo que requiera y las que se determinen en la Ley Orgánica.
 
-Los miembros del Consejo de la Judicatura no desempeñarán la función jurisdiccional, con excepción del presidente que integrará pleno judicial en el Tribunal Superior de Justicia. Los Consejeros no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
 
-El Consejo de la Judicatura funcionará en Pleno o en comisiones. En el primer caso, resolverá sobre la designación, adscripción, ratificación, licencias, renuncias y remoción de Jueces de Primera Instancia; de extinción de dominio; para Adolescentes; de Paz; de Control; de Tribunales de Juicio Oral; y de Ejecución de Sanciones; así como de los servidores públicos auxiliares de la función jurisdiccional. En el segundo supuesto, resolverá lo relativo al personal que desempeñe tareas administrativas o de apoyo. Los Consejeros a excepción del presidente, durarán en su cargo cinco años, pudiendo ser reelectos por única ocasión, de acuerdo a lo establecido en la ley secundaria.
+Los miembros del Consejo de la Judicatura no desempeñarán la función jurisdiccional, con excepción del Presidente, que integra Pleno en el Tribunal Superior de Justicia y en la Sala Especial Constitucional. Los Consejeros no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad.
 
-De conformidad con lo que establezca la ley, y sin perjuicio de las atribuciones jurisdiccionales del Pleno del Tribunal Superior de Justicia, el Consejo estará facultado para expedir acuerdos generales que sean necesarios para el debido ejercicio de sus funciones administrativas, incluyendo las relativas a la carrera judicial; estos podrán ser revisados por el Pleno del Tribunal Superior de Justicia y, en su caso, revocar los que el Consejo apruebe, por mayoría calificada de las dos terceras partes de sus integrantes de número. La ley establecerá los términos y procedimientos para el ejercicio de estas atribuciones.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
 
-El Consejo de la Judicatura determinará la división del Estado en distritos judiciales o regionales, el número de éstos, su competencia territorial y, en su caso la especialización por materia de los órganos a que se contraen los incisos del 2 al 8 de la fracción I, del artículo 55 de esta Constitución.
+En el ámbito de su competencia el Consejo de la Judicatura resolverá sobre la designación, adscripción, ratificación, licencias, renuncias, suspensión o remoción de los jueces del Poder Judicial del Estado, así como lo relativo a los servidores públicos auxiliares de la función jurisdiccional y al personal que desempeñe tareas administrativas o de apoyo.
 
-Las decisiones del Consejo de la Judicatura, en la esfera exclusiva de su competencia, serán definitivas e inatacables y, por lo tanto, no procede juicio o recurso alguno en contra de las mismas, salvo a las que se refieran a la designación, adscripción, ratificación y remoción de los Jueces de Primera Instancia; Especializados en Adolescentes, de Ejecución de Sanciones o en Extinción de Dominio; de Paz; de Control; Tribunales de Juicio Oral; las cuales podrán ser revisadas por el Pleno del Tribunal Superior de Justicia, únicamente, para verificar que fueron emitidas conforme a las reglas que establezca la ley respectiva.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+De conformidad con lo que establezcan esta Constitución y la ley, y sin perjuicio de las atribuciones jurisdiccionales del Pleno del Tribunal Superior de Justicia, el Consejo de la Judicatura estará facultado para expedir los acuerdos generales que sean necesarios para el debido ejercicio de sus funciones administrativas, incluyendo las relativas a la carrera judicial; éstos podrán ser revisados por el Pleno del propio Tribunal y, en su caso, revocados por mayoría calificada de dos terceras partes de sus miembros. La ley establecerá los términos y procedimientos para el ejercicio de estas atribuciones.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+El Consejo de la Judicatura determinará la división del Estado en distritos judiciales, el número de éstos, su competencia territorial y, en su caso, la especialización por materia de los tribunales y juzgados que las leyes establezcan.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+Las decisiones del Consejo de la Judicatura, en la esfera exclusiva de su competencia, serán definitivas e inatacables y, por lo tanto, no procede juicio o recurso alguno en contra de las mismas, con excepción de lo señalado en el párrafo sexto anterior, y de las que se refieran a la designación, adscripción, ratificación, promoción, suspensión y remoción de los jueces, las cuales podrán ser revisadas por el Pleno del Tribunal Superior de Justicia, únicamente para verificar que fueron emitidas conforme a la ley.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+Independientemente de lo señalado en el Título Séptimo de esta Constitución en materia de la responsabilidad política de los servidores públicos del Poder Judicial, al Pleno del Tribunal Superior de Justicia le compete imponer, por mayoría absoluta de sus miembros, las sanciones disciplinarias de orden administrativo que procedan contra un Magistrado, inclusive la suspensión temporal del cargo, por las faltas que la ley determine. Al Presidente del Tribunal Superior de Justicia le corresponde decidir y ejecutar las relativas a las faltas leves que aquélla establezca. La imposición de las medidas disciplinarias sobre los integrantes del Consejo de la Judicatura, con excepción de las que se impongan por faltas graves mediante juicio político, es competencia de su Pleno.
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2012)</small>
 
@@ -1689,21 +1701,25 @@ ARTICULO 55 TER. El Magistrado Presidente del Tribunal Superior de Justicia del 
 
 El Poder Judicial administrará con autonomía su presupuesto y destinará, en renglones separados, los recursos para el Tribunal Superior de Justicia, Consejo de la Judicatura, Juzgados y demás órganos que lo integran, debiendo su Magistrado Presidente rendir informe anual ante el Congreso del Estado, acerca de su ejercicio.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 56.
 
-Los Magistrados Numerarios del Tribunal Superior de Justicia, conforme las necesidades de administración en el ramo, se elegirán en la forma siguiente:
+Para nombrar a cada Magistrado del Tribunal Superior de Justicia, el Gobernador del Estado someterá una terna a consideración del Congreso, el cual, previa comparecencia de las personas propuestas ante la comisión correspondiente, designará al Magistrado que deba cubrir la vacante. La designación se hará por el voto de las dos terceras partes de los miembros presentes del Congreso, dentro del improrrogable plazo de treinta días naturales siguientes a la presentación de la terna. Si el Congreso no resolviere dentro de dicho plazo, ocupará el cargo de Magistrado la persona que, dentro de dicha terna, designe el Gobernador del Estado.
 
-El Consejo de la Judicatura, encabezado por el Presidente del Tribunal Superior de Justicia, siguiendo el procedimiento de selección que su propia Ley Orgánica establezca, propondrá cinco candidatos al titular del Poder Ejecutivo del Estado, quien de entre ellos, formulará una terna la cual enviará al Congreso, para que previa comparecencia de estos ante la comisión correspondiente, designe a un Magistrado con la aprobación de las dos terceras partes de los diputados presentes.
+En caso que el Congreso rechace la totalidad de la terna propuesta, el Gobernador someterá una nueva, en los términos del párrafo anterior. Si esta segunda terna fuera rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Gobernador del Estado.
 
-En un término de quince días hábiles, el Congreso deberá resolver y elegir entre los propuestos de la terna y lo comunicará al Consejo de la Judicatura. De no hacerlo, el Pleno del Tribunal Superior de Justicia, elegirá al magistrado dentro de los de la terna, por el voto de las dos terceras partes de sus integrantes de número.
+Las ausencias temporales de los magistrados del Tribunal Superior de Justicia, de hasta sesenta días naturales, serán cubiertas por Magistrados Interinos nombrados por mayoría simple del Pleno de dicho Tribunal. Las que deriven de recusación, excusa o impedimento para el cumplimiento de su función jurisdiccional, se suplirán en la forma que establezca la ley.
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2006)</small>
+Los magistrados del Tribunal Superior de Justicia serán nombrados por un período único de quince años. La ley señalará el procedimiento que deberá seguirse para tales efectos.
 
-Los Jueces de Primera Instancia, de Paz y para Adolescentes, así como los servidores públicos que conforme las estructuras orgánicas se requieran y en términos de las previsiones presupuestales, serán nombrados y adscritos por el Consejo de la Judicatura, con base en criterios objetivos y de acuerdo a los requisitos y procedimientos que establezca la ley, la cual habrá de considerar el concurso de oposición y la carrera judicial.
+Los magistrados serán sustituidos antes de que concluya ese plazo, cuando sobrevenga defunción, incapacidad física o mental permanente, o podrán ser destituidos, por incurrir en cualquiera de las causas graves de responsabilidad que establezca la Ley Orgánica, previo juicio de responsabilidad ante el Congreso del Estado.
 
-Los Jueces que en los términos de esta Constitución y de la ley en la materia fueren designados, protestaran en su orden, ante el Pleno del Tribunal Superior de Justicia y el Consejo de la Judicatura.
+Los jueces del Poder Judicial y demás servidores públicos que integren sus estructuras orgánicas, forman el Servicio Profesional de Carrera del Poder Judicial del Estado de Tabasco, de carácter obligatorio y permanente, conforme al cual se regularán el ingreso, la compensación, la permanencia y la separación o baja del mismo; todo ello, con base en la evaluación periódica y objetiva de su desempeño. Sus integrantes serán seleccionados, nombrados y promovidos en consideración a los principios de mérito y capacidad por el Consejo de la Judicatura, mediante concurso de oposición, de acuerdo a los requisitos y procedimientos que establezca la ley.
+
+En la elección, designación o nombramiento de magistrados del Tribunal Superior de Justicia, de los miembros del Consejo de la Judicatura, de los jueces del Poder Judicial, se procurará impulsar la equidad de género.
+
+Los jueces que en los términos de esta Constitución y de la ley en la materia fueren designados, protestarán el cargo, en su orden, ante los plenos del Tribunal Superior de Justicia y del Consejo de la Judicatura.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -1733,11 +1749,11 @@ V.- Haber residido en el país durante los dos años anteriores al día de la de
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-VI. No haber sido en la entidad, Secretario o equivalente de la Administración Pública, Fiscal General del Estado de Tabasco, Magistrado del Tribunal Contencioso Administrativo, del Tribunal de Conciliación y Arbitraje o Diputado local, durante el año previo al día de su nombramiento.
+VI.- No haber sido en la entidad, Secretario o equivalente de la Administración Pública, Fiscal General del Estado de Tabasco, Magistrado del Tribunal Contencioso Administrativo, del Tribunal de Conciliación y Arbitraje o Diputado local, durante el año previo al día de su nombramiento.
 
-> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
 
-Los nombramientos de los Magistrados deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica. No será impedimento para considerar la residencia a que se contrae la fracción V de este artículo, cuando el interesado hubiere permanecido fuera del territorio del País, por motivos de la obtención de grados académicos en instituciones de nivel educativo superior o de postgrado.
+Los nombramientos de los magistrados deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia; o que se hayan distinguido por su honorabilidad, competencia y antecedentes en el ejercicio de la abogacía, en la academia u otra actividad profesional del derecho. No será impedimento para considerar la residencia a que se contrae la fracción V del párrafo anterior, cuando el interesado hubiere permanecido fuera del territorio del país con motivo de la obtención de grados académicos en instituciones de nivel educativo superior o de postgrado.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -1745,23 +1761,17 @@ Los nombramientos de los Magistrados deberán recaer preferentemente entre aquel
 
 Los Magistrados del Tribunal Superior de Justicia al entrar a ejercer su cargo, rendirán ante el Congreso o ante la Comisión Permanente la protesta siguiente: - Presidente: - ¿Protestáis desempeñar leal y patrióticamente el cargo de Magistrado del Tribunal Superior de Justicia del Estado, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Unión y del Estado? - Magistrado: "Sí protesto". - Presidente: "si no lo hiciereis así, que la Nación o el Estado os lo demande".
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 59.
 
-Será Presidente del Tribunal Superior de Justicia del Estado, el Magistrado Numerario que anualmente sea electo para ese efecto por el cuerpo Colegiado en Pleno. Cada Sala elegirá su propio Presidente en la primera sesión del año.
+Será Presidente del Tribunal Superior de Justicia del Estado por un periodo de cinco años, el Magistrado que sea electo para ese efecto por mayoría de los integrantes presentes del Pleno. El Presidente del Tribunal Superior de Justicia ostenta la representación del Poder Judicial del Estado de Tabasco ante los demás Poderes del Estado y de la Unión.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2001)</small>
+El Presidente del Tribunal Superior de Justicia concurrirá al Congreso del Estado en cualquier día hábil, dentro de los primeros diez días del mes de diciembre de cada año, a presentar ante la representación popular, un informe escrito acerca de la situación que guarda la Administración de Justicia del Estado. Al presentar su informe, el Presidente del Tribunal podrá, además, dirigir al pleno un mensaje alusivo. En este caso, el Presidente del Congreso realizará la intervención que corresponda.
 
-El Presidente del Tribunal Superior de Justicia concurrirá al Congreso del Estado en cualquier día hábil, dentro de los primeros cinco días, del mes de diciembre de cada año y rendirá ante la representación popular, un informe escrito acerca de la situación que guarda la Administración de Justicia del Estado; cuyo informe será contestado en el mismo acto por el Presidente del Congreso.
+Actuando coordinadamente los dos poderes, acordarán administrativamente cada año el día y hora precisos para la presentación del informe a que se refiere el párrafo anterior.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2001)</small>
-
-Actuando coordinadamente los dos poderes, acordarán administrativamente cada año el día y hora precisos para la comparecencia.
-
-Las faltas temporales del Presidente serán suplidas por otro Magistrado Numerario designado en la misma forma que el anterior, y las de los Presidentes de las Salas por el que éstas elijan.
-
-Las ausencias temporales de los Magistrados Numerarios serán cubiertas por el Supernumerario que designe el Pleno del Tribunal, el que podrá ser un Juez o el Secretario General de Acuerdos.
+Las faltas temporales del Presidente del Tribunal Superior de Justicia, menores a sesenta días, serán suplidas conforme lo determine la ley.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -1769,15 +1779,57 @@ Las ausencias temporales de los Magistrados Numerarios serán cubiertas por el S
 
 El Tribunal Superior de Justicia residirá en la Capital del Estado y en ningún caso ejercerá sus funciones fuera de ella, a no ser que lo autorice la Legislatura.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 61.
 
-Son facultades del Tribunal Superior de Justicia, funcionando en pleno, dirimir los conflictos de carácter jurídico que surjan entre los Municipios y cualquiera de los otros dos Poderes del Estado y las demás que le confieren las leyes.
+La Sala Especial Constitucional del Tribunal Superior de Justicia, en los términos que señale la ley reglamentaria, sin perjuicio de lo previsto en el artículo 105 de la Constitución general de la República, conocerá de los asuntos siguientes:
 
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 1983)</small>
+I. De las controversias constitucionales estatales que, con excepción de las que se refieran a la materia electoral, se susciten sobre la conformidad con esta Constitución de los actos o disposiciones generales entre:
 
-Erigirse en Jurado de sentencia para conocer en Juicio Político de las faltas u omisiones que cometan los servidores públicos y que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, en los términos del artículo 68 de esta constitución.
+a) El Poder Ejecutivo y el Congreso del Estado o, en su caso, la Comisión Permanente;
+
+b) El Poder Ejecutivo y un Municipio;
+
+c) El Congreso y un Municipio;
+
+d) Un Municipio y otro;
+
+e) Un Órgano Constitucional Autónomo y el Poder Ejecutivo;
+
+f) Un Órgano Constitucional Autónomo y el Congreso;
+
+g) Un Órgano Constitucional Autónomo y otro Órgano Constitucional Autónomo;
+
+h) Un Órgano Constitucional Autónomo y un Municipio; e
+
+i) El equivalente al treinta y tres por ciento o más de los integrantes del Cabildo y el propio Ayuntamiento.
+
+Siempre que las controversias versen sobre disposiciones generales de los municipios impugnadas por el Estado, o entre los poderes Ejecutivo y Legislativo, las resoluciones de la Sala Especial Constitucional sólo podrán declarar la invalidez de las normas impugnadas, siempre que sean aprobadas por unanimidad de sus integrantes. En lo (sic) demás casos, de aprobarse por mayoría, sólo tendrán efectos para las partes en la controversia;
+
+II. De las acciones de inconstitucionalidad estatal que, con excepción de las que se refieran a la materia electoral, tengan por objeto plantear la posible contradicción entre una norma local de carácter general y esta Constitución.
+
+Las acciones de inconstitucionalidad estatal pueden ser ejercitadas, dentro de los treinta días naturales siguientes a la publicación de la norma impugnada, por:
+
+a) El equivalente al treinta y tres por ciento de los integrantes del Congreso, en contra de leyes estatales;
+
+b) El Gobern ador (sic) del Estado en contra de normas estatales o municipales;
+
+c) El Fiscal General, en contra de leyes estatales en materia penal, así como las relacionadas con el ámbito de sus funciones;
+
+d) El Municipio, por mayoría absoluta de los integrantes de su Ayuntamiento, en contra de leyes estatales;
+
+e) La Comisión Estatal de los Derechos Humanos, en contra de leyes estatales o normas de carácter general de los municipios que vulneren los derechos humanos consagrados en esta Constitución; y
+
+f) El Instituto Tabasqueño de Transparencia y Acceso a la Información Pública contra leyes estatales, o normas de carácter general de los municipios que vulneren el derecho al acceso a la información pública y la protección de datos personales.
+
+Las resoluciones de la Sala Especial Constitucional sólo podrán declarar la invalidez de las normas impugnadas, siempre que sean aprobadas por cuando menos las dos terceras partes de sus integrantes.
+
+En caso de que la acción de inconstitucionalidad verse sobre la presunta violación o contradicción de preceptos constitucionales federales, se estará a lo dispuesto en la Constitución general de la República y la Ley Reglamentaria de las fracciones I y II del artículo 105 de la propia Constitución;
+
+III. De las opiniones consultivas de control previo de constitucionalidad estatal entre la materia de una consulta popular y esta Constitución; y
+
+IV. Del recurso por violación de derechos fundamentales establecidos en la Constitución del Estado, con excepción de la materia penal, de conformidad con lo dispuesto en la ley reglamentaria.
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2001)</small>
 
@@ -1785,21 +1837,23 @@ Erigirse en Jurado de sentencia para conocer en Juicio Político de las faltas u
 
 Los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura y demás funcionarios judiciales no podrán, en ningún caso, aceptar y desempeñar empleo o encargo de la Federación, del Estado, Municipio o de particulares, salvo los cargos docentes, literarios, de beneficencia, y honoríficos en asociaciones científicas; así como las funciones electorales que les fueren encomendadas. La infracción de esta disposición, será castigada con la pérdida del cargo.
 
-Las personas que hayan ocupado el cargo de Magistrado Numerario o Consejero de la Judicatura, no podrán, dentro del año siguiente a la fecha de su conclusión, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JULIO DE 2012)</small>
+Las personas que hayan ocupado el cargo de Magistrado, Consejero de la Judicatura o Juez, no podrán, dentro del año siguiente a la fecha de su conclusión, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 63.
 
-La competencia del Tribunal Superior de Justicia, los periodos de sesiones, el funcionamiento del Pleno y de las Salas, las atribuciones de los Magistrados, del Consejo de la Judicatura, el número y competencia de los Juzgados de Primera Instancia, de Extinción de Dominio, para Adolescentes, y de Paz, de Control, de Tribunal de Juicio Oral y de Ejecución de Sanciones; así como las responsabilidades en que incurran los funcionarios y empleados del Poder Judicial del Estado, se regirán por esta Constitución, las leyes aplicables y demás ordenamientos reglamentarios.
+La competencia del Tribunal Superior de Justicia, los periodos de sesiones, el funcionamiento del Pleno y de las salas, las atribuciones de los magistrados, del Consejo de la Judicatura, el número y competencia de los juzgados; así como las responsabilidades en que incurran los funcionarios y empleados del Poder Judicial del Estado, se regirán por esta Constitución, las leyes aplicables y demás ordenamientos reglamentarios.
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2001)</small>
 
 La remuneración que perciban los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura y los Jueces, por los servicios que presten al Poder Judicial, no podrá ser disminuida durante su encargo.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
 
-Los Magistrados y Jueces que integran el Poder Judicial del Estado, durarán ocho y cinco años, respectivamente, en el ejercicio de su encargo, al término de los cuales, si fueran ratificados o promovidos los segundos a cargos superiores, solo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezca esta Constitución y las leyes secundarias aplicables.
+Los Jueces que integran el Poder Judicial del Estado serán nombrados para un período de cinco años en el ejercicio de su encargo, al término del cual, si fueran ratificados, sólo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezcan esta Constitución y las leyes secundarias aplicables. Al cumplir setenta y cinco años de edad, dichos jueces pasarán a retiro.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
 
@@ -1995,11 +2049,15 @@ c) Las normas de aplicación general para celebrar los convenios a que se refier
 
 d) El procedimiento y condiciones para que el gobierno estatal asuma una función o servicio municipal, cuando, al no existir el convenio correspondiente, la legislatura estatal considere que el municipio de que se trate está imposibilitado para ejercerlos o prestarlos; en este caso, será necesaria solicitud previa del ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes;
 
-e) Las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes;
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
 
-f) El procedimiento que debe observarse para que los regidores que integran el cuerpo edilicio, tengan derecho a obtener la información necesaria, para el desempeño de sus funciones; y
+e) Las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes; y
 
-g) El ejercicio de la Acción de Revisión Municipal, la cual tendrá por objeto plantear ante el Pleno del Tribunal Superior de Justicia del Estado, la posible contradicción entre un acto o disposición de carácter general emitida por el cabildo con alguna disposición contemplada en la constitución local; dicha Acción de Revisión Municipal, podrá ejercitarse dentro de los treinta días siguientes a la fecha en que se efectué el acto o entre en vigor la disposición impugnada y solo podrá ser promovida, por el equivalente, al treinta y tres por ciento o más, de los integrantes del cabildo, del que haya emanado la disposición impugnada. En los términos de la ley reglamentaria.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+f) El procedimiento que debe observarse para que los regidores que integran el cuerpo edilicio, tengan derecho a obtener la información necesaria, para el desempeño de sus funciones.
+
+g) (DEROGADO, P.O. 1 DE AGOSTO DE 2015)
 
 El Congreso del Estado emitirá las normas que establezcan los procedimientos mediante los cuales se resolverán los conflictos que se presenten entre los municipios y el gobierno del estado, o entre aquellos, con motivo de los actos derivados de los incisos c) y d) anteriores.
 
@@ -2143,6 +2201,10 @@ No procede al Juicio Político por la mera expresión de ideas;
 
 II.- La Comisión de delitos por parte de cualquier servidor Público será perseguida y sancionada en los términos de la Legislación Penal; y
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+Es competencia de la Primera Sala de lo Penal del Tribunal Superior de Justicia, fungir como tribunal de enjuiciamiento; y del tribunal compuesto por los tres magistrados presidentes de las salas Segunda, Tercera y Cuarta de la misma materia, conocer en alzada en los juicios penales en los que se impute la responsabilidad de los servidores públicos señalados en el artículo 69 de esta Constitución, una vez emitida la respectiva declaración de procedencia. Dichos tribunales serán igualmente competentes para conocer de juicios en los que se impute la comisión de cualquiera de los delitos establecidos en el Título Segundo del Código Penal para el Estado de Tabasco, denominado Delitos contra el Erario y el Servicio Públicos; en ambos supuestos el juez de control de mayor antigüedad con sede en la capital del Estado será competente para sustanciar la etapa inicial del proceso; y
+
 III.- Se aplicarán sanciones Administrativas a los servidores públicos por aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
 
 Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán automáticamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
@@ -2151,11 +2213,11 @@ Las Leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de pruebas, podrán formular denuncia ante la Cámara de Diputados del Estado, respecto de las conductas a las que se refiere el presente artículo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 68.
 
-Podrán ser sujetos de Juicio Político los Diputados a la Legislatura Local, los Magistrados del Tribunal Superior de Justicia, los Jueces del Fuero Común, el Consejero Presidente, los Consejeros Electorales y el Secretario Ejecutivo del Instituto Electoral de Tabasco, los Magistrados del Tribunal Electoral de Tabasco, los Titulares de las Secretarías, los Directores de la Administración Pública Estatal, el Fiscal General del Estado y los servidores públicos de mando superior de la Fiscalía hasta el nivel de director, los Agentes del Ministerio Público, los Presidentes Municipales, los Concejales, los Síndicos de Hacienda, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos.
+Podrán ser sujetos de Juicio Político los diputados a la Legislatura local, los magistrados del Tribunal Superior de Justicia, los integrantes del Consejo de la Judicatura, el Consejero Presidente, los consejeros electorales y el Secretario Ejecutivo del Instituto Electoral y de Participación Ciudadana de Tabasco, los magistrados del Tribunal Electoral de Tabasco, los integrantes de los demás órganos constitucionales autónomos, los titulares de las Secretarías, los directores de la Administración Pública Estatal, el Fiscal General del Estado y los servidores públicos de mando superior de la Fiscalía hasta el nivel de director, los agentes del Ministerio Público, los presidentes municipales, los concejales, los síndicos de Hacienda, los directores generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
@@ -2173,11 +2235,11 @@ Conociendo de la acusación, el Tribunal Superior de Justicia, erigido en Jurado
 
 Las declaraciones y resoluciones de la Cámara de Diputados y del Tribunal Superior de Justicia son inatacables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 69.
 
-Para proceder penalmente contra los Diputados al Congreso del Estado, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal Electoral de Tabasco, Magistrados del Tribunal de lo Contencioso Administrativo, Consejeros de la Judicatura, titulares de las Secretarías, Fiscal General del Estado de Tabasco, Presidentes Municipales, los Concejales, los Síndicos de Hacienda, así como el Consejero Presidente y los Consejeros Electorales del Consejo Estatal Electoral del Instituto Electoral y de Participación Ciudadana de Tabasco, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará, por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el imputado.
+Para proceder penalmente contra los diputados al Congreso del Estado, magistrados del Tribunal Superior de Justicia, magistrados del Tribunal Electoral de Tabasco, magistrados del Tribunal de lo Contencioso Administrativo, consejeros de la Judicatura, titulares de las Secretarías, Fiscal General del Estado de Tabasco, presidentes municipales, los concejales, los síndicos de Hacienda, así como el Consejero Presidente y los consejeros electorales del Consejo Estatal del Instituto Electoral y de Participación Ciudadana de Tabasco, así como los miembros de los demás órganos constitucionales autónomos, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará, por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el imputado.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2012)</small>
 
@@ -3360,3 +3422,35 @@ Se derogan todas las disposiciones aplicables que se opongan al presente ordenam
 ###### ARTÍCULO TERCERO.
 
 De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los Ayuntamientos de la entidad.
+
+P.O. 1 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Ley Orgánica del Poder Judicial del Estado de Tabasco del 2 de octubre de 1990 y sus reformas, continúan vigentes para todos los efectos legales a que haya lugar, en tanto no se opongan al presente Decreto y el Congreso emita la Ley Orgánica del Poder Judicial del Estado de Tabasco que la sustituya y abrogue expresamente.
+
+TERCERO. Se abroga la Ley Reglamentaria del Artículo 65, Fracción I, inciso g), de la Constitución Política del Estado Libre y Soberano de Tabasco, publicada en el Suplemento C6381 al Periódico Oficial del Estado de Tabasco, el primero de noviembre de 2003.
+
+CUARTO. Se establece un plazo de 12 meses para que el Congreso del Estado emita la nueva Ley Orgánica del Poder Judicial del Estado de Tabasco, así como las demás leyes secundarias y reformas a las existentes que el presente Decreto ordena.
+
+QUINTO. A efecto de adecuar la composición del Consejo de la Judicatura, conforme lo establecido en el presente Decreto, con la entrada en vigor del mismo se procederá conforme a lo siguiente:
+
+Los actuales consejeros que hayan sido propuestos por el Gobernador y ratificados por el Congreso, o designados directamente por este último, podrán ser ratificados por el Gobernador o el Congreso, según sea el caso, conforme a lo señalado por el artículo 55 Bis reformado, hasta el cumplimiento del período que les corresponda.
+
+Los dos consejeros cuya designación corresponde al Pleno del Tribunal, serán elegidos de entre los magistrados y jueces que integran el Poder Judicial; en caso de elegir alguno o algunos de quienes actualmente ocupan el cargo de consejeros en el Consejo de la Judicatura, serán designados para concluir el período original para el que fueron nombrados. Los consejeros que no sean designados, regresarán a desempeñar el cargo de magistrado o juez, según corresponda.
+
+SEXTO. Los magistrados numerarios en funciones, nombrados con fundamento en el artículo 56 de la Constitución del Estado vigente hasta la presente fecha, continuarán desempeñando sus funciones como magistrados hasta cumplir el período por el cual fueron designados, al término del cual podrán ser reelectos para un periodo inmediato de ocho años, por una sola ocasión, previa la evaluación que de su desempeño y cumplimiento de los requisitos constitucionales realice el Congreso del Estado.
+
+Las vacantes de magistrados del Tribunal Superior de Justicia que existan a la fecha del inicio de vigencia del presente Decreto, serán cubiertas de conformidad con las nuevas disposiciones de la Constitución del Estado en la materia.
+
+SÉPTIMO. Los jueces de primera instancia que fungen como magistrados supernumerarios del Tribunal Superior de Justicia a la entrada en vigor del presente Decreto, concluirán sus funciones como tales y volverán a su encargo de juez; o bien, a su decisión, recibirán una remuneración consistente en una cantidad líquida neta equivalente al último año de servicios prestados. Todas las plazas correspondientes a magistrados supernumerarios deberán cancelarse administrativamente.
+
+Los magistrados supernumerarios a los que alude el primer párrafo del presente artículo transitorio tendrán la posibilidad de ser propuestos como magistrados del Tribunal Superior de Justicia, de conformidad con el procedimiento previsto en el artículo 56 reformado por virtud del presente Decreto. De ser electos perderán el derecho concedido en la parte final del primer párrafo de este artículo, durante el tiempo que continúen en funciones.
+
+OCTAVO. Tomando en consideración que, para garantizar el funcionamiento del Tribunal Superior de Justicia y atendiendo la integración de las salas colegiadas y Unitaria existentes, en tanto el Gobernador y el Congreso designan a los magistrados a que se refiere el presente Decreto, para la integración total del Pleno del Tribunal Superior de Justicia, se faculta a éste último para que, por única vez, designe a los magistrados interinos necesarios para ello, en términos de lo establecido por el artículo 56 reformado por este Decreto.
+
+NOVENO. El Titular del Poder Ejecutivo, por conducto de las instancias competentes, procederá a realizar las adecuaciones presupuestales que resulten necesarias para el debido cumplimiento de lo establecido en el presente Decreto, informando de ello al H. Congreso del Estado
+
+Del mismo modo, el Pleno del Tribunal Superior de Justicia y el Consejo de la Judicatura, según sus respectivas competencias, dictarán las medidas administrativas necesarias al interior del Poder Judicial, que resulten necesarias para el adecuado cumplimiento de lo establecido en el presente Decreto y garantizar la continuidad en el desempeño de las funciones que le competen.
+
+DÉCIMO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
