@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-regula-las-casas-de-empeno-en-el-estado-de-oaxaca-10505
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-02"
-last_updated: "2015-01-02"
+last_updated: "2015-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105057&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY QUE REGULA LAS CASAS DE EMPEÑO EN EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2015.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 2 de enero de 2015.
 
@@ -223,7 +223,9 @@ XI. Fecha y lugar de expedición.
 
 El Permiso que se expida será intransferible y con vigencia para el ejercicio fiscal correspondiente.
 
-Para lo anterior los solicitantes, deberán otorgar garantía suficiente para cubrir los menoscabos que llegasen a sufrir las prendas empeñadas.
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+Para lo anterior los solicitantes, exhibirán fianza que ampare $265,000.00 (Dos cientos sesenta y cinco mil pesos 00/100 M.N.) para cubrir los menoscabos que llegasen a sufrir las prendas empeñadas. Dicha póliza tendrá vigencia de un año y deberá ser renovada al término de éste para efectos de la revalidación del permiso correspondiente.
 
 #### Sección Tercera. De la Modificación del Permiso
 
@@ -574,3 +576,9 @@ LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
 AL C. ..
 
 NOTA: Las presentes firmas corresponden al Decreto N° 879.- por el que la Sexagésima Segunda Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, expide la Ley que Regula las Casas de Empeño en el Estado de Oaxaca.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE AGOSTO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el órgano de difusión oficial del Estado.
