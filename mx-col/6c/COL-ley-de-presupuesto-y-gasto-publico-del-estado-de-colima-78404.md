@@ -4,7 +4,7 @@ identifier: "COL-ley-de-presupuesto-y-gasto-publico-del-estado-de-colima-78404"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-25"
-last_updated: "2013-06-22"
+last_updated: "2015-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78404&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PRESUPUESTO Y GASTO PUBLICO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 25 de diciembre de 2010.
 
@@ -157,6 +157,12 @@ La planeación, programación, presupuestación, aprobación, ejercicio y contro
 
 Por lo que respecta a los Poderes Legislativo y Judicial y a los Entes Autónomos, en el ámbito de sus respectivas competencias, deberán establecer los lineamientos que se requieran a efecto de ser congruentes con lo establecido por esta Ley.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+###### Artículo 8 Bis.
+
+Con el propósito de optimizar los recursos presupuestales que les sean asignados, los sujetos de esta Ley deberán planear, programar, presupuestar, controlar, evaluar y vigilar sus actividades con apego a los principios de eficiencia, eficacia, austeridad, racionalidad, economía, transparencia y honradez para satisfacer los objetivos a los que están destinados.
+
 ## TÍTULO II. DE LA COORDINACIÓN INTERINSTITUCIONAL EN RELACIÓN AL PRESUPUESTO
 
 ### CAPÍTULO ÚNICO. DE LA COORDINACIÓN INTERINSTITUCIONAL EN RELACIÓN AL PRESUPUESTO
@@ -183,9 +189,11 @@ El Titular del Poder Ejecutivo, a través de la Secretaría y a petición expres
 
 Los Poderes Legislativo y Judicial y los Entes Autónomos, elaborarán sus propios Proyectos de Presupuesto de Egresos, los cuales serán enviados por sus respectivos responsables al titular del Poder Ejecutivo, a través de la Secretaría, para su inclusión en el proyecto de Presupuesto de Egresos del Estado que se envía para su análisis, discusión y aprobación al Congreso del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 14.
 
-Los poderes Ejecutivo, Legislativo y Judicial, así como los Entes Autónomos y los Municipios, al formular sus respectivos proyectos de Presupuesto de Egresos, lo harán cumpliendo con los criterios de eficiencia, eficacia, economía, transparencia y honradez.
+Los poderes Ejecutivo, Legislativo y Judicial, así como los Entes Autónomos y los Municipios, al formular sus respectivos proyectos de Presupuesto de Egresos, los harán cumpliendo con los criterios de eficiencia, eficacia, austeridad, racionalidad, economía, transparencia y honradez.
 
 Todos los ejecutores de gasto, contemplarán en los anteproyectos y proyectos de presupuestos de egresos correspondientes, de acuerdo a la disponibilidad de sus recursos, una asignación presupuestaria destinada a cubrir las liquidaciones, indemnizaciones o finiquitos de ley.
 
@@ -457,9 +465,11 @@ Si en la fecha mencionada no hubiere sido aprobado el Presupuesto de Egresos, qu
 
 La asignación de los recursos que establezca el Decreto que autorice el Presupuesto de Egresos estará a cargo de la Secretaría.
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 49.
 
-La Secretaría, la Secretaría de Planeación y la Contraloría, en el ámbito de sus respectivas competencias, verificarán periódicamente, los resultados de la ejecución de los planes, programas y presupuestos de las dependencias y entidades, con base en el sistema de evaluación del desempeño, entre otros, para identificar la eficiencia, eficacia, economía, transparencia y honradez en la Administración Pública Estatal y el impacto social del ejercicio del gasto público, así como aplicar las medidas conducentes. Igual obligación y para los mismos fines, tendrán las dependencias, respecto de sus entidades coordinadas.
+La Secretaría, la Secretaría de Planeación y la Contraloría, en el ámbito de sus respectivas competencias, verificarán periódicamente los resultados de la ejecución de los planes, programas y presupuesto de las dependencias y entidades, con base en el sistema de evaluación del desempeño, entre otros, para identificar la eficiencia, eficacia, austeridad, racionalidad, economía, transparencia y honradez en la Administración Pública Estatal y el impacto social del ejercicio del gasto público, así como aplicar las medidas conducentes. Igual obligación y para los mismos fines tendrán las dependencias respecto de sus entidades coordinadas.
 
 ###### Artículo 50.
 
@@ -611,13 +621,43 @@ En caso de que para la fecha mencionada no sea aprobada la Ley de Ingresos corre
 
 La Secretaría deberá proporcionar a solicitud de la Comisión dictaminadora del Congreso del Estado, la información general que pueda contribuir a una mejor comprensión del proyecto de Ley de Ingresos.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2015)</small>
+
+## TÍTULO III BIS. DE LA AUSTERIDAD, RACIONALIDAD Y DISCIPLINA DEL GASTO PÚBLICO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2015)</small>
+
+### CAPÍTULO ÚNICO. DE LA AUSTERIDAD, RACIONALIDAD Y DISCIPLINA DEL GASTO PÚBLICO
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+###### Artículo 67 Bis.
+
+A fin de dar cumplimiento a lo establecido en el artículo 8 Bis de esta Ley, los sujetos obligados, en el ámbito de sus respectivas competencias, establecerán los criterios generales para promover el uso eficiente de los recursos humanos, materiales y financieros, a fin de reorientarlos al logro de objetivos, evitar la duplicidad de funciones, promover la eficiencia y eficacia en la gestión pública, modernizar y mejorar la prestación de los servicios públicos, promover la productividad en el desempeño de las funciones de las dependencias y entidades reducir gastos de operación.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+###### Artículo 67 Ter.
+
+La austeridad, racionalidad y disciplina en el gasto público será eje rector de la función pública, por lo que los sujetos de esta Ley, en el ámbito de su competencia, están obligados a:
+
+I. Limitar los gastos de comunicación social o institucional a un máximo del 0.5% de su presupuesto;
+
+II. Abstenerse de autorizar bonos, compensaciones, gratificaciones o donaciones que no se encuentren previamente contemplados en el presupuesto de la dependencia o entidad paraestatal y que no estén convenidas;
+
+III. Limitar la remodelación de oficinas de acuerdo al presupuesto aprobado para tal efecto, y solo cuando existan fallas estructurales que no puedan postergarse, implique una ocupación más eficiente de los espacios en los inmuebles, genere ahorros en el mediano plazo, o se destine a reparar daños provenientes de casos fortuitos;
+
+IV. Abstenerse de contratar seguros de gastos médicos mayores y cualquier otro servicio de salud con empresas privadas, con cargo al erario público;
+
+V. Adquirir y arrendar bienes inmuebles únicamente cuando no se cuente con bienes aptos para cubrir las necesidades correspondientes y, previo análisis costo-beneficio;
+
+VI. Eliminar erogaciones por conceptos de viáticos ajenos a transporte, alimentos y hospedaje indispensables para la prestación de un servicio público o el cumplimiento de una función pública, quedando prohibido cualquier otro concepto de viático; y
+
+VII. Reducir al mínimo indispensable el número de vehículos con que cuentan las dependencias, quedando prohibida la adquisición de vehículos de lujo o gama alta, y su asignación para uso personal y exclusivo de un funcionario público, exceptuando a aquellos destinados al servicio de seguridad pública.
+
 ## TÍTULO IV. DE LA CONTABILIDAD GUBERNAMENTAL
 
 ### CAPÍTULO ÚNICO. DE LA CONTABILIDAD GUBERNAMENTAL
-
-## TÍTULO V. DE LAS SANCIONES E INDEMNIZACIONES
-
-### CAPÍTULO ÚNICO
 
 ###### Artículo 68.
 
@@ -639,6 +679,10 @@ Para los efectos del párrafo anterior, los Poderes Legislativo y Judicial, Ente
 
 En el caso de las Entidades sujetas a Contratos de Colaboración Público Privada, además de lo señalado en el párrafo anterior, deberán presentar el estado de cuenta relativo a cada uno de ellos, así como de los pasivos directos y contingentes que al efecto se hayan contraído, los ingresos que hayan generado a la fecha y la proyección de sus pagos e ingresos hasta su total terminación.
 
+## TÍTULO V. DE LAS SANCIONES E INDEMNIZACIONES
+
+### CAPÍTULO ÚNICO
+
 ###### Artículo 72.
 
 Los actos u omisiones que impliquen el incumplimiento a los preceptos establecidos en la presente Ley y demás disposiciones generales en la materia, serán sancionados de conformidad con lo previsto en la Ley Estatal de Responsabilidades de los Servidores Públicos y demás disposiciones aplicables.
@@ -659,7 +703,9 @@ V.- Incumplan con la obligación de proporcionar en tiempo y forma la informaci�
 
 VI.- Incumplan con la obligación de proporcionar información al Congreso del Estado en los términos de esta Ley y otras disposiciones aplicables;
 
-VII.- Realicen acciones u omisiones que impidan que el ejercicio de los recursos se aplique con eficiencia, eficacia, economía, transparencia y honradez en el logro de los objetivos y metas anuales;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2015)</small>
+
+VII.- Realicen acciones u omisiones que impidan que el ejercicio de los recursos se aplique con eficiencia, eficacia, austeridad, racionalidad, economía, transparencia y honradez en el logro de los objetivos y metas anuales.
 
 VIII.- Realicen acciones u omisiones que deliberadamente generen subejercicios que conlleven al incumplimiento de los objetivos y metas anuales en sus presupuestos;
 
@@ -712,3 +758,9 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MARIO ANGUIANO MORENO.- Rúbrica.-
 P.O. 22 DE JUNIO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima"; sin perjuicio de los presupuestos y gastos que se hayan aprobado con anterioridad a la vigencia del mismo.
+
+SEGUNDO. En cumplimiento a las reformas y adiciones de este Decreto, para el ejercicio fiscal 2015, la previsión de recursos para gastos de operación de los sujetos de la Ley deberá reflejar las reducciones y supresión de partidas presupuestarias correspondientes.
