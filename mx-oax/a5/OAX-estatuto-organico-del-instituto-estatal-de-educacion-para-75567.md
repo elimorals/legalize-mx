@@ -4,7 +4,7 @@ identifier: "OAX-estatuto-organico-del-instituto-estatal-de-educacion-para-75567
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-05-29"
-last_updated: "2010-05-29"
+last_updated: "2015-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO ESTATAL DE EDUCACION PARA ADULTOS, DEL ESTADO DE OAXACA
 
-ESTATUTO ORGANICO DEL INSTITUTO ESTATAL DE EDUCACION PARA ADULTOS
+ESTATUTO ORGÁNICO DEL INSTITUTO ESTATAL DE EDUCACIÓN PARA ADULTOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL ESTATUTO ORGÁNICO DEL INSTITUTO ESTATAL DE EDUCACIÓN PARA ADULTOS, PUBLICADO EN EL P.O. DE 1 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2015 (ABROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 29 de mayo de 2010.
 
@@ -37,7 +39,7 @@ ESTATUTO ORGÁNICO DEL INSTITUTO ESTATAL DE EDUCACIÓN PARA ADULTOS.
 
 ### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
 
-###### Articulo 1°.
+###### Artículo 1°.
 
 El presente Estatuto Orgánico es de observancia general para el Instituto Estatal de Educación para Adultos, el cual tiene por objeto reglamentar su organización y funcionamiento.
 
@@ -237,7 +239,7 @@ I.- Diseñar, establecer, difundir y vigilar de conformidad con las políticas i
 
 II.- Planear las accionas necesarias para brindar los servicios educativos para adultos en el Estado y vincularlas con los planes y programas de desarrollo estatal, a corto y mediano plazo;
 
-III.- Desarrollar estrategias qua permitan fomentar una conciencia de solidaridad social a favor de la educación para adultos;
+III.- Desarrollar estrategias que permitan fomentar una conciencia de solidaridad social a favor de la educación para adultos;
 
 IV.- Realizar el análisis, registro, seguimiento y control de las metas, de las modificaciones programática-presupuestal y de las administraciones autorizadas para el Instituto;
 
@@ -251,7 +253,7 @@ VIII.- Integrar y mantener actualizada la información Estadística del Institut
 
 IX.- Planear, organizar y dar seguimiento a la realización de proyecciones estadísticas, respecto al rezago educativo del Estado;
 
-X.- Informar al Director General, a la Secretaria da Finanzas, Secretaria de la Contraloría y a la Dirección General del INEA sobre los avances y resultados programático presupuestales correspondientes;
+X.- Informar al Director General, a la Secretaria de Finanzas, Secretaria de la Contraloría y a la Dirección General del INEA sobre los avances y resultados programático presupuestales correspondientes;
 
 XI.- Diseñar, establecer y comunicar, las políticas y lineamientos para el seguimiento de la operación de los servicios educativos;
 
@@ -565,7 +567,7 @@ LA JUNTA DE GOBIERNO DEL INSTITUTO ESTATAL DE EDUCACIÓN PARA ADULTOS
 
 C. ENRIQUE ARNAUD VIÑAS
 
-ASESOR DEL SECRETARIO DE ADMISTRACIÓN Y PRESIDENTE SUPLENTE DE LA JUNTA DE GOBIERNO DEL INSTITUTO ESTATAL DE EDUCACIÓN PARA ADULTOS
+ASESOR DEL SECRETARIO DE ADMINISTRACIÓN Y PRESIDENTE SUPLENTE DE LA JUNTA DE GOBIERNO DEL INSTITUTO ESTATAL DE EDUCACIÓN PARA ADULTOS
 
 LIC. CIPRIANO FLORES CRUZ
 
@@ -602,3 +604,13 @@ REPRESENTANTE DEL SINDICATO DE TRABAJADORES DE LA EDUCACION PARA LOS ADULTOS Y V
 LAE. BERNARDO JESUS BARRAGAN SALAZAR
 
 SECRETARIO DE CONTRALORIA Y COMISARIO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE AGOSTO DE 2015.
+
+PRIMERO.- El presente Estatuto Orgánico entra en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las disposiciones del presente Estatuto prevalecerán por encima de las disposiciones normativas de igual o menor jerarquía que se opongan a ellas, aun cuando no estén expresamente derogadas.
+
+TERCERO.- Se abroga el Estatuto Orgánico del Instituto Estatal de Educación para Adultos, Publicado en el Periódico Oficial del Gobierno del Estado de fecha veintinueve de mayo del año dos mil diez; así como todas las disposiciones reglamentarias y administrativas que se opongan a lo establecido en el presente Estatuto Orgánico.
