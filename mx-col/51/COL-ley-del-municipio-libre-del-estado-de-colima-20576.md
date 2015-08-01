@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2015-07-11"
+last_updated: "2015-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2015.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -247,13 +247,17 @@ XIII. Participar en los asuntos que así le competan en torno a las acciones emp
 
 XIV. Salvaguardar y enriquecer el equilibrio del medio ambiente, evitando su contaminación, deterioro y destrucción;
 
-> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2015)</small>
 
-XV. Conservar limpios de residuos de construcción, maleza y residuos sólidos, las construcciones deshabitadas y los predios baldíos de su propiedad; y
+XV. Conservar limpios de residuos de construcción, maleza y residuos sólidos, las construcciones deshabitadas y los predios baldíos de su propiedad;
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2015)</small>
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2015)</small>
 
-XVI. Las demás que determinen esta ley, los reglamentos, bandos municipales y otras disposiciones legales aplicables.
+XVI. Participar en los procesos de elección de obras prioritarias a través del presupuesto participativo, conforme lo dispuesto en la Ley de Participación Ciudadana; y
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2015)</small>
+
+XVII. Las demás que determinen esta Ley, los reglamentos, bandos municipales y otras disposiciones legales aplicables.
 
 ### CAPÍTULO IV. DE LA CREACIÓN Y FUSIÓN DE MUNICIPIOS
 
@@ -313,7 +317,9 @@ II. Contraloría social;
 
 III. Consejos y comités municipales para tareas comunitarias y vecinales;
 
-IV. Instituciones de democracia directa: iniciativa popular, plebiscito y referéndum, de conformidad con la ley de la materia; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2015)</small>
+
+IV. Instituciones de democracia directa: iniciativa popular, plebiscito, referéndum, y presupuesto participativo, de conformidad con la ley de la materia; y
 
 V. Los demás que establezcan las autoridades municipales.
 
@@ -711,9 +717,17 @@ h) Aceptar herencias, legados y donaciones que se hagan al patrimonio municipal;
 
 i) Elaborar y poner en ejecución programas de financiamiento de los servicios públicos municipales, incluyéndolos en la ley general de ingresos municipales para ampliar su cobertura y mejorar su prestación;
 
-j) Autorizar transferencias de partidas presupuestales; y
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
 
-k) Ordenar la difusión de información a la ciudadanía sobre la utilización de los recursos públicos.
+j) Autorizar transferencias de partidas presupuestales;
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+k) Ordenar la difusión de información a la ciudadanía sobre la utilización de los recursos públicos; y
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+l) Adoptar, si así lo desean y conforme a la Ley de Participación Ciudadana y el Reglamento o los lineamientos que se emitan al respecto, la figura del presupuesto participativo.
 
 V. En materia de participación social, desarrollo económico, salud, educación y cultura:
 
@@ -1141,11 +1155,15 @@ XI. Establecer convenios de coordinación fiscal con el gobierno del Estado en l
 
 XII. Pagar la nómina al personal que labora en el municipio;
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2015)</small>
 
-XIII.- Elaborar el proyecto de la cuenta pública municipal del ejercicio fiscal y entregarlo dentro de los primeros 30 días naturales del año a la comisión de hacienda y síndico municipal; y
+XIII. Elaborar el proyecto de la cuenta pública municipal del ejercicio fiscal y entregarlo dentro de los primeros 30 días naturales del año a la Comisión de Hacienda y Síndico Municipal;
 
-XIV. Las demás que les señalen las leyes y reglamentos.
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2015)</small>
+
+XIV. Estimar, si así lo autoriza el Ayuntamiento, con base en los ingresos por concepto de Impuesto Predial, el monto que habrá de destinarse para la partida de presupuesto participativo; y
+
+XV. Las demás que les señalen las leyes y reglamentos.
 
 ###### ARTICULO 73.
 
@@ -2114,3 +2132,9 @@ DECRETO NÚMERO 516 POR EL QUE SE REFORMAN LOS INCISOS I) Y J) DE LA FRACCIÓN I
 PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO. Los Ayuntamientos del Estado contarán con un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto, para emitir las disposiciones reglamentarias necesarias en términos de lo establecido en el mismo.
+
+P.O. 1 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Si los Ayuntamientos acuerdan utilizar el presupuesto participativo, deberán emitir el Reglamento o los lineamientos correspondientes para su implementación.
