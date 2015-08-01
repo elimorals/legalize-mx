@@ -4,7 +4,7 @@ identifier: "COL-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-2561
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-15"
-last_updated: "2015-07-11"
+last_updated: "2015-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2015.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 15 de junio de 2002.
 
@@ -1991,7 +1991,7 @@ Las autoridades estatales y municipales, en su caso, promoverán en las zonas qu
 
 Para la operación y funcionamiento de las fuentes fijas de jurisdicción local que emitan o puedan emitir radiaciones electromagnéticas, olores, humos, ruido, vibraciones, gases o partículas sólidas o líquidas a la atmósfera, se requerirá contar con licencia local de funcionamiento emitida por la Secretaría y cumplir además con las siguientes obligaciones:
 
-I. Emplear equipos y sistemas que controlen y monitoren las emisiones a la atmósfera, para que éstas no rebasen los niveles máximos permisibles establecidos en las normas oficiales mexicanas y las normas técnicas ambientales estatales;
+I. Emplear equipos y sistemas que controlen y monitoren (sic) las emisiones a la atmósfera, para que éstas no rebasen los niveles máximos permisibles establecidos en las normas oficiales mexicanas y las normas técnicas ambientales estatales;
 
 II. Integrar un inventario de sus emisiones contaminantes a la atmósfera, en el formato que determine la Secretaría;
 
@@ -2084,6 +2084,10 @@ Cualquier actividad comercial, industrial y de servicios deberá observar las no
 En la construcción y operación de obras o instalaciones comerciales y de servicios que generen contaminación a la que se refiere el presente artículo, así como la operación o funcionamiento de las ya existentes de competencia estatal, requerirá autorización por parte de la dependencia ambiental municipal, y los responsables deberán llevar a cabo acciones preventivas y correctivas para evitar los efectos nocivos de tales contaminantes.
 
 La autorización a que se refiere este artículo se expedirá tomando en cuenta la ubicación de las fuentes de contaminación y lo dispuesto en el ordenamiento ecológico y territorial del Estado.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 145 BIS.- Las autoridades municipales no podrán conceder permisos para el funcionamiento de establecimientos destinados a la venta al público de fuegos artificiales; hasta en tanto no se emita el dictamen por parte de la Unidad Municipal de Protección Civil en el que se acredite que el establecimiento cumple con las condiciones de seguridad conforme a las disposiciones reglamentarias de la materia, sin perjuicio de las atribuciones que correspondan a la Secretaría de la Defensa Nacional.
 
 ### CAPÍTULO VIII. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO Y MANEJO DE RESIDUOS SÓLIDOS
 
@@ -2978,3 +2982,7 @@ P.O. 2 DE NOVIEMBRE DE 2013.
 P.O. 11 DE JULIO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE AGOSTO DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
