@@ -4,7 +4,7 @@ identifier: "COL-ley-de-participacion-ciudadana-del-estado-de-colima-16675"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-22"
-last_updated: "2011-11-19"
+last_updated: "2015-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2015.
 
 Ley publicada en el suplemento No. 1 del Periódico Oficial "El Estado de Colima", el sábado 22 de enero de 2000.
 
@@ -49,9 +49,11 @@ LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE COLIMA
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 1º.
 
-La presente Ley es de orden público y de interés general y tiene por objeto regular los mecanismos de participación ciudadana en el Estado de Colima: iniciativa popular, plebiscito y referéndum, en el ámbito de competencia de los gobiernos estatal y municipales.
+La presente Ley es de orden público y de interés general y tiene por objeto regular los mecanismos de participación ciudadana en el Estado de Colima: iniciativa popular, plebiscito y referéndum, en el ámbito de competencia de los gobiernos estatal y municipales. Asimismo, establece las bases generales del presupuesto participativo como un instrumento de participación ciudadana a nivel municipal, y las reglas de su procedimiento.
 
 ###### Artículo 2º.
 
@@ -75,23 +77,45 @@ VIII.- Secretario, al Secretario del Ayuntamiento en cada municipalidad;
 
 IX.- Iniciativa, a la iniciativa popular;
 
-X.- Ciudadanos, a los ciudadanos domiciliados en alguno de los municipios del Estado; y
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2015)</small>
 
-XI.- Periódico Oficial, a "EL ESTADO DE COLIMA", Periódico Oficial del Gobierno Constitucional.
+X.- Ciudadanos, a los ciudadanos domiciliados en alguno de los municipios del Estado;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2015)</small>
+
+XI.- Periódico Oficial, a “EL ESTADO DE COLIMA”, Periódico Oficial del Gobierno Constitucional;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2015)</small>
+
+XII.- Comités Vecinales, a los comités municipales de participación vecinal a que alude el artículo 23, fracción III de la Ley del Municipio Libre del Estado de Colima; y
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2015)</small>
+
+XIII.- Reglamento, a los reglamentos municipales en materia de presupuesto participativo que se elaboren.
 
 ###### Artículo 3º.
 
 No podrán promover ni votar en los procesos de consulta ciudadana a que se refiere esta Ley, las personas que se encuentren en los supuestos del artículo 14 de la Constitución.
 
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+Para participar en el proceso del presupuesto participativo, los ciudadanos además de lo previsto en el párrafo anterior, deberán estar al corriente en el pago del impuesto predial.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 4º.
 
-En los procesos plebiscitario y de referéndum el voto es libre, secreto y obligatorio.
+En los procesos plebiscitario, de referéndum y de presupuesto participativo, el voto es libre y secreto.
 
 ###### Artículo 5º.
 
 El Instituto ordenará la publicación en el Periódico Oficial de los resultados del plebiscito y del referéndum, independientemente de comunicarlos por escrito a la autoridad que lo haya solicitado.
 
 El Instituto estará exento del pago de los derechos por publicación en todos los casos a que se refiere esta Ley.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+Tratándose del presupuesto participativo, el Ayuntamiento ordenará la publicación de los resultados del proceso en el Periódico Oficial y en su portal de internet.
 
 ## TITULO SEGUNDO. DE LA INICIATIVA POPULAR
 
@@ -513,9 +537,281 @@ El Presidente del Instituto comunicará por escrito, al día siguiente de la ses
 
 En la realización de un procedimiento de consulta ciudadana, previsto en este Título, se aplicarán supletoriamente las disposiciones del Código Electoral del Estado, en lo conducente.
 
-## TITULO SEXTO. DE LOS RECURSOS
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2015)</small>
+
+## TITULO SEXTO. DEL PRESUPUESTO PARTICIPATIVO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2015)</small>
+
+### CAPITULO I. DE LAS BASES GENERALES
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 66.
+
+El presupuesto participativo es una herramienta de participación ciudadana, que involucra a los Ayuntamientos y a los Ciudadanos en un proceso de consulta directa para la toma de decisiones, donde estos últimos eligen, mediante la emisión del voto, el destino de un porcentaje de los recursos que obtiene el Municipio a través de la recaudación del impuesto predial.
+
+Cada Municipio podrá optar, si así lo decidiera, la figura del presupuesto participativo para llevarlo a cabo en el año correspondiente conforme a lo dispuesto en el presente ordenamiento y el Reglamento que para tales efectos emita el mismo Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+###### Artículo 67.
+
+Todos los ciudadanos que se encuentren al corriente en el pago del impuesto predial tienen el derecho de participar en las etapas del proceso de presupuesto participativo de la municipalidad en la que radiquen, en el momento mismo de realizarse el pago de la contribución.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+###### Artículo 68.
+
+Los resultados de la consulta del presupuesto participativo serán obligatorios y vinculantes para las autoridades municipales, a fin de determinar el orden y la prioridad de las obras públicas que realice el Municipio, hasta por el monto total asignado en el porcentaje de recursos definido en el artículo 74 de este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+###### Artículo 69.
+
+Los recursos asignados para los ejercicios de presupuesto participativo deberán implementarse exclusivamente en obras que involucren alguno de los rubros siguientes:
+
+I. Obras públicas;
+
+II. Infraestructura rural y urbana;
+
+III. Medio Ambiente;
+
+IV. Recuperación de espacios públicos;
+
+V. Movilidad sustentable y alternativa; y
+
+VI. Servicios públicos a cargo del Municipio.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+###### Artículo 70.
+
+El proceso del presupuesto participativo comprende las siguientes etapas:
+
+I. Convocatoria pública del Ayuntamiento para que los Comités Vecinales y ciudadanos en general participen con la presentación de propuestas específicas enmarcadas en alguno de los rubros generales.
+
+II. Validación Técnica de la viabilidad de los proyectos ciudadanos por parte del Ayuntamiento;
+
+III. Votación;
+
+IV. Cómputo y validación de los resultados por parte del Instituto;
+
+V. Publicación de resultados;
+
+VI. Acatamiento y ejecución de los proyectos del Presupuesto participativo; y
+
+VII. Conclusión de los Proyectos e Informe de Resultados por parte del Ayuntamiento.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2015)</small>
+
+### CAPITULO II. DE LOS DERECHOS Y OBLIGACIONES
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 1 DE AGOSTO DE 2015)</small>
+
+#### SECCION PRIMERA. DE LOS CIUDADANOS
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+###### Artículo 71.
+
+Les corresponde a los ciudadanos en materia de presupuesto participativo:
+
+I. Conocer los montos de recursos públicos que el Ayuntamiento propone destinar a la consulta de presupuesto participativo;
+
+II. Participar por sí o por conducto de los Comités Vecinales con propuestas o proyectos específicos para ejecutarse con los recursos del presupuesto participativo;
+
+III. Solicitar al Ayuntamiento la información pública que requiera para la elaboración de las propuestas o proyectos para la consulta de presupuesto participativo;
+
+IV. Votar en la consulta de presupuesto participativo en los términos previstos en el presente ordenamiento; y
+
+V. Fungir como observador durante la jornada de consulta y conteo de votos del presupuesto participativo.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 1 DE AGOSTO DE 2015)</small>
+
+#### SECCION SEGUNDA. DEL AYUNTAMIENTO
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+###### Artículo 72.
+
+Corresponde al Ayuntamiento en materia de presupuesto participativo:
+
+I. Emitir una convocatoria pública para anunciar la consulta del presupuesto participativo, dando a conocer el monto de los recursos públicos que se destinarán para la consulta, y los lineamientos para la presentación de propuestas y proyectos a realizarse con los recursos del presupuesto participativo;
+
+II. Recibir las propuestas y proyectos para el presupuesto participativo;
+
+III. Fungir como asesor y brindar la información pública necesaria para que los ciudadanos presenten sus propuestas y proyectos;
+
+IV. Verificar la viabilidad técnica de los proyectos y propuestas ciudadanas presentadas, debiendo justificar plenamente y por escrito las razones técnicas por las que desecha algún proyecto ciudadano;
+
+V. Tomar en consideración, para la elaboración y aprobación de su Presupuesto Anual de Egresos, los montos que se asignarán a la partida del presupuesto participativo;
+
+VI. Facilitar cualquier información relativa a los montos del presupuesto participativo;
+
+VII. Someter a votación de los habitantes del Municipio las propuestas y proyectos que hayan sido presentados y que sean viables técnicamente;
+
+VIII. Vigilar en todo momento la correcta aplicación de los recursos del presupuesto participativo;
+
+IX. Informar a la ciudadanía, a través de medios impresos y electrónicos, toda la información relativa al proceso del presupuesto participativo y los resultados de éste;
+
+X. Ejecutar los proyectos que fueron votados por los ciudadanos del Municipio hasta agotar la suficiencia presupuestaria; y
+
+XI. En caso de que exista la imposibilidad jurídica o técnica para la realización de los proyectos seleccionados por los ciudadanos el Ayuntamiento deberá informar a la ciudadanía los motivos por los cuales no es posible llevarlos a cabo, y ejecutar los que se encuentren en el siguiente orden de la lista definida mediante consulta a los ciudadanos.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 1 DE AGOSTO DE 2015)</small>
+
+#### SECCION TERCERA. DEL INSTITUTO
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+###### Artículo 73.
+
+Le corresponde al Instituto en materia de presupuesto participativo:
+
+I. Participar como observador durante la jornada de votación y conteo de votos que determinará los Proyectos a realizar con los recursos del presupuesto participativo;
+
+II. Proporcionar a los municipios las herramientas y materiales necesarios para realizar las consultas de presupuesto participativo;
+
+III. Validar los resultados de las votaciones; y
+
+IV. Informar, asesorar y capacitar a la ciudadanía en general sobre el Presupuesto Participativo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2015)</small>
+
+### CAPITULO III. DE LA ASIGNACIÓN DE RECURSOS
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+###### Artículo 74.
+
+El presupuesto anual de egresos de la municipalidad deberá incluir una partida especial que contendrá el recurso destinado para los proyectos prioritarios de beneficio público que se realizarán para el siguiente ejercicio fiscal por medio del presupuesto participativo; en el cual se contemplará cuando menos el equivalente al 15% del monto definido en el presupuesto de ingresos respecto a la recaudación del pago del impuesto predial.
+
+Estos recursos serán independientes de los que el Ayuntamiento contemple para acciones de gobierno o programas específicos de cualquier tipo que impliquen la participación de los ciudadanos en su administración, supervisión o ejercicio.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+###### Artículo 75.
+
+El monto destinado al presupuesto participativo podrá incrementarse en el transcurso de los meses de enero y febrero si la recaudación del Impuesto Predial se estima pudiera superar el monto de lo recaudado en el ejercicio fiscal inmediato anterior, pero jamás será menor a ese porcentaje.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE AGOSTO DE 2015)</small>
+
+### CAPITULO IV. DEL PROCESO
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 1 DE AGOSTO DE 2015)</small>
+
+#### SECCION PRIMERA. PRESENTACIÓN DE PROPUESTAS
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+###### Artículo 76.
+
+En los meses de octubre y noviembre de cada año, los Comités Vecinales y ciudadanos en general, presentarán las propuestas o proyectos para ser ejecutados con los recursos del presupuesto participativo.
+
+Estas propuestas no requieren de formalidad alguna, pero deberán contener una descripción clara de la obra o acción de gobierno, así como el beneficio que daría a la comunidad.
+
+El Ayuntamiento hará un listado de proyectos ciudadanos presentados que dará a conocer, por medios impresos y a través de su portal de internet, a más tardar el 15 de diciembre.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 1 DE AGOSTO DE 2015)</small>
+
+#### SECCION SEGUNDA. VIABILIDAD TÉCNICA
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+###### Artículo 77.
+
+El Ayuntamiento presentará a más tardar el 31 de diciembre un dictamen de viabilidad técnica respecto de las propuestas y proyectos ciudadanos. Éste deberá incluir por lo menos el costo, la dificultad de realización, las restricciones legales o los incentivos fiscales existentes, y las restricciones ambientales.
+
+En caso de ser desfavorable deberá informar a la ciudadanía en general y, de manera específica al Comité o ciudadano que presentó el proyecto, las razones técnicas por las que se desecha.
+
+La autoridad municipal deberá acotar el número de propuestas a un listado de 20, considerando los criterios utilizados en los estudios de viabilidad.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 1 DE AGOSTO DE 2015)</small>
+
+#### SECCION TERCERA. VOTACION
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+###### Artículo 78.
+
+Únicamente podrán votar aquellos ciudadanos que se encuentren al corriente en el pago de su impuesto predial.
+
+El proceso de votación tendrá como finalidad elegir las 3 obras de mayor prioridad para el Municipio que serán financiadas con el presupuesto participativo.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+###### Artículo 79.
+
+Durante los meses de enero y febrero de cada ejercicio fiscal, el Municipio, con apoyo técnico del Instituto, dispondrá de las acciones necesarias para difundir el listado de 20 obras y/o servicios públicos de mayor viabilidad propuestos.
+
+Realizará la consulta de los proyectos en los mismos lugares en que se pueda realizar el pago del impuesto predial. La votación se hará en el mismo momento en que el ciudadano acuda a realizar el pago de la cuota mínima, la cuota bimestral o el monto anual del impuesto predial del ejercicio fiscal vigente. Mediante la elección se determinará el orden de prioridad para la ejecución de las propuestas o los proyectos sometidos a escrutinio.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+###### Artículo 80.
+
+Tanto el mecanismo de votación como el lugar en que se lleve a cabo deben ser incluyentes para personas con discapacidad y adultos en plenitud; además de garantizar al público en general la mínima carga posible en la etapa de votación.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 1 DE AGOSTO DE 2015)</small>
+
+#### SECCION CUARTA. CONTEO DE VOTOS Y VALIDACIÓN DE RESULTADOS
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+###### Artículo 81.
+
+El conteo de votos se efectuará diariamente durante el tiempo que dure la consulta, el Instituto y los ciudadanos serán observadores del proceso de votación y conteo de votos. El Instituto deberá validar los resultados obtenidos en cada conteo.
+
+Si los ciudadanos que participan como observadores o el Instituto tuvieren alguna inconformidad con los resultados del conteo se realizará otro ese mismo día.
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+###### Artículo 82.
+
+El Ayuntamiento deberá llevar un registro de los resultados obtenidos en cada conteo, ese registro será validado por el Instituto. Al final de la consulta se sumarán los resultados diarios para obtener un cómputo final. Se ordenarán los proyectos por orden de votación, siendo calificado como prioritario aquel que tenga más votos.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 1 DE AGOSTO DE 2015)</small>
+
+#### SECCION QUINTA. PUBLICACIÓN DE RESULTADOS
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+###### Artículo 83.
+
+El gobierno municipal deberá publicar, a más tardar el 15 de marzo, en el Periódico Oficial, en la presidencia municipal, en su portal de internet, y en cada uno de los lugares donde se efectuaron las jornadas de participación ciudadana, el orden de votación de las obras públicas elegidas por la ciudadanía.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 1 DE AGOSTO DE 2015)</small>
+
+#### SECCION SEXTA. EJECUCIÓN DE PROYECTOS PRIORITARIOS
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+###### Artículo 84.
+
+El Ayuntamiento acatará el orden de prioridad de las propuestas y proyectos sometidos a votación y las ejecutará en el orden votado hasta agotar la suficiencia presupuestaria. Solo podrá variarse el orden de prioridad en caso de que surja una imposibilidad técnica o jurídica para implementar a uno de ellos.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 1 DE AGOSTO DE 2015)</small>
+
+#### SECCION SEPTIMA. RENDICION DE CUENTAS
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2015)</small>
+
+###### Artículo 85.
+
+Corresponde al Ayuntamiento informar a la ciudadanía, al menos dos veces al año, sobre la aplicación de los recursos del presupuesto participativo.
+
+Los Comités Vecinales y la ciudadanía en general podrán solicitar en cualquier tiempo al Ayuntamiento informe sobre los avances en la ejecución de las obras seleccionadas como prioritarias.
+
+Al finalizar el ejercicio fiscal el Ayuntamiento deberá informar a la ciudadanía la cantidad de obras que fueron realizadas y la inversión que se hizo en cada una de ellas.
+
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES TÍTULO SEXTO], P.O. 1 DE AGOSTO DE 2015)</small>
+
+## TITULO SEPTIMO. DE LOS RECURSOS
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 66], P.O. 1 DE AGOSTO DE 2015)
+
+###### Artículo 86.
 
 Los solicitantes, por conducto de su representante común, y las autoridades que hayan solicitado el plebiscito o el referéndum, podrán impugnar ante el Tribunal las resoluciones pronunciadas por el Consejo, así como los resultados consignados en las actas de cómputo municipal o estatal, en su caso, aplicando las disposiciones respectivas del Código Electoral del Estado.
 
@@ -546,3 +842,9 @@ N DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRET
 P.O. 19 DE NOVIEMBRE DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Si los Ayuntamientos acuerdan utilizar el presupuesto participativo, deberán emitir el Reglamento o los lineamientos correspondientes para su implementación.
