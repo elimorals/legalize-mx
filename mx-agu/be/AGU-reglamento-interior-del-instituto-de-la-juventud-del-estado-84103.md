@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-instituto-de-la-juventud-del-estado-841
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-05"
-last_updated: "2011-12-05"
+last_updated: "2015-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84103&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 3 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de diciembre de 2011.
 
@@ -769,7 +771,7 @@ SECRETARIO DE BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE AGUASCALIENTES.
 
 C. Hipólito Treviño Lecea.
 
-SECRETARIO DE DESARRROLLO ECONÓMICO DEL ESTADO DE AGUASCALIENTES.
+SECRETARIO DE DESARRROLLO (SIC) ECONÓMICO DEL ESTADO DE AGUASCALIENTES.
 
 Lic. Francisco Javier Chávez Rangel,
 
@@ -814,3 +816,19 @@ REPRESENTANTE DE LOS JOVENES DE LA SOCIEDAD CIVIL.
 Lic. Jesús Eduardo Rocha Álvarez,
 
 DIRECTOR GENERAL DEL INSTITUTO DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE AGOSTO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría en un término de 90 días a partir de la entrada en vigor del presente reglamento, deberá formular y emitir los manuales de organización correspondientes en los que se precisarán la estructura orgánica y funciones operativas de los encargados de dicha dependencia.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento Interior del Instituto de la Juventud del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado el día doce de junio del año dos mil once.
