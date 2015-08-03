@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-asesoria-y-defensoria-publica-del-29330"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-17"
-last_updated: "2013-11-20"
+last_updated: "2015-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL INSTITUTO DE ASESORÍA Y DEFENSORÍA PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de marzo de 2003.
 
@@ -91,7 +91,9 @@ El Instituto tendrá como objetivos específicos los siguientes:
 
 l. Prestar los servicios de defensa jurídica de los indiciados, imputados, procesados y sentenciados por delitos del orden común en los juzgados de primera instancia penales y mixtos de primera instancia, tribunal superior y federales;
 
-II. Brindar asesoría al ofendido y/o víctima de un delito;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+II. (DEROGADA, P.O. 3 DE AGOSTO DE 2015)
 
 III. Asesorar o representar a los particulares en la tramitación de recursos o juicios ante las autoridades administrativas o jurisdiccionales por actos administrativos o fiscales emanados de las autoridades del Estado, de los municipios y de los organismos descentralizados estatales o municipales en funciones de autoridad;
 
@@ -289,7 +291,11 @@ V. Conocer y dar inmediato trámite a las quejas que se presenten contra el pers
 
 VI. Vigilar que se cumplan todas y cada una de las obligaciones impuestas al personal del Instituto;
 
-VII. Proponer a la Junta de Gobierno las políticas que estime convenientes para la mayor eficacia de la defensa de los inculpados;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
+
+VII. Proponer a la Junta de Gobierno las políticas que estime convenientes para la mayor eficacia de la defensa de los imputados;
 
 VIII. Proponer a la Junta de Gobierno las bases generales de organización y funcionamiento del Instituto;
 
@@ -391,19 +397,17 @@ III. Proponer al Director General las políticas en las materias de su competenc
 
 IV. Las demás que sean necesarias para cumplir con los objetivos específicos del área a su cargo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 15.
 
 Los servicios del Instituto se prestarán a través de:
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
+I. Defensores públicos, en los asuntos del orden penal local y defensores especializados en justicia para adolescentes, desde la investigación hasta la ejecución de las penas o medidas de seguridad; y
 
-I. Defensores públicos, en los asuntos del orden penal local y del Sistema Estatal de Justicia para Adolescentes, desde la investigación hasta la ejecución de las penas o medidas de seguridad; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
-
-II. Asesores jurídicos, en asuntos del orden penal en (sic) tratándose de la víctima o el ofendido, en materia administrativa local, civil y mercantil, salvo los expresamente otorgados por la Ley a otras instituciones.
+II. Asesores jurídicos, en materia administrativa local, civil y mercantil, salvo los expresamente otorgados por la Ley a otras instituciones.
 
 ### CAPITULO V. De los Asesores Jurídicos y Defensores Públicos
 
@@ -507,93 +511,37 @@ El Director General del Instituto, el Director Administrativo, los Coordinadores
 
 El Instituto contará con Defensores Públicos especializados en Sistema Penal Acusatorio Adversarial, Defensores Públicos especializados en adolescentes, Defensores Públicos especializados en trámites de Segunda Instancia y Amparo, Defensores Públicos especializados en Medidas Cautelares y Ejecución de Sanciones Penales, así como Defensores Públicos encargados de asesoría y representación en el procedimiento penal mixto, los cuales serán asignados inmediatamente por el Instituto, sin más requisitos que la solicitud formulada por el adolescente al que se le esté aplicando la Ley del Sistema de Justicia para Adolescentes, por el imputado en la investigación o proceso penal, el sentenciado y el Agente del Ministerio Público, el Agente del Ministerio Público Especializado en Adolescentes o el órgano jurisdiccional, según sea el caso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 21.
 
-El servicio de defensoría pública ante el Ministerio Público del fuero común comprende:
+Los defensores públicos de la materia penal tendrán, las obligaciones siguientes:
 
-I. Atender inmediatamente las solicitudes formuladas por el imputado, sus familiares o terceros relacionados con aquél, o el Agente del Ministerio Público necesarias para la defensa;
+I. Asumir y ejercer la defensa adecuada del imputado desde que sea asignado por el Instituto;
 
-II. Solicitar la libertad caucional si procediera, la representación en la tramitación e imposición de medidas cautelares, o la no formulación de la acusación o no ejercicio de la acción penal en favor de su defendido, cuando no existan elementos suficientes para el inicio del proceso;
+II. Procurar en todo momento el derecho de defensa, velando porque el imputado conozca los derechos que establecen las Constituciones federal y local, así como las leyes que de ellas emanen;
 
-III. Entrevistar al defendido para conocer de viva voz la versión personal de los hechos que motivan la investigación en su contra, así como los argumentos y pruebas que le sirvan para tratar de justificar o explicar su intervención en los mismos hechos, con el propósito de que pueda hacerlos valer ante la autoridad del conocimiento;
+III. Procurar la justicia restaurativa y los mecanismos alternativos en la solución de controversias;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV. Informar a sus superiores jerárquicos de las quejas que los usuarios les hagan saber sobre el trato que reciben en los centros o establecimientos penitenciarios, para los efectos legales conducentes;
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
+V. Interponer los recursos e incidentes que procedan y, en su caso, el juicio de amparo; y
 
-IV. Asistir jurídicamente al defendido en el momento en que rinda su declaración, así como en cualquier otra diligencia que establezca la Ley, y asistirlo previamente y durante cualquier entrevista que pudiera practicársele;
+VI. Las demás que determinen las leyes y el reglamento.
 
-V. Informar al defendido o a sus familiares del trámite legal que deberá desarrollarse en todo el procedimiento para establecer con ellos una comunicación estrecha sobre el particular;
-
-VI. Analizar las constancias que obren en los registros de investigación o judiciales a fin de contar con mayores elementos para la defensa;
-
-VII. Procurar la continuidad y uniformidad de criterios en la defensa; y
-
-VIII. Las demás promociones necesarias para realizar una defensa conforme a Derecho y que propicie una impartición de justicia expedita y pronta.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 22.
 
-El servicio de defensoría pública, ante los juzgados y Supremo Tribunal de Justicia y Tribunales Federales comprende:
+(DEROGADO, P.O. 3 DE AGOSTO DE 2015)
 
-I. Atender inmediatamente las solicitudes que le sean formuladas por el imputado, o por el juez de la causa;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Solicitar al juez de la causa la libertad caucional si procediera;
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2015)</small>
 
-III. Hacer valer los medios que desvirtúen los hechos que puedan constituir delito o la intervención o participación del defendido, en cualquier etapa del procedimiento, ofreciendo los medios de prueba y promoviendo los incidentes, recursos, alegatos y demás diligencias que fueren necesarias para una eficaz defensa;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2013)</small>
-
-IV. Asistir jurídicamente al defendido y estar presente en el momento en que rinda su declaración o pretenda ser entrevistado, y hacerle saber sus derechos;
-
-V. Formular las conclusiones o alegatos finales en el momento procesal oportuno;
-
-VI. Informar al defendido o a sus familiares del trámite legal que deberá desarrollarse en la fase de apelación para establecer con ellos una comunicación estrecha sobre el particular;
-
-VII. Analizar los registros de investigación o judiciales a fin de contar con mayores elementos para la formulación de los agravios respectivos en el momento procesal oportuno, durante la tramitación de la segunda instancia;
-
-VIII. Practicar las visitas que sean necesarias a los centros de detención o reclusión con el objeto de comunicar a su defendido el estado procesal en que se encuentra su asunto, informar los requisitos para su libertad provisional bajo caución, medidas cautelares, acuerdos reparatorios o suspensiones del proceso a prueba, así como aquellos para obtener los beneficios de sustitutivos de prisión, libertad preparatoria o preliberacionales que en su caso correspondan;
-
-IX. Vigilar el adecuado cumplimiento de las sentencias, procurando para sus representados los beneficios que, en su caso, establezcan las disposiciones legales aplicables;
-
-X. Formular ante los Tribunales Federales los medios de defensa procedentes; y
-
-XI. Las demás promociones que sean necesarias para una adecuada defensa conforme a Derecho.
-
-El Instituto designará a los defensores públicos y auxiliares que sean necesarios para cumplir con este servicio.
-
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2006)</small>
-
-ARTICULO 22 BIS.- A los Defensores Públicos Especializados en adolescentes corresponden, además de las atribuciones señaladas en los artículos anteriores que procedan, las siguientes:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
-
-I.- Ejercer la defensa legal de los adolescentes a quienes se atribuya la realización de un hecho punible descrito por alguna figura típica prevista en el Código Penal para el Estado de Aguascalientes o alguna otra norma, en igualdad de circunstancias que su contraparte, desde el momento en el que sean presentados ante el Ministerio Público Especializado en Adolescentes y mientras estén sujetos a cualquiera de las fases del Sistema Estatal de Justicia para Adolescentes;
-
-II.- Asistir al adolescente sujeto a la aplicación de la Ley del Sistema de Justicia para Adolescentes, especialmente en aquellos momentos en los que por decisión de la autoridad, se modifique su situación jurídica o se pongan en riesgo sus derechos o garantías;
-
-III.- Mantener una comunicación constante con el adolescente, sus padres, tutores, o quien ejerza la patria potestad, o custodia, para informarles del devenir de la investigación, el proceso o la medida;
-
-IV.- Informar de inmediato al adolescente sujeto a la aplicación de la Ley del Sistema de Justicia para Adolescentes, sobre su situación jurídica, así como los derechos y garantías que le otorgan las disposiciones legales aplicables;
-
-V.- Pugnar para que en todo momento, se respeten los derechos y garantías de los adolescentes a quienes defiende, y hacer del conocimiento inmediato de las autoridades correspondientes, cuando no se respeten tales derechos y garantías, o exista inminencia de que así suceda;
-
-VI.- Promover soluciones o formas alternativas al proceso, así como los modos simplificados de terminación en los casos en que proceda;
-
-VII.- Solicitar al Ministerio Público para Adolescentes, el no ejercicio de la acción de remisión ante el Juez de Preparación para Adolescentes, cuando no se encuentren reunidos los elementos necesarios para ello o en los supuestos que establece la propia Ley del Sistema de Justicia para Adolescentes; y
-
-VIII.- Realizar todos los trámites o gestiones necesarios para una defensa eficaz conforme a lo previsto en la Ley del sistema de Justicia para Adolescentes.
+ARTICULO 22 BIS.- Los Defensores Públicos en materia de ejecución de penas y en materia de justicia penal para adolescentes, ejercerán las facultades asignadas por la legislación nacional única aplicable, así como las facultades administrativas en términos de las disposiciones reglamentarias.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -603,11 +551,11 @@ VIII.- Realizar todos los trámites o gestiones necesarios para una defensa efic
 
 Las quejas que formulen los defensores públicos, los detenidos o internos de establecimientos de detención o reclusión por falta de atención médica, por tortura, por tratos crueles, inhumanos o degradantes, por golpes y cualquier otra violación a sus derechos humanos que provengan de cualquier servidor público, se denunciarán ante los jueces, el Ministerio Público, a la autoridad que tenga a su cargo los centros de reinserción social y a los organismos protectores de derechos humanos, según corresponda. Esto con el fin de que las autoridades adopten las medidas que pongan fin a tales violaciones, se prevenga su repetición y, en su caso, se sancione a quienes las hubiesen cometido, de conformidad con la legislación aplicable.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2015)</small>
 
-Los defensores públicos deberán excusarse de aceptar o continuar la defensa de un inculpado cuando exista alguna de las causas de impedimento previstas en el Código de Procedimientos Penales del Estado para jueces y magistrados, y en la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Los defensores públicos deberán excusarse de aceptar o continuar la defensa de un inculpado cuando exista alguna de las causas de impedimento previstas en el Código Nacional de Procedimientos Penales para jueces y magistrados, y en la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 25 DE MARZO DE 2013)</small>
 
@@ -651,27 +599,9 @@ I. Asesorar o representar a los particulares en los procedimientos administrativ
 
 II. Interponer los recursos ordinarios procedentes ante la autoridad administrativa y en su caso iniciar los juicios ante la autoridad jurisdiccional en defensa del particular.
 
-C.- En materia penal:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. Otorgar asesoría jurídica a la víctima u ofendido de un delito del fuero común;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
-
-II. Representar a la víctima u ofendido coadyuvando con el Ministerio Público en el procedimiento penal; representándola y apoyándola en el ejercicio de la acusación sobre reparación del daño; o representándola y apoyándola en el ejercicio de la acción penal particular, según sea el caso y cuando sea procedente;
-
-III. Informar a la víctima u ofendido del desarrollo del procedimiento penal cuando se le esté representando;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
-
-IV. Aportar todos los datos o elementos de prueba con los que se cuente, tanto en la investigación como en el Proceso Penal, coadyuvando con el debido desahogo de las diligencias correspondientes;
-
-V. Solicitar al Ministerio Público para que proceda conforme a la Ley, la reparación del daño; y
-
-VI. Solicitar a la autoridad competente, las medidas y providencias que prevea la ley para su seguridad y auxilio del representado
+C.- (DEROGADO, P.O. 3 DE AGOSTO DE 2015)
 
 D.- En materia civil y mercantil:
 
@@ -1045,7 +975,11 @@ El personal del Instituto estará incorporado en los términos de la Ley de Segu
 
 Serán causas de responsabilidad de los servidores públicos del Instituto:
 
-I. Inmiscuirse indebidamente en cuestiones que competan a otros órganos del Poder Judicial, o actuar indebidamente cuando se encuentren impedidos por alguna de las causales previstas por el Código de Procedimientos Penales del Estado, y por la Ley de Responsabilidades de los Servidores Públicos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
+
+I. Inmiscuirse indebidamente en cuestiones que competan a otros órganos del Poder Judicial, o actuar indebidamente cuando se encuentren impedidos por alguna de las causales previstas por (sic) Código Nacional de Procedimientos Penales, y por la Ley de Responsabilidades de los Servidores Públicos;
 
 II. Descuidar y abandonar injustificadamente el desempeño de las funciones o labores que deban realizar en virtud de su encargo;
 
@@ -1272,3 +1206,15 @@ El presente Decreto iniciara su vigencia conforme a las reglas contenidas en los
 ###### ARTÍCULO SEGUNDO.
 
 Los Artículos 5°, Fracciones V a la X; 29 BIS y 31 BIS del presente Decreto, que hacen referencia a incremento de personal, se irán incorporando de manera gradual, según lo permita el presupuesto que sea asignado por el Congreso del Estado en términos del Artículo Tercero Transitorio del Decreto Número 327 que reformó la Ley del Instituto de Asesoría y Defensoría Pública del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado de fecha 25 de marzo de 2013.
+
+P.O. 3 DE AGOSTO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado, exclusivamente en los Partidos Judiciales en los que esté en vigor el Código Nacional de Procedimientos Penales. En el resto de los Partidos Judiciales, iniciará su vigencia en los mismos términos en que entre en vigor el sistema penal acusatorio y el Código Nacional de Procedimientos Penales, según lo establecido en la Declaratoria de Incorporación del Sistema Procesal Acusatorio en el régimen jurídico local y de Vigencia del Código Nacional de Procedimientos Penales en el Estado de Aguascalientes, contenida en el Decreto número 63 publicado en el Periódico Oficial del Estado el 11 de junio de 2014.
+
+La reforma al Artículo 22 BIS entrará en vigor, en la misma fecha en que inicie su vigencia la legislación única expedida por el Congreso de la Unión en materia de ejecución de penas y en materia de justicia penal para adolescentes.
+
+###### ARTICULO SEGUNDO.
+
+Los asuntos en trámite que se relacionen con las Víctimas del Delito dentro del Instituto de Asesoría y Defensoría Pública, continuarán hasta su conclusión por parte de éste.
