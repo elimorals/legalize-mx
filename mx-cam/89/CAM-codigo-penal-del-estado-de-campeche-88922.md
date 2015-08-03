@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2014-12-26"
+last_updated: "2015-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -1217,25 +1217,19 @@ El perdón del ofendido o del legitimado para otorgarlo extingue la pretensión 
 
 El perdón del ofendido sólo beneficia al imputado, acusado o sentenciado a favor de quien se otorga. Una vez otorgado el perdón del ofendido, no podrá revocarse.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 111.
 
-Procede el reconocimiento de inocencia cuando después de dictada la sentencia aparezcan pruebas de las que se desprenda, en forma plena, que no existió el delito por el que se dictó la condena o que, existiendo éste, el sentenciado no participó en su comisión, o bien cuando se desacrediten formalmente, en sentencia irrevocable, las pruebas en las que se fundó la condena.
+Si la sentencia ha causado ejecutoria, el ofendido deberá otorgar el perdón legal ante el Juez de Ejecución de Sanciones, quien dictará resolución que declare extinta la responsabilidad penal y pondrá en libertad al sentenciado.
 
-El reconocimiento de inocencia extingue la reparación del daño.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 112.
 
-Si el sentenciado ha cumplido con la sanción impuesta y se encuentra en el supuesto que establece el artículo anterior, podrá comparecer ante la autoridad jurisdiccional competente para solicitar la nulidad de la resolución y la declaración que reconozca su inocencia.
+Cuando sean varias las víctimas y los ofendidos, y cada una pueda ejercer separadamente la facultad de perdonar al responsable del delito, el perdón sólo surtirá efectos en relación con quien lo otorga.
 
-En caso que el sentenciado haya fallecido, la facultad de solicitar el reconocimiento de inocencia corresponde a su cónyuge, concubina, concubinario, descendientes o ascendientes en línea recta sin límite de grado.
+En caso de delitos que se comentan contra personas menores de edad o con discapacidad, la autoridad jurisdiccional competente ante quien se otorgue el perdón del ofendido o del legitimado para otorgarlo, oirá al ministerio público y al representante del menor o de la persona con discapacidad, para resolver lo relativo a la eficacia del perdón otorgado.
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
@@ -1281,15 +1275,17 @@ II. Se aumentarán un tercio si el imputado permanece fuera del territorio del E
 
 III. Se aumentarán en dos tercios si el imputado permanece fuera del país.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 117.
 
-El perdón del ofendido o del legitimado para otorgarlo extingue la responsabilidad penal respecto de los delitos que se persiguen por querella, cuando se expresa ante la autoridad jurisdiccional competente antes de que cause ejecutoria la sentencia.
+Los plazos para la prescripción de la pretensión punitiva del Estado se contarán:
 
-El perdón del ofendido sólo beneficia al sentenciado a favor de quien se otorga. Una vez otorgado el perdón del ofendido, no podrá revocarse.
+I. A partir del día en que se consumó, si se trata de delito instantáneo;
+
+II. Desde el día en que se realizó el último acto de ejecución, si se trata de delito continuado o en grado de tentativa;
+
+III. Desde el día en que cesó la consumación del delito, si éste es permanente.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
@@ -1303,15 +1299,11 @@ II. Si la sanción correspondiente al delito no es privativa de libertad, en un 
 
 Se exceptúan de la regla anterior los delitos imprescriptibles señalados en el artículo 122 de este Código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 119.
 
-Cuando sean varias las víctimas y los ofendidos, y cada una pueda ejercer separadamente la facultad de perdonar al responsable del delito, el perdón sólo surtirá efectos en relación con quien lo otorga.
-
-En los delitos cometidos contra algún menor o discapacitado, la autoridad jurisdiccional competente ante quien se otorgue el perdón del ofendido o del legitimado para otorgarlo, oirá al ministerio público y al representante del menor o discapacitado, para resolver lo relativo a la eficacia del perdón otorgado.
+La pretensión punitiva del Estado que provenga de la probable comisión de un delito que se persiga por querella prescribirá en un año, contado a partir del día en el que la víctima o el ofendido tengan conocimiento del delito y del nombre del imputado. Fuera de esta circunstancia o cuando haya un convenio derivado del uso de algún mecanismo de solución de controversias, el término de prescripción será de tres años.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
@@ -1323,17 +1315,11 @@ En los casos de concurso real de delitos, los plazos para la prescripción de la
 
 Se exceptúan de la regla anterior los delitos imprescriptibles señalados en el artículo 122 de este Código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 121.
 
-La prescripción extingue la responsabilidad penal y las sanciones. Es personal y para ella bastará el simple transcurso del tiempo señalado por la ley.
-
-La prescripción producirá su efecto aunque no lo alegue en su defensa el inculpado.
-
-La autoridad investigadora o la autoridad jurisdiccional competente la declararán de oficio, en todo caso, en el momento en que tengan conocimiento de ella, sea cual fuere el estado del proceso.
+La prescripción de la pretensión punitiva del Estado se interrumpe por las actuaciones que el ministerio público practique en la investigación del delito. Si se dejare de actuar, la prescripción comenzará a contarse de nuevo desde el día siguiente al de la última actuación.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
@@ -1397,15 +1383,11 @@ La prescripción de la sanción privativa de libertad sólo se interrumpe con la
 
 La prescripción de las demás sanciones se interrumpirá por cualquier acto de la autoridad judicial competente para hacerlas efectivas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 127.
 
-La prescripción de la sanción privativa de libertad sólo se interrumpe con la aprehensión del sentenciado, aunque se ejecute por delito diverso, o por la solicitud formal de entrega que la autoridad jurisdiccional competente haga a la autoridad jurisdiccional competente de otra entidad federativa en la que se encuentre detenido, en cuyo caso subsistirá la interrupción hasta en tanto la autoridad requerida niegue dicha entrega o desaparezca la situación legal del detenido que motive a aplazar el cumplimiento de lo solicitado.
-
-La prescripción de las demás sanciones se interrumpirá por cualquier acto de la autoridad jurisdiccional competente para hacerlas efectivas.
+Las medidas de seguridad prescriben en un término de cinco años, a partir del día en que se hayan decretado.
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
@@ -3385,7 +3367,9 @@ Se impondrán de tres a siete años de prisión, multa de trescientos a seiscien
 
 I. Admita recursos notoriamente improcedentes o conceda términos o prórrogas indebidos;
 
-II. No dicte auto de vinculación a proceso o de libertad de un detenido dentro de las setenta y dos horas siguientes de haber sido puesto a su disposición, o no comunique oportunamente su determinación a los encargados de los centros preventivos donde estuviere recluido, salvo el caso de ampliación del término en beneficio del imputado;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
+
+II. No dicte auto de vinculación a proceso o de libertad, en su caso, dentro de los plazos previstos en el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, a partir de que el imputado sea puesto a su disposición, o no comunique oportunamente su determinación a los encargados de los centros preventivos donde estuviere recluido;
 
 III. Exija gabelas o contribuciones a los encargados o empleados de lugares de reclusión o internamiento, a los internos o a sus familiares, a cambio de proporcionarles bienes o servicios que gratuitamente brinde el Estado, o para otorgarles condiciones de privilegio en el alojamiento, alimentación o régimen;
 
@@ -3451,7 +3435,9 @@ Se impondrá de un mes a dos años de prisión y multa de cien a doscientos cinc
 
 I. Pueda impedir un delito con su intervención inmediata y sin riesgo propio o ajeno, y se abstuviere voluntariamente de hacerlo;
 
-II. No denuncie ante el ministerio público y, en caso de urgencia, ante cualquier funcionario o agente de policía, los delitos que sepa se han cometido, se estén cometiendo o vayan a cometerse, si son de los que deben perseguirse de oficio, y particularmente si los pasivos u ofendidos por dichos ilícitos provienen de grupos vulnerables;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
+
+II. No denuncie ante el ministerio público y, en caso de urgencia, ante cualquier funcionario o agente de policía, los delitos que sepa se han cometido, se estén cometiendo o vayan a cometerse, si son de los que deben perseguirse de oficio, y particularmente si los pasivos u ofendidos por dichos ilícitos provienen de grupos en situación de vulnerabilidad;
 
 III. Requerido por la autoridad, no dé auxilio para la investigación de los delitos o para la persecución de los imputados;
 
@@ -3922,3 +3908,9 @@ P.O. 26 DE DICIEMBRE DE 2014.
 PRIMERO: El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 3 DE AGOSTO DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
