@@ -4,7 +4,7 @@ identifier: "VER-ley-que-establece-el-arancel-para-el-cobro-de-honorarios-23498"
 country: "mx"
 rank: "ley"
 publication_date: "1967-12-16"
-last_updated: "1967-12-16"
+last_updated: "2015-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY QUE ESTABLECE EL ARANCEL PARA EL COBRO DE HONORARIOS POR LOS NOTARIOS PUBLICOS
 
-LEY QUE ESTABLECE EL ARANCEL PARA EL COBRO DE HONORARIOS POR LOS NOTARIOS PUBLICOS
+LEY QUE ESTABLECE EL ARANCEL PARA EL COBRO DE HONORARIOS POR LOS NOTARIOS PÚBLICOS
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 585 DEL NOTARIADO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 3 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO QUEDÁ ABROGADO A PARTIR DE LA FECHA DE PUBLICACIÓN, EN LA GACETA OFICIAL DEL ESTADO, DEL ARANCEL PARA EL COBRO DE HONORARIOS POR LOS NOTARIOS PÚBLICOS, EL CUAL SERÁ PROPUESTO EN UN TÉRMINO DE NOVENTA DÍAS A PARTIR DE LA ENTRADA EN VIGOR DE LA CITADA LEY.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE AGOSTO DE 2015 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 16 de diciembre de 1967.
 
@@ -208,3 +210,29 @@ DADA en el Salón de Sesiones de la H. Legislatura del Estado, en la Ciudad de J
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Jalapa-Enríquez, Ver., a 5 de diciembre de 1967.- Lic. FERNANDO LOPEZ ARIAS.- Rúbrica.- El Secretario de Gobierno, Lic. ROMULO CAMPILLO REYNAUD.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 3 DE AGOSTO DE 2015.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 585 DEL NOTARIADO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente ordenamiento entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se abroga la Ley Número 527 del Notariado del Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del Estado Número Extraordinario 34 de fecha 29 de enero de 2009; y se derogan las demás disposiciones que se opongan a la presente Ley.
+
+La Dirección General y el Consejo propondrán al Gobernador del Estado, en un término de noventa días a partir de la entrada en vigor de esta Ley, el Arancel para el Cobro de Honorarios por los Notarios Públicos; y a partir de la fecha de su publicación en la Gaceta Oficial del Estado quedará abrogada la Ley que Establece el Arancel para el Cobro de Honorarios por los Notarios Públicos, publicada en la Gaceta Oficial del Estado Número 150 de fecha 16 de diciembre de 1967.
+
+Tercero. En los casos que en esta Ley se alude a la firma autógrafa, se entenderá que se refiere también a la firma electrónica o cualquier otro medio tecnológico que se acepte legalmente para el mismo fin.
+
+Cuarto. Todos los procedimientos administrativos que se encuentren en trámite a la entrada en vigor de la presente Ley, se desahogarán hasta su conclusión de conformidad con las disposiciones aplicables de la Ley Número 527 del Notariado del Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del Estado Número Extraordinario 34 de fecha 29 de enero de 2009.
+
+Los Notarios que a la entrada en vigor de la presente Ley aún utilicen el protocolo cerrado, podrán seguir utilizándolo en un plazo que no excederá de seis meses contado a partir de la entrada en vigor de la Ley; agotado éste, harán uso del protocolo abierto. En este último caso, deberán efectuar el cierre de los libros correspondientes, en el estado en que se encuentren, y hacer la entrega de los mismos a la Dirección General, dando aviso al Colegio.
+
+Quinto. En todo lo relativo al registro y al sistema nacional de avisos de poderes y mandatos notariales, se estará a la entrada en vigor y a los términos que determinen las autoridades competentes, en ejecución al convenio que al efecto suscriban el Gobierno del Estado de Veracruz de Ignacio de la Llave, el Ejecutivo Federal y demás instancias correspondientes.
+
+Sexto. Para los efectos de lo dispuesto en los artículos 23, fracciones IV y V, 152, fracción VI, 172, fracción IV, y 175, fracción VI, inciso h), de la Ley, los Notarios titulares, Notarios Adscritos o Suplentes en funciones, tendrán un plazo de seis meses, contado a partir de la entrada en vigor de las disposiciones, lineamientos o criterios que expida la autoridad competente, para implementar el respaldo electrónico y hacer uso de las plataformas informáticas, medios y sistemas digitales disponibles, de conformidad con lo previsto en esas disposiciones.
+
+En consecuencia, en tanto se expide la normativa a que refiere el párrafo anterior, el procedimiento de registro, custodia, cuidado, conservación y preservación de la documentación e instrumentos notariales, continuará como se ha venido realizando.
+
+Séptimo. A partir de la entrada en vigor de la presente Ley, la autoridad y los Notarios titulares, Adscritos o Suplentes, contarán con un plazo de seis meses para efectos del cumplimiento de la obligación del uso de las hojas testimonio a que refiere el presente ordenamiento.
