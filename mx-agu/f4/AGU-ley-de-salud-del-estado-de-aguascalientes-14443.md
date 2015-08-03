@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2012-12-24"
+last_updated: "2015-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -455,13 +455,21 @@ En el caso de establecimientos que expidan alimentos y bebidas en las escuelas d
 
 t).- La creación de una unidad administrativa encargada de recibir, recabar, resguardar y supervisar el cumplimiento de los cuidados paliativos que soliciten los pacientes en etapa terminal en los términos de la ley aplicable a la materia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2010)</small>
+u).- Publicar anualmente en el Periódico Oficial del Estado la relación de profesionales, técnicos y auxiliares de la salud que presten atención médica de cualquier tipo en el Estado de Aguascalientes, así como publicar permanentemente dicha relación en la página web de la Secretaría de Salud, y las actualizaciones de la misma. En las publicaciones correspondientes deberá aparecer la leyenda “Médico Oficialmente Registrado”;
 
-u).- Publicar anualmente en el Periódico Oficial del Estado la relación de profesionales, técnicos y auxiliares de la salud que presten atención médica de cualquier tipo en el Estado de Aguascalientes, así como publicar permanentemente dicha relación en la página web de la Secretaría de Salud, y las actualizaciones de la misma. En las publicaciones correspondientes deberá aparecer la leyenda "Médico Oficialmente Registrado"; y
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
-V.- Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
+V.- Coadyuvar con la autoridad competente para:
+
+a).- Fomentar la no discriminación ni conculcación de derechos, libertades o dignidad de las personas con motivo de sus caracteres genéticos;
+
+b).- Salvaguardar en términos de la normatividad aplicable, la confidencialidad de los datos genéticos de todo grupo o individuo, obtenidos o conservados con fines de diagnóstico, prevención, investigación, terapéuticos o para cualquier propósito, salvo en los casos que exista orden judicial; y
+
+> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2015)</small>
+
+VI.- Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
 
 B).- EN MATERIA DE SALUBRIDAD LOCAL:
 
@@ -1343,25 +1351,25 @@ Asimismo se deberá atender a lo establecido en la Ley General de Salud, al Regl
 
 ### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBREDE 2012)</small>
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
-ARTICULO 104 A- La Secretaria contará con la Comisión Estatal de Bioética, como órgano técnico con carácter consultivo en la materia, que tiene por objeto promover la creación de una cultura bioética en el Estado, fomentando a través de sus facultades una actitud de reflexión, deliberación y discusión multidisciplinaria y multisectorial de los temas vinculados con la salud humana, y desarrollar normas éticas para la atención, la investigación y la docencia.
+ARTICULO 104 A.- La Secretaria contará con la Comisión Estatal de Bioética, como órgano técnico con carácter consultivo en la materia, que tiene por objeto promover la creación de una cultura bioética en el Estado, fomentando a través de sus facultades una actitud de reflexión, deliberación y discusión multidisciplinaria y multisectorial de los temas vinculados con la salud humana, y desarrollar normas éticas para la atención, la investigación y la docencia.
 
 Dicho órgano asumirá la coordinación de los distintos Comités Hospitalarios de Bioética, de Ética en la Investigación y de Bioseguridad que para el efecto sean creados.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBREDE 2012)</small>
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
 ARTÍCULO 104 B.- Las acciones de atención, así como la investigación y la docencia de la salud deben ser desplegadas en un marco científico y humanista, con pleno respeto a la dignidad de la persona y a su autonomía, en un ámbito de equidad y justicia distributiva.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBREDE 2012)</small>
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
 ARTÍCULO 104 C.- El personal de atención a la salud debe atender con profesionalismo y entrega a todas las personas que demanden sus servicios sin distinción de edad, sexo, nacionalidad, religión, ideología política, posición socio-económica, padecimientos, sin permitir cualquier forma de discriminación, ni escatimar el tiempo que se requiera, o el espacio necesario para ello.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBREDE 2012)</small>
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
 ARTÍCULO 104 D.- Todas las investigaciones científicas que se realicen sobre seres vivos deberán apegarse estrictamente a lo postulado en la legislación sanitaria, en los tratados internacionales y demás ordenamientos aplicables sobre la materia.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBREDE 2012)</small>
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
 ARTÍCULO 104 E.- los centros para la atención de la salud del sector público, social o privado del Sistema Estatal de Salud, de acuerdo con su grado de complejidad y nivel de resolución, bajo la responsabilidad de los directores o titulares respectivos y de conformidad con las disposiciones aplicables, contarán con los siguientes comités:
 
@@ -1455,9 +1463,9 @@ Los aspectos docentes del internado de pregrado y de las residencias de especial
 
 La operación de los programas correspondientes en los establecimientos de salud, se llevará a cabo de acuerdo a los lineamientos establecidos por cada una de las instituciones de salud y lo que determinen las autoridades sanitarias competentes.
 
-## TÍTULO SÉPTIMO BIS. LOS PRINCIPIOS BIOÉTICOS EN LAATENCIÓN, INVESTIGACIÓN y DOCENCIA DE LA SALUD
+## TÍTULO SÉPTIMO BIS. LOS PRINCIPIOS BIOÉTICOS EN LA ATENCIÓN, INVESTIGACIÓN y DOCENCIA DE LA SALUD
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBREDE 2012)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
 ### CAPITULO I. Disposiciones Comunes
 
@@ -1479,7 +1487,7 @@ VI.- A la producción nacional de insumos para la salud.
 
 VII.- Al conocimiento y optimización de los procesos educativos en el área de la salud.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBREDE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 99.
 
@@ -1503,13 +1511,13 @@ VI.- El profesional responsable suspenderá la investigación en cualquier momen
 
 VII.- Las demás que establezca esta Ley y la correspondiente reglamentación.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBREDE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 101.
 
 La Secretaría tendrá a su cargo la coordinación de la investigación para la salud y el control de ésta en seres humanos.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBREDE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 102.
 
@@ -1531,7 +1539,7 @@ Quien realice investigación en seres humanos en contravención a lo dispuesto e
 
 En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuevos recursos terapéuticos o de diagnóstico, cuando exista posibilidad fundada de salvar la vida, restablecer la salud o disminuir el sufrimiento del paciente, siempre que cuente con el consentimiento por escrito de éste, de su representante legal, en su caso, o del familiar más cercano en vínculo, y sin perjuicio de cumplir con los demás requisitos que determine esta Ley y otras disposiciones aplicables.
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBREDE 2012)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
 ## TITULO OCTAVO. INFORMACIÓN PARA LA SALUD
 
@@ -3404,3 +3412,9 @@ El Titular del Poder Ejecutivo del Estado, dentro de 180 días contados a partir
 ###### ARTÍCULO TERCERO.
 
 El Poder Ejecutivo una vez emitido el Decreto de creación y el reglamento correspondiente de la Comisión Estatal de Bioética, expedirá las normas correspondientes para la constitución de los distintos comités.
+
+P.O. 3 DE AGOSTO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su Publicación en el Periódico Oficial del Estado.
