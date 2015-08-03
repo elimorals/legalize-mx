@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2015-07-27"
+last_updated: "2015-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2015.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -16987,6 +16987,12 @@ P.O. 22 DE JUNIO DE 2015.
 
 El presente Decreto iniciará su vigencia a los treinta días hábiles siguientes al de su publicación en el Periódico Oficial del Estado de Aguascalientes, quedando sin efecto todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2015)</small>
+
+Por lo que hace a los juicios de divorcio en trámite, será potestativo para cualquiera de las partes acogerse a las reformas establecidas en el presente Decreto, para lo cual se tendrá que presentar la propuesta de convenio referido en el Artículo 289 del Código Civil. En caso de que los cónyuges no logren un acuerdo respecto a dicho convenio, las cuestiones controvertidas se sustanciarán vía incidental en términos de lo dispuesto por el Artículo 295 del Código Civil, y al resolverlas el Juez deberá considerar las pruebas que, en su caso, haya admitido o desahogado antes de la presentación de la propuesta de convenio y que tengan relación con los puntos controvertidos.
+
 P.O. 27 DE JULIO DE 2015.
 
 DECRETO NÚMERO 215, POR EL QUE SE REFORMA EL ARTÍCULO 466, FRACCIONES VI Y VII Y SE LE ADICIONAN LAS FRACCIONES VIII, IX, X, Y XI Y UN PÁRRAFO SEGUNDO; Y SE REFORMA EL ARTÍCULO 469, FRACCIÓN III Y SE LE ADICIONAN LAS FRACCIONES IV, V Y VI DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES.
@@ -17006,3 +17012,9 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
+
+P.O. 3 DE AGOSTO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el mismo día en que inicie su vigencia el Decreto 201 publicado en el Periódico Oficial del Estado, el 22 de junio del 2015.
