@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2015-07-22"
+last_updated: "2015-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 22 DE JULIO DE 2015, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 1 DE AGOSTO DE 2015.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE AGOSTO DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -381,7 +379,9 @@ XXIII. VIGESIMO TERCER CIRCUITO:
 
 1. Un tribunal colegiado con residencia en Zacatecas.
 
-2. Un tribunal unitario con sede en Zacatecas.
+> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 38/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE AGOSTO DE 2015)</small>
+
+2. Dos tribunales unitarios con sede en Zacatecas.
 
 3. Dos juzgados de Distrito en el Estado de Zacatecas, con residencia en la ciudad del mismo nombre.
 
@@ -395,7 +395,9 @@ XXIV. VIGESIMO CUARTO CIRCUITO:
 
 XXV. VIGESIMO QUINTO CIRCUITO:
 
-1. Un tribunal colegiado con residencia en Durango.
+> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 37/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE AGOSTO DE 2015)</small>
+
+1. Dos tribunales colegiados con residencia en Durango.
 
 2. Un tribunal unitario con sede en Durango.
 
@@ -811,9 +813,9 @@ QUINTO. Centros Auxiliares Regionales:
 
 8. El Centro Auxiliar de la Octava Región, se integrará por un Tribunal Colegiado de Circuito Auxiliar con residencia en Mérida, Yucatán.
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 27/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 38/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE AGOSTO DE 2015)</small>
 
-9. El Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, se integrará por dos tribunales colegiados de Circuito Auxiliares y cinco juzgados de Distrito Auxiliares.
+9. El Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, se integrará por dos tribunales colegiados de Circuito Auxiliares y cuatro juzgados de Distrito Auxiliares.
 
 10. El Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila de Zaragoza, se integrará por cuatro tribunales colegiados de Circuito Auxiliares, y tres juzgados de Distrito Auxiliares.
 
@@ -1790,3 +1792,81 @@ D.O.F. 22 DE JULIO DE 2015.
 PRIMERO. El presente Acuerdo entrará en vigor el primero de agosto de dos mil quince.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 3 DE AGOSTO DE 2015.
+
+ACUERDO GENERAL 37/2015, QUE REFORMA EL ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL EN EL NUMERAL SEGUNDO, FRACCIÓN XXV, NÚMERO 1.
+
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de agosto de dos mil quince, con excepción de lo previsto en el transitorio TERCERO, el cual entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de internet del Consejo de la Judicatura Federal.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional materia de este Acuerdo, de la infraestructura y equipamiento necesario para el desempeño de sus funciones. Asimismo, proveerá del espacio adecuado para las sesiones del Pleno de Circuito y del equipo informático y de videograbación para su funcionamiento.
+
+CUARTO. Se reforma el numeral SEGUNDO, fracción XXV, número 1 del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. …
+
+I. a XXIV. …
+
+XXV. …
+
+1. Dos tribunales colegiados con residencia en Durango.
+
+2. a 3. …
+
+XXVI. a XXXII. …”
+
+D.O.F. 3 DE AGOSTO DE 2015.
+
+ACUERDO GENERAL 38/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL JUZGADO QUINTO DE DISTRITO DEL CENTRO AUXILIAR DE LA NOVENA REGIÓN, CON RESIDENCIA EN ZACATECAS, ZACATECAS Y SU TRANSFORMACIÓN EN SEGUNDO TRIBUNAL UNITARIO DEL VIGÉSIMO TERCER CIRCUITO, ASÍ COMO A SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, Y FECHA DE INICIO DE FUNCIONES; AL CAMBIO DE DENOMINACIÓN DEL TRIBUNAL UNITARIO DEL MISMO CIRCUITO Y RESIDENCIA; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES UNITARIOS DEL CIRCUITO Y RESIDENCIA INDICADOS; Y A LA CREACIÓN DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTARÁ SERVICIO.
+
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de agosto de dos mil quince, con excepción de lo previsto en el transitorio CUARTO, el cual entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Para conformar la plantilla del Segundo Tribunal Unitario del Vigésimo Tercer Circuito, la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal, vigilará que el personal del órgano jurisdiccional auxiliar que se transforma, se integre al referido Tribunal, respetando sus derechos laborales.
+
+CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional materia de este Acuerdo, de la infraestructura y equipamiento necesario para el desempeño de sus funciones, y llevará a cabo las acciones necesarias para realizar oportunamente la transformación del órgano jurisdiccional de que se trata.
+
+QUINTO. Se reforman los numerales SEGUNDO, fracción XXIII, número 2; y QUINTO, número 9 del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. …
+
+I. a XXII. …
+
+XXIII. …
+
+1. ...
+
+2. Dos tribunales unitarios con sede en Zacatecas.
+
+3. …
+
+XXIV. a XXXII. …
+
+QUINTO. …
+
+1. a 8. …
+
+9. El Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, se integrará por dos tribunales colegiados de Circuito Auxiliares y cuatro juzgados de Distrito Auxiliares.
+
+10. a 11. …
+
+…”
+
+SEXTO. Se reforma el numeral PRIMERO del Acuerdo General 51/2009 del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, así como los órganos jurisdiccionales que lo integrarán, para quedar como sigue:
+
+“PRIMERO. CONFORMACION, UBICACION, COMPETENCIA Y DENOMINACION. El Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, está conformado por dos tribunales colegiados Auxiliares y cuatro juzgados de Distrito Auxiliares, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación es la siguiente:
+
+I. Juzgado Primero de Distrito del Centro Auxiliar de la Novena Región.
+
+II. Juzgado Segundo de Distrito del Centro Auxiliar de la Novena Región.
+
+III. Juzgado Tercero de Distrito del Centro Auxiliar de la Novena Región.
+
+IV. Juzgado Cuarto de Distrito del Centro Auxiliar de la Novena Región.
+
+V. Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Novena Región.
+
+VI. Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Novena Región.”
