@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-527-del-notariado-del-estado-de-veracruz-de-66455"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-29"
-last_updated: "2012-11-23"
+last_updated: "2015-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 527 DEL NOTARIADO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 585 DEL NOTARIADO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DEL 3 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY NÚMERO 527 DEL NOTARIADO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE AGOSTO DE 2015 (ABROGADA).
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 29 de enero de 2009
 
@@ -1754,3 +1756,27 @@ G.O. 23 DE NOVIEMBRE DE 2012.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 3 DE AGOSTO DE 2015.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 585 DEL NOTARIADO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente ordenamiento entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se abroga la Ley Número 527 del Notariado del Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del Estado Número Extraordinario 34 de fecha 29 de enero de 2009; y se derogan las demás disposiciones que se opongan a la presente Ley.
+
+La Dirección General y el Consejo propondrán al Gobernador del Estado, en un término de noventa días a partir de la entrada en vigor de esta Ley, el Arancel para el Cobro de Honorarios por los Notarios Públicos; y a partir de la fecha de su publicación en la Gaceta Oficial del Estado quedará abrogada la Ley que Establece el Arancel para el Cobro de Honorarios por los Notarios Públicos, publicada en la Gaceta Oficial del Estado Número 150 de fecha 16 de diciembre de 1967.
+
+Tercero. En los casos que en esta Ley se alude a la firma autógrafa, se entenderá que se refiere también a la firma electrónica o cualquier otro medio tecnológico que se acepte legalmente para el mismo fin.
+
+Cuarto. Todos los procedimientos administrativos que se encuentren en trámite a la entrada en vigor de la presente Ley, se desahogarán hasta su conclusión de conformidad con las disposiciones aplicables de la Ley Número 527 del Notariado del Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del Estado Número Extraordinario 34 de fecha 29 de enero de 2009.
+
+Los Notarios que a la entrada en vigor de la presente Ley aún utilicen el protocolo cerrado, podrán seguir utilizándolo en un plazo que no excederá de seis meses contado a partir de la entrada en vigor de la Ley; agotado éste, harán uso del protocolo abierto. En este último caso, deberán efectuar el cierre de los libros correspondientes, en el estado en que se encuentren, y hacer la entrega de los mismos a la Dirección General, dando aviso al Colegio.
+
+Quinto. En todo lo relativo al registro y al sistema nacional de avisos de poderes y mandatos notariales, se estará a la entrada en vigor y a los términos que determinen las autoridades competentes, en ejecución al convenio que al efecto suscriban el Gobierno del Estado de Veracruz de Ignacio de la Llave, el Ejecutivo Federal y demás instancias correspondientes.
+
+Sexto. Para los efectos de lo dispuesto en los artículos 23, fracciones IV y V, 152, fracción VI, 172, fracción IV, y 175, fracción VI, inciso h), de la Ley, los Notarios titulares, Notarios Adscritos o Suplentes en funciones, tendrán un plazo de seis meses, contado a partir de la entrada en vigor de las disposiciones, lineamientos o criterios que expida la autoridad competente, para implementar el respaldo electrónico y hacer uso de las plataformas informáticas, medios y sistemas digitales disponibles, de conformidad con lo previsto en esas disposiciones.
+
+En consecuencia, en tanto se expide la normativa a que refiere el párrafo anterior, el procedimiento de registro, custodia, cuidado, conservación y preservación de la documentación e instrumentos notariales, continuará como se ha venido realizando.
+
+Séptimo. A partir de la entrada en vigor de la presente Ley, la autoridad y los Notarios titulares, Adscritos o Suplentes, contarán con un plazo de seis meses para efectos del cumplimiento de la obligación del uso de las hojas testimonio a que refiere el presente ordenamiento.
