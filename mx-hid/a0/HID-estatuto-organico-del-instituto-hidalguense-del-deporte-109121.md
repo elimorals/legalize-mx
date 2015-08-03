@@ -4,7 +4,7 @@ identifier: "HID-estatuto-organico-del-instituto-hidalguense-del-deporte-109121"
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-07-20"
-last_updated: "2015-07-20"
+last_updated: "2015-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO HIDALGUENSE DEL DEPORTE
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE AGOSTO DE 2015 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ESTATUTO ORGÁNICO DEL INSTITUTO HIDALGUENSE DEL DEPORTE
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 3 DE AGOSTO DE 2015.</small>
 
 Estatuto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de julio de 2015.
 
@@ -503,4 +503,6 @@ CUARTO. El presente Estatuto deberá inscribirse en el Registro Público de Orga
 
 Dado en la residencia del Domicilio Belisario Domínguez No. 200, Col. Centro, en la ciudad de Pachuca de Soto, Hidalgo, el día diecinueve del mes de junio del año 2015.
 
-LA JUNTA DE GOBIERNO, Mtro. Miguel Ángel Ortega Sánchez, Asesor Técnico de la S.E.P.H.- Rúbrica; L.A.P. Claudia Franco Ángeles, Subdir. De la Unidad Institucional de Genero.- Rúbrica; L.M. Leopoldo Corona Jiménez, Encargado del Departamento de la Secretaría de Gobierno.- Rúbrica; L.C. Luz Angélica Pérez Rodríguez, Encargada del Departamento de Registro.- Rúbrica; Mtro. Guillermo Peredo Montes, Director General del Instituto de la Juventud.- Rúbrica; Lic. Luis Patricio Ángeles Peña, Director de Planeación.- Rúbrica; Lic. Marco Antonio Heras Jiménez, Director de la Coordinación Técnica de la Secretaría de Salud.- Rúbrica; Ing. Gerardo Aguilar Rangel, Subdir. de Apoyo Alimentario a Sujetos Vulnerables.- Rúbrica; Lic. Anayeli Altamirano Hernández, Directora de Planeación, Administración y Finanzas del Instituto Hidalguense del Deporte.- Rúbrica; Lic. Edgar Yair Rodríguez Villareal, Encargado del Departamento de Contabilidad y Análisis Financiero.- Rúbrica; C.P. Marco Antonio Balandrano Meneses, Comisario Público Suplente.- Rúbrica; Lic. Salvador Franco Cravioto, Director General.- Rúbrica.
+> <small>(F. DE E., P.O. 3 DE AGOSTO DE 2015)</small>
+
+LA JUNTA DE GOBIERNO, Mtro. Miguel Ángel Ortega Sánchez, Asesor Técnico de la S.E.P.H.- Rúbrica; L.M. Leopoldo Corona Jiménez, Encargado del Departamento de la Secretaria de Gobierno.- Rúbrica; L.C. Luz Angélica Pérez Rodríguez, Encargada del Departamento de Registro de la Secretaria de Administración y Finanzas.- Rúbrica; Mtro. Guillermo Peredo Montes, Director General del Instituto de la Juventud.- Rúbrica; Lic. Luis Patricio Ángeles Peña, Director de Planeación, Desarrollo Regional y Metropolitano.- Rúbrica; Lic. Marco Antonio Heras Jiménez, Director de la Coordinación Técnica de la Secretaría de Salud.- Rúbrica; Ing. Gerardo Aguilar Rangel, Subdir. de Apoyo Alimentario a Sujetos Vulnerables del Sistema DIF.- Rúbrica; Lic. Anayeli Altamirano Hernández, Directora de Planeación, Administración y Finanzas del Instituto Hidalguense del Deporte.- Rúbrica; T.C. Blanca Elizabeth Sánchez Martínez, Comisario Público.- Rúbrica; Lic. Salvador Franco Cravioto, Director General del Instituto Hidalguense del Deporte.- Rúbrica.
