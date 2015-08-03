@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-77783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-28"
-last_updated: "2015-06-15"
+last_updated: "2015-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 221, PUBLICADO EN EL P.O. DE 3 DE AGOSTO DE 2015, VÉASE ARTÍCULO SEGUNDO TRANSITORIO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2015.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial de Estado de Aguascalientes, el martes 28 de diciembre de 2010.
 
@@ -55,13 +57,17 @@ La presente Ley tiene por objeto establecer las bases para la organización y fu
 
 El ejercicio del Poder Ejecutivo corresponde al Gobernador del Estado, quien tendrá las atribuciones, funciones y obligaciones que le señalen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, la presente Ley y las demás disposiciones jurídicas vigentes en el Estado.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2015)</small>
+
 ###### ARTÍCULO 3°.
 
-Para el ejercicio de sus atribuciones y el despacho de orden administrativo que le corresponde, el Titular del Poder Ejecutivo del Estado se auxiliará de la Administración Pública, que será Centralizada y Paraestatal y estará coordinada por un Jefe de Gabinete.
+Para el ejercicio de sus atribuciones y el despacho de orden administrativo que le corresponde, el Titular del Poder Ejecutivo del Estado se auxiliará de la Administración Pública, que será Centralizada y Paraestatal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2015)</small>
 
 ###### ARTÍCULO 4°.
 
-La Administración Pública Centralizada se integra con las Dependencias siguientes: Secretarías, la Procuraduría General de Justicia del Estado, Oficialía Mayor y las unidades administrativas, referidas en la Constitución Política del Estado, la presente ley y en las demás disposiciones legales y reglamentarias respectivas.
+La Administración Pública Centralizada se integra con las Dependencias siguientes: Secretarías, Oficialía Mayor y las unidades administrativas, referidas en la Constitución Política del Estado, la presente ley y en las demás disposiciones legales y reglamentarias respectivas.
 
 La Administración Pública Paraestatal se conforma con las Entidades siguientes: organismos descentralizados, organismos auxiliares, empresas de participación estatal mayoritaria y los fideicomisos públicos que se organicen de manera análoga a los organismos descentralizados.
 
@@ -71,19 +77,25 @@ Estas entidades paraestatales se regirán por la Ley para el Control de las Enti
 
 El Gobernador del Estado podrá proponer al Congreso Estatal la creación de Entidades Paraestatales que, por los fines que persigan, requieran de autonomía para su funcionamiento, las que tendrán sus formas propias de gobierno conforme lo determinen los ordenamientos jurídicos de creación.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2015)</small>
+
 ###### ARTÍCULO 6°.
 
-La Administración Pública Centralizada, para atender de manera eficiente el despacho de los asuntos de su competencia, contará con órganos desconcentrados jerárquicamente subordinados al Titular del Poder Ejecutivo del Estado, al Jefe de Gabinete o a la Dependencia que éste determine, que tendrán facultades específicas para resolver sobre la materia o dentro del ámbito territorial que se establezca en cada caso.
+La Administración Pública Centralizada, para atender de manera eficiente el despacho de los asuntos de su competencia, contará con órganos desconcentrados jerárquicamente subordinados al Titular del Poder Ejecutivo del Estado o a la Dependencia que éste determine, que tendrán facultades específicas para resolver sobre la materia o dentro del ámbito territorial que se establezca en cada caso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2015)</small>
 
 ###### ARTÍCULO 7°.
 
-El Gobernador del Estado tendrá adscritas directamente la Oficina del Ejecutivo Estatal, la Secretaría Particular, la Coordinación de Comunicación Social, y las demás unidades administrativas que se determinen, de conformidad con el Presupuesto de Egresos, los instrumentos jurídicos de creación y las demás disposiciones que al efecto se emitan.
+El Gobernador del Estado tendrá adscritas directamente la Jefatura de Gabinete, la Oficina del Ejecutivo Estatal, la Secretaría Particular, la Coordinación de Comunicación Social y las demás unidades administrativas que se determinen, de conformidad con el Presupuesto de Egresos, los instrumentos jurídicos de creación y las demás disposiciones que al efecto se emitan.
 
 Las atribuciones de estas unidades se especificarán en el instrumento jurídico que las crea o en los ordenamientos reglamentarios respectivos.
 
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2015)</small>
+
 ###### ARTÍCULO 8°.
 
-El Gobernador del Estado, como Titular del Poder Ejecutivo, intervendrá directamente en los asuntos que juzgue necesarios, sin perjuicio de las atribuciones que éste u otros ordenamientos confieran a las Dependencias de la Administración Pública, y acordará el despacho de los asuntos de la Administración Pública del Estado con el Jefe de Gabinete.
+El Gobernador del Estado, como Titular del Poder Ejecutivo, intervendrá directamente en los asuntos que juzgue necesarios, sin perjuicio de las atribuciones que éste u otros ordenamientos confieran a las Dependencias de la Administración Pública.
 
 ###### ARTÍCULO 9°.
 
@@ -97,11 +109,17 @@ Por acuerdo expreso, podrá delegar en los Titulares de las Dependencias la facu
 
 En materia de formalización de la normatividad se deberá observar lo siguiente:
 
-I. Todos los Decretos y Reglamentos que el Gobernador del Estado promulgue, para que sean obligatorios, deberán estar refrendados por el Jefe de Gabinete y por el encargado del ramo según corresponda;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
-II. El decreto promulgatorio de leyes será refrendado únicamente por el Jefe de Gabinete;
+I.- Todos los Decretos y Reglamentos que el Gobernador del Estado promulgue, para que sean obligatorios, deberán estar refrendados por el Secretario General de Gobierno y por el encargado del ramo según corresponda;
 
-III. Tratándose de proyectos de iniciativas de leyes o decretos que serán sometidos al Congreso del Estado, las Dependencias y Entidades del Poder Ejecutivo deberán remitirlos al Jefe de Gabinete, por lo menos con un mes de anticipación a la fecha en que se pretendan presentar, salvo que se trate de las iniciativas de Ley de Ingresos, el Proyecto de Presupuesto de Egresos del Estado, o de proyectos de notoria urgencia a juicio del Gobernador del Estado o del Jefe de Gabinete, en cuyo caso el plazo podrá ser menor;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
+
+II.- El decreto promulgatorio de leyes será refrendado únicamente por el Secretario General de Gobierno;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
+
+III.- Tratándose de proyectos de iniciativas de leyes o decretos que serán sometidos al Congreso del Estado, las Dependencias y Entidades del Poder Ejecutivo deberán remitirlos al Secretario General de Gobierno, por lo menos con un mes de anticipación a la fecha en que se pretendan presentar, salvo que se trate de las iniciativas de Ley de Ingresos, el Proyecto de Presupuesto de Egresos del Estado, o de proyectos de notoria urgencia a juicio del Gobernador del Estado, en cuyo caso el plazo podrá ser menor;
 
 IV. Los reglamentos interiores determinarán las atribuciones que, conforme a esta ley y demás disposiciones legales aplicables, se otorgan a las diversas Dependencias y su distribución entre las unidades administrativas que las componen; asimismo establecerán la forma en que sus Titulares podrán ser suplidos en sus ausencias;
 
@@ -145,17 +163,23 @@ VIII. Promover y consolidar un sistema de modernización administrativa, de mejo
 
 IX. Ordenar la realización de auditorías, revisiones y evaluaciones a las Dependencias Centralizadas y Entidades Para estatales;
 
-X. Ordenar, en términos de lo dispuesto por la Constitución Política del Estado, la comparecencia del Jefe de Gabinete y de los Titulares de las Dependencias y Entidades de la Administración Pública ante el Congreso Estatal, para dar cuenta del estado que guardan las mismas, así como cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
-XI. Resolver, por conducto del Jefe de Gabinete, las dudas que existan sobre la distribución de competencias entre las Dependencias y asignarles, en casos extraordinarios, la responsabilidad sobre asuntos específicos; y
+X. Ordenar, en términos de lo dispuesto por la Constitución Política del Estado, la comparecencia del Secretario General de Gobierno y de los Titulares de las Dependencias y Entidades de la Administración Pública ante el Congreso Estatal, para dar cuenta del estado que guardan las mismas, así como cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
+
+XI. Resolver, por conducto del Secretario General de Gobierno, las dudas que existan sobre la distribución de competencias entre las Dependencias y asignarles, en casos extraordinarios, la responsabilidad sobre asuntos específicos; y
 
 XII. Las demás que expresamente le confieran esta ley y las diversas leyes del Estado.
 
 ### CAPÍTULO II. De la Administración Pública Estatal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE AGOSTO DE 2015)</small>
+
 ###### ARTÍCULO 12.
 
-La Administración Pública Estatal estará coordinada por un Jefe de Gabinete designado por el Titular del Poder Ejecutivo del Estado. La Administración Pública Estatal deberá promover y cuidar que en la ejecución de las políticas de desarrollo y en el ejercicio del gasto público, se cumplan los siguientes principios estratégicos:
+La Administración Pública Estatal deberá promover y cuidar que en la ejecución de las políticas de desarrollo y en el ejercicio del gasto público, se cumplan los siguientes principios estratégicos:
 
 I. La administración de los recursos públicos con eficiencia, eficacia, economía, transparencia y honradez, a fin de satisfacer plenamente los objetivos a que estén destinados;
 
@@ -175,47 +199,31 @@ VI. El acceso libre e incluyente de todos los habitantes del Estado, al conocimi
 
 VII. La priorización de la cultura de la prevención y de la constante mejora regulatoria del servicio público, para lograr en grado óptimo la mejoría de las relaciones intra e intergubernamentales y con el ciudadano.
 
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 12 BIS.- Las Dependencias y Entidades de la Administración Pública Estatal, deberán conducir sus actividades en forma programada y con base en las políticas, prioridades y restricciones, que para el logro de los objetivos y metas de los planes de gobierno, establezca el Gobernador del Estado. Para tales efectos, los responsables de las áreas de planeación; control y fiscalización; asuntos jurídicos, y administración de recursos de las Dependencias deberán ser designados por los respectivos Titulares de las Dependencias responsables de dichas materias, previo acuerdo con el Gobernador del Estado.
+
+En el caso de las Entidades, los nombramientos respectivos deberán tramitarse de acuerdo a las disposiciones legales correspondientes.
+
 #### SECCIÓN PRIMERA. Del Jefe de Gabinete
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2015)</small>
 
 ###### ARTÍCULO 13.
 
 El Jefe de Gabinete, conforme a las políticas y lineamientos establecidos por el Titular del Poder Ejecutivo del Estado, tendrá las atribuciones siguientes:
 
-l. Coordinar la Administración Pública Estatal;
+l. Coordinar los asuntos de la Administración Pública Estatal que le sean instruidos por el Titular del Poder Ejecutivo del Estado;
 
-II. Coordinar los trabajos del Poder Ejecutivo en relación con los otros Poderes del Estado y con las autoridades municipales;
+II. Convocar las reuniones de gabinete con los Titulares de las Dependencias y Entidades, presidiéndolas cuando así lo instruya el Titular del Poder Ejecutivo del Estado;
 
-III. Coordinar y convocar las reuniones de gabinete con los Titulares de las Dependencias y Entidades, presidiéndolas cuando así lo instruya el Titular del Poder Ejecutivo del Estado;
+III. Dar opinión al Gobernador del Estado sobre los asuntos de la Administración Pública que éste le solicite; y
 
-IV. Concurrir a las sesiones del Congreso local, cuando éste lo estime necesario, a efecto de desahogar los asuntos planteados por el Gobierno del Estado, así como dar respuesta a los requerimientos del propio Congreso;
-
-V. Asistir, en ausencia del Gobernador del Estado, a las sesiones de apertura y clausura de los periodos de sesiones ordinarios y extraordinarios del Congreso del Estado;
-
-VI. Suplir las ausencias del Gobernador del Estado, en los casos previstos en la Constitución Política del Estado;
-
-VII. Firmar en conjunto con el Gobernador del Estado todos los despachos que expida éste;
-
-VIII. Presentar ante el Congreso del Estado las iniciativas de Ley y Decretos que el Gobernador del Estado formule al Poder Legislativo;
-
-IX. Publicar las leyes y decretos que expida el Congreso del Estado;
-
-X. Dar opinión al Gobernador del Estado sobre los proyectos de convenios que pretenda celebrar;
-
-XI. Nombrar y remover, por acuerdo del Titular del Poder Ejecutivo, a los servidores públicos de la Administración Pública Centralizada;
-
-XII. Integrar, en coordinación con el Secretario de Gobierno, el proyecto de Agenda de Iniciativas de leyes y decretos que serán presentados por el Gobernador del Estado a la Legislatura Local, atendiendo a las propuestas de las Dependencias y Entidades de la Administración Pública del Estado;
-
-XIII. Coordinarse con los Poderes Legislativo y Judicial, así como con el Consejo de la Judicatura Estatal; y
-
-XIV. Las demás que le determine el Titular del Poder Ejecutivo, que expresamente se señalen en esta Ley, en las leyes del Estado y en los ordenamientos reglamentarios respectivos.
+IV. Las demás que le determine el Titular del Poder Ejecutivo, que expresamente se señalen en esta Ley, en las leyes del Estado y en los ordenamientos reglamentarios respectivos.
 
 ###### ARTÍCULO 14.
 
-Las Dependencias y Entidades de la Administración Pública Estatal, deberán conducir sus actividades en forma programada y con base en las políticas, prioridades y restricciones, que para el logro de los objetivos y metas de los planes de gobierno, establezca el Gobernador del Estado.
-
-Para tales efectos, los responsables de las áreas de planeación; control y fiscalización; asuntos jurídicos, y administración de recursos de las Dependencias deberán ser designados por los respectivos Titulares de las Dependencias responsables de dichas materias, previo acuerdo con el Gobernador del Estado.
-
-En el caso de las Entidades, los nombramientos respectivos deberán contar con el visto bueno de los Titulares de las Dependencias que según correspondan.
+(DEROGADO, P.O. 3 DE AGOSTO DE 2015)
 
 #### SECCIÓN SEGUNDA. De las Dependencias de la Administración Pública Centralizada
 
@@ -223,13 +231,15 @@ En el caso de las Entidades, los nombramientos respectivos deberán contar con e
 
 Para el estudio, planeación, resolución y despacho de los asuntos de los diversos ramos de la Administración Pública Centralizada, el Titular del Poder Ejecutivo contará con las siguientes Dependencias:
 
-I. Secretaría de Gobierno;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
+
+l. Secretaría General de Gobierno;
 
 II. Secretaría de Seguridad Pública;
 
 III. Secretaría de Finanzas;
 
-IV. Procuraduría General de Justicia;
+IV. (DEROGADA, P.O. 3 DE AGOSTO DE 2015)
 
 V. Secretaria de Desarrollo Económico;
 
@@ -273,7 +283,9 @@ I. Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos polític
 
 II. Ser mayor de treinta años.
 
-El Jefe de Gabinete, el Secretario de Gobierno y el Procurador General de Justicia deberán cumplir además los requisitos que para ocupar dicho cargo establece la Constitución Política del Estado.
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2015)</small>
+
+Para ser Secretario General de Gobierno se deberá de cumplir los requisitos que para ocupar dicho cargo establece la Constitución Política del Estado.
 
 ###### ARTÍCULO 18.
 
@@ -319,9 +331,13 @@ V. Establecer conforme a las prioridades señaladas en el Plan de Desarrollo del
 
 VI. Someter al Acuerdo del Gobernador del Estado los asuntos encomendados a la Dependencia a su cargo y los del Sector que le corresponda coordinar;
 
-VII. Formular, en el ámbito de su competencia, proyectos de ley, decretos, reglamentos, acuerdos y convenios, y remitirlos para su autorización al Gobernador del Estado, a través del Secretario de Gobierno;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
-VIII. Acudir, conjuntamente con el Jefe de Gabinete a las comparecencias ante el Congreso del Estado que deban realizarse, a convocatoria expresa de éste para dar cuenta del estado que guarda la Dependencia a su cargo; o por instrucción del Gobernador del Estado cuando se discuta una ley o se estudie un negocio concerniente a su respectivo ramo;
+VII. Formular, en el ámbito de su competencia, proyectos de ley, decretos, reglamentos, acuerdos y convenios, y remitirlos para su autorización al Gobernador del Estado, a través del Secretario General de Gobierno;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
+
+VIII. Acudir a las comparecencias ante el Congreso del Estado que deban realizarse, a convocatoria expresa de éste para dar cuenta del estado que guarda la Dependencia a su cargo; o por instrucción del Gobernador del Estado cuando se discuta una ley o se estudie un negocio concerniente a su respectivo ramo;
 
 IX. Realizar, en los casos que así proceda, acciones de coordinación con autoridades federales, de otras Entidades Federativas o de los Ayuntamientos del Estado;
 
@@ -449,123 +465,125 @@ X. Las demás que expresamente le confieran esta Ley, las demás leyes del Estad
 
 ### CAPÍTULO III. De la Competencia de las Dependencias del Poder Ejecutivo
 
-#### SECCIÓN PRIMERA. De la Secretaria de Gobierno
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE AGOSTO DE 2015)</small>
+
+#### SECCIÓN PRIMERA. De la Secretaría General de Gobierno
+
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2015)</small>
 
 ###### ARTÍCULO 29.
 
-Al Secretario de Gobierno corresponde, además de las atribuciones que expresamente le confiere la Constitución Política del Estado, y demás leyes relativas, el despacho de los siguientes asuntos:
+Al Secretario General de Gobierno corresponde, además de las atribuciones que expresamente le confiere la Constitución Política del Estado, y demás leyes relativas, el despacho de los siguientes asuntos:
 
-l. Conducir los asuntos del orden interno;
+l. Conducir los trabajos del Poder Ejecutivo en relación con los otros Poderes del Estado y con las autoridades municipales;
 
-II. Fomentar el desarrollo político mediante la coordinación y promoción de programas y acciones que fortalezcan la vida democrática estatal;
+II. Concurrir a las sesiones del Congreso local, cuando éste lo estime necesario, a efecto de desahogar los asuntos planteados por el Gobierno del Estado, así como dar respuesta a los requerimientos del propio Congreso;
 
-III. Desarrollar y dirigir programas tendientes a incrementar los niveles de participación ciudadana, así como para fomentar la cultura de la legalidad y la cultura política;
+III. Asistir, en ausencia del Gobernador del Estado, a las sesiones de apertura y clausura de los periodos de sesiones ordinarios y extraordinarios del Congreso del Estado;
 
-IV. Coordinar la ejecución de la política con perspectiva de género y de los Programas Estatales para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, considerando la participación de las Dependencias y Entidades de la Administración Pública Estatal;
+IV. Suplir las ausencias del Gobernador del Estado, en los casos previstos en la Constitución Política del Estado;
 
-V. Coordinar acciones en materia agraria con los Gobiernos Federal y Municipal, en el ámbito de sus atribuciones;
+V. Firmar en conjunto con el Gobernador del Estado todos los despachos que expida éste;
 
-VI. Otorgar apoyo en materia electoral, de conformidad con las disposiciones legales, en el marco de los convenios que al efecto se celebren con las autoridades electorales;
+VI. Presentar ante el Congreso del Estado las iniciativas de Ley y Decretos que el Gobernador del Estado formule al Poder Legislativo;
 
-VII. Auxiliar a las autoridades federales en el exacto cumplimiento de la legislación federal en materia de juegos y sorteos; cultos y asociaciones religiosas, así como en las demás que, por disposición de las leyes federales o por virtud de convenios de coordinación, deba intervenir;
+VIl. Dar opinión al Gobernador del Estado sobre los proyectos de convenios que pretenda celebrar;
 
-VIII. Vigilar el cumplimiento de los reglamentos, acuerdos, órdenes, circulares y demás disposiciones del Poder Ejecutivo;
+VIII. Integrar y coordinar el proyecto de Agenda de Iniciativas de leyes y decretos que serán presentados por el Gobernador del Estado a la Legislatura Local, atendiendo a las propuestas de las Dependencias y Entidades de la Administración Pública del Estado;
 
-IX. Acordar con el Titular del Poder Ejecutivo del Estado y el Jefe de Gabinete la designación y remoción de los Titulares de las unidades jurídicas de las dependencias de la Administración Pública;
+IX. Coordinarse con los Poderes Legislativo y Judicial;
 
-X. Presidir los trabajos de la Coordinación Jurídica Gubernamental, integrada por los responsables de las unidades de asuntos jurídicos de las Dependencias y Entidades de la Administración Pública Estatal;
+X. Representar al Poder Ejecutivo en el Consejo de la Judicatura Estatal;
 
-XI. Revisar los proyectos de iniciativas de leyes y decretos, reglamentos, acuerdos, nombramientos, resoluciones, convenios y demás instrumentos de carácter jurídico, a efecto de integrarlos a consideración del Jefe de Gabinete;
+XI. Conducir los asuntos del orden interno;
 
-XII. Dar apoyo técnico jurídico al Gobernador del Estado en todos aquellos asuntos que éste le encomiende;
+XII. Fomentar el desarrollo político mediante la coordinación y promoción de programas y acciones que fortalezcan la vida democrática estatal;
 
-XIII. Coordinar a las Dependencias y Entidades del Poder Ejecutivo en la revisión, actualización y simplificación del orden normativo jurídico, evaluando su aplicación, en particular en materia de igualdad sustantiva, así como procurar la congruencia ·de los criterios jurídicos de las Dependencias y Entidades;
+XIII. Desarrollar y dirigir programas tendientes a incrementar los niveles de participación ciudadana, así como para fomentar la cultura de la legalidad y la cultura política;
 
-XIV. Prestar apoyo y asesoría en materia técnico jurídica a las Dependencias y Entidades de la Administración Pública Estatal o a los Municipios que lo soliciten, sin perjuicio de sus competencias;
+XIV. Coordinar la ejecución de la política con perspectiva de género y de los Programas Estatales para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, considerando la participación de las Dependencias y Entidades de la Administración Pública Estatal;
 
-XV. Ejercer las atribuciones conferidas en la Ley del Periódico Oficial del Estado de Aguascalientes;
+XV. Coordinar acciones en materia agraria con los Gobiernos Federal y Municipal, en el ámbito de sus atribuciones;
 
-XVI. Previo acuerdo delegatorio del Gobernador del Estado, expedir, cancelar y revocar las concesiones de competencia estatal, así como expedir los permisos, licencias y autorizaciones que no estén asignadas legalmente a otras Dependencias o Entidades;
+XVI. Otorgar apoyo en materia electoral, de conformidad con las disposiciones legales, en el marco de los convenios que al efecto se celebren con las autoridades electorales;
 
-XVII. Coordinarse con las autoridades competentes en materia de transporte y vialidad en los términos que disponga esta Ley y demás normatividad aplicable;
+XVII. Auxiliar a las autoridades federales en el exacto cumplimiento de la legislación federal en materia de juegos y sorteos; cultos y asociaciones religiosas, así como en las demás que, por disposición de las leyes federales o por virtud de convenios de coordinación, deba intervenir;
 
-XVIII. Tramitar lo relativo al ejercicio de las facultades otorgadas por las leyes al Poder Ejecutivo del Estado, respecto de los nombramientos de los Magistrados adscritos al Poder Judicial del Estado;
+XVIII. Vigilar el cumplimiento de los reglamentos, acuerdos, órdenes, circulares y demás disposiciones del Poder Ejecutivo;
 
-XIX. Vigilar el cumplimiento de las recomendaciones en materia de derechos humanos y proporcionar la adecuada colaboración a las comisiones Nacional y Estatal de Derechos Humanos;
+XIX. Acordar con el Titular del Poder Ejecutivo del Estado la designación y remoción de los Titulares de las unidades jurídicas de las dependencias de la Administración Pública;
 
-XX. Representar al Gobernador del Estado, cuando éste así lo acuerde, en las acciones y controversias a que se refiere el Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como en los demás juicios en que intervenga con cualquier carácter, que no sean de la competencia de otra Dependencia;
+XX. Presidir los trabajos de la Coordinación Jurídica Gubernamental, integrada por los responsables de las unidades de asuntos jurídicos de las Dependencias y Entidades de la Administración Pública Estatal;
 
-XXI. Intervenir en los procedimientos de expropiación, ocupación temporal o limitación de dominio, por causa de utilidad pública, de conformidad a la legislación aplicable;
+XXI. Revisar los proyectos de iniciativas de leyes y decretos, reglamentos, acuerdos, nombramientos, resoluciones, convenios y demás instrumentos de carácter jurídico, a efecto de someterlos a consideración del Gobernador del Estado;
 
-XXII. Dar trámite legal a los recursos administrativos que competa resolver al Gobernador del Estado, cuando éste así lo acuerde y no sean competencia de otra Dependencia;
+XXII. Dar apoyo técnico jurídico al Gobernador del Estado en todos aquellos asuntos que éste le encomiende;
 
-XXIII. Vigilar y controlar lo relativo a la demarcación y conservación de los límites del Estado y sus Municipios;
+XXIII. Coordinar a las Dependencias y Entidades del Poder Ejecutivo en la revisión, actualización y simplificación del orden normativo jurídico, evaluando su aplicación, en particular en materia de igualdad sustantiva, así como procurar la congruencia de los criterios jurídicos de las Dependencias y Entidades;
 
-XXIV. Organizar y vigilar el ejercicio de la fe pública en los casos en que sea delegada por el Gobernador del Estado o delegada por ley a otros funcionarios, así como ejercerla de manera directa cuando así lo disponga la legislación;
+XXIV. Prestar apoyo y asesoría en materia técnico jurídica a las Dependencias y Entidades de la Administración Pública Estatal o a los Municipios que lo soliciten, sin perjuicio de sus competencias;
 
-XXV. Tramitar los nombramientos que para el ejercicio de las funciones notariales expida el Gobernador del Estado; ordenar y practicar visitas de inspección a los Notarios Públicos; otorgar asesorías a los mismos; así como atender y resolver las quejas que contra ellos se presenten;
+XXV. Ejercer las atribuciones conferidas en la Ley del Periódico Oficial del Estado de Aguascalientes;
 
-XXVI. Llevar el libro de registro de Notarios Públicos; auxiliarlos en la profesionalización de la actividad notarial cuando así lo soliciten, organizar el Archivo Notarial del Estado y ejercer las atribuciones que le correspondan como autoridad certificadora en términos de la Ley de la materia;
+XXVI. Previo acuerdo delegatorio del Gobernador del Estado, expedir, cancelar y revocar las concesiones de competencia estatal, así como expedir los permisos, licencias y autorizaciones que no estén asignadas legalmente a otras Dependencias o Entidades;
 
-XXVII. Llevar el registro de firmas de los servidores y fedatarios públicos, así como legalizar las firmas de los mismos;
+XXVII. Coordinarse con las autoridades competentes en materia de transporte y vialidad en los términos que disponga esta Ley y demás normatividad aplicable;
 
-XXVIII. Organizar y vigilar el ejercicio de las funciones inherentes al Registro Civil y al Registro Público de la Propiedad y del Comercio Estatales;
+XXVIII. Tramitar lo relativo al ejercicio de las facultades otorgadas por las leyes al Poder Ejecutivo del Estado, respecto de los nombramientos de los Magistrados adscritos al Poder Judicial del Estado;
 
-XXIX. Coordinar los eventos cívicos del Gobierno del Estado y los actos de honores a la bandera y símbolos patrios;
+XXIX. Vigilar el cumplimiento de las recomendaciones en materia de derechos humanos y proporcionar la adecuada colaboración a las comisiones Nacional y Estatal de Derechos Humanos;
 
-XXX. Administrar y dirigir los Archivos del Estado;
+XXX. Representar al Gobernador del Estado, cuando éste así lo acuerde, en las acciones y controversias a que se refiere el Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como en los demás juicios en que intervenga con cualquier carácter, que no sean de la competencia de otra Dependencia;
 
-XXXI. Ejercer las funciones que en materia laboral corresponden al Poder Ejecutivo;
+XXXI. Intervenir en los procedimientos de expropiación, ocupación temporal o limitación de dominio, por causa de utilidad pública, de conformidad a la legislación aplicable;
 
-XXXII. Coadyuvar con las autoridades federales en la aplicación, ejecución y vigilancia de las normas laborales;
+XXXII. Dar trámite legal a los recursos administrativos que competa resolver al Gobernador del Estado, cuando éste así lo acuerde y no sean competencia de otra Dependencia;
 
-XXXIII. Organizar y dirigir la Procuraduría Local de la Defensa del Trabajo;
+XXXIII. Vigilar y controlar lo relativo a la demarcación y conservación de los límites del Estado y sus Municipios;
 
-XXXIV. Promover y vigilar los programas de capacitación y productividad de los trabajadores;
+XXXIV. Organizar y vigilar el ejercicio de la fe pública en los casos en que sea delegada por el Gobernador del Estado o delegada por ley a otros funcionarios; así como ejercerla de manera directa cuando así lo disponga la legislación;
 
-XXXV. Formular y presentar al Gobernador del Estado, en coordinación con la Secretaría de Seguridad Pública, los planes y programas relativos a la Seguridad de los habitantes y al orden público;
+XXXV. Tramitar los nombramientos que para el ejercicio de las funciones notariales expida el Gobernador del Estado; ordenar y practicar visitas de inspección a los Notarios Públicos; otorgar asesorías a los mismos; así como atender y resolver las quejas que contra ellos se presenten;
 
-XXXVI. Tramitar por acuerdo del Gobernador del Estado las solicitudes de indulto y libertad anticipada;
+XXXVI. Llevar el libro de registro de Notarios Públicos; auxiliarlos en la profesionalización de la actividad notarial cuando así lo soliciten, organizar el Archivo Notarial del Estado y ejercer las atribuciones que le correspondan como autoridad certificadora en términos de la Ley de la materia;
 
-> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
+XXXVII. Llevar el registro de firmas de los servidores y fedatarios públicos, así como legalizar las firmas de los mismos;
 
-XXXVII. Dirigir y coordinar los trabajos del Centro de Evaluación y Control de Confianza del Estado de Aguascalientes, cuyos dictámenes se turnarán a las Dependencias competentes para el análisis y sanción que corresponda, según el caso, asimismo informar y responder ante el Consejo Estatal de Seguridad Pública en las sesiones ordinarias de éste;
+XXXVIII. Organizar y vigilar el ejercicio de las funciones inherentes al Registro Civil y al Registro Público de la Propiedad y del Comercio Estatales;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+XXXIX. Coordinar los eventos cívicos del Gobierno del Estado y los actos de honores a la bandera y símbolos patrios;
 
-XXXVIII. Conducir y poner en ejecución, en coordinación con las autoridades municipales, las políticas y programas de protección civil, y concertar con instituciones y organismos de los sectores social y privado, las acciones conducentes;
+XL. Administrar y dirigir los Archivos del Estado;
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2014)</small>
+XLI. Ejercer las funciones que en materia laboral corresponden al Poder Ejecutivo;
 
-XXXIX. Coordinar y supervisar la unidad de firma electrónica a que se refiere el Artículo 2°, Fracción XVI de la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes;
+XLII. Coadyuvar con las autoridades federales en la aplicación, ejecución y vigilancia de las normas laborales;
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2014)</small>
+XLIII. Organizar y dirigir la Procuraduría Local de la Defensa del Trabajo;
 
-XL. Vigilar el cumplimiento de las normas relativas a la capacitación y adiestramiento de los trabajadores;
+XLIV. Promover y vigilar los programas de capacitación y productividad de los trabajadores;
 
-> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2014)</small>
+XLV. Formular y presentar al Gobernador del Estado, en coordinación con la Secretaría de Seguridad Pública, los planes y programas relativos a la Seguridad de los habitantes y al orden público;
 
-XLI. Prestar asistencia jurídica gratuita a los sindicatos o trabajadores que lo soliciten y representarlos ante los tribunales del trabajo;
+XLVI. Tramitar por acuerdo del Gobernador del Estado las solicitudes de indulto y libertad anticipada;
 
-> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2014)</small>
+XLVII. Conducir y poner en ejecución, en coordinación con las autoridades municipales, las políticas y programas de protección civil, y concertar con instituciones y organismos de los sectores social y privado, las acciones conducentes;
 
-XLII. Promover y apoyar el incremento de la calidad y la productividad;
+XLVIII. Coordinar y supervisar la unidad de firma electrónica a que se refiere el Artículo 2°, Fracción XVI de la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes;
 
-> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2014)</small>
+XLIX. Vigilar el cumplimiento de las normas relativas a la capacitación y adiestramiento de los trabajadores;
 
-XLIII. Fomentar y apoyar la organización para el trabajo y el autoempleo;
+L. Prestar asistencia jurídica gratuita a los sindicatos o trabajadores que lo soliciten y representarlos ante los tribunales del trabajo;
 
-> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2014)</small>
+Ll. Promover y apoyar el incremento de la calidad y la productividad;
 
-XLIV. Impulsar y apoyar el desarrollo social, cultural y recreativo de los trabajadores y sus familias;
+Lll. Fomentar y apoyar la organización para el trabajo y el autoempleo;
 
-> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2014)</small>
+LIII. Impulsar y apoyar el desarrollo social, cultural y recreativo de los trabajadores y sus familias;
 
-XLV. Organizar el Servicio Estatal de Empleo, a efecto de promover los servicios de vinculación, promoción del autoempleo, asistencia técnica y capacitación orientados al incremento de la calidad, la productividad y la competitividad de las empresas; y
+LIV. Organizar el Servicio Estatal de Empleo, a efecto de promover los servicios de vinculación, promoción del autoempleo, asistencia técnica y capacitación orientados al incremento de la calidad, la productividad y la competitividad de las empresas; y
 
-> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2014)</small>
-
-XLVI. Ejercer las atribuciones y facultades que le señalen las demás leyes, códigos, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
+LV. Ejercer las atribuciones y facultades que le señalen las demás leyes, códigos, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo.
 
 #### SECCIÓN SEGUNDA. De la Secretaría de Seguridad Pública
 
@@ -575,9 +593,9 @@ A la Secretaría de Seguridad Pública le corresponde el despacho de los siguien
 
 l. Salvaguardar la integridad, los derechos, las libertades y el patrimonio de las personas, así como preservar el orden público y la paz social en el Estado;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
-II. Elaborar, en coordinación con la Secretaría de Gobierno, los planes y programas relativos a la Seguridad de los habitantes, al orden público, a la reinserción social y a la prevención de los hechos delictivos, para someterlos a consideración del Titular del Poder Ejecutivo del Estado, así como coordinar, dar seguimiento y evaluar su ejecución;
+II. Elaborar, en coordinación con la Secretaría General de Gobierno, los planes y programas relativos a la Seguridad de los habitantes, al orden público, a la reinserción social y a la prevención de los hechos delictivos, para someterlos a consideración del Titular del Poder Ejecutivo del Estado, así como coordinar, dar seguimiento y evaluar su ejecución;
 
 III. Participar en el Sistema Nacional de Seguridad Pública, en los términos de la legislación aplicable, y contribuir en el ámbito de su competencia a la efectiva coordinación del mismo;
 
@@ -675,17 +693,23 @@ A la Secretaría de Finanzas le corresponde, además de las atribuciones que exp
 
 I. Dirigir, coordinar, controlar y evaluar la política en materia económica, fiscal, administrativa, presupuestaria y de deuda pública del Estado;
 
-II. Formular y presentar al Gobernador del Estado, a través del Jefe de Gabinete, los proyectos de leyes, reglamentos y demás disposiciones de carácter general que se requieran para la planeación, programación, presupuestación y evaluación del gasto público, así como de la actividad económica, financiera, administrativa, fiscal y de deuda pública del Estado;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
-III. Elaborar y presentar al Gobernador del Estado, conjuntamente con el Jefe de Gabinete, los proyectos anuales de Ley de Ingresos y Presupuesto de Egresos del Estado;
+II. Formular y presentar al Gobernador del Estado, los proyectos de leyes, reglamentos y demás disposiciones de carácter general que se requieran para la actividad económica, financiera, administrativa, fiscal y de deuda pública del Estado;
 
-IV. Intervenir en la elaboración y proponer para firma del Gobernador del Estado, a través del Jefe de Gabinete, los Convenios de Coordinación Fiscal o Colaboración Administrativa, y sus respectivos anexos, con la Secretaría de Hacienda y Crédito Público del Gobierno Federal;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
+
+III. Elaborar y presentar al Gobernador del Estado, los proyectos anuales de Ley de Ingresos y Presupuesto de Egresos del Estado;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
+
+IV. Intervenir en la elaboración y proponer para firma del Gobernador del Estado, los Convenios de Coordinación Fiscal o Colaboración Administrativa, y sus respectivos anexos, con la Secretaría de Hacienda y Crédito Público del Gobierno Federal;
 
 V. Inscribir, en el ámbito de su competencia, Convenios de Coordinación y Colaboración con otras Dependencias y Entidades Federales, con los municipios del Estado o con otros Estados;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
-VI. Intervenir en la elaboración y proponer para firma del Gobernador del Estado, a través del Jefe de Gabinete, los Convenios de Coordinación Fiscal o Colaboración Administrativa, y sus respectivos anexos, con la Secretaría de Hacienda y Crédito Público del Gobierno Federal, o con los Municipios del Estado.
+VI. Ejercer las atribuciones que deriven de los Convenios de Coordinación Fiscal o Colaboración Administrativa o Administración y sus anexos, celebrados por el Gobierno del Estado con la Secretaría de Hacienda y Crédito Púbico del Gobierno Federal, o con los Municipios del Estado;
 
 VII. Recaudar los ingresos ordinarios y extraordinarios que conforme a las disposiciones jurídicas vigentes correspondan al Estado;
 
@@ -745,7 +769,9 @@ XXVIII. Presentar al Gobernador del Estado para su acuerdo, la cancelación de c
 
 XXIX. Establecer las políticas, lineamientos, normas y reglas sobre los subsidios que conceda el Poder Ejecutivo, a través de sus Dependencias o Entidades, a instituciones o personas físicas o morales;
 
-XXX. Definir y presentar al Gobernador del Estado, por conducto del Jefe de Gabinete, para su aprobación, los criterios y montos de estímulos fiscales, subsidios, apoyos y ayudas, en coordinación con las Dependencias y Entidades competentes, en materia de fomento de actividades productivas y de interés público;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
+
+XXX. Definir y presentar al Gobernador del Estado, para su aprobación, los criterios y montos de estímulos fiscales, subsidios, apoyos y ayudas, en coordinación con las Dependencias y Entidades competentes, en materia de fomento de actividades productivas y de interés público;
 
 XXXI. Otorgar y suscribir títulos y valores, así como suscribir, en concurrencia con el Gobernador del Estado, obligaciones bursátiles, bonos de deuda y valores afines;
 
@@ -753,11 +779,11 @@ XXXII. Llevar cuenta y registro de las operaciones financieras efectuadas por el
 
 XXXIII. Emitir o autorizar, según el caso, los catálogos de cuentas para la contabilidad del gasto público del Estado;
 
-XXXIV. Realizar la evaluación anual del ejercicio del gasto público y del Presupuesto de Egresos del Estado, de acuerdo con las leyes correspondientes;
+XXXIV. (DEROGADA, P.O. 3 DE AGOSTO DE 2015)
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
-XXXV. Establecer los principios rectores y la política a seguir para la correcta administración del catastro de los bienes inmuebles ubicados en el territorio del Estado, en coordinación con el Instituto Catastral y participar con la Secretaría de Gobierno, en la emisión de lineamientos que permitan normar, coordinar, implementar, desarrollar y unificar las bases de datos de manera electrónica, entre el mencionado Instituto Catastral y el Registro Público de la Propiedad y del Comercio;
+XXXV. Establecer los principios rectores y la política a seguir para la correcta administración del catastro de los bienes inmuebles ubicados en el territorio del Estado, en coordinación con el Instituto Catastral y participar con la Secretaría General de Gobierno, en la emisión de lineamientos que permitan normar, coordinar, implementar, desarrollar y unificar las bases de datos de manera electrónica, entre el mencionado Instituto Catastral y el Registro Público de la Propiedad y del Comercio;
 
 > <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
@@ -777,11 +803,13 @@ XXXIX. Ejercer las atribuciones y facultades que le señalen las demás leyes, c
 
 XL. Fungir como fideicomitente único de la Administración Pública Centralizada en los fideicomisos constituidos por el Gobierno del Estado, así como autorizar aquellos que se constituyan, se modifiquen o se extingan por las entidades de la Administración Pública Paraestatal; así como recibir de las entidades paraestatales fideicomitentes, la información sobre el manejo del patrimonio fiduciario.
 
-#### SECCIÓN CUARTA. De la Procuraduría General de Justicia
+> <small>(DEROGADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE AGOSTO DE 2015)</small>
+
+#### SECCIÓN CUARTA
 
 ###### ARTÍCULO 32.
 
-La Procuraduría General de Justicia es el órgano al que le corresponde ejercer las atribuciones y facultades conferidas al Ministerio Público en la Constitución Política de los Estados Unidos Mexicanos, la propia del Estado de Aguascalientes, la Ley Orgánica de la Procuraduría General de Justicia y en las demás disposiciones jurídicas vigentes en el Estado, así como aquellas funciones que expresamente le confiera el Gobernador del Estado.
+(DEROGADO, P.O. 3 DE AGOSTO DE 2015)
 
 #### SECCIÓN QUINTA. De la Secretaría de Desarrollo Económico
 
@@ -991,7 +1019,9 @@ XXI. Promover el ordenamiento ecológico general del territorio del Estado;
 
 XXII. Establecer, en coordinación con los municipios, los criterios ecológicos para la planeación ambiental, definiendo la vocación de las zonas o regiones, en función de sus recursos naturales, la distribución de la población y las actividades económicas predominantes, a fin de preservar el equilibrio entre recursos, población y factores económicos;
 
-XXIII. Coadyuvar con la Secretaría de Gobierno, en la coordinación de las Dependencias y Entidades de la Administración Pública Estatal para la realización de las acciones conducentes, cuando exista peligro para el equilibrio ecológico de alguna zona o región del Estado, como consecuencia de desastres producidos por fenómenos naturales o por caso fortuito o fuerza mayor;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
+
+XXIII. Coadyuvar con la Secretaría General de Gobierno, en la coordinación de las Dependencias y Entidades de la Administración Pública Estatal para la realización de las acciones conducentes, cuando exista peligro para el equilibrio ecológico de alguna zona o región del Estado, como consecuencia de desastres producidos por fenómenos naturales o por caso fortuito o fuerza mayor;
 
 XXIV. Crear y administrar viveros de árboles y flores, así como brindar el apoyo en la reforestación del territorio del Estado;
 
@@ -1113,9 +1143,9 @@ XXX. Establecer y coordinar, conforme a las disposiciones jurídicas aplicables,
 
 XXXI. Estudiar, planear y controlar el servicio público de transporte en todas sus modalidades; el servicio público especializado y el servicio público de estacionamiento y terminales de jurisdicción estatal, sin perjuicio de la competencia de los Municipios;
 
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
-XXXII. Integrar los expedientes para la tramitación de los permisos y concesiones que otorgue el Gobernador del Estado, para la prestación de servicios de autotransporte en las carreteras del Estado y vías de jurisdicción Estatal, previo cumplimiento de lo dispuesto en la ley de la materia, y remitirlos al Secretario de Gobierno;
+XXXII. Integrar los expedientes para la tramitación de los permisos y concesiones que otorgue el Gobernador del Estado, para la prestación de servicios de autotransporte en las carreteras del Estado y vías de jurisdicción Estatal, previo cumplimiento de lo dispuesto en la ley de la materia, y remitirlos al Secretario General de Gobierno;
 
 > <small>(ADICIONADA, P.O. 25 DE MAYO DE 2015)</small>
 
@@ -1417,7 +1447,9 @@ VII. Supervisar, en coordinación con la Secretaría de Fiscalización y Rendici
 
 VIII. Coordinar la Planeación Operativa Anual;
 
-IX. Coordinar la planeación de la obra pública de manera conjunta con las Secretarías de Infraestructura y Comunicaciones, Gestión Urbanística y Ordenamiento Territorial, y la de Bienestar y Desarrollo Social, y proponerla al Gobernador del Estado por conducto del Jefe de Gabinete;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
+
+IX. Coordinar la planeación de la obra pública de manera conjunta con las Secretarías de Infraestructura y Comunicaciones, Gestión Urbanística y Ordenamiento Territorial, y la de Bienestar y Desarrollo Social, y proponerla al Gobernador del Estado;
 
 X. Orientar a las Dependencias y Entidades del Poder Ejecutivo, para que sus programas y acciones concurran al cumplimiento de los objetivos y metas contenidas en el Plan de Desarrollo del Estado;
 
@@ -1497,9 +1529,13 @@ V. Tramitar los nombramientos, remociones, licencias, renuncias y cualquier otra
 
 VI. Integrar, elaborar y remitir a la Secretaría de Finanzas para su pago, la nómina de los servidores públicos de las Dependencias de la Administración Pública Estatal, efectuando las retenciones fiscales y practicando los descuentos que legalmente correspondan;
 
-VII. Autorizar, previo acuerdo con el Jefe de Gabinete, las propuestas de creación de nuevas áreas en las Dependencias de la Administración Pública Estatal que no se encuentran previstas en este ordenamiento;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
-VIII. Firmar conjuntamente con el Gobernador del Estado y el Jefe de Gabinete los nombramientos de los Servidores Públicos de la Administración Pública Estatal;
+VIl. Autorizar las propuestas de creación de nuevas áreas en las Dependencias de la Administración Pública Estatal que no se encuentran previstas en este ordenamiento;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
+
+VIII. Firmar conjuntamente con el Gobernador del Estado y el Secretario General de Gobierno los nombramientos de los Servidores Públicos de la Administración Pública Estatal;
 
 IX. Planear y programar en coordinación con los Titulares de las Dependencias la selección, contratación y capacitación del personal y llevar los registros del mismo; controlar su asistencia, licencias, permisos y vacaciones; otorgar becas y otros estímulos y promover actividades socioculturales y deportivas para los trabajadores al servicio del Estado;
 
@@ -1565,7 +1601,9 @@ V. Vigilar, fiscalizar e inspeccionar el ejercicio del gasto público de la Admi
 
 VI. Coordinar, controlar y evaluar a las contralorías internas de las Dependencias y a los órganos de control y vigilancia de las Entidades, emitir los lineamientos para su actuación e informar sobre su actuación al Titular del Poder Ejecutivo del Estado;
 
-VII. Acordar con el Titular del Poder Ejecutivo del Estado y el Jefe de Gabinete la designación y remoción de los Contralores Internos en las Dependencias del Poder Ejecutivo y de los comisarios o sus equivalentes, en los órganos de vigilancia de los consejos o juntas de gobierno y administración de las Entidades del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
+
+VIl. Acordar con el Titular del Poder Ejecutivo del Estado la designación y remoción de los Contralores Internos en las Dependencias del Poder Ejecutivo y de los comisarios o sus equivalentes, en los órganos de vigilancia de los consejos o juntas de gobierno y administración de las Entidades del Poder Ejecutivo;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -1579,7 +1617,9 @@ IX. Medir el impacto social de la gestión pública;
 
 X. Llevar a cabo la evaluación sistemática del ejercicio de los recursos propiedad del Estado y aquellos que por cualquier concepto tenga bajo su responsabilidad;
 
-XI. Informar al Jefe de Gabinete sobre el resultado de la evaluación, fiscalización y auditoría de las Dependencias y Entidades del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
+
+XI. Informar al Gobernador del Estado sobre el resultado de la evaluación, fiscalización y auditoría de las Dependencias y Entidades del Poder Ejecutivo;
 
 XII. Llevar el inventario de los bienes muebles e inmuebles al cuidado o propiedad de la Administración Pública Estatal; supervisar el correcto uso y estado de conservación de los mismos, e informar a la Secretaría de Finanzas cualesquier aspecto que pudiera afectar el registro de la propiedad sobre los mismos;
 
@@ -2104,3 +2144,43 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de "personas con discapacidad".
+
+P.O. 3 DE AGOSTO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, salvo lo señalado en el siguiente Artículo.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas, adiciones y derogaciones a los Artículos 3°; 6°; 8°; 10; 11; 12; 12 bis; 13; 14; 15; 24; a la Sección Primera del Capítulo III; los Artículos 29; 30; 31; 35; 36; 41; 42; y 43 entrarán en vigor en la misma fecha en que inicie su vigencia el Decreto número 217 aprobado por el Pleno Legislativo el 23 de julio del 2015 y por el cual se deroga la fracción XIV del Articulo 27; se reforman los Artículos 42; 43; 45; 46, Fracción X; la denominación del Capítulo Undécimo, quedando como "Del Secretario General de Gobierno"; los Artículos 48; 49; 50; 57, Fracción II; y 91 de la Constitución Política del Estado de Aguascalientes. La reforma al Artículo 7° del presente Decreto, iniciará su vigencia el 1° de enero del 2016.
+
+###### ARTÍCULO TERCERO.
+
+Para efectos de garantizar el adecuado funcionamiento de la Fiscalía General del Estado y realizar las transferencias ordenadas en el Artículo Séptimo Transitorio del Decreto Número 69 publicado en el Periódico Oficial del Estado el 28 de julio del 2014 y en el Artículo Sexto Transitorio del Decreto Número 203 publicado en el Periódico Oficial del Estado el 22 de junio del 2015, durante el ejercicio fiscal 2015 y con cargo al presupuesto contemplado para la Procuraduría General de Justicia del Estado en el Presupuesto de Egresos del Estado para el Ejercicio Fiscal 2015, se pagarán todas las prestaciones del personal que será transferido a la Fiscalía General del Estado, y se realizarán los pagos correspondientes a la contratación de obras, adquisiciones de bienes muebles, arrendamientos de bienes muebles e inmuebles y contratación de servicios que serán transferidos a favor de dicho órgano autónomo, en el entendido que mientras se realizan las transferencias, la Fiscalía General del Estado será la beneficiaria tanto de los servicios del personal como de los bienes y servicios que se adquieran durante la transición.
+
+Las transferencias de recursos financieros, humanos y materiales que pasarán de la Procuraduría General de Justicia del Estado a la Fiscalía General del Estado, se realizarán observando todos los procedimientos exigidos por las normas jurídicas aplicables, y dichas transferencias deberán concluir a más tardar el día 1° de enero de 2016, sujetándose a lo siguiente:
+
+I. En tanto los recursos humanos son transferidos a la Fiscalía General del Estado, ésta recibirá los servicios de aquellos y la Oficialía Mayor del Estado integrará y elaborará la nómina de los servidores públicos y la remitirá a la Secretaría de Finanzas para su pago como si se tratara de la Procuraduría General de Justicia del Estado.
+
+Los servidores públicos que sean ratificados y nombrados por el Fiscal General del Estado durante este periodo de transferencia continuarán percibiendo los salarios y prestaciones económicas a las que tienen derecho por ejercicio de sus cargos, para tal efecto la Oficialía Mayor del Estado los integrará a la nómina que para tal efecto destine y la remitirá a la Secretaría de Finanzas para su pago como si se tratara de la Procuraduría General de Justicia del Estado.
+
+De igual forma, el personal de nuevo ingreso que necesite la Fiscalía General del Estado durante la transferencia, será contratado por el Poder Ejecutivo del Estado para su posterior transferencia, y mientras esta ocurra, se deberá de integrar a la nómina correspondiente que para tal efecto destine la Oficialía Mayor del Estado y la remitirá a la Secretaría de Fianzas para su pago como si se tratara de la Procuraduría General de Justicia del Estado.
+
+II. Las obligaciones laborales de la Procuraduría General de Justicia del Estado, incluidas las derivadas de laudos o resoluciones emitidas por las autoridades competentes en materia laboral, serán asumidas por la Fiscalía General del Estado, respetando los derechos de los trabajadores, en términos de las disposiciones que sean aplicables; y
+
+III. En tanto los recursos materiales son transferidos a la Fiscalía General del Estado, ésta recibirá su uso y disfrute, sin más límite que los establecidos en las normas aplicables.
+
+Los ingresos contemplados en la Ley de Ingresos del Estado de Aguascalientes para el ejercicio fiscal 2015 para Procuraduría General de Justicia del Estado, serán recaudados por la Secretaría de Finanzas del Estado hasta el 31 de diciembre del año 2015.
+
+Cuando resulte aplicable, los trámites para que en el Poder Ejecutivo se realicen las contrataciones o pagos correspondientes, serán suscritos por el servidor público encargado de las funciones administrativas de la Fiscalía General del Estado, como si se tratara de la Procuraduría General de Justicia del Estado.
+
+En términos de lo anteriormente dispuesto, el Poder Ejecutivo del Estado, dentro del ejercicio fiscal 2015, estará facultado para contratar recursos humanos y realizar procedimientos de contratación de obras, adquisiciones de bienes muebles, arrendamientos de bienes muebles e inmuebles y contratación de servicios como si se tratara de la Procuraduría General de Justicia del Estado.
+
+###### ARTÍCULO CUARTO.
+
+El Poder Ejecutivo deberá realizar las adecuaciones administrativas y reglamentarias correspondientes en un plazo no mayor a 360 días contados a partir de la entrada en vigencia de las reformas a la legislación aplicable.
+
+###### ARTÍCULO QUINTO.
+
+Las disposiciones normativas que refieran a la Secretaría de Gobierno o Secretario de Gobierno, se entenderán hechas a la Secretaría General de Gobierno o al Secretario General de Gobierno, según correspondan.
