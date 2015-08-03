@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-51-2009-del-pleno-del-consejo-de-la-70472"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-10-21"
-last_updated: "2014-08-29"
+last_updated: "2015-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70472&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-09-30"
 
 ACUERDO GENERAL 51/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO AUXILIAR DE LA NOVENA REGIÓN, CON RESIDENCIA EN ZACATECAS, ZACATECAS, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE AGOSTO DE 2015.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 21 de octubre de 2009.
 
@@ -55,25 +55,21 @@ En consecuencia, con fundamento en los artículos constitucionales y legales inv
 
 ACUERDO
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL 27/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 38/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE AGOSTO DE 2015)</small>
 
-PRIMERO. CONFORMACION, UBICACION, COMPETENCIA Y DENOMINACION. Se crea el Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, conformado por dos tribunales colegiados Auxiliares y cinco juzgados de Distrito Auxiliares, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
+PRIMERO. CONFORMACION, UBICACION, COMPETENCIA Y DENOMINACION. El Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, está conformado por dos tribunales colegiados Auxiliares y cuatro juzgados de Distrito Auxiliares, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación es la siguiente:
 
-Juzgado Primero de Distrito del Centro Auxiliar de la Novena Región.
+I. Juzgado Primero de Distrito del Centro Auxiliar de la Novena Región.
 
-Juzgado Segundo de Distrito del Centro Auxiliar de la Novena Región.
+II. Juzgado Segundo de Distrito del Centro Auxiliar de la Novena Región.
 
-Juzgado Tercero de Distrito del Centro Auxiliar de la Novena Región.
+III. Juzgado Tercero de Distrito del Centro Auxiliar de la Novena Región.
 
-Juzgado Cuarto de Distrito del Centro Auxiliar de la Novena Región.
+IV. Juzgado Cuarto de Distrito del Centro Auxiliar de la Novena Región.
 
-Juzgado Quinto de Distrito del Centro Auxiliar de la Novena Región.
+V. Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Novena Región.
 
-Los tribunales colegiados se denominarán:
-
-Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Novena Región.
-
-Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Novena Región.
+VI. Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Novena Región.
 
 SEGUNDO. INICIO DE FUNCIONES Y DOMICILIO. El Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, iniciará funciones el uno de noviembre de dos mil nueve.
 
@@ -184,3 +180,55 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá incorporar de inmediato, el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito. Asimismo, la reforma al Acuerdo General 51/2009, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, así como los órganos jurisdiccionales que lo integrarán.
+
+D.O.F. 3 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de agosto de dos mil quince, con excepción de lo previsto en el transitorio CUARTO, el cual entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Para conformar la plantilla del Segundo Tribunal Unitario del Vigésimo Tercer Circuito, la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal, vigilará que el personal del órgano jurisdiccional auxiliar que se transforma, se integre al referido Tribunal, respetando sus derechos laborales.
+
+CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional materia de este Acuerdo, de la infraestructura y equipamiento necesario para el desempeño de sus funciones, y llevará a cabo las acciones necesarias para realizar oportunamente la transformación del órgano jurisdiccional de que se trata.
+
+QUINTO. Se reforman los numerales SEGUNDO, fracción XXIII, número 2; y QUINTO, número 9 del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. …
+
+I. a XXII. …
+
+XXIII. …
+
+1. ...
+
+2. Dos tribunales unitarios con sede en Zacatecas.
+
+3. …
+
+XXIV. a XXXII. …
+
+QUINTO. …
+
+1. a 8. …
+
+9. El Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, se integrará por dos tribunales colegiados de Circuito Auxiliares y cuatro juzgados de Distrito Auxiliares.
+
+10. a 11. …
+
+…”
+
+SEXTO. Se reforma el numeral PRIMERO del Acuerdo General 51/2009 del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, así como los órganos jurisdiccionales que lo integrarán, para quedar como sigue:
+
+“PRIMERO. CONFORMACION, UBICACION, COMPETENCIA Y DENOMINACION. El Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, está conformado por dos tribunales colegiados Auxiliares y cuatro juzgados de Distrito Auxiliares, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación es la siguiente:
+
+I. Juzgado Primero de Distrito del Centro Auxiliar de la Novena Región.
+
+II. Juzgado Segundo de Distrito del Centro Auxiliar de la Novena Región.
+
+III. Juzgado Tercero de Distrito del Centro Auxiliar de la Novena Región.
+
+IV. Juzgado Cuarto de Distrito del Centro Auxiliar de la Novena Región.
+
+V. Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Novena Región.
+
+VI. Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Novena Región.”
