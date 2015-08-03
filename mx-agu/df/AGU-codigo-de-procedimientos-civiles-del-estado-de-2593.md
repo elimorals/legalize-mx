@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "2015-07-27"
+last_updated: "2015-08-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2015.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -1629,11 +1629,11 @@ Confesada expresamente la demanda en todas sus partes o manifestando el actor su
 
 Si las cuestiones controvertidas fueren puramente de derecho, se pondrán los autos a disposición de las partes para alegatos, por el término común de seis días. Lo dispuesto en este artículo no es aplicable en los juicios o procedimientos en cuya resolución se afecten intereses de menores o incapacitados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2015)</small>
 
-En los casos de divorcio, si los cónyuges llegan a un acuerdo respecto al convenio, el Juez dictará un auto en el cual decrete la disolución del vínculo matrimonial y la aprobación del convenio, sin necesidad de dictar sentencia.
+En los casos de divorcio, si los cónyuges llegan a un acuerdo respecto al convenio, el Juez dictará sentencia en la cual decrete la disolución del vínculo matrimonial y la aprobación del convenio.
 
 ###### ARTICULO 233.
 
@@ -2441,11 +2441,11 @@ En el propio auto en que el Juez admita las pruebas que se ofrezcan, se citará 
 
 Antes de recibir las pruebas que se hayan admitido, se intentará la conciliación de las partes mediante el arbitraje del Juez, en términos de lo establecido por el Artículo 69 de este Código. Si no se llega a un acuerdo se continuará con la audiencia en los términos previstos en el párrafo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2015)</small>
 
-Tratándose de divorcio, el Juez lo decretará una vez que se haya contestado la solicitud presentada o en su defecto, haya precluido el término para contestarla. En caso de diferencias en los convenios propuestos, el Juez, dentro de los cinco días siguientes, citará a las partes para promover el acuerdo entre las pretensiones expuestas en los citados convenios. De no ser así, se procederá en los términos del artículo 295 del Código Civil y el Título Séptimo del presente Código.
+Tratándose de divorcio, el Juez lo decretará una vez que se haya contestado la solicitud presentada o en su defecto, haya precluido el término para contestarla. En caso de diferencias en los convenios propuestos, el Juez, dentro de los cinco días siguientes, citará a las partes para promover el acuerdo entre las pretensiones expuestas en los citados convenios y de no lograrlo, procederá en términos del Artículo 295 del Código Civil y el Título Séptimo del presente Código, asimismo, exhortará a las partes a que acudan al Centro de Mediación del Poder Judicial para que intenten conciliar los aspectos del convenio en los que no exista acuerdo.
 
 ###### ARTICULO 354.
 
@@ -6287,6 +6287,12 @@ P.O. 22 DE JUNIO DE 2015.
 
 El presente Decreto iniciará su vigencia a los treinta días hábiles siguientes al de su publicación en el Periódico Oficial del Estado de Aguascalientes, quedando sin efecto todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2015)</small>
+
+Por lo que hace a los juicios de divorcio en trámite, será potestativo para cualquiera de las partes acogerse a las reformas establecidas en el presente Decreto, para lo cual se tendrá que presentar la propuesta de convenio referido en el Artículo 289 del Código Civil. En caso de que los cónyuges no logren un acuerdo respecto a dicho convenio, las cuestiones controvertidas se sustanciarán vía incidental en términos de lo dispuesto por el Artículo 295 del Código Civil, y al resolverlas el Juez deberá considerar las pruebas que, en su caso, haya admitido o desahogado antes de la presentación de la propuesta de convenio y que tengan relación con los puntos controvertidos.
+
 P.O. 13 DE JULIO DE 2015.
 
 ###### ARTÍCULO PRIMERO.
@@ -6306,3 +6312,9 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
+
+P.O. 3 DE AGOSTO DE 2015.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor el mismo día en que inicie su vigencia el Decreto 201 publicado en el Periódico Oficial del Estado, el 22 de junio del 2015.
