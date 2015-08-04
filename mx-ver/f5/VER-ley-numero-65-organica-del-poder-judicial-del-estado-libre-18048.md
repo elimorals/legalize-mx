@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-65-organica-del-poder-judicial-del-estado-libre-1804
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-26"
-last_updated: "2013-07-30"
+last_updated: "2015-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY NÚM. 65 ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE JULIO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 583 ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 4 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE AGOSTO DE 2015 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 26 de julio de 2000.
 
@@ -287,11 +289,11 @@ V. Admitir los medios de impugnación y, en su caso, los escritos de terceros in
 
 VI. Someter a la consideración de sus respectivos órganos, cuando proceda, la acumulación de las impugnaciones así como la procedencia de la conexidad, en los términos de las leyes aplicables;
 
-VII. Participar en los programas de capacitación del Instituto de Formación, Capacitación, Especialización y Actualización del Poder Judicial del Estado y (sic);
+VII. Participar en los programas de capacitación del Instituto de Formación, Capacitación, Especialización y Actualización del Poder Judicial del Estado y;
 
 > <small>(REFORMADA, G.O. 11 DE JUNIO DE 2008)</small>
 
-VIII. Participar, cuando no integren Sala o Tribunal, en los programas de visitas a los Juzgados del Estado, implementados por el Consejo de la Judicatura; y (sic)
+VIII. Participar, cuando no integren Sala o Tribunal, en los programas de visitas a los Juzgados del Estado, implementados por el Consejo de la Judicatura; y
 
 > <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
@@ -1097,7 +1099,7 @@ IX. Ejercer su presupuesto bajo los criterios de legalidad, transparencia, honra
 
 X. Presentar ante el Consejo de la Judicatura y el Pleno del Tribunal de lo Contencioso Administrativo, en la tercera semana de noviembre de cada año, un informe por escrito de las actividades realizadas por el órgano jurisdiccional que preside. Este informe se entregará al Congreso del Estado;
 
-XI. Conocer y someter a la consideración de la Sala Superior, las excusas o impedimentos de los Magistrados del Tribunal; y (sic)
+XI. Conocer y someter a la consideración de la Sala Superior, las excusas o impedimentos de los Magistrados del Tribunal; y
 
 > <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1971,7 +1973,7 @@ XXIV. Remitir a los presidentes de los tribunales del poder judicial las solicit
 
 > <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-XXV. Tener bajo su cuidado el Archivo Judicial, para el resguardo de los expedientes que provengan de los Tribunales del Poder Judicial, relativos a procesos concluidos y demás documentos que se reciban y deban archivarse; así como la integración y conservación del acervo de la Biblioteca del Poder Judicial; y (sic)
+XXV. Tener bajo su cuidado el Archivo Judicial, para el resguardo de los expedientes que provengan de los Tribunales del Poder Judicial, relativos a procesos concluidos y demás documentos que se reciban y deban archivarse; así como la integración y conservación del acervo de la Biblioteca del Poder Judicial; y
 
 > <small>(REFORMADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
@@ -1979,7 +1981,7 @@ XXVI. Previa garantía de audiencia, imponer multa de diez a treinta días de sa
 
 > <small>(ADICIONADA, G.O. 27 DE AGOSTO DE 2004)</small>
 
-XXVII. Aceptar donaciones o legados puros y simples en favor de los órganos del Poder Judicial; y (sic)
+XXVII. Aceptar donaciones o legados puros y simples en favor de los órganos del Poder Judicial; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 2 DE JULIO DE 2007)</small>
 
@@ -2133,7 +2135,7 @@ XXI. Vigésimo Primer Distrito: comprende los Municipios de Coatzacoalcos, Tatah
 
 Los municipios designados en primer lugar en cada una de las fracciones del artículo anterior, serán las cabeceras de los Distritos Judiciales.
 
-## TÍTULO SÉPTIMO. Del Fondo Auxiliar para la Administración de Justicia (sic)
+## TÍTULO SÉPTIMO. Del Fondo Auxiliar para la Administración de Justicia
 
 ### CAPÍTULO I. De la Constitución del Fondo Auxiliar
 
@@ -2834,3 +2836,27 @@ G.O. 30 DE JULIO DE 2013.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE AGOSTO DE 2015.
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley Orgánica del Poder Judicial del Estado de Veracruz, publicada en la Gaceta Oficial del Estado de veintiséis de julio de dos mil, y se derogan todas las demás disposiciones que se opongan a la presente Ley, salvo lo dispuesto en el artículo octavo transitorio.
+
+TERCERO. En un plazo no mayor de seis meses, el Poder Judicial del Estado, por conducto de los tribunales que lo integran, así como del Consejo de la Judicatura, deberán aprobar en su caso los reglamentos internos correspondientes.
+
+CUARTO. En un plazo no mayor de tres meses, el Consejo de la Judicatura designará a los titulares de las unidades administrativas previstas en esta Ley.
+
+QUINTO. Los recursos materiales y humanos con que actualmente cuentan el Instituto de Formación, Capacitación, Actualización y Especialización Judicial, así como la Dirección de Carrera Judicial, pasarán a formar parte del Instituto de Capacitación del Poder Judicial del Estado.
+
+SEXTO. El Instituto de Capacitación del Poder Judicial del Estado ejercerá las atribuciones derivadas de las autorizaciones que en materia educativa le fueron otorgadas al Instituto de Formación, Capacitación, Actualización y Especialización Judicial.
+
+SÉPTIMO. Lo previsto en esta Ley, en relación con los jueces en materia de juicios orales, será aplicable de conformidad con el Código Nacional de Procedimientos Penales.
+
+OCTAVO. En tanto inicia sus funciones el Tribunal Electoral del Estado, en términos del decreto de reforma constitucional federal de diez de febrero de dos mil catorce y del decreto de reformas a la Constitución Política del Estado de nueve de enero de dos mil quince, el actual Tribunal Electoral del Poder Judicial del Estado se continuará rigiendo por las disposiciones aplicables contenidas en la Ley Orgánica del Poder Judicial que se abroga, las cuales quedarán sin efecto una vez aprobada la normativa que deba regir la integración y funcionamiento del nuevo órgano jurisdiccional electoral.
+
+NOVENO. Los instructivos de responsabilidad o cuadernillos laborales que se encuentren pendientes de resolución al inicio de la presente Ley, se continuarán tramitando y se resolverán conforme a la legislación que se abroga.
+
+DÉCIMO. En lo relativo a las notificaciones electrónicas, el Consejo de la Judicatura del Estado, además de expedir los lineamientos generales aplicables, determinará en un plazo no mayor a noventa días hábiles, contado a partir de la publicación de esta Ley, los distritos judiciales o juzgados donde deban aplicarse las referidas notificaciones.
+
+DÉCIMO PRIMERO. El personal que actualmente labora en los juzgados de primera instancia en materia penal podrá ser adscrito a los órganos jurisdiccionales de procesos y procedimientos penales orales, siempre y cuando reúnan los requisitos establecidos en la presente Ley. El Consejo de la Judicatura del Estado, conforme a las necesidades del servicio, podrá cambiar de centro de trabajo al referido personal, previa capacitación, sin que afecte los derechos laborales adquiridos.
