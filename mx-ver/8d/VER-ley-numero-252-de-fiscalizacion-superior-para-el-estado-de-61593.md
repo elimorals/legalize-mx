@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-252-de-fiscalizacion-superior-para-el-estado-de-6159
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-06"
-last_updated: "2014-12-19"
+last_updated: "2015-08-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY NÚMERO 252 DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY NÚMERO 584 DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 4 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE AGOSTO DE 2015 (ABROGADA).
 
 Ley publicada en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 6 de junio de 2008.
 
@@ -1170,3 +1172,23 @@ G.O. 19 DE DICIEMBRE DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE AGOSTO DE 2015.
+
+Primero: La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado, salvo por lo que hace a lo señalado en el Transitorio Cuarto de la presente Ley.
+
+Segundo: Se abroga la Ley de Fiscalización Superior del Estado de Veracruz de Ignacio de la Llave, publicada el seis de junio del dos mil ocho en la Gaceta Oficial del Estado, en el número extraordinario 184, así como todas sus reformas y adiciones posteriores, y se derogan todas las disposiciones que se opongan a la presente Ley.
+
+Tercero: Los asuntos que se encuentren en trámite o en proceso ante el Órgano al entrar en vigor esta Ley, se seguirán tramitando hasta su conclusión en los términos del ordenamiento legal mediante el cual se inició el trámite o proceso respectivo.
+
+Cuarto: Las fechas aplicables para la presentación de las Cuentas Públicas y el Informe del Resultado, entrarán en vigor a partir de la Cuenta Pública correspondiente al ejercicio fiscal 2015.
+
+Quinto: El Titular del Órgano, contará con sesenta días a partir de la entrada en vigor de la presente Ley, para emitir el Reglamento Interior.
+
+Sexto: La referencias que se hagan en otras leyes y disposiciones reglamentarias y administrativas, a la Ley de Fiscalización Superior del Estado de Veracruz de Ignacio de la Llave, se entenderán por realizadas a la presente Ley.
+
+Séptimo: Los convenios y contratos que hubiere celebrado el Órgano de Fiscalización Superior con anterioridad a la entrada en vigor de la presente Ley, conservarán su valor y eficacia.
+
+Octavo: Todos los bienes muebles e inmuebles, archivos, expedientes, papeles de trabajo, documentos, recursos presupuestales y humanos con que cuente el Órgano a la entrada en vigor de la presente Ley, continuarán formando parte de su estructura orgánica y patrimonio, en los términos que establezca esta misma y el Reglamento Interior de dicho Órgano.
+
+Noveno: El Titular del Órgano, contará con sesenta días a partir de la entrada en vigor de la presente Ley, para emitir y publicar los lineamientos del SEFISVER.
