@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-transporte-del-estado-de-morelos-100008"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-26"
-last_updated: "2014-03-26"
+last_updated: "2015-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TRANSPORTE DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de marzo de 2014.
 
@@ -987,6 +987,10 @@ d) Renuncia del titular de la concesión, y
 
 e) Pérdida de la nacionalidad mexicana en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2015)</small>
+
+f) Por extinción, liquidación, quiebra o concurso de las personas morales titulares.
+
 ###### Artículo 69.
 
 Las concesiones caducan por:
@@ -1121,7 +1125,7 @@ III. Destinar el diez por ciento de los asientos ofrecidos y ubicarlos en primer
 
 IV. Otorgar la exención de pago o el cincuenta por ciento descuento para personas con discapacidad, personas adultas mayores, y niños menores de tres años, según corresponda a cada caso en particular, y
 
-V. Los operadores del transporte público deberán estar presentables, aseados y uniformados; (sic)
+V. Los operadores del transporte público deberán estar presentables, aseados y uniformados;
 
 ###### Artículo 80.
 
@@ -1932,3 +1936,11 @@ SECRETARIO DE GOBIERNO
 ING. JORGE VICENTE MESSEGUER GUILLÉN
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE AGOSTO DE 2015.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
