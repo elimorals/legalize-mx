@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-registro-civil-del-estado-de-mexico-82418"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-22"
-last_updated: "2011-07-22"
+last_updated: "2015-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DEL REGISTRO CIVIL DEL ESTADO DE MEXICO
 
-REGLAMENTO DEL REGISTRO CIVIL DEL ESTADO DE MEXICO
+REGLAMENTO DEL REGISTRO CIVIL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DEL REGISTRO CIVIL DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 5 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el viernes 22 de julio de 2011.
 
@@ -267,7 +269,7 @@ IX. Integrar y actualizar el catálogo de sellos digitales, firmas autógrafas d
 
 X. Presentar al Director General la propuesta de nuevas tecnologías para el mejor funcionamiento y actualización del resguardo y manejo de la información; y
 
-XI. Las demás que señale el Director General; (sic)
+XI. Las demás que señale el Director General;
 
 ###### Artículo 11.
 
@@ -369,7 +371,7 @@ III. Resguardar y conservar los libros e imágenes microfilmadas y digitalizadas
 
 IV. Elaborar y actualizar los inventarios de los libros del archivo del Registro Civil, en medio impreso o electrónico;
 
-V. Coordinar y verificar que se realicen las reposiciones de las actas y/o libros del archivo del Registro Civil, previa solicitud de los Oficiales o Jefes Regionales, de acuerdo con el Subdirector correspondiente y el Jefe Departamento (sic) Jurídico;
+V. Coordinar y verificar que se realicen las reposiciones de las actas y/o libros del archivo del Registro Civil, previa solicitud de los Oficiales o Jefes Regionales, de acuerdo con el Subdirector correspondiente y el Jefe (sic) Departamento Jurídico;
 
 VI. Vigilar que se realicen oportunamente las anotaciones en las actas de los libros bajo su resguardo;
 
@@ -1407,7 +1409,7 @@ El Director General ordenará las supervisiones que considere necesarias a las O
 
 Las supervisiones tienen por objeto verificar el desempeño de las atribuciones asignadas y la debida observancia de leyes aplicables, por parte de los Jefes de las Oficinas Regionales u Oficiales.
 
-Artículo 138 (SIC).- Las supervisiones se realizarán en horas y días hábiles o en horario extraordinario cuando el caso lo requiera y previa autorización del Director General, con la presencia del titular de la Oficina Regional u Oficialía. Los resultados de la supervisión se anotarán en un acta que será firmada por quienes hayan intervenido en la misma y en la cual deberá asentarse lo manifestado por el Jefe de Oficina Regional u Oficial, con relación a cualquier aspecto de la supervisión.
+Artículo 138 (sic).- Las supervisiones se realizarán en horas y días hábiles o en horario extraordinario cuando el caso lo requiera y previa autorización del Director General, con la presencia del titular de la Oficina Regional u Oficialía. Los resultados de la supervisión se anotarán en un acta que será firmada por quienes hayan intervenido en la misma y en la cual deberá asentarse lo manifestado por el Jefe de Oficina Regional u Oficial, con relación a cualquier aspecto de la supervisión.
 
 #### SECCIÓN SEGUNDA (SIC). SUPERVISIONES TÉCNICAS Y FÍSICAS
 
@@ -1496,3 +1498,17 @@ SECRETARIO GENERAL DE GOBIERNO
 LIC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 5 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Reglamento del Registro Civil del Estado de México, publicado en el Periódico Oficial “Gaceta del Gobierno”, el 22 de junio de 2011.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Acuerdo.
+
+QUINTO. Los actos y procedimientos que se encuentren en trámite al entrar en vigor el presente Reglamento se concluirán conforme a las disposiciones del ordenamiento que se abroga.
