@@ -4,7 +4,7 @@ identifier: "OAX-codigo-fiscal-para-el-estado-de-oaxaca-92358"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-12-22"
-last_updated: "2014-12-27"
+last_updated: "2015-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2015.
 
 Código publicado en la cuarta sección del periódico oficial del Estado de Oaxaca el sábado 22 de diciembre de 2012.
 
@@ -405,13 +405,25 @@ Son créditos fiscales las cantidades que el Estado tenga derecho a percibir, pr
 
 El crédito fiscal se extingue por prescripción en el término de cinco años.
 
-El cómputo del plazo de la prescripción, inicia a partir de la fecha en que el pago del crédito fiscal fijado en cantidad líquida pudo ser legalmente exigido. El término para que opere la prescripción se interrumpe con cada gestión de cobro que el acreedor haga saber al deudor, o por el reconocimiento expreso o tácito de éste respecto de la existencia del crédito, cuando uno u otro se realicen dentro del plazo que en este artículo se señala. De igual manera se interrumpe el plazo para que opere la prescripción con el levantamiento del acta en la que se haga constar las circunstancias de hecho por las que no fue posible la práctica de la diligencia, siempre y cuando cumplan con las formalidades que para la práctica de las notificaciones fiscales establece el propio Código.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2015)</small>
+
+El cómputo del plazo de la prescripción, inicia a partir de la fecha en que el pago del crédito fiscal fijado en cantidad líquida pudo ser legalmente exigido. El término para que opere la prescripción se interrumpe con cada gestión de cobro que el acreedor notifique o haga saber al deudor, o por el reconocimiento expreso o tácito de éste respecto de la existencia del crédito, cuando uno u otro se realicen dentro del plazo que en este artículo se señala. De igual manera se interrumpe el plazo para que opere la prescripción con el levantamiento del acta en la que se haga constar las circunstancias de hecho por las que no fue posible la práctica de la diligencia, siempre y cuando cumplan con las formalidades que para la práctica de las notificaciones fiscales establece el propio Código.
 
 Se considera gestión de cobro cualquier actuación de la autoridad hecha saber al deudor en los términos establecidos en el presente Código dentro del procedimiento administrativo de ejecución, y en el caso de devolución de pago de lo indebido de los contribuyentes, cualquier solicitud debidamente presentada ante las autoridades fiscales, en las que se solicite ésta.
 
 Se suspenderá el plazo para que se configure la prescripción cuando la autoridad se encuentre impedida para realizar gestiones de cobro en los términos de este artículo, debido a la suspensión del procedimiento administrativo de ejecución en términos de lo dispuesto en el artículo 189 de este Código, o cuando la resolución que determinó el crédito fiscal no sea ejecutable en los términos del referido artículo.
 
-La prescripción, sólo se podrá declarar por acción o excepción ejercidas por el deudor.
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2015)</small>
+
+Asimismo, se suspenderá el plazo a que se refiere este artículo cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2015)</small>
+
+El plazo para que se configure la prescripción, en ningún caso, incluyendo cuando este se haya interrumpido, podrá exceder de diez años contados a partir de que el crédito fiscal pudo ser legalmente exigido. En dicho plazo no se computarán los periodos en los que se encontraba suspendido por las causas previstas en este artículo.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2015)</small>
+
+La prescripción, se podrá declarar de oficio por la autoridad, por acción o excepción ejercidas por el deudor.
 
 ###### ARTÍCULO 34.
 
@@ -1140,6 +1152,10 @@ e) Constancia emitida por Colegio Profesional o Asociación que acredite su cali
 Solo serán válidas las constancias que sean expedidas a los contadores públicos por (sic) Colegio Profesional que obtenga el reconocimiento de idoneidad que otorga la Secretaría de Educación Pública; y
 
 f) Experiencia mínima de tres años participando en la elaboración de dictámenes fiscales.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2015)</small>
+
+g) Certificación expedida por los colegios profesionales o asociaciones de contadores públicos, registrados y autorizados por la Secretaría de Educación Pública, solo serán válidas las certificaciones que sean expedidas a los contadores públicos por los organismos certificadores que obtengan el reconocimiento de idoneidad que otorgue la Secretaría de Educación Pública.
 
 La Secretaría proporcionará al contador público que haya cumplido con los requisitos mencionados, su registro correspondiente en un plazo no mayor de quince días hábiles contados a partir de la fecha en que se integró debidamente la solicitud.
 
@@ -3954,3 +3970,7 @@ PRIMERO: El presente Decreto entrará en vigor el uno de enero de dos mil catorc
 P.O. 27 DE DICIEMBRE DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor el uno de enero de dos mil quince, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE AGOSTO DE 2015.
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
