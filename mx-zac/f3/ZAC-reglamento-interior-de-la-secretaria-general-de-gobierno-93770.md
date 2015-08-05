@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-secretaria-general-de-gobierno-93770"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-27"
-last_updated: "2013-03-27"
+last_updated: "2015-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2015.
 
 Reglamento publicado en el Suplemento 14 al Periódico Oficial del Estado de Zacatecas, el miércoles 27 de marzo de 2013.
 
 MIGUEL ALEJANDRO ALONSO REYES, GOBERNADOR DEL ESTADO DE ZACATECAS, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTÍCULOS 82 FRACCIONES II y VI 84 Y 85 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS; 5, 6 y 24 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DE LA ENTIDAD; YA (SIC)
 
-C O N S I D E R A N D O .
+C O N S I D E R A N D O ...
 
 Por lo anteriormente expuesto, he tenido a bien expedir lo siguiente:
 
@@ -135,9 +135,15 @@ XVIII. Otorgar, denegar, suspender, revocar y declarar extinguidos los permisos 
 
 XIX. Autorizar las tarifas conforme a los estudios y elementos de valoración previstos por la Ley de Transporte, Tránsito y Vialidad del Estado de Zacatecas, así mismo, las tarifas especiales para grupos vulnerables y del sector estudiantil en el Estado;
 
-XX. Conceder audiencias al público; y
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2015)</small>
 
-XXI. Las demás disposiciones jurídicas y administrativas aplicables.
+XX. Conceder audiencias al público;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE AGOSTO DE 2015)</small>
+
+XXI. Ejercer las atribuciones que en materia de atención a víctimas le otorga la Ley de Atención a Víctimas del Estado y la reglamentación respectiva; y
+
+XXII. Las demás disposiciones jurídicas y administrativas aplicables.
 
 ###### Artículo 6.
 
@@ -401,7 +407,7 @@ IV. Dirección de Concertación con Organizaciones;
 
 V. Dirección de Atención a Asuntos Agrarios y Territoriales; y
 
-VI. Dirección de Atención Ciudadana; (sic)
+VI. Dirección de Atención Ciudadana;
 
 ###### Artículo 20.
 
@@ -625,7 +631,7 @@ III. Las demás disposiciones jurídicas y administrativas.
 
 Para el mejor desempeño de sus funciones la Dirección de Concertación Política, cuenta con:
 
-I. Subdirección de Análisis Legislativo; (sic)
+I. Subdirección de Análisis Legislativo;
 
 ###### Artículo 32.
 
@@ -639,7 +645,7 @@ II. Las demás disposiciones jurídicas y administrativas aplicables.
 
 Para el mejor desempeño de sus funciones la Dirección de Información y Análisis Político y Social, cuenta con:
 
-I. Subdirección de Análisis Político; (sic)
+I. Subdirección de Análisis Político;
 
 ###### Artículo 34.
 
@@ -801,7 +807,7 @@ XXIV. Una vez identificada la existencia de riesgo o peligro en la entidad, inst
 
 XXV. Elaborar y mantener actualizado un registro de personas físicas o morales que por sus actividades incrementen el nivel de riesgo, remitiéndolo al equipo técnico-científico de la propia Dirección para su estudio, análisis y seguimiento;
 
-XXVI. Emitir opinión respectos (sic) de los permisos, licencias o renovación de las mismas para el manejo de explosivos de conformidad a lo establecido en la Ley Federal de Armas de Fuego y Explosivos; y (sic)
+XXVI. Emitir opinión respectos (sic) de los permisos, licencias o renovación de las mismas para el manejo de explosivos de conformidad a lo establecido en la Ley Federal de Armas de Fuego y Explosivos; y
 
 XXVII. Coordinar las acciones de las instituciones públicas en sus tres niveles, instituciones privadas y sociales para el buen funcionamiento del Sistema Estatal de Protección Civil;
 
@@ -849,7 +855,9 @@ III. Crónica del Estado de Zacatecas;
 
 IV. El Centro de Investigación y Seguridad de Zacatecas; y
 
-V. El Instituto Estatal de Migración.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2015)</small>
+
+V. La Comisión Ejecutiva de Atención Integral a Víctimas.
 
 Las funciones y organización de éstas se establecen en sus Decretos y Acuerdos de Creación y Reglamento Interior respectivo.
 
@@ -906,3 +914,9 @@ MIGUEL ALEJANDRO ALONSO REYES.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 FRANCISCO ESCOBEDO VILLEGAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO</small>
+
+P.O. 5 DE AGOSTO DE 2015.
+
+ÚNICO.- El presente Decreto Gubernativo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
