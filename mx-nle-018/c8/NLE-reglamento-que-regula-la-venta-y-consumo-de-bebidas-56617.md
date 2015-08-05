@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-que-regula-la-venta-y-consumo-de-bebidas-56617"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-03"
-last_updated: "2007-08-03"
+last_updated: "2015-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO QUE REGULA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL MUNICIPIO DE GARCIA, NUEVO LEON
 
-REGLAMENTO QUE REGULA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL MUNICIPIO DE GARCIA, NUEVO LEON
+REGLAMENTO QUE REGULA LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE GARCÍA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO QUE REGULA LOS ESTABLECIMIENTOS DE VENTA, EXPENDIO O CONSUMO DE BEBIDAS ALCOHÓLICAS, PUBLICADO EN EL P.O. DE 5 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de agosto de 2007.
 
@@ -103,13 +105,13 @@ XXVI. Reglamento: El presente Reglamento;
 
 XXVII. Venta de Bebidas Alcohólicas y cerveza: Cualquier acto de comercio que de manera directa o indirecta permita el acceso al consumo y/o posesión de bebidas alcohólicas y cerveza;
 
-XXVIII. Titular, licenciatario y permisionario: Se denomina, a la persona física o moral que aparece en una licencia y permiso temporal; y (sic)
+XXVIII. Titular, licenciatario y permisionario: Se denomina, a la persona física o moral que aparece en una licencia y permiso temporal; y
 
 XXIX. Sanción: Castigo impuesto por la autoridad, en virtud de una acción u omisión;
 
 XXX. Ley de Salud: Legislación vigente en el Estado en materia de salud;
 
-XXXI. Sistemas de venta, consumo o expendio con descuento en precio: Es el ofrecimiento de bebidas alcohólicas, en establecimientos, mediante promociones u ofertas o sistema de barra libre, así como cualquier práctica mediante la cual se puedan vender o consumir bebidas alcohólicas, sin costo, con artículo agregado o con descuento de más del cincuenta por ciento en el precio, o bien, el consumo, expendio u ofrecimiento de bebidas alcohólicas a cambio o incluido en el pago para la admisión a un establecimiento; y (sic)
+XXXI. Sistemas de venta, consumo o expendio con descuento en precio: Es el ofrecimiento de bebidas alcohólicas, en establecimientos, mediante promociones u ofertas o sistema de barra libre, así como cualquier práctica mediante la cual se puedan vender o consumir bebidas alcohólicas, sin costo, con artículo agregado o con descuento de más del cincuenta por ciento en el precio, o bien, el consumo, expendio u ofrecimiento de bebidas alcohólicas a cambio o incluido en el pago para la admisión a un establecimiento; y
 
 XXXII. Medios Publicitarios: Revistas, volantes, mantas, lonas, pinturas en fachadas y/o cualquier otro medio impreso, visual o auditivo;
 
@@ -341,7 +343,7 @@ IX. ServiCar: Se considera al establecimiento cuya venta la realiza en envases o
 
 X. Fabricante o distribuidor mayoritario: Establecimiento mercantil que produce bebidas alcohólicas y cerveza para disponerlos a la venta por cualquier medio. Se incluye en esta categoría a los distribuidores mayoristas de las productoras de las bebidas alcohólicas y cerveza;
 
-XI. Tiendas de autoservicio y supermercados: Se consideran como tales los establecimientos cuya actividad principal es ofrecer al público mediante el sistema de autoservicio, bienes de consumo de primera necesidad, mercancías generales, y además cerveza, vinos y licores en botella cerrada para llevar; y (sic)
+XI. Tiendas de autoservicio y supermercados: Se consideran como tales los establecimientos cuya actividad principal es ofrecer al público mediante el sistema de autoservicio, bienes de consumo de primera necesidad, mercancías generales, y además cerveza, vinos y licores en botella cerrada para llevar; y
 
 ###### ARTÍCULO 17.
 
@@ -425,7 +427,7 @@ XVII. Los titulares de las licencias de bares, cabarets, discotecas, cantinas, c
 
 XVIII. No condicionar la prestación de sus servicios a la venta, expendio o consumo de bebidas alcohólicas.
 
-XIX. Solicitar la acreditación de la mayoría de edad a aquellas personas que pretendan ingerir o adquirir bebidas alcohólicas; y (sic)
+XIX. Solicitar la acreditación de la mayoría de edad a aquellas personas que pretendan ingerir o adquirir bebidas alcohólicas; y
 
 XX. Exhibir un cartel oficial que contenga la leyenda "El consumo abusivo del alcohol puede producir adicciones y graves problemas de salud", en un recuadro rectangular de veinte centímetros de alto por sesenta centímetros de ancho, como mínimo, con fondo blanco y letras en un color contrastante, colocado en un espacio en el que se aprecie por quienes acudan al establecimiento;
 
@@ -577,7 +579,7 @@ X. Acreditar su personalidad jurídica en caso de ser representante legal;
 
 XI. En los giros señalados en los artículos 16 y 17 de este ordenamiento, se requerirá al solicitante acompañe un dictamen de factibilidad de operación emitido por la dependencia competente de Protección Civil Municipal, en el que conste que reúne las condiciones de seguridad necesarias para operar con el giro solicitado;
 
-XII. Ser independiente de cualquier otro local o casa-habitación; y (sic)
+XII. Ser independiente de cualquier otro local o casa-habitación; y
 
 XIII. Carta de no antecedentes penales;
 
@@ -1085,7 +1087,7 @@ VIII. Ofrecer las Pruebas que fueren de su intención;
 
 IX. La expresión de las razones por las cuales recurre el acto, resolución o acuerdo.
 
-X. El recurrente deberá adjuntar al recuso de inconformidad:
+X. El recurrente deberá adjuntar al recurso de inconformidad:
 
 a. El documento que acredite su personalidad, cuando no actúe en nombre propio;
 
@@ -1156,3 +1158,19 @@ LIC. ARNULFO TELLEZ ZAVALA
 C. SECRETARIO DEL AYUNTAMIENTO
 
 Dado en el Salón de Sesiones del R. Ayuntamiento del Municipio de García, Nuevo León, a los 26-veintiséis días del mes de Julio del 2007-dos mil siete.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE AGOSTO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento que Regula la Venta y Consumo de Bebidas Alcohólicas en el Municipio de García, N.L., publicado en el Periódico Oficial del Estado de fecha 03 de Agosto de 2007.
+
+###### ARTÍCULO TERCERO.
+
+Envíese al Periódico Oficial del Estado de Nuevo León para su publicación.
