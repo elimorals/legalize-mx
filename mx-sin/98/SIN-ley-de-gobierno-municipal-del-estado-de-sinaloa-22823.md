@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2015-05-08"
+last_updated: "2015-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2015.
 
 Ley publicada en el Periódico Oficial de Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
@@ -566,6 +566,44 @@ XV. Favorecer la formación del patrimonio familiar;
 XVI. Coadyuvar con las autoridades competentes a la regularización del estado civil de las personas; y
 
 XVII. Intercambiar experiencias y fortalecer relaciones con otros municipios y ciudades u organismos culturales, sociales y deportivos de cualquier nacionalidad, pudiendo designar comités especiales para el efecto.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2015)</small>
+
+###### Artículo 35 Bis.
+
+Son facultades y obligaciones de los ayuntamientos en materia de Desarrollo Social, las siguientes:
+
+I. Participar en el Sistema Nacional de Desarrollo Social de conformidad con la Ley General de Desarrollo Social;
+
+II. Formular y ejecutar el programa municipal de desarrollo social que deberá estar en concordancia con los de los gobiernos federal y estatal;
+
+III. Coordinarse, con los gobiernos federal y estatal, para la ejecución de los programas de desarrollo social;
+
+IV. Coordinar acciones de desarrollo social con los municipios del Estado;
+
+V. Ejercer los fondos y recursos federales descentralizados o convenidos en materia de desarrollo social, en los términos de las leyes respectivas;
+
+VI. Concertar acciones con los sectores social y privado en materia de desarrollo social;
+
+VII. Establecer mecanismos para incluir la participación social organizada en los programas y acciones de desarrollo social;
+
+VIII. Informar a la sociedad sobre las acciones en torno al desarrollo social; y
+
+IX. Las demás que establezcan otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2015)</small>
+
+###### Artículo 35 Ter.
+
+Son facultades y obligaciones de los ayuntamientos en materia de Participación Ciudadana, las siguientes:
+
+I. Fomentar una cultura de la participación ciudadana y crear consejos ciudadanos especializados para la consecución de tal fin;
+
+II. Establecer dentro de los planes municipales de desarrollo, las políticas de gobierno en materia de participación ciudadana;
+
+III. Impulsar la participación ciudadana y comunitaria, en la prevención social de la violencia y la delincuencia, en términos de la Ley para la Prevención Social de la Violencia y la Delincuencia, con Participación Ciudadana del Estado; y
+
+IV. Las demás que establezcan otras disposiciones jurídicas aplicables.
 
 ###### Artículo 36.
 
@@ -1500,3 +1538,9 @@ P.O. 8 DE MAYO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "EI Estado de Sinaloa".
 
 SEGUNDO. Para el debido cumplimiento del presente Decreto, los Ayuntamientos en un plazo de sesenta días naturales posteriores a su publicación, deberán integrar las Comisiones Permanentes y realizar las adecuaciones normativas correspondientes.
+
+P.O. 5 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. Para el debido cumplimiento del presente Decreto, los Ayuntamientos en un plazo de sesenta días naturales posteriores a su publicación, deberán realizar las adecuaciones normativas correspondientes.
