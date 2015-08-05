@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-ley-de-ordenamiento-territorial-y-80273"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-11"
-last_updated: "2011-03-11"
+last_updated: "2015-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS, EN MATERIA DE ORDENAMIENTO TERRITORIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 11 de marzo de 2011.
 
@@ -31,7 +31,7 @@ Al margen izquierdo un sello con el Escudo del Estado de Morelos que dice: "Tier
 
 MARCO ANTONIO ADAME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTÍCULOS 70, FRACCIONES XVII Y XXVI Y 76 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, 2 Y 8 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y 6, FRACCIONES I Y XIII DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS, Y
 
-CONSIDERANDO.
+CONSIDERANDO...
 
 Por lo anteriormente expuesto y fundado, tengo a bien expedir el siguiente:
 
@@ -81,7 +81,9 @@ IV. INFORMACIÓN GEOGRÁFICA: Es una integración organizada de hadware, softwar
 
 V. LEY: Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable del Estado de Morelos, y
 
-VI. SUBCOMISIÓN: La Subcomisión Técnica del Consejo Estatal de Desarrollo Urbano.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2015)</small>
+
+VI. SUBCOMISIÓN: La Subcomisión Técnica del Consejo Estatal de Ordenamiento Territorial.
 
 ### CAPÍTULO SEGUNDO. DICTAMEN DE IMPACTO URBANO
 
@@ -91,7 +93,7 @@ Conforme a lo dispuesto en los artículos 7, fracción IX y 127 de la Ley, corre
 
 ###### Artículo 5.
 
-Las solicitudes de impacto urbano serán turnadas para su resolución al seno de la Subcomisión Técnica del Consejo Estatal de Desarrollo Urbano, para su análisis, revisión y validación.
+(DEROGADO, P.O. 5 DE AGOSTO DE 2015)
 
 ###### Artículo 6.
 
@@ -259,21 +261,25 @@ b. El riesgo a la población en su salud o sus bienes no pueda ser evitado por l
 
 c. Exista falsedad en la información o documentación presentada por los solicitantes o desarrolladores.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 16.
 
-La resolución definitiva para la formulación del Dictamen de Impacto Urbano que emitirá la Subcomisión podrá ser otorgada en los siguientes sentidos:
+La resolución definitiva para la formulación del Dictamen de Impacto Urbano que emitirá la Secretaría podrá ser otorgada en los siguientes sentidos:
 
-I. Aprobado: Deberá entenderse en este sentido cuando el expediente se encuentra debidamente integrado y no exista impedimento legal o técnico para llevarse a cabo el proyecto presentado;
+I. Aprobado: Deberá entenderse en este sentido cuando el expediente se encuentra debidamente integrado y no exista impedimento legal o técnico para llevarse a cabo el Proyecto presentado;
 
-II. Aprobado-Condicionado: Cuando hace falta algún requisito por presentar, pero que por esa circunstancia no se derive impedimento legal o técnico para su aprobación, es decir que una vez solventado dicho requisito, de cómo resultado Aprobado;
+II. Aprobado-Condicionado: Cuando hace falta algún requisito por presentar, pero que por esa circunstancia no se derive impedimento legal o técnico para su aprobación, es decir que una vez solventado dicho requisito, dé como resultado Aprobado;
 
 III. Pendiente: Debe entenderse como tal, cuando por la falta de un requisito no se tenga la certeza de que se esté violentando la Ley o el presente Reglamento, o
 
 IV. Improcedente: Cuando aún estando el expediente debidamente integrado, de su análisis se derive alguna improcedencia de tipo técnico o legal.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 17.
 
-Considerando la resolución que emita la Subcomisión, de ser el caso, la Secretaría formulará el Dictamen de Impacto Urbano a favor del peticionario, en un término no mayor a treinta días hábiles, contados a partir de la recepción de los documentos que integrarán el expediente correspondiente.
+La Secretaría formulará el Dictamen de Impacto Urbano a favor del peticionario, en un término no mayor a treinta días hábiles, contados a partir de la recepción de los documentos que integrarán el expediente correspondiente.
 
 ###### Artículo 18.
 
@@ -387,7 +393,7 @@ III. Se llevará a cabo por lo menos una reunión informativa en materia de admi
 
 IV. Para formalizar la solicitud, el Municipio enviará a la Secretaría una copia certificada del Acta de Cabildo, en donde el Ayuntamiento autorice expresamente al Presidente Municipal y al Secretario a firmar el Convenio de Colaboración con la Secretaría, especificando claramente la modalidad aprobada para la autorización de dicha firma por parte de los funcionarios del Municipio;
 
-V. La Secretaría formulará el Convenio de Colaboración con la modalidad aprobada, el cual será firmado por las partes involucradas y publicado en el Periódico Oficial “Tierra y Libertad”, y (sic)
+V. La Secretaría formulará el Convenio de Colaboración con la modalidad aprobada, el cual será firmado por las partes involucradas y publicado en el Periódico Oficial “Tierra y Libertad”, y
 
 VI. El Convenio mantendrá su vigencia durante el periodo de la administración pública municipal o estatal, según sea el caso;
 
@@ -487,7 +493,7 @@ a) Planeación del desarrollo urbano;
 
 b) Ambiente;
 
-c) Vialidad y trasporte (sic);
+c) Vialidad y trasporte;
 
 d) Turismo;
 
@@ -629,7 +635,9 @@ II. La publicación en la Gaceta Municipal a que refiere el artículo 44 de la L
 
 III. La Secretaría previo a la emisión del Dictamen de Congruencia verificará si el Municipio de que se trate se ajustó al procedimiento señalado al efecto en el artículo 44 de la Ley;
 
-IV. Previo al inicio del plazo de consulta pública de sesenta días naturales, el Ayuntamiento remitirá copia del proyecto terminado del Programa de Desarrollo Urbano Sustentable al Ejecutivo del Estado, a través de la Secretaría, para que sea presentado a los integrantes del Consejo Estatal de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2015)</small>
+
+IV. Previo al inicio del plazo de Consulta Pública de sesenta días naturales, el Ayuntamiento remitirá copia del Proyecto terminado del Programa de Desarrollo Urbano Sustentable al Ejecutivo del Estado, a través de la Secretaría, para que sea presentado a los integrantes del Consejo Estatal de Ordenamiento Territorial;
 
 V. Una vez concluida la consulta pública y el proceso de planeación, previo a la solicitud del dictamen de congruencia, el Ayuntamiento le enviará a la Secretaría, el programa completo para su análisis y observaciones; las cuales cuando existan, deberán ser solventadas por la autoridad municipal, y
 
@@ -731,13 +739,15 @@ III. Se regularicen zonas urbanas existentes con anterioridad y cuenten con docu
 
 Para la fundación de un nuevo centro de población, conforme a lo señalado en la Ley, se deberá seguir el siguiente procedimiento:
 
-I. Cuando ya exista la propuesta de creación del nuevo centro de población en los Programas de Desarrollo Urbano Sustentable:
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2015)</small>
 
-a) La autoridad correspondiente que formule la propuesta, deberá enviar el planteamiento del nuevo centro de población a la Secretaría con su justificación técnica, para que ésta la analice;
+I. Cuando ya exista la propuesta de creación del nuevo Centro de Población en los Programas de Desarrollo Urbano Sustentable:
 
-b) La Secretaría presentará el proyecto de creación en el seno del Subcomité Técnico del Consejo Estatal de Desarrollo Urbano para su análisis y observaciones, y
+a) La Autoridad correspondiente que formule la propuesta, deberá enviar el planteamiento del nuevo Centro de Población a la Secretaría con su justificación técnica, para que ésta la analice;
 
-c) Una vez solventadas las observaciones planteadas en el Subcomité Técnico del Consejo Estatal de Desarrollo Urbano, la Secretaría emitirá el dictamen correspondiente en donde conste si considera técnicamente adecuada la fundación de un nuevo centro de población, y lo enviará al Congreso del Estado para la correspondiente decisión sobre la aprobación o rechazo de fundación de un nuevo centro de población.
+b) La Secretaría presentará el Proyecto de creación en el seno del Subcomité Técnico del Consejo Estatal de Ordenamiento Territorial para su análisis y observaciones, y
+
+c) Una vez solventadas las observaciones planteadas en el Subcomité Técnico del Consejo Estatal de Ordenamiento Territorial, la Secretaría emitirá el dictamen correspondiente en donde conste si considera técnicamente adecuada la fundación de un nuevo Centro de Población, y lo enviará al Congreso del Estado para la correspondiente decisión sobre la aprobación o rechazo de fundación de un nuevo Centro de Población.
 
 II. Cuando el proyecto de creación de un nuevo centro de población no esté contemplado en los Programas de Desarrollo Urbano Sustentable:
 
@@ -765,19 +775,25 @@ IV. Deberán observarse todos los trámites que sean necesarios ante otras insta
 
 ### CAPÍTULO SÉPTIMO. PARTICIPACIÓN SOCIAL
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 43.
 
-La participación de la sociedad en materia de desarrollo urbano sustentable en el ámbito estatal se dará mediante el Consejo Estatal de Desarrollo Urbano.
+La participación de la sociedad en materia de Desarrollo Urbano Sustentable en el ámbito estatal se dará mediante el Consejo Estatal de Ordenamiento Territorial.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 44.
 
-El Consejo Estatal de Desarrollo Urbano contará con la participación de la sociedad organizada, mediante la representación de asociaciones y cámaras de comercio y de la industria; colegios y asociaciones de profesionistas; asociaciones civiles y sociales; instituciones académicas y de investigación; y organismos no gubernamentales.
+El Consejo Estatal de Ordenamiento Territorial contará con la participación de la Sociedad organizada, mediante la representación de Asociaciones y Cámaras de Comercio y de la Industria; Colegios y Asociaciones de Profesionistas; Asociaciones Civiles y Sociales; Instituciones Académicas y de Investigación; y Organismos No Gubernamentales.
 
 ###### Artículo 45.
 
 La participación social será de acuerdo a lo que establece el artículo 15y (sic) 31 de la Ley, y se dará de la siguiente forma:
 
-I. En el Consejo Estatal de Desarrollo Urbano podrán constituirse grupos de trabajo temáticos, los cuales estarán abiertos a la participación de la sociedad organizada;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2015)</small>
+
+I. En el Consejo Estatal de Ordenamiento Territorial podrán constituirse grupos de trabajo temáticos, los cuales estarán abiertos a la participación de la Sociedad organizada;
 
 II. En las mesas de trabajo que se desarrollen, la sociedad podrá participar en el proceso de formulación, revisión y evaluación de los programas de desarrollo urbano sustentable, mediante análisis, propuestas y proyectos que coadyuven con las autoridades para la toma de decisiones;
 
@@ -807,9 +823,11 @@ La sociedad organizada podrá verificar que en la formulación o actualización 
 
 Para efectos del artículo 31 fracción VIII de la Ley, la sociedad en su conjunto podrá participar en la prevención, control y atención de riesgos y contingencias ambientales y urbanas en los centros de población, de conformidad con las disposiciones de este Reglamento y lo establecido en el Reglamento de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos en Materia de Evaluación del Impacto y Riesgo Ambiental.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 51.
 
-El Consejo Estatal de Desarrollo Urbano servirá como foro para que la sociedad organizada realice acciones de prevención, control y atención de riesgos y contingencias ambientales y urbanas en los centros de población.
+El Consejo Estatal de Ordenamiento Territorial servirá como foro para que la Sociedad organizada realice acciones de prevención, control y atención de riesgos y contingencias ambientales y urbanas en los Centros de Población.
 
 ###### Artículo 52.
 
@@ -1002,3 +1020,11 @@ EL SECRETARIO DE DESARROLLO URBANO Y OBRAS PÚBLICAS
 ARQ. DEMETRIO ROMÁN ISIDORO.
 
 RÚBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE AGOSTO DE 2015.
+
+PRIMERA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
