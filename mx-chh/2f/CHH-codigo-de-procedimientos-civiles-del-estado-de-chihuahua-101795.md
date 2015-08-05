@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-101795
 country: "mx"
 rank: "codigo"
 publication_date: "2014-07-23"
-last_updated: "2014-07-23"
+last_updated: "2015-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHH"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL DÍA DIECISIETE DE AGOSTO DEL AÑO DOS MIL QUINCE PREVIA SU PUBLICACIÓN.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO N°. 934/2015 VIII P.E. PUBLICADO EN EL P.O. DE 5 DE AGOSTO 2015, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EN EL DISTRITO JUDICIAL MORELOS: EL VEINTIOCHO DE SEPTIEMBRE DE DOS MIL QUINCE; EN EL DISTRITO JUDICIAL BRAVOS: EL CATORCE DE DICIEMBRE DE DOS MIL QUINCE; EN EL RESTO DE LOS DISTRITOS JUDICIALES: EL VEINTICINCO DE ENERO DE DOS MIL DIECISÉIS, PREVIA PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2015.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 23 de julio de 2014.
 
@@ -4391,7 +4391,15 @@ Los gastos del apeo se harán por el que lo promueva, y en caso de oposición, s
 
 ## TRANSITORIOS
 
-Artículo Primero. El Código de Procedimientos Civiles del Estado iniciará su vigencia el día diecisiete de agosto del año dos mil quince, previa su publicación en el Periódico Oficial del Estado, conforme a las modalidades previstas en los artículos siguientes.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2015)</small>
+
+Artículo Primero. El presente Código iniciará su vigencia, previa publicación en el Periódico Oficial del Estado, según el o los distritos judiciales de que se trate, de la manera siguiente:
+
+En el Distrito Judicial Morelos: el veintiocho de septiembre de dos mil quince.
+
+En el Distrito Judicial Bravos: el catorce de diciembre de dos mil quince.
+
+En el resto de los distritos judiciales: el veinticinco de enero de dos mil dieciséis.
 
 Artículo Segundo. El Código de Procedimientos Civiles de 1974 seguirá rigiendo en lo conducente, en los procedimientos iniciados con anterioridad a la aplicación del nuevo código y hasta la total solución de los mismos.
 
@@ -4406,3 +4414,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los diecisiete días del mes de julio del año dos mil catorce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. RAYMUNDO ROMERO MALDONADO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE AGOSTO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
