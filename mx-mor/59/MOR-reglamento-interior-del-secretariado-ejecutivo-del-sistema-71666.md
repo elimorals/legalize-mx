@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-secretariado-ejecutivo-del-sistema-7166
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-16"
-last_updated: "2009-12-16"
+last_updated: "2015-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS
 
-REGLAMENTO INTERIOR DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA DEL ESTADO DE MORELOS
+REGLAMENTO INTERIOR DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TERCERA TRANSITORIA DEL REGLAMENTO INTERIOR DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, PUBLICADO EN EL P.O. DE 5 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 16 de diciembre de 2009.
 
@@ -425,7 +427,7 @@ XI. Coordinar y supervisar la elaboración mensual de la comprobación de los fo
 
 XII. Coordinar la capacitación del personal del Secretariado Ejecutivo; y
 
-XIII. Las demás que le confieran las disposiciones jurídicas aplicables o le delegue el Secretario Ejecutivo; (sic)
+XIII. Las demás que le confieran las disposiciones jurídicas aplicables o le delegue el Secretario Ejecutivo;
 
 ###### ARTÍCULO 13.
 
@@ -642,3 +644,21 @@ EL SECRETARIO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 L. A. JOSÉ HERRERA CHÁVEZ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE AGOSTO DE 2015.
+
+PRIMERA. El presente Reglamento iniciará su vigencia a los diez días hábiles siguientes a su publicación en el Periódico Oficial "Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Dentro de un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Reglamento, el Secretariado Ejecutivo deberá actualizar los Manuales Administrativos, descriptivos de puestos y demás instrumentos administrativos que correspondan.
+
+TERCERA. Se abroga el Reglamento Interior del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública del Estado de Morelos, publicado el dieciséis de diciembre del 2009, en el Periódico Oficial "Tierra y Libertad”, número 4760, así como se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Reglamento.
+
+CUARTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; y en los artículos 6, fracción XXXV, y 24, fracción I, del Reglamento Interior de la Secretaría de Gobierno; el Secretariado Ejecutivo, dentro del plazo de diez días hábiles a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente Instrumento, debe informar a la Secretaría de Gobierno, los cambios de denominación y supresión de las Unidades Administrativas de aquella, sufridos en virtud de este Reglamento, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+QUINTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, el Secretariado Ejecutivo deberá realizar los trámites correspondientes para la identificación y asignación de plazas ante la Secretaría de Administración, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
+
+SEXTA. Los asuntos que se encuentren en trámite a la entrada en vigor de este Reglamento a cargo de las Unidades Administrativas cuya denominación se modifica o cambia de adscripción, serán continuados en su tramitación por la Unidad Administrativa que corresponda, sin perjuicio de lo señalado en las disposiciones transitorias anteriores.
+
+SÉPTIMA. Los conflictos que se susciten por la aplicación e interpretación del presente Reglamento, serán resueltos por el Secretario Ejecutivo.
