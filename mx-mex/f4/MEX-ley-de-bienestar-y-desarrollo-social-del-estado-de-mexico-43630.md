@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-bienestar-y-desarrollo-social-del-estado-de-mexico-43630
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2011-09-05"
+last_updated: "2015-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43630&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DE BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE MEXICO -ANTES- LEY DE DESARROLLO SOCIAL DEL ESTADO DE MEXICO
 
-LEY DE DESARROLLO SOCIAL DEL ESTADO DE MEXICO
+LEY DE DESARROLLO SOCIAL DEL ESTADO DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERA QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 5 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno, el viernes 31 de diciembre de 2004.
 
@@ -337,9 +337,9 @@ Para efectos de la presente Ley, se consideran como grupos o sectores que merece
 
 I. Las regiones, municipios, microrregiones, zonas de atención prioritaria e inmediata, que muestren mayor pobreza, marginación y exclusión, de acuerdo a los indicadores de desarrollo social y humano;
 
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-II. A la población indígena, mujeres, niños y adolescentes, adultos mayores, familias de los migrantes, discapacitados o que se encuentren en situación de vulnerabilidad social; y
+II. A la población indígena, mujeres, niñas, niños, adolescentes, adultos mayores, familias de los migrantes, personas con discapacidad o que se encuentren en situación de vulnerabilidad social.
 
 III. A los grupos que lo requieran según condiciones de desastre, dinámica geográfica y social del Estado.
 
@@ -1118,3 +1118,17 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- De conformidad con el presente Decreto el Ejecutivo del Estado, realizará las adecuaciones pertinentes en las disposiciones reglamentarias, para que las reglas de operación de los programas sociales implementados por las dependencias y organismos auxiliares, se difundan en la lengua o lenguas que se hablen en los pueblos indígenas reconocidos en las disposiciones correspondientes.
+
+G.G. 6 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El Ejecutivo Estatal y los ayuntamientos, en sus respectivos ámbitos de competencia, proveerán lo conducente para el cumplimiento del presente Decreto.
+
+CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamentarias correspondientes en un plazo que no deberá exceder de ciento ochenta días hábiles a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
