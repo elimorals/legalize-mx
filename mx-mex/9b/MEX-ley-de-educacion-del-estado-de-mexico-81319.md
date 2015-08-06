@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-81319"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2014-12-16"
+last_updated: "2015-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 16 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 6 DE AGOSTO DE 2015.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Estado de México, el viernes 6 de mayo de 2011.
 
@@ -171,11 +171,11 @@ La Autoridad Educativa Estatal cuando el educando sea de nuevo ingreso, solicita
 
 Las instituciones de salud del Gobierno del Estado de México, deberán expedir sin costo alguno los certificados médicos que sean solicitados para los educandos de educación básica.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 7.
 
-El Estado está obligado a prestar servicios educativos de calidad que garanticen el máximo logro de aprendizaje de los educandos, para que su población pueda cursar la educación preescolar, la primaria, la secundaria y la media superior. Estos servicios se prestarán en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa establecida en la Ley General y la presente Ley, respetando y favoreciendo el desarrollo de la población de la entidad.
+El Estado está obligado a prestar servicios educativos de calidad con un enfoque de derechos que garanticen el máximo logro de aprendizaje de los educandos, para que su población pueda cursar la educación preescolar, la primaria, la secundaria y la media superior. Estos servicios se prestarán en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa establecida en la Ley General y la presente Ley, respetando y favoreciendo el desarrollo de la población de la Entidad.
 
 > <small>(REFORMADO, G.G. 11 DE MARZO DE 2014)</small>
 
@@ -221,15 +221,15 @@ II. Desarrollar programas de apoyo a los maestros que presten sus servicios en l
 
 III. Promover la prestación de servicios educativos que apoyen en forma permanente el aprendizaje y el aprovechamiento de los educandos;
 
-> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-IV. Prestar servicios educativos para atender a quienes abandonaron el sistema regular y se encuentran en situación de rezago educativo para que concluyan la educación básica y media superior, otorgando facilidades de acceso, reingreso, permanencia y egreso a las mujeres;
+IV. Prestar servicios educativos para atender a quienes abandonaron el sistema regular y se encuentran en situación de rezago educativo para que concluyan la educación básica y media superior, otorgando facilidades de acceso, reingreso, permanencia y egreso a quienes se encuentren en este supuesto.
 
-> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+Llevarán a cabo las acciones para garantizar el derecho a la educación para que ninguna institución educativa, de nivel básico, medio superior y superior, nieguen el ingreso, permanencia, matrícula, o acceso de una estudiante embarazada o estudiante lactante, debiendo otorgársele la protección y facilidades apropiadas a su permanencia o reincorporación.
 
-Llevarán a cabo las acciones necesarias para que ninguna institución educativa, de nivel tipo básico, medio superior y superior, nieguen el ingreso, permanencia, matrícula, o acceso de una estudiante embarazada o estudiante lactante, debiendo otorgársele la protección y facilidades apropiadas a su permanencia o reincorporación;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-V. Otorgar apoyos pedagógicos a grupos con requerimientos educativos específicos;
+V. Otorgar apoyos pedagógicos y personal capacitado a grupos con requerimientos educativos específicos, garantizando el pleno respeto al derecho a la educación y la inclusión de niñas, niños y adolescentes con discapacidad en todos los niveles del Sistema Educativo Estatal. Asimismo, deberán desarrollar acciones evitando la discriminación y establecer ajustes razonables en las instalaciones educativas.
 
 VI. Desarrollar programas encaminados a mejorar el aprovechamiento escolar de los educandos, especialmente de aquéllos con mayor rezago;
 
@@ -269,13 +269,61 @@ XVI. Impulsar programas y escuelas dirigidos a los padres de familia o tutores, 
 
 XVII. Apoyar y desarrollar programas, cursos y actividades que fortalezcan la enseñanza de los padres de familia o tutores respecto al valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus maestros;
 
-> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-XVIII. Fortalecer la educación especial e inicial;
+XVIII. Fortalecer la educación inicial, así como la especial fomentando el respeto a los derechos y dignidad de niñas, niños y adolescentes con discapacidad con el fin de combatir estereotipos y prejuicios respecto de su discapacidad.
 
-> <small>(ADICIONADA, G.G. 11 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-XIX. Realizar las demás actividades que permitan mejorar la calidad de la educación, ampliar la cobertura de los servicios educativos y alcanzar los propósitos de equidad y efectiva igualdad de oportunidades.
+XIX. Adoptar medidas orientadas hacia el pleno ejercicio del derecho a la educación proporcionando la atención educativa que niñas, niños y adolescentes requieran para su pleno desarrollo, para lo cual, los programas respectivos deberán considerar la edad, madurez, circunstancias particulares y tradiciones culturales.
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XX. Destinar recursos humanos, materiales y presupuestarios adecuados y suficientes para garantizar la educación de calidad de niñas, niños y adolescentes.
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XXI. Implementar mecanismos para la atención, canalización y seguimiento de los casos que constituyan violaciones al derecho a la educación de niñas, niños y adolescentes.
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XXII. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite en los centros educativos.
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XXIII. Elaborar protocolos de actuación sobre situaciones de acoso o violencia escolar para el personal docente y administrativo y para quienes ejerzan la patria potestad, tutela o guarda y custodia.
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XXIV. Fomentar y fortalecer la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos.
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XXV. Garantizar el pleno respeto al derecho a la educación, así como la inclusión de niñas, niños y adolescentes con discapacidad, en todos los niveles del Sistema Educativo Nacional, desarrollando, aplicando normas y reglamentos que eviten su discriminación, como también las condiciones de accesibilidad en instalaciones educativas, proporcionen los apoyos didácticos, materiales, técnicos y cuenten con personal docente capacitado.
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XXVI. Adoptar medidas para responder a las necesidades de niñas, niños y adolescentes con aptitudes sobresalientes, de tal manera que se posibilite su desarrollo progresivo e integral, conforme a sus capacidades y habilidades personales.
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XXVII. Contribuir a garantizar la permanencia y conclusión de la educación obligatoria de niñas, niños y adolescentes así como para abatir el ausentismo, abandono y deserción escolares.
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XXVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes en la administración de la disciplina escolar.
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XXIX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación así como alentar el respeto al medio ambiente.
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XXX. Adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XXXI. Realizar las demás actividades que permitan mejorar la calidad de la educación, ampliar la cobertura de los servicios educativos y alcanzar los propósitos de equidad y efectiva igualdad de oportunidades.
 
 #### SECCIÓN TERCERA. DEL CRITERIO Y LOS FINES DE LA EDUCACIÓN
 
@@ -577,7 +625,9 @@ XXI. Otorgar becas, así como estímulos a los educandos que lo requieran por su
 
 XXI. BIS. Otorgar a partir de la suficiencia presupuestal, previa valoración del ajuste razonable conforme a la Convención de los Derechos de las Personas con Discapacidad y de acuerdo al certificado de institución de salud pública, como una acción permanente, un estímulo económico a los educandos de instituciones públicas o privadas que padezcan cáncer, diabetes, VIH, o discapacidad a largo plazo y que no cuenten con otro tipo de beca escolar, o que estudiando en escuelas públicas y privadas hayan resultado ganadores de la olimpiada del conocimiento infantil y conserven promedio mínimo de 9.0 en cada ciclo escolar, y en general, a aquellos que han sido afectados y que deban ser atendidos en observancia y cumplimiento de recomendaciones, emitidas por organismos protectores de los derechos humanos, incluyendo la solución amistosa de asuntos de su competencia.
 
-Para tal efecto, se creará un padrón estatal de beneficiarios, de conformidad con la legislación aplicable, observando el interés superior del menor.
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Para tal efecto, se creará un padrón estatal de beneficiarios, de conformidad con la legislación aplicable, observando el interés superior de niñas, niños y adolescentes.
 
 Los estudiantes de instituciones públicas que se encuentren en los supuestos anteriores tendrán garantizada su formación académica, hasta la culminación de los estudios de licenciatura o profesional técnico en escuelas públicas.
 
@@ -1537,7 +1587,9 @@ La educación que imparten el Estado, sus organismos descentralizados y los part
 
 A) Tipos y niveles:
 
-I. Tipo básico: Está compuesto por los niveles de preescolar, primaria y secundaria;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+I. Tipo básico: Está compuesto por los niveles de preescolar, primaria, secundaria y especial.
 
 > <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
 
@@ -1595,11 +1647,13 @@ Los particulares que ofrezcan servicios de educación inicial deberán registrar
 
 #### SECCIÓN TERCERA. DE LA EDUCACIÓN BÁSICA
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 54], G.G. 25 DE ABRIL DE 2014)
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 100.
 
-La educación básica, que se integra con los niveles de educación preescolar, primaria y secundaria, contribuirá al desarrollo armónico e integral del niño y del adolescente, y tendrá por objeto la formación de hábitos, actitudes y competencias básicas que los preparen para el aprendizaje permanente, el desenvolvimiento de sus potencialidades creativas, la formación de una conciencia histórica y una actitud cívica, sustentadas en valores universales.
+La educación básica que se integra con los niveles de educación preescolar, primaria, secundaria y especial, contribuirá al desarrollo armónico e integral de la niña, niño, del adolescente y de las personas con discapacidad. Tendrá por objeto la formación de hábitos, actitudes, competencias básicas que los preparen para el aprendizaje permanente, el desenvolvimiento de sus potencialidades creativas, la formación de una conciencia histórica y una actitud cívica, sustentadas en valores universales y en los derechos humanos.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 54], G.G. 25 DE ABRIL DE 2014)
 
 La educación básica aportará a los educandos las competencias necesarias para el aprendizaje de las matemáticas, del español, de las ciencias, de un segundo idioma, el desarrollo de la educación física, artística y la utilización de las tecnologías de la información y la comunicación.
 
@@ -1703,7 +1757,13 @@ La educación especial incluye la orientación a los padres o tutores, así como
 
 Tratándose de menores de edad con discapacidad, esta educación propiciará su integración a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos. Para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, para lo cual se elaborarán programas y materiales de apoyo didácticos necesarios.
 
-Los menores a que se refiere el párrafo anterior deberán contar con las instalaciones y material didáctico adecuados a su condición, por lo que se llevarán a cabo las habilitaciones físicas correspondientes. La integración de los grupos se hará con el número de educandos que permita darles una atención especializada.
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Las niñas, niños y adolescentes a que se refiere el párrafo anterior deberán contar con las instalaciones y material didáctico adecuados a su condición, por lo que se llevarán a cabo las habilitaciones físicas correspondientes. La integración de los grupos se hará con el número de educandos que permita darles una atención especializada.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Las autoridades educativas fomentarán la inclusión de la enseñanza del sistema de escritura braille y lenguaje de señas, así como la producción y distribución de textos gratuitos en sistema de escritura braille, macrotipos y textos audibles que complementen los conocimientos de las niñas, niños y adolescentes con discapacidad.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 67], G.G. 25 DE ABRIL DE 2014) (REFORMADO, G.G. 11 DE MARZO DE 2014)
 
@@ -2505,9 +2565,9 @@ XII. Administrar a los educandos, sin previa prescripción médica y consentimie
 
 XIII. Promover en el alumnado, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes;
 
-> <small>(REFORMADA, G.G. 11 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-XIV. Expulsar o negarse a prestar el servicio educativo a niños, adolescentes y demás personas que presenten problemas de aprendizaje; condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos o presionar de cualquier manera a los padres o tutores para que acudan a médicos o clínicas específicas para la atención de problemas de aprendizaje de los educandos;
+XIV. Expulsar o negarse a prestar el servicio educativo a niñas, niños, adolescentes y demás personas que presenten problemas de aprendizaje. Condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos o presionar de cualquier manera a los padres o tutores para que acudan a médicos o clínicas específicas para la atención de problemas de aprendizaje de los educandos.
 
 XV. Ostentarse como plantel incorporado sin estarlo;
 
@@ -2758,3 +2818,17 @@ DECRETO NÚMERO 354 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN IV
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 6 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El Ejecutivo Estatal y los ayuntamientos, en sus respectivos ámbitos de competencia, proveerán lo conducente para el cumplimiento del presente Decreto.
+
+CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamentarias correspondientes en un plazo que no deberá exceder de ciento ochenta días hábiles a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
