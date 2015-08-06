@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-comision-de-derechos-humanos-del-estado-de-mexico-626
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-14"
-last_updated: "2015-06-24"
+last_updated: "2015-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
 
 Ley publicada en la Gaceta de Gobierno del Estado de México, el jueves 14 de agosto de 2008.
 
@@ -161,6 +161,10 @@ XIII. Promover el respeto y la debida aplicación de los principios fundamentale
 
 XIV. Promover, dentro del ámbito de su competencia, el derecho de las personas a gozar de un medio ambiente adecuado para su desarrollo y bienestar;
 
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XIV BIS. Promover el pleno ejercicio, respeto, protección y promoción de los derechos humanos de niñas, niños y adolescentes conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que el Estado mexicano forma parte y en la Constitución Política del Estado Libre y Soberano de México.
+
 XV. Elaborar y ejecutar programas para prevenir violaciones a los derechos humanos;
 
 XVI. Desarrollar y ejecutar programas especiales de atención a víctimas del delito y abuso del poder, así como de personas o grupos en situación de vulnerabilidad;
@@ -191,7 +195,29 @@ XXVI. Expedir su Reglamento Interno y demás disposiciones tendentes a regular s
 
 XXVII. Otorgar premios y reconocimientos en materia de derechos humanos; y
 
-XXVIII. Las demás que sean necesarias para el cumplimiento de sus objetivos, que se deriven de esta Ley y demás ordenamientos legales.
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XXVIII. Establecer áreas especializadas para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes.
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XXIX. Garantizar un enfoque integral, transversal y con perspectiva de derechos humanos en el diseño y la instrumentación de políticas y programas de gobierno.
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XXX. Establecer mecanismos transparentes de seguimiento y evaluación de la implementación de políticas, programas gubernamentales, legislación y compromisos derivados de tratados internacionales en la materia.
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XXXI. Promover, en coordinación con el Gobierno Federal, programas y proyectos de atención, educación, capacitación, investigación y cultura de los derechos humanos de niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XXXII. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas estatales;
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XXXIII. Las demás que sean necesarias para el cumplimiento de sus objetivos, que se deriven de esta Ley y demás ordenamientos legales.
 
 > <small>(REFORMADO, G.G. 24 DE JUNIO DE 2015)</small>
 
@@ -1166,3 +1192,17 @@ G.G. 24 DE JUNIO DE 2015.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 6 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El Ejecutivo Estatal y los ayuntamientos, en sus respectivos ámbitos de competencia, proveerán lo conducente para el cumplimiento del presente Decreto.
+
+CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamentarias correspondientes en un plazo que no deberá exceder de ciento ochenta días hábiles a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
