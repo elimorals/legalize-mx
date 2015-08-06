@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-social-para-los-servidores-publicos-del-23245"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-03"
-last_updated: "2015-07-13"
+last_updated: "2015-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 3 de enero de 2002.
 
@@ -91,19 +91,27 @@ VI. Familiares y dependientes económicos del servidor público o del pensionado
 
 2. A falta del cónyuge, la persona con quien el servidor público o el pensionado haya vivido como si lo fuera y que ambos hayan permanecido libres de matrimonio, de conformidad con lo que dispone el artículo 4.403 del Código Civil del Estado de México y que acredite que no esté sujeto a otro régimen de seguridad social.
 
-3. Los hijos menores de dieciocho años de ambos o de uno de ellos, que sean solteros.
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
-4. Los hijos solteros mayores de dieciocho años, de ambos o de uno de ellos hasta cumplir veinticinco años de edad, previa comprobación de que están realizando estudios de nivel medio o superior en cualquier rama del conocimiento, en planteles oficiales reconocidos.
+3. Las niñas, niños y adolescentes que sean hijas o hijos menores de dieciocho años de ambos o de uno de ellos, que sean solteros.
 
-5. Los hijos mayores de dieciocho años inhabilitados física o mentalmente.
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+4. Las hijas e hijos solteros mayores de dieciocho años, de ambos o de uno de ellos hasta cumplir veinticinco años de edad, previa comprobación de que están realizando estudios de nivel medio o superior en cualquier rama del conocimiento, en planteles oficiales reconocidos.
+
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+5. Las hijas e hijos mayores de dieciocho años inhabilitados física o mentalmente.
 
 6. Los ascendientes en línea directa mayores de 60 años, siempre que dependan económicamente del servidor público o pensionado o que estén incapacitados física o mentalmente.
 
 7. Los dependientes económicos, siempre y cuando hayan vivido con el servidor público o pensionado, durante los cinco años que precedieron a su fallecimiento.
 
-> <small>(ADICIONADO, G.G. 2 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
-8. Las hijas de ambos o de uno de ellos, que se encuentren embarazadas y en situación de ser madre soltera menor de 18 años, únicamente para efectos del artículo 59 de la presente ley.
+8. Las niñas y adolescentes que sean hijas de ambos o de uno de ellos, que se encuentren embarazadas y en situación de ser madre soltera menor de 18 años, únicamente para efectos del artículo 59 de la presente Ley.
+
+> <small>(ADICIONADO, G.G. 2 DE ABRIL DE 2009)</small>
 
 A las personas a que se refieren las fracciones III, IV, V y VI de este artículo, se les denominará derechohabientes.
 
@@ -217,7 +225,9 @@ El Instituto ejercerá las acciones que le correspondan, presentará denuncias o
 
 El Instituto tendrá los objetivos siguientes:
 
-I. Otorgar a los derechohabientes las prestaciones que establece la presente ley de manera oportuna y con calidad;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+I. Otorgar a los derechohabientes las prestaciones que establece la presente Ley de manera oportuna y con calidad, atendiendo prioritariamente a niñas, niños y adolescentes, con base en su interés superior.
 
 II. Ampliar, mejorar y modernizar el otorgamiento de las prestaciones que tiene a su cargo;
 
@@ -689,15 +699,23 @@ III. El control y vigilancia de enfermedades transmisibles;
 
 IV. La detección oportuna de enfermedades crónico-degenerativas;
 
-V. La educación y promoción de la salud;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-VI. La planificación familiar;
+V. La educación y promoción de la salud, la nutrición e higiene.
 
-VII. La atención materno-infantil;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+VI. La planificación familiar proporcionando asesoría y orientación sobre salud sexual y reproductiva.
+
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+VII. La atención y fortalecimiento de la salud materno-infantil para aumentar la esperanza de vida y promoción de las ventajas de la lactancia materna.
 
 VIII. La salud bucal;
 
-IX. La salud mental;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+IX. La detección y atención de problemas de salud mental, preferentemente en beneficio de niñas, niños y adolescentes.
 
 X. La salud en el trabajo;
 
@@ -707,7 +725,17 @@ XII. Atención geriátrica y gerontológica;
 
 XIII. Prevención de accidentes;
 
-XIV. Las demás acciones que determinen el sector salud, la Comisión Auxiliar Mixta y el Consejo Directivo.
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XIV. Atención, combate y rehabilitación de los problemas de salud pública causados por las adicciones.
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XV. El control y vigilancia de enfermedades respiratorias, renales, gastrointestinales, epidémicas y de transmisión sexual.
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XVI. Las demás acciones que determinen el sector salud, la Comisión Auxiliar Mixta y el Consejo Directivo.
 
 #### SECCION CUARTA. DE LAS ENFERMEDADES NO PROFESIONALES, MATERNIDAD Y REHABILITACION
 
@@ -1185,13 +1213,19 @@ Cuando un pensionado por jubilación, por retiro por edad y tiempo de servicios,
 
 El pago de la pensión por fallecimiento se otorgará tomando en cuenta el siguiente orden de prelación:
 
-I. Al cónyuge cuando no hubiese hijos;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-II. Al cónyuge y a los hijos menores de 18 años o a los que siendo mayores de edad estén incapacitados física o mentalmente para trabajar, así como a los menores de 25 años que estén realizando estudios de nivel medio o superior en planteles oficiales o reconocidos, previa la comprobación correspondiente;
+I. Al cónyuge cuando no hubiese hijas o hijos.
+
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+II. Al cónyuge y a las niñas, niños, adolescentes menores de 18 años que sean hijas o hijos o a los que siendo mayores de edad estén incapacitados física o mentalmente para trabajar, así como a los menores de 25 años que estén realizando estudios de nivel medio o superior en planteles oficiales o reconocidos, previa la comprobación correspondiente.
 
 III. A la concubina o concubinario con quien acredite haber vivido en su compañía durante los cinco años que precedieron a su fallecimiento, siempre y cuando ambos hayan permanecido libres de matrimonio. En el caso del concubinario deberá comprobar además su dependencia económica;
 
-IV. A falta del cónyuge, hijos, concubina o concubinario, a los padres que hubiesen dependido económicamente del servidor público o pensionado fallecido durante los cinco años anteriores a su muerte;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+IV. A falta del cónyuge, niñas, niños, adolescentes que sean hijas o hijos, concubina o concubinario, a los padres que hubiesen dependido económicamente del servidor público o pensionado fallecido durante los cinco años anteriores a su muerte.
 
 V. A los dependientes económicos si no existen las personas enumeradas en las fracciones anteriores, siempre y cuando hayan vivido en su compañía durante los cinco años que precedieron a su fallecimiento.
 
@@ -1209,21 +1243,27 @@ Si otorgada una pensión por fallecimiento se presentaren otros familiares o dep
 
 Cuando dos o más personas reclamen su derecho a recibir el pago de la pensión en calidad de cónyuge del servidor público o del pensionado fallecidos exhibiendo la documentación correspondiente, se suspenderá el trámite para su otorgamiento hasta en tanto se defina judicialmente la situación.
 
-Lo anterior sin perjuicio de continuar el trámite por lo que respecta a los hijos, reservándose la parte correspondiente de la pensión a quien judicialmente se le reconozca el carácter de cónyuge.
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Lo anterior sin perjuicio de continuar el trámite por lo que respecta a las hijas e hijos, reservándose la parte correspondiente de la pensión a quien judicialmente se le reconozca el carácter de cónyuge.
 
 ###### ARTICULO 112.
 
 Cuando una persona, ostentándose como cónyuge del servidor público o pensionado fallecidos, reclame el pago de una pensión por fallecimiento ya concedida a otra, sólo se revocará la otorgada primeramente si existe resolución judicial o declaración administrativa que declare la disolución del vínculo matrimonial que sirvió de base para el otorgamiento de esa pensión. Si la persona solicitante reúne los requisitos que esta ley establece, se le concederá la pensión a partir de la fecha en que se exhiba ante el Instituto la resolución de autoridad competente que le reconozca su derecho, sin que ésta pueda exigirle las cantidades cobradas por la persona inicialmente reconocida.
 
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 113.
 
-Si un hijo pensionista al cumplir 18 años no pudiere mantenerse por sí mismo debido a una enfermedad física o mental, el pago de la pensión que le corresponda se prorrogará por el tiempo que subsista su incapacidad. En tal caso, estará obligado a someterse a la evaluación médica que el Instituto disponga, así como a permitir las investigaciones que en cualquier tiempo y lugar ordene para determinar su estado de incapacidad. De no aceptar lo anterior se suspenderá la pensión, excepto que se trate de una persona incapacitada de sus facultades mentales.
+Si una niña, niño o adolescente que sea hija o hijo pensionista al cumplir 18 años no pudiere mantenerse por sí mismo debido a una enfermedad física o mental, el pago de la pensión que le corresponda se prorrogará por el tiempo que subsista su incapacidad. En tal caso, tendrá obligación de someterse a la evaluación médica que el Instituto disponga, así como a permitir las investigaciones que en cualquier tiempo y lugar ordene para determinar su estado de incapacidad. De no aceptar lo anterior se suspenderá la pensión, excepto que se trate de una persona incapacitada de sus facultades mentales.
 
 ###### ARTICULO 114.
 
 El derecho a recibir el pago de la pensión por fallecimiento por parte de los pensionistas concluye en los casos siguientes:
 
-I. Cuando los hijos pensionistas lleguen a la mayoría de edad, siempre que no estén imposibilitados física o mentalmente para trabajar, salvo las excepciones previstas en la fracción II del artículo 108 de esta ley;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+I. Cuando las niñas, niños y adolescentes que sean hijas o hijos Pensionistas lleguen a la mayoría de edad, siempre que no estén imposibilitados física o mentalmente para trabajar, salvo las excepciones previstas en la fracción II del artículo 108 de esta Ley.
 
 II. Cuando el pensionista contraiga matrimonio o llegara a vivir en concubinato;
 
@@ -1491,9 +1531,13 @@ El Instituto apoyará y participará en programas para el desarrollo cultural, e
 
 El importe de las pensiones que no se cobren, el del seguro de fallecimiento, el saldo de la cuenta individual o el correspondiente a cualquier otra prestación u obligación no reclamada por el beneficiario dentro de los 5 años siguientes a la fecha en que fueran exigibles, quedará en favor del Instituto.
 
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 162.
 
-No surtirá efecto la prescripción contra los menores o incapacitados, hasta que cuenten con un tutor legalmente designado.
+No surtirá efecto la prescripción contra niñas, niños y adolescentes o incapacitados.
+
+Para efecto de lo dispuesto en el párrafo anterior, deberá contar con un tutor legalmente designado, en cuyo defecto se dará vista a la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
 ###### ARTICULO 163.
 
@@ -1555,7 +1599,7 @@ La aportación a cargo de las instituciones públicas, establecidas en el artíc
 
 ###### ARTICULO DECIMO PRIMERO.
 
-La aportación a cargo de las instituciones públicas, establecidas en el artículo 34 fracción II inciso a, se cobrarán de la siguiente manera: 4.3% al entrar en vigor esta ley, 4.65% el 1º de enero del año 2006, 5.65% el 1º del enero del año 2007, las establecidas en el inciso b, el 1º de enero del año 2004, 0.60%, el 1º de enero del año 2005, 1.2% y el 1º de enero del año 2006, 1.85%.
+La aportación a cargo de las instituciones públicas, establecidas en el artículo 34 fracción II inciso a, se cobrarán de la siguiente manera: 4.3% al entrar en vigor esta ley, 4.65% el 1º de enero del año 2006, 5.65% el 1º de enero del año 2007, las establecidas en el inciso b, el 1º de enero del año 2004, 0.60%, el 1º de enero del año 2005, 1.2% y el 1º de enero del año 2006, 1.85%.
 
 En los casos en que los servidores públicos activos al momento de entrar en vigor esta ley, no participen en el sistema de capitalización individual, no se aplicará a las instituciones públicas la aportación correspondiente señalada en el artículo 34 fracción II inciso b.
 
@@ -1696,3 +1740,17 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+G.G. 6 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El Ejecutivo Estatal y los ayuntamientos, en sus respectivos ámbitos de competencia, proveerán lo conducente para el cumplimiento del presente Decreto.
+
+CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamentarias correspondientes en un plazo que no deberá exceder de ciento ochenta días hábiles a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
