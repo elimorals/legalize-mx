@@ -4,7 +4,7 @@ identifier: "CAM-ley-reglamentaria-del-periodico-oficial-del-estado-de-21366"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-25"
-last_updated: "2013-01-21"
+last_updated: "2015-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY REGLAMENTARIA DEL PERIÓDICO OFICIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 6 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 25 de mayo de 2001.
 
@@ -152,3 +154,11 @@ P.O. 21 DE ENERO DE 2013.
 Primero.- El presente decreto entrará en vigor a los tres días siguiente a su publicación en el Periódico Oficial del Estado de Campeche.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 6 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente Decreto.
+
+TERCERO. Se abroga la Ley Reglamentaria del Periódico Oficial del Estado de Campeche, expedida por Decreto número 55, publicada en el Periódico Oficial del Estado número 2381, de fecha 25 de mayo de 2001.
