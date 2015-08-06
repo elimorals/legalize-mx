@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2015-07-13"
+last_updated: "2015-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ NOTA 1.- DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTI
 
 NOTA 2.- DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DE LA DECLARATORIA Y SEGUNDO TRANSITORIO DEL DECRETO No. 392, DE LA G.G. DE 21 DE ENERO DE 2015, POR EL QUE SE APRUEBA LA INCORPORACIÓN A SU RÉGIMEN JURÍDICO EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, COMO SEÑALA QUE DICHA DECLARATORIA SURTIRÁ SUS EFECTOS 18 DE JUNIO DE 2016, EN EL ESTADO DE MÉXICO, SIN EMBARGO, RESPECTO DE LOS PROCEDIMIENTOS PENALES INICIADOS CON ANTELACIÓN A LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE MÉXICO, SE REGIRÁN POR LAS DISPOSICIONES VIGENTES AL MOMENTO DE SU INICIO, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO UNA VEZ INICIADA LA VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE MÉXICO.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
 
 Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -140,6 +140,24 @@ Integra el derecho a la defensa, el derecho del imputado a comunicarse libre y p
 Los derechos y facultades del imputado podrán ser ejercidos directamente por el defensor, salvo aquellos de carácter personal o cuando exista una limitación a la representación legal o prohibición en la ley.
 
 Se procurará que los miembros de pueblos o comunidades indígenas a quienes se impute la comisión de un delito cuenten, además, con un defensor que posea conocimiento de su lengua y cultura.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Siempre que se encuentre una niña, niño o adolescente en el contexto de la comisión de un delito se notificará de inmediato a quienes ejerzan la patria potestad, tutela o guarda y custodia, así como a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México y las procuradurías de protección municipales a efecto de que esta actúe en términos de sus atribuciones.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Asimismo, en aquellos casos en que el Ministerio Público o cualquier otra autoridad, tenga conocimiento de la presunta comisión o participación de una niña o un niño en un hecho que la ley señale como delito, de manera inmediata dará aviso a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México, a efecto de que esta actúe en términos de sus atribuciones.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Representación en suplencia.
+
+###### Artículo 8 Bis.
+
+A falta de quienes ejerzan la representación originaria de niñas, niños y adolescentes, o cuando por otra causa así lo determine el órgano jurisdiccional competente, con base en el interés superior de la niñez, la representación en suplencia corresponderá a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México y las procuradurías de protección municipales.
+
+Cuando existan indicios de conflicto de intereses entre quienes ejerzan la representación originaria o de estos con niñas, niños y adolescentes o por una representación deficiente o dolosa, a petición del Ministerio Público, de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México o de oficio, el órgano jurisdiccional que conozca del asunto, deberá sustanciar por vía incidental, un procedimiento sumario de restricción, suspensión o revocación de la representación originaria, según sea el caso, para efectos de que la Procuraduría de Protección ejerza la representación en suplencia.
 
 Derecho a recurrir
 
@@ -1521,6 +1539,26 @@ XXI. Solicitar justificadamente la reapertura de la investigación cuando se hay
 
 XXII. Que no se divulgue su identidad ni ser presentado públicamente, sin su consentimiento.
 
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Derechos de niñas, niños y adolescentes
+
+###### Artículo 150 Bis.
+
+Sin perjuicio de lo dispuesto en el artículo anterior, cuando las niñas, niños o adolescentes tengan carácter de probables víctimas del delito o testigos, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, se garantizarán al menos los siguientes derechos:
+
+I. Se les informe sobre la naturaleza del procedimiento y el carácter de su participación en el mismo.
+
+II. Que su participación en un procedimiento se lleve a cabo de manera pronta, asistidos por un profesional en derecho.
+
+III. Garantizar el acompañamiento de quien ejerza sobre ellos la patria potestad, tutela o guarda y custodia durante la sustanciación de todo el procedimiento, salvo disposición judicial en contrario, con base en el interés superior de la niñez.
+
+lV. Que se preserve su derecho a la intimidad, que no se divulguen sus datos de identificación en los términos de este Código y las demás aplicables.
+
+V. Tener acceso gratuito a asistencia jurídica, psicológica y cualquier otra necesaria atendiendo a las características del caso, a fin de salvaguardar sus derechos, en términos de las disposiciones aplicables.
+
+VI. Adoptar las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes que presuntamente son víctimas de la comisión de un delito o violación a sus derechos humanos.
+
 Ofendidas especiales
 
 ###### Artículo 151.
@@ -2507,7 +2545,9 @@ Personas incapaces
 
 Tratándose de incapaces, la querella podrá ser presentada por sus representantes legales o por la persona a cuyo cuidado se encuentre.
 
-La Procuraduría de la Defensa del Menor y de la Familia podrá formular la querella en representación de menores o incapaces cuando éstos carezcan de representantes legales y, en todo caso, tratándose de delitos cometidos por estos últimos.
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México y las procuradurías de protección municipales podrán formular la querella en representación de niñas, niños y adolescentes o incapaces cuando estos carezcan de representantes legales y, en todo caso, tratándose de delitos cometidos por estos últimos.
 
 Actos urgentes
 
@@ -5335,6 +5375,10 @@ V. Prescripción; y
 
 VI. Cesación de los efectos de la sentencia por dejar de considerarse una conducta como delito.
 
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+No procede la prescripción en perjuicio de niñas, niños y adolescentes.
+
 Alcances de la extinción de penas
 
 ###### Artículo 475.
@@ -5818,3 +5862,17 @@ G.G. 13 DE JULIO DE 2015.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 6 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El Ejecutivo Estatal y los ayuntamientos, en sus respectivos ámbitos de competencia, proveerán lo conducente para el cumplimiento del presente Decreto.
+
+CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamentarias correspondientes en un plazo que no deberá exceder de ciento ochenta días hábiles a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
