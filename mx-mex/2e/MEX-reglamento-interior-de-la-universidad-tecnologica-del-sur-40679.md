@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-universidad-tecnologica-del-sur-40679
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-19"
-last_updated: "2011-08-11"
+last_updated: "2015-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DEL SUR DEL ESTADO DE MEXICO
 
-REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DEL SUR DEL ESTADO DE MEXICO
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DEL SUR DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 11 DE AGOSTO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DEL SUR DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 6 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 6 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el jueves 19 de agosto de 2004.
 
 EL CONSEJO DIRECTIVO DE LA UNIVERSIDAD TECNOLOGICA DEL SUR DEL ESTADO DE MEXICO, EN EJERCICIO DE LA ATRIBUCION QUE LE CONFIERE EL ARTICULO 13 FRACCION V DEL DECRETO DEL EJECUTIVO POR EL QUE SE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO UNIVERSIDAD TECNOLOGICA DEL SUR DEL ESTADO DE MEXICO, EN SESION ORDINARIA CELEBRADA EL 17 DE MARZO DEL DOS MIL CUATRO; Y
 
-C O N S I D E R A N D O
+C O N S I D E R A N D O...
 
 En mérito de lo anterior, ha tenido a bien expedir el siguiente:
 
@@ -147,7 +149,7 @@ V. Dirección de la Carrera de Tecnologías de la Información y Comunicación �
 
 VI. Dirección de Vinculación;
 
-VII. Dirección de Administración y Finanzas; y (sic)
+VII. Dirección de Administración y Finanzas; y
 
 VIII. Abogado General;
 
@@ -407,7 +409,7 @@ RECTOR DE LA UNIVERSIDAD TECNOLOGICA DEL SUR DEL ESTADO DE MEXICO Y SECRETARIO D
 
 (RUBRICA).
 
-N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 15 DE ABRIL DE 2011.
 
@@ -424,3 +426,13 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 6 DE AGOSTO DE 2015.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interior de la Universidad Tecnológica del Sur del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" de fecha 19 de agosto de 2004.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente ordenamiento jurídico.
