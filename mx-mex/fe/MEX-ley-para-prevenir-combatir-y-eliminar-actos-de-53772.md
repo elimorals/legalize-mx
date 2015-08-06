@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-prevenir-combatir-y-eliminar-actos-de-53772"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-17"
-last_updated: "2014-12-16"
+last_updated: "2015-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACIÓN EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 17 de enero de 2007.
 
@@ -67,7 +67,9 @@ Estarán sujetos a la aplicación de la presente ley, las autoridades, dependenc
 
 Para los efectos de esta ley se entenderá por discriminación toda forma de preferencia, distinción, exclusión, repudio, desprecio, incomprensión, rechazo o restricción que, basada en el origen étnico o nacional como el antisemitismo o cualquier otro tipo de segregación; sexo o género; edad; discapacidad; condición social o económica; condiciones de salud; embarazo; lengua; religión; opiniones; predilecciones de cualquier índole; estado civil o alguna otra que tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos fundamentales en condiciones de equidad e igualdad de oportunidades y de trato de las personas.
 
-También se entenderá como discriminación toda forma de xenofobias.
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+También se entenderá como discriminación toda forma de xenofobias y por discriminación múltiple, a la situación específica en la que se encuentran las personas que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos.
 
 ###### Artículo 6.
 
@@ -95,11 +97,25 @@ No se considerarán actos de discriminación los que fundados o motivados, emita
 
 Queda prohibida en el Estado de México cualquier forma de discriminación que tenga por objeto impedir o anular a cualquier persona en el goce y el ejercicio de los derechos fundamentales a que se refiere el orden jurídico mexicano y protege la presente ley.
 
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+###### Artículo 7 Bis.
+
+Niñas, niños y adolescentes tienen derecho a no ser objeto de discriminación alguna ni de limitación o restricción de sus derechos. Las autoridades estatales y municipales están obligadas a efectuar medidas especiales para prevenir, atender y erradicar la discriminación múltiple de la que son objeto niñas, niños y adolescentes.
+
 ### CAPÍTULO III. DE LAS MEDIDAS POSITIVAS Y COMPENSATORIAS PARA ERRADICAR LA DISCRIMINACIÓN
 
 ###### Artículo 8.
 
 Las autoridades estatales y municipales están obligadas a adoptar las medidas positivas y compensatorias que tiendan a favorecer condiciones de equidad e igualdad real de oportunidades y de trato, así como para prevenir y eliminar toda forma de discriminación de las personas.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+La adopción de estas medidas y la realización de acciones afirmativas formaran parte de la perspectiva antidiscriminatoria, la cual será incorporada de manera transversal y progresiva en el quehacer público, y de manera particular en el diseño, implementación y evaluación de las políticas públicas.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Serán factor de análisis prioritario las diferencias de género como causa de vulnerabilidad y discriminación en contra de las niñas y las adolescentes.
 
 ###### Artículo 9.
 
@@ -129,19 +145,31 @@ h) Garantizar el derecho a no ser discriminadas por su condición cualquier alum
 
 Ninguna institución o establecimiento de educación, cualquiera que sea su nivel, podrá negar el ingreso matricula, acceso y el normal proceso educacional de una embarazada o madre lactante, debiendo otorgársele la protección y facilidades apropiadas a su respectivo estado.
 
-II. Para fomentar la igualdad de las niñas y los niños:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+II. Para fomentar la igualdad de niñas, niños y adolescentes:
 
 a) Impartir educación para la preservación de la salud, el conocimiento integral de la sexualidad, la planificación familiar, la paternidad responsable y el respeto a los derechos humanos;
 
-b) Promover el acceso a centros de desarrollo infantil, incluyendo a menores con discapacidad;
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
-c) Promover las condiciones necesarias para que los menores puedan convivir con sus padres, abuelos o tutores cuando se encuentren en condiciones de vulnerabilidad por problemas de disolución del vínculo familiar;
+b) Promover el acceso a centros de atención, cuidado y desarrollo integral infantil, incluyendo a niñas, niños y adolescentes con discapacidad.
 
-d) Implementar programas de becas cuyo otorgamiento sea en igualdad de circunstancias para todos los menores;
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
-e) Promover la creación de instituciones que procuren la reinserción a la sociedad a los menores privados de su medio familiar, como hogares de guarda y albergues para estancias temporales; y
+c) Promover las condiciones necesarias para que niñas, niños y adolescentes puedan convivir con sus padres, abuelos o tutores cuando se encuentren en condiciones de vulnerabilidad por problemas de disolución del vínculo familiar.
 
-f) Proporcionar la atención médica necesaria para la recuperación física, psicológica y la integración social de todo menor víctima de abandono, explotación, malos tratos o conflictos armados;
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+d) Implementar programas de becas cuyo otorgamiento sea en igualdad de circunstancias para las niñas, niños y adolescentes.
+
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+e) Promover la creación de centros de asistencia social que brinden cuidado alternativo o acogimiento residencial a niñas, niños y adolescentes sin cuidado parental o familiar.
+
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+f) Proporcionar la atención médica necesaria para la recuperación física, psicológica y la integración social de niñas, niños y adolescentes víctimas de abandono, explotación, malos tratos o conflictos armados.
 
 III. Para garantizar la igualdad de oportunidades para las personas mayores de 60 años:
 
@@ -258,6 +286,10 @@ XV. Las demás establecidas en esta ley y demás disposiciones legales aplicable
 ###### Artículo 11.
 
 La Comisión difundirá los avances, resultados e impactos de los programas y acciones en materia de prevención y eliminación de la discriminación, a fin de mantener informada a la sociedad.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Las instancias públicas y los órganos constitucionales autónomos deberán reportar semestralmente al Consejo Nacional para Prevenir la Discriminación las medidas de nivelación, medidas de inclusión y acciones afirmativas que adopten para prevenir, atender y erradicar la discriminación de la que son objeto niñas, niños y adolescentes. Dichos reportes deberán desagregar la información, relativa al menos a la edad, sexo, escolaridad, entidad federativa y tipo de discriminación.
 
 ### CAPÍTULO V. DEL CONSEJO CIUDADANO PARA LA PREVENCIÓN Y ELIMINACIÓN DE LA DISCRIMINACIÓN
 
@@ -474,3 +506,17 @@ G.G. 16 DE DICIEMBRE DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 6 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El Ejecutivo Estatal y los ayuntamientos, en sus respectivos ámbitos de competencia, proveerán lo conducente para el cumplimiento del presente Decreto.
+
+CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamentarias correspondientes en un plazo que no deberá exceder de ciento ochenta días hábiles a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
