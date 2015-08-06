@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-prevencion-y-erradicacion-de-la-violencia-63497"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-25"
-last_updated: "2014-05-09"
+last_updated: "2015-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ LEY PARA LA PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE M
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 216, PUBLICADO EN LA G.G. DE 9 DE MAYO DE 2014, SE ENTENDERÁ POR SECRETARÍA DE SEGURIDAD CIUDADANA CUALQUIER REFERENCIA QUE SE HAGA, EN LOS ORDENAMIENTOS JURÍDICOS ESTATALES, A LA AGENCIA DE SEGURIDAD ESTATAL.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 9 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 6 DE AGOSTO DE 2015.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 25 de septiembre de 2008.
 
@@ -45,9 +45,11 @@ LEY PARA LA PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE M
 
 ### CAPÍTULO I. NATURALEZA Y OBJETO DE LA LEY
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 1.
 
-Las disposiciones contenidas en la presente Ley son de orden público e interés general y de observancia obligatoria en el Estado de México y tienen por objeto establecer medidas concretas de protección integral con la finalidad de salvaguardar la vida, la libertad, la integridad física, psicológica, sexual y patrimonial de los miembros de la familia, por parte de aquellas con las que tengan un vínculo familiar, mediante la prevención, atención y tratamiento de la Violencia Familiar, así como favorecer el establecimiento de medidas de tratamiento y rehabilitación a los generadores de esta, que permita fomentar una Cultura Estatal de la no violencia.
+Las disposiciones contenidas en la presente Ley son de orden público e interés general y de observancia obligatoria en el Estado de México y tienen por objeto establecer medidas concretas de protección integral con la finalidad de salvaguardar la vida, la libertad, la integridad personal, psicológica, sexual y patrimonial de los miembros de la familia, por parte de aquellas con las que tengan un vínculo familiar, mediante la prevención, atención y tratamiento de la Violencia Familiar, así como favorecer el establecimiento de medidas de tratamiento y rehabilitación a los generadores de ésta, que permita fomentar una Cultura Estatal de una vida libre de violencia atendiendo el interés superior de niñas, niños y adolescentes.
 
 La presente ley también se aplicará cuando se ejerza violencia, sobre la persona con quien tenga o haya tenido relación de noviazgo, pareja o matrimonio. De igual forma aquellos a quien se deposite el cuidado de los hijos o a las personas que sin ser familiar se les de éste trato.
 
@@ -55,9 +57,13 @@ La presente ley también se aplicará cuando se ejerza violencia, sobre la perso
 
 Los bienes jurídicamente tutelados por esta ley son: La vida, la libertad, la integridad física, psicológica, sexual y patrimonial de la familia, por tanto, sus objetivos son:
 
-l. Garantizar a los integrantes de la familia su derecho a vivir libres de violencia en los ámbitos público y privado;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-II. El respeto a la dignidad humana e integridad física, psicológica, sexual y patrimonial de la persona;
+I. Garantizar a los integrantes de la familia su derecho a vivir una vida libre de violencia en los ámbitos público y privado, asegurando su integridad personal y el libre desarrollo de su personalidad.
+
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+II. El respeto a la igualdad, a la dignidad humana y a la integridad física, psicológica, sexual y patrimonial de las personas, a fin de lograr las mejores condiciones de bienestar.
 
 III. La protección de cada uno de los miembros de la familia;
 
@@ -69,7 +75,9 @@ VI. Fortalecer las medidas de sensibilización ciudadana, dotando a los poderes 
 
 VII. Promover la colaboración y participación de las entidades, asociaciones y organizaciones de la sociedad civil que actúan en contra de la Violencia Familiar para buscar la protección y atención de los receptores de la misma; y
 
-VIII. Promover programas permanentes de sensibilización y capacitación de los Servidores Públicos en la atención de casos de Violencia Familiar.
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+VIII. Promover programas permanentes de sensibilización y capacitación de los servidores públicos en la atención de casos de Violencia Familiar, a fin de lograr la recuperación física y psicológica de los receptores de la misma, así como la restitución de sus derechos para garantizar su reincorporación a la vida cotidiana.
 
 ### CAPÍTULO II. APLICACIÓN DE LA NORMA
 
@@ -91,11 +99,13 @@ Para el cabal cumplimiento de los objetivos de esta Ley, las secretarías del Po
 
 Las autoridades, dependencias e instituciones señaladas en esta Ley, deberán coordinarse a través de grupos de trabajo con temáticas especificas y especializadas, a efecto de instrumentar y ejecutar las acciones derivadas del Programa Anual de Prevención, Atención y Erradicación de la Violencia Familiar en el Estado de México.
 
-> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 4 Bis.
 
-Es obligación de todas las autoridades del Estado de México garantizar que las personas gocen, sin discriminación alguna, de los derechos fundamentales reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México, los tratados internacionales de los que el Estado Mexicano sea parte, y demás ordenamientos legales aplicables.
+Es obligación de todas las autoridades del Estado de México garantizar que las personas gocen, sin discriminación alguna, de los derechos fundamentales reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México, los tratados internacionales de los que el Estado Mexicano sea parte, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Ley General para la Prevención y Erradicación de la Violencia Familiar, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia y la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de México y demás ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
 
 Las autoridades del Estado de México están obligadas a impulsar, promover, gestionar y garantizar la eliminación de obstáculos que limiten a las personas el ejercicio del derecho a la igualdad y a la no discriminación, impidiendo su pleno desarrollo, así como su efectiva participación en todos los ámbitos. Asimismo, impulsarán y fortalecerán acciones para promover una cultura de sensibilización, de respeto y de no violencia en contra de las personas, grupos y comunidades en situación de discriminación.
 
@@ -125,7 +135,9 @@ IV. Cultura de la No Violencia: Todas aquellas acciones que propicien la convive
 
 V. Consejo: Consejo para Prevenir y Erradicar la Violencia Familiar del Estado de México;
 
-VI. Generador de Violencia Familiar: Es quien realiza actos de maltrato físico, verbal, psicoemocional y sexual así como el daño patrimonial a la persona con la que tenga o haya tenido algún vínculo familiar, así como el lesionar los derechos de los miembros del Grupo Familiar;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+VI. Generador de Violencia Familiar: Es quien realiza actos de descuido, negligencia, abuso, maltrato físico, verbal, psicoemocional, sexual, corrupción, daño patrimonial a la persona con la que tenga o haya tenido algún vínculo familiar, así como el lesionar los derechos de los miembros del grupo familiar.
 
 VII. Grupo Familiar: Conjunto de personas vinculadas por relaciones de intimidad, mutua consideración y apoyo, parentesco, filiación o convivencia fraterna; o bien, tengan alguna relación conyugal o de concubinato;
 
@@ -133,7 +145,9 @@ VIII. Prevención: A todas aquellas medidas y acciones encaminadas a prevenir e 
 
 IX. Programa Anual: Programa Anual de Prevención, Atención y Erradicación de la Violencia Familiar en el Estado de México;
 
-X. Receptor: Receptor de Violencia Familiar, persona que sufre el maltrato físico, psicológico, sexual y/o daño patrimonial; y
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+X. Receptor: Receptor de violencia familiar, toda persona que sufre el maltrato y/o abuso físico, psicológico o sexual, descuido, negligencia, abandono, corrupción y/o daño patrimonial.
 
 XI. Tratamiento: Al procedimiento integral proporcionado por instituciones públicas o privadas, tendente a la protección de los Receptores de Violencia Familiar, así como a la reeducación y rehabilitación de los Generadores de la misma.
 
@@ -153,9 +167,9 @@ III. Cualquier miembro del Grupo Familiar sin importar edad y condición, discap
 
 IV. Cualquier miembro del Grupo Familiar que aún cuando no tenga parentesco, haya habitado por cualquier razón en el domicilio familiar y que se le haya dado trato de familiar; y
 
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-V. Cualquier miembro del Grupo Familiar que haya o no habitado en el domicilio familiar y que hubiera tenido bajo su cuidado o atención remunerada o no, a un menor de edad, adulto mayor o discapacitado.
+V. Cualquier miembro del grupo familiar que haya o no habitado en el domicilio familiar y que hubiera tenido bajo su cuidado o atención remunerada o no, a una niña, niño, adolescente, adulto mayor o discapacitado.
 
 ### CAPÍTULO IV. CONSEJO PARA PREVENIR Y ERRADICAR LA VIOLENCIA FAMILIAR DEL ESTADO DE MÉXICO
 
@@ -171,7 +185,9 @@ l. Un Presidente, que será el titular de la Dirección General del Sistema para
 
 II. Un Secretario Técnico, que será designado por el Presidente del Consejo;
 
-III. Un representante de cada una de las siguientes dependencias del Gobierno del Estado:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+III. Un representante de cada una de las instancias siguientes:
 
 a. Secretaría de Salud.
 
@@ -181,9 +197,9 @@ c. Procuraduría General de Justicia del Estado de México.
 
 d. Secretaría de Desarrollo Social.
 
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
-e. Secretaría de Seguridad Ciudadana.
+e. Comisión Estatal de Seguridad Ciudadana.
 
 f. Universidad Autónoma del Estado de México.
 
@@ -331,7 +347,9 @@ Los centros de Prevención, Atención y Tratamiento realizarán, entre otras, la
 
 l. Acciones Urgentes de Protección: Para garantizar la integridad física y psicológica del sujeto involucrado en el evento de violencia, de inmediato se procederá a solicitar las medidas de protección que se juzguen convenientes ante las autoridades Judiciales, sustanciando el procedimiento de acuerdo a los ordenamientos legales correspondientes, a efecto de que en las resoluciones que se dicten en materia de Violencia Familiar y delitos derivados de hechos de Violencia Familiar, decreten la rehabilitación y/o reeducación del agresor o del procesado, mediante los modelos de atención que para tal efecto se establezcan;
 
-II. Terapias: En las que se darán elementos necesarios para que el sujeto relacionado con la Violencia Familiar pueda desenvolverse en un ambiente normal, reforzando su dignidad e identidad como miembro de la familia; y
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+II. Terapias: En las que se darán elementos necesarios para que los sujetos relacionados con la violencia familiar puedan desenvolverse en un ambiente normal, reforzando su dignidad e identidad como miembro de la familia para lograr las mejores condiciones de bienestar y el libre desarrollo integral de su personalidad.
 
 III. Reeducación: Mediante esta acción se reforzarán los valores que como personas se deben de tener para el mejor desenvolvimiento en sociedad y por ende elevar la calidad de la relación familiar.
 
@@ -474,3 +492,17 @@ PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se entenderá por Secretaría de Seguridad Ciudadana cualquier referencia que se haga, en los ordenamientos jurídicos estatales, a la Agencia de Seguridad Estatal.
+
+G.G. 6 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El Ejecutivo Estatal y los ayuntamientos, en sus respectivos ámbitos de competencia, proveerán lo conducente para el cumplimiento del presente Decreto.
+
+CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamentarias correspondientes en un plazo que no deberá exceder de ciento ochenta días hábiles a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
