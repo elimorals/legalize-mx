@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-prevencion-del-tabaquismo-y-de-proteccion-ante-la-89342"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-31"
-last_updated: "2012-08-31"
+last_updated: "2015-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE PREVENCIÓN DEL TABAQUISMO Y DE PROTECCIÓN ANTE LA EXPOSICIÓN AL HUMO DE TABACO EN EL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
 
 Ley publicada en la Sección Quinta de la Gaceta de Gobierno del Estado de México, el viernes 31 de agosto de 2012.
 
@@ -181,7 +181,9 @@ IV. Promover la participación de la sociedad civil en la ejecución del Program
 
 V. Fomentar en la iniciativa privada, campañas permanentes de información, concientización y difusión para prevenir el consumo de tabaco;
 
-VI. Establecer acciones encaminadas a la orientación o educación a la familia para prevenir el consumo de tabaco en infantes, adolescentes y grupos vulnerables; y
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+VI. Establecer acciones encaminadas a la orientación o educación a la familia para prevenir el consumo de tabaco en niñas, niños y adolescentes, y grupos vulnerables.
 
 VII. Generar políticas de respeto al derecho a la protección de la salud.
 
@@ -227,7 +229,9 @@ II. Todo espacio cerrado de acceso al público, ya sean de carácter público o 
 
 III. Hospitales, clínicas, centros de salud, consultorios, centros de atención médica públicos, sociales o privados, salas de espera, auditorios, bibliotecas, escuelas y cualquier otro lugar cerrado de las instituciones médicas y de enseñanza;
 
-IV. Unidades destinadas al cuidado y atención de niños y adolescentes, personas de la tercera edad y personas con discapacidad;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+IV. Unidades destinadas al cuidado y atención de niñas niños y adolescentes, adultos mayores y personas con discapacidad.
 
 V. Bibliotecas públicas, hemerotecas o museos;
 
@@ -243,7 +247,7 @@ X. Vehículos de transporte escolar o transporte de personal.
 
 ###### Artículo 14.
 
-Los espacios donde se podrá fumar serán únicamente los ubicados al área libre (sic) y en zonas exteriores de los inmuebles o las zonas confinadas exclusivas para fumadores, siempre y cuando no sean los descritos en el artículo anterior.
+Los espacios donde se podrá fumar serán únicamente los ubicados al área libre y en zonas exteriores de los inmuebles o las zonas confinadas exclusivas para fumadores, siempre y cuando no sean los descritos en el artículo anterior.
 
 Es obligación de los propietarios, encargados o responsables de los establecimientos mercantiles en los que se expendan al público alimentos para su consumo en el lugar, que no cuenten con zonas exclusivamente para fumadores, respetar la prohibición de no fumar en los mismos.
 
@@ -253,9 +257,11 @@ Los propietarios, poseedores, responsables de los vehículos de Servicio Públic
 
 Los conductores de los vehículos que no acaten las disposiciones del presente ordenamiento, serán reportados ante la Secretaría de Transporte del Estado de México.
 
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 16.
 
-Los alumnos, maestros, personal administrativo, padres de familia e integrantes de las asociaciones de padres de familia de las instituciones educativas, sean públicas, sociales o privadas, deberán coadyuvar de manera individual o colectiva en la vigilancia del cumplimiento de esta Ley, en particular para evitar que los menores de edad consuman o compren cualquier producto del tabaco.
+Los alumnos, maestros, personal administrativo, padres de familia e integrantes de las asociaciones de padres de familia de las instituciones educativas, sean públicas, sociales o privadas, deberán coadyuvar de manera individual o colectiva en la vigilancia del cumplimiento de esta Ley, en particular para evitar que niñas, niños o adolescentes consuman o adquieran, a través de cualquier medio, producto (sic) derivados del tabaco.
 
 ### CAPÍTULO QUINTO. DE LA PARTICIPACIÓN CIUDADANA
 
@@ -279,9 +285,11 @@ VII. Coordinación con la Comisión Federal para la Protección contra Riesgos S
 
 VIII. Las acciones de auxilio de aplicación de esta Ley como la denuncia ciudadana.
 
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 18.
 
-La Secretaría promoverá la participación activa de la sociedad civil en la observancia de la presente Ley y su Reglamento, colaborando en la elaboración de propuestas para las campañas de información a fin de sensibilizar a la población sobre los riesgos del consumo de tabaco, la exposición al humo del mismo, así como los beneficios de dejar de fumar; las que además promoverán que aquellas personas que fuman, se abstengan de hacerlo cuando puedan afectar la salud de menores de edad, mujeres embarazadas, personas enfermas, con discapacidad y adultos mayores.
+La Secretaría promoverá la participación activa de la sociedad civil en la observancia de la presente Ley, y su Reglamento y en la elaboración de propuestas para las campañas de información, a fin de sensibilizar a la población sobre los riesgos del consumo de tabaco, la exposición al humo del mismo, así como sobre los beneficios de dejar de fumar; las que además promoverán que aquellas personas que fuman, se abstengan de hacerlo cuando puedan afectar la salud de niñas, niños, adolescentes, mujeres embarazadas, personas enfermas, con discapacidad y adultos mayores.
 
 ### CAPÍTULO SEXTO. DE LA DENUNCIA CIUDADANA
 
@@ -456,3 +464,19 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. ERNESTO JAVIER NEMER ALVAREZ
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 6 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El Ejecutivo Estatal y los ayuntamientos, en sus respectivos ámbitos de competencia, proveerán lo conducente para el cumplimiento del presente Decreto.
+
+CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamentarias correspondientes en un plazo que no deberá exceder de ciento ochenta días hábiles a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
