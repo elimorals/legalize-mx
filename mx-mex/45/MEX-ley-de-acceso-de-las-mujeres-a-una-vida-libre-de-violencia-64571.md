@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2015-06-25"
+last_updated: "2015-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -53,9 +53,13 @@ Los objetivos específicos de esta Ley son:
 
 I. Coordinar la política gubernamental de las dependencias e instituciones del Estado de México en coadyuvancia con los gobiernos municipales y los organismos autónomos para garantizar a las mujeres, desde una perspectiva de género, el acceso a una vida libre de violencia a través de acciones y medidas integrales de prevención, atención, sanción y erradicación de la violencia de género contra las mujeres y las niñas;
 
-II. Transformar las condiciones políticas, sociales, económicas y culturales que justifican, alientan y reproducen la violencia de género contra las mujeres y las niñas, para generar mecanismos Institucionales de aplicación de políticas de gobierno Integrales que garanticen el respeto y el ejercicio de sus Derechos Humanos, de conformidad con la legislación nacional, así como de los instrumentos internacionales en la materia aprobados por nuestro país;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-III. Garantizar la protección institucional especializada de las mujeres víctimas de la violencia de género, así como, de sus hijas e hijos;
+II. Transformar las condiciones políticas, sociales, económicas y culturales que justifican, alientan y reproducen la violencia de género contra las niñas, adolescentes y mujeres para generar mecanismos institucionales de aplicación de políticas de gobierno integrales que garanticen el respeto y el ejercicio de sus derechos humanos, de conformidad con la legislación nacional, así como de los instrumentos internacionales en la materia aprobados por nuestro país, y para impulsar y consolidar la atención integral y la generación de oportunidades de manera igualitaria para todas las niñas y adolescentes.
+
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+III. Garantizar la protección institucional especializada para las mujeres víctimas de la violencia de género, así como de sus hijas e hijos.
 
 IV. Asegurar el acceso pronto, expedito, transparente y eficaz de la justicia para las mujeres víctimas de violencia de género tanto desde los ámbitos de la procuración, como de la impartición de justicia;
 
@@ -189,13 +193,17 @@ VI. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dig
 
 Violencia familiar es el acto abusivo de poder u omisión intencional, dirigido a someter, controlar, humillar o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
 
-> <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 8 Bis.
 
-Con el objeto de contribuir a la erradicación de la violencia contra las mujeres dentro de la familia, el Poder Legislativo, en el respectivo ámbito de su competencia, considerará:
+Con el objeto de contribuir a la erradicación de la violencia contra las mujeres dentro de la familia, así como de garantizar el pleno goce, respeto, protección y promoción de los derechos humanos, el Poder Legislativo, en el respectivo ámbito de su competencia, considerará:
+
+> <small>(ADICIONADA, G.G. 18 DE MARZO DE 2011)</small>
 
 I. Establecer la violencia familiar como restricción para el régimen de convivencia así como impedimento para la guarda y custodia de niñas y niños; y
+
+> <small>(ADICIONADA, G.G. 18 DE MARZO DE 2011)</small>
 
 II. Modificar los ordenamientos penales para establecer que cualquier persona que tenga conocimiento de hechos que constituyan delitos de violencia familiar puedan denunciar y posteriormente la víctima la ratifique en el término de 10 días.
 
@@ -439,7 +447,7 @@ El Gobierno del Estado, a través de la Secretaría de Salud, deberá desarrolla
 
 ### CAPÍTULO I. DE LAS POLÍTICAS DE GOBIERNO PARA ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-> <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
 ### CAPÍTULO II
 
@@ -535,7 +543,7 @@ DE LAS POLÍTICAS DE GOBIERNO Y DEL SISTEMA ESTATAL PARA LA IGUALDAD DE TRATO Y 
 
 ###### Artículo 33.
 
-Las Políticas de Gobierno que las dependencias y organismos auxiliares del Estado de México deben diseñar, ejecutar y evaluar para la erradicación de la violencia contra las mujeres y las niñas, son el conjunto de orientaciones y directrices dictadas en sus diversas competencias, a fin de guiar las acciones dirigidas a asegurar los principios y derechos consagrados en la Ley, con la finalidad de abatir las desigualdades entre las mujeres y los hombres, e impulsar los derechos humanos de las mujeres y las niñas y su desarrollo pleno, teniendo carácter obligatorio.
+Las políticas de Gobierno que las dependencias y organismos auxiliares del Estado de México deben diseñar, ejecutar y evaluar para la erradicación de la violencia contra las niñas, adolescentes y mujeres, promoviendo la cultura de respeto y equidad de género hacia ellas, serán el conjunto de orientaciones y directrices dictadas en sus diversas competencias, a fin de guiar las acciones dirigidas a asegurar los principios y derechos consagrados en la Ley, con la finalidad de abatir las desigualdades entre las mujeres y los hombres, e impulsar los derechos humanos de las mujeres y las niñas y su desarrollo pleno, teniendo carácter obligatorio.
 
 > <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
 
@@ -1408,3 +1416,17 @@ G.G. 25 DE JUNIO DE 2015.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 6 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El Ejecutivo Estatal y los ayuntamientos, en sus respectivos ámbitos de competencia, proveerán lo conducente para el cumplimiento del presente Decreto.
+
+CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamentarias correspondientes en un plazo que no deberá exceder de ciento ochenta días hábiles a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
