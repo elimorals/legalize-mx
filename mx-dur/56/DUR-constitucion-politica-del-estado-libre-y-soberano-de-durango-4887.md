@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2015-02-12"
+last_updated: "2015-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE AGOSTO DE 2015 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2015.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -1597,7 +1599,13 @@ En caso de que, transcurrido el plazo de cinco días, el Congreso del Estado no 
 
 Si presentada la segunda propuesta, el Congreso del Estado no la acepta, o no obtenga los votos requeridos dentro de los plazos señalados, en ese mismo acto, la aprobación se llevará a cabo mediante el voto secreto de cuando menos la mitad más uno de los diputados asistentes a la sesión; de no reunirse esa votación, el Ejecutivo, dentro de los diez días posteriores a la celebración de la sesión, realizará la designación que tendrá carácter definitiva. Para el efecto de tener integrado el Pleno del Tribunal Superior de Justicia, los magistrados que vayan a concluir su encargo continuarán en el desempeño de esa responsabilidad hasta en tanto se haga la designación.
 
-La renuncia de los magistrados se presentará ante el Congreso del Estado, quien de encontrarla procedente, notificará al Gobernador del Estado, a efecto de que envíe la propuesta para la sustitución del mismo. En este caso, se observará el procedimiento señalado en el presente artículo, para los efectos de la nueva designación.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2015)</small>
+
+La renuncia de los magistrados se presentará ante el Congreso del Estado, quien de encontrarla procedente, notificará al Gobernador del Estado, a efecto de que envíe la propuesta para la sustitución del mismo. En este caso, se observará el procedimiento señalado en el presente artículo, para los efectos de la nueva designación, la que de presentarse después del transcurso de cuatro años del periodo previsto en esta Constitución, lo será para uno nuevo.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2015)</small>
+
+En los casos de terminación del encargo previstos por esta Constitución, operará la misma regla.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -1697,11 +1705,11 @@ El Tribunal de Justicia Fiscal y Administrativa es la autoridad jurisdiccional d
 
 El Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, se integrará con tres magistrados numerarios y tres magistrados supernumerarios, quienes suplirán a los propietarios en sus ausencias.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 115.
 
-Los magistrados del Tribunal de Justicia Fiscal y Administrativa durarán en su encargo seis años pudiendo ser ratificados por un periodo igual, previa evaluación de su desempeño por parte del Congreso del Estado; los requisitos para ocupar el cargo y la forma de elección, serán los mismos que establece esta Constitución para ser Magistrado del Tribunal Superior de Justicia, además de los que disponga la ley.
+Los magistrados del Tribunal de Justicia Fiscal y Administrativa durarán en su encargo seis años pudiendo ser ratificados por un periodo igual, previa evaluación de su desempeño por parte del Congreso del Estado; los requisitos para ocupar el cargo, y la forma de elección, así como los casos de renuncia y terminación del encargo, serán los mismos que establece esta Constitución para Magistrado del Tribunal Superior de Justicia, además de los que disponga la ley.
 
 (REUBICADA [N. DE E. ANTES SECCIÓN QUINTA], P.O. 24 DE JUNIO DE 2014)
 
@@ -1730,6 +1738,10 @@ El Tribunal para Menores Infractores es la autoridad jurisdiccional dotada de au
 Para el ejercicio de sus atribuciones, el Tribunal para Menores Infractores se integrará por un Magistrado propietario de la Sala Unitaria, un Magistrado Supernumerario, los jueces, los jueces Especializados para Menores, los jueces de Ejecución para Menores, la Unidad de Diagnostico, además del personal jurídico y administrativo necesario para su adecuado funcionamiento.
 
 Los magistrados del Tribunal para Menores Infractores, serán electos mediante el procedimiento y con los requisitos que señale la ley. Durarán en su encargo seis años y podrán ser ratificados en una sola ocasión por igual período, previa evaluación de su desempeño por parte del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2015)</small>
+
+En caso de renuncia o terminación del encargo después del transcurso de cuatro años de iniciado el encargo, la nueva designación será por un nuevo periodo.
 
 Los jueces en materia de menores, serán nombrados previo examen por oposición y en base a lo dispuesto por la ley, la cual además establecerá las bases para la organización y funcionamiento del Tribunal.
 
@@ -1991,9 +2003,17 @@ La Comisión estará integrada por un Presidente y un Consejo de cinco miembros.
 
 El Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales tiene como objeto garantizar, promover y difundir el ejercicio del derecho de acceso a la información pública y proteger los datos personales en poder de los sujetos obligados.
 
-El Instituto tendrá un Consejo General, será el órgano máximo de autoridad y se integrará por tres consejeros propietarios, quienes designarán a su presidente de entre sus miembros. Los consejeros durarán en su cargo cuatro años, pudiendo ser reelectos en una sola ocasión.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2015)</small>
 
-El Instituto se regirá por los principios de transparencia, objetividad, legalidad, imparcialidad y máxima publicidad de la información.
+El Instituto tendrá un Consejo General, que será el órgano máximo de autoridad y estará integrado por tres comisionados propietarios, quienes designarán a su presidente de entre sus miembros.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2015)</small>
+
+Los comisionados y consejeros, respectivamente, durarán en su cargo por un periodo que no excederá de siete años, sin posibilidad de reelección.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2015)</small>
+
+Para el cumplimiento de sus objetivos, el Instituto se regirá por los principios de: certeza, eficacia, imparcialidad, independencia, legalidad, máxima publicidad, objetividad, profesionalismo y transparencia.
 
 Por lo que hace a la protección de los datos personales, se regirá por los principios de calidad de los datos, utilización no abusiva, exactitud, derecho al olvido, oportunidad y consentimiento.
 
@@ -3527,9 +3547,11 @@ Cuarto.
 
 El sistema penal acusatorio y oral previsto en esta Constitución entrará en vigor conforme a la legislación procesal y orgánica correspondiente y al procedimiento establecido en los artículos transitorios primero y segundo del Decreto número 173, expedido por la LXIV Legislatura, y publicado en el Periódico Oficial del Gobierno del Estado número 13 bis de fecha 12 de febrero del año 2009.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2015)</small>
+
 Quinto.
 
-El Gobernador del Estado, los diputados, el Auditor Superior del Estado, los magistrados, Consejeros de la Judicatura y jueces del Poder Judicial, los consejeros y comisionados de los órganos constitucionales autónomos, los presidentes municipales, síndicos y regidores, que ocupen dichos cargos al momento de entrar en vigor la presente Constitución, continuarán en sus puestos hasta que concluya el periodo para el que resultaron electos y designados; salvo que hubiera causa legal para la privación del cargo.
+El Gobernador del Estado, los diputados, el Auditor Superior del Estado, los magistrados, Consejeros de la Judicatura y jueces del Poder Judicial, los consejeros y comisionados de los órganos constitucionales autónomos, los presidentes municipales, síndicos y regidores, que ocupen dichos cargos al momento de entrar en vigor la presente Constitución, continuarán en sus puestos hasta que concluya el periodo para el que resultaron electos y designados; salvo que hubiera causa legal para la privación del cargo o en los casos de renuncia.
 
 Sexto.
 
@@ -3578,3 +3600,11 @@ P.O. 12 DE FEBRERO DE 2015.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 6 DE AGOSTO DE 2015.
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- El Instituto Duranguense de Acceso a la Información Publica y de Protección de Datos Personales, contara con un término de seis meses posteriores a la entrada en vigor del presente decreto, para la debida conformación y entrada en funciones del Consejo Consultivo.
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al contenido de esta ley.
