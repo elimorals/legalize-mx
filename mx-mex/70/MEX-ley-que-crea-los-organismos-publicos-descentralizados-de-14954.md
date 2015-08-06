@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-los-organismos-publicos-descentralizados-de-14954"
 country: "mx"
 rank: "ley"
 publication_date: "1985-07-16"
-last_updated: "2015-07-13"
+last_updated: "2015-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY QUE CREA LOS ORGANISMOS PUBLICOS DESCENTRALIZADOS DE ASISTENCIA SOCIAL DE CARACTER MUNICIPAL DENOMINADO "SISTEMAS MUNICIPALES PARA EL DESARROLLO INTEGRAL DE LA FAMILIA"
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE OCTUBRE DE 2015 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY QUE CREA LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS, DE ASISTENCIA SOCIAL, DE CARÁCTER MUNICIPAL, DENOMINADOS «SISTEMAS MUNICIPALES PARA EL DESARROLLO INTEGRAL DE LA FAMILIA» DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 16 de julio de 1985.
 
@@ -39,19 +41,21 @@ LEY QUE CREA LOS ORGANISMOS PUBLICOS DESCENTRALIZADOS, DE ASISTENCIA SOCIAL, DE 
 
 ### CAPITULO PRIMERO. CONSTITUCION Y FINES
 
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO PRIMERO.
 
-Se crean los Organismo Públicos Descentralizados de Asistencia Social, de carácter Municipal, denominados "SISTEMAS MUNICIPALES PARA EL DESARROLLO INTEGRAL DE LA FAMILIA" de los Municipios de: NAUCALPAN, TLALNEPANTLA DE BAZ, ECATEPEC, NEZAHUALCOYOTL, TOLUCA, CUAUTITLAN IZCALLI, ATIZAPAN DE ZARAGOZA, TULTITLAN, HUIXQUILUCAN, LERMA, COACALCO DE BERRIOZABAL, LA PAZ, METEPEC, CUAUTITLAN, VALLE DE BRAVO, TEXCOCO, TECAMAC, NICOLAS ROMERO, IXTAPALUCA, ATLACOMULCO, TEPOTZOTLAN, ZUMPANGO, IXTLAHUACA, JILOTEPEC, TENANCINGO, TIANGUISTENCO, ZINACANTEPEC, TEJUPILCO, HUEHUETOCA, CHALCO, ACULCO, ALMOLOYA DEL RIO, ALMOLOYA DE ALQUISIRAS, ALMOLOYA DE JUAREZ, AMATEPEC, ATLAUTLA, APAXCO, AXAPUSCO, COATEPEC HARINAS, CHAPA DE MOTA, CHAPULTEPEC, CHIAUTLA, CHIMALHUACAN, DONATO GUERRA, EL ORO, IXTAPAN DE LA SAL, IXTAPAN DEL ORO, JOCOTITLAN, JOQUICINGO, JUCHITEPEC, MEXICALCINGO, NOPALTEPEC, OCUILAN, OTZOLOAPAN, OTZOLOTEPEC, OTUMBA, POLOTITLAN, PAPALOTLA, RAYON, SAN SIMON DE GUERRERO, SOYANIQUILPAN, SULTEPEC, TEMAMATLA, TEMASCALTEPEC, TEMASCALCINGO, TEMOAYA, TENANGO DEL AIRE, TENANGO DEL VALLE, TEOTIHUACAN, TEPETLIXPA, TEXCALYACAC, TIMILPAN, VILLA DE ALLENDE, VILLA DEL CARBON, ZACAZONAPAN, ZUMPAHUACAN, ACAMBAY, ACOLMAN, AMANALCO, AMECAMECA, ATENCO, ATIZAPAN, AYAPANGO, CALIMAYA, CAPULHUAC, COCOTITLAN, COYOTEPEC, CHICOLOAPAN, CHICONCUAC, ECATZINGO, HUEYPOXTLA, ISIDRO FABELA, JALTENCO, JILOTZINGO, JIQUIPILCO, MALINALCO, MELCHOR OCAMPO, MORELOS, NEXTLALPAN, OCOYOACAC, OZUMBA, SAN ANTONIO LA ISLA, SAN FELIPE DEL PROGRESO, SAN JOSÉ DEL RINCON, SAN MARTIN DE LAS PIRAMIDES, SAN MATEO ATENCO, SANTO TOMAS, TEMASCALAPA, TEOLOYUCAN, TEQUIXQUIAC, TEPETLAOXTOC, TEXCALTITLAN, TEZOYUCA, TLALMANALCO, TLATLAYA, TONATICO, TULTEPEC, VILLA GUERRERO, VILLA VICTORIA, VALLE DE CHALCO SOLIDARIDAD, XALATLACO, XONACATLAN, ZACUALPAN, LUVIANOS Y TONANITLA.
+Se crean los organismos públicos descentralizados de asistencia social y protección de la infancia y adolescencia, de carácter municipal, denominados "SISTEMAS MUNICIPALES PARA EL DESARROLLO INTEGRAL DE LA FAMILIA" de los municipios de: NAUCALPAN, TLALNEPANTLA DE BAZ, ECATEPEC, NEZAHUALCOYOTL, TOLUCA, CUAUTITLÁN IZCALLI, ATIZAPÁN DE ZARAGOZA, TULTITLÁN, HUIXQUILUCAN, LERMA, COACALCO DE BERRIOZABAL, LA PAZ, ECATEPEC, CUAUTITLÁN, VALLE DE BRAVO, TEXCOCO, TECAMAC, NICOLÁS ROMERO, IXTAPALUCA, ATLACOMULCO, TEPOTZOTLÁN, ZUMPANGO, IXTLAHUACA, JILOTEPEC, TENANCINGO, TIANGUISTENCO, ZINACANTEPEC, TEJUPILCO, HUEHUETOCA, CHALCO, ACULCO, ALMOLOYA DEL RIO, ALMOLOYA DE ALQUISIRAS, ALMOLOYA DE JUÁREZ, AMATEPEC, ATLAUTLA, APAXCO, AXAPUSCO, COATEPEC HARINAS, CHAPA DE MOTA, CHAPULTEPEC, CHIAUTLA, CHIMALHUACÁN, DONATO GUERRA, EL ORO, IXTAPAN DE LA SAL, IXTAPAN DEL ORO, JOCOTITLÁN, JOQUICINGO, JUCHITEPEC, MEXICALCINGO, NOPALTEPEC, OCUILAN, OTZOLOAPAN, OTZOLOTEPEC, OTUMBA, POLOTITLÁN, PAPALOTLA, RAYÓN, SAN SIMÓN DE GUERRERO, SOYANIQUILPAN, SULTEPEC, TEMAMATLA, TEMASCALTEPEC, TEMASCALCINGO, TEMOAYA, TENANGO DEL AIRE, TENANGO DEL VALLE, TEOTIHUACAN, TEPETLIXPA, TEXCALYACAC, TIMILPAN, VILLA DE ALLENDE, VILLA DEL CARBÓN, ZACAZONAPAN, ZUMPAHUACÁN, ACAMBAY, ACOLMAN, AMANALCO, AMECAMECA, ATENCO, ATIZAPÁN, AYAPANGO, CALIMAYA, CAPULHUAC, COCOTITLAN, COYOTEPEC, CHICOLOAPAN, CHICONCUAC, ECATZINGO, HUEYPOXTLA, ISIDRO FABELA, JALTENCO, JILOTZINGO, JIQUIPILCO, MALINALCO, MELCHOR OCAMPO, MORELOS, NEXTLALPAN, OCOYOACAC, OZUMBA, SAN ANTONIO LA ISLA, SAN FELIPE DEL PROGRESO, SAN JOSÉ DEL RINCÓN, SAN MARTÍN DE LAS PIRÁMIDES, SAN MATEO ATENCO, SANTO TOMAS, TEMASCALAPA, TEOLOYUCAN, TEQUIXQUIAC, TEPETLAOXTOC, TEXCALTITLAN, TEZOYUCA, TLALMANALCO, TLATLAYA, TONATICO, TULTEPEC, VILLA GUERRERO, VILLA VICTORIA, VALLE DE CHALCO SOLIDARIDAD, XALATLACO, XONACATLÁN, ZACUALPAN, LUVIANOS Y TONANITLA.
 
 ###### ARTICULO SEGUNDO.
 
 Los Organismos para el Desarrollo Municipal de la Familia, que se constituyen para cada municipio, tendrán su domicilio social en la Cabecera Municipal correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO TERCERO.
 
-Los organismos a que se refiere esta Ley, tendrán los siguientes objetivos de asistencia social y beneficio colectivo:
+Los organismos a que se refiere esta Ley tendrán los siguientes objetivos de asistencia social, protección de niñas, niños y adolescentes y beneficio colectivo:
 
 I. Asegurar la atención permanente a la población marginada, brindando servicios integrales de asistencia social, enmarcados dentro de los Programas Básicos del Sistema para el Desarrollo Integral de la Familia del Estado de México, conforme a las normas establecidas a nivel Nacional y Estatal;
 
@@ -63,23 +67,29 @@ III. Fomentar la educación escolar y extra-escolar e impulsar el sano crecimien
 
 IV. Coordinar las actividades que en materia de asistencia social realicen otras instituciones públicas o privadas en el municipio;
 
-> <small>(REFORMADA, G.G. 27 DE JULIO DE 1994)</small>
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-V.- Impulsar, promover o gestionar la creación de instituciones o establecimientos de asistencia social, en beneficio de menores en estado de abandono, de senescentes y de discapacitados sin recursos.
+V. Impulsar, promover o gestionar la creación de Instituciones o establecimientos de asistencia social, en beneficio de niñas, niños y adolescentes en estado de abandono, de adultos mayores y de personas con discapacidad sin recursos.
 
-> <small>(REFORMADA, G.G. 27 DE JULIO DE 1994)</small>
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-VI.- Prestar servicios jurídicos y de orientación social a menores, senectos y discapacitados carentes de recursos económicos, así como a la familia para su integración y bienestar.
+VI. Prestar servicios jurídicos y de orientación social a niñas, niños adolescentes, adultos mayores y personas con discapacidad carentes de recursos económicos, así como a la familia para su integración y bienestar.
 
-VII. Procurar permanentemente la adecuación de los objetivos y programas del Sistema Municipal y los que lleve a cabo el D.I.F. Estatal, a través de Acuerdos, Convenios o cualquier figura jurídica, encaminados a la obtención del bienestar social;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-> <small>(REFORMADA, G.G. 11 DE DICIEMBRE DE 2002)</small>
+VII. Proteger de manera integral los derechos de niñas, niños y adolescentes y restituirlos en caso de vulneración de los mismos, a través de las medidas especiales de protección que sean necesarias.
 
-VIII. Impulsar acciones para promover el desarrollo humano integral de los adultos mayores, coadyuvando para que sus distintas capacidades sean valoradas y aprovechadas en el desarrollo comunitario, económico y social;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-> <small>(ADICIONADA, G.G. 11 DE DICIEMBRE DE 2002)</small>
+VIII. Procurar permanentemente la adecuación de los objetivos y programas del Sistema Municipal y los que lleve a cabo el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de acuerdos, convenios o cualquier figura jurídica, encaminados a la protección de la infancia y adolescencia y la obtención del bienestar social.
 
-IX.- Los demás que le encomienden las Leyes.
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+IX. Impulsar acciones para promover el desarrollo humano integral de los adultos mayores, coadyuvando para que sus distintas capacidades sean valoradas y aprovechadas en el desarrollo comunitario, económico y social.
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+X. Las demás que le encomienden las leyes.
 
 ### CAPITULO SEGUNDO. PATRIMONIO
 
@@ -203,7 +213,9 @@ I. Cumplir los objetivos, funciones y labores sociales del Organismo;
 
 II. Ejecutar los acuerdos y disposiciones de la Junta de Gobierno;
 
-III. Dictar las medidas y acuerdos necesarios para la protección de la infancia, el senescente, el discapacitado y la integración de la familia; así como para cumplir con los objetivos del Organismo;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+III. Dictar las medidas y acuerdos necesarios para la protección de niñas, niños y adolescentes, adultos mayores, las personas con discapacidad y para la integración de la familia, así como para cumplir con los objetivos del organismo.
 
 IV. Proponer a la Junta de Gobierno el Reglamento Interno del Organismo y sus modificaciones; así como los manuales de organización, de procedimientos y de servicios al público;
 
@@ -351,11 +363,31 @@ Podrá formarse dentro del seno del Sistema Municipal un Patronato con represent
 
 Las relaciones laborales del Sistema Municipal y sus trabajadores, se regirán por el Estatuto Jurídico de los Trabajadores al Servicio de los Poderes del Estado, de los Municipios y de los Organismos Coordinados y Descentralizados de Carácter Estatal.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE AGOSTO DE 2015)</small>
+
+### CAPITULO TERCERO BIS. DE LA PROCURADURIA MUNICIPAL DE PROTECCION DE NIÑAS, NIÑOS Y ADOLESCENTES
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+###### ARTICULO VIGESIMO BIS.
+
+Los sistemas municipales contarán con una Procuraduría de Protección de Niñas, Niños y Adolescentes, cuyo objeto es la protección integral y restitución de los derechos de las niñas, niños y adolescentes, a través de la determinación y coordinación en la ejecución y seguimiento de las medidas de protección.
+
+Para tal efecto se deberán establecer acciones conjuntas con las autoridades administrativas de asistencia social, de servicios de salud, de educación, de protección social, de cultura, de deporte y con todas aquellas que sean necesarias para garantizar los derechos de las niñas, niños y adolescentes en el municipio.
+
+Para su funcionamiento la procuraduría de protección municipal deberá contar con personal multidisciplinario conformado por lo menos por profesionistas con cédula en las carreras de derecho, medicina, psicología y trabajo social.
+
+El Sistema para el Desarrollo Integral de la Familia del Estado de México establecerá los criterios que permitan la operación de las procuradurías de protección municipal a fin de lograr una coordinación y mejor cobertura en el territorio estatal, de conformidad con lo establecido en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de México y su reglamento.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+###### ARTICULO VIGESIMO TER.
+
+El titular de la Procuraduría de Protección Municipal deberá contar con título y cédula profesional de licenciado en derecho con una experiencia mínima de tres años en el ejercicio de su profesión, no haber sido sentenciado por delito doloso y será nombrado por la Junta de Gobierno a propuesta de quien presida el Sistema Municipal para el Desarrollo Integral de la Familia.
+
 ### CAPITULO CUARTO. CONTROL Y VIGILANCIA
 
 > <small>(REFORMADO, G.G. 27 DE JULIO DE 1994)</small>
-
-### CAPITULO QUINTO. PRERROGATIVAS Y FRANQUICIAS
 
 ###### ARTICULO VIGESIMO PRIMERO.
 
@@ -364,6 +396,8 @@ Los Sistemas Municipales para el Desarrollo Integral de la Familia estarán suje
 ###### ARTICULO VIGESIMO SEGUNDO.
 
 La contabilidad de los Sistemas Municipales se llevará a cabo a través de un contador que al efecto designe la Junta de Gobierno respectiva con las obligaciones que ésta última le imponga.
+
+### CAPITULO QUINTO. PRERROGATIVAS Y FRANQUICIAS
 
 ###### ARTICULO VIGESIMO TERCERO.
 
@@ -458,3 +492,17 @@ G.G. 13 DE JULIO DE 2015.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Esta (sic) Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno"
+
+G.G. 6 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El Ejecutivo Estatal y los ayuntamientos, en sus respectivos ámbitos de competencia, proveerán lo conducente para el cumplimiento del presente Decreto.
+
+CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamentarias correspondientes en un plazo que no deberá exceder de ciento ochenta días hábiles a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
