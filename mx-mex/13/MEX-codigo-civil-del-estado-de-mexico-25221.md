@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2015-07-13"
+last_updated: "2015-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -197,7 +197,9 @@ II. El aseguramiento de una vida privada y familiar libre de violencia;
 
 III. El respeto a la reproducción de la imagen y voz;
 
-IV. Los derivados del nombre o del seudónimo y de la identidad personal;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+IV. Los derivados del nombre o del seudónimo, de la nacionalidad, de la pertenencia cultural, de la filiación, de su origen y de su identidad.
 
 V. El domicilio;
 
@@ -467,25 +469,35 @@ De la constancia de origen
 
 ### CAPITULO I. De las Actas de Nacimiento
 
-> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE AGOSTO DE 2015)</small>
 
-Del registro de nacimiento
+Presentación de la persona para declarar su nacimiento
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 3.
 
-8.- El registro oportuno es el hecho que se declara dentro del primer año de ocurrido el nacimiento.
+8.- El registro oportuno es el hecho que se declara dentro de los primeros sesenta días de ocurrido el nacimiento. Dicho plazo podrá ampliarse cuando la niña o niño presente algún problema de salud debidamente justificado, que impida su registro.
 
-El registro extemporáneo es aquel que se declara después de un año de ocurrido el nacimiento.
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+El registro extemporáneo es aquel que se declara después de sesenta días de ocurrido el nacimiento.
+
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
 
 Los registros extemporáneos de nacimiento de personas originarias del Estado de México que viven en el extranjero, se harán conforme a lo dispuesto en el Reglamento del Registro Civil vigente en la entidad.
 
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Las declaraciones de nacimiento se harán presentando a la persona ante el Oficial del Registro Civil, la inscripción será de forma inmediata y gratuita. La primera copia certificada del acta de registro de nacimiento se expedirá gratuitamente.
+
 Personas obligadas a declarar el nacimiento
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 3.
 
-9.- Tienen obligación de declarar el nacimiento, la madre, el padre, ambos o quien ejerza la patria potestad. A falta de los anteriores, persona distinta que tenga conocimiento de éste, cumpliendo con los requisitos previstos en el presente Código y su normatividad reglamentaria.
+9.- Tienen obligación de declarar el nacimiento, la madre, el padre, ambos o quienes ejerzan la patria potestad dentro de los primeros sesenta días de vida. A falta de los anteriores, persona distinta que tenga conocimiento de este, cumpliendo con los requisitos previstos en el presente Código y su normatividad reglamentaria. Asimismo, tienen la obligación de declarar el nacimiento quienes ejerzan la tutela o guarda y custodia, y las demás personas que por razón de sus funciones o actividades tengan bajo su cuidado niñas, niños o adolescentes, o personas que los tengan bajo su responsabilidad, y cuando sean instituciones públicas, conforme a su ámbito de competencia.
 
 Los médicos, parteras, matronas o quien hubiere asistido el parto, tienen la obligación de extender la constancia relativa al nacimiento, de acuerdo a la legislación respectiva.
 
@@ -529,15 +541,15 @@ Además de los datos generales de los padres, se hará constar en el acta de nac
 
 De los expósitos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 3.
 
-13.- Toda persona que encontrare un expósito, deberá presentarlo ante el Agente del Ministerio público, con los vestidos, valores o cualesquiera otros objetos encontrados con él, para iniciar la Carpeta de Investigación respectiva. Para los efectos del presente Código, tendrán la calidad de menores entregados aquéllos sobre quienes en el momento del parto, la madre ha solicitado que se preserve el secreto de su identidad y la reserva en torno al nacimiento, quedando el menor bajo la tutela inmediata del Sistema para el Desarrollo Integral de la Familia del Estado de México, quien a su vez podrá enviarlos a los Sistemas Municipales de Desarrollo Integral de la Familia del Estado de México que cuenten con albergues o actuar conforme a su normativa.
+13.- Toda persona que encontrare un expósito, deberá presentarlo ante el Agente del Ministerio Público, con los vestidos, valores o cualesquiera otros objetos encontrados con él, para iniciar la Carpeta de Investigación respectiva. Para los efectos del presente Código, tendrán la calidad de entregados aquéllos sobre quienes en el momento del parto, la madre ha solicitado que se preserve el secreto de su identidad y la reserva en torno al nacimiento, quedando bajo la tutela inmediata del Sistema para el Desarrollo Integral de la Familia del Estado de México, quien a su vez podrá enviarlos a los Sistemas Municipales de Desarrollo Integral de la Familia del Estado de México que cuenten con Centros de Asistencia Social o actuar conforme a su normativa.
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
-El Ministerio Público una vez iniciada ésta, enviará, de manera inmediata al expósito al Sistema para el Desarrollo Integral de la Familia del Estado de México; quien a su vez podrá enviarlos a los Sistemas Municipales de Desarrollo Integral de la Familia del Estado de México que cuenten con albergues o en su caso, a una institución o asociación de asistencia social constituida, registrada legalmente para estos fines y reconocida ante el Sistema para el Desarrollo Integral de la Familia del Estado de México.
+El Ministerio Público una vez iniciada la Carpeta de Investigación, enviará, de manera inmediata al expósito al Sistema para el Desarrollo Integral de la Familia del Estado de México a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes, quien a su vez podrá enviarlo; al Sistema DIF Municipal correspondiente a través de la Procuraduría de Protección Municipal que cuente con Centros de Asistencia Social, o una institución o asociación de asistencia social constituida, registrada legalmente para estos fines y reconocida ante el Sistema para el Desarrollo Integral de la Familia del Estado de México.
 
 > <small>(REFORMADO, G.G. 7 DE MAYO DE 2015)</small>
 
@@ -2093,11 +2105,11 @@ Obligación alimentaria de colaterales hasta el cuarto grado
 
 Aspectos que comprenden los alimentos
 
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 4.
 
-135.- Los alimentos comprenden todo lo que sea necesario para el sustento, habitación, vestido, atención médica y hospitalaria. Tratándose de menores y tutelados comprenden, además, los gastos necesarios para la educación primaria y secundaria del alimentista, así como descanso y esparcimiento. Respecto de los descendientes los alimentos incluyen también proporcionarle algún oficio, arte o profesión adecuados a sus circunstancias personales.
+135.- Los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación y nutrición, habitación, educación, vestido, atención médica, hospitalaria y psicológica preventiva integrada a la salud y recreación. Tratándose de niñas, niños y adolescentes y tutelados comprenden, además, los gastos necesarios para la educación básica, descanso, esparcimiento y que se le proporcione en su caso, algún oficio, arte o profesión adecuados a sus circunstancias personales.
 
 Forma de cumplir la obligación alimentaria
 
@@ -2163,7 +2175,9 @@ III. El tutor;
 
 IV. Los demás parientes sin limitación de grado en línea recta y los colaterales hasta dentro del cuarto grado;
 
-V. El Ministerio Público a falta o por imposibilidad de las personas señaladas en las últimas tres fracciones.
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+V. El Ministerio Público o la Procuraduría de Protección de Niñas, Niños y Adolescentes a falta o por imposibilidad de las personas en las últimas tres fracciones.
 
 Derecho preferente sobre ingresos y bienes del obligado alimentario
 
@@ -2759,15 +2773,43 @@ Seguimiento de las adopciones internacionales
 
 200.- En las adopciones internacionales el Sistema Estatal para el Desarrollo Integral de la Familia del Estado estará facultado para dar seguimiento de las condiciones físicas, educativas y emocionales del menor dado en adopción.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+###### Artículo 4.
+
+200 Bis.- Son obligaciones de quienes ejercen la patria potestad, tutela o guarda y custodia, así como de las demás personas que por razón de sus funciones o actividades tengan bajo su cuidado niñas, niños o adolescentes, en proporción a su responsabilidad, y cuando sean instituciones públicas o privadas, conforme a su ámbito de competencia, las siguientes:
+
+I. Garantizar sus derechos alimentarios, su desarrollo integral y el ejercicio de sus derechos, de conformidad con lo dispuesto en el presente Código y demás disposiciones aplicables.
+
+II. Registrarlos dentro de los primeros sesenta días de vida.
+
+III. Asegurar que cursen la educación obligatoria, participar en su proceso educativo y proporcionarles las condiciones para su continuidad y permanencia en el sistema educativo.
+
+IV. Formar y educar apropiadamente a niñas, niños y adolescentes, sin que ello pueda justificar limitación, vulneración o restricción alguna en el ejercicio de sus derechos.
+
+V. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno desarrollo de su personalidad.
+
+VI. Fomentar en niñas, niños y adolescentes el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral.
+
+VII. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, venta, trata de personas y explotación.
+
+VIII. Abstenerse de realizar o propiciar cualquier atentado contra su integridad física, psicológica o actos que menoscaben su desarrollo integral.
+
+IX. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia o rechazo en las relaciones entre niñas, niños y adolescentes, y de estos con quienes ejercen la patria potestad, tutela o guarda y custodia, así como con los demás miembros de su familia.
+
+X. Considerar la opinión de las niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+
+XI. Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación.
+
+### CAPITULO II. De los efectos de la Patria Potestad con respecto a los bienes
+
+Administración de los bienes del menor por quien ejerce patria potestad
+
 ###### Artículo 4.
 
 201.- Los hijos y sus ascendientes se deben respeto y consideración recíprocamente.
 
 Personas sobre las que se ejerce la patria potestad
-
-### CAPITULO II. De los efectos de la Patria Potestad con respecto a los bienes
-
-Administración de los bienes del menor por quien ejerce patria potestad
 
 ###### Artículo 4.
 
@@ -2777,6 +2819,12 @@ Aspectos que comprende la patria potestad
 
 > <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
+## TITULO SEXTO BIS. Disposiciones comunes de la Patria Potestad y Tutela
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Obligaciones de quienes ejercen la patria potestad, tutela o guarda y custodia
+
 ###### Artículo 4.
 
 203.- La patria potestad comprende la representación legal y la protección integral del menor en sus aspectos físico, psicológico, moral y social, su guarda y custodia, la administración de sus bienes y el derecho de corrección.
@@ -2784,6 +2832,10 @@ Aspectos que comprende la patria potestad
 Orden de las personas que ejercen la patria potestad
 
 ## TITULO SEPTIMO. De la Patria Potestad
+
+### CAPITULO III. De los modos de acabarse y suspenderse la Patria Potestad
+
+Conclusión de la patria potestad
 
 ###### Artículo 4.
 
@@ -2804,12 +2856,6 @@ III. Por los familiares consanguíneos hasta el tercer grado colateral.
 Tratándose de controversia, el Juez decidirá, tomando en cuenta los intereses del menor.
 
 La patria potestad en caso de separación de la pareja que la ejerce
-
-## TITULO OCTAVO. De la Tutela y Curatela
-
-### CAPITULO III. De los modos de acabarse y suspenderse la Patria Potestad
-
-Conclusión de la patria potestad
 
 ###### Artículo 4.
 
@@ -2843,6 +2889,10 @@ Representación en juicio al hijo bajo patria potestad
 
 Clases de bienes de los sujetos a patria potestad
 
+### CAPITULO I. Disposiciones Generales
+
+Objeto de la tutela
+
 ###### Artículo 4.
 
 211.- Los bienes del sujeto a la patria potestad, se dividen en dos clases:
@@ -2852,10 +2902,6 @@ I. Los que adquiera por su trabajo;
 II. Los que adquiera por cualquiera otro título.
 
 Bienes adquiridos por trabajo del sujeto a patria potestad
-
-### CAPITULO I. Disposiciones Generales
-
-Objeto de la tutela
 
 ###### Artículo 4.
 
@@ -3017,6 +3063,10 @@ IV. Por sustracción o retención indebida del menor por quien no tenga la custo
 
 Excusa para ejercer la patria potestad
 
+### CAPITULO II. De la Tutela Testamentaria
+
+Persona facultada para nombrar tutor testamentario
+
 ###### Artículo 4.
 
 226.- La patria potestad no es renunciable, pero a quienes corresponda ejercerla pueden excusarse:
@@ -3026,10 +3076,6 @@ I. Cuando tengan sesenta años cumplidos;
 II. Cuando por su mal estado de salud no puedan atender debidamente a su desempeño.
 
 Obligaciones del que pierde la patria potestad
-
-### CAPITULO II. De la Tutela Testamentaria
-
-Persona facultada para nombrar tutor testamentario
 
 ###### Artículo 4.
 
@@ -3091,17 +3137,17 @@ Incapacidad legal del menor emancipado por matrimonio
 
 Características del cargo del tutor
 
+## TITULO OCTAVO. De la Tutela y Curatela
+
+### CAPITULO III. De la Tutela Legítima de los menores
+
+Procedencia de la tutela legítima
+
 ###### Artículo 4.
 
 232.- La tutela es un cargo de interés público del que nadie puede eximirse, sino por causa justificada.
 
 Rehúsa del tutor sin justa causa
-
-## TITULO NOVENO. De la Emancipación y de la Mayoría de Edad
-
-### CAPITULO III. De la Tutela Legítima de los menores
-
-Procedencia de la tutela legítima
 
 ###### Artículo 4.
 
@@ -3185,15 +3231,15 @@ Caso en que el testador no ascendiente puede nombrar tutor testamentario
 
 Nombramiento de tutor en caso de pluralidad de menores
 
+### CAPITULO IV. De la Tutela Legítima de mayores incapaces
+
+Tutor legítimo del cónyuge incapacitado
+
 ###### Artículo 4.
 
 247.- Si fueren varios los menores podrá nombrárseles un tutor común, o diferente a cada uno de ellos.
 
 Nombramiento de tutor testamentario por padre que ejerce la tutela
-
-### CAPITULO IV. De la Tutela Legítima de mayores incapaces
-
-Tutor legítimo del cónyuge incapacitado
 
 ###### Artículo 4.
 
@@ -3247,17 +3293,17 @@ Elección de tutor legítimo por el Juez
 
 255.- Si hubiere varios parientes del mismo grado, el Juez elegirá al más apto; pero si el menor hubiere cumplido doce años, él hará la elección.
 
-###### Artículo 4.
-
-256.- El cónyuge es tutor legítimo y forzoso del otro incapacitado, a falta de aquél lo serán los hijos.
-
-Designación de tutor en caso de pluralidad de hijos
-
 ### CAPITULO V. De la Tutela Legítima de los expósitos o abandonados
 
 Tutela de expósitos y de abandonados
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 15 DE MAYO DE 2012)</small>
+
+###### Artículo 4.
+
+256.- El cónyuge es tutor legítimo y forzoso del otro incapacitado, a falta de aquél lo serán los hijos.
+
+Designación de tutor en caso de pluralidad de hijos
 
 ###### Artículo 4.
 
@@ -3271,15 +3317,15 @@ Derecho de los padres para ser tutores
 
 Otros parientes que deben ser tutores legítimos
 
+### CAPITULO VI. De la Tutela Dativa
+
+Casos en que procede la tutela dativa
+
 ###### Artículo 4.
 
 259.- A falta de tutor testamentario y de persona que con arreglo a los artículos anteriores debe desempeñar la tutela, serán llamados a ella: los abuelos; enseguida los hermanos del incapacitado y por último los demás colaterales hasta el cuarto grado; decidiendo, en su caso, el Juez.
 
 Tutor del incapacitado que tenga hijos menores
-
-### CAPITULO VI. De la Tutela Dativa
-
-Casos en que procede la tutela dativa
 
 ###### Artículo 4.
 
@@ -3311,25 +3357,25 @@ Si no se aprueba el nombramiento, el Juez le designará tutor.
 
 Nombramiento de tutor dativo a menor de doce años
 
-###### Artículo 4.
-
-264.- Si el menor no ha cumplido doce años, el nombramiento de tutor lo hará el Juez, debiendo recaer en persona idónea para su desempeño.
-
-Tutela dativa de menor emancipado
-
 ### CAPITULO VII. De la Tutela Voluntaria
 
 Nombramiento de tutor voluntario por personas capaces
 
 ###### Artículo 4.
 
-265.- Siempre será dativa la tutela para asuntos judiciales del menor de edad emancipado.
+264.- Si el menor no ha cumplido doce años, el nombramiento de tutor lo hará el Juez, debiendo recaer en persona idónea para su desempeño.
 
-Nombramiento de tutor dativo aunque el pupilo carezca de bienes
+Tutela dativa de menor emancipado
 
 ### CAPITULO VIII. De los impedimentos para el desempeño de la tutela y de la separación del cargo de tutor
 
 Personas que no pueden desempeñar la tutela
+
+###### Artículo 4.
+
+265.- Siempre será dativa la tutela para asuntos judiciales del menor de edad emancipado.
+
+Nombramiento de tutor dativo aunque el pupilo carezca de bienes
 
 ###### Artículo 4.
 
@@ -3371,15 +3417,15 @@ Instrucciones al tutor voluntario
 
 Requisitos para ser tutor voluntario
 
+### CAPITULO IX. De las excusas para el desempeño de la tutela
+
+Causas de excusa para ser tutor
+
 ###### Artículo 4.
 
 272.- Si al hacerse la designación de tutor o curador voluntarios, éstos no reúnen los requisitos para desempeñar el cargo, será válida la designación si los satisfacen al momento de desempeñarse.
 
 Requisitos para el desempeño de tutor voluntario
-
-### CAPITULO IX. De las excusas para el desempeño de la tutela
-
-Causas de excusa para ser tutor
 
 ###### Artículo 4.
 
@@ -3423,21 +3469,23 @@ IV. Los que abandonen el cargo por más de tres meses.
 
 Obligación para reclamar la separación del tutor
 
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 4.
 
-276.- El Ministerio Público y los parientes del pupilo, tienen obligación de promover la separación de los tutores.
+276.- La Procuraduría de Protección de Niñas, Niños y Adolescentes, el Ministerio Público y los parientes del pupilo tienen la obligación de promover la separación de los tutores.
 
 Suspensión del cargo de tutor por delito doloso
+
+### CAPITULO X. De la garantía que deben prestar los tutores
+
+Garantía que se debe otorgar para ejercer la tutela
 
 ###### Artículo 4.
 
 277.- El tutor que fuere procesado por delito doloso, quedará suspendido de su cargo desde el auto de formal prisión o de sujeción a proceso, hasta que se dicte sentencia irrevocable.
 
 Nuevo nombramiento de tutor
-
-### CAPITULO X. De la garantía que deben prestar los tutores
-
-Garantía que se debe otorgar para ejercer la tutela
 
 ###### Artículo 4.
 
@@ -3479,13 +3527,13 @@ Efectos de la excusa del tutor testamentario
 
 Efectos de la negativa a ejercer la tutela
 
-###### Artículo 4.
-
-283.- El tutor que sin excusa o desechada la que hubiere propuesto no desempeñe la tutela, pierde el derecho que tenga para heredar al incapacitado que muera intestado, y es responsable de los daños y perjuicios. Igual sanción se aplica a la persona a quien corresponda la tutela legítima, si habiendo sido legalmente citada, no se presenta al Juez manifestando su parentesco con el incapaz.
-
 ### CAPITULO XI. Del desempeño de la Tutela
 
 Nombramiento de curador para desempeñar la tutela
+
+###### Artículo 4.
+
+283.- El tutor que sin excusa o desechada la que hubiere propuesto no desempeñe la tutela, pierde el derecho que tenga para heredar al incapacitado que muera intestado, y es responsable de los daños y perjuicios. Igual sanción se aplica a la persona a quien corresponda la tutela legítima, si habiendo sido legalmente citada, no se presenta al Juez manifestando su parentesco con el incapaz.
 
 ###### Artículo 4.
 
@@ -3519,15 +3567,15 @@ Medidas para conservar los bienes del pupilo
 
 Garantía del tutor coheredero del pupilo
 
+### CAPITULO XII. De las cuentas de la Tutela
+
+Periodo en que el tutor rinde cuentas
+
 ###### Artículo 4.
 
 287.- Si el tutor es coheredero del incapaz, y éste no tiene más bienes que los hereditarios, no se le podrá exigir al tutor otra garantía que la de su misma porción hereditaria, a no ser que esa porción no iguale a la mitad de la porción del incapaz, pues en tal caso se igualará la garantía.
 
 Reglas para determinar el monto de la garantía
-
-### CAPITULO XII. De las cuentas de la Tutela
-
-Periodo en que el tutor rinde cuentas
 
 ###### Artículo 4.
 
@@ -3599,6 +3647,10 @@ Medidas para garantizar el cuidado de los pupilos
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
 
+### CAPITULO XIII. De la extinción de la Tutela
+
+Causas de extinción de la tutela
+
 ###### Artículo 4.
 
 296.- Si los pupilos carecen de bienes y no tienen parientes que estén obligados a alimentarlos, o si teniéndolos no pueden hacerlo, el tutor, con autorización del Juez, los pondrá bajo el cuidado del Sistema para el Desarrollo Integral de la Familia del Estado de México o de los Sistemas Municipales que cuenten con albergues.
@@ -3606,10 +3658,6 @@ Medidas para garantizar el cuidado de los pupilos
 El tutor no queda eximido de su cargo.
 
 Obligación de hacer inventarios
-
-### CAPITULO XIII. De la extinción de la Tutela
-
-Causas de extinción de la tutela
 
 ###### Artículo 4.
 
@@ -3745,15 +3793,15 @@ Pago al tutor de los gastos cubiertos con su peculio
 
 318.- Deben pagarse al tutor los gastos hechos de su peculio, con motivo de la administración de los bienes del incapacitado.
 
+### CAPITULO XIV. De la entrega de los bienes al concluir la Tutela
+
+Obligación del tutor de entregar los bienes del pupilo
+
 ###### Artículo 4.
 
 319.- El tutor que sea sustituido, o su sucesión, rendirá cuentas al nuevo tutor.
 
 Cancelación de la garantía por aprobación de cuentas
-
-### CAPITULO XIV. De la entrega de los bienes al concluir la Tutela
-
-Obligación del tutor de entregar los bienes del pupilo
 
 ###### Artículo 4.
 
@@ -3785,15 +3833,19 @@ Periodo para entregar los bienes
 
 Obligación del nuevo tutor
 
+### CAPITULO XV. Del Curador
+
+Curador en caso de administración de bienes
+
 ###### Artículo 4.
 
 325.- El tutor que entre al cargo, sucediendo a otro, está obligado a exigir la entrega de bienes y cuentas al que le ha precedido. Si no la exige, es responsable de los daños y perjuicios.
 
 Pago de gastos por la entrega de bienes y cuenta
 
-### CAPITULO XV. Del Curador
+### CAPITULO I. De la Emancipación
 
-Curador en caso de administración de bienes
+Emancipación por matrimonio
 
 ###### Artículo 4.
 
@@ -3802,10 +3854,6 @@ Curador en caso de administración de bienes
 En caso de dolo o culpa de parte del tutor, serán por su cuenta los gastos.
 
 Saldo a favor o en contra del tutor
-
-### CAPITULO I. De la Emancipación
-
-Emancipación por matrimonio
 
 ###### Artículo 4.
 
@@ -3841,15 +3889,15 @@ Excusas e impedimentos para los curadores
 
 Legitimación para nombrar curador
 
+### CAPITULO II. De la Mayoría de Edad
+
+Comienzo de la mayoría de edad
+
 ###### Artículo 4.
 
 333.- Los que tienen derecho a nombrar tutor, lo tienen para nombrar curador.
 
 Obligaciones del curador
-
-### CAPITULO II. De la Mayoría de Edad
-
-Comienzo de la mayoría de edad
 
 ###### Artículo 4.
 
@@ -3895,17 +3943,23 @@ Efectos legales de la mayoría de edad
 
 340.- El mayor de edad dispone libremente de su persona y de sus bienes, salvo las limitaciones que establece la ley.
 
+## TITULO NOVENO. De la Emancipación y de la Mayoría de Edad
+
+### CAPITULO I. De las medidas provisionales en caso de ausencia
+
+Medidas jurídicas sobre los bienes del ausente
+
 ###### Artículo 4.
 
 341.- Cuando se ignore el lugar donde se encuentre una persona, el Juez, a petición de parte, nombrará un depositario de sus bienes, y dictará las providencias necesarias para conservarlos, asimismo se le citará por edictos conforme a la ley.
 
 Personas que pueden designarse depositarios de los bienes del ausente
 
-## TITULO DECIMO. De los Ausentes
+### CAPITULO II. De la Declaración de Ausencia
 
-### CAPITULO I. De las medidas provisionales en caso de ausencia
+Plazo para pedir la declaración de ausencia
 
-Medidas jurídicas sobre los bienes del ausente
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 4.
 
@@ -3921,31 +3975,23 @@ IV. A falta de los anteriores o cuando por su notoria mala conducta o ineptitud,
 
 Nombramiento judicial de representante del ausente
 
-### CAPITULO II. De la Declaración de Ausencia
-
-Plazo para pedir la declaración de ausencia
-
-> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
-
 ###### Artículo 4.
 
 343.- Transcurrido el plazo de la citación por edictos sin que el ausente comparezca, el Juez procederá a nombrarle representante.
 
 Legitimación para pedir el nombramiento de depositario o representante
 
+## TITULO DECIMO. De los Ausentes
+
+### CAPITULO III. De los efectos de la Declaración de Ausencia
+
+Presentación del testamento del declarado ausente
+
 ###### Artículo 4.
 
 344.- Tienen acción para pedir el nombramiento de depositario o de representante, quien tenga interés legítimo.
 
 Orden de las personas para ser nombrados representantes
-
-## TITULO DECIMO PRIMERO. Del Patrimonio de Familia
-
-Bienes que comprende el patrimonio familiar
-
-### CAPITULO III. De los efectos de la Declaración de Ausencia
-
-Presentación del testamento del declarado ausente
 
 ###### Artículo 4.
 
@@ -3997,15 +4043,15 @@ Obligación del apoderado del ausente a otorgar garantía
 
 > <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
+### CAPITULO IV. De la administración de los bienes del ausente casado bajo el régimen de sociedad conyugal
+
+Efectos de la ausencia en relación a la sociedad conyugal
+
 ###### Artículo 4.
 
 352.- Pasados un año y medio, las personas legitimadas para solicitar la declaración de ausencia, pueden pedir que el apoderado otorgue garantía, en los términos en que debe hacerlo el representante. Si no lo hiciere se nombrará representante.
 
 Legitimación para pedir declaración de ausencia
-
-### CAPITULO IV. De la administración de los bienes del ausente casado bajo el régimen de sociedad conyugal
-
-Efectos de la ausencia en relación a la sociedad conyugal
 
 ###### Artículo 4.
 
@@ -4041,17 +4087,17 @@ Posesión provisional de bienes del ausente a sus herederos
 
 Administración de bienes que admiten cómoda división
 
-###### Artículo 4.
-
-358.- Si son varios los presuntos herederos y los bienes admiten cómoda división, cada uno administrará la parte que le correspondería al dividirse la masa hereditaria, otorgando cada uno la garantía respectiva.
-
-Administración de bienes que no admiten cómoda división
-
 ### CAPITULO V. De la presunción de muerte del ausente
 
 Declaración judicial de presunción de muerte
 
 > <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 4.
+
+358.- Si son varios los presuntos herederos y los bienes admiten cómoda división, cada uno administrará la parte que le correspondería al dividirse la masa hereditaria, otorgando cada uno la garantía respectiva.
+
+Administración de bienes que no admiten cómoda división
 
 ###### Artículo 4.
 
@@ -4133,6 +4179,10 @@ Entrega de sus bienes al cónyuge del ausente
 
 372.- El cónyuge presente recibirá los bienes que le correspondan hasta el día en que la resolución de ausencia haya causado ejecutoria. De esos bienes podrá disponer libremente.
 
+### CAPITULO I. De los Bienes Inmuebles
+
+Bienes que se consideran inmuebles
+
 ###### Artículo 4.
 
 373.- Cuando haya transcurrido un año y medio desde la declaración de ausencia, el Juez, a instancia de parte, declarará la presunción de muerte.
@@ -4140,10 +4190,6 @@ Entrega de sus bienes al cónyuge del ausente
 Respecto de las personas que hayan desaparecido por causa de guerra, de un siniestro, desastre o secuestro, bastará que hayan transcurrido tres meses, contados desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia; pero sí se tomarán las medidas provisionales relacionadas con sus bienes.
 
 Efectos de la declaración de presunción de muerte
-
-### CAPITULO I. De los Bienes Inmuebles
-
-Bienes que se consideran inmuebles
 
 ###### Artículo 4.
 
@@ -4155,6 +4201,10 @@ Presencia del presunto muerto
 
 375.- Si el presunto muerto se presentare o se probare su existencia después de otorgada la posesión definitiva, recobrará sus bienes en el estado en que se hallen, el precio de los enajenados, o los que se hubieren adquirido con el mismo; pero no podrá reclamar frutos.
 
+### CAPITULO II. De los Bienes Muebles
+
+Muebles por su naturaleza
+
 ###### Artículo 4.
 
 376.- Son objeto del patrimonio de familia:
@@ -4164,10 +4214,6 @@ I. La casa habitación;
 II. En algunos casos, una parcela cultivable.
 
 Efectos de la constitución del patrimonio de familia
-
-### CAPITULO II. De los Bienes Muebles
-
-Muebles por su naturaleza
 
 ###### Artículo 4.
 
@@ -4181,6 +4227,10 @@ Personas que tienen derecho sobre el patrimonio de familia
 
 Representación de los beneficiarios ante terceros
 
+## TITULO DECIMO PRIMERO. Del Patrimonio de Familia
+
+Bienes que comprende el patrimonio familiar
+
 ###### Artículo 4.
 
 379.- Los beneficiarios de los bienes afectos al patrimonio de familia serán representados en sus relaciones con tercero, en todo lo que al patrimonio se refiere, por el que lo constituyó, en su defecto, por el que nombre la mayoría.
@@ -4188,12 +4238,6 @@ Representación de los beneficiarios ante terceros
 El representante tendrá también la administración de dichos bienes.
 
 Régimen jurídico del patrimonio de familia
-
-## TITULO DECIMO SEGUNDO. De la Protección contra la Violencia Familiar
-
-Denuncia de violencia familiar
-
-> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
 ###### Artículo 4.
 
@@ -4361,17 +4405,15 @@ V. (DEROGADA, G.G. 6 DE MARZO DE 2010)
 
 398.- (DEROGADO, G.G. 16 DE ENERO DE 2007)
 
+## TITULO DECIMO SEGUNDO. De la Protección contra la Violencia Familiar
+
+Denuncia de violencia familiar
+
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
 ###### Artículo 4.
 
 399.- (DEROGADO, G.G. 16 DE ENERO DE 2007)
-
-## TITULO DECIMO TERCERO. Del Concubinato
-
-> <small>(ADICIONADA SU DENOMINACIÓN, G.G. 6 DE MARZO DE 2010)</small>
-
-Definición del concubinato
-
-> <small>(ADICIONADO, G.G. 6 DE MARZO DE 2010)</small>
 
 ###### Artículo 4.
 
@@ -4401,13 +4443,19 @@ Derechos y obligaciones que nacen del concubinato
 
 404.- La concubina y el concubinario tienen los derechos y obligaciones alimentarias, de familia, hereditarios y de protección contra la violencia familiar reconocidos en el presente Código y en otras disposiciones legales, así como los establecidos para los cónyuges, en todo aquello que les sea aplicable, sobre todo los dirigidos a la protección de la mujer y los hijos.
 
-## TITULO PRIMERO. Disposiciones Generales
+## TITULO DECIMO TERCERO. Del Concubinato
 
-Concepto de bienes
+> <small>(ADICIONADA SU DENOMINACIÓN, G.G. 6 DE MARZO DE 2010)</small>
+
+Definición del concubinato
+
+> <small>(ADICIONADO, G.G. 6 DE MARZO DE 2010)</small>
 
 # LIBRO QUINTO. De los Bienes
 
-## TITULO SEGUNDO. Clasificación de los Bienes
+## TITULO PRIMERO. Disposiciones Generales
+
+Concepto de bienes
 
 ###### Artículo 5.
 
@@ -4425,9 +4473,7 @@ Bienes fuera del comercio por su naturaleza o por ley
 
 3.- Están fuera del comercio por su naturaleza las que no pueden ser poseídas físicamente por algún individuo exclusivamente; y por disposición de la ley las que ella declara irreductibles a propiedad particular.
 
-## TITULO TERCERO. De la Posesión
-
-Concepto de posesión
+## TITULO SEGUNDO. Clasificación de los Bienes
 
 ### CAPITULO III. De los bienes considerados según las personas a quienes pertenecen
 
@@ -4607,7 +4653,9 @@ Beneficio al denunciante de bien vacante
 
 27.- El denunciante recibirá la cuarta parte del valor catastral.
 
-## TITULO CUARTO. De la propiedad y los medios de adquirirla
+## TITULO TERCERO. De la Posesión
+
+Concepto de posesión
 
 ###### Artículo 5.
 
@@ -4869,7 +4917,7 @@ Pérdida de posesión de derechos
 
 64.- Se pierde la posesión de los derechos cuando es imposible ejercitarlos.
 
-## TITULO QUINTO. De la Copropiedad
+## TITULO CUARTO. De la propiedad y los medios de adquirirla
 
 ### CAPITULO III. De la Ocupación
 
@@ -5395,7 +5443,7 @@ Sentencia que declara la usucapión
 
 Tratándose de predios no mayores de 200 m2, la Sentencia Ejecutoria se inscribirá sin mayor trámite en el Instituto de la Función Registral.
 
-## TITULO SEXTO. De las Servidumbres
+## TITULO QUINTO. De la Copropiedad
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -5599,7 +5647,7 @@ Reglamentación de la copropiedad en condominio
 
 168.- Los derechos y obligaciones de los condóminos a que se refiere este capítulo, se regirán por las escrituras en que se hubiere constituido el régimen de propiedad en condominio, por este Código y por la Ley que Regula el Régimen de Propiedad en Condominio en el Estado de México.
 
-## TITULO SEPTIMO. Del Usufructo
+## TITULO SEXTO. De las Servidumbres
 
 ### CAPITULO III. De la Servidumbre Legal de Desagüe
 
@@ -6009,9 +6057,7 @@ Improcedencia de la prescripción de la servidumbre
 
 Si entre los copropietarios hubiere alguno contra quien no pueda correr la prescripción, ésta no correrá contra los demás.
 
-## TITULO OCTAVO. Del Uso y de la Habitación
-
-Concepto del derecho real de uso
+## TITULO SEPTIMO. Del Usufructo
 
 ### CAPITULO III. De las obligaciones del usufructuario
 
@@ -6377,9 +6423,9 @@ Mal uso del bien por el usufructuario
 
 283.- El usufructo no se extingue por el mal uso que haga el usufructuario del bien usufructuado; pero si el abuso es grave, el propietario puede pedir que se le ponga en posesión de los bienes, obligándose y garantizando el pago anual al usufructuario del producto líquido de los mismos, por el tiempo que dure el usufructo, deducido el premio de administración que el Juez le acuerde.
 
-## TITULO PRIMERO. Disposiciones Preliminares
+## TITULO OCTAVO. Del Uso y de la Habitación
 
-Concepto de sucesión, herencia y legado
+Concepto del derecho real de uso
 
 ###### Artículo 5.
 
@@ -6417,7 +6463,9 @@ Porción de gastos y cargas
 
 # LIBRO SEXTO. De las Sucesiones
 
-## TITULO SEGUNDO. De la Sucesión por Testamento
+## TITULO PRIMERO. Disposiciones Preliminares
+
+Concepto de sucesión, herencia y legado
 
 ###### Artículo 6.
 
@@ -6487,7 +6535,7 @@ Derecho del tanto entre coherederos
 
 11.- Entre los coherederos existe el derecho del tanto que se regirá por los preceptos de la copropiedad.
 
-## TITULO TERCERO. De la forma de los Testamentos
+## TITULO SEGUNDO. De la Sucesión por Testamento
 
 ### CAPITULO III. De la Capacidad para Heredar
 
@@ -7205,7 +7253,7 @@ Condición de suceso desconocido
 
 118.- El testamento que contenga condición de suceso pasado o presente desconocido, no caduca aunque la noticia del hecho se adquiera después de la muerte del heredero o legatario, cuyos derechos se transmiten a sus respectivos herederos.
 
-## TITULO CUARTO. De la Sucesión Legítima
+## TITULO TERCERO. De la forma de los Testamentos
 
 ### CAPITULO III. Del Testamento Público Simplificado
 
@@ -7385,7 +7433,7 @@ División de la herencia sólo entre hijos
 
 141.- En el Estado se reconoce existencia válida a los testamentos militar, marítimo y al hecho en país extranjero si se ajustan al Código Civil de aplicación federal y disposiciones relativas.
 
-## TITULO QUINTO. Disposiciones comunes a las Sucesiones Testamentarias y Legítimas
+## TITULO CUARTO. De la Sucesión Legítima
 
 ### CAPITULO III. De la Sucesión del Cónyuge
 
@@ -7623,7 +7671,7 @@ Momento de apertura de la sucesión y transmisión de la herencia
 
 177.- A falta de todos los herederos señalados en los capítulos anteriores sucederá el Sistema para el Desarrollo Integral de la Familia del Estado de México.
 
-## TITULO PRIMERO. Fuente de las Obligaciones
+## TITULO QUINTO. Disposiciones comunes a las Sucesiones Testamentarias y Legítimas
 
 ### CAPITULO III. De la aceptación y de la repudiación de la Herencia
 
@@ -8505,7 +8553,7 @@ PRIMERA PARTE
 
 De las Obligaciones en General
 
-## TITULO SEGUNDO. De los Contratos en General
+## TITULO PRIMERO. Fuente de las Obligaciones
 
 ### CAPITULO III. De los Hechos Jurídicos
 
@@ -8711,7 +8759,7 @@ Transmisión de derechos sobre inmueble cuya transmisión es declarada nula post
 
 29.- Los derechos reales o personales transmitidos a tercero sobre un inmueble, por una persona cuyo título es declarado nulo posteriormente, quedan sin efecto y pueden ser reclamados directamente del poseedor mientras no opere la prescripción; excepto contra los terceros adquirentes de buena fe.
 
-## TITULO TERCERO. De la Declaración Unilateral de la Voluntad
+## TITULO SEGUNDO. De los Contratos en General
 
 ### CAPITULO III. De la Representación
 
@@ -9213,9 +9261,7 @@ Casos en que puede hacerse estipulación a favor de tercero
 
 Promesa de recompensa
 
-## TITULO CUARTO. Del Enriquecimiento Ilegítimo o sin Causa
-
-Obligación que nace del enriquecimiento sin causa
+## TITULO TERCERO. De la Declaración Unilateral de la Voluntad
 
 ### CAPITULO I. De las Obligaciones que Nacen de los Hechos Ilícitos y del Riesgo Creado
 
@@ -9309,9 +9355,9 @@ Excepciones contra el tercero
 
 Obligación que surge del pago de lo indebido
 
-## TITULO QUINTO. De la Gestión de Negocios
+## TITULO CUARTO. Del Enriquecimiento Ilegítimo o sin Causa
 
-Forma de actuar del gestor
+Obligación que nace del enriquecimiento sin causa
 
 ###### Artículo 7.
 
@@ -9403,7 +9449,9 @@ Pago para realizar un fin ilícito
 
 Obligaciones del gestor
 
-## TITULO SEXTO. De la Responsabilidad Subjetiva y Objetiva
+## TITULO QUINTO. De la Gestión de Negocios
+
+Forma de actuar del gestor
 
 ###### Artículo 7.
 
@@ -9485,7 +9533,7 @@ Pago de alimentos por gestor
 
 Daño causado por el ejercicio de un derecho
 
-## TITULO SEPTIMO. De las Diferentes Especies de Obligaciones
+## TITULO SEXTO. De la Responsabilidad Subjetiva y Objetiva
 
 ### CAPITULO III. De las Personas Obligadas a la Reparación del Daño y de los Perjuicios
 
@@ -9741,7 +9789,7 @@ Plazo de prescripción de la acción de la reparación del daño
 
 Condición suspensiva
 
-## TITULO OCTAVO. De la Transmisión de las Obligaciones
+## TITULO SEPTIMO. De las Diferentes Especies de Obligaciones
 
 ### CAPITULO III. De las Obligaciones Facultativas, Conjuntivas y Alternativas
 
@@ -10403,7 +10451,7 @@ Sustitución de deudores
 
 Cesión del crédito sin consentimiento del deudor
 
-## TITULO NOVENO. Del Cumplimiento de las Obligaciones
+## TITULO OCTAVO. De la Transmisión de las Obligaciones
 
 ### CAPITULO III. De la Subrogación
 
@@ -10621,7 +10669,7 @@ Pago a los subrogados
 
 Dación en pago
 
-## TITULO DECIMO. Del Incumplimiento de las Obligaciones
+## TITULO NOVENO. Del Cumplimiento de las Obligaciones
 
 ### CAPITULO I. Consecuencias del Incumplimiento de las Obligaciones
 
@@ -10863,7 +10911,7 @@ El perjudicado podrá escoger entre exigir el cumplimiento o la rescisión de la
 
 Daños y perjuicios
 
-## TITULO DECIMO PRIMERO. Efectos de las Obligaciones con Relación a Terceros
+## TITULO DECIMO. Del Incumplimiento de las Obligaciones
 
 ### CAPITULO III. Del Saneamiento por Vicios Ocultos
 
@@ -11277,7 +11325,7 @@ Vicios ocultos de bien adquirido por remate o adjudicación
 
 Mala fe del deudor y su contratante
 
-## TITULO DECIMO SEGUNDO. De la Extinción de las Obligaciones
+## TITULO DECIMO PRIMERO. Efectos de las Obligaciones con Relación a Terceros
 
 ### CAPITULO I. De la Compensación
 
@@ -11417,7 +11465,7 @@ También subsistirán los gravámenes impuestos a favor de tercero de buena fe.
 
 Efecto de la compensación
 
-## TITULO UNICO. De la Concurrencia y Prelación de los Créditos
+## TITULO DECIMO SEGUNDO. De la Extinción de las Obligaciones
 
 ### CAPITULO III. De la Remisión de la Deuda
 
@@ -11823,7 +11871,7 @@ De los Créditos y sus Acreedores
 
 Concurso de acreedores
 
-## TITULO PRIMERO. De los Contratos Preparatorios
+## TITULO UNICO. De la Concurrencia y Prelación de los Créditos
 
 ### CAPITULO III. De algunos Acreedores Preferentes sobre Determinados Bienes
 
@@ -12115,7 +12163,7 @@ De las Diversas Especies de Contratos
 
 Obligación de hacer
 
-## TITULO SEGUNDO. De la Compraventa
+## TITULO PRIMERO. De los Contratos Preparatorios
 
 ### CAPITULO II. De la Materia de la Compraventa
 
@@ -12173,9 +12221,7 @@ III. Por no reclamarse el cumplimiento de la promesa dentro de diez días despu�
 
 Consentimiento sobre bien y precio
 
-## TITULO TERCERO. De la Permuta
-
-Concepto de permuta
+## TITULO SEGUNDO. De la Compraventa
 
 ### CAPITULO III. De los que Pueden Vender y Comprar
 
@@ -12677,7 +12723,9 @@ Enajenación judicial para dividir el bien común
 
 Permuta de bien ajeno
 
-## TITULO CUARTO. De las Donaciones
+## TITULO TERCERO. De la Permuta
+
+Concepto de permuta
 
 ###### Artículo 7.
 
@@ -12707,7 +12755,7 @@ Reglas aplicables a la permuta
 
 Clases de donación
 
-## TITULO QUINTO. Del Mutuo
+## TITULO CUARTO. De las Donaciones
 
 ### CAPITULO III. De la Revocación y Reducción de las Donaciones
 
@@ -13003,7 +13051,7 @@ Donatario responsable de los frutos
 
 Reglas del mutuo sin plazo
 
-## TITULO SEXTO. Del Arrendamiento
+## TITULO QUINTO. Del Mutuo
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -13109,9 +13157,7 @@ Prohibición de capitalizar de antemano los intereses
 
 Formalidad y plazo de arrendamiento
 
-## TITULO SEPTIMO. Del Comodato
-
-Elementos personales del comodato
+## TITULO SEXTO. Del Arrendamiento
 
 ### CAPITULO III. De las Obligaciones del Arrendatario
 
@@ -13523,7 +13569,9 @@ Enajenación judicial del bien arrendado
 
 Elemento formal del comodato
 
-## TITULO OCTAVO. Del Depósito y del Secuestro
+## TITULO SEPTIMO. Del Comodato
+
+Elementos personales del comodato
 
 ###### Artículo 7.
 
@@ -13631,7 +13679,7 @@ Muerte del comodatario
 
 Derecho del depositario a la retribución
 
-## TITULO NOVENO. Del Mandato
+## TITULO OCTAVO. Del Depósito y del Secuestro
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -13793,7 +13841,7 @@ Disposiciones que rigen el secuestro
 
 Formación del contrato de mandato
 
-## TITULO DECIMO. Del Contrato de Prestación de Servicios
+## TITULO NOVENO. Del Mandato
 
 ### CAPITULO III. De las Obligaciones del Mandante con Relación al Mandatario
 
@@ -14249,11 +14297,7 @@ Actos del mandatario posteriores a la conclusión del cargo
 
 Falta de convenio sobre honorarios profesionales
 
-## TITULO PRIMERO. Disposiciones Generales
-
-Publicidad de los actos jurídicos
-
-> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+## TITULO DECIMO. Del Contrato de Prestación de Servicios
 
 ### CAPITULO III. Del contrato de transporte
 
@@ -16879,7 +16923,11 @@ Obligatoriedad del laudo
 
 # LIBRO OCTAVO. Del Registro Público de la Propiedad
 
-## TITULO SEGUNDO. Disposiciones Comunes
+## TITULO PRIMERO. Disposiciones Generales
+
+Publicidad de los actos jurídicos
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
@@ -16969,7 +17017,7 @@ Formato Precodificado
 
 9.- El Formato Precodificado deberá ajustarse al contenido que la Ley Registral indique para los asientos de inscripción, y será el estrictamente necesario para que el Registrador no la deniegue.
 
-## TITULO TERCERO. Del Registro de la Propiedad Inmueble
+## TITULO SEGUNDO. Disposiciones Comunes
 
 ### CAPITULO IV. De la rectificación y reposición de asientos
 
@@ -17417,11 +17465,7 @@ Procedencia de las cancelaciones
 
 52.- Las cancelaciones procederán en los supuestos que establezca la Ley Registral.
 
-## TITULO CUARTO. Del Registro de Personas Jurídicas Colectivas
-
-Actos jurídicos sobre personas jurídicas colectivas
-
-> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+## TITULO TERCERO. Del Registro de la Propiedad Inmueble
 
 ###### Artículo 8.
 
@@ -17627,9 +17671,9 @@ Las bases para la extracción y captura de información para integrar el folio s
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 18 DE AGOSTO DE 2011)</small>
 
-## TITULO QUINTO. De los Servidores Públicos del Instituto de la Función Registral del Estado de México
+## TITULO CUARTO. Del Registro de Personas Jurídicas Colectivas
 
-Régimen aplicable
+Actos jurídicos sobre personas jurídicas colectivas
 
 > <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
@@ -17653,9 +17697,11 @@ Disposiciones aplicables del registro de inmuebles
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 18 DE AGOSTO DE 2011)</small>
 
-## TITULO SEXTO. De los Servidores Públicos del Instituto de la Función Registral del Estado de México
+## TITULO QUINTO. De los Servidores Públicos del Instituto de la Función Registral del Estado de México
 
-> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
+Régimen aplicable
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
@@ -18094,3 +18140,17 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 6 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El Ejecutivo Estatal y los ayuntamientos, en sus respectivos ámbitos de competencia, proveerán lo conducente para el cumplimiento del presente Decreto.
+
+CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamentarias correspondientes en un plazo que no deberá exceder de ciento ochenta días hábiles a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
