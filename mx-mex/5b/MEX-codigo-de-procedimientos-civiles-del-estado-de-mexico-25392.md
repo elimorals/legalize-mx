@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2015-07-31"
+last_updated: "2015-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -817,6 +817,16 @@ Definición de parte
 
 79.- Los interesados o sus representantes legítimos podrán comparecer por sí o por mandatario o procurador.
 
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Representación en suplencia
+
+###### Artículo 1.
+
+79 Bis.- A falta de quienes ejerzan la representación originaria de niñas, niños y adolescentes, o cuando por otra causa así lo determine el órgano jurisdiccional competente, con base en el interés superior de la niñez, la representación en suplencia corresponderá a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México y las procuradurías de protección municipales.
+
+Cuando existan indicios de conflicto de intereses entre quienes ejerzan la representación originaria o de estos con niñas, niños y adolescentes o por una representación deficiente o dolosa, a petición del Ministerio Público, de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México o de oficio, el órgano jurisdiccional que conozca del asunto deberá sustanciar por vía incidental, un procedimiento sumario de restricción, suspensión o revocación de la representación originaria, según sea el caso, para efectos de que la Procuraduría de Protección competente ejerza la representación en suplencia.
+
 Gestión judicial
 
 ###### Artículo 1.
@@ -855,15 +865,15 @@ Litisconsorcio voluntario
 
 Litisconsorcio necesario
 
+### CAPITULO II. Del Litisconsorcio
+
+Concepto de litisconsorcio
+
 ###### Artículo 1.
 
 86.- Es necesario el litisconsorcio, cuando las cuestiones que en el juicio se ventilan, afectan a más de dos personas, de tal manera que no sea posible pronunciar sentencia válida, sin oírlas a todas ellas.
 
 Estudio oficioso de litisconsorcio necesario
-
-### CAPITULO II. Del Litisconsorcio
-
-Concepto de litisconsorcio
 
 ###### Artículo 1.
 
@@ -913,15 +923,15 @@ Autorización de las promociones
 
 Exhibición de cédula profesional
 
-###### Artículo 1.
-
-95.- Los Tribunales exigirán la presentación de la cédula de ejercicio profesional de los abogados patronos o asesores, la cual registrarán en el libro respectivo. Quienes no la presenten por ningún motivo se les permitirá figurar en audiencias o diligencias, ni enterarse de actuaciones o revisar expedientes. Los servidores judiciales que lo consintieren incurrirán en responsabilidad administrativa conforme a la ley.
-
 ### CAPITULO III. De los Patronos
 
 Patrocinio de Licenciado en Derecho
 
 > <small>(REFORMADO, G.G. 24 DE ABRIL DE 2012)</small>
+
+###### Artículo 1.
+
+95.- Los Tribunales exigirán la presentación de la cédula de ejercicio profesional de los abogados patronos o asesores, la cual registrarán en el libro respectivo. Quienes no la presenten por ningún motivo se les permitirá figurar en audiencias o diligencias, ni enterarse de actuaciones o revisar expedientes. Los servidores judiciales que lo consintieren incurrirán en responsabilidad administrativa conforme a la ley.
 
 ###### Artículo 1.
 
@@ -937,17 +947,17 @@ Firmas de promociones y actuaciones judiciales
 
 Inatendibles promociones sin firma o huella
 
-###### Artículo 1.
-
-98.- No se dará curso a las promociones que carezcan de firma o huella del interesado.
-
-Excepción a la nulidad de actuaciones
-
 ## TITULO SEPTIMO. Actos Procesales en General
 
 ### CAPITULO I. De las Formalidades Judiciales
 
 Forma de las actuaciones y promociones
+
+###### Artículo 1.
+
+98.- No se dará curso a las promociones que carezcan de firma o huella del interesado.
+
+Excepción a la nulidad de actuaciones
 
 ###### Artículo 1.
 
@@ -1083,6 +1093,10 @@ Lo mismo se hará en la copia que será devuelta al interesado.
 
 Razón de cuenta de promociones
 
+### CAPITULO II. De la Presentación de Escritos y Promociones
+
+Tiempo de presentación de promociones
+
 ###### Artículo 1.
 
 118.- El Secretario dará cuenta al titular del Tribunal con la presentación de las promociones a mas tardar al día siguiente. La razón de cuenta se rubricará por aquel y el Juez o Magistrado.
@@ -1090,10 +1104,6 @@ Razón de cuenta de promociones
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE MAYO DE 2013)</small>
 
 Presentación de promociones y digitalización
-
-### CAPITULO II. De la Presentación de Escritos y Promociones
-
-Tiempo de presentación de promociones
 
 ###### Artículo 1.
 
@@ -1159,15 +1169,15 @@ V. Arresto hasta por treinta y seis horas.
 
 Impuesta la medida de apremio y de no ser cumplimentada la determinación judicial, previo apercibimiento, se procederá contra el rebelde por el delito de desobediencia.
 
+### CAPITULO III. Del Orden, Correcciones Disciplinarias y Medios de Apremio
+
+Orden y respeto al Tribunal
+
 ###### Artículo 1.
 
 125.- Los Secretarios foliarán debidamente los expedientes, al agregarse cada una de las hojas; rubricarán todas éstas en el centro de lo escrito y pondrán el sello del Tribunal en el fondo del cuaderno, de manera que queden selladas las dos caras.
 
 Reposición de actuaciones judiciales
-
-### CAPITULO III. Del Orden, Correcciones Disciplinarias y Medios de Apremio
-
-Orden y respeto al Tribunal
 
 ###### Artículo 1.
 
@@ -1181,15 +1191,15 @@ Reposición de autos
 
 Medios para obtener la reposición de autos
 
+### CAPITULO IV. Del Control y Reposición de Autos y Expedición de Copias
+
+Folio y rúbrica de expedientes
+
 ###### Artículo 1.
 
 128.- Los Jueces y Magistrados están facultados para investigar, de oficio, la existencia de las piezas de autos desaparecidas, valiéndose para ello de todos los medios necesarios, y las partes están obligadas a aportar para la reposición, las copias de las constancias que tengan en su poder.
 
 Reposición de actuaciones judiciales de oficio
-
-### CAPITULO IV. Del Control y Reposición de Autos y Expedición de Copias
-
-Folio y rúbrica de expedientes
 
 ###### Artículo 1.
 
@@ -1237,15 +1247,15 @@ Principio de probidad procesal
 
 Principio de congruencia
 
+### CAPITULO V. De los Principios Rectores del Proceso
+
+Principio de exactitud
+
 ###### Artículo 1.
 
 137.- La ley prescribe encerrar en límites precisos la discusión jurídica; la decisión judicial se limitará a resolver sobre los puntos controvertidos.
 
 Principio de dirección del proceso
-
-### CAPITULO V. De los Principios Rectores del Proceso
-
-Principio de exactitud
 
 ###### Artículo 1.
 
@@ -1267,12 +1277,6 @@ Suspensión de citación para sentencia sólo por consignación de los hechos
 
 Prácticas de diligencias por tribunal inferior
 
-###### Artículo 1.
-
-142.- Puede un Tribunal dentro de su jurisdicción, encomendar a un Juez inferior la realización de una diligencia.
-
-Tiempo de expedición de exhortos y despachos
-
 ### CAPITULO VI. De la Denuncia de Hechos Delictuosos
 
 Intervención del Ministerio Público
@@ -1283,19 +1287,25 @@ Intervención del Ministerio Público
 
 ###### Artículo 1.
 
+142.- Puede un Tribunal dentro de su jurisdicción, encomendar a un Juez inferior la realización de una diligencia.
+
+Tiempo de expedición de exhortos y despachos
+
+###### Artículo 1.
+
 143.- Los exhortos y despachos que manden dirigir las autoridades judiciales de la entidad, se expedirán al siguiente día al en que cause estado el acuerdo que los prevenga, a menos que se ordene lo contrario.
 
 Tiempo de acuerdo y diligenciación de exhortos
+
+### CAPITULO VII. De los Exhortos y Despachos
+
+Remisión de exhortos y despachos
 
 ###### Artículo 1.
 
 144.- Los exhortos y despachos que reciban las autoridades judiciales del Estado, se proveerán dentro de las veinticuatro horas y se diligenciarán dentro de los tres días siguientes, a no ser que la práctica de la diligencia requerida exija mayor tiempo, en cuyo caso el Juez fijará el que crea conveniente.
 
 No legalización de firmas
-
-### CAPITULO VII. De los Exhortos y Despachos
-
-Remisión de exhortos y despachos
 
 ###### Artículo 1.
 
@@ -1339,6 +1349,10 @@ Inicio del plazo común
 
 Días no computables
 
+### CAPITULO VIII. De los Plazos Judiciales
+
+Plazos improrrogables
+
 ###### Artículo 1.
 
 151.- En ningún plazo se contarán los días en que no puedan tener lugar las actuaciones judiciales, salvo disposición contraria de la ley.
@@ -1346,10 +1360,6 @@ Días no computables
 Cuando dentro del plazo no haya habido despacho en el Tribunal, se aumentarán de oficio a éste, los días respectivos.
 
 Certificación del plazo
-
-### CAPITULO VIII. De los Plazos Judiciales
-
-Plazos improrrogables
 
 ###### Artículo 1.
 
@@ -1473,15 +1483,15 @@ Contenido y objeto de la notificación
 
 Domicilio o correo electrónico institucional para oír notificaciones personales
 
+### CAPITULO IX. De las Notificaciones y Citaciones
+
+Formas de las notificaciones
+
 ###### Artículo 1.
 
 168.- Las partes, en el primer escrito o en la primera diligencia judicial en que intervengan, deben señalar el correo electrónico institucional asignado, o bien, el domicilio en la población en que esté ubicado el Tribunal, para que se les hagan las notificaciones que deban ser personales.
 
 Domicilio para notificar a la contraparte o a terceros
-
-### CAPITULO IX. De las Notificaciones y Citaciones
-
-Formas de las notificaciones
 
 ###### Artículo 1.
 
@@ -1693,15 +1703,15 @@ Congruencia de las interlocutorias
 
 Congruencia y exhaustividad de las sentencias definitivas
 
+### CAPITULO X. De las Resoluciones Judiciales
+
+Clasificación
+
 ###### Artículo 1.
 
 195.- Las sentencias deben ser claras, precisas y congruentes con las demandas, las contestaciones y las demás pretensiones deducidas por las partes; deberán ocuparse exclusivamente de las personas, cosas, acciones y excepciones que hayan sido materia del juicio, decidiendo todos los puntos litigiosos. Cuando éstos hubieran sido varios, se hará el pronunciamiento correspondiente a cada uno de ellos.
 
 Análisis previo de excepciones que no destruyen la acción
-
-### CAPITULO X. De las Resoluciones Judiciales
-
-Clasificación
 
 ###### Artículo 1.
 
@@ -1773,15 +1783,15 @@ Elementos de la cosa juzgada
 
 Identidad de personas en la cosa juzgada
 
+### CAPITULO XI. De la Sentencia Ejecutoria y Preclusión
+
+Cosa juzgada
+
 ###### Artículo 1.
 
 208.- Se entiende que hay identidad de personas siempre que los litigantes del segundo juicio, sean causahabientes de los que contendieron en el anterior o estén unidos a ellos por solidaridad o indivisibilidad de las prestaciones entre los que tienen derecho a exigirlas u obligación de satisfacerlas.
 
 La cosa juzgada respecto a terceros
-
-### CAPITULO XI. De la Sentencia Ejecutoria y Preclusión
-
-Cosa juzgada
 
 ###### Artículo 1.
 
@@ -1859,15 +1869,15 @@ Fenecido el plazo para alegar, se dictará resolución en el plazo de ley.
 
 Pruebas en los incidentes
 
+### CAPITULO XII. De los Incidentes
+
+Incidentes genéricos
+
 ###### Artículo 1.
 
 219.- Las disposiciones sobre prueba son aplicables a los incidentes, en lo que no se opongan a lo preceptuado en este Capítulo.
 
 Costas en los incidentes
-
-### CAPITULO XII. De los Incidentes
-
-Incidentes genéricos
 
 ###### Artículo 1.
 
@@ -1903,15 +1913,15 @@ Pago de honorarios
 
 Responsabilidad de las costas
 
+### CAPITULO XIII. De las Costas
+
+Gratuidad de la justicia
+
 ###### Artículo 1.
 
 226.- Cada parte será responsable de las costas que originen las diligencias que promuevan, sin perjuicio de lo que se decida en la sentencia definitiva.
 
 Reglas para la condena en costas
-
-### CAPITULO XIII. De las Costas
-
-Gratuidad de la justicia
 
 ###### Artículo 1.
 
@@ -1981,15 +1991,15 @@ Prórroga de la suspensión
 
 Prórroga improcedente de suspensión
 
+### CAPITULO XIV. De la Suspensión e Interrupción del Proceso
+
+Causas de suspensión
+
 ###### Artículo 1.
 
 234.- Si la suspensión fue a causa de la falta del representante de una de las partes, no originará prórroga de la suspensión, siendo en su perjuicio la falta de procurador.
 
 Causas de interrupción
-
-### CAPITULO XIV. De la Suspensión e Interrupción del Proceso
-
-Causas de suspensión
 
 ###### Artículo 1.
 
@@ -2049,15 +2059,15 @@ Extinción parcial del proceso
 
 Plazo para que opere la caducidad
 
+### CAPITULO XV. De la Extinción del Proceso
+
+Causas de extinción del proceso
+
 ###### Artículo 1.
 
 243.- La caducidad de la instancia opera cuando no se haya verificado ningún acto procesal ni promoción, durante un plazo continuo de 180 días naturales, contados de fecha a fecha, a partir de que se haya verificado el último acto procesal o hecho la última promoción. Esta disposición es aplicable en todas las instancias, tanto en el negocio principal como en los incidentes. Caducado el principal caducan los incidentes. La caducidad de los incidentes sólo produce la del principal cuando lo hayan suspendido.
 
 Etapa en la que opera la caducidad
-
-### CAPITULO XV. De la Extinción del Proceso
-
-Causas de extinción del proceso
 
 ###### Artículo 1.
 
@@ -2109,6 +2119,10 @@ III. En los juicios de alimentos;
 
 IV. En las actuaciones de procedimientos no contenciosos.
 
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+V. En perjuicio de niñas, niños y adolescentes.
+
 ###### Artículo 1.
 
 250.- Para conocer la verdad, puede el Juzgador valerse de cualquier persona, cosa o documento, con tal de que las pruebas estén reconocidas por la ley y tengan relación inmediata con los hechos controvertidos.
@@ -2121,9 +2135,9 @@ Facultades del Juez en materia de prueba
 
 Los gastos que se originen serán cubiertos por el actor o en su defecto por el demandado, sin perjuicio de lo que en su oportunidad se resuelva sobre condenación en costas.
 
-> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
-En materia familiar, cuando haya que decidir sobre la guarda y custodia de los menores, en los casos en que las partes o el Ministerio Público no hayan solicitado la realización de pruebas periciales en materia de trabajo social y psicología familiar, para demostrar que persona es la más idónea para hacerse cargo de manera definitiva del menor, el Juez las mandará realizar oficiosamente.
+En materia familiar, cuando haya que decidir sobre la guarda y custodia de los menores, en los casos en que las partes, el Ministerio Público o la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México no hayan solicitado la realización de pruebas periciales en materia de trabajo social y psicología familiar, para demostrar qué persona es la más idónea para hacerse cargo de manera definitiva del menor, el Juez las mandará realizar oficiosamente.
 
 Carga de la prueba
 
@@ -2133,17 +2147,17 @@ Carga de la prueba
 
 Carga de la prueba
 
-###### Artículo 1.
-
-253.- El que afirma tendrá la carga de la prueba, de sus respectivas proposiciones de hecho, y los hechos sobre los que la contraparte tenga a su favor una presunción legal.
-
-Carga de la prueba sobre hechos negativos
-
 ## TITULO OCTAVO. Prueba
 
 ### CAPITULO I. Reglas Generales
 
 Medios de convicción
+
+###### Artículo 1.
+
+253.- El que afirma tendrá la carga de la prueba, de sus respectivas proposiciones de hecho, y los hechos sobre los que la contraparte tenga a su favor una presunción legal.
+
+Carga de la prueba sobre hechos negativos
 
 ###### Artículo 1.
 
@@ -2281,15 +2295,15 @@ II. Las personas jurídicas colectivas, lo harán por conducto de cualquiera de 
 
 Confesional en caso de cesión
 
+### CAPITULO II. De la Confesión
+
+Clases de confesión
+
 ###### Artículo 1.
 
 270.- En el caso de cesión, se considera al cesionario como apoderado del cedente, para absolver posiciones sobre hechos de éste, pero, si los ignora, pueden articularse las posiciones al cedente.
 
 Requisitos de las posiciones
-
-### CAPITULO II. De la Confesión
-
-Clases de confesión
 
 ###### Artículo 1.
 
@@ -2481,6 +2495,10 @@ Documentos públicos extranjeros
 
 Traducción de documentos
 
+### CAPITULO III. De los Documentos Públicos y Privados
+
+Concepto de documento público
+
 ###### Artículo 1.
 
 296.- De la traducción de los documentos que se presenten en idioma que no sea español, se mandará dar vista a la parte contraria, para que, dentro de tres días manifieste si está conforme.
@@ -2488,10 +2506,6 @@ Traducción de documentos
 Si lo estuviere o no contestase la vista, se tendrá por consentida la traducción; en caso contrario, el Tribunal nombrará traductor si así lo estimara necesario.
 
 Concepto de documento privado
-
-### CAPITULO III. De los Documentos Públicos y Privados
-
-Concepto de documento público
 
 ###### Artículo 1.
 
@@ -2565,15 +2579,15 @@ Si los que deben nombrar un perito no pudieren ponerse de acuerdo, el Tribunal d
 
 Exhibición de cuestionario y nombramiento de perito
 
+### CAPITULO IV. De la Prueba Pericial
+
+Contenido de la prueba pericial
+
 ###### Artículo 1.
 
 307.- La parte que ofrezca prueba pericial exhibirá el cuestionario precisando los puntos objeto del dictamen.
 
 Plazo en que la contraparte nombrará perito
-
-### CAPITULO IV. De la Prueba Pericial
-
-Contenido de la prueba pericial
 
 ###### Artículo 1.
 
@@ -2695,15 +2709,15 @@ Planos y fotografías de lo inspeccionado
 
 325.- De la inspección judicial a criterio del Juez o a petición de parte, se levantarán planos o se sacarán fotografías del lugar u objetos inspeccionados cuando sea posible, y se redactará acta circunstanciada, firmando los que en ella intervienen.
 
+### CAPITULO V. De la Inspección Judicial
+
+Objeto de la inspección judicial
+
 ###### Artículo 1.
 
 326.- Todos los que tengan conocimiento de los hechos que las partes deben probar, están obligados a declarar como testigos.
 
 Número máximo de testigos
-
-### CAPITULO V. De la Inspección Judicial
-
-Objeto de la inspección judicial
 
 ###### Artículo 1.
 
@@ -2717,6 +2731,10 @@ Testigo ausente del oferente
 
 Citación de testigos
 
+### CAPITULO VI. De la Prueba Testimonial
+
+Personas obligadas a ser testigos
+
 ###### Artículo 1.
 
 329.- Los testigos serán citados a declarar por el Juez, cuando la parte que ofrezca su testimonio manifieste no poder presentarlos.
@@ -2726,10 +2744,6 @@ La prueba se declarará desierta si no es presentado el testigo por el oferente 
 En caso de que el señalamiento del domicilio de algún testigo resulte inexacto o se realiza con el propósito de retardar el procedimiento, se dará vista al Ministerio Público para efectos de iniciar la averiguación que corresponda, debiéndose declarar desierta la prueba ofrecida.
 
 Apremio a testigos
-
-### CAPITULO VI. De la Prueba Testimonial
-
-Personas obligadas a ser testigos
 
 ###### Artículo 1.
 
@@ -2905,15 +2919,15 @@ Desahogo de la prueba
 
 Notas taquigráficas como prueba
 
-###### Artículo 1.
-
-355.- Los escritos y notas taquigráficas pueden presentarse como prueba, acompañándose la traducción, con especificación del sistema taquigráfico.
-
 ### CAPITULO VII. De los Elementos de Convicción Producidos o
 
 Descubiertos por la Ciencia o la Tecnología
 
 Fotografías, grabaciones de imágenes y sonidos y otros
+
+###### Artículo 1.
+
+355.- Los escritos y notas taquigráficas pueden presentarse como prueba, acompañándose la traducción, con especificación del sistema taquigráfico.
 
 ###### Artículo 1.
 
@@ -2933,13 +2947,13 @@ Inadmisión de pruebas contra presunción legal
 
 Contra las demás presunciones legales y contra las humanas, es admisible la prueba.
 
-###### Artículo 1.
-
-359.- El Juez goza de libertad para valorar las pruebas, con excepción de los documentos públicos que siempre harán prueba plena. Lo hará tanto en lo individual como en su conjunto, atendiendo las reglas de la lógica y la experiencia. Explicará detalladamente los fundamentos de su valoración y su decisión.
-
 ### CAPITULO VIII. De las Presunciones
 
 Concepto de presunción
+
+###### Artículo 1.
+
+359.- El Juez goza de libertad para valorar las pruebas, con excepción de los documentos públicos que siempre harán prueba plena. Lo hará tanto en lo individual como en su conjunto, atendiendo las reglas de la lógica y la experiencia. Explicará detalladamente los fundamentos de su valoración y su decisión.
 
 ###### Artículo 1.
 
@@ -2957,21 +2971,15 @@ Irrenunciabilidad de los recursos
 
 361.- Los recursos no son renunciables.
 
-###### Artículo 1.
-
-362.- Los autos que no fueren apelables y los decretos, son revocables por el juez o tribunal que los dictó.
-
-Plazo para interponer revocación
-
 ### CAPITULO IX. De la Valoración de la Prueba
 
 Sistema libre de valoración
 
 ###### Artículo 1.
 
-363.- La revocación se interpondrá, expresando agravios, al día siguiente de notificado el recurrente.
+362.- Los autos que no fueren apelables y los decretos, son revocables por el juez o tribunal que los dictó.
 
-Trámite de la revocación
+Plazo para interponer revocación
 
 ## TITULO NOVENO. Recursos
 
@@ -2981,19 +2989,25 @@ Recursos
 
 ###### Artículo 1.
 
-364.- Interpuesta la revocación se dará vista a la parte contraria, por tres días y transcurridos, el Juez resolverá dentro del tercer día.
+363.- La revocación se interpondrá, expresando agravios, al día siguiente de notificado el recurrente.
 
-La resolución de la revocación es irrecurrible
+Trámite de la revocación
 
 ###### Artículo 1.
 
-365.- La resolución que decida la revocación no admite recurso.
+364.- Interpuesta la revocación se dará vista a la parte contraria, por tres días y transcurridos, el Juez resolverá dentro del tercer día.
+
+La resolución de la revocación es irrecurrible
 
 ### CAPITULO II. De la Revocación
 
 Resoluciones materia de revocación
 
 > <small>(REFORMADO, G.G. 8 DE MAYO DE 2003)</small>
+
+###### Artículo 1.
+
+365.- La resolución que decida la revocación no admite recurso.
 
 ###### Artículo 1.
 
@@ -3013,6 +3027,10 @@ Consecuencias del efecto suspensivo
 
 Apelación en asuntos conexos
 
+### CAPITULO III. De la Apelación
+
+Finalidad de la apelación
+
 ###### Artículo 1.
 
 369.- Cuando el auto contra el cual se haya admitido recurso de apelación con efecto suspensivo, hubiere recaído en expediente tramitado por separado, se remitirá al Tribunal de Alzada el expediente respectivo, sin perjuicio de que se envíen las constancias que del otro soliciten las partes.
@@ -3020,10 +3038,6 @@ Apelación en asuntos conexos
 En los autos que queden en el Tribunal no podrá dictarse resolución alguna que modifique, revoque o en cualquier forma afecte lo acordado en la resolución apelada, mientras el recurso esté pendiente, para lo cual se dejará copia de ella.
 
 Consecuencias del efecto no suspensivo
-
-### CAPITULO III. De la Apelación
-
-Finalidad de la apelación
 
 ###### Artículo 1.
 
@@ -3187,15 +3201,15 @@ Plazo para interponer la queja
 
 Remisión e informe justificado
 
+### CAPITULO IV. De la Queja
+
+Materia de la queja
+
 ###### Artículo 1.
 
 396.- Recibida la queja, el Juez, sin decidir sobre su procedencia, al siguiente día remitirá la misma a la Sala con un informe justificado.
 
 Resolución de la queja
-
-### CAPITULO IV. De la Queja
-
-Materia de la queja
 
 ###### Artículo 1.
 
@@ -5621,7 +5635,9 @@ V. El albacea;
 
 VI. El tutor testamentario;
 
-VII. El Sistema para el Desarrollo Integral de la Familia del Estado; y
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+VII. El Sistema para el Desarrollo Integral de la Familia a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
 VIII. El Ministerio Público.
 
@@ -5849,25 +5865,21 @@ II. Controversia de violencia familiar.
 
 346.- Los procedimientos a los que se refiere este capítulo, se llevarán a cabo en forma sumarísima sin omitir allegarse todos los elementos de convicción necesarios para apoyar las propuestas de las partes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 2.
 
-347.- Tratándose de menores, incapaces y adultos mayores de sesenta años, deberá oírseles durante el procedimiento, tomando en consideración su edad, grado de madurez y capacidad, en los casos a que se refiere el artículo 5.30 de este Código.
+347.- Tratándose de niñas, niños y adolescentes, incapaces y adultos mayores de sesenta años, deberán ser escuchados y tomados en cuenta durante el procedimiento, considerando su edad, grado de madurez y capacidad.
 
 > <small>(ADICIONADA SU DENOMINACIÓN, G.G. 19 DE FEBRERO DE 2009)</small>
 
 Procedimientos escritos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 2.
 
-348.- Los procedimientos que señala este capítulo se iniciarán por escrito. El Poder Judicial del Estado instrumentará un formato de demanda que será distribuido en las Oficialías del Registro Civil, Oficialías Calificadoras y las Mediadora-Conciliadoras en los Municipios, Coordinaciones Municipales de Derechos Humanos, Sistemas Municipales de Desarrollo Integral de la Familia y Juzgados de lo Familiar.
+348.- Los procedimientos que señala este capítulo se iniciarán por escrito. El Poder Judicial del Estado instrumentará un formato de demanda que será distribuido en las oficialías del Registro Civil, oficialías calificadoras y las mediadora-conciliadoras en los municipios, coordinaciones municipales de derechos Humanos, sistemas municipales de Desarrollo Integral de la Familia, Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México, procuradurías de protección municipales y juzgados de lo familiar.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -5886,6 +5898,10 @@ II. Cualquier miembro del grupo familiar; y
 > <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2007)</small>
 
 III. Cualquier persona que tenga conocimiento de la violencia familiar.
+
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+IV. La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México y las procuradurías de protección municipales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MARZO DE 2010)</small>
 
@@ -6069,15 +6085,13 @@ Juez competente
 
 El que ejerza jurisdicción en el lugar donde se localice el menor, cuando se solicita la restitución de éste por una autoridad central de otro país.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
 Legitimación
 
 ###### Artículo 2.
 
-363.- Podrán promover este procedimiento quienes ejerzan la patria potestad o la persona o institución que tenga designada la guarda y custodia del menor. Las actuaciones se practicarán con intervención del Ministerio Público, quien en todo momento velará y resguardará los intereses del menor y de las personas o instituciones con los derechos ya mencionados.
+363.- Podrán promover este procedimiento quienes ejerzan la patria potestad o la persona o institución que tenga la guarda y custodia de las niñas, niños o adolescentes. Las actuaciones se practicarán con intervención de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México, las procuradurías de protección municipales y del Ministerio Público, quienes en todo momento velarán y resguardarán por los intereses de niñas, niños y adolescentes y de las personas o instituciones con los derechos mencionados.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -6121,11 +6135,17 @@ Incomparecencia del requerido
 
 366.- Si el requerido no comparece a la audiencia, se tendrá por precluído su derecho para oponer excepciones y defensas y ofrecer pruebas.
 
-El juez citará a los interesados y al Ministerio Público a una audiencia oral que tendrá lugar en un plazo no superior a los cinco días siguientes.
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
-En la audiencia se oirá a ambas partes quienes podrán expresar alegatos, al Ministerio Público y, en su caso, al menor.
+El Juez citará a los interesados, a la Procuraduría de Protección de Niñas, Niños y Adolescentes, a las procuradurías de protección municipales y al Ministerio Público a una audiencia oral que tendrá lugar en un plazo no mayor a cinco días siguientes.
 
-El juez resolverá en la audiencia o dentro de los tres días siguientes, si procede o no la restitución, conforme al interés del menor y los términos de las convenciones aplicables.
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+En la audiencia se escuchará a ambas partes quienes podrán expresar alegatos, a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México, al Ministerio Público y, en su caso, a las niñas, niños y adolescentes.
+
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+El Juez resolverá en la audiencia o dentro de los tres días siguientes, si procede o no la restitución, conforme al interés superior de niñas, niños y adolescentes y los términos de las convenciones aplicables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -6385,6 +6405,14 @@ IV. Lo considere necesario el Juez, o
 
 V. Lo dispongan las leyes.
 
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Intervención de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México
+
+###### Artículo 3.
+
+3 Bis.- La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México será oída cuando se refiera a la persona o bienes de niñas, niños o adolescentes, cuando carezcan de representante legal o el Juez advierta que es omiso o actúa en contra de los intereses de aquellos. Asimismo, será oída cuando el Juez lo considere necesario o lo dispongan las leyes.
+
 Audiencia previa
 
 ###### Artículo 3.
@@ -6411,6 +6439,10 @@ Impugnación
 
 6.- Las providencias dictadas en procedimientos judiciales no contenciosos, son apelables con efecto suspensivo si el recurso lo interpone el promovente y en el efecto no suspensivo, cuando las recurra un tercero.
 
+### CAPITULO V. Del Apeo o Deslinde
+
+Procedencia
+
 ###### Artículo 3.
 
 7.- Para vender o gravar bienes que pertenezcan a menores o sujetos a interdicción, será necesaria autorización judicial si corresponden a las siguientes clases:
@@ -6424,10 +6456,6 @@ III. Acciones sobre personas jurídicas colectivas, cuando la suma de sus valore
 IV. Derechos de patentes, marcas, autorales y otros análogos.
 
 Requisitos para conceder la autorización
-
-### CAPITULO V. Del Apeo o Deslinde
-
-Procedencia
 
 ###### Artículo 3.
 
@@ -6451,11 +6479,9 @@ Substanciación de la solicitud de venta o gravamen
 
 El juez designará perito para que proceda a la valuación de los bienes propuestos para venta o gravamen; el dictamen será rendido en la audiencia antes referida.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
-> <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2012)</small>
-
-En la audiencia, el juez oirá al promovente, al tutor especial o al curador y, en su caso, al Ministerio Público; recibirá los medios de prueba propuestos, y dictará resolución.
+En la audiencia, el juez oirá al promovente, al tutor especial o al curador y, en su caso, al Ministerio Público y a la procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México, recibirá los medios de prueba propuestos, y dictará resolución.
 
 La resolución que se dicte será apelable con efecto suspensivo.
 
@@ -6487,6 +6513,10 @@ Transacción sobre derechos de menores o sujetos a interdicción
 
 14.- Lo dispuesto en este capítulo se aplicará, en lo conducente, a las transacciones de derechos de menores o sujetos a interdicción.
 
+### CAPITULO I. Reglas Generales
+
+Procedencia del concurso de acreedores
+
 ###### Artículo 3.
 
 15.- El que pretenda adoptar, deberá acreditar los requisitos señalados en el Código Civil.
@@ -6494,10 +6524,6 @@ Transacción sobre derechos de menores o sujetos a interdicción
 Requisitos de la solicitud
 
 > <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2004)</small>
-
-### CAPITULO I. Reglas Generales
-
-Procedencia del concurso de acreedores
 
 ###### Artículo 3.
 
@@ -6527,6 +6553,10 @@ Menor de edad adoptado
 
 19.- (DEROGADO, G.G. 15 DE MAYO DE 2012)
 
+### CAPITULO II. De las Funciones del Síndico
+
+Funciones del síndico
+
 ###### Artículo 3.
 
 20.- El que tenga interés en rendir la información de dominio a que se refiere el Código Civil, a su solicitud acompañará:
@@ -6542,10 +6572,6 @@ IV. Constancia del comisariado ejidal o comunal de que el inmueble no está suje
 Personas que deberán ser citadas
 
 > <small>(REFORMADO, G.G. 10 DE MAYO DE 2013)</small>
-
-### CAPITULO II. De las Funciones del Síndico
-
-Funciones del síndico
 
 ###### Artículo 3.
 
@@ -6599,15 +6625,17 @@ Protocolización de las informaciones
 
 29.- Las informaciones se protocolizarán ante el Notario que designe el interesado y se inscribirán en el Registro Público de la Propiedad.
 
+### CAPITULO I. Disposiciones Generales
+
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Medidas urgentes en caso de fallecimiento
+
 ###### Artículo 3.
 
 30.- El Apeo o deslinde tiene lugar cuando no se hayan fijado los límites que separan un predio de otro u otros o que, habiéndose fijado, haya motivo fundado para creer que no son exactos.
 
 Legitimación
-
-### CAPITULO I. Disposiciones Generales
-
-Medidas urgentes en caso de fallecimiento
 
 ###### Artículo 3.
 
@@ -6863,7 +6891,7 @@ Plazo para el inventario
 
 ###### Artículo 4.
 
-17.- Luego que el Juez tenga conocimiento de la muerte de una persona, a solicitud del Ministerio Público, podrá dictar las medidas urgentes necesarias si hay menores interesados o peligro de que se oculten, pierdan o dilapiden los bienes.
+17.- Luego que el Juez tenga conocimiento de la muerte de una persona, a solicitud del Ministerio Público o de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México, podrá dictar las medidas urgentes necesarias si hay menores interesados o peligro de que se oculten, pierdan o dilapiden los bienes.
 
 Nombramiento de interventor
 
@@ -7415,17 +7443,17 @@ De la demanda, reconvención y su contestación
 
 1.- Las controversias sobre el estado civil de las personas y del derecho familiar, se tramitarán de acuerdo con las reglas que se señalan en este Libro, y en lo no previsto, con las del Libro Segundo de este ordenamiento.
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
-Las controversias de derecho familiar, se consideran de orden público por constituir la base de la integración de la sociedad, estando facultado el juzgador para actuar de oficio, especialmente tratándose de menores, discapacitados, en materia de alimentos, guarda y custodia, patria potestad y de las cuestiones relacionadas con violencia familiar, decretando las medidas cautelares tendentes a preservar la familia y a proteger a sus miembros.
+Las controversias de derecho familiar se consideran de orden público por constituir la base de la integración de la sociedad, estando facultado el juzgador para actuar de oficio, especialmente tratándose de niñas, niños y adolescentes, personas con discapacidad, en materia de alimentos, guarda y custodia, patria potestad y de las cuestiones relacionadas con violencia familiar, decretando las medidas cautelares tendientes a preservar la familia y a proteger a sus miembros. El juzgador deberá implementar las medidas de protección conducentes, a fin de garantizar el pleno goce, respeto, protección y promoción de los derechos humanos de niñas, niños y adolescentes.
 
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 Tratándose de asuntos de reconocimiento de paternidad, el juzgador no requerirá nombrar a un tutor a favor del menor, excepto cuando quien lo promueva en su nombre tenga un interés opuesto al del menor.
 
-> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
-El juez dictará las medidas tendientes a garantizar de manera provisional y definitiva el derecho de los menores y de los padres a gozar de la convivencia familiar, velando en todo momento por la integridad física y emocional del menor.
+El juez dictará las medidas tendientes a garantizar de manera provisional y definitiva el derecho de niñas, niños y adolescentes y de los padres a gozar de la convivencia familiar, velando en todo momento por el interés superior de aquellos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -7457,15 +7485,49 @@ Principios del procedimiento
 
 3.- Las controversias se regirán por los principios de oralidad, inmediación, publicidad, concentración y continuidad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Derecho a la intimidad de las partes
+Principios del procedimiento relacionado con niñas, niños o adolescentes
 
 ###### Artículo 5.
 
-4.- El juzgador velará durante el proceso por el respeto al derecho a la intimidad de las partes y especialmente de los niños, niñas y adolescentes.
+3 bis.- En todo procedimiento de carácter jurisdiccional en el que estén relacionados niñas, niños o adolescentes, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez se deberá observar lo siguiente:
+
+I. Garantizar la protección y prevalencia del interés superior de la niñez.
+
+II. Proporcionar información clara, sencilla y comprensible para las niñas, niños y adolescentes sobre el procedimiento judicial o administrativo de que se trate y la importancia de su participación en el mismo, incluyendo, en su caso, formatos accesibles de fácil comprensión y lectura para niñas, niños y adolescentes con discapacidad.
+
+III. Garantizar el derecho de niñas, niños y adolescentes a ser representados, así como información sobre las medidas de protección disponibles.
+
+IV. Proporcionar asistencia de profesionales especializados cuando la naturaleza del procedimiento lo requiera.
+
+V. Proporcionar la asistencia de un traductor o intérprete.
+
+VI. Ponderar, antes de citar a una niña, niño o adolescente a alguna audiencia, la pertinencia de la misma, considerando su edad, madurez, estado psicológico, así como cualquier otra condición específica.
+
+VII. Garantizar el acompañamiento de quien ejerza sobre ellos la patria potestad, tutela, guarda o custodia durante la sustanciación de todo el procedimiento, salvo disposición judicial en contrario.
+
+VIII. Mantener a niñas, niños o adolescentes apartados de los adultos que puedan influir negativamente en su comportamiento o estabilidad emocional, cuando así lo determine la autoridad competente, antes y durante la realización de la audiencia o comparecencia respectiva.
+
+IX. Destinar espacios lúdicos de descanso y aseo para niñas, niños y adolescentes en los recintos en que se lleven a cabo procedimientos en que deban intervenir.
+
+X. Ajustarse al tiempo de participación máximo para la intervención de niñas, niños o adolescentes durante la sustanciación de los procedimientos, de conformidad con los principios de autonomía progresiva y celeridad procesal.
+
+XI. Implementar medidas para proteger a niñas, niños o adolescentes de sufrimientos durante su participación y garantizar el resguardo de su intimidad y datos personales.
+
+> <small>(REFORMADO SU EPÍGRAFE, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Derecho a la intimidad de las personas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+###### Artículo 5.
+
+4.- El juzgador velará durante el proceso por el respeto al derecho a la intimidad de las partes y especialmente de niñas, niños y adolescentes, reconociendo a estos como sujetos de derecho, promoviendo, garantizando y protegiendo el pleno ejercicio y goce de los derechos humanos, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
 Con ese objetivo podrá prohibir la difusión de datos e imágenes referidos al proceso o a las partes; o disponer, mediante resolución fundada, que todas o algunas de las actuaciones del procedimiento se realicen en forma reservada.
 
@@ -7509,6 +7571,14 @@ Suplencia de la queja
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
+### CAPITULO V. Audiencia Inicial
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Etapas de la audiencia inicial
+
 ###### Artículo 5.
 
 9.- Salvo lo dispuesto en el presente título, las peticiones de las partes se formularán oralmente durante las audiencias.
@@ -7518,14 +7588,6 @@ Suplencia de la queja
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
 Determinaciones orales
-
-### CAPITULO V. Audiencia Inicial
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Etapas de la audiencia inicial
 
 ###### Artículo 5.
 
@@ -7595,23 +7657,21 @@ Los asuntos conexos se acumularán a instancia de parte o de manera oficiosa, a 
 
 En la acumulación de juicios orales a ordinarios o viceversa, una vez concluida la fase de alegatos, se remitirán al que, por razón de prevención, le corresponda el conocimiento y decisión del asunto para que en una misma sentencia se resuelvan ambos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Interés superior del menor
+Interés superior de niñas, niños y adolescentes
 
 ###### Artículo 5.
 
-16.- El interés superior de los menores y su derecho a ser escuchado, son principios rectores que el juez debe tener siempre como consideración primordial en la tramitación y resolución del asunto sometido a su conocimiento.
+16.- El interés superior de niñas, niños y adolescentes es la prioridad que ha de otorgarse a los derechos de las niñas, niños y adolescentes, respecto de cualquier otro derecho.
 
-Al resolver una controversia, el juez podrá dictar las medidas que estime pertinentes para salvaguardar el interés superior del menor, entre otras, ordenar terapia médica, psicológica o social a sus progenitores o quienes integren el grupo familiar.
+El derecho a (sic) las niñas, niños y adolescentes a ser escuchados y tomados en cuenta son principios rectores que el juez debe tener siempre como consideración primordial en la tramitación y resolución del asunto sometido a su conocimiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+Al resolver una controversia, el juez podrá dictar las medidas que estime pertinentes para salvaguardar el interés superior de niñas, niños y adolescentes, entre otras, ordenar terapia médica, psicológica o social a sus progenitores o quienes integren el grupo familiar.
 
-> <small>(ADICIONADO, G.G. 9 DE AGOSTO DE 2012)</small>
+Dentro de las 12 horas siguientes a la imposición (sic) alguna medida urgente de protección ordenada por la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente.
 
-En los asuntos en que estén involucrados menores o incapaces, el juez deberá suplir la deficiencia de la queja en beneficio de éstos.
+En los asuntos en que estén involucrados niñas, niños y adolescentes o incapaces, el juez deberá suplir la deficiencia de la queja en beneficio de estos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -7761,11 +7821,15 @@ Protesta de decir verdad
 
 Intervención del Ministerio Público
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 5.
 
-30.- Cuando se involucren derechos relacionados con menores o incapaces se dará intervención al Ministerio Público desde el auto admisorio, cuando aquéllos carezcan de representante legal.
+30.- Cuando se involucren derechos relacionados con niñas, niños y adolescentes se dará intervención al Ministerio Público y a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México y las procuradurías de protección municipales, desde el auto admisorio, cuando aquellos carezcan de representante legal. También se dará intervención al Ministerio Público cuando se trate de incapaces, desde el auto admisorio cuando carezcan de representante legal.
 
-El juez, en cualquier etapa del procedimiento, cuando advierta que el representante legal es omiso o actúa en contra de los intereses de los menores o incapaces dará intervención al Ministerio Público.
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+El Juez en cualquier etapa del procedimiento, cuando advierta que el representante legal es omiso o actúa en contra de los intereses de niñas, niños y adolescentes o incapaces dará intervención a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México.
 
 Tratándose de adultos mayores, el Juez dará intervención al Ministerio Público, cuando advierta que se requiere para la mejor representación de sus intereses.
 
@@ -7780,6 +7844,14 @@ De los juicios especiales y procedimientos no contenciosos
 31.- Son aplicables a los juicios especiales y procedimientos no contenciosos relacionados con derecho familiar y el estado civil de las personas, en lo conducente, las reglas señaladas en el presente libro.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
+
+### CAPITULO VI. De la Audiencia Principal
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Desarrollo de la audiencia principal
 
 ###### Artículo 5.
 
@@ -7807,14 +7879,6 @@ La falta de interés en el desahogo de estos medios de prueba, surtirá efectos 
 
 Declaración de parte
 
-### CAPITULO VI. De la Audiencia Principal
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Desarrollo de la audiencia principal
-
 ###### Artículo 5.
 
 33.- La declaración de parte consiste en la facultad de los litigantes para interrogar oralmente a la contraria, sobre hechos y circunstancias de que tenga noticia y que guarden relación con el objeto de la controversia.
@@ -7841,19 +7905,13 @@ Declaración de parte y confesional
 
 Si se admiten la confesional y declaración de parte, ésta se desahogará al concluir aquélla.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Opinión de menores
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2012)</small>
+Opinión de niñas, niños y adolescentes
 
 ###### Artículo 5.
 
-35.- De existir menores, a petición de parte o de oficio, el juez tomará las providencias necesarias para que sin formalidad alguna, expresen de manera libre su opinión en los asuntos que les afecten.
+35.- De existir niñas, niños o adolescentes, a petición de parte o de oficio, el Juez tomará las providencias necesarias para que sin formalidad alguna, participen, sean escuchados y tomados en cuenta y expresen de manera libre su opinión en los asuntos que les afecten.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -7945,6 +8003,10 @@ Oposición al desahogo de pruebas
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE FEBRERO DE 2009)</small>
 
+### CAPITULO VII. Cambio de Vía en el Divorcio Necesario
+
+Solicitud de divorcio por mutuo consentimiento
+
 ###### Artículo 5.
 
 40.- La demanda, la reconvención y contestación a éstas, se regularán por lo previsto en el Libro Segundo, en lo que no se oponga al presente capítulo.
@@ -7960,10 +8022,6 @@ Además de los medios de prueba que este código establece, las partes podrán o
 > <small>(ADICIONADO, G.G. 24 DE ABRIL DE 2012)</small>
 
 Del formato de demanda de alimentos
-
-### CAPITULO VII. Cambio de Vía en el Divorcio Necesario
-
-Solicitud de divorcio por mutuo consentimiento
 
 ###### Artículo 5.
 
@@ -8025,9 +8083,11 @@ Fuera de los casos anteriores, se ordenará requerir al deudor alimentario sobre
 
 Medidas provisionales
 
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 5.
 
-44.- Cuando se controviertan derechos de menores o incapaces, el juez podrá dictar las medidas provisionales que estime pertinentes para salvaguardar los derechos de aquellos, ya sea a petición de parte o de oficio, con conocimiento de la posición de las partes sobre el particular.
+44.- Cuando se controviertan derechos de niñas, niños y adolescentes o incapaces, el juez podrá dictar las medidas provisionales que estime pertinentes para salvaguardar los derechos de aquellos, ya sea a petición de parte, de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México y las procuradurías de protección municipales o de oficio, con conocimiento de la posición de las partes sobre el particular.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -8107,6 +8167,14 @@ V. Revisión de las medidas provisionales.
 
 Inasistencia de las partes
 
+### CAPITULO VIII. De los Recursos
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+
+Revocación fuera de audiencia
+
 ###### Artículo 5.
 
 51.- De inasistir las partes a la audiencia inicial, ésta se verificará de manera reservada, sin necesidad de que sea video o audiograbada; sólo se instrumentará un acta en la que se puntualizarán los acuerdos y providencias que se lleguen a emitir en el desahogo de cada fase.
@@ -8116,14 +8184,6 @@ Inasistencia de las partes
 > <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
 
 Enunciación de la litis
-
-### CAPITULO VIII. De los Recursos
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
-
-Revocación fuera de audiencia
 
 ###### Artículo 5.
 
@@ -8245,7 +8305,9 @@ II. Se recibirán los medios de prueba, de preferencia, en el orden que fueron o
 
 III. Desahogadas las probanzas, se formularán alegatos, por un tiempo prudente a juicio del juez, sin derecho a réplica.
 
-IV. El juez dictará la sentencia que contendrá los motivos y fundamentos del fallo; su lectura podrá efectuarse de manera resumida.
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+IV. El juez dictará la sentencia que contendrá los motivos y fundamentos del fallo, atendiendo el interés superior de niñas, niños y adolescentes, en cuestiones que los involucren, su lectura podrá efectuarse de manera resumida.
 
 De no dictar la sentencia en la audiencia, por la complejidad del asunto, se citará a las partes para oírla dentro de un plazo de diez días.
 
@@ -8732,3 +8794,17 @@ G.G. 31 DE JULIO DE 2015.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 6 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El Ejecutivo Estatal y los ayuntamientos, en sus respectivos ámbitos de competencia, proveerán lo conducente para el cumplimiento del presente Decreto.
+
+CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamentarias correspondientes en un plazo que no deberá exceder de ciento ochenta días hábiles a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
