@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107687"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2015-05-07"
+last_updated: "2015-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 7 de mayo de 2015.
 
@@ -505,27 +505,41 @@ Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel pos
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, se coordinarán a fin de:
 
-I. Reducir la morbilidad y mortalidad en la población infantil.
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-II. Reducir las razones de riesgo de la morbilidad y mortalidad materna, durante el embarazo, parto y puerperio.
+I. Establecer acciones para reducir la morbilidad y mortalidad de niñas, niños y adolescentes.
 
-III. Asegurar la prestación de la asistencia médica y sanitaria que sean necesarias a niñas, niños y adolescentes, haciendo hincapié en la atención primaria.
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+II. Implementar acciones para reducir las razones de riesgo de la morbilidad y mortalidad materna.
+
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+III. Asegurar la prestación de la asistencia médica y sanitaria que sean necesarias a niñas, niños y adolescentes, haciendo hincapié en la atención primaria a la salud.
 
 IV. Promover en todos los grupos de la sociedad y, en particular, en quienes ejerzan la patria potestad, tutela o guarda y custodia, de niños, niñas y adolescentes, los principios básicos de la salud, la nutrición, la higiene y el saneamiento ambiental, las medidas de prevención de accidentes, las ventajas de la lactancia materna, exclusiva dentro de los primeros seis meses y complementaria hasta los dos años.
 
 V. Adoptar medidas tendientes a la eliminación de prácticas culturales, usos y costumbres que sean perjudiciales para la salud de niñas, niños y adolescentes.
 
-VI. Desarrollar la atención sanitaria preventiva, la orientación y asesoría a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, y cuidados en materia de salud reproductiva de conformidad con la Ley de Salud del Estado de México.
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+VI. Desarrollar la atención sanitaria preventiva, la orientación y asesoría a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, y cuidados en materia de salud reproductiva, de conformidad con las disposiciones jurídicas en materia de salud.
 
 VII. Establecer las medidas tendientes a prevenir embarazos de niñas y adolescentes enfocadas en el acceso a oportunidades, permanencia escolar y la creación de un programa de vida, así como garantizar la información sobre métodos anticonceptivos, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez, fomentando la participación de quienes detenten la patria potestad, tutela, guarda y custodia para el desarrollo de una sexualidad responsable.
 
-VIII. Asegurar la prestación de servicios de atención médica respetuosa, efectiva e integral durante el embarazo, parto y puerperio.
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+VIII. Asegurar la prestación de servicios de atención médica gratuita, respetuosa, efectiva e integral a las mujeres durante el embarazo, parto y puerperio, así como para sus hijas e hijos.
 
 IX. Impulsar programas de prevención e información, de asistencia para combatir la desnutrición crónica y aguda, sobrepeso y obesidad, así como otros trastornos de conducta alimentaria mediante la promoción de una alimentación adecuada y equilibrada, el consumo de agua potable, el fomento del ejercicio físico y estilos de vida saludable.
 
-X. Fomentar y ejecutar los programas de vacunación, el control de la salud de la niñez y adolescencia para vigilar su crecimiento y desarrollo en forma periódica.
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-XI. Atender de manera especial las enfermedades respiratorias, renales, gastrointestinales, epidémicas, cáncer, diabetes, VIH/SIDA y otras enfermedades de transmisión sexual e impulsar programas de prevención e información sobre estas.
+X. Garantizar a las niñas, niños y adolescentes los programas de vacunación, así como su control a través de la vigilancia de su crecimiento y desarrollo.
+
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XI. Atender de manera oportuna las enfermedades respiratorias, renales, gastrointestinales, epidémicas, cáncer, diabetes, VIH/SIDA y otras enfermedades de transmisión sexual e impulsar programas de prevención e información sobre estas.
 
 XII. Establecer acciones encaminadas a la prevención y detección temprana de discapacidades a efecto de reducir al máximo la aparición de discapacidades y asegurar los mayores niveles de atención y rehabilitación.
 
@@ -535,7 +549,9 @@ XIV. Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehabili
 
 XV. Sancionar y erradicar la esterilización forzada de niñas, niños y adolescentes.
 
-XVI. Establecer las medidas para que en los servicios de salud se atiendan de manera especial los casos en que niñas, niños y adolescentes sean víctimas de delitos o de cualquier tipo de violencia.
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XVI. Establecer las medidas para que en los servicios de salud se atiendan de manera oportuna los casos en que niñas, niños y adolescentes sean víctimas de delitos o de cualquier tipo de violencia.
 
 XVII. Establecer medidas tendientes a la prevención, atención, combate y rehabilitación de los problemas de salud pública causados por las adicciones.
 
@@ -743,7 +759,9 @@ IX. Fomentar la inclusión de la enseñanza del sistema de escritura braille y l
 
 Niñas, niños y adolescentes tienen derecho al descanso, al esparcimiento, al juego y a las actividades recreativas propias de su edad, así como a participar libremente en actividades culturales, deportivas y artísticas, como factores primordiales de su desarrollo y crecimiento, así como a disfrutar de las manifestaciones y actividades culturales y artísticas de su comunidad.
 
-Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes deberán respetar el goce de estos derechos y, por lo tanto, no podrán imponerles regímenes de vida, estudio, tareas o reglas de disciplina desproporcionadas a su edad, desarrollo evolutivo, cognoscitivo y madurez, que impliquen la renuncia o el menoscabo de los mismos.
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes deberán respetar el goce de estos derechos y, por lo tanto, no podrán imponerles regímenes de vida, estudio, tareas o reglas de disciplina desproporcionadas a su edad, desarrollo evolutivo, cognoscitivo y madurez, que impliquen la renuncia o el menoscabo de los mismos. Además, vigilarán que niñas, niños y adolescentes no realicen trabajos en edad no permitida que los prive de su niñez o adolescencia y atente contra su potencial, dignidad, desarrollo físico o psicológico.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a garantizar el derecho de niñas, niños y adolescentes al descanso y el esparcimiento y a fomentar oportunidades apropiadas, en condiciones de igualdad sustantiva, para su participación en actividades culturales, artísticas y deportivas dentro de su comunidad.
 
@@ -1563,7 +1581,9 @@ X. Llevar a cabo el seguimiento, monitoreo y evaluación de la ejecución del Pr
 
 XI. Emitir un informe anual sobre los avances del Programa Estatal y remitirlo al Sistema Nacional de Protección.
 
-XII. Garantizar la participación de niñas, niños y adolescentes, tomando en consideración las medidas especiales que se requieran y las disposiciones prescritas en la presente Ley.
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XII. Garantizar la participación de niñas, niños y adolescentes en el ejercicio de sus derechos humanos, tomando en consideración las medidas especiales que se requieran.
 
 XIII. Fortalecer las acciones de corresponsabilidad y cercanía entre las instancias públicas y privadas con niñas, niños y adolescentes.
 
@@ -1878,3 +1898,19 @@ EL SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 6 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El Ejecutivo Estatal y los ayuntamientos, en sus respectivos ámbitos de competencia, proveerán lo conducente para el cumplimiento del presente Decreto.
+
+CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamentarias correspondientes en un plazo que no deberá exceder de ciento ochenta días hábiles a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
