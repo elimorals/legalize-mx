@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2015-07-27"
+last_updated: "2015-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE AGOSTO DE 2015 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1689,9 +1691,13 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 I. Atención médica, preferentemente en beneficio de grupos vulnerables;
 
-II. Atención materno-infantil;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-III. Planificación familiar;
+II. Atención materno-infantil y la promoción de la lactancia materna.
+
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+III. Planificación familiar que incluya orientación sobre salud sexual y reproductiva.
 
 > <small>(REFORMADA, G.G. 18 DE JULIO DE 2014)</small>
 
@@ -1707,9 +1713,13 @@ VIII. Información relativa a las condiciones, recursos y servicios de salud;
 
 IX. Educación para la salud;
 
-X. Orientación y vigilancia en materia de nutrición;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-XI. Prevención y control de los efectos nocivos de los factores ambientales en la salud del hombre;
+X. Promoción, orientación y vigilancia en materia de nutrición e higiene.
+
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XI. Prevención y control de los efectos nocivos de los factores ambientales en la salud de las personas.
 
 XII. Salud ocupacional y saneamiento básico;
 
@@ -1723,7 +1733,13 @@ XV. Asistencia social;
 
 XVI. Programas contra el alcoholismo y tabaquismo;
 
-XVII. Los demás que se establezcan en la Ley General de Salud y otras disposiciones aplicables.
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XVII. Atención médica gratuita a niñas, niños y adolescentes.
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XVIII. Los demás que se establezcan en la Ley General de Salud y otras disposiciones aplicables.
 
 ###### Artículo 2.
 
@@ -1761,9 +1777,9 @@ I. Proporcionar servicios de salud a toda la población del Estado y mejorar la 
 
 II. Contribuir al adecuado desarrollo demográfico;
 
-> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-III. Colaborar al bienestar social de la población mediante la prestación de servicios de salud, principalmente a menores en estado de abandono, ancianos desamparados, indígenas y personas con discapacidad, para fomentar y propiciar su incorporación a una vida activa en lo económico y social;
+III. Colaborar al bienestar social de la población mediante la prestación de servicios de salud, principalmente a niñas, niños, adolescentes, adultos mayores, indígenas y personas con discapacidad en estado de vulnerabilidad, para fomentar y propiciar su incorporación a una vida activa en lo económico y social.
 
 IV. Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez;
 
@@ -1775,9 +1791,9 @@ VII. Coadyuvar a la modificación de los patrones culturales que determinen háb
 
 VIII. Promover un sistema de fomento sanitario que contribuya al desarrollo de actividades y servicios que no sean nocivos para la salud.
 
-> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-IX. Promover la prevención y el tratamiento del alcoholismo, y en su caso, la rehabilitación, así como la educación e información sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida preferentemente a niños y adolescentes y el fomento a actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo.
+IX. Promover la prevención y el tratamiento de problemas causados por las adicciones y, en su caso, la rehabilitación, así como la educación e información sobre sus efectos en la salud y en las relaciones sociales, dirigida preferentemente a niñas, niños y adolescentes y el fomento a actividades cívicas, deportivas y culturales que coadyuven en la lucha contra las adicciones.
 
 El sistema estatal de salud podrá auxiliarse de los organismos nacionales e internacionales que estime necesarios para el cumplimiento de sus objetivos.
 
@@ -17654,3 +17670,17 @@ NOVENO. Cuando en otros ordenamientos legales administrativos, documentación y 
 DÉCIMO. Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento del presente Decreto.
 
 DÉCIMO PRIMERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 6 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El Ejecutivo Estatal y los ayuntamientos, en sus respectivos ámbitos de competencia, proveerán lo conducente para el cumplimiento del presente Decreto.
+
+CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamentarias correspondientes en un plazo que no deberá exceder de ciento ochenta días hábiles a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
