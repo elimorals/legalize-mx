@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-derechos-y-cultura-indigena-del-estado-de-mexico-26754"
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-10"
-last_updated: "2014-05-14"
+last_updated: "2015-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TÉRMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TÉRMINO PERSONAS CON DISCAPACIDAD.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
 
 Ley publicada en la Sección Cuarta de la Gaceta de Gobierno del Estado de México, el martes 10 de septiembre del 2002.
 
@@ -38,6 +36,8 @@ DECRETO NUMERO 94
 LA H. "LIV" LEGISLATURA DEL ESTADO DE MEXICO
 
 DECRETA:
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TÉRMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TÉRMINO PERSONAS CON DISCAPACIDAD.</small>
 
 LEY DE DERECHOS Y CULTURA INDIGENA DEL ESTADO DE MEXICO
 
@@ -333,9 +333,11 @@ V. Las sanciones que se impongan en ningún caso atentarán contra los derechos 
 
 Las resoluciones de las autoridades tradicionales de los pueblos, localidades y comunidades indígenas, podrán ser consideradas como elementos de prueba para formar y fundar la convicción de jueces y magistrados.
 
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 29.
 
-En los asuntos en que se afecte a la familia indígena y especialmente cuando se atente en contra de la integridad física, salud o sano desarrollo de las mujeres y niños indígenas, así como para evitar la violencia doméstica, el maltrato físico y emocional, la irresponsabilidad de los padres ante los hijos y del varón ante la mujer, la autoridad tradicional podrá intervenir de oficio, decretando las medidas de protección respectivas y proponiendo alternativas de avenimiento y en caso de conocer de hechos presuntamente constitutivos de delitos, estará obligada a hacerlos del conocimiento del Ministerio Público para su intervención legal correspondiente.
+En los asuntos en que se afecte a la familia indígena y especialmente cuando se atente en contra de la integridad física, salud o sano desarrollo de las mujeres, niñas, niños y adolescentes indígenas, así como para evitar la violencia doméstica, el maltrato físico y emocional, la irresponsabilidad de los padres ante los hijos y del varón ante la mujer, la autoridad tradicional podrá intervenir de oficio, decretando las medidas de protección respectivas y proponiendo alternativas de avenimiento, y en caso de conocer de hechos presuntamente constitutivos de delitos, estará obligada a hacerlos del conocimiento del Ministerio Público y a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México para su intervención legal correspondiente.
 
 ###### Artículo 30.
 
@@ -619,9 +621,11 @@ Cualquier persona podrá denunciar, ante las autoridades competentes, los casos 
 
 Las autoridades estatales y municipales tendrán la obligación de formular las denuncias a que se refiere el presente artículo.
 
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 66.
 
-El Ejecutivo del Estado y los Ayuntamientos, a fin de proteger el sano desarrollo de los menores de edad, procurarán que el trabajo que desempeñen los menores, en el seno familiar, no sea excesivo, perjudique su salud o les impida continuar con su educación. Para lo que instrumentarán servicios de orientación social encaminados a concientizar a los integrantes de las comunidades indígenas.
+El Ejecutivo del Estado y los ayuntamientos, a fin de proteger el sano desarrollo de niñas, niños y adolescentes, procurarán que el trabajo que estos desempeñen, en el seno familiar, no sea excesivo, perjudique su salud o les impida continuar con su educación o el goce de sus derechos, por lo que instrumentarán servicios de orientación social encaminados a concientizar a los integrantes de las comunidades indígenas en la necesidad de fortalecer esa protección.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
@@ -786,3 +790,17 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Cuando en los ordenamientos jurídicos estatales se haga referencia a la Secretaría de Finanzas, Planeación y Administración; de Desarrollo Urbano y Obras Públicas; de Educación, Cultura y Bienestar Social; del Trabajo y de la Previsión Social y, de Ecología, se entenderá, respectivamente, a la Secretaría de Finanzas; de Desarrollo Urbano; de Educación, de Trabajo y, de Medio Ambiente.
+
+G.G. 6 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El Ejecutivo Estatal y los ayuntamientos, en sus respectivos ámbitos de competencia, proveerán lo conducente para el cumplimiento del presente Decreto.
+
+CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamentarias correspondientes en un plazo que no deberá exceder de ciento ochenta días hábiles a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
