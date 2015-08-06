@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-juventud-del-estado-de-mexico-76478"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-31"
-last_updated: "2010-08-31"
+last_updated: "2015-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MEX"
 
 LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
 
-Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el martes 31 de agosto de 2010.
+Ley publicada en la Sección Quinta a la Gaceta del Gobierno del Estado de México, el martes 31 de agosto de 2010.
 
 ENRIQUE PEÑA NIETO, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
 
@@ -143,15 +143,21 @@ Son derechos de los jóvenes, los establecidos en la Constitución Política de 
 
 Los jóvenes tienen derecho a:
 
-l. Una vida con un sano desarrollo físico, moral e intelectual, para lograr su participación en la sociedad con responsabilidad;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-II. Expresar libremente sus ideas, opiniones e intereses y a disentir en el ámbito de la convivencia del marco democrático y legal;
+I. Una vida con un sano desarrollo físico, moral e intelectual, considerando las diversas etapas de evolución biológica, física, psicológica y mental, para lograr su participación responsable en la sociedad.
+
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+II. Expresar libremente sus ideas, opiniones e intereses y a disentir, en el ámbito de la convivencia del marco democrático y legal, así como a ser escuchados y tomados en cuenta respecto a los asuntos de su familia, de su comunidad, de su país, y todos aquellos temas que les afecten.
 
 III. Formar parte de una familia y a la constitución de un matrimonio con igualdad de derechos y obligaciones, en términos de las leyes del Estado de México;
 
 IV. Recibir asesoría y asistencia jurídica;
 
-V. Vivir en un entorno libre de violencia y a estar protegidos en su integridad física y psicológica, de todo tipo de agresión o violencia;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+V. Vivir en un entorno libre de violencia y a estar protegidos en su integridad física y psicológica, de acuerdo con su edad, de todo tipo de agresión o violencia.
 
 VI. Ser tratados de manera digna, a tener igualdad de oportunidades, sin importar raza, género, discapacidad, preferencia sexual, condición familiar, social, económica o de salud, convicciones u opiniones políticas, religión u otras conductas análogas;
 
@@ -191,9 +197,13 @@ VI. Disfrutar y ejercer plenamente su sexualidad, para mantener una conducta sex
 
 VII. Disfrutar de un medio ambiente sano y equilibrado, con conciencia, responsabilidad, solidaridad y participación en el aprovechamiento racional y sustentable de los recursos naturales;
 
-VIII. Acceder al conocimiento y a la tecnología para su educación, información, diversión, esparcimiento y comunicación; y
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-IX. Recibir, acceder, analizar, sistematizar y difundir información objetiva y oportuna que les sea de importancia para sus proyectos de vida, sus intereses colectivos y para el bien de la entidad.
+VIII. Acceder al conocimiento y a la tecnología para su educación, información, diversión, esparcimiento y comunicación e intereses que les permitan la disminución de la brecha digital promoviendo el acceso a las nuevas tecnologías.
+
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+IX. Recibir, acceder, analizar, sistematizar y difundir, de acuerdo con su desarrollo biológico, psicológico y cognoscitivo, y conforme a su edad, información objetiva y oportuna que les sea de importancia para sus proyectos de vida, sus intereses colectivos y para el bien de la Entidad.
 
 #### SECCIÓN III. DERECHOS ECONÓMICOS
 
@@ -283,7 +293,9 @@ VIII. Brindar apoyo a los jóvenes que se encuentran o vivan en circunstancias d
 
 IX. Impulsar y fortalecer procesos sociales que generen formas que hagan efectiva la participación de jóvenes de todos los sectores de la sociedad, en organizaciones que alienten su inclusión y promuevan su derecho de participar en la vida política de la entidad;
 
-X. Prevenir, proteger y atender la salud de los jóvenes y crear programas especiales para aquellos jóvenes que no sean derechohabientes; fortalecer en los planes de estudio de educación media superior y superior, los temas de orientación vocacional y profesional, sexualidad, prevención de adicciones, desórdenes alimenticios y depresión, a fin de salvaguardar la salud juvenil y capacitar a los padres de familia, tutores o representantes para la detección oportuna de adicciones y/o conductas juveniles riesgosas;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+X. Prevenir, proteger y atender la salud de los jóvenes y crear programas especiales para los que estén en proceso de crecimiento y desarrollo que no sean derechohabientes, de manera sistemática y con seguimiento, que permita garantizar una vida adulta plena; fortalecer en los planes de estudio de educación media superior y superior, los temas de orientación vocacional y profesional, sexualidad, prevención de adicciones, desórdenes alimenticios y depresión, a fin de salvaguardar la salud juvenil y capacitar a los padres de familia, tutores o representantes para la detección oportuna de adicciones y/o conductas juveniles riesgosas.
 
 XI. Asegurar una educación de calidad, suficiente y adecuada al mercado laboral, acercando lo más posible las instancias de educación a los jóvenes; así como generar mecanismos de acceso democrático y estrategias de permanencia en el sistema educativo, para evitar la deserción escolar;
 
@@ -305,7 +317,9 @@ XIX. Promover la práctica del deporte como medio de aprovechamiento del tiempo 
 
 XX. Establecer programas y acciones para que los jóvenes participen en la conservación del medio ambiente y la biodiversidad, así como para el aprovechamiento racional y sustentable de los recursos naturales;
 
-XXI. Impulsar mecanismos que acerquen y vinculen a la juventud con la tecnología;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XXI. Impulsar mecanismos que acerquen y vinculen a la juventud con la tecnología, fomentando la inclusión y acceso desde etapas tempranas de la vida.
 
 XXII. Crear, promover y apoyar un sistema de información que permita a los jóvenes obtener, acceder, procesar, intercambiar y difundir información actualizada y útil para su desarrollo profesional y humano, procurando que los medios de comunicación generen valores positivos en la juventud;
 
@@ -684,3 +698,19 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 6 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El Ejecutivo Estatal y los ayuntamientos, en sus respectivos ámbitos de competencia, proveerán lo conducente para el cumplimiento del presente Decreto.
+
+CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamentarias correspondientes en un plazo que no deberá exceder de ciento ochenta días hábiles a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
