@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2015-07-31"
+last_updated: "2015-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -1151,9 +1151,9 @@ La rehabilitación tiene por objeto reintegrar al sentenciado en el ejercicio de
 
 La prescripción extingue la pretensión punitiva y las penas.
 
-> <small>(ADICIONADO, G.G. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
-Serán imprescriptibles los delitos que establezcan como pena máxima la prisión vitalicia.
+Serán imprescriptibles los delitos que establezcan como pena máxima la prisión vitalicia y aquellos que sean en perjuicio de niñas, niños y adolescentes.
 
 ###### Artículo 95.
 
@@ -4037,7 +4037,7 @@ Esta conducta se considerará como delito grave, cuando el monto de lo robado ex
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE ENERO DE 2015)</small>
 
-II. Cuando se cometa en el interior de casa habitación, se impondrán de ocho a doce años de prisión y de uno a tres veces el valor de Io robado, sin que exceda de mil quinientos días multa.
+II. Cuando se cometa en el interior de casa habitación, se impondrán de ocho a doce años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil quinientos días multa.
 
 Se comprende dentro de la denominación de casa habitación, el aposento, cualquier dependencia de ella y las movibles cualquiera que sea el material con el que estén construidas;
 
@@ -5572,3 +5572,17 @@ G.G. 31 DE JULIO DE 2015.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 6 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El Ejecutivo Estatal y los ayuntamientos, en sus respectivos ámbitos de competencia, proveerán lo conducente para el cumplimiento del presente Decreto.
+
+CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamentarias correspondientes en un plazo que no deberá exceder de ciento ochenta días hábiles a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
