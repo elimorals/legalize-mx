@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-prevencion-del-tabaquismo-y-de-proteccion-ante-la-89342"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-31"
-last_updated: "2012-08-31"
+last_updated: "2015-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,23 +21,15 @@ state: "MEX"
 ---
 # LEY DE PREVENCION DEL TABAQUISMO Y DE PROTECCION ANTE LA EXPOSICION AL HUMO DE TABACO EN EL ESTADO DE MEXICO
 
-LEY DE PREVENCIÓN DEL TABAQUISMO Y DE PROTECCIÓN ANTE LA EXPOSICIÓN AL HUMO DE TABACO EN EL ESTADO DE MÉXICO
+LEY DE INGRESOS DEL MUNICIPIO DE SAN MATEO TLAPILTEPEC, DISTRITO DE COIXTLAHUACA, OAXACA, PARA EL EJERCICIO FISCAL 2022
 
 TEXTO ORIGINAL.
 
-Ley publicada en la Sección Quinta de la Gaceta de Gobierno del Estado de México, el viernes 31 de agosto de 2012.
+Ley publicada en la Vigésima Cuarta Sección del Número 7 del Periódico Oficial del Estado de Oaxaca, el sábado 12 de febrero de 2022.
 
-ERUVIEL AVILA VILLEGAS, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
-Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
-
-DECRETO NÚMERO 522
-
-LA H. "LVII" LEGISLATURA DEL ESTADO DE MÉXICO
-
-DECRETA:
-
-LEY DE PREVENCIÓN DEL TABAQUISMO Y DE PROTECCIÓN ANTE LA EXPOSICIÓN AL HUMO DE TABACO EN EL ESTADO DE MÉXICO
+(NOTA: EL 24 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 42/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE NOVIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
 ### CAPÍTULO PRIMERO. NATURALEZA Y OBJETO
 
@@ -369,11 +361,13 @@ V. Demás circunstancias para la individualización de la sanción.
 
 ###### Artículo 28.
 
-Se sancionará con una multa de hasta cien días de salario mínimo general vigente del área geográfica que corresponda, al que consuma cualquier producto del tabaco en los espacios 100% libre de humo de tabaco, a los que hace referencia esta Ley.
+Es base de este derecho el importe que cubran a la Comisión Federal de Electricidad por el servicio de energía eléctrica a que se refiere el artículo anterior
+
+(NOTA: EL 24 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 42/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE NOVIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
 ###### Artículo 29.
 
-Se sancionará con una multa de mil a cuatro mil días de salario mínimo general vigente del área geográfica que corresponda, al propietario, administrador, poseedor o responsable de un espacio 100% libre de humo de tabaco a los que hace referencia esta Ley, que permita fumar tabaco en los mismos.
+Servirá de base para el cálculo de este derecho el importe del consumo que los propietarios o poseedores de predios cubran a la empresa que suministre la energía eléctrica, la tasa aplicable será del 8% para las tarifas 01, 1 A, 1B, IC, 02, 03 y 07 y 4% para las tarifas 08, 8A, 12, y 12 A.
 
 ###### Artículo 30.
 
@@ -395,7 +389,29 @@ Cuando las personas a quienes deba notificarse no se encuentren, se les dejará 
 
 ###### Artículo 34.
 
-Si habiendo dejado citatorio, el interesado no se encuentra presente en la fecha y hora indicada, se entenderá la diligencia con quien se halle en el local cerrado o establecimiento.
+El pago de los derechos a que se refiere esta sección, debe hacerse previo a la expedición de las certificaciones y constancias y se pagará conforme a las siguientes cuotas:
+
+Concepto Cuota en Periodicidad
+
+(pesos)
+
+(NOTA: EL 24 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 42/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE NOVIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+I. COPIAS DE DOCUMENTOS EXISTENTES
+
+EN LOS ARCHIVOS DE LAS OFICINAS
+
+MUNICIPALES 50.00 POR EVENTO
+
+II. Expedición de certificados de residencia,
+
+origen, dependencia económica, de situación
+
+fiscal actual o pasada, de contribuyentes
+
+inscritos en la Tesorería Municipal, de morada
+
+conyugal 50.00 Por evento
 
 ###### Artículo 35.
 
