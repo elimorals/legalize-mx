@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-instituciones-de-asistencia-privada-del-estado-de-21571"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-12"
-last_updated: "2001-06-12"
+last_updated: "2015-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MEXICO
 
-LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MEXICO
+LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
 
 Ley publicada en la Gaceta del Gobierno, el 12 de junio de 2001.
 
@@ -47,7 +47,7 @@ DEL ESTADO DE MEXICO
 
 Esta Ley tiene por objeto regular los actos relativos a la constitución, funcionamiento, fomento y desarrollo de las instituciones de asistencia privada.
 
-###### Articulo 2.
+###### Artículo 2.
 
 Las instituciones de asistencia privada son personas morales con fines de interés público que, con bienes de propiedad particular ejecutan actos de asistencia social sin designar individualmente a los beneficiarios y sin propósito de lucro.
 
@@ -151,7 +151,9 @@ c) Para personas con discapacidad;
 
 d) Para ancianos;
 
-e) Para niños y adolescentes;
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+e) Para niñas, niños y adolescentes.
 
 f) Para el desarrollo social.
 
@@ -711,7 +713,7 @@ Las Instituciones, previa autorización de la Junta y con arreglo a las disposic
 
 Cuando los fundadores así como los asociados o patronatos estimen necesario cambiar, ampliar o disminuir el objeto, radio de operación, o modificar las bases generales de administración de la institución que representan, lo someterán por escrito a la consideración de la Junta.
 
-###### Articulo 86.
+###### Artículo 86.
 
 La Junta resolverá lo que corresponda, conforme a las disposiciones de esta Ley, quedando a cargo de los patronatos la obligación de protocolizar los nuevos estatutos o reformas.
 
@@ -811,7 +813,7 @@ La Junta establecerá las reglas para la liquidación de las Instituciones.
 
 La Junta resolverá sobre los actos que puedan practicarse durante la liquidación y tomará las medidas que estime oportunas en relación con las personas beneficiadas por la institución.
 
-###### Articulo 103.
+###### Artículo 103.
 
 Los liquidadores serán pagados con fondos de la institución extinguida y sus honorarios serán fijados por la Junta, tomando en cuenta las circunstancias y el monto del remanente.
 
@@ -988,3 +990,19 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 6 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El Ejecutivo Estatal y los ayuntamientos, en sus respectivos ámbitos de competencia, proveerán lo conducente para el cumplimiento del presente Decreto.
+
+CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamentarias correspondientes en un plazo que no deberá exceder de ciento ochenta días hábiles a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
