@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-asistencia-social-del-estado-de-mexico-y-municipios-7653
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-07"
-last_updated: "2014-11-27"
+last_updated: "2015-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
 
 Ley publicada en la Sección Tercera a la Gaceta del Gobierno del Estado de México, el martes 7 de septiembre de 2010.
 
@@ -99,11 +99,15 @@ III. Los SMDIF;
 
 IV. Las personas físicas o jurídicas colectivas que realicen actividades, acciones o presten servicios de asistencia social en el territorio del Estado; y
 
-V. Los beneficiarios de los programas, acciones y servicios de asistencia social, que serán preferentemente, los individuos y familias que por sus condiciones físicas, mentales, jurídicas o socioeconómicas, requieran de servicios especializados para su protección y el restablecimiento de las circunstancias de vulnerabilidad que le impiden su pleno desarrollo.
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+V. Los beneficiarios de los programas, acciones y servicios de asistencia social, que serán preferentemente, niñas, niños y adolescentes considerando su interés superior, así como los individuos y familias que por sus condiciones físicas, mentales, jurídicas o socioeconómicas, requieran de servicios especializados para su protección y el restablecimiento de las circunstancias de vulnerabilidad que le impiden su pleno desarrollo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 7.
 
-Se consideran beneficiarios de los programas, acciones y servicios de asistencia social, preferentemente:
+Se consideran beneficiarios de los programas, acciones y servicios de asistencia social, de manera prioritaria:
 
 I. Todas las niñas, niños y adolescentes, en especial aquellos que se encuentren en situación de riesgo o afectados por:
 
@@ -111,9 +115,13 @@ a) Desnutrición;
 
 b) Deficiencias en su desarrollo físico o mental, o cuando éste sea afectado por condiciones familiares adversas;
 
-c) Maltrato o abuso;
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
-d) Abandono, ausencia o irresponsabilidad de progenitores en el cumplimiento y garantía de sus derechos;
+c) Maltrato, abuso o violencia.
+
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+d) Abandono, ausencia o irresponsabilidad de progenitores, de tutores, de quienes tengan la guarda y cuidado, en el cumplimiento y garantía de sus derechos.
 
 e) Ser víctimas de cualquier tipo de explotación;
 
@@ -127,9 +135,17 @@ i) Infractores y víctimas del delito;
 
 j) Ser hijos de padres que padezcan enfermedades terminales o en condiciones de extrema pobreza;
 
-k) Ser migrantes y repatriados no acompañados; y
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
-I) Ser víctimas de conflictos armados y de persecución étnica o religiosa.
+k) Ser migrantes y repatriados no acompañados o acompañados.
+
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+l) Ser víctimas de conflictos armados, de persecución o de discriminación.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+m) Ser padres adolescentes.
 
 II. Las mujeres:
 
@@ -143,33 +159,45 @@ III. Indígenas en situación de vulnerabilidad;
 
 IV. Adultos mayores en estado de vulnerabilidad;
 
-V. Las personas con discapacidad;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+V. Las personas con discapacidad en estado de vulnerabilidad.
 
 VI. Dependientes de personas privadas de su libertad, enfermos terminales o que padezcan algún tipo de adicción;
 
-VII. Víctimas de la comisión de delitos;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+VII. Víctimas de la comisión de delitos en estado de vulnerabilidad.
 
 VIII. Indigentes;
 
-IX. Alcohólicos y fármaco dependientes;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-X. Coadyuvar en asistencia social a las personas afectadas por desastres naturales; y
+IX. Alcohólicos y fármaco dependientes en estado de vulnerabilidad.
+
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+X. Las personas afectadas por desastres naturales en zonas de alta y muy alta marginación, en coaduvancia (sic).
 
 XI. Los demás sujetos considerados en otras disposiciones jurídicas aplicables.
 
 ### CAPÍTULO TERCERO. De los Programas, Acciones y Servicios de Asistencia Social
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 8.
 
-La implementación de programas, acciones y prestación de servicios de asistencia social se realizará por las dependencias y organismos auxiliares estatales y municipales, en la esfera de sus respectivas competencias y atribuciones; por el DIFEM y por los SMDIF, a través de mecanismos de concurrencia y coordinación.
+La implementación de programas, acciones y prestación de servicios de asistencia social se realizará por las dependencias y organismos auxiliares estatales y municipales, en la esfera de sus respectivas competencias y atribuciones, por el DIFEM y por los SMDIF, a través de mecanismos transversales de concurrencia y coordinación, con instituciones de índole social y privado.
 
 Las personas físicas y jurídicas colectivas que tengan entre sus objetivos la realización de acciones y prestación de servicios de asistencia social podrán vincularse al Sistema Estatal, mediante mecanismos de colaboración o concertación, en términos de las disposiciones de esta Ley.
 
 Los servicios que se presten en esta materia, deberán cumplir con lo estipulado en las Normas Oficiales Mexicanas y Normas Técnicas que resulten aplicables.
 
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 9.
 
-Los programas, acciones y servicios de asistencia social que se diseñen, implementen y ejecuten en los términos de esta Ley, se vincularán en lo conducente, al Sistema Estatal de Salud y al Sistema Estatal de Desarrollo Social, de conformidad con las disposiciones aplicables.
+Los programas, acciones y servicios de asistencia social que se diseñen, implementen y ejecuten en los términos de esta Ley, se vincularán en lo conducente, con el Sistema Estatal de Salud, con el Sistema Estatal de Desarrollo Social y con el Sistema de Protección de Niñas, Niños y Adolescentes del Estado de México, de conformidad con las disposiciones aplicables.
 
 ###### Artículo 10.
 
@@ -179,7 +207,9 @@ I. La atención a personas que por sus carencias socioeconómicas o discapacidad
 
 II. La atención en establecimientos especializados a niñas, niños, adolescentes y adultos mayores en estado de abandono o vulnerabilidad;
 
-III. El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+III. El ejercicio de la tutela de niñas, niños y adolescentes, en los términos de las disposiciones legales aplicables.
 
 IV. La prestación de servicios de asistencia jurídica y de orientación social, especialmente a niñas, niños y adolescentes, mujeres, adultos mayores, discapacitados y en general, a personas en estado de vulnerabilidad;
 
@@ -187,7 +217,9 @@ V. La orientación nutricional y la alimentación complementaria a todos los ben
 
 VI. El fomento de acciones de paternidad responsable, que propicien la preservación de los derechos de las niñas, niños y adolescentes, a la satisfacción de sus necesidades y a la salud física y mental, atendiendo al interés superior de éstos;
 
-VII. Coadyuvar en la prevención, protección y atención a niñas, niños y adolescentes migrantes y que sufran de explotación sexual, comercial infantil en cualquiera de sus variantes y modalidades;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+VII. Coadyuvar en la prevención, protección y atención a niñas, niños y adolescentes migrantes que sean víctimas del delito de trata de personas.
 
 VIII. La promoción y colaboración en acciones de prevención y atención para erradicar la violencia familiar;
 
@@ -253,7 +285,9 @@ V. Brindar asesoría en materia de asistencia social a las Instituciones que pre
 
 VI. Difundir ampliamente entre la población, información sobre acciones de prevención y atención, académicas, de opinión y consulta relacionada con la asistencia social;
 
-VII. Coadyuvar con el Sistema Estatal de Salud en la supervisión de las instituciones sociales y privadas que realicen actividades de asistencia social, para la debida observancia de la normatividad aplicable, principalmente en la operación de centros asistenciales para niñas, niños, adolescentes, adultos mayores, discapacitados, refugios para mujeres e indigentes, entre otras; y
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+VII. Coadyuvar con el Sistema Estatal de Salud en la supervisión de las instituciones sociales y privadas que realicen actividades de asistencia social, para la debida observancia de la normatividad aplicable, principalmente en la operación de centros de asistencia social para niñas, niños, adolescentes, adultos mayores, personas con discapacidad, refugios para mujeres e indigentes, entre otras.
 
 VIII. Las demás que le otorguen las disposiciones legales en la materia.
 
@@ -271,9 +305,13 @@ No quedará sectorizado, en virtud de la amplitud de sus objetivos, que se encue
 
 El DIFEM contará con las unidades administrativas mínimas requeridas para el cumplimiento de los objetivos de esta Ley, y sus funciones y atribuciones quedarán contenidas en las disposiciones reglamentarias que al efecto se expidan.
 
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 16.
 
-La protección de la infancia y la acción encaminada a la asistencia e integración de la familia, la asume el Estado por conducto del DIFEM, y los municipios a través de los SMDIF, en la esfera de su competencia.
+La asistencia social e integración de la familia, la asume el Estado por conducto del DIFEM y los municipios a través de los SMDIF, en la esfera de su competencia.
+
+La protección de los derechos de niñas, niños y adolescentes estará a cargo del DIFEM a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México y sus representaciones regionales, en coordinación con las procuradurías municipales en la esfera de sus respectivas competencias.
 
 ###### Artículo 17.
 
@@ -285,17 +323,27 @@ El DIFEM brindará el apoyo, asesoría, colaboración técnica y administrativa 
 
 El DIFEM tendrá respecto de la asistencia social, las siguientes atribuciones:
 
-I. Establecer, promover, ejecutar y difundir los programas, acciones y servicios de asistencia social, que contribuyan al desarrollo integral de la familia y del grupo familiar;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-II. Implementar acciones y servicios de protección a la mujer y a las niñas, niños y adolescentes que trabajan;
+I. Establecer, promover, ejecutar y difundir los programas, acciones y servicios de asistencia social, que contribuyan al desarrollo integral de niñas, niños y adolescentes, de la familia y del grupo familiar.
 
-III. Promover y fomentar entre los integrantes del Sistema Estatal, el establecimiento y operación de centros de asistencia social en beneficio de niñas, niños y adolescentes en estado de abandono o situación extraordinaria, de adultos mayores, mujeres víctimas de maltrato y personas con discapacidad e indigentes;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-IV. Ejercer la tutela de los menores que corresponda al Estado, en términos de esta Ley y de la legislación civil, coadyuvando con otras autoridades en acciones de protección de la integridad física, jurídica y psicoemocional;
+II. Implementar acciones y servicios de prevención, atención, protección y, en su caso, la restitución de los derechos de niñas y niños; adolescentes que trabajan, así como para padres y madres adolescentes que trabajan.
+
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+III. Promover y fomentar entre los integrantes del Sistema Estatal, el establecimiento y operación de centros de asistencia social en beneficio de niñas, niños y adolescentes en estado de abandono o situación especial, de adultos mayores, de mujeres víctimas de maltrato, de personas con discapacidad y de indigentes.
+
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+IV. Ejercer la tutela de niñas, niños y adolescentes que corresponda al Estado, en términos de esta Ley y de la legislación civil, coadyuvando con otras autoridades en acciones de protección de la integridad física, jurídica y psicoemocional.
 
 V. Establecer y operar instancias especializadas de apoyo técnico y supervisión, encaminadas a la protección y defensa de los derechos de las niñas, niños y adolescentes, que por sus circunstancias se encuentren en estado de vulnerabilidad, a través de servicios de asistencia jurídica y orientación social, además de las que le atribuyan otros ordenamientos legales;
 
-VI. Realizar los estudios en materia de psicología, trabajo social, jurídico y médico que permitan acreditar la idoneidad del adoptante o adoptantes para expedición del certificado de idoneidad, así como dar seguimiento al proceso de integración de las niñas, niños y adolescentes adoptados para verificar su adaptación al núcleo familiar;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+VI. Realizar, a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México, los estudios en materia de psicología, trabajo social, jurídico y médico que permitan acreditar la idoneidad del adoptante o adoptantes para expedición del certificado de idoneidad, así como dar seguimiento al proceso de integración de las niñas, niños y adolescentes adoptados para verificar su adaptación al núcleo familiar.
 
 VII. Coadyuvar con el Ministerio Público aportando los elementos a su alcance en la protección de la infancia y de incapaces que carezcan de familiares y en los procedimientos judiciales civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
 
@@ -401,9 +449,9 @@ XIII. Designar v (sic) remover a propuesta del Director General a los directores
 
 XIV. Fomentar y apoyar a las asociaciones o sociedades civiles y a todo tipo de entidades privadas cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias; y
 
-> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-XV. Dictar las medidas y acuerdos necesarios para la debida protección de la infancia, para la integración de la familia y para cumplir con los objetivos del DIFEM.
+XV. Dictar las medidas y acuerdos necesarios para la debida protección de los derechos de niñas, niños y adolescentes, para la integración de la familia y para cumplir con los objetivos del DIFEM.
 
 > <small>(ADICIONADA, G.G. 27 DE NOVIEMBRE DE 2014)</small>
 
@@ -481,7 +529,9 @@ XX. Informar periódicamente a la Junta de Gobierno sobre las actividades desarr
 
 XXI. Revisar los programas de trabajo de cada una de las unidades administrativas del DIFEM y de los SMDIF, para la integración del programa general del mismo.
 
-XXII. Dictar los acuerdos colectivos o individuales con los directores de las unidades administrativas y los SMDIF, para el mejor funcionamiento del DIFEM.
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XXII. Dictar los acuerdos colectivos o individuales con los titulares de las unidades administrativas y los SMDIF, para el mejor funcionamiento del DIFEM.
 
 XXIII. Suscribir mancomunadamente con la o el Director de Finanzas, Planeación y Administración los documentos de crédito a cargo del DIFEM, así como las órdenes de pago directo o bancario que acuerde la Junta de Gobierno.
 
@@ -615,15 +665,21 @@ El monto de la aportación o subsidio del Gobierno del Estado para el sostenimie
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales
 
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 39.
 
-Los SMDIF son Organismos Públicos Descentralizados, con personalidad jurídica y patrimonio propios, que tienen por objeto la promoción de las actividades y acciones relacionadas con la asistencia social y la prestación de servicios asistenciales, los cuales establecerán su domicilio social en la Cabecera Municipal correspondiente.
+Los SMDIF son organismos públicos descentralizados, con personalidad jurídica y patrimonio propios, que tienen por objeto la promoción de las actividades y acciones relacionadas con la asistencia social, la prestación de servicios asistenciales y la protección de los derechos de niñas, niños y adolescentes, los cuales establecerán su domicilio social en la cabecera municipal correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 40.
 
-Los SMDIF tendrán respecto del Sistema Estatal, las funciones y atribuciones que les otorga esta Ley, así como el Decreto de su creación; así mismo, y con base en la concurrencia y colaboración con la entidad federativa del Estado de México, y con el Sistema Nacional para el Desarrollo integral de la Familia, garantizarán la continuidad de las acciones y operación de los programas de asistencia social, para lo cual deberán observar lo siguiente:
+Los SMDIF tendrán respecto del Sistema Estatal, las funciones y atribuciones que les otorga esta Ley, así como el Decreto de su creación. Asimismo, con base en la concurrencia y colaboración con el DIFEM y con el Sistema Nacional para el Desarrollo Integral de la Familia garantizarán la continuidad de las acciones y operación de los programas de asistencia social y protección a la infancia y adolescencia. Por lo cual deberán observar lo siguiente:
 
-I. La ejecución de los programas de asistencia social, en el marco normativo emitido por el Sistema Nacional para el Desarrollo Integral de la Familia y el DIFEM, de acuerdo con los objetivos y prioridades de los Planes Estatal y Municipal de Desarrollo, de conformidad con la competencia y las atribuciones que cada organismo tenga;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+I. La ejecución de los programas de asistencia social y protección de la infancia y adolescencia, en el marco normativo emitido por el Sistema Nacional para el Desarrollo Integral de la Familia y el DIFEM, de acuerdo con los objetivos y prioridades de los planes Estatal y Municipal de Desarrollo y del Programa Estatal y Municipal de Protección de Niñas, Niños y Adolescentes, de conformidad con la competencia y las atribuciones que cada organismo tenga.
 
 II. Brindar de manera permanente, la información requerida para la alimentación del Sistema Estatal de Información de Asistencia Social;
 
@@ -633,21 +689,29 @@ IV. Administrar los establecimientos asistenciales que descentralicen en su favo
 
 V. Contribuir al logro de los objetivos señalados en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 41.
 
-Los SMDIF en materia de asistencia social, tendrán las siguientes atribuciones:
+Los SMDIF en materia de asistencia social y protección de la infancia y adolescencia tendrán las siguientes atribuciones:
 
 I. La promoción y ejecución de programas, acciones y servicios para la integración, desarrollo y mejoramiento de la familia y del grupo familiar, mediante su participación activa, consciente y organizada en acciones que se lleven a cabo en su propio beneficio;
 
-II. Difundir y ejecutar acciones para la protección de los derechos del adulto mayor, procurando su apoyo y evolución, para favorecer su reinserción al núcleo familiar y social;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+II. Difundir y ejecutar acciones para prevenir la vulneración de los derechos de niñas, niños y adolescentes, personas con discapacidad y del adulto mayor, así como para proteger y restituir tales derechos y favorecer su reinserción al núcleo familiar y social.
 
 III. Implementar y difundir acciones para prevenir la discapacidad y gestionar en coordinación con el DIFEM, su tratamiento rehabilitatorio no hospitalario en centros especializados, favoreciendo su incorporación a una vida plena y productiva;
 
 IV. Instrumentar la prestación de los servicios funerarios en las instalaciones y expendios, en coordinación con el DIFEM;
 
-V. Difundir y ejecutar acciones que favorezcan la paternidad responsable, que propicien la preservación de los derechos de las niñas, niños y adolescentes, a la satisfacción de sus necesidades y a la salud física y mental, atendiendo al interés superior de ellos;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-VI. Realizar acciones que tiendan a la prevención, protección y atención a niñas niños y adolescentes migrantes y que sufran de explotación sexual, comercial infantil en cualquiera de sus variantes y modalidades;
+V. Difundir y ejecutar acciones que favorezcan la paternidad y maternidad responsable, que propicien la preservación de los derechos de las niñas, niños y adolescentes, a la satisfacción de sus necesidades y a la salud física y mental, atendiendo al interés superior de ellos.
+
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+VI. Realizar acciones que tiendan a la prevención, protección y atención a niñas, niños y adolescentes migrantes que sean víctimas del delito de trata de personas.
 
 VII. Establecer y operar instancias y centros especializados que realicen acciones de prevención, atención y rehabilitación para erradicar la violencia familiar;
 
@@ -657,9 +721,13 @@ IX. Establecer los mecanismos necesarios para el control y flujo de información
 
 X. Establecer con autorización de la Junta de Gobierno, cuotas de recuperación en los servicios asistenciales que preste los SMDIF, previo estudio socio económico que se le practique, debiendo tomar en consideración la vulnerabilidad de los beneficiarios de esta Ley, pudiendo determinar la exención del pago;
 
-XI. Apoyar en el ejercicio de la tutela de los incapaces, que corresponda al Estado, en razón del domicilio del pupilo, la protección de niñas, niños y adolescentes e incapaces que carezcan de familiares así como asistirlos en los procedimientos judiciales civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
-XII. Coadyuvar con el Ministerio Público, aportando los elementos a su alcance en la protección de niñas, niños y adolescentes e incapaces que carezcan de familiares y en los procedimientos judiciales civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
+XI. Apoyar en el ejercicio de la tutela y protección de niñas, niños, adolescentes e incapaces, que corresponda al Estado, en razón de su domicilio, en la protección de niñas, niños y adolescentes e incapaces que carezcan de familiares, así como asistirlos en los procedimientos judiciales civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes.
+
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XII. Coadyuvar con el Ministerio Público, aportando los elementos a su alcance en la protección de niñas, niños y adolescentes e incapaces que carezcan de familiares o que requieran de medidas especiales de protección en los procedimientos judiciales civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes.
 
 XIII. Apoyar en auxilio de la autoridad judicial, a los particulares, cuando lo soliciten en los procedimientos judiciales relacionados con los juicios de divorcio, guarda y custodia, alimentos, patria potestad, estado de interdicción, tutela, curatela, realizando los estudios socioeconómicos y psicológicos que sean solicitados por la autoridad judicial y por las partes interesadas, con la limitante de la disponibilidad de la especialidad en que se requiera;
 
@@ -677,7 +745,9 @@ Con el objeto de asegurar la transparencia y continuidad de la operación de los
 
 I. El patrimonio de servicio y productivo del SMDIF, que establece esta Ley, incluyendo el libro de inventario y expedientes administrativos soporte del mismo;
 
-II. Los expedientes formados en el ejercicio de la tutela de los menores, así como la información necesaria para su ubicación; y
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+II. Los expedientes formados en el ejercicio de la tutela de niñas, niños y adolescentes, así como la información necesaria para su ubicación.
 
 III. El seguimiento de los servicios asistenciales otorgados a los beneficiarios, cuando éstos puedan implicar perjuicio a su integridad física, emocional o condición jurídica.
 
@@ -726,3 +796,17 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- La Junta de Gobierno llevara a cabo las adecuaciones al Reglamento Interior del DIFEM en un plazo que no deberá exceder de sesenta días a partir de la entrada en vigor del presente Decreto.
 
 CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 6 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El Ejecutivo Estatal y los ayuntamientos, en sus respectivos ámbitos de competencia, proveerán lo conducente para el cumplimiento del presente Decreto.
+
+CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamentarias correspondientes en un plazo que no deberá exceder de ciento ochenta días hábiles a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
