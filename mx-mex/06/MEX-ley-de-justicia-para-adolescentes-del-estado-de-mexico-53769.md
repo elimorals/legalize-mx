@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-justicia-para-adolescentes-del-estado-de-mexico-53769"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-25"
-last_updated: "2014-12-19"
+last_updated: "2015-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE NOVIEMBRE DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 19 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 25 de enero de 2007.
 
@@ -47,9 +45,11 @@ LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE MÉXICO.
 
 ### CAPÍTULO I. DEL OBJETO, SUJETOS, PRINCIPIOS, DEFINICIONES Y ÁMBITO DE APLICACIÓN
 
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 1.
 
-Esta Ley es de orden público e interés general y tiene por objeto establecer un sistema integral de justicia para adolescentes en el Estado de México, en el que se observen los principios, derechos y garantías previstos, en la Constitución Política de los Estados Unidos Mexicanos; Tratados Internacionales aplicables; Constitución Política del Estado Libre y Soberano de México, Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado de México, que se aplicará a través de los Órganos, Instancias y Procedimientos considerados en esta ley.
+Esta Ley es de orden público e interés general y tiene por objeto establecer un sistema integral de justicia para adolescentes en el Estado de México, en el que se observen los principios, derechos y garantías previstos, en la Constitución Política de los Estados Unidos Mexicanos, tratados internacionales de los que el Estado Mexicano forma parte, en la Ley General de los Derechos de Niñas, Niños y Adolescentes, Constitución Política del Estado Libre y Soberano de México, Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de México, que se aplicará a través de los órganos, instancias y procedimientos considerados en esta ley y demás disposiciones jurídicas aplicables, atendiendo el interés superior de niñas, niños y adolescentes.
 
 ###### Artículo 2.
 
@@ -57,7 +57,15 @@ Son sujetos de esta ley:
 
 I. Las personas de entre 12 años cumplidos y menos de 18 años de edad, denominados adolescentes, a quienes se atribuya o compruebe la realización de una conducta antisocial;
 
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Cuando exista la duda de si se trata de una persona mayor o menor de doce años se presumirá que es niña o niño.
+
 II. Las personas de entre 18 años cumplidos y menos de 23 años de edad, a quienes se atribuya o compruebe la realización de una conducta antisocial, cometida cuando eran adolescentes;
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Cuando exista la duda de si se trata de una persona mayor de dieciocho años de edad se presumirá que es adolescente.
 
 III. Las víctimas u ofendidos por las conductas referidas en las fracciones anteriores; y
 
@@ -66,6 +74,16 @@ IV. Por regla de exclusión, no serán sujetos del procedimiento establecido en 
 En ningún caso, un adolescente al que se le atribuya la comisión de una conducta antisocial, podrá ser juzgado por el sistema penal para adultos, ni podrá atribuírsele las consecuencias previstas en dicho sistema.
 
 Si en la comisión de conductas antisociales han intervenido adultos y adolescentes, la procuración y administración de justicia para los primeros será conforme a las disposiciones legales que le son aplicables y a los adolescentes les será aplicado el sistema de justicia establecido en esta ley, en consecuencia, las autoridades respectivas se remitirán mutuamente copias certificadas de las actuaciones de los correspondientes casos.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Artículo 2 bis.- Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, garantizarán que niñas y niños a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito se les reconozca que están exentos de responsabilidad penal y garantizarán que no serán privados de la libertad ni sujetos a procedimiento alguno, sino que serán únicamente sujetos a la asistencia social con el fin de restituirles, en su caso, en el ejercicio de sus derechos.
+
+Lo anterior, sin perjuicio de las responsabilidades civiles que correspondan a quienes ejerzan la patria potestad, tutela o guarda y custodia, conforme a las disposiciones aplicables.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Artículo 2 ter.- Siempre que se encuentre una niña, niño o adolescente en el contexto de la comisión de un delito, se notificará de inmediato a quienes ejerzan la patria potestad, tutela o guarda y custodia, así como a la Procuraduría de protección de Niñas, Niños y Adolescentes del Estado de México y las procuradurías de protección municipales.
 
 ###### Artículo 3.
 
@@ -133,7 +151,9 @@ VI. Constitución General de la República: A la Constitución Política de los 
 
 VII. Constitución Local: La Constitución Política del Estado Libre y Soberano de México;
 
-VIII. Defensor de Oficio: Defensor de Oficio Especializado en Adolescentes adscrito al Instituto de la Defensoría de Oficio;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+VIII. Defensor público: Defensor Público Especializado en Adolescentes adscrito al Instituto de la Defensoría Pública del Estado de México.
 
 IX. Dirección General: La Dirección General de Prevención y Readaptación Social;
 
@@ -150,6 +170,18 @@ XIV. Medida: A la determinación o resolución emitida por el Juez de Adolescent
 XV. Ministerio Público de Adolescentes: Agente del Ministerio Público Especializado para Adolescentes adscrito a la Procuraduría General de Justicia del Estado de México, facultado en la procuración de justicia para adolescentes;
 
 XVI. Niña o Niño: Toda persona menor de 12 años de edad;
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XVI bis. Representación coadyuvante: Al acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección de Niñas Niños y Adolescentes del Estado de México y de las procuradurías de protección municipales, sin perjuicio de la intervención que corresponda al Ministerio Público.
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XVI ter. Representación originaria: A la representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela.
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+XVI quáter. Representación en suplencia: A la representación de niñas, niños y adolescentes a cargo de la Procuraduría de protección de Niñas, Niños y Adolescentes del Estado de México y de las procuradurías de protección municipales, sin perjuicio de la intervención que corresponda al Ministerio Público.
 
 XVII. Sala Especializada: Sala Especializada en la Administración e Impartición de Justicia para Adolescentes adscrita al Tribunal Superior de Justicia del Estado de México, que conoce de los recursos interpuestos en contra de los procedimientos previstos en esta ley; y
 
@@ -169,13 +201,17 @@ II. Por las conductas antisociales cuya ejecución se inicie fuera del territori
 
 III. Por las conductas antisociales permanentes o continuadas, cuando en un momento o acto de ejecución, se realicen dentro del territorio del Estado.
 
-En los casos comprendidos en las fracciones II y III de este artículo, se aplicará esta Ley, cuando el adolescente presunto responsable se encuentre en el territorio del mismo o no se haya ejercitado en su contra otra acción por otra entidad federativa, cuyos tribunales sean competentes, por disposición análoga a las de esta Ley, para conocer de las conductas antisociales desplegadas por el menor.
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+En los casos comprendidos en las fracciones II y III de este artículo se aplicará esta Ley, cuando el adolescente presunto responsable se encuentre en el territorio del mismo o no se haya ejercitado en su contra otra acción por otra entidad federativa, cuyos tribunales sean competentes, por disposición análoga a las de esta Ley, para conocer de las conductas antisociales desplegadas por el adolescente.
 
 ###### Artículo 8.
 
 La ley aplicable es la vigente en el momento de la realización de la conducta antisocial.
 
-Si después de cometida una conducta antisocial y antes de que cause estado la resolución definitiva, entrará en vigor una o más leyes que disminuyeran el tiempo de tratamiento al que debería sujetarse al menor por la conducta antisocial cometida, se aplicará la nueva Ley en beneficio del adolescente.
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Si después de cometida una conducta antisocial y antes de que cause estado la resolución definitiva, entrara en vigor una o más leyes que disminuyeran el tiempo de tratamiento al que debería sujetarse al adolescente por la conducta antisocial cometida, se aplicará la nueva Ley en beneficio del adolescente.
 
 ###### Artículo 9.
 
@@ -207,9 +243,11 @@ Ningún adolescente podrá ser detenido o sujeto a procedimiento o encontrado co
 
 No son sujetos para efectos de la aplicación de las medidas que establece esta Ley, los menores de 12 años de edad, a quienes se les atribuya una conducta antisocial, no obstante, serán sujetos a rehabilitación y asistencia social, en instituciones públicas o privadas, bajo la tutela de sus padres o tutores, y sólo a falta de éstos quedarán bajo la tutela del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 14.
 
-La edad de los menores una vez que estén a disposición de la autoridad competente, se comprobará con el acta de nacimiento expedida por la Dirección General del Registro Civil; cuando no exista este documento se acreditará por medio del dictamen médico, que emita el médico legista, adscrito al Instituto de Servicios Periciales de la Procuraduría General de Justicia del Estado de México, mediante el examen psicofisiológico; en caso de duda se presumirá la minoría de edad, salvo prueba en contrario.
+La edad de los adolescentes una vez que estén a disposición de la autoridad competente, se comprobará con el acta de nacimiento expedida por la Dirección General del Registro Civil o por la oficina respectiva de las demás entidades federativas. Cuando no exista este documento se acreditará por medio del dictamen médico, que emita el médico legista, adscrito al Instituto de Servicios Periciales de la Procuraduría General de Justicia del Estado de México, mediante el examen psicofisiológico. En caso de duda se presumirá la minoría de edad, salvo prueba en contrario.
 
 El certificado rendido por médico legista en la investigación, sólo presumirá la minoría de edad, para los efectos de poner a disposición de la autoridad competente, pero de ninguna manera servirá para acreditar plenamente la minoría de edad en la etapa de instrucción.
 
@@ -239,9 +277,11 @@ b) Los que cooperen en forma previa o simultánea en la realización de la condu
 
 c) Los que auxilian a quienes han intervenido en la conducta antisocial, después de su consumación, por acuerdo anterior.
 
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 16.
 
-Los menores instigadores y los que ordenen son responsables de las conductas antisociales que se cometan con motivo de la instigación u orden, pero no de las demás que se ejecuten.
+Los adolescentes instigadores y los que ordenen son responsables de las conductas antisociales que se cometan con motivo de la instigación u orden, pero no de las demás que se ejecuten.
 
 ###### Artículo 17.
 
@@ -327,13 +367,17 @@ Las autoridades que divulguen la identidad de un adolescente sujeto a un procedi
 
 Las autoridades encargadas de aplicar el Sistema de Justicia para adolescentes, deberán garantizar que la información pública gubernamental incluyendo las estadísticas que elaboren, no contravenga la confidencialidad de los datos personales.
 
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Artículo 28 bis.- Las autoridades estatales y municipales garantizarán la protección de la identidad e intimidad de niñas, niños y adolescentes que estén relacionados de cualquier manera en la comisión de un delito, a fin de evitar su identificación pública. La misma protección se otorgará a adolescentes a quienes se les atribuya la realización o participación en un delito.
+
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 29.
 
-Los adolescentes tendrán el derecho a ser asistidos por un defensor en todo momento. Para el caso de no contar con un defensor particular, se les asignará la asistencia de un Defensor de Oficio. Las actuaciones practicadas sin asistencia de un defensor serán nulas.
+Los adolescentes tendrán el derecho a ser asistidos por un defensor en todo momento. Para el caso de no contar con un defensor particular se les asignará la asistencia de un Defensor Público. Las actuaciones practicadas sin asistencia de un defensor serán nulas.
 
-> <small>(ADICIONADO, G.G. 20 DE AGOSTO DE 2013)</small>
-
-Asimismo, los padres o tutores tendrán derecho de coadyuvar con la defensa y quienes imparten justicia podrán requerir su presencia en defensa de las personas adolescentes. Dicha coadyuvancia podrá ser denegada por la autoridad competente cuando existan motivos fundados para presumir que la exclusión es necesaria en defensa del adolescente.
+Asimismo, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México, las procuradurías de protección municipales y los padres o tutores tendrán derecho de coadyuvar con la defensa y quienes imparten justicia podrán requerir su presencia en defensa de los adolescentes. Dicha coadyuvancia podrá ser denegada a padres y tutores por la autoridad competente cuando existan motivos fundados para presumir que la exclusión es necesaria en defensa del adolescente.
 
 ###### Artículo 30.
 
@@ -359,7 +403,9 @@ A los adolescentes a quienes se les atribuya la comisión de una conducta antiso
 
 Los adolescentes no podrán ser sometidos a más de un procedimiento por la misma conducta antisocial, aunque se modifique la calificación legal.
 
-Cuando un menor, se encontrare en internamiento por resolución firme y aparecieran nuevas pruebas o circunstancias que hicieran evidente la inocencia del menor, a petición de éste, asistido por su defensor, o por conducto de sus padres o tutores, por escrito acompañando y ofreciendo las pruebas respectivas, podrá promover ante la Sala Especializada para Adolescentes, revisión extraordinaria; por lo que, previa vista al Ministerio Público adscrito, se reabrirá el expediente, señalando para tal efecto día y hora para una audiencia en la que se recepcionarán las probanzas admitidas; posteriormente, la Sala Especializada para Adolescentes emitirá una nueva resolución en la que analizando las nuevas pruebas en lo individual y en su conjunto, con las ya existentes, confirmará la resolución, la modificará o revocará.
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Cuando un adolescente se encontrare en internamiento por resolución firme y aparecieran nuevas pruebas o circunstancias que hicieran evidente su inocencia, a petición de este, asistido por su defensor, o por conducto de sus padres o tutores, por escrito acompañando y ofreciendo las pruebas respectivas, podrá promover ante la Sala Especializada para Adolescentes, revisión extraordinaria. Por lo que, previa vista al Ministerio Público adscrito se reabrirá el expediente, señalando para tal efecto día y hora para una audiencia en la que se recibirán las probanzas admitidas, posteriormente, la Sala Especializada para Adolescentes emitirá una nueva resolución en la que analizando las nuevas pruebas en lo individual y en su conjunto, con las ya existentes, confirmará la resolución, la modificará o revocará.
 
 ###### Artículo 36.
 
@@ -489,7 +535,13 @@ IV. La Dirección General de Prevención y Readaptación Social; y
 
 V. Juez de Ejecución y Vigilancia.
 
-El Defensor de Oficio de Adolescentes, aún cuando no es autoridad de Justicia para Adolescentes, será parte y actuará con las facultades que le otorga la Ley.
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+El Defensor Público de Adolescentes, la Procuraduría de Protección de Niñas, Niños y Adolescentes y las procuradurías de protección municipales serán parte y actuarán con las facultades que les otorga la Ley.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Para la debida determinación, coordinación de la ejecución y seguimiento de las medidas de protección integral y restitución de los derechos de niñas, niños y adolescentes, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México, en el ámbito de su competencia, deberá establecer contacto y trabajar conjuntamente con las autoridades administrativas de asistencia social, de servicios de salud, de educación, de protección social, de cultura, deporte y con todas aquellas con las que sea necesario para garantizar los derechos de niñas, niños y adolescentes.
 
 ### CAPÍTULO II. DE LOS AGENTES DEL MINISTERIO PÚBLICO ESPECIALIZADOS PARA ADOLESCENTES
 
@@ -553,15 +605,21 @@ Los Agentes de la Policía Ministerial Especializada para Adolescentes, que deba
 
 Para pertenecer al grupo de policía indicado en el párrafo anterior, se deberá cumplir con los requisitos que se señalan en la Ley Orgánica de la Procuraduría General de Justicia del Estado de México, así como no haber formado parte con anterioridad de cuerpos policíacos de acuerdo al registro nacional y estatal de seguridad pública y haber cursado y aprobado el curso de especialización.
 
-### CAPÍTULO III. DE LOS DEFENSORES DE OFICIO DE ADOLESCENTES
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE AGOSTO DE 2015)</small>
+
+### CAPÍTULO III. DE LOS DEFENSORES PÚBLICOS DE ADOLESCENTES
+
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 61.
 
-En cada agencia del Ministerio Público, Juzgado de Adolescentes o Sala Especializada en Adolescentes existirá, por lo menos, un Defensor de Oficio adscrito, quien deberá ejercer las funciones que le corresponden en términos de esta ley y la correspondiente del Instituto de la Defensoría de Oficio en cada una de las etapas del procedimiento.
+En cada agencia del Ministerio Público, Juzgado de Adolescentes o Sala Especializada en Adolescentes existirá por lo menos un Defensor Público adscrito, quien deberá ejercer las funciones que le corresponden en términos de esta ley y la correspondiente del Instituto de la Defensoría Pública en cada una de las etapas del procedimiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 62.
 
-Los Defensores de Oficio Especializados tendrán las siguientes atribuciones:
+Los defensores públicos especializados tendrán las siguientes atribuciones:
 
 I. Observar y velar por el cumplimiento de la presente ley;
 
@@ -835,13 +893,17 @@ Los Ministerios Públicos de Adolescentes podrán replicar cuantas veces quisier
 
 Si los adolescentes sujetos a esta ley, tuvieren varios defensores, no se oirá más que a uno de ellos cada vez que corresponda a la defensa, debiendo requerir el Juez, nombre del adolescente a uno de ellos para que intervenga en la diligencia. Lo mismo se hará cuando intervinieren el Ministerio Público de Adolescentes y sus coadyuvantes.
 
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 88.
 
-Las audiencias se llevarán a cabo con la concurrencia del adolescente y su defensor o defensor de oficio y de ser posible con la asistencia de sus padres o tutores, el Ministerio Público de Adolescentes y las personas que vayan a ser examinadas. En el caso de que tuvieren varios defensores, la presencia de cualquiera de ellos bastará para celebrar la audiencia.
+Las audiencias se llevarán a cabo con la concurrencia del adolescente y su defensor o Defensor Público y de ser posible con la asistencia de sus padres o tutores, el Ministerio Público de Adolescentes, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México y las personas que vayan a ser examinadas. En el caso de que tuvieren varios defensores, la presencia de cualquiera de ellos bastará para celebrar la audiencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 89.
 
-Si el defensor fuere particular y no asistiere a las audiencias o se ausentare de ellas, sin dejar sustituto, se le impondrá una medida disciplinaria y se nombrará al adolescente un Defensor de Oficio. En caso de reincidir se le aplicarán los medios de apremio a que se refiere ésta ley. Si el faltista fuere el Defensor de Oficio, se comunicará la falta al superior jerárquico inmediato, y en ese momento se sustituirá por otro, haciéndose aquél acreedor por tal motivo, a las sanciones disciplinarias y de apremio de referencia.
+Si el defensor fuere particular y no asistiere a las audiencias o se ausentare de ellas, sin dejar sustituto, se le impondrá una medida disciplinaria y se nombrará al adolescente un Defensor Público. En caso de reincidir se le aplicarán los medios de apremio a que se refiere esta Ley. Si el faltista fuere el Defensor Público se comunicará la falta al superior jerárquico inmediato, y en ese momento se sustituirá por otro, haciéndose aquel acreedor por tal motivo, a las sanciones disciplinarias y de apremio de referencia, debiendo notificar a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México.
 
 Lo anterior, será sin perjuicio del derecho que tienen los adolescentes sujetos a esta ley de nombrar para que los defienda a cualquier persona de las que se encuentren en la audiencia y que no tuviere impedimento legal.
 
@@ -1045,7 +1107,9 @@ II. Que es inocente hasta en tanto no se acredite lo contrario;
 
 III. Dará aviso de su situación a sus padres o tutores en el menor tiempo posible;
 
-IV. Que podrá designar un defensor para que lo asista jurídicamente durante el procedimiento; si no lo hace se le asignará un Defensor de Oficio;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+IV. Que podrá designar un defensor para que lo asista jurídicamente durante el procedimiento, si no lo hace se le asignará un Defensor Público.
 
 V. Que no puede ser retenido cuando su edad esté comprendida entre 12 años cumplidos y menor de 14 años de edad, independientemente de la conducta antisocial que se le atribuya;
 
@@ -1061,9 +1125,11 @@ X. Que puede inconformarse en contra de las resoluciones y determinaciones previ
 
 XI. Que se le dictará auto de sujeción a procedimiento, según sea el caso, dentro de las 72 horas siguientes al momento en que el adolescente haya sido puesto a disposición del Juez de Adolescentes, y de 144 horas cuando haya solicitado la extensión del plazo constitucional.
 
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 117.
 
-No se podrá recibir la declaración del adolescente si no está presente el defensor. Si el adolescente designare a un defensor que no se encuentre presente en el acto, los Jueces de Adolescentes, aceptarán la designación, observando, en lo conducente lo dispuesto por el artículo anterior, pero designarán al Defensor de Oficio para que lo asista en la diligencia.
+No se podrá recibir la declaración del adolescente si no está presente el defensor. Si el adolescente designare a un defensor que no se encuentre presente en el acto, los jueces de adolescentes aceptarán la designación, observando, en lo conducente lo dispuesto por el artículo anterior, pero designarán al Defensor Público para que lo asista en la diligencia, debiendo notificar a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México.
 
 ### CAPÍTULO II. DE LA DECLARACIÓN DEL ADOLESCENTE PRESUNTO RESPONSABLE
 
@@ -1085,9 +1151,11 @@ Las preguntas, para ser conducentes, deberán formularse en términos claros y p
 
 ### CAPÍTULO III. DE LA DETERMINACIÓN DE LA SITUACIÓN JURÍDICA DEL ADOLESCENTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 121.
 
-El Juez de Adolescentes emitirá en audiencia oral y ante la presencia del adolescente, su defensor o el defensor de oficio, sus padres, tutores o quien legalmente ejerza la patria potestad o custodia, la resolución sobre la existencia de los elementos que integran la conducta antisocial y la probable responsabilidad del adolescente, determinando el auto de sujeción a procedimiento o de libertad el cual deberá dictarse dentro de las 72 horas siguientes a la radicación, salvo que el adolescente o su defensor soliciten la ampliación de este término, la que no podrá exceder de 144 horas.
+El Juez de Adolescentes emitirá en audiencia oral y ante la presencia del adolescente, su defensor o el Defensor Público, sus padres, tutores o quien legalmente ejerza la patria potestad o custodia y de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México, la resolución sobre la existencia de los elementos que integran la conducta antisocial y la probable responsabilidad del adolescente, determinando el auto de sujeción a procedimiento o de libertad el cual deberá dictarse dentro de las 72 horas siguientes a la radicación, salvo que el adolescente o su defensor soliciten la ampliación de este término, la que no podrá exceder de 144 horas.
 
 Los instrumentos y objetos relacionados con la conducta antisocial, atribuida a un adolescente, así como aquellos en que existan huellas o indicios que pudieran tener relación con ésta, serán asegurados.
 
@@ -1309,9 +1377,11 @@ II. Que medie confesión del Adolescente ante el Juez competente y esté corrobo
 
 III. Que el adolescente presunto responsable manifieste su conformidad con este procedimiento.
 
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 149.
 
-Satisfechos los requisitos a que se refiere el artículo anterior, el Juez de Adolescentes en audiencia verbal, con la asistencia del adolescente, su defensor o defensor de oficio, sus padres, tutores o quienes ejerzan la patria potestad o custodia, pronunciará auto de sujeción al procedimiento abreviado; asimismo señalará fecha y hora para la celebración de una sola audiencia que también será verbal y tendrá lugar dentro de los cinco días siguientes, en la que consultará al adolescente presunto responsable y a su defensor a fin de asegurarse que aquél ha prestado su conformidad al procedimiento abreviado en forma libre y voluntaria, que entiende los términos del procedimiento y las consecuencias que éste pudiera significarle y, especialmente, que no hubiere sido objeto de coacciones ni presiones indebidas, acreditado lo anterior se escuchará la acusación que formule el Ministerio Público de Adolescentes y la contestación por parte de la defensa y el adolescente presunto responsable. Enseguida, el Juez de Adolescentes de igual manera en audiencia verbal, dictará sentencia y sólo en casos excepcionales, expresando el motivo, podrá aplazar la audiencia hasta por tres días para que las partes la escuchen.
+Satisfechos los requisitos a que se refiere el artículo anterior, el Juez de Adolescentes en audiencia verbal, con la asistencia del adolescente, su defensor o Defensor Público, sus padres, tutores o quienes ejerzan la patria potestad o custodia y la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México, pronunciará auto de sujeción al procedimiento abreviado. Asimismo señalará fecha y hora para la celebración de una sola audiencia que también será verbal y tendrá lugar dentro de los cinco días siguientes, en la que consultará al adolescente presunto responsable y a su defensor a fin de asegurarse que aquél ha prestado su conformidad al procedimiento abreviado en forma libre y voluntaria, que entiende los términos del procedimiento y las consecuencias que este pudiera significarle y, especialmente, que no hubiere sido objeto de coacciones ni presiones indebidas, acreditado lo anterior se escuchará la acusación que formule el Ministerio Público de Adolescentes y la contestación por parte de la defensa y el adolescente presunto responsable. Enseguida, el Juez de Adolescentes de igual manera en audiencia verbal dictará sentencia y solo en casos excepcionales, expresando el motivo, podrá aplazar la audiencia hasta por tres días para que las partes la escuchen.
 
 ###### Artículo 150.
 
@@ -1369,7 +1439,9 @@ Si notificada la resolución definitiva a las partes, y dentro del término conc
 
 En el recurso de apelación se examinará si en la resolución impugnada, se aplicó adecuadamente la ley, si se violaron los principios reguladores de la valoración de la prueba o si se alteraron los hechos.
 
-Esta segunda instancia se abrirá a petición de la parte afectada, que podrá formular los agravios que estime pertinentes al interponerse el recurso o bien dentro del término de cinco días hábiles, a aquel, en que la defensa haya aceptado y protestado el cargo en segunda instancia. Si el adolescente no cuenta con defensor que lo patrocine se le nombrara al de Oficio adscrito a la Sala Especializada en Adolescentes.
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
+
+Esta segunda instancia se abrirá a petición de la parte afectada, que podrá formular los agravios que estime pertinentes al interponerse el recurso o bien dentro del término de cinco días hábiles, a aquel en que la defensa haya aceptado y protestado el cargo en segunda instancia. Si el adolescente no cuenta con defensor que lo patrocine se le nombrará al público adscrito a la Sala Especializada en Adolescentes, debiendo notificar a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México.
 
 ###### Artículo 157.
 
@@ -2365,7 +2437,7 @@ El defensor y el tutor podrán proponer al juez el establecimiento especial en e
 
 ###### Artículo 298.
 
-Si de los dictámenes rendidos por los peritos especialistas, resulta que el adolescente presunto responsable está incurso en alguna de las causas de inimputabilidad señaladas en el Capítulo (sic) de esta ley, el Juez de Adolescentes procederá en los siguientes términos:
+Si de los dictámenes rendidos por los peritos especialistas, resulta que el adolescente presunto responsable está incurso en alguna de las causas de inimputabilidad señaladas en el Capítulo de esta ley, el Juez de Adolescentes procederá en los siguientes términos:
 
 I. Inmediatamente cerrará el procedimiento y continuará con el especial, quedando al recto criterio y a la prudencia del órgano jurisdiccional la forma de investigar la conducta antisocial que se le atribuye al Adolescente inimputable, la participación que en ella hubiere tenido y la de estimar la personalidad de éste, sin necesidad de que el procedimiento que se emplee sea similar al sumario u ordinario;
 
@@ -2462,3 +2534,17 @@ TERCERO.- La Secretaría de Seguridad Ciudadana y los municipios de la Entidad, 
 CUARTO.- El Titular del Ejecutivo Estatal reformará el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de México, antes de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
 
 QUINTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 6 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El Ejecutivo Estatal y los ayuntamientos, en sus respectivos ámbitos de competencia, proveerán lo conducente para el cumplimiento del presente Decreto.
+
+CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamentarias correspondientes en un plazo que no deberá exceder de ciento ochenta días hábiles a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
