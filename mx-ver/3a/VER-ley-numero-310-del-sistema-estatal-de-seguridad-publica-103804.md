@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-310-del-sistema-estatal-de-seguridad-publica-103804"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-28"
-last_updated: "2014-11-28"
+last_updated: "2015-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 310 DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 7 DE AGOSTO DE 2015.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 28 de noviembre de 2014.
 
@@ -1519,7 +1519,13 @@ I. Incurrir simultáneamente en dos o más infracciones;
 
 II. La reincidencia;
 
-III. El cometer la falta en forma colectiva. Se considerará colectiva la concertada por dos o más elementos;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2015)</small>
+
+III. El cometer la falta en forma colectiva. Se considerará colectiva la concertada o ejecutada por dos o más elementos.
+
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
+Lo anterior con independencia de que dicha conducta pudiera tipificar algún delito previsto por la legislación aplicable. En este caso se dará inmediatamente aviso a la Fiscalía correspondiente;
 
 IV. Afectar la imagen institucional con la conducta realizada;
 
@@ -1543,9 +1549,11 @@ III. Haberse originado la falta por un exceso en las atribuciones en bien del se
 
 IV. Incurrir en falta o infracción por la influencia probada de un superior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 125.
 
-Por virtud de la amonestación, el superior jerárquico y sin necesidad de procedimiento disciplinario, hará notar al elemento integrante de las instituciones policiales infractor, la acción o la omisión indebida en que incurrió en el desempeño de sus funciones, se le exhortará a que enmiende su conducta y se le apercibirá de que, si no hace esto último, se hará acreedor a una sanción mayor.
+Por virtud de la amonestación, el superior jerárquico, sin necesidad de procedimiento disciplinario, hará notar al elemento infractor, integrante de las instituciones policiales, la acción o la omisión indebida en que incurrió en el desempeño de sus funciones, se le exhortará a que enmiende su conducta y se le apercibirá de que, si no hace esto último, se hará acreedor a una sanción mayor. No obstante lo anterior, en el caso de que al desempeñar el servicio solicite o acepte compensaciones, pagos o gratificaciones diferentes a su sueldo, se procederá directamente en términos del artículo 128 de esta Ley.
 
 La amonestación se ejecutará en privado por conducto del superior jerárquico.
 
@@ -1561,9 +1569,11 @@ Durante el tiempo que dure la suspensión a que se refiere esta disposición, el
 
 Concluida la suspensión, el elemento integrante de las instituciones policiales deberá presentarse en su área o unidad de adscripción, debiendo informar por escrito al superior jerárquico su reincorporación al servicio.
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 128.
 
-La remoción es la terminación de la relación administrativa entre la institución policial y el elemento infractor, sin responsabilidad para aquélla.
+La remoción es la terminación de la relación administrativa entre la institución policial y el elemento infractor, sin responsabilidad para aquélla. Las causas de remoción se establecerán en el reglamento de régimen disciplinario correspondiente; no obstante lo anterior, esta sanción deberá proceder en el caso de que, al desempeñar el servicio, el integrante solicite o acepte compensaciones, pagos o gratificaciones diferentes a su sueldo o cuando no se oponga, rechace o denuncie cualquier acto de corrupción del que sea testigo.
 
 ###### Artículo 129.
 
@@ -1586,6 +1596,10 @@ Se impondrá arresto a los elementos por actos u omisiones que constituyan falta
 I. Sin perjuicio del servicio, que consiste en realizar sus actividades normales, ya sea dentro o fuera de las instalaciones, durante el lapso que se establezca al efecto; en el entendido de que si termina aquéllas y éste no ha fenecido, se concentrará en su unidad para concluirlo; y
 
 II. Con perjuicio del servicio, en cuyo caso el elemento integrante de las instituciones policiales desempeñará sus actividades exclusivamente dentro de las instalaciones y no se le asignará servicio alguno.
+
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
+En ningún caso se considerará falta menor en el cumplimiento de la disciplina el que, al desempeñar el servicio, el integrante solicite o acepte compensaciones, pagos o gratificaciones diferentes a su sueldo o el no oponerse, rechazar o denunciar cualquier acto de corrupción, y deberá sancionarse conforme al artículo 128.
 
 ###### Artículo 133.
 
@@ -1763,19 +1777,27 @@ De no dictarse la medida, el Órgano de Asuntos Internos solicitará al superior
 
 En los casos de vinculación a proceso, o resolución equivalente, deberá estarse a lo dispuesto por esta ley.
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 148.
 
-El titular de la institución policial podrá determinar dicha medida cautelar, en caso de posible violación o incumplimiento a las obligaciones y los deberes por parte del policía, cuando tenga conocimiento de ello por informe del superior jerárquico correspondiente o mediante queja o denuncia de particular, y remitirá sin demora al Órgano de Asuntos Internos las actuaciones y demás constancias relativas a los hechos, así como a la medida cautelar; todo lo cual deberá ser notificado al policía.
+El titular de la institución policial podrá determinar dicha medida cautelar, en caso de posible violación o incumplimiento a las obligaciones y los deberes por parte del integrante, cuando tenga conocimiento de ello por informe del superior jerárquico correspondiente o mediante queja o denuncia de particular, y remitirá sin demora al Órgano de Asuntos Internos las actuaciones y demás constancias relativas a los hechos, así como a la medida cautelar; todo lo cual deberá ser notificado al integrante. Cuando la denuncia o queja del denunciante o quejoso se acompañe de prueba idónea necesaria y proporcional, el titular de la institución policial podrá determinar como medida cautelar, atendiendo a los parámetros de racionalidad indicados, la suspensión provisional de sus funciones, fundando y motivando su decisión.
 
 ###### Artículo 149.
 
 La medida cautelar a que se refiere el presente artículo en ningún caso podrá exceder de cuarenta y cinco días hábiles contados a partir del momento en que le sea notificada al elemento, transcurridos los cuales sin que se haya presentado la solicitud de inicio del procedimiento, aquél se reincorporará plenamente al servicio, al cargo o la comisión, restituyendo también el pago de la remuneración diaria ordinaria, incluso los salarios que durante la medida no se hayan devengado, sin perjuicio de que el Órgano de Asuntos Internos prosiga la investigación.
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 150.
 
-Derivado de la queja y de la investigación que resulte, la Comisión de Honor y Justicia puede determinar que no hay elementos suficientes para iniciar.
+Derivado de la queja y de la investigación que resulte, la Comisión de Honor y Justicia puede determinar que no hay elementos suficientes para iniciar el procedimiento.
 
-Dentro de los cinco días hábiles siguientes a que se reciba la solicitud, el Presidente de la Comisión determinará si existen elementos para iniciar el procedimiento; en caso contrario, devolverá el expediente al Órgano de Asuntos Internos y le adjuntará la resolución de no procedencia correspondiente.
+En el caso de que se acuse al integrante de haber solicitado o aceptado compensaciones, pagos o gratificaciones diferentes a su sueldo, deberá acompañarse siempre la denuncia privada o queja, privilegiando siempre los datos personales del denunciante o quejoso en términos de la legislación aplicable o, en su caso, el parte de novedades en donde se narre lo conducente a la conducta señalada.
+
+Sin los requisitos mencionados, se tendrán por no suficientes los elementos para el inicio del procedimiento sancionador.
+
+Dentro de los cinco días hábiles siguientes a que se reciba la solicitud, el Presidente de la Comisión determinará si existen elementos para iniciar el procedimiento y en todo caso solicitará las medidas cautelares correspondientes; en caso contrario, devolverá el expediente al Órgano de Asuntos Internos y le adjuntará la resolución de no procedencia correspondiente, notificándole al servidor público involucrado, a su superior jerárquico y al quejoso.
 
 ###### Artículo 151.
 
@@ -2844,3 +2866,15 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 7 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se otorga un término de noventa días al Ejecutivo del Estado para la adecuación de sus reglamentos y demás disposiciones conducentes.
+
+TERCERO. Se derogan todas las disposiciones que se contrapongan al presente Decreto.
+
+CUARTO. El Secretario de Seguridad Pública del Estado, en términos de la normativa aplicable, presentará un reporte trimestral al Ejecutivo del Estado, sobre el estado que guarden los procedimientos de quejas ciudadanas y denuncias instauradas ante la Comisión de Honor y Justicia a que hace referencia la Ley del Sistema Estatal de Seguridad Pública.
