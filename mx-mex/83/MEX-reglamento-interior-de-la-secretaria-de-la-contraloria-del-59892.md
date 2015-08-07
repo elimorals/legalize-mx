@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-la-contraloria-del-5989
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-12"
-last_updated: "2015-06-05"
+last_updated: "2015-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE AGOSTO DE 2015 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE JUNIO DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 7 DE AGOSTO DE 2015.</small>
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno, el martes 12 de febrero de 2008.
 
@@ -455,11 +455,11 @@ XI. Las demás que le confieren otras disposiciones legales y aquellas que le en
 
 #### SECCIÓN VII. DE LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE RESPONSABILIDADES
 
-> <small>(REFORMADO, G.G. 5 DE JUNIO DE 2015)</small>
+(REFORMADO, G.G. 5 DE JUNIO DE 2015) (F. DE E., G.G. 7 DE AGOSTO DE 2015)
 
 ###### Artículo 20.
 
-La Dirección General de Responsabilidades estará a cargo de un Director General, auxiliado en el ejercicio de sus atribuciones por los directores de Responsabilidades Administrativas "A", de Responsabilidades Administrativas "B", de lo Contencioso e Inconformidades, y de la Unidad Especializada de Conflictos de Intereses, Manifestación de Bienes y Sanciones, por los Jefes de Departamento de Procedimientos Administrativos "A", de Quejas y Denuncias, de Procedimientos Administrativos "B", de lo Contencioso, de Inconformidades, de Recepción y Análisis de Manifestación de Bienes, Declaración de Intereses y de Resguardo y Registro de Procedimientos y Sanciones, así como de los demás servidores públicos que se requieran para satisfacer las necesidades del servicio.
+La Dirección General de Responsabilidades estará a cargo de un Director General, auxiliado en el ejercicio de sus atribuciones por los directores de Responsabilidades Administrativas "A", de Responsabilidades Administrativas "B", de lo Contencioso e Inconformidades, y de la Dirección de Conflictos de Intereses, Manifestaciones de Bienes y Sanciones, por los Jefes de Departamento de Procedimientos Administrativos "A", de Quejas y Denuncias, de Procedimientos Administrativos "B", de lo Contencioso, de Inconformidades, de Recepción y Análisis de Manifestación de Bienes, Declaración de Intereses y de Resguardo y Registro de Procedimientos y Sanciones, así como de los demás servidores públicos que se requieran para satisfacer las necesidades del servicio.
 
 ###### Artículo 21.
 
