@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-36-de-responsabilidades-de-los-servidores-9079"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-09"
-last_updated: "2006-08-10"
+last_updated: "2015-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 36 DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LLAVE
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 547 DE REFORMA CONSTITUCIONAL PUBLICADO EN LA G.O. DE 18 DE MARZO DE 2003, EN TODAS LAS LEYES, DECRETOS,. SE AÑADIRA LA EXPRESION ".ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".</small>
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NUMERO 547 DE REFORMA CONSTITUCIONAL PUBLICADO EN LA G.O. DE 18 DE MARZO DE 2003, EN TODAS LAS LEYES, DECRETOS, SE AÑADIRÁ LA EXPRESIÓN "...ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE AGOSTO DE 2015.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 9 de febrero de 1984.
 
@@ -39,7 +39,7 @@ LEY:
 
 LEY NUMERO 36
 
-> <small>(REFORMADA SU DENOMINACION POR ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMA CONSTITUCIONAL, G.O. DE 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMA CONSTITUCIONAL, G.O. DE 18 DE MARZO DE 2003)</small>
 
 DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
@@ -165,37 +165,37 @@ PROCEDIMIENTO EN EL JUICIO POLITICO.
 
 ###### ARTICULO 17.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 18.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 19.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 20.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 21.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 22.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 23.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 24.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO III
 
@@ -203,25 +203,25 @@ PROCEDIMIENTO PARA LA DECLARACION DE PROCEDENCIA.
 
 ###### ARTICULO 25.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+((DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 26.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 27.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 28.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 29.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO IV
 
@@ -229,67 +229,67 @@ DISPOSICIONES COMUNES PARA LOS CAPITULOS II Y III DEL TITULO SEGUNDO.
 
 ###### ARTICULO 30.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 31.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 32.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 33.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 34.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 35.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 36.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 37.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 38.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 39.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 40.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 41.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 42.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 43.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 44.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ###### ARTICULO 45.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY NUMERO 566 DE JUICIO POLITICO Y DECLARACION DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 566 DE JUICIO POLÍTICO Y DECLARACIÓN DE PROCEDENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 10 DE AGOSTO DE 2006)
 
 ## TITULO TERCERO
 
@@ -367,7 +367,7 @@ En las dependencias y entidades de la Administración Pública Estatal y Paraest
 
 La Contraloría General del Estado estará facultada para dictar reglas de control interno, prevención y procedimientos para que las quejas y denuncias del público sean atendidas y resueltas con eficiencia, estará facultada para designar a los responsables a que se refiere el párrafo anterior, como Contralores Internos.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE MAYO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 50.
 
@@ -403,7 +403,21 @@ V.- Sanción económica, cuando se haya causado un daño patrimonial u obtenido 
 
 VI.- Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
 
-Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños y perjuicios, será de seis meses a tres años si el monto de aquéllos no excede de cien veces el salario mínimo mensual vigente en la zona económica donde preste sus servicios el servidor público y de tres a diez años si excede de dicho límite.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2015)</small>
+
+Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro indebido o una afectación patrimonial, aplicará lo siguiente:
+
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
+a) Si el monto del lucro indebido o afectación patrimonial fuere inferior a cien veces el salario mínimo diario general vigente en la zona económica donde preste sus servicios el servidor público, la sanción por inhabilitación será de seis meses a tres años;
+
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
+b) Si el monto del lucro indebido o afectación patrimonial fuere superior a cien veces pero inferior a mil veces el salario mínimo diario general vigente en la zona económica donde preste sus servicios el servidor público, la sanción por inhabilitación será de cuatro años a seis años; y
+
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
+c) Si el monto del lucro indebido o afectación patrimonial excediere los salarios mínimos referidos en la presente fracción, la sanción será la inhabilitación hasta por diez años en el servicio público.
 
 ###### ARTICULO 54.
 
@@ -423,9 +437,11 @@ VI.- La reincidencia en el incumplimiento de sus obligaciones; y
 
 VII.- El monto del beneficio, daño o perjuicio económicos derivados del incumplimiento de obligaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 55.
 
-En caso de aplicación de sanciones económicas por incumplimiento de las obligaciones establecidas en el artículo 46, se aplicarán dos tantos del lucro obtenido y de los daños y perjuicios causados.
+En caso de aplicación de sanciones económicas por incumplimiento de las obligaciones establecidas en el artículo 46, se aplicarán tres tantos del lucro obtenido, o de la afectación patrimonial.
 
 Se otorgará un plazo máximo de tres años, para que el servidor público pague la sanción pero los pagos que se convengan, en ningún caso, lo dejarán con una percepción inferior al salario mínimo que corresponda.
 
@@ -461,11 +477,13 @@ Los Directores o sus equivalentes en la administración pública paraestatal, de
 
 La Contraloría General aplicará las sanciones correspondientes a los responsables y a los Contralores Internos de las dependencias, cuando éstos incurran en actos u omisiones que impliquen responsabilidad administrativa.
 
-> <small>(REFORMADO, G.O. 29 DE MAYO DE 1990)</small>
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 59.
 
-Incurrirán en responsabilidad administrativa, los titulares de las dependencias o entidades que se abstengan injustificadamente de sancionar a los infractores de esta Ley.
+Es una prerrogativa de toda persona afectada en su esfera jurídica, por la posible conducta ilícita de algún servidor público, presentar la queja o denuncia correspondiente, ante la instancia competente, para deslindar las responsabilidades administrativas o penales que procedan.
+
+Incurrirán en responsabilidad administrativa, los titulares de las dependencias o entidades, así como aquellos que teniendo obligación en las dependencias o entidades omitan injustificadamente sancionar a los infractores de esta Ley. En igual responsabilidad incurrirán los subalternos que conociendo la conducta ilícita del infractor no la comuniquen a su superior jerárquico y a la contraloría en el ámbito de su competencia.
 
 > <small>(REFORMADO, G.O. 29 DE MAYO DE 1990)</small>
 
@@ -479,19 +497,19 @@ El superior jerárquico de cada dependencia o entidad, será competente para imp
 
 Si los superiores jerárquicos tuvieran conocimiento de hechos que impliquen responsabilidad penal, darán vista de ellos a la Contraloría General y a la autoridad competente para conocer del ilícito.
 
-> <small>(REFORMADO, G.O. 29 DE MAYO DE 1990)</small>
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 62.
 
-Si de las investigaciones y auditorías que se realicen en las dependencias o entidades, se encontrasen indicios de responsabilidad administrativa de los servidores públicos, se informará esta circunstancia al superior jerárquico y a la Contraloría General del Estado, para que se proceda en términos de Ley.
+Si, de las investigaciones y auditorías que se realicen en las dependencias o entidades, se encontrasen indicios de responsabilidad administrativa de los servidores públicos, se informará de esta circunstancia al superior jerárquico, a la Contraloría General del Estado y al área jurídica de la dependencia o entidad para fincar las responsabilidades administrativas, laborales o penales que procedan en términos de la presente Ley y las demás disposiciones aplicables.
 
-> <small>(REFORMADO, G.O. 29 DE MAYO DE 1990)</small>
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 63.
 
-El Contralor General y los titulares de las dependencias, en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estimen pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad, ni constituyan delito cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cien veces el salario mínimo diario vigente en la zona económica donde se cometa.
+El Contralor General, los titulares de las dependencias y los servidores públicos facultados en términos de la presente ley y demás disposiciones aplicables no podrán abstenerse en ningún caso de sancionar a aquel que infrinja este ordenamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE MAYO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 64.
 
@@ -511,7 +529,7 @@ II.- Al concluir la audiencia o dentro de los tres días hábiles siguientes, la
 
 III.- Si en la audiencia, la Contraloría General encontrara que no cuenta con elementos suficientes para resolver o advierta elementos que impliquen otra responsabilidad administrativa a cargo del presunto responsable o de otras personas, podrá disponer la práctica de investigaciones y citar para otra u otras audiencias; y
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE MAYO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE MAYO DE 1990)</small>
 
 IV.- En cualquier momento, previa o posteriormente al citatorio al que se refiere la fracción I del presente artículo, la Contraloría General podrá determinar la suspensión temporal de los presuntos responsables de sus cargos, empleos o comisiones, si a su juicio así conviene para la conducción o continuación de las investigaciones. La suspensión temporal no prejuzga sobre la responsabilidad que se impute. La determinación de la Contraloría hará constar expresamente esta salvedad.
 
@@ -601,7 +619,7 @@ Las sanciones económicas que se impongan constituirán créditos fiscales a fav
 
 Si el servidor público presunto responsable confesare su responsabilidad por el incumplimiento de las obligaciones a que hace referencia la presente Ley, se procederá de inmediato a dictar resolución, a no ser que quien conoce del procedimiento disponga la recepción de pruebas para acreditar la veracidad de la confesión o el monto de los daños y perjuicios causados. En caso de que se acepte la plena validez probatoria de la confesión, se impondrá al interesado dos tercios de la sanción aplicable, si es de naturaleza económica, pero en lo que respecta a indemnización, ésta en todo caso deberá ser suficiente para cubrir los daños y perjuicios causados, y siempre deberá restituirse cualquier bien o producto que se hubiere percibido con motivo de la infracción. Quedará a juicio de quien resuelve disponer o no la suspensión, separación o inhabilitación.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE MAYO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 76.
 
@@ -631,7 +649,7 @@ REGISTRO PATRIMONIAL DE LOS SERVIDORES PUBLICOS.
 
 La Contraloría General del Estado, llevará el registro de la situación patrimonial de los servidores públicos de conformidad con esta Ley y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE MAYO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 79.
 
@@ -773,7 +791,7 @@ Por tanto mando se imprima, promulgue, circule y se le dé el debido cumplimient
 
 Xalapa-Enríquez, Ver., a 7 de febrero de 1984.- Lic. AGUSTIN ACOSTA LAGUNES.- Rúbrica.- El Secretario de Gobierno, Lic. IGNACIO MORALES LECHUGA.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 24 DE AGOSTO DE 1985.
 
@@ -836,3 +854,13 @@ Primero. Esta ley entrará en vigor a los diez días de su publicación en la Ga
 Segundo. Se deroga el Título Segundo Procedimientos ante la Legislatura y el Tribunal Superior de Justicia del Estado en Materia de Juicio Político y Declaración de Procedencia, así como sus artículos del 5 al 45, inclusive, de la Ley de Responsabilidades de los Servidores Públicos del estado de Veracruz de Ignacio de la Llave, publicada el nueve de febrero de mil novecientos ochenta y cuatro.
 
 Tercero. Los procedimientos de Juicio Político o Declaración de Procedencia, que se encuentren substanciándose al iniciar la vigencia de esta ley, serán resueltos conforme a las disposiciones que les dieron origen, sin perjuicio de la aplicación retroactiva en beneficio del servidor público inculpado.
+
+G.O. 7 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se otorga un término de noventa días al Ejecutivo del Estado para la adecuación de sus reglamentos y demás disposiciones conducentes.
+
+TERCERO. Se derogan todas las disposiciones que se contrapongan al presente Decreto.
+
+CUARTO. El Secretario de Seguridad Pública del Estado, en términos de la normativa aplicable, presentará un reporte trimestral al Ejecutivo del Estado, sobre el estado que guarden los procedimientos de quejas ciudadanas y denuncias instauradas ante la Comisión de Honor y Justicia a que hace referencia la Ley del Sistema Estatal de Seguridad Pública.
