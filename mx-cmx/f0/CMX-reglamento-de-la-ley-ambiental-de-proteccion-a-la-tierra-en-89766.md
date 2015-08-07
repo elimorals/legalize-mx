@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-ambiental-de-proteccion-a-la-tierra-en-897
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-19"
-last_updated: "2012-10-19"
+last_updated: "2015-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89766&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2012-10-16"
 ---
 # REGLAMENTO DE LA LEY AMBIENTAL DE PROTECCION A LA TIERRA EN EL DISTRITO FEDERAL EN MATERIA DE VERIFICACION VEHICULAR - ANTES REGLAMENTO DE LA LEY AMBIENTAL DEL DISTRITO FEDERAL EN MATERIA DE VERIFICACION VEHICULAR -
 
-REGLAMENTO DE LA LEY AMBIENTAL DEL DISTRITO FEDERAL EN MATERIA DE VERIFICACIÓN VEHICULAR
+REGLAMENTO DE LA LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL, EN MATERIA DE VERIFICACIÓN VEHICULAR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE AGOSTO DE 2015.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 19 de octubre de 2012.
 
@@ -30,37 +30,75 @@ Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 19 de
 
 MARCELO LUIS EBRARD CASAUBON, Jefe de Gobierno del Distrito Federal, con fundamento en los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 8º, fracción II, 67, fracción II, y 90 del Estatuto de Gobierno del Distrito Federal; 2º, 3º, 5º, 12, 14 y 15, fracción IV y 26 de la Ley Orgánica de la Administración Pública; y 6 fracción I, 8 fracción XI y 140 de la Ley Ambiental del Distrito Federal, he tenido a bien expedir el siguiente:
 
-REGLAMENTO DE LA LEY AMBIENTAL DEL DISTRITO FEDERAL EN MATERIA DE VERIFICACIÓN VEHICULAR
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 7 DE AGOSTO DE 2015)</small>
+
+REGLAMENTO DE LA LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL, EN MATERIA DE VERIFICACIÓN VEHICULAR
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 1.
 
-El presente ordenamiento es de observancia general, orden público e interés social en el territorio del Distrito Federal y tiene por objeto reglamentar la Ley Ambiental del Distrito Federal en materia de verificación vehicular.
+El presente ordenamiento es de observancia general, orden público e interés social en el territorio del Distrito Federal y tiene por objeto reglamentar la Ley Ambiental de Protección a la Tierra en el Distrito Federal, en materia de verificación vehicular.
 
 Asimismo; es de orden público e interés social en el Distrito Federal asegurar una calidad del aire satisfactoria para la salud y bienestar de la población, así como mantener el equilibrio ecológico, por lo que serán igualmente de orden público e interés social, la verificación vehicular y el respeto a las restricciones a la circulación de los vehículos automotores para reducir y controlar las emisiones de contaminantes a la atmósfera conforme a lo dispuesto en este ordenamiento.
 
 Las disposiciones de este Reglamento referentes a la verificación vehicular obligatoria serán aplicables a las fuentes móviles matriculadas en el Distrito Federal, así como a la verificación vehicular voluntaria de las matriculadas en otras Entidades Federativas o en el extranjero; así mismo, lo relativo al control de emisiones contaminantes a la atmósfera aplica a todos los vehículos automotores que circulen en dicha Entidad Federativa.
 
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
+###### Artículo 1 Bis.
+
+Se aplicaran de manera supletoria las disposiciones contenidas en otras leyes, reglamentos, normas, circulares, manuales y demás instrumentos en materia de verificación vehicular en el Distrito Federal, en lo no previsto por el presente Reglamento.
+
 ###### Artículo 2.
 
 La aplicación de este Reglamento compete a la Secretaría del Medio Ambiente del Gobierno del Distrito Federal, sin perjuicio de las atribuciones que conforme a las disposiciones legales y reglamentarias aplicables correspondan a otras autoridades.
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 3.
 
-Para los efectos del presente Reglamento, se estará a las definiciones previstas en la Ley Ambiental del Distrito Federal y a las siguientes:
+Para los efectos del presente Reglamento, se estará a las definiciones previstas en la Ley Ambiental de Protección a la Tierra en el Distrito Federal y a las siguientes:
 
-I. Línea de verificación vehicular: superficie de un Centro de Verificación destinada a la medición de emisiones de gases y/u opacidad vehiculares, la cual cuenta con un equipo de verificación de emisiones vehiculares y demás infraestructura necesaria para la medición de dichos contaminantes;
+I. Acreditación de personal: Proceso mediante el cual el personal de los Centros de Verificación es evaluado por la Secretaría mediante un examen de conocimientos conforme al puesto de que se trate, para que en su caso, ésta expida la constancia y/o credencial de acreditación correspondiente.
 
-II. Programa Hoy No Circula: nombre común que se le da al Acuerdo que establece las medidas para limitar la circulación de los vehículos automotores en las vialidades del Distrito Federal para controlar y reducir la contaminación atmosférica y contingencias ambientales;
+II. Centro de Verificación: También conocido como Verificentro, es el establecimiento autorizado por la Secretaría en el Distrito Federal, para llevar a cabo la medición de emisiones contaminantes provenientes de los vehículos automotores en circulación, con el equipo y la tecnología autorizada por dicha Secretaría, bajo la supervisión, vigilancia e inspección de la misma, así como las autoridades competentes en la materia.
 
-III. Reglamento: Reglamento de la Ley Ambiental del Distrito Federal en Materia de Verificación Vehicular; y
+III. CIVAR: Centro de Inspección y Vigilancia Ambiental Remota, mediante el cual la Secretaría monitorea, inspecciona y vigila las actividades de los Centros de Verificación que operan en la Ciudad de México.
 
-IV. Salario Mínimo: Salario Mínimo General Vigente en el Distrito Federal.
+IV. Línea de Verificación Vehicular: Superficie de un Centro de Verificación destinada a la medición de emisiones de gases y/u opacidad vehiculares, la cual cuenta con un equipo de verificación de emisiones vehiculares y demás infraestructura necesaria para la medición de dichos contaminantes;
+
+V. Manual de Operación: Manual para la Operación y Funcionamiento de los Sistemas y Centros de Verificación en el Distrito Federal expedido por la Secretaría, en el cual se establecen los lineamientos para determinar las características y especificaciones que deben tener los equipos, instrumentos, instalaciones y demás elementos que sean necesarios para la adecuada operación y funcionamiento de los equipos y sistemas de verificación vehicular de un Centro de Verificación, los cuales deberán observarse por los titulares y el personal de los mismos, empresas proveedoras de equipos, de servicio de mantenimiento de equipos, de servicio de calibración y sistemas de verificación de emisiones vehiculares, así como el personal respectivo; el cual contendrá por lo menos: (I) las características y especificaciones que deben tener los equipos, instrumentos e instalaciones y demás elementos necesarios para la operación y funcionamiento de los equipos y sistemas de verificación vehicular de un Centro de Verificación; (II) el Sistema estadístico de Microanálisis, y (III) los estándares mínimos que debe cumplir un Centro de Verificación para operar conforme a lo previsto por este Reglamento así como las disposiciones aplicables en la materia.
+
+VI. Programa de Contingencias Ambientales: Programa para Contingencias Ambientales Atmosféricas en el Distrito Federal vigente que para tal efecto expida y publique la Secretaría en la Gaceta Oficial del Distrito Federal.
+
+VII. Programa de Verificación: Programa de Verificación Vehicular Obligatoria vigente que para tal efecto expida y publique la Secretaría en la Gaceta Oficial del Distrito Federal.
+
+VIII. Programa Hoy No Circula: Programa Hoy No Circula en el Distrito Federal vigente publicado en la Gaceta Oficial del Distrito Federal.
+
+IX. Reglamento: Reglamento de la Ley Ambiental de Protección a la Tierra en el Distrito Federal, en Materia de Verificación Vehicular.
+
+X. Ratificación: Visto bueno que los titulares de una autorización para el establecimiento y operación de un Centro de verificación deberán tramitar y obtener de la Secretaría de manera anual, para continuar operando un Centro de Verificación durante el término de su vigencia.
+
+XI. Revalidación: Renovación de la vigencia de una autorización para el establecimiento y operación de un Centro de Verificación Vehicular que deberá tramitarse ante la Secretaría, por los titulares de dicha autorización.
+
+XII. Verificación Vehicular: Procedimiento de evaluación para cuantificar las emisiones contaminantes generadas por vehículos en circulación con matrícula del Distrito Federal conforme a los lineamientos establecidos por la Secretaría para tal efecto, conforme a la normatividad en la materia.
+
+XIII. Verificación Vehicular Remota: Mecanismo mediante el cual la Secretaría podrá llevar a cabo la medición de emisiones contaminantes de vehículos que circulen en el Distrito Federal, a través de medios remotos mediante la tecnología RSD "Dispositivo de Detección Remota".
+
+XIV. Sistema de Microanálisis: Sistema basado en el análisis de criterios estadísticos sistemáticos, mediante el cual la Secretaría evalúa la operación y funcionamiento de los Centros de Verificación, a partir de los registros de las bases de datos generadas en los Centros de Verificación conforme al procedimiento, parámetros e indicadores previstos por el presente Reglamento y el Manual de Operación.
+
+XV. SIVEV: Sistema de Información de Verificación Vehicular, mediante el cual la Secretaría almacena y centraliza a través de medios electrónicos, la información generada en el proceso de Verificación Vehicular que se lleva a cabo en los Centros de Verificación.
+
+XVI. Unidad de Cuenta de la Ciudad de México: El valor expresado en pesos que se utilizará, de manera individual o por múltiplos de ésta, para determinar sanciones y multas administrativas, conceptos de pago y montos de referencia vigentes en el Distrito Federal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 4.
 
-Además de las atribuciones establecidas en la Ley, para la aplicación del Reglamento corresponde a la Secretaría:
+Además de las atribuciones establecidas en la Ley, para la aplicación del presente Reglamento corresponde a la Secretaría:
 
 I. Emitir los diversos instrumentos jurídicos que regulen la operación y funcionamiento de los Centros de Verificación, los proveedores de equipo y prestadores de servicios de mantenimiento de equipo;
 
@@ -74,7 +112,29 @@ V. Establecer y aplicar acciones para la verificación de emisiones vehiculares,
 
 VI. Otorgar autorizaciones para proveer y sustituir convertidores catalíticos, así como suspender o revocar las mismas en los supuestos en que sea procedente conforme a lo dispuesto en la Ley, este Reglamento o cualquier otro ordenamiento en la materia; y
 
-VII. Las demás que se establezcan en otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+VII. Evaluar la operación y funcionamiento de los Centros de Verificación a través del CIVAR, SIVEV, el Sistema de Microanálisis, la Vigilancia Remota, y cualquier otra herramienta o sistema determinado por la Secretaría.
+
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+VIII. Verificar a través de la unidad administrativa que corresponda, la observancia y cumplimiento por parte de los Centros de Verificación a lo establecido en la Ley, el presente Reglamento, el Manual de Operación, así como las demás disposiciones aplicables.
+
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+IX. Evaluar el cumplimiento de las obligaciones de los Centros de Verificación y de su personal, a través de la Vigilancia Remota y tomar las medidas que considere necesarias en caso de detectar algún incumplimiento y/o irregularidad en la operación del Centro de Verificación.
+
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+X. Retener, revocar o suspender las acreditaciones y las claves de acceso al SIVEV del personal de los Centros de Verificación, cuando durante los procedimientos de evaluación, inspección y vigilancia realizados por la Secretaría, se advierta que realizan alguna conducta irregular con respecto al funcionamiento y operación del Centro de Verificación.
+
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+XI. Llevar a cabo la Verificación Vehicular Remota conforme al Manual de Operación y a través de los medios que para tal fin instrumente la Secretaría.
+
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+XII. Las demás que se establezcan en otras disposiciones jurídicas aplicables.
 
 ## TÍTULO SEGUNDO. DE LA VERIFICACIÓN VEHICULAR
 
@@ -88,23 +148,35 @@ Los propietarios o poseedores de vehículos automotores matriculados en el Distr
 
 Los propietarios o poseedores de vehículos automotores matriculados en una entidad distinta al Distrito Federal que circulen en este territorio, podrán someterlos a la verificación de emisiones contaminantes en los Centros de Verificación autorizados por la Secretaría, en los términos del Programa de Verificación Vehicular Obligatoria que al efecto expida dicha dependencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 7.
 
-La Secretaría contará con un Registro de los Centros de Verificación autorizados, de las personas autorizadas para proveer equipo y de las personas autorizadas para prestar servicios de mantenimiento de equipo, el cual debe incluir, como mínimo: nombre completo, denominación o razón social de las personas responsables, plantilla de personal que incluya funciones y fotografía, y en su caso, la vigencia de sus cargos.
+La Secretaría contará con un Registro de los Centros de Verificación autorizados, un Registro de las personas autorizadas para proveer equipo, así como un Registro de las personas autorizadas para prestar servicios de mantenimiento de equipo. Dichos Registros deberán incluir como mínimo: nombre completo, denominación o razón social, plantilla de personal que incluya funciones, horario de labores, fotografía reciente y en su caso, la vigencia de sus cargos.
 
 En el supuesto que participen personas privadas o públicas distintas a la Secretaría en el proceso de capacitación, selección y evaluación del personal de los Centros de Verificación, también se deberán incluir en el Registro referido.
 
-Asimismo, incluirá en aquel la información sobre las personas autorizadas para comercializar convertidores catalíticos y respecto de los talleres mecánicos autorizados para prestar el servicio de sustitución de convertidores catalíticos en mal estado, detectados en la verificación vehicular.
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
+Asimismo, el Registro incluirá la información sobre las personas autorizadas para comercializar convertidores catalíticos y respecto de los talleres mecánicos autorizados para prestar el servicio de sustitución de convertidores catalíticos en mal estado, detectados en la verificación vehicular.
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 8.
 
-El personal de los Centros de Verificación deberá contar con la acreditación de la Secretaría, la cual se obtendrá posterior a la aprobación del proceso de selección, capacitación y evaluación que, en su caso, determine la Secretaría, mismo en el que podrán participar otras instituciones públicas o personas privadas, en cualquiera de sus etapas o en todas cuando se considere necesario para garantizar un servicio adecuado de verificación vehicular por el personal acreditado.
+El personal de los Centros de Verificación deberá contar con la acreditación vigente expedida por la Secretaría, la cual es personal e intransferible y se obtendrá posterior a la aprobación del proceso de evaluación que en su caso determine la Secretaría, en el que podrán participar otras instituciones públicas o personas privadas, en cualquiera de sus etapas o en todas cuando se considere necesario, para garantizar un servicio adecuado de verificación vehicular por el personal acreditado.
 
-Las acreditaciones del mencionado personal tendrán vigencia de un año y se renovará de acuerdo a los términos y condiciones que establezca la Secretaría.
+Las acreditaciones a que refiere el párrafo anterior, tendrán vigencia de un año y se renovarán de acuerdo a los términos y condiciones que establezca la Secretaría.
+
+Las credenciales y claves de acceso al SIVEV asignadas al personal de los Centros de Verificación son personales e intransferibles por lo que no se podrán portar o utilizar por persona distinta a su titular, siendo lo anterior causa de revocación inmediata.
+
+El personal al que se le haya revocado la acreditación correspondiente, no podrá prestar ningún tipo de servicio en los Centros de Verificación autorizados para operar en el Distrito Federal; la Secretaría en su caso, publicará en la Gaceta Oficial del Distrito Federal la lista integrada por el personal que se encuentre en ese supuesto, ya que no podrá ser sujeto a que se le otorgue una nueva acreditación.
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 9.
 
-El personal de los Centros de Verificación que hayan participado en la comisión de hechos que constituyan infracciones a la Ley, a este Reglamento o a cualquier otra disposición reglamentaria aplicable, será responsable solidario con los titulares de las autorizaciones para la operación y funcionamiento de los Centros de Verificación, por lo que, se les podrán imponer medidas de seguridad y correctivas, así como las sanciones procedentes, independientemente de las que se impongan a dichos titulares.
+El personal acreditado de los Centros de Verificación que participe en la comisión de hechos que constituyan infracciones a la Ley, a este Reglamento, al Manual de Operación o a cualquier otra disposición aplicable, o su conducta sea omisa respecto de sus obligaciones, será responsable solidario con los titulares de las autorizaciones para la operación y funcionamiento de los Centros de Verificación, por lo que, se les podrá imponer medidas de seguridad y correctivas, así como las sanciones procedentes conforme a la normatividad en la materia, independientemente de las que se impongan a dichos titulares.
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES DE PROPIETARIOS O POSEEDORES DE VEHÍCULOS AUTOMOTORES
 
@@ -122,7 +194,9 @@ IV. Cubrir, en su caso, el monto de la multa por verificación extemporánea y l
 
 V. Efectuar el mantenimiento vehicular o reparaciones necesarias cuando el mismo resulte no aprobado en el proceso de verificación de emisiones. Cuando la causa de no aprobación de la verificación vehicular se atribuya a una mala operación del convertidor catalítico, el propietario o poseedor estará obligado a acudir a un taller mecánico autorizado por la Secretaría para sustituir dicho dispositivo, así como para diagnosticar y, en su caso, reparar la falla que presente el automotor y que pudo ser la causa del daño sufrido por el catalizador descompuesto;
 
-VI. Asegurarse que su automotor cumpla con los límites máximos permisibles de emisión de contaminantes establecidos en las normas oficiales mexicanas y ambientales del Distrito Federal;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+VI. Asegurarse que su automotor cumpla con los lineamientos establecidos en el Programa de Verificación.
 
 VII. Portar en su vehículo automotor el certificado y el holograma de verificación vehicular vigente, así como cualquier otro documento que establezca el Programa de Verificación Vehicular Obligatoria; y
 
@@ -140,7 +214,15 @@ Durante los plazos de treinta días a que se refieren el primer y segundo párra
 
 Los vehículos que no hubiesen sido verificados en el plazo establecido en el Programa de Verificación Vehicular Obligatoria debido a una causa de fuerza mayor, tal como la realización en ellos de alguna reparación mayor, o que hayan sido robados y/o hubiesen sufrido algún siniestro, podrán ser verificados fuera de período y sin el pago de multa por verificación extemporánea, siempre y cuando le sea autorizado por la Secretaría.
 
-Los vehículos de instituciones públicas que, por el desempeño de sus funciones o necesidades del servicio, no se hayan presentado a verificar en el periodo correspondiente, podrán presentarse a verificar sin pago de multa por verificación extemporánea dentro del plazo que para efecto otorgue la Secretaría, siempre y cuando le sea autorizado por la Secretaría.
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
+Los vehículos de instituciones públicas que por el desempeño de sus funciones o necesidades del servicio, no se puedan presentar a verificar en el periodo correspondiente, previa justificación de la institución promovente, podrán obtener la autorización de la Secretaría para presentarse a verificar dentro del plazo que para tal efecto le otorgue, y en su caso, sin el pago de la multa por verificación extemporánea.
+
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
+###### Artículo 12 Bis.
+
+Cuando durante el proceso de Verificación Vehicular, el personal de los Centros de Verificación detecte que el propietario o poseedor del vehículo en trámite de verificación presente documentación apócrifa, deberá notificarlo de inmediato a la Secretaría y dar vista a las instancias competentes para los efectos que conforme a derecho procedan.
 
 ### CAPÍTULO III. DEL PROGRAMA DE VERIFICACIÓN VEHICULAR OBLIGATORIA
 
@@ -154,6 +236,10 @@ II. Lineamientos para el tipo de constancia de verificación que se puede obtene
 
 III. Tarifa por el servicio de verificación; y
 
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+III Bis. Las excepciones al pago de las constancias, permisos, trámites u otros documentos relacionados con la Verificación Vehicular y el Programa Hoy No Circula; y
+
 IV. Condiciones bajo las cuales operará el programa de detección y sustitución de convertidores catalíticos en mal estado.
 
 ###### Artículo 14.
@@ -162,29 +248,65 @@ Para la debida aplicación del Programa de Verificación Vehicular, la Secretar�
 
 ### CAPÍTULO IV. DE LOS CENTROS DE VERIFICACIÓN
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 15.
 
-La Secretaría, con base en la necesidad de los servicios de verificación de emisiones vehiculares, publicará en la Gaceta Oficial del Distrito Federal, convocatorias públicas dirigidas a las personas físicas o morales interesadas en obtener autorización para establecer y operar Centros de Verificación, quienes deberán sujetarse a las disposiciones jurídicas aplicables en la materia.
+La Secretaría, con base en la necesidad de los servicios de verificación de emisiones vehiculares, publicará en la Gaceta Oficial del Distrito Federal, convocatorias públicas dirigidas a las personas físicas o morales interesadas en obtener autorización para establecer y operar Centros de Verificación, quienes deberán sujetarse a las disposiciones jurídicas aplicables en la materia, así como cubrir los pagos respectivos y las aportaciones que determine la Secretaría.
+
+El otorgamiento de las autorizaciones para el establecimiento y operación de Centros de Verificación y en su caso las Revalidaciones referidas en el presente Reglamento, estarán condicionadas estrictamente a las necesidades del servicio de Verificación Vehicular, la afluencia vehicular y al cumplimiento de todos y cada uno de los requisitos establecidos en la Ley, el Reglamento y el Manual de Operación, según lo determine la Secretaría.
+
+Las Autorizaciones, Ratificaciones y Revalidaciones para el establecimiento y operación de los Centros de Verificación que expida la Secretaría, tendrán condicionada su vigencia al cumplimiento de los pagos, aportaciones, fianzas, garantías y demás obligaciones dentro de los términos y condiciones previstos para tal efecto en la Ley, este Reglamento, el Manual de Operación y las demás disposiciones jurídicas aplicables en la materia; por lo que en caso de incumplimiento la Secretaría podrá revocar, negar la Ratificación y, en su caso, la Revalidación de la autorización correspondiente.
 
 ###### Artículo 16.
 
 Otorgada la autorización para establecer y operar un Centro de Verificación, se notificará al interesado, quien deberá iniciar la operación del mismo dentro del plazo improrrogable previsto en la propia autorización. Si transcurrido dicho plazo no se hubiere iniciado la operación del Centro de Verificación, la autorización otorgada quedará sin efectos.
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 17.
 
-Además de lo dispuesto en el artículo 194 de la Ley, la autorización para operar Centros de Verificación podrá concluirse antes de cumplirse la vigencia cuando exista una causa de orden público e interés social. Dicha determinación deberá fundarse y motivarse adecuadamente.
+Además de lo dispuesto en la Ley, la autorización para establecer y operar Centros de Verificación podrá revocarse antes del término de su vigencia cuando:
+
+I.- Exista una causa de orden público e interés social. Dicha determinación deberá fundarse y motivarse;
+
+II.- Del resultado de la evaluación del Sistema de Microanálisis a que se refiere el Capítulo IV Bis del Reglamento, se advierta que el Centro de Verificación no cumpla con los estándares correspondientes; y
+
+III.- El Centro de Verificación incurra en alguna otra causa de revocación de la autorización conforme a lo previsto por el presente Reglamento, el Manual de Operación, así como las disposiciones jurídicas aplicables en la materia.
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 18.
 
-La Secretaría establecerá, de considerarlo necesario, los términos bajo los cuales se podrán revalidar las autorizaciones para establecer y operar Centros de Verificación, y, en todo caso, se deberán considerar los resultados del programa de mejora continua que implementen los Centro (sic) de Verificación. La revalidación de la autorización para operar los Centros de Verificación tendrá una vigencia no menor a dos años ni superior a cinco años.
+Las autorizaciones para el establecimiento y operación de un Centro de Verificación son personales e intransferibles y tendrán una vigencia no menor a dos años.
+
+Los titulares de las autorizaciones para el establecimiento y operación de Centros de Verificación deberán tramitar anualmente ante la Secretaría la Ratificación de dicha autorización, conforme a los requisitos y lineamientos establecidos para tal efecto en el Manual de Operación.
+
+Asimismo, sesenta días naturales antes del término de su vigencia, los titulares de las autorizaciones para el establecimiento y operación de Centros de Verificación que deseen continuar operando el Centro de Verificación respectivo, deberán tramitar ante la Secretaría la Revalidación de dicha autorización conforme a los requisitos y lineamientos establecidos para tal efecto en el Manual de Operación. La Revalidación a que se refiere este párrafo tendrá una vigencia no menor a dos años.
+
+Los Centros de Verificación no podrán operar sin autorización vigente, ratificada y en su caso revalidada por la Secretaría, de acuerdo al periodo correspondiente. Dichas autorizaciones, ratificaciones y revalidaciones, se sujetarán a lo dispuesto por la Ley, el Reglamento, el Manual de Operación y demás disposiciones aplicables en la materia.
+
+Sin perjuicio de lo anterior, para el otorgamiento de las ratificaciones y en su caso las revalidaciones, la Secretaría podrá valorar de manera enunciativa más no limitativa, lo siguiente:
+
+I. Resultados de la vigilancia y supervisión de la Secretaría, respecto del cumplimiento de las obligaciones de los Centros de Verificación previstas en la Ley, el presente Reglamento, el Manual de Operación y demás disposiciones aplicables a la materia;
+
+II. Resultados de la evaluación del Sistema de Microanálisis;
+
+III. Ponderaciones, estadísticas y análisis de información resultado de la vigilancia, inspección y supervisión de la Secretaría sobre la operación y funcionamiento de los Centros de Verificación;
+
+IV. El pago en tiempo y forma, aportaciones, fianzas, multas, y demás obligaciones dentro de los términos y condiciones previstos para tal efecto en la Ley, el Reglamento, el Manual de Operación y las demás disposiciones jurídicas aplicables; y
+
+V. En su caso, el reporte de cumplimiento de términos y condicionantes establecidas en la autorización para el establecimiento y operación del Centro de Verificación correspondiente.
 
 ###### Artículo 19.
 
 Ninguna persona física o moral podrá tener más de siete autorizaciones para establecer y operar Centros de Verificación o participación en sociedad con igual número de autorizaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 20.
 
-Los responsables de los Centros de Verificación deberán solicitar autorización a la Secretaría para cambiar de domicilio o de nombre denominación (sic) o razón social de éstos, así como de cualquier otro cambio que pretendan relacionado con los mismos. Asimismo, no es procedente y no tendrá ningún efecto jurídico la transferencia de derechos y obligaciones derivados de las autorizaciones para la operación y funcionamiento de Centros de Verificación sin la autorización previa de la Secretaría.
+Los responsables de los Centros de Verificación deberán solicitar autorización a la Secretaría para cambiar de domicilio o de nombre, denominación o razón social de éstos, transmisión de la tenencia accionaria, así como de cualquier otro cambio que pretendan relacionado con los mismos. Asimismo, no es procedente y no tendrá ningún efecto jurídico la transferencia de derechos y obligaciones derivados de las autorizaciones para la operación y funcionamiento de Centros de Verificación.
 
 En el cambio de domicilio se deberá cumplir lo siguiente:
 
@@ -192,9 +314,23 @@ I. Que el nuevo predio en el que se pretenda ubicar el Centro de Verificación c
 
 II. Que el predio se encuentre a una distancia de por lo menos mil metros radiales respecto al Centro de Verificación más cercano; y
 
-III. Que la entrada del predio no se sitúe en una vialidad de acceso controlado.
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2015)</small>
 
-Lo anterior sin perjuicio de los demás permisos, autorizaciones o trámites que deban cumplirse conforme a la legislación vigente.
+III. Que la entrada del predio no se sitúe en una vialidad primaria o de acceso controlado;
+
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+IV. Que el predio se encuentre a una distancia de por lo menos cincuenta metros radiales respecto a escuelas, hospitales o guarderías;
+
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+V. Contar con todos los permisos, autorizaciones y trámites que le sean requeridas para el establecimiento y operación del Centro de Verificación en la nueva ubicación, en materia de uso de suelo, construcciones, protección civil, vialidad, y cualquier otra requerida por las autoridades competentes; y
+
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+VI. Acreditar estar al corriente del cumplimiento de sus obligaciones conforme a lo previsto en la Ley, el Reglamento, el Manual de Operación así como las disposiciones jurídicas aplicables en la materia.
+
+Lo anterior, sin perjuicio de los demás permisos, autorizaciones y trámites que deban cumplirse conforme a la legislación vigente.
 
 ###### Artículo 21.
 
@@ -202,29 +338,51 @@ La Secretaría podrá autorizar a las dependencias, órganos desconcentrados y e
 
 La Secretaría establecerá los lineamientos específicos para su operación, vigilando que se cumpla con las disposiciones indispensables para garantizar que la verificación vehicular sea aplicada de forma adecuada, conforme a las disposiciones técnicas y jurídicas aplicables.
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 22.
 
-La Secretaría emitirá el manual o manuales que determinen las características y especificaciones que deben tener los equipos, instrumentos, instalaciones y demás elementos que sean necesarios para la adecuada operación y funcionamiento de los equipos y sistemas de verificación vehicular, lo cual, deberá cumplirse por los responsables de los Centros de Verificación, empresas proveedoras de equipos y empresas proveedoras del servicio de mantenimiento de equipos.
+La Secretaría emitirá el manual o manuales que determinen y contengan las características y especificaciones que deben tener los equipos, instrumentos, infraestructura, instalaciones y demás elementos que sean necesarios para la adecuada operación y funcionamiento de los equipos y sistemas de verificación vehicular, lo cual, deberá cumplirse por los responsables de los Centros de Verificación, empresas proveedoras de equipos y empresas proveedoras del servicio de mantenimiento de equipos.
+
+El contenido del Manual de Operación es de carácter obligatorio a su cumplimiento por los titulares de las autorizaciones para el establecimiento y operación de los Centros de Verificación, así como por el personal acreditado por la Secretaría para desempeñar funciones propias del servicio de medición de emisiones contaminantes al interior de los mismos y las empresas proveedoras de equipos, empresas proveedoras del servicio de mantenimiento de equipos, de servicio de calibración y sistemas de verificación de emisiones vehiculares, según corresponda.
+
+Adicionalmente a lo anterior, el titular de una autorización para el establecimiento y operación de un Centro de Verificación deberá en todo momento dar cumplimiento a los términos y, en su caso, las condicionantes establecidas por dicha autorización.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 23.
 
-Las personas responsables de los Centros de Verificación, además de lo establecido en la Ley, están obligadas a:
+Los titulares de las autorizaciones para el establecimiento y operación de los Centros de Verificación, deberán cumplir con lo establecido en la Ley, el Reglamento, el Manual de Operación, los términos y, en su caso, las condicionantes establecidas por dicha autorización, de manera enunciativa más no limitativa, con las siguientes obligaciones:
 
-I. Presentar a la Secretaría e implementar un programa de mejora continua respecto a la operación y funcionamiento del Centro de Verificación, mismo en el que deberán incluirse:
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2015)</small>
 
-a. Mecanismos para que la prestación del servicio a los usuarios sea ágil y eficiente, para lo cual, se deberá poner en práctica un sistema de turnos o citas, considerando una productividad máxima de ocho verificaciones aprobatorias por hora.
+I.- Establecer e implementar mecanismos para que la prestación del servicio a los usuarios sea ágil y eficiente, para lo cual, se deberá poner en práctica un sistema de turnos y citas, así como evitar afectaciones a terceras personas o impactos negativos al exterior con motivo o a consecuencia de la operación y funcionamiento del Centro de Verificación.
 
-b. Medidas y acciones para garantizar que las instalaciones, sistemas, equipos y procesos de verificación cumplan con las disposiciones jurídicas aplicables.
+a. (DEROGADO, G.O. 7 DE AGOSTO DE 2015)
 
-c. Medidas y acciones para evitar afectaciones a terceras personas o impactos negativos al exterior con motivo o a consecuencia de la operación y funcionamiento del Centro de Verificación.
+b. (DEROGADO, G.O. 7 DE AGOSTO DE 2015)
 
-Dicho programa se someterá a la aprobación de la Secretaría y una vez autorizado, deberá cumplirse en sus términos. En tanto se autoriza el mismo, se pondrán en práctica las medidas necesarias para que el servicio de verificación vehicular sea más ágil y eficiente, así como para evitar filas de espera al exterior de las instalaciones de los Centros de Verificación.
+c. (DEROGADO, G.O. 7 DE AGOSTO DE 2015)
 
-El cumplimiento del referido programa será evaluado por la Secretaría y el resultado deberá considerarse para determinar si es procedente o no la renovación de autorizaciones. En la evaluación participarán las áreas con funciones de gestión y de inspección de fuentes móviles emisoras de contaminantes de la Secretaría, así como aquéllas que determine su titular; además, la Secretaría podrá invitar a participar en la evaluación a otras instituciones públicas o a personas privadas que por sus conocimientos o experiencia puedan aportar elementos importantes a considerar;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2015)</small>
 
-II. Llevar un registro de las personas que presenten vehículos a verificar y evitar que una persona pueda verificar más de un vehículo al día en el mismo Centro de Verificación, salvo que las tarjetas de circulación de aquellos se encuentren a nombre de las mismas personas o se cuente con autorización de la Secretaría;
+II. Llevar un registro de vehículos y personas que ingresan a los Centros de Verificación, sea cual fuere el motivo de ingreso de los mismos debiendo contener el registro los siguientes datos en una bitácora de control digital en tiempo real. No se deberá permitir el acceso de terceros no autorizados o no acreditados al Centro de Verificación bajo ninguna circunstancia; de ingresar un tercero no autorizado o no acreditado, deberá justificarse dicha entrada dentro de la bitácora de control digital en tiempo real. La bitácora a que hace referencia la presente fracción deberá contener por lo menos, los siguientes datos:
 
-III. Abstenerse de solicitar o recibir cualquier dádiva o pago adicional a las tarifas autorizadas por la Secretaría en la prestación del servicio de verificación vehicular;
+a) Nombre completo del conductor del vehículo que ingresa al Centro de Verificación;
+
+b) Fecha y hora de ingreso y salida;
+
+c) Marca, submarca, modelo, VIN y número de placas del Vehículo ingresado; y
+
+d) Motivo de ingreso al Centro de Verificación Vehicular.
+
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+III. En ningún momento solicitar o recibir cualquier dádiva o pago adicional a las tarifas autorizadas por la Secretaría en la prestación del servicio de verificación vehicular.
+
+Los titulares de las autorizaciones para el establecimiento y operación de los Centros de Verificación se encuentran obligados a supervisar que el personal acreditado del Centro de Verificación evite tener contacto con gestores o personas dedicadas a tramitar verificaciones vehiculares o incluso titulares o poseedores de vehículos, que pudiera propiciar una conducta tendiente a buscar de forma irregular obtener un holograma distinto al que le correspondería.
+
+De suceder lo anterior, se procederá conforme a la Ley, el Reglamento, el Manual de Operación, así como a los ordenamientos aplicables al caso concreto.
 
 IV. Dar cumplimiento a lo dispuesto en la Ley, en este Reglamento, la autorización que le sea otorgada, las normas oficiales mexicanas y normas ambientales para el Distrito Federal, así como en los manuales, acuerdos, circulares y demás disposiciones jurídicas que emita la Secretaría o sean aplicables;
 
@@ -240,11 +398,15 @@ IX. Abstenerse de prestar el servicio de verificación vehicular con personal qu
 
 X. Impedir la permanencia dentro de las instalaciones del Centro de Verificación de cualquier persona que no esté debidamente acreditada por la Secretaría, a excepción de los conductores de los vehículos a verificar y de las personas que les prestan servicios administrativos y de mantenimiento, para lo cual, deberán registrar en bitácora cada servicio recibido;
 
-XI. Presentar a la Secretaría la plantilla de su personal, que incluya funciones, horario de labores y fotografía reciente;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+XI. Presentar ante la Secretaría en los primeros quince días de cada semestre, la plantilla de su personal, la cual deberá contener por lo menos los requisitos establecidos en el artículo 7 del presente Reglamento. Asimismo, deberá informar a la Secretaría cualquier modificación a la plantilla de su personal en un término no mayor a cinco días contados a partir de dicha modificación. Cuando se prescinda de los servicios de un trabajador acreditado se deberá informar de manera inmediata los motivos que causaron dicha determinación, para proceder a la revocación de la acreditación correspondiente.
 
 XII. Impedir el ingreso al Centro de Verificación de cualquier persona que utilice ropa con colores y/o símbolos similares a los que utiliza el personal que labora en el Centro de Verificación;
 
-XIII. Prestar el servicio de verificación vehicular únicamente de lunes a sábado en el horario comprendido de las 8:00 a las 20:00 horas; lo cual, no impide que se suspenda el servicio solamente los días no laborables conforme a la legislación laboral, situación que deberá hacerse por escrito del conocimiento de la Secretaría, y de los usuarios con un aviso pegado al exterior del Centro de Verificación, por lo menos con un día hábil de anticipación; asimismo, la Secretaría podrá determinar en el Programa de Verificación Vehicular ampliar los días y horario (sic) para la prestación del referido servicio cuando sea necesario para mejorar la verificación vehicular, para lo cual, deberá fundar y motivar adecuadamente su determinación;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+XIII. Prestar el servicio de verificación vehicular únicamente de lunes a sábado en el horario comprendido de las 8:00 a las 20:00 horas; lo cual, no impide que se suspenda el servicio solamente los días no laborables conforme a la legislación laboral, situación que deberá hacerse por escrito del conocimiento de la Secretaría, y de los usuarios con un aviso visible al exterior del Centro de Verificación, por lo menos con un día hábil de anticipación; asimismo, la Secretaría podrá determinar en el Programa de Verificación Vehicular ampliar los días y horario para la prestación del referido servicio cuando sea necesario para mejorar la verificación vehicular, para lo cual, deberá fundar y motivar adecuadamente su determinación.
 
 XIV. Entregar una constancia de verificación vehicular aprobatoria o no aprobatoria por cada vehículo que hubiese recibido el servicio de verificación de emisiones, conforme a lo establecido en el Programa de Verificación Vehicular Obligatorio correspondiente y demás disposiciones jurídicas aplicables;
 
@@ -278,7 +440,11 @@ XXVIII. Mantener bajo su resguardo los expedientes de todas las verificaciones v
 
 XXIX. Otorgar mantenimiento preventivo y correctivo a sus equipos de verificación de emisiones vehiculares, únicamente con los proveedores que estén autorizados por la Secretaría para tales efectos;
 
-XXX. Resguardar dentro de las instalaciones del Centro de Verificación un duplicado de las llaves de los equipos de verificación con el único fin de que la Secretaría pueda abrir los equipos y realizar las acciones de inspección y vigilancia que ordene, por lo que, deberán estar disponibles en todo momento para dicha dependencia y resguardadas en un sobre entresellado y firmado por personal autorizado o comisionado para tal efecto por la misma, ello para garantizar que no sea abierto por personas distintas que no estén autorizadas o facultadas para abrir los equipos de verificación;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+XXX. Instalar un sistema de cerraduras digitales que permitan la apertura de los equipos de verificación mediante código o clave, esto con el fin de que la Secretaría pueda abrir los equipos y realizar las acciones de inspección y vigilancia que ordene, así como, para el personal que realice el mantenimiento de los equipos, ello para garantizar que no sea abierto por personas distintas que no estén autorizadas o acreditadas para abrir los equipos de verificación.
+
+El código y/o clave estará programado para cambiar de forma aleatoria y estará bajo resguardo de la Secretaría y ésta lo podrá proporcionar a las personas que para ello autorice o comisione.
 
 XXXI. Presentar a la Secretaría un reporte semanal en el que informe sobre las verificaciones vehiculares realizadas por su Centro de Verificación, en los términos que lo requiera dicha dependencia;
 
@@ -290,7 +456,55 @@ XXXIV. Abstenerse de verificar vehículos automotores los días en que se encuen
 
 XXXV. Elaborar y entregar los planos relacionados con su Centros de Verificación que para tal efecto les requiera la Secretaría, así como resguardar una copia certificada de dichos planos en las instalaciones del Centro de Verificación y actualizar los mismos cada vez que, previa autorización de la Secretaría, cambien o modifiquen sus equipos, sistemas o conexiones. Se deberán entregar como mínimo los planos arquitectónico, hidráulico, eléctrico, de ductos de conducción de gas y del sistema de red; y
 
-XXXVI. Las demás que establezcan otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+XXXVI. Resguardar y manejar bajo estricta seguridad al interior y exterior de los Centros de Verificación, las constancias, hologramas así como, el total de la documentación oficial de la cual disponen con motivo de su operación y funcionamiento, misma que deberá ser tratada conforme a la legislación aplicable en la materia, asimismo, deberán acatar al respecto, las medidas de seguridad previstas en el Manual de Operación.
+
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+XXXVII. En caso de robo de constancias de verificación, hologramas y/o papelería oficial bajo su responsabilidad, se deberá notificar a la Secretaría de manera inmediata y presentar la denuncia ante las autoridades correspondientes; en este supuesto, la venta de las constancias de verificación, hologramas y la documentación oficial se limitará, hasta en tanto la Secretaría adquiera nuevamente los hologramas a reponer.
+
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+XXXVIII. Establecer los mecanismos necesarios para garantizar la seguridad e integridad física de las personas que acudan a los Centros de Verificación.
+
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+XXXIX. Supeditarse al Sistema de Microanálisis, conforme a los parámetros, herramientas, ponderaciones, datos y demás previsiones incluidos en el Manual de Operación.
+
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+XL. Las demás que establezcan otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 7 DE AGOSTO DE 2015)</small>
+
+### CAPÍTULO IV BIS. DEL SISTEMA DE MICROANÁLISIS Y EVALUACIÓN DE LA OPERACIÓN Y FUNCIONAMIENTO DE LOS CENTROS DE VERIFICACIÓN
+
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
+###### Artículo 23 Bis.
+
+Conforme a lo establecido por el artículo 23 fracción XXXIX del presente Reglamento los titulares de las autorizaciones para el establecimiento y operación de un Centro de Verificación deberán supeditarse al Sistema de Microanálisis, con el fin de que la Secretaría evalúe la operación y funcionamiento de los Centros de Verificación y califique sus operaciones con base en los indicadores y criterios establecidos para la evaluación del Sistema de Microanálisis, contenidos en el Manual de Operación.
+
+La Secretaría implementará el Sistema de Microanálisis utilizando la información proveniente de las bases de datos generadas por la operación y funcionamiento de los Centros de Verificación.
+
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
+###### Artículo 23 Ter.
+
+El Manual de Operación incluirá los datos, información estadística, medios, sistemas electrónicos, bases de datos, y demás herramientas que el Sistema de Microanálisis deberá integrar; así como los indicadores, fórmulas y procedimientos para llevar a cabo la evaluación correspondiente.
+
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
+###### Artículo 23 Quater.
+
+La evaluación de las operaciones de los Centros de Verificación que deberá realizar la Secretaría a través del Sistema de Microanálisis, se implementará al menos de manera mensual, tomando como base para dicha evaluación, la información generada por el Centro de Verificación mediante su operación y funcionamiento. La evaluación a que se refiere este artículo se llevará a cabo conforme a los parámetros y procedimientos establecidos en el Manual de Operación.
+
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
+###### Artículo 23 Quinquies.
+
+Adicionalmente a la evaluación del Sistema de Microanálisis, la Secretaría podrá inspeccionar el estado actual sobre el funcionamiento de los Centros de Verificación, valorando las acciones realizadas, en aspectos tales como la capacitación constante al personal que labora en el mismo, la atención que se proporciona al público, la imagen interior y exterior del Centro de Verificación, así como las medidas de seguridad implementadas, entre otras acciones que deberán ser consideradas para evaluar la operación de los Centros de Verificación de manera integral, con el objetivo de detectar oportunidades de mejora en el servicio de medición de emisiones vehiculares.
 
 ### CAPÍTULO V
 
@@ -312,9 +526,11 @@ La autorización otorgada a proveedores de equipo, a proveedores de mantenimient
 
 La Secretaría establecerá, de considerarlo necesario, los términos bajo los cuales se podrán revalidar las autorizaciones a que se refiere el artículo 25 de este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 28.
 
-Los proveedores de equipos, programas de cómputo o de servicio de mantenimiento a equipos, para la operación de los Centros de Verificación están obligadas a:
+Los proveedores de equipos, programas de cómputo o de servicio de mantenimiento a equipos, para la operación de los Centros de Verificación además de lo previsto en la Ley, el Reglamento, el Manual de Operación y demás ordenamientos aplicables, están obligadas a:
 
 I. Suministrar oportunamente equipos y servicios que cumplan con las disposiciones jurídicas aplicables;
 
@@ -324,7 +540,9 @@ III. Llevar un registro con la información de las operaciones de mantenimiento 
 
 IV. Dar aviso a la Secretaría cuando dejen de prestar el servicio de suministro y mantenimiento de equipos;
 
-V. Presentar y mantener en vigor una fianza de tres mil días de Salario Mínimo, para garantizar el cumplimiento de las obligaciones y la confidencialidad de los sistemas de seguridad, durante la vigencia de la autorización, misma que se hará efectiva en los casos en que la prestación del servicio contravenga las disposiciones aplicables. Esta fianza será entregada a la Secretaría;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+V. Presentar y mantener en vigor una fianza de 3000 veces la Unidad de Cuenta de la Ciudad de México, para garantizar el cumplimiento de las obligaciones y la confidencialidad de los sistemas de seguridad, durante la vigencia de la autorización, misma que se hará efectiva en los casos en que la prestación del servicio contravenga lo establecido en la Ley, el Reglamento, el Manual de Operación, así como las disposiciones aplicables. Esta fianza será entregada a la Secretaría;
 
 VI. Prestar sus servicios de conformidad con los contratos previamente autorizados por la Secretaría;
 
@@ -333,6 +551,26 @@ VII. Observar lo establecido en la Ley, este Reglamento, las Normas oficiales me
 VIII. Dar aviso por escrito a la Secretaría cuando encuentren alguna modificación a los equipos de verificación de emisiones a los que se dé mantenimiento o cuando exista la presunción de una posible modificación de los mismos; y
 
 IX. Permitir al personal comisionado por la Secretaría la realización de las acciones de inspección y vigilancia conforme a lo dispuesto en la Ley y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+X. Cubrir las aportaciones que determine la Secretaría, mismas que serán descritas en el Manual de Operación y/o Programa de Verificación.
+
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+XI. La Secretaría evaluará el desempeño de los proveedores de equipo para determinar la continuación de la autorización, con base en los procedimientos y sistemas que para tal efecto se determinen en la Ley, el Reglamento y el Manual de Operación y demás disposiciones aplicables.
+
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+XII. Por ningún motivo ofrecer y/o instalar elementos tales como software, hardware, desconectores, tapones, y cualquier otro objeto ajeno a los autorizados por la Secretaría en los equipos de verificación. Los proveedores de servicios son solidariamente responsables con titulares de las autorizaciones para el establecimiento y operación de los Centros de Verificación a los que presten servicio, respecto de las acciones que indica la presente fracción.
+
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+XIII. Dar aviso inmediato a la Secretaría en caso de detectar elementos tales como software, hardware, desconectores, tapones, y cualquier otro objeto ajeno a los autorizados en los equipos de verificación.
+
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+XIV. Previo a la apertura de cualquier equipo autorizado por la Secretaría para operar en un Centro de Verificación, ya sea para su revisión, corrección, mantenimiento, o bien para la instalación de equipos, software, hardware y cualquier otro objeto, sea cual fuere el servicio que se pretenda realizar sobre el equipo autorizado o por cualquier otro motivo, se deberá dar aviso por escrito a la Secretaría para que esta designe personal que esté presente durante todo el tiempo que permanezca abierto el equipo. En caso de no dar el aviso correspondiente a la Secretaría y se identifique la apertura del equipo, procederán las sanciones correspondientes conforme a derecho, tanto a los proveedores como al titular de la autorización para establecer y operar el Centro de Verificación.
 
 ###### Artículo 29.
 
@@ -350,9 +588,11 @@ IV. La vigencia del contrato.
 
 Los proveedores de equipos y/o servicio de mantenimiento a los equipos de verificación que hayan participado en la comisión de hechos que constituyan infracción a la Ley, a este Reglamento o a cualquier otra disposición reglamentaria serán responsables solidarios con los titulares de las autorizaciones para la operación y funcionamiento de los Centros de Verificación; asimismo, serán responsables del incumplimiento de sus obligaciones previstas en los citados ordenamientos jurídicos, por lo que se les podrán imponer medidas de seguridad y correctivas, así como las sanciones procedentes, independientemente de las que se impongan a dichos titulares.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 31.
 
-Las personas físicas o morales autorizadas para comercializar convertidores catalíticos de reemplazo, están obligadas a:
+Las personas físicas o morales autorizadas para comercializar convertidores catalíticos de reemplazo, además de lo previsto en la Ley, el Reglamento y el Manual de Operación, están obligadas a:
 
 I. Llevar un registro con la información de la cantidad y tipo de convertidores que se entregaron a los talleres autorizados para reemplazar los convertidores catalíticos en mal estado.
 
@@ -366,17 +606,29 @@ V. Entregar a la autoridad y a las personas físicas y morales autorizadas para 
 
 VI. Entregar una garantía a los autorizados para prestar el servicio de reemplazo de convertidores catalíticos, por cada unidad vendida.
 
-VII. Presentar y mantener en vigor una fianza de 3,000 días de Salario Mínimo, la cual garantice el cumplimiento de todas y cada una de las obligaciones contraídas en la autorización correspondiente.
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2015)</small>
 
-VIII. Las demás que se establezcan en otras disposiciones normativas.
+VII. Presentar y mantener en vigor una fianza de 3000 veces la Unidad de Cuenta de la Ciudad de México, la cual garantice el cumplimiento de todas y cada una de las obligaciones contraídas en la autorización correspondiente durante el periodo determinado para su vigencia, misma que se hará efectiva en los casos en que la prestación del servicio contravenga lo establecido en la Ley, el Reglamento, el Manual de Operación, así como las disposiciones aplicables. Esta fianza será entregada a la Secretaría;
+
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+VIII. Cubrir los pagos respectivos y las aportaciones que determine la Secretaría por cada convertidor catalítico vendido; y
+
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+IX. Las demás que se establezcan en otras disposiciones normativas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 32.
 
-Los Titulares de las autorizaciones para prestar el servicio de reemplazo de convertidores catalíticos, están obligados a:
+Los Titulares de las autorizaciones para prestar el servicio de reemplazo de convertidores catalíticos, además de lo previsto en la Ley, el Reglamento y el Manual de Operación, están obligadas a:
 
 I. Realizar labores de diagnóstico de operación del automotor, de reparación de fallas detectadas en éste y de sustitución del convertidor catalítico, de acuerdo con el servicio contratado y observando que el mismo cumpla con la normatividad correspondiente;
 
-II. Prestar debidamente el servicio de instalación del convertidor catalítico a todo tipo de vehículo, de acuerdo con el servicio contratado y observando que el mismo cumpla con la normatividad correspondiente;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+II. Prestar debidamente el servicio de instalación del convertidor catalítico, de acuerdo con el servicio contratado y observando que el mismo cumpla con la normatividad correspondiente;
 
 III. Instalar los convertidores catalíticos adecuados de acuerdo al catálogo de aplicación vehicular que reciba del proveedor de convertidores catalíticos;
 
@@ -388,7 +640,13 @@ VI. Entregar una garantía al conductor del vehículo que realice reemplazo de c
 
 VII. Permitir al personal de la Secretaría la realización de las acciones de inspección y vigilancia de conformidad con la orden u oficio de comisión que al efecto se emita, observando las formalidades que para dichos actos prevé la Ley; y
 
-VIII. Las demás que se establezcan en otras disposiciones normativas.
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+VIII. Cubrir los pagos respectivos y las aportaciones que determine la Secretaría por cada convertidor catalítico instalado; y
+
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+IX. Las demás que se establezcan en otras disposiciones normativas.
 
 ## TÍTULO TERCERO. DE LA INSPECCION Y VIGILANCIA
 
@@ -408,13 +666,17 @@ Cuando de la información recabada por la Secretaría en acciones de vigilancia 
 
 Los procedimientos de inspección y vigilancia que se inicien conforme a lo dispuesto en el presente Reglamento se tramitarán y resolverán conforme a lo establecido en la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 37.
 
-Para determinar las medidas de seguridad y sanciones procedentes conforme a lo dispuesto en la Ley, en este Reglamento o en cualquier otra disposición reglamentaria aplicable, se considerarán, de manera enunciativa y no limitativa, como hechos que generan un riesgo inminente de desequilibrio ecológico, o de daño o deterioro grave a los ecosistemas o a los recursos naturales en virtud de permitir la contaminación del aire, con la consecuente repercusión peligrosa para la salud, para los ecosistemas o sus componentes, los siguientes:
+Para determinar las medidas de seguridad y sanciones procedentes conforme a lo dispuesto en la Ley, en este Reglamento, el Manual de Operación o en cualquier otra disposición aplicable, se considerarán, de manera enunciativa y no limitativa, como hechos que generan un riesgo inminente de desequilibrio ecológico, o de daño o deterioro grave a los ecosistemas o a los recursos naturales en virtud de permitir la contaminación del aire, con la consecuente repercusión peligrosa para la salud, para los ecosistemas o sus componentes, los siguientes:
 
 I. Emitir constancias de rechazo o negar el servicio de verificación vehicular indebidamente;
 
-II. Alteración, manipulación o uso del Software y/o Hardware de verificación distintos a los autorizados, desarrollados o establecidos por la Secretaría;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+II. Alteración, manipulación o uso del Software y/o Hardware de verificación distintos a los autorizados, desarrollados o establecidos por la Secretaría. Los proveedores de servicios son solidariamente responsables con los titulares de las autorizaciones para el establecimiento y operación de los Centros de Verificación a los que presten servicio, respecto de elementos tales como software, hardware, desconectores, tapones, y cualquier otro objeto ajeno instalado a los equipos de verificación sin previa autorización de la Secretaría.
 
 III. Aplicación de carga indebida o nula a vehículos en el proceso de verificación vehicular bajo protocolo dinámico;
 
@@ -424,13 +686,29 @@ V. La falta de calibración de los equipos; y
 
 VI. El uso de gas de procedencia distinta al motor del vehículo que se encuentre verificando.
 
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
+###### Artículo 37 Bis.
+
+Los propietarios y poseedores de vehículos automotores y los titulares de autorizaciones para el establecimiento y operación de Centros de Verificación, serán responsables de los efectos ambientales adversos ocasionados por el incumplimiento o contravención a la Ley, al presente Reglamento y al Manual de Operación, así como de la responsabilidad ambiental que pudiera derivarse de su conducta, en términos de los ordenamientos aplicables a nivel local y federal.
+
+Tanto el propietario o poseedor del vehículo, como el personal acreditado del Centro de Verificación y el titular de la autorización respectiva, responderán solidariamente cuando la violación a las disposiciones a que se refiere el párrafo que antecede, sea cometido por uno, con la participación o ayuda del otro
+
 ###### Artículo 38.
 
 La Secretaría podrá comisionar o autorizar personal para que verifique que los propietarios o poseedores de los vehículos automotores que circulan en el Distrito Federal, cumplan con las disposiciones de la Ley y de este Reglamento, además de las normas oficiales mexicanas o normas ambientales para el Distrito Federal, acuerdos, programas, circulares, autorizaciones, manuales, lineamientos y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 39.
 
-El personal comisionado o autorizado por la Secretaría para que verifique que los propietarios o poseedores de los vehículos automotores que circulan en el Distrito Federal cumplan con las disposiciones referidas en el artículo 38 de este Reglamento podrá revisar que los propietarios o poseedores de vehículos que se encuentren en estado de encendido o circulen dentro del Distrito Federal cumplan con sus obligaciones, para lo cual, podrán detener la marcha o circulación de los vehículos automotores que presuman contaminantes en virtud de la coloración y/o intensidad de su emisión y de los que no porten el holograma de verificación vigente que les permitan la circulación o que circulen en días que tengan restringida la circulación.
+El personal comisionado o autorizado por la Secretaría para que verifique que los propietarios o poseedores de los vehículos automotores que circulan en el Distrito Federal cumplan con las disposiciones referidas en el artículo 38 de este Reglamento podrá revisar que los propietarios o poseedores de vehículos que se encuentren en estado de encendido o circulen dentro del Distrito Federal cumplan con sus obligaciones, para lo cual, podrán detener la marcha o circulación de los vehículos automotores que presuman contaminantes en virtud de la coloración y/o intensidad de su emisión, de los que no porten el holograma de verificación vigente que les permitan la circulación o que circulen en días, horario o zonas en que tengan restringida la circulación.
+
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
+###### Artículo 39 Bis.
+
+Cuando los vehículos automotores que se presuman contaminantes en términos del artículo inmediato anterior cuenten con holograma de verificación vigente, el personal comisionado dará vista al CIVAR, a efecto de que se investigue si el Centro de Verificación que lo otorgó incurrió en alguna irregularidad, en términos de lo dispuesto en la ley, el presente Reglamento, el Manual de Operación, así como las disposiciones aplicables en la materia.
 
 ###### Artículo 40.
 
@@ -464,17 +742,23 @@ Los propietarios o poseedores de los vehículos sancionados por emitir contamina
 
 ## TÍTULO CUARTO. DE LAS SANCIONES A LOS PROPIETARIOS O LEGÍTIMOS POSEEDORES DE VEHÍCULOS AUTOMOTORES
 
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 43.
 
-La multa por emitir contaminantes en contravención a lo establecido en la Ley y en este Reglamento, en las normas oficiales mexicanas o normas ambientales para el Distrito Federal, acuerdos, programas, circulares, autorizaciones, manuales, lineamientos y demás disposiciones jurídicas aplicables, será de 24 días de Salario Mínimo vigente en el Distrito Federal.
+La multa por emitir contaminantes en contravención a lo establecido en la Ley y en este Reglamento, en las Normas Oficiales Mexicanas o Normas Ambientales para el Distrito Federal, acuerdos, programas, circulares, autorizaciones, manuales, lineamientos y demás disposiciones jurídicas aplicables, será de 24 veces la Unidad de Cuenta de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 44.
 
-La multa por no portar holograma de verificación vehicular, el certificado de verificación y/o cualquier otro documento que se requiera para acreditar la aprobación de la verificación vehicular, será de 24 días de Salario Mínimo vigente en el Distrito Federal.
+La multa por no portar holograma de verificación vehicular, el certificado de verificación y/o cualquier otro documento que se requiera para acreditar la aprobación de la verificación vehicular, será de 24 veces la Unidad de Cuenta de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 45.
 
-La multa por circular con vehículos automotores en un día que tengan restringida la circulación conforme a lo dispuesto en la Ley, en este Reglamento, en acuerdos, programas o cualquier otra disposición jurídica aplicable, será de 24 días de Salario Mínimo vigente en el Distrito Federal.
+La multa por circular con vehículos automotores en un día que tengan restringida la circulación conforme a lo dispuesto en la Ley, en este Reglamento, en acuerdos, programas o cualquier otra disposición jurídica aplicable, será de 24 veces la Unidad de Cuenta de la Ciudad de México.
 
 ## TÍTULO QUINTO. DE LA DENUNCIA Y RECURSO DE INCONFORMIDAD
 
@@ -503,3 +787,21 @@ SEXTO.- Los responsables de los Centros de Verificación deberán presentar a la
 SÉPTIMO.- Los responsables de los Centros de Verificación deberán presentar a la Secretaría la plantilla de su personal, que incluya funciones, horario de labores y fotografía reciente, dentro de los treinta días naturales contados a partir del día de la entrada en vigor de este Reglamento.
 
 Dado en la Ciudad de México, a los dieciseis días del mes de octubre del año dos mil doce.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA TERESA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, RAÚL ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 7 DE AGOSTO DE 2015.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO.- La obligación de los Centros de Verificación a que refiere el Artículo 23 Fracción II relativo a la implementación de una bitácora de control digital en tiempo real, entrará en vigor a partir del 1 de enero de 2016.
+
+QUINTO.- La obligación de los Centros de Verificación a que refiere el Artículo 23 Fracción XXX relativo a la obligación de instalar un sistema de cerraduras digitales que permitan la apertura de los equipos de verificación mediante código o clave, entrará en vigor a partir del día 1 de enero de 2016.
+
+SEXTO.- En tanto surta efectos el plazo señalado en el transitorio anterior, la obligación que deberán cumplir los Centros de Verificación al respecto, será el resguardar dentro de las instalaciones del Centro de Verificación un duplicado de las llaves de los equipos de verificación, con el único fin de que la Secretaría pueda abrir los equipos y realizar las acciones de inspección y vigilancia que ordene, por lo que, deberán estar disponibles en todo momento para dicha Dependencia y resguardadas en un sobre entre sellado y firmado por personal autorizado o comisionado para tal efecto por la Secretaría, ello para garantizar que no sea abierto por personas distintas que no estén autorizadas o facultadas para abrir los equipos de verificación. La llave original la deberá conservar el proveedor correspondiente, quien será en todo momento responsable de su guarda y estará obligado a entregarla a la Secretaría cuando esta se la requiera. Si durante una visita de inspección no son proporcionadas las llaves al personal de la Secretaría, los inspectores podrán proceder a imponer las medidas de seguridad que correspondan, tal como la clausura total o parcial del equipo y en su caso, del Centro de Verificación.
+
+SÉPTIMO.- Los procedimientos administrativos que se encuentren en trámite se resolverán de conformidad con la normatividad vigente en el momento de su inicio.
