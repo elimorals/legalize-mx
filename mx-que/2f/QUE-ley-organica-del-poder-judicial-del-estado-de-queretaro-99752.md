@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-judicial-del-estado-de-queretaro-99752"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-03-20"
-last_updated: "2015-03-27"
+last_updated: "2015-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO EN LO RELATIVO A LA IMPLEMENTACIÓN DEL SISTEMA PENAL ACUSATORIO ADVERSARIAL, LA VIGENCIA SERÁ GRADUAL Y REGIONAL, DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE ESTA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 20 DE MARZO DE 2014.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 20 de marzo de 2014.
 
@@ -2539,9 +2539,9 @@ a) El 02 de junio de 2014: en los Distritos Judiciales de San Juan del Río, que
 
 b) El 29 de septiembre de 2014: en los Distritos Judiciales de Cadereyta de Montes, que comprende los Municipios de Cadereyta de Montes, Ezequiel Montes y San Joaquín; Tolimán que abarca los Municipios de Tolimán, Colón y Peñamiller; y Jalpan de Serra que está integrado por los Municipios de Jalpan de Serra, Pinal de Amoles, Landa de Matamoros y Arroyo Seco.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2015)</small>
 
-c) El 1 de septiembre de 2015: en el Distrito Judicial de Querétaro, que comprende los Municipios de Querétaro, El Marqués y Corregidora.
+c) En el Distrito Judicial de Querétaro, que comprende los Municipios de Querétaro, El Marqués y Corregidora, conforme al Acuerdo que emita la Comisión para la Implementación de la Reforma Penal y la Modernización de la Justicia en el Estado de Querétaro.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -2618,3 +2618,9 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. En seguimiento al proceso de implementación del Sistema Procesal Penal Acusatorio en el Estado, los días 14, 15 y 16 de abril de 2015, se desahogarán reuniones de trabajo en las que la Comisión para la Implementación de la Reforma Penal y la Modernización de la Justicia en el Estado de Querétaro (CEI), presentará ante las Comisiones de Administración y Procuración de Justicia y de Planeación y Presupuesto de la Quincuagésima Séptima Legislatura del Estado de Querétaro, los avances y proyecciones para el inicio de operación del mencionado Sistema en el Distrito Judicial de Querétaro. En las reuniones participarán con sus exposiciones, el día 14 el Procurador General de Justicia; el día 15 el Presidente del Tribunal Superior de Justicia; y el día 16 el Secretario de Planeación y Finanzas del Poder Ejecutivo, todos del Estado de Querétaro.
+
+P.O. 7 DE AGOSTO DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
