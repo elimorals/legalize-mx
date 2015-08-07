@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2015-08-06"
+last_updated: "2015-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE AGOSTO DE 2015 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 7 DE AGOSTO DE 2015.</small>
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1411,9 +1411,13 @@ Los ingresos del Consejo Estatal de Población, así como los productos e instru
 
 82.- El Registro Estatal de Inspectores es un sistema tecnológico dirigido, coordinado y operado por la Secretaría de la Contraloría del Estado de México, mediante el cual las dependencias y organismos auxiliares de la Administración Pública Estatal registran los datos relativos a las órdenes de visitas, inspecciones o verificaciones que llevan a cabo las autoridades, con el fin de que los sujetos a quienes van dirigidas o los involucrados constaten en tiempo real su autenticidad.
 
-La Secretaría de la Contrataría (sic) podrá celebrar convenios que coadyuven al objeto del Registro Estatal de Inspectores con otros poderes públicos del Estado de México, ayuntamientos, entidades públicas federales y estatales, así como con organismos autónomos, con la finalidad de mantener actualizado dicho Registro Estatal.
+> <small>(F. DE E., G.G. 7 DE AGOSTO DE 2015)</small>
 
-La Secretaría vigilará que el sistema de consulta se encuentre en funcionamiento, para que la información proporcionada por las autoridades, pueda ser consultada en tiempo real.
+La Secretaría de la Contraloría podrá celebrar convenios que coadyuven al objeto del Registro Estatal de Inspectores con otros poderes públicos del Estado de México, ayuntamientos, entidades públicas federales y estatales, así como con organismos autónomos, con la finalidad de mantener actualizado dicho Registro Estatal.
+
+> <small>(F. DE E., G.G. 7 DE AGOSTO DE 2015)</small>
+
+La Secretaría de la Contraloría vigilará que el sistema de consulta se encuentre en funcionamiento, para que la información proporcionada por las autoridades, pueda ser consultada en tiempo real.
 
 # LIBRO SEGUNDO. De la salud
 
@@ -3233,7 +3237,7 @@ VII. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
 76.- Se sancionará con arresto hasta por treinta y seis horas:
 
-I. A la persona que interfiera o se oponga al ejercicio de las funciones de la autoridad sanitaria; y
+I. A la persona que interfiera o se oponga al ejercicio de las funciones de la autoridad sanitaria;
 
 II. A la persona que en rebeldía se niegue a cumplir los requerimientos y disposiciones de la autoridad sanitaria, provocando con ello un peligro a la salud de las personas.
 
@@ -11675,15 +11679,15 @@ Tratándose de particulares cuyas operaciones consten en documentos privados, la
 
 ###### Artículo 14.
 
-29.- Se crea el Registro Estatal de Investigaciones en materia Geográfica, Estadística y Catastral que tiene por objeto acumular, administrar y divulgar el conocimiento sobre los hechos y fenómenos geográficos, sociales, demográficos y económicos que ocurren en el territorio.
-
-Las dependencias, entidades y unidades administrativas de los poderes Legislativo, Ejecutivo y Judicial y de los ayuntamientos, deberán inscribir en el Registro al que alude el párrafo anterior, los estudios e investigaciones que realicen en materia de este Libro. Tratándose de particulares, instituciones públicas y privadas, y de cualquier otra persona distinta del poder público del Estado de México, podrán inscribir los estudios e investigaciones de referencia, previo cumplimiento de los requisitos y derechos que se determinen conforme al reglamento de este Libro.
+30.- Las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial y las unidades administrativas de la administración pública municipal, deberán solicitar al IGECEM términos de referencia y autorización para la realización o contratación de estudios o investigaciones materia de este Libro, a efecto de mantener la homogeneidad, congruencia, veracidad y comparabilidad de la información.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 14.
 
-30.- Las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial y las unidades administrativas de la administración pública municipal, deberán solicitar al IGECEM términos de referencia y autorización para la realización o contratación de estudios o investigaciones materia de este Libro, a efecto de mantener la homogeneidad, congruencia, veracidad y comparabilidad de la información.
+29.- Se crea el Registro Estatal de Investigaciones en materia Geográfica, Estadística y Catastral que tiene por objeto acumular, administrar y divulgar el conocimiento sobre los hechos y fenómenos geográficos, sociales, demográficos y económicos que ocurren en el territorio.
+
+Las dependencias, entidades y unidades administrativas de los poderes Legislativo, Ejecutivo y Judicial y de los ayuntamientos, deberán inscribir en el Registro al que alude el párrafo anterior, los estudios e investigaciones que realicen en materia de este Libro. Tratándose de particulares, instituciones públicas y privadas, y de cualquier otra persona distinta del poder público del Estado de México, podrán inscribir los estudios e investigaciones de referencia, previo cumplimiento de los requisitos y derechos que se determinen conforme al reglamento de este Libro.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
