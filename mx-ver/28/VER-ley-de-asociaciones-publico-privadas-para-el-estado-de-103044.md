@@ -4,7 +4,7 @@ identifier: "VER-ley-de-asociaciones-publico-privadas-para-el-estado-de-103044"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-24"
-last_updated: "2014-10-24"
+last_updated: "2015-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103044&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE ASOCIACIONES PÚBLICO-PRIVADAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE AGOSTO DE 2015.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 24 de octubre de 2014.
 
@@ -70,6 +70,10 @@ Los esquemas de asociación público-privada regulados en la presente Ley, son o
 También podrán ser proyectos de asociación público-privada los que se realicen en los términos de esta ley, con cualquier esquema de asociación para desarrollar proyectos de investigación aplicada y/o de innovación tecnológica.
 
 En este último caso, las dependencias y entidades optarán en igualdad de condiciones, por el desarrollo de proyectos con instituciones de educación superior y centros de investigación científico-tecnológicas públicas del Estado, promoviendo la participación de las micro, pequeñas y medianas empresas de la entidad.
+
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
+Los esquemas de asociación pública-privada podrán contar con fuentes de financiamiento y de pago que el Estado y/o las entidades y dependencias estatales y municipales obtengan de la Federación, Entidad o Municipio, mediante la aplicación de las disposiciones que sean aplicables, así como otro tipo de recursos provenientes de actividades productivas de las que se puedan obtener recursos adicionales para el Estado de Veracruz.
 
 ###### Artículo 3.
 
@@ -555,9 +559,11 @@ Para facilitar el concurso, previo al acto de presentación y apertura de las pr
 
 Los concursos tendrán una o más etapas de consultas y aclaraciones, en las que la convocante contestará por escrito las dudas y preguntas que los participantes hayan presentado. Entre la última junta de aclaraciones y el acto de presentación de las propuestas deberá existir plazo suficiente para la presentación de las propuestas. De ser necesario, la fecha señalada en la convocatoria para la presentación y apertura de las propuestas podrá diferirse.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 48.
 
-La Dependencia, Entidad o el Municipio convocante, llevará a cabo la revisión preliminar respecto de la especialidad, experiencia y capacidad de los interesados, así como de la documentación distinta a la propuesta técnica y económica, previo al acto de presentación y apertura de propuestas, en las fechas y horas que se indicarán en las bases del concurso.
+Si la Dependencia, Entidad o el Municipio convocante lo estima necesario y se establece en las bases, llevará a cabo una revisión preliminar respecto de la especialidad, experiencia y capacidad de los interesados, así como de la documentación distinta a la propuesta técnica y económica, previo al acto de presentación y apertura de propuestas, en las fechas y horas que se indicarán en las bases del concurso.
 
 La revisión preliminar se llevará a cabo de conformidad con lo siguiente:
 
@@ -587,9 +593,11 @@ Para intervenir en el acto de presentación y apertura de las propuestas bastar�
 
 ### CAPÍTULO CUARTO. DE LA EVALUACIÓN DE LAS PROPUESTAS Y FALLO DEL CONCURSO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 50.
 
-En la evaluación de las propuestas, la Dependencia, Entidad o el Municipio tendrán la obligación de verificar que cumplan con los requisitos señalados en las bases y que contengan elementos suficientes para desarrollar el proyecto.
+Para la evaluación, la Dependencia, Entidad o Municipio podrá utilizar mecanismos de puntos y porcentajes, así como de costobeneficio, o aquellos que sean necesarios y que estén incorporados en las bases en tanto que sean claros, cuantificables y permitan una comparación objetiva e imparcial de las propuestas.
 
 Solo deberán considerarse los criterios establecidos en las propias bases, siempre que sean claros y detallados y permitan una evaluación objetiva sin detrimento, dolo o a favor de alguno de los participantes.
 
@@ -599,9 +607,11 @@ Cuando la Dependencia, Entidad o el Municipio tenga la necesidad de solicitar ac
 
 En ningún caso estas solicitudes deberán dar lugar a cambiar la propuesta originalmente presentada, ni vulnerar los principios señalados en el Artículo 35 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 52.
 
-Realizada la evaluación de las propuestas, el proyecto se adjudicará al participante que haya presentado la mejor propuesta solvente, que solicite la menor subvención de recursos públicos u otorgue la mayor contraprestación económica a la Dependencia, la Entidad o el Municipio; cumpliendo los requisitos legales, técnicos y económicos, conforme a los criterios establecidos en las bases del concurso.
+Realizada la evaluación de las propuestas, el proyecto se adjudicará al participante que haya presentado la mejor propuesta solvente, por cumplir los requisitos legales, técnicos y económicos, conforme a los criterios establecidos en las bases del concurso.
 
 Si resultare que dos o más propuestas son solventes por satisfacer los requisitos solicitados, el proyecto se adjudicará a la propuesta que asegure las mejores condiciones económicas para la Dependencia, Entidad o el Municipio, conforme a lo previsto en los propios criterios de evaluación señalados en las bases del concurso.
 
@@ -787,9 +797,11 @@ Cuando el contrato o concesión del proyecto de asociación público-privada se 
 
 ### CAPÍTULO SEGUNDO. DE LOS PROYECTOS DE ASOCIACIÓN PÚBLICO-PRIVADA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 78.
 
-El contrato de proyecto de asociación público-privada o concesión solo podrá celebrarse con el Inversionista Promovente que constituya una persona moral cuyo objeto social o fines sean, de manera exclusiva, realizar aquellas actividades necesarias para desarrollar el proyecto respectivo.
+Si la Dependencia, Entidad o Municipio lo estima pertinente, el contrato de proyecto de asociación público-privada o concesión solo podrá celebrarse con el Inversionista Promovente que constituya una persona moral cuyo objeto social o fines sean, de manera exclusiva, realizar aquellas actividades necesarias para desarrollar el proyecto respectivo.
 
 Las bases del concurso señalarán el capital mínimo sin derecho a retiro, limitaciones estatutarias y demás requisitos que dicha sociedad deberá cumplir.
 
@@ -881,7 +893,9 @@ En los términos y condiciones establecidos en las bases del concurso, la Depend
 
 A los inmuebles, bienes y derechos del dominio público que formen parte de un proyecto de asociación público-privada, les será aplicable la legislación estatal que los regula.
 
-Los demás inmuebles, bienes y derechos incorporados a la infraestructura o necesarios para la prestación de los servicios del proyecto, no podrán ser enajenados, hipotecados, gravados o de cualquier manera afectarse, sin previa autorización expresa y por escrito de la Dependencia, Entidad o el Municipio.
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
+Los demás inmuebles, bienes y derechos incorporados a la infraestructura o necesarios para la prestación de los servicios del proyecto, no podrán ser enajenados, hipotecados, gravados o de cualquier manera afectarse, sin previa autorización expresa y por escrito de la Dependencia, Entidad o el Municipio, en tanto que dichos bienes estén destinados a formar parte del patrimonio de la Dependencia, Entidad o Municipio, y con ello se afecte las condiciones pactadas en el Contrato o Concesión, o mientras estén vigentes estos instrumentos.
 
 Lo anterior, sin perjuicio de las demás autorizaciones que, conforme a las disposiciones aplicables, correspondan a otra Dependencia, Entidad o el Municipio competente.
 
@@ -1153,6 +1167,10 @@ XIII. Por no proporcionar la información requerida por la autoridad o impedir o
 
 XIV. Por no cumplir con el pago de la contraprestación inicial estipulada en el Título de Concesión en favor de la Dependencia, Entidad o el Municipio que la hubiese otorgado, en un plazo máximo de un año, y de seis meses en el caso de la contraprestación anual, a que tuviera derecho la Dependencia, Entidad o el Municipio.
 
+> <small>(ADICIONADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+XV. Por no cumplir con la prestación de los Servicios con la calidad y puntualidad establecidos en el contrato o concesión, por causas imputables al Inversionista Promovente o Concesionario.
+
 ###### Artículo 115.
 
 El titular de una concesión o permiso que hubiere sido revocado, estará imposibilitado para obtener otro nuevo, dentro de un plazo no menor al cincuenta por ciento del plazo original del título de concesión que hubiera incumplido, dicho plazo se contará a partir de que hubiere quedado firme la resolución respectiva.
@@ -1374,3 +1392,13 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+G.O. 7 DE AGOSTO DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 589 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ASOCIACIONES PÚBLICO-PRIVADAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
