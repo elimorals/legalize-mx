@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-prevencion-y-atencion-de-la-violencia-intrafamiliar-2519
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-27"
-last_updated: "2006-09-15"
+last_updated: "2015-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE CAMPECHE
 
-LEY DE PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE CAMPECHE
+LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 7 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR 15 DÍAS DESPUÉS DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 27 de junio de 2002.
 
@@ -151,7 +153,7 @@ X (SIC). Evaluar trimestralmente los logros y avances del Programa Integral;
 
 XI. Elaborar un informe anual de sus actividades;
 
-XII. Promover la creación de un Patronato que auxilie al Consejo en sus fines; y (sic)
+XII. Promover la creación de un Patronato que auxilie al Consejo en sus fines; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE SEPTIEMBRE DE 2006)</small>
 
@@ -257,39 +259,37 @@ IV. Promover ante la misma Coordinación que incluya en su programa de formació
 
 Los órganos jurisdiccionales cuando, con motivo de los procesos de que conozcan, adviertan la existencia de actos de violencia intrafamiliar, podrán solicitar al Sistema D.I.F. o, en su caso, a las instituciones debidamente acreditadas ante el Consejo, la realización de los estudios e investigaciones correspondientes, para que les remitirán (sic) los informes, dictámenes o procesos psicoterapéuticos de agresores y receptores de violencia intrafamiliar y, en general, todos aquellos que les sean de utilidad.
 
-## Título Cuarto. De los Procedimientos de Conciliación y de Amigable Composición
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE AGOSTO DE 2015)</small>
 
-### Capítulo I. Del Procedimiento Conciliatorio y la Amigable Composición
+## Título Cuarto. De las Infracciones y Sanciones y de los Recursos
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 2015)</small>
+
+### Capítulo I
 
 ###### Art. 17.
 
-Las partes en un conflicto familiar podrán resolver sus diferencias mediante los procedimientos de conciliación y de amigable composición, que estarán a cargo del Sistema D.I.F. y de sus homólogos municipales, a través de sus respectivas Procuradurías de la Defensa del Menor, la Mujer y la Familia o de sus Procuradurías Auxiliares, según sea el caso. Quedan exceptuadas aquellas controversias que versen sobre acciones o derechos del estado civil o delitos que se persigan de oficio.
+(DEROGADO, P.O. 7 DE AGOSTO DE 2015)
 
 ###### Art. 18.
 
-Los procedimientos de solución de los conflictos familiares a que se refiere el artículo anterior, se llevarán a cabo en una única audiencia. La amigable composición y la conciliación podrán suspenderse, por una sola vez, a efecto de reunir todos los elementos de convicción necesarios para apoyar las propuestas de las partes. En todo caso, tratándose de menores, antes de establecer la conciliación o de resolver en amigable composición, deberá oírseles atendiendo a su edad y condición, a fin de que su opinión sea tomada en cuenta en todos los asuntos que les afecten.
+(DEROGADO, P.O. 7 DE AGOSTO DE 2015)
 
 ###### Art. 19.
 
-Al iniciarse la audiencia de conciliación, el conciliador procederá a buscar la aveniencia entre las partes, proporcionándoles toda clase de alternativas, exhortándolos a que lo hagan, dándoles a conocer las consecuencias en caso de continuar el conflicto. Una vez que las partes lleguen a una conciliación, se celebrará el convenio correspondiente, que será firmado por quienes intervengan en el mismo.
+(DEROGADO, P.O. 7 DE AGOSTO DE 2015)
 
 ###### Art. 20.
 
-De no verificarse el supuesto anterior, el Sistema D.I.F. procederá, una vez que las partes hubiesen decidido de común acuerdo y por escrito someterse a la amigable composición, a iniciar el procedimiento que conducirá a una determinación que será de carácter obligatorio y exigible para ambas partes. También deberá hacerse del conocimiento de las partes acerca de las consecuencias que puede generar el incumplimiento de las determinaciones de las autoridades administrativas o judiciales.
+(DEROGADO, P.O. 7 DE AGOSTO DE 2015)
 
 ###### Art. 21.
 
-El procedimiento, ante el amigable componedor, se verificará en la siguiente forma:
-
-I. Se iniciará con la comparecencia de ambas partes, o con la presentación de la constancia administrativa que señala la fracción IV del artículo 13 de esta ley, que contendrá los datos generales y la relación sucinta de los hechos, así como la aceptación expresa de someterse al procedimiento;
-
-II. Las partes, en dicha comparecencia, ofrecerán las pruebas que a su derecho convenga, a excepción de la confesional, pudiendo auxiliarse el amigable componedor de todos los medios de prueba que estén reconocidos legalmente y que le permitan emitir su determinación, aplicándose supletoriamente el Código de Procedimientos Civiles para el Estado; y
-
-III. Una vez admitidas y desahogadas las pruebas, se recibirán los alegatos verbales de las partes, quedando asentados en autos, procediendo el amigable componedor a celebrar el convenio correspondiente si aquéllas hubiesen llegado a un acuerdo, y firmarán ambas dicho instrumento, el que tendrá el carácter de cosa juzgada, será obligatorio y exigible para las partes. En caso contrario, el amigable componedor emitirá la resolución correspondiente dentro de las veinticuatro horas siguientes.
+(DEROGADO, P.O. 7 DE AGOSTO DE 2015)
 
 ###### Art. 22.
 
-Cuando alguna de las partes incumpla con las obligaciones y deberes establecidos en los convenios o en la resolución del amigable componedor, en los términos previstos en la Legislación Civil del Estado, el interesado podrá acudir ante la autoridad jurisdiccional respectiva para su ejecución.
+(DEROGADO, P.O. 7 DE AGOSTO DE 2015)
 
 ### Capítulo II. De las Infracciones y Sanciones
 
@@ -367,10 +367,16 @@ En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII d
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los veinticinco días del mes de Junio del año dos mil dos.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, L.A. JOSE ANTONIO GONZALEZ CURI.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS FELIPE ORTEGA RUBIO.- RUBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 15 DE SEPTIEMBRE DE 2006.
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 7 DE AGOSTO DE 2015.
+
+Primero.- El presente decreto entrará en vigor 15 días después de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
