@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-del-tribunal-electoral-del-poder-70365"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-09"
-last_updated: "2011-12-23"
+last_updated: "2015-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70365&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2009-09-30"
 
 REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE DICIEMBRE DE 2011.
+N DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, PUBLICADO EN EL D.O.F. DE 7 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 9 de octubre de 2009.
 
@@ -803,7 +805,7 @@ VII. Llevar a cabo el trámite del registro de las obras que edite el Tribunal E
 
 VIII. Representar legalmente los intereses del Tribunal Electoral conforme a los poderes que le otorgue el Presidente;
 
-IX. Elaborar y, en su caso, actualizar el proyecto de manual especifico de organización de la Coordinación, así como de los lineamientos y procedimientos que regulen el funcionamiento de sus áreas, para su aprobación por las instancias competentes, y (sic)
+IX. Elaborar y, en su caso, actualizar el proyecto de manual especifico de organización de la Coordinación, así como de los lineamientos y procedimientos que regulen el funcionamiento de sus áreas, para su aprobación por las instancias competentes, y
 
 > <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2011)</small>
 
@@ -2584,3 +2586,21 @@ PRIMERO. Las presentes reformas entrarán en vigor partir de la fecha de su publ
 SEGUNDO. Una vez aprobadas las presentes reformas, se deberá actualizar la normativa interna al texto del Reglamento modificado.
 
 TERCERO. Publíquese la presente reforma en el en el (sic) Diario Oficial de la Federación, en la Gaceta de Jurisprudencia y Tesis en Materia Electoral, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 7 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interno del Tribunal Electoral del Poder Judicial de la Federación publicado en el Diario Oficial de la Federación el nueve de octubre de dos mil nueve; así como sus reformas y adiciones.
+
+TERCERO. Una vez aprobado el presente Reglamento, se deberá armonizar la normativa interna que se oponga al mismo.
+
+CUARTO. Las dos Salas Regionales creadas mediante la reforma a la Ley Orgánica publicada en el Diario Oficial de la Federación el 23 de mayo de 2014 entrarán en funcionamiento en el mes de septiembre de 2017, de conformidad con lo dispuesto por el artículo Segundo Transitorio de dichas Reformas. El Tribunal Electoral, gestionará en su oportunidad los trámites relativos y los recursos presupuestales para su funcionamiento. La Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación deberá establecer la sede de las Salas Regionales a que hace referencia el artículo 46 del presente Reglamento antes de su entrada en funcionamiento. Durante este término el Tribunal Electoral atenderá mediante las actuales seis Salas Regionales el desahogo de los trámites correspondientes a la totalidad de las circunscripciones que operan en el país.
+
+QUINTO. Los Órganos de Transparencia seguirán funcionando de conformidad con las disposiciones normativas vigentes al momento de la aprobación del presente Reglamento; una vez que se dé cumplimiento a lo dispuesto en los artículos Cuarto, Quinto y Octavo Transitorios de la Ley General de Transparencia y Acceso a la Información Pública, deberán iniciarse los trabajos para elaborar y, en su caso, presentar a las instancias competentes las modificaciones pertinentes al presente Reglamento y a la demás normativa del Tribunal Electoral en materia de transparencia, acceso a la información y protección de datos personales.
+
+SEXTO. La Comisión de Administración, dentro de los seis meses siguientes a la entrada en vigor del presente Reglamento, emitirá los acuerdos generales a que se refieren los artículos 62, 64 y 173, y su puesta en marcha iniciará con el servicio civil de carrera administrativa de la Contraloría Interna. Las unidades administrativas del Tribunal Electoral, en el ámbito de sus competencias, deberán prever los recursos financieros necesarios para tal efecto. Sin perjuicio de lo anterior, se realizarán las acciones conducentes para implementar, en una primera etapa, los procesos de capacitación, evaluación y certificación de las y los servidores públicos encargados del control y evaluación, auditoría y responsabilidades de la Contraloría Interna, y de los servidores públicos de la Coordinación de Adquisiciones, Servicios y Obra Pública que intervengan en los procedimientos de adquisición de bienes, la contratación de servicios, el arrendamiento de bienes muebles, la obra pública y los servicios relacionados con la misma.
+
+SÉPTIMO. La Sala Superior y la Comisión de Administración emitirán los acuerdos generales necesarios para que en la integración de los órganos colegiados, unidades administrativas y áreas auxiliares y de apoyo de la Presidencia, Comisión de Administración, Secretaría General de Acuerdos y la Secretaría Administrativa, se cumpla con el principio de paridad, respetando en todo momento los derechos laborales.
+
+OCTAVO. Publíquese el presente Reglamento en el Diario Oficial de la Federación y en la Gaceta de Jurisprudencia y Tesis en Materia Electoral. Dado en la sede de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, a los 29 días del mes de julio de dos mil quince.
