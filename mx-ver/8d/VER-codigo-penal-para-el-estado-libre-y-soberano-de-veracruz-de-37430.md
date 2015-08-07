@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2015-07-20"
+last_updated: "2015-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE AGOSTO DE 2015.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -6989,6 +6989,10 @@ A quienes asalten, haciendo uso de la violencia física o moral, a los habitante
 
 A quien mediante violencia física o moral obligue a otro a dar, hacer o dejar de hacer algo, se le impondrán prisión de seis meses a dos años y multa hasta de cuarenta días de salario.
 
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
+Las penas a que hace referencia el presente artículo se duplicarán si se comete por un servidor público, a quien se le sancionará, sin perjuicio de las sanciones administrativas que correspondan, con destitución e inhabilitación de tres a seis años para desempeñar empleo, cargo o comisión públicos.
+
 ###### Artículo 173.
 
 Las mismas sanciones previstas en el artículo anterior, se aplicarán a quien amenace a otro con causarle un mal futuro en su persona o derechos, o en la de otra con la que tenga algún vínculo. Este delito se perseguirá por querella.
@@ -7643,7 +7647,9 @@ A quien, artificiosamente, se coloque en estado de insolvencia, con el objeto de
 
 A quien por cualquier medio obligue a otro a dar, hacer, o dejar de hacer algo, contra sus propios bienes patrimoniales o los de un tercero, para procurarse a sí mismo o a otro un lucro indebido, se le impondrán de tres a diez años de prisión y multa hasta de quinientos días de salario.
 
-Las penas se aumentarán en una mitad si la extorsión se comete por un servidor público, a quien se le sancionará, además, con destitución e inhabilitación de uno a seis años para desempeñar empleo, cargo o comisión públicos.
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
+Las penas se duplicarán si la extorsión se comete por un servidor público, a quien se le sancionará además, sin perjuicio de las sanciones administrativas que correspondan, con destitución e inhabilitación de tres a seis años para desempeñar empleo, cargo o comisión públicos.
 
 > <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2008)</small>
 
@@ -8731,9 +8737,9 @@ g). Que la víctima se encuentre en una situación de vulnerabilidad. Se conside
 
 Se impondrán de uno a ocho años de prisión y multa hasta de doscientos días de salario al servidor público que deje de cumplir con los deberes inherentes a su empleo, cargo o comisión en perjuicio de los derechos de un tercero o en beneficio propio o ajeno.
 
-> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
 
-Se impondrán de cinco a ocho años de prisión e inhabilitación para el ejercicio de empleos, cargos o comisiones en el servicio público a la autoridad que, teniendo la obligación de evitar o investigar la comisión del delito de feminicidio o de cualquier otro de los señalados en el Título XXI Delitos de Violencia de Género de este Código, mediando el dolo o discriminación de género, no lo hiciere o incurriere en acciones u omisiones que tengan como consecuencia la perpetuación de las condiciones que faciliten la comisión del delito.
+Se impondrán de cinco a ocho años de prisión e inhabilitación para el ejercicio de empleos, cargos o comisiones en el servicio público, a la autoridad que retarde u obstaculice la prevención, investigación, sanción y reparación, del delito de feminicidio o de cualquier otro de los señalados en el título XXI, Delitos de violencia de género, de este Código, mediando la discriminación de género o incurra en acciones u omisiones que tengan como consecuencia la perpetuación de las condiciones que faciliten la comisión de estos delitos.
 
 ###### Artículo 320.
 
@@ -8761,7 +8767,9 @@ I. El servidor público que por sí o por interpósita persona solicite o reciba
 
 II. Quien de manera espontánea dé u ofrezca, por sí o por interpósita persona, dinero o cualquier otra dádiva al servidor público, para los fines a que se refiere la fracción anterior.
 
-Cuando el dinero, dádiva o servicios de que se trate, sea inferior al equivalente de mil días de salario, se aplicará prisión de uno a siete años y multa hasta de doscientos días de salario. Cuando el equivalente rebase los mil días de salario, la sanción será de tres a diez años de prisión y multa hasta de seiscientos días de salario.
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
+
+Cuando el dinero, dádiva o servicios de que se trate sea inferior al equivalente de mil días de salario, se aplicará prisión de tres a siete años y multa hasta de cuatrocientos días de salario. Cuando el equivalente rebase los mil días de salario, la sanción será de cinco a diez años de prisión y multa hasta de setecientos días de salario.
 
 El dinero o dádivas entregadas, en su caso, se aplicarán en beneficio de la Asistencia Pública del Estado.
 
@@ -9656,6 +9664,26 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. El Ejecutivo del Estado deberá adecuar el Reglamento sobre Bebidas Alcohólicas para el Estado de Veracruz de Ignacio de la Llave, en un plazo no mayor a noventa días, a partir de la publicación del presente Decreto.
 
 Tercero. Se deroga cualquier disposición que se contraponga al presente Decreto.
+
+G.O. 7 DE AGOSTO DE 2015.
+
+DECRETO NÚMERO 586 POR EL QUE SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 220, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 322; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 172, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se otorga un término de noventa días al Ejecutivo del Estado para la adecuación de sus reglamentos y demás disposiciones conducentes.
+
+TERCERO. Se derogan todas las disposiciones que se contrapongan al presente Decreto.
+
+CUARTO. El Secretario de Seguridad Pública del Estado, en términos de la normativa aplicable, presentará un reporte trimestral al Ejecutivo del Estado, sobre el estado que guarden los procedimientos de quejas ciudadanas y denuncias instauradas ante la Comisión de Honor y Justicia a que hace referencia la Ley del Sistema Estatal de Seguridad Pública.
+
+G.O. 7 DE AGOSTO DE 2015.
+
+DECRETO NÚMERO 590 POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 319 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ###### Art. 1o.
 
