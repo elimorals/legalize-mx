@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-para-el-municipio-de-mexicali-baja-22978
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2013-01-11"
+last_updated: "2015-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRÁNSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2015.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -145,9 +145,21 @@ XXVII.- Vías de acceso controlado.- Aquéllas en que la entrada o salida de los
 
 XXVIII.- Vías de pistas separadas.- Aquellas que tienen la superficie de rodamiento dividida longitudinalmente en dos o más partes, de modo que los vehículos no puedan pasar de una parte a otra, excepto en los lugares destinados al efecto;
 
-XXIX.- Vía pública.- Es todo espacio de uso común destinado al tránsito de peatones y de vehículos, entre los que se encuentran las banquetas, intersecciones, camellones, plazas, glorietas, paseos, puentes, calles, avenidas, calzadas, vías de transporte colectivo, bulevares, periféricos, caminos vecinales y carreteras; y,
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2015)</small>
 
-XXX.- Zona de paso o cruce de peatones.- Área demarcada sobre la superficie de rodamiento de una vía pública, destinada para el uso exclusivo de peatones.
+XXIX.- Vía pública.- Es todo espacio de uso común destinado al tránsito de peatones y de vehículos, entre los que se encuentran las banquetas, intersecciones, camellones, plazas, glorietas, paseos, puentes, calles, avenidas, calzadas, vías de transporte colectivo, bulevares, periféricos, caminos vecinales y carreteras;
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2015)</small>
+
+XXX.- Zona de paso o cruce de peatones.- Área demarcada sobre la superficie de rodamiento de una vía pública, destinada para el uso exclusivo de peatones;
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2015)</small>
+
+XXXI.- Boleta de infracción.- Documento escrito o impreso en el cual se da cuenta de los hechos sucedidos ante cualquier infracción al presente reglamento; y,
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2015)</small>
+
+XXXII.- Dispositivos Tecnológicos.- Aquellos dispositivos electrónicos o electromagnéticos que sirvan para regular, dirigir, vigilar e inspeccionar el tránsito de vehículos y peatones, así como el transporte.
 
 ###### ARTÍCULO 5.
 
@@ -241,7 +253,7 @@ I.- Cuando haya estado implicado en un accidente de tránsito del que hubieren r
 
 > <small>(REFORMADA, P.O. 11 DE ENERO DE 2013)</small>
 
-II.- Cuando lo solicite el Juez Calificador y/o Agente de la Dirección de Seguridad Pública Municipal; y, (sic)
+II.- Cuando lo solicite el Juez Calificador y/o Agente de la Dirección de Seguridad Pública Municipal; y,
 
 III.- (DEROGADA, P.O. 11 DE ENERO DE 2013)
 
@@ -561,6 +573,10 @@ Las placas se instalarán en el lugar del vehículo destinado para ello por los 
 
 Las placas deberán mantenerse en buen estado de conservación y libres de objetos, leyendas, distintivos, rótulos, micas o dobleces que dificulten o impidan su legibilidad.
 
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2015)</small>
+
+La alteración de las placas de circulación, la portación en lugar distinto al autorizado, será motivo de infracción administrativa, independientemente de la configuración del delito que resulte.
+
 #### SECCIÓN TERCERA. DEL EQUIPO CON QUE DEBEN CONTAR LOS VEHÍCULOS
 
 ###### ARTÍCULO 40.
@@ -702,6 +718,10 @@ II.- Utilizar las sirenas, accesorios, colores y emblemas privativos de los veh�
 III.- La modificación de claxon y silenciadores de escape, así como la instalación de dispositivos que contaminen el ambiente con ruido, como válvulas de escape u otros similares; y,
 
 IV.- Portar en los parabrisas o ventanillas, rótulos, carteles, calcomanías u objetos que obstruyan la visibilidad del conductor.
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2015)</small>
+
+V.- Instalar o utilizar antirradares o detector de radares en los vehículos, asi como cualquier otro mecanismo tendiente a obstaculizar el funcionamiento de cualquier dispositivo tecnológico de control de tránsito.
 
 ###### ARTÍCULO 49.
 
@@ -897,15 +917,51 @@ Los propietarios y conductores de los vehículos serán responsables de las infr
 
 ### CAPÍTULO SEXTO. DE LAS SEÑALES Y DISPOSITIVOS PARA EL CONTROL DEL TRÁNSITO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2015)</small>
+
 ###### ARTÍCULO 59.
 
-La construcción, colocación, características, ubicación, y significado de las señales y dispositivos gráficos o electrónicos para el control del tránsito, deberá sujetarse a lo dispuesto en los manuales y ordenamientos respectivos expedidos por los gobiernos Federal o Estatal, conforme a sus ámbitos de competencia, así como a las disposiciones y manuales que al efecto dicte la Dirección, considerando la opinión del Departamento, o a lo que establezca el presente Reglamento.
+La construcción, colocación, características, ubicación, significado y operación de las señales y dispositivos gráficos o electrónicos para el control del tránsito, deberá sujetarse a lo dispuesto en los manuales y ordenamientos respectivos expedidos por los gobiernos Federal o Estatal, conforme a sus ámbitos de competencia, así como a las disposiciones y manuales que al efecto dicte la Dirección, considerando la opinión del Departamento, o a lo que establezca el presente Reglamento.
 
 Los dispositivos y señales de tránsito no podrán ser obstruidos con publicidad, objetos o señalamientos de cualquier índole. Asimismo, queda prohibido colocar señales, luces o instrumentos que confundan, desorienten o distraigan a los conductores o peatones, poniendo en riesgo su seguridad.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2015)</small>
+
 ###### ARTÍCULO 60.
 
-Para los efectos de este Reglamento las señales y dispositivos para el control del tránsito se clasifican en señales humanas, señales gráficas verticales y horizontales, señales electrónicas, señales sonoras, y señales diversas.
+Para los efectos de este Reglamento las señales y dispositivos para el control del tránsito se clasifican en: señales humanas, señales gráficas verticales y horizontales, señales electrónicas, señales sonoras y señales diversas, así como en los mecanismos, aparatos y sistemas tecnológicos que sirven para regular y dirigir el tránsito.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 60 BIS.- Los dispositivos tecnológicos, son herramienta fundamental en materia de seguridad vial, que contribuyen a la protección de peatones y conductores que circulan dentro del territorio municipal.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 60 TER.- Las autoridades en la materia, podrán hacer uso por si o a través de terceros, de dispositivos tecnológicos que coadyuven con la detección de la comisión de infracciones, la identificación de las personas que las cometan, y con la imposición de dichas infracciones.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 60 QUÁTER.- La información obtenida mediante el uso de dispositivos tecnológicos, únicamente podrá ser utilizada para la sanción de infracciones descritas en el presente Reglamento; su uso y manejo será exclusivo de las autoridades en la materia, de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 60 QUINQUIES.- Los sistemas automatizados servirán a las autoridades de tránsito, para evidenciar los siguientes supuestos:
+
+I.- La mecánica de sucesos en caso de hechos de transito;
+
+II.- La velocidad superior a la máxima permitida para un vehículo;
+
+III.- Falta de observancia a la señalización vial; y,
+
+IV.- Cualquier otra contravención al presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 60 SEXIES.- Las multas impuestas por la autoridad de tránsito y que previamente hayan sido corroboradas mediante dispositivos tecnológicos, tienen el carácter de irrevocables, previo cumplimiento de los requisitos establecidos en este Reglamento según corresponda.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 60 SEPTIES.- Para los efectos del presente capitulo, la Dirección integrara una base de información de los infractores, para efectos de cobro de las multas señaladas en el artículo anterior.
 
 ###### ARTÍCULO 61.
 
@@ -1097,6 +1153,18 @@ Los usuarios de la vía pública deberán abstenerse de todo acto que pueda cons
 
 Si existieran obstáculos en la vía pública y su propietario o responsable no los removiera, la autoridad podrá hacerlo, poniéndolos a disposición de la instancia competente.
 
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 72 BIS.- La Dirección podrá establecer diversos dispositivos tecnológicos para la vigilancia e inspección del tránsito y el transporte, así como el levantamiento de infracciones, haciendo uso de los medios tecnológicos que permitan:
+
+I.- Evitar actos de corrupción durante el ejercicio de la función;
+
+II.- Garantizar a la ciudanía la seguridad jurídica en el desempeño de las funciones de Tránsito y Transporte;
+
+III.- Facilitar y eficientar la aplicación y cumplimiento de las sanciones administrativas que establecen la Ley de Tránsito y Transporte del Estado de Baja California y el presente Reglamento; y
+
+IV.- Alimentar de manera precisa y oportuna el Sistema del Registro Municipal de Antecedentes de Tránsito a que hace referencia el artículo 60 septies del presente reglamento.
+
 ###### ARTÍCULO 73.
 
 Para la realización de caravanas, desfiles y manifestaciones de vehículos y peatones, será necesario dar aviso a la autoridad correspondiente con la suficiente antelación, a efecto de adoptar las medidas tendientes a procurar su protección y a evitar problemas en el tránsito por las vialidades.
@@ -1116,6 +1184,10 @@ IV.- En las vialidades en las que el señalamiento indique otro límite superior
 El Departamento, previo estudio y considerando la opinión de la Dirección, podrá modificar el límite de velocidad establecido en las vías y durante los horarios que lo estime necesario, colocando para el efecto los señalamientos respectivos.
 
 Los conductores están obligados a respetar los límites de velocidad establecidos. Asimismo, queda prohibido conducir a velocidad tan baja que entorpezca el tránsito excepto en aquellos casos en que lo exijan las condiciones de las vías, del tránsito o de la visibilidad.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 74 BIS.- Los Agentes adscritos a la Dirección llevarán a cabo la vigilancia al debido cumplimiento y respeto de las normas establecidas dentro del presente Reglamento, utilizando en su caso, los dispositivos electrónicos o tecnológicos acorde a lo establecido en la Ley Federal Sobre Metrología y Normalización, para determinar infracciones a los límites de velocidad marcados en el artículo que antecede, así como las infracciones por paso de luz roja en semáforo. Las actas o boletas de infracción deberán contener los requisitos que señalan los artículos 138 y 138 bis del Presente Reglamento.
 
 ###### ARTÍCULO 75.
 
@@ -1845,6 +1917,38 @@ e.- Instancias para presentar quejas o denuncias contra la actitud o trato del a
 
 f.- Números telefónicos para aclaraciones o dudas.
 
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 138 BIS.- Las boletas de infracción captadas a través de dispositivos tecnológicos deberán contener para su validez:
+
+I.- Número de placas o matrícula del vehículo;
+
+II.- Nombre y domicilio del propietario del vehículo con el que se cometió la infracción, que aparezca en el registro vehicular correspondiente;
+
+III.- Hechos constitutivos de la infracción, así como el lugar y fecha en que se haya cometido;
+
+IV.- Folio de la boleta de infracción;
+
+V.- Fundamentación y Motivación de la infracción;
+
+VI.- Nombre y clave del dispositivo que capto la infracción;
+
+VII.- Fotografía, grabación o registro con el que se demuestre la conducta infractora; y
+
+VIII.- Nombre y firma digitalizada de la autoridad vial.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 138 TER.- Cuando se trate de infracciones al Reglamento de Tránsito para el Municipio de Mexicali, captadas por cualquier dispositivo tecnológico, estas deberán ser notificadas al propietario del vehículo, quien será en todo caso responsable solidario para efectos del cobro de la infracción.
+
+En caso de notificaciones por correo certificado, cuando no sea posible notificar al propietario del vehículo en el domicilio señalado, se realizara una segunda visita por pate (sic) del servicio de correspondencia; no obstante lo anterior, si no es posible recabarse la firma del destinatario, se atenderá la diligencia con quien en su nombre la reciba o si éstos no se encuentran en el domicilio, se levantará constancia de ello.
+
+Para efectos de este artículo, en el caso de los vehículos registrados en otro Estado, según las prevenciones que existan con relación a la coordinación fiscal, las infracciones podrán ser puestas a disposición y aplicación de la Entidad Federativa correspondiente.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 138 QUÁTER.- Si dentro del histórico que presente un vehículo dentro del Registro Municipal de Antecedentes de Tránsito a que hace referencia el artículo 60 septies del presente reglamento, se desprende que existe una o más infracciones al presente Reglamento, los Agentes podrán notificar al infractor utilizando cualquier dispositivo tecnológico y podrán retener alguna de las placas de circulación del vehículo a efecto de garantizar el pago del adeudo por concepto de multa.
+
 ###### ARTÍCULO 139.
 
 Los agentes o inspectores deberán impedir la circulación de un vehículo y ponerlo a disposición del juez calificador junto con su conductor, en los casos siguientes:
@@ -1893,7 +1997,7 @@ VI.- Cuando el vehículo circule sin ninguna placa de matrícula, o no exhiba el
 
 VII.- Cuando las placas del vehículo no coincidan con los datos impresos en la tarjeta de circulación o no correspondan al vehículo.
 
-En los casos que el vehículo deba retenerse como garantía de pago de infracciones, el juez calificador lo remitirá al depósito vehicular; y, (sic)
+En los casos que el vehículo deba retenerse como garantía de pago de infracciones, el juez calificador lo remitirá al depósito vehicular; y,
 
 VIII.- (DEROGADA, P.O. 11 DE ENERO DE 2013)
 
@@ -1969,9 +2073,17 @@ Las infracciones a las disposiciones del presente Reglamento serán sancionadas 
 
 I.- Amonestación;
 
-II.- Apercibimiento; o,
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2015)</small>
 
-III.- Multa.
+II.- Apercibimiento;
+
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2015)</small>
+
+III.- Multa; o,
+
+> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2015)</small>
+
+IV.- Multa electrónica y/o infracción administrativa captada a traves de dispositivo tecnológico.
 
 (ADICIONADO, P.O. 21 DE FEBRERO DE 2003) (REPUBLICADO, P.O. 7 DE MARZO DE 2003)
 
@@ -1984,6 +2096,14 @@ El beneficio citado anteriormente, no aplicara para las infracciones Medias o Gr
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 2013)</small>
 
 Para recibir el beneficio, el infractor deberá solicitarlo ante el Juzgado Calificador, quien le indicara el horario y lugar para asistir a la sesión de Educación Vial y según la gravedad de las infracciones, acordara la cantidad de horas de trabajo comunitario a cubrir, para que el infractor se presente a la Dirección que corresponda según la actividad por la que opte, en un plazo no mayor de treinta días, deberá regresar con el Juez Calificador, a presentar la constancia de cumplimiento de ambas actividades.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 144 BIS.- Para llevar a cabo cualquier trámite ante la autoridad recaudadora que corresponda, tales como otorgamiento, pago de derechos y los demás que establezca el presente Reglamento, además de los requisitos previstos por la normatividad aplicable a la materia, se deberá contar con la constancia de no adeudo por concepto de multas de tránsito municipales.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 144 TER.- Para realizar los pagos de multas generadas por dispositivos tecnológicos, además de las oficinas recaudadoras que contempla el presente Reglamento; también podrán realizarse en los Centros Autorizados para este fin o bien pago en línea en la plataforma del gobierno municipal.
 
 ###### ARTÍCULO 145.
 
@@ -2170,3 +2290,7 @@ P.O. 11 DE ENERO DE 2013.
 SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
 
 SEGUNDO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 7 DE AGOSTO DE 2015.
+
+ÚNICO.- LAS PRESENTES REFORMAS ENTRARÁN EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
