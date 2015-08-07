@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2014-12-01"
+last_updated: "2015-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -111,47 +111,91 @@ VIII. Impugnar ante la autoridad judicial las omisiones del Ministerio Público 
 
 ### CAPITULO IV. De los Habitantes del Estado, de los Vecinos y de sus Derechos y Obligaciones
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 7.
 
-Son habitantes del Estado todas las personas que radiquen en su territorio.
+En el Estado de Campeche queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+El Estado de Campeche tiene una composición pluriétnica, pluricultural y multilingüística sustentada originalmente en el Pueblo Indígena Maya Peninsular, que desciende de la población que habitaba el territorio actual del Estado de Campeche al iniciarse la colonización y que conserva sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas.
 
-El Estado de Campeche reconoce expresamente, en términos del artículo 2° de la Constitución Política de los Estados Unidos Mexicanos, que el país tiene una composición pluricultural, sustentada en la diversidad de pueblos indígenas que se encuentran asentados y conviven en su territorio, del cual forma parte el propio Estado.
+Asimismo, se reconoce la presencia de otros pueblos indígenas en su territorio, a los que les serán garantizados los derechos establecidos en esta constitución.
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 1996)</small>
+La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas. Las autoridades de las comunidades coadyuvarán en última instancia a este reconocimiento;
 
-En consecuencia, con estricto respeto a los derechos humanos en su concepción de derecho a la existencia cultural alterna, los pueblos indígenas que habitan en la Entidad tienen derecho, dentro de un marco jurídico específico, a desarrollar y fortalecer el control y disfrute de sus recursos naturales, el uso de su lengua propia, sin limitación alguna, sus formas e instituciones de gobierno, sus sistemas normativos y de resolución de conflictos, sus formas particulares de organización social y política, así como sus diversas manifestaciones culturales.
+Son comunidades integrantes de un pueblo indígena, aquellas que formen una unidad social, económica y cultural, asentadas en un territorio y que reconocen autoridades propias de acuerdo con sus usos y costumbres.
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 1996)</small>
+La ley establecerá los mecanismos y criterios para la identificación y delimitación de las mismas, tomando en cuenta además de los anteriores, los criterios etnolingüísticos;
 
-Son objeto de protección, con la participación activa de las comunidades, los recursos naturales, los lugares sagrados y patrimonio cultural de los pueblos indígenas.
+El derecho de los pueblos indígenas a la libre determinación se ejercerá en un marco constitucional de autonomía que asegure la unidad nacional.
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 1996)</small>
+El Estado otorga a las comunidades indígenas la calidad de sujetos de derecho público, con personalidad jurídica y patrimonio propios.
 
-Las leyes del Estado deberán establecer mecanismos que garanticen la efectiva participación de los pueblos indígenas en los distintos ámbitos y niveles de gobierno comunal, municipal y estatal.
+Los pueblos y comunidades indígenas en ejercicio de su derecho de libre determinación, tienen derecho a la autonomía o el autogobierno en las cuestiones relacionadas con sus asuntos internos, respetando los preceptos establecidos en la Constitución Política de los Estados Unidos Mexicanos y en ésta Constitución.
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 1996)</small>
+Esta Constitución reconoce y garantiza el derecho de los pueblos y comunidades indígenas a la libre determinación y, en consecuencia, a la autonomía para:
 
-El Estado garantizará que la convivencia entre los habitantes de la entidad se realice en un marco de respeto y valoración a la diversidad cultural y regulará mecanismos de sanción contra actos de discriminación hacia los pueblos indígenas y sus integrantes.
+I. Decidir sus formas internas de convivencia y organización social, económica, política y cultural.
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 1996)</small>
+II. Aplicar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales de esta Constitución, respetando los derechos humanos y sus garantías y, de manera relevante, la dignidad e integridad de las mujeres. La Ley establecerá los casos y procedimientos de validación por los jueces o tribunales correspondientes.
 
-En la educación básica que imparta el Estado será obligatoria la enseñanza de una lengua indígena, en aquellas comunidades en donde la existencia de integrantes de pueblos indígenas sea de regular proporción. El Estado apoyará el desarrollo y promoción de los conocimientos, medicina tradicional y tecnologías indígenas.
+III. Elegir de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la participación de las mujeres en condiciones de igualdad frente a los varones, en un marco que respete el pacto federal y la soberanía del Estado.
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 1996)</small>
+IV. Preservar y enriquecer sus lenguas, conocimientos y todos los elementos que constituyan su cultura e identidad.
 
-Las leyes garantizarán a los pueblos indígenas asentados en el territorio estatal su efectivo acceso a la jurisdicción del Estado. En todo juicio en que sea parte una comunidad o un individuo indígena, deberán tomarse debidamente en cuenta su identidad, cosmovisión, prácticas culturales, usos y costumbres. El juicio deberá llevarse a cabo, preferentemente, en su lengua o, en su defecto, con la asistencia de traductores suficientemente capacitados.
+El Estado respetará, preservará y mantendrá los conocimientos, las innovaciones y las prácticas de las comunidades indígenas que entrañen estilos tradicionales de vida pertinentes para la conservación y la utilización sostenible de la diversidad biológica y promoverá su aplicación más amplia, con la aprobación y la participación de quienes posean esos conocimientos, innovaciones y prácticas, y fomentará que los beneficios derivados de la utilización de esos conocimientos, innovaciones y prácticas se compartan equitativamente.
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 1996)</small>
+Protegerá y alentará la utilización consuetudinaria de los recursos, biológicos, de conformidad con las prácticas culturales tradicionales que sean compatibles con las exigencias de la conservación o de la utilización sostenible.
 
-En la imposición de sanciones a miembros de los pueblos indígenas deberá darse preferencia a tipos de sanción distintos a la privación de la libertad.
+Asimismo, son objeto de protección, con la participación activa de las comunidades, los recursos naturales, los lugares sagrados y el patrimonio cultural material e inmaterial de los pueblos y comunidades.
 
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 1996)</small>
+V. En los términos que establece la Constitución federal y las demás leyes de la materia, y dentro de los ámbitos de competencia del Estado y municipios, los pueblos y comunidades indígenas tendrán derecho a la preservación de la naturaleza, y de los recursos que se encuentran ubicados en sus tierras o en la totalidad del hábitat que ocupan o disfrutan, así como preferencia en el uso y disfrute de los mismos.
 
-En los conflictos por límites agrarios, el Estado, dentro del ámbito de su competencia, promoverá la conciliación y concertación entre las partes para darles una solución definitiva, con la participación activa de las autoridades indígenas de los núcleos agrarios.
+VI. Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan los pueblos y comunidades indígenas, salvo aquellos que corresponden a las áreas estratégicas, respetando los regímenes de propiedad de tenencia de la tierra establecidos en el Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos. Para estos efectos las comunidades podrán asociarse en términos de Ley.
+
+VII. Elegir, en los municipios con población indígena, representantes ante los ayuntamientos.
+
+La Ley establecerá las funciones que tendrá dicha representación, con el propósito de fortalecer la participación y representación política de conformidad con sus tradiciones y normas internas.
+
+VIII. Acceder plenamente a la jurisdicción del Estado. Para garantizar este derecho, las instancias de procuración y administración de justicia, en todos los juicios y procedimientos en que sean parte indígenas, individual o colectivamente, se deberán tomar en cuenta sus costumbres y especificidades culturales. Los indígenas tienen en todo tiempo el derecho a ser asistidos por intérpretes, traductores y defensores que tengan conocimiento de su lengua y cultura, los cuales serán proporcionados por la instancia que corresponda, de manera gratuita.
+
+Las leyes que correspondan, deberán establecer los mecanismos para garantizar este derecho.
+
+IX. Ser consultados en las medidas legislativas o administrativas que sean susceptibles de afectarles directamente, con el fin de lograr su consentimiento libre, previo e informado de acuerdo a la medida propuesta.
+
+En la elaboración del Plan Estatal de Desarrollo y planes municipales, las consultas serán de opinión, y en su caso se incorporarán las recomendaciones y propuestas que realicen.
+
+Las comunidades indígenas, dentro del ámbito municipal podrán coordinarse y asociarse en los términos y para los efectos que prevenga la ley.
+
+El Estado y los Municipios, para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, a través de sus instituciones y las políticas garantizarán la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales deberán ser diseñadas y operadas conjuntamente con ellos.
+
+Para abatir las carencias y rezagos que afectan a los pueblos y comunidades indígenas, dichas autoridades, tienen la obligación de:
+
+I. Impulsar el desarrollo regional de las zonas indígenas con el propósito de fortalecer las economías locales y mejorar las condiciones de vida de sus pueblos, mediante acciones coordinadas entre los tres órdenes de gobierno, con la participación de las comunidades. Las autoridades municipales determinarán equitativamente las asignaciones presupuestales que las comunidades administrarán directamente para fines específicos, con base en las disposiciones que la legislación establezca.
+
+II. Garantizar e incrementar los niveles de escolaridad, favoreciendo la educación bilingüe e intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media superior y superior.
+
+En la educación básica que imparta el Estado será obligatoria la enseñanza de una lengua indígena predominante de las comunidades indígenas.
+
+Establecer un sistema de becas para los estudiantes indígenas en todos los niveles. Definir y desarrollar programas educativos de contenido regional que reconozcan la herencia cultural de sus pueblos, de acuerdo con las leyes de la materia y en consulta con las comunidades indígenas. Impulsar el respeto y conocimiento de las diversas culturas existentes en la nación.
+
+III. Asegurar el acceso efectivo a los servicios de salud mediante la ampliación de la cobertura del sistema estatal, aprovechando debidamente la medicina tradicional, así como apoyar la nutrición de los indígenas mediante programas de alimentación, en especial para la población infantil.
+
+IV. Mejorar las condiciones de las comunidades indígenas y de sus espacios para la convivencia y recreación, mediante acciones que faciliten el acceso al financiamiento público y privado para la construcción y mejoramiento de vivienda con pertinencia cultural, así como ampliar la cobertura de los servicios sociales básicos.
+
+V. Propiciar la incorporación de las mujeres indígenas al desarrollo, mediante el apoyo a los proyectos productivos, la protección de su salud, el otorgamiento de estímulos para favorecer su educación y su participación en la toma de decisiones en todos los ámbitos de la vida pública y política.
+
+VI. Extender la red de comunicaciones, mediante la construcción y ampliación de vías de comunicación y telecomunicación. Promover que los pueblos y las comunidades indígenas puedan adquirir, operar y administrar medios de comunicación, en los términos que las leyes de la materia determinen.
+
+Asimismo, promoverán que los medios de comunicación ya existentes reflejen la identidad cultural del Estado.
+
+VII. Apoyar las actividades productivas y el desarrollo sustentable de las comunidades indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la aplicación de estímulos para las inversiones públicas y privadas que propicien la creación de empleos, la incorporación de tecnologías para incrementar su propia capacidad productiva, así como para asegurar el acceso equitativo a los sistemas de abasto y comercialización.
+
+VIII. Establecer políticas sociales para protegerá (sic) a los migrantes de los pueblos indígenas y sus familias y velar por el respeto de sus derechos humanos.
+
+Para garantizar el cumplimiento de las obligaciones señaladas en este apartado, se establecerán las partidas específicas destinadas al cumplimiento de estas obligaciones en los presupuestos de egresos, así como las formas y procedimientos para que las comunidades participen en el ejercicio y vigilancia de las mismas.
+
+Sin perjuicio de los derechos aquí establecidos a favor de los indígenas, sus comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá en lo conducente los mismos derechos tal y como lo establezca la ley
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1407,13 +1451,17 @@ Para ser Magistrado del Tribunal Superior de Justicia del Estado, se necesita:
 
 I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles;
 
-II.- No tener más de 65 años de edad, ni menos de 35, el día del nombramiento;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2015)</small>
+
+II.- Tener cuando menos treinta y cinco años cumplidos el día de la designación;
 
 III.- Poseer el día del nombramiento, con antigüedad mínima de cinco años, título profesional de Abogado o Licenciado en Derecho, expedido por la autoridad o corporación legalmente facultada para ello;
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
-V.- Haber residido en el Estado durante los últimos cinco años.
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2015)</small>
+
+V.- Ser campechano de nacimiento o haber residido en el Estado durante los últimos cinco años.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -2759,6 +2807,20 @@ P.O. 1 DE DICIEMBRE DE 2014.
 
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Segundo.- El Congreso del Estado decretará oportunamente las adecuaciones necesarias al marco normativo de la entidad, en los términos y plazos que permitan su entrada en vigor de conformidad con la Declaratoria de Incorporación del Estado de Campeche al Sistema Procesal Acusatorio e inicio de vigencia gradual del Código Nacional de Procedimientos Penales.
+Segundo.- El Congreso del Estado decretará oportunamente las adecuaciones necesarias al marco normativo de la entidad, en los términos y plazos que permitan su entrada en vigor de conformidad con la Declaratoria de Incorporación del Estado de Campeche al Sistema Procesal Acusatorio e Inicio de vigencia gradual del Código Nacional de Procedimientos Penales.
 
 Tercero.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, que se opongan al contenido del presente decreto.
+
+P.O. 7 DE AGOSTO DE 2015.
+
+DECRETO NÚMERO 279 POR EL QUE SE REFORMA EL ARTÍCULO 7° A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE AGOSTO DE 2015.
+
+DECRETO NÚMERO 280, POR EL QUE SE REFORMAN LAS FRACCIONES II Y V DEL ARTÍCULO 79 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a lo dispuesto en este decreto.
