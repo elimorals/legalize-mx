@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ingresos-del-estado-de-oaxaca-para-el-ejercicio-104545"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2014-12-27"
-last_updated: "2014-12-27"
+last_updated: "2015-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # LEY DE INGRESOS DEL ESTADO DE OAXACA PARA EL EJERCICIO FISCAL 2015
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE AGOSTO DE 2015 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE INGRESOS DEL ESTADO DE OAXACA PARA EL EJERCICIO FISCAL 2015
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 7 DE AGOSTO DE 2015.</small>
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 27 de diciembre de 2014.
 
@@ -575,9 +575,11 @@ Cuando en una ley o decreto se establezcan ingresos previstos en este artículo,
 
 Se faculta y autoriza al Ejecutivo del Estado para que a través de la Secretaría, durante la vigencia de la presente Ley, gestione y contrate empréstitos en moneda nacional, con la federación, sociedades y particulares nacionales hasta por la cantidad de $1,000'000,000.00 (Un mil millones de pesos 00/100 M.N), para ser destinados a inversiones públicas productivas; sufragar contingencias generadas por fenómenos naturales que afecten al territorio del Estado o, en general, situaciones extraordinarias que por su naturaleza es imposible prever; y afecte como fuente de pago o en garantía de los financiamientos que celebre, el derecho y/o los ingresos que en Participaciones Federales le correspondan; facultándolo para que celebre todos los actos jurídicos necesarios o convenientes para la instrumentación de los financiamientos y la afectación de participaciones, incluyendo la contratación de operaciones de cobertura, observando lo dispuesto en la Ley de la materia.
 
+> <small>(F. DE E., P.O. 7 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 9.
 
-Se faculta y autoriza al Ejecutivo del Estado para que a través de la Secretaría, durante la vigencia de la presente Ley, gestione y contrate empréstitos en moneda nacional, con la federación y banca de desarrollo, hasta por la cantidad de $800'000,000.00 (Ochocientos millones de pesos 00/100 M.N), para ser destinados a infraestructura educativa, y afecte como fuente de pago o en garantía de los financiamientos que celebre, el derecho y/o los ingresos que le correspondan del Fondo de Aportaciones Múltiples para amortización del capital contratado, y afecte como fuente de pago o en garantía el derecho y/o los ingresos que en Participaciones Federales le corresponda para el pago de los accesorios financieros, impuestos, comisiones y, en su caso, los intereses que se generen durante el periodo de disposición y/o gracia del crédito o empréstito que se contrate con base en la presente autorización.
+Se faculta y autoriza al Ejecutivo del Estado para que a través de la Secretaría, durante la vigencia de la presente Ley, gestione y contrate empréstitos en moneda nacional, con la federación y banca de desarrollo, sociedades y particulares nacionales hasta por la cantidad de $800'000.000.00 (Ochocientos millones de pesos 00/100 M.N), para ser destinados a infraestructura educativa, y afecte como fuente de pago o en garantía de los financiamientos que celebre, el derecho y/o los ingresos que le correspondan del Fondo de Aportaciones Múltiples para amortización del capital contratado, y afecte como fuente de pago o en garantía el derecho y/o los ingresos que en Participaciones Federales le corresponda para el pago de los accesorios financieros, impuestos, comisiones y, en su caso, los intereses que se generen durante el periodo de disposición y/o gracia del crédito o empréstito que se contrate con base en la presente autorización.
 
 Se autoriza al Ejecutivo Estatal por conducto de la Secretaría, la suscripción del o los contratos que documenten el crédito, así como a ejercer los recursos que deriven del mismo en el ejercicio fiscal 2015, o bien, contratarlo en dicho ejercicio y ejercerlo en ejercicios fiscales posteriores.
 
