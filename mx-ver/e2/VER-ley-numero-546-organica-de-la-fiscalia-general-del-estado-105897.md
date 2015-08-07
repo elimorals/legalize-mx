@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-546-organica-de-la-fiscalia-general-del-estado-10589
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-29"
-last_updated: "2015-01-29"
+last_updated: "2015-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 546 ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE AGOSTO DE 2015.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 29 de enero de 2015.
 
@@ -107,7 +107,7 @@ XVIII. Peritos: Los cuerpos de investigación científica de los delitos;
 
 XIX. Servicio de Carrera: El Servicio Profesional de Carrera Ministerial, Pericial y Policial;
 
-XX Comisiones: Las Comisiones del Servicio Profesional de Carrera Ministerial, Pericial y Policial, y de Honor y Justicia;
+XX. Comisiones: Las Comisiones del Servicio Profesional de Carrera Ministerial, Pericial y Policial, y de Honor y Justicia;
 
 XXI. Carrera Policial: El Servicio de Carrera Policial establecido en la Ley General y en la Ley de Seguridad y su Reglamento;
 
@@ -443,7 +443,9 @@ VII. Aplicar normas de control y evaluación técnico-jurídicas en las unidades
 
 VIII. Vigilar que los Fiscales soliciten y ejecuten, de manera obligatoria, las órdenes y medidas de protección a favor de la víctima o del ofendido, y de toda aquella persona involucrada en la investigación de algún delito;
 
-IX. Capacitar a los servidores públicos de la Fiscalía General, a los Fiscales, Policía de Investigación y personal de los Centros de Atención a Víctimas, en el ámbito de su competencia, a fin de sensibilizarlos y especializarlos hacia una nueva cultura de equidad de género, para eliminar estereotipos sobre el rol social de las mujeres, tanto en el ámbito laboral como en la conducción práctica de las diligencias que integren una carpeta de investigación;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2015)</small>
+
+IX. Impartir capacitación sistemática, especializada y permanente en materia de derechos de las mujeres, a las y los servidores públicos de la Fiscalía General, de la Policía de Investigación y de los Centros de Atención a Víctimas, en el ámbito de su competencia, para la debida diligencia en la conducción de la investigación y procesos penales de los delitos de feminicidio y de violencia de género, así como para eliminar estereotipos sexistas en el ámbito laboral.
 
 X. Definir y establecer políticas, en coordinación con las instituciones de seguridad pública federal, estatal y municipales, en materia de prevención del delito, procuración y administración de justicia con perspectiva de género, con base en el análisis de las estadísticas criminales y victimales obtenidas del sistema de delitos cometidos en contra de mujeres; y
 
@@ -1676,3 +1678,11 @@ DR. JAVIER DUARTE DE OCHOA
 GOBERNADOR DEL ESTADO
 
 RÚBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 7 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
