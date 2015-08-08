@@ -4,7 +4,7 @@ identifier: "COL-reglamento-que-establece-el-derecho-de-via-de-una-carretera-409
 country: "mx"
 rank: "reglamento"
 publication_date: "1983-04-02"
-last_updated: "1983-04-02"
+last_updated: "2015-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # REGLAMENTO QUE ESTABLECE EL DERECHO DE VIA DE UNA CARRETERA O CAMINO LOCAL
 
-REGLAMENTO QUE ESTABLECE EL DERECHO DE VIA DE UNA CARRETERA O CAMINO LOCAL
+REGLAMENTO QUE ESTABLECE EL DERECHO DE VÍA DE UNA CARRETERA O CAMINO LOCAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE CAMINOS Y PUENTES DEL ESTADO DE COLIMA, PUBLICADO EN EL P.O. DE 8 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Colima, el sábado 2 de abril de 1983.
 
@@ -103,7 +105,7 @@ La Junta podrá negar el otorgamiento del permiso, cuando juzgue que la instalac
 
 Los interesados en obtener permiso en los términos de este Reglamento, deberán presentar su solicitud por escrito ante la Junta, proporcionando los datos y elementos siguientes:
 
-l.- Nombre, denominación o razón del solicitante, así como su nacionalidad y domicilio.
+I.- Nombre, denominación o razón del solicitante, así como su nacionalidad y domicilio.
 
 Cuando se trate de personas morales, se deberá acompañar el acta constitutiva y demás documentos que acrediten su situación jurídica.
 
@@ -111,7 +113,7 @@ II.- Clase de obra que se pretenda construir, o descripción del anuncio que se 
 
 III.- Croquis con medidas y. colindancias, en el que se delimite la ubicación exacta del lugar donde se pretenda realizar la obra o colocar el anuncio, señalando si se trata de una zona suburbana o rural.
 
-IV.- Descripción de las instalaciones que pretendan llevarse acabo, calendarizando las diferentes etapas de ejecución. En este caso se deben anexar los planos y memorias descriptivas de las obras.
+IV.- Descripción de las instalaciones que pretendan llevarse a cabo, calendarizando las diferentes etapas de ejecución. En este caso se deben anexar los planos y memorias descriptivas de las obras.
 
 V.- Señalar si existen o no instalaciones o anuncios en el área de que se trate.
 
@@ -135,13 +137,13 @@ Los accesos que se construyan dentro del derecho de vía se considerarán obras 
 
 ###### ARTICULO 12.
 
-El interesado en la construcción de un acceso, deberá cubrir el ((sic) % este monto será fijada por el Gobierno del Estado) del costo total de la obra por concepto de revisión de la obra.
+El interesado en la construcción de un acceso, deberá cubrir el (% este monto será fijada por el Gobierno del Estado) del costo total de la obra por concepto de revisión de la obra.
 
 ###### ARTICULO 13.
 
 El documento en el que se haga constar el permiso, contendrá entre otros los datos siguientes:
 
-l.- Número de control.
+I.- Número de control.
 
 II.- Nombre, nacionalidad y domicilio del permisionario.
 
@@ -245,7 +247,7 @@ DE LAS CAUSAS DE EXTINCION.
 
 Los permisos se extinguen por las siguientes causas:
 
-l.- El vencimiento del plazo para el cual fue concedido.
+I.- El vencimiento del plazo para el cual fue concedido.
 
 II.- La desaparición de su finalidad u objeto.
 
@@ -337,7 +339,7 @@ III.- Haber cumplirlo los anunciantes con lo que dispongan las Leyes y demás Or
 
 Los anuncios y obras publicitarias, además de lo requerido por las disposiciones legales de la materia deberán llenar los siguientes requisitos:
 
-l.- Presentar un aspecto estético.
+I.- Presentar un aspecto estético.
 
 II.- Estar redactado en un lenguaje claro y accesible, en correcto idioma español, salvo que se trate de dialectos nacionales o de nombres propios de productos, marcas o nombres comerciales de establecimientos en lengua o denominación extranjera que estén debidamente registrados en la Secretaria de Comercio.
 
@@ -373,7 +375,7 @@ La Junta realizará en forma periódica y sistemática la inspección y vigilanc
 
 De las inspecciones que lleve a efecto la Junta, se levantará acta en la que se asentarán entre otros datos los siguientes:
 
-l.- Fecha del acta con el nombre y cargo del personal que la realice.
+I.- Fecha del acta con el nombre y cargo del personal que la realice.
 
 II.- Nombre y domicilio del permisionario.
 
@@ -393,7 +395,7 @@ VII.- Todas aquellas circunstancias que resulten relevantes con motivo de la ins
 
 La Junta formulará y mantendrá actualizado un registro de los permisionarios que realicen la construcción de obras dentro del derecho de vía de las carreteras locales, o fuera del mimo cuando se afecte su segundad, así como de los que instalen anuncios y construyan obras con fines de publicidad. En el registro se consignará loa datos siguientes:
 
-l.- Nombre, denominación o razón social de los permisionarios.
+I.- Nombre, denominación o razón social de los permisionarios.
 
 II.- Número de control del permiso.
 
@@ -421,7 +423,7 @@ III.- Efectuar obras o cualquier acto que modifique o altere las condiciones de 
 
 IV.- Llevar a cabo obras de construcción o instalación en los lugares prohibidos por los artículos 19 y 20 del presente Reglamento.
 
-V.- No cumplir con las obligaciones de uso y conservación en lo que se refiere a condiciones de seguridad, estabilidad, estética e idioma que preveen los Artículos 14, 32 y 33 de este Reglamento.
+V.- No cumplir con las obligaciones de uso y conservación en lo que se refiere a condiciones de seguridad, estabilidad, estética e idioma que preveen (sic) los Artículos 14, 32 y 33 de este Reglamento.
 
 VI.- Instalar, modificar o ampliar un anuncio en forma sustancialmente distinta al permiso concedido.
 
@@ -498,3 +500,15 @@ Transitorio:
 UNICO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 Sufragio Efectivo. No Reelección.- Colima, Col., Enero 31 de 1983.- La Gobernadora Const. del Estado, LICDA. GRISELDA ALVAREZ.- Rúbrica.- El Secretario General de Gobierno. LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE AGOSTO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Se abroga la Ley que establece el Derecho de Vía de una Carretera o Camino Local creada mediante Decreto No. 244 publicado en fecha 03 de julio de 1982, así como su Reglamento publicado el 02 de Abril de 1983, ambos en el en el (sic) Periódico Oficial “El Estado de Colima”.
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+CUARTO.- El Titular del Ejecutivo del Estado emitirá el Reglamento de esta Ley, dentro de los ciento ochenta días naturales, siguientes a la publicación del presente Decreto.
