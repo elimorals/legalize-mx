@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2015-06-06"
+last_updated: "2015-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2015.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -1243,31 +1243,39 @@ Para la identificación y atención educativa de los alumnos con aptitudes sobre
 
 Las instituciones educativas de nivel medio superior y superior podrán establecer convenios de colaboración en los términos de gratuidad establecidos por la norma constitucional, a fin de homologar criterios para la atención, evaluación, acreditación y certificación dirigidos a alumnos y alumnas con aptitudes sobresalientes y/o talentos específicos;
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2015)</small>
 
-II. La Autoridad Educativa Estatal, procurará impartir cursos de orientación a los padres, a las madres y a los tutores para la toma de decisiones que favorezcan la educación integral de sus hijos, hijas o pupilos;
+II. La autoridad educativa estatal, impartirá cursos de orientación a los padres, a las madres y a los tutores para la toma de decisiones que favorezcan la educación integral de sus hijos, hijas o pupilos.
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
-III. La Autoridad Educativa Estatal procurará impartir cursos de capacitación y actualización a los profesionales de la educación especial, a través de las instituciones formadoras de profesionales de la educación y/o la Unidad Estatal de Formación Continua de Maestros de Educación Básica;
+Así mismo, a solicitud de la autoridad educativa estatal, la Comisión Estatal de los Derechos Humanos impartirá cursos de orientación y capacitación sobre los derechos humanos de niñas, niños y adolescentes con discapacidad y la inclusión.
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2015)</small>
 
-IV. La Autoridad Educativa Estatal procurará impartir cursos de capacitación a los docentes de educación básica regular para favorecer la integración educativa y la construcción de una escuela incluyente, a través de las Instituciones Formadoras de Profesionales de la Educación y/o la Unidad Estatal de Formación Continua para Maestros de Educación Básica; y
+III. La autoridad educativa estatal impartirá cursos de capacitación y actualización a los profesionales de la educación especial, a través de las instituciones formadoras de Profesionales de la educación y/o la Unidad Estatal de Formación Continua de Maestros de Educación Básica.
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2015)</small>
+
+IV. La autoridad educativa estatal impartirá cursos de capacitación a los docentes de educación básica regular para favorecer la integración educativa y la construcción de una escuela incluyente, a través de las Instituciones formadoras de Profesionales de la Educación y/o la Unidad Estatal de Formación Continua para Maestros de Educación Básica.
 
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 V. La Autoridad Educativa Estatal, en coordinación con las Instituciones Formadoras de Profesionales de la Educación de la Entidad, ofrecerá formación inicial y el desarrollo profesional para los docentes que la educación especial requiera para atender sus necesidades correspondientes.
 
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2015)</small>
+
+VI. La Secretaría de Educación, Cultura y Deporte, en coordinación con la Comisión Estatal de los Derechos Humanos, implementará programas de capacitación y certificación a los docentes de la educación inicial, básica y media superior en materia de derechos humanos de niñas, niños y adolescentes con discapacidad, que deberán evaluarse con una periodicidad anual para fortalecer las competencias entre los trabajadores de la educación.
+
 > <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
 ARTÍCULO 51 BIS.- La educación especial incluye la orientación a los padres o tutores, así como también a los maestros y personal de escuelas de educación básica y media superior regulares que integren a los alumnos con necesidades especiales de educación.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
 ###### ARTÍCULO 52.
 
-La Autoridad Educativa Estatal procurará destinar recursos suficientes a fin de ampliar y mejorar la cobertura y calidad de la educación especial. Así como para la adecuación de espacios físicos en los centros educativos y dotación de recursos didácticos especiales.
+La autoridad educativa estatal conforme al principio de progresividad que opera en los derechos económicos, sociales y culturales destinará recursos humanos, materiales y financieros suficientes a fin de ampliar y mejorar la cobertura y calidad de la educación especial, así como para la adecuación de espacios físicos en los centros educativos y dotación de recursos didácticos especiales.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1297,9 +1305,23 @@ I. Promover programas de capacitación laboral en talleres, instituciones o empr
 
 II. Fortalecer el compromiso y la colaboración interinstitucional e intersectorial para la definición y ejecución de programas y acciones destinados a la ampliación de la cobertura educativa en el medio rural y la integración laboral de personas con discapacidad;
 
-III. Promover el reconocimiento de la pluralidad y diversidad entre las personas, los grupos sociales, los niveles educativos, las regiones y los contextos del Estado, a través de programas de sensibilización y difusión, con la finalidad de impulsar acciones para mejorar las condiciones de vida de las personas con discapacidad del Estado de Chihuahua; y
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2015)</small>
+
+III.- Promover el reconocimiento de la pluralidad y diversidad entre las personas, los grupos sociales, los niveles educativos, las regiones y los contextos del Estado, a través de programas de sensibilización y difusión, con la finalidad de impulsar acciones para mejorar las condiciones de vida de las personas con discapacidad del Estado de Chihuahua;
 
 IV. Incrementar los recursos económicos para becas dirigidos a las y los alumnos con discapacidad, que aseguren su acceso y permanencia en el Sistema Educativo Estatal.
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2015)</small>
+
+V. Garantizar el derecho a la educación y la inclusión de niñas, niños y adolescentes con discapacidad en los niveles de educación básica y media superior, desarrollando medidas que eviten su discriminación y favorezcan las condiciones de accesibilidad en instalaciones educativas.
+
+Las instituciones educativas deberán contar con los apoyos didácticos, materiales y técnicos para que niñas, niños y adolescentes con discapacidad puedan acceder y ejercer, en igualdad de condiciones a los demás, el derecho a la educación.
+
+Igualmente se deberá contar con personal especializado de apoyo al docente frente a grupo.
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2015)</small>
+
+VI. Adoptar medidas para responder a las necesidades de niñas, niños y adolescentes con aptitudes sobresalientes, de tal manera que se posibilite su desarrollo integral, conforme a sus capacidades y habilidades personales.
 
 (REFORMADO, P.O. 25 DE ABRIL DE 2007) (F. DE E., P.O. 16 DE JUNIO DE 2007)
 
@@ -1523,7 +1545,7 @@ El Poder Ejecutivo del Estado es el responsable directo de la prestación de los
 
 La Autoridad Educativa Estatal, a través de las instancias correspondientes, operará el plan y programas de estudio, adaptándose a las particularidades de las y los educandos, así como de la población a la que se destina este servicio, como son:
 
-l. La edad y las características evolutivas de la personalidad del educando, su condición social, laboral y su tiempo disponible;
+I. La edad y las características evolutivas de la personalidad del educando, su condición social, laboral y su tiempo disponible;
 
 II. Las necesidades individuales, grupales o comunitarias para propiciar su desarrollo; y
 
@@ -4006,3 +4028,9 @@ P.O. 6 DE JUNIO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
