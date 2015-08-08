@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-notariado-del-estado-de-chihuahua-10346"
 country: "mx"
 rank: "ley"
 publication_date: "1995-08-12"
-last_updated: "2009-10-28"
+last_updated: "2015-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2015.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 12 de agosto de 1995.
 
@@ -383,9 +383,15 @@ El Notario no podrá ejercer sus funciones, mientras legalmente se encuentre sus
 
 Si durante el ejercicio de la función notarial, se pierde, altera o deteriora alguno de los sellos de autorizar, previa autorización del Departamento, el Notario se proveerá de otros en los que se pondrá signo especial que los distinga de los anteriores; hecho lo cual, procederá a la destrucción de todos los que formen parte del anterior grupo de sellos, levantando acta al respecto y haciendo lo anterior del conocimiento del Departamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 46.
 
-El Gobernador del Estado podrá autorizar el cambio de residencia de dos Notarios entre sí, cuando éstos lo soliciten y hayan ejercido como titulares de su notaría, cuando menos durante cinco años. Igualmente, oyendo al Consejo de Notarios y al Colegio de Notarios respectivo, en su caso, podrá autorizar el cambio de residencia del Notario que lo solicite y haya ejercido como titular de su notaría cuando menos durante cinco años, siempre que en el lugar en el que se pretenda fijar la nueva residencia, se encuentre vacante una notaría y ésta no haya sido convocada.
+El Gobernador del Estado podrá autorizar el cambio de residencia de dos Notarios entre sí, cuando estos lo soliciten.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2015)</small>
+
+Igualmente, oyendo al Consejo de Notarios y al Colegio de Notarios respectivo, en su caso, podrá autorizar el cambio de residencia del Notario que lo solicite y haya ejercido como titular de su notaría cuando menos durante cinco años, siempre que en el lugar en el que se pretenda fijar la nueva residencia, se encuentre vacante una notaría y esta no haya sido convocada.
 
 ### CAPITULO IV
 
@@ -897,11 +903,11 @@ e).- Emitida la opinión o agotado el plazo a que se refiere el inciso anterior,
 
 DE LA TERMINACION DE LAS PATENTES.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 111.
 
-Las patentes de Notario y aspirante al ejercicio del notariado, terminan por cualquiera de las siguientes causas:
+Las patentes de Notario y Aspirante al Ejercicio del Notariado, terminan por cualquiera de las siguientes causas:
 
 I.- Revocación.
 
@@ -917,11 +923,15 @@ VI.- (DEROGADA, P.O. 23 DE MAYO DE 2007)
 
 VII.- Fallecimiento.
 
-Cuando la patente de un Notario termine por cualquiera de las causas señaladas en este artículo, también terminará su patente de Aspirante al Ejercicio del Notariado.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
+
+Salvo que se hubiere renunciado y no se tuviere pendiente ningún procedimiento de responsabilidad administrativa, cuando la patente de un Notario termine por cualquiera de las causas señaladas en este artículo, también terminará su patente de Aspirante al Ejercicio del Notariado.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 112.
 
-Se revocará la patente, aún la expedida por cambio de residencia, al Notario que no fije ésta e inicie sus funciones dentro del término de cuarenta y cinco días siguientes al de la publicación de la misma en el Periódico Oficial del Estado.
+Se revocará la patente, aun la expedida por cambio de residencia, al Notario que no fije este e inicie sus funciones dentro del término de cuarenta y cinco días siguientes al de la publicación de la misma en el Periódico Oficial del Estado, salvo que se convenga el cambio de residencia del titular con otro Notario, en cuyo caso el término se contará a partir de la autorización a que se refiere el artículo 46.
 
 ###### ARTICULO 113.
 
@@ -1318,3 +1328,9 @@ ARTÍCULO DECIMOTERCERO. Siempre que en cualquier otra disposición, ordenamient
 Cuando la referencia se haga a Instituciones de Beneficencia Privada o Instituciones de Asistencia Privada, se entenderá que se hace alusión a las instituciones de asistencia social privada.
 
 ARTÍCULO DECIMOCUARTO. Los trabajos para el diseño, acopio y conformación del Subsistema de Información para la Asistencia Social Privada, deberán dar inicio durante el año dos mil nueve.
+
+P.O. 8 DE AGOSTO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
