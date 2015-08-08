@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2015-06-06"
+last_updated: "2015-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2015.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -1243,31 +1243,39 @@ Para la identificación y atención educativa de los alumnos con aptitudes sobre
 
 Las instituciones educativas de nivel medio superior y superior podrán establecer convenios de colaboración en los términos de gratuidad establecidos por la norma constitucional, a fin de homologar criterios para la atención, evaluación, acreditación y certificación dirigidos a alumnos y alumnas con aptitudes sobresalientes y/o talentos específicos;
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2015)</small>
 
-II. La Autoridad Educativa Estatal, procurará impartir cursos de orientación a los padres, a las madres y a los tutores para la toma de decisiones que favorezcan la educación integral de sus hijos, hijas o pupilos;
+II. La autoridad educativa estatal, impartirá cursos de orientación a los padres, a las madres y a los tutores para la toma de decisiones que favorezcan la educación integral de sus hijos, hijas o pupilos.
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
-III. La Autoridad Educativa Estatal procurará impartir cursos de capacitación y actualización a los profesionales de la educación especial, a través de las instituciones formadoras de profesionales de la educación y/o la Unidad Estatal de Formación Continua de Maestros de Educación Básica;
+Así mismo, a solicitud de la autoridad educativa estatal, la Comisión Estatal de los Derechos Humanos impartirá cursos de orientación y capacitación sobre los derechos humanos de niñas, niños y adolescentes con discapacidad y la inclusión.
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2015)</small>
 
-IV. La Autoridad Educativa Estatal procurará impartir cursos de capacitación a los docentes de educación básica regular para favorecer la integración educativa y la construcción de una escuela incluyente, a través de las Instituciones Formadoras de Profesionales de la Educación y/o la Unidad Estatal de Formación Continua para Maestros de Educación Básica; y
+III. La autoridad educativa estatal impartirá cursos de capacitación y actualización a los profesionales de la educación especial, a través de las instituciones formadoras de Profesionales de la educación y/o la Unidad Estatal de Formación Continua de Maestros de Educación Básica.
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2015)</small>
+
+IV. La autoridad educativa estatal impartirá cursos de capacitación a los docentes de educación básica regular para favorecer la integración educativa y la construcción de una escuela incluyente, a través de las Instituciones formadoras de Profesionales de la Educación y/o la Unidad Estatal de Formación Continua para Maestros de Educación Básica.
 
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
 V. La Autoridad Educativa Estatal, en coordinación con las Instituciones Formadoras de Profesionales de la Educación de la Entidad, ofrecerá formación inicial y el desarrollo profesional para los docentes que la educación especial requiera para atender sus necesidades correspondientes.
 
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2015)</small>
+
+VI. La Secretaría de Educación, Cultura y Deporte, en coordinación con la Comisión Estatal de los Derechos Humanos, implementará programas de capacitación y certificación a los docentes de la educación inicial, básica y media superior en materia de derechos humanos de niñas, niños y adolescentes con discapacidad, que deberán evaluarse con una periodicidad anual para fortalecer las competencias entre los trabajadores de la educación.
+
 > <small>(ADICIONADO, P.O. 15 DE MARZO DE 2014)</small>
 
 ARTÍCULO 51 BIS.- La educación especial incluye la orientación a los padres o tutores, así como también a los maestros y personal de escuelas de educación básica y media superior regulares que integren a los alumnos con necesidades especiales de educación.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
 ###### ARTÍCULO 52.
 
-La Autoridad Educativa Estatal procurará destinar recursos suficientes a fin de ampliar y mejorar la cobertura y calidad de la educación especial. Así como para la adecuación de espacios físicos en los centros educativos y dotación de recursos didácticos especiales.
+La autoridad educativa estatal conforme al principio de progresividad que opera en los derechos económicos, sociales y culturales destinará recursos humanos, materiales y financieros suficientes a fin de ampliar y mejorar la cobertura y calidad de la educación especial, así como para la adecuación de espacios físicos en los centros educativos y dotación de recursos didácticos especiales.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1297,9 +1305,23 @@ I. Promover programas de capacitación laboral en talleres, instituciones o empr
 
 II. Fortalecer el compromiso y la colaboración interinstitucional e intersectorial para la definición y ejecución de programas y acciones destinados a la ampliación de la cobertura educativa en el medio rural y la integración laboral de personas con discapacidad;
 
-III. Promover el reconocimiento de la pluralidad y diversidad entre las personas, los grupos sociales, los niveles educativos, las regiones y los contextos del Estado, a través de programas de sensibilización y difusión, con la finalidad de impulsar acciones para mejorar las condiciones de vida de las personas con discapacidad del Estado de Chihuahua; y
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2015)</small>
+
+III.- Promover el reconocimiento de la pluralidad y diversidad entre las personas, los grupos sociales, los niveles educativos, las regiones y los contextos del Estado, a través de programas de sensibilización y difusión, con la finalidad de impulsar acciones para mejorar las condiciones de vida de las personas con discapacidad del Estado de Chihuahua;
 
 IV. Incrementar los recursos económicos para becas dirigidos a las y los alumnos con discapacidad, que aseguren su acceso y permanencia en el Sistema Educativo Estatal.
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2015)</small>
+
+V. Garantizar el derecho a la educación y la inclusión de niñas, niños y adolescentes con discapacidad en los niveles de educación básica y media superior, desarrollando medidas que eviten su discriminación y favorezcan las condiciones de accesibilidad en instalaciones educativas.
+
+Las instituciones educativas deberán contar con los apoyos didácticos, materiales y técnicos para que niñas, niños y adolescentes con discapacidad puedan acceder y ejercer, en igualdad de condiciones a los demás, el derecho a la educación.
+
+Igualmente se deberá contar con personal especializado de apoyo al docente frente a grupo.
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2015)</small>
+
+VI. Adoptar medidas para responder a las necesidades de niñas, niños y adolescentes con aptitudes sobresalientes, de tal manera que se posibilite su desarrollo integral, conforme a sus capacidades y habilidades personales.
 
 (REFORMADO, P.O. 25 DE ABRIL DE 2007) (F. DE E., P.O. 16 DE JUNIO DE 2007)
 
@@ -1523,7 +1545,7 @@ El Poder Ejecutivo del Estado es el responsable directo de la prestación de los
 
 La Autoridad Educativa Estatal, a través de las instancias correspondientes, operará el plan y programas de estudio, adaptándose a las particularidades de las y los educandos, así como de la población a la que se destina este servicio, como son:
 
-l. La edad y las características evolutivas de la personalidad del educando, su condición social, laboral y su tiempo disponible;
+I. La edad y las características evolutivas de la personalidad del educando, su condición social, laboral y su tiempo disponible;
 
 II. Las necesidades individuales, grupales o comunitarias para propiciar su desarrollo; y
 
@@ -4006,6 +4028,12 @@ P.O. 6 DE JUNIO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 148 “QUE REFORMA DIVERSAS DISPOSICIONES DE LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE SONORA, LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA, LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA, LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA, LEY DE AGUA DEL ESTADO DE SONORA, LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, LEY DE GANADERÍA PARA EL ESTADO DE SONORA, CÓDIGO FISCAL DEL ESTADO DE SONORA, LEY DE FOMENTO AL EMPLEO PARA EL ESTADO DE SONORA, LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA, LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA, LEY DE PROFESIONES DEL ESTADO DE SONORA, LEY DE PROTECCIÓN DE ANIMALES PARA EL ESTADO DE SONORA, LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LEY DE RECONOCIMIENTOS AL MÉRITO CÍVICO, LEY DE REGULACIÓN Y FOMENTO DE TIEMPO COMPARTIDO PARA EL ESTADO DE SONORA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICO (SIC) DEL ESTADO Y DE LOS MUNICIPIOS, LEY DE SALUD PARA EL ESTADO DE SONORA, LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, LEY DE TRÁNSITO DEL ESTADO DE SONORA, LEY DE VIVIENDA PARA EL ESTADO, LEY DEL NOTARIADO PARA EL ESTADO DE SONORA, LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA, LEY QUE CREA EL REGISTRO DE AGENTES INMOBILIARIOS, LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA, LEY QUE ESTABLECE EL ARANCEL PARA LOS NOTARIOS, LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA, LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS, LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA, LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, LEY DE LOS DERECHOS DE LOS CONTRIBUYENTES DEL ESTADO DE SONORA, LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY DE HACIENDA DEL ESTADO, LEY DE HACIENDA MUNICIPAL, CÓDIGO PENAL DEL ESTADO DE SONORA, CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA, CÓDIGO CIVIL PARA EL ESTADO DE SONORA, LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SONORA, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA, LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA; LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA, LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA TORTURA EN EL ESTADO DE SONORA, LEY QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTA, LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS COMERCIALES QUE PRESTAN AL PUBLICO EL SERVICIO DE ACCESO A INTERNET EN FORMA ONEROSA EN EL ESTADO DE SONORA Y LEY QUE REGULA LA PRÁCTICA PROFESIONAL DEL BOX, LUCHA LIBRE Y ARTES MARCIALES MIXTAS EN EL ESTADO DE SONORA”.]
 
