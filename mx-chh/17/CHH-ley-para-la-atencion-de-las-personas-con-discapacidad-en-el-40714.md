@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-atencion-de-las-personas-con-discapacidad-en-el-407
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-24"
-last_updated: "2013-02-09"
+last_updated: "2015-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY PARA LA ATENCIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO No. 859/2012 VII P.E., PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL SIN QUE ELLO AFECTE SU COMPETENCIA, DERECHOS U OBLIGACIONES QUE HAYA CONTRAÍDO CON ANTELACIÓN A LA ENTRADA EN VIGOR DEL CITADO DECRETO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2015.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 30 de julio de 2004.
 
@@ -91,7 +91,7 @@ XII.- Ayuntamiento.- Los Gobiernos Municipales del Estado de Chihuahua;
 
 XIII.- Consejo.- Consejo Estatal Consultivo para la integración de las personas con discapacidad;
 
-XIV.- Organizaciones de personas con discapacidad.- Todo grupo de personas que se reúnen para salvaguardar los derechos de las personas con discapacidad y que buscan facilitar su participación en la vida social, y (sic)
+XIV.- Organizaciones de personas con discapacidad.- Todo grupo de personas que se reúnen para salvaguardar los derechos de las personas con discapacidad y que buscan facilitar su participación en la vida social, y
 
 XV.- Asociaciones.- Todas aquellas figuras constituidas legalmente para salvaguardar los derechos de las personas con discapacidad y que buscan facilitar su participación en la vida social.
 
@@ -143,7 +143,7 @@ E) La aceptación de los menores con discapacidad en las guarderías infantiles;
 
 G) (sic) Las adaptaciones que permitan la participación plena de las personas con discapacidad en las actividades deportivas, recreativas y culturales;
 
-H) Fomentar una cultura de respeto a la dignidad de las personas con discapacidad; y (sic)
+H) Fomentar una cultura de respeto a la dignidad de las personas con discapacidad; y
 
 ###### Artículo 5.
 
@@ -687,9 +687,11 @@ II.- Asistencia del educando en una aula de apoyo atendida por un especialista, 
 
 III.- Asistencia a un centro especializado, en el turno alterno, para completar su tratamiento de habilitación o rehabilitación con equipos específicos y personal especializado que no se encuentre en la escuela regular.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 65.
 
-La Secretaría de Educación y Cultura promoverá la inclusión de contenidos curriculares sobre las diversas discapacidades, así como los derechos de las personas con discapacidad, en los distintos niveles educativos que contribuyan a crear una cultura de aceptación y respeto a las personas con discapacidad, a sus derechos humanos y a su dignidad.
+La Secretaría de Educación, Cultura y Deporte promoverá la inclusión de contenidos curriculares sobre las diversas discapacidades, así como los derechos de las personas con discapacidad, en los distintos niveles educativos que contribuyan a crear una cultura de aceptación y respeto de las personas con discapacidad, a sus derechos humanos y a su dignidad.
 
 Así mismo, buscará garantizar el acceso al lenguaje de signos y sistema braille, así como la edición, producción y existencia de libros con ambos sistemas en todas las bibliotecas.
 
@@ -707,9 +709,11 @@ IV.- Desarrollar al máximo su capacidad de aprendizaje;
 
 V.- La incorporación a la vida social y al sistema de trabajo que permita a la persona con discapacidad servirse a si mismo, a la sociedad y auto realizarse.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 67.
 
-La educación especial deberá contar con personal multiprofesional técnicamente capacitado y calificado que en actuación interdisciplinaria, provea las diversas atenciones que cada persona con discapacidad requiera. Para dar cumplimiento a este fin, la Secretaría de Educación y Cultura promoverá programas de estímulos a los docentes que destaquen en la atención a personas con discapacidad.
+La educación especial deberá contar con personal multiprofesional técnicamente capacitado y calificado que en actuación interdisciplinaria, provea las diversas atenciones que cada persona con discapacidad requiera. Para dar cumplimiento a este fin, la Secretaría de Educación, Cultura y Deporte promoverá programas de estímulos a los docentes que destaquen en la atención a personas con discapacidad.
 
 ###### Artículo 68.
 
@@ -846,3 +850,9 @@ DECRETO NÚMERO 281/2011 II P.O, POR EL QUE SE ADICIONA UNA FRACCIÓN XVII AL AR
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE AGOSTO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
