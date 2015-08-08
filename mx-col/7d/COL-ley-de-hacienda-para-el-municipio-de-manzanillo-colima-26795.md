@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-manzanillo-colima-26795"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2015-07-11"
+last_updated: "2015-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -3539,15 +3539,17 @@ III. Los particulares que soliciten el uso de la unidad deportiva por la noche, 
 
 #### SECCION SEGUNDA. ASEO PUBLICO
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 95.
 
-Es objeto de este derecho la prestación del servicio de aseo público por parte del Ayuntamiento a los habitantes del municipio. Se entiende por aseo público las acciones de limpia, recolección, traslado, tratamiento y disposición final de residuos, así como la limpieza de predios baldíos.
+Es objeto de este derecho la prestación del servicio de aseo público por parte del Ayuntamiento a los habitantes del municipio. Se entiende por aseo público las acciones de limpia, recolección, traslado, tratamiento y disposición final de residuos, así como el saneamiento y limpieza de construcciones deshabitadas, de lotes y predios baldíos.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 96.
 
-Son sujetos de este derecho las personas físicas o morales que requieran servicios especiales de aseo público y que para tal efecto celebren convenio especial con el Ayuntamiento.
+Son sujetos de este derecho las personas físicas o morales que requieran servicios especiales de aseo público que para tal efecto celebren convenio especial con el Ayuntamiento y los propietarios o poseedores de construcciones deshabitadas, de lotes y predios baldíos comprendidos dentro de las zonas urbana y rural a los que hace referencia el artículo 88 Bis de la Ley del Municipio Libre del Estado de Colima.
 
 ###### ARTICULO 97.
 
@@ -3631,9 +3633,11 @@ El resultado obtenido de la operación anterior, se multiplicará por el factor 
 
 b).- Durante 14 días continuos se realizará la recolección de la basura del fraccionamiento, pesando el material recolectado, al finalizar éste período, se obtendrá un promedio de peso por día y se multiplicará por el número de días en que se prestó el servicio; al resultado se le multiplicará por el factor contemplado en la fracción I inciso b y el resultado será lo que se cobrará.
 
-IV. Por realizar servicios especiales de limpieza, recolección y transporte de residuos en lotes no edificados o edificaciones ruinosas o inhabitables, en rebeldía de los obligados a mantenerlos limpios, por metro cuadrado, cada vez 0.12
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2015)</small>
 
-Incurrirá en rebeldía el titular del predio que no lleve a cabo la limpieza y traslado dentro de los diez días hábiles siguientes de la notificación.
+IV. Por realizar servicios especiales de limpieza, recolección y transporte de residuos en lotes no edificados o edificaciones ruinosas o inhabitables, en rebeldía de los obligados a mantenerlos limpios, por metro cuadrado, cada vez.... 0.12
+
+Incurrirá en rebeldía el titular del predio que no lleve a cabo la limpieza y traslado dentro de los ocho días hábiles siguientes de la notificación.
 
 V. Por depositar residuos en el relleno sanitario:
 
@@ -3712,6 +3716,10 @@ III.- Cinco días posteriores al requerimiento del pago los contribuyentes de la
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 IV.- Anualmente al solicitar o refrendar su licencia municipal de conformidad con la fracción I inciso a.
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2015)</small>
+
+V.- Diez días posteriores al requerimiento del pago los contribuyentes de la hipótesis prevista en la fracción IV, en caso de no ser cubierta por el sujeto obligado, el cobro del servicio se incluirá en su recibo de predial correspondiente anual.
 
 #### SECCION TERCERA. CEMENTERIOS
 
@@ -4458,3 +4466,7 @@ DECRETO No. 510, POR EL QUE SE REFORMA EL ARTÍCULO SÉPTIMO TRANSITORIO DE LA L
 P.O. 11 DE JULIO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación, el cual deberá publicarse en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 8 DE AGOSTO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
