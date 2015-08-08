@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2015-05-16"
+last_updated: "2015-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 10 DE SEPTIEMBRE DE 2016 Y 29 DE OCTUBRE DE 2016 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2015.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -351,9 +353,9 @@ Son derechos de los ciudadanos chihuahuenses:
 
 I.- Votar en las elecciones populares del Estado, así como participar en los procesos plebiscitarios y de referéndum;
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2015)</small>
 
-II.- Poder ser votados para todos los cargos de elección popular y nombrados para cualquier empleo o comisión, teniendo las demás cualidades que las leyes establezcan. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la Ley Electoral;
+II. Poder ser votados para todos los cargos de elección popular y nombrados para cualquier empleo o comisión, teniendo las demás cualidades que las leyes establezcan. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y que acrediten no ser ni haber sido presidente del comité ejecutivo nacional, estatal, municipal, dirigente, militante afiliado o su equivalente, de un partido político, en los tres años anteriores al día de la elección del proceso electivo en el que pretendan postularse, ni haber participado como candidato a cualquier cargo de elección popular postulado por cualquier partido político o coalición en el proceso electoral inmediato anterior, y que reúnan los requisitos, condiciones y términos que determine la legislación;
 
 III.- Tomar las armas en la Guardia Nacional.
 
@@ -433,27 +435,33 @@ DEL PODER PUBLICO.
 
 La Soberanía del Estado, reside originariamente en el pueblo, y en nombre de éste la ejercen los Poderes establecidos en esta Constitución.
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
-Los partidos políticos son entidades de interés público; la ley determinará las formas específicas en su intervención en el proceso electoral, y permitirá que los partidos participen coaligados, total o parcialmente, o que postulen candidaturas comunes en los procesos electorales, según lo convengan.
+Los partidos políticos son entidades de interés público; la Ley General en la materia, así como las demás disposiciones secundarias, determinarán las formas específicas en su intervención en el proceso electoral, y permitirán que los partidos participen coaligados en forma total, parcial o flexible, o bien, que postulen candidaturas comunes en los procesos electorales, según lo convengan y en los términos de (sic) Ley local de la materia.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
-Los partidos políticos nacionales con registro ante el Instituto Federal Electoral podrán participar en los procesos locales en los términos de la ley. Los partidos políticos que pierdan su registro nacional, lo mantendrán automáticamente como partido político estatal para el proceso electoral siguiente, y podrán conservarlo en los términos de la ley.
+Los partidos políticos nacionales con registro ante el Instituto Nacional Electoral podrán participar en los procesos locales en los términos de la ley.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
 
 Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuyendo a la integración de la representación local y municipal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan el sufragio universal, libre, secreto y directo. Sólo los ciudadanos podrán afiliarse libre e individualmente a ellos; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente, en la creación de partidos políticos estatales y cualquier forma de afiliación corporativa.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
-Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta Constitución y las leyes.
+Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen la Constitución Política de los Estados Unidos Mexicanos, la Ley General de la materia y demás disposiciones secundarias.
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 27 DE JUNIO DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2015)</small>
 
-Art. 27 bis.- La ley garantizará que los partidos políticos cuenten de manera equitativa con elementos para llevar a cabo sus actividades y señalará las reglas a que se sujetará el financiamiento de los propios partidos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado. Los candidatos independientes tendrán derecho de acceso a prerrogativas para las campañas electorales en los términos que establezca la Ley Electoral.
+###### Art. 27 Bis.
+
+La ley garantizará que los partidos políticos cuenten de manera equitativa con elementos para llevar a cabo sus actividades y señalará las reglas a que se sujetará el financiamiento de los propios partidos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado. Para que un partido político tenga acceso al financiamiento público estatal, deberá haber obtenido cuando menos el tres por ciento de la votación estatal válida emitida en el proceso electoral inmediato anterior al ejercicio presupuestal de que se trate.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE AGOSTO DE 2015)</small>
+
+Los candidatos independientes tendrán derecho a financiamiento público únicamente para las campañas electorales en los términos que establezcan las disposiciones aplicables en la materia.
 
 > <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
 
@@ -467,21 +475,31 @@ II.- El financiamiento público para las actividades tendientes a la obtención 
 
 III.- El financiamiento público por actividades específicas, relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales, equivaldrá al tres por ciento del monto total del financiamiento público que corresponda en cada año por actividades ordinarias. El treinta por ciento de la cantidad que resulte, de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria, y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
-La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos. La propia ley establecerá el monto máximo que tendrán las aportaciones de sus simpatizantes, cuya suma total no podrá exceder anualmente, para cada partido, al diez por ciento del tope de gastos establecido para la última campaña a Gobernador; así mismo, ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+Los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos estatales; el monto máximo que tendrán las aportaciones de sus militantes y simpatizantes; los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten, así como las sanciones que deban imponerse por el incumplimiento de estas disposiciones, se observarán en los términos de la Ley General en la materia.
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
-De igual manera, la ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados a la Asistencia Social Pública.
+De igual forma, el procedimiento para la pérdida de registro y liquidación del patrimonio de los partidos se realizará en observancia de la Ley General en la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2015)</small>
+
+###### Art. 27 Ter.
+
+Los partidos políticos y los candidatos independientes en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
 
-Art. 27 ter.- Los partidos políticos estatales en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
-
 Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor ni en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la transmisión en el territorio de Chihuahua de este tipo de mensajes contratados en el extranjero.
 
-En la propaganda política o electoral que difundan los partidos políticos deberán abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas.
+(NOTA: EL 26 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2015 Y SUS ACUMULADAS 72/2015 Y 82/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
+
+En la propaganda política o electoral que difundan los partidos políticos y candidatos independientes, así como los actos tendentes a recabar el apoyo ciudadano de estos últimos, deberán abstenerse de expresiones que DENIGREN A LAS INSTITUCIONES Y A LOS PROPIOS PARTIDOS, O que calumnien a las personas.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
 
 Durante el tiempo que comprendan las campañas electorales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social, de toda propaganda gubernamental, estatal y municipal y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
 
@@ -571,97 +589,79 @@ La persona que asuma el Poder Ejecutivo conforme a este artículo, convocará de
 
 ## TITULO VI.. DE LOS PROCESOS ELECTORALES Y DE LA JUSTICIA ADMINISTRATIVA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 457/2014 II P.O. PUBLICADO EN EL P.O. DE 28 DE MAYO DE 2014, SE DEROGA EL DECRETO NO. 1135/2012 I P.O. PUBLICADO EN EL P.O. NÚMERO 69, DE FECHA 28 DE AGOSTO DE 2013, MEDIANTE EL CUAL SE REFORMABAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA.</small>
-
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
 ###### Art. 36.
 
-La renovación de los Poderes Legislativo, Ejecutivo y los Ayuntamientos, se realizará mediante sufragio universal, libre, secreto y directo, conforme a las bases que establezca la presente Constitución. La jornada electoral tendrá lugar el primer domingo de julio del año que corresponda.
+La renovación de los Poderes legislativo, Ejecutivo y los Ayuntamientos, se realizará mediante sufragio universal, libre, secreto y directo, conforme a las bases que establezca la presente Constitución. La jornada electoral tendrá lugar el primer domingo de junio del año que corresponda.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2012)</small>
-
-Los procesos electorales ordinarios para la renovación del Poder Ejecutivo se celebrarán cada seis años, y para el Poder Legislativo y los Ayuntamientos cada tres años; todos los procesos se sujetarán a los principios rectores de certeza, legalidad, imparcialidad, objetividad e independencia.
-
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
+Los procesos electorales ordinarios para la renovación del Poder Ejecutivo se celebrarán cada seis años, y para el Poder Legislativo y los Ayuntamientos cada tres años; todos los procesos se sujetarán a los principios rectores de certeza, legalidad, imparcialidad, objetividad, máxima publicidad e independencia.
 
 Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales, fijando los plazos convenientes para el desahogo de todas las instancias impugnativas. Además, garantizará la protección de los derechos político electorales del ciudadano, de votar, ser votado y de asociarse individual y libremente para tomar parte en forma pacífica de los asuntos políticos del Estado.
 
-La Ley establecerá los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación y las causales de nulidad de las elecciones de Gobernador, diputados y ayuntamientos.
+La Ley establecerá los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación y las causales de nulidad de las elecciones de Gobernador, diputados y ayuntamientos, sin perjuicio de las previstas en la Constitución Política de los Estados Unidos Mexicanos.
 
 Todas las precampañas y campañas electorales serán laicas.
 
-La duración de las campañas en el año de elecciones para Gobernador, diputados y miembros de ayuntamientos, no podrán exceder de noventa días; en el año en que sólo se elijan diputados y miembros de ayuntamientos, las campañas no podrán exceder de sesenta días. En ningún caso las precampañas excederán las dos terceras partes del tiempo previsto para las campañas electorales. La ley fijará las sanciones para quienes infrinjan esta disposición.
+La duración de las campañas en el año de elecciones para Gobernador, diputados y miembros de ayuntamientos, no podrán exceder de noventa días; en el año en que sólo se elijan diputados y miembros de ayuntamientos, las campañas no podrán exceder de sesenta días. En ningún caso, las precampañas excederán las dos terceras partes del tiempo previsto para las campañas electorales. La ley fijará las sanciones para quienes infrinjan esta disposición.
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
+La organización, dirección y vigilancia de las elecciones y demás procesos que requieran consulta pública en el Estado, estarán a cargo de un organismo público denominado Instituto Estatal Electoral, que gozará de autonomía en su funcionamiento e independencia en sus decisiones, con personalidad jurídica y patrimonio propios; se compondrá de un órgano de dirección superior denominado Consejo Estatal y los órganos distritales y municipales.
 
-La organización, dirección y vigilancia de las elecciones y demás procesos que requieran consulta pública en el Estado, estarán a cargo de un organismo público denominado Instituto Estatal Electoral, que gozará de autonomía en su funcionamiento e independencia en sus decisiones, con personalidad jurídica y patrimonio propios; se compondrá de un órgano central de mayor jerarquía denominado Consejo General y los órganos distritales y municipales.
+El Consejo Estatal se integra por un Consejero Presidente, seis consejeros electorales, un Secretario Ejecutivo y un representante que cada Partido Político y candidato independiente designen, en su caso, o su respectivo suplente. La duración, requisitos y el procedimiento para su elección se regirán por lo dispuesto en el artículo 116, fracción IV, inciso c), de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN, EL PRESENTE PÁRRAFO QUEDA INTEGRADO POR LOS ANTERIORES OCTAVO Y NOVENO.</small>
+El Secretario Ejecutivo será nombrado con el voto de las dos terceras partes del Consejo Estatal a propuesta de su Presidente. La falta definitiva del Consejero Presidente será suplida por el consejero electoral que se designe conforme a la ley, hasta que el Instituto Nacional Electoral haga la nueva designación de Consejero Presidente.
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
+> <small>(DEROGADO DÉCIMO PÁRRAFO, P.O. 8 DE AGOSTO DE 2015)</small>
 
-El Consejo General se integra por un Consejero Presidente, seis consejeros electorales, un Secretario Ejecutivo y un representante que cada Partido Político designe o su respectivo suplente. El Consejero Presidente y los consejeros electorales serán designados cada uno por el voto de cuando menos las dos terceras partes de los diputados presentes de entre los aspirantes que propongan los grupos parlamentarios. Si la mencionada mayoría no se logra en única votación, la Junta de Coordinación Parlamentaria propondrá una terna de candidatos, para cada uno de los cargos que no se hubieran cubierto, de entre los aspirantes que hubiesen propuesto los grupos parlamentarios, efectuándose la elección por mayoría calificada de los diputados presentes; si no se logra tal elección, la designación se hará mediante insaculación de entre los candidatos propuestos por la Junta de Coordinación Parlamentaria. Conforme al mismo procedimiento se designará un consejero electoral suplente por cada propietario. La ley establecerá las reglas, procedimientos de designación y demás requisitos correspondientes.
-
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
-
-El Secretario Ejecutivo será nombrado con el voto de las dos terceras partes del Consejo General a propuesta de su Presidente. La falta definitiva del Consejero Presidente será suplida por el consejero electoral que se designe conforme a la ley, hasta que el Congreso haga la nueva designación de Consejero Presidente.
-
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
-
-El Consejero Presidente y los consejeros electorales participan con voz y voto. Aquél tendrá voto de calidad. Los restantes miembros del Consejo General participan sólo con voz, pero sin voto.
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
-
-La duración del cargo de Consejero Presidente, así como la de los demás consejeros electorales, será de seis años, y estos últimos se elegirán de forma escalonada cada tres años. En ningún caso los consejeros podrán ser reelectos. La ley regulará lo relativo al llamamiento de los consejeros electorales designados para el proceso electoral inmediato anterior, para la celebración de procesos de plebiscito y referéndum.
+El Consejero Presidente y los consejeros electorales participan con voz y voto. Aquél tendrá voto de calidad. Los restantes miembros del Consejo Estatal participan sólo con voz, pero sin voto.
 
 Las sesiones de los órganos electorales serán públicas y sus resoluciones recurribles ante el Tribunal Estatal Electoral, conforme disponga la ley.
 
-Las actividades, funciones y servicios de carácter electoral, incluidas las relativas al padrón de electores, podrán desarrollarse en coordinación con el órgano federal competente. La ley establecerá las condiciones, requisitos y modalidades en que se convenga dicha coordinación.
+El Instituto Estatal Electoral ejercerá las atribuciones previstas en el artículo 41, Base V, Apartado C, de la Constitución Política de los Estados Unidos Mexicanos, sin perjuicio de las modalidades previstas en los incisos a), b) y c) del mismo Apartado, en los términos de la Ley General en la materia.
 
-El Instituto Estatal Electoral podrá realizar convenios con el Instituto Federal Electoral, para que éste organice los procesos electorales locales.
+A solicitud del Instituto Estatal Electoral, el Instituto Nacional Electoral asumirá mediante convenio, la organización de procesos electorales locales, en los términos que disponga la legislación aplicable.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 8 DE AGOSTO DE 2015)</small>
 
-El Instituto Estatal electoral tendrá a su cargo, en forma integral y directa, además de las que le determine la ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, los derechos y prerrogativas de las agrupaciones y de los partidos políticos, impresión de materiales electorales, preparación de la jornada electoral, los cómputos en los términos que señale la ley, declaración de validez y otorgamiento de constancias en las elecciones de Gobernador, diputados y miembros de los ayuntamientos, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señale la ley.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2015)</small>
 
 ###### Art. 37.
 
-El Tribunal Estatal Electoral es el órgano de legalidad y plena jurisdicción en la materia electoral, autónomo en su funcionamiento e independiente en sus decisiones, con personalidad jurídica y patrimonio propio. Se compondrá de tres Magistrados.
+El Tribunal Estatal Electoral es el órgano especializado de legalidad y plena jurisdicción en la materia electoral, que goza de autonomía técnica y de gestión en su funcionamiento e independiente en sus decisiones, con patrimonio propio, que deberá cumplir sus funciones bajo los principios de certeza, imparcialidad, objetividad, legalidad y probidad. Se compondrá de cinco magistrados que deberán satisfacer los requisitos que establece la Ley General de la materia.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
-Los requisitos de elegibilidad, proceso de elección, causas de remoción, impedimentos y excusas de los Magistrados Electorales se regirán con base en lo establecido en la Constitución Federal y la Ley General de Instituciones y Procedimientos Electorales.
+Los Magistrados serán designados de forma escalonada en los términos que establece el artículo 116, fracción IV, inciso c), de la Constitución Política de los Estados Unidos Mexicanos y la Ley General de la materia.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
-Los Magistrados del Tribunal Estatal Electoral durarán en su encargo siete años. Recibirán remuneración igual a la que perciben los Magistrados del Supremo Tribunal de Justicia del Estado.
+Los Magistrados del Tribunal Estatal Electoral durarán en su encargo siete años. Recibirán remuneración igual a la que perciben los Magistrados del Tribunal Superior Justicia del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
-Corresponde al Tribunal Estatal Electoral resolver en forma definitiva e inatacable las impugnaciones que se presenten en materia electoral, de referéndum y plebiscito, así como las que se interpongan contra las declaraciones de validez y el otorgamiento de constancias de mayoría y de asignación.
+Corresponde al Tribunal Estatal Electoral resolver en forma definitiva e inatacable las impugnaciones que se presenten en materia electoral, de referéndum y plebiscito, así como las que se interpongan contra las declaraciones de validez y el otorgamiento de constancias de mayoría y de asignación, sin perjuicio de las atribuciones del Instituto Nacional Electoral en los términos de la Ley General de la materia.
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
-En la elección de Gobernador, el Instituto Estatal Electoral dará cuenta al Congreso de la declaratoria de validez y de la constancia de mayoría que hubiere expedido, y en caso de impugnación, el Tribunal Estatal Electoral dará cuenta al Congreso de su resolución para que éste, mediante formal decreto haga la declaratoria de Gobernador electo, que a su vez turnará al Ejecutivo para su publicación en el Periódico Oficial del Estado. Si el Ejecutivo o el Congreso no cumplieren en el término que la Ley señale, el Instituto Estatal Electoral o el Tribunal Estatal Electoral, en caso de impugnación ordenarán la publicación de la mencionada declaratoria en el Periódico Oficial.
+En la elección de Gobernador, el Instituto Estatal Electoral dará cuenta al Congreso de la declaratoria de validez y de la constancia de mayoría que hubiere expedido, y en caso de impugnación el Tribunal Estatal Electoral dará cuenta al Congreso de su resolución para que éste, mediante formal decreto haga la declaratoria de Gobernador electo, que a su vez turnará al Ejecutivo para su publicación en el Periódico Oficial del Estado. Si el Ejecutivo o el Congreso no cumplieren en el término que la Ley señale, el Instituto Estatal Electoral o el Tribunal Estatal Electoral, en caso de impugnación ordenarán la publicación de la mencionada declaratoria en el Periódico Oficial.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
 El Tribunal Estatal Electoral funcionará en pleno durante los procesos electorales, los plebiscitarios y de referéndum; podrán establecerse salas regionales. La Ley establecerá la forma de su organización y funcionamiento.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
 Concluido cada proceso electoral, el Tribunal Estatal Electoral presentará al Congreso y hará público un informe del desempeño de sus funciones.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
 El Tribunal Estatal Electoral hará uso de los medios de apremio necesarios para hacer cumplir de manera expedita sus sentencias y resoluciones, en los términos que fije la ley.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE FEBRERO DE 2009)</small>
+(NOTA: EL 26 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2015 Y SUS ACUMULADAS 72/2015 Y 82/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-El Tribunal Estatal Electoral sólo podrá declarar la nulidad de una elección por las causales expresamente establecidas en las leyes.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
+
+El Tribunal Estatal Electoral sólo podrá declarar la nulidad de una elección por las causales expresamente establecidas en las leyes Y FUERA DE LAS CAUSALES GRAVES, DOLOSAS Y DETERMINANTES QUE CORRESPONDA RESOLVER AL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
 
@@ -683,41 +683,53 @@ DEL PODER LEGISLATIVO.
 
 DE LA ORGANIZACION DEL CONGRESO.
 
+(NOTA: EL 26 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2015 Y SUS ACUMULADAS 72/2015 Y 82/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
 ###### Art. 40.
 
 El Congreso se integrará con representantes del pueblo de Chihuahua, electos como Diputados en su totalidad cada tres años. Por cada diputado propietario se elegirá un suplente.
 
-El Congreso se compondrá de treinta y tres diputados, de los cuales veintidós serán electos en distritos electorales uninominales, según el principio de mayoría relativa, y once por el principio de representación proporcional. Los diputados de mayoría relativa y los de representación proporcional, tendrán la misma categoría e iguales derechos y obligaciones.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
+El Congreso del Estado se integra por veintidós diputados electos por el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y once diputados electos según el principio de representación proporcional, para lo cual, existirá una circunscripción plurinominal correspondiente al territorio de la Entidad. Podrán además asignarse hasta tres diputados plurinominales adicionales, para evitar que un partido político se ubique en la hipótesis de subrepresentación que prohíbe esta Constitución y a fin de garantizar la representación mínima a los partidos políticos que alcancen el umbral de votación exigido y demás requisitos que establezca la Ley. Los diputados de mayoría relativa y los de representación proporcional, tendrán la misma categoría e iguales derechos y obligaciones.
 
-Ningún partido político podrá contar con más de veintidós diputados por ambos principios. En ningún caso un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total del Congreso que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de su votación estatal emitida, más el ocho por ciento.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
-Si un partido político alcanzara las 22 diputaciones por mayoría relativa, para poder adicionarse o reformarse la Constitución del Estado, se requerirá el voto de, cuando menos, 23 de los Diputados.
+Ningún partido político podrá contar con más de veintidós diputados por ambos principios. En ningún caso un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total del Congreso, sobre la base de 33 diputados, que exceda en ocho puntos a su porcentaje de votación estatal válida emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de su votación estatal emitida, más el ocho por ciento.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
+
+Asimismo, en la integración total de la legislatura, sobre la base de 33 diputados, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación estatal válida emitida que hubiere recibido menos ocho puntos porcentuales.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
+
+Si un partido político alcanzara las 22 diputaciones por mayoría relativa, para poder adicionarse o reformarse la Constitución del Estado, se requerirá el voto de cuando menos 23 de los Diputados.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
 Para la asignación de diputados electos por el principio de representación proporcional, cada partido político deberá registrar una lista de seis fórmulas de candidatos propietarios y suplentes, la cual no podrá contener entre propietarios y suplentes más del 50% de candidatos de un mismo género.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
+
 Sólo se asignarán diputaciones de representación proporcional a los partidos políticos que postularon candidatos de mayoría relativa en catorce ó más distritos electorales uninominales y hayan alcanzado cuando menos el 2% de la votación estatal válida emitida.
 
-Las diputaciones de representación proporcional se distribuirán mediante rondas de asignación entre los partidos políticos con derecho a ello, atendiendo al orden decreciente del porcentaje de votación obtenido por cada uno de ellos de la votación estatal válida emitida. En una primera ronda, se asignará una diputación a cada Partido Político que haya obtenido por lo menos el 2% de la votación estatal válida emitida. Si aún quedaren diputaciones por asignar, en una segunda ronda se otorgará otra diputación a cada Partido que haya obtenido más del 7% y hasta el 10% de la votación. Si aún quedaren diputaciones por asignar, en una tercera ronda se otorgará otra diputación a cada partido político que haya obtenido más del 10% y hasta el 20% de la votación. Si aún quedaren diputaciones por asignar, en una cuarta ronda se asignará otra diputación a cada partido que haya obtenido más del 20% de la votación. Si agotado este procedimiento, aún quedaren diputaciones por asignar, éstas se otorgarán por rondas de asignación, de una en una y en orden decreciente del porcentaje de votación obtenido por los partidos políticos hasta agotar su totalidad.
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
-Las diputaciones de representación proporcional que correspondan a cada partido político se asignarán alternada y sucesivamente: en primer lugar, utilizando el sistema de listas previamente registradas por los partidos políticos para tal efecto y, en segundo lugar, atendiendo a los más altos porcentajes de votación válida obtenida en su distrito por cada uno de los candidatos del mismo partido.
+Las primeras once diputaciones de representación proporcional se distribuirán mediante rondas de asignación entre los partidos políticos con derecho a ello, atendiendo al orden decreciente del porcentaje de votación obtenido por cada uno de ellos de la votación estatal válida emitida.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
-La demarcación territorial de los distritos electorales uninominales, atenderá preponderantemente al factor poblacional, que resulte de dividir la población estatal entre el número de distritos, pudiendo contar con un rango de variación de más menos 15% del promedio general, que se verá complementado tomando en consideración los criterios de continuidad geográfica, vías y medios de comunicación y características geográficas de la demarcación territorial.
+En una primera ronda, se asignará una diputación a cada partido político que haya obtenido por lo menos el 2% de la votación estatal válida emitida. Si aún quedaren diputaciones por asignar, en una segunda ronda se otorgará otra diputación a cada partido político que haya obtenido más del 5%. Si aún quedaren diputaciones por asignar, en una tercera ronda se otorgará otra diputación a cada partido político que haya obtenido más del 10%. Si aún quedaren diputaciones por asignar, en una cuarta ronda se asignará otra diputación a cada partido político que haya obtenido más del 20% de la votación. Si agotado este procedimiento, aún quedaren diputaciones por asignar, estas se otorgarán por rondas de asignación, de una en una y en orden decreciente del porcentaje de votación obtenido por los partidos políticos hasta agotar su totalidad.
 
-> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
-Para efectos de lo anterior, la población utilizada deberá ser la correspondiente a los resultados definitivos del Censo General de Población, publicados por el Instituto Nacional de Estadística y Geografía, o a través del Conteo de Población y Vivienda, atendiendo a la actualización que mejor corresponda.
+Las diputaciones de representación proporcional que correspondan a cada partido político se asignarán alternada y sucesivamente: utilizando el sistema de listas previamente registradas por los partidos políticos para tal efecto y atendiendo a los más altos porcentajes obtenidos en su distrito por cada uno de los candidatos del mismo partido político, de la votación estatal válida emitida, en los términos que se establezcan en la Ley.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
-La aprobación de la delimitación de los distritos electorales uninominales se hará mediante votación, de por lo menos las dos terceras partes de los integrantes del Consejo General del Instituto Estatal Electoral.
+Si agotado este procedimiento, un partido político quedara subrepresentado conforme a lo previsto en este artículo, se hará uso de los diputados plurinominales adicionales, sólo en la medida necesaria para evitar el margen de ocho puntos de subrepresentación al que se hace alusión. Una vez asignado el diputado o diputados plurinominales para compensar la subrepresentación, no se volverá a realizar el recálculo de la misma, ni realizar asignación alguna.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 1979)</small>
 
@@ -793,43 +805,41 @@ En los casos de las fracciones II y IV, los Suplentes funcionarán tan sólo has
 
 DE LA INSTALACION Y FUNCIONAMIENTO DEL CONGRESO.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2015)</small>
 
 ###### Art. 44.
 
-El Congreso se renovará totalmente el año que corresponda. Ninguno de sus miembros podrá ser reelecto en el cargo para el período siguiente. Los que tengan el cargo de propietarios no podrán ser electos para el período inmediato con el cargo de suplentes, pero los que tengan el cargo de suplentes sí podrán ser electos para el período inmediato como propietarios, salvo que hayan estado en ejercicio.
-
-El Congreso se instalará, en casos ordinarios, el día primero de octubre y en los extraordinarios, únicos en que será necesaria la convocatoria, el día que ésta fije.
-
-El Congreso cambiará su nomenclatura cada tres años.
-
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 457/2014 II P.O. PUBLICADO EN EL P.O. DE 28 DE MAYO DE 2014, SE DEROGA EL DECRETO NO. 1135/2012 I P.O. PUBLICADO EN EL P.O. NÚMERO 69, DE FECHA 28 DE AGOSTO DE 2013, MEDIANTE EL CUAL SE REFORMABAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA.</small>
-
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
-
-###### Art. 45.
-
-El Instituto Estatal Electoral declarará diputados electos al Congreso del Estado, a los candidatos que hubieren recibido constancias de mayoría y de asignación proporcional no impugnadas ante el Tribunal Estatal Electoral dentro de los plazos y con los requisitos establecidos por la ley.
-
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 457/2014 II P.O. PUBLICADO EN EL P.O. DE 28 DE MAYO DE 2014, SE DEROGA EL DECRETO NO. 1135/2012 I P.O. PUBLICADO EN EL P.O. NÚMERO 69, DE FECHA 28 DE AGOSTO DE 2013, MEDIANTE EL CUAL SE REFORMABAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2012)</small>
-
-###### Art. 46.
-
-El Tribunal Estatal Electoral resolverá las impugnaciones que se interpongan en contra de las declaratorias de validez de elecciones y de las constancias de mayoría y de las de asignación proporcional otorgadas a los candidatos a diputados. Del mismo modo, las que se presenten en materia de referéndum y plebiscito.
-
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
-
-Las resoluciones que dicte el Tribunal Estatal Electoral serán definitivas e inatacables.
+El Congreso se renovará totalmente el año que corresponda. Los diputados del Congreso del Estado podrán ser reelectos hasta por un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato y que satisfagan los requisitos previstos por la Ley. En el caso de diputados que hayan surgido de postulación independiente, deberán seguir el procedimiento de obtención del apoyo ciudadano que prevea la Ley.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
+El Congreso se instalará, en casos ordinarios, el día primero de octubre y en los extraordinarios, únicos en que será necesaria la convocatoria, el día que ésta fije.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+
+El Congreso cambiará su nomenclatura cada tres años.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
+
+###### Art. 45.
+
+Con la salvedad prevista en el inciso c), Apartado C, de la Base V, del Artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, el Instituto Estatal Electoral declarará diputados electos al Congreso del Estado, a los candidatos que hubieren recibido constancias de mayoría y de asignación proporcional no impugnadas ante el Tribunal Estatal Electoral dentro de los plazos y con los requisitos establecidos por la ley.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
+
+###### Art. 46.
+
+Con la salvedad prevista en el inciso c), Apartado C, de la Base V, del Artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, el Tribunal Estatal Electoral resolverá las impugnaciones que se interpongan en contra de las declaratorias de validez de elecciones y de las constancias de mayoría y de las de asignación proporcional otorgadas a los candidatos a diputados. Del mismo modo, las que se presenten en materia de referéndum y plebiscito.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
+
 ###### Art. 47.
+
+La Legislatura se instalará el día 1 de septiembre del año que corresponda.
 
 La Legislatura no podrá instalarse ni ejercer sus funciones sin la presencia de más de la mitad del número total de sus miembros; pero los diputados presentes, para la instalación, cualquiera que sea su número, deberán reunirse los días señalados por la ley, o por la convocatoria en su caso, y compeler a los ausentes a que concurran dentro de los cinco días siguientes, con el apercibimiento de que si no lo hicieren se llamará a los suplentes.
 
-Si en una segunda reunión no hubiere la mayoría requerida para la instalación del Congreso, se llamará desde luego a los suplentes para que desempeñen el cargo durante todo el período constitucional.
+Si en una segunda reunión no hubiere la mayoría requerida para la instalación del Congreso, se llamará desde luego a los suplentes para que desempeñen el cargo durante el periodo constitucional.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1073,9 +1083,9 @@ A.- Elegir Gobernador interino, provisional o sustituto en los casos que estable
 
 B) Nombrar a los magistrados del Supremo Tribunal de Justicia, de entre la terna que someta a su consideración la Comisión a que se refiere el artículo 103 de esta Constitución; así como aprobar el nombramiento del Fiscal General del Estado que para tal efecto envíe el Gobernador.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
-C) Elegir y remover al consejero presidente y consejeros electorales del Instituto Estatal Electoral, así como a los consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública;
+C) Elegir y remover a los consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública;
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
@@ -1101,9 +1111,9 @@ Si alguno de los miembros dejare de desempeñar su cargo, será sustituido por s
 
 G.- Nombrar, por el voto de las dos terceras partes de los diputados presentes, a propuesta en terna de los presidentes municipales, a los titulares de las direcciones de seguridad pública municipales o sus equivalentes, cuando así lo haya determinado expresamente el ayuntamiento.
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2015)</small>
 
-XVI. Recibir la protesta legal del Gobernador, de los Diputados; de los Magistrados del Supremo Tribunal de Justicia, del Fiscal General del Estado; del Consejero Presidente y de los Consejeros Electorales del Instituto Estatal Electoral; del Presidente y demás integrantes del Consejo de la Comisión Estatal de los Derechos Humanos, así como de los Consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública;
+XVI.- Recibir la protesta legal del Gobernador, de los Diputados; de los Magistrados del Tribunal Superior de Justicia, del Fiscal General del Estado; del Presidente y demás integrantes del Consejo de la Comisión Estatal de los Derechos Humanos, así como de los Consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública;
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1113,9 +1123,9 @@ XVII.- Resolver sobre las renuncias que hagan de sus cargos los funcionarios a q
 
 XVIII.- Convocar para elecciones extraordinarias de Gobernador en los casos que determina esta Constitución y de diputados en el caso del artículo 60 y, cuando habiendo falta definitiva de un diputado propietario y de su suplente, hayan de transcurrir más de doce meses para que se efectúen las ordinarias.
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2015)</small>
 
-XIX. Conceder licencia temporal para separarse del ejercicio de sus funciones al gobernador, a los diputados, y a los magistrados del Supremo Tribunal de Justicia, cuando la de estos últimos sea por más de veinte días; al consejero presidente y consejeros electorales del Instituto Estatal Electoral; así como a los consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública;
+XIX.- Conceder licencia temporal para separarse del ejercicio de sus funciones al gobernador, a los diputados, a los magistrados del Tribunal Superior de Justicia, y al Presidente de la Comisión Estatal de los Derechos Humanos, cuando la de estos últimos sea por más de veinte días; así como a los consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública;
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1219,9 +1229,7 @@ Nombrar y remover libremente al Oficial Mayor del Congreso del Estado.
 
 Una vez nombrados, tomarles la protesta de ley a ambos servidores públicos.
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2008)</small>
-
-XLV.- Aprobar, por mayoría calificada, los convenios que celebre el Instituto Estatal Electoral con el Instituto Federal Electoral, tendientes a la organización de los procesos electorales en el Estado.
+XLV.- (DEROGADA, P.O. 8 DE AGOSTO DE 2015)
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2008)</small>
 
@@ -1541,9 +1549,11 @@ El cargo de Gobernador sólo es renunciable por causa grave que calificará el C
 
 La elección de Gobernador será popular y directa en los términos que disponga esta Constitución, la Federal y la legislación electoral.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
+
 ###### Art. 87.
 
-El Gobernador, en cada período constitucional entrará a ejercer su encargo el día cuatro de octubre del año en que se efectúen las elecciones ordinarias, durará en su encargo seis años, cesará en su ejercicio el tres de octubre en que termine el período respectivo, y, en ningún caso, ni por ningún motivo, podrá volver a ocupar ese cargo ni aún con el carácter de Interino, Provisional, Substituto o cualquiera otra que sea su denominación.
+El Gobernador, en cada periodo constitucional, entrará a ejercer su encargo el día ocho de septiembre del año en que se efectúen las elecciones ordinarias, durará en su encargo seis años, cesará en su ejercicio el día siete de septiembre en que termine el periodo respectivo, y, en ningún caso, por ningún motivo, podrá volver a ocupar ese cargo, ni aún con el carácter de Interino, Provisional, Sustituto, o cualquiera otra que sea su denominación.
 
 ###### Art. 88.
 
@@ -2149,101 +2159,33 @@ El territorio del Estado se divide en sesenta y siete municipios que son:
 
 1. Ahumada, 2. Aldama, 3. Allende, 4. Aquiles Serdán, 5. Ascensión, 6. Bachíniva, 7. Balleza, 8. Batopilas, 9. Bocoyna, 10. Buenaventura, 11. Camargo, 12. Carichí, 13. Casas Grandes, 14. Coronado, 15. Coyame del Sotol, 16. Cuauhtémoc, 17. Cusihuiriachi, 18. Chihuahua, 19. Chínipas, 20. Delicias, 21. Dr. Belisario Domínguez, 22. El Tule, 23. Galeana, 24. Gómez Farías, 25. Gran Morelos, 26. Guadalupe, 27. Guadalupe y Calvo, 28. Guachochi, 29. Guazapares, 30. Guerrero, 31. Hidalgo del Parral, 32. Huejotitán, 33. Ignacio Zaragoza, 34. Janos, 35. Jiménez, 36. Juárez, 37. Julimes, 38. La Cruz, 39. López, 40. Madera, 41. Maguarichi, 42. Manuel Benavides, 43. Matachí, 44. Matamoros, 45. Meoqui, 46. Morelos, 47. Moris, 48. Namiquipa, 49. Nonoava, 50. Nuevo Casas Grandes, 51. Ocampo, 52. Ojinaga, 53. Praxedis G. Guerrero, 54. Riva Palacio, 55. Rosales, 56. Rosario, 57. San Francisco de Borja, 58. San Francisco de Conchos, 59. San Francisco del Oro, 60. Santa Bárbara, 61. Santa Isabel, 62. Satevó, 63. Saucillo, 64. Temósachic, 65. Urique, 66. Uruachi, 67. Valle de Zaragoza.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2001)</small>
-
-Art.- 126. El ejercicio del Gobierno Municipal estará a cargo:
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2001)</small>
-
-I.- De los Ayuntamientos, los que serán electos popular y directamente según el principio de votación mayoritaria relativa, residirán en las cabeceras de las municipalidades que gobiernen, durarán en su encargo tres años y estarán integrados por un presidente, un síndico y el número de regidores que determine la ley, con sus respectivos suplentes.
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1988)</small>
-
-Los ayuntamientos se integrarán, además, con el número de Regidores electos según el principio de representación proporcional que determine la ley, la cual regulará el procedimiento para realizar las asignaciones correspondientes.
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1988)</small>
-
-El número de Regidores de representación proporcional se fijará por la ley tomando en cuenta el índice demográfico y las condiciones socioeconómicas de cada municipio.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
-
-Los regidores electos por el principio de votación mayoritaria relativa y por el de representación proporcional, tendrán la misma categoría e iguales derechos y obligaciones.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
-
-Los miembros de los ayuntamientos no podrán ser reelectos en sus cargos para el período siguiente. Los que tengan el carácter de propietarios no podrán ser electos para el período inmediato con el cargo de suplentes, pero éstos sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
-
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 1994)</small>
-
-El Presidente, cualquiera que sea el carácter con que desempeñe el cargo, no podrá ser electo regidor propietario ni suplente. Los regidores que hayan estado en ejercicio sí podrán ser electos para el período inmediato para el cargo de Presidente.
-
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 1994)</small>
-
-Las prohibiciones anteriores comprenden también a los miembros de los Consejos Municipales que hayan sido nombrados por el Congreso en ejercicio de sus funciones.
-
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 1994)</small>
-
-Si alguno de los miembros de un ayuntamiento dejare de desempeñar su cargo, será sustituido por su suplente, o se procederá según lo disponga la ley.
-
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
-
-II.- De las juntas municipales, las que residirán en la cabecera de la sección municipal respectiva; durarán en su encargo tres años y serán integradas por los miembros que la ley establezca y de acuerdo con los procedimientos que en la misma se regulen, y
-
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
-
-III.- De los comisarios de policía, los que residirán en los lugares de menor población, durarán en su encargo tres años y serán electos y removidos en los términos indicados en la fracción anterior.
-
-Por cada miembro propietario de un Ayuntamiento o Junta Municipal y por cada Comisario de Policía, se elegirá un Suplente, para cubrir las faltas del respectivo Propietario.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
 ###### Art. 126.
 
-La Administración Municipal estará a cargo:
+El ejercicio del Gobierno Municipal estará a cargo:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+I. De los Ayuntamientos, los que serán electos popular y directamente según el principio de votación mayoritaria relativa, residirán en las cabeceras de las municipalidades que gobiernen, durarán en su encargo tres años y estarán integrados por un presidente, un síndico y el número de regidores que determine la ley, con sus respectivos suplentes.
 
-I.- De los Ayuntamientos, los que serán electos popular y directamente según el principio de votación mayoritaria relativa, residirán en las cabeceras de las municipalidades que administren, durarán en su encargo tres años y estarán integrados por un presidente, un síndico y el número de regidores que determine la ley, con sus respectivos suplentes.
+Los ayuntamientos se integrarán además, con el número de Regidores electos según el principio de representación proporcional que determine la ley, la cual regulará el procedimiento para realizar las asignaciones correspondientes.
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1988)</small>
+El número de Regidores de representación proporcional se fijará por la ley tomando en cuenta el índice demográfico y las condiciones socioeconómicas de cada municipio. Los regidores electos por el principio de votación mayoritaria relativa y por el de representación proporcional, tendrán la misma categoría e iguales derechos y obligaciones.
 
-Los ayuntamientos se integrarán, además, con el número de Regidores electos según el principio de representación proporcional que determine la ley, la cual regulará el procedimiento para realizar las asignaciones correspondientes.
+Los miembros de los ayuntamientos podrán ser reelectos para el mismo cargo por un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Los que tengan el carácter de propietarios no podrán ser electos para el período inmediato con el cargo de suplentes, pero éstos sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio. En el caso de miembros del ayuntamiento que hayan surgido de postulación independiente, deberán seguir el procedimiento de obtención del apoyo ciudadano por planilla que prevea la Ley.
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1988)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 8 DE AGOSTO DE 2015)</small>
 
-El número de Regidores de representación proporcional se fijará por la ley tomando en cuanta el índice demográfico y las condiciones socioeconómicas de cada municipio.
+Lo dispuesto en el párrafo anterior no comprende a los Concejos Municipales que hayan sido nombrados por el Congreso en ejercicio de sus funciones.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+Si alguno de los miembros de un ayuntamiento dejare de desempeñar su cargo, será sustituido por su suplente, o se procederá según lo disponga la ley;
 
-Los regidores electos por el principio de votación mayoritaria relativa y por el de representación proporcional, tendrán la misma categoría e iguales derechos y obligaciones.
+II. De las juntas municipales, las que residirán en la cabecera de la sección municipal respectiva; durarán en su encargo tres años y serán integradas por los miembros que la ley establezca y de acuerdo con los procedimientos que en la misma se regulen, y
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+III. De los comisarios de policía, los que residirán en los lugares de menor población, durarán en su encargo tres años y serán electos y removidos en los términos indicados en la fracción anterior.
 
-Los miembros de los ayuntamientos no podrán ser reelectos en sus cargos para el período siguiente. Los que tengan el carácter de propietarios no podrán ser electos para el período inmediato con el cargo de suplentes, pero éstos sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
+Por cada miembro propietario de un Ayuntamiento o Junta Municipal y por cada Comisario de Policía, se elegirá un suplente para cubrir las faltas del respectivo propietario.
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 1994)</small>
-
-El Presidente, cualquiera que sea el carácter con que desempeñe el cargo, no podrá ser electo regidor propietario ni suplente. Los regidores que hayan estado en ejercicio sí podrán ser electos para el período inmediato para el cargo de Presidente.
-
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 1994)</small>
-
-Las prohibiciones anteriores comprenden también a los miembros de los Consejos Municipales que hayan sido nombrados por el Congreso en ejercicio de sus funciones.
-
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 1994)</small>
-
-Si alguno de los miembros de un ayuntamiento dejare de desempeñar su cargo, será sustituido por su suplente, o se procederá según lo disponga la ley.
-
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
-
-II.- De las juntas municipales, las que residirán en la cabecera de la sección municipal respectiva; durarán en su encargo tres años y serán integradas por los miembros que la ley establezca y de acuerdo con los procedimientos que en la misma se regulen, y
-
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
-
-III.- De los comisarios de policía, los que residirán en los lugares de menor población, durarán en su encargo tres años y serán electos y removidos en los términos indicados en la fracción anterior.
-
-Por cada miembro propietario de un Ayuntamiento o Junta Municipal y por cada Comisario de Policía, se elegirá un Suplente, para cubrir las faltas del respectivo Propietario.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 127.
 
@@ -2273,9 +2215,11 @@ VI.- No ser servidor público federal, estatal o municipal con funciones de dire
 
 VII.- (DEROGADA, P.O. 1 DE OCTUBRE DE 1994)
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
+
 ###### Art. 128.
 
-No podrán ser reelectos para el período inmediato, los miembros de las Juntas Municipales y los Comisarios de Policía, bajo ningún carácter; pero los Suplentes sí podrán serlo como propietarios, siempre que no hayan entrado en funciones en el período de que se trate.
+Los miembros de las Juntas Municipales y los Comisarios de Policía podrán ser reelectos por un período adicional para el mismo cargo.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -2289,11 +2233,11 @@ II.- Ser vecino del Estado, y
 
 III.- Tener cuando menos dos meses de residencia habitual inmediatamente anteriores a la fecha de la elección en la municipalidad, sección municipal o comisaría de policía de que se trate.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
 ###### Art. 130.
 
-Los Ayuntamientos se instalarán el día diez de octubre de los años correspondientes a su renovación, y las juntas municipales y los comisarios de policía antes del día treinta y uno de enero del año siguiente.
+Los ayuntamientos se instalarán el día diez de septiembre de los años correspondientes a su renovación, y las juntas municipales y los comisarios de policía antes del treinta y uno de enero del año siguiente.
 
 ###### Art. 131.
 
@@ -2789,15 +2733,15 @@ II. Ningún servidor público podrá recibir remuneración igual o superior al m
 
 III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Gobernador del Estado en el presupuesto correspondiente.
 
-IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios que requieran los servidores públicos por razón del cargo desempeñado.
+IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
 
 V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
 ###### Art. 166.
 
-El Supremo Tribunal de Justicia, el Instituto Estatal Electoral, el Tribunal Estatal Electoral, el Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública y la Comisión Estatal de los Derechos Humanos, por conducto de sus respectivos presidentes, comunicarán oportunamente al Poder Ejecutivo el proyecto de presupuesto de egresos para cada año fiscal a fin de que, sin modificación alguna, lo presente al Congreso.
+El Tribunal Superior de Justicia, el Instituto Estatal Electoral, el Tribunal Estatal Electoral, el Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública y la Comisión Estatal de los Derechos Humanos, por conducto de sus respectivos Presidentes, comunicarán oportunamente al Poder Ejecutivo el proyecto de presupuesto de egresos para cada año fiscal a fin de que, sin modificación alguna, lo presente al Congreso.
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2015)</small>
 
@@ -3101,13 +3045,17 @@ Todo servidor público del Estado o de los municipios, que tenga funciones de di
 
 La ley determinará la fórmula de la protesta y ante quien deba otorgarse, en los casos que esta Constitución no especifique.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2015)</small>
 
 ###### Art. 197.
 
-Los servidores públicos del Estado y los municipios tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+Los servidores públicos del Estado y los municipios, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos y candidatos independientes.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
 
 La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública estatal y municipal, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
 
 Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
 
@@ -3949,17 +3897,17 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 
 Por lo que hace a la reforma constitucional contenida en el Artículo Primero del presente Decreto, ésta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. La reforma al artículo 58 de la Ley Electoral del Estado de Chihuahua, contenida en el Artículo Segundo del presente Decreto, surtirá vigencia un día después de que lo haga la reforma constitucional señalada.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
+
 ###### ARTÍCULO TERCERO.
 
-Por una sola vez, circunscrita a los casos que enseguida se enumeran, la periodicidad establecida en artículos 36, segundo párrafo; 40, primer párrafo; 44, tercer párrafo; 87; y 126, fracciones I, primer párrafo; II y III, primer párrafo, todos de la Constitución Política del Estado de Chihuahua, para la designación de Diputados locales, integrantes de los Ayuntamientos, así como de las Juntas Municipales y Comisarios de Policía, se regirán en los términos siguientes:
+Por una sola vez, circunscrita a los casos que enseguida se enumeran, la periodicidad establecida en los artículos 36, segundo párrafo; 40, primer párrafo; 44, tercer párrafo, 87; y 129, fracciones I, primer párrafo; II y III primer párrafo, todos de la Constitución Política del Estado, para la asignación de diputados locales, integrantes de los Ayuntamientos, así como de las Juntas Municipales y Comisarios de Policía, se regirán en los siguientes términos:
 
-l.- El próximo Gobernador Constitucional del Estado se elegirá por un período de cinco años, que comprenderá del 04 de octubre de 2016 al 03 de octubre de 2021;
+I.- El próximo Gobernador Constitucional del Estado se elegirá por un periodo comprendido del 4 de octubre del 2016 al 7 de septiembre de 2021;
 
-II.- Los Diputados que integrarán la LXV Legislatura local, durarán dos años en su cargo, que comprenderá del 01 de octubre de 2016 al 30 de septiembre de 2018;
+II.- Los Diputados que integrarán la LXV Legislatura local, durarán en su cargo un año, once meses, que comprenderá del 01 octubre de 2016 al 31 de agosto de 2018.
 
-III.- Los integrantes de los Ayuntamientos, así como de las Juntas Municipales y Comisarios de Policía que se elijan en el año 2016, durarán igualmente dos años en su cargo.
-
-Las autoridades electorales del Estado proveerán lo necesario en cada caso, a fin de que las disposiciones contenidas en este artículo tengan un exacto cumplimiento, y para que la periodicidad establecida por los artículos constitucionales mencionados, se concrete precisamente a los casos enunciados en las fracciones anteriores.
+III.- Los integrantes de los Ayuntamientos, así como las Juntas Municipales y Comisarios de Policía que se elijan en el año 2016, durarán igualmente un año, once meses en su encargo, que corresponderá del 10 de octubre de 2016, al 9 de septiembre de 2018.
 
 P.O. 5 DE ENERO DE 2013.
 
@@ -4208,3 +4156,33 @@ PRIMERO.- Con relación al Artículo Primero del presente Decreto y conforme a l
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 TERCERO.- Cualquier disposición constitucional, legal y reglamentaria en la que se haga referencia al Supremo Tribunal de Justicia del Estado, se entenderá en lo subsecuente referida al Tribunal Superior de Justicia. Así mismo, las funciones, facultades, derechos y obligaciones establecidos a cargo del Supremo Tribunal de Justicia del Estado, en contratos, convenios o acuerdos, celebrados con dependencias o entidades del Gobierno del Estado, de la Federación y de los municipios, y con cualquier persona física o moral, se entenderá que corresponden al Tribunal Superior de Justicia del Estado de Chihuahua.
+
+P.O. 8 DE AGOSTO DE 2015.
+
+PRIMERO.- Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los ayuntamientos de los sesenta y siete municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+SEGUNDO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Por esta ocasión, los magistrados electorales serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores, tres de ellos por un periodo de 7 años y los dos restantes por un periodo de 5 años, a fin de generar la renovación parcial periódica.
+
+CUARTO.- Las disposiciones contenidas en los artículos 44, 126 y 128 referentes a reelección de Diputados y Ayuntamientos, aplicará a partir del próximo proceso de elección popular, no siendo aplicable a los integrantes de (sic) Sexagésima Cuarta Legislatura ni a los actuales Ayuntamientos del Estado.
+
+QUINTO.- En caso de actualizarse la hipótesis de (sic) prevista en el artículo 40 constitucional, deberá recalcularse el número de diputados que se requieren para la obtención de la mayoría calificada.
+
+SEXTO.- Una vez que el presente Decreto entre en vigor, el Honorable Congreso del Estado realizará las adecuaciones a la ley secundaria en materia de candidaturas independientes de manera inmediata, a fin de dar cumplimiento a lo previsto en los Artículos 35, fracción II, y 116, fracción IV, incisos k) y p), de la Constitución Política de los Estados Unidos Mexicanos, previsto en la sentencia dictada por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación en el expediente identificado con la clave SUP-JDC-2665/2014.
+
+SÉPTIMO.- Se reforma el Artículo Tercero Transitorio del Decreto 883/2012 I P.O., publicado en el Periódico Oficial No. 82 del 13 de octubre de 2012, para quedar redactado como sigue:
+
+###### ARTÍCULO TERCERO.
+
+Por una sola vez, circunscrita a los casos que enseguida se enumeran, la periodicidad establecida en los artículos 36, segundo párrafo; 40, primer párrafo; 44, tercer párrafo, 87; y 129, fracciones I, primer párrafo; II y III primer párrafo, todos de la Constitución Política del Estado, para la asignación de diputados locales, integrantes de los Ayuntamientos, así como de las Juntas Municipales y Comisarios de Policía, se regirán en los siguientes términos:
+
+I.- El próximo Gobernador Constitucional del Estado se elegirá por un periodo comprendido del 4 de octubre del 2016 al 7 de septiembre de 2021;
+
+II.- Los Diputados que integrarán la LXV Legislatura local, durarán en su cargo un año, once meses, que comprenderá del 01 octubre de 2016 al 31 de agosto de 2018.
+
+III.- Los integrantes de los Ayuntamientos, así como las Juntas Municipales y Comisarios de Policía que se elijan en el año 2016, durarán igualmente un año, once meses en su encargo, que corresponderá del 10 de octubre de 2016, al 9 de septiembre de 2018.
+
+OCTAVO.- De conformidad con la fracción II del Artículo Transitorio Segundo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Político de los Estados Unidos Mexicanos, en materia política - electoral publicada en el Diario Oficial de la Federación el 10 de febrero del año 2014, la elección que se celebrará el año 2018 se realizará el primer domingo de julio.
+
+NOVENO.- Una vez que el presente Decreto sea aprobado, el Honorable Congreso del Estado realizará las adecuaciones a la ley secundaria en materia de candidaturas independientes de manera inmediata, a fin de, dar cumplimiento a lo previsto en los Artículos 35, fracción II, y 116, fracción IV, incisos k) y p), de la Constitución Política de los Estados Unidos Mexicanos, previsto en la sentencia dictada por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación en el expediente identificado con la clave SUP-JDC-2665/2014, y notificará a dicha Sala Superior del cumplimiento en vías de ejecución.
