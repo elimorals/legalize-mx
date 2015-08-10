@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-543-hacendario-para-el-municipio-de-veracruz-2955
 country: "mx"
 rank: "codigo"
 publication_date: "2003-03-10"
-last_updated: "2015-03-13"
+last_updated: "2015-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO PARA EL MUNICIPIO DE VERACRUZ, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2015.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 10 de marzo de 2003.
 
@@ -37,7 +37,7 @@ Que la Honorable Quincuagésima Novena Legislatura del Congreso del Estado se ha
 
 LA HONORABLE QUINCUAGÉSIMA NOVENA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE, EN USO DE LA FACULTAD QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN I Y 38 DE LA CONSTITUCIÓN POLÍTICA LOCAL; 18 FRACCIÓN I Y 47 SEGUNDO PÁRRAFO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; 103 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO; Y EN NOMBRE DEL PUEBLO, EXPIDE EL SIGUIENTE:
 
-> <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 CÓDIGO Número 543
 
@@ -49,7 +49,7 @@ HACENDARIO PARA EL MUNICIPIO DE VERACRUZ, ESTADO DE VERACRUZ DE IGNACIO DE LA LL
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PARRAFO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 ###### Artículo 1.
 
@@ -83,13 +83,13 @@ En los casos en que el órgano de gobierno sea un Concejo Municipal, le serán a
 
 IV. Cabildo: La forma de reunión del Ayuntamiento, donde se resuelven, de manera colegiada, los asuntos relativos al ejercicio de sus atribuciones de gobierno, políticas y administrativas;
 
-> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 V. Código de Procedimientos Administrativos: El Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave;
 
 VI. Comisión de Hacienda: La Comisión de Hacienda y Patrimonio Municipal del Ayuntamiento;
 
-> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 VII. Congreso: El Congreso del Estado de Veracruz de Ignacio de la Llave;
 
@@ -103,21 +103,21 @@ XI. Erario: Conjunto de recursos monetarios y medios de pago que tiene el Munici
 
 XII. Fisco: La autoridad fiscal u organismo encargado de recaudar o realizar el cobro coactivo de los ingresos del Municipio;
 
-> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 XIII. Gaceta Oficial: El órgano informativo oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave;
 
-> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 XIV. Gobierno del Estado: El Gobierno del Estado de Veracruz de Ignacio de la Llave;
 
-> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 XV. Ley de Catastro: La Ley de Catastro del Estado de Veracruz de Ignacio de la Llave;
 
 XVI. Ley de Coordinación Fiscal: La Ley de Coordinación Fiscal en el ámbito federal;
 
-> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 XVII. Municipio: El Municipio de Córdoba del Estado de Veracruz de Ignacio de la Llave;
 
@@ -203,7 +203,7 @@ III. La Ley de Ingresos del Municipio; y
 
 > <small>(ADICIONADA, G.O. 25 DE JULIO DE 2008)</small>
 
-IV Los demás ordenamientos de naturaleza fiscal, que aplique el Municipio, por prever disposiciones de su competencia, o las que deba ejercer como consecuencia de la suscripción de convenios.
+IV. Los demás ordenamientos de naturaleza fiscal, que aplique el Municipio, por prever disposiciones de su competencia, o las que deba ejercer como consecuencia de la suscripción de convenios.
 
 La aplicación de los ordenamientos a que se refiere este artículo corresponde a las autoridades fiscales.
 
@@ -233,7 +233,7 @@ IV. Los titulares de organismos públicos descentralizados o de empresas de part
 
 V. Los demás servidores públicos que auxilien a la Tesorería en el ejercicio de sus atribuciones, a los que las leyes y convenios confieren facultades específicas en materia de hacienda municipal o las reciban por delegación expresa de las autoridades señaladas en este artículo; y
 
-> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 VI. Las que así considera el Código Financiero para el Estado de Veracruz de Ignacio de la Llave, cuando actúen en términos de los convenios que, al efecto, celebren el Gobierno del Estado y el Municipio.
 
@@ -243,7 +243,7 @@ Las autoridades fiscales ejercerán sus facultades en la forma y los términos s
 
 Sólo las autoridades fiscales, facultadas al efecto, podrán aplicar el procedimiento administrativo de ejecución, con la finalidad de recuperar créditos fiscales insolutos, de conformidad con el Código de la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE JULIO DE 2004)</small>
 
 ###### Artículo 16.
 
@@ -489,7 +489,7 @@ IV. Si el crédito se determina mediante un convenio, en la fecha que éste señ
 
 V. Tratándose de actos de fiscalización, dentro de los quince días siguientes a la fecha en que surta efectos la notificación de la liquidación correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE JULIO DE 2004)</small>
 
 ###### Artículo 37.
 
@@ -881,7 +881,9 @@ Las autoridades fiscales, a fin de determinar la existencia del crédito fiscal,
 
 I. Revisar las bases de datos y los padrones fiscales;
 
-II. Autorizar la verificación o comprobación del cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y terceros relacionados con ellos, conforme a las disposiciones fiscales; III. Revisar las declaraciones de los contribuyentes, responsables solidarios y demás obligados, así como comprobar el cumplimiento de sus obligaciones, de conformidad con las disposiciones fiscales municipales;
+II. Autorizar la verificación o comprobación del cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y terceros relacionados con ellos, conforme a las disposiciones fiscales;
+
+III. Revisar las declaraciones de los contribuyentes, responsables solidarios y demás obligados, así como comprobar el cumplimiento de sus obligaciones, de conformidad con las disposiciones fiscales municipales;
 
 IV. Determinar y ordenar el cobro a los contribuyentes, responsables solidarios y demás obligados, de las diferencias por errores aritméticos en las declaraciones y por el pago en parcialidades de las contribuciones, tanto de las derivadas de la aplicación de disposiciones fiscales previstas en este ordenamiento, como las de naturaleza federal cuando actúen en los términos de los convenios de coordinación fiscal federal;
 
@@ -1121,7 +1123,7 @@ VI. Coadyuvar con los infractores, en cualquier forma, en la evasión total o pa
 
 Son infracciones cuya responsabilidad recae en los servidores públicos, las siguientes:
 
-I: Extender actas, expedir certificados, legalizar firmas, autorizar documentos, inscribirlos o registrarlos, sin que exista constancia de que se pagó la contribución correspondiente;
+I. Extender actas, expedir certificados, legalizar firmas, autorizar documentos, inscribirlos o registrarlos, sin que exista constancia de que se pagó la contribución correspondiente;
 
 II. Recibir el pago de una prestación fiscal y no enterar su importe de inmediato;
 
@@ -1607,7 +1609,7 @@ El Impuesto Sobre Traslación de Dominio de Bienes Inmuebles, se causará en tod
 
 Son sujetos de este impuesto, las personas físicas o morales que adquieran inmuebles ubicados dentro del territorio del Municipio, por alguna de las formas señaladas en el artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 7 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 133.
 
@@ -2005,7 +2007,7 @@ Los sujetos de este impuesto deberán inscribirse en el registro municipal, dent
 
 Cuando un mismo contribuyente realice más de un fraccionamiento deberá registrarlos por separado, con observancia de lo dispuesto en el párrafo anterior.
 
-> <small>(REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADO POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 ###### Artículo 181.
 
@@ -2511,7 +2513,7 @@ En el caso de que el servicio se preste en rebeldía del usuario, se notificará
 
 Los servicios de deslinde de predios tendrán como base la superficie del predio y se realizarán por peritos designados por el Ayuntamiento. Si practicado el deslinde resulta una diferencia en la superficie del predio, superior o inferior, sobre la que se utilizó como base para el pago de los derechos, se hará el ajuste correspondiente, procediendo al cobro o devolución, según el caso.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 9 DE ENERO DE 2007)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 9 DE ENERO DE 2007)</small>
 
 ### CAPÍTULO IV. DE LOS DERECHOS POR LOS SERVICIOS DE AGUA POTABLE Y DRENAJE DEL MUNICIPIO
 
@@ -2601,9 +2603,9 @@ a) Interés Social y Popular, 2 salarios mínimos, y
 
 b) Residencial, Industrial y Comercial, 10 salarios mínimos.
 
-> <small>(ADICIONADA, G.O. 7 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2015)</small>
 
-IX. Por diversas constancias en materia ambiental, expedidas por el Departamento de Ecología, 20 salarios mínimos;
+IX. Por diversas constancias en materia ambiental, expedidas por el área competente en materia de Ecología y Medio Ambiente, 20 salarios mínimos;
 
 > <small>(ADICIONADA, G.O. 7 DE JULIO DE 2004)</small>
 
@@ -2612,6 +2614,10 @@ X. Por diversas constancias expedidas por la Dirección de Protección Civil, 3 
 > <small>(ADICIONADA, G.O. 7 DE JULIO DE 2004)</small>
 
 XI. En los casos no especificados, la tarifa por la expedición de verificaciones, constancias o dictámenes, por cada uno, 2 salarios mínimos.
+
+> <small>(ADICIONADA, G.O. 10 DE AGOSTO DE 2015)</small>
+
+XII. Tratándose de constancias emitidas por conceptos del cobro de trámites y servicios que se deriven de los convenios de coordinación o colaboración con las autoridades federales, estatales, municipales, sectores públicos o privados, se realizará en términos del instrumento correspondiente. Ante la falta de monto definido, se cobrarán 3 salarios mínimos.
 
 ### CAPÍTULO VI. DE LOS DERECHOS POR SERVICIOS DE RASTRO O LUGARES AUTORIZADOS
 
@@ -3113,13 +3119,85 @@ con remolque 1.35
 
 Para otro tipo de vehículos, las tarifas anteriores se homologarán de acuerdo a las dimensiones y peso de los vehículos relacionados.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 10 DE AGOSTO DE 2015)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES DEL SERVICIO DE TESORERÍA
+### CAPÍTULO XV. DE LOS DERECHOS POR SERVICIOS PRESTADOS EN MATERIA DE PROTECCIÓN CIVIL
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2015)</small>
+
+###### Artículo 247 Ter.
+
+Por los servicios prestados en materia de Protección Civil se causarán y cobrarán en salarios mínimos, los siguientes derechos:
+
+I. Por la emisión de dictámenes técnicos y anuencias de instalaciones públicas y privadas.
+
+Alto riesgo
+
+1 a 166 metros cuadrados de superficie: 26
+
+167 a 332 metros cuadrados de superficie: 52
+
+333 a 500 metros cuadrados de superficie: 80
+
+Riesgo medio
+
+1 a 166 metros cuadrados de superficie: 23
+
+167 a 332 metros cuadrados de superficie: 46
+
+333 a 500 metros cuadrados de superficie: 70
+
+Bajo riesgo
+
+1 a 60 metros cuadrados de superficie: 7
+
+61 a 125 metros cuadrados de superficie: 14
+
+126 a 190 metros cuadrados de superficie: 21
+
+191 a 250 metros cuadrados de superficie: 28
+
+251 a 315 metros cuadrados de superficie: 35
+
+316 a 380 metros cuadrados de superficie: 42
+
+381 a 500 metros cuadrados de superficie: 60
+
+Se cobrarán 20 salarios mínimos adicionales por cada 500 metros cuadrados de superficie o fracción que exceda los primeros 500 metros cuadrados de superficie de los rubros mencionados.
+
+II. Por impartición de cada curso de capacitación a personas físicas o morales:
+
+Persona física: 2
+
+Persona moral: 60
+
+III. Por registro como tercero acreditado que por su actividad y experiencia se vinculen con la protección civil, para llevar a cabo cursos de capacitación, estudios de riesgo y vulnerabilidad, programas internos y especiales:
+
+Persona física: 25
+
+IV. Renovación de registro como terceros acreditados.
+
+Persona física: 12
+
+V. Por la autorización de programas especiales de Protección Civil que se presenten para la realización de un evento o espectáculo en el municipio, para promotores particulares, se pagará:
+
+Aforo del evento:
+
+De 1 a 1,000 asistentes: 40
+
+De 1,001 a 5,000 asistentes: 60
+
+De 5,001 a 10,000 asistentes: 80
+
+De 10,001 en adelante: 90
+
+VI. Por la emisión de la factibilidad de Protección Civil, para personas físicas y morales: 3.
+
+### CAPÍTULO ÚNICO
 
 ## TÍTULO TERCERO. DE LAS CONTRIBUCIONES POR MEJORAS
 
-### CAPÍTULO II. DE LOS PAGOS Y MINISTRACIONES
+### CAPÍTULO I. DISPOSICIONES GENERALES DEL SERVICIO DE TESORERÍA
 
 ###### Artículo 248.
 
@@ -3367,7 +3445,7 @@ Los ingresos extraordinarios se causarán y recaudarán de conformidad con los o
 
 ## TÍTULO PRIMERO. DE LOS SERVICIOS DE TESORERÍA
 
-### CAPÍTULO III. DE LA PRESCRIPCIÓN DE FONDOS Y CRÉDITOS
+### CAPÍTULO II. DE LOS PAGOS Y MINISTRACIONES
 
 ###### Artículo 269.
 
@@ -3427,7 +3505,7 @@ El servicio de recaudación y concentración de fondos podrá efectuarse por con
 
 Las instituciones bancarias, crediticias o comerciales pagarán intereses, por concepto de indemnización, en caso de entrega o concentración extemporánea de fondos, conforme a la tasa que al respecto determine la Tesorería, misma que se establecerá en los contratos que con ellos se celebren.
 
-### CAPÍTULO IV. DE LAS GARANTÍAS A FAVOR O A CARGO DEL MUNICIPIO
+### CAPÍTULO III. DE LA PRESCRIPCIÓN DE FONDOS Y CRÉDITOS
 
 ###### Artículo 274.
 
@@ -3447,7 +3525,7 @@ La Tesorería y las entidades solamente autorizarán el pago de anticipos que es
 
 Todo pago o salida de valores se registrará en la contabilidad de la Tesorería y de las correspondientes entidades.
 
-### CAPÍTULO V. DE LA CUSTODIA Y VIGILANCIA DE FONDOS Y VALORES
+### CAPÍTULO IV. DE LAS GARANTÍAS A FAVOR O A CARGO DEL MUNICIPIO
 
 ###### Artículo 277.
 
@@ -3459,7 +3537,7 @@ Cuando no sea posible determinar la fecha en que legalmente pudo exigirse la dev
 
 Los depósitos de los particulares en las cuentas del Ayuntamiento no generarán intereses a favor de quien los haya constituido o de sus beneficiarios.
 
-### CAPÍTULO VI. DE LA COLABORACIÓN ADMINISTRATIVA
+### CAPÍTULO V. DE LA CUSTODIA Y VIGILANCIA DE FONDOS Y VALORES
 
 ###### Artículo 278.
 
@@ -3489,7 +3567,7 @@ Las garantías que reciba el Ayuntamiento por contratos administrativos, en conc
 
 Las garantías a que alude el párrafo anterior se podrán hacer efectivas por la Tesorería o la Sindicatura, con sujeción a los procedimientos que establezcan los ordenamientos legales de la materia.
 
-### CAPÍTULO I. DEL PRESUPUESTO DE EGRESOS
+### CAPÍTULO VI. DE LA COLABORACIÓN ADMINISTRATIVA
 
 ###### Artículo 283.
 
@@ -3559,7 +3637,7 @@ I. Si es sobrante, ordenará su registro en la contabilidad, haciéndolo del con
 
 II. Cuando sea faltante, requerirá al responsable para que efectúe el reintegro en el acto; si el responsable justifica satisfactoriamente la razón del mismo, únicamente dará cuenta pormenorizada a la Tesorería. Si no lo justifica debidamente o no lo restituye, independientemente de cuidar que en el primer supuesto se dé entrada a las cantidades o valores faltantes, informará a la Contraloría o su equivalente, para los efectos que procedan conforme a la ley.
 
-### CAPÍTULO II. DEL GASTO PÚBLICO
+### CAPÍTULO I. DEL PRESUPUESTO DE EGRESOS
 
 ###### Artículo 294.
 
@@ -3577,7 +3655,7 @@ Los Convenios de Colaboración Administrativa que comprometan al Municipio por u
 
 ## TÍTULO SEGUNDO. DEL PRESUPUESTO DE EGRESOS Y GASTO PÚBLICO
 
-### CAPÍTULO III. DE LA ADMINISTRACIÓN DE LOS RECURSOS
+### CAPÍTULO II. DEL GASTO PÚBLICO
 
 #### SECCIÓN I. DE LA INTEGRACIÓN Y ESTRUCTURA DEL PRESUPUESTO DE EGRESOS
 
@@ -3687,7 +3765,7 @@ Cuando, con posterioridad a la aprobación del presupuesto, surjan situaciones e
 
 La formulación de los programas institucionales se sujetará a la estructura programática aprobada por la Tesorería, de conformidad con los lineamientos que para tales fines expida.
 
-### CAPÍTULO IV. DE LA CONTABILIDAD Y CUENTA PÚBLICA
+### CAPÍTULO III. DE LA ADMINISTRACIÓN DE LOS RECURSOS
 
 #### SECCIÓN ÚNICA. DEL EJERCICIO DEL GASTO PÚBLICO MUNICIPAL
 
@@ -3747,7 +3825,7 @@ El Cabildo determinará la forma en que deberán invertirse los subsidios que ot
 
 El Cabildo podrá autorizar la participación municipal en empresas, sociedades y asociaciones civiles y mercantiles, ya sea para su creación o para la adquisición de todo o parte de su capital social o su patrimonio, previa autorización del Congreso.
 
-### CAPÍTULO V. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
+### CAPÍTULO IV. DE LA CONTABILIDAD Y CUENTA PÚBLICA
 
 #### SECCIÓN I. DISPOSICIONES GENERALES EN MATERIA DE ADMINISTRACIÓN DE RECURSOS PÚBLICOS
 
@@ -3927,7 +4005,7 @@ El Ayuntamiento y entidades no comprometerán los recursos del capítulo de serv
 
 Si existen contratos por honorarios, no incrementarán sus percepciones ni obtendrán percepciones adicionales a las establecidas en el contrato respectivo.
 
-### CAPÍTULO I. DISPOSICIONES PRELIMINARES
+### CAPÍTULO V. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
 
 #### SECCIÓN I. DE LA CONTABILIDAD GUBERNAMENTAL
 
@@ -3959,7 +4037,7 @@ Las entidades someterán a la consideración de la Tesorería las modificaciones
 
 Los estados financieros y demás información financiera, presupuestal y contable, serán consolidados por la Tesorería, la que será responsable de:
 
-> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 I. Formular la cuenta anual de la Hacienda Pública Municipal, en términos del artículo 20 de la Ley de Fiscalización Superior para el Estado de Veracruz de Ignacio de la Llave;
 
@@ -4111,7 +4189,7 @@ El Ayuntamiento presentará al Congreso, para su estudio, dictamen y aprobación
 
 De no presentar en tiempo la cuenta pública al Congreso, el Presidente, los integrantes de la Comisión de Hacienda y el Tesorero serán penalmente responsables por el delito de abuso de autoridad o incumplimiento del deber legal. La Dirección de Servicios Jurídicos del Congreso presentará de oficio la denuncia ante el Ministerio Público.
 
-### CAPÍTULO II. DE LAS FACULTADES DE LAS AUTORIDADES EN MATERIA DE DEUDA
+### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
 #### SECCIÓN I. DEL CONTROL Y EVALUACIÓN
 
@@ -4237,7 +4315,7 @@ La Contraloría mantendrá actualizados los manuales de normas, políticas, guí
 
 La Contraloría, por cada una de las auditorías que se practiquen, recibirá un informe sobre el resultado de las mismas; estos informes se darán a conocer a los titulares de las dependencias y entidades auditadas para que, en su caso, ejecuten medidas tendientes a mejorar su gestión y el control interno, así como a corregir las desviaciones y deficiencias que se hubieren encontrado.
 
-> <small>(REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADO POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 Si, como resultado de las auditorías, se advirtieren irregularidades que afecten a la Hacienda Pública Municipal, o contravengan el presente Código, se procederá en los términos de la Ley Orgánica del Municipio Libre, de la Ley de Fiscalización Superior para el Estado de Veracruz de Ignacio de la Llave, del Código de Procedimientos Administrativos, y las disposiciones civiles o penales aplicables, según sea el caso.
 
@@ -4263,7 +4341,7 @@ Las dependencias y entidades proporcionarán los informes, documentos y, en gene
 
 ## TÍTULO ÚNICO
 
-### CAPÍTULO III. DE LA PROGRAMACIÓN DE LA DEUDA PÚBLICA
+### CAPÍTULO II. DE LAS FACULTADES DE LAS AUTORIDADES EN MATERIA DE DEUDA
 
 ###### Artículo 397.
 
@@ -4325,7 +4403,7 @@ Las entidades públicas a que se refieren las fracciones II a IV del artículo 3
 
 También se considera deuda extraordinaria la que autorice el H. Congreso del Estado mediante decretos posteriores al inicio del ejercicio para la contratación de financiamientos que se destinen a inversiones públicas productivas.
 
-### CAPÍTULO IV. DE LA CONTRATACIÓN DE LOS FINANCIAMIENTOS
+### CAPÍTULO III. DE LA PROGRAMACIÓN DE LA DEUDA PÚBLICA
 
 ###### Artículo 404.
 
@@ -4357,7 +4435,7 @@ XI. Las demás que le atribuya este ordenamiento, las que le sean delegadas conf
 
 Los titulares de las entidades a que se refieren las fracciones II a IV del artículo 398 de este Código, ejercerán en el ámbito de su competencia y en lo conducente, las atribuciones enumeradas, y, adicionalmente, se encontrarán obligados a informar a la Tesorería, del estado que guarda la deuda que contraten, para los efectos de la fracción VIII de este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE JULIO DE 2008)</small>
 
 ###### Artículo 405.
 
@@ -4405,9 +4483,7 @@ VI. Las demás que le confieran este Código y otras leyes.
 
 A fin de que las entidades a que refieren las fracciones II a IV del artículo 398 de este Código, puedan obtener autorización del Ayuntamiento para la contratación de financiamientos en el caso previsto en la fracción II del artículo 404, deberán proporcionar a la Tesorería sus programas financieros y la información que arroje su capacidad de pago, así como toda aquella que se les solicite, a fin de determinar sus necesidades de crédito y la viabilidad de su pago.
 
-### CAPÍTULO V. DE LAS GARANTÍAS Y FUENTES DE PAGO
-
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE JULIO DE 2008)</small>
+### CAPÍTULO IV. DE LA CONTRATACIÓN DE LOS FINANCIAMIENTOS
 
 ###### Artículo 408.
 
@@ -4441,7 +4517,9 @@ XII. Los demás requisitos que fije el Congreso.
 
 El Ayuntamiento, al someter al Congreso el proyecto de Ley de Ingresos, propondrá los montos del endeudamiento neto necesario y acompañará su programa de financiamiento, mismo que contendrá los elementos de juicio suficientes para fundamentar su propuesta, entre los que se encontrará la indicación clara de los recursos que se utilizarán para el pago de los financiamientos.
 
-### CAPÍTULO VI. DE LA VIGILANCIA Y REGISTRO DE LAS OPERACIONES DE FINANCIAMIENTO
+### CAPÍTULO V. DE LAS GARANTÍAS Y FUENTES DE PAGO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE JULIO DE 2008)</small>
 
 ###### Artículo 410.
 
@@ -4503,9 +4581,9 @@ Las entidades mencionadas en las fracciones II a IV del artículo 398 de este C�
 
 Cuando el Municipio se coordine o asocie a otro o al Estado para la prestación de servicios municipales, se podrán contratar en forma consolidada las operaciones a que se refiere el presente ordenamiento, pero se establecerán por separado las obligaciones a cargo de cada participante y de esta forma se inscribirán en el Registro de Deuda Pública Municipal o Estatal, en su caso.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 25 DE JULIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE JULIO DE 2008)</small>
 
-### CAPÍTULO VII. DE LA AFECTACIÓN DE LOS INGRESOS DERIVADOS DE LA COORDINACIÓN FISCAL
+### CAPÍTULO VI. DE LA VIGILANCIA Y REGISTRO DE LAS OPERACIONES DE FINANCIAMIENTO
 
 ###### Artículo 420.
 
@@ -4549,7 +4627,7 @@ VI. Que el Ayuntamiento esté al corriente en el cumplimiento de sus obligacione
 
 Todo esto sin perjuicio de los requisitos que para tal efecto señale el Código Financiero para el Estado.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VII. DE LA AFECTACIÓN DE LOS INGRESOS DERIVADOS DE LA COORDINACIÓN FISCAL
 
 ###### Artículo 423.
 
@@ -4611,7 +4689,7 @@ VII. Las variaciones de los endeudamientos.
 
 El número progresivo y la fecha de inscripción en el Registro de Deuda Pública Municipal darán preferencia a los acreditantes para los efectos de exigibilidad en el pago de las obligaciones.
 
-> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADO POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 ###### Artículo 430.
 
@@ -4635,9 +4713,9 @@ La inscripción en el Registro de Deuda Pública Municipal de las obligaciones a
 
 Las operaciones de crédito autorizadas, sólo podrán modificarse con los mismos requisitos y formalidades relativos a su autorización.
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 25 DE JULIO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE JULIO DE 2008)</small>
 
-### CAPÍTULO II. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 434.
 
@@ -4665,7 +4743,7 @@ Para todo lo no previsto en este Libro se estará a lo que señale el Código Fi
 
 ## TÍTULO PRIMERO. DE LOS BIENES EN GENERAL
 
-### CAPÍTULO III. DEL INVENTARIO
+### CAPÍTULO II. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
 ###### Artículo 436.
 
@@ -4739,7 +4817,7 @@ Los actos de adquisición, administración, uso, aprovechamiento, explotación o
 
 Los actos de planeación, programación, adquisición, almacenaje, control, destino, baja y arrendamiento; así como los procedimientos de rescisión administrativa y de enajenación de bienes muebles municipales se regirán por la ley de la materia.
 
-### CAPÍTULO I. DE LOS BIENES MUEBLES
+### CAPÍTULO III. DEL INVENTARIO
 
 ###### Artículo 444.
 
@@ -4769,7 +4847,7 @@ XI. Determinar el valor de los lotes de su propiedad susceptibles de enajenació
 
 XII. Las demás que les señalen la Constitución, el presente Código y demás leyes aplicables.
 
-### CAPITULO II. DE LOS BIENES INMUEBLES
+### CAPÍTULO I. DE LOS BIENES MUEBLES
 
 ###### Artículo 445.
 
@@ -4807,7 +4885,7 @@ La Comisión de Hacienda, de conformidad con lo establecido en la Ley Orgánica 
 
 ## TÍTULO SEGUNDO. DEL DOMINIO Y ADMINISTRACIÓN DE LOS BIENES
 
-### CAPÍTULO ÚNICO. DE LA RESCISIÓN ADMINISTRATIVA
+### CAPITULO II. DE LOS BIENES INMUEBLES
 
 ###### Artículo 449.
 
@@ -4816,6 +4894,8 @@ El Ayuntamiento, con apoyo en la Comisión de Hacienda, expedirá las normas rel
 ###### Artículo 450.
 
 Las enajenaciones de los bienes muebles no podrán realizarse a favor de los servidores públicos municipales que, en cualquier forma, intervengan en los actos relativos, ni de sus cónyuges o parientes consanguíneos y por afinidad hasta el cuarto grado, o de terceros con los que dichos servidores tengan vínculos privados o de negocios. Las enajenaciones que se realicen en contravención a ello serán causa de responsabilidad y serán nulos de pleno derecho.
+
+### CAPÍTULO ÚNICO. DE LA RESCISIÓN ADMINISTRATIVA
 
 ###### Artículo 451.
 
@@ -5073,7 +5153,7 @@ Sufragio efectivo. No reelección.
 
 Licenciado Miguel Alemán Velazco, Gobernador del Estado.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 18 DE MARZO DE 2003.
 
@@ -5134,3 +5214,9 @@ G.O. 13 DE MARZO DE 2015.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+G.O. 10 DE AGOSTO DE 2015.
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
