@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2015-03-13"
+last_updated: "2015-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2015.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
@@ -3759,13 +3759,11 @@ La Tesorería será responsable de integrar la cuenta pública del municipio, la
 
 La Tesorería determinará la forma en que se presentarán los informes para la integración de la cuenta pública, para lo cual podrá solicitar a las dependencias y entidades la información complementaria y aclaraciones que considere convenientes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 380.
 
-La Comisión de Hacienda, en coordinación con la Tesorería, someterá a la consideración del Cabildo la Cuenta Pública Municipal del ejercicio inmediato anterior, a más tardar el treinta de abril de cada año.
+La Comisión de Hacienda, en coordinación con la Tesorería, someterá a la consideración del Cabildo, la Cuenta Pública Municipal del ejercicio inmediato anterior, durante el mes de enero de cada año. Tratándose del último año de la administración municipal, deberán someterla a la consideración del Cabildo, durante el mes de diciembre, o bien, hasta el último día del mes de enero.
 
 ###### Artículo 381.
 
@@ -5030,3 +5028,11 @@ G.O. 13 DE MARZO DE 2015.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+G.O. 10 DE AGOSTO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. Los ayuntamientos que dispongan de Código Hacendario Municipal propio deberán proponer al Congreso del Estado las reformas correspondientes, con el propósito de ajustarlos a las disposiciones contenidas en el presente Decreto, en el plazo de treinta días hábiles contados a partir de la entrada en vigor del mismo.
