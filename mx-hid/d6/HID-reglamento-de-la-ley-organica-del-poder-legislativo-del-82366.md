@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-la-ley-organica-del-poder-legislativo-del-82366"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-01"
-last_updated: "2014-12-22"
+last_updated: "2015-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 1 de agosto de 2011.
 
@@ -765,9 +765,27 @@ Las propuestas de Acuerdo Económico presentadas por los Diputados relativo a lo
 
 Todos los Acuerdos Económicos que sean entregados a la Secretaría de Servicios Legislativos, para su inclusión en el Orden del Día de la sesión que corresponda, serán en forma escrita y magnética y deberán estar debidamente firmados.
 
-### CAPÍTULO IV. DE LOS DICTÁMENES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE AGOSTO DE 2015)</small>
 
-### CAPÍTULO V. DE LAS DISCUSIONES
+### CAPÍTULO III BIS. DE LOS ACUERDOS INTERNOS
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 69 BIS.- Acuerdo interno es aquel que emite la Comisión de Estudio y Dictamen, para atender aquellos asuntos que considere deban enriquecerse y complementarse, o bien los que carezcan de materia o aquellos cuyo cumplimiento interesa sólo al Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 69 TER.- Se invitará preferente al promovente a la Sesión de la o las Comisiones, en donde se analice la iniciativa o asunto que en su caso requiera Acuerdo Interno, concediéndole su derecho de audiencia.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 69 QUATER.- Todo Acuerdo Interno deberá estar fundado y motivado en función de criterios legales, constitucionales, financieros, operativos, técnicos, sin menoscabo de los que considere la o las Comisiones.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 69 QUINQUIES.- Una vez aprobado, deberá estar firmado por la mayoría de los Diputados integrantes de la o las Comisiones, mismo que se entregará a la Secretaría de Servicios Legislativos, para su cumplimiento.
+
+### CAPÍTULO IV. DE LOS DICTÁMENES
 
 ###### ARTÍCULO 70.
 
@@ -783,7 +801,7 @@ Los Dictámenes aprobados por el Pleno, serán turnados por el Presidente de la 
 
 En lo relativo a las Minutas de reformas a la Constitución Política de los Estados Unidos Mexicanos, se enviarán copias certificadas del Dictamen y Decreto correspondientes al H. Congreso de la Unión y a la Secretaría de Gobernación, con la sanción que se hubiere emitido.
 
-### CAPÍTULO VI. DE LAS VOTACIONES
+### CAPÍTULO V. DE LAS DISCUSIONES
 
 ###### ARTÍCULO 72.
 
@@ -829,7 +847,7 @@ III.- Cuestionamiento al orador, es la petición que se hace a quien está en el
 
 IV.- Aclaración y/o rectificación de hechos, se aplicará cuando algún Diputado solicite al orador precise o modifique algún punto del tema expuesto.
 
-### CAPÍTULO VII. DE LA FÓRMULA PARA LA EXPEDICIÓN DE LEYES, DECRETOS Y ACUERDOS ECONÓMICOS
+### CAPÍTULO VI. DE LAS VOTACIONES
 
 ###### ARTÍCULO 77.
 
@@ -873,7 +891,7 @@ Las votaciones no podrán interrumpirse salvo caso fortuito o fuerza mayor que c
 
 La Secretaría de Servicios Legislativos resguardará las cédulas, para el caso de reclamación por alguno de los integrantes de la Legislatura.
 
-### CAPÍTULO VIII. DEL CEREMONIAL
+### CAPÍTULO VII. DE LA FÓRMULA PARA LA EXPEDICIÓN DE LEYES, DECRETOS Y ACUERDOS ECONÓMICOS
 
 ###### ARTÍCULO 81.
 
@@ -915,7 +933,7 @@ Las Minutas enviadas por los Ayuntamientos, con la sanción, serán recibidas en
 
 De las Minutas recibidas se elabora una relación con el sentido de la sanción y la cantidad de Ayuntamientos que dieron cumplimiento a la misma, así como del resto de los Ayuntamientos, lo que formará parte del expediente.
 
-### CAPÍTULO I. DE LA AUDITORÍA SUPERIOR DEL ESTADO
+### CAPÍTULO VIII. DEL CEREMONIAL
 
 ###### ARTÍCULO 85.
 
@@ -959,13 +977,13 @@ Los titulares de los órganos auxiliares del Congreso, podrán emitir y dictar t
 
 Los titulares de los órganos auxiliares del Poder Legislativo, ejercerán las facultades y obligaciones a su cargo, con el apoyo del personal administrativo bajo su mando.
 
-### CAPÍTULO II. DE LA SECRETARÍA DE SERVICIOS LEGISLATIVOS
+### CAPÍTULO I. DE LA AUDITORÍA SUPERIOR DEL ESTADO
 
 ###### ARTÍCULO 88.
 
 La Auditoría Superior del Estado es el órgano técnico, dependiente del Congreso del Estado, que cuenta con autonomía técnica y de gestión, no así en cuanto a su presupuesto, en el ejercicio de sus atribuciones y para decidir su organización, funcionamiento y resoluciones, que están previstas en la Constitución, la Ley de la Auditoría Superior del Estado de Hidalgo, su Reglamento y demás disposiciones aplicables.
 
-### CAPÍTULO III. DE LA COORDINACIÓN DE ASESORÍA
+### CAPÍTULO II. DE LA SECRETARÍA DE SERVICIOS LEGISLATIVOS
 
 ###### ARTÍCULO 89.
 
@@ -1113,7 +1131,7 @@ IV.- Garantizar a la sociedad, mecanismos eficientes de transparencia, rendició
 
 V.- Las demás que le encomiende el Comité de Transparencia y Acceso a la Información Pública Gubernamental del Poder Legislativo del Estado.
 
-### CAPÍTULO IV. DE LA DIRECCIÓN GENERAL DE SERVICIOS ADMINISTRATIVOS
+### CAPÍTULO III. DE LA COORDINACIÓN DE ASESORÍA
 
 ###### ARTÍCULO 99.
 
@@ -1161,7 +1179,7 @@ XIII.- Al final de cada Legislatura, en auxilio del Presidente de la Comisión, 
 
 XIV.- las demás que le asigne la Comisión.
 
-### CAPÍTULO V. DEL INSTITUTO DE ESTUDIOS LEGISLATIVOS
+### CAPÍTULO IV. DE LA DIRECCIÓN GENERAL DE SERVICIOS ADMINISTRATIVOS
 
 ###### ARTÍCULO 103.
 
@@ -1297,7 +1315,7 @@ X.- Ordenar y administrar a la guardia del Congreso o a los grupos policiales co
 
 XI.- Las demás que, en el ámbito de su competencia, le instruya la Dirección General de Servicios Administrativos o el Presidente de la Junta de Gobierno.
 
-### CAPÍTULO VI. DEL INSTITUTO PARA EL DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE HIDALGO
+### CAPÍTULO V. DEL INSTITUTO DE ESTUDIOS LEGISLATIVOS
 
 ###### ARTÍCULO 110.
 
@@ -1355,7 +1373,7 @@ I.- Dirigir, coordinar y llevar a cabo, la actualización de la normateca del Co
 
 II.- Las demás que, en el ámbito de su competencia, le instruya el Director General del Instituto de Estudios Legislativos o el Presidente de la Junta de Gobierno.
 
-### CAPÍTULO VII. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL
+### CAPÍTULO VI. DEL INSTITUTO PARA EL DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE HIDALGO
 
 ###### ARTÍCULO 114.
 
@@ -1363,9 +1381,7 @@ El Instituto para el Desarrollo y Fortalecimiento Municipal del Estado de Hidalg
 
 Al frente del Instituto se encuentra un Titular, cuyas atribuciones se contemplan en el Artículo 201 de la Ley, su organización interna, funcionamiento y resoluciones, serán previstas en la Ley del Instituto para el Desarrollo y Fortalecimiento Municipal del Estado de Hidalgo, en la Constitución y demás Leyes y Reglamentos aplicables.
 
-### CAPÍTULO VIII. DE LA UNIDAD INSTITUCIONAL DE GÉNERO
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2014)</small>
+### CAPÍTULO VII. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL
 
 ###### ARTÍCULO 115.
 
@@ -1380,6 +1396,10 @@ En materia de recabar información podrá apoyarse en el Presidente de la Junta 
 El Director de Comunicación Social del Congreso, es el responsable de la información proporcionada a los diversos medios de comunicación Municipal, Estatal y Nacional, manteniendo contacto con los diversos congresos locales y generando una red de información que propicie el fortalecimiento de la imagen institucional, tanto de los Diputados como del quehacer legislativo y fomente el respeto a una cultura de la legalidad por parte de la sociedad en general.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2014)</small>
+
+### CAPÍTULO VIII. DE LA UNIDAD INSTITUCIONAL DE GÉNERO
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 116.
 
@@ -1488,3 +1508,7 @@ CUARTO. Las Comisiones que conozcan de la revisión del proceso de selección de
 Si transcurrido el plazo señalado en el párrafo anterior, las observaciones no fueren aclaradas, las comisiones que conozcan del proceso determinarán lo conducente.
 
 En ningún caso las observaciones o la falta de su aclaración darán lugar a la reposición del procedimiento sino, como máximo, a la sustitución, en su caso, por el Titular del Ejecutivo de la propuesta o propuestas individuales realizadas.
+
+P.O. 10 DE AGOSTO DE 2015.
+
+ÚNICO. Envíese al Titular del Poder Ejecutivo de la Entidad, para su publicación en el Periódico Oficial del Estado.
