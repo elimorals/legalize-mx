@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-y-trato-digno-para-los-animales-en-el-44394"
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-28"
-last_updated: "2012-10-22"
+last_updated: "2015-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 28 de febrero de 2005.
 
@@ -131,9 +131,9 @@ XXII.- Epizootia: La enfermedad que se presenta en una población animal durante
 
 XXIII.- Esterilización: Proceso quirúrgico o químico, que se practica en los animales, para evitar su reproducción;
 
-XXIV. Fauna: Conjunto de animales de una región que viven en un mismo hábitat;
+XXIV.- Fauna: Conjunto de animales de una región que viven en un mismo hábitat;
 
-XXV. Hábitat: El sitio en un ambiente físico, ocupado por un organismo, población, especie o comunidad de especies en un tiempo determinado;
+XXV.- Hábitat: El sitio en un ambiente físico, ocupado por un organismo, población, especie o comunidad de especies en un tiempo determinado;
 
 XXVI.- Insectos productores: Referente a insectos que producen materias primas útiles al hombre, por la producción de miel, cera y pigmentos, o empleados para consumo animal o humano;
 
@@ -143,9 +143,15 @@ XXVIII.- Ley: La Ley de Protección y Trato Digno para los Animales en el Estado
 
 XXIX.- Mascotas: Los animales que sirven de compañía al ser humano;
 
-XXX.- Maltrato: Todo hecho, acto u omisión consciente o inconsciente que pueda ocasionar dolor, sufrimiento, poner en riesgo la vida de un animal o que afecten gravemente su salud;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2015)</small>
 
-XXXI.- Prevención: Conjunto de acciones y medidas para evitar el deterioro de la salud humana o animal, conservado el equilibrio ecológico;
+XXX.- Maltrato: Todo hecho, acto u omisión del ser humano, que puede ocasionar dolor, deterioro físico o sufrimiento que afecte el bienestar, ponga en peligro la vida del animal o afecte gravemente su salud o integridad física, así como la exposición a condiciones de sobreexplotación de su capacidad física, con cualquier fin;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2015)</small>
+
+XXX Bis.- Crueldad: Acto de brutalidad, sádico o zoofóbico contra cualquier animal, ya sea por acción directa, omisión o negligencia;
+
+XXXI.- Prevención: Conjunto de acciones y medidas para evitar el deterioro de la salud humana o animal, conservado (sic) el equilibrio ecológico;
 
 > <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
@@ -171,7 +177,9 @@ XXXVIII Bis.- Secretaría: Secretaría de Medio Ambiente y Ordenamiento Territor
 
 XXXIX.- Sufrimiento: El padecimiento o dolor causado por daño físico o psicológico a cualquier animal;
 
-XL.- Trato digno y respetuoso: Las medidas que esta Ley, y otras que existan a nivel Federal, establezcan para evitar el dolor o angustia de cualquier animal durante su posesión, propiedad, captura, crianza, traslado, exhibición, cuarentena, comercialización, aprovechamiento, adiestramiento y sacrificio;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2015)</small>
+
+XL.- Trato digno y respetuoso: Las medidas que establecen esta ley, las leyes en la materia y las Normas Oficiales Mexicanas, para evitar dolor, deterioro físico o sufrimiento durante su posesión o propiedad, crianza, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, adiestramiento o sacrificio;
 
 XLI.- Vivisección: Cirugía experimental con fines didácticos o de investigación, que se le practica a cualquier animal vivo; y
 
@@ -649,27 +657,15 @@ El sacrificio de animales destinados para el consumo humano se hará solo con au
 
 ### CAPITULO DECIMO CUARTO. DE LOS ANIMALES DESTINADOS A ESPECTACULOS
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2015)</small>
+
 ### CAPITULO DECIMO QUINTO. DE LA FAUNA EXOTICA Y SILVESTRE
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 63.
 
-Los circos y demás espectáculos que traigan consigo animales, deberán apegarse a lo siguiente:
-
-I.- Los propietarios o encargados de los circos deberán contar con los permisos de las Autoridades competentes para establecer su espectáculo, debiendo acreditar que sus animales reciben la protección y cuidados que marca la presente Ley y las demás normas legales;
-
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
-
-II.- Tendrán que presentar ante la Procuraduría o el Área Técnica municipal competente, los permisos emitidos por las Autoridades correspondientes, para la posesión de fauna exótica y silvestre;
-
-III.- Deberán comprobar que sus animales se encuentran en perfecto estado de salud, o en tratamiento médico en su defecto, debiendo destinarlos a lugares adecuados para ellos, con espacio suficiente para su movilidad, además de tener una alimentación apropiada según la especie de que se trate;
-
-IV.- Se obligarán a demostrar que la vida del animal o su integridad física, no esta en riesgo al realizar su espectáculo;
-
-V.- Se verán comprometidos a evitar que sus animales sean perturbados por las personas, manteniéndolos aislados de éstas, antes de su espectáculo. O en su defecto deben supervisar su exhibición; y
-
-VI.- En todos los casos se emplearán medios humanitarios en el trato de los animales.
+En el Estado de Hidalgo, el establecimiento de los circos se sujetará a lo dispuesto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, Ley General de Vida Silvestre, las Normas Oficiales Mexicanas y demás Leyes en la materia.
 
 ###### Artículo 64.
 
@@ -1020,3 +1016,7 @@ P.O. 22 DE OCTUBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE AGOSTO DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
