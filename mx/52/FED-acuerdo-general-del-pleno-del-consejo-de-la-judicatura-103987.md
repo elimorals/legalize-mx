@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2015-07-24"
+last_updated: "2015-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 23 DE JULIO DE 2015, LAS REFERENCIAS QUE CUALQUIER DISPOSICIÓN HAGA A LA DIRECCIÓN GENERAL DE SERVICIOS MÉDICOS Y DESARROLLO INFANTIL, SE ENTENDERÁN HECHAS A LA DIRECCIÓN GENERAL DE SERVICIOS MÉDICOS, CON EXCEPCIÓN DE AQUELLAS QUE SE RELACIONEN CON SUS ATRIBUCIONES EN MATERIA DE DESARROLLO INFANTIL, MISMAS QUE SE ENTENDERÁN A LA DIRECCIÓN GENERAL DE SERVICIOS AL PERSONAL.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE AGOSTO DE 2015.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -2784,6 +2784,14 @@ III. Órganos u organismos y cualquier otro ente del Estado, nacional, federal, 
 La celebración será en forma directa siempre que de la investigación de mercado se desprenda que dicha adjudicación resulta ser la más conveniente para el Consejo al cumplir con los criterios y principios previstos en el artículo 134 de la Constitución; y lo autorice el Comité, quien lo informará a la Comisión.
 
 Cuando por disposiciones normativas los entes públicos a que se refiere este artículo no estén obligados a otorgar garantías, pactar penas convencionales, o cubrir otras de la misma naturaleza, se hará constar dicha circunstancia en el instrumento jurídico correspondiente, sin perjuicio de salvaguardar los intereses del Consejo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LAS FACULTADES DEL INSTITUTO DE LA JUDICATURA FEDERAL PARA CELEBRAR CONVENIOS DE COLABORACION EN MATERIA DE PRESTACIÓN DE SERVICIOS ACADÉMICOS, D.O.F. 10 DE AGOSTO DE 2015)</small>
+
+Una vez aprobados los programas de formación, capacitación, actualización, investigación y desarrollo, el Instituto de la Judicatura podrá celebrar convenios de colaboración en materia de prestación de servicios académicos con instituciones públicas o privadas, a fin de cumplir los objetivos previstos en dicho Programa, para lo cual deberá privilegiar los criterios y principios establecidos en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LAS FACULTADES DEL INSTITUTO DE LA JUDICATURA FEDERAL PARA CELEBRAR CONVENIOS DE COLABORACION EN MATERIA DE PRESTACIÓN DE SERVICIOS ACADÉMICOS, D.O.F. 10 DE AGOSTO DE 2015)</small>
+
+Para la formalización de esos convenios, se requerirá de la firma de su Director General, el cual deberá rendir un informe semestral al Comité en el que se precisen el nombre de la institución con la que celebró el convenio, su objeto, vigencia, monto, y avance de cumplimiento, entre otros elementos que se consideren de importancia en la contratación efectuada.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
 
@@ -11390,3 +11398,11 @@ TERCERO. Se abroga el Acuerdo del Pleno del Consejo de la Judicatura Federal, ap
 CUARTO. Las Direcciones Generales de Tesorería y de Programación y Presupuesto, deberán mantener actualizada la Guía de Solicitud y Comprobación de Viáticos y Transportación, para lo cual someterán a consideración de la Comisión de Administración las actualizaciones respectivas.
 
 QUINTO. Una vez aprobada la Guía de Solicitud y Comprobación de Viáticos y Transportación, deberá publicarse en el Portal de Intranet del Consejo de la Judicatura Federal, en el sitio definido para el tema de Viáticos y Transportación, para su estricta observancia.
+
+D.O.F. 10 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
