@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2015-04-20"
+last_updated: "2015-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -75,7 +75,7 @@ Durante su Ejercicio Constitucional, el Congreso del Estado tendrá dos Período
 
 El Congreso del Estado, tendrá dos períodos de receso al año, en los que funcionará la Diputación Permanente.
 
-El Congreso, podrá celebrar Sesiones Extraordinarias durante los períodos de receso, mismas que serán convocados por la Diputación Permanente o a solicitud del Titular del Poder Ejecutivo del Estado, en dichos períodos sólo se tratarán los asuntos que se precisen en la Convocatoria, pudiendo prolongarse por el tiempo necesario hasta lograr su objetivo. Para el caso en que termine el período de receso, sin haberse resuelto el asunto motivo de la Convocatoria, éste se incluirá en la agenda de los asuntos a tratar del Periodo Ordinario de Sesiones siguiente.
+El Congreso, podrá celebrar Sesiones Extraordinarias durante los períodos de receso, mismas que serán convocados por la Diputación Permanente o a solicitud del Titular del Poder Ejecutivo del Estado, en dichos periodos sólo se tratarán los asuntos que se precisen en la Convocatoria, pudiendo prolongarse por el tiempo necesario hasta lograr su objetivo. Para el caso en que termine el período de receso, sin haberse resuelto el asunto motivo de la Convocatoria, éste se incluirá en la agenda de los asuntos a tratar del Periodo Ordinario de Sesiones siguiente.
 
 ## TÍTULO SEGUNDO. DE LA INSTALACIÓN DE LA LEGISLATURA Y DEL RECINTO OFICIAL DEL CONGRESO
 
@@ -125,7 +125,9 @@ De no presentarse ni uno ni otro y tratándose de Diputados Electos por el princ
 
 Cuando los Diputados sean de representación proporcional, se llamará a quien tenga derecho conforme a la Ley de la materia;
 
-II.- Acto seguido, los Diputados otorgarán la protesta de Ley a que se refiere el Artículo 155 de la Constitución Política del Estado. Al efecto, el Presidente de la Directiva, puesta de pie la Asamblea, rendirá la protesta en los siguientes términos: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las Leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo de Diputado que la sociedad me ha conferido, mirando en todo por el bien prosperidad del Estado de Hidalgo. Y si así no lo hiciere, que la sociedad me lo demande". A continuación, el propio Presidente de la Directiva preguntará a los demás Diputados: ¿Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo de Diputado que se les ha conferido, mirando en todo, por el bien y prosperidad del Estado de Hidalgo? ". Los interrogados contestarán: "Si protesto". El Presidente de la Directiva, dirá: "Si así no lo hicieren, que la sociedad se los demande".
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2015)</small>
+
+II.- Acto seguido, los Diputados otorgarán la protesta de Ley a que se refiere el Artículo 155 de la Constitución Política del Estado. Al efecto, el Presidente de la Directiva, puesta de pie la Asamblea, rendirá la protesta en los siguientes términos: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las Leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo de Diputado que la sociedad me ha conferido, mirando en todo por el bien y prosperidad del Estado de Hidalgo. Y si así no lo hiciere, que el pueblo me lo demande". A continuación, el propio Presidente de la Directiva preguntará a los demás Diputados: "¿Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las Leyes que de ellas emanen y desempeñar leal y patrióticamente el cargo de Diputado que se les ha conferido, mirando en todo por el bien y prosperidad del Estado de Hidalgo?." Los interrogados contestarán: "Si protesto". El Presidente de la Directiva, dirá: "Si así no lo hicieren, que el pueblo se los demande".
 
 Los Diputados que se presenten o sean llamados al ejercicio del cargo con posterioridad a la Sesión Constitutiva de la Legislatura, rendirán la protesta en la primera Sesión ordinaria no solemne, en la que estén presentes, ante el Presidente de la Directiva en los términos de la fórmula anterior.
 
@@ -479,9 +481,9 @@ La Directiva del Congreso, es el Órgano de Dirección de los Trabajos del Pleno
 
 La Directiva del Congreso, estará integrada tanto en los periodos Ordinarios de Sesiones, como en las Sesiones Extraordinarias, por un Presidente, un Vicepresidente, dos Secretarios Propietarios y dos Secretarios Suplentes, electos por mayoría de votos de los Diputados presentes en la Sesión correspondiente.
 
-> <small>(F. DE E., P.O. 15 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2015)</small>
 
-La Directiva de la Diputación Permanente se compondrá de un Presidente, un Vicepresidente, un secretario propietario y dos suplentes comunes.
+La Directiva de la Diputación Permanente se compondrá de un Presidente, un Vice-presidente y un Secretario.
 
 ###### ARTÍCULO 55.
 
@@ -497,7 +499,7 @@ En caso de no ser posible nombrar a la Directiva que presidirá los trabajos del
 
 Durante los Períodos Ordinarios de Sesiones, la Directiva se renovará en su totalidad mensualmente, sin que los que hayan sido sus miembros, puedan ser electos para integrar otra Directiva en el mismo periodo de Sesiones.
 
-A la Presidencia de la Directiva, podrán acceder los Diputados en proporción a la representatividad de los Grupos Legislativos y al número de meses que integran los períodos de Sesiones.
+A la Presidencia de la Directiva, podrán- acceder los Diputados en proporción a la representatividad de los Grupos Legislativos y al número de meses que integran los períodos de Sesiones.
 
 Los integrantes de la Directiva, tanto de la Diputación Permanente como de las Sesiones Extraordinarias, durarán en su cargo todo el período de receso o el tiempo que dure la Sesión Extraordinaria, en su caso.
 
@@ -653,9 +655,11 @@ XI.- Las demás que se deriven de esta Ley, su Reglamento o de los Acuerdos que 
 
 Estas funciones podrán ser desahogadas por los Secretarios por conducto del Secretario de Servicios Legislativos, en uso de las facultades que le concede el Artículo 193 de esta Ley.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2015)</small>
+
 ###### ARTÍCULO 68.
 
-Las ausencias de los Secretarios propietarios serán cubiertas por los Secretarios Suplentes, conforme al orden de su designación. Cuando funcione la Diputación Permanente, las ausencias del Secretario Propietario, serán cubiertas por el Suplente.
+Las ausencias de los Secretarios propietarios serán cubiertas por los Secretarios Suplentes, conforme al orden de su designación y cuando faltaren unos y otros, serán cubiertas por el menos antiguo de los integrantes presentes que hubieran desempeñado este cargo. Cuando funcione la Diputación Permanente, las ausencias del Secretario Propietario, serán cubiertas por cualquiera de los Suplentes.
 
 #### SECCIÓN CUARTA. DE LA DIPUTACIÓN PERMANENTE
 
@@ -803,7 +807,9 @@ Los integrantes de las Comisiones, podrán ser sustituidos por causa justificada
 
 Las comisiones permanentes, a excepción de la Inspectora de la Auditoria Superior y de la Instructora, serán dobles, distinguiéndose con las denominaciones de primera y segunda.
 
-A las primeras Comisiones, pasaran los asuntos para su estudio y dictamen, y a las segundas, los Proyectos o Acuerdos que hubieren sido vetados por el titular del Poder Ejecutivo del Estado, a fin de realizar nuevo estudio, con vista a las objeciones hechas, pudiendo formular modificaciones y adiciones a los proyectos presentados.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2015)</small>
+
+A las primeras Comisiones, pasarán los asuntos para su estudio y dictamen o resolutivo, y a las segundas, los Proyectos o Acuerdos que hubieren sido vetados por el Titular del Poder Ejecutivo del Estado, a fin de realizar nuevo estudio, con vista a las objeciones hechas, pudiendo formular modificaciones y adiciones a los proyectos presentados.
 
 ###### ARTÍCULO 80.
 
@@ -857,9 +863,11 @@ Con motivo de alguna promoción o escrito dirigidos al Congreso o a alguna Comis
 
 En caso de no cumplirse lo señalado en el párrafo anterior, las notificaciones se harán por estrados, aún las de carácter personal.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2015)</small>
+
 ###### ARTÍCULO 89.
 
-Cuando a las Comisiones, le sean tomados asuntos cuya naturaleza no amerite la elaboración de un Dictamen, podrán rendir al Pleno o a la Diputación Permanente un informe de su tramitación.
+Cuando a las Comisiones, le sean turnados asuntos cuya naturaleza no amerite la elaboración de un Dictamen o aquellos, cuyo cumplimiento interesa exclusivamente al Congreso del Estado, podrán rendir al Pleno o a la Diputación Permanente un informe de su tramitación o emitir un Acuerdo Interno, en los asuntos que la Comisión considere que carecen de materia o aquellos cuyo cumplimiento interesa sólo al Congreso del Estado, conforme a lo dispuesto en el Reglamento de la Ley.
 
 ###### ARTÍCULO 90.
 
@@ -1087,15 +1095,19 @@ Si los hechos que la Ley señala como delitos se cometieran durante el receso o 
 
 El Presidente de la Directiva, informará inmediatamente a las Autoridades competentes de los hechos cometidos en el Recinto Oficial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2015)</small>
+
 ###### ARTÍCULO 114.
 
-Durante el Primer Periodo Ordinario de Sesiones, el Congreso se ocupará preferentemente de conocer el Informe del Resultado de la Revisión de la Cuenta Pública del Estado, las de los Municipios, las de los Organismos Autónomos y de cualquier persona física o moral que reciba por cualquier titulo recursos públicos.
+Durante el Segundo Período Ordinario de Sesiones, el Congreso se ocupará preferentemente de conocer el Informe del Resultado de la Revisión de la Cuenta Pública del Estado, las de los Municipios, las de los Organismos Autónomos y de cualquier persona física o moral que reciba por cualquier título recursos públicos.
 
 El Congreso concluirá la revisión de las cuentas públicas el 31 de octubre del año siguiente al de su presentación, con base en las conclusiones técnicas del Informe del Resultado de la Revisión, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoria Superior del Estado, siga su curso.
 
 La Auditoria Superior tiene la obligación de entregar al Congreso del Estado, el Informe del Resultado de la Revisión de la Cuenta Pública, a más tardar en la segunda quincena del mes de marzo del año siguiente al de su presentación.
 
-En el segundo y para que rijan en el año siguiente se ocupará prioritariamente de examinar y aprobar, en su caso, la Ley de Ingresos del Estado y las de los Municipios, así como el Presupuesto de Egresos del Estado, que el Gobernador deberá enviarle a más tardar el 15 de diciembre de cada año.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2015)</small>
+
+En el primero y para que rijan en el año siguiente se ocupará prioritariamente de examinar y aprobar, en su caso, la Ley de Ingresos del Estado y las de los Municipios, así como el Presupuesto de Egresos del Estado, que el Gobernador deberá enviarle a más tardar el 15 de diciembre de cada año.
 
 ###### ARTÍCULO 115.
 
@@ -1163,7 +1175,7 @@ Una vez designada la Directiva de la Diputación Permanente, el día de la Apert
 
 ###### ARTÍCULO 123.
 
-Terminados los trabajos de la Diputación Permanente, el día de la Clausura, el Presidente de la Directiva, hará la declaración formal en los siguientes términos: "La Diputación Permanente de la ...(número de orden) Legislatura del Congreso del Estado de Hidalgo, clausura hoy (día, mes y año) las Sesiones correspondientes al (primero, segundo, tercero, cuarto...) receso del (primer, segundo o tercer) año de Ejercicio Constitucional.
+Terminados los trabajos de la Diputación Permanente, el día de la Clausura, el Presidente de la Directiva, hará la declaración formal en los siguientes términos: "La Diputación Permanente de la... (número de orden) Legislatura del Congreso del Estado de Hidalgo, clausura hoy (día, mes y año) las Sesiones correspondientes al (primero, segundo, tercero, cuarto...) receso del (primer, segundo o tercer) año de Ejercicio Constitucional.
 
 ### CAPÍTULO IV. DE LOS ACUERDOS ECONÓMICOS
 
@@ -1310,6 +1322,10 @@ Toda propuesta de Acuerdo Económico que se dictamine, se someterá a votación 
 ###### ARTÍCULO 138.
 
 Cuando en el Congreso se discuta una propuesta de Acuerdo Económico y no fuere aprobada, la Presidencia preguntará si se turna nuevamente a Comisiones, para un nuevo análisis y dictamen, en caso de negativa, se tendrá como asunto concluido.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 138 BIS. Cuando del análisis de una Iniciativa, planteamiento o asunto general, se desprenda que el mismo no tiene viabilidad o es necesario enriquecerlo, la Comisión emitirá un Acuerdo Interno, para que el asunto de que se trate sea retirado de la Agenda Legislativa y entregado al promovente, de acuerdo con lo señalado en el artículo 67 del Reglamento.
 
 ### CAPÍTULO VII. DE LAS VOTACIONES
 
@@ -2166,3 +2182,7 @@ P.O. 16 DE FEBRERO DE 2015.
 P.O. 20 DE ABRIL DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE AGOSTO DE 2015.
+
+ÚNICO. Envíese al Titular del Poder Ejecutivo de la Entidad, para su publicación en el Periódico Oficial del Estado.
