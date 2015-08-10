@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-555-de-desarrollo-forestal-sustentable-para-el-51196
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-14"
-last_updated: "2012-05-18"
+last_updated: "2015-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51196&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 14 de julio de 2006.
 
@@ -201,7 +201,7 @@ Son autoridades competentes para procurar la regulación y el fomento de las acc
 
 I. El Ejecutivo del Estado a través de la Secretaría de Medio Ambiente;
 
-Il. El Gobierno Federal atendiendo lo que se dispone en la Ley General de Desarrollo Forestal Sustentable; y
+II. El Gobierno Federal atendiendo lo que se dispone en la Ley General de Desarrollo Forestal Sustentable; y
 
 III. Las autoridades municipales.
 
@@ -315,7 +315,9 @@ I. Diseñar, formular y aplicar, en concordancia con la política nacional y est
 
 II. Emitir los correspondientes Bandos de Buen Gobierno y Reglamentos Municipales en materia forestal;
 
-III. Podrán establecer una Dirección de Desarrollo Forestal Sustentable para atender las atribuciones que esta Ley les confiere;
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2015)</small>
+
+III. Elaborar el Plan de Desarrollo Forestal de acuerdo a la Política Nacional y Estatal; con base en el diagnóstico del estado de los recursos forestales del Municipio;
 
 IV. Coordinarse y, en su caso, celebrar acuerdos y convenios con la Federación y el Estado en el marco de los Servicios Federal y Estatal Forestales para:
 
@@ -366,6 +368,10 @@ XVII. Regular y vigilar la disposición final de residuos provenientes de la ext
 XVIII. En el momento de otorgar autorizaciones para la construcción, exigir, Carta Compromiso para que los productos forestales utilizados en la misma estén sujetos a la verificación de su legal procedencia; y
 
 XIX. La atención de los demás asuntos que en materia de desarrollo forestal sustentable les conceda esta Ley u otros ordenamientos.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2015)</small>
+
+Para la ejecución de las atribuciones anteriores, los ayuntamientos podrán establecer una Dirección de Desarrollo Forestal Sustentable, la cual deberá estar a cargo de un especialista en la materia.
 
 #### SECCIÓN TERCERA. Residencias Forestales
 
@@ -497,7 +503,7 @@ La planeación, teniendo como referentes a las Cuencas, Sub-cuencas y Microcuenc
 
 Los Consejos Forestales de la Entidad deberán ser consultados y será considerada su opinión al formularse el Plan Sectorial Forestal Estatal y los Programas específicos de Desarrollo Forestal Integral y Sustentable.
 
-###### Articulo 23.
+###### Artículo 23.
 
 El Ejecutivo del Estado y los Ayuntamientos son responsables de conducir, en el área de su competencia, la planeación del desarrollo forestal sustentable, con la participación democrática de los grupos sociales y privados, de conformidad con lo dispuesto por esta Ley.
 
@@ -1152,6 +1158,12 @@ Cuarto. El personal que por lo dispuesto en el presente Decreto cambie de adscri
 Quinto. Los procedimientos y recursos que se encuentren en trámite a la entrada en vigor de este decreto se substanciarán hasta su total conclusión, con arreglo a la ley, en la Secretaría del Medio Ambiente.
 
 Sexto. Las menciones en todo tipo de ordenamientos a la Secretaría de Desarrollo Agropecuario, Rural, Forestal y Pesca, como dependencia competente en materia forestal, se entenderán referidas a la Secretaría de Medio Ambiente, cuya normativa interior se reformará a la brevedad posible en términos del presente Decreto.
+
+G.O. 10 DE AGOSTO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de (sic) Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA SESIÓN EXTRAORDINARIA DE FECHA 25 DE FEBRERO DE 2016, SE APRUEBA LA INICIATIVA DE REFORMA DE DIVERSOS REGLAMENTOS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
 
