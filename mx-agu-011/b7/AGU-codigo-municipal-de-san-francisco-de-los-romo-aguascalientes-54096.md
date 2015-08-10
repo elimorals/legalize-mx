@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2014-12-01"
+last_updated: "2015-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2015.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -1039,33 +1039,67 @@ En todo lo no previsto en el presente Código, se recurrirá a las disposiciones
 
 ### CAPITULO I. De las Dependencias y Entidades de la Administración Municipal
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 99.
 
 Para el despacho de los asuntos de la Administración Pública Municipal, el Presidente Municipal se auxiliará de las siguientes Dependencias y Unidades Administrativas:
 
-I.- PRESIDENCIA MUNICIPAL
-
-Presidente Municipal;
+Secretaría Particular;
 
 Coordinación de Asesores;
 
-Secretaria Particular;
+Comité Municipal para el Desarrollo Integral de la Familia;
 
-Coordinación de Comunicación Social e Imagen Institucional;
+Coordinación de Comunicación Social;
 
-Departamento de Comunicación e Información;
+Coordinación (sic) Relaciones Públicas;
+
+Coordinación de Gestión Social;
+
+Delegación Puertecito de la Virgen;
+
+Delegación La Escondida;
+
+Instancia Municipal de la Mujer;
+
+Instancia Municipal de la Juventud;
+
+Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
+
+Dirección de Finanzas y Administración;
+
+Dirección de Contraloría Municipal;
+
+Dirección de Obras Públicas;
+
+Dirección de Desarrollo Social, Económico y Agropecuario;
+
+Dirección de Desarrollo Urbano;
+
+Dirección de Servicios Públicos y Ecología;
+
+Dirección de Asunto Jurídicos;
+
+Dirección de Seguridad Pública y Tránsito Municipal.
+
+De las unidades administrativas con que contará la Presidencia Municipal se desprenderá la estructura siguiente:
+
+I. PRESIDENCIA MUNICIPAL:
+
+Secretaría Particular;
+
+Coordinación de Asesores;
 
 Coordinación de Relaciones Públicas;
 
-Departamento de Gestión Social;
+Coordinación de Gestión Social;
 
-Instancia Municipal de la Mujer; e
+Instancia Municipal de la Mujer;
 
-Instancia Municipal de la juventud;
+Instancia Municipal de la Juventud.
 
-COMITÉ MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA (DIF)
+II. COMITÉ MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA (DIF):
 
 Presidente del Comité Municipal para el D.I.F;
 
@@ -1083,79 +1117,45 @@ Departamento Jurídico de la Defensa del Menor y la Familia;
 
 Departamento de INAPAM;
 
-Departamento de Habilidades, Capacitación y Desarrollo Integral; y
+Departamento de Habilidades, Capacitación y Desarrollo Integral;
 
-Departamento de Psicología;
+Departamento de Psicología.
 
-DELEGACIONES
+III. COORDINACIÓN DE COMUNICACIÓN SOCIAL:
 
-Delegación Puertecito de la Virgen;
+Coordinador;
+
+Departamento de Comunicación e Información.
+
+IV. DELEGACIÓN PUERTECITO DE LA VIRGEN:
 
 Delegado;
 
 Subdelegado.
 
-Delegación La Escondida;
+V. DELEGACIÓN LA ESCONDIDA:
 
 Delegado; y
 
 Subdelegado.
 
-CONTRALORIA Y DESARROLLO ADMINISTRATIVO MUNICIPAL
-
-Contralor Municipal;
-
-Departamento de Control Patrimonial y Auditoria;
-
-Departamento Jurídico y Auditoría; y
-
-Departamento de Mejora Regulatoria, Simplificación Administrativa e Innovación.
-
-II.- SECRETARIA DEL H. AYUNTAMIENTO Y DIRECCION GENERAL DE GOBIERNO
+VI. SECRETARÍA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO:
 
 Secretario del H. Ayuntamiento y Director General de Gobierno:
 
-Departamento de Reglamentos;
+Departamento de Reglamentos y Mercados;*
 
 Coordinación de Fomento Deportivo;
 
 Departamento de Acción Cívica y Cultural;
 
-Departamento de Control Sanitario;
+Departamento de Control Sanitario y Rastros;*
 
-Departamento de Protección Civil; y
+Departamento de Protección Civil;
 
-Paramédicos.
+Unidad Municipal de Paramédicos.*
 
-DIRECCION DE SEGURIDAD PUBLICA Y TRANSITO MUNICIPAL
-
-Director:
-
-Subdirección de Seguridad Pública y Tránsito Municipal;
-
-Primer Comandante de Seguridad Pública y Tránsito Municipal;
-
-Comandante de Grupo;
-
-Oficiales;
-
-Suboficiales;
-
-Agentes;
-
-Departamento de Servicios Médicos; y
-
-Departamento de Asuntos Internos;
-
-DIRECCION DE ASUNTOS JURIDICOS
-
-Director.
-
-Departamento de Gestión Jurídica; y
-
-Departamento de Jueces Calificadores.
-
-III.- DIRECCION DE FINANZAS Y ADMINISTRACION
+VII. DIRECCIÓN DE FINANZAS Y ADMINISTRACIÓN:
 
 Director de Finanzas y Administración;
 
@@ -1163,13 +1163,33 @@ Subdirector de Finanzas, Administración y Control Presupuestal;
 
 Departamento de Ingresos y Egresos;
 
-Departamento de Compras y Suministros; y
+Departamento de Compras y Suministros;
 
 Departamento de Recursos Humanos.
 
-IV.- DIRECCION DE DESARROLLO SOCIAL, ECONOMICO Y AGROPECUARIO
+VIII. DIRECCIÓN DE CONTRALORÍA MUNICIPAL:
 
-Director:
+Contralor Municipal;
+
+Departamento de Control Patrimonial;
+
+Departamento Jurídico y de Responsabilidades Administrativas;
+
+Departamento de Mejora Regulatoria, Simplificación Administrativa e Innovación.
+
+IX. DIRECCIÓN DE OBRAS PÚBLICAS:
+
+Director;
+
+Departamento de Supervisión de Costos y Licitaciones;
+
+Departamento de Proyectos;
+
+Departamento de Supervisión.
+
+X. DIRECCIÓN DE DESARROLLO SOCIAL, ECONÓMICO Y AGROPECUARIO:
+
+Director;
 
 Subdirector;
 
@@ -1177,29 +1197,57 @@ Departamento de Concertación Social;
 
 Departamento de Desarrollo Económico;
 
-Departamento de Desarrollo Agropecuario; y
+Departamento de Desarrollo Agropecuario;
 
-Departamento de Desarrollo Turístico;
+Departamento de Desarrollo Turístico.
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2014)</small>
-
-V.- DIRECCIÓN DE DESARROLLO
+XI. DIRECCIÓN DE DESARROLLO URBANO:
 
 Director;
 
-Departamento de Planes y Programas; y
+Departamento de Planes y Programas;
 
-Departamento de Usos de Suelo.
+Departamento de Uso de Suelo.
 
-DIRECCIÓN DE OBRAS PÚBLICAS
+XII. DIRECCIÓN DE SERVICIOS PÚBLICOS Y ECOLOGÍA:
 
 Director;
 
-Departamento de Proyectos;
+Departamento de Limpia y Aseo Público;
 
-Departamento de Costos y Licitación;
+Departamento de Alumbrado Público;
 
-Departamento de Supervisión.
+Departamento de Parques, Jardines y Panteones;
+
+Departamento de Ecología.
+
+XIII. DIRECCIÓN DE ASUNTO JURÍDICOS:
+
+Director;
+
+Departamento de Gestión Jurídica;
+
+Departamento de Jueces Calificadores.
+
+XIV. DIRECCIÓN DE SEGURIDAD PÚBLICA Y TRÁNSITO MUNICIPAL:
+
+Director;
+
+Subdirección de Seguridad Pública y Tránsito Municipal;
+
+Primer Comandante de Seguridad Pública y Tránsito Municipal;
+
+Comandantes de Grupo;
+
+Oficiales;
+
+Suboficiales;
+
+Agentes;
+
+Departamento de Servicios Médicos;
+
+Departamento de Asuntos Internos.
 
 ###### ARTICULO 100.
 
@@ -1461,11 +1509,11 @@ APARTADO SEPTIMO
 
 Contraloría y Desarrollo Administrativo Municipal
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 108.
 
-Corresponde a la Contraloría y Desarrollo Administrativo Municipal como órgano de control interno del Municipio de San Francisco de los Romo, el despacho de los siguientes asuntos:
+Corresponde a la Dirección de Contraloría Municipal como órgano de control interno del Municipio de San Francisco de los Romo, el despacho de los siguientes asuntos:
 
 I. Evaluar el Sistema de Control Interno en la Administración Pública Municipal;
 
@@ -1741,9 +1789,33 @@ XXIV. Ejercer las atribuciones que le corresponde al Municipio de la Regulación
 
 XXV. Auxiliar a la población en casos de siniestros y desastres;
 
-> <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2015)</small>
 
-XXVI. Las demás que le confiera el Presidente Municipal, que le encomiende el H. Ayuntamiento, el presente ordenamiento y demás que le señalen las leyes.
+XXVI. La prestación por sí o por conducto de terceras personas a través de concesiones, los servicios de mercados y rastro municipal;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2015)</small>
+
+XXVII. Vigilar que los servicios que proporciona el rastro a los usuarios se hagan en condiciones que garanticen la higiene en el sacrificio y transportación de los productos cárnicos;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2015)</small>
+
+XXIX (SIC). Regular la introducción y salida de ganado y el abastecimiento de carne para el consumo humano;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2015)</small>
+
+XXX. Impedir la comercialización de productos cárnicos que no hayan sido previamente inspeccionados en cuanto a sus condiciones sanitarias o no hayan cubierto los impuestos y/o derechos municipales;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2015)</small>
+
+XXXI. Determinar el destino de las carnes no apropiadas para el consumo humano de la población de acuerdo a la Ley General de Salud;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2015)</small>
+
+XXXII. Supervisar el correcto funcionamiento y prestación del servicio público de los mercados y áreas comerciales; y
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2015)</small>
+
+XXXIII. Las Demás que el Presidente Municipal le Encomiende.
 
 ###### ARTICULO 111.
 
@@ -2057,17 +2129,19 @@ ARTICULO 114 B. Corresponde a la Dirección de Servicios Públicos:
 
 I. Inspeccionar los trabajos de mantenimiento y conservación de los servicios públicos municipales;
 
-II. La prestación por sí o por conducto de terceras personas a través de concesiones, los servicios de mercados, rastro municipal, control de rabia y de población canina, limpia y aseo público, tratamiento y disposición final de residuos sólidos no peligrosos, panteones, parques y jardines, alumbrado público. En cuanto al control de rabia y de población canina, el servicio no puede concesionarse;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2015)</small>
 
-III. Vigilar que los servicios que proporciona el rastro a los usuarios se hagan en condiciones que garanticen la higiene en el sacrificio y transportación de los productos cárnicos;
+II. La prestación por sí o por conducto de terceras personas a través de concesiones, los servicios de limpia y aseo público, tratamiento y disposición final de residuos sólidos no peligrosos, panteones, parques y jardines, alumbrado público; control de rabia y de población canina. En cuanto al control de rabia y de población canina, el servicio no puede concesionarse y deberá coordinarse con el área de Control Sanitario de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
 
-IV. Regular la introducción y salida de ganado y el abastecimiento de carne para el consumo humano;
+III. (DEROGADA, P.O. 10 DE AGOSTO DE 2015)
 
-V. Impedir la comercialización de productos cárnicos que no hayan sido previamente inspeccionados en cuanto a sus condiciones sanitarias o no hayan cubierto los impuestos y/o derechos municipales;
+IV. (DEROGADA, P.O. 10 DE AGOSTO DE 2015)
 
-VI. Determinar el destino de las carnes no apropiadas para el consumo humano de la población de acuerdo a la Ley General de Salud;
+V. (DEROGADA, P.O. 10 DE AGOSTO DE 2015)
 
-VII. Supervisar el correcto funcionamiento y prestación del servicio público de los mercados y áreas comerciales;
+VI. (DEROGADA, P.O. 10 DE AGOSTO DE 2015)
+
+VII. (DEROGADA, P.O. 10 DE AGOSTO DE 2015)
 
 VIII. Ejercer las atribuciones que le correspondan al municipio en materia de regulación, control ambiental y ecología de acuerdo a la ley;
 
@@ -7511,7 +7585,7 @@ VI. Procurar el buen estado de los jardines que se encuentran dentro de los pant
 
 Los Administradores de los cementerios tendrán las siguientes obligaciones:
 
-l. Cuidar y aplicar las medidas necesarias para la conservación, limpieza e higiene del cementerio;
+I. Cuidar y aplicar las medidas necesarias para la conservación, limpieza e higiene del cementerio;
 
 II. Cuidar que los sepulcros en general, guarden entre sí la distancia señalada en este Capítulo y estén numerados convenientemente para su debida identificación;
 
@@ -7579,7 +7653,7 @@ Las fosas tendrán como medida mínima, dos metros cincuenta centímetros de lon
 
 Los receptáculos o reposos podrán ser:
 
-l. Terrestres, verticales y horizontales; y
+I. Terrestres, verticales y horizontales; y
 
 II. Gavetas subterráneas o áreas de concreto.
 
@@ -16439,7 +16513,7 @@ V. Las modificaciones o refrendos a los registros mencionados.
 
 Los requisitos para tramitar las licencias o permisos para la colocación, fijación o instalación de un anuncio, son los siguientes:
 
-l. Llenar y suscribir el formato que para ese fin expide la Dirección;
+I. Llenar y suscribir el formato que para ese fin expide la Dirección;
 
 II. Nombre e identificación, o en su caso denominación o razón social del solicitante y su domicilio;
 
@@ -17085,7 +17159,7 @@ En las zonas habitacionales se prohíbe la instalación de cualquier anuncio cla
 
 En las zonas habitacionales se permite la instalación de los siguientes anuncios:
 
-l. Eventuales en plano vertical, sin iluminación y uno por cada frente del predio en construcción, con superficie que no exceda de 0.60 metros cuadrados;
+I. Eventuales en plano vertical, sin iluminación y uno por cada frente del predio en construcción, con superficie que no exceda de 0.60 metros cuadrados;
 
 II. Tratándose de usos comerciales en estas zonas, se podrá utilizar hasta el 30 por ciento de superficie del frente del inmueble para la colocación de un anuncio;
 
@@ -20886,3 +20960,7 @@ P.O. 1 DE DICIEMBRE DE 2014.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE AGOSTO DE 2015.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES VIGENTE.
