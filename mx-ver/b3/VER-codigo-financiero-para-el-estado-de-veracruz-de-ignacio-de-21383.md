@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2014-12-30"
+last_updated: "2015-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE, EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO ÚNICAMENTE COMO TEMAPACHE SE ENTENDERÁN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2015.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -3265,23 +3265,15 @@ La Secretaría será responsable de llevar un padrón de servidores públicos au
 
 Los servidores públicos que administren fondos y valores del Estado caucionarán debidamente su manejo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 179.
 
-Las Dependencias y Entidades, a través de la Secretaría, así como el Poder Judicial y los Organismos Autónomos del Estado a través de sus respectivas unidades administrativas, estarán obligadas a presentar al Congreso informes trimestrales sobre el ejercicio de su correspondiente gasto público. La revisión de dichos informes se realizará con el apoyo del Órgano de Fiscalización Superior.
+Las dependencias y entidades del Poder Ejecutivo deberán enviar a la Secretaría, a través de sus respectivas unidades administrativas responsables del ejercicio presupuestal, informes trimestrales sobre el ejercicio de sus correspondientes gastos públicos dentro de los diez días hábiles posteriores a la terminación del trimestre que se deba informar. Éstos deberán ser difundidos por la Secretaría en su página electrónica de Internet.
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2001)</small>
+La Secretaría, el Poder Judicial y los Organismos Autónomos del Estado, a través de sus respectivas unidades administrativas responsables de la ejecución del presupuesto, estarán obligados a presentar al Congreso informes trimestrales sobre el ejercicio de sus respectivos gastos públicos dentro de los quince días hábiles siguientes a la conclusión del periodo que se deba informar. Dichos informes, deberán ser difundidos en sus páginas electrónicas de Internet.
 
-Con independencia de lo dispuesto en el párrafo anterior, quien ejerza gasto público en el Poder Ejecutivo estará obligado, además, a proporcionar la información que le requiera la Secretaría y la Contraloría. Tratándose de los Poderes Legislativo y Judicial, así como de los Organismos Autónomos de Estado, dicha información será proporcionada a sus correspondientes unidades de control interno.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE AGOSTO DE 2013)</small>
-
-La información financiera que generen las Unidades Presupuestales del Ejecutivo del Estado, será organizada, sistematizada y difundida por la Secretaría, al menos trimestralmente en su respectiva página electrónica de Internet, a más tardar 30 días después del cierre del periodo que corresponda.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE AGOSTO DE 2013)</small>
-
-Las demás Unidades Presupuestales tendrán las obligaciones a que se refiere el párrafo anterior. La Secretaría establecerá en su respectiva página de Internet, los enlaces electrónicos que permitan acceder a dicha información financiera. Lo señalado en este párrafo y en el anterior, deberá observar la Ley de Contabilidad.
+El Congreso, por conducto de la Comisión de Vigilancia, remitirá al Órgano de Fiscalización Superior estos informes de manera escrita y, cuando sea el caso, de manera electrónica, para su revisión, dentro de los diez días siguientes al de su recepción.
 
 > <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
@@ -4303,17 +4295,17 @@ La Secretaría y la Contraloría General, en el ámbito de sus competencias, har
 
 ### CAPÍTULO TERCERO. DE LA CUENTA PÚBLICA
 
-> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 280.
 
-La Secretaría, emitirá y dará a conocer a las Unidades Presupuestales, los lineamientos para obtener de éstas los datos necesarios para la elaboración de la cuenta pública, a más tardar el día 30 de noviembre de cada año. Los lineamientos correspondientes deberán observar lo dispuesto por la Ley de Contabilidad y demás disposiciones aplicables.
+La Secretaría emitirá y dará a conocer a las unidades presupuestales, los lineamientos para obtener de éstas los datos necesarios para la elaboración de la cuenta pública, a más tardar el día 31 de octubre de cada año. Los Lineamientos correspondientes deberán observar lo dispuesto por la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables.
 
-> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 281.
 
-Los titulares de las unidades presupuestales autorizarán y enviarán a la Secretaría, a más tardar el último día hábil del mes de enero, la información que, en su caso, aquélla requiera para la formulación de la Cuenta Pública del Poder Ejecutivo.
+Los titulares de las unidades presupuestales autorizarán y enviarán a la Secretaría, a más tardar en la primera quincena del mes de enero, la información que, en su caso, aquella requiera para la formulación de la Cuenta Pública del Poder Ejecutivo.
 
 > <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
@@ -4347,11 +4339,11 @@ Las unidades administrativas serán responsables de que la información consolid
 
 La información a que se refiere este artículo, deberá contar con la aprobación del titular de la dependencia o entidad.
 
-> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 287.
 
-La Secretaría formulará la cuenta pública y la someterá a consideración del Titular del Poder Ejecutivo durante el mes de abril de cada año, para su presentación al Congreso en los términos de la Constitución Política del Estado de Veracruz de Ignacio de la Llave. La información presupuestaria y programática que forme parte de la cuenta pública deberá relacionarse, en lo conducente, con los objetivos y prioridades de la planeación para el desarrollo. La cuenta pública se formulará observando este Código, la Ley de Contabilidad y demás disposiciones aplicables.
+La Secretaría formulará la cuenta pública y la someterá a consideración del Titular del Poder Ejecutivo durante la última semana del mes de febrero de cada año, para su presentación al Congreso en los términos de la Constitución Política del Estado de Veracruz de Ignacio de la Llave. La cuenta pública se formulará observando las disposiciones de este Código, la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables.
 
 > <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
@@ -5436,3 +5428,11 @@ G.O. 30 DE DICIEMBRE DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 10 DE AGOSTO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. Los ayuntamientos que dispongan de (sic) Código Hacendario Municipal propio deberán proponer al Congreso del Estado las reformas correspondientes, con el propósito de ajustarlos a las disposiciones contenidas en el presente Decreto, en el plazo de treinta días hábiles contados a partir de la entrada en vigor del mismo.
