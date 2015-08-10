@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2015-04-27"
+last_updated: "2015-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -459,7 +459,9 @@ g) Construcción y mantenimiento de calles, parques y jardines y su equipamiento
 
 h) Seguridad pública, policía preventiva municipal, protección civil y tránsito;
 
-i) Promoción y organización de la sociedad para la planeación del desarrollo urbano, cultural, económico y del equilibrio ecológico;
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2015)</small>
+
+i) Promoción y organización de la sociedad, para la planeación del desarrollo urbano, cultural, económico, forestal y del equilibrio ecológico;
 
 j) Salud pública municipal; y
 
@@ -473,9 +475,9 @@ XXVIII. Participar, en términos de las disposiciones legales aplicables, en la 
 
 XXIX. Otorgar, en el ámbito de su competencia, licencias para construcciones;
 
-> <small>(REFORMADA, G.O. 30 DE JULIO DE 2004)</small>
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2015)</small>
 
-XXX. Desarrollar planes y programas destinados a la preservación, restauración, aprovechamiento racional y mejoramiento de los recursos naturales, de la flora y la fauna existentes en su territorio, así como para la prevención y combate a la contaminación ambiental, y convocar, coordinar y apoyar a los ejidatarios, propietarios y comuneros, para que establezcan cercas vivas en las zonas limítrofes de sus predios o terrenos y reforestar las franjas de tierra al lado de los ríos y cañadas.
+XXX. Desarrollar planes y programas destinados a la preservación, restauración, aprovechamiento racional y mejoramiento de los recursos naturales, de la flora y la fauna existentes en su territorio y al desarrollo forestal sustentable; así como para la prevención y combate a la contaminación ambiental, y convocar, coordinar y apoyar a los ejidatarios, propietarios y comuneros, para que establezcan cercas vivas en las zonas limítrofes de sus predios o terrenos y reforestar las franjas de tierra al lado de los ríos y cañadas;
 
 XXXI. Participar en la creación y administración de zonas de reservas ecológicas, en la elaboración y aplicación de programas de ordenamiento en esta materia y en la formulación de programas de desarrollo regional;
 
@@ -721,7 +723,9 @@ XII. Agua Potable, Drenaje, Alcantarillado, Tratamiento y Disposición de Aguas 
 
 XIII. Ornato, Parques, Jardines y Alumbrado;
 
-XIV. Ecología y Medio Ambiente;
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2015)</small>
+
+XIV. Fomento Forestal, Ecología y Medio Ambiente;
 
 > <small>(REFORMADA, G.O. 7 DE ENERO DE 2009)</small>
 
@@ -1023,17 +1027,17 @@ V. Informar al Presidente del Comité Directivo del Distrito de Temporal o su eq
 
 VI. Fomentar, solicitar y proporcionar, a través del auxilio de las dependencias o entidades federales, estatales y municipales, asesoría agropecuaria a ejidatarios, comuneros y pequeños propietarios;
 
-VII. Fomentar en el Municipio, atendiendo a la actividad que predomine, la producción agrícola, ganadera, forestal, frutícola, apícola y pesquera para procurar el uso de los recursos naturales en la forma más productiva y razonable;
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2015)</small>
+
+VII. Fomentar en el municipio, atendiendo a la actividad que predomine, la producción agrícola, ganadera, frutícola, apícola y pesquera para procurar el uso de los recursos naturales en la forma más productiva y razonable;
 
 VIII. Coadyuvar en el establecimiento y organización rural para proporcionar cursos intensivos que permitan a ejidatarios, comuneros y pequeños propietarios utilizar positivamente los avances de la tecnología;
 
-IX. Denunciar la tala ilegal de árboles;
+IX. (DEROGADA, G.O. 10 DE AGOSTO DE 2015)
 
-> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2010)</small>
+X. (DEROGADA, G.O. 10 DE AGOSTO DE 2015)
 
-X. Emitir, con la aprobación del Presidente Municipal, opinión fundada ante la autoridad competente respecto al derribo o desrame de árboles en lugares públicos, urbanos o rurales;
-
-XI. Recabar de la autoridad competente, previa solicitud fundada y aprobada en sesión de Cabildo, autorización para el derribo o desrame de árboles en lugares públicos, urbanos y rurales que sean necesarios para obras públicas del Ayuntamiento o para la seguridad de las personas; y
+XI. (DEROGADA, G.O. 10 DE AGOSTO DE 2015)
 
 > <small>(REFORMADA, G.O. 22 DE ABRIL DE 2010)</small>
 
@@ -1087,11 +1091,15 @@ V. Inspeccionar la conservación y mejoramiento de las calles y parajes público
 
 VI. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 58.
 
-Son atribuciones de la Comisión de Ecología y Medio Ambiente:
+Son atribuciones de la Comisión de Fomento Forestal, Ecología y Medio Ambiente:
 
-I. Vigilar el cumplimiento de las disposiciones legales que establezcan obligaciones al Ayuntamiento en materia ecológica y ambiental;
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2015)</small>
+
+I. Vigilar el cumplimiento de las disposiciones legales que establezcan obligaciones al Ayuntamiento, en materia forestal, ecológica y ambiental;
 
 II. Coordinarse y apoyar a las autoridades competentes en las actividades para preservar, conservar y restaurar el equilibrio ecológico y protección al ambiente;
 
@@ -1103,7 +1111,33 @@ V. Colaborar con la Comisión de Limpia Pública en la vigilancia de la operaci�
 
 VI. Proponer medidas tendientes a la debida protección de la flora y fauna existente en el municipio; y
 
-VII. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
+> <small>(ADICIONADA, G.O. 10 DE AGOSTO DE 2015)</small>
+
+VII. Promover, en concordancia con la política nacional y estatal, acciones para propiciar el desarrollo forestal sustentable del municipio;
+
+> <small>(ADICIONADA, G.O. 10 DE AGOSTO DE 2015)</small>
+
+VIII. Promover y difundir programas y proyectos de educación y capacitación de desarrollo forestal; así como de prevención y combate de plagas y enfermedades forestales.
+
+> <small>(ADICIONADA, G.O. 10 DE AGOSTO DE 2015)</small>
+
+IX. Impulsar dentro de su ámbito de competencia, la reforestación, forestación, restauración de suelos y conservación de los bienes y servicios ambientales forestales:
+
+> <small>(ADICIONADA, G.O. 10 DE AGOSTO DE 2015)</small>
+
+X. Denunciar la tala ilegal de árboles; así como las infracciones o delitos que se cometan en materia forestal, ecológica o ambiental;
+
+> <small>(ADICIONADA, G.O. 10 DE AGOSTO DE 2015)</small>
+
+XI. Emitir, con la aprobación del Presidente Municipal, opinión fundada ante la autoridad competente respecto al derribo o desrame de árboles en lugares públicos, urbanos o rurales;
+
+> <small>(ADICIONADA, G.O. 10 DE AGOSTO DE 2015)</small>
+
+XII. Recabar de la autoridad competente, previa solicitud fundada y aprobada en Sesión de Cabildo, autorización para el derribo o desrame de árboles en lugares públicos, urbanos y rurales que sean necesarios para obras públicas del Ayuntamiento o para la seguridad de las personas; y
+
+> <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2015)</small>
+
+XIII. Las demás que expresamente le señalen esta Ley y demás leyes aplicables.
 
 ###### Artículo 59.
 
@@ -2239,9 +2273,9 @@ Tratándose de convenios con otros municipios de la entidad, sólo se requerirá
 
 La Hacienda Municipal se formará por los bienes de dominio público municipal y por los que le pertenezcan, de conformidad con la legislación aplicable; así como por las aportaciones voluntarias, los impuestos, derechos, productos, aprovechamientos, participaciones, contribuciones, tasas adicionales que decrete el Estado sobre la propiedad inmobiliaria, la de su fraccionamiento, división, consolidación, traslación y mejoras, las que tengan por base el cambio de valor de los inmuebles y todos los demás ingresos fiscales que el Congreso del Estado establezca a su favor, en términos de las disposiciones legales aplicables.
 
-> <small>(REFORMADO, G.O. 27 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2015)</small>
 
-El Presidente, el Síndico, el Regidor de la Comisión de Hacienda y Patrimonio Municipal, el Tesorero y el titular de la Contraloría del Ayuntamiento serán directamente responsables de la administración de todos los recursos públicos municipales. Tratándose de entidades paramunicipales, lo serán su titular y el del área de finanzas.
+El Presidente, el Síndico, el Regidor de la Comisión de Hacienda y Patrimonio Municipal, el Tesorero, el Director de Obras Públicas y el titular de la Contraloría del Ayuntamiento serán directamente responsables de la administración de todos los recursos públicos municipales. Tratándose de entidades paramunicipales, lo serán su titular y el del área de finanzas.
 
 ###### Artículo 105.
 
@@ -3664,3 +3698,21 @@ SEGUNDO. La Secretaría de Salud emitirá en un plazo de sesenta días naturales
 TERCERO. Los Municipios de la Entidad, por única ocasión, deberán remitir a la Secretaría de Salud, copia del Registro Municipal de Panteones Públicos y Privados que integre, dentro de los cien días naturales posteriores a la expedición de los lineamientos señalados en el transitorio anterior.
 
 CUARTO. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+G.O. 10 DE AGOSTO DE 2015.
+
+DECRETO NÚMERO 588, POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 104 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. Los ayuntamientos que dispongan de Código Hacendario Municipal propio deberán proponer al Congreso del Estado las reformas correspondientes, con el propósito de ajustarlos a las disposiciones contenidas en el presente Decreto, en el plazo de treinta días hábiles contados a partir de la entrada en vigor del mismo.
+
+G.O. 10 DE AGOSTO DE 2015.
+
+DECRETO NÚMERO 592, POR EL QUE SE REFORMAN LAS FRACCIONES XXV INCISO I), Y XXX DEL ARTÍCULO 35; XIV DEL ARTÍCULO 40; VII DEL ARTÍCULO 54; EL PÁRRAFO PRIMERO Y LA FRACCIÓN I DEL ARTÍCULO 58; SE ADICIONAN LAS FRACCIONES VII, VIII, IX, X, XI Y XII, RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 58 Y SE DEROGAN LAS FRACCIONES IX, X Y XI DEL ARTÍCULO 54, TODOS DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
