@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2015-05-12"
+last_updated: "2015-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -75,17 +75,9 @@ a) Examinar, discutir y, en su caso, aprobar el presupuesto que en relación con
 
 b) Examinar, discutir y aprobar las leyes de ingresos de los municipios, que sean presentadas en las fechas que indique la ley respectiva.
 
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2010)</small>
+c) (DEROGADO, G.O. 10 DE AGOSTO DE 2015)
 
-c) Dictaminar y, en su caso, aprobar las Cuentas Públicas que, en términos de ley, le presenten el Poder Público, los organismos autónomos del Estado, la Universidad Veracruzana, los ayuntamientos, entidades paraestatales, entidades paramunicipales y cualquier ente o institución pública a los que la Constitución o las leyes del Estado den el carácter de ente fiscalizable.
-
-II. En el Segundo Período de Sesiones Ordinarias:
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 23 DE NOVIEMBRE DE 2010)</small>
-
-a) Recibir de los entes fiscalizables señalados en el inciso c) de la fracción anterior, sus Cuentas Públicas a fin de conocer los resultados de su Gestión Financiera y comprobar si cumplieron con los objetivos de sus planes y programas, así como con los criterios señalados en sus respectivos presupuestos. Al efecto, las Cuentas Públicas deberán presentarse al Congreso del Estado durante el mes de mayo del año siguiente al que correspondan.
-
-b) (DEROGADO, G.O. 23 DE NOVIEMBRE DE 2010)
+II. (DEROGADA, G.O. 10 DE AGOSTO DE 2015)
 
 ###### Artículo 7.
 
@@ -368,6 +360,10 @@ Este presupuesto considerará igualmente las partidas necesarias para el desarro
 Si al 31 de diciembre no se ha aprobado el presupuesto de egresos para el año siguiente, el gasto público a ejercer en dicho período se limitará a cubrir las partidas correspondientes a las remuneraciones de los servidores públicos y al gasto corriente de los servicios de salud, educación, seguridad pública, procuración e impartición de justicia, funcionamiento del Poder Legislativo, así como para los organismos autónomos de Estado, para lo cual se ejercerá en cada mes una doceava parte del último presupuesto aprobado, en tanto se aprueba el nuevo;
 
 XXIX. Revisar las Cuentas Públicas del Gobierno del Estado y de los Ayuntamientos con el apoyo del Órgano de Fiscalización Superior del Estado;
+
+> <small>(ADICIONADA, G.O. 10 DE AGOSTO DE 2015)</small>
+
+XXIX BIS. Dictaminar y, en su caso, aprobar y establecer la incoación de la fase de Determinación de Responsabilidades y Fincamiento de Indemnizaciones y Sanciones, a través del Órgano de Fiscalización Superior, de conformidad con lo dispuesto por el artículo 67 fracción III, base 5, inciso c, de la Constitución Política del Estado de Veracruz de Ignacio de la Llave.
 
 XXX. Dar las bases legales para reconocer y mandar pagar los adeudos contraídos por el Poder Ejecutivo, con cargo al crédito del Estado, así como señalar los fondos con que deberán pagarse;
 
@@ -939,7 +935,17 @@ X Bis. Designar provisionalmente a quien sustituya al Contralor General del Inst
 
 XI. Conocer de los asuntos relacionados con la hacienda de los municipios, incluyendo las autorizaciones señaladas en las fracciones XXXVI y XXXVII del artículo 35 de la Ley Orgánica del Municipio Libre, y la práctica de auditorías, revisión y aprobación de las cuentas respectivas; y
 
-XII. Las demás que le confiera expresamente la Constitución Política del Estado.
+> <small>(ADICIONADA, G.O. 10 DE AGOSTO DE 2015)</small>
+
+XII. Recibir de los Entes Fiscalizables señalados en la fracción XXIX del artículo 33 de la Constitución Política para el Estado de Veracruz de Ignacio de la Llave, con excepción de los ayuntamientos y las entidades paramunicipales, sus Cuentas Públicas, a fin de conocer los resultados de su gestión financiera y comprobar si cumplieron con los objetivos de sus planes y programas, así como con los criterios señalados en sus respectivos presupuestos. Las Cuentas Públicas se presentarán en el mes de marzo del año posterior al que se reporta. Las Cuentas Públicas, por conducto de la Comisión Permanente de Vigilancia, deberán ser turnadas al Órgano de Fiscalización Superior del Estado, para su revisión respectiva.
+
+Los entes fiscalizables municipales deberán presentar sus cuentas públicas al Congreso del Estado, durante el mes de enero del año siguiente al que correspondan, con excepción del último año de su administración, en el que deberán entregarlas el treinta y uno de diciembre, o bien, hasta el último día del mes de enero.
+
+> <small>(ADICIONADA, G.O. 10 DE AGOSTO DE 2015)</small>
+
+XIII. Convocar al Congreso a las sesiones extraordinarias a que haya lugar, para los efectos de la discusión de los dictámenes relativos y, en su caso, aprobación de las Cuentas Públicas; y
+
+XIV. Las demás que le confiera expresamente la Constitución Política del Estado.
 
 > <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2001)</small>
 
@@ -1500,3 +1506,11 @@ G.O. 12 DE MAYO DE 2015.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 10 DE AGOSTO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. Los ayuntamientos que dispongan de Código Hacendario Municipal propio deberán proponer al Congreso del Estado las reformas correspondientes, con el propósito de ajustarlos a las disposiciones contenidas en el presente Decreto, en el plazo de treinta días hábiles contados a partir de la entrada en vigor del mismo.
