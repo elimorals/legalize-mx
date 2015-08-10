@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2015-07-20"
+last_updated: "2015-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -203,9 +203,9 @@ Así como Prevenir, investigar y sancionar las violaciones a los derechos humano
 
 BIS.- Toda mujer que se encuentre en el Municipio de Aguascalientes tiene derecho al reconocimiento, goce, ejercicio y protección de todos sus derechos humanos. Estos derechos comprenden, entre otros:
 
-I. El derecho a que se respete su vida.
+l. El derecho a que se respete su vida.
 
-II. El derecho a que se respete su integridad física, psíquica y moral.
+ll. El derecho a que se respete su integridad física, psíquica y moral.
 
 III. El derecho a su libertad y seguridad personales.
 
@@ -2203,7 +2203,9 @@ XIII. Requerir información sobre el trámite y resolución de los asuntos trata
 
 XIV. Asesorar en todo momento a los titulares de las Direcciones, Coordinaciones y/o Departamentos Jurídicos de las dependencias de la Administración Pública Municipal a efecto de cumplir con las funciones de su competencia, por sí o a través de la Dirección de Asuntos Jurídicos.
 
-XV. (DEROGADA, P.O. 13 DE ENERO DE 2014)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE AGOSTO DE 2015)</small>
+
+XV. Expedir las constancias de notorio arraigo que acrediten los extremos que señala el artículo 7 fracción II de la Ley de Asociaciones Religiosas y Culto Público, así como el artículo 8 fracción V del Reglamento de la Ley de Asociaciones Religiosas y Culto Público.
 
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
@@ -4745,7 +4747,7 @@ II. Analizar y valorar los hechos imputados al detenido, así como los objetos y
 
 III. Determinar, en su caso, si los hechos que se le presentan son constitutivos de una falta administrativa o se presume algún delito.
 
-IV En su caso, imponer al infractor el arresto, la multa o medida de seguridad que corresponda y vigilar su cumplimiento.
+IV. En su caso, imponer al infractor el arresto, la multa o medida de seguridad que corresponda y vigilar su cumplimiento.
 
 V. En caso de que se presuma que los hechos de que tiene conocimiento sean constitutivos de algún delito, el Juez Municipal suspenderá inmediatamente su intervención y pondrá al detenido y los objetos afectos, a disposición de la autoridad competente.
 
@@ -4903,7 +4905,7 @@ Del Departamento de Servicios Médicos, Psicología y Trabajo Social
 
 La Dirección de Justicia Municipal contará con personal médico, psicológico y de trabajo social a cargo de un Jefe(a) de Departamento, quien contará con las siguientes atribuciones:
 
-l. Organizar y supervisar las distintas actividades que se realizan en el área a su cargo.
+I. Organizar y supervisar las distintas actividades que se realizan en el área a su cargo.
 
 II. Asignar y dictar las instrucciones al personal a su cargo, para el buen funcionamiento de los consultorios médicos y psicológicos, así como el de las áreas de trabajo social.
 
@@ -5729,7 +5731,7 @@ XII. Permitir el acceso a las personas visitantes de los internos en los horario
 
 XIII. Llevar a cabo un registro de visitas, en el cual se contengan los datos personales del visitante, persona a quien va a visitar, la hora de entrada y de salida del visitante.
 
-XIV Vigilar que las personas visitantes no introduzcan objetos o sustancias ilegales al área de celdas y practicar una revisión minuciosa de los objetos y alimentos que lleven consigo.
+XIV. Vigilar que las personas visitantes no introduzcan objetos o sustancias ilegales al área de celdas y practicar una revisión minuciosa de los objetos y alimentos que lleven consigo.
 
 XV. Acompañar por seguridad a cada persona visitante al área de detención de la persona a visitar, hasta el momento de su retiro.
 
@@ -9635,7 +9637,7 @@ a) Las obras que comprenderán la responsiva del Perito Especializado en Diseño
 
 a.1. Plazas, Parques y Jardines;
 
-a.2. Centrales de Abastos, Centros Comerciales y de Servicios;
+a.2. (DEROGADO, P.O. 10 DE AGOSTO DE 2015)
 
 a.3. Trazo, Remodelaciones, Regeneraciones y Rehabilitaciones urbanas de vías públicas, incluyendo instalaciones de infraestructura;
 
@@ -9643,9 +9645,9 @@ a.4. Centro y subcentros urbanos, en cuanto a Hitos, Nodos, Acentos y Bordes Urb
 
 a.5. Universidades y centros o instituciones de estudios en predios mayores a lo estipulado en este apartado, en cuanto a las incorporaciones de flujos peatonales y vehiculares;
 
-a.6. Auditorios, Teatros, Estadios y Centros de Espectáculos;
+a.6. (DEROGADO, P.O. 10 DE AGOSTO DE 2015)
 
-a.7. Aeropuertos;
+a.7. (DEROGADO, P.O. 10 DE AGOSTO DE 2015)
 
 a.8. Central de Autobuses y estaciones de ferrocarril y vías para tren urbano y suburbano;
 
@@ -9717,6 +9719,20 @@ Para los efectos de este artículo en el caso de instalaciones, serán los perit
 
 La intervención de dichas unidades estarán sujetas a lo estipulado en las Leyes y Reglamentos de cada materia.
 
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2015)</small>
+
+VII. Peritos Especializados en Urbanismo para los siguientes casos:
+
+1.- Estudios de Impacto Urbano Significativo para aquellos proyectos que señala el Código De Ordenamiento Territorial, Desarrollo Urbano Y Vivienda Para El Estado De Aguascalientes.
+
+2.- Estudios de Impacto Vial.
+
+3.- Consultoría de proyectos de fraccionamientos y/o Condóminos.
+
+4.- Proyectos Urbanos.
+
+5.- Estudios de Movilidad.
+
 ###### ARTÍCULO 638.
 
 Para tener derecho a aparecer en el Registro de Peritos o refrendar su calidad como tal, se requiere:
@@ -9759,6 +9775,10 @@ b) Acreditar que posee cédula profesional correspondiente alguna de las siguien
 
 6) Para Especializado en Instalaciones Eléctricas: Ingeniero Eléctrico, Ingeniero Electromecánico, Ingeniero Mecánico Electricista, Ingeniero Industrial Eléctrico.
 
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2015)</small>
+
+7) Para especializado en Urbanismo: Licenciado en Urbanismo, Arquitecto o Ingeniero con posgrado en Planeación Urbana.
+
 c) Acreditar ante la Comisión de Peritos que conoce este Libro y sus normas técnicas complementarias, en lo relativo a los aspectos correspondientes a su especialidad, para lo cual deberá obtener el dictamen favorable;
 
 d) Acreditar como mínimo cinco años en el ejercicio profesional de la especialidad;
@@ -9777,7 +9797,9 @@ i) Que se emita dictamen favorable para su registro por la Comisión de Admisió
 
 La Secretaría presidirá una Comisión de Peritos, que dictaminará sobre la admisión de Peritos; para lo cual realizará el examen previo de los documentos y evaluaciones que presenten los postulantes a obtener el registro de Peritos y el Titular de la Secretaría dictará la resolución que corresponda tomando en cuenta el dictamen de la Comisión, misma que tendrá a su vez la responsabilidad de emitir opinión técnica de la actuación de los Peritos.
 
-Esta comisión se integrará con un representante del Colegio de Arquitectos del Estado de Aguascalientes A. C., del Colegio de Ingenieros Civiles de Aguascalientes A.C., de la Cámara Mexicana de la Industria de la Construcción Delegación Aguascalientes, del Jefe del Departamento de Desarrollo Urbano de las Delegaciones Urbanas y Rurales, Jefe del Departamento de Supervisión de la Secretaría, del representante de los peritos por especialidad, cuando se traten asuntos relacionados con las respectivas especialidades, así como de la Secretaría, todos ellos con sus respectivos suplentes. Así mismo, fungirán como asesores, un representante de cada una de las especialidades de los Peritos contemplados en este Título, cuando se traten asuntos relacionados con las respectivas especialidades.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2015)</small>
+
+Esta comisión se integrará con un representante del Colegio de Arquitectos del Estado de Aguascalientes A. C., del Colegio de Ingenieros Civiles de Aguascalientes A.C., del Colegio de Urbanistas de Aguascalientes A.C., de la Cámara Mexicana de la Industria de la Construcción Delegación Aguascalientes, del Jefe del Departamento de Desarrollo Urbano de las Delegaciones Urbanas y Rurales, Jefe del Departamento de Supervisión de la Secretaría, del representante de los peritos por especialidad, cuando se traten asuntos relacionados con las respectivas especialidades, así como de la Secretaría, todos ellos con sus respectivos suplentes. Así mismo, fungirán como asesores, un representante de cada una de las especialidades de los Peritos contemplados en este Título, cuando se traten asuntos relacionados con las respectivas especialidades.
 
 La Secretaría, en el mes de enero de cada año, solicitará a cada una de las asociaciones ó instituciones mencionadas el nombramiento de sus representantes ante la Comisión.
 
@@ -9841,7 +9863,9 @@ IX. Solicitar constancia de suspensión de obra para los casos en que la obra lo
 
 Obligaciones de los Peritos Especializados:
 
-I. Del Especializado en Diseño Arquitectónico:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2015)</small>
+
+I. Del especializado en Diseño Arquitectónico:
 
 a) Suscribir, conjuntamente con el Perito Responsable de Obra, la solicitud de licencia y los planos del proyecto correspondiente, cuando se trate de las obras previstas en este Libro;
 
@@ -9865,11 +9889,15 @@ g) Incluir en el letrero a que hace referencia este capítulo, su nombre y núme
 
 h) Obtener el refrendo anual de su calidad de Perito, para lo cual deberá actualizar sus datos y comprobar el cumplimiento del servicio social que le haya requerido la Secretaría, será necesario presentar constancias de habitabilidad de obras o el informe pormenorizado de los avances de obras en proceso.
 
-II. Del Especializado en Diseño Urbano:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2015)</small>
+
+II. Del especializado en Diseño Urbano.
 
 a) Suscribir, conjuntamente con el Perito Responsable de Obra, la solicitud de licencia y los planos del proyecto correspondiente, cuando se trate de las obras previstas en este Libro;
 
-b) Revisar el proyecto en los aspectos correspondientes a su especialidad, verificando que hayan sido realizados los estudios y se hayan cumplido las disposiciones establecidas por el presente Libro, así como las normas del Código Urbano y las demás disposiciones relativas al Diseño Urbano;
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2015)</small>
+
+b) Revisar el proyecto en los aspectos correspondientes a su especialidad, verificando que hayan sido realizados los estudios y se hayan cumplido las disposiciones establecidas por el presente Libro, así como las normas del Código De Ordenamiento Territorial, Desarrollo Urbano Y Vivienda Para El Estado De Aguascalientes y las demás disposiciones relativas al Diseño Urbano;
 
 c) Verificar que el proyecto cumpla las disposiciones relativas al presente Código y los programas respectivos.
 
@@ -9885,7 +9913,9 @@ g) Incluir en el letrero a que hace referencia este capítulo, su nombre y núme
 
 h) Obtener el refrendo anual de su calidad de Perito, para lo cual deberá actualizar sus datos y comprobar el cumplimiento del servicio social que le haya requerido la Secretaría, será necesario presentar constancias de habitabilidad de obras o el informe pormenorizado de los avances de obras en proceso.
 
-III. Del Especializado en Diseño Estructural:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2015)</small>
+
+III. Del especialista en Diseño Estructural:
 
 a) Suscribir, conjuntamente con el Perito Responsable de Obra, la solicitud de licencia, cuando se trate de obras clasificadas como de su competencia, previstas en este Libro;
 
@@ -9903,7 +9933,9 @@ g) Incluir en el letrero de la obra a que hace referencia este capítulo, su nom
 
 h) Obtener el refrendo anual de su calidad de Perito, para lo cual deberá actualizar sus datos y comprobar el cumplimiento del servicio social que le haya requerido la Secretaría, será necesario presentar constancias de habitabilidad de obras o el informe pormenorizado de los avances de obras en proceso.
 
-IV. Del Especializado en Mecánica de Suelos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2015)</small>
+
+IV. Del especializado en Mecánica de Suelos:
 
 a) Suscribir, conjuntamente con el Perito Responsable de Obra, la solicitud de licencia, cuando se trate de las obras previstas en este Libro;
 
@@ -9923,7 +9955,9 @@ g) Incluir en el letrero de la obra a que hace referencia este Libro, su nombre 
 
 h) Obtener el refrendo anual de su calidad de Perito, para lo cual deberá actualizar sus datos y comprobar el cumplimiento del servicio social que le haya requerido la Secretaría, será necesario presentar constancias de habitabilidad de obras o el informe pormenorizado de los avances de obras en proceso.
 
-V. Del Especializado en Geología o Geofísica:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2015)</small>
+
+V. Del especializado en Geología o Geofísica:
 
 a) Suscribir, conjuntamente con el Perito Responsable de Obra, la solicitud de licencia, cuando se trate de las obras previstas en este Libro;
 
@@ -9941,7 +9975,9 @@ f) Incluir en el letrero de la obra a que hace referencia este Libro, su nombre 
 
 g) Obtener el refrendo anual de su calidad de Perito, para lo cual deberá actualizar sus datos y comprobar el cumplimiento del servicio social que le haya requerido la Secretaría, será necesario presentar constancias de habitabilidad de obras o el informe pormenorizado de los avances de obras en proceso.
 
-VI.- Especializados en instalaciones eléctricas
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2015)</small>
+
+VI. Especializados en Instalaciones Eléctricas:
 
 a) Suscribir, conjuntamente con el Perito Responsable de Obra, la solicitud de licencia, cuando se trate de las obras previstas en este Libro;
 
@@ -9958,6 +9994,18 @@ f) Responder de cualquier violación a las disposiciones de este Libro, relativa
 g) Incluir en el letrero de la obra a que hace referencia este capítulo, su nombre y número de registro;
 
 h) Refrendar su calidad de Perito a partir del mes de enero de cada año actualizando sus datos y comprobar el cumplimiento del servicio social que le haya requerido la Secretaría.
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2015)</small>
+
+VII.- Del Especializado en Urbanismo:
+
+a) Suscribir, conjuntamente con el Perito Responsable de Obra, la solicitud de licencia y los planos del proyecto correspondiente, cuando se trate de las obras previstas en este Libro;
+
+b) Revisar el proyecto en los aspectos correspondientes a su especialidad, verificando que hayan sido realizados los estudios y se hayan cumplido las disposiciones establecidas por el presente Libro, así como las normas del Código y las demás disposiciones relativas al Diseño Urbano;
+
+c) Verificar que el proyecto cumpla las disposiciones relativas al Código y los programas respectivos; y
+
+d) Dar Cumplimiento a lo especificado en la Constancia de Alineamiento y Uso de Suelo.
 
 ###### ARTÍCULO 644.
 
@@ -19535,7 +19583,7 @@ IV. Vigilar y supervisar las condiciones generales bajo las cuáles la Direcció
 
 B. La Dirección de Mercados, Estacionamientos y Áreas Comerciales:
 
-l. Orientar y proporcionar información a los comerciantes en vía pública para el debido cumplimiento del presente Código.
+I. Orientar y proporcionar información a los comerciantes en vía pública para el debido cumplimiento del presente Código.
 
 II. Promover y ejecutar programas de reordenamiento del comercio en vía pública.
 
@@ -22901,9 +22949,9 @@ II.- Las diligencias de verificación que se encuentren en trámite a la entrada
 
 III.- En tanto se nombre y acredite a los Verificadores en los términos de las presentes disposiciones, las facultades de verificación continuarán siendo ejercidas por los propios verificadores que se encuentren adscritos a las diversas dependencias de la Administración Pública Municipal, en un término de 15 días hábiles contados a partir del día siguiente a la publicación en el Periódico Oficial del Estado del presente Reglamento de Verificación Administrativa, así como las reformas y adiciones que en materia de verificación establezca el Código Municipal de Aguascalientes
 
-IV- El personal que actualmente presta sus servicios en las diversas dependencias de la Administración Pública Municipal, que ejerzan funciones de Verificación pasarán a la Coordinación General de Verificación Única Administrativa.
+IV.- El personal que actualmente presta sus servicios en las diversas dependencias de la Administración Pública Municipal, que ejerzan funciones de Verificación pasarán a la Coordinación General de Verificación Única Administrativa.
 
-V- Las nuevas credenciales de los Verificadores deberán expedirse dentro de los 20 días naturales siguientes a la publicación del Reglamento de Verificación Administrativa, y de las presentes reformas y adiciones al Código Municipal de Aguascalientes; entre tanto, los Verificadores se identificarán con las credenciales actualmente en vigor.
+V.- Las nuevas credenciales de los Verificadores deberán expedirse dentro de los 20 días naturales siguientes a la publicación del Reglamento de Verificación Administrativa, y de las presentes reformas y adiciones al Código Municipal de Aguascalientes; entre tanto, los Verificadores se identificarán con las credenciales actualmente en vigor.
 
 VI.- La Coordinación General de Verificación Única Administrativa, deberá implementar el padrón relativo en materia de Verificación Administrativa, en un término de noventa días naturales, contados a partir del día siguiente de la publicación del presente Reglamento de Verificación Administrativa.
 
@@ -23172,3 +23220,15 @@ P.O. 20 DE JULIO DE 2015.
 PRIMERO.- Las reformas y adiciones que anteceden entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- Dentro de los sesenta días naturales siguientes a la publicación de las presentes reformas y adiciones, la Secretaria de Seguridad Publica y el Instituto Municipal de la Mujer de Aguascalientes, presentaran un informe sobre la materialización de las mismas ante el H. Ayuntamiento de Aguascalientes.
+
+P.O. 10 DE AGOSTO DE 2015.
+
+RESOLUTIVO PRIMERO POR EL QUE SE REFORMA A LA FRACCIÓN XV DEL ARTÍCULO 107 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE AGOSTO DE 2015.
+
+REFORMAS, ADICIONES Y DEROGACIÓN A DIVERSOS PRECEPTOS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
+
+ÚNICO.- Las reformas, adiciones y derogación que anteceden entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
