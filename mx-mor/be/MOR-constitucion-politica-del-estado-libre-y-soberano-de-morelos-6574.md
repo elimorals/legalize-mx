@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2015-07-22"
+last_updated: "2015-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2015.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -74,21 +74,45 @@ En el Estado de Morelos se reconoce como una extensión de la libertad de pensam
 
 Para el ejercicio del derecho de acceso a la información, el Estado y los municipios, en el ámbito de sus respectivas competencias, se regirán por los siguientes principios y bases:
 
-I. Toda la información en posesión de los poderes públicos, estatales y municipales, órganos autónomos, organismos auxiliares de la administración pública, y en general de cualquier órgano de la administración pública del Estado es pública y sólo podrá ser reservada temporalmente por razones de interés público en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad.
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
 
-II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes.
+I. Toda la información en posesión de los poderes públicos estatales, autoridades municipales, organismos públicos autónomos creados por esta Constitución, organismos auxiliares de la administración pública estatal o municipal, partidos políticos, fondos públicos, personas físicas, morales o sindicatos que reciben y ejerzan recursos públicos o realicen actos de autoridad en el ámbito estatal y municipal y, en general, de cualquier órgano de la Administración Pública del Estado es pública y sólo podrá ser reservada temporalmente por razones de interés público en los términos que fijen las leyes. La normativa determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información;
 
-III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
 
-IV. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán a través de los medios electrónicos disponibles, la información completa y actualizada sobre sus indicadores de gestión y el ejercicio de los recursos públicos.
+II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes;
 
-V. La ley de la materia determinará la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que reciban, manejen, apliquen o entreguen a personas físicas o morales.
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
 
-VI. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
+III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos;
 
-VII. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Estos procedimientos se sustanciarán ante el Instituto Morelense de Información Pública y Estadística.
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
 
-VIII. Se establecerán sistemas electrónicos de consulta estatales y municipales para que los ciudadanos puedan ejercer el derecho de acceso a la información; el Estado apoyará a los municipios que tengan una población mayor a setenta mil habitantes para el cumplimiento de esta disposición.
+IV. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores de gestión que permitan rendir cuentas del cumplimiento de sus objetivos y resultados, con relación a los parámetros y obligaciones establecidos por las normas aplicables;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
+
+V. La ley de la materia determinará la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que reciban, manejen, apliquen o entreguen a personas físicas o morales;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
+
+VI. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
+
+VII. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Estos procedimientos se sustanciarán ante el organismo público autónomo denominado Instituto Morelense de Información Pública y Estadística, que se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
+
+VIII. Se establecerán sistemas electrónicos de consulta estatales y municipales para que los ciudadanos puedan ejercer el derecho de acceso a la información; el Estado apoyará a los municipios que tengan una población mayor a setenta mil habitantes para el cumplimiento de esta disposición;
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2015)</small>
+
+IX. En los casos en que el Instituto Morelense de Información Pública y Estadística, mediante resolución confirme la reserva, confidencialidad, inexistencia o negativa de la información, los solicitantes podrán interponer Recurso de Revisión ante el Instituto Nacional de Transparencia y Acceso a la Información y Protección de Datos Personales. Del mismo modo, dicho organismo, de oficio o a petición fundada del Instituto Morelense de Información Pública y Estadística, podrá conocer de los recursos que por su interés y trascendencia así lo ameriten, y
+
+> <small>(ADICIONADA, P.O. 11 DE AGOSTO DE 2015)</small>
+
+X. Con el objeto de fortalecer la rendición de cuentas en el estado de Morelos, el Instituto Morelense de Información Pública y Estadística, implementará acciones con el Instituto Nacional de Transparencia y Acceso a la Información y Protección de Datos Personales, la Secretaría de la Contraloría del Poder Ejecutivo del Estado, la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos y el Instituto Estatal de Documentación.
 
 > <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2012)</small>
 
@@ -726,7 +750,9 @@ VI. El Organismo Público Electoral de Morelos, se integrará por un Consejero P
 
 El Consejero Presidente y los Consejeros Electorales serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la normatividad aplicable.
 
-El Consejero Presidente y los Consejeros Electorales Estatales deberán ser originarios del Estado de Morelos o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación y cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la normatividad aplicable.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
+
+El Consejero Presidente y los Consejeros Electorales Estatales deberán ser originarios del Estado de Morelos o contar con una residencia efectiva de por lo menos cinco años anteriores a su designación y, al igual que la persona titular del órgano interno de control, deberán cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la normatividad aplicable.
 
 En caso de que ocurra una vacante de Consejero Electoral Estatal, el Consejo General del Instituto Nacional Electoral hará la designación correspondiente en términos que establece la Ley en la materia. Si la vacante se verifica durante los primeros cuatro años de su encargo, se elegirá un sustituto para concluir el período. Si la falta ocurriese dentro de los últimos tres años, se elegirá a un Consejero para un nuevo período.
 
@@ -734,23 +760,41 @@ El Consejero Presidente y los Consejeros Electorales Estatales, tendrán un per�
 
 El Consejero Presidente y los Consejeros Electorales Estatales y demás servidores públicos que establezca la Ley en la materia, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)</small>
+
+La fiscalización de todos los ingresos y egresos del Organismo Público Electoral de Morelos, estará a cargo de un órgano interno de control, mismo que tendrá autonomía técnica y de gestión.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)</small>
+
+La persona titular del órgano interno de control del Organismo Público Electoral de Morelos, será designado por el Congreso del Estado con el voto de las dos terceras partes de sus miembros, en la forma y términos que determine la normativa aplicable. Durará seis años en el cargo y sólo podrá ser designado para un periodo más. Estará adscrito administrativamente al Consejero Presidente y mantendrá la coordinación técnica necesaria con la Entidad Superior de Auditoría y Fiscalización.
+
 VII. El Tribunal Electoral del Estado de Morelos, es la Autoridad Electoral Jurisdiccional Local en materia electoral que gozará de autonomía técnica y de gestión en su funcionamiento e independencia en sus decisiones. Deberán cumplir sus funciones bajo los principios de certeza, imparcialidad, objetividad, legalidad y probidad.
 
 Éste órgano jurisdiccional no estará adscrito al Poder Judicial del Estado de Morelos.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE AGOSTO DE 2015)</small>
 
-### CAPITULO III.
+### CAPÍTULO III.. DE LOS ORGANISMOS PÚBLICOS AUTÓNOMOS
 
-DE LOS ORGANOS CONSTITUCIONALES AUTONOMOS.
-
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 23-A.
 
-El Congreso del Estado establecerá un organismo autónomo para tutelar el derecho de acceso a la información pública de todas las personas, proteger los datos personales y realizar estadísticas, sondeos y encuestas imparciales que coadyuven al cumplimiento de las funciones de los poderes públicos y al desarrollo democrático del Estado, denominado Instituto Morelense de Información Pública y Estadísticas. El Instituto será el encargado de aplicar la ley de la materia y sus resoluciones serán acatadas por las entidades y dependencias públicas del Estado, y por toda persona que reciba, maneje, aplique o participe en el ejercicio de recursos públicos o privados, siempre que estos se destinen a actividades relacionadas con la función pública.
+El Congreso del Estado establecerá un organismo público autónomo imparcial, colegiado, con personalidad jurídica y patrimonio propio, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el cumplimiento del derecho de acceso a la información pública de todas las personas, proteger los datos personales y realizar estadísticas, sondeos y encuestas imparciales que coadyuven al cumplimiento de las funciones de los poderes públicos y al desarrollo democrático del Estado, denominado Instituto Morelense de Información Pública y Estadística; en la conformación de este organismo garante se procurará la equidad de género. El Instituto será el encargado de aplicar las leyes de la materia y sus resoluciones serán acatadas por las entidades y dependencias públicas del Estado y municipios, organismos públicos autónomos, organismos auxiliares de la administración pública, partidos políticos, fondos públicos, personas físicas, morales o sindicatos que reciban y ejerzan recursos públicos o realicen actos de autoridad en el ámbito estatal o municipal, y por toda persona que reciba, maneje, aplique o participe en el ejercicio de recursos públicos o privados, siempre que estos se destinen a actividades relacionadas con la función pública.
 
-Los ciudadanos que sean designados como integrantes del Instituto a que se refiere el párrafo anterior, deberán reunir los requisitos que señale la ley, pero en todo caso se velará que no tengan compromisos o simpatías por cualquier partido político o vínculos con el gobierno, quedando excluidos de este último requisito el servicio profesional que se preste en cualquier institución educativa o de investigación de cualquier área pública.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 11 DE AGOSTO DE 2015)</small>
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)</small>
+
+El Instituto Morelense de Información Pública y Estadística se integra por tres comisionados, los cuales serán electos por la mayoría calificada de los integrantes del Congreso, para lo cual se expedirá convocatoria pública para recibir propuestas de la sociedad, observando en todo momento el procedimiento que establezcan las leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)</small>
+
+Los comisionados durarán en su cargo siete años, sin posibilidad de otra designación; no podrán tener otro empleo, cargo o comisión, salvo los de docencia y los no remunerados en asociaciones científicas, artísticas o de beneficencia.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)</small>
+
+En los procedimientos para la selección de los comisionados se deberá garantizar la transparencia, independencia y participación de la sociedad.
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2007)</small>
 
@@ -777,6 +821,16 @@ El Presidente de la Comisión de Derechos Humanos del Estado de Morelos, lo ser�
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2014)</small>
 
 El Presidente de la Comisión de Derechos Humanos del Estado de Morelos, y los integrantes del Consejo Consultivo, además de los requisitos que prevé este ordenamiento y la ley reglamentaria, deberán gozar de reconocido prestigio en la sociedad y haberse destacado por su interés en la promoción, difusión y defensa de los Derechos Humanos. La elección del Titular de la Presidencia de la Comisión de Derechos Humanos del Estado, así como de los integrantes del Consejo Consultivo, se hará previa Convocatoria Pública, que deberá ser transparente, en los términos y condiciones que determine la Ley.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)</small>
+
+###### Artículo 23-C.
+
+Cada uno de los organismos públicos autónomos creados por disposición de esta Constitución, deberá contar con un órgano interno de control, el cual se encargará de la fiscalización de todos los ingresos y egresos, mismos que estarán dotados de autonomía técnica y de gestión, en el desempeño de sus funciones.
+
+La persona titular de dicho órgano interno de control será designado por el Congreso del Estado, mediante el voto aprobatorio de cuando menos las dos terceras partes de sus integrantes; durará seis años en su cargo, pudiendo ser designado por un periodo más.
+
+Los órganos internos de control estarán adscritos administrativamente a los entes de gobierno respectivos y mantendrán la coordinación necesaria con la Entidad Superior de Auditoría y Fiscalización.
 
 ## TITULO TERCERO.
 
@@ -848,9 +902,13 @@ I.- El Gobernador del Estado, ya sea con carácter de interino, sustituto o prov
 
 II.- Los Magistrados Electorales o los Secretarios del Tribunal Electoral del Estado de Morelos, salvo que se separen del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
 
-III.- Los Secretarios o Subsecretarios de Despacho, el Fiscal General del Estado de Morelos, los Magistrados del Tribunal Superior de Justicia, Tribunal de lo Contencioso Administrativo y Tribunal Unitario de Justicia para Adolescentes, los Jueces de Primera Instancia, los Agentes del Ministerio Público, los administradores de rentas Estatales o Municipales, los Delegados o equivalentes de la Federación, los miembros del Ejército en servicio activo y los Jefes o Mandos Superiores de Policía de Seguridad Pública Estatal o Municipal y los Presidentes Municipales o los titulares de algún Órgano Político-Administrativo, ni ejercer bajo circunstancia alguna las mismas funciones, salvo que se separe del cargo noventa días antes de la fecha de la elección;
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
 
-IV.- El Consejero Presidente o los Consejeros Electorales del Organismo Público Electoral de Morelos, el Secretario Ejecutivo o el Director Ejecutivo del Organismo Público Electoral del Estado, salvo que se separen del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate; y los Consejeros del Instituto Morelense de Información Pública y Estadística, aún si se separan de sus funciones, conforme a lo dispuesto en el artículo 23 de la presente Constitución;
+III.- Los Secretarios o Subsecretarios de Despacho, el Fiscal General del Estado de Morelos, los Fiscales y Fiscales Especializados, los Magistrados del Tribunal Superior de Justicia, Tribunal de Justicia Administrativa del Estado de Morelos y Tribunal Unitario de Justicia para Adolescentes, los Jueces de Primera Instancia, los Agentes del Ministerio Público, los administradores de rentas Estatales o Municipales, los Delegados o equivalentes de la Federación, los miembros del Ejército en servicio activo y los Jefes o Mandos Superiores de Policía de Seguridad Pública Estatal o Municipal y los Presidentes Municipales o los titulares de algún Órgano Político-Administrativo, ni ejercer bajo circunstancia alguna las mismas funciones, salvo que se separe del cargo noventa días antes de la fecha de la elección;
+
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
+
+IV.- El Consejero Presidente o los Consejeros Electorales del Organismo Público Electoral de Morelos, el Secretario Ejecutivo o el Director Ejecutivo del Organismo Público Electoral del Estado, salvo que se separen del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate; y los Comisionados del Instituto Morelense de Información Pública y Estadística, aún si se separan de sus funciones, conforme a lo dispuesto en el artículo 23 de la presente Constitución;
 
 V.- Quienes pertenezcan al Servicio Profesional Electoral, salvo que se separen del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
 
@@ -894,51 +952,33 @@ El Congreso no puede abrir sus Sesiones sin la concurrencia de más de la mitad 
 
 Transcurrido el plazo anterior sin que se hubieren presentado, se llamará al desempeño de la función, a los suplentes respectivos y si tampoco se presentaren dentro de un plazo de diez días, se convocará a elecciones, en los Distrito (sic) de que se trate.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 32.
 
-El Congreso del Estado tendrá cada año dos períodos de sesiones ordinarias, el primero se iniciará el 1 de septiembre y terminará el 15 de diciembre; el segundo empezará el 1 de febrero y concluirá el 15 de julio. El Congreso se ocupará, conforme a sus facultades, del examen y la revisión de la cuenta pública del Estado misma que se presentará trimestralmente, a más tardar el último día hábil del mes siguiente a aquel en que concluya cada trimestre de calendario, conforme al avance de gestión financiera en concordancia con el avance del Plan Estatal de Desarrollo, los programas operativos anuales sectorizados y por dependencia u organismo auxiliar y, en su caso, del programa financiero.
+El Congreso del Estado tendrá cada año dos períodos de sesiones ordinarias, el primero se iniciará el 1 de septiembre y terminará el 15 de diciembre; el segundo empezará el 1 de febrero y concluirá el 15 de julio. El Congreso se ocupará, conforme a sus facultades, del examen y la revisión de la cuenta pública del Estado, a través de la Entidad Superior de Auditoría y Fiscalización, misma que se presentará trimestralmente, a más tardar el último día hábil del mes siguiente a aquel en que concluya cada trimestre de calendario, conforme al avance de gestión financiera en concordancia con el avance del Plan Estatal de Desarrollo, los programas operativos anuales sectorizados y por dependencia u organismo auxiliar y, en su caso, del programa financiero.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DISPOSICIÓN TRANSITORIA TERCERA DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+El Congreso del Estado a más tardar el 1 de octubre de cada año, recibirá la Iniciativa de Presupuesto de Egresos del Gobierno del Estado, para el Ejercicio Fiscal siguiente, así como las Iniciativas de Ley de Ingresos del Estado y de los Municipios, para su examen, discusión y aprobación. Cuando el Gobernador inicie su encargo entregará las iniciativas de Ley de Ingresos y de Presupuesto de Egresos del Gobierno del Estado a más tardar el 15 de noviembre de ese año; de igual forma los Presidentes Municipales que inicien su encargo, presentarán al Congreso del Estado sus iniciativas de Ley de Ingresos en la misma fecha. El Congreso del Estado deberá aprobar la Ley de Ingresos y Presupuesto de Egresos del Estado y las Leyes de Ingresos Municipales a más tardar el 15 de diciembre de cada año. Los Poderes del Estado, Entidades, Organismos Públicos Autónomos, presentarán al Congreso a más tardar el día 30 de abril de cada año, la Cuenta Pública correspondiente al año anterior, debidamente integrada y aprobada por el órgano de gobierno que corresponda, a excepción del año en que concluyan un período constitucional e inicien uno nuevo, en cuyo caso la aprobación de la cuenta pública corresponderá a cada uno por el período a su cargo y deberá ser consolidada y presentada al Congreso por la nueva administración, sin perjuicio de las responsabilidades que correspondan a los funcionarios públicos en funciones en cada período constitucional. Los ayuntamientos presentarán al Congreso a más tardar el día 30 de abril de cada año, la cuenta pública correspondiente al año anterior debidamente integrada y aprobada por el Cabildo, a excepción del año en que concluya una administración municipal, en cuyo caso la aprobación de la cuenta pública corresponderá a cada uno por el periodo a su cargo y deberá ser consolidada y presentada al Congreso por la nueva administración, sin perjuicio de las responsabilidades que correspondan a los funcionarios públicos en funciones en cada período constitucional.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+Al aprobar el Congreso el Presupuesto de Egresos del Estado, deberá verificar que se incluyan las remuneraciones de servidores públicos mismas que deberán sujetarse a las bases previstas en el artículo 131 de esta Constitución. Asimismo, deberá verificar que se incluyan los tabuladores salariales y, en caso contrario, deberá incluir y autorizar, la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones.
 
-El Congreso del Estado a más tardar el 1 de octubre de cada año, recibirá la Iniciativa de Presupuesto de Egresos del Gobierno del Estado, para el Ejercicio Fiscal siguiente, así como las Iniciativas de Ley de Ingresos del Estado y de los Ayuntamientos, para su examen, discusión y aprobación. Cuando el Gobernador inicie su encargo entregará las iniciativas de Ley de Ingresos y de Presupuesto de Egresos del Gobierno del Estado a más tardar el 15 de noviembre de ese año; de igual forma los Presidentes Municipales que inicien su encargo, presentarán al Congreso del Estado sus iniciativas de Ley de Ingresos en la misma fecha. El Congreso del Estado deberá aprobar la Ley de Ingresos y Presupuesto de Egresos del Estado y las Leyes de Ingresos Municipales a más tardar el 15 de diciembre de cada año. Los Ayuntamientos presentarán al Congreso, a más tardar el día 31 de enero de cada año, la Cuenta Pública correspondiente al año anterior, debidamente integrada y aprobada por el Cabildo, a excepción del año en que concluyan un período constitucional e inicien uno nuevo, en cuyo caso la aprobación de la cuenta pública y su presentación ante el Congreso la hará cada uno por el período a su cargo. El Ayuntamiento que concluya su gestión deberá presentar, a más tardar el 31 de octubre, la cuenta pública correspondiente a los meses de enero a septiembre del año en que termine el período constitucional. El Ayuntamiento que inicie su gestión deberá presentar, a más tardar el 31 de enero del año siguiente a aquel en que inicie su período constitucional, la cuenta pública, correspondiente a los meses octubre, noviembre y diciembre del año en que inicie dicho período. En el supuesto anterior, el Ayuntamiento entrante presentará la cuenta pública anual, consolidando los doce meses del ejercicio presupuestal, sin perjuicio de las responsabilidades que correspondan a los funcionarios públicos en funciones en cada período constitucional.
+A solicitud del Ejecutivo del Estado podrán ampliarse los plazos de presentación de las Leyes de Ingresos, cuentas públicas y Presupuestos de Egresos, a que se refiere este Artículo, cuando haya causas plenamente justificadas, por aprobación de las dos terceras partes de los integrantes del Congreso, pero será obligación de la Secretaría del Despacho a cargo de la Hacienda Pública comparecer ante el Congreso para informar sobre las razones que la motiven. En el ámbito municipal la atribución anterior corresponderá a los Presidentes Municipales pudiendo comparecer en su representación el Tesorero Municipal.
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2010)</small>
-
-Al aprobar el Congreso el Presupuesto de Egresos del Estado, deberá verificar que se incluyan las remuneraciones de servidores públicos mismas que deberán sujetarse a las bases previstas en el artículo 131 de esta Constitución. Asimismo, deberá verificar que se incluyan y, en caso contrario, deberá incluir y autorizar, la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones.
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2009)</small>
-
-Los ayuntamientos presentarán al Congreso a más tardar el día 31 de enero de cada año, la cuenta correspondiente al año anterior debidamente integrada y aprobada por el Cabildo.
-
-A solicitud del Ejecutivo del Estado o del Presidente Municipal, en su caso, podrán ampliarse los plazos de presentación de las Leyes de Ingresos, cuentas públicas y Presupuestos de Egresos, a que se refiere este Artículo, cuando haya causas plenamente justificadas, por aprobación de las dos terceras partes de los integrantes del Congreso, pero será obligación de la Secretaría del Despacho a cargo de la Hacienda Pública comparecer ante el Congreso para informar sobre las razones que la motiven. En el ámbito municipal la atribución anterior corresponderá a los Presidentes Municipales pudiendo comparecer en su representación el Tesorero Municipal.
+Para el caso de las cuentas públicas, la Entidad Superior de Auditoría y Fiscalización contará con el mismo tiempo adicional otorgado para la presentación del correspondiente Informe General Ejecutivo del resultado de la Fiscalización Superior de la Cuenta Pública.
 
 La falta de presentación oportuna, en los términos que establece esta Constitución, de la iniciativa de Ley de Ingresos y de Presupuesto de Egresos del Estado y de las iniciativas de Leyes de Ingresos de los Municipios, dará como consecuencia que los ordenamientos en vigor para el ejercicio fiscal en curso continúen vigentes para el ejercicio fiscal siguiente, independientemente de la responsabilidad directa de los titulares de la obligación. En esta misma hipótesis si la omisión persiste para un nuevo ejercicio fiscal, el Congreso por acuerdo de las dos terceras partes de sus integrantes, procederá a la elaboración, discusión y aprobación de la Ley de Ingresos y del Decreto de Presupuesto de Egresos del Estado y de la Ley o Leyes de Ingresos de los Municipios correspondientes, casos en los cuales, dichos ordenamientos iniciarán su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado; si el Congreso del Estado aprecia la negativa del Poder Ejecutivo para ordenar la publicación de los mismos, se ordenará su publicación en la Gaceta Oficial del Poder Legislativo y en uno de los periódicos de mayor circulación en el Estado de Morelos. La omisión en estos términos, dará motivo a la aplicación de las responsabilidades establecidas en esta Constitución y en la ley de la materia.
-
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2010)</small>
 
 Para el caso de que el Congreso dejare de aprobar, en los términos de esta Constitución, las Leyes de Ingresos del Estado o de los Municipios, así como el Presupuesto de Egresos del Estado, continuarán rigiendo las Leyes de Ingresos y el Presupuesto de Egresos aprobados para el ejercicio fiscal del año anterior, hasta en tanto éstos se aprueben. En todo caso, las Leyes de Ingresos y Presupuesto de Egresos deberán respetar las bases previstas en el artículo 131 de esta Constitución y en las leyes que en la materia expida el Poder Legislativo del Estado. En este caso, si en el Presupuesto de Egresos del Estado hubiese recursos aprobados por ser año electoral, se entenderá que sólo se autorizan recursos referentes al último año en el que no hubo elecciones, para el normal funcionamiento de las instituciones electorales y partidos políticos. Asimismo, en caso de que en la Ley de Ingresos del Estado o en las Leyes de Ingresos Municipales correspondientes al ejercicio fiscal del año anterior se hubiesen autorizado montos de endeudamiento y, en su caso, la contratación de empréstitos, dichas autorizaciones no se considerarán renovadas.
 
 En los casos en que, de acuerdo a lo previsto en este Artículo, el Presupuesto de Egresos del Estado deba continuar vigente no obstante haber sido aprobado para el ejercicio fiscal anterior, las partidas correspondientes al pago de obligaciones derivadas de empréstitos y de contratos de colaboración público privada que hubiesen sido autorizadas en el Presupuesto anterior se ajustarán en su monto, de manera automática, en función de las obligaciones contraídas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2015)</small>
-
-La falta de presentación oportuna, en los plazos que señala esta Constitución de las cuentas públicas del Estado y de los Municipios, así como de la Ley de Ingresos y el Presupuesto de Egresos del Estado y de las Leyes de Ingresos de los Municipios, dará lugar a la aplicación de las sanciones previstas en la (sic) leyes respectivas, independientemente de las revisiones e inspecciones que realice la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado y de las responsabilidades que se deriven o puedan derivarse por el ejercicio de los recursos públicos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2015)</small>
+La falta de presentación oportuna, en los plazos que señala esta Constitución de las cuentas públicas del Estado y de los Municipios, así como de la Ley de Ingresos y el Presupuesto de Egresos del Estado y de las Leyes de Ingresos de los Municipios, dará lugar a la aplicación de las sanciones previstas en la leyes respectivas, independientemente de las revisiones e inspecciones que realice la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado y de las responsabilidades que se deriven o puedan derivarse por el ejercicio de los recursos públicos.
 
 Para la revisión de la cuenta pública, el Congreso del Estado se apoyará en la Entidad Superior de Auditoría y Fiscalización, en todo caso, cualquier entidad privada que ejerza recursos públicos será sujeta de fiscalización en los términos de esta Constitución y la Ley.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+El Congreso concluirá la revisión de la Cuenta Pública a más tardar el 31 de octubre del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del Informe General Ejecutivo del resultado de la Fiscalización Superior, a que se refiere el artículo 84 de esta Constitución, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Entidad Superior de Auditoría y Fiscalización, seguirán su curso en términos de lo dispuesto en dicho artículo.
 
-Los Poderes Legislativo, Ejecutivo y Judicial, el Organismo Público Electoral del Estado, el Tribunal Electoral del Estado de Morelos, así como los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, deberán incluir dentro de su proyecto de presupuesto, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estas propuestas deberán observar el procedimiento que para la aprobación del Presupuesto de Egresos del Estado, establezcan las disposiciones constitucionales y legales aplicables.
+Los Poderes Legislativo, Ejecutivo y Judicial, el Organismo Público Electoral del Estado, el Tribunal Electoral del Estado de Morelos, Municipios así como los organismos públicos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, deberán incluir dentro de su proyecto de presupuesto, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estas propuestas deberán observar el procedimiento que para la aprobación del Presupuesto de Egresos del Estado, establezcan las disposiciones constitucionales y legales aplicables.
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1176,11 +1216,9 @@ XXV.- Excitar a los Poderes de la Federación para que presten protección al Es
 
 XXVI.- Nombrar y remover a los trabajadores al servicio del Poder Legislativo con arreglo a las leyes a que se refiere la fracción XX.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2015)</small>
-
-XXVII.- Recibir de los Diputados, Gobernador, Fiscal General del Estado, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal de lo Contencioso Administrativo, Magistrado del Tribunal Unitario de Justicia para Adolescentes, Consejeros del Instituto Morelense de Información Pública y Estadística y Auditor General de la Entidad Superior de Auditoría y Fiscalización, la protesta a que se refiere el artículo 133 de esta Constitución;
+XXVII.- Recibir de los Diputados, Gobernador, Fiscal General del Estado, Magistrados del Tribunal Superior de Justicia, Magistrados del Tribunal de Justicia Administrativa del Estado de Morelos, Magistrado del Tribunal Unitario de Justicia para Adolescentes, Comisionados del Instituto Morelense de Información Pública y Estadística y Auditor General de la Entidad Superior de Auditoría y Fiscalización, la protesta a que se refiere el artículo 133 de esta Constitución;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1202,11 +1240,9 @@ XXX.- Conceder licencias para separarse de sus respectivos cargos a los diputado
 
 XXXI.- Conceder o negar licencia al Gobernador del Estado para salir del territorio del mismo o para separarse de sus funciones, siempre que la ausencia o separación sea por más de 30 días.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2015)</small>
-
-XXXII.- Admitir la renuncia de sus cargos a los Magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo, del Magistrado del Tribunal Unitario de Justicia para Adolescentes, del Fiscal General del Estado, de los Consejeros del Instituto Morelense de Información Pública y Estadística, del Auditor General de la Entidad Superior de Auditoría y Fiscalización; del Presidente y Consejeros de la Comisión de Derechos Humanos del Estado de Morelos, así como a los titulares de los Órganos Superiores de los Organismos Constitucionales Autónomos;
+XXXII.- Admitir la renuncia de sus cargos a los Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa del Estado de Morelos, del Magistrado del Tribunal Unitario de Justicia para Adolescentes, del Fiscal General del Estado, Fiscal Especializado para la Investigación de Hechos de Corrupción, de los Comisionados del Instituto Morelense de Información Pública y Estadística, del Auditor General de la Entidad Superior de Auditoría y Fiscalización, del Presidente y Consejeros de la Comisión de Derechos Humanos del Estado de Morelos, así como a los titulares de los Órganos Superiores de los Organismos Públicos Constitucionales Autónomos y los titulares de los órganos internos de control de cada uno de éstos;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1226,13 +1262,11 @@ XXXV.- Designar al representante del Poder Legislativo ante el Consejo de la Jud
 
 XXXVI.- Nombrar Gobernador interino o Substituto en los casos que determina esta Constitución.
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
 
-XXXVII.- Designar a los Magistrados del Tribunal Superior de Justicia; a los Magistrados del Tribunal de lo Contencioso Administrativo del Estado y al Magistrado del Tribunal Unitario de Justicia para Adolescentes de conformidad con lo previsto en esta Constitución; así como al Fiscal General del Estado, este último de entre la terna de ciudadanos que someta a su consideración el Ejecutivo del Estado.
+XXXVII.- Designar a los Magistrados del Tribunal Superior de Justicia; a los Magistrados del Tribunal de Justicia Administrativa del Estado de Morelos y al Magistrado del Tribunal Unitario de Justicia para Adolescentes de conformidad con lo previsto en esta Constitución; así como al Fiscal General del Estado de Morelos y al Fiscal Especializado para la Investigación de Hechos de Corrupción, estos últimos de entre la terna de ciudadanos que someta a su consideración el Ejecutivo del Estado.
 
-Asimismo, designar si fuera procedente, por un período más a los Magistrados Numerarios del Tribunal Superior de Justicia, Magistrados del Tribunal de lo Contencioso Administrativo y Magistrado del Tribunal Unitario de Justicia para Adolescentes.
-
-Las designaciones y en su caso la remoción a que alude esta fracción, deberán reunir el voto aprobatorio de las dos terceras partes de los integrantes del Congreso;
+Asimismo, designar si fuera procedente, por un período más a los Magistrados Numerarios del Tribunal Superior de Justicia, Magistrados del Tribunal de Justicia Administrativa del Estado de Morelos y Magistrado del Tribunal Unitario de Justicia para Adolescentes.
 
 > <small>(REFORMADA, P.O. 6 DE JUNIO DE 2007)</small>
 
@@ -1242,9 +1276,9 @@ XXXVIII.- Nombrar al Diputado que en forma conjunta con la mesa Directiva del Co
 
 XXXIX.- Nombrar, a propuesta en terna del Ejecutivo, persona que represente al Estado ante la Suprema Corte de Justicia, cuando se suscite alguna controversia con otro Estado o con la Nación.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
 
-XL.- Nombrar a los Consejeros propietarios y suplentes del Instituto Morelense de Información Pública y Estadística, previa consulta pública.
+XL.- Nombrar a los Comisionados propietarios y suplentes del Instituto Morelense de Información Pública y Estadística, previa consulta pública;
 
 > <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
 
@@ -1258,11 +1292,9 @@ XLII.- Declarar sobre la culpabilidad de los mismos funcionarios, por los delito
 
 XLIII.- Resolver las controversias que se susciten entre el Ejecutivo y el Tribunal Superior de Justicia del Estado y las que se susciten entre el Tribunal Superior de Justicia y el Instituto Morelense de Información Pública y Estadística, siempre que no tengan el carácter de controversias que deba conocer la Suprema Corte de Justicia de la Nación, conforme al artículo 105 de la Constitución Federal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2015)</small>
-
-XLIV.- Designar, con el voto de las dos terceras partes de los miembros presentes de la Legislatura, al Auditor General de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado;
+XLIV.- Designar, con el voto de las dos terceras partes de los miembros presentes de la Legislatura, al Auditor General de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado, así mismo designar con el voto aprobatorio de las dos terceras partes de los integrantes de la Legislatura, a los integrantes del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción y a los titulares de los órganos internos de control de los organismos públicos autónomos a que se refiere el artículo 23-C de esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -1422,17 +1454,17 @@ Las iniciativas presentadas por el Ejecutivo del Estado, por el Tribunal Superio
 
 Para que una iniciativa tenga el carácter de ley o decreto, necesita en votación nominal de las dos terceras partes de los diputados integrantes de la legislatura; la sanción y promulgación del Ejecutivo y su publicación en el órgano oficial del Estado; excepto en los casos expresamente determinados por esta Constitución.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 45.
 
-El Congreso o la Diputación Permanente podrán llamar a los Secretarios del Poder Ejecutivo Estatal y a los Consejeros del Instituto Morelense de Información Pública y Estadística a cualquiera de sus sesiones secretas o públicas para pedirle los informes verbales que necesiten sobre asuntos relacionados con el desempeño de sus funciones y estos funcionarios deberán presentarse a ministrarlos.
+El Congreso o la Diputación Permanente podrán llamar a los Secretarios del Poder Ejecutivo Estatal y a los Comisionados del Instituto Morelense de Información Pública y Estadística a cualquiera de sus sesiones secretas o públicas para pedirles los informes verbales que necesiten sobre asuntos relacionados con el desempeño de sus funciones y estos funcionarios deberán presentarse a ministrarlos.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 46.
 
-El Congreso podrá llamar a uno o más Magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo y del Tribunal Unitario de Justicia para Adolescentes al discutirse los dictámenes sobre iniciativas de Leyes o Decretos, para ilustrar la materia de que se trate en el ámbito de sus respectivas competencias.
+El Congreso podrá llamar a uno o más Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa del Estado de Morelos y del Tribunal Unitario de Justicia para Adolescentes al discutirse los dictámenes sobre iniciativas de Leyes o Decretos, para ilustrar la materia de que se trate en el ámbito de sus respectivas competencias.
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2011)</small>
 
@@ -1612,9 +1644,9 @@ b). El Gobernador interino, el provisional, o el ciudadano que bajo cualquiera d
 
 VI.- Los Presidentes Municipales si no se separan de sus funciones 90 días antes del día de la elección; y
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2015)</small>
 
-VII.- El Consejero Presidente y los Consejeros Electorales del Organismo Público Electoral de Morelos, los Magistrados del Tribunal Electoral del Estado de Morelos, así como el personal directivo del Organismo Público Electoral de Morelos ni los Consejeros del Instituto Morelense de Información Pública y Estadística, aún si se separan de sus funciones, conforme a lo dispuesto en el artículo 23 de la presente Constitución.
+VII.- El Consejero Presidente y los Consejeros Electorales del Organismo Público Electoral de Morelos, los Magistrados del Tribunal Electoral del Estado de Morelos, así como el personal directivo del Organismo Público Electoral de Morelos ni los Comisionados del Instituto Morelense de Información Pública y Estadística, aún si se separan de sus funciones, conforme a lo dispuesto en el artículo 23 de la presente Constitución.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -2086,6 +2118,18 @@ La residencia no se interrumpirá por el desempeño de un cargo de elección pop
 
 El requisito de residencia a que se refiere la fracción I del presente artículo, podrá ser dispensado en el caso de que quien ocupe el cargo de Fiscal General del Estado acredite fehacientemente el haber servido en alguna institución del Ministerio Público del País, durante al menos los cinco años previos a la designación.
 
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)</small>
+
+Además de los servidores públicos dependientes del Fiscal General que se señalen en la normativa aplicable, contará con un Fiscal Especializado para la Investigación de Hechos de Corrupción, integrante del Sistema Estatal Anticorrupción, cuyas atribuciones y funciones se establecerán en la respectiva ley.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)</small>
+
+Dicho Fiscal Especializado deberá cumplir con los mismos requisitos que para ser Fiscal General; será designado por el Congreso del Estado, de entre la terna que le remita el Gobernador Constitucional del Estado, mediante el voto aprobatorio de cuando menos las dos terceras partes de los diputados que lo integran; su permanencia en el cargo estará a lo dispuesto en los párrafos quinto y sexto del presente artículo.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)</small>
+
+El Fiscal General del Estado de Morelos y el Fiscal Especializado a que se refieren los dos párrafos precedentes, una vez que hayan rendido la protesta del cumplimiento de su respectivo cargo, deberán recibir sus respectivos nombramientos expedidos por el Gobernador Constitucional del Estado.
+
 > <small>(REFORMADO Y REUBICADO, P.O. 7 DE JULIO DE 1988)</small>
 
 ### CAPITULO V.
@@ -2134,7 +2178,9 @@ El Congreso del Estado, al aprobar el Presupuesto de Egresos, no podrá dejar de
 
 En todo caso, dicho señalamiento deberá respetar las bases previstas en la Constitución Federal, esta Constitución y sus leyes reglamentarias.
 
-Los poderes Legislativo, Ejecutivo y Judicial, así como los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
+
+Los poderes Legislativo, Ejecutivo y Judicial, los Ayuntamientos, las entidades públicas, así como los organismos públicos autónomos establecidos por esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, deberán incluir dentro de su proyecto de presupuesto, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos.
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2007)</small>
 
@@ -2142,125 +2188,59 @@ Los poderes Legislativo, Ejecutivo y Judicial, así como los organismos con auto
 
 No se hará ningún gasto que no esté comprendido en el Presupuesto o autorizado por el Congreso. La infracción de esté artículo constituye en responsable a la Autoridad que ordene el gasto y al empleado que lo ejecute.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ANTES PRIMER Y SEGUNDO PÁRRAFOS], P.O. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 84.
 
 La revisión y fiscalización de las Cuentas Públicas de la Administración Pública Centralizada y Descentralizada de los Poderes y los Municipios, los Organismos Autónomos Constitucionales y, en general, todo Organismo Público, persona física o moral del sector social o privado que por cualquier motivo reciba o haya recibido, administrado, ejerza o disfrute de recursos públicos bajo cualquier concepto, la realizará la Entidad Superior de Auditoría y Fiscalización, que es el órgano técnico de fiscalización, auditoría, control y evaluación del Congreso del Estado, con autonomía técnica y de gestión en el ejercicio de sus atribuciones y de decisión sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la Ley, y estará a cargo de un Auditor General de Fiscalización.
 
-> <small>N. DE E. DEL ANÁLISIS REALIZADO SE ADVIERTE QUE ESTE SEGUNDO PÁRRAFO SE ENCUENTRA INMERSO EN LA REDACCIÓN DEL PÁRRAFO INMEDIATO ANTERIOR, ASIMISMO EL 30 DE ENERO DE 2015 MEDIANTE DECRETO NO. 2062 FUE ADICIONADO ESTE PÁRRAFO SEGUNDO. VÉASE DICHA PUBLICACIÓN.</small>
+Para la consecución de sus objetivos, la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, contará con un Servicio Profesional de Auditoría, el que, mediante concursos de oposición interno y externo, será el mecanismo para el ingreso, permanencia y promoción de su personal. En las etapas de reclutamiento regirán los principios de legalidad, eficiencia, objetividad, calidad, imparcialidad, equidad, competencia por mérito y equidad de género.
 
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2015)</small>
+El Congreso del Estado evaluará el desempeño de la Entidad Superior de Auditoría y Fiscalización, a través del Consejo de Vigilancia; el cual tendrá las atribuciones que la ley le confiera.
 
-La revisión y fiscalización de las cuentas públicas de la Administración Pública Centralizada y Descentralizada de los Poderes y los Municipios, los Organismos Autónomos Constitucionales y, en general, todo Organismo Público, persona física o moral del sector social o privado que por cualquier motivo reciba o haya recibido, administrado, ejerza o disfrute de recursos públicos bajo cualquier concepto, la realizará el Congreso a través del órgano que se crea denominado Auditoría Superior de Fiscalización del Congreso del Estado.
+El Consejo de Dirección de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, es el órgano de consulta de las políticas y estrategias institucionales de la misma. Se integra por el Auditor General, cuatro Auditores Especiales y los Directores Generales de las áreas Jurídica, de Administración y de Capacitación. Los Auditores Especiales y los Directores Generales durarán en su cargo cuatro años, pudiendo ser nombrados por un periodo más, previa evaluación que haga el órgano político del Congreso del Estado; serán nombrados y removidos por la Junta Política y de Gobierno del Congreso del Estado, a propuesta de la Comisión de Hacienda, Presupuesto y Cuenta Pública del mismo Congreso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+La función de fiscalización será ejercida conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
 
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2015)</small>
+La Entidad Superior de Auditoría y Fiscalización del Congreso del Estado podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, deberán referirse a la información definitiva presentada en la Cuenta Pública.
 
-El Consejo de Dirección de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, es el órgano de consulta de las políticas y estrategias institucionales de la misma. Se integra por el Auditor General, cuatro Auditores Especiales y los Directores Generales, Jurídico, de Administración y de Capacitación. Los Auditores Especiales y los Directores Generales durarán en su cargo cuatro años, pudiendo ser nombrados por un periodo más, previa evaluación que haga el órgano político del Congreso del Estado, serán nombrados y removidos por la Junta Política y de Gobierno del Congreso del Estado, a propuesta de la Comisión de Hacienda, Presupuesto y Cuenta Pública del mismo Congreso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
-
-La función de fiscalización será ejercida conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2015)</small>
+Asimismo, por lo que corresponde a los trabajos de planeación de las auditorías, la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado podrá solicitar información del ejercicio en curso, respecto de procesos concluidos.
 
 A.- La Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos tendrá las siguientes facultades:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I.- Fiscalizar los ingresos y egresos, el manejo, la custodia y la aplicación de los recursos de los poderes del estado, todos los organismos y entidades públicas y de cualquier entidad, persona física o moral pública o privada y los transferidos a fideicomisos, mandatos, fondos o cualquier otro acto jurídico, así como la evaluación sobre el cumplimiento de sus objetivos y metas establecidos en sus programas.
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+También fiscalizará directamente los recursos federales que administren o ejerzan, los municipios, los que se destinen y se ejerzan por cualquier entidad, persona física o moral pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes aplicables y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
 
-I.- Fiscalizar los ingresos y egresos, el manejo, la custodia y la aplicación de los recursos de los poderes del estado, todos los organismos y entidades públicas y de cualquier entidad, persona física o moral, pública o privada y los transferidos a fideicomisos, mandatos, fondos o cualquier otro acto jurídico, así como la evaluación sobre el cumplimiento de sus objetivos y metas establecidos en sus programas.
-
-También fiscalizará directamente los recursos federales que administren o ejerzan, los municipios, los que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes aplicables y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
+Para el caso de las participaciones federales, en los términos que establezca la ley en la materia, se mantendrá la coordinación correspondiente con la Auditoría Superior de la Federación. En el caso del Estado y los Municipios, cuyos empréstitos cuenten con la garantía de la Federación, se estará a lo que disponga la Constitución Federal y la normativa aplicable.
 
 Si del estudio que se realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, dicho órgano sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la ley.
 
-Las entidades fiscalizadas deberán llevar el control y registro contable, patrimonial y presupuestal de los recursos del estado y de los municipios que les sean transferidos y asignados de acuerdo con los criterios que establezca la constitución y la ley, garantizando que los recursos económicos de que dispongan se administren con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados.
+Las entidades fiscalizadas deberán llevar el control y registro contable, patrimonial y presupuestal de los recursos del Estado y de los municipios que les sean transferidos y asignados de acuerdo con los criterios que se establezcan constitucional y legalmente, garantizando que los recursos económicos de que dispongan se administren con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+La Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos podrá solicitar y revisar, por periodos semestrales la información correspondiente al ejercicio de la Cuenta Pública. Las observaciones y recomendaciones que respectivamente se tengan que emitir, deberán observar en todo momento el apego a la normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2015)</small>
+Las entidades fiscalizadas, previa convocatoria, participarán en los Comités de Solventación que señala la ley, a fin de exponer lo que a su derecho convenga. Las determinaciones del Comité de Solventación podrán ser revisadas mediante el recurso de reconsideración que conocerá el Auditor Especial responsable de la Cuenta Pública a revisión.
 
-Sin perjuicio del principio de anualidad, la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos podrá solicitar y revisar, por periodos semestrales la información correspondiente al ejercicio de la Cuenta Pública. Las observaciones y recomendaciones que respectivamente se tengan que emitir, deberán observar en todo momento el apego a la normatividad aplicable.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2015)</small>
-
-Las entidades fiscalizadas, previa convocatoria, participaran en los Comités de Solventación que señala la ley, a fin de exponer lo que a su derecho convenga. Las determinaciones del Comité de Solventación podrán ser revisadas mediante el recurso de reconsideración que conocerá el Auditor Especial responsable de la Cuenta Pública a revisión.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2015)</small>
-
-II.- Podrá revisar el desempeño en el cumplimiento de los objetivos contenidos en los Programas de Gobierno del Estado y de los Municipios. En el caso de que existan recomendaciones al desempeño las entidades fiscalizadas, estas deberán precisar ante la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos las mejoras realizadas o, en su caso, justificar su improcedencia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2015)</small>
+II.- Podrá revisar el desempeño en el cumplimiento de los objetivos contenidos en los Programas de (sic) del Ejecutivo del Estado y de los Municipios. En el caso de que existan recomendaciones al desempeño de las entidades fiscalizadas, estas deberán precisar ante la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos las mejoras realizadas o, en su caso, justificar su improcedencia.
 
 III.- Realizar visitas, inspecciones, revisiones, auditorías operativas, financieras, de cumplimiento, de evaluación de la gestión social a las entidades sujetas a fiscalización y de cualquier persona física o moral, pública o privada, en los términos de la legislación en la materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
-
-IV.- En su caso, determinar las responsabilidades administrativas en que incurran los servidores públicos del Estado, y municipios, promover juicios civiles y presentar denuncias o querellas y actuar como coadyuvante del ministerio público;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+IV.- En su caso, determinar las responsabilidades administrativas en que incurran los servidores públicos del Estado, y municipios, promover juicios civiles y presentar denuncias o querellas y actuar como coadyuvante del Ministerio Público;
 
 V.- Remitir al Congreso del Estado, los informes de resultados de la revisión de la cuenta pública del año anterior. El organismo de fiscalización deberá guardar reserva de sus actuaciones y observaciones, la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
-
-VI.- Informar al Congreso y en su caso, dar parte a la autoridad que corresponda, si del informe de resultados se desprenden actos u omisiones que impliquen alguna irregularidad o conducta ilícita relacionada con el ingreso, egreso, manejo, custodia y aplicación de los fondos y recursos públicos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
+VI.- Informar al Congreso y, en su caso, dar parte a la autoridad que corresponda, si del informe de resultados se desprenden actos u omisiones que impliquen alguna irregularidad o conducta ilícita relacionada con el ingreso, egreso, manejo, custodia y aplicación de los fondos y recursos públicos;
 
 VII.- Determinar los daños y perjuicios que afecten a la hacienda pública o al patrimonio de las entidades públicas y fincar a los responsables las sanciones correspondientes, así como promover en su caso, ante las autoridades competentes el fincamiento de otras responsabilidades;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VIII.- Expedir las normas de auditoría que regularán el ejercicio de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, las relativas al control interno, y
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2015)</small>
+IX.- Las demás que establezcan esta Constitución y las leyes aplicables.
 
-VIII.- Expedir las normas de auditoría que regularán el ejercicio de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, las relativas al control interno; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
-
-IX.- Las demás que establezca esta Constitución y las leyes aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2015)</small>
-
-Los poderes del estado y las entidades fiscalizadas, facilitarán los auxilios que requiera la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos para el ejercicio de sus funciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2015)</small>
+Los Poderes del Estado y las entidades fiscalizadas, proporcionarán los auxilios que requiera la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos para el ejercicio de sus funciones.
 
 B.- El Auditor General de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, será electo por el voto de las dos terceras partes de los miembros presentes de la Legislatura, durará en el cargo ocho años y podrá ser nombrado nuevamente por una sola vez, previa evaluación realizada por el órgano de gobierno del Congreso, deberá contar con cinco años de experiencia en materia de control, auditoría financiera y de responsabilidades, además de los requisitos establecidos en las fracciones I, II, IV y VI del artículo 90 de esta Constitución. Durante el ejercicio de su cargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los de docencia y los no remunerados en asociaciones científicas, artísticas o de beneficencia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
 
 Para su designación se conformará una comisión calificadora integrada por los coordinadores de los grupos parlamentarios, la cual presentará al Pleno del Congreso la propuesta correspondiente. La Ley establecerá los requisitos y el procedimiento para su designación. Podrá ser removido exclusivamente por las cusas (sic) graves que la ley señale con la misma votación requerida para su nombramiento o por las causas conforme los procedimientos establecidos en el titulo séptimo de esta constitución.
 
@@ -2330,7 +2310,7 @@ El Ejecutivo del Estado garantizará que el desarrollo en la entidad sea integra
 
 DISPOSICIONES PRELIMINARES.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
 
 ## TITULO QUINTO.
 
@@ -2344,7 +2324,7 @@ DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
 ###### Artículo 86.
 
-El ejercicio del Poder Judicial se deposita en el Pleno del Tribunal Superior de Justicia del Estado, en el Tribunal de lo Contencioso Administrativo y en el Tribunal Unitario de Justicia para Adolescentes, cada uno en el ámbito de competencia que les corresponde.
+El ejercicio del Poder Judicial se deposita en el Pleno del Tribunal Superior de Justicia del Estado y en el Tribunal Unitario de Justicia para Adolescentes, cada uno en el ámbito de competencia que les corresponde.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 1989)</small>
 
@@ -2352,11 +2332,11 @@ El ejercicio del Poder Judicial se deposita en el Pleno del Tribunal Superior de
 
 La Ley establecerá y organizará los Tribunales, garantizará la independencia de Magistrados y Jueces en el ejercicio de sus funciones, determinará sus atribuciones y marcará los procedimientos a que deberán sujetarse para ejercitarlas. Los nombramientos de los Magistrados y Jueces, serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la Profesión Jurídica.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 88.
 
-Los Magistrados del Tribunal Superior de Justicia, los Jueces, los respectivos Secretarios y los Consejeros de la Judicatura Estatal, no podrán desempeñar empleo o cargo de la Federación, del Estado, de los Municipios ni de particulares, por el que reciban alguna remuneración, a no ser que sean de educación o de beneficencia y que no les impidan el expedito ejercicio de sus funciones. La infracción de esta disposición será castigada con la pérdida del cargo.
+Los Magistrados de los Tribunales del Estado, los Jueces, los respectivos Secretarios y los Consejeros de la Judicatura Estatal, no podrán desempeñar empleo o cargo de la Federación, del Estado, de los Municipios ni de particulares, por el que reciban alguna remuneración, a no ser que sean de educación o de beneficencia y que no les impidan el expedito ejercicio de sus funciones. La infracción de esta disposición será castigada con la pérdida del cargo.
 
 ### CAPITULO III.
 
@@ -2636,49 +2616,11 @@ La Ley determinará los asuntos de la competencia de los Jueces de Primera Insta
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
-### CAPITULO VI.
+### CAPÍTULO VI.
 
-DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO.
+DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2008)</small>
-
-Artículo 109 BIS.- La justicia administrativa estatal se deposita en un Tribunal de lo Contencioso Administrativo, dotado de plena jurisdicción y autonomía para dictar sus fallos. Este Órgano jurisdiccional conocerá y resolverá las controversias de carácter administrativo y fiscal, que se susciten entre la administración pública estatal o municipal, sus organismos auxiliares estatales o municipales y los particulares. En ningún caso el Tribunal de lo Contencioso Administrativo será competente para conocer y resolver sobre los actos y resoluciones que dicte la Auditoría Superior de Fiscalización del Congreso del Estado.
-
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
-
-Los Magistrados deberán reunir los mismos requisitos que para ser Magistrados del Tribunal Superior de Justicia del Estado, debiendo además contar con experiencia en materia administrativa y fiscal plenamente acreditada. Serán designados por el Pleno del Poder Legislativo a propuesta del órgano político del Congreso, el cual emitirá la convocatoria pública conforme a lo establecido en esta Constitución y la Ley Orgánica para el Congreso del Estado.
-
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
-
-Durarán en su cargo seis años contados a partir de la fecha en que rindan la protesta constitucional, podrán ser designados para un periodo más y si lo fueren, continuarán en esa función hasta por ocho años más, sin que puedan ocupar el cargo por más de catorce años y sólo podrán ser privados del cargo en los términos que establezcan esta Constitución y las leyes en materia de responsabilidades de los servidores públicos.
-
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
-
-La designación por un período más sólo procederá de los resultados que arroje la evaluación del desempeño que realice el Poder Legislativo a través del órgano político del Congreso, mediante los mecanismos, criterios, procedimientos e indicadores de gestión que para dicha evaluación establezca esta Constitución y las leyes en la materia.
-
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
-
-Ninguna persona que haya sido nombrada magistrado y haya procedido su designación para un período más en términos de esta constitución, podrá volver a ocupar el cargo o ser nombrada para un nuevo periodo. En ningún caso y por ningún motivo, los Magistrados que hubieran ejercido el cargo con el carácter de titular, provisional o interino, podrán rebasar catorce años en el cargo.
-
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
-
-Al término de los catorce años, los Magistrados tendrán derecho a un haber por retiro, en los términos establecidos para los Magistrados del Tribunal Superior de Justicia conforme lo establece esta Constitución y la Ley de la materia.
-
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
-
-El retiro forzoso del cargo se producirá en los mismos términos que para los magistrados del Tribunal Superior de Justicia.
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
-
-La Ley establecerá su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones. Por lo que hace a su Presupuesto de Egresos, el Tribunal deberá elaborar el proyecto respectivo y remitirlo con toda oportunidad para su integración al del Tribunal Superior de Justicia del Estado.
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
-
-Los Magistrados deberán cumplir con la presentación oportuna de sus declaraciones patrimoniales de bienes en los términos del Artículo 133-bis de esta Constitución.
-
-(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE NOVIEMBRE DE 2007) (F. DE E., P.O. 5 DE DICIEMBRE DE 2007)
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
 
 ### CAPÍTULO VII.
 
@@ -2691,6 +2633,34 @@ DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES.
 DE SU ORGANIZACION POLITICA.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+###### Artículo 109 Bis.
+
+La justicia administrativa estatal se deposita en un Tribunal de Justicia Administrativa del Estado de Morelos, dotado de plena jurisdicción y autonomía para dictar sus fallos, órgano jurisdiccional que no estará adscrito al Poder Judicial.
+
+Dicho Tribunal de Justicia Administrativa tendrá a su cargo el conocimiento y resolución de las controversias de carácter administrativo y fiscal, que se susciten entre la administración pública estatal o municipal, sus organismos auxiliares estatales o municipales y los particulares; la determinación de existencia de conflicto de intereses; la emisión de resoluciones sobre la compatibilidad para el desempeño de dos o más empleos o comisiones con cargo a los presupuestos de los Poderes Públicos, los organismos públicos autónomos, los municipios y los organismos auxiliares de la administración pública, estatal o municipal; la imposición en los términos que disponga la Ley, de las sanciones a los servidores públicos por las responsabilidades administrativas que la ley determine como graves y a los particulares que participen en actos vinculados con dichas responsabilidades, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos estatales, la Universidad Autónoma del Estado de Morelos y los Organismos Públicos Autónomos creados por esta Constitución.
+
+Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en ésta Constitución, sin perjuicio de las atribuciones de las entidades de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
+
+El Tribunal de Justicia Administrativa estará integrado por cinco magistrados; funcionará en términos de lo dispuesto en la (sic) normas aplicables.
+
+Los Magistrados deberán reunir los mismos requisitos que para ser Magistrados del Tribunal Superior de Justicia del Estado, debiendo además contar con experiencia en materia administrativa, fiscal o de responsabilidades plenamente acreditada. Serán designados por el Pleno del Poder Legislativo a propuesta del órgano político del Congreso, el cual emitirá la convocatoria pública conforme a lo establecido en esta Constitución y la Ley Orgánica para el Congreso del Estado.
+
+Durarán en su cargo ocho años, contados a partir de la fecha en que rindan la protesta constitucional, pudiendo ser designados para un período de seis años más y sólo podrán ser removidos de sus cargos por las causas graves que señale la ley.
+
+La designación por un período más sólo procederá de los resultados que arroje la evaluación del desempeño que realice el Poder Legislativo a través del órgano político del Congreso, mediante los mecanismos, criterios, procedimientos e indicadores de gestión que para dicha evaluación establezca esta Constitución y las leyes en la materia.
+
+Ninguna persona que haya sido nombrada magistrado y haya procedido su designación para un período más en términos de esta Constitución, podrá volver a ocupar el cargo o ser nombrada para un nuevo periodo. En ningún caso y por ningún motivo, los Magistrados que hubieran ejercido el cargo, podrán rebasar catorce años en el cargo.
+
+Al término de su respectivo encargo, los Magistrados tendrán derecho a un haber por retiro, en los términos establecidos para los Magistrados del Tribunal Superior de Justicia, conforme lo establece esta Constitución y la Ley de la materia.
+
+El retiro forzoso del cargo se producirá en los mismos términos que para los magistrados del Tribunal Superior de Justicia.
+
+La Ley establecerá su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones. El Tribunal podrá establecer unidades de apoyo técnico especializado, atendiendo a su disponibilidad presupuestal. Por lo que hace a su Presupuesto de Egresos, el Tribunal deberá elaborar el proyecto respectivo y remitirlo con toda oportunidad para su integración al del Tribunal Superior de Justicia del Estado.
+
+Los Magistrados deberán cumplir con la presentación oportuna de su declaración de intereses y situación patrimonial en los términos de lo dispuesto por el artículo 133-bis de esta Constitución.
+
+(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE NOVIEMBRE DE 2007) (F. DE E., P.O. 5 DE DICIEMBRE DE 2007)
 
 ###### Artículo 106.
 
@@ -2726,7 +2696,7 @@ Los Magistrados Electorales serán designados en términos de lo dispuesto por l
 
 (DEROGADO, P.O. 27 DE JUNIO DE 2014)
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE AGOSTO DE 2015)</small>
 
 ### CAPÍTULO III.
 
@@ -3046,9 +3016,9 @@ VII.- El padre en concurrencia con el hijo; el esposo o esposa con el cónyuge, 
 
 ### CAPITULO III.
 
-DE LA DECLARACION Y SITUACION PATRIMONIAL DE LOS SERVIDORES PUBLICOS.
+DE LA DECLARACIÓN DE INTERESES Y DE SITUACIÓN PATRIMONIAL DE LOS SERVIDORES PUBLICOS.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 118.
 
@@ -3258,21 +3228,21 @@ El Gobernador del Estado protestará en los términos siguientes:
 
 "Protesto, bajo palabra de honor, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, las Leyes que de una y otra emanen, y cumplir fiel y patrióticamente con los deberes de mi encargo, mirando en todo por el bien y prosperidad de la Unión y del Estado, y si no lo hiciere así que la Nación y el Estado me lo demanden".
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2015)</small>
 
-El Presidente del Congreso protestará en iguales términos al instalarse el Congreso. En el mismo acto protestarán ante él los demás Diputados. Los Magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo y del Tribunal Unitario de Justicia para Adolescentes, protestarán ante el Congreso en los términos antes expuestos. Los demás funcionarios y empleados rendirán su protesta ante su superior inmediato jerárquico en la forma siguiente:
+El Presidente del Congreso protestará en iguales términos al instalarse el Congreso. En el mismo acto protestarán ante él los demás Diputados. Los Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa del Estado de Morelos y del Tribunal Unitario de Justicia para Adolescentes, protestarán ante el Congreso en los términos antes expuestos. Los demás funcionarios y empleados rendirán su protesta ante su superior inmediato jerárquico en la forma siguiente:
 
 "Protestais guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, las Leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo de......................que el Estado os ha conferido"? El interrogado contestará. "Sí Protesto. Acto continuo, la misma autoridad que tome la Protesta dirá. "Si no lo hiciereis así, que la Nación y el Estado os lo demanden".
 
-> <small>(REFORMADA SU NUMERACIÓN, P.O. 20 DE JULIO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 133
 
-Bis.- Tienen obligación de presentar declaraciones patrimoniales los integrantes de los Poderes Legislativo, Ejecutivo y Judicial, los miembros de los Ayuntamientos y los integrantes y funcionarios del Organismo Público Electoral de Morelos, así como del Tribunal Electoral del Estado de Morelos, en los términos que disponga la ley de la materia.
+Bis.- Tienen obligación de presentar declaraciones de intereses y de situación patrimonial los integrantes de los Poderes Legislativo, Ejecutivo y Judicial, los miembros de los Ayuntamientos y los integrantes y funcionarios de los organismos públicos autónomos creados por esta Constitución, así como del Tribunal Electoral del Estado de Morelos y del Tribunal de Justicia Administrativa, en los términos que disponga la ley de la materia.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
 
-Dichas declaraciones serán: de situación patrimonial al inicio de su gestión y se presentarán dentro de los primeros 30 días naturales de haber tomado posesión del cargo, empleo o puesto; de modificación patrimonial, dentro del mes de enero de cada año de su función; y la declaración patrimonial al término del cargo, empleo o puesto, dentro de los treinta días naturales siguientes, de conformidad con la ley reglamentaria.
+Dichas declaraciones serán: de intereses y situación patrimonial al inicio de su gestión y se presentarán dentro de los primeros 30 días naturales de haber tomado posesión del cargo, empleo o puesto; de modificación patrimonial y de intereses, dentro del mes de enero de cada año de su función; y la declaración patrimonial al término del cargo, empleo o puesto, dentro de los treinta días naturales siguientes, de conformidad con la ley reglamentaria.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
 
@@ -3290,21 +3260,45 @@ Ter.- La responsabilidad del Estado por los daños que, con motivo de su activid
 
 El pago de la indemnización se efectuará después de seguir los procedimientos que la ley establezca, el cual estará sujeto a la disponibilidad presupuestaria del ejercicio fiscal correspondiente.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE JULIO DE 1983)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE AGOSTO DE 2015)</small>
 
-## TITULO SEPTIMO.
+## TÍTULO SÉPTIMO.
 
-DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO.
+DEL SISTEMA ESTATAL ANTICORRUPCIÓN.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 134.
 
-Para los efectos de las responsabilidades a que se refiere este título se reputan como servidores públicos a los integrantes de los Poderes Legislativo, Ejecutivo y Judicial, así como de los Ayuntamientos, el Consejero Presidente y los consejeros electorales del Organismo Público Electoral de Morelos, el Consejero Presidente y los consejeros del Instituto Morelense de Información Pública y Estadística, los Magistrados del Tribunal Electoral del Estado de Morelos, los Magistrados del Tribunal de lo Contencioso Administrativo, el Magistrado del Tribunal Unitario de Justicia para Adolescentes y en general todo aquel que desempeñe un cargo, comisión empleo de cualquier naturaleza en la Administración Pública Estatal o Paraestatal o en las Entidades mencionadas con anterioridad.
+Se establece el Sistema Estatal Anticorrupción, como instancia coordinadora entre las autoridades competentes en la prevención, detección, investigación y sanción de responsabilidades administrativas y hechos de corrupción, el cual se conformará y ajustará a lo dispuesto en la propia Constitución y la normativa aplicable.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2003)</small>
+Para los efectos de las responsabilidades a que se refiere este Título, se reputan como servidores públicos a los integrantes de los Poderes Legislativo, Ejecutivo y Judicial, así como de los Ayuntamientos, el Consejero Presidente y los consejeros electorales del Organismo Público Electoral de Morelos, el Comisionado Presidente y los comisionados del Instituto Morelense de Información Pública y Estadística, los Magistrados del Tribunal Electoral del Estado de Morelos, los Magistrados del Tribunal de Justicia Administrativa del Estado de Morelos, el Magistrado del Tribunal Unitario de Justicia para Adolescentes y en general todo aquel que desempeñe un cargo, comisión empleo de cualquier naturaleza en la Administración Pública Estatal o Paraestatal o en las Entidades, organismos públicos autónomos e instituciones mencionadas en esta Constitución. El Sistema Estatal contará con un Comité de Participación Ciudadana, integrado por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley.
 
-Al Gobernador solo se le podrá exigir responsabilidad durante su cargo, mediante Juicio Político, por violación expresa y calificada como grave a esta Constitución, ataques a la libertad electoral y al derecho de participación ciudadana y por delitos graves del orden común.
+Al Gobernador sólo se le podrá exigir responsabilidad durante su cargo, mediante Juicio Político, por violación expresa y calificada como grave a esta Constitución, ataques a la libertad electoral y al derecho de participación ciudadana y por delitos graves del orden común.
+
+El Sistema contará con un Comité Coordinador que estará integrado por los Titulares de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, Fiscalía Especializada en Investigación de Hechos de Corrupción, Secretaría de la Contraloría, el Magistrado Presidente del Tribunal de Justicia Administrativa, el Comisionado Presidente del Instituto Morelense de Información Pública y Estadística, así como por un representante del Consejo de la Judicatura del Poder Judicial y otro del Comité de Participación Ciudadana.
+
+Sin detrimento de las funciones que la normativa aplicable le confiera, corresponderá al Comité Coordinador del Sistema Estatal Anticorrupción, en los términos que determine la Ley:
+
+a) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan;
+
+b) La determinación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes de los órdenes de gobierno;
+
+c) El establecimiento de bases y principios para la efectiva coordinación de las autoridades de los órdenes de gobierno en materia de fiscalización y control de los recursos públicos, y
+
+d) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
+
+Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)</small>
+
+###### Artículo 134 Bis.
+
+El Comité de Participación Ciudadana del Sistema Estatal Anticorrupción es el órgano ciudadano encargado de la vigilancia de las actuaciones de los servidores públicos de las instancias que integran el Sistema Estatal de Anticorrupción, el cual se conformará por cinco miembros que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y propiciará la participación activa de la sociedad, con la finalidad de fortalecer las acciones encaminadas a la prevención, detección y sanción de actos de corrupción. Asimismo contará con las facultades y atribuciones que se establezcan en la normativa aplicable.
+
+Los integrantes del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción serán designados por el Congreso del Estado, mediante el voto aprobatorio de cuando menos las dos terceras partes de sus integrantes; durarán seis años en su cargo, sin que puedan ser designados por un periodo más.
+
+El proceso para la selección de los integrantes del Comité, se establecerá en los términos y condiciones contenidos en la convocatoria pública que expida el Órgano Político del Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
@@ -3330,17 +3324,15 @@ La Comisión correspondiente del Congreso del Estado, instruirá el expediente s
 
 En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá de declaración de procedencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO ARTÍCULO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2015)</small>
+Para proceder penalmente en contra de los Secretarios de Despacho, el Auditor General de la Entidad Superior de Auditoría y Fiscalización, el Fiscal General del Estado, los Magistrados del Tribunal de Justicia Administrativa del Estado de Morelos, los Magistrados del Tribunal Electoral del Estado de Morelos, el Magistrado del Tribunal Unitario de Justicia para Adolescentes, así como el Consejero Presidente y los Consejeros Electorales del Organismo Público Electoral de Morelos, el Comisionado Presidente y los Comisionados del Instituto Morelense de Información Pública y Estadística, los Presidentes Municipales, Síndicos y Regidores, por la comisión de delitos durante el tiempo de su cargo, no se requerirá la Declaratoria del Congreso del Estado en la que señale si ha lugar o no a la formación de causa.
 
-Para proceder penalmente en contra de los Secretarios de Despacho, el Auditor General de la Entidad Superior de Auditoría y Fiscalización, el Fiscal General del Estado, los Magistrados del Tribunal de lo Contencioso Administrativo, los Magistrados del Tribunal Electoral del Estado de Morelos, el Magistrado del Tribunal Unitario de Justicia para Adolescentes, así como el Consejero Presidente y los Consejeros Electorales del Organismo Público Electoral de Morelos, el Consejero Presidente y los Consejeros del Instituto Morelense de Información Pública y Estadística, los Presidentes Municipales, Síndicos y Regidores, por la comisión de delitos durante el tiempo de su cargo, no se requerirá la Declaratoria del Congreso del Estado en la que señale si ha lugar o no a la formación de causa.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 137.
 
-Son responsables y serán sometidos a juicio político por actos y omisiones en perjuicio de los intereses públicos fundamentales o de su buen despacho, los Diputados al Congreso del Estado, el Gobernador del Estado, los Secretarios de Despacho, el Fiscal General del Estado, los Magistrados del Tribunal Superior de Justicia, los representantes del Poder Legislativo y Poder Ejecutivo al Consejo de la Judicatura Estatal, los Magistrados del Tribunal de lo Contencioso Administrativo, el Magistrado del Tribunal Unitario de Justicia para Adolescentes, los Jueces de Primera Instancia del Poder Judicial, el Consejero Presidente y los Consejeros del Instituto Morelense de Información Pública y Estadística, los miembros de los Ayuntamientos y el Presidente de la Comisión de Derechos Humanos del Estado de Morelos.
+Son responsables y serán sometidos a juicio político por actos y omisiones en perjuicio de los intereses públicos fundamentales o de su buen despacho, los Diputados al Congreso del Estado, el Gobernador del Estado, los Secretarios de Despacho, el Fiscal General del Estado, los Magistrados del Tribunal Superior de Justicia, los representantes del Poder Legislativo y Poder Ejecutivo al Consejo de la Judicatura Estatal, los Magistrados del Tribunal de Justicia Administrativa del Estado de Morelos, el Magistrado del Tribunal Unitario de Justicia para Adolescentes, los Jueces de Primera Instancia del Poder Judicial, el Presidente y los Comisionados del Instituto Morelense de Información Pública y Estadística, los miembros de los Ayuntamientos y el Presidente de la Comisión de Derechos Humanos del Estado de Morelos.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
@@ -3368,11 +3360,11 @@ Tanto la declaración del Congreso como la resolución del Tribunal Superior de 
 
 Si un Servidor Público de los señalados en el Artículo 136 son sentenciados (sic) encontrándolos penalmente responsables de un delito cometido en el ejercicio de su encargo, no se concederá al reo la gracia del indulto.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 141.
 
-La responsabilidad administrativa de los Servidores Públicos se fijará y sancionará de acuerdo a las Leyes correspondientes.
+La responsabilidad administrativa de los servidores públicos se fijará y sancionará de acuerdo a las Leyes correspondientes, sin que el plazo para la prescripción de dicha responsabilidad, en tratándose de casos graves, sea inferior a siete años.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
@@ -3392,11 +3384,11 @@ La responsabilidad que dé origen a Juicio Político sólo podrá exigirse contr
 
 La Responsabilidad Penal de los Servidores Públicos no comprendidos en el Artículo 136 y 145 se exigirá ante las Autoridades competentes mediante los procedimientos establecidos por la Ley sin que se requiera declaración o requisito previo alguno.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 145.
 
-La responsabilidad administrativa en que incurran los Secretarios de las Salas, de Acuerdos, de estudio y cuenta; los jueces de primera instancia o los que con cualquier otra denominación se designen, así como los demás funcionarios y empleados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral y del Tribunal de lo Contencioso Administrativo del Estado de Morelos, realicen funciones jurisdiccionales o auxilien en éstas, o desempeñen funciones administrativas, serán del conocimiento y resolución de cada órgano jurisdiccional en el ámbito de su competencia, en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos; si alguno de dichos funcionarios o empleados incurre en la comisión de delito, serán juzgados en la forma que establecen las leyes respectivas, pudiendo quedar suspendido el presunto responsable en el ejercicio de sus funciones, en los términos que señale dicha Ley Estatal de Responsabilidades de los Servidores Públicos. Las responsabilidades en que incurran los Magistrados Numerarios, supernumerarios o interinos de los citados órganos jurisdiccionales serán de la competencia del Congreso del Estado.
+La responsabilidad administrativa en que incurran los Secretarios de las Salas, de Acuerdos, de estudio y cuenta; los jueces de primera instancia o los que con cualquier otra denominación se designen, así como los demás funcionarios y empleados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral y del Tribunal de Justicia Administrativa del Estado de Morelos, realicen funciones jurisdiccionales o auxilien en éstas, o desempeñen funciones administrativas, serán del conocimiento y resolución de cada órgano jurisdiccional en el ámbito de su competencia, en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos; si alguno de dichos funcionarios o empleados incurre en la comisión de delito, serán juzgados en la forma que establecen las leyes respectivas, pudiendo quedar suspendido el presunto responsable en el ejercicio de sus funciones, en los términos que señale dicha Ley Estatal de Responsabilidades de los Servidores Públicos. Las responsabilidades en que incurran los Magistrados Numerarios, supernumerarios o interinos de los citados órganos jurisdiccionales serán de la competencia del Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
@@ -4951,3 +4943,63 @@ DECRETO NÚMERO 2429 POR EL QUE SE REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO 114-
 PRIMERA. Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente, se remitirá al titular del Poder Ejecutivo del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDA. Las reformas contenidas en el presente Decreto forman parte de esta Constitución desde el momento mismo en que se realizó la declaratoria a que se refiere el artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 11 DE AGOSTO DE 2015.
+
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador local y hecha la declaratoria correspondiente, remítase al titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano oficial de difusión del Gobierno del estado de Morelos, conforme lo dispuesto por los artículos 44 y 70, fracción XVII inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Las reformas, adiciones y derogaciones contenidas en el presente Decreto forman parte de esta Constitución desde el momento mismo en que se realizó la declaratoria a que se refiere el artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA. Los actuales Consejeros que conforman el Pleno del Instituto Morelense de Información Pública y Estadística permanecerán en su encargo, denominándose Comisionados a partir del inicio de la vigencia de la presente reforma. Con el propósito de dar cumplimiento a lo establecido en la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Transparencia y Acceso a la Información Pública, deberán continuar en el encargo por un periodo de siete años, contados a partir del inicio de su designación.
+
+El Pleno del Instituto, expedirá los nombramientos conforme a las nuevas denominaciones y permanencia en los respectivos cargos, en los términos del presente Decreto, publicándolos en el Periódico Oficial “Tierra y Libertad”, órgano de Difusión del Gobierno del Estado de Morelos y remitiéndolos al Congreso del Estado para los efectos conducentes.
+
+CUARTA. Se derogan todas las disposiciones de menor rango jerárquico normativo que contravengan lo dispuesto por la presente reforma Constitucional, sin perjuicio de lo previsto en este régimen transitorio.
+
+QUINTA. El Congreso del Estado deberá adecuar la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos y armonizar las leyes relativas, en los términos previstos en la presente reforma y de conformidad con el plazo establecido en el Artículo Transitorio Quinto de la Ley General de Transparencia y Acceso a la Información Pública.
+
+SEXTA. El Congreso del Estado, a más tardar el treinta de octubre del año en curso, deberá adecuar (sic) Ley Orgánica para el Congreso del Estado de Morelos y su Reglamento, ajustándolos en lo que corresponda a lo dispuesto en el artículo Décimo Tercero Transitorio de la Ley General de Transparencia y Acceso a la Información Pública.
+
+SÉPTIMA. A partir de la entrada en vigor del presente Decreto, el Congreso del Estado nombrará, por la aprobación de las dos terceras partes de sus integrantes, a los Titulares de los Órganos Internos de Control del Instituto Morelense de Información Pública y Estadística, del Instituto Morelense de Procesos Electorales y Participación Ciudadana y de la Comisión de Derechos Humanos del Estado de Morelos, de la propuesta que efectué la Junta Política y de Gobierno del Congreso del Estado.
+
+OCTAVA. El Congreso del Estado deberá armonizar conforme a lo establecido en el presente decreto, durante el primer periodo de sesiones ordinarias del primer año de ejercicio de la LIII Legislatura del Estado, el Código de Instituciones y Procedimientos Electorales para el Estado de Morelos y la Ley de la Comisión de Derechos Humanos del Estado de Morelos.
+
+NOVENA. El Congreso del Estado tendrá un plazo hasta el mes de diciembre de dos mil quince, para armonizar de acuerdo a lo dispuesto en este Decreto, la Ley Orgánica Municipal del Estado de Morelos, la Ley de Presupuesto, Contabilidad y Gasto Publico del Estado de Morelos y la Ley de Auditoría y Fiscalización del Estado de Morelos.
+
+DÉCIMA. A la entrada en vigor del presente Decreto, el Congreso nombrará, por el voto aprobatorio de las dos terceras partes de sus miembros, a la persona titular de la Fiscalía Especializada para la Investigación de Hechos de Corrupción, de la terna que remita el Gobernador Constitucional del Estado.
+
+DÉCIMA PRIMERA. En el plazo de treinta días hábiles, contados a partir de la entrada en vigor de este Decreto, el Titular del Poder Ejecutivo presentará la iniciativa de reforma de la Ley Orgánica de la Fiscalía General del Estado de Morelos, para la armonización, respecto de la Fiscalía Especializada para la Investigación de Hechos de Corrupción.
+
+El Congreso del Estado de Morelos, contará con un plazo de sesenta días hábiles contados a partir de la presentación de dicha iniciativa para su aprobación.
+
+DÉCIMA SEGUNDA. El Tribunal de Justicia Administrativa continuará funcionando con su organización y facultades actuales, substanciando los asuntos que actualmente se encuentren en trámite, hasta la entrada en vigor de la Ley a que se refiere la fracción XXIV del artículo 40 de la Constitución Política del Estado Libre y Soberano de Morelos, que por virtud del presente Decreto se adiciona.
+
+DÉCIMA TERCERA. Una vez entrada en vigor la ley a que se hace referencia en el artículo anterior, el Magistrado Presidente del Tribunal de lo Contencioso Administrativo del Estado de Morelos que se encuentre en funciones al momento de expedirse la Declaratoria correspondiente, quedará designado por virtud de este Decreto, como Magistrado Presidente del Tribunal de Justicia Administrativa, por el tiempo que fue designado.
+
+Los Magistrados del Tribunal de lo Contencioso Administrativo que hayan sido nombrados a la fecha de entrada en vigor del presente Decreto, continuarán como Magistrados del Tribunal de Justicia Administrativa, exclusivamente por el tiempo para el cual fueron nombrados.
+
+DÉCIMA CUARTA. Dentro de un plazo de ciento veinte días hábiles, contados a partir del día siguiente al que entre en vigor el presente Decreto, el Congreso del Estado de Morelos, deberá realizar las adecuaciones necesarias al marco normativo vigente, a efecto de realizar su homologación con los términos establecidos en el presente Decreto y los artículos Transitorios Segundo y Cuarto de la Reforma Constitucional por la que se Reforman, Adicionan y Derogan Diversas Disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en Materia de Combate a la Corrupción, publicada en el Diario Oficial de la Federación con fecha veintisiete de mayo del año en curso.
+
+DÉCIMA QUINTA. Los recursos humanos, presupuestales, financieros y materiales del Tribunal de lo Contencioso Administrativo del Poder Judicial del Estado de Morelos, pasarán a formar parte del Tribunal de Justicia Administrativa del Estado de Morelos; los trabajadores que se encuentren prestando sus servicios en el Tribunal de lo Contencioso Administrativo del Poder Judicial del Estado de Morelos, a la entrada en vigor de este Decreto, seguirán conservando su misma calidad y derechos laborales que les corresponden ante el Tribunal de Justicia Administrativa del Estado de Morelos. Se instruye a los Magistrados integrantes del Tribunal de Justicia Administrativa a realizar las adecuaciones necesarias a su presupuesto de egresos, en que se incluya la homologación de todas las prestaciones salariales de los Magistrados y servidores públicos del Tribunal de Justicia Administrativa a los de los Magistrados del Tribunal Superior de Justicia del Estado y sus servidores públicos.
+
+DÉCIMA SEXTA. A partir de la entrada en vigor del presente Decreto, el Pleno del Congreso del Estado designará a los dos magistrados para la integración del Tribunal de Justicia Administrativa del Estado de Morelos, en términos del artículo 109 bis de esta Constitución, los cuales, independientemente de sus funciones jurisdiccionales, se abocarán a efectuar los análisis correspondientes respecto de los artículos transitorios Quinto y Séptimo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción y la implementación del expediente electrónico, requiriendo el auxilio y asistencia necesarios de la (sic) Universidades Públicas de la Entidad, informando del resultado al Poder Legislativo en términos del artículo 46 de esta Constitución.
+
+DÉCIMA SÉPTIMA. La Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos y la Secretaría de la Contraloría del Poder Ejecutivo Estatal en un término de treinta días naturales, contados a partir de la entrada en vigor del presente Decreto, emitirán el acuerdo administrativo respectivo donde se expidan los formatos y la información que deben contener los mismos, sobre la Declaración de Interés y de Situación Patrimonial de los Servidores Públicos, el cual deberá ser publicado en el Periódico Oficial “Tierra y Libertad”.
+
+Los Comisionados del Instituto Morelense de Información Pública y Estadística, en conjunto con los Titulares de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos y de la Secretaría de la Contraloría del Poder Ejecutivo Estatal, expedirán el formato de versión pública de dichas Declaraciones en un plazo no mayor a sesenta días naturales, contados a partir de que se publique el Acuerdo citado en la disposición transitoria que antecede.
+
+Tanto la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos como la Secretaría de la Contraloría del Poder Ejecutivo Estatal, de manera conjunta, en un plazo de seis meses, deberán poner en funcionamiento el sistema en línea para la Declaración de Interés y de Situación Patrimonial de los Servidores Públicos, auxiliándose de la (sic) Universidades Públicas de la Entidad para el desarrollo de los Sistemas informáticos para dicho fin.
+
+Los servidores públicos que presenten su declaración de modificación patrimonial en el mes de enero de dos mil dieciséis, deberán presentar además su declaración de intereses; en caso de no hacerlo se harán acreedores a las sanciones señaladas en la ley reglamentaria.
+
+DÉCIMA OCTAVA. La Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, la Secretaría de la Contraloría del Poder Ejecutivo Estatal, las Secretarías de Servicios Legislativos y Parlamentarios y de Administración y Finanzas del Congreso del Estado y el Órgano de control o su equivalente en el Poder Judicial, dentro del ámbito de sus respectivas competencias, a más tardar el treinta de noviembre del dos mil quince, emitirán el acuerdo administrativo correspondiente, donde se expidan los formatos y la información que deben contener los mismos, respecto del Acta Entrega Recepción, los cuales deberán ser publicados en el Periódico Oficial “Tierra y Libertad”.
+
+DÉCIMA NOVENA. El Congreso del Estado deberá armonizar conforme a lo establecido en el presente Decreto, durante el primer periodo de sesiones ordinarias del primer año de ejercicio de la LIII Legislatura del Estado de Morelos, la Ley Estatal de Responsabilidades de los Servidores Públicos, la Ley de Auditoría y Fiscalización del Estado de Morelos, la Ley Orgánica de la Administración Pública del Estado de Morelos, la Ley Orgánica de la Fiscalía General del Estado de Morelos y el Código Penal del Estado de Morelos.
+
+VIGÉSIMA. A la entrada en vigor del presente Decreto, por única ocasión, a propuesta que efectué la Junta Política y de Gobierno del Congreso del Estado, el Congreso nombrará por el voto aprobatorio de las dos terceras partes de sus miembros, a los cinco ciudadanos que integrarán el Comité de Participación Ciudadana del Sistema Estatal Anticorrupción, lo (sic) cuales durarán en su encargo seis años.
+
+Una vez instalado el Comité de Participación Ciudadana, presentará su propuesta de asignación de recursos presupuestales al Gobernador Constitucional del Estado, para que éste, con toda oportunidad, presente la iniciativa de modificación del Decreto por el que se aprueba el Presupuesto de Egresos del Gobierno del Estado de Morelos, para el Ejercicio Fiscal correspondiente al año dos mil quince.
+
+VIGÉSIMA PRIMERA. Por única ocasión, los Ayuntamientos que inicien funciones el primero de enero de dos mil dieciséis, a más tardar el quince de febrero de ese mismo año, podrán presentar al Congreso del Estado una Iniciativa de Ley de Ingresos o en su caso una propuesta de modificación de la ya aprobada.
+
+VIGÉSIMA SEGUNDA. El Gobernador Constitucional del Estado, instruirá a la Secretaría de Hacienda del Poder Ejecutivo Estatal para que efectúe las transferencias y adecuaciones presupuestales necesarias para el cumplimiento del presente Decreto.
