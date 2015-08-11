@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2015-07-21"
+last_updated: "2015-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -57,9 +57,9 @@ Tiene el Estado de Tlaxcala una composición pluricultural sustentada originalme
 
 Sólo se reconocerá como limitante a lo anteriormente establecido, el menoscabo a los derechos humanos contenidos en la Constitución Política de los Estados Unidos Mexicanos y los reconocidos en la presente Constitución.
 
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
 
-Los Tribunales y Jueces velarán por el respeto de los derechos fundamentales de los indígenas y la dignidad e igualdad de la mujer.
+Los Tribunales y Jueces velarán por el respeto de los derechos fundamentales de los indígenas y la dignidad e igualdad entre el varón y la mujer.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1982)</small>
 
@@ -319,15 +319,21 @@ III. Por la realización de estudios o comisiones científicas, culturales o dep
 
 ### CAPITULO I. PRINCIPIOS GENERALES
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 14.
 
-En el Estado de Tlaxcala toda persona gozará de los derechos humanos que se garantizan en la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, instrumentos internacionales incorporados al orden jurídico mexicano y leyes secundarias. Su ejercicio implica deberes correlativos de respeto a los derechos de los demás y de solidaridad a la familia, a los más desfavorecidos, a la sociedad y al Estado.
+En el Estado de Tlaxcala todas las personas gozarán de los derechos humanos que se garantizan en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, instrumentos internacionales incorporados al orden jurídico mexicano y leyes secundarias. Su ejercicio implica deberes correlativos de respeto a los derechos de los demás y de solidaridad a la familia, a los sectores vulnerables, a la sociedad y al Estado.
 
-Las normas relativas a los derechos humanos se interpretarán de conformidad, en primer lugar, con la Constitución Política de los Estados Unidos Mexicanos y con los Tratados Internacionales de la materia, favoreciendo en todo tiempo a las personas en la protección más amplia.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
 
-Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos, de conformidad con los principios de universalidad, independencia, indivisibilidad y progresividad, en consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la Ley.
+Las normas relativas a los derechos humanos se interpretarán de conformidad, con la Constitución Política de los Estados Unidos Mexicanos y con los Tratados Internacionales de la materia, favoreciendo en todo tiempo a las personas en la protección más amplia.
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
+
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad, en consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la Ley.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
 
 Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
@@ -393,9 +399,13 @@ IV. Ejercer ante las autoridades estatales y municipales, el derecho de petició
 
 Las leyes respectivas determinarán las salvedades o excepciones especiales;
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2015)</small>
+
 V. El Estado garantiza el derecho a la información.
 
-El ciudadano ejercerá su derecho de acceso a la información que se encuentre en poder de los órganos del Estado y municipios, mediante los principios y bases siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2015)</small>
+
+Toda persona ejercerá su derecho de acceso a la información que se encuentre en poder de los órganos del Estado y municipios, mediante los principios y bases siguientes:
 
 a) Toda la información en posesión de cualquier autoridad, entidad paraestatal y de interés público y paramunicipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público en los términos que fije la ley de la materia. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad;
 
@@ -413,7 +423,9 @@ VII. El varón y la mujer son iguales ante la ley, a la igualdad de oportunidade
 
 VIII. Al ejercicio pleno de las libertades y derechos humanos aun aquellos de carácter difuso;
 
-IX. Todo individuo tiene la libertad de investigación científica y de creación, interpretación y difusión cultural, así como derecho a obtener los beneficios que le correspondan por razón de las producciones científicas, literarias o artísticas de que sea autor.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2015)</small>
+
+IX. Toda persona tiene la libertad de investigación científica y de creación, interpretación y difusión cultural, así como derecho a obtener los beneficios que le correspondan por razón de las producciones científicas, literarias o artísticas de que sea autor.
 
 El Estado conservará el patrimonio cultural y apoyará las iniciativas individuales y colectivas que contribuyan al desarrollo de la cultura, especialmente la práctica y expresiones artísticas que arraiguen valores nacionales y locales;
 
@@ -441,7 +453,9 @@ En el Estado todo proceso penal será acusatorio y oral. Se regirá por los prin
 
 Se establecerá un sistema integral de justicia para los adolescentes que tengan entre doce años cumplidos y menos de dieciocho, a quienes se les atribuya la realización de una conducta tipificada como delito por las leyes penales del Estado; que garanticen los derechos fundamentales previstos por la Constitución Política de los Estados Unidos Mexicanos y la presente Constitución para todo individuo, así como aquellos derechos específicos que por su condición de persona en desarrollo le han sido reconocidos.
 
-La operación del sistema integral de justicia, estará a cargo de mesas investigadoras del ministerio público, juzgados penales y defensores de oficio especializados en la procuración e impartición de justicia para menores infractores.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
+
+La operación del sistema integral de justicia, estará a cargo de mesas investigadoras del ministerio público, juzgados penales, sala especializada y defensores de oficio especializados en la procuración e impartición de justicia para adolescentes.
 
 El internamiento se utilizará solo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves.
 
@@ -525,7 +539,9 @@ La educación que imparta el Estado tenderá a desarrollar armónicamente, todas
 
 III. Las personas de sesenta y cinco años en adelante gozarán de los programas que se establezcan por ley y de acuerdo con ésta;
 
-IV. Las personas con capacidades diferentes con el objeto de facilitar su desarrollo tendrán derecho:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE AGOSTO DE 2015)</small>
+
+IV. Con el objeto de facilitar su desarrollo, las personas con discapacidad tendrán derecho:
 
 a) A su rehabilitación;
 
@@ -2363,7 +2379,9 @@ El órgano jurisdiccional local en materia electoral se compondrá de tres magis
 
 La Comisión Estatal de Derechos Humanos, es un organismos (sic) autónomo, con personalidad jurídica y patrimonio propios; su finalidad es la protección, observancia, promoción, estudio y divulgación de los derechos humanos que ampara el orden jurídico mexicano.
 
-Conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier servidor público que violen estos derechos; formulará recomendaciones públicas no vinculatorias, así como denuncias y quejas ante las autoridades respectivas. Este organismo no tendrá competencia en asuntos electorales, laborables, de fiscalización, agrarios y jurisdiccionales de fondo.
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
+
+Conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier servidor público que violen estos derechos; formulará recomendaciones públicas no vinculatorias, así como denuncias y quejas ante las autoridades respectivas. Este organismo no tendrá competencia en asuntos electorales y jurisdiccionales.
 
 Todo servidor público está obligado a responder las recomendaciones que le presente la Comisión Estatal de Derechos Humanos. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa. El Congreso del Estado podrá llamar, a solicitud de este Organismo, a las autoridades o servidores públicos responsables, para que comparezcan ante dicho Órgano Legislativo, a efecto de que expliquen el motivo de su negativa.
 
@@ -2375,7 +2393,11 @@ La elección del titular de la Comisión Estatal de Derechos Humanos, así como 
 
 Para ser titular de la Comisión se requiere ser preferentemente Licenciado en Derecho y cumplir con los demás requisitos que determine la ley de la materia.
 
-El titular de la Comisión y los consejeros durarán en su encargo cuatro años y no podrán ser reelectos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
+
+El titular de la Comisión y los integrantes del Consejo Consultivo durarán en su encargo cuatro años. Solamente el titular podrá ser reelecto una sola vez por otro período igual, para lo cual se seguirá el procedimiento que para tal efecto establezca la Ley de la materia.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -3432,3 +3454,17 @@ La reelección prevista en el artículo 90 de esta Constitución no será aplica
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE AGOSTO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+En términos de lo previsto por el artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos del Estado, para el debido cumplimiento al citado precepto.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación, en el Periódico Oficial del Gobierno del Estado, a excepción del último párrafo del artículo 96, relativo a la reelección del titular de la Comisión Estatal de Derechos Humanos, que entrará en vigor el día cuatro de agosto del año dos mil quince, y será aplicable para el proceso de designación del titular de la citada Comisión Estatal para el periodo comprendido del día cuatro de agosto del año dos mil diecinueve al tres de agosto del año dos mil veintitrés y subsecuentes.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
