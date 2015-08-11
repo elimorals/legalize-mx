@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-fiscalizador-de-carrera-de-la-72458"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-02-03"
-last_updated: "2010-02-03"
+last_updated: "2015-08-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72458&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2010-01-27"
 ---
 # ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DE LA AUDITORIA SUPERIOR DE LA FEDERACION
 
-ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DE LA AUDITORIA SUPERIOR DE LA FEDERACION
+ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO DEL SERVICIO FISCALIZADOR DE CARRERA DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN, PUBLICADO EN EL D.O.F. DE 11 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2015 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 3 de febrero de 2010.
 
@@ -1278,3 +1280,23 @@ Artículo Cuarto.- El Comité Directivo del Servicio Fiscalizador de Carrera det
 Artículo Quinto.- En un plazo que no exceda de 180 días hábiles, a partir de que entre en vigor el presente Estatuto, el Comité deberá expedir los criterios y modalidades de los estímulos a que se refiere el Título Tercero, Capítulo Tercero, de este Estatuto.
 
 México, D.F., a 27 de enero de 2010.- El Auditor Superior de la Federación, Juan Manuel Portal Martínez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 11 DE AGOSTO DE 2015.
+
+Artículo Primero.- El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- A partir de la entrada en vigor de este Estatuto, se abroga el Estatuto del Servicio Fiscalizador de Carrera de la Auditoría Superior de la Federación, publicado en el Diario Oficial de la Federación, el tres de febrero de dos mil diez.
+
+Artículo Tercero.- Los miembros del SFC conforme al Estatuto que se abroga, que cumplan con los requisitos del presente Estatuto, contarán con un plazo de 30 días hábiles contados a partir de su entrada en vigor, para solicitar por escrito su continuidad en el SFC y, en su caso, la Dirección General de Recursos Humanos expida, en un plazo de 20 días, la constancia que lo acredite como tal.
+
+Los miembros del SFC conforme al Estatuto que se abroga, adscritos a áreas auditoras que no cumplan con los requisitos del presente Estatuto, contarán con un plazo de 12 meses contados a partir de la entrada en vigor del presente Estatuto, para cumplir con los mismos y solicitar por escrito su continuidad en el SFC.
+
+Los miembros del SFC conforme al Estatuto que se abroga, adscritos a áreas no auditoras, tendrán el derecho para participar en concurso público para la ocupación de un puesto vacante en áreas auditoras, para lo cual, contarán con un plazo de 30 días hábiles contados a partir de la entrada en vigor del presente Estatuto, para solicitar por escrito a la Dirección General de Recursos Humanos el reconocimiento de dicho derecho.
+
+Artículo Cuarto.- Las reglas de operación a las que se refiere el artículo 14 del presente Estatuto y el programa de capacitación para el SFC se emitirán, a más tardar el tres de noviembre de dos mil quince.
+
+Artículo Quinto.- La operación del SFC, conforme a lo establecido en el presente Estatuto, iniciará a los 12 meses contados a partir de la entrada en vigor del presente Estatuto.
+
+Artículo Sexto.- Todas las disposiciones que contravengan lo establecido en el presente Estatuto, quedan abrogadas a partir de su entrada en vigor.
