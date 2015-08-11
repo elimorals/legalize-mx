@@ -4,7 +4,7 @@ identifier: "GUA-codigo-reglamentario-de-desarrollo-urbano-para-el-municipio-758
 country: "mx"
 rank: "codigo"
 publication_date: "2010-08-06"
-last_updated: "2015-01-16"
+last_updated: "2015-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2015.
 
 Código publicado en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el viernes 6 de agosto de 2010.
 
@@ -7947,7 +7947,7 @@ En contra de los actos y resoluciones de las autoridades competentes en la aplic
 
 ANEXOS
 
-> <small>N. DE E. VÉASE ANEXO 1: MANUAL TÉCNICO DE USOS DEL SUELO, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 163 A LA 194. REFORMAS EN EL P.O. 3 DE DICIEMBRE DE 2010, PÁGINAS 53 A LA 54; P.O. 24 DE DICIEMBRE DE 2010, PÁGINAS 21 A LA 22; P.O. 2 DE AGOSTO DE 2011, PÁGINAS 66 A LA 67; P.O. 16 DE SEPTIEMBRE DE 2011, PÁGINAS 26 A LA 27; P.O. 31 DE ENERO DE 2012, PÁGINAS 65 A LA 69; P.O. 13 DE JULIO DE 2012, PÁGINAS 52 A LA 54; P.O. 23 DE OCTUBRE DE 2012, PÁGINA 62; P.O. 25 DE ENERO DE 2013, PÁGINAS 71 A LA 73; P.O. 6 DE MAYO DE 2014, PÁGINAS 130 A LA 146; P.O. 16 DE ENERO DE 2015, PÁGINA 94.</small>
+> <small>N. DE E. VÉASE ANEXO 1: MANUAL TÉCNICO DE USOS DEL SUELO, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 163 A LA 194. REFORMAS EN EL P.O. 3 DE DICIEMBRE DE 2010, PÁGINAS 53 A LA 54; P.O. 24 DE DICIEMBRE DE 2010, PÁGINAS 21 A LA 22; P.O. 2 DE AGOSTO DE 2011, PÁGINAS 66 A LA 67; P.O. 16 DE SEPTIEMBRE DE 2011, PÁGINAS 26 A LA 27; P.O. 31 DE ENERO DE 2012, PÁGINAS 65 A LA 69; P.O. 13 DE JULIO DE 2012, PÁGINAS 52 A LA 54; P.O. 23 DE OCTUBRE DE 2012, PÁGINA 62; P.O. 25 DE ENERO DE 2013, PÁGINAS 71 A LA 73; P.O. 6 DE MAYO DE 2014, PÁGINAS 130 A LA 146; P.O. 16 DE ENERO DE 2015, PÁGINA 94; P.O. 11 DE AGOSTO DE 2015, PÁGINAS DE LA 101 A LA 102.</small>
 
 > <small>N. DE E. VÉASE ANEXO 2: TABLA DE GIROS DEL SISTEMA DE APERTURA RÁPIDA DE EMPRESAS CON ACTIVIDADES DE INTENSIDAD MÍNIMA, BAJA Y MEDIA, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 194 A LA 201; P.O. 6 DE MAYO DE 2014, PÁGINAS 146 A LA 147.</small>
 
@@ -8196,6 +8196,10 @@ Primero. Las presentes reformas y adiciones entrarán en vigor al día siguiente
 Segundo. Todos aquellos comercios que se encuentren instalados en el corredor turístico previo a la entrada en vigor de las presentes modificaciones y cuyo uso de suelo se encuentre dentro de los usos prohibidos establecidos en el artículo 22 del Anexo 7 del Código Reglamentario de Desarrollo Urbano para el Municipio de León, Guanajuato "Manual Técnico de Anuncios, Terrazas, Fachadas y Usos de Suelo en Zona de Patrimonio Histórico y Corredor Turístico quedan exceptuados de dicha restricción siempre que puedan comprobar dicha situación con Constancia de registro e inscripción ante la Secretaría de Hacienda y Crédito Público.
 
 Tercero. Se deroga el acuerdo del H. Ayuntamiento de fecha 10 de junio de 2014 mediante el cual se aprueba la restricción de usos de suelo en la zona centro de este Municipio.
+
+P.O. 11 DE AGOSTO DE 2015.
+
+Artículo único. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUMERO 360.- SE REFORMAN LOS ARTÍCULOS 55, 140, 146, 147, 150, 151 Y 190, DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
 
