@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2015-08-07"
+last_updated: "2015-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 7 DE AGOSTO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE AGOSTO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -2565,7 +2563,7 @@ VI. Procurar el fomento de una cultura sustentada en valores y principios en tor
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE JULIO DE 2015)</small>
+(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE JULIO DE 2015) (F. DE E., G.G. 12 DE AGOSTO DE 2015)
 
 #### SECCION PRIMERA. De la recolección de muestras
 
@@ -3207,7 +3205,7 @@ Una vez aplicada esta medida de seguridad se podrá iniciar con el procedimiento
 
 74.- En caso de reincidencia se duplicará el monto de la multa que corresponda. Se entiende por reincidencia que el infractor cometa la misma violación a las disposiciones de este Título dos o más veces dentro del periodo de un año, contado a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior.
 
-(REUBICADO [N. DE E. Y REFORMADO ANTES ARTÍCULO 2.56], G.G. 30 DE SEPTIEMBRE DE 2010)
+(REUBICADO [N. DE E. Y REFORAMDO ANTES ARTÍCULO 2.56], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 2.
 
@@ -3237,7 +3235,7 @@ VII. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
 76.- Se sancionará con arresto hasta por treinta y seis horas:
 
-I. A la persona que interfiera o se oponga al ejercicio de las funciones de la autoridad sanitaria;
+I. A la persona que interfiera o se oponga al ejercicio de las funciones de la autoridad sanitaria; y
 
 II. A la persona que en rebeldía se niegue a cumplir los requerimientos y disposiciones de la autoridad sanitaria, provocando con ello un peligro a la salud de las personas.
 
@@ -5997,9 +5995,9 @@ La organización, funcionamiento y consulta del Sistema Estatal se determinará 
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCION PRIMERA. De los equipos de salvamento y arrastre
+#### SECCIÓN CUARTA. De los prestadores de servicios electrónicos y proveedores privados de transporte
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 5.
 
@@ -6009,7 +6007,7 @@ Las medidas de seguridad tendrán por objeto evitar la consolidación de accione
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
-#### SECCION SEGUNDA. De la prestación del servicio
+#### SECCION PRIMERA. De los equipos de salvamento y arrastre
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -7215,6 +7213,10 @@ IV. Proporcionar en todo tiempo a las secretarías de Transporte o de Finanzas, 
 
 V. Proporcionar capacitación continua y permanente al personal a su cargo, conforme a los programas autorizados por la Secretaría de Transporte;
 
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2015)</small>
+
+V Bis. Someter a los conductores a controles y evaluaciones de pericia en el manejo de las unidades;
+
 VI. Resarcir a los usuarios y a los terceros, de los daños que se les causen con motivo de la concesión o permiso;
 
 VII. Constituir en tiempo y forma las garantías en los términos establecidos en las disposiciones reglamentarias de este Libro;
@@ -7359,7 +7361,13 @@ l. No cumplir, sin causa justificada, con el objeto, obligaciones o condiciones 
 
 II. Interrumpir el concesionario la operación de la vía o la prestación del servicio de transporte, parcial o totalmente, sin causa justificada;
 
-III. Reincidir en la aplicación de tarifas superiores a las autorizadas;
+> <small>(REFORMADA, G.G. 12 DE AGOSTO DE 2015)</small>
+
+III. Cuando por el deficiente mantenimiento de las unidades, la falta de pericia del conductor, el incumplimiento del reglamento de tránsito correspondiente o cuando se manejen las unidades bajo los efectos del alcohol o algún estupefaciente, se vean involucrados vehículos automotores con los que se presta el servicio público concesionado, en un periodo de seis meses continuos, en más de dos accidentes en los que alguna persona pierda la vida o sufra lesiones que la pongan en peligro;
+
+> <small>(ADICIONADA, G.G. 12 DE AGOSTO DE 2015)</small>
+
+III. Bis. Reincidir en la aplicación de tarifas superiores a las autorizadas;
 
 IV. Ejecutar actos que impidan o tiendan a impedir la actuación de otros prestadores de servicios o permisionarios que tengan derecho a ellos;
 
@@ -7539,7 +7547,7 @@ c) Contar como mínimo, con una grúa de alguno de los tipos descritos en el art
 
 > <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
-#### SECCION PRIMERA. Condiciones del servicio
+#### SECCION SEGUNDA. De la prestación del servicio
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -7711,7 +7719,7 @@ Asimismo, podrá permitirse a los particulares que acrediten interés jurídico 
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
-#### SECCION SEGUNDA. De los lugares de depósito
+#### SECCION PRIMERA. Condiciones del servicio
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -7769,11 +7777,57 @@ II. Proponer a la Secretaría de Transporte, la instrumentación de programas y 
 
 III. Los demás que le otorguen otras disposiciones jurídicas.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO] CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 12 DE AGOSTO DE 2015)</small>
+
+#### SECCION SEGUNDA. De los lugares de depósito
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+57 Bis.- Para obtener la licencia de operación estatal que emitirá la Secretaria de Finanzas, el prestador de servicios electrónicos deberá cumplir con los requisitos siguientes:
+
+I. Ser persona jurídica colectiva conforme a las leyes mexicanas.
+
+II. Tener domicilio legal en el Estado de México.
+
+III. Presentar solicitud de registro ante la Secretaria de Finanzas o por medio electrónico a través del portal de dicha dependencia.
+
+IV. Acompañar a la solicitud electrónica el padrón de unidades vehiculares y de proveedores privados de transporte que se vinculará a la aplicación tecnológica, el cual será actualizado mensualmente por el prestador de servicios electrónicos a través de la página oficial de la Secretaría de Finanzas.
+
+V. Acompañar informe técnico de la aplicación tecnológica que señale nombre, logotipo y características indispensables para su localización.
+
+Una vez que se cumpla con los requisitos anteriores y el pago de derechos correspondiente, se expedirá la licencia de operación estatal.
+
+El prestador de servicios tecnológicos tendrá la obligación del pago por concepto del número de viajes realizados, conforme a lo dispuesto por el Código Financiero del Estado de México.
+
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2015)</small>
+
+###### Artículo 7.
+
+57 Ter.- El registro de padrones de unidades vehiculares estará a cargo de la Secretaria de Finanzas.
+
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2015)</small>
 
 #### SECCION TERCERA. De la recepción de los vehículos
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 7.
+
+57 Quáter.- La calidad de proveedor privado de transporte no autoriza la prestación del servicio concesionado individual o colectivo, ni se asimila a un taxi, solamente podrán celebrar contratos de transporte privado en términos de la legislación civil, a través de aplicaciones tecnológicas.
+
+La prestación del servicio en sitios, bases, lanzaderas o en cualquier otro lugar incluyendo la vía pública, por parte de los proveedores privados de transporte, sin la vinculación directa a una aplicación tecnológica o sin la calidad de proveedor privado de transporte constituye la prestación ilegal del servicio público de transporte de conformidad con lo establecido en el Código Penal del Estado de México.
+
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2015)</small>
+
+###### Artículo 7.
+
+57 Quintus.- Para ser proveedor privado de transporte no se requiere autorizar o registrar vehículos para prestar el servicio, a menos que sea directamente el propietario de la aplicación tecnológica.
+
+No será limitado el número de unidades mínimo o máximo, ni se impondrán requisitos de matrículas especiales, cromáticas o elementos de identificación alguna.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 7.
 
@@ -7798,6 +7852,12 @@ La capacidad máxima de arrastre o traslado por tipo de grúa estará en funció
 Las unidades deben contar con una placa legible e indeleble de 0.15 m por 0.20 m en el exterior del vehículo en un lugar visible al usuario, en la que se indique su tipo, peso bruto vehicular máximo de carga de la grúa o plataforma.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+### CAPITULO PRIMERO. Del objeto y finalidad
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 #### SECCION CUARTA. De la custodia, conservación y devolución de los vehículos
 
@@ -7853,6 +7913,10 @@ La Secretaría de Transporte elaborará y comunicará a los permisionarios, los 
 
 > <small>(REFORMADO [N. DE E. ADICIONADO] CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
+#### SECCION PRIMERA. Consideraciones Generales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
 ###### Artículo 7.
 
 63.- Los vehículos recuperados por robo, deberán ser trasladados a los depósitos vehiculares estatales, cada Fiscalía Regional contará al menos con una unidad de arrastre con la finalidad de que el usuario recupere su vehículo sin tener que realizar erogaciones por concepto de arrastre, salvamento, guarda, custodia y depósito de vehículos.
@@ -7861,16 +7925,6 @@ La Secretaría de Transporte elaborará y comunicará a los permisionarios, los 
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
-### CAPITULO PRIMERO. Del objeto y finalidad
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-#### SECCION PRIMERA. Consideraciones Generales
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
 ###### Artículo 7.
 
 64.- En los lugares en que se encuentren dos o más concesionarios autorizados para prestar el servicio de depósito y guarda de vehículos, se dará prioridad al establecimiento que esté más cerca de la ubicación del vehículo a depositar.
@@ -7878,6 +7932,14 @@ La Secretaría de Transporte elaborará y comunicará a los permisionarios, los 
 En los lugares, en los que no se cuente con establecimientos autorizados para prestar el servicio de depósito y guarda de vehículos, el vehículo en cuestión, se depositará en el más próximo, donde haya un concesionario autorizado.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON EL ARTÍCULO QUE LA INTEGRA, G.G. 24 DE AGOSTO DE 2012)</small>
+
+### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
+
+> <small>(REFORMADO, G.G. 13 DE MAYO DE 2015)</small>
+
+#### SECCIÓN SEGUNDA. De la declaración de abandono y el procedimiento de enajenación
+
+> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 7.
 
@@ -7905,9 +7967,7 @@ VII. Las demás previstas en la Norma Técnica respectiva y demás disposiciones
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
-#### SECCIÓN SEGUNDA. De la declaración de abandono y el procedimiento de enajenación
-
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+#### SECCION PRIMERA. De las facultades de la Secretaría de Desarrollo Agropecuario
 
 ###### Articulo 7.
 
@@ -7924,6 +7984,8 @@ III. Vehículos detenidos por autoridades de un municipio, si se pretende ponerl
 IV. Vehículos que sean trasladados por personas físicas o jurídicas colectivas que no cuenten con el permiso para prestar el servicio público auxiliar de salvamento y arrastre, en los términos que establece este Libro.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+#### SECCION SEGUNDA. Del Instituto de Investigación y Capacitación Agropecuaria, Acuícola y Forestal del Estado de México
 
 ###### Artículo 7.
 
@@ -7963,12 +8025,6 @@ La Secretaría de Transporte elaborará y comunicará a los concesionarios, form
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
-### CAPITULO SEGUNDO. De las autoridades y sus atribuciones
-
-> <small>(REFORMADO, G.G. 13 DE MAYO DE 2015)</small>
-
-#### SECCION PRIMERA. De las facultades de la Secretaría de Desarrollo Agropecuario
-
 ###### Artículo 7.
 
 69.- Los concesionarios deberán devolver el vehículo que tengan bajo su guarda y custodia, en las condiciones que consten en el inventario del mismo, haciéndose responsables de cualquier parte o accesorio faltante, así como de los daños causados a los vehículos durante el tiempo que permanezcan bajo su custodia y, en cualquier caso, deberá restituirlos o repararlos a satisfacción del propietario del vehículo.
@@ -7985,7 +8041,7 @@ Una vez cubiertos los requisitos antes referidos el concesionario entregará el 
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
-#### SECCION SEGUNDA. Del Instituto de Investigación y Capacitación Agropecuaria, Acuícola y Forestal del Estado de México
+#### SECCION PRIMERA. Del Consejo Consultivo Económico Estatal
 
 ###### Artículo 7.
 
@@ -7996,8 +8052,6 @@ Recibida la queja, la Secretaría de Transporte citará al agraviado y al conces
 De no lograrse la conciliación, la Secretaría de Transporte emitirá la resolución correspondiente.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-#### SECCION PRIMERA. Del Consejo Consultivo Económico Estatal
 
 ###### Artículo 7.
 
@@ -8017,13 +8071,15 @@ Los vehículos, tráileres, autobuses y cualquier tipo de remolques a que se ref
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
 
+### CAPITULO PRIMERO. Disposiciones generales
+
+#### SECCION SEGUNDA. De los consejos consultivos económicos regionales y municipales
+
 ###### Artículo 7.
 
 74.- Los vehículos, tráileres, autobuses y cualquier tipo de remolques asegurados y que fueron remitidos a los depósitos vehiculares que causen abandono por seis meses, aplican a favor del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-#### SECCION SEGUNDA. De los consejos consultivos económicos regionales y municipales
 
 ###### Artículo 7.
 
@@ -8042,6 +8098,10 @@ II. Que la autoridad competente haya ordenado la liberación y entrega del vehí
 La Secretaría al expedir las tarifas para los servicios que presten los corralones, podrá establecer programas de condonación a quienes paguen dentro del plazo de quince días hábiles, una vez ordenada la liberación por la autoridad competente.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
+
+#### SECCION PRIMERA. Disposiciones generales
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 7.
 
@@ -8083,12 +8143,6 @@ Tratándose de tráileres, autobuses y cualquier tipo de remolques, el Estado a 
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
-### CAPITULO PRIMERO. Disposiciones generales
-
-#### SECCION PRIMERA. Disposiciones generales
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
-
 ###### Artículo 7.
 
 78.- Los vehículos no motorizados, como bicicletas y similares; y los aparatos, ornamentos que acompañaren al vehículo al momento de su depósito, podrán ser sujetos del procedimiento establecido por el presente Capítulo, o bien, donados a instituciones de asistencia privada o planteles educativos del Estado de México.
@@ -8103,15 +8157,17 @@ La retención del vehículo podrá determinarse hasta que las faltas que dieron 
 
 > <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
-#### SECCION SEGUNDA. De la licitación pública
-
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
-
 ###### Artículo 7.
 
 80.- La autoridad podrá ordenar la clausura de depósitos de vehículos, terminales de pasajeros o paradores o bien, el retiro de anuncios publicitarios, cuando se ponga en riesgo la seguridad de los usuarios o de terceros.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
+
+## TITULO SEXTO. De las medidas de seguridad, infracciones y sanciones
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
+
+### CAPITULO SEGUNDO. De los vehículos
 
 ###### Artículo 7.
 
@@ -8124,6 +8180,8 @@ La retención del vehículo podrá determinarse hasta que las faltas que dieron 
 82.- La aplicación de las sanciones por infracciones a las disposiciones de este Libro y su reglamentación, se hará independientemente de que se exija el pago de contribuciones y sus demás accesorios, así como las responsabilidades de orden administrativo, civil o penal previstas en los ordenamientos legales respectivos.
 
 > <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+### CAPITULO TERCERO. De los conductores
 
 ###### Artículo 7.
 
@@ -8215,12 +8273,6 @@ i) Realizar los servicios que regula este Libro, sin la concesión o permiso cor
 
 > <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
-## TITULO SEXTO. De las medidas de seguridad, infracciones y sanciones
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
-
-### CAPITULO SEGUNDO. De los vehículos
-
 ###### Artículo 7.
 
 85.- Procede la suspensión temporal de los derechos derivados de la concesión o permiso, a que hace referencia el Título Quinto, por un periodo de treinta hasta noventa días, cuando:
@@ -8244,8 +8296,6 @@ V. Omitir tener contratada y vigente la póliza de seguro de responsabilidad civ
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE LIBRO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-### CAPITULO TERCERO. De los conductores
 
 # LIBRO OCTAVO. Del Tránsito y Estacionamientos de Servicio al Público
 
@@ -8501,7 +8551,7 @@ III. Someterse a las pruebas para la detección del grado de intoxicación que d
 
 > <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
 
-### CAPITULO PRIMERO. De la producción y transformación
+### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
 
 ###### Artículo 8.
 
@@ -8513,7 +8563,7 @@ Para efectos del párrafo anterior, se consideran estacionamientos de servicio a
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-### CAPITULO SEGUNDO. De la comercialización
+### CAPITULO PRIMERO. De la producción y transformación
 
 ###### Artículo 8.
 
@@ -8833,7 +8883,7 @@ II. Multa de 50 a 100 días de salario mínimo vigente y el pago de los derechos
 
 ## TITULO PRIMERO. Disposiciones generales
 
-### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
+### CAPITULO SEGUNDO. De la comercialización
 
 ###### Artículo 9.
 
@@ -8931,7 +8981,7 @@ VII. La integración de cadenas productivas, y mecanismos que permitan la obtenc
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-#### SECCION TERCERA. De las excepciones a la licitación pública
+#### SECCION SEGUNDA. De la licitación pública
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -8953,7 +9003,7 @@ VI. La actualización y modernización de los programas educativos en la materia
 
 VII. La integración de un directorio de profesionistas individuales o asociados para facilitar a los productores la contratación de los servicios técnicos y de asesoría que requieran.
 
-#### SECCION CUARTA. De la invitación restringida
+#### SECCION TERCERA. De las excepciones a la licitación pública
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -9137,7 +9187,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-#### SECCION QUINTA. De la adjudicación directa
+#### SECCION CUARTA. De la invitación restringida
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -9155,9 +9205,9 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-#### SECCION PRIMERA. Disposiciones generales
+#### SECCION QUINTA. De la adjudicación directa
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 10.
 
@@ -9959,7 +10009,7 @@ IV. Las demás que establezca el Reglamento respectivo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-#### SECCION SEGUNDA. De la licitación pública
+#### SECCION PRIMERA. Disposiciones generales
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -9979,7 +10029,7 @@ II. Adjudicación directa.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-#### SECCION TERCERA. De las excepciones a la licitación pública
+#### SECCION SEGUNDA. De la licitación pública
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -10101,7 +10151,7 @@ El procedimiento de invitación restringida se desarrollará en los términos de
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-#### SECCION CUARTA. De la invitación restringida
+#### SECCION TERCERA. De las excepciones a la licitación pública
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -10115,7 +10165,7 @@ II. Las obras o servicios a contratar, no rebasen los montos establecidos por el
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-#### SECCION QUINTA. De la adjudicación directa
+#### SECCION CUARTA. De la invitación restringida
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -10161,7 +10211,7 @@ XI. Las obras o servicios a contratar, no rebasen los montos establecidos por el
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
-#### SECCIÓN SEXTA. De la Subasta Inversa Electrónica
+#### SECCION QUINTA. De la adjudicación directa
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -10771,7 +10821,7 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
-#### SECCION PRIMERA. De la subasta pública
+#### SECCIÓN SEXTA. De la Subasta Inversa Electrónica
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -10789,9 +10839,9 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-#### SECCION PRIMERA. Del comité consultivo estatal de normalización técnica de la construcción
+#### SECCION PRIMERA. De la subasta pública
 
-> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
@@ -10861,7 +10911,7 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
-#### SECCION SEGUNDA. De la expedición de las normas técnicas
+#### SECCION PRIMERA. Del comité consultivo estatal de normalización técnica de la construcción
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -10872,6 +10922,10 @@ En contra de la resolución que se dicte en la inconformidad administrativa, as�
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
+
+#### SECCION SEGUNDA. De la expedición de las normas técnicas
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 13.
 
@@ -11633,7 +11687,7 @@ Los informantes estarán obligados a proporcionar auxilio y cooperación a las a
 
 ###### Artículo 14.
 
-22.- Los datos, estudios e investigaciones que proporcionen los informantes, serán manejados bajo el principio de confidencialidad respecto a los aspectos específicos de las personas y los referentes a las circunstancias particulares que las identifiquen, excepto la información catastral cuando se garantice el interés legítimo. Al recabarse la Información se dará a conocer al informante la manera en que será procesada, integrada y divulgada.
+22.- Los datos, estudios e investigaciones que proporcionen los informantes, serán manejados bajo el principio de confidencialidad respecto a los aspectos específicos de las personas y los referentes a las circunstancias particulares que las identifiquen, excepto la Información catastral cuando se garantice el interés legítimo. Al recabarse la información se dará a conocer al informante la manera en que será procesada, integrada y divulgada.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -11679,15 +11733,15 @@ Tratándose de particulares cuyas operaciones consten en documentos privados, la
 
 ###### Artículo 14.
 
-30.- Las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial y las unidades administrativas de la administración pública municipal, deberán solicitar al IGECEM términos de referencia y autorización para la realización o contratación de estudios o investigaciones materia de este Libro, a efecto de mantener la homogeneidad, congruencia, veracidad y comparabilidad de la información.
+29.- Se crea el Registro Estatal de Investigaciones en materia Geográfica, Estadística y Catastral que tiene por objeto acumular, administrar y divulgar el conocimiento sobre los hechos y fenómenos geográficos, sociales, demográficos y económicos que ocurren en el territorio.
+
+Las dependencias, entidades y unidades administrativas de los poderes Legislativo, Ejecutivo y Judicial y de los ayuntamientos, deberán inscribir en el Registro al que alude el párrafo anterior, los estudios e investigaciones que realicen en materia de este Libro. Tratándose de particulares, instituciones públicas y privadas, y de cualquier otra persona distinta del poder público del Estado de México, podrán inscribir los estudios e investigaciones de referencia, previo cumplimiento de los requisitos y derechos que se determinen conforme al reglamento de este Libro.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ###### Artículo 14.
 
-29.- Se crea el Registro Estatal de Investigaciones en materia Geográfica, Estadística y Catastral que tiene por objeto acumular, administrar y divulgar el conocimiento sobre los hechos y fenómenos geográficos, sociales, demográficos y económicos que ocurren en el territorio.
-
-Las dependencias, entidades y unidades administrativas de los poderes Legislativo, Ejecutivo y Judicial y de los ayuntamientos, deberán inscribir en el Registro al que alude el párrafo anterior, los estudios e investigaciones que realicen en materia de este Libro. Tratándose de particulares, instituciones públicas y privadas, y de cualquier otra persona distinta del poder público del Estado de México, podrán inscribir los estudios e investigaciones de referencia, previo cumplimiento de los requisitos y derechos que se determinen conforme al reglamento de este Libro.
+30.- Las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial y las unidades administrativas de la administración pública municipal, deberán solicitar al IGECEM términos de referencia y autorización para la realización o contratación de estudios o investigaciones materia de este Libro, a efecto de mantener la homogeneidad, congruencia, veracidad y comparabilidad de la información.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -11827,9 +11881,9 @@ V. Establecer las políticas y lineamientos de los servicios de informática par
 
 VI. Ser el interlocutor con las autoridades federales y municipales en materia de información e investigación geográfica, estadística y catastral;
 
-VII. Establecer la coordinación de las dependencias y entidades de la administración pública en los ámbitos federal, estatal y municipal, en las materias de su competencia;
+VII. Establecer la coordinación de las dependencias y entidades de la administración pública en los ámbitos federal, estatal y municipales, en las materias de su competencia;
 
-VIII. Coordinar las actividades de las dependencias y entidades de los gobiernos estatal y municipales, en apoyo a los trabajos que las autoridades federales realicen en el Estado de México sobre la materia;
+VIII. Coordinar las actividades de las dependencias y entidades de los gobiernos estatal y municipal, en apoyo a los trabajos que las autoridades federales realicen en el Estado de México sobre la materia;
 
 IX. Integrar y custodiar el acervo informativo y de investigaciones geográficas, estadísticas y catastrales del Estado de México;
 
@@ -17688,3 +17742,27 @@ CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamen
 QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
 
 SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
+
+G.G. 12 DE AGOSTO DE 2015.
+
+DECRETO NÚMERO 484, POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 7.35 Y SE ADICIONA LA FRACCIÓN V BIS AL ARTÍCULO 7.26 Y LA FRACCIÓN III BIS AL ARTICULO 7.35 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 12 DE AGOSTO DE 2015.
+
+DECRETO NÚMERO 485, POR EL QUE SE ADICIONA LA SECCIÓN CUARTA DENOMINADA "DE LOS PRESTADORES DE SERVICIOS ELECTRÓNICOS Y PROVEEDORES DE TRANSPORTE" Y LOS ARTÍCULOS 7.57 BIS, 7.57 TER, 7.57 QUÁTER, 7.57 QUINTUS Y 7.57 SEXIES DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Titular del Ejecutivo del Estado realizará las reformas correspondientes a los ordenamientos jurídicos respectivos en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. Los recursos económicos que se recauden derivados del pago establecido en el artículo 7.57 Bis del Código Administrativo del Estado de México, únicamente podrán ser utilizados para programas de movilidad sustentable.
+
+QUINTO. La Secretaría de Movilidad en coordinación con la Secretaría de Finanzas, realizará los estudios correspondientes a efecto de determinar el tipo de licencia de conductor necesaria para la prestación del servicio, en un plazo no mayor de ciento veinte días naturales. En tanto se da cumplimiento a lo anterior, se continuará prestando el servicio con las licencias vigentes.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
