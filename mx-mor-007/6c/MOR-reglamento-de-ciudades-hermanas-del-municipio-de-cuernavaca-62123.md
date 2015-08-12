@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-ciudades-hermanas-del-municipio-de-cuernavaca-621
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-23"
-last_updated: "2008-07-23"
+last_updated: "2015-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 REGLAMENTO DE CIUDADES HERMANAS DEL MUNICIPIO DE CUERNAVACA, MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2015.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 23 de julio de 2008.
 
@@ -33,7 +33,7 @@ Al margen izquierdo un sello con el Escudo Nacional que dice: "Estados Unidos Me
 
 LIC. JESÚS GILES SÁNCHEZ, PRESIDENTE MUNICIPAL CONSTITUCIONAL DE CUERNAVACA, A SUS HABITANTES, SABED: QUE EL AYUNTAMIENTO DE CUERNAVACA, MORELOS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 115 FRACCIÓN II INCISO A) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; 113 Y 115 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS; 38 FRACCIÓN IV, 41 FRACCIÓN I, 60, 63 Y 64 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS; 72, 73, 75, 76 y 77 DEL REGLAMENTO DE GOBIERNO Y ADMINISTRACIÓN DEL AYUNTAMIENTO DE CUERNAVACA, Y
 
-CONSIDERANDO
+CONSIDERANDO...
 
 Por lo anteriormente expuesto y fundado, este Cuerpo Colegiado tiene a bien emitir el presente:
 
@@ -59,11 +59,15 @@ II.- Al Síndico;
 
 III.- A la Comisión de Turismo;
 
-IV.- Al Secretario de Turismo y Fomento Económico;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2015)</small>
 
-V.- Al Subsecretario de Turismo, y
+IV.- Al Secretario de Turismo y Desarrollo Económico;
 
-VI.- Al Director de Asuntos Internacionales y Ciudades Hermanas.
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2015)</small>
+
+V.- Al Director General de Atención Ciudadana, Imagen y Relaciones Públicas;
+
+VI.- (DEROGADA, P.O. 12 DE AGOSTO DE 2015)
 
 ###### Artículo 4.
 
@@ -87,9 +91,11 @@ VI.- Las demás que señalen otros ordenamientos relacionados con la materia.
 
 ### CAPÍTULO II. DE LA ORGANIZACIÓN E INTEGRACIÓN DEL COMITÉ DE CIUDADES HERMANAS
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 6.
 
-Se crea el Comité de Ciudades Hermanas, como un órgano colegiado de carácter consultivo y propositivo, para auxiliar al Ayuntamiento y a la Dirección de Asuntos Internacionales y Ciudades Hermanas en sus funciones y atribuciones relativas al Hermanamiento con otras ciudades.
+Se crea el Comité de Ciudades Hermanas, como un órgano colegiado de carácter consultivo y propositivo, para auxiliar al Ayuntamiento y a la Dirección General de Atención Ciudadana, Imagen y Relaciones Pública (sic) en sus funciones y atribuciones relativas al Hermanamiento con otras ciudades.
 
 ###### Artículo 7.
 
@@ -97,9 +103,13 @@ El Comité se integrará de la siguiente manera:
 
 I.- El Presidente Municipal, como Presidente del Comité;
 
-II.- El Secretario de Turismo, como Director Ejecutivo;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2015)</small>
 
-III.- El Director de Asuntos Internacionales y Ciudades Hermanas, como Secretario Técnico;
+II.- El Secretario de Turismo y Desarrollo Económico, como Director Ejecutivo;
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2015)</small>
+
+III.- El Director General de Atención Ciudadana, Imagen y Relaciones Públicas, como Secretario Técnico.
 
 IV.- El Regidor de Turismo, como Coordinador General de Comisiones;
 
@@ -109,21 +119,21 @@ a).- Comisión de Cultura.
 
 b).- Comisión de Turismo.
 
-c).- Comisión de Economía y Obras Públicas.
+c).- (DEROGADO, P.O. 12 DE AGOSTO DE 2015)
 
 d).- Comisión de Educación.
 
-e).- Comisión de Medio Ambiente.
+e).- (DEROGADO, P.O. 12 DE AGOSTO DE 2015)
 
-f).- Comisión de Seguridad.
+f).- (DEROGADO, P.O. 12 DE AGOSTO DE 2015)
 
-g).-Comisión de Salud.
+g).- (DEROGADO, P.O. 12 DE AGOSTO DE 2015)
 
-h).- Comisión del Deporte.
+h).- (DEROGADO, P.O. 12 DE AGOSTO DE 2015)
 
-i).- Comisión del Centro Histórico.
+i).- (DEROGADO, P.O. 12 DE AGOSTO DE 2015)
 
-j).- Comisión de Rotarios.
+j).- (DEROGADO, P.O. 12 DE AGOSTO DE 2015)
 
 Todos los integrantes tendrán derecho a voz y voto, excepto el Secretario Técnico, quien solo tendrá derecho a voz. El Presidente del Comité tendrá voto de calidad, en caso de empate.
 
@@ -143,17 +153,11 @@ Si por alguna razón de causa mayor debidamente justificada por escrito, el repr
 
 ### CAPÍTULO III. DEL FUNCIONAMIENTO DEL COMITÉ
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 11.
 
-El Comité sesionará una vez al mes de forma ordinaria, debiendo convocarse a sus integrantes con al menos tres días de anticipación como mínimo y en forma extraordinaria, cuantas veces sea necesario, previa citación que se haga con veinticuatro horas de anticipación, por conducto del Presidente o del Director Ejecutivo.
-
-Para las sesiones extraordinarias solo se tratarán los asuntos establecidos en el orden del día.
-
-Para que sesione validamente el Comité, se requiere de la presencia de la mitad más uno de los integrantes, así como contar con la presencia del Presidente y/o Director Ejecutivo.
-
-En caso de no contar con el Quórum Legal se convocará a otra sesión y se llevará a cabo con quienes estén presentes.
-
-Las decisiones deberán ser colegiadas y se tomarán por votación mayoritaria de los asistentes.
+El Comité sesionará una vez cada tres meses de forma ordinaria, debiendo convocarse a sus integrantes con al menos tres días de anticipación como mínimo y en forma extraordinaria, cuantas veces sea necesario, previa citación que se haga con veinticuatro horas de anticipación, por conducto del Presidente o del Director Ejecutivo.
 
 ###### Artículo 12.
 
@@ -249,7 +253,9 @@ XI.- Presentar ante el Presidente del Comité, las propuestas de programas, proy
 
 XII.- Proponer los asuntos que debe conocer el Comité;
 
-XIII.- Las demás que determine el Ayuntamiento, las disposiciones legales aplicables en la materia o las que expresamente de señale el Comité.
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2015)</small>
+
+XIII.- Las demás que determinen otras disposiciones legales aplicables en la materia.
 
 ###### Artículo 17.
 
@@ -325,9 +331,11 @@ Para concretar los acuerdos a que se refiere este Reglamento, no influirán cond
 
 La relación de hermandad entre ciudades deberá iniciarse y mantenerse a nivel de autoridades gubernamentales, sin intermediarios no autorizados oficialmente.
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 24.
 
-A la solicitud de hermandad requerida por otra ciudad, el Presidente Municipal deberá informar al Ayuntamiento y acompañar su petición con los fundamentos de apoyo que permitan validar la propuesta. La solicitud deberá ser turnada a la Comisión Edilicia correspondiente para su dictaminación y presentarla al Ayuntamiento para su aprobación.
+A la solicitud de hermandad requerida por otra ciudad, el Presidente Municipal deberá informar al Ayuntamiento y acompañar su petición con los fundamentos de apoyo que permitan validar la propuesta. La solicitud deberá ser turnada a la Comisión de trabajo correspondiente para su dictaminación y presentarla a Cabildo para su aprobación.
 
 ### CAPÍTULO VI. DE LA DECLARATORIA DE HERMANAMIENTO
 
@@ -446,3 +454,11 @@ C. ERIKA CORTÉS MARTÍNEZ
 SECRETARIA DEL AYUNTAMIENTO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE AGOSTO DE 2015.
+
+PRIMERO.- El presente Acuerdo entrará en vigor, al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, órgano de difusión de (sic) Gobierno del Estado, y en la Gaceta Municipal.
+
+SEGUNDO.- Quedan sin efecto las disposiciones administrativas que se opongan al presente Acuerdo.
