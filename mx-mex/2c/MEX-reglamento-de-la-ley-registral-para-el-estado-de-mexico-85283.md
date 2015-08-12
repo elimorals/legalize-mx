@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-ley-registral-para-el-estado-de-mexico-85283"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-09"
-last_updated: "2015-07-06"
+last_updated: "2015-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE LA LEY REGISTRAL PARA EL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE AGOSTO DE 2015 EN LA G.G. DEL ESTADO DE MÉXICO SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE LA LEY REGISTRAL PARA EL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE JULIO DE 2015.
+
+> <small>N. DE E. CONTIENE LAS FE DE ERRATAS PUBLICADAS EN LA GACETA DEL GOBIERNO DE 12 DE AGOSTO DE 2015.</small>
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el lunes 9 de enero de 2012.
 
@@ -73,7 +73,7 @@ VII. Notas de Presentación: Referencia de ingreso de un documento cuyo efecto e
 
 VIII. Registrador Auxiliar: Servidor Público que suple al Registrador en ausencias temporales;
 
-IX. Solicitud de entrada y trámite: Al formato de control interno que debe acompañarse a todos los documentos y trámites presentados ante el Registro; (sic)
+IX. Solicitud de entrada y trámite: Al formato de control interno que debe acompañarse a todos los documentos y trámites presentados ante el Registro;
 
 ### CAPÍTULO II. DEL DOMICILIO Y COMPETENCIA DEL INSTITUTO
 
@@ -521,7 +521,7 @@ a) Certificado de libertad o existencia de gravámenes del inmueble sobre el cua
 
 b) Certificación de clave y valor catastral.
 
-d) (DEROGADA, G.G. 6 DE JULIO DE 2015)
+c) (DEROGADO, G.G. 6 DE JULIO DE 2015) (F. DE E´s., G.G. 12 DE AGOSTO DE 2015)
 
 ###### Artículo 39.
 
@@ -747,7 +747,7 @@ Los términos previstos en el presente Reglamento, se contarán por días hábil
 
 Además de los actos previstos en el artículo 57 de la Ley, serán objeto de inscripción en el Registro Inmobiliario:
 
-I. Los títulos por los cuales se cree, declare, reconozca, adquiera, transmita, modifique, afecte, limite, grave o extinga la propiedad, la posesión originaria o (sic)
+I. Los títulos por los cuales se cree, declare, reconozca, adquiera, transmita, modifique, afecte, limite, grave o extinga la propiedad, la posesión originaria o
 
 II. Las resoluciones judiciales que impliquen traslación de dominio o posesión;
 
@@ -1235,7 +1235,7 @@ La anotación preventiva prevista en el artículo 106 de la Ley y 8.54 fracción
 
 ###### Artículo 142.
 
-Los servidores públicos del Instituto serán responsables por las faltas cometidas en el ejercicio de sus funciones, en términos de lo que prevé la Ley, y la Ley de Responsabilidades del los Servidores Públicos del Estado de México y Municipios.
+Los servidores públicos del Instituto serán responsables por las faltas cometidas en el ejercicio de sus funciones, en términos de lo que prevé la Ley, y la Ley de Responsabilidades del (sic) los Servidores Públicos del Estado de México y Municipios.
 
 ###### Artículo 143.
 
