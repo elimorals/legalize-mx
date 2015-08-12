@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2015-08-06"
+last_updated: "2015-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE AGOSTO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -14367,9 +14367,11 @@ Normas aplicables
 
 Riesgo de la obra
 
-### CAPITULO IV. Del Contrato de Hospedaje
+### CAPITULO III BIS. Del Contrato Electrónico de Transporte
 
-Elementos del contrato
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2015)</small>
+
+Contrato electrónico de transporte privado de personas
 
 ###### Artículo 7.
 
@@ -14543,9 +14545,9 @@ Responsabilidades de los empresarios constructores
 
 Defectos de los conductores o medios de transporte
 
-### CAPITULO I. De las Asociaciones
+### CAPITULO IV. Del Contrato de Hospedaje
 
-Concepto de contrato de asociación
+Elementos del contrato
 
 ###### Artículo 7.
 
@@ -14653,6 +14655,56 @@ Consecuencias del termino por fuerza mayor
 
 880.- En el caso previsto en el artículo anterior, cada uno de los interesados perderá los gastos que hubiere hecho si el viaje no se ha verificado; si está en curso, el transportador tendrá derecho a que se le pague del porte la parte proporcional al camino recorrido, y la obligación de presentar los bienes, para su depósito, a la autoridad correspondiente del punto en que ya no le sea posible continuarlo, comprobando y recabando la constancia relativa de hallarse en el estado consignado en la carta de porte, de cuyo hecho dará conocimiento oportuno al cargador; a cuya disposición deben quedar.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 12 DE AGOSTO DE 2015)</small>
+
+###### Artículo 7.
+
+880 Bis.- Es un acuerdo de voluntades por el cual una persona denominada usuario obtiene a través de una aplicación tecnológica, un medio de traslado ofrecido directamente por proveedores privados de transporte.
+
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2015)</small>
+
+Contrato electrónico de transporte privado de personas a través de una prestadora de servicios electrónicos
+
+### CAPITULO I. De las Asociaciones
+
+Concepto de contrato de asociación
+
+###### Artículo 7.
+
+880 Ter.- Es un acuerdo de voluntades a través del cual una persona denominada usuario contrata con otra denominada prestadora de servicios electrónicos a través de sí misma o por medio de cualquiera de sus filiales o subsidiarias una aplicación electrónica tecnológica que sirve para la intermediación con un tercero denominado proveedor privado de transporte con el objeto de obtener un medio de traslado ofrecido por este último.
+
+En el caso de utilizar una prestadora de servicios electrónicos, ésta es la responsable de la protección de la información proporcionada por el usuario y los proveedores de transporte en términos de la legislación en materia de transparencia, acceso a la información y protección de datos.
+
+La prestadora de servicios electrónicos no brindará directamente el servicio privado de transporte, por lo que fungirá como obligada solidaria del proveedor privado de transporte en caso de existir responsabilidades civiles y de cualquier índole que pudieran surgir con motivo de la prestación del servicio contratado, así como en caso de incumplimiento de las obligaciones del proveedor de transporte.
+
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2015)</small>
+
+Forma y perfeccionamiento del contrato electrónico de transporte privado de personas
+
+###### Artículo 7.
+
+880 Quáter.- El contrato electrónico de transporte privado de personas se perfecciona cuando:
+
+l. Se acepten las condiciones a través de una aplicación tecnológica.
+
+ll. Se utilice el servicio de transporte privado ligado a plataformas tecnológicas.
+
+El contenido general del contrato deberá estar visible en una página de internet de la prestadora de servicios electrónicos así como de la de sus filiales o subsidiarias.
+
+La tarifa no estará sujeta a regulación administrativa alguna, sin embargo es obligatoria para las partes desde el momento en que se perfecciona el contrato (origen, destino, tarifa por tiempo y distancia, nombre del usuario y proveedor privado de transporte), dicha tarifa por tiempo y distancia deberá estar visible en la aplicación tecnológica y en la página de internet de la prestadora de servicios electrónicos, así como de la de sus filiales o subsidiarias, según sea el caso.
+
+El contrato electrónico de transporte se considera de adhesión para todos los efectos establecidos en la Ley Federal de Protección al Consumidor.
+
+La legislación aplicable en caso de controversia que genere el contrato será la del Estado de México siempre y cuando el servicio tenga como punto de origen o destino dicha Entidad y únicamente cuando la responsabilidad derive de actos u omisiones establecidos en el mismo.
+
+> <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2015)</small>
+
+Personas que pueden ser prestadores de servicios electrónicos y proveedor privado de transporte
+
+###### Artículo 7.
+
+880 Quintus.- Para ser prestador de servicios electrónicos y proveedor privado de transporte se deberá cumplir con los requisitos que prevé el Código Administrativo del Estado de México.
+
 ###### Artículo 7.
 
 881.- El contrato de hospedaje tiene lugar cuando alguno presta a otro albergue, mediante la retribución convenida, comprendiéndose o no, según se estipule, los alimentos y otros servicios que origine el hospedaje.
@@ -14730,10 +14782,6 @@ Efectos de la constitución
 889.- En tanto se inscriba en el Registro Público de la Propiedad la constitución de la asociación, sus estatutos, surtirán efectos entre los asociados y producirá efectos en beneficio y no en perjuicio de personas distintas de la asociación.
 
 Razón social
-
-### CAPITULO I. Del Juego y de la Apuesta
-
-Concepto del contrato de juego
 
 ###### Artículo 7.
 
@@ -14879,6 +14927,14 @@ Régimen de las instituciones de asistencia privada
 
 Aportación de bienes
 
+### CAPITULO I. Del Juego y de la Apuesta
+
+Concepto del contrato de juego
+
+#### SECCION PRIMERA. Disposiciones Generales
+
+Concepto de sociedad civil
+
 ###### Artículo 7.
 
 910.- La aportación de bienes implica la transmisión de su dominio a la sociedad, salvo que expresamente se pacte otra cosa.
@@ -14908,14 +14964,6 @@ Después de pagadas las deudas sociales, conforme a la ley, a los socios se les 
 Las utilidades se destinarán a los establecimientos de beneficencia pública del lugar del domicilio de la sociedad.
 
 Contenido del contrato de sociedad
-
-### CAPITULO II. De la Renta Vitalicia
-
-Elementos de la renta vitalicia
-
-#### SECCION PRIMERA. Disposiciones Generales
-
-Concepto de sociedad civil
 
 ###### Artículo 7.
 
@@ -14963,6 +15011,10 @@ Estipulación sobre socios capitalistas
 
 Aumento de capital
 
+#### SECCION SEGUNDA. De los Socios
+
+Obligaciones de los socios
+
 ###### Artículo 7.
 
 919.- A menos que lo establezcan los estatutos sociales, no puede obligarse a los socios, a hacer una nueva aportación para aumentar el capital social. Cuando el aumento del capital social sea acordado por la mayoría, los socios que no estén conformes pueden separarse de la sociedad, con devolución de lo que aportaron.
@@ -14987,10 +15039,6 @@ Derecho del tanto en caso de cesión
 
 Exclusión de socios
 
-#### SECCION SEGUNDA. De los Socios
-
-Obligaciones de los socios
-
 ###### Artículo 7.
 
 923.- Ningún socio puede ser excluido de la sociedad sino por el acuerdo unánime de los demás socios y por causa grave prevista en los estatutos.
@@ -15008,6 +15056,10 @@ Responsabilidad del socio excluido
 Excepto en los casos en que la ley exige unanimidad de votos, los acuerdos serán tomados por mayoría computada por aportaciones, pero cuando una sola represente el mayor interés y se trate de sociedades con más de tres socios se necesita por lo menor de la tercera parte de los mismos.
 
 Asambleas ordinarias y extraordinarias
+
+#### SECCION TERCERA. De las Asambleas
+
+Órgano supremo de la sociedad
 
 ###### Artículo 7.
 
@@ -15035,9 +15087,9 @@ Para las asambleas extraordinarias se requerirá un quórum del setenta y cinco 
 
 Derecho de los socios no administradores
 
-#### SECCION TERCERA. De las Asambleas
+#### SECCION CUARTA. De la Administración de la Sociedad
 
-Órgano supremo de la sociedad
+Socio o socios administradores
 
 ###### Artículo 7.
 
@@ -15069,10 +15121,6 @@ Actuación conjunta de los administradores
 
 Rendición de cuentas por los administradores
 
-#### SECCION CUARTA. De la Administración de la Sociedad
-
-Socio o socios administradores
-
 ###### Artículo 7.
 
 934.- El socio o socios administradores están obligados a rendir cuentas siempre que lo pidan la mayoría de los socios, aún cuando no sea la época fijada en los estatutos sociales.
@@ -15099,6 +15147,10 @@ VIII. Resolución Judicial.
 
 Renuncia maliciosa
 
+#### SECCION QUINTA. De la Disolución de la Sociedad
+
+Causas de disolución
+
 ###### Artículo 7.
 
 936.- La renuncia se considera maliciosa cuando el socio que la hace se propone aprovecharse exclusivamente de los beneficios o evitarse pérdidas que los socios deberían de recibir o reportar en común con arreglo al convenio.
@@ -15121,15 +15173,15 @@ Obligaciones de la sociedad con terceros
 
 939.- La disolución de la sociedad no modifica los compromisos contraídos con terceros.
 
-#### SECCION QUINTA. De la Disolución de la Sociedad
-
-Causas de disolución
-
 ###### Artículo 7.
 
 940.- Disuelta la sociedad se pondrá inmediatamente en liquidación, la cual se practicará en el plazo de seis meses, salvo lo que dispongan los estatutos sociales.
 
 Agregado a la razón social
+
+#### SECCION SEXTA. De la Liquidación de la Sociedad
+
+Tiempo en el que se liquida la sociedad
 
 ###### Artículo 7.
 
@@ -15154,10 +15206,6 @@ Liquidación previa para repartir utilidades
 944.- Ni el capital social ni las utilidades pendientes pueden repartirse sino después de la disolución de la sociedad y previa la liquidación respectiva, salvo lo que dispongan los estatutos sociales.
 
 Pérdida social
-
-#### SECCION SEXTA. De la Liquidación de la Sociedad
-
-Tiempo en el que se liquida la sociedad
 
 ###### Artículo 7.
 
@@ -15207,6 +15255,10 @@ Excepción de los socios industriales para responder por las pérdidas
 
 Formas del contrato de aparcería
 
+### CAPITULO II. De la Renta Vitalicia
+
+Elementos de la renta vitalicia
+
 ###### Artículo 7.
 
 952.- El contrato de aparcería puede celebrarse por escrito o verbalmente.
@@ -15230,10 +15282,6 @@ Terminación del contrato por muerte del aparcero
 955.- Si es el aparcero el que muere, el contrato puede darse por terminado, salvo pacto contrario.
 
 Obligación del dueño en caso de muerte del aparcero
-
-### CAPITULO I. De la Fianza en General
-
-Elementos del contrato de fianza
 
 ###### Artículo 7.
 
@@ -15383,6 +15431,10 @@ De los Contratos Aleatorios
 
 Concepto del contrato de apuesta
 
+### CAPITULO I. De la Fianza en General
+
+Elementos del contrato de fianza
+
 ###### Artículo 7.
 
 979.- Contrato de apuesta es aquél por el cual dos o más personas que son de opinión contraria, sobre cualquier materia, convienen en que aquélla cuya opinión resulte fundada, recibirá de la otra una suma de dinero, o cualquier otro beneficio, siempre que la misma no sea contraria a la ley o las buenas costumbres.
@@ -15407,10 +15459,6 @@ Monto del patrimonio afectable en juego o apuesta
 
 La suerte como medio para dividir bienes o terminar controversias
 
-### CAPITULO II. De los Efectos de la Fianza entre el Fiador y el Acreedor
-
-Excepciones inherentes a la obligación principal
-
 ###### Artículo 7.
 
 983.- Cuando las personas se sirvieren del medio de la suerte, no como apuesta o juego, sino para dividir bienes comunes o terminar controversias, producirá, en el primer caso, los efectos de una partición legítima, y en el segundo, los de una transacción.
@@ -15426,6 +15474,10 @@ Loterías o rifas
 985.- La renta vitalicia es un contrato por el cual el pensionario, se obliga a pagar periódicamente al pensionista, una cantidad de dinero o bienes fungibles, durante la vida de esa o de otra u otras personas determinadas, a cambio de la entrega al pensionario, de una cantidad de dinero o de un bien estimado, cuyo dominio se le transfiere.
 
 Constitución de la renta vitalicia
+
+### CAPITULO II. De los Efectos de la Fianza entre el Fiador y el Acreedor
+
+Excepciones inherentes a la obligación principal
 
 ###### Artículo 7.
 
@@ -15450,10 +15502,6 @@ Renta vitalicia considerada como donación
 989.- Cuando la renta se constituya en favor de una persona que no ha puesto el capital, debe considerarse como una donación, aunque no sujeta a los preceptos que regulan ese contrato, salvo los casos en que deba ser reducida por inoficiosa o anulada por incapacidad del que deba recibirla.
 
 Renta vitalicia nula
-
-### CAPITULO III. De los Efectos de la Fianza entre el Fiador y el Deudor
-
-Derecho de indemnización del fiador que paga
 
 ###### Artículo 7.
 
@@ -15523,6 +15571,10 @@ De la Fianza
 
 Clases de fianza
 
+### CAPITULO III. De los Efectos de la Fianza entre el Fiador y el Deudor
+
+Derecho de indemnización del fiador que paga
+
 ###### Artículo 7.
 
 1001.- La fianza puede ser legal, judicial, convencional, gratuita o a título oneroso.
@@ -15548,10 +15600,6 @@ Fianza sobre deudas futuras
 1004.- Puede también otorgarse fianza en garantía de deudas futuras, cuyo importe no sea aún conocido, pero no se podrá reclamar contra el fiador hasta que la deuda sea líquida.
 
 Límite de la obligación del fiador
-
-### CAPITULO IV. De los Efectos de la Fianza entre los Cofiadores
-
-Derecho del fiador que paga contra los otros fiadores
 
 ###### Artículo 7.
 
@@ -15635,6 +15683,10 @@ Fianzas sujetas a este Código
 
 Renuncia de derechos por el fiador
 
+### CAPITULO IV. De los Efectos de la Fianza entre los Cofiadores
+
+Derecho del fiador que paga contra los otros fiadores
+
 ###### Artículo 7.
 
 1019.- La renuncia voluntaria que hiciere el deudor de la prescripción de la deuda, o de otra causa de liberación, o de la nulidad o rescisión de la obligación, no impide que el fiador haga valer estas excepciones.
@@ -15668,10 +15720,6 @@ IV. El negocio para el que se prestó la fianza sea propio del fiador;
 V. Se ignore el paradero del deudor, siempre que llamado éste por edictos, no comparezca, ni tenga bienes embargables en el lugar donde debe cumplirse la obligación.
 
 Requisitos para que la excusión proceda
-
-### CAPITULO V. De la Extinción de la Fianza
-
-Extinción de la obligación del fiador
 
 ###### Artículo 7.
 
@@ -15749,6 +15797,10 @@ Fiadores de un deudor por una sola deuda
 
 Aspectos que abarca la indemnización al fiador
 
+### CAPITULO V. De la Extinción de la Fianza
+
+Extinción de la obligación del fiador
+
 ###### Artículo 7.
 
 1035.- El fiador que paga por el deudor, debe ser indemnizado por éste:
@@ -15780,10 +15832,6 @@ Excepciones del deudor contra el fiador
 1038.- Si el fiador hace el pago sin ponerlo en conocimiento del deudor, podrá éste oponerle todas las excepciones que podría oponer al acreedor al tiempo de hacer el pago.
 
 Deudor que paga ignorando el pago por el fiador
-
-### CAPITULO VI. De la Fianza Legal o Judicial
-
-Requisitos del fiador legal o judicial
 
 ###### Artículo 7.
 
@@ -15823,6 +15871,10 @@ V. La deuda se hace exigible por el vencimiento del plazo.
 
 Insolvencia de algún fiador
 
+### CAPITULO VI. De la Fianza Legal o Judicial
+
+Requisitos del fiador legal o judicial
+
 ###### Artículo 7.
 
 1044.- Si alguno de ellos resultare insolvente, su parte recaerá sobre todos los demás en la misma proporción.
@@ -15857,10 +15909,6 @@ V. Alguno o algunos de los fiadores no puedan ser demandados dentro del Estado d
 
 Obligación del fiador que pide el beneficio de la división
 
-### CAPITULO I. Disposiciones Generales
-
-Concepto de prenda
-
 ###### Artículo 7.
 
 1048.- El fiador que pide el beneficio de división, sólo responde por la parte del fiador o fiadores insolventes, si la insolvencia es anterior a la petición; y ni aún por esa misma insolvencia, si el acreedor voluntariamente hace el cobro a prorrata sin que el fiador lo reclame.
@@ -15876,6 +15924,10 @@ Responsabilidad del que fía al fiador
 1050.- La obligación del fiador se extingue al mismo tiempo que la del deudor y por las mismas causas que las demás obligaciones.
 
 Confusión de obligaciones del deudor y fiador
+
+### CAPITULO I. Disposiciones Generales
+
+Concepto de prenda
 
 ###### Artículo 7.
 
@@ -15900,10 +15952,6 @@ Prórroga o espera al deudor por el acreedor
 1054.- La prórroga o espera concedida al deudor por el acreedor, sin consentimiento del fiador, extingue la fianza.
 
 Efectos de la quita
-
-### CAPITULO II. De la Prenda sobre Créditos
-
-Notificación al deudor del crédito
 
 ###### Artículo 7.
 
@@ -15939,6 +15987,10 @@ Derecho del fiador sobre deuda exigible
 
 Fiador legal o judicial que no requiere propiedad de inmuebles
 
+### CAPITULO II. De la Prenda sobre Créditos
+
+Notificación al deudor del crédito
+
 ###### Artículo 7.
 
 1061.- Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de quinientos días de salario mínimo general vigente en el lugar de celebración del contrato, no se exigirá que el fiador tenga bienes inmuebles.
@@ -15965,10 +16017,6 @@ Presunción de enajenación o gravamen fraudulentos
 
 Fiadores que no gozan de los beneficios de orden y excusión
 
-### CAPITULO III. De los Derechos y Obligaciones del Acreedor y Deudor Prendarios
-
-Derechos del acreedor prendario
-
 ###### Artículo 7.
 
 1065.- El fiador legal o judicial y los de éstos, no gozan de los beneficios de orden y excusión.
@@ -15982,6 +16030,10 @@ De la Prenda
 1066.- Mediante la prenda se constituye un derecho real, sobre un bien mueble determinado, para garantizar el cumplimiento de una obligación y su preferencia en el pago.
 
 Requisitos formales de la prenda
+
+### CAPITULO III. De los Derechos y Obligaciones del Acreedor y Deudor Prendarios
+
+Derechos del acreedor prendario
 
 ###### Artículo 7.
 
@@ -16008,10 +16060,6 @@ Entrega real, virtual y jurídica
 1070.- Hay entrega real de la prenda cuando materialmente se hace; hay entrega virtual al acreedor, siempre que éste y el deudor convengan en que la misma quede en poder de un tercero o del mismo deudor. Habrá entrega jurídica cuando expresamente lo autorice la ley. En estos casos, la prenda sólo producirá sus efectos contra terceros cuando esté inscrita en el Registro Público de la Propiedad.
 
 Posesión del bien prendario por un tercero o deudor
-
-### CAPITULO IV. De la Venta del Bien Pignorado
-
-Incumplimiento del pago
 
 ###### Artículo 7.
 
@@ -16053,6 +16101,10 @@ Instituciones autorizadas para prestar dinero sobre prenda
 
 Obligación del acreedor en poder del título
 
+### CAPITULO IV. De la Venta del Bien Pignorado
+
+Incumplimiento del pago
+
 ###### Artículo 7.
 
 1078.- Siempre que la prenda fuere un crédito, el acreedor que tuviere en su poder el título, estará obligado a hacer todo lo que sea necesario para que no se altere o menoscabe el derecho que aquél representa.
@@ -16071,6 +16123,10 @@ IV. Exigir del deudor otra prenda o el pago de la deuda, aún antes del plazo co
 
 Aviso al dueño para que defienda el bien
 
+### CAPITULO V. De la Extinción de la Prenda
+
+Causas de extinción de la prenda
+
 ###### Artículo 7.
 
 1080.- Si el acreedor es turbado en la posesión del bien pignorado, debe avisar al dueño para que lo defienda; si el deudor no cumpliere con esta obligación, será responsable de los daños y perjuicios.
@@ -16082,10 +16138,6 @@ Pérdida del bien prendario
 1081.- Si perdido el bien dado en prenda el deudor ofreciera otro o alguna caución, queda al arbitrio del acreedor aceptarlos o rescindir el contrato.
 
 Obligaciones del acreedor prendario
-
-### CAPITULO V. De la Extinción de la Prenda
-
-Causas de extinción de la prenda
 
 ###### Artículo 7.
 
@@ -16102,10 +16154,6 @@ Abuso del bien prendario
 1083.- Si quien tiene en su poder el bien pignorado, abusa de él, el deudor puede exigir que éste se deposite o que aquél dé fianza para restituirlo en el estado en que lo recibió.
 
 Causas de abuso del bien pignorado
-
-### CAPITULO I. De la Hipoteca en General
-
-Concepto de hipoteca
 
 ###### Artículo 7.
 
@@ -16141,6 +16189,10 @@ Reducción de la prenda por pagos parciales
 
 Aplicación del bien al acreedor
 
+### CAPITULO I. De la Hipoteca en General
+
+Concepto de hipoteca
+
 ###### Artículo 7.
 
 1090.- El deudor puede convenir con el acreedor en que éste se quede con el bien pignorado en el precio que se le fije al vencimiento de la deuda, pero no al tiempo de celebrarse el contrato.
@@ -16164,10 +16216,6 @@ Sanción al deudor
 1093.- Si el deudor suspende la enajenación, y no paga, será sancionado con el diez por ciento del valor de la deuda por daños y perjuicios a favor del acreedor, perdiendo el derecho a solicitar otra suspensión.
 
 Cláusulas nulas en la prenda
-
-### CAPITULO II. De la hipoteca voluntaria
-
-Concepto de hipoteca voluntaria
 
 ###### Artículo 7.
 
@@ -16193,11 +16241,19 @@ TITULO DECIMOQUINTO
 
 De la Hipoteca
 
+### CAPITULO II. De la hipoteca voluntaria
+
+Concepto de hipoteca voluntaria
+
 ###### Artículo 7.
 
 1097.- La hipoteca es un derecho real constituido sobre bienes que no se entregan al acreedor y que da derecho a éste, en caso de incumplimiento de la obligación garantizada, a ser pagado con el valor de los bienes, en el grado de preferencia establecido por la ley.
 
 Requisito formal de la hipoteca
+
+### CAPITULO III. De la Hipoteca Necesaria
+
+Concepto de hipoteca necesaria
 
 ###### Artículo 7.
 
@@ -16217,10 +16273,6 @@ Bienes hipotecables
 
 Extensión de la hipoteca
 
-### CAPITULO III. De la Hipoteca Necesaria
-
-Concepto de hipoteca necesaria
-
 ###### Artículo 7.
 
 1101.- La hipoteca se extiende, aunque no se exprese, a:
@@ -16232,14 +16284,6 @@ II. Las mejoras hechas por el propietario en los bienes gravados;
 III. Los nuevos edificios que el propietario construya sobre el terreno hipotecado y a los nuevos pisos que levante sobre los edificios hipotecados.
 
 Bienes no comprendidos en la hipoteca
-
-### CAPÍTULO III BIS. De la hipoteca inversa
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, G.G. 7 DE MAYO DE 2013)</small>
-
-Concepto de la hipoteca inversa
 
 ###### Artículo 7.
 
@@ -16405,6 +16449,14 @@ Clases de Hipoteca
 
 Hipoteca constituida unilateralmente
 
+### CAPÍTULO III BIS. De la hipoteca inversa
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 7 DE MAYO DE 2013)</small>
+
+Concepto de la hipoteca inversa
+
 ###### Artículo 7.
 
 1126.- La hipoteca constituida unilateralmente por un tercero, es irrevocable desde el momento en que la hace saber al acreedor o al deudor.
@@ -16428,10 +16480,6 @@ Existencia de obligación futura o cumplimiento de las condiciones
 1129.- Cuando se contraiga la obligación futura o se cumplan las condiciones de que tratan los dos artículos anteriores, deberán los interesados pedir que se haga constar así, por medio de una nota en la inscripción registral hipotecaria, sin cuyo requisito no podrá aprovechar ni perjudicar a terceros la hipoteca constituida.
 
 Constancia de la obligación futura o cumplimiento de condiciones
-
-### CAPITULO IV. De la extinción de las hipotecas
-
-Causas de extinción de la hipoteca
 
 ###### Artículo 7.
 
@@ -16493,6 +16541,10 @@ Lo mismo se observará en el caso de que el acreedor conceda un nuevo plazo para
 
 Plazo para exigir hipoteca necesaria
 
+### CAPITULO IV. De la extinción de las hipotecas
+
+Causas de extinción de la hipoteca
+
 ###### Artículo 7.
 
 1138.- La constitución de la hipoteca necesaria podrá exigirse en cualquier tiempo, aunque haya cesado la causa que le diere origen, siempre que esté pendiente de cumplimiento la obligación que se debiera haber asegurado.
@@ -16516,12 +16568,6 @@ Duración de la hipoteca necesaria
 1141.- La hipoteca necesaria durará el mismo tiempo que la obligación que con ella se garantiza.
 
 Legitimación para pedir constitución de hipoteca necesaria
-
-### CAPITULO I. De los Documentos Registrables
-
-Documentos jurídicos registrables
-
-> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 7.
 
@@ -16568,6 +16614,12 @@ Derechos de los que pueden pedir la constitución de hipoteca necesaria
 > <small>(ADICIONADO, G.G. 7 DE MAYO DE 2013)</small>
 
 Contrato de hipoteca inversa
+
+### CAPITULO I. De los Documentos Registrables
+
+Documentos jurídicos registrables
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 7.
 
@@ -16641,12 +16693,6 @@ II. En el supuesto de la fracción anterior, los herederos del pensionista podr�
 
 Transmisión del bien hipotecado
 
-### CAPITULO II. De la Prelación
-
-Prioridad de la inscripción
-
-> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
-
 ###### Artículo 7.
 
 1 144 Septies.- El inmueble hipotecado no podrá ser transmitido por acto inter vivos sin el consentimiento previo del pensionario. El incumplimiento de esta obligación le conferirá el derecho de declarar vencido anticipadamente el total del adeudo y exigible a la fecha, a menos que se sustituya la garantía en forma bastante e igual a la anterior en un plazo de seis meses.
@@ -16711,6 +16757,12 @@ VIII. Se consolide o confunda la propiedad del bien hipotecado en el acreedor.
 
 Hipoteca extinguida por dación en pago
 
+### CAPITULO II. De la Prelación
+
+Prioridad de la inscripción
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 7.
 
 1146.- La hipoteca extinguida por dación en pago revivirá, si el pago queda sin efecto, ya sea porque el bien dado en pago se pierda por culpa del deudor estando todavía en su poder, o porque el acreedor lo pierda en virtud de la evicción.
@@ -16738,12 +16790,6 @@ Requisito formal de la transacción
 1149.- La transacción debe constar por escrito.
 
 Transacción de ascendientes y tutores a nombre de sus representados
-
-### CAPITULO III. De la Calificación Registral
-
-Requisito para inscribir o anotar
-
-> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 7.
 
@@ -17019,9 +17065,9 @@ Formato Precodificado
 
 ## TITULO SEGUNDO. Disposiciones Comunes
 
-### CAPITULO IV. De la rectificación y reposición de asientos
+### CAPITULO III. De la Calificación Registral
 
-Rectificación de asientos por error
+Requisito para inscribir o anotar
 
 > <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
@@ -17107,9 +17153,9 @@ Sobreseimiento al procedimiento
 
 18.- En caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio sobre bienes o derechos reales, se sobreseerá todo procedimiento respecto de los mismos o de sus frutos, inmediatamente que conste en los autos por manifestación auténtica del Registro, que dichos bienes o derechos están inscritos a favor de persona distinta de aquella contra la que se decretó el embargo o se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la acción como causahabiente del que aparece dueño en el Registro.
 
-### CAPITULO I. De los Títulos Inscribibles y de los Anotables
+### CAPITULO IV. De la rectificación y reposición de asientos
 
-Títulos inscribibles
+Rectificación de asientos por error
 
 > <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
@@ -17213,9 +17259,9 @@ Momento en que surte efectos la inscripción definitiva
 
 28.- La inscripción definitiva de un derecho que haya sido anotado preventivamente, surtirá sus efectos desde la fecha de dicha anotación preventiva.
 
-### CAPITULO II. De los efectos de las anotaciones
+### CAPITULO I. De los Títulos Inscribibles y de los Anotables
 
-Personas a quienes perjudica la anotación
+Títulos inscribibles
 
 > <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
@@ -17293,9 +17339,9 @@ Si mediante sentencia ejecutoriada se resuelve que el documento fue mal califica
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 18 DE AGOSTO DE 2011)</small>
 
-### CAPITULO III. De la Inmatriculación
+### CAPITULO II. De los efectos de las anotaciones
 
-Inmuebles carentes de antecedentes registrales
+Personas a quienes perjudica la anotación
 
 > <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
@@ -17466,6 +17512,12 @@ Procedencia de las cancelaciones
 52.- Las cancelaciones procederán en los supuestos que establezca la Ley Registral.
 
 ## TITULO TERCERO. Del Registro de la Propiedad Inmueble
+
+### CAPITULO III. De la Inmatriculación
+
+Inmuebles carentes de antecedentes registrales
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
@@ -18154,3 +18206,17 @@ CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamen
 QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
 
 SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
+
+G.G. 12 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Titular del Ejecutivo del Estado realizará las reformas correspondientes a los ordenamientos jurídicos respectivos en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. Los recursos económicos que se recauden derivados del pago establecido en el artículo 7.57 Bis del Código Administrativo del Estado de México, únicamente podrán ser utilizados para programas de movilidad sustentable.
+
+QUINTO. La Secretaría de Movilidad en coordinación con la Secretaría de Finanzas, realizará los estudios correspondientes a efecto de determinar el tipo de licencia de conductor necesaria para la prestación del servicio, en un plazo no mayor de ciento veinte días naturales. En tanto se da cumplimiento a lo anterior, se continuará prestando el servicio con las licencias vigentes.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
