@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-competitividad-y-ordenamiento-comercial-del-estado-10396
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-18"
-last_updated: "2015-07-10"
+last_updated: "2015-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE AGOSTO DE 2015 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 10 DE JULIO DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DE GOBIERNO DEL 12 DE AGOSTO DE 2015.</small>
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 18 de diciembre de 2014.
 
@@ -1069,7 +1069,9 @@ Los dictámenes de factibilidad de impacto sanitario pueden ser revocados a juic
 
 I. Se compruebe que la información proporcionada para su expedición es falsa y/o que alguno de los documentos es apócrifo.
 
-II. Cuando las actividades de la unidad económica de que se trate representen un riesgo para la tranquilidad, segundad (sic) o salud de los usuarios, dependientes o personal ocupacionalmente expuesto.
+> <small>(F. DE E., G.G. 12 DE AGOSTO DE 2015)</small>
+
+II. Cuando las actividades de la unidad económica de que se trate representen un riesgo para la tranquilidad, seguridad o salud de los usuarios, dependientes o personal ocupacionalmente expuesto.
 
 III. Cuando la unidad económica incumpla con el horario autorizado.
 
