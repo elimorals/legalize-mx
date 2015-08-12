@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-biodiesel-chiapas-82772"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-27"
-last_updated: "2011-07-27"
+last_updated: "2015-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE BIODIESEL CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE ENERGÍAS RENOVABLES DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 12 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 27 de julio de 2011.
 
@@ -91,7 +93,7 @@ Los Titulares de los Órganos Administrativos que integran al Organismo, impleme
 
 Para la realización de los estudios, conducción, planeación, ejecución y desempeño de las atribuciones, funciones y despacho de los asuntos de su competencia, el Organismo, tendrá los Órganos Administrativos siguientes:
 
-l. Dirección General.
+I. Dirección General.
 
 II. Unidad de Apoyo Administrativo.
 
@@ -131,7 +133,7 @@ La representación, trámite y resolución de los asuntos competencia del Organi
 
 El Director General, tendrá las atribuciones delegables siguientes:
 
-l. Representar legalmente al Organismo, ante toda clase de autoridades, organismos, instituciones y personas públicas o privadas, nacionales e internacionales, ejerciendo las facultades de dominio, administración, pleitos y cobranzas, aún de aquellas que requieran de autorización especial según otras disposiciones legales o reglamentarias.
+I. Representar legalmente al Organismo, ante toda clase de autoridades, organismos, instituciones y personas públicas o privadas, nacionales e internacionales, ejerciendo las facultades de dominio, administración, pleitos y cobranzas, aún de aquellas que requieran de autorización especial según otras disposiciones legales o reglamentarias.
 
 La representación a que se refiere ésta fracción, comprende el ejercicio de todo tipo de acciones; de conformidad con los alcances y limitaciones establecidos en el Decreto de Creación.
 
@@ -181,7 +183,7 @@ XXII. Las demás atribuciones que en el ámbito de su competencia le sean encome
 
 El Director General, tendrá las atribuciones indelegables siguientes:
 
-l. Emitir y/o establecer las normas, políticas y procedimientos aplicables en las acciones administrativas y en materia de desarrollo industrial y comercial de los insumos biocombustibles en el Estado.
+I. Emitir y/o establecer las normas, políticas y procedimientos aplicables en las acciones administrativas y en materia de desarrollo industrial y comercial de los insumos biocombustibles en el Estado.
 
 II. Presentar a la Junta de Gobierno para su aprobación, los proyectos y programas en materia de desarrollo industrial y comercial de los insumos biocombustibles y otros obtenidos del uso, aplicación y transformación de los biocombustibles, así como el informe de Gobierno, competencia del Organismo.
 
@@ -251,7 +253,7 @@ XXXI. Las demás atribuciones que en el ámbito de su competencia le sean encome
 
 Corresponde a los Titulares de los Órganos Administrativos, de manera generales (sic) las siguientes atribuciones:
 
-l. Implementar estrategias que permitan al Organismo captar recursos para el incremento de su patrimonio, en pro de la población con mayor grado de vulnerabilidad en el Estado.
+I. Implementar estrategias que permitan al Organismo captar recursos para el incremento de su patrimonio, en pro de la población con mayor grado de vulnerabilidad en el Estado.
 
 II. Proporcionar opiniones e informes de su competencia, que le sean solicitados por los Órganos Administrativos que conforman el Organismo.
 
@@ -441,7 +443,7 @@ X. Las demás atribuciones que en el ámbito de su competencia le sean encomenda
 
 El Titular de la Dirección de Comercialización, tendrá las atribuciones siguientes:
 
-l. Preparar los proyectos para la comercialización del biodiesel para lograr el posicionamiento en los diversos mercados.
+I. Preparar los proyectos para la comercialización del biodiesel para lograr el posicionamiento en los diversos mercados.
 
 II. Proponer al Director General, la celebración de contratos y convenios, para la comercialización de los biocombustibles, biodiesel y subproductos con la iniciativa privada y Organismos Gubernamentales y No Gubernamentales de índole internacional, Nacional, Estatal o Municipal.
 
@@ -475,7 +477,7 @@ XV. Las demás atribuciones que en el ámbito de su competencia le sean encomend
 
 El Titular de la Dirección de Cobranza, tendrá las atribuciones siguientes:
 
-l. Gestionar las acciones necesarias para efectuar el cobro por concepto de la venta del Biodiesel, celebrados con diversos Organismos Gubernamentales y No Gubernamentales.
+I. Gestionar las acciones necesarias para efectuar el cobro por concepto de la venta del Biodiesel, celebrados con diversos Organismos Gubernamentales y No Gubernamentales.
 
 II. Generar informes, pólizas, notas de crédito y facturas sobre las operaciones financieras relacionadas con la cobranza, para el control de ventas, que se deriven de la comercialización de los biocombustibles, biodiesel y subproductos.
 
@@ -519,4 +521,24 @@ Artículo Cuarto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Le
 
 Dado en la Sala de Sesiones de la Junta de Gobierno de Biodiesel Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas; el trece de junio de dos mil once.
 
-Integrantes de la Junta de Gobierno: Presidente: Ing. Neyif Salim Rodríguez Salomón, Director General del Instituto de Reconversión Productiva y Bionergéticos (sic).- Secretario Técnico: Ing. Juan Carlos Vidal López, Director de Comercialización.- Vocales: Lic. Pacífico Hugo Orantes Montes en representación de Lic. Carlos Jair Jiménez Bolaños Cacho, Secretario de Hacienda.- Lic. Claudia Trujillo Rincón, Secretaria de Economía.- MVZ. José Ángel del Valle Molina, Secretario del Campo.- C.P. Luis Gómez Manzo, Vocal Suplente.- Rúbricas.
+Integrantes de la Junta de Gobierno: Presidente: Ing. Neyif Salim Rodríguez Salomón, Director General del Instituto de Reconversión Productiva y Bionergéticos.- Secretario Técnico: Ing. Juan Carlos Vidal López, Director de Comercialización.- Vocales: Lic. Pacífico Hugo Orantes Montes en representación de Lic. Carlos Jair Jiménez Bolaños Cacho, Secretario de Hacienda.- Lic. Claudia Trujillo Rincón, Secretaria de Economía.- MVZ. José Ángel del Valle Molina, Secretario del Campo.- C.P. Luis Gómez Manzo, Vocal Suplente.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE AGOSTO DE 2015.
+
+Artículo Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de Biodiesel Chiapas, publicado en el Periódico Oficial número 317, Tomo III, mediante Publicación número 3005-A-2011, de fecha 27 de julio de 2011.
+
+Artículo Tercero.- En los casos en que se presente controversia en la aplicación de este Reglamento Interior, el Director General resolverá lo conducente, previa aprobación de la Junta de Gobierno.
+
+Artículo Cuarto.- Para las cuestiones no previstas en el presente Reglamento Interior, respecto al funcionamiento de los órganos administrativos, el Director General resolverá lo conducente, previa aprobación de la Junta de Gobierno.
+
+Artículo Quinto.- El Manual de Organización del Instituto deberá expedirse en un plazo no mayor a noventa días hábiles, posteriores a la entrada en vigor del presente Reglamento Interior.
+
+Artículo Sexto.- En tanto se expide el Manual de Organización respectivo, el Director General resolverá las incidencias de operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Séptimo.- El Instituto deberá establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia del programa que establezca la Unidad de Protección Civil.
+
+Artículo Octavo.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento Interior en el Periódico Oficial.
