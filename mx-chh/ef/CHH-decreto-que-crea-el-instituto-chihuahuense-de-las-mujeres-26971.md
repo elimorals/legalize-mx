@@ -4,7 +4,7 @@ identifier: "CHH-decreto-que-crea-el-instituto-chihuahuense-de-las-mujeres-26971
 country: "mx"
 rank: "decreto"
 publication_date: "2002-08-28"
-last_updated: "2012-09-26"
+last_updated: "2015-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 DECRETO QUE CREA EL INSTITUTO CHIHUAHUENSE DE LA MUJER
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2015.
 
 Decreto publicado en el Periódico Oficial, el miércoles 28 de agosto de 2002.
 
@@ -55,9 +55,11 @@ Se crea el organismo público descentralizado con personalidad jurídica, patrim
 
 El Instituto promoverá su representación en los Municipios, de acuerdo a las posibilidades de cada uno de ellos.
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2015)</small>
+
 ###### ARTÍCULO 2.
 
-El Instituto Chihuahuense de la Mujer tiene por objeto implementar las políticas públicas que promuevan el desarrollo integral de las mujeres y su participación plena en la vida económica, social, política, familiar y cultural del Estado, así como consolidar las condiciones para que tomen parte activa en las decisiones, responsabilidades y beneficios del desarrollo, en igualdad de condiciones que los varones.
+El Instituto Chihuahuense de la Mujer tiene por objeto implementar las políticas públicas que promuevan el desarrollo integral de las mujeres que priorice un enfoque intercultural y su participación plena en la vida económica, social, política, familiar y cultural del Estado, así como consolidar las condiciones para que tomen parte activa en las decisiones, responsabilidades y beneficios del desarrollo, en igualdad de condiciones que los varones.
 
 ###### ARTÍCULO 3.
 
@@ -93,17 +95,25 @@ XIV.- Impulsar programas de carácter gratuito, que difundan los derechos de las
 
 XV.- En general, instrumentar todas aquellas acciones que promuevan el mejoramiento de las condiciones y calidad de vida de las mujeres.
 
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2015)</small>
+
+Asimismo el Instituto promoverá, en el ámbito de su competencia, la perspectiva de género y un enfoque intercultural, que integre la presencia de personas traductoras e Intérpretes de los diferentes idiomas indígenas, asegurando la participación de mujeres indígenas en los procesos de adopción de decisiones a fin de eliminar la discriminación en contra de estas.
+
 ###### ARTÍCULO 4.
 
 Para el desarrollo de su objeto, el Instituto tendrá las siguientes atribuciones:
 
 I.- Diseñar, coordinar, desarrollar, fomentar, concertar y dar seguimiento por si, o en coordinación con otras dependencias de la Administración Pública Federal, Estatal o Municipal, instituciones privadas, académicas y organizaciones no gubernamentales, los programas, planes, proyectos, campañas y acciones necesarias para el logro de sus fines.
 
-II.- Revisar la normatividad de las políticas, planes y programas gubernamentales dirigidos a las mujeres, para proponer las adecuaciones pertinentes que posibiliten su acceso en condiciones de equidad con los varones, incorporando el enfoque de género en su diseño, planeación y ejecución.
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2015)</small>
+
+II.- Revisar la normatividad de las políticas, planes y programas gubernamentales dirigidos a las mujeres, para proponer las adecuaciones pertinentes que posibiliten su acceso en condiciones de equidad con los varones, mediante un enfoque de género e interculturalidad en su diseño, planeación y ejecución.
 
 III.- Organizar un sistema de información, documentación e investigación sobre las mujeres chihuahuenses, que permita conocer cabalmente sus necesidades, problemáticas y aspiraciones, utilizando los resultados para el diseño y formulación de políticas, programas, planes y acciones a favor de las mujeres.
 
-IV.- Definir estrategias y criterios, así como diseñar y desarrollar mecanismos con enfoque de género para el análisis, evaluación y seguimiento de las acciones, planes y programas gubernamentales a favor de las mujeres.
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2015)</small>
+
+IV.- Definir estrategias y criterios, así como diseñar y desarrollar mecanismos con enfoque de género e interculturalidad para el análisis, evaluación y seguimiento de las acciones, planes y programas gubernamentales a favor de las mujeres.
 
 V.- Desarrollar el Programa Estatal de la Mujer en el marco del Plan Estatal de Desarrollo y formular e implementar el programa operativo anual del Instituto.
 
@@ -460,3 +470,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
+
+P.O. 12 DE AGOSTO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado contará con noventa días hábiles para modificar y adecuar a las nuevas disposiciones el reglamento correspondiente.
