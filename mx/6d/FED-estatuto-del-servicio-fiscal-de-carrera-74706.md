@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-fiscal-de-carrera-74706"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-05-07"
-last_updated: "2010-05-07"
+last_updated: "2015-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74706&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2010-03-01"
 
 ESTATUTO DEL SERVICIO FISCAL DE CARRERA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO DEL SERVICIO FISCAL DE CARRERA, PUBLICADO EN EL D.O.F. DE 12 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE AGOSTO DE 2015 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de mayo de 2010.
 
@@ -334,3 +336,21 @@ TERCERO.- Los trabajadores que actualmente tienen la categoría de FFC seguirán
 "Licenciado Jesús Rojas Ibáñez, Secretario Técnico de la Junta de Gobierno del Servicio de Administración Tributaria, con fundamento en lo dispuesto en la fracción XIV del Decimoctavo de los Lineamientos para la Organización y Funcionamiento de la Junta de Gobierno del Servicio de Administración Tributaria CERTIFICA: Que esta copia consta de siete fojas útiles, concuerda fiel y exactamente con su original que obra en los archivos de esta Secretaría Técnica, asimismo certifico que la Junta de Gobierno de este Organo Desconcentrado adoptó el ACUERDO-JG-SAT-IVO-5-2009, mediante el cual se aprueba la expedición del Estatuto del Servicio Fiscal de Carrera, tomado en la IV Sesión Ordinaria de 2009, celebrada el 11 de diciembre de 2009
 
 Se certifica para efectos de su publicación en el Diario Oficial de la Federación.- México, Distrito Federal, a 1o. de marzo de dos mil diez".- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 12 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto publicado en el Diario Oficial de la Federación el 7 de mayo de 2010.
+
+TERCERO. A partir de la entrada en vigor del presente Estatuto, los FFC seguirán conservando su categoría en tanto den cumplimiento a las obligaciones establecidas en el presente instrumento.
+
+CUARTO. Para dar cumplimiento a lo señalado en el artículo 10 de este Estatuto, los Comités establecerán los puestos estratégicos de manera gradual, en términos de los requerimientos de su operación.
+
+QUINTO. Con relación a lo previsto en el artículo 19 de este Estatuto, la implementación del proceso de Promoción para los FFC se determinará en un plazo no mayor de 180 días a partir de la publicación del presente Estatuto en el Diario Oficial de la Federación, mediante la emisión de los criterios o lineamientos correspondientes por parte de la ACCCH.
+
+SEXTO. A partir de la determinación de los puestos estratégicos, el personal que se encuentre ocupando dichos puestos y que tenga tres años o más de antigüedad, tendrá un año para cumplir con los requisitos de incorporación al SFC.
+
+SÉPTIMO. Los FFLD que se encuentren participando en el proceso de Ingreso al SFC al entrar en vigor el presente Estatuto, se sujetarán a las disposiciones del Estatuto vigente cuando se inició el proceso, con excepción de aquellas disposiciones que le resulten favorables para su incorporación.
