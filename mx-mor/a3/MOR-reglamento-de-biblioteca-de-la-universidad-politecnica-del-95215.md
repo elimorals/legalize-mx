@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-biblioteca-de-la-universidad-politecnica-del-9521
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-17"
-last_updated: "2013-07-17"
+last_updated: "2015-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO DE BIBLIOTECA DE LA UNIVERSIDAD POLITÉCNICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE BIBLIOTECA DE LA UNIVERSIDAD POLITÉCNICA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 12 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 17 de julio de 2013.
 
@@ -358,3 +360,11 @@ DR. JUAN SEGURA SALAZAR
 RECTOR DE LA UNIVERSIDAD POLITÉCNICA DEL ESTADO DE MORELOS
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento de Biblioteca publicado en el Periódico Oficial "Tierra y Libertad” número 5105 de fecha 17 de julio de 2013.
