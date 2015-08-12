@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2015-06-17"
+last_updated: "2015-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2015.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -856,6 +856,14 @@ La Secretaría coordinará sus esfuerzos con otras instituciones, con énfasis e
 ###### Artículo 78.
 
 La Secretaría, en materia de salud mental, atención terapéutica, prevención y atención a trastornos mentales, que incluye la conducta que derive en actos tentativos o consumados de suicidio, establecerá un programa con acciones de promoción, prevención, atención y rehabilitación, de conformidad con esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2015)</small>
+
+Para los efectos de esta Ley, se entiende por salud mental el estado de bienestar que una persona experimenta como resultado de su buen funcionamiento en los aspectos cognoscitivos, afectivos y conductuales y, en última instancia, el despliegue óptimo de sus potencialidades individuales para la convivencia, el trabajo y la recreación.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2015)</small>
+
+La atención de los trastornos mentales y del comportamiento deberá brindarse con un enfoque comunitario, de reinserción psicosocial y con estricto respeto a los derechos humanos de los usuarios de estos servicios.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -2065,6 +2073,8 @@ I.- Promover la adopción de medidas de prevención, detección y tratamiento op
 
 ### CAPÍTULO X. PROGRAMA DE SALUD MENTAL Y ATENCIÓN A ESTOS TRASTORNOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 218.
 
 Las disposiciones de este Capítulo tienen como objeto establecer el Programa Estatal de Trasplantes, para generar en la sociedad una cultura altruista de la donación y cubrir las necesidades de la población afectada con patologías, cuya única alternativa de solución es el trasplante.
@@ -2209,7 +2219,49 @@ La Secretaría coordinará las acciones de las dependencias de la administració
 
 ###### Artículo 237.
 
-El programa de salud mental y atención a trastornos mentales, comprende actividades de promoción, prevención, atención y rehabilitación.
+El programa de salud mental y atención a trastornos mentales, comprende actividades de promoción, prevención, atención y rehabilitación, para lo cual la Secretaría llevará a cabo las siguientes acciones:
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2015)</small>
+
+I.- Fomentar el establecimiento de centros de atención primaria, conformados por especialistas de diversas ramas que atiendan el aspecto social y clínico del paciente, diagnosticando el trastorno o padecimiento mental y, en su caso, determinando el tratamiento a seguir, teniendo presente el respeto a sus derechos humanos.
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2015)</small>
+
+II.- Impulsar, en los hospitales generales a cargo del Estado, la creación de unidades especializadas encargadas de atender y tratar pacientes con padecimientos y trastornos mentales.
+
+Tratándose de hospitales privados, la Secretaría, a través de los convenios respectivos, podrá fomentar el establecimiento de dichas unidades.
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2015)</small>
+
+III.- Promover el diseño de manuales y, en su caso, planes de estudios, a fin de que los profesionales que atienden las diversas áreas de la salud mental, se encuentren plenamente calificados para desempeñar su labor.
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2015)</small>
+
+IV.- Celebrar los convenios respectivos con las instituciones de educación superior, a fin de brindar la preparación académica necesaria a los profesionistas y técnicos, para lograr la excelencia en la atención de la salud mental.
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2015)</small>
+
+V.- Coordinar a las dependencias del sector salud, así como a las instituciones educativas, para que mantengan actualizado el sistema de información pública, con las diversas incidencias y causas que afectan a la salud mental, así como las publicaciones académicas respecto al tema.
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2015)</small>
+
+VI.- Coordinar el diseño de campañas publicitarias a fin de hacer conciencia en la población sobre los padecimientos y trastornos mentales, así como el fomento al respeto e integración para con las personas que los padecen.
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2015)</small>
+
+VII.- Procurar el establecimiento de servicios ambulatorios o de respuesta inmediata para la mejor atención y tratamiento de los trastornos y padecimientos mentales.
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2015)</small>
+
+VIII.- Apoyar y fomentar la creación de asociaciones civiles especializadas en el tema de salud mental, que coadyuven en la implementación de políticas públicas en torno al tema.
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2015)</small>
+
+IX.- Establecer programas, en coordinación con las autoridades competentes, que incidan en el mejoramiento de espacios públicos que coadyuven a prevenir la formación de trastornos mentales.
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2015)</small>
+
+X.- Implementar un sistema de quejas y denuncias que permitan al ciudadano que conozca de una violación a la presente Ley, denunciarla, de manera verbal o por escrito libre, a la Secretaría o al Órgano de Control Interno del Ejecutivo, a fin de que se realicen las investigaciones pertinentes.
 
 ###### Artículo 238.
 
@@ -3532,6 +3584,12 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 El Organismo Público Descentralizado denominado "Desarrollo Integral de la Familia del Estado de Chihuahua" (DIF Estatal), celebrará los acuerdos de coordinación necesarios con la Secretaría de Salud Estatal, a fin de que esta, en el ámbito de sus atribuciones, participe garantizando la prestación de los servicios terapéuticos en los centros de rehabilitación a que se refiere el presente Decreto.
 
 P.O. 17 DE JUNIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE AGOSTO DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
