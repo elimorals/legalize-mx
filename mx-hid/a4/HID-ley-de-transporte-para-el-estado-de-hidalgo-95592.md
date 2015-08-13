@@ -4,7 +4,7 @@ identifier: "HID-ley-de-transporte-para-el-estado-de-hidalgo-95592"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-29"
-last_updated: "2013-07-29"
+last_updated: "2015-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TRANSPORTE PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2015.
 
 Ley publicada en Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 29 de julio de 2013.
 
@@ -307,7 +307,7 @@ w. Fomento de los modos no motorizados de transporte, tales como el modo peatón
 
 x. Desarrollo de sistemas de transporte urbano con crecientes grados de integración física, operativa y tarifaria para atender el interés público, adoptando alternativas tecnológicas apropiadas, armonizando los requerimientos de movilidad de la población con la protección del medio ambiente, el incremento de la productividad, y en consonancia con el uso y ocupación del suelo, el sistema vial y los niveles y características de la demanda;
 
-y. Implementación de sistemas tronco-alimentados en las ciudades, cuando así lo aconsejen estudios técnicos y económicos, diseñando redes con Corredores o Ejes Troncales de tránsito segregado o preferencial servidos con grandes unidades vehiculares y alimentación en estaciones y terminales con vehículos de menores dimensiones; en todos los casos con la debida complementación e integración con los sistemas guiados urbanos, prevaleciendo la visión sistémica de la red de servicios; y (sic)
+y. Implementación de sistemas tronco-alimentados en las ciudades, cuando así lo aconsejen estudios técnicos y económicos, diseñando redes con Corredores o Ejes Troncales de tránsito segregado o preferencial servidos con grandes unidades vehiculares y alimentación en estaciones y terminales con vehículos de menores dimensiones; en todos los casos con la debida complementación e integración con los sistemas guiados urbanos, prevaleciendo la visión sistémica de la red de servicios; y
 
 z. Implantación de sistemas electrónicos de pago tarifario en las redes de transporte urbano, procurando la constitución de fondos fiduciarios aptos para avalar operaciones de inversión pública y privada en medios, equipamientos e infraestructura, y facilitar la adopción de esquemas sociales y tarifarios direccionados a grupos determinados de usuarios; y
 
@@ -396,6 +396,10 @@ El Reglamento respectivo determinará las formalidades y el procedimiento para i
 ###### Artículo 14.
 
 La Autoridad Competente, a través de los Inspectores de Vías Públicas de competencia Estatal, podrá ordenar la detención y aseguramiento de los vehículos que, aun contando con la concesión, el permiso o la autorización correspondiente, sean sorprendidos violando las disposiciones de esta Ley o el Reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2015)</small>
+
+En los casos a los que se refiere el artículo 204, fracción I, incisos a, b y c, el Organismo del Transporte Masivo, a través de los Inspectores de Vías Públicas de competencia Estatal, podrá ordenar la detención y aseguramiento de los vehículos, sean de servicio público o de particulares y, en su caso, sancionar a quienes incurran en tales supuestos; para tales efectos, el Organismo del Transporte Masivo, de estimarlo necesario, podrá convenir con las autoridades Estatales o Municipales las medidas de coordinación y de colaboración y, cuando así corresponda, delegar en ellas el ejercicio parcial o total de dicha función.
 
 ###### Artículo 15.
 
@@ -2389,6 +2393,10 @@ De requerirse, se modificará la geometría de la vía pública conforme a los r
 
 Cualquier obra mayor o de mantenimiento que se lleve a cabo con posterioridad al inicio de actividades del Corredor, deberá garantizar y preservar la continuidad de la prestación y la operación del Servicio Público de Transporte Masivo de Pasajeros en dicho Corredor.
 
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2015)</small>
+
+Los Corredores y las Rutas Troncales que operan en los carriles exclusivos, reservados o preferenciales de que éstos se conforman, son de competencia Estatal; al efecto, una vez emitida la declaratoria de cada Corredor, el Organismo del Transporte Masivo convendrá, según se trate, con la Federación, el Estado o los Municipios lo relativo a la entrega y recepción de la infraestructura pública que resulte indispensable para la operatividad del Corredor correspondiente.
+
 ###### Artículo 204.
 
 Para mejorar las condiciones de vialidad, en la operación de los Corredores, se aplicarán las siguientes restricciones:
@@ -3977,9 +3985,11 @@ En todos los casos, la Autoridad Competente podrá determinará (sic) el monto d
 
 La Autoridad Competente, de acuerdo a sus respectivas atribuciones, está facultada para imponer cualquiera de las sanciones establecidas en el artículo anterior, cuando para la infracción cometida no exista una aplicable al caso concreto en esta Ley o el Reglamento respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 323.
 
-La Autoridad Competente, en lo aplicable y de acuerdo a sus respectivas competencias y atribuciones, impondrá la multa por los montos e infracciones siguientes:
+Por tratarse de cuestiones de orden público e interés social que, de no sancionarse, atentan contra la economía de los usuarios y de cometerse incluso conllevan un riesgo para la seguridad colectiva, para la integridad física y la vida de los usuarios de las Vías Públicas de competencia Estatal y para la de los propios usuarios los Servicios de Transporte tutelados en esta Ley, la Autoridad Competente, en lo aplicable y de acuerdo a sus respectivas competencias y atribuciones, impondrá la multa por los montos e infracciones siguientes:
 
 I. Toda persona que altere, modifique o falsifique las placas reglamentarias o los documentos relativos a la matriculación de los vehículos, será sancionado con la aplicación de una multa equivalente al importe de mil novecientos cincuenta hasta dos mil quinientos días de salario mínimo vigente en la Entidad; aunado a lo anterior, de los hechos se dará conocimiento al Ministerio Público, para los efectos procedentes;
 
@@ -4005,7 +4015,13 @@ XI. Se impondrá multa de treinta hasta cincuenta días de salario mínimo diari
 
 XII. Se impondrá multa de ochenta hasta cien días de salario mínimo diario vigente en el Estado a quienes infrinjan lo preceptuado en los artículos: 23 fracción XII, 24 párrafo tercero en cualquiera de sus supuestos; 59; 73, 89; 90; 95 párrafo primero; 115 párrafo segundo; 302 párrafos segundo y tercero; 304 fracción XVI; y 305 fracciones V y XV.
 
-XIII. Se impondrá multa de ciento treinta hasta ciento cincuenta días de salario mínimo diario vigente en el Estado a quienes infrinjan lo preceptuado en los artículos: 35; 36 fracción V; 37; 55; 65 párrafo segundo; 77; 91; 94 párrafo tercero; 102 en todas sus fracciones; 117; 119; 126 párrafos primero y segundo; 143 fracción II; 182 párrafos primero y segundo; 183; 204 fracción I, incisos a al e; 204 fracción II, inciso b; 223 párrafos primero y segundo; 304 fracciones I, II, III, VIII, IX, X, XIII, XIV, XVII, XVIII, XXI, XXII y XXIII; y 305 fracciones II, VI, VII, XIII, XIV, XVI, XVII, XVIII, XIX y XX;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2015)</small>
+
+XIII. Se impondrá multa de ciento treinta hasta ciento cincuenta días de salario mínimo diario vigente en el Estado a quienes infrinjan lo preceptuado en los artículos: 35; 36 fracción V; 37; 55; 65 párrafo segundo; 77; 91; 94 párrafo tercero; 102 en todas sus fracciones; 117; 119; 126 párrafos primero y segundo; 143 fracción II; 182 párrafos primero y segundo; 183; 204 fracción I, incisos d y e; 204 fracción II, inciso b; 223 párrafos primero y segundo; 304 fracciones I, II, III, VIII, IX, X, XIII, XIV, XVII, XVIII, XXI, XXII y XXIII; y 305 fracciones II, VI, VII, XIII, XIV, XVI, XVII, XVIII, XIX y XX;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2015)</small>
+
+XIII BIS. Se impondrá multa de sesenta hasta ochenta días de salario mínimo diario vigente en el Estado a quienes infrinjan lo preceptuado en el artículo 204 fracción I, incisos a al c;
 
 XIV. Se impondrá multa hasta por veinte días de salario mínimo diario vigente en el Estado a quienes infrinjan lo preceptuado en los artículos 45, 60 párrafo segundo; 63; 142 o (sic) 271; y
 
@@ -4083,7 +4099,9 @@ DÉCIMO. Toda concesión, permiso o autorización que a la entrada en vigor de l
 
 DÉCIMO PRIMERO. Se faculta a la Dependencia para acordar, normar, implementar, ejecutar, regular y operar en cualquier tiempo a través del Organismo del Transporte Convencional y del Organismo del Transporte Masivo, según el caso de que se trate, la reorganización y regularizaciones que sean necesarias para el correcto funcionamiento, el mejoramiento o la modernización de los servicios materia de esta Ley.
 
-DÉCIMO SEGUNDO. El Gobernador del Estado expedirá los Reglamentos de la presente Ley, dentro de los doce meses posteriores a la promulgación de la presente Ley y se publicarán en el Periódico Oficial del Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2015)</small>
+
+DÉCIMO SEGUNDO. El Gobernador del Estado expedirá los Reglamentos de la presente Ley, y se publicarán en el Periódico Oficial del Estado.
 
 Se reglamentará lo correspondiente a la autorización de colocación de los servicios publicitarios, los de promoción visual y la propaganda política, de conformidad a lo establecido en la Legislación Electoral, en lo que corresponde a Terminales, Centros de Transferencia Modal, Estaciones, Bases, Sitios, Paraderos, Paradores y a vehículos del Servicio de Transporte Masivo, Colectivo o Individual, así como la seguridad y contaminación visual que pudiese generar.
 
@@ -4110,3 +4128,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
