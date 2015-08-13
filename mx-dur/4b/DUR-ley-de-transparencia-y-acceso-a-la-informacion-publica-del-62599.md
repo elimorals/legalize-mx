@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-6259
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-13"
-last_updated: "2013-05-30"
+last_updated: "2015-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE DURANGO
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE DURANGO
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 13 de julio de 2008.
 
@@ -771,7 +771,7 @@ Ninguna persona puede ser obligada a proporcionar datos personales. Los datos pe
 
 ###### Artículo 42.
 
-Los datos personales que se recaven a los efectos de su tratamiento deben ser ciertos, adecuados, pertinentes y no excesivos en relación al ámbito y finalidad para los que se hubiesen obtenido, permitiendo con ello el ejercicio de acceso a los mismos por su titular.
+Los datos personales que se recaven (sic) a los efectos de su tratamiento deben ser ciertos, adecuados, pertinentes y no excesivos en relación al ámbito y finalidad para los que se hubiesen obtenido, permitiendo con ello el ejercicio de acceso a los mismos por su titular.
 
 La recopilación de datos personales no puede hacerse por medios fraudulentos o en forma contraria a las disposiciones de la presente ley, y no podrán utilizarse para finalidades distintas e incompatibles con aquellas que motivaron su obtención.
 
@@ -1043,13 +1043,19 @@ VII. No haber sido condenado por delito doloso que amerite pena corporal de más
 
 VIII. Acreditar conocimiento y experiencia en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 66.
 
-Los comisionados durarán en su encargo un período de siete años y no serán reelegibles. Los comisionados no podrán ser retirados de sus cargos durante el período para el que fueron nombrados, salvo lo dispuesto por el Titulo Quinto de la Constitución Política del Estado, por causa grave que calificará el Congreso del Estado.
+Los comisionados durarán en su encargo un período de siete años y no serán reelegibles. Los comisionados no podrán ser retirados de sus cargos durante el período para el que fueron nombrados, salvo lo dispuesto por el Titulo Séptimo, Capítulo Tercero de la Constitución Política del Estado, por causa grave que calificará el Congreso del Estado.
 
 Este cargo es incompatible con cualquier otro empleo salvo la docencia, esta última siempre y cuando no se trate de tiempo completo.
 
 Las ausencias temporales y definitivas de los comisionados propietarios serán cubiertas por los respectivos suplentes. En caso de falta definitiva de ambos se procederá a la designación de un nuevo comisionado para concluir el período respectivo en los términos previstos por esta ley.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2015)</small>
+
+En caso de renuncia de comisionados, cuando ésta se lleve a cabo después de los cuatro años de su gestión, el nombramiento relativo para ocupar esa vacante se hará por un nuevo período.
 
 ###### Artículo 67.
 
@@ -1456,3 +1462,9 @@ P.O. 30 DE MAYO DE 2013.
 PRIMERO. El presente decreto entrará (sic) al día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan lo previsto en el presente decreto.
+
+P.O. 13 DE AGOSTO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Segundo. Se derogan todas las disposiciones legales que se opongan al contenido del presente Decreto.
