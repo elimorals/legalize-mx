@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-la-comision-estatal-de-derechos-humanos-de-durango-10102
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-06"
-last_updated: "2014-05-06"
+last_updated: "2015-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2015.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 6 de mayo de 2014.
 
@@ -209,7 +209,9 @@ En los casos de las ausencias definitivas del Presidente de la Comisión o de lo
 
 El Presidente de la Comisión y los consejeros, cesarán en su gestión, por alguna de las siguientes causas:
 
-I. Por renuncia justificada, previa aceptación de la misma;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2015)</small>
+
+I. Por renuncia justificada, previa aceptación de la misma. Cuando la renuncia se lleve a cabo después de los tres años de su gestión, el nombramiento para ocupar esa vacante se hará por un nuevo período.
 
 II. Por muerte o enfermedad grave que le imposibilite seguir en forma adecuada el desempeño de sus funciones, o
 
@@ -910,3 +912,11 @@ C. P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. JAIME FERNANDEZ SARACHO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE AGOSTO DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
