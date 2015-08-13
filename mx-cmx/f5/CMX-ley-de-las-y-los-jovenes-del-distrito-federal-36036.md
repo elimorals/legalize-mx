@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-las-y-los-jovenes-del-distrito-federal-36036"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-25"
-last_updated: "2011-07-12"
+last_updated: "2015-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36036&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2000-05-30"
 ---
 # LEY DE LAS Y LOS JOVENES DEL DISTRITO FEDERAL
 
-LEY DE LAS Y LOS JOVENES DEL DISTRITO FEDERAL
+LEY DE LAS Y LOS JÓVENES DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE JULIO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO PRIMERO DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES EN LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 13 DE AGOSTO 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2015 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 25 de julio del 2000.
 
@@ -240,7 +242,7 @@ III. Mejorar la educación media superior y superior, así como el desarrollo de
 
 IV. Prevenir, erradicar y sancionar todas las formas de castigos físicos o psicológicos, o sanciones disciplinarias crueles, inhumanas o degradantes;
 
-V. Garantizar el libre funcionamiento de las organizaciones estudiantiles; y (sic)
+V. Garantizar el libre funcionamiento de las organizaciones estudiantiles; y
 
 VI. Promover la investigación, formación y la creación científicas;
 
@@ -1166,10 +1168,24 @@ Artículo Segundo. Publíquese en la Gaceta Oficial del Distrito Federal y para 
 
 Artículo Tercero. La presente reforma entrará en vigor al día siguiente de su publicación.
 
-D.O.F. 12 DE JULIO DE 2011.
+G.O. 12 DE JULIO DE 2011.
 
 Artículo Primero. La presente reforma entrará en vigor al día siguiente de su publicación.
 
 Artículo Segundo. Por única ocasión, el "Premio de la Juventud del Distrito Federal 2011", se entregará el 13 de agosto de 2012 y premiará las actividades de los jóvenes que correspondan al período comprendido de enero de 2011 a junio de 2012. Para los premios subsecuentes, el calendario de actividades se computará de septiembre a junio del año siguiente.
 
 Artículo Tercero. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor conocimiento en el Diario Oficial de la Federación.
+
+G.O. 13 DE AGOSTO DE 2015.
+
+PRIMERO.- Se abroga la Ley de las y los Jóvenes del Distrito Federal, y su reglamento.
+
+SEGUNDO.- La presente ley entrarán (sic) en vigor al día siguiente de su publicación.
+
+TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
+
+CUARTO.- El Jefe de Gobierno del Distrito Federal adoptará las medidas correspondientes para la expedición del Reglamento de la presente ley, a efecto de que su entrada en vigor sea dentro de un plazo que no excederá de ciento veinte días naturales contados a partir de la publicación de la misma.
+
+QUINTO.- Se deberán hacer las adecuaciones normativas al Reglamento Interior de la Administración Pública del Distrito Federal para adaptarlo a la presente ley, en un plazo no mayor a 90 días.
+
+SEXTO.- Para los casos en que el cumplimiento de esta norma implique la generación de nuevas unidades de gasto, éstas estarán sujetas a la implementación del esquema de gastos compensados, o en su caso, a la suficiencia presupuestal respectiva avalada por la Secretaría de Finanzas del Gobierno del Distrito Federal.
