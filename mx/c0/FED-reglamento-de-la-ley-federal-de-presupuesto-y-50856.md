@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-de-presupuesto-y-50856"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-28"
-last_updated: "2014-10-31"
+last_updated: "2015-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50856&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-06-27"
 
 REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE AGOSTO DE 2015.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el miércoles 28 de junio de 2006.
 
@@ -3361,7 +3361,11 @@ IV. Los recursos podrán otorgarse únicamente para el cumplimiento del objeto o
 
 V. Los beneficiarios deberán encontrarse al corriente en el cumplimiento de sus obligaciones fiscales;
 
-VI. En caso de que los subsidios rebasen el 51 por ciento del gasto de operación de la sociedad o asociación civil para el ejercicio fiscal correspondiente, la dependencia o entidad que pretenda otorgar el subsidio deberá solicitar la autorización a que se refiere el artículo 8 E, fracción III, de este Reglamento, y
+> <small>(REFORMADA, D.O.F. 13 DE AGOSTO DE 2015)</small>
+
+VI. En caso de que los subsidios rebasen el 50 por ciento del gasto de operación de la sociedad o asociación civil para el ejercicio fiscal correspondiente, la dependencia o entidad que pretenda otorgar el subsidio deberá solicitar la autorización a que se refiere el artículo 8 E, fracción III de este Reglamento.
+
+Una vez obtenida dicha autorización, no se requerirá tramitarla para los años subsecuentes, quedando el otorgamiento del subsidio sujeto al cumplimiento de las demás condiciones establecidas en el presente artículo y en el artículo 175 Ter de este Reglamento, y
 
 VII. Los subsidios quedarán sujetos a los recursos que para tal fin se aprueben en el Presupuesto de Egresos del ejercicio fiscal correspondiente.
 
@@ -5000,3 +5004,31 @@ Las sociedades o asociaciones civiles y el fideicomiso a que se refiere este art
 SEXTO.- Dentro de los noventa días hábiles siguientes a la entrada en vigor del presente Decreto, las dependencias y entidades deberán informar a la Secretaría de los recursos públicos otorgados en el último ejercicio fiscal, bajo cualquier figura, a cualquier empresa mercantil, sociedad o asociación civil.
 
 Una vez completado el informe a que se refiere el párrafo anterior, la Secretaría ordenará, en su caso, las medidas que resulten conducentes.
+
+D.O.F. 13 DE AGOSTO DE 2015.
+
+Primero.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las sociedades o asociaciones civiles, incluyendo aquéllas a que se refiere el transitorio Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, publicado el 31 de octubre de 2014 en el Diario Oficial de la Federación, así como el fideicomiso a que se refiere dicho transitorio, que antes de la entrada en vigor del presente Decreto estén recibiendo o hayan recibido recursos públicos para su operación y se ubiquen en el supuesto previsto en la fracción VI del artículo 175 Bis de este ordenamiento, continuarán recibiendo dichos recursos, de acuerdo con el Presupuesto de Egresos del ejercicio fiscal correspondiente. Asimismo, para efectos de lo previsto en la fracción I del artículo 175 Bis del presente Reglamento, las sociedades o asociaciones civiles que se sitúan en dicho supuesto son:
+
+I. Academia Mexicana de la Lengua, Asociación Civil;
+
+II. El Colegio Nacional, Asociación Civil;
+
+III. Instituto Nacional de Administración Pública, Asociación Civil;
+
+IV. Asociación Nacional de Universidades e Instituciones de Educación Superior, Asociación Civil;
+
+V. Comités Interinstitucionales para la Evaluación de la Educación Superior, Asociación Civil;
+
+VI. Universidad Obrera de México, Vicente Lombardo Toledano, Asociación Civil;
+
+VII. Consejo para la Acreditación de la Educación Superior, Asociación Civil;
+
+VIII. Consejo para la Evaluación de la Educación del tipo Media Superior, Asociación Civil, y
+
+IX. Centro de Educación y Capacitación para los Trabajadores, Asociación Civil.
+
+Las dependencias y entidades con cargo a cuyos presupuestos se otorguen los subsidios a que se refiere el párrafo primero del presente transitorio, contarán con noventa días naturales, contados a partir de la entrada en vigor del mismo, para celebrar los convenios a que se refiere el artículo 175 Ter del Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+Tercero.- El Instituto Nacional de Administración Pública, Asociación Civil podrá, sujeto a la disponibilidad presupuestaria, recibir el subsidio a que se refiere este Decreto, a partir del 1 de enero de 2016.
