@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-del-organo-garante-de-la-62168"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-14"
-last_updated: "2013-11-14"
+last_updated: "2015-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62168&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-07-10"
 
 REGLAMENTO DE SESIONES DEL ÓRGANO GARANTE DE LA TRANSPARENCIA Y EL ACCESO A LA INFORMACIÓN DEL INSTITUTO FEDERAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO TRANSITORIO DEL REGLAMENTO DE SESIONES DEL ÓRGANO GARANTE DE LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL INSTITUTO NACIONAL ELECTORAL, PUBLICADO EN LA SECCIÓN QUINTA DEL D.O.F. DE 14 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 14 de agosto de 2008.
 
@@ -620,3 +622,9 @@ D.O.F. 14 DE NOVIEMBRE DE 2013.
 Primero.- El presente Acuerdo entrará en vigor el día siguiente a su publicación en el Diario Oficial de la Federación.
 
 Segundo.- En términos de lo establecido en los artículos 85 y 86 del Reglamento Interior del Instituto Federal Electoral, se deberá crear una comisión temporal a fin de elaborar el proyecto de reforma en el que se realicen las adecuaciones referentes al Reglamento Interior del Instituto Federal Electoral y se sometan a la consideración de este órgano máximo de dirección.
+
+D.O.F. 14 DE AGOSTO DE 2015.
+
+Primero.- Se abroga el Reglamento de Sesiones del Órgano Garante de la Transparencia y el Acceso a la Información del Instituto Federal Electoral, aprobado en sesión extraordinaria del Consejo General, celebrada el 10 de julio de 2008, mediante Acuerdo CG308/2008, publicado en el Diario Oficial de la Federación el día 14 de agosto del mismo año, así como sus reformas y adiciones.
+
+Segundo.- Las presentes disposiciones serán vigentes hasta la entrada en vigor de la legislación secundaria derivada de la reforma al artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 07 de febrero de 2014.
