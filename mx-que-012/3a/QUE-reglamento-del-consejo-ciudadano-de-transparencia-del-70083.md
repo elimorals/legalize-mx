@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-consejo-ciudadano-de-transparencia-del-70083"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-28"
-last_updated: "2009-08-28"
+last_updated: "2015-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "QUE"
 ---
 # REGLAMENTO DEL CONSEJO CIUDADANO DE TRANSPARENCIA DEL MUNICIPIO DE PEDRO ESCOBEDO, QUERETARO
 
-REGLAMENTO DEL CONSEJO CIUDADANO DE TRANSPARENCIA DEL MUNICIPIO DE PEDRO ESCOBEDO, QUERETARO
+REGLAMENTO DEL CONSEJO CIUDADANO DE TRANSPARENCIA DEL MUNICIPIO DE PEDRO ESCOBEDO, QUERÉTARO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE PEDRO ESCOBEDO, QUERÉTARO, PUBLICADO EN EL P.O. DE 14 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 28 de agosto de 2009.
 
@@ -249,7 +251,7 @@ El Consejo Ciudadano de Transparencia del Municipio de Pedro Escobedo, Querétar
 
 I. Para los servidores públicos, cualquiera de las establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro;
 
-II. Los integrantes ciudadanos, cuando en el ejercicio de sus funciones generen violaciones graves y sistemáticas a las garantías individuales y sociales, faltando a los principios por los cuales se instituye la Comisión de Transparencia del Municipio de Pedro Escobedo, Querétaro; y (sic)
+II. Los integrantes ciudadanos, cuando en el ejercicio de sus funciones generen violaciones graves y sistemáticas a las garantías individuales y sociales, faltando a los principios por los cuales se instituye la Comisión de Transparencia del Municipio de Pedro Escobedo, Querétaro; y
 
 III. Faltar por tres ocasiones consecutivas sin justificación a las sesiones que se convoquen debidamente para los trabajos del Pleno de la Comisión de Transparencia del Municipio de Pedro Escobedo, Querétaro.
 
@@ -518,3 +520,23 @@ LIC. MANUEL LANDEROS PIÑA
 SECRETARIO DEL H. AYUNTAMIENTO DE PEDRO ESCOBEDO, QRO.
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE AGOSTO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Municipal y en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el “Reglamento del Consejo Ciudadano de Transparencia del Municipio de Pedro Escobedo, Querétaro” publicado en el Periódico Oficial de (sic) Gobierno del Estado “La Sombra de Arteaga”, el 28 de agosto de 2009 (P.O. No. 61).
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por el presente Reglamento Interior.
