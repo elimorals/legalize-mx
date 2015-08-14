@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-de-los-consejos-locales-y-61953"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-18"
-last_updated: "2011-08-17"
+last_updated: "2015-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61953&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-06-27"
 
 REGLAMENTO DE SESIONES DE LOS CONSEJOS LOCALES Y DISTRITALES DEL INSTITUTO FEDERAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE AGOSTO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO TRANSITORIO DEL REGLAMENTO DE SESIONES DE LOS CONSEJOS LOCALES Y DISTRITALES DEL INSTITUTO NACIONAL ELECTORAL, PUBLICADO EN LA QUINTA SECCIÓN DEL D.O.F. DE 14 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 18 de julio de 2008.
 
@@ -613,7 +615,7 @@ a) El Consejero que se considere impedido deberá presentar al Presidente, previ
 
 b) En caso de tratarse del Presidente, deberá manifestarlo en la sesión del Consejo, previo al momento de iniciar la discusión del punto particular.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE JUNIO DE 2011)</small>
 
 4. En caso de tener conocimiento de alguna causa que impida al Presidente o a cualquiera de los Consejeros conocer o intervenir en la atención, tramitación o Resolución de algún asunto, se podrá formular recusación, siempre y cuando se efectúe previo al momento de iniciar la discusión del caso particular. Para los efectos del presente artículo, se entenderá por recusación, el acto o petición expresa de inhibir para dejar de conocer sobre determinado asunto, que se formule durante las sesiones del Consejo.
 
@@ -941,7 +943,7 @@ Segundo.- Se abroga el Reglamento de Sesiones de los Consejos Locales y Distrita
 
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 27 de junio de dos mil ocho.- El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 18 DE JULIO DE 2008.
 
@@ -959,8 +961,14 @@ Sexto.- El presente Reglamento deberá publicarse en la Gaceta del Instituto Fed
 
 D.O.F. 28 DE JUNIO DE 2011.
 
-EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 D.O.F. 17 DE AGOSTO DE 2011.
 
-EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 14 DE AGOSTO DE 2015.
+
+Primero.- Se abroga el Reglamento de Sesiones de los Consejos Locales y Distritales del Instituto Federal Electoral, publicado en el Diario Oficial de la Federación el 18 de julio de 2008, así como sus reformas y adiciones.
+
+Segundo.- Los asuntos que se encuentren en trámite al momento de la entrada en vigor del presente Reglamento, continuarán hasta su conclusión de conformidad con las normas vigentes al momento de su inicio.
