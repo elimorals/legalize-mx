@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-oficialia-mayor-del-estado-de-63946"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-10"
-last_updated: "2008-10-10"
+last_updated: "2015-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # REGLAMENTO INTERIOR DE LA OFICIALIA MAYOR DEL ESTADO DE QUERETARO
 
-REGLAMENTO INTERIOR DE LA OFICIALIA MAYOR
+REGLAMENTO INTERIOR DE LA OFICIALÍA MAYOR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA OFICIALÍA MAYOR, PUBLICADO EN EL P.O. DE 14 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 10 de octubre de 2008.
 
@@ -358,3 +360,13 @@ Arq. Luis Miguel Sánchez Canterbury
 Oficial Mayor
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE AGOSTO DE 2015.
+
+Artículo primero. El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo segundo. Se abroga el Reglamento Interior de la Oficialía Mayor publicado en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", de fecha 10 de octubre de 2008.
+
+Artículo tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente reglamento.
