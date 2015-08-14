@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-junta-local-de-conciliacion-y-6623"
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-05-21"
-last_updated: "1984-05-21"
+last_updated: "2015-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DEL ESTADO DE SINALOA
 
-REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE DEL ESTADO DE SINALOA
+REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DEL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 14 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 21 de mayo de 1984
 
@@ -61,7 +63,7 @@ Corresponde al encargado de la sección de archivo y correspondencia recibir tod
 
 ###### ARTICULO 7o.
 
-Las promociones que se presenten fuera de las labores ordinarias de la Junta, se recibirán por el Secretario General o el Secretario de Acuerdos, tratándose de las Juntas Especiales, en el propio local de la Junta o en su domicilio particular, debiendo el Secretario entregar dichas promociones para su registro en la sección de archivo y correspondencia, a primera hora del día siguiente: (sic)
+Las promociones que se presenten fuera de las labores ordinarias de la Junta, se recibirán por el Secretario General o el Secretario de Acuerdos, tratándose de las Juntas Especiales, en el propio local de la Junta o en su domicilio particular, debiendo el Secretario entregar dichas promociones para su registro en la sección de archivo y correspondencia, a primera hora del día siguiente:
 
 ###### ARTICULO 8o.
 
@@ -409,7 +411,7 @@ o).- Las demás que les asignen la Ley Federal del Trabajo, el Presidente de la 
 
 ###### ARTICULO 38.
 
-La Junta contará con el número de empleados que señala el presupuesto; (sic)
+La Junta contará con el número de empleados que señala el presupuesto;
 
 ###### ARTICULO 39.
 
@@ -443,7 +445,7 @@ XII).- Las demás que les asigne la Ley Federal del Trabajo, el Presidente de la
 
 ###### ARTICULO 40.
 
-El Secretario General, previo acuerdo con el Presidente, hará los movimientos de personal que considere convenientes para el mejor funcionamiento de la Junta; (sic)
+El Secretario General, previo acuerdo con el Presidente, hará los movimientos de personal que considere convenientes para el mejor funcionamiento de la Junta;
 
 ### CAPITULO DECIMO SEGUNDO. DE LA SECCION DE ARCHIVO Y CORRESPONDENCIA
 
@@ -477,7 +479,7 @@ J).- Los expedientes formados con las copias de la correspondencia despachada po
 
 K).- La papelería y útiles de oficina; y
 
-L).- Los libros, publicaciones y demás documentos que pertenezcan a la biblioteca de la Junta; (sic)
+L).- Los libros, publicaciones y demás documentos que pertenezcan a la biblioteca de la Junta;
 
 ###### ARTICULO 43.
 
@@ -661,7 +663,7 @@ Las Juntas Especiales quedarán integradas en su funcionamiento y régimen jurí
 
 ###### ARTICULO 54.
 
-Las Juntas Especiales se integrarán con el Presidente de la Junta Especial y con los respectivos Representantes de los Trabajadores y de los Patrones, salvo el caso contemplado en el artículo siguiente: (sic)
+Las Juntas Especiales se integrarán con el Presidente de la Junta Especial y con los respectivos Representantes de los Trabajadores y de los Patrones, salvo el caso contemplado en el artículo siguiente:
 
 ###### ARTICULO 55.
 
@@ -862,3 +864,23 @@ VICTOR MANUEL ZATARAIN VELARDE
 El Secretario General
 
 LIC. APOLONIO MANJARREZ SERRANO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE AGOSTO DE 2015.
+
+###### ARTICULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+El presente Reglamento abroga el de fecha veintiuno de mayo de 1984.
+
+###### ARTÍCULO TERCERO.
+
+Este Reglamento también será aplicable al personal que le resulte, en caso de creación de la Junta Especial Número Cinco de la Local de Conciliación y Arbitraje del Estado de Sinaloa, con jurisdicción para conocer y resolver conflictos obrero patronales que se susciten en contra de las Entidades Públicas Paraestatales, de igual manera será aplicable a las Juntas Especiales que en lo futuro se llegaren a establecer por razón de materia, territorio o causa legal que lo justifique.
+
+###### ARTÍCULO CUARTO.
+
+Este Reglamento fue aprobado en sesión ordinaria del Pleno de la Junta Local de Conciliación y Arbitraje del Estado celebrada el 08 de Julio de 2015 en la ciudad de Culiacán Rosales, Sinaloa.
