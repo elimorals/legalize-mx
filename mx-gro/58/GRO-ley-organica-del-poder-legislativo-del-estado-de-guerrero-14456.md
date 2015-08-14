@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-14456
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-06-11"
-last_updated: "2012-09-21"
+last_updated: "2015-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 286
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE SEPTIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 11 de junio de 1999.
 
@@ -773,6 +771,10 @@ XXVIII. Para la Atención del Acceso a la Información Pública.
 
 XXIX. De Cultura.
 
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2015)</small>
+
+XXX. De los Derechos de las Niñas Niños y Adolescentes.
+
 Las Comisiones anteriormente enunciadas, podrán ser incrementadas a juicio del Congreso, y tendrán a su cargo el trámite y la resolución de los asuntos relacionados con su competencia, así como las que expresamente les delegue el Pleno.
 
 ###### Artículo 50.
@@ -1040,6 +1042,24 @@ V. Los relativos a las radiodifusoras y televisoras del Estado;
 VI. Los vinculados con el fomento a la actividad de los periodistas, y
 
 VII. Los demás análogos que, a juicio del Presidente del Congreso o de la Comisión Permanente, en su caso, le sean turnados.
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2015)</small>
+
+###### Artículo 64 Bis.
+
+A la Comisión de los Derechos de las Niñas Niños y Adolescentes le corresponde conocer de las iniciativas y asuntos siguientes:
+
+I.- Lo relativo a la promoción, respeto, protección y garantía de los derechos de niñas, niños y adolescentes;
+
+II.- Los relativos a la legislación adecuada a las leyes mexicanas, acorde con los tratados internacionales, especialmente los que contemplan los derechos de las niñas, niños y adolescentes;
+
+III.- Promover y procurar que los programas y planes de las dependencias y entidades del sector público. El principio del interés superior del niño sea considerado prioritario en la planeación y ejecución de políticas públicas;
+
+IV.- Orientar tanto el diseño y garantía de los derechos y políticas públicas a una efectiva igualdad;
+
+V.- Procurar y vigilar que a los programas y políticas públicas dirigidas a niñas, niños y adolescentes se destine presupuesto suficiente que garantice el reconocimiento, goce y disfrute pleno de sus derechos;
+
+VI.- Los demás análogos que, a juicio el (sic) Presidente del Congreso o de la comisión permanente, en su caso, le sean turnados.
 
 ###### Artículo 65.
 
@@ -1399,7 +1419,7 @@ Los dictámenes que emitan las Comisiones y Comités en los recesos serán lista
 
 Dentro de la última semana de cada receso, las Comisiones y Comités deberán presentar un informe de las actividades desarrolladas durante el receso y un listado de los asuntos dictaminados.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE ENERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE ENERO DE 2011)</small>
 
 ### Capítulo IV. De las Fracciones Parlamentarias y Representaciones Parlamentarias
 
@@ -1873,7 +1893,7 @@ Los empates en las votaciones se decidirán repitiéndolas, y en caso de que és
 
 Los Diputados deberán excusarse y podrán ser recusados para votar estando en la sesión, cuando tengan interés personal en el asunto y así lo justifiquen ante el Pleno.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2005)</small>
 
 ## TITULO SEPTIMO. De las comparecencias, ratificación de nombramientos y aprobación del Plan Estatal de Desarrollo
 
@@ -2355,7 +2375,7 @@ XI.- Distribuir una copia fiel a su original de las proposiciones y los dictáme
 
 XII. Las demás que le encomiende esta Ley, el Pleno o la Comisión Permanente, según corresponda.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ### Capítulo IV. De la Auditoria General del Estado
 
@@ -2708,3 +2728,19 @@ Por única ocasión, la Comisión Instaladora de la Legislatura, se nombrará a 
 ###### ARTÍCULO CUARTO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado, no requiriendo la sanción del Titular del Poder Ejecutivo Estatal.
+
+P.O. 14 DE AGOSTO DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 857 POR MEDIO DEL CUAL SE ADICIONA LA FRACCIÓN XXX, AL ARTÍCULO 49 Y EL ARTÍCULO 64 BIS, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 286”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de su fecha de expedición.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado para el conocimiento general y efectos legales procedentes.
+
+###### ARTÍCULO TERCERO.
+
+La integración de la Comisión de los Derechos de las Niñas Niños y Adolescentes será designada por la Comisión de Gobierno.
