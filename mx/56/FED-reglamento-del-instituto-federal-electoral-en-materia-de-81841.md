@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-federal-electoral-en-materia-de-81841"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-28"
-last_updated: "2013-11-14"
+last_updated: "2015-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81841&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2011-06-23"
 
 REGLAMENTO DEL INSTITUTO FEDERAL ELECTORAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, PUBLICADO EN EL D.O.F. DE 14 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 28 de junio de 2011.
 
@@ -217,7 +219,7 @@ VIGESIMO.- Que retomando el motivo de la presente abrogación, es decir que la m
 
 VIGESIMO PRIMERO.- Que las razones que motivaron a reformar los artículos 42 Del procedimiento, 44 De los efectos de las resoluciones y 47 Del desechamiento, obedecen al propósito de mejorar el procedimiento para la sustanciación, Resolución y desechamiento en su caso de los recursos de revisión interpuestos ante el Organo Garante, planteándose en esta reforma una temporalidad para la figura jurídica de la prevención, que por su naturaleza legal permite subsanar las deficiencias que se presenten en los recursos de revisión; por lo tanto, se incorpora una hipótesis que contempla la figura jurídica del desechamiento, la cual surte efectos legales, solo si, el recurrente no desahoga en tiempo y forma la prevención que al respecto le notifique la Secretaría Técnica; todo ello en atención al principio de expedites constitucional, que debe prevalecer en la elaboración de los proyectos de Resolución del Organo Garante, así como en función de compensar la inexistencia de estos supuestos legales en el Reglamento; es por ello que se establece esta nueva facultad a la Secretaría Técnica para conocer únicamente de aquellos recursos que cumplan con la obligatoriedad del procedimiento; sin que sea necesario implementar recursos humanos y materiales, para el despacho de asuntos improcedentes.
 
-VIGESIMO SEGUNDO.- Que el artículo 16 constitucional establece que toda persona tiene derecho al acceso, rectificación y cancelación de sus datos personales, así como a manifestar su oposición a los mismos. Por tal motivo, en el artículo 32, párrafo 8 se establece la necesidad crear (sic) un mecanismo a través del cual todos los ciudadanos puedan consultar, con certeza, si se encuentran inscritos en alguno de estos institutos políticos; así como de los mecanismos que les permitan la rectificación, cancelación y oposición de sus datos. Del mismo modo, es necesario emitir unos nuevos Lineamientos que garanticen efectivamente el acceso, rectificación, cancelación y oposición de datos personales en posesión del Registro Federal de Electores, mismos que fueron impactados en el artículo 32, párrafos, 2, 4 y 7.
+VIGESIMO SEGUNDO.- Que el artículo 16 constitucional establece que toda persona tiene derecho al acceso, rectificación y cancelación de sus datos personales, así como a manifestar su oposición a los mismos. Por tal motivo, en el artículo 32, párrafo 8 se establece la necesidad (sic) crear un mecanismo a través del cual todos los ciudadanos puedan consultar, con certeza, si se encuentran inscritos en alguno de estos institutos políticos; así como de los mecanismos que les permitan la rectificación, cancelación y oposición de sus datos. Del mismo modo, es necesario emitir unos nuevos Lineamientos que garanticen efectivamente el acceso, rectificación, cancelación y oposición de datos personales en posesión del Registro Federal de Electores, mismos que fueron impactados en el artículo 32, párrafos, 2, 4 y 7.
 
 VIGESIMO TERCERO.- Que en la misma línea de protección de datos personales, en el artículo 32, párrafo 3 se precisa la emisión de unos Lineamientos por los que se garantice la salvaguarda y protección de los datos personales en posesión del Registro Federal de Electores. Debido a que no se ha regulado la forma de acceso y entrega de la información a sujetos autorizados como son los integrantes de los Consejos General, Locales y Distritales, Comisiones de Vigilancia, partidos políticos naciones y órganos electorales de las entidades federativas para la organización de sus elecciones. Se requieren de políticas y directrices, determinadas por el Consejo General, que por un lado faciliten el ejercicio de las atribuciones de verificación y validación del Padrón Electoral y la Lista Nominal por parte de los integrantes de las comisiones de vigilancia y los partidos políticos, y por otro protejan la integridad de los datos que los ciudadanos proporcionan al Instituto Federal Electoral.
 
@@ -443,11 +445,11 @@ XXVII. El listado de agrupaciones políticas nacionales que tienen registro ante
 
 XXVIII. Los resultados de la revisión de los informes de gastos que presenten los observadores electorales en términos del Código;
 
-XXIX. Los vínculos electrónicos con los portales de internet de los partidos políticos y; (sic)
+XXIX. Los vínculos electrónicos con los portales de internet de los partidos políticos y;
 
 XXX. Los montos y las personas físicas o morales distintas a las enunciadas en este artículo, a quienes se entreguen recursos públicos, así como los informes que dichas personas entreguen sobre el uso y destino de tales recursos;
 
-XXXI. Las resoluciones recaídas a los recursos de revisión y reconsideración emitidas por el Organo Garante y sus criterios de interpretación previstos en el artículo 22, párrafo1, fracción VI de este Reglamento; así como las resoluciones emitidas por el Comité. Asimismo, las tesis relevantes y aisladas y las resoluciones emitidas por el Tribunal Electoral del Poder Judicial de la Federación en materia de transparencia;
+XXXI. Las resoluciones recaídas a los recursos de revisión y reconsideración emitidas por el Organo Garante y sus criterios de interpretación previstos en el artículo 22, párrafo 1, fracción VI de este Reglamento; así como las resoluciones emitidas por el Comité. Asimismo, las tesis relevantes y aisladas y las resoluciones emitidas por el Tribunal Electoral del Poder Judicial de la Federación en materia de transparencia;
 
 XXXII. El listado actualizado de los sistemas de datos personales en posesión del Instituto;
 
@@ -1693,7 +1695,7 @@ VII. El Subdirector del Archivo Institucional, que fungirá como Secretario Téc
 
 4. Los funcionarios designados como responsables de los archivos de trámite de los órganos responsables del Instituto, podrán asistir a las sesiones del COTECIAD cuando se traten asuntos de su competencia.
 
-5. El COTECIAD será el encargado de vigilar la instrumentación en los diversos órganos del Instituto de la aplicación los (sic) programas, Lineamientos, manuales y políticas que apruebe el Comité en materia de Archivos.
+5. El COTECIAD será el encargado de vigilar la instrumentación en los diversos órganos del Instituto de la aplicación (sic) los programas, Lineamientos, manuales y políticas que apruebe el Comité en materia de Archivos.
 
 6. Las sesiones del COTECIAD se desarrollarán de conformidad con los Lineamientos de sesiones que para el efecto apruebe el propio órgano.
 
@@ -2010,3 +2012,11 @@ Quinto.- Se instruye a la Junta General Ejecutiva ajustar los términos de la ac
 Sexto.- Se exhorta a la Contraloría General a realizar dentro de un plazo de 30 días hábiles el ajuste que considere pertinente en sus disposiciones internas en atención a las reformas del presente Acuerdo y publicarlo en el Diario Oficial de la Federación.
 
 Séptimo.- En términos de lo establecido en los artículos 85 y 86 del Reglamento Interior del Instituto Federal Electoral, se deberá crear una comisión temporal a fin de elaborar el proyecto de reforma en el que se realicen las adecuaciones referentes al Reglamento Interior del Instituto Federal Electoral y se sometan a la consideración de este órgano máximo de dirección.
+
+D.O.F. 14 DE AGOSTO DE 2015.
+
+Primero.- Se abroga el Reglamento del Instituto Federal Electoral en Materia de Transparencia y Acceso a la Información Pública, aprobado en sesión extraordinaria del Consejo General, celebrada el 23 de junio de 2011, mediante Acuerdo CG188/2011, publicado en el Diario Oficial de la Federación el día 28 de junio del mismo año, así como todas sus reformas y adiciones.
+
+Segundo.- Las presentes disposiciones serán vigentes hasta la entrada en vigor de la legislación secundaria derivada de la reforma al artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 07 de febrero de 2014.
+
+Tercero.- La Unidad de Enlace, el Comité de Información y el Órgano Garante de la Transparencia y el Acceso a la Información, respectivamente, sustanciarán las solicitudes de información y los recursos de revisión y de reconsideración, que hayan ingresado en fecha anterior de la entrada en vigor del presente Reglamento, de conformidad con lo establecido en el Reglamento publicado en el Diario Oficial de la Federación el 28 de junio de 2011, con las respectivas reformas publicadas el 9 de septiembre de 2011 y 14 de noviembre de 2013.
