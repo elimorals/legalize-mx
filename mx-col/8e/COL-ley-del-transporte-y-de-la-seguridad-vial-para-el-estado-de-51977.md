@@ -4,7 +4,7 @@ identifier: "COL-ley-del-transporte-y-de-la-seguridad-vial-para-el-estado-de-519
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2015-01-31"
+last_updated: "2015-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COL"
 
 LEY DEL TRANSPORTE Y DE LA SEGURIDAD VIAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 31 DE ENERO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 23 de septiembre de 2006.
 
@@ -42,8 +40,6 @@ D E C R E T O
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 33, FRACCIÓN XLII Y 39 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN NOMBRE DEL PUEBLO, Y
 
 C O N S I D E R A N D O
-
-.
 
 Por lo antes expuesto se tiene a bien expedir el siguiente:
 
@@ -947,9 +943,11 @@ Las unidades vehiculares del servicio de transporte público de pasajeros, mixto
 
 En caso de que una unidad vehicular del servicio de transporte público de pasajeros, de personal y especial, sufra un accidente de tránsito, el usuario no pagará el importe del servicio y, en caso de que lo haya hecho, se le devolverá el importe del mismo.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2015)</small>
+
 ###### ARTÍCULO 48.
 
-El descenso de los pasajeros será por la puerta trasera a excepción de los adultos en plenitud, mujeres en periodo de gestación y personas con alguna discapacidad, a quienes se les darán plenas facilidades para bajar con seguridad y en la forma más accesible a sus posibilidades.
+El descenso de los pasajeros será por la puerta trasera a excepción de los adultos en plenitud, mujeres en periodo de gestación o con niños menores de un año, niños menores de 12 años viajando solos, y personas con alguna discapacidad, a quienes se les darán plenas facilidades para bajar con seguridad y en la forma más accesible a sus posibilidades.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2009)</small>
 
@@ -1173,9 +1171,9 @@ X. Vigilar que el operador de la unidad vehicular tenga vigente y porte su licen
 
 XI. Respetar las tarifas, horarios, rutas e itinerarios autorizados, así como circular por las vialidades señaladas por la autoridad;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2015)</small>
 
-XII. Tratándose del servicio de transporte público de pasajeros colectivo urbano, suburbano, foráneo y metropolitano, deberán destinarse para personas con discapacidad y adultos en plenitud, cuando menos dos asientos por cada diez que tenga la unidad vehicular, debiendo estar éstos situados cerca de la puerta de ascenso o descenso, los cuales deberán contener un emblema o leyenda para su Identificación; preferentemente las mujeres en periodo de gestación, tendrán derecho a utilizar cualquier asiento; y
+XII. Tratándose del servicio de transporte público de pasajeros colectivo urbano, suburbano, foráneo y metropolitano, deberán destinarse para personas con discapacidad, adultos en plenitud, mujeres en periodo de gestación o con niños menores de un año, y niños menores de 12 años viajando solos, cuando menos dos asientos por cada diez que tenga la unidad vehicular, debiendo estar éstos situados cerca de la puerta de ascenso, los cuales deberán ser de un color distinto a los demás, y contener un emblema o leyenda para su identificación; y
 
 XIII. Las demás que señalen esta Ley, su Reglamento, la concesión o el permiso y demás disposiciones legales aplicables.
 
@@ -2203,9 +2201,11 @@ Los servicios de transporte público urbano, suburbano, foráneo y metropolitano
 
 Los concesionarios del servicio de transporte público urbano, suburbano, foráneo y metropolitano deberán equipar el total de sus unidades con mecanismos y equipos especializados que faciliten el acceso, ascenso y descenso a usuarios con discapacidad. La incorporación de unidades adaptadas será de por lo menos el diez por ciento anual, hasta alcanzar el total.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2015)</small>
+
 ###### ARTÍCULO 168.
 
-Todas las unidades del servicio estatal de transporte colectivo de personas deben reservar, por lo menos, dos asientos por cada diez que tenga el vehículo, a efecto de ser utilizado por personas con discapacidad, adultos en plenitud o mujeres en período de gestación, debiendo estar situados cerca de la puerta de acceso, teniendo un emblema o leyenda para su identificación
+Todas las unidades del servicio estatal de transporte colectivo de personas deben reservar, por lo menos, dos asientos por cada diez que tenga el vehículo, a efecto de ser utilizado por personas con discapacidad, adultos en plenitud, mujeres en periodo de gestación o con niños menores de un año, y niños menores de 12 años viajando solos, debiendo estar situados cerca de la puerta de ascenso, ser de un color distinto a los demás, y tener un emblema o leyenda para su identificación.
 
 ###### ARTÍCULO 169.
 
@@ -2672,3 +2672,11 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los Diez Ayuntamientos integrantes del Estado contarán con un plazo de 60 días para adecuar su reglamentación respectiva a lo establecido por el presente decreto.
 
 TERCERO.- Se derogan todas las disposiciones que se contrapongan al contenido del presente decreto.
+
+P.O. 15 DE AGOSTO DE 2015.
+
+PRIMERO- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se concede a los concesionarios y permisionarios del servicio de transporte público, el plazo de ciento ochenta días naturales, a partir de la entrada en vigor del presente Decreto, para que, realicen las adecuaciones necesarias a fin de garantizar la observancia de las medidas contenidas en el presente Decreto.
+
+TERCERO.- El Ejecutivo del Estado a través de la Secretaría General de Gobierno y la Dirección General de Transporte y de la Seguridad Vial, deberán tomar las medidas pertinentes a fin de garantizar la observancia de las medidas contenidas en el presente Decreto.
