@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2015-04-18"
+last_updated: "2015-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2015.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -3115,7 +3115,7 @@ ART. 427.- En los casos a que se refiere la Fracción I del Artículo anterior, 
 
 ART. 428.- El auto en que se declara que una sentencia ha causado o no ejecutoria es apelable en el efecto devolutivo.
 
-> <small>N. DE E. EN RELACIÓN CON LA VIGENCIA DEL PRESENTE TÍTULO, VÉASE TERCERO TRANSITORIO DEL DECRETO NÚMERO 368, PUBLICADO EN EL P.O. DE 23 DE AGOSTO DE 2014 REFERENTE A LA ENTRADA EN VIGOR DE LAS DISPOSICIONES RELATIVAS AL PROCEDIMIENTO ORAL FAMILIAR EN EL PRIMER PARTIDO JUDICIAL, ÚNICAMENTE POR LO QUE VE A ASUNTOS NO CONTROVERTIDOS; Y AL PONER EN PRÁCTICA TALES DISPOSICIONES, DEBERÁ EMITIR PREVIAMENTE UNA DECLARATORIA QUE SE PUBLICARÁ EN EL PERIÓDICO OFICIAL DEL ESTADO, EN UNO DE LOS DE MAYOR CIRCULACIÓN EN LA ENTIDAD Y EN LOS DEMÁS ÓRGANOS DE DIFUSIÓN QUE SE CONSIDEREN NECESARIOS, EN LA QUE SE SEÑALE EXPRESAMENTE LA FECHA CORRESPONDIENTE.</small>
+> <small>N. DE E. SE SUGIERE CONSULTAR EL ACUERDO GENERAL MEDIANTE EL CUAL SE EFECTÚA LA DECLARATORIA PREVISTA EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO PUBLICADO EL 23 DE AGOSTO DE 2014, RELACIONADO CON LA REFORMA AL CÓDIGO DE PROCEDIMIENTOS CIVILES RESPECTO "DEL PROCEDIMIENTO ORAL FAMILIAR"; Y QUE ESTABLECE LOS ÓRGANOS JURISDICCIONALES COMPETENTES PARA SU CONOCIMIENTO EN LA ENTIDAD, PUBLICADO EN EL P.O. DE 15 DE AGOSTO DE 2015.</small>
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE AGOSTO DE 2014)</small>
 
@@ -6870,3 +6870,25 @@ SEGUNDO.- El Poder Judicial del Estado contará con 180 días para realizar las 
 P.O. 18 DE ABRIL DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 15 DE AGOSTO DE 2015.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO MEDIANTE EL CUAL SE EFECTÚA LA DECLARATORIA PREVISTA EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO PUBLICADO EL 23 DE AGOSTO DE 2014.</small>
+
+PRIMERO: Se asigna competencia a los Juzgados Primero y Tercero Familiar del Primer Partido Judicial para conocer del Procedimiento Oral Familiar previsto en el Título Sexto Bis del Código de Procedimientos Civiles para el Estado en los siguientes términos: a partir del día 24 (veinticuatro) de agosto del año 2015 (dos mil quince), de los trámites Especiales de Divorcio por Mutuo Consentimiento; a partir del día 30 (treinta) de noviembre del año 2015 (dos mil quince), de los trámites de Jurisdicción Voluntaria y desde el 29 (veintinueve) de febrero del año 2016 (dos mil dieciséis), de los Juicios de Rectificación y Nulidad de Actas del Registro Civil.
+
+SEGUNDO: Se aprueba la implementación del algoritmo diseñado por la Dirección de Tecnologías de la Información del Supremo Tribunal de Justicia del Estado, para que el sistema de Oficialía de Partes de Colima y Villa de Álvarez a partir del 24 (veinticuatro) de agosto del año en curso, turne todos los trámites de Divorcio por Mutuo Consentimiento únicamente a los Juzgados Primero y Tercero Familiar del Primer Partido Judicial, y posteriormente, en forma paulatina, en términos del punto de acuerdo anterior, las Jurisdicciones Voluntarias y los Juicios de Rectificación y Nulidad de Actas del Registro Civil. En cuanto a los demás juicios de prestaciones diversas se aprueba su distribución entre los cinco juzgados del Primer Partido Judicial que conocen materia familiar, de modo que permita a los juzgados Primero y Tercero Familiar conocer de los asuntos que se tramitarán en la vía oral; y que los juzgados Primero y Segundo Mixto Civil y Familiar continúen atendiendo los juicios civiles como lo han venido haciendo.
+
+TERCERO: Después de 75 días de iniciar con la oralidad familiar, el Pleno del Supremo Tribunal de Justicia, por conducto del personal necesario, llevará a cabo un análisis estadístico con el fin de apreciar su carga de trabajo y dictar las medidas administrativas conducentes para garantizar la incorporación de la oralidad; dicho análisis, se efectuará de la misma forma previo a la implementación de los trámites de jurisdicción voluntaria y los Juicios de Rectificación y Nulidad de Actas del Registro Civil.
+
+CUARTO: Una vez que los juzgados Primero y Tercero Familiar del Primer Partido Judicial conozcan en la vía oral de la totalidad de los trámites previstos por el artículo 428 bis del Código de Procedimientos Civiles, los juzgados que conozcan de la materia familiar del Primer Partido Judicial, cada tres meses, enviarán al Pleno del Supremo Tribunal de Justicia del Estado, un informe estadístico que permita apreciar la carga de trabajo y dictar las medidas administrativas necesarias para su buena marcha.
+
+QUINTO: Se destinan las Salas de Juicio Oral anexas al Palacio de Justicia para ser utilizadas para el desahogo de los Procedimientos Orales en Materia Familiar. Corresponderá a la Dirección de Tecnologías de la Información del Supremo Tribunal de Justicia, el control de la agenda de audiencias, así como la atención de requerimientos técnicos y tecnológicos para el eficaz desahogo de las audiencias.
+
+SEXTO: Una vez que el Congreso del Estado y, en su caso, el Poder Ejecutivo, resuelvan las previsiones presupuestales necesarias para la implementación de la oralidad familiar, el Pleno del Supremo Tribunal de Justicia del Estado se pronunciará sobre la implementación del procedimiento oral controvertido en el Primer Partido Judicial, así como de su implementación total en el Segundo y Tercer Partido Judicial, haciendo las adecuaciones que correspondan al marco normativo, de conformidad con lo previsto por los artículos transitorios segundo al quinto del Decreto 368 publicado el día 23 (veintitrés) de agosto del 2014 (dos mil catorce) en el periódico oficial "El Estado de Colima", mediante el cual, se adicionó el título Sexto Bis denominado "Del Procedimiento Oral Familiar", al Código de Procedimientos Civiles del Estado de Colima.
+
+SÉPTIMO: De conformidad con lo dispuesto por los artículos 21 y 24 del Reglamento Interior del Supremo Tribunal de Justicia del Estado, publíquese el presente punto de acuerdo por una sola vez, en el periódico oficial "El Estado de Colima" y en uno de los de mayor circulación en la Entidad.
+
+OCTAVO: Hágase del conocimiento de los otros Poderes Públicos, de los Tribunales y de la sociedad en general el contenido de este Acuerdo General.
+
+NOVENO: El Pleno del Supremo Tribunal de Justicia, en el ámbito de su competencia, resolverá todo lo no previsto en el presente Acuerdo.
