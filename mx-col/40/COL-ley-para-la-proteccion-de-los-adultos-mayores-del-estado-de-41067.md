@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-de-los-adultos-mayores-del-estado-de-410
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-11"
-last_updated: "2014-02-01"
+last_updated: "2015-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PROTECCIÓN DE LOS ADULTOS EN PLENITUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2015.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 11 de septiembre de 2004.
 
@@ -469,7 +469,7 @@ La población en general tiene el deber de aceptar a los adultos en plenitud en 
 
 ###### Artículo 36.
 
-Cuando algún ciudadano cometa cualquier acto de discriminación, abuso, explotación, aislamiento, o violencia en contra de un adulto en plenitud, que pongan en riesgo su persona y derechos, serán sancionado (sic) conforme a la Ley.
+Cuando algún ciudadano cometa cualquier acto de discriminación, abuso, explotación, aislamiento, o violencia en contra de un adulto en plenitud, que pongan en riesgo su persona y derechos, serán (sic) sancionado conforme a la Ley.
 
 De igual forma se sancionará a las instituciones públicas o privadas que cometan las conductas mencionadas.
 
@@ -509,9 +509,11 @@ II. Disfrutar de los servicios públicos en igualdad de circunstancias que cualq
 
 III. Tener acceso y facilidades de desplazamiento físico dentro de los espacios laborales, comerciales, oficiales, recreativos y de transporte, mediante la construcción de las especificaciones arquitectónicas de diseño y mecánicas de los medios de transporte apropiados.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 43.
 
-Los adultos en plenitud tendrán derecho a hacer uso de los asientos que se asignen en los vehículos de transporte colectivo para personas con capacidades especiales; siempre que éstos no estén ocupados por aquellos.
+Los adultos en plenitud tendrán derecho a hacer uso de los asientos y espacios preferentes, que para tal efecto sean destinados en las unidades de transporte público de pasajeros.
 
 ###### Artículo 44.
 
@@ -884,3 +886,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Instituto contará con un plazo de seis meses a partir de la entrada en vigor del presente decreto, para expedir las calcomanías de identificación de las personas adultas en plenitud.
 
 TERCERO.- Los sujetos obligados por el presente Decreto contarán con un plazo de 90 días naturales a partir de su entrada en vigor, para su debido cumplimiento.
+
+P.O. 15 DE AGOSTO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se concede a los concesionarios y permisionarios del servicio de transporte público, el plazo de ciento ochenta días naturales, a partir de la entrada en vigor del presente Decreto, para que, realicen las adecuaciones necesarias a fin de garantizar la observancia de las medidas contenidas en el presente Decreto.
+
+TERCERO.- El Ejecutivo del Estado a través de la Secretaría General de Gobierno y la Dirección General de Transporte y de la Seguridad Vial, deberán tomar las medidas pertinentes a fin de garantizar la observancia de las medidas contenidas en el presente Decreto.
