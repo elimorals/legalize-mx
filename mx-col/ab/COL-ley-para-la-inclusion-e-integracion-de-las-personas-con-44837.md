@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-inclusion-e-integracion-de-las-personas-con-44837"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-07"
-last_updated: "2014-02-01"
+last_updated: "2015-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA INTEGRACIÓN Y DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 7 de mayo de 2005.
 
@@ -761,7 +761,9 @@ I. En las estaciones terminales y rutas de transporte público de pasajeros, deb
 
 II. En las terminales de autobuses o aeropuertos deberán existir las instalaciones necesarias para el desplazamiento, uso y disfrute de los diferentes servicios prestados;
 
-III. Las personas con discapacidad podrán hacer uso de los asientos y espacios preferentes que para tal efecto sean destinados en los autobuses, y diversos medios de transporte público. Estos asientos deberán estar situados en los espacios más cercanos a las puertas de acceso de la unidad; y
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2015)</small>
+
+III. Las personas con discapacidad tienen derecho a hacer uso de los asientos y espacios preferentes que para tal efecto sean destinados en los autobuses, y diversos medios de transporte público. Estos asientos deberán estar situados en los espacios más cercanos a las puertas de ascenso de la unidad; y
 
 IV. Los invidentes que necesiten perros guías, podrán accesar a lugares públicos y todo tipo de transporte, debiendo tomar las debidas precauciones.
 
@@ -773,9 +775,11 @@ Los sistemas de transporte público urbano, suburbano y foráneo estatal, otorga
 
 El servicio público de transporte urbano, suburbano y foráneo estatal, debe equipar el total de sus unidades con mecanismos y equipos especializados que faciliten el acceso a usuarios con discapacidad. La incorporación de unidades adaptadas será de por lo menos el diez por ciento anual, hasta alcanzar el total.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 84.
 
-Todas las unidades del servicio estatal de transporte deben reservar, por lo menos, dos asiento por cada diez que tenga el vehículo, a efecto de ser utilizado por personas con discapacidad, debiendo estar situados cerca de la puerta de acceso, teniendo un emblema o leyenda para su identificación.
+Todas las unidades del servicio estatal de transporte deben reservar, por lo menos, la cantidad de asientos que establece el artículo 168 de la Ley de Transporte y de la Seguridad Vial del Estado de Colima, a efecto de ser utilizado por personas con discapacidad, debiendo estar situados cerca de la puerta de ascenso, ser de un color distinto a los demás y, tener un emblema o leyenda para su identificación.
 
 ###### Artículo 85.
 
@@ -817,7 +821,7 @@ a. La Secretaría de Educación, en las materias de educación regular y especia
 
 b. La Secretaría de Salud, en esa materia;
 
-c. La Secretaría de Desarrollo Urbano, en el caso de barreras arquitectónicas y normas urbanísticas; y (sic),
+c. La Secretaría de Desarrollo Urbano, en el caso de barreras arquitectónicas y normas urbanísticas; y,
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE JULIO DE 2007)</small>
 
@@ -925,7 +929,7 @@ La interposición del recurso, salvo en el caso que trata el artículo anterior,
 
 Los actos y resoluciones que se pronuncien en el recurso de reconsideración, podrán ser recurribles ante el Tribunal de lo Contencioso Administrativo.
 
-## ARTICULOS TRANSITORIOS
+## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor a los 60 días naturales siguientes de su publicación en el Periódico Oficial «El Estado de Colima».
 
@@ -986,3 +990,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Instituto contará con un plazo de seis meses a partir de la entrada en vigor del presente decreto, para expedir las calcomanías de identificación de las personas adultas en plenitud.
 
 TERCERO.- Los sujetos obligados por el presente Decreto contarán con un plazo de 90 días naturales a partir de su entrada en vigor, para su debido cumplimiento.
+
+P.O. 15 DE AGOSTO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se concede a los concesionarios y permisionarios del servicio de transporte público, el plazo de ciento ochenta días naturales, a partir de la entrada en vigor del presente Decreto, para que, realicen las adecuaciones necesarias a fin de garantizar la observancia de las medidas contenidas en el presente Decreto.
+
+TERCERO.- El Ejecutivo del Estado a través de la Secretaría General de Gobierno y la Dirección General de Transporte y de la Seguridad Vial, deberán tomar las medidas pertinentes a fin de garantizar la observancia de las medidas contenidas en el presente Decreto.
