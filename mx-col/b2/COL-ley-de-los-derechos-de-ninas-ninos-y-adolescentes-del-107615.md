@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107615"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-18"
-last_updated: "2015-04-18"
+last_updated: "2015-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA
 
-> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO PRIMERO TRANSITORIO EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS 60 DÍAS NATURALES, CONTADOS A PARTIR DEL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE COLIMA.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2015.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 18 de abril de 2015.
 
@@ -373,9 +371,17 @@ Niñas, niños y adolescentes tienen derecho a que se les asegure prioridad en e
 
 I. Se les brinde protección y socorro en cualquier circunstancia y con la oportunidad necesaria;
 
-II. Se les atienda antes que a las personas adultas en todos los servicios, en igualdad de condiciones; y
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2015)</small>
 
-III. Se les considere para el diseño y ejecución de las políticas públicas necesarias para la protección de sus derechos.
+II. Se les atienda antes que a las personas adultas en todos los servicios, en igualdad de condiciones;
+
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2015)</small>
+
+III. Se les considere para el diseño y ejecución de las políticas públicas necesarias para la protección de sus derechos; y
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2015)</small>
+
+IV. Se les permita acceder a los asientos y espacios reservados o preferentes en los vehículos destinados para la prestación del servicio de transporte público de pasajeros en el Estado de Colima.
 
 ###### Artículo 21.
 
@@ -1736,3 +1742,13 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día 15 quince del mes de abril del año dos mil quince.
 
 Atentamente. LIC. MARIO ANGUIANO MORENO, GOBERNADOR CONSTITUCIONAL DEL ESTADO. Rúbrica. LIC. JOSÉ ALBERTO PEREGRINA SÁNCHEZ, SECRETARIO GENERAL DE GOBIERNO. Rúbrica. C.P. BLANCA ISABEL ÁVALOS FERNÁNDEZ, SECRETARIA DE FINANZAS Y ADMINISTRACIÓN. Rúbrica. DR. AGUSTÍN LARA ESQUEDA, SECRETARIO DE SALUD Y BIENESTAR SOCIAL. Rúbrica. LIC. RIGOBERTO SALAZAR VELASCO, SECRETARIO DE DESARROLLO SOCIAL. Rúbrica. DR. ARMANDO FIGUEROA DELGADO, SECRETARIO DE EDUCACIÓN. Rúbrica. LIC. URIEL ALBERTO MORENO FLORES, SECRETARIO DEL TRABAJO Y PREVISIÓN SOCIAL. Rúbrica. LIC. MARCOS SANTANA MONTES, PROCURADOR GENERAL DE JUSTICIA DEL ESTADO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE AGOSTO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se concede a los concesionarios y permisionarios del servicio de transporte público, el plazo de ciento ochenta días naturales, a partir de la entrada en vigor del presente Decreto, para que, realicen las adecuaciones necesarias a fin de garantizar la observancia de las medidas contenidas en el presente Decreto.
+
+TERCERO.- El Ejecutivo del Estado a través de la Secretaría General de Gobierno y la Dirección General de Transporte y de la Seguridad Vial, deberán tomar las medidas pertinentes a fin de garantizar la observancia de las medidas contenidas en el presente Decreto.
