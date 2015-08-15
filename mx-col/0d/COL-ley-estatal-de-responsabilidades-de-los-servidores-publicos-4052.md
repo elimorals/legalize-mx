@@ -4,7 +4,7 @@ identifier: "COL-ley-estatal-de-responsabilidades-de-los-servidores-publicos-405
 country: "mx"
 rank: "ley"
 publication_date: "1984-12-08"
-last_updated: "2013-08-10"
+last_updated: "2015-08-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 8 de diciembre de 1984.
 
@@ -375,9 +375,41 @@ XVIII.- Presentar con oportunidad y veracidad la declaración de situación patr
 
 XIX.- Informar al superior jerárquico de todo acto, u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refieren las fracciones de este Artículo, y en los términos de las normas que al efecto se expidan.
 
-XX.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público; y
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2015)</small>
 
-XXI.- Las demás que le impongan las Leyes y Reglamentos.
+XX.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público;
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2015)</small>
+
+XXI.- Proporcionar en forma oportuna y veraz, toda información y datos solicitados por la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos;
+
+En el cumplimiento de esta obligación, además, el servidor público deberá permitir, sin demora, el acceso a los recintos o instalaciones, expedientes o documentación que la institución de referencia considere necesario revisar para el eficaz desempeño de sus atribuciones y corroborar, también, el contenido de los informes y datos que se le hubiesen proporcionado;
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2015)</small>
+
+XXII.- Responder las recomendaciones que les presente la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos, y en el supuesto de que se decida no aceptar o no cumplir las recomendaciones, deberá hacer pública su negativa, fundándola y motivándola en términos de lo dispuesto por la Ley de la materia;
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2015)</small>
+
+XXIII.- Atender los llamados del Congreso del Estado, a comparecer ante dichos (sic) órgano legislativo, a efecto de que expliquen (sic) el motivo de su negativa a aceptar o cumplir las recomendaciones de la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos, en términos de la Ley de la materia;
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2015)</small>
+
+XXIV.- Abstenerse de inhibir por sí o por interpósita persona, utilizando cualquier medio, a los posibles quejosos con el fin de evitar la formulación o presentación de denuncias o realizar, con motivo de ello, cualquier acto u omisión que redunde en perjuicio de los intereses de quienes las formulen o presenten;
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2015)</small>
+
+XXV.- Abstenerse de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra pública o de servicios relacionados con ésta, con quien desempeñe un empleo, cargo o comisión en el servicio público, o bien con las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de la Contraloría o del órgano de control correspondiente. Por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2015)</small>
+
+XXVI.- Abstenerse de aprovechar la posición que su empleo, cargo o comisión le confiere para inducir a que otro servidor público efectúe, retrase u omita realizar algún acto de su competencia, que le reporte cualquier beneficio, provecho o ventaja para sí o para alguna de las personas a que se refiere la fracción XIII;
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2015)</small>
+
+XXVII.- Abstenerse de adquirir para sí o para las personas a que se refiere la fracción XIII, bienes inmuebles que pudieren incrementar su valor o, en general, que mejoren sus condiciones, como resultado de la realización de obras o inversiones públicas o privadas, que haya autorizado o tenido conocimiento con motivo de su empleo, cargo o comisión. Esta restricción será aplicable hasta un año después de que el servidor público se haya retirado del empleo, cargo o comisión; y
+
+XXVIII.- Las demás que le impongan las Leyes y Reglamentos.
 
 Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado a la Contraloría General, el superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del subalterno interesado. Si el superior jerárquico omite la comunicación a la Contraloría General, el subalterno podrá practicarla directamente informando a su superior acerca de este acto.
 
@@ -424,6 +456,10 @@ V.- Sanción económica; e
 VI.- Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
 
 Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o que cause daños y perjuicios, será de uno a catorce años, de acuerdo con el Código Penal del Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2015)</small>
+
+En el caso de las infracciones graves se impondrá, además de la inhabilitación, la destitución.
 
 ###### ARTICULO 50.
 
@@ -605,15 +641,19 @@ II.- Auxilio de la fuerza pública.
 
 Si existe resistencia al mandamiento legítimo de autoridad, se sujetará a lo que prevenga la Legislación Penal.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 74.
 
-Las facultades del superior jerárquico, de la Contraloría y, en su caso, del Congreso del Estado para imponer las sanciones que esta Ley prevee (sic), se sujetarán a lo siguiente:
+Las facultades del superior jerárquico, de la Contraloría y, en su caso, del Congreso del Estado para imponer las sanciones que esta Ley prevé, se sujetaran a lo siguiente:
 
-I.- Prescriben en tres meses si el beneficio obtenido o el daño causado por el infractor no excede de diez veces el salario mínimo diario vigente en el Estado, o si la responsabilidad no fuese estimable el (sic) dinero. El plazo de prescripción se contará a partir del día siguiente a aquél en que hubiera incurrido o a partir del momento en que se hubiese cesado, si fue de carácter continuo; o desde el momento en que tenga conocimiento; y
+I.- Prescriben en tres meses si el beneficio obtenido o el daño causado por el infractor no excede de diez veces el salario mínimo diario vigente en el Estado, o si la responsabilidad no fuese estimable el (sic) dinero. El plazo de prescripción se contará a partir del día siguiente a aquel en que hubiera incurrido o a partir del momento en que se hubiese cesado, si fue de carácter continuo; o desde el momento en que tenga conocimiento;
 
-II.- En los demás casos prescribirán en tres años.
+II. Tratándose de infracciones graves el plazo para que opere la prescripción será de cinco años, que se contarán en los términos del párrafo anterior; y
+
+III. En los demás casos prescribirán en tres años.
+
+La prescripción se interrumpirá al iniciarse los procedimientos previstos por la Ley; y empezará a correr nuevamente desde el día siguiente al en que se hubiere dejado de actuar en ellos.
 
 ## TITULO CUARTO.
 
@@ -750,3 +790,7 @@ P.O. 28 DE ENERO DE 2012.
 P.O. 10 DE AGOSTO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 15 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
