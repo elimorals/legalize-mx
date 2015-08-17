@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-metropolitano-55911"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-20"
-last_updated: "2010-08-06"
+last_updated: "2015-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55911&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2007-06-19"
 ---
 # REGLAMENTO DE TRANSITO METROPOLITANO
 
-REGLAMENTO DE TRANSITO METROPOLITANO
+REGLAMENTO DE TRÁNSITO METROPOLITANO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE AGOSTO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TRANSITORIOS SEGUNDO Y TERCERO DEL REGLAMENTO DE TRÁNSITO DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 17 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS CIENTO VEINTE DÍAS NATURALES SIGUIENTES DE SU PUBLICACIÓN EN LA GACETA OFICIAL DEL DISTRITO FEDERAL.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE AGOSTO DE 2015.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 20 de junio de 2007.
 
@@ -182,7 +184,7 @@ e) En vías peatonales, en las cuales se permita circular, la velocidad máxima 
 
 > <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
 
-VI. Ajustarse el cinturón de seguridad y asegurarse que los demás pasajeros también se lo ajusten. Cuando se trate de menores de 12 años o personas con discapacidad, deberán ser transportados utilizando los sistemas de retención pertinentes; y (sic)
+VI. Ajustarse el cinturón de seguridad y asegurarse que los demás pasajeros también se lo ajusten. Cuando se trate de menores de 12 años o personas con discapacidad, deberán ser transportados utilizando los sistemas de retención pertinentes; y
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -264,7 +266,7 @@ XIII. Utilizar o instalar sistemas antirradares o detector de radares de velocid
 
 > <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2009)</small>
 
-XIV. Ofender, insultar o denigrar a los agentes o personal de apoyo vial en el desempeño de sus labores; y (sic)
+XIV. Ofender, insultar o denigrar a los agentes o personal de apoyo vial en el desempeño de sus labores; y
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -356,7 +358,7 @@ VIII. En las glorietas, el que se halle dentro de la vía circular tiene prefere
 
 IX. Entre las 23:00 hrs. y las 5:00 hrs. del día siguiente, debe detener totalmente el vehículo frente a la indicación de alto de un semáforo y, una vez que se cerciore de que ningún vehículo o peatón se dispone a atravesar un crucero, podrá continuar la marcha aún cuando no haya cambiado la señal de alto;
 
-X. El ferrocarril, metrobús y tren ligero tienen preferencia de paso, y (sic)
+X. El ferrocarril, metrobús y tren ligero tienen preferencia de paso, y
 
 XI. Los vehículos de emergencia tienen derecho de paso cuando circulen con las señales de sonido o luminosas funcionando;
 
@@ -454,7 +456,7 @@ Los ciclistas tienen derecho de preferencia sobre el tránsito vehicular, cuando
 
 I. Habiéndoles correspondido el paso de acuerdo con el ciclo del semáforo no alcancen a cruzar la vía;
 
-II. Los vehículos vayan a dar vuelta a la derecha para entrar a otra vía, y haya ciclistas cruzando ésta; y (sic)
+II. Los vehículos vayan a dar vuelta a la derecha para entrar a otra vía, y haya ciclistas cruzando ésta; y
 
 III. Los vehículos deban circular o cruzar una ciclovía y en ésta haya ciclistas circulando;
 
@@ -736,7 +738,7 @@ c) Coincidir con la calcomanía permanente de circulación, con la tarjeta de ci
 
 d) Tener la dimensión y características que especifique la Norma Oficial Mexicana respectiva.
 
-II. La calcomanía de circulación permanente; y (sic)
+II. La calcomanía de circulación permanente; y
 
 III. El holograma de verificación vehicular vigente;
 
@@ -892,7 +894,7 @@ VI. Circular con las luces blancas interiores encendidas cuando obscurezca;
 
 > <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2010)</small>
 
-VII. Hacer base o estacionar su vehículo en lugar autorizado o en los lugares de encierro o pernocta correspondientes en horarios en que no se preste servicio, y (sic)
+VII. Hacer base o estacionar su vehículo en lugar autorizado o en los lugares de encierro o pernocta correspondientes en horarios en que no se preste servicio, y
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -1264,7 +1266,7 @@ V. Transportar a un pasajero en lugar intermedio entre la persona que conduce y 
 
 VI. Transportar carga que impida mantener ambas manos sobre el manubrio, y un debido control del vehículo o su necesaria estabilidad;
 
-VII. Asirse o sujetarse a otros vehículos en movimiento; y (sic)
+VII. Asirse o sujetarse a otros vehículos en movimiento; y
 
 VIII. En el caso de motocicletas, transportar pasajeros menores de 12 años de edad;
 
@@ -1616,7 +1618,7 @@ CUARTO.- Los propietarios de vehículos particulares que porten placas de matrí
 
 Dado en la Residencia Oficial del Jefe del Gobierno del Distrito Federal, en la Ciudad de México, el día diecinueve de junio de dos mil siete. EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, ADOLFO JOEL ORTEGA CUEVAS.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, RAÚL ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.- LA SECRETARIA DE MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.O. 16 DE FEBRERO DE 2009.
 
@@ -1635,3 +1637,15 @@ G.O. 6 DE AGOSTO DE 2010.
 Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 17 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente Reglamento entrará en vigor a los ciento veinte días naturales siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. A partir de la entrada en vigor de este Reglamento, se abroga el Reglamento de Tránsito Metropolitano, publicado en la Gaceta Oficial del Distrito Federal, el 20 de junio de 2007.
+
+CUARTO. La obligación contenida en los artículos 39 y 40, fracción V, inciso C, será aplicable a partir del día primero de enero del año dos mil dieciséis.
+
+QUINTO. La obligación contenida en el artículo 46 de este reglamento, para los propietarios de vehículos particulares, será aplicable a partir del día primero de enero del año dos mil dieciséis.
