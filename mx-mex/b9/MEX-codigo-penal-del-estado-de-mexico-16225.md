@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2015-08-06"
+last_updated: "2015-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE AGOSTO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -1523,11 +1523,11 @@ II. Impedir el cumplimiento de una ley, decreto, reglamento o resolución judici
 
 III. El defensor público que habiendo aceptado la defensa de algún inculpado, la abandone o descuide por negligencia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, G.G. 26 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 17 DE AGOSTO DE 2015)</small>
 
-IV. El defensor que habiendo sido designado para representar a una víctima u ofendido, la abandone o descuide por negligencia; y
+IV. El Defensor Especializado que habiendo sido designado para representar a una víctima y ofendido, la abandone o descuide por negligencia.
 
 V. Omitir la denuncia o querella de algún ilícito del que tenga conocimiento, cometido en perjuicio o en contra de la Administración Pública Estatal o Municipal.
 
@@ -5586,3 +5586,35 @@ CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamen
 QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
 
 SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
+
+G.G. 17 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor a los sesenta días naturales posteriores a su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley de Protección a Víctimas del Delito para el Estado de México publicada en el Periódico Oficial "Gaceta del Gobierno" el 23 de febrero de 2009.
+
+CUARTO. Se abroga la Ley de la Defensoría Especializada de Víctimas y Ofendidos del Estado de México publicada en el Periódico Oficial "Gaceta del Gobierno" el 26 de octubre de 2011.
+
+QUINTO. Las autoridades obligadas a prestar los servicios de atención y protección previstos en la presente Ley, deberán establecer anualmente las previsiones presupuestales que les permitan el cumplimiento de las obligaciones establecidas en la misma.
+
+SEXTO. El Ejecutivo Estatal expedirá las disposiciones reglamentarias de la presente Ley en un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor de este Decreto.
+
+SÉPTIMO. Los protocolos a que se refiere esta Ley se expedirán en un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor de este Decreto.
+
+OCTAVO. A partir de la entrada en vigor del presente Decreto, las Unidades de Atención a Víctimas del Delito quedarán adscritas a la Comisión Ejecutiva, pero continuarán operando y funcionando en las sedes donde actualmente se encuentran.
+
+NOVENO. Los convenios o instrumentos jurídicos celebrados a través del Instituto de Atención a las Víctimas del Delito del Estado de México dependiente de la Procuraduría General de Justicia del Estado de México, surtirán sus efectos en términos de las disposiciones que les dieron vigor y deberán ser renovados con las unidades administrativas competentes.
+
+DÉCIMO. El Gobierno del Estado, sus dependencias y entidades deberán proveer lo necesario para adecuar la normatividad aplicable, así como para redistribuir los recursos humanos, materiales y financieros existentes para la atención a víctimas a la Comisión Ejecutiva Estatal de Atención a Víctimas y Ofendidos del Delito.
+
+DÉCIMO PRIMERO. La Procuraduría General de Justicia del Estado de México y las Secretarías General de Gobierno, de Finanzas, de la Contraloría y la Consejería Jurídica del Ejecutivo Estatal proveerán lo necesario para dar cumplimiento a lo establecido por el presente Decreto.
+
+DÉCIMO SEGUNDO. Los recursos del Fondo para la Protección a las Víctimas y Ofendidos del Hecho Delictuoso creado en la Ley de Protección a Víctimas del Delito para el Estado de México publicada en el Periódico Oficial "Gaceta del Gobierno" el 23 de febrero de 2009, se transferirán al Fondo Estatal de Ayuda, Asistencia y Reparación Integral para la Protección a las Víctimas previsto en la presente Ley.
+
+DÉCIMO TERCERO. Los recursos del Fondo de Ayuda, Asistencia y Reparación Integral a las víctimas de violaciones a los derechos humanos constituido mediante Acuerdo del Ejecutivo del Estado, publicado el 15 de junio de 2015 en el Periódico Oficial "Gaceta del Gobierno" se transferirán al Fondo Estatal de Ayuda, Asistencia y Reparación Integral para la Protección a las Víctimas y Ofendidos del Delito previsto en la presente Ley.
+
+DÉCIMO CUARTO. Los recursos de cualquier fondo de carácter estatal cuyo objeto sea la atención de las víctimas del delito, se transferirán al Fondo Estatal de Ayuda, Asistencia y Reparación Integral para la Protección a las Víctimas y Ofendidos del Delito previsto en la presente Ley.
+
+DÉCIMO QUINTO. Se derogan las disposiciones legales y administrativas que se opongan a lo dispuesto en el presente Decreto.
