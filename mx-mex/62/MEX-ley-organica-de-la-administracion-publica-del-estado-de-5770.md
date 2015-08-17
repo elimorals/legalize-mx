@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2015-07-27"
+last_updated: "2015-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE AGOSTO DE 2015.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -329,9 +329,17 @@ XXX. Coordinar los servicios de seguridad, vigilancia y protección regional en 
 
 XXXI. Establecer, integrar, supervisar, utilizar y mantener actualizados los instrumentos de información del Sistema Nacional de Seguridad Pública que le competan, mediante las bases de datos en materia de seguridad pública correspondientes;
 
-> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXXII. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(REFORMADA, G.G. 17 DE AGOSTO DE 2015)</small>
+
+XXXII. Organizar, controlar y dirigir a la Comisión Ejecutiva Estatal de Atención a Víctimas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 17 DE AGOSTO DE 2015)</small>
+
+XXXIII. Las demás que le señalen las leyes y reglamentos en el Estado.
 
 > <small>N. DE E. EL PRESENTE ARTÍCULO FUE DEROGADO MEDIANTE DECRETO 361 PUBLICADO EL 17 DE DICIEMBRE DE 2014 SESIONADO POR EL CONGRESO DEL ESTADO EL 17 DE DICIEMBRE DE 2014. EL 18 DE DICIEMBRE DE 2014 FUE REFORMADO ESTE ARTÍCULO SESIONADO POR EL CONGRESO DEL ESTADO EL 11 DE DICIEMBRE DE 2014 "Artículo 21 Bis.- ... I. a XXII. …XXIII. Retirar los vehículos, tráileres, autobuses y cualquier tipo de remolques abandonados en la infraestructura vial y remitirlos al depósito vehicular más cercano; XXIV. …" POR LO QUE SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE ESAS FECHAS.</small>
 
@@ -1667,17 +1675,23 @@ XXIV. Dirigir, coordinar y operar el Registro Estatal de Inspectores, conforme a
 
 XXV. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE FEBRERO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 38 Ter.
 
-La Consejería Jurídica es la Dependencia encargada de planear, programar, dirigir, resolver, controlar y evaluar las funciones del registro civil, del notariado, las relativas a la demarcación y conservación de los límites del Estado y sus municipios, en coordinación con las autoridades competentes, de la función registral, legalizaciones y apostillamiento, de la defensoría pública así como de la especializada para víctimas y ofendidos del delito, de los asuntos religiosos, administración de la publicación del Periódico Oficial "Gaceta del Gobierno", las relativas al reconocimiento, promoción, atención y defensa de los derechos humanos desde el poder Ejecutivo, de información de los ordenamientos legales, coordinarse con los responsables de las unidades de asuntos jurídicos de cada Dependencia de la Administración Pública Estatal, en materia jurídica de las dependencias, y demás disposiciones de observancia general en el Estado.
+La Consejería Jurídica es la Dependencia encargada de planear, programar, dirigir, resolver, controlar y evaluar las funciones del registro civil, del notariado, las relativas a la demarcación y conservación de los límites del Estado y sus municipios, en coordinación con las autoridades competentes, de la función registral, legalizaciones y apostillamiento, de la defensoría pública, de los asuntos religiosos, administración de la publicación del Periódico Oficial "Gaceta del Gobierno", las relativas al reconocimiento, promoción, atención y defensa de los derechos humanos desde el poder Ejecutivo, de información de los ordenamientos legales, coordinarse con los responsables de las unidades de asuntos jurídicos de cada Dependencia de la Administración Pública Estatal, en materia jurídica de las dependencias, y demás disposiciones de observancia general en el Estado.
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 A la Consejería Jurídica le corresponde el despacho de los siguientes asuntos:
 
-I. Representar al Gobernador en los juicios en que él sea parte, pudiendo delegar ésta, en terceros o subalternos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 17 DE AGOSTO DE 2015)</small>
+
+I. Representar al Gobernador y al Secretario General de Gobierno en los juicios en los que sean parte, pudiendo delegar ésta, en terceros o subalternos, de conformidad a las disposiciones reglamentarias.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1741,7 +1755,11 @@ XXIII. Coordinar y vigilar la Función Registral del Estado de México conforme 
 
 XXIV. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Civil;
 
-XXV. Organizar y controlar a la defensoría pública; así como a la defensoría especializada para víctimas y ofendidos del delito;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 17 DE AGOSTO DE 2015)</small>
+
+XXV. Organizar y controlar a la defensoría pública.
 
 XXVI. Intervenir en el auxilio o en coordinación con las autoridades federales, en términos de las leyes en materia de cultos religiosos;
 
@@ -2790,6 +2808,38 @@ NOVENO. Cuando en otros ordenamientos legales administrativos, documentación y 
 DÉCIMO. Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento del presente Decreto.
 
 DÉCIMO PRIMERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 17 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor a los sesenta días naturales posteriores a su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley de Protección a Víctimas del Delito para el Estado de México publicada en el Periódico Oficial "Gaceta del Gobierno" el 23 de febrero de 2009.
+
+CUARTO. Se abroga la Ley de la Defensoría Especializada de Víctimas y Ofendidos del Estado de México publicada en el Periódico Oficial "Gaceta del Gobierno" el 26 de octubre de 2011.
+
+QUINTO. Las autoridades obligadas a prestar los servicios de atención y protección previstos en la presente Ley, deberán establecer anualmente las previsiones presupuestales que les permitan el cumplimiento de las obligaciones establecidas en la misma.
+
+SEXTO. El Ejecutivo Estatal expedirá las disposiciones reglamentarias de la presente Ley en un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor de este Decreto.
+
+SÉPTIMO. Los protocolos a que se refiere esta Ley se expedirán en un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor de este Decreto.
+
+OCTAVO. A partir de la entrada en vigor del presente Decreto, las Unidades de Atención a Víctimas del Delito quedarán adscritas a la Comisión Ejecutiva, pero continuarán operando y funcionando en las sedes donde actualmente se encuentran.
+
+NOVENO. Los convenios o instrumentos jurídicos celebrados a través del Instituto de Atención a las Víctimas del Delito del Estado de México dependiente de la Procuraduría General de Justicia del Estado de México, surtirán sus efectos en términos de las disposiciones que les dieron vigor y deberán ser renovados con las unidades administrativas competentes.
+
+DÉCIMO. El Gobierno del Estado, sus dependencias y entidades deberán proveer lo necesario para adecuar la normatividad aplicable, así como para redistribuir los recursos humanos, materiales y financieros existentes para la atención a víctimas a la Comisión Ejecutiva Estatal de Atención a Víctimas y Ofendidos del Delito.
+
+DÉCIMO PRIMERO. La Procuraduría General de Justicia del Estado de México y las Secretarías General de Gobierno, de Finanzas, de la Contraloría y la Consejería Jurídica del Ejecutivo Estatal proveerán lo necesario para dar cumplimiento a lo establecido por el presente Decreto.
+
+DÉCIMO SEGUNDO. Los recursos del Fondo para la Protección a las Víctimas y Ofendidos del Hecho Delictuoso creado en la Ley de Protección a Víctimas del Delito para el Estado de México publicada en el Periódico Oficial "Gaceta del Gobierno" el 23 de febrero de 2009, se transferirán al Fondo Estatal de Ayuda, Asistencia y Reparación Integral para la Protección a las Víctimas previsto en la presente Ley.
+
+DÉCIMO TERCERO. Los recursos del Fondo de Ayuda, Asistencia y Reparación Integral a las víctimas de violaciones a los derechos humanos constituido mediante Acuerdo del Ejecutivo del Estado, publicado el 15 de Junio de 2015 en el Periódico Oficial "Gaceta del Gobierno" se transferirán al Fondo Estatal de Ayuda, Asistencia y Reparación Integral para la Protección a las Víctimas y Ofendidos del Delito previsto en la presente Ley.
+
+DÉCIMO CUARTO. Los recursos de cualquier fondo de carácter estatal cuyo objeto sea la atención de las víctimas del delito, se transferirán al Fondo Estatal de Ayuda, Asistencia y Reparación Integral para la Protección a las Víctimas y Ofendidos del Delito previsto en la presente Ley.
+
+DÉCIMO QUINTO. Se derogan las disposiciones legales y administrativas que se opongan a lo dispuesto en el presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
