@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-secretaria-de-desarrollo-66153"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-23"
-last_updated: "2009-01-23"
+last_updated: "2015-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SUSTENTABLE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SUSTENTABLE, PUBLICADO EN EL P.O. DE 14 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 23 de enero de 2009.
 
@@ -71,7 +73,7 @@ Las unidades administrativas de la Secretaría, realizarán sus actividades de c
 
 Corresponde originalmente al Secretario y a los titulares de las unidades administrativas de la Secretaría, en el ámbito de sus respectivas competencias, realizar las notificaciones, visitas de verificación o inspección, así como certificaciones de los actos y documentos que emitan o que consten en sus expedientes, dentro de los procedimientos a su cargo. Los servidores públicos antes mencionados podrán delegar en el personal subalterno, las facultades objeto del presente artículo.
 
-### Capítulo II. De las Facultades del Secretario.de Desarrollo Sustentable
+### Capítulo II. De las Facultades del Secretario de Desarrollo Sustentable
 
 ###### Artículo 5.
 
@@ -492,3 +494,13 @@ L.A. Renato López Otamendi
 Secretario de Desarrollo Sustentable
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE AGOSTO DE 2015.
+
+Artículo Primero. El presente reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Sustentable publicado en el Periódico Oficial de (sic) Gobierno del Estado de Querétaro "La Sombra de Arteaga", número 5, de fecha 23 de enero de 2009.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento Interior.
