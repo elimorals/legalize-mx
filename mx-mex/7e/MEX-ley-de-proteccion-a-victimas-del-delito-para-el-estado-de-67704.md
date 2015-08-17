@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-proteccion-a-victimas-del-delito-para-el-estado-de-67704
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-23"
-last_updated: "2011-10-26"
+last_updated: "2015-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE PROTECCION A VICTIMAS DEL DELITO PARA EL ESTADO DE MEXICO
 
-LEY DE PROTECCION A VICTIMAS DEL DELITO PARA EL ESTADO DE MEXICO
+LEY DE PROTECCIÓN A VÍCTIMAS DEL DELITO PARA EL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE OCTUBRE DE 2011.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TERCERO TRANSITORIO DE LA LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, PUBLICADA EN LA G.G. DE 17 DE AGOSTO DE 2015; ORDENAMIENTO QUE ENTRA EN VIGOR A LOS SESENTA DÍAS NATURALES POSTERIORES A SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 17 DE AGOSTO DE 2015.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 23 de febrero de 2009.
 
@@ -391,7 +393,7 @@ I. Un Presidente, que será electo en la primera sesión del Órgano Rector, por
 
 II. Integrantes cada uno de los titulares de las dependencias y unidades administrativas del Ejecutivo así como del organismo autónomo que constituyen el propio Sistema y que son:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADO, G.G. 26 DE OCTUBRE DE 2011)</small>
 
@@ -405,7 +407,7 @@ d) El titular de la Procuraduría;
 
 e) El titular de la Dirección General del DIF Estatal; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 2011)</small>
 
@@ -633,9 +635,9 @@ Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cum
 
 Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México a los veintiséis días del mes de enero del año dos mil nueve.- Presidente.- Dip. Oscar Guillermo Ceballos González.- Secretarios.- Dip. Karla Leticia Fiesco García.- Dip. Carla Bianca Grieger Escudero.- Dip. Luis Antonio Guadarrama Sánchez.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-G.O. 30 DE MARZO DE 2011.
+G.G. 30 DE MARZO DE 2011.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
@@ -668,3 +670,35 @@ La Secretaría General de Gobierno, la Secretaría de Finanzas y la Secretaría 
 ###### ARTÍCULO QUINTO.
 
 El Titular del Ejecutivo del Estado y la Legislatura, expedirán las disposiciones reglamentarias y reformas a otros ordenamientos jurídicos, respectivamente, que se derivan de esta Ley, en un plazo no mayor a tres meses, posteriores a la entrada en vigor del presente Decreto.
+
+G.G. 17 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor a los sesenta días naturales posteriores a su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley de Protección a Víctimas del Delito para el Estado de México publicada en el Periódico Oficial "Gaceta del Gobierno" el 23 de febrero de 2009.
+
+CUARTO. Se abroga la Ley de la Defensoría Especializada de Víctimas y Ofendidos del Estado de México publicada en el Periódico Oficial "Gaceta del Gobierno" el 26 de octubre de 2011.
+
+QUINTO. Las autoridades obligadas a prestar los servicios de atención y protección previstos en la presente Ley, deberán establecer anualmente las previsiones presupuestales que les permitan el cumplimiento de las obligaciones establecidas en la misma.
+
+SEXTO. El Ejecutivo Estatal expedirá las disposiciones reglamentarias de la presente Ley en un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor de este Decreto.
+
+SÉPTIMO. Los protocolos a que se refiere esta Ley se expedirán en un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor de este Decreto.
+
+OCTAVO. A partir de la entrada en vigor del presente Decreto, las Unidades de Atención a Víctimas del Delito quedarán adscritas a la Comisión Ejecutiva, pero continuarán operando y funcionando en las sedes donde actualmente se encuentran.
+
+NOVENO. Los convenios o instrumentos jurídicos celebrados a través del Instituto de Atención a las Víctimas del Delito del Estado de México dependiente de la Procuraduría General de Justicia del Estado de México, surtirán sus efectos en términos de las disposiciones que les dieron vigor y deberán ser renovados con las unidades administrativas competentes.
+
+DÉCIMO. El Gobierno del Estado, sus dependencias y entidades deberán proveer lo necesario para adecuar la normatividad aplicable, así como para redistribuir los recursos humanos, materiales y financieros existentes para la atención a víctimas a la Comisión Ejecutiva Estatal de Atención a Víctimas y Ofendidos del Delito.
+
+DÉCIMO PRIMERO. La Procuraduría General de Justicia del Estado de México y las Secretarías General de Gobierno, de Finanzas, de la Contraloría y la Consejería Jurídica del Ejecutivo Estatal proveerán lo necesario para dar cumplimiento a lo establecido por el presente Decreto.
+
+DÉCIMO SEGUNDO. Los recursos del Fondo para la Protección a las Víctimas y Ofendidos del Hecho Delictuoso creado en la Ley de Protección a Víctimas del Delito para el Estado de México publicada en el Periódico Oficial "Gaceta del Gobierno" el 23 de febrero de 2009, se transferirán al Fondo Estatal de Ayuda, Asistencia y Reparación Integral para la Protección a las Víctimas previsto en la presente Ley.
+
+DÉCIMO TERCERO. Los recursos del Fondo de Ayuda, Asistencia y Reparación Integral a las víctimas de violaciones a los derechos humanos constituido mediante Acuerdo del Ejecutivo del Estado, publicado el 15 de Junio de 2015 en el Periódico Oficial "Gaceta del Gobierno" se transferirán al Fondo Estatal de Ayuda, Asistencia y Reparación Integral para la Protección a las Víctimas y Ofendidos del Delito previsto en la presente Ley.
+
+DÉCIMO CUARTO. Los recursos de cualquier fondo de carácter estatal cuyo objeto sea la atención de las víctimas del delito, se transferirán al Fondo Estatal de Ayuda, Asistencia y Reparación Integral para la Protección a las Víctimas y Ofendidos del Delito previsto en la presente Ley.
+
+DÉCIMO QUINTO. Se derogan las disposiciones legales y administrativas que se opongan a lo dispuesto en el presente Decreto.
