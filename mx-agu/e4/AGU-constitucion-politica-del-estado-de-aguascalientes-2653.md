@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2015-07-06"
+last_updated: "2015-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -581,9 +581,7 @@ XII.- Designar en los términos que prevé esta Constitución, al ciudadano que 
 
 XIII.- Decidir sobre la renuncia del cargo de Gobernador;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
-
-XIV.- Ratificar, con el voto de la mayoría de los integrantes del Congreso, el nombramiento de Jefe de Gabinete que otorgue el Titular del Poder Ejecutivo;
+XIV.- (DEROGADA, P.O. 17 DE AGOSTO DE 2015)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2014)</small>
 
@@ -931,19 +929,19 @@ El Gobernador del Estado será electo directamente por el pueblo, en los términ
 
 "PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO Y LAS LEYES QUE DE AMBAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE GOBERNADOR QUE EL PUEBLO ME HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DEL ESTADO; Y SI ASI NO LO HICIERE, QUE EL PUEBLO ME LO DEMANDE".
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 42.
 
-En caso de falta absoluta de Gobernador, ocurrida dentro de los dos primeros años del período respectivo, el Jefe de Gabinete será el encargado del despacho del Poder Ejecutivo. El Congreso expedirá dentro de los veinte días siguientes la Convocatoria para la elección de Gobernador que debe concluir el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones, un plazo no menor de seis meses ni mayor de ocho. La persona así elegida asumirá el cargo de Gobernador en un plazo no mayor de dos meses contados a partir de que sea electo.
+En caso de falta absoluta de Gobernador, ocurrida dentro de los dos primeros años del período respectivo, el Secretario General de Gobierno será el encargado del despacho del Poder Ejecutivo. El Congreso expedirá dentro de los veinte días siguientes la Convocatoria para la elección de Gobernador que debe concluir el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones, un plazo no menor de seis meses ni mayor de ocho. La persona así elegida asumirá el cargo de Gobernador en un plazo no mayor de dos meses contados a partir de que sea electo.
 
-Cuando la falta de Gobernador ocurriese en los cuatro últimos años del período correspondiente, el Jefe de Gabinete se encargará del despacho del Poder Ejecutivo, en tanto el Congreso se erige en Colegio Electoral y nombra por mayoría absoluta al Gobernador Sustituto que deberá concluir el período.
+Cuando la falta de Gobernador ocurriese en los cuatro últimos años del período correspondiente, el Secretario General de Gobierno se encargará del despacho del Poder Ejecutivo, en tanto el Congreso se erige en Colegio Electoral y nombra por mayoría absoluta al Gobernador Sustituto que deberá concluir el período.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 43.
 
-En las faltas temporales del Gobernador, ejercerá el Poder Ejecutivo el Jefe de Gabinete como encargado del Despacho.
+En las faltas temporales del Gobernador, ejercerá el Poder Ejecutivo el Secretario General de Gobierno como encargado del Despacho.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
 
@@ -951,11 +949,11 @@ En las faltas temporales del Gobernador, ejercerá el Poder Ejecutivo el Jefe de
 
 Si al comenzar un período constitucional no se presentase el Gobernador electo, o la elección no estuviere hecha y declarada el primero de octubre, cesará, sin embargo, el Gobernador cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Interino, el ciudadano que designe el Congreso, o en su receso, con el carácter de Provisional, el que designe la Diputación Permanente, observándose lo dispuesto en los Artículos 42 y 43 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 45.
 
-En los casos en que el Gobernador se ausente legalmente del territorio del Estado, sin separarse de su cargo, el Jefe de Gabinete quedará encargado del Despacho, y se limitará a conocer de los asuntos que fueren inaplazables y de los de mero trámite.
+En los casos en que el Gobernador se ausente legalmente del territorio del Estado, sin separarse de su cargo, el Secretario General de Gobierno quedará encargado del Despacho, y se limitará a conocer de los asuntos que fueren inaplazables y de los de mero trámite.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
@@ -997,9 +995,9 @@ VIII.- Concertar empréstitos en los términos de la fracción IV del Artículo 
 
 IX.- Ejercer actos de dominio sobre los bienes de la propiedad del Estado, con autorización del Congreso, tratándose de inmuebles.
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2015)</small>
 
-X.- Nombrar y remover al Jefe del Gabinete que cuyo nombramiento será ratificado por el Congreso del Estado, nombrar y remover al Secretario de Gobierno, al Secretario de Finanzas y a los demás servidores públicos del Poder Ejecutivo Estatal; así como ejercer las facultades en la designación y remoción del Fiscal General del Estado en términos de lo establecido en el Artículo 59 de esta Constitución;
+X.- Nombrar y remover al Secretario General de Gobierno, al Secretario de Finanzas y a los demás servidores públicos del Poder Ejecutivo Estatal; así como ejercer las facultades en la designación y remoción del Fiscal General del Estado en términos de lo establecido en el Artículo 59 de esta Constitución;
 
 XI.- Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los Tribunales.
 
@@ -1039,15 +1037,15 @@ XX.- Las demás que esta Constitución y la General de la República le confiere
 
 El cargo de Gobernador solo es renunciable por causa grave que calificará el Congreso, ante el que se presentará la renuncia.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE AGOSTO DE 2015)</small>
 
-### CAPITULO UNDECIMO. Del Jefe de Gabinete
+### CAPITULO UNDECIMO. Del Secretario General de Gobierno
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 48.
 
-La coordinación de la Administración Pública del Estado y la función de interlocución del Poder Ejecutivo con los Poderes Legislativo y Judicial del Estado, así como con las autoridades municipales se realizará a través del Jefe de Gabinete, quien deberá reunir los requisitos siguientes:
+Para el Despacho de los negocios de la Administración Pública del Estado, habrá un Secretario General de Gobierno, quien deberá reunir los siguientes requisitos:
 
 I.- Ser ciudadano mexicano por nacimiento, nativo del Estado o con residencia efectiva en él, no menor de cinco años inmediatamente anteriores al día de la designación;
 
@@ -1055,19 +1053,17 @@ II.- Estar en pleno ejercicio de sus derechos; y
 
 III.- Ser mayor de 30 años.
 
-Los mismos requisitos se necesitarán para ser Secretario de Gobierno.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 49.
 
-Todos los despachos del Gobernador deberán ser firmados por el Jefe de Gabinete.
+Todos los despachos del Gobernador deberán ser firmados por el Secretario General de Gobierno.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 50.
 
-Las faltas temporales del Jefe del Gabinete serán suplidas por el Secretario de Gobierno, en cuyo caso éste deberá firmar los despachos del Gobernador.
+Las ausencias del Secretario General de Gobierno serán suplidas conforme la normatividad reglamentaria, en cuyo caso la persona que lo supla deberá firmar los despachos del Gobernador.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1191,9 +1187,9 @@ Corresponde al Supremo Tribunal de Justicia del Estado:
 
 I.- Conocer en los juicios civiles y penales de las instancias y recursos que sean de su competencia, conforme a las leyes secundarias.
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2015)</small>
 
-II.- Conocer, en los términos de esta Constitución de los procesos que por ilícitos se sigan en contra del Gobernador, de los Diputados, del Jefe de Gabinete, del Secretario de Gobierno, del Fiscal General del Estado, el Presidente Municipal, Regidores y Síndicos de los Ayuntamientos.
+II.- Conocer, en los términos de esta Constitución de los procesos que por ilícitos se sigan en contra del Gobernador, de los Diputados, del Secretario General de Gobierno, del Fiscal General del Estado, el Presidente Municipal, Regidores y Síndicos de los Ayuntamientos.
 
 III.- Declarar si ha lugar a formación de causa en contra de los jueces, por ilícitos oficiales o del orden común.
 
@@ -1835,11 +1831,11 @@ Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, presta
 
 Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado o los Municipios.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 91.
 
-En caso de que desaparecieren los Poderes Ejecutivo y Legislativo, el Supremo Tribunal de Justicia nombrará un Gobernador Provisional. Si desaparecieren todos los Poderes, será Gobernador Provisional el último Presidente del Supremo Tribunal de Justicia, a falta de éste y por su orden, el último Jefe de Gabinete, el Presidente de la Diputación Permanente, o bien, quien haya fungido como Presidente de la anterior legislatura.
+En caso de que desaparecieren los Poderes Ejecutivo y Legislativo, el Supremo Tribunal de Justicia nombrará un Gobernador Provisional. Si desaparecieren todos los Poderes, será Gobernador Provisional el último Presidente del Supremo Tribunal de Justicia, a falta de éste, el último Secretario General de Gobierno o el último Presidente de la Mesa Directiva del Congreso del Estado, en el orden en que se mencionan.
 
 > <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -2892,6 +2888,12 @@ P.O. 22 DE JUNIO DE 2015.
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 6 DE JULIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE AGOSTO DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
