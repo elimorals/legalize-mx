@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-destruccion-de-formatos-de-credencial-y-6760
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-23"
-last_updated: "2009-03-23"
+last_updated: "2015-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67602&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,15 @@ issue_date: "2009-02-27"
 ---
 # REGLAMENTO PARA LA DESTRUCCION DE FORMATOS DE CREDENCIAL Y CREDENCIALES PARA VOTAR
 
-REGLAMENTO PARA LA DESTRUCCION DE FORMATOS DE CREDENCIAL Y CREDENCIALES PARA VOTAR
+REGLAMENTO PARA LA DESTRUCCIÓN DE FORMATOS DE CREDENCIAL Y CREDENCIALES PARA VOTAR.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE AGOSTO DE 2015.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 23 de marzo de 2009.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Instituto Federal Electoral.- Consejo General.- CG59/2009.
+
+> <small>N. DE E. EL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA MODIFICAR EL "REGLAMENTO PARA LA DESTRUCCIÓN DE FORMATOS DE CREDENCIAL Y CREDENCIALES PARA VOTAR", APROBADO POR EL ÓRGANO MÁXIMO DE DIRECCIÓN DEL OTRORA INSTITUTO FEDERAL ELECTORAL, EL 27 DE FEBRERO DE 2009, MEDIANTE ACUERDO CG59/2009, PUBLICADO EN EL D.O.F. DE 17 DE AGOSTO DE 2015, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.</small>
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE APRUEBA EL "REGLAMENTO PARA LA DESTRUCCION DE FORMATOS DE CREDENCIAL Y CREDENCIALES PARA VOTAR".
 
@@ -255,432 +257,438 @@ Articulo 42
 
 REGLAMENTO PARA LA DESTRUCCION DE FORMATOS DE CREDENCIAL Y CREDENCIALES PARA VOTAR
 
-## TITULO PRIMERO
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-### CAPITULO UNICO. Disposiciones generales
+## TÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
-ARTICULO 1
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-Objeto
+### CAPÍTULO ÚNICO. De las disposiciones generales
 
-1. El presente ordenamiento regula las disposiciones del Código Federal de Instituciones y Procedimientos Electorales en lo relativo al retiro y destrucción de los formatos de CPV, cuya solicitud fue cancelada por aplicación del artículo 199 párrafos del 1 al 6; así como la destrucción de los formatos de Credencial Retirados por Causa y las Credenciales para Votar devueltas por sus titulares o por terceros.
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-2. Los casos no previstos en el presente Reglamento para el retiro y destrucción de los formatos de las Credenciales para Votar cancelados y retirados por causa, así como de las Credenciales para Votar devueltas por sus titulares o por terceros, serán resueltos, previa discusión y aprobación, por la Comisión Nacional de Vigilancia del Registro Federal de Electores.
+ARTÍCULO 1
 
-3. En caso de inobservancia del presente reglamento, se aplicará lo ordenado en los artículos 379 a 387 del Código Federal de Instituciones y Procedimientos Electorales, relativos a las responsabilidades de los servidores públicos del Instituto Federal Electoral.
+1. El presente Reglamento regula lo referente al retiro, verificación y destrucción de los formatos de credencial de los ciudadanos mexicanos residentes en territorio nacional o en el extranjero, cuya solicitud haya sido cancelada por aplicación del artículo 155, párrafos 1 a 5, de la Ley General de Instituciones y Procedimientos Electorales; así como de los formatos de credencial retirados por causa y las credenciales para votar devueltas por sus titulares o por terceros.
 
-4. La Comisión Nacional de Vigilancia determinará el procedimiento técnico operativo que deberán aplicar las Vocalías del Registro Federal de Electores en las Juntas Locales y Distritales Ejecutivas para la debida instrumentación de este reglamento.
+2. Los casos no previstos en el presente Reglamento relativos al retiro, verificación y destrucción, serán resueltos por la Dirección Ejecutiva del Registro Federal de Electores, previo análisis y aprobación de la Comisión Nacional de Vigilancia.
 
-ARTICULO 2
+3. En caso de inobservancia del presente Reglamento, se aplicará lo ordenado en los artículos 478 a 486 de la Ley General de Instituciones y Procedimientos Electorales, relativos a las responsabilidades de los servidores públicos del Instituto Nacional Electoral.
 
-Criterios para su interpretación
+4. La Comisión Nacional de Vigilancia determinará el procedimiento técnico operativo que deberán aplicar las Vocalías del Registro Federal de Electores de las Juntas Locales y Distritales Ejecutivas, y las oficinas que se establezcan en el extranjero, para la debida instrumentación de este Reglamento en el apartado correspondiente a la cancelación de trámites.
 
-1. La interpretación de las disposiciones de este Reglamento, se sujetarán a los criterios establecidos en el párrafo 2 del artículo 3 del Código Federal de Instituciones y Procedimientos Electorales.
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-ARTICULO 3
+ARTÍCULO 2
 
-Glosario
+1. Glosario de términos:
 
-1. Para efectos de la aplicación del presente reglamento, se entenderá por:
+a) CDV. Comisión Distrital de Vigilancia.
 
-a) COFIPE: Código Federal de Instituciones y Procedimientos Electorales
+b) CECyRD. Centro de Cómputo y Resguardo Documental.
 
-b) DERFE: Dirección Ejecutiva del Registro Federal de Electores
+c) CLV. Comisión Local de Vigilancia.
 
-c) CECYRD: Centro de Cómputo y Resguardo Documental
+d) CNV. Comisión Nacional de Vigilancia.
 
-d) VLRFE: Vocalía del Registro Federal de Electores de la Junta Local Ejecutiva
+e) CPV. Credencial Para Votar.
 
-e) VDRFE: Vocalía del Registro Federal de Electores de la Junta Distrital Ejecutiva
+f) DERFE. Dirección Ejecutiva del Registro Federal de Electores.
 
-f) CNV: Comisión Nacional de Vigilancia
+g) FEPADE. Fiscalía Especializada Para la Atención de Delitos Electorales de la Procuraduría General de la República.
 
-g) CLV: Comisión Local de Vigilancia
+h) LGIPE. Ley General de Instituciones y Procedimientos Electorales.
 
-h) CDV: Comisión Distrital de Vigilancia
+i) MAC. Módulo de Atención Ciudadana.
 
-i) CONASE: Comité Nacional de Supervisión y Evaluación
+j) OCR. Número identificador de 12 o 13 caracteres vertical u horizontal, donde los primeros cuatro caracteres corresponde a la sección electoral y el resto es un consecutivo nacional.
 
-j) FUAR: Formato Unico de Actualización y Recibo
+k) RFE. Registro Federal de Electores.
 
-k) CPV: Credencial Para Votar
+l) VRFEJDE. Vocalía del Registro Federal de Electores de la Junta Distrital Ejecutiva.
 
-l) MAC: Módulo de Atención Ciudadana.
+m) VRFEJLE. Vocalía del Registro Federal de Electores de la Junta Local Ejecutiva.
 
-## TITULO SEGUNDO. DESTRUCCION DE FORMATOS DE CREDENCIAL CUYO TRAMITE FUE CANCELADO
+2. Para efectos de la aplicación del presente Reglamento, se entenderá por:
 
-### CAPITULO I. De los criterios para cancelar las solicitudes de trámite y su procesamiento
+a) Credenciales devueltas por terceros. Son las credenciales para votar que se reciben en Oficinas Centrales o las Vocalías del RFE de las Juntas Ejecutivas Locales y Distritales, entregadas por instituciones públicas y privadas así como por otras personas.
 
-ARTICULO 4
+b) Exportación de bases de datos. Es la extracción de información parcial de la base de datos.
 
-1. Serán canceladas todas las solicitudes de trámite efectuadas por los ciudadanos ante los MAC que no hayan acudido a recoger las credenciales para votar, a más tardar al día 31 de marzo del segundo año posterior al que se realizó el trámite.
+c) Formatos de credencial. Credenciales impresas que están en el MAC a disposición de los ciudadanos y no han sido entregadas a sus titulares.
 
-ARTICULO 5
+d) Formatos de credenciales retirados por causa. Son aquellos formatos de credenciales para votar no entregables a sus titulares por movimiento posterior o baja del registro.
 
-1. La DERFE generará de manera electrónica, la relación de candidatos que se encuentren en el supuesto del artículo anterior, ordenándolos por Estado, Distrito y Sección, en forma alfabética, para efecto de tener el conocimiento y control preciso del total de formatos de solicitudes que serán sujetos a cancelación.
+e) Fusión de bases de datos. Es la integración de la información de las bases de datos.
 
-### CAPITULO II. Del retiro de los formatos de CPV a destruir del MAC
+f) Importación de bases de datos. Es la incorporación de información a una base de datos.
 
-ARTICULO 6
+g) Solicitud Individual. Formato a través del cual la DERFE obtiene la información básica del ciudadano para generar la CPV, así como actualizar y/o depurar el padrón electoral.
 
-1. El día 31 de marzo de cada año, al concluir la atención a la ciudadanía, se retirarán de los MAC, los formatos de las CPV correspondientes a los trámites que serán cancelados de acuerdo con la relación de candidatos generada previamente.
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-2. Se retirarán de los MAC los formatos de CPV generados por los trámites de Solicitud de Expedición de Credencial y Demandas de Juicio para la Protección de los Derechos Políticos de los ciudadanos, relativos a expedición de CPV, interpuestos durante el segundo año anterior a la fecha de aplicación.
+ARTÍCULO 3
 
-ARTICULO 7
+1. La interpretación de las disposiciones de este Reglamento, se sujetarán a los criterios establecidos en el párrafo 2 del artículo 5 de la LGIPE.
 
-1. Para efectuar el retiro de los formatos de CPV en el MAC, se deberá verificar nominativamente que coincidan con el listado de candidatos generados por la DERFE para ese propósito.
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-2. Si la relación de formatos de las CPV existentes no coincide con el listado de candidatos generado por la DERFE, y existe algún formato faltante, se deberá corroborar que se encuentre en alguno de los siguientes estatus:
+## TÍTULO SEGUNDO. DEL RETIRO DE LOS FORMATOS DE CREDENCIAL CUYO TRÁMITE FUE CANCELADO
 
-a) Credencial entregada,
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-b) Retirada por causa,
+### CAPÍTULO I. De los criterios para cancelar las solicitudes de trámite y su procesamiento
 
-c) Anexa a FUAR,
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-d) Anexa a solicitud de reimpresión,
+ARTÍCULO 4
 
-e) Robado o extraviado con su correspondiente Acta levantada o,
+1. De conformidad con el párrafo 1 del artículo 155 de la LGIPE, las solicitudes de trámite realizadas por los ciudadanos residentes en territorio nacional y las de ciudadanos residentes en el extranjero, que no cumplan con la obligación de acudir a la oficina o módulo del Instituto correspondiente a su domicilio a obtener su CPV, a más tardar el último día de febrero del segundo año posterior a aquél en que se hayan presentado, serán canceladas.
 
-f) No existe en el MAC por fusión de base de datos o exportación a otro MAC.
+2. Se cancelarán todos los tipos de trámites cuyas credenciales no hayan sido recogidas por los ciudadanos en el periodo establecido, relativos a Inscripción, Cambio de domicilio, Corrección de Datos Personales, Corrección de Datos de Dirección, Reposición, Reemplazo y Reincorporación, producto de instancias administrativas y demandas de juicio.
 
-De presentarse los supuestos anteriores, se procederá a asentarlo en el formato de control correspondiente.
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-3. En relación con el artículo anterior y al haber verificado, que existe el extravío o faltante de formatos de CPV, que no se encuadran en los supuestos que señala el párrafo anterior, se procederá a elaborar el acta administrativa correspondiente por motivo de extravío, misma que se anexará al formato de control correspondiente y se ejecutará lo dispuesto en el procedimiento que aplica la DERFE para estos casos.
+ARTÍCULO 5
 
-ARTICULO 8
+1. Para tener el control preciso del total de los formatos de credencial o credenciales no entregadas que serán sujetas a cancelación, la DERFE generará de manera electrónica, la relación de las solicitudes de trámite (candidatos) que se encuentren en el supuesto del artículo anterior, ordenadas por Estado, Distrito y Sección, en forma alfabética.
 
-1. Si los formatos de las CPV no coinciden con el listado de candidatos generado por la DERFE, y existen formatos sobrantes, es pertinente confrontar que su estatus corresponda a aquellas consideradas como propuestas de retiros anteriores, o bien porque son producto de una importación de base de datos y formatos de CPV de un MAC expulsor al MAC en cuestión y el CECYRD los está solicitando para retiro en el MAC de origen.
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-2. En los casos donde no coincidan los formatos de credencial por fusión, exportación o importación de base de datos, referidos en el artículo anterior, se deberá validar y corroborar en la VDRFE a que MAC corresponde el formato de CPV.
+### CAPÍTULO II. Del retiro y verificación de los formatos de credencial
 
-3. Si al haber verificado, existen formatos de credencial sobrantes que no corresponden a ningún caso señalado en el artículo anterior, se procederá conforme a lo siguiente:
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-a) Volver a corroborar la fecha de solicitud, ya que puede no corresponder a la fecha de aplicación y en todo caso, el formato se integra al paquete y se asentará en el Reporte de Retiro de Credencial por el MAC.
+ARTÍCULO 6
 
-b) En caso de que sí corresponda, puede suceder que por alguna inconsistencia no aparece relacionado, por lo tanto, ese formato de Credencial se anexará al paquete y se asentará en el formato de control correspondiente. En este supuesto se deberá aclarar porque se dio la inconsistencia y no se solicitó el formato para retiro.
+1. El último día de febrero de cada año, al concluir la atención a la ciudadanía, se retirarán de los MAC los formatos de credencial o credenciales no entregadas correspondientes a los trámites que serán cancelados de acuerdo con la relación de candidatos generada previamente.
 
-ARTICULO 9
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-1. En el MAC, se deberán inhabilitar, los formatos de las CPV, para lo cual el responsable de MAC efectuará un corte triangular en el área de la fotografía, de cada formato.
+ARTÍCULO 7
 
-2. Una vez inhabilitados los formatos de CPV, procederá a empaquetarlos para su entrega a la VDRFE, acompañados del listado de candidatos correspondiente, debidamente ordenados por sección de menor a mayor y al interior en orden alfabético, iniciando por el apellido paterno del titular.
+1. Para efectuar el retiro de los formatos de credencial se deberá verificar que coincidan nominativamente con el listado de candidatos generados por la DERFE para ese propósito.
 
-ARTICULO 10
+2. Si los formatos de credencial no coinciden con el listado de candidatos generado por la DERFE, porque se identifica algún formato de credencial o credencial no entregada faltante, se deberá corroborar que se encuentre en alguno de los siguientes supuestos:
 
-1. Los Vocales del Registro Federal de Electores en las Juntas Distritales deberán prever que se cuente con las medidas de seguridad suficientes, para el traslado de los formatos de las CPV provenientes de los MAC.
+a) Credencial entregada;
 
-## TITULO TERCERO. DESTRUCCION DE FORMATOS DE CREDENCIALES RETIRADOS POR CAUSA Y CREDENCIALES DEVUELTAS POR SU TITULAR O POR TERCEROS
+b) Retirado por causa;
 
-### CAPITULO III. Verificación de formatos de CPV cuyo trámite fue cancelado
+c) Anexo a la Solicitud Individual;
 
-ARTICULO 11
+d) Anexo a solicitud de reimpresión;
 
-1. Los Vocales del Registro Federal de Electores en las Junta Distritales Ejecutivas recibirán los paquetes de formatos de CPV por MAC y los ordenará en forma ascendente por clave de MAC y nominativo correspondiente.
+e) Robado o extraviado, con su correspondiente Acta levantada;
 
-ARTICULO 12
+f) No existe en el MAC por fusión de base de datos o exportación a otro MAC, o
 
-1. En cumplimiento a las atribuciones conferidas en el artículo 202, párrafo 1, del COFIPE, el Vocal del Registro Federal de Electores en la Junta Distrital Ejecutiva, convocará a sesión permanente de la CDV, en la que participan los representantes de los Partidos Políticos acreditados, con la finalidad de verificar los formatos de CPV a destruir.
+g) Solicitado por la Secretaría Técnica Normativa de la DERFE o la FEPADE, cuando en apego a sus atribuciones les sea necesario.
 
-2. En sesión de la CDV, el Vocal del Registro Federal de Electores en la Junta Distrital Ejecutiva procederá a abrir los paquetes que contienen los formatos de CPV retirados, a fin de verificar que estén debidamente inhabilitados y efectuará la lectura del 100% y verificación de los mismos.
+De presentarse alguno de los supuestos anteriores, se procederá a asentarlo en el formato de control correspondiente.
 
-ARTICULO 13
+3. Si persistiera la falta de formatos de credencial al no encontrarse en alguno de los supuestos que señala el párrafo anterior, se procederá a elaborar acta administrativa con los elementos que se tengan, misma que se anexará al formato de control correspondiente y se ejecutará lo dispuesto en el procedimiento a seguir en los casos de extravío o faltante de un documento electoral.
 
-1. Si producto de la verificación, existieran sobrantes de los formatos de credencial, el Vocal del Registro Federal de Electores en la Junta Distrital Ejecutiva deberá verificar las siguientes causas:
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-a) Si corresponden a retiros anteriores.
+ARTÍCULO 8
 
-b) Son producto de fusión de bases de datos entre MAC.
+1. Si los formatos de credencial no coinciden con lo asentado en el listado de candidatos generado por la DERFE, por existir formatos de credencial sobrantes, se deberá confrontar que su estatus corresponda a aquellos considerados como propuestas de retiros anteriores, o bien porque son producto de una importación de base de datos y de CPV.
 
-c) El CECYRD los solicita para el retiro en otro Distrito.
+2. En los casos en los cuales los formatos de credencial no coincidan por fusión, exportación o importación de base de datos, referidos en el artículo anterior, se deberá validar y corroborar en la VRFEJDE a qué MAC corresponde la CPV.
 
-De confirmarse estos casos, los formatos de CPV se deberán relacionar y organizaran por sección de menor a mayor y al interior en orden alfabético con la observación de sobrantes en la etiqueta correspondiente.
+3. Si después de su verificación aún existen formatos de credencial y credenciales sobrantes que no corresponden a ninguno de los casos señalados en los párrafos anteriores, se procederá conforme a lo siguiente:
 
-2. Si producto de la verificación, existieran faltantes de los formatos de credencial, el Vocal del Registro Federal de Electores en la Junta Distrital Ejecutiva deberá verificar las siguientes causas:
+a) Se deberá volver a corroborar que la fecha de solicitud del trámite cumple con dos años a partir de que fue solicitada por el ciudadano. El formato de credencial o credencial no entregada se integrará al paquete y se asentará en el Reporte de Retiro de Credencial por el MAC.
 
-a) Credencial entregada.
+b) En caso de que el formato de credencial o credencial no entregada sí corresponda al periodo establecido, se anexará al paquete y se asentará en el formato de control correspondiente. En este supuesto se deberá aclarar la razón por la cual se dio la inconsistencia y no se solicitó el formato de credencial o credencial no entregada para retiro.
 
-b) Anexa al FUAR.
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-c) Anexa a solicitud de reimpresión.
+ARTÍCULO 9
 
-d) No existen en el MAC por fusión de base de datos o exportación de credenciales disponibles.
+1. Antes de retirar los formatos de credencial, el funcionario del módulo deberá inhabilitarlos en el MAC, mediante un corte triangular en el área de la fotografía de cada formato de credencial o credencial no entregada, cuidando de no dañar el código de barras ni el OCR.
 
-e) Robo o extravío.
+2. Una vez que los formatos de credencial se inhabiliten, se procederá a empaquetarlos para su entrega a la VRFEJDE, acompañados del listado de candidatos correspondiente, debidamente ordenados por sección de menor a mayor y al interior en orden alfabético, iniciando por el apellido paterno del titular.
 
-De confirmarse el faltante de los formatos de CPV se verificará la existencia de actas administrativas levantadas por robo y/o extravío o, en su caso, como consecuencia se levantará acta administrativa del hecho y se ejecutará lo dispuesto en el procedimiento de extravío de documentación electoral correspondiente.
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-3. El Vocal del Registro Federal de Electores en la Junta Distrital, deberá empaquetar y sellar nuevamente los formatos de CPV inhabilitados, respetando su orden de colocación por MAC y sección de menor a mayor y al interior de ésta en orden alfabético.
+## TÍTULO TERCERO. DE LA RECEPCIÓN Y RETIRO DE CREDENCIALES DEVUELTAS POR SU TITULAR O POR TERCEROS Y FORMATOS DE CREDENCIAL RETIRADOS POR CAUSA
 
-4. Los paquetes de los formatos de las CPV serán firmados por los integrantes de la CDV, a efecto de ser trasladados a la VLRFE.
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-ARTICULO 14
+### CAPÍTULO I. De la recepción de credenciales devueltas por sus titulares
 
-1. Las acciones realizadas para la destrucción de los formatos de CPV, así como la participación de los integrantes CDV en dicho proceso, deberán quedar asentadas en el acta de la sesión correspondiente.
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-ARTICULO 15
+ARTÍCULO 10
 
-1. EL Vocal del Registro Federal de Electores de la JDRFE remitirá los formatos de CPV, empaquetados, sellados y firmados por los representantes de la CDV, a la VLRFE.
+1. El personal de los MAC que entregue a los ciudadanos una nueva CPV, les solicitará la devolución de la CPV anterior para su inhabilitación, verificación y posterior destrucción.
 
-2. En caso de que por alguna razón los paquetes que contienen los formatos de CPV a destruir, no llegaran a su destino final para su destrucción, por extravío, se deberá se deberá (sic) ejecutar el Procedimiento que aplica la DERFE para el tratamiento del extravío o, faltante de un documento electoral registral.
+2. Las CPV devueltas por sus titulares serán inhabilitadas, en forma inmediata a su recepción, por el funcionario del MAC que realice la entrega de la nueva CPV al ciudadano, en presencia del mismo.
 
-3. Si la causa por la que los formatos de CPV no llegarán a su destino para su destrucción, se deba aún robo parcial o total, la Vocalía del Registro Federal de Electores en la Junta Distrital, elaborará el acta administrativa de hechos y presentará la denuncia penal correspondiente, ante la autoridad competente.
+3. La inhabilitación de las CPV se realizará mediante un corte triangular en el área de la fotografía, cuidando de no dañar el código de barras ni el OCR.
 
-ARTICULO 16
+4. Las CPV inhabilitadas se resguardarán en el MAC de acuerdo con las medidas de seguridad establecidas en los manuales operativos, debidamente ordenadas por sección de menor a mayor, para su posterior envío a la VRFEJDE.
 
-1. El Vocal del Registro Federal de Electores en la Junta Local Ejecutiva, deberá prever con anticipación que se cuente con las medidas de seguridad suficientes, para el traslado de los formatos de las CPV provenientes de las VDRFE y de su custodia.
+5. El Vocal del RFE de la Junta Distrital, deberá generar una relación electrónica de las CPV que se hayan recibido por devolución de sus titulares en cada uno de los MAC, ordenándolas por Entidad Federativa, Distrito Electoral Federal, Sección Electoral y al interior de ésta en forma alfabética.
 
-### CAPITULO IV. De la destrucción de los formatos de CPV cuyo trámite fue cancelado
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-ARTICULO 17
+### CAPÍTULO II. De la recepción de credenciales devueltas por terceros
 
-1. Los formatos de CPV de los trámites cancelados, así como los correspondientes a Solicitudes de Expedición de CPV y demandas de Juicio para la Protección de los Derechos Político-Electorales de los Ciudadanos, que se encuentran en los supuestos del capítulo anterior, se destruirán por trituración.
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-ARTICULO 18
+ARTÍCULO 11
 
-1. El Vocal del Registro Federal de Electores en cada Junta Local Ejecutiva, al tener conocimiento de que se han recibido la totalidad de los paquetes con formatos retirados e inhabilitados, provenientes de las Juntas Distritales Ejecutivas, convocará a sesión permanente de la CLV y al Vocal Secretario de la Junta Local Ejecutiva, a fin de llevar a cabo la destrucción por trituración de los formatos de CPV retirados e inhabilitados.
+1. La DERFE, a través de sus Oficinas Centrales o de las VRFEJDE y VRFEJDE, recibirá de las instituciones públicas, privadas y de terceros, cuando éstos la pongan a disposición, las CPV que obren en su poder, para su autenticación, inhabilitación y posterior destrucción.
 
-2. En la sesión de la CLV, se entregará a sus integrantes, la relación de los formatos de CPV a destruir, además de proporcionar en forma magnética los listados nominativos de los mismos.
+2. Las CPV devueltas por terceros serán autenticadas e inhabilitadas, en forma inmediata a su recepción, por un funcionario designado para esta función.
 
-ARTICULO 19
+Las CPV se autenticarán para saber si son falsas, las credenciales legítimas seguirán su curso conforme al presente Reglamento. Las credenciales falsas se remitirán a la Secretaría Técnica Normativa de la DERFE para su tratamiento conforme al procedimiento para ello definido. En ambos casos serán informadas a la CNV.
 
-1. Por acuerdo de los integrantes de la CLV, se determinará el universo de formatos de CPV que serán verificados a efecto de validar que correspondan a los que se retiraron físicamente de los MAC, conforme a las siguientes opciones:
+3. La inhabilitación de las CPV se realizará conforme a lo descrito en el párrafo 3 del artículo 10 del presente Reglamento.
 
-a) Corroborar el contenido de los listados, efectuando un muestreo de al menos el 20% de los listados contra los formatos de CPV disponibles para su destrucción, o
+4. El funcionario designado para esta función deberá generar una relación electrónica de las CPV que haya recibido, ordenándolas conforme a lo descrito en el párrafo 4 del artículo 10 del presente Reglamento.
 
-b) Confrontar el total de los listados contra el total de formatos de CPV retirados de los MAC para su destrucción.
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-ARTICULO 20
+ARTÍCULO 12
 
-1. Si producto de la verificación, existieran formatos de CPV sobrantes, el Vocal del Registro Federal de Electores en la Junta Local Ejecutiva deberá verificar lo siguiente:
+1. Los funcionarios de las áreas centrales y desconcentradas de la DERFE, que cuenten con CPV inhabilitadas, deberán enviarlas a la VRFEJLE de la entidad, acompañadas de la relación electrónica correspondiente.
 
-a) Si corresponden a retiros anteriores.
+2. Los Vocales del RFE de las Juntas Locales Ejecutivas deberán recibir y resguardar las CPV inhabilitadas.
 
-b) Son producto de fusiones entre MAC.
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-De ser necesario, se solicitará a la VDRFE el informe sobre la procedencia de dichos formatos de CPV.
+ARTÍCULO 13
 
-2. Si producto de la verificación, existieran formatos de CPV faltantes, el Vocal del Registro Federal de Electores en la Junta Local Ejecutiva deberá verificar las siguientes causas:
+1. Las CPV devueltas por terceros, serán integradas al proceso de destrucción de conformidad con lo dispuesto en el Titulo Quinto de este Reglamento.
 
-a) Credencial entregada.
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-b) Anexa al FUAR.
+### CAPÍTULO III. Del retiro de los formatos de credencial por causa y de las credenciales devueltas por sus titulares o por terceros
 
-c) Anexa a solicitud de reimpresión.
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-d) No existen en el MAC por fusión de base de datos o exportación de credenciales disponibles.
+ARTÍCULO 14
 
-e) Robo o extravío.
+1. Se retirarán de los MAC los formatos de credencial y las CPV en los siguientes supuestos:
 
-3. De confirmarse el faltante de los formatos de credencial se verificará la existencia de actas administrativas levantadas por robo y/o extravío o, en su caso, como consecuencia se levantará acta administrativa del hecho, y se ejecutará lo dispuesto en el procedimiento de extravío de documentación electoral registral que aplica la DERFE en estos casos.
+a) Por causa de improcedencia de su entrega a su titular;
 
-ARTICULO 21
+b) Anexos a una solicitud acompañada de CPV;
 
-1. Una vez que se hayan verificado los formatos de CPV a destruir, en presencia de los integrantes de la CLV correspondiente, personal de la VLRFE, procederán a preparar los materiales para su destrucción.
+c) Anexos a la Solicitud individual por devolución de sus titulares, y
 
-2. La destrucción por trituración de los formatos de CPV deberá realizarse dentro de los periodos siguientes:
+d) Devueltas por terceros.
 
-­- Cuando el retiro se realice en el año de la jornada electoral, la destrucción deberá efectuarse previamente al resguardo correspondiente de los formatos de CPV.
+2. Los formatos de credencial retirados por causa, se darán bajo los siguientes supuestos:
 
-- Cuando se realice en un año no electoral, la fecha para la destrucción será a más tardar el 25 de abril.
+a) Realización de un movimiento posterior por el ciudadano,
 
-3. El material de desecho, producto de la trituración de los formatos de CPV, deberá encementarse inmediatamente después de que concluya la trituración.
+b) Baja por registro duplicado,
 
-4. El Vocal del Registro Federal de Electores en la Junta Local Ejecutiva, previamente concertará el lugar de la encementación, el cual será definido con anticipación a la sesión a la que hace referencia el artículo 17 del presente reglamento.
+c) Baja por defunción.
 
-5. El material de desecho será canalizarlo a la obra social que se acuerde o consense con las autoridades correspondientes, cuyo destino final incluirá solamente: canchas deportivas, muros o techos en escuelas públicas, centros de salud, algún edificio público en construcción, aceras, obras de alcantarillado, canaletas de desagüe, tubos de concreto u obras públicas similares.
+d) Baja por suspensión de derechos.
 
-6. En ningún caso se llevará a cabo la encementación de los formatos de CPV, sólo con el corte de inhabilitación aplicado en su oportunidad a dicho formato, de acuerdo a lo estipulado en el artículo 9 del presente ordenamiento.
+e) Afectación al marco geográfico electoral.
 
-ARTICULO 22
+f) Error en número de emisión, o casos similares.
 
-1. Las actividades realizadas para la destrucción de los formatos de CPV deberán quedar asentadas en el acta de la sesión correspondiente, en la cual se registrará el detalle de las acciones realizadas, así como la participación de los integrantes de la CLV.
+3. Para efectuar el retiro de los formatos de credencial, en los MAC se deberá verificar que coincidan nominativamente con el listado correspondiente.
 
-### CAPITULO I. De la recepción de credenciales devueltas por sus titulares en los MAC
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-ARTICULO 23
+ARTÍCULO 15
 
-1. El personal de los MAC que entregue a los ciudadanos una nueva Credencial para Votar, derivada de la solicitud de un trámite previo, les solicitará la devolución de la CPV anterior para su inhabilitación, verificación y posterior destrucción.
+1. Si los formatos de credencial en los MAC no coinciden con el listado generado por la DERFE, porque se identifica algún faltante, se deberá corroborar que se encuentre en alguno de los siguientes supuestos:
 
-2. Las CPV devueltas por sus titulares serán inhabilitadas, en forma inmediata a su recepción, por el funcionario que realice la entrega de la nueva CPV al ciudadano, en presencia del mismo.
+a) Credencial entregada;
 
-3. La inhabilitación de las CPV se realizará efectuando un corte triangular en el área de la fotografía y serán resguardadas debidamente, ordenadas por sección de menor a mayor.
+b) Retirado por causa;
 
-4. El Vocal del RFE en la Junta distrital, deberá generar una relación electrónica de las CPV que se hayan recibido por devolución de sus titulares en cada uno de los MAC, ordenándolas por Entidad Federativa, Distrito Electoral Federal, Sección Electoral y al interior de ésta en forma alfabética.
+c) Anexo a la Solicitud Individual;
 
-### CAPITULO II. De la recepción de credenciales devueltas por terceros
+d) Anexo a solicitud de reimpresión;
 
-ARTICULO 24
+e) Robado o extraviado (con su correspondiente Acta levantada);
 
-1. La DERFE podrá recibir de las instituciones públicas, privadas y de terceros las CPV con las que cuenten, a través de sus Oficinas Centrales, Vocalías del Registro Federal de Electores en las Juntas Ejecutivas Locales y Distritales, para su inhabilitación y posterior destrucción.
+f) No existe en el MAC por fusión de base de datos o exportación a otro MAC, o
 
-2. Las CPV recibidas por terceros serán inhabilitadas, en forma inmediata a su recepción, por un funcionario de las diferentes áreas centrales y desconcentradas de la DERFE, designado para está función.
+g) Solicitado por la Secretaría Técnica Normativa de la DERFE o la FEPADE, cuando en apego a sus atribuciones les sea necesario.
 
-3. La inhabilitación de las CPV se realizará conforme a lo descrito en el párrafo 3 del Artículo 23.
+En caso de presentarse alguno de ellos, se procederá a asentarlo en el formato de control correspondiente.
 
-4. El funcionario designado para esta función, deberá generar una relación electrónica de las CPV que hayan recibido, conforme a lo descrito en el párrafo 4 del Artículo 23.
+2. Si los formatos de credencial no coinciden con el listado generado por la DERFE, por existir sobrantes, se deberá confrontar que su estatus corresponda a aquellas consideradas como propuestas de retiros anteriores, o bien porque son producto de una importación de base de datos de un MAC expulsor al MAC en cuestión.
 
-ARTICULO 25
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-1. Los funcionarios de las áreas centrales y desconcentradas de la DERFE, que cuenten con CPV inhabilitadas, deberán enviarlas a la VLRFE de la entidad, acompañadas de la relación electrónica correspondiente.
+ARTÍCULO 16
 
-2. Los Vocales del Registro Federal de Electores en las Juntas Locales Ejecutivas deberán recibir y resguardar las CPV inhabilitadas.
+1. En el MAC se deberán inhabilitar los formatos de credencial y las CPV, para lo cual el funcionario de MAC efectuará un corte triangular en el área de la fotografía de cada credencial.
 
-ARTICULO 26
+2. Una vez inhabilitados los formatos de credencial y las CPV, el funcionario del MAC procederá a empaquetarlas para su entrega al Vocal del RFE de la Junta Distrital Ejecutiva, acompañadas de la relación nominal, debidamente ordenadas por sección de menor a mayor y al interior en orden alfabético.
 
-1. Las CPV devueltas por terceros, serán integradas al proceso de destrucción de conformidad con lo dispuesto en al (sic) Capítulo IV del Titulo Tercero de este reglamento.
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-### CAPITULO III. Del retiro de los formatos de CPV a destruir del MAC por causa y de las credenciales devueltas por sus titulares o por terceros
+ARTÍCULO 17
 
-ARTICULO 27
+1. Los Vocales del RFE en las Juntas Distritales Ejecutivas deberán prever que se cuenten con las medidas de seguridad suficientes para el traslado de los formatos de credencial y las CPV provenientes de los MAC.
 
-1. Se retirarán de los MAC los formatos de CPV en los siguientes supuestos:
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-a) Por causa de improcedencia de su entrega a su titular
+## TÍTULO CUARTO. DE LA VERIFICACIÓN DE LOS FORMATOS DE CREDENCIAL Y LAS CREDENCIALES PARA VOTAR
 
-b) Anexas a una solicitud acompañada de CPV
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-c) Anexas a un FUAR por devolución de sus titulares
+### CAPÍTULO ÚNICO. De la verificación de los formatos de credencial cuyo trámite fue cancelado, retiradas por causa y credenciales devueltas por sus titulares o por terceros
 
-d) Devueltas por terceros
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-2. Se entenderá por credenciales retiradas por causa, los formatos de CPV correspondientes a: realización de un movimiento posterior por el ciudadano, baja por registro duplicado, baja por defunción, baja por suspensión de derechos, afectación al marco geográfico electoral, error en número de emisión, o casos similares.
+ARTÍCULO 18
 
-3. Para efectuar el retiro de los formatos de CPV en los MAC, se deberá verificar nominativamente que coincidan con el listado correspondiente.
+1. Los Vocales del RFE de las Juntas Distritales Ejecutivas recibirán los paquetes con los formatos de credencial y credenciales, por separado, y los ordenarán en forma ascendente por clave de MAC y nominativo de causa de retiro.
 
-ARTICULO 28
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-1. Si los formatos de CPV en los MAC no coincide con el listado generado por la DERFE, y existe algún faltante, se deberá corroborar que se encuentre en alguno de los siguientes estatus:
+ARTÍCULO 19
 
-a) Credencial entregada,
+1. El Vocal del RFE de la Junta Distrital Ejecutiva, convocará a sesión permanente de la CDV, con la finalidad de verificar los formatos de credencial o credenciales no entregadas y las CPV a destruir.
 
-b) Anexa al Formato Unico de Actualización y Recibo,
+2. En sesión de la CDV, el Vocal del RFE de la Junta Distrital Ejecutiva procederá a abrir los paquetes que contienen los formatos de credencial y CPV retiradas, a fin de efectuar la verificación a través de la lectura del 100% de los formatos de credencial y CPV, cerciorándose que estén debidamente inhabilitadas.
 
-c) Anexa a solicitud de reimpresión,
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-d) Robado o extraviado con su correspondiente acta levantada o,
+ARTÍCULO 20
 
-e) No existe en el MAC por fusión de base de datos o exportación a otro MAC.
+1. Si producto de la verificación existieran formatos de credencial y CPV sobrantes, el Vocal del RFE de la Junta Distrital Ejecutiva deberá corroborar las siguientes causas:
 
-De ser así, se procederá a asentarlo en el formato de control correspondiente.
+a) Corresponden a retiros anteriores;
 
-2. En referencia con el artículo anterior y después de haber verificado, que aparecen faltantes que no coinciden con ningún caso de los mencionados en la situación anterior, se procederá a elaborar el acta administrativa correspondiente por motivo de robo o extravío, misma que se anexará al formato de control correspondiente y se ejecutará lo dispuesto en el procedimiento de extravío de documentación electoral registral que aplica la DERFE.
+b) Son producto de fusión de bases de datos entre MAC, o
 
-3. Si los formatos de CPV no coinciden con el listado generado por la DERFE, y existen formatos sobrantes, es pertinente confrontar que su estatus corresponda a aquellas consideradas como: propuestas de retiros anteriores, o bien porque son producto de una importación de base de datos y formatos de credencial de un MAC expulsor al MAC en cuestión y el CECYRD los está solicitando para retiro en el MAC de origen.
+c) El CECyRD los solicita para el retiro en otro Distrito.
 
-ARTICULO 29
+De confirmarse alguno de los supuestos anteriores, los formatos de credencial y CPV se deberán relacionar y organizar por sección de menor a mayor y, al interior, en orden alfabético con la observación de sobrantes en la etiqueta correspondiente.
 
-1. En el MAC se deberán inhabilitar los formatos de CPV, para lo cual el responsable de MAC efectuará un corte triangular en el área de la fotografía.
+2. Si producto de la verificación existieran faltantes de formatos de credencial, el Vocal del RFE de la Junta Distrital Ejecutiva deberá corroborar que se encuentre en alguno de los supuestos establecidos en el párrafo 2 del artículo 7 del presente Reglamento.
 
-2. Una vez inhabilitados los formatos de CPV, el Responsable de Módulo procederá a empaquetar los mismos para su entrega al Vocal del Registro Federal de Electores de la Junta Distrital Ejecutiva, acompañados de relación nominal, debidamente ordenados por sección de menor a mayor y al interior en orden alfabético.
+3. De confirmarse el faltante de formatos de credencial, se verificará la existencia de actas administrativas levantadas por robo y/o extravío. Si no se cuenta con ésta, se levantará el acta administrativa del hecho y se ejecutará lo dispuesto en el procedimiento a seguir en los casos de faltantes, lo cual será informado a la Comisión de Vigilancia respectiva.
 
-ARTICULO 30
+4. Después de verificar el 100% de formatos de credencial, el Vocal del RFE de la Junta Distrital Ejecutiva, deberá garantizar que se empaqueten y sellen nuevamente, respetando su orden de colocación por MAC (sección de menor a mayor y, al interior de ésta, en orden alfabético).
 
-1. Los Vocales del Registro Federal de Electores en las Juntas Distritales Ejecutivas deberán prever que se cuente con las medidas de seguridad suficientes, para el traslado de los formatos de credenciales provenientes de los MAC.
+5. Los paquetes de los formatos de credencial y CPV serán firmados por los integrantes de la CDV, a efecto de ser trasladados a la VRFEJLE.
 
-### CAPITULO IV. De la verificación de formatos de CPV retirados por causa y devueltas sus (sic) titulares o por terceros
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-ARTICULO 31
+ARTÍCULO 21
 
-1. Los Vocales del Registro Federal de Electores en las Junta Distritales Ejecutivas recibirán de los MAC los paquetes de formatos de CPV y nominativos correspondientes, quienes los ordenarán en forma ascendente por clave de MAC.
+1. Las acciones realizadas para la verificación y lectura de los formatos de credencial, así como la participación de los integrantes de la CDV en dicho proceso, deberán quedar asentadas en el acta de la sesión correspondiente.
 
-ARTICULO 32
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-1. En cumplimiento a las atribuciones conferidas en el artículo 202, párrafo 1, del COFIPE, el Vocal del Registro Federal de Electores en la Junta Distrital Ejecutiva, convocará a sesión permanente a la CDV, en la que participan los Representantes de los Partidos Políticos acreditados, con la finalidad de verificar los Formatos de credencial y CPV a destruir.
+ARTÍCULO 22
 
-2. En sesión de la CDV, el Vocal del Registro Federal de Electores en la Junta Distrital Ejecutiva procederá a abrir los paquetes que contienen los Formatos de CPV retirados, a fin de verificar que estén debidamente inhabilitados para evitar un uso inadecuado y efectuará la lectura del 100% de los formatos de credencial y de las CPV.
+1. El Vocal del RFE de la Junta Distrital Ejecutiva remitirá los formatos de credencial y las CPV, empaquetadas, selladas y firmadas por los representantes de la CDV, a la VRFEJLE.
 
-ARTICULO 33
+2. En caso de que, por extravío, los paquetes de los formatos de credencial y las CPV no llegaran a donde deberían destruirse, se deberá ejecutar el procedimiento a seguir en los casos de extravío o faltante de un documento electoral.
 
-1. Si producto de la verificación, existieran sobrantes de los formatos de credencial y las CPV, el Vocal del Registro Federal de Electores en la Junta Distrital Ejecutiva deberá verificar que corresponden a retiros anteriores.
+3. Si los formatos de credencial y las CPV no llegaran a donde deberían destruirse debido a un robo parcial o total, la VRFEJDE elaborará el acta administrativa de hechos y presentará la denuncia penal correspondiente, ante la autoridad competente.
 
-2. Si producto de la verificación, existieran faltantes de los formatos de credencial y CPV, el Vocal del Registro Federal de Electores en la Junta Distrital Ejecutiva deberá verificar las siguientes causas:
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-a) Credencial entregada.
+ARTÍCULO 23
 
-b) Anexa al FUAR.
+1. El Vocal del RFE de la Junta Local Ejecutiva, deberá prever con anticipación que se cuente con las medidas de seguridad suficientes para el traslado y custodia de formatos de credencial y CPV provenientes de las VRFEJDE.
 
-c) Anexa a solicitud de reimpresión.
+2. La DERFE implementará medidas de seguridad para los formatos de credencial y las CPV solicitadas en el extranjero.
 
-d) Robo o extravío.
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-3. De confirmarse el extravío o faltante de los formatos de credencial se levantará acta administrativa por extravío y se ejecutará lo dispuesto en el procedimiento de extravío de documentación electoral correspondiente.
+ARTÍCULO 24
 
-4. El Vocal del Registro Federal de Electores en la Junta Distrital Ejecutiva, deberá empaquetar y sellar nuevamente los formatos de CPV inhabilitados, respetando su orden de colocación por MAC y sección de menor a mayor y al interior de ésta en orden alfabético.
+1. El Vocal del RFE de la Junta Local Ejecutiva, al tener conocimiento de que se han recibido la totalidad de los paquetes con los formatos de credencial y las CPV provenientes de las Juntas Distritales Ejecutivas, convocará a sesión permanente de la CLV y al Vocal Secretario de la Junta Local Ejecutiva, a fin de llevar a cabo la verificación para la destrucción por trituración de los formatos de credencial y las CPV.
 
-5. Los paquetes de los formatos de las CPV serán firmados por los integrantes de la CDV, a efecto de ser trasladados a la VLRFE.
+2. En sesión de la CLV, se entregarán a sus integrantes los listados nominativos de los formatos de credencial a destruir.
 
-ARTICULO 34
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-1. Las acciones realizadas para la destrucción de los formatos de CPV, así como la participación de los integrantes CDV en dicho proceso, deberán quedar asentadas en el acta de la sesión correspondiente.
+ARTÍCULO 25
 
-ARTICULO 35
+1. Por acuerdo de los integrantes de la CLV, se determinará el universo de los formatos de credencial que serán verificados, a efecto de validar que correspondan a los que se retiraron físicamente de los MAC, conforme a las siguientes opciones:
 
-1. EL Vocal del Registro Federal de Electores de la JDRFE remitirá los formatos de CPV, empaquetados, sellados y firmados por los representantes de la CDV, a la VLRFE.
+a) Corroborar el contenido de los listados, efectuando un muestreo de al menos el 20% de los listados contra los formatos de credencial disponibles para su destrucción, o
 
-2. En caso de que por alguna razón los paquetes que contienen los formatos de CPV a destruir, no llegaran a su destino final para su destrucción, por extravío, se deberá actuar conforme al Procedimiento que aplica la DERFE para el tratamiento del extravío o, faltante de un documento electoral registral.
+b) Confrontar el total de los listados contra el total de los formatos de credencial retiradas de los MAC para su destrucción.
 
-3. Si la causa por la que los formatos de CPV no llegarán a su destino para su destrucción, se deba aún robo parcial o total, la Vocalía del Registro Federal de Electores en la Junta Distrital Ejecutiva, elaborará el acta administrativa de hechos y presentará la denuncia penal correspondiente, ante la autoridad competente.
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-ARTICULO 36
+ARTÍCULO 26
 
-1. El Vocal del Registro Federal de Electores en la Junta Local Ejecutiva, deberá prever con anticipación que se cuente con las medidas de seguridad suficientes, para el traslado de los formatos de credenciales provenientes de las Vocalías Distritales Ejecutivas del Registro Federal de Electores y de su custodia.
+1. Si producto de la verificación existieran los formatos de credencial sobrantes, el Vocal del RFE de la Junta Local Ejecutiva deberá verificar lo siguiente:
 
-### CAPITULO V. De la destrucción de formatos retirados por causa y de Credenciales para Votar devueltas por sus titulares o por terceros
+a) Si corresponden a retiros anteriores, y
 
-ARTICULO 37
+b) Si son producto de fusiones entre MAC.
 
-1. En VLRFE, deberá aplicarse el proceso de destrucción por trituración de los formatos de credencial y CPV, que se encuentran en los supuestos del capítulo anterior.
+De ser necesario, se solicitará a la VRFEJDE el informe sobre la procedencia de dichos documentos electorales.
 
-ARTICULO 38
+2. Si producto de la verificación, existieran formatos de credencial faltantes, el Vocal del RFE de la Junta Local Ejecutiva deberá corroborar que se encuentren en alguno de los supuestos establecidos en el párrafo 2, del artículo 7 del presente Reglamento.
 
-1. El Vocal del Registro Federal de Electores en cada Junta Local Ejecutiva, al tener conocimiento de que se han recibido la totalidad de los paquetes con formatos retirados e inhabilitados, provenientes de las Juntas Distritales Ejecutivas, convocará a sesión permanente de la CLV y al Vocal Secretario de la Junta Local Ejecutiva, a fin de llevar a cabo la destrucción por trituración de los formatos de credencial y CPV retirados e inhabilitados.
+3. De confirmarse el faltante de formatos de credencial CPV se estará a lo dispuesto por el párrafo 3 del artículo 20 del presente Reglamento.
 
-2. En sesión de la CLV, se entregará a sus integrantes, la relación de los formatos de credencial a destruir, además de proporcionar en forma magnética los listados de los mismos.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-ARTICULO 39
+## TÍTULO QUINTO
 
-1. Por acuerdo de los integrantes de la CLV, se determinará el universo de formatos de credencial que serán verificados a efecto de validar que correspondan a los que se retiraron físicamente de los MAC, conforme a las siguientes opciones:
+DE LA DESTRUCCIÓN DE LOS FORMATOS DE CREDENCIAL PARA VOTAR CUYO TRÁMITE FUE CANCELADO, RETIRADOS POR CAUSA Y CREDENCIALES DEVUELTAS POR SUS TITULARES O POR TERCEROS
 
-a) Corroboran el contenido de los listados, efectuando un muestreo de no menos de 20% de los listados contra los formatos de credencial y CPV disponibles para su destrucción, o
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-b) Confrontarán el total de los listados contra el total de formatos de credencial y CPV retirados de los MAC para su destrucción.
+### CAPÍTULO ÚNICO. De la destrucción de los formatos de credencial y CPV
 
-ARTICULO 40
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-1. Si producto de la verificación, existieran formatos de credencial y CPV sobrantes, el Vocal del Registro Federal de Electores en la Junta Local Ejecutiva deberá verificar si corresponden a retiros anteriores.
+ARTÍCULO 27
 
-2. Si producto de la verificación, existieran formatos de credencial y CPV faltantes, el Vocal del Registro Federal de Electores en la Junta Local Ejecutiva deberá verificar las siguientes causas:
+1. Una vez que se hayan verificado los formatos de credencial y CPV a destruir, en presencia de los integrantes de la CLV correspondiente, el personal de la VRFEJLE procederá a preparar los materiales para su destrucción.
 
-a) Credencial entregada.
+2. La destrucción por trituración de los formatos de credencial de los trámites cancelados y de las CPV deberá realizarse dentro de los periodos siguientes:
 
-b) Anexa al FUAR.
+a) Cuando el retiro se realice en el año de la jornada electoral, la destrucción deberá efectuarse dentro de los primeros quince días de marzo, de acuerdo con lo que establezca el plan de trabajo que la DERFE determine cada año.
 
-c) Anexa a solicitud de reimpresión.
+b) Cuando el retiro se realice en un año no electoral, la fecha para la destrucción será a más tardar el 25 de marzo.
 
-d) Robo o extravío.
+3. La destrucción por trituración de los formatos de credencial retirados por causa y de las CPV devueltas por sus titulares o por terceros deberá realizarse de manera trimestral, conforme a las fechas establecidas en el calendario de destrucción definido previamente por la DERFE.
 
-3. De confirmarse el extravío o faltante de los formatos de credencial se levantará acta administrativa por extravío y se ejecutará lo dispuesto en el procedimiento de extravío de documentación electoral registral que aplica la DERFE para estos casos.
+4. El material triturado deberá entregarse inmediatamente para su procesamiento a las empresas recicladoras previamente licitadas o convenidas con instituciones públicas.
 
-ARTICULO 41
+5. El Vocal del RFE de la Junta Local Ejecutiva deberá prever las medidas de seguridad suficientes para la custodia y traslado del material de desecho que resulte de la destrucción de los formatos de credencial y las CPV a las empresas recicladoras.
 
-1. Una vez que se hayan verificado los formatos de credencial y CPV a destruir, en presencia de los integrantes de la CLV correspondiente, personal de la VLRFE, procederán a preparar los materiales para su destrucción.
+6. La entrega a la empresa recicladora se deberá realizar con los formatos de credencial y las CPV completamente trituradas. En ningún caso se podrán remitir a la empresa recicladora formatos de credencial y CPV que tengan sólo el corte de inhabilitación efectuado en su oportunidad.
 
-2. En las mismas oficinas de la Junta Local Ejecutiva se llevará a cabo la destrucción de los formatos de credencial y CPV referidos, mediante el mecanismo de trituración.
+7. En los casos en que no sea posible la entrega inmediata de los residuos de la trituración a la empresa recicladora, por caso fortuito o fuerza mayor, el material resultante deberá resguardarse en la VRFEJLE o en las oficinas de la DERFE con todas las medidas de seguridad, hasta su entrega a la empresa recicladora a la brevedad.
 
-3. Inmediatamente después de la trituración, se deberá realizar el traslado del material, al lugar en donde se realizará la encementación bajo las medidas de seguridad previstas con anterioridad.
+8. Se informará a la Comisión de Vigilancia respectiva, sobre la empresa a la que se remita el material triturado, así como la fecha y hora en que se entregará el material de desecho.
 
-4. El Vocal del Registro Federal de Electores en la Junta Local Ejecutiva, previamente concertará el lugar de la encementación, el cual será definido con anticipación a la sesión a la que hace referencia el artículo 37 del presente Reglamento, y se considerará para ello.
+> <small>(REFORMADO, D.O.F. 17 DE AGOSTO DE 2015)</small>
 
-5. El material de desecho será canalizarlo a la obra social que se acuerde o consense con las autoridades correspondientes, cuyo destino final incluirá solamente: canchas deportivas, muros o techos en escuelas públicas, centros de salud, algún edificio público en construcción, aceras, obras de alcantarillado, canaletas de desagüe, tubos de concreto, u obras públicas similares.
+ARTÍCULO 28
 
-6. En ningún caso se podrá llevar a cabo la encementación de los formatos de credencial y CPV, sólo con el corte de inhabilitación aplicado en su oportunidad a dicho formato.
+1. Las actividades realizadas para la destrucción de los formatos de credencial y las CPV deberán quedar asentadas en el acta de la sesión correspondiente, en la cual se registrará el detalle de las acciones realizadas, así como la participación de los integrantes de la CLV; de lo anterior se informará a la Comisión Nacional de Vigilancia.
 
-ARTICULO 42
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-1. Las actividades realizadas para la destrucción de los formatos de CPV deberán quedar asentadas en el acta de la sesión correspondiente, en la cual se registrará el detalle de las acciones realizadas, así como la participación de los integrantes de la CLV.
+D.O.F. 17 DE AGOSTO DE 2015.
 
-NOTAS Y OBSERVACIONES AL DOCUMENTO
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA MODIFICAR EL "REGLAMENTO PARA LA DESTRUCCIÓN DE FORMATOS DE CREDENCIAL Y CREDENCIALES PARA VOTAR", APROBADO POR EL ÓRGANO MÁXIMO DE DIRECCIÓN DEL OTRORA INSTITUTO FEDERAL ELECTORAL, EL 27 DE FEBRERO DE 2009, MEDIANTE ACUERDO CG59/2009.</small>
 
-(VEASE ARCHIVO ANEXO)
+Primero. Se modifica el "Reglamento para la Destrucción de Formatos de Credencial y Credenciales para Votar", aprobado por el órgano máximo de dirección del otrora Instituto Federal Electoral, el 27 de febrero de 2009, mediante Acuerdo CG59/2009, de conformidad con el documento que se acompaña al presente Acuerdo y forma parte integral del mismo.
+
+Segundo. Se instruye a la Dirección Ejecutiva del Registro Federal de Electores, que por única ocasión, para el Proceso Electoral Federal 2017-2018, las credenciales para votar que serán canceladas por aplicación del artículo 155, párrafo 1 de la Ley General de Instituciones y Procedimientos Electorales, sean destruidas ante las comisiones de vigilancia, a más tardar el 15 de abril de 2018, de conformidad con el plan de trabajo que implemente la Dirección Ejecutiva del Registro Federal de Electores en acuerdo con la Comisión Nacional de Vigilancia.
+
+Tercero. El presente Acuerdo entrará en vigor a partir del día siguiente al de su aprobación por el Consejo General de este Instituto.
+
+Cuarto. Publíquese el presente Acuerdo en el Diario Oficial de la Federación
