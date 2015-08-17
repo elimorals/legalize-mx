@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-federal-electoral-en-materia-de-60342"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-07"
-last_updated: "2008-04-07"
+last_updated: "2015-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60342&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-03-12"
 ---
 # REGLAMENTO DEL INSTITUTO FEDERAL ELECTORAL EN MATERIA DE PROPAGANDA INSTITUCIONAL Y POLITICO-ELECTORAL DE SERVIDORES PUBLICOS
 
-ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL CUAL SE APRUEBA EL REGLAMENTO DEL INSTITUTO FEDERAL ELECTORAL EN MATERIA DE PROPAGANDA INSTITUCIONAL Y POLITICO ELECTORAL DE SERVIDORES PUBLICOS
+ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL CUAL SE APRUEBA EL REGLAMENTO DEL INSTITUTO FEDERAL ELECTORAL EN MATERIA DE PROPAGANDA INSTITUCIONAL Y POLÍTICO ELECTORAL DE SERVIDORES PÚBLICOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL INE/CG192/2014, PUBLICADO EN EL D.O.F. EL 17 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE AGOSTO DE 2015 (ABROGADO).
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 7 de abril de 2008.
 
@@ -392,3 +394,15 @@ De conformidad con lo señalado en las normas antes transcritas, tanto el Consej
 Si como señalé anteriormente, aprobar el artículo SEGUNDO del Reglamento que se nos presenta, implica violar la prohibición prevista en el artículo 134, párrafo séptimo de la Constitución y no velar adecuadamente por la vigencia y efectiva aplicación de la Constitución, pudiera interpretarse que los consejeros que llevaran a cabo esta acción, incurrirían en una omisión que redundaría en perjuicio de los intereses públicos fundamentales, dado que la efectiva aplicación de la Constitución, constituye sin duda alguna, un interés público esencial.
 
 Es por las razones anteriormente expuestas y fundadas con anterioridad, que emito mi voto EN CONTRA del ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL CUAL SE APRUEBA EL REGLAMENTO DEL INSTITUTO FEDERAL ELECTORAL EN MATERIA DE PROPAGANDA INSTITUCIONAL Y POLITICO ELECTORAL DE SERVIDORES PUBLICOS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 17 DE AGOSTO DE 2015.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+ACUERDO
+
+Primero. Se abroga el Reglamento del Instituto Federal Electoral en Materia de Propaganda Institucional y Político-Electoral de Servidores Públicos, publicado en el Diario Oficial de la Federación el 7 de abril de 2008.
+
+Segundo. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en la Gaceta del Instituto Nacional Electoral, así como en la página de internet de este Instituto.
