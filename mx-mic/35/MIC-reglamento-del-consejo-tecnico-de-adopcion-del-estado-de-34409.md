@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-del-consejo-tecnico-de-adopcion-del-estado-de-34409"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-10-08"
-last_updated: "2003-10-08"
+last_updated: "2015-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO DEL CONSEJO TECNICO DE ADOPCION DEL ESTADO DE MICHOACAN DE OCAMPO
 
-REGLAMENTO DEL CONSEJO TECNICO DE ADOPCION DEL ESTADO DE MICHOACAN DE OCAMPO
+REGLAMENTO DEL CONSEJO TÉCNICO DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO ARTÍCULO TRANSITORIO DEL REGLAMENTO DEL CONSEJO TÉCNICO DE ADOPCIÓN, PUBLICADO EN LA QUINTA SECCIÓN DEL P.O. DE 17 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el miércoles 8 de octubre de 2003.
 
@@ -344,3 +346,11 @@ L. E. GRACIELA CARMINA ANDRADE GARCÍA PELÁEZ.- Secretaria de Desarrollo Social
 C. ROSA HILDA ABASCAL RODRÍGUEZ.- Secretaria de Contraloría y Desarrollo Administrativo. (Firmado).
 
 MTRA. MARÍA DEL CARMEN ESCOBEDO PÉREZ.- Directora General del Sistema DIF-Michoacán. (Firmado).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE AGOSTO DE 2015.
+
+Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Se abroga el Reglamento del Consejo Técnico de Adopción del Estado de Michoacán de Ocampo, publicado en el Tomo CXXXI del Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, del día 08 de octubre de 2003 y se dejan sin efecto todas aquellas disposiciones de carácter administrativo en lo que se opongan al presente Reglamento.
