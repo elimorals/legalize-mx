@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2011-03-31"
+last_updated: "2015-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -47,7 +47,7 @@ Por lo que en mérito de lo anteriormente expuesto; y
 
 C O N S I D E R A N D O
 
-.
+...
 
 POR TODO LO EXPUESTO, ESTE HONORABLE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -195,11 +195,17 @@ VII.- Padecer enfermedad de riesgo, crónica degenerativa e incurable que ademá
 
 VIII.- La existencia de tutela entre los pretendientes;
 
-IX.- El adoptante no puede contraer matrimonio con el adoptado; y
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
+IX.- El adoptante no puede contraer matrimonio con el adoptado;
 
-X.- El adulterio habido entre las personas que pretendan contraer matrimonio, cuando haya sido judicialmente comprobado siempre y cuando existan hijos de los excónyuges.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2015)</small>
+
+X.- El adulterio habido entre las personas que pretendan contraer matrimonio, cuando haya sido judicialmente comprobado siempre y cuando existan hijos de los excónyuges; y
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2015)</small>
+
+XI.- El rapto cometido en los términos del artículo 169 del Código Penal para el Estado de Hidalgo.
 
 ###### Artículo 20.
 
@@ -653,7 +659,9 @@ V.- El estado de interdicción declarado judicialmente;
 
 VI.- El atentado contra la vida de alguno de los casados para contraer matrimonio con quien quede libre;
 
-VII.- La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2015)</small>
+
+VII.- El consentimiento obtenido por miedo grave, error o violencia; así como la figura del rapto, contemplada en el artículo 169 del Código Penal para el Estado de Hidalgo.
 
 VIII.- La ausencia de la manifestación de la voluntad de uno o de ambos contrayentes;
 
@@ -3152,3 +3160,7 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan al present
 Artículo Tercero.- Las controversias del orden familiar que están tramitándose antes de la iniciación de vigencia de este Decreto, se resolverán conforme a las disposiciones vigentes en su momento.
 
 Artículo Cuarto.- El contenido del Título Décimo Tercero de la Ley para la Familia del Estado de Hidalgo, será objeto de mayor regulación en el Reglamento del Registro del Estado Familiar, que deberá expedirse en un término de seis meses a partir de la vigencia del presente Decreto.
+
+P.O. 17 DE AGOSTO DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado de Hidalgo.
