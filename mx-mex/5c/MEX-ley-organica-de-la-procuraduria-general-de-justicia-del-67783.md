@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-procuraduria-general-de-justicia-del-67783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-03-20"
-last_updated: "2014-12-19"
+last_updated: "2015-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 19 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE AGOSTO DE 2015.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 20 de marzo de 2009.
 
@@ -895,73 +893,35 @@ La Procuraduría se coordinará con las instancias que integran el Sistema Estat
 
 La Procuraduría coadyuvará en las acciones que determine el Centro de Prevención del Delito del Estado en el ámbito de su competencia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO CUARTO DEL DECRETO NÚMERO 487, G.G. 17 DE AGOSTO DE 2015)</small>
+
 ## TITULO QUINTO
 
-### CAPITULO ÚNICO. Del Instituto de Atención a las Víctimas del Delito del Estado de México
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO CUARTO DEL DECRETO NÚMERO 487, G.G. 17 DE AGOSTO DE 2015)</small>
+
+### CAPITULO ÚNICO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 50.
 
-El Instituto de Atención a las Víctimas del Delito del Estado de México es un órgano administrativo desconcentrado de la Procuraduría General de justicia, jerárquicamente subordinado a ella, con las facultades y obligaciones específicas que se determinen en esta ley, en su reglamento interior y en las demás disposiciones jurídicas aplicables.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL DECRETO NÚMERO 487, G.G. 17 DE AGOSTO DE 2015)
 
-La organización y funcionamiento del instituto se determinará en su reglamento interior y en las demás disposiciones aplicables.
-
-El Director General del instituto para el ejercicio de sus funciones se auxiliará de las unidades administrativas que se determinen en el reglamento interior, de conformidad con la disponibilidad presupuestal y del Comité Ciudadano.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 51.
 
-Son facultades y obligaciones del Director General del Instituto de Atención a las Víctimas del Delito del Estado de México, las siguientes:
+(DEROGADO POR EL ARTÍCULO CUARTO DEL DECRETO NÚMERO 487, G.G. 17 DE AGOSTO DE 2015)
 
-I. Elaborar y ejecutar programas de atención a las víctimas de delito en las áreas jurídica, psicológica y de trabajo social y efectuar su canalización a las instituciones competentes para la atención médica de urgencia;
-
-II. Proponer al Procurador la suscripción de convenios de coordinación o colaboración u otros instrumentos jurídicos, con autoridades federales, estatales, municipales, organismos públicos, o sociales, nacionales, extranjeros o internacionales e instituciones académicas en materia de atención a víctimas del delito;
-
-III. Solicitar a cualquier autoridad dentro del Estado, conforme a las disposiciones legales, la información que requiera para una mejor atención a las víctimas del delito;
-
-IV. Diseñar y ejecutar, en su caso, en coordinación con el Instituto de Formación Profesional y Capacitación, programas de capacitación dirigidos al personal ministerial, policial y pericial de la Institución para mejorar el trato y atención a las víctimas del delito y sus familiares; así también, para orientarlas sobre sus derechos y los servicios que en su beneficio les brinda la Procuraduría;
-
-V. Establecer los mecanismos para ampliar la cobertura de protección y atención a las víctimas del delito, principalmente cuando éstas sean menores de edad, mujeres, personas de la tercera edad o que pertenezcan a grupos vulnerables de la sociedad, ya sea económica o culturalmente;
-
-VI. Coordinar, dirigir y evaluar los trabajos y actividades de las Unidades de Atención a las Víctimas del Delito que operen en la Procuraduría;
-
-VII. Presentar al Procurador un informe anual de las actividades realizadas por el instituto;
-
-VIII. Realizar el seguimiento de los servicios gratuitos de asesoría jurídica, atención psicológica y de trabajo social proporcionados por la Procuraduría a las víctimas del delito, así como los de atención médica de urgencia proporcionados por las instituciones de salud.
-
-Previa valoración los servicios instituidos en beneficio de las víctimas podrán extenderse a los ofendidos del delito;
-
-> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2012)</small>
-
-IX. Trabajar de manera coordinada con la Comisión de Derechos Humanos del Estado de México, en el desarrollo de programas para la atención a las víctimas del delito, así como impulsar las acciones necesarias para promover y proteger sus derechos fundamentales entre las autoridades y la población del Estado de México;
-
-X. (DEROGADA, G.G. 18 DE JULIO DE 2013)
-
-XI. (DEROGADA, G.G. 18 DE JULIO DE 2013)
-
-XII. (DEROGADA, G.G. 18 DE JULIO DE 2013)
-
-> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2012)</small>
-
-XIII. Las demás establecidas en este ordenamiento, en el reglamento interior del Instituto y en otras disposiciones aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 52.
 
-El Comité Ciudadano es un órgano de apoyo, consulta y opinión del Instituto de Atención a las Víctimas del Delito, conformado por ciudadanos y de carácter multidisciplinario, encargado de participar en el diseño, elaboración y coordinación de programas de atención a las víctimas del delito.
-
-El Comité Ciudadano se integrará por cinco consejeros propietarios y tres suplentes, que serán designados por la Legislatura, por mayoría calificada de los diputados presentes, a propuesta de la Junta de Coordinación Política, de entre representantes de los sectores académico y social del Estado de México, mismos que no podrán ser, ni haber sido dirigentes de sindicatos o de partidos políticos, o candidatos de partido político alguno.
-
-Los consejeros durarán en su desempeño tres años y su cargo será honorífico.
-
-Son facultades del Comité Ciudadano, las siguientes:
-
-I. Participar en la elaboración de programas de atención a las víctimas del delito en las áreas jurídica, psicológica y de trabajo social;
-
-II. Proponer la celebración de convenios con organizaciones nacionales e internacionales especializadas en la protección de las víctimas del delito;
-
-III. Coadyuvar con el Director en la elaboración del informe anual sobre las actividades realizadas del instituto;
-
-IV. Evaluar los resultados de programas y demás acciones realizadas por las entidades y dependencias públicas a favor de las víctimas del delito; y
-
-V. Las demás establecidas en este ordenamiento y en el reglamento interior del instituto.
+(DEROGADO POR EL ARTÍCULO CUARTO DEL DECRETO NÚMERO 487, G.G. 17 DE AGOSTO DE 2015)
 
 ## TITULO SEXTO
 
@@ -1204,3 +1164,35 @@ G.G. 15 DE DICIEMBRE DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 17 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor a los sesenta días naturales posteriores a su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley de Protección a Víctimas del Delito para el Estado de México publicada en el Periódico Oficial "Gaceta del Gobierno" el 23 de febrero de 2009.
+
+CUARTO. Se abroga la Ley de la Defensoría Especializada de Víctimas y Ofendidos del Estado de México publicada en el Periódico Oficial "Gaceta del Gobierno" el 26 de octubre de 2011.
+
+QUINTO. Las autoridades obligadas a prestar los servicios de atención y protección previstos en la presente Ley, deberán establecer anualmente las previsiones presupuestales que les permitan el cumplimiento de las obligaciones establecidas en la misma.
+
+SEXTO. El Ejecutivo Estatal expedirá las disposiciones reglamentarias de la presente Ley en un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor de este Decreto.
+
+SÉPTIMO. Los protocolos a que se refiere esta Ley se expedirán en un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor de este Decreto.
+
+OCTAVO. A partir de la entrada en vigor del presente Decreto, las Unidades de Atención a Víctimas del Delito quedarán adscritas a la Comisión Ejecutiva, pero continuarán operando y funcionando en las sedes donde actualmente se encuentran.
+
+NOVENO. Los convenios o instrumentos jurídicos celebrados a través del Instituto de Atención a las Víctimas del Delito del Estado de México dependiente de la Procuraduría General de Justicia del Estado de México, surtirán sus efectos en términos de las disposiciones que les dieron vigor y deberán ser renovados con las unidades administrativas competentes.
+
+DÉCIMO. El Gobierno del Estado, sus dependencias y entidades deberán proveer lo necesario para adecuar la normatividad aplicable, así como para redistribuir los recursos humanos, materiales y financieros existentes para la atención a víctimas a la Comisión Ejecutiva Estatal de Atención a Víctimas y Ofendidos del Delito.
+
+DÉCIMO PRIMERO. La Procuraduría General de Justicia del Estado de México y las Secretarías General de Gobierno, de Finanzas, de la Contraloría y la Consejería Jurídica del Ejecutivo Estatal proveerán lo necesario para dar cumplimiento a lo establecido por el presente Decreto.
+
+DÉCIMO SEGUNDO. Los recursos del Fondo para la Protección a las Víctimas y Ofendidos del Hecho Delictuoso creado en la Ley de Protección a Víctimas del Delito para el Estado de México publicada en el Periódico Oficial "Gaceta del Gobierno" el 23 de febrero de 2009, se transferirán al Fondo Estatal de Ayuda, Asistencia y Reparación Integral para la Protección a las Víctimas previsto en la presente Ley.
+
+DÉCIMO TERCERO. Los recursos del Fondo de Ayuda, Asistencia y Reparación Integral a las víctimas de violaciones a los derechos humanos constituido mediante Acuerdo del Ejecutivo del Estado, publicado el 15 de junio de 2015 en el Periódico Oficial "Gaceta del Gobierno" se transferirán al Fondo Estatal de Ayuda, Asistencia y Reparación Integral para la Protección a las Víctimas y Ofendidos del Delito previsto en la presente Ley.
+
+DÉCIMO CUARTO. Los recursos de cualquier fondo de carácter estatal cuyo objeto sea la atención de las víctimas del delito, se transferirán al Fondo Estatal de Ayuda, Asistencia y Reparación Integral para la Protección a las Víctimas y Ofendidos del Delito previsto en la presente Ley.
+
+DÉCIMO QUINTO. Se derogan las disposiciones legales y administrativas que se opongan a lo dispuesto en el presente Decreto.
