@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-administracion-y-vigilancia-del-sistema-de-18933"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-28"
-last_updated: "2008-12-28"
+last_updated: "2015-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18933&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY PARA LA ADMINISTRACION Y VIGILANCIA DEL SISTEMA DE PARTICIPACIONES Y LA COLABORACION ADMINISTRATIVA EN MATERIA FISCAL ESTATAL, DE DURANGO
 
-LEY PARA LA ADMINISTRACION Y VIGILANCIA DEL SISTEMA DE PARTICIPACIONES Y LA COLABORACION ADMINISTRATIVA EN MATERIA FISCAL ESTATAL
+LEY PARA LA ADMINISTRACIÓN Y VIGILANCIA DEL SISTEMA DE PARTICIPACIONES Y LA COLABORACIÓN ADMINISTRATIVA EN MATERIA FISCAL ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 28 de diciembre de 2000.
 
@@ -99,7 +99,7 @@ Con el propósito de fortalecer las Haciendas Públicas Municipales, incentivar 
 
 El monto del Fondo Estatal de Participaciones se acordará anualmente por el Ejecutivo del Estado y su importe no podrá ser inferior al del año inmediato anterior, actualizado con el índice nacional de precios al consumidor de dicho ejercicio, que publique la Secretaría de Hacienda y Crédito Público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 5.
 
@@ -113,13 +113,21 @@ III.- El 12.75% en función del coeficiente efectivo del fondo acumulado para el
 
 IV.- El 2.25% en proporción inversa al monto de participaciones a que se refieren las fracciones anteriores.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 6.
 
-La cantidad que corresponda a los municipios, establecida en la fracción II del Artículo 2, constituirá el fondo de fomento, y se distribuirá de acuerdo con el mecanismo siguiente:
+La cantidad que corresponda a los municipios, establecida en la fracción II del Artículo 2 de la presente Ley, constituirá el fondo de fomento, y se distribuirá de acuerdo con el mecanismo siguiente:
 
-I.- Se garantizará a los municipios un monto equivalente a las participaciones recibidas por este concepto en el ejercicio fiscal inmediato anterior;
+I.- Se garantizará a los municipios un monto equivalente al fondo de fomento que correspondió al ejercicio fiscal 2013, en los términos establecidos por la Federación, conforme al artículo 2-A fracción III de la Ley de Coordinación Fiscal;
 
-II.- El monto que represente el incremento anual del fondo, se distribuirá con el coeficiente efectivo que resulte de aplicar el procedimiento del fondo acumulado que establece el Artículo 5 de esta Ley.
+II.- El monto que represente el excedente anual del fondo en relación al que correspondió al ejercicio 2013, se distribuirá conforme a lo siguiente:
+
+a) El 70% del incremento anual, determinado conforme al artículo 2-A fracción III de la Ley de Coordinación Fiscal, con el coeficiente efectivo que resulte de aplicar el procedimiento del fondo acumulado que establece el Artículo 5 de esta Ley, y
+
+b) El 30% del incremento anual, determinado conforme al artículo 2-A fracción III de la Ley de Coordinación Fiscal, con el coeficiente efectivo que resulte de aplicar el procedimiento del fondo acumulado que establece el Artículo 5 de esta Ley, que corresponda a los municipios que celebren convenio con el Estado para que este último por cuenta y orden del municipio sea el responsable de la administración del Impuesto Predial.
+
+El convenio a que se refiere el inciso b de la fracción II del presente artículo, deberá estar publicado en el Periódico Oficial del Gobierno del Estado de Durango, en el entendido de que la inexistencia o extinción de dicho convenio, determinará que el Municipio, que lo haya suscrito, deje de ser elegible para la distribución de esta porción del Fondo.
 
 ###### Artículo 7.
 
@@ -143,9 +151,9 @@ I.- El 70% en relación directa con el número de habitantes de cada municipio, 
 
 II.- El 30% de acuerdo con el coeficiente efectivo del fondo acumulado que establece el artículo 5 de esta ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 14 DE DICIEMBRE DE 2008)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 9.
 
@@ -215,7 +223,7 @@ DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS QUIN
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. ANGEL SERGIO GUERRERO MIER. EL SECRETARIO GENERAL DE GOBIERNO. LIC. JOSE MIGUEL CASTRO CARRILLO.
 
-N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE E.: A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
 
 P.O. 20 DE DICIEMBRE DE 2007.
 
@@ -242,3 +250,9 @@ P.O. 14 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango y surtirá sus efectos a partir del día 1° (primero) de enero de 2009.
+
+P.O. 18 DE AGOSTO DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
