@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-del-comite-de-radio-y-television-del-709
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-24"
-last_updated: "2009-11-24"
+last_updated: "2015-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70984&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-10-30"
 ---
 # REGLAMENTO DE SESIONES DEL COMITE DE RADIO Y TELEVISION DEL INSTITUTO FEDERAL ELECTORAL
 
-REGLAMENTO DE SESIONES DEL COMITE DE RADIO Y TELEVISION DEL INSTITUTO FEDERAL ELECTORAL
+REGLAMENTO DE SESIONES DEL COMITÉ DE RADIO Y TELEVISIÓN DEL INSTITUTO FEDERAL ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO TRANSITORIO DEL REGLAMENTO DE SESIONES DEL COMITÉ DE RADIO Y TELEVISIÓN, PUBLICADO EN EL D.O.F. DE 18 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 24 de noviembre de 2009.
 
@@ -592,3 +594,9 @@ El presente Acuerdo fue aprobado en lo general en sesión ordinaria del Consejo 
 Se aprobó en lo particular el Artículo Tercero Transitorio, por ocho votos a favor de los Consejeros Electorales Maestro Virgilio Andrade Martínez, Maestro Marco Antonio Baños Martínez, Doctora María Macarita Elizondo Gasperín, Maestro Alfredo Figueroa Fernández, Doctor Francisco Javier Guerrero Aguirre, Doctor Benito Nacif Hernández, Maestro Arturo Sánchez Gutiérrez y el Consejero Presidente, Doctor Leonardo Valdés Zurita, y un voto en contra del Consejero Electoral Licenciado Marco Antonio Gómez Alcántar.
 
 El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 18 DE AGOSTO DE 2015.
+
+ÚNICO.- Se abroga el Reglamento de Sesiones del Comité de Radio y Televisión del Instituto Federal Electoral, publicado en el Diario Oficial de la Federación el veinticuatro de noviembre de dos mil nueve.
