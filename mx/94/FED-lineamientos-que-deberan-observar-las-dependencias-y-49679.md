@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-que-deberan-observar-las-dependencias-y-49679"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2003-06-12"
-last_updated: "2008-12-02"
+last_updated: "2015-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49679&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2003-06-05"
 ---
 # LINEAMIENTOS QUE DEBERAN OBSERVAR LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA FEDERAL EN LA RECEPCION, PROCESAMIENTO Y TRAMITE DE LAS SOLICITUDES DE ACCESO A LA INFORMACION GUBERNAMENTAL QUE FORMULEN LOS PARTICULARES, ASI COMO EN SU RESOLUCION Y NOTIFICACION, Y LA ENTREGA DE LA INFORMACION EN SU CASO, CON EXCLUSION DE LAS SOLICITUDES DE ACCESO A DATOS PERSONALES Y SU CORRECCION
 
-LINEAMIENTOS QUE DEBERAN OBSERVAR LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA FEDERAL EN LA RECEPCION, PROCESAMIENTO Y TRAMITE DE LAS SOLICITUDES DE ACCESO A LA INFORMACION GUBERNAMENTAL QUE FORMULEN LOS PARTICULARES, ASÍ COMO EN SU RESOLUCION Y NOTIFICACION, Y LA ENTREGA DE LA INFORMACION EN SU CASO, CON EXCLUSION DE LAS SOLICITUDES DE ACCESO A DATOS PERSONALES Y SU CORRECCION
+LINEAMIENTOS QUE DEBERÁN OBSERVAR LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA FEDERAL EN LA RECEPCIÓN, PROCESAMIENTO Y TRÁMITE DE LAS SOLICITUDES DE ACCESO A LA INFORMACIÓN GUBERNAMENTAL QUE FORMULEN LOS PARTICULARES, ASÍ COMO EN SU RESOLUCIÓN Y NOTIFICACIÓN, Y LA ENTREGA DE LA INFORMACIÓN EN SU CASO, CON EXCLUSIÓN DE LAS SOLICITUDES DE ACCESO A DATOS PERSONALES Y SU CORRECCIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE AGOSTO DE 2015.
 
 Lineamientos publicados en la Primera Sección del Diario Oficial de la Federación, el jueves 12 de junio de 2003.
 
@@ -97,6 +97,22 @@ XV. Recepción física: las solicitudes presentadas de manera personal por los i
 
 XVI. Unidad de Enlace: la unidad administrativa de cada dependencia o entidad que será el vínculo con el solicitante, encargada de recibir y dar trámite a una solicitud de información, hacer las gestiones internas para que se resuelva y entregue, y efectuar la notificación de la resolución que corresponda.
 
+> <small>(ADICIONADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+XVII. Agentes: Servidores públicos con categoría de Auxiliar Administrativo, integrantes del primer nivel de atención, responsables de atender las consultas de las personas por medios remotos y presenciales.
+
+> <small>(ADICIONADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+XVIII. Medios remotos: Los canales de comunicación para atender a las personas a distancia, comprenden: línea telefónica, correo electrónico, correo postal, chat y formulario en página web, y los que se determinen.
+
+> <small>(ADICIONADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+XIX. Centro de Atención a la Sociedad (CAS): El área especializada del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales responsable de orientar y asesorar a las personas sobre el ejercicio de los derechos de acceso a la información y de protección de datos personales, así como de otorgar los servicios descritos en los presentes lineamientos.
+
+> <small>(ADICIONADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+XX. Solicitud recibida por el Centro de Atención a la Sociedad: Es la que registra el agente u operador del Centro de Atención a la Sociedad del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales en el Sistema INFOMEX, a petición del solicitante y realizada, vía presencial y/o por medios remotos, conforme a lo establecido en los Lineamientos que Rigen la Operación del Centro de Atención a la Sociedad del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
 > <small>(REFORMADO, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
 
 Tercero. Las Unidades de Enlace y los servidores públicos habilitados en las oficinas, representaciones y delegaciones de las dependencias y entidades deberán registrar la recepción, procesar y dar trámite a todas las solicitudes de información, a través del Sistema INFOMEX, independientemente de que la recepción haya sido física, por correo certificado o mensajería, o medios electrónicos.
@@ -111,7 +127,7 @@ Cuarto. Las dependencias y entidades incorporarán en su sitio de Internet, de m
 
 ### Capítulo II. Recepción de solicitudes por correo o mensajería
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
 
 Quinto. Las Unidades de Enlace deberán utilizar el módulo manual del Sistema INFOMEX para registrar y capturar las solicitudes de información que reciban por correo o mensajería, siempre que el solicitante proporcione nombre y domicilio, y realizarán lo siguiente:
 
@@ -151,7 +167,7 @@ La orientación mencionada en la fracción VI de este Lineamiento deberá hacers
 
 Las notificaciones que se mencionan en las fracciones IV, V y VI de este Lineamiento, deberán enviarse por correo certificado con acuse de recibo, de conformidad con los textos que se presentan en el módulo manual del Sistema INFOMEX.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
 
 Sexto. Para notificar al solicitante la resolución que corresponda a la solicitud de información, las Unidades de Enlace utilizarán el Sistema INFOMEX para registrar y capturar la respuesta emitida; la notificación correspondiente será enviada al solicitante por correo certificado con acuse de recibo dentro de los veinte días hábiles siguientes a la recepción de la solicitud de información, y se observará lo siguiente:
 
@@ -173,7 +189,7 @@ Las notificaciones que se mencionan en este Lineamiento, deberán enviarse por c
 
 Séptimo. El costo de las notificaciones por correo certificado con acuse de recibo a que se refieren los lineamientos quinto y sexto, será sufragado por las dependencias y entidades.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
 
 Octavo. Cuando la resolución otorgue el acceso, las Unidades de Enlace le comunicarán al solicitante las diferentes opciones de reproducción y envío de la información y calcularán los costos correspondientes de acuerdo con las diversas opciones de reproducción y envío a través de una aplicación informática que el Instituto tendrá disponible en su sitio de Internet: www.infomex.org.mx/gobiernofederal.
 
@@ -205,33 +221,59 @@ Décimo Segundo. En los casos en que el solicitante o su representante acudan di
 
 En caso de que los solicitantes no opten por utilizar medios electrónicos, el personal mencionado capturará en el módulo manual del Sistema INFOMEX las solicitudes de información en presencia del solicitante, y les entregarán el acuse de recibo que emita el sistema. Para efecto de notificaciones, en este caso, se seguirá el procedimiento referido en el Capítulo II de estos Lineamientos.
 
-### Capítulo V. Asesoría y asistencia técnica
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-> <small>(REFORMADO, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
+### Capítulo V. Recepción de solicitudes a través del CAS
 
-Décimo Tercero. El Instituto proporcionará a las Unidades de Enlace de las dependencias y entidades que así lo requieran, la asesoría y la asistencia técnica necesarias para hacer uso del Sistema INFOMEX, así como el manual correspondiente.
+> <small>(ADICIONADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-> <small>(REFORMADO, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
+Décimo Tercero. Los agentes u operadores del CAS del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales deberán utilizar el módulo manual del Sistema INFOMEX, para registrar y capturar las solicitudes de información que reciban de manera presencial y/o por medios remotos, siempre que el solicitante proporcione nombre y domicilio, el CAS realizará lo siguiente:
 
-Décimo Cuarto. Las consultas técnicas que se deriven de la aplicación del Sistema INFOMEX serán recibidas por el Instituto a través de la dirección electrónica infomex@ifai.org.mx y una línea telefónica establecida para tal efecto en el sitio de Internet del sistema citado.
+I. Registrar y capturar la solicitud el mismo día en que se reciba ésta, siempre y cuando sea en día hábil dentro del horario de servicio del CAS, en caso contrario, la solicitud se registrará el día hábil siguiente; y
 
-### Capítulo VI. Requerimientos específicos
+II. Proporcionar a la persona el número de folio del acuse de recibo, advirtiéndole que deberá conservarlo y tenerlo disponible para dar un adecuado seguimiento al estado que guarda su solicitud.
 
-> <small>(REFORMADO, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-Décimo Quinto. Para atender las solicitudes a través del Sistema INFOMEX, las dependencias y entidades deberán contar con la infraestructura tecnológica necesaria, equipo de cómputo, conexión a Internet; así como los programas informáticos que se requieran, los cuales se detallarán en el manual del usuario.
+Décimo Cuarto. Las Unidades de Enlace deberán dar atención a las solicitudes de información registradas por el CAS, conforme a lo establecido en el capítulo II de estos lineamientos, respetando el medio señalado por el solicitante para recibir notificaciones.
+
+> <small>(ADICIONADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+Décimo Quinto. Las Unidades de Enlace podrán consultar las solicitudes de información registradas por el CAS, al ingresar en la opción del menú “Respuesta a solicitudes manuales y recuperación de acuses” del Sistema INFOMEX, la imagen gráfica (teléfono) que se muestra en la última columna del listado de solicitudes, identificará a todas aquellas que fueron registradas por este medio.
+
+> <small>(N. DE E. ANTES CAPÍTULO V, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+### Capítulo VI. Asesoría y asistencia técnica
+
+> <small>(N. DE E. ANTES ARTÍCULO DÉCIMO TERCERO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+Décimo Sexto. El Instituto proporcionará a las Unidades de Enlace de las dependencias y entidades que así lo requieran, la asesoría y la asistencia técnica necesarias para hacer uso del Sistema INFOMEX, así como el manual correspondiente.
+
+> <small>(N. DE E. ANTES ARTÍCULO DÉCIMO CUARTO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+Décimo Séptimo. Las consultas técnicas que se deriven de la aplicación del Sistema INFOMEX serán recibidas por el Instituto a través de la dirección electrónica infomex@ifai.org.mx y una línea telefónica establecida para tal efecto en el sitio de Internet del sistema citado.
+
+> <small>(N. DE E. ANTES CAPÍTULO VI, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+### Capítulo VII. Requerimientos específicos
+
+(REFORMADO, D.O.F. 2 DE DICIEMBRE DE 2008) (N. DE E. ANTES ARTÍCULO DÉCIMO QUINTO, D.O.F. 18 DE AGOSTO DE 2015)
+
+Décimo Octavo. Para atender las solicitudes a través del Sistema INFOMEX, las dependencias y entidades deberán contar con la infraestructura tecnológica necesaria, equipo de cómputo, conexión a Internet; así como los programas informáticos que se requieran, los cuales se detallarán en el manual del usuario.
 
 Las Unidades de Enlace de las dependencias y entidades deberán contar, al menos, con un equipo de cómputo y conexión a Internet, acceso permanente al Sistema INFOMEX, una impresora y personal para atender, de manera gratuita, a los interesados en realizar solicitudes de información, independientemente de la dependencia o entidad a la que dirijan sus solicitudes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE DICIEMBRE DE 2008) (N. DE E. ANTES ARTÍCULO DÉCIMO SEXTO, D.O.F. 18 DE AGOSTO DE 2015)
 
-Décimo Sexto. Sólo en casos de contingencia extrema o problemas técnicos graves en el Sistema INFOMEX, las Unidades de Enlace podrán registrar las solicitudes o sus correspondientes notificaciones de manera extemporánea, siempre y cuando lo notifiquen al Instituto en un plazo de 5 días naturales a partir del suceso, indicando las causas que dieron origen al retraso.
+Décimo Noveno. Sólo en casos de contingencia extrema o problemas técnicos graves en el Sistema INFOMEX, las Unidades de Enlace podrán registrar las solicitudes o sus correspondientes notificaciones de manera extemporánea, siempre y cuando lo notifiquen al Instituto en un plazo de 5 días naturales a partir del suceso, indicando las causas que dieron origen al retraso.
 
 Lo dispuesto en el párrafo que antecede no exime a las Unidades de Enlace del cumplimiento de las disposiciones sobre la recepción, procesamiento y trámite de las solicitudes de acceso a la información que formulen los solicitantes, así como en su resolución y notificación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
 
-Décimo Séptimo. Para efectos de los presentes Lineamientos, serán inhábiles los días que anualmente determine el Instituto, a través de la publicación correspondiente en el Diario Oficial de la Federación, así como los señalados como tales en la Ley Federal de Procedimiento Administrativo y en la Ley Federal del Trabajo en su parte conducente, y que serán dados a conocer en el sitio de internet del Sistema INFOMEX.
+> <small>(N. DE E. ANTES ARTÍCULO DÉCIMO SÉPTIMO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+Vigésimo. Para efectos de los presentes Lineamientos, serán inhábiles los días que anualmente determine el Instituto, a través de la publicación correspondiente en el Diario Oficial de la Federación, así como los señalados como tales en la Ley Federal de Procedimiento Administrativo y en la Ley Federal del Trabajo en su parte conducente, y que serán dados a conocer en el sitio de internet del Sistema INFOMEX.
 
 Las dependencias y entidades tomarán las medidas pertinentes para recibir solicitudes en otros días considerados como inhábiles conforme a los calendarios en que suspendan labores y que establezcan ellas mismas.
 
@@ -247,7 +289,7 @@ TERCERO.- El envío de la información solicitada se realizará únicamente por 
 
 Así lo acordó el Pleno del Instituto Federal de Acceso a la Información Pública, en sesión celebrada el día cinco de junio de dos mil tres, ante el Secretario de Acuerdos.- La Comisionada Presidente, María Marván Laborde.- Rúbrica.- Los Comisionados: Horacio Aguilar Alvarez de Alba, Alonso Gómez Robledo Verduzco, Juan Pablo Guerrero Amparán, José Octavio López Presa.- Rúbricas.- El Secretario de Acuerdos, Francisco Ciscomani Freaner.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LOS PRESENTES LINEAMIENTOS.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 2 DE DICIEMBRE DE 2008.
 
@@ -256,3 +298,19 @@ PRIMERO.- Las presentes modificaciones entrarán en vigor el día de su publicac
 SEGUNDO.- Los particulares que se encuentren registrados en el Sistema de Solicitudes de Información (SISI) podrán seguir utilizando su mismo nombre de usuario y contraseña en el Sistema INFOMEX, toda vez que dichos datos serán reconocidos por el nuevo Sistema.
 
 TERCERO.- Las dependencias y entidades de la Administración Pública Federal, deberán sustituir el vínculo al Sistema de Solicitudes de Información (SISI) por el del Sistema INFOMEX en sus portales de internet, a más tardar al día de la entrada en operación del Sistema.
+
+D.O.F. 18 DE AGOSTO DE 2015.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+ACUERDO
+
+PRIMERO.- Se aprueban las modificaciones a los Lineamientos que deberán observar las dependencias y entidades de la Administración Pública Federal en la recepción, procesamiento y trámite de las solicitudes de acceso a la información gubernamental que formulen los particulares, así como en su resolución y notificación, y la entrega de la información en su caso, con exclusión de las solicitudes de acceso a datos personales y su corrección, conforme al documento anexo que forma parte del presente Acuerdo.
+
+SEGUNDO.- Se aprueban las modificaciones a los Lineamientos que deberán observar las dependencias y entidades de la Administración Pública Federal en la recepción, procesamiento, trámite, resolución y notificación de las solicitudes de acceso a datos personales que formulen los particulares, con exclusión de las solicitudes de corrección de dichos datos, conforme al documento anexo que forma parte del presente Acuerdo.
+
+TERCERO.- Se instruye a la Coordinación Ejecutiva del Instituto, para que por conducto de la Dirección General de Promoción y Vinculación con la Sociedad, dé cumplimiento a lo dispuesto en el presente Acuerdo.
+
+CUARTO.- El presente Acuerdo, así como su anexo, deberán publicarse en el Diario Oficial de la Federación, y en el Portal del Instituto.
+
+QUINTO.- El presente Acuerdo, con su respectivo anexo, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
