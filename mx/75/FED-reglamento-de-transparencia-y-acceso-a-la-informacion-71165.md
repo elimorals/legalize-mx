@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-transparencia-y-acceso-a-la-informacion-71165"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-23"
-last_updated: "2014-02-24"
+last_updated: "2015-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71165&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-12-09"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE AGOSTO DE 2015.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 23 de diciembre de 2009.
 
@@ -53,11 +53,11 @@ DISPOSICIONES GENERALES.
 
 Unico.
 
-> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 1.
 
-El presente Reglamento, tiene por objeto establecer criterios, procedimientos institucionales y responsabilidades de los servidores públicos y órganos colegiados del Instituto Nacional de Estadística y Geografía en materia de transparencia, a efecto de garantizar el acceso a la Información pública que posea el Instituto Nacional de Estadística y Geografía, así como de la organización y conservación de sus archivos, de conformidad con lo dispuesto por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, la Ley Federal de Archivos, la Ley del Sistema Nacional de Información Estadística y Geográfica, el presente Reglamento y demás disposiciones normativas aplicables.
+El presente Reglamento, tiene por objeto establecer criterios, procedimientos institucionales y responsabilidades de los servidores públicos y órganos colegiados del Instituto Nacional de Estadística y Geografía en materia de transparencia, a efecto de garantizar el derecho de acceso a la Información pública que posea el Instituto Nacional de Estadística y Geografía, así como de la organización y conservación de sus archivos, de conformidad con lo dispuesto por la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, la Ley Federal de Archivos, la Ley del Sistema Nacional de Información Estadística y Geográfica, el presente Reglamento y demás disposiciones normativas aplicables.
 
 ###### Artículo 2.
 
@@ -83,7 +83,9 @@ III. Archivo de Trámite.- unidad responsable de la administración de documento
 
 IV. Archivo Histórico.- fuente de acceso público y unidad responsable de administrar, describir, organizar, conservar y divulgar la memoria documental institucional, así como la integrada por documentos o colecciones documentales facticias de relevancia para la memoria nacional;
 
-V. Areas Administrativas.- las Direcciones Generales Adjuntas adscritas a las diversas Unidades Administrativas del Instituto, incluyendo a las Direcciones Regionales y a las Coordinaciones Estatales del mismo;
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+V. Áreas Administrativas.- las Direcciones Generales Adjuntas adscritas a las diversas Unidades Administrativas del Instituto y a las Coordinaciones Estatales del mismo;
 
 > <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
@@ -95,13 +97,15 @@ V Ter. Área Generadora.- la que produce expedientes, considerándose como tal a
 
 VI. Baja Documental.- eliminación de aquella documentación que haya prescrito en sus valores administrativos, legales, fiscales o contables y que no contenga valores históricos;
 
-> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-VII. Catálogo de Disposición Documental.- instrumento técnico que registra en forma general y sistemática, a nivel de Serie y Subserie, los valores documentales, los plazos de conservación o vigencia documental y, en su caso, la Clasificación de reserva o confidencialidad y posible valor histórico;
+VII. Catálogo de Disposición Documental.- Catálogo de disposición referido por la Ley General que constituye el instrumento técnico que registra en forma general y sistemática, a nivel de Serie y Subserie, los valores documentales, los plazos de conservación o vigencia documental y, en su caso, la Clasificación de reserva o confidencialidad y posible valor histórico;
 
 VIII. Centros de Información Habilitados.- ventanillas de atención ubicadas en las Direcciones Regionales o Coordinaciones Estatales del Instituto, que fungen como áreas de enlace con la Unidad de Transparencia, para la recepción y trámite de las solicitudes de acceso a la Información pública del Instituto, de acceso a datos personales, así como para la corrección de éstos;
 
-IX. Clasificación.- acto por virtud del cual los Titulares de las Unidades y Areas Administrativas del Instituto, el Comité de Información del Instituto Nacional de Estadística y Geografía o la Comisión de Transparencia y Acceso a la Información Pública del Instituto Nacional de Estadística y Geografía determinan que la Información que posee el Instituto es: reservada, parcialmente reservada o confidencial, en términos de lo establecido por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, y el presente Reglamento;
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+IX. Clasificación.- acto por virtud del cual los Titulares de las Unidades y Áreas Administrativas del Instituto, el Comité de Transparencia del Instituto Nacional de Estadística y Geografía o la Comisión de Transparencia y Acceso a la Información Pública del Instituto Nacional de Estadística y Geografía, en su respectivo ámbito de competencia, determinan que la Información en su poder, actualiza alguno de los supuestos de reserva o confidencialidad en términos de lo dispuesto por el Título Sexto, de la Ley General y el presente Reglamento;
 
 > <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
@@ -111,7 +115,9 @@ XI. (DEROGADA, D.O.F. 24 DE FEBRERO DE 2014)
 
 XII. Comisión.- la Comisión de Transparencia y Acceso a la Información Pública del Instituto Nacional de Estadística y Geografía;
 
-XIII. Comité.- el Comité de Información del Instituto Nacional de Estadística y Geografía;
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+XIII. Comité o Comité de Transparencia.- el Comité de Transparencia del Instituto Nacional de Estadística y Geografía;
 
 > <small>(ADICIONADA, D.O.F. 27 DE JULIO DE 2010)</small>
 
@@ -149,7 +155,9 @@ XIX. Documento Electrónico.- aquel que almacena la Información en un medio que
 
 XIX Bis. Documento Histórico.- aquel que posee valores secundarios y de preservación a largo plazo por contener Información relevante para el Instituto, que integra la memoria colectiva de México y es fundamental para el conocimiento de la historia nacional;
 
-XX. Enlaces Estatales.- servidores públicos, designados al interior de los Centros de Consulta y Comercialización, ubicados en las Coordinaciones Estatales, para la recepción y seguimiento de solicitudes de acceso a datos personales, corrección de los mismos y acceso a la Información pública del Instituto;
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+XX. Enlaces Estatales.- servidores públicos, designados al interior de los Centros de Información Habilitados, ubicados en las Coordinaciones Estatales, para la recepción y seguimiento de solicitudes de acceso a datos personales, corrección de los mismos y acceso a la Información pública del Instituto;
 
 > <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
@@ -161,17 +169,27 @@ XXII. Fondo.- conjunto de documentos producidos orgánicamente por el Instituto,
 
 XXIII. Fundamentación.- consiste en señalar expresamente el precepto legal aplicable para la clasificación de un documento o expediente determinado, indicando la denominación del o los ordenamientos jurídicos, artículo(s), fracción(es), inciso(s) y párrafo(s), que expresamente le otorgan un carácter específico a la Información;
 
-> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-XXIV. Guía Simple de Archivo.- esquema general de descripción de las Series de los archivos del Instituto, que indica sus características fundamentales conforme al Cuadro General de Clasificación Archivística y sus datos generales;
+XXIV. Guía Simple de Archivo.- la Guía de Archivo Documental citada por la Ley General usada como esquema general de descripción de las Series de los archivos del Instituto, que indica sus características fundamentales conforme al Cuadro General de Clasificación Archivística y sus datos generales;
 
-XXV. Indice de Expedientes Reservados.- listado enunciativo ordenado de los expedientes reservados que se encuentran en los archivos del Instituto;
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+XXV. Índice de Expedientes Reservados.- listado enunciativo ordenado de los expedientes clasificados como reservados que se encuentran en los archivos del Instituto;
 
 XXVI. Información.- aquella que corresponde a la gestión administrativa del Instituto, contenida en documentos generados, obtenidos, adquiridos, transformados o conservados por cualquier título, por sus servidores públicos, Unidades y Areas Administrativas, exceptuando la Información Estadística y Geográfica, así como el material de apoyo y consulta de los servidores públicos cuya clasificación y difusión no correspondan al Instituto en su carácter de sujeto obligado;
+
+> <small>(ADICIONADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+XXVI Bis. Información de Interés Público.- se refiere a la información que resulta relevante o beneficiosa para la sociedad y no simplemente de interés individual, cuya divulgación resulta útil para que el público comprenda las actividades que lleva a cabo el Instituto;
 
 XXVII. Información Estadística y Geográfica.- aquélla contemplada por las fracciones III, IV, V y VI, del artículo 2 de la Ley del Sistema Nacional de Información Estadística y Geográfica, la cual de acuerdo con lo dispuesto por el párrafo segundo del artículo 47 del citado Ordenamiento, no se encuentra sujeta a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
 
 XXVIII. Instituto.- Instituto Nacional de Estadística y Geografía;
+
+> <small>(ADICIONADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+XXVIII Bis. INAI.- Se refiere indistintamente al Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales a que hace referencia la Ley General y al anteriormente denominado: Instituto Federal de Acceso a la Información y Protección de Datos (IFAI); a que hace referencia la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
 
 > <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
@@ -183,6 +201,10 @@ XXX. Ley.- Ley Federal de Transparencia y Acceso a la Información Pública Gube
 
 XXX Bis. LFA.- Ley Federal de Archivos;
 
+> <small>(ADICIONADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+XXX Ter. Ley General.- Ley General de Transparencia y Acceso a la Información Pública;
+
 XXXI. LSNIEG.- Ley del Sistema Nacional de Información Estadística y Geográfica;
 
 XXXII. Motivación.- señalar las razones o circunstancias especiales que se hayan tenido en consideración, para concluir que un caso particular actualiza el supuesto previsto por el precepto legal invocado, en la fundamentación del mismo;
@@ -191,7 +213,9 @@ XXXII. Motivación.- señalar las razones o circunstancias especiales que se hay
 
 XXXIII. Plazo de Conservación.- periodo de guarda de la documentación en los Archivos de Trámite y de Concentración el cual deberá considerar el periodo de reserva o ampliación de la misma, así como el plazo adicional a que hace referencia el artículo 93 del Reglamento, en su caso y los periodos adicionales que establezcan las demás disposiciones legales y administrativas aplicables en el Instituto. Durante este plazo la documentación mantiene su vigencia;
 
-XXXIV. Portal de Transparencia.- Sitio Web del Instituto, en el que se divulgará la Información pública a que hace referencia el artículo 7 de la Ley;
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+XXXIV. Portal de Transparencia.- Sitio Web del Instituto, en el que se divulgará la Información pública a que hacen referencia las obligaciones de transparencia previstas por la Ley;
 
 XXXV. Recomendaciones.- las opiniones, propuestas, sugerencias, y comentarios emitidos por la Comisión en ejercicio de las atribuciones que le han sido conferidas por la Junta de Gobierno del Instituto, la Ley, el presente Reglamento y demás disposiciones normativas aplicables;
 
@@ -213,6 +237,10 @@ XL. Serie.- división de una Sección que corresponde al conjunto de documentos 
 
 XLI. Sistema de Datos Personales.- conjunto ordenado de datos personales que están en posesión del Instituto, con independencia de su forma de acceso, creación, almacenamiento u organización, los cuales podrán estar contenidos en registros físicos consistentes en soportes de Información, tales como: manuales, impresos, sonoros, magnéticos, visuales u holográficos, o bien, automatizados a través de una herramienta tecnológica específica para su acceso, recuperación o tratamiento;
 
+> <small>(ADICIONADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+XLI Bis. Sistema Nacional.- Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
 > <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
 XLII. Soporte.- medios en los que obra la información, pudiendo ser, entre otros: impresos, magnéticos, ópticos, sonoros y visuales;
@@ -223,9 +251,13 @@ XLIII. Subserie.- subgrupo de documentos que contienen información relacionada 
 
 XLIV. Transferencia.- traslado controlado y sistemático de expedientes de consulta esporádica de un Archivo de Trámite, al Archivo de Concentración (transferencia primaria) y de expedientes que deben conservarse de manera permanente, del Archivo de Concentración, al Archivo Histórico (transferencia secundaria);
 
-XLV. Unidades Administrativas.- la Junta de Gobierno del Instituto, la Presidencia, las Direcciones Generales y la Contraloría Interna del Instituto, a que hacen referencia los artículos 3, 4, 5, 8 y 9 del Reglamento Interior;
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-XLVI. Unidad de Transparencia.- instancia determinada por la Junta de Gobierno del Instituto, para recibir y dar trámite a las solicitudes de acceso a la Información, de datos personales o la corrección de éstos, presentadas por particulares ante el Instituto y demás funciones establecidas por la Ley y el Reglamento;
+XLV. Unidades Administrativas.- la Junta de Gobierno del Instituto, la Presidencia, las Direcciones Generales, Direcciones Regionales y la Contraloría Interna del Instituto, a que hacen referencia los artículos 3, 4, 5, 8, 9 y 12 del Reglamento Interior;
+
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+XLVI. Unidad de Transparencia.- instancia determinada por la Junta de Gobierno del Instituto, para recibir y dar trámite a las solicitudes de acceso a la Información, de datos personales o la corrección de éstos, presentadas por particulares ante el Instituto y demás funciones establecidas por la Ley General, la Ley y el Reglamento;
 
 XLVII. Valor Documental.- condición de los documentos que les confiere características administrativas, legales, fiscales o contables en los Archivos de Trámite o Concentración (valores primarios); o bien evidenciales, testimoniales e informativas en el Archivo Histórico (valores secundarios);
 
@@ -243,15 +275,17 @@ XLIX. Vigencia Documental.- Periodo durante el cual un documento de archivo mant
 
 El presente Reglamento será de aplicación general y obligatoria para las Unidades y Áreas Administrativas del Instituto y los servidores públicos adscritos a las mismas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 4.
 
-Para efectos del presente Reglamento, todos aquellos plazos señalados en días hábiles, serán computados considerando los días hábiles señalados en el calendario oficial de labores del Instituto, que emite la Dirección General Adjunta de Recursos Humanos anualmente. El referido calendario deberá ser publicado en el Portal de Transparencia.
+Para efectos del presente Reglamento, todos aquellos plazos señalados en días hábiles, serán computados, de conformidad con lo dispuesto por el artículo 126 de la Ley General, considerando los días hábiles señalados en el calendario oficial de labores del Instituto, que apruebe anualmente la Junta de Gobierno. El referido calendario deberá ser publicado en el Portal de Transparencia.
 
 Los plazos establecidos por periodos determinados, serán computados en días naturales, cuando éstos se fijen por mes se entenderá que el plazo concluye el mismo número de día del mes al que corresponda su vencimiento.
 
 ###### Artículo 5.
 
-Todas aquellas disposiciones que la Ley atribuya al Instituto Federal de Acceso a la Información Pública se entenderán, en lo conducente, y para efectos del presente Reglamento, conferidas a la Comisión.
+(DEROGADO, D.O.F. 18 DE AGOSTO DE 2015)
 
 > <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
@@ -281,95 +315,195 @@ Para la supervisión, coordinación y seguimiento de los asuntos a cargo de la U
 
 Son funciones de la Unidad de Transparencia del Instituto, las siguientes:
 
-I. Recabar y difundir la Información a que se refiere el Artículo 7 de la Ley, además de propiciar que las Unidades y Areas Administrativas la actualicen periódicamente en apego a las obligaciones que establece el Reglamento;
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-II. Recibir y dar trámite a las solicitudes de acceso a la Información, referidas en los artículos 24, 25 y 40 de la Ley;
+I. Recabar y difundir la Información a que se refiere el Capítulo II, del Título Quinto de la Ley General, así como la correspondiente al Artículo 7 de la Ley, y propiciar que las Unidades y Áreas Administrativas la actualicen periódicamente en cumplimiento a las obligaciones que establece el Reglamento;
 
-III. Auxiliar a los particulares en la elaboración de solicitudes de acceso a la Información y, en su caso, orientarlos sobre otro u otros sujetos obligados que pudieran tener la Información que solicitan;
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-IV. Realizar los trámites internos, necesarios para la entrega de la Información pública solicitada, además de efectuar las notificaciones a los particulares;
+II. Recibir y dar trámite a las solicitudes de acceso a la Información, en cumplimiento a la legislación y normatividad vigente en materia de transparencia y acceso a la información pública generada por el Instituto;
 
-V. Proponer al Comité los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la Información Pública del Instituto;
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-VI. Habilitar a los servidores públicos que sean necesarios, para recibir y dar trámite a las solicitudes de acceso a la Información, de acceso a datos personales y corrección de éstos, en la Unidad de Transparencia, así como coordinar a aquellos que hayan sido designados para tal efecto en términos de los artículos 9 y 10 de este Reglamento;
+III. Auxiliar a los particulares en la elaboración de solicitudes de acceso a la Información y, en su caso, orientarlos sobre los sujetos obligados competentes conforme a la normatividad aplicable;
 
-VII. Llevar un registro de las solicitudes de acceso a la Información, sus resultados y costos;
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-VIII. Integrar el informe anual a que hacen referencia los artículos 62 de la Ley y 16 del Reglamento, y proponerlo al Comité para su revisión, y
+IV. Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información en términos del Reglamento y efectuar las notificaciones a los solicitantes, en términos de lo dispuesto por la Ley General y el Reglamento;
 
-IX. Las demás necesarias para garantizar y agilizar el flujo de Información entre el Instituto y los particulares que establezca el presente Reglamento y no hayan sido expresamente conferidas a otras instancias en materia de transparencia del Instituto.
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+V. Proponer al Comité de Transparencia los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la Información Pública del Instituto conforme a la normatividad aplicable;
+
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+VI. Proponer personal habilitado que sea necesario, para recibir y dar trámite a las solicitudes de acceso a la Información, de acceso a datos personales y corrección de éstos, en la Unidad de Transparencia, así como coordinar a aquellos que hayan sido designados para tal efecto en términos de los artículos 9 y 10 del Reglamento;
+
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+VII. Llevar un registro de las solicitudes de acceso a la Información, respuestas, resultados y costos de reproducción y envío;
+
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+VIII. Promover e implementar políticas de transparencia proactiva procurando su accesibilidad;
+
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+IX. Fomentar la transparencia y accesibilidad al interior del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+X. Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en la Ley General, la Ley, el Reglamento y las demás disposiciones aplicables, y
+
+> <small>(ADICIONADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+XI. Las demás necesarias para garantizar y agilizar el flujo de Información entre el Instituto y los particulares que establezca la Ley General, la Ley, el Reglamento y demás normatividad aplicable que no hayan sido expresamente conferidas a otras instancias en materia de transparencia del Instituto.
 
 Siempre que la Ley atribuya funciones específicas competencia de la Unidad de Enlace, se entenderán referidas, para efectos del Instituto, a su Unidad de Transparencia.
 
+> <small>(ADICIONADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+La Unidad de Transparencia promoverá acuerdos con instituciones públicas especializadas que pudieran auxiliarles a entregar las repuestas a solicitudes de información, en la lengua indígena, braille o cualquier formato accesible correspondiente, en forma más eficiente.
+
+> <small>(ADICIONADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+Si alguna Unidad o Área administrativa del Instituto se negara a colaborar con la Unidad de Transparencia, ésta dará aviso al superior jerárquico para que le ordene realizar sin demora las acciones conducentes. En caso de que persista la negativa de colaboración, la Unidad de Transparencia lo hará del conocimiento de la Contraloría Interna.
+
+> <small>(REFORMADO PÁRRAFO PRIMERO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 9.
 
-Los Titulares de las Unidades y Areas Administrativas del Instituto deberán designar a un enlace encargado de atender los requerimientos que realice la Unidad de Transparencia, el Comité y la Comisión, en apego al presente Reglamento y demás disposiciones normativas en materia de transparencia y acceso a la Información aplicables al Instituto.
+Los Titulares de las Unidades y Áreas Administrativas del Instituto deberán designar a un enlace encargado de atender los requerimientos que realice el INAI, la Unidad de Transparencia, el Comité de Transparencia y la Comisión, en cumplimiento a la Ley General, la Ley, el presente Reglamento y demás disposiciones normativas en materia de transparencia y acceso a la Información aplicables al Instituto.
 
 El enlace a que hace referencia el párrafo anterior, deberá contar como mínimo con el nivel de Director de Area para el caso de la Dirección General de Administración y sus Direcciones Generales Adjuntas; tratándose del resto de las Direcciones Generales del Instituto, dicha designación recaerá en los Directores de Administración; para las Direcciones Regionales y Coordinaciones Estatales dicho enlace deberá contar con el nivel mínimo de Subdirector de Area.
 
 Sin perjuicio de lo anterior, para la atención de solicitudes de acceso a la Información, a datos personales y recursos que tengan por objeto conocer Información generada por la Junta de Gobierno del Instituto, el servidor público que fungirá como enlace para efectos de su atención y seguimiento será el Titular de la Dirección de Seguimiento de Acuerdos de la Junta de Gobierno.
 
-De conformidad con lo establecido por el artículo 16 de la Ley, en el Instituto corresponde a los Titulares de las Unidades o Areas Administrativas, de manera indelegable, clasificar la Información de las áreas a su cargo, lo cual podrá tener lugar en el momento en que:
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-I. Se genere, obtenga, adquiera o transforme la Información, o
+De conformidad con lo establecido por los artículos 100 tercer párrafo de la Ley General y 16 de la Ley, en el Instituto corresponde a los Titulares de las Unidades o Áreas Administrativas, de manera indelegable, clasificar la información de las áreas a su cargo, lo cual podrá tener lugar en el momento en que:
 
-II. Se reciba una solicitud de acceso a la Información que no se hubiera clasificado previamente.
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+I. Se genere, obtenga, adquiera o transforme la Información;
+
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+II. Se reciba una solicitud de acceso a la Información que no se hubiera clasificado previamente;
+
+> <small>(ADICIONADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+III. Se determine mediante resolución de autoridad competente, o
+
+> <small>(ADICIONADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+IV. Se generen versiones públicas para dar cumplimiento a las obligaciones de transparencia previstas en la Ley General.
 
 La clasificación podrá referirse a un expediente o a un documento.
+
+> <small>(ADICIONADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+Corresponderá a los Titulares de las Unidades o Áreas Administrativas, de manera indelegable justificar la aplicación de la prueba de daño a que hace referencia el artículo 104 de la Ley General, quienes deberán aplicar de manera restrictiva y limitada las excepciones al derecho de acceso a la información previstas en el Título Sexto de la Ley General y deberán acreditar su procedencia.
 
 ### Capítulo II,
 
 De los Centros de Información Habilitados.
 
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 10.
 
-Corresponderá a cada Director Regional y Coordinador Estatal, la designación de aquellos servidores públicos adscritos a su circunscripción territorial, que coadyuvarán con la Unidad de Transparencia, fungiendo bajo el carácter de Centros de Información Habilitados y Enlaces Estatales en materia de transparencia y acceso a la Información pública generada por el Instituto.
+La Unidad de Transparencia contará con Centros de Información habilitados y Enlaces Estatales en materia de transparencia y acceso a la Información pública generada por el Instituto, corresponderá a cada Director Regional y Coordinador Estatal, la designación de aquellos servidores públicos adscritos a su circunscripción territorial, que coadyuvarán con la Unidad de Transparencia, fungiendo bajo dicho carácter.
+
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 11.
 
-Los Centros de Información Habilitados contarán con un espacio físico y personal para atender y orientar a los usuarios que así lo requieran, proporcionándoles asistencia para la presentación y seguimiento de solicitudes de acceso a la Información y dispondrán del equipo informático necesario para que los particulares puedan consultar la Información que se encuentre publicada en el Portal de Transparencia del Instituto y, en su caso, previo pago del costo de los materiales necesarios, requerir la reproducción de la misma.
+Los Centros de Información Habilitados contarán con un espacio físico y personal para atender y orientar a los usuarios que así lo requieran, proporcionándoles asistencia para la presentación y seguimiento de solicitudes de acceso a la Información y pondrán a disposición de las personas interesadas equipos de cómputo con acceso a Internet, que permitan a los particulares consultar la información o utilizar el sistema de solicitudes de acceso a la información, así como la Información que se encuentre publicada en el Portal de Transparencia del Instituto en cumplimiento a la Ley. Lo anterior, sin perjuicio del uso de medios alternativos de difusión de la información que en ciertas poblaciones sean de más fácil acceso y comprensión.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
 ### Capítulo III,
 
-Del Comité de Información.
+Del Comité de Transparencia.
+
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 12.
 
-El Instituto cuenta con un Comité de Información, cuya constitución e integración fue aprobada por la Junta de Gobierno del Instituto.
+El Instituto contará con un Comité de Transparencia integrado por un número impar de miembros.
+
+El Comité de Transparencia adoptará sus resoluciones por mayoría de votos. En caso de empate, el Presidente tendrá voto de calidad. A sus sesiones podrán asistir como invitados aquellos que sus integrantes consideren necesarios, quienes tendrán voz pero no voto.
+
+Los integrantes del Comité de Transparencia no podrán depender jerárquicamente entre sí, tampoco podrán reunirse dos o más de estos integrantes en una sola persona. De presentarse el caso, deberá estarse a lo dispuesto por el artículo 43 de la Ley General.
+
+Los integrantes del Comité de Transparencia tendrán acceso a la información para determinar su clasificación, conforme a la normatividad administrativa aplicable al Instituto.
 
 El Comité está integrado por los siguientes miembros:
 
 I. El Director General de Administración, quien es Presidente del mismo;
 
-II. El Director General Adjunto de Asuntos Jurídicos, quien tiene el cargo de Vocal, y (sic)
+II. El Director General de Coordinación del Sistema Nacional de Información Estadística y Geográfica, quien tiene el cargo de Vocal, y
 
 III. El Titular de la Contraloría Interna del Instituto, quien también es Vocal.
 
-> <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+Adicionalmente participará, bajo el carácter de invitado, un representante de la Unidad o Área Administrativa generadora de la información objeto del asunto a tratar por el Comité de Transparencia, cuando ésta no esté representada en el Comité, quien deberá contar con un nivel jerárquico mínimo de Director de Área.
 
-IV. El Titular del Área Coordinadora de Archivos, como asesor en materia de archivos, con voz y voto, en los términos que establece el Reglamento.
+Cada uno de los miembros del Comité podrá designar a su respectivo suplente, quien deberá contar con nivel jerárquico de Director General Adjunto. El Presidente quien será suplido por regla general por el Titular de la Dirección General de Programación Organización y Presupuesto, o excepcionalmente por el servidor público que el Presidente designe para una sesión determinada, el cual deberá tener nivel jerárquico mínimo de Director General Adjunto.
 
-Cada uno de los miembros del Comité podrá designar a su respectivo suplente, quien deberá tener un rango inmediato inferior a éste y, en las sesiones del Comité, ejercerá el derecho de voz y voto del Miembro Titular que represente. Cada miembro propietario del Comité podrá remover a su respectivo suplente en cualquier momento.
+Los servidores públicos que funjan como suplentes deberán ser designados mediante oficio dirigido al Presidente del Comité de Transparencia, los cuales contarán con idénticas atribuciones y responsabilidades a aquellas que correspondan al miembro propietario que los nombró. Cada miembro podrá remover a su respectivo suplente en cualquier momento.
 
-El Presidente designará al Secretario del Comité, quien a su vez podrá designar a su respectivo suplente.
+La integración y funcionamiento del Comité deberá apegarse a lo establecido por el Manual de Integración y Funcionamiento del Comité de Transparencia del Instituto Nacional de Estadística y Geografía.
 
-La integración y funcionamiento del Comité deberá apegarse a lo establecido por el Manual de Integración y Funcionamiento del Comité de Información del Instituto Nacional de Estadística y Geografía.
+El Presidente se apoyará de un Secretario en los términos que al efecto establezca el Manual de Integración y Funcionamiento del Comité de Transparencia del Instituto Nacional de Estadística y Geografía, quien será designado por éste y no será miembro del Comité, contando únicamente con derecho a voz y estará a cargo de las tareas operativas del Comité, quien contará con un nivel jerárquico mínimo de Dirección de Área.
+
+Así mismo, participará bajo el carácter de invitado permanente, con voz pero sin voto, un representante de la Dirección General Adjunta de Asuntos Jurídicos, el cual deberá contar con nivel jerárquico mínimo de Director de Área.
 
 ###### Artículo 13.
 
 Corresponderá al Comité desempeñar las siguientes funciones:
 
-I. Coordinar y supervisar las acciones del Instituto, tendientes a proporcionar la Información pública en los términos previstos en la Ley, el Reglamento y demás disposiciones normativas aplicables;
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-II. Instruir, de conformidad con la Ley, el Reglamento y demás disposiciones normativas aplicables, los procedimientos para asegurar la mayor eficiencia en la gestión de las solicitudes de acceso a la Información planteadas por particulares ante el Instituto;
+I. Coordinar y supervisar las acciones del Instituto, tendientes a proporcionar la Información pública en los términos previstos en la Ley General, la Ley, el Reglamento y demás disposiciones normativas aplicables;
 
-III. Establecer, en su caso, los plazos y procedimientos internos para dar trámite a las solicitudes de acceso a la Información recibidas por el Instituto;
+> <small>(ADICIONADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-IV. Confirmar, modificar o revocar la clasificación efectuada por los Titulares de las Unidades y Areas Administrativas del Instituto, y emitir la resolución correspondiente en los términos del artículo 45 de la Ley;
+I. Bis. Aprobar el Manual de Integración y Funcionamiento del Comité de Transparencia del Instituto Nacional de Estadística y Geografía, así como las adecuaciones y reformas que resulten necesarias para su actualización;
+
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+II. Instruir, coordinar y supervisar de conformidad con la Ley General, la Ley, el Reglamento y demás disposiciones normativas aplicables, las acciones y los procedimientos para asegurar la mayor eficiencia en la gestión de las solicitudes en materia de acceso a la Información;
+
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+III. Establecer, en su caso, los plazos y procedimientos internos para dar trámite a las solicitudes de acceso a la Información recibidas por el Instituto, debiendo cumplir en todo momento los plazos dispuestos por la Ley General para tal efecto;
+
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+IV. Confirmar, modificar o revocar las determinaciones que en materia de ampliación del plazo de respuesta, clasificación de la información y declaración de inexistencia o de incompetencia realicen los Titulares de las Unidades y Áreas Administrativas del Instituto, y emitir la resolución correspondiente en los términos de lo dispuesto por los artículos 103 y 138 de la Ley General;
+
+> <small>(ADICIONADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+IV.a. Ordenar, en su caso, a las Unidades o Áreas Administrativas que generen la información que derivado de sus facultades, competencias y funciones deban tener en posesión o que previa acreditación de la imposibilidad de su generación, exponga, de forma fundada y motivada, las razones por las cuales, en el caso particular, no ejercieron dichas facultades, competencias o funciones;
+
+> <small>(ADICIONADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+IV.b. Establecer políticas para facilitar la obtención de información y el ejercicio del derecho de acceso a la información;
+
+> <small>(ADICIONADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+IV.c. Promover la capacitación y actualización de los Servidores Públicos o integrantes adscritos a la Unidad de Transparencia y a los Centros de Información Habilitados;
+
+> <small>(ADICIONADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+IV.d. Establecer programas de capacitación en materia de transparencia, acceso a la información, accesibilidad y protección de datos personales, para todos los Servidores Públicos o integrantes del Instituto;
 
 V. Realizar, a través de la Unidad de Transparencia, las gestiones necesarias para localizar los documentos administrativos en los que conste la Información solicitada;
 
-VI. Expedir, cuando así resulte procedente, resoluciones que confirmen la inexistencia de documentos, en términos de lo dispuesto por el artículo 46 de la Ley;
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+VI. Expedir, cuando así resulte procedente, resoluciones que confirmen la inexistencia de documentos, en términos de lo dispuesto por los artículos 132, 138 y 139 de la Ley General;
 
 > <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
@@ -383,35 +517,59 @@ VIII. Aprobar el calendario anual de sesiones del Comité;
 
 IX. Elaborar un programa para facilitar la obtención de Información por parte de las Unidades o Areas Administrativas del Instituto, el cual deberá contener las medidas necesarias para la organización de los archivos a que hace referencia la fracción VII de este artículo;
 
-X. Proponer a la Comisión el informe anual a que hacen referencia los artículos 62 de la Ley y 16 del Reglamento, y una vez aprobado enviarlo al Instituto Federal de Acceso a la Información Pública para su integración al informe a que hace referencia el artículo 39 de la Ley;
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-XI. Aprobar, dentro de los 10 días hábiles siguientes a su presentación, el Indice de Expedientes Reservados de las Unidades y Areas Administrativas del Instituto, de conformidad con los acuerdos que expida el propio Comité, así como las actualizaciones semestrales del mismo;
+X. Integrar y enviar al INAI, la información necesaria para la elaboración del informe anual a que hace referencia la fracción X, del artículo 41 de la Ley General, conforme a los lineamientos que para tal efecto expida el propio Comité;
 
-XII. Determinar la desclasificación de Información reservada o confidencial, cuando se extingan las causas que dieron origen a su clasificación o cuando haya transcurrido el periodo de reserva. Lo anterior sin perjuicio de las atribuciones, que en términos de lo dispuesto por la legislación y normatividad aplicables, correspondan a los Titulares de las Unidades o Areas Administrativas del Instituto y a la Comisión;
+XI. (DEROGADA, D.O.F. 18 DE AGOSTO DE 2015)
 
-XIII. Aprobar la ampliación del término de reserva de los expedientes o documentos, por lo menos con tres meses de anticipación al vencimiento del periodo de reserva, para lo cual podrá solicitar el apoyo de la Unidad o Area Administrativa competente, a efecto de que funde y motive las razones por las que prevalecen las causas que dieron origen a la clasificación, informando, en su caso, a la Comisión;
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-XIV. Aprobar la ampliación del plazo de 20 días hábiles a que se refiere el artículo 44 de la Ley, en casos debidamente fundados y motivados, previa solicitud de la Unidad o Area Administrativa a la que corresponda atender la solicitud de acceso a la Información de que se trate. Esta facultad podrá ser delegada en el Secretario del Comité quien, en su caso, informará al Comité sobre las ampliaciones aprobadas, en la forma que determine el Comité;
+XII. Determinar la desclasificación de Información reservada o confidencial, cuando se extingan las causas que dieron origen a su clasificación o cuando haya expirado el plazo de clasificación. Lo anterior sin perjuicio de las atribuciones, que en términos de lo dispuesto por la legislación y normatividad aplicables, correspondan a los Titulares de las Unidades o Áreas Administrativas del Instituto, al INAI y a la Comisión, según corresponda;
 
-XV. Instruir a la Unidad de Transparencia del Instituto, a efecto de que realice la notificación de las resoluciones emitidas por el Comité, las cuales deberán hacerse dentro de los plazos máximos establecidos para tal efecto por la Ley y el Reglamento;
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-XVI. Tomar las medidas necesarias, a efecto de que las resoluciones y criterios que expida el Comité, se den a conocer vía Internet para su consulta por cualquier interesado;
+XIII. Aprobar la ampliación del periodo de reserva hasta por un plazo de cinco años adicionales de los expedientes o documentos, por lo menos con tres meses de anticipación al vencimiento del plazo de clasificación, para lo cual solicitará al Titular de la Unidad o Área Administrativa competente justifique que subsisten las causas que dieron origen a la clasificación, pudiendo aplicar de manera proactiva una prueba de daño en términos de lo dispuesto por el penúltimo párrafo, del artículo 101 y 104 de la Ley General y demás disposiciones aplicables informando, en su caso, a la Comisión.
 
-XVII. Manifestar dentro del plazo que al efecto establece el presente Reglamento lo que a su derecho corresponda, ante la Comisión, en atención a los recursos de revisión interpuestos por particulares contra las resoluciones emitidas por dicho Organo Colegiado;
+Así como, aprobar la solicitud de ampliación para su envío al INAI, por lo menos con tres meses y medio de anticipación al vencimiento del plazo de clasificación, a solicitud Titular de la Unidad o Área Administrativa competente, tratándose del supuesto contemplado por el último párrafo del artículo 101 de la Ley General;
 
-XVIII. Dar seguimiento a las resoluciones dictadas por la Comisión, coadyuvando en lo necesario para que se dé cumplimiento a las mismas;
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+XIV. Aprobar la ampliación del plazo de diez días hábiles a que se refiere el segundo párrafo del artículo 132 de la Ley General, en casos debidamente fundados y motivados, previa solicitud de la Unidad o Área Administrativa a la que corresponda atender la solicitud de acceso a la Información de que se trate;
+
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+XV. Instruir a la Unidad de Transparencia del Instituto, a efecto de que realice la notificación de las resoluciones emitidas por el Comité, las cuales deberán hacerse dentro de los plazos máximos establecidos para tal efecto por la Ley General, la Ley y el Reglamento;
+
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+XVI. Tomar las medidas necesarias, a efecto de que las actas y resoluciones que expida el Comité, se den a conocer vía Internet para su consulta por cualquier interesado en los términos que al efecto disponga la Ley General;
+
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+XVII. Manifestar, dentro del plazo que al efecto establezca la Ley General y el Reglamento, lo que a su derecho corresponda, ante el INAI o la Comisión, según corresponda, en atención a los recursos de revisión interpuestos por particulares contra las resoluciones emitidas por dicho Órgano Colegiado;
+
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+XVIII. Dar seguimiento a las resoluciones dictadas por el INAI o la Comisión, según corresponda, coadyuvando en lo necesario para que se dé cumplimiento oportuno a las mismas;
 
 XIX. Rendir los informes que le sean solicitados por autoridades judiciales o administrativas, en ejercicio de sus atribuciones, y
 
-XX. Las que le confiera la Ley, el Reglamento y las demás disposiciones aplicables.
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+XX. Notificar a la Contraloría Interna cuando la información injustificadamente no se encuentre en los archivos del Instituto, y
+
+> <small>(ADICIONADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+XXI. Las demás que le confiera la Ley General, la Ley, el Reglamento y las demás disposiciones aplicables.
 
 ###### Artículo 14.
 
 Las Sesiones del Comité quedarán legalmente instaladas con la asistencia de por lo menos dos de sus miembros.
 
-> <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-Cuando se trate de sesiones en las que el Comité analice asuntos relacionados con la organización y conservación de archivos, para que éstas queden legalmente instaladas deberán de estar presentes por lo menos dos miembros del Comité, así como el Titular del Área Coordinadora de Archivos.
+Cuando se trate de sesiones en las que el Comité analice asuntos relacionados con la organización y conservación de archivos, el Titular del Área Coordinadora de Archivos podrá asistir bajo el carácter invitado, en términos de lo dispuesto por el último párrafo del artículo 79 del Reglamento.
 
 Las decisiones del Comité se tomarán por mayoría de voto de los miembros presentes, correspondiendo al Presidente el voto de calidad en caso de empate.
 
@@ -425,13 +583,19 @@ Sin perjuicio de lo dispuesto por el artículo 14, cuando por la naturaleza del 
 
 Los votos emitidos bajo la modalidad a que se refiere el presente artículo tendrán fuerza y validez, como si hubieren sido otorgados en sesión, siempre que sean avalados de manera unánime por los miembros del Comité. En caso contrario será necesaria la instalación de una sesión presencial, ordinaria o extraordinaria, según corresponda.
 
-El esquema de votos particulares, se sujetará a lo dispuesto por este Reglamento, así como por el Manual de Integración y Funcionamiento del Comité de Información del Instituto Nacional de Estadística y Geografía.
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+El esquema de votos electrónicos, se sujetará a lo dispuesto por el Reglamento, así como por el Manual de Integración y Funcionamiento del Comité de Transparencia del Instituto Nacional de Estadística y Geografía.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 16.
 
-El Comité deberá enviar al Instituto Federal de Acceso a la Información Pública el informe anual a que se refiere el artículo 62 de la Ley, para su integración al informe a que hace referencia el artículo 39 de la Ley, con copia a la Comisión, dentro de los primeros veinte días hábiles del mes de enero de cada año.
+El Comité deberá enviar al INAI el informe anual por lo que hace a actividades del Instituto a que se refiere la fracción X, del artículo 41 de la Ley General, con copia a la Comisión, dentro de los primeros veinte días hábiles del mes de enero de cada año.
 
-El informe anual incluirá la siguiente Información:
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+El informe anual incluirá al menos la siguiente Información:
 
 I. El número de solicitudes de Información y datos personales, o corrección de estos últimos, que hayan sido presentadas y sus resultados, así como el tiempo de respuesta, incluidas aquéllas en las que no fue posible localizar la Información en los archivos;
 
@@ -443,7 +607,9 @@ IV. El estado que guardan las denuncias presentadas ante la Contraloría Interna
 
 V. El número de las consultas atendidas en materia de la Ley por la Unidad de Transparencia, los Centros de Información Habilitados y las Coordinaciones Estatales, y
 
-VI. El cumplimiento de las obligaciones de transparencia señaladas en el artículo 7 de la Ley.
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+VI. El cumplimiento de las obligaciones de transparencia señaladas en los artículos 70 de la Ley General y 7 de la Ley, según corresponda.
 
 ### Capítulo IV,
 
@@ -491,7 +657,9 @@ II. Emitir criterios de observancia general para las Unidades y Areas Administra
 
 III. Aprobar las disposiciones administrativas aplicables al desahogo y trámite de recursos de revisión y reconsideración, respetando los plazos y requisitos establecidos para tal efecto por la Ley y el Reglamento;
 
-IV. Conocer y resolver los recursos de revisión y reconsideración interpuestos por el recurrente, en términos de la Ley, el Reglamento y demás disposiciones administrativas aplicables en materia de transparencia y acceso a la Información, de acuerdo a los elementos proporcionados por las partes, aplicando la suplencia de la queja a favor del recurrente;
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+IV. Conocer y resolver los recursos de revisión y reconsideración interpuestos por el recurrente, en términos de la Ley, el Reglamento y demás disposiciones legales y administrativas aplicables en materia de transparencia y acceso a la Información, de acuerdo a los elementos proporcionados por las partes, aplicando la suplencia de la queja a favor del recurrente;
 
 V. Analizar los recursos de revisión, acuerdos y proyectos de resolución que sean sometidos a su consideración por el Secretario de Acuerdos para su aprobación;
 
@@ -499,7 +667,7 @@ VI. Aprobar la designación o remoción de los servidores públicos que fungirá
 
 VII. Aprobar el Manual de Integración y Funcionamiento de la Comisión, así como las adecuaciones y reformas que resulten necesarias para su actualización;
 
-VIII. Aprobar, a propuesta del Comité, el informe anual a que hacen referencia los artículos 62 de la Ley y 16 del Reglamento;
+VIII. (DEROGADA, D.O.F. 18 DE AGOSTO DE 2015)
 
 IX. Implementar mecanismos que permitan mantener un seguimiento del cumplimiento de las resoluciones de la Comisión por las Unidades o Areas Administrativas del Instituto;
 
@@ -639,6 +807,12 @@ La Información Estadística y Geográfica no podrá ser difundida a través del
 
 No resultan aplicables al Instituto, en su carácter de organismo público con autonomía técnica y de gestión, personalidad jurídica y patrimonio propio, la información a que hacen referencia las fracciones XI y XVI, del artículo 7 de la Ley.
 
+> <small>(ADICIONADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+###### Artículo 33 Bis.
+
+Corresponderá a la Unidad de Transparencia emitir mediante oficio circular, los criterios que deberán atender las Unidades y Áreas Administrativas responsables de dar cumplimiento oportuno a las obligaciones de transparencia establecidas por el artículo 70 de la Ley General, las cuales serán aplicables sólo respecto de la información que se genere a partir de la entrada en vigor de la Ley General. Por su parte las Unidades y Áreas Administrativas brindarán el apoyo que resulte necesario a la Unidad de Transparencia para tal fin.
+
 ## TITULO III,
 
 DE LA INFORMACION.
@@ -647,13 +821,17 @@ DE LA INFORMACION.
 
 Clasificación de Información.
 
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 34.
 
-La Información se considerará pública por regla general y excepcionalmente podrá adoptar el carácter de reservada, parcialmente reservada o confidencial, en términos de lo dispuesto por la Ley, el Reglamento y demás disposiciones administrativas aplicables al Instituto.
+La Información se considerará pública por regla general y excepcionalmente podrá adoptar el carácter de reservada, parcialmente reservada o confidencial, en términos de lo dispuesto por la Ley General, la Ley, el Reglamento y demás disposiciones normativas aplicables al Instituto.
+
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 35.
 
-Al clasificar expedientes y documentos como reservados, parcialmente reservados o confidenciales, los Titulares de las Unidades y Areas Administrativas deberán tomar en consideración el daño presente, probable y específico que causaría su difusión a los intereses tutelados en los artículos 13, 14 y 18 de la Ley.
+Al clasificar expedientes y documentos como reservados, parcialmente reservados o confidenciales, los Titulares de las Unidades y Áreas Administrativas podrán utilizar de forma proactiva la prueba de daño a que hace referencia el artículo 104 del Ley General, por lo que hace al efecto que causaría su difusión a los intereses tutelados en los artículos 113, 115 y 116 de la Ley General.
 
 ###### Artículo 36.
 
@@ -781,9 +959,11 @@ Rúbrica y cargo del servidor público:21
 
 21 Rúbrica autógrafa y cargo de quien desclasifica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 40.
 
-Los documentos que integren un expediente reservado o confidencial en su totalidad, no deberán marcarse en lo individual, como en el caso de los expedientes a que se refieren las fracciones IV, V y VI, del artículo 14 de la Ley, entre otros.
+Los documentos que integren un expediente reservado o confidencial en su totalidad, no deberán marcarse en lo individual, como en el caso de los expedientes a que se refieren las fracciones VIII, IX, XI y XII, del artículo 113 de la Ley General, entre otros.
 
 Quedarán exceptuados de la aplicación del párrafo precedente, los documentos contenidos en dichos expedientes, que serán conocidos por terceros no adscritos a la Unidad o Area Administrativa que los generó, obtuvo, adquirió, transformó o conserva por cualquier título.
 
@@ -791,27 +971,39 @@ Si en los expedientes a que hacen referencia los párrafos primero y segundo ant
 
 Una vez desclasificados los expedientes que contengan Información clasificada como reservada o parcialmente reservada, si existieren documentos que tuvieran el carácter de reservados o confidenciales, deberán ser marcados utilizando la leyenda a que hace referencia el artículo 36 de este Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 41.
 
-La Información podrá permanecer con la clasificación de reservada o parcialmente reservada hasta por un periodo de doce años. Excepcionalmente las Unidades o Areas Administrativas podrán solicitar al Comité que gestione ante la Comisión la ampliación del periodo de reserva, para lo cual, las Unidades o Areas Administrativas tendrán que justificar que subsisten las causas que dieron origen a su clasificación.
+La información clasificada como reservada, según el artículo 113 de la Ley General, podrá permanecer con tal carácter hasta por un período de cinco años. El período de reserva correrá a partir de la fecha en que se clasifica el documento.
+
+> <small>(ADICIONADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+Excepcionalmente las Unidades o Áreas Administrativas podrán solicitar al Comité o al INAI, según corresponda, que gestione la ampliación del periodo de reserva, en términos de lo dispuesto por penúltimo y último párrafo del artículo 101 de la Ley General, para lo cual, las Unidades o Áreas Administrativas tendrán que justificar que subsisten las causas que dieron origen a su clasificación.
 
 Concluido el periodo de reserva de la Información, o las causas que le dieron origen, la misma podrá ser pública, protegiendo la Información confidencial que en ella se contenga.
 
 El Comité aprobará los formatos que deberán ser utilizados para la clasificación y desclasificación de Información del Instituto, los cuales deberán ser aplicados por los Titulares de las Unidades o Areas Administrativas para tales efectos, mismos que serán difundidos por la Unidad de Transparencia para su uso y aplicación.
 
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 42.
 
-La Información que se clasifique como confidencial, permanecerá como tal por tiempo indefinido.
+La información confidencial no estará sujeta a temporalidad alguna y sólo podrán tener acceso a ella los titulares de la misma, sus representantes y los Servidores Públicos facultados para ello.
 
 ###### Artículo 43.
 
 Los Titulares de las Unidades o Areas Administrativas que reciban una solicitud de Información clasificada o susceptible de clasificarse como reservada, parcialmente reservada o confidencial, deberán apegarse al procedimiento establecido por el artículo 140, fracción IV o V del Reglamento, según corresponda.
 
-El Comité podrá tener acceso a los expedientes o documentos clasificados por la Unidad o Area Administrativa de que se trate, debiendo emitir una resolución fundada y motivada, la cual será notificada al interesado, en el plazo que establece el artículo 44 de la Ley, en la que se indique expresamente el recurso que el solicitante podrá hacer valer ante la Comisión.
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+El Comité podrá tener acceso a los expedientes o documentos clasificados por la Unidad o Área Administrativa de que se trate, debiendo emitir una resolución fundada y motivada, la cual será notificada al interesado, en el plazo que establece el artículo 132 de la Ley General, en la que se indique expresamente el recurso que el solicitante podrá hacer valer ante la Comisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 44.
 
-De conformidad con lo dispuesto por el segundo párrafo del artículo 43 de la Ley, en los expedientes y documentos que contengan partes o secciones reservadas o confidenciales, los Titulares de las Unidades o Areas Administrativas deberán señalar aquellas partes o secciones que para su publicidad deban omitirse, a efecto de identificarlas en el caso de que resulte necesario integrar versiones públicas de los mismos, con motivo de una solicitud de acceso a la Información.
+De acuerdo con lo dispuesto por el artículo 111 de la Ley General, en los expedientes y documentos que contengan partes o secciones reservadas o confidenciales, los Titulares de las Unidades o Áreas Administrativas deberán señalar aquellas partes o secciones que para su publicidad deban omitirse, a efecto de identificarlas en el caso de que resulte necesario integrar versiones públicas de los mismos, con motivo de una solicitud de acceso a la Información.
 
 Sin perjuicio de lo anterior, el Comité podrá determinar la elaboración de versiones públicas por las Unidades o Areas Administrativas en cualquier momento.
 
@@ -823,25 +1015,29 @@ Los Titulares de las Unidades o Areas Administrativas, se asegurarán de que los
 
 En ausencia de los Titulares de las Unidades o Areas Administrativas, la Información será clasificada o desclasificada por el servidor público que los supla, en términos del Reglamento Interior.
 
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 47.
 
-Los miembros del Comité y la Comisión, estarán facultados para tener acceso a la Información reservada o confidencial, para determinar la procedencia de su clasificación y desclasificación, o determinar el acceso a la misma.
+Los miembros del Comité y la Comisión, estarán facultados para tener acceso a la Información que esté en poder de las Áreas o Unidades Administrativas, para determinar la procedencia de su clasificación y desclasificación, o determinar el acceso a la misma en términos de la Ley, el Reglamento y demás disposiciones aplicables.
 
 ### Capítulo II,
 
 Desclasificación de Información.
 
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 48.
 
-La Información clasificada como reservada o parcialmente reservada podrá desclasificarse cuando:
+Los Documentos clasificados como reservados serán públicos cuando:
 
-I. Haya transcurrido el periodo de reserva;
+I. Se extingan las causas que dieron origen a su clasificación;
 
-II. No habiendo transcurrido el periodo de reserva, ya no subsistan las causas que dieron origen a su clasificación, atendiendo las circunstancias de modo, tiempo y lugar;
+II. Expire el plazo de clasificación;
 
-III. Por determinación del Comité, en términos del artículo 45 de la Ley, o
+III. Exista resolución de una autoridad competente que determine que existe una causa de interés público que prevalece sobre la reserva de la información, o
 
-IV. Por determinación de la Comisión, de conformidad con los artículos 17 y 56 de la Ley.
+IV. El Comité de Transparencia considere pertinente la desclasificación, de conformidad con lo señalado en el Título Sexto de la Ley General.
 
 ###### Artículo 49.
 
@@ -851,7 +1047,9 @@ I. El Titular de la Unidad o Area Administrativa correspondiente;
 
 II. El Comité, y
 
-III. La Comisión.
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+III. El INAI y la Comisión, según corresponda.
 
 ### Capítulo III,
 
@@ -863,17 +1061,21 @@ Cuando un expediente contenga documentos públicos y reservados, respecto de cuy
 
 Las reproducciones de los expedientes o documentos que se entreguen en términos del párrafo anterior, constituirán las versiones públicas correspondientes, las cuales deberán elaborarse en términos de lo dispuesto por el Capítulo I, del Título V, de este Reglamento.
 
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 51.
 
-Los Titulares de las Unidades y Areas Administrativas elaborarán, de conformidad con los requisitos establecidos en el artículo 17 de la Ley, un Indice de Expedientes Reservados.
+Los Titulares de las Unidades y Áreas Administrativas desarrollarán, de conformidad con lo dispuesto por el artículo 102 de la Ley General, un Índice de Expedientes Reservados.
 
-A efecto de mantener actualizado el Indice antes citado, cada Unidad y Area Administrativa lo enviará a la Unidad de Transparencia, dentro de los primeros diez días hábiles de los meses de enero y julio de cada año, quien lo remitirá al Comité, dentro de los dos días hábiles siguientes.
+A efecto de mantener actualizado el Índice antes citado, cada Unidad y Área Administrativa lo enviará a la Unidad de Transparencia, dentro de los primeros siete días hábiles de los meses de enero y julio de cada año, quien lo integrará y elaborará, dentro de los cinco días hábiles siguientes para su posterior publicación en formatos abiertos en cumplimiento a lo dispuesto por el segundo párrafo del artículo 102 la Ley General.
 
-El Comité tendrá un plazo de diez días hábiles para su aprobación; transcurrido dicho plazo sin que exista determinación alguna por parte del Comité, se entenderá aprobado, salvo que a juicio del Pleno del Comité existan causas que ameriten prorrogar el plazo, por una sola vez, hasta por un periodo igual. Durante la prórroga, el Comité podrá solicitar a las Unidades o Areas Administrativas, Información adicional sobre los datos que debe contener el Indice de Expedientes Reservados, así como respecto del fundamento y la motivación de la clasificación de los expedientes incorporados al mismo.
+La Unidad de Transparencia podrá solicitar a las Unidades o Áreas Administrativas, Información adicional sobre los datos que debe contener el Índice de Expedientes Reservados por lo que respecta a la información por ellas generada, así como respecto del fundamento y la motivación de la clasificación de los expedientes incorporados al mismo en cumplimiento a la Ley General, la Ley, el Reglamento y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 52.
 
-El Indice de Expedientes Reservados será considerado como Información pública, sujeta a las obligaciones de disponibilidad y acceso establecidas por la Ley.
+El Índice de Expedientes Reservados será considerado como Información pública, sujeta a las obligaciones de disponibilidad y acceso establecidas por la Ley General.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
@@ -891,7 +1093,9 @@ IV. La fecha de la clasificación;
 
 V. El fundamento legal, incluyendo los artículo(s), párrafo(s) y fracción(es) aplicables de la Ley, el Reglamento y el Reglamento Interior, que motivan la clasificación y la atribución o función por virtud de la cual se generó la Información;
 
-VI. El periodo de reserva, y
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+VI. El periodo de reserva, indicando la fecha en que inicia y finaliza la reserva y si se encuentra en prórroga, y
 
 VII. Las partes de los expedientes o documentos que se reservan, en su caso.
 
@@ -901,11 +1105,17 @@ Los Titulares de las Unidades o Areas Administrativas procurarán determinar el 
 
 El periodo de reserva correrá a partir de la fecha en que se clasifica el expediente o documento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 54.
 
-Cuando a juicio del Titular de la Unidad o Area Administrativa competente, sea necesario ampliar el periodo de reserva de un expediente o documento, éste deberá enviar con al menos tres meses de anticipación a su vencimiento, un oficio debidamente fundado y motivado al Comité, quien analizará su procedencia y, en su caso, determinará su aprobación.
+Cuando a juicio del Titular de la Unidad o Área Administrativa competente, sea necesario ampliar el periodo de reserva de un expediente o documento, hasta por un plazo de cinco años adicionales, éste deberá enviar con al menos tres meses de anticipación a su vencimiento, un oficio debidamente fundado y motivado al Comité, quien analizará su procedencia en términos de lo dispuesto por el penúltimo párrafo del artículo 101 de la Ley General y, en su caso, determinará su aprobación.
 
 El Comité deberá informar a la Comisión las aprobaciones que otorgue de conformidad con lo dispuesto por el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+Así mismo, corresponderá al Comité aprobar la solicitud de ampliación para su envío al INAI, por lo menos con tres meses y medio de anticipación al vencimiento del plazo de clasificación, a solicitud del Titular de la Unidad o Área Administrativa competente, tratándose del supuesto contemplado por el último párrafo del artículo 101 de la Ley General.
 
 ###### Artículo 55.
 
@@ -1043,23 +1253,49 @@ Los expedientes y documentos clasificados como reservados, serán debidamente cu
 
 Información Confidencial.
 
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 70.
 
-Los documentos y expedientes clasificados como confidenciales no podrán difundirse si no media en cada caso, el consentimiento del Titular de dicha Información, sin perjuicio de las excepciones establecidas en la Ley, el Reglamento y demás disposiciones normativas aplicables. Dicho consentimiento podrá solicitarse de conformidad con el artículo 75 del Reglamento.
+Los documentos y expedientes clasificados como confidenciales no podrán difundirse, distribuirse o comercializarse si no media en cada caso, el consentimiento del Titular de dicha Información, sin perjuicio de las excepciones establecidas por el artículo 120 de la Ley General, la Ley, el Reglamento y demás disposiciones normativas aplicables. Dicho consentimiento podrá solicitarse de conformidad con el artículo 75 del Reglamento.
+
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 71.
 
-La Información confidencial no estará sujeta a plazos de vencimiento y tendrá ese carácter de manera indefinida, salvo que medie el consentimiento expreso del Titular de la Información mediante escrito con firma autógrafa y copia simple de su identificación, por orden judicial o mandamiento escrito emitido por autoridad competente.
+La información confidencial no estará sujeta a temporalidad alguna y sólo podrán tener acceso a ella los titulares de la misma, sus representantes y los Servidores Públicos facultados para ello, salvo que:
+
+I. La información se encuentre en registros públicos o fuentes de acceso público;
+
+II. Por ley tenga el carácter de pública;
+
+III. Exista una orden judicial;
+
+IV. Por razones de seguridad nacional y salubridad general, o para proteger los derechos de terceros, se requiera su publicación.
+
+En el supuesto a que hace referencia esta fracción se podrá aplicar en forma proactiva la prueba de interés público en términos de lo dispuesto por la Ley General. Además, se deberá corroborar una conexión patente entre la información confidencial y un tema de interés público y la proporcionalidad entre la invasión a la intimidad ocasionada por la divulgación de la información confidencial y el interés público de la información, o
+
+V. Cuando se transmita entre sujetos obligados y entre éstos y los sujetos de derecho internacional, en términos de los tratados y los acuerdos interinstitucionales, siempre y cuando la información se utilice para el ejercicio de facultades propias de los mismos.
+
+En términos de lo dispuesto por el artículo 120 de la Ley General, en ninguno de los supuestos a que hacen referencia las fracciones anteriores se requerirá el consentimiento del Titular de la información confidencial para su difusión. Fuera de los supuestos antes listados, para la difusión de información confidencial deberá mediar el consentimiento expreso del Titular de la Información mediante escrito con firma autógrafa y copia simple de su identificación, documentación que deberá ser resguardada por las Áreas y Unidades Administrativas del Instituto en el expediente de que se trate.
+
+Se considera como información confidencial: los secretos bancario, fiduciario, industrial, comercial, fiscal, bursátil y postal, cuya titularidad corresponda a particulares, sujetos de derecho internacional o a sujetos obligados cuando no involucren el ejercicio de recursos públicos.
+
+Asimismo, será información confidencial aquella que presenten los particulares a los sujetos obligados, siempre que tengan el derecho a ello, de conformidad con lo dispuesto por las leyes o los tratados internacionales.
+
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 72.
 
-La Información confidencial que además se ubique en alguno de los supuestos establecidos por los artículos 13 y 14 de la Ley, será clasificada como reservada.
+La Información confidencial que además se ubique en el supuesto establecido por la fracción XIII, del artículo 113 de la Ley General, será clasificada adicionalmente como reservada.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+Adicionalmente, los Titulares de las Áreas y Unidades Administrativas, así como el Comité de Transparencia, al clasificar información como confidencial, deberán observar lo previsto por los artículos 117, 118 y 119 de la Ley General, debiendo fundar y motivar la clasificación a que hacen referencia dichos numerales.
+
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 73.
 
-Será confidencial la Información que contenga datos personales de una persona física identificada o identificable en términos del Reglamento.
+Se considera información confidencial la que contiene datos personales concernientes a una persona física identificada o identificable en términos de la Ley General, la Ley, el Reglamento y demás disposiciones normativas aplicables.
 
 ###### Artículo 74.
 
@@ -1087,7 +1323,9 @@ En tanto se desahoga el requerimiento por parte del particular Titular de la Inf
 
 La autorización a que hace referencia el primer párrafo de este artículo, deberá constar por escrito, e incluir la firma autógrafa del Titular de la Información solicitada y copia simple de su identificación. El silencio del particular será considerado como una negativa.
 
-Cuando los particulares entreguen al Instituto Información que deba ser considerada como confidencial en términos de lo dispuesto por los artículos 18, fracción I y 19 de la Ley, deberán indicar expresamente al entregar dicha Información, el fundamento por el que consideren se le deba dar ese carácter.
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+Cuando los particulares entreguen al Instituto Información que deba ser considerada como confidencial en términos de lo dispuesto por el último párrafo del artículo 116 de la Ley General y el artículo 19 de la Ley, en correlación con el último párrafo del artículo 71 del Reglamento, al clasificar la información se deberá indicar el fundamento legal que le dio el derecho al particular de que la información proporcionada tenga tal carácter, debiendo indicarlo expresamente al entregar dicha Información.
 
 El Comité deberá dar acceso a las versiones públicas de los expedientes o documentos que contengan Información clasificada como confidencial, en las que se omitan los documentos o las partes o secciones de éstos que contengan Información confidencial, aun en los casos en que no se haya requerido al particular Titular de la Información para que otorgue su consentimiento, o bien, se obtenga una negativa expresa o tácita del mismo.
 
@@ -1179,9 +1417,9 @@ X. Coordinar los procedimientos de valoración y destino final de la documentaci
 
 XI. Coordinar con la DGAI, las actividades destinadas a la automatización de los archivos y al manejo de documentos electrónicos;
 
-> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-XII. Participar en las sesiones del Comité como asesor con voz y voto, cuando dicho órgano colegiado analice asuntos relacionados con la organización y conservación de archivos;
+XII. Participar en las sesiones del Comité como invitado, con voz pero sin voto, cuando dicho órgano colegiado analice asuntos relacionados con la organización y conservación de archivos;
 
 > <small>(ADICIONADA, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
@@ -1191,9 +1429,9 @@ XIII. Fungir como representante del Instituto ante el Consejo Nacional de Archiv
 
 XIV. Las demás previstas por el Reglamento, que le confiera el Reglamento Interior o las demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-Para el correcto desempeño de sus funciones como Área Coordinadora de Archivos del Instituto, el Titular de la Dirección General Adjunta de Recursos Materiales y Servicios Generales contará con el apoyo de un responsable de su seguimiento. Esta función recaerá en el Titular de la Dirección del Sistema Institucional de Archivos quien fungirá como Asesor Suplente del Comité para efectos de lo dispuesto por la fracción XII de este artículo.
+Para el correcto desempeño de sus funciones como Área Coordinadora de Archivos del Instituto, el Titular de la Dirección General Adjunta de Recursos Materiales y Servicios Generales contará con el apoyo de un responsable de su seguimiento. Esta función recaerá en el Titular de la Dirección del Sistema Institucional de Archivos quien fungirá como Invitado del Comité para efectos de lo dispuesto por la fracción XII de este artículo.
 
 > <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
@@ -1555,13 +1793,9 @@ De la Conservación de Archivos.
 
 Corresponderá al Titular del Area Coordinadora de Archivos, coordinar la actualización periódica, en el término que al efecto establece el artículo 89 del Reglamento, del Catálogo de Disposición Documental, a efecto de que refleje la integración de la Información del Instituto.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-> <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
-
-Para efectos de la reserva de Información, el Catálogo de Disposición Documental y el Índice de Expedientes Reservados que establece el artículo 17 de la Ley, deberán vincularse.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+Para efectos de la reserva de Información, el Catálogo de Disposición Documental y el Índice de Expedientes Reservados que establece el artículo 102 de la Ley General, deberán vincularse.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
@@ -1577,11 +1811,11 @@ A partir de la desclasificación de expedientes reservados, el plazo de conserva
 
 Al concluir los plazos establecidos en este artículo, el Instituto, a través de su Area Coordinadora de Archivos, solicitará al Comité de Valoración un dictamen de valoración para determinar el destino final de los documentos.
 
-> <small>(REFORMADO, D.O.F. 27 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 94.
 
-Las solicitudes de dictamen de destino final, el dictamen del Comité de Valoración y las actas de Baja Documental o de transferencia secundaria, deberán digitalizarse y publicarse en el Portal de Transparencia por la Dirección General Adjunta de Recursos Materiales y Servicios Generales, en cumplimiento a lo dispuesto por el artículo 7 fracción XVII de la Ley, de conformidad con lo establecido por el último párrafo del artículo 27 del Reglamento.
+Las solicitudes de dictamen de destino final, el dictamen del Comité de Valoración y las actas de Baja Documental o de transferencia secundaria, deberán digitalizarse y publicarse en el Portal de Transparencia por la Dirección General Adjunta de Recursos Materiales y Servicios Generales, en cumplimiento a lo dispuesto por los artículos 70 fracción XLVIII de la Ley General y 7 fracción XVII de la Ley, según corresponda de conformidad con lo establecido por el último párrafo del artículo 27 del Reglamento.
 
 > <small>(REFORMADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
@@ -1655,7 +1889,7 @@ I. Aprobar, en la última sesión de cada ejercicio fiscal, el Cuadro General de
 
 II. Emitir dictámenes de valoración para determinar el destino final de los documentos que hayan cumplido los correspondientes plazos de conservación;
 
-III. Emitir dictámenes para declarar el reconocimiento de los valores históricos de los documentos resguardados en el archivo histórico, y (sic)
+III. Emitir dictámenes para declarar el reconocimiento de los valores históricos de los documentos resguardados en el archivo histórico, y
 
 IV. Aprobar su Manual de Integración y Funcionamiento y sus actualizaciones.
 
@@ -1701,37 +1935,53 @@ De la Elaboración de Versiones Públicas.
 
 El presente Capítulo tiene por objeto establecer las características mínimas que deberán contener las versiones públicas de documentos o expedientes con partes o secciones clasificadas como reservadas o confidenciales.
 
-Las versiones públicas no contendrán Información que, de conformidad con lo establecido en los artículos 13, 14 y 18 de la Ley y demás aplicables del Reglamento, sea considerada reservada o confidencial.
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-Las Unidades y Areas Administrativas sólo podrán elaborar versiones públicas de documentos que contengan Información clasificada como reservada o confidencial, siempre y cuando los documentos en que conste la Información permitan eliminar las partes o secciones clasificadas, señalando las mismas de acuerdo con lo dispuesto en el artículo 104 del Reglamento.
+Las versiones públicas no contendrán Información que, de conformidad con lo establecido en los artículos 113 y 116 de la Ley General y demás aplicables del Reglamento, sea considerada reservada o confidencial.
+
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+Las Unidades y Áreas Administrativas para efectos de una solicitud de información o dar cumplimiento a las obligaciones de transparencia previstas por la Ley General, podrán elaborar versiones públicas de documentos que contengan Información clasificada como reservada o confidencial, siempre y cuando los documentos en que conste la Información permitan testar las partes o secciones clasificadas, indicando su contendido de manera genérica y fundando y motivando su clasificación, señalando las mismas de acuerdo con lo dispuesto en el artículo 104 del Reglamento.
 
 ###### Artículo 101.
 
 Las Unidades y Areas Administrativas podrán elaborar las versiones públicas de expedientes o documentos al organizar sus archivos, cuando resulte necesario difundir Información o ante una solicitud de acceso a la Información, siempre y cuando se compruebe que es procedente y viable realizarla.
 
-Tratándose de solicitudes de acceso a la Información, las Unidades o Areas Administrativas procederán a su elaboración, una vez que el solicitante haya comprobado la realización del pago correspondiente.
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+La elaboración de versiones públicas, cuya modalidad de reproducción o envío tenga un costo, procederá una vez que se acredite el pago respectivo.
 
 ###### Artículo 102.
 
 La Comisión al resolver recursos de revisión, puede instruir al Instituto por conducto del Comité, la elaboración de versiones públicas, cuando haya causas justificadas o elementos objetivos para determinar que se puede elaborar y entregar al solicitante.
 
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 103.
 
-La Información pública a que se refiere el artículo 7 de la Ley, no podrá omitirse en las versiones públicas. Tampoco podrá omitirse el nombre de los servidores públicos en los documentos, ni sus firmas en documentos oficiales.
+La Información pública a que se refieren los artículos 70 de la Ley General y 7 de la Ley, no podrá omitirse en las versiones públicas. Tampoco podrá omitirse el nombre de los servidores públicos en los documentos, ni sus firmas en documentos oficiales.
 
 ###### Artículo 104.
 
 Para la elaboración de versiones públicas de Información del Instituto, se atenderá a los siguientes criterios:
 
-I. Para Documentos Impresos.- Deberá fotocopiarse y sobre la fotocopia deberán testarse o eliminar las palabras, párrafos o renglones que sean clasificados, con un rectángulo opaco que no permita ver a través de él, insertando únicamente en la parte del documento donde estaba originalmente el texto excluido, la palabra “Eliminado”, señalando si la omisión es una palabra(s), renglón(es) o párrafo(s); motivando la clasificación e incluyendo las siglas del o los ordenamientos jurídicos, artículo(s), fracción(es) y párrafo(s) que fundan la misma.
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-En caso de no ser técnicamente factible incluir la motivación en el lugar del documento donde se haga la eliminación, se deberá anotar una referencia (numérica o alfanumérica) junto al fundamento legal indicado, a un lado de la eliminación, para posteriormente adjuntar la motivación respectiva en un documento distinto, referenciado a las partes eliminadas.
+I. Para Documentos Impresos.- Deberá fotocopiarse y sobre la fotocopia deberán testarse o eliminar las palabras, párrafos o renglones que sean clasificados, con un rectángulo opaco que no permita ver a través de él, insertando únicamente en la parte del documento donde estaba originalmente el texto excluido, la palabra “Eliminado”, señalando si la omisión es una palabra(s), renglón(es) o párrafo(s); indicando su contendido de manera genérica y fundando y motivando su clasificación e incluyendo las siglas del o los ordenamientos jurídicos, artículo(s), fracción(es) y párrafo(s) que fundan la misma.
+
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+En caso de no ser técnicamente factible incluir la fundamentación y motivación en el lugar del documento donde se haga la eliminación, se deberá anotar una referencia (numérica o alfanumérica) junto al fundamento legal indicado, a un lado de la eliminación, para posteriormente adjuntar la motivación respectiva en un documento distinto, referenciado a las partes eliminadas.
 
 II. Para Documentos Electrónicos.- Deberá crearse un nuevo archivo electrónico para que sobre éste se elabore la versión pública, eliminando las partes o secciones clasificadas.
 
-En la parte del documento donde se hubiese ubicado originalmente el texto eliminado, deberá insertarse únicamente un rectángulo de color distinto al utilizado en el resto del documento, de manera que no sea posible observar a través de él, ni removerlo, con la palabra “Eliminado”, y señalarse si la omisión es una palabra(s), renglón(es) o párrafo(s); fundando y motivando la clasificación. Incluyendo las siglas del o los ordenamientos jurídicos, artículo(s), fracción(es) y párrafo(s) que fundan la misma. Dicho documento deberá ser impreso y escaneado nuevamente con el objeto de evitar poner en riesgo la confidencialidad o reserva de las partes o secciones omitidas.
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-En caso de no ser técnicamente factible incluir la motivación en el lugar del documento donde se haga la eliminación, resultará aplicable lo dispuesto por el segundo párrafo de la fracción anterior de este mismo artículo.
+En la parte del documento donde se hubiese ubicado originalmente el texto eliminado, deberá insertarse únicamente un rectángulo de color distinto al utilizado en el resto del documento, de manera que no sea posible observar a través de él, ni removerlo, con la palabra “Eliminado”, y señalarse si la omisión es una palabra(s), renglón(es) o párrafo(s); fundando y motivando la clasificación indicando su contendido de manera genérica. Incluyendo las siglas del o los ordenamientos jurídicos, artículo(s), fracción(es) y párrafo(s) que fundan la misma. Dicho documento deberá ser impreso y escaneado nuevamente con el objeto de evitar poner en riesgo la confidencialidad o reserva de las partes o secciones omitidas.
+
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+En caso de no ser técnicamente factible incluir la fundamentación y motivación en el lugar del documento donde se haga la eliminación, resultará aplicable lo dispuesto por el segundo párrafo de la fracción anterior de este mismo artículo.
 
 III. Para Actas, Minutas y Acuerdos de Servidores Públicos.- Deberán seguirse los criterios señalados en las fracciones I y II anteriores, debiendo observar adicionalmente lo siguiente:
 
@@ -1745,9 +1995,13 @@ Los procesos deliberativos concluidos serán públicos, en caso de no existir al
 
 IV. Para Auditorías.- Los resultados, números y tipos de auditorías al ejercicio presupuestal del Instituto, así como el número total de observaciones y el total de las aclaraciones efectuadas, deberán considerarse Información pública.
 
-Sólo podrá omitirse aquella Información que pudiera causar un serio perjuicio a las actividades de verificación del cumplimiento de las leyes, o bien, se relacione con presuntas responsabilidades, lo cual deberá estar debidamente fundado y motivado al amparo de un supuesto de clasificación previsto por la legislación y normatividad que resulten aplicables.
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-V. Para Contratos, Concesiones, Permisos o Autorizaciones.- Los contratos, concesiones, permisos o autorizaciones serán considerados como Información pública por regla general, independientemente de su vigencia, exceptuando aquella Información contenida en los mismos que sea considerada como reservada o confidencial al amparo de supuestos considerados por la legislación y normatividad que resulten aplicables.
+Sólo podrá omitirse aquella Información que pudiera causar un serio perjuicio a las actividades de verificación del cumplimiento de las leyes, o bien, se relacione con presuntas responsabilidades, lo cual deberá estar debidamente fundado y motivado al amparo de un supuesto de clasificación previsto por la Ley General y el Reglamento que resulten aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+V. Para Contratos, Concesiones, Permisos o Autorizaciones.- Los contratos, concesiones, permisos o autorizaciones serán considerados como Información pública por regla general, independientemente de su vigencia, exceptuando aquella Información contenida en los mismos que sea considerada como reservada o confidencial al amparo de supuestos considerados por la Ley General y el Reglamento que resulten aplicables.
 
 Ante una solicitud de acceso, podrá elaborarse una versión pública de los contratos, concesiones, permisos o autorizaciones.
 
@@ -1805,9 +2059,11 @@ XVII. Otras análogas que afecten su intimidad, como sería la información gen�
 
 Los datos personales serán confidenciales, independientemente de que hayan sido obtenidos por el Instituto directamente de su Titular o por cualquier otro medio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 108.
 
-En el tratamiento de datos personales, el Instituto deberá observar los principios de licitud, calidad, acceso y corrección, de información, seguridad, custodia y consentimiento para su transmisión, los cuales deberán entenderse en los siguientes términos:
+En atención a lo dispuesto por la fracción I, del artículo 68 de la Ley General, en el Instituto el tratamiento de datos personales, se observarán los principios de licitud, calidad, acceso y corrección, de información, seguridad, custodia y consentimiento para su transmisión, los cuales deberán entenderse en los siguientes términos:
 
 I. Licitud.- La posesión de sistemas de datos personales deberá obedecer exclusivamente a las atribuciones propias de la gestión administrativa del Instituto, previstas en el Reglamento Interior para sus Unidades y Areas Administrativas, así como de las funciones previstas en las demás disposiciones que deriven del mismo. Los Datos Personales deberán obtenerse por el Instituto a través de los medios previstos en las mismas.
 
@@ -1833,11 +2089,15 @@ V. Seguridad.- Se deberán adoptar las medidas necesarias para garantizar la int
 
 VI. Custodia y cuidado de la Información.- Los datos personales serán debidamente custodiados y los responsables, encargados y usuarios de los mismos, deberán garantizar el manejo cuidadoso en su tratamiento, y
 
-VII. Consentimiento para la Transmisión.- Toda transmisión de datos personales deberá contar con el consentimiento del Titular de los mismos, incluyendo la firma autógrafa, mismo que deberá otorgarse en forma libre, expresa e informada, salvo lo dispuesto por el artículo 22 de la Ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+VII. Consentimiento para la Transmisión.- Toda transmisión de datos personales deberá contar con el consentimiento del Titular de los mismos, incluyendo la firma autógrafa, mismo que deberá otorgarse en forma libre, expresa e informada, salvo lo dispuesto por el artículo 120 de la Ley General.
 
 El Servidor Público encargado de recabar el consentimiento del Titular de los datos personales para la transmisión de los mismos, deberá entregar a éste, en forma previa a cada transmisión, la Información suficiente acerca de las implicaciones de otorgar, de ser el caso, su consentimiento.
 
-Asimismo, deberán otorgar acceso a aquellos datos que no se consideren como confidenciales por ubicarse en los supuestos establecidos por los artículos 7, 12 y 18 último párrafo de la Ley.
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+Asimismo, deberán otorgar acceso a aquellos datos que no se consideren como confidenciales por ubicarse en los supuestos establecidos por los artículos 70, 130 y 216 de la Ley General y 7, 12 y 18 último párrafo de la Ley.
 
 ###### Artículo 109.
 
@@ -1871,7 +2131,9 @@ III. Aplicar las medidas y estándares de seguridad para la conservación y resg
 
 En el momento en que se recaben datos personales, cada Unidad Administrativa deberá hacer del conocimiento del titular de los datos, tanto en los formatos físicos como en los electrónicos utilizados para ese fin, lo siguiente:
 
-I. La mención de que los datos recabados serán protegidos en términos de lo dispuesto por la Ley;
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+I. La mención de que los datos recabados serán protegidos en términos de lo dispuesto por la Legislación y normatividad aplicables;
 
 II. El fundamento legal para ello, y
 
@@ -1881,7 +2143,9 @@ III. La finalidad del Sistema de Datos Personales.
 
 Para informar al Titular de los datos personales lo establecido por el artículo anterior, podrá utilizarse el siguiente modelo:
 
-“Los datos personales recabados serán protegidos y serán incorporados y tratados en el Sistema de Datos Personales (indicar nombre1), con fundamento en (indicar2) y cuya finalidad es (describirla3), y podrán ser transmitidos en términos del artículo 22 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental. La Unidad o Area Administrativa responsable del Sistema de Datos Personales es (indicarlo4), y la dirección donde el interesado podrá ejercer los derechos de acceso y corrección ante la misma es (indicarla5). Lo anterior, se informa en cumplimiento al artículo 111 del Reglamento de Transparencia y Acceso a la Información Pública del Instituto Nacional de Estadística y Geografía, publicado en el Diario Oficial de la Federación (incluir fecha6).”
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+“Los datos personales recabados serán protegidos y serán incorporados y tratados en el Sistema de Datos Personales (indicar nombre1), con fundamento en (indicar2) y cuya finalidad es (describirla3), y podrán ser transmitidos en términos del artículo 120 de la Ley General de Transparencia y Acceso a la Información Pública. La Unidad o Área Administrativa responsable del Sistema de Datos Personales es (indicarlo4), y la dirección donde el interesado podrá ejercer los derechos de acceso y corrección ante la misma es (indicarla5). Lo anterior, se informa en cumplimiento al artículo 111 del Reglamento de Transparencia y Acceso a la Información Pública del Instituto Nacional de Estadística y Geografía, publicado en el Diario Oficial de la Federación (incluir fecha6).”
 
 1 Denominación del Sistema de Datos Personales.
 
@@ -1899,9 +2163,11 @@ Para informar al Titular de los datos personales lo establecido por el artículo
 
 Para la conservación de los datos personales que no contengan valores históricos, científicos, estadísticos o contables, podrán ser dados de baja por las Unidades o Areas Administrativas que los posean, una vez transcurrida la vigencia documental establecida en el Catálogo de Disposición Documental del Instituto. Cuando se trate de datos personales que contengan dichos valores, la documentación en que obren los mismos podrá ser objeto de transferencias secundarias al Archivo de Concentración o Histórico en términos del presente Reglamento y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 114.
 
-Las transmisiones totales o parciales de Sistemas de Datos Personales que realicen las Unidades o Areas Administrativas del Instituto en ejercicio de sus atribuciones, deberán ser notificadas mediante un informe escrito que deberá ser remitido por el Responsable de los mismos, a la Comisión dentro de los primeros diez días hábiles de los meses de enero y julio de cada año.
+Las transmisiones totales o parciales de Sistemas de Datos Personales que realicen las Unidades o Áreas Administrativas del Instituto en ejercicio de sus atribuciones, deberán ser notificadas mediante un informe escrito que deberá ser remitido por el Responsable de los mismos, a la Comisión de manera previa a que la transmisión de que se trate tenga lugar, a efecto de que ésta se pronuncie sobre la conveniencia de la misma.
 
 El informe a que hace referencia este artículo deberá contener al menos, lo siguiente:
 
@@ -1941,11 +2207,15 @@ Una vez que se cuente con la respuesta de la solicitud de acceso o corrección d
 
 Si la respuesta comunicada por la Unidad de Transparencia otorga el acceso o corrección a los datos personales solicitados y el particular hubiera requerido copias simples de los mismos, no se registrará costo alguno debido a que esta modalidad de reproducción será considerada excepcionalmente como gratuita.
 
-En caso de que el particular solicite copias certificadas o realice una nueva solicitud de acceso o corrección de datos personales respecto del mismo Sistema de Datos Personales en un periodo de doce meses a partir de la solicitud original, la Unidad o Area Administrativa responsable de la Información que se solicita dentro del Sistema de Datos Personales, hará un registro de dicha circunstancia, utilizando el sistema informático que para tal efecto determine el Instituto, y se deberá observar lo establecido por el artículo 27 de la Ley y el presente Capítulo, correspondiendo a la Unidad de Transparencia calcular los costos correspondientes.
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+En caso de que el particular solicite copias certificadas o realice una nueva solicitud de acceso o corrección de datos personales respecto del mismo Sistema de Datos Personales en un periodo de doce meses a partir de la solicitud original, la Unidad o Área Administrativa responsable de la Información que se solicita dentro del Sistema de Datos Personales, hará un registro de dicha circunstancia, utilizando el sistema informático que para tal efecto determine el Instituto, y se deberá observar lo establecido por el artículo 141 de la Ley General y el presente Capítulo, correspondiendo a la Unidad de Transparencia calcular los costos correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 120.
 
-La Unidad de Transparencia, los Centros de Información Habilitados o las Coordinaciones Estatales, comprobarán la recepción del pago con el fin de reproducir o corregir los datos personales en el medio indicado y ponerlos a disposición del solicitante en las instalaciones de la Unidad de Transparencia o los Centros de Información Habilitados, o la Coordinación Estatal más cercana a su domicilio, según sea el caso, o a petición del solicitante.
+La Unidad de Transparencia, los Centros de Información Habilitados o las Coordinaciones Estatales, comprobarán la recepción del pago, en su caso, con el fin de reproducir o corregir los datos personales en el medio indicado y ponerlos a disposición del solicitante en las instalaciones de la Unidad de Transparencia o los Centros de Información Habilitados, o la Coordinación Estatal más cercana a su domicilio, según sea el caso, o a petición del solicitante.
 
 Corresponderá a la Unidad de Transparencia, registrar en el sistema informático que para tal efecto determine el Instituto, la fecha en que se notificó la disponibilidad o no de los datos personales en el Instituto al solicitante, o se notificó la procedencia o improcedencia de su corrección.
 
@@ -1955,15 +2225,19 @@ Para tomar conocimiento de las respuestas otorgadas por el Instituto a las solic
 
 Al promover solicitudes de acceso o corrección de datos personales, los Titulares de dichos datos personales o su representante legal, deberán acreditar su personalidad, mediante identificación oficial vigente con fotografía, tales como: credencial para votar, cédula profesional o pasaporte, ante la Unidad de Transparencia, los Centros de Información Habilitados o la Coordinación Estatal correspondientes, donde serán atendidos por un servidor público designado para tal efecto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 122.
 
-Los plazos y procedimientos para dar trámite a las solicitudes de acceso a datos personales en el Instituto, deberán desahogarse dentro del plazo máximo de diez días hábiles determinado en el primer párrafo del artículo 24 de la Ley. Dentro de dicho plazo se entenderá comprendida la notificación al particular a través de la Unidad de Transparencia, los Centros de Información Habilitados o las Coordinaciones Estatales, según corresponda.
+Los plazos y procedimientos para dar trámite a las solicitudes de acceso a datos personales en el Instituto, deberán desahogarse dentro del plazo máximo de diez días hábiles determinado en el primer párrafo del artículo 24 de la Ley atendiendo a lo dispuesto por el artículo 141 de la Ley General. Dentro de dicho plazo se entenderá comprendida la notificación al particular a través de la Unidad de Transparencia, los Centros de Información Habilitados o las Coordinaciones Estatales, según corresponda.
 
 El procedimiento para el desahogo de las solicitudes de acceso a datos personales en el Instituto será el siguiente:
 
 I. Recibida la solicitud, la Unidad de Transparencia, deberá turnar la misma a más tardar al día hábil siguiente de su recepción, a la Unidad(es) o Area(s) Administrativa(s) que se estime pueda contar con la Información requerida;
 
-II. En caso de contar con la Información sobre los datos personales solicitados, la Unidad o Area Administrativa deberá remitirlos en formato comprensible a la Unidad de Transparencia, quien precisará el costo a cubrir por el solicitante o, en su caso, la gratuidad de la reproducción respectiva, en términos de los (sic) dispuesto por el artículo 24 de la Ley y 119 primer párrafo del Reglamento;
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+II. En caso de contar con la Información sobre los datos personales solicitados, la Unidad o Área Administrativa deberá remitirlos en formato comprensible a la Unidad de Transparencia, quien precisará el costo a cubrir por el solicitante o, en su caso, la gratuidad de la reproducción respectiva, en términos de los dispuesto por el artículo 24 de la Ley atendiendo a lo dispuesto por el artículo 141 de la Ley General y 119 primer párrafo del Reglamento;
 
 III. En caso de que la Unidad o Area Administrativa que reciba a trámite una solicitud de acceso a datos personales, respecto de la cual considere que posiblemente la Información solicitada se encuentre en otro Sistema de Datos Personales, el cual no se encuentre bajo su administración, deberá emitir en un plazo máximo de tres días hábiles, contados a partir de la fecha de recepción de la misma, un oficio dirigido a la Unidad de Transparencia, firmado por el servidor público designado como responsable del Sistema de Datos Personales de que se trate, en el que indique tal circunstancia, a efecto de que ésta, de estimarlo procedente, realice la búsqueda exhaustiva ante la Unidad o Area Administrativa que administre el Sistema de que se trate, y
 
@@ -1991,15 +2265,17 @@ Las resoluciones del Comité que determinen la inexistencia de datos personales,
 
 Cuando el particular o su representante hayan solicitado la reproducción de datos personales o la corrección de éstos en copias certificadas, los plazos de respuesta comenzarán a correr a partir del día hábil siguiente a aquél en que el particular o su representante, compruebe mediante ficha de depósito original, el pago correspondiente, el cual deberá entregarse personalmente por el interesado o su representante, ante la Unidad de Transparencia, de los Centros de Información Habilitados, o Coordinaciones Estatales donde haya promovido la solicitud o solicitado su entrega.
 
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 126.
 
-Las solicitudes a que hace referencia este capítulo y sus correspondientes respuestas, al contener Información clasificada como confidencial en términos del artículo 18 de la Ley y 106 del Reglamento, no podrán ser dadas a conocer al público en general.
+Las solicitudes a que hace referencia este capítulo y sus correspondientes respuestas, al contener Información clasificada como confidencial en términos del artículo 116 de la Ley General y 106 del Reglamento, no podrán ser dadas a conocer al público en general.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 127.
 
-Las solicitudes presentadas por ciudadanos al amparo de los Capítulos III y IV del Titulo V, después de las 15:00 Hrs., o en días inhábiles, se considerarán recibidas al día hábil siguiente. El plazo para su atención comenzará a correr a partir del día siguiente al de su recepción.
+Las solicitudes presentadas por ciudadanos al amparo de los Capítulos III y IV del Título V, del Reglamento, después de las 15:00 Hrs., o en días inhábiles, se considerarán recibidas al día hábil siguiente. El plazo para su atención comenzará a correr a partir del día siguiente al de su recepción.
 
 Para efectos del supuesto contenido en el presente artículo, se tomará como referencia el horario del centro del país.
 
@@ -2007,25 +2283,61 @@ Para efectos del supuesto contenido en el presente artículo, se tomará como re
 
 Costos de Reproducción y Envío de la Información.
 
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 128.
 
-Para los efectos del artículo 27 de la Ley, se entenderá por cuotas de acceso, los costos de reproducción y/o envío de la Información solicitada.
+Para los efectos del artículo 141 de la Ley General, se entenderá por cuotas de acceso, los costos de reproducción y/o envío de la Información solicitada.
+
+En caso de existir costos para obtener la información, deberán cubrirse de manera previa a la entrega y no podrán ser superiores a la suma de:
+
+I. El costo de los materiales utilizados en la reproducción de la información;
+
+II. El costo de envío, en su caso, y
+
+III. El pago de la certificación de los Documentos, cuando proceda.
+
+La información deberá ser entregada sin costo, cuando implique la entrega de no más de veinte hojas simples. Las unidades de transparencia podrán exceptuar el pago de reproducción y envío atendiendo a las circunstancias socioeconómicas del solicitante.
+
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 129.
 
-Solamente en caso de que el Instituto posea una versión electrónica de la Información solicitada, podrá entregarla al solicitante sin costo alguno, poniéndola a su disposición en el Sitio Web institucional o a través del sistema informático determinado por el Instituto para tal fin, comunicándole los datos que le permitan acceder a la misma.
+En caso de que el Instituto posea una versión electrónica de la Información solicitada, podrá entregarla al solicitante sin costo alguno, poniéndola a su disposición en el Sitio Web institucional o a través del sistema informático determinado por el Instituto para tal fin, comunicándole los datos que le permitan acceder a la misma.
 
-Salvo que exista impedimento justificado para hacerlo, el Instituto deberá atender la solicitud de los particulares respecto de la forma de envío de la Información solicitada, la cual podrá realizarse por correo certificado o mensajería con acuse de recibo, siempre y cuando los solicitantes hayan cubierto o cubran el servicio respectivo y este Reglamento así lo permita para la solicitud de que se trate.
+Ante la falta de respuesta a una solicitud en el plazo previsto y en caso de que proceda el acceso, los costos de reproducción y envío correrán a cargo del Instituto.
+
+La información deberá ser entregada sin costo, cuando implique la entrega de no más de veinte hojas simples. La Unidad de Transparencia podrá exceptuar el pago de reproducción y envío atendiendo a las circunstancias socioeconómicas del solicitante.
+
+El Instituto buscará, en todo momento, que la información generada tenga un lenguaje sencillo para cualquier persona y se procurará, en la medida de lo posible, su accesibilidad y traducción a lenguas indígenas, braille o cualquier formato accesible correspondiente, en forma más eficiente.
+
+El acceso se dará en la modalidad de entrega y, en su caso, de envío elegidos por el solicitante. Cuando la información no pueda entregarse o enviarse en la modalidad elegida, el Instituto deberá ofrecer otra u otras modalidades de entrega.
+
+En cualquier caso, se deberá fundar y motivar la necesidad de ofrecer otras modalidades. Salvo que exista impedimento justificado para hacerlo, el Instituto deberá atender la solicitud de los particulares respecto de la forma de envío de la Información solicitada, la cual podrá realizarse por correo electrónico, correo postal, mensajería, telégrafo, verbalmente o cualquier medio aprobado por el Sistema Nacional, con acuse de recibo, siempre y cuando los solicitantes hayan cubierto o cubran el servicio respectivo, en su caso, y la Ley General, la Ley y el Reglamento así lo permita para la solicitud de que se trate.
+
+El Instituto deberá otorgar acceso a los Documentos que se encuentren en sus archivos o que estén obligados a documentar de acuerdo con sus facultades, competencias o funciones en el formato en que el solicitante manifieste, de entre aquellos formatos existentes, conforme a las características físicas de la información o del lugar donde se encuentre así lo permita. En el caso de que la información solicitada consista en bases de datos se deberá privilegiar la entrega de la misma en Formatos Abiertos, debiendo observar los principios de confidencialidad y reserva previstos por los artículos 37 y 38 de la Ley del Sistema Nacional de Información Estadística y Geográfica.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 130.
 
-El Instituto podrá reproducir la Información solicitada en copias simples o copias certificadas, medios magnéticos, ópticos, sonoros, visuales u otros, a petición del solicitante. En esos casos y para efectos del cobro respectivo a los solicitantes, el Instituto se apegará a las cuotas establecidas por la Ley Federal de Derechos, apegándose voluntariamente en lo no previsto a las cuotas para los costos de reproducción y envío de Información que dé a conocer el Instituto Federal de Acceso a la Información Pública, para las dependencias y entidades de la Administración Pública Federal, así como a las actualizaciones de las mismas.
+El Instituto podrá reproducir la Información solicitada en copias simples o copias certificadas, medios magnéticos, ópticos, sonoros, visuales u otros, a petición del solicitante. En esos casos y para efectos del cobro respectivo a los solicitantes, las cuotas de los derechos aplicables serán establecidas en términos del penúltimo párrafo del artículo 128 del Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+La Dirección General Adjunta de Programación, Organización y Presupuesto, por conducto de la Dirección de Tesorería identificará una cuenta bancaria única y exclusivamente para que el solicitante realice el pago íntegro del costo de la información que solicitó, en cumplimiento a lo dispuesto por la Ley General, el Reglamento y demás disposiciones normativas aplicables.
 
 El pago correspondiente deberá efectuarse por los solicitantes en forma previa a la reproducción o envío de la Información.
 
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 131.
 
-Los servidores públicos de las Unidades y Areas Administrativas del Instituto sólo podrán expedir copias certificadas de los documentos e Información que obre en los archivos institucionales, en ejercicio de atribuciones expresamente conferidas a los mismos de conformidad con el Reglamento Interior.
+De manera excepcional, cuando, de forma fundada y motivada, así lo determinen las Unidades o Áreas Administrativas, el Comité o la Comisión, según corresponda, en aquellos casos en que la información solicitada que ya se encuentre en su posesión implique análisis, estudio o procesamiento de Documentos cuya entrega o reproducción sobrepase las capacidades técnicas disponibles en el Instituto para cumplir con la solicitud, en los plazos establecidos para dicho efecto, se podrán poner a disposición del solicitante los Documentos en consulta directa, salvo la información clasificada.
+
+En todo caso se facilitará su copia simple o certificada, así como su reproducción por cualquier medio disponible en las instalaciones del Instituto o que, en su caso, aporte el solicitante.
+
+Los servidores públicos de las Unidades y Áreas Administrativas del Instituto podrán expedir copias certificadas de los documentos e Información que obre en los archivos institucionales, en ejercicio de atribuciones expresamente conferidas a los mismos de conformidad con el Reglamento Interior.
 
 ###### Artículo 132.
 
@@ -2035,19 +2347,27 @@ El costo de la reproducción y/o envío de la Información que, en su caso, deba
 
 Del Procedimiento de Acceso a la Información.
 
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 133.
 
-Para los efectos del artículo 40 de la Ley, las solicitudes de acceso a la Información pública en el Instituto, podrán presentarse en escrito libre, en los formatos que establezca la Unidad de Transparencia, correo certificado o servicio de mensajería, o utilizando el sistema informático que para tal efecto determine el Instituto. Bajo cualquier modalidad las solicitudes deberán contener los requisitos establecidos por el numeral de la Ley a que hace referencia este artículo.
+Cualquier persona por sí misma o a través de su representante, podrá presentar solicitud de acceso a información en escrito libre ante la Unidad de Transparencia, en los formatos que establezca la Unidad de Transparencia o a través de la Plataforma Nacional, según corresponda, en la oficina u oficinas designadas para ello, vía correo electrónico, correo postal, mensajería, telégrafo, verbalmente o cualquier medio aprobado por el Sistema Nacional.
 
-En la solicitud de acceso a la Información, el solicitante podrá señalar a la persona o personas autorizadas para interponer, en su caso, el recurso de revisión a que se refieren los artículos 49 y 50 de la Ley.
+Bajo cualquier modalidad las solicitudes deberán contener los requisitos establecidos por el artículo 124 de la Ley General.
+
+La información a que hacen referencia las fracciones I y IV, del artículo 124 de la Ley General, será proporcionada por el solicitante de manera opcional y, en ningún caso, podrá ser un requisito indispensable para la procedencia de la solicitud.
+
+En la solicitud de acceso a la Información, el solicitante podrá señalar a la persona o personas autorizadas para interponer, en su caso, el recurso de revisión a que se refieren los artículos 142 de la Ley General, 49 y 50 de la Ley, según corresponda.
 
 ###### Artículo 134.
 
 Los formatos y el sistema informático que determine el Instituto para la atención de solicitudes de Información, de acceso a datos personales y corrección de éstos, deberán estar disponibles en la Unidad de Transparencia, los Centros de Información Habilitados y en las Coordinaciones Estatales, así como en el Portal de Transparencia.
 
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 135.
 
-La presentación de las solicitudes de acceso a la Información podrá hacerse personalmente por los solicitantes o a través de su representante legal, en el domicilio de la Unidad de Transparencia del Instituto, en los Centros de Información Habilitados o en las Coordinaciones Estatales. Dicha solicitud podrá presentarse personalmente o por medios electrónicos a través del sistema informático que para tal efecto establezca el Instituto. En todo caso se entregará, confirmará o remitirá al particular un acuse de recibo en el cual conste de manera fehaciente la fecha de presentación de la solicitud correspondiente.
+La presentación de las solicitudes de acceso a la Información podrá hacerse personalmente por los solicitantes o a través de su representante legal, en el domicilio de la Unidad de Transparencia del Instituto, en los Centros de Información Habilitados o en las Coordinaciones Estatales. Dicha solicitud podrá presentarse personalmente o por medios electrónicos a través del sistema informático que para tal efecto establezca el Instituto en términos de lo dispuesto por los artículos 122 de la Ley General y 133 del Reglamento. En todo caso se entregará, confirmará o remitirá al particular un acuse de recibo en el cual conste de manera fehaciente la fecha de presentación de la solicitud correspondiente.
 
 ###### Artículo 136.
 
@@ -2061,73 +2381,115 @@ Cuando la Unidad de Transparencia reciba a través del sistema informático dete
 
 Las peticiones a que hace referencia este artículo no tendrán el carácter de solicitud de acceso a la Información, conforme a lo establecido en la Ley y el presente Reglamento. Su desahogo deberá apegarse a las disposiciones administrativas aplicables en el Instituto para el trámite al que correspondan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 138.
 
-La Unidad de Transparencia, los Centros de Información Habilitados o las Coordinaciones Estatales, apoyarán y orientarán a los solicitantes, dentro del plazo de diez días hábiles contados a partir de su recepción, cuando la información solicitada no sea competencia del Instituto, debiendo auxiliar en su caso al solicitante e informarle sobre el sujeto obligado competente que podría contar con la información requerida.
+La Unidad de Transparencia, los Centros de Información Habilitados o los Enlaces Estatales, apoyarán y orientarán a los solicitantes, cuando determinen la notoria incompetencia por parte del Instituto, dentro del ámbito de su aplicación, para atender la solicitud de acceso a la información, debiendo comunicarlo al solicitante, dentro de los tres días posteriores a la recepción de la solicitud y, en caso de poderlo determinar, señalar al solicitante el o los sujetos obligados competentes.
 
 Cuando la Unidad de Transparencia, los Centros de Información Habilitados o las Coordinaciones Estatales, no cuenten con elementos que les permitan determinar si la Información solicitada es competencia del Instituto podrán, dentro del mismo plazo a que hace referencia el párrafo anterior, solicitar por conducto de la Unidad de Transparencia, el apoyo de la Unidad o Area Administrativa cuyas funciones o atribuciones resulten afines al tema de la solicitud, a efecto de determinar tal situación y, en su caso, estar en condiciones de orientar al solicitante sobre la posible ubicación de la misma.
 
-Las peticiones respecto de las cuales se acredite la no competencia del Instituto, no tendrán el carácter de solicitud de acceso a la Información conforme a las disposiciones aplicables al Instituto en la materia.
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+Si los sujetos obligados son competentes para atender parcialmente la solicitud de acceso a la información, deberá dar respuesta respecto de dicha parte. Respecto de la información sobre la cual es incompetente se procederá conforme al artículo 136 de la Ley General, así como el primer párrafo de este artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 139.
 
-Los particulares que presenten solicitudes de acceso a la Información deberán señalar el mecanismo por el cual desean que les sea notificada la respuesta que recaiga a las mismas, conforme a lo dispuesto por el artículo 40 fracción IV de la Ley.
+Los particulares que presenten solicitudes de acceso a la Información deberán señalar el mecanismo por el cual desean que les sea notificada la respuesta que recaiga a las mismas, conforme a lo dispuesto por la fracción V, del artículo 124 de la Ley General y el artículo 129 del Reglamento.
 
 Los mecanismos de entrega disponibles en el Instituto son:
 
-I. Personalmente o a través de un representante, en el domicilio de la Unidad de Transparencia, de los Centros de Información Habilitados o de las Coordinaciones Estatales;
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-II. Por correo certificado o servicio de mensajería con acuse de recibo, siempre que en este último caso el particular, al presentar su solicitud, haya cubierto o cubra el pago del servicio respectivo, o
+I. Personalmente o a través de un representante, en el domicilio de la Unidad de Transparencia, de los Centros de Información Habilitados o de las Coordinaciones Estatales. En término del artículo 131 del Reglamento excepcionalmente el Instituto podrá poner a disposición del solicitante los Documentos en consulta directa, salvo la información clasificada;
 
-III. Por medios electrónicos, a través del sistema informático que el Instituto determine para tal efecto.
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-Cuando el particular presente su solicitud por medios electrónicos a través del sistema informático determinado por el Instituto, se presumirá que acepta que las notificaciones subsecuentes que el Instituto deba realizarle le sean efectuadas por dicho medio.
+II. Por correo certificado o servicio de mensajería con acuse de recibo, siempre que en este último caso el particular, al presentar su solicitud, haya cubierto o cubra el pago del servicio respectivo;
+
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+III. Por medios electrónicos, a través del sistema informático que el Instituto determine para tal efecto, a través de cualquier medio disponible en las instalaciones del Instituto o que, en su caso, aporte el solicitante.
+
+Cuando el particular presente su solicitud por medios electrónicos a través del sistema informático determinado por el Instituto, se presumirá que acepta que las notificaciones subsecuentes que el Instituto deba realizarle le sean efectuadas por dicho medio, salvo que señale un medio distinto para efectos de las notificaciones;
+
+> <small>(ADICIONADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+IV. Verbalmente siempre y cuando sea para fines de orientación o cualquier medio aprobado por el Sistema Nacional.
 
 En caso de que el particular no precise la forma en que se le debe notificar la respuesta, la misma se realizará poniendo a disposición del solicitante el documento en el domicilio de la Unidad de Transparencia, en el Centro de Información Habilitado, o en la Coordinación Estatal en que haya promovido su solicitud, o bien en la oficina más cercana al domicilio que haya señalado en su solicitud.
 
-Las solicitudes de acceso a la Información y las respuestas que el Instituto dé a las mismas serán públicas, y deberán difundirse para su consulta por cualquier interesado en el Portal de Transparencia o en el sistema informático determinado por el Instituto para tal efecto, una vez que las mismas hayan sido notificadas a los solicitantes que las promovieron.
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+Las solicitudes de acceso a la Información y las respuestas que el Instituto dé a las mismas serán públicas, y deberán difundirse para su consulta por cualquier interesado en el Portal de Transparencia o en el sistema informático determinado por el Instituto o el INAI para tal efecto, una vez que las mismas hayan sido notificadas a los solicitantes que las promovieron.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 140.
 
-El procedimiento interno para dar trámite a las solicitudes de acceso a la Información pública del Instituto, deberá desahogarse en un plazo máximo de veinte días hábiles, en los términos que establece el primer párrafo del artículo 44 de la Ley. Dentro de dicho plazo se entenderá comprendida la notificación al solicitante a través de la Unidad de Transparencia, los Centros de Información Habilitados o las Coordinaciones Estatales, según corresponda.
+El procedimiento interno para dar trámite a las solicitudes de acceso a la Información pública del Instituto a que hace referencia el artículo 134 de la Ley General, deberá desahogarse en un plazo máximo de veinte días hábiles, en los términos que establece el primer párrafo del artículo 132 del citado Ordenamiento. Dentro de dicho plazo se entenderá comprendida la notificación al solicitante a través de la Unidad de Transparencia, los Centros de Información Habilitados o las Coordinaciones Estatales, según corresponda.
 
 El procedimiento para el desahogo de las solicitudes de Acceso a la Información en el Instituto, será el siguiente:
 
 I. Recibida la solicitud, la Unidad de Transparencia, deberá turnarla a la(s) Unidad(es) o Area(s) Administrativa(s) que pueda(n) tener la Información, a más tardar dentro de los dos días hábiles siguientes a aquél en que se haya recibido;
 
-II. En los casos en que la solicitud de Información no sea clara, u origine confusiones que impidan la localización de los documentos, la Unidad de Transparencia podrá prevenir al solicitante en los términos que establece el artículo 40 de la Ley;
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-El solicitante tendrá diez días hábiles contados a partir de la fecha en que se le notifique la prevención, para el desahogo de la misma. Si una vez transcurrido el plazo, el solicitante no dio respuesta a la solicitud, ésta se tendrá por atendida;
+II. En los casos en que la solicitud de Información no sea clara, u origine confusiones que impidan la localización de los documentos, la Unidad de Transparencia podrá prevenir al solicitante dentro de un plazo que no podrá exceder de cinco días, contados a partir de la presentación de la solicitud, en los términos que establece el artículo 128 de la Ley General.
 
-III. En caso de contar con la Información y que ésta sea pública, la Unidad o Area Administrativa deberá notificarlo a la Unidad de Transparencia, dentro de los quince días hábiles posteriores a su recepción, mediante oficio firmado por el Enlace designado, debiendo precisar la fuente, lugar y forma en que se puede consultar, reproducir o adquirir, en apego a los supuestos contemplados por los artículos 42 tercer párrafo de la Ley y 129 del Reglamento. La Unidad de Transparencia precisará, en su caso, los costos de reproducción y/o envío de acuerdo con las diversas modalidades que contempla la Ley;
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+El solicitante tendrá diez días hábiles contados a partir de la fecha en que se le notifique la prevención, para el desahogo de la misma. Este requerimiento interrumpirá el plazo de respuesta establecido en el artículo 132 de la Ley General, por lo que comenzará a computarse nuevamente al día siguiente del desahogo por parte del particular. En este caso, el sujeto obligado atenderá la solicitud en los términos en que fue desahogado el requerimiento de información adicional.
+
+> <small>(ADICIONADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+La solicitud se tendrá por no presentada cuando los solicitantes no atiendan el requerimiento de información adicional. En el caso de prevenciones parciales no desahogadas, se tendrá por presentada la solicitud por lo que respecta a los contenidos de información que no formaron parte de la prevención;
+
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+III. En caso de contar con la Información y que ésta sea pública, la Unidad o Área Administrativa deberá notificarlo a la Unidad de Transparencia, dentro de los cuatro días hábiles posteriores a su recepción, mediante oficio firmado por el Enlace designado, debiendo precisar la fuente, lugar y forma en que se puede consultar, reproducir o adquirir, en cumplimiento a lo dispuesto por los artículos 130 de la Ley General y 129 del Reglamento. La Unidad de Transparencia precisará, en su caso, los costos de reproducción y/o envío de acuerdo con las diversas modalidades que contemplan las disposiciones legales y administrativas aplicables;
 
 IV. En el caso de que la Unidad o Area Administrativa determine que la Información es reservada o confidencial, deberá remitir al Comité por conducto de su Secretario, tanto la solicitud de Información como un oficio en el que funde y motive la clasificación correspondiente, firmado por el Titular de la Unidad o Area Administrativa de que se trate, o quien en su defecto lo supla en términos del Reglamento Interior, dentro de los diez días hábiles siguientes a aquél en que se haya recibido la solicitud de que se trate.
 
-El Comité podrá confirmar, modificar o revocar la clasificación mencionada, para lo cual podrá tener acceso a los expedientes o documentos clasificados. En todo caso emitirá una resolución fundada y motivada.
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+El Comité podrá confirmar, modificar o revocar la clasificación mencionada, para lo cual podrá tener acceso a los expedientes o documentos clasificados en términos del tercer párrafo del artículo 137 de la Ley General, quien en cada caso emitirá una resolución fundada y motivada.
 
 En caso de que el Comité confirme la clasificación, la Unidad o Area Administrativa competente considerará este aspecto como parte de la respuesta que en atención a la solicitud remita a la Unidad de Transparencia.
 
 El oficio a que hace referencia el primer párrafo de esta fracción, constituirá un antecedente a considerar para la determinación del Comité y no representará la respuesta que deba remitir la Unidad de Transparencia al ciudadano en atención a su solicitud, la cual deberá ser redactada bajo la responsabilidad de la Unidad o Area Administrativa competente, en un lenguaje sencillo y accesible a cualquier interesado;
 
-V. En el caso de que la Unidad o Area Administrativa determine que la Información solicitada contiene documentos reservados o confidenciales, o un documento que contenga partes o secciones reservadas o confidenciales, deberá remitir al Comité, por conducto de su Secretario, tanto la solicitud de Información, como un oficio en el que funde y motive la clasificación correspondiente, firmado por el Titular de la Unidad o Area Administrativa de que se trate, o quien en su defecto lo supla en términos del Reglamento Interior, así como la reproducción de una versión pública de los documentos en que se hayan omitido las partes o secciones que contengan Información reservada o confidencial, dentro de los diez días hábiles siguientes a aquél en que se haya recibido la solicitud.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+V. En el caso de que la Unidad o Área Administrativa determine que la Información solicitada contiene documentos reservados o confidenciales, o un documento que contenga partes o secciones reservadas o confidenciales, deberá remitir al Comité, por conducto de su Secretario, tanto la solicitud de Información, como un oficio en el que funde y motive la clasificación correspondiente, firmado por el Titular de la Unidad o Área Administrativa de que se trate, o quien en su defecto lo supla en términos del Reglamento Interior, así como la reproducción de una versión pública, en términos del artículo 111 de la Ley General, y del Título V, Capítulo I del Reglamento, de los documentos en que se hayan omitido las partes o secciones que contengan Información reservada o confidencial, dentro de los diez días hábiles siguientes a aquél en que se haya recibido la solicitud.
 
 Resultan aplicables al supuesto descrito en esta fracción los párrafos dos, tres y cuatro de la fracción anterior.
 
-Al adoptar la resolución correspondiente, el Comité podrá pronunciarse aprobando la versión pública propuesta, aprobándola con modificaciones, o negando el acceso a la misma por tratarse de Información clasificada en su totalidad.
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+Al adoptar la resolución correspondiente, el Comité podrá pronunciarse aprobando la versión pública propuesta, aprobándola con modificaciones, o negando el acceso a la misma por tratarse de Información clasificada en su totalidad. La información contenida en las obligaciones de transparencia previstas por la Ley General y la Ley no podrá omitirse en las versiones públicas.
 
 Las precisiones que el Comité instruya respecto de versiones públicas, deberán ser atendidas por las Unidades y Areas Administrativas, bajo responsabilidad de sus Titulares, previo a su entrega al solicitante por la Unidad de Transparencia, los Centros de Información Habilitados o las Coordinaciones Estatales;
 
-VI. En el caso de que la Unidad Administrativa determine que la Información solicitada no se encuentra en sus archivos, deberá enviar al Comité, por conducto de su Secretario, tanto la solicitud de Información, como un oficio en el que funde y motive tal circunstancia, orientando, en su caso, sobre la posible ubicación de la Información solicitada y/o manifestando la inexistencia de la misma, firmado por el Titular de la Unidad o Area Administrativa de que se trate, o quien en su defecto lo supla en términos del Reglamento Interior, dentro de los diez días hábiles siguientes a aquél en que se haya recibido la solicitud. El Comité procederá de acuerdo a lo que prevé el artículo 46 de la Ley, y
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+VI. En el caso de que la Unidad Administrativa determine que la Información solicitada no se encuentra en sus archivos, deberá enviar al Comité, por conducto de su Secretario, tanto la solicitud de Información, como un oficio en el que funde y motive tal circunstancia, orientando, en su caso, sobre la posible ubicación de la Información solicitada y/o manifestando la inexistencia de la misma, firmado por el Titular de la Unidad o Área Administrativa de que se trate, o quien en su defecto lo supla en términos del Reglamento Interior, dentro de los diez días hábiles siguientes a aquél en que se haya recibido la solicitud. El Comité procederá de acuerdo a lo que prevén los artículos 138 y 139 de la Ley General, y
 
 VII. En aquellos casos en que se reciba una solicitud de Información Estadística y Geográfica, la Unidad de Transparencia y el Comité se abstendrán de conocer de la misma por no encontrarse sujeta a la Ley y al presente Reglamento, en apego a lo que establece el artículo 47 de la LSNIEG. La notificación que la Unidad de Transparencia realice al solicitante informándole de dicha circunstancia, bastará para tener la solicitud como atendida.
 
 Sin perjuicio de lo anterior, y de ser posible, se orientará al solicitante sobre las instancias ante las cuales podría plantear su requerimiento en el marco del Sistema Nacional de Información Estadística y Geográfica, o proporcionarle información difundida por el Instituto para su consulta por cualquier interesado, en cumplimiento a la LSNIEG, sin que tal circunstancia constituya una obligación exigible por el solicitante en términos de la Ley y el Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 141.
 
-Cuando una Unidad o Area Administrativa determine que requiere ampliar el plazo de respuesta a una solicitud de acceso a la Información, al amparo del supuesto contemplado por el primer párrafo del artículo 44 de la Ley, deberá enviar al Comité, por conducto de su Secretario, dentro de los quince días hábiles siguientes en que reciban la solicitud de Información, un oficio suscrito por el Enlace designado, en el que exponga las causas que existen para ello. No podrán invocarse como causales de ampliación del plazo motivos que supongan negligencia o descuido en el desahogo de la solicitud.
+Cuando una Unidad o Área Administrativa determine que requiere ampliar el plazo de respuesta a una solicitud de acceso a la Información hasta por diez días más, al amparo del supuesto contemplado por el segundo párrafo del artículo 132 de la Ley General, deberá enviar al Comité, por conducto de su Secretario, dentro de los quince días hábiles siguientes en que reciban la solicitud de Información, un oficio suscrito por el Enlace designado, en el que exponga las causas que existen para ello. No podrán invocarse como causales de ampliación del plazo motivos que supongan negligencia o descuido en el desahogo de la solicitud.
 
-El Comité resolverá sobre la procedencia en la ampliación del plazo de respuesta, pudiendo delegar dicha facultad en el Secretario del Comité, en los términos que al efecto disponga su Manual de Integración y Funcionamiento.
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+El Comité resolverá sobre la procedencia en la ampliación del plazo de respuesta, en los términos que al efecto disponga la Ley General, el Reglamento y su Manual de Integración y Funcionamiento.
 
 Corresponderá a la Unidad de Transparencia notificar el otorgamiento de la prórroga, en su caso, al solicitante a través del medio determinado por éste para recibir notificaciones relacionadas con la solicitud de que se trate.
 
@@ -2135,23 +2497,33 @@ Corresponderá a la Unidad de Transparencia notificar el otorgamiento de la pró
 
 En las resoluciones del Comité que nieguen el acceso a la Información, determinen que los expedientes o documentos contienen partes o secciones reservadas o confidenciales, o sean totalmente reservados o confidenciales, se deberá fundar y motivar la clasificación correspondiente, ello deberá asentarse en los Acuerdos adoptados que se hagan constar en las actas de las Sesiones del Comité.
 
+> <small>(ADICIONADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+Ante la negativa del acceso a la información o su inexistencia, las Unidades y Áreas Administrativas, por conducto del enlace designado en términos del artículo 9 del Reglamento, deberán demostrar que la información solicitada está prevista en alguna de las excepciones contenidas en la Ley General o el Reglamento o, en su caso, demostrar que la información no se refiere a alguna de sus facultades, competencias o funciones.
+
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 143.
 
-Sin perjuicio de lo dispuesto en este Reglamento, la Información podrá ser puesta a disposición del solicitante mediante consulta física, debiendo realizarse en el lugar que determine la Unidad de Transparencia, previa consulta a la Unidad o Area Administrativa responsable de la misma, ante la presencia permanente de un servidor público adscrito a la Unidad de Transparencia, los Centros de Información Habilitados o las Coordinaciones Estatales, así como de un representante de la Unidad o Area Administrativa responsable de la Información consultada en la circunscripción territorial correspondiente.
+Sin perjuicio de lo dispuesto en este Reglamento, la Información podrá ser puesta a disposición del solicitante mediante consulta directa, en los términos previstos por los artículos 131 primer párrafo y 139 fracción I, del Reglamento, debiendo realizarse en el lugar que determine la Unidad de Transparencia, previa consulta a la Unidad o Área Administrativa responsable de la misma, ante la presencia permanente de un servidor público adscrito a la Unidad de Transparencia, los Centros de Información Habilitados o las Coordinaciones Estatales, así como de un representante de la Unidad o Área Administrativa responsable de la Información consultada en la circunscripción territorial correspondiente.
+
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 144.
 
-Dentro de los diez días hábiles siguientes a la notificación que se haga sobre su disponibilidad, la Información solicitada deberá ponerse a disposición del solicitante o su representante, en el domicilio de la Unidad de Transparencia, el Centro de Información Habilitado o la Coordinación Estatal, en que haya promovido su solicitud, o bien en la oficina más cercana al domicilio que haya señalado en su solicitud, o en las instalaciones del Instituto en que la misma se encuentre, en un sitio de Internet o enviárseles de conformidad con lo que establece el artículo 129 del Reglamento.
+Dentro de los diez días hábiles siguientes a la notificación que se haga sobre su disponibilidad tratándose de documentación que deba ser reproducida, generada, elaborada en versiones públicas, elaborada en copias certificadas o integrada, la Información solicitada deberá ponerse a disposición del solicitante o su representante, en el domicilio de la Unidad de Transparencia, el Centro de Información Habilitado o la Coordinación Estatal, en que haya promovido su solicitud, o bien en la oficina más cercana al domicilio que haya señalado en su solicitud, o en las instalaciones del Instituto en que la misma se encuentre, en un sitio de Internet o enviárseles de conformidad con lo que establece el artículo 129 del Reglamento, salvo que se trate de información disponible al público en términos de los dispuesto por el artículo 130 de la Ley General y 140 fracción III del Reglamento la cual deberá ser entregada dentro de un plazo no mayor a cinco días hábiles.
 
-Cuando se requiera reproducir la Información en los términos de este artículo, el plazo de diez días hábiles comenzará a correr a partir del día hábil siguiente a aquél en que el solicitante o su representante comprueben, ante la Unidad de Transparencia, haber cubierto los costos de reproducción y/o envío correspondientes.
+Cuando se requiera reproducir la Información en los términos de este artículo, el plazo de diez días hábiles comenzará a correr a partir del día hábil siguiente a aquél en que el solicitante o su representante comprueben, ante la Unidad de Transparencia, haber cubierto, en su caso, los costos de reproducción y/o envío correspondientes.
 
-Excepcionalmente, previa autorización del Comité, este plazo podrá ampliarse por una vez, hasta por un plazo igual, dependiendo de las características de la Información a reproducir, debiendo informar lo anterior al solicitante.
+Excepcionalmente, previa autorización del Comité, este plazo podrá ampliarse por una vez, hasta por diez días hábiles adicionales, dependiendo de las características de la Información a reproducir, debiendo informar lo anterior al solicitante. Lo anterior sin perjuicio de que la solicitud de que se trate sea atendida por el Instituto dentro de los plazos establecidos para tal efecto por el artículo 132 de la Ley General, para lo cual el Comité, la Unidad de Transparencia y las Unidades y Áreas Administrativas, deberán tomar las previsiones necesarias a efecto de dar oportuno cumplimiento a la citada obligación.
+
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 145.
 
-Cuando se dé el acceso a la Información y se ponga a disposición del solicitante en un lugar físico, éste tendrá un plazo de noventa días naturales contados a partir de la notificación correspondiente, para disponer de ella para su consulta o reproducción previo pago por los costos respectivos, en su caso.
+La Unidad de Transparencia tendrá disponible la información solicitada, durante un plazo mínimo de sesenta días, contado a partir de que el solicitante hubiere realizado, en su caso, el pago respectivo, el cual deberá efectuarse en un plazo no mayor a treinta días.
 
-Transcurrido el plazo a que hace referencia el párrafo anterior sin que el solicitante acuda, la solicitud se tendrá por atendida, debiendo éste realizar una nueva solicitud de acceso a la Información en caso de que subsista su interés de acceso, sin responsabilidad alguna para el Instituto.
+Transcurridos dichos plazos, el Instituto dará por concluida la solicitud y procederá, de ser el caso, a la destrucción del material en el que se reprodujo la información.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO POR EL QUE SE APRUEBAN LOS "LINEAMIENTOS DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA", PUBLICADO EN EL D.O.F. DE 19 DE ABRIL DE 2018, SE DEROGA DEL PRESENTE ORDENAMIENTO "LO QUE RESPECTA A LAS PREVISIONES CONTENIDAS EN EL MISMO EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES" Y "SE MANTENDRÁ VIGENTE POR LO QUE RESPECTA A LAS DISPOSICIONES CONTEMPLADAS EN EL MISMO EN MATERIA DE ORGANIZACIÓN Y CONSERVACIÓN DE ARCHIVOS, HASTA EN TANTO SEA EMITIDO EL REGLAMENTO EN MATERIA DE ARCHIVOS DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA".]</small>
 
@@ -2159,9 +2531,11 @@ Transcurrido el plazo a que hace referencia el párrafo anterior sin que el soli
 
 De los Procedimientos ante la Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 146.
 
-De conformidad con lo previsto en el artículo 51 de la Ley, procede el recurso de revisión establecido en los artículos 26, 49 y 50 de dicho ordenamiento. Este recurso se sustanciará conforme a lo que se establece en la Ley y este Reglamento.
+De conformidad con lo previsto en el artículo 142 de la Ley General, procede el recurso de revisión que al efecto establece el artículo 143 de dicho Ordenamiento. Este recurso se sustanciará conforme a lo que se establece en la Ley General, la Ley, el Reglamento y demás disposiciones aplicables.
 
 El solicitante podrá asistir al domicilio de la Unidad de Transparencia, a los Centros de Información Habilitados o Coordinaciones Estatales, a fin de que el personal del Instituto habilitado para tal fin le auxilie en la captura del recurso de revisión que éste desee interponer, de conformidad con lo dispuesto por el presente artículo, o promoverlo personalmente a través del sistema informático que el Instituto determine para tal efecto, o bien, en escrito libre o utilizando los formatos definidos por el Instituto, por correo certificado o mensajería. En cualquier caso se entregará, confirmará o remitirá al particular o a su representante, un acuse de recibo en el cual conste de manera fehaciente la fecha de presentación respectiva.
 
@@ -2175,21 +2549,33 @@ En lo que respecta a datos personales, la presentación del recurso de revisión
 
 La Unidad de Transparencia, los Centros de Información Habilitados y las Coordinaciones Estatales, deberán remitir el asunto a la Comisión, a través de su Secretaría de Acuerdos, a más tardar al día hábil siguiente al de su recepción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 148.
 
-En caso de que el recurso de revisión no satisfaga alguno de los requisitos a que se refiere el artículo 54 de la Ley y la Comisión no cuente con elementos para subsanarlo, a través de su Secretaría de Acuerdos, se prevendrá al recurrente, por una sola ocasión, a través del medio que el recurrente haya elegido para ser notificado de la resolución correspondiente, para que subsane las omisiones dentro de un plazo de cinco días hábiles. Transcurrido el plazo correspondiente sin desahogar la prevención se tendrá por no presentado el recurso.
+En caso de que el recurso de revisión no satisfaga alguno de los requisitos a que se refiere el artículo 144 de la Ley General y la Comisión no cuente con elementos para subsanarlo, a través de su Secretaría de Acuerdos, se prevendrá al recurrente, por una sola ocasión, a través del medio que el recurrente haya elegido para recibir notificaciones, con el objeto de que subsane las omisiones dentro de un plazo que no podrá exceder de cinco días hábiles, contados a partir del día siguiente de la notificación de la prevención, con el apercibimiento de que, de no cumplir, se desechará el recurso de revisión.
 
-La prevención a que hace referencia este artículo, interrumpirá el plazo con que cuenta la Comisión para resolver el recurso.
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+La prevención tendrá el efecto de interrumpir el plazo con que cuenta la Comisión para resolver el recurso, por lo que comenzará a computarse a partir del día siguiente a su desahogo.
+
+> <small>(ADICIONADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+No podrá prevenirse por el nombre que proporcione el solicitante.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 149.
 
-Cuando el recurso satisfaga todos los requisitos a que se refiere el artículo 54 de la Ley, la Comisión a través de su Secretaría de Acuerdos, decretará su admisión y lo turnará al Secretario Técnico, para que proceda conforme al artículo 152 del Reglamento.
+Cuando el recurso satisfaga todos los requisitos a que se refiere el artículo 144 de la Ley General, la Comisión a través de su Secretaría de Acuerdos, decretará su admisión y lo turnará al Secretario Técnico, para que proceda conforme al artículo 152 del Reglamento.
 
 En el caso de que se plantee un recurso de revisión para requerimientos de Información Estadística y Geográfica, en concordancia con lo dispuesto por la fracción VII, del artículo 140 del Reglamento, corresponderá a la Comisión, por medio de su Secretaría de Acuerdos, abstenerse de conocer del mismo, debido a que de acuerdo con lo dispuesto por el párrafo segundo del artículo 47 de la LSNIEG, la Información Estadística y Geográfica no se encuentra sujeta a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, debiendo notificar tal circunstancia a su promovente.
 
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 150.
 
-Para acreditar la representación a que se refiere el artículo 49 de la Ley, será suficiente presentar carta poder firmada ante dos testigos, debiendo agregar copias de los documentos que acrediten la personalidad del poderdante, del apoderado y de los testigos.
+Para acreditar la representación a que se refiere el artículo 142 de la Ley General, será suficiente presentar carta poder firmada ante dos testigos, debiendo agregar copias de los documentos que acrediten la personalidad del poderdante, del apoderado y de los testigos.
 
 > <small>(ADICIONADO, D.O.F. 24 DE FEBRERO DE 2014)</small>
 
@@ -2197,31 +2583,43 @@ Para acreditar la representación a que se refiere el artículo 49 de la Ley, se
 
 Los Recursos de Revisión presentados después de las 15:00 hrs., o en días inhábiles, se consideraran recibidos al día hábil siguiente. El plazo para su atención comenzará a correr a partir del día hábil siguiente al de su recepción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 151.
 
-Los particulares que presenten recursos deberán señalar cómo desean que les sea notificada la resolución que corresponda conforme al artículo 56 de la Ley. Dicha notificación podrá ser:
+Los particulares que presenten recursos deberán señalar cómo desean que les sea notificada la resolución que corresponda conforme al artículo 144 fracción II de la Ley General. Dicha notificación podrá ser:
 
-I. Personalmente o a través de un representante, en el domicilio de la Unidad de Transparencia, de los Centros de Información Habilitados o las Coordinaciones Estatales;
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-II. Por correo certificado o servicio de mensajería con acuse de recibo, siempre que en este último caso el particular al presentar su solicitud haya cubierto o cubra el pago del servicio respectivo, o
+I. Personalmente o a través de un representante, en el domicilio señalado por el recurrente para oír y recibir notificaciones, el cual podrá corresponder al domicilio de la Unidad de Transparencia, de los Centros de Información Habilitados o las Coordinaciones Estatales;
+
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+II. Por correo certificado o servicio de mensajería con acuse de recibo, siempre que en este último caso el particular al presentar su solicitud haya cubierto o cubra el pago del servicio respectivo, en su caso, o
 
 III. Por medios electrónicos, a través del sistema informático que el Instituto determine para tal efecto.
 
-Cuando el particular presente su solicitud por medios electrónicos a través del sistema informático determinado por el Instituto, se presumirá que acepta que las notificaciones subsecuentes que el Instituto deba realizarle le sean efectuadas por dicho medio.
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+Cuando el particular presente su solicitud por medios electrónicos a través del sistema informático determinado por el Instituto, se presumirá que acepta que las notificaciones subsecuentes que el Instituto deba realizarle le sean efectuadas por dicho medio, salvo que señale un medio distinto para efectos de las notificaciones.
 
 En los casos de las fracciones I y II anteriores, la notificación de resoluciones sobre recursos interpuestos en materia de acceso a datos personales o de corrección de éstos, podrá hacerse únicamente al particular Titular de los datos personales o a su representante legal, previa acreditación de su personalidad en términos del presente Capítulo, ante el personal habilitado para tal efecto por el Instituto.
 
 Los requerimientos dictados en los recursos de revisión serán notificados, por la Secretaría de Acuerdos de la Comisión al recurrente, a través del medio por el cual haya optado en términos de este numeral.
 
-Este artículo será aplicable en el caso de notificaciones de ampliaciones de plazos a que se refiere el penúltimo párrafo del artículo 55 de la Ley.
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
-En caso de que el particular no precise la forma en que se le debe notificar la resolución del recurso de revisión, la misma se realizará poniendo a disposición del solicitante la resolución o notificación de que se trate en el domicilio de la Unidad de Transparencia, en el Centro de Información Habilitado o en la Coordinación Estatal en que haya promovido el mismo, o bien en la oficina más cercana al domicilio que haya señalado en su solicitud o recurso.
+Este artículo será aplicable en el caso de notificaciones de ampliaciones de plazos a que se refiere el artículo 146 de la Ley General.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 152.
 
 Recibido el recurso de revisión, el Secretario Técnico de la Comisión lo substanciará conforme a lo siguiente:
 
-I. Le asignará un número, integrará el expediente y presentará un proyecto de resolución a la Comisión, dentro de los treinta días hábiles siguientes a la interposición del recurso;
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+I. Le asignará un número, integrará el expediente y presentará un proyecto de resolución a la Comisión, dentro de los veinte días hábiles siguientes a la interposición del recurso;
 
 II. Cuando el recurso satisfaga todos los requisitos, la Secretaría de Acuerdos decretará su admisión y correrá traslado al Comité, a la Unidad Administrativa y al recurrente, para que en un plazo de siete días hábiles, contados a partir del día siguiente de la notificación de la admisión, rindan sus manifestaciones y alegatos;
 
@@ -2229,7 +2627,9 @@ III. En su caso, solicitará al recurrente, a la Unidad de Transparencia o a la 
 
 IV. Recibirá escritos relacionados con los recursos por medio impreso o a través del sistema informático que el Instituto haya determinado para tal efecto, debiendo generar el acuse de recibo a su promovente, y
 
-V. Cuando haya causa justificada podrá solicitar a la Comisión, ampliar, por una sola vez y hasta por un periodo igual, el plazo establecido en la fracción I, de este artículo.
+> <small>(REFORMADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+V. Cuando haya causa justificada podrá solicitar a la Comisión, ampliar, por una sola vez y hasta por un periodo igual, el plazo establecido en la fracción I, de este artículo, en cuyo caso operará la ampliación a que hace referencia el primer párrafo del artículo 146.
 
 ###### Artículo 153.
 
@@ -2239,23 +2639,33 @@ Cuando dos o más asuntos se refieran a un mismo acto recurrido o exista entre e
 
 La Comisión resolverá, en definitiva el recurso, dentro del plazo de veinte días hábiles siguientes a aquél en que el Secretario Técnico le presente el proyecto de resolución correspondiente.
 
-Cuando haya causa justificada, la Comisión podrá ampliar, por una sola vez y hasta por un periodo igual el plazo a que hace referencia el párrafo anterior.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 155.
 
-Para los efectos de la fracción II, del artículo 55 de la Ley, el Pleno de la Comisión determinará, en su caso, el lugar, fecha y hora para la celebración de la audiencia, señalando que dentro de los 5 días hábiles previos a su celebración se podrán ofrecer pruebas que, en su caso, se admitirán y desahogarán en dicha audiencia, la cual no podrá posponerse y se celebrará independientemente de que se presenten o no las partes. La Comisión podrá designar a un representante, de entre sus miembros, para ese propósito.
+Para los efectos de la fracción IV, del artículo 150 de la Ley General, el Pleno de la Comisión determinará, en su caso, el lugar, fecha y hora para la celebración de las audiencias a que haya lugar durante la substanciación del recurso de revisión.
+
+Dentro del plazo mencionado en la fracción II del artículo 152 del Reglamento, las partes podrán ofrecer todo tipo de pruebas o alegatos excepto la confesional por parte de los servidores públicos del Instituto y aquéllas que sean contrarias a derecho.
+
+Las pruebas ofrecidas por las partes, en su caso, se admitirán y desahogarán en la o las audiencias a que hace referencia el primer párrafo de este artículo, la cual no podrá posponerse y se celebrará independientemente de que se presenten o no las partes. La Comisión podrá designar a un representante, de entre sus miembros, para ese propósito.
 
 En caso de que se celebre la audiencia, las partes podrán presentar sus alegatos por escrito o, en su caso, se les otorgará un plazo razonable para que los expresen. La celebración de la audiencia se hará constar en el acta de la sesión de la Comisión en que la misma tenga lugar.
 
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 156.
 
-Las resoluciones a que se refiere la fracción III, del artículo 56 de la Ley, deberán ser atendidas por el Instituto en un plazo no mayor a treinta días hábiles, contados a partir del día hábil siguiente a aquél en que se haya notificado la resolución al Comité.
+Las resoluciones a que se refiere la fracción III, del artículo 151 de la Ley General, establecerán, en su caso, los plazos y términos para su cumplimiento y los procedimientos para asegurar su ejecución, los cuales no podrán exceder de diez días hábiles, contados a partir del día hábil siguiente a aquél en que sean emitidas por la Comisión, para la entrega de información. Al resolver el recurso de revisión se podrá de forma proactiva aplicar una prueba de interés público considerando los elementos que contempla el artículo 149 de la Ley General.
 
-El plazo a que se refiere la fracción anterior, podrá ser prorrogado a juicio de la Comisión por una sola vez, hasta por un periodo igual, para el caso de que las características de la Información a otorgar o los datos a entregar o corregir así lo requieran.
+El plazo a que se refiere la fracción anterior, podrá ser excepcionalmente prorrogado a juicio de la Comisión, previa fundamentación y motivación cuando el asunto así lo requiera, para el caso de que las características de la Información a otorgar o los datos a entregar o corregir, así lo requieran.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 157.
 
-En los términos del artículo 56 de la Ley, si el Instituto se niega a entregar Información relacionada con la resolución de un recurso de revisión, lo haga de manera parcial, o no cumpla con una resolución o instrucción, la Comisión podrá realizar las siguientes acciones, atendiendo al orden en que se indican:
+En atención a lo dispuesto por el artículo 154 de la Ley General, si el Instituto se niega a entregar Información relacionada con la resolución de un recurso de revisión, lo haga de manera parcial, o no cumpla con una resolución o instrucción, la Comisión deberá realizar las siguientes acciones:
 
 I. Recurrir al superior jerárquico del Titular de la Unidad o Area Administrativa de que se trate, para su inmediata intervención, en cumplimiento a las disposiciones contenidas por el presente Capítulo, y
 
@@ -2275,9 +2685,11 @@ En caso de que el informe presentado sea insuficiente a juicio de la Comisión p
 
 La Comisión valorará la clasificación hecha conforme a los párrafos que anteceden y, en su caso, emitirá dentro de los veinte días hábiles siguientes a la presentación de la solicitud para que interviniera y verificara la falta de respuesta, una resolución donde conste la instrucción al Comité para que le entregue la Información solicitada, o bien, en la que determine que los documentos en cuestión son reservados o confidenciales, en cuyo caso la resolución instruirá al Comité para que resuelva de manera fundada y motivada la clasificación correspondiente.
 
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 160.
 
-Para los efectos del artículo 60 de la Ley, los particulares podrán solicitar la reconsideración correspondiente ante la Comisión, mediante un escrito que reúna, en lo conducente, los requisitos previstos en el artículo 54 de la Ley. La Comisión deberá determinar si subsisten las causas que dieron origen a su resolución, o bien, si procede la reconsideración, en un plazo no mayor al establecido en el artículo 55 de la Ley para la resolución del recurso de revisión.
+Para los efectos del artículo 60 de la Ley, los particulares podrán solicitar la reconsideración correspondiente ante la Comisión, mediante un escrito que reúna, en lo conducente, los requisitos previstos en el artículo 144 de la Ley General. La Comisión deberá determinar si subsisten las causas que dieron origen a su resolución, o bien, si procede la reconsideración, en un plazo no mayor al establecido por el primer párrafo del artículo 146 de la Ley General para la resolución del recurso de revisión.
 
 ## TRANSITORIOS
 
@@ -2324,3 +2736,19 @@ TERCERO.- El Cuadro General de Clasificación Archivística y el Catálogo de Di
 CUARTO.- El Comité de Valoración Documental expedirá el procedimiento a que se refiere el artículo 85 A del Reglamento, a más tardar transcurridos 6 meses posteriores a la entrada en vigor del presente acuerdo.
 
 QUINTO.- La Clasificación Archivística de los expedientes existentes en los archivos, con anterioridad a la fecha de entrada en vigor de las presentes reformas y adiciones al Reglamento de Transparencia y Acceso a la Información Pública del Instituto Nacional de Estadística y Geografía, se mantendrá conforme a las disposiciones vigentes al momento de su generación.
+
+D.O.F. 18 DE AGOSTO DE 2015.
+
+PRIMERO.- El presente Acuerdo entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las facultades relacionadas con el recurso de revisión que la Ley General atribuya al INAI se entenderán, en lo conducente, y para efectos del presente Reglamento, conferidas en forma transitoria a la Comisión, hasta en tanto el INAI pueda ejercerlas de manera directa, en términos de lo dispuesto por el Artículo Sexto Transitorio de la Ley General.
+
+TERCERO.- Las referencias que se hagan al Comité de Información, se entenderán relacionadas al Comité de Transparencia al que hace referencia la Ley General.
+
+Así mismo, las referencias que se hagan al Catálogo de Disposición Documental o a la Guía Simple de Archivo, se entenderán relacionadas al Catálogo de Disposición o a la Guía de Archivo Documental referidos por la Ley General, respectivamente.
+
+CUARTO.- Los asuntos y solicitudes que se encuentren en trámite a la fecha de entrada en vigor de la Ley General, continuarán desahogándose hasta su total terminación conforme a las disposiciones legales y normativas vigentes al momento de su recepción o inicio de trámite.
+
+QUINTO.- Cuando las Unidades y Áreas Administrativas del Instituto clasifiquen información, al amparo de los supuestos de reserva previstos por la Ley General, podrán recurrir a la aplicación supletoria de aquellos criterios establecidos por el Reglamento de Transparencia que resulten afines, previstos por los artículos 56 a 68 del mismo, en todo aquello que no se oponga a la Ley General, hasta en tanto no se emitan los Lineamientos Generales en materia de clasificación de la información reservada y confidencial, por el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, a que hacen referencia el artículo 109 y Duodécimo Transitorio de la Ley General.
+
+SEXTO.- Las reformas aprobadas al presente Reglamento, serán aplicables en forma transitoria respetando las disposiciones que adopte el INAI con motivo de la implementación y aplicación de la Ley General.
