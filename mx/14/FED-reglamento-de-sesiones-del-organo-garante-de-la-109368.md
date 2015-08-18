@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-del-organo-garante-de-la-109368"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-14"
-last_updated: "2015-08-14"
+last_updated: "2015-08-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109368&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-07-02"
 
 REGLAMENTO DE SESIONES DEL ÓRGANO GARANTE DE LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL INSTITUTO NACIONAL ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE AGOSTO DE 2015.
 
 Reglamento publicado en la Quinta Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 2015.
 
@@ -495,13 +495,27 @@ Engrose, Voto particular y Devolución
 
 4. El integrante con derecho a voto que disienta de la mayoría podrá formular voto particular, el cual se insertará al final del Acuerdo o Resolución, siempre y cuando se remita al Secretario Técnico dentro de los dos días siguientes a su aprobación.
 
-Artículo 24
+> <small>(ADICIONADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+###### Artículo 24.
+
+Transmisión de las sesiones
+
+1. Las sesiones del Órgano Garante, por regla general, deberán ser transmitidas en audio u otro formato, en tiempo real, a través del portal de internet del Instituto, salvaguardando los datos personales, la información clasificada como confidencial o temporalmente reservada.
+
+2. En la convocatoria que se emita se hará la precisión de los asuntos que contengan datos personales, información clasificada como confidencial o temporalmente reservada, procurando listarlos al final de la sesión con el objetivo de identificar aquellos segmentos de la argumentación que, en su caso, no permitan la transmisión de su deliberación y aprobación.
+
+3. El Instituto pondrá a disposición en su página de internet un registro histórico de los archivos de audio de las sesiones del Órgano Garante.
+
+Artículo 25
 
 Reformas al Reglamento
 
 1. Corresponde al Presidente del Órgano Garante vigilar la oportuna integración y adecuado funcionamiento del mismo órgano.
 
-2. El Órgano Garante podrá, por conducto de su Presidente, podrá (sic) presentar ante el Consejo General para su aprobación, propuestas de reforma a este Reglamento así como a los diversos instrumentos normativos, de estructura, funcionamiento, funciones y objetivos del Órgano Garante.
+> <small>(REFORMADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+2. El Órgano Garante podrá, por conducto de su Presidente, presentar ante el Consejo General para su aprobación, propuestas de reforma a este Reglamento así como a los diversos instrumentos normativos, de estructura, funcionamiento, funciones y objetivos del Órgano Garante.
 
 Segundo.- El presente Acuerdo entrará en vigor y surtirá efectos a partir del día siguiente de su aprobación en la sesión correspondiente del Consejo General.
 
@@ -516,3 +530,9 @@ Segundo.- Las presentes disposiciones serán vigentes hasta la entrada en vigor 
 El presente Acuerdo fue aprobado en sesión ordinaria del Consejo General celebrada el 2 de julio de dos mil catorce, por votación unánime de los Consejeros Electorales, Licenciado Enrique Andrade González, Maestro Marco Antonio Baños Martínez, Maestra Adriana Margarita Favela Herrera, Maestra Beatriz Eugenia Galindo Centeno, Doctor Ciro Murayama Rendón, Doctor Benito Nacif Hernández, Doctor José Roberto Ruiz Saldaña, Licenciada Alejandra Pamela San Martín Ríos y Valles, Maestro Arturo Sánchez Gutiérrez, Licenciado Javier Santiago Castillo y del Consejero Presidente, Doctor Lorenzo Córdova Vianello.
 
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 18 DE AGOSTO DE 2015.
+
+ÚNICO.- La implementación de las transmisiones se iniciará con la infraestructura actualmente instalada en el Instituto, de manera que, cuando por la simultaneidad no sea posible que todas las sesiones que se transmitan en tiempo real, se pondrán a disposición en el portal de Internet del Instituto en el orden en que se encuentren programadas originalmente, tan pronto sea posible.
