@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-que-deberan-observar-las-dependencias-y-33478"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2003-08-25"
-last_updated: "2008-12-02"
+last_updated: "2015-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33478&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2003-08-12"
 ---
 # LINEAMIENTOS QUE DEBERAN OBSERVAR LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA FEDERAL EN LA RECEPCION, PROCESAMIENTO, TRAMITE, RESOLUCION Y NOTIFICACION DE LAS SOLICITUDES DE ACCESO A DATOS PERSONALES QUE FORMULEN LOS PARTICULARES, CON EXCLUSION DE LAS SOLICITUDES DE CORRECCION DE DICHOS DATOS
 
-LINEAMIENTOS QUE DEBERAN OBSERVAR LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA FEDERAL EN LA RECEPCION, PROCESAMIENTO, TRAMITE, RESOLUCION Y NOTIFICACION DE LAS SOLICITUDES DE ACCESO A DATOS PERSONALES QUE FORMULEN LOS PARTICULARES, CON EXCLUSION DE LAS SOLICITUDES DE CORRECCION DE DICHOS DATOS
+LINEAMIENTOS QUE DEBERÁN OBSERVAR LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA FEDERAL EN LA RECEPCIÓN, PROCESAMIENTO, TRÁMITE, RESOLUCIÓN Y NOTIFICACIÓN DE LAS SOLICITUDES DE ACCESO A DATOS PERSONALES QUE FORMULEN LOS PARTICULARES, CON EXCLUSIÓN DE LAS SOLICITUDES DE CORRECCIÓN DE DICHOS DATOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE AGOSTO DE 2015.
 
 Lineamientos publicados en le Primera Sección del Diario Oficial de la Federación, el lunes 25 de agosto de 2003.
 
@@ -73,6 +73,22 @@ III. Correo certificado con acuse de recibo: servicio de correspondencia que se 
 
 IV. Aplicación informática: la aplicación desarrollada por el Instituto ubicada en el sitio de Internet: www.infomex.org.mx/gobiernofederal la cual permitirá llevar el control de los folios del Sistema INFOMEX, que correspondan a solicitudes de datos personales; así como, en su caso, calcular los costos de reproducción y envío, y emitir la ficha de pago correspondiente.
 
+> <small>(ADICIONADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+V. Agentes: Servidores públicos con categoría de Auxiliar Administrativo, integrantes del primer nivel de atención, responsables de atender las consultas de las personas por medios remotos y presenciales.
+
+> <small>(ADICIONADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+VI. Medios remotos: Los canales de comunicación para atender a las personas a distancia, comprenden: línea telefónica, correo electrónico, correo postal, chat y formulario en página web, y los que se determinen.
+
+> <small>(ADICIONADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+VII. Centro de Atención a la Sociedad (CAS): El área especializada del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales responsable de orientar y asesorar a las personas sobre el ejercicio de los derechos de acceso a la información y de protección de datos personales, así como de otorgar los servicios descritos en los presentes lineamientos.
+
+> <small>(ADICIONADA, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+VIII. Solicitud recibida por el Centro de Atención a la Sociedad: Es la que registra el agente u operador del Centro de Atención a la Sociedad del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales en el Sistema INFOMEX, a petición del solicitante y realizada, vía presencial y/o por medios remotos, conforme a lo establecido en los Lineamientos que Rigen la Operación del Centro de Atención a la Sociedad del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
 > <small>(REFORMADO, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
 
 Tercero. Las Unidades de Enlace y el personal habilitado en las oficinas, representaciones y delegaciones de las dependencias y entidades deberán registrar la recepción, procesar y dar trámite a todas las solicitudes de acceso a datos personales a través del Sistema INFOMEX y la aplicación informática referida en el Lineamiento Segundo, fracción IV.
@@ -81,7 +97,7 @@ Tercero. Las Unidades de Enlace y el personal habilitado en las oficinas, repres
 
 Cuarto. Para registrar las solicitudes de acceso a datos personales, las unidades de enlace deberán observar lo dispuesto en el artículo 5 fracciones I, II y III de los Lineamientos publicados en el Diario Oficial de la Federación el 12 de junio de 2003, con las variantes establecidas en los presentes Lineamientos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
 
 Una vez que se cuente con la resolución de la solicitud de acceso a datos personales, las Unidades de Enlace utilizarán el Sistema INFOMEX para registrar la emisión de ésta y la notificación correspondiente será enviada al solicitante por correo certificado con acuse de recibo, dentro de los diez días hábiles siguientes a la recepción de la solicitud, y cumplirán con lo siguiente:
 
@@ -147,11 +163,35 @@ En caso de que los solicitantes no opten por utilizar medios electrónicos, el p
 
 Los servidores públicos de las unidades de enlace tendrán también la obligación de informar al solicitante que deberá acreditar su identidad al momento de recibir la información, ya sea directamente en la Unidad de Enlace o ante el servidor del Servicio Postal Mexicano, en caso de haber solicitado el envío de los datos por correo certificado con notificación. Asimismo, deberá indicar al solicitante que en caso de nombrar representante legal para recoger los datos personales, dicho representante deberá acudir directamente a la Unidad de Enlace para acreditar su personalidad y recibir la información.
 
-### Capítulo V
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+### Capítulo V. Recepción de solicitudes a través del CAS
+
+> <small>(ADICIONADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+Décimo Segundo. Los agentes u operadores del CAS del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales deberán utilizar el módulo manual del Sistema INFOMEX, para registrar y capturar las solicitudes de acceso a datos personales que reciban de manera presencial y/o por medios remotos, siempre que el solicitante proporcione nombre y domicilio, el CAS realizará lo siguiente:
+
+I. Registrar y capturar la solicitud el mismo día en que se reciba ésta, siempre y cuando sea en día hábil dentro del horario de servicio del CAS, en caso contrario, la solicitud se registrará el día hábil siguiente; y
+
+II. Proporcionar a la persona el número de folio del acuse de recibo, advirtiéndole que deberá conservarlo y tenerlo disponible para dar un adecuado seguimiento al estado que guarda su solicitud.
+
+> <small>(ADICIONADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+Décimo Tercero. Las Unidades de Enlace deberán dar atención a las solicitudes de información registradas por el CAS, conforme a lo establecido en el capítulo II de estos lineamientos, respetando el medio señalado por el solicitante para recibir notificaciones.
+
+> <small>(ADICIONADO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+Décimo Cuarto. Las Unidades de Enlace podrán consultar las solicitudes de acceso a datos personales registradas por el CAS, al ingresar en la opción del menú “Respuesta a solicitudes manuales y recuperación de acuses” del Sistema INFOMEX, la imagen gráfica (teléfono) que se muestra en la última columna del listado de solicitudes, identificará a todas aquellas que fueron registradas por este medio.
+
+> <small>(N. DE E. ANTES CAPÍTULO V, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+### Capítulo VI
 
 Utilización de la aplicación informática para el cálculo de los costos y emisión de fichas de pago correspondientes a la reproducción y envío de datos personales
 
-Décimo segundo. Cuando la resolución otorgue el acceso a datos personales, para calcular los costos de reproducción y envío de los mismos y, en su caso, emitir la ficha de pago correspondiente, las entidades y dependencias deberán observar lo siguiente en el uso de la aplicación informática:
+> <small>(N. DE E. ANTES ARTÍCULO DÉCIMO SEGUNDO, D.O.F. 18 DE AGOSTO DE 2015)</small>
+
+Décimo Quinto. Cuando la resolución otorgue el acceso a datos personales, para calcular los costos de reproducción y envío de los mismos y, en su caso, emitir la ficha de pago correspondiente, las entidades y dependencias deberán observar lo siguiente en el uso de la aplicación informática:
 
 > <small>(REFORMADA, D.O.F. 2 DE DICIEMBRE DE 2008)</small>
 
@@ -179,7 +219,7 @@ SEGUNDO.- La reproducción de los datos solicitados se realizará en copias simp
 
 Así lo acordó el Pleno del Instituto Federal de Acceso a la Información Pública, por unanimidad en sesión celebrada el día doce de agosto de dos mil tres, ante el Secretario de Acuerdos.- La Comisionada Presidente, María Marván Laborde.- Rúbrica.- Los Comisionados: Horacio Aguilar Alvarez de Alba, José Octavio López Presa, Juan Pablo Guerrero Amparán.- Rúbricas.- El Secretario de Acuerdos, Francisco Ciscomani Freaner.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LOS PRESENTES LINEAMIENTOS.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 2 DE DICIEMBRE DE 2008.
 
@@ -188,3 +228,19 @@ PRIMERO.- Las presentes modificaciones entrarán en vigor el día de su publicac
 SEGUNDO.- Los particulares que se encuentren registrados en el Sistema de Solicitudes de Información (SISI) podrán seguir utilizando su mismo nombre de usuario y contraseña en el Sistema INFOMEX, toda vez que dichos datos serán reconocidos por el nuevo Sistema.
 
 TERCERO.- Las dependencias y entidades de la Administración Pública Federal, deberán sustituir el vínculo al Sistema de Solicitudes de Información (SISI) por el del Sistema INFOMEX en sus portales de internet, a más tardar al día de la entrada en operación del Sistema.
+
+D.O.F. 18 DE MARZO DE 2015.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+ACUERDO
+
+PRIMERO.- Se aprueban las modificaciones a los Lineamientos que deberán observar las dependencias y entidades de la Administración Pública Federal en la recepción, procesamiento y trámite de las solicitudes de acceso a la información gubernamental que formulen los particulares, así como en su resolución y notificación, y la entrega de la información en su caso, con exclusión de las solicitudes de acceso a datos personales y su corrección, conforme al documento anexo que forma parte del presente Acuerdo.
+
+SEGUNDO.- Se aprueban las modificaciones a los Lineamientos que deberán observar las dependencias y entidades de la Administración Pública Federal en la recepción, procesamiento, trámite, resolución y notificación de las solicitudes de acceso a datos personales que formulen los particulares, con exclusión de las solicitudes de corrección de dichos datos, conforme al documento anexo que forma parte del presente Acuerdo.
+
+TERCERO.- Se instruye a la Coordinación Ejecutiva del Instituto, para que por conducto de la Dirección General de Promoción y Vinculación con la Sociedad, dé cumplimiento a lo dispuesto en el presente Acuerdo.
+
+CUARTO.- El presente Acuerdo, así como su anexo, deberán publicarse en el Diario Oficial de la Federación, y en el Portal del Instituto.
+
+QUINTO.- El presente Acuerdo, con su respectivo anexo, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
