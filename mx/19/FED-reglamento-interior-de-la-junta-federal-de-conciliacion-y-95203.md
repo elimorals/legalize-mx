@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-junta-federal-de-conciliacion-y-95203
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-31"
-last_updated: "2013-07-31"
+last_updated: "2015-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95203&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-05-23"
 
 REGLAMENTO INTERIOR DE LA JUNTA FEDERAL DE CONCILIACIÓN Y ARBITRAJE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE AGOSTO DE 2015.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de julio de 2013.
 
@@ -42,6 +42,10 @@ El presente Reglamento norma la organización y funcionamiento de la Junta Feder
 Para los efectos del presente Reglamento, se entenderá por:
 
 I. Actuaria o Actuario: Profesional Dictaminador de Servicios Especializados Actuario Judicial, o Actuario Judicial;
+
+> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2015)</small>
+
+I Bis. Fondo: El Fondo para la Mejora de la Justicia Cotidiana Laboral Federal;
 
 II. Junta: La Junta Federal de Conciliación y Arbitraje;
 
@@ -119,7 +123,9 @@ Actuarias o Actuarios
 
 Las servidoras o servidores públicos que integran el personal jurídico y administrativo de la Junta, contarán con las facultades de decisión, dirección, vigilancia y supervisión inherentes a su cargo, como lo establece la Ley y el presente Reglamento Interior.
 
-Asimismo, para el adecuado cumplimiento de sus funciones contará con el demás personal necesario, de acuerdo con el presupuesto asignado.
+> <small>(REFORMADO, D.O.F. 19 DE AGOSTO DE 2015)</small>
+
+Asimismo, para el adecuado cumplimiento de sus funciones contará con el demás personal necesario de acuerdo con el presupuesto asignado y, para mejorar la justicia cotidiana laboral, contará con el Fondo.
 
 ###### Artículo 5.
 
@@ -245,7 +251,13 @@ X. Conocer y aprobar el dictamen de evaluación del desempeño de las Presidenta
 
 XI. Solicitar la publicación de los reglamentos y los criterios aprobados por el Pleno;
 
-XII. Rendir al Pleno un informe anual de labores, y presentar a la Secretaría la información que en materia de rendición de cuentas le solicite, así como los resultados alcanzados en la Junta, y
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2015)</small>
+
+XII. Rendir al Pleno un informe anual de labores, y presentar a la Secretaría la información que en materia de rendición de cuentas le solicite, así como los resultados alcanzados en la Junta;
+
+> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2015)</small>
+
+XII Bis. Presidir el Comité Técnico del Fondo, y
 
 XIII. Las demás que le señalen otras disposiciones legales, y que estén en el ámbito de su respectiva competencia. La Presidenta o Presidente de la Junta contará con un gabinete de apoyo de acuerdo al presupuesto asignado.
 
@@ -483,7 +495,13 @@ En el caso que las observaciones, recomendaciones y propuestas sean hechas a una
 
 XVII. Coordinar los trabajos para la elaboración y actualización de los proyectos de manuales administrativos de organización y de procesos de la Junta;
 
-XVIII. Desempeñar las comisiones que le encomiende la Presidenta o Presidente de la Junta y mantenerlo informado de los resultados de las mismas, y
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2015)</small>
+
+XVIII. Desempeñar las comisiones que le encomiende la Presidenta o Presidente de la Junta y mantenerlo informado de los resultados de las mismas;
+
+> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2015)</small>
+
+XVIII Bis. Integrar el Comité Técnico del Fondo, y
 
 XIX. Las demás que le asigne el Pleno y la Presidenta o Presidente de la Junta, en el ámbito de sus respectivas competencias.
 
@@ -502,6 +520,10 @@ III. Privilegiar la conciliación en los conflictos individuales de trabajo;
 IV. Cuidar del buen funcionamiento de la Junta Especial a su cargo;
 
 V. Tener bajo su cuidado y responsabilidad la caja de valores de la Junta Especial, debiendo mantener actualizados los controles y registros correspondientes, e informar a la Secretaría General de Conciliación y Asuntos Individuales respecto de los valores a su cargo, cuando así se le requiera;
+
+> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2015)</small>
+
+V Bis. Entregar al Fondo, invariablemente y en forma inmediata, los recursos económicos que sean consignados o depositados ante la Junta, previo acuerdo y certificación que obre en el expediente respectivo;
 
 VI. Proveer lo que legalmente proceda, para que los juicios individuales no queden inactivos, requiriendo a las partes para que continúen con el procedimiento, para evitar que opere la caducidad;
 
@@ -1135,7 +1157,13 @@ XII. Autorizar la expedición a las partes interesadas en los procedimientos adm
 
 XIII. Denunciar ante las autoridades competentes, los hechos de los que tenga conocimiento y que puedan ser constitutivos de delito o en su defecto, instar a la Secretaría General de Consultoría y Asuntos Jurídicos de la Junta, la formulación de querellas o denuncias a que haya lugar;
 
-XIV. Presentar a la Presidenta o Presidente de la Junta, de manera mensual, un informe estadístico de los asuntos a su cargo, y
+> <small>(REFORMADA, D.O.F. 19 DE AGOSTO DE 2015)</small>
+
+XIV. Presentar a la Presidenta o Presidente de la Junta, de manera mensual, un informe estadístico de los asuntos a su cargo;
+
+> <small>(ADICIONADA, D.O.F. 19 DE AGOSTO DE 2015)</small>
+
+XIV Bis. Integrar el Comité Técnico del Fondo, y
 
 XV. Las demás que le señale el Pleno, otras disposiciones legales y que correspondan al ámbito de su competencia.
 
@@ -1169,6 +1197,112 @@ XI. Las demás que le señalen otras disposiciones legales y que correspondan al
 
 La ausencia de la o del Titular de la Unidad de Quejas, Denuncias y Responsabilidades, será suplida por la Directora o el Director de Responsabilidades Administrativas.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 19 DE AGOSTO DE 2015)</small>
+
+### CAPÍTULO XVIII. Del Fondo para la Mejora de la Justicia Cotidiana Laboral Federal
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2015)</small>
+
+###### Artículo 54.
+
+La Junta Federal de Conciliación y Arbitraje se auxiliará para el mejor desempeño de sus funciones de un fondo económico para el mejoramiento de la impartición de justicia laboral y administrará los recursos financieros que integren el mismo.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2015)</small>
+
+###### Artículo 55.
+
+El patrimonio del Fondo para la Mejora de la Justicia Cotidiana Laboral Federal se integra con:
+
+I. Los intereses que se generen por las inversiones que se hagan de las consignaciones en dinero o en valores que se efectúen ante las Juntas Especiales, Secretarías Auxiliares y Oficinas Auxiliares de la Junta, y
+
+II. Las donaciones o aportaciones hechas a su favor por terceros.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2015)</small>
+
+###### Artículo 56.
+
+Las Juntas Especiales, Secretarías Auxiliares y Oficinas Auxiliares de las Juntas Especiales, que por cualquier motivo hayan recibido una consignación de dinero en efectivo o en valores, deberán depositarlos inmediatamente en el Fondo.
+
+Los depósitos recibidos por el Fondo, únicamente serán devueltos a quien tenga derecho a ello, previa orden por escrito del Presidente o del Presidente de la Junta Especial, según proceda, sin contemplar los rendimientos generados.
+
+Lo anterior, en cumplimiento a los artículos 735 y 949 de la Ley Federal del Trabajo.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2015)</small>
+
+###### Artículo 57.
+
+El patrimonio del Fondo será diferente del presupuesto anual asignado a la Secretaría del Trabajo y Previsión Social para la Junta Federal de Conciliación y Arbitraje, y no afectará las partidas que sean autorizadas mediante dicho presupuesto.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2015)</small>
+
+###### Artículo 58.
+
+El Fondo será manejado y operado por un Comité Técnico integrado por el Presidente de la Junta Federal de Conciliación y Arbitraje que también lo presidirá, el Coordinador General de Administración y el Titular de la Unidad de Quejas, Denuncias y Responsabilidades; quienes se auxiliarán de una Secretaría Técnica ocupada por un profesionista especializado en finanzas y administración.
+
+El Comité Técnico decidirá el destino específico de los rendimientos del Fondo, conforme a lo establecido en el artículo 60 de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2015)</small>
+
+###### Artículo 59.
+
+La Secretaría Técnica del Fondo tendrá las obligaciones siguientes:
+
+I. Llevar la documentación relativa;
+
+II. Elaborar los informes periódicos sobre la situación contable y financiera que guarde el Fondo;
+
+III. Proponer con cargo a los rendimientos del Fondo las erogaciones y gastos necesarios para el mejoramiento de la impartición de justicia laboral, y
+
+IV. Las demás que señale el Comité.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2015)</small>
+
+###### Artículo 60.
+
+El Comité Técnico tendrá a su cargo y bajo su más estricta responsabilidad, la administración del Fondo conforme a las bases siguientes:
+
+I. Podrá invertir las cantidades que integran el Fondo en la adquisición de valores de renta fija o instrumentos de inversión del más alto rendimiento y seguridad existentes en el mercado, siempre que éstas permitan la disponibilidad inmediata y suficiente de las sumas necesarias para reintegrar a los depositantes o hacer entrega de las cantidades a que tengan derecho los interesados;
+
+II. Deberá elaborar en diciembre de cada año, el presupuesto de ingresos y egresos, al cual deberán sujetarse las erogaciones del período anual que empezará a correr el primero de enero siguiente;
+
+III. Podrá designar con cargo al patrimonio del Fondo, el personal que debe auxiliarlo en su administración y supervisión, y
+
+IV. Informará anualmente al Pleno el estado de la administración del Fondo.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2015)</small>
+
+###### Artículo 61.
+
+El patrimonio del Fondo se destinará exclusivamente a los siguientes fines:
+
+I. Sufragar los gastos que origine su Administración;
+
+II. Adquirir los bienes muebles e inmuebles para la Junta;
+
+III. Construir en los bienes inmuebles adquiridos;
+
+IV. Mejorar, ampliar y remodelar las sedes de este Tribunal, y
+
+V. Adquirir los insumos necesarios para desarrollar nuevas herramientas tecnológicas que garanticen la seguridad, plena conectividad a nivel nacional y la interoperabilidad con las plataformas tecnológicas de otras autoridades.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2015)</small>
+
+###### Artículo 62.
+
+Los recursos disponibles serán únicamente los provenientes de los rendimientos que genere el Fondo.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2015)</small>
+
+###### Artículo 63.
+
+Para la administración del Fondo, el Comité Técnico expedirá los Lineamientos para el ejercicio de los recursos disponibles, con apego a las leyes en la materia.
+
+> <small>(ADICIONADO, D.O.F. 19 DE AGOSTO DE 2015)</small>
+
+###### Artículo 64.
+
+Cualquiera de los integrantes del Comité, por sí o a petición del Pleno, podrá solicitar auditorías, para revisar el manejo del dinero y valores depositados en el Fondo, con el objetivo de prevenir y detectar irregularidades que pudieran constituir responsabilidades administrativas o la comisión de delitos, con la finalidad de tomar las medidas necesarias para su sanción.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -1182,3 +1316,13 @@ CUARTO. Los derechos laborales del personal jurídico y administrativo serán re
 El presente Reglamento Interior fue aprobado por el Pleno de la Junta Federal de Conciliación y Arbitraje, con fundamento en lo dispuesto por los artículos 614, fracción I y 620, fracción I de la Ley Federal del Trabajo, en sesión ordinaria celebrada el día 23 de mayo de 2013, en la Ciudad de México, Distrito Federal.
 
 El Secretario General de Acuerdos y Asuntos Colectivos de la Junta Federal de Conciliación y Arbitraje, Lic. Guillermo Eduardo Roca Santos Coy, actuando como Secretario del Pleno de la misma, conforme a lo dispuesto por los artículos 12 y 13, fracción II del Reglamento Interior de la Junta Federal de Conciliación y Arbitraje, CERTIFICA: Que el presente Reglamento Interior, constante de 25 fojas, fue aprobado por el Pleno en Sesión Ordinaria celebrada el 23 de mayo de 2013, presidida por el Mtro. Diódoro José Siller Argüello, Presidente de la Junta Federal de Conciliación y Arbitraje, a los veintitrés días del mes de mayo de dos mil trece.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 19 DE AGOSTO DE 2015.
+
+Primero.- El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Fondo a que se refiere el Capítulo XVIII del Reglamento Interior de la Junta Federal de Conciliación y Arbitraje, deberá quedar constituido en un plazo máximo de 90 días naturales, contados a partir de la entrada en vigor del presente Acuerdo.
+
+Tercero.- Una vez constituido el Fondo, las Juntas Especiales, Secretarías Auxiliares y Oficinas Auxiliares de la Junta Federal de Conciliación y Arbitraje, contarán con 5 días hábiles para transferir los recursos económicos a que se refiere el artículo 56 del Reglamento, que a esa fecha hubieran recibido, previa toma de razón en los expedientes con los cuales estén relacionados.
