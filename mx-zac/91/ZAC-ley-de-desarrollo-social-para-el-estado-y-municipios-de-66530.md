@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-desarrollo-social-para-el-estado-y-municipios-de-66530"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-17"
-last_updated: "2013-03-23"
+last_updated: "2015-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de enero de 2009.
 
@@ -647,11 +647,15 @@ I. La o el Secretario de Desarrollo Social, quien lo presidirá;
 
 II. Una o un Secretario Técnico nombrado por el titular de la dependencia señalada en el párrafo anterior;
 
-III. Cuatro consejeros o consejeras ciudadanos que participen en organizaciones con enfoque de desarrollo social;
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2015)</small>
 
-IV. Cuatro consejeros o consejeras ciudadanos que cuenten con estudios, investigaciones o experiencia académica en el área del desarrollo social, y
+III. El Presidente o la Presidenta de la comisión en materia de Desarrollo Social de la Legislatura del Estado;
 
-V. Cuatro consejeros o consejeras ciudadanos que participen en cámaras o agrupaciones del sector privado, preferentemente en empresas con enfoque social.
+IV. Cuatro consejeros o consejeras ciudadanos que participen en organizaciones con enfoque de desarrollo social;
+
+V. Cuatro consejeros o consejeras ciudadanos que cuenten con estudios, investigaciones o experiencia académica en el área del desarrollo social, y
+
+VI. Cuatro consejeros o consejeras ciudadanos que participen en cámaras o agrupaciones del sector privado, preferentemente en empresas con enfoque social.
 
 Por cada miembro del Consejo se nombrará una o un suplente, quien en caso de ausencia del titular, podrá asistir a las sesiones con todas las facultades inherentes al cargo, debiéndose integrar por ambos géneros.
 
@@ -1043,6 +1047,10 @@ VII. Acceso a la alimentación, y
 
 VIII. Grado de cohesión social.
 
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2015)</small>
+
+IX. El grado de accesibilidad a carretera pavimentada.
+
 TÍTULO DECIMOCUARTO
 
 DE LAS RESPONSABILIDADES
@@ -1112,3 +1120,9 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 19 DE AGOSTO DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
