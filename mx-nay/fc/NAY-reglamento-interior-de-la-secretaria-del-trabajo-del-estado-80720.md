@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-del-trabajo-del-estado-807
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-02"
-last_updated: "2011-04-02"
+last_updated: "2015-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO DEL ESTADO DE NAYARIT
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO DEL ESTADO DE NAYARIT
+REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO, PRODUCTIVIDAD Y DESARROLLO ECONÓMICO, PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 2 de abril de 2011.
 
@@ -31,7 +33,7 @@ Al margen un Sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- P
 
 LIC. NEY GONZÁLEZ SÁNCHEZ, Gobernador Constitucional del Estado Libre y Soberano de Nayarit, en ejercicio de las facultades que me confiere el artículo 69 fracción II de la Constitución Política del Estado Libre y Soberano de Nayarit, y con fundamento en los Artículos 1°, 2°, 7°, 10, 15, 17, 18, 19, 21, 24, 30, 31 fracción XIV y 41 Bis de la Ley Orgánica del Poder Ejecutivo del Estado de Nayarit, he tenido a bien expedir el Reglamento Interior de la Secretaría del Trabajo, al tenor de los siguientes;
 
-CONSIDERANDO.
+CONSIDERANDO...
 
 En mérito de lo anterior tengo a bien expedir el presente
 
@@ -59,7 +61,7 @@ III. Reglamento: Al Reglamento Interior de la Secretaría del Trabajo;
 
 IV. Secretaría: Secretaría del Trabajo;
 
-V. Secretario/a: Titular de Secretaría (sic) del Trabajo;
+V. Secretario/a: Titular de (sic) Secretaría del Trabajo;
 
 VI. Unidades Administrativas: Las diversas áreas que conforman la Secretaría.
 
@@ -99,7 +101,7 @@ En términos de la Ley de Responsabilidades de los Servidores Públicos para el 
 
 Son unidades que tienen autonomía en sus determinaciones y se regirán por otras disposiciones, sin embargo tienen dependencia administrativa de la Secretaría, los siguientes:
 
-I. DIRECCIÓN GENERAL DEL SERVICIO NACIONAL DE EMPLEO NAYARIT (SIC).
+I. DIRECCIÓN GENERAL DEL SERVICIO NACIONAL DE EMPLEO (SIC) NAYARIT.
 
 II. PROCURADURIA DE LA DEFENSA DEL TRABAJO.
 
@@ -175,7 +177,7 @@ XXVII. Nombrar y remover previo acuerdo con el Titular del Poder Ejecutivo al pr
 
 XXVIII. Cumplir y hacer cumplir la normatividad aplicable a la Secretaría;
 
-XXIX. Establecer y dirigir el Servicio Nacional de Empleo Nayarit (sic) y vigilar su funcionamiento;
+XXIX. Establecer y dirigir el Servicio Nacional de Empleo (sic) Nayarit y vigilar su funcionamiento;
 
 XXX. Celebrar acuerdos intersecretariales para el diseño de alianzas estratégicas con los sectores productivo y laboral tendientes a generar mejores condiciones de inversión y oportunidades para la empresa y creación de fuentes de empleo;
 
@@ -213,7 +215,7 @@ V. Guardar coordinación con sus homólogos de otras dependencias, entidades de 
 
 VI. Informar periódicamente al Secretario/a de sus actividades y del resultado de las comisiones que le confiera;
 
-VII. Guardar el orden y coordinar las tareas que le corresponda realizar al personal adscrito a Secretaría (sic) Particular, y
+VII. Guardar el orden y coordinar las tareas que le corresponda realizar al personal adscrito a (sic) Secretaría Particular, y
 
 VIII. Todas las que le encomiende el Secretario/a.
 
@@ -311,13 +313,13 @@ Los Departamentos de lo Contencioso y, Departamento de lo Consultivo y Procedimi
 
 ###### Artículo 13°.
 
-La (sic) persona titular de la Unidad de Enlace y Acceso a la Información Pública lo designará la persona titular de la Secretaría y sus funciones son las que establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit, su Reglamento y demás disposiciones aplicables.
+La persona titular de la Unidad de Enlace y Acceso a la Información Pública lo designará la persona titular de la Secretaría y sus funciones son las que establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit, su Reglamento y demás disposiciones aplicables.
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES GENÉRICAS DE LAS UNIDADES ADMINISTRATIVAS
 
 ###### Artículo 14°.
 
-Al frente de las Direcciones Generales, Direcciones de Área, la Coordinación Administrativa y la Unidad del Trabajo y Previsión Social, habrá una persona titular que tendrá atribuciones (sic) genéricas siguientes y que para su cumplimiento contará con las áreas funcionales y las/los servidores públicos subalternos que el servicio requiera acorde al presupuesto de egresos:
+Al frente de las Direcciones Generales, Direcciones de Área, la Coordinación Administrativa y la Unidad del Trabajo y Previsión Social, habrá una persona titular que tendrá (sic) atribuciones genéricas siguientes y que para su cumplimiento contará con las áreas funcionales y las/los servidores públicos subalternos que el servicio requiera acorde al presupuesto de egresos:
 
 I. Apoyar y auxiliar al Secretario/a en el cumplimiento de sus atribuciones;
 
@@ -337,7 +339,7 @@ VIII. Proponer y participar en la celebración de eventos masivos con la presenc
 
 IX. Participar en la administración de los recursos humanos, financieros y materiales asignados a las unidades administrativas a su cargo;
 
-X. Participar y proponer la elaboración y actualización del reglamento interior, manual general de organización, de procedimientos administrativos, trámites y servicios otorgados al público y otros instrumentos administrativos, legales y reglamentarios pertinentes para el funcionamiento de las unidades administrativas a su cargo y la (sic) propia Secretaría;
+X. Participar y proponer la elaboración y actualización del reglamento interior, manual general de organización, de procedimientos administrativos, trámites y servicios otorgados al público y otros instrumentos administrativos, legales y reglamentarios pertinentes para el funcionamiento de las unidades administrativas a su cargo y (sic) la propia Secretaría;
 
 XI. Autorizar permisos económicos y extraordinarios debidamente justificados a las/los servidores públicos a su cargo por un período que no exceda de tres días consecutivos e informar al Secretario/a de ello;
 
@@ -361,7 +363,7 @@ XX. Solventar en tiempo y forma las observaciones y recomendaciones que hagan lo
 
 XXI. Previo acuerdo con el Secretario/a, informar a las instancias oficiales competentes aquéllos hechos u omisiones que puedan constituir probable responsabilidad de carácter administrativo, penal, laboral o civil en términos de las legislaciones aplicables, y que conozcan en el ejercicio de sus funciones, y
 
-XXII. Las demás que de manera expresa le confiera el Secretario/a u otras disposiciones legales o administrativas aplicables a su competencia; (sic)
+XXII. Las demás que de manera expresa le confiera el Secretario/a u otras disposiciones legales o administrativas aplicables a su competencia;
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -573,7 +575,7 @@ En los casos de ausencia de las personas titulares de las jefaturas de departame
 
 Primero. El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial Órgano de Gobierno del Estado de Nayarit.
 
-Segundo. Se abroga el Reglamento Interior del Departamento del Trabajo y Previsión Social, expedido con fecha 17 enero de 1932, así como el Reglamento Interior del la Procuraduría de la Defensa del Trabajo, expedido con fecha 20 de febrero de 1932, cualquier disposición o circular que se oponga a lo ordenado por el presente, salvo lo que dispone el artículo transitorio siguiente.
+Segundo. Se abroga el Reglamento Interior del Departamento del Trabajo y Previsión Social, expedido con fecha 17 enero de 1932, así como el Reglamento Interior del (sic) la Procuraduría de la Defensa del Trabajo, expedido con fecha 20 de febrero de 1932, cualquier disposición o circular que se oponga a lo ordenado por el presente, salvo lo que dispone el artículo transitorio siguiente.
 
 Tercero. Los derechos laborales del personal, que en virtud de lo dispuesto en el presente Reglamento, sea adscrito de una unidad administrativa a otra, se respetarán conforme a la Ley. La Secretaría de Administración deberá realizar los movimientos laborales que al efecto procedan y se emitan los nombramientos respectivos acordes con las nuevas denominaciones de las unidades administrativas u órganos administrativos desconcentrados que corresponda.
 
@@ -586,3 +588,19 @@ Dado en la Residencia Oficial del Poder Ejecutivo en la Ciudad de Tepic, Nayarit
 "SUFRAGIO EFECTIVO; NO REELECCIÓN".- LIC. NEY GONZÁLEZ SÁNCHEZ,
 
 GOBERNADOR CONSTITUCIONAL DEL ESTADO.- Rúbrica.- DR. ROBERTO MEJÍA PÉREZ, SECRETARIO GENERAL DE GOBIERNO.- Rúbrica.- ROCÍO VICTORIA ALEJANDRA FLORES VELÁZQUEZ, SECRETARIA DEL TRABAJO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE AGOSTO DE 2015.
+
+Primero.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+Segundo.- Se abroga el Reglamento Interior de la Secretaría del Trabajo, publicado en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el día 02 de Abril del 2011, así como todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+Tercero.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Económico, publicado en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el día 05 de Febrero de 2011, así como todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+Cuarto.- Los asuntos que estén en proceso de atención y despacho por las Direcciones que cambian su denominación, quedarán bajo el cuidado y responsabilidad de las Unidades Administrativas que las sustituyen en términos de este reglamento.
+
+Quinto.- Los derechos laborales del personal, que en virtud de lo dispuesto en el presente Reglamento sea adscrito de una Unidad Administrativa a otra, se respetarán conforme a la Ley. La Coordinación General de Administración y Finanzas, deberá realizar los movimientos laborales que al efecto procedan, debiendo emitir los nombramientos respectivos acordes a las nuevas denominaciones de las Unidades Administrativas u Órganos Administrativos Desconcentrados que correspondan.
+
+Sexto.- En tanto se expiden los manuales administrativos obligatorios por ley, que corresponden a las Unidades Administrativas y Órganos Administrativos Desconcentrados; el Secretario queda facultado para tomar las decisiones que correspondan y en su caso, resolver lo conducente.
