@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-guarderias-y-establecimientos-infantiles-del-estado-9378
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-10"
-last_updated: "2013-04-10"
+last_updated: "2015-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93780&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE GUARDERÍAS Y ESTABLECIMIENTOS INFANTILES DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 10 de abril de 2013.
 
@@ -35,7 +35,7 @@ Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo si
 
 LA QUINCUAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA FRACCIÓN II, DEL ARTÍCULO 40 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:
 
-I.- DEL PROCESO LEGISLATIVO.
+I.- DEL PROCESO LEGISLATIVO...
 
 Por lo anteriormente expuesto, esta Legislatura ha tenido a bien expedir la siguiente:
 
@@ -587,7 +587,9 @@ III. Fomento y cuidado de la salud;
 
 IV. Vigilancia del desarrollo educativo;
 
-V. Atención a menores con discapacidad, no dependientes;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2015)</small>
+
+V. Atención a menores con discapacidad;
 
 VI. Actividades educativas y recreativas, y
 
@@ -699,13 +701,15 @@ d) Fotografías, las necesarias, que dicte la política del Centro de Atención,
 
 ### CAPÍTULO V. DE LOS MENORES CON DISCAPACIDAD
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 51.
 
-Los Centros de Atención estarán obligados a recibir en igualdad de condiciones a los menores con discapacidad no dependientes. Su ingreso quedará sujeto a la disponibilidad de lugares con que cuentan, y a la presentación de la constancia de evaluación por médico especialista de acuerdo con el tipo y grado de discapacidad.
+Los Centros de Atención estarán obligados a recibir en igualdad de condiciones a los menores con discapacidad. Su ingreso quedará sujeto a la disponibilidad de lugares con que cuentan, y a la presentación de la constancia de evaluación por médico especialista de acuerdo con el tipo y grado de discapacidad.
 
 ###### Artículo 52.
 
-Se entenderá por menores con discapacidad no dependientes, los que padezcan algún tipo de discapacidad que contemple la Ley de Atención Integral para Personas con Discapacidad en el Estado de Morelos, y que no dependan de algún cuidado o atención especializada, distinto a los que se describen en la presente Ley para la atención de menores en Centros de Atención.
+(DEROGADO, P.O. 19 DE AGOSTO DE 2015)
 
 ## TÍTULO VIII. DE LA SUPERVISIÓN DE LOS CENTROS DE ATENCIÓN
 
@@ -1040,3 +1044,15 @@ SECRETARIO DE GOBIERNO
 ING. JORGE VICENTE MESSEGUER GUILLÉN
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE AGOSTO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
