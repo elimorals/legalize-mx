@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-de-desarrollo-79667"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-02-05"
-last_updated: "2011-02-05"
+last_updated: "2015-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO, DEL ESTADO DE NAYARIT
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO DEL ESTADO DE NAYARIT
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO, PRODUCTIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de febrero de 2011.
 
@@ -201,7 +203,7 @@ XII. Instaurar los procedimientos administrativos y determinar las infracciones 
 
 XIII. Proponer al Secretario la instrumentación de disposiciones legales, reglamentarias y normativas necesarias para el buen funcionamiento de la Secretaría.
 
-XIV. Llevar el registro de las autorizaciones y acuerdos delegatorios de facultades de servidores públicos subalternos de la Secretaría, y (sic)
+XIV. Llevar el registro de las autorizaciones y acuerdos delegatorios de facultades de servidores públicos subalternos de la Secretaría, y
 
 XV. Formular, a nombre de la Secretaría, las denuncias o querellas que legalmente procedan, y en su caso, otorgar el perdón legal, ante el Ministerio Público que conozca del asunto, previo acuerdo con el Secretario.
 
@@ -634,3 +636,19 @@ TERCERO.- Los asuntos que estén en proceso de atención y despacho por las dire
 Dado en la Residencia del Poder Ejecutivo en la Ciudad de Tepic, Nayarit a los 20 días del mes de Enero del dos mil once.
 
 A T E N T A M E N T E "SUFRAGIO EFECTIVO NO REELECCIÓN" LIC. NEY GONZÁLEZ SÁNCHEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO.- Rúbrica.- LIC. ANGÉLICA PATRICIA SÁNCHEZ MEDINA, SECRETARIA GENERAL DE GOBIERNO.- Rúbrica.- ING. NAZARIO ALONSO VILLASEÑOR ANGUIANO, SECRETARIO DE DESARROLLO ECONÓMICO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE AGOSTO DE 2015.
+
+Primero.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+Segundo.- Se abroga el Reglamento Interior de la Secretaría del Trabajo, publicado en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el día 02 de Abril del 2011, así como todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+Tercero.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Económico, publicado en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el día 05 de Febrero de 2011, así como todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+Cuarto.- Los asuntos que estén en proceso de atención y despacho por las Direcciones que cambian su denominación, quedarán bajo el cuidado y responsabilidad de las Unidades Administrativas que las sustituyen en términos de este reglamento.
+
+Quinto.- Los derechos laborales del personal, que en virtud de lo dispuesto en el presente Reglamento sea adscrito de una Unidad Administrativa a otra, se respetarán conforme a la Ley. La Coordinación General de Administración y Finanzas, deberá realizar los movimientos laborales que al efecto procedan, debiendo emitir los nombramientos respectivos acordes a las nuevas denominaciones de las Unidades Administrativas u Órganos Administrativos Desconcentrados que correspondan.
+
+Sexto.- En tanto se expiden los manuales administrativos obligatorios por ley, que corresponden a las Unidades Administrativas y Órganos Administrativos Desconcentrados; el Secretario queda facultado para tomar las decisiones que correspondan y en su caso, resolver lo conducente.
