@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-de-la-junta-general-ejecutiva-del-62150"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-13"
-last_updated: "2008-08-13"
+last_updated: "2015-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62150&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-07-10"
 
 REGLAMENTO DE SESIONES DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO TERCERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE EXPIDE EL REGLAMENTO DE SESIONES DE LA JUNTA GENERAL EJECUTIVA, PUBLICADO EN EL D.O.F. DE 19 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 13 de agosto de 2008.
 
@@ -161,9 +163,9 @@ m) Medios digitales: discos compactos, disquetes o la red informática del Insti
 
 n) Engrose: Actividad que consiste en integrar al documento originalmente presentado, las observaciones, argumentaciones y modificaciones formuladas por los integrantes de la Junta, a fin de contar con la versión definitiva del Acuerdo, Resolución y Dictamen en el sentido en que fue aprobado;
 
-o) Versión estenográfica: Transcripción puntual de cada una de las intervenciones de los integrantes de la Junta, así como del (sic) los titulares de la Contraloría General, de la Unidad de Fiscalización y de las Unidades Técnicas, que participen en el desarrollo de la sesión, la cual servirá de base para la elaboración del Acta respectiva, y
+o) Versión estenográfica: Transcripción puntual de cada una de las intervenciones de los integrantes de la Junta, así como del los (sic) titulares de la Contraloría General, de la Unidad de Fiscalización y de las Unidades Técnicas, que participen en el desarrollo de la sesión, la cual servirá de base para la elaboración del Acta respectiva, y
 
-p) Acta: Es el documento formal de cada sesión que contiene las intervenciones de los integrantes de la Junta, así como del (sic) los titulares de la Contraloría General, de la Unidad de Fiscalización y de las Unidades Técnicas, que participen en el desarrollo de la sesión, así como los Acuerdos, Resoluciones y Dictámenes aprobados.
+p) Acta: Es el documento formal de cada sesión que contiene las intervenciones de los integrantes de la Junta, así como del los (sic) titulares de la Contraloría General, de la Unidad de Fiscalización y de las Unidades Técnicas, que participen en el desarrollo de la sesión, así como los Acuerdos, Resoluciones y Dictámenes aprobados.
 
 II. DE LAS ATRIBUCIONES DEL PRESIDENTE, DEL SECRETARIO DE LA JUNTA GENERAL EJECUTIVA Y DIRECTORES EJECUTIVOS
 
@@ -532,3 +534,19 @@ CUARTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación 
 QUINTO.- El Secretario dispondrá a la brevedad posible, la edición del número de ejemplares de este Reglamento que estime necesarios para su adecuada difusión.
 
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 10 de julio de dos mil ocho.- El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 19 DE AGOSTO DE 2015.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE EXPIDE EL REGLAMENTO DE SESIONES DE LA JUNTA GENERAL EJECUTIVA QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+PRIMERO.- El Consejo General aprueba la propuesta, para la expedición del Reglamento de Sesiones de la Junta General Ejecutiva del Instituto Nacional Electoral.
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su aprobación.
+
+TERCERO.- Una vez aprobado el presente Acuerdo por el Consejo General, se abrogará el Reglamento de Sesiones de la Junta General Ejecutiva del Instituto Federal Electoral, publicado en el Diario Oficial de la Federación el 13 de agosto de 2008, así como sus reformas y adiciones.
+
+CUARTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en la Gaceta Electoral del Instituto Nacional Electoral.
+
+QUINTO.- El Secretario dispondrá a la brevedad posible, la edición del número de ejemplares de éste Reglamento que estime necesarios para su adecuada función.
