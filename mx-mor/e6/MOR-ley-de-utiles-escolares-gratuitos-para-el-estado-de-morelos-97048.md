@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-utiles-escolares-gratuitos-para-el-estado-de-morelos-970
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-08"
-last_updated: "2014-01-08"
+last_updated: "2015-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ÚTILES ESCOLARES GRATUITOS PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 8 de enero de 2014.
 
@@ -47,7 +47,9 @@ LEY DE ÚTILES ESCOLARES GRATUITOS PARA EL ESTADO DE MORELOS
 
 La presente Ley es de orden público y de interés social, y tiene como objetivo:
 
-I.- Establecer el derecho de los estudiantes que cursen su educación en escuelas públicas del nivel preescolar, primaria y secundaria, incluyendo la indígena y especial a recibir por parte de la autoridad educativa estatal, útiles escolares gratuitos en apoyo a su educación.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2015)</small>
+
+I.- Establecer el derecho de los estudiantes que cursen su educación en escuelas públicas del nivel preescolar, primaria y secundaria, incluyendo la indígena y especial a recibir por parte de la autoridad educativa estatal, útiles escolares gratuitos en apoyo a su educación, sin ninguna distinción de la religión que profesen o si sus padres son o no, simpatizantes o militantes de un partido político.
 
 II.- Determinar las autoridades competentes y definir sus atribuciones, para el cumplimiento de las disposiciones contenidas en la presente Ley.
 
@@ -96,6 +98,10 @@ Al constituir el programa de útiles escolares gratuitos, un conjunto de accione
 El programa de útiles escolares gratuitos es financiado con los recursos públicos que provienen de las contribuciones que pagan las y los ciudadanos morelenses, por lo tanto, queda estrictamente prohibido el uso de este programa con fines políticos, electorales, de lucro y otros distintos a los establecidos en este ordenamiento y su Reglamento.
 
 Esta prohibición deberá estar impresa en los paquetes de útiles escolares que se distribuyan por parte de la Secretaría de Educación.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2015)</small>
+
+Los paquetes de útiles escolares no deberán llevar colores, insignias o distintivos referentes a ningún partido político.
 
 ###### Artículo 9.
 
@@ -177,7 +183,9 @@ El órgano interno de control de la Secretaría, evaluará lo siguiente:
 
 2. La entrega de útiles escolares atendiendo al grado escolar;
 
-3. El contenido de útiles escolares será conforme a lista oficial emitida por la Secretaría de Educación Pública; y
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2015)</small>
+
+3. El contenido de útiles escolares será conforme a lista oficial emitida por la Secretaría de Educación Pública, sin colores, insignias o distintivos referentes a ningún partido político; y
 
 4. Resolver cualquier controversia que se presente durante el proceso de operación del Programa.
 
@@ -205,9 +213,11 @@ Toda persona u organización podrá presentar su queja o denuncia por escrito co
 
 ### CAPÍTULO V. DE LAS SANCIONES
 
-###### Artículo 25.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2015)</small>
 
-El Titular del órgano interno de control, notificará al Titular de la Secretaría y a la Secretaría de la Contraloría, el resultado de las revisiones, auditorías y evaluaciones que realice, para que de existir observaciones o recomendaciones se solventen por los servidores públicos responsables y/o en su caso, se apliquen las sanciones que imponga la Secretaría de la Contraloría y la Auditoría Superior de Fiscalización.
+###### Articulo 25.
+
+El Titular del órgano interno de control, notificará al Titular de la Secretaría y a la Secretaría de la Contraloría, el resultado de las revisiones, auditorías y evaluaciones que realice, para que de existir observaciones o recomendaciones se solventen por los servidores públicos responsables y/o en su caso, se apliquen las sanciones que imponga la Secretaría de la Contraloría y la Entidad Superior de Auditoría y Fiscalización.
 
 ###### Artículo 26.
 
@@ -246,3 +256,11 @@ SECRETARIO DE GOBIERNO
 ING. JORGE VICENTE MESSEGUER GUILLÉN
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDO. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
