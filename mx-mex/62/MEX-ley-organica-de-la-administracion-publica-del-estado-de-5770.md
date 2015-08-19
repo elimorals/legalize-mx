@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2015-08-17"
+last_updated: "2015-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE AGOSTO DE 2015.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -1777,9 +1777,9 @@ XXXI. Coordinar y asesorar las áreas jurídicas de las diversas dependencias de
 
 XXXII. Definir las directrices y dictar los lineamientos que en materia jurídica deberán seguir las dependencias de la Administración Pública Estatal;
 
-> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, G.G. 19 DE AGOSTO DE 2015)</small>
 
-XXXIII. Llevar el registro de autógrafos, legalizar y certificar las firmas de los funcionarios estatales, de los presidentes y secretarios municipales y de los demás funcionarios a quienes esté encomendada la fe pública; y
+XXXIII. Registrar, certificar, legalizar y apostillar las firmas autógrafas y electrónicas, los sellos oficiales y electrónicos de los funcionarios estatales, presidentes y secretarios municipales y de los demás funcionarios a quienes esté encomendada la fe pública.
 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -2840,6 +2840,16 @@ DÉCIMO TERCERO. Los recursos del Fondo de Ayuda, Asistencia y Reparación Integ
 DÉCIMO CUARTO. Los recursos de cualquier fondo de carácter estatal cuyo objeto sea la atención de las víctimas del delito, se transferirán al Fondo Estatal de Ayuda, Asistencia y Reparación Integral para la Protección a las Víctimas y Ofendidos del Delito previsto en la presente Ley.
 
 DÉCIMO QUINTO. Se derogan las disposiciones legales y administrativas que se opongan a lo dispuesto en el presente Decreto.
+
+G.G. 19 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Titular del Ejecutivo del Estado expedirá las reformas reglamentarias respectivas en un plazo no mayor de sesenta días hábiles a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. La Secretaría de Finanzas proveerá los recursos necesarios para dar cumplimiento a lo establecido por el presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
