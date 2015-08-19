@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-innovacion-ciencia-y-tecnologia-para-el-estado-de-45768"
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-03"
-last_updated: "2014-03-26"
+last_updated: "2015-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE INNOVACIÓN, CIENCIA Y TECNOLOGÍA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 3 de agosto de 2005.
 
@@ -397,7 +397,9 @@ XIX. Garantizar la inclusión de la perspectiva de género con una visión trans
 
 XX. Promover la integración del Sistema Estatal de Información y Comunicación de Ciencia y Tecnología, procurando su articulación con el Sistema de Información Científica y Tecnológica del CONACYT y realizar estudios sobre esta materia; y
 
-XXI. Las demás que otras disposiciones jurídicas o administrativas o el Gobernador del Estado le encomiende.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2015)</small>
+
+XXI. Las demás que otras disposiciones jurídicas o administrativas el Titular del Poder Ejecutivo del Estado le encomiende.
 
 ## TÍTULO TERCERO. DEL CONSEJO DE CIENCIA Y TECNOLOGÍA
 
@@ -515,7 +517,9 @@ V. El órgano de vigilancia.
 
 La Junta Directiva será el máximo órgano de gobierno del CCYTEM y estará integrada por los siguientes miembros:
 
-I. El Gobernador del Estado, quien la presidirá por sí o por el representante que designe al efecto;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2015)</small>
+
+I. El Titular del Poder Ejecutivo del Estado, quien la presidirá por sí o por el representante que designe al efecto;
 
 II. La persona Titular de la Secretaría de Hacienda del Poder Ejecutivo Estatal;
 
@@ -547,7 +551,9 @@ Para el caso de que el representante que designe el Gobernador Constitucional de
 
 Los cargos de los integrantes de la Junta Directiva serán honoríficos, por lo que no recibirán retribución, emolumento, ni compensación alguna por su desempeño.
 
-El Gobierno del CCYTEM, estará a cargo de la Junta Directiva y su administración a cargo del Director General.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2015)</small>
+
+El Gobierno del CCYTEM estará a cargo de la Junta Directiva y su administración a cargo del Titular de la Dirección General.
 
 ###### ARTÍCULO 16°.
 
@@ -559,21 +565,27 @@ II. Aprobar el Reglamento de la presente ley y sus posibles reformas;
 
 III. Aprobar el manual de funcionamiento y el catálogo de cuentas del CCYTEM;
 
-IV. Conocer y resolver directamente sobre los asuntos de su competencia, así como aquellos que le presente el director General, cuando la naturaleza del asunto lo amerite;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
+IV. Conocer y resolver directamente sobre los asuntos de su competencia, así como aquellos que le presente el Titular de la Dirección General, cuando la naturaleza del asunto lo amerite;
 
-V. Designar y remover a los servidores públicos del CCYTEM de mandos medios, a propuesta del Director General, así como aprobar sus sueldos y prestaciones, en armonía con el catálogo de puestos y tabulador de salarios, aprobado por las Secretarías de Hacienda y de Administración del Poder Ejecutivo Estatal, y las demás establecidas en el Estatuto Orgánico del CCYTEM, así como concederles las licencias que procedan;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2015)</small>
+
+V. Designar y remover a los servidores públicos del CCYTEM de mandos medios, a propuesta del Titular de la Dirección General, así como aprobar sus sueldos y prestaciones, en armonía con el catálogo de puestos y tabulador de salarios aprobado por las Secretarías de Hacienda y de Administración del Poder Ejecutivo Estatal, y las demás establecidas en el Estatuto Orgánico del CCYTEM, así como concederles las licencias que procedan;
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 2014)</small>
 
 VI. Atender, en términos de lo dispuesto por la Ley Orgánica de la Administración Pública del Estado de Morelos y demás legislación aplicable, las políticas, bases y programas generales que regulen las obras públicas, adquisiciones, arrendamientos y prestación de servicios en relación con bienes muebles e inmuebles que requiera el CCYTEM;
 
-VII. Aprobar el Plan Institucional de Desarrollo, planes, programas anuales, generales y específicos, propuestas y acciones, así como la asignación de los presupuestos correspondientes que le presente el Director General vigilando su congruencia con el Plan Estatal de Desarrollo, los programas sectoriales y especiales y la normatividad vigente;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2015)</small>
+
+VII. Aprobar el Plan Institucional de Desarrollo, planes, programas anuales, generales y específicos, propuestas y acciones, así como la asignación de los presupuestos correspondientes que le presente el Titular de la Dirección General vigilando su congruencia con el Plan Estatal de desarrollo, los programas sectoriales y especiales y la normatividad vigente;
 
 VIII. Analizar el programa y autorizar su envío al Ejecutivo del Estado para su aprobación, así como darle seguimiento;
 
-IX. Autorizar los programas de fortalecimiento y consolidación del sistema, y aprobar los informes de seguimiento que le presente el Director General;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2015)</small>
+
+IX. Autorizar los programas de fortalecimiento y consolidación del sistema, y aprobar los informes de seguimiento que le presente el Titular de la Dirección General.
 
 X. Aprobar el proyecto de presupuesto de egresos del CCYTEM;
 
@@ -605,9 +617,13 @@ La toma de decisiones y la mecánica del desarrollo de los asuntos, competencia 
 
 El Consejo Consultivo, es el órgano de consulta del Sistema y de los sectores productivo y social, y estará integrado por:
 
-I. El Gobernador del Estado, quien lo presidirá por sí o por el representante que designe al efecto;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2015)</small>
 
-II. El Director General del CCYTEM, quien fungirá como Secretario Técnico;
+I. El Titular del Poder Ejecutivo del Estado, quien lo presidirá por sí o por el representante que designe al efecto;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2015)</small>
+
+II. El Titular de la Dirección General del CCYTEM, quien fungirá como Secretario Técnico;
 
 III. La persona Titular de la Presidencia de la Comisión de Ciencia e Innovación Tecnología (sic) del Congreso del Estado;
 
@@ -623,11 +639,17 @@ VIII. Una persona representante del Centro Nacional de Investigación y Desarrol
 
 IX. La persona Titular de la Presidencia del Consejo Coordinador Empresarial;
 
-X. Dos investigadores distinguidos, designados por la Junta Directiva, a propuesta del Director General del CCYTEM, quien deberá consultar y obtener las opiniones y propuestas de la comunidad científica, de conformidad con el Reglamento de esta Ley;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2015)</small>
 
-XI. Dos empresarios de amplia trayectoria y reconocimiento en el Estado, designados por la Junta Directiva, a propuesta del Director General del CCYTEM, quien deberá consultar y obtener las opiniones y propuestas de la comunidad científica, de conformidad con el Reglamento de esta Ley, y
+X. Dos investigadores distinguidos designados por la Junta Directiva, a propuesta del Titular de la Dirección General del CCYTEM, quien deberá consultar y obtener las opiniones y propuestas de la comunidad científica, de conformidad con el Reglamento de esta Ley;
 
-XII. Dos personas representantes distinguidos de los subsistemas tecnológicos existentes del nivel Medio Superior, designados por la Junta Directiva, a propuesta por el Director General, quien deberá consultar y obtener las propuestas de conformidad con el Reglamento de esta Ley.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2015)</small>
+
+XI. Dos empresarios de amplia trayectoria y reconocimiento en el Estado designados por la Junta Directiva, a propuesta del Titular de la Dirección General del CCYTEM, quien deberá consultar y obtener las opiniones y propuestas de la comunidad científica, de conformidad con el Reglamento de esta Ley, y
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2015)</small>
+
+XII. Dos personas representantes distinguidos de los subsistemas tecnológicos existentes del nivel medio superior, designados por la Junta Directiva a propuesta del Titular de la Dirección General, quien deberá consultar y obtener las propuestas de conformidad con el Reglamento de esta Ley.
 
 Los miembros del Consejo, no percibirán emolumentos o compensación alguna.
 
@@ -661,7 +683,9 @@ IX. Colaborar con el CCYTEM en la difusión en la información Científica y Tec
 
 X. Apoyar a la Secretaría en la articulación de las actividades científicas y tecnológicas, mediante el fomento de las redes científicas y tecnológicas;
 
-XI. Informar a la Junta Directiva de sus actividades por conducto del Director General, y;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2015)</small>
+
+XI. Informar a la Junta Directiva de sus actividades por conducto del Titular de la Dirección General, y;
 
 XII. Las demás que le señalen las disposiciones legales aplicables y el reglamento de la presente ley;
 
@@ -671,25 +695,27 @@ Las comisiones técnicas son órganos especializados de apoyo del CCYTEM en sus 
 
 #### SECCIÓN CUARTA. DE LA DIRECCIÓN GENERAL
 
-###### ARTÍCULO 21°.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2015)</small>
 
-La Dirección General del CCYTEM estará a cargo de un Director General, quien será designado por el Ejecutivo del Estado, quien durará en su encargo cuatro años, pudiéndose reelegir por una sola ocasión y se auxiliará de las unidades administrativas que determine el Reglamento de la presente ley, y del personal necesario para cumplir con sus funciones.
+###### Artículo 21°.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+La Dirección General del CCYTEM estará a cargo de un Titular, quien será designado por el Titular del Ejecutivo del Estado, quien durará en su encargo cuatro años, pudiéndose reelegir por una sola ocasión y se auxiliará de las unidades administrativas que determine el Reglamento de la presente ley, y del personal necesario para cumplir con sus funciones.
 
-###### ARTÍCULO 22°.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2015)</small>
 
-Para ser Director General del CCYTEM, además de los requisitos previstos en el artículo 83, de la Ley Orgánica de la Administración Pública del Estado de Morelos, se deberán cumplir los siguientes:
+###### Artículo 22°.
+
+Para ser Titular de la Dirección General del CCYTEM, además de los requisitos previstos en el artículo 83 de la Ley Orgánica de la Administración Pública del Estado de Morelos, se deberán cumplir los siguientes:
 
 I. Ser mayor de 30 años, y
 
 II. Estar en pleno ejercicio de sus derechos.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2015)</small>
 
-###### ARTÍCULO 23°.
+###### Artículo 23°.
 
-Al Director General corresponden las siguientes atribuciones:
+Al Titular de la Dirección General del CCYTEM, corresponden las siguientes atribuciones:
 
 I. Ejecutar los acuerdos de la Junta Directiva y los del Ejecutivo del Estado;
 
@@ -1079,11 +1105,11 @@ La transferencia de recursos de un proyecto que por necesidades del servicio req
 
 ### CAPÍTULO ÚNICO. DE LOS ESTÍMULOS FISCALES
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2015)</small>
 
-###### ARTÍCULO 57°.
+###### Artículo 57°.
 
-La Secretaría, rendirá opinión al Gobernador del Estado para la determinación, instrumentación y divulgación de aquellos estímulos o exenciones fiscales que, conforme a la legislación aplicable se otorgarán a las empresas o entidades educativas o de investigación, públicas o privadas, relacionadas con el desarrollo de la Ciencia, la Tecnología y la Innovación en el Estado. Asimismo la Secretaría prestará su apoyo respecto del dictamen, administración y evaluación de los aspectos técnicos y científicos que se vinculen con la aplicación de los estímulos o exenciones fiscales, y de otros instrumentos de apoyo en esos rubros.
+La Secretaría rendirá opinión al Titular del Poder Ejecutivo del Estado para la determinación, instrumentación y divulgación de aquellos estímulos o exenciones fiscales que, conforme a la legislación aplicable se otorgarán a las empresas o entidades educativas o de investigación, públicas o privadas, relacionadas con el desarrollo de la Ciencia, la Tecnología y la Innovación en el Estado. Asimismo la Secretaría prestará su apoyo respecto del dictamen, administración y evaluación de los aspectos técnicos y científicos que se vinculen con la aplicación de los estimules o exenciones fiscales, y de otros instrumentos de apoyo en esos rubros.
 
 En la administración de los mismos se atenderá lo siguiente:
 
@@ -1272,3 +1298,17 @@ TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico n
 CUARTA. Dentro de un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado, realizará las adecuaciones necesarias al Reglamento de la Ley de Innovación, Ciencia y Tecnología para el Estado de Morelos, incluida la derogación de las disposiciones normativas que correspondan y deban contenerse en el Estatuto Orgánico del Consejo de Ciencia y Tecnología del Estado de Morelos.
 
 QUINTA. La Junta de Gobierno del Consejo de Ciencia y Tecnología del Estado de Morelos, dentro de un plazo de noventa días hábiles, contados a partir de la vigencia del presente Decreto, deberá aprobar y expedir el Estatuto Orgánico de dicho Organismo Público Descentralizado atendiendo a las disposiciones de este instrumento.
+
+P.O. 19 DE AGOSTO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente decreto.
