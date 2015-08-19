@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-federal-electoral-62114"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-11"
-last_updated: "2013-12-26"
+last_updated: "2015-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62114&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-07-10"
 
 REGLAMENTO INTERIOR DEL INSTITUTO FEDERAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL ELECTORAL, PUBLICADO EN EL D.O.F. EL 19 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 11 de agosto de 2008.
 
@@ -111,7 +113,7 @@ Reglamento Interior del Instituto Federal Electoral
 
 ###### Artículo 3.
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], D.O.F. 21 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 21 DE OCTUBRE DE 2011)</small>
 
 1. Para los efectos de este Reglamento se entenderá por:
 
@@ -253,7 +255,7 @@ IV. La Dirección Jurídica;
 
 V. La Dirección del Secretariado;
 
-VI. El Centro para el Desarrollo Democrático; y (sic)
+VI. El Centro para el Desarrollo Democrático; y
 
 > <small>(REFORMADA, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
@@ -445,7 +447,7 @@ b) El informe de actividades en el que se precisen las tareas desarrolladas, su 
 
 3. El Consejo, al conocer de la solicitud de una organización que pretenda su registro como partido político nacional, integrará una comisión revisora compuesta por tres Consejeros que verificará el cumplimiento de los requisitos para su procedimiento de constitución. La comisión formulará el proyecto de dictamen de registro.
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. REPUBLICADA], D.O.F. 21 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], D.O.F. 21 DE OCTUBRE DE 2011)</small>
 
 #### Sección Segunda. De los Consejeros Electorales del Consejo General
 
@@ -659,7 +661,7 @@ s) Registrar las fórmulas de candidatos a senadores por el principio de mayorí
 
 > <small>(ADICIONADO, D.O.F. 21 DE OCTUBRE DE 2011)</small>
 
-t) Efectuar el cómputo total y la declaración de validez de la elección de senadores por el principio de mayoría relativa, con base en los resultados consignados en las actas de cómputos distritales, dar a conocer los resultados correspondientes y turnar el original y las copias certificadas del expediente en los términos señalados en el Capítulo Cuarto del Título Cuarto del Libro Quinto del Código; y, (sic)
+t) Efectuar el cómputo total y la declaración de validez de la elección de senadores por el principio de mayoría relativa, con base en los resultados consignados en las actas de cómputos distritales, dar a conocer los resultados correspondientes y turnar el original y las copias certificadas del expediente en los términos señalados en el Capítulo Cuarto del Título Cuarto del Libro Quinto del Código; y,
 
 > <small>(ADICIONADO, D.O.F. 21 DE OCTUBRE DE 2011)</small>
 
@@ -715,7 +717,7 @@ j) Vigilar la entrega a los Consejos Distritales, de la documentación aprobada,
 
 k) Expedir la constancia de mayoría y validez de la elección a las fórmulas de candidatos a senadores que hubiesen obtenido la mayoría de los votos así como la constancia de asignación a la fórmula de primera minoría conforme al cómputo y declaración de validez del Consejo Local, e informar al Consejo;
 
-l) Recibir y turnar los medios de impugnación que se interpongan en contra de los actos o resoluciones del Consejo Local; y (sic)
+l) Recibir y turnar los medios de impugnación que se interpongan en contra de los actos o resoluciones del Consejo Local; y
 
 > <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
@@ -1161,7 +1163,7 @@ i) Proponer al Consejo General las obligaciones y las medidas de racionalidad y 
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 15 DE FEBRERO DE 2011)</small>
 
-j) Desarrollar las acciones necesarias para asegurar que las Comisiones de Vigilancia, Nacional, Locales y Distritales se integren, sesionen y funcionen en los términos previstos en el Código y conforme a la normativa que para la administración de recursos humanos, financieros y materiales se emitan; y (sic)
+j) Desarrollar las acciones necesarias para asegurar que las Comisiones de Vigilancia, Nacional, Locales y Distritales se integren, sesionen y funcionen en los términos previstos en el Código y conforme a la normativa que para la administración de recursos humanos, financieros y materiales se emitan; y
 
 > <small>(REFORMADO, D.O.F. 21 DE OCTUBRE DE 2011)</small>
 
@@ -1387,7 +1389,7 @@ j) Las demás que les confiera el Código y otras disposiciones aplicables.
 
 ###### Artículo 42.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
 
 1. A los titulares de las Secretarías Técnicas de las Comisiones les corresponde:
 
@@ -1395,7 +1397,7 @@ a) Asistir a las reuniones de la Comisión que les compete, con derecho a voz;
 
 b) Concertar con el Presidente de la Comisión y el Director Ejecutivo sobre los asuntos de su competencia;
 
-c) Apoyar al Presidente de la Comisión y asistir en los trabajos del Director Ejecutivo; y (sic)
+c) Apoyar al Presidente de la Comisión y asistir en los trabajos del Director Ejecutivo; y
 
 > <small>(REFORMADO, D.O.F. 6 DE AGOSTO DE 2010)</small>
 
@@ -1415,7 +1417,7 @@ b) Solicitar a las comisiones de vigilancia los estudios y desahogo de las consu
 
 c) Coordinar las actividades de IFETEL y presentar los informes correspondientes;
 
-d) Solicitar y realizar las gestiones necesarias a efecto de que el Secretario Ejecutivo publique en el Diario Oficial de la Federación los convenios de colaboración y otros instrumentos celebrados entre el Instituto Federal Electoral y las entidades federativas, incluidos los anexos respectivos, que determinen el plazo para solicitar la Credencial para Votar; así como aquéllos que tengan por objeto apoyar la realización de los procesos electorales locales, en materia de padrón electoral cuyo objeto sea expeditar el desarrollo de los trabajos de inscripción y la depuración del padrón electoral; y (sic)
+d) Solicitar y realizar las gestiones necesarias a efecto de que el Secretario Ejecutivo publique en el Diario Oficial de la Federación los convenios de colaboración y otros instrumentos celebrados entre el Instituto Federal Electoral y las entidades federativas, incluidos los anexos respectivos, que determinen el plazo para solicitar la Credencial para Votar; así como aquéllos que tengan por objeto apoyar la realización de los procesos electorales locales, en materia de padrón electoral cuyo objeto sea expeditar el desarrollo de los trabajos de inscripción y la depuración del padrón electoral; y
 
 > <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2009)</small>
 
@@ -1875,7 +1877,7 @@ k) Supervisar el procedimiento y desahogo de los medios de impugnación, que se 
 
 l) Coordinarse en el ámbito de las atribuciones de la Junta Local con las áreas correspondientes de las Juntas Distritales, previo acuerdo del Secretario Ejecutivo;
 
-m) Proporcionar el apoyo necesario a las Juntas Distritales para el resguardo de los paquetes electorales desde la conclusión del proceso electoral hasta que se determine el procedimiento para su destrucción; y (sic)
+m) Proporcionar el apoyo necesario a las Juntas Distritales para el resguardo de los paquetes electorales desde la conclusión del proceso electoral hasta que se determine el procedimiento para su destrucción; y
 
 > <small>(REFORMADO, D.O.F. 21 DE OCTUBRE DE 2011)</small>
 
@@ -1977,7 +1979,7 @@ h) Suscribir los convenios con las autoridades municipales y delegacionales para
 
 i) Auxiliar al Consejo Distrital en todo lo que requiera para la adecuada supervisión de las actividades de la Junta Distrital;
 
-j) Resguardar los paquetes electorales desde la conclusión del proceso electoral hasta que se determine el procedimiento para su destrucción; y (sic)
+j) Resguardar los paquetes electorales desde la conclusión del proceso electoral hasta que se determine el procedimiento para su destrucción; y
 
 > <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2009)</small>
 
@@ -2099,7 +2101,7 @@ q) Las demás que les confiera el Reglamento y otras disposiciones aplicables.
 
 ###### Artículo 62.
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], D.O.F. 21 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 21 DE OCTUBRE DE 2011)</small>
 
 1. La Coordinación Nacional de Comunicación Social estará adscrita a la Presidencia del Consejo y tendrá las atribuciones siguientes:
 
@@ -2157,7 +2159,7 @@ u) Las demás que le confiera el presente Reglamento y otras disposiciones aplic
 
 ###### Artículo 63.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
 
 1. La Coordinación de Asuntos Internacionales estará adscrita a la Presidencia del Consejo y tendrá las atribuciones siguientes:
 
@@ -2207,7 +2209,7 @@ s) Las demás que le confiera el presente Reglamento y otras disposiciones aplic
 
 ###### Artículo 64.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
 
 1. La Unidad Técnica de Servicios de Informática estará adscrita a la Secretaría Ejecutiva y tendrá las atribuciones siguientes:
 
@@ -2291,7 +2293,7 @@ u) Las demás que le confiera este Reglamento y otras disposiciones aplicables.
 
 ###### Artículo 65.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
 
 1. La Dirección Jurídica estará adscrita a la Secretaría Ejecutiva y tendrá las atribuciones siguientes:
 
@@ -2377,7 +2379,7 @@ s) Las demás que le confiera el presente Reglamento y otras disposiciones aplic
 
 ###### Artículo 66.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
 
 1. La Dirección del Secretariado estará adscrita a la Secretaría Ejecutiva y tendrá las atribuciones siguientes:
 
@@ -2433,7 +2435,7 @@ q) Remitir a la Unidad Técnica de Servicios de Informática, la publicación en
 
 > <small>(REFORMADO, D.O.F. 21 DE OCTUBRE DE 2011)</small>
 
-r) Asignar a los Acuerdos y Resoluciones que emita el Consejo, una clave de control e identificación, formada con el número arábigo progresivo que corresponda, seguido por el año de su aprobación; y (sic)
+r) Asignar a los Acuerdos y Resoluciones que emita el Consejo, una clave de control e identificación, formada con el número arábigo progresivo que corresponda, seguido por el año de su aprobación; y
 
 > <small>(ADICIONADO, D.O.F. 21 DE OCTUBRE DE 2011)</small>
 
@@ -2453,7 +2455,7 @@ v) Las demás que le confiera el presente Reglamento y otras disposiciones aplic
 
 ###### Artículo 67.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
 
 1. El Centro para el Desarrollo Democrático estará adscrito a la Presidencia del Consejo y tendrá las atribuciones siguientes:
 
@@ -2607,7 +2609,7 @@ a) Facultades reglamentarias:
 
 I. Presentar al Consejo el proyecto de reglamento para la fiscalización de los recursos de los partidos políticos, agrupaciones políticas nacionales, organizaciones a las que pertenezcan los observadores electorales, y organizaciones de ciudadanos que pretendan obtener registro como partido político;
 
-II. Proponer al Consejo las normas generales de contabilidad y los acuerdos necesarios para regular el registro contable y la comprobación documental de los recursos de los sujetos referidos en la fracción anterior; y (sic)
+II. Proponer al Consejo las normas generales de contabilidad y los acuerdos necesarios para regular el registro contable y la comprobación documental de los recursos de los sujetos referidos en la fracción anterior; y
 
 III. Presentar al Consejo el proyecto de Reglamento para el desahogo de los procedimientos administrativos oficiosos y de queja en materia de origen y aplicación de los recursos de los partidos y agrupaciones políticas.
 
@@ -2667,7 +2669,7 @@ f) Elaborar los informes circunstanciados respecto de los medios de impugnación
 
 3. El Comité se reunirá de manera ordinaria una vez al mes y de manera extraordinaria cuando lo convoque el Consejero Electoral que lo presida o a solicitud de que a este último presenten al menos dos partidos políticos.
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], D.O.F. 21 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 21 DE OCTUBRE DE 2011)</small>
 
 4. Son atribuciones del Comité de Radio y Televisión del Instituto Federal Electoral:
 
@@ -2723,11 +2725,11 @@ o) Proponer al Consejo, con la coadyuvancia de la Secretaría Ejecutiva, la prop
 
 p) Las demás que le confiera el Código, el Reglamento de Radio y Televisión en Materia Electoral, el Consejo General y demás disposiciones aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 15 DE FEBRERO DE 2011)</small>
 
 ## Título Quinto. De los Organos de Vigilancia
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 15 DE FEBRERO DE 2011)</small>
 
 ### Capítulo Primero. De la Integración de las Comisiones de Vigilancia, Nacional, Locales y Distritales
 
@@ -2771,7 +2773,7 @@ En caso de ausencia temporal del Presidente, éste podrá ser sustituido por el 
 
 Delegacionales
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 15 DE FEBRERO DE 2011)</small>
 
 ### Capítulo Segundo. De las atribuciones de las Comisiones de Vigilancia
 
@@ -2827,7 +2829,7 @@ q) Las demás que la Constitución, el Código, Acuerdos del Consejo General y e
 
 3. Las Comisiones Nacional, Locales y Distritales de Vigilancia podrán coadyuvar entre sí para el cumplimiento de sus atribuciones, en el marco de sus atribuciones.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 15 DE FEBRERO DE 2011)</small>
 
 ### Capítulo Tercero. De las atribuciones específicas de la Comisión Nacional de Vigilancia
 
@@ -2903,7 +2905,7 @@ j) Conocer de los trabajos de demarcación territorial, incluyendo la redistrita
 
 k) Conocer y opinar de las estrategias y acciones de operación específicas del Sistema Nacional de Consulta Electoral en materia registral;
 
-l) Conocer y opinar de las estrategias y acciones de operación específicas de los Centros Estatales de Consulta Electoral y Orientación Ciudadana, a fin de procurar la mejora constante de los servicios que prestan en materia registral; y (sic)
+l) Conocer y opinar de las estrategias y acciones de operación específicas de los Centros Estatales de Consulta Electoral y Orientación Ciudadana, a fin de procurar la mejora constante de los servicios que prestan en materia registral; y
 
 m) Conocer y opinar de los temas que con motivo de las campañas de actualización solicite la Dirección Ejecutiva del Registro Federal de Electores a la Dirección Ejecutiva de Capacitación Electoral y Educación Cívica.
 
@@ -3063,7 +3065,7 @@ b) La inhabilitación para desempeñar un empleo, cargo o comisión en el servic
 
 6. El Contralor General para el buen despacho de los asuntos que tiene encomendados, podrá auxiliarse de los Subcontralores y los Directores de Area que integren el propio órgano de control, quienes podrán ejercer las atribuciones y funciones inherentes a las áreas a su cargo que se comprendan en los incisos f) al aa), del dd) al hh) y ññ) del párrafo 1 de este numeral, sin perjuicio de su ejercicio directo por parte de su titular.
 
-> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES TITULO SEPTIMO], D.O.F. 16 DE ENERO DE 2009)</small>
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES TÍTULO SÉPTIMO], D.O.F. 16 DE ENERO DE 2009)</small>
 
 ## Título Octavo. De los Flujos de Información
 
@@ -3071,7 +3073,7 @@ b) La inhabilitación para desempeñar un empleo, cargo o comisión en el servic
 
 ###### Artículo 77.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2009)</small>
 
 1. La información institucional que no se difunda en la página de Internet del Instituto, será proporcionada por los funcionarios del Instituto de conformidad con las reglas siguientes:
 
@@ -3133,7 +3135,7 @@ f) Los órganos de vigilancia, delegacionales y subdelegacionales, que requieran
 
 3. La información institucional se divulgará externamente en la página de Internet del Instituto, de conformidad con los criterios del Consejo, de las disposiciones del presente Reglamento y de la normatividad relativa a la transparencia y acceso a la información pública. La información sólo será confidencial y temporalmente reservada en aquellos supuestos que marque el reglamento de la materia.
 
-> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES TITULO OCTAVO], D.O.F. 16 DE ENERO DE 2009)</small>
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES TÍTULO OCTAVO], D.O.F. 16 DE ENERO DE 2009)</small>
 
 ## Título Noveno. Disposiciones Complementarias
 
@@ -3215,7 +3217,7 @@ Tercero.- Las adecuaciones inmediatas que requiera el presente instrumento, ser�
 
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 10 de julio de dos mil ocho.- El Consejero Presidente del Consejo General, Leonardo Valdés Zurita.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 16 DE ENERO DE 2009.
 
@@ -3249,7 +3251,7 @@ Segundo.- Las disposiciones de la presente reforma entrarán en vigor al día si
 
 D.O.F. 21 DE OCTUBRE DE 2011.
 
-SE TRANSCRIBE UNICAMENTE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+SE TRANSCRIBE ÚNICAMENTE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
 
 ...
 
@@ -3264,3 +3266,25 @@ SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMI
 SEGUNDO.- Publíquese el presente Acuerdo, en el Diario Oficial de la Federación y en la Gaceta del Instituto Federal Electoral.
 
 TERCERO.- Las disposiciones de la presente reforma entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE AGOSTO DE 2015.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+Segundo.- Se abroga el Reglamento Interior del Instituto Federal Electoral, publicado en el Diario Oficial de la Federación el 11 de agosto de 2008, así como sus reformas y adiciones.
+
+Tercero.- El presente Acuerdo entrará en vigor y surtirá efectos al día siguiente de su aprobación por el Consejo General.
+
+Cuarto.- Publíquese en el Diario Oficial de la Federación.
+
+## TRANSITORIOS
+
+Primero.- El Órgano Garante de la Transparencia y el Acceso a la Información, el Comité de Información, el Comité de Gestión y Publicación Electrónica y la Unidad de Enlace, estarán vigentes hasta la entrada en vigor de la legislación secundaria derivada de la reforma al artículo 6º de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 07 de febrero de 2014.
+
+Una vez que entren en vigor las leyes reglamentarias del artículo 6o Constitucional, el Comité de Información, el Comité de Gestión y Publicación Electrónica y la Unidad de Enlace seguirán funcionando hasta en tanto se realicen las modificaciones normativas internas y se determinen las instancias competentes.
+
+Segundo.- Todas las referencias a la Unidad Técnica de Servicios de Información y Documentación contenidas en la normatividad interna del Instituto Nacional Electoral deberán entenderse realizadas a la Unidad Técnica de Transparencia y Protección de Datos Personales.
+
+Tercero.- Se somete a consideración de la Contraloría General, que ésta, en el ámbito de su competencia y al concluir el Proceso Electoral Federal 2014-2015, realice una auditoría de las funciones de los órganos del Instituto Nacional Electoral y la revisión del Manual de Organización del Instituto, para que sus conclusiones y recomendaciones puedan ser consideradas en una posterior reforma al Reglamento Interior.
+
+Cuarto.- En razón de la desaparición del Centro para el Desarrollo Democrático, se instruye a la Junta General Ejecutiva para que lleve a cabo las acciones administrativas conducentes para el cierre de esa Unidad Técnica. El Centro deberá concluir los proyectos que se encuentren en marcha, así como ejercer el presupuesto que tenga asignado, a más tardar el 31 de diciembre de 2014. Los recursos humanos del Centro deberán ser readscritos de acuerdo con las necesidades del Instituto y sin menoscabo de sus derechos laborales.
