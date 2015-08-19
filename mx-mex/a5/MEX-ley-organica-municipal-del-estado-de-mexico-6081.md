@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2015-07-13"
+last_updated: "2015-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE AGOSTO DE 2015.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -2463,7 +2463,9 @@ Una vez decretada la municipalización del servicio, si el ayuntamiento carece d
 
 Artículo 147 A.- En cada municipio, el ayuntamiento respectivo, mediante acuerdo de cabildo, expedirá con la oportunidad debida una convocatoria abierta a toda la población para designar al Defensor Municipal de Derechos Humanos, que deberá durar en su cargo tres años, contando a partir de la fecha de su designación, pudiendo ser reelecto por el ayuntamiento por una sola vez y por igual periodo, de acuerdo a los lineamientos siguientes:
 
-I. La convocatoria abierta se emitirá 60 días naturales antes del vencimiento del nombramiento del responsable municipal de los derechos humanos en funciones;
+> <small>(REFORMADA, G.G. 19 DE AGOSTO DE 2015)</small>
+
+I. La convocatoria abierta se emitirá dentro de los primeros 60 días naturales del periodo constitucional del Ayuntamiento;
 
 II. La convocatoria abierta se publicará y deberá permanecer su difusión por un periodo de cuando menos quince días y no mayor a veinte días naturales, en los lugares de mayor afluencia del municipio, así como en el periódico de mayor circulación dentro del territorio municipal;
 
@@ -4262,3 +4264,11 @@ G.G. 13 DE JULIO DE 2015.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- Esta (sic) Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 19 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Los Defensores Municipales de Derechos Humanos que se encuentren en funciones a la entrada en vigor del presente Decreto continuarán en su encargo hasta que sea designado quien deba suplirlos en el cargo conforme al presente Decreto.
