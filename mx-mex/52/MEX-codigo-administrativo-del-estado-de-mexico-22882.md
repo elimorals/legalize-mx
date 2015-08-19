@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2015-08-12"
+last_updated: "2015-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE AGOSTO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -2671,33 +2671,57 @@ XIII. Las demás que determine este Libro.
 
 Para efectos de este Título se entiende por control sanitario el conjunto de acciones de orientación, educación, muestreo, verificación y, en su caso, aplicación de medidas de seguridad y sanciones.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.31], G.G. 30 DE SEPTIEMBRE DE 2010)
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 2.
 
-50.- Compete a la Secretaría de Salud la expedición de las normas técnicas estatales.
+49 Bis.- Para la prestación del servicio público de rastros se deberá contar con el Dictamen de Factibilidad de Impacto Sanitario que expida el Consejo Rector de Impacto Sanitario.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 2.
 
-51.- Compete a la "COPRISEM" realizar las acciones de fomento sanitario, que incluyen la difusión de la normatividad aplicable al buen funcionamiento de los establecimientos.
+49 Ter.- Los concesionarios de los rastros deberán contar con la licencia de funcionamiento vigente que autorice sus actividades, misma que se colocará en un lugar visible.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.33], G.G. 30 DE SEPTIEMBRE DE 2010)
-
-###### Artículo 2.
-
-52.- Los comerciantes que ejerzan su actividad en la vía pública están obligados a conservar las condiciones higiénicas que señalen las normas técnicas estatales.
-
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.34], G.G. 30 DE SEPTIEMBRE DE 2010)
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 2.
 
-53.- Los edificios o locales, incluidos los centros de prevención y readaptación social, deben contar con las instalaciones sanitarias que señalen las normas técnicas estatales correspondientes.
+49 Quáter.- El Dictamen de Factibilidad de Impacto Sanitario es un requisito obligatorio para que los ayuntamientos refrenden las licencias de funcionamiento de los rastros.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Este documento tendrá vigencia de un año y será de carácter personal e intransferible, por ende, todo acto contrario a lo señalado será nulo de pleno derecho.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
+
+###### Artículo 2.
+
+49 Quinquies.- Son requisitos para la expedición del Dictamen de Factibilidad de Impacto Sanitario:
+
+l. Solicitud firmada por el interesado que deberá presentar vía electrónica o por escrito, manifestando, bajo protesta de decir verdad, que los datos en ella contenidos son ciertos.
+
+ll. A la solicitud se acompañará el original para cotejo y copia de:
+
+a. Identificación oficial vigente del solicitante que contenga fotografía y firma. En caso de que no sea él quien realice el trámite, el representante legal deberá presentar poder notarial y copia de identificación oficial del poderdante, apoderado y dos testigos. Tratándose de personas jurídico colectivas deberán presentar el instrumento notarial con el que se acredite la personalidad.
+
+b. Documento con el que se acredite la propiedad o posesión del inmueble donde se encuentre instalado o se pretenda instalar el rastro.
+
+c. Aviso de funcionamiento emitido por la jurisdicción da regulación sanitaria del lugar donde se encuentre instalado o se pretenda instalar el rastro.
+
+d. Acta constitutiva en caso de ser persona jurídica colectiva.
+
+e. Fotografías de la fachada y del interior del inmueble.
+
+f. En su caso, licencia de funcionamiento que se pretenda renovar.
+
+g. Croquis de localización, señalando colindancias.
+
+h. Acreditar que el rastro cumpla con las condiciones de higiene y seguridad que establezcan las disposiciones legales y normas sanitarias.
+
+i. Opinión emitida por la autoridad auxiliar correspondiente, en su caso.
+
+III. Las demás que señalen otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
 
 #### SECCION SEGUNDA. De las medidas de seguridad sanitaria
 
@@ -2831,6 +2855,56 @@ Las escalas de los cuerpos técnico profesional están integradas por el persona
 
 ###### Artículo 2.
 
+49 Sexies.- Se negará el Dictamen de Factibilidad de Impacto Sanitario cuando se incumpla con cualquiera de los requisitos establecidos en este Código.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
+
+###### Artículo 2.
+
+49 Septies.- Para efectos del presento Capítulo, el Consejo Rector de Impacto Sanitario tendrá las funciones siguientes:
+
+l. Emitir el Dictamen de Factibilidad de Impacto Sanitario, para el funcionamiento de rastros.
+
+ll. Elaborar el diagnóstico de la situación que prevalece en materia de rastros y su impacto sanitario en la comunidad, debiéndose allegar para ello de la información correspondiente.
+
+III. Proponer programas y acciones tendientes a combatir el maltrato y sufrimiento animal en colaboración con las dependencias del Ejecutivo del Estado, organismos auxiliares de carácter estatal y municipal, y de los sectores social y privado.
+
+IV. Las demás que sean necesarias para el cumplimiento de su objeto.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 2.31], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 2.
+
+50.- Compete a la Secretaría de Salud la expedición de las normas técnicas estatales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
+
+###### Artículo 2.
+
+51.- Compete a la "COPRISEM" realizar las acciones de fomento sanitario, que incluyen la difusión de la normatividad aplicable al buen funcionamiento de los establecimientos.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 2.33], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 2.
+
+52.- Los comerciantes que ejerzan su actividad en la vía pública están obligados a conservar las condiciones higiénicas que señalen las normas técnicas estatales.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 2.34], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+#### SECCION TERCERA. De las sanciones
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 2.52], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 2.
+
+53.- Los edificios o locales, incluidos los centros de prevención y readaptación social, deben contar con las instalaciones sanitarias que señalen las normas técnicas estatales correspondientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 2.
+
 53 Bis.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
@@ -2846,6 +2920,14 @@ Las escalas de los cuerpos técnico profesional están integradas por el persona
 54.- Los residuos sólidos municipales deben tratarse conforme a lo previsto en las normas técnicas estatales, de tal manera que no signifiquen un peligro para la salud y por ningún motivo se manipularán antes de su tratamiento o disposición final.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 2.36], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+## TITULO CUARTO. De la salubridad local
+
+### CAPITULO SEGUNDO. De las autorizaciones sanitarias
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
 
 ###### Artículo 2.
 
@@ -2866,10 +2948,6 @@ En caso de animales muertos abandonados, la "COPRISEM" dictará las medidas para
 56.- La "COPRISEM" realizará análisis periódicos de la potabilidad de las aguas, conforme a lo previsto en las normas oficiales mexicanas.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 2.38], G.G. 30 DE SEPTIEMBRE DE 2010)
-
-#### SECCION TERCERA. De las sanciones
-
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.52], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 2.
 
@@ -2902,14 +2980,6 @@ Queda prohibido que los desechos o líquidos que conduzcan los drenajes sean ver
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
-
-## TITULO CUARTO. De la salubridad local
-
-### CAPITULO SEGUNDO. De las autorizaciones sanitarias
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
 
 ###### Artículo 2.
 
@@ -3205,7 +3275,9 @@ Una vez aplicada esta medida de seguridad se podrá iniciar con el procedimiento
 
 74.- En caso de reincidencia se duplicará el monto de la multa que corresponda. Se entiende por reincidencia que el infractor cometa la misma violación a las disposiciones de este Título dos o más veces dentro del periodo de un año, contado a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior.
 
-(REUBICADO [N. DE E. Y REFORAMDO ANTES ARTÍCULO 2.56], G.G. 30 DE SEPTIEMBRE DE 2010)
+(REUBICADO [N. DE E. REFORMADO ANTES ARTÍCULO 2.56], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+### CAPITULO TERCERO. De la vigilancia
 
 ###### Artículo 2.
 
@@ -3244,8 +3316,6 @@ Sólo procederá esta sanción si previamente se dictó, en tres ocasiones, cual
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 17 DE DICIEMBRE DE 2014)</small>
-
-### CAPITULO TERCERO. De la vigilancia
 
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
@@ -8551,7 +8621,7 @@ III. Someterse a las pruebas para la detección del grado de intoxicación que d
 
 > <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
 
-### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
+### CAPITULO PRIMERO. De la producción y transformación
 
 ###### Artículo 8.
 
@@ -8563,7 +8633,7 @@ Para efectos del párrafo anterior, se consideran estacionamientos de servicio a
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
-### CAPITULO PRIMERO. De la producción y transformación
+### CAPITULO SEGUNDO. De la comercialización
 
 ###### Artículo 8.
 
@@ -8883,7 +8953,7 @@ II. Multa de 50 a 100 días de salario mínimo vigente y el pago de los derechos
 
 ## TITULO PRIMERO. Disposiciones generales
 
-### CAPITULO SEGUNDO. De la comercialización
+### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
 
 ###### Artículo 9.
 
@@ -11687,7 +11757,7 @@ Los informantes estarán obligados a proporcionar auxilio y cooperación a las a
 
 ###### Artículo 14.
 
-22.- Los datos, estudios e investigaciones que proporcionen los informantes, serán manejados bajo el principio de confidencialidad respecto a los aspectos específicos de las personas y los referentes a las circunstancias particulares que las identifiquen, excepto la Información catastral cuando se garantice el interés legítimo. Al recabarse la información se dará a conocer al informante la manera en que será procesada, integrada y divulgada.
+22.- Los datos, estudios e investigaciones que proporcionen los informantes, serán manejados bajo el principio de confidencialidad respecto a los aspectos específicos de las personas y los referentes a las circunstancias particulares que las identifiquen, excepto la información catastral cuando se garantice el interés legítimo. Al recabarse la Información se dará a conocer al informante la manera en que será procesada, integrada y divulgada.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -11881,9 +11951,9 @@ V. Establecer las políticas y lineamientos de los servicios de informática par
 
 VI. Ser el interlocutor con las autoridades federales y municipales en materia de información e investigación geográfica, estadística y catastral;
 
-VII. Establecer la coordinación de las dependencias y entidades de la administración pública en los ámbitos federal, estatal y municipales, en las materias de su competencia;
+VII. Establecer la coordinación de las dependencias y entidades de la administración pública en los ámbitos federal, estatal y municipal, en las materias de su competencia;
 
-VIII. Coordinar las actividades de las dependencias y entidades de los gobiernos estatal y municipal, en apoyo a los trabajos que las autoridades federales realicen en el Estado de México sobre la materia;
+VIII. Coordinar las actividades de las dependencias y entidades de los gobiernos estatal y municipales, en apoyo a los trabajos que las autoridades federales realicen en el Estado de México sobre la materia;
 
 IX. Integrar y custodiar el acervo informativo y de investigaciones geográficas, estadísticas y catastrales del Estado de México;
 
@@ -17766,3 +17836,11 @@ CUARTO. Los recursos económicos que se recauden derivados del pago establecido 
 QUINTO. La Secretaría de Movilidad en coordinación con la Secretaría de Finanzas, realizará los estudios correspondientes a efecto de determinar el tipo de licencia de conductor necesaria para la prestación del servicio, en un plazo no mayor de ciento veinte días naturales. En tanto se da cumplimiento a lo anterior, se continuará prestando el servicio con las licencias vigentes.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 19 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se oponga al presente Decreto.
