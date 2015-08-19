@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2015-06-22"
+last_updated: "2015-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE AGOSTO DE 2015.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -5991,9 +5991,11 @@ La Secretaría otorgará reconocimientos a las instituciones de educación e inv
 
 29. Cuando se realice traslado de ejemplares vivos de fauna silvestre éste se deberá efectuar bajo condiciones que eviten o disminuyan la tensión, ansiedad, sufrimiento, traumatismo y dolor teniendo en cuenta las características de cada especie.
 
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 5.
 
-30. Los lugares de resguardo de ejemplares vivos de fauna silvestre deberán tener características lo más próximas posibles a las condiciones de sus hábitats naturales para evitar o disminuir la tensión, el sufrimiento, la ansiedad, la crueldad, el traumatismo o el dolor que pudiera ocasionárseles en sitios como zoológicos o circos.
+30. Los lugares de resguardo de ejemplares vivos de fauna silvestre deberán contar con las condiciones suficientes de espacio y elementos para desarrollar sus funciones físicas, fisiológicas y de comportamiento propias de la especie para evitar o eliminar la tensión, el sufrimiento, la ansiedad, la crueldad, el traumatismo o el dolor que pudiera ocasionárseles en sitios como zoológicos, unidades de manejo para la conservación de la vida silvestre, predios intensivos de manejo de vida silvestre, acuarios, colecciones científicas y privadas y comercializadoras debidamente autorizadas por la SEMARNAT.
 
 ###### Artículo 5.
 
@@ -6263,21 +6265,45 @@ Se evaluará primero la posibilidad de aplicar medidas de control como captura o
 
 65. La conservación de la vida silvestre fuera de su hábitat natural se llevará a cabo de acuerdo con las disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de este Libro y de las que de ellas se deriven, así como con arreglo a los planes de manejo aprobados y de otras disposiciones aplicables. La Secretaría dará prioridad a la reproducción de vida silvestre fuera de su hábitat natural para el desarrollo de actividades de repoblación y reintroducción especialmente de especies en riesgo.
 
+> <small>(REFORMADO, G.G. 19 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 5.
 
-66 Las colecciones científicas y museográficas, públicas o privadas de especimenes de especies silvestres deberán registrarse y actualizar sus datos ante la autoridad correspondiente en el Padrón que para tal efecto se lleve de conformidad con lo establecido en el Reglamento.
+66. Las colecciones científicas o museográficas públicas y privadas, unidades de manejo para la conservación de la vida silvestre, predios intensivos de manejo de vida silvestre, zoológicos, acuarios y comercializadoras que manejen especies de fauna silvestre cautiva deberán contar con el registro de operación correspondiente ante la SEMARNAT y actualizar sus datos cada dos años ante la Comisión Estatal de Parques Naturales y de la Fauna en el Padrón que para tal efecto se lleve de conformidad con lo establecido en el Reglamento.
 
-Los parques zoológicos, deberán contemplar en sus planes de manejo aspectos de educación ambiental, de conservación y reproducción de las especies con especial atención a las que se encuentren en alguna categoría de riesgo y deberán registrarse y actualizar sus datos ante la autoridad correspondiente en el Padrón que para tal efecto se lleve de conformidad con lo establecido en el Reglamento.
+Las colecciones científicas o museográficas públicas y privadas, unidades de manejo para la conservación de la vida silvestre, predios intensivos de manejo de vida silvestre, zoológicos, acuarios y comercializadoras que se establezcan en territorio estatal deberán contemplar en sus planes de manejo aspectos de educación ambiental, de conservación y reproducción de las especies endémicas y nativas del Estado con especial atención a las que se encuentran en alguna categoría de riesgo y deberán registrarse ante la SEMARNAT y actualizar sus datos cada dos años ante la Comisión Estatal de Parques Naturales y de la Fauna en el Padrón que para tal efecto se lleve de conformidad con lo establecido en el Reglamento.
 
-Todos aquellos espectáculos públicos que manejen vida silvestre fuera de su hábitat deberán contemplar en sus planes de manejo aspectos de educación ambiental y de conservación con especial atención a las que se encuentren en alguna categoría de riesgo, y deberán registrarse y actualizar sus datos ante la autoridad correspondiente en el padrón que para tal efecto se lleve de conformidad con lo establecido en el Reglamento.
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
+
+###### Artículo 5.
+
+66 Bis. Los planes de manejo que se refieren en el artículo anterior deberán contener como mínimo los siguientes elementos:
+
+I. Especies y número de ejemplares;
+
+II. Tipo de confinamiento por especie y número de ejemplares;
+
+III. Dieta proporcional a la especie;
+
+IV. Cuidados clínicos y de salud animal;
+
+V. Medio de transporte para movilización;
+
+VI. Medidas de mantenimiento, seguridad e higiene;
+
+VII. Aspectos de educación ambiental, de conservación y reproducción de las especies, con especial atención en aquellas que estén en alguna categoría de riesgo;
+
+VIII. Medidas para garantizar el trato digno y respetuoso durante su confinamiento, manejo, traslado, exhibición, adaptación a un nuevo espacio y entrenamiento responsable, entre otros;
+
+IX. Cumplir con las Nomas Oficiales Mexicanas y Normas Técnicas del Estado de México que para tal efecto se emitan.
+
+### CAPITULO I. DEL APROVECHAMIENTO EXTRACTIVO
 
 ###### Artículo 5.
 
 67. La liberación de ejemplares a su hábitat natural se realizará de conformidad con lo establecido en el Reglamento. La Secretaría procurará que la liberación se lleve a cabo a la brevedad posible a menos que se requiera rehabilitación.
 
 Si no fuera conveniente la liberación de ejemplares a su hábitat natural la Secretaría determinará un destino que contribuya a la conservación, investigación, educación, capacitación, difusión, reproducción, manejo o cuidado de la vida silvestre en lugares adecuados para ese fin.
-
-### CAPITULO I. DEL APROVECHAMIENTO EXTRACTIVO
 
 ###### Artículo 5.
 
@@ -6293,13 +6319,13 @@ III. Un control sanitario de los ejemplares a liberar.
 
 69. Cuando no sea posible realizar acciones de repoblación ni de reintroducción la Secretaría propondrá a la Federación la autorización de liberación de ejemplares de la vida silvestre al hábitat natural en el marco de proyectos de traslocación que incluyan los mismos componentes señalados en los dos artículos anteriores. Los ejemplares que se liberen deberán en lo posible pertenecer a la especie o subespecie más cercana genética y fisonómicamente a la especie o subespecie desaparecida.
 
-###### Artículo 5.
-
-70. Solamente se podrá realizar aprovechamiento extractivo de la vida silvestre en las condiciones de sostenibilidad prescritas en los siguientes artículos y a sugerencia de la Secretaría a la Federación.
-
 ## TITULO SEPTIMO. DEL APROVECHAMIENTO SOSTENIBLE DE LA VIDA SILVESTRE
 
 ### CAPITULO II. DEL APROVECHAMIENTO PARA FINES DE SUBSISTENCIA
+
+###### Artículo 5.
+
+70. Solamente se podrá realizar aprovechamiento extractivo de la vida silvestre en las condiciones de sostenibilidad prescritas en los siguientes artículos y a sugerencia de la Secretaría a la Federación.
 
 ###### Artículo 5.
 
@@ -6383,19 +6409,21 @@ V. Cuando no se cumpla con la tasa de aprovechamiento y su temporalidad.
 
 La autorización de aprovechamiento generará para su titular la obligación de presentar informes periódicos de conformidad con lo establecido en el Reglamento que deberán incluir la evaluación de los efectos que ha tenido el respectivo aprovechamiento sobre las poblaciones y sus hábitats.
 
+### CAPITULO III. DEL APROVECHAMIENTO MEDIANTE LA ACTIVIDAD CINEGETICA
+
 ###### Artículo 5.
 
 80. Las personas de la localidad que realizan aprovechamiento de ejemplares, partes y derivados de vida silvestre para su consumo directo o para su venta en cantidades que sean proporcionales a la satisfacción de las necesidades básicas de éstas y de sus dependientes económicos recibirán el apoyo, asesoría técnica y capacitación por parte de las autoridades competentes para el cumplimiento de las disposiciones del presente Libro y el Reglamento, así como para la consecución de sus fines.
 
 Las autoridades competentes promoverán la constitución de asociaciones para estos efectos.
 
-### CAPITULO III. DEL APROVECHAMIENTO MEDIANTE LA ACTIVIDAD CINEGETICA
-
 ###### Artículo 5.
 
 81. La Secretaría en coordinación con el Instituto Nacional Indigenista integrará y hará públicas mediante una lista las prácticas y los volúmenes de aprovechamiento de ejemplares, partes o derivados de vida silvestre para ceremonias y ritos tradicionales por parte de integrantes de comunidades rurales el cual se podrá realizar dentro de sus predios o con el consentimiento de sus propietarios o legítimos poseedores siempre que no se afecte la viabilidad de las poblaciones y que las técnicas y medios de aprovechamiento sean las utilizadas tradicionalmente, a menos que éstos se modifiquen para mejorar las condiciones de sostenibilidad en el aprovechamiento. En todo caso promoverá que se incorporen acciones de manejo y conservación de hábitat a través de programas de capacitación a dichas comunidades rurales.
 
 La Secretaría podrá establecer limitaciones o negar el aprovechamiento en los casos en que la información muestre que dichas prácticas o volúmenes están poniendo en riesgo la conservación de las poblaciones o especies silvestres.
+
+### CAPITULO IV. DE LA COLECTA CIENTIFICA Y CON PROPOSITO DE ENSEÑANZA
 
 ###### Artículo 5.
 
@@ -6406,8 +6434,6 @@ La Secretaría, de acuerdo a la zona geográfica y ciclos biológicos de las esp
 I. Determinar los medios y métodos para realizar la caza deportiva y su temporalidad, así como las áreas en las que se pueda realizar, el evaluar los planes de manejo y otorgar las autorizaciones correspondientes; y
 
 II. Establecer vedas específicas a este tipo de aprovechamiento cuando así se requiera para la conservación de poblaciones de especies silvestres y su hábitat.
-
-### CAPITULO IV. DE LA COLECTA CIENTIFICA Y CON PROPOSITO DE ENSEÑANZA
 
 ###### Artículo 5.
 
@@ -6427,31 +6453,27 @@ Las personas que realicen caza deportiva sin contratar a un prestador de servici
 
 Los prestadores de servicios de aprovechamiento deberán contar con una licencia para la prestación de servicios relacionados con la caza deportiva otorgada previo cumplimiento de las disposiciones vigentes.
 
+### CAPITULO V. DEL APROVECHAMIENTO NO EXTRACTIVO
+
 ###### Artículo 5.
 
 85. La colecta de ejemplares, partes y derivados de vida silvestre con fines de investigación científica y con propósitos de enseñanza requiere de autorización de la Secretaría y se llevará a cabo con el consentimiento previo, expreso e informado del propietario o poseedor legítimo del predio en donde ésta se realice. Esta autorización no amparará el aprovechamiento para fines comerciales ni de utilización en biotecnología que se regirá por las disposiciones especiales que resulten aplicables. La autorización será otorgada solo cuando no se afecte con ella la viabilidad de las poblaciones, especies, hábitats y ecosistemas.
 
 Las autorizaciones para realizar colecta científica se otorgarán de conformidad con lo establecido en el Reglamento por línea de investigación o por proyecto. Las autorizaciones por línea de investigación se otorgarán para el desarrollo de estas actividades por parte de investigadores y colectores científicos vinculados a las instituciones de investigación y colecciones científicas estatales, así como a aquellos con trayectoria en la aportación de información para el conocimiento de la diversidad biológica estatal y para su equipo de trabajo. Las autorizaciones por proyecto se otorgarán a las personas que no tengan estas características o a las personas que vayan a realizar colecta científica sobre especies o poblaciones en riesgo o sobre hábitat crítico.
 
-### CAPITULO V. DEL APROVECHAMIENTO NO EXTRACTIVO
-
 ###### Artículo 5.
 
 86. Las personas autorizadas para realizar una colecta científica deberán en los términos que establezca el Reglamento presentar informes de actividades y destinar al menos un duplicado del material biológico colectado a instituciones o colecciones científicas estatales, salvo que la Secretaría determine lo contrario por existir representaciones suficientes y en buen estado de dicho material en las mencionadas instituciones o colecciones.
-
-###### Artículo 5.
-
-87. El aprovechamiento no extractivo de vida silvestre requiere una autorización previa de la Federación a petición de la Secretaría que se solicitará de conformidad con las disposiciones establecidas en el presente Capítulo para garantizar el bienestar de los ejemplares de especies silvestres, la continuidad de sus poblaciones y la conservación de sus hábitats.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 5.
 
-88. Los aprovechamientos no extractivos en actividades económicas deberán realizarse de conformidad con la zonificación y la capacidad de uso determinadas por la Federación de acuerdo con las normas oficiales mexicanas o en su defecto de acuerdo con el plan de manejo que apruebe la Federación.
+87. El aprovechamiento no extractivo de vida silvestre requiere una autorización previa de la Federación a petición de la Secretaría que se solicitará de conformidad con las disposiciones establecidas en el presente Capítulo para garantizar el bienestar de los ejemplares de especies silvestres, la continuidad de sus poblaciones y la conservación de sus hábitats.
 
 ###### Artículo 5.
 
-89. La Secretaría realizará los actos de inspección y vigilancia necesarios para la conservación y aprovechamiento sostenible de la vida silvestre con arreglo a lo previsto en el presente Libro, en el Libro Segundo de este Código, en la Ley General del Equilibrio Ecológico y la Protección al Ambiente y en las disposiciones que de ellas se deriven, asimismo deberá llevar un padrón de los infractores a las mismas. Las personas que se encuentren incluidas en dicho padrón respecto a las faltas a las que se refiere el artículo 5.126 fracción II del presente Libro en los términos que establezca el Reglamento no se les otorgarán autorizaciones de aprovechamiento ni serán sujetos de transmisión de derechos de aprovechamiento.
+88. Los aprovechamientos no extractivos en actividades económicas deberán realizarse de conformidad con la zonificación y la capacidad de uso determinadas por la Federación de acuerdo con las normas oficiales mexicanas o en su defecto de acuerdo con el plan de manejo que apruebe la Federación.
 
 ## TITULO OCTAVO. DE LAS MEDIDAS DE CONTROL, SEGURIDAD, INFRACCIONES Y SANCIONES
 
@@ -6459,15 +6481,19 @@ Las autorizaciones para realizar colecta científica se otorgarán de conformida
 
 ###### Artículo 5.
 
+89. La Secretaría realizará los actos de inspección y vigilancia necesarios para la conservación y aprovechamiento sostenible de la vida silvestre con arreglo a lo previsto en el presente Libro, en el Libro Segundo de este Código, en la Ley General del Equilibrio Ecológico y la Protección al Ambiente y en las disposiciones que de ellas se deriven, asimismo deberá llevar un padrón de los infractores a las mismas. Las personas que se encuentren incluidas en dicho padrón respecto a las faltas a las que se refiere el artículo 5.126 fracción II del presente Libro en los términos que establezca el Reglamento no se les otorgarán autorizaciones de aprovechamiento ni serán sujetos de transmisión de derechos de aprovechamiento.
+
+###### Artículo 5.
+
 90. Se crearán de conformidad con lo establecido en el Reglamento comités mixtos de vigilancia con la participación de las autoridades municipales con el objeto de supervisar la aplicación de las medidas de control y de seguridad previstas en este Título de conformidad a lo que prevean los acuerdos o convenios de coordinación a los que hace alusión los artículos 5.11, 5.12 y 5.13 de este Libro.
+
+### CAPITULO III. DE LAS VISITAS DE INSPECCION
 
 ###### Artículo 5.
 
 91. Sin perjuicio de las demás disposiciones aplicables toda persona que cause daños a la vida silvestre o su hábitat en contravención de lo establecido en el presente Libro, en el Libro Segundo de éste Código o en la Ley General del Equilibrio Ecológico y la Protección al Ambiente estará obligada a repararlos en los términos del presente ordenamiento, y su Reglamento.
 
 Los propietarios y legítimos poseedores de los predios o los terceros que realicen el aprovechamiento serán responsables solidarios de los efectos negativos que éste pudiera tener para la conservación de la vida silvestre y su hábitat.
-
-### CAPITULO III. DE LAS VISITAS DE INSPECCION
 
 ###### Artículo 5.
 
@@ -6491,11 +6517,11 @@ No se entenderá conocido el daño o el deterioro ambiental sino cuando se conoz
 
 94. Serán las autoridades jurisdiccionales de la Entidad las competentes para conocer de la acción de responsabilidad por daño a la vida silvestre y su hábitat.
 
+### CAPITULO IV. DE LAS MEDIDAS DE SEGURIDAD
+
 ###### Artículo 5.
 
 95. Las personas que realicen actividades de reproducción, captura, transformación, tratamiento, preparación, comercialización, exhibición, traslado, importación, exportación y las demás relacionadas con la conservación y aprovechamiento de la vida silvestre deberán otorgar al personal debidamente acreditado de la Secretaría las facilidades indispensables para el desarrollo de los actos de inspección antes señalados. Asimismo deberán aportar la documentación que ésta les requiera para verificar el cumplimiento de las disposiciones de este Libro y de las que del presente Código se deriven.
-
-### CAPITULO IV. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### Artículo 5.
 
@@ -6535,6 +6561,8 @@ III. El infractor demuestre que ha cumplido con las obligaciones materia de la i
 
 101. En los casos en que no se pudiera identificar a los presuntos infractores de este Libro y de las disposiciones que de él deriven la Secretaría pondrá término al procedimiento mediante la adopción de las medidas que correspondan para la conservación de la vida silvestre y de su hábitat y ordenará el destino que debe darse a los ejemplares, partes o derivados de la vida silvestre que hayan sido abandonados.
 
+### CAPITULO V. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+
 ###### Artículo 5.
 
 102. Cuando exista riesgo inminente de daño o deterioro grave a la vida silvestre o a su hábitat la Secretaría, fundada y motivadamente ordenará la aplicación de una o más de las siguientes medidas de seguridad:
@@ -6546,8 +6574,6 @@ II. La clausura temporal, parcial o total de las instalaciones, maquinaria o equ
 III. La suspensión temporal, parcial o total de la actividad que motive la imposición de la medida de seguridad; y
 
 IV. La realización de las acciones necesarias para evitar que se continúen presentando los supuestos que motiven la imposición de la medida de seguridad.
-
-### CAPITULO V. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 5.
 
@@ -6594,6 +6620,8 @@ En caso de que el depositario incumpla con sus obligaciones legales la Secretar�
 106. La Secretaría podrá ordenar la venta al precio de mercado de bienes perecederos asegurados precautoriamente si el presunto infractor no acredita la legal procedencia de los mismos dentro de los quince días siguientes a su aseguramiento, siempre y cuando se trate de un bien permitido en el comercio, la cual se realizará conforme a lo establecido en el Título Séptimo del Libro Segundo del presente Código. En este caso la Secretaría deberá invertir las cantidades correspondientes en Certificados de la Tesorería del Estado a fin de que al dictarse la resolución respectiva se disponga la aplicación del producto y de los rendimientos según proceda de acuerdo con lo previsto en el presente Ordenamiento.
 
 En caso de que en la resolución que concluya el procedimiento de inspección respectivo no se ordene la incautación de los bienes perecederos asegurados precautoriamente y éstos hubiesen sido vendidos, la Secretaría deberá entregar al interesado el precio de venta de los bienes de que se trate al momento del aseguramiento más los rendimientos que se hubiesen generado a la fecha de vencimiento de los títulos a que se refiere el párrafo anterior.
+
+### CAPITULO I. DEL OBJETO
 
 ###### Artículo 5.
 
@@ -6646,8 +6674,6 @@ XXII. Exportar o importar ejemplares, partes o derivados de la vida silvestre o 
 XXIII. Realizar actos que contravengan las disposiciones de trato digno y respetuoso a la fauna silvestre establecidas en el presente Libro y en las disposiciones que de éste se deriven.
 
 Se considerarán infractores no sólo las personas que hayan participando (sic) en su comisión sino también quienes hayan participado en su preparación o en su encubrimiento.
-
-### CAPITULO I. DEL OBJETO
 
 ###### Artículo 5.
 
@@ -7830,3 +7856,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. Los Ayuntamientos deberán adecuar sus Bandos Municipales y demás ordenamientos legales, a la presente reforma en un plazo no mayor a treinta días, contados a partir de la entrada en vigor de la presente.
+
+G.G. 19 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno”.
+
+TERCERO. La Secretaría del Medio Ambiente del Estado de México, contará con un plazo de sesenta días naturales para adecuar el Reglamento del Libro Quinto del Código para la Biodiversidad del Estado de México y demás disposiciones en la materia.
