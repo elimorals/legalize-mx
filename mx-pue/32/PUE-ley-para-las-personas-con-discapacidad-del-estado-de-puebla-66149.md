@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-las-personas-con-discapacidad-del-estado-de-puebla-661
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-12"
-last_updated: "2014-11-13"
+last_updated: "2015-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2015.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 12 de enero de 2009.
 
@@ -473,9 +473,11 @@ V.- Rehabilitación laboral.
 
 El Sistema DIF, fomentará y establecerá, en coordinación con las instituciones involucradas, las actividades relativas al proceso de rehabilitación, llevándolo a los Municipios de la Entidad.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 28.
 
-Es obligación para quien ejerce la patria potestad o la tutela, que sus hijos o pupilos reciban la atención rehabilitadora en salud y educación, cuando se indique la necesidad de una atención especializada.
+Es obligación para quien o quienes ejercen la patria potestad, custodia o tutela, que sus hijos o pupilos reciban la atención rehabilitadora en salud y educación, cuando se requiera de una atención especializada, previa valoración en términos de lo dispuesto en esta ley.
 
 ###### Artículo 29.
 
@@ -818,6 +820,12 @@ SEGUNDO.- Todas las acciones derivadas de la aplicación del presente Decreto, e
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 13 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE AGOSTO DE 2015.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
