@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2015-03-16"
+last_updated: "2015-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "NLE"
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE AGOSTO DE 2015.</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -565,11 +567,13 @@ a) La expedición y reforma de la legislación penal, en su aspecto sustantivo y
 
 b) La expedición y reforma de las leyes relativas al Poder Judicial y a la Procuraduría General de Justicia;
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2002)</small>
 
-c) La aprobación para la designación de los Magistrados del Tribunal de Justicia Administrativa para el Estado y Municipios;
+c) Los nombramientos, licencias y renuncias de los Magistrados del Tribunal Superior de Justicia y de los Consejeros de la Judicatura del Estado; además de la aprobación para la designación del Presidente de la Comisión Estatal de Derechos Humanos, y su renuncia;
 
-d) La aprobación para la designación de los Magistrados del Tribunal de lo Contencioso Administrativo del Estado;
+(REFORMADO, P.O. 25 DE JUNIO DE 2014) (F. DE E., 19 DE AGOSTO DE 2015)
+
+d) La aprobación para la designación de los Magistrados del Tribunal de Justicia Administrativa para el Estado y Municipios;
 
 e) La aprobación para la designación del Procurador General de Justicia del Estado;
 
