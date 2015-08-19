@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5775
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-05"
-last_updated: "2014-11-19"
+last_updated: "2015-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -169,9 +169,11 @@ III.- Prever los mecanismos procesales respectivos para la acreditación de la v
 
 ### CAPÍTULO II. DE LA VIOLENCIA EN EL ÁMBITO LABORAL Y DOCENTE
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 10.
 
-La violencia en el ámbito laboral es toda acción u omisión realizada por el patrón o en su defecto por quien ejerza facultades de mando en dicho ámbito, encaminada a limitar, desacreditar, descalificar o nulificar el trabajo realizado por las mujeres, mediante la discriminación por su género, las amenazas, la intimidación y la explotación laboral, que afecte la permanencia, reconocimiento, salario y prestaciones de las mujeres en los espacios productivos.
+La violencia en el ámbito laboral es toda acción u omisión realizada por el patrón o en su defecto por quien ejerza facultades de mando en dicho ámbito, encaminada a limitar, desacreditar, descalificar o nulificar el trabajo realizado por las mujeres, mediante la discriminación por su género, las amenazas, la intimidación, el impedimento de llevar a cabo el periodo de lactancia previsto en la legislación de la materia, y la explotación laboral, que afecte la permanencia, reconocimiento, salario y prestaciones de las mujeres en los espacios productivos.
 
 ###### Artículo 11.
 
@@ -245,7 +247,7 @@ V.- La precaución razonable de seguridad que requieren las mujeres, que debe re
 
 ###### Artículo 19.
 
-Violencia feminicida es la forma extrema de violencia contra las mujeres producto de la violación de sus derechos humanos, en los ámbitos públicos y privado (sic) conformada por el conjunto de conductas misóginas que pueden culminar en Feminicidio.
+Violencia feminicida es la forma extrema de violencia contra las mujeres producto de la violación de sus derechos humanos, en los ámbitos públicos (sic) y privado conformada por el conjunto de conductas misóginas que pueden culminar en Feminicidio.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MAYO DE 2013)</small>
 
@@ -281,7 +283,23 @@ IV.- Violencia patrimonial.- Cualquier acto u omisión que afecta la supervivenc
 
 V.- Violencia económica.- Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral, y
 
-VI.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2015)</small>
+
+VI.- Violencia obstétrica.- Es toda conducta, acción u omisión que ejerza el personal de salud, de manera directa o indirecta, y que afecte a las mujeres durante los procesos de embarazo, parto puerperio, expresados en:
+
+a. Trato deshumanizado;
+
+b. Prácticas que no cuenten con el consentimiento informado de la mujer, como la esterilización forzada.
+
+c. Omisión de una atención oportuna y eficaz en urgencias obstétricas;
+
+d. No propiciar el apego precoz del niño con la madre, sin causa medica justificada.
+
+e. Alterar el proceso natural del parto de bajo riesgo, mediante su patologización, abuso de medicación, uso de técnicas de aceleración, sin que ellas sean necesarias, y;
+
+f. Practicar el parto vía cesárea cuando existan condiciones para el parto natural, sin obtener el consentimiento expreso e informado e (sic) la mujer embarazada
+
+VII.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ## TÍTULO TERCERO
 
@@ -435,7 +453,9 @@ Dichos refugios quedaran a cargo del Sistema para el Desarrollo Integral de la F
 
 La permanencia de las mujeres en los refugios no podrá ser mayor a tres meses a menos de que persista su estado de riesgo o de indefensión, para tales efectos, el personal médico, psicológico y jurídico del refugio evaluará la condición de las mujeres. En ningún caso permanecerán contra su voluntad.
 
-#### SECCIÓN TERCERA. DE LA SECRETARÍA DE FINANZAS Y PLANEACIÓN
+#### SECCIÓN TERCERA. DE LA SECRETARÍA DE HACIENDA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2015)</small>
 
 ### CAPÍTULO IV. DE LOS MODELOS DE SANCIÓN
 
@@ -573,7 +593,9 @@ El Sistema Estatal estará integrado por las y los titulares de las siguientes d
 
 I.- Secretaría de Gobierno;
 
-II.- Secretaría de Finanzas y Planeación;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2015)</small>
+
+II.- Secretaría de Hacienda.
 
 III.- Secretaría de Educación;
 
@@ -723,13 +745,15 @@ XII.- Celebrar convenios de cooperación y coordinación económica para financi
 
 XIII.- Las demás previstas para el cumplimiento de la presente ley.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE AGOSTO DE 2015)</small>
+
 #### SECCIÓN SEXTA. DE LA COMISIÓN ESTATAL DE SEGURIDAD PÚBLICA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE MARZO DE 2014)</small>
 
 ###### Artículo 53.
 
-Corresponde a la Secretaría de Finanzas y Planeación:
+Corresponde a la Secretaría de Hacienda:
 
 I.- Diseñar la política de planeación financiera para la prevención, atención, sanción y erradicación de la violencia contra las mujeres en el marco de la política integral con perspectiva de género;
 
@@ -1153,7 +1177,7 @@ PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, 
 
 SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del Estado de Morelos.
 
-TERCERA. Todas las referencias hechas en el marco normativa (sic) estatal, respecto de la Secretaría de Seguridad Pública o a la Policía Preventiva Estatal, se entenderán hechas al Comisionado Estatal de Seguridad Pública o a la Comisión Estatal de Seguridad Pública, según sea el caso.
+TERCERA. Todas las referencias hechas en el marco (sic) normativa estatal, respecto de la Secretaría de Seguridad Pública o a la Policía Preventiva Estatal, se entenderán hechas al Comisionado Estatal de Seguridad Pública o a la Comisión Estatal de Seguridad Pública, según sea el caso.
 
 CUARTA. Las Secretarías de Gobierno, de Administración, de Hacienda y de la Contraloría del Poder Ejecutivo Estatal, deberán tomar las medidas administrativas necesarias para que los recursos humanos, presupuestarios y materiales asignados a la Secretaría de Seguridad Pública en el Presupuesto de Egresos para el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre de 2014, se reasignen a la primera para la operación y funcionamiento de la Comisión Estatal de Seguridad Pública y el Órgano Desconcentrado denominado Secretariado Ejecutivo de Sistema Estatal Seguridad Pública.
 
@@ -1170,3 +1194,51 @@ P.O. 19 DE NOVIEMBRE DE 2014.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad, con los artículos 44, 47 y 70, fracción XVII inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 19 DE AGOSTO DE 2015.
+
+DECRETO NÚMERO 2751, POR EL QUE SE REFORMA EL ARTÍCULO 46 FRACCIÓN II Y LA SECCIÓN TERCERA DEL CAPÍTULO I DEL TÍTULO SEXTO, ASÍ COMO EL ARTÍCULO 53, DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente decreto al Titular del poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con lo dispuesto en los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto iniciara su vigencia a partir del día siguiente de su publicación en el Periódico oficial "Tierra y Libertad", Órgano de difusión de Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan con lo dispuesto por el presente decreto.
+
+P.O. 19 DE AGOSTO DE 2015.
+
+DECRETO NÚMERO 2752, POR EL QUE SE REFORMA EL ARTICULO 10 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con lo establecido en los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan con lo dispuesto por el presente decreto.
+
+P.O. 19 DE AGOSTO DE 2015.
+
+DECRETO NÚMERO 2753, POR EL QUE SE ADICIONA UNA FRACCIÓN VI, Y SE RECORRE A VII EN SU ORDEN LA SUBSECUENTE FRACCIÓN DEL ARTÍCULO 20 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con lo establecido en los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan con lo dispuesto por el presente decreto.
