@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-de-89623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-28"
-last_updated: "2015-07-29"
+last_updated: "2015-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 28 de septiembre de 2012.
 
@@ -872,6 +872,14 @@ XVII. Proponer iniciativas fiscales para el financiamiento y promoción de la Ci
 XVIII. Coordinar e integrar las actividades científicas, tecnológicas y de innovación que las dependencias y entidades de la administración pública federal, estatal y municipal realicen para llevar a cabo el objeto de la misma; y
 
 XIX. Crear los centros de investigación científica, tecnológica y de innovación en áreas estratégicas para el desarrollo sustentable, acordes al Plan Estatal de Desarrollo.
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2015)</small>
+
+XX. Promover la información básica para la solución de los problemas ambientales en el Estado de Morelos, procurando la cooperación entre el sector privado y el sector público, universidades y centro de investigación; y
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2015)</small>
+
+XXI. Presupuestar y gestionar el financiamiento adicional a las instituciones académicas y centros de investigación para el fomento y realización de investigaciones ambientales conforme a programas y proyectos específicos.
 
 ###### Artículo 32.
 
@@ -2008,3 +2016,13 @@ P.O. 29 DE JULIO DE 2015.
 PRIMERO. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los articulas 44, 47 y 70, fracción XVII, de la Constitución Política del Estado libre y Soberano de Morelos.
 
 SEGUNDO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+P.O. 19 DE AGOSTO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
