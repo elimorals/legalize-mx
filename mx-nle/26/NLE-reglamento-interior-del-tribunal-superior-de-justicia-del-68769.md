@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-tribunal-superior-de-justicia-del-68769
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-22"
-last_updated: "2015-03-30"
+last_updated: "2015-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 22 de mayo de 2009.
 
@@ -51,11 +51,13 @@ III. Los órganos auxiliares del Pleno y de la Presidencia;
 
 a) La Secretaría General de Acuerdos.
 
-b) Los secretarios auxiliares.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
+b) Los Secretarios Auxiliares.
 
-c) La Dirección Jurídica Consultiva y de Criterios Judiciales.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2015)</small>
+
+c) La Dirección de Transparencia.
 
 d) (DEROGADO, P.O. 27 DE FEBRERO DE 2013)
 
@@ -195,9 +197,7 @@ II. Los Jueces del Poder Judicial del Estado;
 
 III. Las partes interesadas;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
-
-IV. La Dirección Jurídica Consultiva y de Criterios Judiciales.
+IV. (DEROGADA, P.O. 19 DE AGOSTO DE 2015)
 
 ###### Artículo 17.
 
@@ -207,13 +207,13 @@ Alcances de la contradicción. La determinación que se dicte para resolver una 
 
 Oportunidad para denunciar contradicción. La denuncia de contradicción de criterios podrá ser planteada en cualquier tiempo, desde el momento en que haya sido pronunciada la resolución que contenga el criterio que se denuncia como contradictorio, sin perjuicio de los medios extraordinarios de impugnación que la ley prevé para las partes contendientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 19.
 
-Escrito de denuncia de contradicción. La presentación del escrito correspondiente se hará ante la Secretaría General de Acuerdos del Tribunal Superior de Justicia del Estado. La denuncia de contradicción que realicen los magistrados, jueces, partes interesadas o la Dirección Jurídica Consultiva y de Criterios Judiciales, deberá precisar los criterios que pudieran ser contradictorios, señalando los datos de identificación del expediente judicial y toca de apelación de los que deriven.
+Escrito de denuncia de contradicción. La presentación del escrito correspondiente se hará ante la Secretaría General de Acuerdos del Tribunal Superior de Justicia del Estado. La denuncia de contradicción que realicen los magistrados, jueces o las partes interesadas, deberá precisar los criterios que pudieran ser contradictorios, señalando los datos de identificación del expediente judicial y toca de apelación de los que deriven.
 
-Para el caso de que la contradicción sea planteada por las partes de los medios de impugnación o por sus abogados autorizados, deberán señalar bajo protesta de decir verdad su nombre completo, carácter con el que intervienen en el juicio, su domicilio para oír y recibir notificaciones, pudiendo además agregar las consideraciones que estimen convenientes en relación a la contradicción que denuncia.
+Para el caso de que la contradicción sea planteada por las partes de un procedimiento o por sus abogados autorizados, deberán señalar bajo protesta de decir verdad su nombre completo, carácter con el que intervienen en el mismo, su domicilio para oír y recibir notificaciones, pudiendo además agregar las consideraciones que estimen convenientes en relación a la contradicción que denuncia.
 
 ###### Artículo 20.
 
@@ -371,79 +371,57 @@ XVI. Las demás que le impongan la Constitución, las leyes aplicables y este Re
 
 De los secretarios auxiliares. Para el despacho de los asuntos de su competencia, el Pleno y la Presidencia contarán con el apoyo de los Secretarios Auxiliares. Éstos auxiliarán al Pleno, elaborando para los Magistrados a quienes se le haya turnado para ponencia un asunto, el respectivo proyecto de resolución; y auxiliarán a la Presidencia elaborando los dictámenes o proyectos que les encargue el Presidente directamente o por conducto del Secretario General de Acuerdos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 35.
 
-De la Dirección Jurídica Consultiva y de Criterios Judiciales. Para el despacho de los asuntos de su competencia, así como para la organización y depuración de los criterios judiciales contenidos en los fallos dictados por el Pleno y las salas del Tribunal Superior de Justicia, el Pleno y la Presidencia contarán con el apoyo de la Dirección Jurídica Consultiva y de Criterios Judiciales, la cual tendrá las siguientes atribuciones:
+De la Dirección de Transparencia. Para el despacho de los asuntos de su competencia, así como para garantizar el adecuado ejercicio de las atribuciones en materia de transparencia y acceso a la información en el Poder Judicial del Estado, el Pleno y la Presidencia contarán con el apoyo de la Dirección de Transparencia, la cual tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+I. Ser el Enlace de Transparencia, en los términos de la legislación de la materia;
 
-I. Establecer y mantener actualizado un sistema de información y consulta, para magistrados y jueces, sobre leyes estatales y federales relevantes para el Poder Judicial del Estado y sobre tesis obligatorias relevantes del Poder Judicial de la Federación.
+II. Establecer y mantener actualizado un sistema de información y consulta, para magistrados y jueces, sobre leyes estatales y federales relevantes para el Poder Judicial del Estado, y sobre tesis obligatorias relevantes del Poder Judicial de la Federación.
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+III. A solicitud del Presidente o del Pleno, realizar estudios y proyectos para el mejor funcionamiento de la institución en materia de transparencia y acceso a la información.
 
-II. A solicitud del Presidente o del Pleno, dar su opinión sobre la interpretación de leyes y reglamentos de orden estatal y federal.
+IV. A solicitud del Presidente o del Pleno, dar seguimiento a los planes y programas implementados por el Tribunal Superior de Justicia en materia de transparencia y acceso a la información.
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+V. Fomentar la transparencia y accesibilidad a la información al interior del Poder Judicial del Estado;
 
-III. A solicitud del Presidente o del Pleno, dar seguimiento a la implementación de las reformas a las leyes del Estado, emitiendo su opinión sobre el resultado de las mismas.
+VI. Llevar un registro de los acuerdos de reserva o de inexistencia de información que se emitan;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+VII. Compilar, depurar, sistematizar, publicar y difundir, con oportunidad, los criterios judiciales y jurisprudencias, así como las ejecutorias y votos emitidos por el Pleno y las salas del Tribunal Superior de Justicia del Estado.
 
-IV. A solicitud del Presidente o del Pleno, realizar estudios y proyectos orientados a lograr la adecuación de las leyes y reglamentos orgánicos, para el mejor funcionamiento de la institución.
+VIII. Establecer y mantener actualizado un sistema de información y consulta, para magistrados, jueces y público en general, sobre las tesis obligatorias y criterios judiciales relevantes que emita el Tribunal Superior de Justicia del Estado.
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
+IX. Proponer al Presidente y al magistrado respectivo, para su aprobación, los proyectos de tesis derivados de las ejecutorias emitidas por el Pleno y las salas del Tribunal Superior de Justicia del Estado, depurados o elaborados.
 
-V. A solicitud del Presidente o del Pleno, dar seguimiento a los planes y programas implementados por el Tribunal Superior de Justicia para mejorar la función jurisdiccional.
+X. Proponer al Pleno, para su aprobación, las reglas para la elaboración de las tesis que emite el Tribunal Superior de Justicia del Estado, en Pleno o en salas.
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+XI. Informar a la Presidencia sobre la posible existencia de contradicciones entre los criterios sustentados por las salas del Tribunal Superior de Justicia del Estado, en los términos de este reglamento.
 
-VI. Compilar, depurar, sistematizar, publicar y difundir, con oportunidad, los criterios judiciales y jurisprudencias, así como las ejecutorias y votos emitidos por el Pleno y las salas del Tribunal Superior de Justicia del Estado.
+XII. En el ámbito de su competencia, realizar los trámites internos necesarios para recabar la información pública de oficio, jurisdiccional y administrativa, en los términos de la ley de la materia, y publicarla en el apartado del portal oficial en Internet correspondiente;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
+XIII. Asegurar que se mantenga actualizada la información pública de oficio en Internet, dentro de los plazos establecidos; y,
 
-VII. Establecer y mantener actualizado un sistema de información y consulta, para magistrados, jueces y público en general, sobre las tesis obligatorias y criterios judiciales relevantes que emita el Tribunal Superior de Justicia del Estado.
+XIV. Llevar el archivo de la información pública de oficio, jurisdiccional y administrativa, publicada en Internet, su actualización y resguardo, en los términos en los que legalmente correspondan.
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
-
-VIII. Proponer al Presidente y al magistrado respectivo, para su aprobación, los proyectos de tesis derivados de las ejecutorias emitidas por el Pleno y las salas del Tribunal Superior de Justicia del Estado, depurados o elaborados.
-
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
-
-IX. Proponer al Pleno, para su aprobación, las reglas para la elaboración de las tesis que emite el Tribunal Superior de Justicia del Estado, en Pleno o en salas.
-
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
-
-X. Denunciar la posible existencia de contradicciones entre los criterios sustentados por las salas del Tribunal Superior de Justicia del Estado, en los términos de este reglamento.
-
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
-
-XI. Las demás que determine la Presidencia o el Pleno del Tribunal Superior de Justicia del Estado.
+XV. Las demás que determine la Presidencia o el Pleno del Tribunal Superior de Justicia del Estado.
 
 Artículo 35 bis. (DEROGADO, P.O. 27 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 36.
 
 De la publicación de las tesis. Las tesis relevantes del Pleno o de cualquiera de las Salas del Tribunal Superior, podrán ser publicadas atendiendo al siguiente procedimiento:
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+I. El Presidente del Pleno, o de una sala colegiada, o el magistrado titular de una sala unitaria, según corresponda, remitirán a la Dirección de Transparencia copia certificada de la resolución o sentencia emitida, en la que se contenga el criterio considerado relevante.
 
-I. El Presidente del Pleno, o de una sala colegiada, o el magistrado titular de una sala unitaria, según corresponda, remitirán a la Dirección Jurídica Consultiva y de Criterios Judiciales copia certificada de la resolución o sentencia emitida, en la que se contenga el criterio considerado relevante.
+II. En caso de que se acompañe el proyecto de tesis respectivo, junto con la copia certificada del fallo que contenga el criterio considerado relevante, el Director de Transparencia revisará que éste se ajuste a las reglas de elaboración implementadas para tal efecto y, en su caso, lo depurará para la consecución de ese fin. De no anexarse el proyecto de tesis correspondiente, la Dirección procederá a elaborarlo. Una vez depurado o elaborado el proyecto de tesis, se presentará al Presidente del Tribunal y a los magistrados integrantes del Pleno o de la sala remitente, para su aprobación.
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+III. Aprobado el proyecto de tesis, el Director de Transparencia lo incorporará al sistema consultable por magistrados, jueces y público en general, dándole un formato que incluya, cuando menos, el número sucesivo que lo identifique, rubro, texto y precedentes. Además, lo publicará en los medios de difusión más idóneos con que cuenta esta institución.
 
-II. En caso de que se acompañe el proyecto de tesis respectivo, junto con la copia certificada del fallo que contenga el criterio considerado relevante, el Director Jurídico Consultivo y de Criterios Judiciales revisará que éste se ajuste a las reglas de elaboración implementadas para tal efecto y, en su caso, lo depurará para la consecución de ese fin. De no anexarse el proyecto de tesis correspondiente, la Dirección procederá a elaborarlo. Una vez depurado o elaborado el proyecto de tesis, se presentará al Presidente del Tribunal y a los magistrados integrantes del Pleno o de la sala remitente, para su aprobación.
-
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
-
-III. Aprobado el proyecto de tesis, el Director Jurídico Consultivo y de Criterios Judiciales lo incorporará al sistema consultable por magistrados, jueces y público en general, dándole un formato que incluya, cuando menos, el número sucesivo que lo identifique, rubro, texto y precedentes. Además, lo publicará en los medios de difusión más idóneos con que cuenta esta institución.
-
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
-
-Las tesis obligatorias, que son las sustentadas por el Pleno al resolver una contradicción de criterios, además de publicarse en el Boletín Judicial, también se publicarán por los mismos medios que las tesis relevantes. Para la redacción uniforme de estas tesis obligatorias, el ponente del proyecto de resolución que resuelve una contradicción de criterios, antes de presentar el proyecto al Pleno, podrá consultar la opinión de la Dirección Jurídica Consultiva y de Criterios Judiciales.
+Las tesis obligatorias, que son las sustentadas por el Pleno al resolver una contradicción de criterios, además de publicarse en el Boletín Judicial, también se publicarán por los mismos medios que las tesis relevantes. Para la redacción uniforme de estas tesis obligatorias, el ponente del proyecto de resolución que resuelve una contradicción de criterios, antes de presentar el proyecto al Pleno, podrá consultar la opinión de la Dirección de Transparencia.
 
 ## TÍTULO QUINTO.
 
@@ -812,6 +790,12 @@ SEGUNDO: Se ordena la publicación del presente Acuerdo, por una sola vez, en el
 P.O. 30 DE MARZO DE 2015.
 
 PRIMERO: La reforma al Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León, contenida en este Acuerdo General, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se ordena la publicación del presente Acuerdo, por una sola vez, en el Boletín Judicial del Estado y en el Periódico Oficial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
+
+P.O. 19 DE AGOSTO DE 2015.
+
+PRIMERO: Las reformas al Reglamento Interior del Tribunal Superior de Justicia del Estado de Nuevo León, contenidas en este Acuerdo General, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Se ordena la publicación del presente Acuerdo, por una sola vez, en el Boletín Judicial del Estado y en el Periódico Oficial del Estado, para el conocimiento del personal y del público en general, y su debido cumplimiento.
 
