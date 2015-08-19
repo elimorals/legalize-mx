@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ingresos-del-estado-de-chihuahua-para-el-ejercicio-10409
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2014-12-20"
-last_updated: "2014-12-20"
+last_updated: "2015-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE INGRESOS DEL ESTADO DE CHIHUAHUA PARA EL EJERCICIO FISCAL 2015
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2015.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 20 de diciembre de 2014.
 
@@ -177,6 +177,30 @@ La fuente de pago de los certificados bursátiles fiduciarios referidos en el p�
 
 En atención a la fuente de pago de los certificados bursátiles fiduciarios, estos deberán prever que solo podrán adquirirse por personas físicas o morales de nacionalidad mexicana y deberán ser pagaderos en moneda nacional y dentro del territorio del país.
 
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO DECIMOSEXTO BIS.- Si las condiciones del mercado favorecen una opción distinta a la bursatilización descrita en el Artículo Decimosexto anterior, se autoriza al Ejecutivo a celebrar, por conducto de la Secretaría de Hacienda, financiamiento diferente a dicha bursatilización exclusivamente y hasta por el mismo monto a que se refiere el primer párrafo del Artículo Decimosexto. A su vez, dicho financiamiento podrá tener un plazo distinto al descrito en el Artículo Decimosexto anterior, plazo que será aquel que el Ejecutivo, por conducto de la Secretaría de Hacienda, acuerde con el o los respectivos acreditantes en su momento.
+
+En el financiamiento antes mencionado podrán convenirse todos los términos y condiciones permitidos por la normatividad aplicable, así como por las autoridades bancarias y financieras competentes, por los mercados financieros y bancarios, por los usos bancarios y demás aplicables, que resulten necesarios y convenientes para la debida celebración del mismo.
+
+Además, dicho financiamiento podrá contar única y exclusivamente con las fuentes de pago siguientes:
+
+a) Con los derechos y recursos que le corresponden y que tenga derecho a recibir el Estado en su calidad de fideicomisario en tercer lugar del Fideicomiso número 80672 celebrado el 21 de agosto de 2013, entre el Estado, en su calidad de fideicomitente y fideicomisario en tercer lugar, Nacional Financiera, S.N.C., Institución de Banca de Desarrollo, en su calidad de fiduciario, Banco Nacional de Obras y Servicios Públicos, S.N.C., Institución de Banca de Desarrollo, en su calidad de fideicomisario en segundo lugar.
+
+Al efecto, se autoriza al Ejecutivo para que, por conducto de la Secretaría de Hacienda, constituya un fideicomiso irrevocable, de administración, fuente de pago y/o garantía, con carácter de fideicomitente y/o fideicomisario y, en general, que utilice y celebre cualquier instrumento o mecanismo, necesario o conveniente, con el objeto de afectar única y exclusivamente los derechos y recursos a que se refiere el presente inciso y, consecuentemente, garantizar y/o efectuar el pago del financiamiento a que se refiere el presente Artículo Decimosexto Bis.
+
+En caso de que el financiamiento cuente con la fuente de pago a que se hace referencia en el presente inciso, este no constituirá deuda total financiera, según dicho concepto fue acordado con los acreedores del Estado en términos de la operación de reestructura y refinanciamiento de la deuda pública del Estado implementada con fundamento en el Decreto No. 1370/2013 XIII P.E. y/o
+
+b) Los recursos que integren de tiempo en tiempo el patrimonio del Fideicomiso Maestro Irrevocable de Administración y Fuente de Pago No. F/0152, de fecha 26 de noviembre de 2013, celebrado por el Estado, como fideicomitente y fideicomisario en tercer lugar, y Evercore Casa de Bolsa, S.A. de C.V., División Fiduciaria, como fiduciario; en el entendido, sin embargo, que el financiamiento deberá cumplir con los términos y condiciones que se señalan en el Fideicomiso a que se refiere el presente inciso, para que este sea la fuente de pago del financiamiento.
+
+Los recursos que reciba el Estado con motivo de la celebración del financiamiento materia del presente artículo, al igual que la bursatilización a que se refiere el Artículo Decimosexto, deberán de destinarse a las inversiones públicas productivas que se enlistan a continuación y en el siguiente orden de prelación:
+
+a) El pago de cualesquiera gastos que se generen y que se encuentren estrictamente relacionados con el diseño, estructuración, instrumentación y celebración del financiamiento; incluyendo, sin limitar, el pago de los honorarios de los asesores y fedatarios públicos que asistan al Estado en las actividades antes descritas, y
+
+b) La entrega al Estado, a través del Fondo para el Desarrollo de Infraestructura, creado mediante Decreto No. 446/02 I P.O. y publicado en el Periódico Oficial del Estado el 9 de noviembre de 2002, para que dicho fondo destine los recursos que reciba a inversiones públicas productivas.
+
+Los recursos que obtenga el Estado, a través del Fondo para el Desarrollo de Infraestructura, no podrán aplicarse, en ningún caso, a gasto corriente.
+
 ARTÍCULO DECIMOSÉPTIMO.- En el contrato de fideicomiso podrán convenirse todas las condiciones permitidas y exigidas por la normatividad aplicable, por las autoridades e instituciones bancarias y bursátiles, por los mercados financiero y bursátil, aquellas acordes a los usos bancarios y fiduciarios, y las demás que sean necesarias o convenientes para la emisión y colocación de los instrumentos bursátiles, pero observando los siguientes lineamientos:
 
 I. Partes. Serán partes en el fideicomiso:
@@ -249,25 +273,27 @@ VIII. El Fideicomiso, en atención al fin a que se refiere el Artículo Decimose
 
 ARTÍCULO DECIMOCTAVO.- En el Fideicomiso a que se refieren los Artículos Decimosexto y Decimoséptimo anteriores se deberá estipular que, una vez que se hayan liquidado en su totalidad las obligaciones de pago a cargo de dicho fideicomiso se revertirán al Estado los bienes, ingresos o derechos fideicomitidos, así como cualesquiera cantidades líquidas que existieran en las cuentas del fideicomiso.
 
-ARTÍCULO DECIMONOVENO.- Se autoriza al Ejecutivo del Estado para que, por conducto de la Secretaría de Hacienda, negocie y acuerde todas las bases, condiciones, términos y modalidades, convenientes o necesarios, en los contratos, convenios y demás documentos relacionados con la emisión de los certificados bursátiles fiduciarios, así como para efectuar todos los actos que se requieran o sean convenientes para ejercer las autorizaciones concedidas en los Artículos Decimosexto y Decimoséptimo anteriores.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2015)</small>
 
-Asimismo, se autoriza al Ejecutivo del Estado, a través de la Secretaría de Hacienda, para realizar las contrataciones y erogaciones que resulten necesarias para pagar los gastos de constitución, aportación inicial, operación, constitución de fondos de contingencia y/o reserva y, en general, cualesquiera otros asociados a la constitución del fideicomiso, emisión de valores, obtención de dictámenes de agencias calificadoras y/o la contratación de las asesorías y servicios que, en su caso, se requieran para el diseño, estructuración, instrumentación y colocación de la operación a que se refieren los Artículos Decimosexto y Decimoséptimo anteriores, ya sea directamente o en términos de la fracción VI del Artículo Decimoséptimo anterior.
+ARTÍCULO DECIMONOVENO.- Se autoriza al Ejecutivo del Estado para que, por conducto de la Secretaría de Hacienda, negocie y acuerde todas las bases, condiciones, términos y modalidades, convenientes o necesarios, en los contratos y demás documentos relacionados con la emisión de certificados bursátiles fiduciarios referida en el Artículo Decimosexto y/o con el financiamiento referido en el Artículo Decimosexto Bis, así como para efectuar todos los actos que se requieran o sean convenientes para ejercer las autorizaciones contenidas en los Artículos Decimosexto, Decimosexto Bis y Decimoséptimo anteriores.
+
+Asimismo, se autoriza al Ejecutivo del Estado, a través de la Secretaría de Hacienda, para realizar las contrataciones y erogaciones que resulten necesarias para pagar los gastos de constitución, celebración, suscripción, aportación inicial, operación, constitución de fondos de contingencia y/o reserva y, en general, cualesquiera otros asociados a la constitución del fideicomiso, emisión de valores, celebración del financiamiento, obtención de dictámenes de agencias calificadoras y/o la contratación de las asesorías y servicios que, en su caso, se requieran para el diseño, estructuración, instrumentación, colocación y/o celebración de las operaciones a que se refieren los Artículos Decimosexto, Decimosexto Bis y Decimoséptimo anteriores, ya sea directamente o en términos de la fracción VI del Artículo Decimoséptimo anterior, en este último caso, exclusivamente por lo que se refiere a la emisión de certificados bursátiles fiduciarios prevista en el Artículo Decimosexto anterior.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2015)</small>
 
 ###### ARTÍCULO VIGÉSIMO.
 
-El Fondo para el Desarrollo de Infraestructura deberá tener un control de los recursos que reciba del Fideicomiso que se constituya al amparo de los Artículos Decimosexto y Decimoséptimo anteriores, independiente del resto de recursos que integran dicho fondo.
-
-Los recursos netos que obtenga el Estado por la emisión y colocación de los certificados bursátiles fiduciarios serán aplicados por el Fondo, primordialmente a inversiones públicas productivas en materia de infraestructura.
-
-Lo anterior, sin perjuicio de las autorizaciones que el Gobierno del Estado deba obtener de la Secretaría de Comunicaciones y Transportes del Gobierno Federal, respecto de las inversiones públicas productivas a realizar en los términos establecidos en las concesiones federales.
+El Fondo para el Desarrollo de Infraestructura deberá tener un control de los recursos que reciba de (i) el Fideicomiso que se constituya al amparo de los Artículos Decimosexto y Decimoséptimo anteriores; o (ii) directamente del Estado con motivo de la celebración del financiamiento a que se refiere el Artículo Decimosexto Bis; independientemente del resto de los recursos que integren de tiempo en tiempo dicho fondo.
 
 ###### ARTÍCULO VIGÉSIMO PRIMERO.
 
 El Ejecutivo del Estado deberá acompañar los estados financieros del Fideicomiso a que se refieren los Artículos Decimosexto y Decimoséptimo anteriores a la Cuenta Pública Anual.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2015)</small>
+
 ###### ARTÍCULO VIGÉSIMO SEGUNDO.
 
-En términos del artículo 39, fracción II, de la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público del Estado, el Ejecutivo del Estado, a través de la Secretaría de Hacienda, realizará las asignaciones y/o ampliaciones presupuestarias que procedan para atender las inversiones públicas productivas a que se refiere el Artículo Vigésimo, con cargo a los recursos netos que reciba el Estado por la emisión y colocación de los certificados bursátiles fiduciarios.
+En términos del artículo 45, fracción II, de la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público del Estado, el Ejecutivo del Estado, a través de la Secretaría de Hacienda, realizará las asignaciones y/o ampliaciones presupuestarias que procedan para atender las inversiones públicas productivas a que se refiere el Artículo Vigésimo, con cargo a los recursos netos que reciba el Estado por (i) la emisión y colocación de los certificados bursátiles fiduciarios a que se refiere el Artículo Decimosexto anterior; o (ii) el financiamiento que se otorgue al Estado al amparo del Artículo Decimosexto Bis anterior, según corresponda.
 
 T R A N S I T O R I O S
 
@@ -298,3 +324,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los dieciocho días del mes de diciembre del año dos mil catorce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. RAYMUNDO ROMERO MALDONADO. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE AGOSTO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
