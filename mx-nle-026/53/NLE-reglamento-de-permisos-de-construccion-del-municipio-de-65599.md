@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-permisos-de-construccion-del-municipio-de-65599"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-12-22"
-last_updated: "2013-01-18"
+last_updated: "2015-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "NLE"
 
 REGLAMENTO DE PERMISOS DE CONSTRUCCIÓN DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de diciembre de 2008.
 
@@ -242,7 +242,7 @@ Para obtener la aprobación como Director Responsable de Obra deberá presentar 
 
 Son obligaciones del Director Responsable de Obra:
 
-I.- Vigilar que la obra cumpla con lo establecido en el proyecto y los ordenamientos aplicables y demás disposiciones a que se refiere el presente Reglamento; y (sic)
+I.- Vigilar que la obra cumpla con lo establecido en el proyecto y los ordenamientos aplicables y demás disposiciones a que se refiere el presente Reglamento; y
 
 II.- Responder de cualquier violación a este Reglamento y demás disposiciones aplicables. En caso de no ser atendidas por el propietario de la obra las instrucciones del Director Responsable de obra, en relación al cumplimiento del reglamento, deberá notificarlo de inmediato a la autoridad que expidió la licencia para que ésta proceda a la suspensión de los trabajos.
 
@@ -390,9 +390,11 @@ Toda edificación ubicada dentro de los límites del Municipio de Guadalupe, deb
 
 Previa a la solicitud del propietario o poseedor, para la expedición de la licencia de construcción, aquél deberá obtener de la Autoridad correspondiente, las autorizaciones de Uso de Suelo en los términos del Plan, así como las relativas a la división o subdivisión de predios cuando la construcción lo implique.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2015)</small>
+
 ###### ARTÍCULO 37.
 
-Para la obtención de la licencia de construcción, el interesado deberá entregar el expediente debidamente integrado y efectuar el pago de los derechos correspondientes.
+Para la obtención de la licencia de construcción, el interesado deberá entregar el expediente debidamente integrado y efectuar el pago de los derechos y de los vistos buenos o dictámenes preventivos correspondientes.
 
 La gestión de la Licencia de Uso de Suelo y el Permiso de Construcción pueden ser realizados por una persona distinta al propietario, debiendo presentar carta poder simple además de la documentación requerida por la dependencia o carta poder notariada según sea el caso.
 
@@ -666,6 +668,10 @@ Los propietarios, poseedores o inquilinos, están obligados a manifestar por esc
 
 En las obras que requieren Autorización de Uso del Suelo o dictamen aprobatorio, así como las señaladas en el artículo siguiente, deberán acompañar a la manifestación de terminación de obras, el visto bueno de seguridad y operación, por el cual se haga constar que las edificaciones e instalaciones correspondientes, reúnen las condiciones de seguridad para su operación que señala este Reglamento y que las pruebas de carga, resultaran satisfactorias.
 
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2015)</small>
+
+Así mismo deberán acompañar el visto bueno o dictamen en el que se haga constar que reúne las condiciones de seguridad establecidas por la dependencia municipal de Protección Civil y Bomberos.
+
 ARTÍCULOS 68. Requieren el visto bueno de seguridad y operación, las edificaciones e instalaciones que a continuación se mencionan.
 
 I.- Escuela (sic) públicas o privadas y cualesquiera otras instalaciones destinadas a la enseñanza.
@@ -694,7 +700,9 @@ Para los inmuebles destinados a vivienda: su ubicación, señalando calle y núm
 
 Para los inmuebles que no estén destinados a vivienda: su ubicación, señalando calle y número, la colonia en que se ubican, el número y fecha de la licencia de construcción y los usos autorizados, así como la siguiente leyenda.
 
-“Los derechos que se cause por la expedición, colocación, así como la reposición de la licencia, se determinarán de acuerdo con lo previsto por la Ley de Hacienda del Municipios”
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2015)</small>
+
+Los derechos que se cause por la expedición, colocación, así como la reposición de la licencia y vistos buenos o dictámenes de las diversas dependencias involucradas, se determinaran de acuerdo con lo previsto por la Ley de Hacienda de los Municipios, o lo establecido en este reglamento conforme a la Ley citada.
 
 ###### ARTÍCULO 70.
 
@@ -750,11 +758,11 @@ Cuando el predio limite con arroyo o río, se debe presentar el visto bueno de l
 
 ### CAPITULO TERCERO. DE LOS DICTÁMENES PREVENTIVOS
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2015)</small>
 
 ###### ARTÍCULO 80.
 
-Si en la Matriz de usos y destinos del suelo y zonificación de las áreas urbanas y urbanizables y estacionamientos necesarios se presente un uso condicionado, a la Secretaría de Desarrollo Urbano y Obras Públicas del Municipio, sus órganos técnicos o las instancias correspondientes elaborarán los dictámenes donde se fijará el tipo de condicionante aplicable, las medidas preventivas, restrictivas o compensatorias que resulten. Las condicionantes serán de siete tipos: vial, riesgo, ambiental, protección al entorno ambiental, impacto social, estabilidad estructural y protección civil.
+Si en la Matriz de usos y destinos del suelo y zonificación de las áreas urbanas y urbanizables y estacionamientos necesarios se presente un uso condicionado, a la Secretaría de Desarrollo Urbano y Obras Públicas del Municipio, sus órganos técnicos o las instancias correspondientes elaborarán los dictámenes donde se fijará el tipo de condicionante aplicable, las medidas preventivas, restrictivas o compensatorias que resulten. Las condiciones serán de ocho tipos: vial, riesgo, ambiental, protección al entorno ambiental, impacto social, estabilidad estructura, protección civil e incendio.
 
 La Secretaría de Desarrollo Urbano y Obras Públicas por medio de las instancias correspondientes tendrá un plazo máximo de diez días hábiles para emitir respuesta a los dictámenes señalados en el párrafo anterior.
 
@@ -791,6 +799,10 @@ Para el dictamen de estabilidad estructural, la dependencia responsable de Permi
 ###### ARTÍCULO 86.
 
 Protección Civil del Municipio será quien emita los dictámenes correspondientes a la materia con el objeto de asegurar que los proyectos consideren las normas estatales y federales en la materia.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2015)</small>
+
+El Patronato de Bomberos de Ciudad Guadalupe Nuevo León A.C., será quien emita el visto bueno o dictamen correspondientes a la materia de prevención de incendio, previa (sic) pago de la cuota correspondiente.
 
 ## TITULO SEPTIMO. PROYECTO ARQUITECTÓNICO
 
@@ -1270,7 +1282,7 @@ Las normas técnicas que se indican en este Reglamento, definirán los requisito
 
 Para los efectos de este titulo, las construcciones se clasifican en los siguientes grupos:
 
-I. Grupo A: Construcciones cuya falla estructural podría causar la perdida de un número elevado de vidas o pérdidas económicas o culturales importantes, o que constituyan un peligro significativo por contener sustancias toxicas o explosivas, así como construcciones cuyo funcionamiento es esencial a raíz de una emergencia urbana, como hospitales, escuelas, estadios, templos, salas de espectáculos y hoteles que tengan salas de reunión que puedan alojar más de 200 personas, gasolineras, depósitos de sustancias inflamables o tóxicas, terminales de transporte, estaciones de bomberos, subestaciones eléctricas y centrales telefónicas y de telecomunicaciones, archivo y registros públicos de particular importancia a juicio del gobierno del estado, museos, monumentos y locales que alojen equipo especialmente costoso y (sic).
+I. Grupo A: Construcciones cuya falla estructural podría causar la perdida de un número elevado de vidas o pérdidas económicas o culturales importantes, o que constituyan un peligro significativo por contener sustancias toxicas o explosivas, así como construcciones cuyo funcionamiento es esencial a raíz de una emergencia urbana, como hospitales, escuelas, estadios, templos, salas de espectáculos y hoteles que tengan salas de reunión que puedan alojar más de 200 personas, gasolineras, depósitos de sustancias inflamables o tóxicas, terminales de transporte, estaciones de bomberos, subestaciones eléctricas y centrales telefónicas y de telecomunicaciones, archivo y registros públicos de particular importancia a juicio del gobierno del estado, museos, monumentos y locales que alojen equipo especialmente costoso y.
 
 II. Grupos (sic) B: Construcciones comunes destinadas a vivienda, oficinas y locales comerciales, y construcciones comerciales e industriales no incluidas en el grupo A.
 
@@ -1296,7 +1308,7 @@ Cuando se vaya a colocar un anuncio, este deberá regirse por el Reglamento de a
 
 Toda estructura y cada una de sus partes, deberán diseñar para cumplir con los requisitos básicos siguientes:
 
-I.- Tener seguridad adecuada contra la aparición de todo estado limite de falla posible ante las combinaciones de acciones más desfavorables que puedan presentarse durante su vida esperada y (sic).
+I.- Tener seguridad adecuada contra la aparición de todo estado limite de falla posible ante las combinaciones de acciones más desfavorables que puedan presentarse durante su vida esperada y.
 
 II.- No rebasar ningún estado limite de servicio ante combinaciones de acciones, que correspondan a condiciones normales de operaciones.
 
@@ -2079,3 +2091,13 @@ P.O. 18 DE ENERO DE 2013.
 PRIMERO.- Las presentes reformas al Reglamento de Permisos de Construcción del Municipio de Guadalupe, Nuevo León, entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Gírese el presente acuerdo de reformas al Reglamento de Permisos de Construcción del Municipio de Guadalupe, Nuevo León, al Presidente Municipal para que instruya al Secretario de Ayuntamiento para que lo remita para a (sic) su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal, y en el Sitio Oficial de Internet del Municipio.
+
+P.O. 19 DE AGOSTO DE 2015.
+
+Artículo Primero.- Las presentes reformas al REGLAMENTO (SIC) CONSTRUCCIÓN DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Artículo Segundo.- Se abrogan todas aquellas disposiciones, acuerdos y normas que se opongan o contravengan al presente ordenamiento.
+
+Artículo Tercero.- Las (sic) asuntos en trámite antes de la vigencia de las presentes reformas al Reglamento de Construcción se desahogarán conforme a la normatividad modificada, los interesados podrán optar por la continuación de la autorización o allanarse al procedimiento establecido en las presentes reformas.
+
+Artículo Cuarto.- Remítase al C. Presidente Municipal a fin de que tenga a bien instruir al C. Secretario del Ayuntamiento, para que envíe el presente acuerdo para su publicación en el Periódico Oficial del Estado y en la Gaceta Municipal, para los efectos jurídicos conducentes.
