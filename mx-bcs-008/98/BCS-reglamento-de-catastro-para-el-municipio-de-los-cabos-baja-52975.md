@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-de-catastro-para-el-municipio-de-los-cabos-baja-5297
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-27"
-last_updated: "2006-12-27"
+last_updated: "2015-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "BCS"
 
 REGLAMENTO DE CATASTRO PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE CATASTRO DEL MUNICIPIO DE LOS CABOS, B.C.S., PUBLICADO EN EL B.O. DE 20 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el miércoles 27 de diciembre de 2006.
 
@@ -794,3 +796,13 @@ SUFRAGIO EFECTIVO. NO-REELECCIÓN
 EL SECRETARIO GENERAL MUNICIPAL
 
 C. ARIEL CASTRO CÁRDENAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 20 DE AGOSTO DE 2015.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se abroga el Reglamento de Catastro del Municipio de Los Cabos, publicado en el Periódico Oficial del Gobierno del Estado de Baja California Sur el día 27 de diciembre de 2006.
+
+TERCERO.- En tanto la Dirección de Catastro del Municipio de los Cabos no tenga la capacidad técnica para el uso de medios electrónicos o para implementar la Clave Catastral Estándar establecida en la Norma Técnica del INEGI para la Generación, Captación e Integración de Datos Catastrales y Registrales, a que se refiere este Reglamento, podrá seguir utilizando los procedimientos establecidos previamente.
