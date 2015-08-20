@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-justicia-alternativa-del-tribunal-superior-de-57806"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-08"
-last_updated: "2014-12-18"
+last_updated: "2015-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57806&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-12-20"
 
 LEY DE JUSTICIA ALTERNATIVA DEL TRIBUNAL SUPERIOR DE JUSTICIA PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE AGOSTO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 8 de enero de 2008.
 
@@ -74,6 +74,14 @@ III. Centro: Centro de Justicia Alternativa del Tribunal Superior de Justicia de
 
 IV. Consejo: Consejo de la Judicatura del Distrito Federal.
 
+> <small>(ADICIONADA, G.O. 20 DE AGOSTO DE 2015)</small>
+
+IV Bis. Consejo Consultivo: Consejo Consultivo para el Desarrollo de la Mediación.
+
+> <small>(ADICIONADA, G.O. 20 DE AGOSTO DE 2015)</small>
+
+IV Ter. Consejo de certificación: Consejo de Certificación en Sede Judicial.
+
 V. Co - mediación: procedimiento complementario de la mediación, con el cual se enriquece ésta, a partir de la intervención de otro u otros mediadores.
 
 VI. Co - mediador: mediador autorizado por el Centro para asistir al mediador asignado a la atención de una determinada controversia, aportando sus experiencias, conocimientos y habilidades.
@@ -82,11 +90,23 @@ VI. Co - mediador: mediador autorizado por el Centro para asistir al mediador as
 
 VI bis. Comité: Comité Revisor de las Evidencias de Evaluación.
 
+> <small>(ADICIONADA, G.O. 20 DE AGOSTO DE 2015)</small>
+
+VI Ter. Facilitador: El profesional certificado del Órgano cuya función es facilitar la participación de los intervinientes en los Mecanismos Alternativos en Materia Penal.
+
 VII. Instituto: Instituto de Estudios Judiciales del Tribunal Superior de Justicia del Distrito Federal.
 
 VIII. Justicia alternativa: procedimientos distintos a los jurisdiccionales para la solución de controversias entre particulares.
 
 IX. Ley: Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal.
+
+> <small>(ADICIONADA, G.O. 20 DE AGOSTO DE 2015)</small>
+
+IX Bis. Ley Nacional: Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal.
+
+> <small>(ADICIONADA, G.O. 20 DE AGOSTO DE 2015)</small>
+
+IX Ter. Mecanismos alternativos en materia penal: la mediación, la conciliación y la junta restaurativa.
 
 X. Mediación: procedimiento voluntario por el cual dos o más personas involucradas en una controversia, a las cuales se les denomina mediados, buscan y construyen una solución satisfactoria a la misma, con la asistencia de un tercero imparcial denominado mediador.
 
@@ -140,11 +160,11 @@ La mediación tiene como objetivo fomentar una convivencia social armónica, a t
 
 La mediación, como método de gestión de conflictos, pretende asimismo evitar la apertura de procesos judiciales de carácter contencioso y poner fin a los ya iniciados.
 
-> <small>(REFORMADO, G.O. 8 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 4.
 
-La mediación procederá de la voluntad mutua de los particulares de someterse a ella para solucionar una controversia común. Los jueces del Distrito Federal podrán, de conformidad con lo dispuesto en la legislación aplicable, ordenar a los particulares que acudan al Centro para intentar solucionar sus controversias a través de la mediación.
+La mediación procederá de la voluntad mutua de los particulares de someterse a ella para solucionar o prevenir una controversia común. Los jueces del Distrito Federal podrán, de conformidad con lo dispuesto en la legislación aplicable, ordenar a los particulares que acudan al procedimiento de mediación a que se refiere la Ley, e intenten, a través de dicho procedimiento, llegar a un acuerdo que ponga fin a la controversia, decretando además la suspensión del juicio hasta por el término de dos meses.
 
 ###### Artículo 5.
 
@@ -154,21 +174,53 @@ I. En materia civil, las controversias que deriven de relaciones entre particula
 
 II. En materia mercantil, las que deriven de relaciones entre comerciantes, en razón de su participación en actos de comercio, considerados así por las leyes correspondientes.
 
-III. En materia familiar, las controversias que deriven de las relaciones entre las personas que se encuentren unidas en matrimonio, concubinato, sociedad de convivencia o, aun cuando no se encuentren en dichos supuestos, tengan hijos en común; entre personas unidas por algún lazo de parentesco por consanguinidad, por afinidad o civil; así como los que surjan de esas relaciones con terceros.
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2015)</small>
+
+III. En materia familiar, las controversias que deriven de las relaciones entre las personas que se encuentren unidas en matrimonio, concubinato, sociedad de convivencia o, aun cuando no se encuentren en dichos supuestos, tengan hijos en común; entre personas unidas por algún lazo de parentesco por consanguinidad, por afinidad o civil; las que surjan de esas relaciones con terceros, así como por sucesiones testamentarias e intestamentarias;
+
+(NOTA: EL 13 DE OCTUBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE AGOSTO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE AGOSTO DE 2015)</small>
+
+IV. EN MATERIA PENAL, LA APLICACIÓN DE LOS MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS, DENTRO DEL MARCO DE LA JUSTICIA RESTAURATIVA, PROCEDERÁ EN LAS CONTROVERSIAS ENTRE PARTICULARES ORIGINADAS POR LA COMISIÓN DE UN DELITO, Y ÉSTE:
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+A).- SE PERSIGA POR QUERELLA O REQUISITO EQUIVALENTE DE PARTE OFENDIDA;
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+B).- SEA UN DELITO CULPOSO; O
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
+C).- SEA UN DELITO O UN DELITO PATRIMONIAL COMETIDO SIN VIOLENCIA SOBRE LAS PERSONAS; O NO SE TRATE DE DELITOS DE VIOLENCIA FAMILIAR;
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2015)</small>
+
+ESTOS SUPUESTOS NECESARIAMENTE APLICARÁN RESPECTO DEL SISTEMA PENAL ADVERSARIAL, ESPECÍFICAMENTE, PARA LA ATENCIÓN DE LAS FORMAS DE SOLUCIÓN ALTERNA DEL PROCEDIMIENTO, EN TÉRMINOS DE LA LEY NACIONAL Y DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES.
+
+(NOTA: EL 13 DE OCTUBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV BIS DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE AGOSTO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, G.O. 20 DE AGOSTO DE 2015)</small>
+
+IV BIS. EN MATERIA PENAL, LA MEDIACIÓN TAMBIÉN PROCEDERÁ, EN EL MARCO DE LA JUSTICIA RESTAURATIVA, Y PREVIO AL INICIO DEL PROCESO PENAL, EN LAS CONTROVERSIAS ENTRE PARTICULARES ORIGINADAS POR LA COMISIÓN DE UNA CONDUCTA TIPIFICADA COMO DELITO QUE SE PERSIGA POR QUERELLA, Y AL CONCLUIR EL PROCESO PENAL, RESPECTO DE CONDUCTAS TIPIFICADAS COMO DELITOS GRAVES Y PERSEGUIBLES DE OFICIO, EN TRATÁNDOSE DE LA REPARACIÓN DEL DAÑO, EXCLUSIVAMENTE PARA EFECTOS RESTAURATIVOS Y DE RECOMPOSICIÓN DEL TEJIDO SOCIAL CUANDO LA VÍCTIMA U OFENDIDO DEL DELITO LO SOLICITE, EN TÉRMINOS DEL REGLAMENTO, INDEPENDIENTEMENTE DE QUE SE HAYA REPARADO EL DAÑO Y DE QUE EL AUTOR DE LA CONDUCTA DELICTIVA SE ENCUENTRE CUMPLIENDO UNA SENTENCIA.
+
+LO ANTERIOR, SIEMPRE QUE NO SE CONTRAVENGA DISPOSICIÓN LEGAL ALGUNA.
+
+(NOTA: EL 13 DE OCTUBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 90/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE AGOSTO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
-IV. En materia penal, en el marco de la justicia restaurativa, las controversias entre particulares originadas por la comisión de un delito, y éste:
+V. EN MATERIA DE JUSTICIA PARA ADOLESCENTES, EN LOS SUPUESTOS PREVISTOS EN LA LEY DE JUSTICIA PARA ADOLESCENTES, SIEMPRE QUE DICHAS CONDUCTAS NO SEAN CONSIDERADAS COMO DELITOS GRAVES.
 
-a).- Se persiga por querella o requisito equivalente de parte ofendida;
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2015)</small>
 
-b).- Sea un delito culposo; o
+TAMBIÉN PROCEDERÁ, EXCLUSIVAMENTE PARA EFECTOS RESTAURATIVOS Y DE RECOMPOSICIÓN DEL TEJIDO SOCIAL, CUANDO LA VÍCTIMA U OFENDIDO DE LA CONDUCTA TIPIFICADA COMO DELITO LO SOLICITE, EN TÉRMINOS DEL REGLAMENTO, INDEPENDIENTEMENTE DE QUE SE HAYA REPARADO EL DAÑO Y DE QUE EL ADOLESCENTE EN CONFLICTO CON LA LEY SE ENCUENTRE CUMPLIENDO UNA MEDIDA.
 
-c).- Sea un delito o un delito patrimonial cometido sin violencia sobre las personas; o no se trate de delitos de violencia familiar;
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2015)</small>
 
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-V. En materia de justicia para adolescentes, en los supuestos previstos en la Ley de Justicia para Adolescentes, siempre que dichas conductas no sean consideradas como delitos graves.
+LO ANTERIOR, SIEMPRE QUE NO SE CONTRAVENGA DISPOSICIÓN LEGAL ALGUNA.
 
 ###### Artículo 6.
 
@@ -176,7 +228,9 @@ La mediación es independiente a la jurisdicción ordinaria y tiene como propós
 
 Los jueces, en materia civil, familiar, penal y de justicia para adolescentes deberán hacer saber a las partes la existencia de la mediación como forma alternativa de solución, en los términos de esta ley.
 
-El ministerio público estará facultado para informar sobre las peculiaridades de la mediación y orientar a los particulares en cuanto a las ventajas de acudir a la misma para alcanzar una solución económica, rápida y satisfactoria a sus controversias.
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2015)</small>
+
+El ministerio público estará facultado para informar sobre las peculiaridades de la mediación, antes de iniciar denuncia o querella y orientar a los particulares en cuanto a las ventajas de acudir a la misma para alcanzar una solución económica, rápida y satisfactoria a sus controversias.
 
 ###### Artículo 7.
 
@@ -216,17 +270,21 @@ I. El desarrollo y la administración eficaz y eficiente de la mediación como m
 
 II. La prestación de los servicios de información al público, sobre los métodos alternativos de solución de controversias y en particular, sobre la Mediación; así como de orientación jurídica, psicológica y social a los mediados, durante la substanciación de aquella;
 
-> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2013)</small>
+> <small>(ADICIONADA, G.O. 20 DE AGOSTO DE 2015)</small>
 
-III. La capacitación, certificación, selección, registro y monitoreo de los mediadores para el servicio público y privado; a efecto de garantizar altos índices de competencia profesional; así como la capacitación de mediadores y desarrollo de proyectos de mediación en apoyo a instituciones públicas y privadas, para la solución de controversias en todos los ámbitos de interacción social, tales como mediación escolar y comunitaria, entre otras;
+II Bis. Operar como órgano especializado en la aplicación de los Mecanismos Alternativos de Solución de Controversias en Materia Penal;
+
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2015)</small>
+
+III. La capacitación, certificación, selección, registro y monitoreo de los facilitadores y de los mediadores para el servicio público y privado; a efecto de garantizar altos índices de competencia profesional; así como la capacitación de mediadores y desarrollo de proyectos de mediación en apoyo a instituciones públicas y privadas, para la solución de controversias en todos los ámbitos de interacción social, tales como mediación escolar y comunitaria, entre otras;
 
 IV. La difusión y divulgación permanente de los servicios que presta;
 
 V. El fortalecimiento de sus funciones y la ampliación de sus metas, a partir de su experiencia y del intercambio permanente con instituciones públicas, privadas, nacionales y extranjeras;
 
-> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2015)</small>
 
-VI. La supervisión constante de los servicios a cargo de los Mediadores y del funcionamiento de los módulos de mediación, su retroalimentación oportuna, para mantenerlos dentro de niveles superiores de calidad, así como el registro de los convenios de mediación;
+VI. La supervisión constante de los servicios a cargo de los Mediadores y Facilitadores y del funcionamiento de los módulos de mediación, su retroalimentación oportuna, para mantenerlos dentro de niveles superiores de calidad, así como el registro de los convenios de mediación y de la base de datos de asuntos atendidos en materia penal;
 
 VII. El apoyo al trabajo jurisdiccional del Tribunal;
 
@@ -240,9 +298,11 @@ IX. bis. Operar como órgano especializado de la justicia para adolescentes, y
 
 X. Cumplir con las disposiciones legales aplicables, así como con las que le atribuya expresamente esta Ley, sus disposiciones reglamentarias y los acuerdos que emita el Consejo.
 
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 10.
 
-El Centro contará con un Director General, del cual partirá la estructura necesaria para el desarrollo eficaz y eficiente de sus funciones, así como con la planta de mediadores y personal técnico y administrativo que para ello requiera.
+El Centro contará con un Director General, del cual partirá la estructura necesaria para el desarrollo eficaz y eficiente de sus funciones, así como con la planta de mediadores, facilitadores y personal técnico y administrativo que para ello requiera.
 
 ###### Artículo 11.
 
@@ -272,19 +332,25 @@ I. Representar jurídicamente al Centro;
 
 II. Tomar las decisiones técnicas y administrativas que competan al Centro;
 
-> <small>(REFORMADA, G.O. 8 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2015)</small>
 
-III. Proponer al Consejo las convocatorias que correspondan para la celebración de concursos de selección de mediadores públicos adscritos al Centro; para cursos de capacitación para la certificación y refrendo de certificación de mediadores privados, y para la selección de especialistas externos que funjan como co-mediadores;
+III. Proponer al Consejo las convocatorias que correspondan para la celebración de concursos de selección de mediadores públicos adscritos al Centro y de facilitadores en materia penal; para cursos de capacitación para la certificación y refrendo de certificación de mediadores privados, y para la selección de especialistas externos que funjan como co-mediadores;
 
-IV. Elaborar, conjuntamente con el Instituto, los programas de capacitación y entrenamiento para los nuevos mediadores, así como los de capacitación continua y actualización para los mediadores en ejercicio;
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2015)</small>
 
-V. Establecer los mecanismos de supervisión continúa de los servicios que presten los mediadores en la aplicación de los procedimientos de mediación, co - mediación y re - mediación;
+IV. Elaborar, conjuntamente con el Instituto, los programas de capacitación y entrenamiento para los nuevos mediadores y facilitadores, así como los de capacitación continúa y actualización para los mediadores y facilitadores en ejercicio;
+
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2015)</small>
+
+V. Establecer los mecanismos de supervisión continúa de los servicios que presten los mediadores y facilitadores en la aplicación de los procedimientos de mediación, co - mediación, re - mediación y mecanismos alternativos de solución de controversias en materia penal, respectivamente;
 
 VI. Calificar la procedencia de la causa de excusa planteada por los mediadores o co - mediadores, para inhibirse del conocimiento del caso asignado para mediación, ya sea antes de su inicio o durante el mismo, o cuando se presente una causa superveniente y, en su caso, nombrar al mediador o co - mediador sustituto;
 
 VII. A partir de la experiencia del Centro y del reconocimiento de los avances de instituciones similares, impulsar los estudios y análisis de carácter diagnóstico y prospectivo que permitan apoyar la retroalimentación de los servicios que el propio Centro ofrece;
 
-VIII. Supervisar los procesos de evaluación de los mediadores;
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2015)</small>
+
+VIII. Supervisar los procesos de evaluación de los mediadores y facilitadores;
 
 IX. Elegir los mecanismos de difusión necesarios, a efecto de que la sociedad conozcan las funciones y alcances de los servicios del Centro;
 
@@ -318,29 +384,43 @@ II.- Para certificar las copias de los documentos que por disposición de esta L
 
 III.- Para expedir copias certificadas de los documentos de mediación que se encuentren registrados y resguardados en el archivo del Centro a petición de cualquier mediado, del Mediador Privado que hubiere intervenido, de autoridad competente o para fines registrales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 15.
 
-El Centro estará provisto de sistemas automatizados para la recepción, resguardo, clasificación y el manejo del acervo informativo que genere.
+El Centro contará con la infraestructura adecuada para la óptima administración y desarrollo de sus servicios. Así mismo, estará provisto de sistemas automatizados para la recepción, resguardo, clasificación y el manejo del acervo informativo que genere.
 
 > <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
 
 Así mismo contará con los sistemas automatizados que permitan la prestación del servicio de mediación por medios electrónicos, ópticos o de cualquier otra tecnología; así como la comparecencia por los mismos medios del Director General, del Director, Subdirector de Mediación o mediador privado ante quien se otorgue el convenio, ajustándose a los criterios que para tal efecto emita el Consejo.
 
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 16.
 
-El Centro contará con la infraestructura adecuada para la óptima administración y desarrollo de sus servicios.
+El Consejo Consultivo se integrará por destacados académicos y profesionales de la mediación nacionales y extranjeros y su objeto será el desarrollo de proyectos y su evaluación, organizar conferencias públicas, apoyar a instituciones públicas y privadas así como universitarias, impulsar la adopción de normas y criterios homogéneos a nivel nacional, y demás temas complementarios a los mencionados.
+
+Los participantes en el Consejo Consultivo serán propuestos por el Magistrado Presidente del Tribunal al Consejo atendiendo sus méritos y su participación será honoraria.
+
+La presidencia del Consejo Consultivo recaerá en el Magistrado Presidente del Tribunal y será suplido por quien determine el Consejo.
+
+La secretaría del Consejo Consultivo estará a cargo del Director General del Centro.
 
 ### CAPÍTULO TERCERO.
 
 DE LOS PRESTADORES DEL SERVICIO DE MEDIACIÓN.
 
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 17.
 
-El Centro contará con un registro de mediadores tanto públicos como privados.
+El Centro contará con un registro de mediadores tanto públicos como privados, así como de facilitadores en materia penal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 18.
 
-Para ser mediador se deberá cumplir los siguientes requisitos:
+Para ser mediador o facilitador se deberá cumplir los siguientes requisitos:
 
 > <small>(ADICIONADO PRIMER PÁRRAFO, G.O. 8 DE FEBRERO DE 2011)</small>
 
@@ -370,6 +450,10 @@ El cargo de mediador es de confianza y será ratificado cada tres años por el C
 
 El Director General, los Directores y los Subdirectores de Mediación del Centro, así como los Secretarios Actuarios del Tribunal que satisfagan los requisitos a que se refieren las fracciones I y II de este apartado, podrán ser registrados como Mediadores sometiéndose a los exámenes y cursos de capacitación y entrenamiento correspondientes. Su condición de mediador público deberá ratificarse cada tres años y se perderá al dejar de formar parte del Centro o deje de ser Secretario Actuario del Tribunal, según corresponda.
 
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2015)</small>
+
+Para ser facilitador se estará a lo dispuesto en la Ley Nacional.
+
 > <small>(ADICIONADO, G.O. 8 DE FEBRERO DE 2011)</small>
 
 B) Para ser mediador privado:
@@ -378,9 +462,9 @@ B) Para ser mediador privado:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos y tener cuando menos veinticinco años de edad al día de su certificación y registro;
 
-> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2015)</small>
 
-II. Contar con título y cédula profesionales de Licenciatura en Derecho, así como dos años de experiencia profesional mínima demostrable, en cualquiera de las materias competencia del Centro;
+II. Poseer grado de licenciatura, así como dos años de experiencia profesional mínima demostrable;
 
 > <small>(REFORMADA, G.O. 19 DE JUNIO DE 2013)</small>
 
@@ -412,6 +496,10 @@ La certificación y el registro que otorgue el Centro tendrán una vigencia de t
 
 Los mediadores públicos que dejen de ser servidores públicos del Tribunal, podrán ser certificados y registrados como mediadores privados.
 
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2015)</small>
+
+Los mediadores privados que cuenten con una licenciatura distinta a la de derecho, podrán formar parte del colegio de mediadores registrado ante el Tribunal y los convenios de mediación que generen habrán de contar, para su registro, con el visto bueno legal de un licenciado en derecho, en los términos del Reglamento y las Reglas.
+
 ###### Artículo 19.
 
 Los mediadores deberán excusarse para conocer de un asunto cuando se actualice alguno de los siguientes supuestos:
@@ -440,13 +528,17 @@ Los Mediadores que se encuentren en alguno de los supuestos previstos en este ar
 
 > <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
 
-### CAPÍTULO CUARTO. DEL SERVICIO PÚBLICO DE MEDIACIÓN
+### CAPÍTULO CUARTO.
 
-> <small>(REFORMADO Y REUBICADO, G.O. 19 DE JUNIO DE 2013)</small>
+DEL SERVICIO PÚBLICO DE MEDIACIÓN.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 20.
 
-El servicio público de mediación será prestado por el Centro por conducto de los Mediadores Públicos y de los Secretarios Actuarios a que se refiere el apartado A) del artículo 18 de la Ley, en los términos previstos por la misma y el Reglamento.
+El servicio público de mediación será prestado por el Centro por conducto de los Mediadores Públicos y de los Facilitadores y por los Secretarios Actuarios a que se refiere el apartado A) del artículo 18 de la Ley, en los términos previstos por la misma y el Reglamento.
+
+> <small>(REFORMADO Y REUBICADO, G.O. 19 DE JUNIO DE 2013)</small>
 
 Los mediados que sean atendidos en el Centro, podrán recusar al Mediador o al Co-Mediador designado y solicitar al Director General del Centro la sustitución de los mismos, mediante petición expresa por escrito y cuando se actualicen alguno de los supuestos previstos en el artículo anterior.
 
@@ -522,11 +614,11 @@ El Centro, y los secretarios actuarios autorizados para ello, atentos a las posi
 
 El incumplimiento de alguna de las obligaciones establecidas en los términos de esta Ley, dará lugar a que los Mediadores del Centro y los Secretarios Actuarios sean sometidos al procedimiento disciplinario que corresponda y, en su caso, sancionados por la Comisión de Disciplina Judicial del Consejo.
 
-> <small>(REFORMADO Y REUBICADO, G.O. 19 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 25.
 
-El Mediador Público que, en el ejercicio de su cargo, tenga un comportamiento sistemáticamente meritorio y destacado, se hará acreedor a los estímulos e incentivos establecidos en los programas que establezca el Centro.
+El Mediador Público y los Facilitadores que, en el ejercicio de su cargo, tengan un comportamiento sistemáticamente meritorio y destacado, se harán acreedores a los estímulos e incentivos establecidos en los programas que establezca el Centro.
 
 (REUBICADO, G.O. 19 DE JUNIO DE 2013)
 
@@ -724,9 +816,13 @@ El Convenio se redactará al menos por triplicado, en todo caso se deberá procu
 
 La información que se genere en los procedimientos de mediación se considerará confidencial, en términos de lo previsto por la legislación en materia de transparencia y acceso a la información pública y de protección de datos personales.
 
+> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA G.O. DE 20 DE AGOSTO DE 2015, PÁGINAS 7 Y 11.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 20 DE AGOSTO DE 2015)</small>
+
 ### CAPÍTULO SEXTO.
 
-DEL PROCEDIMIENTO DE MEDIACIÓN.
+DE LA REMEDIACIÓN y COMEDIACIÓN.
 
 (REUBICADO, G.O. 19 DE JUNIO DE 2013)
 
@@ -736,7 +832,7 @@ Ante el incumplimiento parcial o total de un convenio celebrado por los mediados
 
 La re - mediación se llevará a cabo, en lo conducente, utilizando las mismas reglas que, para la mediación, establece esta Ley.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 19 DE JUNIO DE 2013)</small>
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
 
 ###### Artículo 37 Bis.
 
@@ -750,9 +846,13 @@ Para ser especialista externo se deberán cumplir los requisitos establecidos en
 
 En todos los casos en que se requiera la intervención de un co-mediador se deberá solicitar el consentimiento de los mediados.
 
-### CAPÍTULO SÉPTIMO. DE LA RE - MEDIACIÓN y CO-MEDIACIÓN
+> <small>(REFORMADA SU NUMERACIÓN [ANTES CAPÍTULO OCTAVO], G.O. 20 DE AGOSTO DE 2015)</small>
 
-> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+### CAPÍTULO SÉPTIMO.
+
+DE LOS EFECTOS DEL CONVENIO ENTRE LAS PARTES.
+
+(REUBICADO Y REFORMADO PRIMER PÁRRAFO, G.O. 19 DE JUNIO DE 2013)
 
 ###### Artículo 38.
 
@@ -774,27 +874,25 @@ Si el convenio emanado de procedimiento conducido por Secretario Actuario o medi
 
 Por acuerdo de los mediados los convenios podrán ser anotados en el Registro Público de la Propiedad y del Comercio de conformidad con las leyes respectivas.
 
+> <small>(REFORMADA SU NUMERACIÓN [ANTES CAPÍTULO NOVENO], G.O. 20 DE AGOSTO DE 2015)</small>
+
 ### CAPÍTULO OCTAVO.
 
-DE LOS EFECTOS DEL CONVENIO ENTRE LAS PARTES.
+DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS Y EMPLEADOS DEL CENTRO.
 
-(REUBICADO Y REFORMADO PRIMER PÁRRAFO, G.O. 19 DE JUNIO DE 2013)
+(REUBICADO Y REFORMADO, G.O. 19 DE JUNIO DE 2013)
 
 ###### Artículo 39.
 
 El Director General, los servidores públicos del Centro, así como los Secretarios Actuarios, en funciones de mediador, son responsables de las faltas y/o delitos que cometan en el ejercicio de sus encargos y quedarán por ello sujetos a los procedimientos y sanciones que determinen la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal, la Ley Federal de Responsabilidades de los Servidores Públicos y demás leyes aplicables.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 19 DE JUNIO DE 2013)</small>
-
-### CAPÍTULO DÉCIMO. DEL SERVICIO PRIVADO DE MEDIACIÓN
-
-> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA SU NUMERACIÓN [ANTES CAPÍTULO DÉCIMO], G.O. 20 DE AGOSTO DE 2015)</small>
 
 ### CAPÍTULO NOVENO.
 
-DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS Y EMPLEADOS DEL CENTRO.
+DEL SERVICIO PRIVADO DE MEDIACIÓN.
 
-(REUBICADO Y REFORMADO, G.O. 19 DE JUNIO DE 2013)
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
 
 ###### Artículo 40.
 
@@ -990,7 +1088,9 @@ Los convenios que sean celebrados ante mediador privado certificado en los térm
 
 En todo caso, además de los requisitos a que se refiere el artículo 50 de esta Ley, el mediador privado es responsable de señalar fehacientemente la forma y términos de la celebración del convenio en los términos dispuestos por esta Ley y las Reglas.
 
-Los convenios deberán ser redactados por el mediador privado al menos en cuadruplicado, uno será entregado al Centro para su registro, otro será conservado en el archivo del mediador privado, y se entregará un ejemplar a cada una de las partes.
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2015)</small>
+
+El mediador privado presentará al Centro, para su registro, sólo un ejemplar del convenio de mediación, y entregará a los mediados, conforme a lo previsto en la fracción III del artículo 42 de la Ley, copias certificadas de los convenios de mediación registrados.
 
 > <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
 
@@ -1046,17 +1146,27 @@ Una vez rendido el informe y desahogadas las pruebas admitidas, el asunto se dis
 
 Los acuerdos tomados serán asentados en el acta respectiva. Las resoluciones deberán ser informadas al Pleno del Consejo y notificadas al mediador de que se trate y al quejoso, en su caso, en un plazo de cinco días hábiles a partir de la fecha del acuerdo correspondiente.
 
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2015)</small>
+
+En caso de ser necesario, se aplicará de manera supletoria el Código Federal de Procedimientos Penales, por lo que hace al procedimiento a que se refiere este artículo.
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2015)</small>
+
+Para la diligenciación de las notificaciones a que se refiere el presente artículo, el Comité Revisor de las Evidencias de Evaluación deberá apoyarse de los actuarios adscritos al Consejo de la Judicatura del Distrito Federal.
+
 > <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
 
 ###### Artículo 57.
 
 El mediador sancionado podrá recurrir la resolución del Comité ante el Consejo de conformidad a lo previsto en la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal. La resolución del Consejo será definitiva.
 
-> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 58.
 
-Comete infracción el mediador que incumpla las obligaciones previstas en esta Ley y en el incumplimiento de las obligaciones establecidas en (sic) Reglamento y las Reglas.
+Comete infracción el mediador que incumpla cualquiera de las obligaciones previstas en esta Ley, el Reglamento y las Reglas.
+
+> <small>(ADICIONADO, G.O. 19 DE JUNIO DE 2013)</small>
 
 Las sanciones administrativas aplicables a los mediadores privados serán impuestas por el Comité, órgano que fundará y motivará su resolución, tomando en cuenta la gravedad de la infracción; la calidad de reincidente del infractor, entendiendo por reincidencia, que el infractor haya sido sancionado por violaciones a las disposiciones de esta Ley, el Reglamento y de las Reglas dentro del periodo de vigencia de la certificación y registro, y el beneficio obtenido por el infractor como resultado de la infracción en su caso.
 
@@ -1163,3 +1273,17 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 20 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. El Consejo de la Judicatura del Distrito Federal, deberá expedir las modificaciones que correspondan al Reglamento Interno del Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal, y las Reglas del Mediador Privado en un plazo de ciento ochenta días a partir de la entrada en vigor del presente decreto.
+
+CUARTO. Quienes habiendo obtenido diploma o constancia de mediación privada con licenciatura distinta a la de derecho podrán optar por la obtención de certificación y registro del Tribunal Superior de Justicia del Distrito Federal como Mediadores Privados para lo cual se les concede un plazo de hasta noventa días para solicitarlo por escrito ante el Centro de Justicia Alternativa, a partir de la entrada en vigor del presente decreto. Quienes los soliciten deberán cursar el programa de actualización y cumplir con los requisitos que establece la Ley.
+
+QUINTO. Para su mayor difusión, ordénese su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
+
+SEXTO. Se derogan las disposiciones que se opongan al presente decreto.
