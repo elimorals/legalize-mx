@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-etica-de-los-servidores-publicos-de-la-30064"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-31"
-last_updated: "2002-07-31"
+last_updated: "2015-08-20"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30064&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2002-07-25"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION PUBLICA FEDERAL
 
-CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION PUBLICA FEDERAL
+CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL GOBIERNO FEDERAL, PUBLICADO EN EL D.O.F. DE 20 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE AGOSTO DE 2015 (SIN EFECTOS).
 
 Código publicado en la Primera Sección del Diario Oficial de la Federación el miércoles 31 de julio de 2002.
 
@@ -134,3 +136,19 @@ Atentamente
 Sufragio Efectivo. No Reelección.
 
 México, D.F., a 25 de julio de 2002.- El Secretario de Contraloría y Desarrollo Administrativo, Francisco Javier Barrio Terrazas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. DE 20 DE AGOSTO DE 2015.
+
+Primero.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abrogan los Lineamientos generales para el establecimiento de acciones permanentes que aseguren la integridad y el comportamiento ético de los servidores públicos en el desempeño de sus empleos, cargos o comisiones, publicados en el Diario Oficial de la Federación el 6 de marzo de 2012.
+
+Asimismo, se deja sin efectos el Oficio Circular SP/100/0762/02, por el que se da a conocer el Código de Ética de los Servidores Públicos de la Administración Pública Federal, publicado el 31 de julio de 2002 en el Diario Oficial de la Federación.
+
+Tercero.- Los Comités de Ética y de Prevención de Conflictos de Interés deberán estar constituidos en los términos de los Lineamientos generales para propiciar la integridad de los servidores públicos y para implementar acciones permanentes que favorezcan su comportamiento ético, a través de los Comités de Ética y de Prevención de Conflictos de Interés, en un plazo de noventa días hábiles contados a partir de la entrada en vigor del presente Acuerdo.
+
+Cuarto.- La Secretaría de la Función Pública publicará en su página en Internet, dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Acuerdo, la relación de dependencias y entidades que cuentan con Comité de Ética y de Prevención de Conflictos de Interés.
+
+Quinto.- En tanto entran en vigor las disposiciones jurídicas y reglamentarias por las que se confiere atribuciones a la Unidad Especializada en Ética y Prevención de Conflictos de Interés, las funciones establecidas en este Acuerdo se entenderán referidas a la Unidad de Políticas de Transparencia y Cooperación Internacional.
