@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "2015-06-02"
+last_updated: "2015-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-01-09"
 
 LEY ORGÁNICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE AGOSTO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
 
@@ -99,6 +99,10 @@ I. El Registro Civil;
 II. El Registro Público de la Propiedad y el Comercio;
 
 III. Los peritos médicos legistas;
+
+> <small>(ADICIONADA, G.O. 20 DE AGOSTO DE 2015)</small>
+
+III. bis Los mediadores privados certificados y registrados por el Tribunal Superior de Justicia del Distrito Federal en los términos de la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal;
 
 IV. Los intérpretes oficiales y demás peritos en las ramas que les sean encomendadas;
 
@@ -1112,17 +1116,9 @@ II. Los Secretarios de Acuerdos, Conciliadores, Proyectistas y Actuarios que req
 
 III. Los servidores públicos de la administración de justicia que autorice el presupuesto.
 
-> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
-
 ###### Artículo 56 Bis.
 
-El sistema penal acusatorio, a que se refiere este capítulo, tendrá:
-
-I.- Un Juez coordinador, que será elegido por los jueces que integren el sistema cada seis meses; que atenderán proporcional y equitativamente las cargas de trabajo con el objeto de lograr que se cumplan con los principios de publicidad, contradicción, concentración, continuidad e inmediación y aquellos previstos en la Constitución de los Estados Unidos Mexicanos, Tratados Internacionales y demás leyes, que son rectores del procedimiento penal acusatorio, que son necesarios para el conocimiento de los asuntos a su cargo;
-
-II.- Los Auxiliares Judiciales; que autorice el presupuesto y le proporcione la Unidad de Gestión Judicial; previa autorización del Consejo de la Judicatura del Distrito Federal.
-
-III.- Los servidores públicos de la administración de justicia que autorice el presupuesto y le proporcione la Unidad de Gestión Judicial; previa autorización del Consejo de la Judicatura del Distrito Federal.
+(DEROGADO, G.O. 20 DE AGOSTO DE 2015)
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -1302,19 +1298,9 @@ III. En la elaboración de proyectos de sentencias o resoluciones, considerar la
 
 IV. Las demás que deriven de la ley.
 
-> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
-
 ###### Artículo 62 Ter.
 
-Son obligaciones de los Auxiliares Judiciales de los Jueces del Sistema Penal Acusatorio:
-
-I. Allegar de los instrumentos de conocimiento jurídico que sean necesarios para el razonamiento jurídico que deba realizar el juez al momento de deliberar previo y dentro de la audiencia.
-
-II. Realizar la transcripción de las audiencias que se celebren y de las que hace mención el Código Nacional de Procedimientos Penales, asentando su participación mediante firma en cada foja. Además de integrar las leyes y disposiciones vigentes aplicables según lo requiera el caso en estudio, atendiendo los términos señalados por su titular, y
-
-III. Guardar el debido secreto en su colaboración en los escritos que se hacen mención en la fracción anterior y,
-
-IV. Las demás que deriven de la ley y los acuerdos (sic) para el efecto emita el Consejo de la Judicatura del Distrito Federal.
+(DEROGADO, G.O. 20 DE AGOSTO DE 2015)
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -1512,13 +1498,39 @@ Artículo 63 Octavus. El Titular de la Unidad de Gestión Administrativa tendrá
 
 Por su parte, el titular de la Central de Comunicaciones Procesales tendrá nivel de Subdirector, y el titular de la Unidad de Apoyo Tecnológico tendrá nivel de Jefe de Unidad.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 20 DE AGOSTO DE 2015)</small>
+
+### CAPÍTULO III TER. DE LA ORGANIZACIÓN INTERNA DE LOS ÓRGANOS JURISDICCIONALES DEL SISTEMA PENAL ACUSATORIO
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2015)</small>
+
+###### Artículo 64 Bis.
+
+El sistema penal acusatorio, a que se refiere este capítulo, tendrá:
+
+I.- Los Jueces que integren el Sistema.
+
+II.- Las Unidades de Gestión Judicial que determine el Consejo de la Judicatura del Distrito Federal, las que tendrán una dependencia funcional de la Oficialía Mayor y serán reguladas y vigiladas por el propio Consejo.
+
+III.- Los Auxiliares Judiciales que autorice el presupuesto y le proporcione la Unidad de Gestión Judicial; previa autorización del Consejo de la Judicatura del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2015)</small>
+
+###### Artículo 64 Ter.
+
+Son obligaciones de los Auxiliares Judiciales de los Jueces del Sistema Penal Acusatorio:
+
+I. Allegar de los instrumentos de conocimiento jurídico que sean necesarios para el razonamiento jurídico que deba realizar el juez al momento de deliberar previo y dentro de la audiencia.
+
+II. Realizar la transcripción de las audiencias que se celebren y de las que hace mención el Código Nacional de Procedimientos Penales, asentando su participación mediante firma en cada foja. Además de integrar las leyes y disposiciones vigentes aplicables según lo requiera el caso en estudio, atendiendo los términos señalados por su titular, y
+
+III. Guardar el debido secreto en su colaboración en los escritos que se hacen mención en la fracción anterior y,
+
+IV. Las demás que deriven de la ley y los acuerdos para el efecto emita el Consejo de la Judicatura del Distrito Federal.
+
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
 
 ### CAPITULO IV
-
-### CAPITULO V. De la Justicia de Paz
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 64.
 
@@ -1534,11 +1546,9 @@ Por su parte, el titular de la Central de Comunicaciones Procesales tendrá nive
 
 > <small>(DEROGADO, G.O. 18 DE MARZO DE 2011)</small>
 
-### CAPÍTULO VI. De la Justicia Civil de Cuantía Menor, del Proceso Oral Civil y Penal de Delitos no graves
+### CAPITULO V. De la Justicia de Paz
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO Y REUBICADO, G.O. 18 DE MARZO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 67.
 
@@ -1564,7 +1574,11 @@ Por su parte, el titular de la Central de Comunicaciones Procesales tendrá nive
 
 > <small>(ADICIONADO, G.O. 18 DE MARZO DE 2011)</small>
 
-### CAPITULO I. De los Magistrados
+### CAPÍTULO VI. De la Justicia Civil de Cuantía Menor, del Proceso Oral Civil y Penal de Delitos no graves
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO Y REUBICADO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 71.
 
@@ -1670,9 +1684,7 @@ Los Juzgados a que se refieren los artículos 71, 71 Bis y 72 de esta ley para e
 
 ## TITULO QUINTO. Del Procedimiento para Suplir Ausencias de los Servidores de la Administración de Justicia
 
-### CAPITULO II. De los Jueces y Servidores Públicos de la Administración de Justicia
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE ABRIL DE 2003)</small>
+### CAPITULO I. De los Magistrados
 
 ###### Artículo 73.
 
@@ -1704,7 +1716,9 @@ Si por defunción, renuncia o incapacidad faltare algún Magistrado, el Jefe de 
 
 En todo caso y mientras se hace la designación, la ausencia será suplida en los términos ya previstos.
 
-### CAPITULO I. De los Síndicos
+### CAPITULO II. De los Jueces y Servidores Públicos de la Administración de Justicia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 76.
 
@@ -1754,7 +1768,7 @@ En todo caso y cuando las ausencias no excedan de quince días los servidores p�
 
 ## TITULO SEXTO. De los Auxiliares de la Administración de Justicia
 
-### CAPITULO II. De los Interventores, Albaceas, Tutores, Curadores y Depositarios
+### CAPITULO I. De los Síndicos
 
 ###### Artículo 81.
 
@@ -1830,7 +1844,7 @@ El Síndico que faltare al cumplimiento de las obligaciones que le impone esta L
 
 Los daños y perjuicios que se ocasionaren al concurso por culpa o negligencia del Síndico en el ejercicio de sus funciones, serán a cargo de éste en beneficio de los acreedores, procediéndose a retener la garantía que haya dado sin perjuicio de que se ejercite, por quienes corresponda, la acción o acciones procedentes a fin de asegurar debidamente los intereses del concurso, independientemente de la acción penal en que hubiere incurrido en fraude de acreedores. A este efecto, la garantía respectiva no será cancelada sino cuando hubiere concluido totalmente el procedimiento, aun cuando el Síndico hubiere renunciado o sido removido. Cuando hubiere habido dos o más síndicos, la garantía que cada uno hubiere otorgado responderá en su respectivo ejercicio.
 
-### CAPITULO III. De los Peritos
+### CAPITULO II. De los Interventores, Albaceas, Tutores, Curadores y Depositarios
 
 ###### Artículo 95.
 
@@ -1862,9 +1876,7 @@ Asimismo, será causa de remoción del Interventor, no dar aviso oportuno al Jue
 
 Los Albaceas, Tutores, Curadores, Depositarios, así como Interventores diversos a los de concurso, ya sean provisionales o definitivos, designados por los Jueces, deberán llenar todos los requisitos establecidos en este título para los Síndicos, en aquello que sea compatible con su carácter y función.
 
-### CAPITULO IV. Del Instituto de Ciencias Forenses y de los Médicos Auxiliares
-
-> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
+### CAPITULO III. De los Peritos
 
 ###### Artículo 101.
 
@@ -1894,13 +1906,55 @@ Sólo en el caso de que no existiere lista de peritos en el arte o ciencia de qu
 
 Los honorarios de los Peritos designados por el Juez, serán cubiertos de acuerdo con el arancel que al efecto fije esta Ley, sin perjuicio de lo que disponga la sentencia definitiva respecto a la condenación en costas.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 20 DE AGOSTO DE 2015)</small>
+
+### CAPÍTULO III BIS. DE LOS MEDIADORES PRIVADOS
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2015)</small>
+
+###### Artículo 106 Bis.
+
+Los servicios de mediación a cargo de mediadores privados certificados y registrados por el Tribunal Superior de Justicia del Distrito Federal en los términos de la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, representan una función pública complementaria a la administración de justicia que corresponden a la figura de descentralización por colaboración, por lo que sus actividades son supervisadas y monitoreadas por el Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal a efecto de garantizar altos índices de competencia profesional.
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2015)</small>
+
+###### Artículo 106 Bis 1.
+
+Para ser mediador privado se requiere:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos y tener cuando menos veinticinco años de edad al día de su certificación y registro;
+
+II. Poseer grado de licenciatura, así como dos años de experiencia profesional mínima demostrable;
+
+III. Gozar de buena reputación profesional y reconocida honorabilidad;
+
+IV. No haber sido sentenciado, mediante sentencia condenatoria ejecutoriada, por delito doloso que merezca pena privativa de libertad;
+
+V. Presentar y aprobar el examen de conocimientos de competencias laborales;
+
+VI. Aprobar los cursos de capacitación para la certificación y registro, y
+
+VII. Realizar las horas de práctica en el Centro que fijen las Reglas.
+
+La persona que haya obtenido la certificación y el registro para ejercer como mediador privado, previamente al inicio de sus funciones y dentro de los noventa días siguientes a la expedición de su constancia de certificación deberá cumplir con los requisitos previstos en la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2015)</small>
+
+###### Artículo 106 Bis 2.
+
+Sin perjuicio de las responsabilidades legales en que pudiera incurrir el mediador privado en el ejercicio de su función, queda sometido al régimen disciplinario y procedimiento previsto en la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal y las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2015)</small>
+
+###### Artículo 106 Bis 3.
+
+Los honorarios de los mediadores privados que atiendan los casos que les remita algún Juez, en los términos de la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, serán cubiertos por las partes, conforme lo establezcan las disposiciones aplicables.
+
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 27 DE JULIO DE 2012)</small>
 
-### CAPITULO I. De las Costas
+### CAPITULO IV. Del Instituto de Ciencias Forenses y de los Médicos Auxiliares
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
-
-### CAPITULO II. De los Aranceles
+> <small>(REFORMADO, G.O. 27 DE JULIO DE 2012)</small>
 
 ###### Artículo 107.
 
@@ -2172,7 +2226,9 @@ A los auxiliares de la administración de justicia a que se refiere este título
 
 ## TITULO SEPTIMO. De las Costas y de los Aranceles
 
-### CAPITULO I. Del Archivo Judicial del Distrito Federal y del Registro Público de Avisos Judiciales
+### CAPITULO I. De las Costas
+
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 126.
 
@@ -2264,9 +2320,7 @@ Si en un juicio civil o mercantil hubiere condenación en costas y los escritos 
 
 Los abogados que intervengan en juicios civiles o mercantiles por derecho propio, cobrarán las costas que fija el presente arancel, aun cuando no sean patrocinados por otro abogado.
 
-### CAPITULO II. De la Dirección General de los Anales de Jurisprudencia y Boletín Judicial
-
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+### CAPITULO II. De los Aranceles
 
 #### SECCION PRIMERA. De los Interventores y Albaceas Judiciales
 
@@ -2396,9 +2450,7 @@ Para regular la cuota anterior, se atenderá a la importancia del negocio, a las
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO III. De la Unidad de Trabajo Social, del Servicio de Informática y Biblioteca y del Centro de Convivencia Familiar Supervisada
-
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+### CAPITULO I. Del Archivo Judicial del Distrito Federal y del Registro Público de Avisos Judiciales
 
 ###### Artículo 149.
 
@@ -2518,7 +2570,7 @@ Se llevará un registro histórico de los avisos publicados, para facilitar la i
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO IV. De la Dirección General de Procedimientos Judiciales
+### CAPITULO II. De la Dirección General de los Anales de Jurisprudencia y Boletín Judicial
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2558,9 +2610,9 @@ Queda a cargo de la propia Dirección la publicación de las resoluciones que se
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO V. De la Dirección de Consignaciones Civiles y de la Oficialía de Partes Común para los Juzgados
+### CAPITULO III. De la Unidad de Trabajo Social, del Servicio de Informática y Biblioteca y del Centro de Convivencia Familiar Supervisada
 
-> <small>(REFORMADO G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 167.
 
@@ -2594,9 +2646,9 @@ Para ser Director del Centro de Convivencia Familiar deberá reunir los requisit
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO VI. De la Dirección de Turno de Consignaciones Penales y de Justicia para Adolescentes
+### CAPITULO IV. De la Dirección General de Procedimientos Judiciales
 
-> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 170.
 
@@ -2634,9 +2686,9 @@ La Oficialía permanecerá abierta durante las horas hábiles a que se refiere e
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO VII. Del Instituto de Estudios Judiciales
+### CAPITULO V. De la Dirección de Consignaciones Civiles y de la Oficialía de Partes Común para los Juzgados
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 172.
 
@@ -2660,9 +2712,9 @@ Para los Juzgados del Ramo Civil, de Extinción de Dominio y Familiares, se cont
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
-### CAPITULO VIII. De la Oficialía Mayor
+### CAPITULO VI. De la Dirección de Turno de Consignaciones Penales y de Justicia para Adolescentes
 
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 174.
 
@@ -2686,9 +2738,9 @@ El Director deberá reunir los requisitos señalados en el artículo 17 de esta 
 
 La Dirección estará en servicio en los días y horarios que señalen las reglas de turno de los jueces penales.
 
-### CAPITULO IX. De la Dirección Jurídica
+### CAPITULO VII. Del Instituto de Estudios Judiciales
 
-> <small>(REFORMADO Y REUBICADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 178.
 
@@ -2728,9 +2780,9 @@ El Instituto de Estudios Judiciales llevará a cabo cursos de preparación para 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO X. De la Coordinación de Relaciones Institucionales
+### CAPITULO VIII. De la Oficialía Mayor
 
-> <small>(REFORMADO Y REUBICADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 182.
 
@@ -2784,9 +2836,9 @@ Asimismo, y en apoyo de la función jurisdiccional, la Oficialía Mayor tendrá 
 
 La Oficialía Mayor estará a cargo de un servidor público que se denominará Oficial Mayor. Para desempeñar dicho cargo, se deben cumplir los requisitos establecidos por las fracciones I, II, IV, y V del artículo 16 de esta Ley. Además contar con título profesional a nivel de licenciatura y acreditar una experiencia mínima de diez años en áreas o actividades afines al desempeño del cargo.
 
-> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2015)</small>
 
-El Director General de Gestión Judicial dependerá de la Oficialía Mayor, la que será responsable de organizar, dirigir y controlar la gestión administrativa, favoreciendo de manera eficiente y eficaz los recursos y procesos, proporcionando un soporte técnico a los jueces.
+El Director General de Gestión Judicial dependerá de la Oficialía Mayor, la que será responsable de organizar, dirigir y controlar la gestión administrativa, favoreciendo de manera eficiente y eficaz los recursos y procesos, proporcionando un soporte técnico a los jueces y autorizados previamente por el Consejo de la Judicatura del Distrito Federal.
 
 > <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
 
@@ -2824,7 +2876,9 @@ IX. Coordinar la grabación sistemática de todas las audiencias y administrar e
 
 X. Difundir los lineamientos y normatividad en los Tribunales.
 
-XI. Acordar con el Juez coordinador la resolución de los asuntos cuya tramitación se encuentre dentro de su área de su competencia;
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2015)</small>
+
+XI. Acordar con el Jefe de la Unidad de Gestión Judicial la resolución de los asuntos cuya tramitación se encuentre dentro del área de su competencia;
 
 XII. Someter a la aprobación del Oficial Mayor los estudios y proyectos que se elaboren en las unidades administrativas a su cargo;
 
@@ -2912,7 +2966,7 @@ XIV.- Las demás que le confieran las leyes, reglamentos y acuerdos que emita el
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO XI. De la Dirección de Orientación Ciudadana y Derechos Humanos
+### CAPITULO IX. De la Dirección Jurídica
 
 > <small>(REFORMADO Y REUBICADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2926,7 +2980,7 @@ La Dirección Jurídica contará con un Director y los demás servidores públic
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO XII. De la Coordinación de Comunicación Social
+### CAPITULO X. De la Coordinación de Relaciones Institucionales
 
 > <small>(REFORMADO Y REUBICADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2940,9 +2994,9 @@ El Coordinador de Relaciones Institucionales deberá cumplir con los requisitos 
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO XIII. Del Centro de Justicia Alternativa
+### CAPITULO XI. De la Dirección de Orientación Ciudadana y Derechos Humanos
 
-> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2008)</small>
+> <small>(REFORMADO Y REUBICADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 185.
 
@@ -2958,9 +3012,9 @@ El Director deberá cumplir con los requisitos del artículo 17 de esta ley, sal
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO UNICO
+### CAPITULO XII. De la Coordinación de Comunicación Social
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO Y REUBICADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 186.
 
@@ -2978,9 +3032,9 @@ IV. Gozar de buena reputación y no haber sido condenado por delito que amerite 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 8 DE ENERO DE 2008)</small>
 
-### CAPITULO I. Denominación, Objeto, Integración y Funcionamiento
+### CAPITULO XIII. Del Centro de Justicia Alternativa
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2008)</small>
 
 ###### Artículo 186 Bis.
 
@@ -3000,9 +3054,13 @@ I. El desarrollo y la administración eficaz y eficiente de los métodos alterno
 
 II. La prestación de los servicios de información al público, sobre los métodos alternativos de solución de controversias y en particular, sobre la Mediación; así como de orientación jurídica, psicológica y social a los mediados, durante la substanciación de aquella;
 
-> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2013)</small>
+> <small>(ADICIONADA, G.O. 20 DE AGOSTO DE 2015)</small>
 
-III. La capacitación, certificación, selección, registro y monitoreo de los mediadores para el servicio público y privado; a efecto de garantizar altos índices de competencia profesional; así como la capacitación de mediadores y desarrollo de proyectos de mediación en apoyo a instituciones públicas y privadas, para la solución de controversias en todos los ámbitos de interacción social, tales como mediación escolar y comunitaria, entre otras;
+II. bis. Operar como órgano especializado en la aplicación de los Mecanismos Alternativos de Solución de Controversias en Materia Penal;
+
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2015)</small>
+
+III. La capacitación, certificación, selección, registro y monitoreo de los facilitadores y de los mediadores para el servicio público y privado; a efecto de garantizar altos índices de competencia profesional; así como la capacitación de mediadores y desarrollo de proyectos de mediación en apoyo a instituciones públicas y privadas, para la solución de controversias en todos los ámbitos de interacción social, tales como mediación escolar y comunitaria, entre otras;
 
 > <small>(ADICIONADA, G.O. 8 DE ENERO DE 2008)</small>
 
@@ -3012,9 +3070,9 @@ IV. La difusión y divulgación permanente de los servicios que presta;
 
 V. El fortalecimiento de sus funciones y la ampliación de sus metas, a partir de su experiencia y del intercambio permanente con instituciones públicas, privadas, nacionales y extranjeras;
 
-> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2015)</small>
 
-VI. La supervisión constante de los servicios de los Mediadores y módulos de mediación, su retroalimentación oportuna, para mantenerlos dentro de niveles superiores de calidad así como el registro de los convenios de mediación;
+VI. La supervisión constante de los servicios a cargo de los Mediadores y Facilitadores y del funcionamiento de los módulos de mediación, su retroalimentación oportuna, para mantenerlos dentro de niveles superiores de calidad, así como el registro de los convenios de mediación y de la base de datos de asuntos atendidos en materia penal;
 
 > <small>(ADICIONADA, G.O. 8 DE ENERO DE 2008)</small>
 
@@ -3042,11 +3100,13 @@ XI. Cumplir con las disposiciones legales aplicables, así como con las que le a
 
 El Centro contará con un Director General, del cual partirá la estructura necesaria del mismo, para el desarrollo eficaz y eficiente de sus funciones, así como con una planta de mediadores especializados y el personal técnico y administrativo que para ello requiera.
 
-> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 186 Bis 3.
 
-El Director General será designado por el Consejo, para un periodo de cuatro años, con posibilidad de ratificación por otro periodo igual consecutivo. En su persona se reunirán una formación y experiencia multidisciplinarias en Derecho, Psicología, Sociología u otras áreas del conocimiento aplicables a los métodos alternos de solución de controversias.
+El Director General será designado por el Consejo, para un periodo de cuatro años, con posibilidad de ratificación. En su persona se reunirán una formación y experiencia multidisciplinarias en Derecho, Psicología, Sociología, Mediación u otras áreas del conocimiento aplicables a los mecanismos alternativos de solución de controversias.
+
+> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2008)</small>
 
 Durante el ejercicio de su encargo, el Director General sólo podrá ser removido por la comisión de delitos dolosos o por actualizarse en su persona alguno de los supuestos siguientes:
 
@@ -3084,7 +3144,9 @@ V. Haber residido en el Distrito Federal durante el último año anterior al dí
 
 VI. Gozar de buena reputación; y
 
-VII. No haber sido condenado por delito doloso.
+> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2015)</small>
+
+VII. No haber sido sentenciado, mediante sentencia condenatoria ejecutoriada, por un delito doloso.
 
 > <small>(REFORMADO, G.O. 19 DE JUNIO DE 2013)</small>
 
@@ -3094,9 +3156,9 @@ El Director General, los Directores y Subdirectores de Mediación del Centro de 
 
 ## TITULO NOVENO. De la Carrera Judicial
 
-### CAPITULO II. Facultades y obligaciones de (sic) Consejo de la Judicatura del Distrito Federal
+### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 187.
 
@@ -3252,11 +3314,9 @@ VI. Aquellos elementos que presente el evaluado por escrito.
 
 ## TITULO DECIMO. Del Consejo de la Judicatura del Distrito Federal
 
-### CAPITULO UNICO
+### CAPITULO I. Denominación, Objeto, Integración y Funcionamiento
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 195.
 
@@ -3344,11 +3404,9 @@ La ejecución de las resoluciones deberá realizarse por conducto de los órgano
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE ENERO DE 2015)</small>
 
-### CAPITULO UNICO
+### CAPITULO II. Facultades y obligaciones de (sic) Consejo de la Judicatura del Distrito Federal
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 201.
 
@@ -3374,17 +3432,11 @@ IV. Resolver, por causa justificada, sobre la remoción de Jueces y Magistrados,
 
 V. Vigilar que se cumplan las disposiciones que sobre la carrera judicial señale esta Ley, y aprobar los planes y programas del Instituto de Estudios Judiciales;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE ENERO DE 2015)</small>
+> <small>(REFORMADA , G.O. 20 DE AGOSTO DE 2015)</small>
 
-VI. Conocer y resolver las quejas que no sean de carácter jurisdiccional, así como los procedimientos oficiosos contra actos u omisiones de los miembros del Consejo de la Judicatura del Distrito Federal, Magistrados, Jueces y demás servidores de la administración de Justicia, haciendo la sustanciación correspondiente y, en su caso, imponer la medida disciplinaria procedente; así como conocer y resolver las quejas a que hace referencia el Artículo 135 del Código Nacional de Procedimientos Penales;
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 15 DE ENERO DE 2015)</small>
+VI. Conocer y resolver las quejas que no sean de carácter jurisdiccional, así como los procedimientos oficiosos contra actos u omisiones de los miembros del Consejo de la Judicatura del Distrito Federal, Magistrados, Jueces y demás servidores de la administración de Justicia, así como integrantes de las Unidades de Gestión Judicial del Sistema Procesal Penal Acusatorio, haciendo la sustanciación correspondiente y, en su caso, imponer la medida disciplinaria procedente; así como conocer y resolver las quejas a que hace referencia el Artículo 135 del Código Nacional de Procedimientos Penales;
 
 Precisando que en tratándose del procedimiento de queja al que hace referencia el Artículo 135 (sic) Código Nacional de Procedimientos Penales; conocerá la Comisión de Disciplina del Consejo de la Judicatura, a través del Consejero Semanero quien tramitará y resolverá de manera unitaria.
-
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
-
-Estas facultades se ejercerán, por conducto de la Comisión de Disciplina Judicial, la que resolverá en primera instancia. El Pleno del Consejo de la Judicatura del Distrito Federal resolverá en segunda instancia y de forma definitiva e inatacable de conformidad con esta ley y los acuerdos expedidos para el efecto;
 
 > <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
 
@@ -3532,9 +3584,11 @@ XIV. Las demás que determinen las leyes y el reglamento interior del Consejo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO I. De las Responsabilidades de los Servidores Públicos de la Administración de Justicia
+### CAPITULO UNICO
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 203.
 
@@ -3684,9 +3738,11 @@ IX.- Las demás que determine la Ley o demás disposiciones aplicables.
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO II. De las Faltas
+### CAPITULO UNICO
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, G.O. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 208.
 
@@ -3718,9 +3774,9 @@ Si todas las Salas o Magistrados del ramo estuvieren impedidos de conocer, pasar
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO II BIS. De las Sanciones
+### CAPITULO I. De las Responsabilidades de los Servidores Públicos de la Administración de Justicia
 
-> <small>(REFORMADO, G.O. 15 DE ENERO DE 2015)</small>
+> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 210.
 
@@ -3938,9 +3994,9 @@ La declaración de responsabilidad por faltas producirá el efecto de impedir al
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO III. De los Órganos y Sistemas para la Imposición de las Sanciones Administrativas
+### CAPITULO II. De las Faltas
 
-> <small>(REFORMADO, G.O. 15 DE ENERO DE 2015)</small>
+> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 220.
 
@@ -4240,9 +4296,9 @@ Los servidores públicos adscritos a la Unidad de Gestión Administrativa, a la 
 
 > <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
 
-### CAPITULO IV. Del Recurso de Revisión Administrativa
+### CAPITULO II BIS. De las Sanciones
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2015)</small>
 
 ###### Artículo 227.
 
@@ -4384,9 +4440,9 @@ g) Una vez dictada la resolución de separación del cargo, se turnará a la Sec
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO UNICO
+### CAPITULO III. De los Órganos y Sistemas para la Imposición de las Sanciones Administrativas
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2015)</small>
 
 ###### Artículo 232.
 
@@ -4428,9 +4484,9 @@ Siendo facultad del órgano que corresponda imponer las sanciones administrativa
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
 
-### CAPITULO I
+### CAPITULO IV. Del Recurso de Revisión Administrativa
 
-> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
+> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
 ###### Artículo 235.
 
@@ -4492,6 +4548,10 @@ La interposición del recurso de revisión administrativa no interrumpirá en ni
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 24 DE ABRIL DE 2003)</small>
 
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
+
 ###### Artículo 242.
 
 La Contraloría del Tribunal Superior de Justicia del Distrito Federal tendrá a su cargo las facultades de control y la inspección del cumplimiento de las normas de funcionamiento administrativo que fijan las leyes aplicables a los órganos, servidores públicos y empleados del propio Tribunal Superior de Justicia, incluyendo a los del Consejo de la Judicatura, ambos del Distrito Federal.
@@ -4527,6 +4587,10 @@ VI. Las demás que determinen las leyes, los reglamentos y acuerdos generales co
 ## TÍTULO DECIMO QUINTO. Del Sistema Penal Acusatorio Oral
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 15 DE ENERO DE 2015)</small>
+
+### CAPITULO I
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2015)</small>
 
 ###### Artículo 245.
 
@@ -4925,3 +4989,29 @@ PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO. Se derogan todas las disposiciones contrarias a este Decreto.
+
+G.O. 20 DE AGOSTO DE 2015.
+
+DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN III BIS DEL ARTÍCULO 4, SE ADICIONA CON UN CAPÍTULO III BIS EL TÍTULO SEXTO, SE ADICIONA CON UNA FRACCIÓN II BIS Y SE REFORMAN LAS FRACCIONES III Y VI DEL ARTÍCULO 186 BIS 1, Y SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 186 BIS 3 Y LA FRACCIÓN VII DEL ARTÍCULO 186 BIS 4 DE LA LEY ORGÁNICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. El Consejo de la Judicatura del Distrito Federal, deberá expedir las modificaciones que correspondan al Reglamento Interno del Centro de Justicia Alternativa del Tribunal Superior de Justicia del Distrito Federal, y las Reglas del Mediador Privado en un plazo de ciento ochenta días a partir de la entrada en vigor del presente decreto.
+
+CUARTO. Quienes habiendo obtenido diploma o constancia de mediación privada con licenciatura distinta a la de derecho podrán optar por la obtención de certificación y registro del Tribunal Superior de Justicia del Distrito Federal como Mediadores Privados para lo cual se les concede un plazo de hasta noventa días para solicitarlo por escrito ante el Centro de Justicia Alternativa, a partir de la entrada en vigor del presente decreto. Quienes los soliciten deberán cursar el programa de actualización y cumplir con los requisitos que establece la Ley.
+
+QUINTO. Para su mayor difusión, ordénese su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
+
+SEXTO. Se derogan las disposiciones que se opongan al presente decreto.
+
+G.O. 20 DE AGOSTO DE 2015.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 182, 182 TER Y 201; SE ADICIONAN EL CAPÍTULO III TER Y LOS ARTÍCULOS 64 BIS Y 64 TER; SE DEROGAN LOS ARTÍCULOS 56 BIS Y 62 TER, DE LA LEY ORGÁNICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se derogan todas las disposiciones contrarias a este Decreto.
