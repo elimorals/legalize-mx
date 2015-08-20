@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-del-instituto-sudcaliforniano-de-la-81550"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-10"
-last_updated: "2011-04-10"
+last_updated: "2015-08-20"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO SUDCALIFORNIANO DE LA INFRAESTRUCTURA FISICA EDUCATIVA, DEL ESTADO DE BAJA CALIFORNIA SUR
 
-REGLAMENTO INTERIOR DEL INSTITUTO SUDCALIFORNIANO DE LA INFRAESTRUCTURA FISICA EDUCATIVA DEL ESTADO DE BAJA CALIFORNIA SUR
+REGLAMENTO INTERIOR DEL INSTITUTO SUDCALIFORNIANO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO SUDCALIFORNIANO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 20 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE AGOSTO DE 2015 (SIN EFECTOS).
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 10 de abril de 2011.
 
@@ -318,3 +320,15 @@ C. ING. NARCISO AGÚNDEZ MONTAÑO
 EL DIRECTOR GENERAL DEL ISIFE Y SECRETARIO TÉCNICO DE LA JUNTA DE GOBIERNO
 
 C. PROFR. PEDRO GRACIANO OSUNA LÓPEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 20 DE AGOSTO DE 2015.
+
+PRIMERO.- Queda sin efecto el Reglamento Interior, del Instituto Sudcaliforniano de la Infraestructura Física Educativa, de fecha 02 de marzo del año 2011.
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+TERCERO.- Los casos no previstos en el presente Reglamento serán resueltos por la Junta de Gobierno en todo aquello que no se oponga a la legislación vigente.
+
+CUARTO.- El plazo para la expedición de los Manuales de Organización y de Procedimientos, será de 60 días naturales posteriores a la entrada en vigor del presente Reglamento.
