@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2014-12-18"
+last_updated: "2015-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE AGOSTO DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -486,9 +486,13 @@ I. El Jefe de Gobierno del Distrito Federal;
 
 II. El Titular de la Secretaría del Medio Ambiente;
 
-III. Los Jefes Delegacionales del Distrito Federal; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 20 DE AGOSTO DE 2015)</small>
 
-IV. La Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal.
+III. Secretaría de Ciencia, Tecnología e Innovación;
+
+IV. Los Jefes Delegacionales del Distrito Federal; y
+
+V. La Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal.
 
 Para efectos de lo dispuesto en la fracción III, en cada órgano político administrativo existirá una unidad administrativa encargada del área ambiental y de aplicar las disposiciones que esta Ley le señalan como de su competencia.
 
@@ -2017,6 +2021,20 @@ V. La incorporación de contenidos ambientales en los programas de las comisione
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
 VI. La formación de especialistas así como la coordinación para la investigación y el desarrollo tecnológico en materia ambiental, que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento sustentable de los recursos y proteger los ecosistemas.
+
+> <small>(ADICIONADO, G.O. 20 DE AGOSTO DE 2015)</small>
+
+###### ARTÍCULO 73 Bis.
+
+La Secretaría de Ciencia, Tecnología e Innovación del Distrito Federal en el ámbito de su competencia promoverá:
+
+I. La investigación básica, tecnológica y aplicada que se necesiten para la solución de los problemas ambientales del Distrito Federal, promoviendo la cooperación entre el sector privado y el sector público, universidades y centros de investigación;
+
+II. El financiamiento adicional a las instituciones académicas y centros de investigación para el fomento y realización de investigaciones ambientales conforme a programas y proyectos específicos;
+
+III. La celebración de convenios de ciencia y tecnología que coadyuven al mejoramiento del medio ambiente del Distrito Federal; y,
+
+IV. La amplia relación, vinculación y coordinación entre los centros de investigación y de enseñanza superior radicados en el Distrito Federal para fomentar la investigación científica en el cuidado del medio ambiente.
 
 ###### ARTÍCULO 74.
 
@@ -4527,3 +4545,9 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 20 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente decreto en la Gaceta Oficial del Distrito Federal y para su mayor difusión, en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
