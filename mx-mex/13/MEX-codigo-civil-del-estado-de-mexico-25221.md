@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2015-08-12"
+last_updated: "2015-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE AGOSTO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -651,13 +651,13 @@ Omisión de registro de reconocimiento de hijo
 
 ### CAPITULO III. De las Actas de Adopción
 
-> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, G.G. 20 DE AGOSTO DE 2015)</small>
 
 Plazo y documentos para levantar el acta de adopción
 
 ###### Artículo 3.
 
-23.- Dictada la resolución definitiva que autorice la adopción, el adoptante dentro del plazo de quince días, presentará al Oficial del Registro Civil, copia certificada de las diligencias relativas, a fin de que se asiente el acta de nacimiento correspondiente.
+23. Dictada la resolución definitiva que autorice la adopción, el Juez ordenará al Oficial del Registro Civil, el asentamiento del acta correspondiente remitiéndole copia certificada de las diligencias relativas, en un plazo que no deberá exceder de cinco días hábiles.
 
 > <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
 
@@ -1221,7 +1221,7 @@ Libertad entre los cónyuges para elegir su actividad
 
 ###### Artículo 4.
 
-20.- Los cónyuges podrán desempeñar la actividad, ocupación, profesión, u oficio que elijan, siendo lícitos.
+20.- Los cónyuges podrán desempeñar la actividad, ocupación, profesión u oficio que elijan, siendo lícitos.
 
 Administración de bienes por el cónyuge menor
 
@@ -1257,7 +1257,7 @@ Disposiciones que regulan las capitulaciones matrimoniales
 
 ###### Artículo 4.
 
-25.- Las capitulaciones matrimoniales son los convenios que los contrayentes o cónyuges, celebran para constituir la sociedad conyugal o la separación de bienes y reglamentar su administración.
+25.- Las capitulaciones matrimoniales son los convenios que los contrayentes o cónyuges celebran para constituir la sociedad conyugal o la separación de bienes y reglamentar su administración.
 
 Tiempo de otorgarse las capitulaciones matrimoniales
 
@@ -2449,9 +2449,7 @@ Revocación de reconocimiento de hijo hecho por menor
 
 Reconocimiento de hijo no nacido o fallecido
 
-### CAPITULO I. Disposiciones Generales
-
-Requisitos para adoptar
+### CAPITULO I
 
 ###### Artículo 4.
 
@@ -2549,121 +2547,55 @@ Tiempo para investigar la filiación
 
 177.- Las acciones de investigación de paternidad o maternidad pueden intentarse en cualquier tiempo.
 
-###### Artículo 4.
-
-178.- El mayor de veintiún años puede adoptar a uno o más menores o incapacitados, cuando acredite:
-
-I. Que tiene más de diez años que el adoptado;
-
-II. Tener medios para proveer los alimentos del adoptado, como hijo;
-
-III. Que la adopción sea benéfica para la persona que se pretende adoptar;
-
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
-
-IV. Que el adoptante sea persona idónea para adoptar, de conformidad con el certificado de idoneidad expedido por el Sistema para el Desarrollo Integral de la Familia del Estado de México, con base en los estudios médico, psicológico, socioeconómico y de trabajo social.
-
-Personas preferidas para adoptar
-
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+> <small>(DEROGADO, G.G. 20 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 4.
 
-179.- Para la adopción deberá darse preferencia conforme al orden siguiente: a matrimonios, a la mujer y al hombre que así lo acrediten jurídicamente vivir en concubinato, a la mujer o al hombre, sin descendencia:
-
-I. A mexiquenses cuyo domicilio se ubique dentro del territorio de la entidad,
-
-II. A mexiquenses cuyo domicilio se ubique fuera del territorio de la entidad;
-
-III. A mexicanos cuyo domicilio se ubique dentro del territorio nacional;
-
-IV. A mexicanos cuyo domicilio se ubique fuera del territorio nacional;
-
-V. A extranjeros cuyo domicilio se ubique dentro del territorio de la entidad;
-
-VI. A extranjeros cuyo domicilio se ubique dentro del territorio nacional; y
-
-VII. A extranjeros cuyo domicilio se ubique fuera del territorio nacional.
-
-En el caso de que los concubinos que así lo acrediten jurídicamente, la mujer o el hombre solteros sin descendencia; deseen adoptar, solamente podrán hacerlo respecto de mayores de cuatro años de edad en adelante, y de conformidad con éste artículo.
-
-Consentimiento entre cónyuges para adoptar
+178.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
 
 ###### Artículo 4.
 
-180.- Los cónyuges podrán adoptar cuando estén de acuerdo.
+179.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
 
-Número de personas que pueden adoptar
+###### Artículo 4.
 
-## TITULO SEXTO. De la Adopción
+180.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
+
+## TITULO SEXTO
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 20 DE AGOSTO DE 2015)</small>
 
 ### CAPITULO II
 
 ###### Artículo 4.
 
-181.- Nadie puede ser adoptado por más de una persona, salvo en el caso previsto en el artículo anterior.
-
-Requisitos para que el tutor adopte a su pupilo
+181.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
 
 ###### Artículo 4.
 
-182.- El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de la tutela.
+182.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
 
 ###### Artículo 4.
 
 183.- (DEROGADO, G.G. 15 DE MAYO DE 2012)
 
-Relación jurídica entre adoptante y adoptado
+###### Artículo 4.
+
+184.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
 
 ###### Artículo 4.
 
-184.- Entre el adoptante y el adoptado habrá los mismos derechos y obligaciones que entre padres e hijos.
+185.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
 
-Personas que deben consentir en la adopción
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+### CAPITULO III
 
 ###### Artículo 4.
 
-185.- Para que la adopción pueda tener lugar deberán consentirla en sus respectivos casos:
-
-> <small>(REFORMADA, G.G. 15 DE MAYO DE 2012)</small>
-
-I. El que ejerce la patria potestad sobre el menor que se pretende adoptar, salvo que se trate de abandonados, expósitos o entregados a instituciones públicas o de asistencia privada legalmente reconocidas;
-
-II. El tutor del que se va a adoptar;
-
-III. Las personas que hayan acogido al que se pretende adoptar y lo traten como a hijo cuando no hubiere quien ejerza la patria potestad ni tenga tutor;
-
-IV. El Ministerio Público a falta de los anteriores; o cuando quien lo acogió pretenda adoptarlo;
-
-V. El menor que se va adoptar cuando tenga más de diez años.
-
-> <small>(ADICIONADA, G.G. 15 DE MAYO DE 2012)</small>
-
-VI. La mujer que haya solicitado mantener en secreto su ingreso y su identidad en el momento del parto; y
-
-> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
-
-VII. El Sistema para el Desarrollo Integral de la Familia del Estado de México y los Sistemas Municipales e instituciones de asistencia privada deberán dar seguimiento a las adopciones a fin de verificar las condiciones físicas, educativas y emocionales del menor.
-
-Suplencia de consentimiento por el Juez
-
-### CAPITULO III. De la Adopción
-
-> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
-
-Efectos de la adopción
+186.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
 
 ###### Artículo 4.
 
-186.- Cuando el tutor, el Ministerio Público, o el acogedor, no consientan en la adopción, podrá suplir el consentimiento el Juez competente tomando en cuenta el interés superior del menor.
-
-Continuación de la adopción
-
-###### Artículo 4.
-
-187.- La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
+187.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
 
 > <small>(DEROGADA SU DENOMINACIÓN, G.G. 15 DE MAYO DE 2012)</small>
 
@@ -2679,9 +2611,7 @@ Continuación de la adopción
 
 190.- (DEROGADO, G.G. 15 DE MAYO DE 2012)
 
-### CAPITULO IV. De la Adopción Internacional
-
-Concepto de la adopción internacional
+### CAPITULO IV
 
 ###### Artículo 4.
 
@@ -2695,83 +2625,41 @@ Concepto de la adopción internacional
 
 193.- (DEROGADO, G.G. 15 DE MAYO DE 2012)
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 15 DE MAYO DE 2012)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 20 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 4.
 
-194.- Por la adopción el adoptado adquiere la calidad de hijo consanguíneo de los adoptantes.
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 15 DE MAYO DE 2012)</small>
-
-Legitimación para adoptar
-
-> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+194.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
 
 ###### Artículo 4.
 
-195.- A falta de matrimonio podrán adoptar en el orden de preferencia establecido en el artículo 4.179, el hombre y la mujer que acrediten jurídicamente vivir en concubinato, y la mujer o el hombre sin descendencia.
-
-Personas que pueden adoptarse
-
-> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
+195.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
 
 ###### Artículo 4.
 
-196.- Podrán ser adoptados:
-
-l. Los abandonados, expósitos o entregados para su adopción a instituciones públicas o de asistencia privada legalmente reconocidas. La mujer que solicitó mantener en secreto su identidad en el momento del parto y la reserva sobre el nacimiento, deberá entregar inmediatamente al menor al Sistema para el Desarrollo Integral de la Familia del Estado de México, para efectos de proceder a su adopción;
-
-II. Aquellos cuya tutela legal haya sido conferida a las instituciones descritas en la fracción anterior por virtud de resolución judicial;
-
-III. Aquéllos sobre los que no existe quien ejerza la patria potestad o existiendo, no manifiesten su voluntad para ejercerla en beneficio del interés superior del menor;
-
-IV. Los hijos del cónyuge o concubino.
-
-> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
-
-Cuando se trate de un grupo de hermanos el Sistema para el Desarrollo Integral de la Familia del Estado de México decidirá si es conveniente dar en adopción a alguno por separado, siempre procurando que la separación signifique salvaguardar el bien superior de los hermanos.
-
-> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
-
-El Sistema para el Desarrollo Integral de la Familia del Estado de México para autorizar la separación de los hermanos deberá tomar en cuenta, por lo menos los siguientes supuestos:
-
-a) Que por el número de hermanos no sea factible su adopción por el mismo adoptante;
-
-b) Que alguno o algunos de los hermanos tengan problemas de salud;
-
-c) La diferencia de edad entre los hermanos.
-
-> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
-
-Efectos de la adopción en relación al parentesco natural
+196.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
 
 ### CAPITULO I. De los efectos de la Patria Potestad respecto de la persona
 
 Respeto y consideración entre hijos y ascendientes
 
-###### Articulo 4.
+###### Artículo 4.
 
-197.- La adopción extingue la filiación existente entre el adoptado y sus progenitores y el parentesco con la familias (sic) de éstos, salvo para los impedimentos de matrimonio.
-
-> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
-
-Irrevocabilidad de la adopción
+197.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
 
 ###### Artículo 4.
 
-198.- La adopción es irrevocable.
+198.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 20 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 4.
 
-199.- La adopción internacional es la promovida por los ciudadanos de otro país, con residencia habitual fuera del territorio nacional; y tiene por objeto incorporar en una familia, a un menor que no pueda encontrar una familia en su país de origen. Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano, tomando en cuenta lo dispuesto por la Ley de Protección de los Derechos de Niñas, Niños, y Adolescentes y, en lo conducente, por las disposiciones de este Código.
-
-Seguimiento de las adopciones internacionales
-
-> <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
+199.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
 
 ###### Artículo 4.
 
-200.- En las adopciones internacionales el Sistema Estatal para el Desarrollo Integral de la Familia del Estado estará facultado para dar seguimiento de las condiciones físicas, educativas y emocionales del menor dado en adopción.
+200.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 6 DE AGOSTO DE 2015)</small>
 
@@ -2997,13 +2885,11 @@ II. Con la emancipación derivada del matrimonio;
 
 III. Por la mayoría de edad;
 
-> <small>(REFORMADA, G.G. 15 DE MAYO DE 2012)</small>
+IV. (DEROGADA, G.G. 20 DE AGOSTO DE 2015)
 
-IV. Por la adopción;
+> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2015)</small>
 
-> <small>(ADICIONADA, G.G. 15 DE MAYO DE 2012)</small>
-
-V. Cuando quien ejerza la patria potestad aceptó ante la autoridad judicial la entrega del menor a las instituciones de asistencia pública o privada, legalmente reconocidas en los términos previstos por el Código Civil y de Procedimientos Civiles del Estado de México;
+V. Cuando quien la ejerza haya entregado voluntariamente a su hija o hijo en términos de la Ley que regula los Centros de Asistencia Social y las Adopciones en el Estado de México y del Código de Procedimientos Civiles del Estado de México.
 
 > <small>(ADICIONADA, G.G. 15 DE MAYO DE 2012)</small>
 
@@ -3283,9 +3169,9 @@ I. A los hermanos, prefiriéndose a los que lo sean por ambas líneas;
 
 II. Por falta o incapacidad de los hermanos, a los demás colaterales dentro del cuarto grado inclusive.
 
-> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
+> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2015)</small>
 
-III. Tratándose de menores y a falta de los mencionados en los supuestos anteriores, serán los Sistemas para el Desarrollo Integral de la Familia del Estado de México y Municipales.
+III. Tratándose de niñas, niños y adolescentes abandonados, expósitos o entregados voluntariamente a los Sistemas para el Desarrollo Integral de la Familia y municipales, estos ejercerán la tutela legítima desde el momento en que sean recibidos.
 
 Elección de tutor legítimo por el Juez
 
@@ -3338,6 +3224,10 @@ Tutor del incapacitado que tenga hijos menores
 > <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
 
 En los casos que los Sistemas Municipales otorguen la guarda y cuidado a instituciones de asistencia social pública o privada, deberán notificarlo al Sistema para el Desarrollo Integral de la Familia del Estado de México.
+
+> <small>(ADICIONADO, G.G. 20 DE AGOSTO DE 2015)</small>
+
+El Sistema para el Desarrollo Integral de la Familia del Estado de México asumirá la tutela provisional, guarda y custodia de las niñas, niños y adolescentes que ingresen a los Centros de Asistencia Social de carácter público y privado.
 
 ###### Artículo 4.
 
@@ -4867,7 +4757,7 @@ Mejoras naturales
 
 58.- Las mejoras provenientes de la naturaleza o del tiempo, son en beneficio del que haya vencido en la posesión.
 
-Concepto de posesión pacifica
+Concepto de posesión pacífica
 
 ###### Artículo 5.
 
@@ -6397,7 +6287,7 @@ Usufructo sobre hacienda, quinta o rancho
 
 ###### Artículo 5.
 
-279.- Si el usufructo estuviere constituido sobre una hacienda, quinta o rancho del que forma parte un edificio, y éste se arruina, el usufructuario podrá continuar usufructuando el solar y los materiales
+279.- Si el usufructo estuviere constituido sobre una hacienda, quinta o rancho del que forma parte un edificio, y éste se arruina, el usufructuario podrá continuar usufructuando el solar y los materiales.
 
 Expropiación del bien objeto del usufructo
 
@@ -6787,7 +6677,7 @@ Condición testamentaria sin plazo
 
 ###### Artículo 6.
 
-46.- Cuando el testador no hubiere señalado plazo para el cumplimiento de la condición, el bien legado, permanecerá en poder del albacea y al hacerse la partición se asegurará el derecho del legatario o heredero para el caso de cumplirse la condición.
+46.- Cuando el testador no hubiere señalado plazo para el cumplimiento de la condición, el bien legado permanecerá en poder del albacea y al hacerse la partición se asegurará el derecho del legatario o heredero para el caso de cumplirse la condición.
 
 Condición testamentaria potestativa
 
@@ -6859,7 +6749,7 @@ Legatario considerado usufructuario
 
 ###### Artículo 6.
 
-58.- Cuando el legado debe concluir en un día seguro, se entregará el bien o cantidad legada al legatario, quien se considerará como usufructuario de ella mientras llega dicho día
+58.- Cuando el legado debe concluir en un día seguro, se entregará el bien o cantidad legada al legatario, quien se considerará como usufructuario de ella mientras llega dicho día.
 
 Legado de presentación periódica
 
@@ -7649,7 +7539,7 @@ Concubino que concurre con hijos de ambos y del otro
 
 ###### Artículo 6.
 
-174.- Si concurre con hijos de ambos y con hijos sólo del autor de la herencia, tendrá derecho a las dos terceras partes de la porción de un hijo;
+174.- Si concurre con hijos de ambos y con hijos sólo del autor de la herencia, tendrá derecho a las dos terceras partes de la porción de un hijo.
 
 Concubino que concurre con ascendiente
 
@@ -8817,7 +8707,7 @@ Invocación infundada de acontecimientos extraordinarios
 
 ###### Artículo 7.
 
-37.- Aquél que de manera infundada invoque acontecimientos extraordinarios con el único propósito de incumplir obligaciones convenidas, deberá pagar a su contraparte un treinta por ciento más de lo que pretendía nulificar o reducir."
+37.- Aquél que de manera infundada invoque acontecimientos extraordinarios con el único propósito de incumplir obligaciones convenidas, deberá pagar a su contraparte un treinta por ciento más de lo que pretendía nulificar o reducir.
 
 ###### Artículo 7.
 
@@ -9629,7 +9519,7 @@ Ejercicio del derecho de opinión, crítica, expresión o información
 
 l. Ejerza sus derechos de opinión, crítica, expresión o información, en términos de lo dispuesto por los artículos 6 y 7 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Cuando aquélla se haya hecho a un funcionario o persona que haya obrado con carácter público, si la imputación fuere relativa al ejercicio de sus funciones o cuando el demandado obre por motivo de interés público o privado, pero legitimo.
+Cuando aquélla se haya hecho a un funcionario o persona que haya obrado con carácter público, si la imputación fuere relativa al ejercicio de sus funciones o cuando el demandado obre por motivo de interés público o privado, pero legítimo.
 
 II. En el contexto de un proceso contencioso, presente escrito o discurso, con las salvedades de las responsabilidades que de acuerdo con otras disposiciones legales puedan acreditarse.
 
@@ -13903,7 +13793,7 @@ En los poderes generales, para ejercer actos de dominio, bastará que se den con
 
 Cuando se quisieren limitar, en los tres casos mencionados, las facultades de los apoderados, se consignarán las limitaciones, o los poderes serán especiales.
 
-Los Notarios insertarán este artículo en los testimonios de los poderes que otorguen.
+Los notarios insertarán este artículo en los testimonios de los poderes que otorguen.
 
 Elementos formales específicos
 
@@ -15421,7 +15311,7 @@ Derecho del tanto del aparcero y el propietario
 
 Para hacer uso de este derecho, se observará lo dispuesto en la aparcería agrícola.
 
-TITULO DÉCIMOSEGUNDO
+TITULO DECIMOSEGUNDO
 
 De los Contratos Aleatorios
 
@@ -16647,7 +16537,7 @@ Términos de la contratación
 
 1144 Quinquiés.- La determinación de la hipoteca inversa se realizará previo avalúo de Institución debidamente facultada, que considere el valor comercial de mercado del inmueble que deberá actualizarse cada 2 años para estar acorde con la plusvalía que el bien adquiera con el tiempo.
 
-El costo de dicho avaluó será cubierto por el pensionario.
+El costo de dicho avalúo será cubierto por el pensionario.
 
 El contrato de hipoteca inversa, además de lo pactado, estará sujeto a lo siguiente:
 
@@ -16681,7 +16571,7 @@ Lineamientos de las amortizaciones
 
 ###### Artículo 7.
 
-1 144 Sexies.- La amortización del capital se sujetará a las siguientes normas:
+1144 Sexies.- La amortización del capital se sujetará a las siguientes normas:
 
 I. Cuando fallezca el pensionista y su beneficiario, en caso de haberlo, sus herederos podrán abonar al pensionario la totalidad del adeudo existente y vencido, sin compensación por la cancelación del gravamen y pago del adeudo;
 
@@ -16695,7 +16585,7 @@ Transmisión del bien hipotecado
 
 ###### Artículo 7.
 
-1 144 Septies.- El inmueble hipotecado no podrá ser transmitido por acto inter vivos sin el consentimiento previo del pensionario. El incumplimiento de esta obligación le conferirá el derecho de declarar vencido anticipadamente el total del adeudo y exigible a la fecha, a menos que se sustituya la garantía en forma bastante e igual a la anterior en un plazo de seis meses.
+1144 Septies.- El inmueble hipotecado no podrá ser transmitido por acto inter vivos sin el consentimiento previo del pensionario. El incumplimiento de esta obligación le conferirá el derecho de declarar vencido anticipadamente el total del adeudo y exigible a la fecha, a menos que se sustituya la garantía en forma bastante e igual a la anterior en un plazo de seis meses.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -16725,7 +16615,7 @@ Supletoriedad
 
 ###### Artículo 7.
 
-1 144 Decies.- En lo no previsto en este Código, la hipoteca inversa se regirá por lo dispuesto en la legislación que en cada caso resulte aplicable.
+1144 Decies.- En lo no previsto en este Código, la hipoteca inversa se regirá por lo dispuesto en la legislación que en cada caso resulte aplicable.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -17233,7 +17123,7 @@ Aviso definitivo por el Notario
 
 > <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
-###### Articulo 8.
+###### Artículo 8.
 
 26.- Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el artículo 8.23, el Notario Público dará el aviso definitivo al Registro durante la vigencia del aviso preventivo que contendrá número y fecha de la escritura y la de su firma, acto, otorgantes, sello y firma del Notario Público.
 
@@ -17917,13 +17807,13 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 TERCERO.- La reforma al Penúltimo Párrafo del artículo 12, y la adición de un Segundo Párrafo a la fracción VI del artículo 162 del Código de Procedimientos Penales para el Estado de México, estarán en vigor en los siguientes términos:
 
-Hasta, el treinta y uno de marzo de dos mil diez en los Distritos judiciales de Chalco, Otumba y Texcoco;
+Hasta, el treinta y uno de marzo de dos mil diez en los Distritos Judiciales de Chalco, Otumba y Texcoco;
 
-Hasta, el treinta de septiembre de dos mil diez en los Distritos Judiciales de Nezahualcóyotl, El Oro. Ixtlahuaca. Sultepec y Temascaltepec;
+Hasta, el treinta de septiembre de dos mil diez en los Distritos Judiciales de Nezahualcóyotl, El Oro, Ixtlahuaca, Sultepec y Temascaltepec;
 
 Hasta, el treinta y uno de marzo de dos mil once en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango;
 
-Hasta, el treinta de septiembre de dos mil once en los Distritos judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
+Hasta, el treinta de septiembre de dos mil once en los Distritos Judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
 
 CUARTO.- Los artículos 2.134 al 2.140 del Código de Procedimientos Civiles del Estado de México, quedarán derogados en las fechas y términos señalados a continuación:
 
@@ -18220,3 +18110,19 @@ CUARTO. Los recursos económicos que se recauden derivados del pago establecido 
 QUINTO. La Secretaría de Movilidad en coordinación con la Secretaría de Finanzas, realizará los estudios correspondientes a efecto de determinar el tipo de licencia de conductor necesaria para la prestación del servicio, en un plazo no mayor de ciento veinte días naturales. En tanto se da cumplimiento a lo anterior, se continuará prestando el servicio con las licencias vigentes.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 20 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Los Centros de Asistencia Social que se encuentren operando contarán con un plazo improrrogable de ciento ochenta días hábiles a partir de la entrada en vigor del presente Decreto para obtener la autorización respectiva.
+
+CUARTO. El Ejecutivo realizará las modificaciones a las disposiciones reglamentarias y administrativas derivadas del presente Decreto en un plazo no mayor a noventa días hábiles, a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. El DIFEM, en un plazo no mayor a los treinta días hábiles posteriores a la entrada en vigor del presente Decreto, creará una página de internet en la que difundirá la información relativa a niñas, niños y adolescentes que sean canalizados a los Centros de Asistencia Social a su cargo, para posibilitar que algún familiar los pueda localizar y en su caso, deduzcan los derechos que a su interés convenga.
+
+SEXTO. La Legislatura proveerá los recursos necesarios para dar cumplimiento a lo previsto en el presente Decreto.
+
+SÉPTIMO. El Sistema para el Desarrollo Integral de la Familia DIF, Estado de México, presentara a la legislatura un informe del impacto social del presente decreto, al año de su entrada en vigor.
