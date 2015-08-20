@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2015-08-06"
+last_updated: "2015-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "DUR"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE AGOSTO DE 2015 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 20 DE AGOSTO DE 2015.</small>
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -2007,9 +2007,9 @@ El Instituto Duranguense de Acceso a la Información Pública y de Protección d
 
 El Instituto tendrá un Consejo General, que será el órgano máximo de autoridad y estará integrado por tres comisionados propietarios, quienes designarán a su presidente de entre sus miembros.
 
-> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2015)</small>
+(ADICIONADO, P.O. 6 DE AGOSTO DE 2015) (F. DE E., P.O. 20 DE AGOSTO DE 2015)
 
-Los comisionados y consejeros, respectivamente, durarán en su cargo por un periodo que no excederá de siete años, sin posibilidad de reelección.
+Los comisionados durarán en su cargo por un periodo que no excederá de siete años, sin posibilidad de reelección.
 
 > <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2015)</small>
 
@@ -3601,10 +3601,14 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
+> <small>N. DE E. DE LA FE DE ERRATAS AL DECRETO NÚMERO 387, PUBLICADA EN EL P.O. 20 DE AGOSTO DE 2015, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DE LOS PRESENTES TRANSITORIOS.</small>
+
 P.O. 6 DE AGOSTO DE 2015.
+
+> <small>(F. DE E., P.O. 20 DE AGOSTO DE 2015)</small>
 
 PRIMERO.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
-SEGUNDO.- El Instituto Duranguense de Acceso a la Información Publica y de Protección de Datos Personales, contara con un término de seis meses posteriores a la entrada en vigor del presente decreto, para la debida conformación y entrada en funciones del Consejo Consultivo.
+> <small>(F. DE E., P.O. 20 DE AGOSTO DE 2015)</small>
 
-TERCERO.- Se derogan todas las disposiciones legales que se opongan al contenido de esta ley.
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al contenido de esta ley.
