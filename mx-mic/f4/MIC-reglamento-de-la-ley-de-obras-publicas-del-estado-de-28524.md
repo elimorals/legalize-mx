@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-ley-de-obras-publicas-del-estado-de-28524"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-09-27"
-last_updated: "2013-08-12"
+last_updated: "2015-08-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,15 +23,17 @@ state: "MIC"
 
 REGLAMENTO DE LA LEY DE OBRAS PÚBLICAS DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS, PUBLICADO EN EL P.O. DE 20 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el lunes 27 de septiembre de 1999.
 
 VICTOR MANUEL TINOCO RUBI, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, en uso de la facultad que al Ejecutivo a mi cargo confiere la fracción VI del Artículo 60 de la Constitución Política del Estado, y
 
-CONSIDERANDO.
+CONSIDERANDO...
 
-Por Io anteriormente expuesto y fundado, tengo a bien expedir el presente Decreto que contiene el
+Por lo anteriormente expuesto y fundado, tengo a bien expedir el presente Decreto que contiene el
 
 REGLAMENTO DE LA LEY DE OBRAS PUBLICAS DEL ESTADO DE MICHOACAN DE OCAMPO Y DE SUS MUNICIPIOS
 
@@ -91,7 +93,7 @@ I. La planeación, anteproyecto y diseños de ingeniería civil, industriales el
 
 II. La planeación, anteproyecto y diseños arquitectónicos y artísticos;
 
-III. Los estudios técnicos de agrología y desarrollo pecuario, hidrología, mecánica de suelos, topografía, geología, geotecnia, geofísica, geotermia, oceanografía, metereología (sic), areofotogrametría, ambientales, ecológicos y de ingeniería de tránsito;
+III. Los estudios técnicos de agrología y desarrollo pecuario, hidrología, mecánica de suelos, topografía, geología, geotecnia, geofísica, geotermia, oceanografía, metereología (sic), areofotogrametría (sic), ambientales, ecológicos y de ingeniería de tránsito;
 
 IV. Los estudios económicos y de planeación de preinversión, factibilidad técnico-económica, evaluación, adaptación, tenencia de la tierra, financieros, de desarrollo y restitución de la eficiencia de las instalaciones;
 
@@ -529,7 +531,7 @@ VI. Rendir informes periódicos y final del cumplimiento del contrato en los asp
 
 El procedimiento de invitación restringida a cuando menos tres contratistas, a que se refiere el artículo 52 de la Ley, se sujetará a lo siguiente:
 
-I. La apertura de los sobres podrá hacerse sin la presencia de los correspondientes concursantes, pero invariablemente se invitará a un representante del órgano de control de la Deependencia, (sic) Entidad, Ayuntamiento o Entidad Paramunicipal;
+I. La apertura de los sobres podrá hacerse sin la presencia de los correspondientes concursantes, pero invariablemente se invitará a un representante del órgano de control de la Deependencia (sic), Entidad, Ayuntamiento o Entidad Paramunicipal;
 
 II. Para llevar a cabo la evaluación, se deberá contar con un mínimo de tres propuestas;
 
@@ -699,7 +701,7 @@ SEGUNDO: Se derogan todas las disposiciones que se opongan al contenido del pres
 
 Morelia, Michoacán, a 26 de Agosto de 1999.
 
-SUFRAGIO EFECTIVO. NO REELECCION.- LIC. VICTOR MANUEL TINOCO RUBI.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. ANTONIO GARCIA TORRES.- SECRETARIO DE GOBIERNO.- ING. FRANCISCO OCTAVIO APARICIO MENDOZA.- SECRETARIO DE COMUNICACIONES Y OBRAS PUBLICAS.- C.P. OSCAR MENDOZA AHUMADA.- COORDINADOR DE CONTROL Y DESARROLLO ADMINISTRATlVO.- (Firmados).
+SUFRAGIO EFECTIVO. NO REELECCION.- LIC. VICTOR MANUEL TINOCO RUBI.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. ANTONIO GARCIA TORRES.- SECRETARIO DE GOBIERNO.- ING. FRANCISCO OCTAVIO APARICIO MENDOZA.- SECRETARIO DE COMUNICACIONES Y OBRAS PUBLICAS.- C.P. OSCAR MENDOZA AHUMADA.- COORDINADOR DE CONTROL Y DESARROLLO ADMINISTRATIVO.- (Firmados).
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
@@ -716,3 +718,21 @@ Artículo primero. El Decreto entrará en vigor el día siguiente al de su publi
 Artículo segundo. Se derogan todas las disposiciones legales y administrativas en lo que se opongan al Decreto.
 
 Artículo tercero. Los procedimientos para la ejecución de obras públicas y de servicios relacionados con las mismas que se encuentren en proceso al momento de publicación del presente decreto, continuarán substanciándose conforme a la norma vigente al momento de la publicación de la convocatoria respectiva.
+
+P.O. 20 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial.
+
+SEGUNDO. Se abroga el Reglamento de la Ley de Obras Públicas del Estado de Michoacán de Ocampo y de sus Municipios publicado en el Periódico Oficial el día 27 de septiembre de 1999, con última reforma el día 12 de agosto de 2013.
+
+TERCERO. Se abrogan las siguientes disposiciones:
+
+I. Lineamientos para el Uso, Control, Seguimiento y Cierre de Bitácora de Obra en la Ejecución de Obras Públicas y Servicios Relacionados con las Mismas, Financiados con recursos Estatales;
+
+II. Lineamientos Generales para el Control de Procesos de Licitación en materia de Obra Pública y Servicios Relacionados con las Mismas, con Cargo a Recursos Estatales;
+
+CUARTO. Se derogan las demás disposiciones que se opongan al presente Reglamento.
+
+QUINTO. A los actos y contratos que las dependencias, entidades, ayuntamientos o entidades paramunicipales que hayan celebrado con anterioridad a la entrada en vigor del presente Reglamento les serán aplicables las disposiciones vigentes al momento de su inicio o celebración.
+
+SEXTO. Los ayuntamientos o entidades paramunicipales contarán con un plazo de noventa días naturales contados a partir de la entrada en vigor del presente Reglamento para ajustar la integración de sus comités de obras públicas que hayan establecido, a lo previsto en el artículo 56 de este ordenamiento.
