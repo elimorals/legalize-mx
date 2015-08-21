@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-alcoholes-para-este-municipio-de-paras-nuevo-3594
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-22"
-last_updated: "2003-12-22"
+last_updated: "2015-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35942&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "NLE"
 
 REGLAMENTO DE ALCOHOLES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PREVENCIÓN Y COMBATE AL ABUSO DEL ALCOHOL Y DE REGULACIÓN DE SU VENTA, EXPENDIO Y CONSUMO DEL MUNICIPIO DE PARÁS, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 21 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de diciembre de 2003.
 
@@ -840,3 +842,13 @@ SECRETARIA DEL AYUNTAMIENTO
 C. BLANCA DALIA CANALES GOMEZ
 
 TESORERA MUNICIPAL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE AGOSTO DE 2015.
+
+Primero.- El presente Reglamento Para la Prevención y Combate al Abuso del Alcohol y de Regulación de su Venta, Expendio y Consumo del Municipio de Parás, Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se ABROGA el REGLAMENTO DE ALCOHOLES PARA ESTE MUNICIPIO DE PARÁS, NUEVO LEÓN publicada en el Periódico Oficial del Estado de fecha 22 de diciembre del 2003.
+
+Tercero.- Se abrogan todas las disposiciones municipales que contravengan lo establecido en el presente reglamento.
