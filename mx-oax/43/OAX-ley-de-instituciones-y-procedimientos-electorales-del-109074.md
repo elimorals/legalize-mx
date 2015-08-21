@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-instituciones-y-procedimientos-electorales-del-109074"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-09"
-last_updated: "2015-07-09"
+last_updated: "2015-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2015
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 9 de julio de 2015.
 
@@ -1543,7 +1543,9 @@ Artículo 70
 
 1. La Contraloría General es el órgano de control interno del Instituto Estatal, el cual tendrá a su cargo la fiscalización de los ingresos y egresos del mismo. En el ejercicio de sus atribuciones estará dotada de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones.
 
-2. El titular de la Contraloría General tendrá el nivel jerárquico de Director Ejecutivo, será designado por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, a propuesta de Instituciones Públicas de Educación Superior en el Estado, mediante los procedimientos y en los plazos que fije la Ley Orgánica del Poder Legislativo del Estado de Oaxaca. Durará tres años en el cargo pudiendo ser reelecto una sola vez, estará adscrito administrativamente a la Presidencia del Consejo General.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2015)</small>
+
+2. El titular de la Contraloría General tendrá el nivel jerárquico de Director Ejecutivo, será designado por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, a propuesta de la Junta de Coordinación Política. Durará tres años en el cargo pudiendo ser reelecto por una sola ocasión, estará adscrito administrativamente a la Presidencia del Consejo General.
 
 4. (sic) La Contraloría General contará con la estructura orgánica, personal y recursos que apruebe el Consejo General a propuesta de su titular.
 
@@ -5192,3 +5194,11 @@ Tlalixtac de Cabrera, Centro, Oax., 9 de julio de 2015.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE AGOSTO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Quedan derogadas todas las disposiciones legales que se opongan a esta reforma
