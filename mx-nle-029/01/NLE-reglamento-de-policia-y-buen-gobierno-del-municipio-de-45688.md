@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-45688"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-18"
-last_updated: "2005-07-18"
+last_updated: "2015-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45688&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE HUALAHUISES, NUEVO LEON
 
-REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE HUALAHUES, NUEVO LEON
+REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE HUALAHUISES, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE POLICÍA Y BUEN GOBIERNO, PUBLICADO EN EL P.O. DE 21 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2015 (DEROGADO).
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el lunes 18 de julio de 2005.
 
@@ -349,7 +351,7 @@ V.- Se procederá en la audiencia a:
 
 A) Interrogar al arrestado en torno a los hechos que se le imputan.
 
-B) Oír al agente del la Autoridad que hubiere intervenido en el arresto.
+B) Oír al agente del (sic) la Autoridad que hubiere intervenido en el arresto.
 
 C) Formular las preguntas que se estimen pertinentes, tanto a la persona que hubiere presentado la queja, como a los testigos que asistan a la audiencia.
 
@@ -421,7 +423,7 @@ Si el infractor omitiere el pago de la multa que se le hubiere impuesto, ésta l
 
 ###### ARTICULO 36º.
 
-Si como resultado de la comisión de la infracción, se originaren daños al patrimonio municipal o se tuviere que realizar alguna erogación extraordinaria para efectos de reestablecer las cosas a su estado original, los gastos erogados serán a cargo del infractor.
+Si como resultado de la comisión de la infracción, se originaren daños al patrimonio municipal o se tuviere que realizar alguna erogación extraordinaria para efectos de reestablecer (sic) las cosas a su estado original, los gastos erogados serán a cargo del infractor.
 
 Si de la infracción se derivan daños que afecten el patrimonio o integridad personal de algún particular, este podrá reclamarlo ante la autoridad competente.
 
@@ -562,3 +564,11 @@ PRESIDENTE MUNICIPAL
 C. P. ROBERTO JAVIER PÁRAS ADAME
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE AGOSTO DE 2015.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogara el Reglamento de Policía y Buen Gobierno publicado el 18 de Julio del 2005, así como todas las disposiciones sobre esta materia que se opongan al cumplimiento de este ordenamiento.
