@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2015-05-09"
+last_updated: "2015-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2015.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -929,15 +929,55 @@ E) El dictamen con propuesta de suspensión o desaparición de ayuntamiento, sus
 
 F) Para lo no previsto en el presente Capítulo, se aplicará de manera supletoria en los actos de notificación y desahogo de pruebas, el Código de Procedimientos Civiles del Estado.
 
-### CAPÍTULO VI. DE LOS CONCEJOS MUNICIPALES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE AGOSTO DE 2015)</small>
+
+### CAPÍTULO VI. DE LA TERMINACIÓN ANTICIPADA DEL PERIODO DE LAS AUTORIDADES INDÍGENAS EN MUNICIPIOS QUE SE RIGEN POR LOS SISTEMAS NORMATIVOS INDÍGENAS
+
+(NOTA 1: EL 26 DE MAYO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 60/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE MAYO DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+(NOTA 2: EL 26 DE MAYO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 61/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE MAYO DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+(NOTA 3: EL 26 DE MAYO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 62/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE MAYO DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+(NOTA 4: EL 26 DE MAYO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 63/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE MAYO DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+(NOTA 5: EL 26 DE MAYO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 64/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE MAYO DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+(NOTA 6: EL 26 DE MAYO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 65/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE MAYO DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+(NOTA 7: EL 26 DE MAYO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 66/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE MAYO DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+(NOTA 8: EL 26 DE MAYO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE MAYO DE 2016 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 65 BIS.- La Asamblea General Comunitaria es la máxima autoridad en los municipios indígenas que se rigen por sus Sistemas Normativos para elegir a sus autoridades. Sus acuerdos serán plenamente válidos y deberán ser reconocidos y respetados por el Estado, siempre que no violen los derechos humanos de sus integrantes, reconocidos por la Constitución y Tratados Internacionales. Se integra por los miembros de la comunidad, en condiciones de igualdad conforme a sus sistemas normativos indígenas.
+
+La asamblea general encargada de elegir a las autoridades indígenas en municipios que se rigen por sus Sistemas Normativos, podrá decidir la terminación anticipada del periodo para el que fueron electos todos los integrantes de un Ayuntamiento y elegir a las autoridades sustitutas, para concluir dicho período, cumpliendo con el Sistema Normativo que corresponda.
+
+Procederá la terminación anticipada del mandato, cuando se reúnan los requisitos y se cumpla con el siguiente procedimiento:
+
+I. Que haya transcurrido como mínimo la tercera parte del mandato, el cual previamente de acuerdo a sus sistemas normativos tengan señalado el periodo;
+
+II. Sea solicitada, al menos por el 30 por ciento del número de integrantes de la Asamblea que eligió a las autoridades.
+
+III. La petición de terminación anticipada se solicitará ante el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, para que por conducto del Consejo Estatal de Sistemas Normativos Electorales Indígenas instruya y examine los requisitos de procedibilidad, y en su caso de ser procedente, previo acuerdo del Consejo General coadyuve en la celebración de la Asamblea del Municipio.
+
+IV. Para que la decisión de terminación anticipada sea válida, deberá aprobarse por la mayoría calificada, que en ningún caso podrá ser menor a las dos terceras partes de los presentes en la Asamblea General Comunitaria.
+
+V. Si la terminación anticipada del periodo de las autoridades indígenas es aprobada por la Asamblea, el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, deberá remitir el expediente respectivo al Congreso del Estado, para que proceda en el término de 30 días naturales a declarar mediante decreto aprobado por mayoría simple, la terminación anticipada del periodo de autoridades indígenas.
+
+VI. Ya declarada procedente la terminación anticipada, el Congreso del Estado designará a un encargado de la Administración Municipal, en tanto se nombran a las autoridades sustitutas.
+
+VII. El Congreso del Estado autorizará al Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, convoque a la Asamblea de la comunidad para nombrar a las autoridades sustitutas por el periodo previamente establecido de acuerdo a sus sistemas normativos.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO VI], P.O. 21 DE AGOSTO DE 2015)
+
+### CAPÍTULO VII. DE LOS CONCEJOS MUNICIPALES
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-### CAPÍTULO VII. DE LOS ENCARGADOS DE LA ADMINISTRACIÓN MUNICIPAL
-
-###### ARTÍCULO 67 Bis.
-
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 ###### ARTÍCULO 66.
 
@@ -957,13 +997,15 @@ Si las condiciones políticas no permiten que inicie en sus funciones un Concejo
 
 Al concluir el término del nombramiento concedido al encargado, se deberá de decretar la designación del Concejo Municipal, o en su defecto, si las condiciones aún no lo permiten, se decidirá lo relativo a la integración del Concejo.
 
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+(REUBICADO [N. DE E. ANTES CAPÍTULO VII], P.O. 21 DE AGOSTO DE 2015)
 
-### CAPÍTULO I. DEL PRESIDENTE MUNICIPAL
+### CAPÍTULO VIII. DE LOS ENCARGADOS DE LA ADMINISTRACIÓN MUNICIPAL
+
+ARTÍCULO 67 BIS. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
 ## TÍTULO CUARTO. DE LAS AUTORIDADES DEL AYUNTAMIENTO
 
-### CAPÍTULO II. DEL SÍNDICO
+### CAPÍTULO I. DEL PRESIDENTE MUNICIPAL
 
 ###### ARTÍCULO 68.
 
@@ -1077,7 +1119,7 @@ VII.- Residir durante su gestión fuera del territorio municipal; y
 
 VIII.- En los casos de infracciones a los reglamentos y disposiciones legales, imponer arrestos que excedan las treinta y seis horas o multa que exceda de lo señalado en la Ley de Ingresos Municipales.
 
-### CAPÍTULO III. DE LOS REGIDORES
+### CAPÍTULO II. DEL SÍNDICO
 
 ###### ARTÍCULO 71.
 
@@ -1147,7 +1189,7 @@ XX.- Las demás que señalen las disposiciones legales y reglamentarias aplicabl
 
 El Síndico Municipal no puede desistirse, transigir, comprometerse en árbitro (sic) o hacer sesión de bienes, salvo autorización expresa que en cada caso le otorgue el Ayuntamiento aprobada con la mayoría calificada de los concejales.
 
-### CAPÍTULO IV. DE LAS AUTORIDADES AUXILIARES DEL AYUNTAMIENTO
+### CAPÍTULO III. DE LOS REGIDORES
 
 ###### ARTÍCULO 73.
 
@@ -1195,7 +1237,7 @@ La denominación de cada regiduría corresponderá a la materia que tenga a su c
 
 El Ayuntamiento establecerá las denominaciones o materias de las regidurías en sus respectivos bandos de policía y gobierno así como en los reglamentos municipales.
 
-### CAPÍTULO V. DE LAS LICENCIAS Y DEL MODO DE SUPLIR LAS AUSENCIAS DE LOS INTEGRANTES DEL AYUNTAMIENTO
+### CAPÍTULO IV. DE LAS AUTORIDADES AUXILIARES DEL AYUNTAMIENTO
 
 ###### ARTÍCULO 76.
 
@@ -1259,7 +1301,7 @@ X.- Las demás que le señalen las leyes, reglamentos o acuerdos del Ayuntamient
 
 Las autoridades auxiliares no podrán administrar más recursos que los recibidos para los gastos de administración y funcionamiento de sus oficinas. No podrán ejecutar obras en forma directa, salvo las que autorice el Ayuntamiento.
 
-### CAPÍTULO VI. DEL ABANDONO DEL CARGO Y DEL FALLECIMIENTO DE LOS CONCEJALES
+### CAPÍTULO V. DE LAS LICENCIAS Y DEL MODO DE SUPLIR LAS AUSENCIAS DE LOS INTEGRANTES DEL AYUNTAMIENTO
 
 ###### ARTÍCULO 82.
 
@@ -1303,7 +1345,7 @@ II.- Si por falta injustificada, el concejal deja de acudir a más de tres sesio
 
 El mismo procedimiento se seguirá, para el caso de licencias que presenten los integrantes de los Concejos Municipales.
 
-### CAPÍTULO I. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL CENTRALIZADA
+### CAPÍTULO VI. DEL ABANDONO DEL CARGO Y DEL FALLECIMIENTO DE LOS CONCEJALES
 
 ###### ARTÍCULO 85.
 
@@ -1319,7 +1361,7 @@ De todos los casos se comunicará al Congreso del Estado para que emita la decla
 
 ## TÍTULO QUINTO. DE LOS LINEAMIENTOS GENERALES PARA LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
-### CAPÍTULO II. DE LA DELEGACIÓN DE FACULTADES Y LA DESCONCENTRACIÓN ADMINISTRATIVA
+### CAPÍTULO I. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL CENTRALIZADA
 
 ###### ARTÍCULO 87.
 
@@ -1523,7 +1565,7 @@ I.- Previa orden del Ayuntamiento concluir las obras iniciadas por administracio
 
 II.- Ejecutar los acuerdos del ayuntamiento tendientes a proporcionar a la cabecera municipal, agencias, colonias y comunidades del Municipio obras y servicios públicos básicos en términos del artículo 113 de la Constitución Política del Estado Libre y Soberano de Oaxaca.
 
-### CAPÍTULO III. DE LOS SERVICIOS PÚBLICOS Y DE LA ADMINISTRACIÓN PÚBLICA PARAMUNICIPAL
+### CAPÍTULO II. DE LA DELEGACIÓN DE FACULTADES Y LA DESCONCENTRACIÓN ADMINISTRATIVA
 
 ###### ARTÍCULO 98.
 
@@ -1533,7 +1575,7 @@ Corresponde al Ayuntamiento, en ejercicio de sus facultades reglamentarias inter
 
 Para la mejor atención y eficiente despacho de los asuntos de su competencia, el Ayuntamiento resolverá la creación de órganos administrativos desconcentrados que estarán jerárquicamente subordinados al Presidente Municipal, o al titular de la dependencia que corresponda y tendrán facultades especificas para resolver sobre la materia que les corresponda y dentro del ámbito territorial que se determine en cada caso, de conformidad con las disposiciones legales aplicables.
 
-### CAPÍTULO I. DE LOS BIENES MUNICIPALES
+### CAPÍTULO III. DE LOS SERVICIOS PÚBLICOS Y DE LA ADMINISTRACIÓN PÚBLICA PARAMUNICIPAL
 
 ###### ARTÍCULO 100.
 
@@ -1563,7 +1605,7 @@ Los servicios públicos y la administración pública paramunicipal se regulará
 
 ## TÍTULO SEXTO. DE LA HACIENDA Y PATRIMONIO MUNICIPAL
 
-### CAPÍTULO II. DEL INVENTARIO Y CATÁLOGO DE LOS BIENES MUNICIPALES
+### CAPÍTULO I. DE LOS BIENES MUNICIPALES
 
 ###### ARTÍCULO 103.
 
@@ -1623,7 +1665,7 @@ III.- La publicación de la declaratoria que emita el Ayuntamiento, en el Perió
 
 IV.- La inscripción de la declaratoria correspondiente en el Registro Público de la Propiedad.
 
-### CAPÍTULO III. DE LA AFECTACIÓN DEL PATRIMONIO INMOBILIARIO MUNICIPAL
+### CAPÍTULO II. DEL INVENTARIO Y CATÁLOGO DE LOS BIENES MUNICIPALES
 
 ###### ARTÍCULO 109.
 
@@ -1661,7 +1703,7 @@ El inventario de bienes muebles y el catálogo de bienes inmuebles propiedad del
 
 La alteración, sustracción, disposición indebida, ocultamiento, así como otra conducta análoga realizada por los servidores públicos municipales, sobre los bienes del Municipio, será sancionada conforme a lo dispuesto en el Código Penal para el Estado de Oaxaca.
 
-### CAPÍTULO IV. DE LA HACIENDA PÚBLICA MUNICIPAL
+### CAPÍTULO III. DE LA AFECTACIÓN DEL PATRIMONIO INMOBILIARIO MUNICIPAL
 
 ###### ARTÍCULO 115.
 
@@ -1713,9 +1755,7 @@ Para los efectos del párrafo anterior, se creará un Comité de Adquisiciones y
 
 Los ayuntamientos podrán establecer la aplicación supletoria de la Ley para Adquisiciones, Arrendamientos y Servicios del Estado de Oaxaca.
 
-### CAPÍTULO V. DEL PRESUPUESTO DE EGRESOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2012)</small>
+### CAPÍTULO IV. DE LA HACIENDA PÚBLICA MUNICIPAL
 
 ###### ARTÍCULO 121.
 
@@ -1757,9 +1797,11 @@ Cualquier ciudadano del Municipio bajo su más estricta responsabilidad, mediant
 
 Todos los miembros del Ayuntamiento y el Tesorero Municipal serán responsables solidariamente de las irregularidades cometidas en el manejo de los fondos municipales, en consecuencia están obligados a vigilar los actos relacionados con la administración de dichos fondos.
 
-### CAPÍTULO VI. DE LA DEUDA PÚBLICA MUNICIPAL
+### CAPÍTULO V. DEL PRESUPUESTO DE EGRESOS
 
-### CAPÍTULO I. DE LAS BASES GENERALES
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2012)</small>
+
+### CAPÍTULO VI. DE LA DEUDA PÚBLICA MUNICIPAL
 
 ###### ARTÍCULO 127.
 
@@ -1803,7 +1845,7 @@ El control presupuestal comprenderá las asignaciones, transferencias, compromis
 
 Los libros o los registros contables deberán de conservarse durante 5 años por el Ayuntamiento en su archivo administrativo y no podrán por ningún motivo, modificarse o destruirse. Al término de ese lapso, la documentación se remitirá al Archivo General del Estado.
 
-### CAPÍTULO II. DE LOS BANDOS DE POLICÍA Y GOBIERNO, REGLAMENTOS, CIRCULARES Y DISPOSICIONES ADMINISTRATIVAS DE OBSERVANCIA GENERAL
+### CAPÍTULO I. DE LAS BASES GENERALES
 
 ###### ARTÍCULO 132.
 
@@ -1815,7 +1857,7 @@ El Ayuntamiento acordará la contratación de deuda pública por mayoría califi
 
 ## TÍTULO SÉPTIMO. DEL ORDEN JURÍDICO Y LA JUSTICIA MUNICIPAL
 
-### CAPÍTULO III. DE LA JUSTICIA MUNICIPAL Y LOS ALCALDES
+### CAPÍTULO II. DE LOS BANDOS DE POLICÍA Y GOBIERNO, REGLAMENTOS, CIRCULARES Y DISPOSICIONES ADMINISTRATIVAS DE OBSERVANCIA GENERAL
 
 ###### ARTÍCULO 134.
 
@@ -1849,7 +1891,7 @@ El Ayuntamiento contará con una Gaceta Municipal, para realizar la publicación
 
 El Ayuntamiento deberá destinar recursos de su Presupuesto de Egresos para la operación, organización y funcionamiento de la Gaceta Municipal. Expedirá también el Reglamento respectivo.
 
-### CAPÍTULO IV. DEL JUICIO CONTENCIOSO ADMINISTRATIVO Y DE LOS CONFLICTOS ELECTORALES
+### CAPÍTULO III. DE LA JUSTICIA MUNICIPAL Y LOS ALCALDES
 
 ###### ARTÍCULO 138.
 
@@ -1921,7 +1963,7 @@ VII.- Pago al erario municipal por el daño causado, sin perjuicio de las demás
 
 Para la imposición de las sanciones a que se refiere el presente Capítulo se deberán tomar en cuenta las condiciones particulares del infractor, la gravedad y las circunstancias en la comisión de la infracción.
 
-### CAPÍTULO V. DEL RECURSO ADMINISTRATIVO DE REVOCACIÓN
+### CAPÍTULO IV. DEL JUICIO CONTENCIOSO ADMINISTRATIVO Y DE LOS CONFLICTOS ELECTORALES
 
 ###### ARTÍCULO 144.
 
@@ -1955,7 +1997,7 @@ V.- Conocer como defensor del ciudadano de las quejas que se presenten contra el
 
 Se expedirá por el Ayuntamiento un Reglamento para el Procedimiento conciliatorio ante los Alcaldes, pudiéndose aplicar en forma supletoria la Ley de Mediación para el Estado de Oaxaca respecto de estos actos.
 
-### CAPÍTULO VI. RESOLUCIÓN DE CONFLICTOS ENTRE AYUNTAMIENTO Y LOS PODERES EJECUTIVO Y JUDICIAL
+### CAPÍTULO V. DEL RECURSO ADMINISTRATIVO DE REVOCACIÓN
 
 ###### ARTÍCULO 147.
 
@@ -1971,7 +2013,7 @@ b) Cuando una elección se declare nula por las autoridades electorales; y
 
 c) cuando no se verifique la elección extraordinaria prevista en el Código de Instituciones Políticas y Procedimientos Electorales de Oaxaca, el Congreso designará un Concejo Municipal para que ejerza las funciones del ayuntamiento por el tiempo de su ejercicio constitucional.
 
-### CAPÍTULO VII. DE LA SEGURIDAD PÚBLICA Y PROTECCIÓN CIVIL MUNICIPALES
+### CAPÍTULO VI. RESOLUCIÓN DE CONFLICTOS ENTRE AYUNTAMIENTO Y LOS PODERES EJECUTIVO Y JUDICIAL
 
 ###### ARTÍCULO 149.
 
@@ -2021,7 +2063,7 @@ V.- No aparezca firmado, a menos que se firme antes del vencimiento del plazo pa
 
 La interposición del recurso administrativo de revocación suspenderá la ejecución del acto, acuerdo o resolución impugnados.
 
-### CAPÍTULO VIII. DE LA CRÓNICA MUNICIPAL
+### CAPÍTULO VII. DE LA SEGURIDAD PÚBLICA Y PROTECCIÓN CIVIL MUNICIPALES
 
 ###### ARTÍCULO 153.
 
@@ -2077,7 +2119,7 @@ IV.- El día y hora señalados para la reanudación de la audiencia las partes e
 
 La Comisión de Gobernación dará cuenta del resultado de la audiencia con el dictamen respectivo para que el Pleno del Congreso lo apruebe en su caso.
 
-### CAPÍTULO IX. DEL ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS
+### CAPÍTULO VIII. DE LA CRÓNICA MUNICIPAL
 
 ###### ARTÍCULO 159.
 
@@ -2099,7 +2141,7 @@ La integración y facultades de los Consejos Municipales estarán determinadas p
 
 Cada Municipio establecerá una Unidad de Protección Civil, la cual tendrá atribuciones que determine la Ley de la materia.
 
-### CAPÍTULO X. DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS
+### CAPÍTULO IX. DEL ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS
 
 ###### ARTÍCULO 164.
 
@@ -2109,15 +2151,13 @@ Son deberes del Cronista o del Consejo de Cronistas: llevar un registro de hecho
 
 Son atribuciones y derechos del Cronista o del Consejo e (sic) Cronistas: usar como emblema el escudo del Municipio en su papelería oficial, proponer al Ayuntamiento el otorgamiento de testimonios y reconocimientos a ciudadanos distinguidos y obtener del Ayuntamiento la ayuda necesaria para el desempeño de su labor.
 
-### CAPÍTULO I. DEL COMITÉ INTERNO
-
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+### CAPÍTULO X. DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS
 
 ###### ARTÍCULO 165.
 
 Los Ayuntamientos están obligados a observar y dar cumplimiento a las disposiciones contenidas en las Leyes de Transparencia y Acceso a la Información Pública; de Protección de Datos Personales; y de Archivos.
 
-### CAPÍTULO II. DE LA COMISIÓN MUNICIPAL DE ENTREGA-RECEPCIÓN
+### CAPÍTULO I. DEL COMITÉ INTERNO
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -2139,7 +2179,7 @@ Los servidores públicos municipales deberán presentar su declaración patrimon
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE ENERO DE 2015)</small>
 
-### CAPÍTULO III. DEL ACTA DE ENTREGA-RECEPCIÓN
+### CAPÍTULO II. DE LA COMISIÓN MUNICIPAL DE ENTREGA-RECEPCIÓN
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -2161,7 +2201,7 @@ El Comité Interno concluirá sus funciones una vez conformada la Comisión Muni
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 2015)</small>
 
-### CAPÍTULO IV. DE LOS BIENES Y DOCUMENTACIÓN SUJETOS A ENTREGA
+### CAPÍTULO III. DEL ACTA DE ENTREGA-RECEPCIÓN
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -2205,7 +2245,7 @@ Las actividades que desarrollen los integrantes de la Comisión Municipal del Ay
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 2015)</small>
 
-### CAPÍTULO V. DE LAS ACLARACIONES
+### CAPÍTULO IV. DE LOS BIENES Y DOCUMENTACIÓN SUJETOS A ENTREGA
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -2259,7 +2299,7 @@ III. El tercer ejemplar deberá remitirse conjuntamente con el expediente de Ent
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 2015)</small>
 
-### CAPÍTULO VI. DE LA VIGILANCIA
+### CAPÍTULO V. DE LAS ACLARACIONES
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -2363,7 +2403,7 @@ Corresponde a las Autoridades Municipales entrantes, al recibir la Administraci�
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 2015)</small>
 
-### CAPÍTULO VII. DE LAS RESPONSABILIDADES
+### CAPÍTULO VI. DE LA VIGILANCIA
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -2414,6 +2454,10 @@ e) Situación que guardan las aportaciones estatales y federales, con sus respec
 Una vez recibida esta documentación, la Auditoría Superior del Estado deberá realizar la devolución de la misma a la Autoridad Municipal entrante en un plazo de 30 días hábiles.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE ENERO DE 2015)</small>
+
+### CAPÍTULO VII. DE LAS RESPONSABILIDADES
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
 ###### ARTÍCULO 184.
 
@@ -2644,3 +2688,9 @@ TERCERO.- Se derogan todas las disposiciones que se opongan a las presentes refo
 P.O. 9 DE MAYO DE 2015.
 
 ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 21 DE AGOSTO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Quedan derogadas todas la (sic) disposiciones legales que se opongan a esta reforma.
