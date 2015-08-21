@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-transito-y-vialidad-del-municipio-de-43415"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-01-26"
-last_updated: "2005-01-26"
+last_updated: "2015-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE HUALAHUISES, NUEVO LEON
 
-REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE HUALAHUISES, NUEVO LEON
+REGLAMENTO DE TRANSITO Y VIALIDAD DEL MUNICIPIO DE HUALAHUISES, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE TRÁNSITO Y VIALIDAD DEL MUNICIPIO DE HUALAHUISES, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 21 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2015 (DEROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 26 de enero de 2005.
 
@@ -1579,3 +1581,11 @@ C. P. ROBERTO JAVIER PÁRAS ADAME
 SECRETARIO DEL R. AYUNTAMIENTO
 
 RÚBRICA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE AGOSTO DE 2015.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se Deroga el Reglamento de Tránsito Municipal de Hualahuises, Nuevo León, publicado el 26 de Enero del 2005 en el Periódico Oficial del Estado.
