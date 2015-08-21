@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-urbano-del-estado-de-baja-california-2832"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2015-03-27"
+last_updated: "2015-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
@@ -207,7 +207,9 @@ XVII. El desarrollo y adecuación en los centros de población de la infraestruc
 
 Los Planes y Programas de Desarrollo Urbano y las declaratorias sobre provisiones, usos, reservas y destinos de áreas, zonas y predios, son de orden público e interés social, por lo que el ejercicio del derecho de propiedad sobre los bienes inmuebles comprendidos en ellos estará sujeto a las normas contenidas en los mismos, de acuerdo con lo previsto en los artículos 27 de la Constitución Política de los Estados Unidos y 821 del Código Civil para el Estado de Baja California.
 
-Quedan prohibidos los usos de suelo y de construcción para casinos, casas, centros o cualquier establecimiento que opere juego con apuestas, apuestas remotas, salas de sorteo de números, mesas de juego, máquinas electrónicas de juego, videojuegos electrónicos susceptibles de apuestas, máquinas de videojuegos electrónicos o electromecánicas de habilidad y destreza, juegos de azar y demás similares. Los planes y programas de Desarrollo Urbano a que se refiere el artículo 24 de esta Ley, deberán establecer la prohibición de uso de suelo y de construcción para dichos establecimientos.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2015)</small>
+
+Quedan prohibidos los usos de suelo y de construcción para casinos, casas, centros o cualquier establecimiento que opere juego con apuestas, apuestas remotas, salas de sorteo de números, mesas de juego, máquinas electrónicas de juego, videojuegos electrónicos susceptibles de apuestas, máquinas de videojuegos electrónicos o electromecánicas de habilidad y destreza, juegos de azar y demás similares, salvo en aquellos casos en que el uso de suelo y construcción sea para un establecimiento de dicha naturaleza que ya se encuentre operando en la entidad y solo requiera reubicación dentro del municipio donde se ubique, y forme parte de un proyecto integral que propicie la generación de empleos, el desarrollo económico o turístico de una zona; siempre que su otorgamiento no contravenga la planeación urbana estatal y municipal.
 
 ###### ARTICULO 5.
 
@@ -2780,3 +2782,7 @@ P.O. 20 DE MARZO DE 2015.
 P.O. 27 DE MARZO DE 2015.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 21 DE AGOSTO DE 2015.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
