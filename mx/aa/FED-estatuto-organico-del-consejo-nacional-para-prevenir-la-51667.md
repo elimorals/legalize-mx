@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-para-prevenir-la-51667"
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-09-20"
-last_updated: "2006-09-20"
+last_updated: "2015-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51667&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2006-09-14"
 ---
 # ESTATUTO ORGANICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACION
 
-ESTATUTO ORGANICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACION
+ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN, PUBLICADO EN EL D.O.F. DE 21 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE AGOSTO DE 2015 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 20 de septiembre de 2006.
 
@@ -1316,3 +1318,15 @@ Artículo Segundo. El presente Estatuto Orgánico entrará en vigor al día sigu
 El presente Estatuto Orgánico fue aprobado por la Junta de Gobierno del Consejo Nacional para Prevenir la Discriminación en sesión cuarta ordinaria celebrada el día 7 de diciembre de dos mil cinco.
 
 México, D.F., a 14 de septiembre de 2006.- El Presidente del Consejo Nacional para Prevenir la Discriminación y de su Junta de Gobierno, Gilberto Rincón Gallardo y Meltis.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 21 DE AGOSTO DE 2015.
+
+PRIMERO.- El presente Estatuto entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Estatuto.
+
+TERCERO.- Se abroga el Estatuto Orgánico del Consejo Nacional para Prevenir la Discriminación, publicado en el Diario Oficial de la Federación el 20 de septiembre de 2006.
+
+CUARTO.- El presente Estatuto regirá para los procedimientos de queja en trámite, que fueron radicados a partir de la reforma a la Ley, publicada en el Diario Oficial de la Federación el 20 de marzo de 2014.
