@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-construcciones-del-municipio-de-uman-yucatan-2791
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-14"
-last_updated: "2003-01-14"
+last_updated: "2015-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "YUC"
 ---
 # REGLAMENTO DE CONSTRUCCIONES DEL MUNICIPIO DE UMAN, YUCATAN
 
-REGLAMENTO DE CONSTRUCCIONES DEL MUNICIPIO DE UMAN, YUCATAN
+REGLAMENTO DE CONSTRUCCIONES DEL MUNICIPIO DE UMÁN, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE AGOSTO DE 2015.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el martes 14 de enero de 2003.
 
@@ -145,9 +145,11 @@ VIII.- Para aquellos otros fines que la Dirección considere contrarios al inter
 
 Los permisos o concesiones que la Autoridad otorgue para usar y aprovechar con determinados fines las vías públicas o cualesquiera otros bienes de uso común o destinarlos al servicio público, no crearán sobre estos ningún derecho real o posesorio a favor del permisionario o concesionario. Tales permisos o concesiones serán siempre revocables, temporales e intransferibles, y en ningún caso, podrán otorgarse con perjuicio del libre, seguro y expedito tránsito o del acceso a los predios colindantes, de los servicios públicos o de personas con discapacidad o en general, con perjuicio de cualesquiera de los fines a que estén destinadas las vías o bienes mencionados.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 13.
 
-Quienes con permiso o concesión otorgada por la Dirección, usen o pretendan usar la vía pública, tendrán la obligación de proporcionar a la misma, los planos detallados de la localización de las instalaciones ejecutadas o que se vayan a ejecutar en ella y señalar las especificaciones técnicas de la infraestructura necesaria para el libre y fácil tránsito de las personas con discapacidad. Asimismo, se requerirá autorización expresa de la Dirección para derribar árboles, independiente de cumplir con lo establecido en la Ley estatal de ecología y su reglamento, así como las demás disposiciones aplicables de la materia.
+Quienes con permiso o concesión otorgada por la Dirección, usen o pretendan usar la vía pública, tendrán la obligación de proporcionar a la misma, los planos detallados de la localización de las instalaciones ejecutadas o que se vayan a ejecutar en ella y señalar las especificaciones técnicas de la infraestructura necesaria para el libre y fácil tránsito de las personas con discapacidad. Asimismo, se requerirá autorización expresa de la Dirección para derribar árboles, independientemente de cumplir con las disposiciones aplicables que correspondan en materia de protección al medio ambiente.
 
 ###### ARTICULO 14.
 
@@ -165,15 +167,21 @@ Los cortes en banquetas o guarniciones para la entrada de vehículos a los predi
 
 El cierre temporal o definitivo de una vía pública solo puede autorizarse por acuerdo del Ayuntamiento, fundado en motivos de interés general.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 18.
 
-De acuerdo con la clasificación de los fraccionamientos, la dimensión mínima de la vía pública, se sujetara a las disposiciones de la tabla del artículo 471 del capítulo LXVIII denominado Trámites para la licencia de construcción de este Reglamento.
+De acuerdo con la clasificación del Desarrollo Inmobiliario, la dimensión mínima de la vía pública, se sujetara a las disposiciones de la tabla del artículo 471 del capítulo LXVIII denominado Trámites para la licencia de construcción. De este Reglamento.
 
 ### CAPITULO II.- INSTALACIONES AEREAS Y SUBTERRANEAS EN LA VIA PUBLICA.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 19.
 
-Las instalaciones en la vía pública, tales como las correspondientes a teléfonos, agua potable y drenaje, semáforos, conducción eléctrica y alumbrado público, sistema de Televisión por cable, gas y otras semejantes deberán alojarse en tal forma, que no interfieran entre sí. En general, las instalaciones de agua potable y teléfonos, se alojaran en el lado norte y lado oriente de las diversas vías públicas, las líneas de alimentación de Comisión Federal de Electricidad y alumbrado público, se alojarán en el lado sur y poniente de las vías públicas. Estas normas, fundamentalmente se refieren a las calles de una sola vía orientadas con respecto a la traza urbana original de la Ciudad de Umán. En colonias y fraccionamientos con diferente trazo, así como en avenidas, la Dirección determinará la ubicación de aquellos servicios en coordinación con los prestadores de los mismos.
+Las instalaciones en la vía pública, tales como las correspondientes a teléfonos, agua potable y drenaje, semáforos, conducción eléctrica y alumbrado público, sistema de TV por cable, gas y otras semejantes, deberán alojarse en tal forma, que no interfieran entre sí. En general, las instalaciones da agua potable y teléfonos, se alojaran en el lado norte y lado oriente de las diversas vías públicas, las líneas de alimentación de Comisión Federal de Electricidad y alumbrado público, se alojarán en el lado sur y poniente de las vías públicas. Las tubería (sic) de drenaje sanitario en caso de existir, se alojarán al centro de la vialidad.
+
+Estas normas, fundamentalmente se refieren a las calles de una sola vía orientadas con respecto a la traza urbana original de la Ciudad de Umán. En colonias y fraccionamientos con diferente trazo, así como en avenidas, la Dirección determinará la ubicación de aquellos servicios en coordinación con los prestadores de los mismos.
 
 ###### ARTÍCULO 20.
 
@@ -195,9 +203,11 @@ En los casos de emergencia o siniestros, las empresas que presten servicios púb
 
 Los propietarios de instalaciones, estarán obligados a conservarlas en buenas condiciones. La Dirección, por razones fundadas de seguridad e interés público podrá ordenar el cambio de lugar o la supresión de un poste o instalación, y sus propietarios estarán obligados a hacerlos por su cuenta quedando entendido, que si no lo hicieren dentro del plazo que se les fije, lo hará la citada Dirección, con cargo a dichos propietarios.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 25.
 
-Se entiende por poste, todo de pie derecho y vertical empotrado en el suelo y que sirve a algún servicio público como teléfonos o servicios de electricidad, o bien como un distintivo o señal,. (sic) Cualquier poste que se coloque en la vía pública deberá guardar las condiciones de seguridad, servicio y estética, y por regla general, se colocarán a 0.25 m. Hacia adentro de la orilla de las banquetas y en caso de no existir estas, se colocarán de 0.25 m. Hacia adentro del sardinel de la banqueta en proyecto. En casos diversos de los antes citados, su colocación quedará a juicio de la Dirección.
+Se entiende por poste, todo pie derecho y vertical empotrado en el suelo y que sirve a algún servicio público como teléfonos o servicios de electricidad, o bien como un distintivo o señal. cualquier poste que se coloque en la vía pública deberá guardar las condiciones de seguridad, servicio y estética, y por regla general, se colocarán a 0.25 m. Hacia adentro de la orilla de las banquetas y en caso de no existir estas, se colocarán de 0.25 m. Hacia adentro del sardinel de la banqueta en proyecto, para el caso de nuevos desarrollos el poste de nomenclatura de calles, deberá colocarse a una distancia de 40 cm de distancia del filo de la banqueta. En casos diversos de los antes citados, su colocación quedará a juicio de la Dirección.
 
 ###### ARTÍCULO 26.
 
@@ -225,9 +235,11 @@ El número de los predios, será fijado por la Dirección General del Catastro d
 
 Es obligación del Ayuntamiento a través de la Dirección, vigilar la instalación de la nomenclatura urbana oficial. Los letreros de la nomenclatura de las calles, deberán colocarse a una altura mínima de 2.50 metros.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 32.
 
-El fraccionador tendrá la obligación de colocar la nomenclatura oficial en las calles del fraccionamiento, conforme a las disposiciones contenidas en el artículo 27 de este capítulo y las características técnicas que defina la Dirección.
+El Desarrollador Inmobiliario tendrá la obligación de colocar la nomenclatura oficial en las calles del fraccionamiento, conforme a las disposiciones contenidas en el artículo 25 de este capítulo, teniendo prohibido la obstrucción de la entrada de los predios y de acuerdo a las características técnicas que defina la Dirección.
 
 ### CAPITULO IV.- ALINEAMIENTO.
 
@@ -235,13 +247,17 @@ El fraccionador tendrá la obligación de colocar la nomenclatura oficial en las
 
 Para los efectos de este reglamento el alineamiento oficial, es la traza sobre el terreno que limita el predio con la vía pública.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 34.
 
-Se declara de utilidad pública la formación de chaflanes, en predios situados en esquina, en los casos de que el ancho de las calles que formen dicha esquina sea menor de 9.00 m. La dimensión de dichos chaflanes será fijada en cada caso particular por la Dirección al otorgar los alineamientos respectivos, debiendo ser siempre iguales las dimensiones en las esquinas que formen el cruzamiento de dos o más arterias.
+Se declara de utilidad pública la formación de chaflanes, en predios situados en esquina, en los casos de que el ancho de las calles que formen dicha esquina sea menor de 9.00 m. La dimensión de dichos chaflanes será fijada en cada caso particular por la Dirección al otorgar los alineamientos respectivos, debiendo ser siempre iguales las dimensiones en las esquinas que formen el cruzamiento de dos o más arterias. Para los nuevos desarrollos inmobiliarios los lotes ubicados en las esquinas y las banquetas deberán contar con chaflán, el trazo para el chaflán conformará un triángulo isósceles cuya base no sea menor a 2.82 metros. Se podrá sustituir el uso de chaflanes por remates curvos siempre que éstos garanticen la misma visibilidad proporcionada por los chaflanes.
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 35.
 
-La Dirección no otorgará licencias de construcción sin que el solicitante previamente presente la licencia de uso del suelo cuando éste pretenda darle a la construcción un uso distinto al habitacional y la constancia de alineamiento oficial, en la que se fijarán invariablemente las restricciones que sobre las edificaciones debe imponerse, atendiéndose a las que determinen en el Programa de desarrollo urbano de la ciudad, a las restricciones establecidas en la Ley de fraccionamientos del Estado, a las características de cada predio y a las limitaciones comúnmente llamadas servidumbres que para frentes y laterales sea el caso establecer para que no se construya sobre dichos espacios.
+La Dirección no otorgará Licencias de Construcción sin que el solicitante previamente presente la Licencia de Uso del Suelo, cuando éste pretenda darle a la construcción un uso distinto al habitacional, vigilando el cumplimiento de la restricción del alineamiento que determine la Dirección de acuerdo al Proyecto y al contexto.
 
 ###### ARTICULO 36.
 
@@ -255,21 +271,29 @@ Cuando por razones de utilidad pública, plenamente justificadas, sea necesario 
 
 Las indemnizaciones en el caso del artículo anterior, no se satisfarán, sino previa justificación de propiedad legal del edificio y de que la obra existía cuando se formuló el proyecto.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 39.
 
-Para los efectos de este Reglamento, se entiende por restricción de alineamiento de construcción, a la separación que debe de existir libre de construcción cerrada entre el alineamiento oficial y la construcción de todo el predio.
+Para los efectos de este Reglamento, se entiende por restricción de alineamiento de construcción, a la separación que debe de existir libre de construcción cerrada entre el alineamiento oficial y la construcción de todo el predio, la señalada restricción será fijada por la Dirección de acuerdo al proyecto y al contexto.
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 40.
 
-En el Municipio de Umán, salvo en la zona comprendida entre las calles 22-17-16-25 del centro de la ciudad o de las comisarías o donde predomine una cinta continua de fachadas, todas las construcciones deberán someterse al alineamiento según lo establecido en este Reglamento, destinando estas áreas a jardines. A juicio de la Dirección y previa justificación, se podrán aceptar cubiertas para cocheras y pórticos, aclarando que esta no es área habitable, y en ningún caso, las construcciones que en ella se realicen podrán sobresalir del alineamiento oficial.
+En el Municipio de Umán, todas las construcciones deberán someterse al alineamiento según lo establecido en este Reglamento y en ningún caso, las construcciones que se realicen podrán sobresalir del alineamiento oficial. La construcción de cocheras y pórticos en áreas con restricción de alineamiento quedarán determinadas por la Dirección de acuerdo al proyecto y al contexto, quedando como el uso más favorable en estas áreas la creación de jardines. Para el caso de nuevos desarrollos será posible el predominio de una cinta continua de fachadas, determinada por la Dirección de acuerdo al proyecto presentado y al contexto. La zona comprendida entre las calles 22-17-16-25 del centro de la ciudad o de las comisarías o donde predomine una cinta continua de fachadas, no tendrán restricción de alineamiento.
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 41.
 
-Toda edificación efectuada con invasión del alineamiento o de las servidumbres, deberá ser demolida a costa del propietario del inmueble invasor dentro del plazo que al efecto señale la Dirección. En caso de incumplimiento, la Dirección efectuará los trabajos con cargo al propietario o infractor sin perjuicio de las sanciones a que se haga acreedor.
+Toda edificación efectuada con invasión del alineamiento o de las servidumbres, fijadas por la Dirección de acuerdo al proyecto y al contexto, deberá ser demolida a costa del propietario del inmueble invasor dentro del plazo que al efecto señale la Dirección. En caso de incumplimiento, la Dirección efectuará los trabajos con cargo al propietario o infractor sin perjuicio de las sanciones a que se haga acreedor.
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 42.
 
-No se concederá licencia para la ejecución de obras, sean estas ampliaciones o reparaciones, ni para nuevas construcciones en las ya existentes que invadan la restricción de alineamiento de construcción, a menos que se sujeten de inmediato a la misma, demoliendo la parte de la construcción que invada dicha restricción y regularizando su situación por lo que a la servidumbre se refiere.
+No se concederá licencia para la ejecución de obras, sean estas ampliaciones o reparaciones, ni para nuevas construcciones en las ya existentes que invadan la restricción de alineamiento de construcción, determinada por la Dirección de acuerdo al proyecto y al contexto, a menos que se sujeten de inmediato a la misma, demoliendo la parte de la construcción que invada dicha restricción y regularizando su situación por lo que a la servidumbre se refiere.
 
 ###### ARTICULO 43.
 
@@ -347,13 +371,19 @@ Es facultad de la Dirección, vigilar que los particulares únicamente planten e
 
 La Dirección tendrá la autoridad de dictaminar por escrito el número y tipo de árboles que deberán ser sembrados para restituir el árbol que previamente se haya derribado, con o sin permiso.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 61.
 
-De la totalidad de las áreas designadas como de donación, el fraccionador deberá mantener un 40% como mínimo para superficie jardinada, la que deberá ser debidamente entregada por el mismo fraccionador.
+De la totalidad de las áreas designadas como destino para fraccionamientos habitacionales, el Desarrollador Inmobiliario deberá mantener un 30% como mínimo para área verde, la que deberá ser debidamente entregada por el mismo Desarrollador Inmobiliario. El área destino de un fraccionamiento, nunca podrá ser menor al 10% del área bruta del mismo.
+
+Y para los fraccionamientos no habitacionales el área destino será mínimo 15% del área bruta del predio, dentro del porcentaje del área de destino, el 60% será para Áreas Verdes y el 40% restante para Equipamiento Urbano e Infraestructura Urbana.
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 62.
 
-El Ayuntamiento de acuerdo a las circunstancias y previo dictamen de la Dirección, podrá convenir con el fraccionador la modificación del porcentaje de donación a cambio de obras que beneficien a la comunidad. En caso de llegar a un convenio para la reducción de dichas áreas del fraccionamiento, éstas no podrán ser mayores del 40% debiendo el fraccionador entregar el 60% del área construida y el 40% de área verde.
+El Ayuntamiento de acuerdo a las circunstancias y previo dictamen de la Dirección, podrá convenir con el Desarrollador Inmobiliario la modificación del porcentaje del área destino a cambio de obras que beneficien a la comunidad. En caso de llegar a un convenio para la reducción de dichas áreas del fraccionamiento, esta reducción no podrá ser mayor al 40% del área destino. Del área destino resultante el 70% será para área construida y el 30% para área verde. El desarrollador Inmobiliario deberá escriturar el área destino a nombre del Ayuntamiento de Umán.
 
 ### CAPITULO VII.- FERIAS CON APARATOS MECANICOS.
 
@@ -377,11 +407,11 @@ Es objeto de este Titulo establecer las normas conforme a las cuales el Ayuntami
 
 La demanda de mejores servicios públicos por parte de los habitantes del municipio de Umán ha precisado controlar el crecimiento de la Ciudad y sus comisarías a fin de que se lleve a cabo en forma ordenada. Considerando que dentro del territorio del municipio de Umán, se mantiene por una parte el crecimiento y desarrollo del ámbito urbano y paralelo a éste, el rural, es menester de esta autoridad que el crecimiento, equilibrio y desarrollo de su centro de población sean los adecuados a los establecido en este Reglamento y en el Programa así como de programas aplicables y de acuerdo al artículo 2 de la Ley de Asentamientos Humanos del Estado de Yucatán.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 67.
 
-Para Alcanzar los objetivos en materia de desarrollo urbano, el Ayuntamiento se fundamenta en lo establecido en la Ley de Desarrollo Urbano del Estado de Yucatán, en el Programa Estatal de Desarrollo Urbano, en el Plan Municipal de Desarrollo, en el Programa y demás aplicables; así como en la Ley de Asentamientos Humanos del Estado de Yucatán, en la Ley Orgánica de los Municipios del Estado de Yucatán, en la propia Constitución Política de los Estados Unidos Mexicanos, y sus reformas al artículo 115, en todo lo que se refiere a la competencia municipal en el desarrollo urbano.
-
-De tal manera, el Ayuntamiento, tiene competencia urbanística y el respaldo en las Leyes federales y locales para:
+Para alcanzar los objetivos en materia de desarrollo urbano, el Ayuntamiento se fundamenta en lo establecido en el Programa de Ordenamiento Ecológico Territorial del Estado de Yucatán, en el Plan Municipal de Desarrollo, en el Programa y demás aplicables; así como en la Ley de Asentamientos Humanos del Estado de Yucatán, en la Ley de Gobierno de los Municipios del Estado de Yucatán, en la propia Constitución Política de los Estados Unidos Mexicanos, y sus reformas al artículo 115 , en todo lo que se refiere a la competencia municipal en el desarrollo urbano. De tal manera, el Ayuntamiento, tiene competencia urbanística y el respaldo en las Leyes federales y locales para:
 
 I.- Expedir reglamentos, circulares y disposiciones administrativas de observancia general.
 
@@ -395,15 +425,15 @@ V.- Participar en los objetivos siguientes:
 
 a) En la creación y administración de sus reservas territoriales.
 
-b) En la creación y administración de zonas de reserva ecológica, y
+b) En la creación y administración de zonas de reserva ecológica. Y,
 
 c) En la regularización de la tenencia de la tierra.
 
 VI.- Controlar y vigilar la utilización del suelo.
 
-VII.- Otorgar licencias de construcción, factibilidades y licencias de uso del suelo y,
+VII.- Otorgar licencias de construcción, factibilidades y licencias de uso del suelo Y,
 
-VIII.- Las demás que le señalan la Leyes.
+VIII.- Las demás que le señalan las Leyes.
 
 ###### ARTICULO 68.
 
@@ -471,11 +501,13 @@ Todas las instituciones y dependencias municipales, estatales y federales, que p
 
 ### CAPITULO X.- RESTRICCIONES Y NORMAS DEL USO DEL SUELO.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 78.
 
-En términos del artículo 61 de la Ley de Desarrollo Urbano del Estado, los Notarios únicamente podrán dar fe y extender escrituras públicas de los actos, contratos o convenios relativos a la propiedad, posesión, uso o cualquier otra forma jurídica de tenencia de los predios, previa comprobación de que las cláusulas relativas a la utilización de los predios coincidan con los destinos, usos y reservas establecidos en el Programa.
+De acuerdo a la normativa aplicable, los Notarios solo podrán dar fe y extender escrituras públicas de los actos, contratos o convenios relativos a la propiedad, posesión, uso o cualquier otra forma jurídica de tenencia de los predios, previa comprobación de que las cláusulas relativas a la utilización de los predios coincidan con los destinos, usos y reservas establecidas en el Programa.
 
-La autoridad sólo expedirá permisos, autorizaciones y licencias de construcción relacionadas con los usos del suelo y destinos de áreas o predios, previa exhibición de la Licencia vigente de Uso del Suelo.
+La autoridad solo expedirá permisos, autorizaciones y licencias de construcción relacionadas con los usos del suelo y destinos de áreas o predios, previa exhibición de la Licencia de Uso del Suelo vigente.
 
 ###### ARTICULO 79.
 
@@ -501,9 +533,11 @@ La Dirección determinará las zonas de protección a lo largo de los servicios 
 
 Las especificaciones para el proyecto y construcción de sistemas y suministro de agua potable y alcantarillado, se regirán de acuerdo con la Leyes y Reglamentos vigentes.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 84.
 
-Todo fraccionador o constructor tendrá la obligación de entregar a la Dirección un juego de planos autorizados por la Junta de Agua Potable correspondiente, así como de las especificaciones y calidad del material que utilice dicha obra.
+Todo Desarrollador Inmobiliario o constructor tendrá la obligación de entregar a la Dirección un juego de planos, del proyecto en trámite, autorizados por la Junta de Agua Potable correspondiente, así como un escrito en el que se indiquen las especificaciones y la calidad del material que utilice dicha obra.
 
 ### CAPITULO XII.- PAVIMENTOS.
 
@@ -571,21 +605,29 @@ Cuando sea necesaria la ruptura del pavimento de las vías públicas para la eje
 
 Se entiende por guarnición, una recta de concreto construida entre el arroyo y la banqueta con objeto de delimitar a éstos, así como proteger a las banquetas, contener su relleno y definir el ancho de las calzadas de circulación y definir el ancho de las banquetas para uso de personas.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 92.
 
-Las guarniciones que se construyan para los pavimentos serán de dos tipos:
+Las guarniciones que se construyan para los pavimentos serán de tres tipos:
 
-I.- De concreto hidráulico, rectas colocadas en el lugar, y
+I.- De concreto hidráulico, rectas colocadas en el lugar. Y,
 
-II.- Prefabricadas.
+II.- Prefabricadas rectas
+
+III.- Prefabricadas tipo pecho de paloma
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 93.
 
-Las guarniciones de tipo recto, deberán ser de sección trapezoidal, con su pendiente hacia el pavimento de 0.15 m de base inferior, 0.12 m. de corona y 0.35 m de altura, debiendo sobresalir 0.15 m. del pavimento. Las guarniciones prefabricadas seguirán las mismas normas del tipo recto y deberán ser juntadas con mortero 1:2:7 y estarán asentadas sobre una plantilla de mortero 1:2:7: de 0.3 m. de espesor mínimo.
+Las guarniciones, de tipo recto, coladas en el lugar, deberán ser de sección trapezoidal, con su pendiente hacia el pavimento de 0.15 m. de base inferior, 0.12 m. de corona y 0.35 m. de altura, debiendo sobresalir 0.15 m. del pavimento. Las guarniciones prefabricadas rectas y tipo pecho de paloma, seguirán las mismas normas del tipo recto coladas en el lugar y deberán ser juntadas con mortero 1:2:7 y estarán asentadas sobre una plantilla de mortero 1:2:7: de 0.03 m. de espesor mínimo.
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 94.
 
-La resistencia del concreto de las guarniciones será de 200 kg/cm2 a los veintiocho días.
+La resistencia del concreto de las guarniciones tipo I, II y III será de 150 kg/cm2 a los veintiocho días.
 
 ###### ARTICULO 95.
 
@@ -597,17 +639,23 @@ Queda estrictamente prohibido colocar junto a las guarniciones, varillas, ángul
 
 Se entiende por banqueta a la porción de la vía pública destinada al tránsito de los peatones, debiendo permitir en las esquinas o sitios propios para el cruce peatonal, las facilidades para las personas con discapacidad.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 97.
 
-Los anchos de la banqueta serán 2.50 m. cuando sean calles primarias o avenidas y de 1.50 m. cuando se trate de calles secundarias o terciarias en los términos de la Ley de Fraccionamientos del Estado de Yucatán.
+Los anchos de las banquetas serán de 2.50 m cuando sean calles primarias o avenidas y de 1.50 m cuando se trate de calles secundarias o terciarias.
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 98.
 
-Las banquetas deberán construirse con concreto hidráulico con resistencia mínima de 150 kgs/cm2 a los veintiocho días, espesor mínimo de 0.07 m. y pendiente transversal de uno y medio al 2% con sentido hacia el arroyo.
+Las banquetas deberán construirse con concreto hidráulico con resistencia mínima de 100 kgs/cm2 a los veintiocho días, contar con juntas frías, espesor mínimo de 0.07 m. y pendiente transversal de 1.5% al 2% con sentido hacia el arroyo.
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 99.
 
-El concreto de las banquetas estará apoyado sobre una capa de terracería, sometida previamente a una compactación del 90% mínimo, utilizando cuando menos con pisón de mano.
+El concreto de las banquetas estará apoyado sobre una capa de terracería, sometida previamente a una compactación del 80% mínimo, utilizando cuando menos pisón de mano.
 
 ###### ARTICULO 100.
 
@@ -785,35 +833,27 @@ V.- INFRAESTRUCTURA: Plantas, estaciones, subestaciones, torres, antenas, másti
 
 VI.- AGRÍCOLA, PECUARIO Y FORESTAL: Agroindustrias, establos, caballerizas y granjas.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 110.
 
-La altura máxima que podrá autorizarse para edificios, en aquellos sitios en que sean permitidos, no podrá exceder de la medida del ancho de la vialidad de su ubicación más de un 50% de dicha medida base será la calle más ancha de las que limiten en el predio. Tratándose de los predios que se localicen en la esquina, la medida base será la calle más ancha de las que limiten en el predio. Sin embargo, tratándose de edificios de 20.00 m. de altura o más será requisito para el otorgamiento del permiso que el Director responsable de Obra adjunte a la solicitud un estudio técnico que demuestre, tomando en cuenta el uso y capacidad del edificio que se pretenda construir los siguientes hechos:
+La altura máxima que podrá autorizarse para edificios, en aquellos sitios en que sean permitidos, no podrá exceder de la medida del ancho de la vialidad de su ubicación más de un 100% de dicha medida base. Tratándose de los predios que se localicen en la esquina, la medida base será la calle más ancha de las que limiten en el predio. Sin embargo, tratándose de edificios de 20.00 m. de altura o más será requisito para el otorgamiento del permiso que el Director responsable de Obra adjunte a la solicitud un estudio técnico que demuestre, tomando en cuenta el uso y capacidad del edificio que se pretenda construir los siguientes hechos:
 
-I.- Que el sistema de agua potable donde se abastecerá el edificio sea suficiente para darle el servicio, entregando a la Dirección una copia de la constancia de factibilidad de dotación expedida por la dependencia relativa.
+I.- Que el sistema de agua potable donde se abastecerá el edificio sea suficiente para darle el servicio, entregando a la Dirección una copia de la constancia de factibilidad de dotación expedida por la dependencia relativa..
 
 II.- Que tengan un sistema para desalojar y tratar las aguas residuales.
 
 III.- Que dado el volumen de la construcción, no se originarán problemas de tránsito tanto en lo referente a circulación como al estacionamiento de vehículos en la zona de ubicación de la presunta construcción.
 
-IV.- Que respete la densidad de la zona.
+IV.- Que respete la densidad de la zona
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 111.
 
 Para autorizar la altura máxima de un edificio, la Dirección tomará en cuenta el perfil del paramento donde se pretenda llevar a cabo la construcción.
 
-De la altura total que surja, existirá una distancia mínima de separación con respecto a sus edificios colindantes y en caso de que sean varios los edificios sembrados, también existirá una distancia mínima que entre ellos expresada en la siguiente tabla.
-
-ALTURA DEL SIEMBRA SIEMBRA
-
-EDIFICIO ÚNICA CONJUNTA
-
-6.00 ML 4.00 2.00
-
-9.00 ML 6.00 3.00
-
-12.00 ML 8.00 4.00
-
-MAYOR DE 12 ML 10.00 5.00
+De la altura total que surja, existirá una distancia mínima de separación con respecto a la colindancia y a sus edificios colindantes, que por motivos de iluminación y ventilación natural no debe ser menor a 2.50 m para el caso de los edificios entre 6 m y menos de 9 m de altura y para edificios de 9 m de altura o más, la separación entre edificios y a la colindancia debe ser no menor a 1/3 de la altura del edificio más alto a edificar.
 
 ###### ARTICULO 112.
 
@@ -841,29 +881,31 @@ Todos los edificios relacionados con el artículo que antecede tendrá los dispo
 
 Es obligatorio en los edificios destinados a habitación, dejar ciertas superficies libres o patios, destinados a proporcionar luz y ventilación, a partir del nivel en que se desplanten los pisos sin que dichas superficies puedan ser cubiertas con volados, pasillos, corredores o escaleras.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 118.
 
 Los edificios de varias plantas destinados para habitación multifamiliar, deberán cumplir con los siguientes requisitos:
 
-I.- El terreno deberá contar como mínimo con una superficie adicional del 50% a la establecida en la norma para terrenos unifamiliares.
+I.- Contar con la aprobación de ubicación, conforme a los usos del suelo según el Programa.
 
-II.- Contar con la aprobación de ubicación, conforme a los usos del suelo y densidades de habitación por el Programa, la Ley de Fraccionamientos del Estado de Yucatán y demás disposiciones relativas.
+II.- La ocupación del terreno no deberá exceder el 80%, considerando dentro de este porcentaje los cajones de estacionamiento requeridos por este Reglamento.
 
-III.- Estar ubicados en vialidad primaria.
+III.- Se requerirá de elevador(es) para todo edificio a partir de 10 m entre el primer y el último nivel de piso útil. El elevador no podrá ser de una dimensión menor, del interior de la cabina de 1.3 m por 1.50 m con objeto de que una silla de ruedas pueda tener accesibilidad.
 
-IV.- La ocupación del terreno no deberá exceder el 60%, considerando dentro de este porcentaje los cajones de estacionamiento requeridos por este Reglamento.
+IV.- Se destinará para área verde el 20% del terreno, no pudiendo construir en esta área cubiertas, terrazas o pisos.
 
-V.- Se requerirá de elevador (es) para todo edificio a partir de 10 metros entre el primer y el último nivel de piso útil. El elevador no podrá ser de una dimensión menor de 1.55 x 1.70 con objeto de que una silla de ruedas pueda tener accesibilidad.
+V.- Contar con sistema adecuado de desalojo y tratamiento de aguas residuales.
 
-VI.- Se determinará para área verde el 40% del terreno, no pudiendo darse en esta área cubiertas, terrazas o pisos.
+VI.- Dado el volumen de construcción, deberá prevenir problemas de tránsito que pudieran darse.
 
-VII.- Contar con sistema adecuado de desalojo y tratamiento de aguas residuales.
-
-VIII.- Dado el volumen de construcción, deberá prevenir problemas de tránsito que pudieran darse.
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 119.
 
-El destino de cada local, será el que resulte de su ubicación y dimensiones, más no el que se quiera fijar arbitrariamente, por consiguiente, será necesario indicar en los planos el destino de cada espacio, el que deberá ser congruente con su ubicación, funcionamiento y dimensión. Para efectos de este Reglamento se consideran piezas habitables a las que se destinen a salas, comedores y dormitorios, y no habitables, a las destinadas a cocina, cuartos de baño, excusados, lavaderos, cuartos de plancha y circulaciones. El lado mínimo de una pieza habitable es de 3.50 m. en medida interior del espacio; su área mínima es de 12.50 m2, y su altura no podrá ser inferior a 2.40 m. entres el acabado del plafón y el nivel de piso terminado.
+El destino de cada local, será el que resulte de su ubicación y dimensiones, más no el que se quiera fijar arbitrariamente, por consiguiente, será necesario indicar en los planos el destino de cada espacio, el que deberá ser congruente con su ubicación, funcionamiento y dimensión. Para efectos de este Reglamento se consideran piezas habitables a las que se destinen a salas, comedores y dormitorios, y no habitables, a las destinadas a cocina, cuartos de baño, excusados, lavaderos, cuartos de plancha y circulaciones. Para el centro de población El lado mínimo de una pieza habitable es de 3.50 m. en medida interior del espacio; su área mínima es de 12.25 m2, y su altura no podrá ser inferior a 2.40 m. entre el acabado del plafón y el nivel de piso terminado.
+
+Para los desarrollos habitacionales fuera del centro de población las condiciones serán las siguientes: El lado mínimo de una pieza habitable es de 2.70 m. en medida interior del espacio; su área mínima es de 7.29 m2, más closet mínimo de 0.60 m x 1.5 m. y su altura no podrá ser inferior a 2.40 m. entre el acabado del plafón y el nivel de piso terminado siempre y cuando sean dos recamaras como mínimo.
 
 ###### ARTICULO 120.
 
@@ -873,9 +915,11 @@ Solamente se autorizará la construcción de viviendas que tengan como mínimo u
 
 Todas la viviendas de un edificio deberán tener salidas a pasillos o corredores que conduzcan directamente a las pruebas de salida o a las escaleras, y además, todas las viviendas deberán contar con salidas de servicio. El ancho del pasillo o corredor, nunca será menor de 1.20 m., y cuando haya barandales éstos deberán de ser de diseño doble con alturas mínimas de 0.90 m y de 0.50 m, este último para uso de gente con discapacidad.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 122.
 
-Los edificios multifamiliares y de oficinas de dos o más pisos, deberán contar con escaleras que tengan un espacio mínimo libre de 1.20 m que comuniquen todos los niveles, aún contando con elevadores. Cada escalera dará servicio como máximo a diez viviendas por cada piso.
+Los edificios multifamiliares y de oficinas de dos o más pisos, deberán contar con escaleras que tengan un espacio mínimo libre de 1.20 m que comuniquen todos los niveles, aún contando con elevadores. Cada escalera dará servicio como máximo a diez viviendas por cada piso. En caso que un edificio multifamiliar posea escaleras privadas para cada departamento o vivienda, éstas tendrán como mínimo 0.90 de ancho.
 
 ###### ARTICULO 123.
 
@@ -885,13 +929,19 @@ En edificios con una altura mayor de 9.00 m del nivel de la calle, se deberá co
 
 Las puertas de acceso a cada vivienda tendrán una anchura libre mínima 0.90 m. y en ningún caso, la anchura de la puerta de entrada al edificio será menor que el doble de la suma de las anchuras de las escaleras que desembocan en ellas.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 125.
 
-Las cocinas y baños deberán obtener luz y ventilación directamente de los patios o de la vía pública por medio de vanos, con una superficie no menor de un octavo de la superficie de la pieza.
+Las cocinas y baños deberán obtener luz y ventilación directamente de los patios o de la vía pública por medio de vanos, con una superficie no menor de 0.12 m2 en el caso de los baños y de un octavo de la superficie de la pieza en el caso de la cocina. El área de ventana en baños no es requerida si se proporciona iluminación artificial y un sistema de ventilación mecánico aprobado. Las tasas mínimas de ventilación deben ser de 1.4 m3 por minuto para ventilación intermitente y 0.5 m3 por minuto para ventilación continua. El aire de ventilación del espacio debe ser extraído directamente al exterior de la vivienda.
+
+En cuanto a las cocinas se podrán ventilar por medios artificiales que garanticen durante los períodos de uso un cambio de volumen para ventilación artificial, a razón de 10 cambios de volumen por hora.
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 126.
 
-Todos los edificios destinados a habitación deberán contar con instalaciones de reserva de agua potable que pueda suministrar un mínimo de doscientas cincuenta litros diarios por habitante.
+Todos los edificios destinados a habitación deberán contar con instalaciones de reserva de agua potable que pueda suministrar un mínimo 150 litros diarios por habitante para viviendas de hasta 99 m2 construidos y 195 litros diarios por habitante para vivienda igual o mayor de 100 m2 construidos.
 
 ###### ARTICULO 127.
 
@@ -901,29 +951,31 @@ Todos los edificios destinados a habitación deberán contar con instalaciones d
 
 Las aguas pluviales que escurran por los techos y terrazas, deberán drenarse dentro de cada predio quedando prohibido cualquier salida a la vía pública.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 129.
 
-Todas las piezas habitables en todos los pisos, deberán tener iluminación y ventilación cruzadas por medio de vanos que darán directamente a patios o a la vía pública. La superficie total de ventanas libre de toda obstrucción para cada pieza, será por lo menos igual a un cuarto de la superficie del piso y la superficie para ventilación , deberá cuando menos de un octavo de la superficie de la pieza.
+Todas las piezas habitables en todos los pisos, deberán contar con los medios que aseguren la ventilación y la iluminación diurna y nocturna necesaria para sus ocupantes. Deberán tener iluminación y ventilación natural por medio de vanos que darán directamente a patios o a la vía pública. La superficie total de ventanas libre de toda obstrucción para cada pieza, será por lo menos igual a un cuarto de la superficie del piso y la superficie para ventilación, deberá ser cuando menos de un octavo de la superficie de la pieza.
 
 ###### ARTICULO 130.
 
 Los edificios para habitaciones, deberán estar proveídos de iluminación artificial que proporcione cuando menos las cantidades mínimas que fija el Capítulo XXXI denominado Iluminación artificial de este reglamento.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 131.
 
 Para iluminar y ventilar piezas habitables, el vano deberá estar a una distancia mínima de un tercio de la altura del límite de la propiedad. En caso de cubos de iluminación y ventilación la superficie mínima del cubo será de acuerdo a la tabla siguiente:
 
-ALTURA SUP M2 DIMENSION
+ALTURA SUP M2 DIMENSION MINIMA
 
-MINIMA
+3.00 m a menos de 6.00 m 4.00 m2 1.20 m.
 
-3.00 m 4.00 m2 1.20 m
+6.00 m a menos de 9.00 m 4.41 m2 2.10 m.
 
-6.00 m 6.00 m2 1.50 m
+9.00 m. o más 1/3 de altura x 2.1 2.10 m.
 
-9.00 m 9.00 m2 2.50 m
-
-12 o mas 1/3 de altura 3.00 m
+(dimensión mínima)
 
 ###### ARTICULO 132.
 
@@ -949,11 +1001,13 @@ Los edificios destinados a habitación tendrán los dispositivos de seguridad ne
 
 Los dispositivos de seguridad estarán colocados en los cubos de las escaleras y/o de los pasillos, debidamente identificados y vigentes.
 
-###### ARTÍCULO 138.
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
-Los edificios destinados a alojamiento, principalmente los hoteles, deberán contar con la infraestructura necesaria para el libre y fácil tránsito de los personas con discapacidad, que les permita salvar cualquier barrera arquitectónica.
+###### ARTICULO 138.
 
-Dependiendo de la categoría del hotel, deberá reservar al menos, una habitación que cuente con instalaciones y servicios para usos exclusivo de personas con discapacidad, que cumplan con las especificaciones técnicas que señala la Ley para la Integración de Personas con Discapacidad del Estado de Yucatán y este Reglamento.
+Los edificios destinados a alojamiento, principalmente los hoteles, deberán contar con la infraestructura necesaria para el libre y fácil tránsito de los (sic) personas con discapacidad, que les permita salvar cualquier barrera arquitectónica.
+
+Dependiendo de la categoría del hotel, deberán reservar al menos, una habitación que cuente con instalaciones y servicios para uso exclusivo de personas con discapacidad, que cumplan con las especificaciones técnicas que señala la Ley para la Protección de los Derechos de las Personas con Discapacidad del Estado de Yucatán, este Reglamento y las normas oficiales aplicables.
 
 ### CAPITULO XVIII.- EDIFICIOS PARA COMERCIOS Y PARA OFICINAS.
 
@@ -979,9 +1033,11 @@ Los edificios para comercios y oficinas deberán tener un mínimo de dos piezas 
 
 Para cada 400.00 m2 de superficie construida, se instalará por lo menos un excusado y un mingitorio para hombres y por cada 300.00 m2 cuando menos un excusado para mujeres.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 143.
 
-La ventilación e iluminación de los edificios para comercios y oficinas, podrán ser de carácter natural o artificial. Cuando sea de carácter natural, se observarán las reglas del Capítulo relativo a las habitaciones, y cuando sea de carácter artificial, deberán tener satisfacer las condiciones necesarias de iluminación y aeración, de acuerdo con el Reglamento de Ingeniería sanitaria.
+La ventilación e iluminación de los edificios para comercios y oficinas, podrán ser de carácter natural o artificial. Cuando sea de carácter natural, se observarán las reglas del Capítulo relativo a las habitaciones, y cuando sea de carácter artificial, deberán tener (sic) satisfacer las condiciones necesarias de iluminación y aeración, de acuerdo con las normas oficiales aplicables.
 
 ###### ARTICULO 144.
 
@@ -1489,21 +1545,23 @@ VI.- No habrá puertas simuladas ni se colocarán espejos en las puertas.
 
 La denominación de circulaciones comprende los corredores, pasillos, escaleras y rampas.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 233.
 
 Las características y dimensiones de las circulaciones horizontales deberán ajustarse a las siguientes disposiciones:
 
 I.- Todos los locales de un edificio deberán contar con salidas y con pasillos o corredores que conduzcan directamente a la puerta de salida o las escaleras.
 
-II.- El ancho mínimo de los pasillos y de las circulaciones para el público será de 1.20 m. excepto en los interiores de las viviendas unifamiliares o de oficinas en donde deberá ser de 0.90 m. como mínimo.
+II.- El ancho mínimo de los pasillos y de las circulaciones para el público será de 1.20 m. excepto en los interiores de las viviendas unifamiliares o de oficinas en donde deberá ser de 0.90 m. como mínimo. También los pasillos de servicio deben tener entre paramento y paramento un ancho no menor a 0.90m.
 
-III.- Los pasillos y los corredores no deberán tener salientes o tropezones que disminuyan su anchura inferior a 2.50 m.
+III.- Los pasillos y los corredores no deberán tener salientes o tropezones que disminuyan su anchura interior.
 
-IV.- La altura mínima de los barandales cuando se requiera será de 0.90 m. y se construirá de manera que impidan el paso a niños a través de ellos. Para el caso de edificios multifamiliares y de escuelas de primaria y de segunda enseñanza, los barandales calados deberán ser solamente verticales con la excepción de los pasamanos.
+IV.- La altura mínima de los barandales cuando se requiera será de 0.90 m. y se construirá de manera que impidan el paso de niños a través de ellos. Para el caso de edificios multifamiliares y de las escuelas de primaria y de segunda enseñanza, los barandales calados deberán ser solamente verticales con la excepción de los pasamanos.
 
 V.- Cuando en los pasillos hayan escalones, estos deberán cumplir con las disposiciones establecidas en el artículo que precede.
 
-(Consultar Apoyo gráfico).
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 234.
 
@@ -1513,25 +1571,21 @@ I.- Los edificios tendrán siempre escaleras que comuniquen todos sus niveles a�
 
 II.- Las escaleras se harán en tal número que ningún punto servido del piso o planta se encuentre a una distancia mayor de 25.00 m. de alguna de ellas.
 
-III.- Las escaleras en casas unifamiliares o en el interior de departamentos unifamiliares tendrán una anchura mínima de 0.60 m. en cualquier otro tipo de edificio la anchura mínima será de 1.20 m. en los centros de reunión y salas de espectáculos las escaleras tendrán una anchura mínima igual a la suma de las anchuras de las circulaciones a las que den servicio.
+III.- Las escaleras privadas en casas unifamiliares o en el interior de departamentos multifamiliares, que no sean de uso común, tendrán una anchura mínima de 0.90 m., en cualquier otro tipo de edificio la anchura mínima será de 1.20 m. en los centros de reunión y salas de espectáculos las escaleras tendrán una anchura mínima igual a la suma de las anchuras de las circulaciones a las que den servicio.
 
 IV.- El ancho de los descansos deberá ser cuando menos igual a la anchura reglamentaria a la escalera.
 
-V.- Sólo se permitirán escaleras sin descanso, denominadas escaleras compensadas y escaleras de caracol para casas unifamiliares y para comercio u oficinas con superficie menor de 10.00 m2.
+V.- Las escaleras de caracol con un ancho menor de 1.20, no deben fungir como escalera única o principal de la vivienda. Se permitirán para comercios u oficinas con superficie menor a 100 m2 y no se permiten para uso común.
 
-VI.- La huella de los escalones tendrá un ancho mínimo de 0.28 m. y sus peraltes un máximo de 0.175 m. la dimensión de la huella se medirá entre las proyecciones verticales de dos resaltes continuos. Las medidas de los escalones deberán cumplir con las siguientes expresión (sic):
+VI.- La huella de los escalones tendrá un ancho mínimo de 0.25 m y sus peraltes un máximo de 0.18 m. La relación entre ambos debe ser tal, que la suma de la huella más el doble del peralte sea igual o superior a 0.61 m e inferior a 0.65 m. La dimensión de la huella se medirá entre las proyecciones verticales de dos resaltes continuos.
 
-0.62 m. (2p t h) 0.67 m.
-
-En donde p equivale a peralte del escalón en centímetros y h equivale al ancho de la huella en centímetros.
-
-VII.- Las escaleras contarán con un máximo de trece peraltes entre descanso, excepto las compensadas o de caracol.
+VII.- Cuando una escalera de uso común o privada exceda los 16 peraltes debe contar con un descanso.
 
 VIII.- En cada tramo de escaleras las huellas serán todas iguales la misma condición deberán cumplir los peraltes.
 
-IX.- El acabado de las huellas serán antiderrapante.
+IX.- El acabado de las huellas serán (sic) antiderrapante.
 
-X.- Los barandales deberán contar con los requisitos especificados en la fracción IV del artículo que antecede. (Consultar apoyo gráfico).
+X.- Los barandales deberán contar con los requisitos especificados en la fracción IV del artículo que antecede.
 
 ###### ARTICULO 235.
 
@@ -1551,13 +1605,15 @@ IV.- Los barandales se harán de acuerdo a las disposiciones de este capítulo. 
 
 A toda solicitud de licencia de construcción de un edificio ubicado dentro del perímetro de los sistemas de distribución de las redes de agua potable, deberá adjuntarse el contrato del servicio correspondiente.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 237.
 
 Los edificios cualquiera que sea el uso a que estén destinados, estarán provistos de agua potable que provendrá.
 
 I.- De los servicios públicos establecidos.
 
-II.- De los pozos que reúnan las condiciones para proporcionar agua potable, previa autorización de la Secretaría de Agricultura, Ganadería, Pesca y Alimentación o Comisión Nacional del Agua.
+II.- De los pozos que reúnan las condiciones para proporcionar agua potable, previa autorización de la entidad responsable del manejo del agua en el municipio y de la Comisión Nacional del Agua.
 
 ###### ARTICULO 238.
 
@@ -1613,9 +1669,11 @@ regadera privado mezcladora 2
 
 tina privado mezcladora 2
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 241.
 
-Para fines de almacenamiento se instalarán depósitos en las azoteas con capacidad de 250 litros por habitantes, siendo la capacidad mínima de 800 litros. Los depósitos podrán ser metálicos, de cemento de plástico rígido, de concreto impermeabilizado y de otros materiales aprobados por la autoridad competente.
+Para fines de almacenamiento se instalarán depósitos en las azoteas con capacidad de 150 litros por habitantes al día en viviendas de hasta 99 m2 construidos y de 195 litros por habitante al día en viviendas de igual o más de 100 m2 construidos, considerando en promedio 4 habitantes por vivienda, siendo la capacidad mínima del depósito de 600 litros y 780 litros según los m2 construidos de vivienda. Los depósitos podrán ser metálicos, de cemento de plástico rígido, de concreto impermeabilizado y de otros materiales aprobados por la autoridad competente.
 
 ###### ARTICULO 242.
 
@@ -1625,9 +1683,11 @@ Los depósitos deberán ser de tal forma, que eviten la acumulación de substanc
 
 La entrada de agua se hará por la parte superior de los depósitos y será interrumpida por una válvula accionada por un flotador o por un dispositivo que interrumpa el servicio cuando sea por bombeo. La Salida de agua se hará por la parte inferior de los depósitos y estará dotada de una válvula para aislar el servicio en caso de reparaciones en la red distribuidora.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 244.
 
-Para evitar deficiencia en el suministro del agua por falta de presión que garantice su elevación a la altura de los depósitos en los edificios que lo requieran, se instalarán cisternas para el almacenamiento de agua con equipo de bombeo adecuado. La capacidad de las cisternas deben ser igual al consumo diario del edificio calculado de acuerdo a las dotaciones especificadas en el artículo que precede, más una protección contra incendio que se determinará de acuerdo a las recomendaciones de los manuales de diseño, dependiendo del uso del edificio.
+Para evitar deficiencia en el suministro del agua por falta de presión que garantice su elevación a la altura de los depósitos en los edificios multifamiliares y los demás que lo requieran, se instalarán cisternas para el almacenamiento de agua con equipo de bombeo adecuado. La capacidad de las cisternas deberá ser igual al consumo diario del edificio calculado de acuerdo a las dotaciones especificadas en el artículo que precede, más una protección contra incendio que se determinará de acuerdo a las recomendaciones de los manuales de diseño, dependiendo del uso del edificio.
 
 ###### ARTICULO 245.
 
@@ -1689,9 +1749,11 @@ Los desagües de alberca, fuentes, climas artificiales y en general, instalacion
 
 ### CAPITULO XXX.- RECOLECCION Y TRATAMIENTO DE AGUAS RESIDUALES.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 249.
 
-Todo edificio deberá contar con un sistema de recolección de aguas residuales propio y exclusivo, que deberá estar conectado al sistema de alcantarillado en las zonas en que este exista. En los casos en que el edificio se encuentre ubicado fuera del perímetro de las redes del alcantarillado, deberán conducirse sus aguas residuales a un sistema de tratamiento cuyas características dependerán del uso del agua de las Normas Oficiales Mexicanas aplicables. En ningún caso, las aguas residuales en los edificios se descargarán a los cenotes ni a una profundidad comprendida entre los 3.00 m. por debajo del nivel estático del acuífero subterráneo y los 20.00 m. por debajo de la interfase salina.
+Todo edificio deberá contar con un sistema de recolección de aguas residuales propio y exclusivo, que deberá estar conectado al sistema de alcantarillado en las zonas en que este exista. En los casos en que el edificio se encuentre ubicado fuera del perímetro de las redes del alcantarillado, deberán conducirse sus aguas residuales a un sistema de tratamiento cuyas características dependerán del uso del agua de las Normas Oficiales Mexicanas aplicables. En ningún caso, las aguas residuales en los edificios se descargarán a los cenotes, ni a una profundidad por debajo de los 3.00 m y 4.00 m. sobre del nivel estático del acuífero subterráneo, ni a pozos que comuniquen con el nivel freático.
 
 ###### ARTICULO 250.
 
@@ -1761,45 +1823,65 @@ En los edificios de más de una planta, los conductos desaguadores estarán prov
 
 Todos los bajantes de aguas residuales debe prolongarse en su parte superior hasta salir de la construcción con tubería del mismo material reducido su diámetro de tal manera que no sea menor que la mitad del diámetro bajante.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 267.
 
-Para el caso en que un edificio se encuentre ubicado fuera del perímetro de las redes de alcantarillado y sus (sic) uso sea el de casa habitación familiar, deberá contar como mínimo con una fosa séptica para el tratamiento de sus aguas residuales la que deberá satisfacer las siguientes condiciones:
+Para el caso en que un edificio se encuentre ubicado fuera del perímetro de las redes de alcantarillado y sus aguas residuales sean de tipo doméstico, deberá contar como mínimo con una fosa séptica para el tratamiento de dichas aguas residuales; la que deberá satisfacer las siguientes condiciones:
 
-I.- Estará compuesta cuando menos de dos cámaras conectadas en serie la relación y largo ancho de la fosa será de 3:1. La primera cámara tendrá un largo igual a las dos terceras partes del largo total de la fosa.
+I.- Estará compuesta de una o dos cámaras conectadas en serie, la relación y largo ancho de la fosa será de 3:1. La primera cámara tendrá un largo igual a las dos terceras partes del largo total de la fosa.
 
-II.- La fosa deberá ser cubierta construida y revestida con material impermeable, calculándose su capacidad a razón de 250 litros por persona por día.
+II.- La fosa deberá ser cubierta construida y revestida con material impermeable, calculándose su capacidad según el número de usuarios de acuerdo a la siguiente tabla:
 
-III.- Se deberá proporcionar una ventilación adecuada para el escape de gases por medio de un respiradero, el que consistirá de un tubo de 0.05 m. de diámetro mínimo y una altura que sobre salga de la azotea para no causar problemas con los malos olores.
+Población Número Ancho Longitud Profundidad
 
-IV.- La fosa estará provista de un registro en cada cámara para facilitar su inspección y limpieza.
+(Hab) de (m) (m) total (m)
 
-V.- Los dispositivos de entrada, interconexión y salida de las aguas negras de la fosa, se construirá de acuerdo a lo especificado por los Servicios Coordinados de Salud Pública en el Estado de Yucatán.
+cámaras 1ª 2ª
 
-VI.- En todas las uniones de piso con muros de la fosa, deberán construirse medias cañas.
+Cámara Cámara
 
-VII.- Podrán descargar a la fosa séptica las aguas residuales con materia orgánica y grasas provenientes de excusados, mingitorios, fregaderos de cocinas, baños o lavabos, es decir de toda clase de residuos líquidos domésticos.
+1-5 2 0.60 1.3 0.7 2.1
 
-VIII.- La disposición final afluente de la fosa séptica se efectuará por infiltración en zanjas, campos de irrigación subsuperficial y pozos de absorción siempre y cuando estos medios estén por los menos a 2.00 m. por encima del nivel freático del acuífero subterráneo o bien, mediante pozos de absorción profundos que descarguen por debajo de las zonas de difusión (interface salina), y cuyo proyecto deberá ser aprobado por la Secretaría de Ecología del Estado. Cualquier medio que se utilice para la disposición final deberá localizarse en los terrenos del edificio.
+6-10 2 0.90 1.4 0.7 2.1
+
+11-15 2 1.0 1.7 0.8 2.1
+
+16-20 2 1.20 1.90 1.0 21.1 (sic)
+
+21-30 1 1.40 3.3 - 2.5
+
+31-40 1 1.50 3.5 - 2.9
+
+41-60 1 1.70 4.1 - 3.1
+
+61-80 1 2.0 4.8 - 3.1
+
+81-100 1 2.2 5.3 - 3.1
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 268.
 
-Tratándose de fosas sépticas prefabricadas, éstas deberán de ser de empresas registradas y autorizadas por la Dirección. Para ello los fabricantes podrán solicitar la aprobación de diseño y las especificaciones de construcción, de acuerdo al diseño, especificaciones y formalidades que la Dirección determine.
+Tratándose de fosas sépticas prefabricadas, éstas deberán de ser de empresas registradas y autorizadas por la Dirección. Para ello los fabricantes podrán solicitar la aprobación de diseño y las especificaciones de construcción, de acuerdo al diseño, especificaciones y formalidades que la Dirección determine, en apego a la NOM 006 – CONAGUA - 1997, relativa a las especificaciones y métodos de prueba de las fosas sépticas prefabricadas. La Dirección podrá otorgar la aprobación de las fosas sépticas prefabricadas mediante convenio; podrá revocar dicha aprobación en caso de incumplimiento de las condiciones convenidas, principalmente en materia de calidad y resistencia de materiales, por lo que estará facultada mediante el convenio, a ordenar el análisis y certificación de la calidad de los materiales a través de instituciones y empresas reconocidas.
 
-La Dirección podrá otorgar la aprobación de las fosas sépticas prefabricadas mediante convenio; podrá revocar dicha aprobación en caso de incumplimiento de las condiciones convenidas, principalmente en materia de calidad y resistencia de materiales, por lo que estará facultada mediante el convenio, a ordenar él análisis y certificación de la calidad de los materiales a través de instituciones y empresas reconocidas.
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 269.
 
-En edificios multifamiliares, hoteles, escuelas, oficinas públicas, industrias y cualquier establecimiento ubicado fuera del perímetro de las redes del alcantarillado, el sistema de tratamiento para sus aguas residuales será conforme al número de personas servidas, bajo condiciones normales y en su caso a las Normas Oficiales Mexicanas correspondientes.
+En edificios multifamiliares, hoteles, escuelas, oficinas públicas, industrias y cualquier establecimiento ubicado fuera del perímetro de las redes del alcantarillado, el sistema de tratamiento para sus aguas residuales será conforme al número de personas servidas, bajo condiciones normales y en su caso conforme a las Normas Oficiales Mexicanas correspondientes vigentes.
 
-Igualmente podrán utilizarse plantas de tratamiento o fosas sépticas, cuyo diseño sea aprobado por la Dirección.
+Igualmente podrán utilizarse plantas de tratamiento o fosas sépticas, cuyo diseño sea aprobado por la Dirección o la Secretaría de Desarrollo Urbano y Medio Ambiente, de acuerdo a la evaluación del Estudio de Impacto Ambiental del Proyecto en cuestión.
 
-Las personas físicas o morales que descarguen aguas residuales en cuerpos receptores diferentes a los alcantarillados de la ciudad, deberán de obtener el permiso correspondiente y ajustarse a lo establecido en la Ley General del Equilibrio Ecológico y la Protección del Media Ambiente del Estado de Yucatán, La Ley de Aguas Nacionales y su Reglamento, así como lo dispuesto en las Normas Oficiales mexicanas vigentes y el reglamento de Protección al Medio Ambiente del Municipio de Umán, Yucatán.
+Las personas físicas o morales que descarguen aguas residuales en cuerpos receptores diferentes a los alcantarillados de la ciudad, deberán de obtener el permiso correspondiente y ajustarse a lo establecido en la Ley de Protección al Medio Ambiente del Estado de Yucatán y su Reglamento, La Ley de Aguas Nacionales y su Reglamento, así como lo dispuesto en las Normas Oficiales Mexicanas vigentes.
 
-La aportación de aguas residuales será considerada como el 80% de la dotación de agua potable y el volumen de la fosa séptica se calculará para un tiempo mínimo de retención de tres días.
+La aportación de aguas residuales será considerada como el 80% de la dotación de agua potable y el volumen de la fosa séptica estará en función del número de usuarios.
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 270.
 
-Las descargas de aguas residuales provenientes de hoteles y de multifamiliares con una capacidad mayor a 200 habitantes así como de industrias, de gasolineras, de servicios automotrices, de hospitales, etc., deberán sujetarse a la Ley General del Equilibrio Ecológico, la Ley de Protección al Ambiente del Estado de Yucatán, así como al Reglamento de Protección al Medio Ambiente del Municipio de Umán, Yucatán.
+Las descargas de aguas residuales provenientes de hoteles, de multifamiliares, de centros comerciales, así como de industrias, de gasolineras, de servicios automotrices, de hospitales, y demás usos que puedan causar impactos o desequilibrios ecológicos, deberán sujetarse a la Ley de Protección al Medio Ambiente del Estado de Yucatán y su Reglamento vigente.
 
 ###### ARTICULO 271.
 
@@ -1957,9 +2039,11 @@ b).- Sanitarios 100
 
 ### CAPITULO XXXII.- EDIFICIOS PARA BODEGAS.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 274.
 
-Los edificios que se usen o destinen para bodegas, deberán contar con áreas destinadas para efectuar maniobras de carga, descarga y circulación de los vehículos de transporte de carga quedando prohibido utilizar la vía pública para tal fin. Tendrán el número de servicios sanitarios que considere el Reglamento de Ingeniería Sanitaria.
+Los edificios que se usen o destinen para bodegas, deberán contar con áreas destinadas para efectuar maniobras de carga, descarga, y circulación de los vehículos de transporte de carga quedando prohibido utilizar la vía pública para tal fin. Tendrán el número de servicios sanitarios que considere este reglamento y las normas oficiales aplicables vigentes.
 
 ###### ARTICULO 275.
 
@@ -1971,9 +2055,11 @@ Los edificios para bodegas, se ajustarán a lo relativo a previsiones contra inc
 
 ### CAPITULO XXXIII.- INDUSTRIAS.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 277.
 
-La Dirección, cuidará especialmente que las construcciones para instalaciones industriales cumplan previamente con solicitar la carta de uso del suelo, así como cumplir con lo previsto en los Reglamentos de Medida Preventivas de Accidentes y de Higiene del Trabajo, así como proveer de áreas de circulación y maniobras, Servicios Sanitarios, Iluminación y ventilación, de a cuerdo al tipo de industria a que esté destinado el uso del edificio.
+La Dirección, cuidará especialmente que las construcciones para instalaciones industriales cumplan previamente con solicitar la carta de uso del suelo, así como cumplir con lo previsto en el Reglamente Federal de Seguridad, Higiene y Medio Ambiente del Trabajo, así como proveer de áreas de circulación y maniobras, Servicios Sanitarios, Iluminación y ventilación, de a cuerdo (sic) al tipo de industria a que esté destinado el uso del edificio.
 
 ### CAPITULO XXXIV.- CEMENTERIOS.
 
@@ -1985,9 +2071,11 @@ Corresponde al Ayuntamiento, privativamente, previo dictamen de la Dirección, c
 
 Para autorizar el establecimiento de un Cementerio se tendrá en cuenta el Programa y demás disposiciones legales aplicables. Para contar con la licencia de Construcción expedida por la Dirección, el cementerio deberá cumplir con los siguientes espacios: fosas, osarios, criptas, vialidades peatonales y vehiculares, áreas verdes, las salas para el público, los servicios generales, áreas de archivo, las oficinas y los que garanticen la funcionalidad del servicio.
 
-###### ARTÍCULO 280.
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
-En caso de que el proyecto del cementerio cuente con un crematorio, éste deberá cumplir con todas las disposiciones normativas de la Ley de Salubridad y sus Reglamentos.
+###### ARTICULO 280.
+
+En caso de que el proyecto del cementerio cuente con un crematorio, éste deberá cumplir con todas las disposiciones normativas de la Ley General de Salud y la Ley de Salud del Estado de Yucatán y sus Reglamentos.
 
 ### CAPITULO XXXV.- DISPOSITIVOS PARA EXPLOSIVOS.
 
@@ -1999,13 +2087,17 @@ Queda estrictamente prohibido dentro del perímetro de la Ciudad, construir dep�
 
 El proyecto para la edificación de los depósitos de sustancias explosivas, deberá ajustarse a las disposiciones de la Secretaría de la Defensa Nacional y demás normas legales aplicables.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 283.
 
-Los Comercios de compraventa de cartuchos y armas deportivas que tengan almacenamiento de las mismas, deberán contar con lo establecido en la Ley Federal de Armas de Fuego y Explosivos y de la Defensa Nacional y las disposiciones establecidas en el Reglamento.
+Los Comercios de compraventa de cartuchos y armas deportivas que tengan almacenamiento de las mismas, deberán contar con lo establecido en la Ley Federal de Armas de Fuego y Explosivos de la Secretaría de la Defensa Nacional, las disposiciones establecidas en el Reglamento y las normas oficiales aplicables.
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 284.
 
-Toda Persona moral o física que se dedique a la compraventa de sustancias explosivas, de armas deportivas y cartuchos, deberán entregar anualmente una constancia firmada por un Ingeniero Civil o Perito de la materia que sea el responsable del estado de las bodegas y que cumplen con lo establecido en la Ley de Armas de fuego y Explosivos de Armas de Fuego y Explosivos y sus Reglamentos.
+Toda Persona moral o física que se dedique a la compraventa de sustancias explosivas, de armas deportivas y cartuchos, deberán entregar anualmente una constancia firmada por un Ingeniero Civil o Perito de la materia que sea el responsable del estado de las bodegas y que cumplen con lo establecido en la Ley Federal de Armas de Fuego y Explosivos de la Secretaría de Defensa Nacional y las normas oficiales aplicables.
 
 ### CAPITULO XXXVI.- ESTACIONAMIENTOS.
 
@@ -2029,141 +2121,187 @@ Los estacionamientos, tendrán áreas para el ascenso y descenso de personas, en
 
 Las personas con discapacidad tendrán derecho exclusivo a ocupar los espacios de estacionamiento destinados para ellos. Para su identificación, deberá de figurar en su vehículo los logotipos internacionales. (Consultar apoyo gráfico).
 
-###### ARTÍCULO 290.
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
-Toda edificación deberá cumplir con la tabla siguiente:
+###### ARTICULO 290.
 
-ESPACIOS PARA ESTACIONAMIENTO SEGÚN EL TIPO DE EDIFICACIÓN
+Para el cálculo de la demanda de estacionamiento en edificios multifamiliares y desarrollos habitacionales, se tomará como parámetro el número de recámaras, según la clasificación de la vivienda por nivel socioeconómico, quedando establecido en la siguiente tabla, que se presenta a continuación:
 
-USO DEL PREDIO ÁREA CONSTRUIDA, NÚMERO MINIMO
+ESPACIOS PARA ESTACIONAMIENTO EN USOS HABITACIONALES, SEGÚN CLASIFICACIÓN DE LA
 
-NUMERO DE DE ESPACIOS
+CLASIFICACIÓN DE LA PARÁMETRO DE CONDICIÓN DE
 
-CUARTOS, AULAS,
+VIVIENDA CÁLCULO UBICACIÓN DE LOS
 
-PERSONAS, ETC.
+CAJONES
 
-Casa habitación menos de 80 m2 1 cajón
+Vivienda económica 0.2 cajón por recámara *
 
-Mas de 80 m2 2 cajones
+Vivienda popular *
 
-Edificio de hasta 70 m2 1 cajón por depto
+Vivienda tradicional *
 
-Departamentos mayor de 70 m2 2 cajones por depto
+Vivienda media 0.5 cajón por recámara 0.3 cajón por recámara
 
-Oficinas área total 1 por cada 30 m2
+Vivienda residencial 1 cajón por recámara 0.4 cajón por recámara
 
-particulares o rentable
+Vivienda residencial 1.25 cajón por *
 
-gubernamentales
+plus recámara
 
-Comercio menor de 1000 m2 1 por cada 35 m2
+* Se tomará en cuenta el número de cajones en cordón frente al paramento de la vivienda.
 
-Mayor de 1000 m2 1 por cada 25 m2
+VIVIENDA Y EL NÚMERO DE RECÁMARAS
 
-Industrias área industrial 2 cajones
+Teniendo las dimensiones de los cajones lo estipulado en la tabla "DIMENSIONES DE LOS CAJONES EN CORDÓN, SEGÚN TIPO DE VIALIDAD SOBRE LA CUAL SE ENCUENTRE", del artículo 291 de este Reglamento.
 
-y bodegas 1 cajón p/c 200 m2
+Y para el cálculo de la demanda de cajones para usos complementarios, no habitacionales, se tomará en cuenta los parámetros de cálculo según la siguiente tabla:
 
-excedentes
+USO DE SUELO PARÁMETRO DE NÚMERO DE CAJONES
 
-Hoteles y para los primeros 1 cajón p/c 4 cuartos
+CÁLCULO
 
-posadas 20 cuartos
+Oficinas particulares o Área total rentable 1 por cada 30 m2
 
-Cuartos excedentes 1 cajón p/c 5 cuartos
+Gubernamentales
 
-Hospitales y primera categoría 1 cajón por cuarto
+Comercio Menor de 1,000 m2 1 por cada 35 m2
 
-Clínicas de segunda categoría 1 por cada 4 camas
+Mayor de 1,000 m2 1 por cada 25 m2
 
-consultorios y labora- 1 por cada 15 m2
+Industrias y bodegas Área industrial 2 por cada 250 m2 y 1 por
 
-torios
+cada 200 m2 excedentes
 
-Escuelas aula 1 cajón por aula
+Hoteles y posadas Para los primeros 20 1 por cada 4 cuartos
 
-jardín de niños,
+cuartos
+
+Cuartos excedentes 1 por cada 5 cuartos
+
+Hospitales y clínicas Primera categoría 1 por cada cuarto
+
+Segunda categoría 1 por cada 4 camas
+
+Consultorios y 1 por cada 15 m2
+
+laboratorios
+
+Jardín de niños, Aula 1 por aula
 
 primaria y secundaria
 
-Preparatoria y área de aulas 1 cajón p/c 8 m2
+Preparatoria y Área de aulas 1 por cada 8 m2
 
-Academias área de aulas 1 cajón p/c 6 m2
+academias
 
-Profesionales
+Profesionales Área de aulas 1 por cada 6 m2
 
-Centros de cupo 1 cajón p/c 4 personas
+Centros de reunión Cupo 1 por cada 4 personas
 
-reunión
+Restaurantes Cupo 1 por cada 7 personas
 
-Restaurantes cupo 1 cajón p/c 7 personas
+Cines Cupo 1 por cada 15 personas
 
-Cine cupo 1 cajón p/c 15 personas
+Edificios destinados a Cupo 1 por cada 30 personas
 
-Edificios destinados cupo 1 cajón p/c 30 personas
+templos
 
-a templos
+Edificios destinados a Cupo 1 por cada 20 personas
 
-Edificios destinados cupo 1 cajón p/c 20 personas
-
-a espectáculos
+espectáculos
 
 deportivos
 
-Salones de fiesta área total 1 cajón p/c 20 m2
+Salones de fiesta Área total 1 por cada 20 m2
 
-infantiles
+Infantiles construidos
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 291.
 
-Para la construcción de estacionamientos de vehículos se cumplirán las especificaciones contenidas en esta tabla, en las que se indican las dimensiones de los automóviles, calculadas éstas basándose en promedio de dimensiones siendo los resultados los siguientes:
+Para la construcción de estacionamientos de vehículos se cumplirán las especificaciones contenidas en esta tabla, en las que se indican las dimensiones de los cajones de los automóviles, siendo los resultados los siguientes:
 
-DIMENSIONES EN METROS DE TIPO DE AUTOMOVIL
+DIMENSIONES EN METROS DE LOS CAJONES DE ESTACIONAMIENTO, EN EL INTERIOR DEL PREDIO, SEGÚN TIPO DE AUTOMÓVIL
 
-TIPO DE AUTOMOVIL LONGITUD(1) ANCHURA(A)
+Estacionamiento en batería:
 
-Grande y Pick Up 6.00 m. 2.20 m.
+TIPO DE AUTOMOVIL LONGITUD ANCHURA
 
-Mediano 5.40 m. 2.20 m.
+Autos Grandes 5.40 m 2.50 m
 
-Chico 4.50 m. 1.60 m.
+Autos Medianos 5.00 m 2.50 m
 
-###### ARTICULO 292.
+Autos Chicos 4.80 m 2.50 m
 
-Para calcular la longitud (L) y la anchura (A) para un cajón de estacionamiento en función de la longitud (1) y de la anchura (a) del automóvil representativo se emplearon las formulas siguientes
+Autos de Discapacitado 5.40 m 3.80 m
 
-(1) L = 1 + m
+Estacionamiento en cordón en el interior del predio:
 
-A = a + n
+Autos Grandes 6.00 m 2.40 m
 
-Donde m es el espacio longitudinal y n es el espacio lateral que debe quedar entre dos vehículos estacionados.
+Autos Medianos 5.50 m 2.40 m
+
+Autos Chicos 5.10 m 2.40 m
+
+Autos de Discapacitado 6.00 m 3.60 m
+
+En el caso de estacionamiento en cordón sobre la vialidad, las medidas dependerán de la jerarquía de la vialidad, de acuerdo con la siguiente tabla:
+
+DIMENSIONES DE LOS CAJONES EN CORDÓN, SEGÚN TIPO DE VIALIDAD SOBRE LA CUAL SE ENCUENTRE
+
+TAMAÑO LARGO ANCHO MÍNIMO DEL ANCHO MÍNIMO
+
+DEL AUTO DEL CAJÓN CAJÓN (en avenida o DEL CAJÓN (en
+
+calle primaria) calle secundaria o
+
+terciaria)
+
+Autos 6.00 m 2.50 m 2.00 m
+
+grandes
+
+Autos 5.50 m 2.50 m 2.00 m
+
+medianos
+
+Autos chicos 5.10 m 2.50 m 2.00 m
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
+ARTICULO 292 NUEVO (SIC).- En edificios multifamiliares y desarrollos habitacionales, se permite que hasta el 50% de los cajones de estacionamiento se asignen para autos compactos.
+
+Los edificios multifamiliares y desarrollos habitacionales deben contar con un cajón de estacionamiento para personas con discapacidad por cada 25 viviendas o fracción; y deben contar con un cajón de estacionamiento para visitas por cada 10 viviendas o fracción. La vivienda de tipo social progresiva está exenta de esta reglamentación de cajones de visita.
+
+En edificios multifamiliares y desarrollos habitacionales, el cálculo de la oferta de cajones se podrá realizar por manzana, tomando en cuenta los cajones en cordón y en batería, que el diseño de la manzana permita ofrecer sobre vialidades y bolsas de estacionamiento y no necesariamente dentro de cada lote.
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 293.
 
-Cuando la disposición del estacionamiento es en batería el valor de m es igual a 0 y si es un cordón m es igual a 0.60 m. mínimo. El valor de n en batería es de 0.60 m. cuando el estacionamiento es en cordón n = a 0.40 m. mínimo. Las dimensiones mínimas para los pasillos de circulación deberán cumplir con las siguientes especificaciones:
+Cuando la disposición de los cajones de estacionamiento es en batería, las dimensiones mínimas para los pasillos de circulación deberán cumplir con las siguientes especificaciones:
 
-ANCHURA DE PASILLOS EN METROS
+ANCHURA DE PASILLOS EN METROS SEGÚN EL ANGULO DE ESTACIONAMIENTO Y EL TAMAÑO DE LOS AUTOS
 
-SEGÚN EL TAMAÑO DE LOS AUTOMOVILES
+ÁNGULO DE AUTOS GRANDES Y AUTOS CHICOS
 
-ANGULO DEL CAJON GRANDES Y MEDIANOS CHICOS
+ESTACIONAMIENTO MEDIANOS
 
-30 grados 3.0 2.7
+30 grados 3.00 2.70 m
 
-45 grados 3.3 3.0
+45 grados 3.30 3.00 m
 
-50 grados 5.0 4.0
+60 grados 5.00 4.00 m
 
-90 grados 5.0 4.0
+90 grados 5.00 4.00 m
 
-1.- Tratándose de automóviles grandes y medianos deberán cumplir los siguientes lineamientos:
+1.- Además se deberá cumplir los siguientes lineamientos:
 
-a).- En estacionamientos atendidos por choferes acomodadores, se podrán reducir los pasillos de circulación a 1.00 m. como máximo para la distribución de cajones rectángulos a 90 grados.
+a).- Las rayas en el pavimento deberán ser de color blanco y con 0.10.m. de anchura.
 
-b).- Las rayas en el pavimento deberán ser de color blanco y con 0.10. m. de anchura.
-
-c).- En estacionamientos con mezcla de automóviles grandes medianos, y chicos, se deberá aplicar la distribución de cajones correspondiente a automóviles grandes y medianos.
+b).- En estacionamientos con mezcla de automóviles grandes, medianos, y chicos, se deberá aplicar la distribución de cajones correspondiente a automóviles grandes y medianos.
 
 ###### ARTICULO 294.
 
@@ -2265,9 +2403,11 @@ La estructura, una vez concluida, deberá revisarse por el corresponsable del di
 
 El cálculo de los esfuerzos de las deformaciones provocadas por las fuerzas aplicadas a una estructura así como el diseño de los diversos elementos que integren la misma, deberá hacerse utilizado los métodos de calculo elástico o de calculo plástico reconocidos. En caso de que se empleen métodos especiales diferentes a los ya citados, dichos métodos deberán ser sometidos a la autorización de la Dirección, la que previo examen, aprobará o rechazará. Por lo que respecta al diseño de las estructuras, se adoptarán las especificaciones para el diseño y montaje de acero estructural para edificios, así contenidas en el Código de practicas del Instituto Americano de construcción de acero (AISC) y asimismo las normas, especificaciones y prácticas recomendadas por el Instituto Americano del Concreto (ACI) y en todos los casos las normas técnicas complementarias vigentes contenidas en este Reglamento, aplicado los factores de carga de reducción y esfuerzos permisibles que correspondan a cada especificación.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 298.
 
-Todos los materiales de construcción deberán satisfacer las especificaciones y normas de calidad que fija la Dirección General de Normas y las Normas aplicables de la Sociedad Americana de Prueba de Materiales (ASTM).
+Todos los materiales de construcción deberán satisfacer las especificaciones y normas de calidad que fija la Dirección General de Normas de la Secretaría de Economía y las Normas aplicables de la Sociedad Americana de Prueba de Materiales (ASTM)
 
 ###### ARTICULO 299.
 
@@ -2307,13 +2447,17 @@ IX.- Contar con la responsiva de un Director responsable de Obra.
 
 ### CAPITULO XL.- NORMAS DE CALIDAD ESTRUCTURALES.
 
-###### ARTÍCULO 303.
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
-La resistencia, la calidad y las características de los materiales, empleados en la construcción, serán los que se señalen en las especificaciones de diseños y en los planos constructivos en los que deberán satisfacer las normas de calidad que fije la Secretaría de Comercio y Fomento Industrial.
+###### ARTICULO 303.
 
-###### ARTÍCULO 304.
+La resistencia, la calidad y las características de los materiales, empleados en la construcción, serán los que se señalen en las especificaciones de diseños y en los planos constructivos en los que deberán satisfacer las normas de calidad que fije la Dirección General de Normas de la Secretaría de Economía
 
-La Dirección podrá exigir los muestreos y las pruebas necesarias para verificar la calidad y la resistencia ya especificada de los materiales que formen parte de los elementos estructurales, aún en obras terminadas. En el caso de materiales cuyas propiedades constructivas se desconozcan o bien, que no estén sujetos a las normas de calidad establecidas por la Secretaría de Comercio y Fomento Industrial, el Director responsable de Obra, estará obligado a encargar las ensayos necesarios a un laboratorio de control de calidad reconocido en la entidad y solicitar la aprobación de su uso a la Dirección.
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
+###### ARTICULO 304.
+
+La Dirección podrá exigir los muestreos y las pruebas necesarias para verificar la calidad y la resistencia ya especificada de los materiales que formen parte de los elementos estructurales, aún en obras terminadas. En el caso de materiales cuyas propiedades constructivas se desconozcan o bien, que no estén sujetos a las normas de calidad establecidas por la Dirección General de Normas de la Secretaría de Economía, el Director responsable de Obra, estará obligado a encargar los ensayos necesarios a un laboratorio de control de calidad reconocido en la entidad y solicitar la aprobación de su uso a la Dirección.
 
 ###### ARTICULO 305.
 
@@ -2323,9 +2467,11 @@ El muestreo deberá efectuarse, siguiendo los métodos estadísticos que asegure
 
 Los elementos estructurales cuyos materiales se encuentren en ambiente corrosivo o sujeto a la acción de sujetos físicos, químicos o biológicos que puedan hacer disminuir su resistencia, deberán ser recubiertos con materiales o sustancias protectoras así mismo, tendrán un mantenimiento preventivo que asegure su funcionamiento dentro de las condiciones previstas de diseño.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 307.
 
-Los materiales que se utilicen en la elaboración de morteros, deberán cumplir con las normas establecidas por la Secretaría de Comercio y Fomento Industrial. La codificación de estos materiales será en proporciones tales que cumplan con los requisitos de resistencia y tengan el revestimiento fijado en el proyecto.
+Los materiales que se utilicen en la elaboración de morteros, deberán cumplir con las normas establecidas por la Dirección General de Normas de la Secretaría de Economía. La codificación de estos materiales será en proporciones tales que cumplan con los requisitos de resistencia y tengan el revestimiento fijado en el proyecto.
 
 ###### ARTICULO 308.
 
@@ -2895,6 +3041,8 @@ b).- En la dirección vertical, se tomará una excentricidad accidental igual a:
 
 COEFICIENTES DE SEGURIDAD EN LAS CIMENTACIONES
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 352.
 
 Se respetarán en el diseño estructural las siguientes normas o coeficientes de seguridad para cimentaciones:
@@ -2905,7 +3053,7 @@ Se respetarán en el diseño estructural las siguientes normas o coeficientes de
 
 3.- El coeficiente de la seguridad contra el volteamiento no será inferior de 1.5 debiendo suprimirse en esta verificación las cargas vivas que contribuyan a disminuir ese efecto.
 
-4.- El coeficiente de seguridad contra deslizamiento de la cimentación de una estructura deberá de ser de dos como mínimo debiendo suprimirse en esta verificación todas aquellas cargas vivas o accidentales que tiendan a disminuir dicho deslizamiento. Se deberán tomar en consideración los aspectos establecidos en el capítulo 60 denominado Cimentaciones de este Reglamento.
+4.- El coeficiente de seguridad contra deslizamiento de la cimentación de una estructura deberá de ser de dos como mínimo debiendo suprimirse en esta verificación todas aquellas cargas vivas o accidentales que tiendan a disminuir dicho deslizamiento. Se deberán tomar en consideración los aspectos establecidos en el capítulo LVI denominado Cimentaciones de este Reglamento.
 
 ###### ARTICULO 353.
 
@@ -3417,9 +3565,11 @@ Será indispensable para efectuar una excavación, recabar la licencia correspon
 
 El procedimiento de ejecución de las excavaciones, deberá garantizar que no se rebasen los estados límite definidos en el artículo 334 de este Reglamento. De ser necesario, la excavación se realizará por etapas, señalado además, las precauciones que se tomarán para que no resulten afectadas las construcciones de los predios vecinos o los servicios públicos. Estas precauciones se deberán consignar claramente en los planos.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 416.
 
-Si por la naturaleza del terreno fuere preciso realizar las excavaciones por medio de explosivos, queda prohibido efectuar las detonaciones a cielo abierto, debiendo tomarse las medidas necesarias para evitar que los fragmentos del terreno se dispersen, por lo que se requiere el uso de dispositivos de seguridad. Asimismo, deberán contar con su certificado de seguridad otorgado por SEDENA y de la licencia correspondiente para la utilización de los mismos, acatando los requisitos contenidos en la Ley Federal de Fuego y Explosivo.
+Si por la naturaleza del terreno fuere preciso realizar las excavaciones por medio de explosivos, queda prohibido efectuar las detonaciones a cielo abierto, debiendo tomarse las medidas necesarias para evitar que los fragmentos del terreno se dispersen, por lo que se requiere el uso de dispositivos de seguridad. Asimismo, deberán contar con su certificado de seguridad otorgado por SEDENA y de la licencia correspondiente para la utilización de los mismos, acatando los requisitos contenidos en la Ley Federal de Armas de Fuego y Explosivos.
 
 ###### ARTICULO 417.
 
@@ -3477,9 +3627,11 @@ Los andamios que se utilicen para construir, reparar o demoler una edificación 
 
 ### CAPITULO LX.- DISPOSITIVOS PARA ELEVACION DE ELEMENTOS EN LAS OBRAS.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 428.
 
-Los dispositivos empleados para la transportación vertical de personas o los materiales durante la ejecución de las obras, deberán ofrecer las máximas condiciones de seguridad y deberán ser examinados y probados antes de ser utilizados. Los materiales y los elementos de estos dispositivos deberán cumplir con los requisitos de calidad especificados en las Normas oficiales de la Dirección General de Normas de la Secretaría de Comercio y Fomento Industrial en su capítulo Industria Manufacturera.. (sic)
+Los dispositivos empleados para la transportación vertical de personas o los materiales durante la ejecución de las obras, deberán ofrecer las máximas condiciones de seguridad y deberán ser examinados y probados antes de ser utilizados. Los materiales y los elementos de estos dispositivos deberán cumplir con los requisitos de calidad especificados en las Normas oficiales de la Dirección General de Normas de la Secretaría de Economía en su capítulo Industria Manufacturera.
 
 ###### ARTICULO 429.
 
@@ -3503,9 +3655,11 @@ VI.- Estar provista de los medios necesarios para evitar el riesgo de un descens
 
 ### CAPITULO LXI.- ESTRUCTURA DE MADERA.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 431.
 
-En estructuras permanentes, sólo se emplearán madera selecta, de primera o de segunda clase, la cual deberá estar debidamente tratada protegida contra plagas, intemperismo y fuego mediante procedimientos adecuados. Su calidad deberá con las Normas oficiales Mexicanas fijadas por la Dirección General de Normas de la Secretaría de Comercio y Fomento Industrial relativas de Maderas.
+En estructuras permanentes, sólo se emplearán madera selecta, de primera o de segunda clase, la cual deberá estar debidamente tratada protegida contra plagas, intemperismo y fuego mediante procedimientos adecuados. Su calidad deberá cumplir con las Normas oficiales Mexicanas fijadas por la Dirección General de Normas de la Secretaría de Economía relativas a Maderas.
 
 ###### ARTICULO 432.
 
@@ -3547,9 +3701,11 @@ Para verificar que los elementos de mampostería con funciones estructurales con
 
 ### CAPITULO LXIII.- ESTRUCTURAS METALICAS.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 438.
 
-Las estructuras metálicas deberán sujetarse a todo lo previsto en el Título Quinto de este Reglamento. Los materiales que se utilicen en la construcción de estructuras metálicas deberán cumplir con las normas de calidad especificadas en las Normas Oficiales Mexicanas de la Dirección General de Normas de la Secretaría de Fomento Industrial en su capítulo Industria Siderúrgica.. (sic)
+Las estructuras metálicas deberán sujetarse a todo lo previsto en el Título Quinto de este Reglamento. Los materiales que se utilicen en la construcción de estructuras metálicas deberán cumplir con las normas de calidad especificadas en las Normas Oficiales Mexicanas de la Dirección General de Normas de la Secretaría de Economía en su rama industrial de productos siderúrgicos.
 
 ###### ARTICULO 439.
 
@@ -3589,17 +3745,23 @@ III.- Inspección.- El Director Responsable de Obra, tomará las medidas necesar
 
 ### CAPITULO LXIV.- INSTALACIONES.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 442.
 
-Las instalaciones eléctricas, hidráulicas, sanitarias, así como las instalaciones especiales como las de contra incendios, mecánicas, de aire acondicionado, de gas, de vapor, de aire caliente, las telefónicas, de comunicación, las especiales y otras de más, deberán proyectarse, ejecutarse, sujetarse y conservarse en condiciones que garanticen su eficiencia y proporcionen la seguridad necesaria a los trabajadores, a los usuarios y al inmueble, de conformidad con lo que establecen las disposiciones aplicables para cada caso. Durante su ejecución, se deberá cumplir con las disposiciones contenidas en el Reglamento de Seguridad e Higiene del Trabajo, normado y vigilado por la Secretaría de Trabajo y Previsión Social. En las instalaciones deberán emplearse únicamente materiales y productos que satisfagan las Normas Oficiales Mexicanas fijadas por la Secretaría de Comercio y Fomento Industrial.
+Las instalaciones eléctricas, hidráulicas, sanitarias, así como las instalaciones especiales como las de contra incendios, mecánicas, de aire acondicionado, de gas, de vapor, de aire caliente, las telefónicas, de comunicación, las especiales y otras de más, deberán proyectarse, ejecutarse, sujetarse y conservarse en condiciones que garanticen su eficiencia y proporcionen la seguridad necesaria a los trabajadores, a los usuarios y al inmueble, de conformidad con lo que establecen las disposiciones aplicables para cada caso. Durante su ejecución, se deberá cumplir con las disposiciones contenidas en el Reglamento Federal de Seguridad e Higiene y Medio Ambiente del Trabajo, normado y vigilado por la Secretaría de Trabajo y Previsión Social. En las instalaciones deberán emplearse únicamente materiales y productos que satisfagan las Normas Oficiales Mexicanas fijadas por La Dirección General de Normas de la Secretaría de Economía.
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 443.
 
-Las instalaciones eléctricas, incluyendo las de carácter provisional durante el proceso de construcción de la obra se sujetarán a lo previsto en el Reglamento de Obras e Instalaciones Eléctricas de la Secretaría de Comercio y Fomento Industrial.
+Las instalaciones eléctricas, incluyendo las de carácter provisional durante el proceso de construcción de la obra se sujetarán a lo previsto en el Reglamento de Obras e Instalaciones Eléctricas de La Dirección General de Normas de la Secretaría de Economía.
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 444.
 
-Las instalaciones hidráulicas y sanitarias, deberán cumplir además de lo previsto por este Reglamento, con las disposiciones contenidas en el Código Sanitario de los Estados Unidos Mexicanos, en la Ley Federal para Prevenir y Controlar la Contaminación Ambiental, La Ley General de Equilibrio Ecológico y de Protección al Ambiente, la Ley de Aguas Nacionales y su Reglamento y las Normas Oficiales Mexicanas.
+Las instalaciones hidráulicas y sanitarias, deberán cumplir además de lo previsto por este Reglamento, con las disposiciones contenidas en La Ley General de Salud, en la Ley Federal para Prevenir y Controlar la Contaminación Ambiental, La Ley General de Equilibrio Ecológico y la Protección al Ambiente, La Ley de Aguas Nacionales y su Reglamento y las Normas Oficiales Mexicanas vigentes.
 
 ###### ARTICULO 445.
 
@@ -3609,17 +3771,23 @@ La cimentación de equipos mecánicos o de máquina, deberán construirse de acu
 
 Las instalaciones de aire acondicionado deberán realizarse de manera que los equipos no produzcan vibraciones o ruidos que causen molestias a las personas o perjuicios a los edificios o a terceros., quedando prohibido utilizar la vía pública como medio de desagüe del equipo o instalación del mismo.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 447.
 
-Las instalaciones de gas combustibles serán para uso del gas licuado de petróleo o de gas natural y deberán cumplir con las disposiciones contenidas en el instructivo para el diseño y la ejecución de instalaciones y aprovechamientos de gas licuado de petróleo de la Dirección General de Gas de la Secretaría de Economía, antes SECOFI.
+Las instalaciones de gas combustibles serán para uso del gas licuado de petróleo o de gas natural y deberán cumplir con las disposiciones contenidas en el instructivo para el diseño y la ejecución de instalaciones y aprovechamientos de gas licuado de petróleo de la Dirección General de Gas de la Secretaría de Energía.
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 448.
 
-Las instalaciones de vapor y de aire caliente, deberán cumplir con lo especificado en las disposiciones del Código Sanitario de los Estados Unidos Mexicanos y en la Ley Federal para Prevenir y Controlar la Contaminación Ambiental. Para la instalación y el funcionamiento de calderas, deberán cumplirse, además con los requisitos contenidos en el Reglamento para la Inspección de Generadores de Vapor y Recipientes Sujetados a Presión de la Secretaría de Trabajo y Previsión Social. Deberá existir un servicio de mantenimiento permanente para calderas y chimeneas, aquellas podrán ser inspeccionadas y operadas por personal especializado, según lo establece el Reglamento antes mencionado. Los ductos de vapor y de aire caliente situados en lugares donde tengan acceso personas, deberán instalarse adecuadamente.
+Las instalaciones de vapor y de aire caliente, deberán cumplir con lo especificado en las disposiciones de la Ley General de Salud y en la Ley Federal para Prevenir y Controlar la Contaminación Ambiental. Para la instalación y el funcionamiento de calderas, deberán cumplirse, además con los requisitos contenidos en el Reglamento para la Inspección de Generadores de Vapor y Recipientes Sujetados a Presión de la Secretaría de Trabajo y Previsión Social y las Normas Oficiales Vigentes. Deberá existir un servicio de mantenimiento permanente para calderas y chimeneas, aquellas podrán ser inspeccionadas y operadas por personal especializado, según lo establece el Reglamento antes mencionado. Los ductos de vapor y de aire caliente situados en lugares donde tengan acceso personas, deberán instalarse adecuadamente.
 
-###### ARTÍCULO 449.
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
-Para el funcionamiento de calderas, se tomará en cuenta lo comprendido en el artículo 111 BIS de La Ley General de Equilibrio, debiendo de contar con la licencia de funcionamiento que emite la SEMARNAT de acuerdo al Reglamento de la misma Ley en materia de prevención y control de contaminación de la atmósfera.
+###### ARTICULO 449.
+
+Para el funcionamiento de calderas, se tomará en cuenta lo comprendido en el artículo 111 BIS de La Ley General del Equilibrio Ecológico y la Protección al Ambiente, debiendo de contar con la licencia de funcionamiento que emite la SEMARNAT de acuerdo al Reglamento de la misma Ley en materia de Prevención y Control de la Contaminación de la Atmósfera.
 
 ### CAPITULO LXV.- FACHADAS Y RECUBRIMIENTOS.
 
@@ -3691,91 +3859,187 @@ Los sótanos que colinden con pared medianera, deberán revestirse precisamente 
 
 ### CAPITULO LXVII.- DEFINICIONES.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 465.
 
-Para los efectos de este reglamento se entiende por fraccionamiento conforme a la Ley Estatal respectiva, a la división de un terreno en lotes que requiera el trazo o la construcción de dos o más vías públicas, o la división en lotes de terrenos carentes de urbanización que se ofrezcan de venta al público para la construcción de habitaciones urbanas o para edificaciones comerciales, industriales, almacenes y en zonas no urbanas para la construcción de viviendas rurales o de granjas de explotación agropecuaria. Así también en este Reglamento se asigna las normas aplicables a fraccionamientos, a la división de un terreno en lotes que requiera el trazo o la construcción de una vía Pública.
+Para los efectos de este reglamento se entiende por fraccionamiento conforme a la Ley Estatal respectiva, el desarrollo Inmobiliario que divide un terreno en manzanas o lotes, que requieren el trazo de una o más vías públicas y la realización de obras para su Urbanización y dotación de Infraestructura y Equipamiento Urbano.
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 466.
 
-De acuerdo al Capítulo Segundo de la Ley de Fraccionamientos del Estado de Yucatán, los fraccionamientos, según sus características de uso y de ubicación se clasificarán en los siguientes tipos:
+De acuerdo al Título Segundo, Capítulo I de la Ley de Desarrollos Inmobiliarios del Estado de Yucatán, los Desarrollos Inmobiliarios, se clasificarán en:
 
-I.- HABITACIONES.- Son los fraccionamientos cuyo uso o destino predominante es el de habitación, pudiendo ser:
+I.- Condominios
 
-a).- Residencial.
+II.- División de Lotes y
 
-b).- Residencial medio.
+III.- Fraccionamiento. Los fraccionamientos a su vez se clasifican de la siguiente manera:
 
-c).- Social.
+1.- Habitacionales: cuyo uso de suelo es predominantemente para la construcción de vivienda.
 
-d).- Popular.
+a) Residencial
 
-e).- Residencial Campestre.
+b) Residencial Medio
 
-f).- Agropecuario.
+c) Residencial Campestre
 
-g).- Costero.
+d) Social
 
-II.- INDUSTRIALES.- Que se destinarán exclusivamente a la instalación de todo tipo de industria así como de oficinas y comercios quedando sujetos a los Reglamentos internos de la (sic) ciudades o parques industriales pudiendo ser:
+e) Popular y
 
-a).- Industrial ligero.
+f) Costero
 
-b).- Industrial mediano.
+2.- No habitacionales: Aquellos cuyo uso del suelo es predominantemente para el comercio, servicios, industria o agropecuario.
 
-c).- Industrial pesado.
+g) Industrial Ligero
+
+h) Industrial Mediano y
+
+i) Industrial Pesado.
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 467.
 
 Para los efectos del presente Reglamento se entenderá por:
 
-I.- Densidad bruta.- al resultado de dividir el número de habitantes estimados entre la superficie total del fraccionamiento y como Densidad neta al resultado de dividir el número de habitantes estimados entre la superficie vendible habitable del fraccionamiento.
+I.- Densidad bruta.- Al resultado de dividir el número de habitantes estimados entre la superficie total del fraccionamiento y como Densidad neta al resultado de dividir el número de habitantes estimados entre la superficie vendible habitable del fraccionamiento.
 
-II.- Porcentaje de la construcción de multifamiliares o edificios para oficina.- al porcentaje de la superficie total del fraccionamiento delimitada y restringida para la construcción de edificios habitacionales o para oficinas.
+II.- Porcentaje para la construcción de multifamiliares o edificios para oficina.- Al porcentaje de la superficie total del fraccionamiento delimitada y restringida para la construcción de edificios habitacionales o para oficinas.
 
-III.- Densidad de la construcción.- a la relación entre la superficie de terreno ocupado y la superficie total Y
+III.- Densidad de la construcción.- A la relación entre la superficie de terreno ocupado y la superficie total, y
 
-IV.- Porcentaje de donación al municipio.- al porcentaje de la superficie vendible del terreno que será otorgado al municipio para el equipamiento urbano.
+IV.- Porcentaje de las áreas destino para la Infraestructura, el Equipamiento Urbano y el área verde.- Al porcentaje de la superficie del terreno que será otorgado al municipio para infraestructura, equipamiento urbano y área verde. Y este porcentaje no podrá ser menor al 10% del Área bruta.
 
 ### CAPITULO LXVIII.- TRAMITES PARA LA LICENCIA DE CONSTRUCCIÓN.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 468.
 
-Los fraccionamientos, que para su realización requieran modificar la estructura urbana dos o más vías públicas, su sujetarán para su aprobación a lo establecido por la Ley de Fraccionamientos del Estado de Yucatán y para la obtención de la licencia de construcción y de urbanización a tramitar en la Dirección, deberá exhibir oficio de autorización del fraccionamiento otorgado por el ejecutivo del Estado, un juego del plano del proyecto autorizado y de la escritura pública del área de donación y de las vías públicas a favor del Ayuntamiento. Cuando sea necesario a juicio de la Dirección, deberá de ser anexada también una carta de liberación del INAH y un estudio del Impacto Ambiental de la zona o lugar donde se vaya a realizar la obra.
+Los Fraccionamientos que para su realización requieran modificar la estructura urbana de una o más vías públicas, para la obtención de la Autorización de su constitución, deberán presentar a la Dirección, Dictamen de Factibilidad de dicho desarrollo inmobiliario, otorgado por la Secretaría de Desarrollo Urbano y Medio Ambiente, además de cumplir con la documentación señalada en el artículo 469.
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 469.
 
-Los interesados en la construcción de fraccionamientos que para su realización requiera modificar la estructura urbana adicionado una vía pública, deberán presentar ante la Dirección, una Solicitud por escrito y adjuntar la siguiente documentación:
+Los interesados en la Autorización de un Desarrollo Inmobiliario que para su realización requiera modificar la estructura urbana adicionando una vía pública, deberán adjuntar la documentación señalada en la fracción I de este artículo, los interesados en la urbanización de un desarrollo inmobiliario deberán cumplir con los requisitos señalados en la fracción II de este artículo y los interesados en la construcción de un conjunto de viviendas pertenecientes a un desarrollo inmobiliario, deberán cumplir con los requisitos señalados en la fracción III de este artículo:
 
-I.- Título de propiedad del terreno con los certificados de inscripción vigentes del predio por lotificar y de no adeudar el impuesto predial correspondiente.
+I Requisitos para el trámite de Autorización de un Desarrollo Inmobiliario:
 
-II.- Croquis catastral.
+A.- Solicitud de Autorización del Desarrollo Inmobiliario al titular de la Dirección.
 
-III.- La licencia del uso del suelo vigente.
+B.- Licencia de Uso de Suelo emitida por la Dirección.
 
-IV.- Plano de lotificación, indicando el ancho de las calles y de las banquetas.
+C.- Instrumento público en el que conste la propiedad de los lotes.
 
-V.- Plano de sembrado de vivienda ubicando el alineamiento y la restricción de las esquinas y las áreas de ocupación de los metros construidos respecto al lote.
+D.- Cédulas y croquis catastrales.
 
-VI.- Planos de introducción del agua potable aprobados y sellados por la Junta de Agua Potable de Yucatán o el Sistema Municipal de agua Potable de Umán.
+E.- Copia del pago del impuesto predial del año en curso.
 
-VII.- Plano de Alumbrado Público autorizado por la Secretaría de Desarrollo Urbano y Obras Públicas del Gobierno del Estado y aprobado y sellado por la CFE.
+F.- Acta constitutiva en caso de que el solicitante sea persona moral.
 
-VIII.- Plano de sistema colector de drenaje pluvial aprobado y sellado por la JAPAY o la Dirección.
+G.- Poder notarial del Representante legal, en caso de que el solicitante no sea el propietario.
 
-IX.- Plano de señalización y Nomenclatura de calles, autorizados por la Dirección General de Catastro.
+H.- Información de situación registral del predio emitido por la Dirección del Registro Público de la Propiedad.
 
-X.- Calendario de la Obra.
+I.- Factibilidad de Dotación de agua potable y sistema de tratamiento de aguas residuales emitida por el organismo prestador del servicio en el municipio.
 
-XI.- Presupuesto de la obra.
+J.- Factibilidad de Seguridad y tránsito emitida por la autoridad municipal competente.
 
-XII.- Fianza.
+K.- Factibilidad de Dotación de Servicios Públicos, emitida por la autoridad municipal competente
 
-XIII.- Autorizaciones o contratos para la introducción de los servicios de agua potable y energía eléctrica.
+L.- 8 copias del plano de lotificación, indicando:
 
-XIV.- Escritura a favor del Ayuntamiento del área de donación y vías públicas.
+a) Lotificación propuesta.
 
-XV.- Cuando la zona a fraccionar cuente con alguna edificación de carácter histórico y/o vestigio prehispánico, se requerirá de una carta de liberación del INAH.
+b) Cuadro de Áreas: superficie total, número, dimensiones y superficie de todos los lotes, superficies de Destino, superficie vendible, para Equipamiento e Infraestructura Urbana, enajenación a título gratuito y Áreas verdes.
 
-XVI.- Estudio de Impacto ambiental.
+c) Vialidades y banquetas, indicando sentido del tránsito, así como secciones de las diferentes vías.
+
+d) Detalle de chaflanes, y
+
+e) Tabla de porcentajes, lotes y superficies de los usos del suelo.
+
+M.- Plano de interconexión vial con la traza urbana.
+
+N.- Archivo digital georeferenciado del proyecto de desarrollo inmobiliario.
+
+O.- Plano Topográfico en el cual estén establecidas las coordenadas del predio así como el cuadro de construcción y Área total del o los predios con su archivo digital.
+
+P.- Factibilidad Urbano Ambiental emitida por la Secretaría de Desarrollo Urbano y Medio Ambiente.
+
+Q.- La resolución en materia de impacto ambiental, o el documento que determine la Factibilidad Urbana Ambiental emitido por SEDUMA o SEMARNAT en el ámbito de sus competencias.
+
+R.- En caso de existir área de patrimonio arqueológico se deberá presentar el plano de ubicación de esta, acompañados del dictamen respectivo del INAH; o carta de liberación del INAH para los casos donde no se requiere salvamento.
+
+S.- Factibilidad de Energía Eléctrica emitida por la Comisión Federal de Electricidad.
+
+II.- Requisitos para el trámite de Urbanización de un Desarrollo Inmobiliario:
+
+A.- Copia de la Autorización del Desarrollo Inmobiliario.
+
+B.- Copia del Plano de Lotificación Autorizado.
+
+C.- Plano del Proyecto de Drenaje Pluvial, aprobado por la Dirección responsable de este servicio en el Municipio, con oficio de aprobación.
+
+D.- Plano del Proyecto de Alumbrado Público, aprobado por la Dirección responsable de este servicio en el Municipio, con oficio de aprobación.
+
+E.- Plano del Proyecto de Vialidades, guarniciones, banquetas y ciclo vías en su caso, aprobado por la Dirección responsable de este servicio en el Municipio, con oficio de aprobación.
+
+F.- Plano del Proyecto de Nomenclatura y Señalamientos, aprobado por la Dirección responsable de este servicio en el Municipio, con oficio de aprobación.
+
+G.- En los casos en que se considere un sistema de voz y datos, se debe incluir un Plano del Proyecto, aprobado por la entidad responsable del servicio en el Municipio, con oficio de aprobación.
+
+H.- Plano del Proyecto de elementos urbanos, donde se incluye la ubicación de postes de alumbrado, nomenclatura, rampas, dispositivos de voz y datos y drenajes para verificar su correcta disposición.
+
+I.- Presupuestos de las obras de urbanización aprobadas (drenaje pluvial, alumbrado público, vialidades, guarniciones y banquetas, nomenclatura y señalamientos, sistema de voz y datos en su caso).
+
+J.- Comprobante de registro ante la autoridad catastral correspondiente de las áreas de destino
+
+K.- Comprobante del inicio del proceso de enajenación de las áreas de destino emitido por la autoridad municipal correspondiente.
+
+L.- Copia del Proyecto Autorizado por la Dependencia responsable de la red de agua potable y sistema de tratamiento de aguas residuales y oficio de aprobación.
+
+M.- Copia del Proyecto Autorizado por la Comisión Federal de Electricidad de la red de distribución de energía eléctrica y alumbrado público y oficio de aprobación.
+
+N.- Fianza de Garantía de las obras de urbanización a favor del Ayuntamiento de Umán.
+
+O.- Formato requisitado de solicitud, establecido por la Dirección, indicando las aprobaciones de los proyectos y presupuestos de urbanización.
+
+P.- Programa de Obras de urbanización (considerando como mínimo: el sistema de agua potable; la red de distribución de energía eléctrica y alumbrado público; la vialidad, guarniciones, banquetas y ciclovías en su caso; el sistema recolector de aguas pluviales y sistema de tratamiento de aguas negras y la nomenclatura de calles y lotes).
+
+Q.- En caso de Licencia de urbanización en vía pública no será necesario cumplir con las fracciones J y K de este artículo.
+
+III Requisitos para el trámite de construcción de un conjunto de viviendas de un Desarrollo Inmobiliario:
+
+A.- Copia del testimonio de la escritura pública de propiedad del predio o inmueble, o documento que compruebe la legítima posesión.
+
+B.- Copia de la cédula y croquis Catastral, o podrá sustituirse por el plano de división con folios catastrales y numeración oficial autorizado por la Dirección de Catastro Municipal.
+
+C.- Listado de los predios solicitados en el formato que la Dirección determine.
+
+D.- Copia del pago del impuesto predial del año en curso.
+
+E.- Copia de la Autorización del Desarrollo Inmobiliario.
+
+F.- 5 copias legibles y claras del proyecto, con cuadro de referencia incluyendo datos del propietario, ubicación de la obra; nombre, firma y cédula del arquitecto, ingeniero o urbanista, cuyo contenido sea:
+
+a) Planta de localización, ubicando el terreno en la zona con un radio de 250.00 m.
+
+b) Planta de conjunto acotada, señalando la ubicación de la construcción en el terreno, así como las pendientes y descargas pluviales.
+
+c) Planta(s) arquitectónica(s) en escalas 1:50, 1:75, 1:100 o 1:125, debidamente acotadas y referenciadas a ejes, indicando los nombres de cada espacio.
+
+d) Fachadas o elevaciones con vista a la vía pública o privada en escalas 1:50, 1:75, 1:100 o 1:125 debidamente acotadas.
+
+e) 2 cortes representativos que contengan en alguno de ellos, secciones de baño(s) y escalera(s) en escalas 1:50, 1:75, 1:100 o 1:125 debidamente acotados y con referencias de niveles.
+
+f) Ubicación del sistema de tratamiento de aguas residuales aprobado y sistema de almacenamiento de agua.
+
+G.- Comprobante de inicio del trámite de la licencia de urbanización, en el que se contenga el formato de entrada y pago del derecho correspondiente.
 
 ###### ARTICULO 470.
 
@@ -3797,101 +4061,161 @@ VII.- Plano de vivienda tipo(s).
 
 VIII.- Plano donde se indique, a nivel conjunto, la ubicación de las facilidades urbanísticas adecuadas a las necesidades de las personas con discapacidad.
 
-###### ARTÍCULO 471.
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
+###### ARTICULO 471.
 
 Para los efectos de este Reglamento se entiende por:
 
-I.- AVENIDA.- a la calle primaria de mínimo dos carriles por sentido vehicular, dividida por camellón.
+I.- AVENIDA PRIMARIA.- a la calle primaria de mínimo dos carriles por sentido vehicular, dividida por camellón. Los cajones de estacionamiento en cordón sobre Avenida primaria tendrán un ancho mínimo de 2.50 m y los carriles de circulación, de 3.00 m mínimo.
 
-II.- VIALIDAD PRIMARIA.- A la vía pública que conduce de un punto a otro con destino especifico.
+II.- VIALIDAD PRIMARIA, DE DOBLE CIRCULACIÓN O UNIDIRECCIONAL.- A la vía pública que conduce de un punto a otro con destino específico. Los cajones de estacionamiento en cordón sobre esta vialidad primaria tendrán un ancho mínimo de 2.50 m y los carriles de circulación, de 3.00 m mínimo.
 
-III.- VIALIDAD SECUNDARIA.- A la vía que une dos vialidades primarias o una primaria con una terciaria. La zona de influencia de estas dos vialidades, serán aquellas comprendidas entre el eje de las calles paralelas inmediatas.
+III.- VIALIDAD SECUNDARIA CON O SIN CAMELLÓN.- A la vía que une dos vialidades primarias o una primaria con una terciaria. La zona de influencia de estas dos vialidades, serán aquellas comprendidas entre el eje de las calles paralelas inmediatas. Los cajones de estacionamiento en cordón sobre estas calles secundarias tendrán un ancho mínimo de 2.00 m y los carriles de circulación, de 3.00 m mínimo.
 
-IV.- VIALIDAD TERCIARIA O LOCAL.- A la que está destinada a dar acceso a los lotes interiores de los fraccionamientos y a comunicar entre sí a las calles secundarias. Estas vías de comunicación vehicular o peatonal deberán cumplir con los requerimientos de la siguiente tabla:
+IV.- VIALIDAD TERCIARIA O LOCAL.- A la que está destinada a dar acceso a los lotes interiores de los fraccionamientos y a comunicar entre sí a las calles secundarias. Los cajones de estacionamiento en cordón sobre estas calles terciarias tendrán un ancho mínimo de 2.00 m, hacia ambos paramentos y un carril de circulación, de 3.00 m mínimo.
 
-DIMENSIONES MÍNIMAS ACEPTABLES
+Estas vías de comunicación vehicular o peatonal deberán cumplir con los requerimientos de la siguiente tabla:
 
-VIALIDAD VELOCIDAD ARROYO BANQUETAS CAMELLON
+Estas vías de comunicación vehicular o peatonal deberán cumplir con los requerimientos de la siguiente tabla: (sic)
 
-MAXIMA DE EN M. CIRC.
+VELOCIDAD
 
-CIRCULACION EN M.
+VIALIDAD MAXIMA DE ARROYO BANQUETAS CAMELLÓN
 
-EN KM/H.
+CIRCULACIÓN EN m EN m EN m
 
-AVENIDA 60 19.00 2.50 2.00 M.
+EN km/hr
 
-PRIMARIA 50 13.50 2.50 Doble o de
+Avenida 60 17.00 2.50 2.00
 
-un sentido
+Primaria
 
-Secundaria 40 10.50 1.50 Doble o de
+Vialidad 50 11.00 2.50 Sin
 
-un sentido
+Primaria de camellón
 
-Terciaria 30 7.50 1.50 Un sentido
+doble
 
-Cerrado 20 7.50 1.50 Doble sentido
+circulación
 
-Andador peatonal 6.50 Doble sentido
+Vialidad 50 11.00 2.50 Sin
+
+Primaria camellón
+
+Unidireccional
+
+Vialidad 40 10.00 1.50 2.00
+
+Secundaria con
+
+camellón
+
+Vialidad 40 10.00 1.50 Sin
+
+Secundaria, sin camellón
+
+camellón
+
+Vialidad 30 7.00 1.50 Sin
+
+Terciaria de un camellón
+
+sentido de
+
+circulación
+
+Vialidad 20 7.50 1.50 Sin
+
+Terciaria camellón
+
+Cerrada de dos
+
+sentidos de
+
+circulación
+
+Andador peatonal 6.50 Sin
+
+Peatonal camellón
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 472.
 
 Para los efectos de este Reglamento se entiende por infraestructura a las instalaciones para los servicios o previsión de los mismos con las que contarán los fraccionamientos, según su clasificación debiendo considerar las siguientes especificaciones generales:
 
-I.- Postes de la Comisión Federal de Electricidad, ubicados en los costados de aceras Norte y Poniente. Los postes que carguen transformadores, deberán contar con sistemas de pararrayos.
+I.- Postes de la Comisión Federal de Electricidad, ubicados en los costados de aceras Norte y Poniente. Los postes que carguen transformadores, deberán contar con sistema de pararrayos.
 
 II.- Postes de Teléfonos de México ubicados en los costados Sur y Oriente.
 
-III.- Excavación de zanjas de absorción en cruces de vialidades con longitud de 5.00 mts.
+III.- Excavación de zanjas de absorción en cruces de vialidades con longitud de 2.00 mts.
 
-IV.- Abastecimiento para la Red de Agua potable será con una tubería mínima de 6”, autorizado un ramaleo de 4”, con un mínimo aceptable de 1 1/2”.
+IV.- Abastecimiento para la Red de Agua Potable será con una tubería mínima de 6”, autorizando un ramaleo de 4”, con un mínimo aceptable de 1 ½”
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 473.
 
-Para los diferentes tipos de fraccionamientos, se atenderá a los requerimientos mínimos de diseño que se especifican en la Ley de Fraccionamientos del Estado de Yucatán.
+Para los diferentes tipos de Desarrollos Inmobiliarios y fraccionamientos, se atenderá a los requerimientos mínimos de diseño que se especifican en la Ley de Desarrollos Inmobiliarios del Estado de Yucatán y su Reglamento.
 
 ### CAPITULO LXIX.- OBLIGACIONES DEL FRACCIONADOR.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 474.
 
-El fraccionador, para garantizar la calidad de las obras de infraestructura, jardinería y arbolado, de los hidratantes y mobiliario urbano, en zonas y en vías públicas, y de las demás obligaciones, deberá depositar una fianza equivalente al 10% del costo del fraccionamiento, expedida por una compañía afianzadora reconocida por la Comisión Bancaria y de Seguros, cumplir con la documentación relacionada en el capítulo LXVIII denominada Trámites para la licencia de construcción de este Reglamento y cubrir el pago de los derechos previstos en los aranceles vigentes.
+El Desarrollador Inmobiliario, para garantizar la calidad de las obras de infraestructura, jardinería y arbolado, de los hidratantes y mobiliario urbano, en zonas y en vías públicas, y de las demás obligaciones, deberá depositar una fianza equivalente al 30% del costo de las obras de urbanización, expedida por una compañía afianzadora reconocida por la Comisión Nacional de Seguros y Fianzas, cumplir con la documentación relacionada en el capítulo LXVIII denominada Trámites para la Licencia de Construcción de este Reglamento y cubrir el pago de los derechos previstos en los aranceles vigentes.
 
-La Dirección hará efectiva dicha fianza cuando el fraccionador no cumpla con lo dispuesto en el Reglamento o con la autorizada por ésta.
+La Dirección hará efectiva dicha fianza cuando el Desarrollador inmobiliario no cumpla con lo dispuesto en el Reglamento o con lo autorizada por ésta.
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 475.
 
-Es obligación del fraccionador observar y prever en las obras de infraestructura, las facilidades urbanísticas adecuadas a las necesidades de las personas con discapacidad a fin de facilitarles a éstas el tránsito.
+Es obligación del Desarrollador Inmobiliario observar y prever en las obras de infraestructura, las facilidades urbanísticas adecuadas a las necesidades de las personas con discapacidad o de edad avanzada a fin de facilitarles a éstas el tránsito.
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 476.
 
-El fraccionador deberá proporcionar de hidrantes a cualquier tipo de fraccionamiento, quedando únicamente excluido, el fraccionamiento de tipo agropecuario. Dichos hidrantes estarán en función a lo que establece el cuerpo de bomberos. En caso de no contar con normatividad establecida al respecto, y con objeto de vigilar por la seguridad de los ciudadanos los hidratantes estarán en función a lo que establece la Dirección de Siniestros de la Secretaría de Protección y Vialidad del Gobierno del Estado.
+El Desarrollador Inmobiliario deberá proporcionar de hidrantes a cualquier tipo de Desarrollo Inmobiliario, quedando únicamente excluido, el Desarrollo Inmobiliario No Habitacional de uso agropecuario. Dichos hidrantes estarán en función a lo que establece el cuerpo de bomberos. En caso de no contar con normatividad establecida al respecto, y con objeto de vigilar por la seguridad de los ciudadanos, los hidrantes estarán en función a lo que establece la Dirección de Siniestros y Rescates de la Secretaría de Seguridad Publica del Gobierno del Estado.
 
-###### ARTÍCULO 477.
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
-Estará a cargo del fraccionador el pago del mantenimiento en todas las obras relacionadas en la primera parte del artículo 474, en tanto el fraccionamiento no sea recepcionado por el Ayuntamiento.
+###### ARTICULO 477.
+
+Estará a cargo del Desarrollador Inmobiliario el pago del mantenimiento en todas las obras relacionadas en la primera parte del artículo 474, en tanto el fraccionamiento no sea recepcionado por el Ayuntamiento.
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 478.
 
-Para los efectos de este Reglamento, Áreas de Donación son las superficies de un terreno que se entrega a la autoridad municipal para la construcción del equipamiento urbano y se calcula en relación con la superficie vendible, y que deberá de ser inscrito en el Registro Público de la Propiedad del Estado, a nombre del Municipio de Umán.
+Para los efectos de este Reglamento, las Áreas DESTINO, son las superficies disponibles en los desarrollos inmobiliarios para la infraestructura, equipamiento y áreas verdes, previstas para edificar los espacios que requieren las autoridades federales, estatales o municipales para prestar los servicios públicos urbanos a los habitantes y se calcula en relación con el área bruta del desarrollo inmobiliario, y que deberán de ser inscritas en el Registro Público de la Propiedad del Estado, a nombre del Municipio de Umán.
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 479.
 
-El fraccionador, tendrá la obligación de ceder a título de donación al Municipio las superficies que se destinarán exclusivamente para equipamiento urbano, como parques, mercados, escuelas, delegación de policía, edificios destinados al culto, al esparcimiento y recreación, y otras construcciones destinadas a servicios públicos.
+El Desarrollador Inmobiliario, tendrá la obligación de enajenar a título gratuito al municipio las Áreas Destino aprobadas, que se utilizarán exclusivamente para Equipamiento Urbano de carácter público, como parques, mercados, escuelas, delegación de policía, edificios destinados al esparcimiento y recreación, y otras construcciones destinadas a prestar servicios públicos urbanos.
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 480.
 
-Será obligatorio para el fraccionador, antes de iniciar las obras de urbanización, cumplir con lo siguiente:
+Será obligatorio para el Desarrollador Inmobiliario, antes de iniciar las obras de urbanización, cumplir con lo siguiente:
 
-I.- Cubrir el pago de los derechos establecidos en la Ley General de Hacienda del Estado.
+I.- Cubrir el pago de los derechos establecidos en la Ley de Hacienda Municipal vigente.
 
-II.- Comparecer conjuntamente con los representantes legales del Ayuntamiento ante el Notario para la escrituración de las áreas de donación y de las vías Públicas a que se refiere este Reglamento, siendo a costa exclusivamente del fraccionador el otorgamiento de la escritura pública.
+II.- Comparecer conjuntamente con los representantes legales del Ayuntamiento ante el Notario para la escrituración de las Áreas Destino y de las vías Públicas a que se refiere este Reglamento, siendo a costa exclusivamente del Desarrollador Inmobiliario el otorgamiento de la escritura pública.
 
 III.- Coordinarse con la Dirección para que sean realizadas las inspecciones de las obras durante su ejecución.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 481.
 
-Será facultad del Ayuntamiento aceptar las propuestas del fraccionador o localizar y señalar los terrenos que deban ser donados en los términos del artículo 479 de este Reglamento, al hacer selección deberán señalar a aquellos que mejor satisfagan las necesidades de los usuarios, para la cual se preferirán las áreas céntricas, a fin de que queden equidistantes de todos los lotes. En el terreno que tenga un área demasiado grande o consta de varias secciones se proporcionará el reparto equitativo de las áreas de donación para la mejor distribución de los servicios que deban establecerse en ellas.
+Será facultad del Ayuntamiento aceptar las propuestas del Desarrollador Inmobiliario o localizar y señalar los terrenos que deban ser enajenados en los términos del artículo 479 de este Reglamento; al hacer la selección deberán señalar a aquellos que mejor satisfagan las necesidades de los usuarios, para la cual se preferirán las áreas céntricas, a fin de que queden equidistantes de todos los lotes. En el terreno que tenga un área demasiado grande o conste de varias secciones se proporcionará el reparto equitativo de las Áreas de Destino para la mejor distribución de los servicios que deban establecerse en ellas.
 
 ### CAPITULO LXX.- DE LA EJECUCIÓN DE LAS OBRAS.
 
@@ -3899,59 +4223,67 @@ Será facultad del Ayuntamiento aceptar las propuestas del fraccionador o locali
 
 La Dirección tendrá en todo tiempo la facultad de designar a los inspectores que vigilen el desarrollo de las obras y se cercioren de que se cumplan las especificaciones del proyecto definitivo del fraccionamiento.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 483.
 
-Cuando existan razones técnicas fundadas para modificar el proyecto o las especificaciones deberá el fraccionador proponer a la Dirección tales modificaciones la cual resolverá de acuerdo al Reglamento y a la demás normatividad.
+Cuando existan razones técnicas fundadas para modificar el proyecto o las especificaciones deberá el Desarrollador Inmobiliario proponer a la Dirección tales modificaciones la cual resolverá de acuerdo al Reglamento y a la demás normatividad.
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 484.
 
-Cuando el fraccionador iniciare las obras del fraccionamiento sin que estuvieran satisfechos los requisitos que el Reglamento establece o las ejecutare en contravención a la misma, el Ayuntamiento ordenará:
+Cuando el Desarrollador Inmobiliario iniciare las obras del Desarrollo Inmobiliario sin que estuvieran satisfechos los requisitos que el Reglamento establece o las ejecutare en contravención a la misma, el Ayuntamiento ordenará:
 
 I.- La suspensión inmediata de las obras que estuviesen ejecutando y en su caso la demolición de las mismas.
 
 II.- Advertirá al público empleando los medios publicitarios que consideren más eficientes sobre la ilicitud de las actividades realizadas. Cobrará a los infractores el importe que hubiera erogado para demoler las obras indebidas y los de la publicidad, independientemente de las multas y sanciones a las que se haga acreedor.
 
-III.- En el caso de que no estuviesen cubiertas las obligaciones fiscales a cargo del fraccionador previstas en la Ley de Fraccionamientos del Estado de Yucatán u otras disposiciones legales aplicables se procederá a su cobro.
+III.- En el caso de que no estuviesen cubiertas las obligaciones fiscales a cargo del Desarrollador Inmobiliario previstas en el Reglamento de la Ley de Desarrollo Inmobiliarios del Estado de Yucatán u otras disposiciones legales aplicables se procederá a su cobro.
 
-IV.- También suspenderá las obras cuando carezcan de la licencia de construcción del fraccionamiento o de las obras ejecutadas, o si éstas no se ajusten a los términos o especificaciones aprobadas en la licencia.
+IV.- También suspenderá las obras cuando carezcan de la Licencia de Construcción del Desarrollo Inmobiliario o de las obras ejecutadas, o si éstas no se ajustan a los términos o especificaciones aprobadas en la licencia
+
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 485.
 
-La Dirección hará efectiva la fianza a que se refiere el artículo 474 de este Reglamento para realizar las obras necesarias de reparación o lograr el cumplimiento de las obligaciones a cargo del fraccionador, siempre que éste no cumpla con los señalamientos de la Dirección, en el plazo que se fije.
+La Dirección hará efectiva la fianza a que se refiere el artículo 474 de este Reglamento para realizar las obras necesarias de reparación o lograr el cumplimiento de las obligaciones a cargo del Desarrollador Inmobiliario, siempre que éste no cumpla con los señalamientos de la Dirección, en el plazo que se fije.
 
 ### CAPITULO LXXI.- ENTREGA, RECEPCION Y MUNICIPALIZACION DEL FRACCIONAMIENTO.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 486.
 
-Una vez concluidas las obras objeto de la autorización y contando como mínimo con el 70% de ocupación de las viviendas en fraccionamientos habitacionales, el fraccionador podrá solicitar por escrito la recepción del fraccionamiento anexado tres copias de la documentación siguiente.
+Una vez concluidas las obras objeto de la autorización y contando como mínimo con el 70% de ocupación de las viviendas en fraccionamientos habitacionales, el Desarrollador Inmobiliario podrá solicitar por escrito la recepción del fraccionamiento anexando tres copias de la documentación siguiente.
 
-I.- Oficio de autorización del Gobierno del Estado.
+I.- Oficio de Autorización del Desarrollo Inmobiliario, emitido por la Dirección.
 
 II.- Licencias y recibos correspondientes a la Urbanización
 
-III.- Juegos de los siguientes planos aprobados:
+III.- Juegos de los siguientes planos aprobados y documentos:
 
-a) Lotificación. (Si es una etapa la que se solicita recepcionar, indicar la ubicación y cuadro de áreas).
+a) Lotificación. (Si es una etapa la que se solicita recepcionar, indicar la ubicación y cuadro de áreas)
 
-b) Plano sellado y Constancia de recepción y entrega del Drenaje Pluvial a la Dirección.
+b) Plano sellado y Constancia de recepción y entrega del Drenaje Pluvial a la Dirección
 
-c) Plano sellado y Constancia de recepción y entrega del Alumbrado público a la Dirección de Imagen Municipal y aseo Urbano.
+c) Plano sellado y Constancia de recepción y entrega del Alumbrado público, emitida por la Dirección responsable del servicio en el Municipio.
 
-IV.- Testimonios de la escritura pública del área de donación a favor del Ayuntamiento constitucional del Municipio de Umán.
+IV.-Testimonios de la escritura pública del área de Destino en favor del Ayuntamiento constitucional del Municipio de Umán.
 
-V.- Actas de recepción de las redes de agua potable y energía eléctrica y drenaje expedida por las dependencias respectivas.
+V.- Actas de recepción de las redes de agua potable, drenaje sanitario y energía eléctrica, expedidas por las dependencias respectivas, responsables de esos servicios.
 
-VI.- Constancia de recepción de las fosas sépticas por parte de la Dirección.
+VI.- Constancia de terminación de obra de las fosas sépticas, en su caso, emitida la Dirección.
 
-VII.- Solicitud por escrito dirigida al Director de Desarrollo Urbano, y
+VII.- Solicitud por escrito dirigida al Director de Desarrollo Urbano,
 
-VIII.- Constancia de terminación de obra expedida por la Dirección.
+VIII.- Constancia de terminación de obra expedida por la Dirección. Y demás documentos que señale el Reglamento de la Ley de Desarrollos Inmobiliarios del Estado de Yucatán.
 
-Una vez integrado el expediente completo, La Dirección realizará, conjuntamente con el fraccionador, una visita para conocer el estado que guardan las obras y así poder emitir su opinión en un plazo no mayor de 30 días la que podrá ser:
+Una vez integrado el expediente completo, La Dirección realizará, conjuntamente con el Desarrollador Inmobiliario, una visita para conocer el estado que guardan las obras y así poder emitir su opinión en un plazo no mayor de 30 días la que podrá ser:
 
-a).- Favorable: en este caso el Ayuntamiento procederá a elaborar el acta respectiva en un plazo no mayor de quince días hábiles, acta que contendrá la clasificación del fraccionamiento, el número de lotes que lo integran, la etapa o etapas que se reciben, la localización, dimensiones y estado de conservación de las superficies de donación, así como su número de inscripción en el Registro Público de la Propiedad, y las especificaciones e inventario de los elementos que integran el fraccionamiento y,
+a).- Favorable: en este caso el Ayuntamiento procederá a elaborar el acta respectiva en un plazo no mayor de quince días hábiles, acta que contendrá la clasificación del fraccionamiento, el número de lotes que lo integran, la etapa o etapas que se reciben, la localización, dimensiones y estado de conservación de las superficies de Destino, así como su número de inscripción en el Registro Público de la Propiedad, y las especificaciones e inventario de los elementos que integran el fraccionamiento o,
 
-b).- No favorable: en este caso, La Dirección señalará por escrito las correcciones necesarias de acuerdo a este Reglamento, fijándole al fraccionador un plazo máximo de sesenta días para realizar los trabajos indicados; al concluir éstos, lo comunicará por escrito para realizar una nueva visita. En tanto no se formalice el acta de recepción, el mantenimiento de las obras y servicios públicos así como de los pagos que estos generen, correrán por cuenta del fraccionador.
+b).- No favorable: en este caso, La Dirección señalará por escrito las correcciones necesarias de acuerdo a este Reglamento, fijándole al Desarrollador Inmobiliario un plazo máximo de sesenta días para realizar los trabajos indicados; al concluir éstos, lo comunicará por escrito para realizar una nueva visita. En tanto no se formalice el acta de recepción, el mantenimiento de las obras y servicios públicos así como de los pagos que estos generen, correrán por cuenta del Desarrollador Inmobiliario.
 
 ###### ARTICULO 487.
 
@@ -3985,11 +4317,13 @@ En caso de violación de alguna o algunas de las especificaciones o indicaciones
 
 De llevarse a cabo las obras de construcción, la remodelación o demolición de un edificio clasificado sin la autorización correspondiente, La Dirección ordenará al propietario del inmueble, que realice los trabajos necesarios para dejar el edificio en cuestión, con las mismas características que tenía antes de efectuar los trabajos en un plazo que dictaminará la propia Dirección. Si transcurrido el plazo, los trabajos ordenados no se han realizado, La Dirección, procederá de igual manera que en el artículo anterior.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 494.
 
-Los propietarios de bienes inmuebles clasificados, tendrán la obligación de conservarlos en buen estado y en su caso restaurarlos, debiendo, previamente obtener de la Dirección, la autorización correspondiente, misma que deberá ser compatible con la que autorice el INAH, solicitando la exención de paga de la licencia de construcción, de acuerdo a lo establecido en la Ley Federal de Monumentos.
+Los propietarios de bienes inmuebles clasificados, tendrán la obligación de conservarlos en buen estado y en su caso restaurarlos, debiendo, previamente obtener de la Dirección, la autorización correspondiente, misma que deberá ser compatible con la que autorice el INAH, solicitando la exención de paga de la licencia de construcción, de acuerdo a lo establecido en la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
 
-Las mismas obligaciones tendrán los propietarios colindantes con inmuebles clasificados que pretendan realizar obras que puedan afectar a dichos inmuebles, de acuerdo con lo señalado en el artículo 11 de la Ley Federal sobre Monumentos y Zonas arqueológicas, Artísticas e Historia.
+Las mismas obligaciones tendrán los propietarios colindantes con inmuebles clasificados que pretendan realizar obras que puedan afectar a dichos inmuebles, de acuerdo con lo señalado en el artículo 11 de, la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
 
 ###### ARTÍCULO 495.
 
@@ -4061,13 +4395,17 @@ Las edificaciones con techumbre de paja, huano y/o zacate destinadas a centro de
 
 ### CAPITULO LXXV.- MATERIALES EXPLOSIVOS.
 
-###### ARTÍCULO 511.
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
-El almacenamiento de materiales explosivos, podrá efectuarse de dos maneras: una, la de los materiales que por sí solos ofrecen peligro inminente y la otra, la de aquellos que no lo ofrecen y que pueden ser utilizados por las industrias localizadas dentro de la ciudad. El almacenamiento de los primeros, se regirá por las disposiciones del Reglamento de la Secretaría de la Defensa Nacional y en la ley Federal de Armas de Fuego y Explosivos.
+###### ARTICULO 511.
 
-###### ARTÍCULO 512.
+El almacenamiento de materiales explosivos, podrá efectuarse de dos maneras: una, la de los materiales que por sí solos ofrecen peligro inminente y la otra, la de aquellos que no lo ofrecen y que pueden ser utilizados por las industrias localizadas dentro de la ciudad. El almacenamiento de los primeros, se regirá por las disposiciones de la Ley Federal de Armas de Fuego y Explosivos vigente de la Secretaría de Defensa Nacional y normas oficiales correspondientes vigentes.
 
-El almacenamiento de los materiales explosivos que no ofrecen por sí solos peligros inminentes, deberá hacerse en locales fuera de las instalaciones de la fábrica, a distancia no menor de 15.00 m. de la vía pública. Las construcciones y demás características deberán apegarse a las disposiciones establecidas en el Reglamento de la Secretaría de la Defensa Nacional y en la Ley Federal de Armas de Fuego y Explosivos.
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
+###### ARTICULO 512.
+
+El almacenamiento de los materiales explosivos que no ofrecen por sí solos peligros inminentes, deberá hacerse en locales fuera de las instalaciones de la fábrica, a distancia no menor de 15.00 m. de la vía pública. Las construcciones y demás características deberán apegarse a las disposiciones establecidas en la Ley Federal de Armas de Fuego y Explosivos vigente de la Secretaría de Defensa Nacional y normas oficiales correspondientes vigentes.
 
 ### CAPITULO LXXVI.- EDIFICIOS PELIGROSOS Y RUINOSOS.
 
@@ -4129,13 +4467,15 @@ Se entiende por iluminación de emergencia, a aquellas independiente y autónoma
 
 Los equipos y sistemas deberán mantenerse en óptimas condiciones para funcionar en cualquier momento, para lo cual deberán ser revisados y probados periódicamente en acuerdo con el cuerpo de bomberos, revalidando anualmente el visto bueno de la Dirección auxiliada por el cuerpo de bomberos.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 524.
 
 Para los fines del presente Capítulo se hará la siguiente clasificación de edificaciones:
 
-I.- Habitación, comercio, oficinas y baños públicos.
+I.- Habitación Multifamiliar, comercio, oficinas y baños públicos (de menos de 500 m2).
 
-II.- Hospitales, industrias, salas de espectáculos, centros de reunión abiertos y cerrados, terminales de transporte, edificios para la educación, hoteles, bodegas y estacionamientos abiertos o cerrados.
+II.- Hospitales, comercios, industrias, salas de espectáculos, centros de reunión abiertos y cerrados, terminales de transporte, edificios para la educación, hoteles, bodegas y estacionamientos abiertos o cerrados.
 
 III.- Gasolineras, estaciones de servicios, depósitos para explosivos, depósitos de materiales inflamables y laboratorios.
 
@@ -4161,21 +4501,25 @@ e).- Las mangueras deberán ser de 38 mm. de diámetro, de material sintético c
 
 f).- Deberán contar además con dispositivos de seguridad como puertas de emergencia, señalamientos y sistemas de alarma según lo especificado en los artículos 518, 519 y 520.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 526.
 
 Para las edificaciones comprendidas en la fracción II del artículo 524 de este capítulo, deberán contar con los siguientes dispositivos:
 
-I.- Las edificaciones menores de 12 metros de altura sobre el nivel de la banqueta o menores de 1,000 m2 construidos, contarán con los mismos dispositivos señalados en el artículo anterior con la siguiente modificación:
+I.- Las edificaciones menores de 12 metros de altura sobre el nivel de la banqueta o menores de 1000 m2 construidos, contarán con los mismos dispositivos señalados en el artículo anterior con la siguiente modificación:
 
-a).- Los extintores deberán ser un almacenamiento de 1 kg. P.Q.S. a, b, c, por cada 15 m2 útiles.
+a).- Los extintores deberán ser con un almacenamiento de 1 kg. P.Q.S. a, b, c, por cada 15 m2 útiles.
 
 II.- Los edificios con una altura mayor de 12 metros sobre el nivel de la banqueta o superficie construida mayor de 1,000 m2 deberán contar con los mismos dispositivos señalados en el artículo anterior con las modificaciones siguientes:
 
-a).- Los tanques o cisternas para almacenar agua serán en proporción de 20 lts/m2 construido, 10,000 litros como mínimo a excepción de los hoteles que deberán tener una capacidad de 40 lts/m2 construido y 20,000 lts como mínimo.
+a).- Los tanques o cisternas para almacenar agua serán en proporción de 20 lts/m2 construído, 10,000 litros como mínimo a excepción de los hoteles que deberán tener una capacidad de 40 lts/m2 construído y 20,000 lts. como mínimo.
 
 b).- Contarán además con dos bombas automáticas, una eléctrica independiente en suministro de energía a la red del edificio y otra con motor de combustión interna mínima, con capacidad de 20 lts de combustible, exclusivamente para surtir con la presión necesaria al sistema de mangueras contra incendios.
 
-c).- Para el caso de los estacionamientos abiertos o cerrados, deberán contar con los mismos dispositivos de seguridad que lo señalado en el artículo para edificios con una altura de hasta 12 m.
+c).- Para el caso de los estacionamientos abiertos o cerrados, deberán contar con los mismos dispositivos de seguridad que lo señalado en el artículo para edificios con una altura menor de 12m.
+
+d).- Deberán contar además con dispositivos de seguridad como puertas de emergencia, señalamientos, luces de emergencia y sistemas de alarma según lo especificado en los artículos 518, 519, 520 y 522.
 
 ###### ARTICULO 527.
 
@@ -4429,23 +4773,23 @@ Los anuncios denominados anuncios denominativos, son aquellos que solo contengan
 
 Los anuncios denominados anuncios de propaganda, son aquellos que se refieren a marcas, productos, eventos, servicios y actividades análogas para promover su venta, uso, consumo y los de carácter civil, religiosos, políticos o electoral.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 554.
 
-Los anuncios que se utilicen para propaganda electoral, se sujetarán también a la Ley Electoral correspondiente y a las siguientes disposiciones:
+Los anuncios que se utilicen para propaganda electoral, se sujetarán también a la Ley Electoral correspondiente vigente y a las siguientes disposiciones:
 
 I) Los partidos políticos tendrán 30 días a partir de la fecha de la elección que corresponda para el retiro de su propaganda.
 
-II) Podrán colocarse bastidores y mamparas en el equipamiento urbano, siempre que no lo dañen, dificulte la visibilidad de conductores o impida la circulación de peatones.
+II) Podrán colgarse o fijarse en inmuebles de propiedad privada, siempre que medie permiso escrito del propietario.
 
-III) Podrá colgarse o fijarse en inmuebles de propiedad privada, siempre que medie permiso escrito del propietario.
+III) Podrán colgarse o fijarse en los lugares de uso común que determinen los consejos distritales y municipales previo acuerdo con las autoridades correspondientes.
 
-IV) Podrá colgarse o fijarse en los lugares de uso común que determinen los consejos distritales y municipales previo cuerdo (sic) con las autoridades correspondientes.
+IV) No podrán fijarse o pintarse en elementos del equipamiento urbano, carretero o ferroviario, cualquiera que sea su régimen jurídico.
 
-V) No podrán fijarse o pintarse en elementos del equipamiento urbano, carretero o ferroviario, cualquiera que sea su régimen jurídico.
+V) No podrán colgarse, fijarse o pintarse en monumentos ni en el exterior de edificios públicos.
 
-VI) No podrá colgarse, fijarse o pintarse en monumentos ni en el exterior de edificios públicos.
-
-VII) Una vez acordado con la autoridad los sitios donde se permitirá la colocación de propaganda política, se deberá tramitar la autorización correspondiente ante la Dirección.
+VI) Una vez acordado con la autoridad los sitios donde se permitirá la colocación de propaganda política, se deberá tramitar la autorización correspondiente ante la Dirección.
 
 ###### ARTÍCULO 555.
 
@@ -4625,9 +4969,11 @@ La terminación de las funciones del Director Responsable de Obra, no lo exime d
 
 Los propietarios y/o Directores Responsables de Obra están obligados a manifestar por escrito a la Dirección, la terminación de las Obras ejecutadas en sus predios o bajo su responsabilidad, debiendo anotar el número y la fecha de la licencia de construcción respectiva, en un plazo no mayor de quince días, contados a partir de la conclusión de las mismas.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 571.
 
-La aprobación por escrito de la seguridad y operación, es el documento por el cual la Dirección, hace constar que una instalación o edificación que se ejecutan según los casos señalados en el artículo siguiente, reúne las condiciones de operación y de seguridad previstas en este Reglamento, previa inspección de las mismas y siempre que las pruebas de carga y de las instalaciones resulten satisfactorias. La aprobación por escrito de la seguridad y de operación, se concederá una vez liquidados los derechos que para el mismo fija la Ley de Hacienda del Municipio de Umán, el que deberá renovarse anualmente, excepto cuando se trate de circos, carpas y ferias con aparatos mecánicos, casos en que la renovación se hará además, cada vez que cambie de ubicación.
+La aprobación por escrito de la seguridad y operación, es el documento por el cual la Dirección, hace constar que una instalación o edificación que se ejecutan según los casos señalados en el artículo siguiente, reúne las condiciones de operación y de seguridad previstas en este Reglamento, previa inspección de las mismas y siempre que las pruebas de carga y de las instalaciones resulten satisfactorias. La aprobación por escrito de la seguridad y de operación, se concederá una vez liquidados los derechos que para el mismo fija la Ley de Ingresos del Municipio de Umán vigente, el que deberá renovarse anualmente, excepto cuando se trate de circos, carpas y ferias con aparatos mecánicos, casos en que la renovación se hará además, cada vez que cambie de ubicación.
 
 ###### ARTICULO 572.
 
@@ -4649,6 +4995,8 @@ Recibida la manifestación de la terminación de una obra, la Dirección, ordena
 
 Si del resultado de la inspección técnica a que se refiere el artículo anterior y del cotejo de la documentación correspondiente, apareciere que la obra no se ajustó ni a la licencia ni a los planos autorizados, la Dirección ordenará al propietario ejecutar las modificaciones que fueran necesarias y en tanto éstas no se ejecuten a satisfacción de la propia Dirección, no se autorizará el uso y la ocupación de la Obra.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 575.
 
 La Dirección, está facultada para ordenar la demolición parcial o total de una obra, cuando ésta se haya ejecutado en contravención de las especificaciones contenidas en este Reglamento, independientemente de las sanciones que procedan. Cuando se detecte una obra terminada o en proceso de terminación, que haya cumplido con los ordenamientos de este Reglamento y con las disposiciones del Esquema, el propietario podrá obtener la licencia de Construcción en los términos de Regularización, sujetándose al siguiente procedimiento:
@@ -4657,7 +5005,7 @@ I.- Solicitar por escrito la regularización.
 
 II.- Presentar la documentación señalada en el capítulo LXXXVII denominado Documentación requerida para el trámite de Licencias de Construcción, según la obra a realizar, de este Reglamento.
 
-III.- Recibida la documentación, la Dirección recibirá y practicará una inspección a la obra que se pretenda regularizar y si de ella resultare que la misma cumple con los requisitos legales, reglamentarios y administrativos aplicables y que se ajusta a los documentos exhibidos en la solicitud de regularización de la obra, la Dirección autorizará su regularización, previo pago de los derechos por construcción y de las sanciones que se hubiesen impuesto en los términos de la Ley de Hacienda del Municipio de Umán y de este Reglamento.
+III.- Recibida la documentación, la Dirección recibirá y practicará una inspección a la obra que se pretenda regularizar y si de ella resultare que la misma cumple con los requisitos legales, reglamentarios y administrativos aplicables y que se ajusta a los documentos exhibidos en la solicitud de regularización de la obra, la Dirección autorizará su regularización, previo pago de los derechos por construcción y de las sanciones que se hubiesen impuesto en los términos de la Ley de Ingresos del Municipio de Umán y de este Reglamento.
 
 ###### ARTICULO 576.
 
@@ -4783,9 +5131,11 @@ Todos los proyectos de construcción para obtener la licencia respectiva deberá
 
 Para las adecuaciones relativas a la densidad y para que ésta se autorice con variaciones a las establecidas en la normatividad, se podrá tomar en cuenta el criterio de la Dirección en base al promedio existente en el que se encuentra la obra a desarrollar o consolidar.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 582.
 
-La Dirección no otorgará la licencia de Construcción para lotes o fracciones de terrenos cuyas dimensiones no permitan el desarrollo de obras con los requerimientos de este Reglamento. No se otorgará licencia de Construcción para predios provenientes de fraccionamientos nuevos o lotificaciones nuevas cuyas superficies sean menores de 160 mt2 y su frente tenga menos de 8 m. No obstante lo dispuesto en los párrafos anteriores y previo estudio justificado, la Dirección podrá expedir licencias de Construcción para fracciones remanentes de predios afectados por Obras Públicas siempre que tenga un frente a la vía Pública no menor de 6 metros.
+La Dirección no otorgará la licencia de Construcción para lotes o fracciones de terrenos cuyas dimensiones no permitan el desarrollo de obras con los requerimientos de este Reglamento. No se otorgará licencia de Construcción para predios provenientes de fraccionamientos nuevos o lotificaciones nuevas cuyas superficies sean menores de 133 mt2 y su frente tenga menos de 7 m. No obstante lo dispuesto en los párrafos anteriores, y previo estudio justificado, la Dirección podrá expedir licencias de Construcción para fracciones remanentes de predios afectados por Obras Públicas siempre que tenga un frente a la vía pública no menor de 6 metros.
 
 ###### ARTÍCULO 583.
 
@@ -4821,9 +5171,11 @@ Los inspectores de obras de la Dirección, deberán firmar en el libro de bitác
 
 Cuando como resultado de la visita de la inspección se compruebe la existencia de cualquier infracción a las disposiciones contenidas en este Reglamento, la autoridad correspondiente notificará a los infractores, cuando así procediere, las irregularidades o violaciones en que hubieren incurrido, otorgándoles un término que podrá variar de veinticuatro horas a treinta días, según la urgencia o la gravedad del caso, a fin de que sean corregidas.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 588.
 
-Para los efectos del presente Reglamento, los propietarios y los Directores responsables de Obra serán los únicos responsables de las violaciones en que incurran a las disposiciones legales aplicables y les serán impuestas las sanciones correspondientes previstas por la Ley y por el propio Reglamento. Las sanciones podrán impuestas (sic) conjuntas o separadas a dichos responsables.
+Para los efectos del presente Reglamento, los propietarios y los Directores responsables de Obra serán los únicos responsables de las violaciones en que incurran a las disposiciones legales aplicables y les serán impuestas las sanciones correspondientes previstas por las Leyes aplicables y por el propio Reglamento. Las sanciones podrán (sic) impuestas conjuntas o separadas a dichos responsables.
 
 ###### ARTÍCULO 589.
 
@@ -4869,9 +5221,11 @@ IX.- Cuando previo dictamen técnico emitido u ordenado por la Dirección se dec
 
 X.- Cuando no se hubiera tramitado la licencia de construcción a pesar de habérselo requerido para su trámite o ya la hubiere solicitado pero no cubierto su importe respectivo.
 
-###### ARTÍCULO 591.
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
 
-Para el caso de ser destruidos los sellos de clausura, se procederá en contra del propietario y/o del Director responsable de Obra conforme a lo dispuesto en el Código de Defensa Social del Estado, sin perjuicio de las sanciones económicas que la Dirección les imponga.
+###### ARTICULO 591.
+
+Para el caso de ser destruidos los sellos de clausura, se procederá en contra del propietario y/o del Director responsable de Obra conforme a lo dispuesto en el Código Penal del Estado de Yucatán, sin perjuicio de las sanciones económicas que la Dirección les imponga.
 
 ###### ARTICULO 592.
 
@@ -4921,6 +5275,8 @@ VII.- Cuando en la ejecución de una obra se violen las disposiciones establecid
 
 VIII.- Cuando no se observen las disposiciones contenidas en este Reglamento en lo que se refiere a los dispositivos de elevación de materiales y de personas durante la ejecución de la obra y al uso de los transportadores electromecánicos en la edificación.
 
+> <small>(REFORMADO, D.O. 21 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 597.
 
 Se sancionará a los propietarios y a los Directores responsables de Obra con multa de 0.5 a 20 tantos del importe de los derechos de la licencia de construcción correspondiente en los siguientes casos:
@@ -4929,7 +5285,7 @@ I.- Cuando se estén realizando obras o instalaciones sin haberse obtenido previ
 
 II.- Cuando en la construcción y/o demolición de obras o para llevar a cabo excavaciones, se usen explosivos sin contar con el certificado de seguridad correspondiente. Y
 
-III.- Cuando en una obra no se tomen las medidas necesarias para proteger la vida y la salud de los trabajadores y de cualquier otra persona a la que pudiere causarse daño, para lo que deberá considerarse el uso de botas, casco y equipo de protección, tanto para los trabajadores como para los residentes de la obra, establecidas en el Reglamento de Seguridad e Higiene de la Ley Federal del Trabajo vigente.
+III.- Cuando en una obra no se tomen las medidas necesarias para proteger la vida y la salud de los trabajadores y de cualquier otra persona a la que pudiere causarse daño, para lo que deberá considerarse el uso de botas, casco y equipo de protección, tanto para los trabajadores como para los residentes de la obra, establecidas en el Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo, vigente.
 
 ###### ARTICULO 598.
 
@@ -5000,3 +5356,9 @@ Presidente Municipal
 Br. Fernando Rodríguez Puc
 
 Secretario Municipal
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 21 DE AGOSTO DE 2015.
+
+Único.- La presente modificación al Reglamento de Construcciones del Municipio de Umán, Yucatán entrara en vigor al día siguiente de su publicación en el diario Oficial del Gobierno del Estado de Yucatán o en la Gaceta Municipal de Umán, Yucatán.
