@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-equilibrio-ecologico-y-proteccion-al-ambiente-del-45254"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-08"
-last_updated: "2014-06-21"
+last_updated: "2015-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2015.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 8 de junio de 2005.
 
@@ -980,6 +980,12 @@ La Secretaría promoverá, con la participación de la autoridad competente, que
 ###### ARTÍCULO 53.
 
 El Gobierno Estatal, por conducto de la Secretaría, y los municipios impulsarán y fomentarán investigaciones científicas y promoverán programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento racional de los recursos y proteger los ecosistemas. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones de los sectores social y privado, investigadores y especialistas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
+
+De igual manera, el Gobierno del Estado fomentará, por medio de los programas y acciones que aplican sus dependencias y entidades, el uso de procesos tecnológicos y avances científicos para la captación de lluvias, así como el tratamiento de aguas residuales que permitan el aprovechamiento sustentable del recurso hídrico y que contemplen la reutilización del mismo, de manera renovable, en los ámbitos de vivienda, desarrollo urbano y utilización en el campo.
 
 ###### ARTÍCULO 54.
 
@@ -2639,6 +2645,10 @@ El presente Decreto entrará en vigor el 1° de enero de 2012, previa su publica
 
 El Titular del Ejecutivo del Estado deberá expedir el Reglamento del Programa de Verificación Vehicular dentro de los noventa días posteriores al inicio de la vigencia del presente Decreto.
 
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a los ciento ochenta días después de su publicación en el Periódico Oficial del Estado.
+
 ###### ARTÍCULO PRIMERO.
 
 Esta Ley entrará en vigor a los 180 días hábiles siguientes a su publicación en el Periódico Oficial del Estado.
@@ -2646,6 +2656,8 @@ Esta Ley entrará en vigor a los 180 días hábiles siguientes a su publicación
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado expedirá el reglamento a que se refiere esta Ley, en un plazo que no excederá de 180 días hábiles, contados a partir de su entrada en vigor.
+
+P.O. 22 DE AGOSTO DE 2015.
 
 ###### ARTÍCULO TERCERO.
 
