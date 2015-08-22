@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2015-05-28"
+last_updated: "2015-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO SE DECLARA INCORPORADO AL ORDEN JURÍDICO DEL ESTADO DE JALISCO, EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, MISMO QUE INICIARÁ SU VIGENCIA DE CONFORMIDAD CON EL ARTICULO PRIMERO DEL DECRETO NÚMERO 24864/LX/14.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -2853,7 +2853,7 @@ Tratándose de delitos que afecten la vida o la integridad corporal, el monto de
 
 Se califican como delitos graves y en su caso el inculpado no tendrá derecho al beneficio de la libertad provisional bajo caución, los previstos en los ordenamientos siguientes:
 
-(REFORMADA, P.O. 15 DE OCTUBRE DE 2013) (F. DE E. P.O. 24 DE DICIEMBRE DE 2013)
+> <small>(F. DE E. P.O. 24 DE DICIEMBRE DE 2013)</small>
 
 I. En el Código Penal: Homicidio culposo grave, artículo 48 penúltimo párrafo, evasión de presos, artículo 113, excepto cuando el activo sea un particular o no haya violencia en las cosas y en las personas; lenocinio, artículo 139; corrupción de menores, artículo 142-A, en sus dos últimos párrafos; pornografía infantil, 142-D, fracciones I y III; prostitución infantil artículos 142-F fracción I y 142-G; promoción de la prostitución infantil artículo 142-H; trata de personas, artículo 142-J; abuso sexual infantil, artículos 142-L y 142-M fracciones II y III; cohecho, artículo 147, cuarto párrafo; peculado, artículo 148, párrafo tercero y artículo 149; delitos cometidos en la custodia o guarda de documentos, artículo 151 último párrafo; enriquecimiento ilícito, artículo 153, fracción II; desaparición forzada de personas, artículos 154-A, 154-D, 154-E, 154-F, usurpación artículo 170, último párrafo; falsificación de medios electrónicos magnéticos 170 bis, en todas sus fracciones; violación, artículo 175, violación equiparada, artículo 176; robo de infante, artículo 179, párrafo cuarto; tráfico de menores artículo 179 bis, párrafos primero y quinto; extorsión, artículo 189 párrafos segundo y cuarto; extorsión agravada, artículo 189 bis; asalto, artículo 192; privación ilegal de la libertad y de otros derechos, artículo 193 último párrafo; secuestro y delitos relacionados previstos en el artículo 194; homicidio, artículos 213, 217 y 219; parricidio, artículo 223; instigación y ayuda al suicidio si la víctima fallece, artículo 224; infanticidio, artículo 226; aborto, artículo 228, penúltimo y último párrafo; robo equiparado, artículo 234, fracciones III, IV, V, VI y VII; robo cometido en los siguientes casos, artículo 235, fracción III; robo agravado, artículo 236 bis, apartado a), fracciones II y III, apartado b), en su totalidad y apartados c) y d), en su totalidad; y abigeato, y robo de animales, artículos 240 y 242, cuando el producto del delito exceda del importe de 350 salarios mínimos o se trate de reincidencias de cualquier delito contra el patrimonio y abigeato calificado, artículo 242 B; fraude previsto en el artículo 252 fracción XIX; administración fraudulenta, artículo 254 ter fracción II; despojo de inmuebles, fracción IV del artículo 262; pillaje, artículo 262 ter fracción III, y delitos electorales, artículo 270 fracción III, 276 y 278; los ilícitos penales mencionados en este párrafo, en grado de tentativa punible previsto en el artículo 52 y el continuado grave establecido en el artículo 55 bis;
 
@@ -4199,21 +4199,37 @@ III. 29 de junio de 2015: Acatic, Arandas, Cañadas de Obregón, Jalostotitlán,
 
 IV. 29 de junio de 2015: Encarnación de Díaz, Lagos de Moreno, Ojuelos de Jalisco, San Diego de Alejandría, San Juan de los Lagos, Teocaltiche, Unión de San Antonio, Villa Hidalgo.
 
-V. 24 de agosto de 2015: Autlán de Navarro, Chiquilistlán, Ejutla, El Grullo, El Limón, Juchitlán, Tecolotlán, Tolimán, Tonaya, Tuxcacuesco, Unión de Tula, Cuautla, Ayutla.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
-VI. 24 de agosto de 2015: Atenguillo, Atengo, Ameca, Guachinango, Cocula, Mixtlán, San Martín Hidalgo, Talpa de Allende, Tenamaxtlán.
+V. 15 de enero de 2016: Autlán de Navarro, Chiquilistlán, Ejutla, El Grullo, El Limón, Juchitlán, Tecolotlán, Tolimán, Tonaya, Tuxcacuesco, Unión de Tula, Cuautla, Ayutla;
 
-VII. 24 de agosto de 2015: Ahualulco de Mercado, Amatitán, Tala, San Juanito de Escobedo, El Arenal, Tequila, Etzatlán, San Cristóbal de la Barranca, Magdalena, San Marcos, Teuchitlán, Hostotipaquillo.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
-VIII. 30 de noviembre de 2015: Atotonilco el Alto, Ayotlán, Zapotlán del Rey, Degollado, Jamay, Tototlán, La Barca, Ocotlán, Poncitlán.
+VI. 15 de enero de 2016: Atenguillo, Atengo, Ameca, Guachinango, Cocula, Mixtlán, San Martín Hidalgo, Talpa de Allende, Tenamaxtlán;
 
-IX. 30 de noviembre de 2015: Concepción de Buenos Aires, El Salto, La Manzanilla de la Paz, Ixtlahuacán de los Membrillos, Mazamitla, Chapala, Juanacatlán, Jocotepec, Teocuitatlán de Corona, Valle de Juárez, Tizapán el Alto, Tuxcueca, Acatlán de Juárez, Villa Corona.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
-X. 15 de enero de 2016: Bolaños, Colotlán, Chimaltitán, Huejúcar, Huejuquilla el Alto, Mezquitic, San Martín de Bolaños, Santa María de los Ángeles, Totatiche, Villa Guerrero.
+VII. 15 de enero de 2016: Ahualulco de Mercado, Amatitán, Tala, San Juanito de Escobedo, El Arenal, Tequila, Etzatlán, San Cristóbal de la Barranca, Magdalena, San Marcos, Teuchitlán, Hostotipaquillo;
 
-XI. 15 de enero de 2016: Villa Purificación, Casimiro Castillo, Cihuatlán, Cuautitlán de García Barragán, La Huerta.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
-XII. 5 de febrero de 2016: Guadalajara, Zapopan, San Pedro Tlaquepaque, Tonalá, Tlajomulco de Zúñiga y Zapotlanejo.
+VIII. 15 de abril de 2016: Atotonilco el Alto, Ayotlán, Zapotlán del Rey, Degollado, Jamay, Tototlán, La Barca, Ocotlán, Poncitlán;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
+IX. 15 de febrero de 2016: Concepción de Buenos Aires, El Salto, La Manzanilla de la Paz, Ixtlahuacán de los Membrillos, Mazamitla, Chapala, Juanacatlán, Jocotepec, Teocuitatlán de Corona, Valle de Juárez, Tizapán el Alto, Tuxcueca, Acatlán de Juárez, Villa Corona;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
+X. 15 de abril de 2016: Bolaños, Colotlán, Chimaltitán, Huejúcar, Huejuquilla el Alto, Mezquitic, San Martín de Bolaños, Santa María de los Ángeles, Totatiche, Villa Guerrero;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
+XI. 15 de mayo de 2016: Villa Purificación, Casimiro Castillo, Cihuatlán, Cuautitlán de García Barragán, La Huerta; y
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
+XII. 15 de mayo de 2016: Guadalajara, Zapopan, San Pedro Tlaquepaque, Tonalá, Tlajomulco de Zúñiga y Zapotlanejo.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -4238,3 +4254,7 @@ P.O. 13 DE ENERO DE 2015.
 P.O. 28 DE MAYO DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 22 DE AGOSTO DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial “El Estado de Jalisco”.
