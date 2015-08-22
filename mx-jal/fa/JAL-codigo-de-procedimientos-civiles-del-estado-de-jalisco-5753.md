@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2015-04-21"
+last_updated: "2015-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,7 @@ state: "JAL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 21 DE ABRIL DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -2568,6 +2566,10 @@ VI.- Los fundamentos de derecho, procurando citar los preceptos legales o princi
 
 VII.- En su caso el valor de lo demandado.
 
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
+VIII. Las pruebas que ofrece tendientes a acreditar su acción.
+
 (ADICIONADO, P.O. 31 DE DICIEMBRE DE 1994) (F. DE E., P.O. 26 DE ENERO DE 1995)
 
 Los efectos de la presentación de la demanda son someter al actor a la competencia del juez ante quien fue presentada la misma; interrumpir la prescripción si no lo está por otros medios; señalar el principio de la instancia; en su caso, impedir la tácita reconducción, la caducidad y los demás que expresamente señale la ley.
@@ -2620,11 +2622,13 @@ En su caso, deberán observarse las disposiciones relativas al nombramiento de u
 
 Transcurrido el término concedido al tercero para contestar la demanda, continuará el juicio por sus trámites legales.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 273.
 
-El demandado formulará la contestación dentro del término señalado observando en lo conducente lo que se previene para la demanda.
+El demandado formulará la contestación dentro del término señalado observando en lo conducente lo que se previene para la demanda y de igual forma ofertará los medios de prueba que acrediten sus excepciones y defensas.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
 Las excepciones y defensas que se tengan, cualquiera que sea su naturaleza, se harán valer simultáneamente en la contestación, a no ser que fueren supervenientes.
 
@@ -9371,3 +9375,7 @@ P.O. 29 DE NOVIEMBRE DE 2014.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Los juicios que se encuentren en trámite a la entrada en vigor del presente decreto, podrán substanciarse con estas reglas siempre que no se afecten derechos de terceros.
+
+P.O. 22 DE AGOSTO DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
