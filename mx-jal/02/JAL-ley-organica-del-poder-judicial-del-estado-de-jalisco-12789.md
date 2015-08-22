@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2014-12-18"
+last_updated: "2015-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -701,7 +701,13 @@ III. Asentar en los expedientes las certificaciones relativas a términos de pru
 
 IV. Cuidar que los expedientes sean registrados, foliados, rubricados y entresellados como lo previene la ley; y
 
-V. Las demás que dispongan las leyes y el reglamento.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
+V. Suplir las faltas a que se refiere el artículo 53 de este ordenamiento, respecto de las ausencias temporales de los Magistrados de la Sala a que se encuentren adscritos; y
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
+VI. Las demás que dispongan las leyes y el reglamento.
 
 ###### Artículo 44.
 
@@ -811,11 +817,13 @@ Las salas auxiliares y regionales mixtas en su caso, tendrán jurisdicción en l
 
 Las faltas del Presidente del Supremo Tribunal de Justicia del Estado hasta por el término de dos meses, se suplirán por los presidentes de salas especializadas, en orden rotatorio, comenzando por el de la Primera. Si la falta excede del plazo antes señalado, se elegirá al Magistrado sustituto por todo el tiempo que dure la ausencia del titular, observando lo previsto en la presente ley.
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 53.
 
-Las faltas de los magistrados propietarios del Supremo Tribunal de Justicia que excedan de quince días hábiles, así como las vacantes de dichos cargos, en tanto toma posesión el nuevo propietario, serán cubiertas por los jueces de primera instancia especializados en la materia que conozca el Magistrado a suplir, en el orden que acuerde el Consejo General del Poder Judicial y siempre que cumplan con los requisitos constitucionales para el cargo.
+Las faltas de los magistrados propietarios del Supremo Tribunal de Justicia que excedan de quince días hábiles en caso de licencia, así como las vacantes de dichos cargos en tanto toma posesión el nuevo propietario, serán cubiertas con el Secretario de Acuerdos de la Sala que actuará en funciones de Magistrado previo acuerdo del Pleno del Tribunal y siempre que cumplan con los requisitos constitucionales para el cargo. Sin que esta suplencia pueda exceder de tres meses, cumplido este plazo el Pleno del Tribunal nombrará otro sustituto. En caso de que la vacante sea definitiva instará al Congreso del Estado de Jalisco a que realice el nombramiento respectivo.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2008)</small>
 
 Durante las ausencias por menos de quince días hábiles de los magistrados que integren sala, ésta podrá funcionar válidamente con dos de ellos en lo relativo a la substanciación del procedimiento, excepción hecha respecto de la sentencia definitiva, para lo cual el Tribunal pleno designará a los magistrados que deban integrar el quórum respectivo, Lo mismo se observará en casos de excusa o recusación de los magistrados.
 
@@ -1035,7 +1043,9 @@ Todas las Salas del Tribunal de lo Administrativo serán conformadas con caráct
 
 En caso de procedencia de recusaciones, excusas o impedimentos el Pleno del Tribunal de lo Administrativo turnará el asunto a la Sala que en el orden corresponda, si el asunto se tramitó originalmente en cualquiera de las salas residentes dentro de la capital del estado. Tratándose de asuntos del conocimiento de las salas regionales, se turnará el asunto a la más cercana al domicilio de la que conoció en primer término.
 
-En los casos de licencia de los magistrados, el Pleno designará a un magistrado de entre los suplentes, para que integre la sala que corresponda.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+
+Las faltas de los magistrados propietarios del Tribunal de lo Administrativo que excedan de quince días hábiles en caso de licencia, así como las vacantes de dichos cargos en tanto toma posesión el nuevo propietario, serán cubiertas con un Secretario de la Sala que actuará en funciones de Magistrado previo acuerdo del Pleno del Tribunal y siempre que cumplan con los requisitos constitucionales para el cargo. Sin que esta suplencia pueda exceder de tres meses. Cumplido este plazo el Pleno del Tribunal nombrará otro sustituto. En caso de que la vacante sea definitiva instará al Congreso del Estado de Jalisco a que realice el nombramiento respectivo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2003)</small>
 
@@ -1145,9 +1155,17 @@ III. Efectuar las diligencias que les encomiende el Magistrado instructor o la S
 
 IV. Redactar y autorizar las actas de las audiencias en las que corresponda dar cuenta, así como autorizar las resoluciones que recaigan en los expedientes;
 
-V. Expedir certificados de las constancias que obren en los expedientes de la Sala a la que estén adscritos; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
-VI. Las demás que señalen las disposiciones legales aplicables.
+V. Expedir certificados de las constancias que obren en los expedientes de la Sala a la que estén adscritos;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
+VI. Suplir las faltas a que se refiere el artículo 66 de este ordenamiento, respecto de las ausencias temporales del Magistrado de la Sala a que se encuentren adscritos; y
+
+> <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
+VII. Las demás que señalen las disposiciones legales aplicables.
 
 ###### Artículo 72.
 
@@ -3472,3 +3490,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 18 DE DICIEMBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 22 DE AGOSTO DE 2015.
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
