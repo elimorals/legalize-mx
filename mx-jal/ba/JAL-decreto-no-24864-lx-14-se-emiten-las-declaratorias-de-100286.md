@@ -4,7 +4,7 @@ identifier: "JAL-decreto-no-24864-lx-14-se-emiten-las-declaratorias-de-100286"
 country: "mx"
 rank: "decreto"
 publication_date: "2014-04-11"
-last_updated: "2015-05-28"
+last_updated: "2015-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 DECRETO POR EL QUE SE EMITEN LAS DECLARATORIAS DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO Y DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES AL ORDEN JURÍDICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2015.
 
 Decreto publicado en la Edición Especial del Periódico Oficial del Estado de Jalisco, el viernes 11 de abril de 2014.
 
@@ -55,21 +55,37 @@ III. 29 de junio de 2015: Acatic, Arandas, Cañadas de Obregón, Jalostotitlán,
 
 IV. 29 de junio de 2015: Encarnación de Díaz, Lagos de Moreno, Ojuelos de Jalisco, San Diego de Alejandría, San Juan de los Lagos, Teocaltiche, Unión de San Antonio, Villa Hidalgo.
 
-V. 24 de agosto de 2015: Autlán de Navarro, Chiquilistlán, Ejutla, El Grullo, El Limón, Juchitlán, Tecolotlán, Tolimán, Tonaya, Tuxcacuesco, Unión de Tula, Cuautla, Ayutla.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
-VI. 24 de agosto de 2015: Atenguillo, Atengo, Ameca, Guachinango, Cocula, Mixtlán, San Martín Hidalgo, Talpa de Allende, Tenamaxtlán.
+V. 15 de enero de 2016: Autlán de Navarro, Chiquilistlán, Ejutla, El Grullo, El Limón, Juchitlán, Tecolotlán, Tolimán, Tonaya, Tuxcacuesco, Unión de Tula, Cuautla, Ayutla;
 
-VII. 24 de agosto de 2015: Ahualulco de Mercado, Amatitán, Tala, San Juanito de Escobedo, El Arenal, Tequila, Etzatlán, San Cristóbal de la Barranca, Magdalena, San Marcos, Teuchitlán, Hostotipaquillo.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
-VIII. 30 de noviembre de 2015: Atotonilco el Alto, Ayotlán, Zapotlán del Rey, Degollado, Jamay, Tototlán, La Barca, Ocotlán, Poncitlán.
+VI. 15 de enero de 2016: Atenguillo, Atengo, Ameca, Guachinango, Cocula, Mixtlán, San Martín Hidalgo, Talpa de Allende, Tenamaxtlán;
 
-IX. 30 de noviembre de 2015: Concepción de Buenos Aires, El Salto, La Manzanilla de la Paz, Ixtlahuacán de los Membrillos, Mazamitla, Chapala, Juanacatlán, Jocotepec, Teocuitatlán de Corona, Valle de Juárez, Tizapán el Alto, Tuxcueca, Acatlán de Juárez, Villa Corona.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
-X. 15 de enero de 2016: Bolaños, Colotlán, Chimaltitán, Huejúcar, Huejuquilla el Alto, Mezquitic, San Martín de Bolaños, Santa María de los Ángeles, Totatiche, Villa Guerrero.
+VII. 15 de enero de 2016: Ahualulco de Mercado, Amatitán, Tala, San Juanito de Escobedo, El Arenal, Tequila, Etzatlán, San Cristóbal de la Barranca, Magdalena, San Marcos, Teuchitlán, Hostotipaquillo;
 
-XI. 15 de enero de 2016: Villa Purificación, Casimiro Castillo, Cihuatlán, Cuautitlán de García Barragán, La Huerta.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
-XII. 5 de febrero de 2016: Guadalajara, Zapopan, San Pedro Tlaquepaque, Tonalá, Tlajomulco de Zúñiga y Zapotlanejo.
+VIII. 15 de abril de 2016: Atotonilco el Alto, Ayotlán, Zapotlán del Rey, Degollado, Jamay, Tototlán, La Barca, Ocotlán, Poncitlán;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
+IX. 15 de febrero de 2016: Concepción de Buenos Aires, El Salto, La Manzanilla de la Paz, Ixtlahuacán de los Membrillos, Mazamitla, Chapala, Juanacatlán, Jocotepec, Teocuitatlán de Corona, Valle de Juárez, Tizapán el Alto, Tuxcueca, Acatlán de Juárez, Villa Corona;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
+X. 15 de abril de 2016: Bolaños, Colotlán, Chimaltitán, Huejúcar, Huejuquilla el Alto, Mezquitic, San Martín de Bolaños, Santa María de los Ángeles, Totatiche, Villa Guerrero;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
+XI. 15 de mayo de 2016: Villa Purificación, Casimiro Castillo, Cihuatlán, Cuautitlán de García Barragán, La Huerta; y
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
+XII. 15 de mayo de 2016: Guadalajara, Zapopan, San Pedro Tlaquepaque, Tonalá, Tlajomulco de Zúñiga y Zapotlanejo.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -134,3 +150,7 @@ P.O. 13 DE ENERO DE 2015.
 P.O. 28 DE MAYO DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+P.O. 22 DE AGOSTO DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial “El Estado de Jalisco”.
