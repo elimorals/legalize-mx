@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-para-la-administracion-de-los-recursos-del-50719"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-27"
-last_updated: "2015-03-04"
+last_updated: "2015-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50719&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO PARA LA ADMINISTRACIÓN DE LOS RECURSOS DEL INSTITUTO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2015.
+> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO TRANSITORIO DEL REGLAMENTO PARA LA ADMINISTRACIÓN DE LOS RECURSOS DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. 22 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 27 de mayo de 2006.
 
@@ -459,7 +461,7 @@ f) Proponer el tabulador de sueldos al Consejo;
 
 g) Proponer a la Comisión del Servicio Profesional las promociones, permutas y comisiones de un puesto de trabajo a otro;
 
-h) Proponer al Consejo los montos del pago de dietas a Consejeros Electorales de los (sic) de los Consejos Distritales y Municipales, así como la remuneración del personal de los mismos;
+h) Proponer al Consejo los montos del pago de dietas a Consejeros Electorales de los de los (sic) Consejos Distritales y Municipales, así como la remuneración del personal de los mismos;
 
 i) Proponer a la Comisión del Servicio Profesional el procedimiento para la entrega de estímulos a los Servidores electorales, por el desempeño satisfactorio de las funciones realizadas;
 
@@ -986,3 +988,23 @@ PRIMERO. …
 SEGUNDO. Las reformas y adiciones a diversas disposiciones del Reglamento para la Administración de los Recursos del Instituto Electoral, entrarán en vigor a partir de su aprobación por el Consejo General del Instituto Electoral del Estado de Zacatecas.
 
 TERCERO. Publíquese el presente Acuerdo y su anexo en el Periódico Oficial, Órgano del Gobierno del Estado y en la página de internet www.ieez.org.mx, para los efectos a que haya lugar.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE JULIO DE 2015.
+
+Primero.- Se abroga el Reglamento Interior del Instituto Electoral del Estado de Zacatecas, aprobado por el Consejo General el dos de diciembre de dos mil nueve.
+
+Segundo.- El presente Reglamento entrará en vigor a partir de su aprobación por el Consejo General.
+
+Tercero.- Publíquese en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 22 DE AGOSTO DE 2015.
+
+PRIMERO.- Se abroga el Reglamento para la Administración de los Recursos del Instituto Electoral del Estado de Zacatecas, aprobado por el Consejo General del Instituto Electoral del Estado de Zacatecas, el veinticuatro de mayo de dos mil seis.
+
+SEGUNDO.- El presente Reglamento entrará en vigor y surtirá sus efectos a partir de su aprobación por el Consejo General del Instituto Electoral del Estado de Zacatecas.
+
+TERCERO.- Se derogan las disposiciones que contravengan a este Reglamento.
+
+CUARTO.- Forman parte de este Reglamento los formatos para trámites administrativos.
