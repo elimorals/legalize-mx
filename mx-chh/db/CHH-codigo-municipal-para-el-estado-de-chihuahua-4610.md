@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2015-06-06"
+last_updated: "2015-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2015.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -429,13 +429,21 @@ La competencia que la Constitución Federal, la Estatal y el presente Código, l
 
 Los ayuntamientos residirán en las cabeceras municipales y se integrarán:
 
-I.- Los Municipios de Chihuahua y Juárez con un Presidente, un Síndico y diez Regidores electos por el principio de mayoría relativa;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
-II.- Los Municipios de Camargo, Cuauhtémoc, Delicias, Guerrero, Hidalgo del Parral, Jiménez, Madera, Meoqui, Namiquipa, Nuevo Casas Grandes, Ojinaga y Saucillo, por un Presidente, un Síndico y ocho Regidores electos por el principio de mayoría relativa;
+l. Los Municipios de Chihuahua y Juárez con un Presidente, un Síndico y once Regidores electos por el principio de mayoría relativa;
 
-III.- Los de Ahumada, Aldama, Ascensión, Balleza, Bocoyna, Buenaventura, Guachochi, Guadalupe y Calvo, Riva Palacio, Rosales, San Francisco del Oro, Santa bárbara, Urique e Ignacio Zaragoza, por un Presidente, un Síndico y seis Regidores electos por el principio de mayoría relativa; y
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
-IV.- Los restantes por un Presidente, un Síndico y cuatro Regidores electos por el principio de mayoría relativa.
+II. Los Municipios de Camargo, Cuauhtémoc, Delicias, Guerrero, Hidalgo del Parral, Jiménez, Madera, Meoqui, Namiquipa, Nuevo Casas Grandes, Ojinaga y Saucillo, por un Presidente, un Síndico y nueve Regidores electos por el principio de mayoría relativa;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
+III. Los de Ahumada, Aldama, Ascensión, Balleza, Bocoyna, Buenaventura, Guachochi, Guadalupe y Calvo, Riva Palacio, Rosales, San Francisco del Oro, Santa Bárbara, Urique e Ignacio Zaragoza, por un Presidente, un Síndico y siete Regidores electos por el principio de mayoría relativa; y
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
+IV. Los restantes por un Presidente, un Síndico y cinco Regidores electos por el principio de mayoría relativa.
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1997)</small>
 
@@ -4602,3 +4610,21 @@ P. O. 6 DE JUNIO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE AGOSTO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, previa declaración de haber sido aprobada la reforma constitucional electoral contenida en el Decreto N° 917/2015 II P.O.
+
+SEGUNDO.- Se abroga la Ley Electoral del Estado de Chihuahua publicada en el Periódico Oficial del Estado número 73, del día 12 de septiembre del año 2009, así como sus reformas y adiciones.
+
+TERCERO.- La facultad establecida en numeral 2) del artículo 379 de la Ley Electoral, y para la elección del año 2018, deberá ser el día 31 de agosto.
+
+CUARTO.- De conformidad con la fracción II del Artículo Transitorio Segundo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Político (sic) de los Estados Unidos Mexicanos, en materia política - electoral publicada en el Diario Oficial de la Federación el 10 de febrero del año 2014, la elección que se celebrará (sic) el año 2018 se realizará el primer domingo de julio.
+
+QUINTO.- Por esta ocasión, los magistrados electorales serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores, tres de ellos por un periodo de 7 años y los dos restantes por un periodo de 5 años, a fin de generar la renovación parcial periódica.
+
+SEXTO.- En el caso de la hipótesis para abatir la subrepresentación contenida en artículo 40 de la reforma constitucional electoral que se encuentra en el proceso contemplado en el artículo 202 del Constituyente Permanente, y desarrollada en esta ley, no se autorizarán recursos presupuestales adicionales bajo ninguna circunstancia.
+
+SÉPTIMO.- De aprobarse el artículo segundo del presente decreto que reforma el artículo 17 del Código Municipal para el Estado de Chihuahua, no deberán autorizarse ampliaciones presupuestales a los municipios para el efecto del decreto.
+
+OCTAVO.- Una vez que el presente Decreto tenga plena fuerza legal, el Honorable Congreso del Estado comunicará de manera inmediata, a fin de dar cumplimiento a lo previsto en los Artículos 35, fracción II, y 116, fracción IV, incisos k) y p), de la Constitución Política de los Estados Unidos Mexicanos, previsto en la sentencia dictada por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación en el expediente identificado con la clave SUP-JDC-2665/2014, y notificará a dicha Sala Superior de su cumplimiento.
