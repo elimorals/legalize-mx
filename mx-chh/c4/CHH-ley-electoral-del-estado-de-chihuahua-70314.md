@@ -4,7 +4,7 @@ identifier: "CHH-ley-electoral-del-estado-de-chihuahua-70314"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-12"
-last_updated: "2014-05-28"
+last_updated: "2015-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHH"
 
 LEY ELECTORAL DEL ESTADO DE CHIHUAHUA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 457/2014 II P.O. PUBLICADO EN EL P.O. DE 28 DE MAYO DE 2014, SE DEROGA EL DECRETO NO. 1135/2012 I P.O. PUBLICADO EN EL P.O. NÚMERO 69, DE FECHA 28 DE AGOSTO DE 2013, MEDIANTE EL CUAL SE REFORMABAN DIVERSAS DISPOSICIONES DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL FOLLETO ANEXO DEL P.O. DE 22 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2015 (ABROGADA).
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 12 de septiembre de 2009.
 
@@ -3375,7 +3375,7 @@ Artículo 225
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2014)</small>
 
-l. De conformidad con lo dispuesto en el artículo 37 de la Constitución Política del Estado Libre y Soberano de Chihuahua, el Tribunal Estatal Electoral será la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado.
+1. De conformidad con lo dispuesto en el artículo 37 de la Constitución Política del Estado Libre y Soberano de Chihuahua, el Tribunal Estatal Electoral será la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado.
 
 2. El Tribunal Estatal Electoral se regirá, en ejercicio de sus funciones, por los principios de certeza, legalidad, imparcialidad, objetividad, independencia y profesionalismo.
 
@@ -5463,7 +5463,7 @@ Artículo 376
 
 Artículo 377
 
-Se entiende por plebiscito la consulta a los electores para que expresen su previa aprobación o rechazo a un acto o decisión de los Poderes Ejecutivo o Legislativo, o bien, de los ayuntamientos, que sean considerados como trascendentes para la vida pública del Estado o de los municipios, según sea el caso, o para la erección (sic) o supresión de municipios.
+Se entiende por plebiscito la consulta a los electores para que expresen su previa aprobación o rechazo a un acto o decisión de los Poderes Ejecutivo o Legislativo, o bien, de los ayuntamientos, que sean considerados como trascendentes para la vida pública del Estado o de los municipios, según sea el caso, o para la erección o supresión de municipios.
 
 Artículo 378
 
@@ -5473,7 +5473,7 @@ a) Los actos o decisiones de carácter general del Gobernador del Estado que se 
 
 b) Los actos o decisiones de gobierno de las autoridades municipales que se consideren trascendentes para la vida pública del municipio de que se trate, y
 
-c) En los términos de la fracción XII del artículo 64 de la Constitución Política del Estado, la erección (sic) de nuevos municipios dentro de los límites de los ya existentes, o la supresión de alguno o algunos de éstos.
+c) En los términos de la fracción XII del artículo 64 de la Constitución Política del Estado, la erección de nuevos municipios dentro de los límites de los ya existentes, o la supresión de alguno o algunos de éstos.
 
 2. En los supuestos de procedencia del plebiscito previstos en los incisos del párrafo anterior, la solicitud correspondiente deberá presentarla el Gobernador del Estado, los ayuntamientos y el Congreso del Estado respectivamente. En el caso del inciso b), también el veinticinco por ciento de los electores del municipio de que se trate podrán solicitar, por conducto del Presidente Municipal, se sometan a plebiscito los actos o decisiones de las autoridades municipales.
 
@@ -5714,3 +5714,21 @@ Los bienes muebles e inmuebles, derechos, recursos financieros y demás activos 
 ###### ARTÍCULO QUINTO.
 
 Los servidores públicos y empleados del Tribunal Estatal Electoral, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral y continuarán con el sistema de seguridad social empleado hasta la entrada en vigor del presente Decreto.
+
+P.O. 22 DE AGOSTO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, previa declaración de haber sido aprobada la reforma constitucional electoral contenida en el Decreto Nº 917/2015 II P.O.
+
+SEGUNDO.- Se abroga la Ley Electoral del Estado de Chihuahua publicada en el Periódico Oficial del Estado número 73, del día 12 de septiembre del año 2009, así como sus reformas y adiciones.
+
+TERCERO.- La facultad establecida en numeral 2) del artículo 379 de la Ley Electoral, y para la elección del año 2018, deberá ser el día 31 de agosto.
+
+CUARTO.- De conformidad con la fracción II del Artículo Transitorio Segundo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Político (sic) de los Estados Unidos Mexicanos, en materia política - electoral publicada en el Diario Oficial de la Federación el 10 de febrero del año 2014, la elección que se celebrará el año 2018 se realizará el primer domingo de julio.
+
+QUINTO.- Por esta ocasión, los magistrados electorales serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores, tres de ellos por un periodo de 7 años y los dos restantes por un periodo de 5 años, a fin de generar la renovación parcial periódica.
+
+SEXTO.- En el caso de la hipótesis para abatir la subrepresentación contenida en (sic) artículo 40 de la reforma constitucional electoral que se encuentra en el proceso contemplado en el artículo 202 del Constituyente Permanente, y desarrollada en esta ley, no se autorizarán recursos presupuestales adicionales bajo ninguna circunstancia.
+
+SÉPTIMO.- De aprobarse el artículo segundo del presente decreto que reforma el artículo 17 del Código Municipal para el Estado de Chihuahua, no deberán autorizarse ampliaciones presupuestales a los municipios para el efecto del decreto.
+
+OCTAVO.- Una vez que el presente Decreto tenga plena fuerza legal, el Honorable Congreso del Estado comunicará de manera inmediata, a fin de dar cumplimiento a lo previsto en los Artículos 35, fracción II, y 116, fracción IV, incisos k) y p), de la Constitución Política de los Estados Unidos Mexicanos, previsto en la sentencia dictada por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación en el expediente identificado con la clave SUP-JDC-2665/2014, y notificará a dicha Sala Superior de su cumplimiento.
