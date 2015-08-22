@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2014-12-31"
+last_updated: "2015-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1015,17 +1015,29 @@ b) Si la falta es menor de treinta días, no será necesario que se llame al sup
 
 c) Cuando la falta sea mayor de treinta días, se llamará a los suplentes respectivos; y a falta de éstos, el Ayuntamiento acordará a quién de los demás Regidores suplentes llamará;
 
-d) Las faltas temporales del Presidente Municipal, hasta por treinta días, serán suplidas por el Regidor de Gobernación, Justicia y Seguridad Pública, o por el Regidor que presida dicha Comisión; y
+d) (DEROGADO, P.O. 22 DE AGOSTO DE 2015)
 
-e) Las faltas temporales del Presidente Municipal por más de treinta días, serán cubiertas por su suplente y a falta de éste por el Regidor de Gobernación, Justicia y Seguridad Pública, o por el Regidor que presida dicha Comisión.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+
+e) El Presidente Municipal podrá pedir licencia hasta por noventa días. Las faltas temporales del Presidente Municipal serán cubiertas por su suplente.
+
+A falta del suplente o cuando por cualquier otra causa éste no se presentase, el Congreso del Estado designará a quien lo sustituya.
 
 II.- Faltas absolutas:
 
 a) La falta absoluta de uno o más Regidores propietarios o del Síndico será cubierta por sus suplentes;
 
-b) La falta absoluta del Presidente Municipal será cubierta por su suplente con el carácter de Presidente Municipal Sustituto;
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
-c) En caso de falta absoluta del Presidente Municipal y de su suplente, el Congreso del Estado revocará el mandato de ambos y designará quienes los sustituyan; y
+b) La falta absoluta del Presidente Municipal será cubierta por su suplente con el carácter de Presidente Municipal Sustituto.
+
+En su caso, el Presidente Municipal podrá manifestar que su ausencia es una falta absoluta.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+
+c) En caso de falta absoluta del Presidente Municipal y de su suplente, el Congreso del Estado designará quienes los sustituyan.
+
+Si el suplente, por cualquier motivo no se presentase, el Congreso del Estado designará al Presidente Municipal Sustituto; y
 
 d) La falta absoluta de algún Regidor electo por el principio de representación proporcional, deberá ser cubierta por su suplente, y a falta de éste, por aquel candidato del mismo partido político que siga en el orden de la lista, después de habérsele asignado los Regidores que le hubieren correspondido.
 
@@ -1303,7 +1315,9 @@ XXV.- Nombrar, a propuesta del Presidente Municipal, al Secretario del Ayuntamie
 
 XXVI.- Designar a aquél de sus integrantes que dará contestación al informe que sobre el estado de la administración pública municipal deberá rendir el Presidente Municipal de manera anual;
 
-XXVII.- Conceder licencias hasta por treinta días y resolver sobre las renuncias que formulen los integrantes del mismo Ayuntamiento o los de las Juntas Auxiliares, dando aviso al Congreso del Estado;
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
+XXVII.- Conceder licencias y resolver sobre las renuncias que formulen los integrantes del mismo Ayuntamiento o los de las Juntas Auxiliares en términos de esta ley, dando aviso al Congreso del Estado;
 
 XXVIII.- Proponer al Pleno del Tribunal Superior de Justicia, la terna correspondiente para la designación de jueces menores y de paz, de conformidad con lo establecido en la Ley de la materia;
 
@@ -3770,5 +3784,11 @@ SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente 
 P.O. 31 DE DICIEMBRE DE 2014.
 
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
