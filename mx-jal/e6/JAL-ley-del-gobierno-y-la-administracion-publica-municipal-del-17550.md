@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2014-11-25"
+last_updated: "2015-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2015.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -565,39 +565,25 @@ El Concejo designado tiene la misma organización interna y funciones que corres
 
 ### CAPITULO V. De las Comisiones
 
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 27.
 
-Los Ayuntamientos, para el estudio, vigilancia y atención de los diversos asuntos que les corresponda conocer, deben funcionar mediante comisiones.
+Los ayuntamientos, para el estudio, vigilancia y atención de los diversos asuntos que les corresponda conocer, deben funcionar mediante comisiones.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
-
-Los ediles pueden eximirse de presidir comisiones, pero cada munícipe debe estar integrado por lo menos a dos comisiones, en los términos de la reglamentación respectiva.
+Los ediles deberán presidir por lo menos una comisión, además cada munícipe debe estar integrado por lo menos a tres comisiones, en los términos de la reglamentación respectiva.
 
 La denominación de las comisiones, sus características, obligaciones y facultades, deben ser establecidas en los reglamentos que para tal efecto expida el Ayuntamiento.
 
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+Las comisiones pueden ser permanentes o transitorias, con integración colegiada para su funcionamiento y desempeño, integradas cuando menos por tres ediles y bajo ninguna circunstancia pueden tener facultades ejecutivas.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2007)</small>
+En los casos en que la integración de las Comisiones sea número par, el edil presidente tendrá voto de calidad.
 
-LAS COMISIONES PUEDEN SER PERMANENTES O TRANSITORIAS, CON INTEGRACIÓN PREFERENTEMENTE COLEGIADA PARA SU FUNCIONAMIENTO Y DESEMPEÑO, Y BAJO NINGUNA CIRCUNSTANCIAS PUEDEN TENER FACULTADES EJECUTIVAS.
+Las comisiones sesionarán cuando menos una vez por mes y serán reuniones públicas por regla general, salvo que sus integrantes decidan, por causas justificadas y de conformidad con sus disposiciones reglamentarias aplicables, que se celebren de forma reservada.
 
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+Cada comisión deberá mantener actualizada la reglamentación correspondiente a su ramo, para tal efecto presentará con oportunidad al pleno las actualizaciones correspondientes para su aprobación.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
-
-LAS REUNIONES QUE CELEBREN LAS COMISIONES SON PÚBLICAS POR REGLA GENERAL, SALVO QUE SUS INTEGRANTES DECIDAN, POR CAUSAS JUSTIFICADAS Y DE CONFORMIDAD CON SUS DISPOSICIONES REGLAMENTARIAS APLICABLES, QUE SE CELEBREN DE FORMA RESERVADA.
-
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
-
-EN LOS AYUNTAMIENTOS QUE TENGAN QUINCE EDILES O MÁS, LAS COMISIONES PERMANENTES SIEMPRE SON COLEGIADAS.
-
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SÉPTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
-
-LOS AYUNTAMIENTOS ESTABLECEN EN SUS RESPECTIVOS REGLAMENTOS EL PLAZO EN QUE CADA COMISIÓN EDILICIA DEBE DAR CUENTA DE LOS ASUNTOS QUE LE SEAN TURNADOS. A FALTA DE DISPOSICIÓN REGLAMENTARIA, LOS ASUNTOS DEBEN DICTAMINARSE EN UN PLAZO NO MAYOR A CUARENTA Y CINCO DÍAS NATURALES CONTADOS A PARTIR DEL DÍA POSTERIOR A QUE LE SEAN TURNADOS, MISMOS QUE PUEDEN SER PRORROGABLES EN LOS TÉRMINO DE LA REGLAMENTACIÓN MUNICIPAL.
+Los ayuntamientos establecen en sus respectivos reglamentos el plazo en que cada comisión edilicia debe dar cuenta de los asuntos que le sean turnados. A falta de disposición reglamentaria, los asuntos deben dictaminarse en un plazo no mayor a cuarenta y cinco días naturales contados a partir del día posterior a que le sean turnados, mismos que pueden ser prorrogables en los términos de la reglamentación municipal.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
@@ -2940,3 +2926,7 @@ P.O. 9 DE OCTUBRE DE 2014.
 P.O. 25 DE NOVIEMBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al 1.° de octubre de 2015, previa su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 22 DE AGOSTO DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
