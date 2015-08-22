@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-instituto-jalisciense-del-emprendedor-96234"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2013-10-12"
+last_updated: "2015-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL INSTITUTO JALISCIENSE DEL EMPRENDEDOR DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2015.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 12 de octubre de 2013.
 
@@ -225,7 +225,9 @@ a) El diputado presidente de la Comisión de Desarrollo Económico.
 
 El cargo como integrante de la Junta de Gobierno es honorífico, y por lo tanto no remunerado.
 
-Los integrantes de la Junta de Gobierno tendrán derecho a voz y voto, quienes deberán asistir personalmente sin derecho a nombrar a suplentes, salvo el Presidente de la Junta d (sic) Gobierno.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
+
+Los integrantes de la Junta de Gobierno tendrán derecho a voz y voto, y podrán designar a su respectivo suplente quien será su subordinado inmediato, con facultades de decisión y contará con las mismas facultades que el titular.
 
 El funcionamiento de la Junta de Gobierno será el que se establezca en el Reglamento Interior del Instituto.
 
@@ -478,3 +480,9 @@ El Secretario General de Gobierno
 ARTURO ZAMORA JIMÉNEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE AGOSTO DE 2015.
+
+UNICO. EI presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco".
