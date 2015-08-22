@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-sesiones-de-los-consejos-electorales-del-73296"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-05"
-last_updated: "2009-12-05"
+last_updated: "2015-08-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO DE SESIONES DE LOS CONSEJOS ELECTORALES DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS, POR EL QUE SE APRUEBA EL REGLAMENTO DE SESIONES DE LOS CONSEJOS ELECTORALES DEL INSTITUTO ELECTORAL DE ZACATECAS, PUBLICADO EN EL P.O. DE 22 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 5 de diciembre de 2009.
 
@@ -702,3 +704,15 @@ DE LA PUBLICACIÓN DE LOS ACUERDOS Y RESOLUCIONES.
 Publicación. 23
 
 Artículos Transitorios. 24
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE AGOSTO DE 2015.
+
+PRIMERO. Se abroga el Reglamento de Sesiones de los Consejos Electorales del Instituto Electoral del Estado de Zacatecas, aprobado por el Consejo General del Instituto Electoral del Estado de Zacatecas, mediante Acuerdo ACG-IEEZ-059/IV/2009 el dos de diciembre de dos mil nueve.
+
+SEGUNDO. Se aprueba el Reglamento de Sesiones de los Consejos Electorales del Instituto Electoral del Estado de Zacatecas, en los términos del anexo que se adjunta a este Acuerdo para que forme parte del mismo.
+
+TERCERO. El Reglamento de Sesiones de los Consejos Electorales del Instituto Electoral del Estado de Zacatecas, entrará en vigor y surtirá sus efectos a partir de su aprobación por el Consejo General del Instituto Electoral.
+
+CUARTO. Publíquese el presente Acuerdo y su anexo en el Periódico Oficial, Órgano del Gobierno del Estado y en la página de internet www.ieez.org.mx, para los efectos a que haya lugar.
