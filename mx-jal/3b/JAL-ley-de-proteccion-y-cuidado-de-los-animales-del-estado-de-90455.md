@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-proteccion-y-cuidado-de-los-animales-del-estado-de-90455
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-29"
-last_updated: "2014-12-20"
+last_updated: "2015-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2015.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el jueves 29 de noviembre de 2012.
 
@@ -79,9 +79,23 @@ VII. Enfermedades zoonóticas: cualquier enfermedad que puede transmitirse de an
 
 VIII. Secretaría: Secretaría de Salud;
 
-IX. Médico: médico veterinario zootecnista titulado con cédula profesional vigente, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-X. Consejo: Consejo para la Atención y Bienestar de los Animales del Estado de Jalisco.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
+IX. Médico: médico veterinario zootecnista titulado con cédula profesional vigente;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
+X. Consejo: Consejo para la Atención y Bienestar de los Animales del Estado de Jalisco; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2015)</small>
+
+XI. Circo: Espectáculo artístico generalmente itinerante en el que se presentan diversos artistas en un edificio o recinto cubierto o no por una carpa, con gradería para los espectadores, conformado por una o varias pistas.
 
 > <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
 
@@ -105,9 +119,29 @@ III. El buen trato.
 
 I. Celebrar convenios de coordinación con las autoridades federales y municipales para la generación de políticas públicas en materia de protección animal, así como para el cumplimiento de los ordenamientos en la materia;
 
-II. La promoción de información y difusión que genere una cultura cívica de protección a favor de los animales, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-III. Las demás que le confieran esta ley y demás ordenamientos jurídicos aplicables.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
+II. La promoción de información y difusión que genere una cultura cívica de protección a favor de los animales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
+III. Promover la colocación de animales que se utilicen en espectáculos circenses dentro (sic) lugares apropiados para su debida preservación y conservación;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2015)</small>
+
+IV. Presentar denuncias ante la Procuraduría Federal de Protección al Ambiente cuando detecte violaciones a las leyes federales de la materia; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2015)</small>
+
+V. Las demás que le confieran esta ley y demás ordenamientos jurídicos aplicables.
 
 ###### Artículo 5.
 
@@ -201,9 +235,29 @@ X. Promover la participación de las personas, las asociaciones protectoras de a
 
 XI. Controlar el crecimiento de las poblaciones de aves urbanas empleando sistemas inofensivos o reubicarlas, cuando resulte necesario para evitar que causen problemas a las estructuras, edificaciones, obras artísticas y demás análogas en áreas públicas;
 
-XII. Controlar la formación de poblaciones ferales mediante estrategias que no provoquen sufrimiento en los animales, para evitar daños en las personas, cosas u otros animales, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XIII. Las demás que por disposición legal le correspondan.
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
+XII. Controlar la formación de poblaciones federales (sic) mediante estrategias que no provoquen sufrimiento en los animales, para evitar daños en las personas, cosas u otros animales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+
+XIII. La autoridad municipal competente, deberá asegurar que en el otorgamiento de licencia o permiso para la instalación de circos, se acredite que no exhiban o utilicen ningún animal para la ejecución del espectáculo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2015)</small>
+
+XIV. Presentar denuncias ante la Procuraduría Federal de Protección al Ambiente cuando detecte violaciones a las leyes federales de la materia; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2015)</small>
+
+XV. Las demás que por disposición legal le correspondan.
 
 ###### Artículo 9.
 
@@ -354,6 +408,14 @@ Toda persona que compre o adquiera por cualquier medio un animal está obligada 
 ###### Artículo 29.
 
 Está prohibido realizar cualquier acto que lesione y provoque sufrimiento a los animales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
+
+###### Artículo 29
+
+Bis. Quedan estrictamente prohibidos los espectáculos circenses ya sean públicos o privados, en los cuales exhiban o utilicen animales cualquiera que sea su especie.
 
 ###### Artículo 30.
 
@@ -685,6 +747,18 @@ Las sanciones serán calificadas por la autoridad resolutora, por principio de p
 
 Se impondrán multas de diez a trescientos días de salario mínimo vigente en la zona a quien realice actividades en contravención a las disposiciones de esta ley, en cuyo caso su fijación deberá determinarse atendiendo a la gravedad del hecho y a las circunstancias personales del infractor.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE AGOSTO DE 2015)</small>
+
+Se sancionará con el equivalente de quinientos a dos mil días de salario mínimo vigente en la zona a quién realice espectáculos circenses públicos o privados en los cuales exhiban o utilicen animales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE AGOSTO DE 2015)</small>
+
+La sanción señalada en el párrafo que antecede se aplicará independientemente de las sanciones que disponga el Código Penal para el Estado Libre y Soberano de Jalisco.
+
 ###### Artículo 79.
 
 Cuando la autoridad lo considere necesario y de acuerdo con el acto realizado en contravención a la ley, la conducta podrá ser sancionada con arresto administrativo, clausura y/o revocación de la licencia, de conformidad con la reglamentación correspondiente.
@@ -760,3 +834,21 @@ CUARTO. Para el seguimiento de los delitos derivados de la violencia contra los 
 P.O. 20 DE DICIEMBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 22 DE AGOSTO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrara en vigor a los ciento ochenta días naturales siguientes a su publicación en el periódico oficial “El Estado de Jalisco”.
+
+###### ARTÍCULO SEGUNDO.
+
+A los circos que previo a la entrada en vigor del presente decreto cuenten con permiso o autorización para operar expedidos por la autoridad municipal, no les será renovado éste.
+
+###### ARTÍCULO TERCERO.
+
+Los ayuntamientos tendrán un término de noventa días para adecuar sus reglamentos al presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones legales que se opongan al presente decreto.
