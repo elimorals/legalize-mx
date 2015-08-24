@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-turismo-y-43982"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-25"
-last_updated: "2007-05-28"
+last_updated: "2015-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,15 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO Y DESARROLLO ARTESANAL
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO Y DESARROLLO ARTESANAL
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO Y DESARROLLO ARTESANAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE MAYO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2015.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 25 de febrero de 2005.
 
-ARTURO MONTIEL ROJAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIERE EL ARTICULO 77 FRACCIONES II, IV, XXVIII, XXXVIII Y XLII DE LA CONSTITUCION POLlTICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO, Y CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTICULOS 2 Y 8 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO; Y
+ARTURO MONTIEL ROJAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIERE EL ARTICULO 77 FRACCIONES II, IV, XXVIII, XXXVIII Y XLII DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO, Y CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTICULOS 2 Y 8 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO; Y
 
-CONSIDERANDO.
+CONSIDERANDO...
 
 En mérito de lo expuesto, he tenido a bien expedir el siguiente:
 
@@ -213,9 +213,7 @@ XVII. Asesorar y apoyar técnicamente a quien lo solicite en la explotación de 
 
 XVIII. Desarrollar proyectos para la construcción, modernización, rehabilitación, ampliación y funcionamiento de la infraestructura de servicios turísticos.
 
-> <small>(ADICIONADA, G.G. 28 DE MAYO DE 2007)</small>
-
-XIX. Establecer y desarrollar métodos y técnicas para la recopilación, procesamiento y producción de información estadística en materia turística.
+XIX. (DEROGADA, G.G. 24 DE AGOSTO DE 2015)
 
 > <small>(ADICIONADA, G.G. 28 DE MAYO DE 2007)</small>
 
@@ -251,7 +249,7 @@ VIII. Tramitar los movimientos de altas, bajas, cambios, permisos y licencias de
 
 IX. Promover y coordinar las actividades de capacitación, adiestramiento y motivación dirigidas a los servidores públicos de la Secretaría.
 
-X. Presidir el Comité de Adquisiciones y Servicios de la Secretaría, de acuerdo con la normatividad aplicable.
+X. (DEROGADA, G.G. 24 DE AGOSTO DE 2015)
 
 XI. Coordinar y, en su caso, ejecutar los procedimientos de adquisición de bienes y contratación de servicios que requiera la Secretaría, de acuerdo con la normatividad aplicable.
 
@@ -265,9 +263,9 @@ XIV. Diseñar y proponer instrumentos técnico administrativos para mejorar la a
 
 XV. Integrar y mantener actualizados los manuales administrativos de la Secretaría y someterlos a la aprobación de la Secretaría de Finanzas.
 
-> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2015)</small>
 
-XVI. Participar en el Comité Central de Adquisiciones y Servicios, en el Comité de Arrendamientos, Adquisiciones de Inmuebles y Enajenaciones, y en el Comité Interno de Obra Pública de la Secretaría, de conformidad con lo dispuesto por la normatividad en la materia.
+XVI. Participar en el Comité Central de Adquisiciones y Servicios, y en el Comité de Arrendamientos, Adquisiciones de Inmuebles y Enajenaciones, de conformidad con lo dispuesto en la normatividad en la materia.
 
 > <small>(ADICIONADA, G.G. 28 DE MAYO DE 2007)</small>
 
@@ -365,7 +363,7 @@ MANUEL CADENA MORALES
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.G. 28 DE MAYO DE 2007.
 
@@ -374,3 +372,11 @@ PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igualo menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 24 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo previsto en el presente Acuerdo.
