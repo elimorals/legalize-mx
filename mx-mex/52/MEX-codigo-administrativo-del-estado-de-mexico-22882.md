@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2015-08-19"
+last_updated: "2015-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -2697,9 +2697,9 @@ Este documento tendrá vigencia de un año y será de carácter personal e intra
 
 49 Quinquies.- Son requisitos para la expedición del Dictamen de Factibilidad de Impacto Sanitario:
 
-l. Solicitud firmada por el interesado que deberá presentar vía electrónica o por escrito, manifestando, bajo protesta de decir verdad, que los datos en ella contenidos son ciertos.
+I. Solicitud firmada por el interesado que deberá presentar vía electrónica o por escrito, manifestando, bajo protesta de decir verdad, que los datos en ella contenidos son ciertos.
 
-ll. A la solicitud se acompañará el original para cotejo y copia de:
+II. A la solicitud se acompañará el original para cotejo y copia de:
 
 a. Identificación oficial vigente del solicitante que contenga fotografía y firma. En caso de que no sea él quien realice el trámite, el representante legal deberá presentar poder notarial y copia de identificación oficial del poderdante, apoderado y dos testigos. Tratándose de personas jurídico colectivas deberán presentar el instrumento notarial con el que se acredite la personalidad.
 
@@ -2863,9 +2863,9 @@ Las escalas de los cuerpos técnico profesional están integradas por el persona
 
 49 Septies.- Para efectos del presento Capítulo, el Consejo Rector de Impacto Sanitario tendrá las funciones siguientes:
 
-l. Emitir el Dictamen de Factibilidad de Impacto Sanitario, para el funcionamiento de rastros.
+I. Emitir el Dictamen de Factibilidad de Impacto Sanitario, para el funcionamiento de rastros.
 
-ll. Elaborar el diagnóstico de la situación que prevalece en materia de rastros y su impacto sanitario en la comunidad, debiéndose allegar para ello de la información correspondiente.
+II. Elaborar el diagnóstico de la situación que prevalece en materia de rastros y su impacto sanitario en la comunidad, debiéndose allegar para ello de la información correspondiente.
 
 III. Proponer programas y acciones tendientes a combatir el maltrato y sufrimiento animal en colaboración con las dependencias del Ejecutivo del Estado, organismos auxiliares de carácter estatal y municipal, y de los sectores social y privado.
 
@@ -3275,7 +3275,7 @@ Una vez aplicada esta medida de seguridad se podrá iniciar con el procedimiento
 
 74.- En caso de reincidencia se duplicará el monto de la multa que corresponda. Se entiende por reincidencia que el infractor cometa la misma violación a las disposiciones de este Título dos o más veces dentro del periodo de un año, contado a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior.
 
-(REUBICADO [N. DE E. REFORMADO ANTES ARTÍCULO 2.56], G.G. 30 DE SEPTIEMBRE DE 2010)
+(REUBICADO [N. DE E. Y REFORMADO ANTES ARTÍCULO 2.56], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ### CAPITULO TERCERO. De la vigilancia
 
@@ -7027,7 +7027,7 @@ III. La Secretaría de Finanzas, a quien corresponde las atribuciones relativas 
 
 5.- El transporte que se realiza en la infraestructura vial se clasifica en:
 
-l. De pasajeros, que puede ser:
+I. De pasajeros, que puede ser:
 
 a) Colectivo, que es el que se ofrece al público en general, de manera colectiva, uniforme y permanente;
 
@@ -7129,7 +7129,7 @@ IV. Informar a los propietarios o poseedores de las unidades de manera pronta y 
 
 13.- Además de lo dispuesto en el artículo anterior, los conductores de los servicios sujetos a concesión o permiso deberán:
 
-l. Abstenerse de prestar el servicio en vehículos no autorizados;
+I. Abstenerse de prestar el servicio en vehículos no autorizados;
 
 II. Aprobar los exámenes médicos, psicológicos, farmacológicos y otros que se establezcan en las disposiciones administrativas;
 
@@ -7151,7 +7151,7 @@ V. Denunciar la comisión de cualquier delito al interior de la unidad o del que
 
 14.- Los propietarios o poseedores de vehículos automotores, tendrán las obligaciones siguientes:
 
-l. Contar con el equipo de seguridad y accesorios necesarios de acuerdo al tipo de vehículo que se trate;
+I. Contar con el equipo de seguridad y accesorios necesarios de acuerdo al tipo de vehículo que se trate;
 
 II. Tramitar los cambios de domicilio, de propietario, de motor u otras modificaciones al vehículo ante las secretarías de Finanzas o de Transporte, según corresponda;
 
@@ -7169,7 +7169,7 @@ V. Hacer del conocimiento de las autoridades correspondientes, de manera pronta 
 
 15.- Tratándose de transporte de uso comercial, adicionalmente a las disposiciones del artículo anterior los propietarios o poseedores de vehículos automotores deberán:
 
-l. Someter los vehículos a la revisión físico-mecánica con la periodicidad y términos que señalen las disposiciones secundarias;
+I. Someter los vehículos a la revisión físico-mecánica con la periodicidad y términos que señalen las disposiciones secundarias;
 
 II. Para estos efectos, los propietarios o poseedores de vehículos automotores que cuenten con los elementos técnicos conforme a la norma oficial respectiva podrán realizar la revisión, en términos de las disposiciones secundarias correspondientes; y
 
@@ -7223,7 +7223,7 @@ Ninguna autorización que se otorgue tendrá una vigencia mayor a la de las conc
 
 21.- Requerirán permiso:
 
-l. Los servicios de transporte de pasajeros especializado y el de carga;
+I. Los servicios de transporte de pasajeros especializado y el de carga;
 
 II. Los servicios auxiliares de arrastre y traslado;
 
@@ -7271,7 +7271,7 @@ Queda prohibido el otorgamiento de concesión, permiso o autorización a vehícu
 
 26.- Son obligaciones de los concesionarios y permisionarios:
 
-l. Prestar el servicio en los términos del presente Libro, de su reglamento y de la concesión o permiso;
+I. Prestar el servicio en los términos del presente Libro, de su reglamento y de la concesión o permiso;
 
 II. Prestar el servicio obligatoriamente cuando lo requiera la Secretaría de Transporte, en casos de riesgo o desastre, con arreglo a las disposiciones del Libro Sexto de este Código;
 
@@ -7345,7 +7345,7 @@ Las tarifas deberán establecer los descuentos que en su caso existan para perso
 
 28.- Cualquier persona puede hacer uso del transporte público, previo pago de la tarifa en vigor, accediendo a éste a través de los sistemas, medios y dispositivos que sean determinados y aprobados; y, en consecuencia, los concesionarios estarán obligados a prestarlo, salvo cuando el solicitante:
 
-l. Se encuentre en notorio estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos;
+I. Se encuentre en notorio estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos;
 
 II. Ejecute o haga ejecutar a bordo de los vehículos actos que atenten contra la tranquilidad, seguridad e integridad de los usuarios; y
 
@@ -7389,7 +7389,7 @@ La intervención durará estrictamente el tiempo por el que subsista la causa qu
 
 33.- Las concesiones y permisos se sujetarán, adicionalmente a lo ya establecido en este Libro, a lo siguiente:
 
-l. Requerirán autorización previa de quien haya otorgado la concesión o permiso para ceder los derechos y obligaciones correspondientes, conforme se establezca en el reglamento;
+I. Requerirán autorización previa de quien haya otorgado la concesión o permiso para ceder los derechos y obligaciones correspondientes, conforme se establezca en el reglamento;
 
 II. En ningún caso se podrán ceder, ni en forma alguna gravar, transferir o enajenar los derechos que deriven de las concesiones o permisos a ningún gobierno o estado extranjero; y
 
@@ -7427,7 +7427,7 @@ La terminación de la concesión o el permiso no exime a su titular de las respo
 
 35.- Las concesiones y permisos se podrán revocar por cualquiera de las causas siguientes:
 
-l. No cumplir, sin causa justificada, con el objeto, obligaciones o condiciones de las concesiones y permisos en los términos establecidos en ellos;
+I. No cumplir, sin causa justificada, con el objeto, obligaciones o condiciones de las concesiones y permisos en los términos establecidos en ellos;
 
 II. Interrumpir el concesionario la operación de la vía o la prestación del servicio de transporte, parcial o totalmente, sin causa justificada;
 
@@ -8731,7 +8731,7 @@ Para efectos del párrafo anterior, se consideran estacionamientos de servicio a
 
 > <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-l. En materia de tránsito, con las multas establecidas en los reglamentos correspondientes, las que no podrán exceder por cada infracción de 20 días de salario mínimo vigente en el área geográfica de que se trate al momento de la misma, sin que en su conjunto exceda de 50 días de salarios mínimos, que aplicará la autoridad competente.
+I. En materia de tránsito, con las multas establecidas en los reglamentos correspondientes, las que no podrán exceder por cada infracción de 20 días de salario mínimo vigente en el área geográfica de que se trate al momento de la misma, sin que en su conjunto exceda de 50 días de salarios mínimos, que aplicará la autoridad competente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -8807,7 +8807,7 @@ II. Vialidad: serán aquellos responsables de vigilar que en el tránsito de veh
 
 19 Ter.- Además de las señaladas en el artículo 8.19 las autoridades de tránsito tendrán las atribuciones siguientes:
 
-l. Detener la marcha de un vehículo, cuando la autoridad correspondiente establezca y lleve a cabo operativos o programas de control y preventivos de ingestión de alcohol u otras substancias tóxicas para conductores de vehículos;
+I. Detener la marcha de un vehículo, cuando la autoridad correspondiente establezca y lleve a cabo operativos o programas de control y preventivos de ingestión de alcohol u otras substancias tóxicas para conductores de vehículos;
 
 II. Someter a los conductores a las pruebas para la detección del grado de intoxicación, a través de los médicos adscritos a la Oficialía Calificadora, con aparatos médico-científicos de detección de alcohol y otras substancias tóxicas que establezca este Libro;
 
@@ -10409,9 +10409,17 @@ V. Las que participen en un procedimiento de adjudicación, perteneciendo a un m
 
 VI. Aquellas que hayan sido declaradas en suspensión de pagos, estado de quiebra o sujetas a concurso de acreedores;
 
-VII. Las que por cualquier causa se encuentren impedidas para ello por disposición de ley;
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2015)</small>
 
-VIII. Las demás que señale la reglamentación de este Libro.
+VII. Los proveedores, contratistas o particulares, sujetos a procedimiento por responsabilidad administrativa resarcitoria, con independencia de que se afecten recursos económicos del Estado o de los concertados o convenidos con la Federación y los municipios, que se traduzcan en daños y perjuicios estimables en dinero, causados a la Hacienda Pública del Estado, del Municipio o al patrimonio de sus Organismos Auxiliares y Fideicomisos Públicos.
+
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2015)</small>
+
+VIII. Los proveedores, contratistas o particulares, a quienes se les haya impuesto responsabilidad administrativa resarcitoria, entre tanto no realicen la indemnización respectiva.
+
+> <small>(ADICIONADA, G.G. 24 DE AGOSTO DE 2015)</small>
+
+IX. Las que por cualquier causa se encuentren impedidas para ello por disposición de ley y las demás que señale la reglamentación de este libro.
 
 En los términos que se precisarán en el Reglamento de este Libro, la Contraloría llevará el registro de las personas físicas o jurídicas que se encuentren en cualquiera de los supuestos a que se refieren las fracciones III y IV de este artículo, dará a conocer a las dependencias y entidades y recibirá de éstas la información correspondiente para la integración y difusión de dicho registro.
 
@@ -12703,7 +12711,7 @@ IV. El procedimiento de adjudicación que se seguirá y la justificación para e
 
 V. Un documento que resuma los elementos principales que contendrá el Contrato, incluyendo: una descripción de los servicios que prestará el Proveedor y la situación jurídica de los bienes con los que el Proveedor prestará los servicios a contratarse; la duración del Contrato; un análisis de los principales riesgos que asumirán tanto la Unidad Contratante como el Proveedor, así como las consecuencias económicas para ambas partes; y las obligaciones de pago que asumirán las partes en caso de la terminación anticipada o rescisión del Contrato; y
 
-\/I. En su caso, la solicitud de autorización a la que se refiere el artículo 16.16 de este Libro.
+VI. En su caso, la solicitud de autorización a la que se refiere el artículo 16.16 de este Libro.
 
 En caso de que la Unidad Contratante omitiera presentar la información prevista en el presente artículo, éste podrá entregar la información faltante en los términos y conforme a los plazos que al efecto se señalen en el reglamento de este Libro.
 
@@ -13109,7 +13117,7 @@ En la evaluación de las ofertas podrán utilizarse mecanismos de puntos o porce
 
 En caso de que se utilice el mecanismo de puntos y porcentajes para la evaluación de propuestas, la adjudicación del Contrato será para el Licitante con mayor puntaje de acuerdo al sistema establecido en las bases de licitación.
 
-En caso de no utilizar un mecanismo de puntos y porcentajes, el Contrato se adjudicará de entre los Licitantes, a aquél cuya propuesta resulte solvente porque reúne, conforme a los criterios de adjudicación establecidos en las bases de licitación, las condiciones legales, técnicas y económicas requeridas por la Unidad Contratante, y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas. Si resultare que dos o más ofertas son solventes porque satisfacen la totalidad de los requerimientos solicitados por la Unidad Contratante, el Contrato se adjudicará a quien presente la proposición cuyo precio sea el más bajo, .calculando dicho precio conforme a la determinación de precios previstos en los lineamientos y metodología para el Análisis Costo-Beneficio que emita la Secretaría.
+En caso de no utilizar un mecanismo de puntos y porcentajes, el Contrato se adjudicará de entre los Licitantes, a aquél cuya propuesta resulte solvente porque reúne, conforme a los criterios de adjudicación establecidos en las bases de licitación, las condiciones legales, técnicas y económicas requeridas por la Unidad Contratante, y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas. Si resultare que dos o más ofertas son solventes porque satisfacen la totalidad de los requerimientos solicitados por la Unidad Contratante, el Contrato se adjudicará a quien presente la proposición cuyo precio sea el más bajo, calculando dicho precio conforme a la determinación de precios previstos en los lineamientos y metodología para el Análisis Costo-Beneficio que emita la Secretaría.
 
 El administrador del Proyecto o en su caso, el Comité de Proyectos emitirá un dictamen que servirá como base para el fallo que deberá emitir la Unidad Contratante, en el que se hará constar una reseña cronológica de los actos del procedimiento, el análisis de las ofertas y las razones para admitirlas o desecharlas.
 
@@ -13453,7 +13461,7 @@ Son de jurisdicción local las comunicaciones, vialidades, carreteras, caminos d
 
 2.- Las disposiciones de este Libro tienen como finalidad:
 
-l. Que se cuente con las comunicaciones necesarias y seguras para la integración del Estado y los municipios al desarrollo estatal y nacional;
+I. Que se cuente con las comunicaciones necesarias y seguras para la integración del Estado y los municipios al desarrollo estatal y nacional;
 
 > <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
 
@@ -13611,7 +13619,7 @@ Para los efectos de este artículo la Secretaría contará con un registro de v�
 
 11.- La infraestructura vial se clasifica en:
 
-l. Infraestructura vial primaria; y
+I. Infraestructura vial primaria; y
 
 II. Infraestructura vial local.
 
@@ -13629,7 +13637,7 @@ La infraestructura vial local será aquella que no sea considerada vial primaria
 
 12.- Los usuarios de la infraestructura vial tendrán las obligaciones siguientes:
 
-l. Respetar el derecho de vía y su zona de seguridad;
+I. Respetar el derecho de vía y su zona de seguridad;
 
 II. Cubrir las tarifas correspondientes en la infraestructura vial de cuota;
 
@@ -13663,7 +13671,7 @@ Se requiere permiso previo de la Secretaría para la ejecución de obras e insta
 
 15.- Los permisionarios del derecho de vía y su zona de seguridad están obligados a:
 
-l. Responder por los daños que pudieran causar a la infraestructura vial y a terceros, por defectos o vicios ocultos en las construcciones que realicen o en los trabajos de instalación, reparación y conservación;
+I. Responder por los daños que pudieran causar a la infraestructura vial y a terceros, por defectos o vicios ocultos en las construcciones que realicen o en los trabajos de instalación, reparación y conservación;
 
 II. Mantener en buen estado las obras que ejecuten, conservando la seguridad y estética de las mismas;
 
@@ -13845,7 +13853,7 @@ Cualquier incumplimiento a las obligaciones previstas en el presente artículo q
 
 34.- El Programa Estatal de Publicidad Exterior establecerá como mínimo lo siguiente:
 
-l. Los tramos de vialidades, carreteras, autopistas, pasos vehiculares, avenidas, calzadas que componen la Infraestructura Vial Primaria donde se podrá autorizar la instalación de Publicidad Exterior;
+I. Los tramos de vialidades, carreteras, autopistas, pasos vehiculares, avenidas, calzadas que componen la Infraestructura Vial Primaria donde se podrá autorizar la instalación de Publicidad Exterior;
 
 II. El establecimiento de corredores de publicidad exterior en ciertas zonas de la Infraestructura Vial Primaria;
 
@@ -13869,7 +13877,7 @@ IX. Precisión de los casos en que por razones de interés general se deba proce
 
 35.- Sin menoscabo de lo que se disponga en el Programa Estatal de Publicidad Exterior, en todo caso está prohibida la instalación de cualquier publicidad exterior provisional o permanente en:
 
-l. Puentes vehiculares, pasos a desnivel, muros de contención y taludes;
+I. Puentes vehiculares, pasos a desnivel, muros de contención y taludes;
 
 II. Monumentos arqueológicos, artísticos e históricos;
 
@@ -13943,7 +13951,7 @@ Las disposiciones reglamentarias aplicables y la Secretaría, mediante disposici
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
-l. La Secretaría, de oficio o a petición de parte interesada, previo estudio, podrá expedir convocatoria pública para que, en el plazo que se establezca en la reglamentación de este Libro, se presenten propuestas;
+I. La Secretaría, de oficio o a petición de parte interesada, previo estudio, podrá expedir convocatoria pública para que, en el plazo que se establezca en la reglamentación de este Libro, se presenten propuestas;
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -14021,7 +14029,7 @@ La Secretaría establecerá mediante disposiciones administrativas de carácter 
 
 43.- La ampliación o disminución del plazo procederá cuando existan los casos siguientes:
 
-l. Existan causas no imputables a los concesionarios, debidamente justificadas que ocasionen el retraso en los programas correspondientes, en la misma proporción del retraso;
+I. Existan causas no imputables a los concesionarios, debidamente justificadas que ocasionen el retraso en los programas correspondientes, en la misma proporción del retraso;
 
 II. Se hayan generado nuevas inversiones, con motivo de adecuaciones u obras y equipos adicionales al proyecto;
 
@@ -14045,7 +14053,7 @@ V. En general cualquier consideración de carácter financiero que ocurra durant
 
 La Secretaría establecerá, en su caso, las nuevas condiciones de la concesión, para lo cual deberá tomar en cuenta:
 
-l. La inversión;
+I. La inversión;
 
 II. Los costos futuros de ampliación y mejoramiento; y
 
@@ -14059,7 +14067,7 @@ III. Las demás proyecciones financieras y operativas que considere la rentabili
 
 > <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
 
-l. El monto de la inversión;
+I. El monto de la inversión;
 
 > <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -14077,7 +14085,7 @@ III. La obligación del concesionario para renovar, conservar y mantener en buen
 
 > <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
 
-l. En todos los casos:
+I. En todos los casos:
 
 > <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
@@ -14123,7 +14131,7 @@ c) Solicitar y justificar mediante el estudio correspondiente cualquier modifica
 
 47.- Las concesiones y permisos se sujetarán a lo siguiente:
 
-l. En los casos permitidos en este Libro, requerirán autorización previa de quien haya otorgado la concesión o permiso para ceder los derechos y obligaciones correspondientes, conforme se establezca en el reglamento y en el título de concesión correspondiente;
+I. En los casos permitidos en este Libro, requerirán autorización previa de quien haya otorgado la concesión o permiso para ceder los derechos y obligaciones correspondientes, conforme se establezca en el reglamento y en el título de concesión correspondiente;
 
 II. En ningún caso se podrán ceder, ni en forma alguna gravar, transferir o enajenar los derechos que deriven de las concesiones o permisos a ningún gobierno o estado extranjero; ni a sociedades mercantiles que no reúnan los requisitos que se establezcan para ser concesionario;
 
@@ -14155,7 +14163,7 @@ b) Al término de la concesión o sus modificaciones, los bienes objeto de la co
 
 > <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
 
-l. Prestar el servicio en los términos del presente Libro, de su reglamento y de la concesión;
+I. Prestar el servicio en los términos del presente Libro, de su reglamento y de la concesión;
 
 > <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -14221,7 +14229,7 @@ XV. Las demás que señalen este Libro y otras disposiciones legales, reglamenta
 
 > <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
 
-l. Se encuentre en notorio estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos;
+I. Se encuentre en notorio estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos;
 
 > <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -14273,7 +14281,7 @@ La garantía podrá constituirse por un lapso que en ningún caso comprenderá l
 
 55.- Las concesiones y permisos terminan por:
 
-l. Vencimiento del plazo establecido en el título de la concesión o permiso, o de la prórroga que se hubiera otorgado;
+I. Vencimiento del plazo establecido en el título de la concesión o permiso, o de la prórroga que se hubiera otorgado;
 
 II. Renuncia del titular;
 
@@ -14299,7 +14307,7 @@ La terminación de la concesión o el permiso no exime a su titular de las respo
 
 56.- Las concesiones y permisos se podrán revocar por cualquiera de las causas siguientes:
 
-l. No cumplir, sin causa justificada, con el objeto, obligaciones o condiciones de las concesiones y permisos en los términos establecidos en ellos;
+I. No cumplir, sin causa justificada, con el objeto, obligaciones o condiciones de las concesiones y permisos en los términos establecidos en ellos;
 
 II. Interrumpir el concesionario la operación de la vía parcial o totalmente, sin causa justificada;
 
@@ -14377,7 +14385,7 @@ XIII. Las demás previstas en este Libro y la concesión o permiso respectivo.
 
 63.- Los Organismos Auxiliares sectorizados conforme a su competencia emitirán los siguientes dictámenes:
 
-l. El dictamen de incorporación vial establecido en el artículo 17.59;
+I. El dictamen de incorporación vial establecido en el artículo 17.59;
 
 II. El dictamen de procedencia para helipuertos y aeropistas establecido en el artículo 17.61; y
 
@@ -14491,7 +14499,7 @@ La organización y funcionamiento de la Junta se rige por el reglamento interno 
 
 69.- El patrimonio de la Junta se integra con:
 
-l. Los bienes, instalaciones, derechos y activos que le aporten los gobiernos federal, estatal y municipales, o los particulares;
+I. Los bienes, instalaciones, derechos y activos que le aporten los gobiernos federal, estatal y municipales, o los particulares;
 
 II. Las aportaciones, recursos y demás ingresos que le proporcionen la Federación, el Estado, los municipios y los particulares en términos de los convenios y acuerdos respectivos;
 
@@ -14515,7 +14523,7 @@ Los ingresos del Organismo, así como los productos e instrumentos financieros a
 
 71.- El Sistema, para el cumplimiento de su objeto, tiene las atribuciones siguientes:
 
-l. Proponer y ejecutar planes, programas, proyectos y acciones para el diseño, construcción, administración, rehabilitación y mantenimiento de la infraestructura vial de cuota;
+I. Proponer y ejecutar planes, programas, proyectos y acciones para el diseño, construcción, administración, rehabilitación y mantenimiento de la infraestructura vial de cuota;
 
 II. Emitir el dictamen de procedencia técnica para la construcción y/u operación de helipuertos y aeropistas;
 
@@ -14595,7 +14603,7 @@ La organización y funcionamiento del Sistema se rige por el reglamento interno 
 
 75.- El patrimonio del Sistema se integra con:
 
-l. Los bienes y recursos que obtenga con motivo de las concesiones y contratos que se otorguen o celebren en materia de infraestructura vial de cuota;
+I. Los bienes y recursos que obtenga con motivo de las concesiones y contratos que se otorguen o celebren en materia de infraestructura vial de cuota;
 
 II. Los bienes, instalaciones, derechos y activos que le aporten los gobiernos federal, estatal y municipales, o los particulares;
 
@@ -14621,7 +14629,7 @@ Los ingresos del Sistema, así como los productos e instrumentos financieros aut
 
 > <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
 
-l. Proponer y ejecutar planes, programas, proyectos y acciones para el diseño, construcción, operación, administración, explotación, conservación, rehabilitación y mantenimiento de los sistemas de transporte de alta capacidad y teleférico, de las estaciones de transferencia modal, así como de las de origen-destino e intermedias que se requieren para el eficiente funcionamiento del teleférico;
+I. Proponer y ejecutar planes, programas, proyectos y acciones para el diseño, construcción, operación, administración, explotación, conservación, rehabilitación y mantenimiento de los sistemas de transporte de alta capacidad y teleférico, de las estaciones de transferencia modal, así como de las de origen-destino e intermedias que se requieren para el eficiente funcionamiento del teleférico;
 
 > <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
 
@@ -14715,7 +14723,7 @@ La organización y funcionamiento del Sistema se rige por el Reglamento Interno 
 
 > <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
 
-l. Los bienes y recursos que obtenga con motivo de las concesiones, permisos y contratos que se otorguen o celebren en materia de infraestructura de transportes de alta capacidad, teleférico, así como de estaciones de transferencia modal y en las estaciones de origen-destino e intermedias relativas al sistema del teleférico;
+I. Los bienes y recursos que obtenga con motivo de las concesiones, permisos y contratos que se otorguen o celebren en materia de infraestructura de transportes de alta capacidad, teleférico, así como de estaciones de transferencia modal y en las estaciones de origen-destino e intermedias relativas al sistema del teleférico;
 
 II. Los bienes, instalaciones, derechos y activos que le aporten los gobiernos federal, estatal y municipales, o los particulares;
 
@@ -14739,7 +14747,7 @@ Los ingresos del Sistema, así como los productos e instrumentos financieros aut
 
 83.- El registro estatal de comunicaciones contendrá la información siguiente:
 
-l. Concesiones y permisos estatales;
+I. Concesiones y permisos estatales;
 
 II. Constitución de garantías;
 
@@ -14777,7 +14785,7 @@ El Registro Estatal de Comunicaciones será público y tendrá efectos declarati
 
 > <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
 
-l. Amonestación;
+I. Amonestación;
 
 > <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -17003,7 +17011,7 @@ QUINTO.- En los casos en que este Código y otras disposiciones legales refieran
 
 SEXTO.- El artículo 60-E no será aplicable para vehículos cuyo año modelo sea más antiguo que 2002. Los contribuyentes obligados al pago del Impuesto Sobre Tenencia o Uso de Vehículos establecido en la Sección Segunda del Capítulo Primero del Título Tercero del Código Financiero del Estado de México y Municipios respecto de estos vehículos, lo calcularán conforme a lo siguiente:
 
-l. En el caso de vehículos de uso particular, la determinación será atendiendo al número de cilindros del motor, conforme a lo siguiente:
+I. En el caso de vehículos de uso particular, la determinación será atendiendo al número de cilindros del motor, conforme a lo siguiente:
 
 NÚMERO DE CILINDROS TARIFA
 
@@ -17844,3 +17852,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se oponga al presente Decreto.
+
+G.G. 24 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
