@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2015-08-19"
+last_updated: "2015-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2015.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -729,6 +729,10 @@ Los Ayuntamientos al aprobar su presupuesto de egresos, deberán señalar la rem
 
 Las remuneraciones de todo tipo del Presidente Municipal, Síndicos, Regidores y servidores públicos en general, incluyendo mandos medios y superiores de la administración municipal, serán determinadas anualmente en el presupuesto de egresos correspondiente y se sujetarán a los lineamientos legales establecidos para todos los servidores públicos municipales.
 
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2015)</small>
+
+Los ayuntamientos podrán promover el financiamiento de proyectos productivos de las mujeres emprendedoras.
+
 XX. Autorizar la contratación de empréstitos, en términos de la Ley de Deuda Pública Municipal del Estado de México;
 
 XXI. Formular, aprobar y ejecutar los planes de desarrollo municipal y los Programas correspondientes;
@@ -760,6 +764,10 @@ XXII. Dotar de servicios públicos a los habitantes del municipio;
 > <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 2010)</small>
 
 XXIII. Preservar, conservar y restaurar el medio ambiente; así como generar las acciones necesarias a fin de crear áreas verdes que permitan mejorar la calidad de vida y convivencia social de los habitantes del municipio, establecidos como espacios públicos de conservación ambiental;
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2015)</small>
+
+Además, podrán fomentar una mayor asignación presupuestal para mantenimiento de parques, jardines e infraestructura municipal procurando que éste sea destinado a la generación de empleos para los adultos mayores en trabajos de conservación y mantenimiento.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4272,3 +4280,19 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Los Defensores Municipales de Derechos Humanos que se encuentren en funciones a la entrada en vigor del presente Decreto continuarán en su encargo hasta que sea designado quien deba suplirlos en el cargo conforme al presente Decreto.
+
+G.G. 24 DE AGOSTO DE 2015.
+
+DECRETO NÚMERO 498 POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO A LA FRACCIÓN XIX DEL ARTÍCULO 31 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 24 DE AGOSTO DE 2015.
+
+DECRETO NÚMERO 499 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XXIII DEL ARTÍCULO 31 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
