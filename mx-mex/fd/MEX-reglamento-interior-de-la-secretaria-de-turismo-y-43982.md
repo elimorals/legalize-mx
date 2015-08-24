@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-turismo-y-43982"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-25"
-last_updated: "2007-05-28"
+last_updated: "2015-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,400 +21,362 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO Y DESARROLLO ARTESANAL
 
-REGLAMENTO DE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO EN MATERIA DE PRESTAMOS HIPOTECARIOS
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO Y DESARROLLO ARTESANAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2015.
 
-Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 1 de octubre de 2002.
+Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 25 de febrero de 2005.
 
-AL MARGEN UN SELLO CON EL ESCUDO DE LA NACION.- PODER EJECUTIVO.- GUANAJUATO.
+ARTURO MONTIEL ROJAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIERE EL ARTICULO 77 FRACCIONES II, IV, XXVIII, XXXVIII Y XLII DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO, Y CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTICULOS 2 Y 8 DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO; Y
 
-JUAN CARLOS ROMERO HICKS, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, en ejercicio de la facultad que me confieren los artículos 77 fracciones II, III y XXI y 79 de la Constitución Política del Estado de Guanajuato; así como en lo dispuesto por los artículos 2°, 6° y 9º de la Ley Orgánica, del Poder Ejecutivo para el Estado, y
+CONSIDERANDO...
 
-C O N S I D E R A N D O.
+En mérito de lo expuesto, he tenido a bien expedir el siguiente:
 
-Por lo anteriormente expuesto y con fundamento en los preceptos legales invocados y consideraciones previamente señaladas, he tenido a bien expedir el siguiente:
+REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO Y DESARROLLO ARTESANAL
 
-DECRETO GUBERNATIVO NÚMERO 134
+### CAPITULO I. DE LA COMPETENCIA Y ORGANIZACION DE LA SECRETARIA
 
-###### ARTÍCULO ÚNICO.
+> <small>(REFORMADO, G.G. 28 DE MAYO DE 2007)</small>
 
-Se expide el Reglamento de la Ley de Seguridad Social del Estado de Guanajuato, en materia de préstamos hipotecarios, para quedar en los siguientes términos:
+###### Artículo 1.
 
-REGLAMENTO DE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO EN MATERIA DE PRÉSTAMOS HIPOTECARIOS
+El presente Reglamento tiene por objeto regular la organización y el funcionamiento de la Secretaría de Turismo.
 
-## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
+> <small>(REFORMADO, G.G. 28 DE MAYO DE 2007)</small>
 
-### CAPÍTULO ÚNICO. DEL OBJETO
+###### Artículo 2.
 
-###### ARTÍCULO 1°.
+La Secretaría de Turismo tiene a su cargo el despacho de los asuntos que le encomiendan la Ley Orgánica de la Administración Pública del Estado de México, el Código Administrativo del Estado de México, así como otras leyes, reglamentos, acuerdos y órdenes que expida el Gobernador del Estado.
 
-El presente Reglamento tiene por objeto establecer los requisitos y regular el procedimiento para otorgar los préstamos hipotecarios que de conformidad con lo establecido en la Ley de Seguridad Social del Estado, el Instituto de Seguridad Social del Estado de Guanajuato, debe otorgar a los asegurados y pensionistas.
+Cuando en este Reglamento se haga referencia a la Secretaría, se entenderá a la Secretaría de Turismo y Secretario, al Secretario de Turismo.
 
-El Instituto de Seguridad Social del Estado de Guanajuato, se identificará en lo subsiguiente mediante las siglas ISSEG.
+###### Artículo 3.
 
-###### ARTÍCULO 2°.
+Para el estudio, planeación y despacho de los asuntos de su competencia, así como para atender las funciones de control y evaluación que le corresponden, la Secretaría contará con un Secretario, quien para el desahogo de los asuntos de su competencia, se auxiliará de las unidades administrativas básicas siguientes:
 
-Lo no previsto por el presente Reglamento será resuelto por el Consejo Directivo del ISSEG.
+I. Dirección General de Turismo.
 
-## TÍTULO SEGUNDO. GENERALIDADES DE LOS PRÉSTAMOS HIPOTECARIOS
+II. Coordinación Administrativa.
 
-###### ARTÍCULO 3°.
+III. Unidad Jurídica.
 
-Tendrán derecho a obtener los préstamos hipotecarios, aquellos asegurados que hayan cotizado más de un año al ISSEG y los pensionistas directos.
+IV. Contraloría Interna.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+La Secretaría contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en el Manual General de Organización de esta dependencia. Asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, en términos de su estructura aprobada y de la normatividad aplicable.
 
-###### ARTÍCULO 4°.
+###### Artículo 4.
 
-Los préstamos hipotecarios, tendrán los destinos establecidos en el artículo 89 de la Ley.
+La Secretaría, Dirección General, Coordinación Administrativa, Unidad Jurídica, Contraloría Interna y demás unidades administrativas que integran a esta dependencia, conducirán sus actividades en forma coordinada y programada con base en lo señalado en el Plan de Desarrollo del Estado de México, así como en los programas regionales, sectoriales y especiales a cargo de la dependencia o en los que participe.
 
-Respecto de los bienes inmuebles objeto del préstamo hipotecario deberá constituirse hipoteca en primer y preferente lugar a favor del ISSEG como garantía de pago del préstamo otorgado.
+### CAPITULO II. DE LAS ATRIBUCIONES DEL SECRETARIO
 
-### CAPÍTULO I. DE LAS GENERALIDADES
+###### Artículo 5.
 
-###### ARTÍCULO 5°.
+El estudio, planeación, trámite y resolución de los asuntos competencia de la Secretaría, así como su representación, corresponden originalmente al Secretario, quien para su mejor atención y despacho, podrá delegar sus facultades en los servidores públicos subalternos, sin perder por ello la posibilidad de su ejercicio directo, excepto aquellas que por disposición de ley deban ser ejercidas en forma directa por él.
 
-Los préstamos hipotecarios podrán abarcar dos o más de los destinos establecidos en la Ley; en este supuesto, se formará un expediente único, debiendo integrarse con la documentación que corresponda a cada uno de ellos.
+###### Artículo 6.
 
-###### ARTÍCULO 6°.
+El Secretario tendrá las atribuciones siguientes:
 
-La documentación exhibida con la solicitud de cualesquiera de los préstamos hipotecarios, se deberá presentar en original o copia certificada; en caso de que se presuma algún documento alterado o falsificado, se cancelará el trámite pudiendo darse vista al Ministerio Público.
+I. Fijar, dirigir y controlar la política general de la Secretaría.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+II. Representar legalmente a la Secretaría con las facultades de un apoderado general para pleitos y cobranzas; actos de administración y para actos de dominio, con todas las facultades que requieran cláusula especial conforme a las disposiciones en la materia y sustituir y delegar esta representación en uno o más apoderados para que las ejerzan individual o conjuntamente.
 
-### CAPÍTULO II. DE LOS MONTOS A OTORGAR
+III. Someter a la consideración del Gobernador del Estado programas, estrategias y políticas para el desarrollo turístico y artesanal del Estado, llevar a cabo su coordinación y vigilar su cumplimiento.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+IV. Autorizar o revocar concesiones para la explotación de recursos turísticos en el Estado.
 
-###### ARTÍCULO 17.
+V. Vigilar el cumplimiento de los acuerdos, convenios y contratos que celebre el Gobierno del Estado en materia turística y artesanal.
 
-El ISSEG será quien determine el monto del préstamo con garantía hipotecaria de conformidad con lo establecido en el artículo 90 de la Ley.
+VI. Establecer lineamientos generales para la formulación y ejecución de los planes, programas y proyectos estratégicos del sector.
 
-###### ARTÍCULO 18.
+VII. Planear, coordinar, supervisar, vigilar, controlar y evaluar, en términos de la legislación aplicable, las funciones de los organismos auxiliares sectorizados a la Secretaría.
 
-Las deducciones quincenales por concepto del pago del préstamo hipotecario, serán calculadas sobre el sueldo base de cotización en el caso de los asegurados; tratándose de los pensionistas, las deducciones serán calculadas sobre el seguro base.
+VIII. Proponer al titular del Ejecutivo del Estado, a través de la Secretaría General de Gobierno, proyectos de iniciativas de leyes y decretos, así como de reglamentos, acuerdos y convenios sobre los asuntos competencia de la Secretaría y de los organismos auxiliares sectorizados a esta dependencia.
 
-El porcentaje máximo de las deducciones será el que determine el Consejo Directivo de conformidad con el artículo 91 de la Ley de Seguridad Social del Estado de Guanajuato.
+IX. Suscribir acuerdos, convenios y contratos en las materias competencia de la Secretaría.
 
-###### ARTÍCULO 19.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
 
-Se establece como modalidad de pago, la de pagos crecientes, cuya deducción aumentará de manera directamente proporcional a los incrementos del sueldo base de cotización o de seguro base dentro de los límites del artículo 77 de la Ley de Seguridad Social del Estado de Guanajuato.
+X. Aprobar la organización de la Secretaría y de los organismos auxiliares sectorizados a esta dependencia y someterla a la autorización de la Secretaría de Finanzas.
 
-###### ARTÍCULO 7°.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
 
-Los títulos con los que se pretenda acreditar la propiedad del inmueble a hipotecar, deberán garantizar las mejores condiciones de seguridad jurídica y económica, tanto para el solicitante como para el ISSEG, razón por la cual, es facultad del Consejo Directivo determinarla en cada caso.
+XI. Aprobar los anteproyectos de ingresos y presupuesto anual de egresos de la Secretaría, remitiéndolos a la Secretaría de Finanzas para su revisión correspondiente, así como sancionar el de los organismos auxiliares bajo la coordinación de la Secretaría.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+XII. Comparecer ante la Legislatura del Estado, en términos de lo dispuesto por la Constitución Política del Estado Libre y Soberano de México, para informar de la situación que guarda su ramo o sector correspondiente, o bien cuando se discuta una ley o se estudie un asunto relacionado con sus funciones.
 
-###### ARTÍCULO 8º.
+XIII. Establecer normas, políticas, criterios, sistemas y procedimientos que rijan el funcionamiento de las unidades administrativas bajo su adscripción.
 
-El préstamo hipotecario deberá estar garantizado con un seguro en los términos del artículo 78 de la Ley.
+XIV. Acordar con el Gobernador del Estado los nombramientos de los titulares de las unidades administrativas a su cargo.
 
-###### ARTÍCULO 8°.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
 
-El asegurado o pensionista, adquirirá con el ISSEG un autoseguro a cargo del propio asegurado o pensionista y tendrá por objeto garantizar la liquidación del adeudo a favor del ISSEG, para el caso de incapacidad total o muerte.
+XV. Validar los manuales administrativos de la Secretaría y someterlos a la aprobación de la Secretaría de Finanzas.
 
-### CAPÍTULO III. DE LA DOCUMENTACIÓN GENERAL
+XVI. Desempeñar las comisiones y funciones que el Gobernador del Estado le confiera y mantenerlo informado del desarrollo de las mismas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MAYO DE 2009)</small>
+XVII. Resolver las dudas que se susciten con motivo de la interpretación o aplicación de este Reglamento, así como los casos no previstos en el mismo.
 
-###### ARTÍCULO 20.
+XVIII. Las demás que le establecen otras disposiciones legales y las que le encomiende el titular del Poder Ejecutivo Estatal.
 
-Los requisitos generales al préstamo hipotecario son los siguientes:
+### CAPITULO III. DEL DIRECTOR GENERAL
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+###### Artículo 7.
 
-I.- Llenar la solicitud en el formato preestablecido, en la cual deberá de constar la firma autógrafa del solicitante;
+Al frente de la Dirección General habrá un Director General, quien se auxiliará, en su caso, de directores de área, subdirectores, jefes de unidad y de departamento y demás servidores públicos que las necesidades del servicio requieran, de acuerdo con la estructura orgánica y presupuesto que le sean autorizados.
 
-II.- Acompañar último talón de pago;
+###### Artículo 8.
 
-III.- En el supuesto de ser casado el solicitante, deberá acompañar el acta respectiva, si estuviere viviendo en concubinato, se acreditará mediante información rendida ante la autoridad judicial competente; y
+Corresponde al Director General:
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+I. Planear, organizar, dirigir, controlar y evaluar el desempeño de las atribuciones y funciones encomendadas a la Dirección General a su cargo.
 
-IV.- Efectuar un pago por concepto de revisión técnica del expediente en los préstamos previstos en los Capítulos I y IV del Título Tercero de este Reglamento.
+II. Acordar con el Secretario la atención de los asuntos a su cargo que requieran de su intervención.
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2009)</small>
+III. Elaborar los dictámenes, opiniones, estudios e informes que les sean solicitados por el Secretario o los que le correspondan en razón de sus atribuciones.
 
-La Dirección de Prestaciones del ISSEG deberá validar la información y documentación contenida en la integración de los expedientes individuales, de conformidad con lo estipulado en el artículo 39 fracción V del Reglamento Interior del ISSEG.
+IV. Formular y proponer al Secretario los anteproyectos de programa anual de actividades y de presupuesto de la Dirección General a su cargo.
 
-## TÍTULO TERCERO. DESTINOS DEL PRÉSTAMO HIPOTECARIO
+V. Someter a la consideración del Secretario el ingreso, licencia, promoción, remoción y cese de los titulares de las unidades administrativas a su cargo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE MAYO DE 2009)</small>
+VI. Proponer al Secretario acciones para la modernización administrativa y llevar a cabo su cumplimiento.
 
-###### ARTÍCULO 9°.
+VII. Asesorar y apoyar técnicamente, en asuntos de su competencia, a los servidores públicos que lo soliciten.
 
-Sólo se autorizarán préstamos mancomunados en los siguientes casos.
+VIII. Colaborar con el Secretario en el desempeño de las funciones que tenga encomendadas como coordinador de sector respecto a los organismos auxiliares sectorizados a la Secretaría.
 
-I.- Entre cónyuges o entre concubinos;
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
 
-II.- Entre parientes por consanguinidad en primer grado en línea recta; y
+IX. Suscribir, en el ámbito de su competencia y previo acuerdo del Secretario, acuerdos y convenios para el cumplimiento de los programas y atribuciones a su cargo, así corno celebrar contratos en las materias que le corresponden.
 
-III.- En segundo grado transversal, siempre y cuando se encuentren libres de matrimonio.
+X. Coordinar sus actividades con las demás unidades administrativas de la Secretaría para el mejor cumplimiento de los programas, proyectos y acciones que le correspondan.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+XI. Suscribir los documentos relativos al ejercicio de sus funciones y aquellos que les sean señalados por autorización, delegación o los que le correspondan por suplencia.
 
-###### ARTÍCULO 10.
+XII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
 
-Si el inmueble que se pretende dar en garantía hipotecaria se encuentra sujeto a copropiedad, él o los copropietarios deberán de expresar su voluntad para hipotecar la totalidad del inmueble, y deberán comparecer a la firma del instrumento público que para el efecto se emita, quienes adquirirán el carácter de deudor solidario.
+### CAPITULO IV. DE LA DIRECCION GENERAL, COORDINACION ADMINISTRATIVA, UNIDAD JURIDICA Y CONTRALORIA INTERNA
 
-###### ARTÍCULO 11.
+###### Artículo 9.
 
-En ningún caso, se autorizarán los préstamos hipotecarios que tengan por objeto compraventas de inmuebles entre cónyuges o concubinos.
+Corresponde a la Dirección General de Turismo:
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
 
-###### ARTÍCULO 12.
+I. Elaborar y ejecutar programas, estrategias y políticas para el desarrollo turístico del Estado y evaluar sus resultados.
 
-En toda operación de compraventa realizada entre parientes civiles, consanguíneos o por afinidad, será necesaria la aplicación de una entrevista por parte de los abogados asignados a la Dirección Jurídica del ISSEG; en caso de que se presuma una simulación, se documentará tal situación y en su caso, se cancelará el trámite del préstamo hipotecario solicitado.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+II. Promover el desarrollo de la actividad turística del Estado, en coordinación con los sectores público, social y privado.
 
-### CAPÍTULO I. DEL PRÉSTAMO PARA ADQUISICIÓN DE CASA-HABITACIÓN O ADQUISICIÓN DE TERRENO PARA CONSTRUCCIÓN DE CASA-HABITACIÓN
+III. Impulsar la creación de consejos de fomento turístico regionales o municipales en aquellas zonas que presenten características para el desarrollo turístico.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MAYO DE 2009)</small>
+IV. Fomentar la inversión en la ampliación, mejora y diversificación de la oferta turística.
 
-###### ARTÍCULO 21.
+V. Emitir las resoluciones y opiniones que correspondan, en el ámbito de su competencia.
 
-Para el otorgamiento del préstamo destinado para la adquisición de casa-habitación o adquisición de terreno para construcción de casa-habitación, se requiere satisfacer los siguientes requisitos:
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
 
-I.- (DEROGADA, P.O. 15 DE MAYO DE 2009)
+VI. Impulsar el desarrollo del Estado, mediante el uso racional y óptimo de los recursos turísticos.
 
-II.- Certificado de libertad de Gravámenes del inmueble a adquirir, expedido por el Registro Público de la Propiedad;
+VII. Llevar a cabo el cumplimiento de las funciones que en materia de turismo le sean asignadas al Gobierno del Estado por la autoridad federal o aquéllas derivadas de convenios o acuerdos suscritos en la materia.
 
-III.- Escritura de propiedad del inmueble a adquirir,
+VIII. (DEROGADA, G.G. 28 DE MAYO DE 2007)
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+IX. Vigilar la prestación de los servicios turísticos concesionados y, en su caso, proponer medidas para mejorar la calidad de su prestación.
 
-IV.- Avalúo fiscal con referencia al valor comercial, elaborado por perito autorizado por el ISSEG, el cual deberá contar con la validación de la autoridad catastral;
+X. Promover actividades de carácter social, cultural, deportivo y recreativo de interés turístico, para lograr una mayor afluencia de visitantes al Estado.
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+XI. Integrar y mantener actualizado el inventario de atractivos turísticos en el Estado, así como el registro de los prestadores de servicios turísticos, vigilando el cumplimiento de las disposiciones aplicables.
 
-V.- Alineamiento y número oficial del inmueble, expedido por la autoridad municipal;
+XII. Identificar probables zonas turísticas en el Estado e impulsar, en su caso, su desarrollo.
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+XIII. Implementar acciones para la atención, información y apoyo al turista en el Estado.
 
-VI.- Recibo o constancia en el que se acredite estar al corriente en el pago del Impuesto Predial, en el bimestre posterior correspondiente al ingreso del expediente al ISSEG;
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+XIV. Fomentar el turismo para todos conjuntamente con organismos vinculados con esta actividad, a fin de que un mayor número de personas tengan acceso a la actividad turística.
 
-VII.- Contrato de promesa de venta con vigencia de cuatro meses posteriores a la fecha de presentación de la solicitud, el cual deberá contener el compromiso por parte del vendedor para el pago del Impuesto sobre la Renta y del comprador para el pago del Impuesto sobre Traslación de Dominio y Derechos. Si el precio de la operación en el contrato de la promesa de venta es superior al importe del préstamo hipotecario a que se tiene derecho, deberá señalarse que la diferencia excedente se cubrirá a la firma de las escrituras definitivas; y
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+XV. Promover, en coordinación con los sectores público, privado y social, la investigación, capacitación y cultura turística y llevar a cabo su divulgación.
 
-VIII.- Cuando se pretenda adquirir solamente una parte de algún inmueble, se requerirá del permiso de división o su equivalente expedido por la autoridad municipal competente.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+XVI. Organizar, coordinar y controlar eventos para difundir los atractivos turísticos del Estado.
 
-Para efectos del préstamo solicitado, el documento señalado en la fracción II deberá tener una vigencia de un mes, y los señalados en las fracciones IV y V de seis meses.
+XVII. Asesorar y apoyar técnicamente a quien lo solicite en la explotación de bienes y servicios relacionados con el turismo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
 
-###### ARTÍCULO 13.
+XVIII. Desarrollar proyectos para la construcción, modernización, rehabilitación, ampliación y funcionamiento de la infraestructura de servicios turísticos.
 
-En el caso de cónyuges casados bajo el régimen de sociedad conyugal o sociedad legal, será necesario que conste la voluntad por escrito de ambos de hipotecar en su totalidad el bien adquirido a favor del ISSEG, el cónyuge no asegurado, adquirirá el carácter de deudor solidario.
+XIX. (DEROGADA, G.G. 24 DE AGOSTO DE 2015)
 
-Tratándose de cónyuges sujetos al régimen de separación de bienes, el asegurado que pretenda hipotecar el inmueble propiedad de su consorte deberá contar con el consentimiento por escrito de éste y comparecer a la firma del instrumento público que para tal efecto se emita, quien adquirirá el carácter de deudor solidario.
+> <small>(ADICIONADA, G.G. 28 DE MAYO DE 2007)</small>
 
-### CAPÍTULO II
+XX. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
 
-DEL PRÉSTAMO PARA CONSTRUCCIÓN DE CASA HABITACIÓN EN TERRENO QUE YA SE TIENE EN PROPIEDAD Y DEL PRÉSTAMO PARA EFECTUAR AMPLIACIONES, REMODELACIONES O REPARACIONES A CASA HABITACIÓN
+###### Artículo 10.
 
-###### ARTÍCULO 22.
+Corresponde a la Coordinación Administrativa:
 
-Para el otorgamiento del préstamo destinado a la construcción de casa habitación en terreno que ya se tiene, y del préstamo para ampliar, remodelar o reparar la casa-habitación del asegurado o pensionista, se requiere satisfacer los siguientes requisitos:
+I. Programar, organizar y controlar el suministro, administración y aplicación de los recursos humanos, materiales, financieros y técnicos, así como los servicios generales necesarios para el funcionamiento de las unidades administrativas de la Secretaría.
 
-I.- (DEROGADA, P.O. 15 DE MAYO DE 2009)
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+II. Coordinar la formulación e integración del anteproyecto de ingresos y del presupuesto anual de egresos de la Secretaría y presentarlos a la Secretaría de Finanzas, así como realizar la calendarización de los recursos del presupuesto autorizado.
 
-II.- Certificado de libertad de gravamen, expedido por el Registro Público de la Propiedad;
+III. Cumplir y hacer cumplir las normas y políticas aplicables en materia de administración de recursos humanos, materiales y financieros.
 
-III.- Escritura de propiedad;
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+IV. Verificar la aplicación del presupuesto de las unidades administrativas de la Secretaría.
 
-IV.- Alineamiento y número oficial, expedido por la autoridad municipal;
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+V. Formular, conjuntamente con las unidades administrativas de la Secretaría, el programa anual de trabajo de la dependencia.
 
-V.- Permiso de construcción vigente, expedido por la autoridad municipal;
+VI. Administrar los recursos derivados de los convenios suscritos con las dependencias federales y estatales, y los que correspondan ser ejercidos por la Secretaría, informando de ello a las instancias competentes.
 
-VI.- Planos arquitectónicos del proyecto, autorizados, firmados y sellados por la Autoridad Municipal; y
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
 
-VII.- Presupuesto actualizado por conceptos desglosados sobre la base de precios unitarios, que incluyan material y mano de obra; firmado en todas sus hojas por el perito responsable de su elaboración.
+VII. Informar al Secretario, sobre el comportamiento y el ejercicio del gasto de la Secretaría.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+VIII. Tramitar los movimientos de altas, bajas, cambios, permisos y licencias de los servidores públicos de la Secretaría.
 
-Cuando el inmueble se encuentre en garantía hipotecaria con el ISSEG, se deberá presentar además la solicitud de autorización para hipotecar en segundo lugar el inmueble referido.
+IX. Promover y coordinar las actividades de capacitación, adiestramiento y motivación dirigidas a los servidores públicos de la Secretaría.
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2009)</small>
+X. (DEROGADA, G.G. 24 DE AGOSTO DE 2015)
 
-Para efectos del préstamo solicitado, el documento señalado en la fracción II deberá tener una vigencia de un mes, y los señalados en la fracción IV de seis meses.
+XI. Coordinar y, en su caso, ejecutar los procedimientos de adquisición de bienes y contratación de servicios que requiera la Secretaría, de acuerdo con la normatividad aplicable.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE MAYO DE 2009)</small>
+XII. Suscribir contratos y convenios derivados de los procesos adquisitivos de bienes y contrataciones de servicios, con base en la normatividad aplicable.
 
-### CAPÍTULO III. DEL PRÉSTAMO PARA EL PAGO DE ENGANCHE Y DE LOS GASTOS DE ESCRITURACIÓN CUANDO TENGA POR OBJETO LA ADQUISICIÓN DE VIVIENDA DE INTERÉS SOCIAL
+XIII. Supervisar el registro, mantenimiento y conservación de los bienes muebles e inmuebles de la Secretaría.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+XIV. Diseñar y proponer instrumentos técnico administrativos para mejorar la administración de los recursos asignados a la Secretaría.
 
-###### ARTÍCULO 23.
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
 
-Se entenderá por vivienda de interés social, aquella que reúna las características señaladas en la Ley de Vivienda para el Estado de Guanajuato.
+XV. Integrar y mantener actualizados los manuales administrativos de la Secretaría y someterlos a la aprobación de la Secretaría de Finanzas.
 
-###### ARTÍCULO 24.
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2015)</small>
 
-Este préstamo se otorgará en aquellos casos en los que, al solicitarse un préstamo hipotecario con el ISSEG para la adquisición de vivienda, el precio de ésta sea menor del monto máximo del préstamo a que tenga derecho el solicitante. Esta diferencia se aplicará al pago de enganche y gastos de escrituración.
+XVI. Participar en el Comité Central de Adquisiciones y Servicios, y en el Comité de Arrendamientos, Adquisiciones de Inmuebles y Enajenaciones, de conformidad con lo dispuesto en la normatividad en la materia.
 
-En ningún caso, el monto global por el préstamo otorgado para adquisición de vivienda, enganche y gastos de escrituración, excederá del monto máximo a que tenga derecho el solicitante.
+> <small>(ADICIONADA, G.G. 28 DE MAYO DE 2007)</small>
 
-###### ARTÍCULO 25.
+XVII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
 
-Para hacer efectivo este préstamo, el interesado podrá solicitarlo al integrar su expediente para la adquisición de vivienda.
+###### Artículo 11.
 
-### CAPÍTULO IV. DEL PRÉSTAMO PARA LIBERACIÓN DE GRAVÁMENES
+Corresponde a la Unidad Jurídica:
 
-###### ARTÍCULO 26.
+I. Representar a la Secretaría y a sus unidades administrativas en los asuntos jurídicos en los que sea parte, previo mandato que al efecto le otorgue el Secretario y realizar el oportuno seguimiento a los procedimientos hasta su conclusión.
 
-Para el otorgamiento en la modalidad de Liberación de Gravámenes, se requiere satisfacer los siguientes requisitos:
+II. Compilar y difundir los ordenamientos jurídicos relacionados con la organización y el funcionamiento de la Secretaría.
 
-I.- (DEROGADA, P.O. 15 DE MAYO DE 2009)
+III. Elaborar o revisar los proyectos de ordenamientos jurídicos que regulen la organización y el funcionamiento de la Secretaría y someterlos a la consideración y, en su caso, aprobación del Secretario.
 
-II.- Certificado de existencia de gravamen del inmueble a liberar, expedido por el Registro Público de la Propiedad;
+IV. Asesorar jurídicamente a los servidores públicos de la Secretaría en asuntos relacionados con sus funciones.
 
-III.- Escritura de propiedad y de hipoteca;
+V. Presentar las denuncias en contra de los probables responsables de la comisión de actos u omisiones en agravio de la Secretaría.
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+VI. Substanciar los recursos administrativos que se interpongan en contra de actos realizados por los servidores públicos de la Secretaría en el desarrollo de sus funciones.
 
-IV.- Avalúo comercial elaborado por perito autorizado por el ISSEG;
+VII. Contribuir a que las unidades administrativas de la Secretaría observen la normatividad en la que se sustenta su organización y funcionamiento.
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2009)</small>
+VIII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario.
 
-V.- Constancia actualizada expedida por el acreedor hipotecario, indicando el adeudo materia de gravamen. Si el adeudo de la constancia es superior al importe del préstamo a que se tiene derecho, deberá presentar documento que acredite el pago de la diferencia excedente; y
+###### Artículo 12.
 
-VI.- (DEROGADA, P.O. 15 DE MAYO DE 2009)
+Corresponde a la Contraloría Interna:
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+I. Vigilar el cumplimiento de los programas y subprogramas de las unidades administrativas de la Secretaría y elaborar los reportes correspondientes.
 
-El documento señalado en la fracción II, para el ISSEG tendrá una vigencia de un mes y el señalado en la fracción IV, de seis meses.
+II. Realizar operativos, supervisiones, revisiones, evaluaciones, auditorías y demás acciones de control y evaluación que le correspondan, a las unidades administrativas de la Secretaría, tendientes a verificar el cumplimiento de los objetivos, normas y disposiciones relacionadas con los sistemas de registro, contabilidad, contratación y pago de personal, contratación de servicios, obra pública, programas de inversión, adquisiciones, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos asignados a la dependencia y dar seguimiento a la atención de las observaciones derivadas de tales acciones.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE MAYO DE 2009)</small>
+III. Verificar el adecuado ejercicio del presupuesto de la Secretaría, atendiendo a los principios de racionalidad, austeridad y disciplina presupuestaria que establece la normatividad en la materia.
 
-## TÍTULO CUARTO. DEL CONVENIO MODIFICATORIO DEL PRÉSTAMO HIPOTECARIO Y DEL PRÉSTAMO HIPOTECARIO SUBSECUENTE
+IV. Recibir, tramitar y dar seguimiento a las quejas y denuncias que se interpongan en contra de los servidores públicos adscritos a la Secretaría, por probable responsabilidad administrativa.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, G.G. 28 DE MAYO DE 2007)</small>
 
-### CAPÍTULO I. DEL CONVENIO MODIFICATORIO DEL PRÉSTAMO HIPOTECARIO
+V. Recibir los recursos administrativos de inconformidad que se interpongan en contra de las resoluciones que emita este órgano de control interno y remitirlos a la Dirección General de Responsabilidades para su instrucción y resolución.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
+VI. Ordenar que se presenten las denuncias correspondientes o dar vista al Ministerio Público cuando en el trámite de un expediente de queja, denuncia o investigación por responsabilidad administrativa o en el ejercicio de sus facultades de control y evaluación, advierta que existen hechos o elementos que impliquen la probable responsabilidad penal de los servidores públicos de la Secretaría.
 
-###### ARTÍCULO 27.
+VII. Verificar la presentación oportuna de las declaraciones de situación patrimonial de los servidores públicos adscritos a la Secretaría, sujetos a esta obligación.
 
-Para la procedencia del convenio modificatorio en términos del artículo 95 de la Ley, se requiere satisfacer los siguientes requisitos:
+VIII. Informar a la Secretaría de la Contraloría sobre el resultado de las acciones, comisiones o funciones que le encomiende.
 
-I.- Llenar la solicitud en el formato preestablecido, en la cual deberá de constar la firma autógrafa del solicitante;
+IX. Proponer al titular de la Secretaría la implementación de normas complementarias en materia de control.
 
-II.- Certificado de gravamen del inmueble dado en garantía, en el cual conste como único gravamen el préstamo original otorgado por el ISSEG y que se pretende modificar, expedido por el Registro Público de la Propiedad; y
+X. Difundir entre el personal de la Secretaría toda disposición en materia de control que incida en el desarrollo de sus labores.
 
-III.- Avalúo comercial, elaborado por peritos autorizados por el ISSEG.
+XI. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Secretario de la Contraloría.
 
-El documento señalado en la fracción II, para el ISSEG tendrá una vigencia de un mes; el establecido en la fracción III de seis meses.
+### CAPITULO V. DE LA DESCONCENTRACION ADMINISTRATIVA
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE MAYO DE 2009)</small>
+###### Artículo 13.
 
-### CAPÍTULO II. DEL PRÉSTAMO HIPOTECARIO SUBSECUENTE
+Para la atención y eficiente despacho de los asuntos de su competencia, la Secretaría podrá contar con órganos administrativos desconcentrados, que le estarán jerárquicamente subordinados y a quienes otorgará facultades especificas para resolver sobre ciertas materias o dentro del ámbito territorial que se determine en cada caso, de acuerdo con lo dispuesto por el artículo 16 de la Ley Orgánica de la Administración Pública del Estado de México.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 15 DE MAYO DE 2009)</small>
+### CAPITULO VI. DE LA SUPLENCIA DE LOS TITULARES
 
-###### ARTÍCULO 28.
+###### Artículo 14.
 
-Para el otorgamiento del préstamo hipotecario subsecuente, se requiere presentar la documentación general establecida en el Capítulo de la modalidad o modalidades de que se trate.
+El Secretario será suplido en sus ausencias temporales hasta por 15 días, por el Director General. En las mayores de 15 días, por quien designe el Gobernador del Estado.
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, G.G. 28 DE MAYO DE 2007)</small>
 
-ARTÍCULO 28 A.- El monto del préstamo de amortización, será el establecido en el artículo 17 de este reglamento
+###### Artículo 15.
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2009)</small>
+El Director General, los Coordinadores y los Jefes de Unidad, serán suplidos en sus ausencias temporales hasta por 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por quien designe el Secretario.
 
-ARTÍCULO 28 B.- El plazo máximo de amortización para este préstamo, será el establecido en el artículo 18 segundo párrafo de éste reglamento.
+###### Artículo 16.
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2009)</small>
+Los directores de área, subdirectores y jefes de departamento, serán suplidos en sus ausencias temporales hasta por 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por el servidor público que designe el Director General.
 
-ARTÍCULO 28 C.- Las condiciones e intereses para el préstamo subsecuente, serán dictadas por el Consejo Directivo.
+## TRANSITORIOS
 
-###### ARTÍCULO 29.
+PRIMERO.- Publíquese el presente Reglamento en el periódico oficial "Gaceta del Gobierno".
 
-(DEROGADO Y REUBICADO, P.O. 15 DE MAYO DE 2009)
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
-## TÍTULO QUINTO. PROTOCOLIZACIÓN DEL PRÉSTAMO CON GARANTÍA HIPOTECARIA Y SU CANCELACIÓN
+Dado en el Palacio del Poder Ejecutivo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los veinticinco días del mes de febrero de dos mil cinco.
 
-### CAPÍTULO PRIMERO. DE LOS NOTARIOS PÚBLICOS
+SUFRAGIO EFECTIVO. NO REELECCION
 
-###### ARTÍCULO 30.
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO
 
-Para proteger la economía de los asegurados, la protocolización de la garantía hipotecaria podrá realizarse ante los Notarios Públicos que el Director General autorice. El ISSEG determinará los aranceles que por concepto de honorarios habrán de ser cobrados por los notarios públicos a los asegurados y pensionistas.
+ARTURO MONTIEL ROJAS
 
-Corresponderá al acreditado, la elección del Notario Público, entre los autorizados por el ISSEG.
+(RUBRICA).
 
-###### ARTÍCULO 31.
+EL SECRETARIO GENERAL DE GOBIERNO
 
-Será responsabilidad del Notario Público cerciorarse que la protocolización se realice en las mejores condiciones de Seguridad Jurídica para el Asegurado y para el ISSEG.
+MANUEL CADENA MORALES
 
-### CAPÍTULO SEGUNDO. DE LA CANCELACIÓN
+(RUBRICA).
 
-###### ARTÍCULO 32.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
-Una vez cubierta la totalidad de las amortizaciones quincenales por el acreditado, el ISSEG remitirá oficio de cancelación con el Notario Público designado por el acreditado, a efecto de cancelar el gravamen existente ante el Registro Público de la Propiedad.
+G.G. 28 DE MAYO DE 2007.
 
-## TÍTULO SEXTO. INCONFORMIDADES Y RECURSO DE REVISIÓN
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
 
-### CAPÍTULO ÚNICO. DE LAS INCONFORMIDADES Y RECURSO DE REVISIÓN
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
-###### ARTÍCULO 33.
+TERCERO.- Se derogan las disposiciones de igualo menor jerarquía que se opongan al presente Acuerdo.
 
-En contra de las resoluciones definitivas que emita el ISSEG en torno a los préstamos hipotecarios, que afecten los intereses jurídicos de un asegurado o pensionista, procederá el recurso de revisión regulado en el artículo 121 de la Ley de Seguridad Social del Estado de Guanajuato y su reglamento respectivo.
+G.G. 24 DE AGOSTO DE 2015.
 
-T R A N S I TO R I O
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
 
-###### ARTÍCULO ÚNICO.
+SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-El presente Decreto Gubernativo entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-Dado en la Residencia del Poder Ejecutivo, en la Ciudad de Guanajuato, Capital, a los 25 veinticinco días del mes de septiembre del año 2002 dos mil dos.
-
-JUAN CARLOS ROMERO HICKS
-
-EL SECRETARIO DE GOBIERNO
-
-JUAN MANUEL OLIVA RAMÍREZ
-
-EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN
-
-JOSÉ LUIS MARIO AGUILAR Y MAYA MEDRANO
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
-
-P.O. 15 DE MAYO DE 2009.
-
-Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-Artículo Segundo. Se derogan todas aquellas disposiciones administrativas que se opongan al contenido del presente Decreto Gubernativo.
-
-###### ARTÍCULO 14.
-
-No se admitirán garantías hipotecarias otorgadas por terceros, en sustitución del inmueble adquirido mediante el préstamo otorgado por el ISSEG, salvo que se otorgue entre cónyuges o concubinos.
-
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
-
-###### ARTÍCULO 15.
-
-El ISSEG además de los requisitos para obtener préstamos hipotecarios, podrá solicitar documentación adicional otros documentos. Lo anterior, derivado de los supuestos que se deduzcan del análisis y condiciones especiales de cada tipo de préstamo que concurran.
-
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2009)</small>
-
-###### ARTÍCULO 16.
-
-La Dirección Jurídica del ISSEG, deberá emitir mediante acuerdo fundado y motivado, dictamen sobre la procedencia del otorgamiento del préstamo o convenio modificatorio, o en su caso, la improcedencia del mismo, cuando derivado de la revisión de la solicitud se desprenda que ésta no se apega a los lineamientos establecidos en la Ley de Seguridad Social del Estado de Guanajuato, el presente Reglamento y demás disposiciones de carácter general que emita el Consejo Directivo.
-
-Este dictamen será considerado por el Director General, previo al otorgamiento del préstamo hipotecario, quien deberá someter al Consejo Directivo la aprobación de dicha prestación.
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo previsto en el presente Acuerdo.
