@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2015-08-19"
+last_updated: "2015-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -2612,6 +2612,10 @@ IV. Obligue a sus trabajadores a realizar jornadas sin descanso, que excedan de 
 V. Imponga labores insalubres o peligrosas y trabajos nocturnos injustificados a las mujeres y a los jóvenes menores de dieciocho años; y
 
 VI. No pague a sus trabajadores el salario mínimo que les corresponda.
+
+> <small>(ADICIONADA, G.G. 24 DE AGOSTO DE 2015)</small>
+
+VII. Despida a los trabajadores por contar con una orden judicial de descuento de alimentos o un incidente de pensión alimenticia.
 
 Al responsable de este delito se le impondrán de tres meses a un año de prisión.
 
@@ -5654,3 +5658,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se oponga (sic) al presente Decreto.
+
+G.G. 24 DE AGOSTO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódo (sic) Oficial “Gaceta del Gobierno”.
