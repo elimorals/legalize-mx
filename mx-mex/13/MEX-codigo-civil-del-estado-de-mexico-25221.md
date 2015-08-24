@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2015-08-20"
+last_updated: "2015-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -1773,7 +1773,11 @@ I. Separar a los cónyuges, tomando siempre en cuenta las circunstancias persona
 
 II. Fijar y asegurar los alimentos que debe dar el cónyuge alimentario al acreedor y a los hijos;
 
-III. A falta de acuerdo entre los cónyuges, la guarda y custodia de los hijos se decretará por el Juez en función del mayor interés de los menores y de los sujetos a tutela;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2015)</small>
+
+III. A falta de acuerdo entre los cónyuges, la guarda y custodia provisional de los hijos se decretará por el Juez debiendo escuchar a ambos progenitores, a las hijas o hijos y a cualquier otro interesado, en función del interés superior de niñas, niños y adolescentes y de los sujetos a tutela. El Juez actuará de la misma manera para determinar el régimen de convivencia;
 
 IV. Dictar las medidas convenientes respecto a la mujer que esté embarazada;
 
@@ -1859,6 +1863,20 @@ IV. La determinación del que debe de cubrir los alimentos de los hijos así com
 
 V. La manera de administrar los bienes de la sociedad conyugal durante el procedimiento, y la de liquidar dicha sociedad después de ejecutoriado el divorcio.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2015)</small>
+
+Régimen de convivencia
+
+###### Artículo 4.
+
+102 Bis.- En el régimen de convivencia se observará lo siguiente durante el procedimiento de divorcio y concluido el proceso:
+
+I. En caso de que el tutor que le asiste el derecho de visita tuviera una nueva pareja con la cual la niña, niño o adolecente (sic) tuviera que cohabitar, el ministerio público realizará las pruebas en materia de psicología familiar y si éste no las solicita el Juez las mandara hacer oficiosamente.
+
+II. Transcurridos tres meses de que el Juez haya dictado el régimen de convivencia provisional, solicitará de oficio la comparecencia de ambos tutores y del acreedor alimentario con el propósito de verificar el cumplimiento del interés superior de niñas, niños y adolescentes.
+
 Separación provisional de los cónyuges y alimentos de los hijos
 
 ###### Artículo 4.
@@ -1935,17 +1953,17 @@ La mujer casada no podrá otorgar su consentimiento para ser inseminada, sin la 
 
 Prohibición de padres o tutores
 
-###### Artículo 4.
-
-113.- No podrá otorgarse el consentimiento de los padres o tutores para la reproducción asistida en una mujer que fuere menor de edad o incapaz.
-
-Clonación
-
 ## TITULO CUARTO. Del Parentesco y los Alimentos
 
 ### CAPITULO II. Del parentesco
 
 Clases de parentesco
+
+###### Artículo 4.
+
+113.- No podrá otorgarse el consentimiento de los padres o tutores para la reproducción asistida en una mujer que fuere menor de edad o incapaz.
+
+Clonación
 
 ###### Artículo 4.
 
@@ -1975,6 +1993,10 @@ Parentesco consanguíneo
 
 Parentesco por afinidad
 
+### CAPITULO III. De los Alimentos
+
+Normas de orden público
+
 ###### Artículo 4.
 
 119.- El parentesco por afinidad es el que se contrae por el matrimonio, entre un cónyuge y los parientes del otro.
@@ -1982,10 +2004,6 @@ Parentesco por afinidad
 Parentesco civil
 
 > <small>(REFORMADO, G.G. 15 DE MAYO DE 2012)</small>
-
-### CAPITULO III. De los Alimentos
-
-Normas de orden público
 
 ###### Artículo 4.
 
@@ -2037,6 +2055,12 @@ Gozan de la presunción de necesitar alimentos los hijos menores de edad o que s
 
 Alimentos entre cónyuges
 
+### CAPITULO IV. Del Registro de Deudores Alimentarios Morosos
+
+> <small>(ADICIONADO, G.G. 14 DE NOVIEMBRE DE 2014)</small>
+
+De la naturaleza del Registro de Deudores Alimentarios Morosos
+
 ###### Artículo 4.
 
 128.- Los cónyuges deben darse alimentos.
@@ -2044,12 +2068,6 @@ Alimentos entre cónyuges
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 Reglas para que los concubinos se den alimentos
-
-### CAPITULO IV. Del Registro de Deudores Alimentarios Morosos
-
-> <small>(ADICIONADO, G.G. 14 DE NOVIEMBRE DE 2014)</small>
-
-De la naturaleza del Registro de Deudores Alimentarios Morosos
 
 ###### Artículo 4.
 
@@ -2245,6 +2263,10 @@ Serán objeto de registro los empleadores que incumplan una orden de descuento p
 
 De los datos que contendrá el Registro de Deudores Alimentarios Morosos
 
+### CAPITULO I. De los hijos de Matrimonio
+
+Presunción de ser hijo de matrimonio
+
 ###### Artículo 4.
 
 146 Quáter.- El Registro de Deudores Alimentarios Morosos contendrá:
@@ -2266,10 +2288,6 @@ Una vez hecha la inscripción a que se refiere el párrafo anterior se girará o
 > <small>(ADICIONADO, G.G. 14 DE NOVIEMBRE DE 2014)</small>
 
 Datos del Certificado expedido por la Unidad del Registro de Deudores Alimentarios Morosos
-
-### CAPITULO I. De los hijos de Matrimonio
-
-Presunción de ser hijo de matrimonio
 
 ###### Artículo 4.
 
@@ -2339,17 +2357,17 @@ Excepción a la presunción de ser hijo de matrimonio
 
 Improcedencia de desconocimiento de hijo de matrimonio
 
-###### Artículo 4.
-
-149.- Si el esposo ha otorgado su consentimiento tácito o expreso, no podrá desconocer que es padre del hijo nacido dentro de los ciento ochenta días siguientes a la celebración del matrimonio.
-
-Legitimación para desconocer paternidad en matrimonio disuelto
-
 ## TITULO QUINTO. De la Paternidad y Filiación
 
 ### CAPITULO II. De la Filiación
 
 Prueba de la filiación de hijos de matrimonio
+
+###### Artículo 4.
+
+149.- Si el esposo ha otorgado su consentimiento tácito o expreso, no podrá desconocer que es padre del hijo nacido dentro de los ciento ochenta días siguientes a la celebración del matrimonio.
+
+Legitimación para desconocer paternidad en matrimonio disuelto
 
 ###### Artículo 4.
 
@@ -2393,15 +2411,15 @@ Prueba de la filiación de hijo de matrimonio a falta o defecto de actas
 
 Prueba de la posesión de estado de hijo
 
+### CAPITULO III. Del Reconocimiento de los hijos nacidos fuera del Matrimonio
+
+Paternidad y maternidad de hijos fuera de matrimonio
+
 ###### Artículo 4.
 
 157.- Si una persona ha sido tratada constantemente por otra y la familia de ésta, como hijo, llevando su apellido o recibiendo alimentos, quedará probada la posesión de estado de hijo.
 
 Acción imprescriptible para reclamar posesión de estado de hijo
-
-### CAPITULO III. Del Reconocimiento de los hijos nacidos fuera del Matrimonio
-
-Paternidad y maternidad de hijos fuera de matrimonio
 
 ###### Artículo 4.
 
@@ -2443,13 +2461,13 @@ Legitimación para reconocimiento de hijo
 
 Revocación de reconocimiento de hijo hecho por menor
 
+### CAPITULO I
+
 ###### Artículo 4.
 
 164.- El reconocimiento hecho por un menor es revocable si prueba que sufrió engaño al hacerlo, pudiendo intentar la revocación hasta cuatro años después de la mayoría de edad.
 
 Reconocimiento de hijo no nacido o fallecido
-
-### CAPITULO I
 
 ###### Artículo 4.
 
@@ -2557,15 +2575,15 @@ Tiempo para investigar la filiación
 
 179.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
 
-###### Artículo 4.
-
-180.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
-
 ## TITULO SEXTO
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 20 DE AGOSTO DE 2015)</small>
 
 ### CAPITULO II
+
+###### Artículo 4.
+
+180.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
 
 ###### Artículo 4.
 
@@ -2583,11 +2601,11 @@ Tiempo para investigar la filiación
 
 184.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
 
+### CAPITULO III
+
 ###### Artículo 4.
 
 185.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
-
-### CAPITULO III
 
 ###### Artículo 4.
 
@@ -2607,11 +2625,11 @@ Tiempo para investigar la filiación
 
 189.- (DEROGADO, G.G. 15 DE MAYO DE 2012)
 
+### CAPITULO IV
+
 ###### Artículo 4.
 
 190.- (DEROGADO, G.G. 15 DE MAYO DE 2012)
-
-### CAPITULO IV
 
 ###### Artículo 4.
 
@@ -2635,13 +2653,13 @@ Tiempo para investigar la filiación
 
 195.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
 
-###### Artículo 4.
-
-196.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
-
 ### CAPITULO I. De los efectos de la Patria Potestad respecto de la persona
 
 Respeto y consideración entre hijos y ascendientes
+
+###### Artículo 4.
+
+196.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
 
 ###### Artículo 4.
 
@@ -2662,6 +2680,10 @@ Respeto y consideración entre hijos y ascendientes
 200.- (DEROGADO, G.G. 20 DE AGOSTO DE 2015)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 6 DE AGOSTO DE 2015)</small>
+
+### CAPITULO II. De los efectos de la Patria Potestad con respecto a los bienes
+
+Administración de los bienes del menor por quien ejerce patria potestad
 
 ###### Artículo 4.
 
@@ -2689,23 +2711,11 @@ X. Considerar la opinión de las niñas, niños y adolescentes para la toma de d
 
 XI. Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación.
 
-### CAPITULO II. De los efectos de la Patria Potestad con respecto a los bienes
-
-Administración de los bienes del menor por quien ejerce patria potestad
-
 ###### Artículo 4.
 
 201.- Los hijos y sus ascendientes se deben respeto y consideración recíprocamente.
 
 Personas sobre las que se ejerce la patria potestad
-
-###### Artículo 4.
-
-202.- La patria potestad se ejerce sobre los hijos menores no emancipados.
-
-Aspectos que comprende la patria potestad
-
-> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
 ## TITULO SEXTO BIS. Disposiciones comunes de la Patria Potestad y Tutela
 
@@ -2715,15 +2725,23 @@ Obligaciones de quienes ejercen la patria potestad, tutela o guarda y custodia
 
 ###### Artículo 4.
 
-203.- La patria potestad comprende la representación legal y la protección integral del menor en sus aspectos físico, psicológico, moral y social, su guarda y custodia, la administración de sus bienes y el derecho de corrección.
+202.- La patria potestad se ejerce sobre los hijos menores no emancipados.
 
-Orden de las personas que ejercen la patria potestad
+Aspectos que comprende la patria potestad
+
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
 ## TITULO SEPTIMO. De la Patria Potestad
 
 ### CAPITULO III. De los modos de acabarse y suspenderse la Patria Potestad
 
 Conclusión de la patria potestad
+
+###### Artículo 4.
+
+203.- La patria potestad comprende la representación legal y la protección integral del menor en sus aspectos físico, psicológico, moral y social, su guarda y custodia, la administración de sus bienes y el derecho de corrección.
+
+Orden de las personas que ejercen la patria potestad
 
 ###### Artículo 4.
 
@@ -2771,15 +2789,15 @@ Administración en el ejercicio conjunto de la patria potestad
 
 Representación en juicio al hijo bajo patria potestad
 
+### CAPITULO I. Disposiciones Generales
+
+Objeto de la tutela
+
 ###### Artículo 4.
 
 210.- Uno solo de los que ejercen la patria potestad podrá representar al hijo en juicio; pero no podrá celebrar ningún arreglo para terminarlo, si no es con el consentimiento expreso de su cónyuge, y con la autorización judicial cuando la ley lo requiera expresamente.
 
 Clases de bienes de los sujetos a patria potestad
-
-### CAPITULO I. Disposiciones Generales
-
-Objeto de la tutela
 
 ###### Artículo 4.
 
@@ -2935,6 +2953,10 @@ VIII. Por el incumplimiento injustificado de las determinaciones judiciales que 
 
 Suspensión de la patria potestad
 
+### CAPITULO II. De la Tutela Testamentaria
+
+Persona facultada para nombrar tutor testamentario
+
 ###### Artículo 4.
 
 225.- La patria potestad se suspende:
@@ -2948,10 +2970,6 @@ III. Por sentencia condenatoria que imponga como pena esta suspensión;
 IV. Por sustracción o retención indebida del menor por quien no tenga la custodia.
 
 Excusa para ejercer la patria potestad
-
-### CAPITULO II. De la Tutela Testamentaria
-
-Persona facultada para nombrar tutor testamentario
 
 ###### Artículo 4.
 
@@ -2975,9 +2993,11 @@ Guarda y custodia en la patria potestad
 
 I. Los que ejerzan la patria potestad convendrán quién de ellos se hará cargo de la guarda y custodia del menor;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Si no llegan a algún acuerdo, el juez atendiendo a los elementos de prueba que obren en el sumario y con base en el resultado de las pruebas periciales en materia de trabajo social y de psicología familiar que oficiosamente habrán de practicárseles, determinará:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE AGOSTO DE 2015)</small>
+
+II. Si no llegan a algún acuerdo, el Juez atendiendo a los elementos de prueba que obren en el sumario, con base en el resultado de las pruebas periciales en materia de psicología familiar que oficiosamente habrán de practicárseles y habiendo escuchado a la niña, niño o adolescente determinará:
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -3017,17 +3037,17 @@ V. Las personas que por cualquier causa física o mental no puedan manifestar su
 
 Incapacidad legal del menor emancipado por matrimonio
 
-###### Artículo 4.
-
-231.- Los menores de edad emancipados por razón del matrimonio, tienen incapacidad legal para ejecutar actos de dominio respecto a sus bienes para lo cual requieren de autorización judicial; tampoco podrán comparecer a juicio, sino a través de tutor.
-
-Características del cargo del tutor
-
 ## TITULO OCTAVO. De la Tutela y Curatela
 
 ### CAPITULO III. De la Tutela Legítima de los menores
 
 Procedencia de la tutela legítima
+
+###### Artículo 4.
+
+231.- Los menores de edad emancipados por razón del matrimonio, tienen incapacidad legal para ejecutar actos de dominio respecto a sus bienes para lo cual requieren de autorización judicial; tampoco podrán comparecer a juicio, sino a través de tutor.
+
+Características del cargo del tutor
 
 ###### Artículo 4.
 
@@ -3111,15 +3131,15 @@ Cesación de la tutela testamentaria
 
 Caso en que el testador no ascendiente puede nombrar tutor testamentario
 
+### CAPITULO IV. De la Tutela Legítima de mayores incapaces
+
+Tutor legítimo del cónyuge incapacitado
+
 ###### Artículo 4.
 
 246.- El que en su testamento deje bienes, ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad, ni bajo la de otro, puede nombrarle tutor solamente para la administración de los bienes.
 
 Nombramiento de tutor en caso de pluralidad de menores
-
-### CAPITULO IV. De la Tutela Legítima de mayores incapaces
-
-Tutor legítimo del cónyuge incapacitado
 
 ###### Artículo 4.
 
@@ -3175,15 +3195,15 @@ III. Tratándose de niñas, niños y adolescentes abandonados, expósitos o entr
 
 Elección de tutor legítimo por el Juez
 
-###### Artículo 4.
-
-255.- Si hubiere varios parientes del mismo grado, el Juez elegirá al más apto; pero si el menor hubiere cumplido doce años, él hará la elección.
-
 ### CAPITULO V. De la Tutela Legítima de los expósitos o abandonados
 
 Tutela de expósitos y de abandonados
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 15 DE MAYO DE 2012)</small>
+
+###### Artículo 4.
+
+255.- Si hubiere varios parientes del mismo grado, el Juez elegirá al más apto; pero si el menor hubiere cumplido doce años, él hará la elección.
 
 ###### Artículo 4.
 
@@ -3197,15 +3217,15 @@ Designación de tutor en caso de pluralidad de hijos
 
 Derecho de los padres para ser tutores
 
+### CAPITULO VI. De la Tutela Dativa
+
+Casos en que procede la tutela dativa
+
 ###### Artículo 4.
 
 258.- Los padres son de derecho tutores de sus hijos, solteros o viudos, cuando éstos no tengan hijos que puedan desempeñar la tutela, debiéndose poner de acuerdo respecto de cuál de los dos ejercerá el cargo. Faltando uno de ellos ejercerá la tutela el otro.
 
 Otros parientes que deben ser tutores legítimos
-
-### CAPITULO VI. De la Tutela Dativa
-
-Casos en que procede la tutela dativa
 
 ###### Artículo 4.
 
@@ -3239,6 +3259,10 @@ II. El tutor testamentario esté impedido temporalmente para ejercer su cargo, y
 
 Nombramiento de tutor dativo
 
+### CAPITULO VII. De la Tutela Voluntaria
+
+Nombramiento de tutor voluntario por personas capaces
+
 ###### Artículo 4.
 
 263.- El tutor dativo será designado por el menor, si ha cumplido doce años. El Juez competente aprobará la designación.
@@ -3247,19 +3271,15 @@ Si no se aprueba el nombramiento, el Juez le designará tutor.
 
 Nombramiento de tutor dativo a menor de doce años
 
-### CAPITULO VII. De la Tutela Voluntaria
+### CAPITULO VIII. De los impedimentos para el desempeño de la tutela y de la separación del cargo de tutor
 
-Nombramiento de tutor voluntario por personas capaces
+Personas que no pueden desempeñar la tutela
 
 ###### Artículo 4.
 
 264.- Si el menor no ha cumplido doce años, el nombramiento de tutor lo hará el Juez, debiendo recaer en persona idónea para su desempeño.
 
 Tutela dativa de menor emancipado
-
-### CAPITULO VIII. De los impedimentos para el desempeño de la tutela y de la separación del cargo de tutor
-
-Personas que no pueden desempeñar la tutela
 
 ###### Artículo 4.
 
@@ -3301,15 +3321,15 @@ Instrucciones al tutor voluntario
 
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
+### CAPITULO IX. De las excusas para el desempeño de la tutela
+
+Causas de excusa para ser tutor
+
 ###### Artículo 4.
 
 271.- Al hacer la designación podrá instruir, en la escritura pública correspondiente, sobre el cuidado de su persona, tratamiento médicos y cuidados, la forma de administrar sus bienes, y en general todo lo referente a sus derechos y obligaciones.
 
 Requisitos para ser tutor voluntario
-
-### CAPITULO IX. De las excusas para el desempeño de la tutela
-
-Causas de excusa para ser tutor
 
 ###### Artículo 4.
 
@@ -3361,15 +3381,15 @@ Obligación para reclamar la separación del tutor
 
 > <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
+### CAPITULO X. De la garantía que deben prestar los tutores
+
+Garantía que se debe otorgar para ejercer la tutela
+
 ###### Artículo 4.
 
 276.- La Procuraduría de Protección de Niñas, Niños y Adolescentes, el Ministerio Público y los parientes del pupilo tienen la obligación de promover la separación de los tutores.
 
 Suspensión del cargo de tutor por delito doloso
-
-### CAPITULO X. De la garantía que deben prestar los tutores
-
-Garantía que se debe otorgar para ejercer la tutela
 
 ###### Artículo 4.
 
@@ -3411,15 +3431,15 @@ Nombramiento de tutor interino
 
 Efectos de la excusa del tutor testamentario
 
+### CAPITULO XI. Del desempeño de la Tutela
+
+Nombramiento de curador para desempeñar la tutela
+
 ###### Artículo 4.
 
 282.- El tutor testamentario que se excuse de ejercer la tutela, perderá todo derecho a lo que le hubiere dejado el testador por este concepto.
 
 Efectos de la negativa a ejercer la tutela
-
-### CAPITULO XI. Del desempeño de la Tutela
-
-Nombramiento de curador para desempeñar la tutela
 
 ###### Artículo 4.
 
@@ -3451,15 +3471,15 @@ IV. Los que acojan a un menor abandonado, lo alimenten y eduquen por más de cin
 
 Medidas para conservar los bienes del pupilo
 
+### CAPITULO XII. De las cuentas de la Tutela
+
+Periodo en que el tutor rinde cuentas
+
 ###### Artículo 4.
 
 286.- La garantía que otorguen los tutores no impide que el Juez, a petición del menor si ha cumplido doce años o de sus parientes con derecho a heredar, dicte las providencias que estime necesarias para la conservación de los bienes del pupilo.
 
 Garantía del tutor coheredero del pupilo
-
-### CAPITULO XII. De las cuentas de la Tutela
-
-Periodo en que el tutor rinde cuentas
 
 ###### Artículo 4.
 
@@ -3529,6 +3549,10 @@ VI. Solicitar la autorización judicial para todo lo que legalmente no pueda hac
 
 Medidas para evitar la enajenación de bienes del menor
 
+### CAPITULO XIII. De la extinción de la Tutela
+
+Causas de extinción de la tutela
+
 ###### Artículo 4.
 
 295.- Si las rentas del menor no alcanzan a cubrir los gastos de su alimentación y educación, el Juez decidirá si ha de ponérsele a aprender un oficio o adoptarse otro medio para evitar la enajenación de los bienes.
@@ -3536,10 +3560,6 @@ Medidas para evitar la enajenación de bienes del menor
 Medidas para garantizar el cuidado de los pupilos
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE SEPTIEMBRE DEL 2004)</small>
-
-### CAPITULO XIII. De la extinción de la Tutela
-
-Causas de extinción de la tutela
 
 ###### Artículo 4.
 
@@ -3679,13 +3699,13 @@ Cuenta final o exigida por el curador
 
 Pago al tutor de los gastos cubiertos con su peculio
 
-###### Artículo 4.
-
-318.- Deben pagarse al tutor los gastos hechos de su peculio, con motivo de la administración de los bienes del incapacitado.
-
 ### CAPITULO XIV. De la entrega de los bienes al concluir la Tutela
 
 Obligación del tutor de entregar los bienes del pupilo
+
+###### Artículo 4.
+
+318.- Deben pagarse al tutor los gastos hechos de su peculio, con motivo de la administración de los bienes del incapacitado.
 
 ###### Artículo 4.
 
@@ -3717,25 +3737,25 @@ II. Cuando el incapacitado sujeto a tutela entre a la patria potestad, por recon
 
 Periodo para entregar los bienes
 
-###### Artículo 4.
-
-324.- La entrega de bienes debe ser hecha durante el mes siguiente a la terminación de la tutela y no se suspenderá por estar pendiente la rendición de cuentas; cuando los bienes sean muy cuantiosos o estuvieren ubicados en diversos lugares, el Juez puede fijar un plazo prudente para la conclusión de la entrega.
-
-Obligación del nuevo tutor
-
 ### CAPITULO XV. Del Curador
 
 Curador en caso de administración de bienes
 
 ###### Artículo 4.
 
-325.- El tutor que entre al cargo, sucediendo a otro, está obligado a exigir la entrega de bienes y cuentas al que le ha precedido. Si no la exige, es responsable de los daños y perjuicios.
+324.- La entrega de bienes debe ser hecha durante el mes siguiente a la terminación de la tutela y no se suspenderá por estar pendiente la rendición de cuentas; cuando los bienes sean muy cuantiosos o estuvieren ubicados en diversos lugares, el Juez puede fijar un plazo prudente para la conclusión de la entrega.
 
-Pago de gastos por la entrega de bienes y cuenta
+Obligación del nuevo tutor
 
 ### CAPITULO I. De la Emancipación
 
 Emancipación por matrimonio
+
+###### Artículo 4.
+
+325.- El tutor que entre al cargo, sucediendo a otro, está obligado a exigir la entrega de bienes y cuentas al que le ha precedido. Si no la exige, es responsable de los daños y perjuicios.
+
+Pago de gastos por la entrega de bienes y cuenta
 
 ###### Artículo 4.
 
@@ -3773,15 +3793,15 @@ Curador interino
 
 Excusas e impedimentos para los curadores
 
+### CAPITULO II. De la Mayoría de Edad
+
+Comienzo de la mayoría de edad
+
 ###### Artículo 4.
 
 332.- Las disposiciones respecto a los impedimentos y excusas de los tutores, serán aplicables a los curadores.
 
 Legitimación para nombrar curador
-
-### CAPITULO II. De la Mayoría de Edad
-
-Comienzo de la mayoría de edad
 
 ###### Artículo 4.
 
@@ -3829,10 +3849,6 @@ Remuneración al curador
 
 Efectos legales de la mayoría de edad
 
-###### Artículo 4.
-
-340.- El mayor de edad dispone libremente de su persona y de sus bienes, salvo las limitaciones que establece la ley.
-
 ## TITULO NOVENO. De la Emancipación y de la Mayoría de Edad
 
 ### CAPITULO I. De las medidas provisionales en caso de ausencia
@@ -3841,15 +3857,19 @@ Medidas jurídicas sobre los bienes del ausente
 
 ###### Artículo 4.
 
-341.- Cuando se ignore el lugar donde se encuentre una persona, el Juez, a petición de parte, nombrará un depositario de sus bienes, y dictará las providencias necesarias para conservarlos, asimismo se le citará por edictos conforme a la ley.
-
-Personas que pueden designarse depositarios de los bienes del ausente
+340.- El mayor de edad dispone libremente de su persona y de sus bienes, salvo las limitaciones que establece la ley.
 
 ### CAPITULO II. De la Declaración de Ausencia
 
 Plazo para pedir la declaración de ausencia
 
 > <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 4.
+
+341.- Cuando se ignore el lugar donde se encuentre una persona, el Juez, a petición de parte, nombrará un depositario de sus bienes, y dictará las providencias necesarias para conservarlos, asimismo se le citará por edictos conforme a la ley.
+
+Personas que pueden designarse depositarios de los bienes del ausente
 
 ###### Artículo 4.
 
@@ -3865,17 +3885,17 @@ IV. A falta de los anteriores o cuando por su notoria mala conducta o ineptitud,
 
 Nombramiento judicial de representante del ausente
 
-###### Artículo 4.
-
-343.- Transcurrido el plazo de la citación por edictos sin que el ausente comparezca, el Juez procederá a nombrarle representante.
-
-Legitimación para pedir el nombramiento de depositario o representante
-
 ## TITULO DECIMO. De los Ausentes
 
 ### CAPITULO III. De los efectos de la Declaración de Ausencia
 
 Presentación del testamento del declarado ausente
+
+###### Artículo 4.
+
+343.- Transcurrido el plazo de la citación por edictos sin que el ausente comparezca, el Juez procederá a nombrarle representante.
+
+Legitimación para pedir el nombramiento de depositario o representante
 
 ###### Artículo 4.
 
@@ -3925,6 +3945,10 @@ Plazo para pedir la declaración de ausencia cuando hay apoderado general
 
 Apoderado por más de tres años del ausente
 
+### CAPITULO IV. De la administración de los bienes del ausente casado bajo el régimen de sociedad conyugal
+
+Efectos de la ausencia en relación a la sociedad conyugal
+
 ###### Artículo 4.
 
 351.- Lo dispuesto en el artículo anterior se observará aún cuando el poder se haya conferido por más de tres años.
@@ -3932,10 +3956,6 @@ Apoderado por más de tres años del ausente
 Obligación del apoderado del ausente a otorgar garantía
 
 > <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
-
-### CAPITULO IV. De la administración de los bienes del ausente casado bajo el régimen de sociedad conyugal
-
-Efectos de la ausencia en relación a la sociedad conyugal
 
 ###### Artículo 4.
 
@@ -3971,17 +3991,17 @@ Lectura por el Juez del testamento del ausente
 
 Posesión provisional de bienes del ausente a sus herederos
 
-###### Artículo 4.
-
-357.- Los designados como herederos testamentarios, y en su defecto, los presuntos herederos legítimos del ausente si tienen capacidad legal para administrar, serán puestos en la posesión provisional de los bienes, dando garantía que asegure las resultas de la administración.
-
-Administración de bienes que admiten cómoda división
-
 ### CAPITULO V. De la presunción de muerte del ausente
 
 Declaración judicial de presunción de muerte
 
 > <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 4.
+
+357.- Los designados como herederos testamentarios, y en su defecto, los presuntos herederos legítimos del ausente si tienen capacidad legal para administrar, serán puestos en la posesión provisional de los bienes, dando garantía que asegure las resultas de la administración.
+
+Administración de bienes que admiten cómoda división
 
 ###### Artículo 4.
 
@@ -4065,13 +4085,13 @@ Inventario por declaración de ausencia
 
 Entrega de sus bienes al cónyuge del ausente
 
-###### Artículo 4.
-
-372.- El cónyuge presente recibirá los bienes que le correspondan hasta el día en que la resolución de ausencia haya causado ejecutoria. De esos bienes podrá disponer libremente.
-
 ### CAPITULO I. De los Bienes Inmuebles
 
 Bienes que se consideran inmuebles
+
+###### Artículo 4.
+
+372.- El cónyuge presente recibirá los bienes que le correspondan hasta el día en que la resolución de ausencia haya causado ejecutoria. De esos bienes podrá disponer libremente.
 
 ###### Artículo 4.
 
@@ -4087,13 +4107,13 @@ Efectos de la declaración de presunción de muerte
 
 Presencia del presunto muerto
 
-###### Artículo 4.
-
-375.- Si el presunto muerto se presentare o se probare su existencia después de otorgada la posesión definitiva, recobrará sus bienes en el estado en que se hallen, el precio de los enajenados, o los que se hubieren adquirido con el mismo; pero no podrá reclamar frutos.
-
 ### CAPITULO II. De los Bienes Muebles
 
 Muebles por su naturaleza
+
+###### Artículo 4.
+
+375.- Si el presunto muerto se presentare o se probare su existencia después de otorgada la posesión definitiva, recobrará sus bienes en el estado en que se hallen, el precio de los enajenados, o los que se hubieren adquirido con el mismo; pero no podrá reclamar frutos.
 
 ###### Artículo 4.
 
@@ -4111,15 +4131,15 @@ Efectos de la constitución del patrimonio de familia
 
 Personas que tienen derecho sobre el patrimonio de familia
 
+## TITULO DECIMO PRIMERO. Del Patrimonio de Familia
+
+Bienes que comprende el patrimonio familiar
+
 ###### Artículo 4.
 
 378.- Tienen derecho de habitar la casa y de aprovechar los frutos de la parcela, el cónyuge del que lo constituye, las personas a quienes tiene obligación de dar alimentos o los miembros de la familia a favor de quien se constituya el patrimonio familiar. Este derecho es intransmisible.
 
 Representación de los beneficiarios ante terceros
-
-## TITULO DECIMO PRIMERO. Del Patrimonio de Familia
-
-Bienes que comprende el patrimonio familiar
 
 ###### Artículo 4.
 
@@ -4291,15 +4311,15 @@ IV. Generador de violencia: Persona que a través de su acción, omisión o abus
 
 V. (DEROGADA, G.G. 6 DE MARZO DE 2010)
 
-###### Artículo 4.
-
-398.- (DEROGADO, G.G. 16 DE ENERO DE 2007)
-
 ## TITULO DECIMO SEGUNDO. De la Protección contra la Violencia Familiar
 
 Denuncia de violencia familiar
 
 > <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
+###### Artículo 4.
+
+398.- (DEROGADO, G.G. 16 DE ENERO DE 2007)
 
 ###### Artículo 4.
 
@@ -6759,7 +6779,7 @@ Legado de presentación periódica
 
 ### CAPITULO VII. De los legados
 
-Preceptos que rigen los legados
+Modos de instituir legatarios
 
 ###### Artículo 6.
 
@@ -6851,12 +6871,6 @@ Voluntad testamentaria expresa
 
 ###### Artículo 6.
 
-74.- Cuando no haya disposiciones especiales, los legatarios se rigen por los mismos preceptos que para los herederos.
-
-Modos de instituir legatarios
-
-###### Artículo 6.
-
 75.- El legado puede instituirse a titulo gratuito, con modalidad o con carga.
 
 Herederos y legatarios gravados con legados
@@ -6876,6 +6890,12 @@ Gastos de entrega del legado
 ###### Artículo 6.
 
 78.- Los gastos necesarios para la entrega del bien legado serán a cargo del legatario salvo disposición en contrario del testador.
+
+Preceptos que rigen los legados
+
+###### Artículo 6.
+
+74.- Cuando no haya disposiciones especiales, los legatarios se rigen por los mismos preceptos que para los herederos.
 
 Forma de aceptar el legado
 
@@ -16537,7 +16557,7 @@ Términos de la contratación
 
 1144 Quinquiés.- La determinación de la hipoteca inversa se realizará previo avalúo de Institución debidamente facultada, que considere el valor comercial de mercado del inmueble que deberá actualizarse cada 2 años para estar acorde con la plusvalía que el bien adquiera con el tiempo.
 
-El costo de dicho avalúo será cubierto por el pensionario.
+El costo de dicho avaluó será cubierto por el pensionario.
 
 El contrato de hipoteca inversa, además de lo pactado, estará sujeto a lo siguiente:
 
@@ -18126,3 +18146,13 @@ QUINTO. El DIFEM, en un plazo no mayor a los treinta días hábiles posteriores 
 SEXTO. La Legislatura proveerá los recursos necesarios para dar cumplimiento a lo previsto en el presente Decreto.
 
 SÉPTIMO. El Sistema para el Desarrollo Integral de la Familia DIF, Estado de México, presentara a la legislatura un informe del impacto social del presente decreto, al año de su entrada en vigor.
+
+G.G. 24 DE AGOSTO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
