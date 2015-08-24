@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "2015-05-28"
+last_updated: "2015-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE ABRIL DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 28 DE MAYO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2015.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -539,9 +537,13 @@ XXXII. Abstenerse de remitir vehículos a cualquier depósito de vehículos conc
 
 XXXIII. Abstenerse de solicitar requisitos, cargas tributarias o cualquier otro concepto adicional no previsto en la legislación aplicable, que tengan por objeto condicionar la expedición de licencias de funcionamiento para unidades económicas o negocios de bajo riesgo, y
 
-> <small>(ADICIONADA, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2015)</small>
 
-XXXIV. Las demás que le impongan las leyes, reglamentos o disposiciones administrativas aplicables.
+XXXIV. Abstenerse de celebrar o autorizar pedidos o contratos relacionados con adquisiciones, enajenaciones, arrendamientos y mantenimiento de bienes muebles e inmuebles, contratación de servicios, así como de obra pública y servicios relacionados con la misma, o de recibir estas propuestas, cuando se trate de proveedores, contratistas o particulares que se encuentren sujetos a procedimiento por responsabilidad administrativa resarcitoria, o bien, se les haya impuesto dicha responsabilidad o no hayan realizado la indemnización respectiva. Así como abstenerse de contratar a quienes estén sujetos a una responsabilidad administrativa resarcitoria o se encuentren pendientes de cumplir con la sanción disciplinaria económica. Para este fin, el servidor público deberá verificar y acreditar documentalmente la que realizó las consultas requeridas en los registros oficiales.
+
+> <small>(ADICIONADA, G.G. 24 DE AGOSTO DE 2015)</small>
+
+XXXV. Las demás que le impongan las leyes, reglamentos o disposiciones normativas aplicables.
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
@@ -605,23 +607,17 @@ Los servidores públicos de la Secretaría, que incurran en responsabilidad admi
 
 Las sanciones por responsabilidad administrativa disciplinaria consistirán en:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2015)</small>
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+I. Amonestación.
 
-I. Amonestación la cual podrá ser impuesta solo en dos ocasiones, en un lapso de cinco años, por diversos actos o hechos relacionados con el servicio público;
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+II. Suspensión de empleo, cargo o comisión, sin goce de sueldo por un periodo no menor de tres días ni mayor a treinta días.
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2015)</small>
 
-II. Suspensión del empleo, cargo o comisión por un término que no exceda de quince días hábiles, para el caso de una tercera sanción derivada del actuar de los servidores públicos en el ejercicio de sus funciones, con independencia de lo ordenado por el artículo 59 fracción IV;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-III. Destitución del empleo, cargo o comisión para aquellos servidores públicos que cometan por cuarta ocasión, irregularidades derivadas del ejercicio de sus funciones, con independencia de lo ordenado al respecto en la presente Ley;
+III. Destitución del empleo, cargo o comisión.
 
 > <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
 
@@ -671,9 +667,21 @@ VI. (DEROGADA, G.G. 14 DE MAYO DE 2014)
 
 VII. Sanción pecuniaria de diez a ciento ochenta salarios mínimos vigentes en la Entidad, por actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que los servidores públicos deban observar en el desempeño de sus empleos, cargos o comisiones y de quince a ciento ochenta días del sueldo base presupuestal asignado al servidor público que incurra en incumplimiento a las obligaciones previstas en los artículos 80 y 80 Bis de la presente Ley.
 
-> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2015)</small>
 
-La aplicación de las sanciones, excepto las que sean fijas, atenderá las disposiciones que para tal efecto prevé el Código de Procedimientos Administrativos del Estado de México.
+Para los casos que refieren las fracciones II, III y V se deberán atender las circunstancias siguientes:
+
+a) Gravedad de la infracción en que se incurra.
+
+b) Nivel jerárquico, antigüedad y las condiciones del infractor en el servicio público.
+
+c) Condiciones socio-económicas del infractor.
+
+d) Antecedentes de imposición de sanciones y posible reincidencia del servidor público en el incumplimiento de obligaciones de la misma naturaleza, en su caso.
+
+Se considerará reincidente al servidor público que habiendo sido declarado responsable del incumplimiento a alguna de las obligaciones de la misma naturaleza a que se refiere el artículo 42 de la Ley, incurra nuevamente en una o varias conductas infractoras a dicho precepto legal.
+
+e) El monto del beneficio, daño o perjuicio económico, derivado del incumplimiento de obligaciones, si lo hubiere.
 
 ###### Artículo 50.
 
@@ -1656,3 +1664,11 @@ CUARTO. El Secretario de la Contraloría llevará a cabo las acciones que permit
 > <small>(F. DE E., G.G. 28 DE MAYO DE 2015)</small>
 
 QUINTO. A la entrada en vigor del presente Decreto, en términos de lo dispuesto por los artículos 79 y 80 bis de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, los servidores públicos obligados, deberán presentar la Manifestación de Bienes y la Declaración de Intereses, de manera inicial, por única ocasión durante los meses de mayo y junio del 2015, para llevarse a cabo, con posterioridad, en el mes de mayo de manera anual.
+
+G.G. 24 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
