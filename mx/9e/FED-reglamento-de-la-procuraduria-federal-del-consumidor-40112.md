@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-procuraduria-federal-del-consumidor-40112"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-16"
-last_updated: "2009-12-14"
+last_updated: "2015-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40112&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2004-07-13"
 ---
 # REGLAMENTO DE LA PROCURADURIA FEDERAL DEL CONSUMIDOR
 
-REGLAMENTO DE LA PROCURADURIA FEDERAL DEL CONSUMIDOR
+REGLAMENTO DE LA PROCURADURÍA FEDERAL DEL CONSUMIDOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE DICIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 24 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS DIEZ DÍAS HÁBILES SIGUIENTES A LA FECHA DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE AGOSTO DE 2015.
 
 Reglamento publicado en la Sección Primera del Diario Oficial de la Federación, el viernes 16 de julio de 2004.
 
@@ -81,7 +83,11 @@ III.- Subprocuraduría de Verificación;
 
 IV.- Subprocuraduría Jurídica;
 
-V.- Coordinación General de Planeación;
+> <small>(ADICIONADA, D.O.F. 24 DE AGOSTO DE 2015)</small>
+
+IV Bis.- Subprocuraduría de Telecomunicaciones;
+
+V.- (DEROGADA, D.O.F. 24 DE AGOSTO DE 2015)
 
 VI.- Coordinación General de Educación y Divulgación;
 
@@ -106,6 +112,18 @@ XV.- Laboratorio Nacional de Protección al Consumidor;
 XVI.- Dirección General Jurídica Consultiva;
 
 XVII.- Dirección General de lo Contencioso y de Recursos;
+
+> <small>(ADICIONADA, D.O.F. 24 DE AGOSTO DE 2015)</small>
+
+XVII Bis.- Dirección General de Protección al Consumidor de Telecomunicaciones;
+
+> <small>(ADICIONADA, D.O.F. 24 DE AGOSTO DE 2015)</small>
+
+XVII Ter.- Dirección General de Procedimientos y Análisis Publicitario de Telecomunicaciones;
+
+> <small>(ADICIONADA, D.O.F. 24 DE AGOSTO DE 2015)</small>
+
+XVII Quáter.- Dirección General de Defensa Colectiva y Contratos de Adhesión de Telecomunicaciones;
 
 XVIII.- Dirección General de Estudios sobre Consumo;
 
@@ -139,11 +157,15 @@ El Órgano Interno de Control, su Titular y los titulares de las áreas de audit
 
 La adscripción y organización interna de las unidades administrativas de la Procuraduría, así como la distribución de las funciones previstas en la Ley entre dichas unidades que no se señalen en este Reglamento, se establecerán en el Estatuto Orgánico que expedirá el Procurador en los términos previstos por el artículo 27, fracción X, de la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE AGOSTO DE 2015)</small>
+
 ###### ARTÍCULO 7.
 
-Sin perjuicio de lo previsto por otras normas aplicables, en los casos de ausencia temporal, los servidores públicos adscritos a la Procuraduría, serán suplidos de la siguiente manera:
+Sin perjuicio de lo previsto por otras normas aplicables, en los casos de ausencia, los servidores públicos adscritos a la Procuraduría, serán suplidos de la siguiente manera:
 
-I.- El Procurador, por los Subprocuradores y Coordinadores Generales conforme a la materia de su competencia. En el caso del ejercicio de las atribuciones establecidas en el artículo 27 de la Ley, por el Subprocurador Jurídico, el de Servicios o el de Verificación, en ese orden y a falta de ellos, por el Coordinador General de Planeación;
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2015)</small>
+
+I.- El Procurador, por el Subprocurador Jurídico, el Subprocurador de Servicios, el Subprocurador de Verificación, el Subprocurador de Telecomunicaciones, el Coordinador General de Educación y Divulgación y por el Coordinador General de Administración, en el orden indicado;
 
 II.- Los Subprocuradores y Coordinadores Generales, por los Directores Generales de su adscripción conforme a la materia que corresponda o por el servidor público que determine el Procurador;
 
@@ -183,9 +205,11 @@ VIII.- Las demás que le otorguen otros ordenamientos jurídicos.
 
 ### CAPÍTULO III. DE LOS SUBPROCURADORES Y COORDINADORES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE AGOSTO DE 2015)</small>
+
 ###### ARTÍCULO 9.
 
-Los Subprocuradores y los Coordinadores Generales tendrán las siguientes atribuciones:
+Los Subprocuradores y los Coordinadores Generales, en el ámbito de su competencia, tienen las siguientes atribuciones:
 
 I.- Planear, coordinar, controlar, dar seguimiento y evaluar las acciones en las unidades administrativas bajo su adscripción y, en el caso de las delegaciones, supervisar que su operación se lleve a cabo de conformidad con los programas y lineamientos normativos que correspondan a su competencia;
 
@@ -215,11 +239,29 @@ XII.- Autorizar los programas de capacitación que presenten, en el ámbito de s
 
 XIII.- Enviar a la Dirección General de Programación, Organización y Presupuesto los informes sobre el ejercicio del presupuesto y los avances en la ejecución de sus programas, así como la información contable y bancaria correspondiente;
 
-> <small>(ADICIONADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2015)</small>
 
-XIV.- Proponer al Coordinador General de Administración, en el ámbito de sus respectivas competencias, los precios y tarifas y, en su caso, su actualización, de los bienes y servicios que ofrecen al público a través de las unidades administrativas de su adscripción, y
+XIV.- Proponer al Coordinador General de Administración, en el ámbito de sus respectivas competencias, los precios y tarifas y, en su caso, su actualización, de los bienes y servicios que ofrecen al público a través de las unidades administrativas de su adscripción;
 
-XV.- Las demás que les confieran otros ordenamientos jurídicos y el Procurador.
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2015)</small>
+
+XV.- Someter a la aprobación del Procurador nuevos o mejores sistemas y mecanismos que faciliten a los consumidores el acceso a bienes y servicios en mejores condiciones de mercado y promover su aplicación;
+
+> <small>(ADICIONADA, D.O.F. 24 DE AGOSTO DE 2015)</small>
+
+XVI.- Requerir a los proveedores o a las autoridades competentes a que tomen medidas adecuadas para combatir, detener, modificar o evitar todo género de prácticas que lesionen los intereses de los consumidores, y cuando lo considere pertinente, publicar en cualquier medio dicho requerimiento;
+
+> <small>(ADICIONADA, D.O.F. 24 DE AGOSTO DE 2015)</small>
+
+XVII.- Recopilar, elaborar, procesar y divulgar información objetiva para facilitar al consumidor un mejor conocimiento de los bienes y servicios que se ofrecen en el mercado;
+
+> <small>(ADICIONADA, D.O.F. 24 DE AGOSTO DE 2015)</small>
+
+XVIII.- Publicar, a través de cualquier medio, los productos y servicios que con motivo de sus verificaciones y los demás procedimientos previstos en la Ley sean detectados como riesgosos o en incumplimiento a las disposiciones jurídicas aplicables, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE AGOSTO DE 2015)</small>
+
+XIX.- Las demás que le confieran otras disposiciones jurídicas en el ámbito de su competencia, así como aquellas funciones que les encomiende el Procurador.
 
 ###### ARTÍCULO 10.
 
@@ -301,7 +343,7 @@ V.- Ordenar la verificación y vigilancia de oficio o a petición de parte, en l
 
 > <small>(ADICIONADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
 
-VI.- Comisionar a los servidores públicos que practicarán las visitas de verificación y vigilancia, a efecto de actúen (sic) de manera individual o conjunta;
+VI.- Comisionar a los servidores públicos que practicarán las visitas de verificación y vigilancia, a efecto de (sic) actúen de manera individual o conjunta;
 
 VII.- Formular y coordinar el establecimiento de mecanismos de colaboración de proyectos de investigación específicos;
 
@@ -353,27 +395,59 @@ XII.- Representar a la Procuraduría ante los organismos de defensa de los Derec
 
 XIII.- Fungir como enlace de la Procuraduría para la tramitación y atención de los asuntos relacionados con la Comisión Federal de Mejora Regulatoria.
 
+> <small>(ADICIONADO, D.O.F. 24 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 13 BIS.- Son atribuciones del Subprocurador de Telecomunicaciones:
+
+I.- Vigilar, coordinar, controlar, sustanciar y resolver los procedimientos de conciliación, arbitraje y por infracciones a la Ley, en materia de telecomunicaciones, y cualquier otro procedimiento en la materia que derive de ordenamientos legales diferentes a la Ley, dentro de la competencia de las unidades administrativas que se le adscriban;
+
+II.- Proponer al Procurador los derechos mínimos de los consumidores que deben incluirse en la carta a que se refiere el párrafo tercero del artículo 191 de la Ley Federal de Telecomunicaciones y Radiodifusión, así como coordinar sus acciones con el Instituto Federal de Telecomunicaciones para actualizar dichos derechos y difundirlos a través de los medios de comunicación que estime pertinente;
+
+III.- Emitir, previa opinión de la Subprocuraduría Jurídica, los lineamientos y criterios para la aplicación de los procedimientos previstos en la fracción I del presente artículo, así como los relativos en el ámbito de su competencia en materia de telecomunicaciones, a la bonificación o compensación establecida por la Ley en los artículos 24, fracción XXI, 92, 92 Bis, 92 Ter, 98 Bis, y a la emisión del dictamen a que se refieren los artículos 114, 114 Bis y 114 Ter de la propia Ley y supervisar su cumplimiento;
+
+IV.- Coordinar y convenir acciones de protección al consumidor en materia de telecomunicaciones con proveedores, instituciones y organizaciones de los sectores público, social y privado;
+
+V.- Procurar la solución de las diferencias entre consumidores y proveedores, conforme a los procedimientos establecidos en la Ley, en materia de telecomunicaciones;
+
+VI.- Resolver y emitir laudos arbitrales en el ámbito de su competencia, sin perjuicio de las atribuciones que al respecto correspondan a otros servidores públicos de la Procuraduría;
+
+VII.- Coordinar, instrumentar, vigilar y controlar los procedimientos relativos a la revisión, modificación, registro, publicación, suspensión del uso y cancelación de los contratos de adhesión y sus modelos, y de estados de cuenta, así como suspensión de otras actividades, previstos en la Ley, en la Ley Federal de Telecomunicaciones y Radiodifusión y en otros ordenamientos legales aplicables;
+
+VIII.- Verificar, en el caso de cancelación anticipada del contrato de adhesión por parte del consumidor y de suspensión temporal del servicio por falta de pago, que los pagos de saldos insolutos o no devengados de equipos, así como de los cobros de reconexión por suspensión sean razonables y proporcionales al cumplimiento de la obligación respectiva;
+
+IX.- Verificar, mediante el registro del modelo del contrato de adhesión, que los consumidores puedan celebrar y cancelar los contratos de adhesión, mediante mecanismos expeditos, incluidos los medios electrónicos, y que en dichos modelos se establezcan penas razonables en caso de cancelación anticipada por parte del consumidor, y de suspensión temporal del servicio por falta de pago;
+
+X.- Representar los intereses de los consumidores mediante las acciones que procedan, cuando derivado del ejercicio de sus atribuciones se detecte que los contratos de adhesión utilizados por los proveedores de telecomunicaciones, contengan algunas de las cláusulas señaladas en el artículo 192 de la Ley Federal de Telecomunicaciones y Radiodifusión, para obtener la declaración judicial de nulidad de pleno derecho ante la autoridad competente;
+
+XI.- Ejercer en el ámbito de su competencia, las funciones de verificación y vigilancia de las disposiciones previstas en la Ley, la Ley Federal de Telecomunicaciones y Radiodifusión, la Ley Federal sobre Metrología y Normalización, y de las demás disposiciones jurídicas aplicables;
+
+XII.- Emitir, previo dictamen de la Subprocuraduría Jurídica, los lineamientos y criterios para la verificación y vigilancia en el ámbito de su competencia, el cumplimiento de la Ley, de la Ley Federal de Telecomunicaciones y Radiodifusión, de la Ley Federal sobre Metrología y Normalización, así como de las demás disposiciones jurídicas aplicables y supervisar su observancia;
+
+XIII.- Instruir y coordinar la verificación y vigilancia de la publicidad e información relativas a bienes, productos y servicios que se difundan en aquellos lugares a que se refiere el artículo 96 de la Ley, en materia de telecomunicaciones, así como ordenar, en su caso, la suspensión o corrección de dicha publicidad o información;
+
+XIV.- Coordinar la realización del monitoreo, análisis y evaluación de la publicidad o información relativa a bienes, productos y servicios en materia de telecomunicaciones que se difunda por cualquier medio de comunicación y ordenar, en su caso, la suspensión o corrección de aquélla que viole las disposiciones de la Ley y demás ordenamientos legales que otorguen competencia a la Procuraduría, así como aplicar las sanciones correspondientes;
+
+XV.- Representar individualmente o en grupo a los consumidores ante proveedores, autoridades administrativas y jurisdiccionales, y ejercer cualquier tipo de acciones que correspondan en los términos de la Ley, así como hacer valer toda clase de derechos, excepciones y defensas en cualquier tipo de procedimiento para restituir en sus derechos a los consumidores de los servicios de telecomunicaciones;
+
+XVI.- Realizar en el ámbito de su competencia, análisis, estudios e investigaciones en materia de protección al consumidor de servicios públicos de telecomunicaciones;
+
+XVII.- Proponer al Procurador los criterios y requisitos para la expedición de credenciales del personal que participe en diligencias de verificación y vigilancia en materia de su competencia y, en su caso, expedirlas;
+
+XVIII.- Comisionar a los servidores públicos que practicarán las visitas de verificación y vigilancia, a efecto de que actúen de manera individual o conjunta;
+
+XIX.- Dar vista al Instituto Federal de Telecomunicaciones cuando los proveedores en su calidad de concesionarios o autorizados incurran en violaciones sistemáticas o recurrentes a los derechos de los consumidores, previstos en la Ley y en la Ley Federal de Telecomunicaciones y Radiodifusión; así como intercambiar información relacionada con las quejas de los consumidores, el comportamiento comercial de los proveedores, la verificación del cumplimiento de sus obligaciones y de las sanciones que se impongan, a fin de que dicho Instituto, en su caso, determine ejercer las facultades que estime procedentes;
+
+XX.- Participar en los comités consultivos nacionales de normalización que correspondan conforme a su ámbito de competencia, y
+
+XXI.- Previo acuerdo con el Procurador, ordenar a los proveedores de telecomunicaciones en su calidad de concesionarios o autorizados, que informen a los consumidores sobre las acciones u omisiones que afecten los intereses o derechos de éstos, así como la forma en que los retribuirán o compensarán.
+
+La Subprocuraduría se auxiliará en el ejercicio de sus atribuciones por los Jefes de Departamento de Telecomunicaciones que, en su caso, se establezcan conforme a las disposiciones jurídicas aplicables, en las Delegaciones de la Procuraduría que se requieran, dentro de la circunscripción que les corresponde.
+
+Lo dispuesto en el párrafo anterior es sin perjuicio de las atribuciones que puedan ejercer los Jefes de Departamento de Servicios y de Verificación de las Delegaciones para complementar el ejercicio de las atribuciones en materia de telecomunicaciones.
+
 ###### ARTÍCULO 14.
 
-Son atribuciones del Coordinador General de Planeación:
-
-I.- Coordinar el establecimiento de las estrategias, planes y políticas necesarias para alcanzar los objetivos y metas institucionales;
-
-II.- Determinar los lineamientos y criterios para la planeación y evaluación de los programas de la Procuraduría;
-
-III.- Coordinar la construcción de indicadores estratégicos y de gestión;
-
-IV.- Coordinar la recopilación de la información estadística que permita la toma de decisiones, así como la elaboración de los informes oficiales de la institución;
-
-V.- Establecer criterios en materia de monitoreo de precios y encuestas;
-
-VI.- Coordinar los estudios e investigaciones en materia de relaciones de consumo y de las actividades que desarrolla la Procuraduría;
-
-VII.- Promover y coordinar la integración del acervo bibliográfico y hemerográfico de la Procuraduría, y
-
-> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
-
-VIII.- Coordinar las relaciones con organizaciones e instituciones extranjeras, así como con organismos internacionales en materias relacionadas con el consumo o la protección al consumidor y coordinarse con la Subprocuraduría Jurídica, para la elaboración y revisión de los documentos e instrumentos jurídicos correspondientes.
+(DEROGADO, D.O.F. 24 DE AGOSTO DE 2015)
 
 ###### ARTÍCULO 15.
 
@@ -505,7 +579,9 @@ XXI.- Elaborar y proponer a su superior jerárquico los programas de capacitaci�
 
 XXII.- Enviar a la Dirección General de Programación, Organización y Presupuesto los informes sobre el ejercicio del presupuesto y los avances en la ejecución de sus programas, así como la información contable y bancaria correspondiente, y
 
-XXIII.- Las demás que les confieran otros ordenamientos jurídicos o el Procurador.
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2015)</small>
+
+XXIII.- Las demás que le confieran otras disposiciones jurídicas en el ámbito de su competencia, así como aquellas funciones que les encomiende el Procurador.
 
 El Procurador podrá determinar que servidores públicos subalternos a los Directores Generales puedan también ejercer algunas de las atribuciones a que se refiere el presente artículo. Para tal efecto, emitirá los acuerdos que correspondan, mismos que deberán publicarse en el Diario Oficial de la Federación.
 
@@ -553,7 +629,7 @@ XII.- Ordenar la realización de diligencias de acreditación de hechos, notific
 
 > <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
 
-XIII.- Ordenar la verificación y vigilancia de oficio o a petición de parte, en los términos previstos en la Ley y, en el ámbito de su competencia, de la Ley Federal sobre Metrología y Normalización, de las normas a que ésta se refiere y de las demás disposiciones legales, reglamentarias y normativas aplicables, y comisionar a los servidores públicos que practicarán las visitas de verificación y vigilancia, a efecto de actúen (sic) de manera individual o conjunta;
+XIII.- Ordenar la verificación y vigilancia de oficio o a petición de parte, en los términos previstos en la Ley y, en el ámbito de su competencia, de la Ley Federal sobre Metrología y Normalización, de las normas a que ésta se refiere y de las demás disposiciones legales, reglamentarias y normativas aplicables, y comisionar a los servidores públicos que practicarán las visitas de verificación y vigilancia, a efecto de (sic) actúen de manera individual o conjunta;
 
 XIV.- Expedir las credenciales del personal que participe en diligencias de verificación;
 
@@ -639,6 +715,10 @@ I.- Al Jefe de Departamento de Servicios competerá el ejercicio de las atribuci
 
 II.- Al Jefe de Departamento de Verificación y Vigilancia corresponderá el ejercicio de las atribuciones mencionadas en las fracciones IV, IX, X, XII, XIII, XV, XVI, XXIII, XXXVII y XLII;
 
+> <small>(ADICIONADA, D.O.F. 24 DE AGOSTO DE 2015)</small>
+
+II Bis.- Al Jefe de Departamento de Telecomunicaciones, en el ámbito de su competencia, corresponderá el ejercicio de las atribuciones mencionadas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XV, XVI, XXI, XXIII, XXXVII y XLII;
+
 > <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2009)</small>
 
 III.- Al Jefe de Departamento de Educación y Divulgación competerá el ejercicio de las atribuciones indicadas en las fracciones XVIII, XIX, XX, XXVII y XLII, y
@@ -673,10 +753,18 @@ TERCERO.- Los procedimientos y recursos iniciados conforme al Reglamento que se 
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los trece días del mes de julio de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Economía, Fernando de Jesús Canales Clariond.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 14 DE DICIEMBRE DE 2009.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- La entrada en vigor del presente Decreto no implicará erogaciones adicionales, por lo que la Procuraduría Federal del Consumidor debe sujetarse al Presupuesto de Egresos de la Federación para el ejercicio fiscal en curso y no incrementar su presupuesto regularizable.
+
+D.O.F. 24 DE AGOSTO DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor a los diez días hábiles siguientes a la fecha de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Procuraduría realizará las modificaciones a su Estatuto Orgánico, para la operación de la Subprocuraduría de Telecomunicaciones, dentro de los cuarenta y cinco días hábiles posteriores a la publicación del presente Decreto.
+
+TERCERO.- Los procedimientos, actos administrativos y asuntos en materia de Telecomunicaciones iniciados, previo a la entrada en vigor del presente Decreto, continuarán su substanciación en las áreas administrativas conforme a la normatividad vigente al momento de su inicio, hasta su total conclusión.
