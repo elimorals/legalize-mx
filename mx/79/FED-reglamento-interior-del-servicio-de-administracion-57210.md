@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-servicio-de-administracion-57210"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-22"
-last_updated: "2013-12-30"
+last_updated: "2015-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57210&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2007-10-17"
 
 REGLAMENTO INTERIOR DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2013.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO PRIMERO Y SÉPTIMO DEL REGLAMENTO INTERIOR DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 24 DE AGOSTO DE 2015, ORDENAMIENTO QUE ENTRARÁ EN VIGOR A LOS TREINTA DÍAS SIGUIENTES DE LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE AGOSTO DE 2015.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 22 de octubre de 2007.
 
@@ -4832,3 +4834,49 @@ CUARTO.- Las modificaciones a la estructura orgánica del Servicio de Administra
 QUINTO.- Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones, a las unidades administrativas del Servicio de Administración Tributaria y de la Secretaría de Hacienda y Crédito Público que cambien de denominación o que se eliminen por virtud del presente Decreto, se entenderán hechas o conferidas a las unidades administrativas que resulten competentes conforme al mismo.
 
 SEXTO.- Los asuntos en trámite que son atendidos por unidades administrativas que desaparecen, cambian de denominación o modifican sus atribuciones en virtud de la entrada en vigor del presente Decreto, serán atendidos y resueltos por las unidades administrativas a las que se les da la competencia correspondiente en este instrumento.
+
+D.O.F. 24 DE AGOSTO DE 2015.
+
+PRIMERO.- El presente Reglamento entrará en vigor a los noventa días naturales siguientes a su publicación en Diario Oficial de la Federación, salvo lo dispuesto en las fracciones siguientes:
+
+I. Los artículos 2, apartado B, fracción VI; 8, fracción XVII; 11, 12 y 13 respecto de la Administración General de Hidrocarburos y sus unidades administrativas; 30 y 31 de este Reglamento, entrarán en vigor al día siguiente a la publicación en el Diario Oficial de la Federación del presente ordenamiento;
+
+II. La derogación de las disposiciones contenidas en los artículos 30, párrafo tercero, numeral 7; 31-BIS; 32, párrafo tercero, numeral 10; 34, y 37, apartado C del Reglamento Interior del Servicio de Administración Tributaria que se abroga, entrará en vigor a los treinta días siguientes de la entrada en vigor del presente ordenamiento, y
+
+III. Lo previsto en los artículos 35, fracciones XXXVI respecto de la designación de asesores jurídicos y XXXVIII y 40, fracciones XLVI y XLVII respecto a la referencia a investigaciones, de este Reglamento, iniciarán su vigencia una vez que entre en vigor el Código Nacional de Procedimientos Penales, de conformidad con el artículo Segundo Transitorio del referido Código, publicado el 5 de marzo de 2014 en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, a las unidades administrativas del Servicio de Administración Tributaria que desaparecen o cambien de denominación por virtud del presente Reglamento, se entenderán hechas o conferidas a las unidades administrativas que resulten competentes conforme al mismo.
+
+TERCERO.- Los asuntos en trámite que son atendidos por unidades administrativas que modifican sus atribuciones en virtud de la entrada en vigor del presente Reglamento, serán atendidos y resueltos por las unidades administrativas a las que se les da la competencia conforme a este ordenamiento.
+
+CUARTO.- Las unidades administrativas del Servicio de Administración Tributaria que a la fecha de entrada en vigor del presente Reglamento tienen conferidas las atribuciones relacionadas con las autorizaciones y los asuntos concernientes al apoderado aduanal, las continuarán ejerciendo en los términos del Reglamento Interior del Servicio de Administración Tributaria que se abroga hasta que las mismas se cancelen, extingan o se les revoquen a dichos apoderados, de conformidad con lo dispuesto en el quinto transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Aduanera publicado el 9 de diciembre de 2013 en el Diario Oficial de la Federación.
+
+QUINTO.- La Administración General de Auditoría de Comercio Exterior continuará siendo competente para resolver las consultas de clasificación arancelaria que le hayan sido presentadas con anterioridad a la entrada en vigor de este Reglamento.
+
+SEXTO.- Para efectos de los artículos 28 y 29 de este Reglamento, las atribuciones señaladas en dichos artículos, se ejercerán respecto de las sociedades mercantiles controladas y controladoras que:
+
+I. Contaban con la autorización para determinar su resultado fiscal consolidado conforme al Título II, Capítulo VI de la Ley del Impuesto sobre la Renta vigente al 31 de diciembre de 2013. Dichas atribuciones se ejercerán hasta el ejercicio inmediato posterior a aquél en que ninguna de las sociedades controladas, hubiere consignado en su última declaración normal del ejercicio ingresos acumulables para efectos del impuesto sobre la renta superiores a un monto equivalente a 1,250 millones de pesos, y
+
+II. Continúen determinando el impuesto sobre la renta consolidado, en términos del Artículo Noveno, fracción XVI de las Disposiciones Transitorias del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto al Valor Agregado; de la Ley del Impuesto Especial sobre Producción y Servicios; de la Ley Federal de Derechos, se expide la Ley del Impuesto sobre la Renta, y se abrogan la Ley del Impuesto Empresarial a Tasa Única, y la Ley del Impuesto a los Depósitos en Efectivo, publicado el 11 de diciembre de 2013 en el Diario Oficial de la Federación.
+
+SÉPTIMO.- Se abroga el Reglamento Interior del Servicio de Administración Tributaria publicado el 22 de octubre de 2007 en el Diario Oficial de la Federación y el Acuerdo mediante el cual se delegan diversas atribuciones a Servidores Públicos del Servicio de Administración Tributaria que en el mismo se indican, publicado el 7 de enero de 2014 en el citado órgano de difusión.
+
+OCTAVO.- Sin perjuicio de lo dispuesto en el transitorio primero del presente Reglamento, se aplicarán las siguientes disposiciones:
+
+I. La Administración Central de Apoyo Jurídico y Normatividad Internacional de la Administración General de Grandes Contribuyentes, continuará siendo competente para resolver el cumplimiento de las sentencias derivadas de los juicios contenciosos administrativos o juicios de amparo, así como las resoluciones de recursos de revocación recaídas respecto de las resoluciones que se hubieren emitido en materia del Registro de Bancos, Entidades de Financiamiento, Fondos de Pensiones y Jubilaciones y Fondos de Inversión del Extranjero;
+
+II. Las unidades administrativas centrales adscritas a la Administración General de Grandes Contribuyentes continuarán siendo competentes para sustanciar y concluir cualquier asunto en trámite que le haya sido presentado con anterioridad a la entrada en vigor del presente Reglamento, así como para ejercer las facultades de comprobación iniciadas por ellas respecto de los sujetos que con motivo del Reglamento que se expide ya no sean competencia de la Administración General de Grandes Contribuyentes.
+
+En todos los casos, la unidad administrativa competente notificará por escrito a los contribuyentes de la sustitución de autoridad;
+
+III. La Administración General de Grandes Contribuyentes y la Administración General Jurídica serán competentes para revocar las respuestas favorables a los contribuyentes que lo soliciten y manifiesten su conformidad de acuerdo con lo dispuesto en el Artículo Segundo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Código Fiscal de la Federación; de las Leyes de los Impuestos sobre la Renta, al Activo y Especial sobre Producción y Servicios; de la Ley Federal del Impuesto sobre Automóviles Nuevos y de la Ley Federal de Procedimiento Contencioso Administrativo, publicado el 27 de diciembre de 2006 en el Diario Oficial de la Federación;
+
+IV. Las solicitudes de órdenes de pago en dinero o en bienes equivalentes del valor de las mercancías depositadas en los recintos fiscales y bajo la custodia de las autoridades aduaneras que se extravíen o por cualquier otra circunstancia no se puedan entregar, que a la entrada en vigor de este Reglamento, se encuentren en trámite ante la Administración General de Grandes Contribuyentes, deberán concluirse por dicha Administración General;
+
+V. Los cumplimientos de sentencias derivadas de los juicios contenciosos administrativos federales o juicios de amparo, así como las resoluciones derivadas de los recursos de revocación, recaídas respecto de las resoluciones que se hayan emitido por la Administración General de Grandes Contribuyentes como resultado de las solicitudes de órdenes de pago en dinero o en bienes equivalentes al valor de las mercancías depositadas en los recintos fiscales y bajo la custodia de las autoridades aduaneras que se extravíen o por cualquier otra circunstancia no se puedan entregar deberán ser efectuados por dicha Administración General, y
+
+VI. El personal, expedientes en trámite, archivo, mobiliario y, en general, todo el equipo a cargo de las administraciones regionales de evaluación, serán asignados durante el plazo de noventa días que prevé el transitorio primero del presente Reglamento, a la Administración Central de Coordinación Evaluatoria de la Administración General de Evaluación, quien realizará la distribución conforme a las necesidades de las unidades administrativas que conforman a dicha Administración General.
+
+Los expedientes en trámite y archivos a cargo de las administraciones regionales de evaluación relativos a hechos posiblemente constitutivos de responsabilidades administrativas o delitos de los servidores públicos del Servicio de Administración Tributaria, generados con anterioridad a la entrada en vigor del presente Reglamento, deberán ser entregados a la Administración Central de Coordinación Evaluatoria de la Administración General de Evaluación, durante el plazo establecido en el transitorio primero del presente Reglamento.
+
+NOVENO.- Las modificaciones a la estructura orgánica del Servicio de Administración Tributaria que deriven de la entrada en vigor del presente Reglamento, se realizarán a través de movimientos compensados del presupuesto autorizado de servicios personales de dicho órgano administrativo desconcentrado para el ejercicio fiscal en curso, por lo que no se incrementará el presupuesto regularizable de servicios personales para el siguiente ejercicio fiscal.
