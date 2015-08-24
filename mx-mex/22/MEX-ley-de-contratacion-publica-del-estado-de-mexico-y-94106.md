@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-contratacion-publica-del-estado-de-mexico-y-94106"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-03"
-last_updated: "2013-05-03"
+last_updated: "2015-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2015.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el viernes 3 de mayo de 2013.
 
@@ -759,9 +759,11 @@ En los casos de rescisión o terminación anticipada del contrato, el saldo por 
 
 Si el proveedor o prestador de servicios no reintegra el saldo por amortizar en el plazo señalado en el párrafo anterior, deberá pagar gastos financieros, conforme a una tasa que será igual a la establecida anualmente en la Ley de Ingresos del Estado de México o en la Ley de Ingresos de los Municipios del Estado de México, para los casos de prórroga en el pago de créditos fiscales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 74.
 
-La Secretaría, las dependencias, las entidades, los tribunales administrativos y los ayuntamientos se abstendrán de recibir propuestas o de celebrar contratos con las personas siguientes:
+La Secretaría, las dependencias, las entidades, los Órganos Autónomos Constitucionales, los Tribunales Administrativos, los Ayuntamientos y los Organismos Auxiliares, se abstendrán de recibir propuestas o de celebrar contratos con las personas siguientes:
 
 I. Aquellas con las que el servidor público, que intervenga en cualquier etapa del procedimiento de adquisición o de la contratación, tenga interés personal, familiar o de negocios, incluyendo las que pueda obtener algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o terceros con los que tenga relaciones profesionales, laborales o de negocios, o socios o sociedades de las que las personas antes referidas formen parte, durante los dos años previos a la fecha de la celebración del procedimiento de que se trate.
 
@@ -793,7 +795,17 @@ XIV. Aquellas que por sí o a través de empresas que formen parte del mismo gru
 
 XV. Las que hayan utilizado información privilegiada, proporcionada indebidamente por cualquier medio.
 
-XVI. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de ley.
+> <small>(REFORMADA, G.G. 24 DE AGOSTO DE 2015)</small>
+
+XVI. Los proveedores, contratistas o particulares, sujetos a procedimiento por responsabilidad administrativa resarcitoria, con independencia de que se afecten recursos económicos del Estado o de los concertados o convenidos con la Federación y los municipios, que se traduzcan en daños y perjuicios causados a la Hacienda Pública del Estado, del Municipio o al patrimonio de sus Organismos Auxiliares y Fideicomisos Públicos.
+
+> <small>(ADICIONADA, G.G. 24 DE AGOSTO DE 2015)</small>
+
+XVII. Los proveedores, contratistas o particulares, a quienes se les haya impuesto responsabilidad administrativa resarcitoria, entre tanto no realicen la indemnización respectiva.
+
+> <small>(ADICIONADA, G.G. 24 DE AGOSTO DE 2015)</small>
+
+XVIII. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de ley.
 
 En los términos que se precisarán en el reglamento de esta Ley, la Secretaría de la Contraloría llevará el registro de las personas que se encuentren en cualquiera de los supuestos a que se refieren las fracciones II, IV, VI y VII, dará a conocer a las dependencias y entidades y recibirá de éstas la información correspondiente para la integración y difusión de dicho registro.
 
@@ -1042,3 +1054,13 @@ El SECRETARIO GENERAL DE GOBIERNO
 MTRO. EFREN ROJAS DAVILA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 24 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
