@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-atencion-a-personas-con-discapacidad-del-estado-de-68772
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-25"
-last_updated: "2009-04-25"
+last_updated: "2015-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE ATENCION A PERSONAS CON DISCAPACIDAD DEL ESTADO DE OAXACA
 
-LEY DE ATENCION A PERSONAS CON DISCAPACIDAD DEL ESTADO DE OAXACA
+LEY DE ATENCIÓN A PERSONAS CON DISCAPACIDAD DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 24 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2015 (DEROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 25 de abril de 2009.
 
@@ -275,7 +277,7 @@ III.- Propiciar la colaboración y participación de instituciones públicas y p
 
 IV.- Diseñar e instrumentar programas de vinculación con la sociedad civil que permitan la plena integración de las personas con discapacidad en la vida económica, política, social, artística, cultural y deportiva;
 
-V.- Proponer la realización de estudios que contribuyan a mejorar la planeación y programación de las medidas y acciones para elevar la calidad de vida de las personas ron discapacidad;
+V.- Proponer la realización de estudios que contribuyan a mejorar la planeación y programación de las medidas y acciones para elevar la calidad de vida de las personas con discapacidad;
 
 VI.- Participar en la evaluación de programas para personas con discapacidad, así como diseñar y proponer modelos de intervención, en los cuales las instituciones puedan articular los recursos humanos, materiales y operativos para la atención y prevención de las problemáticas que enfrentan las personas con discapacidad en el Estado y que limitan su adecuado desarrollo;
 
@@ -301,7 +303,7 @@ XVI.- Promover la instalación de los Consejos Municipales para las Personas con
 
 XVII.- Promover la celebración de los convenios que sean necesarios para el cumplimiento de sus objetivos;
 
-XVIII.- Denunciar ante la Comisión para la Defensa de los Derechos Humanos las posibles violaciones a los derechos de las personas con discapacidad, para que aquella se pronuncie al especto;
+XVIII.- Denunciar ante la Comisión para la Defensa de los Derechos Humanos las posibles violaciones a los derechos de las personas con discapacidad, para que aquella se pronuncie al respecto;
 
 XIX.- Aprobar el Reglamento Interno;
 
@@ -309,7 +311,7 @@ XX.- Aprobar el Programa Estatal para el Desarrollo de las Personas con Discapac
 
 XXI.- Aprobar y remitir al Congreso del Estado un informe anual de actividades;
 
-XXII.- Las demás que sella len la presente Ley, su Reglamento y otras disposiciones legales.
+XXII.- Las demás que señalen la presente Ley, su Reglamento y otras disposiciones legales.
 
 ###### ARTÍCULO 13.
 
@@ -519,7 +521,7 @@ El Sistema DIF-OAXACA promoverá la integración de personas con discapacidad en
 
 Los gobiernos estatal y municipales, realizarán acciones de promoción de sus cursos de capacitación entre la población con discapacidad y permitirán el acceso en igualdad de condiciones de dicha población, debiendo establecer una línea de orientación laboral que permita relacionar las capacidades de beneficio y su adecuación con la demanda laboral.
 
-Asimismo establecerá de forma permanente·cursos de capacitación a corto plazo para que la población con discapacidad desempleada obtenga la capacitación requerida por el aparato productivo, con el objeto de facilitar su incorporación a éste.
+Asimismo establecerá de forma permanente cursos de capacitación a corto plazo para que la población con discapacidad desempleada obtenga la capacitación requerida por el aparato productivo, con el objeto de facilitar su incorporación a éste.
 
 ###### ARTÍCULO 43.
 
@@ -717,7 +719,7 @@ El lenguaje utilizado por personas sordas, es un medio válido de manifestación
 
 Los programas informativos locales del Gobierno del Estado transmitidos por el canal de televisión estatal, procurarán contar con los servicios de apoyo, inclusive intérpretes o mensajes escritos en las pantallas de televisión, para garantizar a las personas con deficiencias auditivas el ejercicio de su derecho a la información.
 
-El Gobierno del Estado, destinará un tiempo mensual de transmisión por radio y televisión dependiente de éste, para que las personas o grupos con discapacidad, organizaciones o dependencias encargadas de l a atención a estos grupos vulnerables, puedan dar a conocer su problemática o trabajos realizados en beneficio de la sociedad oaxaqueña.
+El Gobierno del Estado, destinará un tiempo mensual de transmisión por radio y televisión dependiente de éste, para que las personas o grupos con discapacidad, organizaciones o dependencias encargadas de la atención a estos grupos vulnerables, puedan dar a conocer su problemática o trabajos realizados en beneficio de la sociedad oaxaqueña.
 
 ###### ARTÍCULO 80.
 
@@ -851,7 +853,7 @@ La infracción a las disposiciones de esta Ley, será denunciada ante la autorid
 
 ###### ARTÍCULO 98.
 
-Cuando la infracción sea cometida por un funcionario·público, presentada la queja, el superior jerárquico deberá aplicar el procedimiento que establece la Ley de Responsabilidades de los Servidores Públicos del Estado o las medidas correspondientes al régimen que pertenezca la persona denunciada, sin perjuicio de las sanciones pecuniarias o de los delitos en que incurra.
+Cuando la infracción sea cometida por un funcionario público, presentada la queja, el superior jerárquico deberá aplicar el procedimiento que establece la Ley de Responsabilidades de los Servidores Públicos del Estado o las medidas correspondientes al régimen que pertenezca la persona denunciada, sin perjuicio de las sanciones pecuniarias o de los delitos en que incurra.
 
 La aplicación de estas medidas deberá ser inmediata, bajo pena de incurrir el superior jerárquico en responsabilidades por la omisión.
 
@@ -904,3 +906,23 @@ Tlalixtac de Cabrera, Centro Oax., a 19 de marzo del 2009.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ING. JORGE TOLEDO LUIS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE AGOSTO DE 2015.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se deroga la Ley de Atención a Personas con Discapacidad del Estado de Oaxaca, publicada en el Periódico Oficial del Estado de Oaxaca, el veinticinco de abril de 2009, mediante Decreto número 954.
+
+TERCERO.- El Consejo Estatal de las Personas con Discapacidad, se constituirá a más tardar a los treinta días de la entrada en vigor de la presente Ley.
+
+CUARTO.- El Consejo Estatal de las Personas con Discapacidad dispondrá de treinta días contados a partir de su constitución para emitir su reglamento interior.
+
+QUINTO.- El Gobierno del Estado, a través de las respectivas dependencias y entidades, y los ayuntamientos contarán con 180 días naturales para la integración del Sistema Estatal de información de Personas con Discapacidad, mismo que deberá ser entregado a la Secretaría de Desarrollo Social y Humano dentro del mismo término, la omisión en el acatamiento de esta disposición dará pie al fincamiento de las responsabilidades administrativas conducentes.
+
+SEXTO.- La Secretaría de Desarrollo Social y Humano contará con 90 días naturales, contados a partir de que fenezca el término señalado en el artículo transitorio que precede, para la integración del Sistema Estatal de Información de Personas con Discapacidad, la omisión en el acatamiento de esta disposición dará pie al fincamiento de las responsabilidades administrativas procedentes.
+
+SÉPTIMO.- Frente a las disposiciones jurídicas y administrativas que contravengan a lo ordenado en la presente ley, se aplicará lo dispuesto por esta y ante normas que brinden apoyos distintos inconciliables, se optará por el que otorgue mayor protección o beneficio a las personas con discapacidad, de acuerdo al caso concreto.
+
+OCTAVO.- El Congreso del Estado deberá iniciar la armonización de la legislación vigente a partir de la entrada en vigor de la presente Ley.
