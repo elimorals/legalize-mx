@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2015-08-20"
+last_updated: "2015-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2015.
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -2138,6 +2138,10 @@ Los gastos que se originen serán cubiertos por el actor o en su defecto por el 
 > <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
 En materia familiar, cuando haya que decidir sobre la guarda y custodia de los menores, en los casos en que las partes, el Ministerio Público o la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de México no hayan solicitado la realización de pruebas periciales en materia de trabajo social y psicología familiar, para demostrar qué persona es la más idónea para hacerse cargo de manera definitiva del menor, el Juez las mandará realizar oficiosamente.
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2015)</small>
+
+En caso de que el tutor con la guarda y custodia tuviera una nueva pareja con la cual el menor tuviera que cohabitar, el Juez podrá solicitar las mismas pruebas periciales a las que se refiere el párrafo anterior con el propósito de garantizar el interés superior de niñas, niños y adolescentes.
 
 Carga de la prueba
 
@@ -8818,3 +8822,13 @@ QUINTO. El DIFEM, en un plazo no mayor a los treinta días hábiles posteriores 
 SEXTO. La Legislatura proveerá los recursos necesarios para dar cumplimiento a lo previsto en el presente Decreto.
 
 SÉPTIMO. El Sistema para el Desarrollo Integral de la Familia DIF, Estado de México, presentara a la legislatura un informe del impacto social del presente decreto, al año de su entrada en vigor.
+
+G.G. 24 DE AGOSTO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto entrará en vigor a los treinta días siguientes de su publicación en el Período (sic) Oficial “Gaceta del Gobierno”.
