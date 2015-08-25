@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-organismo-publico-descentralizado-90623
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-27"
-last_updated: "2012-11-27"
+last_updated: "2015-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DEL ORGANISMO PÚBLICO DESCENTRALIZADO RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE AGOSTO DE 2015.
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 27 de noviembre de 2012.
 
@@ -39,13 +39,17 @@ La Junta de Gobierno del Organismo Público Descentralizado Régimen Estatal de 
 
 REGLAMENTO INTERIOR DEL ORGANISMO PÚBLICO DESCENTRALIZADO RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD.
 
-CONTENIDO
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 1.
 
-El presente reglamento interior tiene por objeto regular la organización, funcionamiento, operación y competencia del Organismo Público Descentralizado Régimen Estatal de Protección Social en Salud, así como las atribuciones de su Dirección General, Direcciones y distintas áreas que lo integran.
+El presente Reglamento interior tiene por objeto regular la organización, funcionamiento, operación y competencia del Organismo Público Descentralizado Régimen Estatal de Protección Social en Salud, así como las atribuciones de su Dirección General, Direcciones y distintas áreas que lo integran.
+
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 2.
 
@@ -71,17 +75,23 @@ IX. Secretaría: Secretaría de Salud del Estado de Veracruz.
 
 X. SESVER: Servicios de Salud de Veracruz.
 
-XI. SMNG: Seguro Médico para una Nueva Generación.
+XI. SMSXXI: Seguro Médico Siglo XXI.
 
 XII. SPSS: Sistema de Protección Social en Salud.
+
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 3.
 
 El REPSS es un Organismo Público Descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría y con residencia en la ciudad de Xalapa, Veracruz de Ignacio de la Llave.
 
-El REPSS tiene como objetivo garantizar las acciones de protección social en salud, mediante el financiamiento y la coordinación eficiente, oportuna y sistemática de la provisión de servicios de salud, de conformidad con su decreto, el presente reglamento y demás disposiciones legales aplicables en materia de salud.
+El REPSS tiene como objetivo garantizar las acciones de protección social en salud, mediante el financiamiento y la coordinación eficiente, oportuna y sistemática de la provisión de servicios de salud, de conformidad con la Ley General de Salud, Ley Estatal de Salud y sus Reglamentos, así como con el presente Reglamento, Decreto de Creación y demás disposiciones legales aplicables en materia de salud.
+
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
 
 ### CAPÍTULO II. De las Atribuciones y Organización
+
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 4.
 
@@ -93,7 +103,7 @@ II. Coordinar las acciones necesarias para realizar la efectiva tutela de derech
 
 III. Divulgar entre los afiliados del SPSS en la entidad, los derechos y obligaciones que adquieren en su calidad de beneficiarios;
 
-IV. Promover la formalización de los acuerdos de coordinación, de gestión y de transferencia de recursos con las dependencias y entidades de las administraciones públicas federal y estatal, para la ejecución del SPSS en la entidad;
+IV. Promover la formalización de los acuerdos de coordinación, de gestión y de transferencia de recursos con las dependencias y entidades de las administraciones públicas federal y estatal para la ejecución del SPSS en la entidad;
 
 V. Promover la coordinación interinstitucional con regímenes estatales homólogos de otras entidades federativas para reforzar acciones y programas operativos afines, establecidos por el SPSS;
 
@@ -101,7 +111,7 @@ VI. Promover la formalización de los acuerdos de coordinación necesarios con l
 
 VII. Promover y coordinar la participación de los municipios en el SPSS y sus aportaciones económicas mediante la suscripción de convenios, de conformidad con la legislación aplicable;
 
-VIII. Garantizar y gestionar la provisión de los servicios de salud para los beneficiarios del SPSS previstos en el CAUSES, SMNG y FPcGC, y supervisar la adecuada prestación de los mismos;
+VIII. Garantizar y gestionar la provisión de los servicios de salud para los beneficiarios del SPSS previstos en el CAUSES, SMSXXI y FPcGC, y supervisar la adecuada prestación de los mismos;
 
 IX. Garantizar a través de SESVER o de otros prestadores de servicios de salud la capacidad de insumos, el suministro de medicamentos necesarios para su oferta y calidad, y la prestación de servicios médicos, a los beneficiarios del SPSS;
 
@@ -109,9 +119,9 @@ X. Realizar el seguimiento operativo de las acciones en materia de protección s
 
 XI. Impulsar, coordinar y vincular sus acciones con las de otros programas sociales para la atención de grupos vulnerables;
 
-XII. Asegurar el acceso al paquete básico garantizado de salud a las familias beneficiarias del Programa de Desarrollo Humano Oportunidades, con el propósito de impulsar el uso de los servicios de salud preventivos y el autocuidado de la salud y nutrición de todos sus integrantes;
+XII. Asegurar el acceso al paquete básico garantizado de salud a las familias beneficiarias de PROSPERA Programa de Inclusión Social, con el propósito de impulsar el uso de los servicios de salud preventivos y el autocuidado de la salud y nutrición de todos sus integrantes;
 
-XIII. Garantizar los complementos alimentarios a las familias beneficiarias del Programa de Desarrollo Humano Oportunidades, para mejorar la alimentación y nutrición de todos sus integrantes, con énfasis en la población más vulnerable como son los niños y niñas, mujeres embarazadas y en periodo de lactancia;
+XIII. Garantizar los complementos alimentarios a las familias beneficiarias de PROSPERA Programa de Inclusión Social, para mejorar la alimentación y nutrición de todos sus integrantes, con énfasis en la población más vulnerable como son los niños y niñas, mujeres embarazadas y en periodo de lactancia;
 
 XIV. Promover y vigilar que SESVER u otros prestadores de servicios de salud adopten esquemas de operación, que contribuyan al mejoramiento de la atención de los beneficiarios del SPSS, modernicen la administración de los servicios y registros clínicos, alienten la certificación de su personal y promuevan la acreditación de establecimientos de atención médica;
 
@@ -121,9 +131,9 @@ XVI. Identificar a la población susceptible de incorporarse al SPSS para su afi
 
 XVII. Coordinar el proceso de integración, administración y actualización del Padrón en la entidad, conforme a los lineamientos vigentes;
 
-XVIII. Administrar los recursos aportados por los gobiernos federal y estatal para el financiamiento del SPSS en la entidad, así como gestionar las cuotas contributivas de las familias;
+XVIII. Administrar, de conformidad en lo dispuesto por el artículo 40 de la Ley Orgánica del Poder Ejecutivo del Estado los recursos aportados por los gobiernos federal y estatal para el financiamiento del SPSS en la entidad, así como gestionar las cuotas contributivas de las familias;
 
-XIX. Dirigir y ejecutar las acciones de financiamiento necesarias para el funcionamiento del SPSS, incluyendo las relativas al desarrollo de programas de salud orientados a la equidad de género, así como los que se desenvuelvan en áreas indígenas, marginadas, rurales, y en general a cualquier grupo vulnerable en colaboración con las unidades competentes de SESVER u otros prestadores de servicios de salud;
+XIX. Dirigir y ejecutar las acciones de financiamiento necesarias para el funcionamiento del SPSS, incluyendo las relativas al desarrollo de programas de salud orientados a la equidad de género, así como los que se desenvuelvan en áreas indígenas, marginadas, rurales, y en General a cualquier grupo vulnerable en colaboración con las unidades competentes de SESVER u otros prestadores de servicios de salud;
 
 XX. Programar los recursos aportados al SPSS, necesarios para el mantenimiento, desarrollo de infraestructura y equipamiento, en congruencia con el plan maestro de infraestructura que formule la Secretaría de Salud del Gobierno Federal;
 
@@ -133,7 +143,11 @@ XXII. Proporcionar a la CNPSS la información relativa al ejercicio de recursos 
 
 XXIII. Atender las auditorías y requerimientos de información que se practiquen o soliciten al REPSS, por los órganos de fiscalización federal o estatal, así como de otras instancias facultadas para tal fin y del propio órgano interno de control, de conformidad a la normatividad aplicable; y,
 
-XXIV. Las demás que este reglamento y otras disposiciones le confieran.
+XXIV. Promover la Igual (sic) de Género para reforzar acciones equitativas entre el personal adscrito al REPSS;
+
+XXV. Las demás que este reglamento y otras disposiciones le confieran.
+
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 5.
 
@@ -143,31 +157,43 @@ I. Una Junta de Gobierno; y,
 
 II. Una Dirección General.
 
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 6.
 
-Para la ejecución de sus funciones y atribuciones el REPSS contará con las siguientes direcciones y subdirecciones de apoyo a la dirección general autorizadas en su estructura orgánica, para su adecuado desempeño:
+Para la ejecución de sus funciones y atribuciones el REPSS contará con las siguientes direcciones, subdirecciones, y de apoyo a la dirección general autorizadas en su estructura orgánica, para su adecuado desempeño:
 
 I. Dirección de Gestión de Servicios de Salud;
 
 II. Dirección de Afiliación y Operación;
 
-III. Dirección Administrativa;
+III. Dirección de Financiamiento;
 
 IV. Subdirección Jurídica;
 
-V. Subdirección de Planeación y Evaluación; y,
+V. Subdirección de Planeación y Evaluación;
 
-VI. Subdirección de Proyectos de Seguimiento y Vinculación Institucional.
+VI. Subdirección de Proyectos de Seguimiento y Vinculación Institucional; y,
+
+VII. Unidad de Género.
+
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 7.
 
 El REPSS contará además, con un órgano interno de control de conformidad con lo establecido en el artículo 12 del Decreto, que dependerá de la Contraloría General del Estado.
 
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
+
 ### CAPÍTULO III. De la Junta de Gobierno
+
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 8.
 
 La autoridad suprema del REPSS es su Junta de Gobierno, cuya integración y atribuciones se establecen en los artículos 4, 5, 6, 7, 8 y 9 del Decreto.
+
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 9.
 
@@ -191,23 +217,33 @@ IV. El Titular de la Dirección General del REPSS, en carácter de Secretario T�
 
 Por cada integrante de la Junta de Gobierno debe nombrarse un suplente, que para el caso del Titular del Poder Ejecutivo del Estado lo es el titular de la secretaría. Los cargos serán honoríficos.
 
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 10.
 
 La Junta de Gobierno sesionará de forma ordinaria cada trimestre, y en forma extraordinaria cuando lo estime conveniente su presidente o dos de sus integrantes.
 
 La Junta de Gobierno sesionará válidamente con la asistencia de cuando menos la mitad más uno de sus integrantes y los acuerdos se aprobarán por mayoría de votos de sus miembros presentes. El presidente o su suplente tendrán voto de calidad en caso de empate.
 
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 11.
 
 Las convocatorias para llevar a cabo las sesiones de la Junta de Gobierno serán por escrito y deberán enviarse a sus integrantes cuando menos con setenta y dos horas de anticipación para las ordinarias y con veinticuatro horas para las extraordinarias.
+
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 12.
 
 Las convocatorias, ya sean ordinarias o extraordinarias, deberán ir acompañadas del orden del día y de los documentos que informen los asuntos a tratar. Los acuerdos que emanen de las sesiones deberán ser consignados en actas.
 
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 13.
 
 El Secretario Técnico de la Junta de Gobierno podrá invitar a las sesiones de dicho Órgano a representantes de instituciones públicas federales, estatales o municipales que guarden relación con el objeto del ente descentralizado, quienes tendrán derecho a voz pero no a voto.
+
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 14.
 
@@ -229,7 +265,11 @@ VII. Aprobar anualmente, previo informe del Comisario y los dictámenes de audit
 
 VIII. Las demás que se deriven del decreto y otras disposiciones aplicables.
 
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
+
 ### CAPÍTULO IV. Del Secretario Técnico de la Junta de Gobierno
+
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 15.
 
@@ -243,11 +283,17 @@ III. Auxiliar a la Junta de Gobierno y a su presidente en el cumplimiento y ejec
 
 IV. Las demás que le confiera la Junta de Gobierno y/o le encomiende el presidente.
 
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
+
 ### CAPÍTULO V. De la Dirección General
+
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 16.
 
 El Titular de la Dirección General del Organismo será nombrado y removido libremente por el Titular del Poder Ejecutivo del Estado, de conformidad con lo establecido en la Constitución Política y la Ley Orgánica del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 17.
 
@@ -257,9 +303,9 @@ I. Ejercer las atribuciones y la representación legal del REPSS, como apoderado
 
 II. Otorgar poderes generales y especiales con las facultades que le competan, sin perder el ejercicio directo de éstas; incluyendo las que requieran autorización o cláusula especial, como sustituir y revocar dichos poderes;
 
-III. Dirigir técnica y administrativamente el REPSS, de conformidad con la normatividad aplicable;
+III. Coordinar y dirigir la función pública del REPSS, de conformidad con la normatividad aplicable, así como expedir los nombramientos de los servidores públicos de mandos medios y superiores los que informará a la Junta de Gobierno para su autorización respectiva;
 
-IV. Promover la transparencia, la rendición de cuentas y la participación ciudadana;
+IV. Promover la transparencia, la rendición de cuentas, la igualdad de género y la participación ciudadana;
 
 V. Garantizar el acceso a los servicios de salud definidos por el SPSS en igualdad de oportunidades para hombres y mujeres;
 
@@ -283,7 +329,7 @@ XIV. Acordar las relaciones contractuales entre el REPSS y sus servidores públi
 
 XV. Cumplir los acuerdos y decisiones de la Junta de Gobierno y de su Presidente;
 
-XVI. Proponer a la Junta de Gobierno las alternativas que permitan hacer eficiente la gestión y operación del Organismo;
+XVI. Proponer a la Juntade (sic) Gobierno las alternativas que permitan hacer eficiente la gestión y operación del Organismo;
 
 XVII. Vigilar que la provisión de los servicios de salud se efectúe, a través, de los establecimientos para la atención médica de SESVER, o de forma indirecta, a través, de los establecimientos para la atención médica de otras entidades federativas o de otras instituciones del Sistema Nacional de Salud;
 
@@ -293,13 +339,13 @@ XIX. Consolidar un esquema de operación efectivo que permita reunir de forma pr
 
 XX. Garantizar la actualización del padrón y la confidencialidad del mismo, de acuerdo con la normatividad aplicable;
 
-XXI. Formular en coordinación con la dirección administrativa los programas, presupuesto de egresos y previsiones de ingresos del Organismo y someterlos a la aprobación de la Junta de Gobierno;
+XXI. Formular en coordinación con la Dirección de Financiamiento los programas, presupuesto de egresos y previsiones de ingresos del Organismo y someterlos a la aprobación de la Junta de Gobierno;
 
-XXII. Presentar anualmente en coordinación con la dirección administrativa, ante la Junta de Gobierno el balance general y los estados financieros que corresponda;
+XXII. Presentar anualmente en coordinación con la Dirección de Financiamiento, ante la Junta de Gobierno el balance general y los estados financieros que corresponda;
 
 XXIII. Aplicar, en coordinación con las autoridades involucradas, de manera transparente y oportuna los recursos que sean transferidos por la federación, el estado y las aportaciones propias, para la ejecución de las acciones de protección social en salud que le corresponda;
 
-XXIV. Vigilar la correcta administración de los recursos que sean necesarios para el mantenimiento, desarrollo e infraestructura y equipamiento, conforme a las prioridades que se determinen en el estado, en congruencia con los planes elaborados por la Secretaría de Salud del Gobierno Federal;
+XXIV. Coordinar, en consuno con la Dirección de Financiamiento, la correcta aplicación de los recursos que sean necesarios para el mantenimiento, desarrollo e infraestructura y equipamiento, conforme a las prioridades que se determinen en el estado, en congruencia con los planes elaborados por la Secretaría de Salud del Gobierno Federal;
 
 XXV. Supervisar que se resguarde la información comprobatoria del ejercicio de los recursos para revisiones posteriores o conciliaciones presupuestales;
 
@@ -307,7 +353,11 @@ XXVI. Proponer al Subcomité de Adquisiciones, Arrendamientos, Servicios y Enaje
 
 XXVII. Las demás que le confiera la Junta de Gobierno, le encomiende su presidente y las que señalen otras disposiciones aplicables.
 
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
+
 ### CAPÍTULO VI. De las Direcciones
+
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 18.
 
@@ -327,11 +377,13 @@ VI. Dar seguimiento puntual a sus operaciones y someter al acuerdo del titular d
 
 VII. Previo acuerdo con el titular de la dirección general, someter a la aprobación de la Junta de Gobierno del REPSS los temas de su competencia que requieran esta formalidad.
 
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 19.
 
 El Titular de la Dirección de Gestión de Servicios de Salud tendrá las facultades y obligaciones siguientes:
 
-I. Definir y establecer, con la participación de las áreas competentes del REPSS, SESVER y otros prestadores de servicios de salud, los criterios e instrumentos de registro de la información médica relativa a los servicios prestados y provisión de insumos para los beneficiarios del SPSS, así como, para la automatización de los registros de información en materia de gestión de servicios de salud;
+I. Definir y establecer, con la participación de las áreas competentes del REPSS, SESVER y otros prestadores de servicios de salud, los criterios e instrumentos de registro de la información médica relativa a los servicios prestados y provisión de insumos para los beneficiarios del SPSS, así corno (sic), para la automatización de los registros de información en materia de gestión de servicios de salud;
 
 II. Coadyuvar en los procesos de acreditación de las redes de servicios;
 
@@ -355,17 +407,19 @@ XI. Validar y dar seguimiento al Sistema de Gestión Gerencial del FPcGC;
 
 XII. Gestionar los servicios médicos que en caso de enfermedades consideradas como catastróficas sea necesario proveer a los beneficiarios del SPSS;
 
-XIII. Gestionar los servicios médicos para la atención de las enfermedades cubiertas por el SMNG a favor de los beneficiarios del SPSS;
+XIII. Gestionar los servicios médicos para la atención de las enfermedades cubiertas por el SMSXXI a favor de los beneficiarios del SPSS;
 
 XIV. Verificar el seguimiento clínico de los beneficiarios del SPSS para validar que reciban la atención médica necesaria y adecuada;
 
-XV. Dar seguimiento a la instrumentación de las políticas y acciones operativas del Programa de Desarrollo Humano Oportunidades;
+XV. Dar seguimiento a la instrumentación de las políticas y acciones operativas de PROSPERA. Programa Inclusión Social, de conformidad con sus Reglas de Operación;
 
-XVI. Realizar las acciones conducentes para la distribución y entrega de los complementos alimenticios de la población beneficiaria del Programa de Desarrollo Humano Oportunidades;
+XVI. Realizar las acciones conducentes para la distribución y entrega de los complementos alimenticios de la población beneficiaria de PROSPERA Programa Inclusión Social;
 
 XVII. Coadyuvar en la implementación de acciones que permitan proporcionar la cobertura y la calidad médica de los programas dirigidos a los grupos más vulnerables; y,
 
 XVIII. Las demás que le confieran las leyes, reglamentos y otras disposiciones aplicables, así como, las que le encargue el titular de la dirección general.
+
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 20.
 
@@ -403,33 +457,35 @@ XV. Proponer al titular de la dirección general mecanismos de promoción y desa
 
 XVI. Establecer las medidas correctivas pertinentes en los casos de cancelación o suspensión de servicios a los beneficiarios del SPSS;
 
-XVII. Supervisar y evaluar mediante dictamen técnico la adquisición de mobiliario y equipo necesario para el adecuado funcionamiento de los Módulos de Afiliación y Orientación del Estado de Veracruz, así como para la administración del padrón;
+XVII. Supervisar y evaluar mediante dictamen técnico la adquisición de mobiliario y equipe (sic) necesario para el adecuado funcionamiento de los Módulos de Afiliación y Orientación del Estado de Veracruz, así como para la administración del padrón;
 
 XVIII. Proponer al titular de la dirección general las medidas pertinentes para la modernización y mejora de la operación y funcionamiento de los procesos de afiliación, reafiliación y orientación de los usuarios del SPSS; y,
 
 XIX. Las demás que le confieran las leyes, reglamentos y otras disposiciones aplicables, así como las que le encargue el titular de la dirección general.
 
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 21.
 
-El Titular de la Dirección Administrativa tendrá las facultades y atribuciones que le señala la Ley Orgánica del Poder Ejecutivo y el Código Financiero para el Estado de Veracruz, así como las obligaciones siguientes:
+El Titular de la Dirección de Financiamiento tendrá las facultades y atribuciones que le señala la Ley Orgánica del Poder Ejecutivo y el Código Financiero para el Estado de Veracruz, así como las obligaciones siguientes:
 
-I. Establecer con la aprobación del titular de la dirección general, una adecuada planeación, programación y presupuestación del gasto, a través, de la asignación de recursos humanos, financieros y materiales mediante la elaboración del presupuesto anual;
+I. Establecer una adecuada planeación, programación y presupuestación del gasto, a través, de la asignación de recursos humanos, financieros y materiales mediante la elaboración del presupuesto anual;
 
-II. Con la aprobación del titular de la dirección general, recibir, administrar y ejercer las cuotas familiares de los beneficiarios del SPSS, así como los demás ingresos que en razón de frecuencia en uso de los servicios o especialidad o para el surtimiento de medicamentos asociados, se impongan de manera adicional;
+II. Recibir, administrar y ejercer las cuotas familiares de los beneficiarios del SPSS, así como los demás ingresos que en razón de frecuencia en uso de los servicios o especialidad o para el surtimiento de medicamentos asociados, se impongan de manera adicional;
 
 III. Integrar la información relativa al ejercicio de recursos transferidos, así como lo correspondiente a los montos y rubros de gasto para la revisión de la dirección general del Organismo y el trámite correspondiente;
 
-IV. Implementar con la aprobación del titular de la dirección general, los controles internos, para el financiamiento de la plantilla del personal necesaria en la atención médica de los beneficiarios del SPSS, en coordinación con la Dirección de Planeación y Desarrollo de SESVER;
+IV. Implementar los controles internos, para el financiamiento de la plantilla del personal necesaria en la atención médica de los beneficiarios del SPSS, en coordinación con la Dirección de Planeación y Desarrollo de SESVER;
 
-V. Realizar la actualización de los inventarios de los bienes muebles e inmuebles asignados al REPSS;
+V. Realizar la actualización de los inventarios de los bienes muebles e inmuebles asignados al REPSS.
 
-VI. Con la aprobación del titular de la dirección general, recibir, administrar y ejercer los recursos previstos para realizar la afiliación, reafiliación y orientación de la población susceptible, dichos recursos deberán aplicarse de forma transparente y oportuna, optimizando el ejercicio del gasto y únicamente para los fines establecidos;
+VI. Recibir, administrar y ejercer los recursos previstos para realizar la afiliación, reafiliación y orientación de la población susceptible, dichos recursos deberán aplicarse de forma transparente y oportuna, optimizando el ejercicio del gasto y únicamente para los fines establecidos;
 
 VII. Proponer al titular de la Dirección General el Proyecto de Aportación Solidaria Estatal, a efecto de que la misma se prevea en el presupuesto de egresos correspondiente;
 
 VIII. Con la aprobación por escrito del titular de la dirección general, solicitar ante la Secretaría de Finanzas y Planeación, la asignación Federal del presupuesto anual del Organismo, conforme a las disposiciones aplicables;
 
-IX. Analizar la información programática presupuestal y financiera del Organismo y realizar, con la autorización del titular de la dirección general, las afectaciones, transferencias y recalendarizaciones, de acuerdo con la normatividad aplicable;
+IX. Analizar la información programática presupuestal y financiera del Organismo y realizar, las afectaciones, transferencias y recalendarizaciones, de acuerdo con la normatividad aplicable;
 
 X. Someter a la aprobación del Subcomité de Adquisiciones, Arrendamientos, Servicios y Enajenación de Bienes Muebles del REPSS, el Programa Anual de Adquisiciones, sus modificaciones y avances; así como los arrendamientos, contrataciones de servicios, enajenación de bienes muebles o cualquier otro asunto competente a dicho subcomité que se requieran para el mejor desempeño de las funciones del REPSS.
 
@@ -437,9 +493,9 @@ XI. Con la aprobación del Subcomité de Adquisiciones, Arrendamientos, Servicio
 
 XII. Elaborar los programas mensuales de ministración de recursos por pago de servicios y gestionar la radicación de los mismos, así como calendarizar y efectuar los pagos por servicios y cualquier otro tipo de egreso;
 
-XIII. Con la autorización por escrito del titular de la dirección general, realizar las contrataciones del personal del Organismo, registrando y controlando los movimientos de altas y bajas, cambios de adscripción, promociones, transferencias, reubicaciones, suspensiones, licencias, permisos y demás incidencias, de conformidad con las disposiciones aplicables;
+XIII. Realizar las contrataciones del personal del Organismo, registrando y controlando los movimientos de altas y bajas, cambios de adscripción, promociones, transferencias, reubicaciones, suspensiones, licencias, permisos y demás incidencias, de conformidad con las disposiciones aplicables;
 
-XIV. Expedir bajo autorización y firma del titular de la dirección general, los nombramientos y realizar las reubicaciones, liquidaciones y pago de cualquier remuneración del personal al servicio del Organismo;
+XIV. Proceder a realizar los pagos a cargo del patrimonio del REPSS de conformidad con la normatividad aplicable.
 
 XV. Proponer al titular de la dirección general para su autorización, los sistemas de estímulos y recompensas al personal, de conformidad con las disposiciones aplicables;
 
@@ -453,7 +509,7 @@ XIX. Coadyuvar, con la participación de las unidades competentes de la secretar
 
 XX. Diseñar la metodología que dé soporte a las bases financieras y administrativas que sustenten las acciones encaminadas a proveer protección social en salud;
 
-XXI. Establecer los criterios administrativos para la programación y distribución de recursos presupuestales para la operación y desarrollo del SPSS, con relación al Programa de Desarrollo Humano Oportunidades en sus componentes Salud y Alimentario, y en su caso, de los programas que le fuesen encomendados;
+XXI. Establecer los criterios administrativos para la programación y distribución de recursos presupuestales para la operación y desarrollo del SPSS, con relación a PROSPERA Programa de Inclusión Social en sus componentes Salud y Alimentario, y en su caso, de los programas que le fuesen encomendados;
 
 XXII. Verificar que los recursos provenientes de la federación, aportación solidaria estatal y cuota familiar, sean congruentes con el padrón;
 
@@ -463,7 +519,11 @@ XXIV. Previa designación del titular de la dirección general, fungir como enla
 
 XXV. Las demás, que le confieran las leyes, reglamentos y otras disposiciones aplicables, así como las que le encargue el titular de la dirección general.
 
-### CAPÍTULO VII. De las Subdirecciones de Apoyo a la Dirección General
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
+
+### CAPÍTULO VII. De las Subdirecciones, la Unidad de Género, y de Apoyo a la Dirección General
+
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 22.
 
@@ -491,23 +551,29 @@ X. Interponer toda clase de recursos, formular denuncias y querellas ante el Min
 
 XI. Dictaminar la procedencia de las bajas, y sanciones que en relación al personal del REPSS le sean sometidas a su consideración por las direcciones;
 
-XII. Intervenir en la elaboración de las actas administrativas que por diversos motivos pongan a su consideración las diversas áreas del Organismo;
+XII. intervenir en la elaboración de las actas administrativas que por diversos motivos pongan a su consideración las diversas áreas del Organismo;
 
 XIII. Proponer al titular de la dirección general, los casos en que sea necesario instrumentar procesos administrativos disciplinarios a los servidores públicos del Organismo, cuando se tenga conocimiento de éstos;
 
 XIV. Coordinar la formulación de proyectos de iniciativas de ley o de disposiciones jurídicas en el ámbito de competencia de la Dirección General, fungiendo como enlace con la Coordinación de Asuntos Legales de la Oficina del Gobernador para su revisión y validación.
 
-XV. Dar atención y seguimiento a las quejas que se le presenten derivadas de la operación del SPSS en la entidad veracruzana; y,
+XV. Dar atención y seguimiento a las quejas que se le presenten derivadas de la operación del SPSS en la entidad veracruzana;
 
-XVI. Las demás, que le confieran las leyes, reglamentos y otras disposiciones aplicables, así como las que le encargue el titular de la dirección general.
+XVI. Representar al Director General y a las unidades administrativas del Organismo, en todos los juicios y procedimientos que se ventilen ante autoridades y tribunales jurisdiccionales y administrativos, federales y estatales, incluido Juicio de Amparo;
+
+XVI (SIC). Certificar las constancias que obren y deriven de los archivos del Organismo para ser exhibidas ante las autoridades judiciales, administrativas o del trabajo y, en general, para cualquier trámite, juicio, procedimiento, proceso o averiguación; y,
+
+XVII. Las demás, que le confieran las leyes, reglamentos y otras disposiciones aplicables, así como las que le encargue el titular de la dirección general.
+
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 23.
 
 El Titular de la Subdirección de Planeación y Evaluación tendrá las facultades y obligaciones siguientes:
 
-I. Coordinar junto con las Direcciones y las Sub-direcciones del Organismo, la elaboración y propuesta al titular de la dirección general, con la colaboración específica de la dirección administrativa, el programa operativo anual, los manuales de organización, procedimientos y de servicios, así como el sistema de elaboración de presupuesto por programa, de conformidad a la normatividad aplicable;
+I. Coordinar junto con las Direcciones y las Sub-direcciones del Organismo, la elaboración y propuesta al titular de la dirección general, con la colaboración específica de la dirección de financiamiento, el programa operativo anual, los manuales de organización, procedimientos y de servicios, así como el sistema de elaboración de presupuesto por programa, de conformidad a la normatividad aplicable;
 
-II. Proponer al titular de la dirección administrativa, la implementación de controles internos, que permitan un manejo correcto de los recursos financieros, humanos y materiales;
+II. Implementación de controles internos, que permitan un manejo correcto de los recursos financieros, humanos y materiales;
 
 III. Promover en las unidades administrativas del REPSS, la implementación de acciones de simplificación y modernización administrativa, a fin de garantizar servicios de calidad;
 
@@ -515,19 +581,21 @@ IV. Analizar los estados financieros y sistemas de información del REPSS para p
 
 V. Analizar la información relativa al avance del programa operativo anual y del presupuesto, a fin de determinar su concordancia con lo planeado;
 
-VI. Apoyar a la dirección administrativa del Organismo para solventar las posibles observaciones notificadas por los diversos órganos de control, supervisión y fiscalización;
+VI. Apoyar a la dirección de financiamiento del Organismo para solventar las posibles observaciones notificadas por los diversos órganos de control, supervisión y fiscalización;
 
 VII. Verificar la aplicación correcta de los indicadores y criterios definidos por la Contraloría General del Estado, para elaborar los informes de evaluación de la gestión pública;
 
-VIII. Apoyar a la dirección administrativa en la aplicación de los lineamientos y criterios en materia de racionalidad, austeridad y disciplina presupuestal para el eficiente control de los recursos;
+VIII. Apoyar a la dirección de financiamiento en la aplicación de los lineamientos y criterios en materia de racionalidad, austeridad y disciplina presupuestal para el eficiente control de los recursos;
 
-IX. Analizar y proponer la modificación a la estructura orgánica, a fin de cubrir las necesidades del Organismo, en coordinación con la dirección administrativa;
+IX. Analizar y proponer la modificación a la estructura orgánica, a fin de cubrir las necesidades del Organismo, en coordinación con la dirección de financiamiento;
 
-X. Verificar en coordinación con la dirección administrativa, que la información competencia del REPSS, se encuentre actualizada y disponible de conformidad con los lineamientos en materia de transparencia y acceso a la información pública gubernamental;
+X. Verificar en coordinación con la dirección de financiamiento, que la información competencia del REPSS, se encuentre actualizada y disponible de conformidad con los lineamientos en materia de transparencia y acceso a la información pública gubernamental;
 
 XI. Coordinar y ejecutar en el REPSS todos los planes, programas y actividades relacionados con la equidad de género y la igualdad entre hombres y mujeres; y,
 
 XII. Las demás, que le confieran las leyes, reglamentos y otras disposiciones aplicables, así como las que le encargue el titular de la dirección general.
+
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 24.
 
@@ -537,9 +605,9 @@ I. Coordinar los programas, proyectos y/o actividades inherentes al Organismo, a
 
 II. Coordinar con los titulares de las áreas información estadística, avance y seguimiento de proyectos, con la finalidad de que el titular de la dirección general, obtenga la información oportuna para su manejo ejecutivo y agenda de trabajo;
 
-III. Apoyar al titular de la dirección general, en la integración de la información global del REPSS, así como de otros aspectos relacionados con las características de la población veracruzana, para que en su conjunto fundamenten el proceso de planeación y toma de decisiones en materia Afiliación y Reafiliación al SPSS;
+III. Apoyar al titular de la dirección general, en la integración de la información global del REPSS, así como de otros aspectos relacionados con las características de la población veracruzana, para que en su conjunto fundamenten el proceso de planeación y toma de decisiones en materia (sic) Afiliación y Reafiliación al SPSS;
 
-IV. Colaborar con los Titulares de la Dirección Administrativa y la Subdirección de Planeación y Evaluación, en la integración y formulación de informes y programas, inherentes a los procesos de planeación, programación, organización y evaluación;
+IV. Colaborar con los Titulares de la Dirección de Financiamiento y la Subdirección de Planeación y Evaluación, en la integración y formulación de informes y programas, inherentes a los procesos de planeación, programación, organización y evaluación;
 
 V. Apoyar a las unidades administrativas del REPSS, en acciones de seguimiento y cumplimiento de Acuerdos tomados en las reuniones locales, estatales, regionales y/o nacionales, en los que exista compromiso institucional;
 
@@ -559,19 +627,51 @@ XII. Vincular al REPSS con las dependencias y entidades del Sector Salud, instit
 
 XIII. Las demás, que le confieran las leyes, reglamentos y otras disposiciones aplicables, así como las que le encargue el titular de la dirección general.
 
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 25.
 
-En caso de ausencia hasta por 15 días del Titular de la Dirección General del REPSS, éste será suplido en el orden jerárquico que se menciona:
+El o la Titular de la Unidad de Género tendrá las facultades y obligaciones siguientes:
 
-I. Titular de la Dirección Administrativa;
+I. Participar en los procesos de planeación, programación y presupuestación del Organismo, con el único fin de proponer las medidas que permitan la incorporación de la perspectiva de género;
+
+II. Realizar acciones encaminadas a disminuir la desigualdad entre mujeres y hombres del Organismo;
+
+III. Generar estadísticas y la información que deberá entregarse al Sistema Estatal para la igualdad entre mujeres y hombres, así como elaborar diagnósticos sobre la situación de las mujeres que laboran en este Organismo;
+
+IV. Brindar asesoría en materia de igualdad de género al Organismo;
+
+V. Promover la revisión y/o actualización de la normatividad administrativa con perspectiva de género;
+
+VI. Coordinarse con el Instituto Veracruzano de las Mujeres en las acciones que se requieran;
+
+VII. Elaborar y someter a autorización del o la titular del Organismo, el Programa Anual de Trabajo para fortalecer la Igualdad de Género dentro de las mismas; y
+
+VIII. Las demás que determine la Ley de la materia y la normatividad interior del Organismo.
+
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
+
+### CAPÍTULO VIII. De la Suplencia en caso de Ausencia del Titular de la Dirección General
+
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
+
+###### Artículo 26.
+
+En caso de ausencia hasta por 15 días hábiles del Titular de la Dirección General del REPSS, éste será suplido en el orden jerárquico que se menciona:
+
+I. Titular de la Dirección de Financiamiento;
 
 II. Titular de la Dirección de Gestión de Servicios de Salud; y,
 
 III. Titular de la Dirección de Afiliación y Operación.
 
-### CAPÍTULO VIII. De la Suplencia en caso de Ausencia del Titular de la Dirección General
+> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2015)</small>
 
-###### Artículo 26.
+### CAPÍTULO IX. Del Órgano Interno de Control
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 25 DE AGOSTO DE 2015)</small>
+
+###### Artículo 27.
 
 El REPSS contará con un órgano interno de control, dependiente de la Contraloría General del Estado, con las atribuciones que señala la normatividad aplicable, cuyo titular y demás personal serán designados y removidos de conformidad a lo establecido por la Ley Orgánica del Poder Ejecutivo del Estado y la normatividad correspondiente.
 
@@ -595,4 +695,14 @@ Gobernador del Estado
 
 Rúbrica.
 
-### CAPÍTULO IX. Del Órgano Interno de Control
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE AGOSTO DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL ORGANISMO PÚBLICO DESCENTRALIZADO RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD”.]
+
+Primero. Se modifica el reglamento interno, aprobado por la Junta de Gobierno, en la sesión de fecha 09 de abril de 2012 y publicado en el número extraordinario 411 de la Gaceta oficial del estado de fecha 27 de noviembre de 2012.
+
+Segundo. Los nuevos manuales de organización y procedimientos, deberán expedirse dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Reglamento Interior.
+
+Tercero. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
