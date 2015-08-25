@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-arancel-para-el-pago-de-honorarios-de-abogados-y-14663"
 country: "mx"
 rank: "ley"
 publication_date: "1962-01-03"
-last_updated: "1962-01-03"
+last_updated: "2015-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14663&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY DE ARANCEL PARA EL PAGO DE HONORARIOS DE ABOGADOS Y COSTAS JUDICIALES EN EL ESTADO DE MEXICO
 
-LEY DE ARANCEL PARA EL PAGO DE HONORARIOS DE ABOGADOS Y COSTAS JUDICIALES EN EL ESTADO DE MEXICO
+LEY DE ARANCEL PARA EL PAGO DE HONORARIOS DE ABOGADOS Y COSTAS JUDICIALES EN EL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE AGOSTO DE 2015.
 
 Ley publicada en la Gaceta del Gobierno, el 3 de enero de 1962.
 
@@ -132,6 +132,10 @@ IV. Si pasan de $50,000.00 se cobrarán las cuotas de la fracción anterior hast
 ###### Artículo 9.
 
 En los negocios de cuantía indeterminada se aplicarán las cuotas señaladas en los artículos precedentes, tomando en cuenta la naturaleza e importancia del negocio, la que será determinada por el arbitrio del Juez.
+
+> <small>(ADICIONADO, G.G. 25 DE AGOSTO DE 2015)</small>
+
+En los negocios judiciales de litigios relativos a unidades económicas de bajo impacto cuya superficie sea menor a los 2,000 metros cuadrados, el cobro de honorarios no será mayor del 12% del importe total del monto del negocio.
 
 ###### Artículo 10.
 
@@ -292,3 +296,13 @@ DR. GUSTAVO BAZ
 El Secretario General,
 
 DR. JORGE JIMENEZ CANTU
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 25 DE AGOSTO DE 2015.
+
+Primero. Publíquese el presente Decreto en el periódico Oficial “Gaceta del Gobierno”.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial “Gaceta del Gobierno”.
+
+Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
