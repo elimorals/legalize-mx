@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2015-08-24"
+last_updated: "2015-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE AGOSTO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -6779,7 +6779,7 @@ Legado de presentación periódica
 
 ### CAPITULO VII. De los legados
 
-Modos de instituir legatarios
+Preceptos que rigen los legados
 
 ###### Artículo 6.
 
@@ -6871,6 +6871,12 @@ Voluntad testamentaria expresa
 
 ###### Artículo 6.
 
+74.- Cuando no haya disposiciones especiales, los legatarios se rigen por los mismos preceptos que para los herederos.
+
+Modos de instituir legatarios
+
+###### Artículo 6.
+
 75.- El legado puede instituirse a titulo gratuito, con modalidad o con carga.
 
 Herederos y legatarios gravados con legados
@@ -6890,12 +6896,6 @@ Gastos de entrega del legado
 ###### Artículo 6.
 
 78.- Los gastos necesarios para la entrega del bien legado serán a cargo del legatario salvo disposición en contrario del testador.
-
-Preceptos que rigen los legados
-
-###### Artículo 6.
-
-74.- Cuando no haya disposiciones especiales, los legatarios se rigen por los mismos preceptos que para los herederos.
 
 Forma de aceptar el legado
 
@@ -8587,9 +8587,13 @@ Legitimación en la nulidad relativa
 
 Legitimación en la nulidad por error, dolo, violencia, lesión o incapacidad
 
+> <small>(REFORMADO, G.G. 25 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 7.
 
-16.- La nulidad por causa de error, dolo, violencia, lesión o incapacidad, sólo puede invocarse por el que ha sufrido esos vicios del consentimiento, sea perjudicado por la lesión o es el incapaz.
+16.- La nulidad por causa de error, dolo, violencia o incapacidad, sólo puede invocarse por el que ha sufrido esos vicios del consentimiento, sea perjudicado por la lesión o es el incapaz.
+
+El Juez oficiosamente analizará la existencia de lesión y resolverá en términos del artículo 7.667 de este Código.
 
 Confirmación del acto jurídico falto de forma
 
@@ -8635,9 +8639,11 @@ Prescripción de la acción de nulidad por violencia
 
 Prescripción de nulidad por lesión
 
+> <small>(REFORMADO, G.G. 25 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 7.
 
-24.- La acción de nulidad por lesión, prescribe en seis meses.
+24.- La acción de nulidad por lesión, prescribirá en el mismo tiempo en que prescriba la obligación que la cause.
 
 Acto jurídico parcialmente nulo
 
@@ -18156,3 +18162,13 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" d
 ###### ARTÍCULO SEGUNDO.
 
 Este Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 25 DE AGOSTO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
