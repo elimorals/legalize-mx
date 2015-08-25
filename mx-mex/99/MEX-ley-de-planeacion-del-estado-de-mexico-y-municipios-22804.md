@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-planeacion-del-estado-de-mexico-y-municipios-22804"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-21"
-last_updated: "2015-06-22"
+last_updated: "2015-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE AGOSTO DE 2015.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 21 de diciembre de 2001.
 
@@ -69,11 +69,11 @@ Es responsabilidad del titular del Ejecutivo Estatal conducir la planeación par
 
 El desarrollo del Estado y Municipios se sustenta en el proceso de planeación democrática, en congruencia con la planeación nacional del desarrollo, integrando al Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios, los planes de desarrollo municipal, los programas sectoriales, regionales y especiales; y su ejecución atenderá a los plazos y condiciones que requiera su estrategia.
 
-> <small>(REFORMADO, G.G. 22 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 25 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 4.
 
-La planeación democrática para el desarrollo se sustenta en los principios de igualdad, no discriminación, simplicidad, claridad, congruencia y proximidad de los habitantes del Estado de México, así como de previsión, unidad y flexibilidad en la coordinación, cooperación y eficacia para el cumplimiento de los objetivos y eficiencia en la asignación, uso, destino de los recursos y el cuidado del medio ambiente, tomando en cuenta la perspectiva de género.
+La planeación democrática para el desarrollo se sustenta en los principios de igualdad, no discriminación, simplicidad, claridad, congruencia y proximidad de los habitantes del Estado de México, así como de previsión, unidad y flexibilidad en la coordinación, cooperación y eficacia para el cumplimiento de los objetivos y eficiencia en la asignación, uso, destino de los recursos y el cuidado del medio ambiente, tomando en cuenta la perspectiva de género, debiendo establecer criterios de transversalización que garanticen la igualdad de oportunidades entre mujeres y hombres y, asimismo, promuevan el adelanto de las mujeres mediante el acceso equitativo a los bienes, recursos y beneficios del desarrollo.
 
 > <small>(REFORMADO, G.G. 23 DE AGOSTO DE 2005)</small>
 
@@ -806,3 +806,9 @@ G.G. 22 DE JUNIO DE 2015.
 PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 25 DE AGOSTO DE 2015.
+
+PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
