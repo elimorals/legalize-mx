@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2015-08-24"
+last_updated: "2015-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE AGOSTO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -3047,6 +3047,12 @@ X. Sin contar con la autorización de impacto y riesgo ambiental, guarde, comerc
 
 A los responsables de este delito se les impondrá prisión de dos a ocho años y de treinta a ciento cincuenta días multa.
 
+> <small>(ADICIONADO, G.G. 25 DE AGOSTO DE 2015)</small>
+
+###### Artículo 228 Bis.
+
+Al que ilícitamente posea, adquiera, venda, reciba, transporte o almacene material peligroso al que alude el Código para la Biodiversidad del Estado de México, se le impondrá de dos a seis años de prisión y de doscientos a cuatrocientos días multa.
+
 > <small>(REFORMADO, G.G. 19 DE JULIO DE 2007)</small>
 
 ###### Artículo 229.
@@ -5668,3 +5674,9 @@ Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno�
 ###### ARTÍCULO SEGUNDO.
 
 Este Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódo (sic) Oficial “Gaceta del Gobierno”.
+
+G.G. 25 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
