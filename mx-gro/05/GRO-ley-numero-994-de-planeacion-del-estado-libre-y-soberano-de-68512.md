@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-994-de-planeacion-del-estado-libre-y-soberano-de-685
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-26"
-last_updated: "2008-12-26"
+last_updated: "2015-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY NUMERO 994 DE PLANEACION DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-LEY NUMERO 994 DE PLANEACION DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
+LEY NÚMERO 994 DE PLANEACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2015.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 26 de diciembre de 2008.
 
@@ -75,11 +75,15 @@ h) Participación. Durante el proceso de discusión de los planes de desarrollo,
 
 i) Sustentabilidad Ambiental. Para posibilitar un desarrollo socio-económico en armonía con el medio natural, los planes de desarrollo deberán considerar en sus estrategias, programas y proyectos, criterios que les permitan estimar los costos y beneficios ambientales para definir las acciones que garanticen a las actuales y futuras generaciones una adecuada oferta ambiental;
 
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
+En el caso de los planes y los programas sujetos al proceso de evaluación ambiental se estará a lo dispuesto en la Ley número 878 del Equilibrio Ecológico y la Protección al Ambiente del Estado de Guerrero.
+
 j) Proceso de planeación. El plan de desarrollo establecerá los elementos básicos que comprendan la planificación como una actividad continua, teniendo en cuenta la formulación, aprobación, ejecución, control y evaluación;
 
 k) Eficiencia. Para el desarrollo de los lineamientos del plan y en cumplimiento de los planes de acción se deberá optimizar el uso de los recursos financieros, humanos y técnicos necesarios;
 
-i) Viabilidad. Las estrategias programas y proyectos del plan de desarrollo deben ser factibles de realizar, según, los ingresos que se proyecten y el tiempo disponible para alcanzarlas;
+l) Viabilidad. Las estrategias programas y proyectos del plan de desarrollo deben ser factibles de realizar, según, los ingresos que se proyecten y el tiempo disponible para alcanzarlas;
 
 m) Coherencia. Los programas y proyectos del Plan Nacional de Desarrollo, el Estatal y los municipales deberán ser coherentes en cuanto a objetivos y estrategias;
 
@@ -855,6 +859,10 @@ En su caso, explicará las desviaciones ocurridas y las medidas que se adopten p
 
 Dentro de los Sistemas Estatales y Municipales de Planeación Democrática tendrá lugar la participación y consulta de los diversos grupos sociales, con el propósito de que la población exprese sus opiniones para la elaboración, actualización y ejecución del Plan Estatal, de los Planes Municipales y de los Programas a que se refiere esta Ley.
 
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
+Las actividades de participación y consulta a las que se refiere la Ley número 878 del Equilibrio Ecológico y la Protección al Ambiente del Estado de Guerrero, en materia de Evaluación Ambiental Estratégica, formarán parte de las establecidas en el presente artículo.
+
 ###### ARTÍCULO 47.
 
 Las organizaciones de obreros, campesinos y grupos populares; las instituciones académicas, profesionales y de investigación; los organismos empresariales y otras agrupaciones sociales, los partidos, sindicatos o asociaciones políticas con registro, así como las ciudadanas y ciudadanos en general, participarán como órganos de consulta permanente en los aspectos de la planeación democrática, a través de los foros de consulta popular que sean convocados por el Comité de Planeación para el Desarrollo del Estado y los Comités Municipales. En los mismos foros participarán los legisladores y legisladoras federales y locales.
@@ -930,3 +938,17 @@ EL COORDINADOR GENERAL DEL EJECUTIVO DEL ESTADO.
 LIC. HUMBERTO SARMIENTO LUEBBERT.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 848 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 878 DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE GUERRERO, Y SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY NÚMERO 994 DE PLANEACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. El titular del Poder Ejecutivo del Estado expedirá, el Reglamento de la Ley número 878 del Equilibrio Ecológico y la Protección al Ambiente del Estado de Guerrero, en materia de Evaluación Ambiental Estratégica dentro de los 90 días naturales posteriores a la entrada en vigor del presente Decreto.
+
+TERCERO. Remítase el presente Decreto al Poder Ejecutivo del Estado, para sus efectos legales conducentes.
+
+CUARTO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado y en el Portal Web de este Poder Legislativo, para su conocimiento general.
