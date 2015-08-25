@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2015-08-24"
+last_updated: "2015-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE AGOSTO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1733,7 +1733,9 @@ XIV. Prevención de la discapacidad y la rehabilitación de las personas con dis
 
 XV. Asistencia social;
 
-XVI. Programas contra el alcoholismo y tabaquismo;
+> <small>(REFORMADA, G.G. 25 DE AGOSTO DE 2015)</small>
+
+XVI. Programas para prevenir y erradicar las adicciones, dando prioridad a niñas, niños y adolescentes, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez. Para la puesta en marcha de estos programas, se hará en coordinación con la Secretaría de Educación del Gobierno del Estado;
 
 > <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
 
@@ -2855,12 +2857,6 @@ Las escalas de los cuerpos técnico profesional están integradas por el persona
 
 ###### Artículo 2.
 
-49 Sexies.- Se negará el Dictamen de Factibilidad de Impacto Sanitario cuando se incumpla con cualquiera de los requisitos establecidos en este Código.
-
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
-
-###### Artículo 2.
-
 49 Septies.- Para efectos del presento Capítulo, el Consejo Rector de Impacto Sanitario tendrá las funciones siguientes:
 
 I. Emitir el Dictamen de Factibilidad de Impacto Sanitario, para el funcionamiento de rastros.
@@ -2870,6 +2866,12 @@ II. Elaborar el diagnóstico de la situación que prevalece en materia de rastro
 III. Proponer programas y acciones tendientes a combatir el maltrato y sufrimiento animal en colaboración con las dependencias del Ejecutivo del Estado, organismos auxiliares de carácter estatal y municipal, y de los sectores social y privado.
 
 IV. Las demás que sean necesarias para el cumplimiento de su objeto.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
+
+###### Artículo 2.
+
+49 Sexies.- Se negará el Dictamen de Factibilidad de Impacto Sanitario cuando se incumpla con cualquiera de los requisitos establecidos en este Código.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 2.31], G.G. 30 DE SEPTIEMBRE DE 2010)
 
@@ -17860,3 +17862,9 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 25 DE AGOSTO DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
