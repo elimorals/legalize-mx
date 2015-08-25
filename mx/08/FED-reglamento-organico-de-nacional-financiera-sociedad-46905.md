@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-de-nacional-financiera-sociedad-46905"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-04-02"
-last_updated: "2009-06-05"
+last_updated: "2015-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46905&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,15 +19,17 @@ issue_date: "1991-03-26"
 ---
 # REGLAMENTO ORGANICO DE NACIONAL FINANCIERA, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO
 
-REGLAMENTO ORGANICO DE NACIONAL FINANCIERA SOCIEDAD NACIONAL DE CREDITO INSTITUCION DE BANCA DE DESARROLLO
+REGLAMENTO ORGÁNICO DE NACIONAL FINANCIERA, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE AGOSTO DE 2015.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 2 de abril de 1991.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Hacienda y Crédito Público.
 
-REGLAMENTO ORGANICO DE NACIONAL FINANCIERA SOCIEDAD NACIONAL DE CREDITO INSTITUCION DE BANCA DE DESARROLLO.
+> <small>N. DE E. EL ACUERDO NÚMERO 15/2015 MEDIANTE EL CUAL SE MODIFICA INTEGRALMENTE EL REGLAMENTO ORGÁNICO DE NACIONAL FINANCIERA, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO, PUBLICADO EN EL D.O.F. DE 25 DE AGOSTO DE 2015, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.</small>
+
+REGLAMENTO ORGANICO DE NACIONAL FINANCIERA, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO.
 
 CONSIDERANDO
 
@@ -41,337 +43,465 @@ Que en el ejercicio de las facultades que me confiere la fracción XVIII del art
 
 REGLAMENTO ORGANICO DE NACIONAL FINANCIERA, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO.
 
-### CAPITULO PRIMERO. De la Sociedad
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
-###### ARTICULO 1o.
+### CAPÍTULO PRIMERO. De la Sociedad
+
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+
+###### ARTÍCULO 1o.
 
 Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, está constituida conforme a la Ley de Instituciones de Crédito y a su propia Ley Orgánica, con personalidad jurídica y patrimonio propio.
 
-###### ARTICULO 2o.
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
-El presente Reglamento orgánico tiene por objeto establecer las bases conforme a las cuales se regirá la organización y funcionamiento de la Sociedad.
+###### ARTÍCULO 2o.
 
-###### ARTICULO 3o.
+El presente Reglamento tiene por objeto establecer las bases conforme a las cuales se regirá la organización de la Sociedad y el funcionamiento de sus órganos.
 
-Nacional Financiera, en su carácter de Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, prestará el servicio de banca y crédito con sujeción a los objetivos y prioridades del Plan Nacional de Desarrollo y en especial del Programa Nacional de Financiamiento del Desarrollo para promover y financiar los sectores que le son encomendados en su propia Ley Orgánica.
+Para los efectos de este Reglamento Orgánico, se entenderá por:
 
-###### ARTICULO 4o.
+I. Consejo Directivo, el Consejo Directivo de la Sociedad;
 
-Nacional Financiera, como Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, tendrá por objeto: promover el ahorro y la inversión, así como canalizar apoyos financieros y técnicos al fomento industrial y en general, al desarrollo económico nacional y regional del país.
+II. Director, el Director General de la Sociedad;
 
-###### ARTICULO 5o.
+III. Ley Orgánica, la Ley Orgánica de Nacional Financiera;
 
-El domicilio de la Sociedad será la Ciudad de México, Distrito Federal.
+IV. Secretaría, la Secretaría de Hacienda y Crédito Público;
 
-La Sociedad podrá, previa aprobación de su Consejo Directivo establecer o clausurar sucursales o agencias a cualquier otra clase de oficinas y nombrar corresponsales, en el país o en el extranjero, con la autorización expresa de la Secretaría de Hacienda y Crédito Público, en términos de lo previsto por el artículo 42 de la Ley de Instituciones de Crédito, así como designar domicilio convencional en los actos que realice y los contratos que celebre.
+V. Sociedad, a Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, y
 
-###### ARTICULO 6o.
+VI. Reglamento, el presente Reglamento Orgánico.
+
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+
+###### ARTÍCULO 3o.
+
+La Sociedad prestará el servicio de banca y crédito con sujeción a los objetivos y prioridades del Plan Nacional de Desarrollo y en especial del Programa Nacional de Financiamiento del Desarrollo, para promover y financiar los sectores que le son encomendados en su propia Ley Orgánica.
+
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+
+###### ARTÍCULO 4o.
+
+La Sociedad tendrá por objeto: promover el ahorro y la inversión, así como canalizar apoyos financieros y técnicos al fomento industrial y en general, al desarrollo económico nacional y regional del país.
+
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+
+###### ARTÍCULO 5o.
+
+El domicilio de la Sociedad será la ciudad de México, Distrito Federal. La Sociedad podrá, previa aprobación de su Consejo Directivo, establecer o clausurar sucursales, agencias o cualquier otra clase de oficinas y nombrar corresponsales, en el país o en el extranjero, con la autorización expresa de la Secretaría, en términos de lo previsto por el artículo 42 de la Ley de Instituciones de Crédito, así como designar domicilio convencional en los actos que realice y los contratos que celebre.
+
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+
+###### ARTÍCULO 6o.
 
 La Sociedad tendrá duración indefinida.
 
-### CAPITULO SEGUNDO. Del Capital Social
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE JUNIO DE 2009)</small>
+### CAPÍTULO SEGUNDO. Del Capital Social
 
-###### ARTICULO 7o.
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
-El capital social de Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $2,390'000,000.00 (dos mil trescientos noventa millones de pesos 00/100 M.N.).
+###### ARTÍCULO 7o.
 
-> <small>(REFORMADO, D.O.F. 5 DE JUNIO DE 2009)</small>
+El capital social de Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $2,390'000,000.00 (DOS MIL TRESCIENTOS NOVENTA MILLONES DE PESOS 00/100 M.N.).
 
-Dicho capital social estará representado por 31'548,000 (treinta y un millones quinientos cuarenta y ocho mil) certificados de aportación patrimonial de la serie “A” con valor nominal de $50.00 (cincuenta pesos 00/100 M.N.) cada uno y por 16'252,000 (dieciséis millones doscientos cincuenta y dos mil) certificados de aportación patrimonial de la serie “B”, con valor nominal de $50.00 (cincuenta pesos 00/100 M.N.) cada uno.
+Dicho capital social estará representado por 31'548,000 (TREINTA Y UN MILLONES QUINIENTOS CUARENTA Y OCHO MIL) certificados de aportación patrimonial de la serie “A” con valor nominal de $50.00 (CINCUENTA PESOS 00/100 M.N.) cada uno y por 16'252,000 (DIECISÉIS MILLONES DOSCIENTOS CINCUENTA Y DOS MIL) certificados de aportación patrimonial de la serie “B”, con valor nominal de $50.00 (CINCUENTA PESOS 00/100 M.N.) cada uno.
 
-El capital social podrá ser aumentado o reducido conforme a lo dispuesto por el artículo 38 de la Ley de Instituciones de Crédito, a propuesta del Consejo Directivo de la Sociedad, por Acuerdo de la Secretaría de Hacienda y Crédito Público y mediante reforma de este Reglamento.
+El capital social podrá ser aumentado o reducido conforme a lo dispuesto por el artículo 38 de la Ley de Instituciones de Crédito, a propuesta del Consejo Directivo de la Sociedad, por acuerdo de la Secretaría y mediante reforma de este Reglamento.
 
-###### ARTICULO 8o.
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+
+###### ARTÍCULO 8o.
 
 Cuando la Sociedad anuncie su capital social deberá al mismo tiempo anunciar su capital pagado.
 
-###### ARTICULO 9o.
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
-Los certificados de aportación patrimonial, serán títulos de crédito nominativos, en los términos del artículo 32 de la Ley de Instituciones de Crédito, divididos en dos series.
+###### ARTÍCULO 9o.
 
-La Serie "A" representará en todo tiempo el 66% del capital de la Sociedad, sólo será suscrita por el Gobierno Federal, se emitirá en un título que no llevará cupones, el cual será intransmisible y en ningún caso podrá cambiar su naturaleza o los derechos que confiere al propio Gobierno Federal.
+Los certificados de aportación patrimonial serán títulos de crédito nominativos, en los términos del artículo 32 de la Ley de Instituciones de Crédito, divididos en dos series.
 
-La Serie "B" representará el 34% restante del capital social y podrá ser suscrita por el Gobierno Federal, por personas físicas o morales mexicanas, y por entidades de la Administración Pública Federal, los Gobiernos de los Estados y los Municipios, en los términos del artículo 12 de la Ley Orgánica.
+La serie "A" representará en todo tiempo el 66% del capital de la Sociedad, sólo será suscrita por el Gobierno Federal, se emitirá en un título que no llevará cupones, el cual será intransmisible y en ningún caso podrá cambiar su naturaleza o los derechos que confiere al propio Gobierno Federal.
 
-Los certificados de aportación patrimonial Serie "B" llevarán transcritas las disposiciones contenidas en los artículos 33, 34, 35 y 36 de la Ley de Instituciones de Crédito y serán firmados por dos consejeros que determine el Consejo Directivo de entre los representantes de la Serie "A" de los certificados de aportación patrimonial. Estas firmas podrán ser impresas con facsímil, debiendo depositarse las firmas originales en el Registro Público de Comercio del domicilio de la Sociedad.
+La serie "B" representará el 34% restante del capital social y podrá ser suscrita por el Gobierno Federal, por personas físicas o morales mexicanas, y por entidades de la administración pública federal, los Gobiernos de los Estados y los Municipios en los términos del artículo 12 de su Ley Orgánica.
 
-###### ARTICULO 10.
+Los certificados de aportación patrimonial serie "B" llevarán transcritas las disposiciones contenidas en los artículos 33, 34, 35 y 36 de la Ley de Instituciones de Crédito. Los certificados de aportación patrimonial de las series "A" y "B" serán firmados por dos consejeros que determine el Consejo Directivo de entre los representantes de la serie "A". Estas firmas podrán ser impresas con facsímil, debiendo depositarse las firmas originales en el Registro Público de Comercio del domicilio de la Sociedad.
+
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+
+###### ARTÍCULO 10.
 
 La Sociedad podrá emitir certificados provisionales nominativos, que deberán canjearse en su oportunidad por títulos definitivos.
 
 Los títulos provisionales y los definitivos deberán contener todos los datos necesarios para que su tenedor pueda conocer y ejercitar los derechos que el certificado le confiere.
 
-###### ARTICULO 11.
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
-La suscripción, tenencia y circulación de los certificados de aportación patrimonial de la Serie "B" se sujetarán en todo tiempo a lo previsto por la Ley de Instituciones de Crédito, por la propia Ley Orgánica y de conformidad con las disposiciones siguientes:
+###### ARTÍCULO 11.
 
-I.- Los títulos definitivos en que consten los certificados de aportación patrimonial Serie "B" de esta Sociedad, deberán expresar y contener:
+La suscripción, tenencia y circulación de los certificados de aportación patrimonial de la serie "B" se sujetarán en todo tiempo a lo previsto por la Ley de Instituciones de Crédito, por la propia Ley Orgánica y de conformidad con las disposiciones siguientes:
 
-a) Nombre y domicilio del tenedor o tenedores, así como su ocupación principal, y en su caso, su objeto social;
+I. Los títulos definitivos en que consten los certificados de aportación patrimonial serie "B" de la Sociedad, deberán expresar y contener:
+
+a) Nombre y domicilio del tenedor o tenedores, así como su ocupación principal y, en su caso, su objeto social;
 
 b) La denominación y domicilio de la Sociedad;
 
 c) La mención expresa de ser certificados de aportación patrimonial;
 
-d) El importe del capital social de la Sociedad, el número de certificados correspondientes a la Serie "B" y el valor nominal de los certificados de aportación patrimonial;
+d) El importe del capital social de la Sociedad, el número de certificados correspondientes a la serie "B" y el valor nominal de los certificados de aportación patrimonial;
 
 e) La mención específica de pertenecer a la serie "B" y la indicación que la misma representa el 34% del capital social de la Institución emisora, así como el número progresivo que permita la individualización de cada certificado;
 
-f) Las transcripciones que para estos títulos señala el artículo 9o. de este Reglamento Orgánico, y
+f) Las transcripciones que para estos títulos señala el artículo 9 de este Reglamento, y
 
-g) La firma autógrafa o facsimilar de los miembros del Consejo Directivo que conforme al último párrafo del artículo 9o. de este Reglamento Orgánico puedan suscribir tales títulos.
+g) La firma autógrafa o facsimilar de los miembros del Consejo Directivo que conforme al último párrafo del artículo 9 de este Reglamento puedan suscribir tales títulos.
 
-II.- Cada certificado de aportación patrimonial Serie "B", es indivisible, y en consecuencia cuando haya varios propietarios de un mismo certificado, nombrarán un representante común, y si no se pusieren de acuerdo, el nombramiento será hecho por la autoridad judicial competente;
+II. Cada certificado de aportación patrimonial serie "B" es indivisible y, en consecuencia, cuando haya varios propietarios de un mismo certificado, nombrarán a un representante común, y si no se pusieren de acuerdo, el nombramiento será hecho por la autoridad judicial competente;
 
-III.- La Sociedad dejará de inscribir en el registro de certificados de aportación patrimonial Serie "B" a que se refiere el artículo 36 de la Ley de Instituciones de Crédito, las transmisiones que se efectúen sin ajustarse a lo establecido en la citada Ley y a lo previsto en este artículo, y
+III. La Sociedad dejará de inscribir en el registro de certificados de aportación patrimonial serie "B" a que se refiere el artículo 36 de la Ley de Instituciones de Crédito, las transmisiones que se efectúen sin ajustarse a lo establecido en la citada ley y a lo previsto en este artículo, y
 
-IV.- La Secretaría de Hacienda y Crédito Público, conforme a lo previsto en el artículo 12 de la Ley Orgánica de Nacional Financiera, podrá autorizar la adquisición de certificados de la citada Serie "B" en una proporción mayor al 5% del capital pagado de la Sociedad, a las entidades de la Administración Pública Federal y los gobiernos de las entidades federativas y municipios.
+IV. La Secretaría, conforme a lo previsto en el artículo 12 de la Ley Orgánica, podrá autorizar la adquisición de certificados de la citada serie "B" en una proporción mayor al 5% del capital pagado de la Sociedad, a las entidades de la administración pública federal y los gobiernos de las entidades federativas y municipios.
 
-###### ARTICULO 12.
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
-En ningún momento podrán participar en forma alguna en el capital de la Sociedad personas físicas o morales extranjeras, ni sociedades mexicanas en cuyos estatutos no figure cláusula de exclusión directa e indirecta de extranjeros.
+###### ARTÍCULO 12.
 
-Las personas que contravengan lo dispuesto en este artículo, perderán en favor del Gobierno Federal la participación de que se trate.
+En ningún momento podrán participar en forma alguna en el capital de la Sociedad, personas físicas o morales extranjeras, ni sociedades mexicanas en cuyos estatutos no figure cláusula de exclusión directa e indirecta de extranjeros.
 
-###### ARTICULO 13.
+Las personas que contravengan lo dispuesto en este artículo, perderán a favor del Gobierno Federal la participación de que se trate.
 
-La Sociedad llevará un registro de los certificados de aportación patrimonial Serie "B" y considerará como propietarios de éstos a quienes aparezcan inscritos como tales.
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
-El citado registro contendrá el nombre y domicilio del titular, así como su ocupación principal, y en su caso, objeto social, la indicación de los certificados que le pertenezcan, expresándose los números y de más particularidades e igualmente, los datos relativos a las transmisiones que se realicen en los términos del artículo 36 de la Ley de Instituciones de Crédito.
+###### ARTÍCULO 13.
 
-###### ARTICULO 14.
+La Sociedad llevará un registro de los certificados de aportación patrimonial serie "B" y considerará como propietarios de éstos a quienes aparezcan inscritos como tales.
+
+El citado registro contendrá el nombre y domicilio del titular, así como su ocupación principal y en su caso, objeto social, la indicación de los certificados que le pertenezcan; expresándose los números y demás particularidades e igualmente, los datos relativos a las transmisiones que se realicen en los términos del artículo 36 de la Ley de Instituciones de Crédito.
+
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+
+###### ARTÍCULO 14.
 
 En los casos en que se aumente el capital pagado se observará lo siguiente:
 
-I.- Los titulares de los certificados de aportación patrimonial de la Serie "B" podrán adquirir los que correspondan al acuerdo adoptado, en igualdad de condiciones y en proporción al número de certificados, mediante la entrega del cupón correspondiente y su pago en efectivo, y
+I. Los titulares de los certificados de aportación patrimonial de la serie "B" podrán adquirir los que correspondan al acuerdo adoptado, en igualdad de condiciones y en proporción al número de certificados, mediante la entrega del cupón correspondiente y su pago en efectivo, y
 
-II.- Transcurrido el plazo que el Consejo Directivo señale, que no podrá ser inferior a 30 días naturales computables a partir de la fecha en que se publique en el Diario Oficial de la Federación el acuerdo del propio Consejo Directivo, los certificados no adquiridos de la Serie "B" se colocarán de manera directa por la Sociedad, observando lo previsto en el artículo 34 de la Ley de Instituciones de Crédito.
+II. Transcurrido el plazo que el Consejo Directivo señale, que no podrá ser inferior a treinta días naturales computables a partir de la fecha en que se publique en el Diario Oficial de la Federación el acuerdo del propio Consejo Directivo, los certificados no adquiridos de la serie "B" se colocarán de manera directa por la Sociedad, observando lo previsto en el artículo 34 de la Ley de Instituciones de Crédito.
 
-### CAPITULO TERCERO. De la Administración y Vigilancia
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
-###### ARTICULO 15.
+### CAPÍTULO TERCERO. De La Administración y Vigilancia
 
-La administración de Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, estará encomendada a un Consejo Directivo y a un Director General, en sus respectivas esferas de competencia, de conformidad con su Ley Orgánica.
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
-###### ARTICULO 16.
+###### ARTÍCULO 15.
 
-El Consejo Directivo estará integrado por nueve consejeros distribuidos de la siguiente forma:
+La administración de la Sociedad estará encomendada a un Consejo Directivo y a un Director General, en sus respectivas esferas de competencia, de conformidad con la Ley Orgánica.
 
-I.- Seis consejeros representarán a la Serie "A" de certificados de aportación patrimonial que serán:
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
-a) El Secretario de Hacienda y Crédito Publico, quien presidirá el Consejo Directivo;
+###### ARTÍCULO 16.
 
-b) Los titulares de las Secretarías de Programación y Presupuesto, de Comercio y Fomento Industrial, y de Energía, Minas e Industria Paraestatal, el Director General del Banco de México, así como el titular de una entidad de la Administración Pública Federal vinculada con el sector industrial, designado por el Ejecutivo Federal a través del Secretario de Hacienda y Crédito Público.
+El Consejo Directivo de la Sociedad estará integrado por once consejeros, designados de la siguiente forma:
 
-Serán suplentes de los consejeros mencionados, respectivamente; el Subsecretario de Hacienda y Crédito Público, quien suplirá en sus ausencias al Presidente del Consejo Directivo, sendos Subsecretarios de las demás Secretarías citadas, un Director General adjunto del Banco de México; y una persona de reconocida experiencia y prestigio en materia económica, financiera e industrial, designada por el Ejecutivo Federal, a través del Secretario de Hacienda y Crédito Público; y
+I. Seis consejeros representarán a la serie "A" de certificados de aportación patrimonial que serán:
 
-II.- Tres consejeros de la Serie "B" designados por el Ejecutivo Federal, a través del Secretario de Hacienda y Crédito Público, con sus respectivos suplentes, nombramientos que deberán recaer en personas de reconocido prestigio y amplios conocimientos y experiencia en materia económica, financiera, industrial o de desarrollo regional.
+a) El Secretario de Hacienda y Crédito Público, quien presidirá el Consejo Directivo, y
 
-La designación y la renuncia de los consejeros serán presentadas a la Secretaría de Hacienda y Crédito Público a través del Consejo Directivo de la Sociedad.
+b) Los titulares de las Secretarías de Economía; Energía; de la Subsecretaría de Hacienda y Crédito Público; un representante designado por el Gobernador del Banco de México dentro de los 3 niveles jerárquicos superiores del instituto central, así como el titular de la entidad de la Administración Pública Federal, vinculada con el sector industrial, designado por el Ejecutivo Federal, a través del Secretario de Hacienda y Crédito Público.
 
-Los consejeros de la Serie "B" que se designen para cubrir vacantes, durarán en su cargo el tiempo que falte por transcurrir al consejero sustituido.
+Serán suplentes de los consejeros mencionados, preferentemente, los servidores públicos del nivel inferior inmediato siguiente.
+
+En ausencia del Secretario de Hacienda y Crédito Público, el Subsecretario de Hacienda y Crédito Público tendrá el carácter de presidente del Consejo Directivo, en ausencia de este último, tendrá el carácter de presidente el suplente del Secretario de Hacienda y Crédito Público y a falta de todos los anteriores, quien designen los consejeros presentes de entre los consejeros de la serie "A".
+
+II. Tres consejeros de la serie "B" designados por el Ejecutivo Federal, a través del Secretario de Hacienda y Crédito Público, con sus respectivos suplentes, nombramientos que deberán recaer en personas de reconocido prestigio y amplios conocimientos y experiencia en materia económica, financiera, industrial o de desarrollo regional.
+
+III. Dos consejeros de la serie "B" designados por el Ejecutivo Federal, a través de la Secretaría, que tendrán el carácter de consejeros independientes. Los nombramientos de consejeros independientes deberán recaer en personas de nacionalidad mexicana que por sus conocimientos, honorabilidad, prestigio profesional y experiencia sean ampliamente reconocidos.
+
+El Consejo Directivo podrá invitar a sus sesiones a personas cuyas actividades estén relacionadas con el objeto de la Sociedad.
+
+En el orden del día de las sesiones del Consejo Directivo se deberán listar los asuntos a tratar y no deberán incluirse asuntos generales.
+
+Los consejeros de la serie "B" con carácter de independientes que se designen para cubrir vacantes, durarán en su cargo el tiempo que falte por transcurrir al consejero sustituido.
 
 El cargo de consejero es personal y no podrá desempeñarse por medio de representantes.
 
-###### ARTICULO 17.
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
-Las sesiones del Consejo Directivo deberán celebrarse cuando menos una vez al mes en los días y horas que previamente acuerde el propio Consejo; en caso necesario se celebrarán por acuerdo del Presidente o a petición de cuando menos dos consejeros de la Serie "A".
+###### ARTÍCULO 17.
 
-Invariablemente se requerirá escrito dirigido a los consejeros para la celebración de las sesiones.
-
-El Consejo Directivo sesionará válidamente con la asistencia de seis o más consejeros, siempre y cuando, entre ellos se encuentre un mínimo de cuatro de los nombrados por la Serie "A".
+El Consejo Directivo se reunirá por lo menos trimestralmente y sesionará válidamente con la asistencia de seis o más consejeros, siempre y cuando entre ellos se encuentre un mínimo de cuatro de los nombrados por la serie "A".
 
 Las resoluciones se tomarán por mayoría de votos de los consejeros presentes, teniendo el Presidente voto de calidad, en caso de empate.
 
-###### ARTICULO 18.
+Los consejeros independientes no tendrán suplentes y deberán asistir cuando menos al setenta por ciento de las sesiones que se hayan convocado en un ejercicio y en caso contrario podrán ser designados otros con las mismas características en su lugar, siempre que las ausencias no se justifiquen a juicio del Consejo Directivo.
 
-No podrán ser consejeros:
+Para la celebración de las sesiones del Consejo Directivo, invariablemente se requerirá convocatoria por escrito dirigida a sus miembros, la cual podrá hacerse llegar por medios electrónicos, y deberá ser enviada por el secretario o prosecretario del Consejo Directivo, con una anticipación no menor de cinco días hábiles tratándose de sesiones ordinarias y de tres días, preferentemente, en el caso de sesiones extraordinarias.
 
-I.- Las personas que se encuentren en los casos señalados por los artículos 23 y 41, último párrafo, de la Ley de Instituciones de Crédito;
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
-II.- Las personas que ocupen un puesto de elección popular, mientras estén en el ejercicio del mismo, y
+###### ARTÍCULO 18.
 
-III.- Dos o más personas que tengan entre sí parentesco hasta el tercer grado por consanguinidad o por afinidad.
+No podrán ser consejeros las personas que:
 
-Si alguno de los consejeros designados llegare a encontrarse comprendido, durante el ejercicio de su cargo en cualquiera de los supuestos anteriores, será sustituido por su suplente, por todo el tiempo que fue el impedimento y no se haga designación del consejero propietario.
+I. Se encuentren en los casos señalados en el penúltimo párrafo del artículo 41 de la Ley de Instituciones de Crédito;
 
-Los consejeros que en cualquier operación tuviesen un interés opuesto al de la Sociedad, deberán abstenerse de toda intervención, respecto de dicha operación.
+II. Ocupen un puesto de elección popular, mientras estén en el ejercicio del mismo;
 
-Los consejeros están obligadas en todo tiempo a lo previsto por los artículos 117 y 118 de la Ley de Instituciones de Crédito.
+III. Tengan, con otro consejero designado, parentesco hasta el tercer grado por consanguinidad o por afinidad.
 
-###### ARTICULO 19.
+Si alguno de los consejeros designados llegare a encontrarse comprendido, durante el ejercicio de su cargo, en cualquiera de los supuestos anteriores, será sustituido por su suplente, por todo el tiempo que dure el impedimento y no se haga designación del consejero propietario, y
 
-El Consejo Directivo designará a su Secretario y Prosecretario de entre los servidores públicos de la Sociedad.
+IV. Adicionalmente, los consejeros independientes no deberán tener:
 
-El Secretario o en su caso el Prosecretario del Consejo Directivo levantará las actas de sesiones, las que se asentarán en el libro de actas que para tal efecto se lleve y deberán ser firmadas por el Presidente y por el Secretario, o el Prosecretario. Asimismo autorizará las copias de dichas actas, suscribirá los citatorios respectivo (sic) y expedirá las certificaciones que correspondan.
+a) Nexo o vínculo laboral con la Sociedad;
 
-###### ARTICULO 20.
+b) Nexo patrimonial importante y/o vínculo laboral con persona física o moral que sea acreedor, deudor, cliente o proveedor de la Sociedad;
 
-El Consejo Directivo dirigirá a la Sociedad en los términos de lo previsto por el artículo 42 y demás relativos de la Ley de Instituciones de Crédito.
+c) Conflicto de intereses con la Sociedad, por ser clientes, proveedores, deudores, acreedores, importantes o de cualquier otra naturaleza, y
 
-El Consejo Directivo podrá acordar la realización de las operaciones inherentes al objeto de la Sociedad. Los acuerdos que en su caso dicte respecto de las operaciones previstas en las fracciones VI y IX del artículo 46 de la Ley de instituciones de Crédito, deberán considerar las propuestas del Director General.
+d) La representación de asociaciones, gremios, federaciones, confederaciones de trabajadores, patrones, o sectores de atención que se relacionen con el objeto de la Sociedad o sean miembros de sus órganos directivos.
+
+Los consejeros deberán comunicar al presidente del Consejo Directivo sobre cualquier situación que pudiere derivar en un conflicto de intereses, así como abstenerse de participar en la deliberación correspondiente. Asimismo, deberán mantener absoluta confidencialidad sobre todos aquellos actos, hechos o acontecimientos que pudieran afectar la operación de la Sociedad, incluyendo las deliberaciones del Consejo Directivo, mientras dicha información no se haya hecho del conocimiento del público.
+
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+
+###### ARTÍCULO 19.
+
+A propuesta del Director General, el Consejo Directivo nombrará un Secretario y un Prosecretario, de entre los servidores públicos de la Sociedad. El Prosecretario suplirá al Secretario en caso de ausencia.
+
+El Secretario y Prosecretario del Consejo Directivo tendrán, entre otras, las siguientes facultades:
+
+I. Formular y enviar a los miembros del Consejo Directivo, las convocatorias para la celebración de las sesiones del Consejo Directivo, a solicitud de su Presidente o del Director General de la Sociedad;
+
+II. Verificar que se cuente con el quórum y votación requeridos; levantar las actas de las sesiones, suscribirlas para constancia, someterlas a la aprobación y firma de quien haya presidido la sesión correspondiente, así como resguardarlas, autorizar copias de dichas actas y expedir las certificaciones que correspondan;
+
+III. Llevar un registro de los acuerdos tomados y dar seguimiento al cumplimiento de los mismos, así como expedir las copias y constancias relativas;
+
+IV. Expedir certificaciones de los nombramientos y remociones señalados en la fracción I del artículo 42 de la Ley de Instituciones de Crédito, así como en el artículo 43 de esa misma Ley;
+
+V. Dar cumplimiento a las obligaciones establecidas en materia de transparencia y acceso a la información pública gubernamental en materia de clasificación de información, respecto de la presentada o generada en las sesiones del Consejo Directivo, y
+
+VI. Las demás que expresamente les asigne el Consejo Directivo.
+
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+
+###### ARTÍCULO 20.
+
+El Consejo Directivo dirigirá a la Sociedad en términos de lo previsto por el artículo 42 y demás relativos de la Ley de Instituciones de Crédito.
+
+El Consejo Directivo podrá acordar la realización de las operaciones inherentes al objeto de la Sociedad. Los acuerdos que en su caso dicte respecto de las operaciones previstas en las fracciones VI y IX del artículo 46 de la Ley de Instituciones de Crédito, deberán considerar las propuestas del Director General.
 
 Las facultades indelegables del Consejo Directivo, se ejercerán en los términos previstos en las disposiciones aplicables.
 
-###### ARTICULO 21.
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
-También serán facultades indelegables del Consejo Directivo las siguientes:
+###### ARTÍCULO 21.
 
-I.- Aprobar el Informe Anual de Actividades que le presente el Director General;
+Además de las previstas en el artículo 42 de la Ley de Instituciones de Crédito, también serán facultades indelegables del Consejo Directivo las siguientes:
 
-II.- Aprobar las inversiones en capital de riesgo a que se refiere la fracción IV del artículo 6o. y el artículo 30 de la Ley Orgánica de Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, y su enajenación, estableciendo las modalidades que considere convenientes;
+I. Aprobar el informe anual de actividades que le presente el Director General;
 
-III.- Aprobar la adquisición y uso de tecnología a que se refiere la fracción VII del artículo 6o. de la Ley Orgánica de Nacional Financiera, y
+II. Aprobar las inversiones en capital de riesgo a que se refieren los artículos 6o., fracción IV y 30 de la Ley Orgánica y su enajenación, estableciendo las modalidades que considere convenientes;
 
-IV.- Aprobar los demás programas específicos y reglamentos internos de la Sociedad que le presente el Director General, a efecto de someterlos a la autorización expresa de la Secretaría de Hacienda y Crédito Público.
+III. Autorizar la adquisición y uso de tecnología a que se refiere la fracción VII del artículo 6o. de la Ley Orgánica;
 
-###### ARTICULO 22.
+IV. Aprobar los demás programas específicos y reglamentos internos de la Sociedad que le presente el Director General, a efecto de someterlos a la autorización de la Secretaría;
 
-El Director General será designado por el Ejecutivo Federal a través del Secretario de Hacienda y Crédito Público, debiendo recaer su nombramiento en persona que reúna los requisitos que establecen los artículos 24 y 43 de la Ley de Instituciones de Crédito.
+V. Expedir las normas y criterios a los cuales deberá sujetarse la elaboración y ejercicio del presupuesto de gasto corriente y de inversión física de la Sociedad, así como aprobar dicho presupuesto y las modificaciones que corresponda efectuar durante el ejercicio, una vez autorizados los montos globales de estos conceptos por parte de la Secretaría; y
 
-###### ARTICULO 23.
+VI. Aprobar, a propuesta del comité de recursos humanos y desarrollo institucional, de conformidad con lo previsto en el artículo 42, fracción XVIII de la Ley de Instituciones de Crédito, la estructura orgánica, tabuladores de sueldos y prestaciones, política salarial y para el otorgamiento de percepciones extraordinarias por el cumplimiento de metas sujetas a la evaluación del desempeño, tomando en cuenta las condiciones del mercado laboral imperante en el sistema financiero mexicano; políticas de ascensos, promociones y jubilaciones; lineamientos de selección, reclutamiento y capacitación; criterios de separación; y las demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren en la Sociedad.
 
-El Director General tendrá a su cargo la administración y la representación legal de Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo sin perjuicio de las atribuciones que correspondan al Consejo Directivo, tendrá las siguientes facultades y funciones:
+Sin perjuicio de lo anterior, el Consejo Directivo deberá aprobar para cada ejercicio un programa que se oriente a financiar a la micro, pequeña y mediana empresa, procurando destinar por lo menos el cincuenta por ciento del valor de la cartera directa y garantizada de la Sociedad.
 
-I.- En el ejercicio de sus atribuciones de representación legal, podrá celebrar u otorgar toda clase de actos y documentos inherentes al objeto de la Sociedad. Contará para ello con las más amplias facultades para realizar actos de dominio, administración, pleitos y cobranzas, aún de aquellos que requieran de autorización especial según otras disposiciones legales o reglamentarias. En tal virtud, y de manera enunciativa, y no limitativa, podrá emitir, avalar y negociar títulos de crédito, querellarse y otorgar perdón, ejercitar y desistirse de acciones judiciales inclusive en el juicio de amparo, comprometer en árbitros y transigir, otorgar poderes generales y especiales con todas las facultades que le competan aún las que requieran cláusula especial, sustituirlos y revocarlos, debiendo obtener aprobación expresa del Consejo Directivo cuando se trate de otorgar poderes generales para actos de dominio;
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
-II.- Ejecutar las resoluciones del Consejo Directivo;
+###### ARTÍCULO 22.
 
-III.- Llevar la firma social;
+El Director General será designado por el Ejecutivo Federal a través del Secretario de Hacienda y Crédito Público, debiendo recaer el nombramiento en persona que reúna los requisitos previstos en el artículo 24 de la Ley de Instituciones de Crédito.
 
-IV.- Actuar como Delegado Fiduciario General;
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
-V.- Decidir la designación y contratación de los servidores públicos de Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, distintos de los señalados en la fracción I del artículo 42 de la Ley de Instituciones de Crédito, administrar al personal en su conjunto y establecer y organizar las oficinas de la Institución;
+###### ARTÍCULO 23.
 
-VI.- Decidir la publicación de los balances mensuales de la Institución, conforme a las bases acordadas por el Consejo Directivo;
+El Director General tendrá a su cargo la administración y representación legal de la Sociedad, sin perjuicio de las atribuciones que correspondan al Consejo Directivo; al efecto tendrá las siguientes facultades y funciones:
 
-VII.- Administrar los bienes y negocios celebrando los convenios y ejecutando los actos que requieran la marcha ordinaria de la Institución;
+I. En el ejercicio de sus atribuciones de representación legal, podrá celebrar u otorgar toda clase de actos y documentos inherentes al objeto de la Sociedad. Contará para ello con las más amplias facultades para realizar actos de dominio, administración, pleitos y cobranzas, aun de aquellas que requieran de autorización especial según otras disposiciones legales o reglamentarias. En tal virtud y de manera enunciativa, y no limitativa, podrá emitir, avalar y negociar títulos de crédito, querellarse y otorgar perdón, ejercitar y desistirse de acciones judiciales, inclusive en el juicio de amparo; comprometer en árbitros y transigir, otorgar poderes generales y especiales con todas las facultades que le competan, aun las que requieran cláusula especial, sustituirlos, revocarlos y otorgar facultades de sustitución a los apoderados, debiendo obtener autorización expresa del Consejo Directivo cuando se trate de otorgar poderes generales para actos de dominio;
 
-VIII.- Proponer al Consejo Directivo, la designación de Delegados Fiduciarios y de los servidores públicos de la Sociedad que ocupen cargos con dos jerarquías inmediatas inferiores a la de su rango y presentarle las solicitudes de licencia, así como las renuncias de los mismos;
+II. Informar a la Secretaría, previo a la autorización de las instancias correspondientes, las operaciones que pudiesen estar vinculadas con el objeto de las otras instituciones de banca de desarrollo;
 
-IX.- Proponer al Consejo Directivo la creación de comités regionales consultivos y de crédito, así como los de su seno y proveer lo necesario para su adecuada integración y funcionamiento;
+III. Ejecutar las resoluciones del Consejo Directivo;
 
-X.- Acordar la creación de comités internos de crédito, técnicos y administrativos;
+IV. Llevar la firma social;
 
-XI.- Presentar al Consejo Directivo para su aprobación el Balance General Anual de la Sociedad, junto con el informe y dictamen del auditor externo y de los comisarios;
+V. Actuar como Delegado Fiduciario General;
 
-XII.- Presentar al Consejo Directivo los estados financieros de la Sociedad;
+VI. Decidir la designación y contratación de los servidores públicos de la Sociedad, distintos de los señalados en el artículo 42 de la Ley de Instituciones de Crédito, así como la designación y remoción de los delegados fiduciarios; administrar al personal en su conjunto, y establecer y organizar las oficinas de la Sociedad;
 
-XIII.- Proponer al Consejo Directivo los programas sobre el establecimiento, reubicación y clausura de sucursales, agencias y oficinas en el país y en el extranjero;
+VII. Autorizar la publicación de los balances mensuales de la Sociedad, conforme a las bases acordadas por el Consejo Directivo;
 
-XIV.- Someter al Consejo Directivo los programas operativos y financieros, presupuestos generales de gastos e inversiones y las estimaciones de ingresos anuales de la Sociedad, así como sus modificaciones;
+VIII. Administrar los bienes y negocios celebrando los convenios y ejecutando los actos que requieran la marcha ordinaria de la Sociedad;
 
-XV.- Presentar al Consejo Directivo las propuestas de modificación a este Reglamento Orgánico;
+IX. Proponer al Consejo Directivo la designación de los servidores públicos de la Sociedad que ocupen cargos con dos jerarquías inmediatas inferiores a la de su rango, así como las solicitudes de licencia y renuncias de los mismos;
 
-XVI.- Proponer al Consejo Directivo las propuestas de cesión de partes del activo o pasivo de la Sociedad;
+X. Proponer al Consejo Directivo la creación de comités regionales consultivos y de crédito, así como los de su seno y proveer lo necesario para su adecuada integración y funcionamiento;
 
-XVII.- Presentar al Consejo Directivo las propuestas de adquisición de los inmuebles que la Sociedad requiera para la prestación de sus servicios y la enajenación de los mismos;
+XI. Acordar la creación de comités internos, técnicos y administrativos;
 
-XVIII.- Rendir al Consejo Directivo un informe anual de actividades;
+XII. Presentar al Consejo Directivo para su aprobación el Balance General Anual de la Sociedad, junto con el informe y dictamen del auditor externo y de los comisarios;
 
-XIX.- Proponer al Consejo Directivo, la emisión de obligaciones subordinadas;
+XIII. Presentar al Consejo Directivo los estados financieros de la Sociedad;
 
-XX.- Presentar al Consejo Directivo para su aprobación, los presupuestos de adquisición de partes sociales en las sociedades a que se refieren los artículos 75, cuando proceda, 88 y 89 de la Ley de Instituciones de Crédito, y
+XIV. Proponer al Consejo Directivo los programas sobre el establecimiento, reubicación y clausura de sucursales, agencias y oficinas en el país y en el extranjero;
 
-XXI.- Participar en las sesiones del Consejo Directivo con voz y sin voto.
+XV. Someter al Consejo Directivo los programas operativos y financieros, presupuestados generales de gastos e inversiones y las estimaciones de ingresos anuales de la Sociedad, así como sus modificaciones;
 
-###### ARTICULO 24.
+XVI. Presentar al Consejo Directivo las propuestas de modificación al Reglamento;
 
-La designación de Delegados Fiduciarios y de los servidores públicos de la Sociedad que ocupen cargos con las dos jerarquías inmediatas inferiores a la del Director General se hará con base en los méritos obtenidos en la Institución y con sujeción a lo dispuesto en los artículos 24 y 43 de la Ley de Instituciones de Crédito.
+XVII. Proponer al Consejo Directivo las normas o bases generales para la cesión de activos y pasivos de la Sociedad, en las que se determinarán las operaciones que deben ser sometidas a autorización previa del Consejo Directivo;
 
-###### ARTICULO 25.
+XVIII. Presentar al Consejo Directivo las propuestas de adquisición de los inmuebles que la Sociedad requiera para la prestación de sus servicios y la enajenación de los mismos;
 
-El órgano de vigilancia de la Sociedad, estará integrado por dos comisarios, nombrados, uno por la Secretaría de la Contraloría General de la Federación y otro por la Comisión Consultiva a que se refiere el artículo 45 de la Ley de Instituciones de Crédito. Por cada comisario se nombrará el respectivo suplente.
+XIX. Rendir al Consejo Directivo un informe anual de actividades;
 
-###### ARTICULO 26.
+XX. Proponer al Consejo Directivo la emisión de obligaciones subordinadas;
 
-Para el cumplimiento de las facultades y obligaciones que la Ley les confiere, los comisarios podrán ejercer conjunta o separadamente las funciones siguientes:
+XXI. Presentar al Consejo Directivo, para su aprobación, los presupuestos de adquisición de partes sociales en las sociedades a que se refieren los artículos 75, 88 y 89 de la Ley de Instituciones de Crédito;
 
-I.- Solicitar al Director General información mensual que incluya por lo menos un estado de la situación financiera, y un estado de resultados de la Sociedad;
+XXII. Participar en las sesiones del Consejo Directivo con voz;
 
-II.- Realizar un examen de las operaciones, documentación, registro y demás constancias, en el grado y extensión que sea necesario para efectuar la vigilancia interna de la Sociedad y para rendir fundadamente el dictamen a que se refiere la fracción siguiente;
+XXIII. Expedir las certificaciones correspondientes respecto de la designación y remoción de los delegados fiduciarios;
 
-III.- Rendir anualmente el Consejo Directivo un informe respecto a la veracidad, suficiencia y razonabilidad de la información presentada por el Director General al propio Consejo Directivo debiendo incluir su opinión sobre si las políticas y criterios contables y de información seguidos por la Sociedad, son adecuados y suficientes, de conformidad con lo dispuesto por la Ley de Instituciones de Crédito; si su aplicación es consistente en la información presentada al Consejo Directivo, y si como consecuencia dicha información refleja en forma veraz y suficiente la situación financiera y de resultados de la Sociedad;
+XXIV. Las que le confiera el presente Reglamento, y
 
-IV.- Hacer que se inserten en el orden del día de las sesiones del Consejo Directivo los puntos que crean pertinentes;
+XXV. Las que le delegue el Consejo Directivo.
 
-V.- Asistir con voz, pero sin voto, a todas las sesiones del Consejo Directivo, a los cuales deberán ser citados, y
+El Director General podrá, mediante acuerdos delegatorios, ejercer las facultades previstas en el artículo 23 de la Ley Orgánica, excepto aquellas que sean indelegables a través de los directores generales adjuntos, coordinadores, directores y demás personal de la Sociedad.
 
-VI.- Vigilar en cualquier tiempo las operaciones de la Sociedad.
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
-La actuación de los comisarios se sujetará en todo tiempo a lo previsto por los artículos 117 y 118 de la Ley de Instituciones de Crédito.
+###### ARTÍCULO 24.
 
-###### ARTICULO 27.
+La designación de los servidores públicos de la Sociedad que ocupen cargos con las dos jerarquías inmediatas inferiores a la del Director General se hará con base en los méritos obtenidos y con sujeción a lo dispuesto por los artículos 24 y 43 de la Ley de Instituciones de Crédito.
 
-El comisario designado por la Secretaría de la Contraloría General de la Federación durará en su cargo hasta en tanto no sea revocado su nombramiento, y el designado por la Comisión Consultiva, por el término de un ejercicio social, pudiendo ser nombrado nuevamente.
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
-Para la designación y remoción del comisario de la Serie "B", deberá celebrarse una reunión especial de la Comisión Consultiva, cuyo acuerdo se tomará de por lo menos las dos terceras partes de votos de los presentes.
+###### ARTÍCULO 25.
 
-El comisario designado por la Serie "B", continuará en el desempeño de sus funciones, aun cuando concluyo el periodo para el que haya sido nombrado, mientras no se haga nueva designación y el sustituto tome posesión de su cargo.
+La vigilancia de la Sociedad se realizará por dos comisarios, en los términos señalados en el artículo 44 de la Ley de Instituciones de Crédito y las disposiciones de carácter general que emita la Comisión Nacional Bancaria y de Valores.
 
-### CAPITULO CUARTO. De la Comisión Consultiva de la Sociedad
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
-###### ARTICULO 28.
+###### ARTÍCULO 26.
 
-En los términos del artículo 45 de la Ley de Instituciones de Crédito, la Sociedad tendrá una Comisión Consultiva integrada por los titulares de los certificados de aportación patrimonial de la Serie "B", distintos de los del Gobierno Federal, que se reunirá y ocupará de los asuntos que precisa dicho artículo.
+Para el cumplimiento de las facultades y obligaciones que la ley les confiere, los comisarios podrán ejercer conjunta o separadamente las funciones siguientes:
 
-###### ARTICULO 29.
+I. Solicitar al Director General información mensual que incluya por lo menos un estado de la situación financiera, y un estado de resultados de la Sociedad;
 
-La Comisión podrá ser convocada mediante un aviso que se publicará por una sola vez en uno de los periódicos de mayor circulación del domicilio de la Sociedad, cuando menos 10 días naturales antes de la fecha señalada para la reunión.
+II. Realizar un examen de las operaciones, documentación, registro y demás constancias, en el grado y extensión que sea necesario para efectuar la vigilancia interna de la Sociedad y para rendir fundadamente el dictamen a que se refiere la fracción siguiente;
 
-En todo caso la Comisión Consultiva podrá ser convocada en cualquier tiempo por cuando menos una tercera parte de sus miembros, por el Presidente del Consejo Directivo, por el Director General, por dos consejeros de la Serie "B", o por el comisario de la misma Serie.
+III. Rendir anualmente al Consejo Directivo un informe respecto a la veracidad, suficiencia y razonabilidad de la información presentada por el Director General al propio Consejo Directivo debiendo incluir su opinión sobre si las políticas y criterios contables y de información seguidos por la Sociedad, son adecuados y suficientes, de conformidad con lo dispuesto por la Ley de Instituciones de Crédito; si su aplicación es consistente en la información presentada al Consejo Directivo, y si como consecuencia dicha información refleja en forma veraz y suficiente la situación financiera y de resultados de la Sociedad;
 
-La convocatoria para las sesiones de la Comisión Consultiva, deberá contener el orden del día, y será firmado por quien lo haga.
+IV. Hacer que se inserten en el orden del día de las sesiones del Consejo Directivo, los puntos que crean pertinentes;
 
-Cuando la convocatoria sea formulada por el Consejo Directivo, ésta será firmada por el Presidente, o por el Secretario o Prosecretario, según el propio Consejo lo determine.
+V. Asistir con voz, pero sin voto, a todas las sesiones del Consejo Directivo, a las cuales deberán ser convocados;
 
-Para tener derecho de asistir a las sesiones de la Comisión Consultiva y votar, los tenedores depositarán los certificados de aportación patrimonial de la Serie "B" que sean de su propiedad conforme al registro de dichos títulos que llevará la Sociedad, en cualquier Sociedad Nacional de Crédito de la República Mexicana, debiendo exhibir la constancia de dicho depósito en el momento de la reunión. Tratándose de certificados depositados en instituciones para el Depósito de Valores, su titularidad se acreditará con las constancias y lisiados complementarios que al respecto regula la Ley del Mercado de Valores.
+VI. Vigilar en cualquier tiempo las operaciones de la Sociedad, y
 
-Los tenedores de los certificados de la Serie "B", podrán hacerse representar en las sesiones de la Comisión Consultiva por representantes facultadas en poder notarial o en carta poder certificada. No podrán ser mandatarios los miembros del Consejo Directivo, el Director General y los comisarios de la Sociedad.
+VII. En el caso del comisario público, adicionalmente, ejercerá las atribuciones que señala el artículo 30 del Reglamento de la Ley Federal de las Entidades Paraestatales.
 
-Las reuniones de la Comisión serán dirigidas por un Presidente de Debates que será designado por los asistentes a las mismas.
+Tratándose de las fracciones II y VI de este artículo, los comisarios nombrados por la Secretaría de la Función Pública deberán observar en todo momento las limitaciones establecidas en el artículo 44 Bis 1 de la Ley de Instituciones de Crédito para dicha Secretaría.
 
-El Presidente de Debates, designará a uno o dos escrutadores, según lo estime conveniente quienes harán el recuento de los certificados representados e informarán sobre ello a la reunión.
+Los comisarios referidos el párrafo anterior vigilarán que la Sociedad conduzca sus actividades conforme al programa sectorial correspondiente y al programa institucional respectivo.
 
-Para que la Comisión sesione válidamente se deberá contar con la representación de la mayoría de los certificados de aportación patrimonial de la Serie "B", suscritos y pagados, cuyos titulares sean distintos al Gobierno Federal, tomándose por mayoría de votos las resoluciones, considerando un voto por cada certificado. Si no se reúne el número de certificados señalados, se hará una segunda y última convocatoria.
+La actuación de los comisarios se sujetará en todo tiempo a lo previsto por el artículo 142 de la Ley de Instituciones de Crédito.
 
-Cuando la reunión se realice en virtud de la segunda convocatoria, podrá sesionar con los tenedores que concurran y sus acuerdos serán válidos, siempre que se adopten por mayoría de votos presentes. Al hacer la segunda convocatoria, se expresará esta circunstancia y el orden del día será igual al de la primera.
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
-Lo tratado y resuelto por la Comisión Consultiva se asentará en actas que se extenderán en un libro autorizado por la Comisión Nacional Bancaria y serán firmadas por quien presida la sesión y por el Secretario que designe la reunión.
+###### ARTÍCULO 27.
 
-Las copias certificadas que de las actas se expidan, llevarán la firma de quien la presidió y del Secretario.
+Los comisarios durarán en su cargo hasta en tanto no sea revocado el nombramiento correspondiente o se haya realizado una nueva designación.
 
-Las resoluciones legalmente adoptadas por la Comisión Consultiva, se entenderán aceptadas por los ausentes y disidentes.
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
-###### ARTICULO 30.
+### CAPÍTULO CUARTO. Del Ejercicio Social y la Distribución de Utilidades
 
-El ejercicio social comprenderá un año natural contado del 1o. de enero al 31 de diciembre de cada año.
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
-### CAPITULO QUINTO. Del Ejercicio Social y la Distribución de Utilidades
+###### ARTÍCULO 28.
 
-###### ARTICULO 31.
+El ejercicio social de la Sociedad correrá del primero de enero al treinta y uno de diciembre de cada año.
 
-Con la autorización expresa de la Secretaría de Hacienda y Crédito Público, la Sociedad deberá constituir las reservas y fondos necesarios para el adecuado cumplimiento de su objeto. En los términos del artículo 34 de su Ley Orgánica, al menos se constituirán las siguientes reservas:
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
-I.- Por lo menos un 10% para constituir el Fondo de Reserva Legal, hasta que dicha reserva alcance un importe por lo menos igual al capital social pagado;
+###### ARTÍCULO 29.
 
-II.- Hasta un 20% de los pasivos a cargo de la Institución en moneda extranjera, y
+Con la autorización expresa de la Secretaría, la Sociedad deberá constituir las reservas y fondos necesarios para el adecuado cumplimiento de su objeto. En los términos del artículo 34 de su Ley Orgánica, al menos se constituirán las siguientes reservas:
 
-III.- La cantidad que determine la Secretaría de Hacienda y Crédito Público para constituir e incrementar otras reservas.
+I. Por lo menos un 10% para constituir el fondo de reserva legal, hasta que dicha reserva alcance un importe por lo menos igual al capital social pagado;
 
-Fijado el monto del remanente de operación y separada la cantidad que corresponda pagar por el impuesto respectivo y por la participación de los Trabajadores en las utilidades de la Sociedad el saldo se aplicará de la siguiente manera:
+II. Hasta un 20% de los pasivos a cargo de la Institución en moneda extranjera, y
 
-A).- Del remanente se tomará la cantidad que el Consejo Directivo acuerde destinarse a ser distribuida como utilidades entre los tenedores de certificados de aportación patrimonial a prorrata, y
+III. La cantidad que determine la Secretaría para constituir e incrementar otras reservas.
 
-B).- El saldo, si lo hubiere, se aplicará en la forma que acuerde el Consejo Directivo.
+Fijado el monto del remanente de operación y separada la cantidad que corresponda pagar por el impuesto respectivo y por la participación de los trabajadores en las utilidades de la Sociedad, el saldo se aplicará de la siguiente manera:
 
-###### ARTICULO 32.
+a) Del remanente se tomará la cantidad que el Consejo Directivo acuerde destinarse a ser distribuida como utilidades entre los tenedores de certificados de aportación patrimonial a prorrata, y
+
+b) El saldo, si lo hubiere, se aplicará en la forma que acuerde el Consejo Directivo.
+
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+
+###### ARTÍCULO 30.
 
 El Consejo Directivo acordará la fecha en la cual los tenedores de los certificados de aportación patrimonial podrán cobrar las utilidades que les correspondan y mandará anunciar oportunamente la fecha y las utilidades acordadas, mediante publicación en un periódico de amplia circulación en la República Mexicana.
 
-Si algún tenedor de certificados de aportación patrimonial no cobra las utilidades que le correspondan en el término de cinco años contados o partir de la fecha designada por el Consejo Directivo, se considerará prescrito su derecho y las utilidades pasarán a favor de la Sociedad.
+Si algún tenedor de certificados de aportación patrimonial no cobra las utilidades que le correspondan en el término de cinco años contados a partir de la fecha designada por el Consejo Directivo, se considerará prescrito su derecho y las utilidades pasarán a favor de la Sociedad.
+
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+
+### CAPÍTULO QUINTO. Disposiciones Generales
+
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+
+###### ARTÍCULO 31.
+
+Los documentos en que consten los actos realizados en ejercicio de las atribuciones que confiere el presente Reglamento, deberán contener la firma autógrafa o firma electrónica avanzada, así como el nombre y puesto del servidor público de la Sociedad que lo suscriba.
+
+Los servidores públicos de la Sociedad asumen con su firma, la responsabilidad de que los términos y condiciones de los actos contenidos en los documentos que suscriban, están validados conforme a las funciones que correspondan al cargo que desempeñen dentro de la Sociedad.
+
+> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+
+###### ARTÍCULO 32.
+
+De conformidad con lo dispuesto por el artículo 23, fracción I de la Ley Orgánica, el Director General tendrá la representación legal de la Sociedad para intervenir en los procedimientos judiciales, administrativos o laborales en los que la Sociedad sea parte o pueda resultar afectada. Dicho servidor público podrá designar apoderados para llevar a cabo la tramitación de los referidos procedimientos.
+
+El Director General Adjunto Jurídico y Fiduciario y el Director Jurídico Contencioso y de Crédito, indistintamente, representarán al Director General de la Sociedad, directores generales adjuntos, coordinadores y directores de área, para intervenir en los juicios de amparo en los que éstos figuren como autoridad responsable, para efectos del artículo 9 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+
+###### ARTÍCULO 33.
+
+En las ausencias del Director General de la Sociedad, éste será suplido por el Director General Adjunto Jurídico y Fiduciario o el Director General Adjunto de Administración y Finanzas, en el orden indicado.
+
+Los directores generales adjuntos y coordinadores serán suplidos en sus ausencias por los directores de área que de ellos dependan, en los asuntos de su respectiva competencia, o bien que al efecto designen, mientras que los directores de área serán suplidos en sus ausencias, por los subdirectores que les estén adscritos, en los asuntos de su respectiva competencia, o bien que al efecto designen.
+
+Las facultades que hayan sido delegadas al Director General de la Sociedad o a algún director general adjunto podrán ejercerse, en sus ausencias, en los términos antes señalados.
+
+> <small>(ADICIONADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+
+###### ARTÍCULO 34.
+
+Cuando por cualquier motivo las direcciones generales adjuntas o las coordinaciones quedaran vacantes, el Director General de la Sociedad podrá designar a un encargado del despacho, de entre los servidores públicos adscritos a la unidad administrativa de que se trate. La designación como encargado del despacho no implica modificación alguna de las condiciones salariales, laborales y administrativas de quien ejerza de esta forma dicho encargo.
+
+> <small>(ADICIONADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
+
+###### ARTÍCULO 35.
+
+Los directores generales adjuntos, coordinadores y directores de área están facultados para expedir certificaciones de constancias de documentos relativos a los asuntos de su competencia.
 
 ## TRANSITORIOS
 
@@ -403,7 +533,7 @@ Cuando el Gobierno Federal sea titular de la totalidad de certificados de aporta
 
 El presente Reglamento Orgánico se expide en la Ciudad de México, Distrito Federal, a los 26 días del mes de marzo de 1991.- El Secretario de Hacienda y Crédito Público, Pedro Aspe.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 5 DE JUNIO DE 2009.
 
@@ -412,3 +542,13 @@ PRIMERO.- El presente Acuerdo entra en vigor el día siguiente de su publicació
 SEGUNDO.- El capital pagado de la sociedad a la vigencia del presente Acuerdo ascenderá a la suma de $1,199'237,300.00 (un mil ciento noventa y nueve millones doscientos treinta y siete mil trescientos pesos 00/100 M.N.), el cual estará distribuido en 791'496,600.00 (setecientos noventa y un millones cuatrocientos noventa y seis mil seiscientos pesos 00/100 M.N.), representado por 15´829,932 (quince millones ochocientos veintinueve mil novecientos treinta y dos) certificados de aportación patrimonial de la serie "A" con un valor nominal de $50.00 (cincuenta pesos 00/100 M.N.) cada uno, y 407´740,700.00 (cuatrocientos siete millones setecientos cuarenta mil setecientos pesos 00/100 M.N.), representado por 8´154,814 (ocho millones ciento cincuenta y cuatro mil ochocientos catorce) certificados de aportación patrimonial de la serie "B" con valor nominal de $50.00 (cincuenta pesos 00/100 M.N.) cada uno.
 
 TERCERO.- De conformidad con lo establecido por el último párrafo del artículo 30 de la Ley de Instituciones de Crédito, Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, deberá inscribir en el Registro Público de Comercio, las modificaciones que por virtud del presente Acuerdo, se realicen a su Reglamento Orgánico.
+
+D.O.F. 25 DE AGOSTO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo, entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en términos de las disposiciones legales aplicables, procederá a realizar los actos necesarios para dar cumplimiento al presente Acuerdo.
