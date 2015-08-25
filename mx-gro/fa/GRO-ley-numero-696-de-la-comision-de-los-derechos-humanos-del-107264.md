@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-696-de-la-comision-de-los-derechos-humanos-del-10726
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-20"
-last_updated: "2015-03-20"
+last_updated: "2015-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 696 DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 20 de marzo de 2015.
 
@@ -215,7 +215,7 @@ II. Cuando haya riesgo de anular u obstruir el ejercicio de las facultades que e
 
 III. Actos y resoluciones de organismos y autoridades electorales;
 
-IV. Actos y resoluciones de carácter laboral;
+IV. (DEROGADA, P.O. 25 DE AGOSTO DE 2015)
 
 V. Consultas formuladas por autoridades, particulares u otras entidades sobre interpretación de disposiciones constitucionales y de otros ordenamientos jurídicos; y
 
@@ -1015,17 +1015,11 @@ En contra de las resoluciones definitivas o de los informes definitivos de las a
 
 #### SECCIÓN PRIMERA. DE SU DEFINICIÓN Y LEGITIMACIÓN
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
 ###### ARTÍCULO 104.
 
-Para los efectos de esta ley, se considerarán personas desaparecidas forzadamente, respecto de las cuales conocerá y actuará la Comisión, aquéllas en las que se reúna lo siguiente:
-
-I. Que se trate de una persona plenamente identificada y se demuestre que existió momentos previos a su desaparición;
-
-II. Que la persona de que se trate, hubiere tenido su domicilio, aún de manera temporal, en el estado de Guerrero;
-
-III. Que la desaparición forzada se le atribuya a una autoridad o servidor público estatal o municipal; no siendo atribuible a un hecho natural;
-
-IV. Que la autoridad o servidor público se niegue a informar o reconocer la privación de la libertad o paradero de la persona desaparecida forzadamente.
+Para los efectos de esta ley, se considera desaparición forzada, lo previsto en el artículo II de la Convención Interamericana sobre Desaparición Forzada.
 
 ###### ARTÍCULO 105.
 
@@ -1252,3 +1246,15 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 DR. DAVID CIENFUEGOS SALGADO.
 
 Rúbrica.
+
+P.O. 25 DE AGOSTO DE 2015.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 849 POR EL QUE SE REFORMAN LOS ARTÍCULOS 17, FRACCIÓN IV Y 104 DE LA LEY NÚMERO 696 DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE GUERRERO".]
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas a los artículos 17, fracción IV y 104 de la Ley Numero 696 de la Comisión de los Derechos Humanos del Estado de Guerrero entrarán en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTICULO SEGUNDO.
+
+Comuníquese el presente Decreto al titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales conducentes.
