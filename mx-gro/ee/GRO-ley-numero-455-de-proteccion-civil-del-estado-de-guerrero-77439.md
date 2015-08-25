@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-455-de-proteccion-civil-del-estado-de-guerrero-77439
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-19"
-last_updated: "2010-11-19"
+last_updated: "2015-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY NUMERO 455 DE PROTECCION CIVIL DEL ESTADO DE GUERRERO
 
-LEY NUMERO 455 DE PROTECCION CIVIL DEL ESTADO DE GUERRERO
+LEY NÚMERO 455 DE PROTECCIÓN CIVIL DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 19 de noviembre de 2010.
 
@@ -1525,15 +1525,25 @@ No se considerará comprendida en la prohibición señalada, la petición de inf
 
 Se podrá imponer sanciones ante la resistencia de autoridades o particulares, a permitir la práctica de las inspecciones previstas en esta Ley, así como por el incumplimiento a las medidas de seguridad que decrete.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2015)</small>
+
 ###### ARTÍCULO 123.
 
-Para los efectos de esta Ley serán responsables:
+Para los efectos de esta Ley serán probables indiciados como autores de partícipes:
 
 l. Los propietarios, poseedores, administradores, representantes, organizadores y demás encargados, involucrados en las violaciones a esta Ley;
 
-II. Quienes ejecuten, ordenen o favorezcan las acciones u omisiones constitutivas de una infracción; y
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2015)</small>
 
-III. Los servidores públicos que intervengan o faciliten la comisión de una infracción o teniendo conocimiento no den aviso a la autoridad de protección civil de un riesgo inminente.
+II. Quienes ejecuten, ordenen o favorezcan las acciones y omisiones constitutivas de una infracción;
+
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2015)</small>
+
+III. Los servidores públicos que intervengan o faciliten la comisión de una infracción o teniendo conocimiento no den aviso a la autoridad de protección civil de un riesgo inminente; y
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2015)</small>
+
+IV. Los servidores públicos Estatales o Municipales, así como aquellas personas físicas o morales representados por sus titulares, que por acción u omisión y conociendo de la preexistencia de riesgo, riesgo inminente incumplan, permitan, otorguen, autoricen, expidan permisos, licencias o concesiones de uso o cambio de suelo, en causes, barrancas, laderas inestables, fallas geológicas, zonas vulnerables, áreas altamente deforestadas, lugares inundables o en humedales e incluso en zonas de alto riesgo para construir, edificar, realizar obras de infraestructura o de asentamientos humanos, que expongan a la población a condiciones de encadenamiento de desastres y aquellos que por su naturaleza impliquen impactos sobre el cambio climático.
 
 ###### ARTÍCULO 124.
 
@@ -1555,7 +1565,7 @@ Las sanciones que podrán aplicarse consistirán en:
 
 l. Amonestación, se amonestará al propietario, responsable, encargado u ocupante del establecimiento, para que se apliquen las recomendaciones de las autoridades de protección civil, a fin de que se evite o extinga el riesgo.
 
-II. Clausura temporal o definitiva, total o parcial de los establecimientos, y (sic)
+II. Clausura temporal o definitiva, total o parcial de los establecimientos, y
 
 III. Multa equivalente al monto de veinte a mil días de salario mínimo general vigente en la zona donde se cometió la infracción.
 
@@ -1896,3 +1906,15 @@ EL SECRETARIO DE SEGURIDAD PÚBLICA Y PROTECCIÓN CIVIL.
 GRAL. JUAN H. SALINAS ÁLTES.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE AGOSTO DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 852 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 455 DE PROTECCIÓN CIVIL DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Comuníquese el presente Decreto al titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero.
