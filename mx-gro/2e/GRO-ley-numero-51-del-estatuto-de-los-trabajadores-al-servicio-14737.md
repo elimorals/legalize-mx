@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-51-del-estatuto-de-los-trabajadores-al-servicio-1473
 country: "mx"
 rank: "ley"
 publication_date: "1976-04-21"
-last_updated: "2011-04-05"
+last_updated: "2015-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "GRO"
 
 LEY NUMERO 51: ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO
 
-> <small>N. DE E. LA PRESENTE LEY FUE DEROGADA PARCIALMENTE POR LO QUE HACE A LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION PUBLICA CENTRALIZADA Y PARAESTATAL, DEL PODER LEGISLATIVO Y DEL PODER JUDICIAL, SUBSISTIENDO CON PLENA VIGENCIA ENTRATANDOSE DE SERVIDORES PUBLICOS MUNICIPALES, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUERRERO NUMERO 248 PUBLICADA EN EL PERIODICO OFICIAL EL 6 DE ENERO DE 1989.</small>
+> <small>[N. DE E. LA PRESENTE LEY FUE DEROGADA PARCIALMENTE POR LO QUE HACE A LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA Y PARAESTATAL, DEL PODER LEGISLATIVO Y DEL PODER JUDICIAL, SUBSISTIENDO CON PLENA VIGENCIA ENTRATÁNDOSE DE SERVIDORES PÚBLICOS MUNICIPALES, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO NÚMERO 248 PUBLICADA EN EL PERIODICO OFICIAL EL 6 DE ENERO DE 1989.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 21 de abril de 1976.
 
@@ -209,6 +209,10 @@ La jornada mixta comprende períodos de tiempo de las jornadas diurnas y nocturn
 
 Cuando por circunstancias especiales deben aumentarse las horas de jornada máxima, este trabajo será considerado como extraordinario y nunca podrá exceder de hora y media diaria ni de 5 días consecutivos.
 
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
+Para los efectos del párrafo anterior, se requerirá autorización por escrito del titular de la dependencia u organismo municipal o, en su caso, del titular, director o encargado del control y administración del personal del ayuntamiento, dependencia u organismo municipal, en el que se especifique los días de la semana y horas máximas a trabajar.
+
 ###### ARTICULO 22.
 
 Por cada 5 días de trabajo disfrutará el trabajador de dos días de descanso con goce de salario íntegro.
@@ -235,9 +239,11 @@ DE LOS SALARIOS.
 
 Salario es la retribución que debe pagarse al trabajador a cambio de los servicios prestados.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 27.
 
-El salario será uniforme para cada una de las categorías de los trabajadores de base fijadas en los respectivos presupuestos de egresos. Cualquier modificación que pretenda hacerse al salario fijado se llevará a cabo pubiéndose (sic) oír los puntos de vista del sindicato para el efecto de que opinen en caso de supresión de partidas que afecten a sus representados, qué grupo o grupos de trabajadores deben sufrir el reajuste, haciéndose al efecto los cambios y nombramientos que fueren necesarios.
+El salario será uniforme para cada una de las categorías de los trabajadores a los que se refiere el artículo 4o de esta Ley, los cuales serán aprobados por el Cabildo y fijados en el presupuesto de egresos del ejercicio fiscal que corresponda, cualquier modificación que pretenda hacerse al salario aprobado y fijado se llevará a cabo pudiendo oír los puntos de vista del sindicato para el efecto de que opinen en caso de supresión de partidas presupuestales que afecten a sus representados, qué grupo o grupos de trabajadores deben sufrir el reajuste, haciéndose al efecto los cambios y nombramientos que fueren necesarios.
 
 ###### ARTICULO 28.
 
@@ -382,6 +388,38 @@ h).- Por falta comprobada de cumplimiento al servicio o por prisión que sea el 
 i).- Por faltar más de tres días consecutivos a sus labores sin causa justificada.
 
 En los casos a que se refiere esta fracción, el trabajador responsable será separado de su empleo, pudiendo, sin embargo, ocurrir dentro de los tres días siguientes al de su separación, ante el Tribunal de Arbitraje, que resolverá en definitiva.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
+ARTICULO 36 bis.- El trabajador podrá solicitar ante el tribunal, a su elección, que se le reinstale en el trabajo que desempeñaba o que se le indemnice con el importe de tres meses de salario, a razón del que corresponda a la fecha en que se realice el pago.
+
+Si en el juicio correspondiente no comprueba la entidad pública la causa del cese, el servidor público tendrá derecho, además, cualquiera que hubiese sido la acción intentada, a que se le paguen los salarios vencidos computados desde la fecha del cese hasta por un período máximo de doce meses.
+
+Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha dado cumplimiento al laudo, se pagarán también al servidor público los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones.
+
+En caso de muerte del servidor público, dejarán de computarse los salarios vencidos como parte del conflicto, a partir de la fecha del fallecimiento.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
+ARTICULO 36 bis 1.- La entidad pública quedará eximida de la obligación de reinstalar al trabajador, mediante el pago de las indemnizaciones que se determinan en el artículo 36 bis 2, en los casos siguientes:
+
+I. Cuando se trate de trabajadores que tengan una antigüedad menor de un año;
+
+II. Si comprueba que no es posible el desarrollo normal de la relación de trabajo, por razón del cargo que desempeña el trabajador o por las características de sus labores;
+
+III. En los casos de trabajadores de confianza; y
+
+IV. Cuando se trate de trabajadores eventuales.
+
+> <small>(ADICIONADO P.O. 25 DE AGOSTO DE 2015)</small>
+
+ARTICULO 36 bis 2.- Las indemnizaciones a que se refiere el artículo anterior consistirán:
+
+I. Si la relación de trabajo fuere por tiempo determinado menor de un año, en una cantidad igual al importe de los salarios de la mitad del tiempo de servicios prestados; si excediera de un año, en una cantidad igual al importe de los salarios de tres meses por el primer año y de quince días por cada uno de los años siguientes en que hubiese prestado sus servicios;
+
+II. Si la relación de trabajo fuere por tiempo indeterminado, la indemnización consistirá en veinte días de salario por cada uno de los años de servicios prestados; y
+
+III. Además de las indemnizaciones a que se refieren las fracciones anteriores, en el importe de tres meses de salario y el pago de los salarios vencidos e intereses, en su caso, en los términos previstos en el artículo 36 bis de esta Ley.
 
 T I T U L O III.
 
@@ -713,9 +751,19 @@ C A P I T U L O III.
 
 DEL PROCEDIMIENTO ANTE EL TRIBUNAL DE ARBITRAJE.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 81.
 
-El procedimiento para resolver todas las controversias que se someten al Tribunal se reducirá a la presentación de la demanda respectiva que deberá hacerse por escrito o verbalmente por medio de comparecencia. A la respuesta que se dé en cualquiera de las dos formas citadas y a una sola audiencia en la que se presentarán las pruebas y alegatos de las partes y se pronunciará resolución, salvo cuando a juicio del propio Tribunal se requiera la práctica de diligencias posteriores en cuyo caso se ordenará que se lleven a cabo, y una vez efectuadas se dictará la resolución correspondiente.
+El procedimiento para resolver todas las controversias que se sometan al Tribunal se reducirá a la presentación de la demanda respectiva que deberá hacerse por escrito o verbalmente por medio de comparecencia. El Tribunal está facultado y obligado a adoptar todas las medidas necesarias para el efecto de resolver los juicios en un término máximo de doce meses a partir de la presentación de la demanda.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
+ARTICULO 81 bis. Cualquiera de las partes en el procedimiento que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de pruebas, recursos y, en general, toda actuación en forma notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la sustanciación o resolución de un juicio laboral, el Tribunal de Arbitraje le impondrá una multa de 10 a 50 veces el salario mínimo general vigente en la capital del Estado.
+
+El importe de las multas a las que hace referencia esta Ley, que se hagan efectivas por mandato del Tribunal, se integrará a un Fondo que tendrá por objeto allegarse recursos económicos para aplicarlos al mejoramiento de sus instalaciones, de su equipo de trabajo y la realización de toda clase de actividades que tengan como finalidad eficientar la impartición de la justicia laboral.
+
+Las sanciones pecuniarias que se impongan las entidades o tribunales jurisdiccionales del ámbito federal o estatal, con motivo de conductas irregulares del personal del Tribunal, serán cubiertas directamente por los servidores públicos que hayan ejecutado los actos o incurrido en las omisiones origen de la sanción.
 
 ###### ARTICULO 82.
 
@@ -793,9 +841,11 @@ T I T U L O VI.
 
 DE LOS MEDIOS DE APREMIO Y DE LA EJECUCION DE LOS LAUDOS.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 95.
 
-El tribunal, para hacer cumplir sus determinaciones, podrá imponer multas hasta por mil pesos.
+El Tribunal para hacer cumplir sus determinaciones, podrá imponer multas de 200 a 500 días de salarios mínimo vigente en la capital del Estado de Guerrero.
 
 ###### ARTICULO 96.
 
@@ -896,3 +946,13 @@ El presente Decreto entrará en vigor al siguiente día·de su publicación.
 ###### ARTÍCULO SEGUNDO.
 
 Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales conducentes y para su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 25 DE AGOSTO DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 851 POR EL QUE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 51, ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PÚBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Comuníquese el presente Decreto al titular del Poder Ejecutivo Estatal, para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general.
