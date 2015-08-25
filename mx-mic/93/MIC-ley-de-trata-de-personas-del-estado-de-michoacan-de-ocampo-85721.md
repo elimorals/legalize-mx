@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-trata-de-personas-del-estado-de-michoacan-de-ocampo-8572
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-01"
-last_updated: "2012-02-01"
+last_updated: "2015-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE TRATA DE PERSONAS DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY PARA PREVENIR, ATENDER Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA DE LAS VÍCTIMAS EN EL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 25 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2015 (ABROGADA).
 
 Ley publicada en la Décima Segunda Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 1° de febrero de 2012.
 
@@ -290,3 +292,17 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 20 veintinte (sic) días del mes de Diciembre del año 2011 dos mil once.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- RAFAEL MELGOZA RADILLO. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. DE 25 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se abroga la Ley de Trata de Personas del Estado de Michoacán de Ocampo publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo el primero de febrero del año dos mil doce, Decreto 422.
+
+TERCERO. La Comisión contará con un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto para elaborar y someter a consideración del Consejo Estatal el Programa, mismo que deberá ser aprobado dentro de los treinta días siguientes.
+
+CUARTO. El Ejecutivo del Estado contará con ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto para publicar su Reglamento.
+
+QUINTO. El Gobierno del Estado, proveerá para cada Municipio, los recursos necesarios para el cumplimiento de las responsabilidades que señala esta ley.
