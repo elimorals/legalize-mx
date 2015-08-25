@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-pensiones-civiles-para-el-estado-de-michoacan-22008"
 country: "mx"
 rank: "ley"
 publication_date: "1980-05-08"
-last_updated: "2007-11-21"
+last_updated: "2015-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE PENSIONES CIVILES PARA EL ESTADO DE MICHOACAN
 
-LEY DE PENSIONES CIVILES PARA EL ESTADO DE MICHOACAN
+LEY DE PENSIONES CIVILES PARA EL ESTADO DE MICHOACÁN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 8 de mayo de 1980.
 
@@ -63,13 +63,19 @@ III.- Por familiar derecho-habiente, aquél a quienes esta Ley le conceda tal ca
 
 Quedan excluidos de este Ordenamiento, las personas que presten sus servicios al Gobierno de la Entidad, organismos descentralizados y municipios, mediante contrato sujeto a obra o a plazo fijo, a lista de raya, los que desempeñen actividades eventuales o emergentes, y los que perciben sus emolumentos exclusivamente con cargo a la partida de honorarios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 4º.
 
-Los servidores públicos a que se refiere esta Ley y sus familiares tendrán derecho en los casos y con los requisitos que establece ésta, a los siguientes beneficios y prestaciones:
+Los servidores públicos a que se refiere esta ley y sus familiares tendrán derecho en los casos y con los requisitos que establece ésta, a los siguientes beneficios y prestaciones:
 
-a) Préstamos a corto plazo;
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
 
-b) Préstamos hipotecarios;
+a) préstamos a corto plazo en las modalidades que autorice la junta directiva; misma que se sujetará a la presente ley;
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
+b) préstamos con garantía hipotecaria en las modalidades que autorice la junta directiva; misma que se sujetará a la presente ley;
 
 c) Aplicación del fondo especial para cubrir créditos hipotecarios insolutos por muerte del servidor público;
 
@@ -173,6 +179,14 @@ i) Discutir y aprobar el presupuesto de egresos de la Dirección de Pensiones;
 
 j) Realizar toda clase de actos u operaciones autorizados legalmente, que para la mejor administración fueren necesarios.
 
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
+k) Promover las acciones legales que sean necesarias para conservar su patrimonio y obtener los recursos por los que se conforma el fondo de pensiones, ya sean de naturaleza civil, administrativa o penal; y,
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
+l) La dirección de Pensiones Civiles deberá entregar un informe anual al Congreso del Estado sobre el estado que guarda (sic) los recursos humanos, financieros y materiales con los que se cuenta.
+
 ###### ARTICULO 13.
 
 Los acuerdos que dicte la Junta Directiva serán cumplimentados por un Director, designado y removido libremente por el Gobernador del Estado, durará en su encargo tres años, pudiendo ser reelecto o revocado su nombramiento por causa justificada.
@@ -219,13 +233,19 @@ n) Convocar a sesión ordinaria de la Junta y extraordinaria, cuando a su juicio
 
 o) Realizar todos aquellos actos que fueren convenientes para el debido funcionamiento de la Dirección de Pensiones.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 15.
 
-La Oficialía Mayor de Gobierno y las dependencias encargadas del personal de los organismos descentralizados y municipios sujetos a esta Ley, comunicarán a la Dirección de Pensiones los movimientos de altas y bajas de sus servidores públicos, en el término de quince días.
+Las dependencias de cada uno de los poderes en que se divide el ejercicio del gobierno del estado, encargadas de los funcionarios, empleados, trabajadores y maestros a su servicio, así como de los organismos descentralizados y municipios sujetos a esta ley, comunicarán a la dirección de pensiones los movimientos de altas y bajas de su personal, en el término de quince días naturales.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 16.
 
-Los encargados de cubrir sueldos a los servidores públicos comprendidos en este Ordenamiento, están obligados a realizar los descuentos que la Dirección de Pensiones ordene, siendo civilmente responsables en caso de no hacerlo. De igual manera están obligados a enviar a la Dirección las nóminas o recibos en que consten los descuentos, dentro de los quince días siguientes a la fecha en que se hayan efectuado y a ministrar los informes que les sean solicitados.
+Los encargados de cubrir sueldos a los servidores públicos comprendidos en este ordenamiento, están obligados a realizar los descuentos que la dirección de pensiones ordene, siendo civil, administrativa y penalmente responsables en caso de no hacerlo.
+
+De igual manera están obligados a enviar a la dirección de pensiones, las nóminas o recibos en que consten los descuentos, dentro de los quince días naturales siguientes a la fecha en que se hayan efectuado y a ministrar los informes que les sean solicitados.
 
 ###### ARTICULO 17.
 
@@ -247,9 +267,11 @@ En dicha cédula se anotarán los nombres y datos que establezca el Reglamento.
 
 Para que los beneficiarios puedan percibir las prestaciones que les correspondan, deberán cumplir los requisitos que esta Ley establece y los del o los reglamentos que se expidan con apoyo en la misma.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 20.
 
-Las controversias que surjan sobre la aplicación de esta Ley, entre la Dirección de Pensiones, las entidades Públicas y sus servidores, serán resueltas, oyendo a las partes, por el Gobernador del Estado, facultándole para interpretarla administrativamente por medio de disposiciones generales que tendrán validez obligatoria al publicarse en el Periódico Oficial.
+Las controversias que surjan sobre la aplicación de esta ley, entre la Dirección de Pensiones, las entidades públicas y sus servidores, serán resueltas en primer término por la Junta Directiva, oyendo a las partes, quienes dispondrán de los medios de impugnación que la citada ley y otros ordenamientos expresamente señalen.
 
 ### CAPITULO TERCERO. DEL PATRIMONIO
 
@@ -273,21 +295,29 @@ VII.- Los muebles, inmuebles y aportaciones extraordinarias que el Gobierno de l
 
 VIII.- Cualquier otra percepción o ingreso que se obtenga a título legal con lo que resulte beneficiado el fondo de la Dirección.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 22.
 
-Se establece como descuento mínimo obligatorio para los servidores públicos acogidos a los beneficios de la presente Ley, el cinco y medio por ciento de sus sueldos, sin tomar en consideración la edad del obligado.
+Las aportaciones obligatorias que deberán cubrir los servidores públicos a la dirección de pensiones civiles del estado, serán del once por ciento del sueldo base de cotización.
 
-Las aportaciones de las Entidades Públicas serán sobre la base de cantidades iguales al importe de las que les correspondan a los servidores públicos.
+Las aportaciones de las entidades públicas serán del trece por ciento del sueldo base de cotización que les correspondan a los servidores públicos.
+
+Se establece como descuento mínimo obligatorio para los servidores públicos acogidos a los beneficios de la presente ley, el once por ciento de su sueldo base de cotización sin tomar en consideración la edad del obligado; estableciéndose como límite inferior un salario mínimo general que fije la comisión nacional de salarios mínimos para el área geográfica donde se encuentra ubicada la Ciudad de Morelia.
 
 Cuando se requiera, con base en estudios técnicos, el incremento, se hará también en forma proporcional.
 
-Las cantidades a que se refiere este artículo, deberán entregarse e la Dirección de Pensiones en un plazo no mayor de 10 días, a partir de la fecha en que se haya efectuado el descuento.
+Las cantidades a que se refiere este artículo, deberán entregarse a la dirección de pensiones en un plazo no mayor de diez días naturales, a partir de la fecha en que se haya efectuado el descuento. En caso de que no se enteren a la dirección de pensiones dichas aportaciones por el órgano encargado de hacer las retenciones en el plazo y términos establecidos, estarán obligados a cubrir los intereses que se hayan generado, así como será responsable civil y penalmente conforme a las leyes estatales y federales.
 
-El fondo constituído es inembargable.
+No se podrán desviar dichas retenciones para otros fines, más los que señale el presente ordenamiento.
+
+El fondo constituido es inembargable.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 23.
 
-Aquellos servidores públicos que desempeñen dos o más empleos, cubrirán el descuento establecido en el artículo anterior sobre la suma total de sus sueldos.
+Aquellos servidores públicos que desempeñen dos o más empleos, cubrirán el descuento establecido en el artículo anterior por cada uno de sus sueldos.
 
 ###### ARTICULO 24.
 
@@ -355,13 +385,17 @@ V. Los jubilados o pensionados tendrán derecho a préstamos personales a corto 
 
 VI. El monto del préstamo lo constituirá el capital y los intereses correspondientes al plazo señalado para el pago del mismo.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 32.
 
-Los préstamos serán de tal manera que los abonos para reintegrar la cantidad prestada y sus intereses, sumados a los descuentos por préstamos hipotecarios y a los que deban hacerse por cualquier otro adeudo a favor de la Dirección de Pensiones, no exceden del cincuenta por ciento del sueldo del interesado.
+Los préstamos serán de tal manera que los abonos para reintegrar la cantidad prestada y sus intereses, sumados a los descuentos por préstamos hipotecarios y a los que deban hacerse por cualquier otro adeudo a favor de la Dirección de Pensiones, no excedan del cincuenta por ciento del sueldo del interesado, salvo autorización expresa de su parte, comprobando además que cuenta con ingresos adicionales fijos.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 33.
 
-El plazo para devolución no será mayor de dieciocho meses, salvo acuerdo especial de la Junta Directiva, que en casos justificados y por excepción, podrá ampliarla hasta veinticuatro meses.
+El plazo para la devolución o el pago de los préstamos otorgados al trabajador será de un plazo de hasta veinticuatro meses a elección del interesado.
 
 ###### ARTICULO 34.
 
@@ -395,13 +429,13 @@ III.- Redención de gravámenes que soporten los inmuebles a que se refiere este
 
 IV.- Adquisición de terreno en el que deberá construirse la habitación del servidor público, cuando carezca de ésta en propiedad.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 39.
 
-El otorgamiento de préstamos hipotecarios en los términos de esta Ley, lo autorizará la Junta previo análisis y se efectuará de conformidad con el programa-presupuesto anual de la Dirección, atendiendo a su disponibilidad de recursos y dando preferencia a los créditos de menor cuantía.
+El otorgamiento de préstamos hipotecarios en los términos de esta ley, lo autorizará la Junta Directiva previo análisis y se efectuará de conformidad con el programa (sic) presupuesto anual de la Dirección, atendiendo a su disponibilidad de recursos.
 
-El Monto de los préstamos hipotecarios no podrá exceder del importe equivalente a 1000 días de salario mínimo general para la capital del Estado.
+El monto de los préstamos hipotecarios no podrá exceder del importe que fije la Junta Directiva y será revisado cuando así lo considere necesario.
 
 ###### ARTICULO 40.
 
@@ -409,11 +443,11 @@ La Dirección formulará tablas para determinar las cantidades máximas que pued
 
 En los casos en que el servidor público justifique tener otros ingresos permanentes que puedan computarse para la amortización del préstamo, éste podrá sobrepasar el máximo fijado para su sueldo en forma proporcional, pero en ningún caso rebasará el importe de aquél.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 41.
 
-Los préstamos hipotecarios se cubrirán mediante amortizaciones quincenales que incluirán capital e intereses y el plazo para la redención total del crédito no será mayor de diez años. A solicitud del interesado la Junta podrá conceder prórroga del plazo hasta quince años.
+Los préstamos hipotecarios se cubrirán mediante amortizaciones quincenales que incluirán capital, intereses, seguro hipotecario y el plazo, para la redención total del crédito podrá ser hasta por quince años a elección del trabajador.
 
 ###### ARTICULO 42.
 
@@ -429,19 +463,35 @@ Los préstamos hipotecarios que se hagan a servidores públicos causarán un int
 
 Este tipo de interés se incrementará automáticamente en un cincuenta por ciento, cuando el servidor público se separe voluntariamente de su empleo, si esto ocurre en la primera mitad del plazo al que haya sido pactado el crédito.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 44.
 
-La Dirección constituirá un fondo especial que tendrá por objeto liquidar los créditos por préstamo hipotecarios o derivados de los contratos a que se refiere el artículo 31 de esta Ley, que quedaren insolutos al fallecer el servidor público a quien se hubiere otorgado.
+La Dirección constituirá un fondo especial con el seguro hipotecario, que tendrá por objeto liquidar los créditos por préstamo (sic) hipotecarios o derivados de los contratos a que se refieren los artículos 31 y 37 de esta ley, que quedaren insolutos al fallecer el servidor público a quien se hubiere otorgado.
 
 A la muerte del deudor, la Dirección cancelará a favor de los beneficiarios de aquél y con cargo a dicho fondo, el saldo insoluto.
 
 La Junta Directiva reglamentará la forma de constituir el fondo y los términos en que los interesados deberán contribuir al mismo.
 
+En ningún caso habrá lugar a la devolución de las aportaciones que los acreditados hagan para constituir el fondo a que se refiere este precepto. Se informará de manera anual el destino de este fondo en los informes financieros contables.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
+###### ARTICULO 44 Bis.
+
+La Dirección constituirá un fondo especial que tendrá por objeto liquidar los créditos por préstamo (sic) hipotecarios otorgados a jubilados y pensionados, derivados de los contratos a que se refieren los artículos 31 y 37 de esta ley, que quedaren insolutos al fallecer el jubilado o pensionado a quien se hubiere otorgado.
+
+A la muerte del deudor, la dirección cancelará a favor de los beneficiarios de aquél y con cargo a dicho fondo, el saldo insoluto.
+
+La Junta Directiva reglamentará la forma de constituir el fondo y los términos en que los interesados deberán contribuir al mismo.
+
 En ningún caso habrá lugar a la devolución de las aportaciones que los acreditados hagan para constituir el fondo a que se refiere este precepto.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 45.
 
-Si por baja u otras causas graves a juicio de la Dirección el servidor público no pudiere cubrir los abonos provenientes del préstamo hipotecario, o del contrato de venta con garantía hipotecaria, o con reserva de dominio o de promesa de venta, podrá concedérsele, previa solicitud, un plazo de espera de seis meses, al término del cual deberá reanudar sus pagos; el adeudo del lapso de espera lo pagará en el plazo y condiciones que señale la Junta Directiva.
+Si por baja u otras causas graves a juicio de la Dirección el servidor público no pudiere cubrir los abonos provenientes del préstamo hipotecario, de corto plazo o del contrato de venta con garantía hipotecaria, o con reserva de dominio o de promesa de venta, podrá concedérsele, previa solicitud por escrito a la Dirección de Pensiones, un plazo de espera de seis meses, al término del cual deberá reanudar sus pagos; el adeudo del lapso de espera lo pagará en el plazo y condiciones que señale la Junta Directiva.
 
 ### CAPITULO SEXTO. CASA HABITACION PARA SERVIDORES PUBLICOS
 
@@ -479,9 +529,11 @@ Las casas serán inembargables en tanto se conserven dentro del patrimonio del b
 
 El arrendamiento de casas de la Dirección de servidores públicos se regirá por el Código Civil y las normas generales que sobre esta materia dicte la Junta Directiva.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 49.
 
-Tienen preferencia las operaciones a que refieren los artículos 31 y 37. La Junta Directiva podrá autorizar la inversión de los fondos excedentes en la construcción de inmuebles, adquisición de casas, terrenos, cédulas hipotecarias o bonos financieros para incrementar su patrimonio y, sólo mediante decreto del H. Congreso del Estado podrá efectuar cualquier otro tipo de inversión que esté debidamente garantizada.
+Tienen preferencia las operaciones a que refieren los artículos 31 y 37. La Junta Directiva podrá autorizar la inversión de los fondos excedentes en la construcción de inmuebles, adquisición de casas, terrenos, portafolios de inversión o bonos financieros para incrementar su patrimonio siempre y cuando no ponga en riesgo el capital de inversión, y sólo a petición de manera unánime de la Junta Directiva, el H. Congreso del Estado mediante Decreto podrá autorizar cualquier otro tipo de inversión que esté debidamente garantizada.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1983)</small>
 
@@ -507,73 +559,81 @@ Esta franquicia quedará insubsistente si los inmuebles fueren enajenados por lo
 
 El derecho a jubilación se adquiere cuando el servidor público se encuentra dentro de los supuestos consignados en esta Ley y satisfaga los requisitos que la misma establece.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE ENERO DE 1983)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 54.
 
-Tienen derecho a la jubilación los servidores públicos que tengan 30 años o más de servicio e igual tiempo de contribuir al fondo en los términos de esta ley, cualquiera que sea su edad y dejen de laborar.
+Tienen derecho a la jubilación los servidores públicos que tengan treinta años o más de servicio e igual tiempo de contribuir al fondo en los términos de esta ley, cualquiera que sea su edad y dejen de laborar.
 
-La jubilación dará derecho al pago de una cantidad equivalente al cien por ciento del sueldo básico y su percepción comenzará a partir del día siguiente a aquél en que el servidor público hubiese disfrutado del mismo, por haber causado baja.
+La jubilación dará derecho al pago de una cantidad equivalente al salario regulador del servidor público por promedio del salario base de cotización de los últimos tres años, con un máximo de hasta los veinte salarios mínimos generales vigentes para el área geográfica donde se encuentra ubicada la Ciudad de Morelia y su percepción comenzará a partir del día siguiente a aquél en que el servidor público hubiese disfrutado del mismo, por haber causado baja.
 
-En el otorgamiento de jubilaciones y pensiones se preferirá a los servidores públicos de más antigüedad, y en caso de igualdad en el servicio, al de mayor edad.
+En el otorgamiento de jubilaciones y pensiones, se atenderá lo dispuesto en el reglamento que para tal efecto expida la Junta Directiva de la Dirección de Pensiones, para calcular el monto de las jubilaciones y pensiones se considerará el salario con el cual se cotiza a la Dirección de Pensiones.
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1983)</small>
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
 
-ARTICULO 54 BIS.- La jubilación será forzosa cuando los servidores públicos tengan 30 años o mas de contribuir al fondo de pensiones y 60 años o más de edad, pudiendo continuar en el trabajo cuando así convenga al servicio público, previo acuerdo de la Junta Directiva de Pensiones.
+###### ARTICULO 54 Bis.
+
+La jubilación será forzosa cuando los servidores públicos tengan treinta años o más de contribuir al fondo de pensiones y sesenta años o más de edad, pudiendo continuar en el trabajo cuando así convenga al servicio público, previo acuerdo de las entidades públicas, organismos descentralizados y municipios de la entidad que se acojan a los beneficios de esta ley.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 55.
 
-Tienen derecho a pensión por vejez los servidores públicos que habiendo cumplido sesenta años de edad, tuviesen quince años de servicio como mínimo e igual tiempo de contribución al fondo.
+Tienen derecho a pensión por vejez los servidores públicos que habiendo cumplido sesenta y cinco años de edad, tuviesen quince años de servicio como mínimo e igual tiempo de contribución al fondo.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 56.
 
-Para calcular el monto de las cantidades que correspondan por jubilación o pensión, se tomará en cuenta el sueldo íntegro que perciba el servidor público a la fecha del acuerdo que la conceda. No se considerarán, para este efecto, los viáticos, gratificaciones, compensaciones, gastos de representación, sobresueldos, y otras prestaciones semejantes.
+Para calcular el monto de las cantidades que correspondan por jubilación o pensión, se tomará en cuenta el salario con el cual se cotiza a la Dirección de Pensiones.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 57.
 
-La pensión a que se refiere el artículo 55 será hasta por los porcentajes de sueldos que se especifican a continuación:
+La pensión a que se refiere el artículo 55, será hasta por los porcentajes del sueldo base de cotización que se especifican a continuación:
 
 15 años de servicio 50%
 
-16 " " " 53%
+16 años de servicio 53%
 
-17 " " " 55%
+17 años de servicio 55%
 
-18 " " " 58%
+18 años de servicio 58%
 
-19 " " " 60%
+19 años de servicio 60%
 
-20 " " " 63%
+20 años de servicio 63%
 
-21 " " " 65%
+21 años de servicio 65%
 
-22 " " " 68%
+22 años de servicio 68%
 
-23 " " " 70%
+23 años de servicio 70%
 
-24 " " " 73%
+24 años de servicio 73%
 
-25 " " " 75%
+25 años de servicio 75%
 
-26 " " " 80%
+26 años de servicio 80%
 
-27 " " " 85%
+27 años de servicio 85%
 
-28 " " " 90%
+28 años de servicio 90%
 
-29 " " " 95%
+29 años de servicio 95%
 
 ###### ARTICULO 58.
 
 Toda fracción de más de seis meses de servicio se considerara como año completo, para los efectos del otorgamiento de la pensión.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 59.
 
-Cuando el servidor público se inhabilite física o mentalmente por causa del servicio o a consecuencia de él, y hubiese contribuido al fondo por lo menos durante diez años, la pensión será por el setenta y cinco por ciento del sueldo mayor que venía devengando y sobre el cual se le hubieren hecho los descuentos correspondientes.
+Cuando el servidor público sufra una incapacidad física o mental, temporal o permanente que le impida desempeñar su trabajo, generada por causas del servicio o a consecuencia de él, será acreedor a una pensión del setenta y cinco por ciento del sueldo base de cotización.
 
-Al servidor público que se inhabilite física o mentalmente por causas ajenas al desempeño de su cargo o empleo, si tiene por lo menos quince años de servicio efectivos y hubiere contribuido a la formación del fondo durante el mismo período, se le aplicará la tabla de porcentaje señalada en el artículo 57 para determinar el monto, y éste se disminuirá en un veinte por ciento para fijar la pensión.
-
-El derecho al pago de la pensión comienza a partir de la fecha en que el servidor público cause baja motivada por la inhabilitación.
+Al servidor público que se inhabilite física o mental, temporal o permanente que le impida desempeñar su trabajo por causas ajenas al desempeño de su cargo o empleo, si tiene por lo menos siete años de servicio e igual tiempo de contribuir al fondo, se calculará aplicando la tabla porcentual señalada en el artículo 57 para determinar el pago de la pensión por invalidez, considerando el sueldo base de cotización, en el caso de los trabajadores que al momento de la inhabilitación tengan de siete años a quince años de servicio e igual tiempo de contribuir al fondo, el monto del pago será del cincuenta por ciento del sueldo base de cotización.
 
 > <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 1986)</small>
 
@@ -619,23 +679,31 @@ La misma norma será aplicada en los casos de servidores públicos jubilados o p
 
 El derecho a jubilación y a pensión es imprescriptible, siempre que se, cumpla con lo dispuesto por esta Ley. Las prestaciones económicas a favor o en contra de la Dirección prescribirán los términos y formas establecidas en la Ley Civil vigente en el Estado.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 65.
 
-La percepción de una jubilación o pensión otorgada según esta Ley, es incompatible con la percepción de cualquier otra concedida por las entidades públicas y con el desempeño de algún cargo, empleo o comisión, remunerados por las mismas.
+Es procedente la obtención de una jubilación o pensión otorgada por la Dirección de Pensiones Civiles del Estado, con la percepción de cualquiera otra concedida en su beneficio por un régimen distinto de seguridad social. Es improcedente la percepción de una pensión otorgada por la Dirección de Pensiones Civiles del Estado, con el desempeño de cualquier cargo, empleo o comisión remunerado por las entidades sujetas al régimen de esta ley.
 
-En caso de contravención quedará suspendida la jubilación o pensión mientras el servidor público se encuentre percibiendo alguna otra, o desempeñando cualquier empleo, cargo o comisión del carácter antes expresado, a reservar de gozar nuevamente de dicha prestación al desaparecer la incompatibilidad.
+En caso de contravención quedará suspendida la jubilación o pensión mientras el servidor público se encuentre percibiendo alguna otra, o desempeñando cualquier empleo, cargo o comisión del carácter antes expresado, a reservar (sic) de gozar nuevamente de dicha prestación al desaparecer la incompatibilidad.
 
-El infractor estará obligado a reintegrar las cantidades percibidas indebidamente en el plazo que le será fijado por la Junta Directiva, pero nunca será menor al tiempo en que las hubiere recibido. Desaparecida la incompatibilidad y reintegradas las cantidades indebidamente recibidas, el interesado podrá vover (sic) a disfrutar de la pensión otorgada. Si no hiciere el reintegro en los términos de este artículo perderá todo el derecho sobre la pensión.
+El infractor estará obligado a reintegrar las cantidades percibidas indebidamente en el plazo que le será fijado por la Junta Directiva, pero nunca será menor al tiempo en que las hubiere recibido. Desaparecida la incompatibilidad y reintegradas las cantidades indebidamente recibidas, el interesado podrá volver a disfrutar de la pensión otorgada. Si no hiciere el reintegro en los términos de este artículo perderá todo el derecho sobre la pensión.
 
 ### CAPITULO OCTAVO. SERVICIO MEDICO, SEGURO DE VIDA Y OTRAS PRESTACIONES
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 66.
 
-El servicio de protección médica y social se prestará en los términos de los convenios celebrados y que suscriban las entidades públicas o la Dirección de Pensiones con el Instituto Mexicano del Seguro Social e Instituto de Seguridad Social al Servicio de los Trabajadores del Estado o cualquier otra institución similar.
+El servicio de protección médica y social se prestará en los términos de los convenios celebrados y que suscriban las entidades públicas o la Dirección de Pensiones con el Instituto Mexicano del Seguro Social o Instituto de Seguridad Social al Servicio de los Trabajadores del Estado, estableciendo la obligatoriedad de la Dirección de Pensiones para proporcionar este servicio.
+
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 67.
 
 Los servidores públicos gozarán de un seguro de vida, cuyo fondo se integrará con las aportaciones de éstos y de las entidades públicas, el que se regirá conforme al reglamento que apruebe la Junta Directiva.
+
+Para los jubilados y pensionados se constituirá un fondo el cual se integrará con las aportaciones voluntarias de éstos y de la Dirección de Pensiones Civiles del Estado, para gozar de un seguro de vida, el que se regirá conforme al reglamento que apruebe la Junta Directiva.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 1986)</small>
 
@@ -649,17 +717,13 @@ Esta prestación será cubierta íntegra y oportunamente a la Dirección por las
 
 Cuando fallezca un servidor público en servicio sus beneficiarios tendrán derecho, por una sola vez, a una cuota de ayuda que fijará la Junta Directiva de acuerdo a las posibilidades económicas de la Dirección de Pensiones, tomando en consideración el tiempo que el contribuyente aportó al fondo.
 
+> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 70.
 
-Al servidor público que sin tener derecho a jubilación o pensión por vejez o invalidez se separe definitivamente del servicio, se entregará en sus respectivos casos, una indemnización global equivalente a:
+Al servidor público que sin tener derecho a jubilación o pensión se separe definitivamente del servicio se le entregará una indemnización equivalente al monto total de las aportaciones personales con que hubiere contribuido al fondo.
 
-I.- El monto total de las cuotas con que hubiere contribuido de acuerdo con el artículo 22, si tuviere hasta cuatro años de servicio;
-
-II.- La cantidad total de las cuotas que hubiese entregado en los términos del artículo 22, más un mes de su último sueldo básico según lo define el artículo 56, si tuviese cuatro a nueve años de servicio; y,
-
-III.- La suma total de las cuotas que hubiere enterado conforme al precepto señalado en las fracciones anteriores, más dos meses de su último sueldo básico, si hubiere permanecido en el servicio nueve o más años.
-
-A la muerte del servidor público sus beneficiarios tendrán derecho a la entrega de las cantidades mencionadas, en los términos de este precepto.
+A la muerte del servidor público, sus beneficiarios o a quien éste designe tendrán derecho a la entrega de las cantidades mencionadas, en los términos de este precepto o conforme al reglamento que apruebe la junta directiva.
 
 ###### ARTICULO 71.
 
@@ -672,6 +736,12 @@ II.- Cuando el servidor público se le impute la comisión de algún delito con 
 ###### ARTICULO 72.
 
 En los establecimientos comerciales de la Dirección de Pensiones se otorgarán descuentos especiales a los servidores públicos, los cuales no serán menores al quince por ciento de los precios de venta ordinaria.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
+###### ARTICULO 73.
+
+Los servidores públicos que dejen de cumplir con las obligaciones que les impone esta ley, se harán acreedores a las sanciones establecidas en la Ley de Responsabilidades y Registro Patrimonial de los Servidores Públicos del Estado de Michoacán y sus Municipios.
 
 T R A N S I T O R I O S :
 
@@ -749,7 +819,7 @@ Lic. Ausencio Chávez Hernández.
 
 Firmado.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 31 DE ENERO DE 1983.
 
@@ -782,3 +852,57 @@ En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Es
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Las pensiones otorgadas con anterioridad a las presentes reformas y adiciones, seguirán en las condiciones y circunstancias en que fueran aprobadas salvo el caso previsto en el artículo 56 de esta Ley.
+
+TERCERO. Para el caso de los servidores públicos que desde antes de la entrada en vigor del presente decreto, cotizan a la Dirección de Pensiones Civiles del Estado, se establece como el descuento mínimo obligatorio que señala el artículo 22 de la ley de Pensiones Civiles para el Estado, los siguientes:
+
+TRABAJADOR PATRÓN TOTAL
+
+Durante el año 2016
+
+el descuento será de: 6.50% 6.50% 13.00%
+
+Durante el año 2017
+
+el descuento será de: 7.50% 7.50% 15.00%
+
+Durante el año 2018
+
+el descuento será de: 8.50% 8.50% 17.00%
+
+Durante el año 2019
+
+el descuento será de: 9.50% 9.50% 19.00%
+
+Durante el año 2020
+
+el descuento será de: 11.00% 11.00% 22.00%
+
+Durante el año 2021
+
+el descuento será de: 11.00% 13.00% 24.00%
+
+CUARTO. Los servidores públicos que desde antes de la entrada en vigor del presente decreto hubieran cumplido en términos de ley los supuestos para el disfrute de cualquiera de las pensiones bajo el amparo de las anteriores condiciones, es decir que tienen derechos adquiridos, recibirán la jubilación o pensión correspondiente bajo tales condiciones.
+
+Para los nuevos trabajadores que se incorporen al régimen de pensiones, el requisito para jubilarse, será de treinta años de servicio y sesenta años de edad.
+
+QUINTO. Para el caso de los servidores públicos que desde antes de la entrada en vigor del presente decreto cotizan a la Dirección de Pensiones Civiles del Estado, el derecho a la jubilación se dará bajo el amparo de las anteriores condiciones, entendiéndose que tienen un derecho adquirido, salvo lo dispuesto en el segundo párrafo del artículo 54 de la presente Ley, y el Reglamento Interior de la Dirección de Pensiones Civiles del Estado.
+
+Para el caso de los servidores públicos que desde antes de la entrada en vigor del presente decreto cotizan a la Dirección de Pensiones Civiles del Estado pero les faltan algunos años de servicio para alcanzar la jubilación, el pago de la misma se dará bajo el amparo de las anteriores condiciones, entendiéndose que tienen un derecho adquirido, salvo lo dispuesto en el segundo párrafo del artículo 54 de la presente Ley, y el Reglamento Interior de la Dirección de Pensiones Civiles del Estado.
+
+SEXTO. Para el caso de los servidores públicos que actualmente cotizan a la Dirección de Pensiones Civiles del Estado antes de la entrada en vigor de las presentes modificaciones de Ley, el derecho a la pensión por vejez será acorde a lo establecido y al amparo de las anteriores condiciones, es decir contar con un mínimo de sesenta años de edad, en términos del artículo 57 de esta ley.
+
+SÉPTIMO. Las entidades están obligadas a incorporar a todos sus servidores públicos a la Dirección de Pensiones Civiles, en los términos de esta Ley desde el primer día de que empiecen a prestarles sus servicios. Las entidades que a partir de la vigencia de estas modificaciones no incorporen a todos sus servidores públicos serán responsables del pago de las prestaciones a que pudieran tener derecho conforme a esta Ley y que la Dirección de Pensiones Civiles no les pueda proporcionar por no cumplir con los periodos de cotización respectivos.
+
+OCTAVO. Para el caso de los servidores públicos que desde antes de la entrada en vigor del presente decreto se encuentren cotizando a la Dirección de Pensiones Civiles del Estado, conservarán los derechos y prestaciones adquiridos en términos del artículo 55 de la presente ley.
+
+Para el caso de los servidores públicos que desde antes de la entrada en vigor del presente Decreto, tengan tiempo trabajado no cotizado, este no causará obligación alguna a la Dirección de Pensiones Civiles del Estado.
+
+NOVENO. Para los trabajadores pensionados y jubilados de la Secretaría de Educación en el Estado, el servicio de protección médica y social integral, deberá quedar debidamente garantizada en el Convenio que celebre el Gobierno del Estado con el Instituto del Seguro Social o Instituto de Seguridad Social al Servicio de los Trabajadores del Estado.
+
+DÉCIMO. La Junta Directiva de Pensiones tendrá un plazo de 45 días hábiles a la entrada en vigor de las presentes reformas, para homologarlas con su Reglamento.
