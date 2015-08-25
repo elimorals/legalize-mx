@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-878-del-equilibrio-ecologico-y-la-proteccion-al-6739
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-03"
-last_updated: "2009-03-03"
+last_updated: "2015-08-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67395&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY NUMERO 878 DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE GUERRERO
 
-LEY NUMERO 878 DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE GUERRERO
+LEY NÚMERO 878 DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 3 de marzo de 2009.
 
@@ -381,7 +381,13 @@ XXXVIII.- Establecer y coordinar programas de capacitación técnica en materia 
 
 XXXIX.- Promover y estimular la articulación de mercados para la compensación o pago de servicios ambientales;
 
-XL.- Las demás atribuciones que le otorguen la presente Ley y otros ordenamientos aplicables en la materia.
+> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2015)</small>
+
+XL.- La evaluación ambiental estratégica de los programas de las dependencias y entidades de la Administración Pública Estatal, así como las modificaciones a los mismos; y
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2015)</small>
+
+XLI.- Las demás atribuciones que le otorguen la presente Ley y otros ordenamientos aplicables en la materia.
 
 ###### ARTÍCULO 10.
 
@@ -584,6 +590,10 @@ XIII.- Las autoridades y la sociedad en general deben asumir la corresponsabilid
 Dentro de la Planeación Estatal del Desarrollo, se deberá incorporar la política ambiental, así como considerar los Ordenamientos Ecológicos que se establezcan de conformidad con esta Ley y otras disposiciones en la materia.
 
 En la planeación y en la realización de las acciones a cargo de las dependencias y entidades de la Administración Pública Estatal, conforme a sus respectivas esferas de competencia, así como en el ejercicio de las atribuciones que las leyes confieran al Gobierno del Estado para regular, promover, restringir, prohibir, orientar y en general inducir las acciones de los particulares en los campos económico y social, se observarán los lineamientos de la política ambiental que establezca el Plan Estatal de Desarrollo, siempre y cuando esta no se contraponga a la presente Ley.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
+Asimismo, en la formulación de los programas de las dependencias y entidades de la Administración Pública Estatal, se hará efectiva la transversalidad de las políticas públicas para la sustentabilidad ambiental, a través de la Evaluación Ambiental Estratégica.
 
 El Gobierno del Estado en la formulación de políticas y programas ambientales, promoverá la participación de los distintos grupos sociales y privados, tales como: ejidatarios, comunidades agrarias, pueblos indígenas, empresarios y demás personas físicas y morales interesadas, así como de la participación de investigadores y especialistas de instituciones de educación superior y de investigación científica que incidan en la materia, a fin de lograr la elaboración y ejecución de programas que tengan por objeto mantener el equilibrio ecológico y la protección al ambiente, según lo establecido en esta Ley y las demás aplicables.
 
@@ -1017,9 +1027,63 @@ Los plazos ordenados para la realización de las medidas correctivas referidas e
 
 Los Municipios podrán emitir, por sí mismos o a petición de la SEMAREN, opiniones técnicas relativas a la obra o actividad de que se trate, antes y durante el proceso de evaluación de impacto o riesgo ambiental, en términos de lo dispuesto en la presente Ley y su Reglamento en la materia.
 
-#### SECCIÓN SÉPTIMA. DE LAS NORMAS TÉCNICAS AMBIENTALES ESTATALES
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 25 DE AGOSTO DE 2015)</small>
 
-#### SECCIÓN OCTAVA. DE LA AUTORREGULACIÓN Y DE LAS AUDITORÍAS AMBIENTALES
+#### SECCIÓN SEXTA BIS. DE LA EVALUACIÓN AMBIENTAL ESTRATÉGICA
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 64 BIS.- La Evaluación Ambiental Estratégica es el proceso mediante el cual se incorpora el análisis y la evaluación de la dimensión ambiental, en la formulación de los programas de la Administración Pública Estatal, así como de sus modificaciones.
+
+El análisis consistirá en la evaluación de los requerimientos de aprovechamiento, uso o explotación de los recursos naturales y sus servicios ambientales asociados, que se estimen necesarios para la ejecución de los programas. Asimismo, se analizarán los impactos sinérgicos y acumulativos que se generen sobre los ecosistemas, para establecer las medidas eficaces que impidan o limiten la degradación del ambiente.
+
+El procedimiento que la SEMAREN establezca para la Evaluación Ambiental Estratégica de los programas de las dependencias y entidades de la Administración Pública Estatal, se sustentará en los siguientes principios:
+
+I. La transversalidad de las políticas públicas de la Administración Pública Estatal, para la sustentabilidad ambiental;
+
+II. La coordinación de la SEMAREN con las dependencias y entidades de la Administración Pública Estatal; y
+
+III. El fortalecimiento de la gestión ambiental, mediante la aplicación integral de los instrumentos de la política ambiental.
+
+La SEMAREN expedirá, mediante Reglamento, los lineamientos generales que contengan los requisitos y el procedimiento aplicable a la Evaluación Ambiental Estratégica.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 64 BIS 1.- Se someterán a la Evaluación Ambiental Estratégica los programas de las dependencias y entidades de la Administración Pública Estatal, que contemplen, promuevan o induzcan obras o actividades de las señaladas en el artículo 45 de esta Ley y aquellos que señale el Reglamento. Asimismo, se sujetarán a las formalidades previstas en este Capítulo, las modificaciones que se realicen a dichos programas.
+
+Se exceptúa de la Evaluación Ambiental Estratégica a los programas en materia de seguridad, protección civil y los presupuestarios.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 64 BIS 2.- Los proyectos de programas señalados en el artículo anterior, que elaboren las dependencias y entidades de la Administración Pública Estatal, deberán ser presentados a la SEMAREN para dar inicio al proceso de Evaluación, cuando menos sesenta días antes de la fecha en que pretendan emitirlo o someterlo a la consideración del titular de (sic) Ejecutivo Estatal.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 64 BIS 3.- El Procedimiento de Evaluación Ambiental Estratégica deberá incorporar, por lo menos, lo siguiente:
+
+I. La conformación de un Comité Técnico, integrado por especialistas de la SEMAREN y de la dependencia o entidad de la Administración Pública Estatal, que asesorará en el diseño, formulación y seguimiento del programa que sea materia de análisis y dictaminación;
+
+II. La participación de diversos sectores de la sociedad, a través de la consulta pública; y
+
+III. El proyecto del programa y el análisis ambiental que realice la dependencia o entidad de la Administración Pública Estatal responsable del mismo, que incluya los requerimientos de aprovechamiento, uso o explotación de los recursos naturales y sus servicios ambientales asociados, que se estimen necesarios para la ejecución de dicho programa, así como el análisis de los impactos sinérgicos y acumulativos, que se generen sobre los ecosistemas.
+
+Para los efectos de la fracción II del presente artículo, las dependencias y entidades de la Administración Pública Estatal, remitirán a la SEMAREN los comentarios y observaciones que en materia ambiental reciban durante los procesos de consulta pública a los que sean sometidos sus programas, conforme al ordenamiento aplicable en la materia.
+
+La SEMAREN emitirá un dictamen que evalúe la incorporación del análisis y la evaluación de la dimensión ambiental en los programas o en sus modificaciones, que realice la dependencia o entidad de la Administración Pública Estatal responsable de su formulación. El dictamen establecerá las condiciones a los (sic) que se sujetarán los programas para su implementación.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 64 BIS 4.- La SEMAREN, durante la Evaluación Ambiental Estratégica, podrá solicitar opinión a dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, instituciones académicas, así como a organizaciones sociales y empresariales, en los términos señalados en el Reglamento.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 64 BIS 5.- La dependencia o entidad de la Administración Pública Estatal, con la asesoría de la SEMAREN, realizará el seguimiento al programa evaluado.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 64 BIS 6.- Los municipios de la entidad podrán establecer procedimientos de Evaluación Ambiental Estratégica de los programas de su competencia.
+
+#### SECCIÓN SÉPTIMA. DE LAS NORMAS TÉCNICAS AMBIENTALES ESTATALES
 
 ###### ARTÍCULO 65.
 
@@ -1053,7 +1117,7 @@ El procedimiento para proponer, someter a consulta y formular Normas Técnicas A
 
 Una vez publicada una Norma Técnica Ambiental Estatal en el Periódico Oficial del Gobierno del Estado, será obligatoria. Las Normas señalarán su ámbito de validez, vigencia y los alcances de su aplicación.
 
-#### SECCIÓN NOVENA. DE LA EDUCACIÓN AMBIENTAL E INVESTIGACIÓN
+#### SECCIÓN OCTAVA. DE LA AUTORREGULACIÓN Y DE LAS AUDITORÍAS AMBIENTALES
 
 ###### ARTÍCULO 69.
 
@@ -1109,7 +1173,7 @@ Asimismo, los responsables del funcionamiento de empresas interesadas en llevar 
 
 El Reglamento en la materia de la presente Ley, determinará los procedimientos para dar cumplimiento a lo dispuesto en la presente sección.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### SECCIÓN NOVENA. DE LA EDUCACIÓN AMBIENTAL E INVESTIGACIÓN
 
 ###### ARTÍCULO 76.
 
@@ -1151,7 +1215,7 @@ V.- Promover en coordinación, con las dependencias del Gobierno Federal, la rea
 
 ### CAPÍTULO I. DE LAS ÁREAS NATURALES PROTEGIDAS
 
-#### SECCIÓN SEGUNDA. DE LOS TIPOS Y CARACTERÍSTICAS DE LAS ÁREAS NATURALES PROTEGIDAS ESTATALES Y MUNICIPALES
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 81.
 
@@ -1185,7 +1249,7 @@ VIII.- Restaurar los ecosistemas que se encuentran en proceso de degradación o 
 
 IX.- Fungir como receptoras de las especies decomisadas, siempre y cuando estas no desequilibren el ecosistema propio.
 
-#### SECCIÓN TERCERA. DE LOS DECRETOS Y CERTIFICACIONES PARA EL ESTABLECIMIENTO, ADMINISTRACIÓN Y VIGILANCIA DE ÁREAS NATURALES PROTEGIDAS
+#### SECCIÓN SEGUNDA. DE LOS TIPOS Y CARACTERÍSTICAS DE LAS ÁREAS NATURALES PROTEGIDAS ESTATALES Y MUNICIPALES
 
 ###### ARTÍCULO 84.
 
@@ -1311,7 +1375,7 @@ El Comité podrá invitar a sus sesiones a representantes de los Municipios, cua
 
 La SEMAREN, en términos del artículo 47 de la LGEEPA, podrá suscribir los convenios de concertación o acuerdos de coordinación que correspondan, con la Secretaría de Medio Ambiente y Recursos Naturales de la Federación en materia de Áreas Naturales Protegidas de competencia de éste orden de Gobierno.
 
-#### SECCIÓN CUARTA. ESTABLECIMIENTO, ADMINISTRACIÓN Y MANEJO DE ÁREAS DESTINADAS VOLUNTARIAMENTE A LA CONSERVACIÓN
+#### SECCIÓN TERCERA. DE LOS DECRETOS Y CERTIFICACIONES PARA EL ESTABLECIMIENTO, ADMINISTRACIÓN Y VIGILANCIA DE ÁREAS NATURALES PROTEGIDAS
 
 ###### ARTÍCULO 98.
 
@@ -1463,7 +1527,7 @@ Todos los actos, convenios y contratos relativos a la propiedad, posesión o cua
 
 Los notarios y cualesquiera otros fedatarios públicos sólo podrán autorizar las escrituras públicas, actos, convenios o contratos en los que intervengan, cuando se cumpla con lo dispuesto en el presente artículo.
 
-#### SECCIÓN QUINTA. DEL SISTEMA ESTATAL DE ÁREAS NATURALES PROTEGIDAS
+#### SECCIÓN CUARTA. ESTABLECIMIENTO, ADMINISTRACIÓN Y MANEJO DE ÁREAS DESTINADAS VOLUNTARIAMENTE A LA CONSERVACIÓN
 
 ###### ARTÍCULO 116.
 
@@ -1515,7 +1579,7 @@ V.- El procedimiento establecerá las condicionantes relativas a la modificació
 
 Las Áreas Privadas y Sociales destinadas voluntariamente a la conservación de competencia estatal, serán reguladas por las disposiciones contenidas en el Capítulo Segundo del presente Título de esta Ley.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### SECCIÓN QUINTA. DEL SISTEMA ESTATAL DE ÁREAS NATURALES PROTEGIDAS
 
 ###### ARTÍCULO 117.
 
@@ -1855,7 +1919,7 @@ En el ámbito de su competencia, el Ejecutivo del Estado, a través de la SEMARE
 
 ### CAPÍTULO II. DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA
 
-#### SECCIÓN SEGUNDA. DEL CONTROL DE EMISIONES PROVENIENTES DE FUENTES FIJAS
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 152.
 
@@ -1917,7 +1981,7 @@ XII.- Ejercer las demás facultades que les confieran las disposiciones legales 
 
 No deberán emitirse contaminantes a la atmósfera que ocasionen o puedan ocasionar desequilibrios ecológicos, daños al ambiente o a la salud pública. En todas las emisiones a la atmósfera, deberán de ser observadas las previsiones de esta Ley y de las disposiciones reglamentarias que de ella emanen, así como las Normas Oficiales Mexicanas y las Normas Técnicas Ambientales Estatales que se establezcan.
 
-#### SECCIÓN TERCERA. DEL CONTROL DE EMISIONES PROVENIENTES DE FUENTES MÓVILES
+#### SECCIÓN SEGUNDA. DEL CONTROL DE EMISIONES PROVENIENTES DE FUENTES FIJAS
 
 ###### ARTÍCULO 156.
 
@@ -2011,7 +2075,7 @@ El Estado deberá establecer Programas de Gestión de la Calidad del Aire apoyad
 
 Los Programas de Gestión de la Calidad del Aire, deberán integrar medidas relativas a los programas de manejo de residuos, descargas de agua, Ordenamiento Ecológico Territorial, planeación estratégica ambiental, considerando para ello los Planes de Desarrollo Nacional y Estatal respectivamente.
 
-#### SECCIÓN PRIMERA. DEL MANEJO Y GESTIÓN INTEGRAL DE LOS RESIDUOS
+#### SECCIÓN TERCERA. DEL CONTROL DE EMISIONES PROVENIENTES DE FUENTES MÓVILES
 
 ###### ARTÍCULO 170.
 
@@ -2247,7 +2311,7 @@ La información que se recabe será integrada al Sistema Nacional de Informació
 
 ### CAPÍTULO V. DE LA PREVENCIÓN Y DEL CONTROL DE LA CONTAMINACIÓN DEL SUELO Y DEL DETERIORO ECOLÓGICO
 
-#### SECCIÓN SEGUNDA. DE LOS SERVICIOS PÚBLICOS MUNICIPALES
+#### SECCIÓN PRIMERA. DEL MANEJO Y GESTIÓN INTEGRAL DE LOS RESIDUOS
 
 ###### ARTÍCULO 200.
 
@@ -2398,6 +2462,8 @@ Los establecimientos comerciales y de servicios deberán sustituir las bolsas, e
 ###### ARTÍCULO 218.
 
 Los Municipios dentro de su circunscripción territorial, deberán sanear y clausurar los tiraderos de residuos a cielo abierto, además de regularizar sus sitios de disposición final conforme a la Norma Oficial Mexicana en la materia.
+
+#### SECCIÓN SEGUNDA. DE LOS SERVICIOS PÚBLICOS MUNICIPALES
 
 ###### ARTÍCULO 219.
 
@@ -3038,3 +3104,17 @@ EL SECRETARIO DE MEDIO AMBIENTE Y RECURSOS NATURALES
 LIC. SABÁS ARTURO DE LA ROSA CAMACHO.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE AGOSTO DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 848 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 878 DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE GUERRERO, Y SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY NÚMERO 994 DE PLANEACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. El titular del Poder Ejecutivo del Estado expedirá, el Reglamento de la Ley número 878 del Equilibrio Ecológico y la Protección al Ambiente del Estado de Guerrero, en materia de Evaluación Ambiental Estratégica dentro de los 90 días naturales posteriores a la entrada en vigor del presente Decreto.
+
+TERCERO. Remítase el presente Decreto al Poder Ejecutivo del Estado, para sus efectos legales conducentes.
+
+CUARTO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado y en el Portal Web de este Poder Legislativo, para su conocimiento general.
