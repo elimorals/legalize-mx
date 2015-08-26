@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transparencia-y-acceso-a-la-informacion-del-estado-62050
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-19"
-last_updated: "2012-09-17"
+last_updated: "2015-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62050&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2015.
 
 Ley publicada en el Periódico Oficial en el Estado de Nuevo León, el sábado 19 de julio de 2008.
 
@@ -91,7 +91,9 @@ Sistema de datos personales: conjunto ordenado de datos personales que estén en
 
 Servidor público: los señalados en el artículo 105 de la Constitución Política del Estado Libre y Soberano de Nuevo León y en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
-Sujetos obligados: cualquier autoridad, dependencia, unidades administrativas, entidad, órgano u organismo del Estado o los Municipios a que se refiere el capítulo segundo de este Título.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2015)</small>
+
+Sujetos obligados: cualquier autoridad, dependencia, unidades administrativas, entidad, órgano u organismo del Estado o los Municipios y los demás a que se refiere el Capítulo Segundo de este Título.
 
 Versión pública: documento en que se testa o elimina la información clasificada como reservada o confidencial para permitir su acceso.
 
@@ -135,23 +137,11 @@ Para este efecto, en caso de duda razonable sobre la clasificación de la inform
 
 ### Capítulo Segundo. De los sujetos obligados
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 6.
 
-Para los efectos de esta Ley son sujetos obligados:
-
-I.- El Poder Ejecutivo de Estado;
-
-II.- Las Administraciones Públicas Estatal y Municipales, incluyendo a los organismos desconcentrados y descentralizados, las empresas de participación estatal y municipal, los fideicomisos estatales y municipales, incluyendo los fideicomisos constituidos por los organismos descentralizados y demás entidades del sector paraestatal;
-
-III.- El Poder Legislativo, la Auditoría Superior del Estado y cualquiera de sus órganos;
-
-IV.- El Poder Judicial y el Consejo de la Judicatura del Estado;
-
-V.- Los Ayuntamientos;
-
-VI.- Los Tribunales Administrativos;
-
-VII.- Los Organismos Públicos Autónomos y Constitucionales Autónomos del Estado, incluyendo a las Universidades e Instituciones de Educación Superior Públicas.
+Para los efectos de esta Ley son sujetos obligados cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad, estatal y municipal.
 
 ###### Artículo 7.
 
@@ -203,9 +193,9 @@ III.- El directorio de los servidores públicos, desde el nivel de jefe de depar
 
 La fotografía solo será publicada cuando medie el consentimiento expreso del servidor público, las de aquellos que realizan funciones relacionadas con la seguridad pública, la procuración y administración de justicia, así como los de ejecución de penas no será publicada;
 
-> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2015)</small>
 
-IV.- La calendarización de las reuniones públicas de los diversos consejos, órganos colegiados, gabinetes, cabildos, sesiones plenarias, comisiones legislativas y sesiones de trabajo a que se convoquen. Para las reuniones y sesiones ya celebradas, se deberán difundir, en un plazo no mayor a 30 días naturales posteriores a su realización, las correspondientes minutas o actas de dichas reuniones y sesiones, así como las listas de asistencia de sus integrantes;
+IV.- La calendarización de las reuniones públicas de los diversos consejos, órganos colegiados, comités, fideicomisos, organismos descentralizados, gabinetes, cabildos, sesiones plenarias, comisiones legislativas y sesiones de trabajo a que se convoquen. Para las reuniones y sesiones ya celebradas, se deberán difundir, en un plazo no mayor a 30 días naturales posteriores a su realización, las correspondientes minutas o actas de dichas reuniones y sesiones, así como las listas de asistencia de sus integrantes;
 
 V.- Una relación de los servidores públicos comisionados por cualquier causa, incluso de carácter sindical, indicando el objeto, lugar y duración de la Comisión;
 
@@ -227,7 +217,9 @@ XII.- La relación analítica mensual de pagos hechos a contratistas, proveedore
 
 XIII.- Respecto de los contratos o convenios celebrados por el sujeto obligado, un listado que relacione el número de contrato, su fecha de celebración, el nombre o razón social del contratante o proveedor y, en su caso, el monto del valor total de la contratación.
 
-También deberán publicarse las convocatorias y bases para la adjudicación de proyectos de asociaciones público privadas, las modificaciones que se lleven a cabo y el fallo final, debiendo publicar al menos, de cada proyecto, el número de registro, el nombre de la Contratante, el nombre del Desarrollador, la descripción general del proyecto, la fecha de contratación y el importe de los compromisos de pago o aportación de recursos estatales por cada año de vigencia del contrato, señalando, en su caso, el importe comprendido en la partida presupuestal de pago preferente;
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2015)</small>
+
+También deberán publicarse las convocatorias y bases para la adjudicación de proyectos de asociaciones público privadas, las modificaciones que se lleven a cabo, el fallo final, así como los contratos respectivos y sus correspondientes modificaciones;
 
 XIV.- Respecto de las concesiones, licencias, permisos y autorizaciones se deberá publicar su objeto, el nombre o razón social del titular, el tipo de licencia, permiso, concesión o autorización, así como si el procedimiento involucra el aprovechamiento de bienes, servicios o recursos públicos;
 
@@ -243,7 +235,9 @@ XVIII.- El padrón de proveedores, que deberá contener cuando menos nombre o ra
 
 XIX.- Las sentencias ejecutoriadas dictadas con motivo de las controversias entre poderes públicos, en que esté involucrado alguno de los sujetos obligados del Estado de Nuevo León; y
 
-XX.- Toda la información relativa a los recursos entregados a personas físicas y morales privadas, así como aquélla relativa al destino que se les dio a esos recursos.
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2015)</small>
+
+XX.- Toda la información relativa a los recursos públicos entregados a personas físicas y morales privadas, o sindicatos, así como aquélla relativa al destino que se les dio a esos recursos.
 
 > <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1263,19 +1257,27 @@ El Congreso del Estado, establecerá en el presupuesto de egresos del Estado los
 
 El ejercicio del presupuesto de la Comisión será revisado y fiscalizado en los términos de las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 92.
 
-La Comisión estará integrada por cuatro Comisionados, tres de los cuales serán Propietarios que en Pleno serán el Órgano Supremo de la misma, y un Supernumerario que suplirá las ausencias de aquellos. Los tres Comisionados Propietarios elegirán a su Presidente, los dos restantes tendrán el carácter de Vocales, y durante su desempeño no podrán tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
+La Comisión estará integrada por cuatro Comisionados, tres de los cuales serán Propietarios que en Pleno serán el Órgano Supremo de la misma, y un Supernumerario que suplirá las ausencias de aquellos, por un periodo mínimo de siete días y máximo de quince días, previa autorización del Pleno. Los tres Comisionados Propietarios elegirán a su Presidente, los dos restantes tendrán el carácter de Vocales, y durante su desempeño no podrán tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
 
-En los casos de conflicto de intereses que obligue a abstenerse, o bien en la ausencia temporal, impedimento legal ó suspensión de un Comisionado Propietario, el Supernumerario lo suplirá temporalmente. A falta definitiva de alguno de los Comisionados Propietarios, éste será sustituido en forma definitiva por el Comisionado Supernumerario quien pasará a ser Propietario, previa la ratificación que realice el Congreso del Estado.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2015)</small>
+
+En los casos de conflicto de intereses que obligue a abstenerse, o bien en la ausencia temporal, impedimento legal, suspensión o licencia provisional de un Comisionado Propietario dentro de los plazos establecidos en el párrafo anterior, el Supernumerario lo suplirá temporalmente. A falta definitiva de alguno de los Comisionados Propietarios, éste será sustituido en forma definitiva por el Comisionado Supernumerario quien pasará a ser Propietario, previa la ratificación que realice el Congreso del Estado.
 
 El Comisionado Supernumerario podrá asistir con voz pero sin voto a todas las sesiones. Cuando supla la falta de algún Propietario gozará de voz y voto.
 
-Para todos los efectos legales, los Comisionados serán considerados servidores públicos, con las prerrogativas y responsabilidades que la Constitución Política del Estado de Nuevo León y demás Leyes les señalen.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2015)</small>
+
+Para todos los efectos legales, los Comisionados en funciones serán considerados servidores públicos, con las prerrogativas y responsabilidades que la Constitución Política del Estado de Nuevo León y demás Leyes les señalen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 93.
 
-Los Comisionados elegirán en sesión plenaria a su Presidente, quien durará en el encargo dos años sin posibilidad de reelección y tendrá la representación legal de la Comisión.
+Los Comisionados elegirán en sesión plenaria a su Presidente, quien durará en el encargo dos años con posibilidad de reelección por un periodo igual, y tendrá la representación legal de la Comisión.
 
 La Comisión funcionará como órgano colegiado en sesiones ordinarias o extraordinarias. Sus resoluciones se tomarán por unanimidad o por mayoría y sesionarán válidamente con la asistencia de la mayoría de sus integrantes, requiriéndose en todo caso la presencia del Presidente, a excepción hecha de excusa o impedimento de éste.
 
@@ -1335,9 +1337,13 @@ II.- Cuando por sus actos u omisiones se afecten las atribuciones de la Comisió
 
 III.- Cuando hayan sido sentenciados por un delito grave que merezca pena corporal.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 100.
 
-Por el desempeño de su encargo, los Comisionados percibirán una remuneración equivalente a la de un Juez de Primera Instancia del Poder Judicial del Estado.
+Por el desempeño de su encargo, los Comisionados Propietarios percibirán una remuneración equivalente a la de un Juez de Primera Instancia del Poder Judicial del Estado.
+
+En el caso del Comisionado Supernumerario su remuneración será el equivalente al plazo o tiempo que realice funciones de suplencia, en los términos del artículo 92 de esta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2134,5 +2140,9 @@ P.O. 5 DE AGOSTO DE 2011.
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 17 DE SEPTIEMBRE DE 2012.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE AGOSTO DE 2015.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
