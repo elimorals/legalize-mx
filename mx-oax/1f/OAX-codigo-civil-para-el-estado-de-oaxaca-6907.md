@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2015-08-24"
+last_updated: "2015-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2015.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -3141,7 +3141,11 @@ III. Por la exposición que el que, o los que, ejerzan la patria potestad hicier
 
 La patria potestad se pierde o se suspende en los casos de divorcio según las prevenciones del artículo 295 de este código.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚM. 1269, PUBLICADO EN EL P.O. 24 DE AGOSTO DE 2015 SE TRANSCRIBE EL FUNDAMENTO DE PRECEPTO OBSERVADO: “La fracción IV del presente artículo fue observada por el titular del Poder Ejecutivo, de conformidad con el artículo 53, fracciones III, V y VI, primer párrafo y 79 fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio fechado el 31 de julio de 2015 y recibido en el Poder Legislativo el mismo día, mes y año.”]</small>
+> <small>(ADICIONADA [N. DE E. CONTIENE LAS OBSERVACIONES Y FUNDAMENTO DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE AGOSTO DE 2015)</small>
+
+IV. Cuando el que ejerce la patria potestad hubiera cometido contra la persona o bienes de los hijos, un delito doloso; y
+
+[La fracción IV del presente artículo fue observada por el titular del Poder Ejecutivo del Estado, de conformidad con lo dispuesto en el segundo párrafo de la fracción VI del artículo 53 de la Constitución Política del Estado Libre y Soberano de Oaxaca].
 
 > <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2015)</small>
 
@@ -15866,3 +15870,7 @@ P.O. 9 DE MAYO DE 2015.
 P.O. 24 DE AGOSTO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 26 DE AGOSTO DE 2015.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
