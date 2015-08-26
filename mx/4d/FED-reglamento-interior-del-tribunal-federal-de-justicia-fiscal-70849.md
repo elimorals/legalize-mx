@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2015-06-19"
+last_updated: "2015-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,9 @@ issue_date: "2009-11-11"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ENERO DE 2016 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE AGOSTO DE 2015.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -2433,7 +2431,9 @@ V. Llevar a cabo las acciones que procedan conforme a la ley de la materia, a fi
 
 VI. Supervisar que las observaciones emitidas por la Auditoría Superior de la Federación sean atendidas por los servidores públicos correspondientes, con la debida oportunidad;
 
-VII. Instruir los procedimientos y resolver los recursos que se presenten en el ámbito de su competencia, conforme a las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+VII. Instruir los procedimientos, resolver los recursos, así como representar legalmente a la Contraloría Interna ante las instancias jurisdiccionales que conozcan de asuntos promovidos con motivo del ejercicio de sus atribuciones, dicha facultad de representación legal podrá ser ejercida conjunta o separadamente por los titulares de las áreas adscritas o mediante delegación a las mismas, de conformidad con el ámbito de su competencia. Asimismo, la Dirección General de Asuntos Jurídicos podrá ejercer directamente la representación legal ante las instancias jurisdiccionales a que se refiere esta fracción.
 
 VIII. Verificar que las inconformidades que presenten los particulares relativas a procedimientos de adquisiciones, arrendamientos y servicios y obra pública que lleve a cabo el Tribunal, se atiendan conforme a las disposiciones jurídicas aplicables;
 
@@ -2445,9 +2445,25 @@ XI. Expedir y certificar las copias de documentos o constancias que existan en s
 
 XII. Coadyuvar con la Junta, en el seguimiento de las recomendaciones u observaciones resultado de las visitas realizadas a las Salas Regionales por los Magistrados integrantes de la Junta, así como en la integración, clasificación y conservación de la documentación e información que le proporcionen con motivo de las visitas, y
 
-XIII. Las demás que le confieran las disposiciones jurídicas aplicables y los acuerdos que expida el Pleno Jurisdiccional de la Sala Superior y la Junta, en el ámbito de sus respectivas competencias, así como las que competan a las unidades administrativas que tenga adscritas.
+> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
 
-Para el desempeño de sus funciones, la Contraloría Interna contará y tendrá adscritas una Coordinación de Gestión y las Direcciones de Auditoría, de Quejas, Denuncias y Responsabilidades, de Control y Evaluación y de Registro Patrimonial, y para el ejercicio de las atribuciones previstas en la fracción XII de este artículo contará con la Unidad de Seguimiento de Visitas.
+XIII. Propiciar y vigilar la implementación, actualización, supervisión y seguimiento del Sistema de Control Interno Institucional;
+
+> <small>(ADICIONADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+XIV. Promover conjuntamente con las coordinaciones adscritas a la Contraloría Interna la celebración y actualización de convenios con las autoridades federales y locales competentes, en materia de Contraloría y gestionar el intercambio de información, previa autorización del Pleno Jurisdiccional;
+
+> <small>(ADICIONADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+XV. Intervenir, por conducto de la Coordinación General de Control Interno y Auditoría del Desempeño, como asesor en los Comités de Adquisiciones, Arrendamientos y Servicios, de Bienes Muebles, Obras Públicas y Servicios relacionados con las mismas, y de Control Interno; y
+
+> <small>(ADICIONADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+XVI. Las demás que le confieran las disposiciones jurídicas aplicables y los acuerdos que expida el Pleno Jurisdiccional de la Sala Superior y la Junta, en el ámbito de sus respectivas competencias, así como las que competan a las unidades administrativas que tenga adscritas.
+
+> <small>(REFORMADO, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+Para el desempeño de sus funciones, la Contraloría Interna contará y tendrá adscritas a las Coordinaciones Generales de Auditoría; la de Quejas, Denuncias, Responsabilidades y Registro Patrimonial y la de Control Interno y Auditoría del Desempeño, y para el ejercicio de las atribuciones previstas en la fracción XII de este artículo contará con la Unidad de Seguimiento de Visitas.
 
 > <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2012)</small>
 
@@ -2473,19 +2489,13 @@ VII. Las demás que le confieran las disposiciones jurídicas aplicables y los a
 
 ###### Artículo 96.
 
-Corresponde a la Coordinación de Gestión:
+(DEROGADO, D.O.F. 26 DE AGOSTO DE 2015)
 
-I. Coordinar, supervisar, integrar e interrelacionar a los Directores de Auditoría, de Quejas, Denuncias y Responsabilidades, de Control y Evaluación y de Registro Patrimonial con el Contralor, a fin de garantizar el óptimo ejercicio de sus atribuciones;
-
-II. Diseñar y operar el Sistema de Evaluación del Desempeño, así como el cumplimiento integral de los objetivos de los Directores con base en las políticas, directrices y prioridades que dicte el Contralor;
-
-III. Proponer y promover la capacitación y el apoyo técnico que requiera el personal adscrito a la Contraloría Interna, y
-
-IV. Las demás que le confieran otras disposiciones jurídicas y el Pleno Jurisdiccional de la Sala Superior.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 97.
 
-Corresponde a la Dirección de Auditoría:
+Corresponde a la Coordinación General de Auditoría:
 
 I. Elaborar y coordinar la integración y ejecución del programa anual de auditoría, darle seguimiento y evaluar sus avances;
 
@@ -2513,21 +2523,39 @@ VIII. Intervenir en términos del artículo 105 del Reglamento Interior del Trib
 
 IX. Efectuar revisiones técnico-normativas en materia de adquisiciones y obra pública, realizar las investigaciones de oficio, así como aquéllas que con ese carácter convenga llevar a cabo, y
 
-> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
 
-X. Las demás que le confieran otras disposiciones jurídicas y el Pleno Jurisdiccional de la Sala Superior.
+X. Expedir y certificar las copias de documentos o constancias que existan en sus archivos, cuando proceda o a petición de autoridad competente; y
+
+> <small>(ADICIONADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+XI. Las demás que le confieran otras disposiciones jurídicas y el Pleno Jurisdiccional de la Sala Superior.
+
+> <small>(ADICIONADO, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+Sin perjuicio de su ejercicio directo por parte del Titular de la Coordinación General de Auditoría, al Director de Auditoría corresponderá el ejercicio de las atribuciones previstas en las fracciones I a IX de este artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 98.
 
-Corresponde a la Dirección de Quejas, Denuncias y Responsabilidades:
+Corresponde a la Coordinación General de Quejas, Denuncias, Responsabilidades y Registro Patrimonial:
 
-I. Recibir las quejas o denuncias que se presenten en contra de los servidores públicos establecidos en las fracciones XI a XIII y último párrafo del artículo 3, de la Ley, y realizar las investigaciones que correspondan;
+> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
 
-II. Instruir y resolver los procedimientos disciplinarios derivados con motivo del incumplimiento de las obligaciones de los servidores públicos establecidos en las fracciones XI a XIII, y último párrafo del artículo 3, de la Ley;
+I. Recibir las quejas o denuncias que se presenten en contra de los servidores públicos establecidos en las fracciones XI a XIII y último párrafo del artículo 3, de la Ley, y realizar las investigaciones que correspondan, de conformidad a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y demás ordenamientos jurídicos aplicables en materia de responsabilidades administrativas;
 
-III. Acordar con el Contralor la resolución de los asuntos relevantes a su cargo;
+> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
 
-IV. Recibir los recursos que se promuevan en contra de las resoluciones que emita, y someterlos a la consideración del Contralor para su resolución en términos de las disposiciones jurídicas aplicables;
+II. Instruir y resolver los procedimientos disciplinarios derivados con motivo del incumplimiento de las obligaciones de los servidores públicos establecidos en las fracciones XI a XIII, y último párrafo del artículo 3, de la Ley, observando lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y demás ordenamientos jurídicos aplicables en materia de responsabilidades administrativas;
+
+> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+III. Acordar con el Contralor Interno la resolución de los asuntos relevantes a su cargo;
+
+> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+IV. Recibir los recursos que se promuevan en contra de las resoluciones que emita, y someterlos a la consideración del Contralor Interno para su resolución en términos de las disposiciones jurídicas aplicables;
 
 > <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2014)</small>
 
@@ -2551,63 +2579,147 @@ Para efecto de lo anterior, podrán emitir todo tipo de acuerdos, así como pres
 
 IX. Hacer del conocimiento del Pleno en asuntos de su competencia, de la Junta y de la Dirección General de Asuntos Jurídicos los hechos de que tenga conocimiento y que puedan ser constitutivos de delitos imputables a los servidores públicos establecidos en las fracciones XI a XIII y último párrafo del artículo 3, de la Ley, y
 
-> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
 
-X. Las demás que le confieran otras disposiciones jurídicas y el Pleno Jurisdiccional de la Sala Superior.
+X. Citar, cuando lo estime necesario, al denunciante o al quejoso para la ratificación de la denuncia o la queja presentada en contra de los servidores públicos del Tribunal establecidos en las fracciones XI a XIII y último párrafo del artículo 3, de la Ley, ante la posible existencia de responsabilidad administrativa; dicha facultad puede hacerse extensiva, para la citación de otros servidores públicos del Tribunal que puedan tener conocimiento de los hechos motivo de la denuncia o la queja a fin de constatar la veracidad de los mismos, así como requerir fundada y motivadamente aporten elementos, datos o indicios que permitan advertir la presunta responsabilidad del o los servidores públicos señalados como presuntos responsables;
+
+> <small>(ADICIONADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+XI. Practicar las actuaciones y diligencias que se estimen procedentes, a fin de integrar debidamente los expedientes relacionados con las investigaciones que realice con motivo de incumplimiento de obligaciones en materia de responsabilidades administrativas respecto de los servidores públicos establecidos en las fracciones XI a XIII y último párrafo del artículo 3, de la Ley;
+
+> <small>(ADICIONADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+XII. Dictar los acuerdos que correspondan en los procedimientos de investigación que realice, incluidos los de archivo por falta de elementos cuando así proceda, y de inicio de procedimiento disciplinario de responsabilidad administrativa;
+
+> <small>(ADICIONADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+XIII. Tramitar los recursos de revisión que se hagan valer en contra de las resoluciones de inconformidades e intervenciones de oficio, así como en contra de las resoluciones por las que se impongan sanciones a los licitantes, proveedores y contratistas en los términos de las leyes de la materia y someterlos a la resolución del Contralor Interno.
+
+> <small>(ADICIONADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+XIV. Formular los requerimientos necesarios a las Unidades Administrativas del Tribunal y llevar a cabo los actos relativos a la atención de los asuntos en materia de quejas, denuncias y de responsabilidades, para que le sea proporcionada la información que sea necesaria para la integración de los expedientes en trámite;
+
+> <small>(ADICIONADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+XV. Llevar a cabo los registros de los asuntos de su competencia y expedir las copias certificadas de los documentos que obren en sus archivos;
+
+> <small>(ADICIONADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+XVI. Integrar, ordenar, actualizar y conservar el padrón de servidores públicos del Tribunal obligados a presentar declaración de situación patrimonial;
+
+> <small>(ADICIONADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+XVII. Verificar que los servidores públicos del Tribunal obligados a presentar declaración de situación patrimonial, cumplan en tiempo y forma con dicha obligación y emitir la determinación que corresponda en caso de incumplimiento;
+
+> <small>(ADICIONADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+XVIII. Coordinar, vigilar y controlar la recepción, registro y resguardo de las declaraciones de situación patrimonial de los servidores públicos del Tribunal obligados a presentarlas, así como analizar e investigar su situación patrimonial;
+
+> <small>(ADICIONADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+XIX. Proponer al Contralor Interno las normas y formatos conforme a los cuales los servidores públicos del Tribunal deberán formular su declaración de situación patrimonial, así como los manuales e instructivos correspondientes, para su presentación a la Junta;
+
+> <small>(ADICIONADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+XX. Coordinar con las autoridades federales o locales que correspondan, las investigaciones, revisiones y auditorías relacionadas con la presentación, evolución e investigación de la situación patrimonial de los servidores públicos del Tribunal;
+
+> <small>(ADICIONADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+XXI. Recibir y resolver las inconformidades de los servidores públicos del Tribunal respecto del resultado de la investigación, expediente y resolución definitiva que deriven de la declaración de situación patrimonial;
+
+> <small>(ADICIONADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+XXII. Turnar a la Junta, en el caso de los servidores públicos a que se refieren las fracciones I a X del artículo 3 de la Ley, o a la Dirección de Responsabilidades, cuando se trate de los servidores públicos del Tribunal a que se refieren las fracciones XI a XIII y último párrafo del mismo artículo, los expedientes de análisis de la evolución e investigación patrimonial integrados para la instauración del procedimiento disciplinario correspondiente;
+
+> <small>(ADICIONADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+XXIII. Recabar, integrar y analizar la información para la implementación y actualización del Registro de Servidores Públicos Sancionados del Tribunal y expedir las constancias que correspondan en términos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+XXIV. Coordinar y supervisar la recepción, registro, seguimiento y control de obsequios, donativos o beneficios a que se refiere la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+
+> <small>(ADICIONADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+XXV. Asesorar a los servidores públicos del Tribunal en materia de declaración de situación patrimonial;
+
+> <small>(ADICIONADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+XXVI. Las demás que le confieran otras disposiciones jurídicas y el Pleno Jurisdiccional de la Sala Superior.
+
+> <small>(ADICIONADO, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+Sin perjuicio de su ejercicio directo por parte del Titular de la Coordinación General de Quejas, Denuncias, Responsabilidades y Registro Patrimonial, al Director de Quejas y Denuncias corresponderá el ejercicio de las atribuciones previstas en las fracciones I, XI y XIV, de este artículo, al Director de Responsabilidades, le corresponderá el ejercicio de las facultades establecidas en las fracciones II, V, VI, VII, VIII, XI y XIV del presente numeral y al Director de Registro Patrimonial las facultades establecidas en las fracciones XVI a XXV de este artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 99.
 
-Corresponde a la Dirección de Control y Evaluación:
+Corresponde a la Coordinación General de Control Interno y Auditoría del Desempeño:
 
-I. Proponer al Contralor las revisiones que en materia de control y evaluación se deban integrar al programa anual de actividades;
+> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
 
-II. Promover con un enfoque preventivo el establecimiento de acciones que coadyuven al mejoramiento y desarrollo administrativo de la gestión del Tribunal;
+I. Elaborar y coordinar la integración y ejecución del Programa Anual de Revisiones de Control Interno y Auditoría del Desempeño, darle seguimiento y evaluar sus avances;
 
-III. Apoyar y verificar el cumplimiento de las acciones de mejora derivadas de las revisiones de control que realice, así como elaborar los informes que correspondan;
+> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
 
-IV. Revisar el cumplimiento de los programas establecidos por las áreas administrativas;
+II. Proponer al Contralor Interno las revisiones que en materia de control interno y auditorías del desempeño se deban integrar al Programa Anual de Revisiones de Control Interno y Auditoría del Desempeño;
 
-V. Levantar y formalizar actas o minutas para establecer los compromisos de atención a las observaciones derivadas de la evaluación de programas y cumplimiento de disposiciones normativas, para corregir deficiencias y evitar su recurrencia, y
+> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
 
-> <small>(ADICIONADA, D.O.F. 3 DE ABRIL DE 2014)</small>
+III. Ordenar la práctica de revisiones de control interno y auditorías del desempeño a las Unidades Administrativas que integran el Tribunal, en base al Programa Anual de Revisiones de Control Interno y de Auditorías del Desempeño, y las que adicionalmente le indique el Pleno Jurisdiccional de Sala Superior o el Contralor Interno, así como elaborar los informes de resultados correspondientes;
 
-VI. Participar en los procesos que se lleven a cabo para la adquisición y arrendamiento de bienes y la contratación de obras y servicios de cualquier naturaleza, conforme a las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
 
-> <small>(ADICIONADA, D.O.F. 3 DE ABRIL DE 2014)</small>
+IV. Promover con un enfoque preventivo el establecimiento de acciones que coadyuven al mejoramiento y desarrollo administrativo de la gestión del Tribunal;
 
-VII. Intervenir como asesor en los Comités de Adquisiciones, Bienes Muebles y Obras Públicas del Tribunal, así como en los Subcomités y reuniones que deriven de los mismos a que sea convocado el Contralor, de conformidad con las disposiciones jurídicas aplicables, y
+> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
 
-> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2014)</small>
+V. Apoyar y verificar el cumplimiento de las acciones de mejora derivadas de las revisiones de control interno y de las auditorías del desempeño que realice, así como elaborar los informes que correspondan;
 
-VIII. Las demás que le confieran otras disposiciones jurídicas y el Pleno Jurisdiccional de la Sala Superior.
+> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+VI. Requerir a los titulares de las Unidades Administrativas la información y documentación relacionada con sus programas, con la finalidad de revisar su grado de cumplimiento;
+
+> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+VII. Levantar y formalizar actas circunstanciadas o minutas para establecer los compromisos de atención a las observaciones derivadas de la evaluación de programas y cumplimiento de disposiciones normativas, para corregir deficiencias y evitar su recurrencia;
+
+> <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+VIII. Participar en los procedimientos que se lleven a cabo para la adquisición y arrendamiento de bienes y la contratación de obras y servicios de cualquier naturaleza, conforme a las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+IX. Intervenir como asesor en los Comités de Adquisiciones, Arrendamientos y Servicios, de Bienes Muebles y de Obra Pública y Servicios Relacionados con las mismas y de Control Interno, así como en los Subcomités y reuniones que deriven de los mismos a que sea convocado el Contralor Interno, de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+X. Apoyar la implementación, actualización, supervisión y seguimiento del Sistema de Control Interno Institucional;
+
+> <small>(ADICIONADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+XI. Proponer al Contralor Interno la emisión de normativa de carácter general, lineamientos y políticas que rijan el funcionamiento del Sistema de Control Interno Institucional en las Unidades Administrativas del Tribunal;
+
+> <small>(ADICIONADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+XII. Realizar los estudios necesarios para la actualización de la normativa aplicable a las Unidades Administrativas del Tribunal y proponer, en su caso, de conformidad con las disposiciones aplicables, las modificaciones que correspondan;
+
+> <small>(ADICIONADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+XIII. Expedir y certificar las copias de documentos o constancias que existan en sus archivos, cuando proceda o a petición de autoridad competente; y
+
+> <small>(ADICIONADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+XIV. Las demás que le confieran otras disposiciones jurídicas y el Pleno Jurisdiccional de la Sala Superior.
+
+> <small>(ADICIONADO, D.O.F. 26 DE AGOSTO DE 2015)</small>
+
+Sin perjuicio de su ejercicio directo por parte del Titular de la Coordinación General de Control Interno y Auditoría del Desempeño, al Director de Control y Auditoría del Desempeño corresponderá el ejercicio de las atribuciones previstas en las fracciones I a XII de este artículo.
 
 ###### Artículo 100.
 
-Corresponde a la Dirección de Registro Patrimonial:
-
-I. Integrar, ordenar, actualizar y conservar el padrón de servidores públicos del Tribunal obligados a presentar declaración de situación patrimonial;
-
-II. Verificar que los servidores públicos del Tribunal obligados a presentar declaración patrimonial, cumplan en tiempo y forma con dicha obligación y emitir la declaración que corresponda en caso de incumplimiento;
-
-III. Coordinar, vigilar y controlar la recepción, registro y resguardo de las declaraciones de situación patrimonial de los servidores públicos del Tribunal obligados a presentarlas, así como analizar su situación patrimonial;
-
-IV. Proponer al Contralor las normas y formatos conforme a los cuales los servidores públicos deberán declarar su situación patrimonial, así como los manuales e instructivos correspondientes, para su presentación a la Junta;
-
-V. Coordinar con las autoridades federales o locales que correspondan, las investigaciones, revisiones y auditorías relacionadas con la presentación y evolución de la situación patrimonial de los servidores públicos del Tribunal;
-
-VI. Recibir y resolver las inconformidades de los servidores públicos respecto de las visitas o auditorías que se les practiquen en relación con su situación patrimonial;
-
-VII. Turnar a la Junta, en el caso de los servidores públicos a que se refieren las fracciones I a X del artículo 3 de la Ley, o a la Dirección de Quejas, Denuncias y Responsabilidades, cuando se trate de los servidores públicos a que se refieren las fracciones XI a XIII y último párrafo del mismo artículo, los expedientes de análisis de la evolución patrimonial integrados para la instauración del procedimiento disciplinario correspondiente;
-
-VIII. Recabar, integrar y analizar la información para la implementación y actualización del Registro de Servidores Públicos Sancionados del Tribunal y expedir las constancias que correspondan en términos de las disposiciones jurídicas aplicables;
-
-IX. Coordinar y supervisar la recepción, registro, seguimiento y control de obsequios, donativos o beneficios a que se refiere la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
-
-X. Asesorar a los servidores públicos del Tribunal en materia de declaración de situación patrimonial;
-
-XI. Promover la celebración y actualización de convenios con las autoridades federales y locales competentes, en materia de inhabilitación de servidores públicos y gestionar el intercambio de información, y
-
-XII. Las demás que le confieran otras disposiciones jurídicas y el Pleno Jurisdiccional de la Sala Superior.
+(DEROGADO, D.O.F. 26 DE AGOSTO DE 2015)
 
 ### Capítulo XX. De las Licencias y Suplencias
 
@@ -3056,3 +3168,11 @@ SÉPTIMO.- Se instruye a la Secretaría Operativa de Administración y a la Secr
 OCTAVO.- Para todo lo no previsto en el presente Acuerdo se estará a lo que resuelva el órgano competente del Tribunal Federal de Justicia Fiscal y Administrativa.
 
 NOVENO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE AGOSTO DE 2015.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Contraloría Interna por conducto de la Coordinación General de Quejas, Denuncias, Responsabilidades y Registro Patrimonial, será la encargada de dar cumplimiento al Convenio de Colaboración celebrado entre la Secretaría de la Función Pública y el Tribunal Federal de Justicia Fiscal y Administrativa en materia de registro y seguimiento de la evolución patrimonial de los servidores públicos de éste, de fecha 29 de abril de 2008, modificado mediante el diverso de fecha 27 de abril de 2009, y será la encargada de solicitar a esa Secretaría toda la información que requiera respecto de las declaraciones de situación patrimonial, hasta en tanto se mantenga vigente el citado Convenio.
+
+TERCERO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
