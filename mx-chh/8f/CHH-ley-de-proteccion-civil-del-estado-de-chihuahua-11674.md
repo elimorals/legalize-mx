@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-civil-del-estado-de-chihuahua-11674"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-19"
-last_updated: "2014-07-30"
+last_updated: "2015-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL FOLLETO ANEXO DEL P.O. DE 26 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2015 (ABROGADA).
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 19 de junio de 1996.
 
@@ -657,7 +659,7 @@ La preparación específica de cada grupo voluntario deberá complementarse con 
 
 Es obligatorio para los grupos voluntarios:
 
-l. Registrarse y obtener en su caso, la autorización correspondiente ante la Coordinación Estatal de Protección Civil y la Unidad Municipal de Protección Civil, quienes llevarán un registro de grupos voluntarios que deberá estar actualizado;
+I. Registrarse y obtener en su caso, la autorización correspondiente ante la Coordinación Estatal de Protección Civil y la Unidad Municipal de Protección Civil, quienes llevarán un registro de grupos voluntarios que deberá estar actualizado;
 
 II. Colaborar con la Coordinación Estatal de Protección Civil, mediante la participación en las actividades de prevención y auxilio a la población ante fenómenos destructivos de origen natural o humano;
 
@@ -1246,3 +1248,17 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 30 DE JULIO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE AGOSTO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado cuenta con un plazo de ciento ochenta días, a partir de la publicación del presente Decreto, para expedir la reglamentación correspondiente.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de Protección Civil del Estado de Chihuahua, publicada en el Periódico Oficial del Estado, el 19 de junio de 1996, y cualquier disposición estatal en vigor que se oponga a la presente Ley.
