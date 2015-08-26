@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-estatal-de-seguridad-publica-de-oaxaca-83478"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-20"
-last_updated: "2015-05-07"
+last_updated: "2015-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2015.
+> <small>N. DE E. DE CONFORMIDAD CON LO ORDENADO POR LA SOBERANÍA CONSTITUCIONAL EN EL DECRETO NÚM. 1273 Y DE ACUERDO CON EL ARTÍCULO 53, FRACCIÓN VI, SEGUNDO PÁRRAFO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, QUE FACULTA AL PODER EJECUTIVO, PARA QUE, EN CASO DE QUE EL CONGRESO DEL ESTADO NO RESUELVA EN EL PLAZO IMPRORROGABLE DE QUINCE DÍAS HÁBILES, ESTABLECIDO EN LA FRACCIÓN CITADA, SE TENDRÁN COMO APROBADAS LAS OBSERVACIONES QUE FUERON PRESENTADAS POR EL EJECUTIVO, PARA SURTIR INMEDIATAMENTE LOS EFECTOS CONDUCENTES DE PROMULGACIÓN Y PUBLICACIÓN, POR LO QUE OBEDECIENDO AL MANDATO CONSTITUCIONAL, EN CONSECUENCIA SE PUBLICA EL CITADO DECRETO EN EL P.O. 26 DE AGOSTO DE 2015.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2015.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 20 de septiembre del 2011.
 
@@ -305,11 +307,11 @@ d) Centro de Investigación y Seguridad Nacional; y
 
 e) Secretaría de Seguridad Pública.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE AGOSTO DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
+Asimismo, el Defensor de los Derechos Humanos del Pueblo de Oaxaca y hasta ocho presidentes municipales de los Ayuntamientos con mayor población, con mayor incidencia delictiva o que cuenten con destinos turísticos, y que cumplan con lo establecido en la Ley General y la Ley, en lo relativo a la conformación de sus Instituciones Policiales, serán invitados permanentes de este Consejo Estatal, con derecho a voz, pero sin voto. El Consejo Estatal podrá invitar, con derecho a voz, pero sin derecho a voto, por la naturaleza de los asuntos a tratar, a las personas, instituciones y representantes de la sociedad civil que puedan exponer conocimientos y experiencias para el cumplimiento de los objetivos de la seguridad pública.
 
-Asimismo el titular de la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, será invitado permanente de este Consejo Estatal. El Consejo Estatal podrá invitar, con derecho a voz, pero sin derecho a voto, por la naturaleza de los asuntos a tratar, a las personas, instituciones y representantes de la sociedad civil que puedan exponer conocimientos y experiencias para el cumplimiento de los objetivos de la seguridad pública.
+(El segundo párrafo del apartado B, del artículo 16, se publica con las observaciones realizadas por el Poder Ejecutivo del Estado, por oficio fechado el 31 de julio de 2015 y recibido en el H. Congreso del Estado, el mismo día, de conformidad con lo dispuesto en el segundo párrafo de la fracción VI del artículo 53, de la Constitución Política del Estado Libre y Soberano de Oaxaca)
 
 Los cargos en el Consejo Estatal serán honoríficos, excepto el del Secretario Ejecutivo.
 
@@ -3212,3 +3214,13 @@ PRIMERO. El presente Decreto se publicará en el Periódico Oficial del Estado y
 SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 TERCERO. Se faculta a las Secretarías de Finanzas y de Administración, en el ámbito de sus respectivas competencias, para realizar las adecuaciones programáticas y presupuestales que deriven de esta Ley.
+
+P.O. 26 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
+
+(El artículo primero transitorio, se publica con las observaciones realizadas por el Poder Ejecutivo del Estado, por oficio fechado el 31 de julio de 2015 y recibido en el H. Congreso del Estado, el mismo día, de conformidad con lo dispuesto en el segundo párrafo de la fracción VI del Articulo 53, de la Constitución Política del Estado Libre y Soberano de Oaxaca)
+
+SEGUNDO. El Consejo Estatal de Seguridad Pública contará con un plazo de treinta días hábiles, contados a partir de la entrada en vigor de éste Decreto, para la elección de los presidentes municipales de los Ayuntamientos con mayor población, con mayor incidencia delictiva o que cuenten con destinos turísticos, y que cumplan con lo establecido en la Ley General del Sistema Nacional de Seguridad Pública y la Ley del Sistema Estatal de Seguridad Pública de Oaxaca, en lo relativo a la conformación de sus Instituciones Policiales, señalados en el segundo párrafo del apartado B del artículo 16, del presente Decreto.
+
+(El artículo segundo transitorio, se publica con las observaciones realizadas por el Poder Ejecutivo del Estado por oficio fechado el 31 de julio de 2015 y recibido en el H. Congreso del Estado, el mismo día, de conformidad con lo dispuesto en el segundo párrafo de la fracción VI del artículo 53, de la Constitución Política del Estado Libre y Soberano de Oaxaca)
