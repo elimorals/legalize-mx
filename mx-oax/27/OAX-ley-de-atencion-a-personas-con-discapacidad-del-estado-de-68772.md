@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-atencion-a-personas-con-discapacidad-del-estado-de-68772
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-25"
-last_updated: "2015-08-24"
+last_updated: "2015-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ LEY DE ATENCIÓN A PERSONAS CON DISCAPACIDAD DEL ESTADO DE OAXACA
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 24 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2015 (DEROGADA).
+
+> <small>N. DE E. EL DECRETO NÚMERO 1268 PUBLICADO EN EL P.O. DE 26 DE AGOSTO DE 2015, NO APLICA AL ARTICULADO DEL PRESENTE ORDENAMIENTO.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 25 de abril de 2009.
 
