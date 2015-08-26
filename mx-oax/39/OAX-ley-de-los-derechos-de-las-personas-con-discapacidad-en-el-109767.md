@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-las-personas-con-discapacidad-en-el-1097
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-24"
-last_updated: "2015-08-24"
+last_updated: "2015-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO ORDENADO POR LA SOBERANÍA CONSTITUCIONAL EN EL DECRETO NÚM. 1268 Y DE ACUERDO CON LOS ARTÍCULOS 79, FRACCIÓN II Y 53 FRACCIÓN VI, PÁRRAFO SEGUNDO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, QUE ESTABLECEN LAS FACULTADES DE VETO AL PODER EJECUTIVO Y DE PROMULGAR Y PUBLICAR LA PARTE VETADA, POR LO QUE OBEDECIENDO AL MANDATO CONSTITUCIONAL, TENGO A BIEN PUBLICAR LAS PARTES VETADAS, DEL CITADO DECRETO POR EL QUE SE CREA LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA, EN CONSECUENCIA SE PUBLICA EL CITADO DECRETO EN EL P.O. 26 DE AGOSTO DE 2015.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2015.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 24 de agosto de 2015.
 
@@ -221,7 +223,15 @@ Los sectores público y privado podrán coadyuvar en la construcción de una cul
 
 ### CAPÍTULO I. IGUALDAD ANTE LA LEY
 
-(El artículo 10, fue observado por el titular del Poder Ejecutivo, de conformidad con el artículo 53, fracciones III y VI y 79, fracción II de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio fechado el 31 de julio de 2015 y recibido en el Poder Legislativo el mismo día, mes y año).
+> <small>(REFORMADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE AGOSTO DE 2015)</small>
+
+###### Artículo 10.
+
+Las personas con discapacidad, de todas las edades, tienen derecho al reconocimiento de su personalidad jurídica en igualdad de condiciones que las demás personas. Este reconocimiento incluye la capacidad jurídica de goce y ejercicio en términos de la legislación civil aplicable.
+
+En la interdicción, el juez deberá establecer, según la diversidad funcional del caso concreto, en qué tipo de actos la persona con discapacidad goza de plena autonomía en el ejercicio de su capacidad jurídica y en qué otros deberá intervenir el tutor para otorgarle asistencia, las restricciones deberán ser las menos posibles y estrictamente indispensables para la integridad física y mental de la persona, fomentando su autotutela y autonomía.
+
+[El artículo 10, se pública con las observaciones realizadas por el titular del Poder Ejecutivo del Estado, de conformidad con lo dispuesto en el párrafo segundo de la fracción VI del artículo 53 de la Constitución Política del Estado Libre y Soberano de Oaxaca].
 
 ###### Artículo 11.
 
@@ -569,7 +579,11 @@ El Consejo se integrará por:
 
 I. El Gobernador del Estado, quien lo presidirá;
 
-(La fracción II del artículo 47, fue observada por el titular del Poder Ejecutivo, de conformidad con el artículo 53, fracciones III y VI, y 79, fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio fechado el 31 de julio de 2015 y recibido en el Poder Legislativo el mismo día, mes y año).
+> <small>(REFORMADA [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE AGOSTO DE 2015)</small>
+
+II. El o la Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca, quien fungirá como Secretario Técnico;
+
+[La fracción II del artículo 47, se publica con las observaciones realizadas por el titular del Poder Ejecutivo con lo dispuesto en el párrafo segundo de la fracción VI del artículo 53 de la Constitución Política del Estado Libre y Soberano de Oaxaca].
 
 III. Los vocales, que serán los titulares de las siguientes entidades y dependencias:
 
@@ -591,7 +605,17 @@ h. La Dirección General de Población de Oaxaca;
 
 i. El titular de la Secretaría de Desarrollo Social y Humano; y
 
-(El inciso j) de la fracción III, del artículo 47, fue observado por el titular del Poder Ejecutivo de conformidad con el artículo 53, fracciones III y VI, y 79, fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio fechado el 31 de julio de 2015 y recibido en el Poder Legislativo el mismo día, mes y año).
+> <small>(REFORMADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE AGOSTO DE 2015)</small>
+
+j. La Coordinación para la Atención de los derechos Humanos, y
+
+[El inciso j de la fracción III del artículo 47, se publica con las observaciones realizadas por el titular del Poder Ejecutivo con lo dispuesto en el párrafo segundo de la fracción VI del artículo 53 de la Constitución Política del Estado Libre y Soberano de Oaxaca].
+
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE AGOSTO DE 2015)</small>
+
+k. Seis representantes de organizaciones de la sociedad civil, de personas con discapacidad o que trabajen con personas con discapacidad, constituidas legalmente y de experiencia probada en la defensa de los derechos humanos.
+
+[El inciso K de la fracción III del artículo 47, se publica con las observaciones realizadas por el titular del Poder Ejecutivo con lo dispuesto en el párrafo segundo de la fracción VI del artículo 53 de la Constitución Política del Estado Libre y Soberano de Oaxaca].
 
 Los titulares integrantes del Consejo anteriormente señalado podrán nombrar, cuando sea necesario a su suplente, el cual deberá ser de nivel jerárquico inmediato.
 
@@ -800,5 +824,11 @@ LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ
 AL C.
 
 NOTA. Las presentes firmas corresponden a las partes no vetadas, por el Titular del Poder Ejecutivo, del Decreto Núm 1268 aprobado por la Sexagésima Segunda Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, por el cual se crea la Ley de los Derechos de las Personas con Discapacidad en el Estado de Oaxaca, lo anterior, de conformidad con el primer párrafo de la fracción VI, del artículo 53 en relación con el artículo 79, fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+
+N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 26 DE AGOSTO DE 2015.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
 
 ### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES Y SANCIONES
