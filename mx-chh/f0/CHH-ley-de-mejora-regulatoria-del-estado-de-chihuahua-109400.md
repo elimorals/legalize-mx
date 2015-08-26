@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-mejora-regulatoria-del-estado-de-chihuahua-109400"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-08"
-last_updated: "2015-08-08"
+last_updated: "2015-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY DE MEJORA REGULATORIA DEL ESTADO DE CHIHUAHUA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE AGOSTO DE 2015 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE MEJORA REGULATORIA DEL ESTADO DE CHIHUAHUA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE AGOSTO DE 2015.</small>
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 8 de agosto de 2015.
 
@@ -83,7 +83,9 @@ X. Establecer los mecanismos de coordinación y participación entre los sujetos
 
 XI. Promover e impulsar la participación social en la mejora regulatoria.
 
-XII. Coadyuvar en la eficiencia de la administración pública.
+> <small>(F. DE E., P.O. 26 DE AGOSTO DE 2015)</small>
+
+XII. Coadyuvar en la eficiencia de la administración pública, eliminando la discrecionalidad de los actos de autoridad.
 
 ###### Artículo 3.
 
@@ -754,29 +756,3 @@ LIC. CÉSAR HORACIO DUARTE JÁQUEZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. MARIO TREVIZO SALAZAR
-
-###### Artículo 9.
-
-El Consejo estará integrado de la siguiente manera:
-
-I. Presidente, que será el Titular del Ejecutivo del Estado de Chihuahua, quien en sus ausencias será suplido por el Secretario General de Gobierno, con voz y voto.
-
-II. Vicepresidente, que será el Secretario de Economía, con voz y voto.
-
-III. Un Secretario Técnico, que será el Titular de la Comisión Estatal de Mejora Regulatoria, con voz pero sin voto.
-
-IV. Un representante de la Secretaría General de Gobierno, con voz y voto.
-
-V. Un representante de la Secretaría de la Contraloría, con voz y voto.
-
-VI. Un representante de la Consejería Jurídica, con voz y voto.
-
-VII. Un representante del H. Congreso del Estado, que será quien presida la Comisión de Economía, Turismo y Servicios, con voz y voto.
-
-VIII. Un representante por cada uno de los Consejos Coordinadores Empresariales, de Chihuahua y Juárez, con voz y voto.
-
-IX. Los Presidentes Municipales que representen las Comisiones Municipales, a invitación del Presidente, con voz, pero sin voto.
-
-Los cargos dentro del Consejo serán de carácter honorífico.
-
-El Presidente del Consejo podrá invitar a las personas o representantes de organizaciones cuya participación y opiniones considere pertinentes y oportunas de acuerdo con los temas a analizar, los cuales tendrán solo derecho a voz.
