@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2015-07-14"
+last_updated: "2015-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE AGOSTO DE 2015.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -625,6 +625,10 @@ b) Nombre del diputado que haya sido acreditado por la dirigencia de su partido 
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
+Artículo 67 BIS-10.- Los diputados que no se inscriban o dejen de pertenecer a un Grupo Parlamentario sin integrarse a otro existente, serán considerados como diputados sin partido.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DEL 2003)</small>
+
 ###### Artículo 67 Bis
 
 10.- Los diputados que no se inscriban o dejen de pertenecer a un Grupo Parlamentario sin integrarse a otro existente, serán considerados como diputados sin partido.
@@ -1021,7 +1025,9 @@ XXII. Protección Civil;
 
 XXIII. Para la Protección e Integración al Desarrollo de las Personas con Discapacidad;
 
-XXIV. Desarrollo Social;
+> <small>(REFORMADA, G.G. 26 DE AGOSTO DE 2015)</small>
+
+XXIV. Desarrollo y Apoyo Social;
 
 XXV. De Límites Territoriales del Estado de México y sus Municipios;
 
@@ -2056,3 +2062,9 @@ PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente decreto entrará en vigor a los cinco días siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto, perdiendo vigor al momento de esta publicación.
+
+G.G. 26 DE AGOSTO DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta de Gobierno"
