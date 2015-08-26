@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-turismo-del-estado-de-michoacan-de-ocampo-81262"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-03"
-last_updated: "2014-12-15"
+last_updated: "2015-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2015.
 
 Ley publicada en la Quinta Sección al Periódico Oficial del Estado de Michoacán, el martes 3 de mayo de 2011.
 
@@ -183,9 +183,17 @@ XVIII. Coadyuvar con el Ejecutivo Federal en materia de clasificación de establ
 
 XIX. Vigilar el cumplimiento de esta Ley y demás disposiciones reglamentarias que de ella deriven, en lo que se refiere a los requisitos de operación de los prestadores de servicios turísticos;
 
-XX. Determinar e imponer sanciones por violaciones a esta Ley y a las disposiciones reglamentarias; y,
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2015)</small>
 
-XXI. Las demás previstas en éste y otros ordenamientos.
+XX. Promover e impulsar las acciones necesarias en materia presupuestal, con el objeto de garantizar la permanencia y el fortalecimiento de los denominados Pueblos Mágicos en el Estado.
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2015)</small>
+
+XXI. Determinar e imponer sanciones por violaciones a esta Ley y a las disposiciones reglamentarias; y,
+
+> <small>(ADICIONADA, P.O. 26 DE AGOSTO DE 2015)</small>
+
+XXII. Las demás previstas en éste y otros ordenamientos.
 
 ### CAPÍTULO III. DE LAS DEPENDENCIAS CONCURRENTES EN MATERIA TURÍSTICA
 
@@ -1240,3 +1248,7 @@ SEGUNDO.- El Congreso del Estado, dentro de los noventa días naturales siguient
 P.O. 15 DE DICIEMBRE DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 26 DE AGOSTO DE 2015.
+
+ÚNICO. El presente Decreto, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
