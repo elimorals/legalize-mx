@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-desarrollo-95429"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-30"
-last_updated: "2013-03-30"
+last_updated: "2015-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO Y TURISMO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2015.
 
 Reglamento publicado en el Suplemento H del Periódico Oficial del Estado de Tabasco, el sábado 30 de marzo de 2013.
 
@@ -105,6 +105,10 @@ Para el estudio, planeación y despacho de los asuntos de su competencia, la Sec
 
 1.3. Dirección General de Administración.
 
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2015)</small>
+
+1.3.1. Dirección de Recursos Humanos, Materiales y Financieros
+
 1.4. Unidad de Asuntos Jurídicos y de Acceso a la Información.
 
 1.5. Unidad de Mejora Regulatoria
@@ -143,6 +147,10 @@ Para el estudio, planeación y despacho de los asuntos de su competencia, la Sec
 
 4.3. Dirección de Comercio.
 
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2015)</small>
+
+4.4. Unidad de Fideicomisos.
+
 5. Órganos Desconcentrados Adscritos.
 
 5.1. Servicio Estatal de Empleo.
@@ -153,9 +161,11 @@ Para el estudio, planeación y despacho de los asuntos de su competencia, la Sec
 
 6.2. Central de Abasto de Villahermosa.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 8.
 
-Todas las áreas donde se realicen proyectos que contemplen aspectos legales, deberán coordinarse oportunamente con la Dirección de Asuntos Jurídicos y de Acceso a la Información; aportando los antecedentes, información y documentación necesaria para su debida intervención en la revisión, análisis, elaboración y solución de los mismos.
+Todas las áreas donde se realicen proyectos que contemplen aspectos legales, deberán coordinarse oportunamente con la Unidad de Asuntos Jurídicos y de Acceso a la Información; aportando los antecedentes, información y documentación necesaria para su debida intervención en la revisión, análisis, elaboración y solución de los mismos.
 
 ###### Artículo 9.
 
@@ -337,49 +347,119 @@ X. Promover la atracción e instalación en el Estado de empresas tecnológicas 
 
 XI. Las demás que señalen las disposiciones legales, administrativas y las que le encomiende el Secretario.
 
-### CAPÍTULO CUARTO. DE LA DIRECCION DE TECNOLOGIAS DE LA INFORMACION Y COMUNICACION
+### CAPÍTULO CUARTO
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE AGOSTO DE 2015)</small>
+
+DE LA DIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN Y LA COMUNICACIÓN
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 17.
 
-A la Dirección de Tecnologías de la Información y Comunicación, le corresponde el ejercicio de las siguientes atribuciones:
+A la Dirección de Tecnologías de la Información y la Comunicación, le corresponde el ejercicio de las siguientes atribuciones:
 
-I. Establecer un vínculo permanente con la Coordinación General de Comunicación Social y Relaciones Públicas;
+I. Supervisar, integrar y mantener actualizado el inventario de la infraestructura relacionada con tecnologías de información y comunicación incluyendo el software adquirido y sistemas desarrollados de la Secretaría;
 
-II. Diseñar las políticas y estrategias para la óptima difusión de actividades, programas, proyectos y eventos de la Secretaría;
+II. Coordinar el mantenimiento preventivo y correctivo de los equipos de cómputo, software, telecomunicaciones, periféricos, conmutadores, sistemas de aplicación y bases de datos de la Secretaría;
 
-III. Mantener informado al Secretario, a la Secretaría Particular, a la Secretaría Técnica, a la Coordinación, Subsecretarías y Direcciones de la Secretaría, de la información publicada en los medios de comunicación, relacionadas con el sector;
+III. Establecer la vialidad operativa para la implantación de los sistemas operativos, aplicaciones ofimáticas, manejadores de base de datos, herramientas para desarrollo de software, redes y configuración de los equipos de procesamiento de datos de la Secretaría;
 
-IV. Canalizar las demandas ciudadanas detectadas en los medios de comunicación, a los titulares de las diversas áreas de la Secretaría, que corresponda atenderla;
+IV. Autorizar la publicación de archivos de la página WEB de la Secretaría;
 
-V. Organizar, previa indicación del Secretario, las ruedas de prensa y coordinar las entrevistas que los medios de comunicación realicen con el Secretario o funcionarios de la Secretaría;
+V. Aprobar hojas de estilos para sistemas desarrollados en la Secretaría previo dictamen de la Dirección General de Tecnologías de la Información y la Comunicación, de la Secretaría de Administración;
 
-VI. Emitir a través de la Coordinación General de Comunicación Social y Relaciones Públicas, los boletines y comunicados sobre las actividades, programas, proyectos y eventos de la Secretaría, previa autorización del Secretario;
+VI. Implementar la integración de la documentación de los bienes de tecnologías;
 
-VII. Diseñar las estrategias para elaborar el material de difusión que se genere para los medios de comunicación, así como del material de apoyo promocional para los eventos y exposiciones de la Secretaría;
+VII. Diseñar y coordinar la impresión de credenciales para el personal de la Secretaría;
 
-VIII. Coordinar la edición de las publicaciones impresas de la Secretaría;
+VIII. Instruir en general al departamento de sistemas en actividades que a éste competan;
 
-IX. Integrar, coordinar y mantener actualizado el Banco de Información y de imágenes de los eventos en que participe la Secretaría;
+IX. Aprobar movimientos de alta relevancia en servidores de aplicaciones;
 
-X. Acordar con la Dirección General de Administración, los apoyos necesarios para la realización de las actividades encomendadas;
+X. Autorizar la implementación de software de sistemas previo dictamen técnico de la Dirección General de Tecnologías de la Información y la Comunicación, de la Secretaría de Administración;
 
-XI. Alimentar con información, fotografías y videos, el portal de internet y las redes sociales de las cuentas respectivas de la Secretaría;
+XI. Aprobar las modificaciones a las bases de datos en el ambiente de producción;
 
-XII. Propiciar las condiciones y estructura necesarias para el trabajo técnico de la Secretaría, fungiendo como soporte informativo y enlace con las unidades y áreas que la conforman;
+XII. Autorizar el desarrollo de sistemas con la participación y aprobación de la Dirección General de Tecnologías de la Información y la Comunicación, de la Secretaría de Administración;
 
-XIII. Recabar, actualizar y proporcionar en forma ágil y eficaz la información necesaria para la elaboración de los directorios de las diversas dependencias, empresas, organismos públicos y privados relacionados con el sector;
+XIII. Recibir y resguardar el respaldo mensual de bases de datos que le proporcione el Departamento de Sistemas;
 
-XIV. Llevar una agenda actualizada de las giras y eventos del Secretario y así como el calendario de eventos de las diferentes áreas de la Secretaría y su participación en forma conjunta con otras instituciones o dependencias;
+XIV. Proponer y autorizar cursos de capacitación de los sistemas de la Secretaría;
 
-XV. Establecer diálogo permanente con los medios de comunicación, tales como radio, televisión y prensa;
+XV. Asignar equipos de cómputo para el personal de la Secretaría;
 
-XVI. Elaborar un archivo de todos los expedientes de los eventos que realice la Secretaría o en los que participe;
+XVI. Solicitar y en su caso aprobar en coordinación con el área correspondiente, la integración de las solicitudes de compra de equipos de cómputo al anteproyecto del presupuesto de egresos;
 
-XVII. Determinar las necesidades del material promocional o de difusión para los eventos que la Secretaría realice;
+XVII. Revisar y aprobar el anteproyecto del presupuesto de la Dirección de Tecnologías de la Información y Comunicación;
 
-XVIII. Distribuir las publicaciones y material de difusión de la Secretaría; y
+XVIII. Participar en la elaboración del anteproyecto de presupuesto;
 
-XIX. Las demás que le señalen las disposiciones legales aplicables y las que le encomiende el Secretario.
+XIX. Aprobar la inclusión en el anteproyecto del presupuesto de la lista de compra de soportes de software y licencias necesarias para el óptimo funcionamiento de los servidores y aplicaciones de la Secretaría;
+
+XX. Aprobar la inclusión de la lista de compra de soportes y licencias para las bases de datos en el anteproyecto de presupuesto;
+
+XXI. Autorizar la participación del Departamento de Soporte Técnico con dictámenes en proceso de licitación;
+
+XXII. Apoyar y autorizar el préstamo (sic) cañones y equipos de cómputo;
+
+XXIII. Dictaminar el cambio de equipo de cómputo en mal estado y obsoleto;
+
+XXIV. Autorizar y conducir la instalación de nuevos nodos de red;
+
+XXV. Aprobar a los servidores públicos a su cargo comisiones al exterior del edificio de la Secretaría;
+
+XXVI. Autorizar la inserción de usuarios y equipos al dominio, así como la creación de cuentas FTP y VPN;
+
+XXVII. Autorizar usuarios con acceso a las oficinas de la Dirección y Acceso a Centro de Datos;
+
+XXVIII. Coordinar el levantamiento, integrar y mantener actualizado el inventario de la infraestructura relacionada con tecnologías de información y comunicaciones, incluyendo el software adquirido y sistemas desarrollados de la Secretaría;
+
+XXIX. Conducir y supervisar el mantenimiento preventivo y correctivo de los equipos de cómputo, software, telecomunicaciones, periféricos conmutadores, sistemas de aplicación y base de datos de la Secretaría;
+
+XXX. Establecer la viabilidad operativa, para la implantación de los sistemas operativos, aplicaciones ofimáticas, manejadores de base de datos, herramientas para el desarrollo de software, redes y configuración de los equipos de procesamiento de datos de la Secretaria;
+
+XXXI. Promover y controlar las condiciones ambientales para el buen funcionamiento de los equipos informáticos y de apoyo en la Secretaría, así como observar el cumplimiento de su mantenimiento;
+
+XXXII. Mantener continua comunicación con todas y cada una de las áreas y unidades administrativas de la Secretaría con el propósito de establecer y mantener intercambios de información y garantizar el óptimo funcionamiento de estas;
+
+XXXIII. Establecer un vínculo permanente con la Coordinación General de Comunicación Social y Relaciones Públicas;
+
+XXXIV. Diseñar las políticas y estrategias para la óptima difusión de actividades, programas, proyectos y eventos de la Secretaría;
+
+XXXV. Mantener informado al Secretario y a las Unidades Administrativas que conforman la Secretaría, de la información publicada en los medios de comunicación, relacionadas con el sector;
+
+XXXVI. Canalizar las demandas ciudadanas detectadas en los medios de comunicación, a los titulares de las diversas áreas de la Secretaría, que corresponda atenderla;
+
+XXXVII. Organizar, previa indicación del Secretario, las ruedas de prensa y coordinar las entrevistas que los medios de comunicación realicen con el Secretario o funcionarios de la Secretaría;
+
+XXXVIII. Emitir a través de la Coordinación General de Comunicación Social y Relaciones Públicas, los boletines y comunicados sobre las actividades, programas, proyectos y eventos de la Secretaría, previa autorización del Secretario;
+
+XXXIX. Diseñar las estrategias para elaborar el material de difusión que se genere para los medios de comunicación, así como del material de apoyo promocional para los eventos y exposiciones de la Secretaría;
+
+XL. Coordinar la edición de las publicaciones impresas de la Secretaría;
+
+XLI. Integrar, coordinar y mantener actualizado el Banco de Información y de imágenes de los eventos en que participe la Secretaría;
+
+XLII. Acordar con la Dirección General de Administración, los apoyos necesarios para la realización de las actividades encomendadas;
+
+XLIII. Alimentar con información, fotografías y videos, el portal de internet y las redes sociales de las cuentas respectivas de la Secretaría;
+
+XLIV. Propiciar las condiciones y estructura necesarias para el trabajo técnico de la Secretaría, fungiendo como soporte informativo y enlace con las unidades y áreas que la conforman;
+
+XLV. Recabar, actualizar y proporcionar en forma ágil y eficaz la información necesaria para la elaboración de los directorios de las diversas dependencias, empresas, organismos públicos y privados relacionados con el sector;
+
+XLVI. Llevar una agenda actualizada de las giras y eventos del Secretario y así como el calendario de eventos de las diferentes áreas de la Secretaría y su participación en forma conjunta con otras instituciones o dependencias;
+
+XLVII. Establecer diálogo permanente con los medios de comunicación, tales como radio, televisión y prensa;
+
+XLVIII. Elaborar un archivo de todos los expedientes de los eventos que realice la Secretaría o en los que participe;
+
+XLIX. Determinar las necesidades del material promocional o de difusión para los eventos que la Secretaría realice;
+
+L. Distribuir las publicaciones y material de difusión de la Secretaría, y;
+
+Ll. Las demás que el Secretario le instruya y establezca la normatividad aplicable.
 
 ###### Artículo 18.
 
@@ -393,9 +473,49 @@ III. Departamento de Soporte Técnico.
 
 ### CAPÍTULO QUINTO. DE LA UNIDAD DE MEJORA REGULATORIA
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 19.
 
-La Unidad de Mejora Regulatoria, dependerá directamente del Secretario y estará a cargo del Director, a quien le corresponde el ejercicio de las facultades que establece la Ley de Mejora Regulatoria del Estado, el reglamento de dicha ley, el Reglamento Interior de la Unidad y las demás disposiciones legales aplicables en la materia
+La Unidad de Mejora Regulatoria, dependerá directamente del Secretario y estará a cargo del Director, a quien le corresponde el ejercicio de las facultades que establece la Ley de Mejora Regulatoria para el Estado de Tabasco, el Reglamento de dicha ley, el presente Reglamento Interior y las demás disposiciones legales aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2015)</small>
+
+###### Artículo 19 Bis.
+
+A la Unidad de Mejora Regulatoria, le corresponde el ejercicio de las siguientes atribuciones:
+
+I. Integrar el consolidado de los programas anuales de mejora regulatoria, los proyectos de regulación y los estudios, de alcance Estatal y Municipal, para someterlos a la consideración del Secretario;
+
+II. Presentar el proyecto de lineamientos generales para la elaboración y presentación de los estudios que le presente el área operativa responsable, para someterlo a la consideración del Secretario;
+
+III. Aprobar el proyecto de instructivo para la elaboración de los estudios que le presente el área operativa competente para su expedición;
+
+IV. Proponer el proyecto de mecanismos de medición de avances en materia de mejora regulatoria y los indicadores de desempeño de la Unidad que le presente el área operativa responsable, para someterlos a la consideración del Secretario;
+
+V. Presentar el proyecto de reformas a los criterios para la revisión de proyectos de regulación que le presente el área operativa responsable, para someterlos a la consideración del Secretario;
+
+VI. Aprobar y suscribir, en su caso, y previo a la elaboración del dictamen respectivo, la propuesta de observaciones sobre los proyectos de regulación y los estudios que las dependencias hubieren enviado al Secretario;
+
+VII. Aprobar y suscribir los dictámenes recaídos a los proyectos de regulación y los estudios que hubieren enviado las dependencias a la Unidad, para su presentación al Secretario;
+
+VlII. Presentar al Secretario el consolidado de dictámenes recaídos a los proyectos de regulación y sus estudios, que hubieren presentado las dependencias, previo conocimiento de las mismas para que, en su caso, realicen las adecuaciones propuestas por la Unidad;
+
+IX. Presentar el informe Anual de Avance para su presentación al Secretario;
+
+X. Suscribir, a nombre de la Secretaría, los proyectos de convenios de colaboración y coordinación interinstitucional con las dependencias del gobierno federal, estatal y/o las comisiones municipales, así como con las organizaciones del sector empresarial, laboral y académico, que le presente el área operativa responsable, para someterlos a la consideración del Secretario;
+
+XI. Conocer el análisis y diagnóstico que del marco regulatorio realice el área operativa competente, y presentar el informe correspondiente al Titular de la dependencia respectiva, y al Titular de la Secretaría;
+
+XII. Ordenar la realización de revisiones de procesos de trámites relacionados con actividades o sectores económicos específicos, para su evaluación por parte del Titular de la Secretaría;
+
+XIII. Aprobar los proyectos de lineamientos, instructivos, manuales, reglas y otras disposiciones administrativas, que le presente el área operativa responsable, para dar cumplimiento a las disposiciones de la Ley y su Reglamento;
+
+XIV. Aprobar y expedir el Manual de Organización y Descripción de Puestos, y el de Procedimientos de la Unidad;
+
+XV. Definir los mecanismos mediante los cuales, los ciudadanos podrán emitir sus comentarios, sugerencias y opiniones a los proyectos de regulación propuestos por las dependencias, y elaborar el informe correspondiente para su presentación al Secretario;
+
+La Unidad de Mejora Regulatoria, se apoyara de las unidades que se le designen de acuerdo a las plazas autorizadas por la Secretaría de Administración y que el presupuesto de la Secretaría le permita, cumpliendo siempre con las medidas de austeridad y racionalidad que en su momento apliquen para la administración Pública del Poder Ejecutivo.
 
 ### CAPÍTULO SEXTO. DEL CENTRO DE DOCUMENTACION ANALlSIS Y ESTUDIOS ECONÓMICOS
 
@@ -517,7 +637,9 @@ II. Departamento de Transparencia.
 
 A la Dirección General de Administración, le corresponde el ejercicio de las siguientes atribuciones:
 
-I. Formular de acuerdo con la Dirección de Planeación, los proyectos de presupuestos por programas de la Secretaría, así como gestionar la ampliación de los recursos que sean necesarios para el adecuado desarrollo de las funciones asignadas a cada Unidad Administrativa;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2015)</small>
+
+I. Formular de acuerdo con el Centro de Documentación, Análisis y Estudios Económicos, los proyectos de presupuestos por programas de la Secretaría, así como gestionar la ampliación de los recursos que sean necesarios para el adecuado desarrollo de las funciones asignadas a cada Unidad Administrativa;
 
 II. Optimizar el uso y aplicación de los recursos humanos, financieros y materiales asignados a la Secretaría;
 
@@ -567,13 +689,79 @@ XXIV. En coordinación con la Secretaría de Contraloría del Estado, realizar l
 
 XXV. Las demás que le señalen las disposiciones legales, administrativas y las que le encomiende el Secretario.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 24.
 
-Para el desempeño de sus funciones la Dirección General de Administración, contará con el apoyo de los siguientes departamentos:
+Para el desempeño de sus funciones la Direccion General de Administración, contará con la Dirección de Recursos Humanos, Materiales y Financieros.
 
-I. Departamento de Recursos Financieros;
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2015)</small>
 
-II. Departamento de Recursos Humanos;
+###### Artículo 24 Bis.
+
+A la Dirección de Recursos Humanos, Materiales y Financieros, le corresponde el ejercicio de las siguientes atribuciones:
+
+I. Organizar y controlar las actividades de la Dirección conforme a las normas y Políticas establecidas legalmente y por su superior jerárquico;
+
+II. Auxiliar a la Dirección General de Administración en todas las actividades encaminadas a proporcionar eficientemente el apoyo administrativo que requieren las operaciones de la Secretaría;
+
+III. Formular y actualizar los padrones de proveedores y de prestadores de servicios;
+
+IV. Por instrucciones de su superior jerárquico, elaborar los proyectos de presupuestos por programas de la Secretaría, así como tramitar las ampliaciones que sean necesarias para el desarrollo de las funciones de cada unidad administrativa de la Secretaría, previo visto bueno de la Dirección General de Administración;
+
+V. Elaborar y tramitar los contratos de prestación de servicios, previa autorización de la Dirección General de Administración, cumpliendo con la normatividad aplicable en la materia.
+
+VI. Asistir a la Dirección General de Administración en la conducción de los recursos de acuerdo al presupuesto autorizado de la Dirección a su cargo, así como de las áreas y unidades de la Secretaría que la Dirección General de Administración le señale;
+
+VIl. Cumplir la normatividad vigente en materia de suministro de servicios y adquisición de bienes inmuebles;
+
+VIII. Elaborar los tramites de los movimientos del personal de las unidades administrativas de la Secretaría, previa la autorización de la Dirección General de Administración;
+
+lX. Gestionar y llevar el control en la asignación de los recursos materiales, equipo informático, de oficina y consumibles; los servicios del archivo y correspondencia, servicios de conservación de los bienes muebles e inmuebles y de transporte que le instruya la Dirección General de Administración;
+
+X. Supervisar el funcionamiento y operación del almacén de la Secretaría a como lo instruya la Dirección General de Administración;
+
+XI. Instituir y vigilar el sistema de control de inventarios de bienes de la Secretaría que le instruya la Dirección General de Administración;
+
+XII. Promover el cumplimiento y observancia de las normas, políticas, procedimientos y las medidas de austeridad, racionalidad y mejor aprovechamiento de los recursos materiales de la Secretaría que le instruya la Dirección General de Administración;
+
+XIII. Tener actualizado los formatos de entrega recepción, en lo relativo a la información de esta Dirección y, coordinar las actualizaciones de la entrega-recepción de las unidades administrativas de la Secretaría que le instruya la Dirección General de Administración;
+
+XlV. Elaborar el programa anual de adquisiciones de bienes y servicios de la Secretaría que le instruya la Dirección General de Administración;
+
+XV. Analizar y proponer a la Dirección General de Administración, las acciones, procedimientos y sistemas que busquen mejorar y agilizar el suministro y control de materiales de la Secretaría;
+
+XVI. Administrar el fondo revolvente para el suministro de gastos menores de las distintas unidades administrativas de la Secretaría previo visto bueno de la Dirección General de Administración;
+
+XVII. Conducir la elaboración de los programas, presupuestos y evaluaciones de la Secretaría, conforme a la normatividad vigente;
+
+XVIII. Instituir y administrar los sistemas de control de pagos y de cuentas financieras de la Secretaría que le instruya la Dirección General de Administración;
+
+XIX. Elaborar las conciliaciones bancarias entre los recursos presupuestales suministrados por la Secretaría de Planeación y Finanzas y los ejercidos por la Secretaría y sus unidades administrativas que le instruya la Dirección General de Administración;
+
+XX. Elaborar los estados financieros contables y presupuestales de la Secretaría y presentarlos a la Dirección General de Administración para su aprobación.
+
+XXI. Revisar el proceso de la integración de órdenes de pago, vigilando que la documentación probatoria cumpla con los requisitos fiscales y de control administrativo;
+
+XXII. Analizar la racionabilidad de los estados financieros de cuentas y conciliaciones bancarias que le instruya la Dirección General de Administración;
+
+XXIII. Proponer arqueos de los fondos revolventes a las unidades administrativas asignados; e informar el resultado (sic) la Dirección General de Administración para la toma de decisiones;
+
+XXIV. Examinar el cierre del ejercicio presupuestal de los recursos asignados a la Secretaría; y presentarlo a la Dirección General de Administración para su control;
+
+XXV. Generar y proporcionar información financiera, programática y presupuestal para la toma de decisiones de la Dirección General de Administración; y
+
+XXVI. Las demás atribuciones y funciones que en su caso determine la normatividad aplicable al cargo en los diversos ordenamientos jurídicos y administrativos, así como los que le instruya la Dirección General de Administración.
+
+> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2015)</small>
+
+###### Artículo 24 Ter.
+
+Para el desempeño de sus funciones la Dirección de Recursos Humanos, Materiales y Financieros, contará con el apoyo de los siguientes departamentos:
+
+I. Departamento de Recursos Humanos;
+
+II. Departamento de Recursos Financieros;
 
 III. Departamento de Contabilidad;
 
@@ -1429,9 +1617,13 @@ IX. Propiciar que empresas y productos locales obtengan una imagen atractiva en 
 
 X. Desarrollar programas de proveedores, orientados a los requerimientos de las empresas tractoras;
 
-XI. Expedir las licencias y revalidaciones para expendios de productos cárnicos en el Estado, de acuerdo con los requerimientos que esta Secretaría emita previa recepción y validación de documentos proporcionados por los municipios;
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2015)</small>
 
-XII. Elaborar y actualización (sic) el padrón de Expendios de Productos Cárnicos en el Estado;
+XI. Expedir las licencias y revalidaciones para expendios de productos cárnicos en el Estado, de acuerdo con los requerimientos que esta Secretaría emita previa recepción y validación de documentos proporcionados por los municipios; asimismo expedirá las licencias de funcionamiento a las ferias, tianguis, exposiciones o cualquier otra denominación encaminada a realizar una actividad comercial de carácter temporal, ya sea en recintos públicos o privados, las cuales sean organizadas por personas físicas o jurídicas colectivas con domicilio fiscal en el Estado, para lo cual deberá acreditarse la anuencia respectiva del Ayuntamiento, así como el cumplimiento de las obligaciones fiscales requeridas por la Secretaría de Planeación y Finanzas;
+
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2015)</small>
+
+XII. Elaborar y actualizar el padrón de Expendios de Productos Cárnicos en el Estado; asimismo para el control de las licencias de funcionamiento a las ferias, tianguis, exposiciones o cualquier otra denominación encaminada a realizar una actividad comercial de carácter temporal, referidas en el artículo anterior, la Secretaría, en coordinación con la Secretaría de Planeación y Finanzas, y el Ayuntamiento de que se trate, administrará la información contenida a través de un Registro que se denominará de Actividades Comerciales de Carácter Temporal;
 
 XIII. Elaborar y mantener actualizado, el directorio con información de las unidades comerciales que integran la red de abasto en el Estado.
 
@@ -1502,3 +1694,13 @@ COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
 LIC. DAVID GUSTAVO RODRÍGUEZ ROSARIO
 
 SECRETARIO DE DESARROLLO ECONÓMICO Y TURISMO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE AGOSTO DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE REFORMAN EL ARTÍCULO 8; EL CAPÍTULO CUARTO DENOMINADO "DE LA DIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN" PARA DENOMINARSE "DE LA DIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN Y LA COMUNICACIÓN"; LOS ARTÍCULOS: 17; 19; 23 FRACCIÓN I; 24; Y 41 FRACCIONES XI Y XII. SE ADICIONAN AL ARTÍCULO 7, PUNTO 1, EL PUNTO 1.3.1 Y AL PUNTO 4, EL PUNTO 4.4; LOS ARTÍCULOS: 19 BIS; 24 BIS Y 24 TER. TODOS DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO Y TURISMO”.]
+
+PRIMERO.- La presente reforma al Reglamento Interior de la Secretaría de Desarrollo Económico y Turismo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Todo trámite, documento o cualquiera (sic) asunto realizado en los términos previstos en esta reforma, antes de la entrada en vigor, quedan validados de acuerdo a la aprobación de la estructura orgánica de la administración pública 2013-2018.
