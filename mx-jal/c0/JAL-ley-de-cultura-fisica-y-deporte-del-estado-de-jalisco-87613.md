@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-cultura-fisica-y-deporte-del-estado-de-jalisco-87613"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-19"
-last_updated: "2014-08-07"
+last_updated: "2015-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 19 de abril de 2012.
 
@@ -701,6 +701,10 @@ Contra las resoluciones de los órganos directivos, procederá el recurso de rec
 
 Los órganos directivos, así como comités regionales, asociaciones, ligas, clubes y equipos deportivos registrados en el Sistema Estatal del Deporte, así como los directivos, jueces, árbitros y organizadores en competencias deportivas oficiales, podrán demandar la aplicación de sanciones en contra de cualquier presunto infractor, ante el Code Jalisco o Consejo Municipal del Deporte, según corresponda, en los términos que se regulen por el reglamento de la presente ley.
 
+### Capítulo XII. De la prevención de la violencia en el deporte
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 74.
 
 La comisión tendrá la función de atender y resolver administrativamente las inconformidades que los miembros del sistema estatal hagan valer en contra de las sanciones que apliquen las autoridades deportivas.
@@ -732,6 +736,206 @@ Para ello, ninguno de los integrantes de esta comisión deberá ostentar cargo a
 ###### Artículo 77.
 
 La comisión elaborará su reglamento interno de conformidad con los lineamientos que el sistema estatal establezca.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE AGOSTO DE 2015)</small>
+
+###### Artículo 78.
+
+En las actividades deportivas se establecerán las medidas preventivas necesarias para erradicar la violencia en el deporte, así como la implementación de sanciones a quienes la ejerzan, lo anterior sin perjuicio de las responsabilidades penales y civiles a que haya lugar, y reducir los riesgos de afectación en la práctica de actividades físicas, recreativas o deportivas.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
+
+###### Artículo 79.
+
+Para los efectos de este capítulo, se entenderá por:
+
+I. Actividad física: Ejercicio o movimiento del cuerpo humano que se realiza para mejora de la aptitud y la salud física y mental de las personas;
+
+II. Evento deportivo: Cualquier encuentro entre deportistas afiliados a las asociaciones o sociedades deportivas conforme a las normas establecidas por éstas y por los organismos rectores;
+
+III. Evento deportivo masivo: Sin importar el número de personas que se encuentren reunidas, será cualquier evento deportivo abierto al público, que se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el numero mínimo de competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, deba estar activo dentro de un área de competencia; o bien, aquél que se realice en lugares abiertos, cuando el número de competidores sea igual o mayor a doscientos;
+
+IV. Evento deportivo con fines de espectáculo: Cualquier evento deportivo en el que se condicione el acceso de los aficionados o espectadores al pago de una tarifa para presenciarlo; y
+
+V. Comisión Especial: La Comisión Especial Contra la Violencia en el Deporte creada por la Ley General de Cultura Física y Deporte.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
+
+###### Artículo 80.
+
+Las autoridades competentes del Estado y de los municipios se coordinarán entre sí o con instituciones del sector social y privado para promover los mecanismos y acciones encaminados a prevenir la violencia en eventos deportivos y garantizar el desarrollo pacífico en los recintos donde se celebren eventos deportivos masivos y con fines de espectáculo y en sus inmediaciones, así como la seguridad y patrimonio de las personas, en coordinación con las autoridades de seguridad pública y protección civil correspondientes.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
+
+###### Artículo 81.
+
+La coordinación y colaboración entre el Estado y los municipios respecto a la seguridad y prevención en los eventos deportivos masivos o con fines de espectáculo, sin perjuicio de lo dispuesto por la legislación en materia de seguridad pública será subsidiaria y se sujetará a lo siguiente:
+
+I. Los usuarios de las instalaciones deportivas, ya sea organizadores, participantes, asistentes, aficionados o espectadores en general, atenderán las disposiciones en materia de seguridad y protección civil, según corresponda y las indicaciones en la materia que emitan las autoridades competentes, para que los eventos deportivos se realicen de manera ordenada y se preserve la integridad de las personas y los bienes;
+
+II. Para la seguridad en el interior de los recintos y sus anexos, los organizadores de los eventos deberán observar las disposiciones legales, reglamentarias y administrativas correspondientes del municipio en cada una de las demarcaciones territoriales en que se celebren los eventos.
+
+La seguridad en la cancha o área de competencia, en los vestidores y baños para deportistas y en los corredores que los comuniquen, será responsabilidad exclusiva de las asociaciones o sociedades deportivas que avalen el evento y de los organizadores, y sólo a petición expresa de sus dirigentes, intervendrán las autoridades municipales o estatales, según sea el caso, salvo que la intervención sea indispensable para salvaguardar la vida o la integridad de los deportistas, de las personas o de los bienes que se encuentren en dichos espacios;
+
+III. La seguridad en los alrededores de los recintos deportivos corresponde a las autoridades municipales en términos de lo que dispongan las leyes aplicables;
+
+IV. A solicitud de las autoridades municipales y atendiendo a los acuerdos de colaboración o coordinación que al efecto se celebren, las autoridades estatales intervendrán para garantizar la seguridad en las áreas que se especifiquen de acuerdo con la naturaleza del evento de que se trate;
+
+V. En todo caso, para participar en la planeación previa y en el seguimiento durante el desarrollo del evento, los organizadores de los eventos y las autoridades deportivas podrán acreditar un representante y deberán atender las indicaciones y recomendaciones de las autoridades de seguridad.
+
+Los representantes a que se refiere esta fracción podrán realizar sugerencias y recomendaciones o solicitudes a las autoridades de seguridad pública, pero por ningún motivo tendrán carácter de autoridad pública ni asumirán posiciones de mando.
+
+Para los efectos de este artículo se considera que el evento deportivo, concluye hasta que el recinto se encuentre desalojado y los asistentes se hayan retirado de las inmediaciones;
+
+VI. Los responsables de la seguridad en el interior de los recintos deportivos y sus instalaciones anexas designados por los organizadores de los eventos, deberán participar en las labores de planeación previa, atendiendo las recomendaciones e indicaciones de las autoridades de seguridad pública;
+
+VII. En la seguridad del interior de los recintos y sus instalaciones anexas, a solicitud de los organizadores, podrán participar autoridades de los tres órdenes de gobierno, atendiendo a lo dispuesto en las disposiciones legales aplicables, en cuyo caso el mando de los elementos tanto oficiales, como los que aporten los responsables del evento, estará siempre a cargo de quien jerárquicamente corresponda dentro de la corporación, quien será el responsable de coordinar las acciones;
+
+VIII. Todas las autoridades contribuirán, en el ámbito de sus competencias, a la efectiva coordinación para garantizar la seguridad en las inmediaciones de las instalaciones deportivas y en el traslado de aficionados al lugar donde se realicen los eventos deportivos, así como en el auxilio eficaz y oportuno al interior de los recintos en caso de requerirse;
+
+IX. La autoridad estatal y las autoridades municipales capacitarán a los cuerpos policíacos y demás autoridades encargadas de la seguridad, en el uso apropiado de sus atribuciones así como en técnicas y tácticas especiales para resolver conflictos y extinguir actos de violencia que puedan suscitarse en este sentido.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
+
+###### Artículo 82.
+
+Para la celebración de eventos deportivos masivos o con fines de espectáculo, las instalaciones en que pretendan realizarse, independientemente del origen de los fondos con que hayan sido construidas, deberán contar con el equipamiento de seguridad y protección civil que establezcan las leyes y demás ordenamientos aplicables.
+
+Las autoridades municipales serán competentes para verificar el cumplimiento de la presente disposición.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
+
+###### Artículo 83.
+
+Para efectos de este capítulo, de manera enunciativa y no limitativa, se consideran actos o conductas violentas o que incitan a la violencia en el deporte a los siguientes:
+
+I. La participación activa de deportistas, entrenadores, jueces o árbitros, espectadores, organizadores, directivos o cualquier involucrado en la celebración del evento deportivo en altercados, riñas, peleas o desórdenes públicos en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, cuando tales conductas estén relacionadas con un evento deportivo que vaya a celebrarse, se esté celebrando o se haya celebrado;
+
+II. La exhibición en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos de pancartas, símbolos, emblemas o leyendas que, por su contenido o por las circunstancias en las que se exhiban o utilicen de alguna forma inciten, fomenten o ayuden a la realización de comportamientos violentos, o constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo;
+
+III. La entonación de cánticos que inciten a la violencia o a la agresión en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos. Igualmente, aquéllos que constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo;
+
+IV. La irrupción no autorizada en los terrenos de juego;
+
+V. La emisión de declaraciones o la transmisión de informaciones, con ocasión de la próxima celebración de un evento deportivo, ya sea en los recintos deportivos, en sus aledaños o en los medios de transporte públicos en los que se pueda desplazar a los recintos deportivos, en cuya virtud se amenace o incite a la violencia o a la agresión a los participantes o asistentes a dichos encuentros, así como la contribución significativa mediante tales declaraciones a la creación de un clima hostil, antideportivo o que promueva el enfrentamiento físico entre los participantes en los eventos deportivos o entre asistentes a los mismos;
+
+VI. La facilitación de medios técnicos, económicos, materiales o tecnológicos que den soporte a la actuación de las personas o grupos que promuevan la violencia, o que inciten, fomenten o ayuden a los comportamientos violentos, o la creación y difusión o utilización de soportes digitales utilizados para la realización de estas actividades, y
+
+VII. Las que establezca la presente Ley, su Reglamento, el Código de Conducta de cada disciplina y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
+
+###### Artículo 84.
+
+Quienes en su carácter de asistente o espectador acudan a la celebración de un evento deportivo deberán:
+
+I. Acatar las disposiciones normativas relacionadas con la cultura física y la prevención y erradicación de la violencia en el deporte, así como de las diversas modalidades de los eventos deportivos contenidas en la presente Ley, su Reglamento y las que emita la Comisión Especial, así como las de la localidad en donde se lleven a cabo, y
+
+II. Cumplir con las indicaciones señaladas por el organizador, mismas que deberán contener las causas por las que se pueda impedir su entrada a las instalaciones donde se llevará a cabo dicho espectáculo.
+
+Con estricto respeto a las disposiciones y procedimientos previstos en las leyes u ordenamientos en materia de responsabilidades administrativas, civiles y penales aplicables, los asistentes o espectadores que cometan actos que generen violencia u otras acciones sancionables al interior o en las inmediaciones de los espacios destinados a la realización de la cultura física, el deporte y en las que se celebren eventos deportivos en cualquiera de sus modalidades, serán sujetos a la aplicación de la sanción correspondiente conforme a los ordenamientos referidos por la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
+
+###### Artículo 85.
+
+Los deportistas, entrenadores, técnicos, directivos y demás personas, en el ámbito de la disciplina deportiva, deberán actuar conforme a las disposiciones y lineamientos que para prevenir y erradicar la violencia en el deporte emita la Comisión Especial, así como los establecidos en las disposiciones reglamentarias y estatutarias emitidas por las asociaciones deportivas estatales respectivas.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
+
+###### Artículo 86.
+
+Los organizadores de eventos deportivos podrán realizar registros personales al ingreso de las instalaciones deportivas para asegurar que los asistentes no portan algún artículo prohibido. Esta práctica deberá realizarse apegada a los principios de respeto a la dignidad de las personas y a sus derechos humanos, con enfoque de género. Pero en todo caso, deberá hacerlo cuando en el centro deportivo se hubieran presentado antecedentes de violencia deportiva o se trate de la reanudación de un evento suspendido por esta causa.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
+
+###### Artículo 87.
+
+Cuando los organizadores de algún evento deportivo detecten la posibilidad o el inicio de la realización de alguna práctica o comportamiento, que inciten o produzcan violencia deportiva, deberán actuar de inmediato para controlarla poniendo a los responsables a disposición de la autoridad con el auxilio de la fuerza pública si fuera necesario. En estos casos deberá interrumpirse de inmediato el expendio de bebidas alcohólicas a los posibles infractores.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
+
+###### Artículo 88.
+
+Cuando a los organizadores de los eventos no les sea posible controlar la violencia en sus inicios o cuando ésta sea provocada por un grupo de personas que por su número resulte difícil de controlar, las gradas o áreas de las instalaciones afectadas deberán ser desalojadas y el encuentro deportivo suspendido hasta que pueda realizarse el desalojo.
+
+Si hubiera resistencia al desalojo o la violencia comienza a extenderse a otras áreas o persiste en el exterior de las instalaciones deportivas, el encuentro deportivo deberá ser suspendido de inmediato por tiempo indefinido y las instalaciones deberán ser evacuadas en su totalidad. Para la reanudación del evento, el organizador deberá garantizar las medidas de seguridad necesarias para tal efecto, mediante una autorización especial por parte de la autoridad municipal en los términos de su reglamento.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
+
+###### Artículo 89.
+
+Para cumplir con las disposiciones de los artículos 87 y 88 de la Ley, los clubes deportivos y organizadores de los eventos deberán contar con un número suficiente de efectivos de seguridad, con las estrategias de colaboración y auxilio de la policía preventiva y de protección civil, y con el resto de las autorizaciones, permisos y medidas de seguridad que dicte la autoridad municipal.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
+
+###### Artículo 90.
+
+El reglamento establecerá los casos y términos en que los organizadores de los eventos deportivos con fines de lucro deberán contar con un seguro de vida a favor de los asistentes a dichos eventos, que además cubra el daño a las cosas, atención médica y hospitalaria a las personas.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
+
+###### Artículo 91.
+
+Los clubes, las federaciones de clubes con domicilio en el Estado y los organizadores de eventos deportivos deberán llevar un registro de las barras, porras, asociaciones o agrupaciones de aficionados o similares, donde se asienten sus datos generales como organización y los particulares de sus integrantes.
+
+Los datos asentados en el registro serán considerados como personales y serán protegidos como tales en los términos de la legislación respectiva, pero serán puestos a disposición de las autoridades en cualquier momento en que se les requiera.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
+
+###### Artículo 92.
+
+La aplicación de sanciones administrativas por infracciones a este capítulo corresponde a los órganos directivos del deporte de conformidad a lo señalado en el artículo 70 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
+
+###### Artículo 93.
+
+Las sanciones administrativas a que se refiere este capítulo se aplicarán de acuerdo a lo establecido en la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
+
+###### Artículo 94.
+
+A las infracciones a este capítulo se les aplicarán las sanciones administrativas siguientes:
+
+I. A las asociaciones deportivas y organizadores de eventos deportivos con fines de espectáculo:
+
+a) Amonestación privada o pública;
+
+b) Limitación, reducción o cancelación de apoyos económicos;
+
+c) Suspensión temporal o definitiva del uso de instalaciones oficiales de cultura física y deporte, y
+
+d) Suspensión temporal o definitiva de su inscripción en el Registro Estatal de Cultura Física y Deporte.
+
+II. A deportista:
+
+a) Amonestación privada o pública;
+
+b) Limitación, reducción o cancelación de apoyos económicos, y
+
+c) Suspensión temporal o definitiva de su inscripción en el Registro Estatal de Cultura Física y Deporte.
+
+III. A los aficionados, asistentes o espectadores en general, sin perjuicio de las sanciones penales, civiles o de cualquier naturaleza que pudiera generarse y considerando la gravedad de la conducta y en su caso, la reincidencia:
+
+a) Expulsión inmediata de las instalaciones deportivas;
+
+b) Amonestación privada o pública;
+
+c) Multa de 10 a 90 días de salario mínimo general vigente en el área geográfica que corresponda al momento de cometer la infracción, y
+
+d) Suspensión de uno a cinco años del acceso a eventos deportivos masivos o con fines de espectáculos.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
+
+###### Artículo 95.
+
+Las infracciones al artículo 83 serán sancionadas conforme este capítulo sin perjuicio de las responsabilidades penales y civiles a que haya lugar.
+
+En caso de no estar reglamentado, el infractor será sancionado con el arresto inconmutable de veinticuatro a treinta y seis horas y con cincuenta días de trabajo comunitario.
+
+Si los organizadores de los eventos deportivos fueron omisos en el cumplimiento de las obligaciones establecidas en los artículos 87, 88 y 89 de la Ley serán sancionados con la reparación de los daños solidariamente con los infractores directos, independientemente de las sanciones administrativas que resulten de la omisión.
 
 T R A N S I T O R I O S
 
@@ -808,3 +1012,9 @@ P.O. 7 DE AGOSTO DE 2014.
 DECRETO NÚMERO 24943/LX/14 POR EL QUE SE REFORMAN LAS FRACCIONES VI Y VII, Y SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 19 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO.
 
 ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE AGOSTO DE 2015.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo. Los gobiernos municipales y los organizadores deportivos disponen de un plazo de sesenta días para adecuar sus disposiciones reglamentarias para el cumplimiento del presente decreto.
