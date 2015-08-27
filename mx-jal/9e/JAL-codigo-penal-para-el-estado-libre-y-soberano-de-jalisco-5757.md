@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2015-08-22"
+last_updated: "2015-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1761,13 +1761,15 @@ Cuando el daño que se cause al ofendido produzca su muerte, el monto de la pena
 
 Si el daño produce incapacidad total o parcial, temporal o permanente, el monto de la indemnización se fijará de acuerdo con las tablas que para esta clase de incapacidades establece la Ley Federal del Trabajo, siendo aplicable en lo conducente, lo dispuesto en el párrafo que precede.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2015)</small>
 
 ###### Art. 103 Ter.
 
-La reparación del daño en casos de estupro y violación, comprenderá además del daño moral a que alude la fracción II del artículo 102 de este Código, el pago por alimentos a la mujer y al hijo, si lo hubiere.
+La reparación del daño en casos de abuso sexual infantil y violación, comprenderá además del daño moral a que alude la fracción III del artículo 102 de este Código, el pago de alimentos a la mujer y al hijo, si lo hubiere.
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 Dicho pago se hará en la forma y términos que fija el Código Civil del Estado de Jalisco.
 
@@ -6062,3 +6064,9 @@ P.O. 22 DE AGOSTO DE 2015.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
 
 SEGUNDO. Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+P.O. 27 DE AGOSTO DE 2015.
+
+ÚNICO. EI presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “EI Estado de Jalisco”, en los municipios comprendidos en las fracciones I, II, III y IV del decreto No. 25864.
+
+Para el resto de los municipios del Estado de Jalisco, entrará en vigor de conformidad con el decreto No. 24864 que emite las declaratorias de incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden jurídico del Estado de Jalisco.
