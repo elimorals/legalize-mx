@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2015-08-11"
+last_updated: "2015-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -769,11 +769,13 @@ VII. No ser titular del Órgano de Fiscalización Superior, y
 
 VIII. No ser titular de algún órgano público autónomo en el Estado ni tener funciones de dirección y atribución de mando.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
-En el caso de las fracciones III y IV de este artículo, no habrá impedimento si el interesado se separa de sus funciones o cargo cuando menos ciento ochenta días naturales anteriores al día de la elección.
+En caso de las fracciones III y IV de este artículo, no habrá impedimento si el interesado se separa de sus funciones o cargo cuando menos noventa días antes del día de la elección de que se trate: y de ciento ochenta días en el caso de las fracciones VI y VII.
 
-En el caso de las fracciones VI, VII y VIII de este artículo, desaparece el impedimento si la persona de que se trata se separa de sus funciones o cargo por lo menos un año antes del día de la elección de que se trate.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+
+En el caso de la fracción VIII de este artículo, desaparecerá el impedimento si el interesado se separa de sus funciones o cargo por lo menos un año antes del día de la elección de que se trate.
 
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 2015)</small>
 
@@ -1245,11 +1247,13 @@ IX. No ser titular de los demás órganos públicos autónomos en el Estado, y
 
 X. No tener parentesco en primer grado ni ser cónyuge del Gobernador que concluye su periodo.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
-En el caso de las fracciones IV y V de este artículo, no habrá impedimento si el interesado se separa de sus funciones o cargo cuando menos ciento ochenta días anteriores al día de la elección.
+En el caso de las fracciones IV y V de este artículo, no habrá impedimento si el interesado se separa de sus funciones o cargo cuando menos noventa días antes de la elección de que se trate y de ciento ochenta días en el caso de las fracciones VII y VIII.
 
-En el caso de las fracciones VII, VIII y IX de este artículo, no habrá impedimento si el interesado se separa de sus funciones o cargo cuando menos un año antes del día de la elección de que se trate.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+
+En el caso de la fracción IX de este artículo, no habrá impedimento si el interesado se separa de sus funciones o cargo cuando menos un año antes del día de la elección de que se trate.
 
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 2015)</small>
 
@@ -1919,9 +1923,9 @@ Los Jueces de Primera Instancia solo podrán ser removidos de su cargo por el Co
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
-### CAPITULO I. DEL ORGANISMO PÚBLICO LOCAL ELECTORAL
+### CAPITULO I. DEL INSTITUTO TLAXCALTECA DE ELECCIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 85.
 
@@ -2223,7 +2227,7 @@ La Ley Municipal determinará las demás facultades y obligaciones de los Ayunta
 
 ## TITULO VIII. DE LOS ÓRGANOS AUTONOMOS
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JULIO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 2015)</small>
 
 ### CAPITULO II. DE LAS FINANZAS PUBLICAS
 
@@ -2231,43 +2235,43 @@ La Ley Municipal determinará las demás facultades y obligaciones de los Ayunta
 
 ###### ARTICULO 95.
 
-El organismo público local electoral es el encargado de la organización, dirección, vigilancia y desarrollo de los procesos electorales y de consulta ciudadana que prevé el apartado A del artículo 29 de esta Constitución; que constituyen una función de carácter público y estatal; es autoridad en la materia, dotada de autonomía en su funcionamiento e independencia en sus decisiones con relación a los poderes públicos y a los particulares; tiene carácter permanente, personalidad jurídica y patrimonio propios; dispondrá de los elementos necesarios para el cumplimiento de sus atribuciones y gozará de autonomía presupuestal y financiera.
+El Instituto Tlaxcalteca de Elecciones es el órgano encargado de la organización, dirección, vigilancia y desarrollo de los procesos electorales y de consulta ciudadana que prevé el apartado A del artículo 29 de esta Constitución; que constituyen una función de carácter público y estatal; es autoridad en la materia, dotada de autonomía en su funcionamiento e independencia en sus decisiones con relación a los poderes públicos y a los particulares; tiene carácter permanente, personalidad jurídica y patrimonio propios; dispondrá de los elementos necesarios para el cumplimiento de sus atribuciones y gozará de autonomía presupuestal y financiera.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
-El organismo público local electoral solamente podrá intervenir en los asuntos internos de los partidos políticos en los términos que señale esta Constitución y la ley de la materia; y ésta, sólo establecerá los derechos, las obligaciones y prohibiciones que conciernen directamente a los partidos políticos, a sus militantes, dirigentes, representantes y candidatos a cargos de elección popular y las sanciones a las que se hagan acreedores. La Ley también establecerá los derechos, prerrogativas, prohibiciones y obligaciones de los candidatos independientes.
+El Instituto Tlaxcalteca de Elecciones solamente podrá intervenir en los asuntos internos de los partidos políticos en los términos que señale esta Constitución y la ley de la materia; y ésta, sólo establecerá las obligaciones y prohibiciones que conciernen directamente a los partidos políticos, a sus militantes, dirigentes, representantes y candidatos a cargos de elección popular y las sanciones a las que se hagan acreedores.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
-En el cumplimiento de sus atribuciones y la consecución de sus fines, el organismo público local electoral se conducirá en todos sus actos de acuerdo con los principios de constitucionalidad, legalidad, imparcialidad, objetividad, equidad, certeza, profesionalismo, independencia y máxima publicidad.
+En el cumplimiento de sus atribuciones y la consecución de sus fines, el Instituto Tlaxcalteca de Elecciones se conducirá en todos sus actos de acuerdo con los principios de constitucionalidad, legalidad, imparcialidad, objetividad, equidad, certeza, profesionalismo, independencia y máxima publicidad.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
-El Organismo Público Electoral contará en su estructura con un consejo general que será el órgano superior de dirección, consejos distritales electorales, consejos municipales electorales y mesas directivas de casillas.
+El Instituto Tlaxcalteca de Elecciones contará en su estructura con un consejo general que será el órgano superior de dirección, consejos distritales electorales, consejos municipales electorales y mesas directivas de casillas.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
-El consejo general estará integrado por un consejero Presidente y seis Consejeros Electorales, con derecho a voz y voto; el Secretario Ejecutivo y los representantes de los partidos políticos con registro nacional o estatal, concurrirán a las sesiones sólo con derecho a voz; cada partido político contará con un representante en dicho órgano. Los consejeros electorales del consejo general serán designados y removidos en términos de lo establecido por el Artículo 116 de la Constitución Federal y la ley aplicable. Todos ellos durarán en su cargo siete años y no podrán ser reelectos. El Secretario Ejecutivo del organismo público local electoral será nombrado por las dos terceras partes de su consejo general, a propuesta de su Consejero Presidente; durará en el cargo 7 años y podrá ser reelecto una sola vez; la ley de la materia determinará los requisitos para su nombramiento.
+El consejo general estará integrado por un consejero Presidente y seis Consejeros Electorales, con derecho a voz y voto; el Secretario Ejecutivo y los representantes de los partidos políticos con registro nacional o estatal, concurrirán a las sesiones solo con derecho a voz; cada partido político contará con un representante en dicho Instituto. Los consejeros electorales del consejo general serán designados y removidos en términos de lo establecido por el artículo 116 de la Constitución Federal y la ley aplicable. Todos ellos durarán en su cargo siete años y no podrán ser reelectos. El Secretario Ejecutivo del Instituto Tlaxcalteca de Elecciones será nombrado por las dos terceras partes de su consejo general, a propuesta de su Consejero Presidente; durará en el cargo 7 años y podrá ser reelecto una sola vez; la ley de la materia determinará los requisitos para su nombramiento.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
-El organismo público local electoral contará con una contraloría general, con autonomía técnica y de gestión; tendrá a su cargo la fiscalización de todos los ingresos y egresos del organismo. El Titular de la contraloría general del organismo será designado por el Congreso del Estado por el voto de las dos terceras partes de sus miembros presentes, durará en su cargo cuatro años y podrá ser reelecto por un periodo más. Así mismo mantendrá la coordinación técnica necesaria con las entidades de fiscalización superior federal y estatal.
+El Instituto Tlaxcalteca de Elecciones contará con una contraloría general, con autonomía técnica y de gestión; tendrá a su cargo la fiscalización de todos los ingresos y egresos del Instituto. El Titular de la contraloría general del Instituto será designado por el Congreso del Estado por el voto de las dos terceras partes de sus miembros presentes, durará en su cargo cuatro años y podrá ser reelecto por un periodo más. Así mismo mantendrá la coordinación técnica necesaria con las entidades de fiscalización superior federal y estatal.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
-La Ley de la materia determinará los requisitos para ser consejero electoral y Secretario Ejecutivo del organismo público local electoral.
+La ley de la materia determinará los requisitos para ser consejero electoral y Secretario Ejecutivo del Instituto Tlaxcalteca de Elecciones.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
-El organismo público local electoral, bajo la dirección de su órgano superior, además de las atribuciones que establezca la ley de la materia, otorgará las constancias de mayoría relativa y de asignación de cargos de representación proporcional, declarará la validez de las elecciones; promoverá el ejercicio de la libertad del voto; fomentará y difundirá la cultura política democrática; establecerá la metodología para la realización de estudios de opinión pública con fines electorales y verificará su cumplimiento; efectuará el monitoreo de medios de comunicación masiva en procesos electorales; y regulará la observación electoral, en los términos establecidos por la Constitución Política de los Estados Unidos Mexicanos y las leyes de la materia.
+El Instituto Tlaxcalteca de Elecciones, bajo la dirección de su órgano superior, además de las atribuciones que establezca la ley de la materia, otorgará las constancias de mayoría relativa y de asignación de cargos de representación proporcional, declarará la validez de las elecciones; promoverá el ejercicio de la libertad del voto; fomentará y difundirá la cultura política democrática; establecerá la metodología para la realización de estudios de opinión pública con fines electorales y verificará su cumplimiento; efectuará el monitoreo de medios de comunicación masiva en procesos electorales; y regulará la observación electoral, en los términos establecidos por la Constitución Política de los Estados Unidos Mexicanos y las leyes en la materia.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
-Atenderá lo relativo a derechos, obligaciones y prohibiciones de los partidos políticos; igualmente verificará y sancionará lo relativo al proceso de constitución y registro de partidos políticos estatales; fiscalizará, en caso de que el Instituto Nacional Electoral le delegue esta función, el origen, los montos, la operación, la aplicación, el destino concreto del financiamiento público y privado de los partidos políticos y sus candidatos, así como de los candidatos independientes y en general, dentro del ámbito de su competencia, todo recurso que impacte o se vincule con el desarrollo y resultado de los procesos electorales, en los términos establecidos por la Constitución Política de los Estados Unidos Mexicanos y las leyes de la materia.
+Atenderá lo relativo a derechos, obligaciones y prohibiciones de los partidos políticos; igualmente verificará y sancionará lo relativo al proceso de constitución y registro de partidos políticos estatales; fiscalizará en caso de que el Instituto Nacional Electoral le delegue esta función, el origen, los montos, la operación, la aplicación, el destino concreto del financiamiento público y privado de los partidos políticos y sus candidatos así como de los candidatos independientes y en general, dentro del ámbito de su competencia, todo recurso que impacte o se vincule con el desarrollo y resultado de los procesos electorales, en los términos establecidos por la Constitución Política de los Estados Unidos Mexicanos y las leyes en la materia.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
-El organismo público local electoral garantizará que en los procesos electorales los votos válidos se computen sólo a favor de los partidos políticos y candidatos independientes, en los términos que determine la Ley de la materia.
+El Instituto Tlaxcalteca de Elecciones garantizará que en los procesos electorales los votos válidos se computen sólo a favor de los partidos políticos y candidatos independientes, en los términos que determine la ley de la materia.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -2287,9 +2291,13 @@ Todo partido político estatal perderá su registro si no obtiene, al menos, el 
 
 Sólo los ciudadanos podrán formar partidos políticos estatales y afiliarse libre e individualmente a ellos; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de filiación corporativa. El proceso relativo a la constitución y registro de un partido estatal, no podrá resolverse en el año en que se realicen elecciones ordinarias locales.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
-Los activos derivados del financiamiento público estatal, de los partidos políticos estatales que pierdan su registro, así como de los partidos políticos nacionales que pierdan su registro o sea cancelada su acreditación, por cualquiera de las causas que prescriba la ley de la materia, pasarán a formar parte del patrimonio del organismo público local electoral. La ley de la materia establecerá las reglas y los procedimientos al respecto.
+Los activos derivados del financiamiento público estatal, de los partidos políticos estatales que pierdan su registro, así como de los partidos políticos nacionales que pierdan su registro o sea cancelada su acreditación, por cualquiera de las causas que prescriba la ley de la materia, pasarán a formar parte del patrimonio del Instituto Tlaxcalteca de Elecciones.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2015)</small>
+
+La ley de la materia establecerá las reglas y los procedimientos al respecto.
 
 (NOTA: EL 30 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO, DÉCIMO TERCERO Y DÉCIMO CUARTO, ASÍ COMO EN EL RESOLUTIVO DÉCIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2015 Y SUS ACUMULADAS 71/2015 Y 73/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO DÉCIMO SÉPTIMO (ANTES DÉCIMO SEXTO) DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE DICIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -2313,9 +2321,9 @@ Los votos se computarán a favor del candidato común y la distribución del por
 
 Se garantiza a los partidos políticos los elementos necesarios para sus actividades ordinarias y las tendientes a la obtención del voto popular durante los procesos electorales; por tanto, tendrán derecho al financiamiento público y al acceso a los medios de comunicación en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, la ley de la materia y los siguientes incisos y bases que en esta Constitución se establecen:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2015)</small>
 
-Apartado A. El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendentes a la obtención del voto durante los procesos electorales y las de carácter específico. El financiamiento público será parte del presupuesto general del organismo público local electoral, el que a su vez se incluirá en el presupuesto del Estado y éste se otorgará conforme a la ley y a lo siguiente:
+Apartado A. El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendentes a la obtención del voto durante los procesos electorales y las de carácter específico. El financiamiento público será parte del presupuesto general del Instituto Tlaxcalteca de Elecciones, el que a su vez se incluirá en el presupuesto del Estado y éste se otorgará conforme a la ley y a lo siguiente:
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -2333,9 +2341,9 @@ c) El financiamiento público por actividades específicas, relativas a la educa
 
 d) La suma total de las aportaciones de los simpatizantes durante los procesos electorales no podrá exceder del diez por ciento del tope de gastos de campaña, establecido en la última elección de que se trate. La cantidad que resulte formará parte del tope (sic) campaña que así determine el consejo general para cada elección, e
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
-e) A los partidos políticos nacionales que no obtengan mínimo tres por ciento de la votación total válida en la última elección ordinaria de diputados locales de mayoría relativa, solo conservarán su acreditación ante el organismo público local electoral y no gozarán de financiamiento público estatal que establece este apartado.
+e) A los partidos políticos nacionales que no obtengan mínimo tres por ciento de la votación total valida en la última elección ordinaria de diputados locales de mayoría relativa, solo conservarán su acreditación ante el Instituto Tlaxcalteca de Elecciones y no gozarán de financiamiento público estatal que establece este apartado.
 
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 2015)</small>
 
@@ -2577,11 +2585,11 @@ Todo servidor público será responsable política, administrativa, penal y civi
 
 El Congreso expedirá la Ley que determine las responsabilidades y sanciones de los servidores públicos, señalará las causas y procedimientos, así como las autoridades competentes para tales efectos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 109.
 
-El juicio político procede contra los servidores públicos a que se refiere el párrafo segundo del artículo 107, los titulares de las Secretarías del Ejecutivo, de la Procuraduría General de Justicia, de la Oficialía Mayor, del Órgano de Fiscalización Superior y de las Coordinaciones y los Organismos que integran la Administración Pública Paraestatal, así como contra los Consejeros Electorales del Consejo Electoral del Instituto Electoral de Tlaxcala y el Secretario General de éste, así como en contra de los jueces del Poder Judicial del Estado de Tlaxcala, de los presidentes municipales y los miembros de los ayuntamientos de los municipios del Estado, así como contra los titulares de las secretarías o despachos de las presidencias municipales, por actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, de acuerdo a las prevenciones siguientes:
+El juicio político procede contra los servidores públicos a que se refiere el párrafo segundo del artículo 107, los titulares de las Secretarías del ejecutivo, de la Procuraduría General de Justicia, de la Oficialía Mayor, del Órgano de Fiscalización Superior y de las Coordinaciones y los Organismos que integran la Administración Pública Paraestatal, así como contra los Consejeros Electorales del Instituto Tlaxcalteca de Elecciones y el Secretario Ejecutivo de éste, así como en contra de los jueces del Poder Judicial del Estado de Tlaxcala, de los presidentes municipales y los miembros de los ayuntamientos de los municipios del Estado, así como contra los titulares de las secretarías o despachos de las presidencias municipales, por actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, de acuerdo a las prevenciones siguientes:
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -3468,3 +3476,21 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación, e
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 28 DE AGOSTO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+En términos de lo previsto por el artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos del Estado, para el debido cumplimiento de este precepto.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
