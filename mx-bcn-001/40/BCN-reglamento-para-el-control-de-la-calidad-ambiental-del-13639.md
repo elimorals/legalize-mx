@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-control-de-la-calidad-ambiental-del-13639"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-01-29"
-last_updated: "2013-11-22"
+last_updated: "2015-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "BCN"
 
 REGLAMENTO PARA EL CONTROL DE LA CALIDAD AMBIENTAL DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2015.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 29 de enero de 1999.
 
@@ -302,8 +302,6 @@ V.- La realización de acciones operativas tendientes a cumplir con los fines pr
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-### CAPITULO SEGUNDO. PREVENCION Y CONTROL DE LA CONTAMINACION DEL AGUA
-
 ###### Artículo 8.
 
 En materia de prevención y control de la contaminación del agua, la Dirección tendrá las siguientes facultades:
@@ -425,8 +423,6 @@ El manejo y disposición final de los residuos provenientes de la operación de 
 ###### Artículo 23.
 
 La Dirección, en ejercicio de las acciones de vigilancia previstas en el Capítulo Noveno de este Reglamento aplicará, para la vigilancia del cumplimiento de las disposiciones en materia de prevención y control de la contaminación de aguas, los métodos de muestreo y análisis de laboratorio establecidos en las normas oficiales mexicanas en materia ambiental y en su caso normas oficiales estatales.
-
-### CAPITULO TERCERO. PREVENCION Y CONTROL DE LA CONTAMINACION ATMOSFERICA
 
 ### CAPITULO TERCERO. PREVENCION Y CONTROL DE LA CONTAMINACION ATMOSFERICA
 
@@ -575,8 +571,6 @@ Los poseedores o propietarios de cualquier vehículo motor, público o privado, 
 ###### Artículo 39.
 
 Los poseedores o propietarios de vehículos automotores que transporten materiales por la vía pública de competencia municipal, están obligados a asegurar y cubrir su carga adecuadamente para evitar que se caiga o disperse, y en su caso a recogerla inmediatamente y sanear el área dañada.
-
-### CAPITULO CUARTO. PREVENCION Y CONTROL DE LA CONTAMINACION DEL SUELO Y CONTROL DE RESIDUOS SOLIDOS
 
 ### CAPITULO CUARTO. PREVENCION Y CONTROL DE LA CONTAMINACION DEL SUELO Y CONTROL DE RESIDUOS SOLIDOS
 
@@ -786,8 +780,6 @@ La Dirección promoverá el aprovechamiento de los residuos sólidos no peligros
 
 ### CAPITULO QUINTO. PREVENCION Y CONTROL DE LA CONTAMINACION POR RUIDO, VIBRACIONES, ENERGIA TERMICA, LUMINICA Y OLORES PERJUDICIALES
 
-### CAPITULO QUINTO. PREVENCION Y CONTROL DE LA CONTAMINACION POR RUIDO, VIBRACIONES, ENERGIA TERMICA Y LUMINICA
-
 ###### Artículo 66.
 
 Las disposiciones previstas en el presente capítulo tienen por objeto prevenir y controlar en el territorio del Municipio, la contaminación por ruido, vibraciones, energía térmica, energía lumínica y olores perjudiciales, generados por fuentes móviles que no sean de competencia Federal o Estatal, así como por fuentes fijas estacionarias en establecimientos mercantiles o de servicios.
@@ -844,7 +836,7 @@ Los propietarios de fuentes de jurisdicción municipal, generadoras de vibracion
 
 ###### Artículo 78.
 
-Los establecimientos y actividades mercantiles o de servicios que generen ruidos, deberán construirse o instalarse de manera que permitan un aislamiento acústico suficiente para que el ruido que generen, al trascender las construcciones adyacentes, a los predios colindantes o la vía pública, no rebasen los niveles máximos permisibles establecidos en la normatividad ambiental vigente que las regule, o las condiciones particulares de emisión establecidas en la licencia ambiental..(sic)
+Los establecimientos y actividades mercantiles o de servicios que generen ruidos, deberán construirse o instalarse de manera que permitan un aislamiento acústico suficiente para que el ruido que generen, al trascender las construcciones adyacentes, a los predios colindantes o la vía pública, no rebasen los niveles máximos permisibles establecidos en la normatividad ambiental vigente que las regule, o las condiciones particulares de emisión establecidas en la licencia ambiental..
 
 ###### Artículo 79.
 
@@ -906,8 +898,6 @@ IV.- Mantener dentro de los límites del predio de su propiedad o posesión.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-### CAPITULO SEXTO. PROTECCION DEL PATRIMONIO NATURAL DE L MUNICIPIO
-
 ###### Artículo 87.
 
 Las disposiciones previstas en el presente Capítulo tienen por objeto fijar las bases para la intervención de la Dirección en la preservación y restauración de los recursos del patrimonio natural del municipio cuyo cuidado no esté reservado a la Federación o al Gobierno del Estado, a través de los siguientes mecanismos:
@@ -966,7 +956,7 @@ La Dirección promoverá la participación ciudadana en la creación, cuidado, m
 
 ###### Artículo 95.
 
-La Administración de los parques y jardines públicos que se establezcan dentro del territorio municipal, estará a cargo de la dependencia o entidad que determine el Ayuntamiento, sin perjuicio de la intervención que a la Dirección le corresponde, en cuanto al cumplimiento de los objetivos, acciones y normas técnicos previstas (sic) en el programa de manejo respectivo.
+La Administración de los parques y jardines públicos que se establezcan dentro del territorio municipal, estará a cargo de la dependencia o entidad que determine el Ayuntamiento, sin perjuicio de la intervención que a la Dirección le corresponde, en cuanto al cumplimiento de los objetivos, acciones y normas técnicos (sic) previstas en el programa de manejo respectivo.
 
 ###### Artículo 96.
 
@@ -1002,7 +992,7 @@ II.- Cuando se encuentren secos;
 
 > <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
 
-III.- Cuando sus ramas afecten considerablemente a las fincas; y (sic)
+III.- Cuando sus ramas afecten considerablemente a las fincas; y
 
 > <small>(REFORMADA, P.O. 4 DE ENERO DE 2008)</small>
 
@@ -1011,6 +1001,10 @@ IV.- Cuando sus raíces amenacen destruir las construcciones o deterioren el orn
 > <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 V.- Cuando por algún motivo, la Dirección lo considere conveniente.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2015)</small>
+
+Artículo 100 BIS.- La realización de actividades o la operación y funcionamiento de establecimientos comerciales, servicio o en zona industrial de competencia de las autoridades locales, que se efectúen dentro del territorio municipal, sin perjuicio del cumplimiento y observancia de las disposiciones legales de cualquier autoridad o dependencia, en los niveles de gobierno federal, estatal o municipal se deberán designar el 3% de área verdes en el área libre de construcción. En cuanto a áreas de estacionamiento deberá plantar un árbol de alguna especie nativa, por cada dos cajones, cuando el acomodo sea lineal, y un árbol de alguna especie nativa cada cuatro cajones cuando el acomodo esté encontrado y en doble línea.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
@@ -1067,8 +1061,6 @@ Sin perjuicio de las atribuciones que corresponden a la Federación en materia d
 ###### Artículo 109.
 
 Las personas que pretendan realizar actos de comercio con la flora y fauna silvestre, de manera temporal o permanente, dentro de la circunscripción municipal, deberán acreditar ante la Dirección, que la SEMARNAT les ha concedido la autorización correspondiente; en caso de no contar con dicha autorización la Dirección podrá ordenar el decomiso de los bienes hasta en tanto se ponga a disposición de la Procuraduría Federal de Protección al Ambiente, además de promover la cancelación de los permisos comerciales que existan.
-
-### CAPITULO SEPTIMO. EVALUACION AMBIENTAL
 
 ### CAPITULO SEPTIMO. EVALUACION AMBIENTAL
 
@@ -1250,8 +1242,6 @@ Será legalmente inexistente la licencia ambiental que se otorgue con base en in
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-### CAPITULO OCTAVO. MEDIDAS DE ORIENTACION Y CONCIENTIZACION
-
 ###### Artículo 128.
 
 Las disposiciones previstas en el presente capítulo tienen por objeto fomentar la participación de la sociedad en la planeación, ejecución, evaluación y vigilancia de la política ambiental municipal, así como en la preservación y restauración del equilibrio ecológico y la protección del ambiente, a través de las acciones que llevará a cabo la Dirección.
@@ -1394,8 +1384,6 @@ Quien reciba información ambiental de las autoridades competentes, en los térm
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-### CAPITULO NOVENO. INSPECCION Y VIGILANCIA
-
 ###### Artículo 149.
 
 La Dirección tendrá a su cargo la vigilancia del cumplimiento de las disposiciones de este Reglamento, la Ley General y la Ley Estatal, en coordinación con las dependencias que resulten competentes y en los términos de los acuerdos que al efecto se celebren.
@@ -1448,7 +1436,7 @@ El propietario, encargado o representante legal del lugar objeto de inspección,
 
 ###### Artículo 156.
 
-Dentro de las veinticuatro horas siguientes a la práctica de la diligencia, el personal de inspección entregará a la autoridad ordenadora el acta que hubiere levantado: (sic)
+Dentro de las veinticuatro horas siguientes a la práctica de la diligencia, el personal de inspección entregará a la autoridad ordenadora el acta que hubiere levantado:
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
@@ -1509,8 +1497,6 @@ Cuando no sea de su competencia y exista riesgo inminente de contaminación soli
 ### CAPITULO DECIMO. SANCIONES
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
-
-### CAPITULO DECIMO. SANCIONES
 
 ###### Artículo 165.
 
@@ -1614,7 +1600,7 @@ IV.- Realizar la combustión a cielo abierto de sustancias, materiales o residuo
 
 V.- Realizar la combustión de residuos o sustancias de cualquier índole, en quemadores y calderas, sin contar con la autorización de la Dirección;
 
-VI.- A los responsables de las letrinas o fosas sépticas que generen efectos al ambiente por los escurrimientos a cielo abierto o por la emisión de olores perjudiciales al ambiente; y (sic)
+VI.- A los responsables de las letrinas o fosas sépticas que generen efectos al ambiente por los escurrimientos a cielo abierto o por la emisión de olores perjudiciales al ambiente; y
 
 VII.- A quien cometa cualquier infracción de las disposiciones de este Reglamento, que no señale en alguno de los siguientes artículos.
 
@@ -1732,8 +1718,6 @@ A los infractores del presente reglamento se les impondrá además de la multa r
 
 ### CAPITULO DECIMO PRIMERO. RECURSO DE RECONSIDERACION
 
-### CAPITULO DECIMO PRIMERO. RECURSO DE RECONSIDERACION
-
 ###### Artículo 177.
 
 Contra las resoluciones o actos dictados con motivo de la aplicación del presente Reglamento, procederá el Recurso de Reconsideración. El escrito por el que se interponga el recurso respectivo, deberá satisfacer los siguientes requisitos:
@@ -1826,7 +1810,7 @@ BIOL. SERGIO ALFREDO HIRALES LEREE
 
 P.O. 4 DE ENERO DE 2008.
 
-UNICO (SIC).- Esta reforma entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+UNICO.- Esta reforma entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Sométase a consideración de este H. Cabildo en Pleno la Aprobación de la Reforma a los artículos 2, 3, fracción XI y XXXI, 4, 6 primer párrafo y fracción IV, 7, 8 párrafo primero y fracción III, 9, 10, 13, 14, 15, 16, 17, 19, 20 párrafo segundo, 23, 25, 26, 27 párrafo primero, segundo y tercero, 29 fracción III y IV, 32, 33, 34, 35, 37, 38, 41, 42, 43, 44, 45, 47, 48, 51, 52, 53, 54, 55, 56, 57, 58, 60, 63, 65 párrafo primero y segundo, 67, 69, 85, 87, 88, 90, 91, 92, 93, 94, 95, 100 párrafo y fracción V, 101, 102, 103, 104, 105, 106, 107, 108, 109, 11 (SIC), 113, 114, 115 párrafo primero y segundo, 116 párrafo primero y segundo, 117, 118, 119, 120, 122, 123 párrafo primero, segundo tercero, 124, 125, 126, 128, 129, 130, 136, 137, 138, 139, 140, 141, 142, 143, 145, 146, 147, 149, 150, 151, 155, 157, 158 párrafo tercero, 159, 160, 161 párrafo segundo, 163, 164, 170 párrafo segundo, 172, 173, 174 fracción II, IV y V, 175 fracción VI, VIII, XI, XIII y XXI, 176, fracción I, IV, VII y X, 177 fracción I del REGLAMENTO PARA EL CONTROL DE LA CALIDAD AMBIENTAL DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA.
 
@@ -1834,14 +1818,10 @@ TERCERO.- Siendo aprobada la presente reforma, Publíquese en el Periódico Ofic
 
 P.O. 22 DE NOVIEMBRE DE 2013.
 
-## TRANSITORIOS
-
-Ayuntamiento Constitucional de Ensenada, B. C.
-
-REGLAMENTO PARA EL CONTROL DE LA CALIDAD AMBIENTAL DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
-
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
-
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE AGOSTO DE 2015.
+
+UNICO.- Una vez siendo aprobada la presente reforma, publíquese en la Gaceta Municipal y/o en el Periódico Oficial del Gobierno del Estado de Baja California, para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B.C.
