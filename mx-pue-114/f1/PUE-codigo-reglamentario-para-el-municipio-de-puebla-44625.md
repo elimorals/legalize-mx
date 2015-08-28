@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2015-07-28"
+last_updated: "2015-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 28 DE JULIO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -6763,11 +6761,17 @@ Los accionadores de alarma estarán en lugares visibles desde toda área y el n�
 
 Para la autorización de construcciones en el Municipio, deberán observarse por la Unidad Administrativa Municipal competente, las disposiciones sobre medidas preventivas contra incendio.
 
-En los siguientes casos, se requerirá autorización expresa del jefe del Heroico Cuerpo de Bomberos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2015)</small>
 
-1. Industrias y Comercios, que abarquen más de 1,000 M2, de superficie;
+En los siguientes casos, se requerirá autorización expresa del Director del Heroico Cuerpo de Bomberos:
 
-2. Edificaciones de más de 5 niveles;
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+
+1. Industrias y Comercios, que abarquen más de 1,499 M2, de superficie;
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+
+2. Edificaciones de más de 3 niveles;
 
 3. Unidad Habitacional con alta densidad de población;
 
@@ -31803,9 +31807,9 @@ IV. Servicio médico: Oficiales designados por la Comisión, encargados de pract
 
 V. Director de encuentros: Oficial designado por la Comisión, que tiene a su cargo vigilar todas y cada una de las actividades relacionadas con la función de Box y Lucha Libre, salvaguardando el orden y disciplina necesarios;
 
-VI. Jueces: Oficiales designados por la Comisión, que durante la función de Box, llevan la respectiva puntuación del combate entre los contendientes, emitiendo en tarjetas al término de cada “asalto” el conteo de los puntos que a su juicio merezca cada boxeador, haciéndoselas llegar de inmediato al Comisionado en turno;
+VI. Jueces: Oficiales designados por la Comisión, que durante la función de Box, llevan la respectiva puntuación del combate entre los contendientes, emitiendo en tarjetas al término de cada "asalto" el conteo de los puntos que a su juicio merezca cada boxeador, haciéndoselas llegar de inmediato al Comisionado en turno;
 
-VII. Referee: Oficiales designados por la Comisión, encargados de hacer cumplir las reglas por las que se rigen ambos deportes, por lo que tendrá supervisión sobre la contienda, actuando para ello dentro del “Cuadrilatero”;
+VII. Referee: Oficiales designados por la Comisión, encargados de hacer cumplir las reglas por las que se rigen ambos deportes, por lo que tendrá supervisión sobre la contienda, actuando para ello dentro del "Cuadrilatero";
 
 VIII. Anunciador: Oficial designado por la Comisión, facultado para hacer la presentación de los oficiales del cuadrilátero nombrados para actuar, fichas técnicas de los contendientes, así como las características específicas de la pelea;
 
@@ -36258,6 +36262,12 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Dictamen.
 TERCERO. La Contraloría Municipal, deberá elaborar el Programa Municipal de Mejora Regulatoria para la actual Administración Pública Municipal, en un plazo no mayor a seis meses contados a partir de la entrada en vigor del presente Dictamen; y con el objeto de dar cumplimiento a la Ley de Gobernanza Regulatoria para el Estado de Puebla, por única ocasión el Programa estará vigente por el período constitucional de la presente Administración.
 
 CUARTO. La Contraloría Municipal, deberá emitir o adecuar los manuales o lineamientos de organización, de procedimiento y de operación correspondientes, en un término de ciento ochenta días naturales a partir de la publicación del presente Dictamen en el Periódico Oficial del Estado de Puebla.
+
+P.O. 28 DE AGOSTO DE 2015.
+
+PRIMERO. Las disposiciones aprobadas en el presente Dictamen entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
 
 ## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA, PUBLICADO EL 5 DE DICIEMBRE DE 2019”.]
 
