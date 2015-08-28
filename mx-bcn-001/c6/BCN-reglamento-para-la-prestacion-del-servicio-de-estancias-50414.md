@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-prestacion-del-servicio-de-estancias-50414"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-04-28"
-last_updated: "2014-04-21"
+last_updated: "2015-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50414&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "BCN"
 
 REGLAMENTO PARA LA PRESTACIÓN DEL SERVICIO DE ESTANCIAS INFANTILES EN EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL REGLAMENTO PARA LA PRESTACIÓN DE SERVICIOS DE CENTROS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 28 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS 45 DÍAS POSTERIORES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 28 de abril de 2006.
 
@@ -1094,3 +1096,29 @@ P.O. 21 DE ABRIL DE 2014.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el periódico oficial del estado de Baja California.
 
 SEGUNDO.- Dentro de los 30 días siguientes a la entrada en vigor de las presentes reformas, se convocará a sesión del Consejo de Estancias Infantiles para tomar protesta al Regidor coordinador de la Comisión de la Familia como nuevo integrante.
+
+P.O. 28 DE AGOSTO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente reglamento entrará en vigor a los 45 días posteriores a su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente reglamento abroga el reglamento para la Prestación del Servicio de Estancias infantiles en el Municipio de Ensenada, Baja California, publicado en el Periódico Oficial del Estado el 28 de Abril de 2006, con las reformas y adiciones sucedidas a partir de su vigencia.
+
+###### ARTÍCULO TERCERO.
+
+Por única ocasión el Consejo de Centros de Atención infantil se mantendrá con los integrantes actuales, tomando en cuenta que ya fue instalado, únicamente se le cambiará el nombre como Consejo de Centros de Atención Infantil, además contará con un término de 90 días a partir de la entrada en vigor del nuevo reglamento para emitir el Reglamento interno que habrá de normar su funcionamiento.
+
+###### ARTÍCULO CUARTO.
+
+El Registro Municipal de Centros de Atención Infantil, deberá estar completo dentro de los seis meses contados a partir de la vigencia del presente reglamento.
+
+###### ARTÍCULO QUINTO.
+
+Las evaluaciones de excelencia que realice el Consejo de Centros de Atención Infantil a que se refiere el presente reglamento, deberán ser iniciadas a partir del primer año de vigencia del presente reglamento.
+
+###### ARTÍCULO SEXTO.
+
+Para efectos del cumplimiento al artículo 10y (sic) al segundo párrafo del artículo 83 del presente reglamento, las dependencias correspondientes, la Tesorería Municipal y la Dirección de Finanzas, tomarán las medidas necesarias para que sean incluidos dichos estímulos, en la Ley de Ingresos del siguiente ejercicio fiscal.
