@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-48-2013-del-pleno-del-consejo-de-la-96784"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-12-06"
-last_updated: "2015-05-08"
+last_updated: "2015-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96784&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-11-28"
 
 ACUERDO GENERAL 48/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE AGOSTO DE 2015.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 6 de diciembre de 2013.
 
@@ -249,19 +249,19 @@ II. Someter a consideración del Comité Técnico sus propuestas, a través del 
 
 III. Hacer el seguimiento de los proyectos autorizados por el Comité Técnico, en coordinación con la Secretaría Ejecutiva de Administración;
 
-> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTÍCULO 12 BIS, FRACCIONES III Y IV; Y SE ADICIONA LA FRACCIÓN V, AL MISMO PRECEPTO DEL ACUERDO GENERAL 48/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 8 DE MAYO DE 2015)</small>
-
-IV. Aprobar los certificados de necesidad a que se refieren los artículos 296 Bis y 296 Ter del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo; y
+IV. (DEROGADA POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015)
 
 > <small>(ADICIONADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTÍCULO 12 BIS, FRACCIONES III Y IV; Y SE ADICIONA LA FRACCIÓN V, AL MISMO PRECEPTO DEL ACUERDO GENERAL 48/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, D.O.F. 8 DE MAYO DE 2015)</small>
 
 V. Las demás que determine el Comité Técnico.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 12 Ter.
 
-La Unidad sesionará de acuerdo a las necesidades que se presenten. Las decisiones se tomarán por mayoría de votos, por lo que es necesario que estén presentes al menos dos de sus integrantes. El Secretario tendrá, respecto de la Unidad, las funciones que le confiere el artículo 9, fracciones I, II, IV, V y VI de este Acuerdo.
+La Unidad sesionará de acuerdo a las necesidades que se presenten. Las decisiones se tomarán por mayoría de votos, por lo que es necesario que estén presentes al menos dos de sus integrantes. El Secretario tendrá, respecto de la Unidad, las funciones que le confiere el artículo 9, fracciones I, II, V y VI de este Acuerdo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 12/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE MARZO DE 2015)</small>
 
 En cada sesión de la Unidad, se levantará acta que contendrá los mismos requisitos establecidos en el artículo 12 de este Acuerdo.
 
@@ -372,3 +372,11 @@ D.O.F. 8 DE MAYO DE 2015.
 PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 28 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Los certificados de necesidad que a la fecha de entrada en vigor de este Acuerdo se encuentren en trámite ante la Unidad de Evaluación de Proyectos, deberán ser remitidos por ésta al grupo a que se refiere este Acuerdo para su análisis y, en su caso, aprobación.
