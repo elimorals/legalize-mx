@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2014-06-30"
+last_updated: "2015-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -583,11 +583,11 @@ Las elecciones de comisarios se sufragarán por planilla al cabo el segundo domi
 
 ### CAPITULO II. DE LA INSTALACION DEL AYUNTAMIENTO
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 36.
 
-Los ayuntamientos se instalarán el día 30 de septiembre del año en que deba renovarse, previa protesta que otorguen ante el Ayuntamiento saliente en sesión que se celebrará el día anterior. La instalación es un acto meramente solemne y la responsabilidad del Ayuntamiento saliente cesa el 29 de Septiembre del año de la elección a las 0:00 horas en que inicia la responsabilidad del nuevo Ayuntamiento. Cada Ayuntamiento notificará inmediatamente sobre su toma de posesión a los Poderes del Estado y a los Ayuntamientos de Municipios limítrofes.
+Los presidentes municipales, síndicos y regidores, deberán rendir protesta constitucional de su cargo el día de la instalación de los Ayuntamientos que integran, que será el día 30 de septiembre del año de la elección. La instalación es un acto meramente formal y la responsabilidad del Ayuntamiento saliente cesa el 29 de septiembre del año de la elección a las 24:00 horas, e inicia inmediatamente la responsabilidad del nuevo Ayuntamiento. Cada Ayuntamiento notificará inmediatamente sobre su toma de posesión e instalación a los Poderes del Estado y a los Ayuntamientos de Municipios limítrofes.
 
 ###### ARTICULO 37.
 
@@ -1067,7 +1067,7 @@ XV. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas.
 
 ARTICULO 64 BIS.- Son facultades y obligaciones de los ayuntamientos en materia de cultura, recreación y espectáculos, las siguientes:
 
-l. Participar en coordinación con el Gobierno del Estado e integrarse al Sistema Estatal de Cultura, para fomentar y difundir los valores culturales y artísticos, nombrando al efecto un cronista municipal;
+I. Participar en coordinación con el Gobierno del Estado e integrarse al Sistema Estatal de Cultura, para fomentar y difundir los valores culturales y artísticos, nombrando al efecto un cronista municipal;
 
 II. Organizar, con la colaboración ciudadana bibliotecas municipales, casas de cultura, museos y galerías artísticas;
 
@@ -1199,7 +1199,7 @@ Son facultades y obligaciones del Ayuntamiento en materia de Equidad y Género l
 
 > <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
 
-l. Implementar un programa municipal de Participación Equitativa de la Mujer, que considere acciones y presupuestos encaminados a mejorar sus condiciones de vida. Así como darle seguimiento y efectuar evaluaciones periódicas del mismo;
+I. Implementar un programa municipal de Participación Equitativa de la Mujer, que considere acciones y presupuestos encaminados a mejorar sus condiciones de vida. Así como darle seguimiento y efectuar evaluaciones periódicas del mismo;
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
@@ -1907,7 +1907,7 @@ Para que el Gobierno del Estado pueda otorgar recursos materiales o subsidios, o
 
 ARTICULO 109 A.- La Unidad de Obras Públicas estará a cargo de in (sic) Secretario, Director o Jefe, preferentemente con experiencia profesional en el ramo de obras públicas, responsable de vigilar los trabajos que tengan por objeto construir, instalar, ampliar, adecuar, remodelar, restaurar, mantener, modificar y demoler bienes inmuebles, así como:
 
-l. Formular el Programa anual de Desarrollo Urbano Municipal y las políticas de creación y administración de reservas territoriales, a fin de someterlos a la consideración del Presidente Municipal y aprobación del Ayuntamiento;
+I. Formular el Programa anual de Desarrollo Urbano Municipal y las políticas de creación y administración de reservas territoriales, a fin de someterlos a la consideración del Presidente Municipal y aprobación del Ayuntamiento;
 
 II. Intervenir en la celebración y vigilar el cumplimiento de los contratos de obra pública;
 
@@ -3812,3 +3812,15 @@ La reforma a la que se refiere el artículo 32 del presente decreto no será apl
 ###### ARTÍCULO TERCERO.
 
 Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
+
+P.O. 28 DE AGOSTO DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 862 POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 36 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Titular del Poder Ejecutivo para su promulgación y Publicación en el Periódico Oficial del Gobierno del Estado.
