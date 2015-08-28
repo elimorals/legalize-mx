@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-comision-consultiva-estatal-de-60693"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-04"
-last_updated: "2008-04-04"
+last_updated: "2015-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60693&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,17 +21,17 @@ state: "BCN"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION CONSULTIVA ESTATAL DE SEGURIDAD E HIGIENE EN EL TRABAJO
 
-REGLAMENTO INTERIOR DE LA COMISION CONSULTIVA ESTATAL DE SEGURIDAD E HIGIENE EN EL TRABAJO
+REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD Y SALUD EN EL TRABAJO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD Y SALUD EN EL TRABAJO, PUBLICADO EN LA SECCIÓN I DEL P.O. DE 28 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 4 de abril de 2008.
 
 JOSÉ GUADALUPE OSUNA MILLÁN, GOBERNADOR DEL ESTADO, EN EJERCICIO DE LA FACULTAD QUE ME CONFIERE EL ARTÍCULO 49, FRACCIONES I, XVI, Y XXV, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, Y CON FUNDAMENTO EN LOS ARTÍCULOS 2, 3, Y 9, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, EN CORRELACIÓN CON EL PÁRRAFO SEGUNDO DEL ARTÍCULO 512-C, DE LA LEY FEDERAL DEL TRABAJO, Y
 
 CONSIDERANDO
-
-.
 
 CUARTO.- Que con fundamento en los artículos 512-C, párrafo segundo, de la Ley Federal del Trabajo, y 121, fracción VI, del Reglamento Federal de Seguridad, Higiene y Medio Ambiente de Trabajo, la Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo aprobó su Reglamento Interior; por lo que se expide el siguiente:
 
@@ -99,7 +99,7 @@ La Comisión será presidida por el Gobernador del Estado de Baja California, qu
 
 ###### Artículo 7.
 
-Fungirá cómo Secretario Técnico de la Comisión el representante de la Secretaría del Trabajo y Previsión Social, recayendo dicha función en el Delegado Federal del Trabajo en Baja California, quien en ausencia del mismo, será suplido por la persona que el designe.
+Fungirá como Secretario Técnico de la Comisión el representante de la Secretaría del Trabajo y Previsión Social, recayendo dicha función en el Delegado Federal del Trabajo en Baja California, quien en ausencia del mismo, será suplido por la persona que el designe.
 
 ###### Artículo 8.
 
@@ -280,3 +280,11 @@ JOSÉ FRANCISCO BLAKE MORA.
 SECRETARIO DE TRABAJO Y PREVISIÓN SOCIAL,
 
 RENATO SANDOVAL FRANCO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE AGOSTO DE 2015.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo, publicado en el Periódico Oficial del Estado el 4 de abril de 2008, y se dejan sin efecto todas las disposiciones normativas que se opongan a este Reglamento.
