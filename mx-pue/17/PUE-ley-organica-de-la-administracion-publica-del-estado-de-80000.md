@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-80000"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-02-11"
-last_updated: "2015-03-06"
+last_updated: "2015-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2015.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 11 de febrero de 2011.
 
@@ -85,7 +85,7 @@ Podrán estar directamente sectorizados al Gobernador del Estado, organismos pú
 
 ARTÍCULO 4 BIS.- La Consejería Jurídica del Gobernador estará a cargo de un Titular, que tendrá las atribuciones siguientes:
 
-I. Representar legalmente al Gobernador del Estado, en todo tipo de juicios, procedimientos, recursos, acciones y controversias en que el mismo intervenga con cualquier carácter o tenga interés. La representación a que se refiere esta fracción comprende la ejecución y desahogo de todo tipo de actos procesales;
+I.- Representar legalmente al Gobernador del Estado, en todo tipo de juicios, procedimientos, recursos, acciones y controversias en que el mismo intervenga con cualquier carácter o tenga interés. La representación a que se refiere esta fracción comprende la ejecución y desahogo de todo tipo de actos procesales;
 
 II.- Promover medios preparatorios de juicio, medidas precautorias, demandas, contestaciones y reconvenciones, incidentes, recursos, ofrecer pruebas, presentar alegatos, e intervenir en todos los demás actos procesales, en los asuntos en que el Gobernador del Estado sea parte o tenga interés, hasta la conclusión y ejecución de los juicios correspondientes;
 
@@ -857,9 +857,9 @@ II.- (DEROGADA, P.O. 11 DE MAYO DE 2012)
 
 III.- Llevar a cabo, en el ámbito de su competencia, la evaluación del Plan Estatal de Desarrollo, los Programas Sectoriales, Institucionales, Regionales, Especiales y Anuales, las políticas públicas estatales y coordinadas y vigilar que los mismos sean actualizados;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-IV.- Proponer y dar seguimiento a los acuerdos, convenios y programas que suscriba el Gobernador del Estado con otros Poderes, niveles de gobierno y Organismos Constitucionalmente Autónomos, en materia de auditoría, evaluación, inspección, revisión, supervisión y de contraloría social;
+IV.- Proponer y dar seguimiento a los acuerdos, convenios y programas que suscriba el Gobernador del Estado con otros Poderes, niveles de gobierno y Organismos Constitucional o legalmente Autónomos, en materia de auditoria, evaluación, inspección, revisión, supervisión, contraloría social, transparencia, protección y tratamiento de datos personales y gobierno abierto;
 
 V.- Proporcionar a la Secretaría de la Función Pública del Gobierno Federal, información sobre el destino y uso de recursos federales transferidos al Estado y a sus Municipios;
 
@@ -871,11 +871,9 @@ VII.- Coordinarse con los órganos de control administrativo, o sus correlativos
 
 VIII.- Establecer colaboración con las autoridades investigadoras en los términos de la legislación aplicable;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-IX.- Expedir las normas, políticas y procedimientos generales que en materia de auditoría, evaluación, inspección, revisión, supervisión, y en su caso, de contraloría social, deberán observar las Dependencias y Entidades de la Administración Pública Estatal en el desempeño de sus atribuciones;
+IX.- Expedir en el ámbito de su competencia las normas, políticas y procedimientos generales que en materia de auditoría, evaluación, inspección, revisión, supervisión, control interno, protección y tratamiento de datos personales, gobierno abierto y en su caso, de contraloría social, deberán observar las Dependencias y Entidades de la Administración Pública Estatal en el desempeño de sus atribuciones;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
 
@@ -885,11 +883,9 @@ X.- Requerir a la dependencia o entidad que corresponda, la instrumentación de 
 
 XI.- Expedir los instrumentos que regulen las bases generales para la realización de las auditorías, evaluaciones, inspecciones, revisiones o supervisiones, y en su caso, de contraloría social, en las dependencias y entidades de la Administración Pública Estatal, llevándolas a cabo en forma directa o por terceros;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-XII.- Expedir las normas, políticas y lineamientos para que los empleados que manejen fondos del Estado, caucionen ante la Secretaría de Finanzas y Administración su debido manejo;
+XII.- Expedir las normas, políticas y lineamientos que en su caso correspondan para que los empleados que manejen fondos del Estado, caucionen ante la Secretaría de Finanzas y Administración su debido manejo;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -933,9 +929,9 @@ XXV.- Por acuerdo del Gobernador del Estado, por sí o a solicitud de las depend
 
 XXVI.- Revisar, auditar y evaluar a las Dependencias o Entidades de la Administración Pública Estatal, por acuerdo del Gobernador del Estado, por sí o a solicitud de éstas con el objeto de revisar y evaluar periódicamente el avance físico-financiero de los programas de inversión y obra pública que se realicen con recursos estatales, federales y de participación social, así como con recursos convenidos con la Federación;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-XXVII.- Inspeccionar que las dependencias y entidades de la Administración Pública Estatal, cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, control interno, contratación y pago de personal, contratación de servicios, ejecución de obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
+XXVII.- Inspeccionar que las dependencias y entidades de la Administración Pública Estatal, cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, control interno, protección tratamiento y de datos personales, contraloría social, gobierno abierto, contratación y pago de personal, contratación de servicios, ejecución de obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
 
 XXVIII.- Inspeccionar y vigilar que se efectúe, en los términos establecidos, la aplicación de los subsidios, aportaciones o transferencias de fondos que el Estado otorgue en favor de Municipios, Entidades, Instituciones o particulares;
 
@@ -959,7 +955,9 @@ XXXIII.- Llevar el registro y control de los servidores públicos que han sido i
 
 XXXIV.- Conocer e investigar los actos, omisiones o conductas de los servidores públicos para establecer responsabilidades administrativas, imponer o aplicar las sanciones que correspondan en los términos que las leyes señalan, y en su caso, hacer del conocimiento de la autoridad competente tales hechos, prestándole para el efecto la colaboración que le fuere requerida;
 
-XXXV.- Fincar las responsabilidades en términos de la Ley Reglamentaria del Título IX de la Constitución Política del Estado, que resulten por el uso, destino y aplicación inadecuados de fondos públicos federales, estatales y municipales convenidos. Asimismo, notificar a la Secretaría de la Función Pública del Gobierno Federal, de las irregularidades que se detecten, para que en el ámbito de su competencia, determine las responsabilidades que correspondan, en el caso de las Dependencias y Entidades Federales;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+XXXV.- Fincar las responsabilidades en términos de la Ley Reglamentaria del Título IX de la Constitución Política del Estado, que resulten por el uso, destino y aplicación inadecuados de fondos públicos federales, estatales y municipales. Asimismo, notificar a la Secretaría de la Función Pública del Gobierno Federal, de las irregularidades que se detecten, para que en el ámbito de su competencia, determine las responsabilidades que correspondan, en el caso de las Dependencias y Entidades Federales;
 
 XXXVI.- Vigilar el cumplimiento de las normas internas de la Secretaría, estableciendo las responsabilidades administrativas de su personal, imponiendo y aplicándoles en su caso, las sanciones que correspondan, a través de la unidad administrativa que el Secretario designe;
 
@@ -975,7 +973,9 @@ XXXIX.- (DEROGADA, P.O. 11 DE MAYO DE 2012)
 
 XL.- Recibir, analizar e informar al Gobernador del Estado, previa autorización por parte de la Secretaría de Finanzas y Administración, sobre los cambios de organización y procedimientos que propongan los Titulares de las Dependencias y Entidades de la Administración Pública Estatal, que impliquen modificaciones a su estructura básica, su Reglamento Interior, sus Manuales de Organización, de Procedimientos y de Servicios al Público, de acuerdo a las normas establecidas y tendientes a mejorar el desarrollo administrativo;
 
-XLI.- Llevar el registro y publicar anualmente en el Periódico Oficial del Estado, la relación de las Entidades Paraestatales que formen parte de la Administración Pública del Estado y su sectorización;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+XLI.- Llevar el registro y publicar en el Periódico Oficial del Estado, la relación de las Entidades Paraestatales que formen parte de la Administración Pública del Estado y su sectorización;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -985,19 +985,19 @@ XLII.- Proponer al Gobernador del Estado, conjuntamente con la Secretaría de Fi
 
 XLIII.- (DEROGADA, P.O. 11 DE MAYO DE 2012)
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
+XLIV.- (DEROGADA, P.O. 28 DE AGOSTO DE 2015)
 
-XLIV.- Establecer, para el mejor desempeño de sus atribuciones, delegaciones y/o comisarías públicas en las dependencias y entidades de la Administración Pública Estatal, con la circunscripción y sede que requieran las necesidades de control y evaluación gubernamental;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XLV.- Nombrar y designar delegados de la Secretaría en las dependencias y comisarios o sus equivalentes en entidades de la Administración Pública Estatal, en los patronatos, comités, consejos o juntas de gobierno y organismos auxiliares del Gobierno del Estado;
+XLV.- Nombrar y designar delegados de la Secretaría en las dependencias y comisarios en entidades de la Administración Pública Estatal, en los patronatos, comités, consejos o juntas de gobierno y organismos auxiliares del Gobierno del Estado; para el control, evaluación, investigación y determinación de responsabilidades;
 
 XLVI.- Proponer al Gobernador del Estado, los visitadores especiales previstos en la fracción XIV del artículo 105 de la Constitución Política del Estado;
 
 XLVII.- Recibir, registrar y resguardar las declaraciones patrimoniales de los servidores de la Administración Pública Estatal que legalmente estén obligados a presentarlas y verificar o practicar las investigaciones que fueran pertinentes en el ámbito de su competencia;
 
-XLVIII.- Establecer la política pública en materia de transparencia y emitir la normatividad que deberán observar las Dependencias y Entidades de la Administración Pública Estatal y verificar que la información que se haga pública sea congruente y dar seguimiento a la información contenida en los portales de gobierno;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+XLVIII.- Establecer la política pública en materia de transparencia, y acceso a la información, emitir y dar seguimiento a las normas, políticas y procedimientos generales que deberán observar las Dependencias y Entidades de la Administración Pública Estatal, verificar que la información que se haga pública sea congruente y dar seguimiento a la información contenida en los portales de gobierno;
 
 XLIX.- Recibir y atender directamente, o a través de las Delegaciones de la Secretaría o de los órganos de control, las quejas o denuncias que presenten los particulares en contra de los servidores públicos por incumplimiento en sus obligaciones o con motivo de acuerdos, convenios o contratos que celebren con las Dependencias o Entidades de la Administración Pública Estatal, de acuerdo con las normas establecidas para tal efecto;
 
@@ -1005,11 +1005,7 @@ L.- Conocer y resolver en el ámbito de su competencia, de los recursos de revoc
 
 LI.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-LII.- Vigilar e inspeccionar el cumplimiento y operación en los términos de las leyes respectivas de las concesiones, permisos y autorizaciones para la explotación de la infraestructura de transportes;
+LII.- (DEROGADA, P.O. 28 DE AGOSTO DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1017,21 +1013,11 @@ LII.- Vigilar e inspeccionar el cumplimiento y operación en los términos de la
 
 LIII.- Celebrar convenios con la Federación, Estados y Municipios para cumplir con las facultades y atribuciones que le otorga la ley y demás ordenamientos legales;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+LIV.- (DEROGADA, P.O. 28 DE AGOSTO DE 2015)
 
-LIV.- Conjuntamente con la Secretaría de Infraestructura y Transportes o de manera directa, vigilar, verificar e inspeccionar el uso adecuado de la infraestructura de transportes en general, de conformidad con las atribuciones conferidas en las leyes, reglamentos y convenios;
+LV.- (DEROGADA, P.O. 28 DE AGOSTO DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-LV.- Comprobar la correcta aplicación de rutas, horarios, itinerarios y tarifas del servicio de transporte;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-LVI.- Inspeccionar y vigilar el servicio de transporte en sus diversas modalidades, sus servicios conexos y a los prestadores del mismo;
+LVI.- (DEROGADA, P.O. 28 DE AGOSTO DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1039,11 +1025,9 @@ LVI.- Inspeccionar y vigilar el servicio de transporte en sus diversas modalidad
 
 LVII.- Requerir la información necesaria a Dependencias, Entidades, Municipios o particulares para el debido cumplimiento de sus facultades, imponiendo en los casos que proceda las sanciones o medidas respectivas; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-LVIII.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
+LVIII.- Las demás que le atribuyan las Leyes, Reglamento, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
 
 ### CAPÍTULO VI. DE LA SECRETARÍA DE COMPETITIVIDAD, TRABAJO Y DESARROLLO ECONÓMICO
 
@@ -1625,17 +1609,17 @@ XXXVII.- Contratar y, en su caso, concesionar los servicios que las diversas ley
 
 XXXVIII.- Coordinar con la instancia competente, la elaboración del Programa Estatal de Obras de infraestructura hídrica, ejecutadas total o parcialmente con recursos estatales;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-XXXIX.- Vigilar, verificar e inspeccionar, de manera directa o conjunta con la Secretaría de la Contraloría, el uso adecuado de la infraestructura de transportes en general, de conformidad con las atribuciones conferidas en las leyes, reglamentos y convenios;
+XXXIX.- Vigilar, inspeccionar y controlar el uso adecuado de la infraestructura de transportes en general, de conformidad con las atribuciones conferidas en las leyes, reglamentos y convenios;
 
 > <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
 
 XL.- Normar y establecer las políticas y criterios para llevar a cabo directamente o a través de terceros, los estudios y proyectos de ingeniería de tránsito, de transporte público mercantil, así como determinar la instalación y mantenimiento de la señalización en las obras viales del Estado;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-XLI.- Diseñar y establecer las políticas y criterios para el establecimiento de rutas, horarios, itinerarios y tarifas del servicio de transporte autorizando, modificando, cancelando y actualizando su correcta aplicación;
+XLI.- Diseñar y establecer las políticas y criterios para el establecimiento de rutas, horarios, itinerarios y tarifas del servicio de transporte autorizando, modificando, cancelando, así como verificar su correcta aplicación;
 
 > <small>(ADICIONADA, P.O. 6 DE MARZO DE 2015)</small>
 
@@ -1661,13 +1645,21 @@ XLVI.- Establecer, administrar y mantener actualizado el registro y control de l
 
 XLVII.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales;
 
-> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-XLVIII.- Recibir, tramitar y resolver, los procedimientos administrativos, y en su caso, imponer y aplicar sanciones en los términos de las leyes, reglamentos y demás disposiciones legales en materia de su competencia, y
+XLVIII.- Recibir, tramitar y resolver, los procedimientos administrativos, y en su caso, imponer y aplicar sanciones en los términos de las leyes, reglamentos y demás disposiciones legales en materia de su competencia;
 
-> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-XLIX.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
+XLIX.- Celebrar convenios con la Federación, Estados y Municipios para cumplir con las facultades y atribuciones que le otorga la ley y demás ordenamientos legales;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+L.- Requerir la información necesaria a Dependencias, Entidades, Municipios o particulares para el debido cumplimiento de sus facultades, imponiendo en los casos que proceda las sanciones o medidas respectivas; y
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+LI.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE MARZO DE 2015)</small>
 
@@ -2524,3 +2516,37 @@ NOVENO. El Ejecutivo del Estado realizará las modificaciones normativas que cor
 En tanto no se realicen las reformas a que se refiere el párrafo anterior, la Secretaría de Infraestructura y Transportes, seguirán aplicando los Reglamentos vigentes en todo aquello que no contravengan el sentido del presente Decreto.
 
 DÉCIMO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 28 DE AGOSTO DE 2015.
+
+DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES IV, IX, XII, XXVII, XXXV, XLI, XLV, XLVIII, LVIII Y SE DEROGA LA FRACCIÓN XLIV, TODAS DEL ARTÍCULO 37 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE AGOSTO DE 2015.
+
+DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES XXXIX, XLI, XLVIII Y XLIX DEL ARTÍCULO 41 Y SE ADICIONAN LAS FRACCIONES L Y LI DEL ARTÍCULO 41 Y SE DEROGAN LAS FRACCIONES LII, LIV A LVI DEL ARTÍCULO 37, TODOS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA.
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las unidades administrativas encargadas de los asuntos que por virtud de este Decreto pasen a formar parte de la Secretaría de Infraestructura y Transportes, se transferirán, dentro del término de 60 días posteriores a la entrada en vigor del presente decreto, incluyendo los recursos humanos que sean necesarios, así como lo (sic) financieros y materiales asignados a aquellas.
+
+Los asuntos en trámite, así como los juicios, recursos y procedimientos que sean materia del traslado a la Secretaría de Infraestructura y Transportes, serán atendidos por las unidades que los tengan a su cargo en tanto se formalice la transferencia de los mismos.
+
+Las Secretarías de Finanzas y Administración y de la Contraloría, supervisarán la transmisión de los recursos a que se refiere el punto anterior.
+
+TERCERO. Los derechos y obligaciones contraídos por la Secretaría de la Contraloría se entenderán asignados a la Secretaría de Infraestructura y Transportes.
+
+CUARTO. Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto pasen de una Dependencia a otra, se respetarán en términos de las disposiciones legales aplicables.
+
+QUINTO. Los trámites de cesión (sic) derechos y cambios de vehículos del servicio mercantil “taxi” y “taxi local” que a la entrada en vigor del presente decreto, se encuentren en proceso de análisis y autorización en la Secretaría de Infraestructura y Transportes, se continuarán y concluirán conforme a las disposiciones vigentes al momento en que se hayan (sic) presentado la solicitud correspondiente.
+
+SEXTO. Los vehículos del servicio mercantil de transporte de personas en su modalidad de taxi y taxi local que a la entrada en vigor del presente Decreto se encuentren operando, podrán continuar prestando el servicio, hasta que se cumpla la antigüedad de los mismos, preestablecida en los permisos otorgados.
+
+SÉPTIMO. El Ejecutivo del Estado expedirá las modificaciones al Reglamento de esta Ley.
+
+OCTAVO. En tanto no se realicen las reformas a que se refiere el artículo anterior, la Secretaría de Infraestructura y Transportes, seguirá aplicando los Reglamentos vigentes en todo aquello que no contravengan (sic) el sentido del presente Decreto.
+
+NOVENO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
