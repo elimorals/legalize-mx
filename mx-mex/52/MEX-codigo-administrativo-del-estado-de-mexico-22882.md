@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2015-08-25"
+last_updated: "2015-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE AGOSTO DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -2857,6 +2857,12 @@ Las escalas de los cuerpos técnico profesional están integradas por el persona
 
 ###### Artículo 2.
 
+49 Sexies.- Se negará el Dictamen de Factibilidad de Impacto Sanitario cuando se incumpla con cualquiera de los requisitos establecidos en este Código.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
+
+###### Artículo 2.
+
 49 Septies.- Para efectos del presento Capítulo, el Consejo Rector de Impacto Sanitario tendrá las funciones siguientes:
 
 I. Emitir el Dictamen de Factibilidad de Impacto Sanitario, para el funcionamiento de rastros.
@@ -2866,12 +2872,6 @@ II. Elaborar el diagnóstico de la situación que prevalece en materia de rastro
 III. Proponer programas y acciones tendientes a combatir el maltrato y sufrimiento animal en colaboración con las dependencias del Ejecutivo del Estado, organismos auxiliares de carácter estatal y municipal, y de los sectores social y privado.
 
 IV. Las demás que sean necesarias para el cumplimiento de su objeto.
-
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
-
-###### Artículo 2.
-
-49 Sexies.- Se negará el Dictamen de Factibilidad de Impacto Sanitario cuando se incumpla con cualquiera de los requisitos establecidos en este Código.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 2.31], G.G. 30 DE SEPTIEMBRE DE 2010)
 
@@ -13509,17 +13509,17 @@ a) Infraestructura Vial Primaria.- La integrada por carreteras, pasos vehiculare
 
 b) Infraestructura Vial Local.- La integrada por pasos vehiculares, avenidas, calzadas, calles y cerradas que permiten la comunicación al interior del municipio y la integración con la red vial primaria.
 
-> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.G. 28 DE AGOSTO DE 2015)</small>
 
-VI. Publicidad Exterior.- Toda forma de difusión de mensajes mediante el uso de anuncios, carteles o cualquier otro medio de comunicación visual o auditiva que para su instalación requieran el concurso de diversos elementos, tales como estructuras, soportes, cartelera, pantalla, equipamientos u otros, que siempre serán considerados como una unidad integral y estén colocados o instalados dentro del derecho de vía o su zona de seguridad y puedan ser observados o escuchados desde la infraestructura vial primaria sea de cuota, libre de peaje o de uso restringido y local incluyendo sus elementos complementarios;
-
-> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
-
-VI bis. Responsable de un Inmueble.- Persona física o jurídica colectiva que tenga la propiedad, posesión, administración, disposición, uso o disfrute de un bien inmueble y permita la instalación de un anuncio con o sin estructura en su interior, dentro del derecho de vía; quien será responsable solidario en los términos del capítulo tercero de este Libro;
+VI. Publicidad Exterior.- Toda forma de difusión de mensajes mediante el uso de anuncios, carteles o cualquier otro medio de comunicación visual o auditiva que para su instalación requieran el concurso de diversos elementos, tales como estructuras, soportes, cartelera, pantalla, equipamientos u otros, que siempre serán considerados como una unidad integral y estén colocados o instalados dentro del derecho de vía y puedan ser observados o escuchados desde la infraestructura vial primaria sea de cuota, libre de peaje o de uso restringido y local incluyendo sus elementos complementarios;
 
 > <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
 
-VI. ter. Anunciante.- Persona física o jurídica colectiva que difunda o publicite productos, bienes, servicios o actividades, haciendo uso de cualquier elemento que corresponda a la publicidad exterior que se encuentre instalada dentro del derecho de vía;
+VI Bis. Responsable de un Inmueble.- Persona física o jurídica colectiva que tenga la propiedad, posesión, administración, disposición, uso o disfrute de un bien inmueble y permita la instalación de un anuncio con o sin estructura en su interior, dentro del derecho de vía; quien será responsable solidario en los términos del capítulo tercero de este Libro;
+
+> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+
+VI Ter. Anunciante.- Persona física o jurídica colectiva que difunda o publicite productos, bienes, servicios o actividades, haciendo uso de cualquier elemento que corresponda a la publicidad exterior que se encuentre instalada dentro del derecho de vía;
 
 > <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
 
@@ -13539,9 +13539,9 @@ VIII Bis. Transporte Teleférico.- El que se presta a través de un sistema elev
 
 VIII Ter. Zona de Influencia.- Es la extensión, que en relación al teleférico, se determinará en cada caso, atendiendo a la topografía y a la naturaleza geológica del terreno, a las peculiares instalaciones del teleférico y a las características de utilización pública o privada de la zona afectada; y
 
-> <small>(REFORMADA, G.G. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, G.G. 28 DE AGOSTO DE 2015)</small>
 
-IX. Zona de Seguridad.- Al predio lindante con el derecho de vía de anchura variable determinada en las normas técnicas que emita la Secretaría de Infraestructura, cuya preservación y restricción de uso, son necesarios para evitar riesgos a los usuarios de la infraestructura vial.
+IX. Zona de Seguridad.- Franja de terreno adyacente al derecho de vía, de anchura hasta de cien metros, en términos de las normas técnicas que emita la Secretaría de Infraestructura, cuya preservación y restricción de uso son indispensables para evitar riesgos a los usuarios de la infraestructura vial primaria.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -13893,7 +13893,21 @@ VI. Dispositivos para el control de tránsito instalados en la infraestructura v
 
 VII. Azoteas, patios, jardines, terrenos y demás inmuebles de propiedad particular con uso de suelo habitacional; y
 
-VIII. Los demás lugares que expresamente prohíban otras leyes y demás disposiciones jurídicas aplicables.
+> <small>(REFORMADA, G.G. 28 DE AGOSTO DE 2015)</small>
+
+VIII. Camellones, fajas separadoras, isletas y zona de seguridad;
+
+> <small>(ADICIONADA, G.G. 28 DE AGOSTO DE 2015)</small>
+
+IX. Banquetas, cuando su instalación afecte la movilidad de los peatones;
+
+> <small>(ADICIONADA, G.G. 28 DE AGOSTO DE 2015)</small>
+
+X. Los demás lugares que expresamente prohíban otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 28 DE AGOSTO DE 2015)</small>
+
+Ante la instalación de publicidad exterior en contravención a lo establecido por el presente artículo, podrá proceder la demolición y el retiro de la publicidad exterior a costa del infractor.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -17868,3 +17882,13 @@ G.G. 25 DE AGOSTO DE 2015.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 28 DE AGOSTO DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Todas las personas físicas y jurídicas colectivas que tengan colocada o instalada publicidad exterior en camellones, fajas separadoras, isletas y zona de seguridad deberán retirarla en el término de quince días a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
