@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-sistema-para-el-desarrollo-integral-de-la-2831"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-05-13"
-last_updated: "2015-04-24"
+last_updated: "2015-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "BCN"
 
 REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 13 de mayo de 1994.
 
@@ -40,11 +40,17 @@ REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL MUNICIPIO D
 
 El presente Reglamento se integra por el conjunto de normas dictadas por el Ayuntamiento para proveer dentro de la esfera de su competencia la ejecución de las leyes y disposiciones en atribuciones municipales y tiene como finalidad regular el funcionamiento del Sistema para el Desarrollo Integral de la Familia de Ensenada Baja California, conforme a lo dispuesto en el párrafo segundo del artículo 3 de la Ley del Régimen Municipal y en lo dispuesto por la Ley Sobre el Sistema Estatal de Asistencia Social en el Estado de Baja California.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 2.
 
 Para los efectos del presente Reglamento y su debido funcionamiento se entiende por:
 
-Sistema.- Sistema para el Desarrollo Integral de la Familia.
+I.- Sistema.- Sistema para el Desarrollo Integral de la Familia; y
+
+II.- Centros de Atención Infantil: Centros de Atención, Cuidado y Desarrollo Integral Infantil.
 
 ## TITULO SEGUNDO
 
@@ -314,111 +320,173 @@ El patrimonio del Sistema D.I.F. Municipal, se integrará con:
 
 4. Las concesiones, permisos, licencias y autorizaciones que se le otorguen conforme a la Ley;
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-## TITULO TERCERO. DEL DEPARTAMENTO DE ATENCION A ESTANCIAS INFANTILES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 2015)</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2006)</small>
+## TÍTULO TERCERO
 
-### CAPITULO ÚNICO. DEPARTAMENTO DE ESTANCIA (SIC) INFANTILES
+DEL DEPARTAMENTO DE REGULACIÓN A CENTROS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 2015)</small>
+
+### CAPITULO ÚNICO. DEPARTAMENTO DE REGULACIÓN A CENTROS DE ATENCIÓN INFANTIL
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 21.
 
-Para los efectos de cumplir con lo preceptuado por el numeral 12 del Reglamento de Estancias Infantiles, publicado en el Periódico Oficial del Gobierno del Estado el día 28 de abril del 2006, se crea el Departamento de Atención a las Estancias Infantiles establecidas y por establecerse en nuestro municipio.
+Para los efectos de cumplir con lo establecido en el Reglamento para la Prestación de Servicios de Centros de Atención, Cuidado y Desarrollo Integral Infantil del municipio de Ensenada, Baja California, (sic) DIF Municipal contará con un Departamento de Regulación a Centros de Atención Infantil.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 22.
 
-El departamento de Atención a las Estancias Infantiles se integra por un titular y las siguientes áreas:
+El departamento de Regulación a Centros de Atención Infantil, se integra por un titular y las siguientes áreas:
 
-I. Area de Autorización y revalidación
+I.- Área de Autorización y revalidación;
 
-II. Area de Capacitación y certificación
+II.- Área de Capacitación y certificación;
 
-III. Area de Inspección y Vigilancia
+III.- Área de Inspección y Vigilancia; y
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
+IV.- Área de evaluación psicológica.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 23.
 
-El Titular del Departamento de Estancias Infantiles, tendrá las siguientes funciones:
+El Titular del Departamento de Regulación a Centros de Atención Infantil, tendrá las siguientes funciones:
 
-I. Integrar comités de participación ciudadana, a efecto de que coadyuven en la creación, trámite e integración de estancias infantiles comunitarias;
+I.- Integrar comités de participación ciudadana, a efecto de que coadyuven en la creación, trámite e integración de Centros de Atención Infantil públicos;
 
-II. Llevar, actualizar y operar el padrón de Estancias Infantiles, a efecto de mantener el registro de cada una de ellas, de manera ordenada y actualizada;
+II.- Llevar, actualizar y operar el padrón de Centros de Atención Infantil, a efecto de mantener el registro de cada uno de ellos, de manera ordenada y actualizada;
 
-III. Diseñar, programar y llevar a cabo los cursos de capacitación y talleres para el personal de las estancias infantiles, así como sus contenidos, incluyendo los que se refieren a menores discapacitados;
+III.- Diseñar, programar y llevar a cabo los cursos de capacitación y talleres para el personal de Centros de Atención Infantil, así como sus contenidos, incluyendo los que se refieren a menores con discapacidad;
 
-IV. Formar parte del Consejo de Estancias Infantiles;
+IV.- Fungir como Secretario Técnico del Consejo de Centros de Atención Infantil;
 
-V. Conocer, opinar y formular proyectos de resolución que se refieran a la Instalación y operación de Estancias Infantiles en el Municipio de Ensenada;
+V.- Conocer, opinar y formular proyectos de resolución que se refieran a la Instalación y operación de Centros de Atención Infantil en el Municipio de Ensenada;
 
-VI. Llevar y custodiar los expedientes de las Estancias Infantiles, incluyendo el listado del personal y su currícula, así como de las nuevas solicitudes;
+VI.- Llevar y custodiar los expedientes de los Centros de Atención Infantil, Incluyendo el listado del personal y su currículo, así como de las nuevas solicitudes;
 
-VII. Verificar la revalidación anual de cada Estancia Infantil;
+VII.- Verificar la revalidación anual de cada Centro de Atención Infantil;
 
-VIII. Llevar a cabo, por conducto de los inspectores adscritos al DIF municipal, la Inspección de las estancias infantiles, en los casos y con las formalidades que establece el reglamento de estancias infantiles para el municipio de Ensenada;
+VIII.- Llevar a cabo por conducto de los inspectores adscritos al DIF municipal, la inspección de los Centros de Atención infantil, en los casos y con las formalidades que establece el reglamento municipal de la materia;
 
-IX. En su caso acompañar a los Inspectores en sus órdenes de visita, sin que pueda interferir en la misma o servir como testigo;
+IX.- En su caso, acompañar a los inspectores en sus órdenes de visita, sin que pueda interferir en la misma o servir como testigo;
 
-X. Turnar de inmediato al Director del DIF el resultado de las Inspecciones realizadas a las Estancias Infantiles;
+X.- Turnar de inmediato al Director del Sistema el resultado de las Inspecciones realizadas a los Centros de Atención Infantil; y,
 
-XI. Las demás que le otorgue el presente Reglamento, el reglamento de Estancias Infantiles del municipio de Ensenada, o le ordene el Director del DIF municipal.
+XI.- Las demás que le otorgue el presente reglamento, el Reglamento para la Prestación de Servicios de Centros de Atención, Cuidado y Desarrollo Integral Infantil del municipio de Ensenada, Baja California, o le ordene el Director del DIF municipal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
 ###### ARTICULO 24.
 
 Las funciones del área de autorización y revalidación serán:
 
-I. Otorgar el formato de Solicitud para la autorización de instalación y operación de Estancias Infantiles en el Municipio de Ensenada.
+I.- Otorgar el formato de Solicitud para la autorización de instalación y operación de Centros de Atención Infantil en el Municipio de Ensenada;
 
-II. Inmediatamente que se reciba una solicitud, se deberá seguir el procedimiento establecido en el Titulo Cuarto Capítulo I, del Reglamento de Estancias Infantiles para el Municipio de Ensenada.
+II.- Inmediatamente que se reciba una solicitud, se deberá seguir el procedimiento establecido en el capítulo correspondiente del Reglamento para la Prestación de Servicios de Centros de Atención, Cuidado y Desarrollo Integral Infantil del municipio de Ensenada;
 
-III. Turnar la solicitud recibida, al Director del Sistema para el Desarrollo Integral de la Familia, a efecto de que este la haga del conocimiento del Consejo.
+III.- Turnar la solicitud recibida, al Director del Sistema para el Desarrollo Integral de la Familia, a efecto de que este la haga del conocimiento del Consejo de Centros de Atención Infantil.
 
-IV. Aprobada o negada una solicitud de autorización para la creación o permanencia de una estancia infantil, realizar la notificación correspondiente; y
+IV.- Aprobada o negada una solicitud de autorización para la creación o permanencia de un Centro de Atención Infantil, se realizará la notificación correspondiente; y,
 
-V. Las demás que le confieran el presente reglamento, el Reglamento de Estancias infantiles, el director del Sistema Municipal para el desarrollo integral de la Familia y el Titular del departamento de atención a Estancias Infantiles.
+V.- Las demás que le confieran el presente reglamento, el Reglamento para la Prestación de Servicios de Centros de Atención, Cuidado y Desarrollo Integral Infantil del municipio de Ensenada, Baja California, el director del Sistema Municipal para el Desarrollo integral de la Familia y el Titular del departamento de Regulación a Centros de Atención infantil.
 
-###### ARTICULO 25.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+
+###### ARTÍCULO 25.
 
 Las funciones del área de capacitación y certificación serán:
 
-I. Realizar anualmente cursos de capacitación de conformidad con el programa establecido en el articulo 9 del Reglamento de Estancias Infantiles para el municipio de Ensenada, Baja California;
+I.- Realizar anualmente cursos de capacitación de conformidad con el programa establecido en el Reglamento para la Prestación de Servicios de Centros de Atención, Cuidado y Desarrollo Integral Infantil del municipio de Ensenada, Baja California;
 
-II. Coordinarse con las instituciones públicas y privadas a efecto de que los cursos que estas impartan, cumplan con el programa aprobado por el Sistema Municipal para el Desarrollo integral de la Familia;
+II.- Coordinarse con las instituciones públicas y privadas a efecto de que los cursos que estas impartan, cumplan con el programa aprobado por el Sistema Municipal para el Desarrollo Integral de la familia;
 
-III. Realizar la certificación de las estancias infantiles de conformidad con el Titulo quinto capitulo I y II del Reglamento de Estancias Infantiles del Municipio de Ensenada Baja California;
+III.- Realizar la certificación de los Centros de Atención Infantil de conformidad con el Capítulo correspondiente del Reglamento para la Prestación de Servicios de Centros de Atención, Cuidado y Desarrollo Integral Infantil del municipio de Ensenada, Baja California;
 
-IV. Publicar anualmente el listado de Estancias Infantiles certificadas; y
+IV.- Publicar anualmente el listado de Centros de Atención Infantil certificados; y
 
-V. Las demás que le confieran el presente reglamento, el Reglamento de Estancias infantiles, el director del Sistema Municipal para el desarrollo integral de la Familia, y el titular del Departamento de atención a estancias infantiles.
+V.- Las demás que le confieran el presente reglamento, el Reglamento para la Prestación de Servicios de Centros de Atención, Cuidado y Desarrollo Integral Infantil para el municipio de Ensenada, el director del Sistema Municipal para el desarrollo integral de la familia, y el titular del departamento de regulación a Centros de Atención Infantil.
 
-###### ARTICULO 26.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+
+###### ARTÍCULO 26.
 
 Las funciones del área de Inspección y vigilancia serán las siguientes:
 
-I. Llevar a cabo las visitas de Inspección;
+I.- Llevar a cabo las visitas de Inspección;
 
-II. Levantar el acta correspondiente a cada Inspección realizada, pormenorizando los hechos acontecidos;
+II.- Levantar el acta correspondiente a cada Inspección realizada, pormenorizando los hechos acontecidos;
 
-III. Nombrar dos testigos de asistencia en las Inspecciones, cuando el particular se rehúse a nombrarlos o estos no acepten;
+III.- Nombrar dos testigos de asistencia en las Inspecciones, cuando el particular se rehúse a nombrarlos o estos no acepten;
 
-IV. Incluir en el acta las manifestaciones que el particular desee que queden asentadas y anexar a la misma la documentación que se considere pertinente;
+IV.- Incluir en el acta las manifestaciones que el particular desee que queden asentadas y anexar a la misma la documentación que se considere pertinente;
 
-V. Cuestionar o requerir a los trabajadores de la Estancia Infantil cualquier información relacionada con la prestación del servicio y la orden de visita;
+V.- Cuestionar o requerir a los trabajadores de los Centros de Atención Infantil cualquier información relacionada con la prestación del servicio y la orden de visita;
 
-VI. Cuestionar y solicitar a los usuarios de la Estancia Infantil cualquier información relacionada con la prestación del servicio y la orden de visita;
+VI.- Informar y remitir en el mismo día de efectuada la Inspección, copia del acta al Titular del departamento de Regulación a Centros de Atención Infantil del DIF municipal;
 
-VII. Informar y remitir en el mismo día de efectuada la Inspección, copia del acta al Titular del departamento de atención a Estancias Infantiles del DIF municipal;
+VII.- Si durante el desahogo de la diligencia de inspección y vigilancia se percaten de la comisión u omisión de un hecho que pudiera constituir delito, deberán comunicarse inmediatamente al servicio de emergencias, a fin de que se logre la intervención de los agentes de seguridad pública municipal, a los cuales se les solicitara dar fe de lo acontecido, así como denunciarlo a la autoridad correspondiente;
 
-VIII. Si durante el desahogo de la diligencia de inspección y vigilancia, se percaten de la comisión u omisión de un hecho que pudiera constituir delito, deberán comunicarse inmediatamente al servicio de emergencias, a fin de que se logre la intervención de los agentes de seguridad publica municipal, a los cuales se les solicitara dar fe de lo acontecido, así como denunciarlo a la autoridad correspondiente;
+VIII.- Solicitar el auxilio de la fuerza pública para cumplimentar la diligencia de que se trate, cuando la misma contiene el apercibimiento expreso del uso de la fuerza pública; y
 
-IX. Solicitar el auxilio de la fuerza publica para cumplimentar la diligencia de que se trate, cuando la misma contiene el apercibimiento expreso del uso de la fuerza publica; y
+IX.- Las demás contenidas en el Reglamento para la Prestación de Servicios de Centros de Atención, Cuidado y Desarrollo Integral Infantil del municipio de Ensenada y aquellas que le ordene el Titular del Departamento de Regulación a Centros de Atención Infantil del Sistema o el Director del mismo.
 
-X. Las demás contenidas en el Reglamento de Estancias Infantiles para el municipio de Ensenada y aquellas que le ordene el Titular de Estancias Infantiles del DIF o el Director del DIF municipal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2015)</small>
+
+###### ARTÍCULO 27.
+
+Las funciones del área de evaluación psicológica serán las siguientes:
+
+I.- Definir un perfil adecuado para el asistente al cuidado de menores o aquella persona que se encuentre laborando en Centros de Atención Infantil, utilizando las técnicas y pruebas de valoración psicológica.
+
+II.- Promover y dar a conocer a los Centros de Atención Infantil las características del requisito indicado en el artículo 52 Fracción I del Reglamento para la Prestación de Servicios de Centros de Atención, Cuidado y Desarrollo Integral Infantil del municipio de Ensenada.
+
+III.- Requerir valoración psicológica a todos los asistentes al cuidado de menores que laboren en Centros de Atención Infantil, en el Municipio de Ensenada.
+
+IV.- Realizar Evaluación Psicológica al personal (asistentes al cuidado de menores) que labore directamente con las niñas y niños en los Centros de Atención Infantil del Municipio.
+
+V.- Verificar que las Evaluaciones Psicológicas que sean realizadas en un sector externo cumplan con los criterios solicitados.
+
+VI.- Emitir y/o recibir documento con resultados de Evaluación Psicológica que indique si el personal es apto o no para desempeñar su labor adecuadamente, de ser necesario agregar opinión;
+
+VII.- Emitir y/o recibir recomendaciones expedidas por un Licenciado en psicología, respecto a los resultados obtenidos en las evaluaciones correspondientes como se indica en la fracción VIII del artículo 78 del Reglamento para la Prestación de Servicios de Centros de Atención, Cuidado y Desarrollo Integral Infantil del municipio de Ensenada, a efecto de la contratación del personal en los Centros de Atención Infantil;
+
+VIII.- Llevar una relación y control del personal evaluado y pendiente por cumplir con el requisito de Evaluación Psicológica;
+
+IX.- Comunicar al área de autorización y revalidación los Centros de Atención, Cuidado y Desarrollo Integral Infantil que han cumplido con el requisito de su personal evaluado; y,
+
+X.- Las demás que le confieran el presente reglamento, el Reglamento para la Prestación de Servicios de Centros de Atención, Cuidado y Desarrollo Integral Infantil del municipio de Ensenada, Baja California, y las demás que sean necesarias para el desarrollo óptimo de sus funciones.
+
+Los objetivos principales del área de evaluación psicológica serán coordinar y realizar el proceso de Evaluación Psicológica a los asistentes al cuidado de menores que laboran en Centros de Atención Infantil del Municipio de Ensenada Baja California, mediante la aplicación de técnicas e instrumentos de valoración psicológica; así como verificar y determinar que los asistentes al cuidado de menores que laboren en Centros de Atención Infantil cumplan con el perfil apto para desempeñar sus funciones adecuadamente, con el fin de resguardar la seguridad e integridad de los menores involucrados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2015)</small>
+
+###### ARTÍCULO 28.
+
+El área de evaluación psicológica estará a cargo de un Licenciado en Psicología.
 
 ## TRANSITORIOS
 
@@ -515,3 +583,13 @@ SEGUNDO.- Por única ocasión se mantendrán en funciones hasta concluir su enca
 P.O. 24 DE ABRIL DE 2015.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE AGOSTO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al mismo tiempo que el Reglamento para la Prestación de Servicios de Centros de Atención, Cuidado y Desarrollo Integral Infantil del Municipio de Ensenada.
+
+###### ARTÍCULO SEGUNDO.
+
+A efecto de dar cumplimiento a la creación de la nueva área de evaluación psicológica, el Sistema para el Desarrollo Integral de la Familia del Municipio de Ensenada, deberá tomar las medidas presupuestales necesarias durante el ejercicio fiscal actual, con respeto a la normatividad aplicable, asimismo para el siguiente ejercicio fiscal, promoviendo ante la Tesorería y la Dirección de Finanzas municipales, las medidas a tomar.
