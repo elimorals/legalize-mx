@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2015-08-10"
+last_updated: "2015-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 23 DE JULIO DE 2015, LAS REFERENCIAS QUE CUALQUIER DISPOSICIÓN HAGA A LA DIRECCIÓN GENERAL DE SERVICIOS MÉDICOS Y DESARROLLO INFANTIL, SE ENTENDERÁN HECHAS A LA DIRECCIÓN GENERAL DE SERVICIOS MÉDICOS, CON EXCEPCIÓN DE AQUELLAS QUE SE RELACIONEN CON SUS ATRIBUCIONES EN MATERIA DE DESARROLLO INFANTIL, MISMAS QUE SE ENTENDERÁN A LA DIRECCIÓN GENERAL DE SERVICIOS AL PERSONAL.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE AGOSTO DE 2015.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -3551,15 +3551,35 @@ Cuando de la investigación de mercado se determine la conveniencia de continuar
 
 Para los efectos de este artículo, deberá obtenerse previamente la autorización del Comité, para lo cual el área que corresponda deberá justificar la necesidad de celebrar la contratación mediante el procedimiento alterno de que se trate. En este caso, antes de someter el asunto a la consideración del Comité se deberá contar con el certificado de necesidad a que se refiere el siguiente artículo.
 
-> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 296, PRIMERO Y ÚLTIMO PÁRRAFOS, ASÍ COMO LA FRACCIÓN VII, 343, FRACCIÓN I, Y ADICIONA LOS ARTÍCULOS 296 BIS Y 296 TER, DEL DIVERSO ACUERDO GENERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA ADMINISTRATIVA DEL PROPIO CONSEJO; Y REFORMA DISPOSICIONES DE OTROS ACUERDOS GENERALES, D.O.F. 8 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 296 Bis.
 
-El área operativa que corresponda presentará a la Secretaría Ejecutiva de Administración o a la Unidad de Evaluación de Proyectos, la propuesta de certificado de necesidad a su consideración y, en su caso, aprobación.
+La aprobación de los certificados de necesidad corresponde, de forma conjunta, a la Secretaría Ejecutiva de Administración, a la Unidad para la Implementación de la Reforma Penal y a la Dirección General de Asuntos Jurídicos cuando se trate de procedimientos de contratación necesarios para la implementación del sistema procesal penal acusatorio; y solo a la Secretaría Ejecutiva de Administración en los demás casos.
 
-Corresponde a la Unidad de Evaluación de Proyectos prevista en el Acuerdo General 48/2013 del Pleno del Consejo de la Judicatura Federal, que constituye el fideicomiso para el desarrollo de infraestructura que implementa la reforma constitucional en Materia Penal, la aprobación de los certificados cuando se trate de procedimientos de contratación necesarios para la implementación del sistema procesal penal acusatorio; y a la Secretaría Ejecutiva de Administración en los demás casos.
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015)</small>
 
-Dicha propuesta estará debidamente fundada y motivada, y señalará lo siguiente:
+Para efectos del supuesto de la implementación del sistema procesal penal acusatorio, el área operativa que corresponda presentará, por escrito, a la Secretaría Ejecutiva de Administración, a la Unidad para la Implementación de la Reforma Penal y a la Dirección General de Asuntos Jurídicos, la propuesta de certificado de necesidad a su consideración y, en su caso, aprobación.
+
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015)</small>
+
+La aprobación de dichos certificados deberá darse por todos los titulares de dichas unidades administrativas, los cuales no podrán abstenerse de participar en la decisión que recaiga a la propuesta del certificado de necesidad. Dicha aprobación deberá ser en el ámbito de competencia de cada una de las áreas administrativas participantes.
+
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015)</small>
+
+La Secretaría Ejecutiva de Administración convocará a la Unidad para la Implementación de la Reforma Penal y a la Dirección General de Asuntos Jurídicos a sesión, cada vez que reciba una propuesta de certificado de necesidad para su análisis y, en su caso, aprobación.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015)</small>
+
+De la sesión, la Secretaría Ejecutiva de Administración levantará un acta que será firmada por todos los participantes, en la que se harán constar todos los argumentos esgrimidos por ellos y el sentido de su voto. En caso de que todos los integrantes del grupo aprueben el certificado de necesidad deberán firmarlo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015)</small>
+
+Tratándose de los casos diversos a la implementación del sistema procesal penal acusatorio, el área operativa presentará, por escrito, a la Secretaría Ejecutiva de Administración, la propuesta de certificado de necesidad a su consideración y, en su caso, aprobación.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRAFO] POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015)</small>
+
+En ambos casos, la propuesta de certificado de necesidad estará debidamente fundada y motivada, y señalará lo siguiente:
 
 I. Los bienes, servicios, obra y servicios relacionados con ella que sean objeto de la contratación;
 
@@ -3577,7 +3597,9 @@ VII. La evaluación de los antecedentes, capacidades técnica, financiera y admi
 
 VIII. La vigencia del certificado de necesidad.
 
-Durante el análisis correspondiente la Contraloría y la Dirección General de Asuntos Jurídicos deberán asesorar, en su ámbito de competencia, a la Unidad de Evaluación de Proyectos, a solicitud de ésta.
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015)</small>
+
+Durante el análisis correspondiente la Contraloría deberá asesorar a la Secretaría Ejecutiva de Administración, a la Unidad para la Implementación de la Reforma Penal y a la Dirección General de Asuntos Jurídicos, a solicitud de alguna de éstas.
 
 > <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 296, PRIMERO Y ÚLTIMO PÁRRAFOS, ASÍ COMO LA FRACCIÓN VII, 343, FRACCIÓN I, Y ADICIONA LOS ARTÍCULOS 296 BIS Y 296 TER, DEL DIVERSO ACUERDO GENERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA ADMINISTRATIVA DEL PROPIO CONSEJO; Y REFORMA DISPOSICIONES DE OTROS ACUERDOS GENERALES, D.O.F. 8 DE MAYO DE 2015)</small>
 
@@ -11406,3 +11428,11 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 28 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Los certificados de necesidad que a la fecha de entrada en vigor de este Acuerdo se encuentren en trámite ante la Unidad de Evaluación de Proyectos, deberán ser remitidos por ésta al grupo a que se refiere este Acuerdo para su análisis y, en su caso, aprobación.
