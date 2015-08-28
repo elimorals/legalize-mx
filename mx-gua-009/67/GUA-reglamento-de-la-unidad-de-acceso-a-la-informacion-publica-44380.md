@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-unidad-de-acceso-a-la-informacion-publica-4438
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-11"
-last_updated: "2005-03-11"
+last_updated: "2015-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44380&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE COMONFORT, GTO
 
-REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE COMONFORT GUANAJUATO
+REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE COMONFORT GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE COMONFORT, GTO, PUBLICADO EN EL P.O. DE 28 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 11 de marzo de 2005.
 
@@ -508,3 +510,11 @@ Presidente Municipal
 Lic. Martín Jaramillo Cervantes
 
 Secretario del H. Ayuntamiento
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE AGOSTO DE 2015.
+
+PRIMERO. Se abroga el Reglamento de la Unidad de Acceso a la Información Pública, para el Municipio de Comonfort, Gto., publicada en el periódico Oficial del Gobierno del Estado de Guanajuato, Gto. Número 40 de fecha 11 de marzo de 2005.
+
+SEGUNDO. El presente Reglamento entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
