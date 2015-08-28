@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-oficialia-mayor-de-gobierno-del-83798"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-18"
-last_updated: "2015-02-13"
+last_updated: "2015-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA OFICIALÍA MAYOR DE GOBIERNO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 18 de noviembre de 2011.
 
@@ -53,6 +53,8 @@ I. Oficialía: A la Oficialía Mayor de Gobierno.
 
 II. Oficial Mayor: Al Oficial Mayor de Gobierno.
 
+> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 28 DE AGOSTO DE 2015, PÁGINA 5.</small>
+
 ###### ARTÍCULO 4.
 
 Para el ejercicio de las atribuciones de su competencia, la Oficialía contará con las siguientes unidades administrativas:
@@ -65,15 +67,17 @@ A. Centro de Profesionalización y Desarrollo del Capital Humano.
 
 II. Subsecretaría de Administración.
 
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
-a) Dirección Administrativa.
+a. Departamento Administrativo
 
 A. Dirección de Recursos Humanos.
 
 i) Departamento de Administración de Personal.
 
-ii) Departamento de Relaciones Laborales.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+
+ii) Departamento de Seguridad y Salud en el Trabajo.
 
 iii) Departamento de Seguridad y Salud en el Trabajo.
 
@@ -115,15 +119,25 @@ E. Dirección de Normatividad y Políticas Administrativas.
 
 i) Departamento de Normatividad.
 
-ii) Departamento de Desarrollo Organizacional.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
-iii) Departamento de Coordinación del Sector Paraestatal.
+ii) Departamento de Asesoría Jurídica Patrimonial.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+
+iii) Departamento de Asesoría Jurídica Laboral.
 
 F. Dirección de Desarrollo de Proyectos.
 
-i) Departamento de Gestión de Calidad.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+
+i) Departamento de Desarrollo Institucional
 
 ii) Departamento de Sistemas de Información.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE AGOSTO DE 2015)</small>
+
+iii) Departamento de Orientación y Seguimiento a Entidades Paraestatales.
 
 III. Delegación Tijuana.
 
@@ -229,7 +243,9 @@ XXIV. Declarar administrativamente el reconocimiento de antigüedad, autorizar l
 
 XXV. Autorizar la implementación de estrategias para promover en las dependencias de la administración pública centralizada, la aplicación de la normatividad en materia de seguridad, salud, higiene y medio ambiente en el trabajo, diseñando los instrumentos técnicos para su administración en la gestión integral y la aplicación de prácticas seguras por parte de los servidores públicos en la prestación del servicio; lo anterior, atendiendo a los lineamientos de las autoridades competentes y a las disposiciones aplicables;
 
-XXVI. Autorizar el sistema de escalafón y ascensos, el tabulador general de sueldos y establecer y administrar el servicio civil de carrera de los trabajadores de las dependencias de la administración pública centralizada;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+XXVI. Autorizar el sistema de escalafón y ascensos, el tabulador general de sueldos y establecer y administrar el servicio civil de carrera de los trabajadores de las dependencias de la administración pública centralizada, de conformidad con la legislación y normatividad que resulte aplicable;
 
 XXVII. Autorizar, conjuntamente con la Secretaría de Planeación y Finanzas y, previo acuerdo expreso del Gobernador del Estado, la remuneración que corresponda a dos o más cargos a la persona interesada, de conformidad con la ley aplicable;
 
@@ -285,7 +301,9 @@ III. Planear, organizar, ejecutar y promover las acciones necesarias para la ins
 
 IV. Participar conjuntamente con los titulares de las dependencias de la administración pública centralizada, en la formulación, aplicación y actualización de sus respectivos catálogos de puestos.
 
-V. Elaborar y mantener actualizado el Catálogo General de Puestos de la Oficialía y validar los catálogos de puestos de las dependencias de la administración pública centralizada;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+V. Elaborar, mantener actualizado y autorizar el Catálogo General de Puestos; así como autorizar los catálogos de puestos específicos de las dependencias de la administración pública centralizada;
 
 VI. Proponer y opinar la creación, modificación, fusión o supresión de los puestos que conforman las estructuras de las dependencias de la administración pública centralizada, con la finalidad de mantener actualizados los catálogos de puestos;
 
@@ -297,9 +315,13 @@ IX. Supervisar y validar la planeación, instrumentación y evaluación de accio
 
 X. Diseñar y supervisar la correcta observancia de las normas, políticas y procedimientos que conforman el sistema de evaluación del desempeño y certificación de competencias de los servidores públicos que laboran en las dependencias de la administración pública centralizada;
 
-XI. Operar los sistemas de evaluación del desempeño, así como la instrumentación de mecanismos para estimular, recompensar y reconocer el logro de resultados;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-XII. Diseñar y administrar los sistemas de promociones, ascensos, estímulos, reconocimientos y recompensas a los que se hagan acreedores los servidores públicos en función de los resultados de su desempeño y los requerimientos de la administración pública centralizada;
+XI. Definir las políticas y lineamientos que aseguren la instrumentación del Sistema Integral de Profesionalización y Desarrollo de los servidores públicos de la Administración Pública Centralizada, propiciando así la capitalización del talento humano; al igual que operar los sistemas de evaluación del desempeño, así como la instrumentación de mecanismos para estimular, recompensar y reconocer el logro de resultados;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+XII. Diseñar y administrar los sistemas de estímulos, reconocimientos y recompensas a los que se hagan acreedores los servidores públicos en función de los resultados de su desempeño y los requerimientos de la administración pública centralizada; así como coadyuvar en el diseño y aplicación de los sistemas de promoción y ascensos escalafonarios con las unidades o instancias competentes;
 
 XIII. Diseñar y mantener actualizado un inventario de recursos humanos que permita la capitalización y el desarrollo de éstos, de acuerdo a las necesidades de las dependencias de la administración pública centralizada;
 
@@ -373,7 +395,9 @@ XVIII. Someter a la aprobación del Oficial Mayor la actualización o modificaci
 
 XIX. Proponer y ejecutar los estudios, programas o proyectos, así como los lineamientos y criterios relacionados con las funciones de administración y desarrollo de personal, recursos materiales, servicios, inventarios y patrimonio inmobiliario de la administración pública estatal;
 
-XX. Proponer los principios normativos y metodológicos para la operación y funcionamiento del servicio civil de carrera;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+XX. Proponer los principios normativos y metodológicos para la operación y funcionamiento del servicio civil de carrera, así como definir las políticas y lineamientos que aseguren su instrumentación;
 
 XXI. Propiciar la integración, unidad, participación, comunicación y cooperación entre las diferentes áreas de la Oficialía, y
 
@@ -383,9 +407,9 @@ XXII. Las demás relativas a la competencia de su área y que sean indispensable
 
 Quedan adscritas a la Subsecretaría de Administración, las siguientes unidades administrativas:
 
-> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-I. Dirección Administrativa.
+I. Departamento Administrativo.
 
 II. Dirección de Recursos Humanos.
 
@@ -497,47 +521,89 @@ XII. Las demás que expresamente les señale sus superiores jerárquicos y aquel
 
 ### CAPÍTULO VII. DE LAS UNIDADES ADMINISTRATIVAS DE LA SUBSECRETARÍA DE ADMINISTRACIÓN
 
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2015)</small>
 
 ###### ARTÍCULO 19.
 
-Corresponde a la Dirección Administrativa, por conducto de su titular, el ejercicio de las siguientes atribuciones:
+Corresponde al Departamento Administrativo, por conducto de su titular, el ejercicio de las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2013)</small>
 
 I. Revisar e integrar la formulación del anteproyecto de presupuesto de egresos de la dependencia, así como controlar y evaluar su adecuada aplicación, atendiendo a las políticas y lineamientos que al efecto se establezcan;
 
-II. Supervisar la integración de los reportes presupuestales informando a las unidades administrativas de la Oficialía sobre la disponibilidad de recursos;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-III. Asegurar que se apliquen las sanciones y medidas disciplinarias al personal de la Oficialía que se haga acreedor a ellas, de acuerdo a la normatividad correspondiente;
+II. Analizar y verificar los reportes presupuestales informando a las unidades administrativas de la Oficialía, la disponibilidad de recursos, y coordinar al interior de la Oficialía la integración de la información a proponer por la Dependencia como parte del Plan Estatal de Desarrollo, en la materia de su competencia, así como de los informes anuales de labores;
 
-IV. Revisar periódicamente la plantilla de personal para disponer de información veraz y oportuna relacionada con los empleados de la Oficialía, asegurando se mantenga actualizada;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-V. Supervisar se tramite el pago de sueldos, salarios y demás remuneraciones de los trabajadores de la Oficialía;
+III. Aplicar las sanciones y medidas disciplinarias al personal de la Oficialía que se haga acreedor a ellas, de acuerdo a la normatividad aplicable;
 
-VI. Dirigir la elaboración de los proyectos de contratos de servicios del personal adscrito a la Oficialía;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-VII. Controlar y verificar el registro de la puntualidad y asistencia del personal adscrito a la dependencia, conforme a la legislación vigente;
+IV. Administrar la estructura de plazas y la plantilla de personal adscrito a la Oficialía, asegurando se mantenga actualizada;
 
-VIII. Supervisar la integración y actualización de los expedientes del personal de la Oficialía;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+V. Tramitar el pago de sueldos, salarios y demás remuneraciones de los trabajadores de la Oficialía;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+VI. Elaborar los proyectos de contratos de servicios del personal adscrito a la Oficialía;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+VII. Registrar y controlar la puntualidad y asistencia del personal adscrito a la dependencia, conforme a la legislación vigente;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+VIII. Integrar y mantener actualizados los expedientes del personal de la Oficialía;
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2013)</small>
 
 IX. Supervisar la aplicación de las políticas y mecanismos relativos a la evaluación del desempeño de los servidores públicos de la Oficialía, conforme a la normatividad de la materia;
 
-X. Asegurar se mantenga actualizada la información contenida en los sistemas de informática destinados a la captura de movimientos e incidencias del personal de la Oficialía;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+X. Mantener actualizada la información contenida en los sistemas de informática destinados a la captura de movimientos e incidencias del personal de la Oficialía;
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2013)</small>
 
 XI. Validar las cartas de liberación de prestadores de servicio social y prácticas profesionales de las instituciones educativas, conforme a la normatividad aplicable;
 
-XII. Asesorar y, en su caso, recibir y supervisar el trámite de las solicitudes de adquisición de recursos materiales, requisiciones de artículos de oficina y limpieza, solicitudes de pago de viáticos, pasajes, hospedaje y fondos revolventes provenientes de las unidades administrativas adscritas a la Oficialía;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+XII. Asesorar y, en su caso, recibir y tramitar las solicitudes de adquisición de recursos materiales, requisiciones de artículos de oficina y limpieza, solicitudes de pago de viáticos, pasajes, hospedaje y fondos revolventes provenientes de las unidades administrativas adscritas a la Oficialía;
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2013)</small>
 
 XIII. Supervisar la limpieza e higiene en todas las áreas, así como vigilar y proteger los bienes patrimonio de la Oficialía;
 
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+
 XIV. Verificar que se mantengan actualizados los resguardos de los bienes muebles de las unidades administrativas de Oficialía;
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2013)</small>
 
 XV. Asistir y participar en el Comité de Adquisiciones, Arrendamientos y Servicios del Poder Ejecutivo, atendiendo a las convocatorias;
 
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+
 XVI. Proponer formas de control para la optimización de recursos destinados al cumplimiento de las tareas y atribuciones de la Oficialía;
 
-XVII. Administrar y controlar la asignación del combustible, servicios de telefonía y radiocomunicación, de acuerdo al presupuesto autorizado para la Oficialía, y
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-XVIII. Las demás que expresamente le confieran las leyes, reglamentos y demás normatividad aplicable.
+XVII. Administrar y controlar la asignación del combustible, servicios de telefonía y radiocomunicación, de acuerdo al presupuesto autorizado para la Oficialía:
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+XVIII. Realizar, dar seguimiento y evaluar los estudios, proyectos y diversas investigaciones en materia de desarrollo organizacional de los sistemas de la Oficialía, analizando, formulando o proponiendo las adecuaciones necesarias en su estructura, funciones, procesos y procedimientos; así como dirigir el proceso de elaboración y actualización en su caso, de los manuales administrativos de la Oficialía;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE AGOSTO DE 2015)</small>
+
+XIX. Las demás que expresamente le confieran las leyes, reglamentos y demás normatividad aplicable.
+
+> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 28 DE AGOSTO DE 2015, PÁGINAS DE LA 8 A LA 10.</small>
 
 ###### ARTÍCULO 20.
 
@@ -547,55 +613,99 @@ I. Planear, programar, organizar, dirigir, controlar y evaluar los sistemas de a
 
 II. Implementar y controlar los procedimientos de reclutamiento, selección, contratación, remuneración, reconocimiento de antigüedad, remoción, terminación y rescisión de la relación laboral del personal de la administración pública centralizada, así como de seguridad, salud y medio ambiente en el trabajo;
 
-III. Definir las políticas y lineamientos que aseguren la instrumentación del servicio civil de carrera y la certificación en competencias laborales que coadyuven de manera significativa en la profesionalización del servicio público;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-IV. Validar y llevar el control de los nombramientos, ascensos, cambios de adscripción, licencias, vacaciones, permisos, bajas y demás movimientos de personal de la administración pública centralizada, de conformidad con las políticas y disposiciones legales aplicables;
+III. Validar y llevar el control de los nombramientos, ascensos, cambios de adscripción, licencias, vacaciones, permisos, bajas y demás movimientos de personal de la administración pública centralizada, de conformidad con las políticas y disposiciones legales aplicables;
 
-V. Supervisar y tramitar los pagos de sueldos, liquidaciones, indemnizaciones y demás prestaciones económicas, a que tengan derecho los servidores públicos de las dependencias de la administración pública centralizada, en apego a la legislación aplicable;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-VI. Autorizar los descuentos y deducciones salariales a que se haga acreedor el personal de las dependencias de la administración pública centralizada y controlar las licencias médicas por incapacidades;
+IV. Supervisar y tramitar los pagos de sueldos, liquidaciones, indemnizaciones y demás prestaciones económicas, a que tengan derecho los servidores públicos de las dependencias de la administración pública centralizada, en apego a la legislación aplicable;
 
-VII. Establecer los lineamientos que orienten la política salarial de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-VIII. Definir y dirigir los programas de prestación del servicio social, prácticas profesionales u otra modalidad de vinculación académica de acuerdo a las necesidades y exigencias de las diferentes dependencias de la administración pública centralizada;
+V. Autorizar los descuentos y deducciones salariales a que se haga acreedor el personal de las dependencias de la administración pública centralizada y controlar las licencias médicas por incapacidades;
 
-IX. Autorizar la emisión de credenciales de identificación y certificación de nombramientos a los servidores públicos de la administración pública centralizada; así como otorgar las constancias, reconocimientos y demás documentos de trabajo, de conformidad con las políticas y disposiciones generales que se establezcan para tal efecto;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-X. Autorizar el Catálogo General de Puestos y los catálogos de puestos de las dependencias de la administración pública centralizada; así como los elementos que deben conformar el inventario de recursos humanos;
+VI. Establecer los lineamientos que orienten la política salarial de la Administración Pública Estatal;
 
-XI. Suscribir las hojas de servicio de los trabajadores de las dependencias de la administración pública centralizada;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-XII. Vigilar el cumplimiento de las leyes, reglamentos, políticas, normas, lineamientos, acuerdos y demás disposiciones legales aplicables en materia laboral y administrativa, así como de los convenios y contratos que rigen las relaciones de trabajo y administrativa con los servicios públicos adscritos a la Administración Pública Estatal, en coordinación con la dependencia que corresponda;
+VII. Definir y dirigir los programas de prestación del servicio social, prácticas profesionales u otra modalidad de vinculación académica de acuerdo a las necesidades y exigencias de las diferentes dependencias de la administración pública centralizada;
 
-XIII. Aplicar y vigilar el cumplimiento de las Condiciones Generales de Trabajo y proponer las modificaciones que considere pertinentes;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-XIV. Implementar y mantener al corriente el escalafón de los trabajadores al servicio de la Administración Pública Estatal;
+VIII. Autorizar la emisión de credenciales de identificación y certificación de nombramientos a los servidores públicos de la administración pública centralizada; así como otorgar las constancias, reconocimientos y demás documentos de trabajo, de conformidad con las políticas y disposiciones generales que se establezcan para tal efecto;
 
-XV. Proponer y aplicar los reglamentos de trabajo, de escalafón, y disposiciones relativas a seguridad, salud, higiene y medio ambiente en el trabajo, inherentes a las dependencias de la administración pública centralizada, y los referentes a la prestación del servicio de los elementos de seguridad pública, así como coadyuvar con las autoridades competentes en vigilar su aplicación;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-XVI. Aplicar las políticas de estímulos y recompensas por méritos, aportaciones valiosas y útiles para la administración pública centralizada, a que se hagan acreedores sus servidores públicos, en coordinación con el Centro de Profesionalización y Desarrollo del Capital Humano;
+IX. Autorizar los elementos que deben conformar el inventario de recursos humanos;
 
-XVII. Proponer y validar la normatividad en materia de tabuladores de sueldos, sistemas escalafonarios, pago de remuneraciones, prestaciones, servicios personales, estructuras ocupacionales y, en general, sobre administración y desarrollo del personal, en colaboración con el Centro de Profesionalización y Desarrollo del Capital Humano;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-XVIII. Vigilar la observancia de las normas y metodologías a que deba sujetarse la formulación del presupuesto de servicios personales para su posterior integración al presupuesto de egresos;
+X. Suscribir las hojas de servicio de los trabajadores de las dependencias de la administración pública centralizada;
 
-XIX. Llevar el control y vigilancia sobre la aplicación de las sanciones administrativas y de carácter laboral a que se haga acreedor el personal de las dependencias de la administración pública centralizada, de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-XX. Autorizar la práctica de exámenes toxicológicos a personal administrativo, conforme a las normas, políticas y procedimientos establecidos y vigilar su aplicación en personal de seguridad pública;
+XI. Vigilar el cumplimiento de las leyes, reglamentos, políticas, normas, lineamientos, acuerdos y demás disposiciones legales aplicables en materia laboral y administrativa, así como de los convenios y contratos que rigen las relaciones de trabajo y administrativa con los servicios públicos adscritos a la Administración Pública Estatal, en coordinación con la dependencia que corresponda;
 
-XXI. Establecer los procesos administrativos y jurídicos en materia de seguridad social, dentro de las dependencias de la administración pública centralizada;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-XXII. Verificar que las proposiciones que los titulares de las dependencias de la administración pública centralizada realicen para la designación de su personal de confianza, base y de relación administrativa según corresponda, cumplan con los requisitos previstos en la normatividad aplicable;
+XII. Aplicar y vigilar el cumplimiento de las Condiciones Generales de Trabajo y proponer las modificaciones que considere pertinentes;
 
-XXIII. Formular y promover las adecuaciones del marco regulatorio aplicable en materia de seguridad, salud, higiene y medio ambiente en el trabajo, mediante la elaboración de propuestas de disposiciones respectivas, propiciando la participación de las autoridades competentes y de las distintas dependencias de la administración pública centralizada;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-XXIV. Autorizar la instrumentación de los mecanismos conducentes para promover el cumplimiento de las disposiciones aplicables en materia de seguridad, salud, higiene y medio ambiente en el trabajo, atendiendo a los lineamientos de las autoridades competentes;
+XIII. Implementar y mantener al corriente el escalafón de los trabajadores al servicio de la Administración Pública Estatal, en términos de la legislación y normatividad aplicable;
 
-XXV. Implementar, controlar, difundir y conducir las estrategias para promover entre las distintas dependencias de la administración pública centralizada y de cada uno de los centros de trabajo la mejora de las condiciones físicas y ambientales en las que se desempeña el trabajo;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-XXVI. Supervisar la integración de la documentación correspondiente para el trámite de jubilación o pensión del personal adscrito a las dependencias de la administración pública centralizada, y
+XIV. Proponer y aplicar los reglamentos de trabajo, de escalafón, y disposiciones relativas a seguridad, salud, higiene y medio ambiente en el trabajo, inherentes a las dependencias de la administración pública centralizada, y los referentes a la prestación del servicio de los elementos de seguridad pública, así como coadyuvar con las autoridades competentes en vigilar su aplicación;
 
-XXVII. Las demás que expresamente le confieran las leyes, reglamentos y demás normatividad aplicable.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+XV. Proponer y validar la normatividad en materia de tabuladores de sueldos, sistemas escalafonarios, pago de remuneraciones, prestaciones, servicios personales, estructuras ocupacionales y, en general, sobre administración y desarrollo del personal, en colaboración con el Centro de Profesionalización y Desarrollo del Capital Humano;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+XVI. Vigilar la observancia de las normas y metodologías a que deba sujetarse la formulación del presupuesto de servicios personales para su posterior integración al presupuesto de egresos;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+XVII. Llevar el control y vigilancia sobre la aplicación de las sanciones administrativas y de carácter laboral a que se haga acreedor el personal de las dependencias de la administración pública centralizada, de conformidad con la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+XVIII. Autorizar la práctica de exámenes toxicológicos a trabajadores de la administración pública centralizada, conforme a las normas, políticas y procedimientos establecidos, se excluye de su aplicación a los elementos de seguridad pública, funcionarios de primer nivel de la administración pública centralizada y personal docente y no docente del sistema educativo estatal;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+XIX. Establecer los procesos administrativos y jurídicos en materia de seguridad social, dentro de las dependencias de la administración pública centralizada;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+XX. Verificar que las proposiciones que los titulares de las dependencias de la administración pública centralizada realicen para la designación de su personal de confianza, base y de relación administrativa según corresponda, cumplan con los requisitos previstos en la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+XXI. Formular y promover las adecuaciones del marco regulatorio aplicable en materia de seguridad, salud, higiene y medio ambiente en el trabajo, mediante la elaboración de propuestas de disposiciones respectivas, propiciando la participación de las autoridades competentes y de las distintas dependencias de la administración pública centralizada;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+XXII. Autorizar la instrumentación de los mecanismos conducentes para promover el cumplimiento de las disposiciones aplicables en materia de seguridad, salud, higiene y medio ambiente en el trabajo, atendiendo a los lineamientos de las autoridades competentes;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+XXIII. Implementar, controlar, difundir y conducir las estrategias para promover entre las distintas dependencias de la administración pública centralizada, la mejora de las condiciones físicas y ambientales en las que se desempeña el servicio;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+XXIV. Supervisar la integración de la documentación correspondiente para el trámite de jubilación o pensión del personal adscrito a las dependencias de la administración pública centralizada, y
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+XXV. Las demás que expresamente le confieran las leyes, reglamentos y demás normatividad aplicable.
+
+> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 28 DE AGOSTO DE 2015, PÁGINA 11.</small>
 
 ###### ARTÍCULO 21.
 
@@ -603,9 +713,9 @@ Quedan adscritas a la Dirección de Recursos Humanos las siguientes unidades adm
 
 I. Departamento de Administración de Personal.
 
-II. Departamento de Relaciones Laborales.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-III. Departamento de Seguridad y Salud en el Trabajo.
+II. Departamento de Seguridad y Salud en el Trabajo.
 
 ###### ARTÍCULO 22.
 
@@ -615,7 +725,9 @@ I. Operar y supervisar los sistemas de administración de personal de las depend
 
 II. Evaluar los requerimientos de personal de las dependencias de la administración pública centralizada e intervenir en su contratación, nombramiento, reingreso, promoción, cambio de adscripción y bajas, así como llevar un control sobre el registro de los mismos;
 
-III. Tramitar y controlar las licencias, incapacidades, permisos, reincorporaciones, vacaciones y demás movimientos que genere el personal de las dependencias de la administración pública centralizada;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+III. Tramitar y controlar las licencias, incapacidades, permisos, reincorporaciones, vacaciones y demás movimientos que genere el personal de las dependencias de la administración pública centralizada, así como tramitar y controlar administrativamente la comisión, reubicación, remoción, terminación, rescisión y demás movimientos de bajas definitivas del mismo;
 
 IV. Administrar el control de asistencia y puntualidad del personal de las dependencias de la administración pública centralizada;
 
@@ -625,7 +737,9 @@ VI. Planear, organizar y supervisar los trámites de los pagos de sueldos, liqui
 
 VII. Analizar y calcular las liquidaciones en cumplimiento a resolutivos de juicios derivados de laudos condenatorios, emitidos por la autoridad jurisdiccional correspondiente, así como la gestión para la emisión del pago correspondiente ante la Dirección de Egresos del Estado para su entrega a la Dirección Jurídica Contenciosa o a la unidad administrativa competente;
 
-VIII. Administrar y controlar los procesos de evaluación psicométrica, técnica y administrativa que permiten el reclutamiento y selección de personal de las dependencias de la administración pública centralizada;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+VIII. Administrar y controlar los procesos de evaluación psicométrica, técnica y administrativa que permiten el reclutamiento y selección de personal para las dependencias de la administración pública centralizada;
 
 IX. Formular, proponer y controlar los procesos que determinen la aplicación de la seguridad social, sujetándose a la normatividad aplicable;
 
@@ -637,29 +751,17 @@ XII. Elaborar y mantener actualizado el Tabulador de Salarios y las Prestaciones
 
 XIII. Integrar la documentación correspondiente para el trámite de jubilación o pensión del personal adscrito a las dependencias de la administración pública centralizada, y
 
-XIII. Las demás que expresamente le confieran las leyes, reglamentos y demás normatividad aplicable.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+XIV. Llevar el control y vigilancia sobre la aplicación de las sanciones administrativas a que se hagan acreedores los trabajadores de la administración pública centralizada, de conformidad con la normatividad aplicable, informando de ello, en forma oportuna, a las unidades correspondientes; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE AGOSTO DE 2015)</small>
+
+XV. Las demás que expresamente le confieran las leyes, reglamentos y demás normatividad aplicable.
 
 ###### ARTÍCULO 23.
 
-Corresponde al Departamento de Relaciones Laborales, por conducto de su titular, el ejercicio de las siguientes atribuciones:
-
-I. Tramitar los asuntos relacionados con la reubicación, comisión, remoción, terminación y rescisión, de la relación laboral del personal de las dependencias de la administración pública centralizada;
-
-II. Proponer y aplicar los procedimientos y normatividad en materia laboral, que sean de la competencia de la Oficialía;
-
-III. Llevar el control y vigilancia sobre la aplicación de las sanciones administrativas a que se hagan acreedores los trabajadores de la administración pública centralizada, de conformidad con la normatividad aplicable;
-
-IV. Coadyuvar y proponer al superior jerárquico en la modificación de las condiciones generales de trabajo, así como en la elaboración de convenios y contratos en materia laboral y administrativa;
-
-V. Intervenir administrativamente en el trámite y cumplimiento de las resoluciones definitivas, en materia laboral, relacionadas con los trabajadores al servicio de la administración pública centralizada;
-
-VI. Tramitar administrativamente el cumplimento de las resoluciones definitivas, de los servidores públicos que sostienen una relación de carácter administrativa con la administración pública centralizada;
-
-VII. Programar y coordinar la aplicación de exámenes toxicológicos al personal de las dependencias de la administración pública centralizada, conforme a la normatividad aplicable y, tratándose de los servidores públicos que sostienen una relación de carácter administrativo, vigilar su aplicación;
-
-VIII. Emitir opinión jurídica sobre solicitudes de reconocimiento de antigüedad, licencias y compatibilidad de funciones, empleos y comisiones, y
-
-IX. Las demás que expresamente le confieran las leyes, reglamentos y demás normatividad aplicable.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2015)
 
 ###### ARTÍCULO 24.
 
@@ -669,7 +771,9 @@ I. Promover y difundir entre las dependencias de la administración pública cen
 
 II. Proponer e instrumentar los mecanismos tendientes al cumplimiento de las disposiciones aplicables en materia de seguridad, salud, higiene y medio ambiente en el trabajo o en la prestación del servicio, en las dependencias de la administración pública centralizada, atendiendo a los lineamientos de las autoridades competentes;
 
-III. Realizar propuestas de adecuaciones a las disposiciones aplicables en materia de seguridad, salud, higiene y medio ambiente en el trabajo o en la prestación del servicio de las distintas dependencias de la administración pública centralizada, mediante la elaboración de anteproyectos de disposiciones respectivas en estas materias, propiciando la participación de las autoridades competentes;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+III. Implementar las disposiciones aplicables en materia de seguridad, salud, higiene y medio ambiente en el trabajo o en la prestación del servicio de las dependencias de la administración pública centralizada, de conformidad al marco normativo aplicable, y en su caso, proponer las adecuaciones que considere pertinentes;
 
 IV. Brindar asistencia técnica a las dependencias de la administración pública centralizada, para promover la formulación de programas de seguridad, salud, higiene y medio ambiente en el trabajo o en la prestación del servicio, así como proponer la realización de estudios en estas materias para el diseño de instrumentos técnicos, con el objeto de implementar su administración en la gestión integral de las áreas de trabajo y la aplicación de prácticas seguras por parte de los servidores públicos en la prestación del servicio; lo anterior, atendiendo a los lineamientos de las autoridades competentes y a las disposiciones aplicables;
 
@@ -677,17 +781,27 @@ V. Promover y programar la capacitación de los servidores públicos, particular
 
 VI. Coordinar la aplicación de las disposiciones aplicables y normas oficiales mexicanas, en materia de seguridad, salud, higiene y medio ambiente en el trabajo o en la prestación del servicio, en las dependencias de la administración pública centralizada, en coordinación con las autoridades competentes;
 
-VII. Proponer la constitución y funcionamiento de las comisiones de seguridad e higiene en las áreas de trabajo o en la prestación del servicio de las dependencias de la administración pública centralizada; así como proponer el diseño y aplicación de mecanismos para propiciar el desarrollo del personal profesional y técnico especializado en seguridad, salud, higiene y medio ambiente en el trabajo o en la prestación del servicio, a fin de fortalecer los servicios preventivos en las dependencias de la administración pública centralizada, lo anterior, atendiendo a los lineamientos de las autoridades competentes y a las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+VII. Proponer la constitución y funcionamiento de las comisiones mixtas de seguridad e higiene de la administración pública centralizada; así como proponer el diseño y aplicación de mecanismos para propiciar el desarrollo del personal profesional y técnico especializado en seguridad, salud, higiene y medio ambiente en el trabajo o en la prestación del servicio, a fin de fortalecer los servicios preventivos en las dependencias de la administración pública centralizada, atendiendo a los lineamientos de las autoridades competentes y a las disposiciones aplicables;
 
 VIII. Participar en el desarrollo de actividades académicas o científicas, particularmente en materia de seguridad, salud, higiene y medio ambiente en el trabajo o en la prestación del servicio, con organismos federales, estatales y municipales;
 
-IX. Proponer, programar y coordinar las solicitudes de capacidad residual para el trabajo o para la prestación del servicio de los servidores públicos de la administración pública centralizada ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Gobierno y Municipios del Estado de Baja California;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+IX. Proponer, programar y coordinar las solicitudes de capacidad residual para el trabajo o para la prestación del servicio de los servidores públicos de la administración pública centralizada, que llevarán a cabo las dependencias, ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Gobierno y Municipios del Estado de Baja California;
 
 X. Coordinar la elaboración y proponer, en términos de la normatividad aplicable, el plan de contingencia en materia de seguridad e higiene de los edificios de la administración pública centralizada, así como sus actualizaciones;
 
 XI. Elaborar, organizar y desarrollar programas y campañas de seguridad y salud para la prevención de accidentes y enfermedades de trabajo o en la prestación del servicio, en las dependencias de la administración pública centralizada, atendiendo a los lineamientos de las autoridades competentes y a las disposiciones aplicables, y promoviendo la participación de dependencias y organismos que correspondan, y
 
-XII. Las demás que expresamente le confieran las leyes, reglamentos y demás normatividad aplicable.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+XII. Programar y coordinar la aplicación de exámenes toxicológicos al personal de las dependencias de la administración pública centralizada, conforme a la normatividad aplicable, con excepción (sic) los servidores públicos que sostienen una relación de carácter administrativo, funcionarios de primer nivel de la administración pública centralizada y personal docente y no docente del sistema educativo estatal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE AGOSTO DE 2015)</small>
+
+XIII. Las demás que expresamente le confieran las leyes, reglamentos y demás normatividad aplicable.
 
 ###### ARTÍCULO 25.
 
@@ -1129,33 +1243,63 @@ II. Fijar, sistematizar, unificar, coordinar y difundir los criterios de interpr
 
 III. Elaborar y dictaminar las normas, políticas y lineamientos para las adquisiciones, arrendamientos, enajenaciones, desincorporación, permutas, transferencia o donación, conservación y mantenimiento de bienes muebles e inmuebles, contratación y manejo de personal y de servicios básicos que requiera la administración pública centralizada, acatando la normatividad aplicable;
 
-IV. Desarrollar y proponer las políticas de administración y ejecución de programas de regulación y simplificación de procesos y procedimientos que compete desarrollar a la Oficialía;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-V. Procurar la adecuada aplicación de las normas y políticas de administración interna y organización, para las Dependencias de la administración pública centralizada;
+IV. Desarrollar y proponer las políticas de administración y ejecución de programas de regulación competencia de la Oficialía;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+V. Procurar la adecuada aplicación de las normas y políticas de administración interna para las Dependencias de la administración pública centralizada.
 
 VI. Participar en los procesos de modernización y adecuación del orden normativo, jurídico y administrativo que rige el funcionamiento de la Oficialía y las entidades del sector paraestatal;
 
 VII. Asesorar a las dependencias de la administración pública centralizada en la aplicación de normas y políticas para el manejo de los recursos competencia de la Oficialía;
 
-VIII. Emitir opinión o dictamen jurídico sobre los proyectos de ley, reglamentos, decretos, acuerdos, contratos, convenios y demás actos jurídicos de los que se deriven derechos y obligaciones para la Oficialía;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-IX. Asesorar y dar orientación jurídica a las unidades administrativas de la Oficialía, así como actuar como órgano de consulta para apoyar y sustentar el ejercicio de las facultades de los titulares que la integran;
+VIII. Emitir opinión o dictamen jurídico sobre los proyectos de ley, reglamentos, decretos, acuerdos, contratos, convenios, sus prorrogas y demás actos jurídicos que deriven de ellos y de los que se deriven derechos y obligaciones para la Oficialía;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+IX. Asesorar y dar orientación jurídica a las unidades administrativas de la Oficialía así como actuar como órgano de consulta para apoyar y sustentar el ejercicio de las facultades de los titulares que las integran y asesorar al Comité de Adquisiciones, Arrendamientos y Servicios del Poder Ejecutivo;
 
 X. Conocer y tramitar las solicitudes de contratación de servicios profesionales de asesorías, consultorías, estudios e investigaciones que requieran las dependencias de la administración pública centralizada, con la participación que se requiera del Comité de Adquisiciones, Arrendamientos y Servicios del Poder Ejecutivo, de conformidad con la normatividad aplicable;
 
-XI. Participar en la instrumentación de los proyectos de innovación, uso eficiente de recursos, ahorro e implementación de sistemas de calidad que promueva la Oficialía;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-XII. Dirigir y evaluar los estudios de factibilidad para la adecuación de la estructura y sistemas de la Oficialía;
+XI. Emitir opinión y asesorar en la elaboración de los proyectos de contratos sobre la adquisición de bienes y servicios generales, de acuerdo a las leyes y disposiciones aplicables en la materia, así como cualquier convenio o instrumento que los prorrogue o modifique;
 
-XIII. Dirigir el proceso de elaboración y actualización en su caso, del reglamento interno y los manuales administrativos de la Oficialía;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-XIV. Proponer las normas y políticas de coordinación que deberán aplicarse en el sector paraestatal en materia de administración y desarrollo de personal, adquisiciones, conservación de bienes y servicios;
+XII. Emitir opinión, asesorar o coadyuvar en la elaboración o modificación de las Condiciones Generales de Trabajo;
 
-XV. Hacer del conocimiento de la Dirección de Control y Evaluación Gubernamental sobre las supuestas irregularidades cometidas por el personal de la Oficialía;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-XVI. Orientar a las entidades paraestatales en la aplicación de la normatividad que regula los procesos de administración de recursos humanos, recursos materiales y de servicios y programas de modernización y racionalización de recursos, y
+XIII. Emitir opinión y asesorar en el cumplimiento de las leyes, reglamentos, políticas, normas, lineamientos, acuerdos y demás disposiciones legales aplicables en materia laboral y administrativa, así como de los convenios y contratos que rigen las relaciones de trabajo y administrativa de los servidores públicos adscritos a la Administración Pública, en coordinación con la dependencia o unidad que corresponda;
 
-XVII. Las demás que expresamente le confieran las leyes, reglamentos y demás normatividad aplicable.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+XIV. Emitir opinión, asesorar o dictaminar los formatos, convenios, contratos y demás documentos necesarios para realizar las convocatorias, licitaciones públicas y concursos, para la enajenación, concesión o demás instrumentos relativos a bienes inmuebles del Gobierno del Estado, de conformidad con la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+XV. Dirigir el proceso de elaboración y actualización en su caso, del reglamento interno de la Oficialía;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+XVI. Proponer las normas y políticas de coordinación que deberán aplicarse en el sector paraestatal en materia de administración y desarrollo de personal, adquisiciones, conservación de bienes y servicios;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+XVII. Orientar a las entidades paraestatales en la aplicación de la normatividad que regula los procesos de administración de recursos humanos, recursos materiales y de servicios y programas de modernización y racionalización de recursos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE AGOSTO DE 2015)</small>
+
+XVIII. Hacer del conocimiento de la Dirección de Control y Evaluación Gubernamental sobre las supuestas irregularidades cometidas por el personal de la Oficialía; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE AGOSTO DE 2015)</small>
+
+XIX. Las demás que expresamente le confieran las leyes, reglamentos y demás normatividad aplicable.
 
 ###### ARTÍCULO 48.
 
@@ -1163,9 +1307,13 @@ Quedan adscritas a la Dirección de Normatividad y Políticas Administrativas la
 
 I. Departamento de Normatividad.
 
-II. Departamento de Desarrollo Organizacional.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-III. Departamento de Coordinación del Sector Paraestatal.
+II. Departamento de Asesoría Jurídica Laboral.
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+III. Departamento de Asesoría Jurídica Patrimonial.
 
 ###### ARTÍCULO 49.
 
@@ -1177,7 +1325,9 @@ II. Diseñar y dictaminar las normas y políticas para el cumplimiento de progra
 
 III. Ejecutar los acuerdos y disposiciones del Oficial Mayor en materia de normatividad y políticas administrativas, verificando el cumplimiento por parte de las dependencias de la administración pública centralizada;
 
-IV. Elaborar los dictámenes jurídicos de los contratos laborales, de prestación de servicios profesionales, de seguros, compraventa, donaciones y demás actos que deriven derechos y obligaciones para la Oficialía;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+IV. Elaborar los dictámenes jurídicos de los contratos por honorarios o de prestación de servicios profesionales, seguros, sus prorrogas o instrumentos que de ellos deriven, y demás actos que deriven derechos y obligaciones para la Oficialía, cuando no intervenga el Comité de Adquisiciones, Arrendamientos y Servicios del Poder Ejecutivo;
 
 V. Elaborar dictámenes jurídicos de los proyectos de concesión, asignación, permisos, autorizaciones, expedientes técnicos de desincorporación de bienes muebles e inmuebles, entre otros, cumpliendo con la normatividad aplicable;
 
@@ -1187,51 +1337,83 @@ VII. Elaborar los estudios y proyectos jurídicos que contribuyan al mejor funci
 
 VIII. Presentar los proyectos de normas y políticas que sean necesarios para la óptima operación del sistema de administración de personal, de los recursos materiales y servicios;
 
-IX. Elaborar los criterios de interpretación jurídica del marco legal aplicable y de la normatividad vigente que norman el funcionamiento de la Oficialía, y
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-X. Las demás que expresamente le confieran las leyes, reglamentos y demás normatividad aplicable.
+IX. Elaborar los criterios de interpretación jurídica del marco legal aplicable y de la normatividad vigente que norman el funcionamiento de la Oficialía, en las materias de su competencia;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+X. Elaborar y actualizar en su caso, el reglamento interno de Oficialía, con la participación que corresponda a las unidades administrativas que la integran;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE AGOSTO DE 2015)</small>
+
+XI. Analizar y emitir opinión jurídica de los proyectos de reglamentos internos de las dependencias y entidades paraestatales en temas relativos a la competencia de la Oficialía;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE AGOSTO DE 2015)</small>
+
+XII. Orientar a las entidades paraestatales en la aplicación de la normatividad que regula los procesos de administración de recursos humanos, recursos materiales y de servicios, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE AGOSTO DE 2015)</small>
+
+XIII. Las demás que expresamente le confieran las leyes, reglamentos y demás normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
 ###### ARTÍCULO 50.
 
-Corresponde al Departamento de Desarrollo Organizacional, por conducto de su titular, el ejercicio de las siguientes atribuciones:
+Corresponde al Departamento de Asesoría Jurídica Patrimonial, por conducto de su titular, el ejercicio de las siguientes atribuciones:
 
-I. Participar en la instrumentación de los proyectos de innovación, uso eficiente de recursos, ahorro e implementación de sistemas de calidad que promueva la Oficialía;
+I. Emitir opinión, asesorar y coadyuvar en los proyectos de convocatorias o en los procedimientos para la enajenación de bienes muebles del Gobierno del Estado, de conformidad con la normatividad aplicable;
 
-II. Realizar, dar seguimiento y evaluar los estudios, proyectos y diversas investigaciones en materia de desarrollo organizacional de los sistemas de la Oficialía, proponiendo las adecuaciones necesarias en su estructura, funciones, procesos y procedimientos;
+II. Emitir opinión y asesorar en los proyectos de contrato de comodato y donación de bienes muebles, en observancia de la normatividad aplicable;
 
-III. Generar modelos de vanguardia en apoyo a la mejora continua y desarrollo organizacional de la Oficialía, mediante la consulta, recopilación y análisis de información existente en los diversos medios disponibles;
+III. Emitir opinión y asesorar en la elaboración de los instrumentos jurídicos, formatos, actas y demás documentación que se requiera para efectuar la toma de posesión de los predios adquiridos por Gobierno del Estado, por cualquier forma jurídica, de conformidad a la normatividad aplicable;
 
-IV. Diseñar y aplicar los métodos y técnicas de investigación para la evaluación de los servicios que proporciona la Oficialía, proponiendo las medidas de mejoramiento que correspondan;
+IV. Emitir opinión, asesorar y coadyuvar en los proyectos de convenio, donación, comodato, permuta, compra, venta, iniciativa de desincorporación y autorización de enajenación, decreto de afectación, o cualquier documento que los modifique o los de por terminados, así como los demás instrumentos jurídicos que generen derechos u obligaciones para el Gobierno del Estado en materia de bienes inmuebles, en observancia de la normatividad aplicable;
 
-V. Analizar y formular opinión técnica de los proyectos de organización de la Oficialía y proponer las modificaciones a su estructura orgánica, ocupacional y funcional, que fundamenten el proceso de reestructuración que en su caso corresponda instrumentar;
+V. Emitir opinión, coadyuvar y asesorar en la elaboración de contratos de compraventa, donaciones y demás actos que deriven derechos y obligaciones para la Oficialía;
 
-VI. Operar y mantener actualizado el sistema de información para el registro y administración de los proyectos de integración, desconcentración, simplificación y mejora continua de la Oficialía;
+VI. Emitir opinión y coadyuvar en la elaboración de los dictámenes jurídicos de los proyectos de concesión, asignación, permisos o autorizaciones respecto de bienes inmuebles propiedad de (sic) Gobierno del Estado;
 
-VII. Elaborar y actualizar en su caso, el reglamento interno y los manuales de organización, procedimientos y servicios, con la participación que corresponda a las unidades administrativas de la Oficialía;
+VII. Elaborar los estudios y proyectos jurídicos, en el ámbito de sus atribuciones, que contribuyan al mejor funcionamiento de la dependencia;
 
-VIII. Analizar y emitir opinión técnica de los proyectos de reglamentos internos y manuales administrativos relativos a la competencia de la Oficialía, y
+VIII. Elaborar los criterios de interpretación jurídica del marco legal aplicable, en el ámbito de sus atribuciones, para el mejor funcionamiento de la Oficialía, y
 
-IX. Las demás que expresamente le confieran las leyes, reglamentos y demás normatividad aplicable.
+IX. Las demás que expresamente le encomiende el Director, las leyes, reglamentos y demás normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
 ###### ARTÍCULO 51.
 
-Corresponde al Departamento de Coordinación del Sector Paraestatal, por conducto de su titular, el ejercicio de las siguientes atribuciones:
+Corresponde al Departamento de Asesoría Jurídica Laboral, por conducto de su titular, el ejercicio de las siguientes atribuciones:
 
-I. Participar en las sesiones de los órganos de gobierno de las entidades paraestatales, en las que esta dependencia forme parte, así como en las comisiones técnicas consultivas que se establezcan para tal efecto;
+I. Asesorar, emitir opinión y coadyuvar en la implementación de los trámites relacionados con la remoción, terminación y rescisión de la relación laboral del personal de las dependencias de la administración pública centralizada;
 
-II. Instrumentar mecanismos de coordinación con las dependencias normativas del Poder Ejecutivo para homologar los criterios que garanticen la eficiencia del sector paraestatal, en materias competencia de la Oficialía;
+II. Coadyuvar en la proposición y aplicación de procedimientos y normatividad en materia laboral competencia de la Oficialía;
 
-III. Participar en los consejos, mesas de trabajo y demás órganos de dirección del sector paraestatal, para el establecimiento de una gestión homogénea que permita la adecuada administración de los recursos humanos, recursos materiales y de servicios;
+III. Dictaminar y emitir opinión de los contratos laborales y demás actos o instrumentos de los que deriven derechos y obligaciones laborales para la Administración Pública Centralizada, así como brindar orientación a las Entidades Paraestatales;
 
-IV. Orientar a las entidades paraestatales en la aplicación de la normatividad que regula los procesos de administración de recursos humanos, recursos materiales y de servicios, y
+IV. Dictaminar, opinar y asesorar en la elaboración o modificación de las condiciones generales de trabajo, así como en relación a la elaboración de convenios y contratos en materia laboral y administrativa;
 
-V. Las demás que expresamente le confieran las leyes, reglamentos y demás normatividad aplicable.
+V. Intervenir administrativamente en el trámite y cumplimiento de las resoluciones definitivas, en materia laboral, relacionadas con los trabajadores al servicio de la administración pública centralizada;
+
+VI. Iniciar administrativamente el trámite sobre el cumplimento de las resoluciones definitivas, de los servidores públicos que sostienen una relación de carácter administrativa con la administración pública centralizada;
+
+VII. Elaborar los estudios y proyectos jurídicos, en las materias de su competencia, que contribuyan al mejor funcionamiento de la dependencia;
+
+VIII. Emitir opinión jurídica sobre solicitudes de reconocimiento de antigüedad, licencias y compatibilidad de funciones, empleos y comisiones;
+
+IX. Emitir opinión y asesorar en materia laboral burocrática y administrativa a las Dependencias o Entidades Paraestatales de la Administración Pública Estatal, y
+
+X. Las demás que expresamente le confieran las leyes, reglamentos y demás normatividad aplicable.
 
 ###### ARTÍCULO 52.
 
 Corresponde a la Dirección de Desarrollo de Proyectos, por conducto de su titular, el ejercicio de las siguientes atribuciones:
 
-I. Planear, programar, organizar, dirigir, controlar y evaluar los proyectos de innovación, uso eficiente de recursos, ahorro e implementación de sistemas de calidad;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+I. Planear, programar, organizar, dirigir, controlar y evaluar los proyectos de innovación, uso eficiente de recursos, ahorro e implementación de sistemas de calidad en las dependencias de la Administración Pública Centralizada;
 
 II. Establecer los lineamientos y políticas generales para la definición, planeación y administración de los proyectos de la Oficialía y las dependencias de la administración pública centralizada, coordinados en su área de competencia;
 
@@ -1239,35 +1421,79 @@ III. Coordinar la definición, desarrollo y seguimiento a los proyectos de innov
 
 IV. Definir y desarrollar, en coordinación con las dependencias de la administración pública centralizada, la instrumentación de sistemas de calidad que aseguren la consistencia y estandarización de los procedimientos en la prestación de servicios a la ciudadanía;
 
-V. Coordinar al interior de la Oficialía la elaboración del Plan Estatal de Desarrollo, en la materia de su competencia, así como la integración de los informes anuales de labores;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-VI. Coordinar el uso de las tecnologías de información, que permitan su óptima utilización para el mejoramiento de los procesos y servicios de la Oficialía, y
+V. Coordinar el uso de las tecnologías de información, que permitan su óptima utilización para el mejoramiento de los procesos y servicios de la Oficialía
 
-VII. Las demás que expresamente le confieran las leyes, reglamentos y demás normatividad aplicable.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+VI. Desarrollar y proponer programas de simplificación, mejora continua o certificación de procesos, procedimientos, sistemas o servicios que compete desarrollar a la Oficialía;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+VII. Revisar y en su caso validar los manuales administrativos de las Dependencias y de las Entidades Paraestatales que conforman la administración pública estatal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE AGOSTO DE 2015)</small>
+
+VIII. Instrumentar mecanismos de coordinación y homologación de acciones de la administración pública centralizada, con las Entidades Paraestatales orientadas al uso eficiente de los recursos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE AGOSTO DE 2015)</small>
+
+IX. Procurar la adecuada aplicación de las normas y políticas en materia de organización administrativa, para las Dependencias de la administración pública centralizada;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE AGOSTO DE 2015)</small>
+
+X. Las demás que expresamente le confieran las leyes, reglamentos y demás normatividad aplicable.
 
 ###### ARTÍCULO 53.
 
 Quedan adscritas a la Dirección de Desarrollo de Proyectos las siguientes unidades administrativas:
 
-I. Departamento de Gestión de Calidad.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+I. Departamento de Desarrollo Institucional.
 
 II. Departamento de Sistemas de Información.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE AGOSTO DE 2015)</small>
+
+III. Departamento de Orientación y Seguimiento a Entidades Paraestatales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2015)</small>
+
 ###### ARTÍCULO 54.
 
-Corresponde al Departamento de Gestión de Calidad, por conducto de su titular, el ejercicio de las siguientes atribuciones:
+Corresponde al Departamento de Desarrollo Institucional, por conducto de su titular, el ejercicio de las siguientes atribuciones:
 
-I. Coordinar conjuntamente con las unidades administrativas de la Oficialía, así como con las dependencias de la administración pública centralizada, los proyectos de mejora, simplificación y certificación de procesos bajo sistemas de gestión de calidad para el eficiente funcionamiento de las áreas;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-II. Dar seguimiento a los objetivos establecidos en los procesos del sistema de calidad de la Oficialía;
+I. Coordinar conjuntamente con las unidades administrativas de la Oficialía, así como con las dependencias y entidades paraestatales de la Administración Pública, los proyectos de mejora, simplificación y certificación de procesos bajo sistemas de gestión de calidad para el eficiente funcionamiento de las áreas;
 
-III. Implementar las estrategias de verificación y evaluación de los sistemas de calidad para el mejor logro de los objetivos establecidos, además de analizar los procesos internos para proponer mejoras o simplificación de los mismos;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-IV. Coordinar con las unidades administrativas de la Oficialía, la definición y el seguimiento de los indicadores institucionales de desempeño de la dependencia;
+II. Participar en la instrumentación de los proyectos de innovación, uso eficiente de recursos, ahorro e implementación de sistemas de calidad que promueva la Oficialía;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+III. Dar seguimiento a los objetivos establecidos en los procesos del sistema de calidad de la Oficialía;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+IV. Diseñar e Implementar los métodos, técnicas y estrategias de investigación para la verificación y evaluación de los servicios y sistemas de calidad de las Dependencias y Entidades Paraestatales de la Administración Pública, para el mejor logro de los objetivos establecidos, además de analizar los procesos internos a efecto de proponer mejoras o simplificación de los mismos;
 
 V. Elaborar informes ejecutivos del estado que presentan cada uno de los proyectos de mejora, así como de los asuntos encomendados a la Dirección de Desarrollo de Proyectos y someterlos a su aprobación, y
 
-VI. Las demás que expresamente le confieran las leyes, reglamentos y demás normatividad aplicable.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+
+VI. Operar y mantener actualizado el sistema de información para el registro y administración de los proyectos de integración, desconcentración, simplificación y mejora continua de la Oficialía;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE AGOSTO DE 2015)</small>
+
+VII. Revisar, y en su caso validar los manuales administrativos de las Dependencias de la Administración Pública Centralizada;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE AGOSTO DE 2015)</small>
+
+VIII. Las demás que expresamente le confieran las leyes, reglamentos y demás normatividad aplicable.
 
 ###### ARTÍCULO 55.
 
@@ -1300,6 +1526,20 @@ XII. Custodiar y administrar las bases de datos, asegurando la integridad de la 
 XIII. Integrar los manuales técnicos y de operación que contengan el análisis, programación y operación de todos los sistemas desarrollados, manteniéndolos actualizados, y
 
 XIV. Las demás que expresamente le confieran las leyes, reglamentos y demás normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2015)</small>
+
+ARTÍCULO 55 BIS.- Corresponde al Departamento de Orientación y Seguimiento a Entidades Paraestatales, por conducto de su titular, el ejercicio de las siguientes atribuciones:
+
+I. Participar en las sesiones de los órganos de gobierno de las Entidades Paraestatales, en las que (sic) Oficialía forme parte, así como en las comisiones técnicas consultivas que se establezcan para tal efecto;
+
+II. Instrumentar mecanismos de coordinación con las dependencias normativas del Poder Ejecutivo para homologar los criterios que garanticen la eficiencia de la administración pública paraestatal, en materias competencia de la Oficialía;
+
+III. Participar en los consejos, mesas de trabajo y demás órganos de gobierno de las Entidades Paraestatales, y en el seguimiento de actividades de los mismos, para el establecimiento de una gestión homogénea que permita la adecuada administración de los recursos humanos, recursos materiales y de servicios;
+
+IV. Revisar, y en su caso validar, los manuales administrativos de las Entidades Paraestatales;
+
+V. Las demás que expresamente le confieran las leyes, reglamentos y demás normatividad aplicable.
 
 ### CAPÍTULO VIII. DE LOS DELEGADOS
 
@@ -1518,3 +1758,13 @@ SEGUNDO.- En un plazo que no exceda de 40 días hábiles, contados a partir de l
 TERCERO.- En tanto se da cumplimiento a lo previsto en el artículo anterior, continuaran aplicándose las disposiciones normativas vigentes y aplicables a los diversos procedimientos, procesos o servicios de la Oficialía Mayor de Gobierno.
 
 CUARTO.- Los asuntos que se encontraren en trámite al momento de entrar en vigor el presente Decreto, serán resueltos por la unidad administrativa que los hubiere iniciado.
+
+P.O. 28 DE AGOSTO DE 2015.
+
+PRIMERO.- Las presentes reformas entrarán en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un plazo que no exceda de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, las Unidades Administrativas que resultan competentes conforme al mismo, deberán adecuar las disposiciones normativas, e implementar las demás medidas administrativas o presupuestales para su adecuado cumplimiento, con el apoyo de las Áreas que resulten competentes y la participación que corresponda a la Secretaria de Planeación y Finanzas.
+
+TERCERO.- En tanto se da cumplimiento a lo previsto en el artículo anterior, continuaran aplicándose las disposiciones normativas vigentes y aplicables a los diversos procedimientos, procesos o servicios de la Oficialía Mayor de Gobierno.
+
+CUARTO.- Los asuntos que se encontraren en trámite al momento de entrar en vigor el presente Decreto, serán resueltos por la unidad administrativa que corresponda, de conformidad con la normatividad a que se refiere el artículo anterior.
