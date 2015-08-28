@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-1212-de-salud-del-estado-de-guerrero-92167"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-04"
-last_updated: "2014-07-08"
+last_updated: "2015-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2015.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el martes 4 de diciembre de 2012.
 
@@ -317,13 +317,17 @@ XII. Establecimientos dedicados a la prestación de servicios como peluquerías,
 
 XIII. Establecimientos para el hospedaje;
 
-XIV. Transporte estatal y municipal;
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
-XV. Gasolineras;
+XIV. Establecimientos dedicados a la cirugía plástica y reconstructiva.
 
-XVI. Prevención y control de la rabia en animales y seres humanos, y;
+XV. Transporte estatal y municipal;
 
-XVII. Las demás materias que determinen esta Ley y las disposiciones legales aplicables.
+XVI. Gasolineras;
+
+XVII. Prevención y control de la rabia en animales y seres humanos, y;
+
+XVIII. Las demás materias que determinen esta Ley y las disposiciones legales aplicables.
 
 C).- En materia de nutrición y reducción de sobrepeso y obesidad;
 
@@ -2017,7 +2021,23 @@ La autoridad sanitaria competente, una vez terminada la edificación del centro 
 
 El funcionamiento de los establecimientos a que se refiere el artículo 237 de esta Ley, deberá acatar lo expuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan en los reglamentos de esta Ley, otras disposiciones legales aplicables y las normas oficiales mexicanas correspondientes.
 
-### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
+### CAPITULO XVI. ESTABLECIMIENTOS DEDICADOS A LA CIRUGÍA PLÁSTICA Y RECONSTRUCTIVA
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2015)</small>
+
+ARTICULO 262 BIS 1. La cirugía plástica y reconstructiva, relacionada con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo, o con efectos antienvejecimiento, deberá efectuarse en establecimientos o unidades medicas con licencia sanitaria vigente, atendidos por especialistas en cirugía plástica y reconstructiva certificados de conformidad a la Ley General de Salud.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2015)</small>
+
+ARTICULO 262 BIS 2. Las sociedades, asociaciones, colegios o federaciones de especialistas dedicados a la cirugía plástica y reconstructiva, deberán poner a disposición de la Secretarias (sic) de Salud del Estado, el listado que contengan los nombres, datos de los profesionistas que lleven a cabo procedimientos medio-quirúrgicos certificados referido en este capítulo, y será (sic) de reconocimiento público sus certificados o títulos de especialización vigentes, así como el o los procedimientos médico-quirúrgico que lleven a cabo.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2015)</small>
+
+ARTICULO 262 BIS 3. El funcionamiento de los establecimientos señalados en este capítulo deberá apegarse a lo establecido en la ley general y su reglamento, norma oficial mexicana que se encuentre vigente y sea aplicable, relativa a las características mínimas de infraestructura y equipamiento de hospitales y consultorios de atención médica especializada, a las normas técnicas correspondientes y lo que establezca esta ley. Corresponde a la autoridad sanitaria ejercer el control sanitario de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2015)</small>
+
+ARTICULO 262 BIS 4. La oferta de servicios en propaganda o publicidad que se haga a través de medios informativos, ya sean impresos, electrónicos u otros, por especialistas que ofrezcan cirugía plástica y reconstructiva; así como, los establecimientos o unidades medicas en que se practiquen dichas cirugías, deberán prever y contener con claridad en su nombre, título que ostenta y numero de cedula del especialista, numero de certificación otorgado por el Consejo Mexicano correspondiente y el nombre y datos de la institución y/o Instituciones educativas, que avalen su ejercicio profesional así como el nombre del establecimiento o unidad médica con licencia vigente.
 
 ###### ARTICULO 256.
 
@@ -2027,7 +2047,7 @@ Para los efectos de esta Ley, se entiende por peluquería, salones de belleza y 
 
 El funcionamiento y personal de los establecimientos señalados en el artículo anterior deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y a las normas técnicas correspondientes.
 
-### CAPITULO XVII. GASOLINERIAS
+### CAPITULO XVI (SIC). TRANSPORTE ESTATAL Y MUNICIPAL
 
 ###### ARTICULO 258.
 
@@ -2043,7 +2063,7 @@ III. Lavadero público: el establecimiento al cual acuden los interesados para r
 
 Corresponde a la autoridad sanitaria competente ejercer la verificación sanitaria de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
 
-### CAPITULO XVIII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
+### CAPITULO XVII. GASOLINERIAS
 
 ###### ARTICULO 260.
 
@@ -2057,11 +2077,13 @@ La Secretaría de Salud, realizará la verificación sanitaria a los establecimi
 
 Para la construcción o acondicionamiento de un inmueble que se pretenda destinar como establecimiento para el hospedaje, así como para su funcionamiento, se deberá notificar de acuerdo a lo que establece el artículo 192 de esta Ley.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 2015)</small>
+
+### CAPITULO XVIII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
+
 ### CAPITULO I. AUTORIZACIONES
 
 ### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
-
-### CAPITULO III. CERTIFICADOS
 
 ###### ARTICULO 263.
 
@@ -2071,7 +2093,7 @@ Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo d
 
 Los transportes que circulen por uno o más Municipios del Estado, no requerirán de autorización sanitaria, debiendo cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables y las normas oficiales mexicanas que para tal efecto se emitan.
 
-### CAPITULO UNICO
+### CAPITULO III. CERTIFICADOS
 
 ###### ARTICULO 265.
 
@@ -2081,7 +2103,7 @@ Para los efectos de esta Ley, se entiende por gasolinería el establecimiento de
 
 Las gasolinerías deberán contar con las instalaciones de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas oficiales mexicanas correspondientes.
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
 ###### ARTICULO 267.
 
@@ -2117,7 +2139,7 @@ Las autoridades sanitarias, mantendrán campañas permanentes de orientación a 
 
 ## TITULO DECIMO CUARTO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 271.
 
@@ -2161,7 +2183,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la legislación fiscal y los convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 279.
 
@@ -2221,7 +2243,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución administrativa o de revocación en su caso, surtirá efectos, de clausura definitiva, prohibición de uso, de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 287.
 
@@ -2255,7 +2277,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TITULO DECIMO QUINTO. VIGILANCIA SANITARIA
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 292.
 
@@ -2350,6 +2372,8 @@ Transcurrido este plazo, sin que se haya impugnado el resultado del análisis of
 En el caso de los productos recogidos en procedimientos de muestreo o verificación, sólo los laboratorios autorizados o habilitados por la autoridad sanitaria competente en el Estado, determinarán por medio de los análisis practicados, si tales productos reúnen o no sus especificaciones.
 
 ## TITULO DECIMO QUINTO (SIC). MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
+
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 304.
 
@@ -2760,3 +2784,15 @@ Comuníquese el presente Decreto al titular del Poder Ejecutivo del Estado de Gu
 ###### ARTÍCULO TERCERO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado y en la página web del Honorable Congreso del Estado de Guerrero, para su conocimiento general.
+
+P.O. 28 DE AGOSTO DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 863 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 1212 DE SALUD EN EL ESTADO DE GUERRERO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
