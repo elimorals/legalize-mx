@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-igualdad-entre-mujeres-y-hombres-en-el-estado-61333
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-24"
-last_updated: "2013-03-23"
+last_updated: "2015-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61333&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 24 de mayo de 2008.
 
@@ -41,7 +41,7 @@ SEGUNDO.- Mediante memorándum número 180, luego de su primera lectura en Sesi�
 
 La Iniciativa de Ley se sustentó en la siguiente:
 
-EXPOSICIÓN DE MOTIVOS.
+EXPOSICIÓN DE MOTIVOS...
 
 Por todo lo anteriormente expuesto y fundado, y con apoyo además en lo dispuesto por los artículos 65, fracción I de la Constitución Política del Estado; 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de decretarse y se
 
@@ -99,7 +99,9 @@ III. Acciones a favor de las mujeres.- Medidas de carácter temporal adoptadas a
 
 IV. Transversalidad.- Es el proceso que permite garantizar la inclusión de la perspectiva de género en la legislación, y en todas las acciones, programas, lineamientos, políticas públicas, actividades económicas administrativas y culturales, tanto en instituciones públicas como privadas en todos sus niveles; valorando las implicaciones que tienen para mujeres y hombres.
 
-V. Ente Público.- Las dependencias del Ejecutivo del Estado y demás organismos que conforman la administración pública; los órganos autónomos por ley y aquéllos que la legislación local reconozca como de interés público y ejerzan gasto público; y los entes equivalentes a personas jurídicas de derecho público que en ejercicio de sus actividades actúen en auxilio de los órganos antes citados o ejerzan gasto público.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2015)</small>
+
+V. Ente Público.- Los Poderes del Estado; las dependencias; los organismos públicos descentralizados; los organismos públicos autónomos por ley y aquéllos que la legislación local reconozca como de interés público y ejerzan gasto público; y los entes equivalentes a personas jurídicas de derecho público que en ejercicio de sus actividades actúen en auxilio de los órganos antes citados o ejerzan gasto público.
 
 VI. Política de Igualdad.- Política en materia de Igualdad entre Mujeres y Hombres en el Estado.
 
@@ -255,7 +257,17 @@ VII. Promover políticas públicas que tengan por objeto incentivar a la iniciat
 
 VIII. Fomentar la igualdad entre mujeres y hombres en la vida civil, y
 
-IX. Promover la eliminación de estereotipos establecidos en función del sexo.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2015)</small>
+
+IX. Promover que los medios de comunicación social de los Entes Públicos, así como de los medios masivos de comunicación, promuevan la eliminación de estereotipos sexistas y discriminatorios e incorporen un lenguaje incluyente;
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2015)</small>
+
+X. Proponer que en el sistema educativo estatal se incluyan temas tendientes al respeto de los derechos humanos, así como de la igualdad entre mujeres y hombres, y
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2015)</small>
+
+XI. Incluir en la formulación, ejecución y evaluación de políticas y programas de salud en el Estado, mecanismos de igualdad entre mujeres y hombres.
 
 ### CAPÍTULO SEGUNDO. DE LOS INSTRUMENTOS DE POLÍTICA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -529,6 +541,10 @@ II. Integrar la perspectiva de género al concebir, aplicar y evaluar las polít
 
 III. Evaluar permanentemente las políticas de prevención, atención, sanción y erradicación de la violencia de género.
 
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2015)</small>
+
+IV. Desarrollar políticas para la modificación de patrones socioculturales de conducta de hombres y mujeres, con el objetivo de alcanzar la eliminación de los prejuicios y las prácticas consuetudinarias nocivas, así como de cualquier otra índole que estén basados en la idea de la inferioridad o superioridad de cualquiera de los sexos o en funciones estereotipadas.
+
 ###### Artículo 41.
 
 Para efectos de lo previsto en el artículo anterior, los entes públicos, en el ámbito de su competencia, desarrollarán las siguientes acciones:
@@ -720,3 +736,9 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 29 DE AGOSTO DE 2015.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a este Decreto.
