@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-883
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-06"
-last_updated: "2012-07-04"
+last_updated: "2015-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "TAB"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA FISCALÍA GENERAL DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 29 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 4 DE JULIO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Suplemento C del Periódico Oficial del Estado de Tabasco, el miércoles 6 de junio de 2012.
 
@@ -1759,7 +1759,7 @@ II. Tener cuando menos veinticinco años de edad cumplidos el día de la designa
 
 III. Gozar de buena reputación y no haber sido condenado por sentencia ejecutoriada como responsable de un delito calificado como grave por la ley en la materia;
 
-IV. No estar en funciones por cargo, empleo o comisión en el servicio público federal, estatal o municipal; (sic)
+IV. No estar en funciones por cargo, empleo o comisión en el servicio público federal, estatal o municipal;
 
 ###### Artículo 59.
 
@@ -1996,3 +1996,17 @@ PROCURADOR GENERAL DE JUSTICIA
 LIC. GERARDO GUERRERO PÉREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco y se complementará con las disposiciones específicas que al efecto emita el Fiscal General.
+
+SEGUNDO. Se abroga el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Tabasco, publicado en el suplemento C del Periódico Oficial del Estado de Tabasco 7278, de fecha 06 de junio de 2012, así como las demás disposiciones que se opongan al presente Reglamento.
+
+TERCERO. Los asuntos que se encuentren en trámite por unidades responsables cuya denominación corresponda al ordenamiento abrogado a la entrada en vigor del presente Reglamento, pasarán al conocimiento de las que equivalgan conforme a éste último y se sustanciarán conforme a las disposiciones normativas aplicables.
+
+CUARTO. El Consejo de Profesionalización deberá integrarse dentro de los treinta días siguientes a la publicación del presente Reglamento y emitir el Reglamento del Servicio Profesional de Carrera de la Fiscalía General en un plazo de sesenta días naturales posteriores a su integración.
+
+Los procedimientos, mecanismos y acciones que establezca el Reglamento del Servicio Profesional de Carrera se implementarán gradualmente conforme a la disposición y condiciones presupuestales con las que cuente la Institución.
