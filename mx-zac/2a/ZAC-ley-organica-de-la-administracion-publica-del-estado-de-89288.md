@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-administracion-publica-del-estado-de-89288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-04"
-last_updated: "2015-05-13"
+last_updated: "2015-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2015.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 4 de agosto de 2012.
 
@@ -215,9 +215,13 @@ XIII. Secretaría de Seguridad Pública;
 
 XIV. Secretaría del Zacatecano Migrante;
 
-XV. Coordinación General Jurídica, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE AGOSTO DE 2015)</small>
 
-XVI. Procuraduría General de Justicia.
+XV. Secretaría de Salud;
+
+XVI. Coordinación General Jurídica, y
+
+XVII. Procuraduría General de Justicia.
 
 Las Secretarías a que se refiere este artículo y la Procuraduría General de Justicia dependerán directamente del Titular del Poder Ejecutivo del Estado, tendrán igual rango, y entre ellas no habrá preeminencia alguna.
 
@@ -1165,6 +1169,96 @@ XXIV. Proponer al Titular del Poder Ejecutivo del Estado, las iniciativas de ley
 
 XXV. Las demás que le señalen las leyes, decretos y reglamentos vigentes o le encomiende el Titular del Poder Ejecutivo del Estado.
 
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2015)</small>
+
+###### Articulo 36 Ter.
+
+A la Secretaría de Salud le corresponde el despacho de los siguientes asuntos:
+
+I. Proponer, conducir y evaluar las políticas relativas a los servicios médicos y salubridad en general, así como organizar, operar, supervisar y evaluar la prestación de los servicios, en los rubros descritos en el artículo 3° de la Ley de Salud del Estado;
+
+II. Coordinar el Sistema Estatal de Salud;
+
+III. Planear, normar, establecer, coordinar y evaluar el sistema integral de los servicios de salud y asistencia del Estado, en coordinación con las instituciones de salud del Gobierno Federal, los sectores privado y social y los organismos públicos descentralizados;
+
+IV. Promover y apoyar la impartición de los servicios médicos, tanto de diagnóstico y tratamientos terapéuticos como de asistencia social, que realicen las instituciones públicas, privadas y sociales;
+
+V. Proponer al Ejecutivo del Estado, la concertación de convenios o acuerdos de coordinación necesarios con los gobiernos federal, municipal y las instituciones públicas o privadas, para la prestación de servicios de salud, sobre todo en lo referente a la prevención y control de enfermedades, mejoramiento y rehabilitación de la salud, investigación médica y asistencia social;
+
+VI. Garantizar la observancia permanente de la normatividad aplicable en materia de salud;
+
+VII. Diseñar, implementar y supervisar los programas necesarios para mejorar las condiciones de salud de la población, en coordinación con las instituciones, organismos y organizaciones sociales que forman parte del sector salud y de la administración pública federal y estatal;
+
+VIII. Definir los criterios de distribución del universo de usuarios, regionalización, escalonamiento y universalización de la cobertura;
+
+IX. Impulsar la participación municipal en salud;
+
+X. Impulsar y operar el sistema de información gerencial en salud;
+
+XI. Desarrollar y operar el sistema de evaluación integral en salud;
+
+XII. Mantener actualizado el padrón de las instituciones y organismos de la sociedad civil relacionados con la salud;
+
+XIII. Realizar acciones en materia de transparencia, rendición de cuentas y combate a la corrupción para el mejor seguimiento y evaluación del ejercicio presupuestal, en materia de salud;
+
+XIV. Orientar y canalizar los recursos presupuestados disponibles, a las prioridades en salud definidas por el Estado y gestionar ante las autoridades federales los movimientos y transferencias para la ejecución de programas y actividades de salud pública;
+
+XV. Fortalecer el pacto federal mediante acciones en salud solidarias con otras entidades federativas especialmente en situaciones de desastre;
+
+XVI. Coadyuvar en el ámbito de sus competencias y responsabilidades en el diseño y conformación de la política pública nacional de salud;
+
+XVII. Establecer mecanismos de gestión y criterios para la asignación de recursos basados en resultados y en prioridades de salud;
+
+XVIII. Vigilar que las cuotas de recuperación o pagos por la prestación de servicios de salud, se ajusten a lo que establezcan los instrumentos jurídicos aplicables;
+
+XIX. Representar al Ejecutivo del Estado, por conducto de su titular, en los consejos o juntas de gobierno de las dependencias y entidades de la administración pública, que efectúen actividades de salud en el Estado;
+
+XX. Suplir, por conducto de su titular, al Gobernador del Estado ante el Consejo Estatal de Salud;
+
+XXI. Llevar a cabo el control sanitario de salud local, investigar los problemas de salud pública, en su caso, ordenar las medidas de seguridad que correspondan, e imponer las sanciones autorizadas al respecto. En todo caso, coadyuvar con la federación y los municipios en el control sanitario;
+
+XXII. Celebrar convenios de coordinación y cooperación sanitaria y de salud con los Estados circunvecinos;
+
+XXIII. Vigilar que los programas de medicina alternativa reconocidos por la instancia federal, en materia de homeopatía, herbolaria, acupuntura y otras, que presten los particulares y las unidades de atención, se sujeten al conocimiento y práctica adecuada y a un uso terapéutico apropiado y seguro;
+
+XXIV. Dictar en los términos de las disposiciones jurídicas aplicables las medidas de seguridad sanitaria que sean necesarias para proteger la salud;
+
+XXV. Imponer y aplicar sanciones en los términos de las leyes, reglamentos y demás disposiciones aplicables en la materia, a los prestadores de servicios;
+
+XXVI. Aplicar el control sanitario en las materias de salubridad que le correspondan de conformidad con las leyes de salud y los acuerdos de coordinación;
+
+XXVII. Tramitar, substanciar y resolver, en su caso, los recursos que se interpongan en contra de las resoluciones dictadas en materia de regulación sanitaria y resolver dichos recursos con base en los ordenamientos legales aplicables vigentes;
+
+XXVIII. Participar con las autoridades federales en la formulación, conducción y evaluación de las políticas de saneamiento ambiental;
+
+XXIX. Crear, organizar y administrar establecimientos de salubridad, asistencia pública y terapia social, implementando normas que orienten dichos servicios tanto en el sector oficial como en el privado y social, y promover su cumplimiento;
+
+XXX. Promover y apoyar las acciones de docencia, investigación y capacitación que en el campo de la salud pública se realicen en la Entidad. Asimismo, apoyar la coordinación entre las instituciones de salud y de educación del Estado, para promover y capacitar recursos humanos para la salud;
+
+XXXI. Asesorar y apoyar a los municipios de la Entidad que lo soliciten, en la instrumentación de medidas y acciones en materia de atención médica, asistencia social y salubridad, cuya ejecución esté a cargo de los ayuntamientos;
+
+XXXII. Coadyuvar con los ayuntamientos de la Entidad, para establecer la reglamentación indispensable en materia sanitaria, fundamentalmente en prestación de servicios de agua potable, limpia, centrales de abasto, panteones y rastros;
+
+XXXIII. Coadyuvar en el desarrollo de programas y servicios de salud de la administración pública;
+
+XXXIV. Planear, organizar y evaluar la prestación de servicios de atención primaría, atención médica, urgencias y de rehabilitación;
+
+XXXV. Garantizar la cobertura de servicios a toda la población, dando prioridad a la población en situación de marginación;
+
+XXXVI. Garantizar la suficiencia y disponibilidad del cuadro institucional de medicamentos e insumos;
+
+XXXVII. Diseñar e implementar mecanismos de participación de la comunidad en los servicios de salud;
+
+XXXVIII. Impulsar la acreditación y certificación en estándares de competencia laboral;
+
+XXXIX. Impulsar el servicio civil de carrera;
+
+XL. Impulsar la profesionalización de la medicina preventiva;
+
+XLI. Coordinar las actividades de los organismos públicos descentralizados especializados en la materia, denominados Servicios de Salud de Zacatecas y Régimen Estatal de Protección Social en Salud, a fin de operar los servicios de salud y mejorar la cobertura de éstos en beneficio de la población del Estado; y
+
+XLII. Las demás que le confieran para el cumplimiento de sus funciones otras leyes, reglamentos, decretos, acuerdos, convenios y demás ordenamientos aplicables.
+
 ###### Artículo 37.
 
 A la Coordinación General Jurídica le corresponde el despacho de los siguientes asuntos:
@@ -1540,3 +1634,17 @@ La presente reforma entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 29 DE AGOSTO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Los Servicios de Salud del Estado deberán adecuar su organización y funcionamiento de conformidad con lo establecido en el presente Decreto, a más tardar sesenta días naturales posteriores a su entrada en vigor.
+
+Tercero. El organismo público que se crea mediante el presente Decreto, denominado Régimen Estatal de Protección Social en Salud, comenzará sus operaciones el primero de enero de dos mil dieciséis, conforme al ejercicio fiscal.
+
+Cuarto. El Estatuto Orgánico del organismo descentralizado Régimen Estatal de Protección Social en Salud, los reglamentos y demás disposiciones administrativas necesarias para la plena vigencia de las reformas contenidas en este Decreto, deberán expedirse dentro del plazo de ciento ochenta días naturales contados a partir del inicio de vigencia de este Decreto.
+
+Quinto. El titular del Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas, dotará de los recursos financieros necesarios para la consecución de los fines de la Secretaría de Salud.
+
+Sexto. En tanto se realizan los ajustes en la normatividad respectiva, las unidades administrativas que por consecuencia del presente Decreto modifiquen su denominación o adquieren atribuciones que tenían otras unidades administrativas, se sustituirán en todos los derechos, obligaciones y compromisos adquiridos por la unidad administrativa que se modifique o extinga, en la materia que se le asigne.
