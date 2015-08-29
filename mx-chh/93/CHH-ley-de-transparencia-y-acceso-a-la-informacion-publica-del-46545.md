@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-4654
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-15"
-last_updated: "2014-12-13"
+last_updated: "2015-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y TERCERO TRANSITORIOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 29 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO, UNA VEZ QUE ENTRE EN VIGOR LA NUEVA LEY.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2015.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 15 de octubre de 2005.
 
@@ -1526,3 +1528,37 @@ P.O. 13 DE DICIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE AGOSTO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el día 04 de mayo de 2016.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese la presente Ley en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Una vez que entre en vigor la presente Ley, se abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua, publicada en el Periódico Oficial del Estado, el día 15 de octubre de 2005.
+
+###### ARTÍCULO CUARTO.
+
+El Organismo Garante, en el ejercicio de sus atribuciones, realizará las acciones necesarias para capacitar a los Sujetos Obligados sobre las disposiciones contenidas en la presente Ley, a efecto de conformar los órganos, establecer los procedimientos y llevar a cabo todas aquellas actividades tendientes a dar cabal cumplimiento a las disposiciones de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Hasta en tanto entra en vigencia lo señalado en el Artículo Octavo Transitorio de la Ley General, el Organismo Garante y los Sujetos Obligados darán cumplimiento a lo previsto en dicho precepto.
+
+###### ARTÍCULO SEXTO.
+
+Cuando los ordenamientos jurídicos hagan referencia a los (las) Consejeros (as) del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública, se entenderá que dicha referencia corresponde a los (las) Comisionados (as) del citado Organismo.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Poder Ejecutivo del Estado hará las provisiones necesarias en el Presupuesto de Egresos para el ejercicio fiscal de 2016, para el cumplimiento de las obligaciones y ejercicio de los derechos previstos en esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Los (las) Comisionados (as) Propietarios (as) y Suplentes del Organismo Garante continuarán en sus cargos y, de ninguna forma, se afectarán los derechos derivados de su designación por el H. Congreso del Estado, y durarán en su encargo el periodo que se señala en el Decreto de su correspondiente designación.
