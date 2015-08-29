@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-salud-del-estado-de-zacatecas-29266"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-30"
-last_updated: "2014-12-31"
+last_updated: "2015-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29266&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SALUD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2015.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 30 de junio de 2001.
 
@@ -107,9 +107,11 @@ V. El desarrollo de la enseñanza y la investigación científica y tecnológica
 
 VI. El conocimiento de los efectos del medio ambiente y su relación con la salud.
 
-###### ARTICULO 3º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2015)</small>
 
-En los términos de la Ley General de Salud y de la presente ley, corresponde al Estado de Zacatecas, por conducto de los Servicios de Salud del Estado en coadyuvancia, competencia concurrente o acuerdo con la Secretaría de Salud del Gobierno federal, en materia de salubridad general:
+###### ARTICULO 3°.
+
+En los términos de la Ley General de Salud y de la presente ley, corresponde al Estado de Zacatecas, por conducto del Poder Ejecutivo, a través de la Secretaría y de los Servicios de Salud del Estado en coadyuvancia, competencia concurrente o acuerdo con la Secretaría de Salud del Gobierno federal, en materia de salubridad general:
 
 (ADICIONADA [N. DE E. REFORMADA), P.O. 19 DE FEBRERO DE 2003)
 
@@ -177,7 +179,13 @@ IV. Acuerdo General.- El conjunto de reglas de carácter obligatorio, emitidas p
 
 V. Ley.- Ley de Salud del Estado de Zacatecas;
 
-VI. Ley General.- Ley General de Salud.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2015)</small>
+
+VI. Ley General. Ley General de Salud; y
+
+> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2015)</small>
+
+VII. Secretaría. La Secretaría de Salud del Estado, señalada en el artículo 36 TER de la Ley Orgánica de la Administración Pública del Estado.
 
 ### CAPITULO SEGUNDO. Sistema Estatal de Salud
 
@@ -203,9 +211,11 @@ V. Implementar un sistema racional de administración y desarrollo de los recurs
 
 VI. Definir los mecanismos de coordinación y colaboración entre autoridades y los sectores social y privado en materia de salud.
 
-###### ARTICULO 7º.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2015)</small>
 
-La concertación de acciones entre los Servicios de Salud y los integrantes de los sectores social y privado, se realizará mediante convenios y contratos, los cuales deberán ajustarse a lo que disponga la ley y otros ordenamientos aplicables.
+###### ARTICULO 7°.
+
+La concertación de acciones entre la Secretaría, los Servicios de Salud y los integrantes de los sectores social y privado, se realizará mediante convenios y contratos, los cuales deberán ajustarse a lo que disponga la ley y otros ordenamientos aplicables.
 
 ## TITULO SEGUNDO. Autoridades Sanitarias
 
@@ -217,7 +227,9 @@ Son autoridades sanitarias locales:
 
 I. El Gobernador del Estado;
 
-II. Los Servicios de Salud del Estado; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2015)</small>
+
+II. La Secretaría y los Servicios de Salud del Estado;
 
 III. Los ayuntamientos en el ámbito de su respectivo municipio;
 
@@ -225,31 +237,43 @@ III. Los ayuntamientos en el ámbito de su respectivo municipio;
 
 IV. El Comité Estatal para la Seguridad en Salud.
 
-###### ARTICULO 9º.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2015)</small>
 
-Corresponde al Gobernador del Estado ejercer por sí o a través de los Servicios de Salud, las atribuciones que se transfieran en competencia concurrente o exclusiva a la entidad federativa, en términos de la Ley General, los convenios y acuerdos que se suscriban, esta ley y otros ordenamientos aplicables.
+###### ARTICULO 9°.
+
+Corresponde al Gobernador del Estado ejercer por sí o a través de la Secretaría y los Servicios de Salud, las atribuciones que se transfieran en competencia concurrente o exclusiva a la entidad federativa, en términos de la Ley General, los convenios y acuerdos que se suscriban, esta ley y otros ordenamientos aplicables.
 
 ###### ARTICULO 10.
 
 Se crea un organismo público descentralizado, que se denominará Servicios de Salud del Estado de Zacatecas, con personalidad jurídica y patrimonio propios, y domicilio legal en la ciudad de Zacatecas, independientemente de que, para el ejercicio de sus atribuciones, cuente con instalaciones en otros lugares de la Entidad.
 
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2015)</small>
+
+Se crea un organismo público descentralizado, que se denominará Régimen Estatal de Protección Social en Salud, con personalidad jurídica y patrimonio propio, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones en términos de la Ley de las Entidades Públicas Paraestatales.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2015)</small>
+
+El Régimen Estatal de Protección Social en Salud tiene por objeto garantizar las acciones de protección social en salud, mediante el financiamiento y la coordinación eficiente, oportuna y sistemática de la provisión de los servicios de salud.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 11.
 
-Para el cumplimiento de sus atribuciones, los Servicios de Salud, contarán con los siguientes órganos:
-
-I. Un Consejo Estatal de Salud;
-
-II. Un Director General;
-
-III. Un Organo de Vigilancia;
-
-IV. Los órganos desconcentrados, las Unidades Administrativas y Servidores Públicos que contemple el estatuto orgánico o reglamento interior, y autorice el presupuesto.
+La Secretaría quedará a cargo de un Secretario de Salud, en funciones de Director General de los Servicios de Salud en los términos de su Estatuto Orgánico. Para el cumplimiento de sus atribuciones, la Secretaría de Salud, en su carácter de coordinadora de sector, contará con los organismos públicos descentralizados, órganos desconcentrados, las Unidades Administrativas y servidores públicos que contemple el reglamento interior o el estatuto orgánico, y autorice el presupuesto.
 
 ###### ARTICULO 12.
 
 El Consejo Estatal de Salud será el órgano de gobierno de los Servicios de Salud y estará integrado por:
 
 I. Un Presidente, que será el Gobernador del Estado;
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2015)</small>
+
+El Presidente del Consejo será suplido en sus ausencias por el Secretario de Salud del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2015)</small>
+
+Corresponden al Secretario de Salud del Estado las atribuciones que se derivan de su carácter de suplente del Presidente del Consejo y las que emanen de otras disposiciones legales.
 
 II. Un representante de la Secretaría de Salud del Gobierno Federal;
 
@@ -1479,7 +1503,7 @@ Sólo podrá darse destino final a un feto previa expedición del certificado de
 
 Los establecimientos en los que se realicen actos relacionados con cadáveres deberán presentar el aviso correspondiente a los Servicios de Salud.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE AGOSTO DE 2005)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE AGOSTO DE 2005)</small>
 
 ### CAPITULO QUINTO. Del Consejo Estatal de Trasplantes de Órganos y Tejidos
 
@@ -2256,3 +2280,17 @@ Artículo tercero.- Se derogan las disposiciones que contravengan este Decreto.
 P.O. 31 DE DICIEMBRE DE 2014.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 29 DE AGOSTO DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Los Servicios de Salud del Estado deberán adecuar su organización y funcionamiento de conformidad con lo establecido en el presente Decreto, a más tardar sesenta días naturales posteriores a su entrada en vigor.
+
+Tercero. El organismo público que se crea mediante el presente Decreto, denominado Régimen Estatal de Protección Social en Salud, comenzará sus operaciones el primero de enero de dos mil dieciséis, conforme al ejercicio fiscal.
+
+Cuarto. El Estatuto Orgánico del organismo descentralizado Régimen Estatal de Protección Social en Salud, los reglamentos y demás disposiciones administrativas necesarias para la plena vigencia de las reformas contenidas en este Decreto, deberán expedirse dentro del plazo de ciento ochenta días naturales contados a partir del inicio de vigencia de este Decreto.
+
+Quinto. El titular del Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas, dotará de los recursos financieros necesarios para la consecución de los fines de la Secretaría de Salud.
+
+Sexto. En tanto se realizan los ajustes en la normatividad respectiva, las unidades administrativas que por consecuencia del presente Decreto modifiquen su denominación o adquieren atribuciones que tenían otras unidades administrativas, se sustituirán en todos los derechos, obligaciones y compromisos adquiridos por la unidad administrativa que se modifique o extinga, en la materia que se le asigne.
