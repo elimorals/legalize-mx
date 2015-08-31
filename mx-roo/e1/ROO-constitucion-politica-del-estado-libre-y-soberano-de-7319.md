@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2015-07-27"
+last_updated: "2015-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -307,47 +307,33 @@ Toda autoridad y servidor público estará obligado a coadyuvar con el órgano g
 
 Nadie será juzgado con leyes privativas ni por tribunales especiales. Ninguna persona o corporación pueden detentar fuero, ni gozar más emolumentos que los de compensación de servicios públicos y estén determinados por la Ley.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2015)</small>
+
 ###### ARTICULO 23.
 
-Las Leyes no surtirán efectos retroactivos en perjuicio de persona alguna.
+Las leyes no surtirán efectos retroactivos en perjuicio de persona alguna.
 
-Sólo podrá privarse a las personas de la libertad, propiedades, posesiones oderechos (sic), mediante juicio en que se observen las leyes expedidas con antelación, seguido ante los tribunales previamente establecidos y en el que se cumplan las formolidades (sic) esenciales del procedimiento.
+Sólo podrá privarse a las personas de la libertad, propiedades, posesiones o derechos, mediante juicio en que se observen las leyes expedidas con antelación, seguido ante los tribunales previamente establecidos, y en el que se cumplan las formalidades esenciales del procedimiento.
 
-En los juicios del orden criminal nunca se impondrá por simple analogía ni aún por mayoría de razón, pena alguna que no esté decreta (sic) por una ley exactamente aplicable al delito de que se trata.
+En los juicios del orden criminal nunca se impondrá por simple analogía ni aun por mayoría de razón, pena alguna que no esté decretada por una ley exactamente aplicable al delito de que se trata.
 
 En los juicios del orden civil, la sentencia definitiva deberá ser conforme a la letra o a la interpretación jurídica de la ley, y en su deficiencia, ésta se fundará en los principios generales de derecho.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2015)</small>
-
 No se considerará confiscación la aplicación de bienes de una persona cuando sea decretada para el pago de multas o impuestos, ni cuando la decrete una autoridad judicial para el pago de responsabilidad civil derivada de la comisión de un delito. Tampoco se considera confiscación el decomiso que ordene la autoridad judicial de los bienes en caso de enriquecimiento ilícito en los términos de esta Constitución, la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables, ni la de aquellos bienes cuyo dominio se declare extinto en sentencia. En el caso de extinción de dominio se establecerá un procedimiento que se regirá por las siguientes reglas:
 
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
+l. Será jurisdiccional y autónomo del de materia penal;
 
-l.- Será jurisdiccional y autónomo del de materia penal;
+II. Procederá en los casos de delitos contra la salud, secuestro, robo de vehículos y trata de personas, respecto de los bienes siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2015)</small>
+a) Aquellos que sean instrumento, objeto o producto del delito, aún cuando no se haya dictado la sentencia que determine la responsabilidad penal, pero existan elementos suficientes para determinar que el hecho ilícito sucedió.
 
-II.- Procederá en los casos de delitos contra la salud, secuestro, robo de vehículos y trata de personas, respecto de los bienes siguientes:
+b) Aquellos que no sean instrumento, objeto o producto del delito, pero que hayan sido utilizados o destinados a ocultar o mezclar bienes producto del delito, siempre y cuando se reúnan los extremos del inciso anterior.
 
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
+c) Aquellos que estén siendo utilizados para la comisión de delitos por un tercero, si su dueño tuvo conocimiento de ello y no lo notificó a la autoridad o hizo algo para impedirlo.
 
-a).- Aquellos que sean instrumento, objeto o producto del delito, aún cuando no se haya dictado la sentencia que determine la responsabilidad penal, pero existan elementos suficientes para determinar que el hecho ilícito sucedió.
+d) Aquellos que estén intitulados a nombre de terceros, pero existan suficientes elementos para determinar que son producto de delitos patrimoniales, y el acusado por estos delitos se comporte como dueño.
 
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
-
-b).- Aquellos que no sean instrumento, objeto o producto del delito, pero que hayan sido utilizados o destinados a ocultar o mezclar bienes producto del delito, siempre y cuando se reúnan los extremos del inciso anterior.
-
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
-
-c).- Aquellos que estén siendo utilizados para la comisión de delitos por un tercero, si su dueño tuvo conocimiento de ello y no lo notificó a la autoridad o hizo algo para impedirlo.
-
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
-
-d).- Aquellos que estén intitulados a nombre de terceros, pero existan suficientes elementos para determinar que son producto de delitos patrimoniales, y el acusado por estos delitos se comporte como dueño.
-
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
-
-III.- Toda persona que se considere afectada podrá interponer los recursos respectivos para demostrar la procedencia lícita de los bienes y su actuación de buena fe, así como que estaba impedida para conocer la utilización ilícita de sus bienes.
+III. Toda persona que se considere afectada podrá interponer los recursos respectivos para demostrar la procedencia lícita de los bienes y su actuación de buena fe, así como que estaba impedida para conocer la utilización ilícita de sus bienes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -4638,3 +4624,9 @@ c) La Consejera nombrada mediante declaratoria 001 de la H. XIII Legislatura pub
 Para efectos de este artículo, si se presentara la ausencia o falta definitiva de algún comisionado, la Legislatura del Estado o la Diputación Permanente, en su caso, nombrará un comisionado que concluya el período de que se trate.
 
 CUARTO. Hasta en tanto la Legislatura del Estado lleve a cabo la armonización a que se refiere el artículo segundo transitorio de este Decreto, se continuará aplicando la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo.
+
+P.O. 31 DE AGOSTO DE 2015.
+
+Primero. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo. Se derogan las disposiciones legales que contravengan al presente Decreto.
