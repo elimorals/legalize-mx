@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-limpia-para-el-municipio-de-san-pedro-garza-22102
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-10-25"
-last_updated: "2001-09-24"
+last_updated: "2015-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE LIMPIA PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-REGLAMENTO DE LIMPIA DE SAN PEDRO GARZA GARCIA, NUEVO LEON
+REGLAMENTO DE LIMPIA DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DE LIMPIA PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 31 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 25 de Octubre de 1996.
 
@@ -416,3 +418,21 @@ P.O. 24 DE SEPTIEMBRE DE 2001.
 PRIMERO: El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y para su difusión se publicará en la Gaceta Municipal.
 
 SEGUNDO: La Secretaría del R. Ayuntamiento distribuirá ejemplares del presente, a través de las Juntas de Vecinos y de las oficinas públicas municipales, con el objeto de informar a los habitantes del municipio de lo establecido en este Reglamento.
+
+P.O. 31 DE AGOSTO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León, previa consulta pública con la ciudadanía.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de Limpia de San Pedro Garza García, Nuevo León, aprobado por el Republicano Ayuntamiento en Sesión Ordinaria celebrada el 12 de septiembre de 1996 y publicado en el Periódico Oficial del Estado el 25 de octubre de 1996.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría del Republicano Ayuntamiento difundirá entre los ciudadanos del Municipio las disposiciones contenidas en el presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Las solicitudes de los particulares y demás trámites previstos en el Reglamento objeto de abrogación, al que se refiere el artículo segundo transitorio de este Reglamento y que se encuentren en proceso, se resolverán de conformidad con el Reglamento vigente en el momento del inicio del trámite.
