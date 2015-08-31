@@ -4,7 +4,7 @@ identifier: "BCS-ley-que-regula-el-almacenaje-distribucion-venta-y-consumo-24773
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-07"
-last_updated: "2008-12-10"
+last_updated: "2015-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY QUE REGULA EL ALMACENAJE, DISTRIBUCION, VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE BAJA CALIFORNIA SUR
 
-LEY QUE REGULA EL ALMACENAJE, DISTRIBUCION, VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE BAJA CALIFORNIA SUR
+LEY QUE REGULA EL ALMACENAJE, DISTRIBUCIÓN, VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE AGOSTO DE 2015.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 7 de enero de 2002.
 
@@ -49,7 +49,11 @@ I. Objetivos:
 
 A) Combatir el alcoholismo y sus efectos en atención al último párrafo de la fracción IX del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos a través de la regulación de venta, consumo y publicidad de bebidas alcohólicas; y
 
-B) Establecer las bases para que los municipios autoricen, controlen y vigilen la venta y consumo de bebidas alcohólicas, en el ámbito de sus atribuciones en la materia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 31 DE AGOSTO DE 2015)</small>
+
+B) Establecer las bases para que los municipios autoricen, controlen y vigilen el almacenaje, distribución, venta y consumo de bebidas alcohólicas, en el ámbito de sus atribuciones en la materia.
 
 C) Combatir las prácticas monopólicas, en atención al artículo 28 de la Constitución Política de los Estados Unidos Mexicanos y a la Ley Federal de Competencia Económica, a través de la regulación de la expedición de licencias para almacenaje, distribución, veta (sic) y consumo de bebidas alcohólicas, evitando acaparamientos y manipulación del mercado relativo, que indebidamente se dañe o impida la comercialización de dichas bebidas en el proceso de competencia o bien que se desplace a otros agentes del mercado.
 
@@ -67,7 +71,11 @@ E) Abatir el índice de suicidios causados por la adicción al alcohol y sus der
 
 F) Prevenir en los adolescentes, conductas riesgosas a causas del alcoholismo como son sida, embarazos no deseados y la búsqueda de otras adicciones.
 
-G) Prevenir enfermedades graves ocasionadas por el consumo permanente de bebidas alcohólicas tales como cirrosis hepática, hepatitis aguda, gastritis y cardiomeopatías alcohólicas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 31 DE AGOSTO DE 2015)</small>
+
+G) Prevenir enfermedades graves ocasionadas por el consumo permanente de bebidas alcohólicas tales como cirrosis hepática, hepatitis aguda, gastritis y cardiomiopatía alcohólica.
 
 ###### Artículo 2o.
 
@@ -89,17 +97,45 @@ Para los efectos de la presente ley, se entienden por:
 
 I. Alcoholismo.- La definición que emite la Organización Mundial de la Salud en cuanto a que es una enfermedad progresiva, incurable y mortal, cuyos síntomas son la dependencia al alcohol, que conduce a la regularidad en el consumo de bebidas alcohólicas, la tendencia irrefrenable al consumo de las mismas, aumento a la tolerancia al alcohol, síndrome de abstinencia, intentos de evitar los síntomas provocados por la abstinencia, volviendo a beber, necesidad o percepción subjetiva de beber y reaparición del síntoma tras períodos de abstinencia.
 
-II. Se consideran bebidas de contenido alcohólico, aquéllas que conforme a las normas oficiales mexicanas, contengan más de 3o G.L. de alcohol, mismas que se clasifican en:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE AGOSTO DE 2015)</small>
+
+II. Bebidas de contenido alcohólico.- Son aquéllas que conforme a las normas oficiales mexicanas, contengan más de 3° G.L. de alcohol, mismas que se clasifican en:
 
 a). Bebidas de baja graduación, cuyo contenido máximo de alcohol sea de 12º G.L.
 
 b). Bebidas de alta graduación, cuyo contenido de alcohol sea superior a los 12º G.L.
 
-III. Abarrotes.- Establecimientos cuya actividad consiste en la comercialización de comestibles y artículos de primera necesidad, y que cuente con licencia para la comercialización de bebidas alcohólicas en envase cerrado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Se entiende por almacén, el depósito de bebidas alcohólicas para su distribución y venta al mayoreo utilizado por una distribuidora.
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
 
-V. Bar.- Establecimiento que, de manera independiente o formando parte de otro giro, vende preponderantemente bebidas alcohólicas para su consumo en el mismo local, pudiendo de manera complementaria, presentar música viva, grabada o videograbada.
+III. Abarrotes.- Establecimiento cuya actividad consiste en la comercialización de comestibles y artículos de primera necesidad, y que cuenta con licencia para la comercialización de bebidas alcohólicas en envase cerrado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+IV. Almacén.- Es el local que utiliza una distribuidora como depósito de bebidas alcohólicas para su posterior distribución y venta al mayoreo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+IV BIS. Anexo de bar.- Espacio dentro de un hotel, donde se expenden bebidas alcohólicas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+V. Bar.- Establecimiento que, de manera independiente o formando parte de otro giro, vende preponderantemente bebidas alcohólicas para su consumo en el mismo local, pudiendo de manera complementaria, presentar música viva, grabada, o video grabada.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+V BIS. Barra o Consumo Libre.- El acto de permitir que por el pago de una sola cantidad fija de dinero, el público asistente consuma todo el alcohol o bebidas alcohólicas que solicite sin la obligación de pagarlas una vez cubierta la cantidad fija establecida para entrar al local o establecimiento de que se trate, en términos de lo dispuesto en la presente Ley.
 
 VI. Casa-Habitación.- Inmueble, cuarto, departamento, aposento, edificio o lugar construido que esté habitado por una o más personas.
 
@@ -107,37 +143,131 @@ VII. Cantina.- Establecimiento donde se expenden bebidas alcohólicas para su co
 
 VIII. Cabaret.- Establecimiento mercantil que presenta espectáculos o variedades con música en vivo, grabada o videograbada, pista de baile, servicio de bar y opcionalmente de restaurante.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+VIII BIS. Casino.- Lugar abierto o cerrado en el que se llevan a cabo juegos con apuestas o sorteos con permiso vigente, otorgado en los términos de la legislación en la materia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+VIII TER. Centro Botanero.- Establecimiento donde se expenden bebidas alcohólicas para su consumo en el mismo local, acompañadas de diversas botanas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+VIII QUATER. Cervecería.- Sitio donde se fabrica y/o vende cerveza.
+
 IX. Cerveza.- Bebidas fermentada y elaborada con malta, lúpulo y agua potable o con infusiones de cualquier semilla farinácea procedente de gramíneas o leguminosas, raíces o fruto feculentas o azúcares como adjuntos de la malta, con adición de lúpulos o sucedáneos de éstos. Los porcentajes de las materias primas empleadas para la elaboración de este producto obedecerán a lo que señale la norma correspondiente.
 
 X. Centro Comercial.- Conjunto de locales o espacios en los que se encuentran establecidos diversos giros comerciales en forma individual, incluyendo a las tiendas departamentales, que expenden bebidas alcohólicas.
 
 XI. Centro de Espectáculos.- Inmueble en el que se presentan espectáculos artísticos, deportivos y culturales y cuyo acceso se controla a base de boletos de distribución gratuita u onerosa.
 
-XII. Consumo.- Acción de ingerir bebidas alcohólicas en los establecimientos con o sin licencia para su venta.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+XI BIS. Centro nocturno.- Establecimiento mercantil cuya actividad principal consiste en la presentación de espectáculos artísticos y bailes, expidiéndose además para su venta, bebidas alcohólicas, cualquiera que sea su graduación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+XII. Consumo.- Acción de ingerir bebidas alcohólicas en establecimientos que tienen o no licencia para su venta.
 
 XIII. Consumidor.- Persona mayor de edad y en pleno goce de sus facultades mentales que ingiere bebidas alcohólicas.
 
-XIV. Cocktelería.- Establecimiento dedicado a la venta de alimentos preparados a base de pescados y mariscos, y que cuenta con licencia para vender cerveza en envase abierto para consumo dentro del local.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XV. Discoteca.- Establecimiento mercantil que cuenta con pista para bailar con música viva o gravada videogrvaciones (sic) y servicio de bar.
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+XIV. Cocteleria.- Establecimiento dedicado a la venta de alimentos preparados a base de pescados y mariscos, y que cuenta con licencia para vender cerveza en envase abierto para consumo dentro del local.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+XIV BIS. Deposito, Agencia o Sub-Agencia.- Establecimiento mercantil cuya actividad principal es la venta de cerveza.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+XV. Discoteca.- Establecimiento mercantil que cuenta con pista para bailar con música en vivo o grabada, videograbaciones o espectáculos artísticos y que ofrece además servicio de bar.
 
 XVI. Distribución.- El traslado a domicilio de bebidas alcohólicas, una vez realizada la venta por la distribuidora.
 
-XVII. Distribuidora.- Establecimiento en el que se almacena bebidas alcohólicas para su venta a comerciantes, en envase cerrado y a temperatura ambiente, mediante pedido al mayoreo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XVIII. Establecimiento.- Lugar autorizado por la Ley para la venta, distribución o consumo de bebidas alcohólicas, independientemente del nombre con que se le designe.
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+XVII. Distribuidora.- Empresa que cuenta con un establecimiento en el que se almacenan bebidas alcohólicas para su venta a comerciantes, en envase cerrado y a temperatura ambiente, mediante pedido al mayoreo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+XVII BIS. Embarcaciones de Recreo.- Son aquellas embarcaciones que su giro principal son los paseos recreativos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+XVIII. Establecimiento.- Lugar autorizado por la Ley para el almacenaje, venta, distribución o consumo de bebidas alcohólicas, independientemente del nombre con que se le designe.
 
 XIX. Expendio.- Establecimiento comercial dedicado a la venta de cerveza en envase cerrado y a temperatura ambiente, para llevar.
 
 XX. Feria.- Lugar o espacio habilitado o construido para ese efecto, para exponer exhibir y dar a conocer artículos y actividades comerciales, industriales, artísticas, culturales, artesanales, deportivas y de cualquiera otra naturaleza para promover el desarrollo del Estado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+XX BIS. Fonda, Lonchería o Cenaduría.- Establecimiento mercantil cuya actividad principal es la venta y consumo de alimentos preparados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+XX TER. Hotel.- Establecimiento mercantil cuya actividad principal es la renta de habitaciones y en sus instalaciones se destinan áreas para restaurante-bar, cafeterías, y salones de eventos y en los cuales se venden bebidas alcohólicas y/o cerveza en envase abierto o al copeo. También, en sus habitaciones puede proporcionarse el servicio de servi-bar.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+XX QUATER. Joyería.- Establecimiento mercantil cuya actividad principal es la venta de joyería, obras de arte y cualquier otro artículo ornamental o decorativo en el cual se podrá autorizar de manera accesoria la degustación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+XX QUINQUIES. Kermés.- Fiesta o verbena popular al aire libre en la que se realizan bailes, rifas, concursos, etc. organizada generalmente con fines benéficos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+XX SEXTIES. Café Cantante.- Establecimiento mercantil que cuenta con pista para bailar con música en vivo o grabada, espectáculos artísticos o video grabaciones.
+
 XXI. Licencia.- Documento en que consta la autorización y los términos y condiciones para vender, distribuir o permitir el consumo de bebidas alcohólicas en envase cerrado o abierto.
 
-XXII. Licorería.- Es el giro comercial que se dedique a la venta de bebidas alcohólicas al menudeo para su consumo fuera del establecimiento en que se venda, siempre que se haga en envase cerrado y debidamente sellado, quedan comprendidos dentro de esta categoría cualquier establecimiento que opere con las características que en este artículo se señalan.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+XXII. Licorería.- Es el establecimiento comercial que se dedica a la venta al menudeo de bebidas alcohólicas, cualquiera que sea su graduación, para su consumo fuera del establecimiento en que se venda, siempre que se haga en envase cerrado y debidamente sellado.
 
 XXIII. Licenciatario.- La persona física o jurídica que haya obtenido una licencia.
 
-XXIV. Mercancía.- Toda bebida alcohólica que se encuentre en un inmueble, así como en los muebles o enseres requeridos para su comercialización, que sin contar con la licencia respectiva, se destine a su venta.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+XXIV. Mercancía.- Toda bebida alcohólica que se encuentre en un inmueble, así como en los muebles o enseres requeridos para su comercialización o venta.
 
 XXV. Minisuper.- Establecimiento organizado por departamentos y con presentación de autoservicio, cuya función primordial es expender al público producto de uso y consumo en general y que cuente con licencia para expender bebidas alcohólicas en envase cerrado para su consumo en lugar diferente.
 
@@ -145,7 +275,41 @@ XXVI. Permiso Eventual.- Documento en que consta la autorización otorgada para 
 
 XXVII. Barra o Consumo Libre.- El acto de permitir que por el pago de una sola cantidad fija de dinero, el público asistente consuma todo el alcohol o bebidas alcohólicas que solicite sin la obligación de pagarlas una vez cubierta la cantidad fija establecida para entrar al local o establecimiento que se trate.
 
-XXVIII. Salón, casino o Palapa.- Inmueble, destinado a fiestas y bailes, en el que se venden bebidas alcohólicas para su consumo en el mismo local.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+XXVII BIS. Pulquería.- Establecimiento donde se vende pulque.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+XXVII TER. Restaurante-Bar.- Establecimiento mercantil cuya actividad principal es la venta de bebidas alcohólicas, cualquiera que sea su graduación con o sin alimentos, mismo que deberá estar acondicionado con instalaciones para la elaboración de alimentos preparados para su consumo dentro del lugar. Opcionalmente puede tener música en vivo o grabada o espectáculos para amenizar el ambiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+XXVIII. Salón o Palapa.- Establecimiento mercantil, destinado a fiestas y bailes, que cuenta con las dimensiones e instalaciones necesarias, para la celebración de eventos públicos y privados de carácter eventual, cuya actividad principal es el esparcimiento o el entretenimiento de personas, siendo por ende su actividad accesoria, la venta y/o consumo de bebidas alcohólicas, cualquiera que sea su graduación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+XXVIII BIS. Salón de eventos y Banquetes.- Establecimiento cuya actividad principal es la celebración de eventos públicos y privados de carácter eventual proporcionándose además el servicio de comida a los invitados, pudiendo contar con pista para bailar con música viva o grabada, espectáculo artístico o video grabaciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+XXVIII TER. Salón de Billar o Boliche.- Establecimiento mercantil cuya actividad principal es la operación de mesas para juego de billar u otros juegos de mesa o destreza, susceptibles de vender bebidas alcohólicas para su consumo dentro del establecimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+XXVIII QUATER. Servicio de Banquetes.- Establecimiento cuya actividad es dar servicio de comidas con o sin bebidas, fuera de su establecimiento, en el domicilio del cliente o en el domicilio que el cliente se lo solicite.
 
 XXIX. Ultramarinos.- Establecimiento cuya actividad preponderante es la venta de abarrote y que cuente con licencia para expender bebidas alcohólicas en envase cerrado y/o temperatura ambiente.
 
@@ -155,7 +319,7 @@ XXXI. Venta al mayoreo.- Es la que realizan quienes tienen licencia de distribuc
 
 ### CAPITULO II. DE LAS AUTORIDADES MATERIA DE ESTA LEY
 
-REFORMADO PRIMER PARRAFO, B.O. 10 DE DICIEMBRE DE 2008)
+REFORMADO PRIMER PÁRRAFO, B.O. 10 DE DICIEMBRE DE 2008)
 
 ###### Artículo 5o.
 
@@ -165,7 +329,11 @@ I.- (DEROGADA, B.O. 10 DE DICIEMBRE DE 2008)
 
 II. Los Ayuntamientos.
 
-III. Los Consejos Municipales de giros restringidos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+III. Los Consejos Municipales de giros restringidos sobre almacenaje, distribución, venta y consumo de bebidas alcohólicas.
 
 > <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 2008)</small>
 
@@ -175,15 +343,27 @@ Los ayuntamientos vigilarán el exacto cumplimiento de las disposiciones de esta
 
 Para la venta y consumo al público de bebidas de contenido alcohólico, se requerirá permiso o licencia expedida por el Ayuntamiento respectivo, de conformidad a las disposiciones de la presente ley y las disposiciones generales siguientes:
 
-I. Se requerirá licencia o permiso específico autorizado por el Consejo Municipal de Giros Restringidos sobre Venta y Consumo de Bebidas Alcohólicas para:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE AGOSTO DE 2015)</small>
+
+I. Se requerirá licencia o permiso específico autorizado por el Consejo Municipal de giros restringidos sobre almacenaje, distribución, venta y consumo de bebidas alcohólicas para:
 
 a) La sola venta de bebidas de contenido alcohólico, así como para permitir su consumo en el establecimiento cuando estas actividades constituyan el giro principal del negocio.
 
 b) La sola venta de bebidas de alta graduación, así como para permitir su consumo en el establecimiento, cuando estas actividades se realicen en forma accesoria o complementaria, conforme a su giro principal.
 
-La expedición, cambio de domicilio y revocación de las licencias o permisos específicos, serán autorizados por el Consejo Municipal de Giros Restringidos sobre Venta y Consumo de Bebidas Alcohólicas y se regularán por las disposiciones de la presente ley, Ley de Hacienda Municipal y demás leyes y reglamentos municipales aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Es facultad del Consejo Municipal de Giros Restringidos autorizar licencia para almacenaje, distribución, venta y consumo de bebidas alcohólicas, para lo cual se deberá seguir el procedimiento que corresponda según el giro de que se trate.
+> <small>(REFORMADO, B.O. 31 DE AGOSTO DE 2015)</small>
+
+La expedición, cambio de domicilio, de propietario, de denominación o razón social y de revocación de las licencias o permisos específicos, serán autorizados por el Consejo Municipal de giros restringidos sobre almacenaje, distribución, venta y consumo de bebidas alcohólicas y se regularán por las disposiciones de la presente ley, la Ley de Hacienda Municipal y demás leyes y reglamentos municipales aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+II. Es facultad del Consejo Municipal de giros restringidos sobre almacenaje, distribución, venta y consumo de bebidas alcohólicas autorizar las licencias para el almacenaje, distribución, venta y consumo de bebidas alcohólicas, para lo cual se deberá seguir el procedimiento que corresponda según el giro de que se trate.
 
 III. Es facultad del Presidente Municipal otorgar refrendos, pudiendo negar su revalidación cuando el beneficiario de la misma sea violador reincidente del contenido de esta Ley, o cuando lo requiera el orden público, la moral, las buenas costumbres o cuando medie otra causa de interés general, a juicio de las autoridades otorgantes.
 
@@ -191,63 +371,229 @@ IV. No se requerirá de permiso o licencia para vender sustancias que contengan 
 
 V. Todas las personas que tengan domicilio legal en el Estado de Baja California Sur, tendrán derecho y acción para denunciar las violaciones a la presente ley y en su caso, pedir la revocación de la licencia o la clausura del establecimiento respectivo, basados en los motivos señalados en este ordenamiento legal y siguiendo el procedimiento establecido para tal efecto en la Ley de Hacienda Municipal.
 
-### CAPITULO III. DEL CONSEJO MUNICIPAL DE GIROS RESTRINGIDOS SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE AGOSTO DE 2015)</small>
+
+### CAPITULO III
+
+DEL CONSEJO MUNICIPAL DE GIROS RESTRINGIDOS SOBRE ALMACENAJE, DISTRIBUCION, VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS.
 
 #### SECCION PRIMERA. DE SU INTEGRACION
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 7o.
 
-En cada municipio del estado se integrará un consejo municipal de giros restringidos sobre venta y consumo de bebidas alcohólicas.
+En cada municipio del Estado se conformará un Consejo Municipal de giros restringidos sobre almacenaje, distribución, venta y consumo de bebidas alcohólicas, teniendo cada uno de sus miembros derecho a voz y voto.
 
-El Consejo Municipal de Giros Restringidos sobre Venta y Consumo de Bebidas Alcohólicas estará integrado por:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. El Presidente Municipal.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE AGOSTO DE 2015)</small>
 
-II. Regidor miembro de la Comisión de Reglamentos.
+Dicho Consejo estará integrado por:
 
-III. Regidor miembro de la Comisión de Inspección y Vigilancia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Regidor miembro de la Comisión de Seguridad Pública y Tránsito.
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
 
-V. Regidor miembro de la Comisión de Salubridad e Higiene.
+I. El Presidente Municipal, quien fungirá además como presidente del Consejo;
 
-Los miembros de las comisiones senalados (sic) en las fracciones anteriores, serán preferentemente aquellos que las presidan o quienes sean designados por la comisión que corresponda, no pudiendo tener una misma persona dos o más representaciones en este Consejo, lo mismo se aplicará en caso de que el Presidente Municipal presida además, alguna de las comisiones.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+II. Un regidor, miembro de la Comisión de Gobernación, Seguridad Pública y Tránsito;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+III. Un regidor, miembro de la Comisión de Equidad y Bienestar Social;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+IV. Un Regidor, miembro de la Comisión de Educación, Cultura, Recreación y Deporte;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+V. Un Regidor, miembro de la Comisión de Estudios Legislativos y Reglamentarios;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+V BIS. Un Regidor, miembro de la Comisión de Salud, en los Ayuntamientos en que existan;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+VI. El titular de la Dirección General de Desarrollo Social y Económico;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+VII. Un representante del Centro de Integración Juvenil A.C. en caso de existir dicha asociación en el Municipio;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+VIII. Un representante del organismo con mayor representatividad en el municipio dedicado al Comercio formal y legalmente establecido;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+IX. Un representante del organismo con mayor representatividad en el municipio dedicado a la industria de restaurantes y alimentos condimentados; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+X. Un representante de alguna sociedad civil con presencia destacada en el municipio, mismo que será elegido por el ayuntamiento de entre la terna que para tales efectos proponga el presidente municipal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 31 DE AGOSTO DE 2015)</small>
+
+Los regidores que formen parte del Consejo serán electos por mayoría de votos de los integrantes de las comisiones a las que pertenezcan. En ningún caso, una misma persona podrá tener dos o más representaciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2015)</small>
+
+Por cada miembro propietario integrante del Consejo, habrá un suplente, quien fungirá en las ausencias temporales de aquél.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 8o.
 
-El Consejo Municipal de Giros Restringidos sobre Venta y Consumo de Bebidas Alcohólicas estará integrado además, por vocales que deberán ser designados por las instituciones correspondientes y en los casos de las fracciones III y IV, serán llamados por el Cabildo, los cuales no podrán ser menos de tres ni mas de cinco, tendrán derecho a voz pero no a voto, designándose preferentemente a los siguientes:
+El Consejo Municipal de giros restringidos sobre almacenaje, distribución, venta y consumo de bebidas alcohólicas estará integrado además por cuatro vocales que tendrán derecho a voz pero no a voto y serán los siguientes:
 
 I. Un representante del Consejo Estatal Contra las adicciones.
 
-II. Un representante de alguna asociación de comercio organizada del Municipio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. (sic) Un representante de la Federación de padres de familia.
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
 
-III. Algún ciudadano distinguido dentro de la comunidad o representativo de la misma;
+II. Un representante de la asociación estatal de padres de familia;
 
-V. Un representante de una asociación vecinal del municipio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Además, el encargado del Padrón y Licencias, o en su caso, el responsable de la dependencia municipal en materia de giros, así como el Secretario del Ayuntamiento, formarán parte del Consejo, como vocales técnicos con derecho a voz.
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+III. El secretario General del Ayuntamiento, quien fungirá además como secretario técnico; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+IV. El titular del área de inspección fiscal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+V. (DEROGADA, B.O. 31 DE AGOSTO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, B.O. 31 DE AGOSTO DE 2015)</small>
 
 #### SECCION SEGUNDA. DE LAS FUNCIONES DEL CONSEJO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 9o.
 
-Son funciones del Consejo Municipal de Giros Restringidos sobre Venta y Consumo de Bebidas Alcohólicas, las siguientes:
+Son funciones del Consejo Municipal de giros restringidos sobre almacenaje, distribución, venta y consumo de bebidas alcohólicas, las siguientes:
 
-I. Aprobar o rechazar la expedición, cambio de domicilio y revocación de las licencias a que se refiere la fracción I del artículo 27.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Proponer al Cabildo, otras medidas tendientes a prevenir y combatir el alcoholismo en el municipio.
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
 
-III. Proponer la revocación de licencias o permisos de giros de distribución, venta y giros de consumo de bebidas alcohólicas.
+I. Aprobar o rechazar la expedición, cambio de domicilio, de propietario, de denominación o razón social y de revocación, de las licencias o permisos previstos en esta ley.
 
-IV. Aprobar o rechazar los permisos de instalación de anuncios de bebidas alcohólicas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+II. Proponer al Cabildo, medidas tendientes para prevenir y combatir el alcoholismo en el municipio, así como coordinar trabajos previos a eventos especiales con establecimientos organizadores o no, que permitan el tomar medidas de protección para los ciudadanos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+III. Aprobar o rechazar los permisos de instalación de anuncios de bebidas alcohólicas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+IV. Proponer las políticas a implementarse en el municipio con el objeto de desalentar el consumo inmoderado de bebidas alcohólicas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+V. Difundir a través de los diversos medios, las acciones realizadas para concientizar a la población sobre los efectos nocivos del consumo inmoderado de bebidas alcohólicas; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+VI. Las demás que le confiera esta ley y otros ordenamientos jurídicos, así como aquellas que el propio Consejo determine en bienestar de la comunidad.
 
 #### SECCION TERCERA. DE LAS SESIONES DEL CONSEJO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 10.
 
-El Consejo funcionará en sesiones ordinarias que se llevarán a cabo por lo menos una vez al mes, teniendo el Presidente Municipal voto de calidad. Para que las sesiones puedan realizarse, deberán asistir por lo menos cuatro integrantes con voz y voto del Consejo, debiendo todos los que lo integran ser citados por lo menos con 72 horas de anticipación. Los vocales del Consejo tendrán derecho a voz, y serán oídos previamente a la aprobación, rechazo o revocación de licencias así como de otros programas o medidas complementarias de esta ley para combatir el alcoholismo. Los Regidores que no sean miembros del Consejo, podrán asistir a las sesiones del mismo, para lo cual serán citados 72 horas antes de su realización, pero no tendrán derecho a voto.
+El Consejo Municipal de giros restringidos sobre almacenaje, distribución, venta y consumo de bebidas alcohólicas deberá realizar sesiones de manera ordinaria por lo menos una vez al mes, debiendo ser convocados sus integrantes, cuando menos con setenta y dos horas de anticipación. El incumplimiento a esta disposición será sancionado de conformidad a lo establecido en el artículo 35 de esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 31 DE AGOSTO DE 2015)</small>
+
+Es facultad del presidente del Consejo emitir la convocatoria que contendrá lugar y fecha en que se deberá celebrar la sesión así como el orden del día.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2015)</small>
+
+Para que el Consejo sesione válidamente, se requerirá la presencia de la mayoría de los integrantes salvo que se reúna en virtud de una segunda convocatoria previamente establecida, en cuyo caso sesionará con los miembros que concurran.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2015)</small>
+
+Las sesiones extraordinarias podrán ser convocadas por el Presidente del Consejo o por quien él delegue, o por petición de la mayoría de los integrantes, en cualquier tiempo y en la misma se deberán tratar solo los asuntos para la que fue convocada.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2015)</small>
+
+Las decisiones del Consejo Municipal de giros restringidos sobre almacenaje, distribución, venta y consumo de bebidas alcohólicas se tomaran por mayoría de votos de sus integrantes, presentes en la sesión, teniendo voto de calidad en caso de empate el Presidente del Consejo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2015)</small>
+
+Los Regidores que no sean miembros del Consejo, podrán asistir a las sesiones del mismo, pero no tendrán derecho a voto.
 
 ### CAPITULO IV. DE LA CLASIFICACION DE ESTABLECIMIENTOS Y LOCALES
 
@@ -255,15 +601,35 @@ El Consejo funcionará en sesiones ordinarias que se llevarán a cabo por lo men
 
 Para los efectos de la presente ley, los establecimientos y locales a que se refiere el artículo 4o, se clasifican en la forma siguiente:
 
-I. Establecimientos específicos para la venta y consumo de bebidas alcohólicas: Cantinas, cervecerías, discotecas, cabaretes o centros nocturnos, pulquerías, centros botaneros, bares y demás similares.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Establecimientos no específicos, en donde en forma accesoria puede autorizarse la venta y consumo de bebidas alcohólicas: Clubes sociales, establecimientos turísticos, restaurantes, salones de eventos y banquetes, cafés, salones de billar, fondas, cenadurías y demás similares.
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
 
-III. Lugares donde se puede autorizar en forma eventual y transitoria la venta y consumo de bebidas a que se hace referencia: Centros de espectáculos culturales, artísticos y deportivos, bailes públicos, kermesses, ferias, carnavales, fiestas patronales y demás similares.
+I. Establecimientos específicos para la venta y consumo de bebidas alcohólicas: Cantina, cervecería, discoteca, cabaret, centro nocturno, pulquería, centro botanero, bar y/o cantina, anexo de bar y demás similares;
 
-IV. Establecimientos en donde puede autorizarse la venta, más no el consumo de bebidas alcohólicas: Depósitos, distribuidoras, tiendas de autoservicio, de abarrotes, de licores y demás similares; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. Establecimientos donde pueden venderse sustancias que contengan alcohol, ya sean industriales o medicinales, sin necesidad de autorización previa, conforme a la fracción V del artículo 6o., boticas, farmacias, tlapalerías y demás similares.
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+II. Establecimientos no específicos, en donde en forma accesoria puede autorizarse la venta y consumo de bebidas alcohólicas: Restaurant, salón de eventos y banquetes, servicio de banquetes, café cantante, salón de billar o boliche, cocteleria, fonda, lonchería o cenaduría, joyería, casino, centro comercial y demás similares;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+III. Lugares donde se puede autorizar en forma eventual y transitoria la venta y consumo de bebidas alcohólicas: Centro de espectáculos, kermés, feria, embarcaciones de recreo y demás similares;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+IV. Establecimientos en donde puede autorizarse la venta, más no el consumo de bebidas alcohólicas: Depósito, agencia o sub-agencia, distribuidora, abarrotes, expendio, licorería, minisúper, ultramarinos y demás similares; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+V. Establecimientos donde pueden venderse sustancias que contengan alcohol, ya sean industriales o medicinales, sin necesidad de autorización previa, conforme a la fracción IV del artículo 6 de la presente ley: boticas, farmacias, tlapalerías y demás similares.
 
 VI. Los locales destinados al almacenamiento de bebidas alcohólicas, deberán estar separados de casas habitación, viviendas, departamentos y oficinas. En los establecimientos destinados a almacén, no se podrá vender al menudeo ni se permitirá el consumo personal de bebidas alcohólicas.
 
@@ -271,9 +637,15 @@ VII. La distribución de bebidas alcohólicas sólo se permitirá a los fabrican
 
 VIII. Ningún establecimiento a los que se refiere este capítulo podrá vender bebidas alcohólicas a personas no autorizadas para comerciar con ellas, cuando por la cantidad de compra y por su periodicidad o por cualquier otro indicio, se presuma que no es para consumo personal, sino que la adquisición se realiza con el propósito de obtener un lucro, en contravención a lo dispuesto por la presente Ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 31 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 12.
 
-En los restaurantes, cenadurías y fondas, podrán venderse y consumirse bebidas de baja graduación, siempre y cuando se consuman o se hayan consumido alimentos. Para dicha venta y consumo, se requerirá previa autorización expresa en la licencia expedida por la dependencia municipal competente en materia de giros. Para vender y permitir el consumo de bebidas de alta graduación, será necesario que obtengan la licencia o permiso específico para un anexo de cantina o bar.
+En los restaurantes, cenadurías y fondas, podrán venderse y consumirse bebidas de baja graduación, siempre y cuando se consuman o se hayan consumido alimentos. Para dicha venta y consumo, se requerirá previa autorización expresa en la licencia expedida por la dependencia municipal competente en materia de giros. Salvo en los casos de Restaurant Bar, para vender y permitir el consumo de bebidas de alta graduación, será necesario que obtengan la licencia o permiso específico para un anexo de cantina o bar.
+
+En los establecimiento (sic) que tengan autorizado el uso de banquetas por parte del Ayuntamiento, podrán venderse y consumirse bebidas alcohólicas, con las mismas restricciones como si fuera adentro.
 
 ###### Artículo 13.
 
@@ -299,17 +671,51 @@ No se autorizará el funcionamiento de anexos de bar, cantina o de cervecería e
 
 Se prohibe estrictamente, la venta y consumo de bebidas de contenido alcohólico en las vías, parques y plazas públicas, Queda prohibida igualmente en los planteles educativos, incluyendo las kermeses (sic) o eventos especiales que se desarrollen en estos últimos. En las plazas públicas la venta y consumo de bebidas alcohólicas, podrá ser autorizada conforme al artículo 6o de la presente ley y en los términos de los reglamentos municipales aplicables. No se concederá licencia o permiso alguno, para venta o consumo de bebidas alcohólicas en los centros de readaptación social, instituciones de beneficencia, hospitales, sanatorios, hospitales y similares.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2015)</small>
+
+###### Artículo 18 Bis.
+
+Para el Servicio de Banquetes se permite:
+
+a).- La compra y almacenaje de bebidas alcohólicas para uso exclusivo del proveedor de banquetes, para la realización de eventos, cocteles, banquetes, bodas, y servicios destinados a la atención del cliente.
+
+b).- La transportación en vehículos propiedad de la empresa de Banquetes, de botellas cerradas de bebidas alcohólicas de cualquier tipo: cervezas, vinos de mesa, vinos generosos, vinos espumosos, licores, alcoholes, etc., de las instalaciones de la empresa de Banquetes a las instalaciones del evento, fiesta o celebración que se haya contratado previamente.
+
+c).- Venta de servicio de bar "copeo" para los eventos exclusivamente, no la comercialización de botellas cerradas con venta al público como establecimiento dedicado a tal fin.
+
+d).- Toda la bebida alcohólica que se encuentre en el inmueble propiedad del proveedor de servicios de banquete, o en el inmueble destinado para el evento, así como los muebles o enseres requeridos para su distribución como servicio de Bar; y
+
+e).- Venta previa.- Se considera la venta del servicio de Bar para un evento, siempre y cuando sea liquidado previamente y no exista intercambio de dinero en cualquier modalidad (efectivo, tarjeta de crédito, cheque, etc.,) al momento de llevar a cabo el evento.
+
 ### CAPITULO V. DE LOS DIAS Y HORARIO DE FUNCIONAMIENTO
 
-> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 31 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 19.
 
-Los establecimientos referidos en el artículo 11 de la presente ley, se sujetarán al horario que determinen los Ayuntamientos, el cual no podrá exceder de las dos de la mañana.
+Los establecimientos referidos en el artículo 11 de la presente ley, se sujetarán al horario siguiente:
+
+I. Las licorerías así como los abarrotes, mini-super y supermercados con venta de licores y/o cerveza, operarán de las 8 a las 22 horas, de lunes a domingo;
+
+II. Las cervecerías, cantinas, bares, y restaurant-bar, abrirán de las 08 a las 02 horas del día siguiente, de lunes a domingo. A partir de esa hora solo podrán tener actividad mediante el pago de horas extras.
+
+III. Las agencias y sub agencias, depósitos, con venta de cerveza, aun cuando en el mismo establecimiento se vendan refrescos de cualquier clase, funcionarán en horario normal de las 08 horas a las 20 horas de lunes a sábado para volver a abrir hasta el lunes siguiente.
+
+IV. Los restaurantes con consumo simultáneo de alcohol, funcionarán en horario normal de las 07 horas a las 01 horas del día siguiente, de lunes a domingo. A partir de esa hora solo podrán tener actividad mediante el pago de horas extras.
+
+V.- Los centros nocturnos, funcionarán en horario normal de las 18 horas, hasta las 02 horas del día siguiente de lunes a domingo. A partir de esa hora solo podrán tener actividad mediante el pago de horas extras sin que exceda de las cinco de la mañana.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 20.
 
-Los establecimientos y locales a que se refiere la fracción I del artículo 11 no deberán permanecer abiertos, ni podrán vender sus productos en los días establecidos en este capítulo. Lo mismo se aplicará a los establecimientos cuyo giro principal sea la venta de bebidas alcohólicas.
+Los establecimientos y locales a que se refiere la fracción I del artículo 11 no deberán permanecer abiertos, ni podrán vender sus productos en los días en que se prohíba la venta de bebidas alcohólicas. Lo mismo se aplicará a los establecimientos cuyo giro principal sea la venta de bebidas alcohólicas, a excepción de los restaurantes y restaurantes-Bar.
 
 Los establecimientos y locales a que se refieren las fracciones II, III y IV del artículo 11o., podrán operar su giro principal en los días en que se prohíba la venta de bebidas alcohólicas, absteniéndose de venderlas o permitir su consumo, bajo cualquier forma o presentación.
 
@@ -341,27 +747,55 @@ Los establecimientos referidos en el artículo 11o, fracciones I y II, no deber�
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 25.
 
-Para establecer y operar locales destinados al almacenaje, distribución, venta o consumo de bebidas alcohólicas, se requiere licencia que expedirán los Ayuntamientos, las cuales se rigen por las siguientes normas:
+Para establecer y operar locales destinados al almacenaje, distribución, venta o consumo de bebidas alcohólicas, se requiere licencia que expedirán los Ayuntamientos, y se regirán por las siguientes normas:
 
 I. Se otorgarán cuando satisfagan los requisitos señalados en la presente Ley y su reglamento y demás disposiciones legales aplicables si a juicio de las autoridades señaladas no se afecta el interés social.
 
-II. No son objeto de comercio, por tanto son intransferibles; es decir, no podrán cederse, gravarse o alquilarse en ninguna forma. Deberán ejercerse por el titular que aparece en las licencias.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2015)</small>
+
+Si la solicitud de licencia no reúne los requisitos establecidos en la presente ley, la autoridad municipal correspondiente pedirá la información faltante, dentro de los siguientes 15 días naturales a la presentación de la solicitud.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+II. Podrán ser objeto de comercio, por tanto serán transferibles, es decir, podrán cederse, gravarse o alquilarse.
 
 III. Al cambiar de giro, razón social o domicilio, deberá expedirse nueva licencia, siempre y cuando se satisfagan los requisitos de Ley, cancelándose la ya concedida.
 
-IV. Cualquier operación que se efectúe con la licencia a que se refiere esta ley, en contravención a la disposición anterior, será nula de pleno derecho y procederá su inmediata cancelación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+IV. Cualquier operación que se efectúe con la licencia en contravención a las disposiciones de la presente ley, será nula de pleno derecho y procederá su inmediata cancelación.
 
 V. La licencia será única y tendrá las características que se señalen en el reglamento.
 
-VI. Las licencias a que se refiere esta Ley tendrán vigencia de un año y deberán ser revalidadas, quedando a juicio de la autoridad respectiva el otorgamiento de revalidación de la licencia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+VI. Las licencias a que se refiere esta Ley tendrán vigencia de un año y deberán ser revalidadas. La autoridad municipal correspondiente podrá negar la revalidación solo cuando no se satisfagan los requisitos señalados en la presente Ley y su reglamento y demás disposiciones legales aplicables.
+
+La autoridad municipal correspondiente previa autorización del Consejo Municipal de Giros Restringidos, podrá negar la revalidación cuando no se satisfagan los requisitos señalados en la presente ley, y demás disposiciones jurídicas aplicables.
 
 VII. Las licencias que se expidan no constituyen privilegio ni otorgan prelación alguna a quien se conceda, pudiendo negar su revalidación cuando el beneficiario de la misma sea violador reincidente del contenido de esta Ley, o cuando lo requiera el orden público, la moral, las buenas costumbres o cuando medie otra causa de interés general, a juicio de las autoridades otorgantes.
 
 IX (sic). La autoridad municipal determinará las condiciones y horarios dentro de los que deben funcionar los giros materia de este ordenamiento.
 
-X. No se otorgará permiso para la venta de bebidas alcohólicas en domicilios particulares.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+X.- No se otorgará permiso para la venta de bebidas alcohólicas en domicilios particulares a excepción de los servicios de banquetes.
 
 #### SECCION SEGUNDA. DEL OTORGAMIENTO DE LICENCIAS O PERMISOS
 
@@ -431,7 +865,11 @@ I. Vender bebidas alcohólicas que estén adulteradas, contaminadas o alteradas,
 
 II. Vender bebidas alcohólicas que no estén debidamente aprobadas por las autoridades sanitarias y que no cumplan con las normas de calidad expedidas por las autoridades competentes.
 
-III. Vender bebidas alcohólicas fuera del establecimiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+III. Vender bebidas alcohólicas fuera del establecimiento; salvo lo dispuesto en el segundo párrafo del artículo 12 de esta ley.
 
 IV. Vender o permitir el consumo de bebidas alcohólicas a los menores de edad aún en compañía de sus padres; así como permitirles la entrada a cantinas, cervecerías, cabaretes, centros nocturnos o botaneros, pulquerías, bares, discotecas y similares; salvo tratándose de eventos en que no se vendan y consuman bebidas de contenido alcohólico.
 
@@ -439,7 +877,11 @@ V. Obsequiar o vender bebidas alcohólicas a los estudiantes, oficiales de trán
 
 VI. Vender o permitir el consumo de bebidas alcohólicas a los que visiblemente estén en estado de ebriedad, a los individuos que estén bajo los efectos de sicotrópicos, a personas con deficiencias mentales, o que estén armadas.
 
-VII. Implementar las llamadas barras libres.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+VII. Implementar las llamadas barras libres, salvo en el caso de embarcaciones de recreo, servicio de banquetes, eventos corporativos, privados y bodas, mismas que tendrán una duración máxima de cuatro horas.
 
 VIII. Vender al menudeo en el edificio destinado a un almacén de distribuidor.
 
@@ -459,25 +901,43 @@ IV. Clausura definitiva.
 
 V. Revocación de la licencia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 31 DE AGOSTO DE 2015)</small>
+
+###### Artículo 32 Bis.
+
+Las infracciones que tengan como sanción el pago de una multa, serán determinadas de conformidad con los montos y supuestos establecidas (sic) en la ley de hacienda del municipio que corresponda.
+
 ###### Artículo 33.
 
 Los casos de reincidencia se sancionarán aplicando doble multa de la que se hubiere impuesto con anterioridad y en su caso se procederá a la clausura del establecimiento, ya sea temporal o definitiva, según la gravedad de la infracción.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 34.
 
-Se impondrá multa de 10 días de salario mínimo, a quien incurra en la falta prevista en la fracción I del artículo 22 de la presente ley.
+(DEROGADO, B.O. 31 DE AGOSTO DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 31 DE AGOSTO DE 2015)</small>
 
 ###### Artículo 35.
 
-Se impondrá multa de 100 días de salario mínimo a quienes incumplan la obligación prevista en la fracción II del artículo 22.
+Se impondrá multa de 100 días de salario mínimo al miembro del consejo que de manera injustificada, no asista a las sesiones previstas en el artículo 10 de esta ley y con ello impida o retrase el normal funcionamiento del mismo.
 
 ###### Artículo 36.
 
 Se impondrá multa de 200 días de salario mínimo y en su caso la suspensión temporal para la venta y consumo de bebidas alcohólicas hasta por 10 días, a quienes incumplan las obligaciones previstas en la fracción III del artículo 22 o incurran en alguno de los supuestos prohibidos en las fracciones II, III, IV, V y VI del artículo 23 de la presente ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 31 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 37.
 
-Se impondrá una multa de 150 días de salario mínimo y la clausura temporal del establecimiento en tanto no se realicen los trámites correspondientes, a quienes expendan al público bebidas alcohólicas sin contar con la licencia respectiva.
+A quienes expendan al público bebidas alcohólicas sin contar con la licencia respectiva, se les impondrá además de la multa que corresponda, la clausura temporal del establecimiento en tanto no se realicen los trámites correspondientes.
 
 ###### Artículo 38.
 
@@ -507,6 +967,8 @@ Se considerará conducta grave y así deberá ser sancionada, en los términos d
 
 ### CAPITULO X. DE LA REVOCACION DE LICENCIAS Y PERMISOS
 
+> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL B.O. DE 31 DE AGOSTO DE 2015, PÁGINA 12.</small>
+
 ###### Artículo 41.
 
 Se procederá a la revocación de las licencias o permisos específicos previstos en el artículo 6o de la presente ley, en los siguientes casos:
@@ -519,9 +981,11 @@ III. En caso en que se sorprenda alguno de los asistentes, clientes o empleados 
 
 IV. Por razones de interés público, debidamente justificadas.
 
-V. Cuando otorgada la licencia, no se inicien operaciones en un plazo de 180 días naturales, a partir de la fecha en que el titular recibió la licencia o permiso.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Para la revocación de licencias se seguirá el procedimiento establecido en la Ley de Hacienda Municipal, tratándose de los giros señalados en el artículo 6o fracción II de la presente ley, y el mismo procedimiento para los giros especificados en la fracción I del mismo artículo.
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+V. Para la revocación de licencias se seguirá el procedimiento establecido en la Ley de Hacienda Municipal, tratándose de los giros señalados en el artículo 6o fracción II de la presente ley, y el mismo procedimiento para los giros especificados en la fracción I del mismo artículo.
 
 ### CAPITULO XI. VISITAS DE INSPECCION
 
@@ -721,7 +1185,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 10 DE DICIEMBRE DE 2008.
 
@@ -732,3 +1196,11 @@ El presente decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los ayuntamientos del Estado de Baja California Sur, deberán en lo conducente, adecuar sus disposiciones reglamentarias derivadas de la Ley que Regula el Almacenaje, Distribución, Venta y Consumo de Bebidas Alcohólicas en el Estado de Bajo California Sur, en un plazo que no excederá de los 60 días hábiles, contados a partir de la entrada en vigor del presente decreto.
+
+B.O. 31 DE AGOSTO DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor el día 01 de Octubre de 2015, previa publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Los Ayuntamientos de la Entidad deberán realizar los ajustes y adecuaciones que correspondan a su reglamentación municipal, con motivo de las modificaciones contenidas en el presente decreto, las cuales deberán entrar en vigor el día 01 de Octubre de 2015.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
