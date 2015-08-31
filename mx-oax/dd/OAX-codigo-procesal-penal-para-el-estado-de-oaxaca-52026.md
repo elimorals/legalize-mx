@@ -4,7 +4,7 @@ identifier: "OAX-codigo-procesal-penal-para-el-estado-de-oaxaca-52026"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-09"
-last_updated: "2014-11-01"
+last_updated: "2015-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL CÓDIGO PROCESAL
 
 NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 637, PUBLICADO EN EL P.O. DE 1 DE NOVIEMBRE DE 2014, SE DECLARA QUE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES ENTRARÁ EN VIGOR EN EL ESTADO DE OAXACA, DE MANERA GRADUAL PARA TODOS LOS DELITOS TIPIFICADOS EN EL CÓDIGO PENAL POR REGIONES DEL ESTADO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2015.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de septiembre de 2006.
 
@@ -1890,6 +1890,10 @@ XII. Violencia intrafamiliar, previsto en el artículo 404, y tipificado por el 
 > <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2012)</small>
 
 XIII. El feminicidio, previsto en el artículo 411 y sancionado en el artículo 412.
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2015)</small>
+
+XIV. El Abigeato, previsto en el artículo 370, y sancionado en las fracciones V y VII del artículo 374 Bis.
 
 (REFORMADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
@@ -5512,3 +5516,7 @@ QUINTO.- En caso de que las partidas presupuestales lo permitan, los periodos pa
 SEXTO.- Comuníquese esta determinación a las Cámaras que componen el Honorable Congreso de la Unión, a las demás Legislaturas Estatales, a la Asamblea Legislativa del Distrito Federal, a la Secretaría Técnica del Consejo de Coordinación Para la Implementación del Sistema de Justicia Penal y a la Secretaría Ejecutiva del Consejo de Coordinación Para la Implementación del Sistema Acusatorio en el Estado de Oaxaca.
 
 SÉPTIMO.- Publíquese el presente Decreto en el Periódico oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 31 DE AGOSTO DE 2015.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
