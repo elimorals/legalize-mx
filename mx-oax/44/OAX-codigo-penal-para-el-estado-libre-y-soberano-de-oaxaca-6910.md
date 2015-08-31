@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2015-05-19"
+last_updated: "2015-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2015.
 
 > <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 20 DE DICIEMBRE DE 2013, SE ADVIERTE QUE EL ARTÍCULO SEGUNDO DEL DECRETO 2057, SE PUBLICA CON LAS OBSERVACIONES REALIZADAS POR EL PODER EJECUTIVO DEL ESTADO, POR OFICIO FECHADO EL 12 DE OCTUBRE DE 2013 Y RECIBIDO EN EL H. CONGRESO DEL ESTADO, CON FECHA 17 DEL MISMO MES Y AÑO, DE CONFORMIDAD CON LO DISPUESTO EN EL PÁRRAFO SEGUNDO DE LA FRACCIÓN VI DEL ARTÍCULO 53, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA.</small>
 
@@ -5263,25 +5263,25 @@ Abigeato.
 
 371.- Para los efectos de este Capítulo, se considerará como ganado mayor: el bovino, el caballar, el mular y el asnal; y, como ganado menor: al cabrío, el lanar y el porcino.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2015)</small>
 
 372.- El abigeato de ganado mayor se sancionará:
 
-I.- Con prisión de cuatro a siete años y multa de treinta a cien veces el salario, cuando el apoderamiento no exceda de cinco cabezas;
+I.- Con prisión de cinco a diez años y multa de cien veces a quinientas veces el salario, cuando el apoderamiento no exceda de cinco cabezas;
 
-II.- Con prisión de siete a diez años y multa de cien a doscientas veces el salario, cuando el apoderamiento exceda de cinco cabezas pero no de diez; y
+II.- Con prisión de diez a doce años y multa de quinientas a novecientas veces el salario, cuando el apoderamiento exceda de cinco cabezas pero no de diez, y
 
-III.- Con prisión de diez a quince años y multa de doscientas a quinientas veces el salario, cuando el apoderamiento exceda de diez cabezas.
+III.- Con prisión de doce a quince años cuando el apoderamiento exceda de diez cabezas y una multa de mil veces el salario mínimo vigente, que se incrementará en cien salarios, por cada cabeza que exceda de diez.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2015)</small>
 
 373.- El abigeato de ganado menor se sancionará:
 
-I.- Con prisión de dos a cuatro años y multa de diez a cien veces el salario, cuando el apoderamiento no exceda de cinco cabezas;
+I. Con prisión de tres a cinco años y multa de cincuenta a ciento cincuenta veces el salario, cuando el apoderamiento no exceda de cinco cabezas;
 
-II.- Con prisión de cuatro a seis años y multa de cien a ciento ochenta veces el salario, cuando el apoderamiento exceda de cinco cabezas pero no de quince; y
+II. Con prisión de cinco a ocho años y multa de ciento cincuenta a trescientas veces el salario, cuando el apoderamiento exceda de cinco cabezas pero no de quince, y
 
-III.- Con prisión de siete a diez años y multa de ciento ochenta a quinientas veces el salario, cuando el apoderamiento exceda de quince cabezas.
+III. Con prisión de ocho a diez años y multa de trescientas a setecientas veces el salario, cuando el apoderamiento exceda de quince cabezas.
 
 373 Bis.- (DEROGADO, P.O. 27 DE AGOSTO DE 1994)
 
@@ -5310,6 +5310,24 @@ VIII.- Sin tomar las medidas indispensables para cerciorarse de la procedencia l
 > <small>(ADICIONADA, P.O. 5 DE ENERO DE 1985)</small>
 
 IX.- Sin verificar su procedencia legítima, comercien, de primera mano, con pieles, carnes u otros derivados de los animales producto del abigeato.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2015)</small>
+
+374 Bis.- Además de las penas señaladas, se le aplicará al imputado una tercera parte más de las correspondientes, cuando el delito de abigeato:
+
+I. Se ejecute de noche;
+
+II. Se cometa aprovechando alguna relación de trabajo, confianza o parentesco del activo con el pasivo;
+
+III. Sea perpetrado por ganaderos inscritos como tales en cualquier unión o asociación ganadera;
+
+IV. Se cometa por más de tres sujetos;
+
+V. Se ejecute con violencia física o moral sobre las personas o las cosas, durante la perpetración del hecho o después de consumado, para lograr la fuga o defender el producto;
+
+VI. Se realice por algún individuo que simule o sea miembro de alguna corporación de seguridad pública o alguna otra autoridad, y
+
+VII. Se ejecute por personas que utilicen armas de fuego o explosivos en su comisión o para darse a la fuga después de consumado el delito.
 
 375.- Sin en la comisión del delito de abigeato, se ejecutan otros delitos, se aplicarán las reglas de acumulación.
 
@@ -6232,6 +6250,10 @@ TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 19 DE MAYO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 31 DE AGOSTO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 10.
 
