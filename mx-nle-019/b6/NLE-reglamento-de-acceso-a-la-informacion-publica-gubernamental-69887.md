@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-acceso-a-la-informacion-publica-gubernamental-698
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-12"
-last_updated: "2010-03-15"
+last_updated: "2015-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-REGLAMENTO DE ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
+REGLAMENTO DE ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO PRIMERO DEL REGLAMENTO DE ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 31 DE AGOSTO DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 12 de agosto de 2009.
 
@@ -483,7 +485,7 @@ El Archivo Municipal será un órgano de la Secretaria del Republicano Ayuntamie
 
 A fin de dar cumplimiento a sus objetivos, se concede a la Coordinación del archivo municipal, las siguientes atribuciones:
 
-I. Ser el asesor de los sujetos obligados tanto de documentos como de archivos correspondiéndole establecer la organización documental de los archivos de trámite de cada una de las dependencias que conforman la administración municipal y; (sic)
+I. Ser el asesor de los sujetos obligados tanto de documentos como de archivos correspondiéndole establecer la organización documental de los archivos de trámite de cada una de las dependencias que conforman la administración municipal y;
 
 II. Conservar la documentación histórica que se ha generado en el municipio desde sus inicios, así como de la que en el presente y futuro se origine del interior del Honorable Ayuntamiento y sus dependencias administrativas; o en su caso, adquiera por donación, compra o por cualquier otro medio.
 
@@ -1424,3 +1426,13 @@ PRIMERO. Son de aprobarse las REFORMAS POR MODIFICACIÓN Y ADICIÓN AL REGLAMENT
 SEGUNDO. Mándese publicar el presente acuerdo en el Periódico Oficial del Estado. Hágase posteriormente su difusión a través de la Gaceta Municipal.
 
 TERCERO. Gírense las instrucciones al C. lng. Mauricio Fernández Garza, Presidente Municipal y al C. Lic. Fernando Canales Stelzer, Secretario del Republicano Ayuntamiento, para el exacto cumplimiento del presente acuerdo.
+
+P.O. 31 DE AGOSTO DE 2015.
+
+Artículo Primero. El Reglamento de Acceso a la Información Pública Gubernamental del Municipio de San Pedro Garza García, Nuevo León, publicado en el Periódico Oficial del Estado No. 35 el 15 de marzo de 2010 y todas sus reformas, quedará abrogado al iniciar la vigencia del presente Reglamento.
+
+Artículo Segundo. Se aprueba el presente Reglamento de Acceso a la Información Pública Gubernamental del Municipio de San Pedro Garza García, Nuevo León, con las modalidades que establece el artículo siguiente.
+
+Artículo Tercero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose posteriormente hacer su publicación en la Gaceta Municipal, para su difusión.
+
+Artículo Cuarto. Las solicitudes de los particulares y demás trámites previstos en el Reglamento objeto de abrogación, al que se refiere el artículo primero transitorio de este Reglamento y que se encuentren en proceso, se resolverán de conformidad con el Reglamento vigente en el momento del inicio del trámite.
