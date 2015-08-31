@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-igualdad-entre-mujeres-y-hombres-para-el-estado-de-64484
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-10"
-last_updated: "2014-07-10"
+last_updated: "2015-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE AGOSTO DE 2015.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de noviembre de 2008.
 
@@ -41,9 +41,11 @@ SE CREA LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE BAJA CALIFO
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, B.O. 31 DE AGOSTO DE 2015)</small>
+
 ###### Artículo 1.
 
-La presente Ley tiene por objeto garantizar la igualdad entre mujeres y hombres y establecer los lineamientos y mecanismos institucionales que promuevan en el Estado, la igualdad sustantiva en los ámbitos público y privado, mediante el empoderamiento de las mujeres. Sus disposiciones son de observancia general en todo el Territorio del Estado de Baja California Sur.
+La presente Ley tiene por objeto garantizar la igualdad entre mujeres y hombres y establecer los lineamientos y mecanismos institucionales que promuevan en el Estado, la igualdad sustantiva en los ámbitos público y privado, mediante el empoderamiento y la lucha contra toda discriminación hacia las mujeres. Sus disposiciones son de observancia general en todo el territorio del Estado de Baja California Sur.
 
 ###### Artículo 2.
 
@@ -67,17 +69,27 @@ En lo no previsto en esta Ley, se aplicarán en forma supletoria y en lo conduce
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Acciones afirmativas.- Medidas de carácter temporal encaminadas a acelerar la igualdad de hecho entre mujeres y hombres;
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+I. Acciones afirmativas.- Medidas de carácter temporal correctivo, compensatorio y/o promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres;
 
 II. Empoderamiento.- El proceso por el que cada mujer consolida los poderes personales, los incrementa y los conecta de manera integral;
 
-III. Estereotipo sexual.- Es una idea fija y rígida que se perpetúa a través de las características y conductas que se presuponen propias del sexo femenino y del sexo masculino;
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
 
-IV. Transversalidad de género.- Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas;
+III. Discriminación contra la mujer.- Toda distinción, exclusión o restricción que basada en el sexo que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquiera otra esfera;
 
-V. Sistema Estatal.- Conjunción de esfuerzos para la igualdad entre mujeres y hombres; y
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
 
-VI. Programa Estatal.- Programa Estatal para la igualdad entre mujeres y hombres.
+IV. Igualdad sustantiva.- Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+
+V. Estereotipo sexual.- Es una idea fija y rígida que se perpetúa a través de las características y conductas que se presuponen propias del sexo femenino y del sexo masculino;
+
+VI. Transversalidad de género.- Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas;
+
+VII. Sistema Estatal.- Conjunción de esfuerzos para la igualdad entre mujeres y hombres; y
+
+VIII. Programa Estatal.- Programa Estatal para la igualdad entre mujeres y hombres.
 
 ###### Artículo 6.
 
@@ -85,7 +97,7 @@ La igualdad entre mujeres y hombres implica la efectiva accesibilidad de mujeres
 
 ## TÍTULO II. DE LAS AUTORIDADES E INSTITUCIONES
 
-### CAPÍTULO PRIMERO. DE LA DISTRIBUCIÓN DE COMPETENCIAS Y LA COORDINACIÓN INTERINSTlTUCIONAL
+### CAPÍTULO PRIMERO. DE LA DISTRIBUCIÓN DE COMPETENCIAS Y LA COORDINACIÓN INTERINSTITUCIONAL
 
 ###### Artículo 7.
 
@@ -137,7 +149,9 @@ IX. Promover, en coordinación con las dependencias de la administración públi
 
 IX Bis. Elaborar las políticas públicas locales, con una proyección de mediano y largo alcance, debidamente armonizadas con los programas nacionales, dando cabal cumplimiento a la presente Ley;
 
-X. Proponer iniciativas y desarrollar políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones y en la vida social, cultural y civil; y
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+X. Proponer iniciativas y desarrollar políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones y en la vida social, política, cultural y civil; y
 
 XI. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
 
@@ -177,9 +191,19 @@ I. Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida
 
 II. Asegurar que la planeación presupuestal incorpore la perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos y acciones para la igualdad entre mujeres y hombres;
 
-III. Fomentar la participación y representación política equilibrada entre mujeres y hombres;
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+III. Fomentar la participación y representación política igualitaria entre mujeres y hombres;
 
 IV. Promover la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres;
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+IV Bis. Adoptar las medidas necesarias para la erradicación de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+IV Ter. La utilización del lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales;
 
 V. Promover la igualdad entre mujeres y hombres en la vida civil; y
 
@@ -346,6 +370,10 @@ I. Favorecer el trabajo parlamentario con la perspectiva de género;
 II. Garantizar que la educación en todos sus niveles, se realice en el marco de la igualdad entre mujeres y hombres y se cree conciencia de la necesidad de eliminar toda forma de discriminación;
 
 III. Fomentar la participación equitativa de mujeres y hombres en altos cargos públicos;
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
+
+III Bis. Promover la participación y representación política equilibrada entre mujeres y hombres dentro de las estructuras de los partidos políticos;
 
 IV. Desarrollar y actualizar estadísticas desagregadas por sexo, sobre puestos decisorios y cargos directivos en los sectores público, privado y de la sociedad civil; y
 
@@ -522,3 +550,9 @@ B.O. 10 DE JULIO DE 2014.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE AGOSTO DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
