@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-los-cabos-baja-27802"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-31"
-last_updated: "2013-01-20"
+last_updated: "2015-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 20 DE ENERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE AGOSTO DE 2015.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de diciembre de 2002.
 
@@ -773,7 +771,7 @@ Los ingresos que por conceptos de derechos obtenga el Ayuntamiento, procederán 
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
 
-ARTÍCULO 64° BIS.- Como requisito previo a las solicitudes de los servicios, autorizaciones, manifestaciones y licencias, según corresponda, de construcción, ampliación, demolición o reconstrucción de cualquier clase, lotificación, subdivisión o fusión de predios, deslindes, alineamiento, uso de suelo, terminación de obra, , (sic) inicio o refrendo de cualquier tipo de giro comercial, turístico o industrial cualquiera que fuese su actividad, y manifestación de contrato de arrendamiento, el interesado deberá acreditar ante la autoridad municipal correspondiente, que se encuentra al corriente en el pago del impuesto predial del inmueble con respecto al cual se solicitan y que este se encuentra catastrado, presentar constancia que acredite estar al corriente en el pago de los servicios de agua potable, alcantarillado y saneamiento, así como constancia de que la descarga de aguas residuales del predio o establecimiento de que se trate cumple con los parámetros que marquen las leyes y demás ordenamientos aplicables; dichas constancias deberán ser expedidas por el prestador de los servicios.
+ARTÍCULO 64° BIS.- Como requisito previo a las solicitudes de los servicios, autorizaciones, manifestaciones y licencias, según corresponda, de construcción, ampliación, demolición o reconstrucción de cualquier clase, lotificación, subdivisión o fusión de predios, deslindes, alineamiento, uso de suelo, terminación de obra, , inicio o refrendo de cualquier tipo de giro comercial, turístico o industrial cualquiera que fuese su actividad, y manifestación de contrato de arrendamiento, el interesado deberá acreditar ante la autoridad municipal correspondiente, que se encuentra al corriente en el pago del impuesto predial del inmueble con respecto al cual se solicitan y que este se encuentra catastrado, presentar constancia que acredite estar al corriente en el pago de los servicios de agua potable, alcantarillado y saneamiento, así como constancia de que la descarga de aguas residuales del predio o establecimiento de que se trate cumple con los parámetros que marquen las leyes y demás ordenamientos aplicables; dichas constancias deberán ser expedidas por el prestador de los servicios.
 
 Igualmente, para la introducción del servicio de agua potable y de drenaje o alcantarillado, como requisito previo a las solicitudes de dichos servicios, el interesado deberá acreditar ante la autoridad municipal correspondiente, que se encuentra al corriente en el pago del impuesto predial del inmueble con respecto al cual se solicitan y que este se encuentra catastrado.
 
@@ -2753,281 +2751,199 @@ Es objeto de este derecho los servicios que presta el Ayuntamiento por la expedi
 
 Son sujetos de estos derechos las personas físicas o morales que se dediquen a enajenar bebidas alcohólicas o a la prestación de servicios que incluyen el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
 
-> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, B.O. 31 DE AGOSTO DE 2015)</small>
 
-###### ARTÍCULO 123º.
+###### ARTÍCULO 123°.
 
-Por la expedición de licencias, revalidaciones, cambios de actividad o giro, cambio de domicilio, cambio de razón social y horario extraordinario en su funcionamiento a que se refiere este capítulo se causarán los derechos como lo establecen las siguientes:
+En la expedición de licencias, revalidaciones, cambios de actividad o giro, cambio de domicilio, cambio de razón social y horario extraordinario, no será aplicable el artículo 63 de esta ley por lo que los derechos se causaran únicamente como lo establecen las siguientes:
 
-T RIFAS:
+T A R I FAS:
 
-I. Expedición de licencias a giros comerciales con venta de bebidas alcohólicas por cada una.
+I.- Expedición de licencias a giros comerciales con venta de bebidas alcohólicas por cada una.
 
-DESCRIPCIÓN COMERCIAL SALARIOS
+DESCRIPCIÓN COMERCIAL SALARIOS MÍNIMOS
 
-MÍNIMOS
+a).- Licencia principal en Hoteles 4 Estrellas y
 
-a).- Licencia principal en Hoteles 4 estrellas
+superior categoría. 3,055
 
-y superior categoría. 2.350
+b).- Por cada anexo especial de bar en hotel de
 
-b).- Por cada anexo especial de bar en hotel
+categoría 4 estrellas o superior categoría, (no
 
-de categoría 4 estrellas o superior categoría,
+incluye servi-bares en habitaciones) 357.5
 
-(no incluye servi-bares en habitaciones) . 275
+c).- Licencia principal en Hoteles 3 estrellas e inferior
 
-c).- Licencia principal en Hoteles 3 estrellas
+categoría incluye moteles. 2, 145
 
-e inferior categoría incluye moteles. 1,650
+d).- Por cada anexo especial de bar en hotel de
 
-d).- Por cada anexo especial de bar en hotel
+3 estrellas o inferior categoría incluye moteles,
 
-de 3 estrellas o inferior categoría incluye
+Restaurantes con venta de bebidas alcohólicas
 
-moteles, (no incluye servi-bares en
+simultáneamente con alimentos (no incluye
 
-habitaciones). 150
+servi-bares en habitaciones) 195
 
-e).- Súper mercado con venta de licor y
+e).- Súper mercado con venta de licor y cerveza. 2,795
 
-cerveza. 2,150
+f).- Restaurante bar 3,250
 
-f).- Restaurante bar. 2,500
+g).- Bar y/o discoteca 3,575
 
-g).- Bar y/o discoteca. 2,750
+h).- Centros nocturnos 5,200
 
-h).- Centros nocturnos. 4,000
+- Restaurante con venta de bebidas alcohólicas
 
-i) - Restaurante con venta de bebidas
+simultáneamente con alimentos. 2405
 
-alcohólicas simultáneamente con alimentos. 1,850
+j).- Cabarets 5,200
 
-j).- Cabarets. 4,000
+k).- Salones de baile 2,275
 
-k).- Salones de baile. 1,750
+l).- Agencias distribuidoras 3,445
 
-l).- Agencias distribuidoras. 2,650
+m).- Sub agencias distribuidoras 3,445
 
-m).- Sub agencias distribuidoras. 2,650
+n).- Depósito o almacén 145
 
-n).-Depósito o almacén. 1,650
+ñ).- Cantinas 3,900
 
-Ñ (sic)).- Cantinas. 3,000
+o).- Ultramarinos 1,917.5
 
-o).- Ultramarinos. 1,475
+p).- Eventuales por día 19.5
 
-p).- Eventuales por día. 15
+q).- Embarcaciones de recreo
 
-q).- Embarcaciones de recreo cuando se
-
-preste el servicio de bar. 1,800
+cuando se preste el servicio de bar. 2,340
 
 II. Revalidaciones de licencias de funcionamiento y revalidación anual de giro para venta y consumo de bebidas alcohólicas por cada una.
 
-ESTABLECIMIENTOS SALARIOS
+ESTABLECIMIENTOS SALARIOS MÍNIMOS
 
-MÍNIMOS
+a).- Hoteles 4 estrellas y superior categoría. 75
 
-a).- En Hoteles 4 estrellas y superior
+b).- Por cada anexo especial de bar en Hotel
 
-categoría. 75
+de categoría 4 estrellas o superior,
 
-b).- Por cada anexo especial de bar en
+(no incluye serví-bares en habitaciones). 75
 
-Hotel de categoría 4 estrellas o superior,
+c).- En Hotel 3 estrellas e inferior categoría, incluye
 
-(no incluye servi-bares en habitaciones). 75
+moteles. 65
 
-c).-En Hotel 3 estrellas e inferior
+d).- Por cada anexo especial de bar en Hotel
 
-categoría, incluye moteles. 65
+de 3 estrellas o inferior categoría, incluyendo moteles,
 
-d).-Por cada anexo especial de bar en
+(no incluye serví-bares en habitaciones). 65
 
-Hotel de 3 estrellas o inferior categoría,
+e).- Súper mercado con venta de licor y cerveza 65
 
-incluyendo moteles, (no incluye servi-bares
+f).- Salones de Billar, Boliches y similares 55
 
-en habitaciones). 65
+g).- Mini-súper o Abarrotes
 
-e).- Súper mercado con venta de licor y
+con venta de bebidas alcohólicas
 
-cerveza. 65
+al menudeo en envase cerrado 55
 
-f).- Salones de Billar, Boliches y similares. 55
+h).- Restaurante bar 80
 
-g).- Mini-súper o Abarrotes con venta de
+i).- Bar y/o discoteca 85
 
-bebidas alcohólicas al menudeo en envase
+j).- Centros nocturnos 180
 
-cerrado. 55
+k).- Restaurante con venta de bebidas alcohólicas
 
-h).- Restaurante bar. 80
+simultáneamente con alimentos. 55
 
-i).- Bar y/o discoteca. 85
+l).- Cabarets 180
 
-j).- Centros nocturnos. 180
+m).- Salones de baile 100
 
-k).- Restaurante con venta de bebidas
+n).- Agencias distribuidoras 130
 
-alcohólicas simultáneamente con alimentos. 55
+ñ).- Sub agencias distribuidoras 130
 
-l).- Cabarets. 180
+o).- Depósitos o almacén. 65
 
-m).- Salones de baile. 100
-
-n).-Agencias distribuidoras. 130
-
-Ñ (sic)).-Sub agencias distribuidoras. 130
-
-o).- Depósito o almacén. 65
-
-p).- Cantinas. 100
+p).- Cantinas 100
 
 q).- Ultramarinos. 55
 
-r).- Embarcaciones de recreo cuando se
+r).- Embarcaciones de recreo cuando se preste el
 
-preste el servicio de bar. 55
+servicio de bar. 55
 
-III. Cambios de domicilio o nombre comercial de establecimientos con venta y consumo de bebidas alcohólicas por cada una.
+III. Cambios de domicilio, nombre comercial o razón social, de establecimientos con venta y consumo de bebidas alcohólicas por cada una.
 
-ESTABLECIMIENTOS SALARIOS
+ESTABLECIMIENTOS SALARIOS MÍNIMOS
 
-MÍNIMOS
-
-a).- En Hoteles 4 estrellas y superior categoría. 185
-
-b).- Por cada anexo especial de bar en
-
-Hotel de categoría 4 estrellas o superior
-
-categoría (no incluye servi-bares en
-
-habitaciones). 185
-
-c).- En Hoteles 3 estrellas e inferior
-
-categoría, incluye moteles. 185
-
-d).- Por cada anexo especial de bar en
-
-Hotel de 3 estrellas o inferior categoría,
-
-incluyendo moteles (no incluye servi-bares
-
-en habitaciones). 185
-
-e).- Salones de Billar, Boliches y similares. 185
-
-f).- Súper mercado con venta de licor y
-
-cerveza. 185
-
-g).- Mini-súper o Abarrotes con venta
-
-bebidas alcohólicas al menudeo en envase
-
-cerrado. 185
-
-h).- Restaurante bar. 185
-
-i).- Bar y/o discoteca. 185
-
-j).- Centros nocturnos. 250
-
-k).- Restaurante con venta de bebidas
-
-alcohólicas simultáneamente con alimentos. 185
-
-l).- Cabarets. 250
-
-m).- Salones de baile. 185
-
-n).- Agencias distribuidoras. 185
-
-Ñ (sic)).- Subagencias distribuidoras. 185
-
-o).- Depósito o almacén. 185
-
-p).- Cantinas. 185
-
-q).- Ultramarinos. 185
-
-r).- Embarcaciones de recreo cuando se
-
-preste el servicio de bar. 185
-
-IV. Autorización de funcionamiento de horario extraordinario a giros con venta y consumo de bebidas alcohólicas, por hora.
-
-ESTABLECIMIENTOS COSTO EN SALARIOS
-
-MÍNIMOS POR HORA
-
-DIARIA
-
-EXTRAORDINARIA
-
-LUNES- DOMINGO
-
-SÁBADO
-
-a).- En Hoteles 4 estrellas y superior
-
-categoría. 1 0.50
+a).- En Hoteles 4 estrellas y superior categoría. 46.25
 
 b).- Por cada anexo especial de bar
 
 en Hotel de categoría 4 estrellas
 
-o superior (no incluye servi-bares
+o superior categoría (no incluye servi-bares
 
-en habitaciones). 1 0.50
+en habitaciones). 46.25
 
-c).- En Hoteles 3 estrellas e inferior
+c).- En Hoteles 3 estrellas e inferior categoría,
 
-categoría, incluye moteles. 1 0.50
+incluye moteles. 46.25
 
 d).- Por cada anexo especial de bar
 
-en hotel de estrellas o inferior
+en Hotel de 3 estrellas o inferior categoría,
 
-categoría, incluyendo moteles
+incluyendo moteles (no incluye servi-bares en
 
-(no incluye serví bares en habitaciones). 1 0.50
+habitaciones). 46.25
 
-e).- Súper mercado con venta de vino,
+e).- Salones de Billar, Boliches y similares 46.25
 
-licor y cerveza. 1 0.50
+f).- Súper mercado con venta de licor y cerveza 46.25
 
-f).- Mini súper o abarrotes con venta de
+g).- Mini-súper o Abarrotes
 
-bebidas alcohólicas al menudeo en
+con venta de bebidas alcohólicas
 
-envase cerrado. 2 1
+al menudeo en envase cerrado. 46.25
 
-g).- Restaurante bar. 2 1
+h).- Restaurante bar 46.25
 
-h).- Restaurante con venta de cerveza. 1 1
+i).- Bar y/o discoteca 46.25
 
-i).- Bar y/o discoteca. 2 1
+J).- Centros nocturnos 62.50
 
-j).- Centros nocturnos. 3 1
+k).- Restaurante con venta de bebidas
 
-k).- Cabarets. 3 1
+alcohólicas simultáneamente con alimentos. 46.25
 
-I).- Salones de baile. 2 1
+l).- Cabarets 62.50
 
-m).- Cantinas. 2 1
+m).- Salones de baile 46.25
 
-n).- Ultramarinos. 1 1
+n).- Agencias distribuidoras 46.25
 
-Ñ (sic)).- Restaurante con venta de bebidas
+ñ).- Sub-agencias distribuidoras 46.25
 
-alcohólicas simultáneamente con
+o).- Depósito o almacén 46.25
 
-alimentos. 1 1
+p).- Cantinas 46.25
+
+q).- Ultramarinos 46.25
+
+r).- Embarcaciones de recreo
+
+cuando se preste el servicio de bar 46.25
+
+IV. El pago por hora diaria extraordinaria que se otorgue a giros con venta y consumo de bebidas alcohólicas, conforme a la Ley que Regula el Almacenaje, Distribución, Venta y Consumo de Bebidas Alcohólicas en el Estado de Baja California Sur, tendrá en todos los casos un costo de un salario mínimo.
 
 V. A los establecimientos de distribución al mayoreo de cervezas, vinos y licores, agencias y sub-agencias no se les otorgará tiempo extraordinario para su funcionamiento.
 
@@ -3427,7 +3343,7 @@ III.- PLAZAS PÚBLICAS, FOROS Y ESPACIOS PÚBLICOS ABIERTOS:
 
 a) Se exenta del pago de arrendamiento a instituciones educativas públicas o privadas, organizaciones civiles, asociaciones civiles, y otras similares cuyo fin sea altruista y sin fin de lucro personal, que realicen conciertos, sesiones informativas, y conferencia de manera gratuita con acceso al público en general y sin fines de lucro personal.
 
-b) Organizaciones o empresas que realicen actividad comercial de manera temporal expidiendo o no alimentos y bebidas ya sea con graduación de alcohol o libre de éste,,(sic) haciendo uso total o parcial de los mencionados espacios públicos abiertos, además de hacer el pago por permisos de alcoholes, pagaran por 10 salarios mínimos vigentes.
+b) Organizaciones o empresas que realicen actividad comercial de manera temporal expidiendo o no alimentos y bebidas ya sea con graduación de alcohol o libre de éste,, haciendo uso total o parcial de los mencionados espacios públicos abiertos, además de hacer el pago por permisos de alcoholes, pagaran por 10 salarios mínimos vigentes.
 
 IV.- ESTADIOS DE FUTBOL, BEISBOL, AUDITORIOS MUNICIPALES Y ESPACIOS DEPORTIVOS MUNICIPALES:
 
@@ -4430,3 +4346,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO
 
 Las autoridades municipales deberán adecuar, en un plazo no mayor de 120 días naturales, sus reglamentos, bandos y demás normas administrativas aplicables, para el debido cumplimiento del presente decreto.
+
+B.O. 31 DE AGOSTO DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor el día 01 de Octubre de 2015, previa publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Los Ayuntamientos de la Entidad deberán realizar los ajustes y adecuaciones que correspondan a su reglamentación municipal, con motivo de las modificaciones contenidas en el presente decreto, las cuales deberán entrar en vigor el día 01 de Octubre de 2015.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
