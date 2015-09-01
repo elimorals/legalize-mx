@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-educacion-para-el-estado-de-baja-california-sur-100469"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-22"
-last_updated: "2015-07-20"
+last_updated: "2015-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 22 de abril de 2014.
 
@@ -246,6 +246,18 @@ XXII.- Implementar las políticas públicas correspondientes para combatir el ac
 XXIII.- Participar con la autoridad educativa federal en la operación de los mecanismos de administración escolar;
 
 XXIV.- Las demás que con tal carácter establezcan la Ley General de Educación, esta Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 12 BIS.- Corresponde al Ejecutivo del Estado, en coordinación con la Secretaría de Educación Pública y demás Secretarías a su cargo, establecer las estrategias y mecanismos que permitan dotar a las alumnas y alumnos que se encuentren inscritos en alguna institución pública de nivel básico en el Estado de Baja California Sur, a más tardar 15 días hábiles después de iniciado cada ciclo escolar, conforme al calendario autorizado por la Secretaría de Educación Pública, lo siguiente:
+
+I.- Cuando menos dos uniformes escolares, o bien vales electrónicos para la adquisición de los mismos;
+
+II.- Calzado escolar, o bien vales electrónicos para la adquisición del mismo;
+
+III.- Cuando menos un paquete de útiles escolares, conforme a la lista oficial aprobada por la Secretaría de Educación Pública, o bien vales electrónicos para la adquisición de los mismos.
+
+IV.- Cuando menos un par de anteojos, que de acuerdo a una valoración previa, efectuada por la Secretaría de Salud, así lo requieran, o bien vales electrónicos para la adquisición de los mismos.
 
 ###### ARTÍCULO 13.
 
@@ -1261,7 +1273,7 @@ IX.- Efectuar actividades que pongan en riesgo la salud o la seguridad de los al
 
 X.- Ocultar a los padres o tutores las conductas de los alumnos que notoriamente deban ser de su conocimiento;
 
-XI.- Oponerse a las actividades de su evaluación, inspección y vigilancia, así como no proporcionar información veraz y oportuna; e (sic)
+XI.- Oponerse a las actividades de su evaluación, inspección y vigilancia, así como no proporcionar información veraz y oportuna; e
 
 XII.- Promover en el alumnado, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes;
 
@@ -1448,3 +1460,17 @@ B.O. 20 DE JULIO DE 2015.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+B.O. 1 DE SEPTIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Para dar cumplimiento a lo establecido en el presente Decreto, el Ejecutivo del Estado preverá en el Proyecto anual de Presupuesto de Egresos del Estado de Baja California Sur, el monto que garantice la entrega gratuita y oportuna de los uniformes, calzado y útiles escolares, a las alumnas y alumnos que se encuentren inscritos en alguna institución pública de nivel básico en el Estado de Baja California Sur, así como un par de anteojos a aquellas alumnas o alumnos que de acuerdo a una valoración efectuada por la Secretaria de Salud lo requieran, o bien los vales electrónicos para la adquisición de los mismos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrara en vigor a partir del ejercicio fiscal del año 2016, previa publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
