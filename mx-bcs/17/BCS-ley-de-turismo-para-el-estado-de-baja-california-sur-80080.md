@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-turismo-para-el-estado-de-baja-california-sur-80080"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-20"
-last_updated: "2014-12-10"
+last_updated: "2015-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California, el lunes 20 de diciembre de 2010.
 
@@ -77,9 +77,21 @@ IX.- Instrumentar el ordenamiento turístico sustentable del Estado y sus Munici
 
 X.- Impulsar la modernización de infraestructura de la actividad turística y la capacitación para los trabajadores y prestadores de servicios turísticos;
 
-XI.- Fomentar la inversión pública, privada y social en la industria turística; y
+> <small>(REFORMADA, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
 
-XII.- Propiciar la profesionalización de la actividad turística;
+XI.- Fomentar la Inversión pública, privada y social en la industria turística;
+
+> <small>(REFORMADA, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+XII.- Fomentar la inversión pública, privada y social en la industria turística;
+
+> <small>(REFORMADA, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+XIII.- Propiciar la profesionalización de la actividad turística; y
+
+> <small>(ADICIONADA, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+XIV.- Fomentar el desarrollo del turismo en los municipios con vocación turística, en especial, en las localidades declaradas pueblos mágicos.
 
 ###### Artículo 4.
 
@@ -90,6 +102,10 @@ El Estado de Baja California Sur se autodenomina turístico por excelencia, y po
 Para los efectos de la presente Ley, se entenderá por:
 
 I.- Actividad Turística: La que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su domicilio o residencia habitual, con fines de recreación, diversión, negocios, etcétera.
+
+> <small>(ADICIONADA, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+I Bis.- Atlas Turístico Estatal.- El registro sistemático de carácter público de todos los bienes, recursos naturales y culturales que puedan constituirse en atractivos turísticos, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo del turismo dentro del estado;
 
 II.- Consejo Consultivo Estatal de Turismo: Órgano de consulta, asesoría y participación para la formulación de estrategias y acciones para un desarrollo integral del turismo en el Estado de Baja California Sur;
 
@@ -157,13 +173,17 @@ d).- Rutas Patrimoniales: una ruta de comunicación terrestre, acuática o de ot
 
 XXIV.- Turismo de reuniones: Es el segmento de turismo relacionado con los congresos, convenciones, ferias, exposiciones, viajes de incentivo y otros eventos de características similares:
 
-> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
 
-XXV.- Turismo Religioso: Es la actividad turística que comprende la visita a espacios como lugares sagrados, santuarios, tumbas; y la asistencia a peregrinaciones y celebraciones religiosas. Esta actividad coadyuva a mostrar la preservación de las manifestaciones culturales de los pueblos originarios a través del tiempo, fortaleciendo así su identidad; y
+XXV.- Turismo Religioso: Es la actividad turística que comprende la visita a espacios como lugares sagrados, santuarios, tumbas; y la asistencia a peregrinaciones y celebraciones religiosas. Esta actividad coadyuva a mostrar la preservación de las manifestaciones culturales de los pueblos originarios a través del tiempo, fortaleciendo así su identidad;
 
-> <small>(ADICIONADA, B.O. 10 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
 
-XXVI.- Turismo de deporte motor fuera de camino: La actividad turística relacionada con la práctica de campeonatos, seriales, exposiciones y demostraciones relativas a las carreras con vehículos acondicionados para transitar fuera de camino en ambiente de terreno natural, ya sea en desierto, dunas, trepadores en rocas, arrancones en pista de arena caracterizados por no circular sobre carreteras de concreto o caminos de asfalto.
+XXVI.- Turismo de deporte motor fuera de camino: La actividad turística relacionada con la práctica de campeonatos, seriales, exposiciones y demostraciones relativas a las carreras con vehículos acondicionados para transitar fuera de camino en ambiente de terreno natural ya sea en desierto, dunas, trepadores en rocas, arrancones en pista de arena caracterizados por no circular sobre carreteras de concreto o caminos de asfalto; y
+
+> <small>(ADICIONADA, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+XXVII.- Ruta Turística.- Es un circuito temático o geográfico que se basa en un patrimonio natural o cultural de una zona y se marca sobre el terreno o aparece en los mapas. La Secretaría constituirá las rutas turísticas tomando en cuenta a los municipios.
 
 ## TÍTULO SEGUNDO. DE LA CONCURRENCIA Y COMPETENCIA DE AUTORIDADES
 
@@ -179,9 +199,17 @@ II.- Integrar y presidir el Consejo;
 
 III.- Celebrar convenios en materia turística conforme a lo dispuesto en la Leyes General de Turismo y Estatal, respectivamente;
 
-IV.- Expedir mediante decreto la Declaratoria de Zonas de Desarrollo Turístico, a propuesta de la Secretaría; y
+> <small>(REFORMADA, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
 
-V.- Formular, ejecutar y evaluar el Programa Estatal de Turismo, con la participación de los Municipios, conforme a las directrices previstas en el Plan Estatal de Desarrollo.
+IV.- Expedir mediante decreto la Declaratoria de Zonas de Desarrollo Turístico, a propuesta de la Secretaría;
+
+> <small>(REFORMADA, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+V.- Formular, ejecutar y evaluar el Programa Estatal de Turismo, con la participación de los Municipios, conforme a las directrices previstas en el Plan Estatal de Desarrollo; y
+
+> <small>(ADICIONADA, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+VI.- Concertar con los sectores privado y social las acciones tendientes a detonar programas a favor de la actividad turística.
 
 ### CAPÍTULO II. De la Secretaría
 
@@ -191,9 +219,13 @@ V.- Formular, ejecutar y evaluar el Programa Estatal de Turismo, con la particip
 
 Para efecto de dar cumplimiento a la presente Ley, corresponde a la Secretaría, además de las facultades previstas en el artículo 9 de la Ley General de Turismo, las siguientes:
 
-I.- Conducir la política de información y difusión en materia turística;
+> <small>(REFORMADA, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
 
-II.- Instrumentar las acciones de promoción de las actividades y destinos turísticos con que cuenta cada Municipio;
+I.- Conducir la política de información y difusión en materia turística, debiendo solicitar información a los prestadores de servicios turísticos y demás actores en el sector, con la finalidad de observar, evaluar y generar estadística confiable en materia turística en el Estado;
+
+> <small>(REFORMADA, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+II.- Instrumentar acciones de promoción de las actividades y destinos turísticos con que cuenta cada Municipio, en especial, en las localidades declaradas pueblos mágicos, para lo cual se coordinará conjuntamente con otras dependencias y entidades de la Administración Pública Estatal y con los Ayuntamientos, para la implementación de programas y proyectos especiales que permitan fortalecer su desarrollo turístico;
 
 III.- Diseñar, ejecutar y evaluar los programas de investigación sobre las zonas de turismo;
 
@@ -219,11 +251,19 @@ XIII.- Promover el patrimonio histórico, artístico y cultural del Estado de ac
 
 XIV.- Coordinarse con la Procuraduría Federal del Consumidor, a fin de que ésta garantice los derechos de las y los turistas;
 
+> <small>(REFORMADA, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
 XV.- Promover ante el Banco Nacional de Obras y Servicios y Nacional Financiera, el otorgamiento de créditos para las entidades públicas y los prestadores de servicios turísticos;
 
 XVI.- Coordinarse con las dependencias y entidades competentes de la Administración Pública Federal, Estatal y Municipal, en acciones relativas a salvaguardar o en su caso, restablecer la actividad turística cuando haya sido considerablemente afectada por fenómenos naturales; y
 
-XVII.- Presentar al Ejecutivo Estatal los proyectos de declaración de Zona de Desarrollo Turístico Local.
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+XVII.- Crear y actualizar el Atlas Turístico Estatal que contenga información integral del Estado, haciendo uso de los avances tecnológicos; y
+
+> <small>(ADICIONADA, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+XVIII.- Las demás que le confieren las disposiciones legales y reglamentos aplicables, en materia turística.
 
 ### CAPÍTULO III. De los Municipios
 
@@ -245,9 +285,23 @@ V.- Celebrar convenios en materia turística conforme a lo previsto en la normat
 
 VI.- Instalar y operar los módulos de información turística, brindando orientación y asistencia al turista y canalizando sus quejas ante la autoridad competente; con guías turísticas y personal capacitado para atender al turista en emergencias;
 
-VII.- Vigilar en coordinación con la Secretaría que la infraestructura turística se conserve en buenas condiciones; y proponer a esta las medidas para mejorarla; y
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 1 DE SEPTIEMBRE DE 2015)</small>
 
-VIII.- Coordinarse con la Secretaría y el Instituto Sudcaliforniano de Cultura, para la promoción y fomento del turismo en sus distintas modalidades.
+VII.- Vigilar en coordinación con la Secretaría que la infraestructura turística se conserve en buenas condiciones, y proponer a ésta las medidas para mejorarla, particularmente, el correspondiente a las localidades que cuentan con la declaratoria de pueblos mágicos;
+
+> <small>(REFORMADA, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+VIII.- Coordinarse con la Secretaría y el Instituto Sudcaliforniano de Cultura, para la promoción y fomento del turismo en sus distintas modalidades; y
+
+> <small>(ADICIONADA, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+IX.- Concertar con los sectores privado y social y/o a nivel intermunicipal las acciones tendientes a detonar programas a favor de la actividad turística.
+
+> <small>(ADICIONADO, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 8 Bis.
+
+Los Municipios podrán suscribir entre sí convenios o acuerdos de coordinación y colaboración administrativas, y/o asociarse, con el propósito de atender y resolver problemas comunes de índole turística y ejercer sus atribuciones a través de las instancias que al efecto determinen.
 
 ### CAPÍTULO IV. De los Consejos Consultivos de Turismo
 
@@ -391,29 +445,71 @@ El Decreto que se emita para la declaratoria de Zonas de Desarrollo Turístico L
 
 > <small>(ADICIONADO, B.O. 31 DE JULIO DE 2012)</small>
 
-Artículo 20 BIS.- Para los efectos de este Capítulo, los Ayuntamientos contaran con un Comité Municipal de Zonas de Prioridad Turística, mismo que será presidido por el Titular de la Dirección de Turismo Municipal, quien fungirá como enlace con la Secretaría de Turismo del Estado y a su vez, enlace y coordinador con la iniciativa privada, que permita crear un plan de manejo profesional e institucional de las Zonas de Prioridad Turística.
+###### Artículo 20 Bis.
+
+Para los efectos de este Capítulo, los Ayuntamientos contaran con un Comité Municipal de Zonas de Prioridad Turística, mismo que será presidido por el Titular de la Dirección de Turismo Municipal, quien fungirá como enlace con la Secretaría de Turismo del Estado y a su vez, enlace y coordinador con la iniciativa privada, que permita crear un plan de manejo profesional e institucional de las Zonas de Prioridad Turística.
 
 Sera objetivo fundamental del Comité, delimitar las Zonas de Prioridad Turística en los Municipios, así como la creación de un programa que contemple la conservación de los andadores, cruce de peatones seguros, limpios, libres y sin obstáculos que faciliten el tránsito de personas con discapacidad, baños públicos, así como establecer áreas libres de vehículos, vigilancia pública, mantener las vialidades en estado óptimo, guarniciones pintadas, jardinería bien cuidada, iluminación en calles siempre funcionando, contar con señalamientos necesarios para la adecuada orientación de los turistas, tanto en la vialidad vehicular como peatonal, módulos de información y suficientes depósitos de basura en diversos puntos de la zona de prioridad turística, estableciendo para ello un programa nocturno de recolección de basura, misma que podrá ser reforzada con campañas de limpieza, que pueden realizarse en coordinación con los diversos prestadores de servicios turísticos.
 
+> <small>(ADICIONADO, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+Las localidades declaradas pueblos mágicos de acuerdo con la legislación federal en la materia, tendrán acceso a apoyos extraordinarios, que serán independientes a las partidas presupuestales ordinarias que se le asignen en los Presupuestos de Egresos del Estado y de los Municipios. Dichas partidas sólo podrán destinarse a los programas y proyectos que se implementen para tal fin.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+### CAPITULO V. ATLAS TURÍSTICO DE BAJA CALIFORNIA SUR
+
+> <small>(ADICIONADO, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 20 Ter.
+
+Para la elaboración del Atlas Turístico de Baja California Sur, la Secretaría se coordinará con otras dependencias e instituciones y en forma concurrente con los municipios del Estado, con los que promoverá la generación de esta herramienta en el ámbito municipal.
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
 ### CAPÍTULO I. De la Promoción Turística
 
-### CAPÍTULO II. Del Fomento a la Actividad Turística
+> <small>(REFORMADO, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+### CAPÍTULO II. Del Fomento a la Actividad Turística, de la Incorporación de la Actividad Turística a las Cadenas Productivas
+
+## TÍTULO CUARTO. DE LA PROMOCIÓN, DEL FOMENTO A LA ACTIVIDAD TURÍSTICA, DE LA INCORPORACIÓN DE LA ACTIVIDAD TURÍSTICA A LAS CADENAS PRODUCTIVAS Y RECONOCIMIENTOS
 
 ### CAPÍTULO III. Del Premio Estatal de Turismo
 
-## TÍTULO CUARTO. DE LA PROMOCIÓN, FOMENTO AL TURISMO Y RECONOCIMIENTOS
-
-### CAPÍTULO IV. Turismo Social
-
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 2012)</small>
-
 ###### Artículo 21.
 
-La Secretaría deberá coordinarse con el Consejo de Promoción Turística de México, con la Secretaría de Turismo del Gobierno Federal, los fideicomisos públicos y las asociaciones de hoteleros, relacionados con la materia turística, para el desarrollo de las campañas de promoción turística del Estado, en el territorio nacional y en el extranjero, en términos de la Ley General de Turismo.
+La Secretaría deberá coordinarse con el Consejo de Promoción Turística de México, con la Secretaría de Turismo del Gobierno Federal y demás dependencias del Gobierno Federal, así como con los gobiernos municipales, los fideicomisos públicos, las asociaciones de hoteleros, prestadores de servicios y particulares, relacionados con la materia turística, para el desarrollo de las campañas de promoción turística del Estado, en el territorio nacional y en el extranjero en los términos de la Ley General de Turismo y de este ordenamiento estatal.
+
+> <small>(ADICIONADO, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 21 Bis.
+
+La promoción turística es el conjunto de actividades, métodos y técnicas que se utilizan para informar y comercializar o recordar acerca de los productos, servicios, destinos y rutas turísticas que se ofrecen o comercializan dentro del Estado, con el objetivo de incrementar la afluencia y derrama económica del turismo local, nacional o internacional.
+
+> <small>(ADICIONADO, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 21 Ter.
+
+La promoción turística comprenderá, entre otros aspectos, los siguientes:
+
+I.- La participación de la Secretaría en eventos, congresos y exposiciones estatales, nacionales e internacionales;
+
+II.- El manejo del Atlas Turístico Estatal;
+
+III.- La promoción de los atractivos naturales y culturales, destinos, rutas turísticas y servicios y productos turísticos que se ofrezcan en el Estado de Baja California Sur y sus Municipios, a nivel nacional o internacional;
+
+IV.- La creación, diseño y elaboración de material informativo, promocional y publicitario de manera corresponsable entre los integrantes del sector;
+
+V.- La promoción de la oferta turística del estado en mercados estratégicos nacionales o internacionales, en coordinación con instituciones u organismos oficiales de México, y
+
+VI.- El apoyo, información y asesoría a los turistas en el estado.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 1 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 22.
 
-La promoción turística deberá incluir los sitios del Estado que no cuenten con un posicionamiento en la actividad, sin embargo, deberán priorizarse aquellos con mayores posibilidades de aprovechamiento turístico, reconocidos en el Programa Estatal de Turismo.
+La promoción turística deberá incluir los sitios del Estado que no cuenten con un posicionamiento en la actividad; sin embargo, deberán priorizarse aquellos con mayores posibilidades de aprovechamiento turístico, reconocidos en el programa estatal de turismo, incluyendo las localidades que cuentan con la declaratoria de pueblos mágicos.
 
 ###### Artículo 23.
 
@@ -427,7 +523,11 @@ En los eventos que señala el artículo anterior, la Secretaría procurará que 
 
 La Secretaría participará en las campañas de promoción turística que ofrece el Estado de Baja California Sur, dirigidas al turismo nacional y extranjero.
 
-### CAPÍTULO V. De la Cultura Turística
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+### CAPÍTULO IV. Turismo Social
+
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 26.
 
@@ -459,17 +559,23 @@ VII.- Turismo Religioso, y
 
 VIII.- Turismo de deporte motor fuera de camino.
 
+> <small>(REFORMADO, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 28.
 
-La Secretaría, coordinará sus acciones con la Secretaría de Desarrollo y Fomento Económico y con las agrupaciones de productores agrícolas, artesanos y artistas, con el fin de crear y fomentar las cadenas productivas y redes de valor en torno a los desarrollos turísticos existentes y nuevos, de manera que se activen las economías local, municipales y regionales.
+La Secretaría en coordinación con la Secretaría de Promoción y Desarrollo Económico del Gobierno del Estado, con los Municipios y con las agrupaciones de productores agrícolas, artesanos y artistas, estimularán, promoverán e impulsarán entre la iniciativa privada y el sector social, la creación y fomento de cadenas productivas y redes de valor en torno a los desarrollos turísticos existentes y nuevos, con el fin de detonar la economía local, regionales y municipales.
+
+Lo anterior, entre otros, a través de estudios sociales y de mercado, tomando en cuenta la información nacional y estatal básica y estratégica del sector Turismo.
+
+> <small>(ADICIONADO, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+Asimismo, la Secretaría promoverá incentivos y auspiciará, según las disponibilidades presupuestales, aquellas inversiones que tengan como objetivo el establecimiento de empresas turísticas, sin perjuicio de las facultades que a la Secretaría de Desarrollo Económico le confiere, la Ley de Fomento para el Desarrollo Económico del Estado.
 
 ###### Artículo 29.
 
 Para los efectos del artículo anterior, la Secretaría gestionará ante las instituciones de educación superior del Estado, los estudios sociales y de mercado necesarios.
 
-### CAPÍTULO VI
-
-> <small>(ADICIONADO, B.O. 10 DE DICIEMBRE DE 2014)</small>
+### CAPÍTULO V. De la Cultura Turística
 
 ###### Artículo 30.
 
@@ -485,7 +591,9 @@ IV.- La promoción del Estado como destino turístico; y
 
 V.- La innovación tecnológica en la prestación de servicios turísticos.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO VI
+
+> <small>(ADICIONADO, B.O. 10 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 31.
 
@@ -499,7 +607,7 @@ Artículo 31 BIS.- La Secretaría, escuchando a los organismos del sector, formu
 
 Artículo 31 TER.- La Secretaría promoverá inversiones que tiendan a incrementar las instalaciones destinadas al turismo social y realizará gestiones ante los prestadores de servicios turísticos, con el objeto de solicitar precios y tarifas preferenciales, así como paquetes que hagan posible el cumplimiento de los objetivos de este capítulo.
 
-### CAPÍTULO II. De los Derechos
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 32.
 
@@ -517,17 +625,17 @@ La Secretaría así como los prestadores de servicios turísticos, transmitirán
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 10 DE DICIEMBRE DE 2014)</small>
 
-### CAPÍTULO III. De las Obligaciones
+### CAPÍTULO II. De los Derechos
 
 ###### Artículo 34 Bis.
 
 Se reconoce al Turismo de Deporte Motor fuera de camino, como una modalidad del Turismo estatal que sirve de herramienta vinculatoria con el mercado internacional, nacional y regional por razón de la migración de grupos de personas a los eventos de campeonatos de competencias, seriales, exposiciones y demostraciones relacionadas con la industria turística automotriz y tecnológica en la materia.
 
-### CAPÍTULO I. De los Derechos
+### CAPÍTULO III. De las Obligaciones
 
 ## TÍTULO QUINTO. DE LA PRESTACIÓN DE SERVICIOS TURÍSTICOS
 
-### CAPÍTULO II. De sus Obligaciones
+### CAPÍTULO I. De los Derechos
 
 ###### Artículo 35.
 
@@ -559,7 +667,7 @@ VII.- Empresas de sistema de intercambio de servicios turísticos.
 
 La Secretaría vigilará que los servicios turísticos se presten con eficiencia, calidad y oportunidad, en apego a lo dispuesto por esta ley, sin perjuicio de la aplicación de otros ordenamientos federales, estatales y municipales.
 
-### CAPÍTULO III. De la Protección al Turista
+### CAPÍTULO II. De sus Obligaciones
 
 ###### Artículo 39.
 
@@ -587,7 +695,7 @@ X.- Ser incluidos en catálogos, directorios y guías turísticas, de conformida
 
 XI.- Participar en los programas de capacitación turística que promueva o lleve a cabo la Secretaría.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. De la Protección al Turista
 
 ###### Artículo 40.
 
@@ -613,7 +721,7 @@ IX.- Cooperar con las autoridades federales, estatales y municipales, en las inv
 
 ## TÍTULO SEXTO. DE LAS Y LOS TURISTAS
 
-### CAPÍTULO I. De la Competitividad y Profesionalización en la Actividad Turística
+### CAPÍTULO ÚNICO
 
 ###### Artículo 41.
 
@@ -633,7 +741,7 @@ VI.- Disfrutar el libre acceso y goce de todo el patrimonio turístico, así com
 
 VII.- Contar con las condiciones de higiene y seguridad de sus personas y bienes en las instalaciones y servicios turísticos, en los términos establecidos en la legislación correspondiente.
 
-### CAPÍTULO II. De la Capacitación Turística
+### CAPÍTULO I. De la Competitividad y Profesionalización en la Actividad Turística
 
 ###### Artículo 42.
 
@@ -647,7 +755,7 @@ III.- Acatar las prescripciones particulares de establecimientos mercantiles y e
 
 IV.- Pagar el precio de los servicios utilizados en el momento de la presentación de la factura o del documento que ampare el pago en el plazo pactado.
 
-### CAPÍTULO III. De la Certificación de las y los Prestadores de Servicios Turísticos
+### CAPÍTULO II. De la Capacitación Turística
 
 ###### Artículo 43.
 
@@ -679,7 +787,7 @@ Los prestadores de servicios que de conformidad con las disposiciones jurídicas
 
 ## TÍTULO SÉPTIMO. DEL REGISTRO NACIONAL DE TURISMO
 
-### CAPÍTULO I. De las Sanciones
+### CAPÍTULO III. De la Certificación de las y los Prestadores de Servicios Turísticos
 
 ###### Artículo 48.
 
@@ -695,7 +803,7 @@ La base de datos de las y los prestadores de servicios turísticos del Estado, s
 
 ## TÍTULO OCTAVO. DE LA CAPACITACIÓN Y CERTIFICACIÓN DE LAS Y LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
-### CAPÍTULO II. Del Recurso de Reconsideración
+### CAPÍTULO I. De las Sanciones
 
 ###### Artículo 51.
 
@@ -722,6 +830,8 @@ Además, promoverá el establecimiento de centros de educación y capacitación 
 ###### Artículo 53.
 
 La Secretaría, en coordinación con la Secretaría del Trabajo y Previsión Social del Gobierno del Estado, serán las instancias responsables para establecer los lineamientos, contenidos y alcances en materia, turística, a fin de promover y facilitar la certificación de competencias laborales.
+
+### CAPÍTULO II. Del Recurso de Reconsideración
 
 ###### Artículo 54.
 
@@ -842,3 +952,17 @@ B.O. 10 DE DICIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 1 DE SEPTIEMBRE DE 2015.
+
+DECRETO 2289, POR EL QUE SE REFORMAN LAS FRACCIONES XI Y XII DEL ARTÍCULO 3, LAS FRACCIONES XXV Y XXVI EL ARTÍCULO 5, LA FRACCIÓN IV Y V DEL ARTÍCULO 6, LA FRACCIÓN I Y XV DEL ARTÍCULO 7, LA FRACCIÓN VII Y VIII DEL ARTÍCULO 8, EL ARTÍCULO 21 , EL ARTÍCULO 28, LA DENOMINACIÓN DEL TÍTULO CUARTO Y LA DENOMINACIÓN DEL CAPÍTULO II DEL MISMO TÍTULO CUARTO; Y SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 3, SE ADICIONA LA FRACCIÓN I BIS Y LA FRACCIÓN XXVII AL ARTÍCULO 5, LA FRACCIÓN VI AL ARTÍCULO 6, LAS FRACCIONES XVII Y XVIII AL ARTÍCULO 7, LA FRACCIÓN IX AL ARTÍCULO 8, EL ARTÍCULO 8 BIS, UN CAPÍTULO QUINTO AL TÍTULO TERCERO DENOMINADO "ATLAS TURÍSTICO DE BAJA CALIFORNIA SUR" CONTENIENDO EL ARTÍCULO 20 TER, LOS ARTÍCULOS 21 BIS Y 21 TER A LA LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 1 DE SEPTIEMBRE DE 2015.
+
+DECRETO 2290, POR EL QUE SE REFORMAN LAS FRACCIONES XII Y XIII DEL ARTÍCULO 3, LA FRACCIÓN II DEL ARTÍCULO 7 Y SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 3, LA FRACCIÓN VII DEL ARTÍCULO 8 Y EL ARTÍCULO 22; SE ADICIONAN UN TERCER PÁRRAFO AL ARTÍCULO 20 BIS Y UN TERCER PÁRRAFO AL ARTÍCULO 28, TODOS DE LA LEY DE TURISMO PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo.- En el Presupuesto de Egresos del Gobierno del Estado para el Ejercicio Fiscal 2017, deberán incluirse las partidas presupuestales necesaria para los pueblos mágicos, a efecto de dar cumplimiento a lo ordenado por este Decreto.
