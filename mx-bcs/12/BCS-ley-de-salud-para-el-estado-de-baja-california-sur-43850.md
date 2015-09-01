@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-salud-para-el-estado-de-baja-california-sur-43850"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2015-07-10"
+last_updated: "2015-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el día 31 de diciembre de 2004.
 
@@ -663,7 +663,9 @@ La atención materna infantil tiene carácter prioritario y obligatorio con cali
 
 I.- La atención de la mujer durante el embarazo, parto y puerperio;
 
-II.- La atención infantil que implica la asistencia desde el momento de su concepción, nacimiento, así como el control y seguimiento de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna;
+> <small>(REFORMADA, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+II.- La atención infantil que implica la asistencia desde el momento de su concepción, nacimiento, así como el control y seguimiento de su crecimiento y desarrollo integral, incluyendo la promoción de la vacunación oportuna, atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas, y en su caso atención, que incluya la aplicación de la prueba del tamiz cardiológico por oximetría de pulso para la detección de cardiopatías congénitas graves;
 
 III.- La atención del menor, del preescolar, y escolar en los centros educativos; y
 
@@ -3252,3 +3254,7 @@ B.O. 10 DE JULIO DE 2015.
 ###### ARTICULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B. O. 1 DE SEPTIEMBRE DE 2015.
+
+Único. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
