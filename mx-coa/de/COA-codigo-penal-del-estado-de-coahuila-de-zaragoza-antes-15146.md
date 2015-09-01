@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2015-07-21"
+last_updated: "2015-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -4441,6 +4441,10 @@ SANCIONES Y FIGURA TÍPICA DE CONDUCCIÓN DE VEHÍCULOS EN ESTADO INDEBIDO. Se a
 
 SANCIÓN AGRAVADA TRATÁNDOSE DE CONDUCTORES DE VEHÍCULOS DE SERVICIO PÚBLICO. Se aplicará prisión de seis meses a tres años y multa, en los casos de los delitos a que se refiere este capítulo: Si al cometer el delito el conductor realiza un servicio público de transporte de personas y/o de cosas.
 
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 287 BIS. SANCIONES Y FIGURA TÍPICA DE FACILITACIÓN DE VEHÍCULO A MENORES DE EDAD PARA SU CONDUCCIÓN. Se aplicará prisión de seis meses a dos años y multa: a quien facilite a un menor de edad cualquier tipo de vehículo automotriz, que con su conducción ocasione daños, lesiones, o cause la muerte de alguna persona.
+
 ###### ARTÍCULO 288.
 
 SANCIÓN GENERICA RESPECTO A LOS DELITOS ANTERIORES. En los delitos que prevé este capítulo, se impondrá, además, suspensión de derechos para conducir vehículos hasta por tres años.
@@ -6938,3 +6942,13 @@ P.O. 24 DE ABRIL DE 2015.
 P.O. 21 DE JULIO DE 2015.
 
 ÚNICO.- El presente Decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las licencias de conducir para menores expedidas antes de la entrada en vigor de este decreto, seguirán vigentes hasta su fecha de expiración.
+
+TERCERO.- No se aplicarán las sanciones del tipo penal previsto en esta reforma, a las personas que faciliten un vehículo a un menor de edad que cuente con licencia vigente expedida por autoridad competente, antes de la fecha de la entrada en vigor del presente decreto.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan a este decreto.
