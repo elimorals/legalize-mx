@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-proteccion-civil-para-el-estado-de-baja-california-8988"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-15"
-last_updated: "2012-09-30"
+last_updated: "2015-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE SEPTIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN DE RIESGOS PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 1 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE SEPTIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el miércoles 15 de mayo de 1996.
 
@@ -49,7 +51,7 @@ Las disposiciones de la presente ley son de orden público, interés social y ob
 
 Será propósito fundamental de esta ley, fomentar la participación ciudadana junto con el gobierno y municipios a fin de establecer las condiciones adecuadas para vivir con mayor seguridad y mejor protección, ante las amenazas de riesgo geológico; químico, sanitario, hidrometeorológico y sociorganizativo (sic).
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO] , B.O. 31 DE DICIEMBRE DEL 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], B.O. 31 DE DICIEMBRE DEL 2000)</small>
 
 ###### Artículo 2.
 
@@ -804,3 +806,15 @@ B.O. 10 DE NOVIEMBRE DE 2005.
 B.O. 30 DE SEPTIEMBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 1 DE SEPTIEMBRE DE 2015.
+
+Artículo Primero.- La presente Ley entrara en vigor al día siguiente de su Publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo.- El Titular del Poder Ejecutivo del Estado y los Ayuntamientos, emitirán el reglamento correspondiente a esta Ley, dentro de los 180 días posteriores a la entrada en vigor de esta Ley.
+
+Artículo Tercero.- La presente Ley abroga a la Ley de Protección Civil para el Estado de Baja California Sur, expedida mediante Decreto 1086 publicado en el Boletín Oficial del Gobierno del Estado número 19, de fecha 15 de mayo de 1996, así como todas y cada una de sus reformas posteriores a su expedición.
+
+Artículo Cuarto.- Las disposiciones reglamentarias y administrativas de protección civil se seguirán aplicando en lo que no se opongan a esta Ley, en tanto se emite el Reglamento.
+
+Artículo Quinto.- Los desastres y las emergencias que hayan ocurrido con anterioridad a la entrada en vigor de esta Ley, se atenderán conforme a los recursos financieros y a las disposiciones administrativas vigentes a la fecha en que sucedieron.
