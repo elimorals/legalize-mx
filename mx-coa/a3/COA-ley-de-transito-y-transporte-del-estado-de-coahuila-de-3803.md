@@ -4,7 +4,7 @@ identifier: "COA-ley-de-transito-y-transporte-del-estado-de-coahuila-de-3803"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-19"
-last_updated: "2014-09-23"
+last_updated: "2015-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3803&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 19 de enero de 1996.
 
@@ -189,33 +189,19 @@ Las licencias a que se refiere el artículo anterior se expedirán para las clas
 
 Las licencias de conducir tendrán una vigencia de dos años y, en su caso, podrán ser renovadas a solicitud del interesado, previa la observancia de los requisitos previstos por esta Ley, su Reglamento y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 17.
 
-Para obtener licencia de conducir, los interesados deberán ser mayores de dieciocho años, haber acreditado los exámenes teórico y práctico de manejo aplicado por la Subsecretaría, así como comprobar su buen estado de salud y satisfacer los demás requisitos que determine esta Ley, su Reglamento y otras disposiciones aplicables.
+Para obtener licencia de conducir, los interesados deberán tener dieciocho años cumplidos, haber acreditado los exámenes teórico y práctico de manejo aplicado por la Subsecretaría, así como comprobar su buen estado de salud y satisfacer los demás requisitos que determine esta Ley, su Reglamento y otras disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+Antes de expedir una licencia de conducir se preguntará al interesado que sea mayor de 18 años, si consiente o no consiente en donar sus órganos en caso de muerte, sea o no sea ésta con motivo del tránsito de vehículos, con el objeto de auxiliar a personas que médicamente lo necesiten, siempre y cuando el implante se realice sin fines de lucro. En caso afirmativo, se le explicará al interesado los casos en los que las leyes de salud y el código de procedimientos penales permiten los implantes de órganos y se le entregará por escrito la información al respecto.
 
-Antes de expedir una licencia de conducir se preguntará al interesado que sea mayor de 18 años, si consiente o no consiente en donar sus órganos en caso de muerte, sea o no sea esta con motivo del transito de vehículos, con el objeto de auxiliar a personas que médicamente lo necesiten, siempre y cuando el implante se realice sin fines de lucro. En caso afirmativo, se le explicará al interesado los casos en los que las leyes de salud y el código de procedimientos penales permiten los implantes de órganos y se le entregará por escrito la información al respecto.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
-
-Si el interesado consiente en donar sus órganos, deberá firmar constancia al respecto. En tales casos, siempre se asentará en las licencias de conducir el consentimiento, con la leyenda "sí consiento en donar mis órganos" y se guardará la documentación que lo acredite.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+Si el interesado consiente en donar sus órganos, deberá firmar constancia al respecto. En tales casos, siempre se asentará en las licencias de conducir el consentimiento, con la leyenda "sí consiento en donar mis órganos'' y se guardará la documentación que lo acredite.
 
 Cuando muera una persona y haya la posibilidad de que el implante de sus órganos sea útil médicamente, será suficiente la constancia que aparezca en la licencia del conductor para que se proceda al implante, siempre y cuando se cumpla con las condiciones de este artículo y con las demás que establezcan las leyes.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
-
 El interesado podrá revocar en cualquier momento la donación de sus órganos y para ello será suficiente que aquél lo comunique por escrito a la Secretaría y autoridades de salud. Recibida la comunicación, de inmediato se dará de baja al interesado del banco de donadores de órganos y se reimprimirá su licencia sin costo a fin de que se elimine la leyenda de donador de órganos que aparece en la misma.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
-
-Cuando el interesado sea menor de 18 años de edad, será necesario el consentimiento expreso y por escrito de cualquiera de sus padres para que se proceda en los términos de los párrafos anteriores.
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
 Las autoridades de salud se coordinarán con las de tránsito para que estas tengan disponible la información sobre donación e implantes de órganos que puedan requerir los interesados y, además, para que las primeras puedan formar los bancos de donadores de órganos. Cuando se requiera proceder a un implante con base en la leyenda que aparezca en la licencia de conducir, siempre se verificará si, además, existe el consentimiento por escrito y en debida forma, así como si no hay revocación del mismo, sin perjuicio de que también se cumpla con las restantes condiciones y requisitos que establezcan las leyes para los implantes de órganos.
 
@@ -223,13 +209,7 @@ Los demás requisitos y especificaciones relativas a la expedición y cancelaci�
 
 ###### ARTICULO 18.
 
-Las personas menores de dieciocho años y mayores de dieciséis podrán obtener licencia para conducir motocicletas y vehículos del servicio particular. Para tal efecto, deberán satisfacer los requisitos que señale esta Ley, su Reglamento y demás disposiciones aplicables, así como acreditar que cuentan con el consentimiento de quienes ejerzan sobre ellos la patria potestad.
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
-
-Las personas que ejerzan la patria potestad sobre los menores a que se refiere el párrafo anterior, deberán suscribir de manera conjunta con el mismo la solicitud respectiva, así como presentar la póliza que ampare la contratación de un seguro de daños contra terceros y se constituirán en solidarios de la responsabilidad en que incurra el menor, debiendo presentar para tal efecto una carta responsiva suscrita ante notario público, requisitos sin los cuales no se expedirá la licencia de conducir correspondiente.
-
-Esta clase de licencias tendrán una vigencia de un año, sin perjuicio de ser suspendida o cancelada si el menor incurre en alguna de las infracciones que señala la presente Ley, su Reglamento y demás disposiciones aplicables.
+(DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2015)
 
 ###### ARTICULO 19.
 
@@ -241,9 +221,7 @@ I.- Motociclista: se otorgará a personas que pretendan conducir cualquier tipo 
 
 II.- Automovilista particular: se expedirá a personas que pretendan manejar automóviles del servicio particular;
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
-
-III.- Menor de edad: se expedirá a las personas menores de dieciocho años y mayores de dieciséis que pretendan conducir automóviles de servicio particular o motocicleta menor a 125 centímetros cúbicos;
+III.- (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2015)
 
 > <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1628,3 +1606,13 @@ El presente decreto entrará en vigor al día siguiente de su Publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las licencias de conducir para menores expedidas antes de la entrada en vigor de este decreto, seguirán vigentes hasta su fecha de expiración.
+
+TERCERO.- No se aplicarán las sanciones del tipo penal previsto en esta reforma, a las personas que faciliten un vehículo a un menor de edad que cuente con licencia vigente expedida por autoridad competente, antes de la fecha de la entrada en vigor del presente decreto.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan a este decreto.
